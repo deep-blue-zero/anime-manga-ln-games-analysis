@@ -1,0 +1,214 @@
+{
+  "schema": "tomozaki_six_model_administrative_derivations/v1",
+  "core_changes_permitted": false,
+  "model_derivations": [
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_pilot_models_20261103/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 10391,
+        "sha256": "d3df13a386dd9a3d0dbfa58f04fc77197e44697334950fcfde1f891fd203f550"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11801,
+        "sha256": "82e5e618b897fab2b45f3a0cb65194c610c12b64a9fd72b79ac32c5ff0fd5551"
+      },
+      "analytical_core_definition": "All original bytes after the closing YAML delimiter, including original leading blank lines and historical review-stage closing prose.",
+      "original_core_bytes": 9510,
+      "original_core_sha256": "c815345149145e82dcd781d78db85810a7a6ad5a4155cadf804d5fe888b9e9f2",
+      "rendered_core_sha256": "c815345149145e82dcd781d78db85810a7a6ad5a4155cadf804d5fe888b9e9f2",
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "generation: V1_CONSTRUCTION_CANDIDATE": "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": "model_core_version: V1\nadministrative_render_date: 2026-11-03\nsupersedes: []\nsuperseded_by: []\nintegration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\nevidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+      "inserted_current_wrapper": "\n\n> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n",
+      "complete_unified_diff": "--- historical_original/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,13 +1,13 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_NARITA_B01_MODEL_V1\n-generation: V1_CONSTRUCTION_CANDIDATE\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n subject: Narita Tsugumi / Gumi / 成田つぐみ\n intended_repository_path: series/tomozaki/07 Character Reconstruction Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n@@ -16,8 +16,18 @@\n root_admission_id: B01\n dependency_packet: TOMOZAKI_SIX_PILOT_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_SIX_PILOT_PREREG_20261103_V1\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n+\n \n # Narita — choosing ease without deleting work, company or agency\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_pilot_models_20261103/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 10390,
+        "sha256": "51d2c37d5af36354dea694b38ef8210539c7a87bdc6cf218d2dcc2b494bb3894"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11800,
+        "sha256": "32b7cbc68552f38fe30c03f71e78934af1010e2dcf39b77a5cc86135e2f11d4b"
+      },
+      "analytical_core_definition": "All original bytes after the closing YAML delimiter, including original leading blank lines and historical review-stage closing prose.",
+      "original_core_bytes": 9544,
+      "original_core_sha256": "a61e081e7510b5da811c16006f51ac0c869fc63b75f9212c33a479971c42bce8",
+      "rendered_core_sha256": "a61e081e7510b5da811c16006f51ac0c869fc63b75f9212c33a479971c42bce8",
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "generation: V1_CONSTRUCTION_CANDIDATE": "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": "model_core_version: V1\nadministrative_render_date: 2026-11-03\nsupersedes: []\nsuperseded_by: []\nintegration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\nevidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+      "inserted_current_wrapper": "\n\n> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n",
+      "complete_unified_diff": "--- historical_original/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,13 +1,13 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_TAKEI_B02_MODEL_V1\n-generation: V1_CONSTRUCTION_CANDIDATE\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n subject: Takei / 竹井\n intended_repository_path: series/tomozaki/07 Character Reconstruction Models/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n@@ -16,8 +16,18 @@\n root_admission_id: B02\n dependency_packet: TOMOZAKI_SIX_PILOT_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_SIX_PILOT_PREREG_20261103_V1\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n+\n \n # Takei — available participation with unequal information and recipient effects\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_pilot_models_20261103/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11528,
+        "sha256": "71114520bbe8c7542621e356d155a3bd1ce6815adc0514399d58adf885ca5932"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 12938,
+        "sha256": "ae7bb5297fdf7706c2b16fd249a4ca1ffcaa9b568a844ee7f552268123f81318"
+      },
+      "analytical_core_definition": "All original bytes after the closing YAML delimiter, including original leading blank lines and historical review-stage closing prose.",
+      "original_core_bytes": 10655,
+      "original_core_sha256": "4c3330aa2c5fa11cc661d2078395a60b68e374e5017bcb976627657d100abd7c",
+      "rendered_core_sha256": "4c3330aa2c5fa11cc661d2078395a60b68e374e5017bcb976627657d100abd7c",
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "generation: V1_CONSTRUCTION_CANDIDATE": "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": "model_core_version: V1\nadministrative_render_date: 2026-11-03\nsupersedes: []\nsuperseded_by: []\nintegration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\nevidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+      "inserted_current_wrapper": "\n\n> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n",
+      "complete_unified_diff": "--- historical_original/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,13 +1,13 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_NAKAMURA_B04_MODEL_V1\n-generation: V1_CONSTRUCTION_CANDIDATE\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n subject: Nakamura Shuji / 中村修二\n intended_repository_path: series/tomozaki/07 Character Reconstruction Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n@@ -16,8 +16,18 @@\n root_admission_id: B04\n dependency_packet: TOMOZAKI_SIX_PILOT_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_SIX_PILOT_PREREG_20261103_V1\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n+\n \n # Nakamura — seriousness and particular attachment through a rough interface\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/3/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_pilot_models_20261103/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11023,
+        "sha256": "e3172cc6d87c4531056c17b61ec7fb0ffe530a4f63d6e7842b174d5943e7d6dd"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 12433,
+        "sha256": "162f03e8719d6d2343ef20c6cf9cb034fc44f1515770e590c216c76f6c6140c9"
+      },
+      "analytical_core_definition": "All original bytes after the closing YAML delimiter, including original leading blank lines and historical review-stage closing prose.",
+      "original_core_bytes": 10156,
+      "original_core_sha256": "2e68a4ad114e5fcba136523077f88e030d80b55caa811a882420254dab0eb924",
+      "rendered_core_sha256": "2e68a4ad114e5fcba136523077f88e030d80b55caa811a882420254dab0eb924",
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "generation: V1_CONSTRUCTION_CANDIDATE": "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": "model_core_version: V1\nadministrative_render_date: 2026-11-03\nsupersedes: []\nsuperseded_by: []\nintegration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\nevidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+      "inserted_current_wrapper": "\n\n> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n",
+      "complete_unified_diff": "--- historical_original/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,13 +1,13 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_KONNO_B03_MODEL_V1\n-generation: V1_CONSTRUCTION_CANDIDATE\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n subject: Konno Erika / 紺野エリカ\n intended_repository_path: series/tomozaki/07 Character Reconstruction Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n@@ -16,8 +16,18 @@\n root_admission_id: B03\n dependency_packet: TOMOZAKI_SIX_PILOT_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_SIX_PILOT_PREREG_20261103_V1\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n+\n \n # Konno — control of the occasion with recipient-specific flexibility\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/4/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_pilot_models_20261103/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11925,
+        "sha256": "77792dda46c7f0241c21b27a710874055c6beeebc2093910f80b8b058e477fde"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 13335,
+        "sha256": "631232f289cc03d4bd2bcef5bd80e0bd28486ad3e78e963c069d584dca86b7c2"
+      },
+      "analytical_core_definition": "All original bytes after the closing YAML delimiter, including original leading blank lines and historical review-stage closing prose.",
+      "original_core_bytes": 11050,
+      "original_core_sha256": "e4d7da2cb9cba74ab6ae61952df429a06ff15cd5d64f7afcd24f17a01a4bf9cb",
+      "rendered_core_sha256": "e4d7da2cb9cba74ab6ae61952df429a06ff15cd5d64f7afcd24f17a01a4bf9cb",
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "generation: V1_CONSTRUCTION_CANDIDATE": "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": "model_core_version: V1\nadministrative_render_date: 2026-11-03\nsupersedes: []\nsuperseded_by: []\nintegration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\nevidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+      "inserted_current_wrapper": "\n\n> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n",
+      "complete_unified_diff": "--- historical_original/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,13 +1,13 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_MITSU_B06_MODEL_V1\n-generation: V1_CONSTRUCTION_CANDIDATE\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n subject: Umayahara Mitsu / 馬屋原ミツ\n intended_repository_path: series/tomozaki/07 Character Reconstruction Models/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n@@ -16,8 +16,18 @@\n root_admission_id: B06\n dependency_packet: TOMOZAKI_SIX_PILOT_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_SIX_PILOT_PREREG_20261103_V1\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n+\n \n # Mitsu — preserve usable work and custody through discriminating access\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/5/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_pilot_models_20261103/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 12274,
+        "sha256": "354dab959a1f298c398c33ce53efaa76301dbe4c8a727a4b7c54e970d3d41943"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 13684,
+        "sha256": "871d052379efc13872c5be3b9f25c7987edf96d1e193f18e360e205a6051b107"
+      },
+      "analytical_core_definition": "All original bytes after the closing YAML delimiter, including original leading blank lines and historical review-stage closing prose.",
+      "original_core_bytes": 11419,
+      "original_core_sha256": "06d862c8eb1f239db6f7bf073cc84a3f4b3bda019b9d846900efb9552275ae10",
+      "rendered_core_sha256": "06d862c8eb1f239db6f7bf073cc84a3f4b3bda019b9d846900efb9552275ae10",
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "generation: V1_CONSTRUCTION_CANDIDATE": "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": "model_core_version: V1\nadministrative_render_date: 2026-11-03\nsupersedes: []\nsuperseded_by: []\nintegration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\nevidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json",
+      "inserted_current_wrapper": "\n\n> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n",
+      "complete_unified_diff": "--- historical_original/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,13 +1,13 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_ASHIGARU_B08_MODEL_V1\n-generation: V1_CONSTRUCTION_CANDIDATE\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n subject: Ashigaru / 足軽\n intended_repository_path: series/tomozaki/07 Character Reconstruction Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n@@ -16,8 +16,18 @@\n root_admission_id: B08\n dependency_packet: TOMOZAKI_SIX_PILOT_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_SIX_PILOT_PREREG_20261103_V1\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted the exact V1 core below after individual source-sufficiency/admission, 24 producer traces and 30 independent traces. This administrative rendering preserves the complete original analytical body. Construction-stage statements inside that body that review or root acceptance were pending describe the historical candidate stage; the current acceptance and its limits are recorded in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_INTEGRATION_REVIEW.md) and [portable evidence packet](../08%20Audits%20and%20Manifests/TOMOZAKI_SIX_PILOT_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). This is a manual prose decision/constraint model, validated only for its bounded semantic operation and selective source-derived local text/register controls. It is not primary literary evidence. Exact-head publication is a separate integration step; no blind accuracy, freeform Japanese, full idiolect, acoustic validation, global capability grade or terminal completion is claimed.\n+\n \n # Ashigaru — compete in the actual event and build a public scene with costs\n \n"
+    }
+  ],
+  "artifact_type": "model_administrative_derivation_record",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "This exact public record instance preserves its archived analytical values and identities. It cannot grant wider model authority, primary literary evidence or future publication/main acceptance."
+}

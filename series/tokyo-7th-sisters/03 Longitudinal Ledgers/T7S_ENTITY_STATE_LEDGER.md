@@ -4,29 +4,33 @@ artifact_id: T7S_ENTITY_STATE_LEDGER
 artifact_type: entity_state_ledger
 series: Tokyo 7th Sisters
 generation: V1
-version: "2.1"
+version: "11.161"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: false
-source_boundary: "c20260909-r484; complete native Main EPISODE 1.0 / T7S_B0001–T7S_B0011 / all 91 primary episode documents and all eleven authored choice branches; no later or non-Main story source"
-architecture_lifecycle: INITIAL
+source_boundary: "c20260909-r484; complete native Main through EPISODE NANASUTA / T7S_B0001–T7S_B0079 / 235 primary episode documents plus 87 attached inline movie-transcript occurrences across 86 unique source documents, and first 280 complete i-n-g primary documents / T7S_B0080–T7S_B0181; complete 349 Intimacy primary documents across 49 family portfolios / T7S_B0182–T7S_B0230; all45 complete independent Short messages / T7S_B0231–T7S_B0232 (first3known-exposure, remaining42prospective);12whole LegendBoss documents/6paired chapters throughT7S_B0233, with retained first3native-heading exposure and ordered dialogue freezes;9whole ManyMerryParty201510documents throughT7S_B0234 with actual prospective whole-consumer/entering gate and ordered complete case freezes;3whole independent Birthday portfolios throughT7S_B0235 with genuine prospective consumers/entering and ordered complete text/native/static case freezes;12additional whole independent Birthday portfolios throughT7S_B0236 with genuine prospective complete consumers/entering and actual ordered text/native/static freezes;12additional whole independent Birthday portfolios throughT7S_B0237 under the genuine prospective42image complete-consumer contract and actual ordered case freezes;12additional whole Birthday portfolios throughT7S_B0238 under actual prospective complete consumers and ordered freezes;9additional whole Birthday portfolios throughT7S_B0239 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0240 under actual prospective complete consumers and ordered freezes;2whole Event portfolios throughT7S_B0241 under actual prospective complete consumers and ordered freezes; complete3chapter Event family200240 throughT7S_B0242 under actual prospective consumers and ordered freezes; fifteen complete Event documents in three original five-chapter families200250/200260/200270 throughT7S_B0243 under genuine prospective complete consumers and ordered case/family freezes; fourteen complete Event documents in three original families200280/200290/200300 in5/4/5chapters throughT7S_B0244 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200310/200320/200330 in5/5/5chapters throughT7S_B0245 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200340/200350/200360 in5/5/5chapters throughT7S_B0246 under genuine prospective complete consumers and ordered case/family freezes; eleven complete Event documents in original families200370/200380/200390 in2/5/4chapters throughT7S_B0247 under genuine prospective complete consumers and ordered case/family freezes; fifteen complete Event documents in original families200400/200410/200420 in5/4/6chapters throughT7S_B0248 under genuine prospective complete consumers and ordered case/family freezes; seven complete Event documents in original families200430/200440/200450 in2/1/4chapters throughT7S_B0249 under genuine prospective complete consumers and ordered case/family freezes; five complete Event documents in original families200460/200470/200480 in1/2/2chapters throughT7S_B0250 under genuine prospective complete consumers and ordered case/family freezes; eight complete Event documents in original families200490/200500/200510 in2/2/4chapters throughT7S_B0251 under genuine prospective complete consumers and ordered case/family freezes; three complete Event documents in original single-document families200520/200530/200540 throughT7S_B0252 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200550 throughT7S_B0253 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200560 throughT7S_B0254 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200570 throughT7S_B0255 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200580 throughT7S_B0256 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200590 throughT7S_B0257 under genuine prospective complete consumers and ordered case/family freezes; the complete six-chapter Event family200600 throughT7S_B0258 under genuine prospective complete consumers and ordered case/family freezes; all further non-Main/additional story and2053 semantic sources remain outside"
+architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-10
+last_updated: 2026-11-07
+storage_representation: manifest_bound_components_v1
+storage_manifest: "T7S_ENTITY_STATE_LEDGER_MANIFEST.json"
+logical_artifact_id: T7S_ENTITY_STATE_LEDGER
+
 ---
 
 # Tokyo 7th Sisters entity state ledger
 
 Current route: [CURRENT_STATE_AND_CORPUS_MAP.md](../CURRENT_STATE_AND_CORPUS_MAP.md). Governing pair: [T7S_ANALYTICAL_METHOD.md](../00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md) and [T7S_SYNTHESIS_ARCHITECTURE.md](../00%20Frameworks%20and%20Methods/T7S_SYNTHESIS_ARCHITECTURE.md). Source recovery: [T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md](../00%20Frameworks%20and%20Methods/T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL.md).
 
-This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend only through the complete admitted native Main EPISODE 1.0 horizon. Administrative authority metadata is not literary evidence.
+This ledger began as initialized schema rather than placeholder findings. `INIT-20260909` contained zero analytical records and no seeded fictional psychology, chronology, theme, or identity resolution; that historical fact is retained below. Current literary records extend through the complete admitted native Main EPISODE 1.0, EPISODE.4U, EPISODE 2.0, KARAKURI, EPISODE 3.0, EPISODE 4.0 AXiS, EPISODE 0.0, EPISODE 0.7, EPISODE 5.0, EPISODE 6.0 FINAL, and EPISODE NANASUTA horizons, plus the first 102 complete i-n-g chapters and 349 complete Intimacy primary documents across 49 family portfolios and all45complete independent Short messages throughB0232 (first3known-exposure, remaining42prospective), plus12complete Legend documents/6paired chapters throughB0233; prior exposure is retained. B0234adds the coherent9document ManyMerryParty family, including post-live reports and a later-read earlier live-day/remembered-school perspective; no exact Main chronology is inferred. B0235adds three independent Birthday portfolios: Haru receiving familiar celebration, Xiao choosing temporary respite while renewing training, and Monaka recognizing belonging within a continuing search. Their source/menu order supplies no common year or exact Main chronology. B0236adds twelve further independent Birthday portfolios: Mana, Rona, Honoka, Ei, Sisara, Hina, Nicole, Musubi, Shizuka, Kazumi, Hime and Kyoko. Gratitude can coexist with a request for preparation, refusal, embarrassment, grief, restrained thanks or a chosen exception. Named recipients and reports retain their exact case horizons; illustrations, costume gifts and unfinished future wishes do not supply new participants, assent or completed outcomes. Catalog order supplies no common year or cross-party cause. B0237 adds twelve further Birthday recipients, Shinju through Susu. Specific gratitude retains aptitude doubt, qualified rivalry, happy tears, active hosting, voluntary-welcome correction, remembered craft and play, conditional travel and parental attachment. Murasaki explicitly reports a previous-day Ferb celebration, without independently fixing its annual identity or a wider calendar; the earlier Ferb freeze remains. No request, gift depiction or future wish supplies an omitted answer or completed outcome. B0238 adds twelve Birthday portfolios, Saori through Rui, with particular recognition, qualified gratitude, bodily/self-dressing limits, chosen receiving/play, differentiated learning and unresolved futures. The twins remain distinct, represented figures/cake are not new actors, and overlapping graphic facets supply no extra causal chronology. Earlier Murasaki/Ferb history remains. B0239 adds the final nine Birthday portfolios, Yumeno through Miu. Particular care remains differentiated through correction, negotiated self-presentation, protective performance, chosen receiving and qualified gratitude. Later written Yamai/Saori adjudication is explicitly subsequent to both original freezes; Jersey, unsigned Memoru authors and anonymous S remain unresolved. No universal maturity or exact annual calendar is supplied. B0240 adds two whole Event portfolios, Sweet Seventh Days and its special. Date framing changes Rona’s valued company; a prepared meal makes care reciprocal while the supplement preserves stated objections beside personal reliance. Rona’s established Nicole/Coney knowledge is not first disclosed, and the special’s eating/taste remains later-known than the original first freeze. One exact non-dialogue ending voice carrier is unresolved; all138dialogue WAVs remain unheard. No readiness or exact Main calendar is supplied. B0241 adds independent NewYear/anniversary Event portfolios. Selective recollection, explicit alternative Player responses, reversed timetable reform and differentiated messages retain imperfect knowledge, objections and institutional costs. Player addressee and Coney agency-manager roles stay distinct; two exact command-only ending cues unresolved, all302dialogue plus2opening WAVs unheard. No exact calendar, runtime, readiness or fullAV claim. B0242 adds one complete three-chapter Event family. Differentiated lyric attempts, reciprocal judgment, selection and reported dream support renewed collective work without displayed finallyrics/live. Exact endingvo_special_107_140/P65 unresolved;143availableWAVs unheard. No exactcalendar/runtime/readiness/fullAV claim. B0243 adds three separate complete five-chapter Event families/15documents/562pages. Interview recognition preserves privacy/addressee objections;4U shared image preserves friction and one explicit YouthBpurchase;Kajika outing yields specific enjoyment and conditional care without a completed departure.419available WAVbindinginstances remain unheard;two exact non-dialogue gaps and two actualItemobjects are explicit. No exactcalendar/runtime/readiness/fullAV claim. B0244 adds three separate complete original Event families/14documents/417pages in5/4/5chapters. Ordinary-life recognition retains privacy/public-reach uncertainty;NI+CORA pressure/objections lead to bounded repair;distributed hip-hop teaching/care and reported success leave Ei agency unresolved. All283WAVbindings unheard;one exact command-only gap;noItem/Choices/InlineMovie. No exactcalendar/runtime/readiness/fullAV claim. B0245 adds15complete Event documents/674native pages in three original5/5/5families: chosen lady models, task-specific teaching, situated care and an unperformed live proposal. Source-explicit camp front/back continuity does not impose another common calendar. Qualified permission, attributed reports and reader/manager knowledge limits remain. All551WAVbindings unheard;selected Item/title presences reviewed;noChoices/InlineMovie/runtime/readiness/fullAV claim. B0246 adds15complete Event documents/579native pages in three original5/5/5families: differentiated service pleasure, camp planning/disagreement and shared party authorship. Cafe/party completion is reported; the camp candidate remains unperformed. Reports/hypotheses/objections retain holders;no cross-family time/cause edge.485availableWAVs unheard;5exactcommand-onlygaps,sixTitleinstances;Item/Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0247 adds11complete Event documents/550native pages in three original2/5/4families: collaboration/recognition and unresolvedHaru experience; Ferb/Yumeno musical appreciation with distinct romantic readings and explicit boundaries; contestedschoolwork,attributedreception and proposed4Ugathering. Reports/privatequestions/fantasy/objections/denials retain holders;no cross-familytime/cause.402availableWAVs unheard;9exact unresolved cues/10carriers,sixTitleinstances/oneItem;Choices/InlineMovieabsent;no readiness/fullAV/era promotion. B0248 adds15complete Event documents/854native pages in three original5/4/6families: sports preparation/support,LeSca making-of recording and Christmas preparation. Different contributions,camera/body boundaries,assigned roles,theme choice,reported resources and private interpretations retain holders and alternatives;no cross-familytime/cause.658availableWAVs unheard;3exact unresolved cues/4carriers,sixTitleinstances/oneItem;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0249 adds7complete Event documents/492native pages in three original2/1/4families: Christmas gathering and aftermath,New Year repertoire discussion and the snow-family walk. Particular contribution/refusal,attributed public accounts,private thought and imagined appeal retain holders and alternatives;no cross-familytime/cause.421availableWAVs unheard;one exact Mimi P27 ellipsis cue unresolved,sixTitleinstances/14Items;Choices/InlineMovie/Loopabsent;no readiness/fullAV/era promotion. B0250 adds five complete Event documents/546 native pages in three original1/2/2families: anniversary thanks, LeSca joint practice and qualified4U rivalry. Named contributions, dissent, unequal knowledge, reports and unfinished futures retain source-local horizons;one explicitly named temporary contest collective is added, no permanent-band or identity promotion. Five complete documents in three families: 546 native pages, 486 written records, 60 command-only pages and 486 dialogue-voice pages were actually acquired through 94 bounded lossless text/native parts. All 195 selected sprite/object occurrences, 13 background occurrences and six title-asset occurrences were actually viewed or explicitly bound to exact earlier genuinely viewed bytes. The independent aggregate comparison reconstructs all 546 reviewed native objects and checks all 102 projection records: 60 complete command records and 42 nonstandard-field records. All 493 available current WAV occurrences remain UNHEARD, runtime UNOBSERVED and zero named current cue carriers are unresolved. Written text, native instructions and selected stills support this qualified account; no listening, watched choreography, objective musical judgment or readiness, monograph or era-release promotion is claimed. B0251 adds eight complete Event documents and three original2/2/4families: KARAKURI recognition, distributed post-live appraisal and LeSca reciprocal gift planning. Named initiative, reports, partial knowledge, graded assent and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0251 covers eight complete Event documents in three original families of 2, 2 and 4 chapters, catalog 892–899: 632 native pages, 587 written TextAreas, 45 command-only pages, 479 dialogue-voice pages and 4,326 visual references. All 101 bounded text/native parts and three separate whole-family reconstructions were completed in the preserved order. The visual review covers 232 selected sprite/object instances across 119 distinct resources, 13 background instances across nine originals, and six title-image instances across four files, with genuine exact-byte reuse disclosed. All 490 available, distinct WAV bindings remain unheard. Command-only cue memory_0217_131 at 508021704:P54 is unresolved after a fresh registry and retained-bank probe; the strict failure and separately controlled case-only qualification remain preserved. That page has no TextArea, and all dialogue cues resolve. No Choice or InlineMovie occurs. The arguments use wording, native order and inspected stills under AV-D; performed delivery and runtime remain unreviewed, and no technical grade or readiness promotion follows. B0252 adds three complete single-document Event families: archive reception and privacy, a wanted late Christmas visit and adapted karuta with unresolved outcome. Named initiative, separate memories, reports, graded permission and unfinished futures retain source-local horizons. No new person, unit, permanent membership or readiness promotion. B0252 covers three complete Event documents in three original single-document families, catalog 900–902: 620 native pages, 514 written pages, 106 command pages and 502 written-page voice references. All 95 bounded text/native parts and 170 selected sprite/object instances, 18 original background instances and six title instances were actually reviewed. The selected resources comprise 139 distinct sprite/object resources, 14 distinct backgrounds and four distinct title images. All 504 available, distinct WAV bindings remain UNHEARD. Two exact unresolved carriers remain separately qualified: command-only memory_0218_172 at509022101:P207 and written Emoco interjection vo_ing3_053_01_01_180 at511022301:P105;501 of502 written-voice references resolve. No Choice or InlineMovie occurs; runtime and continuous motion are unobserved. Source-grounded narrative interpretation proceeds within those limits; performed AV, readiness, monograph maturity and era-release requirements are not promoted. B0253 adds one complete original six-chapter Event family: assumed illness, two particular care grievances and a backstage attention strategy. Named choice and reluctance, separate reports and media roleplay, public/backstage knowledge and source-local temporal frames remain differentiated. No new person,unit or readiness promotion. B0253 covers one complete original six-chapter Event family200550/catalog903–908:512native pages,434written,78command-only,299written voice carriers and3402native visual occurrences. All72bounded text/native parts and155case-selected sprite renditions across69unique resources,13background occurrences across9unique backgrounds and2title images were actually reviewed. All306distinct named WAV resources, including7non-dialogue subtitle/title carriers, are hash-bound UNHEARD with no unresolved current-family cue. Complete cases contain no Choice,InlineMovie,LoopSe orItem field. Runtime/continuous motion and acoustic performance remain unobserved. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0254 adds one complete original six-chapter Event family: unequal wants, shared effort and a qualified ending. Specific practical support coexists with pressure and substitution;private rival encouragement is not universally disclosed;Yumeno’s deferredshoot/protestedrepeatweek remains unresolved. No newperson,unit orreadiness promotion. B0254 covers one complete original six-chapter Event family200560/catalog909–914:640native pages,574written,66command-only,495written voice pages and4116native visual occurrences. All103bounded text/native parts were actually acquired and losslessly restored. Actual selected-static review covers257case sprite/object instances across142unique resources (141sprites and1communication object),12background instances across6unique originals and2title images.503voice-carrier pages resolve501distinct waveform hashes;allUNHEARD,including reused cue216 within chapter3 and249 across chapters3/4. Complete scripts have no Choice,InlineMovie orLoopSe field;the Item field in chapter1 is retained. Encoded effects and static art are not observed runtime or acoustic performance. No new identity,unit,READY,monograph maturity or era release is promoted;2053closed. B0255 adds one complete original six-chapter Event family: three incompatible private propositions,real care and interference,and a shared LeSca wish before specified disclosure. Member-authored coordinated work recovers while the false head premise,Player’s incomplete access and Coney’s unperformed gossip intention remain. No new person,unit orreadiness promotion. This complete original six-chapter Event family, NM-EVENT-200570 (catalog 915–920), contains 545 native pages: 464 written records and 81 command-only pages, with 363 dialogue-associated voice references and 4,834 visual-reference occurrences. All six documents were reviewed in order with a known-then exit before the next chapter and a separate whole-family causal and epistemic reconstruction. The entering state is B0254/SourceLock 12.163; this unit proposes B0255/12.164. Voice performance remains UNHEARD and runtime remains UNOBSERVED. The remaining 2034 release is not complete; 2053 is closed. B0256 adds complete original six-chapter Eventfamily200580: a demand for live-show rank becomes five heterogeneous tests. Explicit Haru-friend and Hina/Emoco-family-like acknowledgment coexists with an official KARAKURI win,contested pearl ruling and wager coda preserving renewed rivalry. Local Mitsuba,new Yumeno pen-name horizon and attributed acts/reports remain distinct. No new person,unit orreadiness promotion. Six complete chapters contain624 native pages,527 written turns,97 command-only pages,521 dialogue-voice carriers and5249 visual references. All selected120 sprite/object resources,5 backgrounds and2 title images were actually inspected across304/11/2 instances. All528 distinct named waveform resources remain UNHEARD across528 carriers; no runtime or performed-voice claim. Chapterwise knowledge boundaries, two different draw reasons, three shown quiz answers versus announced team10/10, local Haru/Mitsuba presentation and the newly acquired Yumeno pen-name link remain separate. No readiness,era-release or2053 promotion. Complete original Event/category2/root100010 family200590, catalog927–932, six documents516024801–516024806:809native/707written/102command-only pages,461dialogue-voice cues and6501visual references. Entry remains B0256/SourceLock12.165; completed closure proposes B0257/12.166. Each chapter retains its actual known-then boundary before whole-family interpretation. The local feud is publicly ended and all four are reported to have failed the audition; Matsuri leadership acceptance is unestablished. All468 named waveform carriers remainUNHEARD; runtimeUNOBSERVED. Catalog order does not fix exact dates or Main insertion;2053UNOPENED. B0258 closes the six complete documents of original Event family 200600, 姉妹ガールズバンド！～4Uの新弟子！？～の巻, catalog 933–938, at SourceLock 12.167 after the genuine B0257/12.166 entering state. All 693 native pages comprise 576 written records and 117 command-only pages, with 523 dialogue-voice carriers and 5,952 visual references. Each chapter was completely read and frozen before the next; the whole family was reconstructed after all six. Selected stills were actually reviewed. All 530 named voice resources remain unheard, and runtime remains unobserved. Administrative authority metadata is not literary evidence.
 
-Read the complete current ledger before editing; append stable history and patch current rows without changing unaffected bytes or IDs. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
+Read the complete manifest-bound logical ledger before editing, including all ordered payload components; append stable history and patch current rows without changing unaffected bytes or IDs. This file owns current aggregate metadata and routing; each payload interval has one component owner. Every non-administrative assertion requires an admitted witness/horizon, source locator and a reading/event/claim route. `UNKNOWN`, missing and explicit negative evidence are different. Stable IDs are never recycled. Retractions retain their old formulation and successor decision. Entry/current counts advance only after source verification and all linked responsibilities close together.
 
 ## Current state
 
-`identity_routes = 24`; `character_states = 21`; `epistemic_states = 30`; `directional_relationship_states = 86`; `unit_states = 6`; `readiness_decisions = 12`. All routes and states are bounded through complete native Main EPISODE 1.0. Machine identity resolution remains `unresolved` for every source line; narrative audience-layer confirmation that presented Coney is Nicole does not change literal labels, machine routing, Player knowledge, the unidentified tofu customer, Coney's unnamed “prince,” or Alessandra's unresolved recognition. All twelve current performers—Haru, Musubi, Rona, Hime, Momoka, Sumire, Sui, Shizuka, Alessandra, Sawara, Kajika, and Shinju—reach `R2_STATE_BOUNDED` only for their admitted introduction horizons. There is no character model or monograph.
+`identity_routes = 112`; `character_states = 88`; `epistemic_states = 3088`; `directional_relationship_states = 2332`; `unit_states = 36`; `readiness_decisions = 29`. All routes and states are bounded through complete native Main EPISODE NANASUTA, T7S_B0080–T7S_B0181 i-n-g and 349 independent Intimacy documents across 49 complete portfolios through T7S_B0230 plus all45independent Short messages throughT7S_B0232 and12Legend documents throughT7S_B0233 plus9ManyMerryParty documents throughT7S_B0234 and48independent Birthday portfolios throughT7S_B0239 plus151Event documents in41original portfolios throughT7S_B0258, with separate chronology-qualified intervals and attributed representation/real-person states. UNIT0018receives a later name qualification, without rewriting its unnamed B0038horizon. Machine identity resolution remains `unresolved`; Coney/Nicole supports the Episode 6.0 rescue without resuming permanent Nanasta command. The twelve formation performers, Ume, Emoco, Hina, Hitoha, Futaba, all six Seven Sisters members, Shirayuki, Manon, Tasha, Kyoko, Ferb, and Kazumi retain horizon-specific `R2_STATE_BOUNDED` decisions. NANASUTA materially extends Haru, Sumire, Kazumi, Shirayuki, and Nanasta through bounded current state without silently rewriting prior readiness horizons. No character model or monograph is promoted: all performed voice remains unauditioned, later lives remain incomplete, and no 2053 semantic source is admitted.
 
 ## Typed record contract
 
@@ -53,579 +57,1441 @@ The capability fields are `textual_characterization`, `japanese_linguistic_voice
 
 The current monograph declaration must match its ledger decision and scope. At textual readiness mark its integrated multimodal identity responsibility `PENDING_MULTIMODAL_MATURITY`. Mature status requires both representative visual and actual listened-to voice review, integration, counterexamples and passing audit under the architecture. Broadening scope reopens affected checks while retaining the prior bounded decision.
 
-## Current identity routes
 
-Witness for every row is `T7S_GAME_OFFLINE_JA_R484`, alias `c20260909-r484`; current horizon is the complete native Main EPISODE 1.0 boundary. Canonical source reconstructions are [T7S_B0001_DEEP_READING.md](../02%20Readings/T7S_B0001_DEEP_READING.md) through [T7S_B0011_DEEP_READING.md](../02%20Readings/T7S_B0011_DEEP_READING.md); the bounded integration is [T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md](../07%20Arc%20and%20Era%20Synthesis/T7S_EPISODE_1_0_NARRATIVE_SYNTHESIS.md), and event routes are in the story ledger.
+Current correction: REL-1652 records Musubi's announced departure, with actual completion unestablished in503012803; [REV-0044](T7S_CLAIM_AND_EVIDENCE_LEDGER.md#rev-0044--revise-announced-departure-without-a-completed-exit) and the attributable B0244 erratum preserve the original wording and frozen reading.
 
-| ID / local subject | Literal source identity and bounded route | Confidence, evidence, and unresolved obligation |
+<!-- T7S ENTITY STATE COMPONENT ROUTES -->
+
+## Logical entity ledger and storage boundary
+
+The [manifest](T7S_ENTITY_STATE_LEDGER_MANIFEST.json) binds this owner prefix and the ordered components below. Reading this routing file alone does not read the complete entity ledger. Current state, prior annotations, readiness history and all stable IDs are retained in one disjoint logical payload. Physical storage changes do not admit a source, alter a record horizon, resolve an identity, or promote a model or monograph.
+
+| Component | Preserved migration interval | First heading |
 | --- | --- | --- |
-| `IDENTITY-0001` / `player-protagonist` | Literal label `PLAYER`; self-reference `僕`; Nanasta employee who is designated second manager. This route exists only to join B0001 states and does not assign a master-character ID. | High for document-local continuity; machine status `unresolved`. `EV-B0001-002`–`006`; `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary&log=15#/Pages/15/TextArea/Dialogue` through `...&log=194#/Pages/194/TextArea/Dialogue`. Preserve literal label in citations. |
-| `IDENTITY-0002` / `nanasta-first-manager` | Literal label `支配人`; self-identifies as the first manager of Three Seven/Nanasta. No personal name is supplied in the admitted source. | High for role-local continuity; machine status `unresolved`. `EV-B0001-002`–`006`; self-identification at `...&log=32#/Pages/32/TextArea/Dialogue` through `...&log=33#/Pages/33/TextArea/Dialogue`. Personal identity remains unknown. |
-| `IDENTITY-0003` / `rokusaki-connie-presented` | Literal label `六咲コニー`; presented with reading `六咲（ろくさき）コニー` and repeats that introduction herself. Canonical Latin spelling is **Coney**: bound `m_character` row `48` / character `49` stores `english_name = Coney Rokusaki`, and the official character-page name graphic likewise reads `CONEY ROKUSAKI`; in-game Japanese-order display may read `Rokusaki Coney`. The pre-adjudication local subject token is retained as a stable identifier and is not a spelling claim. | High for the presented document-local identity and canonical Latin spelling; machine identity status `unresolved`. `EV-B0001-004`–`006`; `...&log=116#/Pages/116/TextArea/Dialogue` and `...&log=117#/Pages/117/TextArea/Dialogue`; source-locked `m_character` SHA-256 `dbda7389df987ffe150500efa0d33c6af59c734cdcd835c2ccf83c561e19f5cd`; [official first-party profile](https://t7s.jp/character/chara/00.html) and [Roman-letter name graphic](https://t7s.jp/image/page/character/name/00_name_r.png). **Do not equate this route with the interrupted `ナナサ…` clue.** |
-| `IDENTITY-0004` / `kasukabe-haru` | Literal label `春日部ハル`; self-introduces with reading `春日部（かすかべ）ハル`, age 16 and first-year high-school status in the retrospective prologue; asks to be called Haru in the narrated first meeting. | High for document-local continuity across B0002; machine status `unresolved`. `EV-B0002-001`–`009`; episode `201000101`, logs 3–5 and 81–83. No master-character ID is assigned here. |
-| `IDENTITY-0005` / `haru-younger-brother` | Literal role label `ハルの弟` in the prior-idol recollection and audition judgment; no personal name is supplied. | High for sibling-role continuity within B0002; machine status `unresolved`. `EV-B0002-004`, `009`; episode `201000104`, logs 8–11 and 37–39; episode `201000109`, logs 13–22. Preserve role label in citations. |
-| `IDENTITY-0006` / `tendoji-musubi` | Literal label `天堂寺ムスビ`; peers supply reading `天堂寺（てんどうじ）ムスビ`; St. Corsica student-council president. | High for document-local continuity across B0003; machine status `unresolved`. `EV-B0003-001`–`010`; episodes `201000201`–`201000209`. Her final Nanasta decision is a state transition, not a new identity route. |
-| `IDENTITY-0007` / `st-corsica-idol-club-president` | Literal labels `アイドル部部長` and later `部長`; presented as president/leader of St. Corsica's idol club. No personal name is supplied. | High for role-local continuity in episodes `201000204`, `201000205`, and `201000208`–`209`; machine status `unresolved`. `EV-B0003-006`, `009`; preserve the role label in citations and do not infer an external identity. |
-| `IDENTITY-0008` / `tsunomori-rona` | Literal label `角森ロナ`; self-introduces with reading `角森（つのもり）ロナ` and gives age 16. The chapter later shortens address to `ロナ` at her explicit request. | High for document-local continuity across B0004; machine status `unresolved`. `EV-B0004-001`–`008`; episode `201000301`, logs 68–73; `201000302`, logs 11–17; `201000309`, logs 29–35. Familiar address and membership are state transitions, not separate identity routes. |
-| `IDENTITY-0009` / `nonohara-hime` | Literal label `野ノ原ヒメ`; gives full name at first meeting and later publicly identifies herself as `野ノ原豆腐店の看板娘、野ノ原ヒメ`. Uses `オレ`. | High for document-local continuity across B0005; machine status `unresolved`. `EV-B0005-001`–`008`; episode `201000401`, logs 35–40, and `201000407`, logs 10–13. Membership is a state transition, not a new identity route. |
-| `IDENTITY-0010` / `hime-mother` | Literal role labels `母ちゃん`/`母さん` in Hime's speech and childhood memory; Hime states that she died. No personal name is supplied. | High for the maternal role within B0005; machine status `unresolved`. `EV-B0005-003`, `005`, `008`; episodes `201000404`, logs 28–45; `201000406`, logs 1–7; `201000409`, logs 32–35. Preserve remembered/attributed status rather than granting independent present narration. |
-| `IDENTITY-0011` / `hime-father` | Literal labels `ヒメ父` and `オヤジ`; father in the Nonohara household and tofu shop. No personal name is supplied. | High for role-local continuity across B0005; machine status `unresolved`. `EV-B0005-002`, `005`, `006`; episodes `201000402`, `201000406`, and `201000407`. Preserve role label in citations. |
-| `IDENTITY-0012` / `hime-younger-brother` | Literal label `ヒメ弟`; Hime's younger brother in the household/shop. No personal name is supplied. | High for role-local continuity within B0005; machine status `unresolved`. `EV-B0005-002`, `005`; episodes `201000402` and `201000406`. |
-| `IDENTITY-0013` / `hime-younger-sister` | Literal label `ヒメ妹`; Hime's younger sister in the household/shop. No personal name is supplied. | High for role-local continuity within B0005; machine status `unresolved`. `EV-B0005-002`, `005`; episodes `201000402` and `201000406`. |
-| `IDENTITY-0014` / `unidentified-tofu-customer` | Literal label `？？？`; a beautiful, cold-looking customer whom the Player finds vaguely familiar and for whom Coney implies autograph significance. No name or role is stated. | High only for this literal unresolved route in B0005; machine status `unresolved`. `EV-B0005-006`; episode `201000407`, logs 14–20. Do not infer identity from appearance, asset numbering, or later catalog knowledge. |
-| `IDENTITY-0015` / `serizawa-momoka` | Literal label `芹沢モモカ`; gives full name and uses `モモカ` as self-reference. The chapter presents ordinary and rock-costume body resources as states of the same local subject. | High for document-local continuity across B0006; machine status `unresolved`. `EV-B0006-001`–`008`; episodes `201000501`–`201000509`. Membership, costume, and media-conditioned motivational states are transitions rather than separate identity routes. |
-| `IDENTITY-0016` / `usuta-sumire` | Literal label `臼田スミレ`; first calls herself `ウスタ`, uses `アタシ`, then reluctantly gives `スミレ` and explicitly controls which address the Player may use. Ordinary and bunny-stage body resources with multiple face layers remain states of the same local subject. | High for document-local continuity across complete B0007; machine status `unresolved`. `EV-B0007-001`, `003`–`010`; episodes `201000601`–`201000609`. Membership, costume, affect, and the final relation-specific permission to use her given name are state transitions rather than separate identity routes. |
-| `IDENTITY-0017` / `kamishiro-sui` | Literal label `神城スイ`; self-introduces by full name, uses `ボク`, calls herself a swimmer and “for the time being” a girl, and names princehood as her aim. Four ordinary school/swim body resources and their overlaid face states remain presentations of the same local subject. | High for document-local continuity across complete B0008; machine status `unresolved`. `EV-B0008-001`–`008`; episodes `201000701`–`201000709`. Childhood narration, love recognition, Nanasta entry, changing prince definition, clothing, and expression are state transitions rather than separate identity routes. |
-| `IDENTITY-0018` / `kuonji-shizuka` | Literal label first `シズカ`, then full `久遠寺シズカ`; she identifies herself as the Kuonji family's youngest daughter after an agreed contest. Uses formal speech and calls Mana `マナお姉さま`. One school-uniform body and its face overlays remain presentations of the same local subject. | High for document-local continuity across complete B0009; machine status `unresolved`. `EV-B0009-001`–`008`; episodes `201000801`–`201000809`. Wealth, family role, lessons, Nanasta entry, care, and expression are states rather than separate identities. |
-| `IDENTITY-0019` / `kuonji-grandfather` | Literal label `シズカの祖父`; Shizuka's grandfather and effective household authority. No personal name is supplied. | High for role-local continuity across B0009; machine status `unresolved`. `EV-B0009-005`–`008`; episodes `201000805`–`201000809`. Preserve Shizuka's reported beliefs, his direct statements, and Mana's private exchange as distinct evidence. |
-| `IDENTITY-0020` / `misonoo-mana` | Literal label `御園尾マナ`; Shizuka calls her `マナお姉さま`, and the group identifies her as Seven Sisters' Misonoo Mana. She speaks directly in the opening and closing private scenes. | High for the admitted B0009 route; machine status `unresolved`. `EV-B0009-001`, `005`, `008`; episodes `201000801`, `201000805`, `201000809`. Seven Sisters membership is source-stated; complete career, current status, and the full Nicole/Shizuka history remain outside this horizon. |
-| `IDENTITY-0021` / `alessandra-susu` | Literal label `アレサンドラ・スース`; the opening's private speaker label supplies the full name, and she later asks the group to call her `スース`. Black-dress and layered-tunic bodies with overlaid face states remain presentations of the same local subject. | High for document-local continuity across complete B0010; machine status `unresolved`. `EV-B0010-001`–`010`; episodes `201000901`–`201000909`. Age fourteen is passport-disclosed; home country/nationality is not named in the admitted story, and Nicole recognition remains unresolved. Membership and `スース` address are state transitions, not new identity routes. |
-| `IDENTITY-0022` / `harumi-sawara` | Literal label `晴海サワラ`; identifies herself as eldest of three sisters and says she wore a school uniform until recently. Short-red-haired fish-shop-apron body and face overlays remain presentations of the same local subject. | High for document-local continuity across B0011; machine status `unresolved`. `EV-B0011-001`–`008`; episodes `201001001`–`201001009`. Exact age, school/graduation status, and later role allocation remain unknown; recent uniform use does not by itself establish graduation. |
-| `IDENTITY-0023` / `harumi-kajika` | Literal label `晴海カジカ`; identifies herself as the second Harumi sister. Sailor-uniform/fish-shop-apron body and face overlay remain one local presentation. | High for document-local continuity across B0011; machine status `unresolved`. `EV-B0011-001`–`008`; episodes `201001001`–`201001009`. Exact age, school status, and later role allocation remain unknown. Trust, support motive, performance, and entry are state transitions. |
-| `IDENTITY-0024` / `harumi-shinju` | Literal label `晴海シンジュ`; identifies herself as youngest, is explicitly described as an elementary-school student, and asks Coney to call her `シンジュ` rather than `シィちゃん`. Two ordinary/shop bodies and overlaid face states remain presentations of the same local subject. | High for document-local continuity across B0011; machine status `unresolved`. `EV-B0011-001`–`008`; episodes `201001001`–`201001009`. Exact age/grade and later role allocation remain unknown. Preferred address, accounting plan, qualified enjoyment, branch-specific assent, and membership are states rather than separate identities. |
+| [T7S_ENTITY_STATE_COMPONENT_001](T7S_ENTITY_STATE_COMPONENT_001.md) | Original bytes7138–374624 (end exclusive), exact payload | ## Current identity routes |
+| [T7S_ENTITY_STATE_COMPONENT_002](T7S_ENTITY_STATE_COMPONENT_002.md) | Original bytes374624–829500 (end exclusive), exact payload | ## B0100 chronology-qualified state annotations |
+| [T7S_ENTITY_STATE_COMPONENT_003](T7S_ENTITY_STATE_COMPONENT_003.md) | Original bytes829500–990668 (end exclusive), exact payload | ## B0168 child authorship, fallible interpretation and bounded adult knowledge |
 
-In the B0001 rows, abbreviated `...` expands without substitution to `t7s://c20260909-r484/v1/script/scout_000_00_01.json__8df3fd723276f650?doc=primary`.
+Original heading routes remain available below; each link opens the corresponding component heading. The wrapper maintains no second copy of the transferred rows or prose.
 
-## Current character states
+<a id="current-identity-routes"></a>
 
-| ID / subject | Supported interval and current formulation | Evidence, limits, and transition |
-| --- | --- | --- |
-| `CHAR-0001` / `player-protagonist` | **B0001 entry:** devoted to Seven Sisters but convinced an equivalent group cannot recur. **At complete EPISODE 1.0 close:** second manager in a twelve-performer institution. He increasingly recognizes specific effects, preserves some exits, rejects some force/resource motives, and asks for assent, while still participating in or failing to stop deception, pushed acts, surveillance, public intrusion, prohibited address/touch, and term-poor romanticized recruitment. In B0010 he gives Alessandra a successor object after Seven Sisters' dissolution, sends Momoka the manual used for a forced airport link, and enters both swimsuit-response branches without resolving housing safeguards. In B0011 he says Shinju cannot be forced and accepts deliberation, though he participates in hidden overhearing and asks for entry after Coney's pressure. Uses `僕` and polite speech; ethical awareness is real but inconsistently operationalized. | `EV-B0001-002`, `003`, `005`, `006`; all recruitment-chain events through `EV-B0011-008`; `REL-0067`, `0068`, `0083`, `0084`. All authored variants remain preserved. Later assent, membership, or beneficial outcomes do not authorize earlier pressure, streaming, naming, costume, touch, surveillance, or information failures. |
-| `CHAR-0002` / `nanasta-first-manager` | **B0001:** incumbent who reports the idol-cultural crisis, uses grandiose/performative rhetoric, unilaterally appoints a successor, arranges Coney's support, transfers the HoloCom, and departs for a self-described wandering trip. He is familiar enough with the Player for specific mutual criticism and shares undisclosed knowledge with Coney. | `EV-B0001-002`–`006`. His society-wide diagnosis and the HoloCom's special status are attributed claims, not automatically reliable world fact. Pages 28–93, 108–130, 161–178. |
-| `CHAR-0003` / `rokusaki-connie-presented` | **At complete EPISODE 1.0 close:** practical scouting lead and audience-confirmed Nicole who detects potential and desire quickly but repeatedly turns perception into assumed authority. B0010 adds a rigged lottery, evasion when Alessandra asks whether they have met, commercialization of intimacy/rivalry, surveillance, and a public forced link alongside the genuine successor opportunity and peer welcome she helps create. B0011 reduces sisters to a collectible category, designs a wager with no non-recruitment outcome, disrupts shop work, ignores Shinju's preferred address, stages hidden overhearing, and forces a solo song. She also states the serious principle that an idol must sincerely enjoy the work, then contradicts it by begging for entry for any reason. Her closing worldwide-scouting ambition leaves expansion unbounded by shown governance. | All Coney-linked events `EV-B0001-004` through `EV-B0011-008`; `KNOW-0011`, `0025`–`0030`; `REL-0069`, `0070`, `0077`, `0078`. Accurate perception, useful opportunity, comic play, and beneficial results do not confer consent, resolve the Nicole cover for characters/systems, or repair coercion and privacy failures. |
-| `CHAR-0004` / `kasukabe-haru` | **B0002:** retrospective narrator and capable cleaner who defensively rejects idol work after exploitation/self-blame, then articulates desire, receives corrected family information, and chooses Nanasta while retaining cleaner identity. **B0003–B0004:** training peer and emerging leader whose plural recognition bridges Musubi to consent and whose quiet, relation-specific testimony helps Rona return after a forced street test fails. **B0005:** she performs practical shop/household help and welcomes Hime, but also joins costume pressure. **B0006:** she works readily with Momoka across stage, band, capture script, audition, and stream; her period-drama appeal helps a coercive plan even though its content acknowledges family-like concern. **B0009:** she acknowledges fear before the Kuonji appeal, grounds confidence in reciprocal trust, and restarts coordinated practice. Her empathy, labor, and emerging leadership are real without making peer enthusiasm automatically responsive to boundaries. | `EV-B0002-001`–`009`; `EV-B0003-004`–`010`; `EV-B0004-003`–`007`; `EV-B0005-001`, `005`, `007`, `008`; `EV-B0006-002`–`007`; `EV-B0009-006`, `007`; `REL-0025`, `0026`, `0041`, `0042`; `CL-B0009-010`. `問答無用`, repeated exposure, the costume chase, and the scripted capture remain counterexamples. `アイドルは、泣いちゃダメ` remains a possible restrictive residue. |
-| `CHAR-0005` / `haru-younger-brother` | In the recounted past, knows Haru loves singing and submits her audition application without consent; after her failed debut he is mocked, stops attending school, and rejects her inquiry. At the current audition he says the school problem was his own, urges her to do what she likes, remains her primary fan, and passes her. | `EV-B0002-004`, `009`. The later correction is relevant testimony about his own experience but does not erase the earlier unauthorized decision or establish a complete account of the school episode. No personal name or independent interior narration is available. |
-| `CHAR-0006` / `tendoji-musubi` | **B0003:** approval-managed “perfection” broadens into chosen plurality through public testing and Haru's friendship. **Through EPISODE 1.0 close:** disciplined performer and increasingly vocal peer-boundary advocate whose insight can still overreach. She contests Alessandra through national/propriety language, then converts rivalry into guarded welcome. She later supports Shinju's reasoned refusal and says an unenjoyed activity should not be forced. These interventions extend earlier objections for Hime and recognition of Sui's touch pattern, but no procedure yet gives them reliable institutional force. | `EV-B0003-001`–`010`; `EV-B0005-002`, `005`, `008`; `EV-B0008-004`, `006`–`008`; `EV-B0009-006`; `EV-B0010-005`, `009`; `EV-B0011-006`; `REL-0073`, `0074`. Her own privacy breach, nationalized policing, participation in pressured acts, and overinterpretation of Sui remain counterexamples. |
-| `CHAR-0007` / `st-corsica-idol-club-president` | Leads a more-than-twenty-year-old but near-disbandment St. Corsica idol club. She claims Musubi as the club's route to revival, challenges Coney to a producer contest, admires Musubi's beauty/anger, and later “entrusts” her to Coney without possessing Musubi's consent. At the public test she welcomes Musubi's cute singing as `ギャップ萌え` and potential. | `EV-B0003-006`, `009`; episodes `201000204`–`205` and `201000208`–`209`. Her theatrical confidence and care for club survival are explicit; no personal name, full club history, or authority over Musubi is established. |
-| `CHAR-0008` / `tsunomori-rona` | **B0004 entry/crisis:** sixteen-year-old, anxious and self-described clumsy/withdrawn; Nicole imitation gives skill and belonging, then becomes an exclusive worth criterion that produces withdrawal. **B0004 exit:** Haru's specific testimony lets her recognize her own effect, choose return, preserve Nicole as aspiration, debut, and request familiar address, though a costume accident immediately restores global self-disqualification. **B0005:** Hime's first `シャキっと` changes her state; Rona remembers that effect, detects sadness in Hime's praise, identifies their shared desire, helps the household, and asks for Hime because Nanasta needs someone who energizes others. **Through B0006:** she joins Momoka's recruitment and is assigned exit-blocking, but her scripted statement that Momoka has her own life articulates the ethical objection. She later begins `ニコさま`, corrects herself to Coney, and helps maintain the socially shared cover before the still-uninformed Player. | `EV-B0004-001`–`008`; `EV-B0005-001`, `002`, `005`, `007`; `EV-B0006-002`–`007`; `CL-B0004-001`–`009`; `KNOW-0010`–`0012`; `REL-0021`–`0028`, `0033`, `0034`. Voluntary decisions coexist with rushed/forced formats and a materially mistaken recruiter identity. No later durable self-confidence, formal contract, broad audience history, or heard performance is established. |
-| `CHAR-0009` / `nonohara-hime` | **B0005:** tofu-shop signboard daughter, delivery worker, household caregiver, and neighborhood participant who treats protection as incompatible with cuteness. She uses paternal `オレ` and a downtown/Edo shop register, yet childhood evidence shows a wish to become cute predates her mother's death. Maternal praise and an inherited bicycle bind beauty to grief; present praise both pleases and hurts. After Nanasta performs care and her family claims capacity, she accepts idol work, publicly combines shop and idol identities, completes a streamed debut, then flees a frilly costume. **B0006:** she states that an unwilling Momoka should not be forced. **B0008:** she initially says a girl using `ボク` is not cute and questions Sui's prince aim, but competes seriously, notices that the remembered prince may have been kind rather than merely strong, hears the full account, and helps Sui move toward self-expression. She still calls Sui an ordinary girl who should leave rescuing to someone else, yet finally accepts reciprocal work and calls her prince. **B0009:** her tofu-shop work and family-like account give Shizuka an ordinary-world model; she teaches the requested guest dance, practices under correction, and insists Shizuka be an active protagonist in the appeal. Movement from gender policing to peer recognition and from protected recruit to practical mentor is genuine but incomplete. | `EV-B0005-001`–`008`; `EV-B0006-002`–`007`; `EV-B0008-003`–`008`; `EV-B0009-002`, `003`, `006`, `007`; `CL-B0005-001`–`009`; `CL-B0008-003`–`006`, `009`; `CL-B0009-010`; `KNOW-0013`, `0014`, `0020`, `0021`; `REL-0029`–`0036`, `0041`, `0042`, `0053`, `0054`, `0061`, `0062`; `UNIT-0005`. Future care distribution, scheduling, conflict, failure, stage range, grief course, costume self-determination, gender plurality, and institutional force of her objection remain unknown. |
-| `CHAR-0010` / `hime-mother` | **Remembered/attributed B0005 state:** described by Hime as exceptionally beautiful; owned the delivery bicycle; read princess books; repeatedly promised that Hime would become beautiful and framed this as pleasing Hime's father. She is dead by the present and remains an active addressee in Hime's private thought. | `EV-B0005-001`, `003`, `005`, `008`; `IDENTITY-0010`. Evidence is Hime's memory and a dramatized childhood scene; no personal name, independent adult perspective, death circumstances, or complete parenting history is established. |
-| `CHAR-0011` / `hime-father` | **B0005:** works in the tofu shop and initially relies heavily on Hime's labor. When her wish becomes explicit, he says the family is stronger than she thinks, refuses to stop her, apologizes for not noticing, and later sends her into the world with pride as his and her mother's daughter. His cosmetics apology reveals a gendered but caring model of what he missed. | `EV-B0005-002`, `005`, `006`; `REL-0035`, `0036`; `UNIT-0005`. His capacity claim is direct and decision-relevant, but durable workload redistribution and wider family history remain unshown. |
-| `CHAR-0012` / `serizawa-momoka` | **B0006:** intensely selective anime viewer, expert fighting-game player, and image-conscious participant who says she lives honestly according to present feelings. She repeatedly enters vivid roles—idol, band leader, candy model, trained sports-idol performer—and shows real talent, fast learning, and pleasure, then withdraws when preparation, instrument practice, lessons, or durable obligation replace the attractive finished identity. She treats talent as an exemption from process and delegates unwanted cost to “tomorrow's Momoka.” A deliberately planted sports-training anime briefly makes effort itself an enactable role; she prepares, succeeds, and enthusiastically accepts current Nanasta membership, but immediately struggles against the next lesson. **B0009:** she briefly exploits Shizuka's candy ignorance, immediately retracts and gifts the item, later cites that tiny exchange as her reason to practice, accepts Sui's technical correction, and helps insist Shizuka perform rather than remain the protected object. Skill, taste, fandom, work aversion, locally activated reciprocity, and unstable follow-through are simultaneous. | `EV-B0006-001`–`008`; `EV-B0009-004`, `006`, `007`; `CL-B0006-001`–`009`; `CL-B0009-010`; `KNOW-0016`, `0017`; `REL-0037`–`0042`; `THREAD-0009`. Later stability, self-chosen support beyond salient exchange, response after novelty exhaustion, formal terms, broader ordinary life, family/school context, and heard performance remain unknown. |
-| `CHAR-0013` / `usuta-sumire` | **Complete B0007:** current high-school student who enjoys fashion, friends, karaoke, and social lightness while finding `フツーでイマドキ` strangely heavy. She repeatedly pre-disqualifies qualities that might not fit: her feminine given name as appearance-incongruent fraud, skilled cooking as old-fashioned, earnest speech as uncool, and idol work as outdated. She intervenes urgently for a stranger but disowns “kind”; later she brings elaborate homemade cookies but hides authorship. At Nanasta she admits interest yet refuses because fun/curiosity seem inadequate beside serious labor; this ethical comparison is itself serious. Reported “shining” supplies local counterevidence to her global `何やっても中途半端` judgment. She returns after deciding, explicitly accepts an immediate stream under pressure, and afterward chooses membership because wanting to shine there with the Player is not half-hearted. She grants him exclusive given-name permission and shows strongly implied attraction, then assents to a bunny costume after initial refusal and undisclosed persuasion. | `EV-B0007-001`, `003`–`010`; `CL-B0007-001`–`014`; `KNOW-0018`, `0019`; `REL-0043`–`0048`; `THREAD-0010`; `READY-0006`. Opening pleasure is retained; exact burden history, offscreen peer/family life, durability across labor/failure/conflict, formal terms, romance/professional boundaries, and performed voice/song remain unknown. |
+[Current identity routes](T7S_ENTITY_STATE_COMPONENT_001.md#current-identity-routes)
 
-| `CHAR-0014` / `kamishiro-sui` | **Complete B0008:** swimmer who uses `ボク`, introduces herself as “for the time being” a girl, and wants to become a boy-above-boys/prince strong enough to protect everyone. She initially treats the Player's faster rescue and successive song outcomes as losses, equates femininity/tears with weakness, and is distressed by an increasingly feminine body. Recounting the childhood boy she admired restores what her win-only memory omitted: he protected a girl, understood the defeated aggressor, and reconciled with him. Musubi's explanation helps Sui name first love; Sui adopts that recognition but later preserves the founding feeling, all accumulated effort, `ボク`, a chosen boys' song, coolness, and the prince address Hime returns. She repeatedly initiates rematches, chooses her final act, asks the Player to develop her as a full-fledged girl, and accepts current Nanasta entry. She explicitly rejects male touch; when the Player persists, she reflexively punches, apologizes, and retains the response even after the cognitive reframe. **B0009:** her high-intensity technical corrections to Momoka and Hime improve the appeal group's coordinated practice, making her grit useful beyond the initiating rivalry. | `EV-B0008-001`–`008`; `EV-B0009-006`; `CL-B0008-001`–`011`; `CL-B0009-010`; `KNOW-0020`–`0022`; `REL-0049`–`0056`; `THREAD-0011`; `READY-0007`. First-love recognition is self-adopted; complete disguise, binary conversion, “male allergy,” singing quality, durable labor, offscreen family/school/swim relations, later romance, and contact with the childhood boy remain unresolved. |
-| `CHAR-0015` / `kuonji-shizuka` | **Complete B0009:** youngest Kuonji daughter whose fixed mansion/school route and extensive lessons coexist with curiosity about ordinary goods, humor, archery discipline, tea competence, and repeated initiative. Mana's idol history gives her an experiential model; Shizuka then seeks Hime's performance, requests participation, returns when invited, authors a playful surname contest, supports the appeal live, contributes fatigue-aware tea, obtains the historic stage, and articulates a goal of meeting people and seeing worlds beyond the garden. She frames those experiences as Kuonji's future flesh and blood, receives her grandfather's permission, and becomes Nanasta's eighth current performer. | `EV-B0009-001`–`008`; `CL-B0009-001`–`013`; `KNOW-0023`–`0025`; `REL-0057`–`0066`; `THREAD-0012`; `READY-0008`. Sheltered unfamiliarity is not incapacity; family-compatible purpose is not simple rejection or proof of unconstrained freedom. Formal membership, stable labor, performance quality, later conflict, and durability of permission remain unknown. |
-| `CHAR-0016` / `kuonji-grandfather` | **B0009:** effective Kuonji household authority whom Shizuka calls absolute. He is angry at her secret entry, says she and her brother must support the house, and threatens to end her stage access if the appeal is trivial. He also lends the historic stage, listens, acknowledges sincerity, asks what she will learn, accepts her answer, entrusts her to the Player, requests the video, and tells Mana his assent is sincere. | `EV-B0009-005`–`008`; `WORLD-0005`; `REL-0063`, `0064`. Doting affection and coercive authority coexist. Shizuka's prediction that he would crush Nanasta is not his direct statement; his complete motives, legal/institutional powers, relationship with the brother, and future consistency remain unknown. |
-| `CHAR-0017` / `misonoo-mana` | **B0009 admitted appearances:** older-sister figure to Shizuka and named Seven Sisters member. She describes beginning idol work reluctantly after forceful invitation but values the worlds it disclosed beyond mansion and school. She tells Shizuka the same is possible, later asks the grandfather to watch silently, trusts the companions Shizuka found, and asks offscreen `ニコちゃん` to care for her. | `EV-B0009-001`, `005`, `008`; `REL-0065`, `0066`; `KNOW-0023`, `0025`. Her intervention protects opportunity but does not author Shizuka's final purpose or prove the complete history among Mana, Nicole, Shizuka, and Kuonji. Current career/life, earlier recruiter identity, and broader Seven Sisters relations remain unknown. |
-| `CHAR-0018` / `alessandra-susu` | **Complete B0010:** self-directed fourteen-year-old international arrival whose childhood Seven Sisters fandom, Japanese study, travel, and Nicole search precede Nanasta's recruitment. She rejects a blunt method, delights in the stage reached through Coney's rigged lottery, grieves dissolution, then explicitly accepts the successor Nanasta and becomes its ninth current performer. Her tactile/flirtatious register creates local boundary questions rather than one cultural rule. Rivalry with Musubi becomes guarded welcome. Peers misread her distress/airport cargo trip as departure; she corrects them and intends to stay. Two ordinary bodies and selected face overlays show presentation continuity without stage-costume or performed-affect review. | `EV-B0010-001`–`010`; `CL-B0010-001`–`015`; `KNOW-0026`, `0027`; `REL-0067`–`0074`; `THREAD-0013`; `READY-0009`. Home country, prior Nicole relation/recognition, cause of crying, guardian/housing/work terms, durable labor, and performed voice remain unknown. |
-| `CHAR-0019` / `harumi-sawara` | **Complete B0011:** eldest Harumi sister and fish-shop worker who initiates a three-sister idol plan, says it is best for Shinju, and wants the work herself. Her care is perceptive—she understands Shinju's grounded planning and identifies the difference between singing alone and together—and intrusive because she plans without prior shared agreement and presses clothing after entry. | `EV-B0011-001`–`008`; `KNOW-0028`–`0030`; `REL-0079`, `0080`; `THREAD-0014`; `READY-0010`. Exact age/status, durable motive, shop-work allocation, and whether care becomes less paternalistic remain unknown. |
-| `CHAR-0020` / `harumi-kajika` | **Complete B0011:** second Harumi sister and fish-shop worker who initially trusts Sawara without knowing the plan, chooses to observe the first contest, and later states that she wants to support Shinju. Her inference that a few minutes of Nanasta viewing indicates hidden aspiration is not corroborated, but her own participation and support motive are explicit. A selected apron/sailor composite presents her commitment with visible vulnerability rather than triumph. | `EV-B0011-001`–`008`; `KNOW-0028`–`0030`; `REL-0081`, `0082`; `THREAD-0014`; `READY-0011`. Exact age/school status, independent long-term idol motive, later labor, and durable sister boundaries remain unknown. |
-| `CHAR-0021` / `harumi-shinju` | **Complete B0011:** youngest Harumi sister and elementary-school-aged shop worker/planner who protects schedules, wager terms, business labor, preferred address, and deliberation. She plans to inherit the family business and handle accounting, repeatedly refuses idol work, and reports no fun after Coney's imposed solo song. A sisters-together act produces only qualified enjoyment; one authored branch contains direct entry confirmation, and both converge on current membership. She immediately resists clothing pressure. | `EV-B0011-001`–`008`; `KNOW-0028`–`0030`; `REL-0079`–`0086`; `THREAD-0014`; `READY-0012`. Entry does not invalidate accounting, establish categorical idol desire, authorize presentation, or prove stable training/performance labor. |
+<a id="i-n-g-identity-routes-added-at-t7s_b0080t7s_b0099-close"></a>
 
-## Current epistemic states
+[i-n-g identity routes added at T7S_B0080–T7S_B0099 close](T7S_ENTITY_STATE_COMPONENT_001.md#i-n-g-identity-routes-added-at-t7s_b0080t7s_b0099-close)
 
-| ID | Knower / proposition / status | Acquisition, reliability, and asymmetry |
-| --- | --- | --- |
-| `KNOW-0001` | `player-protagonist` **knows** the first manager and Nanasta's local operational scarcity; **believes** Seven Sisters-like girls will not appear; then **recognizes** that fixation on Seven Sisters obscured the future. | Existing familiarity is explicit at pages 35–38 and in later criticism; scarcity at 42–49 and 55–56; initial belief at 26; self-correction at 149. The broader “idol culture is dead” proposition is heard from the first manager rather than independently established by the Player. |
-| `KNOW-0002` | `player-protagonist` **does not know** Coney's exact past/identity at the current horizon. The Player experiences familiarity, nearly connects her presented name to `ナナサ…`, and then says the shock made an important thought disappear. Haru's later recognition is not shown being communicated to him; in B0006 he still asks why Coney could substitute as a performer after Rona's corrected `ニコさ――`. In B0007 Coney sleep-speaks `セブンスライブはっじまるよー`; he again feels vague familiarity and immediately drops the association to wake her. B0009 gives the audience an explicit offscreen `ニコちゃん` confirmation, but the Player is absent from that private exchange; B0010 shows no new acquisition. | B0001 pages 100–107 and 183–192; B0002 `KNOW-0005`; `EV-B0006-006`; `EV-B0007-002`, episode `201000601`, logs 19–25; `EV-B0009-008`; `EV-B0010-002`. Preserve repeated near-recognition, explicit audience knowledge, and Player ignorance as separate states; neither is proof of permanent forgetting or machine identity resolution. |
-| `KNOW-0003` | `rokusaki-connie-presented` and `nanasta-first-manager` share **some information** about Coney that the Player lacks; Coney intentionally withholds it. The exact proposition is `UNKNOWN`. | His expectation of her arrival (108–110), two cut-off `ナナサ…` disclosures (113–126), her private `おっちゃん` familiarity (180), and later obstruction (185–193). This supports an information asymmetry, not an exact identity solution. |
-| `KNOW-0004` | **Audience presentation differs from Player knowledge.** The blocking movie after the last-live footage visually previews multiple named girls and an ensemble before the office scene establishes no Nanasta idols. Nothing in B0001 establishes that the Player sees or knows this montage as in-world information. | Page 13 movie command and reviewed exact movie asset; `AV-0001`. Current status: `AUDIENCE_PRESENTATION_ONLY`; future character identities are not imported into B0001 state. |
-| `KNOW-0005` | `kasukabe-haru` recognizes Coney during her stage performance as `セブンスシスターズの七咲――`, hears the denial, and agrees to treat it that way. Coney later supplies near-autobiographical information in third person. **Status:** Haru has a strong recognition/belief; exact explicit disclosure remains withheld. | `EV-B0002-005`, `006`; episode `201000104`, logs 47–58; episode `201000106`, logs 25–56. This state plus presentation supports audience inference; it does not rewrite Coney's literal route or `KNOW-0002`. |
-| `KNOW-0006` | `kasukabe-haru` **believed** her failed debut caused her brother's mistreatment and that renewed idol work would harm him; `haru-younger-brother` later rejects that assignment as his own problem. **Current:** the belief is corrected enough to remove it as Haru's stated prohibition, while complete causation remains unknown. | Acquisition/recollection at episode `201000104`, logs 37–41, and `201000106`, logs 15–22; correction at episode `201000109`, logs 17–22. Reliability improves through direct testimony from the affected person, not omniscient narration. |
-| `KNOW-0007` | **Musubi/public perfect-person asymmetry.** At entry Musubi privately knows that the public “perfect honor student” is incomplete. She later explains that study/sport required effort and that childhood first places made parents/others happy, so she became the cool perfect student people wanted. Peers initially know achievements and image, not this causal burden; Haru, Player, and Coney hear the later account at Nanasta. | `EV-B0003-001`, `002`, `007`, `008`; episode `201000201`, logs 0–5 and 24–47; episode `201000207`, logs 7–16. The parents' interior motives and the full history remain unknown; later disclosure is not back-projected into peers' earlier knowledge. |
-| `KNOW-0008` | **Musubi's singing-disappointment belief is tested and locally corrected.** She believes her cute/different singing is terrible and will disappoint people; the first forced exposures produce surprise but no stated ridicule. After a chosen public test, classmates explicitly say they like the newly visible side, and Haru identifies Musubi's happy smile while singing. Musubi receives the response but still says she ought to remain cool. | `EV-B0003-004`–`009`; self-judgment at episode `201000203`, logs 8–13; belief explanation at `201000207`, logs 14–20; correction at `201000209`, logs 0–26. Status: locally counterevidenced, not globally disproved for every audience/context. |
-| `KNOW-0009` | **Final privacy-disclosure distribution.** Musubi privately self-reports `毛深い` to the nearby group and requests secrecy. Coney repeats it aloud; because the livestream and microphones remain active, remote viewers learn the statement and immediately circulate it as a fandom “attribute.” The physical truth of the self-description is not independently verified. | `EV-B0003-010`; episode `201000209`, logs 38–59. Player learns the transmission state too late; Coney proposes a later apology. No repair, deletion, audience scope, or later consequence is established. |
-| `KNOW-0010` | **Rona's legacy/self-worth model is locally corrected but unstable.** She knows Nicole's performances gave her courage and remembers peer belonging after imitation; she initially believes that becoming an idol requires becoming like Nicole. Haru's testimony supplies direct evidence that Rona already gives courage as herself, which Rona accepts enough to return and debut while retaining Nicole as a goal. A later costume accident immediately restores the global belief that clumsiness disqualifies her. | `EV-B0004-001`, `003`–`008`; episodes `201000304`, logs 18–24; `201000307`, logs 37–57; `201000308`, logs 8–16; `201000309`, logs 42–50. Status: meaningful local reframe, not a durable or generalized correction. |
-| `KNOW-0011` | **Coney/Nicole knowledge distribution at the EPISODE 1.0 boundary.** Rona recognizes Coney as Nicole; Haru and Musubi understand; Coney denies/blocks clarification; the Player remains oblivious. Mana's private `ニコちゃん` address explicitly confirms the identity for the audience. Alessandra privately seeks Nicole, later asks Coney whether they have met, and receives denial/evasion; no later EPISODE 1.0 statement establishes Alessandra's resulting belief. | `EV-B0004-002`, `008`; `EV-B0006-006`; `EV-B0009-008`; `EV-B0010-001`–`004`; `KNOW-0025`, `0026`. Status: audience confirmation with distinct holder states. Literal cover labels/denials, Player ignorance, Alessandra recognition, exact knowledge of every member, and machine routing remain unresolved rather than overwritten. |
-| `KNOW-0012` | `rokusaki-connie-presented` **believes/knows from her own expertise** that direct advice could move Rona closer to Nicole and intentionally withholds it because copying would obstruct new-era succession. Rona does not hear this explanation. | `EV-B0004-008`; episode `201000309`, logs 10–20. Reliability is high for Coney's stated motive and self-assessment, not for the counterfactual certainty of what advice would achieve. The information asymmetry preserves Rona's mistaken recruiter premise. |
-| `KNOW-0013` | **Hime's beauty/grief/desire distribution.** Hime knows she has long wanted to become cute and that praise can feel good, but since her mother's death the same praise recalls a missing speaker and hurts. Before the private riverbank disclosure, Nanasta knows her refusals and visible interest but not this causal structure; the Player hears it first and later the household/Nanasta group learns the desire. | `EV-B0005-001`, `003`–`005`; episode `201000404`, logs 25–53; `201000405`, logs 8–15; `201000406`, logs 8–52. Status: directly self-reported and childhood-corroborated within the chapter; full grief history and privacy authorization for onward disclosure remain unknown. |
-| `KNOW-0014` | **Hime's solitary-burden belief is locally corrected.** Hime believes idol work would transfer unacceptable cost to her father and younger siblings, making refusal morally required. Nanasta's concrete help and each family member's own capacity claim provide direct counterevidence; Hime accepts enough to add idol work without renouncing the shop. | `EV-B0005-002`, `005`, `006`; episode `201000406`, logs 8–62, and `201000407`, logs 0–13. Status: decision-changing local correction, not proof of durable or equal workload redistribution. |
-| `KNOW-0015` | **Unidentified-customer information asymmetry.** The literal `？？？` customer says tofu may become difficult to buy; the Player finds her familiar and cold-looking; Coney implies autograph relevance and declines to explain. Coney therefore appears to know or infer a public significance the Player lacks, but the exact identity, occupation, basis of her knowledge, and future relevance are `UNKNOWN`. | `EV-B0005-006`; episode `201000407`, logs 14–20. Appearance and asset route cannot adjudicate identity. Preserve the presented label until explicit admitted evidence does so. |
-| `KNOW-0016` | **Momoka's effort model is locally revised but not stabilized.** At entry Momoka believes idol work is only singing/dancing and therefore easy; after an apparently successful stage she treats talent as making lessons unnecessary. Girls-band identification repeats the same finished-image model without apprenticeship. A planted sports-training idol anime later makes preparation itself narratively desirable, and she memorizes the stream routine, but immediate lesson resistance shows that the revised model remains temporary rather than durable. | `EV-B0006-001`–`003`, `007`, `008`; episodes `201000501`, logs 0–9; `201000503`, logs 5–23; `201000504`–`505`; `201000508`, logs 19–30; `201000509`, logs 17–46. Status: decision-changing local recoding, not a general cure for work aversion or proof that talent guarantees repeatability. |
-| `KNOW-0017` | **Momoka-intervention information distribution.** Coney intentionally chooses an old sports-training idol anime because she expects Momoka to model it and hides the next schedule with the participation gift. The Player and group learn this explanation after Momoka returns. Momoka knows the anime and schedule, but the source never shows that she knows they were selected and planted to manipulate her return or that she agrees to ongoing external “charging.” | `EV-B0006-005`–`008`; episodes `201000507`, logs 0–22; `201000508`, logs 1–30; `201000509`, logs 11–46. Status: Coney's motive and mechanism are explicit; Momoka's informed consent to the intervention and to its future institutional continuation are unknown. |
-| `KNOW-0018` | **Sumire ordinary/current and recruitment-information distribution.** Sumire privately knows both that fashionable peer life is fun and that `フツーでイマドキ` feels heavy; neither the Player nor Coney hears the prologue. The Player first knows only her intervention and privately classifies her as a candidate. He later discloses his role, Nanasta, and dream; Sumire observes its members, work, and footage before choosing membership. The others hear her name, cooking defenses, interest/refusal, and later decision, but the source does not show her disclosing the opening weight or full half-finished history to them. | `EV-B0007-001`, `003`–`009`; episodes `201000601`–`201000609`. Status: role and local decision information become increasingly shared; cause/history of the opening burden, complete formal terms, and who understands the currentness mechanism remain unknown. |
-| `KNOW-0019` | **Sumire's adequacy model receives decision-changing local counterevidence.** After seeing Nanasta's serious work, she judges her own fun/curiosity and cookies inadequate and refuses to enter half-heartedly; she then identifies earnest speech itself as socially unfashionable. She later names a global belief that she has been half-finished at everything. Coney and the Player cannot establish her interior seriousness, but report that she shone during an elided song; Sumire accepts that observation enough to return and later calls one desire not half-hearted. | `EV-B0007-005`–`009`; episodes `201000605`, logs 3–14; `201000606`, logs 21–43; `201000607`, logs 2–10; `201000609`, logs 7–16. Status: local, decision-changing correction, not proof of technical talent, equal commitment, durable follow-through, or complete repair of the self-model. |
+<a id="current-character-states"></a>
 
-| `KNOW-0020` | **Sui's prince-origin model changes through recovered memory and adopted first-love recognition.** At entry she knows she wants strength/protection but has forgotten why and what she originally wanted to do. She first recalls only a strong boy defeating a bully. Under Hime's questioning she later remembers his care for the protected girl and the defeated boy, whom he understood and befriended, and recognizes that she reduced princehood to winning. Musubi identifies Sui's racing heart, sleeplessness, and mental blankness as first love; Sui ultimately says she had been in love. | `EV-B0008-001`, `003`–`006`; episodes `201000701`, logs 0–9; `201000703`, logs 5–13; `201000705`, logs 16–23; `201000706`, logs 14–48. Status: remembered ethical content and self-adopted love recognition are established. Musubi's stronger claim that Sui became a boy only to hide romantic embarrassment remains a participant interpretation, not proof that every boyish identification or later prince role is false. |
-| `KNOW-0021` | **Sui disclosure and interpretation are unevenly distributed.** Hime and Musubi hear the full childhood account, embodied symptoms, recovered kindness, and Sui's adoption of “love.” The Player is absent from that conversation; he later hears that Sui was too obsessed with becoming prince, that she will preserve the original feeling/effort, and that he now seems prince-like, but not the complete history. Coney hears later talk of love and has her own prince association; the source does not show that she receives the full account. | `EV-B0008-005`–`008`; episode `201000706`, logs 14–64; `201000707`, logs 0–10; `201000709`, logs 10–35. Status: direct disclosure to Hime/Musubi, partial later disclosure to Player/group. Do not back-project the childhood boy's exact identity, Musubi's full theory, or equal knowledge across Nanasta. |
-| `KNOW-0022` | **Coney remembers an unidentified prior “prince” girl.** On first hearing Sui's aim she calls `王子様` nostalgic; at the chapter close she says a girl she knew long ago was also called prince and frames Nanasta as fate. No one supplies a name, date, role, relationship, or confirmation that the opening and closing remarks concern any particular Seven Sisters member. | `EV-B0008-002`, `008`; episode `201000701`, logs 51–53, and `201000709`, logs 33–35. Status: exact memory/clue established; referent and relevance unknown. Catalog knowledge, appearance, or nickname similarity cannot resolve it. |
-| `KNOW-0023` | **Mana supplies Shizuka an experiential model, not a dictated destination.** Shizuka knows only mansion/school rails and asks whether idol work can show her the wider worlds Mana found after a reluctant recruitment. Mana says it can; Shizuka later tests that claim through ordinary commerce, performance, group practice, friendship, and a family appeal, then authors her own family-compatible account of those experiences. | `EV-B0009-001`–`008`; episodes `201000801`–`201000809`. Status: direct advice followed by observed and self-reported uptake. Mana's account does not prove identical motives, outcomes, or coercive conditions, and Shizuka's final rationale is not reducible to imitation. |
-| `KNOW-0024` | **Shizuka's entry and Kuonji permission are unevenly distributed over time.** She joins secretly while expecting family refusal; Nanasta initially lacks her surname and household status, then learns both through her contest disclosure. The grandfather learns enough to demand an appeal, but the exact route and timing remain unstated. He eventually permits entry after hearing Shizuka's answer; Mana had already written asking him to watch silently. | `EV-B0009-004`–`008`; episodes `201000804`–`201000809`. Status: secrecy, staged disclosure, and eventual permission are explicit; legal authority, formal contract terms, the grandfather's complete prior knowledge, and whether all participants learn Mana's intervention remain unknown. |
-| `KNOW-0025` | **Presented Coney is Nicole at the narrative audience layer.** In a private coda containing Mana and the grandfather, Mana entrusts Shizuka to offscreen `ニコちゃん`; the immediately addressed, continuing caretaker role is presented Coney's. This confirms the identity for the audience at the story level. | `EV-B0009-008`; episode `201000809`, closing private exchange. Status: explicit narrative confirmation. It does not retroactively make the Player hear the line, convert the literal `六咲コニー` labels, settle machine/master identity routing, identify the B0005 customer or B0008 prince referent, or constitute Coney's on-screen confession. |
-| `KNOW-0026` | **Alessandra's Nicole target and recognition state remain asymmetric through complete B0010.** Alessandra privately names Nicole, later discloses childhood Seven Sisters fandom and Japanese study, and asks Coney whether they have met. Coney denies/evasively leaves. The Player never acquires the identity proposition or Nicole target. | `EV-B0010-001`–`004`; episodes `201000901`–`201000903`. Status: target, history, and cover pressure are explicit; prior relationship and Alessandra's resulting recognition/belief remain unknown. `PRED-0007` is partially supported for pressure, not resolved for recognition. |
-| `KNOW-0027` | **Nanasta's knowledge of Alessandra's distress and airport movement exceeds its knowledge of cause.** Peers observe lateness, declined food, crying, private calling, luggage, absence, and a flight inquiry, then infer homesickness and departure. Alessandra later says she never intended to leave and was collecting a parental air-cargo package. | `EV-B0010-006`–`009`; episodes `201000906`–`201000909`. Status: observed changes and group inference are explicit; departure is refuted. The cause of crying, caller identity, and whether any homesickness existed remain unknown rather than negatively proven. |
-| `KNOW-0028` | **The Harumi plan begins unevenly distributed.** Sawara knows she wants all three to join and frames the plan as good for Shinju; Kajika trusts her without understanding; Shinju does not consent and repeatedly protects limits. Sawara and Kajika later disclose their own motives, while Shinju's practical future becomes known through hidden overhearing. | `EV-B0011-001`–`004`; episodes `201001001`–`201001006`. Status: uneven planning and later motive disclosure are explicit. Sisterhood does not merge knowledge or authority. |
-| `KNOW-0029` | **Kajika's inference from Shinju's brief stream viewing is overbroad.** Kajika interprets the viewing as aspiration; Shinju says it lasted only minutes and that idol work looked old-fashioned and difficult. Sawara more accurately knows Shinju's dislike of ungrounded dreams and accounting plan, but her judgment that idol exposure is best remains her value claim. | `EV-B0011-004`; episode `201001006`, logs 14–50. Status: competing participant interpretations with Shinju's direct correction. Observation, care, and mind-reading remain separate. |
-| `KNOW-0030` | **Shinju's decision changes only after the social form changes, and assent wording is branch-distributed.** She reports no enjoyment after the solo song and later returns a reasoned refusal. After singing with her sisters, she reports qualified enjoyment. One branch calls the Player good and emphasizes togetherness; the other contains direct confirmation of entry. Both converge on all three sisters being welcomed. | `EV-B0011-005`–`007`; episodes `201001007`–`201001009`. Status: non-enjoyment, deliberation, qualified enjoyment, branch-specific speech, and common roster state are explicit. No categorical idol dream, abandoned accounting plan, or stable labor preference is established. |
+[Current character states](T7S_ENTITY_STATE_COMPONENT_001.md#current-character-states)
 
-## Current directional relationship states
+<a id="episode-60-current-state-annotations-to-existing-stable-ids"></a>
 
-Every pair is stored in both directions because role, obligation, trust, and knowledge are asymmetric.
+[Episode 6.0 current-state annotations to existing stable IDs](T7S_ENTITY_STATE_COMPONENT_001.md#episode-60-current-state-annotations-to-existing-stable-ids)
 
-| ID | Ordered relation at current horizon | Current state and evidence |
-| --- | --- | --- |
-| `REL-0001` | `player-protagonist → nanasta-first-manager` | Familiar employee/successor toward former incumbent: knows his patterns, contests his authority claims and irresponsibility, but accepts the inherited office and device. Reciprocal: `REL-0002`. Pages 35–38, 68–93, 163–179. |
-| `REL-0002` | `nanasta-first-manager → player-protagonist` | Incumbent toward chosen successor: identifies the Player's love/dream, imposes the role, delegates Nanasta, provides support through Coney, and entrusts the HoloCom. Trust and burden coexist; consent was not obtained before appointment. Reciprocal: `REL-0001`. |
-| `REL-0003` | `player-protagonist → rokusaki-connie-presented` | Formally senior by title but practically junior in scouting: accepts her insight and momentum while sometimes challenging coercion. He names the Haru contract fraud-like and preserves Haru's exit, but at St. Corsica follows unauthorized pursuit, asks Haru to trust Coney's secret-based leverage, and only later asks her to avoid further excess. Suspicion about her past remains unresolved. Reciprocal: `REL-0004`. |
-| `REL-0004` | `rokusaki-connie-presented → player-protagonist` | Assigned support who often sets targets, methods, and pace. She accepts correction only indirectly, coordinates Haru's eventual consent, and escalates Musubi pursuit through leverage, costume, performance pressure, and deferred apology. The Player's inconsistent objections do not materially control her methods. She continues controlling information about herself. Reciprocal: `REL-0003`. |
-| `REL-0005` | `rokusaki-connie-presented → nanasta-first-manager` | Prior familiarity and operational confidence: criticizes his scouting, polices what he may reveal, calls him `おっちゃん` after departure, and promises to handle new Nanasta. Exact prior role is unknown. Reciprocal: `REL-0006`. |
-| `REL-0006` | `nanasta-first-manager → rokusaki-connie-presented` | Expects her return, treats her as trusted support and industry senior, and knows information she forbids him to disclose. He yields to her intimidation without resolving their exact history. Reciprocal: `REL-0005`. |
-| `REL-0007` | `player-protagonist → kasukabe-haru` | Recruiter/manager toward cleaner then first performer: initially joins the idol offer, recognizes coercion and objects, praises her, offers a cleaner-only route after resignation, welcomes her self-authored return, discloses Nanasta's limits, and requests consent. Support and participation in pressure coexist. Reciprocal: `REL-0008`. |
-| `REL-0008` | `kasukabe-haru → player-protagonist` | Worker/performer toward manager: begins politely eager for cleaning, trusts enough to sing under the work fiction, resists idol recruitment, resigns, then returns to ask for help and accepts the disclosed small-institution risk. She retains initiative through cleaning competence. Reciprocal: `REL-0007`. |
-| `REL-0009` | `rokusaki-connie-presented → kasukabe-haru` | Scout/mentor toward candidate: accurately perceives song experience and desire, but uses misleading terms, forced presentation, repeated pressure, and an unannounced sibling judge. Later supplies a desire-centered account, permits departure, and insists the final decision be Haru's. Care, identification, and coercive method remain jointly true. Reciprocal: `REL-0010`. |
-| `REL-0010` | `kasukabe-haru → rokusaki-connie-presented` | Candidate toward scout/possible former idol: initially refuses, then laughs with and confides in Coney, recognizes her as Seven Sisters' 七咲 while accepting the cover story, compares herself unfavorably, leaves, and returns asking for support. Trust and admiration do not cancel resistance to pressure. Reciprocal: `REL-0009`. |
-| `REL-0011` | `kasukabe-haru → haru-younger-brother` | Older sister toward younger brother: knows he recognized her love of singing but experiences his unauthorized application as loss of control; later assumes responsibility for his school distress and gives up idol work to protect him. His direct correction permits renewed choice, and she receives his approval emotionally. Reciprocal: `REL-0012`. |
-| `REL-0012` | `haru-younger-brother → kasukabe-haru` | Younger brother/fan toward older sister: initiates her first audition without permission, believes strongly in her ability, later experiences a school problem, and at Nanasta rejects her self-blame, asks her to do what she likes, and judges her audition a pass. Support is genuine; respect for prior consent was deficient. Reciprocal: `REL-0011`. |
-| `REL-0013` | `rokusaki-connie-presented → tendoji-musubi` | Unauthorized scout/manager toward candidate then performer: assumes familiarity, converts boundary enforcement into charisma, uses a food secret as leverage, compels song, violates secrecy through costume, and joins a producer contest over Musubi's unconsulted performance. She correctly notices comic/cute appeal but repeatedly treats insight as authority. Musubi ultimately joins through Haru's invitation; Coney then repeats a new private statement into a live microphone and defers apology. Reciprocal: `REL-0014`. |
-| `REL-0014` | `tendoji-musubi → rokusaki-connie-presented` | Boundary-holder/candidate toward forceful scout: begins by expelling Coney and refusing idol work; asks her to protect a secret and has that trust breached; resists forced songs and costume; later uses Nanasta's training resources while detecting Coney's covert plan. At exit she accepts the institution but immediately asserts a costume/privacy boundary that Coney violates. Membership creates an ongoing managerial relation, not blanket trust or retroactive assent. Reciprocal: `REL-0013`. |
-| `REL-0015` | `player-protagonist → tendoji-musubi` | Scout/coach/manager toward candidate then performer: initially joins unauthorized pursuit and praises appearance; enables Coney's leverage, later recognizes excess, accepts Musubi's voluntary training request, coaches directly, supports the public test, and welcomes her consent. He leaves the stream active and proposes food to placate her after the private disclosure. Support and deficient safeguarding coexist. Reciprocal: `REL-0016`. |
-| `REL-0016` | `tendoji-musubi → player-protagonist` | Boundary-holder/trainee/performer toward scout then manager: expels him at entry, asks for secrecy, later voluntarily requests strict instruction and permits direct name address, calls him `支配人`, trusts the stage proposal enough to participate, and accepts his welcome. Her final distress and anticipated anger preserve an unresolved accountability claim. Reciprocal: `REL-0015`. |
-| `REL-0017` | `kasukabe-haru → tendoji-musubi` | Current performer/training peer/friend toward candidate: arrives as recruitment help and initially repeats the cool image, but protects Musubi from teasing, questions perfection without assuming the answer, listens to the singing desire, identifies joy, and likes both cool/cute modes. She proposes the public test, helps push through hesitation, and finally asks Musubi as a friend to join and share ordinary outings. Reciprocal: `REL-0018`. |
-| `REL-0018` | `tendoji-musubi → kasukabe-haru` | Candidate then friend/peer toward first performer: initially refuses recruitment but explicitly supports Haru, trains beside her, discloses the childhood approval pattern and desire for song/friendship, and accepts her interpretation enough to perform publicly. Haru's word `友達` surprises her; she then accepts the invitation, calls her `ハル`, and agrees to lessons and detours. Reciprocal: `REL-0017`. |
-| `REL-0019` | `tendoji-musubi → st-corsica-peers` | Student-council president toward admiring peers: works to embody the perfect figure she believes makes others happy, hides ordinary appetite/singing, and expects difference to disappoint them. She objects to disclosure/chanting but later chooses a public test and asks whether they can still like the imperfect self. Their acceptance supplies corrective evidence, though her concern for image does not vanish. Reciprocal: `REL-0020`. |
-| `REL-0020` | `st-corsica-peers → tendoji-musubi` | Admirers toward president: celebrate achievements and beauty, disclose information and chant over embarrassment, then respond to cute singing with continued affection rather than rejection. Their acceptance expands the public persona but still packages her as `ギャップ萌え`/a new side. Affection is genuine within the shown group; responsiveness to privacy remains incomplete. Reciprocal: `REL-0019`. |
-| `REL-0021` | `player-protagonist → tsunomori-rona` | Scout/manager toward candidate then third performer: stops Coney from forcing a frightened stranger, accepts Rona's own request, supervises practice, gives Haru/Rona private space, corroborates Rona's positive effect, asks her back, and welcomes her membership/name request. He also permits rushed and forced performance formats, cannot clarify Coney's identity, and voices a weak joke branch before peer correction. Support is genuine; safeguarding and information are incomplete. Reciprocal: `REL-0022`. |
-| `REL-0022` | `tsunomori-rona → player-protagonist` | Candidate/performer toward manager: voluntarily asks his team for idol help, accepts training, receives his affirmation, chooses return, debuts, identifies herself as a Sisters member, and asks him to use `ロナ` as he does her peers. Trust is real but partly formed under the mistaken belief that Nicole personally recruited her; no formal terms are shown. Reciprocal: `REL-0021`. |
-| `REL-0023` | `rokusaki-connie-presented → tsunomori-rona` | Scout/possible model toward candidate: identifies potential, frightens Rona with an abrupt persona, rushes a live lesson, and eroticizes crying. She explicitly denies being Nicole despite Rona's recognition. During the crisis she withholds expert imitation advice so Rona can become a new-era idol rather than a copy, then praises Rona's own debut and comforts her after the accident. Strategic care, coercive method, and identity concealment remain jointly true. Reciprocal: `REL-0024`. |
-| `REL-0024` | `tsunomori-rona → rokusaki-connie-presented` | Fan/candidate toward concealed model-manager: recognizes Coney as beloved Nicole, treats the apparent personal invitation as permission to try, and repeatedly seeks Nicole's standard/approval. She does not accept Coney's separate-identity denial as credible, but is not shown confronting the deception after it blocks the Player. Admiration and dependence create an acute information asymmetry. Reciprocal: `REL-0023`. |
-| `REL-0025` | `kasukabe-haru → tsunomori-rona` | Performer/friend toward new peer: enjoys dancing with Rona, values the three-person future, searches rather than accept disappearance, and supplies the specific recognition that changes Rona's decision. She also compels the street battle over refusal. Her strongest care arrives afterward through withdrawal from spectacle, shared silence, admitted uncertainty, and naming Rona's already-real effect. Reciprocal: `REL-0026`. |
-| `REL-0026` | `tsunomori-rona → kasukabe-haru` | Candidate/friend toward first performer: practices with Haru, receives her correction, stays for the quiet conversation, asks whether she herself can give courage, and returns to work together. Haru explicitly says Rona makes her forward-looking; Rona's own naming and collective cheer show reciprocal peer trust. The relation's ability to survive disagreement beyond this rescue remains unknown. Reciprocal: `REL-0025`. |
-| `REL-0027` | `tendoji-musubi → tsunomori-rona` | Current performer/peer toward candidate: recognizes Rona's strong singing, worries about her apparent bad luck and disappearance, waits at Nanasta in case she returns, helps with tears, joins the pre-debut correction, and reports enjoying their shared song. Care is practical and increasingly familiar, though the chapter supplies little direct conflict between them. Reciprocal: `REL-0028`. |
-| `REL-0028` | `tsunomori-rona → tendoji-musubi` | Candidate then peer toward second performer: accepts praise and training, calls her `ムスビちゃん`, apologizes anxiously when she imagines anger, and performs beside her. Membership places them in the same emerging collective; Rona's dependence, disagreement, and knowledge of Musubi's earlier privacy injury remain unshown. Reciprocal: `REL-0027`. |
-| `REL-0029` | `player-protagonist → nonohara-hime` | Recruiter/manager toward candidate then fourth performer: participates in the initial appearance-led pursuit and permits the imposed shop test, then meets Hime through reciprocal labor, listens privately, and offers a lower-audience HoloCom rehearsal rather than simple contradiction. He reframes cuteness as practice and later asks for entry/support, but reports her private conflict to family without shown permission and universalizes a gendered desire. Support and producer authority coexist. Reciprocal: `REL-0030`. |
-| `REL-0030` | `nonohara-hime → player-protagonist` | Worker/candidate toward manager: initially refuses, later notices his money-saving walk, offers a bicycle ride and chosen detour, discloses grief, agrees to his simulated-live proposal, and nearly asks whether he can make her cute. She reasserts family duty before later choosing entry, receives his support, and expects him to manage responsibly in one branch. Trust grows through private reciprocity but does not establish blanket delegation of self-definition. Reciprocal: `REL-0029`. |
-| `REL-0031` | `rokusaki-connie-presented → nonohara-hime` | Scout toward candidate then performer: identifies visible appeal and hidden interest, mobilizes Nanasta and neighborhood opportunities, and recognizes Hime's potential. She also imposes a shop performance over refusal, accelerates entry into an immediate district live, and later pressures Hime toward a frilly costume she rejects. Accurate perception and useful opportunity do not constitute consent. Reciprocal: `REL-0032`. |
-| `REL-0032` | `nonohara-hime → rokusaki-connie-presented` | Candidate/performer toward forceful scout: repeatedly refuses, accurately understands idol labor, challenges the imposed test, later accepts the institution after independent material support, and assents to the district live when she can address her community. At exit she flees Coney's costume proposal. Membership and gratitude do not erase resistance or create generalized trust. Reciprocal: `REL-0031`. |
-| `REL-0033` | `tsunomori-rona → nonohara-hime` | Third performer toward candidate then chosen elder-sister figure: Hime's first `シャキっと` gives Rona courage; Rona later remembers the specific effect, sees sadness inside Hime's praise, identifies a shared wish to become cuter, helps the shop/household, and asks to work together. Her recognition recruits for Hime's existing care rather than appearance alone. Reciprocal: `REL-0034`. |
-| `REL-0034` | `nonohara-hime → tsunomori-rona` | Protector/new performer toward peer: steadies Rona at first meeting, later hears Rona's specific account and shared desire, accepts her help, and after debut calls Rona a new younger sister while ending deferential speech. The sibling idiom extends Hime's caretaking identity into Nanasta; later reciprocity, conflict, and whether Rona can support without idealizing remain unknown. Reciprocal: `REL-0033`. |
-| `REL-0035` | `nonohara-hime → hime-father` | Daughter/signboard worker toward father: models speech and `オレ` partly on him, carries much shop/household labor, treats his and the younger children's welfare as a prohibition on idol work, and repeatedly asks whether the new path is permitted. She accepts his capacity claim and public blessing without surrendering the shop identity. Love, responsibility, and underestimation of others' agency coexist. Reciprocal: `REL-0036`. |
-| `REL-0036` | `hime-father → nonohara-hime` | Father/shop head toward daughter: relies on Hime's visible labor, says the family is stronger than she assumes, refuses to obstruct her desired work, apologizes for missing her feelings, and publicly sends her into the world as both parents' daughter. His support changes her decision; whether he durably redistributes work rather than only promises it remains unknown. Reciprocal: `REL-0035`. |
-| `REL-0037` | `player-protagonist → serizawa-momoka` | Scout/manager toward candidate then fifth performer: recognizes her appeal and supports the first stage, rejects Coney's mimed-performance/audio-repair proposal, and later says another chosen path should be accepted. He also joins exit blocking, reads the scripted audition loss, participates in the hidden-media plan, formally admits Momoka after the successful stream, and resolves to keep her supplied with anime. Safeguarding and managerial manipulation coexist. Reciprocal: `REL-0038`. |
-| `REL-0038` | `serizawa-momoka → player-protagonist` | Candidate/performer toward scout then manager: volunteers for the first stage and later Nanasta, repeatedly withdraws from continuing work, joins the bounded product audition, self-initiates the final return, and accepts his formal admission enthusiastically. Her immediate lesson resistance shows that present trust/membership does not delegate unlimited control or establish durable labor assent. Reciprocal: `REL-0037`. |
-| `REL-0039` | `rokusaki-connie-presented → serizawa-momoka` | Scout/competitor toward candidate then performer: first pursues an arcade rematch, then repeatedly detects Momoka's current interest and turns it into an opportunity. She invents a band vacancy, directs blocked exits and candy leverage, scripts the audition result, plants sports-training anime and a schedule, and designs ongoing “charging.” Her diagnosis enables genuine preparation and success but relies on deception and stimulus control. Reciprocal: `REL-0040`. |
-| `REL-0040` | `serizawa-momoka → rokusaki-connie-presented` | Skilled opponent/candidate toward scout-manager: defeats Coney, refuses a stale rematch, accepts several attractive roles Coney offers, exits when labor becomes salient, and later responds to the planted sports-anime script without shown knowledge of its purpose. She accepts current Nanasta membership but immediately tests the limits of Coney's motivation system. Compliance in selected moments is not generalized trust or informed authorization. Reciprocal: `REL-0039`. |
-| `REL-0041` | `kasukabe-haru → serizawa-momoka` | Current performer toward candidate then peer: joins the first scouting party, enjoys the elided stage, lends labor to Momoka's band, performs the scripted capture appeal, participates in the audition/stream plan, and welcomes the successful return. Her willingness to work and include Momoka is genuine, but she does not challenge the deceptive intervention in the shown chapter. Reciprocal: `REL-0042`. |
-| `REL-0042` | `serizawa-momoka → kasukabe-haru` | Candidate then peer toward first performer: accepts Haru as a stage and band collaborator, appoints her within the imagined band, and later performs in the five-person formation. Repeated withdrawal leaves Haru and the group carrying preparation costs; final membership establishes a current peer relation, not yet durable reciprocity, conflict repair, or shared governance of work. Reciprocal: `REL-0041`. |
-| `REL-0043` | `player-protagonist → usuta-sumire` | Unknown stranger, then recruiter/manager toward candidate and sixth performer: receives her crisis intervention, privately classifies her, later discloses his role and dream, accepts that refusal may stand, apologizes for force, recognizes kindness/cooking/seriousness/name, asks for her feelings, and objects to the sudden stream. His recognition helps her oppose self-disqualification. He also pursues after refusal, repeatedly uses the prohibited given name, joins pushed performances, and welcomes membership without shown formal terms. At exit he receives exclusive permission to use `スミレ` and a strongly implied romantic approach. Support, producer authority, boundary failure, and chosen intimacy coexist. Reciprocal: `REL-0044`. |
-| `REL-0044` | `usuta-sumire → player-protagonist` | Concerned stranger, then candidate/performer toward scout-manager: intervenes under uncertainty, later provisionally trusts his role claim, hears his dream, visits his workplace partly because it is his, values his effort, and admits attraction to the Nanasta where he is. She repeatedly corrects his name use, refuses idol work and private karaoke, later refuses on adequacy grounds, explicitly accepts one stream, and afterward chooses membership. She grants him alone given-name permission, adopts `支配人`, and asks whether he has a girlfriend. Attraction is strongly implied, not confessed; membership and intimacy do not delegate blanket authority over name, performance, costume, or future labor. Reciprocal: `REL-0043`. |
-| `REL-0045` | `rokusaki-connie-presented → usuta-sumire` | Scout-manager toward candidate then performer: monitors encounters from concealment, inserts herself into karaoke, summons Nanasta peers, starts music over refusal, pushes a second song, assumes Sumire's purpose in proposing an immediate stream, and pressures a bunny costume. She also creates access to the group/performance field and carefully says she cannot know Sumire's interior seriousness, only that she shone. Opportunity, accurate observation, coercion, and incomplete information coexist. Reciprocal: `REL-0046`. |
-| `REL-0046` | `usuta-sumire → rokusaki-connie-presented` | Candidate/performer toward forceful scout-manager: finds Coney incomprehensible but enjoys her singing/energy, undergoes two pushed songs, receives the bounded shining judgment, and later accepts an immediate stream after hesitation. In the costume coda she initially refuses Coney's whispered proposal, then agrees after an undisclosed assurance about the Player's taste. Later compliance and membership do not erase earlier resistance or establish generalized trust. Reciprocal: `REL-0045`. |
-| `REL-0047` | `established-nanasta-performers → usuta-sumire` | Five current performers toward visitor/candidate then peer: welcome Sumire into a serious practice field. Haru and Momoka mishandle her requested form of address; Hime recognizes handmade skill and urges her to accept praise; Rona envies that skill; the group's work becomes the standard Sumire uses to judge her own adequacy. Their inclusion and recognition are real, but they do not stop Coney's first forced song or establish differentiated later friendships. Reciprocal: `REL-0048`. |
-| `REL-0048` | `usuta-sumire → established-nanasta-performers` | Visitor/candidate then sixth peer toward the prior five performers: brings homemade cookies, enjoys group singing and company, believes she could get along with them, and takes their serious work so seriously that she initially refuses entry as inadequately motivated. She later accepts collective support in the immediate-stream decision and chooses the institution. Admiration and current peer membership are established; sustained reciprocity, conflict, individual bonds, work allocation, and informed group governance remain unknown. Reciprocal: `REL-0047`. |
+<a id="episode-nanasuta-current-state-annotations-to-existing-stable-ids"></a>
 
-| `REL-0049` | `player-protagonist → kamishiro-sui` | Rescuer/rival then manager toward challenger and seventh performer: reaches a drowning child first, accepts three song contests, gives joined cool/cute recognition, and answers Sui's final request as idol/girl development. His first offered hand elicits an explicit no-touch boundary and reflexive punch; he later presses a towel after renewed refusal, then proposes a handshake after both prior responses. All three attempts end in the same response. Rescue, attention, useful recognition, and repeated boundary failure coexist. Reciprocal: `REL-0050`. |
-| `REL-0050` | `kamishiro-sui → player-protagonist` | Challenger/candidate then performer toward rescuer-manager: treats his rescue as a loss, repeatedly asks for rematches, accepts defeat, comes to see him as prince-like, and explicitly asks him to develop her before accepting entry. She also repeatedly says men must not touch her, reflexively punches when he persists, and apologizes each time. Admiration and chosen managerial trust do not authorize touch or establish romance; the physical response remains at exit. Reciprocal: `REL-0049`. |
-| `REL-0051` | `rokusaki-connie-presented → kamishiro-sui` | Scout-manager toward challenger then performer: recognizes Sui's prince language as personally familiar, openly uses a crooked equivalence to turn her challenge against the Player into an idol contest, and thereby creates the first performance opportunity. She later welcomes the outcome as Nanasta “fate” while recalling an unnamed earlier prince-girl. Facilitation and manipulation coexist; neither the referent nor a private long-term plan is established. Reciprocal: `REL-0052`. |
-| `REL-0052` | `kamishiro-sui → rokusaki-connie-presented` | Challenger/candidate toward forceful manager: accepts Coney's contest logic, participates in the field she creates, and later enters the institution Coney represents, but independently sends the rematch letter, requests the final duel, and chooses the final song. Local cooperation is established; generalized trust, knowledge of Coney's past, and delegation of self-definition are not. Reciprocal: `REL-0051`. |
-| `REL-0053` | `nonohara-hime → kamishiro-sui` | Rival then peer toward challenger: initially gender-polices Sui's `ボク` and prince aim, competes twice, then asks whether the childhood prince was kind rather than only strong, hears the full account, and helps create a final self-expression test. Her “ordinary girl” and rescued-femininity advice remains constraining, but she finally proposes working together and calls Sui prince. Rivalry becomes reciprocal recognition without complete ideological repair. Reciprocal: `REL-0054`. |
-| `REL-0054` | `kamishiro-sui → nonohara-hime` | Challenger then peer toward principal rival: accepts both losses, resists Hime's gender classification, later trusts her with the childhood account and takes her kindness question seriously enough to recover omitted memory. At exit Sui calls Hime princess; Hime rejects that identity for herself but returns prince address and collective work. Respect and shared entry are established; later friendship, disagreement, and self-defined gender language remain untested. Reciprocal: `REL-0053`. |
-| `REL-0055` | `tendoji-musubi → kamishiro-sui` | Reluctant contest participant then confidante/peer toward challenger: joins after objecting to Hime's unilateral volunteering, hears Sui's full history, identifies first love, supports a mood-lifting song, and later says the Player has not learned from the touch pattern. Her diagnostic attention helps Sui name an experience, while the claim that princehood was self-deception overreaches the evidence Sui preserves. Reciprocal: `REL-0056`. |
-| `REL-0056` | `kamishiro-sui → tendoji-musubi` | Challenger/candidate then peer toward experienced performer: competes with Musubi, later discloses the childhood prince and bodily symptoms to her and Hime, initially distinguishes identification from love, then adopts the love recognition and joins another song. Disclosure and selective acceptance establish trust in this moment; they do not make Musubi an infallible interpreter or show sustained dyadic friendship. Reciprocal: `REL-0055`. |
-| `REL-0057` | `player-protagonist → kuonji-shizuka` | Recruiter/manager toward guest then eighth performer: notices potential through ordinary contact, invites her more than once without converting silence into assent, supports the guest act and family appeal, rejects Coney's fortune motive, and accepts responsibility after permission. He also declares membership before formal terms and does not prevent the secret stream. Depending on the authored branch, he frames everyone including Shizuka as protagonists or places outcome responsibility on her as lead; both converge on chosen performance. Reciprocal: `REL-0058`. |
-| `REL-0058` | `kuonji-shizuka → player-protagonist` | Curious candidate then performer toward recruiter/manager: declines to answer immediately, returns voluntarily, joins play and work, entrusts the family appeal to the group, accepts either branch answer, and chooses Nanasta after her grandfather's permission. She tests his authority through enormous luggage and an installed tea room; her trust is active and playful, not passive obedience. Reciprocal: `REL-0057`. |
-| `REL-0059` | `rokusaki-connie-presented → kuonji-shizuka` | Scout-manager/Nicole toward candidate then performer: offers a path beyond inherited rails, creates a guest-performance opening, recognizes the Mana connection, helps organize the family appeal, and receives Mana's private entrustment. She also imagines extracting Kuonji wealth for Nanasta and secretly streams the appeal after broadcast has been ruled out. Opportunity, legacy care, opportunism, and privacy failure coexist. Reciprocal: `REL-0060`. |
-| `REL-0060` | `kuonji-shizuka → rokusaki-connie-presented` | Candidate then performer toward forceful manager and unrecognized/undisclosed Nicole: accepts Coney's invitation field and appeal plan, but repeatedly authors her own next move and final rationale. She does not hear Mana's `ニコちゃん` entrustment and is not shown learning Coney's identity or authorizing the secret stream. Cooperation and unknown information coexist. Reciprocal: `REL-0059`. |
-| `REL-0061` | `nonohara-hime → kuonji-shizuka` | Current performer/shop worker toward guest then peer: gives Shizuka an ordinary-life encounter, agrees to teach her dance, performs with her, later helps define her as the appeal's protagonist, and practices toward the family test. Hime's work and stage integration give Shizuka an accessible bridge between inherited duty and chosen performance. Reciprocal: `REL-0062`. |
-| `REL-0062` | `kuonji-shizuka → nonohara-hime` | Customer/guest then peer toward performer/teacher: is captivated by Hime's beauty and Nanasta's family-like atmosphere, requests to dance, follows instruction, buys an excessive quantity of tofu, and later joins coordinated work. Admiration and gratitude are explicit; durable friendship, equal material scale, and negotiated support remain untested. Reciprocal: `REL-0061`. |
-| `REL-0063` | `kuonji-grandfather → kuonji-shizuka` | Household authority and doting grandfather toward granddaughter: constrains her to family duty, objects to secret entry, lends the historic stage for a test, listens, asks what she will learn, accepts her family-compatible answer, grants permission, entrusts her to the Player, and asks for the recording. Affection and coercive leverage coexist; permission is genuine within this episode but not proof of unconstrained future autonomy. Reciprocal: `REL-0064`. |
-| `REL-0064` | `kuonji-shizuka → kuonji-grandfather` | Granddaughter/heir toward effective authority: anticipates refusal, joins secretly, fears institutional retaliation, then deliberately stages an appeal and argues that outside experience will strengthen rather than abandon Kuonji duty. She receives permission joyfully without repudiating family belonging. Negotiated reinterpretation is established; equality of power and durability under future conflict are not. Reciprocal: `REL-0063`. |
-| `REL-0065` | `misonoo-mana → kuonji-shizuka` | Older-sister figure/legacy idol toward younger Kuonji: shares a bounded account of reluctant recruitment and expanded experience, assures Shizuka that she too can see beyond the fixed route, privately asks the grandfather to watch, trusts Shizuka's companions, and entrusts her to Nicole. Her support protects an opening but leaves the final argument and choice to Shizuka. Reciprocal: `REL-0066`. |
-| `REL-0066` | `kuonji-shizuka → misonoo-mana` | Younger-sister figure toward admired legacy idol: asks why Mana became an idol, treats her life as evidence of possible worlds, openly names her as inspiration, and later describes wanting a world like Mana's. Admiration becomes self-authored experimentation rather than simple replication. Reciprocal: `REL-0065`. |
-| `REL-0067` | `player-protagonist → alessandra-susu` | Stranger/scout then manager toward traveler/ninth performer: begins with appearance-led language assumptions and a blunt pitch, later offers participation in the successor Nanasta after she grieves Seven Sisters, and receives explicit assent. He sends the manual used for the forced airport link and participates in both swimsuit-response branches. Helpful candor, emotionally/romantically charged recruitment, care, public intrusion, and unresolved housing/professional safeguards coexist. Reciprocal: `REL-0068`. |
-| `REL-0068` | `alessandra-susu → player-protagonist` | Traveler/candidate then performer toward scout-manager: rejects his pair's first method, later accepts the new-Nanasta offer, calls him darling, initiates physical/flirtatious intimacy, says in one choice branch that she loves him, and proposes cohabitation. Her play and attraction-coded speech do not authorize manager control, prove literal romance, or settle guardian/housing/work terms. Reciprocal: `REL-0067`. |
-| `REL-0069` | `rokusaki-connie-presented → alessandra-susu` | Nicole under cover/scout toward lifelong Nicole seeker and performer: begins with pseudo-language and blunt recruitment, rigs the lottery that brings Alessandra onstage, denies/evasively exits when asked about prior meeting, then helps organize performance, surveillance, and airport pursuit. Opportunity, concealed identity, fraud, comic control, and care coexist. Reciprocal: `REL-0070`. |
-| `REL-0070` | `alessandra-susu → rokusaki-connie-presented` | Traveler seeking Nicole toward Nicole's presented cover: rejects the crude method, later asks directly whether they have met, receives denial, and continues without disclosing or resolving her Nicole belief. She accepts the institution Coney manages but not blanket authority over approach, interpretation, or identity. Reciprocal: `REL-0069`. |
-| `REL-0071` | `established-nanasta-performers → alessandra-susu` | Eight current performers toward ninth peer: supply Seven Sisters history, rehearse/compete, notice distress, take over the airport broadcast, publicly call Alessandra friend/companion, and welcome her back. Their care and operational competence are real; tailing, unverified homesickness/departure inference, forced linking, and public pressure remain boundary failures. Reciprocal: `REL-0072`. |
-| `REL-0072` | `alessandra-susu → established-nanasta-performers` | New performer toward prior group: shares fandom history, rehearses, competes, initially withholds distress, apologizes for worrying them, accepts companion language, and returns `ただいま`. She was not leaving, so reciprocity cannot be reduced to rescue dependence. Durable labor, individualized friendships, and consent to surveillance/public address remain unknown. Reciprocal: `REL-0071`. |
-| `REL-0073` | `tendoji-musubi → alessandra-susu` | Established performer/rival toward new peer: initially polices touch and opposite-sex propriety through Japanese-cultural language, accepts repeated performance rivalry, joins the public appeal, and finally offers a reluctant `おかえり`. Ethical concern, jealousy-coded affect, national overgeneralization, competition, and guarded care coexist. Reciprocal: `REL-0074`. |
-| `REL-0074` | `alessandra-susu → tendoji-musubi` | New performer/rival toward established peer: challenges Musubi's interpretation and affective stake, competes without an established winner, then answers the welcome with `ただいま` and an embrace. Rivalry becomes peer belonging without proving agreement or generalized touch consent. Reciprocal: `REL-0073`. |
-| `REL-0075` | `tsunomori-rona → alessandra-susu` | Seven Sisters fan/current performer toward newcomer: supplies all six legacy names, participates in the group welcome, and responds happily rather than refusing when Alessandra hugs her. Shared fandom and local warmth are established; Rona's response cannot be generalized to other recipients or a durable dyad. Reciprocal: `REL-0076`. |
-| `REL-0076` | `alessandra-susu → tsunomori-rona` | Newcomer/fellow fan toward established performer: receives Seven Sisters knowledge and initiates an embrace that Rona appears to welcome. Immediate ease and fandom bridge are present; later friendship and blanket tactile permission are not. Reciprocal: `REL-0075`. |
-| `REL-0077` | `rokusaki-connie-presented → harumi-sisters` | Scout-manager toward three-sister unit: treats “real sisters” as a desired type, designs a wager with entry as every practical outcome, pursues them into shop work, stages hidden overhearing, forces Shinju's solo test, and finally welcomes all three. She also articulates sincere enjoyment as a criterion. Perception, opportunity, contradiction, and coercive capture coexist. Reciprocal: `REL-0078`. |
-| `REL-0078` | `harumi-sisters → rokusaki-connie-presented` | Preexisting sister/shop unit toward forceful manager: Sawara initiates the challenge and wants entry; Kajika initially observes; Shinju voids the draw, refuses, corrects address, requests time, and later enters through togetherness. Collective current affiliation is established without a uniform motive or delegated authority. Reciprocal: `REL-0077`. |
-| `REL-0079` | `harumi-sawara → harumi-shinju` | Eldest sister toward youngest: affectionately frames action as best for Shinju, accurately knows her grounded future plan, wants her to encounter dreams, and identifies that the solo test omitted sister togetherness. She also plans without prior agreement, speaks for Shinju, uses a diminutive, and presses clothing. Insightful care and paternalism coexist. Reciprocal: `REL-0080`. |
-| `REL-0080` | `harumi-shinju → harumi-sawara` | Youngest toward eldest: distrusts Sawara's durable enthusiasm, calls her meddlesome, protects her own plan and decision, yet takes the care seriously and eventually finds conditional enjoyment with both sisters. Affection and cooperation do not surrender self-management or clothing choice. Reciprocal: `REL-0079`. |
-| `REL-0081` | `harumi-kajika → harumi-shinju` | Second sister toward youngest: trusts Sawara's plan, interprets brief viewing as hidden aspiration, and later explicitly says she wants to support cute Shinju. Her support motive and participation are real; the aspiration inference is corrected by Shinju. Reciprocal: `REL-0082`. |
-| `REL-0082` | `harumi-shinju → harumi-kajika` | Youngest toward second sister: keeps Kajika on fish-shop duty, rejects the inference drawn from brief viewing, and nevertheless accepts a togetherness test in which Kajika participates. Practical coordination and sister trust coexist with resistance to being interpreted for. Reciprocal: `REL-0081`. |
-| `REL-0083` | `player-protagonist → harumi-shinju` | Manager toward reluctant candidate/current performer: participates in hidden overhearing and asks whether qualified sisterly cooperation means yes, but explicitly says she cannot be forced and accepts her request for time. In one final branch he emphasizes togetherness; in the other he directly asks for membership. Support and participation in pressure coexist. Reciprocal: `REL-0084`. |
-| `REL-0084` | `harumi-shinju → player-protagonist` | Reluctant candidate/current performer toward manager: gives reasoned refusals, thanks him for accepting deliberation, then either calls him a good person or explicitly confirms entry depending on branch. Both routes support positive bounded trust; neither establishes a categorical idol dream or blanket managerial authority. Reciprocal: `REL-0083`. |
-| `REL-0085` | `established-nanasta-performers → harumi-sisters` | Nine prior performers toward candidates/peers: compete, visit the shop, accept Shinju's deliberation, join the sisters-together song, and welcome all three. Musubi voices the strongest no-force rule. Collective inclusion is real, while shop disruption and closing clothing crowding show that peer pressure persists. Reciprocal: `REL-0086`. |
-| `REL-0086` | `harumi-sisters → established-nanasta-performers` | Sister/shop unit toward prior Nanasta group: Sawara challenges and seeks entry, Kajika participates for her own supportive reason, and Shinju moves from refusal through a locally chosen togetherness test to converged membership. Shared affiliation is established; individual bonds, work allocation, performance quality, and uniform enthusiasm are not. Reciprocal: `REL-0085`. |
+[EPISODE NANASUTA current-state annotations to existing stable IDs](T7S_ENTITY_STATE_COMPONENT_001.md#episode-nanasuta-current-state-annotations-to-existing-stable-ids)
 
-## Current unit and institution states
+<a id="first-i-n-g-tranche-character-state-additions"></a>
 
-| ID | Interval and current formulation | Membership/role limits and evidence |
-| --- | --- | --- |
-| `UNIT-0001` / Seven Sisters | Historical unit presented through last-live footage and the Player's recollection; reported dissolved two years before the 2034 office scene. B0002 adds Haru's performance-time recognition of Coney as `セブンスシスターズの七咲――` and Coney's description of a “somewhat famous” group leader. B0004 adds Rona's confident recognition and Coney's first-person-plural wish that successors surpass `私たち`. B0009 gives Mana direct present/private appearances and explicit audience-layer confirmation of presented Coney as Nicole through `ニコちゃん`. | Literal names supplied in B0001: 羽生田ミト, 御園尾マナ, 寿クルト, 若王子ルイ, 遊佐メモル, 七咲ニコル. `KNOW-0025` resolves Coney/Nicole for the narrative audience, while literal cover labels/denials, Player knowledge, machine routing, the precise historical membership interval, and exact dissolution date remain bounded separately. |
-| `UNIT-0002` / Nanasta institution | **Complete EPISODE 1.0 boundary:** Player is second manager and Coney the practical scouting/management lead. Haru, Musubi, Rona, Hime, Momoka, Sumire, Sui, and Shizuka enter sequentially through distinct negotiations; Alessandra becomes the ninth current performer; Sawara, Kajika, and Shinju are then welcomed collectively, bringing the roster to twelve without a stable internal ordinal among the sisters. Training, stage, stream, practical care, technical linking, coordinated practice, and partial peer leadership are usable. The ending keeps scouting open worldwide. | `EV-B0001-002`–`006`; all formation events through `EV-B0011-008`; `WORLD-0001`, `WORLD-0003`, `WORLD-0005`; `UNIT-0005`, `0006`. Formal contracts, pay, guardianship/housing, stable schedules/content, broad audience recovery, final unit structure, durable labor/care allocation, role allocation, performed quality, and reliable privacy/information/consent/touch/name/costume/gender/romance-professional safeguards remain unknown. Current membership, family permission, material resources, accurate perception, and beneficial outcomes cannot substitute for those tests. |
-| `UNIT-0003` / St. Corsica school social institution | Restricted prestigious girls' school with Musubi as student-council president. Shown peers publicly celebrate her as their perfect girl, initially ignoring embarrassment; after hearing/seeing cute singing, they express surprise and then broaden rather than withdraw affection. A school idol club persists inside the institution despite being near disbandment. | `EV-B0003-002`, `003`, `006`, `009`; episodes `201000201`, `201000205`, and `201000208`–`209`. Only the shown group is evidenced; school-wide unanimity, parents' views, policy toward outside scouts/streams, and consequences of the broadcast remain unknown. |
-| `UNIT-0004` / St. Corsica idol club | A school club said by its president to have existed for more than twenty years as the “red shooting star” of Corsica; Musubi says it is currently near disbandment after the idol boom. The president seeks revival by producing Musubi, competes with Coney, then claims to entrust Musubi to Nanasta. Musubi never joins the club or grants the president authority over her; the president later attends/supports the public test. | `IDENTITY-0007`; `CHAR-0007`; `EV-B0003-006`, `009`; episode `201000204`, logs 5–27, and `201000209`, logs 7–8. Exact membership, achievements, governance, and history are unverified attributed claims beyond the observed president. |
-| `UNIT-0005` / Nonohara household and tofu shop | Family household, tofu business, and neighborhood-facing labor unit centered in the shown chapter on Hime, her father, and younger brother/sister. Hime handles delivery, sales, product knowledge, cooking, clothing, and sibling care and calls herself the shop's signboard daughter. Nanasta members temporarily help; father and children promise a continuing redistribution that makes idol entry possible; the shopping district affirms Hime without requiring abandonment of the shop role. | `IDENTITY-0009`–`0013`; `CHAR-0009`–`0011`; `EV-B0005-001`, `002`, `005`, `006`; episodes `201000401`–`201000407`. Exact finances, staffing, mother-loss chronology, sibling ages/names, household composition beyond shown members, and durability/equality of redistributed labor remain unknown. |
-| `UNIT-0006` / Harumi sisters and fish shop 魚晴 | Preexisting sister and shop-labor unit comprising eldest Sawara, second sister Kajika, and youngest elementary-school student Shinju. All three are known as signboard girls. Sawara initiates idol entry, Kajika supplies a support motive, and Shinju protects shop work, time, terms, and an accounting/inheritance future. Their final joint performance produces converged Nanasta entry without erasing differentiated motives or shop identity. | `IDENTITY-0022`–`0024`; `CHAR-0019`–`0021`; `EV-B0011-001`–`008`; `REL-0079`–`0086`. Parents/other household members, ownership, finances, exact staffing, ages, scheduling, and post-entry labor redistribution remain unknown. Sister care, authority, and consent remain directional rather than merged. |
+[First i-n-g tranche character-state additions](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-character-state-additions)
 
-## Readiness and transition history
+<a id="first-i-n-g-tranche-annotations-to-existing-character-states"></a>
 
-### `READY-0001` — 春日部ハル
+[First i-n-g tranche annotations to existing character states](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-annotations-to-existing-character-states)
 
-- `subject_id`: `kasukabe-haru`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of T7S_B0002 / episode `201000109`
-- `artifact_version`: entity ledger 1.2; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0002-001`–`009`; `CL-B0002-001`–`009`; [T7S_B0002_DEEP_READING.md](../02%20Readings/T7S_B0002_DEEP_READING.md)
-- `counterexamples`: vigorous self-starting cleaner behavior coexists with idol avoidance; admission that singing is fun coexists with refusal; admiration/trust toward Coney coexists with departure; final consent does not erase earlier coercion.
-- `review_refs`: `AV-0003`, `AV-0004`
-- `unresolved_obligations`: later ordinary-life, peer, conflict, failure, stage and public-response states; negative controls on compulsory cheerfulness and self-blame; actually listened-to voice; representative visual/embodied range; chronology beyond the introduction arc.
-- `decision_reason`: the complete introduction arc establishes one grounded transition, motive/injury, multiple decisions, family correction, work identity, and a central relationship cluster. It does not yet support portable conditional rules (`R3`) or an integrated monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: none
-- `transition_scope`: initial readiness instantiation at B0002 only; later evidence may extend or revise but must not be back-projected into earlier states.
+<a id="current-epistemic-states"></a>
 
-Capabilities:
+[Current epistemic states](T7S_ENTITY_STATE_COMPONENT_001.md#current-epistemic-states)
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | B0002 introduction arc; `REVIEWED_WITH_BOUNDS` | `EV-B0002-001`–`009`; motivation, injury, refusal, chosen return. No later stability or cross-domain model. | B0002 reading |
-| `japanese_linguistic_voice` | 488 chapter text records in context; `REVIEWED_WITH_BOUNDS` | Native wording reviewed; register findings are textual only and counterexamples remain sparse. | `CL-B0002-001`, `004`, `009` |
-| `performed_voice` | selected cues only; `UNREVIEWED` | Exact files recovered but transport did not deliver audible content. | `AV-0004` |
-| `visual_identity` | selected cleaner/stage/tear states; `PARTIAL` | Exact resolved stills inspected; not a representative costume/expression portfolio. | `AV-0003` |
-| `embodied_presentation` | selected static presentations; `PARTIAL` | Script effects and stills support bounded posture/expression context, not continuous motion. | `AV-0003` |
-| `stage_identity` | tests and audition text plus selected stage assets; `PARTIAL` | No representative completed public performance or heard song delivery. | `EV-B0002-005`, `009`; `AV-0003`, `004` |
-| `relationship_coverage` | Player, Coney, brother; `REVIEWED_WITH_BOUNDS` | Three central pairs across one arc; peers, wider unit, audience and later tensions absent. | `REL-0007`–`0012` |
-| `ordinary_life_coverage` | cleaning/work and one park encounter; `PARTIAL` | Meaningful mundane competence appears, but school/home/routine breadth is insufficient. | `EV-B0002-002`, `003`, `008`, `009` |
-| `chronology_coverage` | former-career recollection through Nanasta entry; `PARTIAL` | Sequence is recoverable, but exact dates/durations and later development are unknown. | `EDGE-0004`, `0005`, `0008` |
+<a id="first-i-n-g-tranche-epistemic-states"></a>
 
-### `READY-0002` — 天堂寺ムスビ
+[First i-n-g tranche epistemic states](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-epistemic-states)
 
-- `subject_id`: `tendoji-musubi`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0003 / episode `201000209`
-- `artifact_version`: entity ledger 1.3; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0003-001`–`010`; `CL-B0003-001`–`010`; [T7S_B0003_DEEP_READING.md](../02%20Readings/T7S_B0003_DEEP_READING.md)
-- `counterexamples`: genuine high competence coexists with an approval-burdened public persona; repeated no-interest/refusal precedes but is not erased by later consent; self-described terrible singing coexists with reported enjoyment and audience acceptance; chosen stage/membership coexists with immediate clothing/privacy boundaries.
-- `review_refs`: `AV-0005`, `AV-0006`
-- `unresolved_obligations`: later stability under failure/conflict; direct family evidence; wider friendship and school consequences; formal Nanasta role; repair after privacy breach; representative visual/embodied and actually listened-to performed-voice coverage; actual singing evidence; broader chronology.
-- `decision_reason`: one complete introduction arc supplies causal history, public/private states, ordinary preferences, training, stage response, a multi-party relationship field, and an explicit changed decision. It does not supply enough conditions/counterconditions for an R3 model or enough breadth/multimodal integration for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete chapter `300030` only; preserve episode `201000201` refusal and each later domain-specific consent as separate historical states.
+<a id="current-directional-relationship-states"></a>
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0003-001`–`010`; causal persona history, hidden desire, public test, membership, privacy counterexample. Later stability absent. | B0003 reading |
-| `japanese_linguistic_voice` | 384 native text records; `REVIEWED_WITH_BOUNDS` | Formal public register, embarrassed/childlike rupture, plain peer shift, naming transition. No acoustic delivery inference. | `CL-B0003-005`, `008` |
-| `performed_voice` | five resolved contrastive cues; `UNREVIEWED` | Files recovered but not audibly delivered; actual songs are elided between scenes. | `AV-0006` |
-| `visual_identity` | school uniform, private-food expression, costume, stage reaction; `PARTIAL` | Exact selected layers/backgrounds inspected and hash-checked; not representative across later states. | `AV-0005` |
-| `embodied_presentation` | selected stills and command effects; `PARTIAL` | Supports prop/costume/expression context, not continuous action or performed affect. | `AV-0005` |
-| `stage_identity` | coerced and chosen performances as text; selected stage background; `PARTIAL` | Songs themselves are omitted and no performed singing was heard. | `EV-B0003-005`, `006`, `009`; `AV-0005`, `0006` |
-| `relationship_coverage` | peers, Haru, Player, Coney, idol-club president; `REVIEWED_WITH_BOUNDS` | Central chapter field is differentiated; parents appear only in Musubi's retrospective account and later relations are absent. | `REL-0013`–`0020` |
-| `ordinary_life_coverage` | school governance, food preference, training, friendship wish; `PARTIAL` | Several meaningful mundane contexts appear; home/family routine and sustained peer life do not. | `EV-B0003-002`, `004`, `007`, `008` |
-| `chronology_coverage` | childhood approval account through Nanasta entry; `PARTIAL` | Causal sequence is recoverable, but dates, duration, and later development are unknown. | `EDGE-0010`–`0016` |
+[Current directional relationship states](T7S_ENTITY_STATE_COMPONENT_001.md#current-directional-relationship-states)
 
-### `READY-0003` — 角森ロナ
+<a id="first-i-n-g-tranche-directional-relationship-states"></a>
 
-- `subject_id`: `tsunomori-rona`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0004 / episode `201000309`
-- `artifact_version`: entity ledger 1.4; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0004-001`–`008`; `CL-B0004-001`–`009`; [T7S_B0004_DEEP_READING.md](../02%20Readings/T7S_B0004_DEEP_READING.md)
-- `counterexamples`: skilled imitation coexists with global clumsiness beliefs; voluntary initial request coexists with mistaken recruiter identity; public street success fails to repair comparison while private relational testimony does; chosen return/debut coexists with immediate relapse after a mundane accident.
-- `review_refs`: `AV-0007`, `AV-0008`
-- `unresolved_obligations`: later stability under error/comparison/conflict; family and sustained peer evidence; formal Nanasta role; informed response to Coney's identity; actually listened-to voice and singing; broader visual/embodied range; ordinary-life and chronology breadth.
-- `decision_reason`: the complete introduction chapter establishes one causal history, a failed criterion, withdrawal, differentiated coercive and relational interventions, explicit changed choices, a debut, and a relapse counterexample. It does not yet supply portable conditional rules (`R3`) or sufficient longitudinal/multimodal breadth for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete chapter `300040` only; preserve Rona's initial request, mistaken premise, forced lesson/battle, chosen return, debut, and final relapse as separate historical states.
+[First i-n-g tranche directional relationship states](T7S_ENTITY_STATE_COMPONENT_001.md#first-i-n-g-tranche-directional-relationship-states)
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0004-001`–`008`; legacy motive, belonging history, crisis, relational reframe, debut, relapse. Later stability absent. | B0004 reading |
-| `japanese_linguistic_voice` | 342 native text records in chapter context; `REVIEWED_WITH_BOUNDS` | Hesitation/apology patterns, reverent `ニコさま`, self-agent shift, and chosen familiar address are textual findings only. | `CL-B0004-001`, `005`, `009` |
-| `performed_voice` | five resolved contrastive cues; `UNREVIEWED` | Exact files recovered but transport did not deliver audible content; both performance acts are elided. | `AV-0008` |
-| `visual_identity` | Nicole model, Rona school/café, park, debut, and tear states; `PARTIAL` | Exact body/face assets were hash-checked and composited using the verified native face-position table; not representative across later states. | `AV-0007` |
-| `embodied_presentation` | selected exact composites, backgrounds, and command effects; `PARTIAL` | Supports pose/expression/costume/context observations, not full runtime placement, continuous movement, or performed affect. | `AV-0007` |
-| `stage_identity` | first lesson, street live, and debut as text; selected Nicole/Rona performance composites; `PARTIAL` | The street and debut songs are elided and no singing was heard. | `EV-B0004-002`, `005`, `007`; `AV-0007`, `0008` |
-| `relationship_coverage` | Haru, Musubi, Player, Coney/Nicole, local audiences; `REVIEWED_WITH_BOUNDS` | Central introduction field is differentiated; family, school peers, broader public, and later conflict are absent. | `REL-0021`–`0028` |
-| `ordinary_life_coverage` | café work, bad luck, cleaning, practice, juice/park conversation; `PARTIAL` | Several mundane contexts materially shape the arc, but home/school routine and durable competence under error are unknown. | `EV-B0004-001`, `003`, `006`, `008` |
-| `chronology_coverage` | childhood imitation account through Nanasta debut; `PARTIAL` | Causal sequence and three-day withdrawal are recoverable; exact dates, duration, and later development are unknown. | `EDGE-0017`–`0025` |
+<a id="current-unit-and-institution-states"></a>
 
-### `READY-0004` — 野ノ原ヒメ
+[Current unit and institution states](T7S_ENTITY_STATE_COMPONENT_001.md#current-unit-and-institution-states)
 
-- `subject_id`: `nonohara-hime`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0005 / episode `201000409`
-- `artifact_version`: entity ledger 1.5; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0005-001`–`008`; `CL-B0005-001`–`009`; [T7S_B0005_DEEP_READING.md](../02%20Readings/T7S_B0005_DEEP_READING.md)
-- `counterexamples`: `オレ` and downtown roughness coexist with a childhood wish for cuteness; love of shop/family coexists with desire for idol work; later membership does not authorize the first forced test; two chosen performances coexist with flight from one costume; praise is both desired and grief-laden.
-- `review_refs`: `AV-0009`, `AV-0010`
-- `unresolved_obligations`: durability and equality of care redistribution; later ordinary work/idol scheduling, failure and conflict; grief course; self-directed costume/femininity range; formal Nanasta role; actually listened-to voice/singing; broader visual/embodied and chronological coverage.
-- `decision_reason`: the complete introduction chapter supplies childhood and present causal evidence, differentiated labor/family relations, several independent consent states, public and private contexts, a debut, and a boundary counterexample. It does not supply portable R3 conditions or sufficient longitudinal/multimodal breadth for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete chapter `300050` only; preserve initial refusals, imposed shop test, agreed riverbank song, later entry, district-live assent, debut, and costume refusal as separate historical states.
+<a id="readiness-and-transition-history"></a>
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0005-001`–`008`; protection metaphor, labor, grief, plural desire, care redistribution, entry, performance, costume boundary. Later stability absent. | B0005 reading |
-| `japanese_linguistic_voice` | 312 native text records in chapter context; `REVIEWED_WITH_BOUNDS` | `オレ`, downtown/Edo shop register, sales calls, grief compression, self-interruption, gratitude, and public self-naming are textual findings only. | `CL-B0005-002`, `003`, `009` |
-| `performed_voice` | six resolved contrastive cues; `UNREVIEWED` | Exact files recovered but transport did not deliver audible content; all song acts are elided. | `AV-0010` |
-| `visual_identity` | school/shop bodies and six expression states plus props/settings; `PARTIAL` | Exact face/body assets were hash-checked and composited at verified native offsets; not representative across later costumes or chapters. | `AV-0009` |
-| `embodied_presentation` | selected exact composites, props, backgrounds, and native commands; `PARTIAL` | Supports stable base pose, labor clothing/ladle, expression, bicycle, river, device, stage, and costume-object observations, not full runtime placement or continuous action. | `AV-0009` |
-| `stage_identity` | imposed shop song, agreed river rehearsal, district live, and streamed debut as text; stage asset selected; `PARTIAL` | Every performed song/live is elided, no singing was heard, and Hime is never shown in the proposed frilly costume. | `EV-B0005-002`, `004`, `006`, `007`; `AV-0009`, `0010` |
-| `relationship_coverage` | Player, Coney, Rona, father/household, Nanasta peers, shopping district; `REVIEWED_WITH_BOUNDS` | Central introduction field is differentiated; mother appears through memory/address and later sustained conflict or reciprocity is absent. | `REL-0029`–`0036`; `UNIT-0005` |
-| `ordinary_life_coverage` | deliveries, customers, shop products, meals, clothing, sibling care, bicycle travel; `REVIEWED_WITH_BOUNDS` | Mundane labor is unusually extensive and causally central; long-term workload, school life, finances, and schedules remain unknown. | `EV-B0005-001`–`003`, `005` |
-| `chronology_coverage` | childhood memory and maternal loss relation through Nanasta debut; `PARTIAL` | Ordering of childhood desire, loss, present burden, entry, and boundary coda is recoverable; dates, durations, death history, and later development are unknown. | `EDGE-0026`–`0033` |
+[Readiness and transition history](T7S_ENTITY_STATE_COMPONENT_001.md#readiness-and-transition-history)
 
-### `READY-0005` — 芹沢モモカ
+<a id="ready-0001--春日部ハル"></a>
 
-- `subject_id`: `serizawa-momoka`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0006 / episode `201000509`
-- `artifact_version`: entity ledger 1.6; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0006-001`–`008`; `CL-B0006-001`–`009`; [T7S_B0006_DEEP_READING.md](../02%20Readings/T7S_B0006_DEEP_READING.md)
-- `counterexamples`: intense viewing and fighting-game skill coexist with work aversion; authentic stage/band/candy/stream interest repeatedly coexists with withdrawal when ongoing practice becomes salient; rapid preparation and successful performance coexist with immediate lesson resistance; present membership coexists with unknown assent to covert motivation management.
-- `review_refs`: `AV-0011`, `AV-0012`
-- `unresolved_obligations`: later stability by task/reward/control/fatigue/novelty; response after unseen anime is exhausted; self-chosen versus externally controlled support; formal membership terms; family, school, broader ordinary life, conflict and audience history; actually listened-to voice/singing; wider visual/embodied and chronological coverage.
-- `decision_reason`: the complete introduction chapter establishes a repeated cross-domain decision rule, several distinct consent/withdrawal states, selective competence, media-conditioned effort, a successful stream, formal admission, immediate relapse, and differentiated recruiter/peer relations. It does not yet supply stable portable R3 conditions or sufficient longitudinal/multimodal breadth for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete chapter `300060` only; preserve each voluntary role entry, refusal, withdrawal, transactional audition assent, prepared return, current membership acceptance, and lesson resistance as separate historical states.
+[`READY-0001` — 春日部ハル](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0001--春日部ハル)
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0006-001`–`008`; selective interest, skill, media scripts, repeated withdrawal, prepared return, membership, and immediate relapse. Later stability absent. | B0006 reading |
-| `japanese_linguistic_voice` | 349 native text records in chapter context; `REVIEWED_WITH_BOUNDS` | Third-person `モモカ`, casual elongation, present-feeling claims, genre quotations, and final `めん`/`がんばる` lexical splices are textual findings only. | `CL-B0006-001`, `002`, `009` |
-| `performed_voice` | seven resolved contrastive cues; `UNREVIEWED` | Exact files recovered but transport did not deliver audible content; the stage, audition, and stream acts are elided. | `AV-0012` |
-| `visual_identity` | ordinary bodies, rock costume, eight expression states, and selected props/settings; `PARTIAL` | Exact face/body assets were hash-checked and alpha-composited at verified native offsets; not representative across later chapters or every costume. | `AV-0011` |
-| `embodied_presentation` | selected exact composites, room/candy/audition objects, and native commands; `PARTIAL` | Supports stable body poses, self-fashioning continuity, and expression-state contrast, not full runtime placement, effects, continuous motion, or performed affect. | `AV-0011` |
-| `stage_identity` | first stage, product audition, and five-person stream as text; rock presentation visually reviewed; `PARTIAL` | All performed acts are elided, no singing was heard, and isolated layers do not reconstruct runtime choreography. | `EV-B0006-002`, `005`, `007`; `AV-0011`, `0012` |
-| `relationship_coverage` | Player, Coney, Haru and Nanasta peer group; `REVIEWED_WITH_BOUNDS` | Recruitment/control field is differentiated; family, school, close friendship, sustained reciprocity, conflict repair, and informed support negotiation are absent. | `REL-0037`–`0042` |
-| `ordinary_life_coverage` | room/anime viewing, unfinished preparation, arcade play, shopping, candy preference, and leisure priorities; `REVIEWED_WITH_BOUNDS` | Mundane preference and competence are causally central, but school/home relations, routine over time, and material constraints remain unknown. | `EV-B0006-001`, `003`, `004` |
-| `chronology_coverage` | first observed viewing through fifth-performer admission and next lesson; `PARTIAL` | Native sequence and repeated short cycles are recoverable; exact dates, durations, prior development, and later outcomes are unknown. | `EDGE-0035`–`0042` |
+<a id="ready-0002--天堂寺ムスビ"></a>
 
-### `READY-0006` — 臼田スミレ
+[`READY-0002` — 天堂寺ムスビ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0002--天堂寺ムスビ)
 
-- `subject_id`: `usuta-sumire`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0007 / episode `201000609`
-- `artifact_version`: entity ledger 1.8; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0007-001`–`010`; `CL-B0007-001`–`014`; [T7S_B0007_DEEP_READING.md](../02%20Readings/T7S_B0007_DEEP_READING.md)
-- `counterexamples`: fashionable peer life is enjoyed while currentness also polices self-claim; urgent care coexists with refusal of “kind”; skilled cookies coexist with concealment; interest coexists with an adequacy-based refusal; immediate-stream and membership assent coexist with earlier forced songs and later costume pressure; chosen given-name intimacy coexists with prior prohibited use.
-- `review_refs`: `AV-0013`, `AV-0014`
-- `unresolved_obligations`: later stability under practice, failure, fatigue, conflict, audience response, and novelty; complete history of currentness/half-finishedness; offscreen friends, family, school, material conditions, and close peer differentiation; formal membership and romance/professional terms; self-directed costume range; actually listened-to voice/singing; wider visual/embodied and chronological coverage.
-- `decision_reason`: the complete introduction chapter supplies a repeated self-disqualification rule across several domains, a global adequacy belief with local counterevidence, multiple differentiated refusals/assents, ordinary-life competence, six central relationship directions, self-authored membership, and exact visual state contrasts. It does not yet supply stable portable R3 conditions or sufficient longitudinal/performed-voice breadth for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300070` only; preserve initial unknown candidacy, explicit refusal, voluntary visit, forced songs, interest/adequacy refusal, immediate-stream assent, later membership, exclusive name permission, and costume decision as separate historical states.
+<a id="ready-0003--角森ロナ"></a>
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0007-001`–`010`; currentness, care, name/cooking/earnestness, adequacy, shining, membership, intimacy, and costume boundary. Later stability absent. | B0007 reading |
-| `japanese_linguistic_voice` | 378 native text records in chapter context; `REVIEWED_WITH_BOUNDS` | `アタシ`, clipped forms, katakana currentness vocabulary, `てゆーか`, `イミワカ`, and longer causal/ethical speech are textual findings only. | `CL-B0007-001`, `007`, `009` |
-| `performed_voice` | fourteen resolved contrastive cues; `UNREVIEWED` | Exact files recovered but not audibly reviewed; every song/live act is elided. | `AV-0014` |
-| `visual_identity` | thirteen exact ordinary/bunny body-expression composites plus cookie/settings; `PARTIAL` | Assets were hash-checked and alpha-composited at verified native offsets; not representative across later chapters or every costume. | `AV-0013` |
-| `embodied_presentation` | selected exact composites, props, backgrounds, and native commands; `PARTIAL` | Supports body/face distinction, stable everyday presentation, and full alternate bunny body, not full runtime placement, transitions, effects, continuous motion, or performed affect. | `AV-0013` |
-| `stage_identity` | two pushed songs and one immediate stream as text; bunny stage body visually reviewed; `PARTIAL` | All performed acts are elided, no singing was heard, and the bunny coda is not the streamed performance itself. | `EV-B0007-005`–`010`; `AV-0013`, `0014` |
-| `relationship_coverage` | Player, Coney, and five established Nanasta performers; `REVIEWED_WITH_BOUNDS` | Recruitment/intimacy/control field is differentiated; family, offscreen friends, school, sustained peer reciprocity, conflict repair, and formal safeguards are absent. | `REL-0043`–`0048` |
-| `ordinary_life_coverage` | fashion/friends, canceled karaoke, cooking/cookies, social embarrassment, and public/private naming; `PARTIAL` | Mundane identity and competence are causally central, but home, school routine, family, long-term friendship, and material constraints remain unknown. | `EV-B0007-001`, `004`–`006` |
-| `chronology_coverage` | private prologue through sixth-performer entry and costume coda; `PARTIAL` | Native sequence and local decisions are recoverable; exact dates/durations, prior history, and later development are unknown. | `EDGE-0044`–`0055` |
+[`READY-0003` — 角森ロナ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0003--角森ロナ)
 
-### `READY-0007` — 神城スイ
+<a id="ready-0004--野ノ原ヒメ"></a>
 
-- `subject_id`: `kamishiro-sui`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0008 / episode `201000709`
-- `artifact_version`: entity ledger 1.9; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0008-001`–`008`; `CL-B0008-001`–`011`; [T7S_B0008_DEEP_READING.md](../02%20Readings/T7S_B0008_DEEP_READING.md)
-- `counterexamples`: protection/prince aspiration coexists with forgotten origin; strength and repeated loss coexist with care; first-love recognition coexists with persistent `ボク`, boys' song, coolness, effort, and prince address; chosen contests/entry coexist with repeated refused touch; punches are harmful and apologetic while boundary violations remain real; cognitive reframe does not remove the embodied response.
-- `review_refs`: `AV-0015`, `AV-0016`
-- `unresolved_obligations`: later stability under practice, failure, fatigue, conflict, performance, audience response, and touch; self-authored gender/prince/romance development beyond peer interpretations; family, school, swim-club, childhood-boy, and close friendship contexts; formal membership terms; actually listened-to voice/singing; wider visual/embodied and chronological coverage.
-- `decision_reason`: the complete introduction chapter supplies a remembered childhood interval, explicit memory revision, a self-adopted first-love recognition, multiple self-initiated challenges, differentiated contest/entry/touch decisions, four central relationship pairs, and exact visual state contrasts. It does not yet establish portable R3 conditions or sufficient longitudinal/performed-voice breadth for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300080` only; preserve forgotten origin, rescue challenge, each chosen contest, peer interpretations, recovered kindness, final song choice, development/entry request, refused touch, reflexive harm, and closing prince address as separate historical states.
+[`READY-0004` — 野ノ原ヒメ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0004--野ノ原ヒメ)
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0008-001`–`008`; prince aspiration, rescue/competition, body conflict, recovered care, love recognition, self-expression, entry, and touch. Later stability absent. | B0008 reading |
-| `japanese_linguistic_voice` | 323 native text records in chapter context; `REVIEWED_WITH_BOUNDS` | `ボク`, prince/man/girl category terms, direct challenge grammar, corrections, hedges, and apology patterns are textual findings only. | `CL-B0008-001`, `002`, `005`, `009` |
-| `performed_voice` | nine resolved contrastive cues; `UNREVIEWED` | Exact files were hash-checked but not audibly reviewed; all four song/performance acts are elided. | `AV-0016` |
-| `visual_identity` | nine exact face/body composites across four school/swim bodies; `PARTIAL` | Assets were hash-checked and alpha-composited at the verified native `(109,85)` offset; not representative across later chapters or stage costumes. | `AV-0015` |
-| `embodied_presentation` | selected exact composites and native page commands; `PARTIAL` | Supports stable short-haired presentation, assertive poses, ordinary sailor/swimsuit continuity, and expression contrast, not full runtime placement, fades, shakes, camera, continuous motion, or performed affect. | `AV-0015` |
-| `stage_identity` | four contests/songs as text; final boys' song chosen by Sui; `PARTIAL` | Every act is elided, no singing was heard, and no stage costume/choreography is shown. Reported outcomes cannot establish technical quality. | `EV-B0008-003`, `004`, `006`, `007`; `AV-0016` |
-| `relationship_coverage` | Player, Coney, Hime, Musubi, and Nanasta entry; `REVIEWED_WITH_BOUNDS` | Rivalry, interpretation, management, touch, and local consent are differentiated; family, school/swim peers, childhood boy, sustained friendship, conflict repair, and formal safeguards are absent. | `REL-0049`–`0056` |
-| `ordinary_life_coverage` | public pool/swimming identity, school framing, and narrated elementary-school memory; `PARTIAL` | Swimming and childhood attachment are central, but home, routine school/club life, family, material conditions, and independent childhood perspectives remain unknown. | `EV-B0008-001`, `002`, `005` |
-| `chronology_coverage` | narrated elementary-school encounter through seventh-performer entry; `PARTIAL` | Native present sequence and retrospective relation are recoverable; exact dates, durations, intervening development, and later outcomes are unknown. | `EDGE-0056`–`0065` |
+<a id="ready-0005--芹沢モモカ"></a>
 
-### `READY-0008` — 久遠寺シズカ
+[`READY-0005` — 芹沢モモカ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0005--芹沢モモカ)
 
-- `subject_id`: `kuonji-shizuka`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0009 / episode `201000809`
-- `artifact_version`: entity ledger 2.0; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded in the table below with scope, `review_status`, evidence routes, limits, and `review_ref`.
-- `evidence_locators`: `EV-B0009-001`–`008`; `CL-B0009-001`–`013`; [T7S_B0009_DEEP_READING.md](../02%20Readings/T7S_B0009_DEEP_READING.md)
-- `counterexamples`: extensive sheltered-life unfamiliarity coexists with archery, tea, performance, and logistical competence; family obligation coexists with outward curiosity; inherited privilege enables the appeal but does not author her final rationale; formal speech coexists with puns and theatrical play; local permission and entry do not establish durable autonomy or work practice.
-- `review_refs`: `AV-0017`, `AV-0018`
-- `unresolved_obligations`: later stability under ordinary training, fatigue, failure, conflict, public response, and unequal resources; exact Nanasta terms and division of labor; wider family, school, friendship, Mana, and grandfather contexts; actually listened-to voice/singing; stage costume and performance embodiment; broader chronology.
-- `decision_reason`: the complete introduction chapter supplies a causal precursor through Mana, multiple independently initiated actions, ordinary-life contrast, playful and care-oriented behaviors, family conflict, two authored choice responses, a self-authored institutional rationale, differentiated relationship pairs, and exact visual face/body states. It does not establish portable R3 conditions or enough longitudinal/performed-voice breadth for a monograph.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300090` only; preserve Mana's model, unanswered invitations, guest performance, surname disclosure, secret entry, group preparation, family appeal, both authored branches, permission, eighth-performer entry, secret stream, and audience-layer Nicole confirmation as distinct historical states.
+<a id="ready-0006--臼田スミレ"></a>
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0009-001`–`008`; curiosity, discipline, play, care, family conflict, outward-experience rationale, and entry. Later stability absent. | B0009 reading |
-| `japanese_linguistic_voice` | 475 native text records in chapter context; `REVIEWED_WITH_BOUNDS` | Formal register, arch constructions, puns, theatrical contest language, and family-facing argument are textually reviewed; no longitudinal counter-register. | `CL-B0009-002`, `003`, `004` |
-| `performed_voice` | nine resolved contrastive cues; `UNREVIEWED` | Exact files were hash-checked but not audibly reviewed; every song/performance is elided. | `AV-0018` |
-| `visual_identity` | nine exact face/body composites from one school-uniform body; `PARTIAL` | Assets were hash-checked and alpha-composited at the verified native `(150,104)` offset; no stage costume or later-chapter range. | `AV-0017` |
-| `embodied_presentation` | selected exact composites and page commands; `PARTIAL` | Supports stable school uniform, long hair, bag/archery gear, and expression variation, not full runtime placement, fades, shakes, camera, continuous motion, or performed affect. | `AV-0017` |
-| `stage_identity` | guest act, practice, appeal live, and reported reception as text; `PARTIAL` | Performances are elided, no singing was heard, and no stage costume/choreography is shown; reported aptitude and sincerity cannot establish technique. | `EV-B0009-003`, `006`–`008`; `AV-0018` |
-| `relationship_coverage` | Player, Coney, Hime, grandfather, Mana, and group practice; `REVIEWED_WITH_BOUNDS` | Recruitment, mentorship, legacy, family authority, resources, care, and local trust are differentiated; later peer conflict and durable governance absent. | `REL-0057`–`0066` |
-| `ordinary_life_coverage` | mansion/school rails, tofu-shop encounter, luggage, tea, and archery references; `PARTIAL` | Meaningful contrast and competences appear, but home/school routine, brother, peers, finances, and independent family perspectives remain sparse. | `EV-B0009-001`, `002`, `004`, `006` |
-| `chronology_coverage` | Mana precursor through eighth-performer entry and private coda; `PARTIAL` | Present sequence and causal relations are recoverable; exact dates, Mana history, family duration, and later outcomes are unknown. | `EDGE-0066`–`0075` |
+[`READY-0006` — 臼田スミレ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0006--臼田スミレ)
 
-### `READY-0009` — アレサンドラ・スース
+<a id="ready-0007--神城スイ"></a>
 
-- `subject_id`: `alessandra-susu`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0010 / episode `201000909`
-- `artifact_version`: entity ledger 2.1; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded below.
-- `evidence_locators`: `EV-B0010-001`–`010`; `CL-B0010-001`–`015`; [T7S_B0010_DEEP_READING.md](../02%20Readings/T7S_B0010_DEEP_READING.md)
-- `counterexamples`: appearance-led foreignness coexists with fluent Japanese and disciplined fandom; method refusal coexists with later entry; tactile ease has recipient-specific limits; genuine distress does not prove the group's homesickness theory; public care does not cause a non-departure; flirtation does not settle romance or professional terms.
-- `review_refs`: `AV-0019`, `AV-0020`
-- `unresolved_obligations`: home country/family context; exact prior Nicole relation and recognition; cause of crying; housing, guardian, contract, schedule and pay; sustained labor/failure/conflict; actually listened-to voice/singing; stage embodiment; broader chronology.
-- `decision_reason`: a complete chapter supplies prior purpose, method refusal, fandom history, recruitment transition, age disclosure, multiple peer/manager relations, distress and false inference, local choice branches, and seven reviewed still composites. It does not supply R3 portability or mature voice/ordinary-life breadth.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300100`; preserve rigged selection, authentic delight, initially declined approach, explicit entry, each touch response, surveillance, false-departure inference, public link, cargo correction, welcome, both choice branches, and housing proposal as distinct states.
+[`READY-0007` — 神城スイ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0007--神城スイ)
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | `EV-B0010-001`–`010`; agency, fandom, grief, entry, play, rivalry, distress, correction, and welcome. Later stability absent. | B0010 reading |
-| `japanese_linguistic_voice` | Alessandra's lines within 505 chapter text records; `REVIEWED_WITH_BOUNDS` | Fluent sustained Japanese, transnational fragments, `ダーリン`, direct correction, and rhetoric are reviewed textually; no acoustic accent claim. | `CL-B0010-001`–`015` |
-| `performed_voice` | nine resolved contrastive cues; `UNREVIEWED` | Files were byte-verified but not listened to; song/live acts are elided. | `AV-0020` |
-| `visual_identity` | seven exact composites across two ordinary bodies; `PARTIAL` | Black dress and layered tunic with native-offset faces; no stage costume or broader horizon. | `AV-0019` |
-| `embodied_presentation` | selected exact composites and page commands; `PARTIAL` | Supports stable hair/eyes/jewelry/pose and bounded face differences, not runtime motion/effects or performed crying. | `AV-0019` |
-| `stage_identity` | gift act, rivalry performances, rehearsals, and airport live as text; `PARTIAL` | Acts are elided; no heard song, choreography, costume, or technical quality. | `EV-B0010-003`–`005`, `007`–`009` |
-| `relationship_coverage` | Player, Coney, Musubi, Rona, and performer collective; `REVIEWED_WITH_BOUNDS` | Recruitment, concealment, rivalry, touch, group care, and welcome are differentiated; durable relationships absent. | `REL-0067`–`0076` |
-| `ordinary_life_coverage` | travel, hotel, parental cargo, age/passport, and communication; `PARTIAL` | Meaningful international transition appears, but home country, family, school, finances, and guardian arrangements are missing. | `EV-B0010-001`, `004`, `006`–`010` |
-| `chronology_coverage` | arrival through ninth-performer state and stay intention; `PARTIAL` | Native sequence is recoverable; childhood fandom duration, prior Nicole history, exact dates, and later outcomes are unknown. | `EDGE-0077`–`0087` |
+<a id="ready-0008--久遠寺シズカ"></a>
 
-### `READY-0010` — 晴海サワラ
+[`READY-0008` — 久遠寺シズカ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0008--久遠寺シズカ)
 
-- `subject_id`: `harumi-sawara`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0011 / episode `201001009`
-- `artifact_version`: entity ledger 2.1; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded below.
-- `evidence_locators`: `EV-B0011-001`–`008`; `CL-B0011-001`–`012`; [T7S_B0011_DEEP_READING.md](../02%20Readings/T7S_B0011_DEEP_READING.md)
-- `counterexamples`: insight into Shinju's relational condition coexists with planning for her; care coexists with personal idol desire; playful warmth coexists with wager/costume pressure; entry does not establish durable motivation or authority.
-- `review_refs`: `AV-0021`, `AV-0022`
-- `unresolved_obligations`: exact age/school transition; parents/home and shop allocation; motive durability; later sister conflict; ordinary training, failure, public response; actual voice/singing; stage costume/embodiment; broader chronology.
-- `decision_reason`: the complete chapter supplies initiative, personal and care motives, differentiated sister relations, an accurate togetherness insight, counterexamples, current entry, and two reviewed native-offset visual states. It remains one bounded introduction chapter.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300110`; preserve unilateral plan, wager, shop absence, disclosed motives, togetherness proposal, converged entry, and clothing pressure separately.
+<a id="ready-0009--アレサンドラスース"></a>
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | Initiative, care, self-interest, play, insight, and paternalism are evidenced; later stability absent. | B0011 reading |
-| `japanese_linguistic_voice` | Sawara's lines within 322 chapter text records; `REVIEWED_WITH_BOUNDS` | Affectionate elongated register and diminutive address are textually reviewed; no performed delivery. | `CL-B0011-002`, `005` |
-| `performed_voice` | one selected cue within six chapter selections; `UNREVIEWED` | Exact file was byte-verified but not listened to; songs are elided. | `AV-0022` |
-| `visual_identity` | two exact composites over one fish-shop-apron body; `PARTIAL` | Short red hair, cream blouse, apron, hands-behind pose, and two face states; no stage costume. | `AV-0021` |
-| `embodied_presentation` | two still composites; `PARTIAL` | Supports exact still geometry, not runtime placement, motion, or performed affect. | `AV-0021` |
-| `stage_identity` | challenge and sisters-together acts as text; `PARTIAL` | Both are elided; no technical quality or choreography. | `EV-B0011-002`, `007` |
-| `relationship_coverage` | Shinju, Kajika, Coney, Player, and Nanasta collective; `REVIEWED_WITH_BOUNDS` | Care, authority, trust, challenge, and peer entry are differentiated; later repair/conflict absent. | `REL-0077`–`0086` |
-| `ordinary_life_coverage` | sister birth order and fish-shop role; `PARTIAL` | Shop affiliation is meaningful, but home, school, parents, finances, and routine are sparse. | `UNIT-0006` |
-| `chronology_coverage` | challenge through converged entry; `PARTIAL` | Native sequence is recoverable; prior sister history, durations, and later outcomes are unknown. | `EDGE-0088`–`0096` |
+[`READY-0009` — アレサンドラ・スース](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0009--アレサンドラスース)
 
-### `READY-0011` — 晴海カジカ
+<a id="ready-0010--晴海サワラ"></a>
 
-- `subject_id`: `harumi-kajika`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0011 / episode `201001009`
-- `artifact_version`: entity ledger 2.1; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded below.
-- `evidence_locators`: `EV-B0011-001`–`008`; `CL-B0011-001`–`012`; [T7S_B0011_DEEP_READING.md](../02%20Readings/T7S_B0011_DEEP_READING.md)
-- `counterexamples`: initial trust without knowledge coexists with later personal assent; care for Shinju coexists with inaccurate aspiration inference; quiet participation is not absence of agency; entry does not prove a motive independent of sister relation.
-- `review_refs`: `AV-0021`, `AV-0022`
-- `unresolved_obligations`: exact age/school; ordinary routine and shop allocation; independently durable idol motive; later conflict/voice; actual voice/singing; stage presentation; broader chronology.
-- `decision_reason`: the chapter supplies distinct initial ignorance, chosen observation, work context, an explicit support motive, corrected inference, participation, current entry, and one exact visual state. It supports R2 only.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300110`; preserve trust, nonparticipation in first contest, shop duty, aspiration inference, support motive, group song, and entry separately.
+[`READY-0010` — 晴海サワラ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0010--晴海サワラ)
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | Trust, uncertainty, work, care, inference error, and participation are evidenced; longitudinal range absent. | B0011 reading |
-| `japanese_linguistic_voice` | Kajika's lines within 322 chapter text records; `REVIEWED_WITH_BOUNDS` | Tentative following and explicit support statement are reviewed textually; no acoustic delivery. | `CL-B0011-003` |
-| `performed_voice` | no individually selected cue; chapter pool recovered; `UNREVIEWED` | Chapter cues exist but were not listened to; all songs are elided. | `AV-0022` |
-| `visual_identity` | one exact sailor-uniform/fish-shop-apron composite; `PARTIAL` | Clasped pose and vulnerable/blushing face are bounded to one page; no stage costume. | `AV-0021` |
-| `embodied_presentation` | one still composite; `PARTIAL` | Supports exact still geometry only, not movement or performed affect. | `AV-0021` |
-| `stage_identity` | first observation and final group act as text; `PARTIAL` | Performance is elided; technique and choreography unavailable. | `EV-B0011-002`, `007` |
-| `relationship_coverage` | Sawara, Shinju, Coney, and Nanasta collective; `REVIEWED_WITH_BOUNDS` | Trust, care, correction, work, and shared entry are differentiated; later dyadic development absent. | `REL-0077`, `0078`, `0081`, `0082`, `0085`, `0086` |
-| `ordinary_life_coverage` | sister order and fish-shop work; `PARTIAL` | Shop duty is explicit; home, school, parents, peers, finances, and routine remain sparse. | `EV-B0011-001`, `003`; `UNIT-0006` |
-| `chronology_coverage` | challenge through converged entry; `PARTIAL` | Native sequence is recoverable; prior history and later outcomes are unknown. | `EDGE-0088`–`0096` |
+<a id="ready-0011--晴海カジカ"></a>
 
-### `READY-0012` — 晴海シンジュ
+[`READY-0011` — 晴海カジカ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0011--晴海カジカ)
 
-- `subject_id`: `harumi-shinju`
-- `witness_id`: `T7S_GAME_OFFLINE_JA_R484`
-- `state_horizon`: end of complete T7S_B0011 / episode `201001009`
-- `artifact_version`: entity ledger 2.1; no independent model or monograph artifact
-- `reconstruction_readiness`: `R2_STATE_BOUNDED`
-- `monograph_maturity`: `MONOGRAPH_NOT_READY`
-- `capabilities`: all nine required fields are recorded below.
-- `evidence_locators`: `EV-B0011-001`–`008`; `CL-B0011-001`–`012`; [T7S_B0011_DEEP_READING.md](../02%20Readings/T7S_B0011_DEEP_READING.md)
-- `counterexamples`: child status coexists with practical authority; family-accounting purpose coexists with qualified performance enjoyment; sister care coexists with resistance; converged membership coexists with direct assent in only one branch and immediate clothing refusal.
-- `review_refs`: `AV-0021`, `AV-0022`
-- `unresolved_obligations`: exact age/grade; home/parents/shop workload; stability of accounting and idol plans; training/failure/public response; actual voice/singing; stage costume and consent; broader chronology.
-- `decision_reason`: the complete chapter supplies repeated refusals, exact boundary speech, practical future, shop competence, a failed solo test, deliberation, a changed relational test, both authored branches, current entry, and four reviewed native-offset visual states. It supports a bounded state model, not mature portability.
-- `decision_date`: 2026-09-10
-- `previous_decision_id`: null
-- `transition_scope`: complete category-qualified Main chapter `300110`; preserve draw protection, shop authority, name correction, hidden overhearing, accounting plan, solo non-enjoyment, time request, reasoned refusal, qualified shared enjoyment, both branches, entry, and clothing refusal separately.
+<a id="ready-0012--晴海シンジュ"></a>
 
-| Capability | Scope / status | Evidence routes and limits | Review ref |
-| --- | --- | --- | --- |
-| `textual_characterization` | complete introduction chapter; `REVIEWED_WITH_BOUNDS` | Precision, skepticism, work, self-management, practical future, deliberation, qualified enjoyment, and entry are evidenced. | B0011 reading |
-| `japanese_linguistic_voice` | Shinju's lines within 322 chapter text records; `REVIEWED_WITH_BOUNDS` | Literal condition-reading, preferred-name correction, reasoned refusals, and double-negative qualification are textually reviewed. | `CL-B0011-001`, `004`, `007` |
-| `performed_voice` | four selected cues within six chapter selections; `UNREVIEWED` | Files were byte-verified but not listened to; solo/group songs are elided. | `AV-0022` |
-| `visual_identity` | four exact composites across shop and ordinary bodies; `PARTIAL` | Magenta twin tails, coat/shorts, bounded props and subtle face states; no idol costume. | `AV-0021` |
-| `embodied_presentation` | four still composites; `PARTIAL` | Supports exact still geometry and bounded expression difference, not prop function, runtime motion, or performed affect. | `AV-0021` |
-| `stage_identity` | imposed solo and accepted sister-group acts as text; `PARTIAL` | First yields explicit non-enjoyment, second qualified enjoyment; both acts elided and technique unknown. | `EV-B0011-005`–`007` |
-| `relationship_coverage` | Sawara, Kajika, Player, Coney, and Nanasta collective; `REVIEWED_WITH_BOUNDS` | Care, paternalism, mind-reading, manager support/pressure, and peer inclusion are differentiated; later durability absent. | `REL-0077`–`0086` |
-| `ordinary_life_coverage` | elementary-school status, fish-shop work, schedule control, and accounting plan; `PARTIAL` | Substantial practical anchors appear, but home, parents, school routine, finances, and workload are incomplete. | `EV-B0011-001`, `003`, `004`; `UNIT-0006` |
-| `chronology_coverage` | challenge through branch-aware entry and clothing refusal; `PARTIAL` | Native sequence is recoverable; prior development, exact dates, and later outcomes are unknown. | `EDGE-0088`–`0096` |
+[`READY-0012` — 晴海シンジュ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0012--晴海シンジュ)
 
-`INIT-20260909` establishes schemas and an explicit unknown initial state. `T7S_B0001-20260909` adds the first three local identity routes, three character states, four epistemic states, six directional relationships, and two unit/institution states. `T7S_B0002_B0003-20260910` adds three identity routes, three character states, three epistemic states, eight reconciled directional relationships, one unit/institution state, and `READY-0001`. `T7S_B0003_CHAPTER_CLOSE-20260910` admits episodes `201000202`–`201000209`, adds `IDENTITY-0007`, `CHAR-0007`, `KNOW-0008`–`0009`, `REL-0015`–`0020`, `UNIT-0004`, and `READY-0002`, while patching affected current rows. `T7S_B0004_CHAPTER_CLOSE-20260910` admits episodes `201000301`–`201000309`, adds `IDENTITY-0008`, `CHAR-0008`, `KNOW-0010`–`0012`, `REL-0021`–`0028`, and `READY-0003`, while updating affected current character/unit rows. `T7S_B0005_CHAPTER_CLOSE-20260910` admits episodes `201000401`–`201000409`, adds `IDENTITY-0009`–`0014`, `CHAR-0009`–`0011`, `KNOW-0013`–`0015`, `REL-0029`–`0036`, `UNIT-0005`, and `READY-0004`, while updating affected current character/unit rows. `T7S_B0006_CHAPTER_CLOSE-20260910` admits episodes `201000501`–`201000509`, adds `IDENTITY-0015`, `CHAR-0012`, `KNOW-0016`–`0017`, `REL-0037`–`0042`, and `READY-0005`, while updating affected current character/unit and Coney/Nicole knowledge-distribution rows. `T7S_B0007_OPENING-20260910` admits only episode `201000601`, adds `IDENTITY-0016`, `CHAR-0013`, `KNOW-0018`, and `REL-0043`–`0044`, patches the Player/Coney/Nanasta current rows, and makes no readiness decision from the single opening episode. `T7S_B0007_CHAPTER_CLOSE-20260910` admits episodes `201000602`–`201000609`, adds `KNOW-0019`, `REL-0045`–`0048`, and `READY-0006`, and patches Sumire, Player, Coney, existing Sumire relations, and Nanasta to the complete chapter horizon. Later knowledge and consent remain explicit transitions rather than changes to earlier states.
+<a id="ready-0013--九条ウメ"></a>
 
-`T7S_B0008_CHAPTER_CLOSE-20260910` admits exactly episodes `201000701`–`201000709`, adds `IDENTITY-0017`, `CHAR-0014`, `KNOW-0020`–`0022`, `REL-0049`–`0056`, and `READY-0007`, and patches the Player, Coney, Musubi, Hime, Nanasta, and relevant knowledge/current-state rows to the complete chapter horizon. First-love recognition, participant overinterpretation, persistent prince language, local contest/entry choices, refused touch, and reflexive harm remain distinct states rather than a total identity conversion.
+[`READY-0013` — 九条ウメ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0013--九条ウメ)
 
-`T7S_B0009_CHAPTER_CLOSE_B0010_OPENING-20260910` admits exactly episodes `201000801`–`201000809` as complete Main chapter `300090` and episode `201000901` as the bounded opening of Main chapter `300100`. It adds `IDENTITY-0018`–`0021`, `CHAR-0015`–`0018`, `KNOW-0023`–`0026`, `REL-0057`–`0070`, and `READY-0008`, and patches the Player, Coney, Seven Sisters, Nanasta, and affected knowledge/current-state rows. Shizuka's self-authored outward-experience rationale, family permission, eighth-performer entry, secret-stream ethics, explicit audience-layer Coney/Nicole confirmation, Alessandra's private Nicole target, and meeting-participant ignorance remain distinct states. No readiness decision is made for Alessandra from one opening episode. The same transaction corrects the prior reader-facing misspelling to first-party **Coney** throughout current series artifacts using source-locked `m_character` row `48` and the official profile graphic; the preexisting lowercase subject token remains stable under the architecture's identifier rule.
+<a id="ready-0014--鰐淵エモコ"></a>
 
-`T7S_EPISODE_1_0_CLOSE-20260910` admits exactly the remaining Main episodes `201000902`–`201001009`, expands B0010 to complete chapter `300100`, closes B0011/chapter `300110`, and reconciles the 91-episode EPISODE 1.0 state. It adds `IDENTITY-0022`–`0024`, `CHAR-0019`–`0021`, `KNOW-0027`–`0030`, `REL-0071`–`0086`, `UNIT-0006`, and `READY-0009`–`0012`; it patches Alessandra, Player, Coney, Musubi, Sui, Seven Sisters, Nanasta, and related knowledge. The current roster is twelve. Rigged access versus authentic desire, explicit but pressured entry, actor-local touch, false departure inference, public care, sister-specific motive, solo non-enjoyment, qualified togetherness, branch-specific assent, and converged affiliation remain distinct states. No character earns a monograph because performed voice is unreviewed and longitudinal/ordinary-life coverage remains bounded.
+[`READY-0014` — 鰐淵エモコ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0014--鰐淵エモコ)
 
-## Character discovery boundary
+<a id="ready-0015--佐伯ヒナ"></a>
 
-The local ledger routes analytical identity/state; it is not a parallel global character registry. Eligible reviewed monographs/models may later support discovery by the curation agent. That process alone writes the global character registry and generated index. No character-upsert file or repository-wide reconstruction score is created by this bootstrap.
+[`READY-0015` — 佐伯ヒナ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0015--佐伯ヒナ)
+
+<a id="ready-0016--空栗ヒトハ"></a>
+
+[`READY-0016` — 空栗ヒトハ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0016--空栗ヒトハ)
+
+<a id="ready-0017--空栗フタバ"></a>
+
+[`READY-0017` — 空栗フタバ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0017--空栗フタバ)
+
+<a id="ready-0018--七咲ニコル--六咲コニー"></a>
+
+[`READY-0018` — 七咲ニコル / 六咲コニー](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0018--七咲ニコル--六咲コニー)
+
+<a id="ready-0019--羽生田ミト"></a>
+
+[`READY-0019` — 羽生田ミト](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0019--羽生田ミト)
+
+<a id="ready-0020--御園尾マナ"></a>
+
+[`READY-0020` — 御園尾マナ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0020--御園尾マナ)
+
+<a id="ready-0021--若王子ルイ"></a>
+
+[`READY-0021` — 若王子ルイ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0021--若王子ルイ)
+
+<a id="ready-0022--遊佐メモル"></a>
+
+[`READY-0022` — 遊佐メモル](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0022--遊佐メモル)
+
+<a id="ready-0023--寿クルト"></a>
+
+[`READY-0023` — 寿クルト](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0023--寿クルト)
+
+<a id="ready-0024--有栖シラユキ"></a>
+
+[`READY-0024` — 有栖シラユキ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0024--有栖シラユキ)
+
+<a id="ready-0025--星柿マノン"></a>
+
+[`READY-0025` — 星柿マノン](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0025--星柿マノン)
+
+<a id="ready-0026--ターシャロマノフスキー"></a>
+
+[`READY-0026` — ターシャ・ロマノフスキー](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0026--ターシャロマノフスキー)
+
+<a id="ready-0027--上杉ウエバスキョーコ"></a>
+
+[`READY-0027` — 上杉・ウエバス・キョーコ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0027--上杉ウエバスキョーコ)
+
+<a id="ready-0028--瀬戸ファーブ"></a>
+
+[`READY-0028` — 瀬戸ファーブ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0028--瀬戸ファーブ)
+
+<a id="ready-0029--桂木カヅミ"></a>
+
+[`READY-0029` — 桂木カヅミ](T7S_ENTITY_STATE_COMPONENT_001.md#ready-0029--桂木カヅミ)
+
+<a id="character-discovery-boundary"></a>
+
+[Character discovery boundary](T7S_ENTITY_STATE_COMPONENT_001.md#character-discovery-boundary)
+
+<a id="b0100-chronology-qualified-state-annotations"></a>
+
+[B0100 chronology-qualified state annotations](T7S_ENTITY_STATE_COMPONENT_002.md#b0100-chronology-qualified-state-annotations)
+
+<a id="b0101-chronology-qualified-entity-additions"></a>
+
+[B0101 chronology-qualified entity additions](T7S_ENTITY_STATE_COMPONENT_002.md#b0101-chronology-qualified-entity-additions)
+
+<a id="b0102-chronology-qualified-entity-additions"></a>
+
+[B0102 chronology-qualified entity additions](T7S_ENTITY_STATE_COMPONENT_002.md#b0102-chronology-qualified-entity-additions)
+
+<a id="b0103-actor-local-nightmare-state-annotations"></a>
+
+[B0103 actor-local nightmare-state annotations](T7S_ENTITY_STATE_COMPONENT_002.md#b0103-actor-local-nightmare-state-annotations)
+
+<a id="b0104-private-authorship-and-peer-access-annotations"></a>
+
+[B0104 private-authorship and peer-access annotations](T7S_ENTITY_STATE_COMPONENT_002.md#b0104-private-authorship-and-peer-access-annotations)
+
+<a id="b0102-stable-id-correction-receipt"></a>
+
+[B0102 stable-ID correction receipt](T7S_ENTITY_STATE_COMPONENT_002.md#b0102-stable-id-correction-receipt)
+
+<a id="b0105-xiao-identity-training-and-relational-care"></a>
+
+[B0105 Xiao identity, training and relational care](T7S_ENTITY_STATE_COMPONENT_002.md#b0105-xiao-identity-training-and-relational-care)
+
+<a id="b0106-haru-peers-and-local-public-work-state"></a>
+
+[B0106 Haru, peers and local public-work state](T7S_ENTITY_STATE_COMPONENT_002.md#b0106-haru-peers-and-local-public-work-state)
+
+<a id="b0107-musubi-actor-local-consent-and-uncertainty"></a>
+
+[B0107 Musubi actor-local consent and uncertainty](T7S_ENTITY_STATE_COMPONENT_002.md#b0107-musubi-actor-local-consent-and-uncertainty)
+
+<a id="b0108-rona-solo-agency-and-actor-local-safety-knowledge"></a>
+
+[B0108 Rona solo agency and actor-local safety knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0108-rona-solo-agency-and-actor-local-safety-knowledge)
+
+<a id="b0109-hime-household-care-and-reciprocal-jealousy"></a>
+
+[B0109 Hime household care and reciprocal jealousy](T7S_ENTITY_STATE_COMPONENT_002.md#b0109-hime-household-care-and-reciprocal-jealousy)
+
+<a id="b0110-momoka-screen-persona-and-knowledge-of-the-edit"></a>
+
+[B0110 Momoka screen persona and knowledge of the edit](T7S_ENTITY_STATE_COMPONENT_002.md#b0110-momoka-screen-persona-and-knowledge-of-the-edit)
+
+<a id="b0111-sumire-art-possibility-and-actor-local-knowledge"></a>
+
+[B0111 Sumire art possibility and actor-local knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0111-sumire-art-possibility-and-actor-local-knowledge)
+
+<a id="b0112-sui-health-knowledge-and-hime-shop-load"></a>
+
+[B0112 Sui health knowledge and Hime shop load](T7S_ENTITY_STATE_COMPONENT_002.md#b0112-sui-health-knowledge-and-hime-shop-load)
+
+<a id="b0113-shizuka-household-scale-and-harumi-shop-knowledge"></a>
+
+[B0113 Shizuka household scale and Harumi shop knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0113-shizuka-household-scale-and-harumi-shop-knowledge)
+
+<a id="b0114-suss-school-effort-and-contingent-access-boundary"></a>
+
+[B0114 Suss school effort and contingent access boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0114-suss-school-effort-and-contingent-access-boundary)
+
+<a id="b0115-sawara-choice-and-production-expectations"></a>
+
+[B0115 Sawara choice and production expectations](T7S_ENTITY_STATE_COMPONENT_002.md#b0115-sawara-choice-and-production-expectations)
+
+<a id="b0116-kajika-staged-role-felt-danger-and-museum-casting"></a>
+
+[B0116 Kajika staged role, felt danger and museum casting](T7S_ENTITY_STATE_COMPONENT_002.md#b0116-kajika-staged-role-felt-danger-and-museum-casting)
+
+<a id="b0117-shinju-age-language-and-openly-chosen-interests"></a>
+
+[B0117 Shinju age, language and openly chosen interests](T7S_ENTITY_STATE_COMPONENT_002.md#b0117-shinju-age-language-and-openly-chosen-interests)
+
+<a id="b0118-tomoe-protection-shared-song-and-overload"></a>
+
+[B0118 Tomoe protection, shared song and overload](T7S_ENTITY_STATE_COMPONENT_002.md#b0118-tomoe-protection-shared-song-and-overload)
+
+<a id="b0119-middle-school-live-madokas-nearer-leadership-and-saori-risk"></a>
+
+[B0119 middle-school live, Madoka's nearer leadership and Saori risk](T7S_ENTITY_STATE_COMPONENT_002.md#b0119-middle-school-live-madokas-nearer-leadership-and-saori-risk)
+
+<a id="b0120-ayumus-learned-register-teachers-and-pseudo-service-relation"></a>
+
+[B0120 Ayumu's learned register, teachers and pseudo-service relation](T7S_ENTITY_STATE_COMPONENT_002.md#b0120-ayumus-learned-register-teachers-and-pseudo-service-relation)
+
+<a id="b0121-kyokos-informed-choice-and-relational-support"></a>
+
+[B0121 Kyoko's informed choice and relational support](T7S_ENTITY_STATE_COMPONENT_002.md#b0121-kyokos-informed-choice-and-relational-support)
+
+<a id="b0122-honokas-role-choice-peer-coaching-and-intrusion"></a>
+
+[B0122 Honoka's role-choice, peer coaching and intrusion](T7S_ENTITY_STATE_COMPONENT_002.md#b0122-honokas-role-choice-peer-coaching-and-intrusion)
+
+<a id="b0123-renas-chosen-romantic-boundary-and-group-knowledge"></a>
+
+[B0123 Rena's chosen romantic boundary and group knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0123-renas-chosen-romantic-boundary-and-group-knowledge)
+
+<a id="b0124-mimis-cover-and-bounded-reciprocal-help"></a>
+
+[B0124 Mimi's cover and bounded reciprocal help](T7S_ENTITY_STATE_COMPONENT_002.md#b0124-mimis-cover-and-bounded-reciprocal-help)
+
+<a id="b0125-ferbs-instrument-boundary-and-peer-discovery"></a>
+
+[B0125 Ferb's instrument boundary and peer discovery](T7S_ENTITY_STATE_COMPONENT_002.md#b0125-ferbs-instrument-boundary-and-peer-discovery)
+
+<a id="b0126-chachas-coercive-detection-and-saoris-return"></a>
+
+[B0126 Chacha's coercive detection and Saori's return](T7S_ENTITY_STATE_COMPONENT_002.md#b0126-chachas-coercive-detection-and-saoris-return)
+
+<a id="b0127-mius-friendship-information-gap-and-team-repair"></a>
+
+[B0127 Miu's friendship information gap and team repair](T7S_ENTITY_STATE_COMPONENT_002.md#b0127-mius-friendship-information-gap-and-team-repair)
+
+<a id="b0128-monakas-peer-access-and-school-life-visibility"></a>
+
+[B0128 Monaka's peer access and school-life visibility](T7S_ENTITY_STATE_COMPONENT_002.md#b0128-monakas-peer-access-and-school-life-visibility)
+
+<a id="b0129-eis-scoped-participation-and-recording-knowledge-gap"></a>
+
+[B0129 Ei's scoped participation and recording knowledge gap](T7S_ENTITY_STATE_COMPONENT_002.md#b0129-eis-scoped-participation-and-recording-knowledge-gap)
+
+<a id="b0130-manons-outing-and-actor-specific-care-knowledge"></a>
+
+[B0130 Manon's outing and actor-specific care knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0130-manons-outing-and-actor-specific-care-knowledge)
+
+<a id="b0131-yumenos-memory-state-and-himes-scoped-choices"></a>
+
+[B0131 Yumeno's memory state and Hime's scoped choices](T7S_ENTITY_STATE_COMPONENT_002.md#b0131-yumenos-memory-state-and-himes-scoped-choices)
+
+<a id="b0132-miwakos-escortfan-roles-and-peer-reception"></a>
+
+[B0132 Miwako's escort/fan roles and peer reception](T7S_ENTITY_STATE_COMPONENT_002.md#b0132-miwakos-escortfan-roles-and-peer-reception)
+
+<a id="b0133-tashas-recognition-request-and-peer-mediation"></a>
+
+[B0133 Tasha's recognition request and peer mediation](T7S_ENTITY_STATE_COMPONENT_002.md#b0133-tashas-recognition-request-and-peer-mediation)
+
+<a id="b0134-shisara-tomoe-and-distributed-stage-work"></a>
+
+[B0134 Shisara, Tomoe and distributed stage work](T7S_ENTITY_STATE_COMPONENT_002.md#b0134-shisara-tomoe-and-distributed-stage-work)
+
+<a id="b0135-jedah-and-the-younger-teachers"></a>
+
+[B0135 Jedah and the younger teachers](T7S_ENTITY_STATE_COMPONENT_002.md#b0135-jedah-and-the-younger-teachers)
+
+<a id="b0136-matsuris-observer-momokas-frame-and-affected-workers"></a>
+
+[B0136 Matsuri's observer, Momoka's frame and affected workers](T7S_ENTITY_STATE_COMPONENT_002.md#b0136-matsuris-observer-momokas-frame-and-affected-workers)
+
+<a id="b0137-rishuris-creative-place-and-suis-withheld-loss"></a>
+
+[B0137 Rishuri's creative place and Sui's withheld loss](T7S_ENTITY_STATE_COMPONENT_002.md#b0137-rishuris-creative-place-and-suis-withheld-loss)
+
+<a id="b0138-saori-dog-walking-child-sawara-and-coney"></a>
+
+[B0138 Saori, dog-walking child, Sawara and Coney](T7S_ENTITY_STATE_COMPONENT_002.md#b0138-saori-dog-walking-child-sawara-and-coney)
+
+<a id="b0139-shirayukis-leadership-one-live-unit-and-hidden-care"></a>
+
+[B0139 Shirayuki's leadership, one-live unit and hidden care](T7S_ENTITY_STATE_COMPONENT_002.md#b0139-shirayukis-leadership-one-live-unit-and-hidden-care)
+
+<a id="b0140-murasakis-relational-voice-and-school-audience-boundary"></a>
+
+[B0140 Murasaki's relational voice and school-audience boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0140-murasakis-relational-voice-and-school-audience-boundary)
+
+<a id="b0141-makotos-professional-pleasure-and-sumires-local-peer-bond"></a>
+
+[B0141 Makoto's professional pleasure and Sumire's local peer bond](T7S_ENTITY_STATE_COMPONENT_002.md#b0141-makotos-professional-pleasure-and-sumires-local-peer-bond)
+
+<a id="b0142-kazumimurasaki-work-family-shop-and-task-boundary"></a>
+
+[B0142 Kazumi/Murasaki work, family shop and task boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0142-kazumimurasaki-work-family-shop-and-task-boundary)
+
+<a id="b0143-xiaos-role-work-mentors-and-player-contact-boundary"></a>
+
+[B0143 Xiao's role work, mentors and Player contact boundary](T7S_ENTITY_STATE_COMPONENT_002.md#b0143-xiaos-role-work-mentors-and-player-contact-boundary)
+
+<a id="b0144-harus-peer-detours-and-stage-readiness-limit"></a>
+
+[B0144 Haru's peer detours and stage-readiness limit](T7S_ENTITY_STATE_COMPONENT_002.md#b0144-harus-peer-detours-and-stage-readiness-limit)
+
+<a id="b0145-musubis-institutional-and-audience-facing-state"></a>
+
+[B0145 Musubi's institutional and audience-facing state](T7S_ENTITY_STATE_COMPONENT_002.md#b0145-musubis-institutional-and-audience-facing-state)
+
+<a id="b0146-rona-chapter-local-trainee-and-nonrecruitment"></a>
+
+[B0146 Rona, chapter-local trainee and nonrecruitment](T7S_ENTITY_STATE_COMPONENT_002.md#b0146-rona-chapter-local-trainee-and-nonrecruitment)
+
+<a id="b0147-hime-shizuka-and-the-false-cousin-presentation"></a>
+
+[B0147 Hime, Shizuka and the false-cousin presentation](T7S_ENTITY_STATE_COMPONENT_002.md#b0147-hime-shizuka-and-the-false-cousin-presentation)
+
+<a id="b0148-momokas-trading-care-network-and-information-limits"></a>
+
+[B0148 Momoka's trading, care network and information limits](T7S_ENTITY_STATE_COMPONENT_002.md#b0148-momokas-trading-care-network-and-information-limits)
+
+<a id="b0149-sumires-work-distress-and-reciprocal-attention"></a>
+
+[B0149 Sumire's work, distress and reciprocal attention](T7S_ENTITY_STATE_COMPONENT_002.md#b0149-sumires-work-distress-and-reciprocal-attention)
+
+<a id="b0150-sui-and-chapter-local-masaru"></a>
+
+[B0150 Sui and chapter-local Masaru](T7S_ENTITY_STATE_COMPONENT_002.md#b0150-sui-and-chapter-local-masaru)
+
+<a id="b0151-shizukas-name-group-consultation-and-sponsor-opacity"></a>
+
+[B0151 Shizuka's name, group consultation and sponsor opacity](T7S_ENTITY_STATE_COMPONENT_002.md#b0151-shizukas-name-group-consultation-and-sponsor-opacity)
+
+<a id="b0152-susu-peers-and-the-named-visiting-company"></a>
+
+[B0152 Susu, peers and the named visiting company](T7S_ENTITY_STATE_COMPONENT_002.md#b0152-susu-peers-and-the-named-visiting-company)
+
+<a id="b0153-sawara-the-player-and-ad-hoc-workplace-cover"></a>
+
+[B0153 Sawara, the Player and ad hoc workplace cover](T7S_ENTITY_STATE_COMPONENT_002.md#b0153-sawara-the-player-and-ad-hoc-workplace-cover)
+
+<a id="b0154-kajikas-visibility-and-letter-access"></a>
+
+[B0154 Kajika's visibility and letter access](T7S_ENTITY_STATE_COMPONENT_002.md#b0154-kajikas-visibility-and-letter-access)
+
+<a id="b0155-shinju-and-an-unpromoted-kerosuke-figure"></a>
+
+[B0155 Shinju and an unpromoted Kerosuke figure](T7S_ENTITY_STATE_COMPONENT_002.md#b0155-shinju-and-an-unpromoted-kerosuke-figure)
+
+<a id="b0156-tomoes-song-friend-and-collaborative-support"></a>
+
+[B0156 Tomoe's song, friend and collaborative support](T7S_ENTITY_STATE_COMPONENT_002.md#b0156-tomoes-song-friend-and-collaborative-support)
+
+<a id="b0157-madoka-as-performer-and-fictional-kanna"></a>
+
+[B0157 Madoka as performer and fictional Kanna](T7S_ENTITY_STATE_COMPONENT_002.md#b0157-madoka-as-performer-and-fictional-kanna)
+
+<a id="b0158-ayumus-care-ensemble-and-speech-phenomenon"></a>
+
+[B0158 Ayumu's care, ensemble and speech phenomenon](T7S_ENTITY_STATE_COMPONENT_002.md#b0158-ayumus-care-ensemble-and-speech-phenomenon)
+
+<a id="b0159-kyoko-her-offscreen-mother-and-chosen-support"></a>
+
+[B0159 Kyoko, her offscreen mother and chosen support](T7S_ENTITY_STATE_COMPONENT_002.md#b0159-kyoko-her-offscreen-mother-and-chosen-support)
+
+<a id="b0160-honokas-teaching-agency-and-supported-nervousness"></a>
+
+[B0160 Honoka's teaching agency and supported nervousness](T7S_ENTITY_STATE_COMPONENT_002.md#b0160-honokas-teaching-agency-and-supported-nervousness)
+
+<a id="b0161-renas-plural-commitments-and-qualified-peer-support"></a>
+
+[B0161 Rena's plural commitments and qualified peer support](T7S_ENTITY_STATE_COMPONENT_002.md#b0161-renas-plural-commitments-and-qualified-peer-support)
+
+<a id="b0162-effort-behind-mimis-competence-and-peers-partial-understanding"></a>
+
+[B0162 effort behind Mimi's competence and peers' partial understanding](T7S_ENTITY_STATE_COMPONENT_002.md#b0162-effort-behind-mimis-competence-and-peers-partial-understanding)
+
+<a id="b0163-creative-choice-collaborator-boundaries-and-actor-local-knowledge"></a>
+
+[B0163 creative choice, collaborator boundaries and actor-local knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0163-creative-choice-collaborator-boundaries-and-actor-local-knowledge)
+
+<a id="b0164-admiration-belonging-and-actor-local-farewell-knowledge"></a>
+
+[B0164 admiration, belonging and actor-local farewell knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0164-admiration-belonging-and-actor-local-farewell-knowledge)
+
+<a id="b0165-mius-reasons-for-trust-and-actor-local-preparation-knowledge"></a>
+
+[B0165 Miu's reasons for trust and actor-local preparation knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0165-mius-reasons-for-trust-and-actor-local-preparation-knowledge)
+
+<a id="b0166-recipient-local-belonging-work-inquiry-and-mediated-family-knowledge"></a>
+
+[B0166 recipient-local belonging, work inquiry and mediated family knowledge](T7S_ENTITY_STATE_COMPONENT_002.md#b0166-recipient-local-belonging-work-inquiry-and-mediated-family-knowledge)
+
+<a id="b0167-actor-local-clothing-values-requested-help-and-asymmetric-disclosure"></a>
+
+[B0167 actor-local clothing values, requested help and asymmetric disclosure](T7S_ENTITY_STATE_COMPONENT_002.md#b0167-actor-local-clothing-values-requested-help-and-asymmetric-disclosure)
+
+<a id="b0168-child-authorship-fallible-interpretation-and-bounded-adult-knowledge"></a>
+
+[B0168 child authorship, fallible interpretation and bounded adult knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0168-child-authorship-fallible-interpretation-and-bounded-adult-knowledge)
+
+<a id="b0169-scenario-making-corrective-replies-and-bounded-observer-knowledge"></a>
+
+[B0169 scenario-making, corrective replies and bounded observer knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0169-scenario-making-corrective-replies-and-bounded-observer-knowledge)
+
+<a id="b0170-role-vulnerability-unequal-care-and-differentiated-morning-knowledge"></a>
+
+[B0170 role vulnerability, unequal care and differentiated morning knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0170-role-vulnerability-unequal-care-and-differentiated-morning-knowledge)
+
+<a id="b0171-additive-family-care-authorial-limits-and-asymmetrical-knowledge"></a>
+
+[B0171 additive family care, authorial limits and asymmetrical knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0171-additive-family-care-authorial-limits-and-asymmetrical-knowledge)
+
+<a id="b0172-chosen-present-partial-rivalry-repair-and-unequal-knowledge"></a>
+
+[B0172 chosen present, partial rivalry repair and unequal knowledge](T7S_ENTITY_STATE_COMPONENT_003.md#b0172-chosen-present-partial-rivalry-repair-and-unequal-knowledge)
+
+<a id="b0173-wanted-work-corrected-motive-and-intended-family-spectators"></a>
+
+[B0173 wanted work, corrected motive and intended family spectators](T7S_ENTITY_STATE_COMPONENT_003.md#b0173-wanted-work-corrected-motive-and-intended-family-spectators)
+
+<a id="b0174-game-leadership-novice-care-and-shared-limits"></a>
+
+[B0174 game leadership, novice care and shared limits](T7S_ENTITY_STATE_COMPONENT_003.md#b0174-game-leadership-novice-care-and-shared-limits)
+
+<a id="b0175-care-shared-independence-and-recipient-room"></a>
+
+[B0175 care, shared independence and recipient room](T7S_ENTITY_STATE_COMPONENT_003.md#b0175-care-shared-independence-and-recipient-room)
+
+The active component also owns the subsequent reviewed append through T7S_B0176. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0176-reciprocal-caution-and-shared-protection"></a>
+
+[B0176 reciprocal caution and shared protection](T7S_ENTITY_STATE_COMPONENT_003.md#b0176-reciprocal-caution-and-shared-protection)
+
+The active component also owns the subsequent reviewed append through T7S_B0177. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0177-family-taste-and-the-work-of-making-another-home"></a>
+
+[B0177 family taste and the work of making another home](T7S_ENTITY_STATE_COMPONENT_003.md#b0177-family-taste-and-the-work-of-making-another-home)
+
+The active component also owns the subsequent reviewed append through T7S_B0178. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0178-reciprocal-musical-directions-and-bounded-capacity"></a>
+
+[B0178 reciprocal musical directions and bounded capacity](T7S_ENTITY_STATE_COMPONENT_003.md#b0178-reciprocal-musical-directions-and-bounded-capacity)
+
+The active component also owns the subsequent reviewed append through T7S_B0179. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0179-plural-commitments-service-boundaries-and-the-misleading-apparent-fact"></a>
+
+[B0179 plural commitments, service boundaries and the misleading apparent fact](T7S_ENTITY_STATE_COMPONENT_003.md#b0179-plural-commitments-service-boundaries-and-the-misleading-apparent-fact)
+
+The active component also owns the subsequent reviewed append through T7S_B0180. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0180-research-viewer-response-and-shared-developmental-possibility"></a>
+
+[B0180 research, viewer response and shared developmental possibility](T7S_ENTITY_STATE_COMPONENT_003.md#b0180-research-viewer-response-and-shared-developmental-possibility)
+
+The active component also owns the subsequent reviewed append through T7S_B0181. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0181-fear-reciprocal-effort-and-qualified-communication"></a>
+
+[B0181 fear, reciprocal effort and qualified communication](T7S_ENTITY_STATE_COMPONENT_003.md#b0181-fear-reciprocal-effort-and-qualified-communication)
+
+The active component also owns the subsequent reviewed append through T7S_B0182. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0182-sisaras-appraisal-shared-space-and-intended-care"></a>
+
+[B0182 Sisara's appraisal, shared space and intended care](T7S_ENTITY_STATE_COMPONENT_003.md#b0182-sisaras-appraisal-shared-space-and-intended-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0183. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0183-suis-recognition-care-and-bodily-limits"></a>
+
+[B0183 Sui's recognition, care and bodily limits](T7S_ENTITY_STATE_COMPONENT_003.md#b0183-suis-recognition-care-and-bodily-limits)
+
+The active component also owns the subsequent reviewed append through T7S_B0184. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0184-rona-reciprocal-care-and-retained-workplace"></a>
+
+[B0184 Rona, reciprocal care and retained workplace](T7S_ENTITY_STATE_COMPONENT_003.md#b0184-rona-reciprocal-care-and-retained-workplace)
+
+The active component also owns the subsequent reviewed append through T7S_B0185. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0185-haru-ordinary-initiative-and-renewed-aspiration"></a>
+
+[B0185 Haru, ordinary initiative and renewed aspiration](T7S_ENTITY_STATE_COMPONENT_003.md#b0185-haru-ordinary-initiative-and-renewed-aspiration)
+
+The active component also owns the subsequent reviewed append through T7S_B0186. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0186-kyokos-bounded-requests-craft-and-support"></a>
+
+[B0186 Kyoko's bounded requests, craft and support](T7S_ENTITY_STATE_COMPONENT_003.md#b0186-kyokos-bounded-requests-craft-and-support)
+
+The active component also owns the subsequent reviewed append through T7S_B0187. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0187-shizuka-learning-and-situated-initiative"></a>
+
+[B0187 Shizuka, learning and situated initiative](T7S_ENTITY_STATE_COMPONENT_003.md#b0187-shizuka-learning-and-situated-initiative)
+
+The active component also owns the subsequent reviewed append through T7S_B0188. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0188-hime-chosen-presentation-and-situated-reciprocity"></a>
+
+[B0188 Hime, chosen presentation and situated reciprocity](T7S_ENTITY_STATE_COMPONENT_003.md#b0188-hime-chosen-presentation-and-situated-reciprocity)
+
+The active component also owns the subsequent reviewed append through T7S_B0189. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0189-mimis-wants-fallibility-and-qualified-relational-address"></a>
+
+[B0189 Mimi's wants, fallibility and qualified relational address](T7S_ENTITY_STATE_COMPONENT_003.md#b0189-mimis-wants-fallibility-and-qualified-relational-address)
+
+The active component also owns the subsequent reviewed append through T7S_B0190. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0190-ferb-musical-commitments-and-expressed-personal-attention"></a>
+
+[B0190 Ferb, musical commitments and expressed personal attention](T7S_ENTITY_STATE_COMPONENT_003.md#b0190-ferb-musical-commitments-and-expressed-personal-attention)
+
+The active component also owns the subsequent reviewed append through T7S_B0191. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0191-momokas-reported-preferences-particular-address-and-peer-scopes"></a>
+
+[B0191 Momoka's reported preferences, particular address and peer scopes](T7S_ENTITY_STATE_COMPONENT_003.md#b0191-momokas-reported-preferences-particular-address-and-peer-scopes)
+
+The active component also owns the subsequent reviewed append through T7S_B0192. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0192-nicoles-audience-facing-states-and-existing-coney-route"></a>
+
+[B0192 Nicole's audience-facing states and existing Coney route](T7S_ENTITY_STATE_COMPONENT_003.md#b0192-nicoles-audience-facing-states-and-existing-coney-route)
+
+The active component also owns the subsequent reviewed append through T7S_B0193. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0193-mitos-artistic-attention-local-choices-and-peer-boundary"></a>
+
+[B0193 Mito's artistic attention, local choices and peer boundary](T7S_ENTITY_STATE_COMPONENT_003.md#b0193-mitos-artistic-attention-local-choices-and-peer-boundary)
+
+The active component also owns the subsequent reviewed append through T7S_B0194. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes"></a>
+
+[B0194 Mana's intentions, interpreted feedback and specific peer/family scopes](T7S_ENTITY_STATE_COMPONENT_003.md#b0194-manas-intentions-interpreted-feedback-and-specific-peerfamily-scopes)
+
+The active component also owns the subsequent reviewed append through T7S_B0195. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles"></a>
+
+[B0195 Kurt's own reasoning, situated gaps and differentiated peer roles](T7S_ENTITY_STATE_COMPONENT_003.md#b0195-kurts-own-reasoning-situated-gaps-and-differentiated-peer-roles)
+
+The active component also owns the subsequent reviewed append through T7S_B0196. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0196-ruis-offered-proximity-situated-admiration-and-definite-preference"></a>
+
+[B0196 Rui's offered proximity, situated admiration and definite preference](T7S_ENTITY_STATE_COMPONENT_003.md#b0196-ruis-offered-proximity-situated-admiration-and-definite-preference)
+
+The active component also owns the subsequent reviewed append through T7S_B0197. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0197-memorus-crafted-affection-public-explanations-and-demands"></a>
+
+[B0197 Memoru's crafted affection, public explanations and demands](T7S_ENTITY_STATE_COMPONENT_003.md#b0197-memorus-crafted-affection-public-explanations-and-demands)
+
+The active component also owns the subsequent reviewed append through T7S_B0198. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0198-kazumis-authorship-selective-approach-and-interpretive-trust"></a>
+
+[B0198 Kazumi's authorship, selective approach and interpretive trust](T7S_ENTITY_STATE_COMPONENT_003.md#b0198-kazumis-authorship-selective-approach-and-interpretive-trust)
+
+The active component also owns the subsequent reviewed append through T7S_B0199. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0199-renas-chosen-heights-and-the-terms-of-support"></a>
+
+[B0199 Rena's chosen heights and the terms of support](T7S_ENTITY_STATE_COMPONENT_003.md#b0199-renas-chosen-heights-and-the-terms-of-support)
+
+The active component also owns the subsequent reviewed append through T7S_B0200. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry"></a>
+
+[B0200 Honoka's ordinary self and the happiness she chooses to carry](T7S_ENTITY_STATE_COMPONENT_003.md#b0200-honokas-ordinary-self-and-the-happiness-she-chooses-to-carry)
+
+The active component also owns the subsequent reviewed append through T7S_B0201. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0201-makotos-offered-closeness-and-the-pressure-of-being-known"></a>
+
+[B0201 Makoto's offered closeness and the pressure of being known](T7S_ENTITY_STATE_COMPONENT_003.md#b0201-makotos-offered-closeness-and-the-pressure-of-being-known)
+
+The active component also owns the subsequent reviewed append through T7S_B0202. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0202-madokas-chosen-bridges-and-unfinished-invitations"></a>
+
+[B0202 Madoka's chosen bridges and unfinished invitations](T7S_ENTITY_STATE_COMPONENT_003.md#b0202-madokas-chosen-bridges-and-unfinished-invitations)
+
+The active component also owns the subsequent reviewed append through T7S_B0203. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0203-musubis-chosen-openings-and-the-limits-of-disclosure"></a>
+
+[B0203 Musubi's chosen openings and the limits of disclosure](T7S_ENTITY_STATE_COMPONENT_003.md#b0203-musubis-chosen-openings-and-the-limits-of-disclosure)
+
+The active component also owns the subsequent reviewed append through T7S_B0204. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0204-rishuris-own-pattern-and-the-company-that-widens-it"></a>
+
+[B0204 Rishuri's own pattern and the company that widens it](T7S_ENTITY_STATE_COMPONENT_003.md#b0204-rishuris-own-pattern-and-the-company-that-widens-it)
+
+The active component also owns the subsequent reviewed append through T7S_B0205. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0205-yumenos-looking-making-and-borrowed-permission"></a>
+
+[B0205 Yumeno's looking, making and borrowed permission](T7S_ENTITY_STATE_COMPONENT_003.md#b0205-yumenos-looking-making-and-borrowed-permission)
+
+The active component also owns the subsequent reviewed append through T7S_B0206. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0206-tashas-names-for-closeness-and-an-unfinished-future"></a>
+
+[B0206 Tasha's names for closeness and an unfinished future](T7S_ENTITY_STATE_COMPONENT_003.md#b0206-tashas-names-for-closeness-and-an-unfinished-future)
+
+The active component also owns the subsequent reviewed append through T7S_B0207. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0207-jedas-effort-and-her-ways-of-seeing"></a>
+
+[B0207 Jeda's effort and her ways of seeing](T7S_ENTITY_STATE_COMPONENT_003.md#b0207-jedas-effort-and-her-ways-of-seeing)
+
+The active component also owns the subsequent reviewed append through T7S_B0208. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0208-saoris-safety-and-the-reception-of-care"></a>
+
+[B0208 Saori's safety and the reception of care](T7S_ENTITY_STATE_COMPONENT_003.md#b0208-saoris-safety-and-the-reception-of-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0209. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0209-sumires-recognition-and-the-pace-of-closeness"></a>
+
+[B0209 Sumire's recognition and the pace of closeness](T7S_ENTITY_STATE_COMPONENT_003.md#b0209-sumires-recognition-and-the-pace-of-closeness)
+
+At B0210 the first three complete components remain byte-identical and new component004 owns only the subsequent reviewed B0210 addition. Read all four ordered components through the current manifest; historical migration intervals and old heading aliases remain unchanged.
+
+<a id="b0210-sawaras-older-sister-role-and-wanted-company"></a>
+
+[B0210 Sawara's older-sister role and wanted company](T7S_ENTITY_STATE_COMPONENT_004.md#b0210-sawaras-older-sister-role-and-wanted-company)
+
+The active component also owns the subsequent reviewed append through T7S_B0211. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0211-kajikas-ordinary-self-and-wanted-recognition"></a>
+
+[B0211 Kajika's ordinary self and wanted recognition](T7S_ENTITY_STATE_COMPONENT_004.md#b0211-kajikas-ordinary-self-and-wanted-recognition)
+
+The active component also owns the subsequent reviewed append through T7S_B0212. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0212-shinjus-dependable-company-and-chosen-limits"></a>
+
+[B0212 Shinju's dependable company and chosen limits](T7S_ENTITY_STATE_COMPONENT_004.md#b0212-shinjus-dependable-company-and-chosen-limits)
+
+The active component also owns the subsequent reviewed append through T7S_B0213. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0213-monakas-wanted-work-and-unevenly-received-care"></a>
+
+[B0213 Monaka's wanted work and unevenly received care](T7S_ENTITY_STATE_COMPONENT_004.md#b0213-monakas-wanted-work-and-unevenly-received-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0214. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0214-eis-chosen-company-and-the-ownership-of-affection"></a>
+
+[B0214 Ei's chosen company and the ownership of affection](T7S_ENTITY_STATE_COMPONENT_004.md#b0214-eis-chosen-company-and-the-ownership-of-affection)
+
+The active component also owns the subsequent reviewed append through T7S_B0215. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0215-matsuris-play-wanted-recognition-and-local-corrections"></a>
+
+[B0215 Matsuri's play, wanted recognition and local corrections](T7S_ENTITY_STATE_COMPONENT_004.md#b0215-matsuris-play-wanted-recognition-and-local-corrections)
+
+The active component also owns the subsequent reviewed append through T7S_B0216. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0216-tomoes-wanted-company-giving-care-and-uncertain-worth"></a>
+
+[B0216 Tomoe's wanted company, giving care and uncertain worth](T7S_ENTITY_STATE_COMPONENT_004.md#b0216-tomoes-wanted-company-giving-care-and-uncertain-worth)
+
+The active component also owns the subsequent reviewed append through T7S_B0217. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0217-mius-tangible-specialness-and-imagined-shared-life"></a>
+
+[B0217 Miu's tangible specialness and imagined shared life](T7S_ENTITY_STATE_COMPONENT_004.md#b0217-mius-tangible-specialness-and-imagined-shared-life)
+
+The active component also owns the subsequent reviewed append through T7S_B0218. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0218-xiaos-courage-company-and-selective-disclosure"></a>
+
+[B0218 Xiao's courage, company and selective disclosure](T7S_ENTITY_STATE_COMPONENT_004.md#b0218-xiaos-courage-company-and-selective-disclosure)
+
+The active component also owns the subsequent reviewed append through T7S_B0219. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0219-manons-chosen-company-and-imagined-roles"></a>
+
+[B0219 Manon's chosen company and imagined roles](T7S_ENTITY_STATE_COMPONENT_004.md#b0219-manons-chosen-company-and-imagined-roles)
+
+The active component also owns the subsequent reviewed append through T7S_B0220. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0220-chachas-boundaries-preferences-and-chosen-company"></a>
+
+[B0220 ChaCha's boundaries, preferences and chosen company](T7S_ENTITY_STATE_COMPONENT_004.md#b0220-chachas-boundaries-preferences-and-chosen-company)
+
+The active component also owns the subsequent reviewed append through T7S_B0221. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0221-murasakis-own-colour-and-the-feeling-she-addresses"></a>
+
+[B0221 Murasaki's own colour and the feeling she addresses](T7S_ENTITY_STATE_COMPONENT_004.md#b0221-murasakis-own-colour-and-the-feeling-she-addresses)
+
+The active component also owns the subsequent reviewed append through T7S_B0222. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching"></a>
+
+[B0222 Miwako's chosen disclosures, study and reciprocal teaching](T7S_ENTITY_STATE_COMPONENT_004.md#b0222-miwakos-chosen-disclosures-study-and-reciprocal-teaching)
+
+The active component also owns the subsequent reviewed append through T7S_B0223. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0223-ayumus-service-ideal-practice-and-fallible-explanations"></a>
+
+[B0223 Ayumu's service ideal, practice and fallible explanations](T7S_ENTITY_STATE_COMPONENT_004.md#b0223-ayumus-service-ideal-practice-and-fallible-explanations)
+
+The active component also owns the subsequent reviewed append through T7S_B0224. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0224-shirayukis-growing-skills-and-wanted-company"></a>
+
+[B0224 Shirayuki's growing skills and wanted company](T7S_ENTITY_STATE_COMPONENT_004.md#b0224-shirayukis-growing-skills-and-wanted-company)
+
+The active component also owns the subsequent reviewed append through T7S_B0225. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0225-hinas-self-presentation-and-qualified-resolve"></a>
+
+[B0225 Hina's self-presentation and qualified resolve](T7S_ENTITY_STATE_COMPONENT_004.md#b0225-hinas-self-presentation-and-qualified-resolve)
+
+The active component also owns the subsequent reviewed append through T7S_B0226. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0226-emocos-audience-refusals-and-particular-care"></a>
+
+[B0226 Emoco's audience, refusals and particular care](T7S_ENTITY_STATE_COMPONENT_004.md#b0226-emocos-audience-refusals-and-particular-care)
+
+The active component also owns the subsequent reviewed append through T7S_B0227. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0227-umes-account-of-herself-interrupted"></a>
+
+[B0227 Ume's account of herself, interrupted](T7S_ENTITY_STATE_COMPONENT_004.md#b0227-umes-account-of-herself-interrupted)
+
+The active component also owns the subsequent reviewed append through T7S_B0228. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0228-hitoha-and-futaba-extend-the-duet"></a>
+
+[B0228 Hitoha and Futaba extend the duet](T7S_ENTITY_STATE_COMPONENT_004.md#b0228-hitoha-and-futaba-extend-the-duet)
+
+The active component also owns the subsequent reviewed append through T7S_B0229. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0229-susu-asks-to-be-understood"></a>
+
+[B0229 Susu asks to be understood](T7S_ENTITY_STATE_COMPONENT_004.md#b0229-susu-asks-to-be-understood)
+
+The active component also owns the subsequent reviewed append through T7S_B0230. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0230-coney-asks-what-the-manager-wants"></a>
+
+[B0230 Coney asks what the manager wants](T7S_ENTITY_STATE_COMPONENT_004.md#b0230-coney-asks-what-the-manager-wants)
+
+The active component also owns the subsequent reviewed append through T7S_B0231. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0231-three-short-messages-and-an-unanswered-recipient"></a>
+
+[B0231 Three Short messages and an unanswered recipient](T7S_ENTITY_STATE_COMPONENT_004.md#b0231-three-short-messages-and-an-unanswered-recipient)
+
+The active component also owns the subsequent reviewed append through T7S_B0232. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0232-forty-two-short-messages-offered-selves-and-absent-answers"></a>
+
+[B0232 Forty-two Short messages, offered selves and absent answers](T7S_ENTITY_STATE_COMPONENT_004.md#b0232-forty-two-short-messages-offered-selves-and-absent-answers)
+
+The active component also owns the subsequent reviewed append through T7S_B0233. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0233-state-under-inherited-images-and-present-direction"></a>
+
+[B0233 state under inherited images and present direction](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-state-under-inherited-images-and-present-direction)
+
+<a id="b0233-local-identity-route"></a>
+
+[B0233 local identity route](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-local-identity-route)
+
+<a id="b0233-chronology-qualified-current-character-annotations"></a>
+
+[B0233 chronology-qualified current-character annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-chronology-qualified-current-character-annotations)
+
+<a id="b0233-unit-qualified-annotations"></a>
+
+[B0233 unit-qualified annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0233-unit-qualified-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0234. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0234-desire-care-and-friendship-at-source-local-intervals"></a>
+
+[B0234 desire, care and friendship at source-local intervals](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-desire-care-and-friendship-at-source-local-intervals)
+
+<a id="b0234-two-distinct-local-collective-routes"></a>
+
+[B0234 two distinct local collective routes](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-two-distinct-local-collective-routes)
+
+<a id="b0234-chronology-qualified-current-character-annotations"></a>
+
+[B0234 chronology-qualified current-character annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-chronology-qualified-current-character-annotations)
+
+<a id="b0234-acquired-mistaken-private-and-corrected-knowledge"></a>
+
+[B0234 acquired, mistaken, private and corrected knowledge](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-acquired-mistaken-private-and-corrected-knowledge)
+
+<a id="b0234-directional-relations"></a>
+
+[B0234 directional relations](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-directional-relations)
+
+<a id="b0234-chronology-qualified-unitinstitution-annotations"></a>
+
+[B0234 chronology-qualified unit/institution annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0234-chronology-qualified-unitinstitution-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0235. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0235-recipient-positions-situated-knowledge-and-continued-wishes"></a>
+
+[B0235 recipient positions, situated knowledge and continued wishes](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-recipient-positions-situated-knowledge-and-continued-wishes)
+
+<a id="b0235-chronology-qualified-character-annotations"></a>
+
+[B0235 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-chronology-qualified-character-annotations)
+
+<a id="b0235-acquired-attributed-and-corrected-knowledge"></a>
+
+[B0235 acquired, attributed and corrected knowledge](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-acquired-attributed-and-corrected-knowledge)
+
+<a id="b0235-directional-relations"></a>
+
+[B0235 directional relations](T7S_ENTITY_STATE_COMPONENT_004.md#b0235-directional-relations)
+
+At B0236 all 4 older complete components remain byte-identical. Component 005 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0236-particular-recipient-positions-knowledge-and-relations"></a>
+
+[B0236 particular recipient positions, knowledge and relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-particular-recipient-positions-knowledge-and-relations)
+
+<a id="b0236-chronology-qualified-character-annotations"></a>
+
+[B0236 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-chronology-qualified-character-annotations)
+
+<a id="b0236-acquired-attributed-and-corrected-knowledge"></a>
+
+[B0236 acquired, attributed and corrected knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-acquired-attributed-and-corrected-knowledge)
+
+<a id="b0236-directional-relations"></a>
+
+[B0236 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-directional-relations)
+
+<a id="b0236-existing-unit-annotations"></a>
+
+[B0236 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0236-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0237. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0237-particular-recipients-attributed-knowledge-and-directional-relations"></a>
+
+[B0237 particular recipients, attributed knowledge and directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-particular-recipients-attributed-knowledge-and-directional-relations)
+
+<a id="b0237-chronology-qualified-character-annotations"></a>
+
+[B0237 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-chronology-qualified-character-annotations)
+
+<a id="b0237-acquired-corrected-and-attributed-knowledge"></a>
+
+[B0237 acquired, corrected and attributed knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-acquired-corrected-and-attributed-knowledge)
+
+<a id="b0237-directional-relations"></a>
+
+[B0237 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-directional-relations)
+
+<a id="b0237-existing-unit-annotations"></a>
+
+[B0237 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0237-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0238. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0238-particular-recipients-and-attributed-care"></a>
+
+[B0238 particular recipients and attributed care](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-particular-recipients-and-attributed-care)
+
+<a id="b0238-chronology-qualified-character-annotations"></a>
+
+[B0238 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-chronology-qualified-character-annotations)
+
+<a id="b0238-acquired-qualified-and-attributed-knowledge"></a>
+
+[B0238 acquired, qualified and attributed knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-acquired-qualified-and-attributed-knowledge)
+
+<a id="b0238-directional-relations"></a>
+
+[B0238 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-directional-relations)
+
+<a id="b0238-existing-unit-annotations"></a>
+
+[B0238 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0238-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0239. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0239-particular-recipients-and-attributed-care"></a>
+
+[B0239 particular recipients and attributed care](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-particular-recipients-and-attributed-care)
+
+<a id="b0239-chronology-qualified-character-annotations"></a>
+
+[B0239 chronology-qualified character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-chronology-qualified-character-annotations)
+
+<a id="b0239-later-current-name-adjudication-original-case-horizons-retained"></a>
+
+[B0239 later current name adjudication, original case horizons retained](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-later-current-name-adjudication-original-case-horizons-retained)
+
+<a id="b0239-acquired-qualified-and-attributed-knowledge"></a>
+
+[B0239 acquired, qualified and attributed knowledge](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-acquired-qualified-and-attributed-knowledge)
+
+<a id="b0239-directional-relations"></a>
+
+[B0239 directional relations](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-directional-relations)
+
+<a id="b0239-existing-unit-annotations"></a>
+
+[B0239 existing unit annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0239-existing-unit-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0240. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0240-situated-care-date-consciousness-and-recipient-agency"></a>
+
+[B0240 situated care, date consciousness and recipient agency](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-situated-care-date-consciousness-and-recipient-agency)
+
+<a id="b0240-chronology-qualified-existing-character-annotations"></a>
+
+[B0240 chronology-qualified existing character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-chronology-qualified-existing-character-annotations)
+
+<a id="b0240-epistemic-states"></a>
+
+[B0240 epistemic states](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-epistemic-states)
+
+<a id="b0240-directional-relationships"></a>
+
+[B0240 directional relationships](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-directional-relationships)
+
+<a id="b0240-existing-institution-intervals"></a>
+
+[B0240 existing institution intervals](T7S_ENTITY_STATE_COMPONENT_005.md#b0240-existing-institution-intervals)
+
+The active component also owns the subsequent reviewed append through T7S_B0241. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0241-particular-knowledge-requests-and-institutional-roles"></a>
+
+[B0241 particular knowledge, requests and institutional roles](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-particular-knowledge-requests-and-institutional-roles)
+
+<a id="b0241-chronology-qualified-existing-character-annotations"></a>
+
+[B0241 chronology-qualified existing character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-chronology-qualified-existing-character-annotations)
+
+<a id="b0241-epistemic-states"></a>
+
+[B0241 epistemic states](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-epistemic-states)
+
+<a id="b0241-directional-relationships"></a>
+
+[B0241 directional relationships](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-directional-relationships)
+
+<a id="b0241-existing-institution-intervals"></a>
+
+[B0241 existing institution intervals](T7S_ENTITY_STATE_COMPONENT_005.md#b0241-existing-institution-intervals)
+
+The active component also owns the subsequent reviewed append through T7S_B0242. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0242-differentiated-authorship-knowledge-and-reciprocal-work"></a>
+
+[B0242 differentiated authorship, knowledge and reciprocal work](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-differentiated-authorship-knowledge-and-reciprocal-work)
+
+<a id="b0242-chronology-qualified-existing-character-annotations"></a>
+
+[B0242 chronology-qualified existing character annotations](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-chronology-qualified-existing-character-annotations)
+
+<a id="b0242-holder-specific-epistemic-states"></a>
+
+[B0242 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-holder-specific-epistemic-states)
+
+<a id="b0242-directional-relationships"></a>
+
+[B0242 directional relationships](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-directional-relationships)
+
+<a id="b0242-existing-institution-interval"></a>
+
+[B0242 existing institution interval](T7S_ENTITY_STATE_COMPONENT_005.md#b0242-existing-institution-interval)
+
+At B0243 all 5 older complete components remain byte-identical. Component 006 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0243-differentiated-character-knowledge-relationship-and-work-intervals"></a>
+
+[B0243 differentiated character, knowledge, relationship and work intervals](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-differentiated-character-knowledge-relationship-and-work-intervals)
+
+<a id="b0243-existing-character-annotations"></a>
+
+[B0243 existing character annotations](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-existing-character-annotations)
+
+<a id="b0243-holder-specific-epistemic-states"></a>
+
+[B0243 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-holder-specific-epistemic-states)
+
+<a id="b0243-directional-relationships"></a>
+
+[B0243 directional relationships](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-directional-relationships)
+
+<a id="b0243-existing-institutions-and-household-work"></a>
+
+[B0243 existing institutions and household work](T7S_ENTITY_STATE_COMPONENT_006.md#b0243-existing-institutions-and-household-work)
+
+The active component also owns the subsequent reviewed append through T7S_B0244. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0244-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0244 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0244-exact-local-identity-routes"></a>
+
+[B0244 exact local identity routes](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-exact-local-identity-routes)
+
+<a id="b0244-existing-character-annotations"></a>
+
+[B0244 existing character annotations](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-existing-character-annotations)
+
+<a id="b0244-new-consequential-character-state"></a>
+
+[B0244 new consequential character state](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-new-consequential-character-state)
+
+<a id="b0244-holder-specific-epistemic-states"></a>
+
+[B0244 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-holder-specific-epistemic-states)
+
+<a id="b0244-directional-relationships"></a>
+
+[B0244 directional relationships](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-directional-relationships)
+
+<a id="b0244-institutions-and-bounded-project-states"></a>
+
+[B0244 institutions and bounded project states](T7S_ENTITY_STATE_COMPONENT_006.md#b0244-institutions-and-bounded-project-states)
+
+At B0245 all 6 older complete components remain byte-identical. Component 007 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0245-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0245 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0245-existing-character-annotations"></a>
+
+[B0245 existing character annotations](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-existing-character-annotations)
+
+<a id="b0245-holder-specific-epistemic-states"></a>
+
+[B0245 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-holder-specific-epistemic-states)
+
+<a id="b0245-directional-relationships"></a>
+
+[B0245 directional relationships](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-directional-relationships)
+
+<a id="b0245-existing-units-and-bounded-collective-states"></a>
+
+[B0245 existing units and bounded collective states](T7S_ENTITY_STATE_COMPONENT_007.md#b0245-existing-units-and-bounded-collective-states)
+
+The active component also owns the subsequent reviewed append through T7S_B0246. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0246-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0246 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0246-existing-character-annotations"></a>
+
+[B0246 existing character annotations](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-existing-character-annotations)
+
+<a id="b0246-holder-specific-epistemic-states"></a>
+
+[B0246 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-holder-specific-epistemic-states)
+
+<a id="b0246-directional-relationships"></a>
+
+[B0246 directional relationships](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-directional-relationships)
+
+<a id="b0246-existing-units-and-bounded-collective-states"></a>
+
+[B0246 existing units and bounded collective states](T7S_ENTITY_STATE_COMPONENT_007.md#b0246-existing-units-and-bounded-collective-states)
+
+At B0247 all 7 older complete components remain byte-identical. Component 008 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0247-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0247 character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0247-existing-character-annotations"></a>
+
+[B0247 existing character annotations](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-existing-character-annotations)
+
+<a id="b0247-holder-specific-epistemic-states"></a>
+
+[B0247 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-holder-specific-epistemic-states)
+
+<a id="b0247-directional-relationships"></a>
+
+[B0247 directional relationships](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-directional-relationships)
+
+<a id="b0247-existing-units-and-bounded-collective-states"></a>
+
+[B0247 existing units and bounded collective states](T7S_ENTITY_STATE_COMPONENT_008.md#b0247-existing-units-and-bounded-collective-states)
+
+At B0248 all 8 older complete components remain byte-identical. Component 009 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0248-characterepistemicrelational-and-collective-intervals"></a>
+
+[B0248 character,epistemic,relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-characterepistemicrelational-and-collective-intervals)
+
+<a id="b0248-existing-character-annotations"></a>
+
+[B0248 existing character annotations](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-existing-character-annotations)
+
+<a id="b0248-holder-specific-epistemic-states"></a>
+
+[B0248 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-holder-specific-epistemic-states)
+
+<a id="b0248-directional-relationships"></a>
+
+[B0248 directional relationships](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-directional-relationships)
+
+<a id="b0248-existing-units-and-bounded-planned-formations"></a>
+
+[B0248 existing units and bounded planned formations](T7S_ENTITY_STATE_COMPONENT_009.md#b0248-existing-units-and-bounded-planned-formations)
+
+The active component also owns the subsequent reviewed append through T7S_B0249. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0249-particular-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0249 particular character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-particular-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0249-existing-character-annotations"></a>
+
+[B0249 existing character annotations](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-existing-character-annotations)
+
+<a id="b0249-holder-specific-epistemic-states"></a>
+
+[B0249 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-holder-specific-epistemic-states)
+
+<a id="b0249-directional-relationships"></a>
+
+[B0249 directional relationships](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-directional-relationships)
+
+<a id="b0249-existing-unit-and-institutional-annotations"></a>
+
+[B0249 existing unit and institutional annotations](T7S_ENTITY_STATE_COMPONENT_009.md#b0249-existing-unit-and-institutional-annotations)
+
+At B0250 all 9 older complete components remain byte-identical. Component 010 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0250-particular-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0250 particular character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-particular-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0250-existing-character-annotations"></a>
+
+[B0250 existing character annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-existing-character-annotations)
+
+<a id="b0250-holder-specific-epistemic-states"></a>
+
+[B0250 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-holder-specific-epistemic-states)
+
+<a id="b0250-directional-relationships"></a>
+
+[B0250 directional relationships](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-directional-relationships)
+
+<a id="b0250-existing-unit-and-institutional-annotations"></a>
+
+[B0250 existing unit and institutional annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-existing-unit-and-institutional-annotations)
+
+<a id="b0250-new-bounded-temporary-collective"></a>
+
+[B0250 new bounded temporary collective](T7S_ENTITY_STATE_COMPONENT_010.md#b0250-new-bounded-temporary-collective)
+
+The active component also owns the subsequent reviewed append through T7S_B0251. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0251-particular-character-epistemic-relational-and-collective-intervals"></a>
+
+[B0251 particular character, epistemic, relational and collective intervals](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-particular-character-epistemic-relational-and-collective-intervals)
+
+<a id="b0251-existing-character-annotations"></a>
+
+[B0251 existing character annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-existing-character-annotations)
+
+<a id="b0251-holder-specific-epistemic-states"></a>
+
+[B0251 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-holder-specific-epistemic-states)
+
+<a id="b0251-directional-relationships"></a>
+
+[B0251 directional relationships](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-directional-relationships)
+
+<a id="b0251-existing-unit-and-institutional-annotations"></a>
+
+[B0251 existing unit and institutional annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0251-existing-unit-and-institutional-annotations)
+
+The active component also owns the subsequent reviewed append through T7S_B0252. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0252-particular-character-knowledge-relationship-and-collective-intervals"></a>
+
+[B0252 particular character, knowledge, relationship and collective intervals](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-particular-character-knowledge-relationship-and-collective-intervals)
+
+<a id="b0252-existing-character-annotations"></a>
+
+[B0252 existing character annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-existing-character-annotations)
+
+<a id="b0252-holder-specific-epistemic-states"></a>
+
+[B0252 holder-specific epistemic states](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-holder-specific-epistemic-states)
+
+<a id="b0252-directional-relationships"></a>
+
+[B0252 directional relationships](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-directional-relationships)
+
+<a id="b0252-existing-collective-annotations"></a>
+
+[B0252 existing collective annotations](T7S_ENTITY_STATE_COMPONENT_010.md#b0252-existing-collective-annotations)
+
+At B0253 all 10 older complete components remain byte-identical. Component 011 owns only the reviewed subsequent addition. Read every ordered component through the current manifest; historical intervals and heading aliases remain unchanged.
+
+<a id="b0253-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0253 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0253-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations)
+
+<a id="holder-specific-knowledge"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge)
+
+<a id="directional-relationships"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships)
+
+<a id="existing-collective-contexts"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts)
+
+The active component also owns the subsequent reviewed append through T7S_B0254. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0254-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0254 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0254-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-1"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-1)
+
+<a id="holder-specific-knowledge-1"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-1)
+
+<a id="directional-relationships-1"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-1)
+
+<a id="existing-collective-contexts-1"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-1)
+
+The active component also owns the subsequent reviewed append through T7S_B0255. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0255-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0255 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0255-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-2"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-2)
+
+<a id="holder-specific-knowledge-2"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-2)
+
+<a id="directional-relationships-2"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-2)
+
+<a id="existing-collective-contexts-2"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-2)
+
+The active component also owns the subsequent reviewed append through T7S_B0256. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0256-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0256 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0256-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-3"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-3)
+
+<a id="holder-specific-knowledge-3"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-3)
+
+<a id="directional-relationships-3"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-3)
+
+<a id="existing-collective-contexts-3"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-3)
+
+The active component also owns the subsequent reviewed append through T7S_B0257. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0257-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0257 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0257-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-4"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-4)
+
+<a id="new-source-named-local-routes"></a>
+
+[New source-named local routes](T7S_ENTITY_STATE_COMPONENT_011.md#new-source-named-local-routes)
+
+<a id="holder-specific-knowledge-4"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-4)
+
+<a id="directional-relationships-4"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-4)
+
+<a id="existing-collective-contexts-4"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-4)
+
+The active component also owns the subsequent reviewed append through T7S_B0258. Its current size/hash and complete logical endpoint are bound by the manifest; preserved migration byte intervals above remain historical.
+
+<a id="b0258-particular-character-knowledge-and-relationship-intervals"></a>
+
+[B0258 particular character, knowledge and relationship intervals](T7S_ENTITY_STATE_COMPONENT_011.md#b0258-particular-character-knowledge-and-relationship-intervals)
+
+<a id="existing-character-annotations-5"></a>
+
+[Existing character annotations](T7S_ENTITY_STATE_COMPONENT_011.md#existing-character-annotations-5)
+
+<a id="new-source-named-local-routes-1"></a>
+
+[New source-named local routes](T7S_ENTITY_STATE_COMPONENT_011.md#new-source-named-local-routes-1)
+
+<a id="holder-specific-knowledge-5"></a>
+
+[Holder-specific knowledge](T7S_ENTITY_STATE_COMPONENT_011.md#holder-specific-knowledge-5)
+
+<a id="directional-relationships-5"></a>
+
+[Directional relationships](T7S_ENTITY_STATE_COMPONENT_011.md#directional-relationships-5)
+
+<a id="existing-collective-contexts-5"></a>
+
+[Existing collective contexts](T7S_ENTITY_STATE_COMPONENT_011.md#existing-collective-contexts-5)
+
+<a id="source-named-transient-collective"></a>
+
+[Source-named transient collective](T7S_ENTITY_STATE_COMPONENT_011.md#source-named-transient-collective)
+
+<a id="current-correction-of-preserved-b0251-collective-references"></a>
+
+[Current correction of preserved B0251 collective references](T7S_ENTITY_STATE_COMPONENT_011.md#current-correction-of-preserved-b0251-collective-references)

@@ -1,0 +1,25 @@
+{
+  "artifact_id": "PEACH_GIRL_G4_EXECUTION_RECEIPT",
+  "recorded_utc": "2026-10-20T20:21:55.785412+00:00",
+  "rule_freeze_commit": "073af8008bab1226b854772019cf5e8d76b3613e",
+  "g2_input_commit": "342b9067abf2b200613e2b24707abbc190c59402",
+  "design": "RETROSPECTIVE_FULL_SOURCE_EXPOSED_NOT_HELD_OUT",
+  "execution": "CATEGORICAL_RUNNER_ACTUALLY_EXECUTED_ON_12_CASES",
+  "canonical_command": "python PEACH_GIRL_RECONSTRUCTION_RUNNER.py PEACH_GIRL_RECONSTRUCTION_RULES_V1.json PEACH_GIRL_RECONSTRUCTION_CASES_V1.json results.json",
+  "narrative_cases": 8,
+  "independent_context_groups": 7,
+  "guard_probes": 4,
+  "contradicted_cases": [
+    "K2",
+    "T2",
+    "S1"
+  ],
+  "no_posttest_rule_changes": true,
+  "operational_acceptance": "BLOCKED_NO_HELD_OUT_VALIDATION",
+  "hashes": {
+    "04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_RULES_V1.json": "cba94fb7b62b3499140bbfe22fde12e719517f52b828031247327341ac688419",
+    "04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_RUNNER.py": "dcbf0cabff4422c55199ffb9c67df3a96a1a282d4af084b1c527491b04670aaf",
+    "04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_CASES_V1.json": "3e47eed75d2ba2f733a464e1b0aacba68c81dd4834afdd4c835cba4ebfd68014",
+    "04 Character and Relationship Analysis/PEACH_GIRL_RECONSTRUCTION_RESULTS_V1.json": "5261774097d51c39cd53e442f3949b87c2a8ea2046ab381c52d6b2f8034becc8"
+  }
+}

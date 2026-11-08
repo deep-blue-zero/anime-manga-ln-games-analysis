@@ -1,0 +1,164 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T20:50:24.653769+00:00",
+  "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "BRIDOL_HEAD_BUTLER_ORIGINAL_FIRSTS_01.json",
+    "bytes": 5954,
+    "sha256": "409ef1b9a8b1fcf52288321866a8ae77fabcdc433bfc8340501534f4ca3ff8b1"
+  },
+  "exact_inputs_pin": {
+    "file": "BRIDOL_HEAD_BUTLER_SCENARIO_INPUTS_01.json",
+    "bytes": 17687,
+    "sha256": "d3c9f5155f82428d4c8d204ca29f2e3c02f69f4c3be8b95d7f188ea5ee7cdedb"
+  },
+  "original_first_seal": {
+    "file": "COHORT40_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+    "bytes": 7307,
+    "sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c"
+  },
+  "actual_complete_output_review_chunk": "102d71",
+  "annotations": [
+    {
+      "case_id": "C40-BHB-A1",
+      "pair_id": "C40-BHB-A",
+      "prompt_sha256": "ff1bdfb828cd18e57a0a742f579e8e0108407d53c45c03f83d82691ff92f0c37",
+      "original_body_pin": {
+        "file": "firsts01/C40-BHB-A1.txt",
+        "bytes": 636,
+        "sha256": "5598a051b160dc83cb730ec2c750529e8934234d3455e120262a12c12892eb40"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-BHB-A1.receipt.json",
+        "bytes": 1443,
+        "sha256": "076fa1de6faeca0b2fc2a41e6c729152b790817b39440e32ef60badf9bcdbbac"
+      },
+      "target_rule": [
+        "BHB-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Arranges transfer to the explicitly willing,capable and authorized Dust using courteous service language.",
+      "body_constraints": "Preserves Rionor acceptance,king permission and absence of a competing stake. No secret identity substitution or extra handler.",
+      "rule_comparison": "An observable reassignment attempt fits the corrected BHB-R01. It does not prove all butler choices seek convenience.",
+      "defects": [],
+      "written_voice": "Formal address and grateful relief plausibly express the source pragmatic pattern without a certified portable idiolect.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-BHB-A2",
+      "pair_id": "C40-BHB-A",
+      "prompt_sha256": "5bbb3a3c6ad60e170275ef6a447d2f0139d73205c1813efcf008b4bfba2f388f",
+      "original_body_pin": {
+        "file": "firsts01/C40-BHB-A2.txt",
+        "bytes": 747,
+        "sha256": "c92ab2c6144dccfc19c3b1eb2c015303c060e0f5676afe6bf79ee4fd03be8d3c"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-BHB-A2.receipt.json",
+        "bytes": 1443,
+        "sha256": "4006712b347163af37261e4f69838f5d125592edc46ba92ae9496fb4cf35b5d6"
+      },
+      "target_rule": [
+        "BHB-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Chooses personal escort with the entrusted inspection and acknowledges the inconvenience.",
+      "body_constraints": "Does not treat volunteering as inspection authorization or invent a royal amendment. The rationale leaves general priority unresolved.",
+      "rule_comparison": "Recognizes the supplied competing stake. Authority and national inspection change together;no general obedience,national-priority or care coefficient is isolated.",
+      "defects": [],
+      "written_voice": "Courtesy plus a private grumble is plausible. This new hypothetical choice is not a witnessed source decision.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-BHB-B1",
+      "pair_id": "C40-BHB-B",
+      "prompt_sha256": "61417a63cbba0d43df887b8119c6de08bef61756d53d079ef7cf352aaaa2371d",
+      "original_body_pin": {
+        "file": "firsts01/C40-BHB-B1.txt",
+        "bytes": 627,
+        "sha256": "e26339840bdc977e318be820daa0379e8cb3b36ae15c8a751f89071872b0f3da"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-BHB-B1.receipt.json",
+        "bytes": 1442,
+        "sha256": "e054919fae575fd1f691ea20f7e57b33c0d07a2f2038f16cd2bfeeeca86f2f12"
+      },
+      "target_rule": [
+        "BHB-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Starts the permitted five-minute handoff to reduce his known overall burden.",
+      "body_constraints": "No hidden cost,unwilling colleague,identity substitution or changed service quality is added.",
+      "rule_comparison": "Compatible with BHB-R01 given ex ante relief. Ordinary workload economy predicts the same choice.",
+      "defects": [],
+      "written_voice": "Service phrasing maps to the stipulated human setting;it supplies no human validation.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-BHB-B2",
+      "pair_id": "C40-BHB-B",
+      "prompt_sha256": "fc110b33998c6caafc96c387ae9d91a6cdd39ac463485f810476d1d954238555",
+      "original_body_pin": {
+        "file": "firsts01/C40-BHB-B2.txt",
+        "bytes": 648,
+        "sha256": "201e90fc8bcb7957f2fc653aa5d47b85172fb1d8e7c6e092eba639ca2cd7e0d6"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-BHB-B2.receipt.json",
+        "bytes": 1442,
+        "sha256": "eaca855a4710f0c4968cebbe12cfc94ed4589373cfee9902ca372db4928ada2f"
+      },
+      "target_rule": [
+        "BHB-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Personally handles the sixty-minute visit rather than accepting ninety minutes of known worse administration.",
+      "body_constraints": "Uses the supplied overall appraisal including annoyance;does not invent pleasant paperwork or change the ninety minutes to five.",
+      "rule_comparison": "Prevents an unconditional delegate-at-any-cost reading. It is a conditional consistency check with a strong generic workload rival.",
+      "defects": [],
+      "written_voice": "The ironic cost comparison is plausible within the written model,with no independent voice result.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "C40-BHB-A",
+      "disposition": "Relief with authority/stake package",
+      "comparison": "Transfers when authorized and handles personally under the added inspection requirement. The package does not isolate an authority or national-duty priority.",
+      "limits": "Authority and a concrete institutional stake change together. This tests explicit constraint use and whether relief is made unconditional;it does not isolate obedience,care or national priority. Knowing defiance,if generated,must not be relabeled authorized compliance."
+    },
+    {
+      "pair_id": "C40-BHB-B",
+      "disposition": "Ex ante burden-appraisal contrast",
+      "comparison": "Transfers when handoff is less burdensome and handles personally when handoff is worse. Generic workload economy remains a strong sufficient rival.",
+      "limits": "Ex ante overall burden appraisal changes,including time and annoyance,rather than being inferred from his action. Generic workload economy remains a strong rival. This is a source-inspired human-world constraint probe,not actor-specific causal isolation or human validation."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "unbound_or_ambiguous_detail_cases": [],
+  "clean_mechanism_isolating_pairs": 0,
+  "mechanism_qualification": "No independently established character-specific causal mechanism is isolated. Controlled stipulations can show conditional text consistency while generic rivals and author/source exposure remain.",
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

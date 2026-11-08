@@ -1,0 +1,49 @@
+{
+  "schema": "konosuba.cohort46.post-freeze-current-source-qualifications.v1",
+  "authored_utc": "2026-10-25T09:55:29.443246+00:00",
+  "status": "CURRENT_QUALIFICATIONS_PENDING_COMPLETE_SUPPORTING_PACKET_REVIEW_AND_PUBLICATION",
+  "scope": "Read these qualifications alongside the preserved C46 foundation, provisional models and original firsts. They correct source attribution/precision after the freezes without repairing any frozen body, prompt, rule, first or diagnostic, and confer no performance credit.",
+  "prior_core_semantic_receiving_sha256": "d819a2618b54945dd8c5a111782a28080b1fffd1a6b78979e703fa190c5d3ffd",
+  "prior_private_source_clarification_sha256": "df45c28469bcbba3ed19709cbeca3724f5c227c48aad6299688117752ca1b15d",
+  "all47_frozen_core_pins_retained": true,
+  "findings": [
+    {
+      "id": "C46-PFQ01",
+      "target": "Frozen private scope assessment: military diviner report.",
+      "current_qualification": "YORI04U01250 names an unnamed weather diviner whose army-locust route forecast was wrong. It is not a human military forecasting institution. A proposed Crimson-village expert is not an actual consultation or a named Soketto bridge. Use weather-diviner/army-locust labels in current public routes.",
+      "source": "YORI04U01250-61",
+      "actual_recheck_delivery": "e80bef",
+      "model_mechanisms_affected": false
+    },
+    {
+      "id": "C46-PFQ02",
+      "target": "Dark Stalker study meal consumes roughly a week pension121; DST-R01 costly meal121 and resource-context references.",
+      "current_qualification": "U014121 compares this restaurant price with one week of the professionals pension. U01474-89/151-156 also situates their own eating/conversation; it does not itemize a paid bill, identify who paid or establish an exact pension debit or remaining balance. Read meal cost as a stated price comparison, not an observed transaction exhausting that amount. Explicit later drink/spending and food-request evidence320-331 remains separate. Hypothetical forty-Eris states are constructed inputs, not canonical bank records.",
+      "source": "YORI04U01474-89/105-156/320-331",
+      "actual_recheck_deliveries": [
+        "37909a",
+        "64feaf"
+      ],
+      "model_mechanisms_affected": "Limits one expense example; no proposition, input, first or diagnostic is revised, and no stronger model support is claimed."
+    },
+    {
+      "id": "C46-PFQ03",
+      "target": "C46-Q06 phrase she is injured613 and receives Heal624, plus ambiguous plural injury/healing wording in Angie study, ANG-R02 support and model explanation.",
+      "current_qualification": "U018613 explicitly has Angie blown away by the blast. Kazuma reports damaged hearing623 and Aqua approaches and Heals him624. This passage does not separately narrate an Angie injury diagnosis or a Heal cast on her. Do not transfer Kazuma treatment to Angie or certify her recovery. The protective stand, dangerous blast exposure and being blown away remain, while her measured injury and treatment are unshown here. The current reading is narrower than the frozen Q06 wording. No hypothetical wrist state or original response is rewritten.",
+      "source": "YORI04U018591-630",
+      "actual_recheck_delivery": "8549f1",
+      "model_mechanisms_affected": "Qualifies physical-outcome evidence; preserves costly exposure without an invented recipient. Original rule/model/first histories remain unchanged."
+    }
+  ],
+  "additional_routing_precision": "SuttonU018447 is Angies report of the count mineral valuation, not a request personally issued by Sutton. Aqua644 reports his beloved garden stones. Current unfrozen supporting profile/index use that attribution, with no direct Sutton speech or independently tested expertise.",
+  "source_known_same_informed_root": true,
+  "new_unique_primary_paragraph_credit": 0,
+  "new_whole_edition_or_image_credit": 0,
+  "new_global_source_first_credit": 0,
+  "independent_observation_count": null,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "all_originals_inputs_rules_foundation_and_diagnostics_unchanged": true,
+  "current_model_and_census_routes_must_link_these_qualifications": true,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

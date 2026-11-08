@@ -1,0 +1,2012 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_COMPONENTS_WITH_RETAINED_PRINCIPAL_DISPOSITIONS_V1",
+  "source_id": "MAIN-03",
+  "accepted_utc": "2026-10-19T07:51:28.048149+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_bytes": 3497582,
+  "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+  "text_resources": [
+    {
+      "component_id": "MAIN-03-U001",
+      "member": "item/xhtml/p-cover.xhtml",
+      "member_sha256": "70bf0d08281ff519ff945944f01e75376db8bf8cb3c3aaf80e1e88518263864e",
+      "bytes": 847,
+      "native_spine_order": 1,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG001"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COVER_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U001",
+          "native_member": "item/xhtml/p-cover.xhtml",
+          "native_member_sha256": "70bf0d08281ff519ff945944f01e75376db8bf8cb3c3aaf80e1e88518263864e",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.790535+00:00",
+          "source_first_notes": "Image-only volume3cover wrapper; no native prose. Cover/title/credits and character montage separately viewed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U002",
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "member_sha256": "f724f67c92ae31bff2098b2f93833456e7034784499bb2ecdf7f50fc9d9d8bfb",
+      "bytes": 847,
+      "native_spine_order": 2,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG004"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "REPEATED_COVER_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U002",
+          "native_member": "item/xhtml/p-fmatter-001.xhtml",
+          "native_member_sha256": "f724f67c92ae31bff2098b2f93833456e7034784499bb2ecdf7f50fc9d9d8bfb",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.803464+00:00",
+          "source_first_notes": "Repeated color cover crop wrapper, empty prose; picture actually viewed, no additional encounter.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U003",
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "member_sha256": "3d0a8e4f85d76e7fde9e80e283999fce4355f8ec4ac5b916afc524a7f8be0330",
+      "bytes": 905,
+      "native_spine_order": 3,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG005"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_COURT_DIALOGUE_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U003",
+          "native_member": "item/xhtml/p-fmatter-002.xhtml",
+          "native_member_sha256": "3d0a8e4f85d76e7fde9e80e283999fce4355f8ec4ac5b916afc524a7f8be0330",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.816390+00:00",
+          "source_first_notes": "Color court montage wrapper, no extracted prose. Named Sena/Chris/judge/principal lines received from pixels, with retained-scene compression kept separate.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U004",
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "member_sha256": "8b8f493592526217602758c400004e9dfb33f94dc5141d5a7c0ae73d5cb01ade",
+      "bytes": 847,
+      "native_spine_order": 4,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG006"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_YUNYUN_REFUSAL_DIALOGUE_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U004",
+          "native_member": "item/xhtml/p-fmatter-003.xhtml",
+          "native_member_sha256": "8b8f493592526217602758c400004e9dfb33f94dc5141d5a7c0ae73d5cb01ade",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.828323+00:00",
+          "source_first_notes": "Color Megumin/Yunyun frog-slime/grapple wrapper, empty prose; Yunyun's explicit stop/don'tapproach language received from image, no consent inferred.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U005",
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "member_sha256": "32e880069856d7e61834cd4bf7c9fd903ba8dd21d2728faade0968c374a9d676",
+      "bytes": 847,
+      "native_spine_order": 5,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG007"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_AQUA_MAID_DIALOGUE_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U005",
+          "native_member": "item/xhtml/p-fmatter-004.xhtml",
+          "native_member_sha256": "32e880069856d7e61834cd4bf7c9fd903ba8dd21d2728faade0968c374a9d676",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.842233+00:00",
+          "source_first_notes": "Color Aqua maid portrait wrapper, no extracted prose. Printed service line actually read from pixels, not permanent occupational conversion.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U006",
+      "member": "item/xhtml/p-fmatter-005.xhtml",
+      "member_sha256": "be195521ed273b7f967ae2a4c5876873ebc859cb63b7fb2174d58285424a19c7",
+      "bytes": 905,
+      "native_spine_order": 6,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG008"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_MASK_POSSESSION_DIALOGUE_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U006",
+          "native_member": "item/xhtml/p-fmatter-005.xhtml",
+          "native_member_sha256": "be195521ed273b7f967ae2a4c5876873ebc859cb63b7fb2174d58285424a19c7",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.857776+00:00",
+          "source_first_notes": "Color masked-Darkness/Vanir encounter wrapper, empty prose; pictured possession/mask cannot be conflated with Darkness's unqualified own preference.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U007",
+      "member": "item/xhtml/p-fmatter-006.xhtml",
+      "member_sha256": "f5703afe554a359761c2554956024b609aafc87f8d7fba7459f5a81fc2330ae9",
+      "bytes": 847,
+      "native_spine_order": 7,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG009"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_TOC_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U007",
+          "native_member": "item/xhtml/p-fmatter-006.xhtml",
+          "native_member_sha256": "f5703afe554a359761c2554956024b609aafc87f8d7fba7459f5a81fc2330ae9",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.872614+00:00",
+          "source_first_notes": "Raster contents wrapper; print-page numbers viewed separately, not nativePslots.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U008",
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "member_sha256": "62c99230b39d67d0eb1390282200d20c96324a81b34b7a36afa784d411ba4a98",
+      "bytes": 1693,
+      "native_spine_order": 8,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 5,
+      "nonempty_paragraphs": 4,
+      "base_characters": 43,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "TITLE_IMPRINT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 5,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U008",
+          "native_member": "item/xhtml/p-titlepage.xhtml",
+          "native_member_sha256": "62c99230b39d67d0eb1390282200d20c96324a81b34b7a36afa784d411ba4a98",
+          "start_P": 1,
+          "end_P": 5,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.891960+00:00",
+          "source_first_notes": "Title この素晴らしい世界に祝福を！３ and よんでますよ、ダクネスさん。, author 暁なつめ/Sneaker imprint. No external allusion asserted.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U009",
+      "member": "item/xhtml/p-caution.xhtml",
+      "member_sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+      "bytes": 2933,
+      "native_spine_order": 9,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 6,
+      "nonempty_paragraphs": 5,
+      "base_characters": 245,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ELECTRONIC_LAYOUT_RIGHTS_NOTICE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 6,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U009",
+          "native_member": "item/xhtml/p-caution.xhtml",
+          "native_member_sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+          "start_P": 1,
+          "end_P": 6,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.932339+00:00",
+          "source_first_notes": "Sixrights/layoutnotice slots read completely. Publisher reproduction/transfer/layout statements are source paratext, distinct from the user's analytical request; no story event.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U010",
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "member_sha256": "adfb0d2202a6642678e89bceea5a7aaaf8f5c0f267f27825b16bd8d4f7048762",
+      "bytes": 2178,
+      "native_spine_order": 10,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 11,
+      "nonempty_paragraphs": 8,
+      "base_characters": 111,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "TEXTUAL_TOC_INCLUDING_BONUS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 11,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U010",
+          "native_member": "item/xhtml/p-toc-001.xhtml",
+          "native_member_sha256": "adfb0d2202a6642678e89bceea5a7aaaf8f5c0f267f27825b16bd8d4f7048762",
+          "start_P": 1,
+          "end_P": 11,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.961885+00:00",
+          "source_first_notes": "Contents listsprologue, fourchapters, epilogue and electronicbonus 眠れる森のクルセイダー; afterwordnotlistedhere butactualU024wasread.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U011",
+      "member": "item/xhtml/p-001.xhtml",
+      "member_sha256": "4ee50b170e4187c87e2f854c39e7ec0e6f5efb738bb00d5e46bd5cf8839ba944",
+      "bytes": 832,
+      "native_spine_order": 11,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG010"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_DEFENSE_PROFILE_SCRIPT_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U011",
+          "native_member": "item/xhtml/p-001.xhtml",
+          "native_member_sha256": "4ee50b170e4187c87e2f854c39e7ec0e6f5efb738bb00d5e46bd5cf8839ba944",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.975338+00:00",
+          "source_first_notes": "Image-only firstprofile wrapper; ages/jobs and staged counsel contest received from pixels. Aqua speech's written ヒキニート has カズマ reading over it; preserve both layers.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U012",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "51239d7712353358321674ef04d3718eb8c474a2575d7877b21a7c160b61201a",
+      "bytes": 832,
+      "native_spine_order": 12,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG011"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_PROSECUTION_PROFILE_SCRIPT_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U012",
+          "native_member": "item/xhtml/p-002.xhtml",
+          "native_member_sha256": "51239d7712353358321674ef04d3718eb8c474a2575d7877b21a7c160b61201a",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:12.987762+00:00",
+          "source_first_notes": "Secondrasterprofile wrapper, emptynativeprose. Sena/Chris/Dust witness-dialogue and Chomusuke/Balter/Ignis labels received. Chris15歳? retains questionmark.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U013",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "69a88dd0abdf0a83b8e33a8ee632b4b2fb73a21108c5ce4063545336965006b7",
+      "bytes": 8664,
+      "native_spine_order": 13,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 25,
+      "nonempty_paragraphs": 13,
+      "base_characters": 310,
+      "ruby_count": 14,
+      "image_ids": [
+        "MAIN-03-IMG025"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U013",
+        "metadata_plan_id": "MAIN03-EDITION-U013",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "sha256": "69a88dd0abdf0a83b8e33a8ee632b4b2fb73a21108c5ce4063545336965006b7",
+        "accepted_principal_contract_exact": {
+          "alias": "Pr / start",
+          "paragraph_slots": 25,
+          "member_sha256": "69a88dd0abdf0a83b8e33a8ee632b4b2fb73a21108c5ce4063545336965006b7"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U014",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+      "bytes": 264311,
+      "native_spine_order": 14,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 460,
+      "nonempty_paragraphs": 436,
+      "base_characters": 17316,
+      "ruby_count": 435,
+      "image_ids": [
+        "MAIN-03-IMG026",
+        "MAIN-03-IMG012"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U014",
+        "metadata_plan_id": "MAIN03-EDITION-U014",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+        "accepted_principal_contract_exact": {
+          "alias": "C1 / start",
+          "paragraph_slots": 460,
+          "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U015",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "1e9af5b97b21f595c989b49eab642b0b81e6b5c92c8cfd7d1a057197f2d325e0",
+      "bytes": 890,
+      "native_spine_order": 15,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG013"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_AQUA_REFUTATION_CALLOUT_WITH_RETAINED_JOIN",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U015",
+          "native_member": "item/xhtml/p-005.xhtml",
+          "native_member_sha256": "1e9af5b97b21f595c989b49eab642b0b81e6b5c92c8cfd7d1a057197f2d325e0",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.000658+00:00",
+          "source_first_notes": "Image-only Aqua portrait/callout 論破. Narrow acceptedC1ending/U016opening backjoin shows actual confident 'that'swrong' followed by admission she merelywantedtosayit and hasno exculpatorybasis. Rasterclaimdoesnotestablishsuccessfulrefutation/newverdict.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U016",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d",
+      "bytes": 104005,
+      "native_spine_order": 16,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 176,
+      "nonempty_paragraphs": 165,
+      "base_characters": 6967,
+      "ruby_count": 175,
+      "image_ids": [],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U016",
+        "metadata_plan_id": "MAIN03-EDITION-U016",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d",
+        "accepted_principal_contract_exact": {
+          "alias": "C1 / continuation",
+          "paragraph_slots": 176,
+          "member_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U017",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "bytes": 335059,
+      "native_spine_order": 17,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 638,
+      "nonempty_paragraphs": 599,
+      "base_characters": 23335,
+      "ruby_count": 546,
+      "image_ids": [
+        "MAIN-03-IMG027",
+        "MAIN-03-IMG014",
+        "MAIN-03-IMG015",
+        "MAIN-03-IMG016"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U017",
+        "metadata_plan_id": "MAIN03-EDITION-U017",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+        "accepted_principal_contract_exact": {
+          "alias": "C2 / start",
+          "paragraph_slots": 638,
+          "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e",
+      "bytes": 398051,
+      "native_spine_order": 18,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 680,
+      "nonempty_paragraphs": 650,
+      "base_characters": 26897,
+      "ruby_count": 673,
+      "image_ids": [
+        "MAIN-03-IMG028",
+        "MAIN-03-IMG017",
+        "MAIN-03-IMG018"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U018",
+        "metadata_plan_id": "MAIN03-EDITION-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / start",
+          "paragraph_slots": 680,
+          "member_sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U019",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "1b5c0ae6d28c786c9b4d843e73520f26ac170f7fca5091c0e1514c96e6a12143",
+      "bytes": 832,
+      "native_spine_order": 19,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG019"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_EMBEDDED_IMAGINED_COERCION_PAGE1",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U019",
+          "native_member": "item/xhtml/p-009.xhtml",
+          "native_member_sha256": "1b5c0ae6d28c786c9b4d843e73520f26ac170f7fca5091c0e1514c96e6a12143",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.012585+00:00",
+          "source_first_notes": "Firstpage of two-page image-only imagined coercive consequence: chainedDarkness,threateningK, resistance-of-heart talk. Readasrepresentedscene; adjoining acceptedC3P650-680 and U021P1-20 were checked withoutprincipalpasscredit. Repetition of anticipated 凄い事 and continuous actualcollapseatground bracketthese panels as an imaginedexpansion, not enacted imprisonment. FocalizerDarkness is inferredfromframing,notexplicitrasterPOVlabel.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U020",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "830fc7819b96749b6be590e651bb769a9ac1a1b2c5cb46579fd7120f19c7d555",
+      "bytes": 832,
+      "native_spine_order": 20,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG020"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_EMBEDDED_IMAGINED_COERCION_PAGE2",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U020",
+          "native_member": "item/xhtml/p-010.xhtml",
+          "native_member_sha256": "830fc7819b96749b6be590e651bb769a9ac1a1b2c5cb46579fd7120f19c7d555",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.026015+00:00",
+          "source_first_notes": "Secondpageofsameimage-onlyanticipatedconsequence: Kextendsdurationbeyondone day and demandsmasteraddress; Dresponds. ThisbelongswithU019asalignedembeddedimaginedsequence. Noactualenslavement, freelygivenblanketpermission or futureperformedactfromdesired/representedresponse; actualprosecontinuationkeepsDcollapsingat trainingground.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U021",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334",
+      "bytes": 65947,
+      "native_spine_order": 21,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 148,
+      "nonempty_paragraphs": 139,
+      "base_characters": 4852,
+      "ruby_count": 96,
+      "image_ids": [],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U021",
+        "metadata_plan_id": "MAIN03-EDITION-U021",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / continuation",
+          "paragraph_slots": 148,
+          "member_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U022",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37",
+      "bytes": 435914,
+      "native_spine_order": 22,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 694,
+      "nonempty_paragraphs": 647,
+      "base_characters": 28555,
+      "ruby_count": 728,
+      "image_ids": [
+        "MAIN-03-IMG029",
+        "MAIN-03-IMG021"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U022",
+        "metadata_plan_id": "MAIN03-EDITION-U022",
+        "native_member": "item/xhtml/p-012.xhtml",
+        "sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37",
+        "accepted_principal_contract_exact": {
+          "alias": "C4 / start",
+          "paragraph_slots": 694,
+          "member_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U023",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718",
+      "bytes": 94710,
+      "native_spine_order": 23,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 180,
+      "nonempty_paragraphs": 154,
+      "base_characters": 6018,
+      "ruby_count": 168,
+      "image_ids": [
+        "MAIN-03-IMG030",
+        "MAIN-03-IMG022"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-03-U023",
+        "metadata_plan_id": "MAIN03-EDITION-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718",
+        "accepted_principal_contract_exact": {
+          "alias": "Ep_start / start",
+          "paragraph_slots": 180,
+          "member_sha256": "8483c9a4c5067daf9242472a0a3f34d5889172faf55a2613c5bf820b8f5d3718"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-03-U024",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "b30f1a3b33e54f3dfd265c1daf8091167ef2f5ccc7da677cb9dc5716bd9d8abd",
+      "bytes": 21536,
+      "native_spine_order": 24,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 53,
+      "nonempty_paragraphs": 48,
+      "base_characters": 1465,
+      "ruby_count": 32,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "AUTHOR_AFTERWORD_NONFICTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 53,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U024",
+          "native_member": "item/xhtml/p-014.xhtml",
+          "native_member_sha256": "b30f1a3b33e54f3dfd265c1daf8091167ef2f5ccc7da677cb9dc5716bd9d8abd",
+          "start_P": 1,
+          "end_P": 53,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.058314+00:00",
+          "source_first_notes": "Complete53Pcreatorafterword/ruby read. Publication/dream/pillowjokes; reportsforeigntranslationsinmultiplelanguages andworriesaboutexpression/translation withoutdemonstratingactualtranslationfailure. Proposedshelfdisplaymanipulation differsfromactualobservedcustomerpurchase. Standing-sleepclaimexplicitlywithdrawnP19. Prosecutorfutureappearances/careerfall are creatorprospectsjokinglyqualified, not completedcanonicalepisodes; universalunrewardedclaimandpromisedendingnotguarantees. Writing/editortypo/workloadthanks andV4earlyreleaseintent; fakegirlfriend/lottery/bulletshieldtestimonials explicitlysaidnotreceivedP48. No actualwarprotection/medical/factualsalesclaimfromthoseexamples.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U025",
+      "member": "item/xhtml/p-015.xhtml",
+      "member_sha256": "c17978d692ad9575e3fa74095bb7f81a67881a2145f75451d00edfe359dc5577",
+      "bytes": 832,
+      "native_spine_order": 25,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG023"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "ILLUSTRATOR_CODA_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U025",
+          "native_member": "item/xhtml/p-015.xhtml",
+          "native_member_sha256": "c17978d692ad9575e3fa74095bb7f81a67881a2145f75451d00edfe359dc5577",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.071256+00:00",
+          "source_first_notes": "Illustratorcoda wrapper, emptynativeprose. ActualDteaart/congratulations/caption2014.03viewed; contributorwantingtotease/bullyD is opinion, not herconsent or a newact.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U026",
+      "member": "item/xhtml/p-016.xhtml",
+      "member_sha256": "b744284b92a36c619b47fd7ab3b9dfa7c01e0c5ca25ab5430284e55e381da369",
+      "bytes": 832,
+      "native_spine_order": 26,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG024"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "NEXT_PROMOTIONAL_SCRIPT_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U026",
+          "native_member": "item/xhtml/p-016.xhtml",
+          "native_member_sha256": "b744284b92a36c619b47fd7ab3b9dfa7c01e0c5ca25ab5430284e55e381da369",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.084192+00:00",
+          "source_first_notes": "NEXTvolume4rasterpreview wrapper. Maidtea/wealth/idleness/quest/oldwound/hotsprings/Arcanretia proposals readfrompixels; no newtrip, realpersistentinjury, competentserviceoutcomeorMAIN04excludedadmission.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U027",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "4031ba84d7f14971d69836640ab5d0daba40ee097640af85045b96a723ced67a",
+      "bytes": 1038,
+      "native_spine_order": 27,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 5,
+      "nonempty_paragraphs": 2,
+      "base_characters": 29,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ELECTRONIC_BONUS_TITLE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 5,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U027",
+          "native_member": "item/xhtml/p-017.xhtml",
+          "native_member_sha256": "4031ba84d7f14971d69836640ab5d0daba40ee097640af85045b96a723ced67a",
+          "start_P": 1,
+          "end_P": 5,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.097109+00:00",
+          "source_first_notes": "FivePbonusheading: electronicvolume3purchase thanks and 眠れる森のクルセイダー; notasecondbonusevent.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U028",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+      "bytes": 13903,
+      "native_spine_order": 28,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 62,
+      "nonempty_paragraphs": 58,
+      "base_characters": 2183,
+      "ruby_count": 1,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "SLEEPING_FOREST_CRUSADER_COMPLETE_BONUS_FICTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 62,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U028",
+          "native_member": "item/xhtml/p-018.xhtml",
+          "native_member_sha256": "f79dcc8a2107ded5302e0b462bcc7f761ac3d3f01237e6313e2e1c031357edb5",
+          "start_P": 1,
+          "end_P": 62,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.122459+00:00",
+          "source_first_notes": "Complete62Pbonusandendruby read. K俺focalization. Dasks'hitme'P1;KlightlyslapsinguildP3;DobjectsnotinthisplaceP4. Consenttoanunspecifiedhitdoesnotestablishalllocations/scopes. Kprioritizesafternoonregular-shopRPSspecialticket,boastsneverlost; Dasksabouthisovernightstays,heclaimsdrinkingwithmalefriendsandhurriedlyredirectsP9-10, withoutindependentaccountofeverynight. Dreportsmorningtraining, birdsirensongandsleepP18-21; fearedstrangerassaultisunperformedfantasy. DstatesmostseaspiritsfriendlyandwantstohelpiflostratherthanhavemonsterkilledP24-26. ActualforestvisitP28-33. Dsuggestsnearbyrulerattraction,KproposespossiblecommunicatorandprivatelysuspectsAquaP35-38/48; genuinecauseunproved,Aquanotpresent/called. Dofferswatch/sendKtownP39,butdrowsinessinterrupts;Kslapsherawake,shequalifiesintensityP42,thenpunchesKawakeP44-46. TheyrepeatedlyhiteachotheruntilKreconsidersP47-48;notafeasiblecompletedremedy. DactuallyremovessirenearplugsP49-50;sirenonlynowspotsothersandgaspsP52-53. KeveningawakeningP55;KinfersstartledfullpowersongP56,DandsirenasleepP57. PlannedAquacallP58unfinished,ticket-eventmissrecognizedP59-61;noactualcall,cure,returntosea orcompletedRPScontest. Sirenearplugmechanism/self-affecthasboundedobservation,notuniversalaggressionorintendedselfdefeat.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U029",
+      "member": "item/xhtml/p-019.xhtml",
+      "member_sha256": "ffa6b2fe3613ec37eb1ca7a6e25179a80d545cfd3079b1e53d37f0f1a8264d30",
+      "bytes": 1251,
+      "native_spine_order": 29,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 6,
+      "nonempty_paragraphs": 3,
+      "base_characters": 85,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "STAFF_DESIGN_CREDITS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 6,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U029",
+          "native_member": "item/xhtml/p-019.xhtml",
+          "native_member_sha256": "ffa6b2fe3613ec37eb1ca7a6e25179a80d545cfd3079b1e53d37f0f1a8264d30",
+          "start_P": 1,
+          "end_P": 6,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.136388+00:00",
+          "source_first_notes": "Sixstaff/designcredit slots read. MishimaKuroneart;MukadeyaYuko/MushikagoGraphicscover;MukadeyaYuko+NakamuraNanafushilayout. Nonfictioncredits.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U030",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "member_sha256": "c490569e23a065cb74af79e4de5d1ed39557e8e10228c8f0f2ffe4aa333514d7",
+      "bytes": 5210,
+      "native_spine_order": 30,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 17,
+      "nonempty_paragraphs": 16,
+      "base_characters": 303,
+      "ruby_count": 4,
+      "image_ids": [
+        "MAIN-03-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "SUPPLIED_EDITION_COLOPHON",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 17,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U030",
+          "native_member": "item/xhtml/p-colophon.xhtml",
+          "native_member_sha256": "c490569e23a065cb74af79e4de5d1ed39557e8e10228c8f0f2ffe4aa333514d7",
+          "start_P": 1,
+          "end_P": 17,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.165756+00:00",
+          "source_first_notes": "All17Pcolophonwithrubyread. Electronicandprintbasis firsteditionboth2014-03-01,copyright2014Akatsuki/Mishima,KADOKAWA. Thisfile'spublicationclaimdoesnotassertallmarket/releasedatesidentical.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U031",
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "member_sha256": "93667f68b09c9cdc07a2fa0c259664384764ef4291d639ad498793240b62b3f8",
+      "bytes": 770,
+      "native_spine_order": 31,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 1,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-03-IMG002"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "BOOKWALKER_BRAND_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 1,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U031",
+          "native_member": "item/xhtml/p-bookwalker.xhtml",
+          "native_member_sha256": "93667f68b09c9cdc07a2fa0c259664384764ef4291d639ad498793240b62b3f8",
+          "start_P": 1,
+          "end_P": 1,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.178186+00:00",
+          "source_first_notes": "BOOKWALKERimagewrapper emptyprose, logoactuallyviewed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-03-U032",
+      "member": "item/navigation-documents.xhtml",
+      "member_sha256": "44ec2a0693ad266c00cc2fdfab62cd83fc4f565d028a7479d5db72049681b3a7",
+      "bytes": 1528,
+      "native_spine_order": null,
+      "in_spine": false,
+      "properties": "nav",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "OFF_SPINE_NAVIGATION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-03",
+          "component_id": "MAIN-03-U032",
+          "native_member": "item/navigation-documents.xhtml",
+          "native_member_sha256": "44ec2a0693ad266c00cc2fdfab62cd83fc4f565d028a7479d5db72049681b3a7",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T07:30:13.190117+00:00",
+          "source_first_notes": "ZeroPnavigation;allnonparagraphlabelsread: cover,contents,prologue,fourchapters,epilogue,bonus,colophon,Guide/cover/contents/body. Routesnotnewfiction.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "image_id": "MAIN-03-IMG001",
+      "member": "item/image/cover.jpg",
+      "sha256": "4a527e685ce74042419e542cfaf7d3c018b3197171b9ecd7f0bd32dd0f1a1ec2",
+      "bytes": 188797,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG001",
+        "native_image_member": "item/image/cover.jpg",
+        "native_image_sha256": "4a527e685ce74042419e542cfaf7d3c018b3197171b9ecd7f0bd32dd0f1a1ec2",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.318398+00:00",
+        "source_first_notes": "Volume3colorcover: Darknessforeground, Aqua/Meguminpointing andYunyunchibi;title/subtitle/author/illustrator/imprint.",
+        "reading_scope_and_limit": "Promotionalmontage, not simultaneousnewscene or proofeveryoneissummoned.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG002",
+      "member": "item/image/bookwalker.png",
+      "sha256": "898ce653b4dfa0232ce1e1d5670e6149afde35979b5cd8be3f815f3f41e5f507",
+      "bytes": 5543,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG002",
+        "native_image_member": "item/image/bookwalker.png",
+        "native_image_sha256": "898ce653b4dfa0232ce1e1d5670e6149afde35979b5cd8be3f815f3f41e5f507",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.324366+00:00",
+        "source_first_notes": "BOOKWALKERwordmark/coloredbars.",
+        "reading_scope_and_limit": "Brandonly.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG003",
+      "member": "item/image/logo-sneaker.png",
+      "sha256": "b711af1d1ea56c33d80bb709ecb7f2d45723289a71d1dd221a9d7af0d20190a6",
+      "bytes": 1335,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG003",
+        "native_image_member": "item/image/logo-sneaker.png",
+        "native_image_sha256": "b711af1d1ea56c33d80bb709ecb7f2d45723289a71d1dd221a9d7af0d20190a6",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.328847+00:00",
+        "source_first_notes": "SmallSneakerimprintlogo.",
+        "reading_scope_and_limit": "Imprintonly.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG004",
+      "member": "item/image/kuchie-001.jpg",
+      "sha256": "44626f053a29c778fa1cc977b11ce4eb4662d05bfdb99d5e869f01349054d60a",
+      "bytes": 141124,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG004",
+        "native_image_member": "item/image/kuchie-001.jpg",
+        "native_image_sha256": "44626f053a29c778fa1cc977b11ce4eb4662d05bfdb99d5e869f01349054d60a",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.337794+00:00",
+        "source_first_notes": "Darknesscovercropwithtitle/subtitleandAquachibi.",
+        "reading_scope_and_limit": "Reusedcover, notanotherencounter.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG005",
+      "member": "item/image/kuchie-002.jpg",
+      "sha256": "6403535d80b543b6adc7382353d8ce7da69bc6ec6876d2b4feace9bb91a3de7f",
+      "bytes": 329985,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG005",
+        "native_image_member": "item/image/kuchie-002.jpg",
+        "native_image_sha256": "6403535d80b543b6adc7382353d8ce7da69bc6ec6876d2b4feace9bb91a3de7f",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.346738+00:00",
+        "source_first_notes": "Colorcourtspread: labeledSena demandsnational-overthrowcharge;Chris sayscalled;judgedemandspropercounselselection. Aquaobjects,Moffersconfidence,Dsilent,KwantshomeJapan.",
+        "reading_scope_and_limit": "Retainedcourtcompression, no newverdict, voluntaryChrisappointment or successfuldefensefromportrait.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG006",
+      "member": "item/image/kuchie-003.jpg",
+      "sha256": "582c9abdfe7d2e7e10d9c8cf8c2b192b45820451dc3c0b8b91e2d6a433ca0644",
+      "bytes": 154469,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG006",
+        "native_image_member": "item/image/kuchie-003.jpg",
+        "native_image_sha256": "582c9abdfe7d2e7e10d9c8cf8c2b192b45820451dc3c0b8b91e2d6a433ca0644",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.355706+00:00",
+        "source_first_notes": "ColorYunyun/Meguminfrog-slime/grappledepiction, Yunyunlabel. Moffersgroundhold;Yunasksstopjokinganddon'tcomecloser.",
+        "reading_scope_and_limit": "Actualrepresentedrefusalmustsurvivecomicframe; no blanketconsent orunseeninjury inferred. Retainedscene, not anewYunyuntrial.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG007",
+      "member": "item/image/kuchie-004.jpg",
+      "sha256": "1567fb4d47bc5993b67b28c9736a8352fbec7526f94995405ea886bf22e071d6",
+      "bytes": 210751,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG007",
+        "native_image_member": "item/image/kuchie-004.jpg",
+        "native_image_sha256": "1567fb4d47bc5993b67b28c9736a8352fbec7526f94995405ea886bf22e071d6",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.364171+00:00",
+        "source_first_notes": "Aquam aidportrait with お任せください、旦那様。",
+        "reading_scope_and_limit": "Specificrepresentedservicerole/stance; no permanentprofession or provencompletedservice.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG008",
+      "member": "item/image/kuchie-005.jpg",
+      "sha256": "50addcc0b0d40f1c5882144c797fd30449d14dddc4a351cf5d8c2bfe09259965",
+      "bytes": 275190,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG008",
+        "native_image_member": "item/image/kuchie-005.jpg",
+        "native_image_sha256": "50addcc0b0d40f1c5882144c797fd30449d14dddc4a351cf5d8c2bfe09259965",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.372604+00:00",
+        "source_first_notes": "MaskedDarknesswithdarkeffectsinforest,Aquaidentifiesdevilsmell,Mexpressesdifficulty,closerviewofmask.",
+        "reading_scope_and_limit": "Retainedpossessionscene; maskcontrollerandD'sownagencyneedseparation; no all-Dmaliceornewindependentattack.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG009",
+      "member": "item/image/kuchie-006.jpg",
+      "sha256": "6d23f313cd3edb79a9020e73cf98882611cfd3bd543a0b35bcd331e7bfb51cc2",
+      "bytes": 117277,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG009",
+        "native_image_member": "item/image/kuchie-006.jpg",
+        "native_image_sha256": "6d23f313cd3edb79a9020e73cf98882611cfd3bd543a0b35bcd331e7bfb51cc2",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.381978+00:00",
+        "source_first_notes": "RasterTOCprologueP005/C1P007/C2P066/C3P123/C4P200/EpP265withchibiM/Yun/Aq/Chris/D.",
+        "reading_scope_and_limit": "PrintnumbersnotnativePslots; titlesnotnewactorsmeeting.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG010",
+      "member": "item/image/img-0001.jpg",
+      "sha256": "642e4afcd141da55a08cfa04138b646b6852613099c7bf0a8e3eb877fa02b69c",
+      "bytes": 168500,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG010",
+        "native_image_member": "item/image/img-0001.jpg",
+        "native_image_sha256": "642e4afcd141da55a08cfa04138b646b6852613099c7bf0a8e3eb877fa02b69c",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.390925+00:00",
+        "source_first_notes": "Profilesdefenseside:AqunknownArchpriest,M13Archwizard,D18Crusader,K16Adventurer;Yun13Archwizard,ErisunknownGoddess,Wiz20shopowner. Stagedlawyerconfidence/Kpleas/change. ヒキニートunderreadingカズマ visible.",
+        "reading_scope_and_limit": "Localagerolelabels, stagedcounselnotactuallegalcompetence/outcome. Writtenreading/insultlayersdistinct; nopose-basedconsent.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG011",
+      "member": "item/image/img-0002.jpg",
+      "sha256": "64b2a19a8ba874e23dd9bc26b9dfabacb9f80f519e581fe3d6b32eec59ecb75d",
+      "bytes": 148668,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG011",
+        "native_image_member": "item/image/img-0002.jpg",
+        "native_image_sha256": "64b2a19a8ba874e23dd9bc26b9dfabacb9f80f519e581fe3d6b32eec59ecb75d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.399379+00:00",
+        "source_first_notes": "Profilesprosecutionside:Sena20kingdomprosecutor,Chris15歳?thief,Dust17warrior. Senaaskswitnesses;Chrisagrees;Dustobjectsselectivepause/insultthenagrees. Chomusukeage/job???, アレクセイ・バーネス・バルター21noble, ダスティネス・フォード・イグニス45greatnoble.",
+        "reading_scope_and_limit": "ChrisquestionmarkretainedandErisdivineage notcollapsed. Stagedagreementnotnewactualtestimony. BalterdistinctAlderp; profilesnotallbiographicalhistory.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG012",
+      "member": "item/image/img-0003.jpg",
+      "sha256": "d01eccd1a657142f881f73e3c76967a842c5a5aae7c6ac218aad364e63e3aa31",
+      "bytes": 90443,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG012",
+        "native_image_member": "item/image/img-0003.jpg",
+        "native_image_sha256": "d01eccd1a657142f881f73e3c76967a842c5a5aae7c6ac218aad364e63e3aa31",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.409318+00:00",
+        "source_first_notes": "BlackwhiteSenawithdocumentsandKbehindbars/insetprotest.",
+        "reading_scope_and_limit": "Retainedcourt/custodyart; no unshownprivatevendetta or verdict.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG013",
+      "member": "item/image/img-0004.jpg",
+      "sha256": "1f25166dfa10425373d65178d82b0dfe7b7d17dd03e40e98a4abc46759a4b2d3",
+      "bytes": 94761,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG013",
+        "native_image_member": "item/image/img-0004.jpg",
+        "native_image_sha256": "1f25166dfa10425373d65178d82b0dfe7b7d17dd03e40e98a4abc46759a4b2d3",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.418284+00:00",
+        "source_first_notes": "Large 論破 caption and confidentAquaportrait, noargumenttext.",
+        "reading_scope_and_limit": "AcceptedC1end/U016startjoinrevealsclaimedrefutationhasnoevidence. Visualcalloutnotnewsuccessfuldefense; originalposealonewouldnotsupplyargument.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG014",
+      "member": "item/image/img-0005.jpg",
+      "sha256": "2d22fadb8c188b250f2c2ca039df13cbd385fac22669c285e3a72ee3ea7eca04",
+      "bytes": 77178,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG014",
+        "native_image_member": "item/image/img-0005.jpg",
+        "native_image_sha256": "2d22fadb8c188b250f2c2ca039df13cbd385fac22669c285e3a72ee3ea7eca04",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.428226+00:00",
+        "source_first_notes": "Chomusukebreathesflameontoafishwith Burning text,Kshockbelow.",
+        "reading_scope_and_limit": "AcceptedC2P37-65joinconfirmsKfirst-personobservedfishfireP50andotheractorsdenyafteronlyheobserves. Notuniversalcatability, sharedknowledge, deliberateconcealmentorfullWolbachidentityresolution.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG015",
+      "member": "item/image/img-0006.jpg",
+      "sha256": "5dc21a78350944b41c58450060322f30d3335ff79d7cc7124da48b4a97abc2c9",
+      "bytes": 86244,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG015",
+        "native_image_member": "item/image/img-0006.jpg",
+        "native_image_sha256": "5dc21a78350944b41c58450060322f30d3335ff79d7cc7124da48b4a97abc2c9",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.435683+00:00",
+        "source_first_notes": "Yunyunportraitwithraisedfinger, no printedline.",
+        "reading_scope_and_limit": "Retainedsceneimage; exactproposition/motive notprovidedbypose.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG016",
+      "member": "item/image/img-0007.jpg",
+      "sha256": "f98c098865e735f9ff7e0b558e53a7fec8fc0b246d81217326fedf269e41bf22",
+      "bytes": 80100,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG016",
+        "native_image_member": "item/image/img-0007.jpg",
+        "native_image_sha256": "f98c098865e735f9ff7e0b558e53a7fec8fc0b246d81217326fedf269e41bf22",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.444647+00:00",
+        "source_first_notes": "MeguminandKazumareactinadomesticbathscene; no printedline.",
+        "reading_scope_and_limit": "Non-graphicprivacyscopenote; retainedcontext, no unseenactorconsent inferred.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG017",
+      "member": "item/image/img-0008.jpg",
+      "sha256": "3256391c6a7ceb71ce3400b2c1f597aeaed20bc143a2afdb8fe8b80aae429c6a",
+      "bytes": 116419,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG017",
+        "native_image_member": "item/image/img-0008.jpg",
+        "native_image_sha256": "3256391c6a7ceb71ce3400b2c1f597aeaed20bc143a2afdb8fe8b80aae429c6a",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.452600+00:00",
+        "source_first_notes": "Darknessindressbraidedhair, reservedexpression.",
+        "reading_scope_and_limit": "Pose/costumenotnewmarriageconsent, permanentpersonalityorhumiliationpreference.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG018",
+      "member": "item/image/img-0009.jpg",
+      "sha256": "986c67be73c59fdaf521a000057ec9309c53f0d9865ae6492da9efdd546b1152",
+      "bytes": 134082,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG018",
+        "native_image_member": "item/image/img-0009.jpg",
+        "native_image_sha256": "986c67be73c59fdaf521a000057ec9309c53f0d9865ae6492da9efdd546b1152",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.462062+00:00",
+        "source_first_notes": "Balter/IgnisaboveandK/Aqmaid/Dbelowatnoblehouse, sweatbubble.",
+        "reading_scope_and_limit": "Identitiesjoinedbyprofiles; no dialogueorprivateintentionprovedbycomposition.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG019",
+      "member": "item/image/img-0010.jpg",
+      "sha256": "e75c1c04368b18c9f1a606215af7cdc7deb937beeec09a6337cb616a8b69ad22",
+      "bytes": 157002,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG019",
+        "native_image_member": "item/image/img-0010.jpg",
+        "native_image_sha256": "e75c1c04368b18c9f1a606215af7cdc7deb937beeec09a6337cb616a8b69ad22",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.472499+00:00",
+        "source_first_notes": "FirstblackwhitecomicpagechainedD/Kthreats, caption 凄い事とは—.",
+        "reading_scope_and_limit": "TogetherwithIMG020, embeddedimaginedconsequencebracketedbyC3anticipationandcontinuousactualcollapse. Readentirepanels, notignoreddecoration; no enactedimprisonment.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG020",
+      "member": "item/image/img-0011.jpg",
+      "sha256": "591307ca024d0acc9113fef61964d65fea4405900b7175fcdfa17cddf16f0584",
+      "bytes": 166188,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG020",
+        "native_image_member": "item/image/img-0011.jpg",
+        "native_image_sha256": "591307ca024d0acc9113fef61964d65fea4405900b7175fcdfa17cddf16f0584",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.480968+00:00",
+        "source_first_notes": "SecondcomicpageKthreatensbeyondoneday/masteraddress,Drepresentedresponse.",
+        "reading_scope_and_limit": "Continuationofsameimaginedsequence, notsecondrealencounter orblanketpermission. Focalizerinferredfromnativeframing.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG021",
+      "member": "item/image/img-0012.jpg",
+      "sha256": "42fe5ecfde7cb3ae78c7afd2413f3d474a6538cc29e47c8d8b6f70d293600dbd",
+      "bytes": 62963,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG021",
+        "native_image_member": "item/image/img-0012.jpg",
+        "native_image_sha256": "42fe5ecfde7cb3ae78c7afd2413f3d474a6538cc29e47c8d8b6f70d293600dbd",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.489911+00:00",
+        "source_first_notes": "MaskedVanirinsuitwithsmallroundedfigure/doll, surprisedmarks.",
+        "reading_scope_and_limit": "RetainedVanirscene, no inferrednewlife/infinitecountorfullcreationbackstoryfrompicture.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG022",
+      "member": "item/image/img-0013.jpg",
+      "sha256": "39bed6b9c40bea5eb884fb46085a9f735971e3595f2c8cfe9ffe1a6b062a9dcc",
+      "bytes": 126860,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG022",
+        "native_image_member": "item/image/img-0013.jpg",
+        "native_image_sha256": "39bed6b9c40bea5eb884fb46085a9f735971e3595f2c8cfe9ffe1a6b062a9dcc",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.499007+00:00",
+        "source_first_notes": "WizworkingbesideVanirwithbottletray/apron, arrowtoIIonmask;KandDshockedbelow.",
+        "reading_scope_and_limit": "VisibleIIretained,butfullresurrectionmechanismorcountneedsnativecontext; no automaticnewcontract/romance.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG023",
+      "member": "item/image/img-0014.jpg",
+      "sha256": "0b1d98188404e15ce444a003d1aa575a7563586494167d4dd6df9d0aeed6201e",
+      "bytes": 142684,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG023",
+        "native_image_member": "item/image/img-0014.jpg",
+        "native_image_sha256": "0b1d98188404e15ce444a003d1aa575a7563586494167d4dd6df9d0aeed6201e",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.507459+00:00",
+        "source_first_notes": "IllustratorDwithtea, congratulationsvolume3, captionincreasingwanttoteaseher,prettyDdrawingenjoyment;Mishima2014.03.",
+        "reading_scope_and_limit": "ContributoropinionnotDconsent, newdomesticact orall-harmlessnessclaim.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG024",
+      "member": "item/image/img-0015.jpg",
+      "sha256": "f535be046d7d0cd5b1594a5ad3fce84fc8104813cf467e7aa487c8742785c37d",
+      "bytes": 142786,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG024",
+        "native_image_member": "item/image/img-0015.jpg",
+        "native_image_sha256": "f535be046d7d0cd5b1594a5ad3fce84fc8104813cf467e7aa487c8742785c37d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.516408+00:00",
+        "source_first_notes": "NEXT4script:AqmaidteatoK,Mwantsquest,Dcriticizeswealthidleness,KcitesoldWinterShogunwound/outsourcing,DproposesArcanretiahotsprings,Aqeagertoshowpower,Kagrees. Subtitleruby ナマクラカルテット on 鈍ら四重奏.",
+        "reading_scope_and_limit": "Promotionaldialogue, notactualtrip,persistentinjury, remedy orunseenMAIN04source. Titlewritten/readinglayerspreservedwithoutunverifiedexternalallusion.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG025",
+      "member": "item/image/img-t001.jpg",
+      "sha256": "77e49e1d35c9d57331946fac77178d89e0616fd5812e822c1bf520e2a011575c",
+      "bytes": 23358,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG025",
+        "native_image_member": "item/image/img-t001.jpg",
+        "native_image_sha256": "77e49e1d35c9d57331946fac77178d89e0616fd5812e822c1bf520e2a011575c",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.524362+00:00",
+        "source_first_notes": "ProloguerastermarkerwithChris chibi.",
+        "reading_scope_and_limit": "Sectionlabel, no newtheft/meeting.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG026",
+      "member": "item/image/img-t002.jpg",
+      "sha256": "78bc1af5e2af9c5983dc7bcec3246c4fc920ea07e82ee7f1d916d39684d25bf1",
+      "bytes": 27042,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG026",
+        "native_image_member": "item/image/img-t002.jpg",
+        "native_image_sha256": "78bc1af5e2af9c5983dc7bcec3246c4fc920ea07e82ee7f1d916d39684d25bf1",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.532299+00:00",
+        "source_first_notes": "C1 この不当な裁判に救援を！ withMeguminchibi.",
+        "reading_scope_and_limit": "Sectionlabel, notnewcourtdecision.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG027",
+      "member": "item/image/img-t003.jpg",
+      "sha256": "6f91cc5c01be688a5554c4583b486c551e1e397b15b78006f7d04823eaa2a3ed",
+      "bytes": 25030,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG027",
+        "native_image_member": "item/image/img-t003.jpg",
+        "native_image_sha256": "6f91cc5c01be688a5554c4583b486c551e1e397b15b78006f7d04823eaa2a3ed",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.540752+00:00",
+        "source_first_notes": "C2 この紅魔の娘に友人を！ withYunyunchibi.",
+        "reading_scope_and_limit": "Sectionlabel, notadditionalfriendshipconsent.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG028",
+      "member": "item/image/img-t004.jpg",
+      "sha256": "4bec497397de60e9f7fa27255220bb67981f4191bbe9bfd6598af22670ec38ae",
+      "bytes": 27969,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG028",
+        "native_image_member": "item/image/img-t004.jpg",
+        "native_image_sha256": "4bec497397de60e9f7fa27255220bb67981f4191bbe9bfd6598af22670ec38ae",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.549842+00:00",
+        "source_first_notes": "C3 この貴族の令嬢に良縁を！ withDarknessdresschibi.",
+        "reading_scope_and_limit": "Sectionlabel, notnewengagement.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG029",
+      "member": "item/image/img-t005.jpg",
+      "sha256": "6fdb088c4ddcd26c1bf7cc78c05c89578b818158d6bd943151c182f83d7c8428",
+      "bytes": 27420,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG029",
+        "native_image_member": "item/image/img-t005.jpg",
+        "native_image_sha256": "6fdb088c4ddcd26c1bf7cc78c05c89578b818158d6bd943151c182f83d7c8428",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.558294+00:00",
+        "source_first_notes": "C4 この仮面の騎士に隷属を！ withAquachibi.",
+        "reading_scope_and_limit": "Sectionlabel, notnewpossession/enslavementact.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    },
+    {
+      "image_id": "MAIN-03-IMG030",
+      "member": "item/image/img-t006.jpg",
+      "sha256": "d025c83ad1e86d977b70cb9ef38d324442d2e2b0e31c2de261387e6a5ead1ae3",
+      "bytes": 19809,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-03",
+        "image_id": "MAIN-03-IMG030",
+        "native_image_member": "item/image/img-t006.jpg",
+        "native_image_sha256": "d025c83ad1e86d977b70cb9ef38d324442d2e2b0e31c2de261387e6a5ead1ae3",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T07:30:13.567258+00:00",
+        "source_first_notes": "EpiloguerastermarkerwithVanirchibi.",
+        "reading_scope_and_limit": "Sectionlabel, no separateVanirresurrectionorcontract.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained. Q18-Q21 distinguish Aqua rhetorical callout, Chomusuke observer access and the two-page imagined consequence; actual retained-prose threats remain real. Profile/promotion/coda roles do not create new mainline events."
+    }
+  ],
+  "new_excluded_text_resources": 24,
+  "new_excluded_P_slots": 180,
+  "retained_principal_members": 8,
+  "retained_principal_P_slots": 3001,
+  "new_principal_reading_credit": 0,
+  "bonus_narrative": {
+    "component_id": "MAIN-03-U028",
+    "title": "眠れる森のクルセイダー",
+    "P": [
+      1,
+      62
+    ],
+    "heading_component": "MAIN-03-U027",
+    "chronology": "Guild and forest, establishedK/Dcompanionship and Aqua as a possible communicator; exact chapterplacement unresolved"
+  },
+  "image_only_narrative_components": [
+    {
+      "id": "MAIN03-IMAGE-ONLY-ANTICIPATED-COERCION",
+      "component_ids": [
+        "MAIN-03-U019",
+        "MAIN-03-U020"
+      ],
+      "image_ids": [
+        "MAIN-03-IMG019",
+        "MAIN-03-IMG020"
+      ],
+      "source_plane": "EMBEDDED_IMAGINED_CONSEQUENCE",
+      "retained_native_joins": [
+        "MAIN-03-U018:P0650-0680",
+        "MAIN-03-U021:P0001-0020"
+      ],
+      "focalizer_precision": "Darkness inferred from preceding anticipation; not an explicit raster POV label",
+      "new_enacted_mainline_event": false
+    }
+  ],
+  "image_only_rhetorical_callout": {
+    "component_id": "MAIN-03-U015",
+    "image_id": "MAIN-03-IMG013",
+    "text": "論破",
+    "retained_join": [
+      "MAIN-03-U014:P0447-0460",
+      "MAIN-03-U016:P0001-0010"
+    ],
+    "actual_refutation_success_not_established": true
+  },
+  "raster_staged_profile_script_images": [
+    "MAIN-03-IMG010",
+    "MAIN-03-IMG011"
+  ],
+  "promotional_script_image": "MAIN-03-IMG024",
+  "illustrator_coda_image": "MAIN-03-IMG023",
+  "source_plane_limit": "All24newresources180P/30images actually received;8accepted principal members3001P retained exact/newprincipalcredit0. One62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots; two-page embedded imagined sequence and Aqua rhetorical callout have separate image-only roles. Profiles/preview/coda are separate planes. These slot counts are not a narrative denominator."
+}

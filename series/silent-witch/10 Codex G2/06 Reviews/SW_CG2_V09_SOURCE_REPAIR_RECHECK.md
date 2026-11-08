@@ -1,0 +1,64 @@
+---
+generation: SW-G2-CODEX-20261019
+artifact_id: SW-CG2-20261019-V09-SOURCE-REPAIR-RECHECK01-INDEPENDENT
+artifact_type: semantic_review
+status: draft_noncurrent
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: true
+---
+
+# V09 focused Japanese-source repair recheck
+
+**Disposition: bounded acceptance of V09-REPAIR01 in the exact returned state below.** M01–M04 and their material dependencies resolve; the bounded Minor corrections, including E006's additional rose change, are checked. No residual or new Critical, Major or Minor finding was established in this recheck. This completes the assigned repair transaction, not final corpus acceptance, freeze or authority promotion.
+
+Reviewed 2026-10-20. The [initial semantic review](SW_CG2_V09_SEMANTIC_REVIEW.md) remains unchanged and owns the initial scope, whole-narrative coverage and limits. I read that complete report and all five approved norms at the approved normative directory (`urn:sw-g2:norm`); the owner's simplified two-role directions govern. This report concerns actual repairs and necessary dependencies. Model familiarity remains unknown.
+
+**Exact returned state.** Absolute candidate root: `repository/series/silent-witch/10 Codex G2`. Read the entire repaired V09 reading; the complete current V09 Master layer (lines 1466–1672) and Claims layer (1008–1132); current leading notices and dated correction/run-state dispositions; every diff hunk and affected unchanged operative formulation, support statement, rival and limit. Read the complete FULL_REPAIR.diff (`urn:sw-g2:review/V09-RECHECK01/input/FULL_REPAIR.diff`) (413 lines, 109,819 bytes) and REPAIR_CONTEXT.txt (`urn:sw-g2:review/V09-RECHECK01/input/REPAIR_CONTEXT.txt`) (2,111 bytes). Independently computed hashes and lengths match the context exactly:
+
+| Candidate file under that root | Bytes | SHA-256 |
+|---|---:|---|
+| `01 Sequential Readings/SW_CG2_V09_DEEP_READING.md` | 78,310 | `acd10518613e29f6770a056b2576f9e6f7c50f18770f88532bd54444ff1984ba` |
+| `02 Cumulative/SW_CG2_MASTER_LEDGER.md` | 383,355 | `4a827c1ecb5801eff1ec58590d9e245e4684e8add02b8409c92d9edf2882d434` |
+| `02 Cumulative/SW_CG2_CLAIMS_AND_REVISIONS.md` | 294,248 | `82cdb95581806c889f29c802f84b8c5e8317748306162d12d1f005883f949f4d` |
+| `00_RUN_STATE.md` | 84,193 | `d4156b36688be413781c540157f538b2bbed8c2a71ab938bcefc7a2c106b4ce6` |
+
+Input diff SHA-256: `1ef410390f61439284606188cddf5cec53eeed2e4362e04360a13eb71f848ac7`. Context: `6d16e01042a4addb7c2df217615990919ca34d90283bf6f345585dd3792f0d33`. Initial report (23,876 bytes): `854c8ee048cd72b6cd5ef40fb28faa22f7cfc727a2b51e571d28159ba3db2298`. The context's four initial candidate hashes agree with the initial report. **Claims changed** from initial `6cde26fda513db99ca3d34718c5016568ab7b16ed93fd9f66022d12a8c86c1c0`; they are not an unchanged ledger.
+
+**Independent primary basis.** The Japanese for M01–M04, the smaller corrections and the flower request/delivery was established before opening repaired analytical files or producer repair descriptions. The table records total direct inspection; later dependency checks added p-011:P326–345 and p-017:P282–318. Ruby base/reading, emphasis, punctuation, scene separators and attribution were retained. P is the one-based occurrence of a `<p>` element, counting headings, empty and image paragraphs, consistent with the candidate's routes. Transport omissions in p-007:P159–171 and p-010:P69–75 were separately recovered. Japanese console loss was avoided with reversible Unicode-escaped transport; the source was not normalized or edited.
+
+Original V09 root: `urn:sw-g2:source/SW-LNJP-V09/primary/item`. Independently hashed EPUB: **3,055,000 bytes**, SHA-256 `272d49df5b94927cacc2b7a6fa430a3b0af58228cb048541b46ebc29fcdaffb1`, matching the V09 manifest entry.
+
+| Original member / chapter | Actual direct inspection |
+|---|---|
+| `xhtml/p-004.xhtml`, それぞれの答え | P248–396: practical plan, Robert/Randoll, independent assent and complete Glen decision |
+| `xhtml/p-006.xhtml`, 作戦準備と勇気の出るおまじない | Complete P1–253: workshop/sampling, division of labor, barrier roles, rehearsal and flower request |
+| `xhtml/p-007.xhtml`, 決戦の朝 | Complete P1–322: preparation, diverted carriage, remote casting, flower delivery and departure |
+| `xhtml/p-008.xhtml`, ＶＳ初代ミネルヴァの悪童 | Complete P1–283: combat, planning retrospect and full Cyril last stand |
+| `xhtml/p-009.xhtml`, ポーンの奮闘 | Complete P1–247: continuation/trap, attributed calculations and hearing arrival |
+| `xhtml/p-010.xhtml`, 沈黙を破る魔女 | Complete P1–295: hearing, controls, washing, public account and staged treatment |
+| `xhtml/p-011.xhtml`, 王様のチェス | P1–115 and P326–345: barrier release, recovery, reprisals/mediation and sample substitution |
+| `xhtml/p-015.xhtml`, 貴女がひらいてくれた道 | P1–102, including complete P4–71 selection discussion |
+| `xhtml/p-017.xhtml`, 同じ夏の空の下 | P95–318, including complete meat-shop P95–190 and Flax P194–318 |
+
+Actually viewed original **image/p133.jpg, p275.jpg, p277.jpg, p278.jpg and p279.jpg**. P277 directly confirms バルトロメウス・バール and separately describes Barney's profit; p275 corroborates supporting-character vocational status; p278–279 distinguish reference assertions about Hilda, rulers, Porter, Venedict and Will from enacted scenes. P133 presents Monica's public Grail performance; it does not identify the control donors. Their identities come from the original prose. All nine pertinent XHTML files and these five images independently match the supplied manifest's exact byte counts and SHA-256 values.
+
+Earlier primary dependency checks: **SW-LNJP-V04**, `urn:sw-g2:source/SW-LNJP-V04/primary/OEBPS/Text/p-006.xhtml` P160–279 and `p-019.xhtml` P1–60, with rb/rt retained; EPUB SHA-256 `a80f90953d625d304ae724a9b05a8c93ad3392e8bfd23e9edaeb6d0f9642fcfc`. **SW-LNJP-V08**, `urn:sw-g2:source/SW-LNJP-V08/primary/item/xhtml/p-016.xhtml` P238–257, especially the preserved dried rose at P248–251; EPUB SHA-256 `89ff209d8fe16c76486772adb2fb926849ede965ebdc8e8a614bbf9dccb401e9`. Both EPUB hashes agree with the initial review's source identities.
+
+Earlier G2 recovery was targeted: C014's V03 origin and V04/RV027, C001/RV009, C009/RV015, C010/RV016/RV037, C018's complete V04 registration, C022's complete V06 registration, relevant V08 operative formulations/supports, and earlier typed/directional/local records. Read full relevant V04 E012–013/E040–041; V06 E009–016/E019–021/E026/E029; V07 E014; V08 E017/E020/E021–022/E024–026 and the rose dependency. R030/R039/R046's earlier identities confirm that the returned split restores Cyril–Glen, Monica–Glen and Glen–Hubert routes. This is necessary dependency recovery, not renewed qualification of untouched histories.
+
+**M01 — resolved.** Original p-007:P131–200/P240–321 establishes Hubert diverting **Louis's** carriage, Monica casting beside the monitoring crystal outside the barrier, and her departure. P-008:P247–257 gives **Cyril** the fall, dirt and scraped palms. P262 expressly supplies advance consideration of attack patterns; brooch removal/chant at P264 precedes 「ルイスが片手でシリルの首を絞めあげた」 at P267. Interrupted speech and induced poisoning produce the uncontrolled freeze (P270–277); his protective purpose and rejection of powerless goodness remain explicit (P278–283). The repaired synopsis/E007–009 preserve this process rather than inventing an assault on present Monica. S-CYRIL/S-LOUIS, R001/R005/R068, W063/L106 agree; aftermath includes recovery and unequal reprisals. Operative **C004/RV059** now preserves considered self-risk and its limits; **C006/RV060** corrects initiative, victim and chronology. Neither controlled mastery nor spontaneous rescue is inferred.
+
+**M02 — resolved.** P-006:P39–63 explicitly names Barney as donor, Hubert as restrainer and Monica as the knife/sampling agent; P57 identifies his cut left fingertip, and P59 the researchers' inattention. Repaired E004 preserves his scream, ointment, demand and grievance as well as their research absorption. S-MONICA/S-HUBARD/S-BARNEY, R016/L105/Q031 carry the actual intrusive agency. C003/RV052 remains sound with incomplete consent expressly retained; E004 is a disclosed local qualification, not silently inserted registered support. C014/RV057 already distinguishes useful work from equality/apology and retains E004–005/E027/E030. Its unchanged formulation is justified. V04's new-domain possibility survives alongside earlier abuse; present bodily reversal cancels neither that harm nor Barney's continuing demands.
+
+**M03 — resolved.** Glen's 「毎日すげー楽しくて」 (004:P379) concerns his own life. E003 and S-GLEN now preserve his deliberation, received pleasure, gratitude and graduation wish. In the complete shop scene, Eliane's concealment filters what can reach him. The brightest smile/childcare belong to Rosalie/Leonora (017:P145–162); the protruding parasol is not received, and Glen leaves before her complaint can reach him (P163–172). His sisters initiate contact afterward (P174–190). E026/S-GLEN/S-ELIANE/R025/L115 preserve both the failed approach and the independent family exchange. C018's timed curse distinction and C022's conditional cheer/learning account remain sound at their original V04-only and V06-only registered boundaries. No invented interaction or revision event remains operative.
+
+**M04 — resolved substantively and discoverably.** P-015:P22–37 distinguishes rejection now from denial of potential: 「今はまだ伸ばす時期なのですよ」 follows Louis's acknowledgment of Glen's large remaining scope for growth. Raul's 「ちゃんと師匠してるじゃん」 is attributed response, not narratorial absolution. His friend wish, Ray's desired romantic colleague, Raul's re-sorting, recommenders/politics and Louis's grudges all remain (P14/P29–30/P38–66). E022 now develops this counterexample; E009 points to it. S-LOUIS/S-GLEN, R030/R039, W067, L112/Q035 and C006/RV060 make it retrievable. **E022 is explicitly added to C006's support.** C022 receives a bounded local comparison without altered registration. Recognized potential neither proves durable foundational mastery nor excuses violence or turns the ambush into a benevolent lesson.
+
+**Minor corrections and additional rose change — resolved.** E005/E012 and L108 distinguish craftsman **バルトロメウス・バール** (017:P202; inspected p277) from **バーレル伯爵** (010:P126–153): negative Monica/count and positive count/scribe-son controls are correct. C026's genuine-function/false-provenance distinction remains intact, corroborated by washing (010:P165–170) and hidden Albert blood (011:P334–341). E005/S-ELIANE/R025 correctly place Eliane with Neil maintaining the forest barrier (006:P152–169; 007:P240–244; 011:P4–8). E003/S-ROBERT retain a forecast concerning intervening Randoll (004:P325–328), not invented war memory. E026/L115 cover P95–190; E027/L116 begin Flax at P194.
+
+E006's change is literary and correct: the older festival rose is dried and carefully stored but fragile (006:P226); Monica requests a new white rose/blue ribbon (P215–233), receives and pins it before departure (007:P285–298), and touches it at the hearing (010:P120–121). Earlier V08 reliance on the stored dried rose remains true. C012/RV056's recipient-dependent memory/use formulation and support survive; no new claim event or historical erratum is needed.
+
+**History and bounded limits.** The complete supplied diff changes only the four named files. It leaves original PRE_V09/POST_V09, earlier literary bodies, registrations and RV001–058 intact; the only substantive claim changes are truthful appended RV059–060 with recoverable literal prior wording/support. Current notices route readers to these corrections. The dated reading disposition (12:26:16 UTC), claim correction receipt (12:23:30) and run-state handoff (12:31:28) leave separate review pending. Neither freeze contains the false donor, assault or noticed-Eliane encounter; no freeze erratum/supplement is warranted merely to update its historical transaction count. Formatting normalization in the two declared files creates no literary revision. Producer timing and the reported byte equality of all 29 untouched paths are documentary assertions, not independently recreated chronology or an exhaustive historical audit.
+
+The repair preserves the initial review's supported diary/accident, genuine Grail versus substituted sample, and chosen social-future results. It retains actual pleasure and care beside coercion, uncertain romantic reciprocity, and viable rivals concerning household pressure, Bridget's blue rose and Mary's interpretation. No fresh whole-source certification of those unchanged arguments is claimed. Candidate and original review were not edited. No subordinate agents, custom validators/frameworks, external literary evidence, producer conversation, Git, later narrative or authority promotion was used. Inspection is selective for earlier Japanese and images; final corpus acceptance/freeze remains outside this disposition.

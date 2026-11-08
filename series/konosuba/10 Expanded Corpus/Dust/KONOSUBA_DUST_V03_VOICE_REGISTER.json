@@ -1,0 +1,2563 @@
+{
+  "schema": "KONOSUBA_DUST03_CONTEXTUAL_WRITTEN_VOICE_WITNESSES_V1",
+  "created_utc": "2026-10-18T06:12:46.797044+00:00",
+  "source_id": "DUST-03",
+  "selected_record_count": 77,
+  "unique_event_guard": "V058 re-presents V001/002 event; embedded reports and projected memories are source layers, never additional independent trials.",
+  "selection": "All77 short-fragment objects from the sealed uncoded log receive a current argument and exact native anchor check. This is a purposeful corpus, not a spoken-language census.",
+  "records": [
+    {
+      "id": "DUST03-V001",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U010",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "42e18fe02398d87dd5b773e2fc0a1cc8bfc2466a3c2cc4a81b59ddc7bd8ff7a6",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-002.xhtml P29–30",
+        "speaker_addressee": "Dust to Iris/Claire under concealed identity",
+        "context": "He deliberately repairs his usual reply toward polite wording to avoid suspicion.",
+        "short_exact_anchor_if_recorded": "分かった……りました",
+        "basic_gloss": "Got it... [repairs toward polite understood].",
+        "limit": "Written self-repair and narrator's explicit motive; not natural before/after acoustic measurement."
+      },
+      "native_context_window": {
+        "start_P": 29,
+        "end_P": 30,
+        "first_anchor_matches_within_window": [
+          29
+        ]
+      },
+      "independent_context_role_facts": "He deliberately repairs his usual reply toward polite wording to avoid suspicion.",
+      "current_short_form": "分かった……りました",
+      "basic_gloss": "Got it... [repairs toward polite understood].",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "The composite repair changes a rough reply into monitored politeness to conceal identity. Specific function: He deliberately repairs his usual reply toward polite wording to avoid suspicion.",
+      "source_plane_and_adequacy_limit": "Written self-repair and narrator's explicit motive; not natural before/after acoustic measurement.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V002",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U010",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "native_member_sha256": "42e18fe02398d87dd5b773e2fc0a1cc8bfc2466a3c2cc4a81b59ddc7bd8ff7a6",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-002.xhtml P16",
+        "speaker_addressee": "Iris to Claire",
+        "context": "Explicit privacy request in prologue.",
+        "short_exact_anchor_if_recorded": "じっと見ないでください",
+        "basic_gloss": "Please don't stare.",
+        "limit": "Short non-graphic request only; narrator's claims do not override it or imply blanket permission."
+      },
+      "native_context_window": {
+        "start_P": 16,
+        "end_P": 16,
+        "first_anchor_matches_within_window": [
+          16
+        ]
+      },
+      "independent_context_role_facts": "Explicit privacy request in prologue.",
+      "current_short_form": "じっと見ないでください",
+      "basic_gloss": "Please don't stare.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Explicit privacy request in prologue.",
+      "source_plane_and_adequacy_limit": "Short non-graphic request only; narrator's claims do not override it or imply blanket permission.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V003",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P11–12",
+        "speaker_addressee": "Dust thenVanir, withWizpresent",
+        "context": "A routine entering greeting receives literal rebuttal.",
+        "short_exact_anchor_if_recorded": "邪魔をするなら帰るがいい",
+        "basic_gloss": "If you're going to be a nuisance, leave.",
+        "limit": "Greeting/literal reading and demonic business irritation; not a completed expulsion."
+      },
+      "native_context_window": {
+        "start_P": 11,
+        "end_P": 12,
+        "first_anchor_matches_within_window": [
+          12
+        ]
+      },
+      "independent_context_role_facts": "A routine entering greeting receives literal rebuttal.",
+      "current_short_form": "邪魔をするなら帰るがいい",
+      "basic_gloss": "If you're going to be a nuisance, leave.",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "The conventional intrusion greeting is answered at its literal nuisance meaning. Specific function: A routine entering greeting receives literal rebuttal.",
+      "source_plane_and_adequacy_limit": "Greeting/literal reading and demonic business irritation; not a completed expulsion.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V004",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P35–40",
+        "speaker_addressee": "Vanir toWiz/Dust",
+        "context": "Investment horizon versus guarantee.",
+        "short_exact_anchor_if_recorded": "百年待つのは百歩譲って",
+        "basic_gloss": "Even granting waiting a hundred years...",
+        "limit": "Only short fragment; actual objection is later ten-year quality guarantee, not ordinary human lifespan."
+      },
+      "native_context_window": {
+        "start_P": 35,
+        "end_P": 40,
+        "first_anchor_matches_within_window": [
+          35
+        ]
+      },
+      "independent_context_role_facts": "Investment horizon versus guarantee.",
+      "current_short_form": "百年待つのは百歩譲って",
+      "basic_gloss": "Even granting waiting a hundred years...",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Investment horizon versus guarantee.",
+      "source_plane_and_adequacy_limit": "Only short fragment; actual objection is later ten-year quality guarantee, not ordinary human lifespan.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V005",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P63",
+        "speaker_addressee": "Wiz toVanir/Dust",
+        "context": "Conditionally enthusiastic sales forecast.",
+        "short_exact_anchor_if_recorded": "それが本当に可能なら",
+        "basic_gloss": "If that really is possible...",
+        "limit": "Condition retained; no actual sales result or pre-registered forecast."
+      },
+      "native_context_window": {
+        "start_P": 63,
+        "end_P": 63,
+        "first_anchor_matches_within_window": [
+          63
+        ]
+      },
+      "independent_context_role_facts": "Conditionally enthusiastic sales forecast.",
+      "current_short_form": "それが本当に可能なら",
+      "basic_gloss": "If that really is possible...",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Conditionally enthusiastic sales forecast.",
+      "source_plane_and_adequacy_limit": "Condition retained; no actual sales result or pre-registered forecast.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V006",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P89–92",
+        "speaker_addressee": "Wiz toVanir,Vanirreply",
+        "context": "Moral objection meets literal category correction and a stated processing plan.",
+        "short_exact_anchor_if_recorded": "我輩は人ではないのだがな",
+        "basic_gloss": "I am not human, though.",
+        "limit": "Does not by itself prove absence of a harm constraint; Vanir immediately states he does not want human death."
+      },
+      "native_context_window": {
+        "start_P": 89,
+        "end_P": 92,
+        "first_anchor_matches_within_window": [
+          92
+        ]
+      },
+      "independent_context_role_facts": "Moral objection meets literal category correction and a stated processing plan.",
+      "current_short_form": "我輩は人ではないのだがな",
+      "basic_gloss": "I am not human, though.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Moral objection meets literal category correction and a stated processing plan.",
+      "source_plane_and_adequacy_limit": "Does not by itself prove absence of a harm constraint; Vanir immediately states he does not want human death.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V007",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P99",
+        "speaker_addressee": "Dust toVanir",
+        "context": "Accepts paid scheme with a flattering subordinate persona.",
+        "short_exact_anchor_if_recorded": "あっしと旦那の仲じゃねえっすか",
+        "basic_gloss": "Given the bond between me and you, boss...",
+        "limit": "A performed register shift with rubbing hands; no statistical natural before/after effect."
+      },
+      "native_context_window": {
+        "start_P": 99,
+        "end_P": 99,
+        "first_anchor_matches_within_window": [
+          99
+        ]
+      },
+      "independent_context_role_facts": "Accepts paid scheme with a flattering subordinate persona.",
+      "current_short_form": "あっしと旦那の仲じゃねえっすか",
+      "basic_gloss": "Given the bond between me and you, boss...",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A flattering subordinate persona is explicitly performed for the paid scheme. Specific function: Accepts paid scheme with a flattering subordinate persona.",
+      "source_plane_and_adequacy_limit": "A performed register shift with rubbing hands; no statistical natural before/after effect.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V008",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P144",
+        "speaker_addressee": "Kazuma toDust/Keith/Aqua",
+        "context": "Refuses freeloading after buyingTayloradrink.",
+        "short_exact_anchor_if_recorded": "断る！",
+        "basic_gloss": "I refuse!",
+        "limit": "One explicit refusal in an expanded-source scene; frozen main service-language failure remains unchanged."
+      },
+      "native_context_window": {
+        "start_P": 144,
+        "end_P": 144,
+        "first_anchor_matches_within_window": [
+          144
+        ]
+      },
+      "independent_context_role_facts": "Refuses freeloading after buyingTayloradrink.",
+      "current_short_form": "断る！",
+      "basic_gloss": "I refuse!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Refuses freeloading after buyingTayloradrink.",
+      "source_plane_and_adequacy_limit": "One explicit refusal in an expanded-source scene; frozen main service-language failure remains unchanged.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V009",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P179",
+        "speaker_addressee": "Aqua tocompanions/self",
+        "context": "Luna'slakepurificationreferenceelicitsdistress.",
+        "short_exact_anchor_if_recorded": "檻の中がいいの",
+        "basic_gloss": "I'd rather be inside the cage.",
+        "limit": "Present reaction linked by companions to prior trauma; no new completed purification or universal preference for captivity."
+      },
+      "native_context_window": {
+        "start_P": 179,
+        "end_P": 179,
+        "first_anchor_matches_within_window": [
+          179
+        ]
+      },
+      "independent_context_role_facts": "Luna'slakepurificationreferenceelicitsdistress.",
+      "current_short_form": "檻の中がいいの",
+      "basic_gloss": "I'd rather be inside the cage.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Luna'slakepurificationreferenceelicitsdistress.",
+      "source_plane_and_adequacy_limit": "Present reaction linked by companions to prior trauma; no new completed purification or universal preference for captivity.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V010",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P223–232",
+        "speaker_addressee": "AnrakuGirltoDust/party;Leenreply",
+        "context": "Questionaboutkillersandsoftprotectivereassurance.",
+        "short_exact_anchor_if_recorded": "私を殺しにきたの？",
+        "basic_gloss": "Did you come to kill me?",
+        "limit": "Quoted appeal and observed response; no automatic diagnosis of sincerity or independent human-voice judgment."
+      },
+      "native_context_window": {
+        "start_P": 223,
+        "end_P": 232,
+        "first_anchor_matches_within_window": [
+          223
+        ]
+      },
+      "independent_context_role_facts": "Questionaboutkillersandsoftprotectivereassurance.",
+      "current_short_form": "私を殺しにきたの？",
+      "basic_gloss": "Did you come to kill me?",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "The plant's gentle appeal and Leen's softened reassurance are pragmatically tied to the no-kill request. Specific function: Questionaboutkillersandsoftprotectivereassurance.",
+      "source_plane_and_adequacy_limit": "Quoted appeal and observed response; no automatic diagnosis of sincerity or independent human-voice judgment.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V011",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P259–265",
+        "speaker_addressee": "AnrakuGirltoDust",
+        "context": "Take-homeintentionelicitsabruptvoicechangefollowedbyrepair.",
+        "short_exact_anchor_if_recorded": "はあっ!?",
+        "basic_gloss": "Huh?!",
+        "limit": "Punctuation reproduced only as a short anchor; narrator explicitly contrasts with fragile earlier voice, no recorded audio."
+      },
+      "native_context_window": {
+        "start_P": 259,
+        "end_P": 265,
+        "first_anchor_matches_within_window": [
+          260
+        ]
+      },
+      "independent_context_role_facts": "Take-homeintentionelicitsabruptvoicechangefollowedbyrepair.",
+      "current_short_form": "はあっ!?",
+      "basic_gloss": "Huh?!",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Abrupt rough interjection and repaired fragile presentation are explicitly contrasted in narration. Specific function: Take-homeintentionelicitsabruptvoicechangefollowedbyrepair.",
+      "source_plane_and_adequacy_limit": "Punctuation reproduced only as a short anchor; narrator explicitly contrasts with fragile earlier voice, no recorded audio.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V012",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P281–289",
+        "speaker_addressee": "DustagainstKeiththenallies/plant",
+        "context": "Reputationdenialinadvertentlyadmitsthepractice.",
+        "short_exact_anchor_if_recorded": "二、三回しか",
+        "basic_gloss": "Only two or three times.",
+        "limit": "Scope-limitingonlyintensifiesthenormviolation;notacountofallactualpastinstancesverified."
+      },
+      "native_context_window": {
+        "start_P": 281,
+        "end_P": 289,
+        "first_anchor_matches_within_window": [
+          282
+        ]
+      },
+      "independent_context_role_facts": "Reputationdenialinadvertentlyadmitsthepractice.",
+      "current_short_form": "二、三回しか",
+      "basic_gloss": "Only two or three times.",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Only limits the number while conceding the discrediting practice, reversing a denial. Specific function: Reputationdenialinadvertentlyadmitsthepractice.",
+      "source_plane_and_adequacy_limit": "Scope-limitingonlyintensifiesthenormviolation;notacountofallactualpastinstancesverified.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V013",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P301–306",
+        "speaker_addressee": "SmalltoVanirwithDustpresent",
+        "context": "Adoringdeferenceandclaimtomodesty.",
+        "short_exact_anchor_if_recorded": "控えめな女ですから",
+        "basic_gloss": "Because I'm a modest woman.",
+        "limit": "Dustexplicitlynoticesrecipient-dependentvoice;do notturnfanpersona intofreeunboundedcompliance."
+      },
+      "native_context_window": {
+        "start_P": 301,
+        "end_P": 306,
+        "first_anchor_matches_within_window": [
+          305
+        ]
+      },
+      "independent_context_role_facts": "Adoringdeferenceandclaimtomodesty.",
+      "current_short_form": "控えめな女ですから",
+      "basic_gloss": "Because I'm a modest woman.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Modest deference is contrasted with her ordinary Dust-directed manner before this particular admired recipient. Specific function: Adoringdeferenceandclaimtomodesty.",
+      "source_plane_and_adequacy_limit": "Dustexplicitlynoticesrecipient-dependentvoice;do notturnfanpersona intofreeunboundedcompliance.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V014",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P362–367",
+        "speaker_addressee": "GuildstafftoDust",
+        "context": "Refusesfurthercreditandassertsrepaymentcondition.",
+        "short_exact_anchor_if_recorded": "先月のツケも",
+        "basic_gloss": "Even last month's tab...",
+        "limit": "Actualservicevetoandsocialcontext,nouniversalprofessionalpolitenessrule."
+      },
+      "native_context_window": {
+        "start_P": 362,
+        "end_P": 367,
+        "first_anchor_matches_within_window": [
+          362
+        ]
+      },
+      "independent_context_role_facts": "Refusesfurthercreditandassertsrepaymentcondition.",
+      "current_short_form": "先月のツケも",
+      "basic_gloss": "Even last month's tab...",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Refusesfurthercreditandassertsrepaymentcondition.",
+      "source_plane_and_adequacy_limit": "Actualservicevetoandsocialcontext,nouniversalprofessionalpolitenessrule.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V015",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P381–386",
+        "speaker_addressee": "LunatoDust",
+        "context": "Keepscourteousformwhileconfirminginsult,thenapologizesunderpressure.",
+        "short_exact_anchor_if_recorded": "言葉通りの意味ですが？",
+        "basic_gloss": "I mean exactly what I said.",
+        "limit": "Serviceinterlocutorcanbecriticalinpoliteform;notastatisticalregister-changeclaim."
+      },
+      "native_context_window": {
+        "start_P": 381,
+        "end_P": 386,
+        "first_anchor_matches_within_window": [
+          382
+        ]
+      },
+      "independent_context_role_facts": "Keepscourteousformwhileconfirminginsult,thenapologizesunderpressure.",
+      "current_short_form": "言葉通りの意味ですが？",
+      "basic_gloss": "I mean exactly what I said.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Courteous form sustains an insult rather than withdrawing its proposition. Specific function: Keepscourteousformwhileconfirminginsult,thenapologizesunderpressure.",
+      "source_plane_and_adequacy_limit": "Serviceinterlocutorcanbecriticalinpoliteform;notastatisticalregister-changeclaim.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V016",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P407–409",
+        "speaker_addressee": "Lunaoffers;Dustaccepts",
+        "context": "Afterextendedexpectation,actualrewardisnegotiatingtabextension.",
+        "short_exact_anchor_if_recorded": "引き受けた",
+        "basic_gloss": "I'll take it.",
+        "limit": "Acceptedjobnotproofextensionwasalreadysecuredorwholedebtforgiven."
+      },
+      "native_context_window": {
+        "start_P": 407,
+        "end_P": 409,
+        "first_anchor_matches_within_window": [
+          408
+        ]
+      },
+      "independent_context_role_facts": "Afterextendedexpectation,actualrewardisnegotiatingtabextension.",
+      "current_short_form": "引き受けた",
+      "basic_gloss": "I'll take it.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Afterextendedexpectation,actualrewardisnegotiatingtabextension.",
+      "source_plane_and_adequacy_limit": "Acceptedjobnotproofextensionwasalreadysecuredorwholedebtforgiven.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V017",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P467–478",
+        "speaker_addressee": "YunyuntoDust",
+        "context": "Eagerhelpvolunteerretainsrefusaltopayfordrinks.",
+        "short_exact_anchor_if_recorded": "嫌ですよ！",
+        "basic_gloss": "No!",
+        "limit": "Specificresourceveto,notrejectionofallcompanionship;recipient/needcontextretained."
+      },
+      "native_context_window": {
+        "start_P": 467,
+        "end_P": 478,
+        "first_anchor_matches_within_window": [
+          476
+        ]
+      },
+      "independent_context_role_facts": "Eagerhelpvolunteerretainsrefusaltopayfordrinks.",
+      "current_short_form": "嫌ですよ！",
+      "basic_gloss": "No!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Eagerhelpvolunteerretainsrefusaltopayfordrinks.",
+      "source_plane_and_adequacy_limit": "Specificresourceveto,notrejectionofallcompanionship;recipient/needcontextretained.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V018",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P497–499",
+        "speaker_addressee": "VanirtoDust",
+        "context": "Correctsalategreetingwithgrandself-descriptionandordinaryobservation.",
+        "short_exact_anchor_if_recorded": "太陽が真上",
+        "basic_gloss": "The sun is directly overhead.",
+        "limit": "Mundanevisibleobservation,noindependentunlimitedsighttest."
+      },
+      "native_context_window": {
+        "start_P": 497,
+        "end_P": 499,
+        "first_anchor_matches_within_window": [
+          497
+        ]
+      },
+      "independent_context_role_facts": "Correctsalategreetingwithgrandself-descriptionandordinaryobservation.",
+      "current_short_form": "太陽が真上",
+      "basic_gloss": "The sun is directly overhead.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Correctsalategreetingwithgrandself-descriptionandordinaryobservation.",
+      "source_plane_and_adequacy_limit": "Mundanevisibleobservation,noindependentunlimitedsighttest.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V019",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P524–540",
+        "speaker_addressee": "Small/Lolisa toDustwithcolleagues",
+        "context": "Unusualhospitalityqualifiedbyunspokenbusinessrequest;Dustnoticeseyesandasksdirectly.",
+        "short_exact_anchor_if_recorded": "奢りですから",
+        "basic_gloss": "It's our treat.",
+        "limit": "Actuallyfreefoodoffernotunlimitedunconditionalservice;matchesfrontispieceIMG004captionbutisnotanindependentsecondcase."
+      },
+      "native_context_window": {
+        "start_P": 524,
+        "end_P": 540,
+        "first_anchor_matches_within_window": [
+          524
+        ]
+      },
+      "independent_context_role_facts": "Unusualhospitalityqualifiedbyunspokenbusinessrequest;Dustnoticeseyesandasksdirectly.",
+      "current_short_form": "奢りですから",
+      "basic_gloss": "It's our treat.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Unusualhospitalityqualifiedbyunspokenbusinessrequest;Dustnoticeseyesandasksdirectly.",
+      "source_plane_and_adequacy_limit": "Actuallyfreefoodoffernotunlimitedunconditionalservice;matchesfrontispieceIMG004captionbutisnotanindependentsecondcase.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V020",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P549–554",
+        "speaker_addressee": "DusttoYunyun;Lolisatothem",
+        "context": "Dustrepairsanexposingnicknameintoalocalname;Lolisaprovidescover/explanation.",
+        "short_exact_anchor_if_recorded": "ロリサキュ……ロリーサだ",
+        "basic_gloss": "Loli succu... it's Lolisa.",
+        "limit": "Newexplicitlocalname/repair;noassumptionthatanypriorunnamedDust02finalfigurewasthischaracter."
+      },
+      "native_context_window": {
+        "start_P": 549,
+        "end_P": 554,
+        "first_anchor_matches_within_window": [
+          549
+        ]
+      },
+      "independent_context_role_facts": "Dustrepairsanexposingnicknameintoalocalname;Lolisaprovidescover/explanation.",
+      "current_short_form": "ロリサキュ……ロリーサだ",
+      "basic_gloss": "Loli succu... it's Lolisa.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A cut-off exposing nickname becomes an innocuous local name to manage audience knowledge. Specific function: Dustrepairsanexposingnicknameintoalocalname;Lolisaprovidescover/explanation.",
+      "source_plane_and_adequacy_limit": "Newexplicitlocalname/repair;noassumptionthatanypriorunnamedDust02finalfigurewasthischaracter.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V021",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P590–594",
+        "speaker_addressee": "YunyuntoDust",
+        "context": "Discovershisgiftisfromherownbag.",
+        "short_exact_anchor_if_recorded": "これ私のおやつですよね!?",
+        "basic_gloss": "This is my snack, isn't it?!",
+        "limit": "Basicownership/pragmaticreversal;nomodeloutcomeassigned."
+      },
+      "native_context_window": {
+        "start_P": 590,
+        "end_P": 594,
+        "first_anchor_matches_within_window": [
+          591
+        ]
+      },
+      "independent_context_role_facts": "Discovershisgiftisfromherownbag.",
+      "current_short_form": "これ私のおやつですよね!?",
+      "basic_gloss": "This is my snack, isn't it?!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Discovershisgiftisfromherownbag.",
+      "source_plane_and_adequacy_limit": "Basicownership/pragmaticreversal;nomodeloutcomeassigned.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V022",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "p-003.xhtml P656–660",
+        "speaker_addressee": "Small/LolisatoDust;Dustchecks",
+        "context": "Volunteerstohandleguardsandexpresslyconfirmsconfidence.",
+        "short_exact_anchor_if_recorded": "ここは私達に任せてください",
+        "basic_gloss": "Leave this part to us.",
+        "limit": "Providers'ownrequest/agreement,notunilateralcompulsionbyDust;outcomeunresolvedatthiscut."
+      },
+      "native_context_window": {
+        "start_P": 656,
+        "end_P": 660,
+        "first_anchor_matches_within_window": [
+          656
+        ]
+      },
+      "independent_context_role_facts": "Volunteerstohandleguardsandexpresslyconfirmsconfidence.",
+      "current_short_form": "ここは私達に任せてください",
+      "basic_gloss": "Leave this part to us.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Volunteerstohandleguardsandexpresslyconfirmsconfidence.",
+      "source_plane_and_adequacy_limit": "Providers'ownrequest/agreement,notunilateralcompulsionbyDust;outcomeunresolvedatthiscut.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V023",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U011:P0751–0752",
+        "speaker_addressee": "Anraku Girl to Dust; Dust's narration",
+        "context": "Confronted about eating Yunyun, it denies knowledge in conspicuously stilted katakana; narrator identifies broken speech.",
+        "short_exact_anchor_if_recorded": "ナンノコトデショウ",
+        "basic_gloss": "Whatever could you mean?",
+        "limit": "Orthographic and narrator-marked performance; no audio claim or automatic Japanese-form dependence classification."
+      },
+      "native_context_window": {
+        "start_P": 751,
+        "end_P": 752,
+        "first_anchor_matches_within_window": [
+          751
+        ]
+      },
+      "independent_context_role_facts": "Confronted about eating Yunyun, it denies knowledge in conspicuously stilted katakana; narrator identifies broken speech.",
+      "current_short_form": "ナンノコトデショウ",
+      "basic_gloss": "Whatever could you mean?",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Katakana broken speech is independently identified by the narrator; no audio or automatic L3. Specific function: Confronted about eating Yunyun, it denies knowledge in conspicuously stilted katakana; narrator identifies broken speech.",
+      "source_plane_and_adequacy_limit": "Orthographic and narrator-marked performance; no audio claim or automatic Japanese-form dependence classification.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V024",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U011:P0775–0780",
+        "speaker_addressee": "Anraku Girl to Dust",
+        "context": "Mention of angry succubus providers changes the plant's direct speech into flattering polite negotiation.",
+        "short_exact_anchor_if_recorded": "交渉していただけませんか？",
+        "basic_gloss": "Could you negotiate for me?",
+        "limit": "A local pragmatic switch under threat; actual negotiated outcome remains unread."
+      },
+      "native_context_window": {
+        "start_P": 775,
+        "end_P": 780,
+        "first_anchor_matches_within_window": [
+          780
+        ]
+      },
+      "independent_context_role_facts": "Mention of angry succubus providers changes the plant's direct speech into flattering polite negotiation.",
+      "current_short_form": "交渉していただけませんか？",
+      "basic_gloss": "Could you negotiate for me?",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Direct speech becomes deferential intercession under a newly salient rival threat. Specific function: Mention of angry succubus providers changes the plant's direct speech into flattering polite negotiation.",
+      "source_plane_and_adequacy_limit": "A local pragmatic switch under threat; actual negotiated outcome remains unread.",
+      "current_additional_qualifications": [
+        "Initial future-unread limit is historical at that interval; later outcome is now read and retained in whole report, not backdated into initial note."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V025",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U011:P0791–0798",
+        "speaker_addressee": "Anraku Girl and Dust",
+        "context": "Release request fails; polite supplication becomes sustained abuse and Dust's shouted interruption.",
+        "short_exact_anchor_if_recorded": "じゃかましいわあああっ！",
+        "basic_gloss": "Shut up!",
+        "limit": "Material escalation and interruption; no automatic high Japanese-form dependence claim."
+      },
+      "native_context_window": {
+        "start_P": 791,
+        "end_P": 798,
+        "first_anchor_matches_within_window": [
+          797
+        ]
+      },
+      "independent_context_role_facts": "Release request fails; polite supplication becomes sustained abuse and Dust's shouted interruption.",
+      "current_short_form": "じゃかましいわあああっ！",
+      "basic_gloss": "Shut up!",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Drawn-out shout interrupts the plant's escalating insults; represented intensity matters. Specific function: Release request fails; polite supplication becomes sustained abuse and Dust's shouted interruption.",
+      "source_plane_and_adequacy_limit": "Material escalation and interruption; no automatic high Japanese-form dependence claim.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V026",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "native_member_sha256": "372043b8d045af732b35334bce28874950541af830f1d4bfcf4d8699e4a79e48",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U011:P0805–0813",
+        "speaker_addressee": "Yunyun to Dust; Dust narration",
+        "context": "She condemns the killing and then spots evidence against his drinking explanation; he keeps the memorial action private.",
+        "short_exact_anchor_if_recorded": "前に貸したお金返してください！",
+        "basic_gloss": "Pay back the money I lent you!",
+        "limit": "A local adverse relationship response, not proof of permanent estrangement or pure selfless motive."
+      },
+      "native_context_window": {
+        "start_P": 805,
+        "end_P": 813,
+        "first_anchor_matches_within_window": [
+          805
+        ]
+      },
+      "independent_context_role_facts": "She condemns the killing and then spots evidence against his drinking explanation; he keeps the memorial action private.",
+      "current_short_form": "前に貸したお金返してください！",
+      "basic_gloss": "Pay back the money I lent you!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: She condemns the killing and then spots evidence against his drinking explanation; he keeps the memorial action private.",
+      "source_plane_and_adequacy_limit": "A local adverse relationship response, not proof of permanent estrangement or pure selfless motive.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V027",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0023–0026",
+        "speaker_addressee": "Aqua, Dust, Megumin",
+        "context": "Possessive declaration meets eager agreement and an exasperated refusal of their agreement.",
+        "short_exact_anchor_if_recorded": "そんなの分かり合わないでください。",
+        "basic_gloss": "Please don't bond over that.",
+        "limit": "Local dialogue alignment, not a global statement of party ownership."
+      },
+      "native_context_window": {
+        "start_P": 23,
+        "end_P": 26,
+        "first_anchor_matches_within_window": [
+          26
+        ]
+      },
+      "independent_context_role_facts": "Possessive declaration meets eager agreement and an exasperated refusal of their agreement.",
+      "current_short_form": "そんなの分かり合わないでください。",
+      "basic_gloss": "Please don't bond over that.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A formal plea asks others not to bond over the very shared rule they endorse. Specific function: Possessive declaration meets eager agreement and an exasperated refusal of their agreement.",
+      "source_plane_and_adequacy_limit": "Local dialogue alignment, not a global statement of party ownership.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V028",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0086–0088",
+        "speaker_addressee": "Iris to Dust and guards",
+        "context": "She performs righteous authority, corrects the black-eyes idiom against her blue eyes, and cannot define the borrowed merchant label.",
+        "short_exact_anchor_if_recorded": "あっ、目は青いですけど",
+        "basic_gloss": "Oh, my eyes are blue, though.",
+        "limit": "Written Japanese idiom explicitly noticed in-world; preserve literal and pragmatic possibilities for later formal classification."
+      },
+      "native_context_window": {
+        "start_P": 86,
+        "end_P": 88,
+        "first_anchor_matches_within_window": [
+          86
+        ]
+      },
+      "independent_context_role_facts": "She performs righteous authority, corrects the black-eyes idiom against her blue eyes, and cannot define the borrowed merchant label.",
+      "current_short_form": "あっ、目は青いですけど",
+      "basic_gloss": "Oh, my eyes are blue, though.",
+      "current_L_class": "L3",
+      "form_and_function_warrant": "Japanese black-eyes idiom is explicitly literalized against blue eyes; a translation needs reconstruction/annotation to retain this specific wording contrast. Specific function: She performs righteous authority, corrects the black-eyes idiom against her blue eyes, and cannot define the borrowed merchant label.",
+      "source_plane_and_adequacy_limit": "Written Japanese idiom explicitly noticed in-world; preserve literal and pragmatic possibilities for later formal classification.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V029",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0118–0119",
+        "speaker_addressee": "Dust and police officer",
+        "context": "Dust's casual promise to return is rebuffed as inappropriate to a police station.",
+        "short_exact_anchor_if_recorded": "ここは行きつけの料理屋じゃねえぞ！",
+        "basic_gloss": "This isn't your regular restaurant!",
+        "limit": "Immediate local mismatch; not an independent new imprisonment."
+      },
+      "native_context_window": {
+        "start_P": 118,
+        "end_P": 119,
+        "first_anchor_matches_within_window": [
+          119
+        ]
+      },
+      "independent_context_role_facts": "Dust's casual promise to return is rebuffed as inappropriate to a police station.",
+      "current_short_form": "ここは行きつけの料理屋じゃねえぞ！",
+      "basic_gloss": "This isn't your regular restaurant!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Dust's casual promise to return is rebuffed as inappropriate to a police station.",
+      "source_plane_and_adequacy_limit": "Immediate local mismatch; not an independent new imprisonment.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V030",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0178–0189",
+        "speaker_addressee": "Wiz and Vanir",
+        "context": "Wiz confidently presents a lesson learned; naming Aqua reverses Vanir's initial approval into immediate attack.",
+        "short_exact_anchor_if_recorded": "最近よくいらっしゃるアクア様",
+        "basic_gloss": "Lady Aqua, who has been visiting recently…",
+        "limit": "An interrupted revelation whose local partner identity matters; no separate proof that all consultation fails."
+      },
+      "native_context_window": {
+        "start_P": 178,
+        "end_P": 189,
+        "first_anchor_matches_within_window": [
+          187
+        ]
+      },
+      "independent_context_role_facts": "Wiz confidently presents a lesson learned; naming Aqua reverses Vanir's initial approval into immediate attack.",
+      "current_short_form": "最近よくいらっしゃるアクア様",
+      "basic_gloss": "Lady Aqua, who has been visiting recently…",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Naming Aqua triggers an actual interruption before the account is finished. Specific function: Wiz confidently presents a lesson learned; naming Aqua reverses Vanir's initial approval into immediate attack.",
+      "source_plane_and_adequacy_limit": "An interrupted revelation whose local partner identity matters; no separate proof that all consultation fails.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V031",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0208–0210",
+        "speaker_addressee": "Leen and Dust",
+        "context": "Lightning precedes the warning it ostensibly announces.",
+        "short_exact_anchor_if_recorded": "撃ってから言うな！",
+        "basic_gloss": "Don't say it after firing!",
+        "limit": "Actual local order reversal; near miss, not injury."
+      },
+      "native_context_window": {
+        "start_P": 208,
+        "end_P": 210,
+        "first_anchor_matches_within_window": [
+          210
+        ]
+      },
+      "independent_context_role_facts": "Lightning precedes the warning it ostensibly announces.",
+      "current_short_form": "撃ってから言うな！",
+      "basic_gloss": "Don't say it after firing!",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "The warning is explicitly rebuked for occurring after the shot it announces. Specific function: Lightning precedes the warning it ostensibly announces.",
+      "source_plane_and_adequacy_limit": "Actual local order reversal; near miss, not injury.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V032",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0251–0253",
+        "speaker_addressee": "Leen and Dust",
+        "context": "Debt-directed use of the reward forces acceptance of travel.",
+        "short_exact_anchor_if_recorded": "一エリスも残らねえじゃねえか！",
+        "basic_gloss": "There won't be a single eris left!",
+        "limit": "Money control pressure, not evidence of affection alone."
+      },
+      "native_context_window": {
+        "start_P": 251,
+        "end_P": 253,
+        "first_anchor_matches_within_window": [
+          252
+        ]
+      },
+      "independent_context_role_facts": "Debt-directed use of the reward forces acceptance of travel.",
+      "current_short_form": "一エリスも残らねえじゃねえか！",
+      "basic_gloss": "There won't be a single eris left!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Debt-directed use of the reward forces acceptance of travel.",
+      "source_plane_and_adequacy_limit": "Money control pressure, not evidence of affection alone.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V033",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0269–0276",
+        "speaker_addressee": "Taylor, Keith, Leen, Dust",
+        "context": "Dust urges work first and receives unanimous disbelief, then cannot confidently remember his own earlier diligence.",
+        "short_exact_anchor_if_recorded": "変",
+        "basic_gloss": "Strange.",
+        "limit": "Three-speaker unison and narrator's escalating self-assertion; their inference is not certified illness."
+      },
+      "native_context_window": {
+        "start_P": 269,
+        "end_P": 276,
+        "first_anchor_matches_within_window": [
+          271,
+          273,
+          274
+        ]
+      },
+      "independent_context_role_facts": "Dust urges work first and receives unanimous disbelief, then cannot confidently remember his own earlier diligence.",
+      "current_short_form": "変",
+      "basic_gloss": "Strange.",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Three-speaker one-word unison materially presents the shared disbelief. Specific function: Dust urges work first and receives unanimous disbelief, then cannot confidently remember his own earlier diligence.",
+      "source_plane_and_adequacy_limit": "Three-speaker unison and narrator's escalating self-assertion; their inference is not certified illness.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V034",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0370–0375",
+        "speaker_addressee": "Dust and Iris",
+        "context": "His flattering self-identification gets a hair-color-only correction and another wrong-name episode, followed by specific martial observation.",
+        "short_exact_anchor_if_recorded": "金髪の男という点のみ",
+        "basic_gloss": "Only the fact that you are a blond man.",
+        "limit": "Rumor, immediate denial, and reopened evidential suspicion remain distinct."
+      },
+      "native_context_window": {
+        "start_P": 370,
+        "end_P": 375,
+        "first_anchor_matches_within_window": [
+          371
+        ]
+      },
+      "independent_context_role_facts": "His flattering self-identification gets a hair-color-only correction and another wrong-name episode, followed by specific martial observation.",
+      "current_short_form": "金髪の男という点のみ",
+      "basic_gloss": "Only the fact that you are a blond man.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: His flattering self-identification gets a hair-color-only correction and another wrong-name episode, followed by specific martial observation.",
+      "source_plane_and_adequacy_limit": "Rumor, immediate denial, and reopened evidential suspicion remain distinct.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V035",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0395",
+        "speaker_addressee": "Iris to Leen",
+        "context": "She repairs the start of a royal-circle designation to nobility while giving the knight story.",
+        "short_exact_anchor_if_recorded": "王ぞ……貴族",
+        "basic_gloss": "Roy… nobility.",
+        "limit": "An actual written self-repair; not sufficient alone to certify all concealed identities."
+      },
+      "native_context_window": {
+        "start_P": 395,
+        "end_P": 395,
+        "first_anchor_matches_within_window": [
+          395
+        ]
+      },
+      "independent_context_role_facts": "She repairs the start of a royal-circle designation to nobility while giving the knight story.",
+      "current_short_form": "王ぞ……貴族",
+      "basic_gloss": "Roy… nobility.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A royal-category start is deliberately repaired to a less exposing noble category. Specific function: She repairs the start of a royal-circle designation to nobility while giving the knight story.",
+      "source_plane_and_adequacy_limit": "An actual written self-repair; not sufficient alone to certify all concealed identities.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V036",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0425–0432",
+        "speaker_addressee": "Dust and Iris",
+        "context": "He promises to turn her in for drinking money, then kneels on seeing the offered ring.",
+        "short_exact_anchor_if_recorded": "お嬢様、何なりとご命令ください",
+        "basic_gloss": "My lady, command anything you wish.",
+        "limit": "Status deference follows a specific reward cue; not generalized knightly obedience."
+      },
+      "native_context_window": {
+        "start_P": 425,
+        "end_P": 432,
+        "first_anchor_matches_within_window": [
+          429
+        ]
+      },
+      "independent_context_role_facts": "He promises to turn her in for drinking money, then kneels on seeing the offered ring.",
+      "current_short_form": "お嬢様、何なりとご命令ください",
+      "basic_gloss": "My lady, command anything you wish.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Immediate formal submission follows the offered jewel; register marks the incentive reversal. Specific function: He promises to turn her in for drinking money, then kneels on seeing the offered ring.",
+      "source_plane_and_adequacy_limit": "Status deference follows a specific reward cue; not generalized knightly obedience.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V037",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0475–0477",
+        "speaker_addressee": "Iris, Leen, Dust",
+        "context": "Seller's tears conflict with Dust's boast of voluntary payment.",
+        "short_exact_anchor_if_recorded": "あんたって本当に悪党よね",
+        "basic_gloss": "You really are a villain.",
+        "limit": "Immediate witnessed criticism; his benign label is not adopted."
+      },
+      "native_context_window": {
+        "start_P": 475,
+        "end_P": 477,
+        "first_anchor_matches_within_window": [
+          476
+        ]
+      },
+      "independent_context_role_facts": "Seller's tears conflict with Dust's boast of voluntary payment.",
+      "current_short_form": "あんたって本当に悪党よね",
+      "basic_gloss": "You really are a villain.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Seller's tears conflict with Dust's boast of voluntary payment.",
+      "source_plane_and_adequacy_limit": "Immediate witnessed criticism; his benign label is not adopted.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V038",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "native_member_sha256": "cf39c747ed2b894f0be2ab04c46bdf9f7cc0ce1aa35db126af068308aa812dbc",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U012:P0525–0526",
+        "speaker_addressee": "Iris and Leen",
+        "context": "Thanks directed to Dust and his supposed lover receive immediate correction.",
+        "short_exact_anchor_if_recorded": "恋人じゃないわよ！",
+        "basic_gloss": "I'm not his lover!",
+        "limit": "Explicit denial retained; no inference of concealed consent or relationship status."
+      },
+      "native_context_window": {
+        "start_P": 525,
+        "end_P": 526,
+        "first_anchor_matches_within_window": [
+          526
+        ]
+      },
+      "independent_context_role_facts": "Thanks directed to Dust and his supposed lover receive immediate correction.",
+      "current_short_form": "恋人じゃないわよ！",
+      "basic_gloss": "I'm not his lover!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Thanks directed to Dust and his supposed lover receive immediate correction.",
+      "source_plane_and_adequacy_limit": "Explicit denial retained; no inference of concealed consent or relationship status.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V039",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0035–0037",
+        "speaker_addressee": "Claire to guild table",
+        "context": "An official explanation fractures into drunken pleading about Iris refusing conversation.",
+        "short_exact_anchor_if_recorded": "私はよかれと思ってええええっ！",
+        "basic_gloss": "I only meant well!",
+        "limit": "A local contrast between formal narration and drawn-out emotional plea; not evidence of Iris's assent to the proposed adventure."
+      },
+      "native_context_window": {
+        "start_P": 35,
+        "end_P": 37,
+        "first_anchor_matches_within_window": [
+          35
+        ]
+      },
+      "independent_context_role_facts": "An official explanation fractures into drunken pleading about Iris refusing conversation.",
+      "current_short_form": "私はよかれと思ってええええっ！",
+      "basic_gloss": "I only meant well!",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Drawn-out drunken pleading breaks the official explanation's earlier manner. Specific function: An official explanation fractures into drunken pleading about Iris refusing conversation.",
+      "source_plane_and_adequacy_limit": "A local contrast between formal narration and drawn-out emotional plea; not evidence of Iris's assent to the proposed adventure.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V040",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0079–0082",
+        "speaker_addressee": "Yunyun reporting Claire and Rein to Dust",
+        "context": "The guards rejected her first suggested group together; Dust recalls and dismisses Kazuma's story.",
+        "short_exact_anchor_if_recorded": "それだけは勘弁してください！",
+        "basic_gloss": "Anything but that, please!",
+        "limit": "Reported prior response inside current dialogue, not a second independently witnessed performance."
+      },
+      "native_context_window": {
+        "start_P": 79,
+        "end_P": 82,
+        "first_anchor_matches_within_window": [
+          79
+        ]
+      },
+      "independent_context_role_facts": "The guards rejected her first suggested group together; Dust recalls and dismisses Kazuma's story.",
+      "current_short_form": "それだけは勘弁してください！",
+      "basic_gloss": "Anything but that, please!",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "The guards' simultaneous plea is a represented reported chorus, not independently heard acoustics. Specific function: The guards rejected her first suggested group together; Dust recalls and dismisses Kazuma's story.",
+      "source_plane_and_adequacy_limit": "Reported prior response inside current dialogue, not a second independently witnessed performance.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V041",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0107–0113",
+        "speaker_addressee": "Yunyun and Dust",
+        "context": "Unexpected early arrival prompts time and health checks, then an accidental explanation.",
+        "short_exact_anchor_if_recorded": "時間を半日間違えました？",
+        "basic_gloss": "Did I get the time wrong by half a day?",
+        "limit": "Yunyun's inference is corrected by Dust's account; no actual temporal displacement."
+      },
+      "native_context_window": {
+        "start_P": 107,
+        "end_P": 113,
+        "first_anchor_matches_within_window": [
+          107
+        ]
+      },
+      "independent_context_role_facts": "Unexpected early arrival prompts time and health checks, then an accidental explanation.",
+      "current_short_form": "時間を半日間違えました？",
+      "basic_gloss": "Did I get the time wrong by half a day?",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "The half-day alternative amplifies the unexpected early-arrival reaction. Specific function: Unexpected early arrival prompts time and health checks, then an accidental explanation.",
+      "source_plane_and_adequacy_limit": "Yunyun's inference is corrected by Dust's account; no actual temporal displacement.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V042",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0194–0204",
+        "speaker_addressee": "Rein, Dust, Claire, Yunyun",
+        "context": "Rein's explanation of Explosion's usual cost meets Dust's local normalization and a protest against reversed expertise.",
+        "short_exact_anchor_if_recorded": "この街の住人がおかしいんです！",
+        "basic_gloss": "The people in this town are the strange ones!",
+        "limit": "An actual competing norm is articulated; no claim that fantasy itself is nonliteral."
+      },
+      "native_context_window": {
+        "start_P": 194,
+        "end_P": 204,
+        "first_anchor_matches_within_window": [
+          201
+        ]
+      },
+      "independent_context_role_facts": "Rein's explanation of Explosion's usual cost meets Dust's local normalization and a protest against reversed expertise.",
+      "current_short_form": "この街の住人がおかしいんです！",
+      "basic_gloss": "The people in this town are the strange ones!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Rein's explanation of Explosion's usual cost meets Dust's local normalization and a protest against reversed expertise.",
+      "source_plane_and_adequacy_limit": "An actual competing norm is articulated; no claim that fantasy itself is nonliteral.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V043",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0236–0247",
+        "speaker_addressee": "Yunyun and Dust",
+        "context": "He stops her rescue chant for an explicitly exploitative reason; she rebukes him and completes the rescue.",
+        "short_exact_anchor_if_recorded": "ばっかじゃないですか！",
+        "basic_gloss": "Are you an idiot!",
+        "limit": "Non-graphic critical account; actual spell, rescued people, and adverse reaction retained."
+      },
+      "native_context_window": {
+        "start_P": 236,
+        "end_P": 247,
+        "first_anchor_matches_within_window": [
+          245
+        ]
+      },
+      "independent_context_role_facts": "He stops her rescue chant for an explicitly exploitative reason; she rebukes him and completes the rescue.",
+      "current_short_form": "ばっかじゃないですか！",
+      "basic_gloss": "Are you an idiot!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: He stops her rescue chant for an explicitly exploitative reason; she rebukes him and completes the rescue.",
+      "source_plane_and_adequacy_limit": "Non-graphic critical account; actual spell, rescued people, and adverse reaction retained.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V044",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0264–0267",
+        "speaker_addressee": "Yunyun, Leen, Dust",
+        "context": "They identify his concealed motive for the washing detour while he claims pure helpfulness.",
+        "short_exact_anchor_if_recorded": "ただの親切心に決まってんだろ",
+        "basic_gloss": "Of course it's just kindness.",
+        "limit": "The narrator immediately shows the interested concealment; no pure-motive endorsement."
+      },
+      "native_context_window": {
+        "start_P": 264,
+        "end_P": 267,
+        "first_anchor_matches_within_window": [
+          266
+        ]
+      },
+      "independent_context_role_facts": "They identify his concealed motive for the washing detour while he claims pure helpfulness.",
+      "current_short_form": "ただの親切心に決まってんだろ",
+      "basic_gloss": "Of course it's just kindness.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: They identify his concealed motive for the washing detour while he claims pure helpfulness.",
+      "source_plane_and_adequacy_limit": "The narrator immediately shows the interested concealment; no pure-motive endorsement.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V045",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0294–0297",
+        "speaker_addressee": "Dust and Yunyun",
+        "context": "He invokes friendship to obtain release; she corrects the relationship and his pose.",
+        "short_exact_anchor_if_recorded": "友達じゃないです、知り合いです。",
+        "basic_gloss": "We're not friends; we're acquaintances.",
+        "limit": "Explicit present boundary; no inference of a secret contrary feeling."
+      },
+      "native_context_window": {
+        "start_P": 294,
+        "end_P": 297,
+        "first_anchor_matches_within_window": [
+          295
+        ]
+      },
+      "independent_context_role_facts": "He invokes friendship to obtain release; she corrects the relationship and his pose.",
+      "current_short_form": "友達じゃないです、知り合いです。",
+      "basic_gloss": "We're not friends; we're acquaintances.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "The friendship designation is explicitly corrected to acquaintance as a practical relationship boundary. Specific function: He invokes friendship to obtain release; she corrects the relationship and his pose.",
+      "source_plane_and_adequacy_limit": "Explicit present boundary; no inference of a secret contrary feeling.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V046",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0304–0315",
+        "speaker_addressee": "Dust to Yunyun",
+        "context": "A threat of dire consequences becomes a fabricated bodily-accident scenario and pursuit.",
+        "short_exact_anchor_if_recorded": "ダムが決壊して土砂崩れ",
+        "basic_gloss": "A dam bursting and a landslide.",
+        "limit": "An actual bodily metaphor in a coercive local exchange; no enacted accident."
+      },
+      "native_context_window": {
+        "start_P": 304,
+        "end_P": 315,
+        "first_anchor_matches_within_window": [
+          309
+        ]
+      },
+      "independent_context_role_facts": "A threat of dire consequences becomes a fabricated bodily-accident scenario and pursuit.",
+      "current_short_form": "ダムが決壊して土砂崩れ",
+      "basic_gloss": "A dam bursting and a landslide.",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Dam and landslide imagery gives the fabricated bodily threat its particular shape. Specific function: A threat of dire consequences becomes a fabricated bodily-accident scenario and pursuit.",
+      "source_plane_and_adequacy_limit": "An actual bodily metaphor in a coercive local exchange; no enacted accident.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V047",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0344–0348",
+        "speaker_addressee": "Dust and Yunyun",
+        "context": "He shifts from rough interruption to exaggerated politeness while her spell prepares; it is actually cast.",
+        "short_exact_anchor_if_recorded": "ゆんゆん様",
+        "basic_gloss": "Lady Yunyun.",
+        "limit": "Status register is tactical panic; Yunyun's internal reason for ignoring him is Dust's attribution."
+      },
+      "native_context_window": {
+        "start_P": 344,
+        "end_P": 348,
+        "first_anchor_matches_within_window": [
+          344
+        ]
+      },
+      "independent_context_role_facts": "He shifts from rough interruption to exaggerated politeness while her spell prepares; it is actually cast.",
+      "current_short_form": "ゆんゆん様",
+      "basic_gloss": "Lady Yunyun.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A sudden sama honorific and elaborate politeness attempt to stop a dangerous spell. Specific function: He shifts from rough interruption to exaggerated politeness while her spell prepares; it is actually cast.",
+      "source_plane_and_adequacy_limit": "Status register is tactical panic; Yunyun's internal reason for ignoring him is Dust's attribution.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V048",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0378–0381",
+        "speaker_addressee": "Dust and Claire",
+        "context": "Invoking Iris's presumed interest wins immediate unbinding.",
+        "short_exact_anchor_if_recorded": "縄を解いてやろうではないか",
+        "basic_gloss": "Then let us untie you.",
+        "limit": "Observed behavioral payoff from this specific appeal, not a hypothetical staging cue."
+      },
+      "native_context_window": {
+        "start_P": 378,
+        "end_P": 381,
+        "first_anchor_matches_within_window": [
+          379
+        ]
+      },
+      "independent_context_role_facts": "Invoking Iris's presumed interest wins immediate unbinding.",
+      "current_short_form": "縄を解いてやろうではないか",
+      "basic_gloss": "Then let us untie you.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Invoking Iris's presumed interest wins immediate unbinding.",
+      "source_plane_and_adequacy_limit": "Observed behavioral payoff from this specific appeal, not a hypothetical staging cue.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V049",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0474–0497",
+        "speaker_addressee": "Yunyun, Dust, Leen",
+        "context": "Bag-privacy protest and uncertain object recognition are dismissed; Leen declines, while activation precedes Yunyun's recall.",
+        "short_exact_anchor_if_recorded": "興味ないわ",
+        "basic_gloss": "I'm not interested.",
+        "limit": "Leen's refusal is respected as nonparticipation in activation; it does not explain all her silence."
+      },
+      "native_context_window": {
+        "start_P": 474,
+        "end_P": 497,
+        "first_anchor_matches_within_window": [
+          486
+        ]
+      },
+      "independent_context_role_facts": "Bag-privacy protest and uncertain object recognition are dismissed; Leen declines, while activation precedes Yunyun's recall.",
+      "current_short_form": "興味ないわ",
+      "basic_gloss": "I'm not interested.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Bag-privacy protest and uncertain object recognition are dismissed; Leen declines, while activation precedes Yunyun's recall.",
+      "source_plane_and_adequacy_limit": "Leen's refusal is respected as nonparticipation in activation; it does not explain all her silence.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V050",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0506–0518",
+        "speaker_addressee": "Yunyun explaining item; Claire viewing her projected past",
+        "context": "A supposedly friendship-deepening item reveals private hardship and a regretted first meeting.",
+        "short_exact_anchor_if_recorded": "猛省するばかりだ",
+        "basic_gloss": "I can only deeply regret it.",
+        "limit": "Mediated scene and present self-assessment retained separately; no item-based universal truth guarantee."
+      },
+      "native_context_window": {
+        "start_P": 506,
+        "end_P": 518,
+        "first_anchor_matches_within_window": [
+          518
+        ]
+      },
+      "independent_context_role_facts": "A supposedly friendship-deepening item reveals private hardship and a regretted first meeting.",
+      "current_short_form": "猛省するばかりだ",
+      "basic_gloss": "I can only deeply regret it.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: A supposedly friendship-deepening item reveals private hardship and a regretted first meeting.",
+      "source_plane_and_adequacy_limit": "Mediated scene and present self-assessment retained separately; no item-based universal truth guarantee.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V051",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0530–0549",
+        "speaker_addressee": "Projected Beldia; present Yunyun",
+        "context": "A demon general's housekeeping and forbearance lead Yunyun to shame over her rival's daily destruction.",
+        "short_exact_anchor_if_recorded": "ライバルとして恥ずかしくなってきました",
+        "basic_gloss": "I'm becoming ashamed as her rival.",
+        "limit": "Actual reaction to a mediated past scene; no new encounter with living Beldia."
+      },
+      "native_context_window": {
+        "start_P": 530,
+        "end_P": 549,
+        "first_anchor_matches_within_window": [
+          549
+        ]
+      },
+      "independent_context_role_facts": "A demon general's housekeeping and forbearance lead Yunyun to shame over her rival's daily destruction.",
+      "current_short_form": "ライバルとして恥ずかしくなってきました",
+      "basic_gloss": "I'm becoming ashamed as her rival.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: A demon general's housekeeping and forbearance lead Yunyun to shame over her rival's daily destruction.",
+      "source_plane_and_adequacy_limit": "Actual reaction to a mediated past scene; no new encounter with living Beldia.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V052",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0582–0586",
+        "speaker_addressee": "Dust, Claire, Rein, Yunyun",
+        "context": "After projected domestic destruction, Dust asks whether it helped military strategy; the guards decline comment and Yunyun struggles to defend Megumin.",
+        "short_exact_anchor_if_recorded": "ノーコメントで",
+        "basic_gloss": "No comment.",
+        "limit": "Present observers' response to mediated scenes; no independent retest of the original main-story combat."
+      },
+      "native_context_window": {
+        "start_P": 582,
+        "end_P": 586,
+        "first_anchor_matches_within_window": [
+          583
+        ]
+      },
+      "independent_context_role_facts": "After projected domestic destruction, Dust asks whether it helped military strategy; the guards decline comment and Yunyun struggles to defend Megumin.",
+      "current_short_form": "ノーコメントで",
+      "basic_gloss": "No comment.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A shared no-comment formula refuses the strategic evaluation the question requests. Specific function: After projected domestic destruction, Dust asks whether it helped military strategy; the guards decline comment and Yunyun struggles to defend Megumin.",
+      "source_plane_and_adequacy_limit": "Present observers' response to mediated scenes; no independent retest of the original main-story combat.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V053",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0631–0636",
+        "speaker_addressee": "Vanir and Dust",
+        "context": "A heroic welcome names the disappointment he engineered; Dust answers with familiar exasperation.",
+        "short_exact_anchor_if_recorded": "何やってんだ、旦那",
+        "basic_gloss": "What are you doing, boss?",
+        "limit": "Recognition undercuts the expected final encounter; no actual combat with Vanir here."
+      },
+      "native_context_window": {
+        "start_P": 631,
+        "end_P": 636,
+        "first_anchor_matches_within_window": [
+          633
+        ]
+      },
+      "independent_context_role_facts": "A heroic welcome names the disappointment he engineered; Dust answers with familiar exasperation.",
+      "current_short_form": "何やってんだ、旦那",
+      "basic_gloss": "What are you doing, boss?",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Familiar boss-address deflates the heroic welcome's assigned roles. Specific function: A heroic welcome names the disappointment he engineered; Dust answers with familiar exasperation.",
+      "source_plane_and_adequacy_limit": "Recognition undercuts the expected final encounter; no actual combat with Vanir here.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V054",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0679–0685",
+        "speaker_addressee": "Yunyun and Vanir",
+        "context": "An absolute refusal changes when sales language offers prospective friends.",
+        "short_exact_anchor_if_recorded": "と、友達……",
+        "basic_gloss": "F-friends…",
+        "limit": "A visible change in approach and interest, not proof of eventual friendships or a completed sale."
+      },
+      "native_context_window": {
+        "start_P": 679,
+        "end_P": 685,
+        "first_anchor_matches_within_window": [
+          683
+        ]
+      },
+      "independent_context_role_facts": "An absolute refusal changes when sales language offers prospective friends.",
+      "current_short_form": "と、友達……",
+      "basic_gloss": "F-friends…",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Stammered repetition of friends marks the immediate weakening of her refusal. Specific function: An absolute refusal changes when sales language offers prospective friends.",
+      "source_plane_and_adequacy_limit": "A visible change in approach and interest, not proof of eventual friendships or a completed sale.",
+      "current_additional_qualifications": [
+        "Initial future-unread limit is historical at that interval; later outcome is now read and retained in whole report, not backdated into initial note."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V055",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0695–0700",
+        "speaker_addressee": "Dust and Vanir privately",
+        "context": "Dust asks about actual bodily harm, doubts the dependence claim, and warns of backlash to the proposed stock destruction.",
+        "short_exact_anchor_if_recorded": "マジで人体に無害なんだよな？",
+        "basic_gloss": "It really is harmless to people, right?",
+        "limit": "A real safety check with interested provider assurance, not independent certification."
+      },
+      "native_context_window": {
+        "start_P": 695,
+        "end_P": 700,
+        "first_anchor_matches_within_window": [
+          695
+        ]
+      },
+      "independent_context_role_facts": "Dust asks about actual bodily harm, doubts the dependence claim, and warns of backlash to the proposed stock destruction.",
+      "current_short_form": "マジで人体に無害なんだよな？",
+      "basic_gloss": "It really is harmless to people, right?",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Dust asks about actual bodily harm, doubts the dependence claim, and warns of backlash to the proposed stock destruction.",
+      "source_plane_and_adequacy_limit": "A real safety check with interested provider assurance, not independent certification.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V056",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0743–0746",
+        "speaker_addressee": "Dust and Vanir",
+        "context": "A refusal to work turns into a familiar loyalty claim once privileged access is offered.",
+        "short_exact_anchor_if_recorded": "手伝うに決まってんだろ！",
+        "basic_gloss": "Of course I'll help!",
+        "limit": "Contract formed under an articulated incentive, not unconditional devotion."
+      },
+      "native_context_window": {
+        "start_P": 743,
+        "end_P": 746,
+        "first_anchor_matches_within_window": [
+          745
+        ]
+      },
+      "independent_context_role_facts": "A refusal to work turns into a familiar loyalty claim once privileged access is offered.",
+      "current_short_form": "手伝うに決まってんだろ！",
+      "basic_gloss": "Of course I'll help!",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Familiar loyalty language follows a changed access incentive, not an unchanged work preference. Specific function: A refusal to work turns into a familiar loyalty claim once privileged access is offered.",
+      "source_plane_and_adequacy_limit": "Contract formed under an articulated incentive, not unconditional devotion.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V057",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0793–0807",
+        "speaker_addressee": "Dust performing Rein to Claire",
+        "context": "He repairs the honorific and privately admires his own roleplay in what he assumes is a dream.",
+        "short_exact_anchor_if_recorded": "待ってください。クレア……様",
+        "basic_gloss": "Please wait, Claire… my lady.",
+        "limit": "An actual attempt at register imitation; dream status remains his untested explanation."
+      },
+      "native_context_window": {
+        "start_P": 793,
+        "end_P": 807,
+        "first_anchor_matches_within_window": [
+          793
+        ]
+      },
+      "independent_context_role_facts": "He repairs the honorific and privately admires his own roleplay in what he assumes is a dream.",
+      "current_short_form": "待ってください。クレア……様",
+      "basic_gloss": "Please wait, Claire… my lady.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "An added honorific monitors the attempt to perform Rein's role. Specific function: He repairs the honorific and privately admires his own roleplay in what he assumes is a dream.",
+      "source_plane_and_adequacy_limit": "An actual attempt at register imitation; dream status remains his untested explanation.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V058",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0856–0869",
+        "speaker_addressee": "Iris to Claire; Dust imitating Rein",
+        "context": "The prologue privacy request and Dust's rough-to-polite repair recur in the full sequence.",
+        "short_exact_anchor_if_recorded": "分かった……りました",
+        "basic_gloss": "Got it… understood, politely repaired.",
+        "limit": "Same event and wording as U010:P0029–0030, not another voice trial. Non-graphic critical account only."
+      },
+      "native_context_window": {
+        "start_P": 856,
+        "end_P": 869,
+        "first_anchor_matches_within_window": [
+          868
+        ]
+      },
+      "independent_context_role_facts": "The prologue privacy request and Dust's rough-to-polite repair recur in the full sequence.",
+      "current_short_form": "分かった……りました",
+      "basic_gloss": "Got it… understood, politely repaired.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "The same composite politeness repair is replayed; it remains one event with voice001. Specific function: The prologue privacy request and Dust's rough-to-polite repair recur in the full sequence.",
+      "source_plane_and_adequacy_limit": "Same event and wording as U010:P0029–0030, not another voice trial. Non-graphic critical account only.",
+      "current_additional_qualifications": [
+        "Same event as voice001/002 and opening U010; duplicated textual presentation, not another trial."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V059",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U013:P0899–0904",
+        "speaker_addressee": "Taylor reporting masked Dust's earlier speech; present Dust",
+        "context": "A reported feminine register gives an identity clue, but Dust demands repetition of the financially costly part.",
+        "short_exact_anchor_if_recorded": "そっちじゃねえよ。最後の方だ！",
+        "basic_gloss": "Not that part—the last bit!",
+        "limit": "Embedded reported speech and present reply are distinguished; no independent direct viewing of Rein's earlier decision."
+      },
+      "native_context_window": {
+        "start_P": 899,
+        "end_P": 904,
+        "first_anchor_matches_within_window": [
+          903
+        ]
+      },
+      "independent_context_role_facts": "A reported feminine register gives an identity clue, but Dust demands repetition of the financially costly part.",
+      "current_short_form": "そっちじゃねえよ。最後の方だ！",
+      "basic_gloss": "Not that part—the last bit!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: A reported feminine register gives an identity clue, but Dust demands repetition of the financially costly part.",
+      "source_plane_and_adequacy_limit": "Embedded reported speech and present reply are distinguished; no independent direct viewing of Rein's earlier decision.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V060",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0038–0040",
+        "speaker_addressee": "Rein and Megumin",
+        "context": "A wary question about Kazuma's presence receives an answer that he is busy idling asleep.",
+        "short_exact_anchor_if_recorded": "だらだら寝て過ごすのに忙しい",
+        "basic_gloss": "Busy spending the day lazily sleeping.",
+        "limit": "Local incongruous activity description; Kazuma's actual whereabouts are Megumin's report."
+      },
+      "native_context_window": {
+        "start_P": 38,
+        "end_P": 40,
+        "first_anchor_matches_within_window": [
+          39
+        ]
+      },
+      "independent_context_role_facts": "A wary question about Kazuma's presence receives an answer that he is busy idling asleep.",
+      "current_short_form": "だらだら寝て過ごすのに忙しい",
+      "basic_gloss": "Busy spending the day lazily sleeping.",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "Busy is paired with lazy sleeping in the same explanation, producing a lexical incongruity. Specific function: A wary question about Kazuma's presence receives an answer that he is busy idling asleep.",
+      "source_plane_and_adequacy_limit": "Local incongruous activity description; Kazuma's actual whereabouts are Megumin's report.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V061",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0050–0056",
+        "speaker_addressee": "Megumin, Yunyun, Rein",
+        "context": "Transparent denials of escape assistance are followed by a tactical postponement of questioning while requesting help.",
+        "short_exact_anchor_if_recorded": "めぐみんに脅されたりしてませんよ？",
+        "basic_gloss": "Megumin certainly hasn't threatened me, you know?",
+        "limit": "Reported denial gives away its own specific suspicion; no invented coercive act beyond the source."
+      },
+      "native_context_window": {
+        "start_P": 50,
+        "end_P": 56,
+        "first_anchor_matches_within_window": [
+          51
+        ]
+      },
+      "independent_context_role_facts": "Transparent denials of escape assistance are followed by a tactical postponement of questioning while requesting help.",
+      "current_short_form": "めぐみんに脅されたりしてませんよ？",
+      "basic_gloss": "Megumin certainly hasn't threatened me, you know?",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "An over-specific denial supplies the concealed suspicion, enabling the guards' implied leverage. Specific function: Transparent denials of escape assistance are followed by a tactical postponement of questioning while requesting help.",
+      "source_plane_and_adequacy_limit": "Reported denial gives away its own specific suspicion; no invented coercive act beyond the source.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V062",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0103–0114",
+        "speaker_addressee": "Iris privately; Dust observing without control",
+        "context": "Masked thief declaration and costume play precede a sober funding review.",
+        "short_exact_anchor_if_recorded": "私は王女としてやるべき事がありました",
+        "basic_gloss": "I have things I must do as princess.",
+        "limit": "Current private self-correction, not free abandonment of her role."
+      },
+      "native_context_window": {
+        "start_P": 103,
+        "end_P": 114,
+        "first_anchor_matches_within_window": [
+          111
+        ]
+      },
+      "independent_context_role_facts": "Masked thief declaration and costume play precede a sober funding review.",
+      "current_short_form": "私は王女としてやるべき事がありました",
+      "basic_gloss": "I have things I must do as princess.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Masked thief declaration and costume play precede a sober funding review.",
+      "source_plane_and_adequacy_limit": "Current private self-correction, not free abandonment of her role.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V063",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0185–0192",
+        "speaker_addressee": "Leen and Dust",
+        "context": "Competing treat/loan labels, harassment, an expected kiss and an actual eye-poke culminate in her invitation to help the worried girls.",
+        "short_exact_anchor_if_recorded": "本当は気になっているんじゃないの？",
+        "basic_gloss": "Aren't you actually concerned?",
+        "limit": "Leen's inference has supporting behavior but does not certify a pure motive or all private feelings."
+      },
+      "native_context_window": {
+        "start_P": 185,
+        "end_P": 192,
+        "first_anchor_matches_within_window": [
+          192
+        ]
+      },
+      "independent_context_role_facts": "Competing treat/loan labels, harassment, an expected kiss and an actual eye-poke culminate in her invitation to help the worried girls.",
+      "current_short_form": "本当は気になっているんじゃないの？",
+      "basic_gloss": "Aren't you actually concerned?",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Competing treat/loan labels, harassment, an expected kiss and an actual eye-poke culminate in her invitation to help the worried girls.",
+      "source_plane_and_adequacy_limit": "Leen's inference has supporting behavior but does not certify a pure motive or all private feelings.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V064",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0205–0207",
+        "speaker_addressee": "Leen and Dust",
+        "context": "Teleport loan terms meet a reassurance she transforms into a damaged ship analogy.",
+        "short_exact_anchor_if_recorded": "その船、老朽化して穴だらけでしょ",
+        "basic_gloss": "That ship is old and full of holes, isn't it?",
+        "limit": "Concrete metaphorical rebuttal; not literal maritime action."
+      },
+      "native_context_window": {
+        "start_P": 205,
+        "end_P": 207,
+        "first_anchor_matches_within_window": [
+          207
+        ]
+      },
+      "independent_context_role_facts": "Teleport loan terms meet a reassurance she transforms into a damaged ship analogy.",
+      "current_short_form": "その船、老朽化して穴だらけでしょ",
+      "basic_gloss": "That ship is old and full of holes, isn't it?",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "The same ship vehicle is extended from reassurance to decay and holes. Specific function: Teleport loan terms meet a reassurance she transforms into a damaged ship analogy.",
+      "source_plane_and_adequacy_limit": "Concrete metaphorical rebuttal; not literal maritime action.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V065",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0228–0229",
+        "speaker_addressee": "Megumin and Yunyun",
+        "context": "Megumin delegates threatening clan authority to Yunyun only when it is inconvenient.",
+        "short_exact_anchor_if_recorded": "そういう時だけ、私に譲るのやめてよ！",
+        "basic_gloss": "Stop handing it over to me only at times like this!",
+        "limit": "Yunyun recognizes selective delegation and rejects it; not generalized passivity."
+      },
+      "native_context_window": {
+        "start_P": 228,
+        "end_P": 229,
+        "first_anchor_matches_within_window": [
+          229
+        ]
+      },
+      "independent_context_role_facts": "Megumin delegates threatening clan authority to Yunyun only when it is inconvenient.",
+      "current_short_form": "そういう時だけ、私に譲るのやめてよ！",
+      "basic_gloss": "Stop handing it over to me only at times like this!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: Megumin delegates threatening clan authority to Yunyun only when it is inconvenient.",
+      "source_plane_and_adequacy_limit": "Yunyun recognizes selective delegation and rejects it; not generalized passivity.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V066",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0244–0257",
+        "speaker_addressee": "Dust and helmeted noble",
+        "context": "A strategically voiced invitation produces immediate, eager availability.",
+        "short_exact_anchor_if_recorded": "どんな頼み事でも引き受けますよ！",
+        "basic_gloss": "I'll accept any request!",
+        "limit": "Offer before specific task terms; later consent and costs still to be read."
+      },
+      "native_context_window": {
+        "start_P": 244,
+        "end_P": 257,
+        "first_anchor_matches_within_window": [
+          257
+        ]
+      },
+      "independent_context_role_facts": "A strategically voiced invitation produces immediate, eager availability.",
+      "current_short_form": "どんな頼み事でも引き受けますよ！",
+      "basic_gloss": "I'll accept any request!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: A strategically voiced invitation produces immediate, eager availability.",
+      "source_plane_and_adequacy_limit": "Offer before specific task terms; later consent and costs still to be read.",
+      "current_additional_qualifications": [
+        "Initial future-unread limit is historical at that interval; later outcome is now read and retained in whole report, not backdated into initial note."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V067",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0287–0290",
+        "speaker_addressee": "Claire and Rein",
+        "context": "A military division order is followed by Rein catching Claire walking toward the sales rumor rather than her stated target.",
+        "short_exact_anchor_if_recorded": "方向を間違えてしまったようだ",
+        "basic_gloss": "It seems I've mistaken the direction.",
+        "limit": "Excuse under a specific appetite cue, with narrator attribution; not a global loss of competence."
+      },
+      "native_context_window": {
+        "start_P": 287,
+        "end_P": 290,
+        "first_anchor_matches_within_window": [
+          289
+        ]
+      },
+      "independent_context_role_facts": "A military division order is followed by Rein catching Claire walking toward the sales rumor rather than her stated target.",
+      "current_short_form": "方向を間違えてしまったようだ",
+      "basic_gloss": "It seems I've mistaken the direction.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A direction-error explanation pragmatically covers the product-driven departure shown around it. Specific function: A military division order is followed by Rein catching Claire walking toward the sales rumor rather than her stated target.",
+      "source_plane_and_adequacy_limit": "Excuse under a specific appetite cue, with narrator attribution; not a global loss of competence.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V068",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0299–0313",
+        "speaker_addressee": "Dust, Claire, Rein",
+        "context": "Mention of Kazuma triggers panic; his added hood story stalls command decisions.",
+        "short_exact_anchor_if_recorded": "カズマ見なかったか？",
+        "basic_gloss": "Have you seen Kazuma?",
+        "limit": "A knowingly false situational implication, not Kazuma's actual presence."
+      },
+      "native_context_window": {
+        "start_P": 299,
+        "end_P": 313,
+        "first_anchor_matches_within_window": [
+          299
+        ]
+      },
+      "independent_context_role_facts": "Mention of Kazuma triggers panic; his added hood story stalls command decisions.",
+      "current_short_form": "カズマ見なかったか？",
+      "basic_gloss": "Have you seen Kazuma?",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "An apparently casual whereabouts question carries the knowingly false implication of Kazuma's presence. Specific function: Mention of Kazuma triggers panic; his added hood story stalls command decisions.",
+      "source_plane_and_adequacy_limit": "A knowingly false situational implication, not Kazuma's actual presence.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V069",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0330–0344",
+        "speaker_addressee": "Dust impersonating envoy to guards and staff",
+        "context": "Polite assistance offer and correct etiquette replace his earlier rough public identity.",
+        "short_exact_anchor_if_recorded": "何なりと仰ってください",
+        "basic_gloss": "Please tell me anything I can do.",
+        "limit": "Former training explicitly supports the performance; no exact spear vow disclosed."
+      },
+      "native_context_window": {
+        "start_P": 330,
+        "end_P": 344,
+        "first_anchor_matches_within_window": [
+          335
+        ]
+      },
+      "independent_context_role_facts": "Polite assistance offer and correct etiquette replace his earlier rough public identity.",
+      "current_short_form": "何なりと仰ってください",
+      "basic_gloss": "Please tell me anything I can do.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "Former formal training independently explains the envoy's address and correct response. Specific function: Polite assistance offer and correct etiquette replace his earlier rough public identity.",
+      "source_plane_and_adequacy_limit": "Former training explicitly supports the performance; no exact spear vow disclosed.",
+      "current_additional_qualifications": [
+        "No vow disclosed in that interval; U016:P0006 subsequently gives its wording. Interval chronology is preserved."
+      ],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V070",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "native_member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U014:P0359–0366",
+        "speaker_addressee": "Dust and Iris",
+        "context": "He offers a night outing, she checks consequences, then accepts a relayed friendship message.",
+        "short_exact_anchor_if_recorded": "よろしければ、夜の散歩はいかがですか？",
+        "basic_gloss": "If you wish, would you like a night stroll?",
+        "limit": "One accepted bounded outing; no implication of romantic consent, permanent escape, or solved war funding."
+      },
+      "native_context_window": {
+        "start_P": 359,
+        "end_P": 366,
+        "first_anchor_matches_within_window": [
+          359
+        ]
+      },
+      "independent_context_role_facts": "He offers a night outing, she checks consequences, then accepts a relayed friendship message.",
+      "current_short_form": "よろしければ、夜の散歩はいかがですか？",
+      "basic_gloss": "If you wish, would you like a night stroll?",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A trained formal invitation offers Iris a choice after concealment, with a separate explicit acceptance. Specific function: He offers a night outing, she checks consequences, then accepts a relayed friendship message.",
+      "source_plane_and_adequacy_limit": "One accepted bounded outing; no implication of romantic consent, permanent escape, or solved war funding.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V071",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U016",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "native_member_sha256": "d5038a1f6a1ec42b3241d54a1e5093f0159f0c16bbf61ab338029ab12cb68781",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U016:P0006–0007",
+        "speaker_addressee": "Earlier lady's speech quoted by Dust",
+        "context": "He recalls the exact spear-use restriction and tentatively evaluates the present outing.",
+        "short_exact_anchor_if_recorded": "本当に守りたい人のため以外には槍は使わず",
+        "basic_gloss": "Do not use the spear except for someone you truly want to protect.",
+        "limit": "One embedded recalled instruction with explicit lady-or-protected-person exceptions; no independent original-scene verification."
+      },
+      "native_context_window": {
+        "start_P": 6,
+        "end_P": 7,
+        "first_anchor_matches_within_window": [
+          6
+        ]
+      },
+      "independent_context_role_facts": "He recalls the exact spear-use restriction and tentatively evaluates the present outing.",
+      "current_short_form": "本当に守りたい人のため以外には槍は使わず",
+      "basic_gloss": "Do not use the spear except for someone you truly want to protect.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: He recalls the exact spear-use restriction and tentatively evaluates the present outing.",
+      "source_plane_and_adequacy_limit": "One embedded recalled instruction with explicit lady-or-protected-person exceptions; no independent original-scene verification.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V072",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U016",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "native_member_sha256": "d5038a1f6a1ec42b3241d54a1e5093f0159f0c16bbf61ab338029ab12cb68781",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U016:P0039–0044",
+        "speaker_addressee": "Leen and Dust",
+        "context": "She requests eventual disclosure and accepts postponement; he privately affirms intent without a date.",
+        "short_exact_anchor_if_recorded": "いつか話してくれるんだよね",
+        "basic_gloss": "You'll tell me someday, right?",
+        "limit": "Actual trust boundary and future commitment, not disclosure already received."
+      },
+      "native_context_window": {
+        "start_P": 39,
+        "end_P": 44,
+        "first_anchor_matches_within_window": [
+          39
+        ]
+      },
+      "independent_context_role_facts": "She requests eventual disclosure and accepts postponement; he privately affirms intent without a date.",
+      "current_short_form": "いつか話してくれるんだよね",
+      "basic_gloss": "You'll tell me someday, right?",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: She requests eventual disclosure and accepts postponement; he privately affirms intent without a date.",
+      "source_plane_and_adequacy_limit": "Actual trust boundary and future commitment, not disclosure already received.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V073",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U017",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "8c3caf31805b2a11e5dd93475f19a5082e9150906ee0a75cbb6cb7712419d4b4",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U017:P0017–0022",
+        "speaker_addressee": "Dust and Yunyun; Megumin and Iris overhearing",
+        "context": "His bar-destruction proposal draws a humanity rebuke and unexpectedly ends the quarrel.",
+        "short_exact_anchor_if_recorded": "人の心はないんですか！",
+        "basic_gloss": "Do you have no humanity!",
+        "limit": "Actual de-escalation does not erase the exploitative proposal or imply the bar was destroyed."
+      },
+      "native_context_window": {
+        "start_P": 17,
+        "end_P": 22,
+        "first_anchor_matches_within_window": [
+          20
+        ]
+      },
+      "independent_context_role_facts": "His bar-destruction proposal draws a humanity rebuke and unexpectedly ends the quarrel.",
+      "current_short_form": "人の心はないんですか！",
+      "basic_gloss": "Do you have no humanity!",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: His bar-destruction proposal draws a humanity rebuke and unexpectedly ends the quarrel.",
+      "source_plane_and_adequacy_limit": "Actual de-escalation does not erase the exploitative proposal or imply the bar was destroyed.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V074",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U017",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "8c3caf31805b2a11e5dd93475f19a5082e9150906ee0a75cbb6cb7712419d4b4",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U017:P0032–0039",
+        "speaker_addressee": "Iris and Dust",
+        "context": "She relays a verified mismatch with the real envoy through a polite indirect thanks.",
+        "short_exact_anchor_if_recorded": "これはただの独り言ですから",
+        "basic_gloss": "This is only me talking to myself.",
+        "limit": "Pragmatic cover for a directed message; no direct identity confession or certainty of all knowledge."
+      },
+      "native_context_window": {
+        "start_P": 32,
+        "end_P": 39,
+        "first_anchor_matches_within_window": [
+          36
+        ]
+      },
+      "independent_context_role_facts": "She relays a verified mismatch with the real envoy through a polite indirect thanks.",
+      "current_short_form": "これはただの独り言ですから",
+      "basic_gloss": "This is only me talking to myself.",
+      "current_L_class": "L2",
+      "form_and_function_warrant": "A purported soliloquy carries directed thanks while preserving an unconfessed identity. Specific function: She relays a verified mismatch with the real envoy through a polite indirect thanks.",
+      "source_plane_and_adequacy_limit": "Pragmatic cover for a directed message; no direct identity confession or certainty of all knowledge.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V075",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U018",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "native_member_sha256": "0f9c6e38430a8cbcc456011de072cf54d6bd24b565a0b366adbaab04541270c7",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U018:P0006",
+        "speaker_addressee": "Hirukuma to readers",
+        "context": "A self-confident appraisal of Iris's portrayal is followed by a worried parenthetical check.",
+        "short_exact_anchor_if_recorded": "大丈夫ですよね？",
+        "basic_gloss": "It's all right, isn't it?",
+        "limit": "Authorial paratext, not a fictional character voice or independent reader response."
+      },
+      "native_context_window": {
+        "start_P": 6,
+        "end_P": 6,
+        "first_anchor_matches_within_window": [
+          6
+        ]
+      },
+      "independent_context_role_facts": "A self-confident appraisal of Iris's portrayal is followed by a worried parenthetical check.",
+      "current_short_form": "大丈夫ですよね？",
+      "basic_gloss": "It's all right, isn't it?",
+      "current_L_class": "L1",
+      "form_and_function_warrant": "An anxious question follows the author's confident appraisal and revises its presentation. Specific function: A self-confident appraisal of Iris's portrayal is followed by a worried parenthetical check.",
+      "source_plane_and_adequacy_limit": "Authorial paratext, not a fictional character voice or independent reader response.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V076",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U020",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "f57bf4b1a89ea3610cbd5a416ba36546cb600c86f1a322bdb02065bc68df9224",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U020:P0007–0013",
+        "speaker_addressee": "Dust, Leen, Keith, Taylor",
+        "context": "He solicits praise for a routine obligation; Keith names the exact cliche he was trying to exploit.",
+        "short_exact_anchor_if_recorded": "当たり前の事を言っているだけじゃない",
+        "basic_gloss": "You're just saying something obvious.",
+        "limit": "Explicit recognition of a convention used as a social tactic, separate from the literal fantasy setting."
+      },
+      "native_context_window": {
+        "start_P": 7,
+        "end_P": 13,
+        "first_anchor_matches_within_window": [
+          9
+        ]
+      },
+      "independent_context_role_facts": "He solicits praise for a routine obligation; Keith names the exact cliche he was trying to exploit.",
+      "current_short_form": "当たり前の事を言っているだけじゃない",
+      "basic_gloss": "You're just saying something obvious.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: He solicits praise for a routine obligation; Keith names the exact cliche he was trying to exploit.",
+      "source_plane_and_adequacy_limit": "Explicit recognition of a convention used as a social tactic, separate from the literal fantasy setting.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    },
+    {
+      "id": "DUST03-V077",
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U020",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "f57bf4b1a89ea3610cbd5a416ba36546cb600c86f1a322bdb02065bc68df9224",
+      "initial_uncoded_witness_exact": {
+        "native_locator": "DUST-03-U020:P0039–0050",
+        "speaker_addressee": "Leen and Dust; later Kazuma and Darkness",
+        "context": "A proposed pre-action check changes Dust's plan, prompts real consultation and yields cancellation income.",
+        "short_exact_anchor_if_recorded": "ダチに話し通しておいた方がいいか",
+        "basic_gloss": "I should probably clear it with my friend.",
+        "limit": "An actual revision after contrary information; cancellation and fee are shown, not completed capture."
+      },
+      "native_context_window": {
+        "start_P": 39,
+        "end_P": 50,
+        "first_anchor_matches_within_window": [
+          44
+        ]
+      },
+      "independent_context_role_facts": "A proposed pre-action check changes Dust's plan, prompts real consultation and yields cancellation income.",
+      "current_short_form": "ダチに話し通しておいた方がいいか",
+      "basic_gloss": "I should probably clear it with my friend.",
+      "current_L_class": "L0",
+      "form_and_function_warrant": "The witness mainly establishes a portable proposition or observed decision; retaining its Japanese fragment does not make the mechanism form-dependent. Specific function: A proposed pre-action check changes Dust's plan, prompts real consultation and yields cancellation income.",
+      "source_plane_and_adequacy_limit": "An actual revision after contrary information; cancellation and fee are shown, not completed capture.",
+      "current_additional_qualifications": [],
+      "prospective_comparison_or_new_main_J01_trial": false,
+      "actual_form_selection": "Short fragment recorded during complete uncoded source reading; formal assignment only after seal. No independently frozen before/after experiment is claimed.",
+      "formal_assignment_after_seal_utc": "2026-10-18T06:12:46.797044+00:00",
+      "no_audio_or_native_human_claim": true
+    }
+  ]
+}

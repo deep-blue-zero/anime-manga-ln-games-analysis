@@ -1,0 +1,193 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "DUST-05",
+  "sealed_utc": "2026-10-18T08:23:51.136981+00:00",
+  "native_filename": "Konosuba Extra - Dust - Volume 05.epub",
+  "native_bytes": 6713820,
+  "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 19,
+  "actual_paragraph_slots": 2793,
+  "actual_unique_native_images_viewed": 21,
+  "unit_interval_verification": [
+    {
+      "component_id": "DUST-05-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "e43aeab2d7663493b32ab14d427d2f44555246adfb6b47dd7658370df0732204",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "1644c17b9855b7753516b835cbd24724a27ab2a0de7a32ad3f42877bece9271c",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "d4fa2cd14df74343ebad611211dbc196394bb9681731b5cc3326c4f289e3ed67",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "0641ab4b3d42effaf1ee0dc06b39792d28bbcc4c87270a55324b870a3d1e5fe6",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "0948aad73b2f03f4c6c15d2f1e97fda30b593d2a4b1fa7e05026a2b5c6815ab3",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U006",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "a695eec3a5357f2a948aab185eeddd6630c83ee8b7b42045d1f5983b52c95462",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U007",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "1bf1a83af1063332aed43a537d293c9d2efff17886291f41501684f0c401b9ab",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U008",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "f4ec3210e6d362be85574dc76337aa1aeb11edeb8413cbc634e2d493717dff46",
+      "paragraph_slots_actually_received": 8,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U009",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "e5dbac2d217fb9b5f39b4ef2f52a285b2412f482b3c0bc0eed4dfc4d38a8234a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U010",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+      "paragraph_slots_actually_received": 637,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "2596ed757bd3504ff02786ad487d930c85f0d9b1073afb3d2dade10ae51cce78",
+      "paragraph_slots_actually_received": 1344,
+      "intervals": 7,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "paragraph_slots_actually_received": 723,
+      "intervals": 4,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "538e785b0c9147349cda7ca89f90ba0e5119be31811216d8687bc4ed34474bbf",
+      "paragraph_slots_actually_received": 29,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "0b4cf7318f8e121aa27a1f38068f1c9ac62ed45679dff4a4dee9a92bebfa8013",
+      "paragraph_slots_actually_received": 25,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U015",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "sha256": "2515fbddfc51ef3b65ac48a20b13e10f50dd5f51c5a971c0feec9f10564cb1a0",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U016",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "c745f4311c290dd1b1c839e867db401ae0c2110e6897fa0778f31a9ee53f9c27",
+      "paragraph_slots_actually_received": 20,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U017",
+      "native_member": "item/xhtml/p-colophon2.xhtml",
+      "sha256": "312240a50ae7cbfe1bba14e2dd4c505a5a1353d50859332bf3604c87b6e4b92c",
+      "paragraph_slots_actually_received": 3,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U018",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "c865e1ab699a8f334f38ca80244e6385be120801b92316edf5d0df6ba22035ee",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-05-U019",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "a4d5e729334ebdb96ba320b3331e9df08b23e80653613cdc95fe23ffbbbed4fa",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 22661,
+      "sha256": "3dd630547b100a42948fdef7a05589c6158d4d50777098c7cd76ce9b991cf32b"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 7181,
+      "sha256": "50b19e64f6b9c5d7610b1da894173aa3c9df111d96cbce40812ee971b07fee61"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 130224,
+      "sha256": "57022869314d9bd9cd50d504be09163aa1efdf71ccfa4fe73684c16aac550134"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 19744,
+      "sha256": "89f7abf7b3bb153982db970a79f5e8585c16766e4af74f51eda434a16b535c3c"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim."
+}

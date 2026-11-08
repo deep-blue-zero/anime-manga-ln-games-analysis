@@ -1,0 +1,106 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Mutsuki",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_MUTSUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 4596,
+    "sha256": "b0f31edb4fc799f46f9ee405f56d055f71dded50bef5510f52946a439af6c6e5",
+    "git_blob_oid_of_actual_bytes": "1c8d8337229cd464848148f45ceeea408ab4ce16",
+    "lines": 66
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_MUTSUKI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "017a6b4219469fcc9eb42ecd96b7a2d3eda3cd6167267bf59d1782eda7cf6ef2",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 45,
+    "exact_unique_binding_pairs_verified": 97,
+    "fresh_complete_arguments_equal_main_and_c1": 3,
+    "reused_complete_arguments_equal_main_and_c1": 13,
+    "selected_private_objects_exact_verified": 27,
+    "saved_nonempty_lines_exact_verified": 114,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "frozen historical metadata probe; current staged controls are successors"
+      },
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "1dc2092095ed74ee743971f1f274b30cb291d939",
+        "purpose": "frozen historical metadata probe; current staged controls are successors"
+      },
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+        "ref": "1dc2092095ed74ee743971f1f274b30cb291d939",
+        "purpose": "frozen historical metadata probe; current staged controls are successors"
+      }
+    ],
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "c890bf lines1–96",
+        "1ffd1b lines97–197EOF"
+      ],
+      "whole_readable_receipt": "12509d all48linesEOF",
+      "source_scope_fields": [
+        "b115c5 all controls with arrays explicitly omitted",
+        "424900 all3 Japanese recovery bindings and scopes"
+      ],
+      "additional_complete_accepted_arguments": [
+        "bfe5cd private1–110 and7bdd75 private111–215EOF",
+        "3e16c9 wholegiftE81003873linesEOF",
+        "bd5340 wholeFinalC003E00939linesEOF"
+      ],
+      "limits": "Thirteen public reuses are attributed author whole-argument custody and prior ROOT accepted meanings, not freshly earned ROOT whole13. Three necessary canonical recoveries are author-attributed whole objects; ROOT receives their source scopes and accepted meanings, without new ROOT primary credit."
+    },
+    "semantic_grounds": [
+      "Long games, attentive breaks and drinks, seasonal food, collecting, objects, opera, inexpensive food and wanted conversation are intrinsic ends. No stakes, moral rehabilitation or crisis prerequisite governs their relevance.",
+      "Play is authored but never omniscient: exposed device/requester deception, her ignorance of adult bag intrusion, finite losses, rule objection and denial of wanting a repeated neck tactic survive.",
+      "Actual entrusted money and local hotel payment remain distinct from offscreen pursuit/profit reports, narration-form trust, donated-use options and unexecuted adult charity intention. Firm scarcity preference is adverse to a uniform loyal-welfare account.",
+      "Both participants may object and err. Adult peeking and denial, ema authorship, nuisance concerns and misleading chocolate terms remain critical alongside willing chair participation and her own halt of further escalation.",
+      "Peers and external recipients retain independent culture, work, refusal and safety. Apology, rescue, permission to remain seated and communication help are local positives, never compensation for all unpaid wages or institutional harm.",
+      "Source seams, conditional routes, written availability, narrative access, repeated UI and unreceived performance remain distinct; ordinary/NewYear/dress is no global growth chronology.51 numbered money-scene units and the older52 producer declaration are separately preserved, with no syntheticu52."
+    ],
+    "frozen_receipt_qualifications": [
+      "The frozen successor-report sentence naming Aru describes inherited PS68 reporting; ROOT applies the unchanged Mutsuki home, not an Aru person join.",
+      "Present-root probes correctly describe capture at1dc. Since the joint scope installation, they are historical exact probes checked at that Git revision; current355/29 controls govern canonical adoption."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Accepted355 successor; historical353 receipt bindings and1dc metadata capture remain qualified history; Mutsuki home unchanged",
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-MUTSUKI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+    "bytes": 44528,
+    "sha256": "7216a7d06b3ab9fc5a7db5769e92f1ed5032cf9c8e72fbec6e1c461d0746ab28",
+    "git_blob_oid_of_actual_bytes": "e0a28bf2f4044049b68f7f3621f1b766856c4d67"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Independent ROOT whole receiving and canonical adoption remain pending.",
+      "new": "ROOT independently received and accepted this complete bounded literary argument with limits; canonical persistence takes effect only after ROOT installation.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

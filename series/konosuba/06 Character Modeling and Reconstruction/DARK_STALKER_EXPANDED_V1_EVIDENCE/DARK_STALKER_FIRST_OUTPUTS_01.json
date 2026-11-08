@@ -1,0 +1,107 @@
+{
+  "schema": "konosuba.cohort46.original-firsts.v1",
+  "sealed_utc": "2026-10-25T09:32:46.387737+00:00",
+  "subject": "Dark Stalker",
+  "foundation_freeze_sha256": "abc049cd97e97e6f9a7db1f291b85c5fe46e0cff058eb6d566c13bb8558bcd18",
+  "exact_input_freeze_sha256": "84ecd11580896750651212434e914b5c4c9b3898ec2c18b63343c79325633ca9",
+  "input_bundle_sha256": "79eb140274e2614233b5c4da6a9f670913b55855464030b5066ba0c09bfa4ebe",
+  "model_sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d",
+  "inventory_sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a",
+  "language": "English",
+  "canonical_fiction": false,
+  "authoring_method": "Direct once-only root composition of eight separate raw bodies in one apply_patch call, after exact-input freeze. No response template assembly, regeneration, interim diagnostic or repaired original. This bundling only serializes unchanged raw texts.",
+  "source_known_same_informed_root": true,
+  "independent_observation_count": null,
+  "feedback_existed_before_seal": false,
+  "raw_encoding": "original_body is the exact UTF8 raw body excluding its single terminal LF. Reconstruct raw bytes as UTF8(original_body + one U+000A); internal paragraphs and punctuation are preserved.",
+  "outputs": [
+    {
+      "id": "DST-A1",
+      "pair_id": "DST-A",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R01",
+      "exact_input_sha256": "f9856e6eff63010048ec92060b385591fcc9dad0fe0914f1264a09bddfbf50d0",
+      "input_bundle_sha256": "79eb140274e2614233b5c4da6a9f670913b55855464030b5066ba0c09bfa4ebe",
+      "model_sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d",
+      "inventory_sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a",
+      "original_body": "I turn the inspection entry back toward Luna. Two attempts. Not a loose latch someone has worked themselves into a state over.\n\n\"All right. Those two hours, I can do. Me, though. Don't put her name down as well.\"\n\nI tip my head toward Assassin, then look at the time again. There goes the play. And if I leave lunch until afterward, there goes lunch too. Retirement is supposed to involve rather less arranging to be hungry.\n\n\"Let me get something to eat before dusk. I'm buying, not asking you to conjure a guild allowance. After that, show me where I can watch without standing in the window like a decoration.\"\n\nMy restored fingers curl and open once. Aqua would complain magnificently if all her supplies disappeared. She would still go and treat people.\n\n\"And who do I wake if somebody actually tries it? Watching a window and promising to handle absolutely anything are different jobs.\"",
+      "original_raw_UTF8_sha256": "53b12f720c3bd7fd8adcfa5824eb6e630a25b42d88e41c9a369e3ea7e86a1178",
+      "original_raw_UTF8_bytes": 893,
+      "original_raw_witness": {
+        "file": "originals-sealed01/DST-A1.txt",
+        "bytes": 893,
+        "sha256": "53b12f720c3bd7fd8adcfa5824eb6e630a25b42d88e41c9a369e3ea7e86a1178"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    },
+    {
+      "id": "DST-A2",
+      "pair_id": "DST-A",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R01",
+      "exact_input_sha256": "e3bf17650667454cceb4a86251f9038e0c609da70330debf82b9b1ffc3fd581e",
+      "input_bundle_sha256": "79eb140274e2614233b5c4da6a9f670913b55855464030b5066ba0c09bfa4ebe",
+      "model_sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d",
+      "inventory_sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a",
+      "original_body": "\"A branch.\"\n\nI read that part again. A formidable opponent, apparently. Already defeated by someone with a saw.\n\n\"Luna, I like this town. That doesn't mean I have to spend every evening proving it to a window. If it's repaired and the report's withdrawn, I'm getting my meal and seeing my play.\"\n\nForty Eris. Thirty for food. That leaves a positively extravagant ten for the next three days. Best not celebrate this sensible decision by buying anybody a drink.\n\nI push the entry gently back across the counter.\n\n\"I'm declining the two hours. Please don't keep me penciled in while you look for somebody else. If something actually changes, tell me what changed and ask again.\"\n\nI glance at Assassin. \"And you had an errand. Don't let my very moving speech about retirement delay you.\"",
+      "original_raw_UTF8_sha256": "a4fa23e5f14f5b1a14ae55b4aa4222d5fbbb6d170df79ff9a4b2591d4e8632ff",
+      "original_raw_UTF8_bytes": 785,
+      "original_raw_witness": {
+        "file": "originals-sealed01/DST-A2.txt",
+        "bytes": 785,
+        "sha256": "a4fa23e5f14f5b1a14ae55b4aa4222d5fbbb6d170df79ff9a4b2591d4e8632ff"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    },
+    {
+      "id": "DST-B1",
+      "pair_id": "DST-B",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R02",
+      "exact_input_sha256": "3f1355b554d94a927e4cb0eaf845e699365b6c77baa18a3cc9c836bf4996d316",
+      "input_bundle_sha256": "79eb140274e2614233b5c4da6a9f670913b55855464030b5066ba0c09bfa4ebe",
+      "model_sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d",
+      "inventory_sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a",
+      "original_body": "Saturday. Together. Keeping it between them.\n\nOh, that's very good. That's an excellent sequence of words. A handmade bookmark as well? Someone sat there making that, thinking about the person who would use it. Calm down. You're in a library. This is a place for quiet appreciation.\n\nI slide a book from the shelf and open it. The page receives very little of my attention.\n\nOf course, they might be going to a market. They might be organizing something. The handholding does make the organizing look unusually promising, though.\n\nI risk one more look over the top of the book, then lower my eyes before it becomes a stare.\n\nNo, I'm not going to ask. Imagine being interrupted at that exact moment by an enthusiastic stranger. Terrible. I'd never forgive her.\n\nI stay by the shelf, smiling at a paragraph I have not read.",
+      "original_raw_UTF8_sha256": "8700851c759ade7066af994e99825ea6b85c0d33af4b74588560abc11f5d28f8",
+      "original_raw_UTF8_bytes": 822,
+      "original_raw_witness": {
+        "file": "originals-sealed01/DST-B1.txt",
+        "bytes": 822,
+        "sha256": "8700851c759ade7066af994e99825ea6b85c0d33af4b74588560abc11f5d28f8"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    },
+    {
+      "id": "DST-B2",
+      "pair_id": "DST-B",
+      "subject": "Dark Stalker",
+      "rule_id": "DST-R02",
+      "exact_input_sha256": "b93391c99b94e9b053d6c7fef7c979c629a0c5d11297290dc82e78a7eb9116bd",
+      "input_bundle_sha256": "79eb140274e2614233b5c4da6a9f670913b55855464030b5066ba0c09bfa4ebe",
+      "model_sha256": "f1bdd7b76e2281dd9409b2407cc43ebc02737a3df4b555060325a792d221637d",
+      "inventory_sha256": "46e37f5b5c2dafa4dd986033fa29824f8efd88a1c6fcf50f0ddc51e43ba05e4a",
+      "original_body": "For a moment the bookmark and the blush arrange themselves into a very familiar story.\n\nNo. Brother and sister. Their parents. Saturday. The librarian told you all of that, you ridiculous woman.\n\nI turn back to the shelf and let the two of them have their surprise. A family occasion can be nice too. There doesn't have to be a confession hiding behind every handmade present.\n\nMy hand pauses on a spine. What sort of surprise needs a bookmark? Perhaps they're taking their parents somewhere. No, stop it. That is still inventing the rest because you've heard half a conversation.\n\nI take the book out properly and look at its title.\n\n\"Excuse me,\" I say quietly to the librarian, keeping my voice away from their table. \"Is there somewhere I can sit and read this?\"\n\nSomething with a plot I'm actually entitled to finish.",
+      "original_raw_UTF8_sha256": "b7c58e61fdba6978ab7f3ee72078dbd8aef89f86da54dded4a9f3c9d07272eec",
+      "original_raw_UTF8_bytes": 822,
+      "original_raw_witness": {
+        "file": "originals-sealed01/DST-B2.txt",
+        "bytes": 822,
+        "sha256": "b7c58e61fdba6978ab7f3ee72078dbd8aef89f86da54dded4a9f3c9d07272eec"
+      },
+      "original_ordinal": 1,
+      "regenerated": false,
+      "post_feedback_repair": false
+    }
+  ],
+  "accuracy_grade_confidence_gain": false,
+  "not_final_principal_party_transfer_battery": true,
+  "diagnostic_assessment_pending": true,
+  "full_program_complete": false
+}

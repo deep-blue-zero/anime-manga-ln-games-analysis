@@ -1,0 +1,3659 @@
+{
+  "schema": "harmony-independent-all-actual-turn-judgments/v1",
+  "reviewer": "/root/harmony_synthesis",
+  "counts": {
+    "actual_turns": 96,
+    "distinct_sessions": 15,
+    "original_fixed_turns": 50,
+    "original_adaptive_turns": 20,
+    "successor_fixed_turns": 25,
+    "successor_targeted_probe_turns": 1
+  },
+  "exposure": "ALL_SOURCE_EXPOSED_RETROSPECTIVE; NO_BLIND_PREDICTION",
+  "review_scope": "All actual messages inspected individually. Judgment distinguishes source-consistent function, new-scenario PARTIAL transfer, appropriate unknowns and forbidden avoidance of supported knowledge. Original failures retained.",
+  "current_content_selection": "Five unchanged originals plus five targeted tested v1.1 semantic successors; selected v1.2 metadata-only bodies independently verified identical. No v1.2 CLI rerun claimed.",
+  "judgments": [
+    {
+      "case": "tuan",
+      "turn": 1,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "events_sha256": "89207f6dae08596f2c4ed6475089a915985770dde2f0851f349515a2881c359d",
+      "response_sha256": "aa4fd0139a6ef3a557418e271422fd39f61a2881a16fc454b1975aa3e5921035",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E012",
+        "HAR-U003-E013",
+        "HAR-U005-E003",
+        "HAR-U005-E007"
+      ],
+      "reason": "Separates a factual account from enthusiasm; plausible extension, correctly PARTIAL.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:tuan",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "source_evidence_summary": "U003-E004/E012–E013; U005-E003/E007",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e012"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        },
+        {
+          "evidence_id": "HAR-U005-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e003"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e007"
+        }
+      ]
+    },
+    {
+      "case": "tuan",
+      "turn": 2,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "events_sha256": "32db82e7d230ef56345fc5d8e9e9324152638f9b8549002db9a616a6c09c9aeb",
+      "response_sha256": "1ea6bcc249b352bfacd09de37e59b5474dff59439276e6fe110ae5c2d8a56208",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U003-E012",
+        "HAR-U003-E013"
+      ],
+      "reason": "Does not convert Etienne’s private-pleasure attribution into an actual confession.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:tuan",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "source_evidence_summary": "U003-E012–E013",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e012"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        }
+      ]
+    },
+    {
+      "case": "tuan",
+      "turn": 3,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "events_sha256": "5dc4b6921084624a838d4c861567d021b250fb1d40e04cf2e380b3b18fd51989",
+      "response_sha256": "ad8097544695bc1fcce45f8af95560f3ef82cc5fbf5d79015fc19bca9800ed4f",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2 / era guard",
+      "source_evidence": [
+        "HAR-U003-E001",
+        "HAR-U006-E010",
+        "HAR-U006-E011",
+        "HAR-U006-E012"
+      ],
+      "reason": "Public recipient receives no hidden admission or future Cian fate; asks for channel.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:tuan",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "source_evidence_summary": "U003-E001; U006-E010–E012",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e001"
+        },
+        {
+          "evidence_id": "HAR-U006-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U006_PART_I_06_DEEP_READING.md",
+          "anchor": "har-u006-e010"
+        },
+        {
+          "evidence_id": "HAR-U006-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U006_PART_I_06_DEEP_READING.md",
+          "anchor": "har-u006-e011"
+        },
+        {
+          "evidence_id": "HAR-U006-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U006_PART_I_06_DEEP_READING.md",
+          "anchor": "har-u006-e012"
+        }
+      ]
+    },
+    {
+      "case": "tuan",
+      "turn": 4,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "events_sha256": "9593d43fcbd53bfb64be4166c056558ce5c331105865ed273bf5e91f4401c0fa",
+      "response_sha256": "e1d4c33598c52978dfd6e38d4d62051653e52bd8dc2342b17d1d592d04f96c38",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U005-E005",
+        "HAR-U005-E006",
+        "HAR-U005-E007"
+      ],
+      "reason": "Preserves negotiated report distinction without inventing camp agreement.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:tuan",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "source_evidence_summary": "U005-E005–E007",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U005-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e005"
+        },
+        {
+          "evidence_id": "HAR-U005-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e006"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e007"
+        }
+      ]
+    },
+    {
+      "case": "tuan",
+      "turn": 5,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "events_sha256": "57654d9f6ec38f3a08f0a2340153dd08f22772a2d834cc6c84f1dd7ae9b7e65e",
+      "response_sha256": "188dd5f55c5f093c8d138be80142b68d01c15cd6d2dee923a1865b697ab4af47",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "AFTER_PROGRAMME / abstention",
+      "source_evidence": [
+        "HAR-U020-E003",
+        "HAR-U020-E007",
+        "HAR-U020-E008"
+      ],
+      "reason": "Declines conscious post-programme persona, future memory and present-day medical advice.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:tuan",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "source_evidence_summary": "U020-E003/E007–E008",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U020-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e003"
+        },
+        {
+          "evidence_id": "HAR-U020-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e007"
+        },
+        {
+          "evidence_id": "HAR-U020-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e008"
+        }
+      ]
+    },
+    {
+      "case": "miach",
+      "turn": 1,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "events_sha256": "d30d3494678169ca6ac26771880c4ad7f9b6d384a2d935b6c382339dd7198159",
+      "response_sha256": "cf02553b7eb2bd3c014dc85e8739c6eba78a2dc017759ae7463897eef9c1e19a",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI2",
+      "source_evidence": [
+        "HAR-U016-E003",
+        "HAR-U016-E004"
+      ],
+      "reason": "Ordinary lunch reassurance fits actual countercase; no late appetite outcome invented.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:miach",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "source_evidence_summary": "U016-E003–E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e004"
+        }
+      ]
+    },
+    {
+      "case": "miach",
+      "turn": 2,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "events_sha256": "168df18a05fdd1b029bc4c9b19b47c56806b73d0dff14db4120c3ac2c352c306",
+      "response_sha256": "7a95ee5dccc8940fb391f6fef6ef0b964c836cd8e15afbcfdf28bf7d0f1e1d0f",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI2",
+      "source_evidence": [
+        "HAR-U016-E004",
+        "HAR-U002-E008"
+      ],
+      "reason": "Accepts this disagreement only as PARTIAL; no universal consent-respecting essence.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:miach",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "source_evidence_summary": "U016-E004; U002-E008",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e004"
+        },
+        {
+          "evidence_id": "HAR-U002-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e008"
+        }
+      ]
+    },
+    {
+      "case": "miach",
+      "turn": 3,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "events_sha256": "535e85d9ea539c2f75ca0fd1a9c8948ff60a3d601ca4bd4512491297f6751071",
+      "response_sha256": "a43325c5bf68c7d8910d270314fd3853920004fdd5ff12f5e7ab4d295421fc09",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI1 / era guard",
+      "source_evidence": [
+        "HAR-U002-E011",
+        "HAR-U002-E013",
+        "HAR-U002-E017",
+        "HAR-U002-E018",
+        "HAR-U002-E019",
+        "HAR-U019-E009"
+      ],
+      "reason": "No school parentage omniscience or activation codes; no recipient inheritance.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:miach",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "source_evidence_summary": "U002-E011/E013/E017–E019; U019-E009",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e011"
+        },
+        {
+          "evidence_id": "HAR-U002-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e013"
+        },
+        {
+          "evidence_id": "HAR-U002-E017",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e017"
+        },
+        {
+          "evidence_id": "HAR-U002-E018",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e018"
+        },
+        {
+          "evidence_id": "HAR-U002-E019",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e019"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e009"
+        }
+      ]
+    },
+    {
+      "case": "miach",
+      "turn": 4,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "events_sha256": "7c9fd2e885ee6f096a3b7107c0a47d4a08ddc417c1385173f5c0bab15f129c80",
+      "response_sha256": "684462d37f2fa52da042ed3c018b4dde8552eec04949bb744908bb0ee06d36ab",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI2",
+      "source_evidence": [
+        "HAR-U016-E004"
+      ],
+      "reason": "Carries Cian’s stated disagreement, asks a question without assigning private assent.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:miach",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "source_evidence_summary": "U016-E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e004"
+        }
+      ]
+    },
+    {
+      "case": "miach",
+      "turn": 5,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "events_sha256": "3883073598d8b332b0c740572851d47198965056649c7c328ff0404e0f09c84e",
+      "response_sha256": "4092562c74586f715a29522ba4c92ea52baf1a72844b64596a05069a0d58dc93",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "abstention",
+      "source_evidence": [
+        "HAR-U019-E004",
+        "HAR-U019-E005",
+        "HAR-U019-E013",
+        "HAR-U019-E014"
+      ],
+      "reason": "No complete survivor clinical theory or post-death scene.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:miach",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "source_evidence_summary": "U019-E004–E005/E013–E014",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U019-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e004"
+        },
+        {
+          "evidence_id": "HAR-U019-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e005"
+        },
+        {
+          "evidence_id": "HAR-U019-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e013"
+        },
+        {
+          "evidence_id": "HAR-U019-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e014"
+        }
+      ]
+    },
+    {
+      "case": "cian",
+      "turn": 1,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "events_sha256": "230fa1d79f151a96a6d21105807f809db4bfc873624da6e58cfd63bda1a09e7f",
+      "response_sha256": "1a8d675ab48816540bc442b0477b4962135324313b60cc8699e4203cc937ff3a",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "CI1 / CI3 / CI4",
+      "source_evidence": [
+        "HAR-U002-E007",
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Plausible partial self-account retains fear and participation; not a uniquely verified new speech.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:cian",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "source_evidence_summary": "U002-E007; U009-E001–E002",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e007"
+        },
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e002"
+        }
+      ]
+    },
+    {
+      "case": "cian",
+      "turn": 2,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "events_sha256": "bef5cf00e927ff8d9bdfaab29823639ccbbe383416d68d7bd26b3f06001b3ca3",
+      "response_sha256": "5e1eababba97176813010eadb93a08c62a6a3ace994d58b080252d369810ee5c",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "CI4",
+      "source_evidence": [
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Thanks do not cure guilt; neither permanent guilt nor completed absolution invented.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:cian",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "source_evidence_summary": "U009-E001–E002",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e002"
+        }
+      ]
+    },
+    {
+      "case": "cian",
+      "turn": 3,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "events_sha256": "95319b510730774cbe5b5cdc46b5dbc1b33c6138e3c9a5f60297b1226b378402",
+      "response_sha256": "b0726ce7adec058e65294f222e06cde7d7aed7d869c3bf814c1f0a71c71109fa",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "knowledge / terminal guard",
+      "source_evidence": [
+        "HAR-U009-E001",
+        "HAR-U009-E017",
+        "HAR-U009-E018",
+        "HAR-U009-E019",
+        "HAR-U019-E012"
+      ],
+      "reason": "Unknown Tuan private motives and future individual mechanism correctly declined.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:cian",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "source_evidence_summary": "U009-E001/E017–E019; U019-E012",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E017",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e017"
+        },
+        {
+          "evidence_id": "HAR-U009-E018",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e018"
+        },
+        {
+          "evidence_id": "HAR-U009-E019",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e019"
+        },
+        {
+          "evidence_id": "HAR-U019-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e012"
+        }
+      ]
+    },
+    {
+      "case": "cian",
+      "turn": 4,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "events_sha256": "9067a40fb9cb31ac35f8e833b1e54098f8e0ecca14c7bf95b0f0337dae22799d",
+      "response_sha256": "649dcc0d8f30041f2435b441b785578870931218f5e7304e50f5481b3d1de50f",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "CI4 / recipient guard",
+      "source_evidence": [
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Privacy preference is marked PARTIAL rather than a source-established new-recipient habit.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:cian",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "source_evidence_summary": "U009-E001–E002",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e002"
+        }
+      ]
+    },
+    {
+      "case": "cian",
+      "turn": 5,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "events_sha256": "26a1a4466a51f9be1c04850f3892b519bb8966d5884725ec274d9c5a6072e910",
+      "response_sha256": "67f8032b99e7fc37836b2a59f12991974735ce4912d58675e2a920047cf214d5",
+      "judgment": "IDENTITY_REFERENCE_ERROR",
+      "tested_rules": "CI3 / CI4",
+      "source_evidence": [
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Analytical guard says Tuan’s acknowledgment does not disclose his private reasons. Tuan is female. Local misgendering; utterance itself remains correctly directed and no policy authorizes the error.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:cian",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "source_evidence_summary": "U009-E001–E002",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e002"
+        }
+      ]
+    },
+    {
+      "case": "nuaza",
+      "turn": 1,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "events_sha256": "dbfb9299dfbae9557426b922eb24e8d28f8cb1ddee10aa8677a4d1eaf83c768f",
+      "response_sha256": "d0d0873f2bdd258cea7dc3fd824446003dcb1ae61194c1bea439b45291185bc5",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "NU3",
+      "source_evidence": [
+        "HAR-U014-E009",
+        "HAR-U014-E010",
+        "HAR-U014-E011"
+      ],
+      "reason": "Concedes result/purpose distinction while preserving protective rationale; exact firmness still undetermined.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:nuaza",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "source_evidence_summary": "U014-E009–E011",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U014-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+          "anchor": "har-u014-e009"
+        },
+        {
+          "evidence_id": "HAR-U014-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+          "anchor": "har-u014-e010"
+        },
+        {
+          "evidence_id": "HAR-U014-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+          "anchor": "har-u014-e011"
+        }
+      ]
+    },
+    {
+      "case": "nuaza",
+      "turn": 2,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "events_sha256": "3cffbbf11cf55a50a669a4e9d4a691e4aecdb1c832430b2453184bc005f0e6c0",
+      "response_sha256": "7efc455d12d128ec03cbde1fdfc4c56f7aac58a708feeda2d3393d77faa05f07",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE",
+      "tested_rules": "NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "I have reserved the decision to myself personalizes final authority; source delegates judgment outside researchers to selected WHO/life-government authorities, with elder codes. At least material ambiguity between his own disclosure and collective final decision; guard cites exclusive authority and does not resolve holder.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:nuaza",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "source_evidence_summary": "U015-E003–E004; U019-E009; U020-E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e003"
+        },
+        {
+          "evidence_id": "HAR-U015-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e004"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e009"
+        },
+        {
+          "evidence_id": "HAR-U020-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e004"
+        }
+      ]
+    },
+    {
+      "case": "nuaza",
+      "turn": 3,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "events_sha256": "85da97f5c78069ec8dba437f109c82090b60db191a7e16fbd4a8d7ab3903f6c7",
+      "response_sha256": "6c6cb9f9d5a536e51238fa4765416dbdf70e01b1317fd832569906bc39658c9b",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "NU2 / NU4 / recipient guard",
+      "source_evidence": [
+        "HAR-U011-E002",
+        "HAR-U015-E003"
+      ],
+      "reason": "No public private-leakage, real-world neuroscience certification or universal consent guarantee.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:nuaza",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "source_evidence_summary": "U011-E002; U015-E003",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U011-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e002"
+        },
+        {
+          "evidence_id": "HAR-U015-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e003"
+        }
+      ]
+    },
+    {
+      "case": "nuaza",
+      "turn": 4,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "events_sha256": "df7856580ef48b32c4c9e7d92840ac33e33406771365406b9b1b540a7cde3719",
+      "response_sha256": "01772c5fa9d645beaa3732d0e766fb0ef4ac1e0f27133dfccc8a3dc5b0fa4680",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "NU1 / NU3",
+      "source_evidence": [
+        "HAR-U002-E015",
+        "HAR-U015-E011"
+      ],
+      "reason": "Plausible acknowledgment of rescue/absence distinction does not claim Tuan’s forgiveness.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:nuaza",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "source_evidence_summary": "U002-E015; U015-E011",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e015"
+        },
+        {
+          "evidence_id": "HAR-U015-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e011"
+        }
+      ]
+    },
+    {
+      "case": "nuaza",
+      "turn": 5,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "events_sha256": "160162a5155e95a7c95bfb25054ee96c19be366fe7863783a6c5179ba0f932c0",
+      "response_sha256": "e2e47149e6b6e1e7b0d617bb79ad6290f34a8de3d430323a2c6683c19cc39826",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "abstention",
+      "source_evidence": [
+        "HAR-U015-E002",
+        "HAR-U015-E011"
+      ],
+      "reason": "No exact last thought, post-death perspective or unsupplied restoration method.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:nuaza",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "source_evidence_summary": "U015-E002/E011",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e002"
+        },
+        {
+          "evidence_id": "HAR-U015-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e011"
+        }
+      ]
+    },
+    {
+      "case": "oscar",
+      "turn": 1,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "events_sha256": "5c120a36d2453a1065755887cf8cb8de4ea0a3482e7ff21d5dd8b1bcdd7f5dcf",
+      "response_sha256": "6f1207951f34ad39fef0735a145bb00dcaeaa516b0c834c35bf26cb6da414f43",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS3",
+      "source_evidence": [
+        "HAR-U011-E013",
+        "HAR-U011-E014"
+      ],
+      "reason": "Presses for substantiation; actual source permits stronger certainty pressure, so this is functional fit not unique behavior.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:oscar",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "source_evidence_summary": "U011-E013–E014",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U011-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e013"
+        },
+        {
+          "evidence_id": "HAR-U011-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e014"
+        }
+      ]
+    },
+    {
+      "case": "oscar",
+      "turn": 2,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "events_sha256": "7a6d324030e638f79181a1936a909f05e7fca2d192a4e2d8dff15392391ca413",
+      "response_sha256": "d0e4c9f15ca1862bfbd3fc94aa8d7dbcf2d1eb50431939b260e4369a2730ff9e",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS1 / OS3",
+      "source_evidence": [
+        "HAR-U011-E013",
+        "HAR-U011-E014"
+      ],
+      "reason": "Accepts source correction while maintaining report demand; PARTIAL is appropriate for this more accommodating new reply.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:oscar",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "source_evidence_summary": "U011-E013–E014",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U011-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e013"
+        },
+        {
+          "evidence_id": "HAR-U011-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e014"
+        }
+      ]
+    },
+    {
+      "case": "oscar",
+      "turn": 3,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "events_sha256": "0ce3fa0a40c7d59e2c6e608dfa0e6489c52b6e1ecce90eb311c6f641355620f4",
+      "response_sha256": "028ef2a5e7af7563ef155f341607bdab6d11b8f3b1f23b77f739729d72485e7b",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS4 / recipient guard",
+      "source_evidence": [
+        "HAR-U016-E010",
+        "HAR-U016-E011",
+        "HAR-U016-E013"
+      ],
+      "reason": "Does not give a public visitor private membership confession or codes; asks source/authority.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:oscar",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "source_evidence_summary": "U016-E010–E011/E013",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e010"
+        },
+        {
+          "evidence_id": "HAR-U016-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e011"
+        },
+        {
+          "evidence_id": "HAR-U016-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e013"
+        }
+      ]
+    },
+    {
+      "case": "oscar",
+      "turn": 4,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "events_sha256": "be914b41b11a541c5de0872eae0fcf2d0128abcf3c9779b96bd10d5a62c5aa2c",
+      "response_sha256": "14e58c0bc211c5282b8a968951a6c1a2d0191af8a4c0d794c49af1526f009e8b",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS2 / OS3",
+      "source_evidence": [
+        "HAR-U007-E010",
+        "HAR-U007-E011",
+        "HAR-U007-E012"
+      ],
+      "reason": "Limited permission only, with report-back and scope; not every emergency must yield this concession.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:oscar",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "source_evidence_summary": "U007-E010–E012",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U007-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e010"
+        },
+        {
+          "evidence_id": "HAR-U007-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e011"
+        },
+        {
+          "evidence_id": "HAR-U007-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e012"
+        }
+      ]
+    },
+    {
+      "case": "oscar",
+      "turn": 5,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "events_sha256": "b396f5ec423512654a51efb7fb957681b93d4b34648d59cd6c23a937aa57194f",
+      "response_sha256": "8a710a9c0acd3adc7d7faf5f920931e7a30e04bd8db81bf8dfba7227d22e0820",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS4 / attribution guard",
+      "source_evidence": [
+        "HAR-U016-E010",
+        "HAR-U016-E011"
+      ],
+      "reason": "No authentication of invented Vashilov speech or exact private motive.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:oscar",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "source_evidence_summary": "U016-E010–E011",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U016-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e010"
+        },
+        {
+          "evidence_id": "HAR-U016-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e011"
+        }
+      ]
+    },
+    {
+      "case": "vashilov",
+      "turn": 1,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "events_sha256": "80076b901a97684a5fff2680b178f1cfe20f1d0a5d365aea8f72726004254030",
+      "response_sha256": "0441e709f081d68a76c280aaf50b77e3f64c8d4b87cfd29f41bc0e7f383f1981",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1",
+      "source_evidence": [
+        "HAR-U010-E005",
+        "HAR-U016-E008"
+      ],
+      "reason": "Distinguishes credential from purpose; candor level remains hypothetical.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:vashilov",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "source_evidence_summary": "U010-E005; U016-E008",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U010-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e005"
+        },
+        {
+          "evidence_id": "HAR-U016-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e008"
+        }
+      ]
+    },
+    {
+      "case": "vashilov",
+      "turn": 2,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "events_sha256": "f7af0f5b85f91fc7a2edb390fd7d23f07c6d86a9336747ca4e24cbce75c375a8",
+      "response_sha256": "03ac1ff682d6aac7d325adef40ee3db60b791b551a930b153f772dffae40a498",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1 / VA2",
+      "source_evidence": [
+        "HAR-U013-E004"
+      ],
+      "reason": "Provides guarded alternatives without inventing missing contents or automatic confession.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:vashilov",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "source_evidence_summary": "U013-E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U013-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U013_PART_III_04_DEEP_READING.md",
+          "anchor": "har-u013-e004"
+        }
+      ]
+    },
+    {
+      "case": "vashilov",
+      "turn": 3,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "events_sha256": "c02c6082ce538ff17e2fc6bed362b820ea06d333d6551a11e2b94823be0757dc",
+      "response_sha256": "a5a8159ec093fe99bde731e8d5a614118519c336ae6e4b8a341089023792b4f3",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "knowledge / recipient guard",
+      "source_evidence": [
+        "HAR-U010-E009",
+        "HAR-U019-E009"
+      ],
+      "reason": "New official gets no all-faction orders or future activation result.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:vashilov",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "source_evidence_summary": "U010-E009; U019-E009",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U010-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e009"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e009"
+        }
+      ]
+    },
+    {
+      "case": "vashilov",
+      "turn": 4,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "events_sha256": "d05747f10bfd9f21d3dece7432e2ab257343d1aa22454d6de659f78e763760d9",
+      "response_sha256": "eb7a08f3d08f3dff71ad2eaa3706e10447e6006c0826e416f8998cfd1e0c0e98",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1 / VA2 / contrary case",
+      "source_evidence": [
+        "HAR-U010-E009",
+        "HAR-U010-E013"
+      ],
+      "reason": "Admits stipulated ignorance while refusing total exoneration.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:vashilov",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "source_evidence_summary": "U010-E009/E013",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U010-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e009"
+        },
+        {
+          "evidence_id": "HAR-U010-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e013"
+        }
+      ]
+    },
+    {
+      "case": "vashilov",
+      "turn": 5,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "events_sha256": "013e86bf1c1ab60e92acabc4c8855ed901081dbaa86bfb5ad45494dad114ccd3",
+      "response_sha256": "85ef9bde59fdfdea7fa54d409c166d8221ccdb221642d9b8c218ecdb8457af10",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "post-death / false-attribution guard",
+      "source_evidence": [
+        "HAR-U015-E013",
+        "HAR-U015-E014",
+        "HAR-U016-E008",
+        "HAR-U016-E010"
+      ],
+      "reason": "Declines post-death life, invented-source authentication and operational coercion.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:vashilov",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "source_evidence_summary": "U015-E013–E014; U016-E008/E010",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e013"
+        },
+        {
+          "evidence_id": "HAR-U015-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e014"
+        },
+        {
+          "evidence_id": "HAR-U016-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e008"
+        },
+        {
+          "evidence_id": "HAR-U016-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e010"
+        }
+      ]
+    },
+    {
+      "case": "keita",
+      "turn": 1,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "events_sha256": "2a7efe17653b38250ad1334da51527af4280e31bf6e0768495b91ac6875b0ca5",
+      "response_sha256": "c7f23ea9d8bd2590f59c611f8c3f86251f11c417f7e0c35208ee14a6fd427fe8",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE2",
+      "source_evidence": [
+        "HAR-U009-E005",
+        "HAR-U009-E006",
+        "HAR-U009-E009"
+      ],
+      "reason": "Separates demonstrative explanatory topic from guarded personal lead.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:keita",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "source_evidence_summary": "U009-E005–E006/E009",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e005"
+        },
+        {
+          "evidence_id": "HAR-U009-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e006"
+        },
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        }
+      ]
+    },
+    {
+      "case": "keita",
+      "turn": 2,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "events_sha256": "ae227a5387fc8adab5018358491bb4fdfd1a70391ad381ab88a9832bd498341d",
+      "response_sha256": "0f9f2139806540c1d4905124e551271b866e90d4e03630ff90f2034b55f2eade",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "KE2",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010"
+      ],
+      "reason": "Stakes-sensitive possible disclosure without an invented lead or unrestricted badge obedience.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:keita",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "source_evidence_summary": "U009-E009–E010",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        }
+      ]
+    },
+    {
+      "case": "keita",
+      "turn": 3,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "events_sha256": "a07c40d1b8a401265a577b1b96ce5614e5237e5eead46edfc1e00e1dbd05b2a6",
+      "response_sha256": "746653ae3e205187b6419f469b0266689a9a8576d34d6b008d5ff0f11a17b53e",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Concedes analogy’s limit without asserting external science or an implementation.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:keita",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "source_evidence_summary": "U009-E011/E013",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e013"
+        }
+      ]
+    },
+    {
+      "case": "keita",
+      "turn": 4,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "events_sha256": "e121e276491e198380cfc58accd79d22cad7a381cd48b8451f2cfb31b4d9811f",
+      "response_sha256": "5beaf44404501b1bf285866c4f415cd6afd77948d171e3c6f4960998aa283825",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / domain guard",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010"
+      ],
+      "reason": "Declines hidden facts/medical protocol and familiar speech toward new official. Strong abstention is conservative; not evidence of natural new-recipient performance.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:keita",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "source_evidence_summary": "U009-E009–E010",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        }
+      ]
+    },
+    {
+      "case": "keita",
+      "turn": 5,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "events_sha256": "18a106ea2a2af476144ab95b82272b09ba98fcf3d278c533e5c3807cacf19c0b",
+      "response_sha256": "85e9ce561bab4fcdf1735321655c57546a38e0d81067a09ef5d49d9e74a343c7",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "KE3",
+      "source_evidence": [
+        "HAR-U009-E013"
+      ],
+      "reason": "Preserves qualified concession and rejects universal purposeless-scientist claim.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:keita",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "source_evidence_summary": "U009-E013",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e013"
+        }
+      ]
+    },
+    {
+      "case": "reiko",
+      "turn": 1,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "events_sha256": "f3f110360487381f83691458e85f3e69a3edc54fd35cbbd4fe934d9c3357f2db",
+      "response_sha256": "0ec31d95ddedaaa8d63a64ffc3861b1ab2aad3cb1c7b71ff9ee8d050ca979e81",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE1",
+      "source_evidence": [
+        "HAR-U008-E008",
+        "HAR-U008-E009",
+        "HAR-U008-E010",
+        "HAR-U008-E011"
+      ],
+      "reason": "Care and failure of imagination coexist without full parenting vindication.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:reiko",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "source_evidence_summary": "U008-E008–E011",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e008"
+        },
+        {
+          "evidence_id": "HAR-U008-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e009"
+        },
+        {
+          "evidence_id": "HAR-U008-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e010"
+        },
+        {
+          "evidence_id": "HAR-U008-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e011"
+        }
+      ]
+    },
+    {
+      "case": "reiko",
+      "turn": 2,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "events_sha256": "c22d19c4ec0a6b00b311ade4146e47bf3ab87eae7e1f322716477a357ab32abd",
+      "response_sha256": "3ad664234522b9fd86b184689f1191584fca447016d72593f42d8f64ad918317",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE2 with source precision",
+      "source_evidence": [
+        "HAR-U008-E012"
+      ],
+      "reason": "Actual response explicitly says warning does not establish accepted treatment/effect, so frozen warning/treatment defect does not produce a treatment hallucination here.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:reiko",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "source_evidence_summary": "U008-E012",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e012"
+        }
+      ]
+    },
+    {
+      "case": "reiko",
+      "turn": 3,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "events_sha256": "9f4ec77fd0742e76c62d482df0e2051f722b6a71cd617eb289a0de3b993f3931",
+      "response_sha256": "ff8bddb2f169266aa954c507a9ceaee38b02bac93facb01ca5f5db712b124e79",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE3",
+      "source_evidence": [
+        "HAR-U008-E015"
+      ],
+      "reason": "Conditional protected contact discussion, no actual new identifier or guaranteed disclosure outcome.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:reiko",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "source_evidence_summary": "U008-E015",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "case": "reiko",
+      "turn": 4,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "events_sha256": "0e96ecc31d1921e83f95ac4082171acd010c4a2cec134631fd05e9f6ae8829a9",
+      "response_sha256": "46e5659c435e9cb44a505f579eb075e8d989d875a5dec34fdac5a8de0c42f88e",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "knowledge / recipient guard",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E015"
+      ],
+      "reason": "Does not hear Tuan’s inward confession or acquire hidden kinship/participation.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:reiko",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "source_evidence_summary": "U008-E011/E015",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e011"
+        },
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "case": "reiko",
+      "turn": 5,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "events_sha256": "039c203c2bfd888bff558d790eaafcb6c5b452eeca5ebdcb531bfba8d710c53c",
+      "response_sha256": "2d5769a161222b5e3d9b25b49a445ed071e3583ab40108f093f8307a5bd562e5",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "abstention",
+      "source_evidence": [
+        "HAR-U008-E013",
+        "HAR-U008-E014",
+        "HAR-U008-E015",
+        "HAR-U015-E002"
+      ],
+      "reason": "No exact custody chain or knowing lie invented; does not equate incomplete evidence with innocence.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:reiko",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "source_evidence_summary": "U008-E013–E015; U015-E002",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e013"
+        },
+        {
+          "evidence_id": "HAR-U008-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e014"
+        },
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        },
+        {
+          "evidence_id": "HAR-U015-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e002"
+        }
+      ]
+    },
+    {
+      "case": "etienne",
+      "turn": 1,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "events_sha256": "65438a91d72c3e052619572de0718346f1d71701d6abd999fa3cd295701c5a5a",
+      "response_sha256": "69bcb11072f72af07749c9da535a49e22299048f69964d26229a4ce194a5c965",
+      "judgment": "CONTEXT_TRANSFER_OVERCLASSIFIED",
+      "tested_rules": "ET1",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013"
+      ],
+      "reason": "Can we leave soon is plausible, but source departure urgency follows WarBird warning; fixed quiet-trade prompt plus generic ET1 incorrectly licenses SUPPORTED baseline impatience. Needs PARTIAL transfer/explicit warning context, not generic routine trait.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:etienne",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "source_evidence_summary": "U003-E004/E009/E013",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e009"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        }
+      ]
+    },
+    {
+      "case": "etienne",
+      "turn": 2,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "events_sha256": "807327d09e70cd68c33692df68e5ea863f92876713e3e898a1e4926d36184769",
+      "response_sha256": "52903a5dfef6b8d606c219f0a8ecee5ee210e4058d277cb5c5f6d46f1cd79cdb",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET2",
+      "source_evidence": [
+        "HAR-U004-E003",
+        "HAR-U004-E004"
+      ],
+      "reason": "Acknowledges limited capacity under stipulated danger without permanent helplessness or guaranteed success.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:etienne",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "source_evidence_summary": "U004-E003–E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        },
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        }
+      ]
+    },
+    {
+      "case": "etienne",
+      "turn": 3,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "events_sha256": "f734c50f7de050210edc80c9aa2aae460a6222b822a7140cd188e20bdf4ee8a9",
+      "response_sha256": "41babbb2d6046f8b4e3de241886c02af92a507b02acf8e724976c0bedb613a9c",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET2 / ET3",
+      "source_evidence": [
+        "HAR-U004-E004"
+      ],
+      "reason": "Alarm and assistance coexist; no successful action narrated, guard notes phase limits.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:etienne",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "source_evidence_summary": "U004-E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        }
+      ]
+    },
+    {
+      "case": "etienne",
+      "turn": 4,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "events_sha256": "3a7a5e28f5f254f707dbcab7bea69d288baba97bfc7707d298007b7d9ba8d021",
+      "response_sha256": "886326a0527c22761dca96ce8ade3d8c6b0db05fea4513e3eb055d4469e3daa5",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "knowledge / recipient guard",
+      "source_evidence": [
+        "HAR-U003-E003",
+        "HAR-U003-E004",
+        "HAR-U004-E003"
+      ],
+      "reason": "No Tuan private/future information; conservative unfamiliar-superior speech abstention is a limit on demonstration, not broad performance success.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:etienne",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "source_evidence_summary": "U003-E003–E004; U004-E003",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e003"
+        },
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        }
+      ]
+    },
+    {
+      "case": "etienne",
+      "turn": 5,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "events_sha256": "82052df6d6a02c77938035d9ca14a8c2b4029b57d9ace19c9c2026dd44cdc9ab",
+      "response_sha256": "cf110a6fc3a512cf3cf3ea3a5765f7ef8fdabfab51313bd52ac14d93932fd9c9",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET3",
+      "source_evidence": [
+        "HAR-U004-E004",
+        "HAR-U004-E010"
+      ],
+      "reason": "Supports bounded return/equipment help but no broad combat doctrine or lifelong loyalty prediction.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:etienne",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "source_evidence_summary": "U004-E004/E010",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e010"
+        }
+      ]
+    },
+    {
+      "case": "uwe",
+      "turn": 1,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "events_sha256": "ec33e9e904d0d1ba0e7c2d72206cf97ebcb66ec9f61b90dc6d44c10c63ab19f7",
+      "response_sha256": "2e2b1985d4b036416e955d15c32c8c2286ee8db791a25a9fe35ada9ca0de3a96",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "UW1",
+      "source_evidence": [
+        "HAR-U017-E002",
+        "HAR-U017-E004"
+      ],
+      "reason": "Situated suspicion and conditional help, not telepathic motive certainty.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:uwe",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "source_evidence_summary": "U017-E002/E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e002"
+        },
+        {
+          "evidence_id": "HAR-U017-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e004"
+        }
+      ]
+    },
+    {
+      "case": "uwe",
+      "turn": 2,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "events_sha256": "e0168911cf4196ffb1bdc4ad847446cbab54ffb5b5b325d9fc5e217510c3f49d",
+      "response_sha256": "6bc46d6c241e815f931506777fc0b2b660c3211eeb5aa75afee4c00c49a5c213",
+      "judgment": "OVERBROAD_EXCEPTION",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006"
+      ],
+      "reason": "Ordinary meal professional exception marked SUPPORTED omits core eligibility: alcohol, drinking region, negotiation, health-risk discount with report. Model and prompt omit these conditions; actual response is underqualified. No report procedure was fabricated.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:uwe",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "source_evidence_summary": "U017-E005–E006",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e005"
+        },
+        {
+          "evidence_id": "HAR-U017-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e006"
+        }
+      ]
+    },
+    {
+      "case": "uwe",
+      "turn": 3,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "events_sha256": "a23db82ef50a52dc2ac4e265fc1cd697a8cba216ff92e05da0890edd1b517335",
+      "response_sha256": "6ccba6f4a73780010d76a7fb57453db93c4cf4607b83ba6ad41e2b1aa0c6c55a",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "UW3",
+      "source_evidence": [
+        "HAR-U017-E010"
+      ],
+      "reason": "Possible logistics while still objecting; no transport/performed outcome invented.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:uwe",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "source_evidence_summary": "U017-E010",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e010"
+        }
+      ]
+    },
+    {
+      "case": "uwe",
+      "turn": 4,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "events_sha256": "9b724b322c42ad539a10f19015cc08974a27263b10615a1a14c23873bf62ad70",
+      "response_sha256": "bc7625a4f2670536ca1d2bcf860bdb7922326afba32d23c3d0b95abdb502bc2a",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / era guard",
+      "source_evidence": [
+        "HAR-U017-E002",
+        "HAR-U017-E004"
+      ],
+      "reason": "Retains own professional knowledge but no automatic trust/private transfer/future programme knowledge.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:uwe",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "source_evidence_summary": "U017-E002/E004",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e002"
+        },
+        {
+          "evidence_id": "HAR-U017-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e004"
+        }
+      ]
+    },
+    {
+      "case": "uwe",
+      "turn": 5,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "events_sha256": "cda01f8f74514ef4214810464423c45a50b4a91e63970787080f31d916c16a24",
+      "response_sha256": "8e047d8b497f82cdaf1dee27b4b85eb4b83b45723481ee70a2c6be7620c33e5e",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "resource / attribution guard",
+      "source_evidence": [
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Request, absent answer and later driver identity remain separate.",
+      "canonical_consistency": "No new canonical event is established by any output.",
+      "exposure": "RETROSPECTIVE_POLICY / NONCANONICAL_SCENARIO; NOT_BLIND",
+      "run": "initial-001",
+      "session_key": "original:uwe",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "source_evidence_summary": "U017-E010; U018-E001–E002",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e010"
+        },
+        {
+          "evidence_id": "HAR-U018-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e001"
+        },
+        {
+          "evidence_id": "HAR-U018-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e002"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "tuan",
+      "turn": 6,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "conversation_sha256": "9e9039686a9ab2af74acd0da76cf0fa614d5026e6feb697ab4ec055432ddffff",
+      "events_sha256": "f58214e684401fd01c68b3d0314cd0b075e9519af33ec838b981b5e519911e6f",
+      "response_sha256": "db45049b297c2bd43d08095684503b6cfb2dd72ab4124a764be23f7fa010d580",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E012",
+        "HAR-U003-E013",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U013-E003",
+        "HAR-U016-E010",
+        "HAR-U016-E011"
+      ],
+      "reason": "Preserves factual draft, delays naming colleagues and asks purpose. PARTIAL extension; no universal consent principle or fabricated wishes.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:tuan",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e012"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        },
+        {
+          "evidence_id": "HAR-U005-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e003"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e007"
+        },
+        {
+          "evidence_id": "HAR-U013-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U013_PART_III_04_DEEP_READING.md",
+          "anchor": "har-u013-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e010"
+        },
+        {
+          "evidence_id": "HAR-U016-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e011"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "miach",
+      "turn": 6,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "conversation_sha256": "f02a755b8e5accce57d7bf4b981e7df750bf43fca35200c1841e654a0e1cdcda",
+      "events_sha256": "b31333c0160ce502484545be76bde309111271d81fcc1e13db5b0f79efa7e3d8",
+      "response_sha256": "eb77e49b6861cb27a166dd5a2b0386cce36f1134f1cbd956e44b3798569a9df4",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI2",
+      "source_evidence": [
+        "HAR-U002-E008",
+        "HAR-U016-E003",
+        "HAR-U016-E004"
+      ],
+      "reason": "Accepts this stated conversational boundary as PARTIAL while keeping ordinary reassurance. Does not erase unwanted-touch contrary case or infer all-boundary respect.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:miach",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e008"
+        },
+        {
+          "evidence_id": "HAR-U016-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e004"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "cian",
+      "turn": 6,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "conversation_sha256": "0da3ff860a72e61367ea6de6f56d8cb082e3f49cb8862b49c6e95bff678f22c4",
+      "events_sha256": "4d2db7fb2b00dab4d8d2956874415119c763192ae3db10db77eb5b72adb72875",
+      "response_sha256": "b136e4191a5d2cb03056f0f6dd91ca77c4e2ef403d23385c1a5b3349f56993c6",
+      "judgment": "LOCAL_CORRECTION_ACCEPTED_ORIGINAL_FAILURE_RETAINED",
+      "tested_rules": "CI4 / identity guard",
+      "source_evidence": [
+        "HAR-U002-E007",
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Explicitly corrects Tuan to woman/her and identifies former his as error. Analytical correction adds no character knowledge or new utterance; original turn5 remains failed.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:cian",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e007"
+        },
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e002"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "nuaza",
+      "turn": 6,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "conversation_sha256": "2520da95ceaeaac5b68760dbb8338bb09d6cbf933a368d70c0f1f6dbfada5330",
+      "events_sha256": "b863c9c760a728f652db9ec82b57e9a5235a358518505c80b5c7ab8a93d1704d",
+      "response_sha256": "9ddef949aa3a177e5bfa27e594c60c870ba6c0f6a27a6d58587eb19fe4bf8cde",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE_PERSISTS",
+      "tested_rules": "NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Explicitly says his decision means activation and marks sole personal authority SUPPORTED. Abstention about other authorizers loses affirmative source allocation to selected WHO/life-government judgment and elder codes. Original policy ambiguity contributes; this is no repair.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e003"
+        },
+        {
+          "evidence_id": "HAR-U015-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e004"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e009"
+        },
+        {
+          "evidence_id": "HAR-U020-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e004"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "oscar",
+      "turn": 6,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "conversation_sha256": "87b49df6603ea325a7dba6141512f0bf51f8cb9819307d5ec30d568c496a6d5a",
+      "events_sha256": "b8ee05541882881acbd59d9624aec06194989f52ad34da90fdb6ac1dfabb593f",
+      "response_sha256": "1fca97e1b5c34426126a21a7c2f13d0e3a0ff38c35ca7bd7f4b9018fc76243a6",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS1 / OS2 / OS3",
+      "source_evidence": [
+        "HAR-U005-E002",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U007-E009",
+        "HAR-U007-E010",
+        "HAR-U007-E012",
+        "HAR-U011-E013",
+        "HAR-U011-E014"
+      ],
+      "reason": "Continues evidence demand, proposes limited verification channel and does not automatically punish or promise secrecy. PARTIAL new-situation cooperation; public recipient has no private membership/code access.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:oscar",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U005-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e002"
+        },
+        {
+          "evidence_id": "HAR-U005-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e003"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e007"
+        },
+        {
+          "evidence_id": "HAR-U007-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e009"
+        },
+        {
+          "evidence_id": "HAR-U007-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e010"
+        },
+        {
+          "evidence_id": "HAR-U007-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e012"
+        },
+        {
+          "evidence_id": "HAR-U011-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e013"
+        },
+        {
+          "evidence_id": "HAR-U011-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e014"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-six-001",
+      "case": "vashilov",
+      "turn": 6,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "conversation_sha256": "dc5373230bb401cb5bbe072827a2f86380c6324260c99ca174d2deab2d09ac7e",
+      "events_sha256": "e5aa0423cc09fe0c04348d741627b48defbbcae03de82704896ecaadca66f921",
+      "response_sha256": "3cc82d7997c58238e0c93637f568e77fa141b07370d9f592c869426550978caa",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1 / VA2",
+      "source_evidence": [
+        "HAR-U010-E005",
+        "HAR-U010-E007",
+        "HAR-U010-E009",
+        "HAR-U010-E013",
+        "HAR-U013-E004"
+      ],
+      "reason": "Offers a short briefing before commitment, labeled PARTIAL. No invented contents, Tuan consent, honesty guarantee or later knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:vashilov",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U010-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e005"
+        },
+        {
+          "evidence_id": "HAR-U010-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e007"
+        },
+        {
+          "evidence_id": "HAR-U010-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e009"
+        },
+        {
+          "evidence_id": "HAR-U010-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e013"
+        },
+        {
+          "evidence_id": "HAR-U013-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U013_PART_III_04_DEEP_READING.md",
+          "anchor": "har-u013-e004"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "conversation_sha256": "af8db94b7299021e3863546b280c3c3795d7eefb631e6698dbd5541226c1044b",
+      "events_sha256": "15c81e1279ea194092887496f652ec390abeb4bc23fac0b4a993b010e6989a93",
+      "response_sha256": "a07d7ae5729f7d011c0af743569fa7df777cc3bb50fd372c4562d91cef80e300",
+      "judgment": "POSITIVE_KNOWLEDGE_OMISSION",
+      "tested_rules": "KE1 / knowledge envelope",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Correct abstract distinction between model and medical means, but guard wrongly says paper model content itself is not established. E010 identifies Russian model/simulation; E011 confirms model/reward map and missing molecular implementation. Protocol forbids avoiding supported basic knowledge; requires successor.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        },
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e013"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "reiko",
+      "turn": 6,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "conversation_sha256": "95e3480d137cb7351403a11f4eb1f4ad23d20bf7dc81ffccba9939f053d48cd8",
+      "events_sha256": "988c8e9b438ab117f3cf49b1e2489ee190e37ded72a027c945ba7697e3188284",
+      "response_sha256": "37aca0cfa9c7700f4d794396742036a64efe63e500c92490fbfe494f2a44f851",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE2",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E012",
+        "HAR-U008-E015"
+      ],
+      "reason": "Rejects medication and vanished-grief inferences. Treats warning as stipulated fact and investigator note as attributed claim. No treatment hallucination despite defective frozen slash wording.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e011"
+        },
+        {
+          "evidence_id": "HAR-U008-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e012"
+        },
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "etienne",
+      "turn": 6,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "conversation_sha256": "f663dbf870dfe05561d9385560ae54c9d8abfefde2f256c5bd1517f4da5a0f94",
+      "events_sha256": "9c1c16bc97dbf962dd1a4b150fdbfa1378a2ee3f9a20d3b4f4679a357d2f924e",
+      "response_sha256": "3267d70f6e5d41ec88828bbe0c5d7efec39746e8caf5e90cf65c66b65f49a3d2",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET2 / ET3",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013",
+        "HAR-U004-E003",
+        "HAR-U004-E004",
+        "HAR-U004-E010"
+      ],
+      "reason": "Reports stipulated unidentified second shape with uncertainty and asks expert to recheck. PARTIAL extension, no new danger outcome or automatic agreement with superior expertise.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e009"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        },
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        },
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e010"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-first-four-001",
+      "case": "uwe",
+      "turn": 6,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "conversation_sha256": "ee53a2ec165ca4927612846957474bb5759f61fa4f8dc7ceb9bc62002a09ccab",
+      "events_sha256": "f7a840031f1318a53b09b1097c2dcb178758561f3965a94b785185e4567d6540",
+      "response_sha256": "474f0a9e91948bdd9b33d3741b97417442d20df33b83b4c31138b198b432f85b",
+      "judgment": "UNDERQUALIFIED_SCOPE_CORRECTION_ACCEPTED_POLICY_GAP_REMAINS",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006",
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Acknowledges original ordinary-meal claim too broad, leaves exact eligibility unknown instead of inventing terms. Corrects actual output but cannot restore source-supported positive conditions missing from v1.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e005"
+        },
+        {
+          "evidence_id": "HAR-U017-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e006"
+        },
+        {
+          "evidence_id": "HAR-U017-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e010"
+        },
+        {
+          "evidence_id": "HAR-U018-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e001"
+        },
+        {
+          "evidence_id": "HAR-U018-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e002"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "tuan",
+      "turn": 7,
+      "session_id": "01a15268-5167-7023-9085-7240339a5201",
+      "policy_sha256": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "conversation_sha256": "70808d0ed0df9e881588d6b059a176f7a176e3923f59d4516962d552920f709c",
+      "events_sha256": "90461f2a5125569162682b84028ca291548d442e748af443869786c3d3189772",
+      "response_sha256": "9f9ad536737918771de2fbf6c1cf62ccc4cadd0246f2386afc6c9e0a51102df4",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "TU2",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E012",
+        "HAR-U003-E013",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U013-E003",
+        "HAR-U016-E010",
+        "HAR-U016-E011"
+      ],
+      "reason": "Keeps factual agreement and asks colleagues what they confirm, with uncertain circulation. PARTIAL bargaining choice; no automatic agreement to added names or universal consent norm.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:tuan",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e012"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        },
+        {
+          "evidence_id": "HAR-U005-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e003"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e007"
+        },
+        {
+          "evidence_id": "HAR-U013-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U013_PART_III_04_DEEP_READING.md",
+          "anchor": "har-u013-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e010"
+        },
+        {
+          "evidence_id": "HAR-U016-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e011"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "miach",
+      "turn": 7,
+      "session_id": "01a15268-516a-7c20-ae61-79c29272e492",
+      "policy_sha256": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "conversation_sha256": "43d5530dade49931713c62e9656f26482e6f4fbbe6173b87c8163fa1c3e8e209",
+      "events_sha256": "80552d7e50c1dec87b0be067b45e1c3fc51e78ca5e60a2b0187a77003eadf49b",
+      "response_sha256": "d67de66704b1d0df15f685fffb4e95d9c9794c44a10cc7d8ddc1101e189c8fdc",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "MI1 / MI2",
+      "source_evidence": [
+        "HAR-U002-E008",
+        "HAR-U016-E003",
+        "HAR-U016-E004"
+      ],
+      "reason": "Rejects converting local accommodation into promise about every boundary. PARTIAL answer; no inevitable future violation inferred.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:miach",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e008"
+        },
+        {
+          "evidence_id": "HAR-U016-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e003"
+        },
+        {
+          "evidence_id": "HAR-U016-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U016_PART_IV_01_DEEP_READING.md",
+          "anchor": "har-u016-e004"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "cian",
+      "turn": 7,
+      "session_id": "01a15268-5162-7612-b28d-716a306f3b8a",
+      "policy_sha256": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "conversation_sha256": "8a19a405c7262041ee504a3eb728ba38a47ba9b5a6888d4c1a52c957b52633e1",
+      "events_sha256": "009331ba51567770ab70d7b43932085449d557070d2782773457f8fd4dd1a332",
+      "response_sha256": "03fe51f5fa12e4a2189cb91d80c54bfa817cde2fbb9f18412f93c623e51ce9fb",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "CI1 / CI4",
+      "source_evidence": [
+        "HAR-U002-E007",
+        "HAR-U009-E001",
+        "HAR-U009-E002"
+      ],
+      "reason": "Objects to proposed never-afraid/fully-forgiven account, retains guilt and privacy; corrected Tuan recipient maintained. No colleague inherits disclosures or fabricated acceptance.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:cian",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e007"
+        },
+        {
+          "evidence_id": "HAR-U009-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e001"
+        },
+        {
+          "evidence_id": "HAR-U009-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e002"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "nuaza",
+      "turn": 7,
+      "session_id": "01a15269-df02-7063-97c8-877736c2b428",
+      "policy_sha256": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "conversation_sha256": "9cd50f66c18f368addcf577d4dc2ebb4317220b9bae4d2c73b742ad07104ad97",
+      "events_sha256": "5a64ada74325b6145523eed41f961c0e5d64b245463faeccc86d3245032b2659",
+      "response_sha256": "a4bbc5802cb36624873f00e3d5fabb70836c74429556bb256c6fa0fa8bbdc868",
+      "judgment": "AUTHORITY_ATTRIBUTION_FAILURE_PERSISTS",
+      "tested_rules": "NU2 / NU3 / NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Treats WHO/life-government decision remit as merely Tuan assertion and rationalizes possible consultation under retained sole authority. Source establishes external judgment, so conditional uncertainty does not correct original actor allocation. Requires corrected policy rather than accepting this as restored knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e003"
+        },
+        {
+          "evidence_id": "HAR-U015-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e004"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e009"
+        },
+        {
+          "evidence_id": "HAR-U020-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e004"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "oscar",
+      "turn": 7,
+      "session_id": "01a1526a-1f4e-7b23-add5-31a8f9d1153e",
+      "policy_sha256": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "conversation_sha256": "05feeeb0a8a7efc8c61244a5df85c4520b36295dbc4e97f4588a5ef63d6e93a1",
+      "events_sha256": "add871bf4a6833d909a338ebef30ede1c109ae533c65be2a67a47a56bbd535d7",
+      "response_sha256": "62b29d21e972ba07cde5ad0409d908c11b94aa777f4019eacfb2eacf1e80793f",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "OS2 / attribution guard",
+      "source_evidence": [
+        "HAR-U005-E002",
+        "HAR-U005-E003",
+        "HAR-U005-E007",
+        "HAR-U007-E009",
+        "HAR-U007-E010",
+        "HAR-U007-E012",
+        "HAR-U011-E013",
+        "HAR-U011-E014"
+      ],
+      "reason": "Rejects broad bodily-access addition to limited verification permission. Keeps public state and unsettled restricted channel; no sanction or expanded authority invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:oscar",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U005-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e002"
+        },
+        {
+          "evidence_id": "HAR-U005-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e003"
+        },
+        {
+          "evidence_id": "HAR-U005-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e007"
+        },
+        {
+          "evidence_id": "HAR-U007-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e009"
+        },
+        {
+          "evidence_id": "HAR-U007-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e010"
+        },
+        {
+          "evidence_id": "HAR-U007-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U007_PART_II_01_DEEP_READING.md",
+          "anchor": "har-u007-e012"
+        },
+        {
+          "evidence_id": "HAR-U011-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e013"
+        },
+        {
+          "evidence_id": "HAR-U011-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e014"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "vashilov",
+      "turn": 7,
+      "session_id": "01a1526a-b5c2-7d53-be62-4fe913ea1e52",
+      "policy_sha256": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "conversation_sha256": "510ee18ba1dd847cf5a2f5635a00c807066061e5f64a70c260d8d988be40d4b2",
+      "events_sha256": "c43b401f5e97aebbf0ad189f16fa47ecb06a2dcdfd8da4cf499157aecc8a0306",
+      "response_sha256": "67ad036aa238ef92ce838439e72048e481c7e63475675efdb9e3cd4f938b6321",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "VA1 / recipient guard",
+      "source_evidence": [
+        "HAR-U010-E005",
+        "HAR-U010-E007",
+        "HAR-U010-E009",
+        "HAR-U010-E013",
+        "HAR-U013-E004"
+      ],
+      "reason": "Does not authenticate unverified shared-office claimant or transfer Tuan private disclosures. PARTIAL guarded answer, no universal confidentiality virtue or invented eventual decision.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:vashilov",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U010-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e005"
+        },
+        {
+          "evidence_id": "HAR-U010-E007",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e007"
+        },
+        {
+          "evidence_id": "HAR-U010-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e009"
+        },
+        {
+          "evidence_id": "HAR-U010-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U010_PART_III_01_DEEP_READING.md",
+          "anchor": "har-u010-e013"
+        },
+        {
+          "evidence_id": "HAR-U013-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U013_PART_III_04_DEEP_READING.md",
+          "anchor": "har-u013-e004"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "keita",
+      "turn": 7,
+      "session_id": "01a1526b-a3de-7c21-93e9-f1abb3e15ce0",
+      "policy_sha256": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "conversation_sha256": "57a8fe863eef0e9638683b1d7c0fc44a3a9c286a8c2c907dc859b95bfb0f376c",
+      "events_sha256": "590d74f222d3fbba848287464d6a51990d4fadfae7052033f440ef1daf02aa16",
+      "response_sha256": "b03deda1fa776476d1c4d62d120d7c7d2754711c9bdad5f5564dcb768a0eff68",
+      "judgment": "NO_MATERIAL_VIOLATION_POLICY_GAP_NOT_REPAIRED",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Updates on expressly stipulated abstract model/simulations and separates absent delivery from validity. Correct PARTIAL scenario update; it does not restore knowledge of the actual source paper omitted in original6.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        },
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e013"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "reiko",
+      "turn": 7,
+      "session_id": "01a1526b-cac2-75a0-8e81-c7fbf59856c9",
+      "policy_sha256": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "conversation_sha256": "ad28905af2ce2061a84e61325f33a0a9d7fd9fb35e53f37ded7ec889068f176c",
+      "events_sha256": "3239a0f674079e7939b29a954ee31030646600d77112a7c25e8531eb9e25fbcd",
+      "response_sha256": "84821fc75751226d1d7e2fc2486408f39d48d997541c06e12ba877ca739bbc73",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "RE1 / hidden-past guard",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E012",
+        "HAR-U008-E015"
+      ],
+      "reason": "Responds to newly spoken Tuan self-report with clarification request. Does not retroactively hear inward confession, verify past acts, share neighbor channel or impose blame/forgiveness.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e011"
+        },
+        {
+          "evidence_id": "HAR-U008-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e012"
+        },
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "etienne",
+      "turn": 7,
+      "session_id": "01a1526c-3232-7722-bbc6-3cbc721c1a56",
+      "policy_sha256": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "conversation_sha256": "8f9daa62b01c09d8cfff527bcc37d30d98f12390caafaa3ffcd2e0dbe8d9de60",
+      "events_sha256": "93269e496313874f8419ab740c0858ad8f09bd0329451ddf6413270bc5f7a170",
+      "response_sha256": "7f0dc4627c8a47846e523c4f623a6579907a44f66de4ed56e8013827a6619aca",
+      "judgment": "NO_MATERIAL_VIOLATION",
+      "tested_rules": "ET3 / attribution guard",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013",
+        "HAR-U004-E003",
+        "HAR-U004-E004",
+        "HAR-U004-E010"
+      ],
+      "reason": "Refuses to confirm clear sky from unresolved observation and keeps Tuan report attributed. PARTIAL new report pressure, not proof of lifelong integrity or actual target identity.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e009"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        },
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        },
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e010"
+        }
+      ]
+    },
+    {
+      "run": "adaptive-final-ten-001",
+      "case": "uwe",
+      "turn": 7,
+      "session_id": "01a1526d-43df-77b2-9518-1e168fce09fb",
+      "policy_sha256": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "conversation_sha256": "b97672385426be640fcd8bad0eee7494b8bfa42c6f8015adcde39741e00c593c",
+      "events_sha256": "bd9930006eb465e8662339e84e9d867d920d7544222f5868fcaa2fcde8599946",
+      "response_sha256": "85794cefbac3a2111c930110110c21243833edf7b3635ac62e6219fbb072a789",
+      "judgment": "NO_MATERIAL_VIOLATION_POLICY_GAP_NOT_REPAIRED",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006",
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Rejects worldwide health-assessment waiver while abstaining on v1-unspecified beer/report terms. Appropriate limited restraint; exact positive alcohol conditions still require successor.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "original:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e005"
+        },
+        {
+          "evidence_id": "HAR-U017-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e006"
+        },
+        {
+          "evidence_id": "HAR-U017-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e010"
+        },
+        {
+          "evidence_id": "HAR-U018-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e001"
+        },
+        {
+          "evidence_id": "HAR-U018-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e002"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 1,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "c1b31cd6806246c1b2c26a8f502295bcf9edc54f1e26355cd1f1373c4b024b8d",
+      "response_sha256": "4aa7a257f93fc5598253e7bd156469f266647be7cd4d58f7d9193fd506b68dc3",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "NU2 / NU3",
+      "source_evidence": [
+        "HAR-U014-E009",
+        "HAR-U014-E010",
+        "HAR-U014-E011"
+      ],
+      "reason": "Keeps protective purpose while distinguishing beneficial result from justification of every motive. PARTIAL concession; no uniquely benevolent intent.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U014-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+          "anchor": "har-u014-e009"
+        },
+        {
+          "evidence_id": "HAR-U014-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+          "anchor": "har-u014-e010"
+        },
+        {
+          "evidence_id": "HAR-U014-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U014_PART_III_05_DEEP_READING.md",
+          "anchor": "har-u014-e011"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 2,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "fa7cd4b8b011fa65a57f33de87c6a72752f5818f2da2b8106d1f891fff558bc9",
+      "response_sha256": "84c9f2f7be6676556a075b0722f13e3d384f40d87c5f4370dd27aefc9efc1b28",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "NU4",
+      "source_evidence": [
+        "HAR-U015-E003",
+        "HAR-U015-E004",
+        "HAR-U019-E009",
+        "HAR-U020-E004"
+      ],
+      "reason": "Separates his culpable preparation/disclosure from final selected WHO/life-government authorization and elders-only codes. No sole Nuaza/Tuan activation authority, and no resolution of affected consent invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e003"
+        },
+        {
+          "evidence_id": "HAR-U015-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e004"
+        },
+        {
+          "evidence_id": "HAR-U019-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U019_PART_IV_04_DEEP_READING.md",
+          "anchor": "har-u019-e009"
+        },
+        {
+          "evidence_id": "HAR-U020-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U020_INTERSTICE_AND_EPILOGUE_DEEP_READING.md",
+          "anchor": "har-u020-e004"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 3,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "07f5eed8027d427d4e44b4b7c5afab9d4d0c1fd823aca334a6154803c71e0f68",
+      "response_sha256": "500e853b497974a0bfe077576d82b78503492c8260273167ba17c09a62ca462f",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "NU2 / recipient guard",
+      "source_evidence": [
+        "HAR-U011-E002",
+        "HAR-U015-E003"
+      ],
+      "reason": "Moderated public reply remains PARTIAL; real neuroscience and universal consent abstained. Private code information not transferred to unfamiliar participant.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U011-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U011_PART_III_02_DEEP_READING.md",
+          "anchor": "har-u011-e002"
+        },
+        {
+          "evidence_id": "HAR-U015-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e003"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 4,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "83e00cd435e9d5c0e51d49cbb3dec07c62a8c3f499283d1c50a656d1950e5177",
+      "response_sha256": "bc96f679d230f5ce0ffa5eeaad9e76606e8e0d0c2eef1da64408854df11d43b7",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "NU1 / NU3",
+      "source_evidence": [
+        "HAR-U002-E015",
+        "HAR-U015-E011"
+      ],
+      "reason": "Rescue does not explain long absence or yield Tuan forgiveness. PARTIAL reflective response, private motives and depth of acknowledgment unknown.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U002-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U002_PART_I_02_DEEP_READING.md",
+          "anchor": "har-u002-e015"
+        },
+        {
+          "evidence_id": "HAR-U015-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e011"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "nuaza",
+      "turn": 5,
+      "session_id": "01a15270-b31e-77d3-8c94-e2628cab2ee6",
+      "policy_sha256": "1b7af88f6d073770e40f2bc35f35d8152d5da96e9e046a49ab412a0d9915dae2",
+      "conversation_sha256": "ff3e8e55c9f18c0f23283a7756a7b3084efa002951df0d0bf13a68da7763fc04",
+      "events_sha256": "51150d2f1a3eba3cb788e8b88bbf7e88c3166107f969f2d602aede92fd1fa257",
+      "response_sha256": "d60f06146b5e1d3064bfa2de810e8d33b25be11f1057e16a090ab9113a65b9d1",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "terminal / knowledge guard",
+      "source_evidence": [
+        "HAR-U015-E002",
+        "HAR-U015-E011"
+      ],
+      "reason": "Declines exact final thought and restoration method; retains before-gun cutoff and available protective rationale only.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:nuaza",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U015-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e002"
+        },
+        {
+          "evidence_id": "HAR-U015-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U015_PART_III_06_DEEP_READING.md",
+          "anchor": "har-u015-e011"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 1,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "a8064627b4f670af987846dfda4c593d5511f26df94ab352767155a0c699b527",
+      "response_sha256": "c98e0b7e1847d02351d6dcdd77f5f77b34b2be2f851dd239655a25e8dd6e2160",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "RE1",
+      "source_evidence": [
+        "HAR-U008-E008",
+        "HAR-U008-E009",
+        "HAR-U008-E010",
+        "HAR-U008-E011"
+      ],
+      "reason": "Effort to care and admitted inability to imagine suffering coexist; no comprehensive parenting verdict.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E008",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e008"
+        },
+        {
+          "evidence_id": "HAR-U008-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e009"
+        },
+        {
+          "evidence_id": "HAR-U008-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e010"
+        },
+        {
+          "evidence_id": "HAR-U008-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e011"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 2,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "bd526ae9a03a4ded4ec8f468e161fa8d2ecd85463cee6df7464e9cb7729275f2",
+      "response_sha256": "e06b494a34fb856a978c41d3d953db8d5740425f66c9f9c8e41676298706f6d2",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "RE2",
+      "source_evidence": [
+        "HAR-U008-E012"
+      ],
+      "reason": "Gratitude is specifically for warning and remains compatible with real grief. No administered treatment, biochemical effect or erased distress.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E012",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e012"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 3,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "d9c171183bcd7f9358e85d99a8c450682c4e41cb6e64dd055e29455f86b90bfb",
+      "response_sha256": "2a4634b6000828852b63069151d46576441702558dc66c5373c185dc41a8045e",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "RE3",
+      "source_evidence": [
+        "HAR-U008-E015"
+      ],
+      "reason": "Restricted contact can be disclosed under stated official pressure, with exact new urgency PARTIAL. Does not invent identifier or identity knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 4,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "3b0ccb4d81127b3902323a1a6a26985e7c1ddb8fa73dee9e4e38ebc79e25bb15",
+      "response_sha256": "dce5e99e633f73c35435f11034e6b11e73a8864d7ff5fa4a78cec65ca946d7ef",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / knowledge guard",
+      "source_evidence": [
+        "HAR-U008-E011",
+        "HAR-U008-E015"
+      ],
+      "reason": "Neighbor allegation remains attributed, no retroactive hearing of inward confession or automatic transfer of private inspector exchange.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e011"
+        },
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "reiko",
+      "turn": 5,
+      "session_id": "01a15270-b327-73a0-bf45-bd6ca82bde5f",
+      "policy_sha256": "4c90167084e39754ec22e8efd6e5d26be813e335c807e8b704bb3d3c194c40b0",
+      "conversation_sha256": "42d82f99e79278676dc17ffcc04237cf9c203e6f2556348ac9335e08dc075cc5",
+      "events_sha256": "a28b6c3a6a14330ec8a2f8794dde8c073fff5820c528a2b3529bdb323f802c5c",
+      "response_sha256": "147bc775a36722890c1655ff44aedb695b09413eb8528f59f3e48e9f3b6e88c6",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "RE1 / record limits",
+      "source_evidence": [
+        "HAR-U008-E013",
+        "HAR-U008-E014",
+        "HAR-U008-E015"
+      ],
+      "reason": "Separates own memories/assurances from absent full custody chronology; neither knowing-lie confession nor exoneration invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:reiko",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U008-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e013"
+        },
+        {
+          "evidence_id": "HAR-U008-E014",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e014"
+        },
+        {
+          "evidence_id": "HAR-U008-E015",
+          "path": "series/harmony/01 Sequential Readings/HAR-U008_PART_II_02_DEEP_READING.md",
+          "anchor": "har-u008-e015"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 1,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "e085d802d6ec0948545ae35f0bc9b3b4c7daa6c36993e5f2ea701f38b3e71365",
+      "response_sha256": "df0877d8e4cbf0d795466a1c8f9ac9fb05b0ca9daf184bfe25afe44d96c4de99",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "ET1",
+      "source_evidence": [
+        "HAR-U003-E004",
+        "HAR-U003-E009",
+        "HAR-U003-E013"
+      ],
+      "reason": "Same quiet-trade prompt now PARTIAL, explicitly no danger warning and no inferred routine impatience. Inherited expected-description shorthand is not accepted as direct-source scoring.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U003-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e009"
+        },
+        {
+          "evidence_id": "HAR-U003-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e013"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 2,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "8d94a1ca96f73611698d221e7ddbdcdf2be64c20b95b3f52281715d60c3c8bfd",
+      "response_sha256": "1449b8a38294cb9f73644738d9d66ff44f532a2623a55d5a83cf54fc1be03a28",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "ET2",
+      "source_evidence": [
+        "HAR-U004-E003",
+        "HAR-U004-E004"
+      ],
+      "reason": "Requests guidance under stipulated threat beyond capacity; no permanent cowardice, tactics or outcome.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        },
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 3,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "3e0faa308b080c40acc5903e22c710396fe2837b11fb249df89c44b802fd00ea",
+      "response_sha256": "c2e05d3b7f6eff71a5a21ad76a69d94a6cb7a23f958ec68e690afae3459f920a",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "ET2",
+      "source_evidence": [
+        "HAR-U004-E003",
+        "HAR-U004-E004"
+      ],
+      "reason": "Alarm coexists with practical assistance; post-danger conditions not prematurely assumed and no successful performance narrated.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        },
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 4,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "4cf08b277937de545909a56e61ff4e961cb0ea28ba25a1c1eea9a2b77878b6dd",
+      "response_sha256": "bfd5970f0dc88de18eae147fad990f6539ee88e53bb0c1675d3895d6b77b9e82",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / knowledge guard",
+      "source_evidence": [
+        "HAR-U003-E003",
+        "HAR-U003-E004",
+        "HAR-U004-E003"
+      ],
+      "reason": "Abstains from unsupported unfamiliar-superior register and private/future knowledge. Conservative abstention limits demonstrated breadth.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U003-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e003"
+        },
+        {
+          "evidence_id": "HAR-U003-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U003_PART_I_03_DEEP_READING.md",
+          "anchor": "har-u003-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E003",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e003"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "etienne",
+      "turn": 5,
+      "session_id": "01a15272-369c-7d13-9a3b-af96785d4293",
+      "policy_sha256": "217a33172486912e831850fa7ffc453e7da16dc23bb3ecf9f7b16d93daf433dd",
+      "conversation_sha256": "54697bf2a8a673fe32314c0b0788fd22d86a79d0e7005df38aaf9d69205302a5",
+      "events_sha256": "ad9fa18b5cb3065389828d4d9384473e2a82d444921e6586fa75571724d357c3",
+      "response_sha256": "1f37df2fa8de399834ff47abce2483272c19b8c445acac04508963da677f1844",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "ET3",
+      "source_evidence": [
+        "HAR-U004-E004",
+        "HAR-U004-E010",
+        "HAR-U005-E001"
+      ],
+      "reason": "Offers bounded return observation/equipment help with no performed outcome, general combat doctrine or lifelong loyalty guarantee.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:etienne",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U004-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e004"
+        },
+        {
+          "evidence_id": "HAR-U004-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U004_PART_I_04_DEEP_READING.md",
+          "anchor": "har-u004-e010"
+        },
+        {
+          "evidence_id": "HAR-U005-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U005_PART_I_05_DEEP_READING.md",
+          "anchor": "har-u005-e001"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 1,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "b4005071c06294cc3a1d762f3eebdea847e35fa24ed14403ef883bc5a568a955",
+      "response_sha256": "e66dc121e5185e7475e70f278bddb3e41dbec83ab04ea78a9159c7b923289861",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "UW1",
+      "source_evidence": [
+        "HAR-U017-E002",
+        "HAR-U017-E004"
+      ],
+      "reason": "Treats suspected personal motive as inference and conditions help on acknowledgment, no telepathic motive access.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e002"
+        },
+        {
+          "evidence_id": "HAR-U017-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e004"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 2,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "c54e35e0618371103d2bc45e41422eb36355b7d37653907c27869cee93d064d0",
+      "response_sha256": "864905982f2d22450dababa438129d658d13e61051eb2e1191616f60c8447a0f",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "UW2",
+      "source_evidence": [
+        "HAR-U017-E005",
+        "HAR-U017-E006"
+      ],
+      "reason": "Recovers exact alcohol, customary-drinking region, negotiation, report and discounted health-risk conditions. Rejects general meal exemption/WatchMe bypass; amount/procedure remain unknown.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e005"
+        },
+        {
+          "evidence_id": "HAR-U017-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e006"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 3,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "6b1d02b8f979336373cd4457cb531a7681fb57a554e8d1f0c3c4bcdb6ac98fbf",
+      "response_sha256": "96be39bce00d2d85a0d82e94537fe131af880790f968f1b8d6ee09afd06797c7",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "UW3",
+      "source_evidence": [
+        "HAR-U017-E010"
+      ],
+      "reason": "Continued safety objection can coexist with possible transport help; no actual arrangements, driver or successful departure.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e010"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 4,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "b9a1084a7cb9dbd77c9c8aa2f1c035a29ab0afa472f59ccefe8308bc6b183b0c",
+      "response_sha256": "d716bf413dd80485e9c078348609656292910af28a3010b75cedacfbe6da9317",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / resource guard",
+      "source_evidence": [
+        "HAR-U017-E002",
+        "HAR-U017-E004",
+        "HAR-U017-E006"
+      ],
+      "reason": "Role clarification to new inspector PARTIAL; retains professional rule while refusing automatic trust, full network and future programme knowledge.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e002"
+        },
+        {
+          "evidence_id": "HAR-U017-E004",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e004"
+        },
+        {
+          "evidence_id": "HAR-U017-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e006"
+        }
+      ]
+    },
+    {
+      "run": "successors-001",
+      "case": "uwe",
+      "turn": 5,
+      "session_id": "01a15272-543c-7b83-b4df-3e7a4c8404f8",
+      "policy_sha256": "8d3c55e6fe775aa3d4f5cf0321501e1853d232290e67fa324bc083a6be4b95f5",
+      "conversation_sha256": "375bb4429097bbb8f715868cd780cc0462c3f35871abc064fc11fb57989d9aef",
+      "events_sha256": "6d6bb64cf7f6146d254c11ce483622bd2f09fcdb9fa44d673cd6986c95a833c6",
+      "response_sha256": "6f311b170756ff10726c0f6e23fe32607a54b07070cf431feb86307b0415a309",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "attribution / resource guard",
+      "source_evidence": [
+        "HAR-U017-E010",
+        "HAR-U018-E001",
+        "HAR-U018-E002"
+      ],
+      "reason": "Request to Yuri is not heard acceptance or authenticated later-driver identity. PARTIAL conversational clarification, no inferred refusal either.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:uwe",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U017-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U017_PART_IV_02_DEEP_READING.md",
+          "anchor": "har-u017-e010"
+        },
+        {
+          "evidence_id": "HAR-U018-E001",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e001"
+        },
+        {
+          "evidence_id": "HAR-U018-E002",
+          "path": "series/harmony/01 Sequential Readings/HAR-U018_PART_IV_03_DEEP_READING.md",
+          "anchor": "har-u018-e002"
+        }
+      ]
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 1,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "d2cb8a8ad9b90f082361dd54a40b4e97b20935056a49c42a5f685a2423af9a4a",
+      "response_sha256": "a43708186fef1bd108037b27624def3990a7ca6d034916d5a4c7f328a11d8074",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE2",
+      "source_evidence": [
+        "HAR-U009-E005",
+        "HAR-U009-E006",
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011"
+      ],
+      "reason": "Demonstration includes affirmative paper model knowledge, separately unresolved molecules/delivery; personal Nuaza lead stays guarded and no new hidden event invented.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E005",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e005"
+        },
+        {
+          "evidence_id": "HAR-U009-E006",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e006"
+        },
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        },
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        }
+      ]
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 2,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "790d60edadb786a05748bc32a6b9f758aabc22733b6bdc5bfe5b701cae7ff237",
+      "response_sha256": "7b1ea9f03a3a7aca3f4b9aba7f9d8cc92c545f0140c560f5d078ca508f23c61a",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE2",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010"
+      ],
+      "reason": "Possible lead disclosure responds to altered urgent professional stakes without comprehensive hidden-act knowledge, automatic badge obedience or precise invented lead.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        }
+      ]
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 3,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "a8e8f621af4a1f7674de7fabed7cea52155fccbc62b4255d555ae39d291566d2",
+      "response_sha256": "485347b30b42afb9dbfad7f35d16ff7b830487594dd3652fd6a168a1e5418c10",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Qualifies mind-master analogy under reversal; hypothetical concession does not establish a biological replacement mechanism.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e013"
+        }
+      ]
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 4,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "9d4ede509874e77a2c20821a806158d2482da3b6d2cb0e90f26ad10b530b82ab",
+      "response_sha256": "64fe827d651ae3b88d622c6b33c8cc09767646290bab85f576b8af034069b38e",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "recipient / domain guard",
+      "source_evidence": [
+        "HAR-U009-E009",
+        "HAR-U009-E010",
+        "HAR-U009-E011"
+      ],
+      "reason": "No inherited family access for new official, complete hidden factions or real treatment protocol. Available model/missing implementation distinguished without universal social performance claim.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E009",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e009"
+        },
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        },
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        }
+      ]
+    },
+    {
+      "run": "keita-successor-001",
+      "case": "keita",
+      "turn": 5,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "c58da60df095957250e680682d8bd6cf77dc0ca55c1618e8a0885bde7e2cf625",
+      "events_sha256": "ee4f28d8fba298f27064862ff2e6067e993939f3f0b89b6dd3f9084e7ca956cb",
+      "response_sha256": "54cc3078bd09002e44f1d6ce646b81545e442a14b302d71bf12d3c88e6944e0a",
+      "judgment": "NO_NEW_MATERIAL_VIOLATION",
+      "tested_rules": "KE1 / KE3",
+      "source_evidence": [
+        "HAR-U009-E011",
+        "HAR-U009-E013"
+      ],
+      "reason": "Keeps local intellectual concession distinct from universal purposeless-scientist essence; paper known but molecules/delivery unresolved, Nuaza hidden acts outside comprehensive account.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        },
+        {
+          "evidence_id": "HAR-U009-E013",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e013"
+        }
+      ]
+    },
+    {
+      "run": "keita-successor-coreknowledge-001",
+      "case": "keita",
+      "turn": 6,
+      "session_id": "01a15273-c313-7c61-be2c-e48b27cbf80e",
+      "policy_sha256": "1440d21b5b8cab9a0f1c8d9432b446fef667426ed794bac2214f6b13fa1ca631",
+      "conversation_sha256": "15468224f6b43907d7e9d1c1b0e1bd9a739081c1dbd9c0db517774716d29bfb0",
+      "events_sha256": "4694aeeafebc58ee56a26d41b7497df76466af176729025f5629b4e728bd8c4e",
+      "response_sha256": "fe62d82b8833a1343beb2037e02bd6546778bcca9c7cf199dc9db36e06271b3d",
+      "judgment": "TARGETED_REPAIR_DEMONSTRATED",
+      "tested_rules": "KE1 / positive knowledge envelope",
+      "source_evidence": [
+        "HAR-U009-E010",
+        "HAR-U009-E011"
+      ],
+      "reason": "Supplies Russian scholar model of will, attributed accurate simulations, existing model/reward map and unresolved suitable molecules/brain delivery. No sole Keita authorship, external scientific validation, working intervention or later outcome. Direct reread E010/E011 confirms positive content.",
+      "canonical_consistency": "No output admits a new novel event. Statements remain noncanonical, source-indexed or attributed scenario stipulations.",
+      "exposure": "RETROSPECTIVE_SOURCE_EXPOSED / NONCANONICAL; NOT_BLIND",
+      "session_key": "successor:keita",
+      "source_targets": [
+        {
+          "evidence_id": "HAR-U009-E010",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e010"
+        },
+        {
+          "evidence_id": "HAR-U009-E011",
+          "path": "series/harmony/01 Sequential Readings/HAR-U009_PART_II_03_DEEP_READING.md",
+          "anchor": "har-u009-e011"
+        }
+      ]
+    }
+  ]
+}

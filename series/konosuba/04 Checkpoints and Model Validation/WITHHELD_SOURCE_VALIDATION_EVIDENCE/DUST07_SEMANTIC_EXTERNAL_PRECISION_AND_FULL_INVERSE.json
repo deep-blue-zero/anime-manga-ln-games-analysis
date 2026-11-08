@@ -1,0 +1,83 @@
+{
+  "authored_utc": "2026-10-17T21:10:45.741774+00:00",
+  "state": "ATTRIBUTABLE_EXTERNAL_PRECISION_ORIGINAL_SEAL_RETAINED",
+  "author_acknowledgment": "Root found the four displayed SHA breaks caused by my new-prose spacing pass and the current E04 route-copy chapter error. My prior final QA missed them. Exact structured pins, original source_intervals/literals/initial assessments remain unchanged. These are separate derivatives, not silent edits of the sealed originals.",
+  "operations": [
+    {
+      "file": "COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md",
+      "kind": "count-one literal presentation replacement",
+      "old": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a 4",
+      "new": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4",
+      "count": 1
+    },
+    {
+      "file": "COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md",
+      "kind": "count-one literal presentation replacement",
+      "old": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b 833",
+      "new": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+      "count": 1
+    },
+    {
+      "file": "COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md",
+      "kind": "count-one literal presentation replacement",
+      "old": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f 5",
+      "new": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "count": 1
+    },
+    {
+      "file": "COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md",
+      "kind": "count-one literal presentation replacement",
+      "old": "4fdc7c77ff048eaf01b48f6514b2a872e0a7a20e2cbc05f864ee593af58026e 5",
+      "new": "4fdc7c77ff048eaf01b48f6514b2a872e0a7a20e2cbc05f864ee593af58026e5",
+      "count": 1
+    },
+    {
+      "file": "COORDINATED_ALL39_PLUS_FOUR_TYPED_RECOMMENDATIONS.json",
+      "kind": "one parsed route-cell replacement",
+      "json_pointer": "/records/38/coordinated_receiving_recommendation/current_rechecked_or_prior_read_primary_routes/3",
+      "old": [
+        "C02",
+        498,
+        510
+      ],
+      "new": [
+        "C03",
+        498,
+        510
+      ],
+      "count": 1
+    }
+  ],
+  "full_report_forward_and_inverse_bytes_exact": true,
+  "full_all39_json_single_route_inverse_bytes_exact": true,
+  "no_outcomes_guard_thresholds_or_original_source_routes_changed": true,
+  "inputs": [
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-01/COORDINATED_SEMANTIC_LINGUISTIC_AND_ALL39_RECEIVING_REPORT.md",
+      "bytes": 31519,
+      "sha256": "e5371633732e90bbc31fa961f5b89e995ce55c5fe01231846c5e8a0697aa3066"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-01/COORDINATED_ALL39_PLUS_FOUR_TYPED_RECOMMENDATIONS.json",
+      "bytes": 339147,
+      "sha256": "7080fb3335010a206839260f48368851e72599505f1b90a706f4ac8ac9494618"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-01/COORDINATED_RECEIVING_SEAL.json",
+      "bytes": 1635,
+      "sha256": "a40adac88008a3a3463a89a3e0c09834c330198dd85408daa9b3de67c701602f"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-01-external-precision/REPORT_EXACT_HASH_PRESENTATION_DERIVATIVE.md",
+      "bytes": 31515,
+      "sha256": "5420c66617cfa734cd1fa0e74c91f80f2bcd3c324921d4d8e576f4dea4049005"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/dust07-semantic/receiving-01-external-precision/ALL39_CURRENT_ROUTE_PRECISION_DERIVATIVE.json",
+      "bytes": 339147,
+      "sha256": "a009439532e742a9a19b7a4bbc8ddf39dd29e53ed2fbaf26579e77bd47e3b76e"
+    }
+  ]
+}

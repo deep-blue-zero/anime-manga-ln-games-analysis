@@ -1,0 +1,261 @@
+{
+  "schema": "tomozaki_portable_historical_context_records/v1",
+  "artifact_type": "attributed_retrieval_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "record_policy": "Complete unchanged original values and raw identities. Historical pending/status/private-route strings are provenance of their own stage; current retrieval uses the catalog public record pointers and pinned Git source routes.",
+  "records": [
+    {
+      "record_id": "root.acceptance",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_review_root_20261103/ROOT_HISTORICAL_AND_CONTEXT_RETRIEVAL_ACCEPTANCE.json",
+        "bytes": 11896,
+        "sha256": "dea958ae03a0195c3de522d70ffd76e4f84d0be99262b5778d7a727780564699"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "eae3b8257d63473e9ab72c3df65aebe67d0f8a9e3ecbc02f78df4545d5c86564",
+      "value": {
+        "schema": "tomozaki_root_historical_context_retrieval_acceptance/v1",
+        "utc": "2026-11-04T02:44:17.148496+00:00",
+        "status": "ACCEPTED_THREE_ATTRIBUTED_RETRIEVAL_MODULES_AND45CONTEXT_ROUTES_CANONICAL_PUBLICATION_PENDING",
+        "literary_basis": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "release_id": "TOMOZAKI_JP_LN_V12_EDITION_1_20261103",
+        "models_and_router": [
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6898,
+            "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6375,
+            "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+            "bytes": 6298,
+            "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+          },
+          {
+            "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+            "bytes": 117521,
+            "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+          }
+        ],
+        "producer_handoff": {
+          "path": ".scratch/historical_context_models_root_20261103/FINAL_HISTORICAL_CONTEXT_CONSTRUCTION_SEAL.json",
+          "bytes": 2759,
+          "sha256": "3fbcb4ab5596021a7000cb98cef9c17cad9880a261b0ae7be13de1c96150e9f9"
+        },
+        "independent_seal": {
+          "path": ".scratch/historical_context_independent_review_20261103/FINAL_HISTORICAL_CONTEXT_INDEPENDENT_REVIEW_SEAL.json",
+          "bytes": 7463,
+          "sha256": "a0e786d051f0669abb2833ae08e3dc9182fb49df9060ea2169ebdfeceffbf963"
+        },
+        "actual_root_acquisition": "All3complete19571Bmodelbodies/16mechanisms andall18actualproduceruniquesemantics previouslyauthored/applied/readback;all45originalspecificprofilefields andcurrentrouteruniquecontract. Full13887Bindependenthuman+7463Bseal;all22actualindependentfrozeninput/criteria/source/clock/mechanisms/output/counterevidence/abstention/result/exposure read via8/7/7caseprojections;all45actualnonemptyconcreteattributedresults read via23/22projections plusframe/commonvariants. Repeatedcanonicalevidence/identity/metadata mechanicallyjoined, not anewfreshwholebook/companionreadclaim.",
+        "own_replay": {
+          "sealed_payloads": [
+            {
+              "path": ".scratch/historical_context_independent_review_20261103/ACTUAL_FORTY_FIVE_AND_EIGHTEEN_BINDING_PROOF.json",
+              "bytes": 36484,
+              "sha256": "92e0027d6d67b126c2bf414a65a442dfdd71b994f30417aa7861084d5aadd43e"
+            },
+            {
+              "path": ".scratch/historical_context_independent_review_20261103/FORTY_FIVE_INDEPENDENT_ATTRIBUTED_RETRIEVAL_RESULTS.json",
+              "bytes": 58978,
+              "sha256": "4980636328d2b434a04bb773d6d00e8e4a162d983913a6d1f51879b99d52d0ea"
+            },
+            {
+              "path": ".scratch/historical_context_independent_review_20261103/HISTORICAL_AND_CONTEXT_INDEPENDENT_REVIEW.md",
+              "bytes": 13887,
+              "sha256": "d08f35aad7ee831b012a443324ca957718a7d0e85b1f48d2659afa0a8e94ecdd"
+            },
+            {
+              "path": ".scratch/historical_context_independent_review_20261103/PRE_REGISTERED_HISTORICAL_CONTEXT_REVIEW.json",
+              "bytes": 38733,
+              "sha256": "53ed8a2ad5dc5b243e660efa925973fb1499e18095fd5d481e97e7b54e2d085b"
+            },
+            {
+              "path": ".scratch/historical_context_independent_review_20261103/PRE_REGISTRATION_SEAL.json",
+              "bytes": 618,
+              "sha256": "43fe146d090fa2bb4eacc83282718b60a8c47611884aa2c8dca4bb9763598d89"
+            },
+            {
+              "path": ".scratch/historical_context_independent_review_20261103/TWENTY_TWO_INDEPENDENT_ACTUAL_RETRIEVAL_TRACES.json",
+              "bytes": 58306,
+              "sha256": "97b80d33e39d8173aa04e633e4db5d61d0448b0bf901ac2d0f632074fa288d0c"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6898,
+              "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6375,
+              "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6298,
+              "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/CONSTRUCTION_SLICE.json",
+              "bytes": 2177,
+              "sha256": "e32569f4126f897bedc2ef0441e0e4f925495580f6b8db39397f16c958e8adee"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/FORTY_FIVE_CONTEXT_ROUTE_BINDING_PROOF.json",
+              "bytes": 17784,
+              "sha256": "db7a16eae761ed6008cb01468992fa4fd4ad5996f0b50d56877e00f9f554ff5b"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/ROOT_PRODUCER_FINAL_READBACK.json",
+              "bytes": 1795,
+              "sha256": "f0c098aa3f75190ee29983492b814b5de73e38de8680808e07d822556fabfaec"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/EIGHTEEN_ACTUAL_RETRIEVAL_TRACES.json",
+              "bytes": 37079,
+              "sha256": "53d84187ad6bd181873f686fddc3bb2ed52b9f6967d91f948da446ace51f3dca"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/ROOT_ATTRIBUTED_RETRIEVAL_ADMISSIONS_AND_FROZEN_TESTS.json",
+              "bytes": 13047,
+              "sha256": "6e6eba746fba5a6d30c668820fe5aee8814b20bf4c4dd1150c1837d11a2e4c2a"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6898,
+              "sha256": "d20b8135227a42e3193fbf9bb089bfe8ece9dabd52d9494cd2f1d7c77899a2d1"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6375,
+              "sha256": "3d596a35984c112bc045ff88fec55e9022d183b2cd031eb4065b3848e16a67b6"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md",
+              "bytes": 6298,
+              "sha256": "8984b35d510693c41aeed8d0030488f45696f1f4b64e410330bbfe656f31cb74"
+            },
+            {
+              "path": ".scratch/historical_context_models_root_20261103/candidates/TOMOZAKI_SUPPORTING_CONTEXT_ROUTER.json",
+              "bytes": 117521,
+              "sha256": "d00cabd119df5215ffa9d04444064b03a45cb068a659d0edf511c7df2280b637"
+            }
+          ],
+          "exact22frozen_criteria_candidate_joins": [
+            "HC-HN01",
+            "HC-HN02",
+            "HC-HN03",
+            "HC-HN04",
+            "HC-HY01",
+            "HC-HY02",
+            "HC-HY03",
+            "HC-HY04",
+            "HC-MA01",
+            "HC-MA02",
+            "HC-MA03",
+            "HC-MA04",
+            "HC-CX01",
+            "HC-CX02",
+            "HC-CX03",
+            "HC-CX04",
+            "HC-CX05",
+            "HC-CX06",
+            "HC-CX07",
+            "HC-CX08",
+            "HC-CX09",
+            "HC-CX10"
+          ],
+          "all45identity_class_kind_operation_heading_version_parent_and_original_fields_exact": true,
+          "source_input_current_raw_and_Git_snapshot_checks": [
+            {
+              "path": "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+              "bytes": 21092,
+              "sha256": "14970faee4414855df13fef93b3dec521a19c15f580419a246b57c514f9a43a8"
+            },
+            {
+              "path": "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+              "bytes": 23541,
+              "sha256": "495ab3b6ea6edfa749c39d02a1639ed293ebe2ac66e846d349ad2524ab84b85f"
+            },
+            {
+              "path": "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+              "bytes": 36464,
+              "sha256": "a78acb3452ce92727470b09c401360758b86d1585f5cb4c931f592846322d12c"
+            },
+            {
+              "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+              "bytes": 86524,
+              "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+            },
+            {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json",
+              "bytes": 242269,
+              "sha256": "1acd20b824dd76d5fe7d36a35a37ecf5c498aa2568c3f81a26a63817a1e0da20"
+            },
+            {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json",
+              "bytes": 768421,
+              "sha256": "39d2f81031a5d4068ca9a50e96496ba75327863e4dbad2650ce525b139d74918"
+            }
+          ]
+        },
+        "decisions": [
+          {
+            "identity": "nagisa",
+            "decision": "ACCEPT_ATTRIBUTED_HISTORICAL_RETRIEVAL_ONLY",
+            "reason": "Tactical/sharedplay,independenthelp/listening/adviceandlaterdoubt remainpositive; report/guilt/fictionlayers do notsupplyunavailablelastmind/causalanswer."
+          },
+          {
+            "identity": "hinami_yoko",
+            "decision": "ACCEPT_ATTRIBUTED_HISTORICAL_CONTACT_RETRIEVAL_ONLY",
+            "reason": "Practicalfood/humor/company/griefandharmfulexplanationscoexist;recipient/privateclockscorrect; no currentremorse/religion/diagnosis/futurerepair."
+          },
+          {
+            "identity": "andy",
+            "decision": "ACCEPT_ATTRIBUTED_DOCUMENT_TESTIMONY_RECEPTION_RETRIEVAL_ONLY",
+            "reason": "Materialmarks/translationandpluralordinarytestimonyretained; custodialandrecipientlabor/independentadaptation, couplehypothesesandunavailableinterior separated."
+          },
+          {
+            "identity": "all45_supporting_contexts",
+            "decision": "ACCEPT_SOURCE_BOUND_CONTEXT_RETRIEVAL_ROUTES_WITH_SPECIFIC_LIMITS",
+            "reason": "25shared+13member+6sourcegroups+1Dreturnpositiveacts/identificationfromexactsections; no actdistribution/newidentity/newrow/unknownasabsence/personaorpsychologicalsimplicityclaim."
+          }
+        ],
+        "retained_interpretation_limits": [
+          "CTX03originalproduceroutput isrouting-level; independentHC-CX05and45resultfileprovideconcreteHarry/Maxpositiveacts. Publishtheseactualresultsasevidence/operatorexamples,notonlygenericmemberfields.",
+          "Oldgenericmemberandpsychologyphrasesarepreservedhistory; exactcurrentsections+UNASSESSED_NOT_NEGATIVELY_PROVEN/laterexceptioncontrolsgovernuse.",
+          "Two anonymousTamaparentsretainseparateactswithinoneco-indexedprofile; no extraauditedprofile orrow."
+        ],
+        "material_defects_found": [],
+        "corrections_or_retests_required": false,
+        "canonical_derivative_authorization": "Preservesealedcandidatesandalltest/readrecords. Currentauthority/review/provenanceadministrativerendersandportablelosslessevidencepacket authorizedafterexactdiff/core/linkcheck; no mechanism/profilechangeswithoutattributablesuccessor/affectedreview.",
+        "validation_limits": [
+          "Manualsource-boundretrievalandsemantic/registerfidelity,noseparateengineorblindpredictiveaccuracy.",
+          "No authenticnewcurrent/posthumousinterior, firstpersondeadvoice,newJapanese/fullidiolect/acoustics,globalgrade/ownercalibration/terminalpass.",
+          "Sourceliteraturevetoesderivedoutput; no sourceadmissionorclaimrevisionfrommodelgeneration."
+        ],
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0,
+        "campaign": "Nineindividualdecisionmodels and3attributedretrievalmodules/45contextresponsibilities nowrootaccepted;principal6constructingunderseparatefrozencriteria. Initial6authorpublicationgreen6676; remainingpackagesnormalpublicationpending."
+      }
+    }
+  ]
+}

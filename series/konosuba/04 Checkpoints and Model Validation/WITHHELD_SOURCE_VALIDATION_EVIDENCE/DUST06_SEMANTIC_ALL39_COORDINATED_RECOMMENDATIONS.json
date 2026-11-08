@@ -1,0 +1,997 @@
+{
+  "authored_utc": "2026-10-17T19:23:32.188521+00:00",
+  "state": "COORDINATED_RECEIVING_RECOMMENDATIONS_NOT_ROOT_ACCEPTANCE_OR_MODEL_UPDATE",
+  "source_id": "DUST-06",
+  "exact_unchanged_registry_sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+  "unchanged_suite_freeze_sha256": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4",
+  "all39": [
+    {
+      "contract_id": "R1-K01",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "154707879df2e511257bb60ff2d0dda3366e058d4748cf0499838135dac36041",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Mediated Serena credit does not supply Kazuma’s received obstacle, usable affordance or initial attempt; Dust’s tactics remain another actor’s evidence.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 163,
+          "last_p": 170
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The Serena revelation is a mediated reference to an already admitted MAIN event; the cheap affordance, receipt and initial-choice conjunction are not supplied as a new Kazuma decision.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K02",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "b9197acf308cdc9cff1941a9878c5848f95ee34d2cccae12ea2015679c2be91e",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "No matched Kazuma optional request under material security and low reward is shown; no inference that he would refuse or help follows.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 129,
+          "last_p": 148
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Dust’s paid escorting is not Kazuma. No identified Kazuma first response under the security/low-incentive/known-requester conjunction occurs.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K03",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "ff01f939d601c305e19a6d3be2b945dc29118a1828c29266dc5cc8b67869e393",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The new costly rescue acts belong to Dust and his companions; the Serena report does not reconstruct a new Kazuma danger/means/cost interval.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 200,
+          "last_p": 254
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Dust’s costly protection and later rescue are analogous themes, not a Kazuma valued-person decision.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K04",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "c1c18626dae4756fe87c8eaf895f7809bf290a9454972a43113011c58f9fef30",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Dust’s grievance, casino theater and imposed meal bill cannot supply Kazuma’s valid-grievance/leverage/pressure choice.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C02",
+          "member": "item/xhtml/p-003.xhtml",
+          "first_p": 440,
+          "last_p": 546
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The grievance/pressure actors are Dust and the princess, not Kazuma. Their redress does not test a subject-specific K forecast.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K05",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "58aea31a914aa74fb4066e0256c42a165bc9eb26de088bcdd0871d39011e2d0c",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "No Kazuma failure receipt and next method choice are accessible in the Serena retelling; first-person Dust revisions are not substitutes.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C02",
+          "member": "item/xhtml/p-003.xhtml",
+          "first_p": 440,
+          "last_p": 484
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Dust’s aerial search revision is actual but not Kazuma’s technique revision; no new Kazuma failure/new-information branch is shown.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K06",
+      "exact_frozen_type": "COGNITIVE_VALUATION_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "59ef4f257a462e4c1a52298d3d5297281ca9590e50b3adbdc504260053b5dc1f",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "This valuation contract needs Kazuma’s own accessible particular-company appraisal. Other agents’ genuine attachments do not test it.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 105,
+          "last_p": 126
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "A lookalike substitute offer concerns Dust, not Kazuma; no adequate K cognitive-valuation comparison is available. No durability prerequisite is added.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K07",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "1410bb9dd2e71a8ee5f916c07a7f73c262adfbe14a8eec3808d3b4a0aa5b6eba",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Dust’s agency excuses and the political kidnapping account are not Kazuma’s own audience-directed explanation.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 174,
+          "last_p": 203
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Dust’s self-exonerating account is not Kazuma’s account. No identified Kazuma explanatory opportunity is depicted.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-K08",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "K",
+      "literal_contract_utf8_sha256": "e0d619988397733cd858de12b4f6ab2b2ba102dab072b145cdcf461ceeca37a7",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The attributed 爆裂魔法ソムリエ label is actual Japanese report, but lacks the independently chosen pressure purpose, leverage/addressee context and adequate reply required here.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 514,
+          "last_p": 519
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Dust reports Kazuma’s explosion connoisseurship, but supplies no Kazuma Japanese status-pressure act with independently fixed purpose. Dust’s polite sarcasm cannot replace him.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A01",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "384ad78b35ae4865d89becdbdeddf68f9d8edfe4573c7ff7c8817e00122accc1",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Future intended healing and the unnamed priest’s reported Cure do not establish Aqua identity, task receipt, adoption and executable next step.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 127,
+          "last_p": 132
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "A Cure is reported from an unidentified priest. It is not certified as Aqua; no independently identified adopted Aqua task/capacity/fit sequence is shown.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A02",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "7760c2f8ea701d2f814c092f4cb731a60f88b0ef88cd7c655e5fcecad402dc43",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The unknown-priest report lacks identified Aqua acknowledgment receipt and a continuing service-family choice; no analogy-based credit.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 532,
+          "last_p": 539
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Fatefore’s joyful partner response is not Aqua. No received acknowledgment followed by an identified Aqua service opportunity is supplied.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A03",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "ab01af7295958338cf6bc6c84c3ad4c2bf605ad81f9106b4a6852c47b7253a91",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The royal denial of an absent self-proclaimed goddess is not shown received by Aqua, and no adequate identity-defense reply follows.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 514,
+          "last_p": 518
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "A visitor doubts the reported self-deified priest, but no Aqua receipt or adequate reply is observed. Princess’s authority disputes are not Aqua identity denials.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A04",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "6555ffaa505bdc1571d9cba64e417f17dde97a15322a7a0c7c0374760ab259f2",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Retail work and external trades concern other people; no Aqua paid artistic repetition offer under her actual prior standard appears.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 219,
+          "last_p": 258
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The actual retail performance is by princess/Fatefore, not an Aqua paid-art repetition choice.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A05",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "c254c098cc8268255c12947b52a09a7f8c9917bae18256e97a58bdb21b9b1885",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Neither Wiz’s shop condition nor another actor’s assault supplies Aqua’s recognized bonded-target harm decision and prior trust/consent.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 385,
+          "last_p": 406
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Harassment and rescue concern other actors; no adopted Aqua categorical-role harm toward a consenting valued friend appears.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A06",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "dd8c709eda94f6344283df71eadf04961db11364b9422a179f1dc63f9d3db46e",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Other agents’ separation and valued company do not supply Aqua’s practical-ease/separation reflection; no obligatory stay rule is introduced.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "Epi",
+          "member": "item/xhtml/p-006.xhtml",
+          "first_p": 3,
+          "last_p": 10
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The separation/comfort contrast concerns princess, Leen and Dust, not Aqua; no Aqua appraisal/contact opportunity. No invented permanence floor.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A07",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "523feeea8bc07be3424307337e71366aa1180382ff9d5a12c8f38cd88bf756a1",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The directly narrated losing gambler is Line/Dust, not Aqua. Her actual loss receipt, next stake and rationale are unavailable.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C02",
+          "member": "item/xhtml/p-003.xhtml",
+          "first_p": 601,
+          "last_p": 693
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The repeated casino losses belong to Dust and wins to Riolnore. Similarity to Aqua’s gambling tendency is not actor identity.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-A08",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "A",
+      "literal_contract_utf8_sha256": "f360fac657568748b29473b2df7ad74002ba2d9e5a342b7347985c78bbabc03a",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The meaningful sword and other trades do not supply Aqua’s own particular possession loss and fungible-repair offer.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 501,
+          "last_p": 518
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Leen’s reaction to a narrated photograph is not Aqua’s identity-specific loss/replacement. No qualifying Aqua repair offer is observed.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M01",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "51829b70fbf3987e41cd7296a66155661759f695c90683e53de04e7701ed701b",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The distant explosion does not establish Megumin’s receipt of the preceding denigration or an independently known ordinary-cost decision.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 514,
+          "last_p": 519
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The princess denigrates Explosion and a distant blast follows, but Megumin’s receipt of that denigration, an available competitive response and known ordinary companion cost are not shown.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M02",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "e1bd2a414ed10223dfb150acf3997b5c41ff99054e92658e60b37bd76fac7d1e",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Reported earlier worm experience does not supply her accepted causal burden and genuine alternative-consideration interval.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 91,
+          "last_p": 104
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Yunyun mentions a previous incident with Megumin, but no current accepted burden/alternative/consideration choice by Megumin is supplied.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M03",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "a6bdc95c59faf6dff3008685052f6004d4f13a7bc99f32832f56f4fe536f919c",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "No adopted Megumin narrow task with known friendly geometry, resources and recovery is shown; distant power is insufficient.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 514,
+          "last_p": 522
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "A habitual distant blast does not supply Megumin’s accepted local target task, friendly separation, geometry or recovery provisions for this occurrence.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M04",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "22b9854d13d61238b56d37104d40e300eb0f3ca2579e63d0db5e3ccc00aff9a4",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "No Megumin recognized significant target and decisive harm choice appears; another royal caster cannot be substituted.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 118,
+          "last_p": 172
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The destructive novice is Riolnore, not Megumin; Yunyun’s old recollection does not establish Megumin’s significant actual target bond and before/after sequence.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M05",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "d30b67ce810b88be5409744afd0f3b925a6621aa0dbd308ac6a636cbb488026d",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "A daily-cast report supplies no instrumental-use/reward/weakened-goal/further-use chronology for Megumin.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C01",
+          "member": "item/xhtml/p-002.xhtml",
+          "first_p": 514,
+          "last_p": 522
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "One distant habitual blast does not establish prior instrumental use, received gratification, materially achieved/weakened goal and another rewarding Megumin use. No numeric-quota floor is added.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M06",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "a4c65023fb2aafd0809d6e76a521ff6939e28cc85301000914ceb011e5812eb6",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Dust, Rionor and Leen’s intimacy or impositions do not establish Megumin’s still-operative negotiated boundary and changed step.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C02",
+          "member": "item/xhtml/p-003.xhtml",
+          "first_p": 383,
+          "last_p": 436
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The manipulated bed scene is Dust/princess, not Megumin. No Megumin negotiated pace/privacy boundary and changed intimate-step opportunity occurs.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-M07",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "M",
+      "literal_contract_utf8_sha256": "182e7e3f05eb6455c3a88eda3a39301497c585423e1a434787d20166a39d27fa",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Yunyun’s humiliating options are not a Megumin face-saving offer with a known valued-person cost and own-face-loss alternative.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 491,
+          "last_p": 518
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The jealousy/face-saving actors are Leen and the maid. No Megumin face-saving offer with the full falsehood/humiliation cost is observed.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D01",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "b7c9098d8d19204da1ea27875b96e0e01bff75f4a08548f709bffe0ac0c35df1",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "New protective acts belong to other named actors; Darkness’s recognized particular harm, means and actual choice are not supplied.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 200,
+          "last_p": 254
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The protective acts are by Dust/princess/Yunyun, not Darkness. A comparison is not a Darkness serious-harm opportunity.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D02",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "52119015c3a981b4c96d1a9ac5da617708d992da9914ff22cb96d3a1ee8c35c4",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The masochistic noble caricature and Rolyssa’s hypothetical Darkness comparison do not show her receiving correction and choosing.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 390,
+          "last_p": 395
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Rolyssa imagines Darkness as a receptive erotic audience. This does not establish Darkness’s received efficiency advice, helplessness reward and actual choice.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D03",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "9d32e9a67a32512565856695e4399105a73ef2847651335a41be0c5c7e86f4a0",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The royal disguise and identity exposures concern other people, without Darkness’s actual peer-treatment preference and received violation.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C02",
+          "member": "item/xhtml/p-003.xhtml",
+          "first_p": 791,
+          "last_p": 837
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Dust’s involuntary class exposure and princess’s royal-recognition disputes do not test Darkness’s independently preferred peer treatment.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D04",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "139faa672a243a49b986740aecb026671e80b910f134073efdc62f8842440d99",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "The royal burden and intercession are different-agent events; no Darkness initial disclosure/remedy opportunity is supplied.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C02",
+          "member": "item/xhtml/p-003.xhtml",
+          "first_p": 922,
+          "last_p": 1019
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The family/political burden is the knight/princess history. No Darkness received burden/remedy/initial disclosure sequence is shown.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D05",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "1de022ecd9aee75aa418e3dd6e26804c4af997779c2388b442faf5be6aaa71f9",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Paralyzed Perie and resisting Leen cannot substitute for Darkness’s selected scope, unwanted new condition and actual response.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 385,
+          "last_p": 400
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "A speculative comparison to Darkness does not establish her selected scope, unwanted changed condition or response; no consent is inferred from sexuality.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D06",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "7fc773689638cd82b6b6eea16900e2bec51e2b2eb5260f5f06fb310d29d4321f",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Available household/court skills are those of other agents; no concrete Darkness responsibility and known skill/resource interval is shown.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 350,
+          "last_p": 432
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Rescue roles are actually supplied to other named actors; no Darkness available domain task or nonattempt is observed.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D07",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "1bfce8c93fe2f7df886940b7381196eebe9d2c2745751584b08a9ccb03281bf7",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "No Darkness valued-person admission/answer and later independently received ridicule phases appear.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C04",
+          "member": "item/xhtml/p-005.xhtml",
+          "first_p": 479,
+          "last_p": 515
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "Leen’s acknowledgment/jealousy and later teasing are not Darkness’s valued-person admission then ridicule sequence.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-D08",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "D",
+      "literal_contract_utf8_sha256": "74a1ce0957c5dc43d58dbfbcc9b493f2700c235bd5661e7fde114af7fce2e4ad",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "NOT_TESTED"
+      },
+      "recommended_source_local_outcome": "NOT_TESTED",
+      "coordinated_receiving_rationale": "Royal confidence and risky encouragement do not establish Darkness’s known personal-survival confidence and actual battle encouragement.",
+      "outcome_scope": "Named-subject full conjunction not identified; not absence confirmation, a physical-appearance floor or different-agent substitution.",
+      "primary_routes": [
+        {
+          "source_id": "DUST-06",
+          "unit": "C03",
+          "member": "item/xhtml/p-004.xhtml",
+          "first_p": 390,
+          "last_p": 395
+        }
+      ],
+      "literal_threshold_and_remaining_guard": "The reported taste does not identify a Darkness caster-encouragement occasion, salient survival precedent or independently unestablished group safety.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E01",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "9b977f8d8360998c5fd6c500127b5e4900ca6238616c56b8d7b6dba7cbe3d4bb",
+      "immutable_initial_dispositions": {
+        "semantic": "CONFIRMED",
+        "root": "CONFIRMED",
+        "independent": "AMBIGUOUS"
+      },
+      "recommended_source_local_outcome": "AMBIGUOUS",
+      "coordinated_receiving_rationale": "The final accepted raid handoff is a complete compatible phase. The worm delay is a substantial potential local opposite: actual next-fight cooperation207–208 and help requests223/226 precede watching227–237 and only then a new reward238/241. The source does not uniquely settle whether the general agreement fixed the emergent fitted rescue roles against already disclosed disgust/study goals. Neither a fresh verbal job title nor eventual reward-driven success is a valid rescue.",
+      "outcome_scope": "Complete positive phases plus an unresolved full-opposite eligibility reading; not an established F and not favorable-only C.",
+      "primary_routes": "C03P82–117;195–269; C04P417–418/582–600",
+      "literal_threshold_and_remaining_guard": "One full eligible nonattempt is sufficient; accepted-role scope and known geometry/capacity remain the genuine unresolved conjuncts, not a new repetition or formal-assignment floor.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E02",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "dd4cfb4fedeed2d89967c61eb678b98317ad6e727d5e8018bb1cac4aa137e48b",
+      "immutable_initial_dispositions": {
+        "semantic": "NOT_TESTED",
+        "root": "NOT_TESTED",
+        "independent": "PARTIAL"
+      },
+      "recommended_source_local_outcome": "PARTIAL",
+      "coordinated_receiving_rationale": "The first-saver reward actually redirects behavior and three actors seek the same item for different purposes. Its known comparison does not independently show enabling/protective work being undervalued. Casino rivalry and raw-output praise likewise lack the full shared-task/bad-metric conjunction.",
+      "outcome_scope": "Component-only P; full conditional remains NOT_TESTED. NT with these explicit component fields is an equivalent scope-preserving summary.",
+      "primary_routes": "C03P238–269; C02P601–656; C03P151–159",
+      "literal_threshold_and_remaining_guard": "The one-full all-actor cooperative opposite criterion is unchanged. Neither ordinary competition nor metric-aligned rescue is a guarded win; synthetic E02 adverse/rival remains untouched.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E03",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "57c9fceea66cdf3c502dd3bd85c9e15c27d377e4459cd527e3017a055dbc88df",
+      "immutable_initial_dispositions": {
+        "semantic": "CONFIRMED",
+        "root": "CONFIRMED",
+        "independent": "CONFIRMED"
+      },
+      "recommended_source_local_outcome": "CONFIRMED",
+      "coordinated_receiving_rationale": "The post-flight room request322 follows actual escape, available accepted shelter320–321 and the princess’s fatigue323; actual provision325–326 follows. Distinct payment-shortfall and washing interventions also fit. No mere stalled cost is counted as action.",
+      "outcome_scope": "Bounded actual requests/attempts; no unconditional or successful universal recovery rule.",
+      "primary_routes": "C02P286–326; C01P489–495; C03P195–206",
+      "literal_threshold_and_remaining_guard": "At least one cue receiver actually communicates or acts. Existing contrary delays and future liabilities remain; final repayment and complete safety are unshown.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E04",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "ce8e674ae60bc5e707ac41c4151df040ed40e92a00cddcbed842a161c809aa28",
+      "immutable_initial_dispositions": {
+        "semantic": "CONFIRMED",
+        "root": "PARTIAL",
+        "independent": "CONFIRMED"
+      },
+      "recommended_source_local_outcome": "CONFIRMED",
+      "coordinated_receiving_rationale": "The old matched slice supplies imminent marriage173, the easier duty-preserving course182–191, present attachment188–190 and the costly contact-preserving trip193–204. The current last visit separately retains secure return260–267, actual marriage508 and farewell543. Neither full case requires permanent reunion.",
+      "outcome_scope": "At least one fully matched company-preservation case; staff substitution remains a separate unresolved adverse neighbor.",
+      "primary_routes": "C02P168–204; C04P251–272/501–547",
+      "literal_threshold_and_remaining_guard": "At-least-one concern/contact attempt at cost is the positive action; the all-affected uncomplicated-loss opposite is not established for staff without their independently present company valuation. Actual departure is retained.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E05",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "3a766d1a5f47f894d8470ba7fe74dfc157c15b42be645d45179c4c6148e39c7f",
+      "immutable_initial_dispositions": {
+        "semantic": "CONFIRMED",
+        "root": "CONFIRMED",
+        "independent": "CONFIRMED"
+      },
+      "recommended_source_local_outcome": "CONFIRMED",
+      "coordinated_receiving_rationale": "Actual quest questions82–84 precede disclosure85–87. Raid questions355/357/358 likewise precede the fabricated account362–364. Rolyssa’s later observed sleep-inducing assistance has an actual prior instruction/disclosure route595–600, not mind-reading.",
+      "outcome_scope": "Behavioral clarification before disclosure, independent of a correct knowledge trace.",
+      "primary_routes": "C03P82–117; C04P350–428/595–600",
+      "literal_threshold_and_remaining_guard": "Literal withholding OR different-accounts trigger retained; no sole-organizer floor or demand that all partners diverge. Correct inference and robust aligned action remain legitimate contrary possibilities.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E06",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "2695005adb076a77dce11a1932e46e683a07e9d03722bb6ebf147b331ffcf103",
+      "immutable_initial_dispositions": {
+        "semantic": "PARTIAL",
+        "root": "PARTIAL",
+        "independent": "AMBIGUOUS"
+      },
+      "recommended_source_local_outcome": "AMBIGUOUS",
+      "coordinated_receiving_rationale": "Many recipients actually object while retaining valued relations. The strongest quieter interval is C02P297/299 explicit slowdown/stop, continued acceleration300 and renewed tricks302 followed by quiet303. Vacant eyes304 cannot establish incapacity:305 is speech and306 muttering; later exhaustion323 stays later. Adequate able response during the compressed aerial interval remains unresolved. Yunyun39 simultaneously yields and requests a pause after the renewed countdown38, creating a real function/segmentation alternative rather than certain silence.",
+      "outcome_scope": "Compatible objections plus substantial unresolved one-case adverse readings; no ethical-trace success or presumed consent.",
+      "primary_routes": "C02P286–326; C03P29–45; C01P174–195; C04P381–391/617–620",
+      "literal_threshold_and_remaining_guard": "One fully eligible silent/yield/no-limit occasion would be adverse. No eventual-protest rescue, repetition floor, assumed incapacity or preference inferred from yielding is allowed. Actual request-to-wait cannot be erased by requiring verbatim renewal of the earlier boundary.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E07",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "940d61417cde251b57fb930df21ad4ce04460dccd4a7d909a3c3ce15c4da70c9",
+      "immutable_initial_dispositions": {
+        "semantic": "CONFIRMED",
+        "root": "CONFIRMED",
+        "independent": "CONFIRMED"
+      },
+      "recommended_source_local_outcome": "CONFIRMED",
+      "coordinated_receiving_rationale": "The old couple accepts finite shelter and actually initiates room provision. Rolyssa accepts a bounded outside contribution and actually participates in the prearranged sleep-inducing/disarm phase. Neither needs a Kazuma node.",
+      "outcome_scope": "Concrete accepted outside phases only, not unlimited help or a whole replacement campaign.",
+      "primary_routes": "C02P319–326; C04P417–418/582–600",
+      "literal_threshold_and_remaining_guard": "The one-full no-attempt/rejection/wait-only-for-Kazuma criterion remains; actual initiation supplies local compatibility. Prior imposition and unknown political disclosure do not become blanket consent.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    },
+    {
+      "contract_id": "R1-E08",
+      "exact_frozen_type": "BEHAVIORAL_COMMITMENT",
+      "subject_model": "E",
+      "literal_contract_utf8_sha256": "f8ab22e7593333fae7fa1bcdbbbd9a2ede7a96214a66484823c3a2dd508060e7",
+      "immutable_initial_dispositions": {
+        "semantic": "PARTIAL",
+        "root": "PARTIAL",
+        "independent": "PARTIAL"
+      },
+      "recommended_source_local_outcome": "PARTIAL",
+      "coordinated_receiving_rationale": "There is genuine risky identity commitment, refusal, correction and safer substitution. The nude proposal is already challenged382 before Dust’s own reassurance384; it is not Rionor reassuring Dust. The child-risk challenge419 precedes the royal assurance424. Rooftop529 is a confident order refusing submission; it can be read as functional reassurance but does not uniquely establish safety reassurance, and persistence/correction must belong to the preidentified actors.",
+      "outcome_scope": "Component-only P, with the generous full-compatible rooftop reading retained; no fully demonstrated opposite.",
+      "primary_routes": "C04P350–428/451–477/501–547",
+      "literal_threshold_and_remaining_guard": "No explicit-guarantee, quartet, repeated-failure or certain-death floor is added. No later survival, self-assurance or reordered objection fills the full antecedent; persistence-only evidence cannot supply the other actor’s correction.",
+      "all_original_contract_conditions_thresholds_and_fields_unchanged": true,
+      "not_root_acceptance_or_accuracy_trial": true
+    }
+  ],
+  "four_generated_only_controls": [
+    {
+      "contract_id": "R1-T01",
+      "type": "CONSISTENCY_CONSTRAINT",
+      "literal_contract_utf8_sha256": "f6e24c24083147ed337074377206c5525394b11e9220de8cd303dd0f59d7c103",
+      "source_local_disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "no_new_generated_response_or_T_success": true
+    },
+    {
+      "contract_id": "R1-T02",
+      "type": "CONSISTENCY_CONSTRAINT",
+      "literal_contract_utf8_sha256": "a3651fffe62e71dcce6fa3ae2e96c28d1e7b365d20e49fdec6ee0d5560a580d3",
+      "source_local_disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "no_new_generated_response_or_T_success": true
+    },
+    {
+      "contract_id": "R1-T03",
+      "type": "CONSISTENCY_CONSTRAINT",
+      "literal_contract_utf8_sha256": "2fbacf5ce8c97be5f629ee64d85a3e259f40469ee20daa511b20b492cf9f4085",
+      "source_local_disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "no_new_generated_response_or_T_success": true
+    },
+    {
+      "contract_id": "R1-T04",
+      "type": "CONSISTENCY_CONSTRAINT",
+      "literal_contract_utf8_sha256": "5f4f52ac56f77148774dd992c18e4ddb8e1cb98484b635c3660478f0a5e30bb9",
+      "source_local_disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "no_new_generated_response_or_T_success": true
+    }
+  ],
+  "descriptive_recommendation_counts_not_accuracy": {
+    "NOT_TESTED": 31,
+    "AMBIGUOUS": 2,
+    "PARTIAL": 2,
+    "CONFIRMED": 4
+  },
+  "denominator": "No independent39/156 trials or aggregate accuracy; many rows share one dependent event. E02 P is explicitly full-trigger untested.",
+  "source_selection": "Full source-first initial retained; this is post-exchange coordinated receiving with shared models, past holdout findings and uncertain pretraining, not another independent initial rater."
+}

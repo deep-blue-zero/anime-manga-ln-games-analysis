@@ -41,7 +41,9 @@ def workflow(path: str) -> dict:
 
 
 class AuditReportingTests(unittest.TestCase):
-    def report(self, result: str, state: str, *, sha: str = "a" * 40, source: bool = False) -> tuple[object, dict]:
+    def report(
+        self, result: str, state: str, *, sha: str = "a" * 40, counts: dict[str, int | str] | None = None,
+    ) -> tuple[object, dict]:
         script = workflow(AUDIT)["jobs"]["report"]["steps"][0]["run"]
         program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
         environment = {
@@ -49,8 +51,9 @@ class AuditReportingTests(unittest.TestCase):
             "GITHUB_REPOSITORY": "deep-blue-zero/anime-manga-ln-games-analysis",
             "GITHUB_RUN_ID": "123", "AUDIT_RESULT": result,
             "INTEGRATION_STATE": state, "GH_TOKEN": "test-token",
-            "ANALYTICAL_SOURCE": "true" if source else "false",
         }
+        if counts is not None:
+            environment.update({f"AUDIT_{key.upper()}": str(value) for key, value in counts.items()})
         with mock.patch.dict(os.environ, environment, clear=True):
             with mock.patch("urllib.request.urlopen") as urlopen:
                 urlopen.return_value.__enter__.return_value.status = 201
@@ -79,13 +82,33 @@ class AuditReportingTests(unittest.TestCase):
                 _, payload = self.report(result, state)
                 self.assertEqual(payload["state"], expected)
 
-    def test_stable_source_is_pending_even_when_routing_is_current(self) -> None:
-        for state in ("success", "pending"):
-            _, payload = self.report("success", state, source=True)
-            self.assertEqual(payload["state"], "pending")
-            self.assertIn("housekeeping", payload["description"])
-        _, failed = self.report("failure", "success", source=True)
+    def test_reporter_publishes_the_validated_routing_state_directly(self) -> None:
+        _, current = self.report("success", "success")
+        self.assertEqual(current["state"], "success")
+        _, stale = self.report("success", "pending")
+        self.assertEqual(stale["state"], "pending")
+        self.assertIn("housekeeping", stale["description"])
+        _, failed = self.report("failure", "success")
         self.assertEqual(failed["state"], "failure")
+
+    def test_reporter_publishes_test_counts_in_the_status_description(self) -> None:
+        counts = {"tests_run": 486, "failures": 0, "errors": 0, "skipped": 0}
+        _, current = self.report("success", "success", counts=counts)
+        self.assertEqual(
+            current["description"],
+            "Exact commit passed the repository audit: 486 tests, 0 failed, 0 errors, 0 skipped",
+        )
+        _, pending = self.report("success", "pending", counts=counts)
+        self.assertIn("486 tests, 0 failed, 0 errors, 0 skipped", pending["description"])
+        self.assertIn("housekeeping", pending["description"])
+        self.assertLessEqual(len(pending["description"]), 140)
+        _, failed = self.report("failure", "success", counts=counts)
+        self.assertEqual(failed["state"], "failure")
+
+        for unavailable in (None, {"tests_run": 486}, dict(counts, skipped="bad"), dict(counts, tests_run="9" * 141)):
+            with self.subTest(counts=unavailable):
+                _, payload = self.report("success", "success", counts=unavailable)
+                self.assertTrue(payload["description"].endswith("test counts unavailable"))
 
     def test_invalid_target_is_rejected_before_a_status_write(self) -> None:
         with self.assertRaisesRegex(SystemExit, "invalid audited commit"):
@@ -95,7 +118,7 @@ class AuditReportingTests(unittest.TestCase):
         original = (ROOT / AUDIT).read_text(encoding="utf-8")
         entries = {
             path: SnapshotEntry(path, "100644", (ROOT / path).read_bytes())
-            for path in (AUDIT, "governance/repository-controls/test-execution-policy.json", "tools/tests/test-catalog.json")
+            for path in (AUDIT,)
         }
         policy = {"allowed_workflows": [AUDIT, HOUSEKEEPING, ".github/workflows/nightly-integration.yml"]}
         self.assertEqual(validate_audit_workflow(GitSnapshot(ROOT, "TEST", entries), policy), [])
@@ -106,6 +129,10 @@ class AuditReportingTests(unittest.TestCase):
             original.replace("    needs: audit", "    needs: unrelated", 1),
             original.replace("    runs-on: ubuntu-24.04", "    uses: owner/repo/workflow@ref", 1),
             original.replace("        shell: bash", "        uses: owner/action@ref\n        shell: bash", 1),
+            # The reporter must target the audited commit, not the dispatch run's default head.
+            original.replace(
+                "          AUDIT_COMMIT: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.commit_sha || github.sha }}\n          AUDIT_RESULT",
+                "          AUDIT_COMMIT: ${{ github.sha }}\n          AUDIT_RESULT", 1),
         )
         for changed in variants:
             with self.subTest(changed=changed[-100:]):
@@ -127,117 +154,125 @@ class AuditReportingTests(unittest.TestCase):
                             )
                             self.assertEqual(result.returncode, 0, result.stderr)
 
-    def test_execution_summary_preserves_large_reports_in_bounded_log_lines(self) -> None:
+    def test_execution_summary_keeps_full_reports_out_of_the_job_log(self) -> None:
         script = workflow(AUDIT)["jobs"]["audit"]["steps"][-1]["run"]
         program = script.split("python - <<'PY'\n", 1)[1].rsplit("\nPY", 1)[0]
         report = {
             "outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0,
-            "shadow_plan": {
-                "proposed_profile": "full", "excluded_ids": [],
-                "selected_ids": [f"test_{i}_" + "fixture" * 40 for i in range(300)],
-            },
+            "errors": "malformed count " * 300,
+            "tests": [{"id": f"test_{i}_" + "fixture" * 40, "seconds": 0.1} for i in range(300)],
         }
         self.assertGreater(len(json.dumps(report)), 65536)
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
             summary = root / "summary.md"
+            outputs = root / "outputs"
             (root / "test-timings.json").write_text(json.dumps(report), encoding="utf-8")
             output = io.StringIO()
-            with mock.patch.dict(os.environ, {"RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(summary)}, clear=True), contextlib.redirect_stdout(output):
+            environment = {"RUNNER_TEMP": str(root), "GITHUB_STEP_SUMMARY": str(summary), "GITHUB_OUTPUT": str(outputs)}
+            with mock.patch.dict(os.environ, environment, clear=True), contextlib.redirect_stdout(output):
                 exec(compile(program, "execution-summary", "exec"), {})
             emitted = output.getvalue()
-            payload = emitted.split("AUDIT_EXECUTION_REPORT_BEGIN: test-timings.json\n", 1)[1].split("\nAUDIT_EXECUTION_REPORT_END:", 1)[0]
-            self.assertEqual(json.loads(payload), report)
-            self.assertLess(max(map(len, emitted.splitlines())), 1024)
-            self.assertIn("Tests executed: 300; skipped: 0", summary.read_text())
-            self.assertIn("Actual execution remained full", summary.read_text())
-            self.assertIn("Archive validation: no completed report", summary.read_text())
+            self.assertNotIn("AUDIT_EXECUTION_REPORT_BEGIN", emitted)
+            prefix = "AUDIT_EXECUTION_SUMMARY: test-timings.json "
+            payload = next(line.removeprefix(prefix) for line in emitted.splitlines() if line.startswith(prefix))
+            self.assertEqual(json.loads(payload), {"outcome": "success", "seconds": 1.5, "tests_run": 300, "skipped": 0})
+            self.assertLessEqual(max(map(len, emitted.splitlines())), 300)
+            markdown = summary.read_text(encoding="utf-8")
+            self.assertIn("Tests executed: 300; skipped: 0", markdown)
+            self.assertIn("Archive validation: no completed report", markdown)
+            self.assertIn(json.dumps(report, sort_keys=True, indent=2), markdown)
+            self.assertEqual(set(outputs.read_text(encoding="utf-8").splitlines()), {"tests_run=300", "skipped=0"})
 
-    def test_unchanged_housekeeping_dispatches_only_after_current_head_checks(self) -> None:
+    def run_generation(self, *, routing_changed: bool, contains_main: bool) -> tuple[subprocess.CompletedProcess, list, Path]:
         if not shutil.which("bash"):
             self.skipTest("bash is unavailable")
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
         if not base_value or not Path(base_value).is_dir():
             self.skipTest("MANGA_ANIME_TEST_TMP is not available")
         step = workflow(HOUSEKEEPING)["jobs"]["synchronize"]["steps"][-1]
-        for branch_sha, main_sha, dispatched in (
-            ("a" * 40, "b" * 40, True),
-            ("c" * 40, "b" * 40, False),
-            ("a" * 40, "c" * 40, False),
-        ):
-            with self.subTest(branch=branch_sha, main=main_sha):
-                with tempfile.TemporaryDirectory(dir=base_value) as directory:
-                    root = Path(directory)
-                    binaries = root / "bin"
-                    binaries.mkdir()
-                    programs = {
-                        "git": (
-                            "import json, os, sys\n"
-                            "from pathlib import Path\n"
-                            "args = sys.argv[1:]\n"
-                            "with open(os.environ['TEST_GIT_CALLS'], 'a') as output:\n"
-                            "    output.write(json.dumps(args) + '\\n')\n"
-                            "if args[0] == 'ls-remote':\n"
-                            "    key = 'TEST_MAIN_SHA' if args[-1] == 'refs/heads/main' else 'TEST_BRANCH_SHA'\n"
-                            "    print(os.environ[key] + '\\t' + args[-1])\n"
-                            "elif args[0] == 'rev-parse':\n"
-                            "    print('b' * 40)\n"
-                        ),
-                        "python": (
-                            "import subprocess, sys\n"
-                            "from pathlib import Path\n"
-                            "if not sys.argv[1].startswith('tools/'):\n"
-                            "    assert sys.argv[1] == '-'\n"
-                            "    original = subprocess.check_output\n"
-                            "    git_stub = str(Path(__file__).with_name('git.py'))\n"
-                            "    def check_output(args, **kwargs):\n"
-                            "        assert args[0] == 'git', args\n"
-                            "        return original([sys.executable, git_stub, *args[1:]], **kwargs)\n"
-                            "    subprocess.check_output = check_output\n"
-                            "    sys.argv = sys.argv[1:]\n"
-                            "    exec(compile(sys.stdin.read(), '<workflow-stdin>', 'exec'), {'__name__': '__main__'})\n"
-                        ),
-                        "curl": (
-                            "import os\n"
-                            "from pathlib import Path\n"
-                            "Path(os.environ['TEST_DISPATCHED']).write_text('called')\n"
-                        ),
-                    }
-                    for name, program in programs.items():
-                        target = binaries / name
-                        program_path = binaries / (name + ".py")
-                        program_path.write_text(program, encoding="utf-8", newline="\n")
-                        target.write_text(
-                            "#!/bin/sh\nexec " + shlex.quote(Path(sys.executable).as_posix())
-                            + " " + shlex.quote(program_path.as_posix()) + ' "$@"\n',
-                            encoding="utf-8", newline="\n",
-                        )
-                        target.chmod(0o700)
-                    calls = root / "git-calls"
-                    marker = root / "dispatched"
-                    environment = dict(
-                        os.environ, PATH=str(binaries) + os.pathsep + os.environ["PATH"],
-                        SOURCE_SHA="a" * 40, BRANCH_NAME="series/example",
-                        SOURCE_AUDIT_CONCLUSION="success", GH_TOKEN="test-token",
-                        GITHUB_REPOSITORY="deep-blue-zero/anime-manga-ln-games-analysis",
-                        TEST_BRANCH_SHA=branch_sha, TEST_MAIN_SHA=main_sha,
-                        TEST_GIT_CALLS=str(calls), TEST_DISPATCHED=str(marker),
-                    )
-                    result = subprocess.run(
-                        ["bash", "-e", "-o", "pipefail"], input=with_stubs(step["run"], binaries, ("git", "python", "curl")), cwd=root,
-                        env=environment, text=True, capture_output=True, check=False,
-                    )
-                    self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-                    self.assertEqual(marker.exists(), dispatched)
-                    commands = [json.loads(line) for line in calls.read_text().splitlines()]
-                    self.assertFalse(any(args[0] in {"commit", "push"} for args in commands))
-                    if dispatched:
-                        payload = json.loads((root / "dispatch.json").read_text())
-                        self.assertEqual(payload["client_payload"], {
-                            "commit_sha": "a" * 40, "branch": "series/example",
-                        })
-                    else:
-                        self.assertFalse((root / "dispatch.json").exists())
+        directory = tempfile.TemporaryDirectory(dir=base_value)
+        self.addCleanup(directory.cleanup)
+        root = Path(directory.name)
+        binaries = root / "bin"
+        binaries.mkdir()
+        programs = {
+            "git": (
+                "import json, os, sys\n"
+                "args = sys.argv[1:]\n"
+                "with open(os.environ['TEST_GIT_CALLS'], 'a') as output:\n"
+                "    output.write(json.dumps(args) + '\\n')\n"
+                "if args[0] == 'diff' and '--quiet' in args:\n"
+                "    sys.exit(int(os.environ['TEST_DIFF_CODE']))\n"
+                "if args[0] == 'merge-base':\n"
+                "    sys.exit(int(os.environ['TEST_ANCESTOR_CODE']))\n"
+                "if args[0] == 'rev-parse':\n"
+                "    print('b' * 40)\n"
+            ),
+            "python": (
+                "import json, os, subprocess, sys\n"
+                "from pathlib import Path\n"
+                "with open(os.environ['TEST_GIT_CALLS'], 'a') as output:\n"
+                "    output.write(json.dumps(['python', sys.argv[1]]) + '\\n')\n"
+                "if not sys.argv[1].startswith('tools/'):\n"
+                "    assert sys.argv[1] == '-'\n"
+                "    original = subprocess.check_output\n"
+                "    git_stub = str(Path(__file__).with_name('git.py'))\n"
+                "    def check_output(args, **kwargs):\n"
+                "        assert args[0] == 'git', args\n"
+                "        return original([sys.executable, git_stub, *args[1:]], **kwargs)\n"
+                "    subprocess.check_output = check_output\n"
+                "    sys.argv = sys.argv[1:]\n"
+                "    exec(compile(sys.stdin.read(), '<workflow-stdin>', 'exec'), {'__name__': '__main__'})\n"
+            ),
+            "curl": (
+                "import os\n"
+                "from pathlib import Path\n"
+                "Path(os.environ['TEST_DISPATCHED']).write_text('called')\n"
+            ),
+        }
+        for name, program in programs.items():
+            target = binaries / name
+            program_path = binaries / (name + ".py")
+            program_path.write_text(program, encoding="utf-8", newline="\n")
+            target.write_text(
+                "#!/bin/sh\nexec " + shlex.quote(Path(sys.executable).as_posix())
+                + " " + shlex.quote(program_path.as_posix()) + ' "$@"\n',
+                encoding="utf-8", newline="\n",
+            )
+            target.chmod(0o700)
+        calls = root / "calls"
+        marker = root / "dispatched"
+        environment = dict(
+            os.environ, PATH=str(binaries) + os.pathsep + os.environ["PATH"],
+            SOURCE_SHA="a" * 40, BRANCH_NAME="series/example", GH_TOKEN="test-token",
+            GITHUB_REPOSITORY="deep-blue-zero/anime-manga-ln-games-analysis",
+            TEST_DIFF_CODE="1" if routing_changed else "0",
+            TEST_ANCESTOR_CODE="0" if contains_main else "1",
+            TEST_GIT_CALLS=str(calls), TEST_DISPATCHED=str(marker),
+        )
+        result = subprocess.run(
+            ["bash", "-e", "-o", "pipefail"], input=with_stubs(step["run"], binaries, ("git", "python", "curl")), cwd=root,
+            env=environment, text=True, capture_output=True, check=False,
+        )
+        commands = [json.loads(line) for line in calls.read_text().splitlines()] if calls.exists() else []
+        return result, commands, marker
+
+    def test_current_routing_exits_without_dispatch_or_write(self) -> None:
+        result, commands, marker = self.run_generation(routing_changed=False, contains_main=False)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn("routing outputs are current", result.stdout)
+        self.assertFalse(marker.exists())
+        self.assertFalse(any(args[0] in {"commit", "push", "ls-remote", "merge-base"} for args in commands))
+        self.assertNotIn(["python", "tools/prepare_commit.py"], commands)
+
+    def test_stale_routing_requires_current_main_before_any_write(self) -> None:
+        result, commands, marker = self.run_generation(routing_changed=True, contains_main=False)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("incorporate current main", result.stderr)
+        self.assertFalse(marker.exists())
+        self.assertFalse(any(args[0] in {"commit", "push"} for args in commands))
+        self.assertNotIn(["python", "tools/prepare_commit.py"], commands)
 
     def test_superseded_housekeeping_exits_before_generation(self) -> None:
         if not shutil.which("bash"):

@@ -1,0 +1,43 @@
+{
+  "schema": "KONOSUBA_KOMEKKO_SOURCE_KNOWN_INTERNAL_RECEIVING_V1",
+  "received_utc": "2026-10-20T02:54:15.254674+00:00",
+  "model01_sha256": "79dbef9175a1cedcab34ab19c618ddde23dd7e3802fc036abe31061814c52ea4",
+  "spec_sha256": "bc9c09ef30142588d8f526a570ed506e730733e1deb6bc632c30386df1694ec8",
+  "actual_first_responses_sha256": "e7e26a52cdf430a5b42e7791ec1eb1f11a20253e56cef9a66d30164e1cd2a2a5",
+  "actual_first_bodies_received": 8,
+  "receiving_method": "Same informed root read the exact persisted bodies and their sealed packets. No independent evaluator, separate runtime invocation, blind evidence, source holdout or native-human language check.",
+  "pair_findings": [
+    {
+      "id": "KM-K-H01",
+      "actual_first_response_findings": "A delays the section and requests food; B does a small lying-down attempt while sleepy. The bodies differ in immediate action but neither supplies completed work.",
+      "disposition": "BOUNDED_STATE_SENSITIVITY_WITH_STRONG_RIVALS",
+      "limits": "Hunger/fullness/sleep are explicit input bundles, and the answer closely reuses known source behavior. This does not identify a reward function, prove a unique action or establish a new successful novel-context prediction."
+    },
+    {
+      "id": "KM-K-H02",
+      "actual_first_response_findings": "A uses a snack-room alternative; B stays at the empty box and asks for a short discussion. However, A says she takes the snack box INTO the playroom although the sealed packet already locates the box INSIDE that room.",
+      "disposition": "ADVERSE_INTERNAL_SPATIAL_PACKET_FIDELITY_ERROR_RETAINED",
+      "limits": "The direction of object movement does not match the supplied initial state. Do not silently normalize it into an error-free first answer or attribute this authoring error to a source-observed child trait. Correct resource availability and a separately acknowledged lack of lock do not erase the location fault. B remains one underidentified fallback; ordinary feasibility explains much of its contrast.",
+      "required_author_instruction_revision": "Track initial object location, holder, movement and barriers explicitly. No behavioral rule or source fact is rescued by an exception.",
+      "after_receiving_illustration_not_a_new_trial": "A permissible repair would have her enter the playroom, take up the box already there and close the door. This description was authored only after receipt of the failure; it is not the first answer, a new test or validation credit."
+    },
+    {
+      "id": "KM-K-H03",
+      "actual_first_response_findings": "A voluntarily gives the valued book to the departing sister and asks for an early return; B guards the same owned object against an unrequested taking.",
+      "disposition": "SUPPORTED_POSSIBILITIES_NOT_UNIQUE_OR_ISOLATED",
+      "limits": "A is close to a known canonical gift and not a proven out-of-sample result. Recipient, separation and permission co-vary; generic ownership and care yield the same branches. The model permits alternatives such as a loan and gains no numerical confidence."
+    },
+    {
+      "id": "KM-K-H04",
+      "actual_first_response_findings": "Both recorded answer bodies are identical and preserve sister-report attribution without importing the hidden Yunyun account.",
+      "disposition": "INFORMATION_BOUNDARY_CONSISTENCY_NO_BEHAVIORAL_DISCRIMINATION",
+      "limits": "This checks adherence to explicit available-knowledge constraints. It is not a separate child decision contrast, source confirmation, proof of language skill or evidence that the model independently inferred the appropriate knowledge boundary."
+    }
+  ],
+  "one_adverse_first_body_location_error_preserved": true,
+  "formal_predictions_or_scores_changed": false,
+  "new_independent_source_or_accuracy_credit": 0,
+  "general_predictive_confidence_gain": false,
+  "tier_consequence": "A provisional scoped generative model can be authored from the varied source evidence, while this exercise leaves broad reliability unestablished and requires an attributable instruction clarification.",
+  "source_or_first_response_bodies_to_rewrite": []
+}

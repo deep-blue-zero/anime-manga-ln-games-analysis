@@ -1,0 +1,1635 @@
+{
+  "schema": "KONOSUBA_DUST01_SOURCE_AND_ACTUAL_READING_RECEIPT_V1",
+  "status": "canonical",
+  "accepted_utc": "2026-10-17T22:53:08.846506+00:00",
+  "source_id": "DUST-01",
+  "source_native_bytes": 19450953,
+  "source_native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+  "historical_receipts": {
+    "producer_principal": {
+      "original_bytes": 7612,
+      "original_sha256": "ff6d6b39938d273713e0128956cad61cea2b662760fb5b2de92918c56e440564",
+      "source_safe_content": {
+        "schema": "DUST01_CONTINUING_PRODUCER_ACTUAL_SOURCE_READING_RECEIPT_V1",
+        "source_id": "DUST-01",
+        "source_class": "PHASE_C_SUPPLEMENTAL_PRINCIPAL_PROSE",
+        "admission_sha256": "c2f86db3f203964d133d78cfc77ec54da0a0a87e1803331d0ab4519dea1a1066",
+        "actual_admission_utc": "2026-10-17T22:00:16.674116+00:00",
+        "native_bytes": 19450953,
+        "native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+        "OPF_member": "item/standard.opf",
+        "OPF_sha256": "925c4556a403e6676e95b57a9ca4df88838e1c6739a38ef6149dd626b4085ab0",
+        "preceding_publication_commit": "c781155764c1d605a2859e1e87fb2cddf67e40b5",
+        "preceding_gate_and_reload": "Root explicitly released Stage C after CLOSED_SUCCESS21:58:19.916567Z and published reload21:58:38.324101Z; this reader read the admission, not remote CI or any holdout assessment.",
+        "author_credit": "昼熊 author; 暁なつめ original work; 三嶋くろね character originals; 憂姫はぐれ illustration. OPF aut ambiguity remains metadata, not reattribution.",
+        "publication_metadata": "2017-08-01 official date; package modified2023-03-25 does not date fictional events or the closed bonus.",
+        "ordered_read_units": [
+          {
+            "unit": "Pro",
+            "member": "item/xhtml/p-002.xhtml",
+            "all_body_p": 42,
+            "native_member_sha256": "91b85aef7e2e2408bc4a337ee47f4bfd7925eabdd5086bad4da902786c44f361",
+            "private_projection_sha256": "d275a3a68ad40ab2f3a5b5098e9fc6ecc89c1cf9a6dfe89da129d1de3e706137"
+          },
+          {
+            "unit": "C01",
+            "member": "item/xhtml/p-003.xhtml",
+            "all_body_p": 176,
+            "native_member_sha256": "8ff5b86a41f9b66e77373902a8f4820aeede5c8a36076dbcf9dfda3cf2cf0bd5",
+            "private_projection_sha256": "9260e58a35614785003f990175d6119d97b7514fa2ac10fe8bb8efe361e2867c"
+          },
+          {
+            "unit": "C02",
+            "member": "item/xhtml/p-004.xhtml",
+            "all_body_p": 466,
+            "native_member_sha256": "afe32cc5d5cefd0f034174dbf936615a817b720b1314e46456b400b5ee2a7b82",
+            "private_projection_sha256": "3bc9725259d657511d233e61a5fca808eb16f09eacd83307292d403e75acfcf5"
+          },
+          {
+            "unit": "C03",
+            "member": "item/xhtml/p-005.xhtml",
+            "all_body_p": 411,
+            "native_member_sha256": "e39c43625ecfc0c72ff49a805a1baf90c5c3df53677a7c66f321528b4348bb49",
+            "private_projection_sha256": "e7532d0a0561794b0d2a20dde9e3b96ff0d100368555ebcd5882a49588a0bb0e"
+          },
+          {
+            "unit": "C04",
+            "member": "item/xhtml/p-006.xhtml",
+            "all_body_p": 575,
+            "native_member_sha256": "da16890f4a720b7568f3bf5f492b92befc2af6b313fce6fb090223601527ed8d",
+            "private_projection_sha256": "d5422918d80e9f85b4f009bd09a121ed5d58a80967b7e60555273d6343399063"
+          },
+          {
+            "unit": "C05",
+            "member": "item/xhtml/p-007.xhtml",
+            "all_body_p": 583,
+            "native_member_sha256": "fb0ce659939f2e6e4bc0b3848ded417ae3beafa949eb9dc0ef81d3113e5e8e85",
+            "private_projection_sha256": "4059b27bdd1a7dc3b95ec4b33c8fd0ea055ed158c035adc26fce6d914c8586b9"
+          },
+          {
+            "unit": "I01",
+            "member": "item/xhtml/p-008.xhtml",
+            "all_body_p": 52,
+            "native_member_sha256": "495d98fa18aaeab4b40dbb0fce0bf751d58cc527d6bc53688a71efa57397a670",
+            "private_projection_sha256": "e9c95197c25e064ddbb5518f49e5ec02e0b0f051df0d5b1b0eca600212be8c35"
+          },
+          {
+            "unit": "Final",
+            "member": "item/xhtml/p-009.xhtml",
+            "all_body_p": 801,
+            "native_member_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+            "private_projection_sha256": "11be2c60041254b3ca030135bdcad69c8cc699c00c08dd782639d244eaed76de"
+          },
+          {
+            "unit": "Epi",
+            "member": "item/xhtml/p-010.xhtml",
+            "all_body_p": 79,
+            "native_member_sha256": "b1ef3f26170e06516a63df036dc8bbbe3c47e1fa7ca085c14d8608f9e8e5260e",
+            "private_projection_sha256": "b43d590c3612cd7e362c86694237a69d392fa394ba3a7adc0a26c795133df1b9"
+          }
+        ],
+        "actual_coverage": {
+          "complete_ordered_base_and_all_ruby_pairs_read": true,
+          "all_body_p": 3185,
+          "nonempty_p": 3068,
+          "base_characters": 123624,
+          "ruby_records": 3299,
+          "rt_nodes_retained": 4913,
+          "untruncated_acknowledged_windows": 38,
+          "non_p_residual_records": 0,
+          "material_p_and_inline_style_flags_read": true,
+          "raw_p_XML": "Every original string independently mechanically verified and retained. Not every complete raw XML string was separately semantically reread; all base/rt reading pairs and displayed material style flags were read.",
+          "CSS_or_illustration_visual_inspection": false
+        },
+        "timing": {
+          "mechanical_verification_recorded_utc": "2026-10-17T22:01:33.428497+00:00",
+          "ordered_pass_started_record_utc": "2026-10-17T22:01:33.428778+00:00",
+          "ordered_pass_complete_acknowledged_utc": "2026-10-17T22:09:32.322854+00:00",
+          "window_timestamps": "Acknowledgment after actual tool output reading, not exact per-paragraph clock times.",
+          "receipt_written_utc": "2026-10-17T22:11:21.527929+00:00"
+        },
+        "earlier_within_volume_exposure": {
+          "member": "item/xhtml/p-010.xhtml",
+          "unit": "Epi",
+          "p": 5,
+          "extent": "Only that paragraph ruby array printed by an overbroad diagnostic, including original ruby XML tails. It exposed fragments of the admitted epilogue paragraph before the ordered pass; no full-P credit was awarded.",
+          "circumstance": "First ruby-shape diagnostic mistakenly selected the last unit’s first ruby-bearing row after mechanical extraction.",
+          "diagnostic_production_utc_no_later_than": "2026-10-17T22:01:33.428497+00:00",
+          "recognized_and_recorded_utc": "2026-10-17T22:02:10.251853+00:00",
+          "exact_model_consumption_clock": "UNKNOWN; between tool return and recorded acknowledgment. No invented exact opening time.",
+          "subsequent_full_ordered_read": "EpiP1–79 actually read after FinalP801, including complete EpiP5; window stored in READ_PROGRESS.json.",
+          "pristine_chronology_or_blindness_claim": false
+        },
+        "lineage_limits": [
+          "Continuing main-series V01–V17 analytical/model authoring and shared QA knowledge remains; not a fresh independent reader or statistical replicate.",
+          "Unknown pretraining/general-source familiarity cannot be certified absent.",
+          "No DustV06/V07 or other holdout narrative/findings/scores/rationales opened or received in this recorded task. Source-name/stage metadata and prior main-only receiver’s statement of its own exposure are not narrative findings.",
+          "No DUST02–05 body opened; no later Dust interpretation, current full map, bonusp012/afterwordp011, front/end body, image bytes or adaptation semantically opened.",
+          "Source-first notes, draft and selected records precede substantive DUST01 peer content exchange. No new Stage C out-of-sample score; main-only models/frozen forecasts untouched."
+        ],
+        "method_retrieval": "Freshly read complete volume-deep-reading method and Japanese-humor/voice protocol from exact published3b92. Prior project architecture/reconstruction/main-only authorities reused within root’s explicit scope. Live AGENTS/authority/scope/routing2–4/6–7/12 reread; current full project map deliberately not opened under root’s source shield.",
+        "capability": "Japanese text/ruby and native XML verification available. No audio, image viewing, human/native-speaker review or independently called model sampler. Runtime/model/build/sampling parameters not exposed: UNKNOWN.",
+        "completed_scope": "First complete ordered principal literary pass. Draft interpretation and purposive records are a separate product; no whole-EPUB component-completion claim.",
+        "canonical_Git_writes": false
+      }
+    },
+    "semantic_components": {
+      "original_bytes": 6449,
+      "original_sha256": "8406e337e6a5c37e4442f6a4b4282e3460a66bfd2bc9c619a31de3338efd5ae6",
+      "source_safe_content": {
+        "status": "ACTUAL_COMPLETED_NONPRINCIPAL_READING_AND_ORIGINAL_IMAGE_VIEWING_AT_DECLARED_SCOPE",
+        "attested_utc": "2026-10-17T22:13:28.232463+00:00",
+        "source_id": "DUST-01",
+        "native": {
+          "path": "PRIVATE_RECOVERY_3cf9b6c7914256ee",
+          "bytes": 19450953,
+          "sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644"
+        },
+        "input_receipts": [
+          {
+            "path": "PRIVATE_RECOVERY_9119eedbe042c169",
+            "bytes": 42918,
+            "sha256": "c70ad13cc1ecdb8e504347accb1257e5bd6ef4830880e5038348ffdaa684557a"
+          },
+          {
+            "path": "PRIVATE_RECOVERY_b0c4c4e7af181427",
+            "bytes": 15998,
+            "sha256": "c2f86db3f203964d133d78cfc77ec54da0a0a87e1803331d0ab4519dea1a1066"
+          },
+          {
+            "path": "PRIVATE_RECOVERY_17ce4675e4109115",
+            "bytes": 4539,
+            "sha256": "a192a989d601bf356a8ad3f3bb6f683d54a0b049bfc8bb55808582bcd2b77a63"
+          },
+          {
+            "path": "PRIVATE_RECOVERY_7d6aee5a1713fca8",
+            "bytes": 78752,
+            "sha256": "7d451df50ece74b7060ddb77345a687930141adfb16e0cdcea96a1539e74abfc"
+          }
+        ],
+        "text_display_coverage": [
+          {
+            "display": 1,
+            "components": [
+              "S01",
+              "S02",
+              "S03",
+              "S04",
+              "S05",
+              "S06",
+              "S07",
+              "S08",
+              "S09"
+            ],
+            "paragraph_ranges": {
+              "S06": [
+                1,
+                7
+              ],
+              "S07": [
+                1,
+                4
+              ],
+              "S08": [
+                1,
+                15
+              ]
+            },
+            "empty_wrappers_read": true,
+            "untruncated": true
+          },
+          {
+            "display": 2,
+            "components": [
+              "S19",
+              "S20"
+            ],
+            "paragraph_ranges": {
+              "S19": [
+                1,
+                19
+              ],
+              "S20": [
+                1,
+                52
+              ]
+            },
+            "all_base_and_ruby_displayed": true,
+            "untruncated": true
+          },
+          {
+            "display": 3,
+            "components": [
+              "S21",
+              "S22",
+              "S23",
+              "S24",
+              "N01"
+            ],
+            "paragraph_ranges": {
+              "S22": [
+                1,
+                21
+              ],
+              "S23": [
+                1,
+                6
+              ]
+            },
+            "empty_wrappers_and_entire_navigation_read": true,
+            "untruncated": true
+          },
+          {
+            "display": 3,
+            "additional": "Material non-ruby style/link/br/image elements of all authorized nonprincipal paragraph records displayed and read. All19 navigation body residuals read."
+          }
+        ],
+        "totals": {
+          "paragraph_slots": 124,
+          "nonempty_p": 111,
+          "base_characters": 3784,
+          "ruby": 40,
+          "rt_nodes": 71,
+          "non_p_residual_records": 19
+        },
+        "image_view_batches": [
+          {
+            "batch": 1,
+            "image_ids": [
+              "DUST-01-IMG-01",
+              "DUST-01-IMG-02",
+              "DUST-01-IMG-03"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          },
+          {
+            "batch": 2,
+            "image_ids": [
+              "DUST-01-IMG-04",
+              "DUST-01-IMG-05",
+              "DUST-01-IMG-06"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          },
+          {
+            "batch": 3,
+            "image_ids": [
+              "DUST-01-IMG-07",
+              "DUST-01-IMG-08",
+              "DUST-01-IMG-09",
+              "DUST-01-IMG-10"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          },
+          {
+            "batch": 4,
+            "image_ids": [
+              "DUST-01-IMG-11",
+              "DUST-01-IMG-12",
+              "DUST-01-IMG-13",
+              "DUST-01-IMG-14"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          },
+          {
+            "batch": 5,
+            "image_ids": [
+              "DUST-01-IMG-15",
+              "DUST-01-IMG-16",
+              "DUST-01-IMG-17",
+              "DUST-01-IMG-18"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          },
+          {
+            "batch": 6,
+            "image_ids": [
+              "DUST-01-IMG-19",
+              "DUST-01-IMG-20",
+              "DUST-01-IMG-21",
+              "DUST-01-IMG-22"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          },
+          {
+            "batch": 7,
+            "image_ids": [
+              "DUST-01-IMG-23",
+              "DUST-01-IMG-24",
+              "DUST-01-IMG-25",
+              "DUST-01-IMG-26",
+              "DUST-01-IMG-27"
+            ],
+            "tool": "view_image",
+            "detail": "original",
+            "actual_images_received_and_inspected": true
+          }
+        ],
+        "image_text_additional_scope": [
+          "kuchie-002 printed contents/credits",
+          "kuchie-003 character labels and quotations",
+          "kuchie-004 Darkness caption",
+          "img-p002 character reference profiles",
+          "img-p287 three creator comments",
+          "cover/allcover title/creator/intro/synopsis text",
+          "nine unit-card titles",
+          "BOOKWALKER logo"
+        ],
+        "principal_body_members_read": [],
+        "own_prose_QA": "Complete authored100-line report read back in lines1–55 and56–100; corrected nine-illustration count and removed an unsupported acoustic adjective before this first seal. Names/actor routes/base-ruby distinctions checked. Authorship/self-QA is not independent semantic acceptance.",
+        "reuse_scope": "Earlier methods and analytical context reused at recorded prior scopes. New relevant H1–H4/L0–L3/expanded-corpus provisions refreshed. Root component metadata and principal image placement reused transparently, while authorized nonprincipal native projection identity and all27 actual visual displays are new. No peer DUST01 prose or notes received.",
+        "prior_exposure": "Continuing informed AI lineage; all main/priorholdouts including laterDust already known. Component bonus/image exposure precedes any later authorized principal read. Pretraining uncertainty and shared-source ancestry disclosed.",
+        "actions_not_performed": [
+          "canonical/Git/index writes",
+          "P contact or disclosure",
+          "other EPUB/source lookup",
+          "R1/model/threshold/outcome changes",
+          "full principal novel reading or certification",
+          "native-human/acoustic/statistical-independent claims",
+          "whole-edition or overallStageC acceptance"
+        ]
+      }
+    },
+    "semantic_principal": {
+      "original_bytes": 27146,
+      "original_sha256": "8445f9cf0e6311264dfdf9598af3eb7f3de274ed331627ac025d9b0a5fb25dee",
+      "source_safe_content": {
+        "status": "ACTUAL_COMPLETE_ORDERED_PRINCIPAL_REVIEWER_PASS_INITIAL_SEAL",
+        "actual_receipt_utc": "2026-10-17T22:36:27.056916+00:00",
+        "source_pass_complete_by": "2026-10-17T22:30:47+00:00",
+        "finish_time_precision": "This is a latest recorded post-pass clock bound, not an invented per-paragraph reading time. Display acknowledgements attest completed batches after actual reading.",
+        "authority_admission_sha256": "c2f86db3f203964d133d78cfc77ec54da0a0a87e1803331d0ab4519dea1a1066",
+        "native_sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+        "units_in_actual_read_order": [
+          {
+            "unit": "Pro",
+            "member": "item/xhtml/p-002.xhtml",
+            "native_bytes": 7708,
+            "native_sha256": "91b85aef7e2e2408bc4a337ee47f4bfd7925eabdd5086bad4da902786c44f361",
+            "projection_sha256": "d275a3a68ad40ab2f3a5b5098e9fc6ecc89c1cf9a6dfe89da129d1de3e706137",
+            "paragraph_slots": 42,
+            "base_characters": 1598,
+            "ruby": 54,
+            "rt_nodes": 82,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 40,
+            "actual_read_ranges": [
+              {
+                "unit": "Pro",
+                "start": 1,
+                "end": 42,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:15:29.572147+00:00",
+                "path": "PRIVATE_RECOVERY_3b028ba69dfac1c8",
+                "bytes": 5888,
+                "sha256": "886f7a65bed46384b01f8bb42d8a9b1b3dc5022f5f6a3c3f88c518a30f61c9f5"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "C01",
+            "member": "item/xhtml/p-003.xhtml",
+            "native_bytes": 30336,
+            "native_sha256": "8ff5b86a41f9b66e77373902a8f4820aeede5c8a36076dbcf9dfda3cf2cf0bd5",
+            "projection_sha256": "9260e58a35614785003f990175d6119d97b7514fa2ac10fe8bb8efe361e2867c",
+            "paragraph_slots": 176,
+            "base_characters": 6982,
+            "ruby": 206,
+            "rt_nodes": 298,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 168,
+            "actual_read_ranges": [
+              {
+                "unit": "C01",
+                "start": 1,
+                "end": 90,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:15:29.572174+00:00",
+                "path": "PRIVATE_RECOVERY_0149932b25534a0c",
+                "bytes": 13319,
+                "sha256": "6ef69ae7dacdad4613ba22609b4dc3f48ebd880769c6a6aa154897a9be82e520"
+              },
+              {
+                "unit": "C01",
+                "start": 91,
+                "end": 176,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:15:29.572182+00:00",
+                "path": "PRIVATE_RECOVERY_b11334c3b0c1dce5",
+                "bytes": 11727,
+                "sha256": "f9a8ee41d280fbd5ddb639291a6ab1a3a9906b25a767e3866476ee71a9985682"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "C02",
+            "member": "item/xhtml/p-004.xhtml",
+            "native_bytes": 75376,
+            "native_sha256": "afe32cc5d5cefd0f034174dbf936615a817b720b1314e46456b400b5ee2a7b82",
+            "projection_sha256": "3bc9725259d657511d233e61a5fca808eb16f09eacd83307292d403e75acfcf5",
+            "paragraph_slots": 466,
+            "base_characters": 18323,
+            "ruby": 428,
+            "rt_nodes": 635,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 445,
+            "actual_read_ranges": [
+              {
+                "unit": "C02",
+                "start": 1,
+                "end": 90,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:17:11.855135+00:00",
+                "path": "PRIVATE_RECOVERY_46cd085a4d6f079c",
+                "bytes": 13041,
+                "sha256": "a3c174af98e40d3027e0c785933044d520cc61bdfe360f011da5f81e03279131"
+              },
+              {
+                "unit": "C02",
+                "start": 91,
+                "end": 180,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:17:11.855161+00:00",
+                "path": "PRIVATE_RECOVERY_a72a24c28154d86e",
+                "bytes": 13245,
+                "sha256": "1dfbf98ff76d8cd5831b5c1da6870c7f9a07fe0b45fbf0a1ca555745d3dcaf40"
+              },
+              {
+                "unit": "C02",
+                "start": 181,
+                "end": 270,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:17:11.855169+00:00",
+                "path": "PRIVATE_RECOVERY_e48d0bf980b8b8b7",
+                "bytes": 11645,
+                "sha256": "2a4ddc03371c92c8f54c4eabc22cdce56c17fe3685966db168f9ceb28f594b1c"
+              },
+              {
+                "unit": "C02",
+                "start": 271,
+                "end": 360,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:17:11.855174+00:00",
+                "path": "PRIVATE_RECOVERY_7b036722b6d099e5",
+                "bytes": 11595,
+                "sha256": "15f8b0409024022c582ab75624f07af9305c34869b0e4446dcdd5e21f7d68288"
+              },
+              {
+                "unit": "C02",
+                "start": 361,
+                "end": 466,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:17:11.855178+00:00",
+                "path": "PRIVATE_RECOVERY_0c177e1aa1234e9e",
+                "bytes": 15320,
+                "sha256": "c9b00f44cf0b27c964400d8ce034d7826d4cf7e84c05541fc62da08a6c7e60f5"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "C03",
+            "member": "item/xhtml/p-005.xhtml",
+            "native_bytes": 67514,
+            "native_sha256": "e39c43625ecfc0c72ff49a805a1baf90c5c3df53677a7c66f321528b4348bb49",
+            "projection_sha256": "e7532d0a0561794b0d2a20dde9e3b96ff0d100368555ebcd5882a49588a0bb0e",
+            "paragraph_slots": 411,
+            "base_characters": 16029,
+            "ruby": 429,
+            "rt_nodes": 626,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 393,
+            "actual_read_ranges": [
+              {
+                "unit": "C03",
+                "start": 1,
+                "end": 90,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:19:00.386812+00:00",
+                "path": "PRIVATE_RECOVERY_4da86eee358287c4",
+                "bytes": 12391,
+                "sha256": "376a2fa5f781a44479962f92c32334f7ef55bc731dc2105575002378ec6854ac"
+              },
+              {
+                "unit": "C03",
+                "start": 91,
+                "end": 180,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:19:00.386842+00:00",
+                "path": "PRIVATE_RECOVERY_5df8fe19e54201bb",
+                "bytes": 13045,
+                "sha256": "cd7f28d7062c24a0db86b1a76dcfceb7272c69287a49acda17e13492c2f162d0"
+              },
+              {
+                "unit": "C03",
+                "start": 181,
+                "end": 270,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:19:00.386850+00:00",
+                "path": "PRIVATE_RECOVERY_ce00110c120633d3",
+                "bytes": 12354,
+                "sha256": "324376002ad46a8e4b4b6db0eca3a271dcf61b15fc1c9ae88232d30b5616171f"
+              },
+              {
+                "unit": "C03",
+                "start": 271,
+                "end": 360,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:19:00.386855+00:00",
+                "path": "PRIVATE_RECOVERY_9fa73c5e392eedfb",
+                "bytes": 12586,
+                "sha256": "163aa337377ee35df869e29894c63f53389d0a611a4c019ad0755a1aa640bfdc"
+              },
+              {
+                "unit": "C03",
+                "start": 361,
+                "end": 411,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:19:00.386859+00:00",
+                "path": "PRIVATE_RECOVERY_fc8fd6700dd6cd58",
+                "bytes": 6692,
+                "sha256": "63bad8ac0fd4f863b171d4a85f1cc9f89e3df33cd308505e86c5859c383ce59f"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "C04",
+            "member": "item/xhtml/p-006.xhtml",
+            "native_bytes": 95037,
+            "native_sha256": "da16890f4a720b7568f3bf5f492b92befc2af6b313fce6fb090223601527ed8d",
+            "projection_sha256": "d5422918d80e9f85b4f009bd09a121ed5d58a80967b7e60555273d6343399063",
+            "paragraph_slots": 575,
+            "base_characters": 22488,
+            "ruby": 611,
+            "rt_nodes": 907,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 559,
+            "actual_read_ranges": [
+              {
+                "unit": "C04",
+                "start": 1,
+                "end": 90,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:22:34.356906+00:00",
+                "path": "PRIVATE_RECOVERY_63a8f5069106b50c",
+                "bytes": 13339,
+                "sha256": "29927ca2f11fa6d3764598e349dc83fec9522bc6ede60a06d8374b458d1b4c12"
+              },
+              {
+                "unit": "C04",
+                "start": 91,
+                "end": 180,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:22:34.356932+00:00",
+                "path": "PRIVATE_RECOVERY_79273908f8c55d14",
+                "bytes": 13296,
+                "sha256": "fd457295a143f5f9271982a2cfddf6cf55a3fd9f4b633e3cdb6be8417352f6db"
+              },
+              {
+                "unit": "C04",
+                "start": 181,
+                "end": 270,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:22:34.356940+00:00",
+                "path": "PRIVATE_RECOVERY_8c51da60fb64c347",
+                "bytes": 13294,
+                "sha256": "90bf5f9df412ce57e42e22e48e0646a7f87c7b07b08c2929493c80d6eedb5295"
+              },
+              {
+                "unit": "C04",
+                "start": 271,
+                "end": 360,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:22:34.356945+00:00",
+                "path": "PRIVATE_RECOVERY_06125448a20f2ee6",
+                "bytes": 12998,
+                "sha256": "070d8f1ab55576e9ec4f39fde8a5ebafd54b49ec50bb143f95db59370cda26b1"
+              },
+              {
+                "unit": "C04",
+                "start": 361,
+                "end": 450,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:22:34.356949+00:00",
+                "path": "PRIVATE_RECOVERY_ea67552b287b3bb8",
+                "bytes": 12249,
+                "sha256": "db5186c22d7ed97da51a2f9cd702ff79e0fe5b30147c131c2c41e98d2b5094c4"
+              },
+              {
+                "unit": "C04",
+                "start": 451,
+                "end": 575,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:22:34.356953+00:00",
+                "path": "PRIVATE_RECOVERY_1537ba23306f9261",
+                "bytes": 15073,
+                "sha256": "74737dcd61ae66f4d2239f6022fc66574ad4489807b26a31a3b474e7db3f0f5d"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "C05",
+            "member": "item/xhtml/p-007.xhtml",
+            "native_bytes": 98953,
+            "native_sha256": "fb0ce659939f2e6e4bc0b3848ded417ae3beafa949eb9dc0ef81d3113e5e8e85",
+            "projection_sha256": "4059b27bdd1a7dc3b95ec4b33c8fd0ea055ed158c035adc26fce6d914c8586b9",
+            "paragraph_slots": 583,
+            "base_characters": 24350,
+            "ruby": 563,
+            "rt_nodes": 841,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 564,
+            "actual_read_ranges": [
+              {
+                "unit": "C05",
+                "start": 1,
+                "end": 90,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647942+00:00",
+                "path": "PRIVATE_RECOVERY_0b2f33005133069e",
+                "bytes": 13791,
+                "sha256": "99036e0b949b38402fba56bd7ec665f2afddd92d938b973e287d60bb2ddcfb11"
+              },
+              {
+                "unit": "C05",
+                "start": 91,
+                "end": 180,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647966+00:00",
+                "path": "PRIVATE_RECOVERY_64f75e11ac5913ca",
+                "bytes": 14157,
+                "sha256": "f947e8607799c86115ac3c0b88d0f6fc3c2f42301c3260fd13c0cecf7fe7c892"
+              },
+              {
+                "unit": "C05",
+                "start": 181,
+                "end": 270,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647974+00:00",
+                "path": "PRIVATE_RECOVERY_ead80e38ddc95131",
+                "bytes": 13370,
+                "sha256": "2bb2d2e236628251bffebcea5c7b804a186f096e502c6dbdc6bf792795ff6618"
+              },
+              {
+                "unit": "C05",
+                "start": 271,
+                "end": 360,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647979+00:00",
+                "path": "PRIVATE_RECOVERY_1b79169e009b8ee8",
+                "bytes": 12876,
+                "sha256": "3168a2124017b33c1b972942fca053bb6085535bf451bcc48d1a7608c8736814"
+              },
+              {
+                "unit": "C05",
+                "start": 361,
+                "end": 450,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647982+00:00",
+                "path": "PRIVATE_RECOVERY_9af437c161be6a8c",
+                "bytes": 12396,
+                "sha256": "f71d9bf1ef753a2136f6f943fbaaac314f6b95e1869238b06380737310fe0ead"
+              },
+              {
+                "unit": "C05",
+                "start": 451,
+                "end": 540,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647985+00:00",
+                "path": "PRIVATE_RECOVERY_80cad837b79e1130",
+                "bytes": 12548,
+                "sha256": "208e18ab0a202bfdb2d001bf7519042c39fd91ce1fe1baafb7e5643651f028e0"
+              },
+              {
+                "unit": "C05",
+                "start": 541,
+                "end": 583,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:25:17.647988+00:00",
+                "path": "PRIVATE_RECOVERY_6232b5e192b2d0d7",
+                "bytes": 6233,
+                "sha256": "ae1ed32f5ac69afcd55d1c3c383d9ae13cd33464848d282c71dfce3095346ff3"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "I01",
+            "member": "item/xhtml/p-008.xhtml",
+            "native_bytes": 10001,
+            "native_sha256": "495d98fa18aaeab4b40dbb0fce0bf751d58cc527d6bc53688a71efa57397a670",
+            "projection_sha256": "e9c95197c25e064ddbb5518f49e5ec02e0b0f051df0d5b1b0eca600212be8c35",
+            "paragraph_slots": 52,
+            "base_characters": 2168,
+            "ruby": 71,
+            "rt_nodes": 99,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 49,
+            "actual_read_ranges": [
+              {
+                "unit": "I01",
+                "start": 1,
+                "end": 52,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341802+00:00",
+                "path": "PRIVATE_RECOVERY_4bb9d0926126bd1d",
+                "bytes": 7832,
+                "sha256": "d46f6554eabf769e483ceeae120fccbce14b5297639f7e6d7955c0fd179fee98"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "Final",
+            "member": "item/xhtml/p-009.xhtml",
+            "native_bytes": 126004,
+            "native_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+            "projection_sha256": "11be2c60041254b3ca030135bdcad69c8cc699c00c08dd782639d244eaed76de",
+            "paragraph_slots": 801,
+            "base_characters": 29016,
+            "ruby": 867,
+            "rt_nodes": 1321,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 773,
+            "actual_read_ranges": [
+              {
+                "unit": "Final",
+                "start": 1,
+                "end": 90,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341827+00:00",
+                "path": "PRIVATE_RECOVERY_49f8b95e38828e54",
+                "bytes": 12161,
+                "sha256": "f360235eb015b077ee4931d965b585b3653f1725f046597c9b7ec4cd8f53c09c"
+              },
+              {
+                "unit": "Final",
+                "start": 91,
+                "end": 180,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341835+00:00",
+                "path": "PRIVATE_RECOVERY_541ad9bd7480d627",
+                "bytes": 12644,
+                "sha256": "6c7eb9db4f7b9aef7c311ecff172dfc44390dff5991b29752f96166090817bd6"
+              },
+              {
+                "unit": "Final",
+                "start": 181,
+                "end": 270,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341840+00:00",
+                "path": "PRIVATE_RECOVERY_8ff729fccf5f6357",
+                "bytes": 13484,
+                "sha256": "3a802820cb2dfac64ea9bf77245de00b0f0c801f8ef72dfff48a92a57b71dbca"
+              },
+              {
+                "unit": "Final",
+                "start": 271,
+                "end": 360,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341844+00:00",
+                "path": "PRIVATE_RECOVERY_0bfa70f619d6bd6e",
+                "bytes": 11696,
+                "sha256": "8e3f3ed52d8906806dda4847fd43f8f138cae404d0d019e4768f2137ee09317b"
+              },
+              {
+                "unit": "Final",
+                "start": 361,
+                "end": 450,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341848+00:00",
+                "path": "PRIVATE_RECOVERY_d5e53e112dc3c3ba",
+                "bytes": 11251,
+                "sha256": "ad9a44ee03887901045ac308e62afb2db07a934411b0c651d94ff615055772de"
+              },
+              {
+                "unit": "Final",
+                "start": 451,
+                "end": 540,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341851+00:00",
+                "path": "PRIVATE_RECOVERY_c05c3dd50c697143",
+                "bytes": 11879,
+                "sha256": "43b80d3cf4fad6b52478afba00e15ea69e6e39fcd7f3be9727da308028ddaa5e"
+              },
+              {
+                "unit": "Final",
+                "start": 541,
+                "end": 630,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341867+00:00",
+                "path": "PRIVATE_RECOVERY_6493a53282077daa",
+                "bytes": 12368,
+                "sha256": "cced9bf300f81b472e0bd3e9f73440f84c9d9033c6593ff5bfa976a8f551c339"
+              },
+              {
+                "unit": "Final",
+                "start": 631,
+                "end": 720,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341871+00:00",
+                "path": "PRIVATE_RECOVERY_6e5b9751dc5f4249",
+                "bytes": 11732,
+                "sha256": "c92be3cd313e96272661d4762f6bbcdb473b5b0d76fe74273aa8c8150cb6f8af"
+              },
+              {
+                "unit": "Final",
+                "start": 721,
+                "end": 801,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341874+00:00",
+                "path": "PRIVATE_RECOVERY_452d4cfa5a37de6e",
+                "bytes": 9481,
+                "sha256": "f48466eb5e5d848873d23dd4c529e920b0facafa04aa23a9b78ecbe89cf55195"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          },
+          {
+            "unit": "Epi",
+            "member": "item/xhtml/p-010.xhtml",
+            "native_bytes": 11780,
+            "native_sha256": "b1ef3f26170e06516a63df036dc8bbbe3c47e1fa7ca085c14d8608f9e8e5260e",
+            "projection_sha256": "b43d590c3612cd7e362c86694237a69d392fa394ba3a7adc0a26c795133df1b9",
+            "paragraph_slots": 79,
+            "base_characters": 2670,
+            "ruby": 70,
+            "rt_nodes": 104,
+            "all_record_values_native_equal": true,
+            "semantic_reading": "NOT_ESTABLISHED_BY_MECHANICAL_CHECK",
+            "nonempty_p": 77,
+            "actual_read_ranges": [
+              {
+                "unit": "Epi",
+                "start": 1,
+                "end": 79,
+                "actual_display_read": true,
+                "untruncated": true,
+                "acknowledged_utc": "2026-10-17T22:30:23.341878+00:00",
+                "path": "PRIVATE_RECOVERY_ee97be733e6df820",
+                "bytes": 9644,
+                "sha256": "6eefe4f6c692fd6070c1949402d92ae61e512fb3c0c2a2ed6a0d85d64fa94091"
+              }
+            ],
+            "complete_gapfree_unique_coverage": true,
+            "non_whitespace_body_text_outside_p_count": 0
+          }
+        ],
+        "totals": {
+          "paragraph_slots": 3185,
+          "nonempty_p": 3068,
+          "base_characters": 123624,
+          "ruby": 3299,
+          "rt_nodes": 4913
+        },
+        "actual_untruncated_source_displays": 37,
+        "coverage_vs_mechanics": "Actual semantic reading is attested by acknowledged returned source displays and contemporaneous notes; equality and range proofs alone do not establish reading.",
+        "base_ruby_policy": "Base excludes rt/rp with tails retained. Source displays included all ruby readings and material paragraph/span classes, br and image positions. Full native/XML/ruby objects were independently equal before reading.",
+        "exposure": {
+          "prior_component_read_and_image_view": true,
+          "prior_main_and_four_holdout_knowledge": true,
+          "later_Dust06_Dust07_known": true,
+          "shared_AI_lineage_and_uncertain_pretraining": true,
+          "new_peer_DUST01_principal_findings_or_drafts_opened": false,
+          "P_contact_or_disclosure": false,
+          "narrow_own_actor_corrections_disclosed_to_root_during_pass": [
+            "IMG14 Mitsurugi not Dust",
+            "IMG16 Chris not Dust",
+            "IMG19 Sena not Yunyun"
+          ],
+          "no_absolute_blindness_statistical_independence_natural_order_native_human_or_acoustic_claim": true
+        },
+        "report_self_QA": {
+          "initial_large_print_truncated": true,
+          "recovered_complete_actual_readback_line_ranges": [
+            [
+              1,
+              20
+            ],
+            [
+              21,
+              44
+            ],
+            [
+              45,
+              76
+            ],
+            [
+              77,
+              115
+            ]
+          ],
+          "truncation_scope": "New analytical report readback only; all 37 source displays were already complete and untruncated."
+        },
+        "mechanical_packaging_recovery": "First seal script expected eleven claim paragraphs instead of the actual ten and stopped at that assertion before writing any products; failed script preserved. Corrected count only, with source reading and report unchanged.",
+        "prior_component_seal": {
+          "path": "PRIVATE_RECOVERY_b4795dce6dc0a46d",
+          "bytes": 2674,
+          "sha256": "4d312f7d7ca3c25e731523d87075ab125623d38b66e3e95fe5dc894272293e39"
+        },
+        "separate_first_actor_correction_seal": {
+          "path": "PRIVATE_RECOVERY_a5a65a74bb9833eb",
+          "bytes": 967,
+          "sha256": "7bcb62fd373d15735b5ad17b6f2fb8cf2e7981f22de78b699d64f4c0cd859015"
+        },
+        "limits": [
+          "No producer candidate acceptance",
+          "No all39 scoring assigned or fabricated",
+          "No formal new humor/voice denominator",
+          "No main-only model/frozen-history revision",
+          "No source outside separately admitted DUST01 scope opened in this task",
+          "Source and recovery media remain private, not public Git"
+        ]
+      }
+    },
+    "root_bounded_primary_and_anchor_joins": {
+      "original_bytes": 19825,
+      "original_sha256": "aa1ef5a830bb571ce03b4e15c4d5c0b16a1d7e3697a2adbf48f4bba81111e0e1",
+      "source_safe_content": {
+        "status": "ALL86_SELECTED_SHORT_FORMS_JOIN_EXACT_NATIVE_MEMBER_P_BASE",
+        "actual_utc": "2026-10-17T22:34:31.206265+00:00",
+        "checks": [
+          {
+            "id": "D01-H01",
+            "member": "item/xhtml/p-002.xhtml",
+            "p": 10,
+            "short_form_join": "PASS",
+            "native_base_sha256": "1568df07672f4d166683a48f8f0ea4640c1d3e00bc7f97f6562483c786079746"
+          },
+          {
+            "id": "D01-H02",
+            "member": "item/xhtml/p-002.xhtml",
+            "p": 20,
+            "short_form_join": "PASS",
+            "native_base_sha256": "590ae83ef83776b5cce0398e2f1cd4f0b7be3980e35ef86f5697fb2a9bd8533c"
+          },
+          {
+            "id": "D01-H03",
+            "member": "item/xhtml/p-002.xhtml",
+            "p": 28,
+            "short_form_join": "PASS",
+            "native_base_sha256": "c04e96e113a98a7dd9021e0f8860f5fb8413d65471950fc5fdf8ff04bfcd52c9"
+          },
+          {
+            "id": "D01-H04",
+            "member": "item/xhtml/p-002.xhtml",
+            "p": 42,
+            "short_form_join": "PASS",
+            "native_base_sha256": "287218641c4aca7eab76b3799b29bb291e843d6fcb1ec6945dbef0d4df916c5a"
+          },
+          {
+            "id": "D01-H05",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 38,
+            "short_form_join": "PASS",
+            "native_base_sha256": "f4d5eaa33283fac4f4aa7cd7d8fdb7f4a55916f55b7c8338f97ad1faf1516b43"
+          },
+          {
+            "id": "D01-H06",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 67,
+            "short_form_join": "PASS",
+            "native_base_sha256": "46914f871f068eb83788a1075f79c901c19d922d87f1e3c880ce3147799a0c29"
+          },
+          {
+            "id": "D01-H07",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 109,
+            "short_form_join": "PASS",
+            "native_base_sha256": "9579fd9c3660837430a885ab8883dd0595f0d4859d7949a69e4a4be6a76d4be9"
+          },
+          {
+            "id": "D01-H08",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 133,
+            "short_form_join": "PASS",
+            "native_base_sha256": "d279d1bf7357b0392f1c18a7e92ba7d810772eed4ceeb4f9d68e3364ce0caf07"
+          },
+          {
+            "id": "D01-H09",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 157,
+            "short_form_join": "PASS",
+            "native_base_sha256": "75e8c09f4898d66fb29d34c83348de4ba65bedee3db3daba3278aed88364acc0"
+          },
+          {
+            "id": "D01-H10",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 163,
+            "short_form_join": "PASS",
+            "native_base_sha256": "86f4d5e8ec147e46a8398976f773f60556d4f65a391a1d6541d07da9085b1e13"
+          },
+          {
+            "id": "D01-H11",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 27,
+            "short_form_join": "PASS",
+            "native_base_sha256": "83cad340c32e73c2d67207de0c653dd23091d8b5b6e21e828c7f4050e3200106"
+          },
+          {
+            "id": "D01-H12",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 33,
+            "short_form_join": "PASS",
+            "native_base_sha256": "f93c754564f709ba09c7cad1ac760ce59cee13b4febb3c910378d6dec1a706c9"
+          },
+          {
+            "id": "D01-H13",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 55,
+            "short_form_join": "PASS",
+            "native_base_sha256": "6e628dd3ffedaa944794ab352094711efc3cbce286a233790f9a5a3ec5187e0d"
+          },
+          {
+            "id": "D01-H14",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 66,
+            "short_form_join": "PASS",
+            "native_base_sha256": "888d159e4995371edf747d7097d3d1ea8905c7eabf043803decaf11af6d4ff80"
+          },
+          {
+            "id": "D01-H15",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 154,
+            "short_form_join": "PASS",
+            "native_base_sha256": "90da69ad302c7af5d60576b1a153d76ed6d8a1ceb6388bcc9885385f71483218"
+          },
+          {
+            "id": "D01-H16",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 215,
+            "short_form_join": "PASS",
+            "native_base_sha256": "a43857613d97bf6f28147bc3fc798ffca0c3890c4b86892e513f56c13a7f17bd"
+          },
+          {
+            "id": "D01-H17",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 288,
+            "short_form_join": "PASS",
+            "native_base_sha256": "64be0392e8c45e64d64549b9e22ca8d0b98938b1d7df6d0c9c51181b2792449e"
+          },
+          {
+            "id": "D01-H18",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 339,
+            "short_form_join": "PASS",
+            "native_base_sha256": "b2e7875e74287856786aba480311e71e1b1e46d8312a4d870113007d8d5965c3"
+          },
+          {
+            "id": "D01-H19",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 424,
+            "short_form_join": "PASS",
+            "native_base_sha256": "e5fa04940aef45b12724c8e9cab53c3b29f8e02b95218207ef09ac15f20209cb"
+          },
+          {
+            "id": "D01-H20",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 465,
+            "short_form_join": "PASS",
+            "native_base_sha256": "9408bd2d475eb723ed3464f645c17949f04ae9ef7c48fd8a87fc25ac27c838cd"
+          },
+          {
+            "id": "D01-H21",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 89,
+            "short_form_join": "PASS",
+            "native_base_sha256": "1b662e27084d01e883c1c295695707a78634017e92cc7b3616750a67a00b5fbe"
+          },
+          {
+            "id": "D01-H22",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 197,
+            "short_form_join": "PASS",
+            "native_base_sha256": "316439ae674c2686a4c527dde4cc7f0ab5c0e38d12940ef4de2b735be8c3562d"
+          },
+          {
+            "id": "D01-H23",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 273,
+            "short_form_join": "PASS",
+            "native_base_sha256": "0cce08361ba8d490903ea7faba5f11c8d1892b204fc42f9c33d676408b59a445"
+          },
+          {
+            "id": "D01-H24",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 342,
+            "short_form_join": "PASS",
+            "native_base_sha256": "70e479181da1ffc60a321335d3278ca4ee4a8bd7a78e35bab17fc622c20bac74"
+          },
+          {
+            "id": "D01-H25",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 387,
+            "short_form_join": "PASS",
+            "native_base_sha256": "413877787dec45e35bbf045fcce3645c9acdabeeebbe0e2d498c6de782b7d2c4"
+          },
+          {
+            "id": "D01-H26",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 405,
+            "short_form_join": "PASS",
+            "native_base_sha256": "a0a88e36d3c8ae12fe55e55c238178f6c93b6f11db9de9aa6cac4662d744fc05"
+          },
+          {
+            "id": "D01-H27",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 84,
+            "short_form_join": "PASS",
+            "native_base_sha256": "5c9bbd8f7eb74a34e0b0aa3bdd9717e2e3a4c6f51df3a9fe88333f5df4fe24a7"
+          },
+          {
+            "id": "D01-H28",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 144,
+            "short_form_join": "PASS",
+            "native_base_sha256": "b03953e5df2f7ece01bd6f5e979d53bd5b64e7aee9513959715f3a8fe5ec17f7"
+          },
+          {
+            "id": "D01-H29",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 192,
+            "short_form_join": "PASS",
+            "native_base_sha256": "83c8deed68ef03806c7475b32d2fdcaf6083c20b506d61325078ed33295e7a22"
+          },
+          {
+            "id": "D01-H30",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 235,
+            "short_form_join": "PASS",
+            "native_base_sha256": "378fd609e1c58db64b810958343878c8f4f57462272a520554635dc9877f425f"
+          },
+          {
+            "id": "D01-H31",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 260,
+            "short_form_join": "PASS",
+            "native_base_sha256": "650290040bf96edb8a08635010c5b4f77c2fe3c26cb2dc1af20ce4c2aa43ec4f"
+          },
+          {
+            "id": "D01-H32",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 305,
+            "short_form_join": "PASS",
+            "native_base_sha256": "af73a009618cb5ebb73edc187c40ccbb0b66fc568d9029f3d779ac2431bd4609"
+          },
+          {
+            "id": "D01-H33",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 327,
+            "short_form_join": "PASS",
+            "native_base_sha256": "985aafa023306c5c29f3d85e418321863fcbf3e2ef82dc126caa2056d70bc809"
+          },
+          {
+            "id": "D01-H34",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 449,
+            "short_form_join": "PASS",
+            "native_base_sha256": "62531f408ee42473cda56e335e9a3e94bc9df21b05c8c4a29f93dbd249d3b889"
+          },
+          {
+            "id": "D01-H35",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 506,
+            "short_form_join": "PASS",
+            "native_base_sha256": "d6519369adafdf2d9ec7b7b7f02472c3b83a5479a5444d92c47d4e458414db25"
+          },
+          {
+            "id": "D01-H36",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 530,
+            "short_form_join": "PASS",
+            "native_base_sha256": "a084b1382c36a5f5b5c45551e897f3d4819c8821884d1e9c938173740d7045a9"
+          },
+          {
+            "id": "D01-H37",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 544,
+            "short_form_join": "PASS",
+            "native_base_sha256": "d7af9965eeca2eabf6c86a050138f20f7b05ef91d422288327b4d96e89941f5b"
+          },
+          {
+            "id": "D01-H38",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 181,
+            "short_form_join": "PASS",
+            "native_base_sha256": "10917dec88124e9b2bd829bd43c9114752bde8b20e1382cb07d26c09226e9188"
+          },
+          {
+            "id": "D01-H39",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 263,
+            "short_form_join": "PASS",
+            "native_base_sha256": "f9881555ac3c22381c9cd634961d6933653ee630e488a24f943769cda00d9bbd"
+          },
+          {
+            "id": "D01-H40",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 319,
+            "short_form_join": "PASS",
+            "native_base_sha256": "536f36a8c58a2d68f49227b8e7c503bd72464a2fe5db06b8d6ddd335a0f7288b"
+          },
+          {
+            "id": "D01-H41",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 568,
+            "short_form_join": "PASS",
+            "native_base_sha256": "bdbb7f5ba060972a77803e562a1d9ff34bdef07d5e0cb6c07b8dba3b8d9a8d40"
+          },
+          {
+            "id": "D01-H42",
+            "member": "item/xhtml/p-008.xhtml",
+            "p": 47,
+            "short_form_join": "PASS",
+            "native_base_sha256": "22d02a14383ad61bfdb0b9324627a714113690e27e634af5558a187082fb8c7f"
+          },
+          {
+            "id": "D01-H43",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 65,
+            "short_form_join": "PASS",
+            "native_base_sha256": "e6539fe48f597b74f05f9ab86578895bbead9da552c23678a7f06dd4079fce35"
+          },
+          {
+            "id": "D01-H44",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 127,
+            "short_form_join": "PASS",
+            "native_base_sha256": "6a082596d17e5e31629489d21d600554b780270b9bd38f9c6f54f173ba75975b"
+          },
+          {
+            "id": "D01-H45",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 208,
+            "short_form_join": "PASS",
+            "native_base_sha256": "ad085d1e75014feac791a3bb16b0a58e99ed63f6511abb0d790fc1e623a9cf0c"
+          },
+          {
+            "id": "D01-H46",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 290,
+            "short_form_join": "PASS",
+            "native_base_sha256": "757b425bf12850d9ac768eff55343a94c7bb65e8a1e74f53682f9f9466bf1a25"
+          },
+          {
+            "id": "D01-H47",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 443,
+            "short_form_join": "PASS",
+            "native_base_sha256": "66a91820ab2b5b59b30e4688e0896a5b794c611a8a71f424796fcbf79a4e0f7f"
+          },
+          {
+            "id": "D01-H48",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 559,
+            "short_form_join": "PASS",
+            "native_base_sha256": "8264294492363eccc3f0bd263808822a57f80f17345adf5f8509815ba3973189"
+          },
+          {
+            "id": "D01-H49",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 626,
+            "short_form_join": "PASS",
+            "native_base_sha256": "778befb3d558a88b5d826796fc8fdd374848ec6b0b0de4b34cecf1404f477dd9"
+          },
+          {
+            "id": "D01-H50",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 735,
+            "short_form_join": "PASS",
+            "native_base_sha256": "fe4560a37eb027bdc27ec26b6fe48405ad5c6391cd41516f871a017b29e35296"
+          },
+          {
+            "id": "D01-H51",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 784,
+            "short_form_join": "PASS",
+            "native_base_sha256": "e9209d7b665230e5cd1f9056903213536b8ca6aacb0cad509ea038aab3333e41"
+          },
+          {
+            "id": "D01-H52",
+            "member": "item/xhtml/p-010.xhtml",
+            "p": 54,
+            "short_form_join": "PASS",
+            "native_base_sha256": "59eadb384c2f08e34ba35674931d219190974b96cba68b599ddbcbc7f0321a83"
+          },
+          {
+            "id": "D01-H53",
+            "member": "item/xhtml/p-010.xhtml",
+            "p": 76,
+            "short_form_join": "PASS",
+            "native_base_sha256": "7ab423eb6efd06b21aa6fd39d15e9f64a2db1b6783bd536435abc0eeea04521d"
+          },
+          {
+            "id": "D01-V01",
+            "member": "item/xhtml/p-002.xhtml",
+            "p": 10,
+            "short_form_join": "PASS",
+            "native_base_sha256": "1568df07672f4d166683a48f8f0ea4640c1d3e00bc7f97f6562483c786079746"
+          },
+          {
+            "id": "D01-V02",
+            "member": "item/xhtml/p-002.xhtml",
+            "p": 35,
+            "short_form_join": "PASS",
+            "native_base_sha256": "4985747f3e4b593e51ef3379b2856307a714784ea3e5a2bff92d551074f30f90"
+          },
+          {
+            "id": "D01-V03",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 108,
+            "short_form_join": "PASS",
+            "native_base_sha256": "1b811ddf490a25b797457129ce364ba006e1aef21a43868943f0d92850d58113"
+          },
+          {
+            "id": "D01-V04",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 109,
+            "short_form_join": "PASS",
+            "native_base_sha256": "9579fd9c3660837430a885ab8883dd0595f0d4859d7949a69e4a4be6a76d4be9"
+          },
+          {
+            "id": "D01-V05",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 157,
+            "short_form_join": "PASS",
+            "native_base_sha256": "75e8c09f4898d66fb29d34c83348de4ba65bedee3db3daba3278aed88364acc0"
+          },
+          {
+            "id": "D01-V06",
+            "member": "item/xhtml/p-003.xhtml",
+            "p": 141,
+            "short_form_join": "PASS",
+            "native_base_sha256": "04cc1829580ceb45ec1fa8cae2e661c7254e76c895d4f4221a0bb7576f0a426e"
+          },
+          {
+            "id": "D01-V07",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 27,
+            "short_form_join": "PASS",
+            "native_base_sha256": "83cad340c32e73c2d67207de0c653dd23091d8b5b6e21e828c7f4050e3200106"
+          },
+          {
+            "id": "D01-V08",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 18,
+            "short_form_join": "PASS",
+            "native_base_sha256": "509e1596792a7d239261e0b9c793d1164b29d7de75a6e513c7878e41c5a9fa68"
+          },
+          {
+            "id": "D01-V09",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 134,
+            "short_form_join": "PASS",
+            "native_base_sha256": "e4e78031700bc980c6ee1175acaa980fd1c6d65c88492b4a97f4211d02af3079"
+          },
+          {
+            "id": "D01-V10",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 118,
+            "short_form_join": "PASS",
+            "native_base_sha256": "6208212001df7331d72ba9214a6ff7f13db79aa171a5a3972f1c860f1a161239"
+          },
+          {
+            "id": "D01-V11",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 210,
+            "short_form_join": "PASS",
+            "native_base_sha256": "5e291a8aa3e74bde33e12d6c9bc13b0b2fde33f45b26bcf07b8d8e2165ef69c1"
+          },
+          {
+            "id": "D01-V12",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 320,
+            "short_form_join": "PASS",
+            "native_base_sha256": "37acd44496b85b3d255872f396ff4562eaa6678ac73ee5f8c38a9c754ef6fd0e"
+          },
+          {
+            "id": "D01-V13",
+            "member": "item/xhtml/p-004.xhtml",
+            "p": 461,
+            "short_form_join": "PASS",
+            "native_base_sha256": "e347a7157d58f85206e749ee0a8a9e1b784a93169c5b72c354e5c391c828f6f3"
+          },
+          {
+            "id": "D01-V14",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 405,
+            "short_form_join": "PASS",
+            "native_base_sha256": "a0a88e36d3c8ae12fe55e55c238178f6c93b6f11db9de9aa6cac4662d744fc05"
+          },
+          {
+            "id": "D01-V15",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 197,
+            "short_form_join": "PASS",
+            "native_base_sha256": "316439ae674c2686a4c527dde4cc7f0ab5c0e38d12940ef4de2b735be8c3562d"
+          },
+          {
+            "id": "D01-V16",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 355,
+            "short_form_join": "PASS",
+            "native_base_sha256": "10978a251598ff55d3f527d988c5d1bf294b6eec0a90abb864d118cc37d08aa4"
+          },
+          {
+            "id": "D01-V17",
+            "member": "item/xhtml/p-005.xhtml",
+            "p": 342,
+            "short_form_join": "PASS",
+            "native_base_sha256": "70e479181da1ffc60a321335d3278ca4ee4a8bd7a78e35bab17fc622c20bac74"
+          },
+          {
+            "id": "D01-V18",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 89,
+            "short_form_join": "PASS",
+            "native_base_sha256": "491af049f2899d5580a10f7e5463644c7bd4adff08d9d743812b077b4eee08b9"
+          },
+          {
+            "id": "D01-V19",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 150,
+            "short_form_join": "PASS",
+            "native_base_sha256": "a2e952a64a91c50271bb10e1cfd78eaf5b20cfba1fd139af1dab8345a9feb044"
+          },
+          {
+            "id": "D01-V20",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 239,
+            "short_form_join": "PASS",
+            "native_base_sha256": "74487088bcfd44e767241a0f99df2e6a16c811c61a2461b970ffe6ed58b94a08"
+          },
+          {
+            "id": "D01-V21",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 305,
+            "short_form_join": "PASS",
+            "native_base_sha256": "af73a009618cb5ebb73edc187c40ccbb0b66fc568d9029f3d779ac2431bd4609"
+          },
+          {
+            "id": "D01-V22",
+            "member": "item/xhtml/p-006.xhtml",
+            "p": 556,
+            "short_form_join": "PASS",
+            "native_base_sha256": "2e52249f37af179457503b244262ae329420b69609e9e749965e44fb7211600d"
+          },
+          {
+            "id": "D01-V23",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 156,
+            "short_form_join": "PASS",
+            "native_base_sha256": "5d12ca9e4b395202128757c2a89b9e0af40a6c76fbaba7c872cdd16c597d402d"
+          },
+          {
+            "id": "D01-V24",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 266,
+            "short_form_join": "PASS",
+            "native_base_sha256": "1ac34dbe2e8ba3b30e507b25bec21f899cebcbe4e6fb23b83979e536594e9181"
+          },
+          {
+            "id": "D01-V25",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 319,
+            "short_form_join": "PASS",
+            "native_base_sha256": "536f36a8c58a2d68f49227b8e7c503bd72464a2fe5db06b8d6ddd335a0f7288b"
+          },
+          {
+            "id": "D01-V26",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 521,
+            "short_form_join": "PASS",
+            "native_base_sha256": "a26639d871783ebebc92bb002d5682d7071e6e0640448bceeaa5c3709c6f47bc"
+          },
+          {
+            "id": "D01-V27",
+            "member": "item/xhtml/p-007.xhtml",
+            "p": 568,
+            "short_form_join": "PASS",
+            "native_base_sha256": "bdbb7f5ba060972a77803e562a1d9ff34bdef07d5e0cb6c07b8dba3b8d9a8d40"
+          },
+          {
+            "id": "D01-V28",
+            "member": "item/xhtml/p-008.xhtml",
+            "p": 48,
+            "short_form_join": "PASS",
+            "native_base_sha256": "241407d23e37d06e6fada972c251b7e5479ce3ff70d01961899922d6e5b18def"
+          },
+          {
+            "id": "D01-V29",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 208,
+            "short_form_join": "PASS",
+            "native_base_sha256": "ad085d1e75014feac791a3bb16b0a58e99ed63f6511abb0d790fc1e623a9cf0c"
+          },
+          {
+            "id": "D01-V30",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 321,
+            "short_form_join": "PASS",
+            "native_base_sha256": "eb85dd4f1c013391c8d201769a785d19579a7c69abd9f0d04a863e54c42a2689"
+          },
+          {
+            "id": "D01-V31",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 626,
+            "short_form_join": "PASS",
+            "native_base_sha256": "778befb3d558a88b5d826796fc8fdd374848ec6b0b0de4b34cecf1404f477dd9"
+          },
+          {
+            "id": "D01-V32",
+            "member": "item/xhtml/p-009.xhtml",
+            "p": 784,
+            "short_form_join": "PASS",
+            "native_base_sha256": "e9209d7b665230e5cd1f9056903213536b8ca6aacb0cad509ea038aab3333e41"
+          },
+          {
+            "id": "D01-V33",
+            "member": "item/xhtml/p-010.xhtml",
+            "p": 76,
+            "short_form_join": "PASS",
+            "native_base_sha256": "7ab423eb6efd06b21aa6fd39d15e9f64a2db1b6783bd536435abc0eeea04521d"
+          }
+        ],
+        "natural_order_hypotheses": 7,
+        "all14_original_future_fields_blank": true,
+        "does_not_verify": "Speaker, motive, chronology and literary validity require substantive receiving.86 records are not86 independent trials.",
+        "root_actual_source_reading_scope": {
+          "bonus": "S20 all52 slots/base actually read; no ruby present",
+          "principal": "Final734-741 and768-801 base actually read;795-801 ruby rt read; initial helper emitted null instead of rt on earlier35slots, no root ruby-reading credit there",
+          "remaining_principal": "NO_ROOT_FULL_READING_CLAIM; complete P and S receipts distinct"
+        }
+      }
+    }
+  },
+  "source_safety": "Opaque aliases replace private workspace paths only; inverse and source assets retained privately. Native member/P/hash evidence remains public; no primary paragraph arrays or images."
+}

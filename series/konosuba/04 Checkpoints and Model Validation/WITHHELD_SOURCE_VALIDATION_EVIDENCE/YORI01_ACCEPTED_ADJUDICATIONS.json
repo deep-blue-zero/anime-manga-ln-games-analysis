@@ -1,0 +1,1105 @@
+{
+  "status": "ROOT_SUBSTANTIVELY_ACCEPTED_YORI01_SOURCE_LOCAL_VALIDATION_ONLY",
+  "actual_accepted_utc": "2026-10-17T16:18:33.421393+00:00",
+  "source_id": "YORI-01",
+  "native_bytes": 2395940,
+  "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+  "entering_frozen_source": "3b92d9fac53c6065098d690aef68773588126def",
+  "suite_freeze_sha256": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4",
+  "registry_sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+  "all72_exact_baseline_and_CR007_overlay_pins_unchanged": true,
+  "actual_coverage": {
+    "principal_members": 8,
+    "paragraph_slots": 2748,
+    "base_characters": 108300,
+    "ruby_occurrences": 2603,
+    "root_actual_fullpass_complete_utc": "2026-10-17T15:46:31.934984+00:00",
+    "independent_and_semantic_complete_scopes_separately_pinned": true,
+    "whole_epub_excluded_components_complete": false,
+    "StageC_full_literary_component_responsibility_complete": false
+  },
+  "accepted39_dispositions": [
+    {
+      "contract_id": "R1-K01",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "154707879df2e511257bb60ff2d0dda3366e058d4748cf0499838135dac36041",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Stealth is K actual move127; Chris produces nya130–131 and police supply the Neroid interpretation133. Correct root actor/knowledge attribution; narrow K01 still supported. Wolf means chain is also real, with no foresight or whole-operation claim.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-STEALTH-NYA",
+          "Y01-WOLF-ADAPTATION",
+          "Y01-CARRY-STRAP"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K02",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "b9197acf308cdc9cff1941a9878c5848f95ee34d2cccae12ea2015679c2be91e",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "PARTIAL",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Root initial FULL is too strong: known powerful-Vanir one-hit risk23 independently complicates low stakes. Security/optional delay remains real. This agrees with own and S initial guard caution; no fabricated grave-present-harm exception or low-risk inference.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-OPTIONAL-TAIL",
+          "Y01-GUILD-SUMMONS-AND-PLAN"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K03",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "ff01f939d601c305e19a6d3be2b945dc29118a1828c29266dc5cc8b67869e393",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_COST_LIMITS",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Forest retreat/carry111–116 is stronger meaningful-cost support than a trivial pull-away. Carrier is contextually Kazuma, exhausted person Megumin. Own C02 legal-risk/cold-day route remains qualified. Wiz/frog help is actual but cost less explicit; no idealized motives.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-TENTACLE-RESCUE",
+          "Y01-HOLY-MP-RESTRAINT",
+          "Y01-FROG-RESCUE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K04",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "c1c18626dae4756fe87c8eaf895f7809bf290a9454972a43113011c58f9fef30",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Keep literal replacement demand170 and attention175 as pressure/redress beyond merely correcting the fact. Redress/restored standing is frozen; net extra profit or punitive humiliation is not. Preserve S initial neutral-redress reading as a semantic disagreement, not an erased record.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CREAM-REDRESS",
+          "Y01-STONE-EARLY-CORRECTION",
+          "Y01-STONE-LATE-LEVERAGE",
+          "Y01-DOORWAY-THREAT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K05",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "58aea31a914aa74fb4066e0256c42a165bc9eb26de088bcdd0871d39011e2d0c",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Wolf deterrence failure394 is followed by the known fallback399 under the still-active pack objective. Preplanned contingency can satisfy changed method. Gem removal393 is another attempted means phase, not invented completed theft.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-WOLF-ADAPTATION",
+          "Y01-SNAKE-BATTLE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K06",
+      "type": "COGNITIVE_VALUATION_COMMITMENT",
+      "exact_contract_utf8_sha256": "59ef4f257a462e4c1a52298d3d5297281ca9590e50b3adbdc504260053b5dc1f",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No concrete role-equivalent substitute for a particular bonded person; doubled quartet and capital offer do not fill it. Contextual attachment is not a full valuation test.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GHOST-RETURN",
+          "Y01-TOWN-REFUSAL-ACCOUNT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K07",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "1410bb9dd2e71a8ee5f916c07a7f73c262adfbe14a8eec3808d3b4a0aa5b6eba",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_CANDID_ADVERSE_CANDIDATES",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Strong false-belief/tailing/foresight accounts fit; candid insomnia/limited-credit269/273, embarrassing posthotel report292–295 and apologies survive with exact account/desired-innocence missingness. Neither full candor nor selective mitigation may be invented where wording is unreported.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-BLAST-POLICE-ACCOUNT",
+          "Y01-TAILING-ACCOUNT",
+          "Y01-OUTSIDER-BIOGRAPHY",
+          "Y01-WOLF-FALSE-PREPARATION",
+          "Y01-OUTSIDER-APOLOGY",
+          "Y01-TOWN-REFUSAL-ACCOUNT",
+          "Y01-FAKE-GIRL-ACCOUNT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-K08",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "e0d619988397733cd858de12b4f6ab2b2ba102dab072b145cdcf461ceeca37a7",
+      "original_root_initial_outcome": "AMBIGUOUS",
+      "original_independent_initial_description": "COMPATIBLE_WITH_FUNCTION_AMBIGUITY",
+      "source_local_accepted_outcome": "FALSIFIED",
+      "outcome_scope": "YORI01_LOCAL_CONDITIONAL_BRANCH_NOT_GLOBAL_CHARACTER_RETIREMENT",
+      "attributed_current_receiving_reason": "Newly received S preexchange case C04P34→35 is a full direct-only status-repair opposite. Original own compatible393 survives but cannot cancel it. Root initial AMB and own compatible-with-ambiguity stay exact; recommend source-book-scoped local F, not whole-character retirement.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "A matched local Japanese status-pressure act lacks the predicted contrast; direct reciprocal insult/stop-demand defeats the bounded rule. Likely overfit of a voice tendency to selected indirect-leverage scenes; no source-supported new exception rescues this act.",
+      "claim_transition": "DOWNGRADE_AT_LOCAL_TEST_SCOPE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CREAM-REDRESS",
+          "Y01-CURSE-PRESSURE",
+          "Y01-STONE-EARLY-CORRECTION",
+          "Y01-STONE-LATE-LEVERAGE",
+          "Y01-DOORWAY-THREAT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A01",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "384ad78b35ae4865d89becdbdeddf68f9d8edfe4573c7ff7c8817e00122accc1",
+      "original_root_initial_outcome": "PARTIAL",
+      "original_independent_initial_description": "MIXED_WITH_QUALIFIED_LOCAL_FAILURE",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual Heal299/303 and buff388 are fitted acts. Ghoul adoption114 then newly seen gore/fear and flight is a failed adopted phase: qualified local adverse under ordinary-judgment reading; independent competing-change rival stays. Never ontology/unreadiness invented from failure; one episode is not two.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-HEAL-THEN-DANGER",
+          "Y01-CURSE-TREATMENT",
+          "Y01-GHOUL-PANIC",
+          "Y01-GHOST-THANKS",
+          "Y01-BLAST-BEARS",
+          "Y01-FROG-RESCUE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A02",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "7760c2f8ea701d2f814c092f4cb731a60f88b0ef88cd7c655e5fcecad402dc43",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_SINGLE_FULL_SEQUENCE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Ghost thanks226→continued translation and own retail thanks139→late work150 give actual related participation. Charms/prior healing can add contextual cases. Acknowledgment causation is unisolated; no same-spell/professional or first-role-onset floor.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GHOST-THANKS",
+          "Y01-CHARM-THANKS",
+          "Y01-HEAL-THEN-DANGER"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A03",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "ab01af7295958338cf6bc6c84c3ad4c2bf605ad81f9106b4a6852c47b7253a91",
+      "original_root_initial_outcome": "AMBIGUOUS",
+      "original_independent_initial_description": "AMBIGUOUS_SINGLE_DENIAL_WITH_ADVERSE_READING",
+      "source_local_accepted_outcome": "AMBIGUOUS",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "One explicit denial244 after claim243; subsequent revenge/contest and tactical Blessing do not clearly perform divine self-legitimation. Strong local adverse reading and permissive identity-demonstration rival survive; pretrigger243 is not response and no second denial is fabricated.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Genuine predicate/function/chronological bond uncertainty; strongest adverse reading and competing access/state reading retained.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-DIVINITY-DENIAL"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A04",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "6555ffaa505bdc1571d9cba64e417f17dde97a15322a7a0c7c0374760ab259f2",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No established artistic-standard plus mere-paid-repetition offer. Retail/charms are not such an art trial; root A04 carry-strap event ID is at most contextual misrouting, not an actual Aqua art case.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CARRY-STRAP"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A05",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "c254c098cc8268255c12947b52a09a7f8c9917bae18256e97a58bdb21b9b1885",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED_WITH_STRONG_UNCONSENTED_HARM",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual harmful coercion against Wiz remains; informed willing consent to that harmful holy-source method is absent. Trust/gratitude or accepting a different Drain contest cannot create it. This limits broad friend-inhibition claims without inventing a narrow full test.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-HOLY-MP-RESTRAINT",
+          "Y01-WIZ-TARGET"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A06",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "dd8c709eda94f6344283df71eadf04961db11364b9422a179f1dc63f9d3db46e",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "PARTIAL",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual company reflection exists, but a currently workable easy-separation arrangement does not. Ghost asks315–316 while K stays hidden; no K-delivered prompt or experienced separation. Own partial contextual support does not become full confirmation.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GHOST-RETURN",
+          "Y01-TOWN-REFUSAL-ACCOUNT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A07",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "523feeea8bc07be3424307337e71366aa1180382ff9d5a12c8f38cd88bf756a1",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "One actual die loss and real Blessing, not repeated-loss/next-stake unchanged-odds sequence. No separate trial per turn.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-DICE-AND-WALLET"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-A08",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "f360fac657568748b29473b2df7ad74002ba2d9e5a342b7347985c78bbabc03a",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED_WITH_PARTICULAR_POSSESSION_WITNESS",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual same-wallet concern/restoration is not offered fungible full repair. Prior attachment also is first described after loss318; own initial particular-history shorthand must not silently supply independent preloss value.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-DICE-AND-WALLET"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M01",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "51829b70fbf3987e41cd7296a66155661759f695c90683e53de04e7701ed701b",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_PRECHOICE_COST_INFERENCE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Explicit better-Explosion-user76 activates competitive216; K expressly states cold/nearby cost218 before M insists219 and casts227. This is stronger known-cost timing than own waking83 route. Preserve S general-rank-versus-chosen-art subtype rival; no new essence-of-art or named-rival floor, no unique motive claim.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-BLAST-RIVALRY"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M02",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "e1bd2a414ed10223dfb150acf3997b5c41ff99054e92658e60b37bd76fac7d1e",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "External restrictions and indirect mushroom causality do not establish Megumin own accepted substantial build burden plus feasible alternative. No self-acceptance inferred from criticism or distress.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-BLAST-FUNGI",
+          "Y01-BLAST-BEARS"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M03",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "a6bdc95c59faf6dff3008685052f6004d4f13a7bc99f32832f56f4fe536f919c",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED_FULL_PREPARED_CONDITIONAL",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual destructive competence remains, but complete independently prior separation/resources/recovery conjunction is not established. D in blast role is not all-friendly separation; later survival/support does not fill it.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-BLAST-BEARS",
+          "Y01-TENTACLE-RESCUE",
+          "Y01-WOLF-ADAPTATION",
+          "Y01-SNAKE-BATTLE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M04",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "22b9854d13d61238b56d37104d40e300eb0f3ca2579e63d0db5e3ccc00aff9a4",
+      "original_root_initial_outcome": "AMBIGUOUS",
+      "original_independent_initial_description": "AMBIGUOUS_BOND_GUARD_WITH_ADVERSE_PREACTION",
+      "source_local_accepted_outcome": "AMBIGUOUS",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual Wiz target and eagerness255 without shown friction are retained. M239 is present before241 proposal, so not hearing later warning251 cannot erase all target knowledge. Independent significant early bond still unknown; root MAIN02 bounded report is not my new primary check. Aftermath NT without cast.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Genuine predicate/function/chronological bond uncertainty; strongest adverse reading and competing access/state reading retained.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-WIZ-TARGET"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M05",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "d30b67ce810b88be5409744afd0f3b925a6621aa0dbd308ac6a636cbb488026d",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No clean available repeat after instrumental goal weakening. Own YI-01 accidental adjective is wrong: crystal stress-relief destruction was deliberate original goal47, so not goal drift. Fungus-disposal proposal334 has a newly known actual hazard331, not automatically reward-only continuation.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-BLAST-RIVALRY",
+          "Y01-WOLF-ADAPTATION",
+          "Y01-SNAKE-BATTLE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M06",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "a4c65023fb2aafd0809d6e76a521ff6939e28cc85301000914ceb011e5812eb6",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Transport/bodily boundaries are actual but not a negotiated intimate pace/privacy advance. No later relationship stage/permission backprojection.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CARRY-STRAP"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-M07",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "182e7e3f05eb6455c3a88eda3a39301497c585423e1a434787d20166a39d27fa",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Reputation management and cruelty exist, but no precise received valued-person offered humiliation/falsehood scheme with transparent cost and own-face-loss alternative.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-REPUTATION-CONTEST",
+          "Y01-SNAKE-BATTLE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D01",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "b7c9098d8d19204da1ea27875b96e0e01bff75f4a08548f709bffe0ac0c35df1",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual interposition/offered shield/protective restraint attempts fit. C05P302–308 is attempted pulling, not completed stopping; A309 continues and damage311–312 remains. Failed interception is not no protective effort.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-TENTACLE-RESCUE",
+          "Y01-CURSE-SECOND-THREAT",
+          "Y01-HOLY-MP-RESTRAINT",
+          "Y01-WOLF-SAFETY"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D02",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "52119015c3a981b4c96d1a9ac5da617708d992da9914ff22cb96d3a1ee8c35c4",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_TASK_RIVAL",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Downgrade own permissive FULL and root initial C:23/37 are K accusations denied24/38;28/30 supplies genuine capability-test purpose. Later49 may corroborate chosen reward but is not a preinitial confession for33. Stable earlier-main preference is possible context, not a fresh local admission. No full contrary correction is shown.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-TENTACLE-CHOICE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D03",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "9d32e9a67a32512565856695e4399105a73ef2847651335a41be0c5c7e86f4a0",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_CUE_LIMIT",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Earlier70 concealment plus89 recognition→90 ordinary-adventurer correction supports privacy control with preference-inference limit. C08 chosen noble use and C07 nonprivate counterfeit insult are distinct, not exemptions or automatic full tests.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GHOST-IDENTITY",
+          "Y01-GUILD-SUMMONS-AND-PLAN"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D04",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "139faa672a243a49b986740aecb026671e80b910f134073efdc62f8842440d99",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No full unfair-to-companions substantial family/public sacrifice state; ordinary protective title offer is not self-erasure confirmation.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GUILD-SUMMONS-AND-PLAN",
+          "Y01-CURSE-SECOND-THREAT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D05",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "1de022ecd9aee75aa418e3dd6e26804c4af997779c2388b442faf5be6aaa71f9",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED_WITH_SCOPE_BOUNDARIES",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No independent selected pain/humiliation scope plus already unwanted added condition. Real objections and later pleasure remain; no retroactive consent or all-humiliation preference.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GHOST-EMBRACE",
+          "Y01-CURSE-TREATMENT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D06",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "7fc773689638cd82b6b6eea16900e2bec51e2b2eb5260f5f06fb310d29d4321f",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Contacts/sample/explanation and mediation are actual fitted contributions. No completed cleanup, successful mediation, universal accuracy or invented credential. Current curse incapacity is real resource limitation.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-BLAST-FUNGI",
+          "Y01-HOLY-MP-RESTRAINT",
+          "Y01-GUILD-SUMMONS-AND-PLAN"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D07",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "1bfce8c93fe2f7df886940b7381196eebe9d2c2745751584b08a9ccb03281bf7",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No complete serious admission→honest answer→separate ridicule sequence in the same trusted dyad. Do not stitch M dependence statement, unrelated later crowd behavior and name tears into it.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-REPUTATION-CONTEST"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-D08",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "74a1ce0957c5dc43d58dbfbcc9b493f2700c235bd5661e7fde114af7fce2e4ad",
+      "original_root_initial_outcome": "PARTIAL",
+      "original_independent_initial_description": "COMPATIBLE_WITH_CAUSAL_LIMITS",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Own initial FULL infers too much initial salience from346. K351 is whispered to Ozma352, not shown received by D; cannot backdate to346. D excludes weaker defender346, a real partial safety correction, then later assures382 without verified whole-group safety. Neither full F nor clean C follows.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-WOLF-SAFETY"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E01",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "9b977f8d8360998c5fd6c500127b5e4900ca6238616c56b8d7b6dba7cbe3d4bb",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_SAFETY_LIMITS",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Actual accepted snipe/caster/decoy/support handoff and fallback work as a local attempt. Known geometry is not the same as M03 safe separation; no universal K necessity/full campaign/safe recovery.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-WOLF-ADAPTATION",
+          "Y01-BLAST-BEARS",
+          "Y01-FROG-RESCUE"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E02",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "dd4cfb4fedeed2d89967c61eb678b98317ad6e727d5e8018bb1cac4aa137e48b",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED_BAD_METRIC_CONJUNCTION",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No independently known biased contribution metric undervaluing enabling/protective work. Dice wager, reputation contest and unknown inspector rubric are not automatically that conjunction. Synthetic qualified adverse unchanged.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-REPUTATION-CONTEST",
+          "Y01-GUILD-SUMMONS-AND-PLAN"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E03",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "57c9fceea66cdf3c502dd3bd85c9e15c27d377e4459cd527e3017a055dbc88df",
+      "original_root_initial_outcome": "PARTIAL",
+      "original_independent_initial_description": "COMPATIBLE_WITH_UNRESOLVED_ADVERSE_OPPORTUNITIES",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Strong actual bear support303 and post-Wiz-freeze tear separation131. Ghost concern/reassurance is not concrete repair; postwolf exhausted M418 has no visible intervention419–472 but adequacy of a still-unshown transport interval is unresolved. Preserve both countercandidates, not hidden care/rest or a free reset.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-HEAL-THEN-DANGER",
+          "Y01-GHOST-AFTERCARE",
+          "Y01-TENTACLE-RESCUE",
+          "Y01-CURSE-TREATMENT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E04",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "ce8e674ae60bc5e707ac41c4151df040ed40e92a00cddcbed842a161c809aa28",
+      "original_root_initial_outcome": "NOT_TESTED",
+      "original_independent_initial_description": "NOT_TESTED",
+      "source_local_accepted_outcome": "NOT_TESTED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "No credible durable particular-member loss with workable easier arrangement. Whole-party move/location preference and currently blocked heaven return do not fill it.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Full conjunction not supplied or observation insufficient; absence/near-match cannot support or falsify the contract.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-GHOST-RETURN",
+          "Y01-TOWN-REFUSAL-ACCOUNT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E05",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "3a766d1a5f47f894d8470ba7fe74dfc157c15b42be645d45179c4c6148e39c7f",
+      "original_root_initial_outcome": "PARTIAL",
+      "original_independent_initial_description": "MIXED_WITH_SUPPORTED_INFERENCE_ADVERSE_CANDIDATE",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Literal OR admits different accounts while cooperation requested without sole-organizer withholding. Charm question/refusal is a compatible local route. Correct inference228 before explanation230 remains an adverse near-match if public contest222 requests K cooperation with adequate interval; inference is not mind-reading or automatic predicted clarification.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CHARM-PRIVATE-PREMISE",
+          "Y01-BLAST-FUNGI",
+          "Y01-GHOST-IDENTITY"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E06",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "2695005adb076a77dce11a1932e46e683a07e9d03722bb6ebf147b331ffcf103",
+      "original_root_initial_outcome": "CONFIRMED",
+      "original_independent_initial_description": "COMPATIBLE_WITH_NONSTOPPING_AND_SCOPE_LIMITS",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "M specifically rejects strap71 before purchase76 and resists through silence; Wiz protests changed holy-source method and release attempts. Perpetrators can persist. No performed strap use or successful escape assumed; actual objection provides behavioral support rather than ethical labeling alone.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CARRY-STRAP",
+          "Y01-HOLY-MP-RESTRAINT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E07",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "940d61417cde251b57fb930df21ad4ce04460dccd4a7d909a3c3ce15c4da70c9",
+      "original_root_initial_outcome": "PARTIAL",
+      "original_independent_initial_description": "COMPATIBLE_WITH_FINITE_PHASES",
+      "source_local_accepted_outcome": "CONFIRMED",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Accepted finite Wiz expertise50/51/105→actual freeze120–122 is a clear stronger full phase than strap sale. Chris own finite wager/recovery also relevant; offstage unexpected Wiz kill354 remains not preaccepted cooperative phase.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "An adequately located local applicable behavior is compatible. Unique motive, global reliability, complete campaign success and genre-transfer validity are not inferred.",
+      "claim_transition": "PRESERVE_WITH_LOCAL_COMPATIBLE_EVIDENCE",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-CARRY-STRAP",
+          "Y01-CURSE-SECOND-THREAT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    },
+    {
+      "contract_id": "R1-E08",
+      "type": "BEHAVIORAL_COMMITMENT",
+      "exact_contract_utf8_sha256": "f8ab22e7593333fae7fa1bcdbbbd9a2ede7a96214a66484823c3a2dd508060e7",
+      "original_root_initial_outcome": "PARTIAL",
+      "original_independent_initial_description": "COMPATIBLE_COMPONENTS_WITH_ELIGIBILITY_AMBIGUITY",
+      "source_local_accepted_outcome": "PARTIAL",
+      "outcome_scope": "YORI01_ADMITTED_PRINCIPAL_ONLY_CONTRACT_DISPOSITION",
+      "attributed_current_receiving_reason": "Own permissive full-conditional candidate and root/S timing caution remain. Under D346-assurance onset, R344 correction is earlier, so cannot fill postinput correction. Alternative K341 incomplete-confidence→M342 commitment→Rakuresu344 actual plan reading may satisfy components; source does not uniquely settle assurance/identity activation bound. Do not exclude outside correctors by a new companion-only floor or count worry/retreat automatically as correction.",
+      "reason_author": "Continuing independent reader postexchange receiving, adopted by root with semantic receiving and initial records preserved.",
+      "failure_or_missingness_diagnosis": "Some component/eligible event is supported, while a material guard, branch or adverse opportunity remains unresolved. Exact competing evidence is retained; no favorable majority cancellation.",
+      "claim_transition": "OPEN_WITH_BOUNDED_QUALIFICATION",
+      "model_revision": "NONE: unchanged MAIN_ONLY_R1 baseline remains governing through all four books; attributable revisions deferred until validation and expanded evidence stage.",
+      "evidence_routes": {
+        "original_root_event_ids": [
+          "Y01-WOLF-SAFETY",
+          "Y01-HOLY-MP-RESTRAINT"
+        ],
+        "all_original_fields_preserved": true,
+        "authoritative_contract": "06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+        "original_root_findings_are_historical_not_unqualified_current": true
+      },
+      "threshold": "Exactly the original literal contract threshold; no new universal repeat count, floor, guard or exception. Local opposing cases and component failures remain separate from model retirement."
+    }
+  ],
+  "descriptive_overlapping_contract_disposition_counts": {
+    "CONFIRMED": 13,
+    "PARTIAL": 7,
+    "NOT_TESTED": 16,
+    "FALSIFIED": 1,
+    "AMBIGUOUS": 2
+  },
+  "no_accuracy_denominator": "These39 are overlapping contract dispositions, not independent opportunities. No overall percentage, no156book-trial denominator and no pooling with90synthetic/Gen01–05/humor/voice populations.",
+  "four_generated_response_constraints": [
+    {
+      "contract_id": "R1-T01",
+      "exact_contract_utf8_sha256": "f6e24c24083147ed337074377206c5525394b11e9220de8cd303dd0f59d7c103",
+      "disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "behavioral_source_score": null
+    },
+    {
+      "contract_id": "R1-T02",
+      "exact_contract_utf8_sha256": "a3651fffe62e71dcce6fa3ae2e96c28d1e7b365d20e49fdec6ee0d5560a580d3",
+      "disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "behavioral_source_score": null
+    },
+    {
+      "contract_id": "R1-T03",
+      "exact_contract_utf8_sha256": "2fbacf5ce8c97be5f629ee64d85a3e259f40469ee20daa511b20b492cf9f4085",
+      "disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "behavioral_source_score": null
+    },
+    {
+      "contract_id": "R1-T04",
+      "exact_contract_utf8_sha256": "5f4f52ac56f77148774dd992c18e4ddb8e1cb98484b635c3660478f0a5e30bb9",
+      "disposition": "NOT_APPLICABLE_GENERATED_RESPONSE_ONLY",
+      "behavioral_source_score": null
+    }
+  ],
+  "new_full_local_counterexample": {
+    "id": "YORI01-C04-K08-STATUS-34-35",
+    "parent_event": "YI-21",
+    "underlying_broad_conversation_dependency": true,
+    "actor": "Kazuma",
+    "addressee": "Aqua",
+    "narrator": "Kazuma first person",
+    "chronology": "After MAIN01 Beldia, stable residence, before first Eris meeting; already familiar debt-causing counterpart, no late relationship assumption.",
+    "source_member": "text/part0016.html",
+    "source_member_sha256": "63bed8223c62f387c1377bb6a969d24ba25db81aa7e3ec06cc48b9d6b2ecee62",
+    "coherent_received_context": "C04P19–40; new cueP34 and replyP35, prior actP33; earlier wallet questionP27 belongs to another trigger.",
+    "before_form": {
+      "familiarity": "Established main party cohabitation/work context",
+      "valid_grievance": "She caused the shared debt yet labels him debt-NEETP34; actual causal responsibility in reply is known from admitted main event.",
+      "chosen_status_pressure": "Explicit demand to stop this label and return causal responsibility, semantically separate from any politeness feature.",
+      "opportunity": "Immediate actual replyP35, no incapacity or new grave rescue barrier."
+    },
+    "literal_surface": "Direct insult and label-stop demand plus ordinary causal explanation; no civil/procedural/information-seeking contrast.",
+    "pragmatic_function": "Defends standing and counterattacks familiar insult.",
+    "eligibility": "FULL",
+    "observed_direction": "ADVERSE",
+    "formal_outcome": "FALSIFIED",
+    "scope": "LOCAL_K08_CONDITIONAL_BRANCH",
+    "competing_reading": "Enlarging the response interval to include earlierP27 would absorb a different wallet cue and is not accepted as rescue. LaterP393 is genuine compatible evidence but does not cancel this act.",
+    "not_a_second_independent_episode_per_turn": true
+  },
+  "current_corrections": {
+    "root14basis": {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/YORI-01/ROOT_POSTSHARED_RECEIVING_CORRECTION_BASIS_V1.json",
+      "bytes": 15594,
+      "sha256": "d3d4d6995965ca6408039218bdbb982166107fe1bed08239ba38770ab985e89a"
+    },
+    "semantic_external_self_erratum": "C07P351 whispered to OzumaP348/352, not certified received by Darkness; initial S public-exchange wording remains historical.",
+    "late_bear_actor_qualification": "Darkness is not observed participating in C02P247–303; separate investigation97/return322 retain her actual contribution.",
+    "late_Vanir_access_qualification": "C06P294 is Aqua paraphrasing K292 report. No directly displayed transformation, completed sex or unprovided actual visitor consent.",
+    "A04_route_qualification": "Root initial carry-strap event ID is not an Aqua art-offer witness; art/retail/charms near-matches do not supply paid-art-repetition conjunction.",
+    "source_locator_precision": "Member-local one-based all-body P includes blanks/images; base and rt distinct; no image or afterword read. MAIN02bounded95P recheck supplies only its actual local absence, not a global no-bond proof."
+  },
+  "strongest_unresolved_cases": [
+    "A01 independent new gore fear versus ordinary own-judgment execution failure; one possible local adverse, original two-full threshold unchanged.",
+    "A03 post-denial revenge/skill function versus self-legitimation; one episode with adverse reading, no backdated claim243.",
+    "M04 actual eager Wiz target: independently significant early bond unknown, decisive target knowledge inferential, aftermath NT without cast.",
+    "D02 legitimate bodily-capability mission versus preferred helplessness reward; denied K accusations are not D admission; later49 not preinitial33.",
+    "D08 partial safety calibration and later shielding without whole-group verification; initial survival salience inferential, whisper not D input.",
+    "E03 ghost-client aftercare and exhausted M418 recovery interval; no concrete remedy shown but feasibility/adequacy unresolved, no hidden rest/free reset.",
+    "E05 correct inference228 before230 is adverse if public222 implicit cooperation/opportunity guard is full; no sole-organizer floor or mind-reading fiction.",
+    "E08 D346 assurance makes R344 correction earlier; alternative K341confidence→M342commitment→R344proposal reading remains possible. No companion-only or coordinated-alternative floor.",
+    "K04 equivalent restitution can be called neutral under a narrower semantic reading; root adopts literal redress-inclusive compatibility without extra-profit floor, preserves S initial disagreement.",
+    "M01 explicit Explosion comparison and known ordinary cold-cost supports local priority with general-rank subtype rival."
+  ],
+  "initial_seals": [
+    {
+      "path": "/workspace/scratch/konosuba/withheld-source-validation/YORI-01/ROOT_INITIAL_ALL39_ASSESSMENT_SEAL.json",
+      "bytes": 603,
+      "sha256": "ce25576fd862b1a310857ee17ef31b5c70f78de4cd3fb8d0c27b9fff84613f4b"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/yori-01-semantic/source-first-v1/INITIAL_COMPLETE_SOURCE_ONLY_SEAL.json",
+      "bytes": 912,
+      "sha256": "7ff9c81647f1c9d7f0e02497035d70c4699fd4159284c6cbd627ccb11b907e70"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/YORI-01-initial-validation/INITIAL_COMPLETE_DISCOVERY_AND_ALL39_ASSESSMENT_SEAL.json",
+      "bytes": 3085,
+      "sha256": "908740412cf3d23b8d4bac8f4036871a15da9d0063ac65ec87eba11e1fe34a85"
+    }
+  ],
+  "full_new_receiving_reports": [
+    {
+      "path": "/workspace/scratch/konosuba/yori-01-semantic/receiving-01/BOUNDED_ROOT_INITIAL_ALL39_RECEIVING.md",
+      "bytes": 28218,
+      "sha256": "c51a0ea3bf0c2cf9aa19db121d02049c585dfea039553dbf0c1395f59d767996"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/YORI-01-postexchange-receiving-v1/COMPLETE39_POSTEXCHANGE_RECEIVING_AND_DISAGREEMENT_REPORT.md",
+      "bytes": 24944,
+      "sha256": "967e639887e17ecd140ccd63beee67fbb180e1e95dc876b33129c7f832ae01cf"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/YORI-01-postexchange-receiving-final-addendum-v1/TWO_LATE_SOURCE_PLANE_QUALIFICATIONS_AND_CLOSURE.md",
+      "bytes": 2234,
+      "sha256": "724ce3b8d4e00f761b421e2dbb31a438aad9c2749d49b694f5a259c83a0aa46b"
+    }
+  ],
+  "root_actual_receiving_scope": {
+    "path": "/workspace/scratch/konosuba/withheld-source-validation/YORI-01/ROOT_ACTUAL_INITIAL_PEER_RECEIVING_SCOPE_AND_MECHANICAL_JOIN.json",
+    "bytes": 3398,
+    "sha256": "10bc0bde297651987b8a8cbb59c7467564c572eeba3becbc964ddada22cbc0cf"
+  },
+  "acceptance": "Root actually received complete new case arguments/all39 assessments from both lineages and all49 independent event cards, complete source/language reports and both separate receiving reports/addendum. Exact repeated43literals and native/hash arrays were transparently reused/mechanically joined; raw initial inventories not all freshly reread. This is substantive bounded acceptance, not a validator substitution.",
+  "independence": "Each initial bundle sealed before substantive exchange; later comparison is shared receiving. Continuing informed AI lineages/shared main/model context/pretraining uncertainty preclude absolute blindness, native-human or statistical independence claims.",
+  "next": "Publish accepted source-local YORI increment through exact-head gate, then separately admit MASK principal under unchanged R1. All four-book validation must close before expanded source/model revision. No routine owner confirmation.",
+  "publication": "PENDING_FOR_THIS_NEW_YORI_TRANSACTION; exact final commit/readback/audits not yet known. Earlier3b92 gate remains closed and does not certify this future commit.",
+  "other_sources": "MASK package-only metadata verified; no semantic paragraph/image exposure or principal admission. DUST-06/DUST-07 and all excluded bonus/afterword/image bodies remain closed. Producer remains shielded.",
+  "project_complete": false
+}

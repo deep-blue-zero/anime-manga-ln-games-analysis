@@ -1,0 +1,276 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_BOUNDED_SAME_ROOT_RECEIVING_V1",
+  "source_id": "MAIN-02",
+  "accepted_utc": "2026-10-19T06:58:55.601202+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "actual_source_scope": {
+    "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+    "source_id": "MAIN-02",
+    "accepted_utc": "2026-10-19T06:58:55.601202+00:00",
+    "native_filename": "Konosuba - Main Series - Volume 02.epub",
+    "native_bytes": 6872479,
+    "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "f2f0dbf27e8204db7db9bd2373ec9de75629f4526d13d2a229752de11d201a43",
+    "language": [
+      "ja"
+    ],
+    "colophon_and_bibliographic_difference": "Supplied electronic colophon and print-basis firstedition both2013-12-01;copyright2013Akatsuki/Mishima;KADOKAWA and staff credits retained. This file's date does not erase any different external release record.",
+    "admission_sha256": "3582573048b3278cc9276c7796ab56ca19320dc9108dd0c87b90e5e889207b2d",
+    "preceding_full_gate_source": "56857658929112f685397277cf8be187a9683ab8",
+    "preceding_fresh_reload_sha256": "157aa11c59bedde4f9fd70e0cef24b2772bd1c52b205cab8ee1e3b6fd5801ae6",
+    "excluded_uncoded_seal_sha256": "b7ae2f020aca0d4bc805723a85e783d4ab4b22adbdc337ae2c4b4a0ca2a6cc9d",
+    "excluded_uncoded_seal_utc": "2026-10-19T06:41:38.381842+00:00",
+    "actual_new_reading": {
+      "text_resources": 21,
+      "P_slots": 171,
+      "native_images": 30,
+      "ruby_and_nonparagraph_residual_received": true,
+      "bonus_P": 63,
+      "nonfiction_P": 108
+    },
+    "retained_principal_authority": {
+      "members": 7,
+      "P_slots": 2915,
+      "new_principal_reading_credit": 0,
+      "exact_native_and_prior_acceptance_control_joins": true
+    },
+    "fresh_native_CRC": "PASS",
+    "all_native_text_image_hashes_reverified": true,
+    "original_uncoded_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 40266,
+        "sha256": "3582573048b3278cc9276c7796ab56ca19320dc9108dd0c87b90e5e889207b2d"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 181186,
+        "sha256": "cba5e9d7c4c72545afcec99c222c325c75264240ad85b70a0199e5fca0cc8b29"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 21990,
+        "sha256": "157b61647cee56b137370acf2ddee78f333521b95285041de13a014529636dcb"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 20059,
+        "sha256": "835fa67e4317bd3f43425babdd07c4a82c05c6de065fa8bb7b3b8bcebc67d8f0"
+      }
+    ],
+    "public_preparation_view_is_redacted": true,
+    "formal_counts": [
+      11,
+      24,
+      31,
+      11,
+      25
+    ],
+    "party_comparisons": 8,
+    "typed_constraints_not_behavioral_scores": 4,
+    "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+    "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "semantic_name_reference_review": "Same continuing informed root checked all17report sections against actual new excluded text/images and narrow accepted-principal image backjoins. K visitor success uses prior invitation; first account48 is candid before mitigation50. Second visitor and later flick remain unshown. M clan pride is not a full Explosion trigger; D armor maintenance is a bounded actual practical attempt. Chris visit is not CE01 cumulative public burden. Original image uncertainty remains exact, with additiveQ18 resolving party identities/heavyhead/MPdrain and preserving costs. All18native text fragments and6raster fragments checked at their stated planes. Bounded same-author receiving, no independent-review claim.",
+  "current_qualifications": [
+    {
+      "id": "M02EX-Q01",
+      "current_precision": "Seven accepted principal members2915P retain exact prior native joins and original acceptance; current new principal reading credit0.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q02",
+      "current_precision": "Twenty-one newly read text resources171P and thirty individually viewed images are edition-component accounting, not a narrative denominator or all41completion.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q03",
+      "current_precision": "Bonus occurs in the established mansion, with Chris already Darkness's known friend. Packaging supplies no exact chapter date or later mature relationship state.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q04",
+      "current_precision": "One rainy household bonus contains several overlapping game/visit episodes. Registers, ledgers and repeated quotations do not multiply independent encounters.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q05",
+      "current_precision": "First visitor prediction is informed: K reports overhearing yesterday's invitationP48 and explicitly ties his female choice to that knowledgeP57. This is not blind foresight or a pure luck trial.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q06",
+      "current_precision": "The first substantive explanationP48 discloses the material information advantage. Later 'pre-match research'P50 cannot be substituted for the first account to manufacture selective-omission support; candidness remains adverse to an overbroad concealment rule.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q07",
+      "current_precision": "Clan intelligence, ordinary SHOGI skill, supernatural board rules, poker luck and information access are distinct. No general IQ, universal genius or inability follows.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q08",
+      "current_precision": "Board-game Teleport/Explosion rules do not establish Megumin personally acquired Teleport, cost-free repeated magic or actual physical board destruction.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q09",
+      "current_precision": "Megumin's desired rain Explosion outing remains a still-active goal; no completed outing/cast and no known achieved/weakened instrumental objective for R1-M05.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q10",
+      "current_precision": "Darkness's intentional-loss preference is Kazuma's habitual report. Her current actual actions are armor care, receiving Chris and directing the door to be opened; these are not a newly witnessed deliberate loss.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q11",
+      "current_precision": "Armor maintenance is an actual bounded practical attempt during free time with her established equipment resource, fitting D06 at that limited scope. No offered-task prerequisite is added; no professional repair skill, completed repair or physical door opening is invented.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q12",
+      "current_precision": "An actual delivered SHOGI flick/red armP25 differs from later preparatory flick postureP47. No delivered second visitor-bet penalty or permanent injury is supplied.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q13",
+      "current_precision": "Megumin actually refuses pokerP30; K does not then make her play it. Her complaint at an unfair information contest is not evidence of a previously established ignored boundary with every R1-E06 conjunct.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q14",
+      "current_precision": "Prior Chris invitation is K's report of an overheard earlier conversation; actual Chris arrival, entering and sitting beside Darkness are directly narrated. Do not count the earlier reported invitation as a second directly read scene.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q15",
+      "current_precision": "Chris's ordinary chosen visit is agency and friendship, not accumulated public divine requests beyond her own expressed preferred burden. Existing Chris/Eris lineages and CE01 missingness stay exact.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q16",
+      "current_precision": "Profile ages are edition-local labels: M13,D18,K16,Wiz20,Aqua/Erisunknown. Wiz's label is not a calculated date of death or elapsed posthumous duration.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q17",
+      "current_precision": "Profile protagonist claims and Aqua's inspection command are staged. No completed touching, Eris consent, new identity revelation or public cumulative-burden behavioral success.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q18",
+      "current_precision": "Additive retained-principal joins resolve IMG014 Dust/Leen/Keith/Taylor, IMG020 stolen heavy golem head and IMG021 Wiz's MP request/DrainTouch. Original uncoded uncertain notes remain exact. These join accepted events and create zero new behavioral trials.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q19",
+      "current_precision": "The color shop attendant is unnamed on the raster; no Lolisa identity is assumed. Cat montage/profile art does not backdate a pet introduction.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q20",
+      "current_precision": "Illustrator unfortunate-cute and useless-goddess evaluations are contributor opinions; celebratory watering art is not a new canonical agricultural or magical act.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q21",
+      "current_precision": "NEXT allegations are attributed promotional speech; ellipses are not confessions. No completed trial stay, testimony or new MAIN03 excluded-component exposure.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q22",
+      "current_precision": "This electronic colophon and print-basis lines both state2013-12-01. Other release-date records, if any, remain distinct; do not infer package modification time or universal edition identity.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q23",
+      "current_precision": "Original R1 contracts, four accepted score files, historical secondary generations/outcomes, pre-YORI04 SEC01 scope and fourteen Dust future/adjudication blanks remain unchanged.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q24",
+      "current_precision": "Kazuma's access and self-presentation are actor-limited: he knows the invitation, Megumin receives it later, Chris asks about the quarrel. No shared hidden premise or divine knowledge without a route.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    },
+    {
+      "id": "M02EX-Q25",
+      "current_precision": "All current selections follow the complete uncoded source seal. Bounded informed retrospective comparisons are neither independent validation nor a census/statistical accuracy measure.",
+      "authored_after_seal_utc": "2026-10-19T06:53:14.842634+00:00"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 283227,
+      "sha256": "836d4437c46abd1e07088e153607ebc62c25eadb3c7af1a6792d64229fb7b348"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 204097,
+      "sha256": "af01ba9c32c7a9985311521b172c15301bf3269cee0dc2d70daead1b8c5d0c8c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 773087,
+      "sha256": "edc8e8fdbffc0eade3fc912b78ceea2178fd1f48ad095c7baa2434b7fdb34494"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 583865,
+      "sha256": "efa4bc202500839d457d5ab2477187e827664def7e50cc47dca483092f20c088"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 181608,
+      "sha256": "edd8a53554e3424c629d3301f7e000225b9e85d8c5cc7b9784db9ea4b532fafd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 175520,
+      "sha256": "f17a26ab83a956782ce6235939e1e2076abffec9a8c0bd2cf037261d64ffbf87"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 197602,
+      "sha256": "46be9caa8c6f9b46fb4de2c6b63a72e0dd225be829af39062d05cc9c5d7dfc8a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 163377,
+      "sha256": "4bf332698e12be59c481fcd37e897a4d59d6fbaf522878df526d2cdec953c9fd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 253292,
+      "sha256": "d562b71ee361701f851baf5f98a7941f6547356e98beb5aee76a63843d5c2aa7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 111499,
+      "sha256": "d61ecaa0ffa8af6b3ea539d8cbc716d7014c26f22a3466eb2a6704de500d4adc"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_or_old_secondary_forecasts_changed": false
+  },
+  "supplemental19_and_mixed5_gate_states_unchanged": true,
+  "main_excluded_component_programs": {
+    "this_source_analytically_accepted_containing_publication_pending": "MAIN-02",
+    "next_separate_source": "MAIN-03",
+    "accepted_principal_bodies_retained": true
+  },
+  "global_narrative_component_completion_percentage": null,
+  "next_boundary": "Exact publication/readback/source/HK/finalsource audit/status/freshreload before Main03excluded admission. Before nextpush ordinarily merge then-current main and rerun affected checks. Fullremaining mainexcluded/syntheses/versionedmodels/secondaryaudit/curation/release continue."
+}

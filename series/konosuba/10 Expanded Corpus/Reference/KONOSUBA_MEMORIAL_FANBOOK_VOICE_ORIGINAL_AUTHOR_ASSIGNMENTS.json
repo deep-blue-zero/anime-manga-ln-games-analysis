@@ -1,0 +1,622 @@
+{
+  "status": "SELECTED_POST_UNCODED_SEAL_AUTHOR_ASSIGNMENTS_NOT_ACCEPTANCE",
+  "source_id": "FAN-MEM",
+  "authored_utc": "2026-10-17T23:46:54.048876+00:00",
+  "initial_uncoded_seal": {
+    "basename": "INITIAL_COMPLETE_UNCODED_SOURCE_FIRST_SEAL_v1.json",
+    "bytes": 1786,
+    "sha256": "107ffea666fdea4a0edea6177edb8b4901874e3f977ebd5fe413b37756cfb45b"
+  },
+  "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+  "actual_complete_page_reading_reused": 121,
+  "selection_bound": "Examples chosen for mechanism/source-plane contrast after complete reading. Neither exhaustive census nor representative random sample; no percentage or pooled portability claim.",
+  "H_axis": "H1 literal behavior; H2 real disposition with amplification; H3 locally gag-contingent behavior; H4 nonliteral comic license. Source plane, confidence and fantasy physics are separate.",
+  "L_axis": "L0 portable structure; L1 phrasing-sensitive; L2 register/pragmatics; L3 central Japanese lexical/grammatical form. Dominant selected effect, with rivals retained.",
+  "not_original_175_185_179_243_or_main_only_428_pool": true,
+  "no_model_forecast_threshold_holdout_outcome_change": true,
+  "shared_ancestry": "Same informed AI source reader/case author; no independent native/human/acoustic/statistical-coder claim; no peer FAN-MEM interpretation received.",
+  "selected_voice_examples": [
+    {
+      "id": "FM-V-01",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S019",
+          "printed_page": "17",
+          "wrapper_member": "item/xhtml/p-017.xhtml",
+          "image_member": "item/image/i-017.jpg",
+          "image_sha256": "a46e1380307686e406c1c6f0fc8b04028a60abffa6435d98f7f31ebd0e6d54c0"
+        }
+      ],
+      "title": "Selected Kazuma profile quotation",
+      "speaker_or_text_producer": "Kazuma in a selected source quotation",
+      "addressee_and_audience": "Original interlocutor not supplied by the excerpt",
+      "context_and_order": "Gender equality posture is a proclaimed stance; no original full trigger window is provided.",
+      "short_material_Japanese_anchor": "男女平等",
+      "basic_gloss": "literal equality label",
+      "pragmatic_interpretation": "Self-authorization and provocative stance rather than a proof of equally respectful treatment.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "L1 may capture emphatic wording; no new local predicate test without original context.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-02",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S020",
+          "printed_page": "18",
+          "wrapper_member": "item/xhtml/p-018.xhtml",
+          "image_member": "item/image/i-018.jpg",
+          "image_sha256": "b4ee341fb0f34e79936483bef34887fd64399cc25b78d6742ce9c10299b4cb16"
+        },
+        {
+          "page_id": "FAN-MEM-S021",
+          "printed_page": "19",
+          "wrapper_member": "item/xhtml/p-019.xhtml",
+          "image_member": "item/image/i-019.jpg",
+          "image_sha256": "5981d2b8766b6f0acbb8d92fac5ba9c841f74450381def1cf5173d17f3c3d4e7"
+        }
+      ],
+      "title": "Aqua profile/dialogue excerpt",
+      "speaker_or_text_producer": "Aqua in selected quotation",
+      "addressee_and_audience": "Original interlocutor bounded by profile excerpt",
+      "context_and_order": "Register, boast and laugh are selected rather than a complete scene.",
+      "short_material_Japanese_anchor": "超うける",
+      "basic_gloss": "laughing appraisal",
+      "pragmatic_interpretation": "Casual derision can coexist with polite endings; civility cannot be inferred from surface morphology.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "The phrase also has L1 delivery effects; no new speaking baseline is invented.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-03",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S022",
+          "printed_page": "20",
+          "wrapper_member": "item/xhtml/p-020.xhtml",
+          "image_member": "item/image/i-020.jpg",
+          "image_sha256": "e2740189a4b6c7b3a685ecd8fa4626d6ed2295aa6b4cc9ce7d5300a3738903ba"
+        },
+        {
+          "page_id": "FAN-MEM-S023",
+          "printed_page": "21",
+          "wrapper_member": "item/xhtml/p-021.xhtml",
+          "image_member": "item/image/i-021.jpg",
+          "image_sha256": "07b8cf4f8333bd178a0b0edfd7ce54da58568e828b4a823b9269a64d1ccaa76a"
+        }
+      ],
+      "title": "Megumin identity performance",
+      "speaker_or_text_producer": "Megumin in selected quotation",
+      "addressee_and_audience": "Original interlocutor context incomplete",
+      "context_and_order": "Crimson identity introduces theatrical self-display, not every ordinary Megumin turn.",
+      "short_material_Japanese_anchor": "我は",
+      "basic_gloss": "I am",
+      "pragmatic_interpretation": "Grand first-person group/role declaration invokes genre role language; listener relation and task matter.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Genre cultural knowledge is distinct from an exclusively Japanese grammatical dependency.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-04",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S024",
+          "printed_page": "22",
+          "wrapper_member": "item/xhtml/p-022.xhtml",
+          "image_member": "item/image/i-022.jpg",
+          "image_sha256": "c4fb928a23c544c32290a1d39e9b27fdf42f8082c294fca2a745912be16b2eb0"
+        },
+        {
+          "page_id": "FAN-MEM-S025",
+          "printed_page": "23",
+          "wrapper_member": "item/xhtml/p-023.xhtml",
+          "image_member": "item/image/i-023.jpg",
+          "image_sha256": "7f79dd0a4642860b14eaf3e5eec6aa2ca1dff621c512747c3147a54c8cd480cc"
+        }
+      ],
+      "title": "Darkness selected humiliation response",
+      "speaker_or_text_producer": "Darkness in selected quotation",
+      "addressee_and_audience": "Original scene audience not completely reproduced",
+      "context_and_order": "The profile juxtaposes armored dignity and blushing/chibi reactions, but omits the original full exchange.",
+      "short_material_Japanese_anchor": "鬼畜",
+      "basic_gloss": "brute / cruel person",
+      "pragmatic_interpretation": "A moral-condemnation word is framed by blushing/anticipatory imagery. It cannot establish either unmixed hostility or general consent; original context remains incomplete.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Full context is inadequate for a new controlled voice-switch test.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-05",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S072",
+          "printed_page": "70",
+          "wrapper_member": "item/xhtml/p-070.xhtml",
+          "image_member": "item/image/i-070.jpg",
+          "image_sha256": "5b09af6f90b6530b6add98cc8d35531449ad35d328db7bc82e1b9ee2bcc71d91"
+        }
+      ],
+      "title": "Aqua fashion proverb",
+      "speaker_or_text_producer": "Aqua in scripted fashion dialogue",
+      "addressee_and_audience": "Kazuma/editorial audience",
+      "context_and_order": "Aqua praises a dressed appearance with a proverb whose ordinary implication undercuts praise.",
+      "short_material_Japanese_anchor": "馬子にも衣装",
+      "basic_gloss": "clothes even for a humble bearer",
+      "pragmatic_interpretation": "The misapplied compliment can insult the person it supposedly praises; cultural proverb knowledge supplies the reversal.",
+      "selected_L_class": "L3",
+      "rivals_and_adequacy_limit": "One could reconstruct a target-language proverb; the clothing situation alone omits this specific lexical sting.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-06",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S078",
+          "printed_page": "76",
+          "wrapper_member": "item/xhtml/p-076.xhtml",
+          "image_member": "item/image/i-076.jpg",
+          "image_sha256": "99b78283ae22b008e9c5e0ab5e62cf133ce67c510076bdfa9e623a5ea88952bd"
+        }
+      ],
+      "title": "Kazuma planner defense",
+      "speaker_or_text_producer": "Kazuma in scripted fashion exchange",
+      "addressee_and_audience": "Aqua and fan-feature audience",
+      "context_and_order": "He is challenged after judging others; defensive explanation and limited apology precede planner blame.",
+      "short_material_Japanese_anchor": "企画",
+      "basic_gloss": "planned feature",
+      "pragmatic_interpretation": "Production responsibility is invoked to displace interpersonal responsibility; this exposes the editorial frame.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "A different-language defense could preserve causality; register and timing remain important.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-07",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S094",
+          "printed_page": "92",
+          "wrapper_member": "item/xhtml/p-092.xhtml",
+          "image_member": "item/image/i-092.jpg",
+          "image_sha256": "9c9c8aead29d4c4d98ba678b6f903a07d06198c023a2a18ec2673a906cdc98d6"
+        }
+      ],
+      "title": "Illustrator design Q&A",
+      "speaker_or_text_producer": "Kurone Mishima",
+      "addressee_and_audience": "Reader question through interview",
+      "context_and_order": "Answer about Megumin costume construction ends with an explicit fantasy explanation.",
+      "short_material_Japanese_anchor": "ファンタジー",
+      "basic_gloss": "fantasy",
+      "pragmatic_interpretation": "Playful refusal to supply physical engineering; creator answer is not Megumin speech or world experiment.",
+      "selected_L_class": "L1",
+      "rivals_and_adequacy_limit": "The light closing effect is portable; not a language-form dependent scientific statement.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-08",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S096",
+          "printed_page": "94",
+          "wrapper_member": "item/xhtml/p-094.xhtml",
+          "image_member": "item/image/i-094.jpg",
+          "image_sha256": "df41178461255d27b17bde012f438645c507474ef675e67d216c9b7e7e047bfe"
+        }
+      ],
+      "title": "Darkness invokes work",
+      "speaker_or_text_producer": "Darkness",
+      "addressee_and_audience": "Kazuma/Aqua/Megumin",
+      "context_and_order": "Card-game interruption leads to urging guild response; the same interruption provokes domestic blame.",
+      "short_material_Japanese_anchor": "ギルド",
+      "basic_gloss": "guild",
+      "pragmatic_interpretation": "Task direction and household conflict coexist; later erotic disposition cannot erase this contribution.",
+      "selected_L_class": "L0",
+      "rivals_and_adequacy_limit": "The obligation/avoidance conflict carries the effect; this selected single term is only a locating anchor.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-09",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S097",
+          "printed_page": "95",
+          "wrapper_member": "item/xhtml/p-095.xhtml",
+          "image_member": "item/image/i-095.jpg",
+          "image_sha256": "79108a344f849a1407af23d73dbcb075dfe047476af18267817db153834f79ca"
+        }
+      ],
+      "title": "Vanir advisory inducement",
+      "speaker_or_text_producer": "Vanir",
+      "addressee_and_audience": "Kazuma",
+      "context_and_order": "Kazuma resists dangerous involvement before promised dream reward.",
+      "short_material_Japanese_anchor": "我輩",
+      "basic_gloss": "grand first-person form",
+      "pragmatic_interpretation": "Ceremonious devildiction contrasts with transactional temptation; pronoun alone is not complete voice identification.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Portable bribery plot; marked role register is an additional effect.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-10",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S097",
+          "printed_page": "95",
+          "wrapper_member": "item/xhtml/p-095.xhtml",
+          "image_member": "item/image/i-095.jpg",
+          "image_sha256": "79108a344f849a1407af23d73dbcb075dfe047476af18267817db153834f79ca"
+        },
+        {
+          "page_id": "FAN-MEM-S098",
+          "printed_page": "96",
+          "wrapper_member": "item/xhtml/p-096.xhtml",
+          "image_member": "item/image/i-096.jpg",
+          "image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b"
+        },
+        {
+          "page_id": "FAN-MEM-S099",
+          "printed_page": "97",
+          "wrapper_member": "item/xhtml/p-097.xhtml",
+          "image_member": "item/image/i-097.jpg",
+          "image_sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af"
+        }
+      ],
+      "title": "Medusa teacher address",
+      "speaker_or_text_producer": "Medusa dungeon owner",
+      "addressee_and_audience": "Kazuma",
+      "context_and_order": "Suspicion changes after prestige/tactical displays; later dependence and fear emerge.",
+      "short_material_Japanese_anchor": "先生",
+      "basic_gloss": "teacher",
+      "pragmatic_interpretation": "The same address can be deference, appeal or attachment; its presence does not certify superior ethics or actual rescue.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "A translated role address can preserve much, but relative status and shifts need explanation.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-11",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S098",
+          "printed_page": "96",
+          "wrapper_member": "item/xhtml/p-096.xhtml",
+          "image_member": "item/image/i-096.jpg",
+          "image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b"
+        }
+      ],
+      "title": "Kazuma expiring ticket instruction",
+      "speaker_or_text_producer": "Kazuma",
+      "addressee_and_audience": "Medusa, with Vanir present",
+      "context_and_order": "He instructs placement of a genuine ticket with date and scarcity conditions before observing conflict.",
+      "short_material_Japanese_anchor": "本日限定",
+      "basic_gloss": "today only",
+      "pragmatic_interpretation": "Concrete institutional timing creates competition; language specifies a causal deadline rather than magic compulsion.",
+      "selected_L_class": "L0",
+      "rivals_and_adequacy_limit": "Equivalent translated deadline preserves the primary mechanism; concise sales phrasing adds L1 color.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-12",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S098",
+          "printed_page": "96",
+          "wrapper_member": "item/xhtml/p-096.xhtml",
+          "image_member": "item/image/i-096.jpg",
+          "image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b"
+        }
+      ],
+      "title": "Vanir apprentice-villain praise",
+      "speaker_or_text_producer": "Vanir",
+      "addressee_and_audience": "Kazuma/Medusa",
+      "context_and_order": "Adventurer conflict rewards Vanir appetite for resentment and prompts grand laughter/praise.",
+      "short_material_Japanese_anchor": "フハハ",
+      "basic_gloss": "grand laugh",
+      "pragmatic_interpretation": "The devil aestheticizes social harm and supports teacher status; not omniscient ethical judgment.",
+      "selected_L_class": "L1",
+      "rivals_and_adequacy_limit": "Laugh rhythm and theatrical form matter, while villain admiration is portable.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-13",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S099",
+          "printed_page": "97",
+          "wrapper_member": "item/xhtml/p-097.xhtml",
+          "image_member": "item/image/i-097.jpg",
+          "image_sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af"
+        }
+      ],
+      "title": "Aqua apology condition",
+      "speaker_or_text_producer": "Aqua",
+      "addressee_and_audience": "Returning Kazuma",
+      "context_and_order": "She is angry about his absence and offers forgiveness after an apology, not proven memory loss.",
+      "short_material_Japanese_anchor": "ごめんなさい",
+      "basic_gloss": "sorry",
+      "pragmatic_interpretation": "Familiar maternal/scolding stance mixes care, authority and grievance; not a universal hierarchy.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "A translated apology demand can retain meaning, but interpersonal stance is material.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-14",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S101",
+          "printed_page": "99",
+          "wrapper_member": "item/xhtml/p-099.xhtml",
+          "image_member": "item/image/i-099.jpg",
+          "image_sha256": "cfbc2a1cbd055f33d79a088f42c09ac194c8adf1ce758dcc3bee8decce8df8b1"
+        }
+      ],
+      "title": "Darkness corrects celebrity comparison",
+      "speaker_or_text_producer": "Darkness",
+      "addressee_and_audience": "Aqua/quartet/Luna",
+      "context_and_order": "Aqua compares them to celebrities after fan request; Darkness insists on the category itself.",
+      "short_material_Japanese_anchor": "有名人よ",
+      "basic_gloss": "we are famous",
+      "pragmatic_interpretation": "An intensified correction reveals pride here, not automatic preference for every public audience.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Category correction is portable; emphatic ending and panel contrast add stance.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-15",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S102",
+          "printed_page": "100",
+          "wrapper_member": "item/xhtml/p-100.xhtml",
+          "image_member": "item/image/i-100.jpg",
+          "image_sha256": "54294b4a66c851e000b8e675446979e450100a12237c9f0d8ae4f57354d7af7c"
+        }
+      ],
+      "title": "Aqua volunteers help/performance",
+      "speaker_or_text_producer": "Aqua",
+      "addressee_and_audience": "Luna/quartet",
+      "context_and_order": "Poll first-place boast precedes offering a new party trick; Kazuma interrupts with a kick.",
+      "short_material_Japanese_anchor": "一肌脱ぐ",
+      "basic_gloss": "lend a hand",
+      "pragmatic_interpretation": "Idiom promises cooperation rather than literal stripping; adjacent visual erotic assumptions should not override the idiomatic act.",
+      "selected_L_class": "L3",
+      "rivals_and_adequacy_limit": "An equivalent idiom can reconstruct the joke; literal translation alone could falsely imply undressing.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-16",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S103",
+          "printed_page": "101",
+          "wrapper_member": "item/xhtml/p-101.xhtml",
+          "image_member": "item/image/i-101.jpg",
+          "image_sha256": "fe21669122e916045e2d46cec60490146403ec4af8a228a4761c6b9e2faf1cb2"
+        }
+      ],
+      "title": "Megumin disputes divine election",
+      "speaker_or_text_producer": "Megumin and Aqua, separate speakers",
+      "addressee_and_audience": "Each other, with quartet/Luna present",
+      "context_and_order": "Megumin alleges boosted election; Aqua recasts it as divine power.",
+      "short_material_Japanese_anchor": "神パワー",
+      "basic_gloss": "god power",
+      "pragmatic_interpretation": "This is a defense of legitimacy under accusation, not an accepted empirical causal explanation for the poll.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Portable unfair-advantage dispute; the childish/boastful label and register shape its delivery.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-17",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S104",
+          "printed_page": "102",
+          "wrapper_member": "item/xhtml/p-102.xhtml",
+          "image_member": "item/image/i-102.jpg",
+          "image_sha256": "555aa06717a712b7d9b5ec9edc07dacea2c7c380782fbe50690394fabd732277"
+        }
+      ],
+      "title": "Darkness interview invitation",
+      "speaker_or_text_producer": "Darkness",
+      "addressee_and_audience": "Luna",
+      "context_and_order": "She explicitly volunteers questions about favored fantasy and public embarrassment; Luna is uneasy.",
+      "short_material_Japanese_anchor": "質問攻め",
+      "basic_gloss": "barrage of questions",
+      "pragmatic_interpretation": "Task word becomes desired aggressive attention; willingness is context-specific, not assault consent.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Aggressive metaphor and stance can be translated, but literal-question meaning alone loses the erotic reinterpretation.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-18",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S105",
+          "printed_page": "103",
+          "wrapper_member": "item/xhtml/p-103.xhtml",
+          "image_member": "item/image/i-103.jpg",
+          "image_sha256": "a34f70322e9d5573254ec8bd21faecc213055f0f67c2a81a3bb2f0ee119cb071"
+        },
+        {
+          "page_id": "FAN-MEM-S106",
+          "printed_page": "104",
+          "wrapper_member": "item/xhtml/p-104.xhtml",
+          "image_member": "item/image/i-104.jpg",
+          "image_sha256": "baa0ce9cacc1e8a6b0f3ac3b0402d9288c34d23a5ef513bd972593e5b6c7c907"
+        }
+      ],
+      "title": "Kazuma help pose then protagonist claim",
+      "speaker_or_text_producer": "Kazuma external speech and private thought kept separate",
+      "addressee_and_audience": "Luna, then quartet",
+      "context_and_order": "Private date inference precedes useful-looking intervention; then solo coverage claim and rejection of others.",
+      "short_material_Japanese_anchor": "主人公",
+      "basic_gloss": "protagonist",
+      "pragmatic_interpretation": "Explicit metalevel self-authorization; actual date reciprocity remains absent.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Protagonist logic is culturally genre-dependent but not uniquely Japanese grammar; response timing and stance are load-bearing.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-19",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S107",
+          "printed_page": "105",
+          "wrapper_member": "item/xhtml/p-105.xhtml",
+          "image_member": "item/image/i-105.jpg",
+          "image_sha256": "64b5a2aa999817d62f5ee19651bc6e0bbd71880d222a04105daf074d4f747c8f"
+        }
+      ],
+      "title": "Luna postpones interview",
+      "speaker_or_text_producer": "Luna",
+      "addressee_and_audience": "Quartet",
+      "context_and_order": "After growing conflict she sees ominous Megumin and exits before Blast.",
+      "short_material_Japanese_anchor": "またいつか",
+      "basic_gloss": "some other time",
+      "pragmatic_interpretation": "Polite indefinite postponement functions as withdrawal, not a scheduled promise.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Indirect refusal/face-saving has translatable equivalents, but a literal future commitment misreads the function.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-20",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S110",
+          "printed_page": "108",
+          "wrapper_member": "item/xhtml/p-108.xhtml",
+          "image_member": "item/image/i-108.jpg",
+          "image_sha256": "c95b5537fd77f2a6248b5736f68719f3b18f5f66210c60db1420d9835fafd573"
+        },
+        {
+          "page_id": "FAN-MEM-S111",
+          "printed_page": "109",
+          "wrapper_member": "item/xhtml/p-109.xhtml",
+          "image_member": "item/image/i-109.jpg",
+          "image_sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36"
+        }
+      ],
+      "title": "Bonus water-business title",
+      "speaker_or_text_producer": "Title/editorial frame and Kazuma narrator",
+      "addressee_and_audience": "Reader",
+      "context_and_order": "Actual commodity is water, while narrator expressly invokes the conventional other business sense.",
+      "short_material_Japanese_anchor": "水商売",
+      "basic_gloss": "water trade / conventional nightlife-business expression",
+      "pragmatic_interpretation": "A lexical double reading joins the plot to an adult-business allusion without actual sex work.",
+      "selected_L_class": "L3",
+      "rivals_and_adequacy_limit": "This is a central specifically Japanese lexical relation, unlike an ordinary negative reply.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-21",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S110",
+          "printed_page": "108",
+          "wrapper_member": "item/xhtml/p-108.xhtml",
+          "image_member": "item/image/i-108.jpg",
+          "image_sha256": "c95b5537fd77f2a6248b5736f68719f3b18f5f66210c60db1420d9835fafd573"
+        }
+      ],
+      "title": "Kazuma hostile water appraisal",
+      "speaker_or_text_producer": "Kazuma",
+      "addressee_and_audience": "Aqua",
+      "context_and_order": "He has seen Aqua in the fountain and crudely recasts her purified-water product.",
+      "short_material_Japanese_anchor": "出汁",
+      "basic_gloss": "stock/extract",
+      "pragmatic_interpretation": "A food metaphor for water she touched humiliates the seller; does not prove biological secretions.",
+      "selected_L_class": "L1",
+      "rivals_and_adequacy_limit": "A translated bodily/food metaphor could reproduce insult; original short phrasing sharpens it, without requiring L3.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-22",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S111",
+          "printed_page": "109",
+          "wrapper_member": "item/xhtml/p-109.xhtml",
+          "image_member": "item/image/i-109.jpg",
+          "image_sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36"
+        }
+      ],
+      "title": "Local water god versus divine monopoly",
+      "speaker_or_text_producer": "Restaurant worker, then Aqua",
+      "addressee_and_audience": "Kazuma/Aqua, then former mage",
+      "context_and_order": "Woman uses appreciative nickname; Aqua first scans around, then demands apology/charges/tribute.",
+      "short_material_Japanese_anchor": "水の神様",
+      "basic_gloss": "water god",
+      "pragmatic_interpretation": "Respectful nickname for charity is not a formal theology; Aqua treats it as encroachment on status.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "Same words can mark gratitude or ownership claim depending speaker; the narrative reversal is portable.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    },
+    {
+      "id": "FM-V-23",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S111",
+          "printed_page": "109",
+          "wrapper_member": "item/xhtml/p-109.xhtml",
+          "image_member": "item/image/i-109.jpg",
+          "image_sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36"
+        }
+      ],
+      "title": "Kazuma distancing close",
+      "speaker_or_text_producer": "Kazuma narrator",
+      "addressee_and_audience": "Reader",
+      "context_and_order": "After roadside bargaining, he comments on Aqua goddess status with distanced reporting form.",
+      "short_material_Japanese_anchor": "だそうです",
+      "basic_gloss": "so it is said",
+      "pragmatic_interpretation": "Mock report questions appropriateness of conduct, not established literal divinity.",
+      "selected_L_class": "L2",
+      "rivals_and_adequacy_limit": "A bare semantic deity statement misses narrator stance; target-language ironic distance can reconstruct it.",
+      "base_ruby_note": "Anchor transcribes visible base text; printed furigana read where present. No alternate ruby or acoustic realization inferred.",
+      "no_fixed_union_remapping_or_forecast_score": true
+    }
+  ],
+  "selected_record_count": 23
+}

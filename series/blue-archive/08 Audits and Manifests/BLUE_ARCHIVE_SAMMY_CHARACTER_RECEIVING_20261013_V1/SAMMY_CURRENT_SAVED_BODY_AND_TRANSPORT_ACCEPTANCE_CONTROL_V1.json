@@ -1,0 +1,169 @@
+{
+  "schema": "SAMMY_CURRENT_SAVED_BODY_AND_TRANSPORT_ACCEPTANCE_CONTROL_V1",
+  "target": "P3-CHAR-M032",
+  "composer": "receive_last16",
+  "current_semantic_status": "ROOT_COMPLETE_CHARACTER_AND_ALL105_TARGET_PURPOSES_ADOPTED_WITH_LIMITS_AT_DISCLOSED_GRADES",
+  "current_saved_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 24887,
+    "sha256": "b3a06892f5078b34a6b307e6daaa0d17ea48dc7935b86e739830493ce543487f",
+    "git_blob_oid_of_actual_bytes": "62b2f9d19a95959843eb9b33c9b82de4732920d7"
+  },
+  "body_physical_lines": 120,
+  "current_claim_register": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_SOURCE_SCOPED_CHARACTER_CLAIM_AND_FINITE_END_REGISTER_V1.json",
+    "bytes": 56863,
+    "sha256": "8cc86dafaecacdee407dea426967c7f39b49b99cb24b24f89ecb7dbefa945002",
+    "git_blob_oid_of_actual_bytes": "d1987fd0293769b0f25ec4cef4a0ad1c6f5b9a13"
+  },
+  "current_source_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+    "bytes": 39002,
+    "sha256": "e68b299009b77118470d7d544d798540a1fd9c92a2cf307ac486548aaecc194f",
+    "git_blob_oid_of_actual_bytes": "48c272f0605445e1e7f326d4ca45df84803422e5"
+  },
+  "current_all105_index": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_INDEX_V1.json",
+    "bytes": 102069,
+    "sha256": "59d40dfa97d3a9e1962c0f75624bdc2d555a8320d937ec0c51507d686d135425",
+    "git_blob_oid_of_actual_bytes": "29fe76c3f74dcdf91b77228d1677db79894b36f5"
+  },
+  "current_all105_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_PART_O000_O035_V1.json",
+      "bytes": 127462,
+      "sha256": "de4a9e02be59cfe3c5a1f0aa87b17ecf8581c52c811f764de95db97dbaea84c3",
+      "git_blob_oid_of_actual_bytes": "e9409ee5401dafaae82323305ab6f30dfaf93f27"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_PART_O036_O070_V1.json",
+      "bytes": 127898,
+      "sha256": "8efe5b2ccbab440c54bf2b0a3c84b8193cd189ed08a00a447c3459d360fe00d3",
+      "git_blob_oid_of_actual_bytes": "0915e7e4222b00bceb46e81be6c4d58ab92a082f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_PART_O071_O104_V1.json",
+      "bytes": 150440,
+      "sha256": "feb738e968014864d8a5b2f1011a40ca5edad4fd8d47b19784a94e8221460efd",
+      "git_blob_oid_of_actual_bytes": "8d9c25606d87f911aec5ad5eaf7f57b79499da3b"
+    }
+  ],
+  "current_ROOT_adoption": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "bytes": 7587,
+    "sha256": "9ff257803e0b3e92ff466c8734fb37a38f408a2d2d96dd02c984471efb9beae7",
+    "git_blob_oid_of_actual_bytes": "b3e79adb2e24929a2745d33fdf9fd97e0ae09797"
+  },
+  "current_independent_complete_receiving": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_INDEPENDENT_CURRENT_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "bytes": 213951,
+    "sha256": "723b7aff18148c28bf2b208e24f09624282e2e67c6296101a912452b1f409570",
+    "git_blob_oid_of_actual_bytes": "83814ebf964fd0939150d857f74472228bd04ddf"
+  },
+  "all10_declared_candidate_paths": [
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_PART_O000_O035_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_PART_O036_O070_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_PART_O071_O104_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_INDEX_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_SOURCE_SCOPED_CHARACTER_CLAIM_AND_FINITE_END_REGISTER_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_INDEPENDENT_CURRENT_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CURRENT_SAVED_BODY_AND_TRANSPORT_ACCEPTANCE_CONTROL_V1.json"
+  ],
+  "declared_before_state": "All10 are prepared new candidate routes, absence supplied only as a declaration. ROOT must verify each actual repository target absence/current beforeimage and source reconciliation before install; this composer read no R/Git/provider state.",
+  "exact_original7_preservation": "All7 original bytes/SHA/Gitblob match original author manifest exactly. Original public payloads, creation pending fields and source/claim/purpose grades remain literally frozen.",
+  "semantic_pending_qualification_routes": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "locator": "Scope and present disposition, especiallyL5",
+      "current_scope": "ROOT literary/all105 semantics adopted; canonical installation/remote/main remain pending."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_INDEX_V1.json",
+      "pointer": "/current_qualifier/present_disposition",
+      "current_scope": "Qualify only ROOT literary-receiving pending; retain canonical-installation pending."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+      "pointer": "/current_qualifier/present_disposition",
+      "current_scope": "Same narrow semantic qualification. /existing_scope_and_original_argument/required_row_preserved stays frozen actual prior metadata; no canonical-row update inferred."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_SOURCE_SCOPED_CHARACTER_CLAIM_AND_FINITE_END_REGISTER_V1.json",
+      "pointer": "/claims/*/disposition",
+      "current_scope": "Current ROOT semantic adoption of exact22 at bounded grades; original proposed/receiving-pending strings retained as author-stage history."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_SOURCE_SCOPED_CHARACTER_CLAIM_AND_FINITE_END_REGISTER_V1.json",
+      "pointer": "/readiness",
+      "current_scope": "Original independent/ROOT semantic pending addressed by bound receipts; final composition, metadata/install/publication/chain gates remain pending."
+    }
+  ],
+  "counts": {
+    "claims": 22,
+    "dimensions": 11,
+    "source_custody_records": 19,
+    "Sammy_specific_purposes": 105,
+    "rivals": 8,
+    "finite_retrospective_checks": 16,
+    "original_OPEN_gaps": 14,
+    "models": 0
+  },
+  "actual_roles_and_grades": {
+    "body_author": "Sammy author18whole core analytical normals/1selected family argument/currentlimits/tail; all105 report meanings; no primary/native/raw/AV.",
+    "independent_reviewer": "Different author actually received whole120/current22/105 target meanings; adequate own16MAIN/context, prior selectedEVENT861, private attribution and69analytic/36report common scopes disclosed. Necessary existingMN13 ending check retained at analytical grade.",
+    "ROOT": "Whole120 dfdb5f,22/rivals06ed86,105 target report meanings0071a9/f08077/266090,16ends/14gaps5783b6 and exact7byte749d25; semantic adoption receipt5268.",
+    "original_contributors": "26whole/79selected remain attributed; no copying/hash promotes source exposure."
+  },
+  "frozen_private_preservation_evidence": {
+    "original_independent_QA": {
+      "evidence_id": "INDEPENDENT_SAMMY_M032_EXACT7_FULL_BODY_22CLAIMS_105PURPOSES_19CUSTODY_AND_COMPLETE_INVERSE_REVIEW_V1.json",
+      "bytes": 216163,
+      "sha256": "27cf6e33e82e7fbf933705ef902c2c69ae6b94bcc14c04978a4d16b4f3568fce",
+      "git_blob_oid_of_actual_bytes": "d9576a48b223b8be6da572934574aa8dc682b8ff"
+    },
+    "original_ROOT_adoption": {
+      "evidence_id": "ROOT_SAMMY_M032_COMPLETE_LITERARY_AND_ALL105_PURPOSE_ADOPTION_20261013_V1.json",
+      "bytes": 5268,
+      "sha256": "b3a3196f078a1e10612e3d0aa39dc30d9a3d46844e206c8bed688c70578b17c1",
+      "git_blob_oid_of_actual_bytes": "450388712c85a10b22198d0f14e148d2101b1c55"
+    },
+    "original_author_manifest": {
+      "evidence_id": "SAMMY_CURRENT_EXACT7_AUTHOR_PROPOSAL_ALLOWLIST_AND_RECEIVING_MANIFEST_V1.json",
+      "bytes": 8238,
+      "sha256": "673526f5e71594ed50bbafdf68b91e2c9bb793849f9770f9f1652dc0885cf75c",
+      "git_blob_oid_of_actual_bytes": "1ddd41322f3736a686d8fa50d9194477cddf4afd"
+    },
+    "original_author_creation_proof": {
+      "evidence_id": "SAMMY_EXACT7_COMPLETE_EXECUTED_PRIVATE_PRESERVATION_PROOF_V1.json",
+      "bytes": 34898,
+      "sha256": "f8607076a2d7435c929a6bca9ff7ea30fd153fc34a20153827c5628ed17dd69a",
+      "git_blob_oid_of_actual_bytes": "ead9182528dce82de724069a42abeb9cb089e54e"
+    },
+    "inverse_contract": "Exact private26pointer/full-string substitutions plus dropping one additive qualification restore whole original216163 QA bytes. ROOT additive-field drop restores original5268 bytes. Originals remain private, unmodified, not encoded or bundled into public payloads."
+  },
+  "C_only_transport_status": "EXACT_SAVED_CANDIDATE_BYTE_AND_REFERENCE_PREPARATION_COMPLETE;ROOT_FINAL_COMPOSITION_REVIEW_REQUIRED",
+  "installation": {
+    "performed": false,
+    "canonical_metadata_updated": false,
+    "canonical_body_installed": false
+  },
+  "publication": {
+    "performed": false,
+    "commit": null,
+    "tree": null,
+    "remote_branch": null,
+    "SOURCE_CI": null,
+    "HOUSEKEEPING_CI": null,
+    "FINAL_CI": null,
+    "main_integration": null
+  },
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "separate_parents": "Ami,Minato,Sammy directed care,Odysseia institution,claimant andGSC retained independently; no parent/named completion from this composition.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_source_admission_identity_private_model_named_package_merge_or_milestone_credit": 0,
+  "merge_approval": "RESERVED"
+}

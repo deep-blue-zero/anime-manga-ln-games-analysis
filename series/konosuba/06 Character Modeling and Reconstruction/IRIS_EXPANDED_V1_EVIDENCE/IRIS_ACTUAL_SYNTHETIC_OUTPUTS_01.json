@@ -1,0 +1,155 @@
+{
+  "schema": "KONOSUBA_IRIS_ACTUALLY_GENERATED_SYNTHETIC_OUTPUTS_V1",
+  "generated_and_recorded_utc": "2026-10-19T09:40:40.611008+00:00",
+  "scenario_contract_sha256": "13bf4426be7c92d0c07cb1e942492ffb5d22d4f667b526b36cc64edbbb7a9230",
+  "model_sha256": "97f9f201447c6b4e3e2674d3eb49d115be3efdd136887dc5f7b83604b32490ce",
+  "generator": "Same continuing informed root; no independent sample or native-human voice validation",
+  "outputs": [
+    {
+      "scenario_id": "IRIS-SC01",
+      "mode": "CANONICAL_COMIC",
+      "action": "Iris sets the failed portion aside and asks Yunyun to demonstrate the measuring step once more. She tries the bounded step herself and checks the amount before adding it; the result is left open.",
+      "speech": "私にもやらせてください。ここまでで合っていますか？　もう一度だけ、見せてもらってもいいですか。",
+      "appraisal": "The offered role is real participation with a trusted peer. A failed attempt is information about a new task, not humiliation requiring ceremonial service.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC01",
+      "mode": "TRANSFER",
+      "action": "Iris asks to watch one measurement, then measures the next portion herself while the friend checks. She does not take over the whole kitchen or claim to know the remaining recipe.",
+      "speech": "Can I try this one? Wait—show me where the line is again.",
+      "appraisal": "The same learning reward is available within ordinary human technique, supervision and time.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC02",
+      "mode": "CANONICAL_COMIC",
+      "action": "She checks how much time remains before the briefing and asks for the feasible ten-minute visit. She still says she wanted the longer hour, then leaves when the public task requires it.",
+      "speech": "本当は、もっと一緒にいたかったです。……その前に、少しだけお話ししてもいいですか。",
+      "appraisal": "Recognized public responsibility constrains the full wish; reduced company keeps some of its value without inventing an available substitute.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC02",
+      "mode": "TRANSFER",
+      "action": "She asks whether the companion can stay for ten minutes before the handover, watches the time and joins the supplies task as promised. Her disappointment is still visible.",
+      "speech": "I wanted the whole hour. Could we have ten minutes now? I did promise I'd be there.",
+      "appraisal": "A real promised contribution is the transferred constraint. There is no invented executive proxy or adult-like absence of disappointment.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC03",
+      "mode": "CANONICAL_COMIC",
+      "action": "Iris asks what would be demonstrated and whether her guardian may hear the explanation too. She stays at the public site while that answer is sought; the stranger's motives and the final decision remain unknown.",
+      "speech": "何を見せてくださるのですか？　あちらでもお話を聞いていただいていいですか。",
+      "appraisal": "This is one plausible completion under missing trust information. SI-D01 is unmatched; the cautious choice is not a confirmed prediction.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC03",
+      "mode": "TRANSFER",
+      "action": "She asks whether the demonstration can be explained at the supervised stall and turns to the nearby guardian before deciding to leave. Nobody's benign intention is certified.",
+      "speech": "What does it do? Could you show us here, with my guardian?",
+      "appraisal": "Curiosity survives while the scenario leaves trust unresolved. The model does not uniquely determine her substantive response.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC04",
+      "mode": "CANONICAL_COMIC",
+      "action": "She picks up the keepsake and tells the companion that she knows its price but wants to keep this particular one. She does not demand punishment or claim it confers a relationship the giver has not agreed to.",
+      "speech": "値段は知っています。でも、これはあの人から頂いた物ですから。私は、これがいいんです。",
+      "appraisal": "The conflict concerns a specific memory and giver, not inability to understand price or a need to win a public status contest.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC04",
+      "mode": "TRANSFER",
+      "action": "She keeps the object in her own bag and explains its meaning briefly. She looks embarrassed but does not exchange it just to end the peers' laughter.",
+      "speech": "I know it's cheap. I still want this one. It was from someone important to me.",
+      "appraisal": "Relational value remains nonfungible without fantastical power or an adult engagement narrative.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC05",
+      "mode": "CANONICAL_COMIC",
+      "action": "Iris initially reassures the ally that she can explain the excuse to the guardians and agrees to support the proposed account. The written record remains unchanged, guardians may challenge it, and the ally's burden is not erased.",
+      "speech": "私から話しておきます。……きっと、大丈夫ですから。",
+      "appraisal": "The shared attractive goal and supplied belief in influence outweigh spontaneous candid disclosure in this low-confidence branch. This is a troubling choice, not a moral endorsement or successful deception.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC05",
+      "mode": "TRANSFER",
+      "action": "She tells the classmate she will back the excuse and starts toward the supervisor. The scene ends before the supervisor answers; her family's prominence gives her no actual control over the record or response.",
+      "speech": "I'll tell them too. They know my family—it'll be all right.",
+      "appraisal": "Her mistaken belief, rather than real institutional power, supports the initial reassurance. The output preserves a possible failure and consequences.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC06",
+      "mode": "CANONICAL_COMIC",
+      "action": "She stops the proposed intervention after the protector names the bystander risk and asks where people can withdraw. When the other provider offers one finite passage block, she asks for exactly that contribution while civilians move; she does not order an indefinite campaign.",
+      "speech": "待ってください。まだ人がいます。……その通路だけ、お願いしてもいいですか。",
+      "appraisal": "Initial inhibition and renewed action occur after different information and provision. A helpful provider owns the limited offer.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC06",
+      "mode": "TRANSFER",
+      "action": "She steps back rather than trying to force a path through the crowd. After the staff member offers to clear the exit, she asks whether she can point out a group still waiting; the adult retains control of the clearance.",
+      "speech": "I'll wait. There are people behind them. Can I show you where the last group is?",
+      "appraisal": "The mechanism transfers through information and finite provision, not combat force or a royal command over adults.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC07",
+      "mode": "CANONICAL_COMIC",
+      "action": "Iris puts the sword aside and asks the guide to show how the thread passes through the needle. She attempts a short stitch, notices uneven spacing and asks whether to undo it; completion is not guaranteed.",
+      "speech": "これでは、すぐにほどけてしまいますか？　私がやり直してもいいですか。",
+      "appraisal": "Combat competence does not supply sewing technique. A meaningful practical role still attracts effort with novice limits.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC07",
+      "mode": "TRANSFER",
+      "action": "She follows the guide's first stitch and tries the next one slowly, stopping when the fabric bunches. She asks for help instead of treating her fencing training as repair expertise.",
+      "speech": "Mine's pulling it crooked. Do I take this stitch out and try again?",
+      "appraisal": "Domain shift changes the necessary technique while preserving desire to participate and learn.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC08",
+      "mode": "CANONICAL_COMIC",
+      "action": "She covers the open journal and draws it back before another page is turned. She states the limit directly, while leaving their familiar relationship intact; no rank punishment or romantic explanation is added.",
+      "speech": "それは、私だけの日記です。読まないでください。",
+      "appraisal": "Specific unwanted access recruits a specific immediate boundary. General trust does not authorize this act.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC08",
+      "mode": "TRANSFER",
+      "action": "She closes the journal and holds it against her bag. She says that she is not sharing those pages and asks the companion to stop, without treating prior kindness as a debt she must pay with access.",
+      "speech": "No, that part's private. Please don't read it.",
+      "appraisal": "The same privacy boundary operates at her age and available power. Attachment and refusal coexist.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC09",
+      "mode": "CANONICAL_COMIC",
+      "action": "Iris declines the immediate visit for now and begins checking the supplies count she wanted to finish herself. She asks whether a later visit is possible, accepts that others may decline to help and keeps working without a promised reward.",
+      "speech": "先に、これを終わらせたいんです。終わったら、私からお話ししてもいいですか。",
+      "appraisal": "A separately established achievement goal directs an actual initial attempt. Recognition is sought through finite effort rather than a manufactured villain or compulsory service.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC09",
+      "mode": "TRANSFER",
+      "action": "She asks the mentor whether she may come after the inventory task, then counts the next shelf and checks a discrepancy. She does not conscript classmates, abandon supervision or assume the mentor will praise the result.",
+      "speech": "Could I come over when I've finished this? I want to be able to say I did my part.",
+      "appraisal": "The transferred recognition goal yields delayed access and a concrete attempt within ordinary ability and institutional limits.",
+      "source_event_claim": false
+    }
+  ],
+  "causal_receiving_status": "NOT_YET_REVIEWED",
+  "source_accuracy_or_blind_prediction_claim": false
+}

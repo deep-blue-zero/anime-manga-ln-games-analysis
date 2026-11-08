@@ -1,0 +1,308 @@
+{
+  "status": "ACCEPTED_PRINCIPAL_UNCHANGED_R1_VALIDATION_NOT_COMPLETE_EDITION_OR_STAGE_C",
+  "source_id": "DUST-07",
+  "canonical_filename": "Konosuba Extra - Dust - Volume 07.epub",
+  "drive_object_id": "1CmJWSWaNgb14en11kT76YFBOqK9-uCoF",
+  "native_bytes": 4740436,
+  "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+  "metadata_inspected_utc": "2026-10-17T20:12:13.930477+00:00",
+  "opf_member": "item/standard.opf",
+  "opf_sha256": "3614bd9ba45b3c5d2fad98c01ed416cc0adfefc131681b6f71b63bd922081c5d",
+  "opf_version": "3.0",
+  "opf_metadata": {
+    "title": [
+      "この素晴らしい世界に祝福を！エクストラ　あの愚か者にも脚光を！7　竜に愛されし愚者"
+    ],
+    "creator": [
+      "昼熊",
+      "暁　なつめ",
+      "三嶋　くろね",
+      "憂姫　はぐれ"
+    ],
+    "language": [
+      "ja"
+    ],
+    "publisher": [
+      "株式会社ＫＡＤＯＫＡＷＡ"
+    ],
+    "identifier": [
+      "04108252A08504400000"
+    ],
+    "date": []
+  },
+  "role_limit": "Multiple OPF aut roles do not make each creator sole prose author; publisher credits in source matrix retain distinctions. No dc date; package modified date not certified publication date.",
+  "CRC": "PASS",
+  "manifest_count": 47,
+  "spine_count": 19,
+  "admission_utc": "2026-10-17T20:13:03.558500+00:00",
+  "admission_receipt": {
+    "name": "ROOT_PRINCIPAL_ADMISSION.json",
+    "bytes": 10122,
+    "sha256": "ff8dac88a7a67064fab6c6522b285fe93103b94cafe5a7df36d29e1e0ac37239"
+  },
+  "entering_DUST06_publication": "757c58fc8ab0dbd11ac7ea3a904197dc3299cf26",
+  "entering_DUST06_gate_sha256": "92978c86d69b5e0d659bb9332639410cc5103fe0c6416a050060fa4819293f1f",
+  "published_authority_reload_sha256": "934b36d01dbb2917c98bbd41a8e8fc5721af5b60b91ff79b8159625b885933c6",
+  "source_unexposed_preparation_seal_sha256": "c15293134c34e9f6d51ff468c420de4016c7a1ecbd33b4a3c5e966c999177866",
+  "current_DUST07_preparation_sha256": "1396519327400aab17a3a4c140d623945a86efe69f4071dceeb60b1fd83773d6",
+  "principal_boundary_basis": "EPUB3 navigation identifies prologue, three numbered chapters and epilogue in item/xhtml/p-002.xhtml through p-006.xhtml. Admit only their complete principal paragraph prose. Afterword p-007, all actual images, covers/front matter/title/caution/contents/colophon/bookwalker bodies remain excluded pending Stage C. Navigation and counts establish boundaries, not semantic or visual completion; absence of a bonus navigation label is not proof of no extra fiction.",
+  "locator_contract": "One-based all descendant body-p slots per exact approved principal member, including blank/image slots. Base excludes rt/rp with tails preserved; all ruby/fullpXML/attributes/break positions retained. No non-p prose residual in these five principal members only; excluded colophon has separate metadata-only residual and remains unread.",
+  "principal_units": [
+    {
+      "unit": "Pro",
+      "member": "item/xhtml/p-002.xhtml",
+      "source_bytes": 7632,
+      "source_sha256": "7ea4de340201b002efe97a46f4639b4d588a0d6e0b447634919a21341f41e46a",
+      "paragraph_slots": 51,
+      "nonempty_p": 49,
+      "base_characters": 1523,
+      "ruby": 56,
+      "derivative_bytes": 34100,
+      "derivative_sha256": "c982303667832b8d26e3a332f5f4da8ec60d9a16d32d60d5b510d8e0c823567f"
+    },
+    {
+      "unit": "C01",
+      "member": "item/xhtml/p-003.xhtml",
+      "source_bytes": 154386,
+      "source_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "paragraph_slots": 1115,
+      "nonempty_p": 1057,
+      "base_characters": 36283,
+      "ruby": 948,
+      "derivative_bytes": 719347,
+      "derivative_sha256": "379231b778beeb5cca7d1de2894e41cb2c434b206e46abefe4bcfe66341b5cd0"
+    },
+    {
+      "unit": "C02",
+      "member": "item/xhtml/p-004.xhtml",
+      "source_bytes": 144086,
+      "source_sha256": "fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5",
+      "paragraph_slots": 890,
+      "nonempty_p": 864,
+      "base_characters": 33679,
+      "ruby": 955,
+      "derivative_bytes": 643284,
+      "derivative_sha256": "bffbe8e463bf40c6a48c971fade9663b47d20b0184783afec749cd9ea0e9176e"
+    },
+    {
+      "unit": "C03",
+      "member": "item/xhtml/p-005.xhtml",
+      "source_bytes": 104077,
+      "source_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "paragraph_slots": 677,
+      "nonempty_p": 656,
+      "base_characters": 23705,
+      "ruby": 737,
+      "derivative_bytes": 477340,
+      "derivative_sha256": "6008c6e892c205746aa0cdab788dad5390dc8759d38bc7c9862ad0de1506e461"
+    },
+    {
+      "unit": "Epi",
+      "member": "item/xhtml/p-006.xhtml",
+      "source_bytes": 22107,
+      "source_sha256": "b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d",
+      "paragraph_slots": 148,
+      "nonempty_p": 143,
+      "base_characters": 4979,
+      "ruby": 141,
+      "derivative_bytes": 99568,
+      "derivative_sha256": "cc1c48f25160c07bd43f133c2b75d44e9c823e63120ab7aea43de58a4edf23a5"
+    }
+  ],
+  "excluded_components": [
+    {
+      "member": "item/xhtml/p-cover.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "表紙",
+        "表紙"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [
+        "本編"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-caution.xhtml",
+      "paragraph_slots": 4,
+      "base_characters": 112,
+      "image_elements": 0,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "paragraph_slots": 9,
+      "base_characters": 68,
+      "image_elements": 0,
+      "navigation_labels": [
+        "ＣＯＮＴＥＮＴＳ",
+        "目次"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-001.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-007.xhtml",
+      "paragraph_slots": 35,
+      "base_characters": 1769,
+      "image_elements": 1,
+      "navigation_labels": [
+        "あとがき"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-allcover-001.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-colophon.xhtml",
+      "paragraph_slots": 20,
+      "base_characters": 368,
+      "image_elements": 0,
+      "navigation_labels": [
+        "奥付"
+      ],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-colophon2.xhtml",
+      "paragraph_slots": 3,
+      "base_characters": 177,
+      "image_elements": 0,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    },
+    {
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "paragraph_slots": 0,
+      "base_characters": 0,
+      "image_elements": 1,
+      "navigation_labels": [],
+      "disposition": "EXCLUDED_NOT_SEMANTICALLY_READ_IN_VALIDATION_COMPONENT_AUDIT_REQUIRED_STAGE_C"
+    }
+  ],
+  "common_totals": {
+    "paragraphs": 2881,
+    "nonempty": 2769,
+    "base_chars": 100169,
+    "ruby_objects": 2837,
+    "rt_nodes": 4367
+  },
+  "actual_reading_scopes": {
+    "root": {
+      "full_reading_seal": {
+        "name": "ROOT_COMPLETE_ORDERED_PRINCIPAL_FIRST_PASS_SEAL.json",
+        "bytes": 3945,
+        "sha256": "7d31abcf06ad4de00b9fcc1e6c765e0c8a9ad674db24141cc986ebabb1d42b6d"
+      },
+      "original_initial_seal": {
+        "name": "ROOT_INITIAL_ALL39_SEAL.json",
+        "bytes": 929,
+        "sha256": "d0bf1435a2b3d5447338667192762195db6bcf235223541e6351700626ab34c4"
+      },
+      "full_ordered_displays": 27,
+      "observations": 107,
+      "episode_groups": 30,
+      "post_initial_primary_rechecks": "198 P occurrences/6,940 base characters/213 ruby/330 rt in six bounded intervals. Distinct postinitial log; not extra unique coverage."
+    },
+    "independent": {
+      "initial_seal": {
+        "name": "INITIAL_COMPLETE_SOURCE_ONLY_VALIDATION_SEAL.json",
+        "bytes": 3200,
+        "sha256": "383f0c8668af1ad2e51d5e14ce15306bc32b181a992ff67e2b27686ad0eb0602"
+      },
+      "scope": "Own full ordered principal pass before initial seal. Coordinated receiving/current successor details in exact reports; no claim of fresh complete reread."
+    },
+    "semantic": {
+      "initial_seal": {
+        "name": "INITIAL_COMPLETE_SOURCE_FIRST_BUNDLE_SEAL.json",
+        "bytes": 4755,
+        "sha256": "4fdc7c77ff048eaf01b48f6514b2a872e0a7a20e2cbc05f864ee593af58026e5"
+      },
+      "scope": "Own full ordered principal pass before initial seal. Later bounded rechecks/receiving expressly coordinated, not fresh independent discovery."
+    }
+  },
+  "all_three_verified_before_exchange": {
+    "name": "ROOT_ALL_THREE_INITIAL_SEALS_AND_EXCHANGE_RELEASE.json",
+    "bytes": 3941,
+    "sha256": "ace937678595fbb8a3390aa9de5d03cb5009934e30ca9ebdc18c4a3a540311c0"
+  },
+  "actual_accepted_utc": "2026-10-17T21:16:29.555881+00:00",
+  "accepted_register": {
+    "name": "DUST07_ACCEPTED_ADJUDICATIONS.json",
+    "bytes": 276665,
+    "sha256": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab",
+    "private_original_name": "ROOT_ACCEPTED_DUST07_ALL39_SOURCE_LOCAL_VALIDATION.json",
+    "canonical_path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST07_ACCEPTED_ADJUDICATIONS.json"
+  },
+  "chronology": [
+    "Pro is historical arrival after exile; C03P583–597 is another explicit early-party flashback. Do not backproject current disclosures/attachments.",
+    "Current guild/search/training/skill/loan departure C01 overlaps already frozen MAIN16 C1/C2/C3, with new Dust-private sword motives C01P1084–1109. Accepted MAIN16 reading lines70–128 freshly read as an analytical route join, not a fresh native MAIN16 pass.",
+    "Nos police aftermath C03P201–254 follows MAIN17 C1P528–586 removal; actual new Dust encounter does not invent an independent Kazuma decision.",
+    "Final red-dragon weakening C03P617–622 and ground report641 support inferred distant Demon King defeat; same world-event already main-known, not multiple independent trials. EpiP12–21 private belief versus public uncertainty retained.",
+    "EpiP63 midway guests remain unidentified; no principal presence/absence or fresh action inferred. Publication date/in-world/exposure chronology distinct; later Dust01–05 reader status must be bounded or retrospective."
+  ],
+  "chronology_limit": "Dust viewpoint overlaps known MAIN16/17 events; textual novelty does not create independent replication. Separate flashbacks, publication chronology and analyst exposure remain separate.",
+  "Japanese_limit": "Full admitted base/ruby read; source-first short anchors are purposive; no J02/reliability denominator or acoustic/native-human certification.",
+  "independence": "Separate own full ordered passes and initial seals before exchange; later coordinated review. Shared source/preparation/models/prior holdouts/workspace/AI lineage and unknown pretraining; source-outcome-aware cards, not prefix-blind trials or human/native/acoustic certification.",
+  "producer_shield": "Producer not sent D06/D07 findings; bounded future natural-order Dust01–05 readiness is limited and must not be called absolute blindness.",
+  "baseline_unchanged": true,
+  "other_expanded_bodies_and_images_closed": true,
+  "whole_edition_complete": false,
+  "StageC_literary_component_program_complete": false,
+  "publication": "Actual acceptance precedes this containing publication; full exact-head gate pending. Stage C narrative admission remains closed until successful gate."
+}

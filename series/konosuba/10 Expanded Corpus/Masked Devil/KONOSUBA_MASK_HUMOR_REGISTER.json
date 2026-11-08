@@ -1,0 +1,1782 @@
+{
+  "schema": "KONOSUBA_MASK_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-18T21:14:53.552255+00:00",
+  "source_id": "MASK",
+  "H_protocol": "H1 literal source-plane compatible acts; H2 actual dispositional amplification with intensity-transfer limits; H3 behavior too local-punchline-bound to generalize; H4 actual nonliteral behavioral license. Magic, lies, performance, possession, artificial bodies, survival, wrong predictions and uncertain causes are not automatic H3/H4. Actual harm remains harm at H2. Selected records have no population denominator or category quota.",
+  "L_protocol": "L0 portable proposition; L1 material wording/rhythm/tone; L2 pragmatics/register/recipient force; L3 central Japanese-form dependence requiring reconstruction or annotation. Ordinary ruby, a cultural reference or a magical term is not automatically L3.",
+  "selected_record_count": 88,
+  "counts_describe_selected_records_only": {
+    "H": {
+      "H1": 85,
+      "H2": 3
+    },
+    "L": {
+      "L0": 6,
+      "L2": 79,
+      "L3": 3
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "MASK-WHOLE-H001",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U011",
+        "native_member": "text/part0009.html",
+        "native_member_sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+        "start_P": 3,
+        "end_P": 18
+      },
+      "whole_selected_premise": "Useful mana stones become ruinous stock through quality, price and market mismatch.",
+      "primary_L": "L0",
+      "L_rationale": "The local novice market and unit economics carry the reversal without special Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The highest-quality stones really work; no actual sale, universal uselessness or new death is established by the charred owner.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H002",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U011",
+        "native_member": "text/part0009.html",
+        "native_member_sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+        "start_P": 19,
+        "end_P": 25
+      },
+      "whole_selected_premise": "The capital already came from selling every right, while a paid exclusion from the shop is refused.",
+      "primary_L": "L2",
+      "L_rationale": "The owner answers the relationship cost of the proposed ten-year arrangement rather than its cash value alone.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Rights sale is completed; casino and ten-year exile are proposals. Wiz explicitly wants shared work.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H003",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U011",
+        "native_member": "text/part0009.html",
+        "native_member_sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+        "start_P": 33,
+        "end_P": 45
+      },
+      "whole_selected_premise": "A vow to support a friend and a dungeon dream immediately meets another catalogue pitch.",
+      "primary_L": "L2",
+      "L_rationale": "Friend care and an instrumental exchange coexist in the same avowal before the owner renews the business hazard.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No completed dungeon, new purchase or permanently unconditional loyalty follows; the proposal is still a real request.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H004",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 5,
+        "end_P": 19
+      },
+      "whole_selected_premise": "A qualified sleepless-work boast and an effective frog tool fail to establish good business.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz repairs a metaphor and Aqua values avoidance differently from the narrator’s bounty calculation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The tool costs200000 against25000 reward/meat. Aqua wants Kazuma funding but no purchase is performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H005",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 21,
+        "end_P": 40
+      },
+      "whole_selected_premise": "A divinity challenge produces a grand investment plan whose known obstacles are left unsaid.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua claims divine wisdom while Vanir privately knows tax and capital problems and leaves before the fast plan.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Actual self-legitimation and private knowledge differ. Later borrowing does not prove he communicated the warning now.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H006",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 48,
+        "end_P": 77
+      },
+      "whole_selected_premise": "Staged harassment becomes genuine interest, then the staged rescuer becomes the unwanted pursuer.",
+      "primary_L": "L2",
+      "L_rationale": "Dust corrects the actors for forgetting roles, Yunyun refuses his reward demand, and Vanir interrupts him physically.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The ordinary men change purpose; the later kick helps Yunyun without making the entire intervention disinterested.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H007",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 80,
+        "end_P": 117
+      },
+      "whole_selected_premise": "Correct demon recognition and correct suspicion of a setup coexist with a threatening optional gratuity.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s explicit knowledge and objections resist the gullible-client frame, while nominal optionality meets a friendship curse threat.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Dust’s other name is seen but unspoken. No curse is actually cast and no unsupplied name is imported.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H008",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 119,
+        "end_P": 136
+      },
+      "whole_selected_premise": "A wish for accidental company becomes two helpers’ competing business opportunity.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun explains fear of interruption; Dust wants introductions and Vanir a gratuity before she asks to leave.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Her fear is not evidence nobody wants her. No blanket free assent to subsequent plans follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H009",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 140,
+        "end_P": 161
+      },
+      "whole_selected_premise": "Consulting a waitress about recommendations ends in water, while the embarrassed host buys food she cannot yet eat.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir cultivates the waitress’s disappointed expectation and Yunyun pays socially to reduce friction.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Actual order and food arrival are separate from eating and later payment; the meal remains uneaten at departure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H010",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 170,
+        "end_P": 184
+      },
+      "whole_selected_premise": "Rejected rescue and substitute-friend plans reveal that a broad language minimum is not a complete relationship choice.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun refuses proposed scripts and later chooses among candidates even after saying nonhumans can qualify.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Neither staged rescue nor requested shedding occurs; a necessary minimum is not unlimited permission.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H011",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 190,
+        "end_P": 209
+      },
+      "whole_selected_premise": "A stop request is overridden by a public friendship question, and a business idea removes the client before lunch.",
+      "primary_L": "L2",
+      "L_rationale": "The unwanted audience and unfinished food make the costs specific rather than treating any attention as welcome.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Human friends explicitly exist. No actual final bill payment or newly nonexistent social life is inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H012",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 215,
+        "end_P": 258
+      },
+      "whole_selected_premise": "A demon finds an authorized guild business site, but a proposed consultation is repeatedly heard as matchmaking.",
+      "primary_L": "L2",
+      "L_rationale": "The clerk already knows his identity, while permission and the meaning of the new service are negotiated separately.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Permission is actually obtained offstage atP244; neither an unexplained rejection nor a new universal eligibility mechanism is invented.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H013",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 259,
+        "end_P": 270
+      },
+      "whole_selected_premise": "A seer’s own account of recoil does not solve an actual failed divination.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir distinguishes the dazzling obstruction from his speculation about why the shop loses money.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The masked thieves remain unidentified here; suspected recoil is not a demonstrated curse or omniscience.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H014",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 272,
+        "end_P": 294
+      },
+      "whole_selected_premise": "An honest reputation is planned as cover for later false lucky-item sales, beginning with a humiliating free demonstration.",
+      "primary_L": "L2",
+      "L_rationale": "Free service and louder public repetition change the client’s exposure; Yunyun notices the self-created demand.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Planned inventory fraud is not completed sales. Dust himself objects to the degree; genuine help does not erase coerced disclosure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H015",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 295,
+        "end_P": 320
+      },
+      "whole_selected_premise": "A forecast of a nearby friend supplies neither an identity nor a right to impose the suggested person.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun explicitly asserts selection rights after Dust’s age disclosure and her own stated birthday.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir’s sight is limited by her power. The stated ages are source facts; no intimate act is implied or described.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H016",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 343,
+        "end_P": 380
+      },
+      "whole_selected_premise": "A blunt refusal looks like universal rejection until the refuser explains trust, level fit and reciprocal misunderstanding.",
+      "primary_L": "L2",
+      "L_rationale": "Leen separates Dust’s introduction from Yunyun’s ability and reports admiration hidden by others’ mistaken courtesy.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Her no-loan boundary is real. No completed drowning incident follows from a hypothetical characterization of Dust.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H017",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 383,
+        "end_P": 394
+      },
+      "whole_selected_premise": "A prepared spell answers a threat while the listener gets only sounds of the aftermath.",
+      "primary_L": "L2",
+      "L_rationale": "Leen’s prior chanting and later triumphant return constrain the narrator’s access to the confrontation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "An explosion and scream are heard; exact spell, wound, death and threatened exposure are not established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H018",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 399,
+        "end_P": 425
+      },
+      "whole_selected_premise": "The wished-for friendship offer is deliberately delivered through a false familiar identity.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun initially accepts Leen, then recognizes Vanir and objects even while valuing the delivered message.",
+      "primary_H": "H2",
+      "H_rationale": "Actual disposition is amplified in the specific elaborate or excessive enactment; preserve consequences and restrict intensity transfer.",
+      "eligibility_and_limits": "Actual impersonation and resistance amplify his emotional-harvest disposition; the elaborate intensity is not an invariant transfer rule or consent supplied by language compatibility.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H019",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 428,
+        "end_P": 459
+      },
+      "whole_selected_premise": "A genuinely happy new friend receives an assumed unpaid work duty, then meets another friend who already knew her.",
+      "primary_L": "L2",
+      "L_rationale": "Happiness, uncertainty and recognition of manipulation remain simultaneous rather than canceling one another.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir announces labor, but no task or all-future-work agreement occurs. Wiz’s earlier potion purchase prevents a false first-ever meeting.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H020",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U013",
+        "native_member": "text/part0011.html",
+        "native_member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "start_P": 466,
+        "end_P": 481
+      },
+      "whole_selected_premise": "Leniency rests on an incomplete loss account until the missed financing cost is finally spoken.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir first assumes lack of capital prevented spending; Wiz supplies Kazuma’s warning and actual borrowing/returned principal/interest.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "An uttered beam follows, but impact or fresh death is unshown. Interest is owed, not demonstrably already paid.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H021",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 3,
+        "end_P": 34
+      },
+      "whole_selected_premise": "Performed repentance becomes welcome cold-water labor after the first bucket meets a complaint.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua shifts from requesting forgiveness to requesting fresh well water; later welcome has a specific temporal scope.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Holy-water production is a literal capability. No universal consent to earlier treatment or completed sales quota is supplied yet.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H022",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 43,
+        "end_P": 50
+      },
+      "whole_selected_premise": "A consultation montage includes advice, resignation and sympathy rather than four verified solutions.",
+      "primary_L": "L2",
+      "L_rationale": "The requested problems and the adviser’s responses differ, including a minimally sympathetic reception-work reply.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No pet rescue or pepper action is confirmed. Unnamed clients and their troublesome acquaintances are not silently assigned principal identities.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H023",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 60,
+        "end_P": 108
+      },
+      "whole_selected_premise": "A low-profile royal visit defeats its own cover before the proposed guild initiation can be staged.",
+      "primary_L": "L2",
+      "L_rationale": "Iris’s cover, the retainers’ almost-spoken name and the seer’s private status reading have different recipients.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Claire’s staged-attack idea is stopped; Vanir actually reads status but the earlier intruder is not thereby identified as him.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H024",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 110,
+        "end_P": 137
+      },
+      "whole_selected_premise": "A rejected one-day flatterer job is accepted before the offer ends once a heavy cash bag arrives.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir changes his address to Hachibee; Rain’s requested fee correction is met with a blunt refusal.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No exact sum or treasury theft is proved. Iris reports father’s permission; Claire offers more indulgence, not budget discipline.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H025",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 139,
+        "end_P": 168
+      },
+      "whole_selected_premise": "A stale tyrant-removal mission persists through a cover occupation nobody can explain.",
+      "primary_L": "L3",
+      "L_rationale": "チリメンドンヤ is resegmented as チリメン丼屋, turning the traveling-ruler cover into an invented rice-bowl business.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Rain has already corrected Alderp’s removal. Iris seeks a suitable villain to reveal her identity; no external drama title is asserted by this analysis.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H026",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 175,
+        "end_P": 204
+      },
+      "whole_selected_premise": "Ordinary local merchandise defeats aristocratic world knowledge, but a plausible inference about strange cats is denied.",
+      "primary_L": "L2",
+      "L_rationale": "Rain corroborates the Neroid description while Iris transfers local surprise to Kazuma’s cat account.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir’s denial is an utterance, not omniscient proof that all flying/fire cats are impossible in the wider source world.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H027",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 209,
+        "end_P": 231
+      },
+      "whole_selected_premise": "A minor arrest fails the desired heroic script, and a rejected ordinary visit is followed by an urgently rejected thief hunt.",
+      "primary_L": "L2",
+      "L_rationale": "Iris wants her own achievement before meeting Kazuma; Claire’s imagined escort benefit briefly changes her position.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No overnight contact occurs. The blond harasser is unnamed here and the proposed new divination is not carried out.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H028",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 233,
+        "end_P": 247
+      },
+      "whole_selected_premise": "The visitor who notices an abnormal explosion is told she alone lacks common sense.",
+      "primary_L": "L2",
+      "L_rationale": "Daily-local framing and the retainers’ acceptance reverse Rain’s outsider judgment without refuting the literal sound.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The caster is inferred, not directly observed. No new witnessed Megumin action is credited.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H029",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 250,
+        "end_P": 290
+      },
+      "whole_selected_premise": "Rank and financial inducement fail against wealthy novices and a preexisting local noble reputation.",
+      "primary_L": "L2",
+      "L_rationale": "The rejected woman names money and another adventurer dismisses rank through known local examples.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The coercive noble threat remains real. No general immunity, universal wealth or new performed Darkness act follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H030",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 291,
+        "end_P": 325
+      },
+      "whole_selected_premise": "Protectors prepare to act, reassess greater numbers, and restrain the princess despite her concern for civilians.",
+      "primary_L": "L0",
+      "L_rationale": "Changed numbers, guard duty and actual compliance carry the sequence without a Japanese-form dependency.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The small fireball is fired into the air. Their caution is not lack of concern or proof a civilian was hit.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H031",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 329,
+        "end_P": 351
+      },
+      "whole_selected_premise": "Unarmed adventurers tease armed rank coercion while exploiting a legal distinction that alarms an outsider.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir’s unarmed-fighting answer addresses Rain’s specific warning about drawing swords on nobles.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The local legal account and actual mockery do not certify comprehensive lawlessness or absence of danger.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H032",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 354,
+        "end_P": 375
+      },
+      "whole_selected_premise": "A ruler script lets the paid mood-maker reinterpret his role as bodily excellent condition.",
+      "primary_L": "L3",
+      "L_rationale": "お調子者 becomes 調子が良い／絶好調; the lexical reinterpretation needs reconstruction alongside the role instruction.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir volunteers and Iris commands. Bonus calculation and personal excitement are explicit; a royal skill is only inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H033",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 379,
+        "end_P": 414
+      },
+      "whole_selected_premise": "An enthusiastic intervention becomes an overdone fight whose requested closing formula the witnesses reject.",
+      "primary_L": "L2",
+      "L_rationale": "The episodic 一件落着 claim conflicts with injury, flight and the retainers’ objections, while Iris really enjoyed the escape.",
+      "primary_H": "H2",
+      "H_rationale": "Actual disposition is amplified in the specific elaborate or excessive enactment; preserve consequences and restrict intensity transfer.",
+      "eligibility_and_limits": "Vanir admits excess and claims no dead, not no injuries. Actual disproportionate intensity is retained without a general license for public violence or an invented trial/payout.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H034",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 422,
+        "end_P": 449
+      },
+      "whole_selected_premise": "Street performance is mistaken for a military profession, and ordinary objection again becomes the alleged abnormality.",
+      "primary_L": "L2",
+      "L_rationale": "Rain corrects planned troop recruitment and then gets admonished for her own visible alarm.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No performers are conscripted. No police encounter is reported, which does not erase prior disorder.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H035",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 451,
+        "end_P": 484
+      },
+      "whole_selected_premise": "An attractive continuing job is refused for a particular friend while courtesy hints at two deliberately unspoken ranks.",
+      "primary_L": "L2",
+      "L_rationale": "The response mirrors Iris’s false merchant cover and avoids forcing her disclosure.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir keeps a conditional future alternative. His Hell Duke identity is private; the retainers do not receive a full demon confession.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H036",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U015",
+        "native_member": "text/part0013.html",
+        "native_member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "start_P": 488,
+        "end_P": 517
+      },
+      "whole_selected_premise": "Real bonus money and real holy-water sales precede a new production mistake that defeats a recent loyalty vow.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz’s desire to impress explains the extra batch, while Vanir first waits for an innocent explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Explosive stored potions, not failure to purify water, explain the rubble. He actually leaves to seek Iris, but no new employment is accepted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H037",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 9,
+        "end_P": 32
+      },
+      "whole_selected_premise": "Competent reception and a harassment boundary precede an unfair memory game and an ambiguous personal concern.",
+      "primary_L": "L2",
+      "L_rationale": "Luna supplies problem-specific answers; Yunyun’s complaint names the seer’s unanswerable advantage.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Small payment is actual, but a proposed wager is not consent to every cheating method or a proof of romance.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H038",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 46,
+        "end_P": 71
+      },
+      "whole_selected_premise": "Business concern becomes a romance project while the supposedly helpful owner puts rejected junk back on a shelf.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir keeps naming work concerns; Aqua invokes manga expertise and Wiz asks for a sight-free bond.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Aqua’s claimed experience is mediated reading. Wiz’s advice and discreet stock reversal are both actual.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H039",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 79,
+        "end_P": 97
+      },
+      "whole_selected_premise": "A gift of monster corpses confuses professional disposal with personal taste, and its ecological substitute makes matters worse.",
+      "primary_L": "L2",
+      "L_rationale": "Luna explains the public-health and novice-support purposes of buyback, then asks for explosive dolls to be recalled.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Actual hunt and reported doll placement do not become safe ecology. Recall is requested, not shown completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H040",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 102,
+        "end_P": 114
+      },
+      "whole_selected_premise": "Gift refusal is counted as proof of good character while the giver’s explicit denial is counted as bashfulness.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua and Wiz preserve the romantic frame across contrary information rather than discovering an actual confession.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir’s denial remains evidence; advisers’ interpretation is not an objective hidden motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H041",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 119,
+        "end_P": 140
+      },
+      "whole_selected_premise": "A method revision gathers job evidence but replaces it with goddess points and a physical-appearance penalty.",
+      "primary_L": "L2",
+      "L_rationale": "Care-role descriptions are rewarded until the last descriptor changes the advisers’ evaluation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No real divine scoring mechanism or independently validated romantic suitability follows.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H042",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 150,
+        "end_P": 161
+      },
+      "whole_selected_premise": "A first valued treat is stolen before the recipient drinks it.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s pleasure belongs to the particular friendship gift, and her attack follows its appropriation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The later victory is inferred from her return; the full fight is unshown and theft is not agreed sharing.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H043",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 163,
+        "end_P": 178
+      },
+      "whole_selected_premise": "Reception absorbs hotel misconduct, hunters’ scheduling needs and a commandeered medical shipment.",
+      "primary_L": "L2",
+      "L_rationale": "Different clients specify different remedies; Luna issues targeted orders instead of merely lamenting a chaotic town.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The hunters ask for time/place, not a total ban. Summons and recovery orders do not prove the targets received or complied.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H044",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 184,
+        "end_P": 201
+      },
+      "whole_selected_premise": "A hoped-for friend-helper role and a threatened question about expertise produce more assumed answers.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun prizes helping a friend; Wiz answers for her before she has spoken when Vanir asks about romantic history.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No actual device use or freely supplied answer is established by the topic change.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H045",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 205,
+        "end_P": 235
+      },
+      "whole_selected_premise": "Adoring constituents oppose a rumored romance while another helper turns a species label into combat readiness.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir stops Yunyun’s initiated spell and offers a signature to redirect the visitors.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No completed slash or intimate act occurs. The rumor’s sender is inferred; younger-looking devil age is not given here.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H046",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 240,
+        "end_P": 280
+      },
+      "whole_selected_premise": "An apparently revealing fan book and followers’ status expectations shift a business risk the seer had explicitly weighed.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz’s face-secrecy theory differs from Vanir’s private teasing motive; fan pressure competes with his proximity claim.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Known partner loss and dungeon delay are real prospective costs. Moon influence is not irresistible compulsion or proven pure romance.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H047",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 288,
+        "end_P": 333
+      },
+      "whole_selected_premise": "A worker’s late-night dedication supplies exquisite negative emotion and a real request for rest.",
+      "primary_L": "L2",
+      "L_rationale": "Luna’s professional phrase yields to specific unpaid-work, turnover and leave complaints while Vanir keeps pouring.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Her conditions are reported, not payroll-audited. Listening and self-serving appetite coexist; no new romance is agreed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H048",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 340,
+        "end_P": 379
+      },
+      "whole_selected_premise": "A reluctantly authorized substitute turns an ordinary penalty into a coercive demonstration.",
+      "primary_L": "L2",
+      "L_rationale": "Staff acceptance supports the desk role, but the clients begin to offer compliance before Vanir casts anyway.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The curse is actually performed. Role approval does not equal Luna’s informed approval of every method; the bodily coercion is described non-graphically.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H049",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 381,
+        "end_P": 419
+      },
+      "whole_selected_premise": "An apparently empty threat produces delayed distress, and the next client retracts his preferred penalty.",
+      "primary_L": "L2",
+      "L_rationale": "Recognition of the actual curse changes the audience’s choices before ordinary service paperwork is handed over.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "One-month reversal and shortening are promises; no completed restoration or performed service is shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H050",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 430,
+        "end_P": 504
+      },
+      "whole_selected_premise": "A carefully amplified public courtship expectation is harvested by a deliberately planned correction.",
+      "primary_L": "L2",
+      "L_rationale": "気になる remains concern/interest until Vanir explicitly names food; audience and the woman’s requested direct declaration sharpen the reversal.",
+      "primary_H": "H2",
+      "H_rationale": "Actual disposition is amplified in the specific elaborate or excessive enactment; preserve consequences and restrict intensity transfer.",
+      "eligibility_and_limits": "He uses sight to plan this harm. Even devil fans condemn it; real humiliation is retained, but this staged intensity cannot be transferred as every instance of his attention.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H051",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 511,
+        "end_P": 541
+      },
+      "whole_selected_premise": "A victim’s protest becomes a paid shift arrangement and a retaliation the offender had underestimated.",
+      "primary_L": "L2",
+      "L_rationale": "Luna assigns actual future work, while Vanir’s prophecy offer requires a no-bounty promise she will not give.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Nightly listening and a reported next-day bounty are actual. Proposed prince impersonation, marriage vision and face revelation are not completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H052",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 545,
+        "end_P": 559
+      },
+      "whole_selected_premise": "Unexpected profit makes the owner look like an impostor to the person who expects losses.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz directly rejects the accusation and points to the actual sales column.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The profit is real; no actual impostor, inevitable present deficit or total lack of competence is established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H053",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U017",
+        "native_member": "text/part0015.html",
+        "native_member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "start_P": 561,
+        "end_P": 586
+      },
+      "whole_selected_premise": "A working cooler’s bulk order arrives after summer, then its expiry defeats next year’s proposed remedy.",
+      "primary_L": "L0",
+      "L_rationale": "Function, delivery timing and six-month lifetime generate the mismatch without special Japanese wording.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Aqua supplied the idea, and Vanir genuinely chooses leniency for valued connections. No later beam, cancellation or settled future sales result is shown.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H054",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 3,
+        "end_P": 24
+      },
+      "whole_selected_premise": "A modest-gift formula is taken literally while an attempted charm fails and an ordinary compliment succeeds.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz explains the social formula; the lich is immune to the attempted magic but responsive to flattering language.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Actual charm attempt is not harmless intent; an angry duel is threatened but not fought.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H055",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 27,
+        "end_P": 48
+      },
+      "whole_selected_premise": "A protection pitch conceals a fan-event request, and the rejected petition ends in a genuinely valued gift.",
+      "primary_L": "L2",
+      "L_rationale": "The recipient prizes shed skin while Wiz judges it by another taste; Aqua then claims territory in somebody else’s shop.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No monthly contract or intimate service is accepted. The shed object is literal devil material, not a performed human exposure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H056",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 62,
+        "end_P": 116
+      },
+      "whole_selected_premise": "An extortion pitch meets permits, damaged-goods billing, a job request, and finally an unprofitable client the thug advises to close.",
+      "primary_L": "L2",
+      "L_rationale": "Each ordinary-business reply changes the force of the protection salesman’s script without removing his coercive acts.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The vendor’s joking interest is not consent to property damage or grabbing. No guard contract is actually concluded.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H057",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 123,
+        "end_P": 140
+      },
+      "whole_selected_premise": "Visitors apparently seeking revenue instead leave food for the shop’s poverty, while their stickers spread.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz’s grateful report and Vanir’s inference about their identity have different evidential force.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Food is actually present. Their apparent kindness does not erase the wider racket or prove every visitor’s affiliation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H058",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 151,
+        "end_P": 203
+      },
+      "whole_selected_premise": "A rescue-shaped entrance offers menu advice because the entrant believes the extortionists’ cover.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz acts on a literal indecision problem and learns the coercive structure only after the men leave.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Departure and free lunch are real, but intentional anti-racket skill is not backdated. She later explicitly objects once informed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H059",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 205,
+        "end_P": 232
+      },
+      "whole_selected_premise": "Civic duty meets a devil’s appetite account, then an uninvited watcher reports helpful force and damaging holy contact.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz thanks Aqua, who adopts the further request after describing both the expulsion and spoiled barrels.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Aqua’s reported punch and collateral coexist. New task adoption does not mean its intended extortion problem was correctly understood.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H060",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 238,
+        "end_P": 255
+      },
+      "whole_selected_premise": "Threatened exposure of a secret shop triggers the customers’ defense, yet the higher devil again refuses automatic protection.",
+      "primary_L": "L2",
+      "L_rationale": "The leader renews her request and likes the cold response, which still does not constitute an accepted protection agreement.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Thugs flee and attack is reported; promised special dreams are not shown. The current popularity cannot guarantee night protection.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H061",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 258,
+        "end_P": 280
+      },
+      "whole_selected_premise": "A coerced guard contract becomes an enforceable burden, while noble theft and red-eyed-child rumors defeat the experts’ confidence.",
+      "primary_L": "L2",
+      "L_rationale": "Clients insist on the promised coverage and criminals discover the costs of their own service claim.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Compensation is promised, not paid. The unnamed attacker is not silently identified as Megumin.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H062",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 283,
+        "end_P": 316
+      },
+      "whole_selected_premise": "A self-proclaimed ruler breaks the very property the racketeers must protect, then their police remedy fails.",
+      "primary_L": "L2",
+      "L_rationale": "Dust and the vendor exploit a complaint requirement and contractual liability in front of the guards.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "His rule claim is false to the narrator; property destruction is real and the apparent independent victim is later exposed as colluding.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H063",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 319,
+        "end_P": 365
+      },
+      "whole_selected_premise": "A moral helper scares the guards away, then learns the protected stock was discarded junk in a planned fraud.",
+      "primary_L": "L2",
+      "L_rationale": "Yunyun’s explicit identity correction and refusal of friendship interrupt Dust’s attempt to convert her into recurring labor.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No released spell or ten further scams are credited. Vanir actually sees the discarded pottery and chooses to leave before involvement.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H064",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 376,
+        "end_P": 413
+      },
+      "whole_selected_premise": "A removed sticker makes a widow suspect, and offered help with an unspoken fee becomes another romance story.",
+      "primary_L": "L2",
+      "L_rationale": "The neighbor cannot hear Vanir’s private fee qualification, while Wiz imports a separate mistaken preference rumor.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No communicated fee agreement or actual romance. Vanir explicitly states devil sexlessness and long-life mismatch.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H065",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 421,
+        "end_P": 455
+      },
+      "whole_selected_premise": "A frightening emergency produces a conditional protection offer, but the petitioner first chooses self-defense.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir’s species-pride account and Wiz’s moral rebuke refer to different norms and different assumed ages.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The devil is explicitly older than Wiz despite appearance. The dungeon-and-empty-chest death scene is a wish, not accomplished history.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H066",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 458,
+        "end_P": 505
+      },
+      "whole_selected_premise": "The proud self-defense plan encounters a divine threat created partly by another helper’s chosen sticker project.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua reports sustained peeling and a wait for grateful rescue, then explains that the shopkeepers defeated the attackers themselves.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Peeling worked; the extortion task was misunderstood. Aqua did not defeat the thugs here and has not yet eradicated the succubi.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H067",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 509,
+        "end_P": 550
+      },
+      "whole_selected_premise": "Weak petitioners offer to protect their stronger patron before he invokes the exact offer their plea activated.",
+      "primary_L": "L2",
+      "L_rationale": "The later whispered help receives a response tied to prior conditional terms rather than mere rank or money.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir steps in and sends Wiz for Kazuma; both actions are actual. His prediction and Aqua’s wrath do not constitute a new root blind trial.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H068",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 556,
+        "end_P": 580
+      },
+      "whole_selected_premise": "A goddess apologizes to frightened devils who offer intercession, and a police inspection cannot find the evidence the attackers expected.",
+      "primary_L": "L2",
+      "L_rationale": "Victims negotiate secrecy and tolerated existence while Aqua admits not knowing the exact business.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir’s body was repeatedly destroyed before Kazuma arrived; no succubus lost a life. Inspection and jail are reported completed, not blanket innocence of all prior acts.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H069",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 583,
+        "end_P": 599
+      },
+      "whole_selected_premise": "Apology scope and hierarchy boasting restart the conflict before the same outside authority removes the goddess again.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua distinguishes the succubus ban from Vanir, while the subordinates reject her offer to remove him.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Specific protection remains, but forgiveness is not complete. The repeated escort is actual; no extra death is invented.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H070",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U019",
+        "native_member": "text/part0017.html",
+        "native_member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "start_P": 605,
+        "end_P": 647
+      },
+      "whole_selected_premise": "A proper name makes the owner happy, real reward money renews the plan, and an unfinished cash confession triggers a beam line.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz notices being called by name; Vanir’s final wish still explicitly includes her own goal.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Police money is received, tribute arranged. The safe’s missing amount and beam impact are unshown; impatience does not erase care or create a completed dungeon.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H071",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 5,
+        "end_P": 40
+      },
+      "whole_selected_premise": "A story-seeking guest brings snacks, offers conditional afterlife help, then attacks the admitted teacher before hearing the reason.",
+      "primary_L": "L2",
+      "L_rationale": "Curiosity, moral domain and practical story access shift Aqua’s conduct; Wiz corrects the sleep explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The initial punch is evaded and tea poured. Punishment is deferred, not definitely abandoned; no real insomnia diagnosis or completed afterlife intercession.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H072",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 45,
+        "end_P": 69
+      },
+      "whole_selected_premise": "A skilled mage rescues exhausted allies and performs real safety checks before the surprising chest opens.",
+      "primary_L": "L0",
+      "L_rationale": "Prior capabilities, resource states and negative checks establish the practical sequence independently of special wording.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No reaction does not mean she skipped a check or that every search ability is useless.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H073",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 74,
+        "end_P": 118
+      },
+      "whole_selected_premise": "A month-long surprise does not initially produce the desired reaction, and a serious sealing preparation is kicked away before activation.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir asks for a better audience response while Rosary recognizes a wanted photograph and changes the encounter.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The seal’s failure is interruption, not demonstrated penetration of an activated barrier; no fresh completed death.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H074",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 123,
+        "end_P": 140
+      },
+      "whole_selected_premise": "A nonaggression account meets a royal job and deity hostility, while the seer diverts to an undisclosed crush.",
+      "primary_L": "L2",
+      "L_rationale": "Brad restrains violence and Rosary hears an implication he immediately rejects.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The correct desired partner is not named here; no automatic Brad/Rosary couple is reconstructed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H075",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 145,
+        "end_P": 173
+      },
+      "whole_selected_premise": "A remorseful apparent victory is invalidated just as a costly return spell becomes irreversible.",
+      "primary_L": "L2",
+      "L_rationale": "The mocked departing party hears a reconstruction after deciding to leave, preserving both grief and wasted traversal.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Body destruction is real, final defeat false; no confirmed lost remaining life or ordinary resurrection is supplied.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H076",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 177,
+        "end_P": 240
+      },
+      "whole_selected_premise": "Repeated apparent victory becomes host possession and coercive humiliation until a fitted sleep spell frees the host.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz distinguishes the possessor’s insults from Rosary’s voice and verifies Brad’s recovery before Teleport.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Real resistance and unwanted exposure remain harm, described non-graphically. No consent or truth of the impersonated opinions is inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H077",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 244,
+        "end_P": 270
+      },
+      "whole_selected_premise": "A forgiving storyteller’s present comfort does not erase absent colleagues’ resentment or make her expired bounty collectible.",
+      "primary_L": "L2",
+      "L_rationale": "Aqua proposes retaliation and then asks about bounty validity, while Wiz differentiates her own response from theirs.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No actual bounty collection or betrayal occurs; Vanir himself labels his self-defense as harassment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H078",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 280,
+        "end_P": 316
+      },
+      "whole_selected_premise": "An authorized forced-transport plan works exactly on living targets and transports only its user.",
+      "primary_L": "L0",
+      "L_rationale": "The radius, organism condition and artificial body jointly explain the result.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The spell functions; it does not establish immunity to every Teleport. The friends leave to retrieve Wiz, not an already shown reunion.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H079",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 323,
+        "end_P": 354
+      },
+      "whole_selected_premise": "A costly barrier successfully protects the target from both sides, defeating the buyer’s one-way plan.",
+      "primary_L": "L0",
+      "L_rationale": "The promised bilateral block and the actual failed attack explain the reversal without Japanese form.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "A strong working tool is misapplied. The majority-cash cost and the friends’ alternative proposal remain real.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H080",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 357,
+        "end_P": 389
+      },
+      "whole_selected_premise": "An unproductive surprise routine becomes a planned false rescue whose intended victim arrives with another purpose.",
+      "primary_L": "L2",
+      "L_rationale": "Vanir expects poverty-based embarrassment; Wiz’s grave tone instead interrupts the dining-scam plan.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "He actually impersonates an injured traveler, but no dinner, gift promise or unpaid bill trap is completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H081",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 394,
+        "end_P": 420
+      },
+      "whole_selected_premise": "A formerly playful opponent spends life and resources in a real battle, prompting a joking remedy the speaker assumes unusable.",
+      "primary_L": "L2",
+      "L_rationale": "The nearly lost life and exhausted final spell distinguish this encounter from prior mock victories.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Vanir nearly loses a life, not actually. His high-level-human Explosion assumption is his current belief, not omniscient future certainty.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H082",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 421,
+        "end_P": 473
+      },
+      "whole_selected_premise": "A life-risk fight turns out to be a contract eligibility display, yet the proposed depleted soul cannot meet the price.",
+      "primary_L": "L2",
+      "L_rationale": "The alternative offer follows a real refusal and recognition by name rather than a clean unconditional rescue.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The curse issuer escaped and the best priest failed by report. Do not invent an ignored easy alternative or a completed original soul bargain.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H083",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 477,
+        "end_P": 505
+      },
+      "whole_selected_premise": "A conditional dream exchange leaves the teacher uneasy enough not to use the information power he explicitly has.",
+      "primary_L": "L2",
+      "L_rationale": "His admission of deliberately unused sight and his worn-out entertainment distinguish ability from present access and appetite.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "He cannot construct the dungeon alone. Harassment of his own elites continues despite a prior objection; no devil-king death occurs.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H084",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U021",
+        "native_member": "text/part0019.html",
+        "native_member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "start_P": 506,
+        "end_P": 556
+      },
+      "whole_selected_premise": "A novice lich defeats resistance through different fitted methods and returns with a newly gentle self-introduction.",
+      "primary_L": "L2",
+      "L_rationale": "The ogre’s reports, the heard curse negotiation and the actual reappearance have different access and evidential status.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Hans is frozen and Sylvia drained, not killed. The curse lift is confirmed only in the epilogue; the promised dungeon is not completed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H085",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U023",
+        "native_member": "text/part0021.html",
+        "native_member_sha256": "702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6",
+        "start_P": 1,
+        "end_P": 27
+      },
+      "whole_selected_premise": "A long-awaited origin reaches a sleeping listener, but the seer’s small event becomes a particular reunion.",
+      "primary_L": "L2",
+      "L_rationale": "Wiz’s wish for business success receives a major-incident correction; her expression changes when the visitors arrive.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The cure is explicitly complete. Two unnamed former adventurers arrive with a child; no named marriage, universal reunion or exact point of Aqua’s sleep is inferred.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H086",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U025",
+        "native_member": "text/part0023.html",
+        "native_member_sha256": "aabc6f8df0a90e594865a11f621748e3cb4c7d84d2a791256c29528a2233c4d6",
+        "start_P": 8,
+        "end_P": 23
+      },
+      "whole_selected_premise": "A customer invokes godlike service against a devil, then heroic self-valuation meets a refused admirer census.",
+      "primary_L": "L3",
+      "L_rationale": "お客様は神様 combines a Japanese commercial formula with the speaker’s literal divine enemies; substitution needs reconstruction or annotation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "No actual divine Kazuma status, beam or independently verified absence of every admirer is established.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H087",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U025",
+        "native_member": "text/part0023.html",
+        "native_member_sha256": "aabc6f8df0a90e594865a11f621748e3cb4c7d84d2a791256c29528a2233c4d6",
+        "start_P": 25,
+        "end_P": 40
+      },
+      "whole_selected_premise": "A premature love diagnosis loses to a literal ghost account and a profitable referral.",
+      "primary_L": "L2",
+      "L_rationale": "Kazuma’s stock interpretation precedes the seer’s actual inspection; payment and the customer’s planned action are distinct.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "The fee is actually paid. Holy-water purchase, use and completed exorcism are not shown, despite Kazuma calling the problem solved.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "MASK-WHOLE-H088",
+      "source_id": "MASK",
+      "boundary": {
+        "component_id": "MASK-U025",
+        "native_member": "text/part0023.html",
+        "native_member_sha256": "aabc6f8df0a90e594865a11f621748e3cb4c7d84d2a791256c29528a2233c4d6",
+        "start_P": 41,
+        "end_P": 57
+      },
+      "whole_selected_premise": "A provider’s refusal and queue pressure produce an apology and serious register, then renewed insults turn into flight.",
+      "primary_L": "L2",
+      "L_rationale": "Both speakers briefly change footing before the odd-companions problem implicates the adviser himself.",
+      "primary_H": "H1",
+      "H_rationale": "Actual source-plane conduct; the comic effect changes appraisal or expectation without canceling the act.",
+      "eligibility_and_limits": "Kazuma’s threatened bad reviews are retracted under pursuit, not actually circulated. The curse is threatened, not cast; the frozen principal holdout is not rescored.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T21:14:53.552255+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

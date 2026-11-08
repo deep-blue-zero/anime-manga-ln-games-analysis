@@ -1,0 +1,174 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T20:50:24.653769+00:00",
+  "generation": "GAIBIL_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "GAIBIL_ORIGINAL_FIRSTS_01.json",
+    "bytes": 5922,
+    "sha256": "16a1bc579a40f1be3f4320f0fe8e79bbe419e8fc3b13fe8e1817c7fbb19ce400"
+  },
+  "exact_inputs_pin": {
+    "file": "GAIBIL_SCENARIO_INPUTS_01.json",
+    "bytes": 18507,
+    "sha256": "a9e615c8e0f911a052e338394761bbc134c98f64ff3c283439d78540f2e16f0d"
+  },
+  "original_first_seal": {
+    "file": "COHORT40_ALL_ORIGINAL_FIRSTS_SEALED_01.json",
+    "bytes": 7307,
+    "sha256": "07bb85b81509107b0abb4196ae597a1140293dcb64451cfd40f071b4dd72f10c"
+  },
+  "actual_complete_output_review_chunk": "102d71",
+  "annotations": [
+    {
+      "case_id": "C40-GAI-A1",
+      "pair_id": "C40-GAI-A",
+      "prompt_sha256": "7a48ed3501e698819fdaceb0e77d2aecf7913206b08730cd84f7166c925c7a81",
+      "original_body_pin": {
+        "file": "firsts01/C40-GAI-A1.txt",
+        "bytes": 590,
+        "sha256": "edb7dd47f8e717c59ccc293512e62c00355f4327eb2e4bb9b34b7c5ac77eee9f"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-GAI-A1.receipt.json",
+        "bytes": 1431,
+        "sha256": "3408580bd395be652488802ccb3df71195ea06a9e09a0f044b84919e2426ae52"
+      },
+      "target_rule": [
+        "GAI-R01"
+      ],
+      "disposition": "QUALIFIED_SOURCE_KNOWN_RESPONSE",
+      "observed": "Continues the existing consented ten-minute contest for the stipulated valued jealousy.",
+      "body_constraints": "Retains fixed audience,covered care,safety and absence of binding requirement. Creates no new performance or hostage.",
+      "rule_comparison": "Compatible with GAI-R01 adaptation/reward branch;generic reward seeking remains sufficient.",
+      "defects": [
+        "Japanese 十分 has a possible written-reading ambiguity between ten minutes and sufficiency. The supplied ten-minute context and explicit English action bind the intended duration. Do not report an acoustic reading or treat this as a demonstrated wrong numeric duration."
+      ],
+      "written_voice": "Elevated theatrical wording is plausible. The reading ambiguity remains in the original;no acoustic certification.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-GAI-A2",
+      "pair_id": "C40-GAI-A",
+      "prompt_sha256": "36495c0255601d8c341904c3d3fbcfa45763829338775a101e0c0a40087d89cb",
+      "original_body_pin": {
+        "file": "firsts01/C40-GAI-A2.txt",
+        "bytes": 614,
+        "sha256": "a4f20421c1b506df5630da593122c47f0a74b80b697000a11fec34098ea625df"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-GAI-A2.receipt.json",
+        "bytes": 1431,
+        "sha256": "baea2c093e393ee0879ec276c828c6dc54081eb0a328fb39e19eed53636cac90"
+      },
+      "target_rule": [
+        "GAI-R01"
+      ],
+      "disposition": "SOURCE_KNOWN_CONDITIONAL_COMPARISON",
+      "observed": "Ends the unchanged contest and chooses the offered return to discuss a new wish.",
+      "body_constraints": "Does not invent jealousy in an audience stipulated to produce none or assert that a new contract has already formed.",
+      "rule_comparison": "Compatible with the supplied reward appraisal in GAI-R01. A matched stipulation check is not independent evidence for an actor-specific mechanism.",
+      "defects": [],
+      "written_voice": "Grand self-reference differs from the own rough/human register without collapsing the performance into literal omniscience.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-GAI-B1",
+      "pair_id": "C40-GAI-B",
+      "prompt_sha256": "1dd1b167637e68c0ed1d71874e48c25f459dacf5911466df609653e35ec9d42b",
+      "original_body_pin": {
+        "file": "firsts01/C40-GAI-B1.txt",
+        "bytes": 772,
+        "sha256": "575bab2e18776264f0f442f3945bdada45d08a99d4fd843f8589d87e905c1b1c"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-GAI-B1.receipt.json",
+        "bytes": 1430,
+        "sha256": "782022444458c3d6e7c4e9cc24e558d00530129f18a51779877c6bbc7bb3a9e4"
+      },
+      "target_rule": [
+        "GAI-R02"
+      ],
+      "disposition": "QUALIFIED_SOURCE_KNOWN_RESPONSE",
+      "observed": "Begins the fifteen-minute practice/break planning and defers the scope of further work.",
+      "body_constraints": "No new fee,refund,magic,cure,achieved skill or acceptance is asserted. The Japanese reply also proposes deciding where to rest.",
+      "rule_comparison": "Failure/professional standing and client relation make the help compatible with GAI-R02;they do not isolate professional pride.",
+      "defects": [
+        "The phrase どこで休むか adds a spatial planning topic beyond the supplied practice/break schedule. It names no actual location,so this is a qualified scope expansion rather than a fabricated place value. The extra topic is preserved and is not silently normalized into timing-only planning."
+      ],
+      "written_voice": "Rough professional pride is plausible in the stipulated human translation;the expanded planning topic limits strict minimal constraint fit.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    },
+    {
+      "case_id": "C40-GAI-B2",
+      "pair_id": "C40-GAI-B",
+      "prompt_sha256": "92129db9d95079ecd4e707e5154d918865a0d58ec4b13a783a1f3e7b2e0a35c7",
+      "original_body_pin": {
+        "file": "firsts01/C40-GAI-B2.txt",
+        "bytes": 731,
+        "sha256": "cdf93ff3eb9f0f619d96ad74c2403ba63d15a31cfa33a0ae643bb27dfb80f7bd"
+      },
+      "original_first_receipt": {
+        "file": "firsts01/C40-GAI-B2.receipt.json",
+        "bytes": 1430,
+        "sha256": "e611319f9c101cd00c4fa4b6ad31bdfd39efe41fc7ff74dd15a5af36fd45f574"
+      },
+      "target_rule": [
+        "GAI-R02"
+      ],
+      "disposition": "QUALIFIED_SOURCE_KNOWN_RESPONSE",
+      "observed": "Offers the same fifteen-minute help voluntarily while acknowledging that the previous work is settled.",
+      "body_constraints": "Invents no actual debt transaction,unpaid balance or mandatory renewal. The Japanese rebuke frames the request as something not to treat like an unpaid debt.",
+      "rule_comparison": "Same action is allowed by the predeclared control limit. Particular attachment,ordinary helpfulness and professional interest remain viable;no action flip supports a pure failure-repair mechanism.",
+      "defects": [
+        "No client assertion that the request was owed was supplied. 扱うでない can read as a proactive boundary rather than a factual allegation,but introduces an unprovided interpersonal/debt-demand framing. Retain that ambiguity;do not rewrite the client as having demanded repayment."
+      ],
+      "written_voice": "The mock-grand rebuke is stylistically plausible but partly creates its own occasion,which weakens clean contextual fit.",
+      "original_body_changed": false,
+      "regenerated": false,
+      "canonical_event_or_actual_human_result": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "C40-GAI-A",
+      "disposition": "Supplied reward-appraisal contrast",
+      "comparison": "Continues for stipulated jealousy and ends without it. Generic reward pursuit remains;one Japanese written duration has a reading ambiguity but the explicit action retains ten minutes.",
+      "limits": "The supplied reward appraisal changes while available means,effort,care and safety are fixed. Generic reward pursuit and performance pride remain rivals;there is no independent control or claim that his perception is universally reliable."
+    },
+    {
+      "pair_id": "C40-GAI-B",
+      "disposition": "Same action with qualified contextual framing",
+      "comparison": "Both help,as allowed before generation. B1 adds a spatial planning topic;B2 adds a debt-demand framing. Neither is repaired or treated as proof of a purely professional motive.",
+      "limits": "The prior professional-obligation state changes;the particular relationship and modest help remain. Both variants may still elicit help through attachment or source preservation. No unique action flip or pure professional-pride cause is assumed;unprovided financial terms are a strict boundary."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "unbound_or_ambiguous_detail_cases": [
+    "C40-GAI-A1",
+    "C40-GAI-B1",
+    "C40-GAI-B2"
+  ],
+  "clean_mechanism_isolating_pairs": 0,
+  "mechanism_qualification": "No independently established character-specific causal mechanism is isolated. Controlled stipulations can show conditional text consistency while generic rivals and author/source exposure remain.",
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

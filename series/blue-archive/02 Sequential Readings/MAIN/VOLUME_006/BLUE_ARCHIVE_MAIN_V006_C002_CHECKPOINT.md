@@ -1,0 +1,84 @@
+---
+series: BLUE_ARCHIVE
+artifact_type: checkpoint
+scope: MAIN_V006_C002
+generation: V1
+status: canonical
+source_boundary: Canonical Japanese main story BA:main:006:002:001 through BA:main:006:002:011 at electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8; 43 newly inserted V001 C003 units pending separate backfill; side-source classes not admitted
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+created: 2026-09-28
+updated: 2026-09-28
+---
+
+# BLUE ARCHIVE — MAIN V006 C002 CHECKPOINT
+## Arius Chapter 2: care, fear and the contested archive
+
+## 0. Authority and chapter result
+
+This checkpoint reconciles **all 11 sequential episode readings** `BA:main:006:002:001`–`011` at audited `electricgoat/ba-data@jp a038020f1f5ac02dcfe76962426d38f86414cdd8`. The E011 end card names `過ぎ去りし刻のオラトリオ編` and continues in Chapter 3; the corpus `VOLUME_006` route and stable IDs govern because the crosswalk's arc label is blank. The [V006 C001 checkpoint](BLUE_ARCHIVE_MAIN_V006_C001_CHECKPOINT.md) is the previous chapter authority. The [source reconciliation](../../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_RECONCILIATION_20260928.md) governs the **480** canonical-main denominator. Analytically complete coverage is **297 / 480**, with 43 newly inserted V001 C003 units still pending separate earlier-order backfill. This is not a contiguous 480-unit prefix. No group, event, bond, separate MomoTalk, profile, performed voice, adaptation or wiki source is admitted.
+
+Chapter 2 begins with concrete aid by Trinity Rescue Knights and an attack of uncertain nature; it ends with Sensei/Squad/Maia reaching Subaru at Porta Pacis, not with a treaty or reconciliation. Mine's concealed affiliation ends under the attack; Nagisa's personal request is later disclosed, but institutional authorization remains unproven. Subaru's fear-driven inquiry divides Arius residents and leads her to bar Maia from the basilica. Maia spends the night under Sensei's care, then voluntarily tells the group what happened. Subaru takes residents to the forbidden gate, finds a partisan text and names them Nicomedia Troop. Armed guards and later unknown figures attack; two residents offer Sensei a side route. The final Subaru exchange postpones the substantive conversation. The chapter supports both the real relief of one night/one class and the danger of protective authority becoming exclusionary. The attacking entities, the unidentified voice, archive provenance, Mine's condition and durable school arrangements remain open.
+
+## 1. Prospective sequence and corrections
+
+### E001–E003: aid under a cover, and Mine's encounter
+
+Mine, Serina and Hanae build a temporary station. At Sensei's request they hide Trinity/Rescue Knights affiliation under `名もなき奉仕活動部`, calling Mine `先輩`; Subaru identifies the real helpers but conditionally tolerates discreet aid, mistakenly assuming Mine herself is absent (E001). Mine hears a trumpet-like sound with others, without an established source. The Knights distribute 500-kcal packs, filter straws with explicit salt/virus limits and a 30-item kit; Mine reports broad nutrient shortfalls but no patient charts are displayed. Maia asks why math matters, recalls outside stigma, and Sensei apologizes as an adult. Misaki says Sensei asked her to try living but challenges his hope; Saori reframes `虚しい` as impermanence rather than only futility. Four apparent entities appear by a student's count and Subaru reports weak attack effect, with outcome pending (E002).
+
+Under the attack Mine experiences a bog-like historical/child accusation about Arius excommunication and neglect. Its mechanism and historical fidelity are not established. She explicitly recognizes that a “believe” instruction apparently from Sensei was **not** something he said, imagines what he might say, and commits to reducing even a spoonful of sorrow within one body's limits. She publicly calls her group `救護騎士団`; Hanae calls her `団長`. The local cover ends, without yet showing victory or comprehensive medical repair (E003).
+
+### E004–E005: care continues while a hypothesis hardens into exclusion
+
+Mine falls, Serina/Hanae provide immediate care and residents learn the Trinity identity. One recalls Mine on Beatrice's departure day, which explains fear but is not a present threat. Sensei summons Sena; she finds normal vitals and an unconsciousness interval within range, alongside a nonspecific bad intuition. Transport is planned, not confirmed arrived. Mine briefly wakes, credits Sensei's prior words with helping her return from being taken in, asks him to protect ordinary Arius school life, and lapses again. A flashback shows Nagisa personally requested Mine's help, explicitly **not** as a Tea Party order; this corrects E001's apparent premonition-only origin without identifying E003 C001's anonymous transfer emissary as Nagisa. Atsuko's Apocalypse-angel identification remains a guess; Saori's world-end implication is conditional (E004).
+
+At the basilica Subaru distinguishes a voice heard by the gathered room from trumpets only some report, notes a missing eagle, and groups hearers/nonhearers without counts or a causal test. She proposes investigating Porta Pacis as an Arius-history/scripture repository, with an untested danger saying. She labels Trinity/Sensei causation a **hypothesis** based on arrival timing, though she rhetorically treats it as natural. C/D reject study and urge “purification” by expelling Sensei/Squad; A/B value knowledge, nonviolent learning and being heard. The scriptural seven-trumpet collapse remains conditional. Maia challenges the missing eagle and calamities, but relies on Sensei for an unspecified alternative. Residents accuse her and press Subaru to prove allegiance. Subaru orders Maia **out of the basilica and barred from return to that place**, accompanies her, dismisses the others and sobs while Maia begs not to be abandoned. An all-Arius expulsion decree is not recorded, but the harm is real (E005).
+
+### E006–E008: shelter, reported history and a reached gate
+
+After Squad discusses unwanted fugitive strength and whether return can happen, Atsuko rejects Sensei's attempt to bear sole blame and asks them to think about the future together. Sensei actually sends a next-class MomoTalk notice, which Subaru knows/deletes; she suppresses D's proposal to bring Maia a blanket. Maia privately wishes to disappear, then seeks Sensei at night. He gives temporary shelter, washing, drink, food and his sleeping bag without requiring disclosure. No cause of facial swelling, self-harm act or permanent placement is shown. Subaru leads residents toward Porta Pacis before dawn; at the scheduled class Maia alone remains, and Subaru does not answer Sensei's call (E006).
+
+Maia/Squad know inherited no-entry rules but not their archival origins. Sensei contacts Ui and Shimiko. The Old Library participants report partly restricted and incomplete Trinity holdings, and Ui says Porta Pacis was intended as a peace gate at the split. Atsuko supplies a partially oral Arius-side account of civil-war conflict over the gate, a later underground record repository and a ban from over roughly 150 years ago; she admits scant proper records and unknown motive. No original document is inspected. Atsuko asks Maia to use her ordinary first name as a fellow first-year, although Maia retains honorific hesitation. Shimiko's offer of magazine back issues delights Hiyori. Atsuko hints at an unknown `秘儀` (E007).
+
+Atsuko reports Beatrice secretly visited Porta Pacis before the Eden Treaty and anomalies **increased** afterward, while unusual events predated her visit; the visit and causal link are not audited. She speculates accumulated anger may take form. The group teaches a three-by-seven angel taxonomy from a shared-root scripture but immediately allows that the figures might be something else. Subaru's party reaches Porta Pacis and sees an already-open door. She orders a solo advance and a defensive emplacement facing outside and inside, without a shown opener, lost thing or archive discovery yet. Maia says she heard the trumpet; Sensei waits instead of pressing her about the night. Hiyori proposes trusted disclosure and privacy; Maia chooses to tell the group, but the narration summarizes rather than printing her account. Ui proposes that trumpet hearers may have accepted outside knowledge in Sensei's lessons and separately that fear/anger could manifest as figures. She explicitly calls these inferences/hypotheses; no selection mechanism or entity identity is verified (E008).
+
+### E009–E011: a found text, armed refusal and a route to Subaru
+
+Subaru encounters text she calls `外典 (apocrypha)` with vengeance language and Arius/Trinity historical accusations, including `ニコメディア` as a possible place-name. She asserts Trinity suppressed it, without a shown formal decision or authenticated author/date. Residents report E008's emplacement complete and ask for a group name; she enacts `ニコメディアトゥループ` for those gathered, not all Arius. Sensei's party heads there to speak even if not forgiven. Maia still admires Subaru; Misaki criticizes her unknowing power to command; Atsuko says effort alone is insufficient. Subaru reads a line that angels symbolize “you yourselves,” then encounters an unidentified voice repeating Arius grievance; its identity answer is cut off (E009).
+
+At the gate defenders say Subaru banned entry, although E008's direct order was to fortify against possible attack. Their uncertainty about the command precedes gunfire; Squad reports being shot, but first shooter and injuries are not mapped. Subaru reacts to the voice's **unprinted** words, calls Sensei's proposed conversation a tactic, repeats the unproved Trinity cause, then privately says she lied and ought to apologize—without specifying which assertion or doing so. She says she still wants Arius as a nest where young residents can be glad to live, admits driving Maia away, and seeks overwhelming power. An unidentified logged voice offers revenge/condemnation power without shown acceptance or transfer. A/B doubt the fight, recall Sensei positively and hear a trumpet whose count/source is not recorded (E010).
+
+Two apparent figures attack Arius residents. E/F guess they represent fifth/sixth trumpets, but the count and taxonomy remain their estimates. Squad intervenes for their peers despite recent hostility and retreats after difficulty; Squad members answer alive and other students reportedly hide, with no defeat or casualty audit. A white-flag MomoTalk lead brings Sensei to A/B, who thank him for Maia's shelter and offer a briefly scouted side route to the repository; no full safety test exists. They describe classes as hard and sometimes boring but kind, nonviolent and enjoyable, while Sensei calls that deserved daily life rather than a passing dream. A/B still credit Subaru with preventing the residents' dispersal. The party descends; Atsuko has strong private head pressure and Maia reports external fear/sorrow, with mechanism unknown. They meet Subaru, who asks to move before addressing the substance. The E011 end card continues in Chapter 3 (E011).
+
+## 2. Reconciled people, relations and institutions
+
+| Domain | Supported chapter state | Open boundary |
+|---|---|
+| Maia and Subaru | Subaru's basilica order isolates Maia; Maia seeks Sensei's shelter, later chooses group disclosure and still esteems Subaru. Subaru admits she drove Maia away, privately says she lied, and reasserts her nest ideal. | No explicit Maia–Subaru repair, formal all-Arius expulsion order, exact target of Subaru's lie, or safe account of Maia's mental/medical condition. |
+| Sensei and Squad | Sensei supplies concrete overnight care and keeps lessons scheduled; Squad defends residents from figures after armed refusal; Sensei seeks dialogue and reaches Subaru. | No guaranteed lasting school program, legal reconciliation, definitive injury/casualty audit, or completed substantive talk. |
+| Mine, Knights and Sena | Immediate food/filter/kit distribution and care are shown; Mine's cover ends, Nagisa's personal request is known, and Sena assesses Mine with mixed bounded findings. | Mine's later condition/arrival at care destination, full nutritional survey, funding and formal Arius acceptance of Trinity aid. |
+| Arius residents/Nicomedia Troop | Residents split over classes and causation; Subaru names a local group, fortification is reported complete, A/B later doubt combat and offer a route. | Full roster, stable anonymous-letter identities, group-wide stance, schooling results, entity targeting rule and political legitimacy of the new name. |
+| Ui/Shimiko/archives | They bring partly restricted, incomplete library history; Subaru encounters a partisan apocryphal text and a symbolic-angel line. | Proven text provenance, council record, original place-name, historical first attacker, Beatrice's specific act, and reliable supernatural model. |
+
+## 3. Claims, representation and ethical controls
+
+- Voice, trumpet, apparent figures and scriptural labels are separate observations. The widely heard E005 voice and uneven trumpet hearing cannot be collapsed into one audience or a verified prophecy. E011's two attackers and E/F's “fifth/sixth” guess do not establish a completed sequence.
+- Subaru's E005 Trinity/Sensei cause begins as an explicit hypothesis and becomes an E010 mobilizing assertion, followed by her admission of lying. The precise lie is unresolved. Temporal sequence does not demonstrate causation; Ui's outside-knowledge/hearing and anger-manifestation accounts are likewise tentative.
+- The peace gate's intended function, civil-war trigger, archive creation, 150-plus-year ban, Nicomedia name, apocryphon and council/first-attack allegations come from actor reports or encountered text with incomplete provenance. E003's intrusive historical ordeal and E009–E010 unidentified voice are not independently authenticated by repeated wording.
+- Protection and exclusion coexist. Subaru's nest aim is directly voiced and her residents credit her survival support, while her Maia order, blanket suppression, command ambiguity and misleading battlefield claim have direct costs. Sensei's practical care and lessons matter, but his prior rushed class, the armed gate and Mine's unresolved medical state prevent an uncomplicated adult-rescue verdict.
+- Maia's `消えてしまいたい` is grave despair without a shown self-harm act/plan. Misaki's earlier “try living” report and Subaru's hypothetical about giving up life remain separate contexts. No diagnosis, guaranteed prevention method or hidden identified victim is inferred.
+- The chapter has material raw-label drift, especially E008's multiple self-address exchanges and E010/E011's gate/stairs dialogue. Italic thought, log narration, text-reading, anonymous voice and Sensei choices are not one audible transcript. A/B/C/D/E/F labels are local roles and do not prove identity with C001 transfer A/B. A MomoTalk communication occurring **inside canonical main** is admissible as an event without admitting separate MomoTalk stories.
+- No durable new claim ID, standalone reconstruction model or frozen prospective prediction is warranted (`NO_DIAGNOSTIC_OPPORTUNITY`). Later revelations have not been backdated into any provisional reading.
+
+## 4. Readiness and forward questions
+
+The [coverage index](../../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md) retains **141** distinct subjects: **21 `PARTIAL_MODEL` / 120 `UNMODELED`**. Subaru and Maia gain substantial but unresolved crisis/relationship evidence; neither gains a bounded operational model. Ui/Shimiko, Mine/Sena and Squad gain narrow new contexts without clean generalization. All standalone models remain `NONE`; no `OPERATIONAL_CANDIDATE`, `BOUNDED_VALIDATED`, held-out diagnostic, performed voice or side-source admission is created. Contextual backfill remains **DEFER** under the governing evidence gate.
+
+Next forward canonical unit: `BA:main:006:003:001` / `MAIN_V006_C003_E001`. Carry as questions, not predictions: what Subaru encountered and meant by the lie; whether she accepted the voice's offer; the figures' identity and targeting; what the found text can verify; the status of Mine and other injured people; whether Maia and Subaru can speak; and how ordinary Arius schooling can persist beyond one class. The 43 V001 C003 episodes remain separate earlier-order backfill.
+
+| Finding | Canonical route |
+|---|---|
+| Aid, Mine ordeal and basilica fracture | V006 C002 E001–E005 readings with exact scene/unit locators |
+| Maia's night and competing archive accounts | V006 C002 E006–E008 readings with exact scene/unit locators |
+| Apocryphon, nest crisis and Chapter 2 close | V006 C002 E009–E011 readings with exact scene/unit locators |

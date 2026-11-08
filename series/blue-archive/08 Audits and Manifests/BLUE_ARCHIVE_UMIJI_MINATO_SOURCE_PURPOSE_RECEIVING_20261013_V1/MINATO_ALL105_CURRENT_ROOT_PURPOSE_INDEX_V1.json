@@ -1,0 +1,1232 @@
+{
+  "schema": "BLUE_ARCHIVE_MINATO_ALL105_CURRENT_ROOT_PURPOSE_INDEX_V1",
+  "created_UTC": "2026-10-13T02:59:13.047230+00:00",
+  "qualified_current_ROOT_disposition": {
+    "decision": "ALL105_ROOT_FINITE_SOURCE_SPECIFIC_PURPOSES_RECEIVED_AND_ADOPTED_WITH_LIMITS_BODY_SUCCESSOR_ACCEPTANCE_PENDING",
+    "owner_union": "O000–O104 exactly once",
+    "source_specific_ROOT_adoptions": 105,
+    "ROOT_remaining_purpose_receiving": 0,
+    "contributors_actual_normal_receiving": {
+      "whole_maintained_written_analytical_normals": 26,
+      "selected_connected_maintained_written_analytical_scopes": 79,
+      "whole_primary_native_raw_or_AV_sources": 0
+    },
+    "ROOT_adoption_grade": "ROOT actually received and adjudicated all102 delegated purpose reports; three separately owned purposes O000/O036/O037 retain ROOT fresh whole maintained written analytical-normal receiving. Any disclosed consequential ROOT analytic follow-up remains local to its receipt. This is not fresh ROOT replay of105 primary sources or transfer of contributor scope.",
+    "earlier19_core_receiving": "Separately ROOT-attributed; current bindings establish custody only and do not grant fresh analytical or primary receiving to this preparer or report contributors.",
+    "immutable_body_V3": {
+      "evidence_id": "BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH_V3.md",
+      "bytes": 38821,
+      "sha256": "8caf0917c82b9c9cac690a37e213ccae58334725c1753e1921994614ebc6eafb",
+      "git_blob_oid_of_actual_bytes": "8d13cebd83d2d966330d32c9a2a3785d909fb577",
+      "physical_lines": 181,
+      "state": "UNCHANGED; current full-body successor acceptance and canonical package acceptance pending"
+    },
+    "historical_pending_language": "Frozen contributor pending statuses, original receipt pending whole105/count declarations and prospective V3 body joins retain their dated historical roles. The current all105 ROOT disposition controls receiving completion only; it does not promote body/package/publication/source admission.",
+    "local_preparation": "C_ONLY_PROPOSED_PUBLIC_DERIVATIVE; not installed, committed, pushed or merged by this preparer",
+    "package_credit": 0,
+    "named_duty_credit": 0,
+    "source_admission_credit": 0,
+    "private_actor_join_credit": 0,
+    "model_credit": 0,
+    "existing_home": "P3-CHAR-M040",
+    "named_section_id": null,
+    "main_integrated_packages": 133,
+    "source_published_packages": 134,
+    "next_actual_integration_milestone": 178,
+    "current_source_commit": "130b9c1c230c928601041b9b8ef4f013d44b24e7",
+    "current_source_tree": "5e315b1b7e0472be1ca5d5c63167cb5871dfc5ce",
+    "integrated_main_commit": "0ed395926cca502fe1461d8c172330baab99e70e",
+    "all14_original_gaps": "OPEN; claim-specific",
+    "models": 0,
+    "ordinary_intrinsic_value": "Food, play, craft, reading, rest, company, places and familiar objects retain their source-local independent value. No source-purpose row is discarded for being low-stakes, lacking a character name, or being comparative.",
+    "no_generalized_join": "No authenticated Minato appointment/fraud, universal consent, private-family actor join, clinical counterfactual, durable institutional reform, cat/whale consent equivalence or global inter-story chronology is supplied by this control."
+  },
+  "latest_ROOT_receiving_closure": {
+    "artifact_id": "MINATO_FROZEN_ROOT_INPUT_18",
+    "evidence_id": "ROOT_MINATO_POSTAUDIT_O101_O104_PURPOSE_RECEIVING_AND_ADOPTION_20261013_V1.json",
+    "bytes": 61688,
+    "sha256": "c2f001df86d007afc64654c93a9f579d4fd60190bccdb3c32942e0315f9bd63d",
+    "git_blob_oid_of_actual_bytes": "14f0d72bb9c0dd3aaa968ee00231dbe6fb8c8e83",
+    "role": "Latest actual18th ROOT batch closes all105 receiving with limits; full-body/public transport and canonical package acceptance remain pending."
+  },
+  "public_semantic_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+      "bytes": 175040,
+      "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+      "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+      "bytes": 311785,
+      "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+      "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+      "bytes": 462753,
+      "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+      "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+    }
+  ],
+  "source_and_original_receipt_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_SOURCE_AND_FROZEN_RECEIPT_CUSTODY_V1.json",
+    "bytes": 238267,
+    "sha256": "59ebb8eadfec0661b779505e0465ede76e2f392d160f878e398d6ace81265dc8",
+    "git_blob_oid_of_actual_bytes": "9ca86c0649902c836901bc695362575c444faee3"
+  },
+  "105_current_dispositions": [
+    {
+      "owner_id": "O000",
+      "decision": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_19",
+      "original_record_pointer": "",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/0"
+      }
+    },
+    {
+      "owner_id": "O001",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/1"
+      }
+    },
+    {
+      "owner_id": "O002",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/2"
+      }
+    },
+    {
+      "owner_id": "O003",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/3"
+      }
+    },
+    {
+      "owner_id": "O004",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_01",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/4"
+      }
+    },
+    {
+      "owner_id": "O005",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_02",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/5"
+      }
+    },
+    {
+      "owner_id": "O006",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_02",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/6"
+      }
+    },
+    {
+      "owner_id": "O007",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_02",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/7"
+      }
+    },
+    {
+      "owner_id": "O008",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_02",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/8"
+      }
+    },
+    {
+      "owner_id": "O009",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_02",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/9"
+      }
+    },
+    {
+      "owner_id": "O010",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_02",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/10"
+      }
+    },
+    {
+      "owner_id": "O011",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/11"
+      }
+    },
+    {
+      "owner_id": "O012",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/12"
+      }
+    },
+    {
+      "owner_id": "O013",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/13"
+      }
+    },
+    {
+      "owner_id": "O014",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/14"
+      }
+    },
+    {
+      "owner_id": "O015",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/15"
+      }
+    },
+    {
+      "owner_id": "O016",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/16"
+      }
+    },
+    {
+      "owner_id": "O017",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_03",
+      "original_record_pointer": "/records/6",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/17"
+      }
+    },
+    {
+      "owner_id": "O018",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/18"
+      }
+    },
+    {
+      "owner_id": "O019",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/19"
+      }
+    },
+    {
+      "owner_id": "O020",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/20"
+      }
+    },
+    {
+      "owner_id": "O021",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/21"
+      }
+    },
+    {
+      "owner_id": "O022",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/22"
+      }
+    },
+    {
+      "owner_id": "O023",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/23"
+      }
+    },
+    {
+      "owner_id": "O024",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/6",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/24"
+      }
+    },
+    {
+      "owner_id": "O025",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_04",
+      "original_record_pointer": "/records/7",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/25"
+      }
+    },
+    {
+      "owner_id": "O026",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_05",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/26"
+      }
+    },
+    {
+      "owner_id": "O027",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_05",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/27"
+      }
+    },
+    {
+      "owner_id": "O028",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_05",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/28"
+      }
+    },
+    {
+      "owner_id": "O029",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_05",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/29"
+      }
+    },
+    {
+      "owner_id": "O030",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_05",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/30"
+      }
+    },
+    {
+      "owner_id": "O031",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_06",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/31"
+      }
+    },
+    {
+      "owner_id": "O032",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_06",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/32"
+      }
+    },
+    {
+      "owner_id": "O033",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_06",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/33"
+      }
+    },
+    {
+      "owner_id": "O034",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_06",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/34"
+      }
+    },
+    {
+      "owner_id": "O035",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_06",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "pointer": "/records/35"
+      }
+    },
+    {
+      "owner_id": "O036",
+      "decision": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_20",
+      "original_record_pointer": "",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/0"
+      }
+    },
+    {
+      "owner_id": "O037",
+      "decision": "ADOPTED_ROOT_OWN_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_21",
+      "original_record_pointer": "",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/1"
+      }
+    },
+    {
+      "owner_id": "O038",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_07",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/2"
+      }
+    },
+    {
+      "owner_id": "O039",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_07",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/3"
+      }
+    },
+    {
+      "owner_id": "O040",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_07",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/4"
+      }
+    },
+    {
+      "owner_id": "O041",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_07",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/5"
+      }
+    },
+    {
+      "owner_id": "O042",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_07",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/6"
+      }
+    },
+    {
+      "owner_id": "O043",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_07",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/7"
+      }
+    },
+    {
+      "owner_id": "O044",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_08",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/8"
+      }
+    },
+    {
+      "owner_id": "O045",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_08",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/9"
+      }
+    },
+    {
+      "owner_id": "O046",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_08",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/10"
+      }
+    },
+    {
+      "owner_id": "O047",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_08",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/11"
+      }
+    },
+    {
+      "owner_id": "O048",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_08",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/12"
+      }
+    },
+    {
+      "owner_id": "O049",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_08",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/13"
+      }
+    },
+    {
+      "owner_id": "O050",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_09",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/14"
+      }
+    },
+    {
+      "owner_id": "O051",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_09",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/15"
+      }
+    },
+    {
+      "owner_id": "O052",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_09",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/16"
+      }
+    },
+    {
+      "owner_id": "O053",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_09",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/17"
+      }
+    },
+    {
+      "owner_id": "O054",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_09",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/18"
+      }
+    },
+    {
+      "owner_id": "O055",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_09",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/19"
+      }
+    },
+    {
+      "owner_id": "O056",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_10",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/20"
+      }
+    },
+    {
+      "owner_id": "O057",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_10",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/21"
+      }
+    },
+    {
+      "owner_id": "O058",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_10",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/22"
+      }
+    },
+    {
+      "owner_id": "O059",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_10",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/23"
+      }
+    },
+    {
+      "owner_id": "O060",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_10",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/24"
+      }
+    },
+    {
+      "owner_id": "O061",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_10",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/25"
+      }
+    },
+    {
+      "owner_id": "O062",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_11",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/26"
+      }
+    },
+    {
+      "owner_id": "O063",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_11",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/27"
+      }
+    },
+    {
+      "owner_id": "O064",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_11",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/28"
+      }
+    },
+    {
+      "owner_id": "O065",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_11",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/29"
+      }
+    },
+    {
+      "owner_id": "O066",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_11",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/30"
+      }
+    },
+    {
+      "owner_id": "O067",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_11",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/31"
+      }
+    },
+    {
+      "owner_id": "O068",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_12",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/32"
+      }
+    },
+    {
+      "owner_id": "O069",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_12",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/33"
+      }
+    },
+    {
+      "owner_id": "O070",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_12",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "pointer": "/records/34"
+      }
+    },
+    {
+      "owner_id": "O071",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_13",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/0"
+      }
+    },
+    {
+      "owner_id": "O072",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_13",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/1"
+      }
+    },
+    {
+      "owner_id": "O073",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_13",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/2"
+      }
+    },
+    {
+      "owner_id": "O074",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_13",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/3"
+      }
+    },
+    {
+      "owner_id": "O075",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_13",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/4"
+      }
+    },
+    {
+      "owner_id": "O076",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_13",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/5"
+      }
+    },
+    {
+      "owner_id": "O077",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_14",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/6"
+      }
+    },
+    {
+      "owner_id": "O078",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_14",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/7"
+      }
+    },
+    {
+      "owner_id": "O079",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_14",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/8"
+      }
+    },
+    {
+      "owner_id": "O080",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_14",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/9"
+      }
+    },
+    {
+      "owner_id": "O081",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_14",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/10"
+      }
+    },
+    {
+      "owner_id": "O082",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_14",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/11"
+      }
+    },
+    {
+      "owner_id": "O083",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_15",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/12"
+      }
+    },
+    {
+      "owner_id": "O084",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_15",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/13"
+      }
+    },
+    {
+      "owner_id": "O085",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_15",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/14"
+      }
+    },
+    {
+      "owner_id": "O086",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_15",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/15"
+      }
+    },
+    {
+      "owner_id": "O087",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_15",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/16"
+      }
+    },
+    {
+      "owner_id": "O088",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_15",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/17"
+      }
+    },
+    {
+      "owner_id": "O089",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_16",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/18"
+      }
+    },
+    {
+      "owner_id": "O090",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_16",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/19"
+      }
+    },
+    {
+      "owner_id": "O091",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_16",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/20"
+      }
+    },
+    {
+      "owner_id": "O092",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_16",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/21"
+      }
+    },
+    {
+      "owner_id": "O093",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_16",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/22"
+      }
+    },
+    {
+      "owner_id": "O094",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_16",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/23"
+      }
+    },
+    {
+      "owner_id": "O095",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_17",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/24"
+      }
+    },
+    {
+      "owner_id": "O096",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_17",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/25"
+      }
+    },
+    {
+      "owner_id": "O097",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_17",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/26"
+      }
+    },
+    {
+      "owner_id": "O098",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_17",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/27"
+      }
+    },
+    {
+      "owner_id": "O099",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_17",
+      "original_record_pointer": "/records/4",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/28"
+      }
+    },
+    {
+      "owner_id": "O100",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_17",
+      "original_record_pointer": "/records/5",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/29"
+      }
+    },
+    {
+      "owner_id": "O101",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_18",
+      "original_record_pointer": "/records/0",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/30"
+      }
+    },
+    {
+      "owner_id": "O102",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_18",
+      "original_record_pointer": "/records/1",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/31"
+      }
+    },
+    {
+      "owner_id": "O103",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_18",
+      "original_record_pointer": "/records/2",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/32"
+      }
+    },
+    {
+      "owner_id": "O104",
+      "decision": "ADOPTED_FINITE_SOURCE_SPECIFIC_PURPOSE_WITH_LIMITS",
+      "input_artifact_id": "MINATO_FROZEN_ROOT_INPUT_18",
+      "original_record_pointer": "/records/3",
+      "semantic_record": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "pointer": "/records/33"
+      }
+    }
+  ],
+  "current_source_qualifier_layer": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "preserved_architecture": {
+    "required_packages": 355,
+    "named_duties": 29,
+    "named_parents": 25,
+    "required_homes": 384,
+    "navigation_rows": 788,
+    "milestones": [
+      89,
+      178,
+      267,
+      355
+    ],
+    "merge_approval": "RESERVED"
+  },
+  "source_class_crosswalk": "Repository path/source class and full question-specific record govern role and chronology. Whole versus selected analytical scope is retained per record; ordinary goods have no stakes-based exclusion.",
+  "original_historical_receipt_envelopes": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_SOURCE_AND_FROZEN_RECEIPT_CUSTODY_V1.json#/21_frozen_input_receipts",
+  "public_bytes_boundary": "Regular strictUTF8LF files, each below1MiB; no local absolute user path or encoded fulloriginal payload appears. Private originals remain outside publication.",
+  "current_body_or_package_adoption_from_this_derivative": false,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "operative_current_ROOT_body_qualification_20261013": {
+    "decision": "ROOT_ADOPTED_ALL_NINE_ACTUAL_CURRENT_BODY_AMENDMENTS_WITH_LIMITS_CURRENT183_LINE_V4",
+    "body": {
+      "evidence_id": "BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_SCOPED_CHARACTER_MONOGRAPH_V4.md",
+      "canonical_path_assignment": "Assigned by ROOT exact transport plan; this purpose derivative binds the exact current body evidence and does not choose its canonical home path.",
+      "bytes": 42004,
+      "sha256": "8a2d6b180cdbdde70177da9e2c4880bd00f60e54b1abec35a09e15aeab432824",
+      "git_blob_oid_of_actual_bytes": "ba4a944b4ce4bbbc4a13941fc17b6b96a010ac9a",
+      "physical_lines": 183
+    },
+    "actual_nine_operation_proof": {
+      "evidence_id": "ROOT_MINATO_CURRENT105_NINE_LITERAL_BODY_SUCCESSORS_AND_EXECUTED_FULL_INVERSE_V2.json",
+      "bytes": 47054,
+      "sha256": "e8a7e74c39d72fe96aec09bd498990785d72284c20eff4b93c251bc4877dd55c",
+      "git_blob_oid_of_actual_bytes": "27bbce62d32349143657fde6bf2b60484bba6d23",
+      "operations": 9,
+      "full_inverse_restores_unchanged181_line_V3": true,
+      "metadata_grade": "Corrected V2 Git framing only; prior proofV1 Git-blob metadata is not an operative current-body binding."
+    },
+    "ROOT_own_current_body_receiving": {
+      "tools": [
+        "bb3e41",
+        "36cc0a"
+      ],
+      "extent": "Own complete current183-line V4 through EOF, ROOT-attributed to this preparer."
+    },
+    "ROOT_actual_semantic_adoption": {
+      "tools": [
+        "fd2dcc",
+        "0a83b0"
+      ],
+      "scope": "All nine actual positive amendments adopted by ROOT; body/claim/source meanings beyond those adopted spans and all105 purpose dispositions are unchanged."
+    },
+    "role_for_retained_V1_preparation": "Supersedes only V1 body-successor-pending descriptions as current body adoption state. V3 remains the immutable receiving baseline for original purpose joins and full original inverses. All dated pending contributor/receipt statuses and exact original decision fields remain historical.",
+    "current_independent_body_transport_or_package_acceptance": "PENDING; current body adoption does not install or publish a canonical package.",
+    "counts": {
+      "source_published_packages": 134,
+      "source_completed_named_duties": 14,
+      "main_integrated_packages": 133,
+      "Minato135": "CONDITIONAL_ONLY_AFTER_REQUIRED_ACCEPTANCE_INSTALLATION_PUBLICATION; not credited by these derivatives"
+    },
+    "all14_original_gaps": "OPEN; claim-specific",
+    "models": 0,
+    "new_primary_native_raw_AV_private_actor_source_admission_model_named_or_package_credit": 0,
+    "ordinary_intrinsic_value": "Every105 purpose is retained. Ordinary character-building goods keep their independent source-local value without a stakes-based exclusion."
+  },
+  "V1_preparation_context_role": "qualified_current_ROOT_disposition contains the retained initial all105 purpose-receiving preparation; its V3-body-pending subclauses are historical and superseded only by the additive operative current V4 body qualification. Receiving/source/package limits stay unchanged.",
+  "historical_V1_public_reference_tuples": {
+    "public_semantic_parts": [
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O000_O035_V1.json",
+        "bytes": 172036,
+        "sha256": "2aa3d9031055d92409b96e16ea06870847da050195711345079514d15dcfa8dc",
+        "git_blob_oid_of_actual_bytes": "fa359a6adbac62a59fd26f8512b643ee6af172f4"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O036_O070_V1.json",
+        "bytes": 308781,
+        "sha256": "a2bd6a6e410ac845739f8ec66d1632cb31de6e25da50c8d9b01fca84fc6ee7d5",
+        "git_blob_oid_of_actual_bytes": "a2e433e147a335d7cb039d3a9bc91f775df6fd66"
+      },
+      {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_PURPOSES_O071_O104_V1.json",
+        "bytes": 459749,
+        "sha256": "a657d9987110566885176ccf285e973bbb7ff0c7dc8772496b276abf3d832692",
+        "git_blob_oid_of_actual_bytes": "15f660f78512d2b8c720dc26cdb44995173d5eb6"
+      }
+    ],
+    "source_and_original_receipt_custody": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UMIJI_MINATO_SOURCE_PURPOSE_RECEIVING_20261013_V1/MINATO_ALL105_SOURCE_AND_FROZEN_RECEIPT_CUSTODY_V1.json",
+      "bytes": 235276,
+      "sha256": "92403757e0a8422b96d980ebd15dbf23664b2eed470299abe1b7239bd609c014",
+      "git_blob_oid_of_actual_bytes": "2f524e162392fc9d4f5ec9db874b9f7047f9f827"
+    }
+  }
+}

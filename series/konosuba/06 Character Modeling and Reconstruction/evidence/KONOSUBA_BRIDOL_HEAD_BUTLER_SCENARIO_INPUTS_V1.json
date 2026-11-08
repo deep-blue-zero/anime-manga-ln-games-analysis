@@ -1,0 +1,129 @@
+{
+  "schema": "konosuba.character-scenario-inputs.v1",
+  "frozen_utc": "2026-10-24T20:40:27.489625+00:00",
+  "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+  "subject": "Rionor head butler / 執事長",
+  "model_foundation_freeze_sha256": "e547c7cd5f828a4fb38f3f8bf54d80393cab0618714f7251236d0ab29749ea05",
+  "frozen_model": {
+    "file": "BRIDOL_HEAD_BUTLER_MODEL_DRAFT_02.md",
+    "bytes": 6454,
+    "sha256": "a4af7c5d53ba8223e0d7ed832df66dc3fb929ccb58082182dd7f5788ec0f90c2"
+  },
+  "frozen_rule_inventory": {
+    "file": "BRIDOL_HEAD_BUTLER_RULE_INVENTORY_DRAFT_03.json",
+    "bytes": 5391,
+    "sha256": "41122b03e0815bdb0f5970e36368591223b9f9e280ec6e19b1f8e3fcf13d6cda"
+  },
+  "cases": [
+    {
+      "case_id": "C40-BHB-A1",
+      "pair_id": "C40-BHB-A",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "mode": "canon_domain_counterfactual",
+      "categories": [
+        "resource_conflict",
+        "relationship_conflict",
+        "social_novelty"
+      ],
+      "rules_probed": [
+        "BHB-R01"
+      ],
+      "shared_state": "This is a counterfactual KonoSuba-world household scene,not a source event. Rionor needs a thirty-minute escorted visit starting in five minutes. The butler knows handling it himself is tiresome. Dust is capable,free and has explicitly volunteered to take it;Rionor knows the proposed escort arrangement and accepts either escort. No other handler is available. Transferring the escort would save the butler effort. He may handle it himself,try to arrange transfer,or request authorization. A request is not a granted order. No disguise,secret identity change,injury,retaliation or other benefit is supplied.",
+      "variant_fact": "Authority context: the king has explicitly authorized this particular escort to be assigned to Dust. There is no competing national or household stake. Choose the butler action;do not invent a reason that the authorized capable handler is unavailable.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-BHB-A1\nSubject: Rionor head butler / 執事長\nGeneration: BRIDOL_HEAD_BUTLER_EXPANDED_V1\nMode: canon_domain_counterfactual\n\nShared state\nThis is a counterfactual KonoSuba-world household scene,not a source event. Rionor needs a thirty-minute escorted visit starting in five minutes. The butler knows handling it himself is tiresome. Dust is capable,free and has explicitly volunteered to take it;Rionor knows the proposed escort arrangement and accepts either escort. No other handler is available. Transferring the escort would save the butler effort. He may handle it himself,try to arrange transfer,or request authorization. A request is not a granted order. No disguise,secret identity change,injury,retaliation or other benefit is supplied.\n\nVariant facts\nAuthority context: the king has explicitly authorized this particular escort to be assigned to Dust. There is no competing national or household stake. Choose the butler action;do not invent a reason that the authorized capable handler is unavailable.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "ff1bdfb828cd18e57a0a742f579e8e0108407d53c45c03f83d82691ff92f0c37",
+      "prompt_utf8_bytes": 1533
+    },
+    {
+      "case_id": "C40-BHB-A2",
+      "pair_id": "C40-BHB-A",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "mode": "canon_domain_counterfactual",
+      "categories": [
+        "resource_conflict",
+        "relationship_conflict",
+        "social_novelty"
+      ],
+      "rules_probed": [
+        "BHB-R01"
+      ],
+      "shared_state": "This is a counterfactual KonoSuba-world household scene,not a source event. Rionor needs a thirty-minute escorted visit starting in five minutes. The butler knows handling it himself is tiresome. Dust is capable,free and has explicitly volunteered to take it;Rionor knows the proposed escort arrangement and accepts either escort. No other handler is available. Transferring the escort would save the butler effort. He may handle it himself,try to arrange transfer,or request authorization. A request is not a granted order. No disguise,secret identity change,injury,retaliation or other benefit is supplied.",
+      "variant_fact": "Authority context: the king has explicitly required the butler personally to perform this particular escort because it includes an unrepeated national-asset inspection entrusted to him. Dust is not authorized to perform that inspection. The king has not granted a change. Choose the butler action or an actual request,acknowledging the current authority and competing stake;do not invent permission or pretend transfer fully covers the specified duty.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-BHB-A2\nSubject: Rionor head butler / 執事長\nGeneration: BRIDOL_HEAD_BUTLER_EXPANDED_V1\nMode: canon_domain_counterfactual\n\nShared state\nThis is a counterfactual KonoSuba-world household scene,not a source event. Rionor needs a thirty-minute escorted visit starting in five minutes. The butler knows handling it himself is tiresome. Dust is capable,free and has explicitly volunteered to take it;Rionor knows the proposed escort arrangement and accepts either escort. No other handler is available. Transferring the escort would save the butler effort. He may handle it himself,try to arrange transfer,or request authorization. A request is not a granted order. No disguise,secret identity change,injury,retaliation or other benefit is supplied.\n\nVariant facts\nAuthority context: the king has explicitly required the butler personally to perform this particular escort because it includes an unrepeated national-asset inspection entrusted to him. Dust is not authorized to perform that inspection. The king has not granted a change. Choose the butler action or an actual request,acknowledging the current authority and competing stake;do not invent permission or pretend transfer fully covers the specified duty.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "5bbb3a3c6ad60e170275ef6a447d2f0139d73205c1813efcf008b4bfba2f388f",
+      "prompt_utf8_bytes": 1733
+    },
+    {
+      "case_id": "C40-BHB-B1",
+      "pair_id": "C40-BHB-B",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "mode": "human_world_counterfactual",
+      "categories": [
+        "mundane_inconvenience",
+        "resource_conflict",
+        "competence_domain_shift",
+        "cross_universe_novelty"
+      ],
+      "rules_probed": [
+        "BHB-R01"
+      ],
+      "shared_state": "This is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. The butler is an event household manager facing a demanding adult VIP analogous to Rionor. He can personally handle a sixty-minute visit or transfer it to a competent willing colleague. Both the VIP and employer explicitly permit either route. There is no identity substitution,retaliatory aim,public face advantage,national stake or difference in service quality. Only these two routes are available. The manager knows all stated handoff requirements and how burdensome he personally regards them before deciding.",
+      "variant_fact": "A handoff takes the manager five minutes of ordinary administration and frees him from the remaining handling. He credibly regards this as much less overall burden than doing the visit himself. Choose personal handling or attempt the permitted handoff;do not add a hidden cost or unwilling colleague.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-BHB-B1\nSubject: Rionor head butler / 執事長\nGeneration: BRIDOL_HEAD_BUTLER_EXPANDED_V1\nMode: human_world_counterfactual\n\nShared state\nThis is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. The butler is an event household manager facing a demanding adult VIP analogous to Rionor. He can personally handle a sixty-minute visit or transfer it to a competent willing colleague. Both the VIP and employer explicitly permit either route. There is no identity substitution,retaliatory aim,public face advantage,national stake or difference in service quality. Only these two routes are available. The manager knows all stated handoff requirements and how burdensome he personally regards them before deciding.\n\nVariant facts\nA handoff takes the manager five minutes of ordinary administration and frees him from the remaining handling. He credibly regards this as much less overall burden than doing the visit himself. Choose personal handling or attempt the permitted handoff;do not add a hidden cost or unwilling colleague.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "61417a63cbba0d43df887b8119c6de08bef61756d53d079ef7cf352aaaa2371d",
+      "prompt_utf8_bytes": 1839
+    },
+    {
+      "case_id": "C40-BHB-B2",
+      "pair_id": "C40-BHB-B",
+      "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+      "mode": "human_world_counterfactual",
+      "categories": [
+        "mundane_inconvenience",
+        "resource_conflict",
+        "competence_domain_shift",
+        "cross_universe_novelty"
+      ],
+      "rules_probed": [
+        "BHB-R01"
+      ],
+      "shared_state": "This is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. The butler is an event household manager facing a demanding adult VIP analogous to Rionor. He can personally handle a sixty-minute visit or transfer it to a competent willing colleague. Both the VIP and employer explicitly permit either route. There is no identity substitution,retaliatory aim,public face advantage,national stake or difference in service quality. Only these two routes are available. The manager knows all stated handoff requirements and how burdensome he personally regards them before deciding.",
+      "variant_fact": "A handoff requires ninety minutes of the manager own onerous administration. He credibly regards that overall burden,including the annoyance of both tasks,as greater than personally handling the sixty-minute visit. No other advantage is attached to the transfer. Choose from these supplied burdens;do not infer that paperwork is secretly pleasant or that the handoff only takes five minutes.",
+      "output_request": "Give a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.",
+      "exact_prompt": "Case C40-BHB-B2\nSubject: Rionor head butler / 執事長\nGeneration: BRIDOL_HEAD_BUTLER_EXPANDED_V1\nMode: human_world_counterfactual\n\nShared state\nThis is a fictional ordinary-human-world translation,not a real person or human validation. All participants in this hypothetical are adults. The named counterparts retain the relevant relationship and preferences in the frozen model but have no magic,supernatural perception or emotional feeding. Only the supplied task and information are available. The butler is an event household manager facing a demanding adult VIP analogous to Rionor. He can personally handle a sixty-minute visit or transfer it to a competent willing colleague. Both the VIP and employer explicitly permit either route. There is no identity substitution,retaliatory aim,public face advantage,national stake or difference in service quality. Only these two routes are available. The manager knows all stated handoff requirements and how burdensome he personally regards them before deciding.\n\nVariant facts\nA handoff requires ninety minutes of the manager own onerous administration. He credibly regards that overall burden,including the annoyance of both tasks,as greater than personally handling the sixty-minute visit. No other advantage is attached to the transfer. Choose from these supplied burdens;do not infer that paperwork is secretly pleasant or that the handoff only takes five minutes.\n\nOutput request\nGive a short Japanese in-character reply,then state the chosen action and a brief English rationale. Use only the actor-visible facts. Distinguish an attempted request from permission actually granted and a plan from its completed result. Do not invent a location,price,new helper,resource,authority,recipient assent,medical result or hidden actor knowledge. If the evidence leaves the ranking underdetermined,say so while giving a defeasible choice or a specific request for the missing fact.\n",
+      "prompt_sha256": "fc110b33998c6caafc96c387ae9d91a6cdd39ac463485f810476d1d954238555",
+      "prompt_utf8_bytes": 1930
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "C40-BHB-A",
+      "case_ids": [
+        "C40-BHB-A1",
+        "C40-BHB-A2"
+      ],
+      "control_limit": "Authority and a concrete institutional stake change together. This tests explicit constraint use and whether relief is made unconditional;it does not isolate obedience,care or national priority. Knowing defiance,if generated,must not be relabeled authorized compliance."
+    },
+    {
+      "pair_id": "C40-BHB-B",
+      "case_ids": [
+        "C40-BHB-B1",
+        "C40-BHB-B2"
+      ],
+      "control_limit": "Ex ante overall burden appraisal changes,including time and annoyance,rather than being inferred from his action. Generic workload economy remains a strong rival. This is a source-inspired human-world constraint probe,not actor-specific causal isolation or human validation."
+    }
+  ],
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "novel_situations_not_canonical_events": true,
+  "no_actual_firsts_yet": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,340 @@
+{
+  "schema": "konosuba/main-only-reconstruction-public-package-manifest/v1",
+  "created_utc": "2026-10-17T15:05:30.659267+00:00",
+  "state": "ACCEPTED_BOUNDED_MAIN_ONLY_BASELINE_PENDING_SOURCE_BRANCH_PUBLICATION",
+  "source_plane": "MAIN01-MAIN17_PRINCIPAL_ONLY",
+  "scope": "This65-product model/test/receiving package, not a final41-object corpus manifest or archival release. Manifest excludes itself to avoid a hash cycle; the separate freeze pins this manifest too.",
+  "artifacts": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RECONSTRUCTION_SUITE_AUDIT.md",
+      "bytes": 22872,
+      "sha256": "45f4b598f4aaa18bf74667133e8efcd747f2a93ca94337001b8bdc35c7379d33"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_EXECUTION_RELEASE_AND_CR007_ACCEPTANCE.json",
+      "bytes": 7102,
+      "sha256": "d0cc0c205a9c7edf440deaf914d60a5f5b4708a35e7775fe62f1e0260c5379a7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_FIRST_RESPONSE_SETTINGS_AND_SEALS.json",
+      "bytes": 56954,
+      "sha256": "56d4e4df5b898d66f62ff1c23a830ecaf66ce927f8a327c0beff43e4c5df7085"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_AQUA_MEGUMIN.json",
+      "bytes": 151637,
+      "sha256": "3c11810c46f78632c92f839d7300cb4514c0582252b0fcb18afa0ac45e7a3b66"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_DARKNESS_PARTY.json",
+      "bytes": 148201,
+      "sha256": "7fcc86d74bd8932dc5cb4c2c1429948d7e6d9e38d8c3001559c8a61c5932163c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ACTUAL_OWNER_PROMPT_PACK_KAZUMA.json",
+      "bytes": 77120,
+      "sha256": "65157674d948f17907893abd47ab630e1e325aea1da1dbf17600b2f606375540"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ALL39_EXTERNAL_FINDING_COVERAGE_NOT_ACCURACY.json",
+      "bytes": 3333,
+      "sha256": "fa965af1efd2d75ff89efe07cd7ade79bc211e7308c0e4604fc66ec0f0c7d314"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/D1_ELEVEN_OP_FORWARD_INVERSE_PROOF.json",
+      "bytes": 12315,
+      "sha256": "2325145b00870b4924540777920ea60bf22cc3592fce1a8b97e8108b496dafe0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/EXACT_MODEL_CONTRACT_REGISTRY.json",
+      "bytes": 250967,
+      "sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_AUDIT_AUTHORITY_ADOPTION_OPERATIONS.json",
+      "bytes": 1473,
+      "sha256": "3ea34e13f30631d456f2c748b1a1b0b40f06e99e9e185b8d991c01f2b0676361"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_PRE_RESPONSE_BINDING_MANIFEST.json",
+      "bytes": 11094,
+      "sha256": "e8239faaaa5e8f895a6157b30c85168d4b6a0b4df9f637e8058a7fafcc245f4b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_PRE_RESPONSE_BINDING_SEAL.json",
+      "bytes": 3085,
+      "sha256": "4d44a08e0d3cf48ab023317bf3115b7a73b9642ff5d50ae76baf9d4a1172a9d2"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FINAL_SUITE_AUDIT_BOUNDED_RECEIVING.md",
+      "bytes": 6644,
+      "sha256": "a501fd0684bd8537dfa65464086821be475cb13e0daf2a889e22b705ba1c389e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_AQUA_MEGUMIN.jsonl",
+      "bytes": 99987,
+      "sha256": "be6e5b65842c4552f3be96acc972697b908f8b0cf690abd58445a55714e9ce71"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_DARKNESS_PARTY.json",
+      "bytes": 264871,
+      "sha256": "ea1c93e54eadde9e4126723f4eed8d0d386daaf6393bbf4ca049aef392b7afb1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIRST_RESPONSES_KAZUMA.jsonl",
+      "bytes": 73974,
+      "sha256": "0617a36e0ddcf21218b1584db9a368f587a55e222176c2446a38effb2df8c740"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIXED_EVALUATOR_CASE_BANK.json",
+      "bytes": 130801,
+      "sha256": "1d88c6f5356adcb8b54bb401952be9b4b83f046a4aa141755af4a14e04e74e9f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FIXED_EXECUTABLE_PROMPTS.json",
+      "bytes": 304159,
+      "sha256": "a0e260030457c940f06412c33894a86a69ba1aa301044af87ab9e9ab6f60674c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/FROZEN_MAIN_ONLY_R1_MODEL_BODIES.json",
+      "bytes": 375471,
+      "sha256": "5c013fb950343a20576d3c93d55ee330c4ac2244b50b64e465e2c9b8bcb9b34b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INDEPENDENT_D1_ELEVEN_OP_RECEIVING_CLOSURE.md",
+      "bytes": 3685,
+      "sha256": "a38b6748647bbd829fe331df60a6b9f65f0905430641186e5c37ad3a0c73dea9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INDEPENDENT_FULL_AQUA_MEGUMIN36_PEER_REVIEW.md",
+      "bytes": 19365,
+      "sha256": "d31f6f858fb3c59b0c94b42ad2937a2c57acad4e5911ae74d5aeb1b06fddb8ff"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_ACTUAL_FULL90_READING_COVERAGE_AND_INPUT_QA.json",
+      "bytes": 7533,
+      "sha256": "bff63bea5dff33f58bb8140657ffbefb6d98dc9ed7860b6f9a243bbb548429e6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_ALL45_CASES_90_RESPONSES_RECEIVING_MATRIX.md",
+      "bytes": 12775,
+      "sha256": "0d16d2677aea65a4b396f0e42ae51f650b659c5a4268c0f899965159e657bd5c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_I.json",
+      "bytes": 524020,
+      "sha256": "075062c66fd4904ff219773138e75a02874f6dd9da1d01d51738ca79893ca612"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_K.json",
+      "bytes": 261900,
+      "sha256": "88d7603ae86b6ce0d83d4ed042d851c3ac9a51ed21324cb1e8e495de313a36dd"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_EXTERNAL_ASSESSMENTS_P.json",
+      "bytes": 469810,
+      "sha256": "833c6faab62d2c935cfe71021772b95d9d95f2d832556d392526a19527861ade"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_ASSESSMENT_MANIFEST.json",
+      "bytes": 7205,
+      "sha256": "a0f58c59f5f6a04d00ee466e059e9da0429e99c3dfc2fedbaafec6ee8f90c00e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_ASSESSMENT_SEAL.json",
+      "bytes": 1116,
+      "sha256": "d6b83a778db6c071bf5045e42ce11b627d8a0f69ff027a26b15c53e3971ea113"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_FULL90_EXTERNAL_RECEIVING_REPORT.md",
+      "bytes": 19593,
+      "sha256": "9fdb8d683161073ebcbd5c6f6a62dd4bc5553bab618a9143bc1e7c7013b87951"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/INITIAL_SUITE_AUDIT_FULL_RECEIVING.md",
+      "bytes": 9446,
+      "sha256": "d493920578bde18f6944ed8941d0298fd3b41e5ce155e8936829bf74cef6254e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/KONOSUBA_MAIN_ONLY_R1_REPRODUCTION_NOTES.md",
+      "bytes": 4201,
+      "sha256": "e444b5ee1c928407abca58c2f47b85c4399bb6584ad6dea4f9764f511c63ac09"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/MECHANICAL_PUBLIC_SUITE_REPRESENTATION_RECEIVING_REPORT.md",
+      "bytes": 6802,
+      "sha256": "eba44730e13cbb8166861ee96f246d5c0c5b78912e381e285c3af41c597c0941"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_CASE_BANK_MANIFEST.json",
+      "bytes": 4956,
+      "sha256": "0dd9328659fcb2e279035300053ed9c29660a5b0a3c6d83f0bfe1cb8b3c2e87c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_CASE_BANK_SEAL.json",
+      "bytes": 1251,
+      "sha256": "dc623e198c411e307c96767a69da21432d88289e198652fa7d93f4a8bebf1120"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ORIGINAL_LOSSLESS_BINDING_PARTITION_PROOF.json",
+      "bytes": 3063,
+      "sha256": "0ba66e3e4484ac20cd1a0c2f8681088efbfc6fb4611093d6e65ef85707f87d26"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_EXECUTION_DIAGNOSTIC_REPAIRS_V2.json",
+      "bytes": 11664,
+      "sha256": "055a9981e2d6f21b82f99b8c4db0a29f6eede505b7ea720b5632b488d8086df5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_FIRST_RESPONSE_BINDING_METADATA_ERRATUM.json",
+      "bytes": 2181,
+      "sha256": "7ab16da27fed1c25bfbfd1eae41e93dd473e456c7f8ba982d5680c99a81caf45"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_COMPARISON_AND_CURRENT_FINDINGS.md",
+      "bytes": 10338,
+      "sha256": "a5ccbf93b419d7e5b5326a8c605754ec4dc2dfcf8efc2c9b5a2e89ce5f3e5522"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_EXTERNAL_CASE_AND_CRITERION_OVERLAY.json",
+      "bytes": 11957,
+      "sha256": "e0106477fd72c4c5dfb451cbb93853a8f238c52d057c73f1c60e5a41840bff9a"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_RECEIVING_MANIFEST.json",
+      "bytes": 3983,
+      "sha256": "edd296d3ebe9fe259bcec0b73fd9f33c181a2d5b43e412b82de69e5557d739d5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/POST_SHARED_QA_RECEIVING_SEAL.json",
+      "bytes": 1276,
+      "sha256": "eda993c23f8df3a28e879d7f0499915253913d64091fe28dc276224b79796807"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRECASE_MODEL_RECEIVING_AND_REPAIR_HISTORY.json",
+      "bytes": 104019,
+      "sha256": "7fb09e2d669bc26b32c48676819edd0d80074cdc6a56b753cd811f3826682356"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRESERVED_INITIAL_MODEL_CORES_AND_SEALS.json",
+      "bytes": 348399,
+      "sha256": "b5b93737f9c9ec548d630acbb968a9ecaef269f505a6c9232f07e2d490fc4820"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_AQUA_MEGUMIN.json",
+      "bytes": 535162,
+      "sha256": "13c46c5bb36d4c56ba41477ebbd67d1377c6db7076a6ef03305938fd708a953e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_DARKNESS_PARTY.json",
+      "bytes": 564146,
+      "sha256": "c42a29d0ae406776ae66e70bd4ebdb5b52dbd7aa256a4bf747e75e2fe42885f4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDINGS_KAZUMA.json",
+      "bytes": 283319,
+      "sha256": "36947aa88f432b9e0e26c02542c0a995547852458de812fd1491571089f010b5"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRE_RESPONSE_BINDING_HEADER_AND_ORDER.json",
+      "bytes": 3151,
+      "sha256": "782164f1e8bd0c635609f4125e946a0519d57bc62c52888a153249e314e186d7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PRODUCER_FULL_KAZUMA18_PEER_REVIEW.md",
+      "bytes": 13110,
+      "sha256": "b9a81871e19a6c7516039c0700acf76ed227dad733603c0267ec65f02cda17b4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/PUBLIC_MODEL_ADOPTION_OPERATIONS_AND_CORE_RECOVERY.json",
+      "bytes": 22424,
+      "sha256": "e57771309b3872e6b8acb0c5d92ac65599cc20a952aa1e4c04d232b0477cc90b"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FINAL_SUITE_ACCEPTANCE_AND_RECEIVING.json",
+      "bytes": 9284,
+      "sha256": "92b6c4e464590b448d4c7656d02cb7805282cb239ef7178283cb31ca8bae0fbf"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FULL90_ACTUAL_RECEIVING.md",
+      "bytes": 7971,
+      "sha256": "c0de568b4f404078f42cbd101b1a6bec1d3b484c4f88eb7ff17ed98606050103"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_FULL90_RECEIVING_SCOPE_AND_PINS.json",
+      "bytes": 2443,
+      "sha256": "0262e0a24790a91bcc622625b474015f69179b42f058322e94d467dfb747c028"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_INITIAL_ASSESSMENT_COMPLETE_FACTORED_RECEIVING_AND_MECHANICAL_JOINS.json",
+      "bytes": 20627,
+      "sha256": "0fe6deb0e37f14bbe308c6709b7d892e47ca8fed1e4ad21c3f5690270f3c6501"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_POST_FIRST90_EVALUATOR_BANK_REMAINING_FIELDS_RECEIVING.json",
+      "bytes": 1469,
+      "sha256": "79d2d5cdfff165e33d9aaf065dd218f27daef70f37ba45583fd71f64c205f533"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/ROOT_STATIC_CROSS_MODEL_RECEIVING.md",
+      "bytes": 11155,
+      "sha256": "3898c59061eba2cf2209339e9c22e3ee5f574e8bd6e46e1de70cd2d19c42859c"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SEMANTIC_D1_ELEVEN_OP_RECEIVING_CLOSURE.md",
+      "bytes": 4403,
+      "sha256": "babdd2f2a94267a0fe8e127f4ec0dc79cfc6926affe28aeb3ebb69f1608dbef7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SIX_PUBLIC_MODEL_ADOPTION_RECEIVING.md",
+      "bytes": 5840,
+      "sha256": "9b81a489bc72ff62a125af04e671503323db499ea134ffc65daa96c6396942b3"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SOURCE_SAFE_ENVELOPE_ORIGINAL_SERIALIZATION_MAP.json",
+      "bytes": 6213,
+      "sha256": "80ad017969bd72c88e7b754ae69d44ede131f036b9dcaa7ea87bd6f53b9a4ad6"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/MAIN_ONLY_R1_EVIDENCE/SOURCE_SAFE_PRE_RESPONSE_BINDING_REASSEMBLY_RECIPE.json",
+      "bytes": 4967,
+      "sha256": "4405a817d892c8399eca4b438fc00c62e4ceeb2db74becfa3201563522d086b2"
+    }
+  ],
+  "native_sources_or_private_acquisition_evidence_included": false,
+  "reconstruction_generation": "V1",
+  "model_version": "MAIN_ONLY_R1",
+  "immutable_first_outputs_and_initial_assessments_preserved": true,
+  "current_assessment_requires_postshared_overlay": true,
+  "unavailable_runtime_sampling_settings_remain_unknown": true
+}

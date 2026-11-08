@@ -1,0 +1,438 @@
+{
+  "schema": "MOMOI_CURRENT_PUBLIC12_CUSTODY_NAVIGATION_AND_HEADER_AUTHORITIES_V1",
+  "artifact_id": "MOMOI_CURRENT_PUBLIC_NAV_20261103_V1",
+  "preparation_scope": {
+    "metadata_prepared": "2026-11-03",
+    "role": "C-only metadata proposal, using actually adopted privateV4; distinct public-byte QA and ROOT composed-byte adoption remain separate actual gates.",
+    "people_and_roles": "Original body/new105 author /root/publishing_shared7_review; original component and finite V4 reviewer /root/next_cast_source_preparation; this new reporter/composer /root/current_preflight_requirements; actual ROOT private8 adoption is separately attributed. No fresh independent literary review, source inspection or cryptographic ROOT signature is claimed.",
+    "source_grades": "Author3WHOLE715+3SELECTED503=1218; component peer6WHOLE1641; ROOT original body5WHOLE1189+FinalSELECTED150 and later selected162 separately. Frozen common105 original26WHOLE79SELECTED remains attributed. Metadata composition adds no primary/native/raw/AV/normal105 receiving.",
+    "historical_states": "Original BODYV2 header, new105NOT_AUTHORED and pending source/transport/review fields are complete dated creation history. OriginalV3 QA WITH_FINDINGS is not relabeled; currentfiniteV4 resolves the exact8 crown clauses and reuses the unchanged scope. PrivateROOT acceptance governs private8 only, not this public-byte proposal.",
+    "eight_crown_precision": "MOP102 was the direct custody error; the other seven actor/holder/collective precisions do not prove eight separate ownership acts. Collective recovery and Yuzu continued hold coexist with Momoi local win, reassurance, friendship, cleaning and play; her participation is not erased.",
+    "finite_actors": "Momoi gives the console TO Midori; probably-first remains tentative. Midori observes missing chip damage; Alice offers the bug hypothesis; Yuzu volunteers the later match and owns the unwanted celebrity afterstate. Alice invites Toki; club refusal and Toki later friend-choice remain distinct. Neru report, handover, payment and new game are separate endpoints.",
+    "ordinary_value": "Play, stories, sweets, drink, softness, naps, console memories, craft, service and chosen company retain intrinsic value independent of crisis payoff or finished product. Actual discomfort, refusal and unfinished work remain contrary evidence.",
+    "identity_and_scope": "One existing P3-CHAR-MOMOI/home54/F121, BA_PERSON_MOMOI variants13011/10094, no mandatory inside named duty, extraREL, identity join or registry repair.",
+    "ROOT_private_projection": "Only mechanical /checks array may be omitted from public ROOT report with exact ordered count/hash, private whole receipt and original member order; all12 ROOT warrants and every other member survive. The separate1202071 proof is only an existing metadata-bound opaque private witness, never read or copied here.",
+    "live_current_state": "Reported baseline152/355 and19/29 remains unchanged; next178. Currentmain/owner instructions govern publication and merges. Original October merge-reserved strings remain dated history. This preparation performs no R/shared/Git/provider operation.",
+    "gaps_models_credit": "All14 original gaps remainOPEN/models0; no new count, source admission, named/extraREL, identity, install/publication/runtime or merge credit."
+  },
+  "exact_current_first10_nonself_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+      "bytes": 29862,
+      "sha256": "c680cdf19b1816700e00fb25952499803e5e4cea66f3746bf7828607eb5cb99c",
+      "git_blob_oid_of_actual_bytes": "89931eaf7c2d1b123abba4e2f9b4ede1e7f46515"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP000_MOP035_V1.json",
+      "bytes": 502620,
+      "sha256": "9e51d97b2aeb02ad33fa0d53ce2af8f850367107d96944b83abec0e7894508e8",
+      "git_blob_oid_of_actual_bytes": "127f8e9da4bd6bb11400b110878787a246d5d2df"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP036_MOP070_V1.json",
+      "bytes": 627239,
+      "sha256": "2ac8355598066b779e0acf31af63d0258a2f1cf1d6aaae9002bd54e78dc3df41",
+      "git_blob_oid_of_actual_bytes": "4ff18b32c52cf6522a14f5219db525b4ab0df214"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP071_MOP104_V1.json",
+      "bytes": 812110,
+      "sha256": "3180ca6a65ffe25adb25049e35a7b71bbacb83894d39badd0ee90d96793439f9",
+      "git_blob_oid_of_actual_bytes": "8d9eb3bbd934d31669c77729709c811ed0dc7098"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_SOURCE6_COMPLETE12_QUESTIONS_GRADE_AND_CURRENT_QUALIFIERS_V1.json",
+      "bytes": 33277,
+      "sha256": "b5402ebdd5b954e25f0029200241d356a699fcc0f7094c2a7886a3f356da021f",
+      "git_blob_oid_of_actual_bytes": "94244448a435d50adf83800ac5be6f22d855528a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_COMPLETE_LITERAL60_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 493639,
+      "sha256": "276fea235a05ddc1221e8fdfd189074caa7bec151401d639d2aeed62a380c573",
+      "git_blob_oid_of_actual_bytes": "2e1d19a160452bd0940920e73564301a23733250"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "bytes": 330053,
+      "sha256": "1448b1d663460f2be8a34707d92fd7adff2bb17a53d32d65e9c931383e841bbb",
+      "git_blob_oid_of_actual_bytes": "071c8c1448b400efb6d03764feef6fa3cd9e3178"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "bytes": 17334,
+      "sha256": "703460d458a9e2404aeb61814d0f3b903143128b52bbf7886060b34fffe84424",
+      "git_blob_oid_of_actual_bytes": "b41cfdbaef59feada8476fa9e178e6571099a71f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+      "bytes": 775807,
+      "sha256": "1db155db31d9e8a33940b9d9101ccee00fec8bf61331db4d6e633560af8fc3cb",
+      "git_blob_oid_of_actual_bytes": "1a3d017779e1f699132149f4e0ecb4b0b7838e3a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+      "bytes": 36865,
+      "sha256": "359706d9b5fc78be90ff6425ba822d3b13bda0d7941331d0d4aeca1bc2cad997",
+      "git_blob_oid_of_actual_bytes": "e40582cd1df42d17174391c5e3f9cade143eab97"
+    }
+  ],
+  "current_header_authority_map": [
+    {
+      "header_witness_id": "ROOT_MOMOI_PRIVATE_V4_SEMANTIC_ADOPTION_20261015_V1",
+      "original_tuple": {
+        "bytes": 438078,
+        "sha256": "7561297d17a969ac28e1d28325aaabda4aa380d02fbf4aa2675c03fe39f7ed11",
+        "git_blob_oid_of_actual_bytes": "59bc72ea7b3dc0288c0a72eb7e1a17e5f14ec5de"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ACTUAL_ROOT_PRIVATE_V4_SEMANTIC_ADOPTION_PUBLIC_REPORT_V1.json",
+        "bytes": 36865,
+        "sha256": "359706d9b5fc78be90ff6425ba822d3b13bda0d7941331d0d4aeca1bc2cad997",
+        "git_blob_oid_of_actual_bytes": "e40582cd1df42d17174391c5e3f9cade143eab97"
+      },
+      "role": "Prior actual private8 acceptance only, not this public12 byte acceptance"
+    },
+    {
+      "header_witness_id": "MOMOI_PRIOR_DISTINCT_COMPONENT_REVIEW_WITH_V4_CROWN_QUALIFICATION_V1",
+      "original_V3_tuple": {
+        "bytes": 745745,
+        "sha256": "3689bc74197dcfca6f29b0eea64e1f1e155184ae6216f50b9fa9fcb40116e66b",
+        "git_blob_oid_of_actual_bytes": "c6cf19be1110ca82a43ab1c6969eec83e974c11c"
+      },
+      "finite_V4_tuple": {
+        "bytes": 34577,
+        "sha256": "97ca74c575717e0e626a23fdcdd82a7980fb642daf5fff43e76645c5bd9caab1",
+        "git_blob_oid_of_actual_bytes": "b97502c9814f7912e0a4eac02cfb9c2e58957ece"
+      },
+      "current_public_report": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_PRIOR_DISTINCT_COMPLETE_COMPONENT_REVIEW_TRUTHFUL_INPUT_REPORT_V1.json",
+        "bytes": 775807,
+        "sha256": "1db155db31d9e8a33940b9d9101ccee00fec8bf61331db4d6e633560af8fc3cb",
+        "git_blob_oid_of_actual_bytes": "1a3d017779e1f699132149f4e0ecb4b0b7838e3a"
+      },
+      "role": "Complete prior V3 WITH_FINDINGS plus exact finite V4 current resolution, reported by a new composer; no new independent public-byte QA"
+    }
+  ],
+  "complete_original8_review_basis": [
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_0",
+      "tuple": {
+        "bytes": 28571,
+        "sha256": "22b2c44b6c90b63f8389866d01aa95a31a8dd7fa8c5b1ac0a9e4e95201c6d597",
+        "git_blob_oid_of_actual_bytes": "d8f6fdbd97a0b1349c75b62c452186ad56e4e72c"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_1",
+      "tuple": {
+        "bytes": 502785,
+        "sha256": "a2c862842e03664d1d1ac0124bfe14d845cba997a3dbe82e1cf5d3e8376847d0",
+        "git_blob_oid_of_actual_bytes": "4324004f606b5082058476398d91aef5713cb870"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_2",
+      "tuple": {
+        "bytes": 627404,
+        "sha256": "21f1c2d8aa6a5f7675dfa7397efabf11f55a662f5714277b17ec0175db7fc433",
+        "git_blob_oid_of_actual_bytes": "e888ebdae3526ee25c8ec53362aba60d6a38b4b2"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_3",
+      "tuple": {
+        "bytes": 812275,
+        "sha256": "8fb1afdb2ab45b5d3c7863a3325f527afcf5739df83e995319776ebd773509a6",
+        "git_blob_oid_of_actual_bytes": "53451cd06e1b4490b9f7cb6c19410d0cb2ef68ea"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_4",
+      "tuple": {
+        "bytes": 36573,
+        "sha256": "dbc867bdd3646c17fb96b2512f83d7eaa6177ec5afa4fa9b1e149df951e09b2e",
+        "git_blob_oid_of_actual_bytes": "2d3330c0a642824856612fc179cb56996018ac8b"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_5",
+      "tuple": {
+        "bytes": 460773,
+        "sha256": "03fd5dd81081a4512ce14188be2013c3c663fc2fde6a9250c2cf736c7b7f7d63",
+        "git_blob_oid_of_actual_bytes": "06055fc769f1d9fa62ccd48852d00958a318226b"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_6",
+      "tuple": {
+        "bytes": 345858,
+        "sha256": "dc7e57617a13eec2489e8074124dab871535d3b04f03d775a8219febbf358fcd",
+        "git_blob_oid_of_actual_bytes": "6b912c3fc7a2394d65c275879fb9c614b95d212a"
+      }
+    },
+    {
+      "private_witness_id": "MOMOI_ORIGINAL_PRIVATE8_COMPONENT_7",
+      "tuple": {
+        "bytes": 19626,
+        "sha256": "197de4e4a81e743759be0ac71e6aeeca51afa8ad23d1310eea753ecfa3d27d62",
+        "git_blob_oid_of_actual_bytes": "50f51c09fe9e39d76fc4dd279dbd50a10710f500"
+      }
+    }
+  ],
+  "original14_and20_recovery_contract": {
+    "original14_count": 14,
+    "marker_substitutions": 315,
+    "original20_count": 20,
+    "rule": "All original private8, fourteen exact ordered raw templates and twenty immutable raw copies retained privately; complete current source record payloads and public metadata inverse preserve all original fields, key order and hashes. Their custody does not grant source reading."
+  },
+  "canonical_alias_declarations": [
+    {
+      "private_literal_sha256": "02dae7596f9de1e8e8b5ad2b576584e69c6cea734b6aad8525e677c53a769d85",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MOMOI_CHARACTER_MONOGRAPH.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "ce574aa6815d6edd5c046d7b34ecfc6dd23627cf9bae48e2eab35a84ebee744f",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP000_MOP035_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "7c87237cf3f8d55e4d8cd9820b507898177adfaa5c5e7f24f0ce5d2b0ac9d28a",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP036_MOP070_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "88f6b715437ec847770cde598699349c4e5a1cec8343bde23b0a89f8005cd749",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSES_MOP071_MOP104_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "87ff5d4076bf4449ca2d4c9288a28b50aab3dd454dce9ff250370a2d156a5340",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_SOURCE6_COMPLETE12_QUESTIONS_GRADE_AND_CURRENT_QUALIFIERS_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "932643e22d075b59f4fdfa6a179b04f30b3dec7d492224b8c86589c267add503",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_COMPLETE_LITERAL60_SOURCE_QUESTION_PURPOSE_RIVAL_END_GAP_REGISTER_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "2ca63e1b8c4c1a996bd56c0091f2891cb372c45187a44157abdad89bf08b94c2",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_ALL105_NEW_PURPOSE_EXACT_PART_BODY_RELATION_INDEX_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "d986a420b97dcffe8b507a9010551f488070f67d997e7a371b12881005a8630f",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MOMOI_CHARACTER_RECEIVING_20261103_V1/MOMOI_CURRENT_EXACT8_ORIGINAL_CUSTODY_AND_CURRENT_GRAPH_TRANSPORT_V1.json",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "be5bef013b43d9a099ad87870880e747eb617f9bcdae0c45d4636c5ba6446f80",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MOMOI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "8767fd1beab7f287ef47a55b8d0a5ffa4bdb74409eca30eb07f6f0918ee27459",
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "ac3c7204f8444f36c8148de37fcb4cb07ef067b50dee761ada520effc32ed0b0",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "9717830539840ab072f328ca5849f064fe0fec69805a85ec4062fa408f9e5261",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "62d731d2bca9876c8895dd17e4fa3fc310b0f15959340e781d2e5ff93d4f2d0f",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    },
+    {
+      "private_literal_sha256": "7760c31e6d63c93dee15be9ab92a86939ada2a4532d5ab50ec6170df6de44c22",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "role": "Only exact declared current component or explicit source6 route; no guessed registry/private9 alias"
+    }
+  ],
+  "opaque_private_delivery_witnesses": [
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_924f23bf0b914b6e5ec04aedc62f8edbe6bd6eb9ff72e07d43285dba1be80799",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_38dcca42a589e8fc99f17ffdf6aab04077bd37443f3eba431a6dfb0772f831b1",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_b6390cc6ff59a91b9d713706ad524aacc7f7dd3b424ea2371f7c94bb6f5cd8f6",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_aa8112637d3614e05a9366823e0b765313425121c9500c935b2e68359394b470",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_38d5b85d2f6777303af4fe7defdbf0bf5814afd04830a8c0d6e7b9138ba92b96",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_3c1a8d94a0cbf079ab211bb9a63389d9a48db837f2ed254eaea8770e3ee38b82",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_b7f574f421c2646e1846f0586090e5d1cd9bd9517d814872c6cb50b1d265baa9",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_32d0bef4a8c861792b6cca6a12e5242d1c7c2e4fc6b672ff6795f8fd95abd8ba",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_02dae7596f9de1e8e8b5ad2b576584e69c6cea734b6aad8525e677c53a769d85",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_bafb431f7b06c356a12747e41976ee954608d1b3be8dbcba4447697405c5161f",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_51c5f315dec027ff3a3203f8c92fa515942ffdd5abe86748e9a342f9605a484f",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_d8e91355ec0d42e50ac1ac26d0de70c4596d951f801215a3237bd27a3e85a002",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_2fe6eadc14495f7c0e289637084d07b6feac751ede6b58d8c277d35ff9de9790",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_b6d1b35af2a6efa94d7143f9650718e6b9e85d2a510c367ac9be1dffe505b444",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_ff8c31278e9b6a2b6c6b057319ed8c87368d0af1f1638ccb659b252dedf64f09",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_ab4718355738b26970b129eea8b0ec1f4a957dd7c374cf54939bfb345e1d9a2b",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_4eb1fa701eceb7adc2b7a42655c19fc74f2371814399f45d31be52c2b5736417",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_211c1ab801ac3c4929f8b12c832095ec10fa6808499546355893df92230e1e7a",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_8e318ad93ce0d0e05007101908a30b8002d109eeeea944e6fc5671bd88cb98de",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_219ad52e535d574af49c9f5e0a69a6482dcbbebadea05cd175f543f417a6f1e6",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_84514a23be903bca822ed35854eefd755ec1edf718aa6e55cfe5c053e0e70821",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_376395a3bc8b2594be3d0dc808a63120c5e56870f9ea35e538b3af4ea3411ae1",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_8e0f6d00c3a9e1030f94e6a2210cde46973f972134321c5476a5d4b1a3d64553",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_df10b3a0ed51ac82c0899d78c41448afea9a36c274bb77ad29e32a6ef32dc4c6",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_2f191568ef8dc11a0a39f85dd84e59b03ec0f5aafb55af28e24964cb3f6b4ae9",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_bed074e1e0377af1f96d904576f1b957ad6cec039b00722f908de52317756c96",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_4545d64afa15b140e74f36e325cf78d62ec6e3a156567c5097bec6794dc48006",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_5d00d4aabedb862937baa1cca0a5db609bb4a3f5b292e3b4f6213bccffd1b686",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_1b96d2fb7e29617a43157a688537b8be80d320d5f06e979d47abc0fc299cad1a",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_c3a12452d235cdc246782ff15477523082426c7f5b6320d61fcd5458c1c96d15",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_bd7dbe34b21d0a30d1afb32dce19b6fd159bf28b0e82485bda1475435d1a4eb1",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_c938fd1a410bd3cbcbade303425caf3caccbd59daee6327472dc567a95f630a9",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_940109a10cbd86154baa360d545bc85b6d0d99f6f147fe8d3c4736d18fcd4abb",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_99dfc8aa19114ead68b72cd0a944414c124e7c3608c3bfee7657a5d2ce9fe83c",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_0198b751807674fbd38defd0869e50e8fd6962bb21d30c3f6825f6b906fe8e95",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_276bbf982c12df24477d494111d08c883a0fa985f29931177a05f57a82e51aa8",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_8887c6f3ec638279c886832396d8bac20518af28f9d7b154bda38ea7406038dd",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_e7380a5bfe9f82bc338d8be39dce1aef6fbb20266dee314b68a94d85651ffb0a",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_9a8cb6ffcad0e844004c5770b7a25014d4f93f7291744f20e18d7d28f210e8e3",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_40d7ca0363db941772b8c7d77637c4b928467b6ff5d7587f309240686dfd844e",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_ca96e3c6e77c7719543bdd39741be96ab21c994db53acc262a2c46f01d8478f3",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_83da3d7a3a2e55532a65a983c13a9c5c2efbe47e98b4bbe7a9365f2356a12c72",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    },
+    {
+      "private_witness_id": "private-witness:MOMOI_LOCATION_ea4f3dc40c4f1e53befce09f1716adcd4189c03f319716c4f030e8e2f16d8845",
+      "role": "Existing declared delivery location only; no target access/validation by alias"
+    }
+  ],
+  "selfpin_rule": "NAV binds only first10; external final manifest binds12. No selfhash cycle.",
+  "all14_original_gaps": "OPEN",
+  "models": 0
+}

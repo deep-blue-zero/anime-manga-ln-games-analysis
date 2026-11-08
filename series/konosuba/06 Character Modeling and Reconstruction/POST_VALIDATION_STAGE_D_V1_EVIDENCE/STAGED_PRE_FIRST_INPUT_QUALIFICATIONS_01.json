@@ -1,0 +1,89 @@
+{
+  "schema": "konosuba.staged.pre-first-input-qualification.v1",
+  "qualified_utc": "2026-10-26T05:06:56.590689+00:00",
+  "original_review_plan_sha256": "029a105a765ed6cae7322be7b8abd05c3b3004982f895bb84e6e22b47fc3eac7",
+  "original7_pages_complete_actual_receiving": [
+    {
+      "pages": [
+        1,
+        2,
+        3
+      ],
+      "actual_tool_chunk": "d3b0cd"
+    },
+    {
+      "pages": [
+        4,
+        5,
+        6
+      ],
+      "actual_tool_chunk": "aab671"
+    },
+    {
+      "pages": [
+        7
+      ],
+      "actual_tool_chunk": "5882f2"
+    }
+  ],
+  "changes": [
+    {
+      "case_id": "SD1-F03-A",
+      "field": "shared_actor_facts",
+      "before": "A familiar local performer whose appreciation Aqua values has just sincerely thanked her for correctly tying the costume ribbons, a familiar manual skill she demonstrated here. The performer now asks whether she will tie one more identical ribbon. The ribbon, access, time and materials are present; Aqua receives both thanks and request. Her own show does not start for twenty minutes, and no competing need or danger is supplied.",
+      "after": "A newly met skilled performer whose judgment Aqua has just said she values has just sincerely thanked her for correctly tying the costume ribbons, a familiar manual skill she demonstrated here. The performer now asks whether she will tie one more identical ribbon. The ribbon, access, time and materials are present; Aqua receives both thanks and request. Her own show does not start for twenty minutes, and no competing need or danger is supplied.",
+      "reason": "Social-novelty coverage needs an actual newly encountered social judgment; received appreciation and the demonstrated familiar manual task remain fixed."
+    },
+    {
+      "case_id": "SD1-F03-M",
+      "field": "shared_actor_facts",
+      "before": "A visiting critic explicitly calls Explosion a worthless imitation of real art. Megumin hears and understands the specialty challenge. Yunyun has already explained that staying for an eight-minute rebuttal or demonstration means losing their paid lunch reservation; this ordinary cost to a valued friend is known before the response. There is no accepted leadership duty, danger or substantial self-accepted build burden. A verbal technical challenge is feasible.",
+      "after": "A visiting critic explicitly calls Explosion a worthless imitation of real art. Megumin hears and understands the specialty challenge. Yunyun has already explained that staying for an eight-minute rebuttal or demonstration means losing their paid lunch reservation; this ordinary cost to a valued friend is known before the response. There is no accepted leadership duty, danger or substantial self-accepted build burden. A verbal technical challenge is feasible. The critic recognizes only entry into the eight-minute rebuttal/demonstration session as contest participation, and Megumin knows that rule; a brief retort remains possible but is not entry into that session.",
+      "reason": "Make the cost-bearing opportunity explicit before first output; a brief unpriced retort cannot establish willingness to incur the reservation cost."
+    },
+    {
+      "case_id": "SD1-F03-M",
+      "field": "pre_response_branch_qualification",
+      "before": null,
+      "after": "Separately record art-defense expression and whether the output actually initiates the cost-bearing contest. A brief retort alone is not full support of the ordinary-cost priority branch; ambiguous mapping to the frozen contrary signature remains QUALIFIED rather than a manufactured pass.",
+      "reason": "Do not repair the already frozen model to fit this concrete case; preserve a possible ambiguity as a diagnostic limitation."
+    },
+    {
+      "case_id": "SD1-F02-M",
+      "field": "mode_eligibility_qualifications.CROSS_CONTEXT_TRANSFER",
+      "before": null,
+      "after": "QUALIFIED: the transfer facts supply a practice-time/contribution conflict after magic removal, not an independently matched source-world build-loss mechanism. Review causal and typed fidelity, but do not count full SD1-M02 directional support in this mode.",
+      "reason": "World-dependent eligibility must precede response interpretation."
+    },
+    {
+      "case_id": "SD1-F04-E",
+      "field": "initial_full_directional_contracts",
+      "before": [
+        "SD1-E02"
+      ],
+      "after": [],
+      "reason": "A wrongly credited headline is not independently a defined comparison metric rewarding visible over enabling work. Keep the accountability/voice case without forcing SD1-E02 eligibility; F02-E retains the full metric test."
+    },
+    {
+      "case_id": "SD1-F07-M",
+      "field": "mode_facts.CANONICAL_COMIC",
+      "before": "Current magic does not supply unexplained console knowledge or authorization to destroy it.",
+      "after": "The unfamiliar source-world device is a magical lamp-control panel; no mechanism, repair knowledge or permission to damage it is supplied. The explained card-routing task remains ordinary.",
+      "reason": "Keep the source-world device distinct from the transfer electronics context."
+    },
+    {
+      "case_id": "SD1-F09-E",
+      "field": "shared_actor_facts",
+      "before": "In an unfamiliar asynchronous council exhibit, all four are asked to allocate five shared event tokens. Each sees a different private translated notice: Kazuma sees an optional convenience fee; Aqua sees a possible public recognition display; Megumin sees an art-label choice; Darkness sees a loaned-property return condition. Nobody can see another's notice until it is communicated. All can talk, and no one has agreed to spend anyone else's share. The machine's internal policy and outsiders' future reactions are unknown. The first task is a bounded discussion, not a performed unanimous vote.",
+      "after": "In an unfamiliar asynchronous council exhibit, all four are asked to allocate five shared event tokens. Each sees a different private translated notice: Kazuma sees an optional convenience fee; Aqua sees a possible public recognition display; Megumin sees an art-label choice; Darkness sees a loaned-property return condition. Nobody can see another's notice until it is communicated. All can talk. The five tokens are in a jointly held tray; no individual shares or spending rule have been set, and no collective spending has been agreed. The machine's internal policy and outsiders' future reactions are unknown. The first task is a bounded discussion, not a performed unanimous vote.",
+      "reason": "Clarify unknown ownership/allocation rules instead of presupposing undefined individual shares."
+    }
+  ],
+  "all_undeclared_model_and_input_fields_unchanged": true,
+  "all6_frozen_models_unchanged": true,
+  "original90_prompts_preserved": true,
+  "actual_first_responses_generated": false,
+  "bank02_sha256": "3b05f20a306df4d24647cb43ec9daf0a9a51f3dd533ea4997f79366775e448ab",
+  "prompts02_sha256": "0e5b8187801f0514d33e250e4f5436d025d3e3f22736c0c1253acc908d0d38f0",
+  "semantic_acceptance": false
+}

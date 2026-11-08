@@ -1,0 +1,597 @@
+{
+  "schema": "BLUE_ARCHIVE_HEINE_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSAL_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 37146,
+      "sha256": "79129be14481621ceaea78fee573f5be4e159cf8d18f9116e9be2dab3271a0de",
+      "git_blob_oid_of_actual_bytes": "04976a4ec6cb6c2fbf0eba6eea96ef7b8da8706a"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 40862,
+      "sha256": "cfadb1520e6abff16a0f0ec3ad6bff2adf14078c51398c644564565ea83af7bf",
+      "git_blob_oid_of_actual_bytes": "5329c49a667d6c1e17187daa65a2c555879c6bdd"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: character_monograph_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          8
+        ],
+        "canonical_lines": [
+          4,
+          8
+        ],
+        "exact_unchanged_lines": [
+          "character_scope: \"Heine / literal ハイネ; source-local named officer, empty raw identity keys retained\"",
+          "required_package_id: P3-CHAR-M014",
+          "source_responsibility: P3-M014",
+          "mandatory_named_sections: []",
+          "analytical_grade: DEEP_SYNTHESIS_CANDIDATE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          9,
+          9
+        ],
+        "canonical_lines": [
+          9,
+          9
+        ],
+        "original_lines_complete_text": [
+          "status: C_ONLY_AUTHOR_DRAFT_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: C_ONLY_AUTHOR_DRAFT_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          10,
+          21
+        ],
+        "canonical_lines": [
+          10,
+          21
+        ],
+        "exact_unchanged_lines": [
+          "architecture: \"1.12 / section 7.1 / eleven dimensions\"",
+          "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "captured_normal_source_head: 5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "additional_episode_normal_source_head: ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "merged_main_boundary: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+          "japanese_source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "exposure: \"Retrospective familiarity and earlier personally complete accepted analytical arguments; no blind independence\"",
+          "source_credit: \"Admitted written analytical meaning; zero new primary/native/raw/QA/audiovisual receiving\"",
+          "identity_boundary: \"A058 is dated navigation to this home, not another person; no manufactured private/profile/variant or claimant join\"",
+          "applicability_boundary: \"105 source-owner role dispositions at declared adequate own prior and fresh connected scopes; no universal appearance/absence certificate\"",
+          "original_gap_status: \"All fourteen original stable gaps OPEN\""
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          22,
+          21
+        ],
+        "canonical_lines": [
+          22,
+          31
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HEINE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          22,
+          24
+        ],
+        "canonical_lines": [
+          32,
+          34
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Heine — injured trust, wanted play, and the limits of political revision"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          25,
+          24
+        ],
+        "canonical_lines": [
+          35,
+          38
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current reconciliation and fixed133 adoption boundary — 2026-10-11.** ROOT reconciled the local source at 16b038cc400805d15cfeb799d048e1d20ba9290d/tree 2e64442a6b80cea9d67143d690378bd01932cc88 with current main 87aeee05a161d716fe840a0dd5d5517d9c646df9. PR148 integrated published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246 at 150a85e49a2b6d5fbd0c402d06c3070ea945d0cd with exact whole-tree preservation. Current main contains128 integrated packages and the [seven PR152 corrections](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) govern applicable current interpretation. The earlier first25% milestone at89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 remains completed history. The separately accepted source128 automatic chain remains its dated source witness; no unreviewed current-main postmerge audit is claimed. This fixed five-package proposal still requires full ROOT installation, then its own publication/validation sequence:133=100character+16directedrelationship+5ensemble+12institution,13named unchanged; current published128/main128 and next178 stay separate. Original bodies, source grades and all14OPEN/model0 remain unchanged; the preceding proposal is preserved with full byte inverses.",
+          "",
+          "**Dated prior ROOT receiving and publication boundary.** The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HEINE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual bounded acceptance; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HEINE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains complete original bytes and inverse. Published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246/tree c43f5d62b651da352854278d8bf83d43389e46df has a separately bound complete ROOT-accepted source→housekeeping→actual-source final chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package129–133 proposal takes effect only through full ROOT installation, yielding133 (100character/16directedrelationship/5ensemble/12institution), with13 existing completed named duties unchanged. Later134+ is excluded. Required355/29duties across25parents/384homes, next178, all14 OPEN and model0 stay unchanged. Creation-time producer/source/custody/count statements remain dated history; transport grants no new primary/native/raw/QA/AV/performed/independent literary/identity/admission/scope/count/milestone credit. **Package-specific operative qualification:** Actual uncertain recollection belongs to S2V001C001E005u0031–0043. The broad account’s E008 survey wording remains a qualified historical locator, not another authenticated incident or global E008 absence. Current owner104 receipt/argument entities stay distinct; Aoi’s earliest unsaved draft remains unavailable. Heine’s requests, peer care and interrupted pleasures retain their own ends without borrowed ballots, repaired injury or performed future gateball."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          25,
+          170
+        ],
+        "canonical_lines": [
+          39,
+          184
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis",
+          "",
+          "**HE-C01.** Heine's distinctive literary responsibility is the conjunction of an embodied grievance, an ordinary life interrupted, and a political allegiance that can change when its supposed protector becomes answerable for that grievance. She initially repeats an explanation that makes Rin responsible for an attack; she later enters an arrest scene expecting Rin's supporters to be persecuting Kaya. The older conversation played there exposes a contradiction in Kaya's denial and a dismissive treatment of the injured Sports Office head. Heine identifies her injury and missed gateball, then demands impeachment. Her visible change matters without proving that her first judgment was reasonable, that her final judgment has completed legal force, or that she has become a universally reliable judge. [HE03 L40; HE_PLUS02 L28–38.]",
+          "",
+          "**HE-C02.** This thesis preserves a difficult distinction between the reality of a person's stake and the warrant for the explanation offered to her. Heine's reported hurt deserves attention, as does the gateball event she says she missed. Those facts do not establish Rin's responsibility. Kaya can exploit a genuine complaint by affirming a false account of who caused it. Conversely, that manipulation does not make Heine an empty device through which the reader learns Kaya's villainy: she returns with a protective interpretation, objects to insult, recognizes a contradiction and names the cost to her own life. She supplies the answer, while the teacher and Miyako provide conditions in which it can be made. [HE03 L38–44; HE_PLUS02 L32–40.]",
+          "",
+          "**HE-C03.** Food and play contribute independently of political utility. The long council meeting includes a parallel food exchange, and the recording later preserves Kaya's annoyance about meeting onigiri. The missed gateball is a wanted activity rather than an abstract loss of official productivity. These details give political harm a lived scale: time, company, hospitality and an occasion of play can be lost or treated with contempt. Their significance does not require assigning every disputed food turn to Heine, inventing that she made or ate a particular item, or proving that she eventually played again. The secure ordinary interests remain valuable at their own exact source grades. [HE03 L26, L40, L44; HE_PLUS02 L34.]",
+          "",
+          "## 2. Longitudinal state and development",
+          "",
+          "**HE-C04.** Within V004 Chapter 2, E007 gives the first relevant position. Kaya checks a document sent to the Sports Association; Heine reports that its recipients believe Rin forged documents and repeats the allegation that Rin arranged FOX's earlier assault to justify SRT closure. Kaya affirms the story. Heine recalls being hurt by a fox's arm lock. This is a situated combination of circulated accusation, trusted confirmation and remembered bodily cost, not a demonstrated independent investigation. The scene also precedes a vote whose tally it does not print. Repeating an accusation and belonging to the council do not establish Heine's actual ballot. [HE03 L38–44.]",
+          "",
+          "**HE-C05.** E013 supplies a smaller intervening action. Heine's narrow disclaimer about not being a Red Winter alumnus occurs during the failed effort to have Cherino recall demonstrators. It retains her own local answer instead of folding all officials into the same knowledge of school politics. The accepted account does not turn that disclaimer into a complete school biography or a formal order. The meeting continues through reported regulatory costs and diminishing support for Kaya; those council remarks are not an individually authenticated Heine vote or a record of everything she knows. The episode's later secret warhead bargain must not be installed in her mind merely because the reader sees it. [HE_PLUS01 L24–26, L30–40.]",
+          "",
+          "**HE-C06.** E023 makes revision visible. Heine still arrives defending Kaya, which prevents a retrospective account in which the public failures have already cured her allegiance. The body/ability insult, the played earlier conversation and her own recognition of injury and lost gateball form distinct stages. The recording is about the previous assault and projected office reorganization, rather than a recording of the current station-bomb scheme. Heine's impeachment demand is an actual changed response; formal impeachment is not an accomplished ending. This is a bounded shift in support, with the independent arrest already effected by Miyako. [HE_PLUS02 L28, L34, L38.]",
+          "",
+          "**HE-C07.** S2 V001 E005 supplies another situation of uncertain recognition, not a sequel that measures whether political revision permanently repaired her cognition. In a council encounter with the president-claiming visitor, Heine first confuses pink/green traits with Kaya and then guesses black hair for the president. Other colleagues also offer divergent recollections while socially accepting the visitor. The scene establishes inconsistent appearance memories and different knowledge positions; it does not diagnose Heine, authenticate the claimant, invalidate her earlier injury or undo her demand against Kaya. The exact source is E005 u0031–0043. E008 is the separate street survey and Mai lead; the broad account's placement of Heine's recollection in its E008 paragraph is qualified by the complete small owners. [HE_PLUS03 L18–28; HE_PLUS04 L20–28; HE02 L59, qualified.]",
+          "",
+          "## 3. Public and private self",
+          "",
+          "**HE-C08.** Heine's represented public self has personal stakes inside it. She speaks as a participant in council affairs and as someone harmed by the conduct under discussion. Her arm and missed sport are not an analyst's hidden explanation discovered behind the official mask: they are the reasons she actually brings into speech. That disclosure gives the accountability scene specificity without granting access to a complete private self. The source does not inspect all her inward motives, all prior encounters with Kaya, or a private confidence-building sequence with Sensei. The thesis therefore concerns how personal cost is voiced and politically interpreted in particular encounters. [HE03 L40; HE_PLUS02 L34.]",
+          "",
+          "**HE-C09.** Public disclosure, retrospective testimony and enacted private intimacy must remain separate. E023's playback represents an earlier Kaya–Yukino conversation for the current audience; Kaya's recorded contempt is not a thought Heine necessarily knew before hearing it. Heine's own recollection reports a bodily injury and missed event; it supplies neither an independent medical examination nor a complete account of treatment. The absence of a verified typed private family in this allocation limits the intimate channel that can be claimed. It does not make the monograph ineligible or make her ordinary interests dispensable. A main-story conversation can reveal a wanted life without becoming a fabricated bond episode. [HE_PLUS02 L34–38; original P3-M014 responsibility.]",
+          "",
+          "**HE-C10.** The small food scene also resists a clean public/private binary. Food exchange occurs alongside an eight-hour-plus council meeting, with named colleagues and unstable turn labels. It can be part of how people live together while working, while a later recording can show a powerful person's irritation with such mundane activity. The accepted evidence permits that contrast. It does not securely allocate every onigiri contribution, fine, taste, provider or eater to Heine. Keeping those limits protects the positive ordinary dimension instead of either discarding it for low stakes or inflating it into an intimate hospitality trait. [HE03 L26, L44; HE_PLUS02 L34.]",
+          "",
+          "## 4. School, club and institutional position",
+          "",
+          "**HE-C11.** Sports Association messaging and the recorded reference to the injured Sports Office head place Heine at the intersection of public representation and personal vulnerability. What concerns the institution can be felt by the person who speaks for or works within it. Kaya's earlier plan to reorganize the office also makes the relationship asymmetrical: the ally whom Heine defends has discussed altering the structure in which she belongs. The playback exposes that contradiction at the level of represented political intention. It does not show the reorganization completed or give Heine a new institutional appointment. [HE03 L40; HE_PLUS02 L34.]",
+          "",
+          "**HE-C12.** Official membership cannot supply an automatic share of every council action. Heine's document report, protective arrival and impeachment demand are individually warranted. Rin's resistance to coercive authority, Aoi's financial allegations or later apology, Ayumu's coordination, Miyako's detention and the council's wider procedural claims belong to their actual actors. The Final contextual account supplies a useful comparison between personal apology, communications restoration and future confidence processes; it does not independently give Heine each of those actions or assent to the whole crisis roster. Nor does E013's alumni disclaimer establish a school transfer, former enrollment history or a Gehenna/Red Winter identity join. [HE03 L28–40; HE_PLUS01 L24; HE04 L138–156, L175, L212.]",
+          "",
+          "**HE-C13.** Her most secure institutional development is an answer within a contested encounter, rather than completed reform of an office. Kaya is physically secured before Heine's demand; the charges and emergency exception are Miyako's asserted grounds. Heine's opposition can help make an alliance untenable without being the legal instrument that accomplishes detention or proving the lawfulness of its every basis. The monograph retains that finite agency. It also leaves unanswered how Sports Office work, injury accommodation, due process or later governance actually proceed. Those limits are different from denying the value of having changed her response. [HE_PLUS02 L20, L28, L34–40.]",
+          "",
+          "## 5. Ordinary life and intrinsic wanted ends",
+          "",
+          "**HE-C14.** Gateball gives the injury a consequence that cannot be expressed adequately as lost administrative efficiency. Heine says an event was missed. An occasion of sport is a finite wanted end, and missing it is a real cost in her testimony even if no lost championship, catastrophic wound or world-changing effect is established. The text does not require the reader to rank that cost above other harms to let it matter. Her complaint brings the body's ability to participate, time and anticipated company into the public scene. No later resumed match or full recovery is printed by the inspected arguments. [HE_PLUS02 L34.]",
+          "",
+          "**HE-C15.** This reading avoids treating ordinary activity as evidence used up once it explains a political turn. The missed event remains something she wanted whether or not it made her susceptible to Kaya's account or later anger. The meeting food likewise remains a way of sustaining an ordinary day in an exhausting setting. Kaya's recorded annoyance does not retrospectively turn every food exchange into an act of rebellion, nor does it give every colleague the same taste. The restraint is affirmative: preserve the food, time and sporting desire that the source actually affords, and retain uncertainty over who performed each fine act. [HE03 L26; HE_PLUS02 L34.]",
+          "",
+          "**HE-C16.** The sports comparisons in the 105-owner review widen this question without annexing other students' lives to Heine. Millennium's festival contains wanted participation, exercise aversion, redesign and worker fatigue; Trinity's festival contains distinct tastes, Hasumi's mixed enjoyment and Chihiro's inability to enjoy the day. Baseball supplies a real grand slam alongside the following-day refusal and failed ability claim. Those encounters make it untenable to count only victories or emergencies as meaningful ordinary evidence. They establish no Heine attendance or common sporting calendar. Her missed gateball remains her particular report, while the other participants' pleasure and refusal remain independent evidence about their own lives. [105 owners61 L73–86;62 L211–233, L253–259;89 L74–82.]",
+          "",
+          "## 6. Crisis behavior, agency and recipient costs",
+          "",
+          "**HE-C17.** The adverse case begins with the allegation Heine repeats. A narrative that sympathizes with her injury still has to preserve its consequence for Rin, the person falsely implicated by the explanation. Kaya's affirmation takes advantage of the complaint, but the complaint does not verify the alleged culprit. Heine's later appearance defending Kaya shows that this explanation has relational force. Her protective intention toward one person can contribute to misrecognition of another. The source gives no reason to declare that she acted from a wholly malicious essence, and no reason to treat sincere hurt as sufficient warrant for public accusation. [HE03 L40; HE_PLUS02 L34.]",
+          "",
+          "**HE-C18.** The change in E023 should retain the insult as well as the contradiction. Kaya's body/ability disparagement elicits challenges from Moe and Heine before the playback; the earlier conversation then exposes the disavowed attack, dismissive office treatment and onigiri irritation. Heine's response may involve indignation, personal betrayal and changed knowledge together. The accepted source does not isolate one of those as the sole internal cause. A pure rational-deliberation portrait and a pure wounded-vanity portrait each lose an actual part of the sequence. Recognizing that mixture is not a claim that all her later judgments are compromised. [HE_PLUS02 L34.]",
+          "",
+          "**HE-C19.** Other recipients retain independent agency and costs. Moe challenges the insult; Miyako secures Kaya and plays the supplied recording when Sensei asks; the teacher redirects Kaya's bargain toward harmed students. Rin's alleged guilt remains unproved, the harmed Sports Office head is not reduced to a generic victim, and Yukino's participation in the older conversation is not erased by FOX's later provision of evidence. The reader's access to the secret civilian-terror plan exceeds Heine's printed access. Nothing authorizes distributing that knowledge to her or making her personally accountable for every act of FOX, Kaiser or the council. [HE_PLUS01 L32–34; HE_PLUS02 L28–40.]",
+          "",
+          "**HE-C20.** Concrete achievements and open repair coexist. The attack fails at the represented level; Kaya is seized; Heine stops defending her and calls for impeachment. Those positive acts need not be weakened into mere possibilities. The file is not independently authenticated, the warhead's complete physical disposition is absent, an impeachment vote is unprinted, and the injury's clinical endpoint is unknown. The monograph can therefore credit a changed answer and interrupted harm while refusing a total safety, justice or recovery conclusion. [HE_PLUS02 L20, L24, L28, L34–40.]",
+          "",
+          "## 7. Sensei: public intervention and limited personal knowledge",
+          "",
+          "**HE-C21.** Sensei's relevant contribution is public and specific. The teacher declines Kaya's resource bargain as a solution, tells her to apologize to harmed students and asks Miyako to play the FOX-provided recording. The intervention allows Heine to hear a contradiction that bears on her own complaint. It is not an inspected private therapeutic encounter, an adult-authored verdict mechanically adopted by Heine, or a completed clinical rescue. The source's allocation of labor matters: the teacher requests, Miyako acts, FOX supplies, and Heine recognizes and demands. [HE_PLUS02 L32–38.]",
+          "",
+          "**HE-C22.** Accountability also requires care over which response is actually addressed to whom. Kaya promises an apology to anyone if Sensei asks and guesses Rin; the answer is still conditioned by her attempt to escape consequences. Sensei redirects the focus, but the scene does not print every harmed student's accepted apology or reconciliation. Heine's changed support is her own answer to the heard material. No romantic attachment, recurring private contact, completed consolation or reciprocal gift encounter with the teacher is established merely because Sensei is present in this public scene. [HE_PLUS02 L32–34.]",
+          "",
+          "**HE-C23.** In the claimant dispute, Sensei's unfamiliarity and preference for inquiry are distinct from Heine's uncertain appearance memories. The teacher does not certify the original president's appearance, and Heine's guesses cannot borrow that authority. The later E008 search has its own branches, named witnesses, secondhand lead and incomplete results; those are not a newly performed Heine–Sensei interview. Keeping the adult's inward, spoken and alternative channels visible prevents a general savior or omniscient-investigator frame from swallowing the source's differentiated judgments. [HE_PLUS03 L22–28; HE_PLUS04 L20–28.]",
+          "",
+          "## 8. Major peers, collaborators and independent recipients",
+          "",
+          "**HE-C24.** Heine→Kaya changes through a finite relationship of belief, defense and opposition. Kaya→Heine has a different trajectory at the inspected level: affirming an accusation, receiving expected rescue, disparaging body/ability, and being exposed through older speech about the assault and office. These are not reciprocal steps in mutual trust development. The changing relation is supported even though the text supplies no complete earlier friendship, promise chain or final apology acceptance. The reorganization intention and injury dismissal make office power relevant; the personal gateball complaint makes its cost particular. [HE03 L40; HE_PLUS02 L34.]",
+          "",
+          "**HE-C25.** Heine→Rin is narrower. E007 supplies a repeated allegation; E023 initially interprets Rin's supporters as persecutors. The later impeachment demand turns on Kaya, but the inspected argument does not print Heine personally apologizing to Rin, withdrawing every allegation in a direct exchange, or receiving Rin's forgiveness. A change in whom she opposes is meaningful without being complete recipient repair. Rin's other personal reconciliations in Final belong to their named partners and cannot fill this missing dyadic ending. [HE03 L40; HE_PLUS02 L34; HE04 L156, L212.]",
+          "",
+          "**HE-C26.** FOX, Miyako and Moe cannot be interchangeable functions. Heine recalls a fox's arm lock; FOX supplies a recording of an earlier conversation; Miyako plays it and effects the arrest; Moe and Heine separately challenge the insult. The apparent category link does not identify a particular operative as the source of the arm injury, authenticate the file or make every FOX member equally knowledgeable. Likewise, no gratitude, absolution or new personal friendship toward FOX is printed by Heine's response. Their present evidentiary contribution and earlier harmful conduct can both matter. [HE03 L40, L44; HE01 L343; HE_PLUS02 L28, L34–40.]",
+          "",
+          "**HE-C27.** Aoi, Sumomo, Momoka and Ayumu provide a council peer setting without becoming extensions of Heine. The food scene has its addressed-label seams; the claimant scene has their distinct recognitions and incompatible memories. Heine's local uncertainty should not be generalized into the same trait for every colleague, while another colleague's confidence cannot authenticate her guess. The three representational layers—shared workplace, actual individual response and questioned authority—must remain apart. This also leaves the GSC's institution and directed-relationship packages separate from the character monograph. [HE03 L26, L44; HE_PLUS03 L20–28.]",
+          "",
+          "## 9. Written language, address and register; performed voice remains unreceived",
+          "",
+          "**HE-C28.** The written repertoire moves among a reported document rumor, remembered arm lock, narrow knowledge disclaimer, defensive interpretation, objection and the emphatic impeachment demand. These are meaningful situational changes, not a complete baseline from which to certify an invariant register. The accepted E023 argument preserves `弾劾だ` as a demand. Its force concerns what Heine says should happen; the wording does not itself perform the legal removal. The onigiri complaint inside playback belongs to Kaya's older speech and cannot be counted as a new Heine utterance or a present spontaneous confession by Kaya. [HE03 L40, L44; HE_PLUS01 L24; HE_PLUS02 L34–38.]",
+          "",
+          "**HE-C29.** Source channels are consequential. The remembered injury and the supplied playback have different provenance; the public utterance and an inward plan have different audiences. E007 u0116/u0127 are identified speaker-role seams. Its food exchange also has misassigned and drifting labels. The monograph therefore uses the accepted connected interpretation of Heine's report rather than extracting a flawless fine-grained language rule from every printed label. No raw repair, voice performance, emotion timing, animation, acoustic emphasis or empirical recording authentication was received for this synthesis. [HE03 L40, L44; HE_PLUS02 L38.]",
+          "",
+          "**HE-C30.** The appearance recollection is similarly a written spoken guess inside a contested encounter. Heine's confusion with Kaya's traits does not show clinical incapacity, and the subject label does not join the president-claiming visitor to the missing president, dream figure, counterpart or system. Empty raw identity keys remain empty; A058 remains a retrieval sibling for this same responsibility. The exact small E005 owner is the operative locator for the recollection. E008 supplies distinct street witnesses and a secondhand lead, with its own speaker seams and choice alternatives. This precise allocation preserves the uncertain memory without letting a broad-account locator error create a second witnessed incident. [HE_PLUS03 L18–28; HE_PLUS04 L18–28; accompanying precision qualification.]",
+          "",
+          "## 10. Nine competing readings and bounded judgments",
+          "",
+          "**HE-R01 — A passive misinformation token.** Kaya does affirm the false explanation offered to Heine, and the political plot benefits from her belief. Yet Heine reports a concrete bodily stake, returns with her own protective interpretation, challenges insult and supplies an impeachment demand after hearing the playback. Passive-token language loses those acts and the lost ordinary occasion. The strongest supported judgment is situated susceptibility plus a visible capacity to answer, without inventing prior investigative competence. [HE03 L40; HE_PLUS02 L34.]",
+          "",
+          "**HE-R02 — A reliable truth detector after one revelation.** The demand responds to a specific contradiction in Kaya's denial and her treatment of the injured official. That is a positive change. The file has attributed FOX provenance without an inspected authentication chain, and the later claimant scene gives Heine uncertain guesses rather than exact appearance knowledge. These sources prevent universal reliability; they do not nullify the meaningful local revision or establish universal gullibility. [HE_PLUS02 L34–40; HE_PLUS03 L22.]",
+          "",
+          "**HE-R03 — Selfish sports partisanship.** Injury and missed gateball are central to her complaint, and the source does not prove that all her opposition derives from an impartial civic principle. Nevertheless, a missed wanted event and dismissed bodily harm are legitimate concerns, not automatically disqualifying motives. Her response also addresses Kaya's denial and office treatment. The reading survives as a warning against asserting wholly disinterested motivation, while failing as an excuse to discard sport or deny every public implication. [HE_PLUS02 L34.]",
+          "",
+          "**HE-R04 — Pain justifies the initial politics.** A remembered arm lock makes the complaint concrete. It does not identify Rin as its author or validate the rumor repeated to the Sports Association. Kaya's affirmation and later contradiction are the adverse case. Recognizing Heine's cost and assessing her accusation require two judgments; sympathy cannot replace causal warrant. The actual record still leaves treatment and full recovery unknown. [HE03 L40; HE_PLUS02 L34.]",
+          "",
+          "**HE-R05 — Total gullibility or incompetence.** The initial accusation and later uncertain hair guesses give this interpretation material. It overextends two different knowledge situations into a person-wide defect and loses her specific recognition of contradiction. The alumni disclaimer also keeps a local limit on knowledge rather than pretending expertise about every school. Neither a perfect official nor an entirely incompetent comic official accounts adequately for these contrasts. [HE_PLUS01 L24; HE_PLUS02 L34; HE_PLUS03 L22.]",
+          "",
+          "**HE-R06 — A completed recovery and reform arc.** Kaya's seizure and Heine's demand are real endpoints; attack failure is not understated. No complete arm recovery, resumed gateball, enacted impeachment, office reorganization reversal, forensic file audit or final legal judgment follows. The Final ordinary/civic aftermath remains a comparator with distinct actors. The reform reading can name a local changed answer, but cannot close all the bodily, relational and institutional work. [HE_PLUS02 L20, L24, L28, L34–40; HE04 L175, L239.]",
+          "",
+          "**HE-R07 — Sensei alone rescues Heine.** The teacher enables the public evidentiary intervention and redirects the bargain toward harmed students. Miyako secures Kaya and plays the file, FOX supplies it, Moe objects, and Heine answers through her own grievance and demand. No private rescue or cure is shown. The distributed account recognizes the teacher's useful intervention without making the others instruments or certifying its every evidentiary premise. [HE_PLUS02 L28–40.]",
+          "",
+          "**HE-R08 — Her recollection diagnoses her or resolves the claimant.** Pink/green-for-Kaya and black-hair guesses are represented uncertain speech, amid other incompatible recollections. They supply neither a clinical diagnosis nor a stable portrait or authenticated office identity. Rin's nonrecognition, Aoi's social recognition and the later street survey remain distinct evidence. The exact E005/E008 precision correction strengthens this boundary by preventing a mistaken locator from multiplying testimony. [HE_PLUS03 L20–28; HE_PLUS04 L20–28.]",
+          "",
+          "**HE-R09 — An official without a private pool has no wanted ordinary life to analyze.** This would discard the meeting food and the missed gateball despite their actual relevance. The absence of an established typed private channel does constrain intimacy, repeated habits and inner explanation; it does not erase these ordinary ends or require a substitute imagined bond. The character argument is complete only within its declared textual scope, while the separate institutions, other relationships and all open gaps retain their required work. [HE03 L26; HE_PLUS02 L34; P3-M014 original responsibility.]",
+          "",
+          "## 11. Evidence route, finite endings and all original OPEN gaps",
+          "",
+          "**HE-C31.** The direct positive route uses the complete admitted small E007/E013/E023 arguments and complete S2 E005/E008 arguments. The latter two settle the recollection's actual episode identity. The V004 and S2V001 contextual accounts supply adequate prior whole analytical comparison, with fresh consequential connected receiving where declared. Final's council/civic aftermath is a comparator, not a newly secured personal Heine action. Documentary source order, release, file number and political resemblance do not furnish a global calendar. The current Cycle008 adoption qualifies the contextual accounts' embedded producer UNADMITTED/pending statements; dated sequential subject/frontier/model counts are not present scope authority. [HE01 L306–308; HE02 L30–39; eight exact source receipts.]",
+          "",
+          "**HE-C32.** The original 105-owner obligation is handled as 105 substantive source-bounded role dispositions, separately from the direct MAIN argument. The receipt retains every exact source owner, actual earlier own scope, source-mode and recipient context, plus consequential sports/role refreshes. Other students' ordinary food, play, craft, work and company are preserved; no shared category, anonymous official or generic council act becomes Heine's participation. The prior Aoi dispositions are not relabeled as a Heine census. Whole MINI32 custody explicitly separates the JSON receiving receipt's own tuple from the normal argument's tuple. Header-query negatives are not the basis of these judgments. Unreceived paragraphs and unidentified roles remain claim-trigger limits for stronger future assertions, rather than a universal all-appearance or absence certificate. [HEINE105 receipt; owner104 additive qualification.]",
+          "",
+          "**HE-C33.** The source boundary is admitted written analytical meaning at pinned Japanese commit and generation. Previously adequate arguments are reused at actual declared scopes; fresh small arguments and connected sections have their own receiving records. Availability, copy, byte equality and another writer's reading do not transfer personal reception. There is no new primary, native, raw, QA, audiovisual, model, identity or admission credit. This is a candidate literary argument within one existing character home, with independent ROOT receiving and canonical adoption still pending. Its body does not complete the GSC institution, Aoi/Rin characters, GSC relationships or other eligible-cast packages by analogy. [ROOT positive allocation and exact source amendment.]",
+          "",
+          "### Twelve finite endpoint tests",
+          "",
+          "| Test | Actual supported end and remaining warrant |",
+          "|---|---|",
+          "| HE-E01 Food and meeting company | A parallel food exchange occurs in a prolonged meeting; playback preserves annoyance over onigiri. No invented Heine food authorship, eater, taste, fine or completed personal gift. HE03 L26/L44; HE_PLUS02 L34. |",
+          "| HE-E02 Meeting and political process | E007 adjourns without a printed sanction/no-confidence tally; later calls precede the prospective vote. Membership is not an individual Heine ballot. HE03 L26/L40. |",
+          "| HE-E03 Injury | Heine recalls the arm lock and later identifies her own injury. No complete diagnosis, independently measured harm, specific operative identification or treatment/cure. HE03 L40; HE_PLUS02 L34. |",
+          "| HE-E04 Gateball | She reports missing an event. Wanted play and lost time matter; resumed participation or full sporting recovery is unprinted. HE_PLUS02 L34. |",
+          "| HE-E05 Rumor and guilt | She repeats document/FOX accusations that Kaya affirms. Rin's guilt is not established by circulation or belief. HE03 L40. |",
+          "| HE-E06 FOX and violence | A remembered fox's arm lock, FOX participation and FOX-supplied file retain distinct actor/provenance grades. No collective identical knowledge or gratitude/absolution. HE01 L343; HE_PLUS02 L34–40. |",
+          "| HE-E07 Recording | Miyako plays a FOX-provided older conversation at Sensei's request. It is not the station-bomb recording or an independently authenticated technical chain. HE_PLUS02 L34/L38. |",
+          "| HE-E08 Changed allegiance | Protective arrival gives way to a demand against Kaya. The finite reversal is actual; every judgment or motive is not thereby reformed. HE_PLUS02 L34. |",
+          "| HE-E09 Impeachment and arrest | Miyako secures Kaya; Heine demands impeachment. No completed impeachment vote, final court outcome or complete custody/warhead audit. HE_PLUS02 L20/L28/L34. |",
+          "| HE-E10 Contempt and answerability | Kaya's insult and recorded dismissiveness receive objections and changed support. An accepted personal apology, recipient repair and returned lost occasion are absent. HE_PLUS02 L32–38. |",
+          "| HE-E11 Appearance memories | Heine's uncertain guesses occur in S2 E005, amid other divergent recollections. No diagnosis, claimant join or duplicate Heine survey in E008. HE_PLUS03 L22; HE_PLUS04 L20–28. |",
+          "| HE-E12 Civic aftermath | Final has real coordination, personal apologies and ordinary return at named scopes. No generic distribution of those acts to Heine or completed Sports Office reform. HE04 L156/L175/L239–241. |",
+          "",
+          "### Fourteen original stable gaps",
+          "",
+          "| Stable gap | Heine's contribution and remaining claim-specific warrant | Status |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | Meeting food, wanted gateball and its reported loss have intrinsic standing. No verified intimate/private family, full habitual sport or injury-recovery repertoire is supplied. | OPEN |",
+          "| G02 Yuuka council/club decision transfer | Sports/work comparisons preserve recipient agency; they do not complete Yuuka's decision-transfer question. | OPEN |",
+          "| G03 Serika service, peer and reciprocity range | Office, food and peer comparisons supply no new Serika scene or reciprocity ending. | OPEN |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Political revision here does not establish Hina's crisis causes, personal accountability or ordinary outcomes. | OPEN |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Other actors' work, desire and harm remain independent; Heine's demand does not complete their aftermath. | OPEN |",
+          "| G06 Cross-school ordinary repertoire | Sports/food contexts are meaningful comparisons, with no invented shared attendance, friendship or whole cross-school closure. | OPEN |",
+          "| G07 Story-world chronology | V004 local sequence and earlier-time playback are secure at their bounds. No full MAIN/private/event calendar or release-order maturity ladder. | OPEN |",
+          "| G08 Event naming and repeat contexts | E005 recollection is distinguished from E008 survey. No event-repeat or global-appearance conclusion follows from metadata names. | OPEN |",
+          "| G09 Written speaker/choice attribution | Report, playback, uncertain memory and E007 label seams retain exact authority; fine food and anonymous-role actors remain bounded. | OPEN |",
+          "| G10 Performed voice | Written words, recording representation and choices supply no received sound, acoustic emphasis, animation or performance. | OPEN |",
+          "| G11 Hoshino's Yume record and office states | No additional Hoshino/Yume witness or office-state conclusion is supplied by Heine's public role. | OPEN |",
+          "| G12 Counterpart, system and variant identity | Literal ハイネ remains this bounded actor; A058 is navigation, raw keys stay empty, claimant/system/private joins remain unmade. | OPEN |",
+          "| G13 Office, contract, safety and technical outcomes | Demand, detention, injury testimony and playback are finite. Legal completion, clinical recovery, office reform and forensic recording authentication are unestablished. | OPEN |",
+          "| G14 Unclassified/mode continuity | MAIN speech, report, retrospectively played speech, inward material and alternatives keep separate audiences and times; no unclassified continuity is invented. | OPEN |",
+          "",
+          "**HE-C34.** The unresolved endings are active limits on claims, rather than reasons to demote ordinary evidence or deny the achieved response. A stronger proposition about recovery, resumed gateball, a personal apology, legal removal, source authenticity, office restoration or an anonymous Heine appearance would require its own complete consequential admitted warrant. The bounded monograph does not replace missing evidence with a future ideal. It retains what Heine actually says and changes while leaving the unprinted result unprinted. [Twelve endpoint tests; exact 105-owner claim-trigger register.]",
+          "",
+          "**HE-C35.** The resulting character is neither merely deceived nor finally repaired. Heine participates in a political story through the real particulars of her life; those particulars can be manipulated, defended and reinterpreted. Her changed answer is consequential precisely because the earlier allegiance was consequential, and her missed sport remains consequential even after that allegiance changes. This source-bounded literary conclusion preserves both independent ordinary value and answerability to the people affected by political judgment. It establishes no empirical psychological rule, model promotion, identity expansion or package-completion count before ROOT's independent review."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HEINE_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 695618,
+      "sha256": "1f84895c6f91dcc7e2f0af0fa9fe0cc2979deb74737f2a1c1e9d6ffa6cd95d0b",
+      "git_blob_oid_of_actual_bytes": "861bcdb65ab0c6caaa3bc9d0a461a2a1025e48bd",
+      "attachment_names": [
+        "HEINE_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+        "HEINE105_ACTUAL_SOURCE_SCOPED_ARGUMENT_ROLE_REVIEW_V1.json",
+        "HEINE_E005_E008_AND_AGENCY_PRECISION_QUALIFICATION_V1.json",
+        "HEINE_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+        "HEINE_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "COMPLETE_AUTHOR_MANIFEST_OR_FREEZE"
+      ]
+    }
+  ],
+  "explicit_complete_frozen_owned_originals": [
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 37146,
+      "sha256": "79129be14481621ceaea78fee573f5be4e159cf8d18f9116e9be2dab3271a0de",
+      "git_blob_oid_of_actual_bytes": "04976a4ec6cb6c2fbf0eba6eea96ef7b8da8706a",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_SOURCE_AND_ACTUAL_RECEIVING_SCOPE_RECEIPT_V1.json",
+      "bytes": 52909,
+      "sha256": "42c434c82d94832719060c7439c1d07ef76d135d577116ccb4ff07cb4c7ac751",
+      "git_blob_oid_of_actual_bytes": "887892fe95293a20bc474244b27f28de108caf19",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+      "bytes": 301079,
+      "sha256": "88c15ec11d5aa16e1a604358112dfabea3f6505363304eeafd06f81bcb065eaa",
+      "git_blob_oid_of_actual_bytes": "b0a39de7e7cf94eae5532b34c0041b9199cf9b70",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE105_ACTUAL_SOURCE_SCOPED_ARGUMENT_ROLE_REVIEW_V1.json",
+      "bytes": 299883,
+      "sha256": "005526e498dbaaac14df57da188fc9d035a790a6158d9b7f1e072e8370c5a948",
+      "git_blob_oid_of_actual_bytes": "c2f6f1a02739fc178d6b77b22e582b2c0818cbcf",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_E005_E008_AND_AGENCY_PRECISION_QUALIFICATION_V1.json",
+      "bytes": 10108,
+      "sha256": "6c8b3cce1e02d90c45610e4ed3a6ed756ac0943008e8bf5ef8024b2215983bc2",
+      "git_blob_oid_of_actual_bytes": "4eed34b4354db02833d1cd507caf8fe9e4555039",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/heine_receiving_readonly.py",
+      "bytes": 6379,
+      "sha256": "92ec04b7b85c4833945dbfe60ef564d354f58adf0ebda470d0d79fb88423c855",
+      "git_blob_oid_of_actual_bytes": "daf87e89c5cafb16f87e6756e59408c91371227c",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+      "bytes": 1327,
+      "sha256": "c1c9ba45b315c9f6c56f2e83f852b8e13f1af89c8777efa2fe4c28b1883317cc",
+      "git_blob_oid_of_actual_bytes": "03bbad2698fca8105ff9af1fabab59f6f396f5f2",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+      "bytes": 5236,
+      "sha256": "5b2677ded9dd0c37203dcaec84476d241175789abaf3a06d9e8f6b7383426675",
+      "git_blob_oid_of_actual_bytes": "87198603fd761c2ab6b2b117ec615f78650f964b",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    }
+  ],
+  "original_freeze_tuple": {
+    "path": "HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json",
+    "bytes": 31566,
+    "sha256": "c3e47a9945ea4f961fdc3aeb04cb930360c15ee314d866a8da40d42d9d7f4517",
+    "git_blob_oid_of_actual_bytes": "0a9b00c588f2a7caf6db0ec7b5d034098ed99309",
+    "immutable_transport_path": "immutable_originals/HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH/HEINE_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json"
+  },
+  "original_ROOT_tuple": {
+    "bytes": 11422,
+    "sha256": "525cb95bae88abd9bcb988b79bca148612b016f9c9833ad18f9f8806abca4915",
+    "git_blob_oid_of_actual_bytes": "c8a0bf2085813036011b8a14de8452d039a503da"
+  },
+  "mandatory_operative_qualification": "Actual uncertain recollection belongs to S2V001C001E005u0031–0043. The broad account’s E008 survey wording remains a qualified historical locator, not another authenticated incident or global E008 absence. Current owner104 receipt/argument entities stay distinct; Aoi’s earliest unsaved draft remains unavailable. Heine’s requests, peer care and interrupted pleasures retain their own ends without borrowed ballots, repaired injury or performed future gateball.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "changed": false
+  },
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "cfadb1520e6abff16a0f0ec3ad6bff2adf14078c51398c644564565ea83af7bf",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 40862,
+        "sha256": "cfadb1520e6abff16a0f0ec3ad6bff2adf14078c51398c644564565ea83af7bf"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 41729,
+        "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "HEINE-FRAME-L36",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_HEINE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/7/canonical_lines_complete_text/1",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "e4fc65ef8f0c23c8988df0992f5a22a3fbc450a5c23437c7908fc44f53ba5165",
+          "before_literal": "**Current reconciliation and fixed133 adoption boundary — 2026-10-11.** ROOT reconciled the local source at 16b038cc400805d15cfeb799d048e1d20ba9290d/tree 2e64442a6b80cea9d67143d690378bd01932cc88 with current main 87aeee05a161d716fe840a0dd5d5517d9c646df9. PR148 integrated published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246 at 150a85e49a2b6d5fbd0c402d06c3070ea945d0cd with exact whole-tree preservation. Current main contains128 integrated packages and the [seven PR152 corrections](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) govern applicable current interpretation. The earlier first25% milestone at89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 remains completed history. The separately accepted source128 automatic chain remains its dated source witness; no unreviewed current-main postmerge audit is claimed. This fixed five-package proposal still requires full ROOT installation, then its own publication/validation sequence:133=100character+16directedrelationship+5ensemble+12institution,13named unchanged; current published128/main128 and next178 stay separate. Original bodies, source grades and all14OPEN/model0 remain unchanged; the preceding proposal is preserved with full byte inverses.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "HEINE-FRAME-L144",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_HEINE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/105",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "a9d86414e957cc68542e47dcb5cc6fb9d631c46aa03c920aa5e18be75270bc07",
+          "before_literal": "**HE-C33.** The source boundary is admitted written analytical meaning at pinned Japanese commit and generation. Previously adequate arguments are reused at actual declared scopes; fresh small arguments and connected sections have their own receiving records. Availability, copy, byte equality and another writer's reading do not transfer personal reception. There is no new primary, native, raw, QA, audiovisual, model, identity or admission credit. This is a candidate literary argument within one existing character home, with independent ROOT receiving and canonical adoption still pending. Its body does not complete the GSC institution, Aoi/Rin characters, GSC relationships or other eligible-cast packages by analogy. [ROOT positive allocation and exact source amendment.]",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "HEINE-FRAME-L184",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_HEINE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/145",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "6050d111fc57b1dcf25797a2a1dcacebed2d77517c05779d87c5068fcd11fe11",
+          "before_literal": "**HE-C35.** The resulting character is neither merely deceived nor finally repaired. Heine participates in a political story through the real particulars of her life; those particulars can be manipulated, defended and reinterpreted. Her changed answer is consequential precisely because the earlier allegiance was consequential, and her missed sport remains consequential even after that allegiance changes. This source-bounded literary conclusion preserves both independent ordinary value and answerability to the people affected by political judgment. It establishes no empirical psychological rule, model promotion, identity expansion or package-completion count before ROOT's independent review.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/3",
+    "record_id": "FIRST15-CONTROL-04"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 41729,
+    "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/87",
+      "retained_value_utf8_sha256": "84ab4c51e9c873aa541fc75e6815de6a8e8991a9e57d6ef7397f842266fae86a",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-133",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M014-L126"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 41729,
+      "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 40860,
+        "sha256": "8611e8f9dacfb0f7d0d402abfa4de7123b49cb299d3fdc1963a9435e2df583e8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 41729,
+        "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
+}

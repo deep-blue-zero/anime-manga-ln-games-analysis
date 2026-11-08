@@ -1,0 +1,691 @@
+{
+  "schema": "silent-witch/continuous-run-path-manifest/v1",
+  "artifact_id": "SW_CONTINUOUS_RUN_PATH_MANIFEST",
+  "artifact_type": "sequential_transaction_path_manifest",
+  "generation": "V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_literary_evidence": true,
+  "series_id": "silent-witch",
+  "stable_branch": "series/silent-witch",
+  "owner_instruction": "2026-10-14: proceed with V02 and sequential deep readings until all works are read, and all artifacts per the synthesis architecture are completed",
+  "run_mode": "continuous_sequential",
+  "terminal_boundary": "V12 plus the four supplied companions at their recorded admission points, then the synthesis products the architecture requires",
+  "standing_exclusions": [
+    "No upload of raw EPUBs, normalized text, locator maps, images or derivative archives to Git or Drive.",
+    "No merge into main by this author.",
+    "Web main, web gaiden, the Rosalie web work, adaptations, translations and commentary are outside the run."
+  ],
+  "authorization_commit": "c0a6deac15247846760cf408d3dfe67bc2dd5437",
+  "branch_head_before_run": "9c87c5400a9ab7a04e60681d8c8177e1f33af0aa",
+  "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "source_lock_register": "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+  "derivative_retention": "LOCAL_ONLY_OWNER_REQUEST",
+  "drive_upload_performed": false,
+  "units": [
+    {
+      "unit": "V02",
+      "witness_id": "SW-LNJP-V02",
+      "source_epub_sha256": "aafafc8ff6ea9c722f007e3f559364ca25e1d3c61addb747466ea986f8864ab6",
+      "derivative_package_sha256": "61404a18dfb6fd197c33aef2a4c0aeda1df9b47868116930128174dd4ee6e9bf",
+      "entry_record_sha256": "79b3bc022ccf7b8e0e05520471b2930694476f8680bb993535f25da892eba80f",
+      "entry_freeze": "SW-FR-V02-ENTRY",
+      "exit_freeze": "SW-FR-V02-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V02_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V02-001..120",
+      "cited_locators_verified": 479,
+      "quoted_fragments_verified": 29,
+      "ledger_records_added": {
+        "SW-S": 20,
+        "SW-R": 20,
+        "SW-K": 14,
+        "SW-W": 16,
+        "SW-C": 8,
+        "SW-CR": 18,
+        "SW-P": 8,
+        "SW-F": 7,
+        "SW-RD": 4,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V02_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V03",
+      "witness_id": "SW-LNJP-V03",
+      "source_epub_sha256": "38989102ddc9848024e67fd9d241bb4a1d4b24db166d39b663c7311a2d86efa9",
+      "derivative_package_sha256": "5110d9e3ef5e1272f3ee2e861abae78c46c62a0823fc70d07a64022f3ee16c84",
+      "entry_record_sha256": "6c748f8de092c0bf5c683a5a2e9513dc50a720696bb114a916df82fa3bc63fbb",
+      "entry_freeze": "SW-FR-V03-ENTRY",
+      "exit_freeze": "SW-FR-V03-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V03_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V03-001..139",
+      "cited_locators_verified": 362,
+      "quoted_fragments_verified": 121,
+      "ledger_records_added": {
+        "SW-S": 20,
+        "SW-R": 16,
+        "SW-K": 11,
+        "SW-W": 14,
+        "SW-C": 8,
+        "SW-CR": 26,
+        "SW-P": 6,
+        "SW-F": 5,
+        "SW-RD": 4,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "4a7e9a1b1d34d44e8d31aba2ff017dad332cb5bd",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/02 Sequential Readings/SW_V02_DEEP_READING.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V03_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V04",
+      "witness_id": "SW-LNJP-V04",
+      "source_epub_sha256": "a80f90953d625d304ae724a9b05a8c93ad3392e8bfd23e9edaeb6d0f9642fcfc",
+      "derivative_package_sha256": "5ca9e2fbe7229789a1e2bdf8d0630ab2f4469a480c184a4a377e71481ba79978",
+      "entry_record_sha256": "d7250af4195aaba6331175e683cae861022838f4e08fa72bce4a1f2395ed74f7",
+      "entry_freeze": "SW-FR-V04-ENTRY",
+      "exit_freeze": "SW-FR-V04-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V04_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V04-001..128",
+      "cited_locators_verified": 248,
+      "quoted_fragments_verified": 105,
+      "ledger_records_added": {
+        "SW-S": 20,
+        "SW-R": 16,
+        "SW-K": 12,
+        "SW-W": 12,
+        "SW-C": 6,
+        "SW-CR": 34,
+        "SW-P": 6,
+        "SW-F": 5,
+        "SW-RD": 4,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "ab7d76bc0260854be0cc3823406ebce5b4301695",
+      "companion_placement": "IV -after- next: released 2022-10-07, after V04 (2022-08-10) and before V05 (2023-02-10)",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V04_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "AFTER04",
+      "unit_class": "supplemental_companion",
+      "witness_id": "SW-LNJP-AFTER04",
+      "source_epub_sha256": "101a1341d139a593c284010da5fb83f524183528ff4199d563346cb3254fc24a",
+      "derivative_package_sha256": "2b79b5d0db643b4999483ca2e43fc57fe9ceb03fdf6e21830a6582c81c6876e6",
+      "entry_record_sha256": "f8b7f36a3a0bcb5170e4463cbc5c1c637ceb3e33a13e970472092c017420f871",
+      "entry_freeze": "SW-FR-AFTER04-ENTRY",
+      "exit_freeze": "SW-FR-AFTER04-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_AFTER04_DEEP_READING.md",
+      "observations": "SW-E-LNJP-AFTER04-001..166",
+      "cited_locators_verified": 226,
+      "quoted_fragments_verified": 51,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 15,
+        "SW-K": 9,
+        "SW-W": 8,
+        "SW-C": 4,
+        "SW-CR": 40,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "4ebee6ac262765512c29d234bdefc66cd59214ed",
+      "placement": "After V04 and before V05; story-level check: every case inside the festival-to-winter-break interval, five retrospective scenes, nothing held out",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_AFTER04_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V05",
+      "witness_id": "SW-LNJP-V05",
+      "source_epub_sha256": "6fd815a38aea9b8e4d9dd96cd01f9a0fbf8a8fc3ccdb5173ff90046f1e99ca64",
+      "derivative_package_sha256": "599a61bd1297ad35d30eb4059892edc2e1f7cbd8eb02fbfff6d8bf9a9d837201",
+      "entry_record_sha256": "0b5ec6faed35e0f4d8d9a3ccc18ee13cc67a9c4d63cdd7c1ede8fda921790fae",
+      "entry_freeze": "SW-FR-V05-ENTRY",
+      "exit_freeze": "SW-FR-V05-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V05_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V05-001..187",
+      "cited_locators_verified": 220,
+      "quoted_fragments_verified": 51,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 13,
+        "SW-K": 11,
+        "SW-W": 8,
+        "SW-C": 6,
+        "SW-CR": 44,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "18539ccd23c17ee339d403afcc8bf1deba2e0286",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V05_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V06",
+      "witness_id": "SW-LNJP-V06",
+      "source_epub_sha256": "7909cd94b71063033b96b49ec1f7c6b686f49edb637a43b187e500ebad3a7242",
+      "derivative_package_sha256": "60690bbc9da0a594040f69bc2d26314319537d187e42581fa5cdbb970040502a",
+      "entry_record_sha256": "c789a45795e94512979604ad505ed236005d0005ffc0b655079a4dc1233e279e",
+      "entry_freeze": "SW-FR-V06-ENTRY",
+      "exit_freeze": "SW-FR-V06-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V06_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V06-001..219",
+      "cited_locators_verified": 293,
+      "quoted_fragments_verified": 41,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 14,
+        "SW-K": 12,
+        "SW-W": 9,
+        "SW-C": 6,
+        "SW-CR": 50,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "6453b430a551054a5ebc8632f61a375070eb3311",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V06_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V07",
+      "witness_id": "SW-LNJP-V07",
+      "source_epub_sha256": "e586cacacab692e3ee530737d28170e5a06f74cfb8eb9437f0b1f94df9badd86",
+      "derivative_package_sha256": "9513343b9b088f2736bdb4358b8acfebaf621872c9414d15bc2cfa61fcf40ff1",
+      "entry_record_sha256": "63a5901ab811105352d1f0c048027d3d99273f6be3a2c969cde3d691c40927af",
+      "entry_freeze": "SW-FR-V07-ENTRY",
+      "exit_freeze": "SW-FR-V07-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V07_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V07-001..229",
+      "cited_locators_verified": 275,
+      "quoted_fragments_verified": 42,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 14,
+        "SW-K": 12,
+        "SW-W": 8,
+        "SW-C": 6,
+        "SW-CR": 56,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "0be163d9b68c6b64bbe1b669af1536f77d2cd1ba",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V07_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V08",
+      "witness_id": "SW-LNJP-V08",
+      "source_epub_sha256": "89ff209d8fe16c76486772adb2fb926849ede965ebdc8e8a614bbf9dccb401e9",
+      "derivative_package_sha256": "7c78d938613bfc7ed40051b7d2fa2689c9d78e6ba4e8b9e97887ff0099af9c02",
+      "entry_record_sha256": "02cf5f9b23405dec6a4d34716bf2c3a7d5e95ca2a702b371f0043fa467fdb2b7",
+      "entry_freeze": "SW-FR-V08-ENTRY",
+      "exit_freeze": "SW-FR-V08-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V08_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V08-001..300",
+      "cited_locators_verified": 342,
+      "quoted_fragments_verified": 86,
+      "ledger_records_added": {
+        "SW-S": 18,
+        "SW-R": 14,
+        "SW-K": 12,
+        "SW-W": 8,
+        "SW-C": 6,
+        "SW-CR": 62,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "b1153a5f95e5166f346d11d2aa39def0eed3a200",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V08_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V09",
+      "witness_id": "SW-LNJP-V09",
+      "source_epub_sha256": "272d49df5b94927cacc2b7a6fa430a3b0af58228cb048541b46ebc29fcdaffb1",
+      "derivative_package_sha256": "96d54804937f7c61c94c00636c868b6b5c4cb46a3918f37e7f13032d1f695c89",
+      "entry_record_sha256": "28ed0059a2995a863528f6aa7fa1621ded4160fc0faabf4eea9b2fd4ddb1e77b",
+      "entry_freeze": "SW-FR-V09-ENTRY",
+      "exit_freeze": "SW-FR-V09-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V09_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V09-001..188",
+      "cited_locators_verified": 215,
+      "quoted_fragments_verified": 37,
+      "ledger_records_added": {
+        "SW-S": 14,
+        "SW-R": 12,
+        "SW-K": 8,
+        "SW-W": 8,
+        "SW-C": 6,
+        "SW-CR": 68,
+        "SW-P": 4,
+        "SW-F": 4,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "f3835ab92cdae6b8b468ab8c7e3d39f6a0c4a05c",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V09_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "EXTRA09",
+      "witness_id": "SW-LNJP-EXTRA09",
+      "source_epub_sha256": "ec2157d37e9eb301ed6d2e2eebe2adee215c22a354189bed7485ea8485f1c943",
+      "derivative_package_sha256": "879b6dde8db56125f1289c73f91a33b1a8d9fd590a9b9d1e235ef6207219dc25",
+      "entry_record_sha256": "4526885eb2a17d8bb46890e5f65e4a7c4d923814eee1b762d65796e86d4ced7a",
+      "entry_freeze": "SW-FR-EXTRA09-ENTRY",
+      "exit_freeze": "SW-FR-EXTRA09-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_EXTRA09_DEEP_READING.md",
+      "observations": "SW-E-LNJP-EXTRA09-001..188",
+      "cited_locators_verified": 205,
+      "quoted_fragments_verified": 12,
+      "ledger_records_added": {
+        "SW-S": 10,
+        "SW-R": 8,
+        "SW-K": 6,
+        "SW-W": 6,
+        "SW-C": 4,
+        "SW-CR": 74,
+        "SW-P": 2,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "1157cdee1b42493d030d4e957612ee0379bf2eff",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_EXTRA09_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V10",
+      "witness_id": "SW-LNJP-V10",
+      "source_epub_sha256": "54d547b09f690895a0561104130bf088bd82d3a0c46734773a2c3c5a5a42c9c1",
+      "derivative_package_sha256": "626017a5f23e52cdbc05c5093c77814c612d4ec4a3d73a8950593e7a3e596579",
+      "entry_record_sha256": "cb4dd8a50a34dcc6f1a7a7546db64b9413171d9ed2ef9b8e949a97e6811c4c44",
+      "entry_freeze": "SW-FR-V10-ENTRY",
+      "exit_freeze": "SW-FR-V10-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V10_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V10-001..184",
+      "cited_locators_verified": 210,
+      "quoted_fragments_verified": 21,
+      "ledger_records_added": {
+        "SW-S": 12,
+        "SW-R": 10,
+        "SW-K": 7,
+        "SW-W": 8,
+        "SW-C": 6,
+        "SW-CR": 78,
+        "SW-P": 3,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "65270cef41ffdfba265da108fec916ef0bb185c8",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V10_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V11",
+      "witness_id": "SW-LNJP-V11",
+      "source_epub_sha256": "cb81975b7967cf61f050a7fea53b39b13d627eb70af56e26af025e85c4207a4a",
+      "derivative_package_sha256": "47bbefa0b90452380d688ddd910aa0b7bce34b2a36d9017352ac209236596650",
+      "entry_record_sha256": "aee9a0428a6cc1f25a588ea65192beb74c69f522988aae9a65b004e434c99fc4",
+      "entry_freeze": "SW-FR-V11-ENTRY",
+      "exit_freeze": "SW-FR-V11-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V11_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V11-001..240",
+      "cited_locators_verified": 269,
+      "quoted_fragments_verified": 8,
+      "ledger_records_added": {
+        "SW-S": 12,
+        "SW-R": 10,
+        "SW-K": 7,
+        "SW-W": 9,
+        "SW-C": 5,
+        "SW-CR": 84,
+        "SW-P": 4,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "f941ef3c8a8901923c64e3170835a1b905f516f1",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V11_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "V12",
+      "witness_id": "SW-LNJP-V12",
+      "source_epub_sha256": "91ed29af0e3031de6167f09952767a479ed87de5045d5fb11aec4b8060663c37",
+      "derivative_package_sha256": "0006b5eb48b33e768e471720edc1f753b039d77ede3e8cd903834fcbd40458e7",
+      "entry_record_sha256": "bf5bd6a3b9016b607471da9b1c28fcd4b7c8108abc4f07848e771d9526de6c84",
+      "entry_freeze": "SW-FR-V12-ENTRY",
+      "exit_freeze": "SW-FR-V12-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_V12_DEEP_READING.md",
+      "observations": "SW-E-LNJP-V12-001..223",
+      "cited_locators_verified": 250,
+      "quoted_fragments_verified": 8,
+      "ledger_records_added": {
+        "SW-S": 12,
+        "SW-R": 10,
+        "SW-K": 7,
+        "SW-W": 9,
+        "SW-C": 5,
+        "SW-CR": 89,
+        "SW-P": 4,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "97dfa8d9ff6e63da614af07da31c913be0c72404",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_V12_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "ANOTHER-UPPER",
+      "witness_id": "SW-LNJP-ANOTHER-UPPER",
+      "source_epub_sha256": "cf094b9195fcff80859174d79fa742965c5dd3198546e4a3d999d7a966b726c1",
+      "derivative_package_sha256": "eff57570cba82d4306b4afce1457afbc3d69e53db2df976313920127e5b9a193",
+      "entry_record_sha256": "3cb9ae5a16c5f56ca1b6d7b86f3d62254b68dcf693042d71ecf58002feb05cb1",
+      "entry_freeze": "SW-FR-ANOTHER-UPPER-ENTRY",
+      "exit_freeze": "SW-FR-ANOTHER-UPPER-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_ANOTHER_UPPER_DEEP_READING.md",
+      "observations": "SW-E-LNJP-ANOTHER-UPPER-001..218",
+      "cited_locators_verified": 257,
+      "quoted_fragments_verified": 10,
+      "ledger_records_added": {
+        "SW-S": 10,
+        "SW-R": 10,
+        "SW-K": 6,
+        "SW-W": 8,
+        "SW-C": 5,
+        "SW-CR": 94,
+        "SW-P": 3,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "0624a5fa0bd2a8ed231608988e07d1fa91be62df",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_ANOTHER_UPPER_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    },
+    {
+      "unit": "ANOTHER-LOWER",
+      "witness_id": "SW-LNJP-ANOTHER-LOWER",
+      "source_epub_sha256": "ac2cf27be4b48363d5bca1f28458464a89564867719eb802005e9018036fa403",
+      "derivative_package_sha256": "254cc0b069688f3b030a070ed771482d9c0f8d269b7ef526153f79712a134f53",
+      "entry_record_sha256": "8574f5c6caac03602480c1ea0a7c47c8ef8e8e261849dbf1f001277a8f1ec5da",
+      "entry_freeze": "SW-FR-ANOTHER-LOWER-ENTRY",
+      "exit_freeze": "SW-FR-ANOTHER-LOWER-EXIT",
+      "reading": "series/silent-witch/02 Sequential Readings/SW_ANOTHER_LOWER_DEEP_READING.md",
+      "observations": "SW-E-LNJP-ANOTHER-LOWER-001..181",
+      "cited_locators_verified": 208,
+      "quoted_fragments_verified": 10,
+      "ledger_records_added": {
+        "SW-S": 10,
+        "SW-R": 10,
+        "SW-K": 6,
+        "SW-W": 7,
+        "SW-C": 5,
+        "SW-CR": 99,
+        "SW-P": 1,
+        "SW-F": 3,
+        "SW-RD": 3,
+        "SW-U": 1
+      },
+      "character_models": 0,
+      "lock_commit_sha": "72d8ec3051e450905f7efd013dcc4d46f68cb4c7",
+      "authored_paths": {
+        "lock_commit": [
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md"
+        ],
+        "closure_commit": [
+          "series/silent-witch/02 Sequential Readings/SW_ANOTHER_LOWER_DEEP_READING.md",
+          "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+          "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+          "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+          "series/silent-witch/01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+          "series/silent-witch/08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+          "series/silent-witch/.repository/series-registry.json"
+        ]
+      }
+    }
+  ],
+  "scope_notes": [
+    "One manifest for the whole run; each unit appends one entry in its closure commit.",
+    "Existing files receive targeted patches; prior bytes and history preserved.",
+    "Verbatim Japanese is limited to short phrase-level fragments, each verified against the sealed block map.",
+    "Housekeeping and character outputs are not author-written; no main merge is performed."
+  ]
+}

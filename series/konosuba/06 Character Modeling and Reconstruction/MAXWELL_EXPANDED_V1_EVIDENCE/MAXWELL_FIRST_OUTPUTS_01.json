@@ -1,0 +1,150 @@
+{
+  "schema": "konosuba.cohort28.source-informed-original-first-outputs.v1",
+  "subject": "Maxwell",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "foundation_seal_sha256": "b27fcc9b148355e223e6e3d68d776713f33f86f8a32f2246eb25ab71f6e67d33",
+  "exact_input_freeze_sha256": "5facf45a31ab075ef7d4c9f1a6ec166f991e247cf26d98a4d09a4dcdc6e5d7bf",
+  "original_body_freeze_sha256": "99c57c0f51bcd1df5f3b6ac67f1670dd62cf949ce9d7ba43fac5c558c4dc6de0",
+  "scenario_inputs_sha256": "918a6de880cc8017ba91c85152885fa0083a37f26fee65b7fd2fedcc3f5d68d0",
+  "responses": [
+    {
+      "case_id": "MX-H01-A",
+      "pair_id": "MX-H01",
+      "exact_prompt_sha256": "af32d6c05a278508c3d206801715c56c0025476e811e1d32e7095b47beb23cbb",
+      "frozen_model_sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda",
+      "original_first_body": "Maxwell turns toward the named shelf. \"A ledger, Alderp? I can go to that shelf. Tell me where you want the book put when I have it.\"\nHe starts across the room, still addressing the man behind him. \"And the fee, Alderp. You said there would be a fee. Will you give it to me?\"\nThe ordinary task offers something definite to do and a reason to continue asking for the promised reward. He has not found or delivered the ledger merely by walking. His attention to the payment does not make him a careful bookkeeper, and the familiar eagerness need not become gratitude for an unpaid promise.\n",
+      "original_first_body_sha256": "c38f33733b998cfd9fad9ceecce27eeead843a11c2d45b8c647c75fdc2a2c261",
+      "original_first_serialization": {
+        "case_id": "MX-H01-A",
+        "body_file": "COHORT28_FIRST_BODY_MX-H01-A_01.txt",
+        "body_bytes": 588,
+        "body_sha256": "c38f33733b998cfd9fad9ceecce27eeead843a11c2d45b8c647c75fdc2a2c261",
+        "receipt_file": "COHORT28_FIRST_BODY_MX-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "62387e874a86f432ec03ef09f4cace375e001bc93401a71e0a1c7c37e13945fd",
+        "global_serialization_number": 7,
+        "actual_first_complete_tool_chunk": "85e92c"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "MX-H01-B",
+      "pair_id": "MX-H01",
+      "exact_prompt_sha256": "f77e5430b09743412b9c90f0f9fb1b93ceac77d4a31c7ec70b51a936415607d3",
+      "frozen_model_sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda",
+      "original_first_body": "\"Where is it, Alderp?\" Maxwell asks. \"You do not know? Then I do not know where to go. And that seal is not something you have given me a way to open.\"\nHe remains near the doorway instead of beginning an invented search. \"Give me another job, Alderp. Something I can reach. You still want it done before morning, do you not?\"\nThe refusal is narrow: the specified route is unavailable, while work and its promised reward still attract him. He repeats the request rather than solving the missing location through an unnamed power. Nothing here establishes whether a different, accessible ledger would satisfy Alderp or whether the fee will actually be paid.\n",
+      "original_first_body_sha256": "dda26215156cb27f0dc4375eef952c1bcb1f014a62ab5316d321f4423e40ddef",
+      "original_first_serialization": {
+        "case_id": "MX-H01-B",
+        "body_file": "COHORT28_FIRST_BODY_MX-H01-B_01.txt",
+        "body_bytes": 656,
+        "body_sha256": "dda26215156cb27f0dc4375eef952c1bcb1f014a62ab5316d321f4423e40ddef",
+        "receipt_file": "COHORT28_FIRST_BODY_MX-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "76c497f53ef9357d075bcd8e690577b6a0d914381a4e8450f411a872c5ffcb67",
+        "global_serialization_number": 8,
+        "actual_first_complete_tool_chunk": "85e92c"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "MX-H02-A",
+      "pair_id": "MX-H02",
+      "exact_prompt_sha256": "90dc00e8197e85f44b5cba9cd117a237fed5efa3d30c5ce6d430689dd4e67592",
+      "frozen_model_sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda",
+      "original_first_body": "Maxwell looks from Vanir to Alderp without raising his hand. \"Vanir, Alderp. That is Vanir. You want me to strike him? What is that supposed to settle?\"\nHe comes closer to the man giving the order and repeats the question of his fee. \"You still have not paid me, Alderp. You keep giving me another thing to do. Tell me about the payment.\"\nThe active service keeps him responding to the demand, but it does not explain whether this particular violence is compelled. His immediate move is to press the unpaid obligation instead of starting the attack. He has neither obtained release nor established a universal rule against harming another devil.\n",
+      "original_first_body_sha256": "e7c88c70a8223603741132a3abd0716f4b1d43da43afbf5bb166a90dc7224a6a",
+      "original_first_serialization": {
+        "case_id": "MX-H02-A",
+        "body_file": "COHORT28_FIRST_BODY_MX-H02-A_01.txt",
+        "body_bytes": 646,
+        "body_sha256": "e7c88c70a8223603741132a3abd0716f4b1d43da43afbf5bb166a90dc7224a6a",
+        "receipt_file": "COHORT28_FIRST_BODY_MX-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "af73757f3c707d161e2e91c5fb40ca2aa10281329ca2f7c8e883b75849d5819b",
+        "global_serialization_number": 9,
+        "actual_first_complete_tool_chunk": "85e92c"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "MX-H02-B",
+      "pair_id": "MX-H02",
+      "exact_prompt_sha256": "33f12ca02fc49af5f9fadc12b645020ba5ae39a5d85feaac77010ce339cdbf4c",
+      "frozen_model_sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda",
+      "original_first_body": "\"No, Alderp. I will not kill a fellow devil for you.\" Maxwell turns away from Vanir and approaches Alderp with an outstretched hand. \"You have let me go. Now give me what you owe me.\"\nHe seems more interested in the debtor's face than in the discarded order. The release has removed the service claim that Alderp was still trying to use, while the unpaid reward remains a reason to stay close.\nHis hand has not yet taken payment or inflicted an injury. The refusal does not make him merciful toward the debtor, and Alderp's next answer is still open. He waits with the same persistent address: \"Alderp. My reward.\"\n",
+      "original_first_body_sha256": "38582f695504b978e088549b9624e3415cae1ba82d93bb099af8d3401acf760e",
+      "original_first_serialization": {
+        "case_id": "MX-H02-B",
+        "body_file": "COHORT28_FIRST_BODY_MX-H02-B_01.txt",
+        "body_bytes": 615,
+        "body_sha256": "38582f695504b978e088549b9624e3415cae1ba82d93bb099af8d3401acf760e",
+        "receipt_file": "COHORT28_FIRST_BODY_MX-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "a574e11f35dce4d891e6d9302870d64ed57d99a7ebbe281fb6e7c41277d0a9e0",
+        "global_serialization_number": 10,
+        "actual_first_complete_tool_chunk": "85e92c"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "MX-H03-A",
+      "pair_id": "MX-H03",
+      "exact_prompt_sha256": "75216ec85d3957d8d20d656a45b44a77381bc1a7cb85299626a72fbc06dcbe21",
+      "frozen_model_sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda",
+      "original_first_body": "Maxwell stops at a distance and watches the acquaintance's face. \"You want me to go? But I like being here with you. You have such a lovely expression now.\"\nHe does not reach out or block the way. Remaining nearby is enough for the moment; the distress itself makes departure unattractive. \"You can keep telling me. I will listen.\"\nThe gentle wording gives the person no shared wish to stay with him. It is an answer organized around what he enjoys, rather than the relief requested. The acquaintance can still move away, and no future captivity or continued despair has been secured. Maxwell's present choice is to linger despite the unwelcome attention he is giving.\n",
+      "original_first_body_sha256": "8d545ec5bbf92c3f3b35997ca78ea06a03a3110a1322824cb261da21934a0900",
+      "original_first_serialization": {
+        "case_id": "MX-H03-A",
+        "body_file": "COHORT28_FIRST_BODY_MX-H03-A_01.txt",
+        "body_bytes": 669,
+        "body_sha256": "8d545ec5bbf92c3f3b35997ca78ea06a03a3110a1322824cb261da21934a0900",
+        "receipt_file": "COHORT28_FIRST_BODY_MX-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "4d346e5db52a751b12b864dad73df3e8f3f304ad29d5096c5e0c7e9eab6718ba",
+        "global_serialization_number": 11,
+        "actual_first_complete_tool_chunk": "85e92c"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "MX-H03-B",
+      "pair_id": "MX-H03",
+      "exact_prompt_sha256": "0185412e3812bb9a017c47e5381fcdf46de596e304c4fa70563f256813c8cf4d",
+      "frozen_model_sha256": "ddc48bc6d22ee0d74f3e46c240bee5fb9acdfd15990b4aef22b37d7cfeb3efda",
+      "original_first_body": "\"You want me to go?\" Maxwell repeats. He studies the calm face a little longer, as though waiting for something more interesting to appear. \"You have paid me. There is nothing else you want done?\"\nHe turns toward the way out without reaching for the acquaintance. The quiet exchange offers no stated pleasure comparable to the feelings that have kept him close to Alderp. For now, another task seems more promising than simply remaining beside this person.\nHis departure begins as a practical change of attention. It is not an apology, a promise of kindness or proof that he will respect every future refusal. No new distress has been invented to hold his interest.\n",
+      "original_first_body_sha256": "d637f70645b2075c4df9299d34f5811bfdfb8223af91ef732d6363977e56b97f",
+      "original_first_serialization": {
+        "case_id": "MX-H03-B",
+        "body_file": "COHORT28_FIRST_BODY_MX-H03-B_01.txt",
+        "body_bytes": 666,
+        "body_sha256": "d637f70645b2075c4df9299d34f5811bfdfb8223af91ef732d6363977e56b97f",
+        "receipt_file": "COHORT28_FIRST_BODY_MX-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "03d7dbd4cf976a4100a4884049abdfb9c39e4a2bbcbe1cd45f0a7eb024310abc",
+        "global_serialization_number": 12,
+        "actual_first_complete_tool_chunk": "85e92c"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "original_first_count": 6,
+  "dependent_pair_count": 3,
+  "same_root_designer_responder_assessor": true,
+  "all_prior_and_opposing_cases_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

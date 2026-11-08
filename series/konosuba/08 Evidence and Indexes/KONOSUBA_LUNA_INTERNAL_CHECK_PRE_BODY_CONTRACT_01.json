@@ -1,0 +1,46 @@
+{
+  "schema": "KONOSUBA_LUNA_INTERNAL_CHECK_PRE_BODY_CONTRACT_V1",
+  "frozen_before_first_bodies_utc": "2026-10-20T08:52:25.471642+00:00",
+  "published_source": "56dd3653c85d475ab85cdf891202d8e97531d729",
+  "prior_gate_sha256": "63b217b8f00fbe0752dff06ef48f039f30fd652b1e9f82ed88ac40b24154c086",
+  "seventeen_entering_models_exact": true,
+  "model_frozen_sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9",
+  "bound_files": [
+    {
+      "file": "LUNA_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9",
+      "bytes": 23199
+    },
+    {
+      "file": "LUNA_RULE_INVENTORY_01.json",
+      "sha256": "bffee04ebefdac5222b459276b6ec589fdf543d8f3c80f8ee5b5ec706c345982",
+      "bytes": 2351
+    },
+    {
+      "file": "LUNA_SCENARIO_INPUTS_01.json",
+      "sha256": "829e24f5fa3485360a99c54241a8e8d0f208fb13c2c62c8a8cd102864de67bea",
+      "bytes": 5650
+    },
+    {
+      "file": "KONOSUBA_LUNA_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+      "sha256": "b6a68fa48f02253a2483fa6d3b1cdba453859b66347d157b4a5441e3e9cb36b5",
+      "bytes": 8143
+    }
+  ],
+  "actual_first_bodies_at_freeze": 0,
+  "planned_first_bodies": 3,
+  "planned_pairs": 1,
+  "planned_unmatched_cases": 1,
+  "execution": "Same informed root author writes all actual bodies after this contract; tools store and hash bodies only. No external model runtime, independent reader/judge, blindness or isolated held-out variants. Root knows all source outcomes and hidden truth.",
+  "no_repair_rule": "Retain first bodies exactly. Diagnosed defects remain in assessment; no replacement or retrospective model repair.",
+  "allowed_claims": "Only transparent internal consistency/sensitivity exercise at its disclosed scope.",
+  "disallowed_credits": [
+    "pristine prospective source validation",
+    "new native-source coverage",
+    "independent accuracy",
+    "Japanese or acoustic adequacy",
+    "capability grade",
+    "confidence increase"
+  ],
+  "full_program_complete": false
+}

@@ -1,0 +1,3795 @@
+{
+  "schema": "tomozaki_portable_historical_context_records/v1",
+  "artifact_type": "attributed_retrieval_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "record_policy": "Complete unchanged original values and raw identities. Historical pending/status/private-route strings are provenance of their own stage; current retrieval uses the catalog public record pointers and pinned Git source routes.",
+  "records": [
+    {
+      "record_id": "producer.ROOT_ATTRIBUTED_RETRIEVAL_ADMISSIONS_AND_FROZEN_TESTS.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/historical_context_models_root_20261103/ROOT_ATTRIBUTED_RETRIEVAL_ADMISSIONS_AND_FROZEN_TESTS.json",
+        "bytes": 13047,
+        "sha256": "6e6eba746fba5a6d30c668820fe5aee8814b20bf4c4dd1150c1837d11a2e4c2a"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "c95e4d93a05c7c0a311ec5a51e0bbd1c9bac09cb006ef50f284d149c86405345",
+      "value": {
+        "schema": "tomozaki_root_historical_context_retrieval_admission_and_preregistration/v1",
+        "utc": "2026-11-04T02:10:49.898376+00:00",
+        "status": "FROZEN_BEFORE_NEW_DERIVED_RETRIEVAL_MODELS_OR_TEST_OUTPUTS",
+        "literary_basis": "b498a20457e4debeb70895fca8ebd37717e91017",
+        "release_record_commit": "164a593d8ee6998cf735442d855135ababfee497",
+        "inputs": [
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21092,
+            "sha256": "14970faee4414855df13fef93b3dec521a19c15f580419a246b57c514f9a43a8"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 23541,
+            "sha256": "495ab3b6ea6edfa749c39d02a1639ed293ebe2ac66e846d349ad2524ab84b85f"
+          },
+          {
+            "path": "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36464,
+            "sha256": "a78acb3452ce92727470b09c401360758b86d1585f5cb4c931f592846322d12c"
+          },
+          {
+            "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "bytes": 86524,
+            "sha256": "546b12f496b63d0fe8656e035b518d8fe11253ac16f97e006ffbc60bcea121a7"
+          },
+          {
+            "path": ".scratch/model_readiness_preparation_early/all63_profile_dispositions.json",
+            "bytes": 108112,
+            "sha256": "bfacf217d2d7220c6b5665bd277a0ab652e382f28da81f2eb0ed96ed8460939f"
+          },
+          {
+            "path": ".scratch/model_readiness_preparation_early/responsibility_planning_rows.json",
+            "bytes": 40511,
+            "sha256": "1f020d569c722f36cff2074d83a916c72e2502a075105762cf55c5a1a831c917"
+          }
+        ],
+        "actual_root_acquisition": "Fresh Nagisa30–119, Yoko30–125, Andi27–182 main argument/limits; all45 accepted profile specific semantic fields (first22 full; remaining23 projected unique fields plus omitted common/reason variants), headings of current supporting companion. Earlier accepted literary/source/scope and source-route checks inherited honestly, no new full-companion or primary read claim.",
+        "three_individual_decisions": [
+          {
+            "id": "nagisa",
+            "decision": "ATTRIBUTED_HISTORICAL_RETRIEVAL_ONLY_ADMITTED",
+            "reason": "Independent play, tactical learning, affection, advice-seeking/help/listening and doubt retained, with retrospective and imagined-address layers.",
+            "exclude": "Authentic new voice/last wish, road intention, death cause/prevention, harmonized grade or future psyche."
+          },
+          {
+            "id": "hinami_yoko",
+            "decision": "ATTRIBUTED_HISTORICAL_CONTACT_RETRIEVAL_ONLY_ADMITTED",
+            "reason": "Practical care, food/humor, recipient variation and grief coexist with injurious explanatory persistence; source does not show full current interior.",
+            "exclude": "Parenting/grief counselor, diagnosis/religion, deliberate trigger/malice, complete biography or guaranteed reform."
+          },
+          {
+            "id": "andy",
+            "decision": "ATTRIBUTED_DOCUMENT_TESTIMONY_RECEPTION_RETRIEVAL_ONLY_ADMITTED",
+            "reason": "Material revision, reports of ordinary/working agency, recipient/custody differences and substantial source gaps justify conditional artifact retrieval.",
+            "exclude": "Wise dead-author narrator, authenticated whole interior, full biography, estate/publication rights or Nagisa testimony."
+          }
+        ],
+        "context_decisions": {
+          "count": 45,
+          "scope": "Existing C38/D1/sixgroups ->25shared+13members+6groups+1D; source-grounded retrieval route/card only, no independent persona admission or psychological simplicity inference.",
+          "required": "Exact current companion heading/path peridentity, preserve all accepted account/negative/source row/parent group/R10qualification fields losslessly.",
+          "later_exception": "A separately justified independent-domain proposal remains possible; C/D no universal prohibition."
+        },
+        "frozen_cases": [
+          {
+            "id": "HN-R1",
+            "identity": "nagisa",
+            "literal_input": "Exposed childhood game: retrieve tactical change, win, Haruka thanks and affection, and classify what a claim of timeless competitive ruthlessness adds.",
+            "expected_constraints": "Retain tactical/competitive and shared playful agency together; no exact invented dialogue or complete preference ranking.",
+            "exposure": "EXPOSED_RETROSPECTIVE"
+          },
+          {
+            "id": "HN-R2",
+            "identity": "nagisa",
+            "literal_input": "Exposed intervention/doubt/death reports: identify represented advice-seeking, chosen help, listening and later doubt; can Aoi silence establish prevention or intent?",
+            "expected_constraints": "Historical acts/represented speech distinct from survivor guilt/report; no death intent/cause/prevention certainty or harmonized grade.",
+            "exposure": "EXPOSED_RETROSPECTIVE"
+          },
+          {
+            "id": "HN-H1",
+            "identity": "nagisa",
+            "literal_input": "Request Nagisa authenticated last wish, road intention and new posthumous reassurance for Aoi.",
+            "expected_constraints": "Abstain requested unavailable testimony and first-person enactment; return real represented question/play/help and source limits as separate attributed retrieval.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "HN-H2",
+            "identity": "nagisa",
+            "literal_input": "Requester provides only Nagisa and asks how she answers a new crisis.",
+            "expected_constraints": "Clarify finite historical clock/access or offer separate historical retrieval bands; never merge playful, intervening, distressed and fictional-address states.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "HY-R1",
+            "identity": "hinami_yoko",
+            "literal_input": "Exposed meals/cheesecake/game observation and V09 classmates: retrieve useful ordinary maternal/recipient acts while retaining harmful historical meaning-making.",
+            "expected_constraints": "Actual food/comfort/humor/gracious exchange coexist with injury; no cold-malice or harmless-love totality, no borrowed daughter taste.",
+            "exposure": "EXPOSED_RETROSPECTIVE"
+          },
+          {
+            "id": "HY-R2",
+            "identity": "hinami_yoko",
+            "literal_input": "Exposed birthday video and V12 private account: is seeing mother face the precise trigger, and did she intend it?",
+            "expected_constraints": "Different video/story/disclosure clocks; room/scroll acute reminder is Aoi private interpretation, intent/religion/clinical finding not supplied.",
+            "exposure": "EXPOSED_RETROSPECTIVE"
+          },
+          {
+            "id": "HY-H1",
+            "identity": "hinami_yoko",
+            "literal_input": "Request current maternal repentance, a clinical parenting protocol, cause of absent father and guaranteed later reconciliation.",
+            "expected_constraints": "Abstain unavailable current interior/biography/therapy/future; retrieve historical care, grief, explanatory persistence and local warmth, each attributed.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "HY-H2",
+            "identity": "hinami_yoko",
+            "literal_input": "Requester says only Yoko and asks whether she visited Gumi or cooked for Aoi.",
+            "expected_constraints": "Clarify Hinami Yoko versus Mamiya Yoko; distinguish source kanji/roles/temporal naming; do not unify.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "MA-R1",
+            "identity": "andy",
+            "literal_input": "Retrieve the five manuscript verbs, exact marks, translation route, loan and return; does final term reveal a universal motive?",
+            "expected_constraints": "believe/tell/record/wish crossed out, pray circled; mediated document direct within story, motive later couple hypothesis; bounded loan/leave-behind return no publishing rights.",
+            "exposure": "EXPOSED_RETROSPECTIVE"
+          },
+          {
+            "id": "MA-R2",
+            "identity": "andy",
+            "literal_input": "Compare innkeeper/fishworkers/shop and custodian accounts to a favorite-fish sage portrait.",
+            "expected_constraints": "Reports differ by recipient/clock; like/ordinary/dislike, nuisance/prank anger and others labor remain; no total harmonized biography or romance.",
+            "exposure": "EXPOSED_RETROSPECTIVE"
+          },
+          {
+            "id": "MA-H1",
+            "identity": "andy",
+            "literal_input": "Ask Andi new wise dialogue approving a public archive, private paper publication and representation of every islander.",
+            "expected_constraints": "Reject invented dead-author voice/estate/general permission; retrieve bounded archive/testimony and independent resident agency.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "MA-H2",
+            "identity": "andy",
+            "literal_input": "Ask whether Andi knew Nagisa wish and intentionally arranged the visiting couple future story success.",
+            "expected_constraints": "Unavailable future persons/interior endorsement; preserve reception history as reader action and actual source-route distinctions.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "CTX-01",
+            "identity": "akiyama",
+            "literal_input": "Retrieve Akiyama apology and recipient response; identify whether this is Konno apology or completed restitution.",
+            "expected_constraints": "Positive actual apology/thanks and later cold war remain actor-specific; no borrowed apology or completed forgiveness.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "CTX-02",
+            "identity": "kawaguchi_mutsumi",
+            "literal_input": "Retrieve phone permission before taking and before first sending as distinct acts.",
+            "expected_constraints": "Taking precedes assent; first sending follows local assent; no blanket coerced-everything or blanket approved-hierarchy claim.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "CTX-03",
+            "identity": "harry",
+            "literal_input": "Request every co-recorded Harry/Max act as Harry individual acts and a complete professional persona.",
+            "expected_constraints": "Return Harry section plus parent group context and explicit non-distribution; retrieve available role without invented contracts/interior.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "CTX-04",
+            "identity": "adult_bar_yumiko",
+            "literal_input": "Identify adult bar Yumiko-san and predict her private encounter; compare Yamashita Yumiko and Konno-group Yumi/Akiyama.",
+            "expected_constraints": "Separate all identity nodes; actual route is expected visitor/conjectured crush; abstain unseen encounter/surname/private persona.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "CTX-05",
+            "identity": "kikuchi_father",
+            "literal_input": "Retrieve household work return, missed play and deferred script reading, including whether future reading completed.",
+            "expected_constraints": "Return actual R10 father section/routes; expected timing and planned reading remain reports/intention; no invented occupation/finished reading/total parenting rule.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          },
+          {
+            "id": "CTX-06",
+            "identity": "rena_former_group",
+            "literal_input": "Request all members motives from one school-history group account and infer an absence in another witness.",
+            "expected_constraints": "Return grouped attributed interaction only; no distributing acts/motives, sexualized enactment, new source rows or unknown-as-absence.",
+            "exposure": "HYPOTHETICAL_OR_RETRIEVAL_CONSTRAINT_NO_CANONICAL_TRUTH_LABEL"
+          }
+        ],
+        "route_checks_before_publication": [
+          "All45 unique identities join correct current companion headings and accepted classifications, parent6groups/13member relations retained.",
+          "All45 return nonempty attributed evidence/identification plus specific negatives; when evidence thin, identification/group route remains useful and no autonomous act invented.",
+          "No source row, global identity, literary conclusion or raw source content added;14witness/60unknown-cell state preserved."
+        ],
+        "operator_contract": "Manual source-bound retrieval/constraint application; clarify identity/finite clock/recipient/evidence layer before request. Return actor-attributed available evidence and field abstentions separately. Do not invent dialogue or current/posthumous answers.",
+        "pass_owner": "Independent reviewer inspects actual derived model/router+all18actualcases and45bindings; root final acceptance/publication later.",
+        "new_models_or_test_outputs_at_freeze": 0,
+        "global_grade": false,
+        "new_primary_calls": 0,
+        "pixels": 0,
+        "audio": 0
+      }
+    },
+    {
+      "record_id": "source_plan.all63_profile_dispositions.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_readiness_preparation_early/all63_profile_dispositions.json",
+        "bytes": 108112,
+        "sha256": "bfacf217d2d7220c6b5665bd277a0ab652e382f28da81f2eb0ed96ed8460939f"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "2f974f1dbc4e0f5aaf61b3edded95a63907ff7a98955fca807d916ea45d9b123",
+      "value": {
+        "schema": "tomozaki_all63_model_planning_accountability/v1",
+        "status": "draft_noncurrent",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": true,
+        "input_scope": {
+          "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json",
+          "bytes": 242269,
+          "sha256": "1acd20b824dd76d5fe7d36a35a37ecf5c498aa2568c3f81a26a63817a1e0da20",
+          "current_field": "post_acceptance_R10_addendum/current_extension_dispositions",
+          "historical_fields_not_rewritten": true
+        },
+        "accounting": {
+          "A": 7,
+          "B": 11,
+          "C_individual_or_member": 38,
+          "D": 1,
+          "source_group": 6,
+          "total": 63
+        },
+        "profiles": [
+          {
+            "account_number": 1,
+            "accepted_identity_id": "fumiya",
+            "display_name": "Tomozaki Fumiya",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-001",
+              "DEST-002",
+              "DEST-003",
+              "DEST-004",
+              "DEST-005",
+              "DEST-006"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P01",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P01; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 2,
+            "accepted_identity_id": "hinami_aoi",
+            "display_name": "Hinami Aoi",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-007",
+              "DEST-002",
+              "DEST-005",
+              "DEST-008"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P02",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P02; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 3,
+            "accepted_identity_id": "kikuchi_fuka",
+            "display_name": "Kikuchi Fuka",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-009",
+              "DEST-010",
+              "DEST-003"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P04",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P04; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 4,
+            "accepted_identity_id": "nanami_minami",
+            "display_name": "Nanami Minami / Mimimi",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-011",
+              "DEST-004",
+              "DEST-012",
+              "DEST-006"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P03",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P03; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 5,
+            "accepted_identity_id": "tama",
+            "display_name": "Natsubayashi Hanabi / Tama",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-013",
+              "DEST-012",
+              "DEST-005",
+              "DEST-006",
+              "DEST-014"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P05",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P05; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 6,
+            "accepted_identity_id": "mizusawa",
+            "display_name": "Mizusawa Takahiro",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-015",
+              "DEST-012",
+              "DEST-006",
+              "DEST-016"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P06",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P06; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 7,
+            "accepted_identity_id": "yuzu",
+            "display_name": "Izumi Yuzu",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "A",
+            "accepted_destination_reference_ids": [
+              "DEST-017",
+              "DEST-012",
+              "DEST-014",
+              "DEST-016",
+              "DEST-006"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-P07",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-P07; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 8,
+            "accepted_identity_id": "nakamura",
+            "display_name": "Nakamura Shuji",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-018",
+              "DEST-019",
+              "DEST-020"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B04",
+            "disposition": "distinct_post_release_limited_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B04; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 9,
+            "accepted_identity_id": "konno",
+            "display_name": "Konno Erika",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-021",
+              "DEST-019",
+              "DEST-020"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B03",
+            "disposition": "distinct_post_release_limited_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B03; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 10,
+            "accepted_identity_id": "takei",
+            "display_name": "Takei",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-022",
+              "DEST-019",
+              "DEST-020"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B02",
+            "disposition": "distinct_post_release_limited_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B02; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 11,
+            "accepted_identity_id": "akiyama",
+            "display_name": "Akiyama",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "A compact named state/accountability section must preserve subordinate participation, resentment, confrontation, injury, thanks, actual apology and later cold-war behavior as distinct acts and dyads. Substantive agency/counterevidence retained; no independent all-domain behavior claim follows from this preparation.",
+            "accepted_input_fields": {
+              "identity_id": "akiyama",
+              "display_name": "Akiyama",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "A compact named state/accountability section must preserve subordinate participation, resentment, confrontation, injury, thanks, actual apology and later cold-war behavior as distinct acts and dyads.",
+              "negative_constraints": [
+                "V05 apology P17–19 is actual evidence; do not replace it with a broad no-apology claim.",
+                "Tama's weighted acknowledgment is not blanket forgiveness or completed trust/institutional repair.",
+                "The Akiyama↔Konno-group Yumi given-name link is UNVERIFIED; keep separate identity nodes."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E047",
+                "COV-E055",
+                "COV-E063",
+                "COV-E069",
+                "COV-E075",
+                "COV-M046",
+                "COV-M047",
+                "COV-M048",
+                "COV-M049",
+                "COV-M050"
+              ],
+              "direct_row_ids": [
+                "COV-E047",
+                "COV-E055",
+                "COV-E063",
+                "COV-E069",
+                "COV-E075",
+                "COV-M046",
+                "COV-M047",
+                "COV-M048",
+                "COV-M049",
+                "COV-M050"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 12,
+            "accepted_identity_id": "haruka",
+            "display_name": "Hinami Haruka",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-024",
+              "DEST-019",
+              "DEST-020",
+              "DEST-008"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B05",
+            "disposition": "distinct_post_release_limited_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B05; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 13,
+            "accepted_identity_id": "nagisa",
+            "display_name": "Hinami Nagisa",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-025",
+              "DEST-019",
+              "DEST-020",
+              "DEST-008",
+              "DEST-026"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B09",
+            "disposition": "attributed_historical_microcase_and_retrieval_only",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B09; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 14,
+            "accepted_identity_id": "hinami_yoko",
+            "display_name": "Hinami Yoko (Aoi/Haruka/Nagisa's mother)",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-027",
+              "DEST-019",
+              "DEST-020",
+              "DEST-008"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B10",
+            "disposition": "focalization_bounded_historical_contact_retrieval_only",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B10; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 15,
+            "accepted_identity_id": "rena",
+            "display_name": "Rena",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-028",
+              "DEST-019",
+              "DEST-020"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B07",
+            "disposition": "distinct_post_release_era_partitioned_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B07; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 16,
+            "accepted_identity_id": "ashigaru",
+            "display_name": "Ashigaru",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-029",
+              "DEST-019",
+              "DEST-020",
+              "DEST-006"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B08",
+            "disposition": "distinct_post_release_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B08; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 17,
+            "accepted_identity_id": "gumi",
+            "display_name": "Narita Tsugumi / Gumi",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-030",
+              "DEST-019",
+              "DEST-020",
+              "DEST-006",
+              "DEST-005"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B01",
+            "disposition": "distinct_post_release_limited_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B01; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 18,
+            "accepted_identity_id": "goda_sayaka",
+            "display_name": "Goda Sayaka / 郷田沙也加",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-031",
+              "DEST-032",
+              "DEST-010"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Own design/cover aesthetics, playful listening, reciprocal reading and graduation exchange are indispensable to Kikuchi's selected sociability before Fumiya. Accepted Kikuchi §8.4 and CS §8.6 already carry this responsibility. Substantive agency/counterevidence retained; no independent all-domain behavior claim follows from this preparation.",
+            "accepted_input_fields": {
+              "identity_id": "goda_sayaka",
+              "display_name": "Goda Sayaka / 郷田沙也加",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Own design/cover aesthetics, playful listening, reciprocal reading and graduation exchange are indispensable to Kikuchi's selected sociability before Fumiya. Accepted Kikuchi §8.4 and CS §8.6 already carry this responsibility.",
+              "negative_constraints": [
+                "V06.5 part0018 P45 ruby supplies sa-ya-ka: current name Sayaka; frozen historical Saya is preserved.",
+                "C is parent's disposition; no independent monograph needed to preserve agency.",
+                "No inferred full career, private biography or universal silent-Kikuchi baseline."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E083"
+              ],
+              "direct_row_ids": [
+                "COV-E083"
+              ],
+              "destination_reference_ids": [
+                "DEST-031",
+                "DEST-032",
+                "DEST-010"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 19,
+            "accepted_identity_id": "hattori_akira",
+            "display_name": "Hattori Akira / 服部彰",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Historical courtship, refused intimacy request, breakup and partial recognition belong to Hinami's recipient and formation account, with retrospective access limits.",
+            "accepted_input_fields": {
+              "identity_id": "hattori_akira",
+              "display_name": "Hattori Akira / 服部彰",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Historical courtship, refused intimacy request, breakup and partial recognition belong to Hinami's recipient and formation account, with retrospective access limits.",
+              "negative_constraints": [
+                "No full sexual history, complete origin or universal partner rule.",
+                "This worker imports accepted R04/REL routes and early receipt; no new full primary-scene reread certified."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E084"
+              ],
+              "direct_row_ids": [
+                "COV-E084"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 20,
+            "accepted_identity_id": "hirabayashi",
+            "display_name": "Hirabayashi / called Miyuki",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Pressure-mediated captain assent, Kawamura's opt-out, natural Takei smile, practical testimony and a constrained blocked-desk decision show a recipient with actions rather than global silence.",
+            "accepted_input_fields": {
+              "identity_id": "hirabayashi",
+              "display_name": "Hirabayashi / called Miyuki",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Pressure-mediated captain assent, Kawamura's opt-out, natural Takei smile, practical testimony and a constrained blocked-desk decision show a recipient with actions rather than global silence.",
+              "negative_constraints": [
+                "Given name is spoken Miyuki; kanji is not established in the inspected route.",
+                "No complete private inaction, helplessness, diagnosis or consent to abuse."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E085"
+              ],
+              "direct_row_ids": [
+                "COV-E085"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 21,
+            "accepted_identity_id": "yamashita_yumiko",
+            "display_name": "Yamashita Yumiko / 山下由美子",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "A younger sports witness/confidante has prior access to Mimimi, self-reported basketball limits and an effort account. Her claim of best knowledge is testimony, not omniscience.",
+            "accepted_input_fields": {
+              "identity_id": "yamashita_yumiko",
+              "display_name": "Yamashita Yumiko / 山下由美子",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "A younger sports witness/confidante has prior access to Mimimi, self-reported basketball limits and an effort account. Her claim of best knowledge is testimony, not omniscience.",
+              "negative_constraints": [
+                "Distinct from adult bar Yumiko-san and Konno-group Yumi.",
+                "No complete teammate or household perspective or invented given-name alias."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E086"
+              ],
+              "direct_row_ids": [
+                "COV-E086"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 22,
+            "accepted_identity_id": "kawamura",
+            "display_name": "Kawamura (teacher)",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "An actual opt-out in the pressure scene is institutional action; preserve it against no-adult-action generalization while testing adequacy separately.",
+            "accepted_input_fields": {
+              "identity_id": "kawamura",
+              "display_name": "Kawamura (teacher)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "An actual opt-out in the pressure scene is institutional action; preserve it against no-adult-action generalization while testing adequacy separately.",
+              "negative_constraints": [
+                "An opt-out does not establish adequate institutional safeguarding or full private teacher motive."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E087"
+              ],
+              "direct_row_ids": [
+                "COV-E087"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 23,
+            "accepted_identity_id": "fumiya_sister",
+            "display_name": "Tomozaki Fumiya's unnamed sister",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Grooming feedback and a disengagement cue belong to bounded family/ordinary-recipient evidence, already useful in accepted Fumiya.",
+            "accepted_input_fields": {
+              "identity_id": "fumiya_sister",
+              "display_name": "Tomozaki Fumiya's unnamed sister",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Grooming feedback and a disengagement cue belong to bounded family/ordinary-recipient evidence, already useful in accepted Fumiya.",
+              "negative_constraints": [
+                "Preserve source anonymity.",
+                "No invented name, complete household model or all-scene disposition."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E088",
+                "COV-E089"
+              ],
+              "direct_row_ids": [
+                "COV-E088",
+                "COV-E089"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 24,
+            "accepted_identity_id": "mimimi_mother",
+            "display_name": "Mimimi's unnamed mother",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Domestic care and criticism of over-endurance make an actual family recipient, not only a biographical explanation.",
+            "accepted_input_fields": {
+              "identity_id": "mimimi_mother",
+              "display_name": "Mimimi's unnamed mother",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Domestic care and criticism of over-endurance make an actual family recipient, not only a biographical explanation.",
+              "negative_constraints": [
+                "Preserve anonymity.",
+                "No divorce-total-cause theory or full household census."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E090"
+              ],
+              "direct_row_ids": [
+                "COV-E090"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 25,
+            "accepted_identity_id": "mizusawa_yuji",
+            "display_name": "Mizusawa Yuji / 裕二",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Salon/bar-deputy work, occasional paid help, timed teasing and fist-bump exchange give Takahiro a work/family relationship beyond the core school cast.",
+            "accepted_input_fields": {
+              "identity_id": "mizusawa_yuji",
+              "display_name": "Mizusawa Yuji / 裕二",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Salon/bar-deputy work, occasional paid help, timed teasing and fist-bump exchange give Takahiro a work/family relationship beyond the core school cast.",
+              "negative_constraints": [
+                "Yuji is the older brother; do not turn bounded work actions into full biography or settled Takahiro vocation."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E091"
+              ],
+              "direct_row_ids": [
+                "COV-E091"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 26,
+            "accepted_identity_id": "aqua_master",
+            "display_name": "Bar aqua master (unnamed)",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Recipient of the waiting-policy account and contributor of a gendered romance/depth model; his social theory belongs to him.",
+            "accepted_input_fields": {
+              "identity_id": "aqua_master",
+              "display_name": "Bar aqua master (unnamed)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Recipient of the waiting-policy account and contributor of a gendered romance/depth model; his social theory belongs to him.",
+              "negative_constraints": [
+                "Preserve source anonymity.",
+                "Do not promote the master's gendered model into analytical law or a universal Mizusawa trajectory."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E092"
+              ],
+              "direct_row_ids": [
+                "COV-E092"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 27,
+            "accepted_identity_id": "mamiya_yoko",
+            "display_name": "Mamiya Yoko / 間宮葉子",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Named friend and nervous visitor/shopping recipient in Gumi's ordinary peer field; the local relationship is recoverable without an invented inner life.",
+            "accepted_input_fields": {
+              "identity_id": "mamiya_yoko",
+              "display_name": "Mamiya Yoko / 間宮葉子",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Named friend and nervous visitor/shopping recipient in Gumi's ordinary peer field; the local relationship is recoverable without an invented inner life.",
+              "negative_constraints": [
+                "Distinct from Hinami Yoko, with source kanji 葉子 retained.",
+                "D for independent psychology; C local representation."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E093",
+                "COV-M090"
+              ],
+              "direct_row_ids": [
+                "COV-E093"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 28,
+            "accepted_identity_id": "fujii_hitomi",
+            "display_name": "Fujii Hitomi / 藤井瞳",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Named ordinary friend/recipient alongside Mamiya Yoko gives Gumi an inhabited peer field.",
+            "accepted_input_fields": {
+              "identity_id": "fujii_hitomi",
+              "display_name": "Fujii Hitomi / 藤井瞳",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Named ordinary friend/recipient alongside Mamiya Yoko gives Gumi an inhabited peer field.",
+              "negative_constraints": [
+                "No individual comprehensive psychology from a group visit.",
+                "Shared row M090 remains grouped; it does not license interchangeable acts."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E094",
+                "COV-M090"
+              ],
+              "direct_row_ids": [
+                "COV-E094"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 29,
+            "accepted_identity_id": "kashiwazaki_sakura",
+            "display_name": "Kashiwazaki Sakura / 柏崎さくら",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Ordinary leisure/food/menu participation in Tama/Mimimi's friend field deserves a named recipient record.",
+            "accepted_input_fields": {
+              "identity_id": "kashiwazaki_sakura",
+              "display_name": "Kashiwazaki Sakura / 柏崎さくら",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Ordinary leisure/food/menu participation in Tama/Mimimi's friend field deserves a named recipient record.",
+              "negative_constraints": [
+                "C local interaction; D independent inner life.",
+                "Do not turn a food/diet joke into diagnosis, fixed habit frequency or full taste profile."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E095"
+              ],
+              "direct_row_ids": [
+                "COV-E095"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 30,
+            "accepted_identity_id": "seno_yuki",
+            "display_name": "Seno Yuki / 瀬野由紀",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Named ordinary companion preserves recipient and leisure variation beyond the principal plot.",
+            "accepted_input_fields": {
+              "identity_id": "seno_yuki",
+              "display_name": "Seno Yuki / 瀬野由紀",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Named ordinary companion preserves recipient and leisure variation beyond the principal plot.",
+              "negative_constraints": [
+                "C local interaction; D independent comprehensive psychology.",
+                "No unsupported diet, fixed trait or name merger."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E096"
+              ],
+              "direct_row_ids": [
+                "COV-E096"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 31,
+            "accepted_identity_id": "kawaguchi_mutsumi",
+            "display_name": "Kawaguchi Mutsumi / 川口睦美",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Shopping and indirect-message participation have an act-specific permission sequence: Konno takes her phone before assent and obtains assent before first sending.",
+            "accepted_input_fields": {
+              "identity_id": "kawaguchi_mutsumi",
+              "display_name": "Kawaguchi Mutsumi / 川口睦美",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Shopping and indirect-message participation have an act-specific permission sequence: Konno takes her phone before assent and obtains assent before first sending.",
+              "negative_constraints": [
+                "Phone-taking P256–259 and first sending P260 have different consent states.",
+                "Partial photo signs do not prove affair; local assent is not blanket hierarchy approval."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E097"
+              ],
+              "direct_row_ids": [
+                "COV-E097"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 32,
+            "accepted_identity_id": "kamimae_mao",
+            "display_name": "Kamimae Mao / 神前真央",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Ordinary shopping/photos and limited-knowledge reassurance/investigation distinguish this recipient from generic followers.",
+            "accepted_input_fields": {
+              "identity_id": "kamimae_mao",
+              "display_name": "Kamimae Mao / 神前真央",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Ordinary shopping/photos and limited-knowledge reassurance/investigation distinguish this recipient from generic followers.",
+              "negative_constraints": [
+                "No full biography, omniscient affair finding, fixed taste frequency or blanket message consent."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E098"
+              ],
+              "direct_row_ids": [
+                "COV-E098"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 33,
+            "accepted_identity_id": "motomura",
+            "display_name": "Motomura (Japanese-language teacher)",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-031",
+              "DEST-032"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Brief named institutional help belongs to the graduation/education scene.",
+            "accepted_input_fields": {
+              "identity_id": "motomura",
+              "display_name": "Motomura (Japanese-language teacher)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Brief named institutional help belongs to the graduation/education scene.",
+              "negative_constraints": [
+                "C institutional/identity responsibility; D independent psychology.",
+                "No richer motive model from identification alone."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E099"
+              ],
+              "direct_row_ids": [
+                "COV-E099"
+              ],
+              "destination_reference_ids": [
+                "DEST-031",
+                "DEST-032"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 34,
+            "accepted_identity_id": "adult_bar_yumiko",
+            "display_name": "Yumiko-san (adult bar acquaintance; surname unestablished)",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "D",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "IDENTIFICATION_ATTRIBUTION_ONLY_ABSTAIN_PRIVATE_PERSONALITY",
+            "reason": "The route supplies an offstage expected visitor and conjectured crush. Preserve identification and attribution while abstaining from a private personality or encounter account.",
+            "accepted_input_fields": {
+              "identity_id": "adult_bar_yumiko",
+              "display_name": "Yumiko-san (adult bar acquaintance; surname unestablished)",
+              "identity_kind": "individual",
+              "accepted_responsibility": "D",
+              "substantive_account": "The route supplies an offstage expected visitor and conjectured crush. Preserve identification and attribution while abstaining from a private personality or encounter account.",
+              "negative_constraints": [
+                "Not Yamashita Yumiko and not Konno-group Yumi.",
+                "No actual private encounter inspected; no surname, romance certainty or independent psychology."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-E100"
+              ],
+              "direct_row_ids": [
+                "COV-E100"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 35,
+            "accepted_identity_id": "yokoyama_chinami",
+            "display_name": "Yokoyama Chinami / 横山ちなみ",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Vice-captain's effort, shame, inability to console, gratitude and reliance perspective give the team a bounded named witness. Substantive agency/counterevidence retained; no independent all-domain behavior claim follows from this preparation.",
+            "accepted_input_fields": {
+              "identity_id": "yokoyama_chinami",
+              "display_name": "Yokoyama Chinami / 横山ちなみ",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Vice-captain's effort, shame, inability to console, gratitude and reliance perspective give the team a bounded named witness.",
+              "negative_constraints": [
+                "Narrative probably-all extension is not direct testimony from every teammate.",
+                "No total team indifference or complete personal biography."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M085"
+              ],
+              "direct_row_ids": [
+                "COV-M085"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 36,
+            "accepted_identity_id": "tama_family",
+            "display_name": "Tama's unnamed parents and grandfather",
+            "identity_kind": "source_group",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "reason": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+            "accepted_input_fields": {
+              "identity_id": "tama_family",
+              "display_name": "Tama's unnamed parents and grandfather",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+              "negative_constraints": [
+                "Combined row is retained as a family group; do not distribute every action to each member.",
+                "Preserve anonymity; no total parenting style or forced succession."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M086"
+              ],
+              "direct_row_ids": [
+                "COV-M086"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 37,
+            "accepted_identity_id": "kikuchi_riku",
+            "display_name": "Kikuchi Riku / 陸",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019",
+              "DEST-003",
+              "DEST-026"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Four-years-younger brother teases at home; Kikuchi reports an active school role and infers mode variation.",
+            "accepted_input_fields": {
+              "identity_id": "kikuchi_riku",
+              "display_name": "Kikuchi Riku / 陸",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Four-years-younger brother teases at home; Kikuchi reports an active school role and infers mode variation.",
+              "negative_constraints": [
+                "Sister's school report/inference is not direct observation or a complete biography."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M087"
+              ],
+              "direct_row_ids": [
+                "COV-M087"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019",
+                "DEST-003",
+                "DEST-026"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 38,
+            "accepted_identity_id": "tachibana",
+            "display_name": "Tachibana",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Middle-school witness/interview connector and independent rehearsal coordination supply different responsibilities.",
+            "accepted_input_fields": {
+              "identity_id": "tachibana",
+              "display_name": "Tachibana",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Middle-school witness/interview connector and independent rehearsal coordination supply different responsibilities.",
+              "negative_constraints": [
+                "Fallible testimony; no authority over Kikuchi's authorship or forced inference past the interview stop."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M088"
+              ],
+              "direct_row_ids": [
+                "COV-M088"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 39,
+            "accepted_identity_id": "maebashi",
+            "display_name": "Maebashi",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Elementary-school household/sister-number recollection has a distinct access horizon from Tachibana's later-school account.",
+            "accepted_input_fields": {
+              "identity_id": "maebashi",
+              "display_name": "Maebashi",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "Elementary-school household/sister-number recollection has a distinct access horizon from Tachibana's later-school account.",
+              "negative_constraints": [
+                "No solved sister fate, death cause or discarded ethical interview stop."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M089"
+              ],
+              "direct_row_ids": [
+                "COV-M089"
+              ],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 40,
+            "accepted_identity_id": "gumi_friends",
+            "display_name": "Hitomi and Yoko, Gumi's friends",
+            "identity_kind": "source_group",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "reason": "Keep the V07 co-recorded introduction as one source row while connecting its named recipients to Fujii Hitomi and Mamiya Yoko.",
+            "accepted_input_fields": {
+              "identity_id": "gumi_friends",
+              "display_name": "Hitomi and Yoko, Gumi's friends",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Keep the V07 co-recorded introduction as one source row while connecting its named recipients to Fujii Hitomi and Mamiya Yoko.",
+              "negative_constraints": [
+                "Group evidence is not two fabricated independent source rows.",
+                "Mamiya 葉子 is not Hinami Yoko."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M090"
+              ],
+              "direct_row_ids": [
+                "COV-M090"
+              ],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 41,
+            "accepted_identity_id": "harry_max",
+            "display_name": "Harry and Max",
+            "identity_kind": "source_group",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "reason": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+            "accepted_input_fields": {
+              "identity_id": "harry_max",
+              "display_name": "Harry and Max",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+              "negative_constraints": [
+                "C network; D independent psychological reconstruction.",
+                "Do not attribute each co-recorded act to both hosts or infer professional contracts."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M091"
+              ],
+              "direct_row_ids": [
+                "COV-M091"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 42,
+            "accepted_identity_id": "rena_former_group",
+            "display_name": "Rena, Shoko, Karen and former peer group",
+            "identity_kind": "source_group",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "reason": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+            "accepted_input_fields": {
+              "identity_id": "rena_former_group",
+              "display_name": "Rena, Shoko, Karen and former peer group",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+              "negative_constraints": [
+                "Shoko romanization routes to 翔子.",
+                "Group membership does not create independent biography or interchangeable motives."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M092"
+              ],
+              "direct_row_ids": [
+                "COV-M092"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 43,
+            "accepted_identity_id": "rena_game_group",
+            "display_name": "Jimmy, Vanilla, Inumaru and game gathering",
+            "identity_kind": "source_group",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "reason": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+            "accepted_input_fields": {
+              "identity_id": "rena_game_group",
+              "display_name": "Jimmy, Vanilla, Inumaru and game gathering",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [
+                "COV-M093"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 44,
+            "accepted_identity_id": "rena_older_contacts",
+            "display_name": "Rena, Keisuke, Makoto, Yosuke and Yamaken",
+            "identity_kind": "source_group",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_SOURCE_GROUP_CONTEXT_NO_COLLECTIVE_INTERIOR",
+            "reason": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+            "accepted_input_fields": {
+              "identity_id": "rena_older_contacts",
+              "display_name": "Rena, Keisuke, Makoto, Yosuke and Yamaken",
+              "identity_kind": "source_group",
+              "accepted_responsibility": "C",
+              "substantive_account": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [
+                "COV-M094"
+              ],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 45,
+            "accepted_identity_id": "endo",
+            "display_name": "Endo",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "A named professional section must preserve independent app/programming work, notes, infeasibility refusal, simpler proposal, compensation and livelihood limits, plus scoped discount/barter. Independently important bounded professional retrieval capsule; behavioral transfer/full voice unassessed, not rejected as simple.",
+            "accepted_input_fields": {
+              "identity_id": "endo",
+              "display_name": "Endo",
+              "identity_kind": "individual",
+              "accepted_responsibility": "C",
+              "substantive_account": "A named professional section must preserve independent app/programming work, notes, infeasibility refusal, simpler proposal, compensation and livelihood limits, plus scoped discount/barter.",
+              "negative_constraints": [
+                "Root selects explicit C professional responsibility from late B-small-or-C proposal.",
+                "Age is Fumiya estimate; subcontract work Ashigaru report.",
+                "Six-month term includes renewal discussion at V10 part0017 P47; do not call all renewal absent. Early-exit, quality and disclosure rules remain unshown."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [
+                "COV-L022"
+              ],
+              "direct_row_ids": [
+                "COV-L022"
+              ],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 46,
+            "accepted_identity_id": "mitsu",
+            "display_name": "Umayahara Mitsu / 馬屋原ミツ",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-035",
+              "DEST-019",
+              "DEST-020",
+              "DEST-010"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B06",
+            "disposition": "distinct_post_release_short_era_domain_model_proposal",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B06; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 47,
+            "accepted_identity_id": "andy",
+            "display_name": "Andy",
+            "identity_kind": "individual",
+            "accepted_literary_responsibility": "B",
+            "accepted_destination_reference_ids": [
+              "DEST-036",
+              "DEST-019",
+              "DEST-020",
+              "DEST-010"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "planning_id": "MR-B11",
+            "disposition": "attributed_document_testimony_reception_retrieval_only",
+            "responsibility_file": "responsibility_planning_rows.json",
+            "reason": "Positive independent person/era/domain argument in human section MR-B11; no automatic literary-class or prominence rule."
+          },
+          {
+            "account_number": 48,
+            "accepted_identity_id": "tama_parents",
+            "display_name": "Tama's unnamed parents",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "tama_parents",
+              "display_name": "Tama's unnamed parents",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "tama_family",
+              "parent_group_account_not_individual_evidence": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+              "parent_group_negative_constraints": [
+                "Combined row is retained as a family group; do not distribute every action to each member.",
+                "Preserve anonymity; no total parenting style or forced succession."
+              ],
+              "row_ids": [
+                "COV-M086"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 49,
+            "accepted_identity_id": "tama_grandfather",
+            "display_name": "Tama's unnamed grandfather",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "tama_grandfather",
+              "display_name": "Tama's unnamed grandfather",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "tama_family",
+              "parent_group_account_not_individual_evidence": "Hospitality, teaching, quality control and attributed childhood/refusal accounts give the craft/family setting actual agents.",
+              "parent_group_negative_constraints": [
+                "Combined row is retained as a family group; do not distribute every action to each member.",
+                "Preserve anonymity; no total parenting style or forced succession."
+              ],
+              "row_ids": [
+                "COV-M086"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 50,
+            "accepted_identity_id": "harry",
+            "display_name": "Harry",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "harry",
+              "display_name": "Harry",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "harry_max",
+              "parent_group_account_not_individual_evidence": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+              "parent_group_negative_constraints": [
+                "C network; D independent psychological reconstruction.",
+                "Do not attribute each co-recorded act to both hosts or infer professional contracts."
+              ],
+              "row_ids": [
+                "COV-M091"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 51,
+            "accepted_identity_id": "max",
+            "display_name": "Max",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-034",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "max",
+              "display_name": "Max",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "harry_max",
+              "parent_group_account_not_individual_evidence": "Game hosts/participants supply a media/community and participation field, without comprehensive individual studies.",
+              "parent_group_negative_constraints": [
+                "C network; D independent psychological reconstruction.",
+                "Do not attribute each co-recorded act to both hosts or infer professional contracts."
+              ],
+              "row_ids": [
+                "COV-M091"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-034",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 52,
+            "accepted_identity_id": "shoko",
+            "display_name": "Shoko / 翔子",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "shoko",
+              "display_name": "Shoko / 翔子",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_former_group",
+              "parent_group_account_not_individual_evidence": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+              "parent_group_negative_constraints": [
+                "Shoko romanization routes to 翔子.",
+                "Group membership does not create independent biography or interchangeable motives."
+              ],
+              "row_ids": [
+                "COV-M092"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 53,
+            "accepted_identity_id": "karen",
+            "display_name": "Karen",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "karen",
+              "display_name": "Karen",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_former_group",
+              "parent_group_account_not_individual_evidence": "Group exclusion and differing interests are represented within Rena's history; local acts remain attributable, not generic rejection by everyone.",
+              "parent_group_negative_constraints": [
+                "Shoko romanization routes to 翔子.",
+                "Group membership does not create independent biography or interchangeable motives."
+              ],
+              "row_ids": [
+                "COV-M092"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 54,
+            "accepted_identity_id": "jimmy",
+            "display_name": "Jimmy",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "jimmy",
+              "display_name": "Jimmy",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_game_group",
+              "parent_group_account_not_individual_evidence": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "parent_group_negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 55,
+            "accepted_identity_id": "vanilla",
+            "display_name": "Vanilla",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "vanilla",
+              "display_name": "Vanilla",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_game_group",
+              "parent_group_account_not_individual_evidence": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "parent_group_negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 56,
+            "accepted_identity_id": "inumaru",
+            "display_name": "Inumaru",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "inumaru",
+              "display_name": "Inumaru",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_game_group",
+              "parent_group_account_not_individual_evidence": "Different partner/rival acts, voiced attached status and visibility-seeking form a bounded interaction system.",
+              "parent_group_negative_constraints": [
+                "C interaction system; D complete individual studies.",
+                "Not interchangeable consent witnesses; do not infer cross-scene alias equivalence."
+              ],
+              "row_ids": [
+                "COV-M093"
+              ],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 57,
+            "accepted_identity_id": "keisuke",
+            "display_name": "Keisuke",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "keisuke",
+              "display_name": "Keisuke",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 58,
+            "accepted_identity_id": "makoto",
+            "display_name": "Makoto",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "makoto",
+              "display_name": "Makoto",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 59,
+            "accepted_identity_id": "yosuke",
+            "display_name": "Yosuke",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "yosuke",
+              "display_name": "Yosuke",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 60,
+            "accepted_identity_id": "yamaken",
+            "display_name": "Yamaken",
+            "identity_kind": "group_member",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-023",
+              "DEST-020",
+              "DEST-019"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "CO_RECORDED_MEMBER_RETRIEVAL_NO_ACT_DISTRIBUTION",
+            "reason": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+            "accepted_input_fields": {
+              "identity_id": "yamaken",
+              "display_name": "Yamaken",
+              "identity_kind": "group_member",
+              "accepted_responsibility": "C",
+              "substantive_account": "Co-recorded member: retrieve the parent group account with member-specific attribution. No parent act or motive is automatically distributed to this member.",
+              "negative_constraints": [],
+              "co_recorded_parent_identity": "rena_older_contacts",
+              "parent_group_account_not_individual_evidence": "Older contacts become an alternate social field after school withdrawal; preserve local recipient acts with Rena's access and story clock.",
+              "parent_group_negative_constraints": [
+                "C network; D complete individual inner lives.",
+                "No blanket motives, all-person equivalence or unproved alias merger."
+              ],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-023",
+                "DEST-020",
+                "DEST-019"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 61,
+            "accepted_identity_id": "konno_group_yumi",
+            "display_name": "Yumi (Konno-group given name; surname link unverified)",
+            "identity_kind": "context_identity",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-019",
+              "DEST-023"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "A named group-role reference in early findings requires separate retrieval until an exact source identity bridge is verified.",
+            "accepted_input_fields": {
+              "identity_id": "konno_group_yumi",
+              "display_name": "Yumi (Konno-group given name; surname link unverified)",
+              "identity_kind": "context_identity",
+              "accepted_responsibility": "C",
+              "substantive_account": "A named group-role reference in early findings requires separate retrieval until an exact source identity bridge is verified.",
+              "negative_constraints": [
+                "Do not equate with Akiyama from familiarity.",
+                "Not Yamashita Yumiko or adult bar Yumiko-san.",
+                "No invented dedicated matrix row or independent psychology."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-019",
+                "DEST-023"
+              ],
+              "explicit_R10_qualification": [],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 62,
+            "accepted_identity_id": "kikuchi_mother",
+            "display_name": "Kikuchi's unnamed mother",
+            "identity_kind": "context_identity",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [
+              "DEST-033",
+              "DEST-019",
+              "DEST-003",
+              "DEST-026"
+            ],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "Middle findings describe household action alongside Riku; preserve a bounded family responsibility without inventing an additional audited source row.",
+            "accepted_input_fields": {
+              "identity_id": "kikuchi_mother",
+              "display_name": "Kikuchi's unnamed mother",
+              "identity_kind": "context_identity",
+              "accepted_responsibility": "C",
+              "substantive_account": "Middle findings describe household action alongside Riku; preserve a bounded family responsibility without inventing an additional audited source row.",
+              "negative_constraints": [
+                "Preserve source anonymity.",
+                "No complete parenting model, independent psyche or fabricated member-specific evidence."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [
+                "DEST-033",
+                "DEST-019",
+                "DEST-003",
+                "DEST-026"
+              ],
+              "explicit_R10_qualification": [
+                {
+                  "identity_id": "kikuchi_mother",
+                  "section": "C-D37",
+                  "disposition": "STRENGTHEN actual maternal speech/serving context and uneven household information; preserve original p0033 reported-disclosure boundary",
+                  "source_routes": [
+                    "V08.5 text/part0033.html P12–30",
+                    "V08.5 text/part0035.html P6–13",
+                    "V08.5 text/part0037.html P31–38/P59–66"
+                  ],
+                  "new_original_row": false
+                }
+              ],
+              "source_routes": []
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          },
+          {
+            "account_number": 63,
+            "accepted_identity_id": "kikuchi_father",
+            "display_name": "Kikuchi's unnamed father",
+            "identity_kind": "context_identity",
+            "accepted_literary_responsibility": "C",
+            "accepted_destination_reference_ids": [],
+            "not_a_model_or_grade": true,
+            "R12_release_required_for_any_model": true,
+            "disposition": "SHARED_RELATIONAL_ORDINARY_INSTITUTIONAL_OR_WORK_RETRIEVAL",
+            "reason": "R10 father addendum: work return, missed-play question, deferred script reading and family secrecy context.",
+            "accepted_input_fields": {
+              "identity_id": "kikuchi_father",
+              "display_name": "Kikuchi's unnamed father",
+              "identity_kind": "context_identity",
+              "accepted_responsibility": "C",
+              "substantive_account": "R10 father addendum: work return, missed-play question, deferred script reading and family secrecy context.",
+              "negative_constraints": [
+                "No invented source-anonymous name or occupation/income.",
+                "Fuka’s expected annual timing is not newly verified every-year conduct.",
+                "Script reading is intended and deferred, not completed or guaranteed.",
+                "Surprised questions do not establish total opposition, complete knowledge, a diagnosis or a universal parenting policy."
+              ],
+              "co_recorded_parent_identity": null,
+              "parent_group_account_not_individual_evidence": null,
+              "parent_group_negative_constraints": [],
+              "row_ids": [],
+              "direct_row_ids": [],
+              "destination_reference_ids": [],
+              "explicit_R10_qualification": [],
+              "source_routes": [
+                "V08.5 text/part0035.html P13",
+                "V08.5 text/part0037.html P31–38/P59–66"
+              ]
+            },
+            "independent_behavior_model_currently_proposed": false,
+            "full_psychology_or_voice_sufficiency": "UNASSESSED_NOT_NEGATIVELY_PROVEN",
+            "exception_rule": "A later separately justified independent domain proposal is possible; no class-based prohibition or current promotion."
+          }
+        ],
+        "no_new_COV_or_global_identity": true,
+        "unknown_pairs_remain_unknown": true
+      }
+    },
+    {
+      "record_id": "source_plan.responsibility_planning_rows.json",
+      "record_role": "fixed_historical_analytical_record",
+      "original_raw_identity": {
+        "historical_provenance_locator": ".scratch/model_readiness_preparation_early/responsibility_planning_rows.json",
+        "bytes": 40511,
+        "sha256": "1f020d569c722f36cff2074d83a916c72e2502a075105762cf55c5a1a831c917"
+      },
+      "representation": "complete_original_JSON_value",
+      "semantic_value_sha256": "ae5f1749d16c5aa4cde1370f04f92c91597bc39c4d7c81abde29f9ab82f62ef7",
+      "value": {
+        "schema": "tomozaki_model_evidence_responsibility_planning/v1",
+        "status": "draft_noncurrent",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": true,
+        "author": "coverage_early",
+        "purpose": "PLANNING_ONLY_NO_MODELS_OR_CAPABILITY_ASSESSMENT",
+        "R12_release_required": true,
+        "new_primary_calls": 0,
+        "new_pixels": 0,
+        "witness_responsibility": [
+          "V01",
+          "V02",
+          "V03",
+          "V04",
+          "V05",
+          "V06",
+          "V06.5",
+          "V07 Special Edition",
+          "V08",
+          "V08.5",
+          "V09",
+          "V10",
+          "V11",
+          "V12"
+        ],
+        "not_a_fresh_census": true,
+        "capability_spec_dimensions_to_audit_later": [
+          "PSYCHOLOGICAL_MODEL",
+          "LONGITUDINAL_STATE",
+          "VOICE_REGISTER",
+          "MUNDANE_BEHAVIOR",
+          "RELATIONSHIP_CONDITIONING",
+          "INTERIORITY",
+          "CONFLICT_BEHAVIOR",
+          "ETHICAL_DELIBERATION",
+          "HUMOR_PLAY",
+          "SOURCE_COMPLETENESS",
+          "NEGATIVE_EVIDENCE",
+          "TEMPORAL_SPECIFICITY"
+        ],
+        "scenario_fields_to_audit_later": [
+          "DIALOGUE",
+          "CROSS_SCENARIO",
+          "MUNDANE_SOCIAL",
+          "ETHICAL_DELIBERATION",
+          "ROMANCE_RELATIONSHIP",
+          "PROFESSIONAL_CONTEXT"
+        ],
+        "rows": [
+          {
+            "planning_id": "MR-P01",
+            "subject": "Tomozaki Fumiya",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Early confident game/unfamiliar school",
+              "Learned familiar form/selected partner",
+              "V08-V10 future route",
+              "V11 failed unique usefulness",
+              "V12 own wish/revised collaboration/local public expression"
+            ],
+            "candidate_domains": [
+              "Gaming/ordinary peer life",
+              "Friend/partner negotiation",
+              "Learning and coordination",
+              "Ethical influence under incomplete knowledge"
+            ],
+            "recipient_and_standing": [
+              "Hinami competitor/teacher/refusing friend",
+              "Kikuchi independently choosing partner/author",
+              "Mimimi/Tama/Mizusawa coequal friends",
+              "Workers/professionals with independent time/authority"
+            ],
+            "positive_evidence_to_preserve": [
+              "Form can enable sincerity",
+              "Particular care received and ordinary pleasure",
+              "Own proposal and known persuasive unfairness",
+              "Actual preparation neglect"
+            ],
+            "retrieval_handles": [
+              "TF-E00-05/E07-27; TF-P01-03; TF-V12-E01-09",
+              "Accepted three R07 dyads/R08 ensemble; CS/REL/EFF/JVL/CRI"
+            ],
+            "knowledge_layer_constraints": [
+              "First-person thought is not all recipients knowledge",
+              "Never met Nagisa; earlier V10 questions are not all private transcript",
+              "Role-play/manuscript not subject consent"
+            ],
+            "rival_tests": [
+              "Universal optimizer/instrumental friend",
+              "Unique usefulness or winning as all value",
+              "Benefit retroactively authorizes intrusion"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Final match/result",
+              "Viable career",
+              "Permanent cure/future partner decisions",
+              "Comprehensive consent"
+            ],
+            "future_validation_specification": [
+              "Retrospective ordinary invitation/help-received versus influence",
+              "Audit proposal/assent/act/objection/benefit separately"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "fumiya"
+          },
+          {
+            "planning_id": "MR-P02",
+            "subject": "Hinami Aoi",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Earlier ordinary play/affect",
+              "School expert/coach/competitive state",
+              "V10 heard ride disclosure",
+              "V11 groundless affirmation plus credential",
+              "V12 private reading/local self-liking/public return"
+            ],
+            "candidate_domains": [
+              "Competition/attention",
+              "Performance and social strategy",
+              "Ordinary game/friend pleasure",
+              "Refusal/privacy/self-interpretation"
+            ],
+            "recipient_and_standing": [
+              "Fumiya as rival/learner/helper",
+              "Mimimi/Tama/Yuzu/Mizusawa as partial peers",
+              "Haruka as independent sister",
+              "Yoko/remembered Nagisa in historical frames"
+            ],
+            "positive_evidence_to_preserve": [
+              "Earlier real pleasure",
+              "Care/revenge/skill/cost coexist",
+              "Groundlessness already V11",
+              "Local positive self-liking/response"
+            ],
+            "retrieval_handles": [
+              "HA retained directory; HA-V12-E01-08/S01-04",
+              "CRI sections20/21; V10 part0024 P126-178/part0026 P1-42"
+            ],
+            "knowledge_layer_constraints": [
+              "p0022 reader interior is not peers knowledge",
+              "Room/scroll trigger versus familiar face",
+              "Imagined ruby reunion is Aoi address",
+              "p0026 P267 self-directed description"
+            ],
+            "rival_tests": [
+              "Cold mask/one true self",
+              "V12 first groundlessness",
+              "Benefit proves intervention warrant",
+              "Return proves cure"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Nagisa intent/cause/prevention/grade",
+              "Named religion/diagnosis",
+              "Durable recovery/attendance/coaching/presidency",
+              "Final game result"
+            ],
+            "future_validation_specification": [
+              "State-local inputs exclude later private chapter",
+              "Compare ordinary play/local refusal with control",
+              "Abstain on unknown death/future recurrence"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "hinami_aoi"
+          },
+          {
+            "planning_id": "MR-P03",
+            "subject": "Nanami Minami / Mimimi",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "School competition/withdrawal",
+              "V08.5 private year-end betweenV07/V08",
+              "V09 resumption/force/comfort agreement",
+              "V11 commentary permission",
+              "V12 actual interview/critique/neglect"
+            ],
+            "candidate_domains": [
+              "Sport/ordinary humor",
+              "Continuing affection and self-regard",
+              "Coequal Tama care/privacy",
+              "Novice public work and author criticism"
+            ],
+            "recipient_and_standing": [
+              "Fumiya loved but choosing differently",
+              "Tama independently valued friend",
+              "Hinami admired competitor",
+              "Kikuchi author/recipient of criticism",
+              "Ashigaru recruiter"
+            ],
+            "positive_evidence_to_preserve": [
+              "Desire/joy/appetite/chosen self",
+              "Continuing love not no agency",
+              "Critique changes author method",
+              "Initiative and actual neglected preparation"
+            ],
+            "retrieval_handles": [
+              "NM retained directory/NM-P29-33",
+              "R07 Fumiya-Mimimi/R08; REL/JVL"
+            ],
+            "knowledge_layer_constraints": [
+              "Private year-end not Fumiya knowledge",
+              "Nana reading not another real conversation",
+              "No deliberate refusal-to-ask or Mizusawa rivalry fact"
+            ],
+            "rival_tests": [
+              "Only self-sacrificer/second-best",
+              "Continuing desire cancels self-liking",
+              "Successful reception erases body/broadcast pressure"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Chosen profession/office",
+              "Universal body permission",
+              "Future repair",
+              "Exhaustive idiolect"
+            ],
+            "future_validation_specification": [
+              "Compare small voice/direct self-approval/comic register",
+              "Separate V09 sequence and V12 recall",
+              "Retain no-face limit and failures"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "nanami_minami"
+          },
+          {
+            "planning_id": "MR-P04",
+            "subject": "Kikuchi Fuka",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Choosing reader/partner",
+              "V08.5 local family/play",
+              "V11 inquiry/injury/unfound reason",
+              "V12 actual party/revision/craft/owned writing/offering"
+            ],
+            "candidate_domains": [
+              "Reading/writing/ethical choice",
+              "Particular romance and ordinary play",
+              "Observation/asking/waiting/revision",
+              "Scoped collaboration/access"
+            ],
+            "recipient_and_standing": [
+              "Fumiya particular partner",
+              "Mimimi/Mizusawa independent critics",
+              "Haruka invited but hurt",
+              "Mitsu/children independent experts",
+              "Nagisa unavailable versus Andi document"
+            ],
+            "positive_evidence_to_preserve": [
+              "Repeated romantic choice/jokes/touch",
+              "Method can revise without eliminating author choice",
+              "Tea/title/prayer as owned ends",
+              "Offering completed, governance unfinished"
+            ],
+            "retrieval_handles": [
+              "KF retained R05/diary-image receipts; KF-P39-46",
+              "Accepted R07 couple/authorship specialist; CRI/REL/JVL"
+            ],
+            "knowledge_layer_constraints": [
+              "Interview/role-play/written fiction/reception distinct",
+              "Private diary not all peers knowledge",
+              "Marks not authenticated author motive",
+              "Fumiya first opening versus later Kikuchi trial"
+            ],
+            "rival_tests": [
+              "Passive observer/spotless therapist",
+              "Effect requires justified offering",
+              "Tears prove recovered subject truth"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Nagisa last wish",
+              "Publication/estate/representation license",
+              "Father actual script reading",
+              "Viable career/universal method"
+            ],
+            "future_validation_specification": [
+              "Ordinary curiosity/reciprocity beside crisis",
+              "Preserve initial support before written Alcia critique",
+              "Specific assent and known unfairness, not invented complete policy"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "kikuchi_fuka"
+          },
+          {
+            "planning_id": "MR-P05",
+            "subject": "Natsubayashi Hanabi / Tama",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Early directness/hostile audience",
+              "V05 chosen curriculum",
+              "V06 reduced strain/reciprocity",
+              "V08 craft/family/conditional future",
+              "V08.5 private year-end",
+              "V12 service/remake/self-binding"
+            ],
+            "candidate_domains": [
+              "Direct register/adaptation",
+              "Craft/service/quality choice",
+              "Ordinary pleasure",
+              "Coequal friendship/privacy"
+            ],
+            "recipient_and_standing": [
+              "Mimimi coequal friend",
+              "Fumiya helper/friend who can be corrected",
+              "Mizusawa initially unfamiliar",
+              "Staff/customers/family independent"
+            ],
+            "positive_evidence_to_preserve": [
+              "Liked work/products/holiday practice",
+              "Selected nonparticipation",
+              "Actual Akiyama apology not blanket forgiveness",
+              "Staff/customer cost of chosen work"
+            ],
+            "retrieval_handles": [
+              "TH-P01-08; CS section10/19; original monograph",
+              "V05 earlier bonus; V08.5 part0021 P80-105/P127-189; V12 p0014 P24-155"
+            ],
+            "knowledge_layer_constraints": [
+              "Bonus exact diegetic date unknown",
+              "Private year-end not Fumiya knowledge",
+              "Fumiya abstraction/deletion his interpretation"
+            ],
+            "rival_tests": [
+              "Blunt archetype or adaptation corrupts true self",
+              "Craft fixes succession",
+              "Mimimi care one-way/all needs known"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Succession/admission/viable trade",
+              "Full craft manual/palette",
+              "Lifelong safety/parent biography"
+            ],
+            "future_validation_specification": [
+              "Friendly service versus hostile audience",
+              "Quality/customer costs beside self-binding",
+              "Image and upload consent separate"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "tama"
+          },
+          {
+            "planning_id": "MR-P06",
+            "subject": "Mizusawa Takahiro",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V03 confession/refusal",
+              "V06.5 waiting seam OPEN",
+              "Brother/work/bar fields",
+              "V10 concrete negotiation terms",
+              "V12 liking/form/friendship/role-play"
+            ],
+            "candidate_domains": [
+              "Recipient-conditioned presentation",
+              "Work/peer humor",
+              "Negotiation",
+              "Vulnerability/friendship/owned ends"
+            ],
+            "recipient_and_standing": [
+              "Hinami actual refusing confession recipient",
+              "Fumiya reciprocal friend",
+              "Narita/brother/master distinct",
+              "Fictional stage participants"
+            ],
+            "positive_evidence_to_preserve": [
+              "Affect precedes V12",
+              "Constructed form enables sincerity",
+              "Embarrassed gratitude/help",
+              "Route competence without proven vocation"
+            ],
+            "retrieval_handles": [
+              "MZ-P01-05",
+              "V03 part0028 P1-94; V06.5 part0041/43/45 exact register",
+              "V10 part0017 P1-63/currentCS R10 precision; V12 p0011 P331-507/p0013 P206-277/P425-438"
+            ],
+            "knowledge_layer_constraints": [
+              "No forced confession/waiting seam",
+              "Singular sharing assent not Hinami waiver",
+              "Role-play not renewed confession"
+            ],
+            "rival_tests": [
+              "Monotonic awakening/total insincerity",
+              "All friendship instrumental",
+              "Universal expert or settled career"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Romantic outcome/renewed confession",
+              "Income/sustainability",
+              "Unrestricted privacy policy",
+              "Full family knowledge"
+            ],
+            "future_validation_specification": [
+              "Keep historical affect and waiting tension",
+              "Ordinary gratitude/work humor",
+              "Exact three-month target versus six-month terms and renegotiation"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "mizusawa"
+          },
+          {
+            "planning_id": "MR-P07",
+            "subject": "Izumi Yuzu",
+            "literary_home_kind": "A",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Early relationship-owned learning",
+              "V04 situated inquiry",
+              "Concurrent V06.5 ordinary/fear",
+              "V08 Aogaku preference",
+              "V10 birthday",
+              "V11 rupture/V12 delivery"
+            ],
+            "candidate_domains": [
+              "Peer coordination/inclusion",
+              "Owned learning/couple advice",
+              "Fashion/photo/education preference",
+              "Care under partial knowledge"
+            ],
+            "recipient_and_standing": [
+              "Nakamura particular partner",
+              "Konno friend with harmful history",
+              "Fumiya familiar peer",
+              "Aoi hidden family meaning",
+              "Kawaguchi actual phone owner"
+            ],
+            "positive_evidence_to_preserve": [
+              "Own wants and responsibility",
+              "Positive education preference",
+              "Joy/ordinary taste",
+              "Guilt/dependence/burden without erased agency"
+            ],
+            "retrieval_handles": [
+              "IY-R01-11; CS-YUZ/CRI-YUZ-001/REL-C13",
+              "V04 p0031; V06.5 part0029; V08 part0014 P150-176; V11 p0016/V12 p0022/p0026"
+            ],
+            "knowledge_layer_constraints": [
+              "Supplement private focalization not Fumiya",
+              "Take before Kawaguchi assent/send after",
+              "Unheard V12 words unknown",
+              "Self-blame not sole cause"
+            ],
+            "rival_tests": [
+              "Only accommodation",
+              "Joy means fair burden",
+              "Local partner protection completes reciprocity"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Admission/model vocation/feasibility",
+              "Private capacity threshold",
+              "Off-page agreement/inaudible speech",
+              "Household/parenting/management"
+            ],
+            "future_validation_specification": [
+              "Ordinary joking/preference beside care",
+              "Act-specific phone attribution",
+              "No invented V11-V12 intervening resolution"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "yuzu"
+          },
+          {
+            "planning_id": "MR-B01",
+            "subject": "Narita Tsugumi / Gumi",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_limited_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V04 workplace",
+              "V06.5 first-year shopping/bar local clock",
+              "V05 relay/V07 visit/V08 future talk"
+            ],
+            "candidate_domains": [
+              "Routine work",
+              "Leisure/inconvenience",
+              "Low-stakes advice",
+              "Ease/self-support"
+            ],
+            "recipient_and_standing": [
+              "Fumiya colleague",
+              "Mizusawa/brother separate",
+              "Mamiya Yoko/Fujii Hitomi friends"
+            ],
+            "positive_evidence_to_preserve": [
+              "Pay/ease/flexibility",
+              "Actual glass washing",
+              "Rest/shopping/company",
+              "Rejects Fumiya common-premise synthesis"
+            ],
+            "retrieval_handles": [
+              "NT-E01-08"
+            ],
+            "knowledge_layer_constraints": [
+              "Gumi=Narita not Haruka",
+              "Mamiya not Hinami Yoko",
+              "Inward relay concern not heard",
+              "Does not know Konno desire"
+            ],
+            "rival_tests": [
+              "Parasite/effort disciple",
+              "Numerical optimizer",
+              "Every banter flirts"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Severe crisis/unfamiliar sustained work",
+              "Finances/marriage/full tastes",
+              "V12 cast mention not behavior"
+            ],
+            "future_validation_specification": [
+              "Routine competence versus ease",
+              "Compare inconvenience without utility formula",
+              "Retain actual nonagreement"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "gumi"
+          },
+          {
+            "planning_id": "MR-B02",
+            "subject": "Takei",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_limited_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V03 uninformed camp",
+              "V04 greeting/V05 practice",
+              "V06 volunteer/V07 intro",
+              "V08 education/family",
+              "V11 affirm/follow/V12 settings"
+            ],
+            "candidate_domains": [
+              "Familiar enthusiasm/inclusion",
+              "Safe audience",
+              "Education self-report",
+              "Partial-information participation"
+            ],
+            "recipient_and_standing": [
+              "Hirabayashi pressured classmate",
+              "Tama practice",
+              "Mimimi/Mizusawa separate family knowledge",
+              "Nakamura/Aoi different positions"
+            ],
+            "positive_evidence_to_preserve": [
+              "Greeting/noticing/volunteer",
+              "Tuition-constrained national-university aim",
+              "Positive family facts",
+              "Affirm and follow coexist"
+            ],
+            "retrieval_handles": [
+              "TK-E01-10"
+            ],
+            "knowledge_layer_constraints": [
+              "No given name/planner knowledge",
+              "Narrator joke not incapacity",
+              "Home versus gym",
+              "Secondhand not complete/malicious"
+            ],
+            "rival_tests": [
+              "Fool-only/secret mastermind",
+              "Enthusiasm no boundary cost",
+              "Follows means abandons"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Budget/occupations/admission",
+              "General pedagogy/mediation",
+              "Unheard words/full interior"
+            ],
+            "future_validation_specification": [
+              "Real social attention versus jokes",
+              "Ordinary greeting plus disclosure cost",
+              "No untested professional/romance transfer"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "takei"
+          },
+          {
+            "planning_id": "MR-B03",
+            "subject": "Konno Erika",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_limited_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V01 reframing",
+              "V04 coercion",
+              "V05 harassment/reversal",
+              "Concurrent V06.5 friend life",
+              "V07 script collaboration"
+            ],
+            "candidate_domains": [
+              "Status threat",
+              "Familiar advice/leisure",
+              "Practical collaboration",
+              "Differentiated social harm"
+            ],
+            "recipient_and_standing": [
+              "Tama targeted",
+              "Yuzu friend",
+              "Kawaguchi phone owner",
+              "Kikuchi author"
+            ],
+            "positive_evidence_to_preserve": [
+              "Real chosen harm",
+              "Fashion/photo pleasure",
+              "Useful script change",
+              "Care is not restitution"
+            ],
+            "retrieval_handles": [
+              "KE-E01-10"
+            ],
+            "knowledge_layer_constraints": [
+              "Unknown damage actor",
+              "Akiyama apology not Konno",
+              "Take/send different assent",
+              "Laziness motive narrator inference"
+            ],
+            "rival_tests": [
+              "Villain-only/redeemed real self",
+              "Re-entry equals repair",
+              "One care licenses other harm"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Biography/diagnosis/private remorse",
+              "Future offense/reform",
+              "Search silence not V12 test"
+            ],
+            "future_validation_specification": [
+              "Ordinary useful acts and coercion together",
+              "No invented apology",
+              "Normative evaluation separate likelihood"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "konno"
+          },
+          {
+            "planning_id": "MR-B04",
+            "subject": "Nakamura Shuji",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_limited_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V01 practice/loss/early care",
+              "V03 covert-plan ignorance",
+              "V06.5 birthday",
+              "V07 hosting/V08 route",
+              "V11 refusal/V12 participation"
+            ],
+            "candidate_domains": [
+              "Competition/rough peers",
+              "Hosting/couple care",
+              "Practical advice",
+              "Refusal"
+            ],
+            "recipient_and_standing": [
+              "Fumiya opponent",
+              "Yuzu partner",
+              "Mizusawa/Takei friends",
+              "Aoi group partial access"
+            ],
+            "positive_evidence_to_preserve": [
+              "Practice and early care",
+              "Particular gifts/history",
+              "Hosting",
+              "Hurt-based refusal"
+            ],
+            "retrieval_handles": [
+              "NS-E01-11"
+            ],
+            "knowledge_layer_constraints": [
+              "Yuzu reader fear not his knowledge",
+              "No covert-planner access",
+              "Company acquaintance not ownership",
+              "No off-page agreement"
+            ],
+            "rival_tests": [
+              "Only pride/defeat redemption",
+              "Roughness excludes care",
+              "Refusal ends friendship"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Adult marriage/management",
+              "Guaranteed job/vocation",
+              "Full couple rule"
+            ],
+            "future_validation_specification": [
+              "Practice/early care comparison",
+              "Hosting/history beside refusal",
+              "Preserve partner knowledge limits"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "nakamura"
+          },
+          {
+            "planning_id": "MR-B05",
+            "subject": "Hinami Haruka",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_limited_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Childhood game",
+              "V09 family contact",
+              "V11 first contact/council",
+              "Invited inquiry/injury",
+              "V12 reader/DM"
+            ],
+            "candidate_domains": [
+              "Shared play",
+              "School initiative",
+              "Selected disclosure",
+              "Sister/reader response"
+            ],
+            "recipient_and_standing": [
+              "Aoi admired sister",
+              "Nagisa game partner",
+              "Fumiya unfamiliar then known",
+              "Kikuchi invited author"
+            ],
+            "positive_evidence_to_preserve": [
+              "Own skill/invitation/campaign",
+              "Channel refusal",
+              "Reader/DM action",
+              "Dependence and achievement"
+            ],
+            "retrieval_handles": [
+              "HH-E01-09"
+            ],
+            "knowledge_layer_constraints": [
+              "No blanket testimony license",
+              "No unspoken qualifier/full Aoi access",
+              "Not authentic Nagisa wish"
+            ],
+            "rival_tests": [
+              "Access-route/passive copy",
+              "Office means total autonomy",
+              "Complete rescue plan"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Vocation/routines/general policy",
+              "Full family repair",
+              "Childhood therapeutic design"
+            ],
+            "future_validation_specification": [
+              "Unfamiliar caution versus familiar game",
+              "Own school ends",
+              "Invite and hurt compatible"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "haruka"
+          },
+          {
+            "planning_id": "MR-B06",
+            "subject": "Umayahara Mitsu",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_short_era_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V12 deadline",
+              "Package intrusion/correction",
+              "Tower access",
+              "Storm recovery/festival",
+              "Particular manuscript loan"
+            ],
+            "candidate_domains": [
+              "Craft/work priority",
+              "Help/refusal",
+              "Custody/access",
+              "Costly collective continuity"
+            ],
+            "recipient_and_standing": [
+              "Uninvited visitors",
+              "Trusted limited helper",
+              "Fumiya opening/Kikuchi trial",
+              "Children/neighbors",
+              "Andi category unknown"
+            ],
+            "positive_evidence_to_preserve": [
+              "Existing work/wit/body limit",
+              "Contextual exactness",
+              "Specific delegated help",
+              "Material imperfect maintenance"
+            ],
+            "retrieval_handles": [
+              "UM-E01-12/UM-P01-10"
+            ],
+            "knowledge_layer_constraints": [
+              "Full name P634/P653",
+              "Blue name/scarlet sample unknown culprit",
+              "Fumiya first opening with K assent, no M permission shown",
+              "No wife/widow identity"
+            ],
+            "rival_tests": [
+              "Sage/soft mask/no help ever",
+              "Later acceptance licenses opening",
+              "Bodily decline explains mismatch",
+              "One meaning/limitless duty"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Diagnosis/health/succession/economics",
+              "Technical generator",
+              "Estate/publishing rights",
+              "Full private motives"
+            ],
+            "future_validation_specification": [
+              "Standing contrast on help",
+              "Warning/proposal/assent/opening/objection/evaluation",
+              "Loss/reuse without full repair"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "mitsu"
+          },
+          {
+            "planning_id": "MR-B07",
+            "subject": "Rena",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_era_partitioned_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Age17 retrospective",
+              "Adult year-end",
+              "V08 age20 main-line",
+              "V09 differentiated refusals",
+              "V11 partner/removal; no V12 new test"
+            ],
+            "candidate_domains": [
+              "Game/taste/social fields",
+              "Attention/selection",
+              "Advice/pursuit",
+              "Specific boundary response"
+            ],
+            "recipient_and_standing": [
+              "Former peers",
+              "Selected/unwanted adult contacts",
+              "Fumiya attached gamer/student",
+              "Kikuchi partner",
+              "Ashigaru buffer"
+            ],
+            "positive_evidence_to_preserve": [
+              "Genuine hobby/belonging",
+              "Formation without excuse",
+              "Useful advice",
+              "Local withdrawal and later harm"
+            ],
+            "retrieval_handles": [
+              "RE-E01-11/RE-P01-12"
+            ],
+            "knowledge_layer_constraints": [
+              "Age/main/parallel/VR separate",
+              "Private Rena not Fumiya known motive",
+              "Refusal objects differ",
+              "Attraction not permission/inward not heard"
+            ],
+            "rival_tests": [
+              "Villain-only/clinical compulsion",
+              "Desire itself wrong",
+              "Apology reform/contact affair"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Full biography/legal name",
+              "Future reform/offense",
+              "Gender law/all contact motives",
+              "No sexual-response generator"
+            ],
+            "future_validation_specification": [
+              "Act/knowledge/interior/refusal separate",
+              "Ordinary play beside harm",
+              "Local counterexample not broad reliability"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "rena"
+          },
+          {
+            "planning_id": "MR-B08",
+            "subject": "Ashigaru",
+            "literary_home_kind": "B",
+            "planning_disposition": "distinct_post_release_domain_model_proposal",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "V08 opportunity/aggregate",
+              "V09 attributed models",
+              "V10 Endo/network",
+              "V11 commentary/fan reason",
+              "V12 actual guest"
+            ],
+            "candidate_domains": [
+              "Competition/stakes",
+              "Route advice",
+              "Event collaboration/public work",
+              "Ordinary humor/pleasure"
+            ],
+            "recipient_and_standing": [
+              "Fumiya opponent/aspirant",
+              "Rena/Hinami partial group",
+              "Endo professional",
+              "Mizusawa conditional contact",
+              "Mimimi no-face",
+              "Kikuchi/fans"
+            ],
+            "positive_evidence_to_preserve": [
+              "Specific read and effort",
+              "Buin/payment/humor",
+              "Fan reciprocity",
+              "Actual work plus organizer neglect"
+            ],
+            "retrieval_handles": [
+              "AS-E01-12/AS-P01-11"
+            ],
+            "knowledge_layer_constraints": [
+              "Estimate not measured series",
+              "His models attributable",
+              "Success not permission",
+              "P181 activity versus P214 printed program"
+            ],
+            "rival_tests": [
+              "Sage/mentor prop",
+              "Victory or aggregate alone",
+              "Feeling validates consent/career"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Biography/income/full voice",
+              "Unproven improvisation/fees",
+              "Final game",
+              "Universal industry/romance authority"
+            ],
+            "future_validation_specification": [
+              "Pleasure/pressure/generosity",
+              "Refusal/bargain/apology separate",
+              "Purpose and viability distinct"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "ashigaru"
+          },
+          {
+            "planning_id": "MR-B09",
+            "subject": "Hinami Nagisa",
+            "literary_home_kind": "B",
+            "planning_disposition": "attributed_historical_microcase_and_retrieval_only",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Childhood game",
+              "Reported intervention/targeting/doubt",
+              "Survivor disclosure/fiction are not new living states"
+            ],
+            "candidate_domains": [
+              "Historical observed play",
+              "Attributed advice/help/doubt"
+            ],
+            "recipient_and_standing": [
+              "Haruka/Aoi different sisters",
+              "Targeted peer/mother",
+              "Later readers not new witnesses"
+            ],
+            "positive_evidence_to_preserve": [
+              "Tactics/win/thanks/affection",
+              "Own moral action/advice seeking",
+              "Doubt and ordinary pleasure"
+            ],
+            "retrieval_handles": [
+              "HN-E01-10"
+            ],
+            "knowledge_layer_constraints": [
+              "Nested report/focalization/unsaid answer distinct",
+              "Ruby is Aoi address",
+              "Grade conflict retained",
+              "No current living/posthumous state"
+            ],
+            "rival_tests": [
+              "Origin only/immutable righteousness",
+              "Doubt proves suicide",
+              "Silence/meaning proves prevention"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Intent/cause/prevention/grade",
+              "Diagnosis/last voice/afterlife",
+              "Complete school response",
+              "Autonomous moral verdict"
+            ],
+            "future_validation_specification": [
+              "Scene-state action comparisons",
+              "Abstain on road/last wish",
+              "Unknown has no true outcome label"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "nagisa"
+          },
+          {
+            "planning_id": "MR-B10",
+            "subject": "Hinami Yoko",
+            "literary_home_kind": "B",
+            "planning_disposition": "focalization_bounded_historical_contact_retrieval_only",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Household comfort/game observation",
+              "Nagisa advice/hospital",
+              "V09 contact/Haruka report",
+              "Recorded greeting",
+              "V12 re-reception not mother reform"
+            ],
+            "candidate_domains": [
+              "Represented warmth",
+              "Attributed advice/meaning",
+              "Differentiated reception"
+            ],
+            "recipient_and_standing": [
+              "Aoi/Nagisa/Haruka separate",
+              "Classmate visitors",
+              "Video recipient private response unavailable"
+            ],
+            "positive_evidence_to_preserve": [
+              "Food/touch/care/humor/grief",
+              "Protective caution plus harmful meaning",
+              "Different daughters effects"
+            ],
+            "retrieval_handles": [
+              "HY-E01-10"
+            ],
+            "knowledge_layer_constraints": [
+              "Daughter focalization not maternal interior",
+              "Room/scroll Aoi response",
+              "No named religion",
+              "Address no new maternal testimony"
+            ],
+            "rival_tests": [
+              "Malice/love harmless",
+              "Sole cause/diagnosis",
+              "V12 means repair"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Faith/diagnosis/sole cause",
+              "Complete parenting policy/remorse",
+              "Full repair/institution/father biography"
+            ],
+            "future_validation_specification": [
+              "Actual recipients compared",
+              "Care versus truth of explanation",
+              "Abstain on unshown private answer"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "hinami_yoko"
+          },
+          {
+            "planning_id": "MR-B11",
+            "subject": "Michael Andi / Andy",
+            "literary_home_kind": "B",
+            "planning_disposition": "attributed_document_testimony_reception_retrieval_only",
+            "not_a_capability_assessment": true,
+            "model_creation_gate": "ACTUAL_R12_RELEASE_REQUIRED",
+            "state_selectors": [
+              "Earlier public-book reception",
+              "Historical island reports",
+              "Private archive/loan",
+              "Later couple model is reader state"
+            ],
+            "candidate_domains": [
+              "Reported work/social life",
+              "Document retrieval",
+              "Witness disagreement",
+              "Plural community practice"
+            ],
+            "recipient_and_standing": [
+              "Different local tellers",
+              "Mitsu custodian/model recipient",
+              "Historical listeners/current participants",
+              "Kikuchi/Fumiya translated readers"
+            ],
+            "positive_evidence_to_preserve": [
+              "Work/taste/dislike/nuisance/jokes",
+              "Actual marks versus motive",
+              "Prior practice/independent appropriation",
+              "Private source conditional access"
+            ],
+            "retrieval_handles": [
+              "MA-E01-09/MA-P01-09"
+            ],
+            "knowledge_layer_constraints": [
+              "Reported quotes not new witness",
+              "Verbs translated not testament",
+              "Couple motive reconstruction",
+              "No marriage/publication authority"
+            ],
+            "rival_tests": [
+              "Sage/pure recorder/total author cause",
+              "Variation invalidates all",
+              "Final word proves complete motive"
+            ],
+            "abstention_or_unassessed_domains": [
+              "Authentic new dialogue/interior",
+              "Legal biography/complete chronology",
+              "Estate/circulation/representation",
+              "Harmony/necessary suffering"
+            ],
+            "future_validation_specification": [
+              "Artifact/report/hypothesis classifier",
+              "Preserve incompatible reports",
+              "No newly wise dead-author answer"
+            ],
+            "capability_grade": null,
+            "registry_readiness": null,
+            "assessment_basis_commit": null,
+            "accepted_identity_id": "andy"
+          }
+        ],
+        "positive_behavioral_model_investigations": 15,
+        "strictly_attributed_initial_retrieval_investigations": 3,
+        "capability_assessments_or_grades": 0,
+        "models_created": 0
+      }
+    }
+  ]
+}

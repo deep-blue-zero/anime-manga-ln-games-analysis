@@ -1,0 +1,340 @@
+{
+  "created_utc": "2026-10-17T22:31:20.351297+00:00",
+  "status": "Initial own selected post-source-first analysis",
+  "uncoded31_scene_index": "UNCODED_VOICE_SCENE_INDEX.json",
+  "selection": "22 selected interactions, no distributional census or independent trials; all31 original scene notes remain",
+  "records": [
+    {
+      "id": "ARTB-V01",
+      "source_pages": [
+        9
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→Kazuma; Megumin→Aqua/group",
+      "short_exact_material_anchor": "コレは絶対売らない",
+      "basic_gloss": "I absolutely will not sell this.",
+      "pragmatic_analysis": "A causal correction about poverty becomes a possession-defense protest once resale is suggested; これ in original log was normalized, actual コレ retained.",
+      "L": "L1",
+      "limits": "frame fiction, not observed camera sale",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V02",
+      "source_pages": [
+        10,
+        17
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→Kazuma/Darkness asking source",
+      "short_exact_material_anchor": "情報源の秘匿",
+      "basic_gloss": "Protection of an information source.",
+      "pragmatic_analysis": "Borrowed confidentiality formula and impersonal institutional diction shield a personal source demand. No actual journalistic office or identity established.",
+      "L": "L2",
+      "limits": "privacy objection persists; source unknown",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V03",
+      "source_pages": [
+        14,
+        15
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Three companions→Kazuma; then Darkness→group",
+      "short_exact_material_anchor": "反省します",
+      "basic_gloss": "I will reflect on my behavior.",
+      "pragmatic_analysis": "Polite self-reproach reverses her prior joint rebuking role. One isolated polite form does not establish permanent deference.",
+      "L": "L1",
+      "limits": "repeated caption rhythm",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V04",
+      "source_pages": [
+        16
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→Darkness seeking reassurance",
+      "short_exact_material_anchor": "本に座ってはいけませんよ",
+      "basic_gloss": "You must not sit on books.",
+      "pragmatic_analysis": "Polite normative correction changes the relevant grievance from sexualized costume to treatment of books; D apologizes.",
+      "L": "L1",
+      "limits": "no performed teaching job",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V05",
+      "source_pages": [
+        19
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→Darkness; Darkness→three teasers",
+      "short_exact_material_anchor": "三人まとめてかかってこい",
+      "basic_gloss": "Come at me, all three together.",
+      "pragmatic_analysis": "A challenge answers appearance-only knight praise; performative dignity repair, not evidence she actually defeats all three.",
+      "L": "L2",
+      "limits": "role/status context; no acoustics",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V06",
+      "source_pages": [
+        23
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→Aqua",
+      "short_exact_material_anchor": "処分しましたか",
+      "basic_gloss": "Did you dispose of it?",
+      "pragmatic_analysis": "Repeated question after silence pressures accountability; no answered disposal outcome supplied.",
+      "L": "L1",
+      "limits": "sparse reply meaningful but unresolved",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V07",
+      "source_pages": [
+        26
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua/Kazuma/Darkness→Megumin",
+      "short_exact_material_anchor": "つんでれみん",
+      "basic_gloss": "Tsundere-plus-Megumin nickname.",
+      "pragmatic_analysis": "Name blending converts a genre label into a publicly repeated address; M's reaction makes the teasing consequential.",
+      "L": "L3",
+      "limits": "Japanese morphological/naming construction",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V08",
+      "source_pages": [
+        27
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→Kazuma after marriage/brothel question",
+      "short_exact_material_anchor": "どうして急に黙ったの",
+      "basic_gloss": "Why suddenly go quiet?",
+      "pragmatic_analysis": "Attention call makes silence accountable while background social knowledge supplies implication; not an explicit new confession.",
+      "L": "L2",
+      "limits": "secret-context ambiguity",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V09",
+      "source_pages": [
+        33
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→companions responding to pinching",
+      "short_exact_material_anchor": "もう赦して欲しい",
+      "basic_gloss": "I want you to forgive me now.",
+      "pragmatic_analysis": "Self-credit collapses into appeal after actual uncomfortable response. Appeal remains literal even in amplified comic response.",
+      "L": "L1",
+      "limits": "no acoustic pain measurement",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V10",
+      "source_pages": [
+        39
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→companions threatening gesture",
+      "short_exact_material_anchor": "手をわきわきさせる",
+      "basic_gloss": "Wiggle your hands threateningly.",
+      "pragmatic_analysis": "Boast retracts under anticipated retaliation; exact gesture is not chopping, no completed blow demonstrated.",
+      "L": "L1",
+      "limits": "own-note correction external",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V11",
+      "source_pages": [
+        43
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Darkness→Megumin/group",
+      "short_exact_material_anchor": "めぐみんが先に",
+      "basic_gloss": "Megumin did it first.",
+      "pragmatic_analysis": "Sequence-based defense of returned teasing preserves dispute about reciprocity; the precise interrupted physical act is unshown.",
+      "L": "L1",
+      "limits": "no inferred specific assault",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V12",
+      "source_pages": [
+        44
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→party; Kazuma→party; Darkness→Kazuma",
+      "short_exact_material_anchor": "実家のような安心感",
+      "basic_gloss": "The comfort/security of one's family home.",
+      "pragmatic_analysis": "Explicit warmth meets K's qualified agreement and D's genre label; relationship statement is local, not universal mind-reading.",
+      "L": "L2",
+      "limits": "family simile/affect label",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V13",
+      "source_pages": [
+        51
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→Aqua re photo; Darkness→group",
+      "short_exact_material_anchor": "この写真を焼き増してください",
+      "basic_gloss": "Please make extra prints of this photo.",
+      "pragmatic_analysis": "A polite request can celebrate one subject and exploit another's embarrassment; recipient and depicted person's desires differ.",
+      "L": "L1",
+      "limits": "parallel unequal photographic audience",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V14",
+      "source_pages": [
+        52
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→Kazuma; Darkness→Aqua",
+      "short_exact_material_anchor": "習得魔法欄",
+      "basic_gloss": "Learned-spells field.",
+      "pragmatic_analysis": "M repeatedly demands ability-card verification rather than accepting heroic appearance; D separately demands photographer. Neither supplies missing access.",
+      "L": "L1",
+      "limits": "RPG technical lexicon; source demands",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V15",
+      "source_pages": [
+        141
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Megumin→Komekko; Komekko→reader",
+      "short_exact_material_anchor": "さすがは我が妹です",
+      "basic_gloss": "Just as expected of my little sister.",
+      "pragmatic_analysis": "Grand familial praise/hug offer contrasts childish instructional pictures; reader invitation prevents treating this solely as a dated novel conversation.",
+      "L": "L2",
+      "limits": "parafictional drawing song; no heard song",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V16",
+      "source_pages": [
+        142
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua/Megumin→Kazuma/group",
+      "short_exact_material_anchor": "念のために手を挙げて",
+      "basic_gloss": "Raise a hand just in case.",
+      "pragmatic_analysis": "A defensive denial followed by precautionary confession creates interpersonal pressure without court proof. Each person's speech is separate from narrator judgment.",
+      "L": "L1",
+      "limits": "story; reciprocal blame",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V17",
+      "source_pages": [
+        143
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→Megumin requesting buff",
+      "short_exact_material_anchor": "お高いお酒を捧げたまえ",
+      "basic_gloss": "Offer up expensive alcohol.",
+      "pragmatic_analysis": "Ritualized imperative and upgraded magical title turn support into priced service; no buff was actually cast here.",
+      "L": "L2",
+      "limits": "role performance is not expertise denial",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V18",
+      "source_pages": [
+        144
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Yunyun→Megumin amid Megumin's reassurance",
+      "short_exact_material_anchor": "友達なんて欲しくない",
+      "basic_gloss": "I do not want friends (under those terms).",
+      "pragmatic_analysis": "Yunyun's actual negation and later quieter wish occur against M's hurtful reassurance; the quoted denial is Yunyun's, not Megumin's personal desire.",
+      "L": "L1",
+      "limits": "story; heated denial is followed by weaker denial and a quiet wish; not Megumin's desire or a permanent voice distribution",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V19",
+      "source_pages": [
+        145
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→adventurers then toads; then urgent rescuers",
+      "short_exact_material_anchor": "水の女神アクア",
+      "basic_gloss": "Aqua, goddess of water.",
+      "pragmatic_analysis": "A self-identification in a divine calming speech is followed by actual swallowing and fragmented pleas; the frog-curse explanation is not certified as cause. Yunyun rescues and objects to the later social-stigma attribution.",
+      "L": "L1",
+      "limits": "ordinary care and failed divinity performance coexist",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V20",
+      "source_pages": [
+        146
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Kazuma→Aqua over allocation; Aqua→men",
+      "short_exact_material_anchor": "男女は平等",
+      "basic_gloss": "Men and women should be equal.",
+      "pragmatic_analysis": "Aqua cites K's professed principle selectively to assign male frontline risk, while K contests its use; not a newly validated gender rule.",
+      "L": "L1",
+      "limits": "interpersonal appropriation",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V21",
+      "source_pages": [
+        147
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Kazuma→Darkness seeking protective labor",
+      "short_exact_material_anchor": "そのエロい体",
+      "basic_gloss": "That erotic body of yours.",
+      "pragmatic_analysis": "Task-specific allocation uses degrading body reference and role obligation, with silent arm-pulling after objection. Useful protective action does not give retrospective consent.",
+      "L": "L2",
+      "limits": "dignity/coercion; D completed stripping unproven",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    },
+    {
+      "id": "ARTB-V22",
+      "source_pages": [
+        148
+      ],
+      "source_locator": "printed page = spine minus6; original image/manual visual transcription, no OCR",
+      "speaker_addressee": "Aqua→Megumin; Megumin→Aqua",
+      "short_exact_material_anchor": "水を綺麗にしただけ",
+      "basic_gloss": "I only cleaned the water.",
+      "pragmatic_analysis": "Minimizing だけ follows the question about the spawning ground and supports a likely causal account; insisting investigation stay closed adds concealment. Not an observed initial cleaning scene or full confession of intended harm.",
+      "L": "L1",
+      "limits": "motive/indirect cause/epistemic strength separated",
+      "no_acoustic_claim": true,
+      "no_fixed_J01_or_holdout_score": true
+    }
+  ]
+}

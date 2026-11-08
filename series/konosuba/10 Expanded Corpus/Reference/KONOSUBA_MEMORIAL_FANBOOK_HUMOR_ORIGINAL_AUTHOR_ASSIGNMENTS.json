@@ -1,0 +1,868 @@
+{
+  "status": "SELECTED_POST_UNCODED_SEAL_AUTHOR_ASSIGNMENTS_NOT_ACCEPTANCE",
+  "source_id": "FAN-MEM",
+  "authored_utc": "2026-10-17T23:46:54.048876+00:00",
+  "initial_uncoded_seal": {
+    "basename": "INITIAL_COMPLETE_UNCODED_SOURCE_FIRST_SEAL_v1.json",
+    "bytes": 1786,
+    "sha256": "107ffea666fdea4a0edea6177edb8b4901874e3f977ebd5fe413b37756cfb45b"
+  },
+  "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+  "actual_complete_page_reading_reused": 121,
+  "selection_bound": "Examples chosen for mechanism/source-plane contrast after complete reading. Neither exhaustive census nor representative random sample; no percentage or pooled portability claim.",
+  "H_axis": "H1 literal behavior; H2 real disposition with amplification; H3 locally gag-contingent behavior; H4 nonliteral comic license. Source plane, confidence and fantasy physics are separate.",
+  "L_axis": "L0 portable structure; L1 phrasing-sensitive; L2 register/pragmatics; L3 central Japanese lexical/grammatical form. Dominant selected effect, with rivals retained.",
+  "not_original_175_185_179_243_or_main_only_428_pool": true,
+  "no_model_forecast_threshold_holdout_outcome_change": true,
+  "shared_ancestry": "Same informed AI source reader/case author; no independent native/human/acoustic/statistical-coder claim; no peer FAN-MEM interpretation received.",
+  "selected_humor_examples": [
+    {
+      "id": "FM-H-01",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S019",
+          "printed_page": "17",
+          "wrapper_member": "item/xhtml/p-017.xhtml",
+          "image_member": "item/image/i-017.jpg",
+          "image_sha256": "a46e1380307686e406c1c6f0fc8b04028a60abffa6435d98f7f31ebd0e6d54c0"
+        },
+        {
+          "page_id": "FAN-MEM-S021",
+          "printed_page": "19",
+          "wrapper_member": "item/xhtml/p-019.xhtml",
+          "image_member": "item/image/i-019.jpg",
+          "image_sha256": "5981d2b8766b6f0acbb8d92fac5ba9c841f74450381def1cf5173d17f3c3d4e7"
+        },
+        {
+          "page_id": "FAN-MEM-S023",
+          "printed_page": "21",
+          "wrapper_member": "item/xhtml/p-021.xhtml",
+          "image_member": "item/image/i-021.jpg",
+          "image_sha256": "07b8cf4f8333bd178a0b0edfd7ce54da58568e828b4a823b9269a64d1ccaa76a"
+        },
+        {
+          "page_id": "FAN-MEM-S025",
+          "printed_page": "23",
+          "wrapper_member": "item/xhtml/p-023.xhtml",
+          "image_member": "item/image/i-023.jpg",
+          "image_sha256": "7f79dd0a4642860b14eaf3e5eec6aa2ca1dff621c512747c3147a54c8cd480cc"
+        }
+      ],
+      "title": "Editorial profile contrasts",
+      "source_plane": "EDITORIAL_PROFILE",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Aqua",
+        "Megumin",
+        "Darkness"
+      ],
+      "setup_or_cue": "Profiles pair a salient comic deficiency with capacity, care or responsibility.",
+      "mechanism_or_observed_response": "The juxtaposition exposes reductive labels without removing the documented deficiency.",
+      "outcome_and_limits": "No new act or controlled comparison is narrated by the profile itself.",
+      "H_class": "NOT_APPLICABLE",
+      "H_scope_and_rival": "Editorial synthesis is not an additional performed behavioral scene; underlying cited MAIN acts would need their own routes and H coding.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "The contrast is structurally portable; individual quoted attitude/register can add phrasing effects but missing original contexts prevent a fresh voice trial.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-02",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S041",
+          "printed_page": "39",
+          "wrapper_member": "item/xhtml/p-039.xhtml",
+          "image_member": "item/image/i-039.jpg",
+          "image_sha256": "e2e701097f1cb72f4d13a60f30f528451022c4b8b6af56d8a446d30c3c9c7515"
+        }
+      ],
+      "title": "Child and mature plant differ",
+      "source_plane": "EDITORIAL_REFERENCE",
+      "actors_or_represented_participants": [
+        "Seedling",
+        "Mature plant",
+        "Princess"
+      ],
+      "setup_or_cue": "The catalog distinguishes innocent seedling behavior from adult/princess luring and appetite.",
+      "mechanism_or_observed_response": "The same cute visual vocabulary can conceal different agency and risk.",
+      "outcome_and_limits": "Reference description, not a newly shown deceptive act by the seedling.",
+      "H_class": "NOT_APPLICABLE",
+      "H_scope_and_rival": "Do not assign mature deliberate predation or model failure to an infant from category resemblance.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Cute/dangerous contrast is portable; this selection records a causal-attribution limit rather than counting a fresh joke event.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-03",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S050",
+          "printed_page": "48",
+          "wrapper_member": "item/xhtml/p-048.xhtml",
+          "image_member": "item/image/i-048.jpg",
+          "image_sha256": "3857a95eede03afaf0029ed1b3c6279cd5b556e4853b6b5e02ed8485118310fb"
+        }
+      ],
+      "title": "Food ecology and dramatic naming",
+      "source_plane": "REFERENCE_WITH_SCRIPTED_COMMENTARY",
+      "actors_or_represented_participants": [
+        "Editorial guide",
+        "Aqua",
+        "Megumin"
+      ],
+      "setup_or_cue": "Familiar ingredients have unfamiliar growing conditions; names and confident claims meet mundane uses.",
+      "mechanism_or_observed_response": "Reader expectation is reversed through category labels and character-style commentary.",
+      "outcome_and_limits": "No claim every featured ingredient was eaten or every advertised exemption is safe.",
+      "H_class": "H3",
+      "H_scope_and_rival": "For the scripted mini-performance, behavior is locally organized around the column punchline; geography/food facts are a separate reference claim, not gag-contingency by default.",
+      "L_class_for_selected_effect": "L1",
+      "L_rationale": "Naming and compact contrast sharpen the effect; ecological reversal remains intelligible after translation.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-04",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S060",
+          "printed_page": "58",
+          "wrapper_member": "item/xhtml/p-058.xhtml",
+          "image_member": "item/image/i-058.jpg",
+          "image_sha256": "cec6d4a465a65c6808ae81f981a131d1644f6db79ab016147c97afc2f3e33565"
+        }
+      ],
+      "title": "General-status correction and army chart",
+      "source_plane": "SCRIPTED_EDITORIAL_CHARACTER_EXCHANGE",
+      "actors_or_represented_participants": [
+        "Megumin",
+        "Aqua",
+        "Darkness",
+        "Vanir"
+      ],
+      "setup_or_cue": "Aqua recalls a defeated Elroad opponent as a general while the chart distinguishes actual ranks and dispositions.",
+      "mechanism_or_observed_response": "Darkness supplies a category correction; Megumin boasts and Vanir reorients his status.",
+      "outcome_and_limits": "A chart X is not uniformly a death; Serena, Vanir and Wiz have different states.",
+      "H_class": "H2",
+      "H_scope_and_rival": "The performed boasting/misclassification fits dispositions with comic emphasis, but it is an editorial dialogue, not a second military event or literal death count.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Boast, correction and self-exemption rely on status and stance; the underlying wrong-category situation is portable.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-05",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S066",
+          "printed_page": "64",
+          "wrapper_member": "item/xhtml/p-064.xhtml",
+          "image_member": "item/image/i-064.jpg",
+          "image_sha256": "b7dd81c1009761ed935882b2de20d48b58406893b95455dcd67ea891765b1254"
+        },
+        {
+          "page_id": "FAN-MEM-S067",
+          "printed_page": "65",
+          "wrapper_member": "item/xhtml/p-065.xhtml",
+          "image_member": "item/image/i-065.jpg",
+          "image_sha256": "842078c60c8f97e24b433766275ef8f49d399a3292760edc7b76fd2183af0ff7"
+        }
+      ],
+      "title": "Sunny resort versus conditional religious safety",
+      "source_plane": "EDITORIAL_TOUR_GUIDE",
+      "actors_or_represented_participants": [
+        "Tourist reader",
+        "Axis institution"
+      ],
+      "setup_or_cue": "Hospitality promises coexist with instructions about affiliation and harassment.",
+      "mechanism_or_observed_response": "The guide sells a pleasant resort while exposing the social price of entry.",
+      "outcome_and_limits": "No actual conversion or free consent is established by promotional tone.",
+      "H_class": "NOT_APPLICABLE",
+      "H_scope_and_rival": "The contradiction is editorial/institutional framing. It cannot itself become a performed character trial.",
+      "L_class_for_selected_effect": "L1",
+      "L_rationale": "A cheery recommendation concealing a cost is largely portable; tone supplies the extra irony.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-06",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S067",
+          "printed_page": "65",
+          "wrapper_member": "item/xhtml/p-065.xhtml",
+          "image_member": "item/image/i-065.jpg",
+          "image_sha256": "842078c60c8f97e24b433766275ef8f49d399a3292760edc7b76fd2183af0ff7"
+        }
+      ],
+      "title": "Explicitly imagined bathing art",
+      "source_plane": "LABELED_HYPOTHETICAL_ILLUSTRATION",
+      "actors_or_represented_participants": [
+        "Wiz",
+        "Darkness",
+        "Kazuma as depicted"
+      ],
+      "setup_or_cue": "Erotic bath image is expressly labeled imagined rather than reported as an event.",
+      "mechanism_or_observed_response": "The reader is invited to a fantasy image while the label withdraws historical authority.",
+      "outcome_and_limits": "No actual shared bath, harassment, consent or Kazuma-authored thought follows.",
+      "H_class": "H4",
+      "H_scope_and_rival": "The hypothetical presentation is useful for tone/gaze; it is poor direct behavioral evidence. H4 does not follow merely because art or magic exists.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "The visual/hypothetical contrast is portable if its label is retained.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-07",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S072",
+          "printed_page": "70",
+          "wrapper_member": "item/xhtml/p-070.xhtml",
+          "image_member": "item/image/i-070.jpg",
+          "image_sha256": "5b09af6f90b6530b6add98cc8d35531449ad35d328db7bc82e1b9ee2bcc71d91"
+        },
+        {
+          "page_id": "FAN-MEM-S073",
+          "printed_page": "71",
+          "wrapper_member": "item/xhtml/p-071.xhtml",
+          "image_member": "item/image/i-071.jpg",
+          "image_sha256": "fe39271f8b6c4b8d542e4600b6b5edaaee833656ce881f8fcb9ef5efd2f8c6a3"
+        }
+      ],
+      "title": "Powerful divine clothing with mundane discomfort",
+      "source_plane": "FASHION_REFERENCE_SCRIPTED_COMMENTARY",
+      "actors_or_represented_participants": [
+        "Aqua",
+        "Kazuma"
+      ],
+      "setup_or_cue": "Status-condition protection coexists with pain/cold limits and an aesthetic dispute.",
+      "mechanism_or_observed_response": "A divine costume does not solve mundane embarrassment or temperature.",
+      "outcome_and_limits": "Capability claims are domain-limited; suggested dress alterations retain qualified wording.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Within this scripted/reference plane, practical condition distinctions can be taken literally; the feature does not create a new narrated injury or uniform invulnerability.",
+      "L_class_for_selected_effect": "L1",
+      "L_rationale": "Expectation reversal survives translation, while the proverb and evaluative phrasing need separate treatment.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-08",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S078",
+          "printed_page": "76",
+          "wrapper_member": "item/xhtml/p-076.xhtml",
+          "image_member": "item/image/i-076.jpg",
+          "image_sha256": "99b78283ae22b008e9c5e0ab5e62cf133ce67c510076bdfa9e623a5ea88952bd"
+        }
+      ],
+      "title": "Tracksuit as Japan memento and producer blame",
+      "source_plane": "SCRIPTED_FASHION_DIALOGUE",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Aqua"
+      ],
+      "setup_or_cue": "Aqua challenges Kazuma after he judges the women; he defends his tracksuit as a Japan connection and blames the feature planner.",
+      "mechanism_or_observed_response": "Defensive justification briefly becomes partial apology, then displaced responsibility.",
+      "outcome_and_limits": "This is an openly commissioned editorial exchange, not a new dated MAIN confession.",
+      "H_class": "H3",
+      "H_scope_and_rival": "The precise memento defense functions as the local fashion-column punchline; do not generalize its unique rationale without separately located recurrence. The underlying Japan attachment is not thereby denied.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Face defense, concession and planner blame are pragmatic moves, not pronoun-based voice identification.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-09",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S083",
+          "printed_page": "81",
+          "wrapper_member": "item/xhtml/p-081.xhtml",
+          "image_member": "item/image/i-081.jpg",
+          "image_sha256": "62fc096c18fb0c8b2ad3f963c8101d4dd0ad30d6afc69d02f3bae96625edb2c9"
+        }
+      ],
+      "title": "Merchandise nominal benefit versus cost",
+      "source_plane": "EDITORIAL_PRODUCT_REFERENCE",
+      "actors_or_represented_participants": [
+        "Wiz shop",
+        "Suppliers",
+        "Potential user"
+      ],
+      "setup_or_cue": "Descriptions promise utility but disclose mana drain, price, seasonal delay or damaging side effects.",
+      "mechanism_or_observed_response": "An ingenious product can be real and useful in one domain while failing its purchaser.",
+      "outcome_and_limits": "The approximate seventy-percent remark applies to the featured selection, not all series merchandise.",
+      "H_class": "NOT_APPLICABLE",
+      "H_scope_and_rival": "These are reference descriptions of capacities/results. No new purchase or behavior should be scored from a list alone.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Benefit-cost inversion is portable; names and sales phrasing can amplify it.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-10",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S090",
+          "printed_page": "88",
+          "wrapper_member": "item/xhtml/p-088.xhtml",
+          "image_member": "item/image/i-088.jpg",
+          "image_sha256": "2eb6abcd5635d6f1883a34ebeec6c39347f7f9e062ecaf76e4bf373c68e9383d"
+        },
+        {
+          "page_id": "FAN-MEM-S091",
+          "printed_page": "89",
+          "wrapper_member": "item/xhtml/p-089.xhtml",
+          "image_member": "item/image/i-089.jpg",
+          "image_sha256": "57e43210ad4de9879b208a68b7740a7fde9091f93b059a178c6109723523f11a"
+        },
+        {
+          "page_id": "FAN-MEM-S092",
+          "printed_page": "90",
+          "wrapper_member": "item/xhtml/p-090.xhtml",
+          "image_member": "item/image/i-090.jpg",
+          "image_sha256": "d0142a3b9b966b4604672a138dbbd268f6b8f06f8b294b823a1f85fc91617964"
+        },
+        {
+          "page_id": "FAN-MEM-S093",
+          "printed_page": "91",
+          "wrapper_member": "item/xhtml/p-091.xhtml",
+          "image_member": "item/image/i-091.jpg",
+          "image_sha256": "3334dddf12e44b7b9aa8ff81753d131574e33b2b18823f7876bf1804a316fb84"
+        },
+        {
+          "page_id": "FAN-MEM-S094",
+          "printed_page": "92",
+          "wrapper_member": "item/xhtml/p-092.xhtml",
+          "image_member": "item/image/i-092.jpg",
+          "image_sha256": "9c9c8aead29d4c4d98ba678b6f903a07d06198c023a2a18ec2673a906cdc98d6"
+        }
+      ],
+      "title": "Creator self-parody and imagined design solutions",
+      "source_plane": "CREATOR_INTERVIEW",
+      "actors_or_represented_participants": [
+        "Natsume Akatsuki",
+        "Kurone Mishima",
+        "Interviewer/readers"
+      ],
+      "setup_or_cue": "Creators joke about polls, characters, design constraints and the practical act of making the series.",
+      "mechanism_or_observed_response": "A serious craft explanation can finish with a deliberately unserious answer.",
+      "outcome_and_limits": "These are real-world represented answers, not actions performed by the fictional quartet.",
+      "H_class": "NOT_APPLICABLE",
+      "H_scope_and_rival": "H behavioral evidence for a fictional character is not applicable. Creator intent is separate from demonstrated narrative compliance.",
+      "L_class_for_selected_effect": "L1",
+      "L_rationale": "Turn-ending understatement and light deflection affect rhythm; fantasy-costume joke can be rebuilt in another language.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-11",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S096",
+          "printed_page": "94",
+          "wrapper_member": "item/xhtml/p-094.xhtml",
+          "image_member": "item/image/i-094.jpg",
+          "image_sha256": "df41178461255d27b17bde012f438645c507474ef675e67d216c9b7e7e047bfe"
+        }
+      ],
+      "title": "Domestic card-game stakes mimic epic conflict",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Aqua",
+        "Megumin",
+        "Darkness",
+        "Kazuma"
+      ],
+      "setup_or_cue": "Megumin is frustrated by Aqua kobold/debt-lich card strategy; Darkness spills the cards during a call to work.",
+      "mechanism_or_observed_response": "High dramatic diction is spent on a household game and a spoiled possible win.",
+      "outcome_and_limits": "Actual anger, interruption and card cleanup; a lich dying is a card-rule consequence, not a real creature death.",
+      "H_class": "H2",
+      "H_scope_and_rival": "Real competitive irritation and household conflict are comically amplified. Scope is the game; no extrapolation to all losses.",
+      "L_class_for_selected_effect": "L1",
+      "L_rationale": "Escalating repetition and dramatic/card vocabulary color an otherwise portable interrupted-game conflict.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-12",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S096",
+          "printed_page": "94",
+          "wrapper_member": "item/xhtml/p-094.xhtml",
+          "image_member": "item/image/i-094.jpg",
+          "image_sha256": "df41178461255d27b17bde012f438645c507474ef675e67d216c9b7e7e047bfe"
+        },
+        {
+          "page_id": "FAN-MEM-S097",
+          "printed_page": "95",
+          "wrapper_member": "item/xhtml/p-095.xhtml",
+          "image_member": "item/image/i-095.jpg",
+          "image_sha256": "79108a344f849a1407af23d73dbcb075dfe047476af18267817db153834f79ca"
+        }
+      ],
+      "title": "Dungeon advice bought with a dream reward",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Vanir",
+        "Medusa"
+      ],
+      "setup_or_cue": "Kazuma initially refuses dangerous advisory work; Vanir offers a succubus serious dream.",
+      "mechanism_or_observed_response": "The protagonist accepts the dubious assignment for an identified private reward.",
+      "outcome_and_limits": "Advisor role becomes actual, but receipt/consumption of the dream is not narrated.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Decision and motive are substantially literal in this fiction; fantasy reward mechanics do not automatically make it H4.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Incentive-induced cooperation is portable; Vanir elevated role language is an additional register layer.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-13",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S097",
+          "printed_page": "95",
+          "wrapper_member": "item/xhtml/p-095.xhtml",
+          "image_member": "item/image/i-095.jpg",
+          "image_sha256": "79108a344f849a1407af23d73dbcb075dfe047476af18267817db153834f79ca"
+        },
+        {
+          "page_id": "FAN-MEM-S098",
+          "printed_page": "96",
+          "wrapper_member": "item/xhtml/p-096.xhtml",
+          "image_member": "item/image/i-096.jpg",
+          "image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b"
+        }
+      ],
+      "title": "Humans out-devil the demons",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Medusa",
+        "Vanir"
+      ],
+      "setup_or_cue": "Kazuma recommends ruthless ambushes and manufactured party conflict; the dungeon owner and devil react with admiration and disgust.",
+      "mechanism_or_observed_response": "Expected monster villainy is displaced onto the practical human adviser.",
+      "outcome_and_limits": "Medusa takes notes and Vanir enjoys negative emotion; their approval is not objective ethical validation.",
+      "H_class": "H2",
+      "H_scope_and_rival": "Actual proposed tactics and reactions are clear, with intensified demonic comparison; proposals are not all completed attacks.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Teacher/deference language surrounding vicious instruction adds hierarchy irony; the moral reversal remains portable.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-14",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S098",
+          "printed_page": "96",
+          "wrapper_member": "item/xhtml/p-096.xhtml",
+          "image_member": "item/image/i-096.jpg",
+          "image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b"
+        }
+      ],
+      "title": "One real expiring ticket creates discord",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Medusa",
+        "Adventurer invaders"
+      ],
+      "setup_or_cue": "Kazuma places an authentic service ticket with one-only/date constraints among treasure.",
+      "mechanism_or_observed_response": "Scarcity, uncertainty and deadline trigger competition, allowing defensive benefit.",
+      "outcome_and_limits": "Fighting is observed; no deaths or magical compulsion are stated.",
+      "H_class": "H1",
+      "H_scope_and_rival": "The causal mechanism is literal within the story, even though the setting and reward are fantasy.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Scarcity/deadline/peer rivalry can be reproduced without retaining the original Japanese wording.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-15",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S098",
+          "printed_page": "96",
+          "wrapper_member": "item/xhtml/p-096.xhtml",
+          "image_member": "item/image/i-096.jpg",
+          "image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b"
+        },
+        {
+          "page_id": "FAN-MEM-S099",
+          "printed_page": "97",
+          "wrapper_member": "item/xhtml/p-097.xhtml",
+          "image_member": "item/image/i-097.jpg",
+          "image_sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af"
+        }
+      ],
+      "title": "Dungeon administration needs attraction, defenses and toilets",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Medusa",
+        "Vanir"
+      ],
+      "setup_or_cue": "Invaders adapt, stronger parties arrive, defense resources become experience rewards and amenities become necessary.",
+      "mechanism_or_observed_response": "Heroic dungeon management becomes mundane service work and a precarious business.",
+      "outcome_and_limits": "Kazuma offers a concrete local toilet restraint but other cruel tactics remain; no universal humanitarian conversion.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Resources, adaptation and administrative choices are largely literal. Repeated diary entries are dependent phases of one continuing project, not independent tests.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Infrastructure and resource contradiction carry the effect across languages.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-16",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S099",
+          "printed_page": "97",
+          "wrapper_member": "item/xhtml/p-097.xhtml",
+          "image_member": "item/image/i-097.jpg",
+          "image_sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af"
+        }
+      ],
+      "title": "Supposedly awkward companions make a strong alternative party",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Yunyun",
+        "Darkness",
+        "Chris",
+        "Wiz",
+        "Kazuma"
+      ],
+      "setup_or_cue": "Yunyun spell, Darkness front, Chris trap work and Wiz fire combine effectively.",
+      "mechanism_or_observed_response": "Kazuma earlier domain-specific dismissal is exposed by a complementary line-up.",
+      "outcome_and_limits": "Medusa fears the result; final tower destruction and her fate remain unshown.",
+      "H_class": "H1",
+      "H_scope_and_rival": "The depicted task contributions are direct story events, not a universal ranking or proof the original quartet has no constraints.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Role complementarity and the adviser confronting his own acquaintances are structural.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-17",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S099",
+          "printed_page": "97",
+          "wrapper_member": "item/xhtml/p-097.xhtml",
+          "image_member": "item/image/i-097.jpg",
+          "image_sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af"
+        }
+      ],
+      "title": "Pleading disciple and adviser escape",
+      "source_plane": "NEW_PROSE_FICTION",
+      "actors_or_represented_participants": [
+        "Medusa",
+        "Kazuma",
+        "Vanir"
+      ],
+      "setup_or_cue": "Medusa asks not to be abandoned as the strong party approaches; Kazuma reassures and retreats.",
+      "mechanism_or_observed_response": "His teacher role, fear and limited concern diverge from actual rescue.",
+      "outcome_and_limits": "He ends hoping for her safety; alarm/huge mana is not an actual narrated Blast or death.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Concern, speech and exit are literal, while hidden/future outcome is explicitly unknown. Lack of outcome knowledge is not H3.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Teacher address, appeal and perfunctory reassurance carry dependence and evasion; the escape situation is portable.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-18",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S100",
+          "printed_page": "98",
+          "wrapper_member": "item/xhtml/p-098.xhtml",
+          "image_member": "item/image/i-098.jpg",
+          "image_sha256": "c38f3058187a805ba65990b3dd4c5555f33a39d72023347f7f706ae9604ebb56"
+        },
+        {
+          "page_id": "FAN-MEM-S101",
+          "printed_page": "99",
+          "wrapper_member": "item/xhtml/p-099.xhtml",
+          "image_member": "item/image/i-099.jpg",
+          "image_sha256": "cfbc2a1cbd055f33d79a088f42c09ac194c8adf1ce758dcc3bee8decce8df8b1"
+        },
+        {
+          "page_id": "FAN-MEM-S102",
+          "printed_page": "100",
+          "wrapper_member": "item/xhtml/p-100.xhtml",
+          "image_member": "item/image/i-100.jpg",
+          "image_sha256": "54294b4a66c851e000b8e675446979e450100a12237c9f0d8ae4f57354d7af7c"
+        },
+        {
+          "page_id": "FAN-MEM-S103",
+          "printed_page": "101",
+          "wrapper_member": "item/xhtml/p-101.xhtml",
+          "image_member": "item/image/i-101.jpg",
+          "image_sha256": "fe21669122e916045e2d46cec60490146403ec4af8a228a4761c6b9e2faf1cb2"
+        }
+      ],
+      "title": "Celebrity attention and contested poll victory",
+      "source_plane": "NEW_METAFICTIONAL_COMIC",
+      "actors_or_represented_participants": [
+        "Luna",
+        "Aqua",
+        "Megumin",
+        "Darkness",
+        "Kazuma"
+      ],
+      "setup_or_cue": "Fan-requested coverage leads to fame pride, film boast, election claim and rival allegation of a boosted poll.",
+      "mechanism_or_observed_response": "Self-celebration quickly becomes a dispute over legitimacy.",
+      "outcome_and_limits": "Poll/film/fans explicitly mark the metalevel; not independent public-opinion measurement.",
+      "H_class": "H2",
+      "H_scope_and_rival": "Disposition and rivalry are legible with amplification, but comic-specific fan frame is retained. Not H4 merely because the frame is paratextual.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Competing entitlement/legitimacy claims and emphatic corrections are pragmatic; exact comic pacing adds another layer.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-19",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S104",
+          "printed_page": "102",
+          "wrapper_member": "item/xhtml/p-102.xhtml",
+          "image_member": "item/image/i-102.jpg",
+          "image_sha256": "555aa06717a712b7d9b5ec9edc07dacea2c7c380782fbe50690394fabd732277"
+        }
+      ],
+      "title": "Volunteered interview fantasy",
+      "source_plane": "NEW_METAFICTIONAL_COMIC",
+      "actors_or_represented_participants": [
+        "Darkness",
+        "Luna"
+      ],
+      "setup_or_cue": "Darkness accepts questioning and starts a favored humiliating noblewoman scenario.",
+      "mechanism_or_observed_response": "Professional interview is reinterpreted as a venue for her fantasy, discomforting Luna.",
+      "outcome_and_limits": "Bleeped speech does not show assault; no blanket consent to every exposure or harm.",
+      "H_class": "H2",
+      "H_scope_and_rival": "An underlying disposition is amplified in a selected fantasy; its extremity is not a general-purpose behavioral permission.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "The clash of formal interview cooperation, aggressive invitation and public-shame attraction depends on social stance.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-20",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S105",
+          "printed_page": "103",
+          "wrapper_member": "item/xhtml/p-103.xhtml",
+          "image_member": "item/image/i-103.jpg",
+          "image_sha256": "a34f70322e9d5573254ec8bd21faecc213055f0f67c2a81a3bb2f0ee119cb071"
+        },
+        {
+          "page_id": "FAN-MEM-S106",
+          "printed_page": "104",
+          "wrapper_member": "item/xhtml/p-104.xhtml",
+          "image_member": "item/image/i-104.jpg",
+          "image_sha256": "baa0ce9cacc1e8a6b0f3ac3b0402d9288c34d23a5ef513bd972593e5b6c7c907"
+        }
+      ],
+      "title": "Rescue pose reveals date/self-promotion motive",
+      "source_plane": "NEW_METAFICTIONAL_COMIC",
+      "actors_or_represented_participants": [
+        "Kazuma",
+        "Luna",
+        "Darkness",
+        "Aqua",
+        "Megumin"
+      ],
+      "setup_or_cue": "Kazuma first thinks of a date, then intervenes on Luna behalf and claims solo protagonist coverage.",
+      "mechanism_or_observed_response": "Helpful public performance and selfish private reward coexist; companions object to appropriation.",
+      "outcome_and_limits": "No actual reciprocated date, and no need to erase the useful interruption to recognize motive.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Cognitive appraisal and external speech order are direct within comic; stylized smug expression is not a separate inferred state.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Excuse, correction, leader/protagonist claim and dismissive reply enact face/status management.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-21",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S107",
+          "printed_page": "105",
+          "wrapper_member": "item/xhtml/p-105.xhtml",
+          "image_member": "item/image/i-105.jpg",
+          "image_sha256": "64b5a2aa999817d62f5ee19651bc6e0bbd71880d222a04105daf074d4f747c8f"
+        }
+      ],
+      "title": "Blast finale and chibi casualty shorthand",
+      "source_plane": "NEW_METAFICTIONAL_COMIC",
+      "actors_or_represented_participants": [
+        "Megumin",
+        "Luna",
+        "Kazuma",
+        "Aqua",
+        "Darkness"
+      ],
+      "setup_or_cue": "Luna flees, Megumin calls Explosion, a large blast and isolated screaming chibi faces close the failed interview.",
+      "mechanism_or_observed_response": "An ordinary fan-service project escalates into spectacular ensemble disruption.",
+      "outcome_and_limits": "Actual comic cast is depicted; deaths, injury scale and durable building consequences are not established.",
+      "H_class": "H4",
+      "H_scope_and_rival": "H4 applies to nonliteral reaction/visual casualty shorthand and closing license, **not** to the mere existence of literal in-world Explosion magic. Retaliatory disposition is separately H2-plausible.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Explosion-as-disastrous-finale works visually across languages; chant spelling and SFX supply delivery.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-22",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S110",
+          "printed_page": "108",
+          "wrapper_member": "item/xhtml/p-108.xhtml",
+          "image_member": "item/image/i-108.jpg",
+          "image_sha256": "c95b5537fd77f2a6248b5736f68719f3b18f5f66210c60db1420d9835fafd573"
+        }
+      ],
+      "title": "Commercial divine water meets free ordinary supply",
+      "source_plane": "REPRODUCED_BONUS_PROSE",
+      "actors_or_represented_participants": [
+        "Aqua",
+        "Kazuma",
+        "Former mage",
+        "Restaurant worker"
+      ],
+      "setup_or_cue": "Aqua attempts a high-price water trade; before a sale they see free Create Water supply.",
+      "mechanism_or_observed_response": "Real clean-water utility fails to establish commercial scarcity or unique religious authority.",
+      "outcome_and_limits": "Former mage still knows beginner spell; no confirmed completed Aqua sale.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Business proposal, practical reasoning and observed rival supply can be literal; no generic professional-competence floor is needed.",
+      "L_class_for_selected_effect": "L0",
+      "L_rationale": "Price/competition and unintended undercutting are portable; the title is separately form-dependent.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-23",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S110",
+          "printed_page": "108",
+          "wrapper_member": "item/xhtml/p-108.xhtml",
+          "image_member": "item/image/i-108.jpg",
+          "image_sha256": "c95b5537fd77f2a6248b5736f68719f3b18f5f66210c60db1420d9835fafd573"
+        },
+        {
+          "page_id": "FAN-MEM-S111",
+          "printed_page": "109",
+          "wrapper_member": "item/xhtml/p-109.xhtml",
+          "image_member": "item/image/i-109.jpg",
+          "image_sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36"
+        }
+      ],
+      "title": "Water-trade title and mistaken monopoly",
+      "source_plane": "REPRODUCED_BONUS_PROSE",
+      "actors_or_represented_participants": [
+        "Kazuma narrator",
+        "Aqua"
+      ],
+      "setup_or_cue": "The title uses a conventional Japanese business expression while the action is literal water selling.",
+      "mechanism_or_observed_response": "Kazuma explicitly notices the other connotation when Aqua demands religious tribute.",
+      "outcome_and_limits": "The narrative depicts neither sex work nor the conventional nightlife business denoted by the expression.",
+      "H_class": "H1",
+      "H_scope_and_rival": "Underlying demands and business are literal; wordplay is a separate L axis, not H4.",
+      "L_class_for_selected_effect": "L3",
+      "L_rationale": "水商売 has an established idiomatic sense plus literal reading. The exact double use requires reconstruction/annotation, rather than merely preserving the situation.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    },
+    {
+      "id": "FM-H-24",
+      "selection": "PURPOSIVE_AFTER_COMPLETE_UNCODED_SEAL",
+      "source_routes": [
+        {
+          "page_id": "FAN-MEM-S111",
+          "printed_page": "109",
+          "wrapper_member": "item/xhtml/p-109.xhtml",
+          "image_member": "item/image/i-109.jpg",
+          "image_sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36"
+        }
+      ],
+      "title": "Water god nickname provokes ownership and tribute",
+      "source_plane": "REPRODUCED_BONUS_PROSE",
+      "actors_or_represented_participants": [
+        "Aqua",
+        "Former mage",
+        "Restaurant worker",
+        "Kazuma narrator"
+      ],
+      "setup_or_cue": "A charitable water supplier is called water god; Aqua demands apology/Axis donations and bargains.",
+      "mechanism_or_observed_response": "Goddess authority and ordinary gratitude collide; narrator ends with ironic distance.",
+      "outcome_and_limits": "No donation, curse completion or denial of literal Aqua divinity is established.",
+      "H_class": "H2",
+      "H_scope_and_rival": "The actual status response is strong with comic amplitude; every word of grandiose threat is not reliable future enforcement.",
+      "L_class_for_selected_effect": "L2",
+      "L_rationale": "Honorific nickname, divine self-naming, threats and narrator distancing are key pragmatic layers; free-supplier reversal remains portable.",
+      "source_identification_confidence": "HIGH except expressly unnamed/unattributed matters in initial inventory",
+      "functional_generalization_confidence": "MODERATE; source plane and selected effect fixed, no controlled original-coder comparison",
+      "not_R1_or_Gen_test_or_new_independent_trial": true
+    }
+  ],
+  "selected_record_count": 24
+}

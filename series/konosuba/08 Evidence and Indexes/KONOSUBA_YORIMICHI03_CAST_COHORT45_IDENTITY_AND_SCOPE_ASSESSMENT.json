@@ -1,0 +1,189 @@
+{
+  "schema": "konosuba.cohort45.identity-scope-assessment-draft.v1",
+  "authored_utc": "2026-10-25T06:31:34.644563+00:00",
+  "status": "PROPOSED_PROPORTIONAL_ASSESSMENT_NOT_ACCEPTED",
+  "criteria": "Meaningful and differentiated evidence, not word/appearance quota, equal treatment, identity prestige or forced principal format.",
+  "subjects": [
+    {
+      "subject": "Shumel",
+      "existing_logical_row": 107,
+      "proposed_tier": 3,
+      "provisional_rule_count": 1,
+      "monograph_file": "SHUMEL_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Dense confrontation with repeated articulated boundary, repeated warnings, actual costly attack and status-based counteraccount.",
+      "limiting_rivals": "One dependent episode; generic aristocratic pride/raid defense/exposure pressure remain live. Respect is not automatic cooperation."
+    },
+    {
+      "subject": "Vice",
+      "existing_logical_row": 108,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "VICE_MONOGRAPH_DRAFT_02.md",
+      "positive_case": "Multiple linked mistakes, correction, role pressures and actual marriage give a substantial individual trajectory.",
+      "limiting_rivals": "Motives covary with status protection, threats and false reports; unheard bargain cannot supply a differentiated generator."
+    },
+    {
+      "subject": "Lilac Rod Lalatina / Lalatine",
+      "existing_logical_row": 109,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "LILAC_LALATINA_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Actual duels, petition, claim, false story and later name/marriage sustain an individual account.",
+      "limiting_rivals": "No private negotiation access or uniquely supported goal ordering beyond generic status/wealth/romance rivals."
+    },
+    {
+      "subject": "Tia",
+      "existing_logical_row": 110,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "TIA_MONOGRAPH_DRAFT_02.md",
+      "positive_case": "False victim account, forgiveness claim, challenge and joint settlement require her own treatment.",
+      "limiting_rivals": "False accounts and role advantage underdetermine her exact knowledge, motives and future policy; no privately coordinated joint deception is proved."
+    },
+    {
+      "subject": "Liliantine",
+      "existing_logical_row": 111,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "LILIANTINE_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Specific intellectual questions, preferences, reception and academic change merit substantial ordinary-life treatment.",
+      "limiting_rivals": "Bright engaged pupil and social imitation rivals are strong; no private firing intent or mature general critical policy."
+    },
+    {
+      "subject": "Melvirei",
+      "existing_logical_row": 112,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "MELVIREI_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Repeated embodied acts, changing relation, actual healing and prompted departure merit a substantial nonhuman account.",
+      "limiting_rivals": "Many high-level interpretations belong to humans; defense/imitation/conditioning rivals survive, without a permanent species ceiling."
+    },
+    {
+      "subject": "Last-life succubus owner",
+      "existing_logical_row": 113,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "LAST_LIFE_DUNGEON_OWNER_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Dense perspective-dependent threat, revised bargaining and actual hospitality supply consequential individual decisions.",
+      "limiting_rivals": "Finite-life fear and generic rescue/payment response remain strong; no performed closure/treasure transfer or repeated boundary contrast."
+    },
+    {
+      "subject": "Crank",
+      "existing_logical_row": null,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "CRANK_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Sustained adversarial exchange with selective admissions, asserted custom, actual search and non-collar outcome.",
+      "limiting_rivals": "Generic defensive/status bargaining rivals remain broad; no independent private goals or full repeated policy discrimination."
+    },
+    {
+      "subject": "YORI03 succubus messenger occurrence",
+      "existing_logical_row": null,
+      "proposed_tier": 2,
+      "provisional_rule_count": 0,
+      "monograph_file": "SUCCUBUS_MESSENGER_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Local discretion, embarrassment, appeal, alternative acceptance and logistics merit an event-scoped substantial study.",
+      "limiting_rivals": "Identity with Lolisa open here; workplace script and ordinary concern rivals survive; no new life-model or completed fare payment."
+    },
+    {
+      "subject": "Knee-injured veteran counterpart bundle",
+      "existing_logical_row": null,
+      "proposed_tier": 3,
+      "provisional_rule_count": 2,
+      "monograph_file": "KNEE_VETERAN_MONOGRAPH_DRAFT_01.md",
+      "positive_case": "Explicit pre-benefit refusal and post-mobility expanded practical repayment plus own test goal support asymmetric conditionals.",
+      "limiting_rivals": "Source-known dependent routes and generic gratitude/restoration/conversion rivals; pre-benefit rule weakest, no shared memories or prior consent."
+    }
+  ],
+  "twelve_dimensions": [
+    "identity/source access",
+    "self and practical goals",
+    "decision sequence/alternatives",
+    "relations and expectations",
+    "ordinary preferences and practices",
+    "competence/cost/resource limits",
+    "Japanese voice and pragmatic role",
+    "narrator/observer disagreement",
+    "conditional predictions and rivals",
+    "prospective falsification",
+    "known unknowns/contrary evidence",
+    "proportional architecture and readiness"
+  ],
+  "actual_dedicated_study_candidates": 10,
+  "actual_scoped_model_candidates": 2,
+  "actual_provisional_rules": 3,
+  "actual_bounded_profile_candidates": 22,
+  "new_profile_census_occurrences": 21,
+  "profile_existing_route_supplements": 1,
+  "new_substantial_study_routes": 3,
+  "new_T0_source_access_records": 36,
+  "proposed_total_new_records": 60,
+  "existing_primary_study_rows": [
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113
+  ],
+  "supplements_only_existing_routes": [
+    1,
+    10,
+    17,
+    29,
+    43,
+    51,
+    52,
+    53,
+    59,
+    118,
+    122,
+    126,
+    132,
+    171,
+    236,
+    237,
+    254,
+    255,
+    387,
+    388,
+    389,
+    390,
+    391,
+    444,
+    452,
+    455,
+    476,
+    477
+  ],
+  "identity_receipts": [
+    {
+      "file": "COHORT45_ADAPTIVE_IDENTITY_CONTEXT_RECEIVING_01.json",
+      "sha256": "3bb4e2e0270a3f2bfb45347a34fc06a1cd697a89e40003e103fc83f3f6c4d5f4"
+    },
+    {
+      "file": "COHORT45_ADDITIONAL_STAFF_WAGER_RECEIVING_01.json",
+      "sha256": "f417cbef1aca23ebebb616ce6dea4a926697703597075ce76341bee42aa74d05"
+    },
+    {
+      "file": "COHORT45_SPECIFIC_EVENT_IDENTITY_RETURN_RECEIVING_01.json",
+      "sha256": "c8562b39807f0ce0779ccdadbcf68b3181a5e358bd8e356cd04af8b22a8ed742"
+    },
+    {
+      "file": "COHORT45_ADDITIONAL_ROUTING_CONTEXT_RECEIVING_01.json",
+      "sha256": "ff8c2c5996d57e93e7caa9ba42fab05aaab4fbbdacd57ae856d1d99af7bdd790"
+    }
+  ],
+  "all_entering65_model_bodies_remain_exact": true,
+  "original_firsts_and_scores_unchanged": true,
+  "new_exact_inputs_exist": false,
+  "new_original_firsts_exist": false,
+  "new_annotations_exist": false,
+  "foundation_review_complete": false,
+  "foundation_frozen": false,
+  "publication_gate_closed": false,
+  "final_global_tiers": false,
+  "full_program_complete": false,
+  "status_time_basis": "This document records the pre-freeze authorship state. Proposed tiers and false review/freeze/publication flags describe that point in time. Exact current acceptance and publication are recorded separately in the cohort receiving manifests and current census; these frozen foundation bytes are not retroactively rewritten."
+}

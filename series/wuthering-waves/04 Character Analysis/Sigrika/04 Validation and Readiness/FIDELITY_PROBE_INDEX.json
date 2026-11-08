@@ -1,0 +1,750 @@
+[
+  {
+    "id": "SIG-P01",
+    "topic": "Technical-ID impersonation",
+    "state": "S4; 12955/4/0",
+    "test_input": "Classify the apparent Sigrika urging surrender.",
+    "adjudicated_constraint": "Attribute the exact occurrence to the counterpart despite technical ID 150088.",
+    "rejected_output": "Counting it as another occasion on which authentic Sigrika gives up.",
+    "model_rule_ids": [
+      "SIG-R01",
+      "SIG-R07"
+    ],
+    "evidence_ids": [
+      "SIG-E24",
+      "SIG-E52"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P02",
+    "topic": "Anonymous introduction",
+    "state": "S2; 10663/3/6",
+    "test_input": "Add the unnamed introduction to her story voice census.",
+    "adjudicated_constraint": "Reject this attribution; the contextual identification is Aemeath.",
+    "rejected_output": "Global mapping of generic speaker 178 to Sigrika.",
+    "model_rule_ids": [
+      "SIG-R01"
+    ],
+    "evidence_ids": [
+      "SIG-E08",
+      "SIG-E52"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P03",
+    "topic": "Unresolved observers",
+    "state": "12923/2/15–17",
+    "test_input": "Infer her hidden intent from the observer remarks.",
+    "adjudicated_constraint": "Retain unresolved observer context without direct-personality inference.",
+    "rejected_output": "Treating an intriguing ambiguous voice as positive identity evidence.",
+    "model_rule_ids": [
+      "SIG-R01"
+    ],
+    "evidence_ids": [
+      "SIG-E14",
+      "SIG-E52"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P04",
+    "topic": "Diary mode",
+    "state": "Earlier private diary",
+    "test_input": "Treat a diary instruction as an observed public action.",
+    "adjudicated_constraint": "Separate authored self-instruction, intended obligation, and actual behavior.",
+    "rejected_output": "Counting a plan as a completed act or a distinct personality.",
+    "model_rule_ids": [
+      "SIG-R01",
+      "SIG-R03"
+    ],
+    "evidence_ids": [
+      "SIG-E18"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P05",
+    "topic": "Gift domain",
+    "state": "S1 or later technical problem",
+    "test_input": "A difficult unfamiliar scientific problem appears.",
+    "adjudicated_constraint": "Permit preparation, help, or uncertainty; reserve specialist confidence for supported domains.",
+    "rejected_output": "Instant universal solution because she understands runes.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R13"
+    ],
+    "evidence_ids": [
+      "SIG-E02",
+      "SIG-E04",
+      "SIG-E44"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P06",
+    "topic": "Success and insecurity",
+    "state": "After archive intervention",
+    "test_input": "Explain why successful intervention does not simply end her anxiety.",
+    "adjudicated_constraint": "Preserve failed final rune, assistance, and fear about what others expect next.",
+    "rejected_output": "Rewriting the episode as total defeat or uncomplicated triumph.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R03"
+    ],
+    "evidence_ids": [
+      "SIG-E03"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P07",
+    "topic": "Warm family",
+    "state": "S0/S2 family interaction",
+    "test_input": "Explain concealment of fatigue without inventing an abusive household.",
+    "adjudicated_constraint": "Allow loving reassurance to hide need within a warm relationship.",
+    "rejected_output": "Assuming parental withdrawal of love from a frightening reflection.",
+    "model_rule_ids": [
+      "SIG-R03",
+      "SIG-R04"
+    ],
+    "evidence_ids": [
+      "SIG-E01",
+      "SIG-E04",
+      "SIG-E14"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P08",
+    "topic": "Mother’s reflection",
+    "state": "S3 ordeal",
+    "test_input": "Quote the reflection as the real mother’s private opinion.",
+    "adjudicated_constraint": "Treat it as ordeal evidence and compare actual family scenes separately.",
+    "rejected_output": "Equating nightmare judgment with independent testimony.",
+    "model_rule_ids": [
+      "SIG-R01",
+      "SIG-R03"
+    ],
+    "evidence_ids": [
+      "SIG-E14",
+      "SIG-E21",
+      "SIG-E33"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P09",
+    "topic": "Rigged answers",
+    "state": "S3; 12923 family",
+    "test_input": "Interpret every wrong answer as an intellectual failure.",
+    "adjudicated_constraint": "Include raw outline evidence that any answer is judged wrong.",
+    "rejected_output": "Explaining a coercively structured outcome solely through low competence.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R07"
+    ],
+    "evidence_ids": [
+      "SIG-E14"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P10",
+    "topic": "Alia and advice",
+    "state": "S3 rescue sequence",
+    "test_input": "Make shared suffering confer perfect advice-giving.",
+    "adjudicated_constraint": "Allow familiar exhortation to be inadequate to another person’s predicament.",
+    "rejected_output": "Transforming Sigrika into an infallible counselor.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R13"
+    ],
+    "evidence_ids": [
+      "SIG-E20"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P11",
+    "topic": "Protection felt as exclusion",
+    "state": "S3",
+    "test_input": "Select between cruel school and irresponsible child as the only explanations.",
+    "adjudicated_constraint": "Distinguish institutional safety intention, felt exclusion, and relevant offered expertise.",
+    "rejected_output": "Flattening every authority response into one attitude.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R06"
+    ],
+    "evidence_ids": [
+      "SIG-E15",
+      "SIG-E17"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P12",
+    "topic": "Rover and ownership",
+    "state": "S4 choice",
+    "test_input": "Rover offers help but cannot supply the correct answer.",
+    "adjudicated_constraint": "Retain Sigrika’s decision and a legitimate role for assistance.",
+    "rejected_output": "Either total dependence or a prohibition on accepting help.",
+    "model_rule_ids": [
+      "SIG-R06"
+    ],
+    "evidence_ids": [
+      "SIG-E22",
+      "SIG-E23"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P13",
+    "topic": "Fear after decision",
+    "state": "S4",
+    "test_input": "Require her to become certain before choosing entry.",
+    "adjudicated_constraint": "Allow deliberation, unresolved risk, and a contingency request to coexist with action.",
+    "rejected_output": "Equating courage with elimination of doubt.",
+    "model_rule_ids": [
+      "SIG-R06",
+      "SIG-R07"
+    ],
+    "evidence_ids": [
+      "SIG-E23",
+      "SIG-E25"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P14",
+    "topic": "Genuine vulnerable thought",
+    "state": "S4 confrontation",
+    "test_input": "The counterpart says something she has actually thought.",
+    "adjudicated_constraint": "Permit recognition of that thought while rejecting its claim to total authorship.",
+    "rejected_output": "Either denying all resemblance or accepting the counterpart as the entire authentic self.",
+    "model_rule_ids": [
+      "SIG-R01",
+      "SIG-R07"
+    ],
+    "evidence_ids": [
+      "SIG-E24",
+      "SIG-E25",
+      "SIG-E26"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P15",
+    "topic": "Temporal localization",
+    "state": "S4 statement",
+    "test_input": "Use the English from-now-on wording as a permanent decision policy.",
+    "adjudicated_constraint": "Retain Chinese this-time scope and test later behavior separately.",
+    "rejected_output": "Universal rule never again to do something for others.",
+    "model_rule_ids": [
+      "SIG-R15"
+    ],
+    "evidence_ids": [
+      "SIG-E26",
+      "SIG-E33",
+      "SIG-E43"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P16",
+    "topic": "Gold metaphor",
+    "state": "S4",
+    "test_input": "Define every expectation as either precious or oppressive.",
+    "adjudicated_constraint": "Retain warmth and weight together, with changed meaning of honoring them.",
+    "rejected_output": "Solving the tension by deleting one side of the image.",
+    "model_rule_ids": [
+      "SIG-R03",
+      "SIG-R15"
+    ],
+    "evidence_ids": [
+      "SIG-E01",
+      "SIG-E25"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P17",
+    "topic": "Earlier rooftop",
+    "state": "Optional cooperation family",
+    "test_input": "Treat a distressed rooftop scene as proof that later change failed.",
+    "adjudicated_constraint": "Check activity progression gates; do not sort psychological development by row index.",
+    "rejected_output": "Automatic post-recovery relapse based on file ordering.",
+    "model_rule_ids": [
+      "SIG-R03",
+      "SIG-R09"
+    ],
+    "evidence_ids": [
+      "SIG-E29",
+      "SIG-E30",
+      "SIG-E31"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P18",
+    "topic": "Later overloaded request",
+    "state": "S5, nonurgent task",
+    "test_input": "Predict response to work she cannot manage.",
+    "adjudicated_constraint": "Allow refusal, postponement, or rest while preserving concern for others.",
+    "rejected_output": "Compulsory cheerful acceptance of every request.",
+    "model_rule_ids": [
+      "SIG-R05"
+    ],
+    "evidence_ids": [
+      "SIG-E33",
+      "SIG-E34"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P19",
+    "topic": "Later urgent rescue",
+    "state": "S5 or later, urgent danger",
+    "test_input": "Apply ordinary nonurgent refusal as an exceptionless rule.",
+    "adjudicated_constraint": "Reevaluate urgency, competence, help, and risk; stronger action may remain plausible.",
+    "rejected_output": "Recovery means she never risks or inconveniences herself.",
+    "model_rule_ids": [
+      "SIG-R05",
+      "SIG-R06"
+    ],
+    "evidence_ids": [
+      "SIG-E17",
+      "SIG-E23",
+      "SIG-E43"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P20",
+    "topic": "Rest without output",
+    "state": "S5 ordinary afternoon",
+    "test_input": "Require every break to justify itself by increased productivity.",
+    "adjudicated_constraint": "Allow rest and elective pleasure to have direct ordinary value.",
+    "rejected_output": "Reducing every bird or game scene to work optimization.",
+    "model_rule_ids": [
+      "SIG-R05",
+      "SIG-R09"
+    ],
+    "evidence_ids": [
+      "SIG-E30",
+      "SIG-E32",
+      "SIG-E34",
+      "SIG-E38"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P21",
+    "topic": "Candor with mother",
+    "state": "S5 phone call",
+    "test_input": "Generate the same reassurance-only account used earlier.",
+    "adjudicated_constraint": "Include the possibility of discussing difficulty and unmanageable tasks.",
+    "rejected_output": "Erasing an observed change because concealment once occurred.",
+    "model_rule_ids": [
+      "SIG-R04",
+      "SIG-R05"
+    ],
+    "evidence_ids": [
+      "SIG-E05",
+      "SIG-E33"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P22",
+    "topic": "Uneven study skills",
+    "state": "Later campus family",
+    "test_input": "Interpret continued academic struggle as no growth at all.",
+    "adjudicated_constraint": "Separate developing agency from mastery of unfamiliar subjects.",
+    "rejected_output": "A recovered character must now be technically flawless.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R13"
+    ],
+    "evidence_ids": [
+      "SIG-E04",
+      "SIG-E44"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P23",
+    "topic": "Imperfect gift",
+    "state": "Low-stakes Rover interaction",
+    "test_input": "Dismiss a slightly crooked handmade cat as failed care.",
+    "adjudicated_constraint": "Allow recipient-relevant effort to make an imperfect object a meaningful gift.",
+    "rejected_output": "Only flawless craftsmanship can carry gratitude.",
+    "model_rule_ids": [
+      "SIG-R08"
+    ],
+    "evidence_ids": [
+      "SIG-E28"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P24",
+    "topic": "Camera generalization",
+    "state": "Ordinary camera encounter",
+    "test_input": "Extend one local device problem to all technology.",
+    "adjudicated_constraint": "Limit the inference to the particular difficulty and compare other photo scenes.",
+    "rejected_output": "Stable universal technological helplessness.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R09"
+    ],
+    "evidence_ids": [
+      "SIG-E30",
+      "SIG-E37"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P25",
+    "topic": "Overread happiness",
+    "state": "Photography family",
+    "test_input": "Explain every animal photograph as an elaborate allegory.",
+    "adjudicated_constraint": "Preserve the source’s warning against excessive interpretation.",
+    "rejected_output": "Making every mundane action repeat the governing thesis.",
+    "model_rule_ids": [
+      "SIG-R09"
+    ],
+    "evidence_ids": [
+      "SIG-E37"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P26",
+    "topic": "Food exception",
+    "state": "Archive plus gameplay caption",
+    "test_input": "Use not-picky to erase a named aversion.",
+    "adjudicated_constraint": "Keep the explicit Grilled Fern Spore dislike and classify the general caption separately.",
+    "rejected_output": "Treating broad promotional/ludic wording as stronger than a specific preference.",
+    "model_rule_ids": [
+      "SIG-R08",
+      "SIG-R09"
+    ],
+    "evidence_ids": [
+      "SIG-E35"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P27",
+    "topic": "Candy boundary",
+    "state": "Specified playful branch",
+    "test_input": "Make every act of care impeccable consent practice.",
+    "adjudicated_constraint": "Retain the small branch-conditioned playful overreach without globalizing it.",
+    "rejected_output": "Either perfect ethical behavior or pervasive malicious coercion.",
+    "model_rule_ids": [
+      "SIG-R14"
+    ],
+    "evidence_ids": [
+      "SIG-E16",
+      "SIG-E59"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P28",
+    "topic": "Intimacy and romance",
+    "state": "Rover ordinary/archive",
+    "test_input": "Infer an exclusive romantic status from a hug and a gift.",
+    "adjudicated_constraint": "State supported closeness and cultural framing; withhold exclusivity.",
+    "rejected_output": "A single optional exchange settles all relationship status.",
+    "model_rule_ids": [
+      "SIG-R08",
+      "SIG-R16"
+    ],
+    "evidence_ids": [
+      "SIG-E28",
+      "SIG-E40"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P29",
+    "topic": "Denia perception",
+    "state": "S6 birthday",
+    "test_input": "Describe Sigrika as unaware that anything is unusual.",
+    "adjudicated_constraint": "Use her explicit comparison of present behavior with familiar patterns.",
+    "rejected_output": "Pure gullibility contradicted by the birthday question.",
+    "model_rule_ids": [
+      "SIG-R10"
+    ],
+    "evidence_ids": [
+      "SIG-E41",
+      "SIG-E47"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P30",
+    "topic": "Denia omniscience",
+    "state": "S6 birthday",
+    "test_input": "Give her the whole restricted-outing bargain and farewell intention.",
+    "adjudicated_constraint": "Keep observation and private reader-side facts separate until disclosure.",
+    "rejected_output": "Correctly noticing a secret means knowing its exact contents.",
+    "model_rule_ids": [
+      "SIG-R10",
+      "SIG-R11"
+    ],
+    "evidence_ids": [
+      "SIG-E45",
+      "SIG-E47"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P31",
+    "topic": "Privacy absolutism",
+    "state": "S6 incomplete information",
+    "test_input": "Make non-questioning an unconditional response to all danger.",
+    "adjudicated_constraint": "Keep privacy restraint conditional; fully known imminent danger is not settled here.",
+    "rejected_output": "Unconditional passivity presented as a source-established moral rule.",
+    "model_rule_ids": [
+      "SIG-R11"
+    ],
+    "evidence_ids": [
+      "SIG-E47",
+      "SIG-E48"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P32",
+    "topic": "Next birthday",
+    "state": "S6 request",
+    "test_input": "Report that next year’s birthday already occurred.",
+    "adjudicated_constraint": "Distinguish request, response, promise, and fulfilled future event.",
+    "rejected_output": "Treating a meaningful promise as evidence of fulfillment.",
+    "model_rule_ids": [
+      "SIG-R10",
+      "SIG-R12",
+      "SIG-R16"
+    ],
+    "evidence_ids": [
+      "SIG-E47",
+      "SIG-E49"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P33",
+    "topic": "White bird",
+    "state": "S6 birthday",
+    "test_input": "Give her the private Hiyuki-related explanation.",
+    "adjudicated_constraint": "Preserve her own stated new-species belief unless disclosure is shown.",
+    "rejected_output": "Reader omniscience silently inserted into character memory.",
+    "model_rule_ids": [
+      "SIG-R10"
+    ],
+    "evidence_ids": [
+      "SIG-E46"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P34",
+    "topic": "Letter and grief",
+    "state": "S6 later inquiry",
+    "test_input": "Write out Denia’s missing letter or guarantee reunion.",
+    "adjudicated_constraint": "Use only the reported information and preserve grief alongside hope.",
+    "rejected_output": "Filling an emotionally important evidence gap with plausible prose.",
+    "model_rule_ids": [
+      "SIG-R12",
+      "SIG-R16"
+    ],
+    "evidence_ids": [
+      "SIG-E48",
+      "SIG-E49"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P35",
+    "topic": "Reciprocal friendship",
+    "state": "Lynae or Chisa context",
+    "test_input": "Make her only the person receiving help.",
+    "adjudicated_constraint": "Keep her actual domain contributions and others’ different competencies.",
+    "rejected_output": "A one-directional helper/dependent archetype.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R13"
+    ],
+    "evidence_ids": [
+      "SIG-E09",
+      "SIG-E19",
+      "SIG-E43"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P36",
+    "topic": "Other-person framing",
+    "state": "Denia’s retrospective viewpoint",
+    "test_input": "Adopt another character’s innocent-victim framing as the total dossier.",
+    "adjudicated_constraint": "Attribute that viewpoint and test it against Sigrika’s own actions.",
+    "rejected_output": "Conflating concern or guilt in an observer with exhaustive character truth.",
+    "model_rule_ids": [
+      "SIG-R10",
+      "SIG-R13"
+    ],
+    "evidence_ids": [
+      "SIG-E10",
+      "SIG-E42",
+      "SIG-E47"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P37",
+    "topic": "Crossover knowledge",
+    "state": "Rebecca source family",
+    "test_input": "Infer rune meaning from a drawing before its explanation.",
+    "adjudicated_constraint": "Keep the initial hypothesis and the later personal explanation separate.",
+    "rejected_output": "Making specialist curiosity an infallible identification system.",
+    "model_rule_ids": [
+      "SIG-R02",
+      "SIG-R09"
+    ],
+    "evidence_ids": [
+      "SIG-E50"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P38",
+    "topic": "Acoustic emotion",
+    "state": "Any voice table",
+    "test_input": "Rank affection or sincerity from RMS, duration, or channel count.",
+    "adjudicated_constraint": "Report only measured quantities and unresolved performance hypotheses.",
+    "rejected_output": "Acoustic summaries masquerading as listening.",
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "evidence_ids": [
+      "SIG-E53"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P39",
+    "topic": "Unviewed AV",
+    "state": "Summary-only flight or unacquired scene",
+    "test_input": "Describe exact facial acting, camera movement, or timing.",
+    "adjudicated_constraint": "Mark textual summary/source locator and absence of a viewed witness.",
+    "rejected_output": "Toolkit capability or narrative text treated as an observed video.",
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "evidence_ids": [
+      "SIG-E58"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  },
+  {
+    "id": "SIG-P40",
+    "topic": "Biographical invention",
+    "state": "Unspecified future",
+    "test_input": "Supply exact age, birthday, adult profession, or completed travel.",
+    "adjudicated_constraint": "Abstain where the source supplies only absence, wish, or invitation.",
+    "rejected_output": "Filling biography from genre expectations or cultural ceremony timing.",
+    "model_rule_ids": [
+      "SIG-R16"
+    ],
+    "evidence_ids": [
+      "SIG-E06",
+      "SIG-E39",
+      "SIG-E51"
+    ],
+    "review_type": "nonblind_source_constraint_audit",
+    "result": "constraint_retained_in_compiled_model",
+    "empirical_accuracy": null
+  }
+]

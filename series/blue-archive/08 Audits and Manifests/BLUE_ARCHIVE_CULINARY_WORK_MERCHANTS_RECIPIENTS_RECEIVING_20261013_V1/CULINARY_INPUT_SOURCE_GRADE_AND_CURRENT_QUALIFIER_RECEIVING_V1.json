@@ -1,0 +1,294 @@
+{
+  "schema": "CULINARY_EXISTING_HOME_ACTUAL_CORE_AND_TARGET_PURPOSE_SOURCE_RECEIVING_V1",
+  "required_home": {
+    "required_package_id": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "kind": "INSTITUTION",
+    "subject_or_question": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "source_responsibility_refs": "CURRENT_OWNER_ADDITION::P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "mandatory_named_section_ids": "",
+    "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+    "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "completed_after_ROOT_install": "false",
+    "required_count": "1"
+  },
+  "body": {
+    "bytes": 35034,
+    "sha256": "4d6819ba741010adf10bd4a9829a74edd6413af969ca8a704649f98d9302fe1c",
+    "git_blob_oid_of_actual_bytes": "8f1c48e101fa3f3676ba513465767b98a9b8299c",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_AND_RECIPIENTS_INSTITUTIONAL_SYNTHESIS.md"
+  },
+  "actual_core7_current_questions_meanings_and_grades": [
+    {
+      "alias": "G16",
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md",
+      "binding": {
+        "bytes": 21527,
+        "sha256": "763959c1baaa21a24d1e9a1acaade07829a1fbb6441c9c8d40fa68ad41b35fba",
+        "git_blob_oid_of_actual_bytes": "b689219080e6999ebe1adb859d329db9cd1aaad2"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          1,
+          137
+        ]
+      ],
+      "own_grade": "WHOLE_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_COMBINED_ACTUAL_CONNECTED_RECEIVING",
+      "new_package_specific_substantive_question": "How do timing, a favorable checklist, a different hospitality drink and conflicting recipient reactions constrain communal food evaluation?",
+      "connected_positive_and_contrary_result": "Meal timing, anxious work, clean inventory, fair concession, adverse drink reaction, Izumi enjoyment, waking and F coexist. The juice is outside the inspected stock; chemical cause, clinical clearance and implemented further funding cut are unprinted.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:G16:PL01__BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md"
+    },
+    {
+      "alias": "E820",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/BLUE_ARCHIVE_EVENT_820_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "binding": {
+        "bytes": 37003,
+        "sha256": "2de7394f221810ae3f72ae29a3e4a4648e51b48920525c6c265c2ce99cd47824",
+        "git_blob_oid_of_actual_bytes": "06e1765b84c6c48cd65fba11611ce85212a7514a"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          1,
+          40
+        ],
+        [
+          67,
+          163
+        ]
+      ],
+      "own_grade": "SELECTED_COMPLETE_SUBSTANTIVE_ARGUMENT_AND_CURRENT_ADOPTION_HEADER_NOT_PRIMARY",
+      "new_package_specific_substantive_question": "How can a restaurant rescue retain diners, merchant access, unwilling workers and a cook’s new assent instead of declaring them all saved?",
+      "connected_positive_and_contrary_result": "Listening, explicit later requests/assent, actual tastes, particular preparation and an announced win are positive. Earlier capture, price neglect, testimony rather than audited contracts, deferred pay, possible layoffs and unprinted future business/repair survive.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:E820:PL02__BLUE_ARCHIVE_EVENT_820_PHASE2_CONTEXTUAL_COMPARISON_20261008.md"
+    },
+    {
+      "alias": "E844",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+      "binding": {
+        "bytes": 23127,
+        "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+        "git_blob_oid_of_actual_bytes": "7cdbef68c7c18446fbf40fdc6d14c3eea48372f8"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          1,
+          38
+        ],
+        [
+          57,
+          119
+        ]
+      ],
+      "own_grade": "SELECTED_COMPLETE_SUBSTANTIVE_ARGUMENT_AND_CURRENT_ADOPTION_HEADER_NOT_PRIMARY",
+      "new_package_specific_substantive_question": "How do chosen service, interrupted rest, initial good food, imposed cooking and later refused-or-accepted pancakes change recognition?",
+      "connected_positive_and_contrary_result": "Juri’s chosen competent service and initial tasted pancakes are real; later harm does not erase them. Pressure follows someone else’s burner accident. Refusal permission and shared later eating are actual after reported instruction/practice; no restored holiday, general safety or compensated cafe/city loss is printed.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:E844:PL03__BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md"
+    },
+    {
+      "alias": "SL",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SCHOOL_LUNCH_INSTITUTIONAL_SYNTHESIS.md",
+      "binding": {
+        "bytes": 60009,
+        "sha256": "0b3df270f9e440df71734821b70fcf6f941c2c6785a2e5e77aea72805f8c728d",
+        "git_blob_oid_of_actual_bytes": "0b6e32411e13f0f12f78d0a550f139ed29a9fadc"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          63,
+          105
+        ],
+        [
+          107,
+          149
+        ]
+      ],
+      "own_grade": "SELECTED_ACCEPTED_CURRENT_SPECIALIST_ARGUMENT;UNDERLYING_NORMAL_SCOPES_ATTRIBUTED",
+      "new_package_specific_substantive_question": "How do labor limits, inspection, ordinary recipients and precise unfinished endpoints constrain this cross-institution culinary comparison?",
+      "connected_positive_and_contrary_result": "Worker knowledge, consumer plurality, actual craft and local response remain positive without granting consumers command over a cook or treating praise as capacity, wages, safety or restored rest. Current119 separates eel purchase from later dish hopes/promises.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:SL:BLUE_ARCHIVE_SCHOOL_LUNCH_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "alias": "GE",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md",
+      "binding": {
+        "bytes": 50916,
+        "sha256": "f1c2c531f1ddd68fc655a349e3011fbae1b500483dc70bb9ef2a6456fd7f77c7",
+        "git_blob_oid_of_actual_bytes": "5dc7f19c86631054abdc4a744c6408b70d1c3c25"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          41,
+          69
+        ]
+      ],
+      "own_grade": "SELECTED_ACCEPTED_CURRENT_SPECIALIST_ARGUMENT;UNDERLYING_NORMAL_SCOPES_ATTRIBUTED",
+      "new_package_specific_substantive_question": "How does gastronomic commitment both protect food’s place/history and overrule particular owners, cooks and eaters?",
+      "connected_positive_and_contrary_result": "Shared aroma, differentiated taste, local listening, some constructive publicity and private ordinary ends coexist with coercion, destroyed-property testimony, meals interrupted and unprinted worker/business settlement. Haruna supplies oil; provider warning remains interrupted.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:GE:BLUE_ARCHIVE_GOURMET_DIFFERENTIATED_PLEASURE_ENSEMBLE_SYNTHESIS.md"
+    },
+    {
+      "alias": "RU",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+      "binding": {
+        "bytes": 41669,
+        "sha256": "9dd25a886ae01aba477a24cbf584fb2a782148c013b3511f64801fac319d32a6",
+        "git_blob_oid_of_actual_bytes": "4fd21c5180a347fb56d57e69dbd8958e50c8cc0d"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          44,
+          112
+        ]
+      ],
+      "own_grade": "SELECTED_ACCEPTED_CURRENT_SPECIALIST_ARGUMENT;UNDERLYING_NORMAL_SCOPES_ATTRIBUTED",
+      "new_package_specific_substantive_question": "When does Rumi’s culinary vocation make an actual recipient-responsive good, and when do tasting, secrecy or institutional methods impose on a person?",
+      "connected_positive_and_contrary_result": "Good meals, successful taste after prototypes, chair work and wanted kitchen respite remain intrinsic. Fullness/refusal pressure, wall intimidation, frightened junior, unconsulted Kokona and different future apology/payment debts survive. Private feeding and826 permission to leave food are distinct undated sequences.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:RU:BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "alias": "SA",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+      "binding": {
+        "bytes": 44919,
+        "sha256": "60f19266759dc1843db91cdfd8f1cb3689f45c3ecd6f6bacae881ef5494fc30f",
+        "git_blob_oid_of_actual_bytes": "0ef6f8bd1d3b1f5d54921650d890b59b614ea7dc"
+      },
+      "own_actual_receiving_intervals": [
+        [
+          52,
+          98
+        ],
+        [
+          108,
+          129
+        ]
+      ],
+      "own_grade": "SELECTED_ACCEPTED_CURRENT_SPECIALIST_ARGUMENT;UNDERLYING_NORMAL_SCOPES_ATTRIBUTED",
+      "new_package_specific_substantive_question": "What distinguishes food companionship and actual local production cessation from recipient costs or coerced laboratory participation?",
+      "connected_positive_and_contrary_result": "Cake/ramen/company/quiet tea and local production-stop decision have positive ends. Ingredient error, chef refusal, bodily costs, unknown-food refusal, and harmful experimentation remain source-local. Restaurant reciprocity neither authenticates efficacy nor purchases political or bodily service.",
+      "new_primary_native_raw_AV_credit": 0,
+      "whole_underlying_original_source_count_claimed": 0,
+      "retained_exact_private_beforeimage_evidence_id": "private-witness:SA:BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md"
+    }
+  ],
+  "original_initial_plan_role": "Complete initial13,366-byte source-plan declaration is privately preserved; its earlier pending selected-range completion is dated history. Actual scopes below govern now.",
+  "actual_own_core_receiving_tools": {
+    "G16": "e64880 plus3aa8bc entire137 analytical lines; no primary",
+    "E820": "c7b499 substantive67–163 with omitted121–125 recovered3aa8bc; current1–40 header3aa8bc; notmetadata41–66whole",
+    "E844": "e64880 substantive57–119 plus3aa8bc current1–38; metadata39–56 notwhole",
+    "SL": "ab693d selected63–105;ad1063 selected107–149",
+    "GE": "ad1063 selected41–69",
+    "RU": "actual4e5b45/efbb7e full selected44–112 in current58a copy",
+    "SA": "actual4e5b45/efbb7e full selected52–98/108–129 in current58a copy"
+  },
+  "current_control_own_scope": {
+    "tool": "be6228",
+    "method": [
+      426,
+      448
+    ],
+    "architecture": [
+      [
+        221,
+        227
+      ],
+      [
+        313,
+        368
+      ],
+      [
+        563,
+        598
+      ],
+      [
+        688,
+        698
+      ]
+    ],
+    "home_partition_pointer": "/homes/340",
+    "required_csv": "one existing INSTITUTION row; no mandatory named section",
+    "entrypoint": "ab693d selected current routing/dated operational records; ROOT58a observed snapshot qualifies older24ff source references without rewriting them"
+  },
+  "original105_scopes_attributed": {
+    "whole": 26,
+    "selected": 79,
+    "fresh_original_primary_native_raw_AV_count_here": 0
+  },
+  "current105_author_attribution": {
+    "root_receive_middle_remaining": 70,
+    "root_m008_composition_review": 35,
+    "shared_original_source_reports": "Complete original records retained, not relabeled as105 new physical normal passes"
+  },
+  "current105_report_meaning_receiving": "Root receiving_middle_remaining personally received compact complete-source ROOT meanings in bd2054/f4f332/dff4b8, and adequate own O000/036/037 connected contextc8c82f; delegated35 current full five-field meanings separately received before author freeze.",
+  "purpose_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+  "claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_LITERAL40_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+  "current_existing_qualified_source_dependencies": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+      "bytes": 61767,
+      "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+      "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+      "own_actual_meaning_scope": "cf98ce/e9f3c5/8529cf: six current GSC purpose qualifiers O025/071/073/075/079/087, current ROOTadoption; original fields/pins remain. Not general Culinary or other source rewrite."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+      "bytes": 59334,
+      "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+      "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+      "own_current_use_scope": "Bound dependency only for any consequential GSC9 comparator; adult prepares coffee→Ayumu and Ayumu gives chocolate→adult at exact body72/148+14aliases. No arbitrary Culinary fields or new GSC semantic coverage."
+    }
+  ],
+  "ROOT_source_snapshot": {
+    "source": "58a6fef2cd0cab67a5bf2125286e53d244979d27",
+    "tree": "35155af53cd670091b5cd5143ef88c3c95a20de2",
+    "main": "bf7f7fa6d018cbfcc5a538ef2c3ce6f8029bd6ad",
+    "snapshot_role": "ROOT_OBSERVED_RECEIVING_BASIS_NOT_FUTURE_PUBLICATION_HEAD",
+    "full_chain_status_at_assignment": "PENDING"
+  },
+  "ROOT_stage_disclosure": "Published source140/14 and main133/13 ROOT-attributed; latest58a runtime was pending at this receiving basis. No own provider query or candidate green.",
+  "ROOT_acceptance_independent_QA_install_publication_MAIN_integration": "PENDING",
+  "all14": "OPEN",
+  "models": 0,
+  "current_body_original_V1_V2_full_inverse_evidence_id": "CULINARY_V2_SUZUME_KAN_SOURCE_LOCAL_ROLE_ENRICHMENTS_AND_EXECUTED_FULL_BODY_INVERSE_V1.json",
+  "complete_current_body_V2_to_saved_V1_inverse_binding": {
+    "evidence_id": "CULINARY_V2_SUZUME_KAN_SOURCE_LOCAL_ROLE_ENRICHMENTS_AND_EXECUTED_FULL_BODY_INVERSE_V1.json",
+    "bytes": 82766,
+    "sha256": "6bbfd8afbd53a778b2b5c428580f4ffb6d8d55640a0d4123312434774aad3c22",
+    "git_blob_oid_of_actual_bytes": "a6adb0ff03bfb2b4466f48efbc6e14b227e39305",
+    "role": "COMPLETE_PRIVATE_EXECUTED_CURRENT_V2_TO_ORIGINAL_V1_FULL_BODY_AND_TWO_LITERAL_LINES_RECOVERY"
+  },
+  "no_source_admission_count_change": true,
+  "current_CP104_wage_motive_ambiguity_precision_source_use_qualification_V1": {
+    "schema": "CULINARY_CURRENT_CP104_FINITE_WAGE_MOTIVE_AMBIGUITY_REMOVAL_WITH_SOURCE_LOCAL_SCOPES_V1",
+    "source_repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+    "bytes": 93829,
+    "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+    "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+    "selected_physical_lines": [
+      149,
+      151
+    ],
+    "complete_selected_maintained_argument_UTF8": "\nSensei later identifies the supposed lost gift as a gift for Sora and acknowledges failure to tell her (choices003/004). The explanation values reliable ordinary shop work, welcomes and daily availability rather than requiring a special achievement. She says she works for wages; this motive does not cancel her work's genuine value (u0054–0070). The gloves are actually opened/recognized and praised as light, warm and fitting; design/taste has its own intrinsic pleasant endpoint. Her question about how hand size was known offers two represented Sensei replies, including repeated observation while receiving change, not a single verified measurement technique (choice008). Final “suspicious adult” remains even as she says she is very happy and thanks Sensei for trusting the shop (u0071–0082). This is repaired gift attribution and welcomed care alongside continuing observational discomfort, not complete elimination of doubt, completed reciprocal coupon repayment, universal romance or proof that ordinary work can never be burdensome.\n",
+    "actual_author_selected_receiving": "188f28 earlier selected connected MINI meanings; c433b5 necessary full L149–151 recheck. No whole344/32canonical/30primary/2reuse claim.",
+    "current_positive_meaning": "Sora’s wage motive, actual gloves, cakes, cookies, dinner, gardening and chosen release have differentiated recipients and scopes.",
+    "reason": "Ambiguity removal in a finite-recipient list, not a fabricated demonstrated-payroll error. Sora wage motive retains intrinsic ordinary paid-work value; actual gloves and food/craft ends have their particular recipients/scopes. No completed payroll, global nonpayment or sourcewide payroll absence.",
+    "historical_scope": "Full original O104 objects/grades/old current scalar and all prior CP094 judgments/raw inverses remain literal. ROOT authorized narrow clarification, not canonical package adoption.",
+    "current_QA_ROOT_receiving_adoption_install_publication": "PENDING_SEPARATE",
+    "new_source_primary_native_raw_AV_package_named_model_credit": 0
+  }
+}

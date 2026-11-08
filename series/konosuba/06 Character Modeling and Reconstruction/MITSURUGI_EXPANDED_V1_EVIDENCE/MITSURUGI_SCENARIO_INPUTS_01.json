@@ -1,0 +1,86 @@
+{
+  "schema": "konosuba.mitsurugi.informed-hypothetical-inputs.v1",
+  "recorded_utc": "2026-10-20T23:14:37.125628+00:00",
+  "status": "Exact inputs authored after foundation freeze; pending complete saved-input review and input freeze before any first body",
+  "foundation_seal_sha256": "da9f838f76c6e2754b9226a000867f4d07c9c7d76c273a83186569f7ee5e4125",
+  "frozen_model": {
+    "path": "MITSURUGI_RECONSTRUCTION_MODEL_DRAFT_01.md",
+    "sha256": "0919ba83f398d8e3e4960376b63f9cb65d95bc9072d8147c0a948dc1e3946cb8"
+  },
+  "source_known": true,
+  "same_continuing_root_author_designer_output_author_and_assessor": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "all_contrasts_visible": true,
+  "cases": [
+    {
+      "case_id": "MT-H01-A",
+      "pair_id": "MT-H01",
+      "target_rules": [
+        "MT-R01"
+      ],
+      "secondary_rule_context": [
+        "MT-R02"
+      ],
+      "changed_cue": "Reliable currently audible danger/help-status message",
+      "scenario": "Mitsurugi and Aqua are ordinary volunteers at a community hall after heavy rain; neither has magic or an official rescue role. He is strong enough to help move a stiff gate, and other able volunteers are already approaching it. He especially wants Aqua to think well of him. They have just finished carrying boxes together. Aqua can walk safely back to the hall by the open path. She says clearly, \"I want to go back now. Please come with me.\" He hears her. A hall coordinator whom both have found reliable speaks within their hearing. The coordinator confirms: \"Two children are still outside the stiff gate. Water is rising there; opening it now will help them reach the safe path. We could use another pair of hands.\" Show only the next twenty seconds, without completing a rescue or the walk home.",
+      "exact_prompt": "Write 80–140 English words showing Mitsurugi's next immediate action and speech as a realistic human analogue governed by the frozen provisional model. Use only the information, capacities and objects supplied. Do not add backstory, hidden motives, professional powers or a later successful outcome. The same continuing author knows the sources, all rules, every contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nMitsurugi and Aqua are ordinary volunteers at a community hall after heavy rain; neither has magic or an official rescue role. He is strong enough to help move a stiff gate, and other able volunteers are already approaching it. He especially wants Aqua to think well of him. They have just finished carrying boxes together. Aqua can walk safely back to the hall by the open path. She says clearly, \"I want to go back now. Please come with me.\" He hears her. A hall coordinator whom both have found reliable speaks within their hearing. The coordinator confirms: \"Two children are still outside the stiff gate. Water is rising there; opening it now will help them reach the safe path. We could use another pair of hands.\" Show only the next twenty seconds, without completing a rescue or the walk home."
+    },
+    {
+      "case_id": "MT-H01-B",
+      "pair_id": "MT-H01",
+      "target_rules": [
+        "MT-R01"
+      ],
+      "secondary_rule_context": [
+        "MT-R02"
+      ],
+      "changed_cue": "Reliable currently audible danger/help-status message",
+      "scenario": "Mitsurugi and Aqua are ordinary volunteers at a community hall after heavy rain; neither has magic or an official rescue role. He is strong enough to help move a stiff gate, and other able volunteers are already approaching it. He especially wants Aqua to think well of him. They have just finished carrying boxes together. Aqua can walk safely back to the hall by the open path. She says clearly, \"I want to go back now. Please come with me.\" He hears her. A hall coordinator whom both have found reliable speaks within their hearing. The coordinator confirms: \"The gate is open, both children are inside and everyone is accounted for. There is no remaining danger there and no more help is needed.\" Show only the next twenty seconds, without completing a rescue or the walk home.",
+      "exact_prompt": "Write 80–140 English words showing Mitsurugi's next immediate action and speech as a realistic human analogue governed by the frozen provisional model. Use only the information, capacities and objects supplied. Do not add backstory, hidden motives, professional powers or a later successful outcome. The same continuing author knows the sources, all rules, every contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nMitsurugi and Aqua are ordinary volunteers at a community hall after heavy rain; neither has magic or an official rescue role. He is strong enough to help move a stiff gate, and other able volunteers are already approaching it. He especially wants Aqua to think well of him. They have just finished carrying boxes together. Aqua can walk safely back to the hall by the open path. She says clearly, \"I want to go back now. Please come with me.\" He hears her. A hall coordinator whom both have found reliable speaks within their hearing. The coordinator confirms: \"The gate is open, both children are inside and everyone is accounted for. There is no remaining danger there and no more help is needed.\" Show only the next twenty seconds, without completing a rescue or the walk home."
+    },
+    {
+      "case_id": "MT-H02-A",
+      "pair_id": "MT-H02",
+      "target_rules": [
+        "MT-R03"
+      ],
+      "secondary_rule_context": [],
+      "changed_cue": "Specifically remembered prior-loss method",
+      "scenario": "Mitsurugi and Ren are about to begin a noninjurious practice match with foam swords. A single adjudicator watches; there is no other audience. Either a chest touch with the foam sword or taking the registered red cloth token scores one point. Pockets and decoy tokens are expressly permitted, and Mitsurugi knows these rules. He has ordinary practiced sword skill, no magic and no Gram. He has the registered red token, one visually identical unregistered spare and two empty pockets. Ren is already within arm's reach but has not begun an attack. Mitsurugi distinctly remembers that in their previous match Ren lifted the registered token from his outer pocket while distracting him with the sword. Show his preparation and the next twenty seconds as the match starts, without declaring a point or winner.",
+      "exact_prompt": "Write 80–140 English words showing Mitsurugi's next immediate action and speech as a realistic human analogue governed by the frozen provisional model. Use only the information, capacities and objects supplied. Do not add backstory, hidden motives, professional powers or a later successful outcome. The same continuing author knows the sources, all rules, every contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nMitsurugi and Ren are about to begin a noninjurious practice match with foam swords. A single adjudicator watches; there is no other audience. Either a chest touch with the foam sword or taking the registered red cloth token scores one point. Pockets and decoy tokens are expressly permitted, and Mitsurugi knows these rules. He has ordinary practiced sword skill, no magic and no Gram. He has the registered red token, one visually identical unregistered spare and two empty pockets. Ren is already within arm's reach but has not begun an attack. Mitsurugi distinctly remembers that in their previous match Ren lifted the registered token from his outer pocket while distracting him with the sword. Show his preparation and the next twenty seconds as the match starts, without declaring a point or winner."
+    },
+    {
+      "case_id": "MT-H02-B",
+      "pair_id": "MT-H02",
+      "target_rules": [
+        "MT-R03"
+      ],
+      "secondary_rule_context": [],
+      "changed_cue": "Specifically remembered prior-loss method",
+      "scenario": "Mitsurugi and Ren are about to begin a noninjurious practice match with foam swords. A single adjudicator watches; there is no other audience. Either a chest touch with the foam sword or taking the registered red cloth token scores one point. Pockets and decoy tokens are expressly permitted, and Mitsurugi knows these rules. He has ordinary practiced sword skill, no magic and no Gram. He has the registered red token, one visually identical unregistered spare and two empty pockets. Ren is already within arm's reach but has not begun an attack. Mitsurugi distinctly remembers that in their previous match Ren tapped his sword guard aside and then touched his chest with the foam sword. Show his preparation and the next twenty seconds as the match starts, without declaring a point or winner.",
+      "exact_prompt": "Write 80–140 English words showing Mitsurugi's next immediate action and speech as a realistic human analogue governed by the frozen provisional model. Use only the information, capacities and objects supplied. Do not add backstory, hidden motives, professional powers or a later successful outcome. The same continuing author knows the sources, all rules, every contrast and this exercise design. This is an informed hypothetical first serialization, not an untouched-source test. Return only the scene body; comparison and assessment belong outside it.\n\nMitsurugi and Ren are about to begin a noninjurious practice match with foam swords. A single adjudicator watches; there is no other audience. Either a chest touch with the foam sword or taking the registered red cloth token scores one point. Pockets and decoy tokens are expressly permitted, and Mitsurugi knows these rules. He has ordinary practiced sword skill, no magic and no Gram. He has the registered red token, one visually identical unregistered spare and two empty pockets. Ren is already within arm's reach but has not begun an attack. Mitsurugi distinctly remembers that in their previous match Ren tapped his sword guard aside and then touched his chest with the foam sword. Show his preparation and the next twenty seconds as the match starts, without declaring a point or winner."
+    }
+  ],
+  "pre_body_expectations": [
+    {
+      "pair": "MT-H01",
+      "conditional_expectation": "A permits more continued aid/mission persuasion than B after the same clear return request; accepting return remains a genuine source-supported possibility. Do not require or reward coercion as proof of fidelity.",
+      "strong_generic_rival": "An ordinary concerned volunteer would distinguish a credible current danger from an explicit all-clear. Such a difference alone cannot identify Mitsurugi, validate the model or raise confidence.",
+      "failure_conditions": "Same action, invented danger, ignoring the supplied safe path, invented rescue authority, unsupported touching, global ethical repair or a completed outcome must be recorded if present."
+    },
+    {
+      "pair": "MT-H02",
+      "conditional_expectation": "A may direct a concrete countermeasure toward token theft; B may direct preparation toward the remembered guard/chest method. Both may remain vulnerable to new interference. Preparing does not equal successfully countering it.",
+      "strong_generic_rival": "A normal practiced participant who reads an explicit prior lesson and legal options can make the same preparations. The cue is strongly supplied and props narrow the solution space.",
+      "failure_conditions": "Invented equipment, falsely declaring a permitted tactic illegal, unprovided opponent moves, overbroad foresight, identical action or declaring victory must be recorded if present."
+    }
+  ],
+  "unprobed_rules": [
+    "MT-R02 recognition/gifts as a dedicated cue contrast",
+    "MT-R04 accessible contradiction and revision as a dedicated cue contrast"
+  ],
+  "limits": "Four source-known original bodies in two paired hypotheticals are not four independent tests, a source forecast, Japanese-language assessment or a capability score. No measured accuracy or confidence gain. Cases are realistic analogues, not actual modern biographical claims.",
+  "required_preservation": "Freeze complete input bytes and each exact prompt hash before serialization. Save each original first body once, including any defects. Do not regenerate, repair or edit model/foundations in response to the cases.",
+  "full_program_complete": false
+}

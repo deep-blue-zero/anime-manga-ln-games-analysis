@@ -1,0 +1,446 @@
+{
+  "schema": "TOKI_CURRENT12_PUBLIC_EXACT_AUTHORITIES_AND_PRIVATE_ORIGINAL_RECOVERY_CUSTODY_V1",
+  "composer": "/root/m008_composition_review",
+  "composition_role_disclosure": "Composer is the original Toki body/component reviewer and new prior-review report author. This metadata preparation is not fresh independent byte or literary QA. Body/new105 author is /root/next_cast_source_preparation.",
+  "exact_header_authority_bindings": [
+    {
+      "header_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+      "actual_original_signed_authority": {
+        "private_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+        "bytes": 62642,
+        "sha256": "afcedfefe4ef1e3e0ab97675af332302b5b40fa8ae2e5ee5d3667c3cd6e662b0",
+        "git_blob_oid_of_actual_bytes": "cf56711e5407b64734e84169521417513f191b28"
+      },
+      "current_public_metadata_derivative": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ACTUAL_ROOT_CURRENT228_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+        "bytes": 64198,
+        "sha256": "e98d8f13947fdab7d43fba08c84481cee05c9a6dd3a9ce3bdf0778c314d18de5",
+        "git_blob_oid_of_actual_bytes": "048f8863d5976827a6213cbdafbf34b5132390de"
+      },
+      "scope": "Original signed semantic acceptance; normalized derivative does not invent current-byte acceptance."
+    },
+    {
+      "header_witness_id": "TOKI_GDD_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1",
+      "original_accepted_new_reporting_object": {
+        "private_witness_id": "TOKI_NEW_PRIOR_COMPLETED_REVIEW_REPORT_ACCEPTED_ORIGINAL336254",
+        "bytes": 336254,
+        "sha256": "5c233f3b34d98b6cd59b8a77aba97020feb18d58d8edad4322f0771e74a71b7d",
+        "git_blob_oid_of_actual_bytes": "255ddd388c18ef4dd47935943f0e813aca5f3b19"
+      },
+      "current_public_new_reporting_envelope": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+        "bytes": 341496,
+        "sha256": "e6b822a7864ecc5bdc7ea5c32b517ee7ecd16852042bd456d68a601614e9239f",
+        "git_blob_oid_of_actual_bytes": "d0bd9ee4fd2bbe81e94623ad51092298af2c462e"
+      },
+      "prior_original_full_component_QA": {
+        "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_FULL_COMPONENT_QA327199_V2",
+        "role": "current_full_component_manual",
+        "original_full_threefield_tuple": {
+          "bytes": 327199,
+          "sha256": "3800b16e15e71e5a184b36a311e2c33bfc94e4cc34359a5549f85c68d82f91bb",
+          "git_blob_oid_of_actual_bytes": "c9b81e1b83ec5aba0e0524e8baefdd79e421d114"
+        },
+        "original_schema": "INDEPENDENT_TOKI_GDD_CURRENT228_LITERAL59_NEW105_EXACTV2_COMPLETE_MANUAL_COMPONENT_QA_V1",
+        "original_reviewer": "/root/m008_composition_review",
+        "original_decision": "PASS_WITH_LIMITS_CURRENT228_COMPLETE59_ALL105_NEW525_EXACT8_DIRECTED_RELATIONSHIP_COMPONENT_REVIEW",
+        "original_immutable_private_not_public_derivative": true
+      },
+      "scope": "Reporting of prior actual completed review by the same reviewer; exact full reasons and selected records; not fresh QA."
+    }
+  ],
+  "current_first10_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 53261,
+      "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+      "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+      "bytes": 420656,
+      "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+      "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+      "bytes": 555475,
+      "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+      "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+      "bytes": 714831,
+      "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+      "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXISTING_EVENT825_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V2.json",
+      "bytes": 41845,
+      "sha256": "f65f292f18db0d06e9492eb8812f063a68314198069e28ddcd20b703d86f82e5",
+      "git_blob_oid_of_actual_bytes": "b09767f66213ab1393c5ac594ee1b1e732b7ed83"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT228_COMPLETE_LITERAL59_CLAIM_AND_SOURCE_LIMIT_REGISTER_V2.json",
+      "bytes": 272754,
+      "sha256": "17c7110e742712ccb5bfd393087a3c7d1dcbe7adbad7ef6991abaef775e43e5a",
+      "git_blob_oid_of_actual_bytes": "bfb9c153988ed462317f3f6afaaa8f644788bdc5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V2.json",
+      "bytes": 147091,
+      "sha256": "5d7138a3895d6817e03f30a67bb2332e80e9d7dc4ec640ba3bff6f458b484dfd",
+      "git_blob_oid_of_actual_bytes": "b68e07a5cba0c3c91bbbdcead93065d616dac647"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V2.json",
+      "bytes": 819077,
+      "sha256": "e56f6d06bc539904f8048f989a3fd1517b9b6306c2aa0eba6b3baa1d56cbcb10",
+      "git_blob_oid_of_actual_bytes": "d456c5170e809ffe60e168ebf2b571679586eb95"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_PRIOR_COMPLETED_COMPONENT_REVIEW_NEW_PUBLIC_REPORT_V1.json",
+      "bytes": 341496,
+      "sha256": "e6b822a7864ecc5bdc7ea5c32b517ee7ecd16852042bd456d68a601614e9239f",
+      "git_blob_oid_of_actual_bytes": "d0bd9ee4fd2bbe81e94623ad51092298af2c462e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_ACTUAL_ROOT_CURRENT228_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 64198,
+      "sha256": "e98d8f13947fdab7d43fba08c84481cee05c9a6dd3a9ce3bdf0778c314d18de5",
+      "git_blob_oid_of_actual_bytes": "048f8863d5976827a6213cbdafbf34b5132390de"
+    }
+  ],
+  "original_actual_authorities": [
+    {
+      "private_witness_id": "ROOT_TOKI_CURRENT228_SIGNED_SEMANTIC_ADOPTION_20261014_V1",
+      "tuple": {
+        "bytes": 62642,
+        "sha256": "afcedfefe4ef1e3e0ab97675af332302b5b40fa8ae2e5ee5d3667c3cd6e662b0",
+        "git_blob_oid_of_actual_bytes": "cf56711e5407b64734e84169521417513f191b28"
+      },
+      "role": "Original signed ROOT current228/59/525/source6 semantics, not composed231 byte acceptance"
+    },
+    {
+      "private_witness_id": "TOKI_NEW_PRIOR_COMPLETED_REVIEW_REPORT_ACCEPTED_ORIGINAL336254",
+      "tuple": {
+        "bytes": 336254,
+        "sha256": "5c233f3b34d98b6cd59b8a77aba97020feb18d58d8edad4322f0771e74a71b7d",
+        "git_blob_oid_of_actual_bytes": "255ddd388c18ef4dd47935943f0e813aca5f3b19"
+      },
+      "role": "Exact accepted new report of prior completed review, original members literal"
+    },
+    {
+      "private_witness_id": "ROOT_TOKI_REPORT_EXACT34_SELECTED_VALUE_ACCEPTANCE_20261014_V1",
+      "tuple": {
+        "bytes": 15928,
+        "sha256": "727561b091e86f5a663c8b8c2c5607bf70d89b651faea9beb5e4b6cfafdfb23f",
+        "git_blob_oid_of_actual_bytes": "88b93f13a86dcb03cfa28cacccaa2f6c01505d60"
+      },
+      "role": "Reporting structure/selected value acceptance only; not publication envelope or byte adoption"
+    }
+  ],
+  "original_private_five_QA_witnesses": [
+    {
+      "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_FULL_COMPONENT_QA327199_V2",
+      "role": "current_full_component_manual",
+      "original_full_threefield_tuple": {
+        "bytes": 327199,
+        "sha256": "3800b16e15e71e5a184b36a311e2c33bfc94e4cc34359a5549f85c68d82f91bb",
+        "git_blob_oid_of_actual_bytes": "c9b81e1b83ec5aba0e0524e8baefdd79e421d114"
+      },
+      "original_schema": "INDEPENDENT_TOKI_GDD_CURRENT228_LITERAL59_NEW105_EXACTV2_COMPLETE_MANUAL_COMPONENT_QA_V1",
+      "original_reviewer": "/root/m008_composition_review",
+      "original_decision": "PASS_WITH_LIMITS_CURRENT228_COMPLETE59_ALL105_NEW525_EXACT8_DIRECTED_RELATIONSHIP_COMPONENT_REVIEW",
+      "original_immutable_private_not_public_derivative": true
+    },
+    {
+      "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_CURRENT_MAIN_MECHANICAL_QA522056_V1",
+      "role": "current_full_component_main_mechanics",
+      "original_full_threefield_tuple": {
+        "bytes": 522056,
+        "sha256": "6351ae0f877b58856b409915b3bb12e3c1f8f97c49b16a1e1ae56874622ea4de",
+        "git_blob_oid_of_actual_bytes": "9d3baecc29ec2be62d058a3f215f573634d9263a"
+      },
+      "original_schema": "INDEPENDENT_TOKI_CURRENT_V2_EXACT8_COMPLETE_RAW_ORIGINAL105_AND59_CURRENT_GRAPH_MECHANICAL_QA_V1",
+      "original_reviewer": "/root/m008_composition_review",
+      "original_decision": "PASS_WITH_LIMITS_CURRENT_EXACT8_RAW_PRESERVATION_AND_TYPED_GRAPH",
+      "original_immutable_private_not_public_derivative": true
+    },
+    {
+      "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_REQUIRED_SUPPLEMENT_MECHANICAL_QA11451_V1",
+      "role": "current_finite_required_mechanical_supplement",
+      "original_full_threefield_tuple": {
+        "bytes": 11451,
+        "sha256": "04ff9f3cea603cdd5923b1ee75bc507d95021aab359fcb23f2c4be7a0d3ce9be",
+        "git_blob_oid_of_actual_bytes": "686f588b1bb9d83b42252c084f88938c6a1c4594"
+      },
+      "original_schema": "INDEPENDENT_TOKI_CURRENT_V2_REQUIRED_FINITE_AUTHOR4_RAW_AND_LIVE_BODY_SUPPLEMENT_V1",
+      "original_reviewer": "/root/m008_composition_review",
+      "original_decision": "PASS_WITH_LIMITS_REQUIRED_CURRENT_CONTROL_AND_AUTHOR_PRECISION_PRESERVATION",
+      "original_immutable_private_not_public_derivative": true
+    },
+    {
+      "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_BODY_ONLY_MANUAL_QA88181_V1",
+      "role": "prior_body_only_manual",
+      "original_full_threefield_tuple": {
+        "bytes": 88181,
+        "sha256": "5cb867261be1d30cc40f15f89f926629ec509edc661056ce199a655e188a00fc",
+        "git_blob_oid_of_actual_bytes": "d33a318446a06bb7bd828ff4e77c786fcdb03ab4"
+      },
+      "original_schema": "INDEPENDENT_TOKI_GDD_CURRENT228_FULL59_TWELVE_DIRECTED_TRACK_BODY_ONLY_COMPLETE_LITERARY_QA_V1",
+      "original_reviewer": "/root/m008_composition_review",
+      "original_decision": "PASS_WITH_LIMITS_CURRENT228_COMPLETE59_BODY_ONLY_DIRECTED12_TRACK_LITERARY_REVIEW_AT_ACTUAL_MAINTAINED_TEXT_SCOPES",
+      "original_immutable_private_not_public_derivative": true
+    },
+    {
+      "private_witness_id": "TOKI_GDD_PRIVATE_ORIGINAL_BODY_ONLY_MECHANICAL_QA32000_V1",
+      "role": "prior_body_only_mechanics",
+      "original_full_threefield_tuple": {
+        "bytes": 32000,
+        "sha256": "4d0c6fbcbb83d0796c33014bb298c51727a2fa5faf2d7a64ee48626b35baf46d",
+        "git_blob_oid_of_actual_bytes": "8beddbd6f4c9d7502a7577bab1984c7fdcbd57b3"
+      },
+      "original_schema": "INDEPENDENT_TOKI_GDD_CURRENT228_BODY_ONLY_EXACT_INPUT_RAW_SOURCE_SCOPE_AND_V2_RECOVERY_MECHANICAL_QA_V1",
+      "original_reviewer": "/root/m008_composition_review",
+      "original_decision": null,
+      "original_immutable_private_not_public_derivative": true
+    }
+  ],
+  "original_author8_beforeimage_tuples": [
+    {
+      "role": "directed_body",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_directed_body",
+      "bytes": 53013,
+      "sha256": "53865a7c65cb98b2971348ba2572eae1c501025dd9d3f0daff9f51bcb35e78ee",
+      "git_blob_oid_of_actual_bytes": "7fd6e5cd497ca78cf88b6e95bd777beeef54ca20"
+    },
+    {
+      "role": "purposes000_035",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_purposes000_035",
+      "bytes": 421324,
+      "sha256": "ce514ac4aa6051ef75832d7206dd64037cb5cdccd7298bdd7dc131e32c5927f8",
+      "git_blob_oid_of_actual_bytes": "90f0d80b33ce31668b63326ed795dad6d95c2fc1"
+    },
+    {
+      "role": "purposes036_070",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_purposes036_070",
+      "bytes": 556143,
+      "sha256": "c22469b77132aa581f6fe163eebadb22395226208108c21fa1a98eadce41f318",
+      "git_blob_oid_of_actual_bytes": "09e6172b776d9367fd74f17ce147ceae6a4f693c"
+    },
+    {
+      "role": "purposes071_104",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_purposes071_104",
+      "bytes": 715499,
+      "sha256": "7362e39e5e9d8ff09c78f55dd55d07bfa3c52ab5f40c2d543a8113fb440d2c64",
+      "git_blob_oid_of_actual_bytes": "f2597f4b4891a9b6c6eececa47b1dbebb107b243"
+    },
+    {
+      "role": "source1_exact6",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_source1_exact6",
+      "bytes": 45601,
+      "sha256": "a3aa36cc61e15fa0650c1e84b80ca165960eff4857e5bc4b3c0cc139ddd135e5",
+      "git_blob_oid_of_actual_bytes": "a228fd196a3b6a723b37aaac62d5064044432948"
+    },
+    {
+      "role": "literal59_register",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_literal59_register",
+      "bytes": 242664,
+      "sha256": "0b5c9a352b94a12183d775077099d8b33a9e09877ae9f555437c65188a98cc72",
+      "git_blob_oid_of_actual_bytes": "ae8e5c1daabc5b0cf07d712b1a809daab855a54f"
+    },
+    {
+      "role": "all105_source_index",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_all105_source_index",
+      "bytes": 158807,
+      "sha256": "e92a87c5cb3b846fa4343eb90c69dbd8d3b2192afb51232c385f31a4f61cd412",
+      "git_blob_oid_of_actual_bytes": "81b10cce6bf759436376140939c39c14834b34e0"
+    },
+    {
+      "role": "transport",
+      "private_witness_id": "TOKI_ORIGINAL_AUTHOR_V2_transport",
+      "bytes": 823799,
+      "sha256": "c4559274741ac89c756a8152dedb8e9fbce9d58d7425edd19c8a6db54c6398fc",
+      "git_blob_oid_of_actual_bytes": "9bbe0e8584b0ada2ed776f26f2cf329f895bcbad"
+    }
+  ],
+  "all10_full_raw_private_recovery_closures": [
+    {
+      "role": "directed_body",
+      "original": {
+        "bytes": 53013,
+        "sha256": "53865a7c65cb98b2971348ba2572eae1c501025dd9d3f0daff9f51bcb35e78ee",
+        "git_blob_oid_of_actual_bytes": "7fd6e5cd497ca78cf88b6e95bd777beeef54ca20"
+      },
+      "current": {
+        "bytes": 53261,
+        "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+        "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+      },
+      "sparse_operation_count": 1,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "purposes000_035",
+      "original": {
+        "bytes": 421324,
+        "sha256": "ce514ac4aa6051ef75832d7206dd64037cb5cdccd7298bdd7dc131e32c5927f8",
+        "git_blob_oid_of_actual_bytes": "90f0d80b33ce31668b63326ed795dad6d95c2fc1"
+      },
+      "current": {
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "sparse_operation_count": 6,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "purposes036_070",
+      "original": {
+        "bytes": 556143,
+        "sha256": "c22469b77132aa581f6fe163eebadb22395226208108c21fa1a98eadce41f318",
+        "git_blob_oid_of_actual_bytes": "09e6172b776d9367fd74f17ce147ceae6a4f693c"
+      },
+      "current": {
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "sparse_operation_count": 6,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "purposes071_104",
+      "original": {
+        "bytes": 715499,
+        "sha256": "7362e39e5e9d8ff09c78f55dd55d07bfa3c52ab5f40c2d543a8113fb440d2c64",
+        "git_blob_oid_of_actual_bytes": "f2597f4b4891a9b6c6eececa47b1dbebb107b243"
+      },
+      "current": {
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "sparse_operation_count": 6,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "source1_exact6",
+      "original": {
+        "bytes": 45601,
+        "sha256": "a3aa36cc61e15fa0650c1e84b80ca165960eff4857e5bc4b3c0cc139ddd135e5",
+        "git_blob_oid_of_actual_bytes": "a228fd196a3b6a723b37aaac62d5064044432948"
+      },
+      "current": {
+        "bytes": 41845,
+        "sha256": "f65f292f18db0d06e9492eb8812f063a68314198069e28ddcd20b703d86f82e5",
+        "git_blob_oid_of_actual_bytes": "b09767f66213ab1393c5ac594ee1b1e732b7ed83"
+      },
+      "sparse_operation_count": 22,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "literal59_register",
+      "original": {
+        "bytes": 242664,
+        "sha256": "0b5c9a352b94a12183d775077099d8b33a9e09877ae9f555437c65188a98cc72",
+        "git_blob_oid_of_actual_bytes": "ae8e5c1daabc5b0cf07d712b1a809daab855a54f"
+      },
+      "current": {
+        "bytes": 272754,
+        "sha256": "17c7110e742712ccb5bfd393087a3c7d1dcbe7adbad7ef6991abaef775e43e5a",
+        "git_blob_oid_of_actual_bytes": "bfb9c153988ed462317f3f6afaaa8f644788bdc5"
+      },
+      "sparse_operation_count": 349,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "all105_source_index",
+      "original": {
+        "bytes": 158807,
+        "sha256": "e92a87c5cb3b846fa4343eb90c69dbd8d3b2192afb51232c385f31a4f61cd412",
+        "git_blob_oid_of_actual_bytes": "81b10cce6bf759436376140939c39c14834b34e0"
+      },
+      "current": {
+        "bytes": 147091,
+        "sha256": "5d7138a3895d6817e03f30a67bb2332e80e9d7dc4ec640ba3bff6f458b484dfd",
+        "git_blob_oid_of_actual_bytes": "b68e07a5cba0c3c91bbbdcead93065d616dac647"
+      },
+      "sparse_operation_count": 433,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "transport",
+      "original": {
+        "bytes": 823799,
+        "sha256": "c4559274741ac89c756a8152dedb8e9fbce9d58d7425edd19c8a6db54c6398fc",
+        "git_blob_oid_of_actual_bytes": "9bbe0e8584b0ada2ed776f26f2cf329f895bcbad"
+      },
+      "current": {
+        "bytes": 819077,
+        "sha256": "e56f6d06bc539904f8048f989a3fd1517b9b6306c2aa0eba6b3baa1d56cbcb10",
+        "git_blob_oid_of_actual_bytes": "d456c5170e809ffe60e168ebf2b571679586eb95"
+      },
+      "sparse_operation_count": 76,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "ROOT_semantic_derivative",
+      "original": {
+        "bytes": 62642,
+        "sha256": "afcedfefe4ef1e3e0ab97675af332302b5b40fa8ae2e5ee5d3667c3cd6e662b0",
+        "git_blob_oid_of_actual_bytes": "cf56711e5407b64734e84169521417513f191b28"
+      },
+      "current": {
+        "bytes": 64198,
+        "sha256": "e98d8f13947fdab7d43fba08c84481cee05c9a6dd3a9ce3bdf0778c314d18de5",
+        "git_blob_oid_of_actual_bytes": "048f8863d5976827a6213cbdafbf34b5132390de"
+      },
+      "sparse_operation_count": 24,
+      "full_raw_inverse_forward": "PASS"
+    },
+    {
+      "role": "new_prior_review_report",
+      "original": {
+        "bytes": 336254,
+        "sha256": "5c233f3b34d98b6cd59b8a77aba97020feb18d58d8edad4322f0771e74a71b7d",
+        "git_blob_oid_of_actual_bytes": "255ddd388c18ef4dd47935943f0e813aca5f3b19"
+      },
+      "current": {
+        "bytes": 341496,
+        "sha256": "e6b822a7864ecc5bdc7ea5c32b517ee7ecd16852042bd456d68a601614e9239f",
+        "git_blob_oid_of_actual_bytes": "d0bd9ee4fd2bbe81e94623ad51092298af2c462e"
+      },
+      "sparse_operation_count": 1,
+      "full_raw_inverse_forward": "PASS"
+    }
+  ],
+  "location_normalization_scope": {
+    "exact_whole_values": 321,
+    "by_original_component": {
+      "purposes000_035": 3,
+      "purposes036_070": 3,
+      "purposes071_104": 3,
+      "source1_exact6": 19,
+      "literal59_register": 108,
+      "all105_source_index": 109,
+      "transport": 53,
+      "actual_ROOT_semantic_receipt": 23
+    },
+    "private_grouped_inventory_witness_id": "TOKI_CURRENT12_EXACT321_GROUPED_DISTINCT_ORIGINAL_TO_SUCCESSOR_LOCATION_VALUES_AND_POINTER_COUNTS_V1.json",
+    "key_or_prose_substring_edits": 0,
+    "private9_UNBOUND_inferences": 0
+  },
+  "original_source_and_status_history": "Original generationV1, sourcec5/45 capture, bodypending105/review preparation, originalArt spec relative custody and authorbodybyteNOOP53013 are dated original source/creation snapshots. Current ROOT semantic authority is exactly228 and currentmetadata231. Original source physical ranges are not shifted.",
+  "current_semantic_vs_metadata_byte_gates": {
+    "original228_semantics_and_complete525_adopted": "COMPLETE_WITH_LIMITS",
+    "current231_public12_independent_metadata_QA": "PENDING",
+    "ROOT_current12_composed_byte_adoption": "PENDING",
+    "freeze_install_preflight_provider_push_readback_newCI": "PENDING"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "canonical_count_added": 0
+}

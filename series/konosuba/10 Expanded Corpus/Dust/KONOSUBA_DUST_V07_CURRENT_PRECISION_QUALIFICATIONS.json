@@ -1,0 +1,227 @@
+{
+  "schema": "KONOSUBA_DUST07_CURRENT_ATTRIBUTABLE_PRECISION_V1",
+  "created_utc": "2026-10-18T11:22:21.865742+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "Exact title is 竜に愛されし愚者, with 愚者 read ぐしゃ. Early uncoded image001/005/003 notes mistakenly expanded the subtitle to 愚か者; later actual colophon/wrap observation explicitly corrects this transcription. Original sealed notes remain exact and current exact-title qualification controls.",
+      "source": "IMG001/003/004/005;U017"
+    },
+    {
+      "id": "Q02",
+      "qualification": "All20textual units/19images/2952P actually read before seal: principal U010–0142881P, other71P; all ruby/residuals. No separately supplied bonus narrative.",
+      "source": "U001–020;uncodedseal"
+    },
+    {
+      "id": "Q03",
+      "qualification": "All146 current voice fragments native-window checked:145 original anchors exact, index55 original U011P1046–1050 elongation-count mismatch preserved and current shortened invariant form 俺がカズマだ、かかってこいや independently verified. No claim all146 original forms exact.",
+      "source": "VOICE register V055"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Past prologue changed class/sealed spear and sword difficulty are actual; first Leen resemblance is immediately differentiated. First aid is performed, join request explicit, acceptance unprinted there. Not the exact older unknown spear witness by assumption.",
+      "source": "U010P0009–0051"
+    },
+    {
+      "id": "Q05",
+      "qualification": "Keith proposes coerced Axis shields, Dust endorses, Leen objects; no actual deployment. Selected cards32/38/30–40s contradict guild migration expectation, not whole population census or sole shop-motive proof.",
+      "source": "U011P0051–0057/0122–0141"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Aqua absence and cave training are reported through known characters; Dust initially misreads but later obtains actual provider information. Yun chooses friends mission; apparent exclusion is reassignment with teleport exit, not banishment.",
+      "source": "U011P0086–0207/0236–0295"
+    },
+    {
+      "id": "Q07",
+      "qualification": "ゼーレシルト now named with known title; forced child saliva contact causes actual pain and coerces answer. Holy mechanism is inferred after effect, no freely priced information sale or harmless comedy exemption.",
+      "source": "U011P0263–0295"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Small allegiance denial, leaked-shop explanation, hypothetical obedience and actual decision to stay are different statements. Purpose repair admits idol interest; no actual Vanir command in that scene.",
+      "source": "U011P0305–0339"
+    },
+    {
+      "id": "Q09",
+      "qualification": "Merchant actually gives spear, Dust raises no-return/resale possibility before explicit free disposal permission. Weapon knowledge does not prove he knows every old identity fact. New raid/conspiracy suspicion is not performed market manipulation or theft.",
+      "source": "U011P0343–0400"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Taylor/Keith actually hear summarized past/child disclosure now; earlier graded noble/knight and dragon suspicion is not complete legendary-knight knowledge. Recognition boast fails prior princess substitution test.",
+      "source": "U011P0427–0460"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Leen voluntarily boards this ride and child is asked about load. Actual sparring win is distinct from Dust prime-capacity self-assessment; squeeze/near fall remains separate actual cost.",
+      "source": "U011P0477–0507"
+    },
+    {
+      "id": "Q12",
+      "qualification": "Scout innocent-rival possibility leads to actual abort and information search. Controlled tour is arranged then later reported; eventual huge force prevents isolated claim deception reduced army size.",
+      "source": "U011P0525–0705;U012P0179–0224"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Small initial refusal cites actual earlier cup/bun fraud. Dust knowingly makes a new counterfeit token; she hears task and chooses, later receives offered exit and chooses revenge before praise. Earlier reward delivery is not retroactively certified.",
+      "source": "U011P0557–0628"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Any-training pledge precedes hidden target. Exit blocked, actual ropes/air transport/drop/leaving occur against pleas; dessert changes child intervention. Utility and compensation do not retroactively authorize coercion.",
+      "source": "U011P0735–0912"
+    },
+    {
+      "id": "Q15",
+      "qualification": "Female-orc pursuit/unwanted contact described only non-graphically. Exhaustion, fear and cue response are actual; no completed intercourse stated, clinical diagnosis or permanent universal attraction change claimed. Dust explicitly refuses gratitude despite useful practice.",
+      "source": "U011P0802–0961"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Spear tip failure cause is unverified; Dust blame of merchant maintenance is attribution. Merchant later reportedly repairs overnight and Small actually delivers spear, functional proof comes only in later use.",
+      "source": "U011P0835–0840/1072–1077"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Group farewell battle actually incapacitates all including Kazuma; Dust held-back claim not independently verified. Skill acquisition is expected はず, no exact new learned-skill/card-point check.",
+      "source": "U011P1037–1067"
+    },
+    {
+      "id": "Q18",
+      "qualification": "Precious protective sword is actually entrusted to Kazuma with explicit return request and private friend-protection wish. Public corpse/resale cover and feigned anger are performed; protection mechanism not activated/tested, actual return/resale unshown.",
+      "source": "U011P1085–1115;U014P0019–0028"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Adult books and dream cliffhanger kept non-graphic. Fictional dream captivity is not an actual captive incident. Food/drinks offered, not stolen. Small guilt and client-anger fear, late daytime briefing and loan-only clarification retain provider/ownership costs.",
+      "source": "U012P0024–0155"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Actual card baseline and extra leveling serve stated defense goal; apparent cheating is anticipated. Annual free-voucher reward fulfillment unshown, no isolated efficacy experiment. Keith selected for actual sight skill.",
+      "source": "U012P0158–0224"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Wiz conspicuous intervention is constrained by pact, not lack of spell capacity. Child positively agrees to future ride for cookies; Wiz withdraws after holy-contact warning, no actual ride/contact test.",
+      "source": "U012P0227–0257"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Unpriced printed defense-credit offer is accepted; Vanir later explicitly clears Dust debt through negative emotions. Separate Luna10M guild pledge becomes separately stated received payment in epilogue; no outstanding D7 credit or invented amount.",
+      "source": "U012P0259–0264;U013P0101–0129;U014P0111–0125"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Dust actually withholds his own costly body insult, then Dust/Taylor choose not to help Keith being dragged against objection and attacked audibly. Keith later alive does not erase coercive danger. Meal/drink context is actual, exact internal leisure-versus-fear/deservedness motive not isolated.",
+      "source": "U012P0285–0304"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Last-supper remark causes actual plate strike/brawl. Leen later proposes morale intent, Dust denies; beneficial calm does not prove planned treatment.",
+      "source": "U012P0305–0345"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Real Leen receives specific protection promise and actually chooses cheek kiss as prepayment. Future leisure promise is later checked against retraction; neither is a Dust-to-Leen material gift or final dating contract.",
+      "source": "U012P0352–0378;U013P0265–0276"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Wife rumor knowingly fabricated for recruitment, spreads beyond planned audience, does not establish Kazuma consent/actual intent. Gender/capacity generalizations are Dust appraisal; actual outside friends/helpers exist but no royal army relief.",
+      "source": "U012P0381–0442"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Wiz disguised as Megumin actually casts Explosion under costume/speech objections and deadline/sunk-cost pressure. Dust forgoes desired continued watching for urgent defense; four-tenths enemy loss is estimate, script self-insults not Wiz sincere self-belief.",
+      "source": "U012P0456–0508"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Small grabbed/no veto before exclusive-praise enthusiasm; later tether/cold protest shows unanticipated cost. Later likes-forcefulness line not initial informed permission. Bounded retreat instruction later actual, no all-compliance model.",
+      "source": "U012P0511–0568"
+    },
+    {
+      "id": "Q29",
+      "qualification": "ドゥーユー事 English/Japanese question form warrants L3; actual magical combat, dream fiction, debt rhetoric and genre flag do not alone warrant H3/H4. Reverse scale is literal monster feature here, not automatically L3 idiom.",
+      "source": "U012P0574–0583/0635–0643;U013P0425–0439/0608–0630"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Actual air teamwork wins at real exhaustion; ground formation needs Taylor shield/Decoy, Keith rear cover, Leen magic and Dust flanking. No solo total rank result. Child privacy guards partner exploitation risk as well as Dust name.",
+      "source": "U012P0584–0709"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Undead-looking commander provocation initially fails. Rotting-heart consolation changes response; successful abdomen stab is actually enemy trap. Reactive human-child breath and decapitation only temporarily freeze troops; actual Dullahan corrects class/causal model, town breach remains.",
+      "source": "U012P0722–0890"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Wine corrects false guard-death appearance; wounded guild/police and later healing bar zero-casualty claims. Child protection task has positive assent; willing horse loan solves transport without witnessed dragon transformation.",
+      "source": "U013P0013–0070/0177–0225;U014"
+    },
+    {
+      "id": "Q33",
+      "qualification": "House attacks invaders; enemies report chicken level/cat EvilGod class via skill, root does not check exact cards. Attack reason Aqua residue/revenge remains conjectural. Retained confiscated yam later creates actual opening against named ノス; broader castle role and jailing unshown locally.",
+      "source": "U013P0143–0254"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Dust explicitly wants drink/lounge but continues danger; companions choose to follow despite rearward alternative. Rouzeri betrayal offer actually refused and job-placement exit later refused; no completed alternative employment.",
+      "source": "U013P0265–0324/0525–0536"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Vanir past pranks are attributed reports and Wiz objects. Witness elimination is explicit proposed secrecy method, not already total kill. Wiz neutrality condition excludes those intending civilian massacre; no invented completed massacre.",
+      "source": "U013P0357–0420"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Wiz mana collapse is actual prior spell cost, not literal victory-flag curse. Leen voluntarily contributes ranged fire/cold, Taylor actually supplies shield; opponent becomes red dragon. Leen lacks contracted fire resistance; shield absorbs real shock, not all actors immune.",
+      "source": "U013P0425–0630"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Child partner and human lover roles distinct; child bond nonsexual. Dust former-DK statement to enemy not new job card. Enemy aura lore leads to local weakening conjecture/observed effect, not root direct main17 rereading or independent holdout. Rouzeri death unchecked.",
+      "source": "U013P0498–0647"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Remembered early sword failure teaches rely-on-companions; not automatically exact historical unknown spear demonstration. Leen stops proposed solo sacrifice. Surprise cold effect plus later reports grounds conjecture, with provider/chance contributions intact.",
+      "source": "U013P0585–0647"
+    },
+    {
+      "id": "Q39",
+      "qualification": "Dust protects child privacy over praise, then retaliates by revealing false recruitment/dream scheme, not child/old identity. Actual apology lowers weapons; malice boast prompts renewed threats, no final completed beating depicted. Kazuma motive remains Dust attribution.",
+      "source": "U013P0648–0677"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Real Leen first willing mouth-kiss approach is interrupted by child before contact. Real Leen remains right; left-side second invitation is Vanir, exposed before contact. No actual epilogue mouth kiss, child romantic sexual role or telepathy proof.",
+      "source": "U014P0072–0125"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Private praise, sleeping-child care and real final hand contact are actual. No complete public vindication, marriage/ratified dating contract, sword/book return, annual-voucher fulfillment or universal apology/ethical cure.",
+      "source": "U014P0131–0148"
+    },
+    {
+      "id": "Q42",
+      "qualification": "IMG015P351 depicts earlier Dust/Small trust teasing, not following merchant gift. IMG016P1104 depicts earlier Kazuma sword handover, not private Leen exchange. IMG017P490 depicts Dust/spear/white dragon, not shield-transfer ritual or victory. IMG018P148 depicts real final Leen hand pull.",
+      "source": "IMG015/016/017/018"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Afterword historical final numbered volume/simultaneous main17 release is creator paratext, not whole-corpus completion. Feit is described as original MAIN character, not sole original secondary. Author prepared through web/print/Iris dialogue claims do not confer root reading credit. Discarded princess route unsupplied/not canon.",
+      "source": "U015;IMG019"
+    },
+    {
+      "id": "Q44",
+      "qualification": "Exact electronic colophon2020-05-01/ver.002 and same-date first print; front art contents credits original Memorial source, not new independent repeat. Notices are source content, no agent instructions. Separate titled unnumbered Dust continuation remains unread.",
+      "source": "U003/U017/U018/U020"
+    }
+  ]
+}

@@ -1,0 +1,1000 @@
+{
+  "schema": "KONOSUBA_TRPG_ADV_TEN_LEDGER_RECEIVING_DECISIONS_V1",
+  "accepted_utc": "2026-10-18T05:03:55.185963+00:00",
+  "baseline_commit": "01d9273078ff4d836984af086c16ee8633edc0c8",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 220067,
+      "sha256": "d822c9b2421e2de9a321b72c2876d9b7815877440ab5d6364e6c339ef9561f76",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 151304,
+      "sha256": "c830203d537fecca03a3b352bb6c5a77a3f48b4ec3e98cc352cd26161010c5cf",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 202264,
+      "sha256": "ff0e09ce263a3c1346b27af6d1d907a5c377bbc409ca7e1be41f1549e47a5896",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 147773,
+      "sha256": "82d37b0b0aa652e6386b62a52a0e0bcff8275cf2f68bfd89befe8cec88f7b7a1",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 724317,
+      "sha256": "7963d6e8183c82fd151ebfd0ed7c3cb7784cdf798fe4b557c9b9b6308c0149eb",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 536486,
+      "sha256": "110602b1815081d5cb0860dccddf2202db1140326aff5d3befb5703cec582dd5",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 132149,
+      "sha256": "50b6ca68ac7519637c13386125a98cc30e226592974a4552790437d381793ec0",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 127380,
+      "sha256": "f27032790645ce06d60594d9383d4e9fcd0a9c49ca0a61f2e9700b57885061e0",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 115270,
+      "sha256": "c4a89032d94345e84c2219503d0b72b697f440436e8f927b24a8376e7e4ae661",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "bytes": 990357,
+      "sha256": "ce5cf9327c046ad1e503636b1edfd82567f0c67c3fbbb69b7c9a7b38ece29d92",
+      "source_commit": "01d9273078ff4d836984af086c16ee8633edc0c8"
+    }
+  ],
+  "rows": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "ledger": "CHARACTER_STATE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-CS01",
+        "ledger": "CHARACTER_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Replay Otohime",
+        "printed_pages": "024-025,084-086,095-103",
+        "observation": "Fear motivates ranged preparation and repeated borrowing, but he actually covers Chio, Gilbert and the house, survives and explicitly values not dying.",
+        "implication": "Model resource seeking as risk preparation plus comfort/dependence, with costly protection available despite fear.",
+        "authority_and_adverse_limit": "Elicited motive report is not privileged mind access; borrowing continues after repair. Coauthored prior truck death and current rolls remain distinct.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-CS01",
+        "ledger": "CHARACTER_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Replay Otohime",
+        "printed_pages": "024-025,084-086,095-103",
+        "observation": "Fear motivates ranged preparation and repeated borrowing, but he actually covers Chio, Gilbert and the house, survives and explicitly values not dying.",
+        "implication": "Model resource seeking as risk preparation plus comfort/dependence, with costly protection available despite fear.",
+        "authority_and_adverse_limit": "Elicited motive report is not privileged mind access; borrowing continues after repair. Coauthored prior truck death and current rolls remain distinct.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "ledger": "CHARACTER_STATE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-CS02",
+        "ledger": "CHARACTER_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Replay Chio",
+        "printed_pages": "020-021,032,046-047,083-086",
+        "observation": "Restored-health enthusiasm supports a proposed poison/cure scheme, actual poisoning, harmful health rhetoric and real resource aid to Oto.",
+        "implication": "Retain help, coercive health ideology, appetite for proving a build and relationship hurt together.",
+        "authority_and_adverse_limit": "Healing rhetoric does not neutralize harm; the initial poison/cure plan is not a completed cure. Chio is not a principal-cast alias.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-CS02",
+        "ledger": "CHARACTER_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Replay Chio",
+        "printed_pages": "020-021,032,046-047,083-086",
+        "observation": "Restored-health enthusiasm supports a proposed poison/cure scheme, actual poisoning, harmful health rhetoric and real resource aid to Oto.",
+        "implication": "Retain help, coercive health ideology, appetite for proving a build and relationship hurt together.",
+        "authority_and_adverse_limit": "Healing rhetoric does not neutralize harm; the initial poison/cure plan is not a completed cure. Chio is not a principal-cast alias.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "ledger": "CHARACTER_STATE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-CS03",
+        "ledger": "CHARACTER_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Replay21",
+        "printed_pages": "024-034,051-052,083-086,090,098,106",
+        "observation": "Numbered artificial undead joins under pressure/usefulness, later mediates hurt, claims town belonging and proposes a dragon memorial.",
+        "implication": "Affiliation can begin instrumentally and acquire valued local ties without erasing coerced entry or prior exclusion.",
+        "authority_and_adverse_limit": "Same edited PC lineage;95percent claim repeats misinformation. Proposed memorial is not completed; no universal artificial-being psychology.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-CS03",
+        "ledger": "CHARACTER_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "subjects": "Replay21",
+        "printed_pages": "024-034,051-052,083-086,090,098,106",
+        "observation": "Numbered artificial undead joins under pressure/usefulness, later mediates hurt, claims town belonging and proposes a dragon memorial.",
+        "implication": "Affiliation can begin instrumentally and acquire valued local ties without erasing coerced entry or prior exclusion.",
+        "authority_and_adverse_limit": "Same edited PC lineage;95percent claim repeats misinformation. Proposed memorial is not completed; no universal artificial-being psychology.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "ledger": "RELATIONSHIP_STATE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-RS01",
+        "ledger": "RELATIONSHIP_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Replay Otohime ↔ Chio;21 mediator",
+        "printed_pages": "083-086",
+        "observation": "Chio experiences repeated loan demands as money-only attention; Oto reports fear of losing her again.21 elicits both accounts and prompts a private explanation.",
+        "implication": "Relational repair needs legible motives and acknowledgment of costs, not only a useful protective outcome.",
+        "authority_and_adverse_limit": "Chio accepts partly and remains doubtful; Oto promises continued borrowing. No permanent cure, invulnerability or independent motive experiment.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-RS01",
+        "ledger": "RELATIONSHIP_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Replay Otohime ↔ Chio;21 mediator",
+        "printed_pages": "083-086",
+        "observation": "Chio experiences repeated loan demands as money-only attention; Oto reports fear of losing her again.21 elicits both accounts and prompts a private explanation.",
+        "implication": "Relational repair needs legible motives and acknowledgment of costs, not only a useful protective outcome.",
+        "authority_and_adverse_limit": "Chio accepts partly and remains doubtful; Oto promises continued borrowing. No permanent cure, invulnerability or independent motive experiment.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "ledger": "RELATIONSHIP_STATE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-RS02",
+        "ledger": "RELATIONSHIP_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Replay Gilbert ↔ Temiren/Oto",
+        "printed_pages": "063-070,078-082,094",
+        "observation": "Priestly failure and scroll success provoke Gilbert jealousy; romance praise-seeking irritates Oto; a promised frog trip and tactical support repair some tension.",
+        "implication": "Status, professional recognition, sect affiliation and romantic appraisal interact rather than one fixed hostility.",
+        "authority_and_adverse_limit": "Eris claims coexist with Faith:Aqua.21 questions whether the reconciliation works; later support does not erase earlier threats.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-RS02",
+        "ledger": "RELATIONSHIP_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Replay Gilbert ↔ Temiren/Oto",
+        "printed_pages": "063-070,078-082,094",
+        "observation": "Priestly failure and scroll success provoke Gilbert jealousy; romance praise-seeking irritates Oto; a promised frog trip and tactical support repair some tension.",
+        "implication": "Status, professional recognition, sect affiliation and romantic appraisal interact rather than one fixed hostility.",
+        "authority_and_adverse_limit": "Eris claims coexist with Faith:Aqua.21 questions whether the reconciliation works; later support does not erase earlier threats.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "ledger": "RELATIONSHIP_STATE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-RS03",
+        "ledger": "RELATIONSHIP_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Replay party ↔21",
+        "printed_pages": "030-034,051-052,098,106",
+        "observation": "Gilbert conceals low rank and exploits ignorance; a pressured Axis cheer and lockpicking usefulness precede welcome, later belonging and five-person home celebration.",
+        "implication": "Instrumental membership and coercion can coexist with subsequent mutual value.",
+        "authority_and_adverse_limit": "Neither free enthusiastic conversion nor wholly benevolent recruitment is supported.95percent demographic assertions are false/unsupported dialogue.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-RS03",
+        "ledger": "RELATIONSHIP_STATE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "subjects": "Replay party ↔21",
+        "printed_pages": "030-034,051-052,098,106",
+        "observation": "Gilbert conceals low rank and exploits ignorance; a pressured Axis cheer and lockpicking usefulness precede welcome, later belonging and five-person home celebration.",
+        "implication": "Instrumental membership and coercion can coexist with subsequent mutual value.",
+        "authority_and_adverse_limit": "Neither free enthusiastic conversion nor wholly benevolent recruitment is supported.95percent demographic assertions are false/unsupported dialogue.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "ledger": "DECISION_ERROR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-DE01",
+        "ledger": "DECISION_ERROR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Replay Gilbert credibility and source attribution",
+        "printed_pages": "074-075,088-089",
+        "observation": "A successful info check yields newspaper evidence that Wally is Goran; Gilbert first calls it revelation and is disbelieved, then shows the paper.",
+        "implication": "Past self-serving framing can impair reception of a currently correct claim; preserve correct information as contrary evidence.",
+        "authority_and_adverse_limit": "Goran identity/rank is GM-admitted replay invention; no new principal-novel roster or general lie detector infallibility.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-DE01",
+        "ledger": "DECISION_ERROR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Replay Gilbert credibility and source attribution",
+        "printed_pages": "074-075,088-089",
+        "observation": "A successful info check yields newspaper evidence that Wally is Goran; Gilbert first calls it revelation and is disbelieved, then shows the paper.",
+        "implication": "Past self-serving framing can impair reception of a currently correct claim; preserve correct information as contrary evidence.",
+        "authority_and_adverse_limit": "Goran identity/rank is GM-admitted replay invention; no new principal-novel roster or general lie detector infallibility.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "ledger": "DECISION_ERROR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-DE02",
+        "ledger": "DECISION_ERROR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Replay Oto/Gilbert investigation appraisal",
+        "printed_pages": "054-056",
+        "observation": "Failed defect/history checks yield no information, but Gilbert labels the unknown person ordinary and Oto retrospectively credits himself with Chio’s basement discovery.",
+        "implication": "Separate actual information acquisition from face-saving interpretation and post hoc credit.",
+        "authority_and_adverse_limit": "Failure does not prove the house sound or client ordinary; three sockets are confirmed only after21’s guess and GM response.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-DE02",
+        "ledger": "DECISION_ERROR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Replay Oto/Gilbert investigation appraisal",
+        "printed_pages": "054-056",
+        "observation": "Failed defect/history checks yield no information, but Gilbert labels the unknown person ordinary and Oto retrospectively credits himself with Chio’s basement discovery.",
+        "implication": "Separate actual information acquisition from face-saving interpretation and post hoc credit.",
+        "authority_and_adverse_limit": "Failure does not prove the house sound or client ordinary; three sockets are confirmed only after21’s guess and GM response.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "ledger": "DECISION_ERROR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-DE03",
+        "ledger": "DECISION_ERROR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Replay21 trap search; Oto recall",
+        "printed_pages": "067,077,102",
+        "observation": "Oto is surprised by already disclosed revival. Conversely21 performs a successful trap search before lightning that GM explicitly categorizes as an undetectable event.",
+        "implication": "Disclosed-information neglect is different from a valid precaution whose category cannot reveal a hazard.",
+        "authority_and_adverse_limit": "Do not code all bad outcomes as negligence; final self-destruction is a special attack, so one magic-attack defense is inapplicable by category.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-DE03",
+        "ledger": "DECISION_ERROR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "subjects": "Replay21 trap search; Oto recall",
+        "printed_pages": "067,077,102",
+        "observation": "Oto is surprised by already disclosed revival. Conversely21 performs a successful trap search before lightning that GM explicitly categorizes as an undetectable event.",
+        "implication": "Disclosed-information neglect is different from a valid precaution whose category cannot reveal a hazard.",
+        "authority_and_adverse_limit": "Do not code all bad outcomes as negligence; final self-destruction is a special attack, so one magic-attack defense is inapplicable by category.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "ledger": "COMPETENCE_CONTEXT",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-CC01",
+        "ledger": "COMPETENCE_CONTEXT",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Replay distributed battle roles",
+        "printed_pages": "045-052,060-070,091-103",
+        "observation": "Haste/name-adjudicated turn control, poison, shields, cover, identification, scrolls and high ice output solve different phases, with fumbles and consumable/weapon costs retained.",
+        "implication": "Competence depends on build, target, timing, role combination and resource expenditure.",
+        "authority_and_adverse_limit": "Printed outcomes are local examples, not exhaustive arithmetic/balance certification. Initiative overwrites do not stack; high output does not guarantee a kill.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-CC01",
+        "ledger": "COMPETENCE_CONTEXT",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Replay distributed battle roles",
+        "printed_pages": "045-052,060-070,091-103",
+        "observation": "Haste/name-adjudicated turn control, poison, shields, cover, identification, scrolls and high ice output solve different phases, with fumbles and consumable/weapon costs retained.",
+        "implication": "Competence depends on build, target, timing, role combination and resource expenditure.",
+        "authority_and_adverse_limit": "Printed outcomes are local examples, not exhaustive arithmetic/balance certification. Initiative overwrites do not stack; high output does not guarantee a kill.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "ledger": "COMPETENCE_CONTEXT",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-CC02",
+        "ledger": "COMPETENCE_CONTEXT",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Replay Gilbert conditional support",
+        "printed_pages": "062-068,078,094,100-101",
+        "observation": "Gilbert fumbles a blessing and fails exorcism while joking about nonfrog motivation, yet later heals Oto30, shields allies and successfully blesses decisive attacks.",
+        "implication": "Motivational bias and genuine support capacity coexist; failure cannot erase later valid aid.",
+        "authority_and_adverse_limit": "No universal nonfrog inability, doctrine-driven automatic success or repaired failed roll.悪役の迫力 is distinct from邪神の刻印.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-CC02",
+        "ledger": "COMPETENCE_CONTEXT",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Replay Gilbert conditional support",
+        "printed_pages": "062-068,078,094,100-101",
+        "observation": "Gilbert fumbles a blessing and fails exorcism while joking about nonfrog motivation, yet later heals Oto30, shields allies and successfully blesses decisive attacks.",
+        "implication": "Motivational bias and genuine support capacity coexist; failure cannot erase later valid aid.",
+        "authority_and_adverse_limit": "No universal nonfrog inability, doctrine-driven automatic success or repaired failed roll.悪役の迫力 is distinct from邪神の刻印.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "ledger": "COMPETENCE_CONTEXT",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-CC03",
+        "ledger": "COMPETENCE_CONTEXT",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Replay Oto protection and rule boundaries",
+        "printed_pages": "049-050,069-070,095-097,102-103",
+        "observation": "Oto covers companions and the house despite personal evasion; the account explicitly gives one residual doubled to2 and later41 doubled to82 while surviving.",
+        "implication": "Personal fear, actual defense, shields, timing and costs must be modeled separately.",
+        "authority_and_adverse_limit": "These local results do not certify every cover multiplier or named-skill interaction. No actual death-return in this finale; dense rule discrepancies remain unresolved.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-CC03",
+        "ledger": "COMPETENCE_CONTEXT",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "subjects": "Replay Oto protection and rule boundaries",
+        "printed_pages": "049-050,069-070,095-097,102-103",
+        "observation": "Oto covers companions and the house despite personal evasion; the account explicitly gives one residual doubled to2 and later41 doubled to82 while surviving.",
+        "implication": "Personal fear, actual defense, shields, timing and costs must be modeled separately.",
+        "authority_and_adverse_limit": "These local results do not certify every cover multiplier or named-skill interaction. No actual death-return in this finale; dense rule discrepancies remain unresolved.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "ledger": "HUMOR_MECHANICS",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-HM01",
+        "ledger": "HUMOR_MECHANICS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Replay Chio health fixation and party religious pressure",
+        "printed_pages": "020-021,032-033,046-052",
+        "observation": "Health gratitude becomes poison advocacy/actual damage and an unhealthy-should-die imperative; frog finishing is framed as Axis completion.",
+        "implication": "H2 amplified dispositions coexist with actualH1harm/pressure; worthy stated aims do not overwrite causal conduct.",
+        "authority_and_adverse_limit": "Initial proposal versus actual poisoning versus proposed slow death remain separate.踏み絵 requires contextual gloss, not an automatic whole-premiseL3.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-HM01",
+        "ledger": "HUMOR_MECHANICS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Replay Chio health fixation and party religious pressure",
+        "printed_pages": "020-021,032-033,046-052",
+        "observation": "Health gratitude becomes poison advocacy/actual damage and an unhealthy-should-die imperative; frog finishing is framed as Axis completion.",
+        "implication": "H2 amplified dispositions coexist with actualH1harm/pressure; worthy stated aims do not overwrite causal conduct.",
+        "authority_and_adverse_limit": "Initial proposal versus actual poisoning versus proposed slow death remain separate.踏み絵 requires contextual gloss, not an automatic whole-premiseL3.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "ledger": "HUMOR_MECHANICS",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-HM02",
+        "ledger": "HUMOR_MECHANICS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Local replay/scenario reversals",
+        "printed_pages": "030,088-089,102; scenario295,305-308",
+        "observation": "Bartender prioritizes milk policing over undead; villain blurts an incriminating plan; party cheers foe survival for a satisfying finish; scripted commander gets his tank’s drill.",
+        "implication": "H3 is reserved for a particular punchline-dependent conduct, with mixedH1tableactions and unperformed proposals separately identified.",
+        "authority_and_adverse_limit": "Staging, source uncertainty and explicit game effects alone are notH3. Proposed rescue of Goran never occurs; scenario branches are not actual play.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-HM02",
+        "ledger": "HUMOR_MECHANICS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Local replay/scenario reversals",
+        "printed_pages": "030,088-089,102; scenario295,305-308",
+        "observation": "Bartender prioritizes milk policing over undead; villain blurts an incriminating plan; party cheers foe survival for a satisfying finish; scripted commander gets his tank’s drill.",
+        "implication": "H3 is reserved for a particular punchline-dependent conduct, with mixedH1tableactions and unperformed proposals separately identified.",
+        "authority_and_adverse_limit": "Staging, source uncertainty and explicit game effects alone are notH3. Proposed rescue of Goran never occurs; scenario branches are not actual play.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "ledger": "HUMOR_MECHANICS",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-HM03",
+        "ledger": "HUMOR_MECHANICS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Authored ecology, base rules and reference comedy",
+        "printed_pages": "225-232,241-245,268-293",
+        "observation": "Stable retail caveat, ordinary Round Table, bring-your-own monster meat, heroic cabbage and meowing imitation dragon domesticate grand fantasy expectations.",
+        "implication": "Literal fantasy-world facts and explicit abstractions can be comic withoutH4. Portable premise and nested phrasing need separate warrants.",
+        "authority_and_adverse_limit": "100selectedpremises retain all282uncoded observations and soft limits; not an exhaustive gag census, mainJ02 denominator or independent trial pool.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-HM03",
+        "ledger": "HUMOR_MECHANICS",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "subjects": "Authored ecology, base rules and reference comedy",
+        "printed_pages": "225-232,241-245,268-293",
+        "observation": "Stable retail caveat, ordinary Round Table, bring-your-own monster meat, heroic cabbage and meowing imitation dragon domesticate grand fantasy expectations.",
+        "implication": "Literal fantasy-world facts and explicit abstractions can be comic withoutH4. Portable premise and nested phrasing need separate warrants.",
+        "authority_and_adverse_limit": "100selectedpremises retain all282uncoded observations and soft limits; not an exhaustive gag census, mainJ02 denominator or independent trial pool.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-JV01",
+        "ledger": "JAPANESE_VOICE_HUMOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Croak/fortune and king/frog recap",
+        "printed_pages": "043; prior Core062 recap",
+        "observation": "ゲーコーとギョーコー explicitly pairs croak with僥倖 sound; wish-to-king/frog-king is a recapped device event.",
+        "implication": "The croak/fortune local wordplay centrally needsL3reconstruction, while a portable ironic outcome can contain a language-sensitive nested layer.",
+        "authority_and_adverse_limit": "Not every chant, script change, historical idiom or fantasy term isL3. Recap is not another independent wish test.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-JV01",
+        "ledger": "JAPANESE_VOICE_HUMOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Croak/fortune and king/frog recap",
+        "printed_pages": "043; prior Core062 recap",
+        "observation": "ゲーコーとギョーコー explicitly pairs croak with僥倖 sound; wish-to-king/frog-king is a recapped device event.",
+        "implication": "The croak/fortune local wordplay centrally needsL3reconstruction, while a portable ironic outcome can contain a language-sensitive nested layer.",
+        "authority_and_adverse_limit": "Not every chant, script change, historical idiom or fantasy term isL3. Recap is not another independent wish test.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-JV02",
+        "ledger": "JAPANESE_VOICE_HUMOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Pressure, self-reference and religious stance",
+        "printed_pages": "030-041,051,075,084,098",
+        "observation": "この身 self-reference, stammered Aqua cheer, rude shut-up interruption, GM darkness-to-passion repair and title-shaped home declaration carry distinct functions/audiences.",
+        "implication": "Register/pragmatic coding must retain who speaks, to whom, under what pressure and at which PC/table plane.",
+        "authority_and_adverse_limit": "49purposefulwitnesses comprise46short fragments and3paraphrase-only records; no audio/native-human judgment or natural before/after effect estimate.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-JV02",
+        "ledger": "JAPANESE_VOICE_HUMOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "Pressure, self-reference and religious stance",
+        "printed_pages": "030-041,051,075,084,098",
+        "observation": "この身 self-reference, stammered Aqua cheer, rude shut-up interruption, GM darkness-to-passion repair and title-shaped home declaration carry distinct functions/audiences.",
+        "implication": "Register/pragmatic coding must retain who speaks, to whom, under what pressure and at which PC/table plane.",
+        "authority_and_adverse_limit": "49purposefulwitnesses comprise46short fragments and3paraphrase-only records; no audio/native-human judgment or natural before/after effect estimate.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "ledger": "JAPANESE_VOICE_HUMOR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-JV03",
+        "ledger": "JAPANESE_VOICE_HUMOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "World profiles and staged teaching figures",
+        "printed_pages": "107,115-121,236,246-249,251,295",
+        "observation": "Grand sample personas, Yunyun’s hesitant我が名, Chris’sあたし and royal/humble introductions offer contrastive presentation; Aqua’s GM claim receives elliptical correction.",
+        "implication": "These examples support descriptive style/functions, not a population distribution or automatically performed register change.",
+        "authority_and_adverse_limit": "Profile Chris does not reveal Eris identity here.シンフォニア gloss is Symphonia; original English Sinforia retained historically. Hypothetical script dialogue remains unperformed.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-JV03",
+        "ledger": "JAPANESE_VOICE_HUMOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "subjects": "World profiles and staged teaching figures",
+        "printed_pages": "107,115-121,236,246-249,251,295",
+        "observation": "Grand sample personas, Yunyun’s hesitant我が名, Chris’sあたし and royal/humble introductions offer contrastive presentation; Aqua’s GM claim receives elliptical correction.",
+        "implication": "These examples support descriptive style/functions, not a population distribution or automatically performed register change.",
+        "authority_and_adverse_limit": "Profile Chris does not reveal Eris identity here.シンフォニア gloss is Symphonia; original English Sinforia retained historically. Hypothetical script dialogue remains unperformed.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "ledger": "KAZUMA_NARRATOR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-KN01",
+        "ledger": "KAZUMA_NARRATOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Replay narrator/GM/editor versus Kazuma",
+        "printed_pages": "010-106",
+        "observation": "The replay alternates edited narrator, named players, PCs and GM; source acknowledges improvised ranks, adopted will revision and rules adjudication.",
+        "implication": "Track evaluator and authorship rather than attributing every comic judgment to Kazuma’s narrating mind.",
+        "authority_and_adverse_limit": "This is not a Kazuma-first-person novel chapter. Player authorship and narrated PC background do not become principal-character events.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-KN01",
+        "ledger": "KAZUMA_NARRATOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Replay narrator/GM/editor versus Kazuma",
+        "printed_pages": "010-106",
+        "observation": "The replay alternates edited narrator, named players, PCs and GM; source acknowledges improvised ranks, adopted will revision and rules adjudication.",
+        "implication": "Track evaluator and authorship rather than attributing every comic judgment to Kazuma’s narrating mind.",
+        "authority_and_adverse_limit": "This is not a Kazuma-first-person novel chapter. Player authorship and narrated PC background do not become principal-character events.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "ledger": "KAZUMA_NARRATOR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-KN02",
+        "ledger": "KAZUMA_NARRATOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Instructional Kazuma figure",
+        "printed_pages": "003-004,107",
+        "observation": "Indirect criticism is challenged; no advanced class is overread as no improvement; later strengthening is announced with……はず.",
+        "implication": "Qualified questions/inferences at teaching plane differ from categorical refusal or stable self-knowledge.",
+        "authority_and_adverse_limit": "No dated main-timeline event, naturalJ01pair, postV17 state or new actual Adventurer class is established.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-KN02",
+        "ledger": "KAZUMA_NARRATOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Instructional Kazuma figure",
+        "printed_pages": "003-004,107",
+        "observation": "Indirect criticism is challenged; no advanced class is overread as no improvement; later strengthening is announced with……はず.",
+        "implication": "Qualified questions/inferences at teaching plane differ from categorical refusal or stable self-knowledge.",
+        "authority_and_adverse_limit": "No dated main-timeline event, naturalJ01pair, postV17 state or new actual Adventurer class is established.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "ledger": "KAZUMA_NARRATOR",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-KN03",
+        "ledger": "KAZUMA_NARRATOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Narrative construction of dragon companionship",
+        "printed_pages": "081-082,088-089",
+        "observation": "Chio proposes the dragon deathbed addition and GM adopts it; later GM blurts villain motive and cannot fully retract after skill invocation.",
+        "implication": "Source construction is observable evidence of collaboration and disclosure, not independent prior proof of the same psychological mechanism.",
+        "authority_and_adverse_limit": "Do not treat the revised will, invented Ten Spears rank or confession requirement as pre-exposure frozen forecast evidence.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-KN03",
+        "ledger": "KAZUMA_NARRATOR",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "subjects": "Narrative construction of dragon companionship",
+        "printed_pages": "081-082,088-089",
+        "observation": "Chio proposes the dragon deathbed addition and GM adopts it; later GM blurts villain motive and cannot fully retract after skill invocation.",
+        "implication": "Source construction is observable evidence of collaboration and disclosure, not independent prior proof of the same psychological mechanism.",
+        "authority_and_adverse_limit": "Do not treat the revised will, invented Ten Spears rank or confession requirement as pre-exposure frozen forecast evidence.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-OP01",
+        "ledger": "ORDINARY_LIFE_PREFERENCES",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Replay household economy",
+        "printed_pages": "035-038,103-106",
+        "observation": "A free-purchase level5/six-slot base still costs upkeep perPC; printed quest net2530each rises to4530after apology.",
+        "implication": "Domestic rewards are effective motives with continuing resource costs, not an escape from economics.",
+        "authority_and_adverse_limit": "No asserted individual arithmetic recomputation or all facilities installed from every proposal. Orbs remain powerless unsellable ornaments.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-OP01",
+        "ledger": "ORDINARY_LIFE_PREFERENCES",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Replay household economy",
+        "printed_pages": "035-038,103-106",
+        "observation": "A free-purchase level5/six-slot base still costs upkeep perPC; printed quest net2530each rises to4530after apology.",
+        "implication": "Domestic rewards are effective motives with continuing resource costs, not an escape from economics.",
+        "authority_and_adverse_limit": "No asserted individual arithmetic recomputation or all facilities installed from every proposal. Orbs remain powerless unsellable ornaments.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-OP02",
+        "ledger": "ORDINARY_LIFE_PREFERENCES",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Replay comfort differences",
+        "printed_pages": "023,037-038,106",
+        "observation": "Suite lodgers and Economy lodgers share a base yet keep differing bedding/status; garden/toys/bath combine practical effects with pleasure.",
+        "implication": "Shared affiliation/space does not imply identical comfort preference or equal spending.",
+        "authority_and_adverse_limit": "Ending supplies local welcome/bath enjoyment, not a tested permanent household routine. Future bedding upgrade is a wish.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-OP02",
+        "ledger": "ORDINARY_LIFE_PREFERENCES",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "Replay comfort differences",
+        "printed_pages": "023,037-038,106",
+        "observation": "Suite lodgers and Economy lodgers share a base yet keep differing bedding/status; garden/toys/bath combine practical effects with pleasure.",
+        "implication": "Shared affiliation/space does not imply identical comfort preference or equal spending.",
+        "authority_and_adverse_limit": "Ending supplies local welcome/bath enjoyment, not a tested permanent household routine. Future bedding upgrade is a wish.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "ledger": "ORDINARY_LIFE_PREFERENCES",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-OP03",
+        "ledger": "ORDINARY_LIFE_PREFERENCES",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "World-reference food and travel",
+        "printed_pages": "234-245,247",
+        "observation": "Teleport costs preserve bulk transport/escort work; monster attacks supply capital barbecue meat; Crimson tourism and Komekko appetite narrow grand stakes to ordinary wants.",
+        "implication": "Everyday constraints and appetites shape adventure even when world ecology is fantastic.",
+        "authority_and_adverse_limit": "Reference descriptions, rumors and profile examples are not newly witnessed meals/trips or measured stable principal preferences.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-OP03",
+        "ledger": "ORDINARY_LIFE_PREFERENCES",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "subjects": "World-reference food and travel",
+        "printed_pages": "234-245,247",
+        "observation": "Teleport costs preserve bulk transport/escort work; monster attacks supply capital barbecue meat; Crimson tourism and Komekko appetite narrow grand stakes to ordinary wants.",
+        "implication": "Everyday constraints and appetites shape adventure even when world ecology is fantastic.",
+        "authority_and_adverse_limit": "Reference descriptions, rumors and profile examples are not newly witnessed meals/trips or measured stable principal preferences.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-SO01",
+        "ledger": "SERIOUSNESS_OVERRIDE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Replay21 counseling and protection",
+        "printed_pages": "083-086,090,098,106",
+        "observation": "21 interrupts superficial money/health appraisals, elicits fear and hurt, defends local belonging and proposes remembrance.",
+        "implication": "A comic outsider can supply serious interpersonal attention without eliminating humor or prior coercion.",
+        "authority_and_adverse_limit": "Same informed/coauthored source, not an independent psychological trial or universal compassionate-undead rule; funeral remains intention.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-SO01",
+        "ledger": "SERIOUSNESS_OVERRIDE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Replay21 counseling and protection",
+        "printed_pages": "083-086,090,098,106",
+        "observation": "21 interrupts superficial money/health appraisals, elicits fear and hurt, defends local belonging and proposes remembrance.",
+        "implication": "A comic outsider can supply serious interpersonal attention without eliminating humor or prior coercion.",
+        "authority_and_adverse_limit": "Same informed/coauthored source, not an independent psychological trial or universal compassionate-undead rule; funeral remains intention.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-SO02",
+        "ledger": "SERIOUSNESS_OVERRIDE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Replay Oto/Chio repair limits",
+        "printed_pages": "084-086,095-103",
+        "observation": "Explicit fear of causing Chio’s death again accompanies actual protection; private communication restores some acknowledgment while loans continue.",
+        "implication": "Serious attachment changes the interpretation of resource conduct without absolving every cost or proving a permanent trait cure.",
+        "authority_and_adverse_limit": "Self-report and narrated past have limits; comfort spending/dependence and Chio’s doubt remain contrary constraints.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-SO02",
+        "ledger": "SERIOUSNESS_OVERRIDE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Replay Oto/Chio repair limits",
+        "printed_pages": "084-086,095-103",
+        "observation": "Explicit fear of causing Chio’s death again accompanies actual protection; private communication restores some acknowledgment while loans continue.",
+        "implication": "Serious attachment changes the interpretation of resource conduct without absolving every cost or proving a permanent trait cure.",
+        "authority_and_adverse_limit": "Self-report and narrated past have limits; comfort spending/dependence and Chio’s doubt remain contrary constraints.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "ledger": "SERIOUSNESS_OVERRIDE",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-SO03",
+        "ledger": "SERIOUSNESS_OVERRIDE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Scenario captivity, refusal and alternatives",
+        "printed_pages": "296-308",
+        "observation": "Forced defeat is disclosed to players in advance; rejected women remain confined; rescue/diversion, direct damage and reward routes are conditional.",
+        "implication": "Preserve refusal, agency constraints and actual source prescriptions when interpreting comic self-importance.",
+        "authority_and_adverse_limit": "Source GM directions are material for analysis, not instructions to this agent; no actual PC assent, failed roll or coerced marriage occurs by reading.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-SO03",
+        "ledger": "SERIOUSNESS_OVERRIDE",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "subjects": "Scenario captivity, refusal and alternatives",
+        "printed_pages": "296-308",
+        "observation": "Forced defeat is disclosed to players in advance; rejected women remain confined; rescue/diversion, direct damage and reward routes are conditional.",
+        "implication": "Preserve refusal, agency constraints and actual source prescriptions when interpreting comic self-importance.",
+        "authority_and_adverse_limit": "Source GM directions are material for analysis, not instructions to this agent; no actual PC assent, failed roll or coerced marriage occurs by reading.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-PV01",
+        "ledger": "MODEL_PREDICTION_VALIDATION",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "Frozen R1/66current/72historical/four scorecards",
+        "printed_pages": "whole supplied edition",
+        "observation": "Advanced was read after all main17/fourholdouts/Dust01-02/mixedprograms/Core in the same informed root AI lineage.",
+        "implication": "Only attributable expanded-source evidence is added; no original frozen score, forecast blank or model byte is retroactively repaired.",
+        "authority_and_adverse_limit": "No fifthholdout, pristine blindness, independent reader, mainJ01/J02 count or new retrospective validation success.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-PV01",
+        "ledger": "MODEL_PREDICTION_VALIDATION",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "Frozen R1/66current/72historical/four scorecards",
+        "printed_pages": "whole supplied edition",
+        "observation": "Advanced was read after all main17/fourholdouts/Dust01-02/mixedprograms/Core in the same informed root AI lineage.",
+        "implication": "Only attributable expanded-source evidence is added; no original frozen score, forecast blank or model byte is retroactively repaired.",
+        "authority_and_adverse_limit": "No fifthholdout, pristine blindness, independent reader, mainJ01/J02 count or new retrospective validation success.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-PV02",
+        "ledger": "MODEL_PREDICTION_VALIDATION",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "Post hoc resource/legibility hypothesis",
+        "printed_pages": "023,083-086,095-106",
+        "observation": "Protective preparation can be experienced as extraction when the beneficiary cannot see the motive; explicit explanation may repair acknowledgment without ending the behavior.",
+        "implication": "Retain as a post-exposure hypothesis for later attributable StageD synthesis and future genuinely registered tests.",
+        "authority_and_adverse_limit": "Not pre-registered here. Counterconditions include actual aid, comfort self-interest, continued borrowing and incomplete trust; no universal causal estimate.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-PV02",
+        "ledger": "MODEL_PREDICTION_VALIDATION",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "Post hoc resource/legibility hypothesis",
+        "printed_pages": "023,083-086,095-106",
+        "observation": "Protective preparation can be experienced as extraction when the beneficiary cannot see the motive; explicit explanation may repair acknowledgment without ending the behavior.",
+        "implication": "Retain as a post-exposure hypothesis for later attributable StageD synthesis and future genuinely registered tests.",
+        "authority_and_adverse_limit": "Not pre-registered here. Counterconditions include actual aid, comfort self-interest, continued borrowing and incomplete trust; no universal causal estimate.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "ledger": "MODEL_PREDICTION_VALIDATION",
+      "original_author_proposal_exact": {
+        "id": "TRPGA-PV03",
+        "ledger": "MODEL_PREDICTION_VALIDATION",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "Transfer limits between replay/rules/reference/novel",
+        "printed_pages": "whole supplied edition",
+        "observation": "Game incentives, coauthorship, optional templates, editorial voices and conditional scripts create distinct behavioral affordances.",
+        "implication": "Later revised principal/party/transfer models must name evidential route and avoid treating every source as equal independent confirmation.",
+        "authority_and_adverse_limit": "Full remaining StageC, main-edition components, StageD and final release remain pending. This append does not close the full program.",
+        "status": "PRIVATE_AUTHOR_PROPOSAL_NOT_CANONICALLY_ADOPTED",
+        "changes_frozen_R1_or_four_scores": false
+      },
+      "current_accepted_append": {
+        "id": "TRPGA-PV03",
+        "ledger": "MODEL_PREDICTION_VALIDATION",
+        "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "subjects": "Transfer limits between replay/rules/reference/novel",
+        "printed_pages": "whole supplied edition",
+        "observation": "Game incentives, coauthorship, optional templates, editorial voices and conditional scripts create distinct behavioral affordances.",
+        "implication": "Later revised principal/party/transfer models must name evidential route and avoid treating every source as equal independent confirmation.",
+        "authority_and_adverse_limit": "Full remaining StageC, main-edition components, StageD and final release remain pending. This append does not close the full program.",
+        "status": "ACCEPTED_EXPANDED_SOURCE_APPEND_CONTAINING_PUBLICATION_PENDING",
+        "changes_frozen_R1_or_four_scores": false,
+        "accepted_utc": "2026-10-18T05:03:55.185963+00:00"
+      },
+      "decision": "ACCEPT_AT_STATED_SOURCE_PLANE_WITH_ADVERSE_LIMITS",
+      "not_independent_receiving": "Same informed root AI authored and checked; no new independent reviewer is claimed."
+    }
+  ],
+  "frozen_models_scores_and_original_blanks_unchanged": true
+}

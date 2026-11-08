@@ -4,7 +4,7 @@ artifact_type: source_inventory
 scope: supplemental_materials
 scope_state: provisional_research_inventory_2026-08-18
 generation: V1
-status: active_provisional
+status: canonical
 source_boundary: Supplemental and adaptation material identified from official publisher/anime sources plus clearly labeled secondary discovery sources
 supersedes: []
 superseded_by: []
@@ -525,3 +525,22 @@ Do not allow supplements to:
 - elevate store bonuses above scenes in the core books.
 
 The mainline novels remain the governing literary work.
+
+
+## Main-series completion deferral — 2026-10-12
+
+The completed14-numbered-novel assignment explicitly **DEFERS** all external supplemental semantic admission. This is a bounded release decision, not a claim that the material is inaccessible or without value. Existing discovery, credit and acquisition notes above remain unchanged.
+
+| Source group | Current assignment disposition | Reason / future gate |
+|---|---|---|
+| Kantoku ART WORKS / interview | DEFERRED | V14 advertising is a lead, not the book; acquire/credit/source-read separately |
+| Linked-purchase Hirasaka SS / other retailer prose | DEFERRED | Separately verify exact edition, authorship and continuity |
+| V04, V07, V13 special-edition drama CDs | DEFERRED | Script authorship and performance need labeled source-facing reads |
+| Anime Blu-ray author-written audio/route material | DEFERRED | Keep alternate routes and performed voice separate from numbered-mainline events |
+| Spinoff manga / @comic | DEFERRED | Dedicated adaptation/spinoff comparison rather than silent biography |
+| Television anime | DEFERRED | Adaptation choices require their own continuity/episode locators |
+| V11 associated card game | DEFERRED | Rules/materials are a separate artifact; novel's represented play remains admitted |
+| Official audiobooks/performed readings | DEFERRED | Prose supports written voice only until verified performance sources are admitted |
+| Later same-world title appearing in V14 notices | DEFERRED | Announcement/possible Miyako appearance supplies no new narrative evidence here |
+
+The V13 movie included in its numbered edition is already classified as alternate WFW, and V14's 青い小鳥たち is an embedded dream manuscript in the actual frame. Those distinctions are internal to the admitted main volumes; neither is an external supplement acquisition or an authenticated future. The fifth checkpoint fixes the mainline horizon before mature specialists. Any later admission needs explicit source identity, tier/continuity, credits, stable SUPP/adaptation locators and a declared delta.

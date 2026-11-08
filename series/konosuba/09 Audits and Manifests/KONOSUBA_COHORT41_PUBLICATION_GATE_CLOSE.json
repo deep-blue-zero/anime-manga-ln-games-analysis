@@ -1,0 +1,185 @@
+{
+  "schema": "konosuba.cohort41.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T23:20:25.109901+00:00",
+  "gate_scope": "Author tranche:ordinarypush,ready PR,full exact-source audit/latest trusted status andcomplete published authority reload. New tranche protected integration/release remain separately owned.",
+  "actual_source_commit": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+  "tree": "f5f886c9af74a7b02a25073f832f69dc5ea0ff4e",
+  "source_parent": "38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357",
+  "remote_series_before": "01a822cfafc7a1452d17aad81b1fe454206cc1b1",
+  "publication_main": "38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357",
+  "main_observed_at_close": "fb0dc312b4eae6bd5d5d07bb35bbf88659f6021d",
+  "pull_request": {
+    "number": 320,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/320",
+    "state": "open",
+    "merged": false,
+    "head": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT41_AUTHOR_PREFLIGHT_VERIFIED_04.json",
+    "sha256": "b79e3756f2866f775ed07bcbac0b90f1d950f0bd7b987c171d7a5177b7ddeb86",
+    "paths": 10068,
+    "project_paths": 1506,
+    "earlier_preflight_attempts_retained_not_transferred": true,
+    "passed_attempt": 4
+  },
+  "remote_readback": {
+    "file": "COHORT41_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "7f3e17fbe536d8dc69e99f2d7a501917eee8bca28f1da89f6026cccc5a5284aa",
+    "all10068_file_bindings_and36_authored4_owner_carried_streams_exact": true,
+    "retired_owner_registry_absent": true
+  },
+  "source_audit": {
+    "file": "C41_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "fc09553ca6a3e2c7c588c8f064b502aba41117517a92330bd79d526c6bccddb8",
+    "run": 40141674799,
+    "job": 121014536060,
+    "reporter_job": 121015816338,
+    "actual_source": "86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+    "full_discovered_tests": 479,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/86aa4073afc6e1f6431f5e9a485c4c7e4f67bc8a",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57182137797,
+      "node_id": "SC_kwDOUJ9ads8AAAANUFItxQ",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40141674799",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T23:17:20Z",
+      "updated_at": "2026-10-24T23:17:20Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED",
+    "run": null,
+    "execution_credit": false
+  },
+  "new_tranche_post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "prior_PR316_owner_integration": {
+    "source": "db1e0652196adae10a01a1d1899d0782011e52f6",
+    "run": 40140324280,
+    "full479_verified": true,
+    "verification_sha256": "16bb827af25b57a935cc69f2e0554a2c7b69385101d664a0b76d83fff03c3529"
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT41_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 380632,
+    "sha256": "bbf183fbe60c14a28b799fe41e4ca60e3249e2c88d579e97679028fb181b406f"
+  },
+  "current63_models_exact": true,
+  "new_scope": [
+    {
+      "row": 89,
+      "subject": "Dust03lake Tranquility Girl",
+      "proposed_scoped_tier": 2,
+      "proposed_rules": [],
+      "justification": "Own approach/retention tactics,recipient differences,resource control,changed bargaining,failed reliance and consequential death earn a substantial twelve-dimension account.",
+      "limits_and_rivals": "Predation,ordinary threatened bargaining,learned performance and episode structure remain overlapping causes. No stable personal generator isolated;not a plant,anonymity or appearance-count ceiling."
+    },
+    {
+      "row": 90,
+      "subject": "Dust02diary inventor",
+      "proposed_scoped_tier": 2,
+      "proposed_rules": [],
+      "justification": "Four explicit entries supply discretionary interests,imposed-work resentment,funding concealment,technical self-correction and selective protection. Documentary custody and actual later device events constrain interpretation.",
+      "limits_and_rivals": "No equally explicit MAIN02/05personal identity join;generic avoidance/privacy and comic self-presentation remain. No complete implementation,fate or universal safety. No new model merely to fill this route."
+    },
+    {
+      "row": 92,
+      "subject": "MAIN15bonus noblewoman",
+      "proposed_scoped_tier": 1,
+      "proposed_rules": [],
+      "justification": "Own polite initiation,story request,surprise,topic repair and embarrassment support a bounded profile distinct from Darkness later accusation.",
+      "limits_and_rivals": "No witnessed wealth request,verified finances,named family,completed storytelling or reciprocal romance."
+    },
+    {
+      "row": 133,
+      "subject": "MAIN02/05joined historical scientist",
+      "proposed_scoped_tier": 3,
+      "proposed_rules": [
+        "DSC-R01",
+        "DSC-R02"
+      ],
+      "justification": "Positively joined journals distinguish pressured low-effort accounts and accountability deferral from genuine interest-driven effort with late hazard recognition. Opposed capability,status,ordinary reward and responsibility evidence earns a monograph and two defeasible conditional propositions.",
+      "limits_and_rivals": "Documentary selection,coercive institutions,ordinary hobby engagement and generic avoidance remain strong rivals. No unique mechanism isolation,public-voice certainty or universal engineering competence. Dust02and Moguninnin routes remain unresolved."
+    },
+    {
+      "row": 145,
+      "subject": "MAIN05roadside Tranquility Girl",
+      "proposed_scoped_tier": 2,
+      "proposed_rules": [],
+      "justification": "Repeated false first-conversation premise across two recipients,public/private register,appetite,exposure and failed repair earn a substantial individual account.",
+      "limits_and_rivals": "Species lure,survival script,opportunism and comic reveal not yet discriminated into a distinct generator. Only implied killing;no completed feeding or rehabilitation. No nonhuman/anonymity ceiling."
+    },
+    {
+      "row": 146,
+      "subject": "MAIN05woodcutter",
+      "proposed_scoped_tier": 1,
+      "proposed_rules": [],
+      "justification": "Stated occupational obligation,apology,failed intended action and flight are his own agency under a specific conflict.",
+      "limits_and_rivals": "No known earlier-deception awareness,confirmed residence,performed rescue,return or universal occupational law."
+    }
+  ],
+  "current_totals": {
+    "models": 63,
+    "scoped_secondary_models": 57,
+    "compact_profiles": 106,
+    "monograph_only": 32,
+    "nonfinal_census_records": 397,
+    "new_monographs": 4,
+    "new_models": 1,
+    "new_rules": 2,
+    "new_compact_profiles": 6,
+    "new_sparse_index_records": 8,
+    "new_unfinished_substantive_routes": 2,
+    "new_nonfinal_records": 14
+  },
+  "scope_qualification": "Four individual monographs,one provisional two-rule scientist model,six compact profiles,eight sparse/access records andtwo unfinished substantive criminal-trio routes. Explicit MAIN02/05recognition differs from unresolvedDust02identity. Distinct plants,coercion,performance,actual deaths/force,source access andinterested testimony remain qualified. Four originals retain public-account/notification/effort-only/residual-time issues without repair.",
+  "source_known_same_root_author": true,
+  "actual_original_firsts": 4,
+  "actual_dependent_pairs": 2,
+  "all_original_outputs_and_qualifications_preserved": true,
+  "clean_independently_established_mechanism_isolating_pairs": 0,
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

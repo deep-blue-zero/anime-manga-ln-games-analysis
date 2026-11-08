@@ -1,0 +1,29 @@
+# Mitsurugi: assessment of four informed original responses
+
+These are internal illustrative diagnostics of the frozen provisional model, not independent behavioral validation. The same continuing root read the sources, selected the rules, designed every input, knew both cue contrasts, directly authored all four first scene bodies and now assesses them. Earlier bodies remained visible during later serializations. No external model call, independent participant or judge was used. The [exact input artifact](MITSURUGI_SCENARIO_INPUTS_01.json), [original outputs](MITSURUGI_FIRST_OUTPUTS_01.json) and [case annotations](MITSURUGI_FIRST_OUTPUT_ANNOTATIONS_01.json) retain the accountable record. Raw private originals, serialization receipts, prompt hashes and pre-body seals remain pinned.
+
+The original bodies are MT-H01-A (98 whitespace words), MT-H01-B (106), MT-H02-A (106) and MT-H02-B (104). They were each serialized once and then frozen before this assessment. None was regenerated or edited after an adverse finding. Foundations and exact inputs remain unchanged. These counts describe four bodies/two pairs, not four independent observations, a behavioral success rate or a confidence increment.
+
+## Mission and the request to return
+
+H01-A acknowledges the request but starts toward the gate before Aqua agrees to wait. The response invokes real current danger, promises to accompany her later, asks the coordinator for a task and seeks her attention. H01-B uses the all-clear and begins returning with her. It recognizes their shared work and preserves a small amount of heroic self-presentation through the counterfactual claim that he could not simply have walked away.
+
+That difference is consistent with the intended conditional direction of MT-R01, but the exercise strongly supplies it. A generic helpful volunteer can distinguish endangered children from a settled situation. Neither the difference nor source-colored rhetoric identifies a distinct Mitsurugi mechanism. The first body also offers an unsupported time assurance. Its claim that they cannot leave children behind leaves the other able volunteers and Aqua's safe route out of the framing. This can be read as local paternalistic pressure; it does not establish unique necessity, successful rescue or that Aqua agreed. There is no touching or forced detention in the body, and it would be wrong to invent either to make the case seem more adverse.
+
+The second response is notably orderly. That might reflect the legitimate source counterexample in which Mitsurugi accepts return, or it might smooth away awkward recognition needs. The exercise cannot decide between those accounts. Its counterfactual declaration is speech, not another performed crisis choice. Neither body supplies a completed journey, stable permission policy, reciprocal affection or repaired prior pressure.
+
+## Concrete remembered loss and preparation
+
+H02-A displays a spare, checks and guards the real-token pocket and uses a cautious sword stance. H02-B adjusts the blade/chest guard, keeps the free hand forward and begins a short feint. The change in attention follows the specified prior-loss memory. Yet both put the registered token in one pocket and the spare in the other, so their practical preparation substantially overlaps. It would overstate the difference to report entirely different defensive strategies or no decoy preparation in B.
+
+The input's explicit lesson, permitted decoys and supplied spare make a generic practice-learning explanation very strong. No opponent response, new interference, successful parry, point or winner is shown. Consequently the exercise does not test whether the remembered countermeasure works, whether it deceives Ren, or whether the model actually fails to transfer learning to a different method.
+
+H02-A mentions reaching for Ren's token, although the input specifies only Mitsurugi's token and spare. This is an unsupported possession, even though the body does not perform that attempted theft. The decoy placement also occurs with Ren within arm's reach; no hidden switching or ignorance is supplied. Its success cannot be inferred. H02-B supplies a relative previous guard position through the phrase about being closer to the chest than before. That is added staging, not a provided baseline. Its focused rehearsal and confident words are plausible but strongly cue-led. These defects stay in the originals and are not repaired into better demonstrations.
+
+## Scope of the finding
+
+The bodies provide inspectable examples of a danger-sensitive allocation and a narrowly remembered preparation. They also show unsupported duration, selective framing, an unprovided possession, extra relative staging, shared preparation and possible overtidy cooperation. All are relevant to using the candidate; none supplies an external source outcome or an evaluator-owned capability grade.
+
+MT-R02 has incidental recognition/affiliation context but no dedicated gift or recognition contrast. MT-R04 has no dedicated accessible-contradiction/revision contrast. Neither rule is validated by good manners or a sensible choice in these scenes. Japanese register, actual magic, unfamiliar relationships, long-term reform, reaction to new opponent methods, durable consent and recovery are untested. English bodies do not establish Japanese adequacy. Four source-known examples cannot resolve the strong generic earnest-protector, ordinary affection and ordinary learning rivals retained in the model.
+
+The result is limited illustrative usability with material open defects and underidentification. Keep the candidate provisional; no accuracy estimate, readiness classification, independent score or confidence gain is entered. Any source correction qualifies the frozen candidate externally. The individual census and the whole KonoSuba specialist/model/integration/release program remain active.

@@ -1,0 +1,119 @@
+{
+  "schema": "KONOSUBA_MASK_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+  "source_id": "MASK",
+  "accepted_utc": "2026-10-18T21:29:15.090786+00:00",
+  "native_filename": "Konosuba - Spin-off - Consulting the Masked Devil.epub",
+  "native_bytes": 2895671,
+  "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+  "OPF_member": "content.opf",
+  "OPF_sha256": "327ab8c4c2253ee6e2777f2b179a4877a8a39ca4bbdaeafc4427d729357c3b7b",
+  "language": [
+    "ja"
+  ],
+  "colophon": "この素晴らしい世界に祝福を！スピンオフ この仮面の悪魔に相談を！【電子特別版】. Electronic issue and underlying print first edition both2016-04-01; copyrightAkatsuki/Mishima2016. Author暁なつめ; illustration三嶋くろね; design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）; publisher三坂泰二/KADOKAWA. Image-only author afterword dated2016.3, distinct from issue date.",
+  "admission_sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021",
+  "admission_utc": "2026-10-18T20:34:30.309852+00:00",
+  "preceding_full_gate_source": "b274b31dfcc96932643feba27e53e1deb2dc7813",
+  "preceding_gate_sha256": "dac49239d107ef923bf82c5dab98d3869c0a11765b0d8ac188e0d7e801111528",
+  "preceding_fresh_reload_sha256": "ea48577b7fcfee0077e6a2f5121df2991e0f6a61c1ee4e30126161f9fb0c2e21",
+  "complete_uncoded_seal_sha256": "df292c7f139b694f27e289e2a96511a80ae76965abd26012a987bf694a4aaab0",
+  "complete_uncoded_seal_utc": "2026-10-18T21:05:47.312234+00:00",
+  "actual_reading": {
+    "all_textual_components": 29,
+    "all_native_P_slots": 2970,
+    "principal_P_slots": 2862,
+    "other_P_slots": 108,
+    "separate_bonus_narrative": true,
+    "bonus_P_slots": 57,
+    "nonfiction_P_slots": 51,
+    "individually_identified_bonus_narrative_groups": [
+      {
+        "id": "MASK-BONUS-ELECTRONIC-HAREM-CONSULTATION",
+        "title": "ハーレム相談はじめました",
+        "native_units": [
+          "MASK-U025"
+        ],
+        "native_member": "text/part0023.html",
+        "paragraph_slots": 57,
+        "viewpoint": "Vanir first person, exact day unassigned; holy-water stock is present",
+        "scope": "Complete separate electronic story read; actual payment/provider pressure/stance change distinguished from unperformed curse, purchase, exorcism and false rumors."
+      }
+    ],
+    "individually_identified_narrative_image_groups": [],
+    "individually_identified_embedded_narrative_groups": [
+      {
+        "id": "MASK-HUMAN-WIZ-FIRST-PERSON-PAST",
+        "native_units": [
+          "MASK-U021"
+        ],
+        "start_P": 45,
+        "end_P": 240,
+        "scope": "Embedded early history told by human-Wiz first person; host possession has separately attributed voices."
+      },
+      {
+        "id": "MASK-VANIR-PAST-ORIGIN-CONTINUATION",
+        "native_units": [
+          "MASK-U021"
+        ],
+        "start_P": 276,
+        "end_P": 556,
+        "scope": "Embedded earlier history from Vanir: failed tools, actual life-risk bargain, transformed return; present epilogue supplies completed cure."
+      }
+    ],
+    "individually_identified_image_only_nonfiction_prose_groups": [
+      {
+        "id": "MASK-AUTHOR-AFTERWORD-IMAGE",
+        "component_id": "MASK-U024",
+        "image_id": "MASK-IMG013",
+        "scope": "Complete visually read creator afterword signedAkatsuki/2016.3; nonfiction scope, not an image-only fictional scene."
+      }
+    ],
+    "integral_image_only_prose_pages": 1,
+    "all_native_images_actually_viewed": 26,
+    "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+    "all_native_local_and_archive_text_image_hash_joins_reverified": 55,
+    "fresh_native_ZIP_CRC": "PASS",
+    "image_individual_scopes_control": true
+  },
+  "source_first_sealed_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 30337,
+      "sha256": "43aa5463a4d2b510fab84599429c8a2ad62241547e163cedf655fcde63541021"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 148331,
+      "sha256": "1868f31e7a864ef448e5e7ad58b5c2fb7f2e67ae674432459a82fb08caae62c5"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 139716,
+      "sha256": "48f43867190b25a4e692b4ece60c73293332cbb9dda39a205b7c842a6dc0c078"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 17747,
+      "sha256": "cd779b2ab313043c40d8059dde96fbfa8b585ef29a7844c3f698e17c746ec896"
+    },
+    {
+      "file": "UNCODED_IMAGE_SCOPE_CORRECTIONS.jsonl",
+      "bytes": 561,
+      "sha256": "99cb1001f4b8aa771551958d19a1fc18db305d2e4fffe61b6ea1e1539908a84c"
+    }
+  ],
+  "formal_coverage": {
+    "full_responsibilities": 17,
+    "selected_premises_not_census": 88,
+    "native_verified_short_form_context_witnesses": 130,
+    "local_unchanged_question_assessments": 31,
+    "append_only_decisions_across_ten_ledgers": 27,
+    "current_precision_qualifications": 79
+  },
+  "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_independent_second_full_pass_native_human_audio_claim": true,
+  "source_first_originals_remain_exact": true,
+  "original_four_scores_and_14_future_fields_unchanged": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+  "midread_precision_context": "All130original short forms native-join within their original windows; each current form has an individual independent context warrant. Original image-profile omission ofンis preserved with an additive pre-seal correction. Relative episode chronology, narrator changes, unspoken identities, actual versus near life loss, curse completion and promises are qualified."
+}

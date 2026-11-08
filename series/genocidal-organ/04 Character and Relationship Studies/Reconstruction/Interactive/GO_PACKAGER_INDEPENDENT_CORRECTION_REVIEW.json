@@ -1,0 +1,175 @@
+{
+  "schema": "go-packager-independent-correction-review/v1",
+  "reviewer": "/root/harmony_final_review",
+  "supplementary_static_reviewer": "/root/harmony_final_review/go_packager_static",
+  "decision": "ACCEPT_FOCUSED_INITIAL_TURN_FAILURE_REPAIR",
+  "canonical_and_remote_writes": false,
+  "new_character_executions": 0,
+  "filesystem_safety_review": "Read scripts before execution; copied exact candidate and fixture runner to a new sibling scratch directory; verified retained fixture sources contain no symbolic links; temporary copies remain within scratch; exclusive output creation; no original evidence or canonical writes.",
+  "original_packager_sha256": "6b9f41bf134ca8afed20e636b865fd61164f0b54385cd93ba4c1ff49fcdffe47",
+  "candidate_packager_sha256": "a755093aeaa7deda71c9ac4d9a275174852ae485ce51eb50d1d3e96bfb755590",
+  "fixture_runner_sha256": "89b526d5bcdbf0f099f0be4dfb1f9d4fd77d85992e0957d82f9ab2426e666ae1",
+  "candidate_readme_sha256": "610c303b3a7fb0e0d184c155da71dec26d8bf28d672fd1267a328aca35285232",
+  "candidate_artifact_hash_manifest_sha256": "2a3d3aa54a81c9c6cd3baf5401244d65061338b048a07d817b13070696c9899d",
+  "independently_reproduced_regressions": [
+    {
+      "case": "valid_retained_fixture",
+      "optimized": false,
+      "accepted": true
+    },
+    {
+      "case": "failed_manifest_with_five_records",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "missing_manifest_result",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "wrong_completed_turn_count",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_nonzero_returncode",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_timeout",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_parse_error",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_missing_response",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_unexpected_item",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_missing_completion",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_session_mismatch",
+      "optimized": false,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "valid_retained_fixture",
+      "optimized": true,
+      "accepted": true
+    },
+    {
+      "case": "failed_manifest_with_five_records",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "missing_manifest_result",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "wrong_completed_turn_count",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_nonzero_returncode",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_timeout",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_parse_error",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_missing_response",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_unexpected_item",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_missing_completion",
+      "optimized": true,
+      "rejected_before_public_files": true
+    },
+    {
+      "case": "fifth_session_mismatch",
+      "optimized": true,
+      "rejected_before_public_files": true
+    }
+  ],
+  "original_negative_controls": [
+    {
+      "case": "failed_manifest_with_five_records",
+      "optimized": false,
+      "old_returncode": 0,
+      "old_wrote_public_files": true
+    },
+    {
+      "case": "fifth_missing_response",
+      "optimized": false,
+      "old_returncode": 0,
+      "old_wrote_public_files": true
+    },
+    {
+      "case": "failed_manifest_with_five_records",
+      "optimized": true,
+      "old_returncode": 0,
+      "old_wrote_public_files": true
+    },
+    {
+      "case": "fifth_missing_response",
+      "optimized": true,
+      "old_returncode": 0,
+      "old_wrote_public_files": true
+    }
+  ],
+  "regression_report_sha256": "74a622902ee26ae3e601259d82d749b53ee2ec37877caddd3548f455c49eda34",
+  "negative_control_report_sha256": "0bb8c99f8aef98fed5bee59af49d6c671882b15fc419946bc1a0b4478862c546",
+  "actual_rebuild": {
+    "sessions": 8,
+    "responses": 56,
+    "distinct_sessions": 8,
+    "all_raw_event_messages_completion_sessions_and_nonempty_text_checked": true,
+    "all_packets_byte_identical_to_canonical": true,
+    "output_sha256": {
+      "interactions.json": "e57b052e75ca87f1ab086975a267e3b539dbc737a14050c0cd3ff50d348ddd93",
+      "runtime_receipt.json": "c5be8c0dbd95c80b3691f3f38d868bdcd76bcd9c4b8372bdcb750472c6ff1449"
+    }
+  },
+  "change_scope": {
+    "code": "Manifest result uniqueness/status/completed count and explicit per-initial-turn return/timeout/parse/item/session/response-list/completion-list guards; no output schema or content change.",
+    "readme": "Version metadata plus one attributable defect/test/rebuild paragraph only.",
+    "artifact_manifest": "Only package_receipts.py length/hash record changes; all nine artifacts and eight frozen policies verified."
+  },
+  "bounded_acceptance_limits": [
+    "Optimized-mode regression acceptance covers the ten new explicit initial metadata gates; existing stream-hash and adaptive assertions remain assert-based.",
+    "No new comprehensive malformed-input guarantee: exact manifest/directory membership, ordered unique turn indices, cross-case unique UUIDs and nonblank strings inside a truthy response list are not added by this patch.",
+    "Current actual56 data independently satisfy completion, nonblank response, session, event/hash and no-tool requirements; no model, source, scenario, actual response or retained semantic failure changes."
+  ]
+}

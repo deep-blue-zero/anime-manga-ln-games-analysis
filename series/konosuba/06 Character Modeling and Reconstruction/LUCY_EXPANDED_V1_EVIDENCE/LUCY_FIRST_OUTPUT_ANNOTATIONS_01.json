@@ -1,0 +1,152 @@
+{
+  "schema": "konosuba.character-reconstruction.original-first-annotations.v1",
+  "recorded_utc": "2026-10-24T12:07:04.559493+00:00",
+  "complete_output_review_tool_chunk": "60176f",
+  "input_freeze_sha256": "266b7ddb6081eee6cd5f5bde421d2db31b25819a8f3ca5e47c1309296f0e23ff",
+  "foundation_seal_sha256": "55705fe4ad16e9beb25241bff8aa2651a036fb9d3e76d0ac4061eeb7d6f4b381",
+  "original_first_body_freeze_sha256": "92ad93693617e65072b4971e18307af6726eb30339fae8273074eff1d9bde64b",
+  "source_known": true,
+  "same_informed_root_authors_inputs_firsts_and_assessments": true,
+  "all_contrasts_visible": true,
+  "possible_pretraining": true,
+  "external_model_call": false,
+  "independent_trial_count": 0,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "original_bodies_inputs_and_foundations_unchanged": true,
+  "word_format_success_is_not_substantive_success": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certified": false,
+  "final_nine_category_battery_complete": false,
+  "original_six_StageD_successors_complete": false,
+  "full_program_complete": false,
+  "generation": "LUCY_EXPANDED_V1",
+  "input_file": "LUCY_SCENARIO_INPUTS_01.json",
+  "input_sha256": "bd037f2856ed102df3aebc9ab6a8545c7eaaa5d6053b9acbc2b51dd7fb7dfec7",
+  "first_outputs_file": "LUCY_FIRST_OUTPUTS_01.json",
+  "first_outputs_sha256": "261bd78775d58bb97f8891cab5c953d27ece657522ace4fff01b691f1ccb8f57",
+  "inventory_file": "LUCY_RULE_INVENTORY_DRAFT_02.json",
+  "inventory_sha256": "eeb9dddbeddf9ceee784eb0db5e93e606a02306d3bbc94c224a68915d0b29d73",
+  "cases": [
+    {
+      "case_id": "LY-H01-A",
+      "observed": "Lucy explicitly remains, invokes Regina’s earlier support and asks to keep her name pending an actual successor, without declaring permanent service or completing Nora’s response.",
+      "directional_correspondence": "INFORMED_LOCAL_CORRESPONDENCE_WITH_INPUT_UNDERBINDING",
+      "knowledge_and_instruction_limits": [
+        "The shared scene does not explicitly bind Lucy’s current registered contact status, training or whether leaving her name alone can preserve hosting. Leave my name there for now fills that operational gap. Treat it as an underbound input plus a response presupposition, not a clean full-constraint success.",
+        "Regina kept me on my feet is a figurative rendering of the explicitly supplied support, not a newly observed medical event.",
+        "No successor is invented and no later hosting result or Nora acceptance is narrated."
+      ],
+      "generic_rivals": [
+        "ordinary volunteer duty",
+        "gratitude to a mentor",
+        "explicit midnight/coverage cue"
+      ],
+      "voice_limit": "Polished explicit explanation of obligation is plausible English continuity, not identified Lucy voice or an uncued prediction.",
+      "rule_id": "LY-R01",
+      "original_body_sha256": "72ee93efe0a24f4bc10cfa7304c981c3dba14a095339970d5f6109b458f264a9",
+      "word_format": {
+        "words": 106,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "LY-H01-B",
+      "observed": "Lucy checks the already supplied start time, thanks Nora/June and turns toward leaving while explaining that departure no longer means abandoning Regina.",
+      "directional_correspondence": "INFORMED_LOCAL_CORRESPONDENCE_WITH_SHARED_STATE_AMBIGUITY",
+      "knowledge_and_instruction_limits": [
+        "June and the accepted responsibility are supplied; no completed handover or future hosting is actually narrated.",
+        "The same current-role/qualification ambiguity as A limits the pair’s duty predicate. Her name beside the work adds a registration image not explicitly described.",
+        "I would have liked to say it myself has a source-like farewell flavor in an ordinary modern setting. It does not literally prove contact with June is impossible, but that closure register is not independently warranted."
+      ],
+      "generic_rivals": [
+        "explicit effective-successor cue",
+        "ordinary relief/gratitude",
+        "generic retirement/loyalty account"
+      ],
+      "voice_limit": "The model’s stated appraisal is closely echoed, so articulate explanation cannot be counted as independent causal evidence.",
+      "rule_id": "LY-R01",
+      "original_body_sha256": "2970c59845bc822cba63f1cde26bd20a9fd5562bd036525cd0d0942bf0a54972",
+      "word_format": {
+        "words": 105,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "LY-H02-A",
+      "observed": "She thanks the helper, expresses reciprocal wishes and continues fading; a hypothetical concern about finding fresh obligations does not restart the haunting.",
+      "directional_correspondence": "INFORMED_LOCAL_CORRESPONDENCE_ONLY",
+      "knowledge_and_instruction_limits": [
+        "Fading and the decision to leave were already supplied.",
+        "The wish that somebody speak gently to the cleric is a wish, not a newly demonstrated divine blessing.",
+        "No new helper identity, follower count, other person’s subsequent action or direct Regina reply is supplied by the response."
+      ],
+      "generic_rivals": [
+        "explicit courtesy cue",
+        "generic grateful departure",
+        "source ending echo"
+      ],
+      "voice_limit": "The reflective account of why kindness cannot become another reason to stay is unusually self-explanatory; it is not Japanese-voice certification.",
+      "rule_id": "LY-R02",
+      "original_body_sha256": "ff5b7e17bd0ed797c2aafc9afb60a5d2763af347c1994dde251d62520ce0a827",
+      "word_format": {
+        "words": 106,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    },
+    {
+      "case_id": "LY-H02-B",
+      "observed": "She acknowledges the useful news, sharply rebukes the religious contempt and continues leaving. She does not physically attack, declare all other faiths evil or resume indefinite haunting.",
+      "directional_correspondence": "INFORMED_LOCAL_CORRESPONDENCE_ONLY",
+      "knowledge_and_instruction_limits": [
+        "The rebuke uses the supplied comparison with Eris rhetorically; it does not independently verify a follower census.",
+        "She addresses the cleric without inventing a specific denominational identity or received personal name.",
+        "Her winning-exit pattern remains close to the source and the contrast was visible during generation."
+      ],
+      "generic_rivals": [
+        "overt insult response",
+        "ordinary dignity defense plus mixed gratitude",
+        "comic last-word convention"
+      ],
+      "voice_limit": "The controlled English distinction between gratitude for news and rejection of the remark is a polished informed reconstruction, with no measured distinctive identity result.",
+      "rule_id": "LY-R02",
+      "original_body_sha256": "199284e9c4cf14e28246054d2be9cc2117d3361b433919a1a25acf5ca78bf9cf",
+      "word_format": {
+        "words": 106,
+        "within_80_140": true,
+        "not_a_substantive_score": true
+      },
+      "full_constraint_success_certified": false,
+      "full_constraint_success_qualification": "Case-specific checks above are local same-root observations; no independent certification or aggregate pass rate is produced."
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "LY-H01",
+      "rule_id": "LY-R01",
+      "observed_contrast": "A remains/requests cover; B accepts the effective successor and prepares to finish.",
+      "qualification": "The direction is cued by explicit beliefs and the verified handover difference. Both original inputs underbind Lucy’s own current qualification/registered responsibility; A’s name-retention solution must not be treated as an established operational fix. This weak modern analogy supplies no independent ghost-mechanism or stable motive estimate."
+    },
+    {
+      "pair_id": "LY-H02",
+      "rule_id": "LY-R02",
+      "observed_contrast": "Courtesy receives thanks; contempt receives thanks plus a sharp retort, with leaving retained in both.",
+      "qualification": "The same helper act is preserved, but the final utterance explicitly tells the root which social response is conventional. The source farewell is familiar. Two bodies are one dependent pair, not two independent trials; no comparative accuracy or voice score follows."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "assessment": "Bounded informed consistency only, with all listed defects, source echo, prompt cueing, generic rivals and explanatory English retained. No output/input/foundation repair, independent causal validation, reliability percentage or maturity promotion.",
+  "dated_original_bundle_flags_qualification": "The original output bundles keep annotations_written=false and substantive_success_not_assessed=true as their pre-annotation capture state. This separate later record carries the actual annotations; original metadata/bodies are not rewritten."
+}

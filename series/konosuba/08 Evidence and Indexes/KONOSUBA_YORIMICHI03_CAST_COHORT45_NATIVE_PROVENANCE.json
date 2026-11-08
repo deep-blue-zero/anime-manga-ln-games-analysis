@@ -1,0 +1,222 @@
+{
+  "schema": "konosuba.cohort45.native-provenance.v1",
+  "authored_utc": "2026-10-25T06:31:34.644563+00:00",
+  "source_objects": [
+    {
+      "source_id": "YORI-03",
+      "source_filename": "Konosuba - Short Stories - Yorimichi 3.epub",
+      "bytes": 8547808,
+      "sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+      "OPF": "item/standard.opf",
+      "OPF_sha256": "12040c12ed763ce92a79672af51c70b99dde00b5e4099016eb17b43de5347563",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 25,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Metadata verifies the source object. Actual semantic receiving is separately pinned below."
+    },
+    {
+      "source_id": "EXP-03",
+      "source_filename": "Konosuba - Spin-off - Explosions - Volume 03.epub",
+      "bytes": 15716486,
+      "sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+      "OPF": "item/standard.opf",
+      "OPF_sha256": "0ea9a6adc67c7df5615cdf5de06abf57d8c6e97c78829eec52b94828c60083f5",
+      "language": [
+        "ja"
+      ],
+      "actual_OPF_spine_entries": 51,
+      "fresh_ZIP_CRC": "PASS",
+      "scope": "Metadata verifies the source object. Actual semantic receiving is separately pinned below."
+    }
+  ],
+  "YORI03": {
+    "object_sha256": "f60479bfe10ed8c7c0d36f0ad618dc3d1e17e65a167fa11b9519c34bf5042c0d",
+    "object_bytes": 8547808,
+    "OPF": "item/standard.opf",
+    "actual_OPF_spine_members": 25,
+    "actual_unique_P": 3006,
+    "actual_ruby": 2745,
+    "units": [
+      {
+        "file": "native-units01/YORI-03-U012.json",
+        "bytes": 179326,
+        "sha256": "3e499030280037c8aded2bcec2442b4f2db98d2a7636c9fa636df652fae9a3a9",
+        "source_id": "YORI-03",
+        "component_id": "YORI-03-U012",
+        "member": "item/xhtml/p-003.xhtml",
+        "member_sha256": "b6a5782ef40e34559ce8e97554e1d18e40ebc53317db6ea7007a6625f4e52e67",
+        "native_member_bytes": 82929,
+        "paragraph_slots": 517,
+        "planned_ranges": [
+          [
+            1,
+            517
+          ]
+        ],
+        "planned_unique_P": 517
+      },
+      {
+        "file": "native-units01/YORI-03-U014.json",
+        "bytes": 221035,
+        "sha256": "690a86a86e67af1dc0f2a17bb4fdab5c1caed2cbbd6ad7e67eb75e99c0345100",
+        "source_id": "YORI-03",
+        "component_id": "YORI-03-U014",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "1c9b56c0b569fc58ca8fb6b3e39a6be975f2e6f4efa15c0c9b596e7309eaf50a",
+        "native_member_bytes": 102151,
+        "paragraph_slots": 629,
+        "planned_ranges": [
+          [
+            1,
+            629
+          ]
+        ],
+        "planned_unique_P": 629
+      },
+      {
+        "file": "native-units01/YORI-03-U016.json",
+        "bytes": 190286,
+        "sha256": "1c677d8b5dcae840ad0aee1bdea04fd4f54ee4eb92dbde9ba3d0189a5e532de0",
+        "source_id": "YORI-03",
+        "component_id": "YORI-03-U016",
+        "member": "item/xhtml/p-007.xhtml",
+        "member_sha256": "3eed560af29844fcb7e28b0183e2c516e2b3753f48291b5b73d38d5f294c207e",
+        "native_member_bytes": 88496,
+        "paragraph_slots": 517,
+        "planned_ranges": [
+          [
+            1,
+            517
+          ]
+        ],
+        "planned_unique_P": 517
+      },
+      {
+        "file": "native-units01/YORI-03-U018.json",
+        "bytes": 157452,
+        "sha256": "eabd0e19df8fce75eb1f26e3f847e7101390814db26f968f9a60e7db2fc25371",
+        "source_id": "YORI-03",
+        "component_id": "YORI-03-U018",
+        "member": "item/xhtml/p-009.xhtml",
+        "member_sha256": "7ae6e46c92de1c52d9e71ecdffbcb40db8aa126fbb612b479bec218fd54dea0e",
+        "native_member_bytes": 71069,
+        "paragraph_slots": 461,
+        "planned_ranges": [
+          [
+            1,
+            461
+          ]
+        ],
+        "planned_unique_P": 461
+      },
+      {
+        "file": "native-units01/YORI-03-U020.json",
+        "bytes": 309431,
+        "sha256": "ee0ea78020567790284f665408498534d62e7744e51909551e57498b2b127910",
+        "source_id": "YORI-03",
+        "component_id": "YORI-03-U020",
+        "member": "item/xhtml/p-011.xhtml",
+        "member_sha256": "68468fc26f8799e2c66a9d428659f75e82c5fbbea1018d520c29585c88105685",
+        "native_member_bytes": 141084,
+        "paragraph_slots": 882,
+        "planned_ranges": [
+          [
+            1,
+            882
+          ]
+        ],
+        "planned_unique_P": 882
+      }
+    ],
+    "actual_native_review_pages": 66,
+    "complete_declared_paragraph_projections": true
+  },
+  "EXP03_return": {
+    "object_sha256": "22ee64b90d10075eec3769137e07bd59ee1815e22eb14f552326e9f4a06ffd87",
+    "object_bytes": 15716486,
+    "actual_unique_P": 181,
+    "actual_ruby": 151,
+    "units": [
+      {
+        "file": "explosions-identity-native01/EXP-03-U034.json",
+        "bytes": 25134,
+        "sha256": "6a80147e894b96aed6069a6ea54a35ace5750968dac50bfcc20993e3fad54d82",
+        "component_id": "EXP-03-U034",
+        "member": "item/xhtml/p-025.xhtml",
+        "member_sha256": "f67e8f5027c5bbd24e77d3495c3ea33c451f84d45da9bae18364347087b02c4b",
+        "native_member_bytes": 290196,
+        "member_paragraph_slots": 561,
+        "planned_ranges": [
+          [
+            485,
+            561
+          ]
+        ],
+        "planned_unique_P": 77
+      },
+      {
+        "file": "explosions-identity-native01/EXP-03-U045.json",
+        "bytes": 30284,
+        "sha256": "0b1c3cfb7aadf6eba424671d3e7aef4655429f810883d3397f83d116803af9e2",
+        "component_id": "EXP-03-U045",
+        "member": "item/xhtml/p-036.xhtml",
+        "member_sha256": "8ff72e2f28ea55435374a3f80975af85e14ddf9d76d5565800d9d5f76a35a3ea",
+        "native_member_bytes": 50999,
+        "member_paragraph_slots": 104,
+        "planned_ranges": [
+          [
+            1,
+            104
+          ]
+        ],
+        "planned_unique_P": 104
+      }
+    ],
+    "actual_native_review_pages": 4,
+    "earlier_global_read": true
+  },
+  "combined_current_unique_P": 3187,
+  "combined_current_ruby": 2896,
+  "source_receipts": [
+    {
+      "file": "COHORT45_PRIMARY_NATIVE_RECEIVING_01.json",
+      "sha256": "bd83b34edf4411a1fe71c87ae54f64bd274544bc82d1a6abe1262f60751942bf"
+    },
+    {
+      "file": "COHORT45_SPECIFIC_EVENT_IDENTITY_RETURN_RECEIVING_01.json",
+      "sha256": "c8562b39807f0ce0779ccdadbcf68b3181a5e358bd8e356cd04af8b22a8ed742"
+    }
+  ],
+  "existing_context_receipts": [
+    {
+      "file": "COHORT45_EXISTING_CONTEXT_RECEIVING_01.json",
+      "sha256": "ef09b1c7872bc16dc10ab448d40448569c710c253b489e740e2d12adbe9b3c5c"
+    },
+    {
+      "file": "COHORT45_ADAPTIVE_IDENTITY_CONTEXT_RECEIVING_01.json",
+      "sha256": "3bb4e2e0270a3f2bfb45347a34fc06a1cd697a89e40003e103fc83f3f6c4d5f4"
+    },
+    {
+      "file": "COHORT45_ADDITIONAL_STAFF_WAGER_RECEIVING_01.json",
+      "sha256": "f417cbef1aca23ebebb616ce6dea4a926697703597075ce76341bee42aa74d05"
+    },
+    {
+      "file": "COHORT45_ADDITIONAL_ROUTING_CONTEXT_RECEIVING_01.json",
+      "sha256": "ff8c2c5996d57e93e7caa9ba42fab05aaab4fbbdacd57ae856d1d99af7bdd790"
+    }
+  ],
+  "raw_native_text_in_public_artifact": false,
+  "current_images": 0,
+  "current_nonparagraph_residuals": 0,
+  "whole_edition_claim": false,
+  "global_new_source_first": false,
+  "independent_observation_count": null,
+  "technical_hashes_not_semantic_proof": true,
+  "foundation_accepted": false,
+  "canonical_changes": false,
+  "full_program_complete": false,
+  "prior_draft_sha256": "9bf7d2bfa6df99aef5915593b059dfdb23914aa5878bdd0e068e0c3432b58824",
+  "status_time_basis": "This document records the pre-freeze authorship state. Proposed tiers and false review/freeze/publication flags describe that point in time. Exact current acceptance and publication are recorded separately in the cohort receiving manifests and current census; these frozen foundation bytes are not retroactively rewritten."
+}

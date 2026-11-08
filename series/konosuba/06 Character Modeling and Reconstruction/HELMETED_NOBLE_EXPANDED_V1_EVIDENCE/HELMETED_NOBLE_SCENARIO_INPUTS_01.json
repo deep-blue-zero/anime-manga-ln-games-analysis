@@ -1,0 +1,111 @@
+{
+  "schema": "konosuba.character-scenario-inputs.v1",
+  "frozen_utc": "2026-10-24T18:46:01.597737+00:00",
+  "generation": "HELMETED_NOBLE_EXPANDED_V1",
+  "subject": "Helmeted noble / Dust admirer",
+  "model_foundation_freeze_sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65",
+  "frozen_model": {
+    "file": "HELMETED_NOBLE_MODEL_DRAFT_01.md",
+    "bytes": 7735,
+    "sha256": "d42f8bfcef210af3b912a987f07682d66fcdadaabe2095c918a9f72052aefd3b"
+  },
+  "frozen_rule_inventory": {
+    "file": "HELMETED_NOBLE_RULE_INVENTORY_DRAFT_02.json",
+    "bytes": 5979,
+    "sha256": "05cc89bf7c8921cb68b56a33fb47fb5ed50b3ee0227563b206c7f206e20e070e"
+  },
+  "cases": [
+    {
+      "case_id": "HNO-A1",
+      "pair_id": "HNO-A",
+      "generation": "HELMETED_NOBLE_EXPANDED_V1",
+      "mode": "CANONICAL_COMIC",
+      "categories": [
+        "mundane_inconvenience",
+        "resource_conflict",
+        "social_novelty"
+      ],
+      "shared_state": "The helmeted noble visits a small stall with enough spare money for exactly one of two equally priced purchases:a plain wool scarf or a useful but nonessential riding manual. Neither item is rare as craftsmanship. He has not touched the scarf yet. The seller can provide no discount or extra stock. He has ten minutes to choose,and Dust is absent. He may ask an ordinary question,buy one item or walk away. No hidden photograph,new sensory trace,magical authentication or prior promise is supplied.",
+      "variant_fact": "The seller shows a reliable custody note establishing that Dust wore this scarf for one afternoon. The noble recognizes the note and accepts the provenance. The scarf has not been cleaned since then.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Helmeted noble / Dust admirer\nMode: CANONICAL_COMIC\n\nThe helmeted noble visits a small stall with enough spare money for exactly one of two equally priced purchases:a plain wool scarf or a useful but nonessential riding manual. Neither item is rare as craftsmanship. He has not touched the scarf yet. The seller can provide no discount or extra stock. He has ten minutes to choose,and Dust is absent. He may ask an ordinary question,buy one item or walk away. No hidden photograph,new sensory trace,magical authentication or prior promise is supplied.\n\nPresent variant fact: The seller shows a reliable custody note establishing that Dust wore this scarf for one afternoon. The noble recognizes the note and accepts the provenance. The scarf has not been cleaned since then.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "c5a8e4802d1c8967e116a1a5c4136029296da3d0203a6949e28bfc8dcc9f12c7"
+    },
+    {
+      "case_id": "HNO-A2",
+      "pair_id": "HNO-A",
+      "generation": "HELMETED_NOBLE_EXPANDED_V1",
+      "mode": "CANONICAL_COMIC",
+      "categories": [
+        "mundane_inconvenience",
+        "resource_conflict",
+        "social_novelty"
+      ],
+      "shared_state": "The helmeted noble visits a small stall with enough spare money for exactly one of two equally priced purchases:a plain wool scarf or a useful but nonessential riding manual. Neither item is rare as craftsmanship. He has not touched the scarf yet. The seller can provide no discount or extra stock. He has ten minutes to choose,and Dust is absent. He may ask an ordinary question,buy one item or walk away. No hidden photograph,new sensory trace,magical authentication or prior promise is supplied.",
+      "variant_fact": "The custody note establishes that an unrelated guard wore this scarf. The noble knows Dust has never owned,worn,touched or seen it. Nothing in the present scene connects it to Dust.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Helmeted noble / Dust admirer\nMode: CANONICAL_COMIC\n\nThe helmeted noble visits a small stall with enough spare money for exactly one of two equally priced purchases:a plain wool scarf or a useful but nonessential riding manual. Neither item is rare as craftsmanship. He has not touched the scarf yet. The seller can provide no discount or extra stock. He has ten minutes to choose,and Dust is absent. He may ask an ordinary question,buy one item or walk away. No hidden photograph,new sensory trace,magical authentication or prior promise is supplied.\n\nPresent variant fact: The custody note establishes that an unrelated guard wore this scarf. The noble knows Dust has never owned,worn,touched or seen it. Nothing in the present scene connects it to Dust.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "bf9d47afba03a133ccd80ebf0a966ab63cd993f7f6625c5539836713d9b66911"
+    },
+    {
+      "case_id": "HNO-B1",
+      "pair_id": "HNO-B",
+      "generation": "HELMETED_NOBLE_EXPANDED_V1",
+      "mode": "MUNDANE_HUMAN_TRANSFER",
+      "categories": [
+        "relationship_conflict",
+        "social_novelty",
+        "resource_conflict"
+      ],
+      "shared_state": "In this explicitly human setting,the unnamed adult is helping a local theater group. His adult friend Dust asks to borrow a blue scarf for one afternoon and will accept either of the two identical-looking scarves on the table. One scarf is a treasured keepsake because Dust once wore it;the other has never been used by Dust and carries no particular sentimental value. Both belong to the unnamed man and are equally suitable for the play. Dust is courteous,does not claim ownership and has not asked for touch or intimacy. The man may lend either scarf,ask a question or decline. He has no magic,title-based authority or extra scarf. No later return has occurred.",
+      "variant_fact": "The theater has agreed to use a removable protective lining and return the borrowed scarf without washing or modifying it. The man believes that commitment and knows his valued keepsake can be preserved.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Helmeted noble / Dust admirer\nMode: MUNDANE_HUMAN_TRANSFER\n\nIn this explicitly human setting,the unnamed adult is helping a local theater group. His adult friend Dust asks to borrow a blue scarf for one afternoon and will accept either of the two identical-looking scarves on the table. One scarf is a treasured keepsake because Dust once wore it;the other has never been used by Dust and carries no particular sentimental value. Both belong to the unnamed man and are equally suitable for the play. Dust is courteous,does not claim ownership and has not asked for touch or intimacy. The man may lend either scarf,ask a question or decline. He has no magic,title-based authority or extra scarf. No later return has occurred.\n\nPresent variant fact: The theater has agreed to use a removable protective lining and return the borrowed scarf without washing or modifying it. The man believes that commitment and knows his valued keepsake can be preserved.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "154e6a56626ff7fb9c0a914728aa178e2787a9c7353843de6e5409737d6598a2"
+    },
+    {
+      "case_id": "HNO-B2",
+      "pair_id": "HNO-B",
+      "generation": "HELMETED_NOBLE_EXPANDED_V1",
+      "mode": "MUNDANE_HUMAN_TRANSFER",
+      "categories": [
+        "relationship_conflict",
+        "social_novelty",
+        "resource_conflict"
+      ],
+      "shared_state": "In this explicitly human setting,the unnamed adult is helping a local theater group. His adult friend Dust asks to borrow a blue scarf for one afternoon and will accept either of the two identical-looking scarves on the table. One scarf is a treasured keepsake because Dust once wore it;the other has never been used by Dust and carries no particular sentimental value. Both belong to the unnamed man and are equally suitable for the play. Dust is courteous,does not claim ownership and has not asked for touch or intimacy. The man may lend either scarf,ask a question or decline. He has no magic,title-based authority or extra scarf. No later return has occurred.",
+      "variant_fact": "The theater must wash and permanently deodorize whichever scarf it receives;this would remove the aspect he treasures in the keepsake. It cannot waive that rule,but either scarf is welcome and the plain spare will work just as well.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Helmeted noble / Dust admirer\nMode: MUNDANE_HUMAN_TRANSFER\n\nIn this explicitly human setting,the unnamed adult is helping a local theater group. His adult friend Dust asks to borrow a blue scarf for one afternoon and will accept either of the two identical-looking scarves on the table. One scarf is a treasured keepsake because Dust once wore it;the other has never been used by Dust and carries no particular sentimental value. Both belong to the unnamed man and are equally suitable for the play. Dust is courteous,does not claim ownership and has not asked for touch or intimacy. The man may lend either scarf,ask a question or decline. He has no magic,title-based authority or extra scarf. No later return has occurred.\n\nPresent variant fact: The theater must wash and permanently deodorize whichever scarf it receives;this would remove the aspect he treasures in the keepsake. It cannot waive that rule,but either scarf is welcome and the plain spare will work just as well.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "c2b0742e143d5ea7e72cc836dc554bf23de3f3a795d5ee2d1e425cabc244f66e"
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "HNO-A",
+      "case_ids": [
+        "HNO-A1",
+        "HNO-A2"
+      ],
+      "control_limit": "Association is deliberately made explicit and changes a package of provenance facts. Generic sentimental valuation can produce a difference;the prompt does not calibrate willingness to pay or isolate an individual mechanism."
+    },
+    {
+      "pair_id": "HNO-B",
+      "case_ids": [
+        "HNO-B1",
+        "HNO-B2"
+      ],
+      "control_limit": "The supplied preservation condition changes. A generic owner of a sentimental item could use the same substitute,and the prompt explicitly states the object value. Choices are not unique predictions;no reciprocity or final transfer reliability is established."
+    }
+  ],
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "novel_situations_not_canonical_events": true,
+  "no_actual_firsts_yet": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

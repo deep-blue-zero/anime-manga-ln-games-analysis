@@ -1,0 +1,16 @@
+{
+  "series_id": "silent-witch",
+  "stable_slug": "silent-witch",
+  "canonical_title": "Silent Witch: Secrets of the Silent Witch",
+  "media": [
+    "LIGHT_NOVEL"
+  ],
+  "repository_path": "series/silent-witch/",
+  "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_SILENT_WITCH_BOOTSTRAP_V1",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Owner-accepted Japanese-LN foundation, architecture STABILIZED at completion; V01 byte-locked with locally retained, reverified locators. Japanese LN V01 to V12 and the companions IV -after-, IX -extra- and both -another- volumes read in full and closed; continuous sequential run through all supplied Japanese works authorized 2026-10-14 and complete; master ledger reconciled; high-water mark -another- (lower); checkpoint, longitudinal reconciliation, three specialist arguments, four character monographs, relationship arguments, integrated synthesis and reconstruction-readiness assessment closed at author level; no reconstruction model. Primary and deterministic derived evidence remain outside Git."
+}

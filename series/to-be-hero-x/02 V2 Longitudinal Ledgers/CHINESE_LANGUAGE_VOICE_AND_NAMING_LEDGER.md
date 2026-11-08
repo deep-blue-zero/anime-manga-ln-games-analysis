@@ -8,7 +8,7 @@ generation: V2
 phase: 2
 tranche: 03A
 status: canonical
-source_boundary: Mandarin hardsub reconstruction and visible Chinese text through E24; aligned Japanese captions as secondary witness; official multilingual naming sources used only for crosswalk reconciliation
+source_boundary: Mandarin hardsub reconstruction and visible Chinese text through E24; aligned Japanese captions as secondary witness; official multilingual naming sources used only for crosswalk reconciliation; E01 and E10 post-freeze native hardsub samples under TBHX-AV-E01-001 and TBHX-AV-E08-001
 primary_language: Mandarin Chinese
 audio_status: Complete synchronized Mandarin audio exists in the episode bundles; T03A stabilizes lexical/register evidence but does not claim a fresh full-season acoustic audition
 crosswalk_file: TBHX_NAME_LOCALIZATION_CROSSWALK.md
@@ -16,7 +16,7 @@ naming_policy_revision: 2026-08-16_phase2_t03a_first_systematic_audit
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-16
+last_updated: 2026-10-25
 ---
 
 # Chinese Language, Voice, and Naming Ledger
@@ -317,7 +317,7 @@ A publication-grade Chinese quotation requires:
 - proper-noun check against visible text or crosswalk;
 - explanation of any material Japanese divergence.
 
-The alignment-exception records below remain active. Plausible OCR is not automatically quotation-grade.
+The alignment-exception records below remain historical evidence. The current E01 correction below supersedes ALE-001’s mismatch diagnosis; the other exceptions retain their stated limits. Plausible OCR is not automatically quotation-grade.
 
 ## 13. What T03A resolves
 
@@ -346,6 +346,26 @@ Remain open:
 - whether future material revises the official names or makes currently private/public distinctions obsolete.
 
 Future acoustic work must not be simulated from subtitle punctuation or translated dialogue.
+
+### E01 received-source correction — 2026-10-25
+
+`TBHX-AV-E01-001` / `ALE-001`: **REVISE** the earlier diagnosis that legacy Chinese cue 134 pairs eye-color dialogue with unrelated Japanese Trust speech. Native WEB source samples at 08:02.000 show `眼睛的颜色都变了`, at 08:04.000–08:05.000 `头发和声音都和奈斯一模一样了`, at 08:09.000 `信赖建立需要花费巨大精力`, and at 08:13.000 `而摧毁它只是弹指一挥间`. Several changing Chinese hardsubs occur inside the overlong reconstructed interval. The Japanese Trust passage can therefore correspond to omitted Chinese material; the retained first caption cannot establish a cross-track semantic mismatch by itself.
+
+This correction rests on individual native stills, not a fresh Mandarin audition or a frame-exact reconstruction of every cue boundary. The granular handoff’s §5.2 recognizes the omitted Trust discourse, while its compact summary and curated repair propose different lines. Do not promote that inconsistent full replacement transcript. Preserve the historical ALE-001 wording below and consult the [E01–E04 handoff audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E01-E04_GEMINI_AV_HANDOFF_AUDIT.md) for the source-qualified revision. Document 17’s current alignment discussion follows this correction.
+
+### E10 received-source qualification — 2026-10-25
+
+`TBHX-AV-E08-001` / historical `CL-E10-09`: **REVISE** the source-specific claim that the formal naming scene displays `恐惧粒子`. Native WEB23:49.000 shows `联合会正式把它命名为`, and WEB23:50.200 displays **`恐惧`**, without `粒子`. This narrows what this scene names; it does not disprove particle language elsewhere or collapse Fear, Fear Value and material manifestations into one term. Preserve the older prospective entry below as history. The [E08–E10 audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E08-E10_GEMINI_AV_HANDOFF_AUDIT.md) also records native Chinese text for the self-strengthening/passive-maiden persona contrast and charity-performance proposal; these are displayed-text witnesses, with exact speaker/acoustic performance still qualified.
+
+### E05–E07 received-source correction — 2026-10-24
+
+`TBHX-AV-E06-001`: the E06 Chinese rain passage (WEB 21:10.88–21:27.25; corrected cues 413–419) conditions wholehearted support on honest self-facing and negates indefinite waiting if he cannot. `但是` is displayed. The actual aligned Japanese lines 337–340 retain the affirmative waiting commitment; preserve that localization difference rather than letting it govern Mandarin meaning. Acoustic delivery remains unauditioned by Codex.
+
+The native E06 introduction/addresses and E07 caller-ID screenshot 000296 at source 05:03.167 read **启士**, preserving crosswalk `NM-005`; the producer's claimed phone `启示` is rejected. Homophonic audio cannot choose glyphs. Preserve **岩莫 / Yan Mo / Rock** and address **岩叔** (`NM-017/018`). E05 corrected cue 274 / audio ledgerL-009 is a false name repair: native 11:39.500 shows **尚超** and Shang Chao, not `严谟先生`. Do not admit it as a written Yan variant or infer an executive title from it.
+
+E07 cues 227–235 preserve calls of **尚超 / 夏晴**, confession, VIP invitation, and Yang's no-more-hesitation line. A Yang-centered recollection is not Yang voicing every line. Pictured helmeted Shang and Japanese speaker tags support Shang for VIP/call context; exact Mandarin turns remain an audio obligation. The derived ASS `Name` statuses are QA metadata, not speakers. Audio-ledger exact-match defaults are not an audition receipt. The agency-name insertion at E06-WEB 13:15.50–13:17.62 remains OPEN rather than causing a canonical institutional renaming.
+
+Source hashes, actual witness identities, rejected report claims, and cue-number corrections are in [formal audit §§2–3/5/7/9](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md). This is a current-source qualification; the prospective entries below remain preserved.
 
 ## 15. Prospective episode ledger — preserved
 

@@ -1,0 +1,76 @@
+{
+  "schema": "silent-witch/bootstrap-path-manifest/v1",
+  "bootstrap_generation": "SW_BOOTSTRAP_V1",
+  "created_on": "2026-10-12",
+  "repository": "deep-blue-zero/anime-manga-ln-games-analysis",
+  "branch": "series/silent-witch",
+  "base_commit": "0ed395926cca502fe1461d8c172330baab99e70e",
+  "canonical_entrypoint": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "governing_method": "series/silent-witch/00 Frameworks and Methods/SW_ANALYTICAL_METHOD.md",
+  "governing_method_status": "canonical",
+  "synthesis_architecture": "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+  "synthesis_architecture_status": "canonical",
+  "architecture_lifecycle": "INITIAL",
+  "required_day_one_infrastructure": [
+    "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+    "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md"
+  ],
+  "required_day_one_infrastructure_initialized": true,
+  "sequential_analysis_lock": "CLOSED",
+  "substantive_sequential_findings_at_bootstrap": false,
+  "analyzed_units": [],
+  "frozen_units": [],
+  "next_permitted_operation": "Owner review/acceptance; separately authorize V01 source lock and opening the sequential gate after validation.",
+  "authored_paths": [
+    {
+      "path": "series/silent-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "responsibility": "One canonical first-read route, initialization gate, progress and permission state."
+    },
+    {
+      "path": "series/silent-witch/00 Frameworks and Methods/SW_ANALYTICAL_METHOD.md",
+      "responsibility": "Japanese-primary literary inspection, coverage, epistemic classifications and atomic closure."
+    },
+    {
+      "path": "series/silent-witch/00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+      "responsibility": "Accumulation, artifact ownership, specialist responsibilities, dependencies and completion gates."
+    },
+    {
+      "path": "series/silent-witch/00 Frameworks and Methods/SW_CHARACTER_RECONSTRUCTION_METHOD.md",
+      "responsibility": "Future continuity/state/domain models, diagnostic sampling and validation."
+    },
+    {
+      "path": "series/silent-witch/00 Frameworks and Methods/SW_VOLUME_READING_TEMPLATE.md",
+      "responsibility": "Reusable substantial volume-reading output contract; no actual source reading."
+    },
+    {
+      "path": "series/silent-witch/01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+      "responsibility": "Qualified 16-object source inventory, witness/admission lanes, exclusions and recovery."
+    },
+    {
+      "path": "series/silent-witch/03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+      "responsibility": "Sole pre-split cumulative state and revision/readiness schemas; zero narrative records."
+    },
+    {
+      "path": "series/silent-witch/08 Audits and Manifests/SW_BOOTSTRAP_REPORT.md",
+      "responsibility": "Historical observed precedents, design decisions, access/check receipt and remaining gates."
+    },
+    {
+      "path": "series/silent-witch/08 Audits and Manifests/SW_BOOTSTRAP_PATH_MANIFEST.json",
+      "responsibility": "Exact ten-path authoring/staging scope and machine-recoverable bootstrap identity."
+    },
+    {
+      "path": "series/silent-witch/.repository/series-registry.json",
+      "responsibility": "Desired new-series routing row for designated housekeeping."
+    }
+  ],
+  "excluded_author_outputs": [
+    "series/registry.json",
+    "studies/registry.json",
+    "series/README.md",
+    "studies/README.md",
+    "governance/MANGA_ANIME_CORPUS_INDEX.md",
+    "characters/registry.jsonl",
+    "CHARACTER_ANALYSIS_INDEX.md"
+  ],
+  "publication_state_at_manifest_creation": "NOT_YET_COMMITTED_OR_PUSHED"
+}

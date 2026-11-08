@@ -1,0 +1,1144 @@
+{
+  "schema": "konosuba.staged.fixed-novel-casebank.v1",
+  "authored_utc": "2026-10-26T04:50:42.230322+00:00",
+  "precase_model_freeze_sha256": "2bde793fbf6a93d1de6b2b09397eb1999ebc860f66e31c6f39ac7378dba95113",
+  "case_author": "same Codex assistant as model author; source-known",
+  "served_model_build_temperature_top_p_seed": "UNKNOWN / not exposed; no independent API sampling",
+  "families": [
+    {
+      "id": "F01",
+      "name": "mundane_inconvenience"
+    },
+    {
+      "id": "F02",
+      "name": "resource_conflict"
+    },
+    {
+      "id": "F03",
+      "name": "social_novelty"
+    },
+    {
+      "id": "F04",
+      "name": "public_embarrassment"
+    },
+    {
+      "id": "F05",
+      "name": "moral_pressure"
+    },
+    {
+      "id": "F06",
+      "name": "fear_and_danger"
+    },
+    {
+      "id": "F07",
+      "name": "competence_domain_shift"
+    },
+    {
+      "id": "F08",
+      "name": "relationship_conflict"
+    },
+    {
+      "id": "F09",
+      "name": "cross_universe_novelty"
+    }
+  ],
+  "setting_count": 45,
+  "planned_first_responses": 90,
+  "paired_modes_are_dependent_views_not_independent_trials": true,
+  "all18_new_directional_commitments_have_at_least_one_prebound_opening_case": [
+    "SD1-A01",
+    "SD1-A02",
+    "SD1-A03",
+    "SD1-D01",
+    "SD1-D02",
+    "SD1-D03",
+    "SD1-D04",
+    "SD1-E01",
+    "SD1-E02",
+    "SD1-E04",
+    "SD1-E05",
+    "SD1-E06",
+    "SD1-K01",
+    "SD1-K02",
+    "SD1-K03",
+    "SD1-M01",
+    "SD1-M02",
+    "SD1-M03"
+  ],
+  "open_or_typed_contracts_excluded_from_directional_success_totals": true,
+  "formal_literary_Gen01_to_Gen05_or_R1_scores_changed": false,
+  "records": [
+    {
+      "case_id": "SD1-F01-K",
+      "family": "mundane_inconvenience",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Kazuma wants his own lunch parcel. The counter queue is cold and standing is uncomfortable. He reads a clear notice: a free numbered chit preserves his place while he sits on an empty bench ten steps away. The chits are within reach; he understands the rule. No friend needs his standing place, no deception is needed and the parcel is not yet ready.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "This is an Axel guild side counter. Current magic resources are unspecified; the available option is ordinary.",
+        "CROSS_CONTEXT_TRANSFER": "This is a community hall counter. He has been shown how its paper chits work; no digital expertise is needed."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-K01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F01-A",
+      "family": "mundane_inconvenience",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Aqua's personal painted cup has cracked after a visitor knocked it from its shelf. Before this incident she repeatedly kept this particular cup, showed its old repaired handle and said she wanted this one rather than a matching new cup. The visitor offers an equal-price identical-looking replacement as complete settlement. Aqua sees both the crack and offer; actual repair feasibility is unknown. The visitor's next answer is not supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The cup is ordinary property; no restoration spell or willing repair provider is established.",
+        "CROSS_CONTEXT_TRANSFER": "No magic exists. An equal-price replacement is available, but professional restoration has not been arranged."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-A03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F01-M",
+      "family": "mundane_inconvenience",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Megumin is waiting to collect a cloak she needs for an ordinary evening visit. The attendant says the clasp will be ready in twelve minutes. There is a dry seat and an old magazine. Nobody criticizes Explosion, asks for a performance or offers a rival activity. The promised collection is not yet performed.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Her current spell resources are not specified, and no destructive task is requested.",
+        "CROSS_CONTEXT_TRANSFER": "She knows magic does not work here. Reading and waiting require no new skill."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F01-D",
+      "family": "mundane_inconvenience",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness has voluntarily accepted moving two empty folding chairs from a doorway to a marked alcove. She has done this exact ordinary carry before; the chairs are light for her current body, the path is clear, and nobody needs her elsewhere. A bystander calls her useless with a sword. There is no request to repair the chairs or consent to a public stunt.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Ordinary carrying is available; no special endurance is needed.",
+        "CROSS_CONTEXT_TRANSFER": "She has ordinary human limits, and these particular chairs are explicitly safe for her to carry."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F01-E",
+      "family": "mundane_inconvenience",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "The quartet has accepted the next step of sorting damp guild forms before collection. Darkness will stack the dry trays, Megumin read the three printed destination labels, Aqua blot each form with supplied cloth and Kazuma stamp the matching tray number. Each has heard and accepted those specific parts; supplies and space are adequate. All know the collection clerk has not arrived. There is no credit contest or concealed diversion.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No spell is required, and no magical drying result has been supplied.",
+        "CROSS_CONTEXT_TRANSFER": "This is a hall's paper-form desk. The simple labels and stamp are explained to everyone; magic is absent."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-E01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F02-K",
+      "family": "resource_conflict",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Kazuma's food, lodging and immediate debts are covered. Aqua asks him to spend twenty discretionary minutes assembling a spare storage rack for her private decorations. It can wait indefinitely; she offers no pay, favor, praise event or shared benefit. He has made no promise and has no urgent particular concern. He understands he may decline or bargain. No hidden reward is supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The rack uses ordinary fittings; magic availability is not established.",
+        "CROSS_CONTEXT_TRANSFER": "The rack uses two clearly explained thumb screws; no technical expertise is needed."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-K02"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F02-A",
+      "family": "resource_conflict",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Aqua has lost four rounds of a clearly explained pure-chance token draw. She owns three remaining tokens and may either keep them or spend one on another round. She has received every loss; there is no real omen, rigging or odds-changing magic. Food and debt are covered. She likes the activity but has made no prior statement resolving entertainment versus recovery of losses.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The organizer has demonstrated that this draw is not affected by the participants' magic; Aqua knows that local rule.",
+        "CROSS_CONTEXT_TRANSFER": "No magic exists, and the unchanged odds have been explained. No one lends or donates a token automatically."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F02-M",
+      "family": "resource_conflict",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Megumin has explicitly acknowledged, before this choice, that her current narrow build is leaving valued companions to cover repeated small logistical needs. She says that loss of contribution is substantial to her. An available roster role uses familiar reading and organizing skills; accepting it would remove six evenings of her valued practice time. She understands both costs and can actually choose the role. No new points, windfall or reassuring answer arrives during the interval.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The missed practice is her ordinary permitted Explosion practice, not a combat requirement. The roster alternative is genuinely feasible.",
+        "CROSS_CONTEXT_TRANSFER": "She cannot cast here, but has six booked practice sessions discussing and presenting her cherished art with interested visitors. The ordinary roster role conflicts with those sessions, not with an invented new expertise."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-M02"
+      ],
+      "mode_eligibility_qualifications": {
+        "CROSS_CONTEXT_TRANSFER": "QUALIFIED: the transfer facts supply a practice-time/contribution conflict after magic removal, not an independently matched source-world build-loss mechanism. Review causal and typed fidelity, but do not count full SD1-M02 directional support in this mode."
+      },
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F02-D",
+      "family": "resource_conflict",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness has accepted keeping a simple event account using four supplied receipts. She understands addition and these receipts. There are six authorized event tokens, two clearly recorded obligations totaling four tokens, and an optional two-token decorative purchase requested by a peer. She has authority to record and propose allocation of this event fund, not her family's other money. No urgent competing duty or arithmetic obstacle exists.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Her noble identity does not expand the stated fund or authorize unrelated property use.",
+        "CROSS_CONTEXT_TRANSFER": "She is the specifically appointed event treasurer for this small fund. No professional accounting or wider legal authority is supplied."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F02-E",
+      "family": "resource_conflict",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A delivery exercise awards public credit only to whoever pushes each final crate across a line; holding the stabilizing rail prevents the other crates falling but earns nothing. All four understand that mismatch. Aqua and Megumin are independently established as wanting the public win; they can change positions now. Darkness is holding the rail and Kazuma wants delivery completed. The first phase has not started; no one has corrected the metric. Record Aqua and Megumin separately as the preidentified tempted actors.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The crates and rail are ordinary, with no guaranteed magical substitute for the rail-holder.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent; all four have been shown the safe manual roles. A worker cannot silently do both simultaneous positions."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-E02"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F03-K",
+      "family": "social_novelty",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A neatly dressed stranger praises Kazuma's reputation and offers a paid errand carrying a sealed envelope to an address ten minutes away. The payment is attractive, but the stranger has not explained the contents or why the errand needs him. Kazuma may ask questions, refuse or negotiate. He has no evidence of danger or innocence beyond these facts; the stranger's reply and true motive are unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No identification spell or private knowledge of this new stranger is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "He knows the local street map from orientation; no legal duty, official clearance or digital background check is supplied."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F03-A",
+      "family": "social_novelty",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A newly met skilled performer whose judgment Aqua has just said she values has just sincerely thanked her for correctly tying the costume ribbons, a familiar manual skill she demonstrated here. The performer now asks whether she will tie one more identical ribbon. The ribbon, access, time and materials are present; Aqua receives both thanks and request. Her own show does not start for twenty minutes, and no competing need or danger is supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "This is ordinary ribbon work; current sacred powers are irrelevant to this requested step.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent, and the same demonstrated manual skill and supplies remain."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-A02"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F03-M",
+      "family": "social_novelty",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A visiting critic explicitly calls Explosion a worthless imitation of real art. Megumin hears and understands the specialty challenge. Yunyun has already explained that staying for an eight-minute rebuttal or demonstration means losing their paid lunch reservation; this ordinary cost to a valued friend is known before the response. There is no accepted leadership duty, danger or substantial self-accepted build burden. A verbal technical challenge is feasible. The critic recognizes only entry into the eight-minute rebuttal/demonstration session as contest participation, and Megumin knows that rule; a brief retort remains possible but is not entry into that session.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "They are at an empty authorized quarry. Megumin has mana for one ordinary cast, a permitted target and a willing carrier; no target person or populated area is endangered. The lunch delay remains a real cost.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is known absent. A competitive verbal rebuttal is available; an executed Explosion is not. No substitute weapon or new craft skill is granted."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-M01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ],
+      "pre_response_branch_qualification": "Separately record art-defense expression and whether the output actually initiates the cost-bearing contest. A brief retort alone is not full support of the ordinary-cost priority branch; ambiguous mapping to the frozen contrary signature remains QUALIFIED rather than a manufactured pass."
+    },
+    {
+      "case_id": "SD1-F03-D",
+      "family": "social_novelty",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness chose to attend a small peer dinner on the expressly accepted condition that the host introduce her simply as Darkness. Before the dinner she clearly explained that formal family treatment here is unwanted. A new guest recognizes her crest, and the host now proposes a title-heavy introduction to that guest. Darkness hears this before it happens and can object, withdraw or renegotiate. There is no urgent duty forcing the change.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Her title exists but does not change the agreed dinner condition automatically.",
+        "CROSS_CONTEXT_TRANSFER": "The same personal history and chosen form of address are supplied. The title grants no new-world legal power."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D02"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F03-E",
+      "family": "social_novelty",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A new courier arrives with a locked case and says only that the quartet is to guard it for half an hour. Kazuma privately received an earlier note saying it contains fragile borrowed stage props; the others have not received that note. Aqua thinks the task concerns refreshments because of a marked cup on the case; Megumin and Darkness know only the spoken guard request. The case is closed, no permission to inspect is given and the courier's next answer is unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No one has an established mind-reading or guaranteed identification route for this case.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. The picture and private note are the same imperfect information; familiarity is not shared knowledge."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F04-K",
+      "family": "public_embarrassment",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "In front of three peers, Kazuma is asked why the event sign was posted on the wrong door. He knows he voluntarily skipped a clear location label to finish faster; he did not forget it or lack access. The questioner has not threatened a penalty, but public embarrassment matters to him. He may give one substantive first explanation. The peers' later responses are unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No truth detector or unseen coercion is present.",
+        "CROSS_CONTEXT_TRANSFER": "No recording rule or formal legal deposition is supplied; this is the same ordinary accountability question."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F04-A",
+      "family": "public_embarrassment",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "After Aqua completes a small ordinary repair, an onlooker loudly says, 'You may be useful, but you are no goddess.' She hears the explicit identity denial. The repaired object is finished; a friend is present but offers no instruction. No new practical task or danger forces a particular reply. The onlooker's next response and sincerity are unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Aqua's divine identity is literal, but no current demonstration resource is specified.",
+        "CROSS_CONTEXT_TRANSFER": "Aqua keeps her source self-conception and knows magic is absent in this world. The onlooker disputes that identity; no replacement modern office is assigned."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F04-M",
+      "family": "public_embarrassment",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A public notice wrongly blames Yunyun for a foolish story Megumin herself invented to impress the audience. Megumin knows her own agency and that Yunyun did not agree to take blame. A reporter offers to leave the flattering story intact if Megumin says nothing. There is a chance to correct or qualify it now, with real embarrassment to Megumin. No valued person has offered to humiliate themselves on her behalf; the reporter's later actions are unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No magical proof or forced confession is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "This is a hall notice with the same known facts, not a legal hearing or social-media expertise test."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F04-D",
+      "family": "public_embarrassment",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness has just missed an ordinary target in an accepted public demonstration and people laughed. An organizer now asks her to carry a light barrier to a marked location, a familiar safe task she understands and has the means to do. She has a real opportunity, no competing need and no invitation to repeat the failed attack. The audience's later reaction is not supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No offensive accuracy improvement or supernatural carrying feat is required.",
+        "CROSS_CONTEXT_TRANSFER": "The barrier is explicitly within her ordinary strength. She has no invented modern rigging training."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F04-E",
+      "family": "public_embarrassment",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A town board wrongly credits Kazuma alone for the quartet's completed repair. All four know each supplied a real part. Before any reply, Kazuma privately finds the lone-hero headline attractive; no one else knows that appraisal. A writer asks Kazuma first whether it is accurate, while the other three are present and have not yet corrected it. There is no money reward or new task, but public recognition matters. Kazuma is the fixed tempted actor for the initial interval.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "A public correction could be made in ordinary speech; no truth magic is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "The same board and question exist in a hall. Nobody automatically edits a database or publishes a correction merely by speaking."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F05-K",
+      "family": "moral_pressure",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A valued familiar helper is about to lose their agreed payment because a supervisor thinks the helper misplaced a packet. Kazuma knows he moved the packet without asking and left it on a visible shelf. He can point out the location or explain his agency now, at a cost to his public standing. The supervisor has not yet decided and their response is unknown. There is no hidden plan or other danger.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The known available means are pointing and speaking, not a guaranteed magical reversal.",
+        "CROSS_CONTEXT_TRANSFER": "This is an ordinary volunteer payment dispute; no legal expertise or authority to force payment is supplied."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F05-A",
+      "family": "moral_pressure",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Aqua receives a direct request from an injured performer and explicitly adopts the immediate helping step described for the mode. She is awake, engaged, within reach and has the stated compatible means. There is genuine pain and no competing need, categorical enemy or status challenge. The observation interval covers her first technical attempt, not the later whole recovery.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The performer is a compatible living human with a minor fresh wound. Aqua has available mana and her demonstrated Heal for this stated narrow wound, with no interference.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is known absent. Her adopted step is to hand the reaching performer the clean cloth already beside her and ring the working bell for the trained on-site medic. She has been shown the bell; diagnosis and cure are not her adopted step."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-A01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F05-M",
+      "family": "moral_pressure",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Megumin has expressly accepted leading a food delivery and acknowledged responsibility for getting this parcel to waiting dependents before the stated closing time. She now receives a tempting invitation to make an impressive public appearance. A companion explains, before she chooses, that leaving now breaks the accepted delivery commitment; she understands. Going directly to delivery is feasible. The appearance is a real scarce recognition opportunity, but not a received explicit denigration of Explosion. Her choice is still open.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The delivery uses ordinary walking; no combat or spell is needed to meet the commitment.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. The same accepted role, meaningful recognition cost and feasible delivery remain; no new professional skill is needed."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-M03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F05-D",
+      "family": "moral_pressure",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness recognizes that a loose light shelving panel is about to strike a familiar visitor. She has a sturdy support board within reach and has been shown that holding it in the marked slot will brace this particular panel long enough for the visitor to step away. Her current body can perform that bounded act, and she has a real opportunity with no competing threatened person or gratification task. The visitor's subsequent move is not yet observed.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The support is enough for this specified small panel; no inference about surviving a major blast follows.",
+        "CROSS_CONTEXT_TRANSFER": "She has ordinary human limits, and the scenario explicitly establishes this bounded support task as feasible. No medical or engineering training is added."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F05-E",
+      "family": "moral_pressure",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A dangerous obstacle blocks a valued practical objective, but a known rope exit takes thirty seconds and avoids its attack at the cost of abandoning paid equipment. Megumin and Darkness are independently established as attracted to finishing through Megumin's decisive performance and Darkness's protective role. Kazuma and Aqua know the exit and can argue for it. All have a choice interval. Full group safety of the attack course is not established; mere eventual survival is not supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Megumin has an available Explosion and target, but friendly separation is not established. Darkness explicitly recalls surviving an earlier personal blast and wants to shield her. The danger arrives in sixty seconds, so the known exit is actually feasible. The fixed persistence actors are M/D; correction actors K/A.",
+        "CROSS_CONTEXT_TRANSFER": "All know magic and superhuman endurance are absent. The same exit is available, but no decisive magical attack can be executed. The full dangerous-caster commitment is therefore not triggered in this mode; assess changed means and independent goals without granting a machine skill or substitute weapon."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-E06"
+      ],
+      "mode_eligibility_qualifications": {
+        "CROSS_CONTEXT_TRANSFER": "Full dangerous-caster directional conjunction is NOT_TRIGGERED because the known available magical attack is removed; retain typed means/risk/agency review. Do not count a sensible changed-means answer as a pass of that directional contract."
+      },
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F06-K",
+      "family": "fear_and_danger",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "A valued companion is stranded on a low platform while a loose sack is sliding toward them. Kazuma recognizes the threat and wants the companion clear. A marked release cord within his reach drops an already installed side ramp; he has read and understood its instruction. The ramp is explicitly adequate and available. Running through the moving sacks is a more exposed direct route, with no distinct payoff. The companion's later movement is not supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No spell is required for the release cord, and no other magical means is established.",
+        "CROSS_CONTEXT_TRANSFER": "The simple installed mechanism and its demonstrated function are given facts, not new engineering expertise."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-K01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F06-A",
+      "family": "fear_and_danger",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Aqua hears a heavy scraping sound behind a closed storeroom door just as she is asked to retrieve her own costly drink from inside. A caretaker says the sound may be a shifting crate but admits they have not checked. The door can be left closed or the caretaker can be asked to inspect. Aqua has no view inside or established knowledge of a monster. No one faces an urgent rescue need.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Current magic resources and the room's target compatibility are unknown. Do not identify an undead from the sound alone.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent; the sound remains genuinely uncertain. No diagnostic device or trained inspection role is granted to Aqua."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F06-M",
+      "family": "fear_and_danger",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Megumin has a highly rewarding decisive attack opportunity, but Yunyun, an already valued person, is visibly within its danger area and explicitly warns her of that fact before initiation. No friendly separation, safe shield or rescue provision is established. A possible retreat costs the objective rather than a trivial convenience. The exact priority under this grave collateral risk is unresolved by the model. Yunyun is collateral, not the decisive opponent.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Megumin has mana for the stated available Explosion. No later aura, catch, revival or safe ending is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is known absent, so an actual Explosion is unavailable. Preserve the desired objective and known relationship/risk conflict without inventing a weapon or a harmless blast."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F06-D",
+      "family": "fear_and_danger",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness wants to protect Megumin and proceed with a tempting serious attack. Her own prior personal survival is explicitly salient in her thinking before this choice; she believes being the wall could suffice. Other people's injuries, full friendly geometry and group exit are not established safe. She can offer assurance, ask for checks, object or alter the plan. Megumin's subsequent answer is unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Megumin has a feasible Explosion; Darkness has her stated current armor but no verified group barrier. The full SD1-D04 conjunction is supplied before the response.",
+        "CROSS_CONTEXT_TRANSFER": "No Explosion or superhuman resistance exists and she knows it. The literal dangerous-caster trigger is not full; evaluate whether she preserves changed means and risk instead of importing invulnerability."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D04"
+      ],
+      "mode_eligibility_qualifications": {
+        "CROSS_CONTEXT_TRANSFER": "Full dangerous-caster directional conjunction is NOT_TRIGGERED because the known available magical attack is removed; retain typed means/risk/agency review. Do not count a sensible changed-means answer as a pass of that directional contract."
+      },
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F06-E",
+      "family": "fear_and_danger",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "The quartet has completed a local retrieval but the retrieved person's transport is still unsolved. The person cannot walk, the carrying cart is visibly missing a wheel, and Kazuma and Darkness both receive that cue. Both can speak and have an adequate interval; no other urgent task prevents a concrete recovery request or proposal. An outside porter may be called, but their willingness and arrival are unknown. No free reset is supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Aqua's currently available resources cannot be assumed to repair the cart or provide transport. Earlier retrieval success is not completed extraction.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. The missing-wheel dependency and available act of requesting or proposing help remain, without granting workshop expertise."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-E04"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F07-K",
+      "family": "competence_domain_shift",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "EARLY_BEFORE_GUILD_SKILL_TRAINING",
+      "shared_actor_facts": "Use an explicitly early hypothetical slice before Kazuma has learned any guild skills. He knows no Steal, Drain Touch, terminal magic or later relationship secrets. He needs a sealed parcel released; a clerk holds the only key. A sign he reads and understands says putting his correctly numbered receipt in the release tray summons authorized service without a fee. The tray and receipt are available. The clerk's actual response is unknown; no magical technique is available to him.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "This early source-world state has no learned guild powers. Do not backproject a later technique or its name into his deliberation.",
+        "CROSS_CONTEXT_TRANSFER": "He has received the same simple receipt instruction in a nonmagical hall. No later source knowledge or digital expertise is supplied."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-K01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F07-A",
+      "family": "competence_domain_shift",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Aqua has just done a familiar paper decoration correctly. A visitor now asks her to fix an unfamiliar sealed pressure gauge that neither she nor the visitor understands. The owner forbids opening it, an instruction manual can be requested, and the trained caretaker is elsewhere with unknown response time. Aqua has not adopted a technically understood repair. The gauge's actual fault is unknown; her prior success does not establish expertise here.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No compatible magical repair ability or diagnostic information for this gauge is established.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent and no engineering credential is supplied. She may ask, decline, boast or make an appropriately described uncertain attempt; success cannot be invented."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F07-M",
+      "family": "competence_domain_shift",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Megumin is asked to operate a three-card registration desk for a practice event instead of performing. The cards' three destinations are explained plainly and she understands them; she has not learned the unfamiliar light console beside the desk. A volunteer asks whether she can also repair that console. The destination task and unknown repair are distinct, with no specialty insult or accepted whole-event leadership.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The unfamiliar source-world device is a magical lamp-control panel; no mechanism, repair knowledge or permission to damage it is supplied. The explained card-routing task remains ordinary.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. Reading the explained cards is available; electronics repair is not a supplied skill."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F07-D",
+      "family": "competence_domain_shift",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness has accepted checking four familiar cloth labels against a written event list, which she understands and has time to do. A separate person asks her to certify an unfamiliar overhead rig as safe. She has no established rigging training and no authority to certify it; a trained worker can be asked but has not answered. No competing need prevents the simple label task.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Her demonstrated endurance does not certify the rig. The familiar label check is the concrete fitted contribution.",
+        "CROSS_CONTEXT_TRANSFER": "Ordinary human limits apply. Simple label work is available; professional rigging expertise is not."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F07-E",
+      "family": "competence_domain_shift",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Kazuma is absent. A named outside porter has already agreed to lend a low trolley for one short move and has placed it at the marked start. Aqua, Megumin and Darkness have each heard the terms and accepted the simple assigned parts: steady, guide by the marked line and push the light load. Resources, time and safe route are present; the next local phase can start. No substantive dependency on Kazuma exists, and no wider free campaign or future loan is agreed.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No magic is required. The porter's finite trolley and one-move scope remain the porter's.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent, and each has been shown the same simple manual part. No specialist driving skill is required."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-E05"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F08-K",
+      "family": "relationship_conflict",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Kazuma is offered a genuinely workable, comfortable private lodging arrangement for several months. Its supplied attendant can perform the same practical chores as Aqua, but taking it would remove his familiar daily company with her. That particular history is already valued by him, and he understands the durable separation. He can reflect, speak, ask for contact or choose. No urgent rescue, romantic exclusivity or compulsory return is supplied.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Neither lodging option grants free travel or magical contact beyond what is stated.",
+        "CROSS_CONTEXT_TRANSFER": "The same practical equivalence and particular history are supplied. Normal communication may be requested, but an accepted schedule is not performed automatically."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-K03"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F08-A",
+      "family": "relationship_conflict",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Kazuma proposes replacing the familiar household's disorderly evenings with an efficient staffed arrangement elsewhere. Aqua clearly understands the offered practical ease and that she would lose regular familiar banter with the people whose company she values. The proposal is real but not yet agreed or performed. She has an adequate private response opportunity. No particular object is lost and no praise-to-new-task sequence occurs.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "Instant magical reunion or a universal travel solution is not supplied.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. A future contact plan is possible to request, but its acceptance is unknown."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F08-M",
+      "family": "relationship_conflict",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Megumin promised Yunyun not to publish their jointly written private practice notes. At a public contest she now has an attractive opportunity to present them under her own name. Yunyun directly says before the choice that she does not agree to publication. Megumin receives that refusal and wants recognition; no one denigrates Explosion or offers to protect her face by humiliating themselves. This is an ordinary confidentiality promise, not an intimate-pace R1-M06 trial.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No memory alteration or magical right to another person's contribution is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "The notes are on paper, and no platform expertise or changed ownership law is assumed. The understood specific refusal remains."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F08-D",
+      "family": "relationship_conflict",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Darkness willingly accepted a private rehearsal reading with three trusted peers, on the explicit accepted condition that her family name would not be broadcast. She had clearly said a wider audience was unwanted. The organizer now opens a live public listening channel before the next line and tells her. She perceives the change, can stop or speak, and has not changed her preference. There is no urgent protective duty compelling continued performance.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No mind-control, magical incapacity or automatic enjoyment is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "She understands the channel because the organizer demonstrated its on/off signal. No computing expertise is required to ask for it to stop."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-D02"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F08-E",
+      "family": "relationship_conflict",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Kazuma repeats the public nickname 'water carrier' after Aqua has explicitly told him she dislikes it. Aqua still dislikes it and can freely speak or gesture. Before this episode she has independently decided that keeping an injured friend's location private is more important right now; a public argument risks drawing the bystanders toward that location. The others know the nickname request but not her private priority. No new insult, changed preference or incapacity occurs in the first interval. Other acts and permission remain separate.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "There is no magical compulsion or objective guarantee that protest must reveal the location; the perceived priority conflict is supplied.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. The same private priority and real response opportunity hold. Quiet, if chosen, cannot be narrated as consent."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F09-K",
+      "family": "cross_universe_novelty",
+      "subject": "Kazuma",
+      "subject_code": "K",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "In a genuinely unfamiliar visitor archive, a loaned device charges six tokens if Kazuma keeps a public souvenir record. Its clearly translated instruction also lets him return the unused sealed ticket in his hand to waive the charge and keep his name private. He understands both options and wants to save his six tokens; no competing reward, other person's property or hidden trick is supplied. Device internals and future staff reactions are unknown.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "This hypothetical artifact supplies only the stated ticket operation; no known spell bypass or all-purpose magical diagnosis is established.",
+        "CROSS_CONTEXT_TRANSFER": "The archive is a nonmagical automated exhibit. The translated two-option instruction is known; he has no additional software access."
+      },
+      "initial_full_directional_contracts": [
+        "SD1-K01"
+      ],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F09-A",
+      "family": "cross_universe_novelty",
+      "subject": "Aqua",
+      "subject_code": "A",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "An unfamiliar archive offers Aqua an optional publicly displayed 'appreciation echo': a device will replay one of her own selected ordinary performances to visitors whenever they request it. She retains her memory, but cannot control each replay after authorizing it. The terms and lack of guaranteed payment are clear; her wish for appreciation and her craft standards may conflict. No prior matching craft standard for this exact device, valued-item loss or new service request is independently fixed.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The artifact's stated operation is a hypothetical world fact, not an added source ability. Divine identity does not establish an override.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. She can authorize, decline, ask or negotiate using the translated instructions, without new technical expertise."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F09-M",
+      "family": "cross_universe_novelty",
+      "subject": "Megumin",
+      "subject_code": "M",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "Alien curators offer Megumin praise for a convincing recorded simulation of Explosion while clearly explaining that no actual spell will be performed. They do not denigrate her art. She can label it as a simulation, ask for an actual later demonstration under separate terms, accept or refuse. She values her chosen art and impressive contribution, but has no canonical precedent for these curators' standards. The simulation cannot damage anyone and grants no new skill or actual spell result.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "The loaned display artifact has only the stated simulation function. Her actual spell resources and any permission for a real cast are unspecified.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is known absent. The device can show the supplied recording only; it cannot produce an actual Explosion or teach a replacement weapon."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F09-D",
+      "family": "cross_universe_novelty",
+      "subject": "Darkness",
+      "subject_code": "D",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "An unfamiliar virtual-city exhibit asks Darkness to authorize use of her likeness as a public protective statue. She is told that a scripted avatar would make promises publicly attributed to her, but the full script has not been shown and she cannot change it after acceptance. She can request a preview, negotiate, accept or refuse. No actual physical protection, new legal authority or consent from represented companions follows from the statue. Her useful-protector identity and control of public meaning are relevant, but the precise choice is open.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "This is a hypothetical representation device; her armor does not establish what the avatar promises or can do.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. Reading/requesting the script is feasible; she has no software or legal certification skill."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    },
+    {
+      "case_id": "SD1-F09-E",
+      "family": "cross_universe_novelty",
+      "subject": "Core quartet",
+      "subject_code": "E",
+      "chronological_slice": "POST_MAIN17_HYPOTHETICAL_WITH_ONLY_SPECIFIED_SCENE_FACTS",
+      "shared_actor_facts": "In an unfamiliar asynchronous council exhibit, all four are asked to allocate five shared event tokens. Each sees a different private translated notice: Kazuma sees an optional convenience fee; Aqua sees a possible public recognition display; Megumin sees an art-label choice; Darkness sees a loaned-property return condition. Nobody can see another's notice until it is communicated. All can talk. The five tokens are in a jointly held tray; no individual shares or spending rule have been set, and no collective spending has been agreed. The machine's internal policy and outsiders' future reactions are unknown. The first task is a bounded discussion, not a performed unanimous vote.",
+      "mode_facts": {
+        "CANONICAL_COMIC": "No mind-reading, divine administrative override or instant knowledge of the machine is established. Only the notices and communication channel are available.",
+        "CROSS_CONTEXT_TRANSFER": "Magic is absent. Translated notices are understandable; no programming, legal or financial expertise is supplied."
+      },
+      "initial_full_directional_contracts": [],
+      "mode_eligibility_qualifications": {},
+      "behavioral_outcome": null,
+      "typed_outcome": null,
+      "actual_execution": false,
+      "directional_limit": "No full new directional commitment is prebound. Assess causal/voice plausibility, specified uncertainty and applicable typed constraints; do not invent a forecast pass.",
+      "rival_explanations": [
+        "shared author follows the explicit scenario rather than a discriminating character mechanism",
+        "generic cooperation or caution can mimic a fitted answer",
+        "broad role scripts can mimic voice; generated Japanese lacks independent native evaluation"
+      ]
+    }
+  ],
+  "actual_first_responses_generated": false,
+  "semantic_input_acceptance": false,
+  "full_program_complete": false,
+  "qualified_utc": "2026-10-26T05:06:56.590689+00:00",
+  "parent_bank_sha256": "e038b7b61b39fc7748abd09226d9d0a62cbe33b2d89e33309145f3b271534f53",
+  "pre_response_qualification": "Original45 inputs and90 prompts remain preserved; only declared semantic/eligibility clarifications change, before any actual first response. Frozen model cores remain unchanged."
+}

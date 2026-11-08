@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN12_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-12",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 304366,
+      "sha256": "414d8513d9b0dfec0bb59a48cb9a7c023d5413654635d8aa7d3f1609a4c47ca3"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 224358,
+      "sha256": "8ff169a79ca6ab0112e6899eeda246df63a0ff490426e9c9892df6e01974a6c1"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 794753,
+      "sha256": "550ab21c877eb3008bd7ee78de393b2a999339ba9ab37351bd62b7b7dc0cc78c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 606515,
+      "sha256": "6bfedf5f18d27ed76aa857d0f9f89870c23a7faf638aa0c65972e47b0e8d434c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 202115,
+      "sha256": "54b208f5922f0c7ff6f24d18bf002017f2960931880f7c22ca9f110efa8a2d7e"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 194810,
+      "sha256": "936b2f06b2765fb36c65a1a1d75695403d264c40b44c91ac133369ff5c55b556"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 220126,
+      "sha256": "48058d8d9f2416b181160b1055710ece41a5547b232d331193f279f23dafb47c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 183047,
+      "sha256": "c1265a510c7cf8089ae2d9705e19cd716e0234158922574a3cad6c3fce832141"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 273679,
+      "sha256": "5a2cf0c728af12db577157b5686de0654f5f9bc9b11ffa4fd3ec8b32e4a03ba6"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 137848,
+      "sha256": "3b28a0bf87c8620945a8d6f9fc12be93123636861f8cffc121e304cd4c4ec3ea"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M12EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P4-30/37-42;Q06-Q18",
+      "observation": "The new shop scene separates Wiz identity from the girls' information and preserves her actual mixed past, present hospitality and privacy concern.",
+      "implication": "Use actor knowledge and claim scope rather than a gentle/violent universal; retained states add no new trial.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P9-10/35-44;Q08/Q14-Q17",
+      "observation": "Yunyun owns actual qualified dissent36 and renewed caution44 while Megumin wants a title contest35; Wiz owns conditional employment boundary10 and nonverbal privacy cue37.",
+      "implication": "Shared investigation is not shared permission or an immediate-threat validation opportunity.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P30/37-53;Q14/Q17-Q22",
+      "observation": "Kazuma responds to Wiz particular privacy concern with a public protective account; the girls' rumors still cause real face cost.",
+      "implication": "Keep trust, unequal knowledge, practical help and unshown final authorization separate.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "M12EX-H01-H14;Q06-Q23/Q37/Q40",
+      "observation": "Fourteen selected source-compatible effects bind tea face-saving, anonymous legend irony, divergent goals, self-disparaging cover and rumor escalation; creator self-irony has its own plane.",
+      "implication": "H1 acts/statements do not certify rumored causes. Selection overlap is not an event denominator; no forced H3/H4 from uncertainty or fantasy terms.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "M12EX-V01-V35;Q12-Q22/Q37-Q40",
+      "observation": "Thirty-five exact written fragments distinguish hosts, private disclosure, qualified dissent, untagged rumor turns, passive coda and creator address.",
+      "implication": "All current L2 warrants are pragmatic; no central Japanese-form mechanism or acoustic performance is invented.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P6-9/23-30/37-40/53;Q06-Q07/Q11-Q12/Q22",
+      "observation": "Kazuma admits tea-price error, knows the hidden identity and reports repairing Aqua incomplete account; his passive final coda leaves the intervening actor unknown.",
+      "implication": "His own access is not everyone's access. Alternative brewing explanation and inferred Wiz preference remain claims, not causal experiments or formal consent.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P4-15/30/37;Q06-Q09/Q14",
+      "observation": "A quiet tea/cookie visit, shop solvency and conditional fallback work matter before the legend disrupts them.",
+      "implication": "Taste, price, skilled preparation, property, hospitality and particular comfort are different values; no actual bankruptcy/hire.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P20-30/35-44;Q13/Q23/Q33-Q36",
+      "observation": "Wiz qualified old competence30 differs from the girls anonymous legend and the new unperformed challenge; retained embodiment and treatment checks have finite prerequisites.",
+      "implication": "Rumor does not supply universal ruthlessness, magical demonstration, free cure or interchangeable devil anatomy.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P21/27/37/42/48-53;Q19-Q22/Q24-Q31",
+      "observation": "Wiz visible humiliation and unwanted public reputation stakes survive the comic escalation. Original image guesses receive current external corrections.",
+      "implication": "No harmlessness from comedy or other-person fault; no final remedy or consent inferred from a public identification.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "MAIN12U022P6-9/23-30/37-53;Q06-Q07/Q17/Q22",
+      "observation": "Tea-value expertise is corrected7 and replaced by a different untested account9; identity withholding yields divergent actual responses43-44, then final disclosure has an unknown initiator.",
+      "implication": "A face-saving causal revision is not automatically a full practical-method trial; no hidden intervening solution invented.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "M12EX-AS-R1-K01 through M12EX-AS-R1-T04;Q39-Q40",
+      "observation": "The39 fixed main/party comparisons retain actual cue-directed privacy behavior and the non-eligible contexts; four typed checks create no behavioral score.",
+      "implication": "No original contract text, score, confidence or outcome is altered. Actual predicates determine local support, partial evidence and missingness.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M12EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Wiz/Megumin/Yunyun in new shop bonus; reported Aqua/Vanir and legendary/unnamed actors separately attributed; retained Darkness/Sylphina/unnamed orphanage children/Chris-Eris/Zereschilt/male orc guards and guild staff keep exact actor/knowledge planes; creator and promotion separate",
+      "native_routes": "M12EX-AS-SI-D01-D07/SY-D01-D07;Q15-Q17/Q25/Q39",
+      "observation": "Iris has no new bonus choice. Yunyun has new represented choices15/36/44/51, but none has the complete fixed SY-C01 conjunction; retained art supplies no eligible new observation.",
+      "implication": "All original14null fields in each scope remain exact; descriptive dissent/caution is retained without inventing a fitted role, new-friendly-person approach or immediate danger.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

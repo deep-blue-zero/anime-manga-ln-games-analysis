@@ -1,0 +1,2743 @@
+{
+  "schema": "BLUE_ARCHIVE_UMIKA_PUBLIC_INPUT_AND_RECEIVING_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Umika",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 732b3f2e635d2b8e8855f4e6709354031936ebc6, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+    "bytes": 114688,
+    "sha256": "4e78ceb616fc39e2217b91dbcf11840f9c4386e1680b2185391227286a1e48e8",
+    "git_blob_oid_of_actual_bytes": "4e5963e37dcfdb2d6fa98b70cfb9d8dc4c1b9613",
+    "lines": 2325,
+    "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "source_witness": {
+      "upstream_JP": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "game": "v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1",
+      "parser": "0.2.0",
+      "older_MAIN_witnesses": "Retain original cbe3 checkpoint provenance; no retroactive new primary credit"
+    },
+    "analytical_main_baseline": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "prior_source_branch_witness": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+    "authority_quartet": "Current Cycle008 admission / own complete adequate accepted analytical arguments / historical reading order and independence UNKNOWN where undeclared / performed voice unreceived",
+    "execution": {
+      "classification": "DEEP_SYNTHESIS",
+      "surface": "local Codex file access",
+      "actual_model_setting_changes": false,
+      "model_label_observed": null,
+      "reasoning_control_observed": null,
+      "local_only_exception": "Explicit ROOT assignment, required exact local accepted-source access, and user instruction disregarding external artifact-integration handoffs",
+      "fresh_cloud_task": false,
+      "paid_API": false,
+      "R_Git_provider_global_writes": false,
+      "merge": "RESERVED",
+      "denominator_quarter_credit": false
+    },
+    "execution_governance": [
+      {
+        "path": "AGENTS.md",
+        "bytes": 6723,
+        "sha256": "efd902f7c560a9c5daddf1250887ac0e6e4f8466ed4803ca4723c91dcd800053",
+        "actual_scope": "62a414 whole"
+      },
+      {
+        "path": "governance/AUTHORITY_STATE.yaml",
+        "bytes": 3708,
+        "sha256": "65676d6bdb00f0d099b016c5b149f03451cfdd96bedef87204780e04b3ddd70a",
+        "actual_scope": "c51ca1 whole"
+      },
+      {
+        "path": "governance/AUTHORITY_SCOPE.json",
+        "bytes": 3696,
+        "sha256": "008b7b2adf114c1f39dd86fae064344457dab5b9e45486623fc9237fb6ed0916",
+        "actual_scope": "c51ca1 whole"
+      },
+      {
+        "path": "governance/CHATGPT_AUTHORITY_AND_ROUTING.md",
+        "bytes": 32734,
+        "sha256": "32caf60a2e1d5728ca239b0a2702670780e03d192cfc0711fd1ce961bfda4b73",
+        "actual_scope": "c51ca1 complete189–194 applicable routing"
+      },
+      {
+        "path": "governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+        "bytes": 26901,
+        "sha256": "5393acecb59bdb410825e32f5387c559026bbf52a26b22ca63d9fe043938f9f3",
+        "actual_scope": "89fe43 partial plus c6e073226–271; inherited prior adequate policy reading; not full fresh policy"
+      },
+      {
+        "path": "governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+        "bytes": 15504,
+        "sha256": "18ecbe4964cacd2f903872508515c1557080cbc8a4e02a91c85f2978fdec36f6",
+        "actual_scope": "c6e07345–103/114–163 applicable exception/capability/ownership; not full fresh policy"
+      },
+      {
+        "path": "governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md",
+        "bytes": 20131,
+        "sha256": "66c966351aa08a9bfc233a1980a783cb43bf0c1150ea91886cea5c145c270c06",
+        "actual_scope": "c6e07393–160 applicable readiness/substantial synthesis/convergence; not full fresh policy"
+      },
+      {
+        "path": "governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+        "bytes": 17426,
+        "sha256": "4051e385905ea9c3050a385d72afc5aff627daa63ab7bab1fa9372a3bd7f3f6c",
+        "actual_scope": "89fe43 complete own file as displayed; master multi-file output elsewhere clipped"
+      }
+    ],
+    "controls_and_actual_scopes": {
+      "architecture": {
+        "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "lines": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_control_scope": "0bc36a complete313–391; prior full eligible architecture1.12; no full fresh851 claim"
+      },
+      "method": {
+        "path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "bytes": 53414,
+        "lines": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_control_scope": "fe0fce complete1–76 and heading navigation; prior whole method; version1.10"
+      },
+      "source_classes": {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+        "bytes": 52723,
+        "lines": 275,
+        "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e",
+        "actual_control_scope": "3bec29 complete1–48/265–275; not fresh whole275"
+      },
+      "stable_gaps": {
+        "path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "bytes": 79178,
+        "lines": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_control_scope": "3bec29 completeG06–G14/335–354; 62a414 complete15–35 repair; prior44cc80; actual whole15–45 plus335–354, not whole354"
+      },
+      "required_partition": {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "bytes": 461112,
+        "lines": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_control_scope": "Prior narrowFestival3 query39fd8f; current Umika narrow home/probe, notwhole6514 body receiving"
+      },
+      "ROOT_scope_acceptance": {
+        "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "bytes": 21833,
+        "lines": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_control_scope": "Prior whole bc7414 qualified reuse; not a new ROOT adjudication"
+      }
+    },
+    "actual_new_primary_extents": {
+      "whole": 0,
+      "partial": 0,
+      "native": 0,
+      "raw": 0,
+      "QA": 0,
+      "audio": 0,
+      "continuous_AV": 0,
+      "canonical_hashing": 0
+    },
+    "status": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS_READY_FOR_INDEPENDENT_ROOT_RECEIVING_NOT_ACCEPTED",
+    "dated_body_navigation_head": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+    "present_probe_head": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+    "candidate": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 39767,
+      "lines": 169,
+      "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465"
+    },
+    "required_home": {
+      "home_key": "P3-CHAR-UMIKA",
+      "kind": "CHARACTER",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-F037"
+      ],
+      "literary_rationale": [
+        "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "complete_private_analytical_argument": {
+      "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 78627,
+      "lines": 504,
+      "sha256": "d667a8ce24200c2ad33d4ec808495bde01ddfc3d3c521d6452200d77c2e5705a",
+      "actual_analytical_receiving_scope": "COMPLETE_WHOLE_ADEQUATE_CURRENT_ANALYTICAL_ARGUMENT504, all51 selected responsibilities received; Shizuko20 plus Fina19/Umika12 independent comparison; original producer source custody attributed",
+      "actual_receiving": "d59f6d1–110;b41dbb111–260;8e339f261–390;b61655391–504EOF;6b8302 selected literal source_ID refresh6–60",
+      "fresh_primary_native_raw_QA_AV_credit": 0,
+      "Umika_scope": "Personally whole shared504 owner includes exact12 Umika duties and independentShizuko20/Fina19 comparisons, no fresh primary"
+    },
+    "private_responsibility_counts": {
+      "Umika": 12,
+      "bonds": 5,
+      "whole_threads": 5,
+      "written": 2,
+      "Shizuko_comparison": 20,
+      "Fina_comparison": 19,
+      "analytical_files": 1,
+      "no_new_primary": true
+    },
+    "inherited_Umika_source_ID_metadata_only": [
+      {
+        "source_id": "BA:bond:10090:002",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:bond:10090:003",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:bond:10090:005",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:bond:10090:006",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:bond:10090:015",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:character_data:10090:profile_and_dialog",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:character_data:event_costume:1900924101:character:10090",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:momotalk:10090:thread:100900010",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:momotalk:10090:thread:100900090",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:momotalk:10090:thread:100900170",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:momotalk:10090:thread:100900230",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      },
+      {
+        "source_id": "BA:momotalk:10090:thread:100900330",
+        "primary_open_or_hash": false,
+        "authority": "Maintained shared analytical owner literal IDs"
+      }
+    ],
+    "reused_personally_complete_public_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2301_2302_DEEP_READING.md",
+        "bytes": 22102,
+        "lines": 140,
+        "sha256": "fc4af5298582f0722a7772748a75d1192c67f5d9f667dfce64e2d20915ef1cf1",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_CURRENT_ANALYTICAL_ARGUMENT140; guests distinct; Umika mention-only2301; separate shopping-street commissions; attributed actor seams",
+        "actual_receiving": "1e32921–81;0f3fbe82–140EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+        "bytes": 24925,
+        "lines": 175,
+        "sha256": "5a813026aee7afa9e3ee50a2440b927a42591525a7142241527aa4604c89c1b5",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_CURRENT_ANALYTICAL_ARGUMENT175; actualShizuko/Fina2403s2 scope only; Training peers independently received; no automatic family/group join",
+        "actual_receiving": "0f3fbe1–80;78329681–175EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 21153,
+        "lines": 135,
+        "sha256": "0002178c494453db608e29fe408f17c32e1e2a472dfcbc9636c9e21cb243b610",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_ACCEPTED_COMPARISON135, no new whole primary or47377-byte individual-checkpoint reading",
+        "actual_receiving": "7832961–81;76ad6682–135EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_813/BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 21271,
+        "lines": 151,
+        "sha256": "97d8cea27308325a5d5a02a82fc5f775f7adeeaee4aac064d7f8b880999d67f4",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_ACCEPTED_COMPARISON151; context only for Festival roles not specified here; no individual appearance inflation",
+        "actual_receiving": "76ad66whole1–151EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_815/BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 20301,
+        "lines": 138,
+        "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_ACCEPTED_COMPARISON138; prior own Abydos complete custody plus full refresh; inherited primary counts not fresh",
+        "actual_receiving": "921cac1–75;7aec6476–138EOF; prior own CENSUS_ABYDOS_ARIUS exact1–138 route declaration refreshed0b4d94",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28709,
+        "lines": 149,
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_CURRENT_ANALYTICAL_ARGUMENT149; sixteen event objects; source reading remains attributed",
+        "actual_receiving": "0b4d941–80;1e329281–149EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_847/BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 30087,
+        "lines": 159,
+        "sha256": "57fb9edecebd1b212d0600976f3260dd11c33fdb68e37ab051591c947389d282",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_CURRENT_ANALYTICAL_ARGUMENT159; fifteen event objects; actual harmlessness and unique organizer cause unasserted",
+        "actual_receiving": "921cac1–90;7aec6491–159EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+        "bytes": 18949,
+        "lines": 95,
+        "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_COMPACT_CHAPTER_ARGUMENT95 after clipped-final boundary repair; historic frontier text not currentmetadata",
+        "actual_receiving": "3183231–94 received;5cd68090–95EOF repair",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+        "bytes": 18737,
+        "lines": 92,
+        "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_COMPACT_CHAPTER_ARGUMENT92 after clipped-opening boundary repair; source authority distinct from current frontier",
+        "actual_receiving": "31832324–92 received;5cd6801–24 repair",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_E023_DEEP_READING.md",
+        "bytes": 7485,
+        "lines": 46,
+        "sha256": "d0caa530ea361f97ce0b83d7ebe5b21ff52a0d33d4201797c1f5699128af572a",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_SMALL_CONSEQUENTIAL_ARGUMENT46; conditionalexposure/choices/actuallocal effect; laterNiyaretraction fromwholecheckpoint",
+        "actual_receiving": "5cd680whole1–46EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E010_DEEP_READING.md",
+        "bytes": 2220,
+        "lines": 26,
+        "sha256": "0cc9943d604a83499e02ce839eb9318377427d55f5777d256ab36975882dc67b",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_SMALL_CONSEQUENTIAL_ARGUMENT26; reportedreadiness/prospectivesupplies/defenselaunch only",
+        "actual_receiving": "318323whole1–26EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      }
+    ],
+    "reused_complete_main_positive_argument": {
+      "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_E003_DEEP_READING.md",
+      "bytes": 9951,
+      "lines": 53,
+      "sha256": "232755c9acfccabab327db543de8e91c13f34cb2471b032580a8310144055e39",
+      "actual_analytical_receiving_scope": "COMPLETE WHOLE53 current argument; actual Umika/Shizuko public thanks and food, role boundary, staffing and begun sandbag work; Nagusa future hope not certified",
+      "actual_receiving": "48a492 whole1–53EOF",
+      "fresh_primary_native_raw_QA_AV_credit": 0
+    },
+    "complete_fresh_small_public_analytical_arguments": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 27172,
+        "lines": 178,
+        "sha256": "02c8c105de99c9c823441ca9b7b80e05f9b88b82b4fb2e92d6ee8529394fed9e",
+        "actual_analytical_receiving_scope": "COMPLETE WHOLE178 adequate selectednine gift account; actual UmikaE117, othereight independently comparison only, historical statuses qualified by Cycle008",
+        "actual_receiving": "52b2fd whole1–178EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E117_DEEP_READING.md",
+        "bytes": 5517,
+        "lines": 44,
+        "sha256": "5badeb2dff0c9f9e5d2599bd85acc7047824bb6002f56b86545667f7bcd5417e",
+        "actual_analytical_receiving_scope": "COMPLETE WHOLE44 accepted Umika gift argument, preparation and personal meaning versus unmeasured efficacy/future ambition/reciprocal romance",
+        "actual_receiving": "3d52bd whole1–44EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0
+      }
+    ],
+    "complete_negative_role_join_analytical_inquiries": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_E003_DEEP_READING.md",
+        "bytes": 8475,
+        "lines": 51,
+        "sha256": "07891364f3062b4ce194183bc6abe1a37bb46c6a03b840546a9d168f9db71ad7",
+        "actual_analytical_receiving_scope": "COMPLETE WHOLE51 inquiry; generic roles and adult chair inference do not authenticate Umika appearance; complete background limit only",
+        "actual_receiving": "48a492 whole1–51EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0,
+        "Umika_role_limit": "Complete background argument; generic-role/miko request does not authenticate Umika act"
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_E012_DEEP_READING.md",
+        "bytes": 9941,
+        "lines": 55,
+        "sha256": "c31089dc4fc245aa66a1066d94d8062cc5909ede01ee3e1103f8c6736783480f",
+        "actual_analytical_receiving_scope": "COMPLETE_WHOLE_SMALL_CONSEQUENTIAL_ARGUMENT55; declinedmiko request/recordreports/actorseams",
+        "actual_receiving": "5cd680whole1–55EOF",
+        "fresh_primary_native_raw_QA_AV_credit": 0,
+        "Umika_role_limit": "Complete background argument; generic-role/miko request does not authenticate Umika act"
+      }
+    ],
+    "exact_analytical_tuple_equality": [
+      {
+        "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "bytes": 78627,
+        "sha256": "d667a8ce24200c2ad33d4ec808495bde01ddfc3d3c521d6452200d77c2e5705a",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 78627,
+            "sha256": "d667a8ce24200c2ad33d4ec808495bde01ddfc3d3c521d6452200d77c2e5705a",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 78627,
+            "sha256": "d667a8ce24200c2ad33d4ec808495bde01ddfc3d3c521d6452200d77c2e5705a",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 78627,
+            "sha256": "d667a8ce24200c2ad33d4ec808495bde01ddfc3d3c521d6452200d77c2e5705a",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2301_2302_DEEP_READING.md",
+        "bytes": 22102,
+        "sha256": "fc4af5298582f0722a7772748a75d1192c67f5d9f667dfce64e2d20915ef1cf1",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 22102,
+            "sha256": "fc4af5298582f0722a7772748a75d1192c67f5d9f667dfce64e2d20915ef1cf1",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 22102,
+            "sha256": "fc4af5298582f0722a7772748a75d1192c67f5d9f667dfce64e2d20915ef1cf1",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 22102,
+            "sha256": "fc4af5298582f0722a7772748a75d1192c67f5d9f667dfce64e2d20915ef1cf1",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+        "bytes": 24925,
+        "sha256": "5a813026aee7afa9e3ee50a2440b927a42591525a7142241527aa4604c89c1b5",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 24925,
+            "sha256": "5a813026aee7afa9e3ee50a2440b927a42591525a7142241527aa4604c89c1b5",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 24925,
+            "sha256": "5a813026aee7afa9e3ee50a2440b927a42591525a7142241527aa4604c89c1b5",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 24925,
+            "sha256": "5a813026aee7afa9e3ee50a2440b927a42591525a7142241527aa4604c89c1b5",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 21153,
+        "sha256": "0002178c494453db608e29fe408f17c32e1e2a472dfcbc9636c9e21cb243b610",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 21153,
+            "sha256": "0002178c494453db608e29fe408f17c32e1e2a472dfcbc9636c9e21cb243b610",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 21153,
+            "sha256": "0002178c494453db608e29fe408f17c32e1e2a472dfcbc9636c9e21cb243b610",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 21153,
+            "sha256": "0002178c494453db608e29fe408f17c32e1e2a472dfcbc9636c9e21cb243b610",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_813/BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 21271,
+        "sha256": "97d8cea27308325a5d5a02a82fc5f775f7adeeaee4aac064d7f8b880999d67f4",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 21271,
+            "sha256": "97d8cea27308325a5d5a02a82fc5f775f7adeeaee4aac064d7f8b880999d67f4",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 21271,
+            "sha256": "97d8cea27308325a5d5a02a82fc5f775f7adeeaee4aac064d7f8b880999d67f4",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 21271,
+            "sha256": "97d8cea27308325a5d5a02a82fc5f775f7adeeaee4aac064d7f8b880999d67f4",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_815/BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 20301,
+        "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 20301,
+            "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 20301,
+            "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 20301,
+            "sha256": "c20995216bd4dc6938a49a9cdb5bcec03689f95b3154cb96231a19b4f4ce76d7",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 28709,
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 28709,
+            "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 28709,
+            "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 28709,
+            "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_847/BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 30087,
+        "sha256": "57fb9edecebd1b212d0600976f3260dd11c33fdb68e37ab051591c947389d282",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 30087,
+            "sha256": "57fb9edecebd1b212d0600976f3260dd11c33fdb68e37ab051591c947389d282",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 30087,
+            "sha256": "57fb9edecebd1b212d0600976f3260dd11c33fdb68e37ab051591c947389d282",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 30087,
+            "sha256": "57fb9edecebd1b212d0600976f3260dd11c33fdb68e37ab051591c947389d282",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_CHECKPOINT.md",
+        "bytes": 18949,
+        "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 18949,
+            "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 18949,
+            "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 18949,
+            "sha256": "0e94dbe5c5e5ed2c9fc1dd1b959f075e16a4d95097afe3f38c24c2d3342b23f5",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_CHECKPOINT.md",
+        "bytes": 18737,
+        "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 18737,
+            "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 18737,
+            "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 18737,
+            "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_E023_DEEP_READING.md",
+        "bytes": 7485,
+        "sha256": "d0caa530ea361f97ce0b83d7ebe5b21ff52a0d33d4201797c1f5699128af572a",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 7485,
+            "sha256": "d0caa530ea361f97ce0b83d7ebe5b21ff52a0d33d4201797c1f5699128af572a",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 7485,
+            "sha256": "d0caa530ea361f97ce0b83d7ebe5b21ff52a0d33d4201797c1f5699128af572a",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 7485,
+            "sha256": "d0caa530ea361f97ce0b83d7ebe5b21ff52a0d33d4201797c1f5699128af572a",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E010_DEEP_READING.md",
+        "bytes": 2220,
+        "sha256": "0cc9943d604a83499e02ce839eb9318377427d55f5777d256ab36975882dc67b",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 2220,
+            "sha256": "0cc9943d604a83499e02ce839eb9318377427d55f5777d256ab36975882dc67b",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 2220,
+            "sha256": "0cc9943d604a83499e02ce839eb9318377427d55f5777d256ab36975882dc67b",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 2220,
+            "sha256": "0cc9943d604a83499e02ce839eb9318377427d55f5777d256ab36975882dc67b",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C002_E003_DEEP_READING.md",
+        "bytes": 9951,
+        "sha256": "232755c9acfccabab327db543de8e91c13f34cb2471b032580a8310144055e39",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 9951,
+            "sha256": "232755c9acfccabab327db543de8e91c13f34cb2471b032580a8310144055e39",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 9951,
+            "sha256": "232755c9acfccabab327db543de8e91c13f34cb2471b032580a8310144055e39",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 9951,
+            "sha256": "232755c9acfccabab327db543de8e91c13f34cb2471b032580a8310144055e39",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "bytes": 27172,
+        "sha256": "02c8c105de99c9c823441ca9b7b80e05f9b88b82b4fb2e92d6ee8529394fed9e",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 27172,
+            "sha256": "02c8c105de99c9c823441ca9b7b80e05f9b88b82b4fb2e92d6ee8529394fed9e",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 27172,
+            "sha256": "02c8c105de99c9c823441ca9b7b80e05f9b88b82b4fb2e92d6ee8529394fed9e",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 27172,
+            "sha256": "02c8c105de99c9c823441ca9b7b80e05f9b88b82b4fb2e92d6ee8529394fed9e",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_E117_DEEP_READING.md",
+        "bytes": 5517,
+        "sha256": "5badeb2dff0c9f9e5d2599bd85acc7047824bb6002f56b86545667f7bcd5417e",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 5517,
+            "sha256": "5badeb2dff0c9f9e5d2599bd85acc7047824bb6002f56b86545667f7bcd5417e",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 5517,
+            "sha256": "5badeb2dff0c9f9e5d2599bd85acc7047824bb6002f56b86545667f7bcd5417e",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 5517,
+            "sha256": "5badeb2dff0c9f9e5d2599bd85acc7047824bb6002f56b86545667f7bcd5417e",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_E003_DEEP_READING.md",
+        "bytes": 8475,
+        "sha256": "07891364f3062b4ce194183bc6abe1a37bb46c6a03b840546a9d168f9db71ad7",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 8475,
+            "sha256": "07891364f3062b4ce194183bc6abe1a37bb46c6a03b840546a9d168f9db71ad7",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 8475,
+            "sha256": "07891364f3062b4ce194183bc6abe1a37bb46c6a03b840546a9d168f9db71ad7",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 8475,
+            "sha256": "07891364f3062b4ce194183bc6abe1a37bb46c6a03b840546a9d168f9db71ad7",
+            "equals_current": true
+          }
+        ]
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_005_百花繚乱編/BLUE_ARCHIVE_MAIN_V005_C001_E012_DEEP_READING.md",
+        "bytes": 9941,
+        "sha256": "c31089dc4fc245aa66a1066d94d8062cc5909ede01ee3e1103f8c6736783480f",
+        "comparisons": [
+          {
+            "ref": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+            "bytes": 9941,
+            "sha256": "c31089dc4fc245aa66a1066d94d8062cc5909ede01ee3e1103f8c6736783480f",
+            "equals_current": true
+          },
+          {
+            "ref": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+            "bytes": 9941,
+            "sha256": "c31089dc4fc245aa66a1066d94d8062cc5909ede01ee3e1103f8c6736783480f",
+            "equals_current": true
+          },
+          {
+            "ref": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+            "bytes": 9941,
+            "sha256": "c31089dc4fc245aa66a1066d94d8062cc5909ede01ee3e1103f8c6736783480f",
+            "equals_current": true
+          }
+        ]
+      }
+    ],
+    "all14_gaps": [
+      {
+        "id": "G01",
+        "original_stable_name": "Ordinary and private breadth",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Rest, preparation, collecting, taste, actual company and work ambition broaden ordinary range; twelve duties do not exhaust everyday life or prove a personality mechanism."
+      },
+      {
+        "id": "G02",
+        "original_stable_name": "Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Committee budgeting and local help permit comparison, not a transferred Yuuka rule; her independent decision and office sources remain necessary."
+      },
+      {
+        "id": "G03",
+        "original_stable_name": "Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Hospitality, food reception and conditional entrustment add comparison; Serika's separate customers, labor and private relations are not completed here."
+      },
+      {
+        "id": "G04",
+        "original_stable_name": "Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Distributed fireworks error/help and wanted pleasure are comparison only; Hina's own causes, accountability and ordinary ends remain separate."
+      },
+      {
+        "id": "G05",
+        "original_stable_name": "Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Celebration and unfinished repair do not settle another group's material needs, coercion or aftermath; their distinct exact evidence and homes govern."
+      },
+      {
+        "id": "G06",
+        "original_stable_name": "Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Quiet willow, visitors' choices, food, photographs and gifts expand local repertoire without universal enjoyment or automatic membership."
+      },
+      {
+        "id": "G07",
+        "original_stable_name": "Story-world chronology",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Local preparation, messages and ceremony endpoints are usable; release windows, costumes and episode order do not fix an overarching calendar."
+      },
+      {
+        "id": "G08",
+        "original_stable_name": "Event naming and repeat contexts",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Exact835/847/80000 routes, unnamed overarching gift event and separate costume contexts remain literal; no inferred merger of repeated festivals."
+      },
+      {
+        "id": "G09",
+        "original_stable_name": "Written speaker/choice attribution",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Inward response seams, BOND005u58/E835u83, choices and reported layers remain qualified; runtime speaker authentication is unreceived."
+      },
+      {
+        "id": "G10",
+        "original_stable_name": "Performed voice",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Written fluency, hesitation and imagery are received; heard accent, acting, timing, audio and audiovisual performance remain unreceived."
+      },
+      {
+        "id": "G11",
+        "original_stable_name": "Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Shared MAIN/Final context supplies no new Yume record or Hoshino office outcome; her separately bounded monograph and sources govern."
+      },
+      {
+        "id": "G12",
+        "original_stable_name": "Counterpart, system and variant identity",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "CH0110/10090/costume1900924101 stay literal; dolls, jokes, generic workers and future roles do not authenticate a new person or global chain."
+      },
+      {
+        "id": "G13",
+        "original_stable_name": "Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "Begun work, completed ceremony and reported cleanup are distinguished from claims; promotion, contracts, fire/ritual mechanism, inspection and repair lack full certification."
+      },
+      {
+        "id": "G14",
+        "original_stable_name": "Unclassified/mode continuity",
+        "status": "OPEN",
+        "Umika_contribution_and_remaining_warrant": "No unclassified source or preserved producer body is admitted or replayed; gift, written costume and BOND modes do not settle unresolved continuity."
+      }
+    ],
+    "claim_source_review": [
+      {
+        "question": "Own meaningful occasions versus role-authority dependence",
+        "positive": "Own ranking, preparation pleasure, choice to undertake assignment/refuseoutfit/finishandaskhelp",
+        "contrary": "Criticism/selfdoubt/creditedmentorship/error/recipientlimits",
+        "exact_scopes": [
+          "BA:bond:10090:002/003/006",
+          "BA:event:835:002/003/015/016"
+        ],
+        "bounds": "Local agency, no general self-sufficientexpert or imposedadultauthorship"
+      },
+      {
+        "question": "Actual private endings and wanted future",
+        "positive": "Parade/walk, footrelief, preparedfestival/sitting/sharedfireworks, completedwork",
+        "contrary": "Unknownpaired dolls, impulsebuying, renewedadultquestion, conditionalentrustment550 unanswered",
+        "exact_scopes": [
+          "BA:bond:10090:002/003/005/006/015",
+          "wholethread100900010/090/170/230/330"
+        ],
+        "bounds": "Offers/wishes/reports versusactualfulfillment, noperfectunderstanding orallfuturekeeping"
+      },
+      {
+        "question": "Public organizing and distributed consequence",
+        "positive": "Realoutfitwork/contacts/photos/finishrequest/firefightingcooperation/resumedceremony/safetrip",
+        "contrary": "Earlymovement01220–24, troupesabotage/guestsdisruptions/unprovedbulletcause, deceptiveplannedrisk, unauditedrepair",
+        "exact_scopes": [
+          "BA:event:835:001–016",
+          "BA:event:847:015"
+        ],
+        "bounds": "Actual localachievement, nottotalexoneration/safety/promotion/accountabilityclosure"
+      },
+      {
+        "question": "Institution and intrinsic ordinary company",
+        "positive": "Quietwillow, food/publicthanks, staffing andbegunlabor, managementaspiration",
+        "contrary": "Mention-onlyresearch, privateenforcementrefusal, fooddifferentresponses, budgetinjurycleaninglimits",
+        "exact_scopes": [
+          "BA:group:2301/2302",
+          "BA:main:005:002:003",
+          "BA:event:80000:117"
+        ],
+        "bounds": "No membershipfrommention/genericrolejoin/performedimaginedfestival/legalpolicy"
+      },
+      {
+        "question": "Particular gift and written modes",
+        "positive": "Mikoshi craft/ownmeaning/teapreparation, fluencyhesitationcontrast",
+        "contrary": "Symbolicorderconcededsubjective, inwardresponse, alternativechoices, chronology andvoice absent",
+        "exact_scopes": [
+          "BA:event:80000:117:u1–66/choice001–010",
+          "BA:character_data:10090:profile_and_dialog",
+          "costume1900924101"
+        ],
+        "bounds": "No formalworship/reciprocalromance/mechanism/wholecalendar/newAV"
+      }
+    ],
+    "mandatory_primary_recovery_for_actual_bounded_claims": [],
+    "stronger_claim_debt": "Runtime speaker and locale certainty, accepted doll/reciprocal romance/worship, ritual or flavor mechanism, business mastery/legal contract/promotion/safety/clinical repair/compensation/wholehistory/chronology/future fulfillment/performance unasserted",
+    "actual_complete_saved_body_receiving": [
+      "998bf5 lines1–84",
+      "e03627 lines85–169EOF"
+    ],
+    "saved_nonempty_line_projection": [
+      {
+        "line": 1,
+        "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b"
+      },
+      {
+        "line": 2,
+        "sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a"
+      },
+      {
+        "line": 3,
+        "sha256": "d1a9abf7862eaca90931468acd65e26dff6ec306eb6d344e22bea5cd42268bad"
+      },
+      {
+        "line": 4,
+        "sha256": "abf6eb03819d8cdc66762528a3246eef0970ad05834cf7bf074daca1da758d4b"
+      },
+      {
+        "line": 5,
+        "sha256": "b040a034a0c39c7fd51d765a3b3e7ce23a6cc374f8ddb31b596d48d317da6543"
+      },
+      {
+        "line": 6,
+        "sha256": "26d64e2ef6944fe53e34200462f7e40c0776f9a0e274e5b02fa3f53330f3c5b9"
+      },
+      {
+        "line": 7,
+        "sha256": "7c6b5e0d868d220a4a2bfe8c08e7c0fed6e5ad70bf8d5768e4959edd962b48f2"
+      },
+      {
+        "line": 8,
+        "sha256": "5277cd6460e293851124966fafa9139d962a9651815a89b4fe89e53b377499b4"
+      },
+      {
+        "line": 9,
+        "sha256": "331e8fd4e578dc84eb10661d3bc9648c287fd8ed097ceb2966f1c9bda6e487dc"
+      },
+      {
+        "line": 10,
+        "sha256": "a259edbbd3255c7a146ab04b5c420d76609c04c8461549c0f9cbff3db4dd29de"
+      },
+      {
+        "line": 11,
+        "sha256": "90141c0add89d0fee3a3207c1d436417439455b7cb9cba53a47ef7925ad5457d"
+      },
+      {
+        "line": 12,
+        "sha256": "d8518d1dd2c629ae0b190b8111d4abd6c14c2c988e71db42d75580bfb676d42b"
+      },
+      {
+        "line": 13,
+        "sha256": "792a88310f7180af62ab75c08916568adf58c293c078c322fa6058acfe360d8a"
+      },
+      {
+        "line": 14,
+        "sha256": "73df31628b0c803b10d6ee474e3dacfdf5cee982467790231e4ffaccbeb79c50"
+      },
+      {
+        "line": 15,
+        "sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785"
+      },
+      {
+        "line": 16,
+        "sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7"
+      },
+      {
+        "line": 17,
+        "sha256": "06de00c6cd60daa58732ef0b7c6e50ab66fb95b44546d625e6fc98d34b98fcc2"
+      },
+      {
+        "line": 18,
+        "sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf"
+      },
+      {
+        "line": 19,
+        "sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9"
+      },
+      {
+        "line": 20,
+        "sha256": "46b4a1084a10780516af311ffaf9db987e5ad1063fb62ad06bd1db031562234b"
+      },
+      {
+        "line": 21,
+        "sha256": "7f883d04131c2ceb93c813788d8346734ce228b11188765b294eb7669400a5a9"
+      },
+      {
+        "line": 22,
+        "sha256": "e6f33de1cdbede5423ceaefc027dc3d4bb6a2102a30db1186fc5f7b559b2d2d9"
+      },
+      {
+        "line": 23,
+        "sha256": "70cbfb274f76de9261e3db6189cbacb16a9890e44b0509e2b0026ea686d22e03"
+      },
+      {
+        "line": 24,
+        "sha256": "1c8e5e32ae1d62fb5761e8c9da845a95a8072410874a22a22d82c7602bed0134"
+      },
+      {
+        "line": 25,
+        "sha256": "9c96af10047187817acdbfcc409256b832cc1e1bec7ab02061ed095056b5e2bb"
+      },
+      {
+        "line": 26,
+        "sha256": "a650fa20652cdc365b4f6513e78c5849bf75aebef8bf1d57b62029393a6e0727"
+      },
+      {
+        "line": 27,
+        "sha256": "8fbf20067a907cfd83c96cd002692e6e02ede31fff2831ce1c703bcd3775571d"
+      },
+      {
+        "line": 28,
+        "sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b"
+      },
+      {
+        "line": 30,
+        "sha256": "51ddf7217176d76aded72691ca1f38d899b12fd5eaa6b2aec7be091a0a2e9ad0"
+      },
+      {
+        "line": 32,
+        "sha256": "de2fca0ca3e25887d4631cb75770d55f2f4f2d75909f051017e44d2581b00ba3"
+      },
+      {
+        "line": 34,
+        "sha256": "eca7882fe42c91e9bf6db078018899384f2801da85343d01980b4deaaf0d7a44"
+      },
+      {
+        "line": 36,
+        "sha256": "e3dec1857c84978d67eec352cb05b2a125406e5fb6d776603b2d8ecbedd90a1f"
+      },
+      {
+        "line": 38,
+        "sha256": "2ceead63c14a2e8b7e2825d3b35b6b49eb297a05ee4e18aa04628e5c0b00a881"
+      },
+      {
+        "line": 40,
+        "sha256": "ba311b9542ac487789bd292afcb6bcb4a0bdcf9651b3eabf8e09be92c786d9e5"
+      },
+      {
+        "line": 42,
+        "sha256": "e724cf0dd5d648042a2d8587439ad55c5b03ffa6b7680012c6d17a57cdb4abee"
+      },
+      {
+        "line": 44,
+        "sha256": "e95aed0b34ada305b0ef832d6ac53a190394d19703271654dba981ade18ce110"
+      },
+      {
+        "line": 46,
+        "sha256": "bbbfe200e32a8d3560e9c3cde98ab4a75f298cc0ab92f979de5b1d780a1f0519"
+      },
+      {
+        "line": 48,
+        "sha256": "85fd5135b78d3ddff3d384f7ff6c1cc05bb0565d0d8688b9f884333b0a56a9e4"
+      },
+      {
+        "line": 50,
+        "sha256": "6383e13d3e7d2321397224aaf67ffb5908eaa416f60316af91ce4b1074c09be3"
+      },
+      {
+        "line": 52,
+        "sha256": "eb46d29b859772fdc7dd9a95efea08f517f1e228a35b609f596a08bcf4f8244e"
+      },
+      {
+        "line": 54,
+        "sha256": "28c63155d34858c162f9e1d968ddd22831de968968e257eebe2a130f0d6d30e8"
+      },
+      {
+        "line": 56,
+        "sha256": "6506e7a4b4547473ed60898e4b1fe75cb86ca6b2411adba71f78abbc47aa08e2"
+      },
+      {
+        "line": 58,
+        "sha256": "f91372abbd2edc85bb9537d5ba386a04a379b259c75eca3b73928003e5fbcb0b"
+      },
+      {
+        "line": 60,
+        "sha256": "ae32a75e42a0bacd4abfa49186bac3c1b1c2fdd12b5ca1a6c7d4ae83d0e683bf"
+      },
+      {
+        "line": 62,
+        "sha256": "19fb54cf0b60e6b61ba00217a429138367499a10a637a10bbea7d01c3dfa361b"
+      },
+      {
+        "line": 64,
+        "sha256": "269c8ff28280d2e53ff977e71fb51a6c9208727fd7f27c41072f046eb8529e1e"
+      },
+      {
+        "line": 66,
+        "sha256": "937db2996478143c79c8b83592c5dd680a4fa548fc6c057db1433fdfba6e0668"
+      },
+      {
+        "line": 68,
+        "sha256": "37f77620ab5889170d41867c5765d6668b10e44d4c5c44c6571b6e9cafe1923b"
+      },
+      {
+        "line": 70,
+        "sha256": "445348e8e3c5651dadb280d6d49cdfbfe99ec99a1eed94891322ad1e0fd766ef"
+      },
+      {
+        "line": 72,
+        "sha256": "537d4512e439b9e25bf0a688835d092e1f3e90e120dd0595483460f1a205069d"
+      },
+      {
+        "line": 74,
+        "sha256": "102cf89469a9cc966006f0de82a58bdad0fc02f9132ecef746911ac62fcb38b8"
+      },
+      {
+        "line": 76,
+        "sha256": "029713a99f09b0d428c5dd217f17c4f9782768c22ce3980f77bc0ad4b085d11d"
+      },
+      {
+        "line": 78,
+        "sha256": "d06878c70e6ff45c3373e5ca852b539f0bc40f122c434458a66b6f36d89f2cdb"
+      },
+      {
+        "line": 80,
+        "sha256": "b4594b2a1b6fa9240aec558cea4897f3a3539845b998dcc7f6961bde6ac8b0f8"
+      },
+      {
+        "line": 82,
+        "sha256": "1ddb11ad9d6c38e3c0e417b6fee352bdb5bf56381aeb119817436133dab0bf1b"
+      },
+      {
+        "line": 84,
+        "sha256": "5866e437d1388f564688096b2b59aa51a4fe48b38862be1af6ce4cfbeaa4f1d9"
+      },
+      {
+        "line": 86,
+        "sha256": "1333e567dcc1a27f7bcec73734219a6bc5bbbf8683f4831543b3458ffb318e00"
+      },
+      {
+        "line": 88,
+        "sha256": "e57f5ff402dbadf6622a0cc8d8d59114c8889046688b4d49142a4a8c0accfa8a"
+      },
+      {
+        "line": 90,
+        "sha256": "c26e6381ea2e6832694103b25a279984595cce9075b85b3554e29f984efb938b"
+      },
+      {
+        "line": 92,
+        "sha256": "703580ad2a87983487252f04d7ed0523a7a6173b4f0c947585824b152d97666e"
+      },
+      {
+        "line": 94,
+        "sha256": "508c7f26120043aaa460c6bd308e186c59aed1ddfb7dd0eaf7873b9e4fdb7964"
+      },
+      {
+        "line": 96,
+        "sha256": "340eb1cb66fba11adfcd2e45c5b8792a4de7ee08c8e39372fe705e9948143901"
+      },
+      {
+        "line": 98,
+        "sha256": "cbcd2b0dcebe60f58c80861a0a483152e5f0e82960790f8430a4ce813cfdd771"
+      },
+      {
+        "line": 100,
+        "sha256": "2b7cce331da85e061c101bd699aaa4f21e20b717f890a31246f743fdd4f8fe24"
+      },
+      {
+        "line": 102,
+        "sha256": "263a6cbb757236c2e02eaaf126f812f5346dfaab13bf286291e23e8a8cc10e51"
+      },
+      {
+        "line": 104,
+        "sha256": "71f52bd30d1a1e57aa8f82f2d536f14116c2ee3214531f4c5b193a527edcf5b8"
+      },
+      {
+        "line": 106,
+        "sha256": "f9ca82f36da3c4fec5a323dac87a3f2ca8bb47fc0ce7cdcf0f4519f127df3db3"
+      },
+      {
+        "line": 108,
+        "sha256": "a123e776031a7487b6a895b751ccd0aaab62ac7d622d353b11b90b1be7f69a35"
+      },
+      {
+        "line": 110,
+        "sha256": "2d76da852c4870f35cf523a5e18803a9a91dfdb4d048a45e21d338cd58d1ed60"
+      },
+      {
+        "line": 112,
+        "sha256": "43c2f0de5e50d0804e274e2ae63400532a6f5d16f067d866cae5007a7f9ce6cd"
+      },
+      {
+        "line": 114,
+        "sha256": "9dbb274a55ac3cd3b40f473d1d384b7f4e9d61d020dd6e336a2facc3a8220202"
+      },
+      {
+        "line": 116,
+        "sha256": "aa76b9b4e5717005ba33ec1b2a20b3dbb8ed2506f0e352d80be3ede18188b2a5"
+      },
+      {
+        "line": 118,
+        "sha256": "94b872ffadaaa42993a2896c15d4d0005ed7d7e553b44040692cbc7b873596e0"
+      },
+      {
+        "line": 120,
+        "sha256": "68c86d0904bcd4a2a30814c6368ac3430b9332ded823c4a172bb1ed4183d5278"
+      },
+      {
+        "line": 122,
+        "sha256": "2114b70a92f48a3bb4e7c50289a2cded7ca1a6eb19ea05f7e544185f4f2d0c34"
+      },
+      {
+        "line": 124,
+        "sha256": "6e79e4d69b73dc350b90885176ec5b33fab147236f5a0d1a7e1d8c459aac8bb9"
+      },
+      {
+        "line": 126,
+        "sha256": "4eca624a417f89eca6c1d48dfa6920289d9bd2373a657243e74a894a5895dd46"
+      },
+      {
+        "line": 128,
+        "sha256": "17f24eb41baf32396f0b960f4e43975faad44e56f91405386011a35632cf9985"
+      },
+      {
+        "line": 130,
+        "sha256": "43c14cb688b4f72af54e64b53c5973a047693815cddd759c6186471ace6a997f"
+      },
+      {
+        "line": 132,
+        "sha256": "d45470f9ed20f5db59c0ffa944ad81e34c6847df347bbec7482224f0e97ef453"
+      },
+      {
+        "line": 134,
+        "sha256": "e557b6460c83d9028fc299182eb4cae05a2ad08d3458279f7e3f67c9097fe957"
+      },
+      {
+        "line": 136,
+        "sha256": "aee5a2ab5b49f63c11c26d61cf394c334f8d5548c8641958099a48087a78979c"
+      },
+      {
+        "line": 138,
+        "sha256": "0a3e0b07b3b6820a5f9cba9b60b6ca4c117b5acf199037f8c3da332c81b4307c"
+      },
+      {
+        "line": 140,
+        "sha256": "25fa65a7f76552885fd7223aaa941ada684fd2e0271590bca1b2b8522748c36e"
+      },
+      {
+        "line": 142,
+        "sha256": "4c04ad123b27242461fc3884ed8ee74b806efc514c1d3abbd5e48f2f86c5f573"
+      },
+      {
+        "line": 144,
+        "sha256": "5aabcc9381821d5bbb04fc5be53c8029d5a1bc4043f1a70d26f0a9a411218e99"
+      },
+      {
+        "line": 146,
+        "sha256": "bb2d990f8abae978759cc0ee523346e6ae0982adc914e0a6291890d7e41dd4d0"
+      },
+      {
+        "line": 148,
+        "sha256": "e1f8dba76bfecd6fb8ccf2077bda225683d6a5d22812aedc1cd70d3e305ed712"
+      },
+      {
+        "line": 150,
+        "sha256": "2af56f99388989d0257fae38de08736d420be34411d5be3e0a18af3f34d913eb"
+      },
+      {
+        "line": 152,
+        "sha256": "b303800d0c22a4c68df61def9f2a49405bd82974385dff095f9fe3e6c383f67d"
+      },
+      {
+        "line": 153,
+        "sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43"
+      },
+      {
+        "line": 154,
+        "sha256": "756aa10c47816fa46ca09448277a49b0d19060457c776650749518f993e96a82"
+      },
+      {
+        "line": 155,
+        "sha256": "fbf71605522baa7027debe6a4713d880533cc2f48caf461c6122772f006bca80"
+      },
+      {
+        "line": 156,
+        "sha256": "30cfcaede9858ac627ad8792514ab99470a5b034905243fa925e492af1cf6f31"
+      },
+      {
+        "line": 157,
+        "sha256": "8c103bdb347c35a1750f9c505282655f7cae353a9f71e51b32b00b33e4d98ed1"
+      },
+      {
+        "line": 158,
+        "sha256": "dd5edf38f54388f41797668c6fe558255d9b44c0057580833b82c4e6b21009e9"
+      },
+      {
+        "line": 159,
+        "sha256": "869e0fd67a885ac9e673660ae9f99046369d80c7b60b5f4f5d1e19966e7257b7"
+      },
+      {
+        "line": 160,
+        "sha256": "4c1af926a0ee19ff898bc8cf5dbce0a6841097b767945d3d6f04b8fe212ef711"
+      },
+      {
+        "line": 161,
+        "sha256": "f15d543dbef237bcbd20c7a2a6d3d18491f331cf7c65ee2faed10d9020180889"
+      },
+      {
+        "line": 162,
+        "sha256": "02b27c691b97a2306efc25a9699f344f21dc1e065a58500060db83ecc7c02b50"
+      },
+      {
+        "line": 163,
+        "sha256": "78f9f9b877499e94d07c7e03b4106dd47efa5ddb5e23beb9ba7315608b167bd2"
+      },
+      {
+        "line": 164,
+        "sha256": "696f2577e554ddece049a93cd1ce5d111d5a5af501511aea115f273444068f72"
+      },
+      {
+        "line": 165,
+        "sha256": "650e96f92a6ddc1d2a1f1d77b0b16f6ba84f329f7ab9d9efd7caf135811e02fd"
+      },
+      {
+        "line": 166,
+        "sha256": "779b001d4658bba4a14c2b3eb9e08d2763f35198218a6a99bd12d0d78fb47782"
+      },
+      {
+        "line": 167,
+        "sha256": "5941f923f2c3e23f8051265e0875d02cda26c3164a10bc5da0664823387618d7"
+      },
+      {
+        "line": 169,
+        "sha256": "7a1952e5d425053420d09e10984143b6b2901312754cca3cda4bf4b452195205"
+      }
+    ],
+    "prior_frozen_payloads_exactly_preserved": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_AYANE_CHARACTER_MONOGRAPH.md",
+        "bytes": 41706,
+        "lines": 251,
+        "sha256": "f7e00400711726fd5c820e4eb6a4648518fa20b088573da23bc2e617ed236bed"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 69720,
+        "lines": 1450,
+        "sha256": "931a4a2738e9cd004f92393862b0ce8de53285948636e74aa6ed17cf7a8e5dd2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9258,
+        "lines": 50,
+        "sha256": "4b4a4516bb33d1921e7120e1926c1c4ee9404c205b7c7ff9847182dee82d7003"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/AYANE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4229,
+        "lines": 67,
+        "sha256": "56d7db955f22bedad6dfe33acbb2b94b7075733396666ef6b1ae614c9b6445b4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_NONOMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43519,
+        "lines": 247,
+        "sha256": "bb97bead89b4e8b62fb801b2027b0ea699c92d09124103f548c51263a3f724a0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 68234,
+        "lines": 1481,
+        "sha256": "fe513b5573023d621fb2a09cfbdbb853b2af7a0b8cab2d0108683aacb4b76536"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11242,
+        "lines": 59,
+        "sha256": "80ec11f1ebbdca381646404d55d1caf82ebac660a4760d7b060e43053c5cf18d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_EXACT_PAIR_METADATA.json",
+        "bytes": 3991,
+        "lines": 90,
+        "sha256": "e58bf6f675da3c73296048de4c041981f9ebb84135898bcee9a8f97cc7c8d3ab"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/NONOMI_MM_PAIR_METADATA_PROBE.json",
+        "bytes": 1889,
+        "lines": 59,
+        "sha256": "3a8b6b507aedc82747612dd8562b858ff6a81374d9bd3f5935755ebb04bb356a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/BLUE_ARCHIVE_SERIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 51876,
+        "lines": 252,
+        "sha256": "59fe918d81000805b7211b579851c9a5d7db72f72ed55b29365bddfc15c4f185"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 96649,
+        "lines": 1946,
+        "sha256": "a80bb92d777a5d7128b529f5dfae0eae7bba32abb162fb2c36d8e66c7b5718e5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 10643,
+        "lines": 57,
+        "sha256": "f0c12f2dcce30dd6fbf44aaf8170990f21ae677187fb904f39d6396f3665701f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_FIRST_MONOGRAPHS/SERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 11949,
+        "lines": 167,
+        "sha256": "da77d7f2d3e103360742871182d1191184a85f4b947db44ec8e9921e981e1366"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_HOSHINO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52404,
+        "lines": 233,
+        "sha256": "391f67d25db0cfddce6930260dfe95d61de45511efaffd26fcfd045830fc194b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115571,
+        "lines": 2502,
+        "sha256": "2748d7af6885e11994c38c5b848ed468b2b7cef020e3acc95437b9b50e342591"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 21721,
+        "lines": 82,
+        "sha256": "5524957bc8a988d2de6c3465c7690be555c04d2f47f14b2548849b3f467215be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/HOSHINO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2958,
+        "lines": 47,
+        "sha256": "7c6dcda486d9431cd037a9691763fcb5cdfbda0c6afe7ac2da6b971db99adf1b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SHIROKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 48619,
+        "lines": 229,
+        "sha256": "4aed715309bdb3bb7581bd3ab77dbbfa6d853dbca10d0232bb46bfab659ced20"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139725,
+        "lines": 3099,
+        "sha256": "f5666436a1dbcf029c503c7138847bb2feadbe80c8382d51725621d02f9a7460"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 17252,
+        "lines": 71,
+        "sha256": "8fe7fcb0683da5dc3ed2ee4aff05516e1b043d9f6a5995d28ab2eb4b5b6871f3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SHIROKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5292,
+        "lines": 71,
+        "sha256": "22966ac882234f6a08d5f00f93f3735dbbb620c8dbe258f3e7b8b09a76c3b6ff"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 48646,
+        "lines": 234,
+        "sha256": "dd22db82ab67a6a39447a3a63ac58faad6d85ce211c3dd6cd47917891ad38b66"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 47359,
+        "lines": 968,
+        "sha256": "b07db236e7932073836935763e6ccd94fbc2da4ab27b64ac4c96de09f861c8de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9027,
+        "lines": 48,
+        "sha256": "7d578160976ed40aded7ba45a20e21bacc733b954e4c251303a3e612f25ff135"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ABYDOS_SECOND_MONOGRAPHS/SUBARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2952,
+        "lines": 47,
+        "sha256": "3a28f8e35c69199394ac83a5cafd27faba50f853cf55c66e48ca09da879e1902"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_ATSUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 52227,
+        "lines": 212,
+        "sha256": "cd713fbacf902b8930f6040de6ddb38175103397297dbcf5f68c74bddc11bad4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 83614,
+        "lines": 1883,
+        "sha256": "4fe98d4df3f4f1a12677cdd6717d9f4ae4bb9678aa3e52ef1fd973962ca5e1be"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8811,
+        "lines": 49,
+        "sha256": "f1d405fce4780261195bfbc91c8f083f5e536bf568e15cca02caa50f6ae1494b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/ATSUKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3788,
+        "lines": 59,
+        "sha256": "0546d1f34b5d78fb15af3d0da196c4e0ca44e5467367d779765c52236fd20627"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 45124,
+        "lines": 222,
+        "sha256": "3ddebff28643eb6060c4afc5a3e61128aa8435cf013732583355d006a17a5d6a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 85037,
+        "lines": 1895,
+        "sha256": "8e0e35e2ec7a7e555631cc592a6255b39a0d18e953d154d14ca17cd123c27b4c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6933,
+        "lines": 42,
+        "sha256": "a93d6e5790692bb525dcbf3aad1149721cb830575bafbb829f49c48586f4d9fb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/HIYORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 4752,
+        "lines": 71,
+        "sha256": "59361761048f38c5c15d370b9a1a1f062fa549de3ddb8f2ba878aa2fdad9eaea"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_MISAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43400,
+        "lines": 208,
+        "sha256": "1b6745eab6d26b7d9c1682ec8e91c30439953b0f2c8d04d501796b5e1d11db1a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 86048,
+        "lines": 1835,
+        "sha256": "09737f96b7c9854593f679b36df4955da55843da0e384a6e3fd82b1ee3bda248"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6701,
+        "lines": 42,
+        "sha256": "817613ed438a8c39c46e24431601a3291c8d3eb8356d9c112dfb9508445d5e06"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/MISAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5710,
+        "lines": 83,
+        "sha256": "6ad087406f3e4c80b657e89acec978da22c50d579f894a5d09a8b74dd1fc732a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/BLUE_ARCHIVE_SAORI_CHARACTER_MONOGRAPH.md",
+        "bytes": 47772,
+        "lines": 216,
+        "sha256": "0b16efbad9f94c9478823ba02c4cab60ef36367a5ce2be9d3002900afeb9df65"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 88019,
+        "lines": 1899,
+        "sha256": "5117b604e16e65f94dc730eca16dca3a5c9cc5c631ea3a1e93770928f91501af"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7485,
+        "lines": 44,
+        "sha256": "c23510cb951146e1287588b4e8cacc995055699074724b75b8c7323a78dfc827"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ARIUS_MONOGRAPHS/SAORI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3828,
+        "lines": 59,
+        "sha256": "18d0acadc34bde20cf3d0904486329010b8acaa224ae78d3c89bee2835ae86dd"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_ARU_CHARACTER_MONOGRAPH.md",
+        "bytes": 44503,
+        "lines": 187,
+        "sha256": "3554ef6992f49274f2a61a96e20de5cf0602defc8a7ac532e74cefc3f9db56a1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 88146,
+        "lines": 1754,
+        "sha256": "a5846b7e002de5d99d096fb76354d0337f2f4df3fd5f16112220b74a7a174ff2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8128,
+        "lines": 49,
+        "sha256": "0cfa7786830ed1579829c4529bc2335ba1088719f3eeb1fa8fae0285a89e037f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/ARU_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2965,
+        "lines": 47,
+        "sha256": "c8919cbf916fcb621c1b44fbd01ad14a03de566274b175f26f353ad5be60bdc2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 43114,
+        "lines": 181,
+        "sha256": "f306d79a8a33e536ccefb8aaa0acff2dbd250d6d7b886ed0d11a78ea7ef2766a"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/HARUKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 98755,
+        "lines": 1927,
+        "sha256": "54c51e81808c59e637d77f0475c5a4c9adf1969e91c33a0783e5098df873f102"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/HARUKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8252,
+        "lines": 52,
+        "sha256": "928f82646bc696cff2286cb6b729025f87811ee64cf02ac78e96cdeec8305d44"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/HARUKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3645,
+        "lines": 49,
+        "sha256": "d677cbf4faa1c9aa12f2ec977f4a4d44e1ed2999839d33a0c400db2762e31358"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_KAYOKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 43395,
+        "lines": 181,
+        "sha256": "da38462b3841ed6e02d1ec2458749bc7e839ae0baa86822dd516c1042e0c6113"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/KAYOKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 94382,
+        "lines": 1855,
+        "sha256": "6071a231bdcc29cd23b7911f8e61bb59d90f9c6435cf882bc90b0463f1f6fcb0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/KAYOKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8268,
+        "lines": 53,
+        "sha256": "313cfa5855a4526e806a92505d333155ba134816320c1ca38a596d6b29222778"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/KAYOKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3551,
+        "lines": 49,
+        "sha256": "dcf1fae8e59fe3355a745fc2ad92b16fe087e86a281e73591b81786bd0de6819"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/BLUE_ARCHIVE_MUTSUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43040,
+        "lines": 197,
+        "sha256": "017a6b4219469fcc9eb42ecd96b7a2d3eda3cd6167267bf59d1782eda7cf6ef2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/MUTSUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 87955,
+        "lines": 1756,
+        "sha256": "0865cf7ace827c75df8bc72c0d0eaa02c362d18c2b00ff6066421f024134bea1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/MUTSUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7508,
+        "lines": 48,
+        "sha256": "6731483aad2e06f705562708c37fe40e8e9deaaade1c9355cea4f070e1aedcab"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/PS68_MONOGRAPHS/MUTSUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 2994,
+        "lines": 47,
+        "sha256": "d72696fe648eec466e512644bd8fb192610e152c5619c4f64a5c18acf814cd2f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/BLUE_ARCHIVE_FUUKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 50489,
+        "lines": 203,
+        "sha256": "3d0cf8fc082ecbd03056032a92a39776ac822442b3f5e68ef4c635614008e7c7"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/FUUKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 102610,
+        "lines": 2062,
+        "sha256": "c7e57f398dcaaadcf8a19a8dedd3c0592383ec54e65cb2fafa0d26981064d6ed"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/FUUKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 13006,
+        "lines": 63,
+        "sha256": "7619e16e69c1989dc43ae4529501e0da560c05a5e9b8eba02e903fd10941b6bb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/FUUKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3592,
+        "lines": 49,
+        "sha256": "d9abb34f42ac0e8a19d48f744580a38328b51cde1e7c9feeab806cc76ce80aaf"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/BLUE_ARCHIVE_JURI_CHARACTER_MONOGRAPH.md",
+        "bytes": 43653,
+        "lines": 202,
+        "sha256": "039b43abb7e85dbaa9f3bd8b94020eb18bdee128938c594a55da332b23760d00"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110355,
+        "lines": 2152,
+        "sha256": "3c9352b1c7947b08a4a02e7c43a30981435464b9c074d90c5312443dac8c67da"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11269,
+        "lines": 58,
+        "sha256": "3bce21a5ec37526ab6436a09b3774b32a5e240cd49ceba76991f0263b39531f9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_SCHOOL_LUNCH_MONOGRAPHS/JURI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3587,
+        "lines": 49,
+        "sha256": "d0ab82704a54b5e1ff67a7f746b946b690f9027b269bfc00cf298163a4eedbf0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+        "bytes": 34594,
+        "lines": 178,
+        "sha256": "f88dfb7fe2f93eb7780d8c7094cdfc893a95c8f87f08f28b762dd05c17c3f5ec"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/AKARI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 130216,
+        "lines": 2545,
+        "sha256": "9210d7f096c0988d28b779b30588d2f3845cc6abb4a201e50aae47664eda9d52"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/AKARI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11147,
+        "lines": 59,
+        "sha256": "cd8abb581c668210d26ddc1fb59a4747e62aa443ff11439ba153fc8ac27ffb71"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/AKARI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3561,
+        "lines": 49,
+        "sha256": "1417183c3ca25dfb9bfb6e1baf643ebb2f77f3008af53d2a5b18efa1b8ad900e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_HARUNA_CHARACTER_MONOGRAPH.md",
+        "bytes": 43359,
+        "lines": 205,
+        "sha256": "37cfee0f88ca2f73b33c9bd24d3f2a862ac6b1f90e399d3317b50f4b222ca0de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/HARUNA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 138114,
+        "lines": 2605,
+        "sha256": "f5ba5d16a01afb2523f76f184b6146eebd15094779fa10e0bae11625d8aab358"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/HARUNA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14332,
+        "lines": 68,
+        "sha256": "51aee0cda1694ac4376260028d2b9035b8185c4636c4ecdf525ada339c31b545"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/HARUNA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3620,
+        "lines": 49,
+        "sha256": "1896f8ada00f1739f43f91b0dd8bd9041443eb24912808a2c5574c4ceef158b1"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_IZUMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 37279,
+        "lines": 184,
+        "sha256": "e0f97fa48b11240afae2f44799b18a7765b67001c07742f24ee97b1f68772e2d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/IZUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 169532,
+        "lines": 3272,
+        "sha256": "609b1213af43978e5868fac18b684b61920421a48f50386f7619c8e629055562"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/IZUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 13952,
+        "lines": 70,
+        "sha256": "f9c4a32728664895aaf7d5181a5fd2fd4331c94b4779c43f801f8e7f0c705832"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/IZUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3599,
+        "lines": 49,
+        "sha256": "77c4178c7c2cd6fbea65c9e2fd535c7bea6450457edf811cfab46cd3cd301c5c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/BLUE_ARCHIVE_JUNKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 35485,
+        "lines": 183,
+        "sha256": "9796e564fac086756d7d197184a93fbc915b1235df7eb671de29ce5ae082aca3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/JUNKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 142198,
+        "lines": 2739,
+        "sha256": "bdd71ba03a9edcf758f274d9c453e689fada823d5bc262ac0c476ee776dce638"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/JUNKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11470,
+        "lines": 59,
+        "sha256": "f944e0f2348c1ea2a35cd26dbef1d64239a7894d746750d1034fb2faa6b4f6da"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_GOURMET_MONOGRAPHS/JUNKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3588,
+        "lines": 49,
+        "sha256": "5cf0b5e7f6c6b9814aa08166e500bda1c938853ddf28320904c42c2ad5e47bea"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_KASUMI_CHARACTER_MONOGRAPH.md",
+        "bytes": 35162,
+        "lines": 157,
+        "sha256": "e8b4c36930bc32387ca6d09c8e5408c29a3e52b869cbcf68fa0c2c6523025882"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110683,
+        "lines": 2010,
+        "sha256": "2f862f2edd4a993a64c81bfd6afcefc8b2f10216245d755c04fd34b8680ad463"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14689,
+        "lines": 71,
+        "sha256": "8ba0b439cca23512a63705fbdf2eb46bc85e883db0b72e408a77d54ab6cfadf0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3619,
+        "lines": 49,
+        "sha256": "7c8fae4fbb4327ee15ef2d89d5cd2d1a35e8bba00f9d6db4c08cab2134aef088"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/BLUE_ARCHIVE_MEG_CHARACTER_MONOGRAPH.md",
+        "bytes": 35861,
+        "lines": 149,
+        "sha256": "584648200ff9047b545b952e9f0a926b0f8c97c234225fac9875936113c58398"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/MEG_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 102630,
+        "lines": 1910,
+        "sha256": "0f481ee4cb599e85f602abc394798269911e1f4e094a582831db5587a7ccc049"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/MEG_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 14517,
+        "lines": 79,
+        "sha256": "1dfefb2c3d3711493b3029d7336b6a328e67edb91c86e6b32f82deb4d2a797bb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/MEG_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3593,
+        "lines": 49,
+        "sha256": "dad3fa55f3e2714851b55390ff5a03ba62dad8feb898a15e67893b76911a2c83"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_MAKOTO_CHARACTER_MONOGRAPH.md",
+        "bytes": 35952,
+        "lines": 151,
+        "sha256": "cfb8431e2c7675045428a84129330f12f9f08d06be71468a639c238d7c3f762f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 118680,
+        "lines": 2171,
+        "sha256": "fe3d76613e8f648f7c824b818888743968983b2b40c482ae9bd2735c72b71538"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 13058,
+        "lines": 77,
+        "sha256": "15cf745bf3bc68737174c2e179efe0f33384e4aa8dce032eb90516b49a35ac13"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3612,
+        "lines": 49,
+        "sha256": "46a8888c846e039ec38b67dd7ef6df6f1c8e0236ac62ff73c5bf7ccc3a5ac035"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IBUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 37111,
+        "lines": 147,
+        "sha256": "a32b180359ed1ba07758b3eebd2457ade3381a05c3552fe49541df8f8cd0f0dd"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 114725,
+        "lines": 2100,
+        "sha256": "0510592fb1135f0bd13adc3636d74261219a1808945ed976ad10628a639dd106"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 12040,
+        "lines": 75,
+        "sha256": "ee3837fd077245ae795bbf242daf8e5cb7fc3dde469db9ecd8b2ff123edb1703"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IBUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3615,
+        "lines": 49,
+        "sha256": "7b5e048fe34ef93b3183da63cc09d705dc534d82d3d859e75ff49572b57803cb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_SATSUKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 32750,
+        "lines": 147,
+        "sha256": "9e65760d16299cd5d3fe5513950b4e04733d8ba87dedd0debe188267a4e14a6b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/SATSUKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115340,
+        "lines": 2115,
+        "sha256": "934fd265928c0b5e1bcc889649e9c55cb8c9297364e4285ba0d6a2ef79c02a80"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/SATSUKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 10350,
+        "lines": 69,
+        "sha256": "5a0bdb43408e562b215ab4a1a1b7936d6ce5d949fb0afe335740ab76461842fa"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/SATSUKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3579,
+        "lines": 49,
+        "sha256": "731ed2bb06d66b66dfcdd176d79c5f0fa97541d0a31a077042d8b4cc776c1827"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_IROHA_CHARACTER_MONOGRAPH.md",
+        "bytes": 35273,
+        "lines": 153,
+        "sha256": "1d057c903ba1803b4490f598527d6d56c6e8ec1bc280fbe854bc28a41ac03f51"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 139058,
+        "lines": 2400,
+        "sha256": "ab08b598b15a7965197dc19941b24e731c3caa8ded0a9346f9a8736f3b2736de"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 15791,
+        "lines": 88,
+        "sha256": "57db1901a0fb39af5a20a417dcfacc8c6dcaf2fe58d7fdbb1415571868cb8d0e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_PANDEMONIUM_MONOGRAPHS/IROHA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3879,
+        "lines": 53,
+        "sha256": "db423cf59a999ed1338ecaf5c82f7d9fa642e4aee4ce0d4a4a358a0768616450"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_CHIAKI_CHARACTER_MONOGRAPH.md",
+        "bytes": 33342,
+        "lines": 149,
+        "sha256": "00aea04d68702ad9a7664c1a051c18a5482e781caed9b901bf5b037dd0afb4a2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 122245,
+        "lines": 2215,
+        "sha256": "7bf7c6c99275ecd9066fd7579315b4ed07eacacbe94e45ff0916fcb4bbf12c94"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 11655,
+        "lines": 71,
+        "sha256": "f1984ae603b3d8ac1e758545d99f336e3c59846a8faa6f1169940f71d6637e90"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3920,
+        "lines": 53,
+        "sha256": "4c8fb3d26ad1d7f0a31c8b69ae7c4b850a747270f45f57d519dd4e02e8da3c54"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_KIRARA_CHARACTER_MONOGRAPH.md",
+        "bytes": 35982,
+        "lines": 154,
+        "sha256": "c5f96e4315e8e8a4372031dd2693d4d0ffa550d6558581e319ff8f39165e6582"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110370,
+        "lines": 2068,
+        "sha256": "40b13fd64ae528f9768e4ed7b91727e8ecf1e9430acffb4a395fefeecdf81df4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9525,
+        "lines": 57,
+        "sha256": "1b5e6e3226dbd18001a7202e4d9efe15f749c1254184969c959af669b9c8caa3"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/KIRARA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3849,
+        "lines": 53,
+        "sha256": "3a14b4f7b8f1a71d16f459e86fc942aac890e4836853e523f5224818a78e01d6"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/BLUE_ARCHIVE_ERIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 34825,
+        "lines": 154,
+        "sha256": "182186871cedb312a072934e571cb39eb3fa5950007f6f6ad5dcf9d2ddcf42eb"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/ERIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 115560,
+        "lines": 2124,
+        "sha256": "d7fada0e8694d006778f43ca9396881895281a41cbd001e2cf313c97f6aa662d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/ERIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9607,
+        "lines": 57,
+        "sha256": "ccdddb047ba54833d6cc4796b0910780f64bd895266adaee8e7f755bc0e7157c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/ERIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 3780,
+        "lines": 53,
+        "sha256": "edb07a96b0701c9eef9e6bb34474fd188477d64309525678c53af2b4f9cbdcb0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 45880,
+        "lines": 193,
+        "sha256": "cc402f3485d17fce38314f6ec053a6334153cfeec6fe2e09c9c891cdea5294da"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 132273,
+        "lines": 2718,
+        "sha256": "d7e807681da4b7a012c3c933dd726c02d71f815b2bcd43f0c001d1982c27f99e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7920,
+        "lines": 49,
+        "sha256": "6fffef687149d00ed6aa6f2aa8278c3809c89c6bc903ebae47ec031f600ef16b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5683,
+        "lines": 105,
+        "sha256": "8fdc997c82a5f27ca7f2db4a3fe087b8101238eddab25b105ec6410e2010d3c8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_HANAE_CHARACTER_MONOGRAPH.md",
+        "bytes": 39639,
+        "lines": 188,
+        "sha256": "49fb247cd69b90f65be0d2443f0f1d1a967ed93034a200c8238a6f8e1e1c37ee"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 137860,
+        "lines": 2819,
+        "sha256": "d2dfc217b9dd7fa2d27c2f758d947fff081bc15feb3efc7797e5b29bf1948980"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8832,
+        "lines": 51,
+        "sha256": "c5ea98035f193c68a23afc5998a031abec324ad46cf50f0381b56cccafe80815"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/HANAE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5675,
+        "lines": 105,
+        "sha256": "08f3e529faec96cbe6a6ff1cabbb5525290e646ec2e5cd37316eef44cdae5f2b"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md",
+        "bytes": 42904,
+        "lines": 199,
+        "sha256": "75208d17e134ec6129e514b848b9a0d413da2f24935d65480cc41f1ea18f5ae8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 140056,
+        "lines": 2843,
+        "sha256": "8ea8c91a4566efcdb5729021110dee31495a7259e1e7a363c5c2f04b5297dffc"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 9782,
+        "lines": 55,
+        "sha256": "4391ab73caf048722525e1a8985d0db28d4c0161169ac3a39ce3e0c936c64932"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/RESCUE_KNIGHTS_MONOGRAPHS/MINE_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 5671,
+        "lines": 105,
+        "sha256": "f5676cbc65b92f828161e7755c671927ebd09b1f8674998a053867d4df59ae92"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_MARI_CHARACTER_MONOGRAPH.md",
+        "bytes": 42287,
+        "lines": 172,
+        "sha256": "e471bdba456f2ed878cb4019a01f0095bc92a81cff501c9944812a7023d9540c"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110783,
+        "lines": 2258,
+        "sha256": "14571c5ba2cbc9d0ad52d5e12d39b9147ee8c060978cc3a66724fe0cb1cb5835"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/MARI_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7248,
+        "lines": 41,
+        "sha256": "cf80995017b17db0c974ff577e35569f13b707e3caa39527a659f1996c47fcd0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/MARI_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6222,
+        "lines": 111,
+        "sha256": "69361df3fdb0101c64b689cf684a3ee960ba09a27fcf2be33dd0f4861c547788"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/BLUE_ARCHIVE_SAKURAKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 44177,
+        "lines": 180,
+        "sha256": "51349f5f9db77b8a6c078ff583e6478d248c29c7d7f04ccf61e1782579ee34ca"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 106064,
+        "lines": 2143,
+        "sha256": "c746a1e518484acd24264827e95b432f8d1673c6c82519cc6ab0d04bcdea1c9f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/SAKURAKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 8133,
+        "lines": 39,
+        "sha256": "67b278d94ebd7cd6b4fd3069f1434d8c142991c71a2a3d101c806cd2c7ccb5d8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/SISTERHOOD_MONOGRAPHS/SAKURAKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6611,
+        "lines": 117,
+        "sha256": "0663b5a9e55632f8c812fa190a57e76f68b47a9dbd8fb814cdd7bd882b24c28d"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+        "bytes": 43021,
+        "lines": 156,
+        "sha256": "42110c5c9e3e4880046e5a6de85fdf6d8146b783c8af8cb815ef64813701ffe9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110703,
+        "lines": 2232,
+        "sha256": "6211993066c7aef641b0faec7180fafe0cc908b7e98960a7060bc35e809937b0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 7106,
+        "lines": 37,
+        "sha256": "d7b06f49f7148845f7b6738c00a73ebe1256a53ecd435a24c9d6d61f1c40aced"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6638,
+        "lines": 117,
+        "sha256": "496b21bb0bfb572caf0f1dde6a030b50c3ebedf62e26cfef69435a3be21c0dc2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+        "bytes": 38668,
+        "lines": 157,
+        "sha256": "481c169bfbf6b12c51f3305c1a63720304e384ce0bcd0959ee6f0bcafd1c3154"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 108422,
+        "lines": 2209,
+        "sha256": "1c10e94c8095a5d796011f706f781dfbd658797b00b133e39a6465a18d1d8bc9"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6007,
+        "lines": 29,
+        "sha256": "a0df914f1660b2134fc9ed367e26ee75c7f8e71f011060cdf4d9a23d274f2c05"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6458,
+        "lines": 117,
+        "sha256": "0e43c33d4860a0af4a0719d9c8633a233f0aae811e3cdbeac419b0af7585dc28"
+      }
+    ],
+    "additional_separately_frozen_supplement_payloads": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_V1.md",
+        "bytes": 5470,
+        "lines": 23,
+        "sha256": "9972869dcbf8f7f3de540bb5244a073191bd93737c7bf8cfcfc1a6744ac4c89f"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_HOTSPRING_MONOGRAPHS/KASUMI_ADDITIONAL_PUBLIC_CONTEXT_SUPPLEMENT_RECEIPT_V1.json",
+        "bytes": 7939,
+        "lines": 128,
+        "sha256": "d7a01e901837c9562781f53cb862961d5d7d2d850832e1912559af58d0884af5"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_ORIGINAL_STABLE_GAP_ALIGNMENT_SUPPLEMENT_V1.md",
+        "bytes": 7337,
+        "lines": 24,
+        "sha256": "e282fe6c692dd626985075503d9f86f36df401a3392c4d4caea98ad1f5c129f2"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/GEHENNA_CHIAKI_KIRARA_ERIKA_MONOGRAPHS/CHIAKI_ORIGINAL_STABLE_GAP_ALIGNMENT_SUPPLEMENT_RECEIPT_V1.json",
+        "bytes": 7028,
+        "lines": 155,
+        "sha256": "76fe391c719decbbbfb3b3209f044d8f153a7fb04b3c20c9cd72181230e626c4"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MAIN_005_002_003_ORDINARY_RECIPIENT_SUPPLEMENT.md",
+        "bytes": 3278,
+        "lines": 13,
+        "sha256": "f186a4e851e537de170c26363b70a63c22faebcd81d56b3ffafdf3ae13e6e1fa"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MAIN_005_002_003_SUPPLEMENT_RECEIPT.json",
+        "bytes": 7034,
+        "lines": 104,
+        "sha256": "b9a45d27d2eaff57645dbb6d97cea3c0fc5071c89a30930928f6b52602518cf9"
+      }
+    ],
+    "prior_qualified_argument_custody_receipts": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/SHIZUKO_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 110703,
+        "lines": 2232,
+        "sha256": "6211993066c7aef641b0faec7180fafe0cc908b7e98960a7060bc35e809937b0"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/FINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 108422,
+        "lines": 2209,
+        "sha256": "1c10e94c8095a5d796011f706f781dfbd658797b00b133e39a6465a18d1d8bc9"
+      }
+    ],
+    "present_metadata_probe": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6499,
+      "lines": 117,
+      "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305",
+      "actual_complete_receiving": "91aafb whole117 through EOF; captured732b3f2 metadata distinct from datedcf2f body"
+    },
+    "own_complete_readable_receipt": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 6863,
+      "lines": 39,
+      "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e",
+      "actual_complete_receiving": "91aafb whole39; final actual boundary line39 personally read before freeze"
+    },
+    "structured_receipt_actual_boundary": "34976d complete named source/control/governance/home/private/public semantic fields; 009191 complete original14 gaps/claims, all51 equality comparison projections and prior custody/remaining fields. Finite exact path and saved nonempty line verification separate mechanical credit; no asserted whole2325-line JSON narrative receiving.",
+    "remaining_full_phase3_work": "Independent ROOT complete receiving/exact/adoption; all355/29 character/directedrelation/ensemble/institution/Sensei/register/convergence duties separate, no milestone"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "complete_author_attachments": [
+    {
+      "name": "UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "original_exact_tuple": {
+        "path": "FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6863,
+        "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e",
+        "git_blob_oid_of_actual_bytes": "578dc1dd9308ca0e4ae9dfae9b887f68f5bf97a7",
+        "lines": 39,
+        "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md"
+      },
+      "complete_original_payload": "# Umika author receiving receipt\n\n## Literal existing allocation\n\nP3-CHAR-UMIKA/P3-F037, literal BA_PERSON_CH0110/familyCH0110/里浜ウミカ, variant10090 and costume1900924101→10090. No invented UMIKA family rekey or new home. Existing355/29 responsibility verified narrowly; navigation is not mature literary completion or a denominator operation.\n\nPrivate duties12=5BOND+5whole linkedMomoTalk+2written, in personally whole maintained51-object/504-line Festival account, with independentShizuko20/Fina19 comparisons. Exact five episode IDs002/003/005/006/015 and whole thread IDs100900010/100900090/100900170/100900230/100900330 retained; endpoints beyond launches preserved. Canonical profiles/costume written only, no performed voice.\n\n## Authority and actual execution\n\nArchitecture1.12 eleven substantive dimensions/method1.10 DEEP_SYNTHESIS; exactmain2e/c1 analytical baseline separately from bodycf2f and current mutable metadata probe. JP a038020f1f5ac02dcfe76962426d38f86414cdd8/generationBA_REFRESH_20260928T032248159554Z/gamev1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1/parser0.2.0; older Maincbe3 prior declared custody preserved. Current Cycle008 controls historical wrappers' admission/status; it does not add source reading, exposure/order/independence or rights. Undeclared historical conditions UNKNOWN, performed voice/AV unreceived.\n\nAuthorized C-only local synthesis exception and cancelled artifact integration handoff. No paidAPI/cloud/model/R/Git/provider/global/admission/external/merge operations. AllnineUNBOUND large and preserved_phase2_work bodies unopened/unhashed. Small105-row dispatch inspected as bounded metadata, not the former mistaken10,582,861-byte description.\n\n## Complete adequate arguments and local endpoints\n\nPrivate complete504 personally received d59f6d1–110/b41dbb111–260/8e339f261–390/b61655391–504EOF, exactsourceIDs6b8302. Umika's own ranking and childhood account, actual parade/walk, café rest/foot relief, intrusive hospitality/apology and Sensei's unresolved renewed question, actual prepared private festival/sitting/shared fireworks, unknown dolls/impulsive memory goods/actual finishedwork and conditional unaccepted entrustment550 retained. Slowshopdays are report, school/test/Marimo future unperformed; ordinary pleasures and wanted futures intrinsically relevant.\n\nEleven previously personally complete public arguments reused from Fina/Shizuko exact receipt scopes: wholeG2301–2302/G2403–2404, compactE801/813/815, wholeE835149/E847159, compactV005C00195/C00292 with final clipping repairs5cd680, specificV005C002E02346 andV100C002E01026. Mere context or mention gives no Umika act: G2301 research absence mention-only, genericC001E003 and mikoC001E012 no identity join, other complete event contexts without printed Umika action remain comparison. Whole Main005C002E00353 personally48a492 retained as positive Umika food/thanks role; exact Shizuko supplement frozen separately.\n\nFresh adequate wholeE80000 comparison178 personally52b2fd and wholeUmika11744 personally3d52bd. Nine independent gifts not one plot or chronology; othereight recipients not Umika appearances. Umika's proposed chocolate fireworks revised under doubt, credited president commercial insight, ambitionnotmastery, particular mikoshi gift/deity analogy and conceded symbolic objectivity. Broken private clauses, prepared tea and thanks alternatives do not establish allconsumption, formalworship or reciprocalromance.\n\nTotal15 whole selected adequate analytical files plus2 complete background/negative-role inquiries; seventeen exact files/51 historical equality comparisons main2e/c1/cf2f. Equality does not itself mean fresh complete prose receiving or source/native credit. All stated fresh primary/native/raw/QA/AV credits0.\n\nEVENT835 error and achievement both substantive: chosenfirstassignment/refusalpermitted, designedoutfits andownrefusal, actualcontacts/photos, wrongearlyfireworksmovement01220–24, distributedheat/fighting/unprovedsinglebulletcause, chosenfinish/help01589–94, realothers'firefighting/cooperation/resumedceremony/safelyendedtrip. Shizukorecognizesachievement andobjectstoosoon, notperfectorganizerpromotion. Reportedextinguishment/cleanup noinspection orcompletedrepair, coercedcleanupnorehabilitation. EVENT847exploded/sunkvenue plusactualthanks retainsreceivercosts.\n\nMain005C002E003 actualdumplingtasting, publicthanks, declinedprivateenforcement, staffinglimits andbegunsandbags distinct; NagusaAyamehope notendpoint. MainE023 admittedrisk/optout/localobservedbookeffect distinctfromNiyaretractedpurgingtheory; FinalE010defenselaunchnotfinishedenemyresult. Peershaveindependenttaste/refusals/play/work, troupesabotageandlaterhelpbothpreserved; nouniversalrecipientconsent/one-schoolessence.\n\n## Claim-specific original gaps and remaining duties\n\nAll14 literal original names OPEN directly, not renumbered local themes: G01 Ordinary and private breadth;G02 Yuuka council/club decision transfer;G03 Serika service, peer and reciprocity range;G04 Hina crisis causality, accountability and ordinary contrast;G05 Arius and PS68 ordinary/aftermath transfer;G06 Cross-school ordinary repertoire;G07 Story-world chronology;G08 Event naming and repeat contexts;G09 Written speaker/choice attribution;G10 Performed voice;G11 Hoshino's Yume record and office states;G12 Counterpart, system and variant identity;G13 Office, contract, safety and technical outcomes;G14 Unclassified/mode continuity.\n\nNo mandatory primary recovery for bounded asserted meanings. Stronger runtime attribution, accepted doll entrustment, all-localefinal identity, literal ritual/mechanism/symbolicforce, businessmastery, totalhistory/legalcontract/promotion/safety/clinicaloutcome/completecompensation/futurefulfillment/worldcalendar/performance claims remain unasserted pending evidence. Seven genuine rivals preserve positiveachievements andadverseboundaries; no single person-wideflaw or automaticredemption.\n\nIndependent ROOT whole receiving/exact/acceptance and canonical adoption pending. Required directedrelation/ensemble/institution/Sensei/register and fullcastconvergence homes remain separate, notoptionalpolish. No selfcount/denominator/milestone/model/newprimary credit.\n\n## Saved prose and finite preservation\n\nAuthor personally whole saved169 lines998bf5 1–84/e03627 85–169EOF. Whole readable39/probe117 personally91aafb; structured source/control/governance/private/public/home fields34976d and original14 gaps/claims/all51 equality fields/remaining scopes009191. Final actual boundary line39 personally read before freeze. Exact145 previous frozen payloads+6 separate supplements preserved, including all Fina/Shizuko originals and ShizukoE003 supplement. Finite binding/savedline checks mechanical only; no false whole2325-line JSON narrative claim. No preserved producer payload changed.\n"
+    },
+    {
+      "name": "UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "original_exact_tuple": {
+        "path": "FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6499,
+        "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305",
+        "git_blob_oid_of_actual_bytes": "dcf7ce6fe18d6756bdd5f6da004c26562bd5ead4",
+        "lines": 117,
+        "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json"
+      },
+      "complete_original_payload": {
+        "captured_UTC": "2026-10-10T15:39:17.053835+00:00",
+        "head": "732b3f2e635d2b8e8855f4e6709354031936ebc6",
+        "body_dated_navigation_head": "cf2fba61c9e8448acdd2677f06d5258c051a6ba4",
+        "exact_existing_home": {
+          "home_key": "P3-CHAR-UMIKA",
+          "kind": "CHARACTER",
+          "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+          "source_responsibility_refs": [
+            "P3-F037"
+          ],
+          "literary_rationale": [
+            "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": true
+        },
+        "partition_binding": {
+          "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+          "bytes": 461112,
+          "lines": 6514,
+          "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a"
+        },
+        "controls": {
+          "candidate": {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+            "bytes": 755555,
+            "lines": 789,
+            "sha256": "37b30edcca9ee35aae6f61f21c08e63427531dc6c21fe2df154f3a5fe41ff2df",
+            "physical_data_rows": 788,
+            "metadata_only": [
+              {
+                "candidate_unit_id": "P3-F037",
+                "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+                "subject_or_responsibility": "Umika",
+                "raw_identity_or_source_ids": "BA_PERSON_CH0110",
+                "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+                "source_boundary": "B5/MM5/W2; variants 10090",
+                "eligibility_review_state": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+                "argument_or_limit": "P3-F037 (‘Umika’) routes to the explicitly accepted355/29 homes: P3-CHAR-UMIKA. Full original source thesis, contrary cases, intrinsic wants and exact recipient/identity/mode/chronology limits remain in the preserved whole decision and ROOT scope. Scope acceptance is separate from literary writing/receiving and adds no completed package.",
+                "package_target": "P3-CHAR-UMIKA",
+                "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+              }
+            ],
+            "scope": "Dated bounded navigation only; no source/primary/literary/count credit"
+          },
+          "required_package": {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "bytes": 93949,
+            "lines": 356,
+            "sha256": "bc9b6e73aee8a3343680624c2416386607c598d27b986d8e685d31d62fdae348",
+            "physical_data_rows": 355,
+            "metadata_only": [
+              {
+                "required_package_id": "P3-CHAR-UMIKA",
+                "kind": "CHARACTER",
+                "subject_or_question": "Umika",
+                "source_responsibility_refs": "P3-F037",
+                "mandatory_named_section_ids": "",
+                "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+                "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+                "canonical_path": "",
+                "persistence_state": "UNACCEPTED",
+                "remote_publication": "NOT_YET_PUBLISHED",
+                "main_integration": "NOT_YET_INTEGRATED",
+                "completed_after_ROOT_install": "false",
+                "required_count": "1"
+              }
+            ],
+            "scope": "Dated bounded navigation only; no source/primary/literary/count credit"
+          },
+          "coverage": {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+            "bytes": 75339,
+            "lines": 149,
+            "sha256": "ba15bbfb3e7f25be67494fcf505d3e98e73a5b74eabceacf9dde3f6314da023c",
+            "physical_data_rows": 148,
+            "metadata_only": [
+              {
+                "family_key": "CH0110",
+                "subject_label": "Umika",
+                "pool_boundary": "BASELINE125_SELECTED2556",
+                "raw_person_keys": "BA_PERSON_CH0110",
+                "raw_keys_without_registry_join": "",
+                "selected_character_ids": "10090",
+                "selected_student_variant_ids": "BA_VARIANT_10090",
+                "display_names_jp": "里浜ウミカ",
+                "exact_variant_display_names": "BA_VARIANT_10090=里浜ウミカ",
+                "bond_count": "5",
+                "whole_momotalk_count": "5",
+                "written_count": "2",
+                "unique_primary_owned_objects": "12",
+                "frozen_selected_scope_count": "12",
+                "selected_comparand_story_ids": "",
+                "qualified_current_normal_owner_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+                "qualified_arc_context_paths": "",
+                "known_formal_intake_statuses": "ADMITTED_WITH_LIMITS_CYCLE008",
+                "actual_analytical_scope": "ROOT_QUALIFIED_COMPLETE_WITH_LIMITS; SOURCE_ADMITTED_CYCLE008; LITERAL_IDENTITY_AND_SOURCE_MODE_LIMITS_RETAINED",
+                "model_grades": "UNCHANGED_NO_NEW_GRADING"
+              }
+            ],
+            "scope": "Dated bounded navigation only; no source/primary/literary/count credit"
+          },
+          "dispatch": {
+            "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_OWNER_CENSUS_DISPATCH.csv",
+            "bytes": 82861,
+            "lines": 106,
+            "sha256": "141aa9dd8cc3118e0914d96cb4579aacd8d60b8231520f0e6061a879fa2d3e3e",
+            "physical_data_rows": 105,
+            "metadata_only": [],
+            "scope": "Dated bounded navigation only; no source/primary/literary/count credit"
+          }
+        },
+        "no_new_denominator_home_count": true,
+        "large_file_boundary": "Only small admitted metadata. Actual dispatch physical105 rows, small bytes binding below; not10,582,861bytes. NineUNBOUND and preserved_phase2_work bodies unopened/unhashed."
+      }
+    },
+    {
+      "name": "UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md",
+      "original_exact_tuple": {
+        "path": "FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md",
+        "bytes": 2004,
+        "sha256": "9b1a938e44aac2c5ad0d246c8cc2ad44ab17a30ffe0d2893ea60c6deabfe88d4",
+        "git_blob_oid_of_actual_bytes": "388729fc9b6d3d1a224fe588c2428f2a2c041c2a",
+        "lines": 19,
+        "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md"
+      },
+      "complete_original_payload": "# Umika BOND003 actual payment and return — narrow immutable erratum\n\nThe frozen169-line candidate is unchanged. Its §7 line104 incorrectly describes payment and return as a future commitment. The complete maintained private argument explicitly records an actual ending: new customers arrive, Umika becomes busy, and the adult pays and returns at u50. All offered food consumption remains unenumerated.\n\n## Exact before clause\n\nwhile his future commitment to pay or return in BOND003 is not a scene of all food purchased and eaten.\n\n## Exact replacement clause\n\nwhile his actual paying and returning in BOND003 does not show every offered food item eaten.\n\n## Complete operative replacement paragraph for §7 line104\n\nThe contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his actual paying and returning in BOND003 does not show every offered food item eaten. Different outcomes belong to different exchanges.\n\n## Source warrant and limits\n\n`BA:bond:10090:003:scene:001:u:0050`, represented in the complete admitted Festival private account line291, personally rereceived at875812 lines285–298. The adequate argument settles actual payment/return directly; no canonical/native/raw/QA/AV replay is necessary or credited. Whole private and message custody remains at its already declared scope. This corrects only the actual-versus-future outcome; no all-food consumption, future café visit, romance, clinical or broader chronology claim follows. ROOT canonical incorporation and independent acceptance remain required; the four frozen payloads and manifest are unchanged.\n"
+    },
+    {
+      "name": "UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_RECEIPT_V1.json",
+      "original_exact_tuple": {
+        "path": "FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_RECEIPT_V1.json",
+        "bytes": 5033,
+        "sha256": "22f9b05aa305658b5a1a59b697aadc6aca8b6546a51a90bb2af5f98138dfa918",
+        "git_blob_oid_of_actual_bytes": "84402eba80f24188dd3953892987402e48b85e15",
+        "lines": 66,
+        "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_RECEIPT_V1.json"
+      },
+      "complete_original_payload": {
+        "status": "IMMUTABLE_NARROW_ERRATUM_CANONICAL_INCORPORATION_REQUIRED",
+        "frozen_candidate": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+          "bytes": 39767,
+          "lines": 169,
+          "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465"
+        },
+        "erratum": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_BOND003_ACTUAL_PAYMENT_RETURN_ERRATUM_V1.md",
+          "bytes": 2004,
+          "lines": 19,
+          "sha256": "9b1a938e44aac2c5ad0d246c8cc2ad44ab17a30ffe0d2893ea60c6deabfe88d4"
+        },
+        "affected_line": 104,
+        "affected_section": "7 Sensei",
+        "before_clause": "while his future commitment to pay or return in BOND003 is not a scene of all food purchased and eaten.",
+        "after_clause": "while his actual paying and returning in BOND003 does not show every offered food item eaten.",
+        "complete_before_paragraph": "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his future commitment to pay or return in BOND003 is not a scene of all food purchased and eaten. Different outcomes belong to different exchanges.",
+        "complete_operative_replacement_paragraph": "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his actual paying and returning in BOND003 does not show every offered food item eaten. Different outcomes belong to different exchanges.",
+        "source_argument": {
+          "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 78627,
+          "lines": 504,
+          "sha256": "d667a8ce24200c2ad33d4ec808495bde01ddfc3d3c521d6452200d77c2e5705a",
+          "actual_receiving": "875812 exact285–298; prior personally complete504 source scope unchanged",
+          "warrant_line": 291,
+          "exact_story_locator": "BA:bond:10090:003:scene:001:u:0050",
+          "settled_distinction": "Actual adult pays and returns; all proposed food consumption unenumerated"
+        },
+        "frozen_output_preservation": [
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+            "bytes": 39767,
+            "lines": 169,
+            "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+            "bytes": 114688,
+            "lines": 2325,
+            "sha256": "4e78ceb616fc39e2217b91dbcf11840f9c4386e1680b2185391227286a1e48e8"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+            "bytes": 6863,
+            "lines": 39,
+            "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+            "bytes": 6499,
+            "lines": 117,
+            "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_FROZEN_DELIVERY_MANIFEST.json",
+            "bytes": 3025,
+            "lines": 62,
+            "sha256": "5a08deb60a68c7a04a1f9461cbba206540cee8e2a720e4f8909ede3a0dc2327c"
+          }
+        ],
+        "new_primary_native_raw_QA_AV_credit": 0,
+        "independent_ROOT_acceptance": "PENDING",
+        "limits": "No broader replay, wholefoodconsumption/clinical/romance/calendar/denominator or count change; exact replacement once before canonical adoption"
+      }
+    },
+    {
+      "name": "ROOT_UMIKA_EXACT_CORRECTION_VERIFICATION_V1.json",
+      "original_exact_tuple": {
+        "path": "ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/ROOT_UMIKA_EXACT_CORRECTION_VERIFICATION_V1.json",
+        "bytes": 2575,
+        "sha256": "821ab75b2303ae9eb2dc4467727ba5a8fae98e14b770329232fd73ae35bfaec4",
+        "git_blob_oid_of_actual_bytes": "55bac89157e26aeb1a78d49cc4da2ac672f03e64",
+        "lines": 27,
+        "immutable_transport_path": "immutable_originals/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/ROOT_UMIKA_EXACT_CORRECTION_VERIFICATION_V1.json"
+      },
+      "complete_original_payload": {
+        "status": "PASS_EXACT_BINDINGS_AND_ONE_CLAUSE_LOSSLESS_CORRECTION_PENDING_ROOT_ACCEPTANCE",
+        "candidate": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md",
+          "bytes": 39757,
+          "lines": 169,
+          "sha256": "b381617e873307ea9f0c0fc9bfdbd1c1037ec6ff3ee312ab9038b1275d50788b",
+          "actual_byte_blob_oid": "f57cfb0e8868f520abb19a883764000c3ea38f20"
+        },
+        "original_body_sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+        "erratum_receipt_sha256": "22f9b05aa305658b5a1a59b697aadc6aca8b6546a51a90bb2af5f98138dfa918",
+        "exact_binding_unique_pairs": 192,
+        "exact_binding_occurrences": 221,
+        "saved_nonempty_line_joins": 106,
+        "historical_analytical_equality_comparisons": 51,
+        "original_and_supplement_payloads_preserved": 151,
+        "dated_navigation_reconciliation": [],
+        "changed_line": 104,
+        "complete_before_paragraph": "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his future commitment to pay or return in BOND003 is not a scene of all food purchased and eaten. Different outcomes belong to different exchanges.",
+        "complete_after_paragraph": "The contrary boundary in BOND005 is necessary to this relationship. She wants the embarrassing encounter forgotten or undiscussed; Sensei asks again and the ending evades resolution. Her request cannot be declared honored because the exchange is playful or generally affectionate. This is a particular mismatch, not evidence that every adult-student exchange is coercive. Likewise, her work rationale in BOND006 does not establish an administrative claim over Sensei's time, while his actual paying and returning in BOND003 does not show every offered food item eaten. Different outcomes belong to different exchanges.",
+        "all_other168_lines_unchanged": true,
+        "complete_reverse_exact_original_bytes": true,
+        "all14_original_literal_gaps": "OPEN",
+        "R_Git_provider_writes": false,
+        "new_primary_native_raw_QA_AV_model_credit": 0,
+        "acceptance_credit": 0
+      }
+    }
+  ],
+  "complete_frozen_manifest": {
+    "status": "FROZEN_AUTHOR_COMPLETE_CANDIDATE_ROOT_RECEIVING_PENDING",
+    "home": "P3-CHAR-UMIKA",
+    "identity": "BA_PERSON_CH0110",
+    "outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+        "bytes": 39767,
+        "lines": 169,
+        "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+        "bytes": 114688,
+        "lines": 2325,
+        "sha256": "4e78ceb616fc39e2217b91dbcf11840f9c4386e1680b2185391227286a1e48e8"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+        "bytes": 6863,
+        "lines": 39,
+        "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e"
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+        "bytes": 6499,
+        "lines": 117,
+        "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305"
+      }
+    ],
+    "verification": {
+      "status": "PASS",
+      "absolute_unique_dictionary_pairs": 185,
+      "absolute_dictionary_occurrences": 204,
+      "relative_dictionary_paths": [],
+      "four_output_union_unique_pairs": 186,
+      "saved_nonempty_line_joins": 106,
+      "prior_frozen_payloads": 145,
+      "separate_frozen_supplements": 6,
+      "analytical_equality_files": 17,
+      "historical_equality_comparisons": 51
+    },
+    "actual_body_receiving": [
+      "998bf5 lines1–84",
+      "e03627 lines85–169EOF"
+    ],
+    "actual_readable_receiving": "91aafb whole39; 9c7a1c final39 whole",
+    "actual_probe_receiving": "91aafb whole117",
+    "actual_structured_scope_receiving": "34976d complete named source/control/governance/home/private/public semantic fields; 009191 complete original14 gaps/claims, all51 equality comparison projections and prior custody/remaining fields. Finite exact path and saved nonempty line verification separate mechanical credit; no asserted whole2325-line JSON narrative receiving.",
+    "credits": {
+      "new_primary": 0,
+      "native": 0,
+      "raw": 0,
+      "qa": 0,
+      "av": 0,
+      "model": 0,
+      "root_acceptance": 0,
+      "canonical_adoption": 0
+    },
+    "remaining": "Independent ROOT whole receiving/exact/acceptance/canonical adoption; all355/29 other duties remain separate",
+    "bounds": "All14 original stable names OPEN. Fifteen adequate wholeanalyticalfiles andtwo completebackgroundroleinquiries. Metadata captured732b3f2 distinctfromcf2f datedbody/main2e/c1 source. No UNBOUND or preserved_phase2_work body opened/hashed."
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "FESTIVAL_MONOGRAPHS/UMIKA_FROZEN_DELIVERY_MANIFEST.json",
+    "bytes": 3025,
+    "sha256": "5a08deb60a68c7a04a1f9461cbba206540cee8e2a720e4f8909ede3a0dc2327c",
+    "git_blob_oid_of_actual_bytes": "6ddbb540c20035b41aca397e79bacf60d95a3d1d",
+    "lines": 62,
+    "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_FROZEN_DELIVERY_MANIFEST.json"
+  },
+  "all_exact_frozen_transports": [
+    {
+      "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 39767,
+      "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+      "git_blob_oid_of_actual_bytes": "3931276c8f68895fc930574caf3a4627c900d8dc",
+      "lines": 169,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 114688,
+      "sha256": "4e78ceb616fc39e2217b91dbcf11840f9c4386e1680b2185391227286a1e48e8",
+      "git_blob_oid_of_actual_bytes": "4e5963e37dcfdb2d6fa98b70cfb9d8dc4c1b9613",
+      "lines": 2325,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 6863,
+      "sha256": "79fb1c4b2979d100db85c897f08b849a4463d926c7b0da8cfef30ad37754b33e",
+      "git_blob_oid_of_actual_bytes": "578dc1dd9308ca0e4ae9dfae9b887f68f5bf97a7",
+      "lines": 39,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 6499,
+      "sha256": "83331a59d3f7639783ec14b61b5aaaee2b2c96c8e3bd0c169fad07bd338bf305",
+      "git_blob_oid_of_actual_bytes": "dcf7ce6fe18d6756bdd5f6da004c26562bd5ead4",
+      "lines": 117,
+      "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/UMIKA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "original_author_body_tuple": {
+    "path": "FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 39767,
+    "sha256": "f58f3688785308ad8157262285ab46590233ef75aaac8a0e853c8152564d3465",
+    "git_blob_oid_of_actual_bytes": "3931276c8f68895fc930574caf3a4627c900d8dc",
+    "lines": 169,
+    "immutable_transport_path": "immutable_originals/FESTIVAL_MONOGRAPHS/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md"
+  },
+  "operative_ROOTaccepted_body_tuple": {
+    "path": "ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md",
+    "bytes": 39757,
+    "sha256": "b381617e873307ea9f0c0fc9bfdbd1c1037ec6ff3ee312ab9038b1275d50788b",
+    "git_blob_oid_of_actual_bytes": "f57cfb0e8868f520abb19a883764000c3ea38f20",
+    "lines": 169,
+    "immutable_transport_path": "immutable_originals/ROOT_UMIKA_CORRECTED_OPERATIVE_CANDIDATE_V1/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH_CORRECTED_CANDIDATE_V1.md"
+  },
+  "mandatory_canonical_qualifications": [],
+  "canonical_link_only_translations": [],
+  "scope_and_status_translation_qualification": "Complete originals and actual author/ROOT scopes retain their labels as immutable historical witnesses. Source navigation and public-safe machine-reference translation create no new literal/primary receiving."
+}

@@ -1,0 +1,671 @@
+{
+  "schema": "BLUE_ARCHIVE_KAYA_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "C_ONLY_PROPOSAL_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 43380,
+      "sha256": "1bdc5b75cb3ba5ef181aefc423f50a9c17d3be062ce089627ee2ab8b48ef93c5",
+      "git_blob_oid_of_actual_bytes": "a036f6d4ce360590372bcf24bc164ee9a5671e0a"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 47142,
+      "sha256": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7",
+      "git_blob_oid_of_actual_bytes": "71ecdd1fbaccc5a0b71751af8e861a84464a912e"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: character_monograph_candidate"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: character_monograph_candidate"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          8
+        ],
+        "canonical_lines": [
+          4,
+          8
+        ],
+        "exact_unchanged_lines": [
+          "character_scope: \"Kaya / literal カヤ; source-local named Defense officer, empty raw identity keys retained\"",
+          "required_package_id: P3-CHAR-M017",
+          "source_responsibility: P3-M017",
+          "mandatory_named_sections: []",
+          "analytical_grade: DEEP_SYNTHESIS_CANDIDATE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          9,
+          9
+        ],
+        "canonical_lines": [
+          9,
+          9
+        ],
+        "original_lines_complete_text": [
+          "status: C_ONLY_AUTHOR_DRAFT_ROOT_RECEIVING_PENDING"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_status: C_ONLY_AUTHOR_DRAFT_ROOT_RECEIVING_PENDING"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          10,
+          21
+        ],
+        "canonical_lines": [
+          10,
+          21
+        ],
+        "exact_unchanged_lines": [
+          "architecture: \"1.12 / section 7.1 / eleven dimensions\"",
+          "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "captured_normal_source_head: 5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "additional_episode_normal_source_head: ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "merged_main_boundary: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+          "japanese_source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "exposure: \"Retrospective familiarity and earlier personally adequate accepted analytical arguments; no blind independence\"",
+          "source_credit: \"Admitted written analytical meaning; zero new primary/native/raw/QA/audiovisual receiving\"",
+          "identity_boundary: \"A008 is dated navigation to this home; no manufactured typed private/profile/variant or I023 join\"",
+          "applicability_boundary: \"105 Kaya-specific source-owner role dispositions at declared adequate own prior and connected scopes; no universal appearance/absence certificate\"",
+          "original_gap_status: \"All fourteen original stable gaps OPEN\""
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          22,
+          21
+        ],
+        "canonical_lines": [
+          22,
+          31
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          22,
+          24
+        ],
+        "canonical_lines": [
+          32,
+          34
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Kaya — the wish for perfect command and the people who keep answering"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          25,
+          24
+        ],
+        "canonical_lines": [
+          35,
+          38
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current reconciliation and fixed133 adoption boundary — 2026-10-11.** ROOT reconciled the local source at 16b038cc400805d15cfeb799d048e1d20ba9290d/tree 2e64442a6b80cea9d67143d690378bd01932cc88 with current main 87aeee05a161d716fe840a0dd5d5517d9c646df9. PR148 integrated published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246 at 150a85e49a2b6d5fbd0c402d06c3070ea945d0cd with exact whole-tree preservation. Current main contains128 integrated packages and the [seven PR152 corrections](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) govern applicable current interpretation. The earlier first25% milestone at89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 remains completed history. The separately accepted source128 automatic chain remains its dated source witness; no unreviewed current-main postmerge audit is claimed. This fixed five-package proposal still requires full ROOT installation, then its own publication/validation sequence:133=100character+16directedrelationship+5ensemble+12institution,13named unchanged; current published128/main128 and next178 stay separate. Original bodies, source grades and all14OPEN/model0 remain unchanged; the preceding proposal is preserved with full byte inverses.",
+          "",
+          "**Dated prior ROOT receiving and publication boundary.** The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual bounded acceptance; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains complete original bytes and inverse. Published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246/tree c43f5d62b651da352854278d8bf83d43389e46df has a separately bound complete ROOT-accepted source→housekeeping→actual-source final chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package129–133 proposal takes effect only through full ROOT installation, yielding133 (100character/16directedrelationship/5ensemble/12institution), with13 existing completed named duties unchanged. Later134+ is excluded. Required355/29duties across25parents/384homes, next178, all14 OPEN and model0 stay unchanged. Creation-time producer/source/custody/count statements remain dated history; transport grants no new primary/native/raw/QA/AV/performed/independent literary/identity/admission/scope/count/milestone credit. **Package-specific operative qualification:** The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          25,
+          170
+        ],
+        "canonical_lines": [
+          39,
+          184
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis",
+          "",
+          "**KA-C01.** Kaya's central conflict is a demand that human plurality yield to an exceptional controller. She repeatedly converts another person's resistance into a reason to intensify control: Rin's consultation becomes contemptible indecision, Schale's independent responsibility becomes an administrative problem, financial and public resistance becomes evidence that Kivotos needs fear, and an injured colleague becomes an office to reorganize. This is a sustained pattern of chosen political reasoning, with specific interlocutors and costs. It does not require treating every turn as the expression of an invariant malicious essence. Her actual chess skill, wanted company and surviving old-friend relation remain positive ordinary evidence. The difficulty is that those human capacities coexist with her willingness to make other people's ordinary lives expendable. [KA04 L28–40; KA05 L30–34; KA06 L32–34; KA11 L20–28.]",
+          "",
+          "**KA-C02.** The strongest critical unit is the other person's answer. Rin refuses the poisoned use of acting authority; Sensei declines the council-name arrangement; Yukino names the remaining civilians before accepting an order; Miyako effects detention; Heine hears the older playback and withdraws support; the General corrects Kaya's assumption of a shared objective. These are differentiated agencies. Some resist, some comply despite an objection, some deceive or exploit her, and some remain willing to spend time with her. Their differences make the story more exact than a solitary tale of either a villain's downfall or a misunderstood official's failure. Kaya is capable of being overpowered without becoming causally innocent, and capable of welcomed company without obtaining the harmed recipients' pardon. [KA04 L28; KA05 L32–34; KA06 L28–34; KA12 L32–34; KA14 L36–40; KA11 L28.]",
+          "",
+          "**KA-C03.** The governing thesis is therefore bounded: these admitted written arguments represent Kaya repeatedly seeking to substitute controllable relations for independent answers, and expose the practical and ethical failure of that substitution. The visiting-room game gives her an ordinary success and a human relation that survive political defeat; it leaves the political problem open. The interpretation concerns her represented actions, wishes and exchanges. It certifies no person-wide psychological diagnosis, universal aptitude, lawful succession, technical artifact function or completed rehabilitation. Her existing source-scoped character home can sustain this literary argument without an invented bond pool or a promise that every anonymous council actor has been identified. [KA04 L32–44; KA05 L32–40; KA11 L20–30; source and105 receipts.]",
+          "",
+          "## 2. Longitudinal state and development",
+          "",
+          "**KA-C04.** V004 offers a local movement from concealed coordination to claimed presidency, material governance and failed coercive consolidation. C001E020 establishes Kaya speaking about the hidden Kaiser connection and projecting a RABBIT-based coup, while FOX's differentiated responses and motives remain their own. C002E007 places her pressure campaign in a narrated retrospective before the announced vote: council adjournment, her authority dispute with Rin, the purported letter, ordered escort and monitoring, protest messaging, misinformation to Sports and broadcast preparation. These stages are more than a label of ambition, but their evidence grades differ. The scene prints orders and calls; it leaves the letter's authentication, complete ballot and lawful succession unestablished. [KA08 L34–38; KA04 L20–40.]",
+          "",
+          "**KA-C05.** The chapter then tests the administration against actual recipients and practical dependencies. The C002 checkpoint retains the restrictive street-document regime, the resident's delayed hospital journey until Kanna accepts an exception, Finance rejecting defective claims, Red Winter protest and problems responding to reported theft. Kaya's explanation moves toward a missing ingredient of fear. Her E013 order to detonate a named warhead under a station with civilians, disguise the result as accident and replace Traffic personnel is a concrete escalation of method. It is no generic promise to restore order: the specific civilian-risk objection reaches her, and she proceeds. The chronology within this chapter is adequate for that escalation; a whole cross-volume calendar is unnecessary and remains unproved. [KA16 L40–46; KA05 L24–34.]",
+          "",
+          "**KA-C06.** The failure has multiple agents and finite outcomes. RABBIT's command transfer, Miyako's refusal and the other three members' voluntary return are separate transitions. FOX's surrender follows a confrontation in which Yukino privately intends to press self-destruct, an unspecified small explosion interrupts her, and Sensei secures the device. Those events do not establish a thermobaric blast or a complete warhead-disposal chain. Kaya expects the planned station disaster, hears failure, finds her own policing arrangements obstruct reinforcement and is actually seized. E024's trials, prosecution, return orders, reinstatement and park permit are retained at their report-level scopes. Detention is achieved; final judgment, compensation and SRT reopening are not completed by this sequence. [KA16 L28, L42–58; KA06 L24–40.]",
+          "",
+          "**KA-C07.** Final supplies an independently received local sequence, rather than the originally planned “renewed Schale bargain.” Kaya supports Rin's emergency mandate and undertakes contact and escort; the delivered escort captures Sensei; Kaya and the General directly converse about that mission, and he replaces her dissolution objective with Kaiser's corporate takeover. Subsequent tower-control reports, slower authority acquisition, FOX's extraction report and an unidentified basement item are distinct evidence. Final's ordinary return montage and Rin's pending vote do not furnish Kaya watch custody. The original metadata purposes and the C001E008 pointer remain preserved in the precision receipt, with their operative corrections visible. No release-order sequence is used to turn these Final, V004 and S2 episodes into a monotonic learning or reform ladder. [KA13 L40; KA14 L30–40; KA15 L24–36; KA09 L30–32; KA10 L24–36; operative precision receipt.]",
+          "",
+          "**KA-C08.** S2C001E003 directly places Kaya in a visiting room as prisoner1192. She reports sparse company and separation from FOX, threatens another coup, practices chess, wins the first game and speaks of pursuing what the missing president left behind. Her self-judgment links that pursuit to her present confinement. The scene creates reflection and relationship without printing renunciation. The second game starts; neither its outcome nor a later political choice follows. Development here is a change in situation and an articulated confrontation with people who resist being pieces. A completed reform arc would require further received actions toward those recipients, beyond this bounded scene. [KA11 L18–28.]",
+          "",
+          "## 3. Public and private self",
+          "",
+          "**KA-C09.** Public positioning can be accommodating. In Final, Kaya recognizes Rin's emergency powers, speaks sympathetically about the burden and proposes Schale's assistance. In V004, after adjournment she first presents coercive acting authority as a way to help Rin. Those moves give the argument its force: helpful language can direct another person toward dependence or a course she rejects. The Final opaque call alone does not prove its counterpart or every element of deception. The subsequently delivered false escort and direct Kaya–General exchange establish the specific cooperation they actually disclose. A private turn must be connected to its warranted event rather than silently expanded into an omniscient conspiracy account. [KA13 L40–44; KA04 L28; KA14 L32–40.]",
+          "",
+          "**KA-C10.** E013 gives represented inward reasoning a consequential role. Kaya wonders why others resist, judges fear insufficient and chooses the civilian-risk spectacle. The emphasis on fear reveals her interpretation of the governing problem; Yukino's direct objection and Kaya's reply make the intended means explicit. An inward passage is neither an empirical clinical measurement nor a spoken explanation available to every recipient. Her public accident cover story would withhold the very intentionality the reader is allowed to see. The narrative's unequal knowledge is part of the politics of her method, not evidence that all citizens consent to its rationale. [KA05 L32–38.]",
+          "",
+          "**KA-C11.** Private-staged conversation in custody is another source mode, without becoming a typed private character family. Kaya wants the visitors to stay while denying that she values their visit. Her report of isolation and her practiced chess give the desire for company and activity particular texture. These are not merely clues to a concealed cause of political violence: boredom, play and having someone to talk to matter as wanted ends. Rin offers a written request if Kaya would prefer not to speak; the invitation includes a stated alternative, while Kaya had offered Sensei an arrangement requiring all future Schale activity to occur in the council’s name. That comparison is between actual local permission structures, not a certificate that every feature of confinement is humane or voluntary. [KA11 L20–28; KA12 L32–34.]",
+          "",
+          "**KA-C12.** The scene's partial candor also retains instrumental thinking. Kaya tells the visitors about the watch because Rin asks and because Sensei might understand the device; she says she originally sought it to secure control. Her failure to activate it becomes several hypotheses rather than evidence of a mechanism. A candid account of a failed attempt can be genuine disclosure without complete acknowledgment of public harm. The reader need not choose between wholly sincere warmth and wholly false performance. The actual conversation supports local wants, defensive denial, investigative cooperation and persistent ambition at different turns. [KA11 L20–28.]",
+          "",
+          "## 4. School, club and institutional position",
+          "",
+          "**KA-C13.** Kaya's established position is the named Defense officer in the federal council story. The source supplies no typed school/private profile to manufacture around that office. Her stated ideal of a superhuman like the missing president gives office a personal aspiration; the purported letter offers an instrument for succession. Yet she expressly proceeds irrespective of the letter's verification, and the argument preserves Rin's demand for handwriting and signature examination. The missing president functions as an ideal and alleged author within these exchanges. That role does not join Kaya to the president, authenticate the signature or give her exceptional inherited competence. [KA04 L32–44; KA11 L22–26.]",
+          "",
+          "**KA-C14.** Her governing capacity is relational and material. Guards, Kaiser operations, finance authorization, documents, communications, railways and school forces constrain what an acting claim can achieve. The paid Kaiser relationship is directly established at participant level: the General says payments are late and insufficient, Kaya cites the sanctions she reduced, and she proposes further debt with interest. These facts warrant dependence and bargaining, while invoices and instruments remain unseen. Offering railway operating rights to compensate Kaiser is another projected bargain, not a transferred concession. Authority asserted from above does not remove those dependencies; the attempt to bypass dissent creates further reasons for others to withhold help. [KA05 L26–34; KA16 L40–46; KA06 L28.]",
+          "",
+          "**KA-C15.** The evidence gives practical failure without collapsing all reported harm into an audited statistic. The documentary burden at street control and the delayed hospital journey have particular recipient consequences. The deputy's cash-withdrawal incidents and officers' comments about serious crime are reports, while promotional crime reduction is no verified total. Finance rejecting defective claims is a concrete institutional answer at the checkpoint's accepted scope. Her reinforcement calls later meet suspensions and diverted guards produced by her own orders. These different grades support a critique of her perfect-command theory while leaving legal documents, full fiscal rates and a citywide outcome audit open. The monograph need not claim every administrative choice failed in order to show what these particular choices cost. [KA16 L40, L56–58; KA05 L26; KA06 L28.]",
+          "",
+          "**KA-C16.** Her SRT promise also distributes incompatible purposes. FOX's restoration wish and Kaya's council project are not one interest, and the General's paid operation is not disinterested school support. RABBIT's actual transfer into subordinate command, Miyako's subsequent refusal and the other members' chosen return matter independently of what Kaya wants their affiliation to mean. The station plan is not knowledge automatically shared with absent RABBIT. An institution reading must therefore preserve the students' positive wish for their school beside their objections, compliance, later resistance and unequal information. Their school desire is not advance permission for every means offered in its name. [KA16 L26–28, L42–52; KA05 L34; KA08 L36–38.]",
+          "",
+          "## 5. Ordinary life and intrinsic wanted ends",
+          "",
+          "**KA-C17.** Kaya's coffee at the opening of E023 is a directly represented ordinary pleasure, situated within her expectation of the station's destruction. Taste does not become inherently blameworthy because this particular cup accompanies a harmful anticipation; nor does the pleasant setting dilute the anticipation's meaning. The source has both. The older playback's annoyance over meeting onigiri likewise belongs to that represented earlier conversation. It cannot identify every actor in the meeting's food exchange, turn food workers into a single nuisance or justify her planned treatment of an injured colleague. The fine attribution seams around Aoi, Heine and Sumomo keep culinary inference local. [KA06 L24, L34; KA04 L26, L44.]",
+          "",
+          "**KA-C18.** Chess provides an actual success that deserves more than use as ironic punishment. Rin recalls rarely winning their games; Kaya says she practiced, delivers check and receives Rin's resignation in the printed first game. It gives a concrete activity, a skill and the pleasure of an exchange where another person can answer within agreed rules. The argument can respect that success while declining to convert it into a validated measure of universal strategic genius. Kaya herself notices that political struggle was less easy. The scene makes the mismatch articulate: a game can allow strategic control within its rules, while governing people involves claims and desires the player does not own. [KA11 L22.]",
+          "",
+          "**KA-C19.** Surviving company is a positive endpoint, not just evidence of unfinished judgment. Kaya protests the visitors' leaving, Rin calls her an old troublesome friend, Kaya accepts another game and the two begin it. Rin, specifically, says she obtained rest by remembered food and chess. This gives Rin's food experience and both actors' actual company; it does not print Kaya eating that food. Their time together remains valuable even while Kaya stays confined and voices coup ambition. Recognizing the relation does not require declaring a repaired political alliance or treating the injured and threatened recipients as participants in this welcome. [KA11 L20–28.]",
+          "",
+          "**KA-C20.** Ordinary reciprocity here is uneven and finite. Rin offers an alternative to immediate questioning, recalls a history of games and asks for another; Kaya requests continued presence through her protest, plays, answers questions and agrees to continue. The second gambit is declined and no result follows. The point is not that every answer is harmonious: an ongoing relation can include disagreement, embarrassment, defensive language and a refused move. Those particulars make the wanted company analytically richer than a generic “humanizing” token. They sustain an intrinsic ordinary-life dimension without providing a missing typed bond episode or making friendship the price of moral exemption. [KA11 L20–28.]",
+          "",
+          "## 6. Crisis behavior, agency and recipient costs",
+          "",
+          "**KA-C21.** The strongest adverse case is the E013 choice of intentional civilian terror. Yukino says people remain and an underground blast would magnify harm; Kaya acknowledges possible effects on nearby stations and wants obedience through a demonstration that could erase a small city. The projected false accident and Traffic replacement attach the harm to concealment and scapegoating. The General's price and Kaya's rail-rights offer make the operation a political and financial transaction. This warrants severe ethical criticism based on a chosen order and preparatory agreement. No delivered thermobaric detonation, victim total or realized railway transfer is needed to establish the seriousness of the decision, and none is added as a fact. [KA05 L30–40.]",
+          "",
+          "**KA-C22.** The General's pressure explains a condition of the choice without absolving it. His demand for overdue pay, threat to abandon the corporate name and challenge to finance support narrow Kaya's options, but her represented fear reasoning, target order and false cover story are her own. Yukino raises the civilian objection and then accepts when pressed; both turns must remain. The accepted analytical checkpoint retains FOX's later surrender and Yukino's threatened self-destruction, so she cannot be flattened into a neutral tool either. The analysis distributes agency rather than merely redistributing all blame to one supposedly superior conspirator. [KA05 L30–34; KA16 L26, L52.]",
+          "",
+          "**KA-C23.** Final gives a real instance of Kaya's vulnerability to another controller. She seeks Schale's dissolution and Rin's discredit through Sensei's capture. The General says their objectives differ, interrupts or restrains her with a pain cry and orders custody beyond her private troops' reach. The cooperation is established and the loss of control is also represented. Her being betrayed and subject to force are adverse facts about her own position; they do not turn the earlier use of a false escort into a harmless intention. The General's larger seizure scheme remains his and his superior's plan, with later tower-control reports qualified by the slower full acquisition. [KA14 L32–40; KA15 L26–28.]",
+          "",
+          "**KA-C24.** V004's counterforce is distributed. Miyako is the actor who secures Kaya and asserts an emergency-arrest exception. RABBIT advances despite the General's contingencies; the earlier chapter preserves the other members' voluntary return, Life Safety help and the interruption of the self-destruct act. Sensei's refusal, intervention and request for playback matter within this collective sequence. The achievement is specific: the represented station attack fails, Kaya is detained and the older recording reaches Heine. It is not an adult-owned cure of the federal council, a verified legal judgment or a closure of every physical artifact duty. [KA16 L28, L50–58; KA06 L24–40.]",
+          "",
+          "**KA-C25.** The injured and threatened recipients remain ethically independent after the plot changes. Heine's represented injury and missed gateball event are concrete losses in their account, not simply an embarrassment that helps expose Kaya. The delayed hospital journey names another ordinary need affected by restrictive control. The station residents need not appear as individually named characters for Yukino's objection to count. A later pleasant game cannot answer those claims on their behalf. The monograph retains the actual impeachment demand, the report-level subsequent process and the absence of a printed repair or accepted apology; it avoids fabricating either universal forgiveness or universal future hostility. [KA06 L34–38; KA16 L40, L58; KA05 L32–34.]",
+          "",
+          "## 7. Sensei: offered dependence, refusal and limited personal knowledge",
+          "",
+          "**KA-C26.** The precise Schale-control offer is C002E008, newly bound as KA12, not C001E008. Kaya admits instructing an unauthorized basement entry/removal during the earlier crisis and treats the purported letter as useful authority. She presents resources, paperwork relief and freedom for adult pursuits under an arrangement requiring all future Schale activities to occur in the council's name and assigning the council liability even for corrupt acts. These are consequential promises and terms; no signed document, completed transfer or delivered benefit is shown. The offer attempts to replace Sensei's independent responsibility with protected dependence. The adult's wishes are not assumed identical to her resource incentives. [KA12 L30–34; precision receipt.]",
+          "",
+          "**KA-C27.** Sensei rejects the arrangement through responsibility for adult actions and the example given to students. The source's refusal is tagged as inward speech that Kaya answers, an attribution seam requiring restraint about the exact audible wording; the answered rejection itself is clear. Later, under detention, Kaya withdraws the earlier proposal and offers staff, resources and personal help for relief. Sensei redirects apology to harmed students. Her willingness to apologize to anyone if asked, then her guess that Rin is intended, makes the response transactional and incomplete. An adult demand for accountability is achieved as speech; the correct recipients' acknowledgment and acceptance are unprinted. [KA12 L34–38; KA06 L32–38.]",
+          "",
+          "**KA-C28.** Sensei is also present in the later visiting room, but the ordinary relation is principally articulated through Rin and Kaya's history. Rin brings Sensei during leave, Kaya reacts to their casual dress and accepts their continued company. Sensei participates in the watch inquiry and says the name seems familiar. That familiarity is not knowledge of the object's function or confirmation of Kaya's explanation. His observation that the outing became work coexists with Rin's stated real rest. The adult's presence has several local functions, without warrant for a private therapeutic bond, complete rehabilitation or a claim that he alone enables Kaya's ordinary humanity. [KA11 L20–28.]",
+          "",
+          "## 8. Major peers, collaborators and independent recipients",
+          "",
+          "**KA-C29.** Rin is the most sustained peer interlocutor. She refuses suppressing dissent in V004, is subjected to Kaya's allegation and ordered control, and later remains willing to visit and play. Her own thought is not uniformly resolved: in S2 she says people cannot be perfectly controlled and neither woman is superhuman, yet imagines the missing president as an exceptional case. That residual idealization matters to the dyad. Kaya's pursuit of the same absent figure finds a real point of comparison without creating equal responsibility for her acts. Their political disagreement and surviving ordinary company can be analyzed together while preserving Rin's actual refusals and Kaya's unrenounced ambitions. [KA04 L28–34; KA11 L20–28.]",
+          "",
+          "**KA-C30.** Heine's relation exposes a different asymmetry. Kaya affirmatively repeats the allegation that Rin directed the earlier attack, while Heine recalls injury and remains sympathetic. Under arrest, Heine first arrives as a supporter and only then hears the FOX-supplied older conversation, recognizes Kaya's denied involvement and names their injured arm and missed event. The break is a recipient's consequential answer to disclosed evidence, not a generic voting bloc switching as the plot requires. It ends in an impeachment demand, with the formal result still absent. The playback is a represented source supplied by FOX, not a newly live confession or technically authenticated station-bomb recording. [KA04 L40; KA06 L34–38.]",
+          "",
+          "**KA-C31.** Yukino and FOX need separate directions. Kaya's school-restoration leverage intersects Yukino's wish to restore SRT and abolish Schale; Niko, Kurumi and Otogi have different responses and warmth within the accepted checkpoint. Yukino names civilian danger, accepts the command and later faces RABBIT's refusal and choices. Those local actions resist a description of FOX as a single interchangeable instrument, while the actual harmful participation also resists absolution through their care for juniors. RABBIT's presence under subordinate command never supplies knowledge of the station target or collective assent to Kaya's secret office decision. [KA08 L36–38; KA05 L32–34; KA16 L26–28, L42–52.]",
+          "",
+          "**KA-C32.** The General's direction is bargaining, cooperation and coercive divergence, not a stable friendship. Late payment and promised sanctions relief bring financial constraint into V004. Final's direct disagreement shows the limits of Kaya's claim to a shared goal. Cherino's comic absorption in titles and chocolate offer gives another independent answer: Kaya cannot obtain the requested recall of protesters, and neither the offered chocolate nor the joke ends demonstrations. Finance, affected residents and diverted officers make further answers visible. Their scarcity or anonymous status does not make their agency dispensable; precise source-local role is sufficient for the particular institutional cost. [KA05 L24–34; KA14 L36–40; KA16 L40, L56.]",
+          "",
+          "## 9. Written language, address and register; performed voice remains unreceived",
+          "",
+          "**KA-C33.** Kaya's written political register turns the evaluation of persons into an evaluation of governability. The accepted Japanese argument contrasts her contempt for collecting views and ideal of a superhuman with Rin's poisoned-chalice restraint; the emphatic fear passage then makes obedience the proposed outcome of civilian terror. This is a warranted thematic pattern in represented language. It is not a validated speech rule for every utterance, an empirical account of personality or a performed vocal style. The heart-of-voice refusal seam in KA12, shifted labels in the authority debate, the General payment reply seam and the meeting's food turns prevent confident fine idiolect allocation where printed roles are unstable. [KA04 L28–44; KA05 L32–38; KA12 L34–38.]",
+          "",
+          "**KA-C34.** The scene modes also distribute access to truth. Opaque calls conceal the addressee; manufactured protest messaging has an uninspected origin; Heine receives an allegation rather than the reader's wider sequence; a playback later reveals earlier speech. In S2, the watch's name, ability and warehouse route remain Kaya's testimony, with a conditional “if untouched” location and multiple explanations for nonresponse. Convergence with Sensei's remembered name is a plausible lead, not authentication of the president's records, dream world, object identity or truth-discernment mechanism. The monograph keeps report, inward reasoning, remembered/playback speech, public order and direct action as distinct warrants. [KA13 L40–44; KA04 L38–40; KA06 L34–38; KA11 L24–30.]",
+          "",
+          "**KA-C35.** Alternative Sensei choices are preserved as source alternatives rather than a stitched biography. KA06 has four tagged choices, the first two paired; KA11 has six choice groups including one pair of alternatives. They support the locally represented exchanges without printing every option as one continuous set of spoken acts. The guard's procedural line and prisoner number establish a source-local custody role; they supply no extra personal history or legal mechanism. Literalカヤ supports this named responsibility, while A008 is dated navigation and empty raw identity keys remain empty. No private profile, variant, dream-person, I023 or anonymous official is joined merely to complete a portrait. [KA06 L20, L38; KA11 L18–30; original decision and current-home controls.]",
+          "",
+          "## 10. Nine competing readings and bounded judgments",
+          "",
+          "| Rival | Strongest warrant and adverse test | Judgment at this source boundary |",
+          "|---|---|---|",
+          "| R01 — Pure villain with no ordinary value | The civilian-risk order, false accident, pressure campaign and instrumental apology are severe. The actual first game, practice, wanted visitors and agreed second game remain positive ordinary evidence, not merely hypothetical redeeming qualities. | A severe criticism of chosen methods is warranted; erasing intrinsic play and company would discard actual source meaning. KA05 L32–40; KA06 L32–34; KA11 L20–28. |",
+          "| R02 — Friendship reveals hidden innocence | Rin's visit and old-friend language support a surviving relation, and Kaya wants company. Heine's injury, threatened residents, actual Schale capture and unaccepted apology are independent adverse claims. | Company is real; it neither retrospectively cancels harm nor authorizes forgiveness on recipients' behalf. KA11 L20–28; KA06 L34; KA14 L32–36. |",
+          "| R03 — Necessary, efficient governor defeated by obstruction | Kaya names dissent and weak control as problems, wants capable leadership and can issue orders. The document burdens, hospital delay, finance rejection, protest blowback and blocked reinforcements show practical recipient and capacity failures; favorable crime figures remain promotional. | Her necessity claim is a participant's argument, not established policy success or a justification of civilian terror. KA04 L32; KA16 L40–56; KA05 L26–34. |",
+          "| R04 — Helpless Kaiser or FOX puppet | The General pressures her for money, replaces her objective and orders confinement; FOX has its own school aims. Kaya independently chooses fear, the target, deception and offered railway rights after hearing the civilian objection. | Vulnerability and dependence explain constraints; they do not remove her represented initiative or distribute every decision to another actor. KA14 L36–40; KA05 L30–34. |",
+          "| R05 — Detention completes redemption | Custody gives reflection, a failed artifact account and company; she recognizes the pursuit's result. She still voices coup ambition, and neither apology acceptance, compensation nor a renunciation follows. | Changed situation and reflection are achieved; completed rehabilitation remains unwarranted. KA06 L32–38; KA11 L20–28. |",
+          "| R06 — Immutable, inhuman controller | Recurrent coercive reasoning gives a sustained pattern. Yet particular wishes, practiced play, defensive denial, disclosure and agreed companionship make the character's actual repertoire wider than that pattern. | A literary account of repeated methods should remain revisable by further particular choices; no total essence or clinical label follows. KA04 L28–40; KA05 L32; KA11 L20–28. |",
+          "| R07 — Sensei alone brings accountability | He refuses the resource bargain, redirects apology and requests playback; his intervention matters. Miyako detains, students advance and refuse, Heine withdraws support, and harmed recipients are independently named. | Adult action is part of distributed counterforce and addressed accountability, without a completed adult-owned institutional cure. KA06 L28–40; KA16 L28, L50–58. |",
+          "| R08 — Legitimate inherited presidential mandate | The purported letter and the allegedly exceptional object give her authority story concrete materials; she shares the missing president as an ideal with Rin. The letter is unverified and explicitly bracketed, the object uninspected, the location conditional and the truth ability untested. | The aspiration and claims are genuine subjects; lawful succession, inherited identity and technical power remain unestablished. KA04 L32–44; KA11 L22–30. |",
+          "| R09 — A chess win proves superior political intellect | Practice, delivered check and resignation establish the first local success, with a history of Rin losses. Kaya herself asks why politics was harder, and independent people, material dependencies and refused terms provide the difference. | Local skill is respected; a universal intelligence hierarchy, inevitable second win or political competence test would overclaim. KA11 L22–28; KA16 L40–56. |",
+          "",
+          "The rivals are not nine alternate verdicts chosen by preference. They expose what the thesis must preserve: serious responsibility for intentional means, actual vulnerability to stronger partners, finite successes, independent recipients and an ordinary life that remains valuable without completing reform. The source allows a sustained argument precisely because these conditions coexist. Further received episodes could revise its scope or balance; none is predicted here.",
+          "",
+          "## 11. Evidence route, finite endings and all original OPEN gaps",
+          "",
+          "The sixteen finite normal arguments are exact C copies of already admitted analytical owners. KA01–03 are maintained V004/Final/S2 accounts at declared adequate earlier complete and refreshed connected scopes; KA04–06 are V004C002E007/E013/E023; KA07–08 are C001E008/E020; KA09–10 are FinalC001E015/C004E010; KA11 is S2C001E003; KA12 is the corrected V004C002E008; KA13–15 are FinalC001E006/E007/E010; KA16 is the complete97-line V004C002 checkpoint. The operative source receipt gives exact bytes, SHA256, blob, line spans, author receiving and historical source heads. Whole small normals supply their connected actors and endings; broader accounts are not promoted from a refreshed span to a new whole reading. Embedded old frontiers and prospective admission language are historical snapshots qualified by their current admitted maintained use, not current355-scope authority.",
+          "",
+          "The original metadata plan's six erroneous or overbroad purpose statements remain preserved with literal before/after associations in the precision receipt: C001E008 is not the Schale offer; Final has no received renewed Schale-governance bargain; FinalC001E015 is extraction/unknown item; FinalC004E010 has no Kaya watch custody; Rin's food and both actors' company are distinct. The actual offer is C002E008, while S2E003 carries the watch testimony. This visible correction strengthens source routing without changing admission or treating corrected metadata as a new primary reading. The exact source-world calendar across Final, V004 and S2 remains open.",
+          "",
+          "The original105-owner responsibility is addressed by a separate, substantive Kaya-specific role review over27GROUP/77EVENT/1MINI. It retains each actual earlier adequate source scope and connected refresh exactly, then states what its ordinary ends, independent agency, methods or technical limits can contribute to this portrait. These are new Kaya judgments, not Aoi or Heine verdicts relabeled. Similar food, government, captivity, devices or co-occurrence cannot identify Kaya, grant assent or distribute another actor's achievement to her. The current105-copy pool is availability, not105fresh whole-body credit. Unreceived paragraphs and source-local anonymous roles remain explicit stronger-claim triggers; no negative name/header result becomes a global absence certificate. Owner104 keeps the21825-byte receiving document distinct from the93829-byte MINI normal. The bounded literary monograph does not thereby close the GSC institution, directed GSC relations, Rin/Aoi/Heine homes or future newly consequential appearance questions.",
+          "",
+          "| Finite end | Achieved, stated or reported result | Remaining warrant |",
+          "|---|---|---|",
+          "| E01 — Ordinary pleasure and company | Kaya's commemorative coffee, actual first game and agreed continued company; Rin's remembered food/rest are specifically hers. | No invented Kaya meal, total satisfaction, innocence or universal private pool. KA06 L24; KA11 L20–28. |",
+          "| E02 — Schale offer | Kaya proposes council-name control and resources; Sensei declines, with the thought-tag/answered seam retained. | No signed transfer, delivered concessions or every refusal option combined. KA12 L32–38. |",
+          "| E03 — Letter and presidency | Purported letter, ordered control of Rin, claimed acting authority and pre-vote preparation. | No authenticated signature, complete tally or independently valid succession. KA04 L32–44. |",
+          "| E04 — Kaiser finance | Paid-service relationship, late-payment dispute, proposed interest-bearing debt and railway rights. | No invoice audit, signed debt/concession or discharged liability. KA05 L30–34. |",
+          "| E05 — Warhead | Named project, Yukino's deactivated/storage report and order to move it; interrupted self-destruct sequence retained separately. | No full inventory identity, transport/disarmament chain or technical certification. KA05 L32–38; KA16 L52. |",
+          "| E06 — Civilian terror | Chosen blast target, acknowledged residents/nearby-station risk, false accident and Traffic scapegoating. | No thermobaric blast, casualty census or actual railway-rights transfer. KA05 L32–40; KA06 L24. |",
+          "| E07 — Yukino and RABBIT | Yukino objects then accepts; absent RABBIT knowledge is not assumed; later differentiated refusals/returns occur. | No collective informed consent or school reopening. KA05 L34; KA16 L26–28, L42–58. |",
+          "| E08 — Detention and process | Miyako secures Kaya and states emergency arrest; later custody is directly represented, while chapter process is reported. | No statutory validation, complete judgment, compensation or permanent incapacity. KA06 L28–38; KA16 L58; KA11 L20. |",
+          "| E09 — Apology | Sensei redirects apology to harmed students; Kaya conditionally agrees and guesses Rin. | No full acknowledgment, correctly addressed apology, recipient acceptance or repair. KA06 L32–38. |",
+          "| E10 — FOX playback | Represented older assault conversation reaches Heine, who names injury/missed gateball and demands impeachment. | No station-bomb recording, forensic authentication or completed vote/removal. KA06 L34–38. |",
+          "| E11 — Final and watch | Escort undertaking becomes actual false escort/goal split; extraction is FOX report; S2 watch route/location/ability is testimony. | No renewed Final bargain, global timeline, actual warehouse recovery or verified mechanism. KA13–15; KA09 L30–32; KA11 L24–30. |",
+          "| E12 — Further game and future | Kaya wins the first game, accepts another, begins it and still voices coup ambition. | No second result, release, renunciation or automatic political reconciliation. KA11 L20–28. |",
+          "",
+          "| Original stable gap | Kaya contribution and remaining claim-specific warrant | Status |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | Coffee, practice, first win and wanted company are received at actual source modes. An unprinted typed bond/profile pool, full eating history or every intimate encounter cannot be supplied by this repertoire. | OPEN |",
+          "| G02 Yuuka council/club decision transfer | The105 comparisons retain Seminar budgets and independent work; no Kaya–Yuuka direction, transferred council capacity or solved club decision follows. | OPEN |",
+          "| G03 Serika service, peer and reciprocity range | Paid service and other workers' wishes provide recipient-sensitive comparison. Kaya's resources or game cannot complete Serika's own service/peer duties. | OPEN |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Distributed counterforce and ordinary life matter here; no Hina-specific causal/aftermath completion is imported from Kaya detention or generic coffee. | OPEN |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Quiet wants remain intrinsic across the105 role judgments. No Kaya friendship, arrest or paid offer discharges Arius/PS68 commissions, harm or belonging questions. | OPEN |",
+          "| G06 Cross-school ordinary repertoire | Particular food, company, craft and refusals survive comparative review. Shared activity is no mutual contact, shared consent, uniform ethics or event attendance. | OPEN |",
+          "| G07 Story-world chronology | V004 local retrospective, Final local sequence and S2 visiting-room present are bounded. A total cross-volume calendar and monotonic reform sequence remain unsupported. | OPEN |",
+          "| G08 Event naming and repeat contexts | Exact admitted normal owners and literal routes govern105 comparisons. Repeated labels, food or a railway setting do not supply a Kaya appearance or identical occasion. | OPEN |",
+          "| G09 Written speaker/choice attribution | Thought-tagged answered refusal, meeting label drift, General payment reply and playback/report layers are retained. Fine register or unanimous assent at those seams requires stronger exact attribution. | OPEN |",
+          "| G10 Performed voice | All warrants are written analytical arguments; no actor delivery, prosody, tone, locale performance or audiovisual identity has been received. | OPEN |",
+          "| G11 Hoshino's Yume record and office states | An absent-president aspiration here is its own source-local ideal. It neither joins the Yume record nor completes Hoshino's office, memory or state questions. | OPEN |",
+          "| G12 Counterpart, system and variant identity | Literalカヤ and M017 remain bounded; A008 is navigation, raw keys empty. Letter, dream name and watch convergence authenticate no I023/president/system/variant chain. | OPEN |",
+          "| G13 Office, contract, safety and technical outcomes | Actual detention, civilian-risk choice and late-payment dispute are distinct from lawful succession, court result, invoices, concessions, warhead disposal and watch function; those stronger outcomes remain unwarranted. | OPEN |",
+          "| G14 Unclassified/mode continuity | The finite admitted analytical routes govern this argument. No protected original, unclassified scenario, assumed private continuation or source-mode promotion fills its remaining claims. | OPEN |",
+          "",
+          "This candidate presents a complete bounded literary argument for the existing character responsibility, subject to independent ROOT receiving. It grants no current completion, publication, merge, denominator, prediction or model credit. Its eleven dimensions, ordinary ends and strong contrary cases remain source-specific; all fourteen stable gaps stay OPEN. Further warranted directed, institutional and individual character packages remain separate required work across the full eligible cast."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYA_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 581434,
+      "sha256": "08a4695065f05088fd2bf7706ac43948c36a0fc916294c6140dbaa88274e15e0",
+      "git_blob_oid_of_actual_bytes": "21e2d1c457f3a85bfa4b55967f2f4292ed2662fa",
+      "attachment_names": [
+        "KAYA_OPERATIVE_LITERAL_SOURCE_PRECISION_AND_INVERSE_RECEIPT_V1.json",
+        "KAYA_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KAYA_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 413587,
+      "sha256": "e1db2e393ffa4f06bb44321a1dbccdc1f9b76d6d418e5732cd647376b545fb37",
+      "git_blob_oid_of_actual_bytes": "fd9babdefdbd013825076f0f274f02ef3dbf2f84",
+      "attachment_names": [
+        "KAYA105_SUBSTANTIVE_SOURCE_SCOPED_ROLE_REVIEW_V1.json",
+        "KAYA_FINITE_CONTROL_AND_PRIOR_FROZEN_C_INPUT_RECEIPT_V1.json",
+        "KAYA_UNSEALED_FIRST_SAVED_BODY_EXACT_BEFOREIMAGE.md",
+        "KAYA_UNSEALED_FIRST_BODY_ONE_CLAUSE_PRECISION_INVERSE_V1.json",
+        "KAYA_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+        "KAYA_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+        "KAYA_LATER_SAVED_SEAL_RECEIVING",
+        "KAYA_ROOT_COMPLETE_OPERATIVE_LOCATOR_SOURCE_ROLE_CHRONOLOGY_QUALIFICATION",
+        "COMPLETE_AUTHOR_MANIFEST_OR_FREEZE"
+      ]
+    }
+  ],
+  "explicit_complete_frozen_owned_originals": [
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 43380,
+      "sha256": "1bdc5b75cb3ba5ef181aefc423f50a9c17d3be062ce089627ee2ab8b48ef93c5",
+      "git_blob_oid_of_actual_bytes": "a036f6d4ce360590372bcf24bc164ee9a5671e0a",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_OPERATIVE_SOURCE_SCOPE_AND_CUSTODY_RECEIPT_V1.json",
+      "bytes": 50758,
+      "sha256": "e4a3467dbaefbf08972819a18d9cd68b51091f9bca58f8c53bc02129aa95010b",
+      "git_blob_oid_of_actual_bytes": "fa16d67ac343800207fd823a1eec571f75e5eb03",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_OPERATIVE_LITERAL_SOURCE_PRECISION_AND_INVERSE_RECEIPT_V1.json",
+      "bytes": 8077,
+      "sha256": "6be58094f8eac50a56ede6d6989c5c4064519b2e97280a8b065b117c84824339",
+      "git_blob_oid_of_actual_bytes": "3a256bf2a575af0b286dd245bab48c5ae17f776b",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_CLAIM_RIVAL_END_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+      "bytes": 540679,
+      "sha256": "214042ac1444c50693021f93045b94f5a77995b4683ade667cc4189c89be2f69",
+      "git_blob_oid_of_actual_bytes": "815de01266513ff1794694bc52bf767f1cbbf3b3",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA105_SUBSTANTIVE_SOURCE_SCOPED_ROLE_REVIEW_V1.json",
+      "bytes": 279755,
+      "sha256": "78d4a9927a942c0ca318485ead8748dfc00ecc7aabb60311e48cbdaea85c27b9",
+      "git_blob_oid_of_actual_bytes": "9af0f76ca3d80564ef315d0dff55d678c78e4da7",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_FINITE_CONTROL_AND_PRIOR_FROZEN_C_INPUT_RECEIPT_V1.json",
+      "bytes": 15186,
+      "sha256": "293c5b6dac1075c5f77aa5cb601a130628026c30046c7b1705bbbee16fa5692c",
+      "git_blob_oid_of_actual_bytes": "86608e0f8172b2d77fcce00ee4c5dc83d3942f13",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_UNSEALED_FIRST_SAVED_BODY_EXACT_BEFOREIMAGE.md",
+      "bytes": 43336,
+      "sha256": "4d1e69a439c61f229f9a2a1d705271e43dffd6b2ca916d6137f792a858589051",
+      "git_blob_oid_of_actual_bytes": "55bea5eefacb5180eaf92b00414e30131c0322ea",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_UNSEALED_FIRST_BODY_ONE_CLAUSE_PRECISION_INVERSE_V1.json",
+      "bytes": 1590,
+      "sha256": "fa13649015102ee62c831bfb80af7ab95376cc9053c88a3be7705a04ab4ae7af",
+      "git_blob_oid_of_actual_bytes": "1a870ae70afd6cd7e4b71abccd31461fdddfa668",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/kaya_receiving_readonly.py",
+      "bytes": 10628,
+      "sha256": "9a0db02403c0f13326b0dfceff17fbe515c608e6e131bcfe919b92ef12296af7",
+      "git_blob_oid_of_actual_bytes": "b8cb529d5d7612930676b94dffb6976ce5799ccc",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_EXACT_SOURCE_SAVED_AND_SCOPE_INVERSE_VERIFICATION_V1.json",
+      "bytes": 1817,
+      "sha256": "f4aa3826f18bafcc04ada2689b1d9f89ecabf76ede705aaff77cd30b231e6b08",
+      "git_blob_oid_of_actual_bytes": "603b5027bee98e6700a3454f30c982cb21ec4b09",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    },
+    {
+      "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_ROOT_COMPLETE_RECEIVING_GUIDE_V1.md",
+      "bytes": 4761,
+      "sha256": "d957023aa3eb872137f02f86f5bd479a48f23e5a47515a161f1404399e6ee60e",
+      "git_blob_oid_of_actual_bytes": "1fd9d76d4176c0cc3dcc7777b76bab5812832f48",
+      "classification": "PUBLIC_AUTHORED_PAYLOAD"
+    }
+  ],
+  "original_freeze_tuple": {
+    "path": "KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json",
+    "bytes": 21220,
+    "sha256": "015be6724ad572025e2da4ddd97e087589e9925fd6e86c2b6152f2718f9e7c97",
+    "git_blob_oid_of_actual_bytes": "787e608b2e745036e5d5ed3d3e3f47ad3322af29",
+    "immutable_transport_path": "immutable_originals/KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH/KAYA_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json"
+  },
+  "original_ROOT_tuple": {
+    "bytes": 13512,
+    "sha256": "3a3f437a547d69d1603dcd85df19436c47a01b1883a31683084933247bb1d7fe",
+    "git_blob_oid_of_actual_bytes": "6cbd054ed14695d8443a0798b645ed7b83513597"
+  },
+  "mandatory_operative_qualification": "The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "changed": false
+  },
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/complete_original_to_canonical_inverse/canonical_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 47142,
+        "sha256": "114817fe48a42bbf55b23eed78ad8840a828a43c8ea702affa1cb4dd040526f7"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+},
+  "current_source_consistency_qualification_FIRST15_20261012_V1": {
+  "schema": "EXACT_CURRENT_FROZEN_MEANING_QUALIFICATIONS_V1",
+  "source": "629d39d2e3873e8e07a4d54db0c26dff06ed0775",
+  "status": "ROOT_CURRENT_SEMANTIC_QUALIFICATION_ACCEPTED_WITH_LIMITS",
+  "original_all_literals_hashes_decisions_inverses": "PRESERVED",
+  "new_credit": 0,
+  "judgments": [
+    {
+      "id": "KAYA-FRAME-L36",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/7/canonical_lines_complete_text/1",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "e4fc65ef8f0c23c8988df0992f5a22a3fbc450a5c23437c7908fc44f53ba5165",
+          "before_literal": "**Current reconciliation and fixed133 adoption boundary — 2026-10-11.** ROOT reconciled the local source at 16b038cc400805d15cfeb799d048e1d20ba9290d/tree 2e64442a6b80cea9d67143d690378bd01932cc88 with current main 87aeee05a161d716fe840a0dd5d5517d9c646df9. PR148 integrated published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246 at 150a85e49a2b6d5fbd0c402d06c3070ea945d0cd with exact whole-tree preservation. Current main contains128 integrated packages and the [seven PR152 corrections](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json) govern applicable current interpretation. The earlier first25% milestone at89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 remains completed history. The separately accepted source128 automatic chain remains its dated source witness; no unreviewed current-main postmerge audit is claimed. This fixed five-package proposal still requires full ROOT installation, then its own publication/validation sequence:133=100character+16directedrelationship+5ensemble+12institution,13named unchanged; current published128/main128 and next178 stay separate. Original bodies, source grades and all14OPEN/model0 remain unchanged; the preceding proposal is preserved with full byte inverses.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "KAYA-FRAME-L38",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN. Rin loses the first chess game to Kaya; current Kaya84/165 already correctly show Kaya’s win, no definite Kaya-loss allegation.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/7/canonical_lines_complete_text/3",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "0cbd03a132579d261b754de381b9e26a2bf9e94cdc89f8607757cb4e88490e7a",
+          "before_literal": "**Dated prior ROOT receiving and publication boundary.** The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAYA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual bounded acceptance; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains complete original bytes and inverse. Published128 source ea92302c7e9044dc1633b76c498a0a3bb3bae246/tree c43f5d62b651da352854278d8bf83d43389e46df has a separately bound complete ROOT-accepted source→housekeeping→actual-source final chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed five-package129–133 proposal takes effect only through full ROOT installation, yielding133 (100character/16directedrelationship/5ensemble/12institution), with13 existing completed named duties unchanged. Later134+ is excluded. Required355/29duties across25parents/384homes, next178, all14 OPEN and model0 stay unchanged. Creation-time producer/source/custody/count statements remain dated history; transport grants no new primary/native/raw/QA/AV/performed/independent literary/identity/admission/scope/count/milestone credit. **Package-specific operative qualification:** The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "KAYA-FRAME-L184",
+      "owner_ref": null,
+      "current_qualification": "**Source629 current interpretation qualification — 2026-10-12.** This is a dated predecessor adoption/publication account. At the audited source629 boundary the fixed133 canonical homes are present (100 character,16 directed relationship,5 ensemble,12 institution;13 named duties unchanged). Original acceptance decisions, preparation/pending statements, source128 tuples and earlier milestone counters remain historical witnesses. This source-consistency review does not certify a new provider/main validation result, new completion or source/identity/model credit; all14 original gaps remain OPEN.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/145",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "45ef740eb1fc06870e741e262efa702a38190a347cbef12f9d0a7cdfde101d9f",
+          "before_literal": "This candidate presents a complete bounded literary argument for the existing character responsibility, subject to independent ROOT receiving. It grants no current completion, publication, merge, denominator, prediction or model credit. Its eleven dimensions, ordinary ends and strong contrary cases remain source-specific; all fourteen stable gaps stay OPEN. Further warranted directed, institutional and individual character packages remain separate required work across the full eligible cast.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    },
+    {
+      "id": "KAYA-CHESS-SCALAR-12",
+      "owner_ref": null,
+      "current_qualification": "The first chess loss is Rin’s loss to Kaya. Existing current84/165 and ROOT substantive acceptance already retain Kaya’s win; no second result, political acquittal or invented meal consumption follows.",
+      "exact_retained_fields": [
+        {
+          "file": "BLUE_ARCHIVE_KAYA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json",
+          "json_pointer": "/mandatory_operative_qualification",
+          "exact_value": true,
+          "literal_occurrences": 1,
+          "frozen_value_sha256": "327dd79ae0d4cc2a1a2de4bcfece990360941bb29c90bfa60e5ec4481682d04d",
+          "before_literal": "The operative Schale offer/refusal is V004C002E008; old C001E008 purpose/route fields remain literal historical inverses and C001E008’s RABBIT comparison remains separate. The whole first body and its single L52 correction are preserved. Final committee, false escort, General divergence, unknown objects and Rin aftermath retain different endpoints; old-friend company and a first chess loss neither acquit coercion nor prove a second result. Heine E005, owner104 and Aoi unsaved-draft qualifications remain visible.",
+          "qualification_only_do_not_replace_literal": true
+        }
+      ]
+    }
+  ],
+  "public_register_reference": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+    "json_pointer": "/first15_independent_receiving_fragment/canonical_additive_control_actions/8",
+    "record_id": "FIRST15-CONTROL-09"
+  },
+  "reviewed_proposed_current_body": {
+    "bytes": 48102,
+    "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "prepared_status_preserved": "C_ONLY_ROOT_MANUAL_ADOPTION_REQUIRED"
+},
+  "prior30_source_consistency_current_qualification_20261012_v5": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_CURRENT_QUALIFICATIONS_20261012_V5.json",
+  "scope": "DATED_ADDITIVE_CURRENT_USE_ONLY_FROZEN_FIELDS_IMMUTABLE",
+  "exact_qualified_original_pointers": [
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/96",
+      "retained_value_utf8_sha256": "5b0415fbfea2a6645ca3280c4055fc43dc74d6b13d6666df9d9cd224d2a48dd0",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-131",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M017-L135"
+      ]
+    },
+    {
+      "json_pointer": "/complete_original_to_canonical_inverse/complete_ranges/8/exact_unchanged_lines/13",
+      "retained_value_utf8_sha256": "c6f2110283345cf6a8160d59d27a00d9852cb17ab4dc7c4685e8cb4e967a81d7",
+      "finding_ids": [
+        "P30-P3-CHAR-M014-ROOT_SEVEN_SEEDS_VERIFIED_BOUNDED_BODY_PROPOSALS_AND_FULL_INVERSES_V1-132",
+        "P30-SEED_HEINE_KAYA_RIN_SOURCE_PURPOSE-SEED_BDEF_EXACT_CURRENT_REPETITION_NAVIGATION_V1",
+        "P30-P3-CHAR-M017-L52"
+      ]
+    }
+  ],
+  "effective_current_canonical_body_bindings": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HEINE_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 41729,
+      "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 40860,
+        "sha256": "8611e8f9dacfb0f7d0d402abfa4de7123b49cb299d3fdc1963a9435e2df583e8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 41729,
+        "sha256": "591a26dafe7d99cb14cc2fa078d57c1b8d352920ee5de6f3e5ccbcfb0cfcee4b"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    },
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAYA_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 48102,
+      "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab",
+      "lines": 184,
+      "conditional_precomposition_tuple_preserved": {
+        "bytes": 47294,
+        "sha256": "7b0dafe1d5053b1f79e5323a9a92b28fe78fc4fd2c46dfb7385b027621ec5ec8"
+      },
+      "effective_composed_body_tuple": {
+        "bytes": 48102,
+        "sha256": "397ee45de5476ce53073fdc8e24e12bf0ee19bb78c2ad4748f2704264eeaf4ab"
+      },
+      "composed_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json"
+    }
+  ],
+  "new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_CURRENT_BINDINGS_AND_WRAPPER_RECOVERY_20261012_V1.json",
+  "retained_original_to_canonical_inverse": "UNCHANGED;APPLY_NEW_DIFFERENTIAL_INVERSE_FIRST",
+  "earlier_PR152_layer": "PRESERVED_UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "new_source_package_identity_model_credit": 0,
+  "ROOT_installation_and_publication": "ROOT_SEMANTICALLY_APPROVED_CURRENT_COMPOSITION;REQUIRED_FULL_VALIDATION_AND_EXACT_SOURCE_HOUSEKEEPING_FINAL_RUNTIME_PUBLICATION_GATES",
+  "conditional_precomposition_new_body_inverse_module": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_BODY_DIFFERENTIAL_INVERSES_20261012_V2.json",
+  "conditional_precomposition_effective_bindings_and_inverse_recovery_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PRIOR30_AND_SEED_EFFECTIVE_BINDINGS_AND_INVERSE_RECOVERY_20261012_V1.json"
+}
+}

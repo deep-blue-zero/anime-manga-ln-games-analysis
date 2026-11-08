@@ -1,0 +1,57 @@
+{
+  "freeze_sha256": "05e532de04bf370d4706ca7cb291c9ac789d3b5d35968b9c8d6f95cab417eb59",
+  "files": [
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_CIAN_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_ETIENNE_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_KEITA_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_MIACH_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_NUAZA_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_OSCAR_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_RECONSTRUCTION_PROTOCOL_AND_COVERAGE.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_REIKO_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_TUAN_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_UWE_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/HARMONY_VASHILOV_RECONSTRUCTION_MODEL.md",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/character_harness.py",
+      "match": true
+    },
+    {
+      "path": "series/harmony/04 Character and Relationship Studies/Reconstruction/Interactive/scenarios.json",
+      "match": true
+    }
+  ]
+}

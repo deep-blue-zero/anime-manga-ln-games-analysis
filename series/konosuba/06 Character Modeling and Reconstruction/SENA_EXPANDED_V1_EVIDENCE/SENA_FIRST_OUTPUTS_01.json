@@ -1,0 +1,50 @@
+{
+  "schema": "konosuba.secondary.actual-first-outputs.v1",
+  "saved_utc": "2026-10-20T17:08:59.535810+00:00",
+  "subject": "Sena",
+  "precase_freeze_sha256": "58df851fb0f8bdb76a58831643428dfbcb4e2bae36fbe8af4d241eeeea868ce0",
+  "exact_input_freeze_sha256": "f55b2113bcac200cf8d6038ba4691d2b64ebd94b494b6308e07b681bfbe5dde1",
+  "input_file": "SENA_SCENARIO_INPUTS_01.json",
+  "input_sha256": "c9f97b78a2f7506544a9928d96b4a41f1f86d8c2b3ecc108aeee83b103569e17",
+  "outputs": [
+    {
+      "case_id": "SENA-H01-A",
+      "input_sha256": "3c7df75f123479072f9cfae3fd7a882d49e0da46891fe55801e9e8f2b416600e",
+      "body": "“That photograph gives me a problem with ‘never.’ You were shaking his hand. Start there: what happened at that fair?”\n\nSena slides the photograph across the table.",
+      "body_sha256": "9ae1d8116f529efc8c8aa65a38ba063a5f383efb8e002a97a343bae271f13215",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    },
+    {
+      "case_id": "SENA-H01-B",
+      "input_sha256": "250768c9182725859b45751150e8bd00b0e0c89e527e5d443288c46f8332de2f",
+      "body": "“All right. Meeting him isn’t the same thing as giving him the code. When did you last have access to it?”\n\nSena draws a line under the note about the fair.",
+      "body_sha256": "b4960e126a82875fc854e1ca982168c46a5fe051c52e12d57b0a5fe19ac4a645",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    },
+    {
+      "case_id": "SENA-H02-A",
+      "input_sha256": "a0ae69722d736eebb8cab1b67168079c9cff8518120deaf3d90e25835cbfc0c4",
+      "body": "“If you haven’t agreed, I can’t simply put you down. Could you give me fifteen minutes until Claire arrives?”\n\nSena holds the badge against the timetable instead of handing it to him.",
+      "body_sha256": "0f2695d4b2a13c60fa1e3fa58b96f342342752d4ee860e0bddce2d463b59e169",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    },
+    {
+      "case_id": "SENA-H02-B",
+      "input_sha256": "faa3de43419ed04515c42c7a50d5648e5c84eede37545277485e18dbfa579530",
+      "body": "“You volunteered for this shift yesterday. I need you to cover the first fifteen minutes, and then I’ll ask Claire to take over.”\n\nSena sets the badge on the table beside his book.",
+      "body_sha256": "c27cafddb83a4ae5b026190d06abcc2bffdf404085a336dca44e58b6a5d67b3e",
+      "regenerations": 0,
+      "repairs": 0,
+      "body_process": "Actual first saved root-authored English hypothetical body. Same informed model/case/output/assessment author; no external generation API or independent author. Preparatory response ideas were anticipated and disclosed."
+    }
+  ],
+  "output_count": 4,
+  "independent_validation": 0,
+  "full_program_complete": false
+}

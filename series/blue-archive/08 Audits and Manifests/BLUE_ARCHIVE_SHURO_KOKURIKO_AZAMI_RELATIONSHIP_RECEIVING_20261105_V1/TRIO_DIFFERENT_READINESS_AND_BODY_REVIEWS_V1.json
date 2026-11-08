@@ -1,0 +1,2106 @@
+{
+  "schema": "TRIO_EXACT_C_ONLY_SIX_PEER_V1",
+  "role": "PEER",
+  "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_DIFFERENT_READINESS_AND_BODY_REVIEWS_V1.json",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "authority_control": {
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false
+  },
+  "candidate_scope": "IMMUTABLE_C_CREATION_STAGE_ELIGIBLE_ANALYTICAL_AND_PROVENANCE_CANDIDATE",
+  "existing_duty": {
+    "package": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "home": "/homes/189",
+    "required_csv_physical_line": 191
+  },
+  "operative_stage": {
+    "readiness_V2": "ROOT_ADOPTED_WITH_LIMITS_EXISTING_RELATIONSHIP",
+    "body_V2_suffix": "ROOT_ADOPTED_WITH_LIMITS_EXACT_LITERAL",
+    "finite_retention_plan": "ROOT_ADOPTED_WITH_LIMITS",
+    "different_exact_six_QA": "PENDING",
+    "root_exact_six_new_bytes_adoption": "PENDING",
+    "repository_installation": "PENDING",
+    "publication": "PENDING"
+  },
+  "authority_scope": "These immutable creation-stage candidate records carry bounded maintained analytical and provenance authority for the existing directed trio relationship. Current installed repository authority, source admission, standalone and general model authority, identity adjudication and coverage or count changes remain outside this stage.",
+  "publication_utc": null,
+  "bound_prior_components": [
+    {
+      "role": "SOURCE",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_EVIDENCE_MODES_SOURCE_AUTHORITY_AND_CLAIM_LIMITS_V1.json",
+      "bytes": 20794,
+      "sha256": "a18ff402cbb7a847b39f59fa033b521bc61338d996fba60b6a1dc8ab9d6b1891"
+    },
+    {
+      "role": "BODY",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 14583,
+      "sha256": "4fa34bfc307c403cd5b8be2b8f8ab95e923a44bc975041a7aa7a55d3bc11da20"
+    },
+    {
+      "role": "AUTHOR",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SHURO_KOKURIKO_AZAMI_RELATIONSHIP_RECEIVING_20261105_V1/TRIO_AUTHOR_READINESS_AND_LITERAL_BODY_HISTORY_V1.json",
+      "bytes": 133464,
+      "sha256": "07347f3890469d82520e6d9e1113e3c44dae4f45a326b58f2469eea428a182a4"
+    }
+  ],
+  "selected_records": {
+    "T07": {
+      "schema": "START_HERE_DIFFERENT_TRIO_CONNECTED_BODY_LITERARY_QA_FROZEN_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "scope": "Existing P3-REL-SHURO-KOKURIKO-AZAMI, /homes/189, required CSV physical191. Independent complete literary review of the exact connected body.",
+      "verdict": "SUPPORT_EXACT_CONNECTED_BODY_WITH_LIMITS_PENDING_ROOT_RECEIVING_AND_DECISION",
+      "reviewed_body": {
+        "path": {
+          "trio_exact_local_locator": "L004"
+        },
+        "bytes": 12914,
+        "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418"
+      },
+      "author_terminal": {
+        "path": {
+          "trio_exact_local_locator": "L009"
+        },
+        "bytes": 7853,
+        "sha256": "a9cf501778090027d9eb721a8702fdc58049a56d9a2c81ea1687e5afda9cbc0d"
+      },
+      "root_commission": {
+        "path": {
+          "trio_exact_local_locator": "L005"
+        },
+        "bytes": 6981,
+        "sha256": "a98ee51803fdb2c53896fa1fdf2a50a61f5927daf0533b7a61fdb8e334195b76"
+      },
+      "own_records": {
+        "fresh_questions": {
+          "path": {
+            "trio_exact_local_locator": "L020"
+          },
+          "bytes": 5165,
+          "sha256": "556cdccb7c2d110dafea1cb2fe09bf0f77d79095d783814799888e03aca31dde"
+        },
+        "actual_course": {
+          "path": {
+            "trio_exact_local_locator": "L021"
+          },
+          "bytes": 7907,
+          "sha256": "6c9a0fba458aa3ffd5b768064e8c5244157e29fdc7f7876ca3fe7edab4fa91ad"
+        },
+        "complete_literary_QA": {
+          "path": {
+            "trio_exact_local_locator": "L022"
+          },
+          "bytes": 19375,
+          "sha256": "37af2aa82935be8d0941011ad2e048e9b87558b3d60a52170208c40ced60b7fe"
+        },
+        "actual_saved_readback": {
+          "path": {
+            "trio_exact_local_locator": "L023"
+          },
+          "bytes": 2695,
+          "sha256": "0d9f472372d0f32e6ec6aafc565a78f3d8ea89567104d1fd2094b2869242f4fd"
+        }
+      },
+      "material_findings": 0,
+      "nonblocking_finding": "TB-LIT-N01 at BODY physical27 concerns one pronoun. C00286 names Kokuriko’s particular relation to Shuro. The exact clarification and reason are in the complete QA.",
+      "actual_extent": "Whole12914 body and7853 terminal received. Complete 15 paragraph and11 note review. Twenty cited addresses and C00286 reread inside exact own prior262 course, plus exact reuse of owned66 method/architecture addresses. Complete saved19375 QA,7907 course and2695 readback received. The author’s694/304 exposure remains separately attributed.",
+      "data_guard": {
+        "references": 16,
+        "unique_paths": 16,
+        "failures": 0,
+        "scope": "Exact body, author terminal, Root commission, own prior source course, all three maintained captures, two controls, three positively pinned prior inputs, and own questions/course/QA/readback."
+      },
+      "decision_stage": "Frozen C-only literary review for Root actual receiving and decision. The draft’s existing relationship scope and maintained source grade govern the next stage. Zero package, source, identity, named, model or publication credit."
+    },
+    "T08": {
+      "schema": "TRIO_EXISTING_HOME_DIFFERENT_COMPLETE_CONNECTED_BODY_LITERARY_QA_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "verdict": "SUPPORT_EXACT_CONNECTED_BODY_WITH_LIMITS_PENDING_ROOT_RECEIVING_AND_DECISION",
+      "reviewed_body": {
+        "path": {
+          "trio_exact_local_locator": "L004"
+        },
+        "bytes": 12914,
+        "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418"
+      },
+      "actual_course": {
+        "path": {
+          "trio_exact_local_locator": "L021"
+        },
+        "bytes": 7907,
+        "sha256": "6c9a0fba458aa3ffd5b768064e8c5244157e29fdc7f7876ca3fe7edab4fa91ad"
+      },
+      "fresh_questions": {
+        "path": {
+          "trio_exact_local_locator": "L020"
+        },
+        "bytes": 5165,
+        "sha256": "556cdccb7c2d110dafea1cb2fe09bf0f77d79095d783814799888e03aca31dde"
+      },
+      "existing_scope": "P3-REL-SHURO-KOKURIKO-AZAMI, /homes/189, required CSV physical191. This is the distinct literary body judgment for one existing relationship duty.",
+      "literary_judgment": "The draft follows permission as an act within a hierarchy. It moves from failure and precarious recognition, through an independently authored deviation, to the limitation of a threatened response. Azami is necessary to that turn because the threat gives Kokuriko a specific action to restrain. Shuro’s act can precede permission while her future remains subject to unequal power. The essay lets that tension govern what it says about motives, ordinary goods, coercion and aftermath.",
+      "answers": [
+        {
+          "id": "TBQ01",
+          "judgment": "Sustained directed argument",
+          "reason": "The opening problem governs the return to the intervention after the earlier work and creative scenes. The paragraphs on Azami’s observation, Shuro’s manuscript and Niya’s appeal make the intervention intelligible from three distinct positions. Paragraphs 10 and 11 then move from what Azami may do toward Shuro to what Kokuriko can permit Azami and Shuro to do. The ethical limit and uneven ending answer the opening without settling the relation permanently."
+        },
+        {
+          "id": "TBQ02",
+          "judgment": "Actors and source modes supported",
+          "reason": "The claimed completed story and its admitted failure retain separate occasions, and damage remains actual. Kokuriko’s capture statement is reported. The restored object is blank and restoration is attributed to an unnamed student. The authorship and audience response occur before the E025 allowance. The eleven notes collectively give each indispensable event its exact maintained source address."
+        },
+        {
+          "id": "TBQ03",
+          "judgment": "Instrumental purpose and tactical timing remain serious",
+          "reason": "Kokuriko’s projected destructive work, praise of useful service and capacity to restrain Azami make instrumental tolerance a credible explanation. Immediate enforcement could also be inconvenient. The prose leaves both motives possible. Coerced exposure of other students shows why one protective act cannot settle a person’s ethics. Selective permission survives these rivals as a description of the local act and stated terms."
+        },
+        {
+          "id": "TBQ04",
+          "judgment": "Shuro remains both agent and vulnerable participant",
+          "reason": "Her inward fear is an earlier representation that complicates her later all-staged claim. The hostage-taking and released group give harmful action and its recipients clear roles. Niya’s strategic appeal, the reported material restorer, Shuro’s profession of continued loyalty and her new tale remain separate contributions. The manuscript and audience laughter broaden the account of agency without making it innocent or unconstrained."
+        },
+        {
+          "id": "TBQ05",
+          "judgment": "Azami’s direction and enforcement inference bounded",
+          "reason": "Her admission goes to the travellers. Kokuriko’s orientation to her has actual praise and intervention, while Azami’s opposite work orientation remains inferred. The body presents expected-return enforcement as a reading of the paired speech and act. C00248 warrants prevention of threat and a conditional statement. The prose preserves the missing order, reply, completion and private reverse relation."
+        },
+        {
+          "id": "TBQ06",
+          "judgment": "Quiet and ordinary goods carry independent meaning",
+          "reason": "The manuscript and laughter are allowed to matter at their own scale. The search supplies exposure while the desired audience is open. Chise’s quiet creative preferences and Kaho’s recipient role illuminate the distinction between public usefulness and chosen access. The ending uses Nagusa’s waiting and the Ninja Club’s friendship as particular positive endpoints belonging to those actors. This places value on the actual small acts without inventing an ordinary routine for the trio."
+        },
+        {
+          "id": "TBQ07",
+          "judgment": "The ending preserves mode and uncertainty",
+          "reason": "The later disappearance report has a wider subject than the represented escape. The body explicitly marks this difference and leaves renewed work, shared life and accountability open. The offer of a hand is an offered gesture, the imposed disclosures retain their coercive condition, and the book scheme stays attributed. No clause requires a primary/native source or an inferred joint aftermath."
+        },
+        {
+          "id": "TBQ08",
+          "judgment": "Commission met within actual personally received extent",
+          "reason": "The relationship has the distinct ideological and emotional problem contemplated by method380–408. The body gives exact role changes and marks unreceived origin, reciprocity and afterstate. Its source modes support those claims at the maintained grade. Architecture346–356 supports a dedicated synthesis on narrative significance. All citations were verified within earlier exact owned intervals. The original author’s complete V005 exposure stays their own. The only precise finding concerns the referent of one pronoun and has no material effect on the literary disposition."
+        }
+      ],
+      "paragraph_review": [
+        {
+          "paragraph": 1,
+          "body_physical_line": 3,
+          "function_in_argument": "Immediate permission and continuing authority",
+          "judgment": "The opening identifies three distinct acts and their direction. Shuro writes, Azami can threaten Shuro, and Kokuriko limits that threat. The figurative departure concerns the expected role in the scene. The later ending keeps physical departure and durable allegiance open."
+        },
+        {
+          "paragraph": 2,
+          "body_physical_line": 5,
+          "function_in_argument": "Work accountability and hostile continuation",
+          "judgment": "The turn from E023 claimed completion and actual harm to E026 admission and acceptance establishes a specific working relation. Kokuriko’s invitation projects another world-burning story. The paragraph bounds origin and first meeting."
+        },
+        {
+          "paragraph": 3,
+          "body_physical_line": 7,
+          "function_in_argument": "Recognition under insecurity",
+          "judgment": "Praise has two recipients. Shuro’s questions and fear give precarious membership a particular object, while the reason for the attack and the memory gaps remain open. Kokuriko’s capture statement stays a report."
+        },
+        {
+          "paragraph": 4,
+          "body_physical_line": 9,
+          "function_in_argument": "Affiliation and reader knowledge",
+          "judgment": "The argument uses the gap between reader knowledge and travelling-party knowledge. Azami’s disclosure addresses the travellers. Her position relative to Kokuriko is an inference from work, praise and intervention. The lodging suspicion leaves ordinary residents and produce possible."
+        },
+        {
+          "paragraph": 5,
+          "body_physical_line": 11,
+          "function_in_argument": "Private authorship and access",
+          "judgment": "The mansion discovery belongs to the searchers and the writing to Shuro under her pen name. The essay draws a legitimate distinction between discovery, a gift and invited reading. The source supplies a harmless manuscript without its full text, genre or intended audience."
+        },
+        {
+          "paragraph": 6,
+          "body_physical_line": 13,
+          "function_in_argument": "Fear beside harmful agency",
+          "judgment": "The earlier represented attack and inward fear qualify Shuro’s later self-presentation. Sensei reaches her despite reported pain. Shuro later holds Sensei at gun-threat and releases the others to seek Kuzunoha. The chronological contrast carries fear and coercion within the same accountable actor."
+        },
+        {
+          "paragraph": 7,
+          "body_physical_line": 15,
+          "function_in_argument": "Azami’s initiative and limited observation",
+          "judgment": "Azami’s naming proposal, urged reversal of the gaze and observation of thinning give her acts within the operation. The local inference about joy is bounded by her timing warning and the retracted ritual account. This makes her more than an incidental instrument in the later intervention."
+        },
+        {
+          "paragraph": 8,
+          "body_physical_line": 17,
+          "function_in_argument": "Distributed conditions of writing",
+          "judgment": "Niya shows the blank vessel and strategically appeals to Shuro. The reported unnamed restorer contributes material. Shuro professes loyalty and authors new text. The argument keeps external elicitation, material conditions and text authorship distinct."
+        },
+        {
+          "paragraph": 9,
+          "body_physical_line": 19,
+          "function_in_argument": "Audience response as an ordinary good",
+          "judgment": "The creature, laughter, stagger, shot and Izuna’s report have local roles. The prose gives audience enjoyment weight in its own right. The private manuscript supplies continuity of creative activity across circumstances without claiming the same audience, method or effect."
+        },
+        {
+          "paragraph": 10,
+          "body_physical_line": 21,
+          "function_in_argument": "Inference from threat and allowance",
+          "judgment": "The prose explicitly makes expected-return enforcement an inference from the paired threat and conditional statement. It keeps the threatened target, restraining actor, unprinted order and unprinted reply distinct. Azami has consequential direction toward Shuro while reciprocity remains sparse."
+        },
+        {
+          "paragraph": 11,
+          "body_physical_line": 23,
+          "function_in_argument": "Two directions of constraint",
+          "judgment": "Praise and restraint are both ways Kokuriko relates to Azami. Shuro’s already enacted deviation is the antecedent of allowance. The paragraph preserves her previous explicit loyalty and keeps duration and reception open. This connects both subordinates’ positions to the same intervention."
+        },
+        {
+          "paragraph": 12,
+          "body_physical_line": 25,
+          "function_in_argument": "A rival that changes the reading",
+          "judgment": "Usefulness and tactical cost receive separate, plausible formulations. The earlier invitation and nearby coercion keep a strategic reading active. The body distinguishes observable restraint from its cause and tests the overbroad claim that one authority authors all subordinate acts."
+        },
+        {
+          "paragraph": 13,
+          "body_physical_line": 27,
+          "function_in_argument": "Ethical reach of the intervention",
+          "judgment": "The imposed darkness, coerced self-reports and earlier Ayame pressure qualify the treatment of Shuro. Nagusa’s offered hand keeps an independent direction. The book account stays a claim with local observations. The special relation sentence has the small referential issue recorded below."
+        },
+        {
+          "paragraph": 14,
+          "body_physical_line": 29,
+          "function_in_argument": "Comparison of audiences",
+          "judgment": "Chise’s authored poem and Kaho’s recipient role retain their separate attribution. The comparison clarifies audience choice and public usefulness without borrowing Chise’s tastes or privacy decisions for Shuro. It gives quiet creative preferences a substantive place."
+        },
+        {
+          "paragraph": 15,
+          "body_physical_line": 31,
+          "function_in_argument": "Uneven endpoints",
+          "judgment": "The ending distinguishes represented Kokuriko escape from Niya’s later wider report. The waiting, gardening and Ninja friendship remain other actors’ actual outcomes. This contrast shows what a received ordinary afterstate can look like while the trio’s later relations stay unreceived."
+        }
+      ],
+      "note_review": [
+        {
+          "note": "allowance",
+          "body_physical_line": 35,
+          "received_warrants": [
+            [
+              "C002",
+              44,
+              44
+            ],
+            [
+              "C002",
+              48,
+              48
+            ]
+          ],
+          "judgment": "E024 writing and E025 stopped threat/conditional allowance are correctly separated. The special tie stays unnamed."
+        },
+        {
+          "note": "failure",
+          "body_physical_line": 36,
+          "received_warrants": [
+            [
+              "C001",
+              30,
+              30
+            ],
+            [
+              "C001",
+              48,
+              48
+            ],
+            [
+              "C001",
+              54,
+              54
+            ]
+          ],
+          "judgment": "C00130/48 supply completion claim and harm. C00154 supplies admission and acceptance plus projected hostile purpose."
+        },
+        {
+          "note": "fear",
+          "body_physical_line": 37,
+          "received_warrants": [
+            [
+              "C002",
+              32,
+              32
+            ],
+            [
+              "C002",
+              36,
+              36
+            ]
+          ],
+          "judgment": "The prior represented attack and fear qualify the later boast. Praise and questions keep their speakers and recipients."
+        },
+        {
+          "note": "affiliation",
+          "body_physical_line": 38,
+          "received_warrants": [
+            [
+              "C002",
+              28,
+              28
+            ],
+            [
+              "C002",
+              32,
+              32
+            ],
+            [
+              "C002",
+              36,
+              36
+            ],
+            [
+              "C002",
+              48,
+              48
+            ]
+          ],
+          "judgment": "Reader knowledge, travelling-group disclosure and Kokuriko’s praise and restraint establish the observed basis and the inferred orientation."
+        },
+        {
+          "note": "manuscript",
+          "body_physical_line": 39,
+          "received_warrants": [
+            [
+              "C002",
+              32,
+              32
+            ]
+          ],
+          "judgment": "The search and pen name support Shuro’s harmless private work at the maintained grade. A full text, genre and audience preference remain outside the warrant."
+        },
+        {
+          "note": "hostage",
+          "body_physical_line": 40,
+          "received_warrants": [
+            [
+              "C002",
+              32,
+              32
+            ],
+            [
+              "C002",
+              36,
+              36
+            ]
+          ],
+          "judgment": "The two source places preserve earlier help and later hostage-taking. The group, rather than Shuro or Sensei, is released to search."
+        },
+        {
+          "note": "song",
+          "body_physical_line": 41,
+          "received_warrants": [
+            [
+              "C002",
+              42,
+              42
+            ],
+            [
+              "C002",
+              50,
+              50
+            ],
+            [
+              "V005",
+              415,
+              415
+            ]
+          ],
+          "judgment": "C00242 carries the naming, Chise’s song, audience, observation and limited concession. V005415 retains the local change and Niya’s later retraction, with C00250 supplying later setting."
+        },
+        {
+          "note": "writing",
+          "body_physical_line": 42,
+          "received_warrants": [
+            [
+              "C002",
+              44,
+              44
+            ],
+            [
+              "V005",
+              415,
+              415
+            ]
+          ],
+          "judgment": "C00244 gives the strategic appeal, reported blank material repair and new authored tale. V005415 limits the effect to the occasion."
+        },
+        {
+          "note": "exposure",
+          "body_physical_line": 43,
+          "received_warrants": [
+            [
+              "C002",
+              48,
+              48
+            ],
+            [
+              "C002",
+              74,
+              78
+            ]
+          ],
+          "judgment": "C00248 supplies the setup, claims, speakers and offered hand. C00274–78 supports retaining speech, identity and claim-mode boundaries."
+        },
+        {
+          "note": "audience",
+          "body_physical_line": 44,
+          "received_warrants": [
+            [
+              "V005",
+              417,
+              419
+            ]
+          ],
+          "judgment": "V005417–419 directly supports the author/recipient and quiet/audience distinction at maintained contextual projection grade."
+        },
+        {
+          "note": "ending",
+          "body_physical_line": 45,
+          "received_warrants": [
+            [
+              "C002",
+              48,
+              48
+            ],
+            [
+              "C002",
+              50,
+              50
+            ],
+            [
+              "C002",
+              60,
+              60
+            ]
+          ],
+          "judgment": "C00248 represents Kokuriko’s escape. C00250 attributes all-three disappearance to Niya. C00260 supplies shorthand subordinate to those detailed modes."
+        }
+      ],
+      "material_findings": [],
+      "nonblocking_findings": [
+        {
+          "id": "TB-LIT-N01",
+          "kind": "LOCAL_REFERENTIAL_CLARITY",
+          "body_physical_line": 27,
+          "exact_text": "The chapter leaves their special relation unnamed.",
+          "evidence": [
+            [
+              "C002",
+              48,
+              48
+            ],
+            [
+              "C002",
+              86,
+              86
+            ]
+          ],
+          "reason": "The preceding sentences name several actors and return to the allowance to Shuro. The pronoun can momentarily leave the reader choosing between the pair and the trio. C00286 identifies the particular question as Kokuriko’s special relation to Shuro. The current argument’s other sentences already identify the intervention, so this creates no unsupported material claim.",
+          "precise_clarification": "The chapter leaves Kokuriko’s special relation to Shuro unnamed.",
+          "disposition": "Nonblocking editorial observation for Root."
+        }
+      ],
+      "modest_documentary_checks": {
+        "paragraphs": 15,
+        "note_definitions": 11,
+        "unique_used_notes": 11,
+        "definitions_complete_unique_and_used": true,
+        "all_note_source_spans_inside_owned_course": true,
+        "strict_UTF8_LF_with_title_no_BOM_CR_NUL": true,
+        "exact_body_terminal_commission_source_control_and_prior_pins": true
+      },
+      "adoption_boundary": "Support the exact C-only body with its maintained written-context grade and explicit endpoint limits. Root actual receiving and decision are the next stage. This separate review supplies zero package, source, identity, named, model or publication credit."
+    },
+    "T09": {
+      "schema": "TRIO_CONNECTED_BODY_DIFFERENT_LITERARY_QA_ACTUAL_COURSE_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "fresh_questions": {
+        "path": {
+          "trio_exact_local_locator": "L020"
+        },
+        "bytes": 5165,
+        "sha256": "556cdccb7c2d110dafea1cb2fe09bf0f77d79095d783814799888e03aca31dde"
+      },
+      "root_commission": {
+        "path": {
+          "trio_exact_local_locator": "L005"
+        },
+        "bytes": 6981,
+        "sha256": "a98ee51803fdb2c53896fa1fdf2a50a61f5927daf0533b7a61fdb8e334195b76"
+      },
+      "newly_received": [
+        {
+          "role": "complete body",
+          "path": {
+            "trio_exact_local_locator": "L004"
+          },
+          "bytes": 12914,
+          "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418",
+          "character_views": [
+            [
+              0,
+              6900
+            ],
+            [
+              6900,
+              "EOF"
+            ]
+          ],
+          "meaning": "Whole saved final body received. Fifteen connected literary paragraphs, source-address preamble, and all eleven notes were personally read."
+        },
+        {
+          "role": "author terminal and embedded composition/readback",
+          "path": {
+            "trio_exact_local_locator": "L009"
+          },
+          "bytes": 7853,
+          "sha256": "a9cf501778090027d9eb721a8702fdc58049a56d9a2c81ea1687e5afda9cbc0d",
+          "character_views": [
+            [
+              0,
+              3800
+            ],
+            [
+              3800,
+              "EOF"
+            ]
+          ],
+          "meaning": "Whole terminal received, including four composition questions, declared exposure, exact old course and source pins, genuine same-reader prior draft reuse, localized manuscript precision, saved-body meaning, and stop."
+        }
+      ],
+      "own_previous_course": {
+        "path": {
+          "trio_exact_local_locator": "L024"
+        },
+        "bytes": 14757,
+        "sha256": "1ac47ae053f771c7a4ec215dda4dcb6578813b2563937cc89ab74125f718bc44"
+      },
+      "continuity": "The actual own earlier maintained written-context course comprised C0011–95, C0021–92, and V0051–30 and391–435. Its 262 selected addresses and 66 control addresses are unchanged. The exact files matched the earlier own course pins and the body author’s three declared source pins. This literary review uses that personally owned meaning and reread selected cited passages within it.",
+      "actual_reread": [
+        {
+          "role": "C001",
+          "path": {
+            "trio_exact_local_locator": "L001"
+          },
+          "bytes": 19011,
+          "sha256": "c853a066c88be24c06a3cd06f7ef3c92d5b23fd19f9422e112a0d850c85473d0",
+          "physical_lines": [
+            30,
+            48,
+            54
+          ],
+          "meaning": "Claimed completion, actual damage and distress, reported failure to Kokuriko, acceptance and projected hostile continuation have distinct roles."
+        },
+        {
+          "role": "C002",
+          "path": {
+            "trio_exact_local_locator": "L002"
+          },
+          "bytes": 18737,
+          "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+          "physical_lines": [
+            28,
+            32,
+            36,
+            42,
+            44,
+            48,
+            50,
+            60,
+            74,
+            75,
+            76,
+            77,
+            78,
+            86
+          ],
+          "meaning": "Affiliation disclosure, private manuscript, attack, inner fear, praise, hostage-taking, distinct song effects, blank material and new writing, conditional permission, coerced disclosure, represented escape, later disappearance report, compressed table and named relation question were checked."
+        },
+        {
+          "role": "V005",
+          "path": {
+            "trio_exact_local_locator": "L003"
+          },
+          "bytes": 39115,
+          "sha256": "055a3b80d82823ae3fffe45096b7a5842e99855c78509c1e1ed4eeb5f061b1ef",
+          "physical_lines": [
+            415,
+            417,
+            418,
+            419
+          ],
+          "meaning": "The public local countereffects and the maintained contextual comparison preserve Chise’s authorship and quiet goods, Kaho’s recipient role and the limits of private/audience evidence."
+        }
+      ],
+      "actual_extent": "Twenty cited physical addresses were reread, plus C00286 for the local referential observation. Those twenty-one are inside the previous own 262 and create zero added source coverage. All note spans are within personally received meaning. All source reasoning is maintained analytical written context.",
+      "exact_owned_controls": [
+        {
+          "path": {
+            "trio_exact_local_locator": "L025"
+          },
+          "bytes": 53414,
+          "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+          "received_intervals": [
+            [
+              380,
+              425
+            ]
+          ],
+          "mode": "Exact prior own selected meaning reused at matching full-file pins"
+        },
+        {
+          "path": {
+            "trio_exact_local_locator": "L026"
+          },
+          "bytes": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "received_intervals": [
+            [
+              264,
+              272
+            ],
+            [
+              346,
+              356
+            ]
+          ],
+          "mode": "Exact prior own selected meaning reused at matching full-file pins"
+        }
+      ],
+      "author_exposure": "The author’s exact prior12793 course was pinned and its full meaning was personally received during the readiness review. Its C00195/C00292/V005507 total694 and overlapping fresh304 belong to the original author. The current terminal describes selected rechecks inside that earlier course and a localized saved manuscript precision. The reviewer received the whole current body directly. The author’s same-reader prior-draft inverse and full V005 attendance stay attributed to the author.",
+      "scope": "Existing P3-REL-SHURO-KOKURIKO-AZAMI at /homes/189 and required CSV physical191. Earlier adopted readiness and this draft’s separate literary review occupy distinct stages. This task writes only the independent C review records and has zero package or source credit."
+    },
+    "T10": {
+      "schema": "TRIO_CONNECTED_BODY_DIFFERENT_LITERARY_QA_ACTUAL_SAVED_READBACK_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "QA": {
+        "path": {
+          "trio_exact_local_locator": "L022"
+        },
+        "bytes": 19375,
+        "sha256": "37af2aa82935be8d0941011ad2e048e9b87558b3d60a52170208c40ced60b7fe"
+      },
+      "actual_course": {
+        "path": {
+          "trio_exact_local_locator": "L021"
+        },
+        "bytes": 7907,
+        "sha256": "6c9a0fba458aa3ffd5b768064e8c5244157e29fdc7f7876ca3fe7edab4fa91ad"
+      },
+      "actual_receiving": "I received the whole saved19375 literary review in contiguous views through EOF at 0–6500,6500–13000 and13000–EOF. I received the whole saved7907 course through EOF. The eight answers, fifteen paragraph judgments, eleven source-note judgments and exact local finding were read back at their saved pins.",
+      "review_result": "Support the exact12914 connected body with its maintained written-context limits. The body makes Azami’s threatened action consequential in the relation, preserves Shuro’s writing before allowance and leaves the instrumentality or tactical cost of restraint live. Prior hostility and coerced exposure remain adverse evidence. Creative activity, audience laughter and the other actors’ quiet ordinary outcomes retain their own weight and recipients. The ending keeps represented escape and later reported disappearance at distinct grades.",
+      "actual_source_attention": "Own earlier exact262 maintained and66 control addresses are reused at matching pins. Twenty cited physical addresses and the additional C00286 were personally reread inside those earlier bounds. The author’s declared694/304 extent remains theirs. Full current BODY and author terminal were independently received. All eleven notes have exact warranted sources.",
+      "finding": "TB-LIT-N01 is a nonblocking local referential observation at body physical27. C00286 identifies Kokuriko’s particular relation to Shuro. Naming the pair would clarify the pronoun in the current multi-actor paragraph. The present argument and source mode remain supportable. There are zero material findings.",
+      "stage": "Independent C literary QA frozen for Root actual receiving and decision on the one existing relationship body. Zero package or source credit."
+    },
+    "T11": {
+      "schema": "START_HERE_TRIO_BODY_V2_TWO_LITERAL_DIFFERENT_FINITE_QA_V1",
+      "actor": "/root/azami_m006_different_readiness_qa",
+      "utc": "2026-11-05T05:28:56.605Z",
+      "verdict": "SUPPORT_EXACT_V2_WITH_PRIOR_LIMITS_PENDING_ROOT_ACTUAL_RECEIVING",
+      "existing_home": "P3-REL-SHURO-KOKURIKO-AZAMI",
+      "complete_finite_QA": {
+        "path": {
+          "trio_exact_local_locator": "L027"
+        },
+        "bytes": 6300,
+        "sha256": "35795fed0db91b8f1002e7c2a180d2086e8d2ed1836b55c153ec37168da6703d"
+      },
+      "exact_BODY_V2": {
+        "path": {
+          "trio_exact_local_locator": "L010"
+        },
+        "bytes": 12935,
+        "sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9"
+      },
+      "author_V2_terminal": {
+        "path": {
+          "trio_exact_local_locator": "L028"
+        },
+        "bytes": 4950,
+        "sha256": "a02c47baf7dabbe6490bbf880b6bd715ee78f0be863008a29d878461c92ee92b"
+      },
+      "prior_whole_V1_QA_terminal": {
+        "path": {
+          "trio_exact_local_locator": "L011"
+        },
+        "bytes": 4317,
+        "sha256": "86f8bdc522ae0f5b9e008664421336f3e180d7ac1d80bd0b8141ca5895c2598b"
+      },
+      "actual_scope": "Whole pinned terminals, complete changed paragraphs and notes, exact own current C00248/74–78/86. Entire V1 and V2 checked in both byte directions. Complete finite QA read from disk, followed by exact final judgment wording readback. Prior whole QA is a separately attributed review.",
+      "result": "Only physical27 and43 change. V2 identifies Kokuriko and Shuro as the people in the still unnamed relation and adds current C00286 as confirming locator. Whole forward and inverse match. No material finding in this finite scope.",
+      "guard": {
+        "exact_pins_rechecked": 7
+      },
+      "stop": "Frozen C-only for Root actual receiving and decision. No editing, publication, N/Git/control or count effects."
+    },
+    "T12": {
+      "schema": "TRIO_BODY_V2_DIFFERENT_FINITE_QA_TWO_LITERAL_PRECISIONS_V1",
+      "actor": "/root/azami_m006_different_readiness_qa",
+      "utc": "2026-11-05T05:28:31.548Z",
+      "existing_home": "P3-REL-SHURO-KOKURIKO-AZAMI",
+      "verdict": "SUPPORT_EXACT_BODY_V2_PRECISIONS_WITH_PRIOR_LIMITS_FOR_ROOT_ACTUAL_RECEIVING",
+      "fresh_questions": {
+        "path": {
+          "trio_exact_local_locator": "L029"
+        },
+        "bytes": 1145,
+        "sha256": "fa1a49748676e84afbb0a3128fc62992a101aadce855b2ccef2a77acfe6a9dc8"
+      },
+      "prior_different_whole_V1_QA_terminal": {
+        "path": {
+          "trio_exact_local_locator": "L011"
+        },
+        "bytes": 4317,
+        "sha256": "86f8bdc522ae0f5b9e008664421336f3e180d7ac1d80bd0b8141ca5895c2598b"
+      },
+      "author_V2_terminal": {
+        "path": {
+          "trio_exact_local_locator": "L028"
+        },
+        "bytes": 4950,
+        "sha256": "a02c47baf7dabbe6490bbf880b6bd715ee78f0be863008a29d878461c92ee92b"
+      },
+      "body_V1": {
+        "path": {
+          "trio_exact_local_locator": "L004"
+        },
+        "bytes": 12914,
+        "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418"
+      },
+      "body_V2": {
+        "path": {
+          "trio_exact_local_locator": "L010"
+        },
+        "bytes": 12935,
+        "sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9"
+      },
+      "own_actual_receiving": "Received both pinned terminals in full, both complete changed paragraph and note versions, and complete current C00248, 74–78 and 86. This exact C002 was already personally received through physical92 during my Hyakka institutional course. Both complete body streams were read as bytes for the whole forward/inverse and exact line comparison. This finite review adds no fresh whole-body literary review claim.",
+      "own_C002": {
+        "path": {
+          "trio_exact_local_locator": "L002"
+        },
+        "bytes": 18737,
+        "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a"
+      },
+      "answers": [
+        {
+          "question": 1,
+          "judgment": "The only actual changed lines are physical27 and43. The exact before and after literals occur once each in their respective streams. Independent forward and reverse byte replacement at located offsets reproduce the entire pinned V2 and V1. Equal line counts, strict UTF-8, final LF and Markdown body-only form hold."
+        },
+        {
+          "question": 2,
+          "judgment": "V2 identifies Kokuriko and Shuro as the two people in the relation, which remains unnamed. In C00248 Kokuriko stops Azami’s threat and voices conditional latitude to Shuro. C00286 explicitly carries Kokuriko’s relation to Shuro as an open question. The complete paragraph retains separate pressure on the Hyakka students, earlier pressure on Ayame, Nagusa’s offered hand and Kokuriko’s claims. It avoids assigning any of those other relations to the unnamed tie. The new wording leaves instrumental and more protective readings of the conditional allowance open."
+        },
+        {
+          "question": 3,
+          "judgment": "The complete note adds only physical86. Physical48 remains the account of the incident and its adjacent acts. Physical74–78 keeps representation and referent boundaries. Physical86 corroborates the exact referent as a question, with no named relationship, independently established motive, secure later status, or prediction. The rest of the note keeps the separate book claim, imposed conditions, student self-reports and offered hand."
+        },
+        {
+          "question": 4,
+          "judgment": "The exact unchanged bytes carry the prior independent whole V1 review within its stated limits. The exact wording resolves the referent concern TB-LIT-N01, and the note adds the confirming locator. No supported material finding arises within this finite scope. V2 remains a body candidate for Root actual receiving and decision."
+        }
+      ],
+      "literal_changes": [
+        {
+          "physical_line": 27,
+          "V1_byte_offset": 8944,
+          "V2_byte_offset": 8944,
+          "before": "The chapter leaves their special relation unnamed.",
+          "after": "The chapter leaves Kokuriko’s special relation to Shuro unnamed.",
+          "before_UTF8_bytes": 50,
+          "after_UTF8_bytes": 66
+        },
+        {
+          "physical_line": 43,
+          "V1_byte_offset": 12363,
+          "V2_byte_offset": 12379,
+          "before": "[^exposure]: C002 physical 48 and 74–78.",
+          "after": "[^exposure]: C002 physical 48, 74–78, and 86.",
+          "before_UTF8_bytes": 42,
+          "after_UTF8_bytes": 47
+        }
+      ],
+      "own_byte_results": {
+        "actual_changed_lines": [
+          27,
+          43
+        ],
+        "forward": {
+          "bytes": 12935,
+          "sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9",
+          "whole_V2_exact": true
+        },
+        "inverse": {
+          "bytes": 12914,
+          "sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418",
+          "whole_V1_exact": true
+        },
+        "exact_source_reuse": "Maintained written analytical account. Independently verified current C002 pin and received exact complete relevant lines."
+      },
+      "stop": "C-only finite QA for Root. No body editing, publication, N, Git, control, underlying source admission or count."
+    },
+    "T13": {
+      "schema": "START_HERE_TRIO_EXISTING_HOME_DIFFERENT_ORIGINAL_READINESS_QA_FROZEN_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "verdict": "SUPPORT_BOUNDED_ORIGINAL_REL_READINESS_WITH_LIMITS_PENDING_ROOT_ACTUAL_RECEIVING_AND_DECISION",
+      "material_findings": [],
+      "existing_duty": "P3-REL-SHURO-KOKURIKO-AZAMI;/homes/189;requiredCSV191;existingcount1;readinessonly",
+      "current_reviewed_readiness": {
+        "path": {
+          "trio_exact_local_locator": "L006"
+        },
+        "bytes": 56129,
+        "sha256": "8cffd8918bf82033051071d06da2e0363798fff134b6507376959b40e497e016"
+      },
+      "complete_different_QA": {
+        "path": {
+          "trio_exact_local_locator": "L007"
+        },
+        "bytes": 23497,
+        "sha256": "5820e40ef26004d6d139261cfa619aad99a1624bda67d11e07a6f5c954afc01e"
+      },
+      "own_actual_source_and_argument_course": {
+        "path": {
+          "trio_exact_local_locator": "L024"
+        },
+        "bytes": 14757,
+        "sha256": "1ac47ae053f771c7a4ec215dda4dcb6578813b2563937cc89ab74125f718bc44"
+      },
+      "actual_saved_QA_meaning_readback": {
+        "path": {
+          "trio_exact_local_locator": "L030"
+        },
+        "bytes": 3898,
+        "sha256": "b0dd64cb8ce4296eaaa4de365a97a237742a880ed99eaf7b48da1a688d49dabb"
+      },
+      "external_manifest_and_finite_guard": {
+        "path": {
+          "trio_exact_local_locator": "L031"
+        },
+        "bytes": 11829,
+        "sha256": "d418bd8ed69857b966803fa6ec4a77e45590c73db58a5f3e9b731e9e30f344a9"
+      },
+      "actual_substantive_verdict": "The intervention warrants an independent triadic relation because already-enacted Shuro authorship, Azami’s threatened enforcement and Kokuriko’s constraint of that enforcement change particular terms of action. The local allowance is compatible with instrumental retention or tactical noninterference. It proves neither a benevolent motive nor lasting freedom. Harmful agency and coercive exposure remain alongside intrinsically valuable harmless writing/humor/particular restraint. Inferred Azami work orientation is distinct from printed direct address; represented escape differs from later reported disappearance; shared afterstate remains unreceived.",
+      "actual_receiving": "Whole56129 V2/16455modes/12793course/18301readback/9575terminal received. Own fresh262 selected maintained current source addresses includingC00162/V005407 and66 exact relationship-control addresses received. No author694/304, wholeV005 or primary/private/native course borrowed. Whole saved23497QA and complete14757course normative meaning, then3898readback personally received.",
+      "modest_data_results": "Own10 documentary predicates pass;131 repeated references stay inside own received source intervals; exact4leaf fullraw/typed inverse preservesV1history. Final19positiveCpathpins allmatch. These are custody facts, not literary adequacy criteria.",
+      "rights_and_stop": "Root sole adopter/N/Git/provider/sharedcontrol writer. No body/public6/header/canonicalmetadata/source/control/global/identity/model/count/merge action, new source lane, helper/private/raw/contained target access or external message. All earlier packets and originalauthor files unchanged. Root complete readiness and genuinely differentQA/course/readback receiving/decision remain necessary before any separately commissioned next stage. Freeze without selfadoption or recursive proof.",
+      "frozen": true
+    },
+    "T14": {
+      "schema": "TRIO_EXISTING_HOME_GENUINELY_DIFFERENT_COMPLETE_ORIGINAL_READINESS_QA_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "role": "Different readiness reviewer from original author. Previously Azami documentary qualification author and Kokuriko metadata/accession reviewer; those roles confer no independent REL or source course. Fresh questions preceded this review’s new meaning. Root remains sole adopter.",
+      "verdict": "SUPPORT_BOUNDED_ORIGINAL_REL_READINESS_WITH_LIMITS_PENDING_ROOT_ACTUAL_RECEIVING_AND_DECISION",
+      "material_findings": [],
+      "reviewed_current_readiness": {
+        "path": {
+          "trio_exact_local_locator": "L006"
+        },
+        "bytes": 56129,
+        "sha256": "8cffd8918bf82033051071d06da2e0363798fff134b6507376959b40e497e016"
+      },
+      "actual_course": {
+        "path": {
+          "trio_exact_local_locator": "L024"
+        },
+        "bytes": 14757,
+        "sha256": "1ac47ae053f771c7a4ec215dda4dcb6578813b2563937cc89ab74125f718bc44"
+      },
+      "fresh_questions": {
+        "path": {
+          "trio_exact_local_locator": "L032"
+        },
+        "bytes": 5974,
+        "sha256": "992d78f77ce8f91dc4933955a6fef1cad73b29776e72de448a879b86a088bd85"
+      },
+      "scope": "Existing P3-REL-SHURO-KOKURIKO-AZAMI, DIRECTED_RELATIONSHIP, /homes/189, requiredCSV physical191, existing required_count1. Canonical path blank and literary acceptance pending in the commission. This review judges original readiness only. It accepts no body, publicsix, source admission, identity/home/named/model/count or integration change.",
+      "independent_judgment": "The argument earns a distinct triadic inquiry because the intervention changes the relation among the person acting outside an expected role, the person poised to enforce that expectation, and the authority who can restrict the enforcer. The useful finding is local permission under asymmetrical power, not a newly autonomous or reconciled group. A power can exercise selective restraint for instrumental reasons; that compatibility is central rather than an objection the argument needs to wish away. The actual writing already precedes the allowance, so neither an all-command account nor a benevolence story exhausts the represented conduct.",
+      "eight_reasoned_answers": [
+        {
+          "id": "TRQ01",
+          "question": "Directed power and recipient modes rather than three biographies?",
+          "judgment": "SUPPORTED_WITH_UNEQUAL_DIRECTIONAL_DEPTH",
+          "reason": "C00130/54 makes Shuro’s admission a speech act toward Kokuriko, and Kokuriko’s acceptance/future invitation an answer toward Shuro. That is work accountability under an authority whose destructive project continues. C00236 then places praise beside Shuro’s fear of discard; praise does not by itself secure belonging. C00244→48 brings three active positions into one consequential relation: Shuro has already written, Azami’s threatening action is checked, and Kokuriko declares that a found path need not be forcibly reversed. This is more than co-presence. Removing Azami would erase the very enforcement option Kokuriko restrains. The reverse Shuro→Azami direction remains sparse, so a six-direction register is useful precisely because it refuses to fabricate six equal bonds. The author’s V2 Azami→Kokuriko entry correctly admits that work/affiliation orientation is inferred; the printed admission addresses the travelling group. No response to Kokuriko’s intervention or inner motive is thereby printed.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                30,
+                30
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C001",
+              "physical_lines": [
+                54,
+                54
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                28,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "A bounded hierarchical relation and uneven evidence, not a complete command chart, origin story, family tie or reciprocal trust network."
+        },
+        {
+          "id": "TRQ02",
+          "question": "Writing before allowance and what permission actually changes?",
+          "judgment": "SUPPORTED_AT_LOCAL_SEQUENCE_AND_SPEECH_ACT_LEVEL",
+          "reason": "C00244 expressly separates Niya’s reconstructed blank vessel, the unnamed student’s reported material repair, Niya’s strategic writer appeal, Shuro’s continuing Kokuriko loyalty and Shuro’s new writing. The later E025 account at48 therefore cannot originate that already-enacted authorship. What changes is the stated treatment of deviation: the authority who could require return stops Azami’s threat and permits a found path. The strongest defensible relational noun is latitude under unequal terms, not creation of agency. The writing is an actual local act in the maintained account; the allowance is a conditional speech act and intervention. Lasting implementation, future freedom and Shuro’s subsequent chosen life are not observed. The readiness and notes already retain that distinction, so no wording repair is necessary.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                415,
+                415
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "Local episode order does not recover an offscreen instruction, a private calendar or the durable consequences of the permission."
+        },
+        {
+          "id": "TRQ03",
+          "question": "Instrumental permission as a serious explanation?",
+          "judgment": "SERIOUS_RIVAL_REMAINS_LIVE_AND_COMPATIBLE_WITH_BOUNDED_THESIS",
+          "reason": "The instrumental case has actual adverse support: Kokuriko’s future world-burning invitation in C00154, praise amid precarious membership in C00236, retained ability to allow or prevent return in48, and immediate coercive self-exposure imposed on other students. These make a broad compassion or free-consent explanation unsustainable. A further conservative rival is tactical noninterference: enforcing return at this particular point may be unnecessary or inconvenient to an authority pursuing other ends. The account does not disclose that motive either. Neither instrumental tolerance nor tactical deferral removes the represented distinction between allowing and compelling return. The thesis remains supportable if permission describes the local act and its unequal terms rather than a causal proof of benevolent intent. Conversely, total authored control cannot simply absorb the prior manuscript, Shuro’s new writing, audience response and discrepant fear into one leader’s unverified plan. I endorse the author’s refusal to resolve motive, not a victory over the instrumental rival.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                54,
+                54
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "No motive probability, stable reform, universal freedom or future operational model is warranted."
+        },
+        {
+          "id": "TRQ04",
+          "question": "Shuro’s harmful agency alongside fear and creative goods?",
+          "judgment": "SUPPORTED_WITH_ADVERSE_ACTIONS_KEPT_ACTIVE",
+          "reason": "The account represents attack and inward abandonment fear atC00232, while36 explicitly constrains the later all-staged boast with that earlier panic. These are meaningful narrative representations, not a clinical finding or an origin explanation. The same36 keeps Shuro as the person holding Sensei at gun-threat while releasing the group to search for Kuzunoha. C00144/48 also keeps destructive public conduct and manipulation claims distinct from students’ own motives. Vulnerability does not absolve these acts. Equally, coercion by others does not replace Shuro as author of the new text in44, erase the private harmless manuscript in32 or turn a loyalty profession into proof she never acts beyond expected use. This constrained and harmful agency is more analytically exact than either helpless-victim reduction or untroubled liberation. The author keeps Sensei’s earlier rescue from becoming a debt of allegiance, and keeps Niya’s strategic prompting from becoming Niya’s authorship.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                44
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "No general consent contract, harmlessness, diagnostic cause, stable allegiance or completed moral conversion."
+        },
+        {
+          "id": "TRQ05",
+          "question": "Azami’s threats, interruption and inferred affiliation direction?",
+          "judgment": "SUPPORTED_WITH_INFERENCE_DECLARED",
+          "reason": "C00228/32 gives the reader affiliation knowledge before the travelling group obtains Azami’s helper presentation and later admission of escort assignment. The recipients of that admission must stay the group. Kokuriko’s praise and ability to constrain Azami support an inferred orientation within a hierarchy, but not a printed Azami→Kokuriko declaration or response. At48 the account says Kokuriko prevents Azami from threatening Shuro. The return-enforcement reading arises from that threat joined to the need-not-force-back allowance; the full formal return order, its initial delivery and Azami’s response are unprinted. Mode noteTR09 makes this inference explicit. It is therefore fair to discuss an expected-return enforcement position, while unfair to assert completed violence or a fully obeyed permanent policy. Azami’s earlier guide/escort work is not silently changed into escorting Shuro, and her unrelated naming/observation acts do not manufacture a private Shuro bond.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                28,
+                36
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                42,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "No completed threat outcome, settled obedience, universal creature control, affection, kinship or symmetrical friendship."
+        },
+        {
+          "id": "TRQ06",
+          "question": "Represented escape versus later report and open endpoints?",
+          "judgment": "SUPPORTED_WITH_DISTINCT_EPISTEMIC_ROUTES",
+          "reason": "C00248 represents Kokuriko’s escape following the coercive encounter. C00250 later attributes the disappearance of Kokuriko/Azami/Shuro to Niya’s report. The table60 compresses that outcome; it cannot overrule the more explicit represented/report distinction. No shared travel, actual reunion, destination, household, later writing routine or completed accountability follows. The new V2 wording correctly says unreceived shared afterstate, avoiding a metaphysical afterlife suggestion. The arm and sleeping Ayame at50/72 and V005431–435 are contextual controls on overcomplete restoration stories; they do not furnish the trio’s future. My fresh question’s exploratory wish/escape wording supplies no separate wish claim: the actualC00248 warrant used here is represented Kokuriko escape, kept distinct from all wishes and later reporting.",
+          "references": [
+            {
+              "account": "C002",
+              "physical_lines": [
+                48,
+                50
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                60,
+                86
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                431,
+                435
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "A stopped threat is not completed violence; disappearance is not settled freedom, consent, reconciliation, punishment or a known common afterstate."
+        },
+        {
+          "id": "TRQ07",
+          "question": "Intrinsic quiet and ordinary goods with correct ownership?",
+          "judgment": "SUPPORTED_WITHOUT_STAKES_OR_UTILITY_FILTER",
+          "reason": "The private harmless manuscript is evidence of Shuro writing before the emergency utility of the new humorous tale. The material is maintained analytical identification, not a full manuscript or genre/quality course. Its positive value is not conditional on defeating an opponent, revealing moral goodness or having a public audience. Search-based exposure does not prove voluntary sharing. The humorous tale, local laughter and meaningful permission likewise remain goods at their actual occasions, with tactical benefit and coercive conditions still visible. V005409/411 and417–427 preserve actual meals, craft, rest, company and audience choice for their own actors; none transfers a meal, hobby, household or audience preference to Kokuriko, Azami or Shuro. CurrentC00162 andV005407 separately give Kikyou the wish for Nagusa herself and Renge the wish to apologize; they establish no completed apology or trio repair. The author’s discipline here avoids both discarding low-stakes evidence and inventing absent private details. A sparse ordinary record limits claims; it does not prove a life lacks ordinary goods.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                62,
+                62
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                32
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                44,
+                48
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                407,
+                419
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                423,
+                435
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "No fulltext/native/private-family admission, generic genre judgment, private audience choice or universal absence claim."
+        },
+        {
+          "id": "TRQ08",
+          "question": "Readiness at maintained grade in this one existing duty?",
+          "judgment": "SUPPORT_BOUNDED_READINESS_WITH_LIMITS",
+          "reason": "The decisive significance criterion is a distinct ideological/emotional problem: agency can precede acknowledgment while authority still controls its permissible continuation. It does not require high co-occurrence, dense reverse exchanges, multiple independent primary classes or crisis stakes. The twelve method responsibilities are substantively handled, including honest unknown first origin, local asymmetry/grammar/conflict, act-level care, constrained disclosure, hierarchy, possible rupture, particular redefinition, unreceived ordinary afterstate, paraphrased speech acts without native register and bounded Sensei mediation. The ledger has a stable existing ID, current relation, material writing→allowance transition, exact source choices, live instrumental tension and no commissioned monograph. The three accounts overlap and cannot be counted as three primary confirmations. No defect requires opening a closed source lane to earn this narrow readiness. Stronger origin, family, complete command chain, native address, book mechanics, durable allegiance or afterstate claims would need exact new evidence or continued explicit limitation. Root must personally receive the complete readiness and this genuinely different review before deciding the next authorized step; this memo itself commissions no body.",
+          "references": [
+            {
+              "account": "C001",
+              "physical_lines": [
+                54,
+                54
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "C002",
+              "physical_lines": [
+                32,
+                50
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            },
+            {
+              "account": "V005",
+              "physical_lines": [
+                394,
+                435
+              ],
+              "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT"
+            }
+          ],
+          "limit": "Only existing home189/required191; characterM037/M019/M006, datedA153/A159/A160 and all named/other relationship/institution duties remain separate."
+        }
+      ],
+      "genuine_rival_assessment": [
+        {
+          "rival": "Instrumental retention or tactical noninterference",
+          "why_serious": "Hostile purposes, praise/usefulness, threatened return and coercive exposure all remain. Tactical timing is an additional compatible possibility, not a discovered internal motive.",
+          "result": "It prevents motive certainty while leaving the local stopped-threat/allowance distinction intact. No refutation or preference probability is claimed."
+        },
+        {
+          "rival": "A Shuro–Kokuriko dyad with Azami as scenery",
+          "why_serious": "Shuro→Azami private/reverse exchange is sparse.",
+          "result": "The precise intervention cannot be described without Azami as the threatened enforcer being constrained. This warrants a triadic problem with asymmetric evidence, not invented dense reciprocity."
+        },
+        {
+          "rival": "Benevolent parental rescue or definitive defection",
+          "why_serious": "Failure acceptance, praise, harmless writing and particular restraint can invite a redemptive reading.",
+          "result": "Special relation remains unnamed; loyalty is still professed and further coercion continues. Act-level protection and creative autonomy in a particular act survive without kinship, stable conversion or durable safety."
+        },
+        {
+          "rival": "Everything is staged or authored by the leader, eliminating Shuro’s agency",
+          "why_serious": "Shuro later boasts all-acting, while books and strategic influences structure the events.",
+          "result": "Maintained attack/inward fear opposes the boast; blank material and new writing keep distinct authors and occasions. Neither a universal control model nor total innocence is earned."
+        },
+        {
+          "rival": "Creative work matters only because it wins",
+          "why_serious": "The new tale has practical countereffects in a public emergency.",
+          "result": "Earlier harmless private writing and actual humorous/audience goods are positive evidence independent of tactical efficacy; uncertain full text limits genre claims rather than nullifying value."
+        }
+      ],
+      "material_finding_disposition": "No material finding in the exact V2 readiness at its stated grade. The strong limits above are already present in the current argument and mode notes, so they do not require target repairs. They must remain operative in any later Root decision or separately commissioned composition. No assertion of original-author source-course completeness beyond this reviewer’s own received context is borrowed.",
+      "documentary_fidelity": {
+        "own_predicates": 10,
+        "failures": 0,
+        "checks": [
+          {
+            "name": "prewrite_whole_before_equals_actual_originalV1",
+            "pass": true
+          },
+          {
+            "name": "prewrite_whole_after_equals_actual_selectedV2",
+            "pass": true
+          },
+          {
+            "name": "actual_original_leaf:/bounded_thesis",
+            "pass": true
+          },
+          {
+            "name": "actual_original_leaf:/necessary_reference_choices/2/reason",
+            "pass": true
+          },
+          {
+            "name": "actual_original_leaf:/directed_relation_register/2/supported",
+            "pass": true
+          },
+          {
+            "name": "actual_original_leaf:/directed_relation_register/2/relational_meaning",
+            "pass": true
+          },
+          {
+            "name": "exact_four_forward_typed_values_and_no_other_changes",
+            "pass": true
+          },
+          {
+            "name": "exact_four_inverse_recovers_whole_original_typed",
+            "pass": true
+          },
+          {
+            "name": "full_raw_inverse_pin_recovers_original55862",
+            "pass": true
+          },
+          {
+            "name": "every_readiness_note_reference_range_within_own_received_loadbearing_context",
+            "pass": true
+          }
+        ],
+        "reference_occurrences": 131,
+        "meaning": "Reference bounds/grade and four-leaf full raw/typed inverse checks are custody/fidelity only. They neither measure literary adequacy nor create independent evidence. All131 reference occurrences lie inside this reviewer’s received current source intervals. Writer’s own10/15 guards and694/304 attendance stay attributed, not borrowed."
+      },
+      "source_currentness_and_stop": "Exact full three-file pins and two finite control pins were checked before attention. Current corrected62/407 meanings were personally received. No N/Git/provider query is claimed; commission166 and later publication facts are distinct historical stages. All14gaps/models/fixed150 and scope remain unchanged by this C review. Freeze for Root actual whole readiness/course/review/readback receiving and decision. No body/publicsix/header/canonicalmetadata/shared-control/source alteration, new lane, identity/model/count, external handoff or merge authority."
+    },
+    "T15": {
+      "schema": "TRIO_DIFFERENT_READINESS_QA_OWN_ACTUAL_FRESH_MAINTAINED_SOURCE_AND_ORIGINAL_ARGUMENT_COURSE_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "role": "Different readiness reviewer. Fresh particular questions were saved and personally received before current original readiness or current maintained-account meanings.",
+      "fresh_questions": {
+        "path": {
+          "trio_exact_local_locator": "L032"
+        },
+        "bytes": 5974,
+        "sha256": "992d78f77ce8f91dc4933955a6fef1cad73b29776e72de448a879b86a088bd85"
+      },
+      "commission": {
+        "path": {
+          "trio_exact_local_locator": "L012"
+        },
+        "bytes": 6322,
+        "sha256": "7de530917ef1e724af3d1e2048a96066575358ad1cb77dae26611ff3d86ec09b"
+      },
+      "grade": "MAINTAINED_ANALYTICAL_WRITTEN_CONTEXT_ONLY. These existing written syntheses are the received evidence; their assertions of prior primary attendance are not my attendance. DIRECT in author modes means represented within a maintained account, never new primary/native/performed receiving.",
+      "actual_current_sources": [
+        {
+          "role": "C001",
+          "path": {
+            "trio_exact_local_locator": "L001"
+          },
+          "bytes": 19011,
+          "sha256": "c853a066c88be24c06a3cd06f7ef3c92d5b23fd19f9422e112a0d850c85473d0",
+          "personally_received_physical_intervals": [
+            [
+              1,
+              54
+            ],
+            [
+              55,
+              95
+            ]
+          ],
+          "extent": "Complete current95 physical addresses through EOF; no prior source-course reuse claimed.",
+          "meaning": "Failure admission and acceptance C00130/54 coexist with Kokuriko’s future hostile invitation. Shuro’s public coercion, destructive actions and causal claims remain distinct from student motives and decisions. Kikyou wants Nagusa herself; Renge wants to apologize in the corrected62 row, with completed apologies unprinted. Reported Ayame history, escaped Shuro, local damage and held dissolution have different grades and endpoints."
+        },
+        {
+          "role": "C002",
+          "path": {
+            "trio_exact_local_locator": "L002"
+          },
+          "bytes": 18737,
+          "sha256": "2fbedf436268f5c7078d62bf4be45c29566786a2d305610ff49d45bded07c66a",
+          "personally_received_physical_intervals": [
+            [
+              1,
+              44
+            ],
+            [
+              45,
+              92
+            ]
+          ],
+          "extent": "Complete current92 physical addresses through EOF; no prior source-course reuse claimed.",
+          "meaning": "Reader-known Azami affiliation precedes helper presentation; admission/escort is to the travelling group and does not establish control of every creature. Private harmless Shuro writing is exposed by a search; attack and inward fear oppose later all-staged boasting. Praise/fear and hostage/group release stay attributed. Blank vessel/material restorer, Niya’s tactical appeal, Shuro loyalty/new authorship and audience countereffect remain separate. E024writing precedes E025stoppedthreat/conditionalallowance. E026forcedexposure/admittedAyamepressure/representedKokurikoescape differs from E028Niyareport of allthree disappearing. No completed joint escape, sharedafterstate, clinical cure, fullbook mechanics or reciprocal trust is received."
+        },
+        {
+          "role": "V005",
+          "path": {
+            "trio_exact_local_locator": "L003"
+          },
+          "bytes": 39115,
+          "sha256": "055a3b80d82823ae3fffe45096b7a5842e99855c78509c1e1ed4eeb5f061b1ef",
+          "personally_received_physical_intervals": [
+            [
+              1,
+              30
+            ],
+            [
+              391,
+              409
+            ],
+            [
+              410,
+              435
+            ]
+          ],
+          "extent": "Selected current frontmatter30 plus the complete selected qualification/argument segment391–435 (45 addresses). This is not the entire cumulative argument through507. No claim of fullV005507, header1–390, or author694/304 receiving. Every V005 readiness/mode reference falls within391–435.",
+          "meaning": "CurrentCycle008 qualification394 supersedes older intake history and retains14OPEN/no performed receiving/model limits. Current407 separates Kikyou’s wish for Nagusa from Renge’s wish to apologize. Ordinary meal/play/rest/company preferences and creative/audience choices have intrinsic value and actual owners. Shuro’s local humorous efficacy is bounded; other actors’ poems, gifts, craft, private boundaries and work/rest cannot become a trio routine. Native/private families behind these projections were not opened. Source-local arm, identity, office and care afterstates preserve uncertainty."
+        }
+      ],
+      "actual_source_extent": "Own262 selected maintained physical addresses freshly received (95+92+30+45); no borrowed peer/Root/author source course and no independent primary corroboration. A count is an exposure description, not adequacy. C001:62 and V005:407 current corrections were personally received with their surrounding full paragraphs/table row.",
+      "original_author_actual_receiving": [
+        {
+          "role": "sole_selected_current_readiness_V2",
+          "path": {
+            "trio_exact_local_locator": "L006"
+          },
+          "bytes": 56129,
+          "sha256": "8cffd8918bf82033051071d06da2e0363798fff134b6507376959b40e497e016",
+          "character_intervals": [
+            [
+              0,
+              8000
+            ],
+            [
+              8000,
+              16000
+            ],
+            [
+              16000,
+              24000
+            ],
+            [
+              24000,
+              32000
+            ],
+            [
+              32000,
+              40000
+            ],
+            [
+              40000,
+              48000
+            ],
+            [
+              48000,
+              "EOF"
+            ]
+          ],
+          "meaning": "Complete connected six-paragraph argument, eight answers, all6 directed entries,12 method dispositions, ledger,9 serious rivals,8 finite endpoint debts, reference choices and limits personally received. No author or Root course borrowed."
+        },
+        {
+          "role": "actor_recipient_mode_notes",
+          "path": {
+            "trio_exact_local_locator": "L015"
+          },
+          "bytes": 16455,
+          "sha256": "3f2b9cd0169b9e64ec69663ba5321a2f49305e457e3c5db043ffab08c82cf410",
+          "character_intervals": [
+            [
+              0,
+              8000
+            ],
+            [
+              8000,
+              "EOF"
+            ]
+          ],
+          "meaning": "Complete14 distinct claim-mode/actor/recipient/endpoint/inference notes personally received."
+        },
+        {
+          "role": "author_actual_course",
+          "path": {
+            "trio_exact_local_locator": "L008"
+          },
+          "bytes": 12793,
+          "sha256": "168e19d6be0f25d9cf143bb3dc4a049eccf631b1f0617669b0157f696f771de7",
+          "character_intervals": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              "EOF"
+            ]
+          ],
+          "meaning": "Complete author course and its distinctions/limits received as author history; author’s694/304 exposure and small control overshoot are not my source or control attendance."
+        },
+        {
+          "role": "author_saved_meaning_readback",
+          "path": {
+            "trio_exact_local_locator": "L016"
+          },
+          "bytes": 18301,
+          "sha256": "cd835ca715a2559097e97816ef5e7750c92955f21837ffb52682d787f9e52f15",
+          "character_intervals": [
+            [
+              0,
+              7500
+            ],
+            [
+              7500,
+              14500
+            ],
+            [
+              14500,
+              "EOF"
+            ]
+          ],
+          "meaning": "Complete author readback and output history received, including genuine same-reader V1→V2 reuse rather than fictitious wholeV2 redisplay."
+        },
+        {
+          "role": "author_questions",
+          "path": {
+            "trio_exact_local_locator": "L013"
+          },
+          "bytes": 3978,
+          "sha256": "8150ccf47a84633492dc403e823aafb5084e82c9b5e5d05dd2c85f4876804d23",
+          "meaning": "Whole3978 questions and truthful author exposure received."
+        },
+        {
+          "role": "sole_terminal",
+          "path": {
+            "trio_exact_local_locator": "L033"
+          },
+          "bytes": 9575,
+          "sha256": "dc265485224c142e0ae2405ac8d16b029590ed337bfd1f5525d747e81fd6866c",
+          "character_intervals": [
+            [
+              0,
+              5000
+            ],
+            [
+              5000,
+              "EOF"
+            ]
+          ],
+          "meaning": "Whole9575 current selection, precision history, bounded result and stop received."
+        }
+      ],
+      "actual_controls": {
+        "Root_authorization": "Root explicitly confirmed these exact two already positively pinned C controls and selected views in this review turn. No broader institutional section or N path was opened.",
+        "views": [
+          {
+            "path": {
+              "trio_exact_local_locator": "L025"
+            },
+            "bytes": 53414,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+            "physical_intervals": [
+              [
+                380,
+                425
+              ]
+            ],
+            "meaning": "Dedicated relationships require narrative significance under at least one stated criterion, not combinatorial co-occurrence. Twelve duties and scene/source/chronology/Sensei distinctions apply. Metrics describe recall, not priority or emotional strength."
+          },
+          {
+            "path": {
+              "trio_exact_local_locator": "L026"
+            },
+            "bytes": 52261,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+            "physical_intervals": [
+              [
+                264,
+                272
+              ],
+              [
+                346,
+                356
+              ]
+            ],
+            "meaning": "Stable pair/ensemble ID, currentstate/lasttransition/evidence/unresolvedtension/monographstatus; dedicated relationship syntheses only for narrative significance."
+          }
+        ],
+        "extent": "Own66 exact selected control addresses; no author’s institution274–284 overshoot reused or independently opened."
+      },
+      "documentary_only": {
+        "four_leaf_prewrite": {
+          "path": {
+            "trio_exact_local_locator": "L018"
+          },
+          "bytes": 123657,
+          "sha256": "90c88c30768d988b3ddd670fb720f69a741a191d9d5cd43c19549cd849eafa54"
+        },
+        "dated_original_V1": {
+          "path": {
+            "trio_exact_local_locator": "L019"
+          },
+          "bytes": 55862,
+          "sha256": "fa6545b7170922d7e681a451686968d0ff4eaf09106d4e5db116fe98c7ae25d2"
+        },
+        "manifest": {
+          "path": {
+            "trio_exact_local_locator": "L014"
+          },
+          "bytes": 12709,
+          "sha256": "f39ea385536b8e2386a0bb98552bd0343b7204e2310a5ac41dd8e41f78561d2f"
+        },
+        "meaning": "Full prewrite raw strings and V1 were handled as mechanical data to verify four exact leaves, whole typed forward/inverse and original55862 raw hash. V1 is history; fullV2 was personally received fresh. Manifest unique limits/readback were received; repeated pin vectors are data. Own10 finite documentary predicates pass;131 repeated references are not131 evidence units or a literary adequacy test."
+      },
+      "closed_boundaries": "All embedded primary/raw/native/AV/BOND/MM/whole-event/private/family/manuscript targets remain closed. No contained link followed, no oldheldR/private9/opaqueMomoi/.raw/helper/catalogue/provider/Git/N access or write for this task. No new source admission, identity/home/named/model/count/publication/merge right. Root sole adopter; readiness only, no body/publicsix."
+    },
+    "T16": {
+      "schema": "TRIO_DIFFERENT_ORIGINAL_READINESS_QA_ACTUAL_COMPLETE_SAVED_MEANING_READBACK_V1",
+      "actor": "/root/an_exact_storage_route_advisory",
+      "QA": {
+        "path": {
+          "trio_exact_local_locator": "L007"
+        },
+        "bytes": 23497,
+        "sha256": "5820e40ef26004d6d139261cfa619aad99a1624bda67d11e07a6f5c954afc01e"
+      },
+      "own_actual_course": {
+        "path": {
+          "trio_exact_local_locator": "L024"
+        },
+        "bytes": 14757,
+        "sha256": "1ac47ae053f771c7a4ec215dda4dcb6578813b2563937cc89ab74125f718bc44"
+      },
+      "actual_saved_receiving": "Personally received the complete saved23497 review through EOF in contiguous0–6500/6500–13000/13000–19500/19500–EOF views. The complete own saved14757 course’s normative meaning and exact extents were received through EOF; its pre-freeze selected-V005-segment clarification was saved and actually received before the QA pin. Fresh5974 questions had been saved and received before argument/source meaning. No clipped output, borrowed author694/304 attention or inherited character/metadata judgment is substituted for this review.",
+      "consequential_meaning": "Support bounded original readiness WITH LIMITS, no material finding in exact56129 V2. The triadic object concerns who may act, enforce and permit deviation. Shuro writes before allowance; Azami’s expected-return enforcement role is declared inference and its threat is stopped, not completed violence. Kokuriko’s selective allowance can coexist with instrumental retention or tactical noninterference, so no benevolent motive, enduring freedom or completed defection is certified. Harmful agency and coerced conditions remain alongside positive writing, humor and particular restraint.",
+      "ordinary_and_mode_receiving": "Harmless private writing retains intrinsic value without a full manuscript/genre course or freely chosen exposure. Quiet/audience/food/rest/company goods have actual separate owners and cannot fabricate a trio routine. CurrentC00162 andV005407 wish distribution was personally received. Actual representedKokurikoescape atC00248 differs fromNiya’s later reportedgroupdisappearance at50; no joint escape, common afterstate, family tie or accountable ending is supplied. Azami’s admission addresses the travelling group; her orientation toward Kokuriko is inferred rather than printed direct address/response.",
+      "course_and_fidelity": "Own current maintained-source course is precisely C0011–95, C0021–92, V0051–30 and391–435 (262 selected addresses); this is not wholeV005 or new primary/private/native/performed admission. Full originalV2/notes/course/readback personally received. Only authorized method380–425 and architecture264–272/346–356 were newly read. Own10 finite data predicates pass;131 repeated references are custody/coverage data and do not decide adequacy. Four exact precision leaves/full raw inverse preserve V1 history while V2 is the sole current readiness.",
+      "decision_and_stop": "This is a genuinely different readiness judgment for existinghome189/required191, not Root adoption or a body/publicsix commission. Root must actually receive complete readiness and this QA/course/readback before deciding the next step. No N/source/control/helper/Git/provider/global/write, package/named/person/home/model/count/publication/merge effect. All earlier packets and author files unchanged. Freeze here; no recursive proof framework."
+    },
+    "Q01": {
+      "schema": "DIFFERENT_TRIO_FINITE_PLAN_FRESH_QUESTIONS_AND_ACTUAL_ROLE_EXPOSURE_V1",
+      "actor": "/root/kokuriko_v3_different_finite_qa",
+      "UTC": "2026-11-05T05:42:05.300Z",
+      "role": "Genuinely different finite retention plan reviewer",
+      "actual_exposure": "The task message names a frozen terminal, authorized22 originals plus finite4, a maintained BODY and historical two-edit issue, and six prospective functions. These details are entering assertions. Earlier Shuro and Renge–Kikyou work supplies familiarity with some overlapping issues and names. I claim no ownership of this trio argument or underlying trio sources through that work.",
+      "questions": [
+        {
+          "id": "TQ1",
+          "question": "Do the actual proposed retained values preserve the complete trio argument, its serious alternatives, actual authors and stages, and the scope of directions, source grades and chronology?"
+        },
+        {
+          "id": "TQ2",
+          "question": "Which physical locator occurrences are eligible for exact custody-only cuts or limited logical substitution? Does each actual retained role, context and original-value relation preserve the needed meaning?"
+        },
+        {
+          "id": "TQ3",
+          "question": "Can I independently reconstruct all26 raw originals and24 ordered JSON values from the actual planned values and declared cuts? Which comparison inputs are available and where is byte identity independently established?"
+        },
+        {
+          "id": "TQ4",
+          "question": "Does the plan retain the exact current literary suffix and both historical changes with the old and current meanings, grades and chronology separate?"
+        },
+        {
+          "id": "TQ5",
+          "question": "Do the six static functions, public boundary, Source-first dependency order and current versus pending stages follow the exact authority?"
+        },
+        {
+          "id": "TQ6",
+          "question": "What material finding or bounded readiness judgment survives whole meaning receiving and independent recovery? What remains pending?"
+        }
+      ],
+      "scope": "Only the positively authorized22 original and finite4 C files and declared plan, custody and review records. No source target traversal, new source attendance, candidate composition, or shared-state action."
+    },
+    "Q02": {
+      "schema": "DIFFERENT_TRIO_FINITE_RETENTION_PLAN_COMPLETE_QA_V1",
+      "actor": "/root/kokuriko_v3_different_finite_qa",
+      "UTC": "2026-11-05T05:50:00.545Z",
+      "role": "Different finite plan reviewer. The original planner’s earlier independent V2 BODY review occupies its actual different stage. My previous character and other relation tasks supply no trio source course or adopted decision.",
+      "entering_questions": {
+        "path": {
+          "trio_exact_local_locator": "N001"
+        },
+        "bytes": 2241,
+        "sha256": "dc0b8792b30c13e9a259478a3fe0db91cc7e59f8a657a94e20937fa52e9b01f7"
+      },
+      "subject_terminal": {
+        "path": {
+          "trio_exact_local_locator": "N002"
+        },
+        "bytes": 9213,
+        "sha256": "e30c040706668ba4d6448ef672bba891b6b9ca9b3219d9a0963786326884f029"
+      },
+      "subject_plan": {
+        "path": {
+          "trio_exact_local_locator": "N003"
+        },
+        "bytes": 304283,
+        "sha256": "9e764a76d3ec32de1da876c15bed1cc1a6783c4a2c94f397775f70755edcf247"
+      },
+      "verdict": "NO_MATERIAL_FINDING_AT_EXACT_FINITE_PLAN_SCOPE. SUPPORT_ROOT_ACTUAL_COMPLETE_RECEIVING_AND_PLAN_ADOPTION_WITH_LIMITS.",
+      "six_complete_answers": [
+        {
+          "id": "TQ1",
+          "answer": "The actual retained records preserve the relationship among Shuro’s already enacted writing, Azami’s stopped threat and Kokuriko’s selective power to permit or prevent. The adopted body carries that argument with the instrumental retention and tactical noninterference rivals still live. V005’s separate author and recipient roles for Chise and Kaho, the quiet preferences of other people, Shuro’s harmless manuscript, local humor and laughter all keep their positive meaning at their actual owners and contexts. Search exposure leaves the chosen audience open. Shuro’s fear, gun threat against Sensei and group release keep adverse agency in view. Azami’s escort admission addresses the travellers. A work orientation toward Kokuriko and expected-return enforcement remain distinct analytical inferences from particular acts. C00248 represents Kokuriko escaping. C00250 is Niya’s later report about all three. C00286 identifies the still unnamed pair relationship. The available afterstate remains unreceived. T05 preserves all original argument, directions, method, ledger, rivals and debts. T08 and T14 retain complete judgments with their actual distinct review scopes. T19 preserves all fourteen authored claim modes as maintained context, including its dated readiness V1 reference. The later Root decisions retain the controlling limits at their respective stages."
+        },
+        {
+          "id": "TQ2",
+          "answer": "The only factored JSON scalar values are exact whole workstation locators at path, C_path or origin positions. The public-facing selection keeps complete surrounding roles, grades, provenance, scope, stage, argument and diagnostics. Forty-three exact locator strings cover 160 uses, including 131 structured record occurrences, three SOURCE metadata tuples and 26 original registry origins. The logical registry identifies 26 exact members, three declared maintained account captures and 14 other declared locators. Basenames agree with each literal, while repeated basenames for distinct control paths keep distinct IDs. The same alias expands to exactly one string without case or spelling normalization. The private dictionary stays separate from the prospective public projection. The public logical names and exact descriptive memberships supply navigation within the admitted finite roster. The historical readiness V1/prewrite, source/control and other declared records carry their original declared-only status."
+        },
+        {
+          "id": "TQ3",
+          "answer": "My own decoder reconstructed 24 ordered JSON values from the actual selected records. It replaced only one-key locator tags through the declared private dictionary, preserved property and array order and serialized each value with UTF-8, two spaces and terminal LF. Each complete reconstructed byte buffer matched the separately pinned actual original. T01 derives directly from the planned literal suffix. T02 derives from that suffix and the two exact T04 splice strings at declared offsets. All 26 raw and 24 ordered comparisons passed. Original input buffers served as comparison targets. Raw recovery and record equality establish fidelity. My actual text receiving and bounded qualitative evaluation establish the review judgment."
+        },
+        {
+          "id": "TQ4",
+          "answer": "The complete T01 literal is 12935 bytes and matches Root’s exact accepted body with all eleven notes and final LF. Independent V2-to-V1 splicing reconstructs the complete 12914-byte T02. Independent V1-to-V2 splicing begins at the actual original T02 buffer and reproduces the exact T01. Only physical lines 27 and 43 differ. The paragraph names Kokuriko’s special relation to Shuro where V1 had an ambiguous pronoun. The note adds C00286 to physical48 and74–78. The earlier whole literary QA, its nonblocking referential issue, the author’s exact two-literal precision, finite different QA and later Root BODY adoption each retain their true scope. Readiness V1’s four-leaf precision remains earlier documentary history with declared locators. That is a separate history from the reconstructed BODY V1."
+        },
+        {
+          "id": "TQ5",
+          "answer": "SOURCE carries T19 and the exact three maintained pin tuples. BODY carries T01. AUTHOR preserves original reasoning, T02 history, and finite questions, reasons, course and readback. PEER holds the actual different readiness, whole literary and finite two-literal review records. ROOT holds T17 readiness adoption and body commission plus T18 exact BODY V2 adoption and plan commission. REGISTRY carries logical membership, locator descriptions, role and future dependency navigation. Every selected original occupies one declared role. All fifteen prospective edges run from a later role to an actual earlier intended path in SOURCE, BODY, AUTHOR, PEER, ROOT, REGISTRY order. The aliases provide original-value navigation only. The literal suffix excludes a first YAML wrapper. My in-memory projection encodings with explicitly recorded field framing reproduce all six reported sizes. Their final wrappers, actual dependency pins and later provenance remain future composition inputs. The operative duty remains the one existing P3-REL-SHURO-KOKURIKO-AZAMI at /homes/189 and required CSV191."
+        },
+        {
+          "id": "TQ6",
+          "answer": "I found no material defect in this exact finite selection. The plan preserves the complete unique arguments and real disagreements at their actual stages, gives the quiet creative and ordinary goods their place, and keeps bounded locators recoverable without exposing their private workstation paths. My decision supports Root’s actual complete receiving and plan adoption with limits. The exact earlier adoption applies to BODY V2. This different review addresses the plan. Root’s plan decision, any composition and actual later byte and storage checks are separate gates."
+        }
+      ],
+      "particular_adjudications": [
+        {
+          "subject": "Authority and chronology",
+          "judgment": "T17 adopts readiness and commissions a body. T03’s V1 pending stage remains original. T08 concerns complete V1 literary QA. T04/T11/T12 preserve finite V2 clarification and its scope. T18 adopts exact BODY V2 and commissions the finite plan. P01–P04 preserve the planner’s actual new finite thoughts once. Plan, terminal and replay closure remain outside the 26."
+        },
+        {
+          "subject": "Mode and actor boundaries",
+          "judgment": "The authored notes preserve the exact creation-stage readiness V1 link at L019. T05 remains the accepted readiness version. SOURCE retains the original authored claims at their declared maintained grade, with later body authority and limits separately visible. The plan’s added current source limits give the distinct wishes at corrected C00162 and V005407. Kokuriko’s represented escape, the later disappearance report, and the unnamed Kokuriko–Shuro relation stay separate."
+        },
+        {
+          "subject": "Ordinary goods and adverse evidence",
+          "judgment": "The complete manuscript, authorship, audience and humor arguments survive at maintained synopsis grade. The modest size of those occasions supplies no exclusion criterion. The actual manuscript text and genre, volunteered disclosure and trio ordinary routine remain open. Coerced disclosure, hostage-taking, fearful vulnerability and hostile purposes remain in the same analysis."
+        },
+        {
+          "subject": "Locator semantics and custody",
+          "judgment": "The alias map and logical registry preserve basenames and exact role membership. Distinct same-basename control declarations remain separate. Their original grade, extent and chronological subject remain in the complete surrounding record. All 17 nonmember declarations remained closed during this QA."
+        },
+        {
+          "subject": "Projection check",
+          "judgment": "The plan states measured selected sizes and describes future wrappers as separate. I formed explicit in-memory shapes from only the admitted logical payloads and obtained the same six figures. My property-label choices are measurement framing and are recorded below. The independent result supplies an auditable static check. Complete future bytes and storage eligibility await their own evidence."
+        }
+      ],
+      "documentary": {
+        "whole_members": [
+          {
+            "id": "T03",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T04",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T05",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T06",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T07",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T08",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T09",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T10",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T11",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T12",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T13",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T14",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T15",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T16",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T17",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T18",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T19",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T20",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T21",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T22",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "P01",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "P02",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "P03",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "P04",
+            "raw_equal": true,
+            "ordered_equal": true
+          },
+          {
+            "id": "T01",
+            "raw_equal": true,
+            "ordered_equal": null
+          },
+          {
+            "id": "T02",
+            "raw_equal": true,
+            "ordered_equal": null
+          }
+        ],
+        "checks": [
+          {
+            "name": "all raw members and all24 ordered JSON values",
+            "pass": true,
+            "detail": {
+              "raw": 26,
+              "ordered": 24
+            }
+          },
+          {
+            "name": "exact body forward and inverse and only two changed lines",
+            "pass": true,
+            "detail": {
+              "V1_sha256": "c0c3ee22c078da65fa3968644b87f35b48b7efdcf1577e97d3730cc2af885418",
+              "V2_sha256": "824f8895bb782a006bf6aeffc4d648aa9f257ad3a2a6ef3da9f180768fce34d9",
+              "lines": [
+                27,
+                43
+              ]
+            }
+          },
+          {
+            "name": "source metadata pin tuples exactly T20 maintained declarations",
+            "pass": true,
+            "detail": {
+              "roles": [
+                "C001",
+                "C002",
+                "V005"
+              ]
+            }
+          },
+          {
+            "name": "only complete local locator scalars and distinct exact spellings",
+            "pass": true,
+            "detail": {
+              "tagged_occurrences": 160,
+              "distinct_ids": 43,
+              "tagged_field_names": [
+                "C_path",
+                "path",
+                "origin"
+              ]
+            }
+          },
+          {
+            "name": "logical basename and positive member navigation exact",
+            "pass": true,
+            "detail": {
+              "originals": 26,
+              "declared_only": 17
+            }
+          },
+          {
+            "name": "public selection uses logical locators and keeps physical custody separate",
+            "pass": true,
+            "detail": {
+              "retained_absolute_path_scalar_count": 0
+            }
+          },
+          {
+            "name": "six named functions and each original at exact role",
+            "pass": true,
+            "detail": {
+              "selected_by_role": {
+                "SOURCE": [
+                  "T19"
+                ],
+                "BODY": [
+                  "T01"
+                ],
+                "AUTHOR": [
+                  "T02",
+                  "T03",
+                  "T04",
+                  "T05",
+                  "T06",
+                  "T20",
+                  "T21",
+                  "T22",
+                  "P01",
+                  "P02",
+                  "P03",
+                  "P04"
+                ],
+                "PEER": [
+                  "T07",
+                  "T08",
+                  "T09",
+                  "T10",
+                  "T11",
+                  "T12",
+                  "T13",
+                  "T14",
+                  "T15",
+                  "T16"
+                ],
+                "ROOT": [
+                  "T17",
+                  "T18"
+                ],
+                "REGISTRY": []
+              }
+            }
+          },
+          {
+            "name": "complete Source-first earlier-only 15 intended path edges",
+            "pass": true,
+            "detail": {
+              "edges": 15
+            }
+          },
+          {
+            "name": "six full static payload measurements reproduced with explicit framing",
+            "pass": true,
+            "detail": {
+              "SOURCE": 19217,
+              "BODY": 12935,
+              "AUTHOR": 125170,
+              "PEER": 83726,
+              "ROOT": 11609,
+              "REGISTRY": 26946
+            }
+          },
+          {
+            "name": "exact duty and zero scope change",
+            "pass": true,
+            "detail": {
+              "package": "P3-REL-SHURO-KOKURIKO-AZAMI",
+              "home": "/homes/189",
+              "required_csv_physical_line": 191,
+              "existing_count_already_in_355": 1,
+              "changes": 0
+            }
+          },
+          {
+            "name": "22 original and four finite authored records at declared membership",
+            "pass": true,
+            "detail": {
+              "originals": 22,
+              "finite": 4,
+              "ordered_records": 24
+            }
+          }
+        ],
+        "projection_framing": {
+          "SOURCE": "{meta: source_metadata, records: {T19}}",
+          "BODY": "Exact UTF-8 suffix",
+          "AUTHOR": "{records: selected AUTHOR JSON record map, historical_BODY_V1_inverse}",
+          "PEER": "{records: selected PEER record map}",
+          "ROOT": "{records: selected ROOT record map}",
+          "REGISTRY": "{registry: member_registry, logical_locator_registry, roles, physical_edges}",
+          "encoding": "UTF-8 JSON with two-space indentation and final LF for the five JSON measurements. The structures are in-memory measurement views."
+        }
+      },
+      "actual_limits": "Complete normative original meanings and planned authority were received at the scopes documented in my course. All source attendance here is zero. Physical locator values and documentary vectors were handled at their actual data scope. This C review is a separate stage before Root plan receiving and a later composition commission."
+    },
+    "Q03": {
+      "schema": "DIFFERENT_TRIO_FINITE_PLAN_ACTUAL_RECEIVING_AND_CUSTODY_COURSE_V1",
+      "actor": "/root/kokuriko_v3_different_finite_qa",
+      "UTC": "2026-11-05T05:50:33.514Z",
+      "fresh_questions": {
+        "path": {
+          "trio_exact_local_locator": "N001"
+        },
+        "bytes": 2241,
+        "sha256": "dc0b8792b30c13e9a259478a3fe0db91cc7e59f8a657a94e20937fa52e9b01f7"
+      },
+      "subject_terminal": {
+        "path": {
+          "trio_exact_local_locator": "N002"
+        },
+        "bytes": 9213,
+        "sha256": "e30c040706668ba4d6448ef672bba891b6b9ca9b3219d9a0963786326884f029"
+      },
+      "actual_receiving": [
+        {
+          "members": "Terminal, T18 and P01–P04",
+          "extent": "Complete saved terminal, exact Root commission, planner questions, reasons, course and saved readback received in bounded views through EOF. T18 is the same exact file bound by the terminal commission field."
+        },
+        {
+          "members": "T01 and T02",
+          "extent": "Complete exact T01 body and all notes received through EOF. Both complete differing paragraph and note contexts of T02 and T01 received. Whole T02 handled as pinned raw comparison. Exact two-span replay shows the other literary words match the T01 meaning actually received."
+        },
+        {
+          "members": "T05, T08, T14 and T19",
+          "extent": "Complete compact representations of the actual planned record values received through the end of each view. They cover the whole original readiness argument and all its subsidiary duties/rivals/endpoints, complete different literary and readiness review arguments, and all fourteen original authored modes. Typed locator tags remained in the projection."
+        },
+        {
+          "members": [
+            "T03",
+            "T04",
+            "T06",
+            "T07",
+            "T09",
+            "T10",
+            "T11",
+            "T12",
+            "T13",
+            "T15",
+            "T16",
+            "T17",
+            "T20",
+            "T21",
+            "T22"
+          ],
+          "extent": "Complete compact substantive views through the end of each record. These views preserved all strings and structured meanings except exact SHA-256 scalar display, which was marked as data, and single-key locator object display, which used its same logical ID. Actual exact byte and ordered reconstruction separately compared all original values."
+        },
+        {
+          "members": "Plan-level unique meanings",
+          "extent": "Received exact role functions and paths, source grade/currentness and limits, complete historical splice descriptors, logical registry categories and basenames, intended fifteen future edges, finite selection boundary, authority and storage caveat. Full plan vectors loaded as data at the exact pin."
+        }
+      ],
+      "actual_fidelity": "I independently decoded the actual planned JSON values and declared locator dictionary. I replayed both body directions and compared each actual pin and complete reconstructed raw/ordered value. The projection size check used explicit in-memory framing and two-space UTF-8 JSON with a terminal LF. Simple preliminary shapes gave different SOURCE and REGISTRY framing sizes. The final explicitly recorded framing reproduces all six planned measurements. This is my reproduction, with no claim to inspect the planner’s serializer.",
+      "actual_exposure_limit": "All original actors’ source/control claims remain attributable to those actors. I used no previous character or Renge–Kikyou source attendance to claim trio receiving. The sole 26 authorized C originals and declared governing plan records are my comparison set. The 17 nonmember locators, source and control bodies, and any path mentioned in an original remained data. This review has zero new source attendance.",
+      "historical_precision": "Readiness V1 and its four-leaf history are retained as original declarations. BODY V1 is a selected exact member and reconstructs from V2 by the two declared literal edits. The plan’s original author also performed an earlier independent finite body review. That review’s stage and the later original planner role are distinct.",
+      "saved_QA": {
+        "path": {
+          "trio_exact_local_locator": "N004"
+        },
+        "bytes": 17031,
+        "sha256": "e9fbcc42a50fc63f6e89a04de4dbb491106effbf2d43b5834b1a3aeb0b983550"
+      },
+      "next_actual_stage": "Receive the saved complete QA and this course through EOF before the later readback and freeze."
+    },
+    "Q04": {
+      "schema": "DIFFERENT_TRIO_FINITE_RETENTION_PLAN_COMPLETE_QA_SAVED_READBACK_AND_FROZEN_TERMINAL_V1",
+      "actor": "/root/kokuriko_v3_different_finite_qa",
+      "UTC": "2026-11-05T05:52:53.972Z",
+      "state": "DIFFERENT FINITE PLAN QA COMPLETE. NO MATERIAL FINDING. ROOT ACTUAL RECEIVING AND BOUNDED PLAN DECISION PENDING.",
+      "target": {
+        "terminal": {
+          "path": {
+            "trio_exact_local_locator": "N002"
+          },
+          "bytes": 9213,
+          "sha256": "e30c040706668ba4d6448ef672bba891b6b9ca9b3219d9a0963786326884f029"
+        },
+        "plan": {
+          "path": {
+            "trio_exact_local_locator": "N003"
+          },
+          "bytes": 304283,
+          "sha256": "9e764a76d3ec32de1da876c15bed1cc1a6783c4a2c94f397775f70755edcf247"
+        }
+      },
+      "actual_own_saved_readback": {
+        "extent": "I received the complete saved 17031-byte QA through EOF in four bounded views and the complete saved 4954-byte course through EOF in a separate view. An earlier one-call QA display exceeded available context and contributes zero meaning receipt.",
+        "substantive_result": "The six answers preserve the directed relation and the serious rivals at maintained analysis grade, including local ordinary creative goods and adverse agency. The locator scheme reserves exact workstation literals for the declared inverse while preserving source, role and stage meaning in complete retained records. The two body edits are a separate history from the earlier readiness four-leaf precision. Six future role projections and fifteen earlier-only paths are a finite design. The QA supports Root receiving and a plan decision with these limits.",
+        "own_replay": "All 26 raw and 24 ordered records reproduce from the actual planned selected values and declared inverses. Both exact historical body directions passed. All 11 independent documentary checks passed. The six static measurements reproduce in my explicitly stated in-memory framing.",
+        "custody": "Zero new source attendance. All seventeen nonmember locator targets remained unopened. Current body adoption, different finite plan QA and a later Root plan decision are separate stages."
+      },
+      "own_exact_members": {
+        "fresh_questions": {
+          "path": {
+            "trio_exact_local_locator": "N001"
+          },
+          "bytes": 2241,
+          "sha256": "dc0b8792b30c13e9a259478a3fe0db91cc7e59f8a657a94e20937fa52e9b01f7"
+        },
+        "complete_QA": {
+          "path": {
+            "trio_exact_local_locator": "N004"
+          },
+          "bytes": 17031,
+          "sha256": "e9fbcc42a50fc63f6e89a04de4dbb491106effbf2d43b5834b1a3aeb0b983550"
+        },
+        "actual_course": {
+          "path": {
+            "trio_exact_local_locator": "N005"
+          },
+          "bytes": 4954,
+          "sha256": "40318868ce5d97e6e861db55333a98b9305650fcd9d993b236c24836c2267fcd"
+        }
+      },
+      "terminal_guard": {
+        "positive_inputs_checked": 28,
+        "input_mismatches": 0,
+        "own_prior_files_checked": 3,
+        "own_mismatches": 0
+      },
+      "limits": "This exact finite QA has no material finding and is frozen for Root. The six prospective files, final headers, actual strong bindings and storage eligibility are later work requiring separate authority and checks. Existing duty and package count stay at the exact supplied scope."
+    }
+  }
+}

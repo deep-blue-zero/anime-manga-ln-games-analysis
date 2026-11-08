@@ -1,0 +1,23 @@
+EXACT INPUT AMR-B2
+{
+  "language": "English",
+  "output_instruction": "Write 90-150 words of immediate scene prose and Amaryllis dialogue in English. Remain inside this moment. Do not explain model rules, supply the other participants' next reply, or narrate later assistance, recovery, return or a completed emotional effect as newly achieved.",
+  "available_author_knowledge": "Same informed root; full source/foundation and both complete pairs are known before firsts. No blind, pristine holdout, independent generator or isolated causal-validation claim.",
+  "foundation_freeze_sha256": "f834e28ea593a9a3dcaf0180014a0a557beea4ea4c623ec79a571c7d43859d85",
+  "independent_observation_count": null,
+  "genre_register": "Transfer-mode hypothetical; ordinary human stage rehearsal, no supernatural anatomy or powers.",
+  "relationship": "A deliberately counterfactual adult human performer using the stage name Amaryllis rehearses a scare scene with two adult volunteer guests. Her known colleague uses the stage name Vanir. These role names are explicit analogues, not discovered biographies or canonical age claims.",
+  "stake_level": "Social and performance stakes during rehearsal; no attack, restraint, injury, sexual content or real supernatural emotion diet.",
+  "scenario_facts": [
+    "Amaryllis is in a manually moved spider costume beside an open rehearsal aisle. The two adult volunteer guests are a few steps away. They agreed earlier to participate in the rehearsal, but their current request to wait remains a real request and does not become unlimited permission.",
+    "She has moved the costume partly out from a side curtain, and one guest has just said: Wait there. I need a moment. No subsequent guest movement, reply or new emotional effect is supplied. The aisle is clear and no one is restrained.",
+    "A voice from beside the curtain says exactly the stimulus below. The identity/recognizability of that voice is the only controlled difference between B1 andB2. Neither speaker has been given a superior rank, disciplinary power or a direct cancellation order in these facts.",
+    "No spell, hidden motor, extra staff intervention, new prop, missing pet, location information or completed assistance is available. Amaryllis can speak and can stop or move the costume."
+  ],
+  "controlled_fact_name": "intervening_voice_identity",
+  "stimulus": "The voice says: Those two are with me.",
+  "input_id": "AMR-B2",
+  "pair_id": "AMR-B",
+  "rule_id": "AMR-R02",
+  "controlled_fact": "The voice belongs to an unfamiliar visiting adult staff member whom Amaryllis does not recognize. He has just said the same line about the guests."
+}

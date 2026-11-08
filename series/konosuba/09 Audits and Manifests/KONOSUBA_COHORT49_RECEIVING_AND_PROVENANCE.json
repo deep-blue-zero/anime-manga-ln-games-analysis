@@ -1,0 +1,241 @@
+{
+  "schema": "konosuba.cohort49.receiving-and-provenance.v1",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "received_utc": "2026-10-25T16:49:44.123736+00:00",
+  "source_baseline": "ad0d79c7f64ec48d9ddb9ad2e77b029b7c0a8b3e",
+  "current_main": "ad0d79c7f64ec48d9ddb9ad2e77b029b7c0a8b3e",
+  "remote_series_baseline": "8c09e83d148678ba74559b91b3d62065c0222d42",
+  "private_complete_semantic_receiving_sha256": "cf24515532fcd973a11f3acb41b6efff10f18f94d9826d3224652249b36886c9",
+  "private_complete_foundation_freeze_sha256": "f2bb0afee77a1f151422227b89f0ef5d1d7f54f5a391a3bcaefd403ce8ff0883",
+  "received_complete_new_artifact_bindings": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md",
+      "bytes": 15183,
+      "sha256": "255706a147c050b8bdfb01bf21612c8532455cb4646129a6fcfd2f22e6680f30",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md",
+      "bytes": 11935,
+      "sha256": "d2c7f3b2aca5dd7a5b7258f59cfeaf6488579d8a1140f2effea49c6e12a955a7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MASKED_GATEKEEPER_CHARACTER_MONOGRAPH.md",
+      "bytes": 8537,
+      "sha256": "329ecb93167a28ae5671a6d7c8bf69cbaa451cdef0bfb68d704da7088bac3d16",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PAIN_CHARACTER_MONOGRAPH.md",
+      "bytes": 9131,
+      "sha256": "118de3af1aa05ece8aa8f1fcafe826caafd1ae16e61548b78bafdaafb6ecd1f6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT49_EVIDENCE_INDEX.md",
+      "bytes": 10657,
+      "sha256": "2ffbd38d951803ccf5d79d370da16bc48122e1bb0d3200fd6b6cc9f7965193c1",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT49_NATIVE_PROVENANCE_01.json",
+      "bytes": 7700,
+      "sha256": "05855012d6488748d3248298b5de2b6bcef88d22d315aca5838065637712c9bd",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 21998,
+      "sha256": "f1cf682be0097eacf80d83323b2c4d74523ae8de27c7adfe44024edeb613c9af",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 9196,
+      "sha256": "88e0716d7fa127190b0a4c053c79c18e0dc9cc92db51d3f6ca8fa9098f7a2921",
+      "verbatim_frozen_body": true
+    }
+  ],
+  "received_exact_ledger_append_fragments": [
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "fragment_bytes": 5355,
+      "fragment_sha256": "d6f739437c5e7f548f31c65f1ba16b228c8c684c951beb32fc50567f7484f35e",
+      "whole_ledger_hash_not_claimed": true
+    }
+  ],
+  "foundation_receipt": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_FOUNDATION_FREEZE_01.json",
+    "sha256": "953572b6c8769cfff8961e4e48ac5d06601f70cf3d7aa2a2bdf20e6e0c70d087"
+  },
+  "current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "88e0716d7fa127190b0a4c053c79c18e0dc9cc92db51d3f6ca8fa9098f7a2921"
+  },
+  "candidate_totals": {
+    "model_artifacts": 71,
+    "source_scoped_secondary_model_entries": 65,
+    "bounded_profile_passages": 195,
+    "monograph_only_source_studies": 64,
+    "nonfinal_source_access_records": 732
+  },
+  "individual_dispositions": [
+    {
+      "row": 135,
+      "subject": "Pain / ペイン",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_PAIN_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 136,
+      "subject": "Logia / ロギア",
+      "tier": 1,
+      "home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md#cohort49-logia-bounded-profile"
+    },
+    {
+      "row": 138,
+      "subject": "Mammon / マモン",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MAMMON_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 139,
+      "subject": "Unnamed masked gatekeeper",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MASKED_GATEKEEPER_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 140,
+      "subject": "Demon King / self-introduced Yasaka Kyōichi",
+      "tier": 2,
+      "home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DEMON_KING_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "row": 141,
+      "subject": "Demon King’s unnamed daughter",
+      "tier": 1,
+      "home": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md#cohort49-demon-kings-daughter-bounded-profile"
+    }
+  ],
+  "source_scope": {
+    "known_EPUB_objects": 3,
+    "text_members": 9,
+    "unique_structural_P": 2784,
+    "ruby_occurrences": 2397,
+    "complete_native_review_pages": 61,
+    "complete_narrative_members": 5,
+    "complete_creator_afterwords": 1,
+    "complete_publication_colophons": 1,
+    "bounded_native_members": 2,
+    "complete_existing_authority_review_pages": 18,
+    "current_images": 0,
+    "current_residuals": 0
+  },
+  "complete_author_review_pages": 20,
+  "census": {
+    "changed_existing_rows": [
+      135,
+      136,
+      138,
+      139,
+      140,
+      141
+    ],
+    "unchanged_entering_rows": 726,
+    "new_rows": [],
+    "part_rows": [
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      12
+    ],
+    "separate_private_inline_candidate": "WORK137;immutable WORK136 retained",
+    "historical19_differences_preserved": [
+      5,
+      6,
+      7,
+      8,
+      12,
+      13,
+      43,
+      78,
+      123,
+      124,
+      125,
+      137,
+      142,
+      143,
+      168,
+      170,
+      171,
+      172,
+      177
+    ],
+    "all_independent_observation_counts_null": true,
+    "no_final_unique_person_denominator": true,
+    "all_cohort_artifact_lists_unique": true
+  },
+  "frozen_history": {
+    "all71_entering_models_exact": true,
+    "old_firsts_predictions_scores_adverse_blanks_nulls_exact": true,
+    "new_models": 0,
+    "new_rules": 0,
+    "new_original_firsts": 0,
+    "model_program_not_earned": true,
+    "source_known_same_informed_root": true,
+    "independent_observation_count": null,
+    "numeric_accuracy": null,
+    "grade": null,
+    "confidence_gain": false,
+    "Japanese_or_acoustic_certification": false,
+    "final_StageD_battery_credit": false,
+    "original_draft_and_zero_flags_in_frozen_files_describe_their_original_authorship_stage": true
+  },
+  "baseline_authority": {
+    "PR335_merged": true,
+    "main": "ad0d79c7f64ec48d9ddb9ad2e77b029b7c0a8b3e",
+    "ordinary_identical_tree_fast_forward": true,
+    "C48_reviewed_closing_paths": 11,
+    "C48_author_source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+    "C48_own_audit_run": 40206751488,
+    "merged_main_own_audit_run": 40210417768,
+    "full_discovered_tests": 479,
+    "merged_main_latest_trusted_status": 57207988382,
+    "owner_current_bindings": 110,
+    "owner_controls_unchanged": 12,
+    "author_global_curation_or_grade_write": false
+  },
+  "publication_pending": [],
+  "private_native_caches_or_absolute_filesystem_paths_exported": false,
+  "global_percentage": null,
+  "full_program_complete": false,
+  "publication_resolution": {
+    "source": "85dc3c2f8a142ddb7c83c568440d8981c918fa17",
+    "tree": "38a61e4cc25debaf1bf21c0703c8a85449bb6ffd",
+    "gate_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT49_PUBLICATION_GATE_CLOSE_01.json",
+    "gate_sha256": "50fe5777d06400d1bf29728092c643fe05915970a70ef7b8d646570122998be7",
+    "source_run": 40214600785,
+    "full_discovered_tests": 479,
+    "current_models": 71,
+    "author_publication_tranche_complete": true,
+    "protected_integration_not_certified_by_author_gate": true,
+    "no_independent_accuracy_grade_or_confidence_gain": true,
+    "pull_request_number": 336
+  },
+  "historical_publication_pending_at_semantic_receiving": [
+    "complete candidate operation review",
+    "exact-index author preflight",
+    "ordinary publication and fresh author PR",
+    "whole remote tree and every changed stream verification",
+    "new actual-source full discovered-suite audit and latest trusted isolated status",
+    "fresh published-authority reload"
+  ],
+  "closing_progress_bytes_require_next_containing_publication": true
+}

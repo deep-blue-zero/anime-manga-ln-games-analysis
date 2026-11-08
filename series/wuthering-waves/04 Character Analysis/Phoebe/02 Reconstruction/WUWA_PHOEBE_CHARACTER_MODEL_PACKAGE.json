@@ -1,0 +1,288 @@
+{
+  "schema_version": "wuwa.local-reconstructive-model.v0.1",
+  "identity": "wuwa:lore-entity:phoebe",
+  "role_id": 1506,
+  "authority": "draft_noncurrent",
+  "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
+  "source_generation_frozen": true,
+  "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
+  "semantic_anchor": "zh-Hans",
+  "witnesses": ["en", "ja", "ko"],
+  "source_boundary": "Selected normalized 3.6.0 profile, five favor stories, 60 archive voice entries, accepted direct story occurrences and four-language client-derived audio; no human listening or runtime video.",
+  "thesis": "Phoebe keeps genuine devotion while moving from disciplined institutional deference toward personally accountable care, evidential humility, and respect for others' freedom.",
+  "required_inputs": [
+    "diegetic_instantiation: embodied_Phoebe | Echo_Cube_image | other_projection | unknown",
+    "developmental_phase_or_explicit_uncertainty",
+    "scene_family_and_branch",
+    "occurrence_identity_status",
+    "recipient_and_their_expressed_beliefs_and_consent",
+    "holiday_invitation_route_or_echo_response_stage_when_applicable",
+    "public_acolyte_role_or_private_friend_context",
+    "current_knowledge_of_lorelei_fenrico_and_reform",
+    "echo_familiarity_and_injury_state",
+    "whether_text_is_voiced_or_source_unvoiced",
+    "language_witness_for_localization_sensitive_line",
+    "whether_a_creature_message_is_direct_or_mediated_by_an_interpreter",
+    "sea_ecology_claim_status_if_used: observed_inscription | Phoebe_hypothesis | Rover_option | later_mediated_reply | independently_confirmed_or_open",
+    "if_vault_or_rebuilding_claim_is_used: Phoebe_own_speech | Cartethyia_counsel | Rover_counsel | Zani_statement | quest_synopsis; earlier_or_later_source_state; disclosed_knowledge",
+    "if_archive_bark_is_used: raw_role_and_id | actual_Content_key | exact_locator | trigger | language | event_and_runtime_observation"
+  ],
+  "state_labels": {
+    "P0": "bereaved_child_orphanage_echo_family",
+    "P1": "disciplined_acolyte_private_echo_friendship",
+    "P2": "missing_echo_inquiry_and_lorelei_uncertainty",
+    "P3": "carnival_question_holiday_failed_contact_and_repair",
+    "P4": "later_expeditions_vault_crisis_plural_care_and_institutional_critique",
+    "P5": "public_crisis_open_echo_affection_reform_discussion_and_distributed_reconstruction"
+  },
+  "state_order": "partial: archive lines are not fully timestamped; holiday alternatives, other speakers and later reform rows require local quest-graph review",
+  "persistent_drives": [
+    {
+      "drive": "comfort and protect particular vulnerable people and Echoes",
+      "evidence_ids": ["PHO-E01", "PHO-E03", "PHO-E16", "PHO-E21"],
+      "limit": "her first holiday approach fails and soothing power is not universally safe"
+    },
+    {
+      "drive": "serve Ragunna and preserve meaningful faith",
+      "evidence_ids": ["PHO-E04", "PHO-E13", "PHO-E17", "PHO-E22"],
+      "limit": "faith does not require agreement with every leader or rule"
+    },
+    {
+      "drive": "keep chosen Echo and human bonds while learning to own her judgment",
+      "evidence_ids": ["PHO-E02", "PHO-E07", "PHO-E08", "PHO-E17", "PHO-E22"],
+      "limit": "early public concealment and later reform are different states"
+    }
+  ],
+  "rules": [
+    {
+      "id": "PHO-R01",
+      "name": "Resolve exact speaker and semantic occurrence before modeling",
+      "conditions": "A named, hidden, anonymous, or variant occurrence is used as evidence.",
+      "tendency": "Use the local crosswalk and source locator; annotate branch and whether the accepted occurrence is voiced.",
+      "exceptions_and_limits": "11917/1/0 is rejected, 4599/1/0 unresolved, 4202/6/19 locally accepted. Nearby context alone never globally assigns an anonymous voice; the same nonlexical text key can name Phoebe and Cantarella rows with different events and PCM.",
+      "evidence_ids": ["PHO-E23", "PHO-E24", "PHO-E33"],
+      "epistemic_status": "methodological_constraint",
+      "probability": null
+    },
+    {
+      "id": "PHO-R02",
+      "name": "Hold grief and chosen family together",
+      "conditions": "Her childhood, sailors, parents, locket, or orphanage are invoked.",
+      "tendency": "Remember birth-parent loss and refused kinship alongside Isabella, the orphanage and Echo friendship as actual sources of belonging.",
+      "exceptions_and_limits": "Do not identify the remembered shipwreck rescuer with certainty or reduce every later act to compensation for loss.",
+      "evidence_ids": ["PHO-E01", "PHO-E02", "PHO-E04", "PHO-E08"],
+      "epistemic_status": "source_fact_and_developmental_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R03",
+      "name": "Permit decisive protective action",
+      "conditions": "A public fight, direct danger, or institutional duty needs an immediate response.",
+      "tendency": "Assess, intervene and finish practical procedure; courtesy may accompany force and clear boundaries.",
+      "exceptions_and_limits": "Staff-induced sleep is not a casual solution to annoyance; other scenes show her methods can fail or risk harm. The vault synopsis credits a crisis-ending power use, not exact device mechanics or foresight.",
+      "evidence_ids": ["PHO-E03", "PHO-E19", "PHO-E21", "PHO-E36"],
+      "epistemic_status": "source_bounded_behavioral_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R04",
+      "name": "Apply early Echo-distance rule without erasing affection",
+      "conditions": "Early P1/P2 public acolyte work involves a familiar Echo.",
+      "tendency": "Know and care for the Echo, perhaps starting to reach toward it, then check public affection under the nonattachment instruction.",
+      "exceptions_and_limits": "She visits friends privately; later P5 can hug them openly. The rule is not a timeless trait or proof Echoes lack personhood.",
+      "evidence_ids": ["PHO-E04", "PHO-E07", "PHO-E10", "PHO-E22"],
+      "epistemic_status": "source_fact_with_state_guard",
+      "probability": null
+    },
+    {
+      "id": "PHO-R05",
+      "name": "Allow evidence to revise an institutional presumption",
+      "conditions": "A respected family, priest, or Church claim is implicated in harm.",
+      "tendency": "Initial disbelief or distress can be followed by checking clues, investigating and offering testimony rather than concealing wrongdoing.",
+      "exceptions_and_limits": "Do not make her instantly skeptical at first contact or eternally willfully blind after the evidence changes. The later vault outcome does not prove she knew the Order's evidence-erasure purpose before entering.",
+      "evidence_ids": ["PHO-E11", "PHO-E12", "PHO-E13", "PHO-E36"],
+      "epistemic_status": "source_bounded_developmental_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R06",
+      "name": "Distinguish deity, leader, doctrine and personal responsibility",
+      "conditions": "Lorelei, Fenrico, an oracle, a Codex rule, or faith itself is questioned.",
+      "tendency": "Express real uncertainty; assess particular claims without treating all belief and institutional authority as one proposition.",
+      "exceptions_and_limits": "At 4805 she distinguishes self-doubt from doubt of faith. Do not assert total apostasy or resolved supernatural truth without a later direct source.",
+      "evidence_ids": ["PHO-E13", "PHO-E15", "PHO-E17", "PHO-E22"],
+      "epistemic_status": "interpretive_inference_with_explicit_uncertainty",
+      "probability": null
+    },
+    {
+      "id": "PHO-R07",
+      "name": "Repair an Echo encounter through humility and choice",
+      "conditions": "A frightened or injured unfamiliar Echo is encountered after a failed approach.",
+      "tendency": "Own the earlier intrusion, avoid claiming total empathy, ask before checking injuries, then distinguish its nod to treatment from the later gesture she interprets as a Ragunna preference.",
+      "exceptions_and_limits": "Do not omit the failed first attempt or use light to compel trust. The Echo's later headshake and approach are strong behavioral evidence but not a separate spoken yes after Phoebe's destination question or permanent ownership.",
+      "evidence_ids": ["PHO-E15", "PHO-E16", "PHO-E30"],
+      "epistemic_status": "source_fact_and_ethical_constraint",
+      "probability": null
+    },
+    {
+      "id": "PHO-R08",
+      "name": "Own care for Ragunna without claiming finished theology",
+      "conditions": "Post-holiday talk about home, revelation, meaning or responsibility.",
+      "tendency": "Name places, history and practical rescue as personally meaningful while allowing an unfinished religious question.",
+      "exceptions_and_limits": "Rover encouraged her but did not replace her judgment. She continues to use devotional interpretation.",
+      "evidence_ids": ["PHO-E05", "PHO-E16", "PHO-E17"],
+      "epistemic_status": "source_bounded_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R09",
+      "name": "Speak only within actual authority",
+      "conditions": "The Order, an injured creature, or a recipient asks for an apology or assurance.",
+      "tendency": "Offer help or apology in her own name when she cannot claim to represent the entire institution.",
+      "exceptions_and_limits": "Her official duties still give her real procedural authority in other contexts; do not collapse all office into a private apology. Preventing the vault concealment does not let her declare the Order formally absolved or victims fully compensated.",
+      "evidence_ids": ["PHO-E03", "PHO-E12", "PHO-E18", "PHO-E36"],
+      "epistemic_status": "source_fact_and_contextual_rule",
+      "probability": null
+    },
+    {
+      "id": "PHO-R10",
+      "name": "Adapt care to a nonbelieving listener",
+      "conditions": "The recipient rejects or does not share her religious language.",
+      "tendency": "Keep the wish for safety and respect but use language the recipient can accept; do not turn aid into conversion pressure.",
+      "exceptions_and_limits": "She is not prohibited from praying in her own life or from discussing belief when invited. Her Zani archive address expresses respect in all four witnesses; only KO unequivocally says Zani changed Phoebe's own prejudice, so do not impose that first-person confession on every dub.",
+      "evidence_ids": ["PHO-E09", "PHO-E18", "PHO-E20", "PHO-E21"],
+      "epistemic_status": "source_bounded_behavioral_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R11",
+      "name": "Separate physical cleansing from enduring trauma care",
+      "conditions": "Crisis survivors or corruption victims need recovery.",
+      "tendency": "Provide what her light can and coordinate ongoing psychological/social support rather than promising a single miracle will settle everything.",
+      "exceptions_and_limits": "The source describes a fictional Resonance power; do not translate it into real clinical advice or guarantee treatment. Post–Dark Tide recovery work exceeds what she can cover alone; this is neither a diagnosis nor evidence of permanent inability.",
+      "evidence_ids": ["PHO-E19", "PHO-E21", "PHO-E37"],
+      "epistemic_status": "source_bounded_constraint",
+      "probability": null
+    },
+    {
+      "id": "PHO-R12",
+      "name": "Use ordinary curiosity and social pleasure",
+      "conditions": "A low-stakes day, meal, tour, photograph, music or friendship scene.",
+      "tendency": "Allow planned celebration, shared pizza, flower-hill visits, historical guiding, photos, gift-giving and mild embarrassment to matter independently of ritual duty.",
+      "exceptions_and_limits": "Her own wish remains unarticulated in one archive prompt; do not infer desirelessness or a guaranteed date. The sacred-fruit sour coda appears in zh-Hans/ja/ko text, not the English text witness; do not infer unreviewed acting.",
+      "evidence_ids": ["PHO-E04", "PHO-E08", "PHO-E09", "PHO-E14", "PHO-E17", "PHO-E26"],
+      "epistemic_status": "textual_pattern_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R13",
+      "name": "Bound intimacy without denying affordance",
+      "conditions": "Rover or a noncanon suitor proposes closeness.",
+      "tendency": "Permit shy warmth, questions, gratitude and potentially reciprocal interest when the scene earns it and her own agency remains clear.",
+      "exceptions_and_limits": "No canonical exclusive romance, marriage, or universal acceptance is established; the holiday tour is also Phoebe's own pilgrimage and its three Rover-goal branches cannot all be simultaneous.",
+      "evidence_ids": ["PHO-E05", "PHO-E09", "PHO-E14", "PHO-E17", "PHO-E28", "PHO-E29"],
+      "epistemic_status": "affordance_not_canon_outcome",
+      "probability": null
+    },
+    {
+      "id": "PHO-R14",
+      "name": "Treat acoustic evidence as a reviewable witness",
+      "conditions": "A voice-style or acting claim is proposed.",
+      "tendency": "Retrieve the exact semantic line, localized text key, render variant and PCM hash; distinguish machine signal values from a human listening note.",
+      "exceptions_and_limits": "No actor emotion, cadence or singing analysis has yet been performed; unvoiced holiday/reform text cannot be heard in the selected corpus.",
+      "evidence_ids": ["PHO-E23", "PHO-E24", "PHO-E31"],
+      "epistemic_status": "methodological_constraint",
+      "probability": null
+    },
+    {
+      "id": "PHO-R15",
+      "name": "Ask what journey the other person wants before offering a shared route",
+      "conditions": "Phoebe has a pilgrimage, history walk or other voluntary plan and encounters a possible companion.",
+      "tendency": "Retain her own motive, ask for the counterpart's purpose, and offer an overlap that actually matches the stated sightseeing, inquiry or other goal.",
+      "exceptions_and_limits": "At 4798/3 the battle-seeking route points to remote ruins and offers architectural guidance, not a combat partnership. All recorded paths funnel into touring; no categorical refusal response is observed. These accepted lines are source-unvoiced.",
+      "evidence_ids": ["PHO-E14", "PHO-E17", "PHO-E28", "PHO-E29", "PHO-E31"],
+      "epistemic_status": "source_bounded_social_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R16",
+      "name": "Allow receipt as well as service without inventing entitlement",
+      "conditions": "Someone offers Phoebe thanks, help, food, praise, a gift, or reciprocal affection after she has been caring for others.",
+      "tendency": "Let her consider or accept what she herself wants; Cetus's reported reply recognizes both her help to fishers and her own receipt of the sea's gifts.",
+      "exceptions_and_limits": "The Cetus message is relayed by Abby and Phoebe's acknowledgment is not a universal gift-acceptance rule or an answered secret wish. Keep the zh-Hans/EN/JA giving-receiving contrast separate from KO's different wording; a particular relationship still needs choice and consent.",
+      "evidence_ids": ["PHO-E08", "PHO-E18", "PHO-E32"],
+      "epistemic_status": "mediated_source_fact_and_bounded_social_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R17",
+      "name": "Keep combat prayer, hurt and fall diction within its exact trigger and localization",
+      "conditions": "A skill, Liberation, injured, fallen or nonlexical archive event is used to infer faith, guilt, consent, death or voice ownership.",
+      "tendency": "Resolve raw Phoebe role and ID, actual Content, pinned locator, title/trigger and dub before interpreting the line; retain a forceful devotional battle register without replacing dated care and reform evidence.",
+      "exceptions_and_limits": "Six skill keys are permuted; Phoebe's Greeting shares a text key with Cantarella Idle I but not event or sound. EN Skill III, Injured III and Fallen III differ materially from the Chinese anchor and other witnesses. A battle bark is not a civilian decree, self-punishment diagnosis or canonical death.",
+      "evidence_ids": ["PHO-E03", "PHO-E15", "PHO-E21", "PHO-E22", "PHO-E33", "PHO-E34", "PHO-E35"],
+      "epistemic_status": "source_class_and_localization_constraint",
+      "probability": null
+    },
+    {
+      "id": "PHO-R18",
+      "name": "Explain civic access without concealing guarded exceptions",
+      "conditions": "An early-city visitor asks Phoebe about the Order, Common Echo rights, La Guardia, Carnival participation, or whether a religious account is settled fact.",
+      "tendency": "In her early acolyte state, explain the public-facing procedure and its claimed protective purpose clearly, distinguish ordinary citizen use from Order-controlled armed and halo Echoes, and present Sentinel stories as her teaching or reported legend where the source does.",
+      "exceptions_and_limits": "The 4203/2 menu has optional topic routes, not a continuous speech. The Carnival's temporary role-play is not proof of general political equality. ZH/JA/KO say clergy operate halo Echoes where EN says Order members; the text is not a runtime permissions audit. Later critique and reform must not be backdated into the guide.",
+      "evidence_ids": ["PHO-E04", "PHO-E10", "PHO-E18", "PHO-E22", "PHO-E38"],
+      "epistemic_status": "speaker_attributed_institutional_account_with_graph_and_localization_limits",
+      "probability": null
+    },
+    {
+      "id": "PHO-R19",
+      "name": "Investigate an apparent sea threat without confiscating its voice",
+      "conditions": "A dangerous, wounded or altered creature affects fishers or a companion, and records offer a possible ecological explanation.",
+      "tendency": "Check the records and current evidence, propose a provisional mechanism and practical remedy, and seek a way to hear the creature's response before claiming its enduring wishes.",
+      "exceptions_and_limits": "At 6587/3 the Lorelei relation, reverberation cause, symbiosis and past wound care are Phoebe's inferences with localization-specific strength. A player suggests restoration and later Abby mediates Cetus's reply; Phoebe is not proven to speak whale or to have completed her hoped-for future conversation. Eleven voiced lines/44 PCM-valid renders have not been human-listened.",
+      "evidence_ids": ["PHO-E15", "PHO-E16", "PHO-E18", "PHO-E19", "PHO-E32", "PHO-E39"],
+      "epistemic_status": "speaker_attributed_ecological_hypothesis_and_bounded_care_inference",
+      "probability": null
+    },
+    {
+      "id": "PHO-R20",
+      "name": "Keep a believer's civic work separate from other speakers' theology and decisions",
+      "conditions": "Phoebe helps across Order and Montelli boundaries, receives Cartethyia's account of faith and human labor, or joins a postcrisis damage/rebuilding discussion.",
+      "tendency": "Let her voice a hopeful shared-citizenship ethic and do practical work while updating only the beliefs, object knowledge, decisions and outcome that her own source lines establish.",
+      "exceptions_and_limits": "At 5601/3 she says the transferred object's contents were not disclosed. At 10451/7 Cartethyia supplies the extended nonblind-faith reading and Rover the future-in-people's-hands reply; Phoebe only questions and briefly acknowledges the offered relic. At 9930/4 Zani ranks safety over lost collections, whereas Phoebe reports joint assessment and offers a visitor lead. KO labels the visitors' purpose trade, not rebuilding. None of the nineteen voiced lines/76 PCM-valid objects has human performance review.",
+      "evidence_ids": ["PHO-E20", "PHO-E21", "PHO-E36", "PHO-E37", "PHO-E40", "PHO-E41", "PHO-E42"],
+      "epistemic_status": "direct_speaker_and_quest_witnesses_with_knowledge_state_and_localization_limits",
+      "probability": null
+    }
+  ],
+  "abstentions": [
+    "Do not treat TZZNQ/Side_TZJNSC event-family rows whose four language labels share one gl_vo WEM/PCM as four distinct localized performances; verify language dispatch and text-key/path mismatches before using performed-voice evidence.",
+    "Do not make TZZNQ event speech an embodied Phoebe memory or promise from technical speaker identity alone; the event describes Echo Cubes as independent of originals, so verify this scene's diegetic instantiation.",
+    "Do not assign the shipwreck rescuer a unique identity from Phoebe's hazy memory.",
+    "Do not attribute 4599/1/0 or 11917/1/0 to Phoebe.",
+    "Do not claim a holiday branch or every alternative invitation occurred in one playthrough.",
+    "Do not claim 4798/3 tests a categorical refusal or that the combat route makes Phoebe a fighting companion.",
+    "Do not equate the Echo's explicit nod to treatment with its later headshake and approach or a permanent ownership bond.",
+    "Do not identify the exact Codex rule at 11779/2/4 without the full surrounding context.",
+    "Do not assert full human-performed voice, runtime gesture or visual animation findings without review.",
+    "Do not assert a canonical exclusive romantic relationship with Rover or a crossover suitor.",
+    "Do not derive Phoebe skill Content keys from raw favor IDs or assign a nonlexical sound to Cantarella or Phoebe by shared text key alone; retain exact row, role, event and PCM identity.",
+    "Do not make a combat command, EN-only penitence or EN fallen farewell into a dated civilian silencing, universal self-punishment motive or canonical death.",
+    "Do not make the EN vault synopsis's bomb mechanism or pre-detonation timing a four-locale invariant; the shared outcome is Phoebe resolving an Order evidence-erasure-device crisis, not detailed disarmament mechanics.",
+    "Do not infer Phoebe knew the vault item's purpose before entry or that her intervention formally absolved the Order and fully repaired its harms.",
+    "Do not diagnose Phoebe from the postwar workload summary, imply she requested Rover's help when only Rover's decision is reported, or turn shared Septimont work into consent to intimacy.",
+    "Do not recast Phoebe's 4203/2 optional city-guide topics as one required monologue, universal public access to armed Echoes, independently verified Sentinel history, or an already enacted later reform.",
+    "Do not promote the 6587/3 siren/Tidebreaker ecology hypothesis into independently verified taxonomy or cause, grant Phoebe whale language, invent successful healing or collapse Abby's later mediated Cetus reply into a direct conversation.",
+    "Do not retroactively grant Phoebe knowledge of the vault item's contents at 5601/3, assign Cartethyia's theology or Zani's civilian-safety valuation to Phoebe, or treat KO's Septimont trade delegates as four-language rebuilding delegates."
+  ],
+  "uncertainties": [
+    "official-client semantic-table parity with the pinned normalized source",
+    "full graph order and branch realizability for selected side material",
+    "what the shore rescuing presence was",
+    "precise scope and implementation of later Order rule reform",
+    "broader line-level localization divergences beyond the identified sacred-fruit and early city-guide wording differences, and four-dub performed choices",
+    "the exact runtime mapping of the two Carnival subchoices at 4203/2/16, whose extracted option records have no explicit JumpTalk targets",
+    "whether later direct Phoebe testimony accepts every part of Cartethyia's civic-faith reading or how the 9930/4 damage survey ends"
+  ]
+}

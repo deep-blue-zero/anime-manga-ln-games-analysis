@@ -1,0 +1,660 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_HINATA_CLAIM_AND_ENDPOINT_V1",
+  "status": "ROOT_COMPLETE_LITERARY_RECEIVING_ACCEPTED_WITH_LIMITS",
+  "claims": [
+    {
+      "claim_id": "HI01",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 44,
+      "joined_saved_paragraph": "The base private sequence begins with offers bounded by what Hinata can actually do and how far she can travel. In10036:002 the adult encounters her in a storage area outsiders normally cannot enter. She left the door open by mistake, and the adult's secrecy offer fails to address her point about access. Actual carrying follows alongside her claim that listening is difficult and these tasks are “only” what she can provide. Praise brings happiness, yet a sweaty-work misunderstanding ends with a quick adult departure and incomplete understanding. A completed task and an unresolved social afterstate already coexist. [U01:327–333]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "327–333;base002",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Access restriction remains; reported3–4-person box comparison not weight/invulnerability; no rumor-content certainty.",
+      "directed_recipients_and_agency": "Hinata bounded help/self-appraisal versus actual skilled carrying; adult failed discretion independent.",
+      "actual_endpoint_and_unfinished_coda": "Actual carrying/praise/happiness, quick departure and misunderstanding unclosed.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 30,
+      "frozen_author_joined_saved_paragraph": "The base private sequence begins with offers bounded by what Hinata can actually do and how far she can travel. In10036:002 the adult encounters her in a storage area outsiders normally cannot enter. She left the door open by mistake, and the adult's secrecy offer fails to address her point about access. Actual carrying follows alongside her claim that listening is difficult and these tasks are “only” what she can provide. Praise brings happiness, yet a sweaty-work misunderstanding ends with a quick adult departure and incomplete understanding. A completed task and an unresolved social afterstate already coexist. [U01:327–333]"
+    },
+    {
+      "claim_id": "HI02",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 46,
+      "joined_saved_paragraph": "In10036:003 repeated requests to rest become worry that others see her as unreliable. The adult offers a more caring interpretation of the sisters' requests; Hinata does not instantly become certain. She asks him to stay, reports feeling better and expresses gratitude in the whole message tail. The plan to rest remains a plan within this object. In10036:005 she reports resting and delegating more and feeling lighter, but again leaves a restricted door open. The adult hides with her even though she need not hide, then leaves amid an improvised cover story. Indirect questions in the complete tail and her continued confusion prevent a claim that either change or embarrassment has been fully resolved. [U01:335–341]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "335–341;base003/005",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Base003 planned rest not completed medical treatment; later report not permanent cure; alternatives not fused.",
+      "directed_recipients_and_agency": "Sisters rest requests and adult caring interpretation not total mind reading; Hinata asks company.",
+      "actual_endpoint_and_unfinished_coda": "Feels better/grateful; reported rest/delegation with recurring door error/indirect questions/confusion.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 32,
+      "frozen_author_joined_saved_paragraph": "In10036:003 repeated requests to rest become worry that others see her as unreliable. The adult offers a more caring interpretation of the sisters' requests; Hinata does not instantly become certain. She asks him to stay, reports feeling better and expresses gratitude in the whole message tail. The plan to rest remains a plan within this object. In10036:005 she reports resting and delegating more and feeling lighter, but again leaves a restricted door open. The adult hides with her even though she need not hide, then leaves amid an improvised cover story. Indirect questions in the complete tail and her continued confusion prevent a claim that either change or embarrassment has been fully resolved. [U01:335–341]"
+    },
+    {
+      "claim_id": "HI03",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 48,
+      "joined_saved_paragraph": "The picnics offer positive development without an error-free ladder. In10036:006 her chosen day-off invitation ends in actual shared eating and praise for delicate seasoning. In10036:020 an explicit earlier-picnic link supports local continuity; a mistaken ledger replaces her packed lunch, but the carefully maintained records and enjoyable inspection show real competence. The adult's lunch allows an actual meal and conversation. She later discovers she took his lunchbox home instead of the ledger, and another meeting is proposed. Completed pleasure survives an incomplete handover. [U01:345–355]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "345–355;base006/020",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Local earlier-picnic link not global date; no pantry/inventory-number audit or completed lunchbox return.",
+      "directed_recipients_and_agency": "Hinata wanted invitation/food/skilled ledger; adult lunch and escort separate.",
+      "actual_endpoint_and_unfinished_coda": "Actual delicious meal and later meal/conversation/inspection; subsequent handover error and next meeting future.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 34,
+      "frozen_author_joined_saved_paragraph": "The picnics offer positive development without an error-free ladder. In10036:006 her chosen day-off invitation ends in actual shared eating and praise for delicate seasoning. In10036:020 an explicit earlier-picnic link supports local continuity; a mistaken ledger replaces her packed lunch, but the carefully maintained records and enjoyable inspection show real competence. The adult's lunch allows an actual meal and conversation. She later discovers she took his lunchbox home instead of the ledger, and another meeting is proposed. Completed pleasure survives an incomplete handover. [U01:345–355]"
+    },
+    {
+      "claim_id": "HI04",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 50,
+      "joined_saved_paragraph": "Event812 likewise has a complete immediate resolution and important remaining limits. Initial custodial handling worsens scripture fragility; referral, materials, rest and work follow. Hinata chooses truth-telling when time appears lost, requests continued book treatment and leaves to face the venue. Ui later reports restoration complete and physically hands over the book. The adult's possession of the recognized substitute and Sakurako's resumed scripture presentation strongly support successful replacement, while the entry and swap steps are unprinted. Actual public humiliation by reading the substitute does not occur. This outcome neither cancels Hinata's stated responsibility nor certifies that her planned confession was completed. [E01/E02; E12/E13/E14]",
+      "support": [
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E02",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E12",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E14",
+          "accepted_argument_locator": "s1:u0048–0071",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No detailed performed entry/swap or completed confession; strong replacement inference remains marked.",
+      "directed_recipients_and_agency": "Hinata chooses final responsibility; Ui actual expert handoff; adult intervention/Sakurako presentation distinct.",
+      "actual_endpoint_and_unfinished_coda": "Restoration reported complete/physical handoff, substitute recognized/adult possession/resumed presentation; no substitute publicly read.",
+      "applicable_open_gaps": [
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 36,
+      "frozen_author_joined_saved_paragraph": "Event812 likewise has a complete immediate resolution and important remaining limits. Initial custodial handling worsens scripture fragility; referral, materials, rest and work follow. Hinata chooses truth-telling when time appears lost, requests continued book treatment and leaves to face the venue. Ui later reports restoration complete and physically hands over the book. The adult's possession of the recognized substitute and Sakurako's resumed scripture presentation strongly support successful replacement, while the entry and swap steps are unprinted. Actual public humiliation by reading the substitute does not occur. This outcome neither cancels Hinata's stated responsibility nor certifies that her planned confession was completed. [E01/E02; E12/E13/E14]"
+    },
+    {
+      "claim_id": "HI05",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 58,
+      "joined_saved_paragraph": "The Eden public crisis adds practical agency without making her invulnerable. Hinata participates with Tsurugi in de-escalating a Justice–Prefect clash, recounts partial cathedral repair and later physically frees the wounded Sensei. Rumored catacombs and Justina lineage remain reports. The severe injury and subsequent first aid are not canceled by physical rescue; neither a complete repair certificate nor her exclusive authorship of the coalition is shown. Carrying and freeing someone are consequential actual contributions, but they cannot alone decide which public claim is true or whether care is complete. [M03:E006–E012; accepted chapter38–40]",
+      "support": [
+        {
+          "source_id": "M03",
+          "accepted_argument_locator": "E006–E012;38–40",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Rumored lineage/catacombs not established; rescue not complete healing, repair certificate or sole coalition authorship.",
+      "directed_recipients_and_agency": "Hinata/Tsurugi de-escalation, physical freeing and other rescue/treatment actors independently legible.",
+      "actual_endpoint_and_unfinished_coda": "Actual freeing amid severe injury trajectory, first aid/treatment distinct.",
+      "applicable_open_gaps": [
+        "G05",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 44,
+      "frozen_author_joined_saved_paragraph": "The Eden public crisis adds practical agency without making her invulnerable. Hinata participates with Tsurugi in de-escalating a Justice–Prefect clash, recounts partial cathedral repair and later physically frees the wounded Sensei. Rumored catacombs and Justina lineage remain reports. The severe injury and subsequent first aid are not canceled by physical rescue; neither a complete repair certificate nor her exclusive authorship of the coalition is shown. Carrying and freeing someone are consequential actual contributions, but they cannot alone decide which public claim is true or whether care is complete. [M03:E006–E012; accepted chapter38–40]"
+    },
+    {
+      "claim_id": "HI06",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 70,
+      "joined_saved_paragraph": "The substitute and security problem carries shared responsibility. Shimiko reconstructs the earlier replacement through questions and adult replies; options admit the adult's participation and possession of Hanako's copy. Hanako does not actually speak there, and feared public reading is not enacted. Later Hinata expects restricted venue entry, but Mashiro's actual guard task denies admission even to a Sisterhood member not on the list and offers communication before the attack interrupts it. This is task-bounded enforcement, not proof that every possible alternative was exhausted or that rank automatically overrides an attendee list. [E02:s1:u0011–0030; E12:s1:u0008–0020; E13:s1:u0041–0088]",
+      "support": [
+        {
+          "source_id": "E02",
+          "accepted_argument_locator": "s1:u0011–0030",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E12",
+          "accepted_argument_locator": "s1:u0008–0020",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "s1:u0041–0088",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Feared humiliation not performed; guards task not exhaustive impossibility or universal rank rule.",
+      "directed_recipients_and_agency": "Adult substitution responsibility; Shimiko expertise/civic motives; Mashiro actual boundary/offer distinct.",
+      "actual_endpoint_and_unfinished_coda": "Venue refusal and relay offer before attack, no actual entry/confession within E13.",
+      "applicable_open_gaps": [
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 56,
+      "frozen_author_joined_saved_paragraph": "The substitute and security problem carries shared responsibility. Shimiko reconstructs the earlier replacement through questions and adult replies; options admit the adult's participation and possession of Hanako's copy. Hanako does not actually speak there, and feared public reading is not enacted. Later Hinata expects restricted venue entry, but Mashiro's actual guard task denies admission even to a Sisterhood member not on the list and offers communication before the attack interrupts it. This is task-bounded enforcement, not proof that every possible alternative was exhausted or that rank automatically overrides an attendee list. [E02:s1:u0011–0030; E12:s1:u0008–0020; E13:s1:u0041–0088]"
+    },
+    {
+      "claim_id": "HI07",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 76,
+      "joined_saved_paragraph": "Hinata invites the adult on her day off because she wants an outing, not because an urgent job demands him. Her familiar bag first reveals a weapon, prompting inward adult fear, but no firing occurs. The BOND calls it a machine gun while the profile separately names a grenade launcher; the difference is retained rather than repaired into one exclusive inventory. The lunch underneath is made with effort despite her low confidence. Actual shared eating and delicate-seasoning praise answer the hospitality on its own terms. They are not merely comic relief or evidence awaiting a later test of utility. [U01:345–349]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "345–349;base006/449/451",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Machine gun versus profile grenade launcher not repaired exclusive inventory; feeding choices not compound course.",
+      "directed_recipients_and_agency": "Hinata chooses nonurgent hospitality; adult inward fear not attack.",
+      "actual_endpoint_and_unfinished_coda": "Weapon put back, actual shared meal/delicate-seasoning praise, no firing.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G10",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 62,
+      "frozen_author_joined_saved_paragraph": "Hinata invites the adult on her day off because she wants an outing, not because an urgent job demands him. Her familiar bag first reveals a weapon, prompting inward adult fear, but no firing occurs. The BOND calls it a machine gun while the profile separately names a grenade launcher; the difference is retained rather than repaired into one exclusive inventory. The lunch underneath is made with effort despite her low confidence. Actual shared eating and delicate-seasoning praise answer the hospitality on its own terms. They are not merely comic relief or evidence awaiting a later test of utility. [U01:345–349]"
+    },
+    {
+      "claim_id": "HI08",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 78,
+      "joined_saved_paragraph": "The next picnic preserves a different pleasant end. Bringing an inventory ledger is a real mistake; showing carefully maintained records is real skill. Enjoyable examination of surprising items, eating the adult's lunch, conversation after the meal and escort before it becomes late are all actual. The later lunchbox error remains. A wished next park meeting does not have to be falsely completed to prove this encounter mattered. Records, food and company make her life legible beyond apology, and the ledger's contents need not be verified in their thousands to recognize the care visibly invested in it. [U01:351–355]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "351–355;base020;whole100360420 tail510–580/780–880",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Meticulous records not total scale audit or error-free handover; future meeting not completed.",
+      "directed_recipients_and_agency": "Hinata careful work/desired company coexist with adult meal/reading/escort.",
+      "actual_endpoint_and_unfinished_coda": "Actual eating/conversation/inspection/escort; lunchbox taken home, no completed return.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 64,
+      "frozen_author_joined_saved_paragraph": "The next picnic preserves a different pleasant end. Bringing an inventory ledger is a real mistake; showing carefully maintained records is real skill. Enjoyable examination of surprising items, eating the adult's lunch, conversation after the meal and escort before it becomes late are all actual. The later lunchbox error remains. A wished next park meeting does not have to be falsely completed to prove this encounter mattered. Records, food and company make her life legible beyond apology, and the ledger's contents need not be verified in their thousands to recognize the care visibly invested in it. [U01:351–355]"
+    },
+    {
+      "claim_id": "HI09",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 80,
+      "joined_saved_paragraph": "The gift encounter also has an achieved ordinary endpoint. Hinata says engrossment in cathedral work displaced advance holiday preparation. She fetches round chocolates ordinarily distributed to children, reports sufficient stock and says she sampled the kinds to understand their preferences; she selects flavors the adult might like and checks for disliked choices. Offering available food does not automatically make a gift thoughtless surplus. Japanese wording about not usually eating much and a different Korean taste formulation retain locale bounds; additional Korean flavor detail cannot be silently inserted into the Japanese object. The narrated shared eating and deliciousness are actual, while a full pantry/taste audit, later distribution to children, hidden motive and romantic certainty are not supplied. [L04:s1:u0001–0031; locale qualifications]",
+      "support": [
+        {
+          "source_id": "L04",
+          "accepted_argument_locator": "s1:u0001–0031;locale/mode qualifications",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Unknown opening not assigned; supply/flavor trials report not audit; Korean additions not Japanese data; no hidden motive/actual child distribution.",
+      "directed_recipients_and_agency": "Hinata admits work engrossment, adapts gift to likely adult taste/checks dislike; children no direct voice.",
+      "actual_endpoint_and_unfinished_coda": "Actual delicious shared chocolate; unprinted later distribution/romance remain open.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G10",
+        "G12",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 66,
+      "frozen_author_joined_saved_paragraph": "The gift encounter also has an achieved ordinary endpoint. Hinata says engrossment in cathedral work displaced advance holiday preparation. She fetches round chocolates ordinarily distributed to children, reports sufficient stock and says she sampled the kinds to understand their preferences; she selects flavors the adult might like and checks for disliked choices. Offering available food does not automatically make a gift thoughtless surplus. Japanese wording about not usually eating much and a different Korean taste formulation retain locale bounds; additional Korean flavor detail cannot be silently inserted into the Japanese object. The narrated shared eating and deliciousness are actual, while a full pantry/taste audit, later distribution to children, hidden motive and romantic certainty are not supplied. [L04:s1:u0001–0031; locale qualifications]"
+    },
+    {
+      "claim_id": "HI10",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 82,
+      "joined_saved_paragraph": "Rest has positive sensory and social content. She sets up the bed and parasol, recognizes her sisters' encouragement as sincere and still feels guilty about others doing her work. Warmth, shade and coolness are represented as comfortable; she lies down again and sleeps within about a minute. The tail's apology and alternative adult responses prevent a permanent guilt cure. What has occurred is a nap in a particular place with reassuring company. It is substantial ordinary evidence even though it neither earns a credential nor completes every remaining vacation duty. [U01:359–361]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "359–361;summer002/whole200280010 tail070–130",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No co-worker census, full vacation recovery or permanent disappearance of guilt; adult alternatives stay separate.",
+      "directed_recipients_and_agency": "Sisters sincere as her recognition; Hinata chooses rest with wanted company.",
+      "actual_endpoint_and_unfinished_coda": "Actual comfortable nap within about1min; apology/approval-or-shared-nap tail.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 68,
+      "frozen_author_joined_saved_paragraph": "Rest has positive sensory and social content. She sets up the bed and parasol, recognizes her sisters' encouragement as sincere and still feels guilty about others doing her work. Warmth, shade and coolness are represented as comfortable; she lies down again and sleeps within about a minute. The tail's apology and alternative adult responses prevent a permanent guilt cure. What has occurred is a nap in a particular place with reassuring company. It is substantial ordinary evidence even though it neither earns a credential nor completes every remaining vacation duty. [U01:359–361]"
+    },
+    {
+      "claim_id": "HI11",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 88,
+      "joined_saved_paragraph": "Attempted care can worsen an object without deliberate harm. Hinata brushes dust from the scripture, then tries binding, collecting and retrieving fragments as paper crumbles and sweat smears ink. “I touched gently” does not cancel worsening. Yet the subsequent expert account proposes prior environmental deterioration, while venue and organizer motives remain inferred; the initial handling alone cannot prove exceptional force, sabotage or destruction of every readable word. Her direct request for guidance marks a real limit on her competence, rather than a declaration that she has no agency left. [E01:s1:u0022–0045; E03:s1:u0092–0132]",
+      "support": [
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "s1:u0022–0045",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "s1:u0092–0132",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No sabotage, exceptional-force certainty, all-word destruction or tested prior environmental cause.",
+      "directed_recipients_and_agency": "Hinata gentle intent and actual worsening; expert inference and guidance distinct.",
+      "actual_endpoint_and_unfinished_coda": "Binding/retrieval/sweat worsen fragments, direct appeal; local cause not final tribunal finding.",
+      "applicable_open_gaps": [
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 74,
+      "frozen_author_joined_saved_paragraph": "Attempted care can worsen an object without deliberate harm. Hinata brushes dust from the scripture, then tries binding, collecting and retrieving fragments as paper crumbles and sweat smears ink. “I touched gently” does not cancel worsening. Yet the subsequent expert account proposes prior environmental deterioration, while venue and organizer motives remain inferred; the initial handling alone cannot prove exceptional force, sabotage or destruction of every readable word. Her direct request for guidance marks a real limit on her competence, rather than a declaration that she has no agency left. [E01:s1:u0022–0045; E03:s1:u0092–0132]"
+    },
+    {
+      "claim_id": "HI12",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 92,
+      "joined_saved_paragraph": "The apparent failure before the ceremony yields her clearest self-directed decision. Hinata says she will enter, stop Sakurako and tell the truth, refuses the adult's offer to share the final step and distinguishes help received from the responsibility she claims. She thanks both helpers, calls the day tiring and enjoyable and asks for the precious book's treatment regardless of its use at the ceremony. Her self-blame may overreach because the changed schedule was not in her control. Both that contrary explanation and her actual chosen stance belong in the argument; neither a moral acquittal nor sole-causality verdict follows. [E12:s1:u0001–0047]",
+      "support": [
+        {
+          "source_id": "E12",
+          "accepted_argument_locator": "s1:u0001–0047",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Self-blame not sole-causality finding; schedule/security expected not complete witnessed deployment; departure not completed confession.",
+      "directed_recipients_and_agency": "Hinata refusal to outsource final step, gratitude/enjoyment and book treatment beyond utility; adult responsibility offer retained.",
+      "actual_endpoint_and_unfinished_coda": "Declared truth-telling and departure, continued valuable book/days pleasure; rescue result occurs later separately.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 78,
+      "frozen_author_joined_saved_paragraph": "The apparent failure before the ceremony yields her clearest self-directed decision. Hinata says she will enter, stop Sakurako and tell the truth, refuses the adult's offer to share the final step and distinguishes help received from the responsibility she claims. She thanks both helpers, calls the day tiring and enjoyable and asks for the precious book's treatment regardless of its use at the ceremony. Her self-blame may overreach because the changed schedule was not in her control. Both that contrary explanation and her actual chosen stance belong in the argument; neither a moral acquittal nor sole-causality verdict follows. [E12:s1:u0001–0047]"
+    },
+    {
+      "claim_id": "HI13",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 94,
+      "joined_saved_paragraph": "The island investigation supplies another motive–method disagreement. Hinata prepares to protect against danger; her shot produces material collapse and Ui stops responding in that moment. No death, permanent incapacity or exhaustive structural diagnosis is printed. Later the adult is reported uninjured and fighting is concealed while a suspicious Ui is pressed to resume research; a future apology is not already delivered. Hinata's conscience and relief remain meaningful, but common helpful purpose cannot certify harmless tactics or complete disclosure. The return of mistakes after reported rest and delegation is recurrence, not proof that every earlier change was false. [A01:007/010–015; U01:339–341]",
+      "support": [
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "007/010–015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "339–341",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "No death/permanent incapacity/clinical structure findings; intended apology not performed; helpful motive not harmlessness.",
+      "directed_recipients_and_agency": "Ui affected by collapse/pressure, Hinata conscience/relief and other actors concealment separate.",
+      "actual_endpoint_and_unfinished_coda": "Material collapse, Ui stops responding locally; adult reported uninjured, secrecy/future apology unresolved.",
+      "applicable_open_gaps": [
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 80,
+      "frozen_author_joined_saved_paragraph": "The island investigation supplies another motive–method disagreement. Hinata prepares to protect against danger; her shot produces material collapse and Ui stops responding in that moment. No death, permanent incapacity or exhaustive structural diagnosis is printed. Later the adult is reported uninjured and fighting is concealed while a suspicious Ui is pressed to resume research; a future apology is not already delivered. Hinata's conscience and relief remain meaningful, but common helpful purpose cannot certify harmless tactics or complete disclosure. The return of mistakes after reported rest and delegation is recurrence, not proof that every earlier change was false. [A01:007/010–015; U01:339–341]"
+    },
+    {
+      "claim_id": "HI14",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 100,
+      "joined_saved_paragraph": "The relationship also contains failed discretion and recipient confusion. The storage-room departure leaves a misunderstanding she apparently does not grasp. The later adult hides with her when she need not hide and supplies a cover story; indirect questions persist after he leaves. The tail offers either uncertainty or responsibility/apology, which cannot be fused into one complete admission. Secrecy offered to a welcome host does not answer an access restriction. The useful adult is therefore not a uniformly reliable manager of the student's reputation, wishes or institutional duties. [U01:329–341]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "329–341",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Welcome not access permit; either adult uncertainty or apology not compounded confession; no erased reputation harm.",
+      "directed_recipients_and_agency": "Student restriction/confusion and adult secrecy/failure of discretion retained.",
+      "actual_endpoint_and_unfinished_coda": "Actual hiding/cover/adult departure; indirect questions and recipient confusion afterstate.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 86,
+      "frozen_author_joined_saved_paragraph": "The relationship also contains failed discretion and recipient confusion. The storage-room departure leaves a misunderstanding she apparently does not grasp. The later adult hides with her when she need not hide and supplies a cover story; indirect questions persist after he leaves. The tail offers either uncertainty or responsibility/apology, which cannot be fused into one complete admission. Secrecy offered to a welcome host does not answer an access restriction. The useful adult is therefore not a uniformly reliable manager of the student's reputation, wishes or institutional duties. [U01:329–341]"
+    },
+    {
+      "claim_id": "HI15",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 104,
+      "joined_saved_paragraph": "The confession-practice route makes wanted company explicit without supplying a romance contract. Hinata asks to rehearse private confession, reports earlier failed attempts with sisters and promises secrecy. The teacher admits wanting to stay and play rather than work; alternative choices are kept separate. She responds with a desire for more time alone and then apologetic distress about a sister's propriety. The adult spends the remaining time soothing her and practice is postponed. Affection and reassurance are real; an accomplished training session, credential, later successful hearing or sexual act is not. Its incomplete educational endpoint cannot erase the revealed wish. [U01:367–371]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "367–371;summer005/whole200280210 tail270–320/410–500",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Confession rehearsal not completed sacrament/credential; secrecy promise not verified legal guarantee; no romance contract/sexual act.",
+      "directed_recipients_and_agency": "Hinata chooses practice/wants private company/distress; adult confession/reassurance and options separate.",
+      "actual_endpoint_and_unfinished_coda": "Remaining time soothing, practice postponed; next attempt requested not completed.",
+      "applicable_open_gaps": [
+        "G01",
+        "G07",
+        "G09",
+        "G12",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 90,
+      "frozen_author_joined_saved_paragraph": "The confession-practice route makes wanted company explicit without supplying a romance contract. Hinata asks to rehearse private confession, reports earlier failed attempts with sisters and promises secrecy. The teacher admits wanting to stay and play rather than work; alternative choices are kept separate. She responds with a desire for more time alone and then apologetic distress about a sister's propriety. The adult spends the remaining time soothing her and practice is postponed. Affection and reassurance are real; an accomplished training session, credential, later successful hearing or sexual act is not. Its incomplete educational endpoint cannot erase the revealed wish. [U01:367–371]"
+    },
+    {
+      "claim_id": "HI16",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 110,
+      "joined_saved_paragraph": "Ui is a specialist and a person Hinata can recognize independently of the teacher. Hinata requests help, supplies materials, accepts particular rest hospitality and receives both impatience and concern. The phrase “that child's treatment” adopts Ui's book-care language at a point when the ceremony seems lost; Ui's interrupted astonishment matters because the request affirms an object beyond utility. Yet reciprocal language does not make the book a new person or establish a completed instant friendship. During the island investigation Hinata accepts distance requests and later must remain accountable for helpful force and concealed consequences. Affinity and friction have different recipients and endpoints. [E03/E08/E10–E13; A01:003/006–015]",
+      "support": [
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E08",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E10",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E11",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E12",
+          "accepted_argument_locator": "s1:u0033–0039",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "003/006–015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Book personification not new speaking person; reciprocal language not instant friendship or permission for all methods.",
+      "directed_recipients_and_agency": "Ui specialist/finite privacy/concern/impatience; Hinata recognition independent of adult and consequential recipients.",
+      "actual_endpoint_and_unfinished_coda": "Treatment requested regardless ceremony; handoff and shared rest positive, collapse/concealment/recurrence distinct.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G12",
+        "G13"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 96,
+      "frozen_author_joined_saved_paragraph": "Ui is a specialist and a person Hinata can recognize independently of the teacher. Hinata requests help, supplies materials, accepts particular rest hospitality and receives both impatience and concern. The phrase “that child's treatment” adopts Ui's book-care language at a point when the ceremony seems lost; Ui's interrupted astonishment matters because the request affirms an object beyond utility. Yet reciprocal language does not make the book a new person or establish a completed instant friendship. During the island investigation Hinata accepts distance requests and later must remain accountable for helpful force and concealed consequences. Affinity and friction have different recipients and endpoints. [E03/E08/E10–E13; A01:003/006–015]"
+    },
+    {
+      "claim_id": "HI17",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 124,
+      "joined_saved_paragraph": "The care-language transfer in Event812 is specific. Initial admiration of beautiful pronunciation is reported/#na aesthetic evidence, not heard performance; sustained cries are written register, not independently heard vocal episodes. Hinata's correction to “that child's treatment” gives reciprocal recognition without producing a speaking book or clinical biology. Printed actor seams can assign one sentence to a different literary actor than the label, including Shimiko's civic/professional motive that must not become Hinata's. Agreement in another object does not establish every global person join. [E01; E02:s1:u0029–0041; E03; E12:s1:u0033–0039]",
+      "support": [
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E02",
+          "accepted_argument_locator": "s1:u0029–0041;raw witnesses",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E12",
+          "accepted_argument_locator": "s1:u0033–0039",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Admired pronunciation/cries not heard performance; Shimiko civic motive not reassigned; actor agreement not global join.",
+      "directed_recipients_and_agency": "Exact attributed sentence/choice/#na/inward/system recipients remain distinct.",
+      "actual_endpoint_and_unfinished_coda": "Printed literary care-language transfer and interrupted Ui response actual; no new book-person.",
+      "applicable_open_gaps": [
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 110,
+      "frozen_author_joined_saved_paragraph": "The care-language transfer in Event812 is specific. Initial admiration of beautiful pronunciation is reported/#na aesthetic evidence, not heard performance; sustained cries are written register, not independently heard vocal episodes. Hinata's correction to “that child's treatment” gives reciprocal recognition without producing a speaking book or clinical biology. Printed actor seams can assign one sentence to a different literary actor than the label, including Shimiko's civic/professional motive that must not become Hinata's. Agreement in another object does not establish every global person join. [E01; E02:s1:u0029–0041; E03; E12:s1:u0033–0039]"
+    },
+    {
+      "claim_id": "HI18",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 126,
+      "joined_saved_paragraph": "Written profile, Special, lobby and shop fields expand address modes rather than multiply events. The base and summer Specials repeat relevant rest/company language; they are not second treatments or naps. Empty profiles do not conceal new biographies. Shop Buy lines do not prove commercial transactions, and ticklish or preparatory repertoire does not attest touched or completed scenes. The bag's differing weapon descriptions, unknown gift-opening actor, duplicate alternatives, inward responses and system/video controls retain separate documentary limits. This monograph has received accepted analytical arguments, not original audiovisual performance or a newly validated parser. [U01:347/449–453/463–469; L04; E01:s1:u0046]",
+      "support": [
+        {
+          "source_id": "U01",
+          "accepted_argument_locator": "347/449–453/463–469",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "L04",
+          "accepted_argument_locator": "whole mode qualifications",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "s1:u0046",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Repeats not second treatments/naps; empty profiles not biographies; shop fields not transactions/touched scenes.",
+      "directed_recipients_and_agency": "Literal present variants and two Hinata versus two Ui costumes retained separately; unknown gift opening remains local.",
+      "actual_endpoint_and_unfinished_coda": "Written wants/address modes, not invented plotted events; video not received.",
+      "applicable_open_gaps": [
+        "G07",
+        "G08",
+        "G09",
+        "G10",
+        "G12",
+        "G14"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 112,
+      "frozen_author_joined_saved_paragraph": "Written profile, Special, lobby and shop fields expand address modes rather than multiply events. The base and summer Specials repeat relevant rest/company language; they are not second treatments or naps. Empty profiles do not conceal new biographies. Shop Buy lines do not prove commercial transactions, and ticklish or preparatory repertoire does not attest touched or completed scenes. The bag's differing weapon descriptions, unknown gift-opening actor, duplicate alternatives, inward responses and system/video controls retain separate documentary limits. This monograph has received accepted analytical arguments, not original audiovisual performance or a newly validated parser. [U01:347/449–453/463–469; L04; E01:s1:u0046]"
+    },
+    {
+      "claim_id": "HI19",
+      "saved_monograph": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINATA_CHARACTER_MONOGRAPH.md",
+      "saved_line": 134,
+      "joined_saved_paragraph": "A sole-blame reading can point to her custody and direct worsening. It fails if it treats external scheduling, prior fragility, adult-supported substitution and other participants' decisions as actions she wholly controlled. A sentimental absolution can point to gentle intent and completed presentation, but fails against actual worsening, concealment, material collapse and unfinished apology or disclosure. Hinata's own chosen accountability is important evidence rather than a final tribunal finding. The successful immediate book outcome and the unprinted confession, permissions and costs need different conclusions. [E01/E02/E03/E12/E13/E14; A01:007/010/015]",
+      "support": [
+        {
+          "source_id": "E01",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E02",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E03",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E12",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E13",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "E14",
+          "accepted_argument_locator": "whole",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        },
+        {
+          "source_id": "A01",
+          "accepted_argument_locator": "007/010/015",
+          "exact_tuple_home": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_INPUT_RECEIPTS_V1.json"
+        }
+      ],
+      "extension_limit": "Neither sole-blame tribunal nor sentimental absolution from good intentions/success.",
+      "directed_recipients_and_agency": "Own chosen responsibility, outside scheduling, adult-supported cover and independent expert/guard actors remain.",
+      "actual_endpoint_and_unfinished_coda": "Successful immediate book result versus unprinted confession/permissions/harm/disclosure.",
+      "applicable_open_gaps": [
+        "G01",
+        "G06",
+        "G07",
+        "G09",
+        "G13",
+        "G14"
+      ],
+      "author_verification": "Relevant complete accepted analytical argument personally received/reused at declared scope; external full E812 annex/argument receiving explicitly attributed separately. Saved paragraph fully read.",
+      "ROOT_review": "COMPLETE_WITH_LIMITS",
+      "frozen_author_saved_line": 120,
+      "frozen_author_joined_saved_paragraph": "A sole-blame reading can point to her custody and direct worsening. It fails if it treats external scheduling, prior fragility, adult-supported substitution and other participants' decisions as actions she wholly controlled. A sentimental absolution can point to gentle intent and completed presentation, but fails against actual worsening, concealment, material collapse and unfinished apology or disclosure. Hinata's own chosen accountability is important evidence rather than a final tribunal finding. The successful immediate book outcome and the unprinted confession, permissions and costs need different conclusions. [E01/E02/E03/E12/E13/E14; A01:007/010/015]"
+    }
+  ],
+  "eleven_headers": [
+    "## 1. Core thesis",
+    "## 2. Longitudinal arc",
+    "## 3. Public and private self",
+    "## 4. School and club role",
+    "## 5. Ordinary life",
+    "## 6. Crisis behavior",
+    "## 7. Relationship with Sensei",
+    "## 8. Major peer relationships",
+    "## 9. Language and written voice",
+    "## 10. Competing readings",
+    "## 11. Evidence route and remaining limits"
+  ],
+  "complete_saved_body_readback": "44d719 all139 throughEOF plus7d25d7 final30/66/137",
+  "all14gaps": "OPEN",
+  "counts_not_completion_proof": true,
+  "original_primary_or_performed_or_independent_credit_added": 0,
+  "ROOT_literary_review": "COMPLETE_WITH_LIMITS",
+  "N_or_quarter_claimed": false,
+  "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINATA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+}

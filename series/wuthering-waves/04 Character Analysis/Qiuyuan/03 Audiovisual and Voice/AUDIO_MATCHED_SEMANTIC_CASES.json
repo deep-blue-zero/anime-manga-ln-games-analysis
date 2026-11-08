@@ -1,0 +1,1224 @@
+{
+  "cases": [
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "ce5ba4866f01d8837ba1ca95658a5959d58dba2606702d80937d4444c2cafaa7",
+          "duration_seconds": 1.9675,
+          "energy_active_median_dbfs": -25.00627323252799,
+          "event_id": null,
+          "flac_sha256": "96469d9328b9491e03dfb0f5c8044f0cdb3a7d2865fc9b58e4489c7e84ca49b7",
+          "language": "en",
+          "media_identity": "story-media:ce29ce84b34b8f134324e3fe7c6ab0d4035b8265dbe2149df31898c0106a8eb4",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:4eee32cf16764698b117ab4ae2c9d857ce2426505f809d56caa08d8df88e4ad0",
+          "render_variant_id": "character-runtime-render:7e189267dfec36d43e44e30e286ff7ea7c810c6abc7d2155fec3437b2a823c5d",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_HRT_Rinascita_Interludes_2_24.wem",
+          "wem_sha256": "c414cc971f67e655e0d810b06435e26ae03051b06f828aefb491998e38cd0871"
+        },
+        {
+          "canonical_pcm_sha256": "7d8a697b09775649b614b9fe85c07af947167dead2cc024cc87c2662fe3fa4d0",
+          "duration_seconds": 1.1867291666666666,
+          "energy_active_median_dbfs": -17.89360885704005,
+          "event_id": null,
+          "flac_sha256": "575aede6642e7a2dc1e558eb7c97a76b5283ccf38ca61386a352b2c17ef67896",
+          "language": "ja",
+          "media_identity": "story-media:2d71130c50abf93f24a96c5dded9f979aa32afe987ad15099a7dae3fe44b88ba",
+          "numeric_media_id": null,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 150.1015825533653,
+          "render_analysis_id": "character-voice-render:6aeb8aabc1d157390e9545426bee44f2cf0f19ddf49a644cfc01a5ae13ca6770",
+          "render_variant_id": "character-runtime-render:097799ae3ebe39c62d0d23f68fa71741f21c4aab39a49b3f6ad60f47364db031",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_HRT_Rinascita_Interludes_2_24.wem",
+          "wem_sha256": "7ffdc754aae09922bbf466e4bc148e77d5374aaa82b1e5a41e9461c0771f37f3"
+        },
+        {
+          "canonical_pcm_sha256": "abcd3592c574c31924469646d7a628e580b864de038487b9d447e00e27e90884",
+          "duration_seconds": 1.4985208333333333,
+          "energy_active_median_dbfs": -24.06640627046614,
+          "event_id": null,
+          "flac_sha256": "72cbc4225465780ffb5acb2e1ab9aba12be5e48d9955f0671f0e9b1cf26e9509",
+          "language": "ko",
+          "media_identity": "story-media:df7c308b2c6281cbeaef9671f421aaf33b80172b905cc43a78bb4edb870f0d54",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:ed09c31d0eaeaba9fa0fdd989b9714fe3f34acdddf8d918b9ddfa83c9f660e54",
+          "render_variant_id": "character-runtime-render:12ce365616a32a15c3a0dfd3639c3f3c3255a023cd27a85f04672f01c8194739",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_HRT_Rinascita_Interludes_2_24.wem",
+          "wem_sha256": "b8ae6e50a52f1d31a7602f42a35c60737ca26af9c2e30d4e451b327a9d525d18"
+        },
+        {
+          "canonical_pcm_sha256": "47d630657c334a75f9f734622d5899592a7d6b57b934f3199259a6ec9211d057",
+          "duration_seconds": 0.9306666666666666,
+          "energy_active_median_dbfs": -20.309053478550485,
+          "event_id": null,
+          "flac_sha256": "2fa0ff5d8b35f6e756917a550f1b423d82ccd2e4c751c89e9e99efccf13ea1e2",
+          "language": "zh",
+          "media_identity": "story-media:b18ed6b83224d5e309236d809461691cee51021095b03d785a10dfef7a03a740",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:407748028d7cab81ae07720e403d875195e8beb7fd97567c19331d082fbb6e12",
+          "render_variant_id": "character-runtime-render:40bc792d18795de6aac82f3c4d5993076e0222a155c6e22cf5f04217d014605c",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_HRT_Rinascita_Interludes_2_24.wem",
+          "wem_sha256": "48c5774cbe653af59d6351682883da27893f8f07441ea037d1d9b82d75fa1687"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:bdf37df2b989564fe8cb071cb3b0c8ece66e81849df9113a1a3374d910989370",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/9913/Actions!/4/Params/TalkItems/23",
+      "text_key": "HRT_Rinascita_Interludes_2_24",
+      "text_witness_sha256": {
+        "en": "89e24c51c39cd8f45d9a4c47a0307f19ddf6a7b03f22913dea7110ff049ebd94",
+        "ja": "1ae5a82a0094ce2d82db19036eb5916e4c78fd3574b7b66f0e6167ccd2160270",
+        "ko": "3bfc012eafb8f0565a33814d4f71893150273f5fb1e94faa7eb2ec9f801d2f6e",
+        "zh": "0a10a60b32ed1730ad672adbba89448bf4f12cbf07e8b8a997d112b37947cd61"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "c5c8097903c379c82a5e727cc51d7369e01e5e5ecc8d3ceb6a8e4450f2f0ccd3",
+          "duration_seconds": 7.698875,
+          "energy_active_median_dbfs": -22.203591055015536,
+          "event_id": null,
+          "flac_sha256": "a72d26f3be03e947dec3d6e63e447831efbea766011b2baa37ef1bb148d44bca",
+          "language": "en",
+          "media_identity": "story-media:58cb9a0d1b6eb74668c81d2e554326c55eb5f916c97968b8060f77d83c3dd6bf",
+          "numeric_media_id": null,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 110.8915763259332,
+          "render_analysis_id": "character-voice-render:6d443be6b61d26448b1b1f60dcf0b6a9ef7304198203bcc448b8c8f494923851",
+          "render_variant_id": "character-runtime-render:8b959c08968ee5fde5adf17d768a81c2aec052ac0f983b958d52c2ae42077b62",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_HRT_Rinascita_Interludes_4051_16.wem",
+          "wem_sha256": "9623c8bb0198bc34517dbd57686f5d393c89a307647120e4ce797f9a5a1e1984"
+        },
+        {
+          "canonical_pcm_sha256": "79a0cad5b76d0f376da760d7f02213e765946fe88f61efaffecb9e0374e0acec",
+          "duration_seconds": 11.660729166666666,
+          "energy_active_median_dbfs": -21.101609902841187,
+          "event_id": null,
+          "flac_sha256": "de6d242d502ab77abfb66d320ba1b0cb236c1e29b26e855eead391e28538293d",
+          "language": "ja",
+          "media_identity": "story-media:de9876c3ae0d4409a42468bd07c9a5a2b065a892a2af0205a058c8868f894bc1",
+          "numeric_media_id": null,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 120.8817497738439,
+          "render_analysis_id": "character-voice-render:b0f33f538a0807a0c3f93ecc93c11ddd84101cd78062117b9c7cebe6f4671cb7",
+          "render_variant_id": "character-runtime-render:ad39f18bada56eedb2c86304cbcdb16b2d98a34a14c33f7aaaf914d859f08e62",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_HRT_Rinascita_Interludes_4051_16.wem",
+          "wem_sha256": "475ccd2138244bdd40d034a756d5b16ce90702a8e3a9b9b4432f1973f331ace4"
+        },
+        {
+          "canonical_pcm_sha256": "3f94f2485ff0c9173af75cf35ab451a3dff7d3f6abf4fdb0b095c0654016c998",
+          "duration_seconds": 7.6879375,
+          "energy_active_median_dbfs": -26.1178268278176,
+          "event_id": null,
+          "flac_sha256": "b41bed593f44258208c4f905d8bd4a7b3d4f0cd098c5165dbd7ff908764e848e",
+          "language": "ko",
+          "media_identity": "story-media:26b34ff8978f1c1b09167c32fe21eb2f019f5aaf3f437da1740ead737223aa9b",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:5be6c7d9f89fce52f1f3208c1036f3d4682f1609e2de74379093f45a0cfa80bd",
+          "render_variant_id": "character-runtime-render:da5bd8bcf948a0908e9d154fffbd30029be768fbc024b3a29bc793cdcac8b95d",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_HRT_Rinascita_Interludes_4051_16.wem",
+          "wem_sha256": "44cbc2fe3317165326dabc39583c4c4088c3f0ffa866fd3c98727586eaf93565"
+        },
+        {
+          "canonical_pcm_sha256": "a003c3b84a6f47405eb64891643b3fe0ae1a992e230d3b56807fdbfda63bc19f",
+          "duration_seconds": 6.582916666666667,
+          "energy_active_median_dbfs": -24.898357272176646,
+          "event_id": null,
+          "flac_sha256": "ca5bcc1af17dd002536b1db2660e1ed208ce6d9054a134c1dcb1088bef0c45fc",
+          "language": "zh",
+          "media_identity": "story-media:3f032099d7513ae2cf7c04529ef5e0c8207cb5d0c697d3b6cc650d9aff97c204",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:d1da48d6f4e1865584d48527625e79ed659b5e57944125607dd913d20b5ffaae",
+          "render_variant_id": "character-runtime-render:551599859ccdc843794751694d1d40d4c7ffc82aa057fb41d368dfed45df03c7",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_HRT_Rinascita_Interludes_4051_16.wem",
+          "wem_sha256": "4e7ad74638724112adee67858ff21ca997610ab0eee5ecf368d3379972b7dbe9"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:ace1d3265eac55fe5d2f617c9d78f672bf8d75f1e2eff1f50af216874aca317f",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10738/Actions!/2/Params/TalkItems/23",
+      "text_key": "HRT_Rinascita_Interludes_4051_16",
+      "text_witness_sha256": {
+        "en": "1f38650f7f389f1b34267bf3d07af3fbeec6032d9e2713b4c86006af27dfd3b9",
+        "ja": "29aed53f0769586a68e4ca0b9b792c7eaa09716f0aa16e7aea4f412f76fa1d9c",
+        "ko": "e9e2abcfc88ed3e8dc6fb1f3c8257be3a5e731748f3cc31ca3eeb2a4a6d7de73",
+        "zh": "3b2db31dc020ac002e0a27e82fef0a81936be2a8316e63a67bafe38dcaf877ff"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "bb27353948402c2326d1878a84cc5170283664f1fb4996bc685a7903d5959763",
+          "duration_seconds": 7.7464375,
+          "energy_active_median_dbfs": -21.554624069591224,
+          "event_id": null,
+          "flac_sha256": "37351f5483c88a7445999486040676af873b2fd078df8a618553a224c8520cbe",
+          "language": "en",
+          "media_identity": "story-media:648d5919f3caa74ebf1f191aa8c41e48be8fa1c139cfd19be327d6871bad1843",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:cc45c50efe3f112731f9dc1161c35aedf67316ce783042d6e0e4d623511cb44b",
+          "render_variant_id": "character-runtime-render:48fea029e5d596929a95b7c115208cd1caeaef9d7e55733dc5065c79cf4a3047",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_HRT_Rinascita_Interludes_404_27.wem",
+          "wem_sha256": "b59d5dc8dacd054dfb2953279d502d6893e7b17e204fc6e8b7dc655e8ec57334"
+        },
+        {
+          "canonical_pcm_sha256": "8f8ad5762c14939b6d8919ef2b7ac672e090eb528aa2040ee30d826fbf7229ab",
+          "duration_seconds": 6.5430625,
+          "energy_active_median_dbfs": -20.747982218615803,
+          "event_id": null,
+          "flac_sha256": "e51f77527d391d86140fae6d80c6cdf6a28ea39a7a27699c02964a8b1edddc1e",
+          "language": "ja",
+          "media_identity": "story-media:29e6abe27f6e21994e8a1b9e557d44bea454dbb12380411861adec752547da16",
+          "numeric_media_id": null,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 121.60602825783262,
+          "render_analysis_id": "character-voice-render:a522129b67295d27af8a03e3d13238f4ba0a1e20b69ed370f3f11f45e33fc396",
+          "render_variant_id": "character-runtime-render:33cfe7f1c76ebb97e827d24044b7c8416bb52b29c9729ca5b6968558fc8b1fd7",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_HRT_Rinascita_Interludes_404_27.wem",
+          "wem_sha256": "f2314782f291cece8856041018da54477cc8692aa529bb85f4378d0665af8f37"
+        },
+        {
+          "canonical_pcm_sha256": "f032bae7ddad9d1e006fddc07cc749341b43e256f8097784e6104d10b096b91c",
+          "duration_seconds": 7.505375,
+          "energy_active_median_dbfs": -25.73630453819589,
+          "event_id": null,
+          "flac_sha256": "2f15ffca893ede866f4b79e798f791e065410f7cb97d23880e9e8da14f08fc48",
+          "language": "ko",
+          "media_identity": "story-media:0830ad748faff8996bf8dbd7be8db47f401cd082ee498aa46d5c8d133e89f9da",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:2488435feb3e24af167bd5fe476eb9c17676046b6224f65873c34a3463dbe057",
+          "render_variant_id": "character-runtime-render:8b42c4941223ac4ef23d06b37c7526c37a78034eb768a74de21938ae9a53b137",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_HRT_Rinascita_Interludes_404_27.wem",
+          "wem_sha256": "655dd9e70a40ad7f98d03886c923382618fc2dd70b1229cd3c40bebd68ae076b"
+        },
+        {
+          "canonical_pcm_sha256": "87f5f83a75b83dbc6aa9ca7ba6cd3e3faf441ed70c2656ae70ef9a5f41e19a3d",
+          "duration_seconds": 5.0380625,
+          "energy_active_median_dbfs": -23.630980158890665,
+          "event_id": null,
+          "flac_sha256": "fcd6017d11f0abe137d7334b94f76357d81cb1c93575a92107b9fc243721aaed",
+          "language": "zh",
+          "media_identity": "story-media:2076201932a8221e7225b64d886832fcf6489fd62dfa9af2e66be3d8f4a652e7",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:84ff9a916c33cc348b2a9d312b0bd3a31431b654426351c96ab5c0334e6326a3",
+          "render_variant_id": "character-runtime-render:55ac732da40b9364e1ee928343f84449fdc62d88575ac2e56cdcca78b3633b3a",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_HRT_Rinascita_Interludes_404_27.wem",
+          "wem_sha256": "8617b36a1a0dcdd5383361bda270ab24a4b9c6508884f3cf47e897be228657cd"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:306cbad95c8d6d3c4ff181a7790e529ad4286c481bfa1656408b1ac44f0b72fe",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10735/Actions!/2/Params/TalkItems/26",
+      "text_key": "HRT_Rinascita_Interludes_404_27",
+      "text_witness_sha256": {
+        "en": "5dda2187a2e8aa5960dd22ff170210e677e08d5bd62d7f0520d9b2395ab00a44",
+        "ja": "aee32b3f611ceb05686a58a5a1c53c63f193e1ae86a7b5da61141682dfcd1a2f",
+        "ko": "9c097e0ad40ea6249e0a3286c46f7591119d389b961ce3ef9635ae063459cbd6",
+        "zh": "e8b0e6197c09244349880465befb3fdd58491fd57abf03a01e11a47b1c60f98d"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "b119fb8e37f6368c2eef0d112fe5449110d230ebc7987797878eb1fa5c442736",
+          "duration_seconds": 7.254895833333333,
+          "energy_active_median_dbfs": -24.651321039527787,
+          "event_id": null,
+          "flac_sha256": "4a71cbf5f7f857e02b4471c37630fca853b5e829db6bb85521ceb0e22e41b962",
+          "language": "en",
+          "media_identity": "story-media:bf9e154bddf4239a15967d5be76319309334a341d3c697ded8f0613dd1bd0dce",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:21d07b4f63fcb5a35d5c5e114f2342ba7a12969f1e2583cb1a2aedf29ea20bc3",
+          "render_variant_id": "character-runtime-render:560398e655723c4a6e2645befd1b6cc143643ad84475624534b7ef806a37e98e",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_HRT_Rinascita_Interludes_406_43.wem",
+          "wem_sha256": "71d07220b7f5422a8b4183ab9084e6ac603eb0834e062027d514f1241712aed7"
+        },
+        {
+          "canonical_pcm_sha256": "14e269b8b7368d8ea3e7e2da7a765f74404fa32e3a64fc9accdc2b6ce7f2dac6",
+          "duration_seconds": 7.039208333333334,
+          "energy_active_median_dbfs": -22.44992008315922,
+          "event_id": null,
+          "flac_sha256": "f83a2d4e5b76c6b78e2152e57c9aee9b52b169477ae383cc0ba773de5ab442f2",
+          "language": "ja",
+          "media_identity": "story-media:84d2eed9db47e440b3a8e4e685baa644ab777006d320f5085cc09924794acea5",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:2477bc0c68e4ed3c5ad9c9c1e9150d55f18559ac41b7a2b4858259c59e6704ca",
+          "render_variant_id": "character-runtime-render:9834f0033f57765ac685afbfa24024e34633ac7d69b9ae57ff5bfdddb6609ed3",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_HRT_Rinascita_Interludes_406_43.wem",
+          "wem_sha256": "b7a4f762529c6fa584d6d6e92a4206fe8e48ac582b9a1e1649dab327b7c6e005"
+        },
+        {
+          "canonical_pcm_sha256": "e3a62f7ae69aa104973b330af0dc91a0d8ee186ceb725aa1cf7350c4d9d58727",
+          "duration_seconds": 4.631520833333333,
+          "energy_active_median_dbfs": -28.27725571690418,
+          "event_id": null,
+          "flac_sha256": "fcc6f9262743bc76025337fcbf6c9c6b16505e9cc50fe92efadf4a4a9cf6f8bf",
+          "language": "ko",
+          "media_identity": "story-media:9edb0fb2d0e615fbf3432a49b5e54000af658217df200a384fb0f3a9d3f2ad09",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:31a605cad37fd37b775c6e69cbf3b0b998d75d03a761b20792f5ec485128d20a",
+          "render_variant_id": "character-runtime-render:129b0bb6ea7eb8a939abab9f57005559d612227d47250ec3bc5b2f4df4312590",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_HRT_Rinascita_Interludes_406_43.wem",
+          "wem_sha256": "f7dda6a62f8bd17756cc4bc792d3f275c3db0f65347701f731c2904d3e5c3f9e"
+        },
+        {
+          "canonical_pcm_sha256": "35c497b99f4d78562d3314b212258737a97a4fe065a9d53b08f411b7a588fe8e",
+          "duration_seconds": 3.2454791666666667,
+          "energy_active_median_dbfs": -25.295347140333398,
+          "event_id": null,
+          "flac_sha256": "ca99b7a17474e96c99a73040291785319c6f8775e7434de7c8ea3eb51991d842",
+          "language": "zh",
+          "media_identity": "story-media:e29a0645b47128b4be8e36f4103c5442dfa751d20e7b7abddfca2b06978b2eac",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:6d8defae0f4912c4c2e6192cac094b8c3a17c7e9e2eb1e0c156565048bea0799",
+          "render_variant_id": "character-runtime-render:716e2ceb0b7df23ba88eb670c8e9da270ff3e07ccd10eafb5ed3295481fc933d",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_HRT_Rinascita_Interludes_406_43.wem",
+          "wem_sha256": "d8d00ba66abf86fc88cc9cb1046447b055acd5533ae1252141e183a403e23abd"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:9b64118fe39d4e09992739fb453899971c8977108a06611038273f97a457c13c",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/10736/Actions!/2/Params/TalkItems/42",
+      "text_key": "HRT_Rinascita_Interludes_406_43",
+      "text_witness_sha256": {
+        "en": "fb57b982a2d4b58e2a22d5204632f67c41db1496e6d75e8cd20d2cc97c70edfb",
+        "ja": "85304dcda9ba65f791194efea69dbacdd5657a993837ea71c3eb2e062b9ac6f3",
+        "ko": "a635678ee305adc8d623a1772f91305176d2f3619c97d4c3c009d49ff815025f",
+        "zh": "f75c2d1803e9d50d15915febbe41384e780da449e11db90ae7b2f1b895aaaf79"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "f144a93f9b36f83df9d27222f4c7945958fd041026210019e9d3ae4008cb6d4f",
+          "duration_seconds": 6.179625,
+          "energy_active_median_dbfs": -23.12979947500751,
+          "event_id": null,
+          "flac_sha256": "8c1561e469f539be26d3d012f70101a6ebfac1b8e2069a81d4da510f95057003",
+          "language": "en",
+          "media_identity": "story-media:766b4ccb8b3f1f519e941f50d1bf094231fa799b01cafa4e5a854716ef09abb3",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:187d940f360b696df581cc6eaf058d6a7f373419a0f9664590109e605ea04534",
+          "render_variant_id": "character-runtime-render:a71e46f438427bb08e97141c48643f9e70fa0fc2ad877ded7822f5f269a07aa8",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_Main_Rinascita_2_12_904_28.wem",
+          "wem_sha256": "7523065069dd7fa6c723fae0133f99dc7509a2981a756a5e3e3109de28290d51"
+        },
+        {
+          "canonical_pcm_sha256": "bf466366b461914a5a7926923c4034ccafbfc7b5ecb07dca36dec43c4d0c8556",
+          "duration_seconds": 10.1474375,
+          "energy_active_median_dbfs": -22.269873234523857,
+          "event_id": null,
+          "flac_sha256": "deb456c21b0cedcb1f237d77511df2cdbb651d533105d3ec74759ca911a3818c",
+          "language": "ja",
+          "media_identity": "story-media:4e3b6f6276cf081d769ced55ecc94e87a6a79dd30fe09b6a1d628965f7da547f",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:cea3ca58bacf9bbd605167e800e141bc25573915adf8570aced98f3a18536155",
+          "render_variant_id": "character-runtime-render:7de15265dfccd46c92cc354da03a2df0dfea78625b4cfea92d036ffc202d9bfd",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_Main_Rinascita_2_12_904_28.wem",
+          "wem_sha256": "db3313ff0ec73a0b552e927841ac128ac18e5a6759c2b5eb5a49d0403e66923c"
+        },
+        {
+          "canonical_pcm_sha256": "620a4226ffb38095d8d04f66f7ce0cb173bb247c866f91ad28212eceb3be6f40",
+          "duration_seconds": 6.305,
+          "energy_active_median_dbfs": -24.14982712773482,
+          "event_id": null,
+          "flac_sha256": "e9c866abadc62a3a6b7ede1d69cc4f960c2f9cfb733fdc8c437504889ce4151d",
+          "language": "ko",
+          "media_identity": "story-media:47257f6a94c1686049b3bcaffbc6c0093a5b32a450a14209c7946cbda470c060",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:21e3ec2332c1489eac49a0b73d30ca9b7dd3c3178b5534d95c7652b8d527bafb",
+          "render_variant_id": "character-runtime-render:9f02bc1facf1ffcae73f2e2a620a4cfad275ce19eb6996c41581c30e0673d981",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_Main_Rinascita_2_12_904_28.wem",
+          "wem_sha256": "244e9e8d86885402a210213ca7a6af760c4e9cbc352576281855021de05906e6"
+        },
+        {
+          "canonical_pcm_sha256": "31d264a1e7c8b3049d85e7d9ba12d47d9e382967d7431d98acecc3163d7d7c15",
+          "duration_seconds": 5.437604166666667,
+          "energy_active_median_dbfs": -22.94719685510923,
+          "event_id": null,
+          "flac_sha256": "b45f2584b2a0a9d9748f36228ba1c3997d3d4ac51d6cf8c36821c1e3a9c52751",
+          "language": "zh",
+          "media_identity": "story-media:a058cfdd21b2397a4bce470c51adf7b0f7c144f7deb19bc9ca02026adb9829b8",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:fa92007167d544074c5a3bc2f28f038db60b13e6d1b3b0ba8435db84eb51138b",
+          "render_variant_id": "character-runtime-render:30dd01deba50796675db2f3f236c3b3710cce7723762785ac2b9a7eb130b7e35",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_Main_Rinascita_2_12_904_28.wem",
+          "wem_sha256": "100f0492596455aa43d9bb08ddf6819446eba98d1cd5ee23cf9817897cf31062"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:d3589974ee08dba3205cc1df743e2635415fa33a5ee836f5ecde737af7d76c25",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/8882/Actions!/5/Params/TalkItems/21",
+      "text_key": "Main_Rinascita_2_12_904_28",
+      "text_witness_sha256": {
+        "en": "ee347f724f343837c7439f53393518c53e12f72592387391a9e5a24d16394900",
+        "ja": "5c36319ba1712cc5c0c4d7a40c736248c4fbe4ada31d4248693e8475c93c17dd",
+        "ko": "e2504d00be76e7880500c6c01ff36f19fe8cca602074a009a380b000546e44aa",
+        "zh": "f8c246797c55d23f4a21302747de16c85456ba632dff057c2218fb90d7d3f44c"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "8242080eb9183674ccf10b1affb96dc285686668c0d53727459f067dc34fd588",
+          "duration_seconds": 2.4177916666666666,
+          "energy_active_median_dbfs": -24.375227183545505,
+          "event_id": null,
+          "flac_sha256": "ee5798b571b6b93986792bb79a2443c8b8725044fcd0fd78501fb971693ebf75",
+          "language": "en",
+          "media_identity": "story-media:efa74381ad371fdf5f1c7d135fedd37af8158920c9b2bd7be49e203a84f973c5",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:46295f9c98a5564f54d21ab1bbd87cbbd96fb098fd4b7255093b42430c648fd9",
+          "render_variant_id": "character-runtime-render:dc3879909e5aaa715108ec19765481a04cd7683b3e94efa73ae4b9b8971efe61",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_Main_Rinascita_2_12_44_12.wem",
+          "wem_sha256": "49590bb73606f6546b816421da2f7ef96a89a5e8afe145dbf75fc0d0d44b02bb"
+        },
+        {
+          "canonical_pcm_sha256": "d8ff6b4b31f4d94fd45cc2a72519436f01d6615cb004633a3e88684226ac4ed0",
+          "duration_seconds": 2.4010208333333334,
+          "energy_active_median_dbfs": -21.293722083963377,
+          "event_id": null,
+          "flac_sha256": "81932fe559d13e4232125f1f95b23953ff806e7b002dc3d5812446de6d953537",
+          "language": "ja",
+          "media_identity": "story-media:b6013cbbe183a645c654655f9319572cd58aa7ab4c50dd11acd6df448a51ea0e",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:272c0a8f16b9602a3e0d3a532f6aaf74e04754d19c1daaafa131b56452313572",
+          "render_variant_id": "character-runtime-render:0ea00d030a7eb1612cebbfc3bfcfccb8458990ae9c1755162e7406f868ed2d30",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_Main_Rinascita_2_12_44_12.wem",
+          "wem_sha256": "81abfad684da87886e81f91441841c3f412b2c86cf68024928704c1cb244ec38"
+        },
+        {
+          "canonical_pcm_sha256": "1e47fce61c3ebcf0fe246435f2f627bbf76745b3a1383afd88472f1eebf8d47d",
+          "duration_seconds": 3.9858125,
+          "energy_active_median_dbfs": -27.5963870178739,
+          "event_id": null,
+          "flac_sha256": "bece377cb3f712b5fba15d24102249c9f61687ae9ff4978289f7075e526e0b6e",
+          "language": "ko",
+          "media_identity": "story-media:794f3dd156f37e7bb068b7ecf88e34c49e4ede1d127991189259038f0b1fe603",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:149ae6e1102ce9006b6a20ac76257886b27459fc5e98c7b075e6c04a31e38678",
+          "render_variant_id": "character-runtime-render:4518a07ad87df30cca3657c82b73d95fb7c4170d30097ea759ceef40fb7b2bc9",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_Main_Rinascita_2_12_44_12.wem",
+          "wem_sha256": "b1dc0097ed025bf917cb82f70145d075755c7c8eef178927676140fea52a5404"
+        },
+        {
+          "canonical_pcm_sha256": "7b579877c36a87f94cd18c7ed07bd4b08cd40afb4d11095323c90e3841e6d43a",
+          "duration_seconds": 2.0935208333333333,
+          "energy_active_median_dbfs": -25.190825352115937,
+          "event_id": null,
+          "flac_sha256": "6eb02855f71c8b5cff016dcb427496cdae21531cebb02484788c0bfe339ad896",
+          "language": "zh",
+          "media_identity": "story-media:6c70dd07caca5b208d1b77cc4420b640aba41bf57296a2fda2080e58e2a08777",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:7d05f5199af32c3e869c6e979b9684e8a86d8a186acf28dd3bdcb7ef3829c1ea",
+          "render_variant_id": "character-runtime-render:140e68aaf6bc2c7f5cdb4e0d91403843e736a495c5a55f3227ebda6882b42685",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_Main_Rinascita_2_12_44_12.wem",
+          "wem_sha256": "ea05a8d0ed8b8488e43e1c05fc30ee62224f752ee7b6a4b01be3ed7540d40441"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:009aba43fa42376036c529419f1171c6d75a829e9e16176b8b916a23fd3fc97c",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/11919/Actions!/1/Params/TalkItems/15",
+      "text_key": "Main_Rinascita_2_12_44_12",
+      "text_witness_sha256": {
+        "en": "6202515f76946915af29e46a2ad8ab1f79b2070015cc77ac0d71996d2db4b692",
+        "ja": "0c9ee79ffb6217642d75be40836583a047419bcfa649f52f0b0266a711d3f017",
+        "ko": "fddbfabddbf08120329ac743e814533df9ecaeddbfc7761b0bcea38e414c931e",
+        "zh": "f099e866cbdc1d219415f341605e6ff1d51b98bce4375d8fe977da6e551b0fce"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "5ff55bec0b79cdf6e3cc7fdea15e69a02c1794de821f2cbc5ce3c71efac7a182",
+          "duration_seconds": 3.6320833333333336,
+          "energy_active_median_dbfs": -24.59445496017897,
+          "event_id": null,
+          "flac_sha256": "f0855fefa684a2e16a1c039aa0731d2dfe265b693c321b770e15cd544e1677db",
+          "language": "en",
+          "media_identity": "story-media:311c217994394521cfcfb410f3f4b0edb71a221a5f07d662ca0dbb40a2a3516e",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:b1b021deb9ec33a540a064da7c898c19c5cb0f5a11320974da7440a89c5fd6ad",
+          "render_variant_id": "character-runtime-render:6561d097a610dbfb17e7fb905b7016ebfa2cf24bbef26bfb3e4dd79abfffbf00",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_Main_Rinascita_2_12_73_8.wem",
+          "wem_sha256": "01584cca591f739e7a3e0f34cf6d655b877a2772eb9d3ee68f5afa0324aa32b8"
+        },
+        {
+          "canonical_pcm_sha256": "8c67b08646217ca74689801cf5d58c38941779b991b44a82fe99dcf7aa670240",
+          "duration_seconds": 5.573604166666667,
+          "energy_active_median_dbfs": -20.88950400711147,
+          "event_id": null,
+          "flac_sha256": "18b0b2f275d21ecaac2bb8c83b6f6b0b43d49d2e54000240be33e9d7dd3818cd",
+          "language": "ja",
+          "media_identity": "story-media:a4bf31e27d1edfa149d6152ee7509cc31cfab3f2c19a6245a45ad8daec52aaa8",
+          "numeric_media_id": null,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 118.30340172507967,
+          "render_analysis_id": "character-voice-render:18922c4d8eec38ab2e51a9140350f661c8f56412769550ae9bb7be7b8844b534",
+          "render_variant_id": "character-runtime-render:27415992ab9f66d38756b4002b105962e2d27ddb19721ed2aab00345be5f3afb",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_Main_Rinascita_2_12_73_8.wem",
+          "wem_sha256": "52117d6d16aa2d48af58f2839cbb88189acbeeb67d8efbe837b627e74e75505a"
+        },
+        {
+          "canonical_pcm_sha256": "c3663fa4fcb9778718f7c2b7932456a41af914496ca6147a25f7441e781f57dc",
+          "duration_seconds": 3.3502916666666667,
+          "energy_active_median_dbfs": -25.828935482882798,
+          "event_id": null,
+          "flac_sha256": "b718f105ede46ca19daa036f4aae5a2230ad9a798013d9e28596074a78e2354b",
+          "language": "ko",
+          "media_identity": "story-media:dd8eba40ab3dbe6c5bc684648f71b429bf66e200a7df362a5084b53a0b86b977",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:6817b6c0227b7a0c5d8b62cc03a6f83c7099a74671dd166872b500292d0c478c",
+          "render_variant_id": "character-runtime-render:1bcf854eba8e09e98e6f64c08110f8fba289bcdcfc173887673a93a825b1737b",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_Main_Rinascita_2_12_73_8.wem",
+          "wem_sha256": "1707481df258bf083080324991f26026fd07b9a2748d2c61f524be29ef139e10"
+        },
+        {
+          "canonical_pcm_sha256": "943045b3a693abf5291f807d386803d802be745b3e44100e9c13c886cdf1188e",
+          "duration_seconds": 3.3502916666666667,
+          "energy_active_median_dbfs": -24.275722340700863,
+          "event_id": null,
+          "flac_sha256": "10e2ae770e27b4ff0498ddd6039bbbb5b7f62a145e0612c2c53bbd950a84af40",
+          "language": "zh",
+          "media_identity": "story-media:1e2f15281d03c98d3ffd77302065d4ba3b0493702c71fafb5f066146f66c26ba",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:7ec6ed4400b1514ec27905c8d9892df578e196d2a248a322b17a48234cd45bc0",
+          "render_variant_id": "character-runtime-render:2c485aac78d3c510b0576da8adde6f9f49e957591dbcf9a6352537d0719c2835",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_Main_Rinascita_2_12_73_8.wem",
+          "wem_sha256": "84d66aa204caddae0b5abd8f8f503a3927ed5db54bb73765ff894af21b1654d3"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:7c366ef734dc4b4aed1a1eb2a70ce518c55e17fbe5b71cb7fa843325f0a9dc21",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/11982/Actions!/1/Params/TalkItems/9",
+      "text_key": "Main_Rinascita_2_12_73_8",
+      "text_witness_sha256": {
+        "en": "b5df4de71ab63de3ffe9cfca55909d82fe55ec23e2c1dfb1944d73c46b63dcad",
+        "ja": "1792e8bce2b7309f40036c601a6920af1ce84bfc5f107dc76e15ece7c2d82d65",
+        "ko": "881d323acfed3bfaa451c66be49a35ff8704e22f5b1cefaab9dfea839beec9ce",
+        "zh": "c76e92c57ace542f46ca70f86cad8eb687634405175922491739c48dc578659a"
+      }
+    },
+    {
+      "record_class": "story_dialogue",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "f6a4d2a86328abc3421dc39022c7f2d2f014d35941f06654d9093cdbbc35d86c",
+          "duration_seconds": 7.336666666666667,
+          "energy_active_median_dbfs": -22.022683882716628,
+          "event_id": null,
+          "flac_sha256": "b289e67c3c8658c509fe5ddea3ea181b372310588290ff5d6d664884efaf716d",
+          "language": "en",
+          "media_identity": "story-media:048a71c885f98ddff27d1a395e10f495900f32f2d529db18e65a0a433ad5d0bc",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:8c74c4a1321b65a8fa94a4fb8bbdc8104c6a77a4f75bc909bb52d53457b1135c",
+          "render_variant_id": "character-runtime-render:fde8c23f4e7fd5e06d07348a8611600860cff0db7536e15ff40491a35e10c9bf",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/en_vo_HRT_Rinascita_Interludes_603_38.wem",
+          "wem_sha256": "0c0412ec6260460c14408d4acd7564a14c21f18cfcb930fc04bc47d5be565a04"
+        },
+        {
+          "canonical_pcm_sha256": "9dad620d79336a11df38b77acd2b6617a2a2852d8cf16a10eb0160656e28c5ab",
+          "duration_seconds": 12.873375,
+          "energy_active_median_dbfs": -21.214046675505806,
+          "event_id": null,
+          "flac_sha256": "1b46daf7cdb50e9978098f039eba792113b1f8c3cddea2c090149fae2b78141e",
+          "language": "ja",
+          "media_identity": "story-media:488825e6b0546d2701d79d14a8083f345c1c7b74d9ca504189c936400ed5a119",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:ce55242d8188b2ac6738b2bb2f1543996a97d020c1b0e49eb782c399b40a68fb",
+          "render_variant_id": "character-runtime-render:81ca2c4f0f0eb5b8c2bd220eeba9a9aa4b586acf11ff6621ea3aad0ddd2aeb17",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ja_vo_HRT_Rinascita_Interludes_603_38.wem",
+          "wem_sha256": "a39bca8863b0192d149a31895f709e51dc484b40e54f84a4aee6d66c32149e4f"
+        },
+        {
+          "canonical_pcm_sha256": "2357459e142b26693139fbfdf44cd297c0a7cdc1ec8835e67ece032f52e26ba9",
+          "duration_seconds": 11.275083333333333,
+          "energy_active_median_dbfs": -24.901397371304288,
+          "event_id": null,
+          "flac_sha256": "c52755060789f8dc63ccd85021c6cecc6d9e07ff7bbe8ebe3c4744669eda3353",
+          "language": "ko",
+          "media_identity": "story-media:bf5fa8248548597ea36288dd9441440b3cc41325d70ee8cca0aa2e663467292d",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:adf642ce5a80f7d096a0fc82479acc7b429eb2ad73d8f7392035c2ba315b10ec",
+          "render_variant_id": "character-runtime-render:8bf315cd00a3d6e4870dbdb7bc7be36838ffe38cece3727b7c230d0cae600c95",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/ko_vo_HRT_Rinascita_Interludes_603_38.wem",
+          "wem_sha256": "dca95b7efa87e8dda538d92550fde86811cf6642ab7abdcc71f6ce38be509518"
+        },
+        {
+          "canonical_pcm_sha256": "24c967acfa9396ff53e78b849e1317bf6c63892a9a15b359801c16f4bf84275c",
+          "duration_seconds": 11.111083333333333,
+          "energy_active_median_dbfs": -24.450859670430887,
+          "event_id": null,
+          "flac_sha256": "7fb0a5ba9049f604d3ecbf324bdf4701a4e08a51d5ff07ba32cb1fa38471cea4",
+          "language": "zh",
+          "media_identity": "story-media:e45a0a3efc67f338794df73c1ee1f76c2b35b1ef51c2fc97ce9b47b3b1c27f38",
+          "numeric_media_id": null,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:a198f8a54d0af79532543f07da091ff0951a429ce28f4c4e66434299aab2fce4",
+          "render_variant_id": "character-runtime-render:6ed4775b4459902601a84ba0936fc0a01d11fddfa44b0df8bfa4032531b8f718",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/WwiseExternalSource/zh_vo_HRT_Rinascita_Interludes_603_38.wem",
+          "wem_sha256": "46fba30463a46327f460b52016dca518782500e5caffe8c9e15e7960e9957644"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:9983d069b24d04221b71810e81dd0437b3cb3d7a8280b6a032b717a8c1c8529a",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/flowState/flowstate.json#/9932/Actions!/3/Params/TalkItems/34",
+      "text_key": "HRT_Rinascita_Interludes_603_38",
+      "text_witness_sha256": {
+        "en": "b2bddd958995f975a1e47b4bd326eac6dd018766c8edc3d9cdfd385ae9603440",
+        "ja": "365a735bbb9a33de88eab2862acca9a6aad196efcd00e5aa229e3db117b31667",
+        "ko": "55ca44d850afe984027ce1250469dba647d00db0c6b26bd2ad042f8db12ef1aa",
+        "zh": "8f811d436de34214d72e73c1eef06e5da0c8dc7fc73e75dde41da4b796fae119"
+      }
+    },
+    {
+      "record_class": "character_favor_archive",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "d0aef1faaf98df94bc104b7b2b631b70b41ea097d7473adec8e64d89134b95df",
+          "duration_seconds": 17.681875,
+          "energy_active_median_dbfs": -22.093192059607688,
+          "event_id": 2787181466,
+          "flac_sha256": "d9f596a458829be15f77a8587d3a24331c8b68bf7e1674d790f7f04653a7f098",
+          "language": "en",
+          "media_identity": null,
+          "numeric_media_id": 172878467,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 111.73824131771298,
+          "render_analysis_id": "character-voice-render:88cdc2087610719b0807dafec6d679999056075f7d9cae63a165b7add2d6592e",
+          "render_variant_id": "character-runtime-render:7ae1760d410dfc82908ed486574b0047010090c524cd08acb17e4d98b8113905",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/172878467.wem",
+          "wem_sha256": "85c6ffdb727f2f2ad07e9aee566ef2ff16e712c47033abb9a231c2ab1a3bb821"
+        },
+        {
+          "canonical_pcm_sha256": "b9a45b35ceb1afc194cd34dd5642b138d60f50b48fc3fd4b36e37eed4654983a",
+          "duration_seconds": 31.723479166666667,
+          "energy_active_median_dbfs": -20.758221105639958,
+          "event_id": 2787181466,
+          "flac_sha256": "38e51e813d919a099aa5c30047b71fa22c52c10686c03b2ee604bbeb6b0b3759",
+          "language": "ja",
+          "media_identity": null,
+          "numeric_media_id": 35879913,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:a3b246c6139150fffed00aad762f5dbc8cf09561816d7556d3f62239ca295a26",
+          "render_variant_id": "character-runtime-render:e0095819f53f61494f1792d9918a33b24ccb8ceda0927d868d58edc95e74f2e7",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/35879913.wem",
+          "wem_sha256": "e1afd800b4542bd08c036ba42df4805ef4b48e4be7b46b50129ed53134eaf3b2"
+        },
+        {
+          "canonical_pcm_sha256": "5338623724bc20fb407d013dd700f2d77354fa8b8f60c796a340b8b713d75c68",
+          "duration_seconds": 22.009520833333333,
+          "energy_active_median_dbfs": -22.618781028525966,
+          "event_id": 2787181466,
+          "flac_sha256": "24f733b0e123c4ff6610588ed2fb64e6a9a912007ceeb8d5d85c714e3bd4177e",
+          "language": "ko",
+          "media_identity": null,
+          "numeric_media_id": 772427339,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:27cb1b6dd14224101f1b231cf2ffb9e2d0f4fb8000677fa806cbfe3cdb19312b",
+          "render_variant_id": "character-runtime-render:c04e66cfd4d02b6211b262bd92cdf368f0893c7028cd199fb37a45e19665606a",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/772427339.wem",
+          "wem_sha256": "b6f9b7a90438dbf0cdba6772967fd6ad9f225e4582d0d141343d927473a01a87"
+        },
+        {
+          "canonical_pcm_sha256": "172860edc1487b076c4ca99ab8366dd6065496e2a161d635713617a685f77a91",
+          "duration_seconds": 20.28525,
+          "energy_active_median_dbfs": -23.814414624881252,
+          "event_id": 2787181466,
+          "flac_sha256": "623de09521e2729efa7bf7368d30e679ab7191c2ee4985c4703be747be817350",
+          "language": "zh",
+          "media_identity": null,
+          "numeric_media_id": 898051931,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:724c04c1a63d3a88904b2e1847a2bf11b26881621ce7146d08ae2796188d1946",
+          "render_variant_id": "character-runtime-render:5ccf361f934d4c9db39350844dc217987d288f591da5f85b50934a85eb4e6e47",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/898051931.wem",
+          "wem_sha256": "80c38da71ffe59cb0d2d07a7dff6e534aa6b8f2cd5bc96b5a65923974fee5dc6"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:50035bd0dcd5d7651bb609685c0aa7413e67238c08209621e55c75bd4b697ffc",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2628",
+      "text_key": "FavorWord_141106_Content",
+      "text_witness_sha256": {
+        "en": "a851312ee875937db00a2bd85d40e8c9b66c58f2eab20884365ed931210b10c4",
+        "ja": "4eac1e03773f14546727947d76583490736000db57ae8014b068aa373f5cb968",
+        "ko": "85baef02997749254f20f47c4c02842094148dc5b30bcc5dac481c5820b570c2",
+        "zh": "6829a5ca55c9de1830fee277d7590ea873c96e4362bd8b410bad3f29bb02ac34"
+      }
+    },
+    {
+      "record_class": "character_favor_archive",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "3c1410e7dd9c202eaa024d7465ac232404844e6f824338ea32078be471796883",
+          "duration_seconds": 21.6436875,
+          "energy_active_median_dbfs": -21.577011945347365,
+          "event_id": 3023437236,
+          "flac_sha256": "563ba8d57cc52d104c9b83432f36551ad3b56b12ff3e229d014ca0c4ef6c93a4",
+          "language": "en",
+          "media_identity": null,
+          "numeric_media_id": 895858987,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 113.52874787853844,
+          "render_analysis_id": "character-voice-render:3accad0cd520124b5da513de7eba109f2084fc9911432bd232a0f892b0c5a30f",
+          "render_variant_id": "character-runtime-render:2ab83b08e7b56b270945570385a2155ddc528a5994a442124b2880792b64bdd5",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/895858987.wem",
+          "wem_sha256": "f52c746418d0eb6eee6be075e52fe440496860da4a7738180fefac7cfdd714cc"
+        },
+        {
+          "canonical_pcm_sha256": "39036e152d624e93cdcdcc3089e1908c93240531d9bc6911252875fde1669f33",
+          "duration_seconds": 35.977333333333334,
+          "energy_active_median_dbfs": -20.67498725766153,
+          "event_id": 3023437236,
+          "flac_sha256": "de069ff14f2da0b49355ada2e2fa4d675759e3890dbe1125913e91e772925599",
+          "language": "ja",
+          "media_identity": null,
+          "numeric_media_id": 772556964,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:e0e68188c7b50bdafd206858ab947ee4e86713c777df248468f94617cdd6758e",
+          "render_variant_id": "character-runtime-render:83ecb9534608d0603c2ea59f93016be6ae5cc276de91f18313085b03a184346f",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/772556964.wem",
+          "wem_sha256": "78f8dcd9c1f59f3793ab871c91132be628e42c885b6b2510f98f483adbe26e78"
+        },
+        {
+          "canonical_pcm_sha256": "3b1d4898b49d7065766715578b855729c2919e42d9395ae643bbc8e4ab3ef226",
+          "duration_seconds": 29.8575625,
+          "energy_active_median_dbfs": -22.90476133951958,
+          "event_id": 3023437236,
+          "flac_sha256": "cef133d515fe43985030777b2597fcfbb76c7d305df0ed343598f95ff6a9ec3f",
+          "language": "ko",
+          "media_identity": null,
+          "numeric_media_id": 249075321,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:584f973f6a4133664f81119e6c7412c96553dc2db05516feee1d2ac15e361dcf",
+          "render_variant_id": "character-runtime-render:1d719177bd3871bf3eb44c9bc52b2ef22aad32d87ce6fbebf768f8a193282572",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/249075321.wem",
+          "wem_sha256": "1354e823a0c7e21916c490e7b1a7acb0a00307b7d4f33b6b3d0c94304b919b50"
+        },
+        {
+          "canonical_pcm_sha256": "087c7b7c0c3c5f1086c73e04050ef625c6d9baf6361b6525db9793a754af3ea6",
+          "duration_seconds": 23.021020833333335,
+          "energy_active_median_dbfs": -23.015039134762738,
+          "event_id": 3023437236,
+          "flac_sha256": "a4fa0cd83a0974833418d1f24aaf6de974589004bacd326139aa7110ecfa9f15",
+          "language": "zh",
+          "media_identity": null,
+          "numeric_media_id": 960884538,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:f19ea8911b874da599eccb88f246c10e6e1b772cdaf70cf2949165e4d9f20274",
+          "render_variant_id": "character-runtime-render:f2917075a90d84c84ed45f52c2488d566b5986705742f6a5def67253e62feeed",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/960884538.wem",
+          "wem_sha256": "d76af36c5eed680e360e984a615916503bd95dedf8a6762c03e6c6656ba964d3"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:5e0919c123f228053fb080eb51cb6f0a1081860e2ccf8c2a8f0d23ed75fc6de9",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2630",
+      "text_key": "FavorWord_141108_Content",
+      "text_witness_sha256": {
+        "en": "9d1ddb4d986dd5be836784aed0a83096567710e0c40276432874b37fb88cf920",
+        "ja": "fdb917c1e1699211f7db21611f5c4a9961fe65bf3b74691421000ba009e04553",
+        "ko": "7939cb6d1ef1d9644ae691781c33c3b0118aff65f6d8b14f2b89c5033eda2104",
+        "zh": "887810795edfa7475e92be7b39498362107f7a1c209244700d9c48c3cd0849e6"
+      }
+    },
+    {
+      "record_class": "character_favor_archive",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "fb938517edd6e005465022c7311facc984afb7bf69157557cbc21a2efacfadb4",
+          "duration_seconds": 28.252708333333334,
+          "energy_active_median_dbfs": -21.923114649090905,
+          "event_id": 729000074,
+          "flac_sha256": "90555dbf80edec6f4d120827e65e48c85b185775fd089830c5623f6a19453d85",
+          "language": "en",
+          "media_identity": null,
+          "numeric_media_id": 527648016,
+          "qc_flags": [],
+          "qualified_pitch_median_hz": 116.89325982197386,
+          "render_analysis_id": "character-voice-render:341f967ecdd05aa9e1ae1fb73f4fac798a8b2cfb212d0e0852499d8a09e5c067",
+          "render_variant_id": "character-runtime-render:a667b1b65ff5c627efb4ad58e1b96b0ff36c0d0300ad461aeb5c04646b5b9b93",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/527648016.wem",
+          "wem_sha256": "b9b06ec08981bebfcf9165f1c76d792698f056a4be172e22d74dd3bbd252a938"
+        },
+        {
+          "canonical_pcm_sha256": "dae4b38a6a824463e1e362c1bde53cb69c4262b77910bd3680e8093c06e21b87",
+          "duration_seconds": 29.0156875,
+          "energy_active_median_dbfs": -20.864713936787304,
+          "event_id": 729000074,
+          "flac_sha256": "7a28940e06ca315c55f645d83aec727b07a2770ff8a98e4156bd9f226f69e490",
+          "language": "ja",
+          "media_identity": null,
+          "numeric_media_id": 940723657,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:2804ac0dd186417db6de80c47eeb5028897a814bc366d10c2c4f2a235ce7d78a",
+          "render_variant_id": "character-runtime-render:a1f04c5dc3141b76c5c8e26120b8f9db8673fbd60b1882d89a35c360f277e3a2",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/940723657.wem",
+          "wem_sha256": "c9a4249755641bde5404929ca8b352cb344fbb7d18150e6befea3a28fbc195bf"
+        },
+        {
+          "canonical_pcm_sha256": "fab1ffd77163ed280649698a82e8806dcece4e5455f81f796f15fb6c93b0f59e",
+          "duration_seconds": 27.55345833333333,
+          "energy_active_median_dbfs": -21.939885774172367,
+          "event_id": 729000074,
+          "flac_sha256": "599b808ffed9253ff087463c8f7c888556ce69804e865bac2547d0244373f9a1",
+          "language": "ko",
+          "media_identity": null,
+          "numeric_media_id": 1024623098,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:2706a4e89504b742b545a45089ea25ea11bae62a082eadf46e7d0d80c5b22948",
+          "render_variant_id": "character-runtime-render:0316d1f58917058aaed4eef0fe6497dbe0bca04c6e1791a401e156eb1b664668",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/1024623098.wem",
+          "wem_sha256": "c1cd0699c6d2aed002ee571b6824623c9406ff4cb0151c01f2e443aece8ae427"
+        },
+        {
+          "canonical_pcm_sha256": "9a1dceadffc5e423d479e53eed40bc976cf71972399bea392e1a4bb95b9ff37c",
+          "duration_seconds": 27.2635625,
+          "energy_active_median_dbfs": -23.834219965456228,
+          "event_id": 729000074,
+          "flac_sha256": "36b7c05088fcb1544f6184e72c817262c133b023d28fd0fa951d70c27069ef30",
+          "language": "zh",
+          "media_identity": null,
+          "numeric_media_id": 867065768,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:3a6156bc6b0f0ee557d13c8b5bc9929ea63608b79e367b4d63903c2d13245212",
+          "render_variant_id": "character-runtime-render:8b88e3685554b657ebb93aa7c319ed410422b011a749ab5647a666277bbe706c",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/867065768.wem",
+          "wem_sha256": "741ee56a761d795a276ab3883903459bc46c9d4e02ba4d6f0a586004e1627085"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:583db1933b8764dee7977f44e76f9fc56aae0d5cdbe901af76b169655cc53799",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2632",
+      "text_key": "FavorWord_141110_Content",
+      "text_witness_sha256": {
+        "en": "8b4c56daa9c944977344ab19d1fdf171d1e3885d5131197fac8a5d99f81dfed6",
+        "ja": "2cf9ce015c3f65c1cfdd80c7ace5330b8bb971dce0e68c11d81cbbe6d643bfd5",
+        "ko": "0a8d83b4562235439d054808294acf990c8a82d8d4933cac4c3234cf5d4b6fae",
+        "zh": "b0d0bab124aac0dc70be0691a6a5e2592d74e160adfc8047cbadb886aef48350"
+      }
+    },
+    {
+      "record_class": "character_favor_archive",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "bca571662e7e6fc531e973f1a5b19640b2f9950decab04e67434f59bba163596",
+          "duration_seconds": 12.47,
+          "energy_active_median_dbfs": -22.904651962381934,
+          "event_id": 643494737,
+          "flac_sha256": "105d378c0e57819359c0a814b615d1e6fd8bd80a09ba0a0ea4208052ae9378ca",
+          "language": "en",
+          "media_identity": null,
+          "numeric_media_id": 419370034,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:adcdc4ee08e487a1c7f3cbc2ad3862b8aba6a75c038b66b9fb8c6f7518ade83b",
+          "render_variant_id": "character-runtime-render:97667521887aad93dd4e431c36508722d497dc95451b6e6a86f28b631a0d5ed6",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/419370034.wem",
+          "wem_sha256": "834536182a0f61405f4ffcb71f3bcb86985b377ba7a7e03db4c063e461ad0812"
+        },
+        {
+          "canonical_pcm_sha256": "99947771a5b21a1f599b99a959da2da4168ee352c82f2662de18fd2dae6d488e",
+          "duration_seconds": 12.854375,
+          "energy_active_median_dbfs": -21.533336923295053,
+          "event_id": 643494737,
+          "flac_sha256": "cc83a472e97287bb211baa62405d47662d8ec1f49721b5b1429a38bdcc0495bd",
+          "language": "ja",
+          "media_identity": null,
+          "numeric_media_id": 733894488,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:3bf54047920cdce2f644c1ca8be128ac26f23048f049f1918036f846b9defb1d",
+          "render_variant_id": "character-runtime-render:b8e8a3e109894bb1f009d9ef3e1d96935b66e5ed7a68aed62a209c0abbdedb69",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/733894488.wem",
+          "wem_sha256": "375d73392fc6dc69dee4bcdf465e2baf8e1d9b7703ff0f72a3caf5275d261086"
+        },
+        {
+          "canonical_pcm_sha256": "38f787299f58620bdd01b8da493a3f1462dcc25da7fb4eadc296e983c26da3b8",
+          "duration_seconds": 12.61975,
+          "energy_active_median_dbfs": -21.95590772509479,
+          "event_id": 643494737,
+          "flac_sha256": "dc772ee0d17f34297e8f89f1b698975c5e3e0fed6888f4964c91bedd2c3b3e5f",
+          "language": "ko",
+          "media_identity": null,
+          "numeric_media_id": 819503939,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:4eab9222734db17c9620e6687a1fac3d0a4d8afff9f7c1c1a6677a49883f44a8",
+          "render_variant_id": "character-runtime-render:695a57bdf48b27d9048b040aeaa09a2c2641e494eb3fa88055b37d5c9271c64d",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/819503939.wem",
+          "wem_sha256": "cbbfa1bc0d9c1be4c82b46da7cc86457e8b1005249b2e4e4510987b7985c7cbf"
+        },
+        {
+          "canonical_pcm_sha256": "5728179f167efa81e265782ecf75731b8234f5f0f538069fb999f2f1f00898c9",
+          "duration_seconds": 12.7570625,
+          "energy_active_median_dbfs": -23.90642116560572,
+          "event_id": 643494737,
+          "flac_sha256": "43989dc7742221c61b489be2844668391ebe4dab02f0405254c746e798eea597",
+          "language": "zh",
+          "media_identity": null,
+          "numeric_media_id": 1016180321,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:b61e9c8e5836e07d83a570a667e4eb1b230169f4db19b63904138f2d73f420f6",
+          "render_variant_id": "character-runtime-render:b430f74203dad1241dac5937906eb6d04d79f94c633060ae2289c47c7f1a92d8",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/1016180321.wem",
+          "wem_sha256": "8177fd6db70a06b86838731ea6718ddfc5bfef6399919bba7c9b2e1e64296a6a"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:be9de843fc61fbec370311527e280f7e8d7a71732eca390ada1330873aca7a42",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2634",
+      "text_key": "FavorWord_141112_Content",
+      "text_witness_sha256": {
+        "en": "f2cb1356205485504e46ee652f0e89a2602b829edb8cc515da3446975e5ee6b2",
+        "ja": "edffc9e86a20dacd09a31eb46cd37db303b8aa5121a7c973ee56115f80aa2601",
+        "ko": "5abbdf0b6f0a3394cfa424cb506203cbc695a8aaf43436d08c36d2dc439770d0",
+        "zh": "ec0dfe2cd2e94fe1edae895dc5cd837aaefd877c25e35de7b3ea3130cd816726"
+      }
+    },
+    {
+      "record_class": "character_favor_archive",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "9a0dd013fe0c5c9970d08c5a7c77b0cbbe454a0fa30810a628bf3b20123f9b50",
+          "duration_seconds": 2.9095833333333334,
+          "energy_active_median_dbfs": -22.701288829122376,
+          "event_id": 2155782530,
+          "flac_sha256": "4c6fa9bab633a81f268f20a5d4edb81f0a62380eb4e11b71688a22d810de3974",
+          "language": "en",
+          "media_identity": null,
+          "numeric_media_id": 166037555,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:fa25c2fdd348aace249604e958ceca207700679b19f5974c2f511e2b5cffe59d",
+          "render_variant_id": "character-runtime-render:8b87c12cbf69e2b99cf6c80d5b668e5d6b0a0694c0bb37a9ea6d0281fb0fb71b",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/166037555.wem",
+          "wem_sha256": "c93bccaa3cb3d3013dfa4de6848dd2edab144595df46c17061f2198cc66dd816"
+        },
+        {
+          "canonical_pcm_sha256": "9f9c80fe1fdb5d3cba5fd176fdae3598308f154532b8f631c31253fe8c04750a",
+          "duration_seconds": 5.589854166666667,
+          "energy_active_median_dbfs": -22.503039192243254,
+          "event_id": 2155782530,
+          "flac_sha256": "1e8270e3334527c9233a6cd63c1dad7163c71dced0561a5015ffc66c40ce1390",
+          "language": "ja",
+          "media_identity": null,
+          "numeric_media_id": 111346718,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:6c27b9dd7344c4b5f75894e6f87007256809423d78875303c3df530f39e57ac8",
+          "render_variant_id": "character-runtime-render:00475741ee6dab1174985f9970bb14e44be9bb523603fbdd09897cf1af8b9ca8",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/111346718.wem",
+          "wem_sha256": "17e0eb7210975668cdf69f508a7eb2ff36d62cbe91dda945422c8d65e6ccec82"
+        },
+        {
+          "canonical_pcm_sha256": "d18f302aa714e1e0736b943fe71f9ce31d73cee2278de91c638c460ab642d628",
+          "duration_seconds": 4.565875,
+          "energy_active_median_dbfs": -21.240651430872788,
+          "event_id": 2155782530,
+          "flac_sha256": "c8ddf7f92eb053559988b5f6a68541c76fd77272edc2c9e0bff246a079edc820",
+          "language": "ko",
+          "media_identity": null,
+          "numeric_media_id": 1029028230,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:f155c35c411ed9552cf602131f3d1fd4b813592b3c335a80fcb1553b1e502271",
+          "render_variant_id": "character-runtime-render:45e1911c7e3021121713d72e893c619c36814c1e6202e9ee119ff390e65a8d88",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/1029028230.wem",
+          "wem_sha256": "c46ca63a907ee8f3eec2fcde310047b83fdd19da01dce7fc181da0d0b2c50e3e"
+        },
+        {
+          "canonical_pcm_sha256": "99b51c9d9af98bd79114db3ba7a998f3d735dc08200765b834e27608f7ec57cc",
+          "duration_seconds": 2.7199166666666668,
+          "energy_active_median_dbfs": -22.268309917392667,
+          "event_id": 2155782530,
+          "flac_sha256": "41430d5c86754652b612732739cc6185df36960590e950fa8bea75bf034951cd",
+          "language": "zh",
+          "media_identity": null,
+          "numeric_media_id": 408633338,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:ca78cd558eeafa870005fa5e011adcdb01471f551b41f31461809efb00bae288",
+          "render_variant_id": "character-runtime-render:09958bc6b71152b4573f1ff2476cd630aa9d03eff2819999dec8866005210e60",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/408633338.wem",
+          "wem_sha256": "f89533b14107b56c4553e6a948538103ba5ada27519e564dcf3127b85b5e0c58"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:2a32fdd20e1db52152ff61f1cbd6903097e7d9ea4abfcc74eb3c4ec377bc7dbf",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2650",
+      "text_key": "FavorWord_141128_Content",
+      "text_witness_sha256": {
+        "en": "79d33efcbd580bd33350aa3234c3a24b841835819dd04f8dc3a7a543b3f44fe6",
+        "ja": "b4e7c6a3f954f24366777ba00492a5bb0aaa6756829108f72f5b01d837e07e93",
+        "ko": "f9e75544d99efe097d562403a46b3033ee296e7a514c79850ef4a5a81320091e",
+        "zh": "3ba3d9726e1be9076994741dbb649ad2686a8d2c17757af138ddc98117c0f6eb"
+      }
+    },
+    {
+      "record_class": "character_favor_archive",
+      "renders": [
+        {
+          "canonical_pcm_sha256": "d3ca2bba06e99993589a80c4bcca5a67447c1bbd65143b76693978350d2887bb",
+          "duration_seconds": 25.728708333333334,
+          "energy_active_median_dbfs": -22.399564610774554,
+          "event_id": 2155782533,
+          "flac_sha256": "e1a925b5f648db462cc1cabef69bc81bb2d3c71ad941e68dba20a34538415002",
+          "language": "en",
+          "media_identity": null,
+          "numeric_media_id": 876908753,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:b3bcb1d529fd5dae85e3adb16043b30580595fc93dc8210c3f854884037b43f5",
+          "render_variant_id": "character-runtime-render:7125166e4f5f4e138fbe5cef5d453d6450605ad6aaa4befe07abec514c110bdb",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/876908753.wem",
+          "wem_sha256": "15ab7e3203ccb7c0d4720681fc96d6a9c4d51d4d5fc9d84241a78dd6a4881fcb"
+        },
+        {
+          "canonical_pcm_sha256": "5eb52337f303fcced3ceb8a655d8694b40eb6119bcc74c411cac0f0cd2bd6fab",
+          "duration_seconds": 34.241375,
+          "energy_active_median_dbfs": -21.734758832725234,
+          "event_id": 2155782533,
+          "flac_sha256": "77c5d29b9129d8bb49d956eaf24c474c0570c3655acbfc2e1c3380e9d4a267d1",
+          "language": "ja",
+          "media_identity": null,
+          "numeric_media_id": 553653047,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:5b019e1f0d88f35e0ab7744db26a797b6d6378fc2a8a8bb69450bb071db4fc0e",
+          "render_variant_id": "character-runtime-render:18b42a08413eebfdafecef9ea623faf8ccd7d5241d020aba8f8cec390e292516",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/553653047.wem",
+          "wem_sha256": "fcbc11004f75a36b0c753dd7721706a4e5e2376c4d0ec28fd664b27496b4f41d"
+        },
+        {
+          "canonical_pcm_sha256": "dcf77dc63914c844853b41c80d7dab753edf19b9e0241ba30adc5fa447fce970",
+          "duration_seconds": 21.158958333333334,
+          "energy_active_median_dbfs": -22.388676041743278,
+          "event_id": 2155782533,
+          "flac_sha256": "ffe9bb9103a2917b32e32c20f83c7b5bb5fc2fe79358f55d4d4fddb798d432bc",
+          "language": "ko",
+          "media_identity": null,
+          "numeric_media_id": 219219587,
+          "qc_flags": [
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:7e428a6b86e27b47d16157f439b792d3deec65ca6bc89b36ed866c70d489576a",
+          "render_variant_id": "character-runtime-render:98f6fbd5697a68ecff6445d4c5a642f6e55aa9883301db4ae24ba4cafe6e939d",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/219219587.wem",
+          "wem_sha256": "abf50f61530733dec061f1c8316a42643e01d00889e7d1140fc7add39b825a26"
+        },
+        {
+          "canonical_pcm_sha256": "2d5b47607c130575841d287892aa4dab75d545cde6050da2b792ef160419df02",
+          "duration_seconds": 25.860375,
+          "energy_active_median_dbfs": -23.54776343099875,
+          "event_id": 2155782533,
+          "flac_sha256": "cafe324a5c75185d60259d014ad77a369dec80c2785198ac7debf57c911416a9",
+          "language": "zh",
+          "media_identity": null,
+          "numeric_media_id": 253040877,
+          "qc_flags": [
+            "pitch_parameter_sensitive",
+            "pitch_edge_band_frequent"
+          ],
+          "qualified_pitch_median_hz": null,
+          "render_analysis_id": "character-voice-render:17d89390e65d20591a370b1b5899671d3eba966c46a5ac1011eacb214fe84bf4",
+          "render_variant_id": "character-runtime-render:bc73aa2f99d6281e583eb7fcd24f63adebb24eb6270eb46b62ed8c6e28dd4a9d",
+          "source_virtual_path": "Client/Content/Aki/WwiseAudio_Generated/Media/253040877.wem",
+          "wem_sha256": "34012b4e5383bc8ab1f54ed53e3a3d6c4be324fddf703ca2630253be12b8c930"
+        }
+      ],
+      "semantic_voice_occurrence_id": "voice-occurrence:ed0e40a44202d284c3747111874a76b9fe2f835f5d1d1c6ae01914bbc59a13ec",
+      "source_locator": "wuwa://353f2eaed119bc9f680eab92807d20ac75a79b40/BinData/favor/favorword.json#/2653",
+      "text_key": "FavorWord_141131_Content",
+      "text_witness_sha256": {
+        "en": "de630749ce255e3381fadb592220f5afb491f9c30deeaf489f96159c5be3d7a7",
+        "ja": "df0dd483ab4f58c6842446913e2bfbcfde918cc9fc054dc3d0d81d28e9fefc62",
+        "ko": "01cc5452129271e2724b18798d554a8f12e5bd087b2ecc621543673610a68b0b",
+        "zh": "13be39d7e6f91984cd02f599d1bcf3ddf0ba84b0d4032966147bf734da0ae59d"
+      }
+    }
+  ],
+  "interpretive_boundary": "Matched source identity and signal values only; language length, context, stem mixing, and QC forbid simple emotion/actor inference.",
+  "method": "Sigrika waveform analyzer via analyze_character_audio.py; source-key selection; no listening",
+  "schema_version": "wuwa.character-matched-audio-cases.v0.1",
+  "selected_text_keys": [
+    "HRT_Rinascita_Interludes_2_24",
+    "HRT_Rinascita_Interludes_4051_16",
+    "HRT_Rinascita_Interludes_404_27",
+    "HRT_Rinascita_Interludes_406_43",
+    "Main_Rinascita_2_12_904_28",
+    "Main_Rinascita_2_12_44_12",
+    "Main_Rinascita_2_12_73_8",
+    "HRT_Rinascita_Interludes_603_38",
+    "FavorWord_141106_Content",
+    "FavorWord_141108_Content",
+    "FavorWord_141110_Content",
+    "FavorWord_141112_Content",
+    "FavorWord_141128_Content",
+    "FavorWord_141131_Content"
+  ],
+  "semantic_cases": 14
+}

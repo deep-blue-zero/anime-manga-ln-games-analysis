@@ -1,0 +1,1041 @@
+{
+  "schema": "konosuba.cohort47.native-provenance.v1",
+  "authored_utc": "2026-10-25T11:48:54.500318+00:00",
+  "source_authority": "Locally stored fixed41known KonoSuba EPUB corpus; source media remain outside Git.",
+  "sources": [
+    {
+      "source_id": "MAIN-01",
+      "bytes": 7058492,
+      "sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+      "opf": "item/standard.opf",
+      "spine_entries": 26
+    },
+    {
+      "source_id": "MAIN-02",
+      "bytes": 6872479,
+      "sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "opf": "item/standard.opf",
+      "spine_entries": 27
+    },
+    {
+      "source_id": "MAIN-06",
+      "bytes": 2529639,
+      "sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "opf": "item/standard.opf",
+      "spine_entries": 29
+    },
+    {
+      "source_id": "MAIN-11",
+      "bytes": 6177663,
+      "sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "opf": "item/standard.opf",
+      "spine_entries": 24
+    },
+    {
+      "source_id": "MAIN-03",
+      "bytes": 3497582,
+      "sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+      "opf": "item/standard.opf",
+      "spine_entries": 31
+    },
+    {
+      "source_id": "MAIN-04",
+      "bytes": 3907671,
+      "sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "opf": "item/standard.opf",
+      "spine_entries": 32
+    },
+    {
+      "source_id": "MAIN-05",
+      "bytes": 14376279,
+      "sha256": "57d8b5f8703bc026c5ad12a7ff1408d7715906d3a6c6471c160fc342ac15e717",
+      "opf": "item/standard.opf",
+      "spine_entries": 35
+    },
+    {
+      "source_id": "MAIN-08",
+      "bytes": 2964798,
+      "sha256": "ade837cb614f6a8548b639c96066405b36da60819b5522cf51c6bf22f998920e",
+      "opf": "content.opf",
+      "spine_entries": 26
+    },
+    {
+      "source_id": "MAIN-09",
+      "bytes": 3086699,
+      "sha256": "a81499cd61dda060503d35d68db71c2bdc9e12e782412cf3724bca25a7f28f0e",
+      "opf": "OEBPS/content.opf",
+      "spine_entries": 29
+    },
+    {
+      "source_id": "MAIN-10",
+      "bytes": 1630298,
+      "sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "opf": "content.opf",
+      "spine_entries": 24
+    },
+    {
+      "source_id": "MAIN-13",
+      "bytes": 2779947,
+      "sha256": "20c39c98d0d7568f4b66c612b6fba6771566b97b32114c087a4c447ac5dc676b",
+      "opf": "content.opf",
+      "spine_entries": 24
+    },
+    {
+      "source_id": "MAIN-14",
+      "bytes": 2839172,
+      "sha256": "33974aca1f7cf045007f69846c13a0071c94560d4191399798b3c79057627463",
+      "opf": "OEBPS/content.opf",
+      "spine_entries": 26
+    },
+    {
+      "source_id": "MAIN-15",
+      "bytes": 2513225,
+      "sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "opf": "OEBPS/content.opf",
+      "spine_entries": 25
+    },
+    {
+      "source_id": "MAIN-17",
+      "bytes": 2197695,
+      "sha256": "5a7864c555955fc1536091c3ced10114b9cd521883236a2d016b074cafc1819c",
+      "opf": "content.opf",
+      "spine_entries": 20
+    },
+    {
+      "source_id": "DUST-01",
+      "bytes": 19450953,
+      "sha256": "b77ac48f67168395c1437f23b2360f1a833311aba5a8d7177866a93d572c3644",
+      "opf": "item/standard.opf",
+      "spine_entries": 24
+    },
+    {
+      "source_id": "DUST-02",
+      "bytes": 18886514,
+      "sha256": "4dfbfdde2052cf435d1d843d8127c3fa4139c046b3abddd34ab63bfd3dda531f",
+      "opf": "item/standard.opf",
+      "spine_entries": 22
+    },
+    {
+      "source_id": "DUST-03",
+      "bytes": 18686443,
+      "sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "opf": "item/standard.opf",
+      "spine_entries": 24
+    },
+    {
+      "source_id": "DUST-05",
+      "bytes": 6713820,
+      "sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "opf": "item/standard.opf",
+      "spine_entries": 18
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "bytes": 2412289,
+      "sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "opf": "OEBPS/content.opf",
+      "spine_entries": 35
+    },
+    {
+      "source_id": "MASK",
+      "bytes": 2895671,
+      "sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "opf": "content.opf",
+      "spine_entries": 29
+    },
+    {
+      "source_id": "FD",
+      "bytes": 5358777,
+      "sha256": "a589a1dcfc9221433ab9969f7dc7fcd9e70931fcce83d01d93b78bb8384b7bde",
+      "opf": "item/standard.opf",
+      "spine_entries": 24
+    },
+    {
+      "source_id": "YORI-01",
+      "bytes": 2395940,
+      "sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+      "opf": "content.opf",
+      "spine_entries": 32
+    },
+    {
+      "source_id": "YORI-02",
+      "bytes": 9172954,
+      "sha256": "f7b9051a4f2bea3033eea528477d4cc80cfdebe214d51d0764a3cf1eef352baf",
+      "opf": "item/standard.opf",
+      "spine_entries": 34
+    },
+    {
+      "source_id": "YORI-04",
+      "bytes": 10437818,
+      "sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "opf": "item/standard.opf",
+      "spine_entries": 25
+    }
+  ],
+  "native_members": [
+    {
+      "source_id": "MAIN-01",
+      "component_id": "MAIN-01-U013",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "2453f0cd8580a2f299b23771b832fe00f9dd65fb70fae3e227e67d6ee4d16912",
+      "native_member_bytes": 90529,
+      "paragraph_slots": 161,
+      "ruby_occurrences": 151,
+      "received_P_ranges": [
+        [
+          1,
+          161
+        ]
+      ],
+      "received_unique_P": 161,
+      "complete_paragraph_ruby_member": true,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-02",
+      "component_id": "MAIN-02-U014",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "7268a1d8b5972c66f75702df309122c08f11ad5ab38a9f34ae17c7a4079728ce",
+      "native_member_bytes": 401153,
+      "paragraph_slots": 746,
+      "ruby_occurrences": 673,
+      "received_P_ranges": [
+        [
+          1,
+          746
+        ]
+      ],
+      "received_unique_P": 746,
+      "complete_paragraph_ruby_member": true,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-02",
+      "component_id": "MAIN-02-U015",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "1f890672c69ee66dd3e129ce26522eb5b75da23d61748e31d4b9f26faaacb233",
+      "native_member_bytes": 225576,
+      "paragraph_slots": 401,
+      "ruby_occurrences": 394,
+      "received_P_ranges": [
+        [
+          1,
+          401
+        ]
+      ],
+      "received_unique_P": 401,
+      "complete_paragraph_ruby_member": true,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-02",
+      "component_id": "MAIN-02-U018",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "e417b489afea854437f92653f79b1853131a149e9da771a0d51bd3c83bc6505b",
+      "native_member_bytes": 376809,
+      "paragraph_slots": 659,
+      "ruby_occurrences": 57,
+      "received_P_ranges": [
+        [
+          128,
+          136
+        ],
+        [
+          225,
+          275
+        ]
+      ],
+      "received_unique_P": 60,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-06",
+      "component_id": "MAIN-06-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+      "native_member_bytes": 374623,
+      "paragraph_slots": 640,
+      "ruby_occurrences": 177,
+      "received_P_ranges": [
+        [
+          320,
+          380
+        ],
+        [
+          430,
+          515
+        ]
+      ],
+      "received_unique_P": 147,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-06",
+      "component_id": "MAIN-06-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+      "native_member_bytes": 365011,
+      "paragraph_slots": 637,
+      "ruby_occurrences": 89,
+      "received_P_ranges": [
+        [
+          69,
+          77
+        ],
+        [
+          520,
+          637
+        ]
+      ],
+      "received_unique_P": 127,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-06",
+      "component_id": "MAIN-06-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da",
+      "native_member_bytes": 28301,
+      "paragraph_slots": 46,
+      "ruby_occurrences": 47,
+      "received_P_ranges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "received_unique_P": 46,
+      "complete_paragraph_ruby_member": true,
+      "access": "FICTIONAL_ALDARP_FOCALIZED_INTERLUDE"
+    },
+    {
+      "source_id": "MAIN-11",
+      "component_id": "MAIN-11-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "native_member_bytes": 102644,
+      "paragraph_slots": 633,
+      "ruby_occurrences": 624,
+      "received_P_ranges": [
+        [
+          1,
+          633
+        ]
+      ],
+      "received_unique_P": 633,
+      "complete_paragraph_ruby_member": true,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-03",
+      "component_id": "MAIN-03-U017",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+      "native_member_bytes": 335059,
+      "paragraph_slots": 638,
+      "ruby_occurrences": 13,
+      "received_P_ranges": [
+        [
+          480,
+          488
+        ],
+        [
+          495,
+          504
+        ]
+      ],
+      "received_unique_P": 19,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-03",
+      "component_id": "MAIN-03-U022",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "ac244690fc839022d10c840d5a9c563de5b03ae837bd1aa556654a0660d8fd37",
+      "native_member_bytes": 435914,
+      "paragraph_slots": 694,
+      "ruby_occurrences": 17,
+      "received_P_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "received_unique_P": 25,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-04",
+      "component_id": "MAIN-04-U015",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a",
+      "native_member_bytes": 282312,
+      "paragraph_slots": 505,
+      "ruby_occurrences": 12,
+      "received_P_ranges": [
+        [
+          343,
+          351
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-05",
+      "component_id": "MAIN-05-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "native_member_bytes": 131049,
+      "paragraph_slots": 257,
+      "ruby_occurrences": 9,
+      "received_P_ranges": [
+        [
+          235,
+          243
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-05",
+      "component_id": "MAIN-05-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "native_member_bytes": 342293,
+      "paragraph_slots": 630,
+      "ruby_occurrences": 6,
+      "received_P_ranges": [
+        [
+          416,
+          424
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-06",
+      "component_id": "MAIN-06-U011",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "4c0dda5f959a842535151fc020e520fc5cd83a87707862283e94b3286225d3a9",
+      "native_member_bytes": 6228,
+      "paragraph_slots": 20,
+      "ruby_occurrences": 8,
+      "received_P_ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "received_unique_P": 20,
+      "complete_paragraph_ruby_member": true,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-06",
+      "component_id": "MAIN-06-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+      "native_member_bytes": 323267,
+      "paragraph_slots": 614,
+      "ruby_occurrences": 7,
+      "received_P_ranges": [
+        [
+          512,
+          520
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-08",
+      "component_id": "MAIN-08-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "b73a55a1f83e4398f9ded7d5db30a0d83cd9a89bbeedb00dd3c1ac6a88de9874",
+      "native_member_bytes": 84853,
+      "paragraph_slots": 452,
+      "ruby_occurrences": 34,
+      "received_P_ranges": [
+        [
+          30,
+          65
+        ]
+      ],
+      "received_unique_P": 36,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-08",
+      "component_id": "MAIN-08-U013",
+      "member": "text/part0011.html",
+      "member_sha256": "3bae2777b371ccbd101c49a54b0dc5bcff8c6b966e354a741e0e2221bf3f9e98",
+      "native_member_bytes": 94039,
+      "paragraph_slots": 498,
+      "ruby_occurrences": 9,
+      "received_P_ranges": [
+        [
+          8,
+          16
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-09",
+      "component_id": "MAIN-09-U013",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "1d602906d9534cf85e45adabcd62bb5bc2193125567195698ce0e9768eebc125",
+      "native_member_bytes": 103066,
+      "paragraph_slots": 658,
+      "ruby_occurrences": 16,
+      "received_P_ranges": [
+        [
+          284,
+          292
+        ],
+        [
+          393,
+          401
+        ]
+      ],
+      "received_unique_P": 18,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-10",
+      "component_id": "MAIN-10-U014",
+      "member": "text/part0012.html",
+      "member_sha256": "e4f5bfc08389098f75ec9b8773b1d03e70066bb827f36b5a167b30aedb6c5098",
+      "native_member_bytes": 116907,
+      "paragraph_slots": 699,
+      "ruby_occurrences": 18,
+      "received_P_ranges": [
+        [
+          610,
+          640
+        ]
+      ],
+      "received_unique_P": 31,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-10",
+      "component_id": "MAIN-10-U016",
+      "member": "text/part0014.html",
+      "member_sha256": "ac05d3d4d196b00fe8cf2cee20d9c9e55d580a46bb9a3870aeeb3a53e68e99cd",
+      "native_member_bytes": 124364,
+      "paragraph_slots": 758,
+      "ruby_occurrences": 23,
+      "received_P_ranges": [
+        [
+          730,
+          758
+        ]
+      ],
+      "received_unique_P": 29,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-11",
+      "component_id": "MAIN-11-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "ea07ae3ecd06688a9df16a05d8bc98ff53a644ab013cc30d79bb67a727f4da9b",
+      "native_member_bytes": 92240,
+      "paragraph_slots": 580,
+      "ruby_occurrences": 22,
+      "received_P_ranges": [
+        [
+          230,
+          255
+        ]
+      ],
+      "received_unique_P": 26,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-13",
+      "component_id": "MAIN-13-U016",
+      "member": "text/part0014.html",
+      "member_sha256": "fc3416a3a5c0dd4f6eb16037b4d9518da6cfc3b94f9a6a8f4572b8b53747bf8a",
+      "native_member_bytes": 85696,
+      "paragraph_slots": 470,
+      "ruby_occurrences": 47,
+      "received_P_ranges": [
+        [
+          310,
+          330
+        ],
+        [
+          432,
+          440
+        ],
+        [
+          455,
+          466
+        ]
+      ],
+      "received_unique_P": 42,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-14",
+      "component_id": "MAIN-14-U012",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "10ed143a5cf74a48533cc4d858b92143cdc2464a197dff54189122b7ebc6119c",
+      "native_member_bytes": 66610,
+      "paragraph_slots": 418,
+      "ruby_occurrences": 11,
+      "received_P_ranges": [
+        [
+          3,
+          11
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-15",
+      "component_id": "MAIN-15-U012",
+      "member": "OEBPS/Text/part0010.xhtml",
+      "member_sha256": "bcaec8c676903062bac507f7f1a94174142c8f32669171a31fd943e2a497985e",
+      "native_member_bytes": 69182,
+      "paragraph_slots": 505,
+      "ruby_occurrences": 4,
+      "received_P_ranges": [
+        [
+          85,
+          93
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-15",
+      "component_id": "MAIN-15-U013",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33",
+      "native_member_bytes": 145103,
+      "paragraph_slots": 958,
+      "ruby_occurrences": 18,
+      "received_P_ranges": [
+        [
+          776,
+          789
+        ]
+      ],
+      "received_unique_P": 14,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-15",
+      "component_id": "MAIN-15-U015",
+      "member": "OEBPS/Text/part0013.xhtml",
+      "member_sha256": "4afb3b30d1e3b61fcc63dd4f9b75ccdc86dc588a360466eb826f33e4a020f3bd",
+      "native_member_bytes": 75618,
+      "paragraph_slots": 520,
+      "ruby_occurrences": 11,
+      "received_P_ranges": [
+        [
+          176,
+          185
+        ]
+      ],
+      "received_unique_P": 10,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-15",
+      "component_id": "MAIN-15-U016",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "62264c946d696bf76f8157315c0afc387761798f1c3bf565a5aaf9b05f272203",
+      "native_member_bytes": 49870,
+      "paragraph_slots": 373,
+      "ruby_occurrences": 8,
+      "received_P_ranges": [
+        [
+          288,
+          296
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U011",
+      "member": "text/part0009.html",
+      "member_sha256": "8d1d0017ca714c02613753f0a7811f0cd7d1ee3e7691cff5029765548338f90a",
+      "native_member_bytes": 106774,
+      "paragraph_slots": 591,
+      "ruby_occurrences": 193,
+      "received_P_ranges": [
+        [
+          1,
+          180
+        ]
+      ],
+      "received_unique_P": 180,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MAIN-17",
+      "component_id": "MAIN-17-U013",
+      "member": "text/part0011.html",
+      "member_sha256": "bc9d7f4f238f0c0d8512bb29dc071d3f24ddcf7bb0c6e9cf7891ea66ad8e310e",
+      "native_member_bytes": 102051,
+      "paragraph_slots": 560,
+      "ruby_occurrences": 10,
+      "received_P_ranges": [
+        [
+          161,
+          169
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "DUST-01",
+      "component_id": "DUST-01-U017",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "84be1ec954a42fd9ec7e2bfff0bf1d06101659f844c63014c16bcd5d19b5deb7",
+      "native_member_bytes": 126004,
+      "paragraph_slots": 801,
+      "ruby_occurrences": 90,
+      "received_P_ranges": [
+        [
+          335,
+          365
+        ],
+        [
+          585,
+          615
+        ],
+        [
+          634,
+          642
+        ]
+      ],
+      "received_unique_P": 71,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "DUST-02",
+      "component_id": "DUST-02-U015",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "389566bf26a458387cf1ed061d5281a71848946948a2a55f69f258f9fcb5eca2",
+      "native_member_bytes": 78694,
+      "paragraph_slots": 555,
+      "ruby_occurrences": 6,
+      "received_P_ranges": [
+        [
+          371,
+          379
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "DUST-03",
+      "component_id": "DUST-03-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "native_member_bytes": 141944,
+      "paragraph_slots": 913,
+      "ruby_occurrences": 132,
+      "received_P_ranges": [
+        [
+          1,
+          45
+        ],
+        [
+          390,
+          415
+        ],
+        [
+          505,
+          540
+        ]
+      ],
+      "received_unique_P": 107,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "DUST-05",
+      "component_id": "DUST-05-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "58e011cc5bf1cfa62c029c94524c948c18b5681d293d9d9880ce14e79962b5f3",
+      "native_member_bytes": 100010,
+      "paragraph_slots": 637,
+      "ruby_occurrences": 8,
+      "received_P_ranges": [
+        [
+          381,
+          389
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "DUST-05",
+      "component_id": "DUST-05-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "native_member_bytes": 108316,
+      "paragraph_slots": 723,
+      "ruby_occurrences": 13,
+      "received_P_ranges": [
+        [
+          497,
+          505
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "CONTEXP-02",
+      "component_id": "CONTEXP-02-U016",
+      "member": "OEBPS/Text/part0014.xhtml",
+      "member_sha256": "980106fc3a72fab31bb3cf3b5d7e849c678bd37b1f0151dac1711308f79bcc76",
+      "native_member_bytes": 76433,
+      "paragraph_slots": 485,
+      "ruby_occurrences": 8,
+      "received_P_ranges": [
+        [
+          379,
+          387
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "MASK",
+      "component_id": "MASK-U017",
+      "member": "text/part0015.html",
+      "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+      "native_member_bytes": 104089,
+      "paragraph_slots": 587,
+      "ruby_occurrences": 17,
+      "received_P_ranges": [
+        [
+          515,
+          545
+        ]
+      ],
+      "received_unique_P": 31,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "FD",
+      "component_id": "FD-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "91be06290b393ab66b0341e1f34ff0b80d3903d575b54514d2deec136d6d1529",
+      "native_member_bytes": 74028,
+      "paragraph_slots": 620,
+      "ruby_occurrences": 0,
+      "received_P_ranges": [
+        [
+          370,
+          378
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U012",
+      "member": "text/part0010.html",
+      "member_sha256": "d4cf22b19da44890c01c8afcd571058a94f672c0598c1ad4962b00cf5c21666f",
+      "native_member_bytes": 66587,
+      "paragraph_slots": 336,
+      "ruby_occurrences": 10,
+      "received_P_ranges": [
+        [
+          304,
+          312
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "YORI-01",
+      "component_id": "YORI-01-U016",
+      "member": "text/part0014.html",
+      "member_sha256": "a30ebfe41332c78ffa76d99a952911f15f7bc77daf58887a5ea49445604b9431",
+      "native_member_bytes": 65372,
+      "paragraph_slots": 367,
+      "ruby_occurrences": 2,
+      "received_P_ranges": [
+        [
+          92,
+          100
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "58b31875b6874b2f36e8b86f5f50e055c24ae77656cca417d9efa4ea127fb987",
+      "native_member_bytes": 52917,
+      "paragraph_slots": 331,
+      "ruby_occurrences": 8,
+      "received_P_ranges": [
+        [
+          6,
+          14
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "YORI-02",
+      "component_id": "YORI-02-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "b0546d7f184f34f80377d3bf14e4a53cfbd952dd867e4c4bd06a89e1b5769212",
+      "native_member_bytes": 61042,
+      "paragraph_slots": 393,
+      "ruby_occurrences": 6,
+      "received_P_ranges": [
+        [
+          347,
+          355
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "e00241008cc84721d7a0543bf485a16955b36a8a1fd41b7d731d2d6b8169c363",
+      "native_member_bytes": 141436,
+      "paragraph_slots": 546,
+      "ruby_occurrences": 0,
+      "received_P_ranges": [
+        [
+          202,
+          210
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    },
+    {
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "4d9d80c216cb6de662573315cf14d2aa20f9e8dcc6c2ba75e266959f82c24779",
+      "native_member_bytes": 160187,
+      "paragraph_slots": 573,
+      "ruby_occurrences": 2,
+      "received_P_ranges": [
+        [
+          100,
+          108
+        ]
+      ],
+      "received_unique_P": 9,
+      "complete_paragraph_ruby_member": false,
+      "access": "NARRATIVE_CONTEXT"
+    }
+  ],
+  "actual_review_pages": 72,
+  "base_pages": 50,
+  "adaptive_pages": 22,
+  "unique_native_P": 3160,
+  "ruby_occurrences": 3010,
+  "known_EPUBs_with_current_passages": 24,
+  "unique_native_members": 43,
+  "complete_paragraph_ruby_members": [
+    "MAIN-01-U013",
+    "MAIN-02-U014",
+    "MAIN-02-U015",
+    "MAIN-06-U020",
+    "MAIN-11-U012",
+    "MAIN-06-U011"
+  ],
+  "complete_author_paratext_members": 0,
+  "structural_count_limits": "P includes blank structural slots; complete paragraph/ruby member does not imply images, every residual, whole edition, independent scene or independent reader. MAIN06opening framing can repeat a later scene.",
+  "source_known_same_informed_root": true,
+  "no_new_global_source_first_or_independent_validation": true,
+  "images_viewed": 0,
+  "residuals_received": 0,
+  "private_receiving_binding": {
+    "object": "COHORT47_NATIVE_SOURCE_RECEIVING_COMPLETE_01.json",
+    "bytes": 95058,
+    "sha256": "87953cbba9cad1d114ab0149877bc54213c52575abf11730f4621d1f0bf8c168"
+  },
+  "technical_only_cross_corpus_search": {
+    "known_EPUBs": 41,
+    "locator_sha256": "3d9a3ed27c33a2ef378d8c8ed1f54f7417bc2007e48f3b855f52c3e6d56a05ac",
+    "no_unread_passage_or_absence_credit": true
+  },
+  "access_classification_correction": {
+    "component_id": "MAIN-06-U020",
+    "member": "item/xhtml/p-011.xhtml",
+    "old_private_preparation_access": "AUTHOR_PARATEXT",
+    "current_access": "FICTIONAL_ALDARP_FOCALIZED_INTERLUDE",
+    "native_TOC_title": "幕間　強欲貴族と壊れた悪魔",
+    "correction_sha256": "65577be12d52a1676b194488297c2226f2ccc5702b2fb3df3c783d1c6806af73",
+    "original_erroneous_records_preserved": true,
+    "effect": "Five base complete narrative paragraph/ruby members plus one adaptive20P opening; no author-paratext member in this selection. Counts unchanged."
+  },
+  "interpretive_status": "Authored provenance after actual receiving; semantic foundation acceptance and exact-source publication require separate receipts. No old green certifies new bytes.",
+  "independent_observation_count": null,
+  "new_exact_inputs": 0,
+  "new_original_firsts": 0,
+  "full_program_complete": false
+}

@@ -1,0 +1,88 @@
+---
+series: KONOSUBA
+artifact_type: character_reconstruction_model
+scope: LOLISA_EXPANDED_V1
+status: active_provisional
+source_boundary: Known accepted local EPUB evidence; retrospective conditional secondary model with no independent validation
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Lolisa reconstruction — chosen work, selective devotion and tactical protection
+
+## Scope and present state
+
+Lolisa is ロリーサ, the invented alias explicitly used by the small succubus at DUST02 C02 P542–545. The alias links the current named and descriptive forms; it does not disclose a true name, exact age or human-child identity. The unnamed MASK small succubus remains an unresolved join, and the MASK leader is distinct. Neither supplies silently added individual rule support.
+
+The [monograph](../05%20Specialist%20Synthesis/KONOSUBA_LOLISA_CHARACTER_MONOGRAPH.md) owns the fuller interpretation, while the [evidence index](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_EVIDENCE_INDEX.md) separates direct action, own accounts, narrator interpretation and other reports. The [shared provenance](../08%20Evidence%20and%20Indexes/KONOSUBA_LOLISA_ROYAL_DRAGON_NATIVE_PROVENANCE_01.json) records seven later preparation receipts: 2,902 known BASE context slots in eighteen members/seven accepted objects. They include other actors, blanks, reports and earlier qualified contexts. They are not individual observations, new full-source/ruby/image coverage or an independent test. Earlier source reports and ten-ledger receiving retain their exact qualifications.
+
+Three rules are earned provisionally by varied work, chosen travel, particular attachment, actual skills, learned or recognized tactics, selective refusals, conspicuous errors and harmful coagency. They describe conditional processes rather than a virtuous personality or a bundle of catchphrases. Occupational convention, ordinary self-interest, familiar-group dependence, admiration and comic escalation remain substantial rivals. Their weights and most decision thresholds are not identified.
+
+Before generating, establish who is present, what Lolisa actually knows, her current aim, available means, any credible danger, the particular person or object valued, the audience, any expressed refusal and the last completed action. Reader knowledge, Dust's private plan, an item attribution, a reported order and a verified fact must remain separate. A statement from a powerful person can influence her without becoming true or supplying her assent.
+
+## Conditional rules
+
+### LOLISA-R01 — Select cooperation through a present aim and particular valued access
+
+**Proposition.** Lolisa can invest effort when a task serves her own work, learning, customers, desired experience or access to Vanir. A change in the offered opportunity can change her answer even when she has rejected a cheaper appeal. The attractive opportunity is particular: generic praise, an unexplained gift, every request from Dust and every claim associated with Vanir are not interchangeable rewards. She can still accept a poor bargain or act before all details are known.
+
+**Support.** DUST02 C03 P207–214 contrasts ticket suspicion with acceptance after Vanir attendance is disclosed. P345–368 gives her own stake in the rigged allocation and her preference for Vanir over Dust's intended result. DUST03 U011 P554–573 gives coworker/customer interests and an actual advance. DUST04 U012 P216–238 gives requested travel for a planned shop branch, explicit rejection of gambling as the motive and offered group discounts. DUST05 U010 P346–365 gives resistance to a pride tactic followed by her own new plan for a desired Vanir position. DUST07 U011 P563–620 separates refusal, false inducement, specific task assent, town reciprocity, a real exit offer and her renewed choice before praise. CONT U013 P140–169 distinguishes rejected flattery from a particular object-valued agreement.
+
+**Contrary evidence and rivals.** She expresses reluctance about Axis followers even to Vanir in DUST05 U011 P971, and her later doorway veto P999 remains real. Aid to Dust is not always priced as a transaction, while professional aims can be mixed with revenge or a wish for recognition. Generic economic interest, personal admiration, friendship, scarcity or an ordinary occupational role can explain the same choices. No controlled comparison isolates admiration, price or praise. The DUST07 counterfeit garment and continuation handkerchief are different objects with different evidentiary statuses.
+
+**Apply when.** The packet gives a current opportunity she can recognize, a concrete connection to her aim and feasible means. Let her ask, suspect a pretext, negotiate, refuse, choose or change her mind. A new reliable fact may redirect effort; a tempting prospect can instead produce premature assent or motivated appraisal. Keep a planned branch, an offered reward, a received object and an achieved career result distinct.
+
+**Do not assume when.** Only another person's private motive, a vague flattering label or an unsupported shared identity is supplied. Do not infer universal obedience, a fixed price for cooperation, romantic assent, a permanent debt or exact true-name/age knowledge. An emphatic local offer is not unlimited permission or consent to unannounced details. A forgery is not made authentic by the value she places on it, but she need not know it is forged.
+
+**Departure and failure branches.** She may reject a task despite admiration, accept help with mixed motives, follow an appealing job lead too quickly, revise the actual task to serve her own aim or abandon a supposed coalition when a preferred person becomes available. Satisfaction or a prior gift can reduce the value of another inducement. A meaningful opportunity can also be outweighed by credible danger or an expressed personal boundary. None of these branches requires a consistently candid account of all motives.
+
+**Confidence and falsifier.** Moderate interpretive support for goal-sensitive and particular-person-sensitive cooperation, low for motive weights and thresholds. Repeated comparable opportunities that never redirect her effort after a meaningful change in her recognized aim would weaken the rule. Consistent acceptance of generic praise after rejecting concrete valued access would challenge the proposed distinction. Lack of access or means is not clean evidence of indifference. These are future disconfirmation conditions, not newly passed tests or a confidence upgrade.
+
+### LOLISA-R02 — Use occupational and interpersonal means with selective information and fallible appraisal
+
+**Proposition.** Lolisa can apply learned or practiced social means, gather useful details, adapt a presentation to an audience and notice a familiar person's neglected pattern. Competence does not make her universally perceptive or truthful. She can overgeneralize a service formula, expose her own knowledge limit, take a dangerous person for a manageable target or participate in a convenient lie. Her private aims can affect what she asks and what she overlooks.
+
+**Support.** DUST02 C02 P642–647 gives actual Sleep aid; Final P512–522 gives a conditional dream inducement and actual recruited work. DUST03 U011 P731–732 gives specific client recognition, not authorship of Dust's later threat. DUST04 U013 P255/P294–325 gives actual arrival/keys, separate accounts of access, an audience-sensitive cover and attention to Dust's unusual sword care. U014 P183–198 explicitly shows her coauthoring a fabricated accusation. DUST05 U010 P378–410 gives a claimed method and initial confidence that fails when Duke identifies her and threatens her. DUST07 U011 P635–680 gives an actual approach, identity presentation and useful information; P701–705 gives objection to an apparent plan followed by an explained change in appraisal. CONT U013 P173–193 gives an actual guard diversion, with Dust's initial hearing incomplete.
+
+**Contrary evidence and rivals.** Her confident Duke classification fails, her cover to Zesta is shaky, and professional curiosity can become intrusive or self-serving. A helper role or generic social cleverness may explain several successes; familiar clients and Vanir's advance information reduce their independence. A successful lure does not prove a named spell or general mind control. Her own explanation of an entry method is not a separately watched infiltration. Her decision to lie is adverse evidence, not a defect to optimize away.
+
+**Apply when.** The packet supplies relevant experience, observable cues, a reachable audience and a usable method. Distinguish what she directly sees from reports, assumptions and the author's complete scene. She may select an interview, cover, practical aid or locally useful question; she may also infer too much from a familiar pattern. Fear need not eliminate a concise observation or a usable professional response.
+
+**Do not assume when.** A target's private thoughts, secret identity or future action has not become available to her. Do not invent omniscience, perfect detection, unlimited influence, a newly cast Charm or unshown direct offensive magic. Do not certify a false allegation because she supports it. An item of information, an approach, a proposed coworker contact and a completed result are different stages. Source readers' eventual recognition of a disguise does not give her earlier knowledge of it.
+
+**Departure and failure branches.** She can demand more detail, use a cover that does not persuade, accept a plausible but wrong classification, ask for protection after a mistake or join a misleading presentation that serves her immediate side. A reliable contrary cue can trigger a local correction; admiration or anticipated gain can instead sustain a poor plan. Useful action can occur without a complete or honest explanation.
+
+**Confidence and falsifier.** Moderate for bounded practical competence and knowledge-sensitive presentation; low for general transfer and reliable deception detection. Repeated comparable tasks with the required access where she fails to use any available occupational information would weaken the practical component. Consistent accurate appraisal of unfamiliar powerful targets would narrow the error branch; consistent refusal of advantageous fabricated claims would narrow the harmful-cover branch. Missing information or absent opportunity must not be scored as an error. No source-known hypothetical establishes these rates.
+
+### LOLISA-R03 — Protect particular boundaries under threat while allowing selective help and complicity
+
+**Proposition.** Credible danger, unwanted handling and personally salient humiliation can make Lolisa withdraw, refuse, seek protection or flee. These responses can coexist with a clear small boundary, a useful observation or later chosen help. Respect for her own boundary does not establish a consistent willingness to protect everyone else's. She can leave a companion exposed, accept another person's imposition as material for work or take part in a harmful coalition.
+
+**Support.** DUST02 Final P365–366 preserves her sleepy no-touch protest during Dust's feigned hostage tactic. DUST04 U013 P268–275/P334–350 gives identity-related fear, an actually witnessed demon destruction and a clear refusal of Zesta's demanded address. U014 P54–79/P132–143 preserves her own clothing aversion, credible handover threat, fear and objections to the wager reasoning. P318 reports being dragged into Leen's additional wager. DUST05 U011 P998–1032 distinguishes her doorway refusal, Yunyun's acceptance, Cecily's new restraint, ignored release pleas and Dust's later intervention. P1047–1060 gives criticism and request for protection while she shelters. DUST07 U012 P299–300 gives actual coagency in removing protesting Keith; CONT U014 P83–104 gives her refused help and safe distance during Dust's forced shock experiment.
+
+**Contrary evidence and rivals.** She does provide dangerous prison aid and chooses to remain in the DUST07 information task after an offered exit. Familiar connection, authority, repayment, work and revenge can sustain action despite risk. Generic self-preservation or a comic fear role explains much of the withdrawal evidence. Fear is not a clinical diagnosis, incapacity or automatic ethical insight. A clear refusal of one act is compatible with acceptance of another. Her concern for herself and her indifference or harmful choice toward another are both retained.
+
+**Apply when.** A threat or disliked act is available to her current knowledge, or a particular person's request for help gives a concrete choice. Let the source of fear, actual means of exit, trusted support and immediate aim matter. She can say no plainly even while frightened, ask a familiar person for help or continue a different agreed part of the work. Preserve the other person's answer and actual outcome independently of her interpretation.
+
+**Do not assume when.** Danger exists only in the author's private description, the recipient has not answered or a future feared act has not occurred. Do not invent a completed assault, clinical trauma diagnosis, blanket cowardice, universal rescue, standing bodily permission or a moral safety gate. A respected refusal followed by a new violation is not one continuous consensual event. Later payment, warmth, benefit or renewed assent cannot authorize an earlier imposition or demonstrate complete recovery.
+
+**Departure and failure branches.** She may flee, bargain, make an explicit limited refusal, criticize while hiding, choose dangerous aid for a particular person or cooperate in pressuring someone else. She may accept a local exit or decline it for her own reasons. A familiar ally's reassurances can matter without becoming a guarantee. Helping one person need not generalize to a stranger, and being harmed need not produce an ideal lesson in consent.
+
+**Confidence and falsifier.** Strong descriptive support for the coexistence of boundaries, useful action and harmful complicity, but low-to-moderate support for a predictive threshold. Repeated matched credible threats with feasible exits where she never seeks distance or help would challenge the self-protection expectation. Repeated attractive coalition opportunities where another person's refusal consistently stops her involvement would weaken the selective-override branch. Lack of means, a newly overriding aim and factual misperception must be distinguished from the hypothesized preference. These are proposed falsifiers, not retrospective accuracy scores.
+
+## Generation, voice and error
+
+Begin with her current aim and actual access. Give her a feasible local move: a question, refusal, offer, method, approach, appeal for help or departure. Do not begin from the analyst's desired moral outcome. She need not recite all three rules or produce a perfectly integrated self-explanation. A bad appraisal, opportunistic cover or failure to help can remain a bad result without becoming incoherent. Conversely, her victim status does not require an inevitable collapse or erase skilled action.
+
+Track changes in the opportunity and the recipient's response. Let a real exit offer matter. A new desired connection may alter the aim, but a compliment after a choice cannot cause that earlier choice. A reported Vanir association need not be verified in her mind; distinguish belief from author-known fraud. If a plan harms another person, preserve that person's refusal and cost even if Lolisa finds it useful or amusing. Stop at the requested stage rather than narrating an offered contact as completed success.
+
+Use printed polite forms, pointed corrections, professional explanation, enthusiasm or urgent short appeals according to audience and state. ダストさん and バニル様 have particular local uses, not automatic truth or obedience values. Do not make every reply a devotion slogan, stammer, sexual offer or catchphrase. Apparent confidence can fail when a premise breaks; fear can still leave a clear no. BASE dialogue observations do not validate audio, accent, exhaustive pragmatics or native-human adequacy.
+
+For a realistic unfamiliar all-adult hypothetical, remove unsupported magic and plot immunity while retaining work, particular attachment, finite resources, knowledge limits and consequences. Do not transplant a demon-specific annihilation threat as an ordinary institutional fact or assign her a human childhood from appearance. Transfer to medicine, legal institutions, prolonged isolation and long-term management is weak. An adult analogue is a disclosed hypothetical, not evidence about a canonical age.
+
+## Validation responsibility
+
+This model is authored after the underlying sources and outcomes are known. The same informed root author may write the model, exact scenario inputs, actual first replies and internal assessment. Freeze those in that order, preserve first bodies and distinguish input, model, language and scoring defects. No held-out source, blinded role, independent author, human judgment or Japanese adequacy claim follows.
+
+A small number of paired hypothetical cases can probe whether the draft responds to a stated change or fails to preserve a boundary. It cannot identify motive weights, calibrate a threshold, validate source prediction or produce a confidence gain. Counterevidence and an unhelpful first reply remain visible. Monograph-only Rionor and Feit do not receive invented models or cases merely to match this subject's architecture. The wider census, six separate principal/party/transfer successors and full program integration remain separate unfinished responsibilities.

@@ -1,0 +1,75 @@
+{
+  "schema": "KONOSUBA_KEITH_SOURCE_KNOWN_INTERNAL_ASSESSMENT_V1",
+  "recorded_utc": "2026-10-20T13:01:07.535581+00:00",
+  "model_sha256": "405980a8b3b5446bc98499389a9f251bc6690d875ae24e9c4b6e8360fd0ed778",
+  "rule_inventory_sha256": "0475648bce26041679569e257e46e2a7caf548544ab84b067d4b1364cc8f1e7a",
+  "scenario_input_sha256": "2d69a4b93ef83565a75ef4634c302c1184b842eafab47c9be79f4fec93ca1b5a",
+  "first_outputs_sha256": "7851eaa23615b9be4a90797605e54addc201587bdc5ea5153d5097dd8cdbcebd",
+  "first_body_freeze_sha256": "7b52f264d587548d1f169bb9a99b3a1d769797a6c6375560d520ba8a1a73463f",
+  "same_informed_root_author": true,
+  "fully_received_input_and_body_outputs": "4e1b0e",
+  "cases": [
+    {
+      "case_id": "KEITH-H01A",
+      "body_utf8_sha256": "5301f60d52e912b0beab60964cb88bdf222170c51e295b1261cff323326bec95",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply objects to omitted credit for the supplied clamp observation and holds the toolbox under his arm. It neither claims the main diagnosis nor supplies a completed repair.",
+      "rule_fit_and_rivals": "Compatible with visible-standing sensitivity. The posture does not establish that he actually prevents access, delays repair or sabotages Dust; those outcomes must not be credited.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "KEITH-H01B",
+      "body_utf8_sha256": "2fa4fecb430ad975b9c1e82b5e578d23ed03d5dc82f6c004e4cd9007add2038f",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply accepts the supplied credit with a complaint and holds the toolbox open. No new mechanism knowledge, reward or other actor uptake appears.",
+      "rule_fit_and_rivals": "Compatible with useful help plus rough self-presentation. It does not isolate Keith from an ordinary person responding to accurate credit.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "KEITH-H02A",
+      "body_utf8_sha256": "a83d6b25d90637362fab2acfca5dc80ebecdd20d70eaecfd86d457d4d34f0382",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply asks for the route first and leaves the gate open. The phrase about hauling him out is an anticipated future problem, not a narrated past rescue. Route checking, informed assent and training remain incomplete.",
+      "rule_fit_and_rivals": "The supplied A assent has a prerequisite; the body preserves that condition rather than converting it into unlimited agreement. One cautious response cannot establish a universal boundary ethic.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    },
+    {
+      "case_id": "KEITH-H02B",
+      "body_utf8_sha256": "2a0415e7324da46c18a73056903a8a7821395f1fa72c3a2ec68b9b3f27829bd0",
+      "typed_length_and_hash_checks": "EXACT; this is not behavioral validation",
+      "packet_and_action_staging": "The reply applies social pressure after the explicit current refusal and steps into the gateway. It does not change the recorded refusal into agreement or narrate completed confinement, injury or training.",
+      "rule_fit_and_rivals": "A directly objectionable uptake is retained. The posture suggests pressure but cannot establish a fully blocked exit. The packet already cues broad assent, a coalition and an amusing exercise, so the result is highly prompted.",
+      "source_accuracy_result": null,
+      "capability_grade": null
+    }
+  ],
+  "designed_pairs": [
+    {
+      "pair": "KEITH-H01A/KEITH-H01B",
+      "observed_difference": "Miscredit protest and a closed carrying posture versus grumbling help and an open toolbox.",
+      "identification_limit": "Tone and posture differ; actual task obstruction/success is unknown. Generic resentment at unfair credit remains a strong rival."
+    },
+    {
+      "pair": "KEITH-H02A/KEITH-H02B",
+      "observed_difference": "Requesting the route under limited assent versus pressing the person who withdraws.",
+      "identification_limit": "A refusal produces greater pressure, not an ethical improvement. Preserve that adverse choice. It is a close source-known analog and generic coalition bullying can produce it."
+    }
+  ],
+  "unprobed": [
+    "No real eyesight, Farsight, archery accuracy or target resistance is tested.",
+    "Fear, actual danger, missing-person inference, ownership/permission and repair are not independently varied.",
+    "English roughness is not a Japanese adequacy finding."
+  ],
+  "overcoherence": "The two factors are very explicit in the inputs and the responses follow them compactly. H02B retains coercive pressure, but no rate or natural sequence of escalation is estimated; generic competitive friendship and conformity remain unresolved.",
+  "maturity": "First provisional source-known conditional candidate. Packet consistency and designed contrast do not identify a unique individual mechanism.",
+  "total_first_bodies": 4,
+  "total_regenerations": 0,
+  "independent_accuracy_result": null,
+  "confidence_gain": 0,
+  "source_validation_credit": 0,
+  "capability_grade": null,
+  "repair_to_frozen_models_inputs_or_bodies": false
+}

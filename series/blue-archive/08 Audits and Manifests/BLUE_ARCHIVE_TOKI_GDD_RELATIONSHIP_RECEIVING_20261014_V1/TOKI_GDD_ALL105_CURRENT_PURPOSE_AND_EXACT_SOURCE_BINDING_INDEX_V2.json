@@ -1,0 +1,2478 @@
+{
+  "schema": "TOKI_GDD_COMPLETE_ALL105_NEW_PURPOSE_SOURCE_BINDING_INDEX_V1",
+  "existing_home": {
+    "required_id": "P3-REL-TOKI-GDD-RECOGNITION-BELONGING",
+    "source_responsibility": "P3-XMI-R003",
+    "required_row_1_based_excluding_header": 314,
+    "required_csv_physical_line": 315,
+    "partition_selector": "/homes/334",
+    "partition_ordinal_1_based": 335,
+    "mandatory_named_sections": [],
+    "accepted_Toki_character_not_recounted": true
+  },
+  "rows": [
+    {
+      "owner_id": "O000",
+      "purpose_id": "TGP000",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/0",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P018",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O001",
+      "purpose_id": "TGP001",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/1",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P026"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O002",
+      "purpose_id": "TGP002",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/2",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1301_1303_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P024",
+        "TGR-P036"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O003",
+      "purpose_id": "TGP003",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/3",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P010",
+        "TGR-P042"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O004",
+      "purpose_id": "TGP004",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/4",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P022",
+        "TGR-P038"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O005",
+      "purpose_id": "TGP005",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/5",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P046",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O006",
+      "purpose_id": "TGP006",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/6",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1701_1703_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P020",
+        "TGR-P044"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O007",
+      "purpose_id": "TGP007",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/7",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1801_1802_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P046"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O008",
+      "purpose_id": "TGP008",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/8",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P033",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O009",
+      "purpose_id": "TGP009",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/9",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2001_2002_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P015",
+        "TGR-P019",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O010",
+      "purpose_id": "TGP010",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/10",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2101_2102_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P007",
+        "TGR-P009",
+        "TGR-P022"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O011",
+      "purpose_id": "TGP011",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/11",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2201_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P028",
+        "TGR-P031",
+        "TGR-P043"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O012",
+      "purpose_id": "TGP012",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/12",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2301_2302_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P033",
+        "TGR-P048"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O013",
+      "purpose_id": "TGP013",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/13",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2401_2402_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P018",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O014",
+      "purpose_id": "TGP014",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/14",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2403_2404_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P008",
+        "TGR-P012",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O015",
+      "purpose_id": "TGP015",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/15",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "OWN_WHOLE_GROUP250_MAINTAINED_COMPARATOR_PLUS_ORIGINAL_SELECTED_REPORT_DISTINCT",
+      "purpose_to_claim_role": "EXPLICIT_ORDINARY_GROUP250_COMPARISON_WITH_SEPARATE_SOURCE_LOCAL_ANSWERS",
+      "body_claim_ids": [
+        "TGR-P017",
+        "TGR-P025",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O016",
+      "purpose_id": "TGP016",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/16",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2601_2602_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P022",
+        "TGR-P038"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O017",
+      "purpose_id": "TGP017",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/17",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2701_2702_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P019",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O018",
+      "purpose_id": "TGP018",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/18",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2801_2802_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P038",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O019",
+      "purpose_id": "TGP019",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/19",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2901_2902_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P008",
+        "TGR-P018",
+        "TGR-P024"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O020",
+      "purpose_id": "TGP020",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/20",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3001_3003_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P009",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O021",
+      "purpose_id": "TGP021",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/21",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P050",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O022",
+      "purpose_id": "TGP022",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/22",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3201_3202_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P022",
+        "TGR-P041"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O023",
+      "purpose_id": "TGP023",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/23",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3301_3303_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P019",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O024",
+      "purpose_id": "TGP024",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/24",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3401_3403_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P024",
+        "TGR-P036"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O025",
+      "purpose_id": "TGP025",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/25",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P020",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O026",
+      "purpose_id": "TGP026",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/26",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3601_3603_DEEP_READING.md",
+      "source_class": "GROUP",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P044"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O027",
+      "purpose_id": "TGP027",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/27",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80000/BLUE_ARCHIVE_EVENT_80000_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P019",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O028",
+      "purpose_id": "TGP028",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/28",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P030",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O029",
+      "purpose_id": "TGP029",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/29",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P041",
+        "TGR-P049"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O030",
+      "purpose_id": "TGP030",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/30",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_802/BLUE_ARCHIVE_EVENT_802_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P047",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O031",
+      "purpose_id": "TGP031",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/31",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_803/BLUE_ARCHIVE_EVENT_803_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P034",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O032",
+      "purpose_id": "TGP032",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/32",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P024",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O033",
+      "purpose_id": "TGP033",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/33",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P030",
+        "TGR-P044",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O034",
+      "purpose_id": "TGP034",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/34",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_806/BLUE_ARCHIVE_EVENT_806_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P026",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O035",
+      "purpose_id": "TGP035",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP000_TGP035_V2.json",
+        "bytes": 420656,
+        "sha256": "01e3c6bd14b4e5143d87e75dafbe73b7dc67214afcb9de25042e9dd6f9ce5e1c",
+        "git_blob_oid_of_actual_bytes": "e3e6740ec1135d43e6e6e1dbe681417ff65333e4"
+      },
+      "pointer": "/records/35",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_807/BLUE_ARCHIVE_EVENT_807_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P036",
+        "TGR-P037",
+        "TGR-P038"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O036",
+      "purpose_id": "TGP036",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/0",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_808/BLUE_ARCHIVE_EVENT_808_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P033",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O037",
+      "purpose_id": "TGP037",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/1",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P031",
+        "TGR-P033",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O038",
+      "purpose_id": "TGP038",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/2",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P035",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O039",
+      "purpose_id": "TGP039",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/3",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_811/BLUE_ARCHIVE_EVENT_811_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P023",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O040",
+      "purpose_id": "TGP040",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/4",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P034",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O041",
+      "purpose_id": "TGP041",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/5",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_813/BLUE_ARCHIVE_EVENT_813_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P018",
+        "TGR-P050",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O042",
+      "purpose_id": "TGP042",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/6",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_814/BLUE_ARCHIVE_EVENT_814_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P033",
+        "TGR-P048",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O043",
+      "purpose_id": "TGP043",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/7",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_815/BLUE_ARCHIVE_EVENT_815_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P033",
+        "TGR-P047"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O044",
+      "purpose_id": "TGP044",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/8",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_001_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P008",
+        "TGR-P012",
+        "TGR-P041"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O045",
+      "purpose_id": "TGP045",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/9",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_002_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P039",
+        "TGR-P040"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O046",
+      "purpose_id": "TGP046",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/10",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_003_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P006",
+        "TGR-P025",
+        "TGR-P027"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O047",
+      "purpose_id": "TGP047",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/11",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_004_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P024",
+        "TGR-P037"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O048",
+      "purpose_id": "TGP048",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/12",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_005_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P027",
+        "TGR-P036",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O049",
+      "purpose_id": "TGP049",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/13",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_006_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P008",
+        "TGR-P021",
+        "TGR-P022"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O050",
+      "purpose_id": "TGP050",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/14",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_007_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P030",
+        "TGR-P039",
+        "TGR-P041"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O051",
+      "purpose_id": "TGP051",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/15",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_008_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P027",
+        "TGR-P036",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O052",
+      "purpose_id": "TGP052",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/16",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_009_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P018",
+        "TGR-P019",
+        "TGR-P030"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O053",
+      "purpose_id": "TGP053",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/17",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_010_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P015",
+        "TGR-P030",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O054",
+      "purpose_id": "TGP054",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/18",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_011_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P031",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O055",
+      "purpose_id": "TGP055",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/19",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_012_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P006",
+        "TGR-P015",
+        "TGR-P041"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O056",
+      "purpose_id": "TGP056",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/20",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_013_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P013",
+        "TGR-P016",
+        "TGR-P024"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O057",
+      "purpose_id": "TGP057",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/21",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_014_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P017",
+        "TGR-P019",
+        "TGR-P020"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O058",
+      "purpose_id": "TGP058",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/22",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_015_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P033",
+        "TGR-P044"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O059",
+      "purpose_id": "TGP059",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/23",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_016_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P035",
+        "TGR-P048",
+        "TGR-P049"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O060",
+      "purpose_id": "TGP060",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/24",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_816/BLUE_ARCHIVE_EVENT_816_EPISODE_017_DEEP_READING.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P030",
+        "TGR-P035",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O061",
+      "purpose_id": "TGP061",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/25",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P009",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O062",
+      "purpose_id": "TGP062",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/26",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P034",
+        "TGR-P046"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O063",
+      "purpose_id": "TGP063",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/27",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_819/BLUE_ARCHIVE_EVENT_819_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P030",
+        "TGR-P032",
+        "TGR-P047"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O064",
+      "purpose_id": "TGP064",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/28",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_820/BLUE_ARCHIVE_EVENT_820_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P030",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O065",
+      "purpose_id": "TGP065",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/29",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P050",
+        "TGR-P051",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O066",
+      "purpose_id": "TGP066",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/30",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_822/BLUE_ARCHIVE_EVENT_822_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P021",
+        "TGR-P036",
+        "TGR-P038"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O067",
+      "purpose_id": "TGP067",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/31",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_823/BLUE_ARCHIVE_EVENT_823_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P035",
+        "TGR-P036",
+        "TGR-P044"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O068",
+      "purpose_id": "TGP068",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/32",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_824/BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P024",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O069",
+      "purpose_id": "TGP069",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/33",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "OWN_WHOLE_EVENT825_MAINTAINED_CORE_PLUS_ACTUAL_NEW_TARGET_ADJUDICATION",
+      "purpose_to_claim_role": "DIRECT_EXISTING_EVENT825_WITNESS",
+      "body_claim_ids": [
+        "TGR-P003",
+        "TGR-P008",
+        "TGR-P012",
+        "TGR-P015",
+        "TGR-P018",
+        "TGR-P031",
+        "TGR-P033",
+        "TGR-P050"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O070",
+      "purpose_id": "TGP070",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP036_TGP070_V2.json",
+        "bytes": 555475,
+        "sha256": "f1cd97866e0bcac3e2c9a12e6935567f8192a57a1bc06b16b1b6b68ab4b7200b",
+        "git_blob_oid_of_actual_bytes": "70da8eb84281032e1e14a011f63a221e659bb4fc"
+      },
+      "pointer": "/records/34",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_826/BLUE_ARCHIVE_EVENT_826_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P034",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O071",
+      "purpose_id": "TGP071",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/0",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_827/BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P019",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O072",
+      "purpose_id": "TGP072",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/1",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_828/BLUE_ARCHIVE_EVENT_828_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P035",
+        "TGR-P048"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O073",
+      "purpose_id": "TGP073",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/2",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_829/BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P024",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O074",
+      "purpose_id": "TGP074",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/3",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_830/BLUE_ARCHIVE_EVENT_830_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P024",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O075",
+      "purpose_id": "TGP075",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/4",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_831/BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P038",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O076",
+      "purpose_id": "TGP076",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/5",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P035",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O077",
+      "purpose_id": "TGP077",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/6",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P038",
+        "TGR-P050"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O078",
+      "purpose_id": "TGP078",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/7",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P050",
+        "TGR-P051",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O079",
+      "purpose_id": "TGP079",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/8",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P016",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O080",
+      "purpose_id": "TGP080",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/9",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_836/BLUE_ARCHIVE_EVENT_836_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P003",
+        "TGR-P011",
+        "TGR-P048"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O081",
+      "purpose_id": "TGP081",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/10",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_837/BLUE_ARCHIVE_EVENT_837_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P010",
+        "TGR-P018",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O082",
+      "purpose_id": "TGP082",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/11",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_838/BLUE_ARCHIVE_EVENT_838_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P033",
+        "TGR-P044"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O083",
+      "purpose_id": "TGP083",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/12",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_839/BLUE_ARCHIVE_EVENT_839_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P024",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O084",
+      "purpose_id": "TGP084",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/13",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_840/BLUE_ARCHIVE_EVENT_840_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P035",
+        "TGR-P043"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O085",
+      "purpose_id": "TGP085",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/14",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_841/BLUE_ARCHIVE_EVENT_841_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P017",
+        "TGR-P024",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O086",
+      "purpose_id": "TGP086",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/15",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_842/BLUE_ARCHIVE_EVENT_842_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P033",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O087",
+      "purpose_id": "TGP087",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/16",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P022",
+        "TGR-P024",
+        "TGR-P026",
+        "TGR-P041"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O088",
+      "purpose_id": "TGP088",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/17",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P020",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O089",
+      "purpose_id": "TGP089",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/18",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_845/BLUE_ARCHIVE_EVENT_845_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P025",
+        "TGR-P035",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O090",
+      "purpose_id": "TGP090",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/19",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_846/BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P016",
+        "TGR-P019",
+        "TGR-P034"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O091",
+      "purpose_id": "TGP091",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/20",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_847/BLUE_ARCHIVE_EVENT_847_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P015",
+        "TGR-P016",
+        "TGR-P045"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O092",
+      "purpose_id": "TGP092",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/21",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P019",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O093",
+      "purpose_id": "TGP093",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/22",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_849/BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P018",
+        "TGR-P019",
+        "TGR-P035"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O094",
+      "purpose_id": "TGP094",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/23",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P035",
+        "TGR-P043"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O095",
+      "purpose_id": "TGP095",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/24",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P006",
+        "TGR-P024",
+        "TGR-P036"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O096",
+      "purpose_id": "TGP096",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/25",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_852/BLUE_ARCHIVE_EVENT_852_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P023",
+        "TGR-P036"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O097",
+      "purpose_id": "TGP097",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/26",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_853/BLUE_ARCHIVE_EVENT_853_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P024",
+        "TGR-P035",
+        "TGR-P036"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O098",
+      "purpose_id": "TGP098",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/27",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_854/BLUE_ARCHIVE_EVENT_854_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P014",
+        "TGR-P035",
+        "TGR-P044",
+        "TGR-P048"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O099",
+      "purpose_id": "TGP099",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/28",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_856/BLUE_ARCHIVE_EVENT_856_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P020",
+        "TGR-P044",
+        "TGR-P053"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O100",
+      "purpose_id": "TGP100",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/29",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_859/BLUE_ARCHIVE_EVENT_859_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P004",
+        "TGR-P035",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O101",
+      "purpose_id": "TGP101",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/30",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P024",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O102",
+      "purpose_id": "TGP102",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/31",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_861/BLUE_ARCHIVE_EVENT_861_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P009",
+        "TGR-P024",
+        "TGR-P051"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O103",
+      "purpose_id": "TGP103",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/32",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_862/BLUE_ARCHIVE_EVENT_862_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "EVENT",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P019",
+        "TGR-P021",
+        "TGR-P022",
+        "TGR-P030"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    },
+    {
+      "owner_id": "O104",
+      "purpose_id": "TGP104",
+      "new_target_component": {
+        "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT105_NEW_PURPOSE_JUDGMENTS_TGP071_TGP104_V2.json",
+        "bytes": 714831,
+        "sha256": "d69a043720c4e80e8529a1be3aa748b5e4c35e669f01ca6f6fb4843868e8a146",
+        "git_blob_oid_of_actual_bytes": "d41bdf25014b29e9223db9e05af0d2c3cdceb7d5"
+      },
+      "pointer": "/records/33",
+      "source_repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "source_class": "MINI",
+      "complete_original_two_objects": "Whole exact values carried at this row, unchanged; original carriers/envelopes/inverses in transport.",
+      "receiving_grade": "ACTUAL_ADEQUATE_FULL_ORIGINAL_REPORT_MEANING_AND_CURRENT_QUALIFIERS_PLUS_OWN_NEW_TARGET_ADJUDICATION_NOT_FRESH_NORMAL",
+      "purpose_to_claim_role": "COMPARATIVE_QUESTION_POSITIVE_MEANING_AND_LIMIT_NOT_A_NEW_DIRECT_BODY_SOURCE_WITNESS",
+      "body_claim_ids": [
+        "TGR-P018",
+        "TGR-P019",
+        "TGR-P020",
+        "TGR-P034",
+        "TGR-P052"
+      ],
+      "disposition": "AUTHOR_COMPLETE_FINITE_NEW_TARGET_PURPOSE_AT_DISCLOSED_GRADE_FULL_COMPONENT_QA_AND_ROOT_PENDING",
+      "source_OR_LOW_STAKES_exclusion": false
+    }
+  ],
+  "all105_unique": true,
+  "source1": {
+    "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_EXISTING_EVENT825_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V2.json",
+    "bytes": 41845,
+    "sha256": "f65f292f18db0d06e9492eb8812f063a68314198069e28ddcd20b703d86f82e5",
+    "git_blob_oid_of_actual_bytes": "b09767f66213ab1393c5ac594ee1b1e732b7ed83"
+  },
+  "body": {
+    "C_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_TOKI_GAME_DEVELOPMENT_RECOGNITION_AND_BELONGING_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 53261,
+    "sha256": "f752314891f918d001724cbd8b13f90126664c85060a5bf31e7837bbabf4bfc8",
+    "git_blob_oid_of_actual_bytes": "54f6427ab9bd70bbcdd02c7a36ae1170c3dcaf84"
+  },
+  "literal59_register": {
+    "C_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOKI_GDD_RELATIONSHIP_RECEIVING_20261014_V1/TOKI_GDD_CURRENT228_COMPLETE_LITERAL59_CLAIM_AND_SOURCE_LIMIT_REGISTER_V2.json",
+    "bytes": 272754,
+    "sha256": "17c7110e742712ccb5bfd393087a3c7d1dcbe7adbad7ef6991abaef775e43e5a",
+    "git_blob_oid_of_actual_bytes": "bfb9c153988ed462317f3f6afaaa8f644788bdc5"
+  },
+  "operative_qualifiers": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_COUNCIL_PRESIDENT_CLAIMANT_CHARACTER_RECEIVING_20261013_V1/M008_CURRENT20_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+    "pointer": "/complete_original_common105_source_qualifier_layer_NOT_rewritten",
+    "scope": "Exact61767 module onlyO025/071/073/075/079/087; exact59334 module onlyoldGSC16 coffee aliases. Raw bytes/complete operative controls preserved in transport. No source-reading credit from reference."
+  },
+  "source_grade": "Actual new target purposes do not promote originally attributed26WHOLE79SELECTED or sourcebinding custody into freshsource reading. CoreEvent825/Group250 source grade is explicit.",
+  "operative_author_stage": {
+    "status": "C_ONLY_AUTHOR_EXACT8_COMPLETE_WITH_LIMITS_DISTINCT_COMPONENT_QA_AND_ROOT_PENDING",
+    "published_source_head_at_original_capture": "45e924770e6971bf44c8194588d455a71956772c",
+    "body_source_head": "c5ce4c5d6dbeaf717d97488ce1c052bd450b8701",
+    "dated_body_first_metadata": "Current53013 body is byteNOOP after positive distinct body-only QA. Its pending new105/review preparation fields retain historical body-first stage; operative author-stage records below now declare actual new105 receiving. ROOT receiving/acceptance is still pending.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "required_named_canonical_count_added_here": 0,
+    "existing_one_directed_REL_duty_only": true,
+    "accepted_Toki_not_recounted": true,
+    "R_Git_provider_shared_writes": 0,
+    "merge": "RESERVED"
+  },
+  "current_body_join_locator_precision_successor": {
+    "C_path": "private-witness:TOKI-DELIVERY-07a43c21d7e952da957594ce",
+    "bytes": 18522,
+    "sha256": "2f8346d112b9fae7fddc18f486ef4c163016a50abd2f3f3e4e28792822704878",
+    "git_blob_oid_of_actual_bytes": "555d364094cd6c9c16cc243ce701def55b438806"
+  }
+}

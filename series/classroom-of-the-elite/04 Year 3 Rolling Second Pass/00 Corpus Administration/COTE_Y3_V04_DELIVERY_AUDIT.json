@@ -1,0 +1,32 @@
+{
+  "audit": "COTE_Y3V04_LOCAL_CONTENT_AUDIT_1.0",
+  "status": "PASS",
+  "scope": "Local literary/source/ledger content; not publication or integration certification",
+  "paragraphs": 3674,
+  "read_chunks": 55,
+  "artwork_occurrences": 24,
+  "gaiji_assets": 3,
+  "gaiji_occurrences": 391,
+  "evidence_records": 89,
+  "japanese_passage_rows": 41,
+  "rolling_snapshots": 17,
+  "question_states": 54,
+  "relative_links_checked": 761,
+  "locator_references_checked": 130,
+  "frozen_inherited_files_preserved": 269,
+  "allowed_existing_change": [
+    "series/classroom-of-the-elite/COTE_CURRENT_STATE_AND_CORPUS_MAP.md"
+  ],
+  "monograph_layer": "ADOPTED; systematic eligibility and production pending",
+  "checks": [
+    "Complete reading coverage and source hashes",
+    "Evidence ranges and Japanese keys; two narrowed source pointers repaired",
+    "All 54 exact predecessor question records and stable LC/SS identities retained",
+    "Voting partition arithmetic and announced-versus-unknown results reviewed",
+    "YAML, relative routes and evidence anchors",
+    "Inherited byte preservation",
+    "No later narrative admitted"
+  ],
+  "repository_author_preflight": "PENDING_SEPARATE_FINAL_INDEX_RUN",
+  "errors": []
+}

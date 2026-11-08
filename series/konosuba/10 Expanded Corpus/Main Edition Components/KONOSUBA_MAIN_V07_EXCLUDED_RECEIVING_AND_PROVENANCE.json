@@ -1,0 +1,511 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_BOUNDED_SAME_ROOT_RECEIVING_V1",
+  "source_id": "MAIN-07",
+  "accepted_utc": "2026-10-19T11:40:53.818751+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "actual_source_scope": {
+    "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+    "source_id": "MAIN-07",
+    "accepted_utc": "2026-10-19T11:40:53.818751+00:00",
+    "native_filename": "Konosuba - Main Series - Volume 07.epub",
+    "native_bytes": 11201415,
+    "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "337e510b49704bb01bc6cefc9dfbbe8aea2572d656212e6df4995f4aecf8436b",
+    "language": [
+      "ja"
+    ],
+    "colophon_and_bibliographic_difference": "Both supplied electronic issue and print-basis first-edition entries2015-09-01,copyright2015; no additional edition number asserted. Edition metadata does not date every scene. Afterword anime/spinoff announcements remain contemporary production reports/plans.",
+    "admission_sha256": "dc47469fce2c91a66a520b899f4abd1173eef3056559c8517e3381d79eb9e695",
+    "preceding_full_gate_source": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "preceding_fresh_reload_sha256": "e96cbf946bf339e6481e6fe1091455fad28518f067e1cff67473d8d9ec850ebb",
+    "excluded_uncoded_seal_sha256": "3605428686129948a4c38f2f529c7302c4a10703d0c970572ac2b4187af46505",
+    "excluded_uncoded_seal_utc": "2026-10-19T11:11:31.757097+00:00",
+    "actual_new_reading": {
+      "text_resources": 19,
+      "P_slots": 131,
+      "native_images": 32,
+      "ruby_and_nonparagraph_residual_received": true,
+      "bonus_P": 52,
+      "nonbonus_text_slots_P": 79,
+      "author_afterword_P": 34,
+      "other_wrapper_credit_slots_P": 45
+    },
+    "retained_principal_authority": {
+      "members": 9,
+      "P_slots": 3288,
+      "new_principal_reading_credit": 0,
+      "exact_native_and_prior_acceptance_control_joins": true
+    },
+    "fresh_native_CRC": "PASS",
+    "all_native_text_image_hashes_reverified": true,
+    "original_uncoded_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 43902,
+        "sha256": "dc47469fce2c91a66a520b899f4abd1173eef3056559c8517e3381d79eb9e695"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 183362,
+        "sha256": "b73c281b729d2809c48518b1a1ef92c049b72d4187ca70bfbec67fef1e319094"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 29647,
+        "sha256": "e0762c004fc07b1bc79f2b8ea2b1de064e93b0215fc65d8671678bbd100f7b72"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 30964,
+        "sha256": "c46b216887a5705e283c67716a61b510995e2a1d67e9fc061d4ab211fcadd32d"
+      }
+    ],
+    "public_preparation_view_is_redacted": true,
+    "formal_counts": [
+      25,
+      24,
+      31,
+      12,
+      32
+    ],
+    "party_comparisons": 8,
+    "typed_constraints_not_behavioral_scores": 4,
+    "Iris_SI_C01_no_opportunity_comparisons": 7,
+    "preceding_main_component_gate": {
+      "source_id": "MAIN-06",
+      "actual_source_commit": "57c44c52e923800515c236a312f6c204c931432c",
+      "gate_sha256": "7730006f3c706afb4342700d4f1488cd04bb4bc65facac406140ae9d53a747b6",
+      "reload_sha256": "5f8d1f3dc122f14615dc23e2dd4595f64727accf4388911fbccb5e688e380cc0",
+      "schema": "KONOSUBA_MAIN06EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+    },
+    "intervening_analytical_cohort_gate": {
+      "cohort": "IRIS-C01",
+      "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+      "gate_sha256": "02ef927bc98037e1bc63899c296b5bedf3447b07302d4ba66d3164c7d64370ba",
+      "reload_sha256": "e96cbf946bf339e6481e6fe1091455fad28518f067e1cff67473d8d9ec850ebb",
+      "schema": "KONOSUBA_IRIS_COHORT01_PUBLICATION_GATE_CLOSE_V1",
+      "reason": "Both the preceding component gate and the later Iris exact-source gate are required; neither replaces or impersonates the other."
+    },
+    "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Iris scopedTier3 cohort published/fullgateclosed; seven SI-C01 optional source commitments fixed before current exposure. Complete EXP01-03 reports additionally reviewed for the private secondary census; no fresh whole-source/image credit from those report reviews. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+    "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "semantic_name_reference_review": "Same continuing informed root checked all17report sections, all25selectedpremises,24exactwrittenfragments,39explicitprincipal-partycomparisons,4typedconstraints,7Irisno-opportunityrows,12ledgerdecisions and32currentqualifications against complete19newresources131P/32actualimages and702boundedretainedP. Actor, report, projected consequence, producer and promotional roles remain distinct. Ice replaces vague object description; Aqua clinging replaces uncertain box transfer; meal waiting replaces unsupported hiding; bridal-carry quotes retain prior chronology; real Explosion/city damage, Yunyun covering and Dust-Keith interference keep separate agency/cost. Paired father cure is one event; Chris identity reply and visual reaction inset retain prose cutoff. Bonus refusals, removal, reported Blessing, unknown thanks and one extra prepared dish are bounded. K07/E03/E05/E06 retain adjacent or ambiguous findings without full C/F or accuracy update;35otherfulltriggersabsent. Same-author bounded receiving, no independence claim.",
+  "narrow_retained_principal_native_backjoins": {
+    "schema": "KONOSUBA_ACCEPTED_PRINCIPAL_NATIVE_IMAGE_BACKJOIN_V1",
+    "source": "MAIN-07",
+    "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+    "new_principal_pass_credit": 0,
+    "new_excluded_reading_credit": 0,
+    "current_findings": [
+      "M07EX-Q07: IMG005/U012P263-293: Vanir admits intrusive questions are pastime rather than a necessary ritual. Aqua's bothersome/dazzling presence impairs his view; no blanket claim that noise alone or all people make him blind.",
+      "M07EX-Q08: IMG019/U012P100-138 uses ice during Darkness's requested heat-endurance practice. Requests to end and be released precede later retaliatory tickling; earlier consent does not authorize every addition.",
+      "M07EX-Q09: IMG020/U012P183-219 concerns Aqua clinging to Vanir and their quarrel. Withdraw the original uncertain large-box/transfer interpretation. A separate reward bag is narrated; no box handover is established.",
+      "M07EX-Q10: U012P203-206 is Vanir's account of forcing Wiz to retail by day and manufacture by night without food/rest for two weeks, followed by rest. Preserve the exploitation alongside commercial competence; no direct Wiz interior or clinical diagnosis is shown.",
+      "M07EX-Q11: IMG006/U012P414-432 keeps Aqua's fear and offered saved-money loan beside Megumin's desired title and Darkness's rescue-related motive. No loan payment or already-earned Dragon Slayer title follows.",
+      "M07EX-Q12: IMG021/U013P2-78 joins Eris's playful afterlife exchange and defense of Darkness. Marisマリス and Selis/Celisセリス are separate reported priest guesses explicitly denied as Eris; neither is Cecilyセシリー.",
+      "M07EX-Q13: IMG022/U014P60-112 shows meal waiting, appetite, irritation and punishment talk. Kazuma later proposes eating while Aqua/Megumin still refuse; below-table image arrangement does not prove hiding or food theft.",
+      "M07EX-Q14: IMG023/U015P301-364 requires phases: earlier imposed bodily restraint, later specific intimate offer, then the abdominal remark and renewed anger. No completed sexual act or retroactive consent from the later offer.",
+      "M07EX-Q15: IMG007 pairs quotations from U016P464/466 with the later carryP498. Arm-grabbing, release request, payment, renewed objection, carry and chosen combatP511-516 are ordered, not simultaneous.",
+      "M07EX-Q16: U016P475-498 separates actual payment from ownership rhetoric. The2billionEris payment does not certify a right to Darkness's body, a completed intimate payment or lawful ownership.",
+      "M07EX-Q17: IMG024/025/U016P435-669: Aqua is the hired officiant and subverts the vows. Megumin's later actual skyward Explosion cracks city glass and makes people take cover; no harmless-fantasy or survival exemption.",
+      "M07EX-Q18: U016P568-600/658-668: Yunyun first notices the others already present, then accepts a covering role after explicit friendship and future-introduction promises. No Teleport cast is shown, and hypothetical rescue talk is not a completed later rescue.",
+      "M07EX-Q19: U016P669-693: Kazuma considers returning; Keith/Dust's performed injury claim obstructs pursuers and the crowd attacks guards. Helpful effect, deception, self-declared anti-noble grievance and violence coexist; no verified broken bones.",
+      "M07EX-Q20: IMG026/027/U016P744-784 is one father/daughter exchange followed by Aqua's actual SacredBreakSpell and visible improvement, then embarrassment. Not two encounters, feigned illness, actual death or a clinically complete follow-up.",
+      "M07EX-Q21: IMG028/U018P120-147: registration is Aqua's fictional-world report; no legal document or completed divorce is inspected. Later ridicule really upsets Darkness; spiral eyes are not a clinical diagnosis.",
+      "M07EX-Q22: IMG029/U019P49-54: Chris answers an Eris-addressed question, Kazuma explicitly recognizes her and she freezes smiling. The inset depicts a comic strike/reaction beyond the prose cutoff; do not erase it or certify prose-confirmed injury/new encounter."
+    ],
+    "original_uncoded_notes_preserved_exact": true,
+    "lost_output_excluded": "The earlier combined C5P621-668 request was truncated and received no credit. Separate621-644,645-668 and669-699 outputs were subsequently actually received untruncated.",
+    "scope": "Actual bounded accepted-principal checks to identify image actors, objects, chronology, information and agency. No fresh whole principal pass, independent event, source-isolated reader or retroactive forecast retargeting.",
+    "created_utc": "2026-10-19T11:39:35.039105+00:00",
+    "windows": [
+      {
+        "component_id": "MAIN-07-U012",
+        "member": "item/xhtml/p-003.xhtml",
+        "member_sha256": "7869efb68f8d33a674bc285dc26847ecc002edc5c3ed8423900d70ba2dee69d5",
+        "actual_untruncated_windows_P": [
+          [
+            100,
+            138
+          ],
+          [
+            175,
+            211
+          ],
+          [
+            212,
+            234
+          ],
+          [
+            263,
+            293
+          ],
+          [
+            414,
+            432
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      },
+      {
+        "component_id": "MAIN-07-U013",
+        "member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "061a3c2168d9f1d7e01c81b0fd081b4babaa7c97d455e4499029ad7e64126240",
+        "actual_untruncated_windows_P": [
+          [
+            2,
+            60
+          ],
+          [
+            61,
+            78
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      },
+      {
+        "component_id": "MAIN-07-U014",
+        "member": "item/xhtml/p-005.xhtml",
+        "member_sha256": "dc263cd43ea1d5b0016d985a9a7d441b6de48e708edaf38617b05005f9efd469",
+        "actual_untruncated_windows_P": [
+          [
+            60,
+            112
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      },
+      {
+        "component_id": "MAIN-07-U015",
+        "member": "item/xhtml/p-006.xhtml",
+        "member_sha256": "657f01c1c3db085cfbb7221e0a26a2a91b2339cbde6dbaba90728e333b04919a",
+        "actual_untruncated_windows_P": [
+          [
+            301,
+            364
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      },
+      {
+        "component_id": "MAIN-07-U016",
+        "member": "item/xhtml/p-007.xhtml",
+        "member_sha256": "bce309b4655b0e751768358bfe354f7c4934edeef7befe7fa5d4d2c7c36423fd",
+        "actual_untruncated_windows_P": [
+          [
+            435,
+            481
+          ],
+          [
+            482,
+            520
+          ],
+          [
+            550,
+            592
+          ],
+          [
+            593,
+            620
+          ],
+          [
+            621,
+            644
+          ],
+          [
+            645,
+            668
+          ],
+          [
+            669,
+            699
+          ],
+          [
+            744,
+            784
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      },
+      {
+        "component_id": "MAIN-07-U018",
+        "member": "item/xhtml/p-009.xhtml",
+        "member_sha256": "20ca360822aa445357001c244e025c761874dbd38c77fa268bf467e0e17f8f3b",
+        "actual_untruncated_windows_P": [
+          [
+            120,
+            147
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      },
+      {
+        "component_id": "MAIN-07-U019",
+        "member": "item/xhtml/p-010.xhtml",
+        "member_sha256": "e1b09aeeb72eb264af7ffe8f24833d1df28c793b2a627c269db14230b0fe0398",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            54
+          ]
+        ],
+        "new_principal_pass_credit": 0,
+        "reading_history": "Actual untruncated bounded reception in this execution; prior context windows preserved, no new whole-body pass. Truncated combined output excluded and re-read in smaller complete windows."
+      }
+    ],
+    "actual_unique_retained_P_rechecked": 702
+  },
+  "additional_current_claim_revision_verified_before_append": null,
+  "original_uncoded_corrections_are_attributable_current_qualifications": true,
+  "component_role_detail_completion": {
+    "source_id": "MAIN-07",
+    "complete_at_initial_authoring": true,
+    "configuration_sha256": "a490c2035bae17682acd844544c1b3ec58ddf10e5bcfbeaf2c74ffe0a19bc799",
+    "configuration_input_sha256": "c2f1e7ab426525d61621c4456f1f642ceb63a55dd9676bbdc4c0f8e6513869a5",
+    "no_separate_prose_bonus": false
+  },
+  "current_qualifications": [
+    {
+      "id": "M07EX-Q01",
+      "finding": "All19new textual resources131P/32native images were actually received. Nine accepted principal members3288P retain exact authority with zero new principal pass credit. New52Pbonus,34Pafterword and45other slots are not a narrative denominator.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q02",
+      "finding": "The electronic bonus U024 is a separate52Pbody, not an epilogue of the retained principal. Hot summer and a shared mansion are explicit; its exact day and later negotiated relationship state are not fixed.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q03",
+      "finding": "Front color pages and body illustrations can depict one known event more than once. Neither layout nor repeated citation creates another enacted choice or independent forecast trial.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q04",
+      "finding": "IMG008 printed page locators differ from digital P numbering. The printed contents omit the appended electronic bonus; HTML/navigation and the actual native spine govern its separate identity.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q05",
+      "finding": "Nine chibi chapter banners are decoration, not narrator assignments or new dialogue. The bonus has Kazuma's actual first-person narration independently of decorative figures.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q06",
+      "finding": "IMG018 prints Darkness18, Megumin14,Yunyun13,Kazuma16,Chris15? and unknown divine/devil ages. Preserve the question mark and edition-specific Yunyun age; profiles are reference claims, not new performed choices.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q07",
+      "finding": "IMG005/U012P263-293: Vanir admits intrusive questions are pastime rather than a necessary ritual. Aqua's bothersome/dazzling presence impairs his view; no blanket claim that noise alone or all people make him blind.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q08",
+      "finding": "IMG019/U012P100-138 uses ice during Darkness's requested heat-endurance practice. Requests to end and be released precede later retaliatory tickling; earlier consent does not authorize every addition.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q09",
+      "finding": "IMG020/U012P183-219 concerns Aqua clinging to Vanir and their quarrel. Withdraw the original uncertain large-box/transfer interpretation. A separate reward bag is narrated; no box handover is established.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q10",
+      "finding": "U012P203-206 is Vanir's account of forcing Wiz to retail by day and manufacture by night without food/rest for two weeks, followed by rest. Preserve the exploitation alongside commercial competence; no direct Wiz interior or clinical diagnosis is shown.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q11",
+      "finding": "IMG006/U012P414-432 keeps Aqua's fear and offered saved-money loan beside Megumin's desired title and Darkness's rescue-related motive. No loan payment or already-earned Dragon Slayer title follows.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q12",
+      "finding": "IMG021/U013P2-78 joins Eris's playful afterlife exchange and defense of Darkness. Marisマリス and Selis/Celisセリス are separate reported priest guesses explicitly denied as Eris; neither is Cecilyセシリー.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q13",
+      "finding": "IMG022/U014P60-112 shows meal waiting, appetite, irritation and punishment talk. Kazuma later proposes eating while Aqua/Megumin still refuse; below-table image arrangement does not prove hiding or food theft.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q14",
+      "finding": "IMG023/U015P301-364 requires phases: earlier imposed bodily restraint, later specific intimate offer, then the abdominal remark and renewed anger. No completed sexual act or retroactive consent from the later offer.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q15",
+      "finding": "IMG007 pairs quotations from U016P464/466 with the later carryP498. Arm-grabbing, release request, payment, renewed objection, carry and chosen combatP511-516 are ordered, not simultaneous.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q16",
+      "finding": "U016P475-498 separates actual payment from ownership rhetoric. The2billionEris payment does not certify a right to Darkness's body, a completed intimate payment or lawful ownership.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q17",
+      "finding": "IMG024/025/U016P435-669: Aqua is the hired officiant and subverts the vows. Megumin's later actual skyward Explosion cracks city glass and makes people take cover; no harmless-fantasy or survival exemption.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q18",
+      "finding": "U016P568-600/658-668: Yunyun first notices the others already present, then accepts a covering role after explicit friendship and future-introduction promises. No Teleport cast is shown, and hypothetical rescue talk is not a completed later rescue.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q19",
+      "finding": "U016P669-693: Kazuma considers returning; Keith/Dust's performed injury claim obstructs pursuers and the crowd attacks guards. Helpful effect, deception, self-declared anti-noble grievance and violence coexist; no verified broken bones.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q20",
+      "finding": "IMG026/027/U016P744-784 is one father/daughter exchange followed by Aqua's actual SacredBreakSpell and visible improvement, then embarrassment. Not two encounters, feigned illness, actual death or a clinically complete follow-up.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q21",
+      "finding": "IMG028/U018P120-147: registration is Aqua's fictional-world report; no legal document or completed divorce is inspected. Later ridicule really upsets Darkness; spiral eyes are not a clinical diagnosis.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q22",
+      "finding": "IMG029/U019P49-54: Chris answers an Eris-addressed question, Kazuma explicitly recognizes her and she freezes smiling. The inset depicts a comic strike/reaction beyond the prose cutoff; do not erase it or certify prose-confirmed injury/new encounter.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q23",
+      "finding": "IMG030 is Mishima's2015.9 anime-congratulation coda; IMG031 is guest渡真仁 congratulations/comic promotion. Their authorship and production audience are distinct from Aqua's in-world thoughts.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q24",
+      "finding": "IMG032 stages Volume8 festival dialogue. Aqua assumes help, Megumin qualifies approval, Darkness declines and Chris reacts to nomination. No completed festival, Chris assent, real transfer of burden or new identity trial.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q25",
+      "finding": "U020P25-28 announces a planned shop-worker spinoff with a lonely child's new friend and a MitoKomon-inspired princess. Production prospect is not new performed Iris/Vanir behavior, an independent MASK confirmation or SI-C01 case.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q26",
+      "finding": "Original raster notes include manual spacing/punctuation normalization. They remain exact historical notes, not byte-exact XHTML quotations. The current selected24voice fragments use exact native base_text substrings; visual observations retain their declared raster plane.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q27",
+      "finding": "U024P3-14/17-21/25/28/32-35 use『』for broadcast thought; after removalP38 ordinary「」speech returns. Broadcast access is not voluntary candid self-disclosure, universal mind-reading or evidence of the target's unbroadcast private acts.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q28",
+      "finding": "U024P17-22: Wiz's request, concept and farmer trip are Kazuma's report. Wiz is absent; animal communication, farmer incapacity and a successful commercial product are unshown.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q29",
+      "finding": "U024P25-30/41-44: covert Blessing is Aqua's own retrospective account. Attack, void-game proposal, proof demand and penalty announcement occur; a new cast, rematch result and served bare meal do not.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q30",
+      "finding": "U024P32-36: Darkness refuses before Kazuma approaches again; no hat fitting, private-thought disclosure or completed intimate act follows. Her propriety assertion is defensive speech, not factual verification of private behavior.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q31",
+      "finding": "U024P45-48: thanks are heard after hat placement on a bottle; speaker and causal ontology remain unidentified. No bottle sentience, named dead person, Aqua speech or completed conversation is established.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    },
+    {
+      "id": "M07EX-Q32",
+      "finding": "U024P49-52: Aqua's crying voice requests extra food and Kazuma prepares one extra side. Visual tears, served/eaten meal, ultimate penalty cancellation and full repair are unshown; small care does not erase prior intrusive conduct.",
+      "authored_after_seal_utc": "2026-10-19T11:39:35.039105+00:00"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 292275,
+      "sha256": "9a698bc759ca62cfbb99f4aa2f5983613052ca4a158f7e0874f3a67c43578f94"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 212310,
+      "sha256": "45d182c902c1dbcc3f75304c1b38fe4b80c1f6d86daa387c0a6c54771737d874"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 781272,
+      "sha256": "3538dce22f57b9df2529fa271e0edbe65e5ddc5e5b800e5903dbf97e8ebf3e50"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 592063,
+      "sha256": "85b5eec96fd86ebe4d4d67e1afb8f865981dc65ce943eb740f731ad5de089358"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 190797,
+      "sha256": "68bd6259126fc548017f4b1cdd4108443b40eabd97d2720f089c05d364b17750"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 183683,
+      "sha256": "38379c54a641c7059d1ac33daa7a10c54c5fe4509e0dfcfc37732d7f0bf672fa"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 206007,
+      "sha256": "c5f302fa4b9d80af176573d8e9fd4d927cf730d7a923458b378429b5974d8f2b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 171603,
+      "sha256": "230834df14618a10113048807bbbe95183e1d84d282ef5d1005200eda5874f04"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 261542,
+      "sha256": "9f943e38288988f0a2df5e6e15677ab94ad630aac3cc12182f7d69ccdcd166a6"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 123095,
+      "sha256": "201b6af9fa745fcd8feb4b4199d6c009e07c0b70dbe31b3e2360bf5af911f4d7"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_or_old_secondary_forecasts_changed": false,
+    "Iris_SI_C01_original14null_fields_exact": true,
+    "entering_principal_party_transfer_six_and_Iris_model_pins_exact": true
+  },
+  "supplemental19_and_mixed5_gate_states_unchanged": true,
+  "main_excluded_component_programs": {
+    "this_source_analytically_accepted_containing_publication_pending": "MAIN-07",
+    "next_separate_source": "MAIN-08",
+    "accepted_principal_bodies_retained": true
+  },
+  "global_narrative_component_completion_percentage": null,
+  "next_boundary": "Exact publication/all-tree and changed-stream readback/source audit/housekeeping/final actual-source audit and status/fresh published-authority reload before MAIN08 excluded admission. Incorporate then-current main ordinarily if needed and repeat affected checks before the next push. Remaining main components, secondary census and earned cohorts, synthesis, versioned principal/party/transfer models, curation and release continue."
+}

@@ -1,0 +1,615 @@
+{
+  "schema": "KONOSUBA_YORI01_WHOLE_SUPPLIED_EDITION_SAME_ROOT_ACCEPTANCE_V1",
+  "source_id": "YORI-01",
+  "status": "ACCEPTED_AT_STATED_COMPONENT_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "accepted_utc": "2026-10-19T00:06:22.409696+00:00",
+  "native_identity": {
+    "native_filename": "Konosuba - Short Stories - Yorimichi.epub",
+    "native_bytes": 2395940,
+    "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+    "OPF_member": "content.opf",
+    "OPF_sha256": "bd03e0d8867c7acaa7bec3a4a490d6287042c21f8c98ad5251537afbde2dd2de"
+  },
+  "actual_source_and_reading_receipt": {
+    "schema": "KONOSUBA_YORI01_ACTUAL_WHOLE_SOURCE_AND_READING_RECEIPT_V1",
+    "source_id": "YORI-01",
+    "accepted_utc": "2026-10-19T00:06:22.409696+00:00",
+    "native_filename": "Konosuba - Short Stories - Yorimichi.epub",
+    "native_bytes": 2395940,
+    "native_sha256": "71bf144bb0cead076949ef195e773eadab84676c2d650935bb41786794fd3594",
+    "OPF_member": "content.opf",
+    "OPF_sha256": "bd03e0d8867c7acaa7bec3a4a490d6287042c21f8c98ad5251537afbde2dd2de",
+    "language": [
+      "ja"
+    ],
+    "colophon": "この素晴らしい世界に祝福を！ よりみち！. Author暁なつめ;illustration三嶋くろね;design百足屋ユウコ＋モンマ蚕（ムシカゴグラフィクス）;角川スニーカー文庫/KADOKAWA;publisher三坂泰二. Electronic and underlying print first edition2020-01-01/ver.002;copyrightNatsumeAkatsuki/KuroneMishima2020.",
+    "admission_sha256": "219d56c9c9998243985f891852933e87b2a32ee94037dc4b8c2143c086988513",
+    "admission_utc": "2026-10-18T23:10:20.533665+00:00",
+    "preceding_full_gate_source": "8cb0beaf1a17447785ebbb7d4402d0557035ff48",
+    "preceding_gate_sha256": "3faec5efac00e88f1513fed5e7ca78df0a915539b32f759e8b5185ba2b5589fd",
+    "preceding_fresh_reload_sha256": "2f8a088dadf6352cec2cf5bc7fe71c41fe7d6c7530b6be8532565dab9180327c",
+    "complete_uncoded_seal_sha256": "d028b7d6214345fc384b1be6845490844ce0217027e5cb0ef1f6078ce2eb695b",
+    "complete_uncoded_seal_utc": "2026-10-18T23:45:55.735751+00:00",
+    "actual_reading": {
+      "all_textual_components": 32,
+      "all_native_P_slots": 2784,
+      "principal_P_slots": 2748,
+      "other_P_slots": 36,
+      "separate_bonus_narrative": false,
+      "bonus_P_slots": 0,
+      "nonfiction_P_slots": 36,
+      "individually_identified_bonus_narrative_groups": [],
+      "individually_identified_narrative_image_groups": [],
+      "individually_identified_embedded_narrative_groups": [
+        {
+          "id": "YORI01-STORY01",
+          "native_units": [
+            "YORI-01-U012"
+          ],
+          "start_P": 1,
+          "end_P": 336,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY02",
+          "native_units": [
+            "YORI-01-U014"
+          ],
+          "start_P": 1,
+          "end_P": 353,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY03",
+          "native_units": [
+            "YORI-01-U016"
+          ],
+          "start_P": 1,
+          "end_P": 367,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY04",
+          "native_units": [
+            "YORI-01-U018"
+          ],
+          "start_P": 1,
+          "end_P": 398,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY05",
+          "native_units": [
+            "YORI-01-U020"
+          ],
+          "start_P": 1,
+          "end_P": 312,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY06",
+          "native_units": [
+            "YORI-01-U022"
+          ],
+          "start_P": 1,
+          "end_P": 302,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY07",
+          "native_units": [
+            "YORI-01-U024"
+          ],
+          "start_P": 1,
+          "end_P": 472,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        },
+        {
+          "id": "YORI01-STORY08",
+          "native_units": [
+            "YORI-01-U026"
+          ],
+          "start_P": 1,
+          "end_P": 208,
+          "scope": "Distinct integral anthology fiction body, Kazuma first-person, actually read in full; not a separately duplicated bonus body."
+        }
+      ],
+      "individually_identified_image_only_nonfiction_prose_groups": [
+        {
+          "id": "YORI01-PROFILES",
+          "component_id": "YORI-01-U010",
+          "image_id": "YORI-01-IMG008",
+          "scope": "Complete actual profile reading, role framing not new performed events."
+        },
+        {
+          "id": "YORI01-RASTER-AFTERWORD",
+          "component_id": "YORI-01-U027",
+          "image_id": "YORI-01-IMG023",
+          "scope": "Full actual author/illustrator comments and initial-publication table read, edition provenance not fictional consent."
+        },
+        {
+          "id": "YORI01-QR-PROMOTION",
+          "component_id": "YORI-01-U028",
+          "image_id": "YORI-01-IMG024",
+          "scope": "Full visible external SS/audio offer inspected; no linked content admitted."
+        },
+        {
+          "id": "YORI01-JACKET-BIOS",
+          "component_id": "YORI-01-U029",
+          "image_id": "YORI-01-IMG025",
+          "scope": "Whole jacket and magnified bios actually viewed; tiny nonmaterial illustrator phrase explicitly uncertain."
+        }
+      ],
+      "integral_image_only_prose_pages": 0,
+      "all_native_images_actually_viewed": 26,
+      "all_ruby_displayed_inline_and_nonparagraph_residual_received": true,
+      "all_native_local_and_archive_text_image_hash_joins_reverified": 58,
+      "fresh_native_ZIP_CRC": "PASS",
+      "image_individual_scopes_control": true
+    },
+    "source_first_sealed_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 32730,
+        "sha256": "219d56c9c9998243985f891852933e87b2a32ee94037dc4b8c2143c086988513"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 147859,
+        "sha256": "9c913a187d588b08fa4465dab1a7e84780cc6c2d479af7bddefd750fa819aaa5"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 154620,
+        "sha256": "d9830c048c44bef41c86cc2b3938bc34a1988e4aa0ef72988ff7275569765490"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 21434,
+        "sha256": "de5efd77187a033dea83d4ee996eb1d5e19f28a68d1bf2f3c369105eae67e008"
+      }
+    ],
+    "formal_coverage": {
+      "full_responsibilities": 17,
+      "selected_premises_not_census": 91,
+      "native_verified_short_form_context_witnesses": 126,
+      "local_unchanged_question_assessments": 31,
+      "append_only_decisions_across_ten_ledgers": 26,
+      "current_precision_qualifications": 64
+    },
+    "same_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+    "no_independent_second_full_pass_native_human_audio_claim": true,
+    "source_first_originals_remain_exact": true,
+    "original_four_scores_and_14_future_fields_unchanged": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING",
+    "midread_precision_context": "All126current voice fragments native-join. One original mistaken quote corrected attributably, three initially blank fragments selected later; originals exact. Carrot-body reading resolves earlier image uncertainty. Early-bond and full-preparation uncertainty, actual no, sincere causal ignorance, reports and unperformed ends preserved."
+  },
+  "current_root_check": "Same continuing informed root actually read all32textualunits2784P/26images before seal, authored full17responsibilityreport,91boundedcomicpremises,126individualnativejoinedvoicearguments,31principal/8partyexact-contractcomparisonsand4typedchecks,ten-ledgerdecisionsandprecisionqualifications. Prior accepted YORI01principaltrial/all39dispositions remain exact, no new score or independent pass.",
+  "current_qualifications": [
+    {
+      "id": "Q01",
+      "qualification": "All32textualunits/2784P/26images were actually received before formal coding; eight distinct fiction bodies total2748P, nonfiction36P.",
+      "source": "Complete source-first seal and native inventory"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Prior YORI01 principal validation was already accepted. This full literary/edition review is informed, same-root and not a second blind experiment.",
+      "source": "Entering prebody seal;accepted principal scorecard"
+    },
+    {
+      "id": "Q03",
+      "qualification": "Eight stable integral story IDs are distinct bodies, not eight new external bonuses; original bonus publication provenance does not create another supplied fiction denominator.",
+      "source": "U012/U014/U016/U018/U020/U022/U024/U026;IMG023"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Native afterword states seven republished/changed BD/DVD-associated stories plus newly written U026. Creator explanations and jokes are paratext, not character permissions.",
+      "source": "IMG023 full raster afterword"
+    },
+    {
+      "id": "Q05",
+      "qualification": "QR promotional SS/audio is referenced but not embedded, followed or admitted. Historical2020-05-31deadline is not current availability.",
+      "source": "U028/IMG024"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Repeated cover/title illustrations are individually viewed but not repeated events. IMG010 unnamed smiling foreground woman does not establish K sees a ghost or identify her as a named deity.",
+      "source": "IMG001/002/010/022/025"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Full jacket/bios were viewed with a magnified inspection. One tiny illustrator phrase after 圧倒的 remains uncertain; no narrative conclusion depends on it.",
+      "source": "U029/IMG025;original image notes"
+    },
+    {
+      "id": "Q08",
+      "qualification": "Original V060 note wrongly quoted 罪を憎んで人を憎まず. It is absent from the native window. Current form/gloss correct to crime-is-crime from P22, preserving original sealed error.",
+      "source": "U018P0022–0036;YORI01-WHOLE-V060"
+    },
+    {
+      "id": "Q09",
+      "qualification": "V062/V063/V065 originally left short quotation blank; current exact fragments were selected after the seal, with original blanks intact and all126 current windows native-joined.",
+      "source": "VOICE_REGISTER;U018P0101/0121/0149"
+    },
+    {
+      "id": "Q10",
+      "qualification": "Selected91humor/126voice records are purposive, overlapping context samples, not an event census, J02 denominator or new accuracy statistic.",
+      "source": "Current registers"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Every fiction body uses Kfirstperson, including private inference and retrospective report; spirit speech mediated by Aq and apparent-visitor speech retain separate access planes.",
+      "source": "U012–026"
+    },
+    {
+      "id": "Q12",
+      "qualification": "TOC order is not a continuous timeline. Mansion referral, Beldia debt, Vanir defeat and Hans thanks anchor different slices; no final-state knowledge backprojection.",
+      "source": "U020P0014;U018P0004/0122;U022P0004;U024P0430–0436"
+    },
+    {
+      "id": "Q13",
+      "qualification": "Client recognizes D while K misreads deference; client explicitly permits given-name address before Aq uses it.",
+      "source": "U012P0088–0109"
+    },
+    {
+      "id": "Q14",
+      "qualification": "Aq supplies corroborated father facts, but K does not hear the ghost independently; private father statements are mediated testimony.",
+      "source": "U012P0130–0144/0289–0293"
+    },
+    {
+      "id": "Q15",
+      "qualification": "K actually buys the requested gift after negotiating reward share; later admitted wine-blame deception does not prove every prior request fraudulent.",
+      "source": "U012P0158–0170/0296–0299"
+    },
+    {
+      "id": "Q16",
+      "qualification": "Farewell is successful yet diary destruction only promised, adoption disclosure leaves parents unknown, and family distress is not solved by departure.",
+      "source": "U012P0230–0254"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Wine level visibly falls while K hears Aq only; his intended apology is abandoned after her actual false-blame admission.",
+      "source": "U012P0289–0302"
+    },
+    {
+      "id": "Q18",
+      "qualification": "K considers Create Water, Demon King work and protecting his secrets; only running downstairs to stop disclosure is performed here.",
+      "source": "U012P0323–0336"
+    },
+    {
+      "id": "Q19",
+      "qualification": "M actually destroys the warrant before learning its allegation; exoneration of the current blasts does not erase obstruction or prior offenses.",
+      "source": "U014P0021–0023/0049–0056"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Lie-detector nonreaction is reported, malfunction only hypothesized. Unknown mushroom causation makes sincere denial compatible with indirect responsibility.",
+      "source": "U014P0052/0105–0106/0331–0353"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Yun is wrong about present guilt but genuinely offers shared apology; her actual later testing clears her. Prior female-devil scapegoat is not newly identified.",
+      "source": "U014P0166–0207"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Rival-caster suggestion precedes M’s competitive cold-day cast; K’s known discomfort is not an invented moral or grave-harm floor.",
+      "source": "U014P0076/0216–0227"
+    },
+    {
+      "id": "Q23",
+      "qualification": "D brings mushroom specimen and actual explanatory knowledge. Colony harvest and full cleanup are proposed, not completed.",
+      "source": "U014P0322–0346"
+    },
+    {
+      "id": "Q24",
+      "qualification": "Bear/wolf/creature/snake casts show power with different supplied preconditions. Later survival/support cannot supply every prior separation/resource/recovery guard.",
+      "source": "U014P0287–0303;U016P0109–0116;U024P0380–0404;U026P0189–0193"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Creature resemblance and Japanese-origin theory are K’s interpretations, not independent identification as an external myth being. No external lore imported.",
+      "source": "U016P0086–0100"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Aq’s Break Spell is cast with an explicit delayed horizon; subsequent caster-death rule is another cause when strength returns. No unique cure attribution.",
+      "source": "U016P0171–0174/0342–0359"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Useful force-testing occurs despite D’s no; consent does not follow from diagnostic success. Later accepted contest, welcomed care and wish for a new curse have different times.",
+      "source": "U016P0132–0159/0278–0298/0366"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Wiz’s finishing Explosion is offstage report; first Mcast left the creature wounded. No group final kill or directly viewed Wiz cast.",
+      "source": "U016P0316–0320/0354"
+    },
+    {
+      "id": "Q29",
+      "qualification": "D wants cure despite liking care; K’s extension proposal rejected, no actual new weakness curse performed.",
+      "source": "U016P0289/0297–0298/0366–0367"
+    },
+    {
+      "id": "Q30",
+      "qualification": "K Stealth, Chris cat imitation and police Neroid explanation are different actors’ contributions. Earlier crying becomes a meow, not proof of fear or injury.",
+      "source": "U018P0127–0137"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Chris wallet return/reward becomes retrospectively reported P149/194, not directly staged. Her caring theft story coexists with her own earlier coercive wager.",
+      "source": "U018P0145–0151/0194"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Aq’s own divine assertion P243 precedes explicit denial244; later revenge/game may be tactical rather than identity-legitimating. Preserve accepted ambiguity.",
+      "source": "U018P0243–0297"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Wallet contents are the agreed stake. Opponent’s seizure of Japanese gift wallet itself exceeds that term; earlier rule gaming does not erase Aq’s objection.",
+      "source": "U018P0291/0317–0322"
+    },
+    {
+      "id": "Q34",
+      "qualification": "One die loss does not establish failed Blessing or repeated-loss cycle; amount of boost and opponent relative luck unshown. Earlier spectator-bet settlement also unshown.",
+      "source": "U018P0273/0304–0317/0331"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Chris volunteers a valuable wager and restoration is reported. M surrenders under Steal threat; final seizure/exposure/arrest/stone destination not narrated.",
+      "source": "U018P0341–0357/0390–0398"
+    },
+    {
+      "id": "Q36",
+      "qualification": "D’s enthusiasm/slips imply the stone’s noble orderer but no explicit confession. M’s declared aesthetic attraction is not a verified market price or proven possession compulsion.",
+      "source": "U018P0375–0389"
+    },
+    {
+      "id": "Q37",
+      "qualification": "Aq’s adopted ghoul phase fails after newly perceived gore; Wiz actually rescues. Ordinary judgment adverse and fear-interference rival both remain.",
+      "source": "U020P0104–0127"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Mutual undead duel assent does not authorize Aq’s third-party purification, Explosion trial or later sacred-mana hold. Explicit protests/fleeing remain real.",
+      "source": "U020P0212–0258/0283–0308"
+    },
+    {
+      "id": "Q39",
+      "qualification": "M is present before actual Wiz-target proposal239–241 and eager255. Significant early bond is uncertain; outside position during later warning cannot erase all target receipt.",
+      "source": "U020P0239–0257;accepted M04 ambiguity"
+    },
+    {
+      "id": "Q40",
+      "qualification": "K objects/proposes alternative then K/D/M actually try pulling Aq off. Attempt is not successful cessation; Aq continues309 and harm312 remains.",
+      "source": "U020P0258/0302–0312"
+    },
+    {
+      "id": "Q41",
+      "qualification": "Wiz’s concern/trust in a changed contest is not informed willing consent to serious harmful sacred mana. A05 exact trigger absent while broad unconsented harm remains.",
+      "source": "U020P0269–0307"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Vampire purification is explicit; Wiz shop closes for a week. Permanent Wiz death and exact healing route are not stated.",
+      "source": "U020P0311–0312"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Carrier purchase and three-day silence are actual; worn carrier or completed cart design is not. Illustration shows distress and offered item, not wearing.",
+      "source": "U022P0045–0076/0157;IMG018"
+    },
+    {
+      "id": "Q44",
+      "qualification": "Daughters-in-law’s distress and Aq’s apology-dance account have different perspectives; a good intention does not establish good received effect.",
+      "source": "U022P0098–0102"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Aq sells more units, Vanir more profit; both help employer. Received potatoes are payment in kind, permanent roles declined.",
+      "source": "U022P0136–0154"
+    },
+    {
+      "id": "Q46",
+      "qualification": "Charm zero sales does not imply failed magic: K explicitly refuses broad protection because it blocks wanted services. No home efficacy experiment is shown.",
+      "source": "U022P0193–0209"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Dream-service rumor/expectation is not provider consent or performed intimacy. Deception/reveal is reported later; critical non-graphic treatment only.",
+      "source": "U022P0227–0295"
+    },
+    {
+      "id": "Q48",
+      "qualification": "Publicly useful Vanir is welcomed while private harm motivates K’s contrary vow. No performed killing or authorized extermination follows.",
+      "source": "U022P0297–0302"
+    },
+    {
+      "id": "Q49",
+      "qualification": "Ozuma actually helps K before threatening resemblance is converted into an alias; outsider party has real separate identities, not possession or magical doubles.",
+      "source": "U024P0025–0054"
+    },
+    {
+      "id": "Q50",
+      "qualification": "K’s ecology explanation is explicitly improvised; M’s plausible agreement and actual bear kills/wolf approach do not uniquely prove it.",
+      "source": "U024P0327–0336"
+    },
+    {
+      "id": "Q51",
+      "qualification": "Silver arrow is actually made during leisure, later used successfully, while Ozuma’s foresight theory is false and deliberately encouraged.",
+      "source": "U024P0242–0246/0368–0393"
+    },
+    {
+      "id": "Q52",
+      "qualification": "Wolf boss kill does not disperse pack; prior accepted fallback380 receives failure cue394/396 and actual new authorization399.",
+      "source": "U024P0380–0404"
+    },
+    {
+      "id": "Q53",
+      "qualification": "Aq actually heals patient before Akyua’s cast, then strangles him after disliked credit correction. Technical competence is neither courtesy nor harmlessness.",
+      "source": "U024P0299–0321"
+    },
+    {
+      "id": "Q54",
+      "qualification": "Aq’s stop request during tussle is ignored while K narrates fun. Recipient boundary is preserved independently of laughter and illustration.",
+      "source": "U024P0142–0145;IMG020"
+    },
+    {
+      "id": "Q55",
+      "qualification": "Original K08 local F U018P34–35 remains. Internal polite pleas U024P464–468 are not externally received responses; U026P38 is adjacent compatibility only.",
+      "source": "Accepted YORI01 scorecard;current source intervals"
+    },
+    {
+      "id": "Q56",
+      "qualification": "D07 cannot be composed from unrelated dependence, public crowd change and name tears; D04 needs her unfair substantial-sacrifice appraisal, not any duty.",
+      "source": "U016P0328–0364;U024P0212–0215;U026P0069"
+    },
+    {
+      "id": "Q57",
+      "qualification": "Recruiter’s qualification-stripping capacity is reported, intention initially unknown. Actual recruitment aim corrects party assumption; next-day departure does not imply license loss.",
+      "source": "U026P0036/0124–0126/0208"
+    },
+    {
+      "id": "Q58",
+      "qualification": "K’s home speech has private specific-service motive; same motives of men are inferred. Capital move and heaven return do not supply equivalent-person trials.",
+      "source": "U026P0143–0158;U012P0321"
+    },
+    {
+      "id": "Q59",
+      "qualification": "Small snake strategy fails, actual K rescue follows; later Aq admits capture without knowing the species. Later species knowledge is not prior knowledge.",
+      "source": "U026P0101–0116/0178"
+    },
+    {
+      "id": "Q60",
+      "qualification": "E06 predicts recipient resistance, not perpetrator restraint. M/Wiz do object; continued wrongdoing cannot by itself be mis-scored as E06 failure.",
+      "source": "Exact unchanged E06;U022P0071/0076;U020P0293–0299"
+    },
+    {
+      "id": "Q61",
+      "qualification": "E03 requires actual dependency-directed act/request by a preidentified receiver. Persistent cost alone is not confirmation; unshown postwolf carry opportunity remains unresolved.",
+      "source": "Exact unchanged E03;U020P0131/0302–0308;U024P0418–0472"
+    },
+    {
+      "id": "Q62",
+      "qualification": "Ordinary idiom, customer-as-god script, eye-color vigilance variation and knowledge uncertainty do not automatically require L3/H3. One exact minimal name relation is selected L3.",
+      "source": "Humor/voice warrants;MASK additive qualification unchanged"
+    },
+    {
+      "id": "Q63",
+      "qualification": "Original66current/72historical/fourholdouts/Dust01questions14blankfields/originalPVprefix remain exact. StageD and later-source models are still separate future work.",
+      "source": "Frozen controls and current private candidate checks"
+    },
+    {
+      "id": "Q64",
+      "qualification": "Sixteen of nineteen whole supplemental editions would be accepted only after this exact containing gate; no global narrative-component percentage until denominator audit.",
+      "source": "Full remaining program boundary"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 266125,
+      "sha256": "69f75994d410212de2b97a8e92bca9e3c5aca6c433761d0229a4cf147fea51a8"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 192606,
+      "sha256": "9ab1dc04fac799b5b3c1a89fbfa848aded7e6f1ce87388a14ba16b555f82c2a7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 762455,
+      "sha256": "6c644a15c5810d6a3a2166c564ab68cef3eb684782eb4d1e2d537ad1e33a2737"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 574026,
+      "sha256": "8c5c761b29c142d2b0680e7e049e0191fbaf2600b76596254db225ce11bb45f6"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 170316,
+      "sha256": "fd087564252b6022430f45ca2b34fb7d470a40f6df911a18b07bbec079f780d3"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 163826,
+      "sha256": "c8bed7cad6e61ff8741cedffe1db39c0e48467a853dc6df25b7ab0297d431f02"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 186271,
+      "sha256": "8f385137a5286ccc57aa5050593f3bd7457f5a6168ea8b4e4cfaaaa955814ea9"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 152465,
+      "sha256": "a54d80868804e17d74e4efacca551d88dd6caeaa9614276e5d5ce4baa672049d"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 241351,
+      "sha256": "05d86f2f69a7bbae27237a83adfe218e4565fa0db6802896ca2484d62736eb67"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 100657,
+      "sha256": "3e6d57b95c175ab9a2ef6bb3af49c8173565905e8ebbf080b9a3dc9a4c13ca2e"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_changed": false
+  },
+  "whole_edition_accounting_only": {
+    "supplemental_total": 19,
+    "accepted_including_this_pending_publication": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK",
+      "FD",
+      "YORI-01"
+    ],
+    "previously_published_full_gate_closed": [
+      "DUST-01",
+      "DUST-02",
+      "DUST-03",
+      "DUST-04",
+      "DUST-05",
+      "DUST-06",
+      "DUST-07",
+      "DUST-CONT",
+      "EXP-01",
+      "EXP-02",
+      "EXP-03",
+      "CONTEXP-01",
+      "CONTEXP-02",
+      "MASK",
+      "FD"
+    ],
+    "mixed_programs_published_at_stated_scopes": 5
+  },
+  "global_narrative_component_completion_percentage": null,
+  "remaining_boundary": "CloseYORI01exactremotealltree/changedbytes/sourceaudit/HK/finalactualsourceaudit/status/freshpublishedauthorityreload beforeYORI02admission. ThenYORI02–04,all17mainexcludedcomponentprograms,expanded/full syntheses,attributableversionedStageD,secondaryreconstructionsorlimiteddispositions,index/componentaudit/releasemanifests/finalentrytransitiononlyifearned. Globalnarrativecomponentdenominatorunresolved,percentage null."
+}

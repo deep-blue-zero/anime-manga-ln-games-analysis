@@ -1,0 +1,1647 @@
+{
+  "schema": "BLUE_ARCHIVE_AOI_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355required/29non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+  "dated_source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "fixed_package_sequences": [
+      129,
+      130,
+      131,
+      132,
+      133
+    ],
+    "new_packages": 5,
+    "after_complete_ROOT_install": 133,
+    "characters": 100,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 12,
+    "named_duties": 13,
+    "new_named_completions": 0,
+    "published_before_successor": 128,
+    "merged_main": 128,
+    "next_milestone": 178,
+    "later134plus": "EXCLUDED",
+    "mechanical_transport_credit": 0
+  },
+  "current_source128_complete_chain": {
+    "original_exact_tuple": {
+      "bytes": 6234,
+      "sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+      "git_blob_oid_of_actual_bytes": "a2f9d228e9112d1bbcdac2257cc779c776bea20d"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-ea923128-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T03:09:55.396940+00:00",
+      "source": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "source_parent": [
+        "5933ee5e3859049509357c06e739ef91e0e7c98c"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EA923_SOURCE128_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34415,
+        "sha256": "080ab21eb0c5eef9e27def112e0647712af9a82711e060a235806a883ee46f5b",
+        "git_blob_sha1": "594a4670a5e62753f4b29e1c42559a75c4f4db65"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38106064392,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106064392",
+            "created_at": "2026-10-11T02:43:24Z",
+            "updated_at": "2026-10-11T02:58:26Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362639,
+            "lines": 2288,
+            "sha256": "e7d4884ff5354e7cf039c68402dd7302334f1c43b23e45d649ef7fc0d6da04c2",
+            "git_blob_oid_of_actual_bytes": "ebd6a45e99640917927d427215b23879fb72a3ab"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38106873063,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106873063",
+            "created_at": "2026-10-11T02:58:28Z",
+            "updated_at": "2026-10-11T02:58:48Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44343,
+            "lines": 267,
+            "sha256": "4d71d211cc830fde0e1954e3fe308b1d565b38a531a06ec18adb3a2f0d8a2e74",
+            "git_blob_oid_of_actual_bytes": "299db419e9c58692bf9696be6dcd29388c7738c3"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526266Z PASS: dispatched the full audit for ea92302c7e9044dc1633b76c498a0a3bb3bae246"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T02:58:45.8526914Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38106890357,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+            "created_at": "2026-10-11T02:58:47Z",
+            "updated_at": "2026-10-11T03:07:00Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 362079,
+            "lines": 2283,
+            "sha256": "50e89ce9b20ec0d72bb55b4c80a346bae0c1a50858129df56512afae3d420558",
+            "git_blob_oid_of_actual_bytes": "eb7676087d83cf2e9be3c4f91d8f0e34054b2022"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+          "actual_execution": {
+            "commit": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56072519998,
+        "node_id": "SC_kwDOUJ9ads8AAAANDi7BPg",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38106890357",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T03:06:56Z",
+        "updated_at": "2026-10-11T03:06:56Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "26c699 actual SOURCE/full292 zero errors failures skips, HOUSE two no-op/dispatch witnesses, FINAL actual ea923/full292 zero errors failures skips; exact status56072519998",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published128/merged89; ROOTaccepted129 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_SOURCE_AND_ACTUAL_SCOPE_RECEIPT_V1.json",
+    "bytes": 50824,
+    "sha256": "574865380d1dac2d20dc637f429b1c0c4646b17900d8be0cb1101402ab04c63c",
+    "git_blob_oid_of_actual_bytes": "1006f9519ba37c06bdcefb72fd7219e835e582e5",
+    "immutable_transport_path": "immutable_originals/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_SOURCE_AND_ACTUAL_SCOPE_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "AOI_UNSEALED_AUTHOR_SOURCE_AND_SCOPE_RECEIPT_V1",
+    "status": "COMPLETE_BOUNDED_AUTHOR_CANDIDATE_ROOT_RECEIVING_PENDING",
+    "body": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 39166,
+      "sha256": "70f43a9a074f69dae2429696c79f3bb6054aaaf1ad959a63c43aa329fde1bb92",
+      "git_blob_oid_of_actual_bytes": "882a96a439249bdcccbba56832845a85447e603a",
+      "physical_lines": 166
+    },
+    "current_source_authority": {
+      "analytical_main2e": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "eight_normal_capture": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "ninth_normal_capture": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "merged_main89": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "japanese_source": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "publication125": "ROOT-reported source5933; no own provider verification; automatic chain pending at allocation",
+      "architecture": "1.12 / seven-point-one eleven dimensions",
+      "retrospective_exposure": "Known; no blind independence or FIRST/SECOND declaration"
+    },
+    "existing_exact_Aoi_home": {
+      "required_package_id": "P3-CHAR-M001",
+      "kind": "CHARACTER",
+      "subject_or_question": "Aoi",
+      "source_responsibility_refs": "P3-M001",
+      "mandatory_named_section_ids": "",
+      "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+      "canonical_path": "",
+      "persistence_state": "UNACCEPTED",
+      "remote_publication": "NOT_YET_PUBLISHED",
+      "main_integration": "NOT_YET_INTEGRATED",
+      "completed_after_ROOT_install": "false",
+      "required_count": "1"
+    },
+    "existing_exact_Aoi_partition": {
+      "home_key": "P3-CHAR-M001",
+      "kind": "CHARACTER",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-M001"
+      ],
+      "literary_rationale": [
+        "Complete preserved literary thesis/contrary/eleven-dimension source decision and identity limit; no stakes/popularity/private-pool filter"
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "original_Aoi_question_verbatim": {
+      "candidate_unit_id": "P3-M001",
+      "subject": "Aoi",
+      "verdict": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+      "review_state": "SUBSTANTIVE_LOCAL_RECOMMENDATION_ROOT_ADOPTION_PENDING",
+      "package_key": "P3-CHAR-M001",
+      "raw_identity_or_source_ids": "",
+      "exact_identity_scope": "Literalアオイ is speaker-only in the bounded inquiry. Aoi-addressed misplaced lines are not fine register evidence. I023 remains an unjoined work comparator.",
+      "inspected_current_homes": [
+        "02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+        "02 Sequential Readings/CHARACTER_DATA/UNRESOLVED/BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md"
+      ],
+      "sections_11_feasibility": {
+        "core_thesis": "Aoi makes another person’s finite rest and workable administration a responsibility; her competence coexists with errors, reports and uncertain identity recognition.",
+        "longitudinal_arc_public_private": "V004 council work and Final deliberation broaden into S2V001 intervention around Rin. A concrete document-format error defeats an impeccable-manager portrait. Reports of weeks without leave, skin change and finance percentages are not measured health or audited accounts; her recognition of the claimant is genuine social action with disputed object.",
+        "school_club_role": "Finance work includes deadline extension and distributed colleagues rather than a solitary superhuman presidency. Office capacity, policy legitimacy and authenticated succession stay separate.",
+        "ordinary_life": "Concern for Rin and the actual Valentine tasting/gratitude in 834105 have intrinsic worth. Coffee is offered rather than shown consumed. Neither workplace courtesy nor the 60000 written assistant is automatically the whole Aoi voice.",
+        "crisis_behavior_and_counterevidence": "She participates in pressured governance while asking for a viable pause. Concern and claimant recognition can both be sincere without deciding whose memory is correct.",
+        "sensei_relationship": "Aoi asks Sensei for particular help with Rin;834105’s ordinary adult exchange supplies chosen recognition, not a universal counseling or romantic status.",
+        "major_peer_relationships": "Aoi→Rin seeks rest; Ayumu/Momoka’s limited coverage is materially different from Aoi’s deadline decision. Shared office does not make all colleagues agree.",
+        "language_voice_identity": "Literalアオイ is speaker-only in the bounded inquiry. Aoi-addressed misplaced lines are not fine register evidence. I023 remains an unjoined work comparator.",
+        "evidence_route": "BA:main:004:002:007:u0019–0041; BA:main:series2:001:001:001–002; BA:main:series2:001:001:005:u0017–0030; BA:event:834:105; I023",
+        "public_private_self": "Retain the represented public, private-staged, inward, reported and conditional channels described above. Positive coherent private comparators: EVENT834.",
+        "competing_readings": "The thesis and contrary acts above must both appear. Do not promote an invariant, a total reform/fraud, a sole-savior cause, universal consent, or a verified technical/medical/legal mechanism from the bounded outcomes."
+      },
+      "no_exclusion_basis": "No stakes, popularity, model grade, MAIN frequency, animal/system/antagonist status or private-join absence used as an exclusion rule.",
+      "mandatory_debt": [
+        "ROOT must receive/adjudicate this complete candidate argument and reconcile identity/package overlap before denominator freeze.",
+        "Complete the shared 105-owner appearance/roster review and trace any consequential additional source to its adequate existing argument; a bounded route query is not global absence.",
+        "A future specialist must write all 11 sections and substantive competing readings at exact evidence scope; this census is not a completed monograph."
+      ],
+      "legitimate_limits": [
+        "All 14 original gaps remain OPEN and claim-specific; missing global chronology, voice performance and unprinted future acts constrain claims.",
+        "Existing accepted arguments reused; no new primary-reading or model/validation credit."
+      ],
+      "matched_dated_retrieval_siblings": [
+        "P3-A057"
+      ]
+    },
+    "I023_comparator_question_verbatim": {
+      "candidate_unit_id": "P3-I023",
+      "subject": "BA:character_data:event_costume:1900914001:character:0",
+      "local_id": "1900914001",
+      "verdict": "BOUNDED_IDENTITY_OR_SOURCE_ROLE_DISPOSITION",
+      "review_state": "SUBSTANTIVE_LOCAL_RECOMMENDATION_ROOT_ADOPTION_PENDING",
+      "package_key": "P3-DISP-UNJOINED-WRITTEN-LOCAL-ROLES",
+      "raw_identity_or_source_ids": "BA:character_data:event_costume:1900914001:character:0",
+      "inspected_current_homes": [
+        "02 Sequential Readings/CHARACTER_DATA/UNRESOLVED/BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md"
+      ],
+      "positive_ordinary_meaning": "60000 assistant completed/renewed lists/residual checks Day 6/13/Close; hurt/suspicion/goods/luck.",
+      "exact_identity_and_contrary_limit": "Aoi M001 comparator without whole Aoi identity. Asked residual check not audited zero omissions; luck not product statistical proof.",
+      "mandatory_debt": [
+        "ROOT adoption and exact per-object route registration in final census; no person/variant merge by this working draft.",
+        "Retain every meaningful written refusal, want, report and condition in named comparisons; identity uncertainty is not missing text/replay debt."
+      ],
+      "legitimate_limits": [
+        "535 normalized records/528 nonempty Japanese/seven empty placeholders account received analytically, not 535 new primary reads.",
+        "Six empty envelopes, six contextual-only and 15 costumes are 27 duties, not 27 new people or automatic independent monographs."
+      ],
+      "revisit_trigger": "Positive source-local identity continuity or a distinct coherent character/relationship question from current 105-owner census; no stakes/popularity/appearance threshold.",
+      "matched_dated_retrieval_siblings": []
+    },
+    "I023_current_separate_home_verbatim": {
+      "home_key": "P3-REGISTER-UNJOINED-WRITTEN27",
+      "kind": "REGISTER",
+      "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+      "source_responsibility_refs": [
+        "P3-I001",
+        "P3-I002",
+        "P3-I003",
+        "P3-I004",
+        "P3-I005",
+        "P3-I006",
+        "P3-I007",
+        "P3-I008",
+        "P3-I009",
+        "P3-I010",
+        "P3-I011",
+        "P3-I012",
+        "P3-I013",
+        "P3-I014",
+        "P3-I015",
+        "P3-I016",
+        "P3-I017",
+        "P3-I018",
+        "P3-I019",
+        "P3-I020",
+        "P3-I021",
+        "P3-I022",
+        "P3-I023",
+        "P3-I024",
+        "P3-I025",
+        "P3-I026",
+        "P3-I027",
+        "RESIDUAL26::significant_responsibilities::17"
+      ],
+      "literary_rationale": [
+        "27 distinct unjoined written-source decisions preserved as complete named sections, not 27 people",
+        "Shuerin’s10144 wants belong in Shun’s comparative home with their own mode and conditionality. Moe’s three conflicted costumes remain mandatory source-form questions without secure personal deltas. The complete selected810/80000/80001 gifts provide wider local role rosters and peer-home overlaps; they do not authorize wholesale automatic people/chronology joins. Nozomi’s bought convenience, Aoba’s constrained cheap gift, Ritsu’s actual marble lesson, Yakumo’s baker-made cake, Subaru’s bodily craft and Love/Kei’s unfinished or ignored requests defeat a common price/homemade/sincerity meter. Respected timing, voluntary continuation, pressure, refusal and later allowance have different recipients and endings. ROOT must preserve those wider positive questions without counting one whole gift owner multiple times across census lanes."
+      ],
+      "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "counts_as_completed": false,
+      "proposed_denominator_entry": true
+    },
+    "normal_inputs": [
+      {
+        "alias": "AO01",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO01__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 38506,
+          "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+          "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+          "physical_lines": 259
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A01__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 38506,
+          "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+          "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "bytes": 38506,
+          "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+          "lines": 259,
+          "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+          "emitted_ranges": [
+            [
+              1,
+              130
+            ],
+            [
+              131,
+              259
+            ]
+          ],
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "CONNECTED_ANALYTICAL_SPANS_PLUS_REUSED_PRIOR_WHOLE",
+          "spans": [
+            [
+              41,
+              105
+            ],
+            [
+              150,
+              180
+            ]
+          ],
+          "tools": [
+            "287bbb"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO02",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO02__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+          "physical_lines": 94
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A02__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "lines": 94,
+          "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+          "emitted_ranges": [
+            [
+              1,
+              94
+            ]
+          ],
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              94
+            ]
+          ],
+          "tools": [
+            "d24018"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO03",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO03__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+          "physical_lines": 414
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A03__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "lines": 414,
+          "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+          "emitted_ranges": [
+            [
+              1,
+              350
+            ],
+            [
+              351,
+              414
+            ]
+          ],
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "CONNECTED_ANALYTICAL_ACCOUNT_PLUS_REUSED_PRIOR_WHOLE",
+          "spans": [
+            [
+              1,
+              145
+            ],
+            [
+              299,
+              414
+            ]
+          ],
+          "tools": [
+            "d9b4bf",
+            "d5d08b"
+          ],
+          "header_only_span": [
+            1,
+            145
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO04",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO04__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+          "physical_lines": 452
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A04__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "git_blob_oid_of_actual_bytes": "4712932e1058e7babcc693932caedcfd1a076622",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "bytes": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "lines": 452,
+          "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "CONNECTED_ANALYTICAL_SPANS_PLUS_REUSED_PRIOR_WHOLE",
+          "spans": [
+            [
+              101,
+              177
+            ],
+            [
+              203,
+              241
+            ]
+          ],
+          "tools": [
+            "f02a59"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO05",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO05__BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 53866,
+          "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+          "git_blob_oid_of_actual_bytes": "44f05d6979aa11562bb7d548664ae24aefe53a8f",
+          "physical_lines": 268
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A05__BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 53866,
+          "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+          "git_blob_oid_of_actual_bytes": "44f05d6979aa11562bb7d548664ae24aefe53a8f",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_834/BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+          "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "bytes": 53866,
+          "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+          "lines": 268,
+          "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              135
+            ],
+            [
+              136,
+              268
+            ]
+          ],
+          "tools": [
+            "d66cb9",
+            "7270fb"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO06",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO06__BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 26901,
+          "sha256": "54ca96ef458fde3a7ab87b9f310cc7c06890bb39c6d0bbcdf0d88b6cd8aa5ec2",
+          "git_blob_oid_of_actual_bytes": "1dcaa6d18d96b8c1959e40e70e22cf36919db828",
+          "physical_lines": 143
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/UNRESOLVED/BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A06__BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 26901,
+          "sha256": "54ca96ef458fde3a7ab87b9f310cc7c06890bb39c6d0bbcdf0d88b6cd8aa5ec2",
+          "git_blob_oid_of_actual_bytes": "1dcaa6d18d96b8c1959e40e70e22cf36919db828",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/UNRESOLVED/BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+          "read_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "analytical_source_owner": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "bytes": 26901,
+          "sha256": "54ca96ef458fde3a7ab87b9f310cc7c06890bb39c6d0bbcdf0d88b6cd8aa5ec2",
+          "lines": 143,
+          "actual_receiving": "COMPLETE_THROUGH_EOF_AFTER_REPAIRS_WHERE_NEEDED",
+          "emitted_ranges": [
+            [
+              1,
+              143
+            ]
+          ],
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              143
+            ]
+          ],
+          "tools": [
+            "681264"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO07",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+          "physical_lines": 83
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "lines": 83,
+          "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              83
+            ]
+          ],
+          "tools": [
+            "ea0ed2"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO08",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2",
+          "physical_lines": 76
+        },
+        "current_ROOT_custody": {
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "current_source": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2",
+          "working_equals_exact_commit": true,
+          "role": "ADMITTED_NORMAL_ANALYTICAL_SOURCE"
+        },
+        "prior_same_author_custody_verbatim": {
+          "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "read_base": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "current_control_base": "2927442fef0daa17df1098d82bb62e0d8a46f19f",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "lines": 76,
+          "actual_receiving": "REUSED_PERSONALLY_COMPLETE_ARGUMENT_FROM_FROZEN_TOKI_RECEIPT",
+          "source_byte_equality_at_292_and_2e": true
+        },
+        "prior_equality_grade": "DOCUMENTARY_SAME_FILE_TUPLE_EQUALITY_NO_NEW_RECEPTION",
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              76
+            ]
+          ],
+          "tools": [
+            "ea0ed2"
+          ]
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO09",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO09__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bytes": 8810,
+          "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+          "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+          "physical_lines": 52
+        },
+        "current_ROOT_custody": {
+          "schema": "ROOT_AOI_EXACT_POSITIVE_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_V1",
+          "checked_UTC": "2026-10-11T01:41:19.942957+00:00",
+          "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_5933125_V1/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bytes": 8810,
+          "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+          "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+          "physical_lines": 52,
+          "working_equals_exact_commit": true,
+          "allocation": "ROOT_AOI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+          "positive_existing_route": "Original M001 duty BA:main:004:002:007:u0019–0041; exact admitted Phase2 analytical episode, not new primary replay.",
+          "ROOT_copy_reading_credit": "NONE; author must personally receive complete consequential normal argument and finite ending.",
+          "allowed_work": "Allocated Aoi character analysis may read this exact small admitted analytical copy with its source-local attribution and ending; no expansion of source admission/person identity/denominator.",
+          "protected39_UNBOUND9_private_H_phase2_content_hash_access": false,
+          "R_Git_provider_mutations": false
+        },
+        "prior_same_author_custody_verbatim": null,
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              52
+            ]
+          ],
+          "tools": [
+            "be34fd"
+          ],
+          "custody_receipt_whole_tool": "be34fd"
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO10",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO10__BLUE_ARCHIVE_MAIN_S2_V001_C001_E001_DEEP_READING.md",
+          "bytes": 6155,
+          "sha256": "bcfbaa19ac90696fb754ad8d57a31c703b731d6e3ed3462dd466db96097d2afd",
+          "git_blob_oid_of_actual_bytes": "72ed3b6bc7b2b78bd7899111ef29d4e7fbd6e5bd",
+          "physical_lines": 39
+        },
+        "current_ROOT_custody": {
+          "schema": "ROOT_AOI_EXACT_S2V001_C001_E001_ANALYTICAL_NORMAL_CUSTODY_V1",
+          "checked_UTC": "2026-10-11T01:48:16.706373+00:00",
+          "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_E001_DEEP_READING.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_S2V001_C001_E001_NORMAL_CUSTODY_5933125_V1/BLUE_ARCHIVE_MAIN_S2_V001_C001_E001_DEEP_READING.md",
+          "bytes": 6155,
+          "sha256": "bcfbaa19ac90696fb754ad8d57a31c703b731d6e3ed3462dd466db96097d2afd",
+          "git_blob_oid_of_actual_bytes": "72ed3b6bc7b2b78bd7899111ef29d4e7fbd6e5bd",
+          "physical_lines": 39,
+          "working_equals_exact_commit": true,
+          "purpose": "Aoi allocated substantive argument; precise actor of document error and deadline decision, complete connected ending.",
+          "reading_admission_identity_primary_AV_credit": 0,
+          "protected39_UNBOUND9_raw_private_H_phase2_access": false,
+          "R_Git_provider_mutations": false
+        },
+        "prior_same_author_custody_verbatim": null,
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              39
+            ]
+          ],
+          "tools": [
+            "90c6d4"
+          ],
+          "custody_receipt_whole_tool": "90c6d4"
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      },
+      {
+        "alias": "AO11",
+        "exact_bound_copy": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO11__BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 10407,
+          "sha256": "36bc50a92d91a8bb77762e481ad940d8f7f88eae279d01b1cf713a3c69cda2dd",
+          "git_blob_oid_of_actual_bytes": "a9e8e0a50cbb0c5cd3c221e1af386f57d602b01c",
+          "physical_lines": 77
+        },
+        "current_ROOT_custody": {
+          "original_owner_pointer": "/owners/68",
+          "dispatch_owner_ref": 68,
+          "source_class": "EVENT",
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_824/BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bound_C_copy": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EXACT105_CURRENT_ADMITTED_NORMAL_CUSTODY_5933125_V1/068__EVENT__BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 10407,
+          "sha256": "36bc50a92d91a8bb77762e481ad940d8f7f88eae279d01b1cf713a3c69cda2dd",
+          "git_blob_oid_of_actual_bytes": "a9e8e0a50cbb0c5cd3c221e1af386f57d602b01c",
+          "physical_lines": 77,
+          "working_equals_exact_commit": true,
+          "historical_receiving_declarations": "ATTRIBUTED_ONLY_NOT_UPGRADED"
+        },
+        "prior_same_author_custody_verbatim": null,
+        "actual_fresh_author_analytical_receiving": {
+          "grade": "FRESH_WHOLE_ACCEPTED_ANALYTICAL_ARGUMENT",
+          "spans": [
+            [
+              1,
+              77
+            ]
+          ],
+          "tools": [
+            "40af06"
+          ],
+          "actor_and_source_grade": "Ayumu direct report about Aoi approval; not Aoi direct dialogue/cash/repair/reinstatement"
+        },
+        "original_primary_native_raw_QA_AV_credit": 0
+      }
+    ],
+    "documentary_dependencies": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/BLUE_ARCHIVE_AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1.md",
+        "bytes": 20084,
+        "sha256": "3736d3d34169176ee7bfdb48eda43de2dc924c09e35e116d40480c1cd7c69a3c",
+        "git_blob_oid_of_actual_bytes": "fe17b384af0fcfab28fd855000c56f50837d6f67",
+        "physical_lines": 110
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_EXACT_CURRENT_AND_PRIOR_METADATA_SOURCE_COMPANION_V1.json",
+        "bytes": 49939,
+        "sha256": "72f1981f1eee0328d2b8ab574358f38df3fdf8dc12085c2bbf26df2a14336d4c",
+        "git_blob_oid_of_actual_bytes": "e9d81c7cbdc2ecf4284e1c3f1bbf14c1de9ac14e",
+        "physical_lines": 688
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/verify_aoi_metadata_plan_readonly.py",
+        "bytes": 5639,
+        "sha256": "13ec16b9107a5fe966a9ccf775a7c4771e248930b95885985e90ec3d41506770",
+        "git_blob_oid_of_actual_bytes": "0a489d13bfb15d522f5375357ed9caeed245239f",
+        "physical_lines": 83
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/build_aoi_exact_metadata_companion.py",
+        "bytes": 8889,
+        "sha256": "fc1741bb9e52803fe5f8e067994ca7b8e05eafb4739992a359cb59d2d3a60e97",
+        "git_blob_oid_of_actual_bytes": "098edf8fd029e22f09194bb3bdbbbaca1bb6a2b9",
+        "physical_lines": 131
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_METADATA_AND_DOCUMENTARY_INVERSE_VERIFICATION_V1.json",
+        "bytes": 948,
+        "sha256": "a87d931cf98a6918b5ee72d2eb717c4bc01006919889bf45ce0aea8ba09c887e",
+        "git_blob_oid_of_actual_bytes": "b5e373e67fde88d4504df8e57d7cc4aefeb5cf42",
+        "physical_lines": 22
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_METADATA_PLAN_READABLE_AUTHOR_RECEIVING_RECEIPT_V1.md",
+        "bytes": 3647,
+        "sha256": "7ab8cff7e2ab4a6ced706c7f0f826af43a02e493c058c90e3f41d95cd463b7c2",
+        "git_blob_oid_of_actual_bytes": "91b74845e004a6390466513659acf3186eef576a",
+        "physical_lines": 17
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_METADATA_PLAN_COMPLETE_AUTHOR_RECEIVING_AND_FREEZE_V1.json",
+        "bytes": 5245,
+        "sha256": "fdf77b7dfafef134ebf882f2d7ef44efb16490b66e771b906dfa14fea83b0b28",
+        "git_blob_oid_of_actual_bytes": "d05c6a4a9b2743efb7c9097760909b34d078afe8",
+        "physical_lines": 107
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/ROOT_EXACT_EIGHT_AOI_CURRENT_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 7471,
+        "sha256": "8285d01d17c83564849b27f2f40db856696c00ede9cf3dbe88dd5d608db16e2e",
+        "git_blob_oid_of_actual_bytes": "e98db1e3ef041b62324a99c7c39ed01d8628d673",
+        "physical_lines": 103
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_5933125_V1/ROOT_AOI_EXACT_V004_C002_E007_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 1583,
+        "sha256": "a1e1d335dd050c4cf90b555d567e3eb880f56705e7dd3b98ca9eff7f19dc526f",
+        "git_blob_oid_of_actual_bytes": "97ad422e23d1a875fe2fae2eeffaea93d980ca6e",
+        "physical_lines": 19
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_S2V001_C001_E001_NORMAL_CUSTODY_5933125_V1/ROOT_AOI_EXACT_S2V001_C001_E001_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 1103,
+        "sha256": "cfde5f5dbe9581c9e158e0f3dae7a0a902f62041c0b402510d922b8bfb567a7f",
+        "git_blob_oid_of_actual_bytes": "a2be15b2f3d1e3f9bd3dc34fccb439a18766e45a",
+        "physical_lines": 16
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+        "bytes": 4942,
+        "sha256": "e25ca4c26c570a9c0391aa4a3ae0828164aae63753a2c4b066f0d0d57c8e143c",
+        "git_blob_oid_of_actual_bytes": "65d9077f45d19f655db05df293b1d72222b9cf12",
+        "physical_lines": 59
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_FULL_CAST_MECHANICAL_COVERAGE_V1/OWNER_COVERAGE_MATRIX.json",
+        "bytes": 407296,
+        "sha256": "3ee93c8f2ad94de8a2bb9dc12207158945a010155e1f775799317271cded497a",
+        "git_blob_oid_of_actual_bytes": "f8afc2254f5d683072c959ab84f6aafcc4913d52",
+        "physical_lines": 1
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_BOUNDED_LITERAL_HEADER_METADATA_SUPPORT_V1/AOI_LITERAL_POSITIVE_RETRIEVAL_AND_105_CUSTODY_LIMITS_V2.json",
+        "bytes": 7319,
+        "sha256": "3ca25551796d72355ab467fe887bda02736a83f0b6c5848681620d389921f21d",
+        "git_blob_oid_of_actual_bytes": "c33deb43582ab8d697a68a039f263aedccfff06d",
+        "physical_lines": 128
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EXACT105_CURRENT_ADMITTED_NORMAL_CUSTODY_5933125_V1/ROOT_EXACT105_CURRENT_ANALYTICAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 91758,
+        "sha256": "cd233b02c1f7c04e265d6dd3df56bf5933500df9fce0eb154600ac6932174cbc",
+        "git_blob_oid_of_actual_bytes": "347ee60b0ed8c40e54cd64c7906898a1bdc21b39",
+        "physical_lines": 1387
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_NARRATIVE_ROLE_SCOPE_PROJECTION_V2.json",
+        "bytes": 623400,
+        "sha256": "04c8bcb511f5c824edc4953f9ac7b680c3c87cfd8561243f8a6abb55cdedd881",
+        "git_blob_oid_of_actual_bytes": "8b40ae3189764764d0c3d575273a40c52ee97895",
+        "physical_lines": 7157
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_EPISODE_ROLE_SCOPE_ADDITIONS_V3.json",
+        "bytes": 489896,
+        "sha256": "26a04e9aae94e8bcca76b1057f3bc9549cf93e1440b5260c93aa3aaabe3625f4",
+        "git_blob_oid_of_actual_bytes": "85c7446331479bdfadf0584979fa54a9fae868c7",
+        "physical_lines": 4264
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_BOUNDED_APPLICABILITY_AND_ROLE_REVIEW_V1.json",
+        "bytes": 245837,
+        "sha256": "677a2be5aab8dc2585f3615d057cce331301ce4cd5332bed435287dbec9f8f08",
+        "git_blob_oid_of_actual_bytes": "badb9428b3fa074388ff249d28db7147855f3ca6",
+        "physical_lines": 4862
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_CURRENT_NORMAL_ACTOR_AND_QUANTITY_PRECISION_NOTE_V1.md",
+        "bytes": 4004,
+        "sha256": "6e6b8ca0b0e93b0be6935456b757aef4cbe93b515837f487713721ec06de185f",
+        "git_blob_oid_of_actual_bytes": "79ae71ca13eaabb95b6fd6935fb13fce0f3a8652",
+        "physical_lines": 21
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_MAIN_SPECIAL/INSPECTED_INPUT_RANGES.json",
+        "bytes": 21825,
+        "sha256": "59921d39559c6ea00af92b6ea37d05ab66499ef1b446110c8a9b82fb5fecaa1e",
+        "git_blob_oid_of_actual_bytes": "bd59b8564b9b799ded1723c786f982c6c330d8c4",
+        "physical_lines": 727
+      }
+    ],
+    "inverse_grade": "Exact source bytes copied and current/prior metadata values preserved; no recursive following of documentary paths",
+    "original105_applicability_duty": {
+      "status": "ACTUAL_CONNECTED_CORE_END_ROLE_REVIEW_AT_DECLARED_SCOPES_WITH_LIMITS",
+      "inventory_metadata_complete_owner_rows_received_tool": "2352a0",
+      "literal_positive_metadata_complete_received_tool": "2352a0",
+      "matrix_status": "Historical mechanical only, not accepted Aoi-specific semantic closure",
+      "positive": "BA:event:834:105 / アオイ;32 literal headers; AO05 whole. Also BA:event:824:001 Ayumu-reported Aoi approval; AO11 whole77.",
+      "negative_limit": "No name/header hits does not establish nonapplicability or global absence",
+      "actual_scope_receipt": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_BOUNDED_APPLICABILITY_AND_ROLE_REVIEW_V1.json",
+        "bytes": 245837,
+        "sha256": "677a2be5aab8dc2585f3615d057cce331301ce4cd5332bed435287dbec9f8f08",
+        "git_blob_oid_of_actual_bytes": "badb9428b3fa074388ff249d28db7147855f3ca6",
+        "physical_lines": 4862
+      },
+      "current105_availability_receipt": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EXACT105_CURRENT_ADMITTED_NORMAL_CUSTODY_5933125_V1/ROOT_EXACT105_CURRENT_ANALYTICAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 91758,
+        "sha256": "cd233b02c1f7c04e265d6dd3df56bf5933500df9fce0eb154600ac6932174cbc",
+        "git_blob_oid_of_actual_bytes": "347ee60b0ed8c40e54cd64c7906898a1bdc21b39",
+        "physical_lines": 1387
+      },
+      "remaining_claim_triggers": "Unreceived episode paragraphs and unjoined office roles remain unresolved for stronger participation, assent or cause claims. No universal absence/all-appearance certificate; every owner has an actual bounded role disposition."
+    },
+    "precision_dispositions": {
+      "S2V001E001": "AO10 complete39 resolves Rin-accepted error, Aoi detection and extension;70% finance recovery from peak credited to Rin, not Aoi work share. Additive precision note preserves old frozen plan/census wording.",
+      "EVENT834105": "Current condensed accepted normal permits listening support at unspecified giver scope; no adequate admitted individual normal located by ROOT. Keep giver unspecified as legitimate source limit, no later counseling or original-source replay."
+    },
+    "additive_precision_note": {
+      "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_CURRENT_NORMAL_ACTOR_AND_QUANTITY_PRECISION_NOTE_V1.md",
+      "bytes": 4004,
+      "sha256": "6e6b8ca0b0e93b0be6935456b757aef4cbe93b515837f487713721ec06de185f",
+      "git_blob_oid_of_actual_bytes": "79ae71ca13eaabb95b6fd6935fb13fce0f3a8652",
+      "physical_lines": 21
+    },
+    "actual_final_saved_body_receiving": {
+      "ranges": [
+        [
+          1,
+          80
+        ],
+        [
+          81,
+          166
+        ]
+      ],
+      "tools": [
+        "83cd08",
+        "bbe477"
+      ],
+      "final_two_changed_gap_rows": [
+        151,
+        163
+      ],
+      "final_changed_rows_receiving": "b4900c",
+      "unchanged_other_lines": 164
+    },
+    "original_stable_14_names": [
+      "G01 Ordinary and private breadth",
+      "G02 Yuuka council/club decision transfer",
+      "G03 Serika service, peer and reciprocity range",
+      "G04 Hina crisis causality, accountability and ordinary contrast",
+      "G05 Arius and PS68 ordinary/aftermath transfer",
+      "G06 Cross-school ordinary repertoire",
+      "G07 Story-world chronology",
+      "G08 Event naming and repeat contexts",
+      "G09 Written speaker/choice attribution",
+      "G10 Performed voice",
+      "G11 Hoshino's Yume record and office states",
+      "G12 Counterpart, system and variant identity",
+      "G13 Office, contract, safety and technical outcomes",
+      "G14 Unclassified/mode continuity"
+    ],
+    "all14": "OPEN",
+    "new_primary_native_raw_QA_AV_model_identity_admission_credit": 0,
+    "protected_H_private_UNBOUND9_unpublished39_content_or_hash_access": false,
+    "repository_Git_provider_count_mutations": false
+  },
+  "historical_payload_qualification": "All creation-time pending, source/custody/count and navigation fields remain history. Current actual ROOT acceptance and mandatory additive qualifications govern. Documentary old tuple fields are preserved as literal data, not blindly reopened as current bindings. Complete original bytes and reference/body inverses remain; no new literary/source/primary/model/identity credit. Original hashes bind originals, not public derivatives.",
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_AOI_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 469095,
+      "sha256": "9d3da5d5ab759a594c16c2f28b6ee9aae1df6085dc7a3692e2435d8726f40702",
+      "git_blob_oid_of_actual_bytes": "2e86c996c67f847e55cafd6d15290ea04f490607",
+      "attachment_names": [
+        "AOI_CLAIM_END_RIVAL_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+        "AOI105_ACTUAL_BOUNDED_APPLICABILITY_AND_ROLE_REVIEW_V1.json",
+        "AOI_CURRENT_NORMAL_ACTOR_AND_QUANTITY_PRECISION_NOTE_V1.md",
+        "AOI_AUTHOR_READ_ONLY_FINITE_VERIFICATION_REPORT_V1.json",
+        "AOI_RECONSTRUCTED_PRE105_PRECISION_DRAFT_164_LINES.md",
+        "AOI_FINAL_TO_RECONSTRUCTED_PRE105_EXACT_INVERSE_V1.json",
+        "AOI_COMPLETE_AUTHOR_RECEIVING_AND_ROOT_READING_GUIDE_V1.md",
+        "AOI_OWNER104_RECEIPT_ARGUMENT_OPERATIVE",
+        "AOI_OWNER104_QUALIFIER_FREEZE",
+        "AOI_OWNER104_READABLE_QUALIFICATION",
+        "COMPLETE_AUTHOR_MANIFEST_OR_FREEZE"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "status": "COMPLETE_BOUNDED_AUTHOR_CANDIDATE_FROZEN_FOR_INDEPENDENT_ROOT_REVIEW_NOT_ACCEPTED",
+    "existing_home": {
+      "package_id": "P3-CHAR-M001",
+      "responsibility_id": "P3-M001",
+      "kind": "CHARACTER",
+      "required": 1,
+      "named_duties": 0
+    },
+    "scope_authority": "Architecture1.12 eleven dimensions; existing355 packages/29 named duties/25 distinct parents. This delivery creates no home, count or admission.",
+    "ten_exact_frozen_outputs": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 39166,
+        "sha256": "70f43a9a074f69dae2429696c79f3bb6054aaaf1ad959a63c43aa329fde1bb92",
+        "git_blob_sha1": "882a96a439249bdcccbba56832845a85447e603a",
+        "physical_lines": 166
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_SOURCE_AND_ACTUAL_SCOPE_RECEIPT_V1.json",
+        "bytes": 50824,
+        "sha256": "574865380d1dac2d20dc637f429b1c0c4646b17900d8be0cb1101402ab04c63c",
+        "git_blob_sha1": "1006f9519ba37c06bdcefb72fd7219e835e582e5",
+        "physical_lines": 903
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_CLAIM_END_RIVAL_GAP_AND_SAVED_JOIN_RECEIPT_V1.json",
+        "bytes": 86193,
+        "sha256": "7fc754a4a88719d044023309bf2deb2f51c83fa7cc9aa78921265d0668a4da29",
+        "git_blob_sha1": "c1e86dbe6efe91376281f254ba97d7650abb1199",
+        "physical_lines": 1336
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_BOUNDED_APPLICABILITY_AND_ROLE_REVIEW_V1.json",
+        "bytes": 245837,
+        "sha256": "677a2be5aab8dc2585f3615d057cce331301ce4cd5332bed435287dbec9f8f08",
+        "git_blob_sha1": "badb9428b3fa074388ff249d28db7147855f3ca6",
+        "physical_lines": 4862
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_CURRENT_NORMAL_ACTOR_AND_QUANTITY_PRECISION_NOTE_V1.md",
+        "bytes": 4004,
+        "sha256": "6e6b8ca0b0e93b0be6935456b757aef4cbe93b515837f487713721ec06de185f",
+        "git_blob_sha1": "79ae71ca13eaabb95b6fd6935fb13fce0f3a8652",
+        "physical_lines": 21
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/aoi_receiving_readonly.py",
+        "bytes": 6981,
+        "sha256": "336bde4e57ef766d646a5abd9fc652945f2b9d688ae9d73202e56eb4dd2c5b73",
+        "git_blob_sha1": "6ff532aca1eb7ff1af1289831696cfdf096de4a2",
+        "physical_lines": 105
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_AUTHOR_READ_ONLY_FINITE_VERIFICATION_REPORT_V1.json",
+        "bytes": 3217,
+        "sha256": "cfcc505c881651204dcb12350a4a815852f13c3c6a29c7a4b374afb5032d4100",
+        "git_blob_sha1": "197b66bd0e9e3015f72387c20a862e073e825553",
+        "physical_lines": 62
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_RECONSTRUCTED_PRE105_PRECISION_DRAFT_164_LINES.md",
+        "bytes": 37600,
+        "sha256": "8b6ad6b3d651dba6d519b91034d60a9d14e821298e8504b431eebc48e9fae790",
+        "git_blob_sha1": "b655a29c5bb1289e8a4e3696c4d2ee7048246fa1",
+        "physical_lines": 164
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_FINAL_TO_RECONSTRUCTED_PRE105_EXACT_INVERSE_V1.json",
+        "bytes": 11222,
+        "sha256": "040a19f1ab0ca7b71fd3d211314b57c504b05c0fec39f1a435bfcd8eda36f85a",
+        "git_blob_sha1": "20d5ccd16a69d9813e6418cc932e3e9aad92bf72",
+        "physical_lines": 73
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_COMPLETE_AUTHOR_RECEIVING_AND_ROOT_READING_GUIDE_V1.md",
+        "bytes": 5273,
+        "sha256": "2a3936e7822665dfb72bb891e4082808899e1fb85759a23d13ee7b1ca6e29354",
+        "git_blob_sha1": "5ab56885ee946d74073be024699a7b743b6e6f44",
+        "physical_lines": 27
+      }
+    ],
+    "exact_eleven_selected_normal_copy_bindings": [
+      {
+        "alias": "AO01",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO01__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 38506,
+          "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+          "git_blob_sha1": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+          "physical_lines": 259
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/0",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO02",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO02__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "git_blob_sha1": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+          "physical_lines": 94
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/1",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO03",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO03__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "git_blob_sha1": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+          "physical_lines": 414
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/2",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO04",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO04__BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 49292,
+          "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+          "git_blob_sha1": "4712932e1058e7babcc693932caedcfd1a076622",
+          "physical_lines": 452
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/3",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO05",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO05__BLUE_ARCHIVE_EVENT_834_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 53866,
+          "sha256": "ab779ae688f8ced967127a810180613f39b5fc23fd15976bcd2ee3cd0b863ab0",
+          "git_blob_sha1": "44f05d6979aa11562bb7d548664ae24aefe53a8f",
+          "physical_lines": 268
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/4",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO06",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO06__BLUE_ARCHIVE_UNJOINED_WRITTEN_27_IDENTITY_AND_CONTEXTUAL_ACCOUNT_20261008.md",
+          "bytes": 26901,
+          "sha256": "54ca96ef458fde3a7ab87b9f310cc7c06890bb39c6d0bbcdf0d88b6cd8aa5ec2",
+          "git_blob_sha1": "1dcaa6d18d96b8c1959e40e70e22cf36919db828",
+          "physical_lines": 143
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/5",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO07",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_sha1": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+          "physical_lines": 83
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/6",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO08",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "git_blob_sha1": "b385f8886700fb4470840306ecb05fdffb9275d2",
+          "physical_lines": 76
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/7",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO09",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO09__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bytes": 8810,
+          "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+          "git_blob_sha1": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+          "physical_lines": 52
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/8",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO10",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO10__BLUE_ARCHIVE_MAIN_S2_V001_C001_E001_DEEP_READING.md",
+          "bytes": 6155,
+          "sha256": "bcfbaa19ac90696fb754ad8d57a31c703b731d6e3ed3462dd466db96097d2afd",
+          "git_blob_sha1": "72ed3b6bc7b2b78bd7899111ef29d4e7fbd6e5bd",
+          "physical_lines": 39
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/9",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      },
+      {
+        "alias": "AO11",
+        "exact_binding": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/bound_normal_inputs/AO11__BLUE_ARCHIVE_EVENT_824_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 10407,
+          "sha256": "36bc50a92d91a8bb77762e481ad940d8f7f88eae279d01b1cf713a3c69cda2dd",
+          "git_blob_sha1": "a9e8e0a50cbb0c5cd3c221e1af386f57d602b01c",
+          "physical_lines": 77
+        },
+        "actual_analytical_scope_pointer": "/normal_inputs/10",
+        "authority": "Declared ROOT current-byte/commit custody plus actual own written-argument scope; no original-source replay"
+      }
+    ],
+    "exact_nineteen_documentary_dependencies": [
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/BLUE_ARCHIVE_AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1.md",
+        "bytes": 20084,
+        "sha256": "3736d3d34169176ee7bfdb48eda43de2dc924c09e35e116d40480c1cd7c69a3c",
+        "git_blob_sha1": "fe17b384af0fcfab28fd855000c56f50837d6f67",
+        "physical_lines": 110
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_EXACT_CURRENT_AND_PRIOR_METADATA_SOURCE_COMPANION_V1.json",
+        "bytes": 49939,
+        "sha256": "72f1981f1eee0328d2b8ab574358f38df3fdf8dc12085c2bbf26df2a14336d4c",
+        "git_blob_sha1": "e9d81c7cbdc2ecf4284e1c3f1bbf14c1de9ac14e",
+        "physical_lines": 688
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/verify_aoi_metadata_plan_readonly.py",
+        "bytes": 5639,
+        "sha256": "13ec16b9107a5fe966a9ccf775a7c4771e248930b95885985e90ec3d41506770",
+        "git_blob_sha1": "0a489d13bfb15d522f5375357ed9caeed245239f",
+        "physical_lines": 83
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/build_aoi_exact_metadata_companion.py",
+        "bytes": 8889,
+        "sha256": "fc1741bb9e52803fe5f8e067994ca7b8e05eafb4739992a359cb59d2d3a60e97",
+        "git_blob_sha1": "098edf8fd029e22f09194bb3bdbbbaca1bb6a2b9",
+        "physical_lines": 131
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_METADATA_AND_DOCUMENTARY_INVERSE_VERIFICATION_V1.json",
+        "bytes": 948,
+        "sha256": "a87d931cf98a6918b5ee72d2eb717c4bc01006919889bf45ce0aea8ba09c887e",
+        "git_blob_sha1": "b5e373e67fde88d4504df8e57d7cc4aefeb5cf42",
+        "physical_lines": 22
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_METADATA_PLAN_READABLE_AUTHOR_RECEIVING_RECEIPT_V1.md",
+        "bytes": 3647,
+        "sha256": "7ab8cff7e2ab4a6ced706c7f0f826af43a02e493c058c90e3f41d95cd463b7c2",
+        "git_blob_sha1": "91b74845e004a6390466513659acf3186eef576a",
+        "physical_lines": 17
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_EXISTING_CHARACTER_METADATA_SOURCE_PLAN_V1/AOI_METADATA_PLAN_COMPLETE_AUTHOR_RECEIVING_AND_FREEZE_V1.json",
+        "bytes": 5245,
+        "sha256": "fdf77b7dfafef134ebf882f2d7ef44efb16490b66e771b906dfa14fea83b0b28",
+        "git_blob_sha1": "d05c6a4a9b2743efb7c9097760909b34d078afe8",
+        "physical_lines": 107
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_CURRENT_EIGHT_AOI_NORMAL_INPUTS_C690120_V1/ROOT_EXACT_EIGHT_AOI_CURRENT_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 7471,
+        "sha256": "8285d01d17c83564849b27f2f40db856696c00ede9cf3dbe88dd5d608db16e2e",
+        "git_blob_sha1": "e98db1e3ef041b62324a99c7c39ed01d8628d673",
+        "physical_lines": 103
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_V004_C002_E007_ADMITTED_NORMAL_CUSTODY_5933125_V1/ROOT_AOI_EXACT_V004_C002_E007_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 1583,
+        "sha256": "a1e1d335dd050c4cf90b555d567e3eb880f56705e7dd3b98ca9eff7f19dc526f",
+        "git_blob_sha1": "97ad422e23d1a875fe2fae2eeffaea93d980ca6e",
+        "physical_lines": 19
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXACT_S2V001_C001_E001_NORMAL_CUSTODY_5933125_V1/ROOT_AOI_EXACT_S2V001_C001_E001_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 1103,
+        "sha256": "cfde5f5dbe9581c9e158e0f3dae7a0a902f62041c0b402510d922b8bfb567a7f",
+        "git_blob_sha1": "a2be15b2f3d1e3f9bd3dc34fccb439a18766e45a",
+        "physical_lines": 16
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_AOI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+        "bytes": 4942,
+        "sha256": "e25ca4c26c570a9c0391aa4a3ae0828164aae63753a2c4b066f0d0d57c8e143c",
+        "git_blob_sha1": "65d9077f45d19f655db05df293b1d72222b9cf12",
+        "physical_lines": 59
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_FULL_CAST_MECHANICAL_COVERAGE_V1/OWNER_COVERAGE_MATRIX.json",
+        "bytes": 407296,
+        "sha256": "3ee93c8f2ad94de8a2bb9dc12207158945a010155e1f775799317271cded497a",
+        "git_blob_sha1": "f8afc2254f5d683072c959ab84f6aafcc4913d52",
+        "physical_lines": 1
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_BOUNDED_LITERAL_HEADER_METADATA_SUPPORT_V1/AOI_LITERAL_POSITIVE_RETRIEVAL_AND_105_CUSTODY_LIMITS_V2.json",
+        "bytes": 7319,
+        "sha256": "3ca25551796d72355ab467fe887bda02736a83f0b6c5848681620d389921f21d",
+        "git_blob_sha1": "c33deb43582ab8d697a68a039f263aedccfff06d",
+        "physical_lines": 128
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_EXACT105_CURRENT_ADMITTED_NORMAL_CUSTODY_5933125_V1/ROOT_EXACT105_CURRENT_ANALYTICAL_NORMAL_CUSTODY_RECEIPT_V1.json",
+        "bytes": 91758,
+        "sha256": "cd233b02c1f7c04e265d6dd3df56bf5933500df9fce0eb154600ac6932174cbc",
+        "git_blob_sha1": "347ee60b0ed8c40e54cd64c7906898a1bdc21b39",
+        "physical_lines": 1387
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_NARRATIVE_ROLE_SCOPE_PROJECTION_V2.json",
+        "bytes": 623400,
+        "sha256": "04c8bcb511f5c824edc4953f9ac7b680c3c87cfd8561243f8a6abb55cdedd881",
+        "git_blob_sha1": "8b40ae3189764764d0c3d575273a40c52ee97895",
+        "physical_lines": 7157
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_EPISODE_ROLE_SCOPE_ADDITIONS_V3.json",
+        "bytes": 489896,
+        "sha256": "26a04e9aae94e8bcca76b1057f3bc9549cf93e1440b5260c93aa3aaabe3625f4",
+        "git_blob_sha1": "85c7446331479bdfadf0584979fa54a9fae868c7",
+        "physical_lines": 4264
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_BOUNDED_APPLICABILITY_AND_ROLE_REVIEW_V1.json",
+        "bytes": 245837,
+        "sha256": "677a2be5aab8dc2585f3615d057cce331301ce4cd5332bed435287dbec9f8f08",
+        "git_blob_sha1": "badb9428b3fa074388ff249d28db7147855f3ca6",
+        "physical_lines": 4862
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_CURRENT_NORMAL_ACTOR_AND_QUANTITY_PRECISION_NOTE_V1.md",
+        "bytes": 4004,
+        "sha256": "6e6b8ca0b0e93b0be6935456b757aef4cbe93b515837f487713721ec06de185f",
+        "git_blob_sha1": "79ae71ca13eaabb95b6fd6935fb13fce0f3a8652",
+        "physical_lines": 21
+      },
+      {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/CENSUS_MAIN_SPECIAL/INSPECTED_INPUT_RANGES.json",
+        "bytes": 21825,
+        "sha256": "59921d39559c6ea00af92b6ea37d05ab66499ef1b446110c8a9b82fb5fecaa1e",
+        "git_blob_sha1": "bd59b8564b9b799ded1723c786f982c6c330d8c4",
+        "physical_lines": 727
+      }
+    ],
+    "exact105_binding_inventory_pointer": {
+      "receipt": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI105_ACTUAL_BOUNDED_APPLICABILITY_AND_ROLE_REVIEW_V1.json",
+        "bytes": 245837,
+        "sha256": "677a2be5aab8dc2585f3615d057cce331301ce4cd5332bed435287dbec9f8f08",
+        "git_blob_sha1": "badb9428b3fa074388ff249d28db7147855f3ca6",
+        "physical_lines": 4862
+      },
+      "json_pointer": "/current_input_pool",
+      "all105_current_C_bindings_rechecked": true,
+      "narrative_grade": "Each owner retains its declared actual selected/connected scope; owner104 prior whole unchanged MINI32. No fresh whole105 or universal absence/appearance claim."
+    },
+    "author_meaningful_receiving": {
+      "final_body": [
+        "83cd08 lines1–80",
+        "bbe477 lines81–166EOF",
+        "b4900c final gap rows151/163; other164 lines unchanged"
+      ],
+      "controls": "25a8e0 complete authority/original responsibility/history/source limits; source documentary dependency inventory c900f4",
+      "eleven_source_rows": [
+        "510431 AO01–04",
+        "14588f AO05–08",
+        "cc0fb0 AO09–11"
+      ],
+      "all44_claim_rival_authority_fields": [
+        "b5900a rows0–7",
+        "6afa18 rows8–15",
+        "605b5b rows16–23",
+        "final complete read-only calls claims24 count8, claims32 count8, claims40 count4; chunk identifiers not retained"
+      ],
+      "all105_owner_meanings": [
+        "complete successful owners0 count25 after repairing clipped15bed1; identifier not retained",
+        "45d37b owners25–49",
+        "e0edf5 owners50–69",
+        "3bafda owners70–84",
+        "2b401b owners85–104"
+      ],
+      "twelve_ends_and_fourteen_gaps": "Exact saved body tables plus complete companion meaning bbccbb; full original fourteen names, all OPEN",
+      "whole_readonly_helper": "157f94 all105 code lines; current tail73d43d",
+      "whole_precision_note": "b4900c all21 lines",
+      "inverse_meanings": "b8b7bb whole73 lines, eight actual before/after deltas and honest reconstruction qualification",
+      "whole_verification_report_and_readable_guide": "d48543 through EOF",
+      "reconstructed_text_grade": "Mechanically inverse-verified reference to already received final body and eight complete delta meanings; no newly claimed whole original-draft receiving"
+    },
+    "finite_verification": {
+      "actual_full_readonly_run": "fe9fc9 PASS137 unique C path/SHA pairs and141 occurrences,108 nonempty saved joins",
+      "report": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_AUTHOR_READ_ONLY_FINITE_VERIFICATION_REPORT_V1.json",
+        "bytes": 3217,
+        "sha256": "cfcc505c881651204dcb12350a4a815852f13c3c6a29c7a4b374afb5032d4100",
+        "git_blob_sha1": "197b66bd0e9e3015f72387c20a862e073e825553",
+        "physical_lines": 62
+      },
+      "current_frozen_outputs_and11normal19documentary105current_copy_bindings_rechecked": true,
+      "reconstruction_inverse_byte_equal": true,
+      "UTF8_LF_no_BOM_all10outputs": true
+    },
+    "authority_quartet_and_history": {
+      "source125": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "source125_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+      "ROOT_eight_normal_capture_source120": "c6908f2dba6f3b379bb84679fdd01175ac5894da",
+      "merged_main89": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "analytical_main2e": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+      "pinned_Japanese": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+      "generation": "BA_REFRESH_20260928T032248159554Z",
+      "current_commit_and_provider_verification": "Attributed ROOT captures and dated reports; no independent author provider/Git verification"
+    },
+    "attributed_ROOT_actual_receiving_not_acceptance": {
+      "final_body": "ROOT c0eb0b lines1–85 plus04ebd3 lines86–166EOF at exact70f43a final bytes; companions/finite verification still pending",
+      "readonly_helper": "ROOT60fb05 whole6981 bytes/105 lines; not yet executed by ROOT at this report",
+      "EVENT824_normal": "ROOT3490e1 whole77 lines at exact36bc50a; no primary/performance credit"
+    },
+    "intrinsic_ordinary_and_critical_limits": "Food/company, gratitude/taste, help and recognition remain intrinsically material. Rin error/Aoi detection, unspecified listening giver, reported approval versus unperformed spending/rebuild, unjoined I023/profile/office and unresolved vote/recognition/chronology remain explicit. Stronger out-of-scope actor/assent/causal claims require their exact connected warrant; no header negatives or stakes filter.",
+    "beforeimage_preservation_qualification": "The early unsealed 164-line draft was edited in place before the later instruction to preserve beforeimages. Its original 36494-byte SHA256 6ad54d13295a2fea43cc164c9ca0311355ce9fdaea0532d86af4605c93296bc0 was not retained as a file. This separately saved 164-line text is explicitly reconstructed from the recorded eight literal pre105-to-final deltas; it is not asserted byte-equal to that earliest draft and does not invent original receiving or preservation. Earlier frozen plan/census payloads remain unchanged.",
+    "earlier_frozen_payloads": "Seven exact prior Aoi plan/seal files occur in the19 documentary dependencies and remain byte-equal. Other prior frozen lane payloads are untouched, with no blanket unperformed rehash claim.",
+    "all14_stable_gaps": "OPEN",
+    "selected_counts": {
+      "claims": 35,
+      "rivals": 9,
+      "finite_ends": 12,
+      "saved_nonempty_joins": 108,
+      "normal_inputs": 11,
+      "owner_duties": 105
+    },
+    "new_original_primary_native_raw_QA_AV_model_identity_admission_count": 0,
+    "repository_Git_provider_global_denominator_mutations": false,
+    "protected_original_private_H_phase2_UNBOUND9_unpublished39_content_or_hash_access": false,
+    "independent_ROOT_literary_receiving_acceptance_publication_or_goal_credit": false
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json",
+    "bytes": 26963,
+    "sha256": "e574f718b8a0a67fe578e9e07e708982a5d5e6eb6b8049cfd8e9aaf1eaef736e",
+    "git_blob_oid_of_actual_bytes": "153179db98b16a442f7ec18018d19b32b628d72b",
+    "immutable_transport_path": "immutable_originals/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/AOI_COMPLETE_AUTHOR_RECEIVING_AND_EXACT_DELIVERY_FREEZE_V1.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 39166,
+    "sha256": "70f43a9a074f69dae2429696c79f3bb6054aaaf1ad959a63c43aa329fde1bb92",
+    "git_blob_oid_of_actual_bytes": "882a96a439249bdcccbba56832845a85447e603a",
+    "immutable_transport_path": "immutable_originals/AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 42921,
+    "sha256": "16fd2642da5abc36944df3433e4b6972ff771f69541bd0e9abe43dac9278bb96",
+    "git_blob_oid_of_actual_bytes": "1481bba1fa4a875054653e9ae053649113107700"
+  },
+  "mandatory_operative_qualification": "The actual owner104 tuple qualification separates the copied receipt from the MINI32 argument; the frozen mixed pair remains historical and is not treated as a verified source revision. The oldest unsaved draft is unavailable: the preserved164-line reconstruction does not authenticate that earlier draft. Current normal/source copies and other-author receiving remain separately scoped. Practical decisions, wanted rest and independent colleagues retain finite value; no identity or ballot proxy completion follows.",
+  "exact_target_route_qualification": {
+    "literal_ROOT_proposed_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "operative_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "changed": false
+  },
+  "documentary_source_tuple_boundary": "No recursive reopening of protected paths, wrong historical pairs or documentary references; only explicit exact ROOT-bound inventories/controls are transport reads.",
+  "reconciled_fixed133_current_boundary": {
+    "schema": "BLUE_ARCHIVE_RECONCILED_FIXED133_CURRENT_BOUNDARY_V1",
+    "status": "ROOT_ACCEPTED_LITERAL_RECONCILIATION_C_PROPOSAL_FULL_INSTALLATION_PENDING",
+    "local_source_before_install": "16b038cc400805d15cfeb799d048e1d20ba9290d",
+    "local_source_tree_before_install": "2e64442a6b80cea9d67143d690378bd01932cc88",
+    "current_main": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+    "observed_main_integrated_packages": 128,
+    "current_remote_source_before_publication": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+    "dated_source128_complete_automatic_chain_ROOT_control_sha256": "4141484d052286d43dad22177df06749c8ef094f6e158f965e27eb7d5f281eee",
+    "PR148": {
+      "verified_source_head": "ea92302c7e9044dc1633b76c498a0a3bb3bae246",
+      "verified_integration_commit": "150a85e49a2b6d5fbd0c402d06c3070ea945d0cd",
+      "complete_source_and_integration_tree": "c43f5d62b651da352854278d8bf83d43389e46df",
+      "whole_tree_identity": true
+    },
+    "PR152": {
+      "merge_commit": "87aeee05a161d716fe840a0dd5d5517d9c646df9",
+      "correction_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+      "seven_corrected_current_interpretations_govern": true,
+      "earlier_frozen_payloads": "UNCHANGED_HISTORICAL_VALUES_QUALIFIED_BY_REGISTER"
+    },
+    "first25_milestone": {
+      "packages": 89,
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "status": "PREVIOUSLY_ACCEPTED_COMPLETE_FIRST_MILESTONE_HISTORY"
+    },
+    "after_complete_ROOT_install": {
+      "packages": 133,
+      "CHAR": 100,
+      "REL": 16,
+      "ENS": 5,
+      "INST": 12,
+      "named_completed": 13
+    },
+    "currently_published_packages_before_successor": 128,
+    "next_milestone": 178,
+    "scope355_named29_parents25_homes384": "UNCHANGED",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "unreviewed_postmerge_audit_PASS_claimed": false,
+    "new_literary_primary_native_raw_QA_AV_admission_identity_scope_count_model_credit_from_transport": 0
+  }
+,
+  "composed_current_analytical_body_binding_successor_20261012_v1": {
+  "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "current_body_inverse": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_AUDIT_BODY_INVERSES_20261012_V1.json",
+  "exact_named_preceding_body_binding_locations": [
+    {
+      "preserved_original_pointer": "/canonical_body_exact_tuple/sha256",
+      "preserved_literal_sha256_value": "16fd2642da5abc36944df3433e4b6972ff771f69541bd0e9abe43dac9278bb96",
+      "analytical_body_repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AOI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "preceding_body_exact_tuple": {
+        "bytes": 42921,
+        "sha256": "16fd2642da5abc36944df3433e4b6972ff771f69541bd0e9abe43dac9278bb96"
+      },
+      "current_composed_body_exact_tuple": {
+        "bytes": 43533,
+        "sha256": "e2051f0401e053b897ee479b09d3bc593f14a727b4f38ab902cfd9f85397bc40"
+      },
+      "interpretation": "ORIGINAL_FROZEN_OR_PRECEDING_ANALYTICAL_WITNESS_RETAINS_ITS_BINDING;CURRENT_MUTABLE_BODY_RESOLVES_TO_SEPARATE_COMPOSED_SUCCESSOR;NO_SOURCE_HASH_REBIND_OR_NEW_RECEPTION"
+    }
+  ],
+  "original_fields_hashes_decisions_inverses": "IMMUTABLE",
+  "new_source_package_identity_model_milestone_credit": 0
+}
+}

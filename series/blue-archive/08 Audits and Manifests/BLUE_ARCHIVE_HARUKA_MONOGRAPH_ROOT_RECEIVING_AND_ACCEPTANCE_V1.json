@@ -1,0 +1,98 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Haruka",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_HARUKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 3973,
+    "sha256": "49b3f3ab29d6ec0b458af214866c203fcacbd8a4fb2b82987e28f5472e734b7f",
+    "git_blob_oid_of_actual_bytes": "0e76e8e7a53b96d26617ad80eb131e1aa7ee9e50",
+    "lines": 53
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_HARUKA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "f306d79a8a33e536ccefb8aaa0acff2dbd250d6d7b886ed0d11a78ea7ef2766a",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 53,
+    "exact_unique_binding_pairs_verified": 111,
+    "fresh_complete_arguments_equal_main_and_c1": 3,
+    "reused_complete_arguments_equal_main_and_c1": 13,
+    "selected_private_objects_exact_verified": 29,
+    "saved_nonempty_lines_exact_verified": 106,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "historical metadata only"
+      }
+    ],
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "1a1e63 lines1–90",
+        "0dfdd3 lines91–181EOF"
+      ],
+      "whole_readable_receipt": "f6cb9a complete52linesEOF",
+      "source_scope_fields": [
+        "a9bc75 all controls with named arrays explicitly omitted",
+        "69d071 all3 fresh analytical scopes",
+        "12bb46 all3 canonical recovery scope fields"
+      ],
+      "additional_accepted_arguments": [
+        "2cace4 private140–169, fdb5ec displayed170–244 with clipped210–217 fully recovered ba926b: complete substantive140–244EOF; earlier inventory not manually received",
+        "730a65 whole giftE81006373linesEOF qualified by Cycle008",
+        "c2d376 wholeFinalC003E00939linesEOF with label-drift limit"
+      ],
+      "limits": "Thirteen public reuses and peer private owner use author-attributed personally complete scopes and adequate prior ROOT accepted meanings. ROOT does not earn fresh whole13, source-field or primary credit by exactness. Three necessary canonical recoveries are author-attributed complete objects; ROOT has actual source-scope receiving and no new primary."
+    },
+    "semantic_grounds": [
+      "Gardening and soil care precede adult recognition. Price and mobility judgment, adapted craft, independent art criterion, food, warmth, slow walking and wanted company have intrinsic ends and actual local completions.",
+      "Literal refusal of replacement clothing and finished gardening help, material correction, invitation and expressed slower-walk wish retain positive agency beside apology and extreme debt. No global confidence calendar or completed recovery is invented.",
+      "Pot destruction, bombs, restaurant demolition, severe venue damage and reported overbroad shooting remain material adverse evidence. Protective purpose, employer approval and adult violent-solution wording do not settle means, proportionality, safety, restitution or liability.",
+      "The adult clarifies, retrieves, returns, shares apology, hands back clothing, changes support and slows walking; he also errs, pressures, enters before permission and benefits himself. Reciprocity and actual student care remain distinct from flawless guidance.",
+      "Museums supply positive identity-context judgment in timed/log narration with blank raw fields and a common-response seam; admiration coexists with preferred toughness. Whole coda retains wanted future opportunity; open-object好き is not a determined confession.",
+      "Peers, artists, proprietors, employers, affected recipients and cared-for plants retain independent conditions. Collective Final farewell remains collective where Haruka labels drift; uncertain explosive aftermath and paid/unpaid resources require their own distinct packages."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Accepted355/29 controls exact; historical353 immutable; Haruka home unchanged; allocation does not supply literary completion",
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-HARUKA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HARUKA_CHARACTER_MONOGRAPH.md",
+    "bytes": 44494,
+    "sha256": "fc7c6c5b022fe6aef1ae604fe80a5c09242a7dbd2c2f1b3ee4d4d54334cdf869",
+    "git_blob_oid_of_actual_bytes": "beccd8bfe349d82a30218c6296ee9921d1d0232e"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Independent ROOT whole receiving and exact verification can decide whether this candidate supplies the required bounded Haruka character home with limits.",
+      "new": "After independent whole receiving and exact verification, ROOT accepted this monograph as the required bounded Haruka character home with limits.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "old": "No canonical adoption, publication, model, frozen prediction, diagnostic success, denominator or quarter is declared;",
+      "new": "No remote publication, model, frozen prediction, diagnostic success, new denominator or quarter is declared;",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

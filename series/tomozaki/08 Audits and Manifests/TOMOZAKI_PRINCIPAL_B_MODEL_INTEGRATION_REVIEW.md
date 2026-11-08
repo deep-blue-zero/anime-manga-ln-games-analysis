@@ -1,0 +1,26 @@
+---
+artifact_type: character_reconstruction_model_integration_review
+status: canonical
+release_state: mutable_active
+repository_authority: true
+do_not_use_as_current_authority: false
+do_not_use_as_primary_literary_authority: true
+supersedes: []
+superseded_by: []
+---
+
+# Mimimi V2, Tama V1 and Yuzu V1: bounded-model integration review
+
+Root separately accepted these three exact selected cores after full model/output/review acquisition and independent binding replay. Installation and exact-head publication remain pending for this candidate. The accepted responsibility is bounded semantic/source fidelity and selective communicative-act/local written-register control in manual prose decision/constraint models. It supplies no autonomous persona engine, blind accuracy, complete idiolect, freeform Japanese, acoustic authentication, global capability grade, owner calibration, source OPEN closure or terminal pass.
+
+The [portable packet](TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json) binds the three individual decisions and root final seal raw SHA-256 `3606431dbe2f7c17ac293b2cbf4a5744201a3e01d2041f3d4241755120cf9b7f`. Forty-six complete unique historical values retain original JSON semantics or exact UTF-8 text and raw IDs: source sufficiency/read scope/admission, actual producer/root freezes, construction dependencies, all original models and traces, defect/delta/retests, independent frozen inputs/source/binding/human review, count preimage/correction and all root decisions/proofs/seals. Earlier pending/no-admission headers remain creation-stage history; current root acceptance is separate. No helper code, private argv, primary extraction or media is included.
+
+Three new 07 administrative renders preserve the entire selected original analytical cores byte-for-byte after YAML. The [derivation record](TOMOZAKI_PRINCIPAL_B_MODEL_DERIVATION_RECORDS.json) supplies original/current identities, full core hashes and full unified administrative diffs. The superseded Mimimi V1 is independently retained, not overwritten. NM-D01 was a producer-detected ambiguous timing phrase after initial applications, not an observed output invention of a measured record. V2 changes only version metadata and the phrase to earlier farewell 100-metre contest. No source interpretation or frozen criterion changed. The two affected producer cases/eight outputs and two independent inputs/four outputs were actually reapplied and retained.
+
+Selected producer coverage is 22 frozen cases/46 explicit suboutputs; selected independent coverage is 16 frozen inputs/35 suboutputs. Six unaffected Mimimi producer cases/twelve actual V1 outputs and four independent inputs/nine actual V1 outputs are explicit carry-forward evidence for unchanged mechanisms. Each public pointer distinguishes the model used for the application from the selected current render; no old application is relabeled a fresh V2 execution. The full lifetime record is 24 producer executions/54 observations and 18 independent executions/40 observations. Original affected V1 cases remain historical attempts. The independent preseal ten-versus-nine prose typo has a complete preimage and one-string correction, with identical output records; it does not create another execution. Known-canon checks are exposed; hypothetical outputs have no canonical truth label. These are coverage counts, not statistical accuracy.
+
+The finalizer acquired the complete root decisions/proof/seal and independent human report/seal/count correction, reusing its own recorded complete model/source/producer-output reading. Archival raw/semantic equality does not claim another full semantic read of all independent case bodies or any primary return. Root and the independent reviewer separately read and adjudicated those actual applications. Every selected case/suboutput and lifetime-attempt pointer resolves into the complete canonical shard value; no local scratch folder or helper needs to survive for public retrieval. Historical scratch strings are provenance only.
+
+The packet binds 25 exact current/raw-Git dependency identities, three selected released-person joins and 16 protected source routes with the explicit full-corpus path-manifest pointer owner. All 31 fixed literary instances, 16 protected states, three fixed Edition 1 records and STABILIZED architecture are preserved. Source handles and all-HTML-paragraph locators retain their actual prior scope. Mimimi's finite attraction/contact/competition/cost distinctions, Tama's owned learner end and practiced craft with distributed cost, and Yuzu's positive affiliation/public/taste ends with unknown capacity/private agreements remain bounded; no future stopping or unseen answer is manufactured.
+
+This candidate adds only new model/evidence/review paths. It excludes 07 README, current-map, registry, discovery/evaluation and global calibration edits. Every file remains below 1 MiB. The separate final manifest/replay/seal reports actual pointer/core/source-preservation checks. Repository author preflight, future candidate-commit CI/publication and main integration are NOT_RUN/PENDING by this finalizer and belong to root at the actual exact head. Other principal, historical/documentary and context work continues at its separate gates.

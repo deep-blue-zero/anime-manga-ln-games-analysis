@@ -1,0 +1,143 @@
+{
+  "schema": "AMI_CURRENT_SAVED_BODY_AND_TRANSPORT_ACCEPTANCE_CONTROL_V1",
+  "target": "P3-CHAR-M039",
+  "author_composer": "receive_last16",
+  "role": "Current exact12 aliases and semantic-pending qualification; no private original or reviewer field rewritten.",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 32462,
+    "sha256": "9fb184bf938e53884cd9cf9a8a17a2ff0a3db27a02e21269e69269382dd1b1bd",
+    "git_blob_oid_of_actual_bytes": "df2042cc47acf76872507a043bc935ab824865ea"
+  },
+  "current105_parts": [
+    {
+      "owner_start": 0,
+      "owner_end": 35,
+      "tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP000_AP035_V1.json",
+        "bytes": 209235,
+        "sha256": "761230c69c027353feef1a3bec4ebf7086288ec00933fb4d4cc73750813090e3",
+        "git_blob_oid_of_actual_bytes": "3b3ca748b156e6b8e64990f0a196d3a15118d2f6"
+      }
+    },
+    {
+      "owner_start": 36,
+      "owner_end": 70,
+      "tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP036_AP070_V1.json",
+        "bytes": 200797,
+        "sha256": "415d265d903d1298564312e3509c50fba3628cc697f6afa2211f0cbd81211f0b",
+        "git_blob_oid_of_actual_bytes": "0cf67a79e5cde9a9703ea25d706a62b48f384710"
+      }
+    },
+    {
+      "owner_start": 71,
+      "owner_end": 104,
+      "tuple": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP071_AP104_V1.json",
+        "bytes": 218727,
+        "sha256": "8eae867dd9940e43ea352e63087180804ef755955adae0b1012b793f0fa7a0c7",
+        "git_blob_oid_of_actual_bytes": "6ba5606d9e48974e7e124475923039fa414d574f"
+      }
+    }
+  ],
+  "current_index": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_SOURCE_PURPOSE_INDEX_V1.json",
+    "bytes": 13818,
+    "sha256": "328a0ce5aa725e87550b7c2c1995cc3c0ce976a965521413cd0ed7e27ff41890",
+    "git_blob_oid_of_actual_bytes": "ba1e3788e53e76bd558b25f1da52d4dd20663333"
+  },
+  "complete48_claim_register": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_COMPLETE_CLAIM_SOURCE_SCOPE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+    "bytes": 196204,
+    "sha256": "ef368846c6239c7317bd0e6387056804c2e3ef59e288e9c641478862762b6c42",
+    "git_blob_oid_of_actual_bytes": "9c5563ef732cbd5d0cfb77ab6115f272185c284e"
+  },
+  "source19_receiving": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_SOURCE_RECEIVING_AND_EXACT_ORIGINAL_GRADE_CUSTODY_V1.json",
+    "bytes": 68412,
+    "sha256": "c6c0919608fb75a0f7d0ce8228c144a3f803df84e71fa16acad7a520d9fe82eb",
+    "git_blob_oid_of_actual_bytes": "e815b439424d92fbb20549a58938e5196ed27c78"
+  },
+  "original_receipt_custody": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_FROZEN_ORIGINAL_RECEIPT_AND_REVIEW_CUSTODY_V1.json",
+    "bytes": 28947,
+    "sha256": "1505d6b8638250074bed3f5427d0ac94810b4ca125157600677a063aa2ee57f9",
+    "git_blob_oid_of_actual_bytes": "b5905fdff103f4578c997fc4c6855ad26b120aab"
+  },
+  "author_verification": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_SAVED_BODY_AUTHOR_VERIFICATION_V1.json",
+    "bytes": 13470,
+    "sha256": "aa70f69701a026160dfb2f79fa82c386170913cf4737e7927e98dd41e3311fda",
+    "git_blob_oid_of_actual_bytes": "957b1fbe4f730820e2dadf90e11bb2d030e3387d"
+  },
+  "complete_independent_current_QA": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_INDEPENDENT_CURRENT_COMPLETE_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "bytes": 240402,
+    "sha256": "e446122f7b2ab4ad002385275642cc67243076a2142378af8779148476871309",
+    "git_blob_oid_of_actual_bytes": "3aacf0e51bc65a62858053d3d30fd90c47e7ea03"
+  },
+  "ROOT_current_semantic_adoption": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "bytes": 11750,
+    "sha256": "1202950f00a5318344643d15920ba969b5d7d54aa85f4de2fe8710d371f57a97",
+    "git_blob_oid_of_actual_bytes": "4dc64eddf866d24715eeeab2b736ef90fda50bc7"
+  },
+  "exact12_candidate_paths": [
+    "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TOMOSHITA_AMI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP000_AP035_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP036_AP070_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_PURPOSES_AP071_AP104_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_ALL105_CURRENT_SOURCE_PURPOSE_INDEX_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_COMPLETE_CLAIM_SOURCE_SCOPE_RIVAL_END_AND_BODY_REGISTER_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_SAVED_BODY_AUTHOR_VERIFICATION_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_SOURCE_RECEIVING_AND_EXACT_ORIGINAL_GRADE_CUSTODY_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_FROZEN_ORIGINAL_RECEIPT_AND_REVIEW_CUSTODY_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_INDEPENDENT_CURRENT_COMPLETE_BODY_ALL105_AND_PRESERVATION_REVIEW_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_ROOT_LITERARY_AND_ALL105_PURPOSE_ADOPTION_V1.json",
+    "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_TOMOSHITA_AMI_CHARACTER_RECEIVING_20261013_V1/AMI_CURRENT_SAVED_BODY_AND_TRANSPORT_ACCEPTANCE_CONTROL_V1.json"
+  ],
+  "pending_semantic_qualification": "Earlier source next tasks, stage fields and105 ROOT_Ami_adoption=PENDING fields remain their dated creation snapshots. Exact current ROOT163/48/105/AP021 adoption and complete different-author V4 review supersede semantic pending only. Actual public composition/absence/install/sharedmetadata/publication/CI/main gates remain pending.",
+  "original_and_current_binding_rule": "Original hashes/scalars and locator witness fields remain historical private-byte identities. Additive operative_public_current_V4_qualification and this exact graph govern current derivative bytes. Never equate a frozen old hash to a newly sanitized public file.",
+  "counts": {
+    "body_lines": 163,
+    "claims": 48,
+    "dimensions": 11,
+    "source_routes": 19,
+    "target_purposes": 105,
+    "author_whole_analytical": 16,
+    "author_prior_selectedEVENT861": 1,
+    "private_routes_ROOT_attributed": 2,
+    "purpose_adequate_own69": 69,
+    "purpose_report36": 36,
+    "original_contributors_whole_attributed": 26,
+    "original_contributors_selected_attributed": 79,
+    "rivals": 8,
+    "finite_ends": 16,
+    "original_OPEN_gaps": 14,
+    "models": 0
+  },
+  "ROOT_final_composition_receiving": "PENDING",
+  "canonical_installation": {
+    "performed": false,
+    "absence_and_state": "All12 future paths require actual ROOT check; composer performs no R read.",
+    "sharedmetadata": "PENDING_ROOT_ONLY"
+  },
+  "publication": {
+    "performed": false,
+    "commit": null,
+    "tree": null,
+    "branch": null,
+    "SOURCE": null,
+    "HOUSEKEEPING": null,
+    "FINAL": null,
+    "main_integration": null
+  },
+  "merge_approval": "RESERVED",
+  "four_home_limits": "AmiM039 only; SammyM032/CARE/Odysseia institution separate, no spillover or named/parent acceptance.",
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_credit": 0,
+  "R_Git_provider_operations": 0
+}

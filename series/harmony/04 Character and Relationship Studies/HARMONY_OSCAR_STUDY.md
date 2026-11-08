@@ -1,0 +1,64 @@
+---
+title: Harmony — Oscar Stauffenberg and permission as an instrument
+artifact_id: HARMONY_OSCAR_STUDY
+artifact_type: character_study
+series: Harmony / ハーモニー
+series_id: harmony
+generation: HARMONY_BOOTSTRAP_V1
+version: '1.0'
+status: active_provisional
+scope: G3 focused monograph of HAR-C010 オスカー・シュタウフェンベルク; supervisory negotiation, information control and help toward Tuan
+source_boundary: HAR-JP-EPUB-001 sha256 d583f6dc36612eb1aec9b18c4ae5a61460388591ee00f38abc2bbd69071fbbae; HAR-U001–HAR-U020 only
+canonical_home: series/harmony/04 Character and Relationship Studies/HARMONY_OSCAR_STUDY.md
+created: '2026-10-18'
+review_status: G3_INDEPENDENT_SEMANTIC_ACCEPTED_2026_10_18
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: false
+recommended_reasoning_class: DEEP_SYNTHESIS
+---
+
+# Oscar Stauffenberg and permission as an instrument
+
+Oscar Stauffenberg's most consequential power is the ability to let Tuan act while retaining a different account of what that action is for. She sanctions, concedes, requests information, withholds her own position and finally helps. Her later admission that she belongs to the working group's senior membership changes the meaning of Tuan's apparent freedom. It does not make their earlier negotiations imaginary. The novel builds Oscar through limits as well as rank: she cannot know all Tuan's evasions, cannot extend every institutional rule and cannot explain Miaha's motive. Her authority works through uneven knowledge, reputation and conditional permission.
+
+This study follows HAR-C010 and the distinct Tuan→Oscar and Oscar→Tuan directions R017/R018 in the [actor/readiness owner](../03%20Longitudinal%20Ledgers/HARMONY_ACTOR_RELATIONSHIP_AND_READINESS_LEDGER.md#g2-current-readiness-and-monograph-eligibility). Her DOMAIN_BOUNDED evidence supports rank and reputation management, information control and help toward this subordinate; it supplies little ordinary private life. [Current claims](../03%20Longitudinal%20Ledgers/HARMONY_CLAIMS_PREDICTIONS_AND_REVISIONS_LEDGER.md#g2-current-arguments--complete-admitted-novel-2026-10-17) retain the institutional revisions. Oscar is an analyst's shorthand for the named オスカー・シュタウフェンベルク; this study preserves the established female attribution and treats her office as important when she exercises it.
+
+## Knowing the forbidden pleasure
+
+The wine encounter disrupts Tuan's contempt before it tests her bargaining skill. Tuan assumes her superior needs to be told what wine is. Oscar replies with grape composition and texture, then recalls childhood consumption in a prosperous home before the catastrophe. Her remembered knowledge is specific. Tuan's description of the seventy-two-year-old's medically maintained youth places the same person at the extreme of present health discipline. These are different eras of one life, rather than proof of current secret drinking. Oscar can remember a pleasure and enforce a regime that treats it as shameful. The conflict therefore concerns the authority to permit it, not an inability to understand its attraction. [HAR-U005-E002–E003](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e002); CL026.
+
+Her reprimand is politically concrete. An inspector's report may determine which side receives legitimacy; a new war could follow. Representatives of life-first authority secretly consuming harmful substances would weaken the credibility on which their mediation depends. Protecting that credibility can defend people affected by the ceasefire and protect the organization simultaneously. No private access lets the analyst apportion those motives completely. Oscar's anger is actual speech and marked affect, while her exact mixture of conviction, fear and self-protection remains inferred. [HAR-U005-E004–E006](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e004); CL028.
+
+Tuan exploits the shared dependence on reputation by predicting nonpublication and touching Oscar's shoulder and institutional emblem. Oscar confirms secrecy. She then uses a different power: informal discipline and return to Japan. Her abrupt ただしっ, marked as a shout, changes the balance after apparent settlement. Keeping the scandal private does not require surrendering command over the subordinate. Oscar recognizes that overflowing goodwill suffocates Tuan and makes loving and being loved by neighbors part of the penalty. The sanction is recipient-specific. She sends Tuan toward a good the subordinate experiences as confinement. [HAR-U005-E005–E007](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e005); CL028–CL029.
+
+A-kun's relieved admiration for Tuan's success is a useful limit on the scene's public meaning. He sees contained scandal and apparently light punishment. Tuan feels the loss of her chosen escape. Oscar need not disclose all her plans for that distinction to matter. Her command has force because she understands enough of Tuan's values to make return costly. [HAR-U005-E008](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e008).
+
+## Concession inside a surviving rule
+
+After Kian's death Oscar excludes Tuan from investigation, citing both discipline and traumatic exposure. Treatment has a legitimate stated rationale; the novel also gives Tuan continuing grief that her brave claim of being long accustomed to hurt does not erase. Oscar's interpretation of what she must feel is still a supervisory imposition, and the therapy regime exceeds the subject's own declaration of satisfaction. Tuan counters by threatening public confession of unauthorized medical copying, contraband and DummyMe. She expressly names possible renewed violence and deaths. Their encounter is coercive in both directions, with materially different means. [HAR-U007-E003/E010–E012](../01%20Sequential%20Readings/HAR-U007_PART_II_01_DEEP_READING.md#har-u007-e010); CL039/CL044–CL045.
+
+Oscar concedes investigative participation after a narrated interval of anger, regret and hesitation. She refuses to extend the five-day grace before therapy and says she cannot. The unit distinguishes that grace from the prescribed 120 hours of treatment. Tuan acknowledges the rule's force as an ordinary member of the life government. The scene therefore constrains an account of Oscar as personally sovereign: she can permit activity within an unremoved framework. The reader should neither convert her stated limit into an independently audited code of law nor ignore Tuan's confirmation of its practical reality. [HAR-U007-E012](../01%20Sequential%20Readings/HAR-U007_PART_II_01_DEEP_READING.md#har-u007-e012).
+
+Tuan interprets Oscar as frightened by her previously hidden nature and the Miaha-like shadow. Those sentences disclose Tuan's account of her successful performance. They do not give Oscar knowledge of adolescent Miaha or access to all her thoughts. Oscar actually learns the name and function of DummyMe within the shown exchange. Later senior membership cannot retrospectively make her every earlier question a pretense. The character's informational gaps survive her rank. [HAR-U005-E005](../01%20Sequential%20Readings/HAR-U005_PART_I_05_DEEP_READING.md#har-u005-e005); [HAR-U007-E011](../01%20Sequential%20Readings/HAR-U007_PART_II_01_DEEP_READING.md#har-u007-e011).
+
+## Certainty, public crisis and the private room
+
+Oscar's emergency briefings concern an actual collective danger. She reports Luigi's death and later a growing pattern of murders, self-killings and unrest. She also participates in distinguishing possible routes to death: the will supports a probable response to the threat rather than another direct perpetrator-controlled act. Her professional function includes transmitting bounded facts and organizing action, not only silencing Tuan. Provisional counts and the limits of reports remain important; statements that no police or military offenders have yet been reported do not confer immunity on those groups. [HAR-U011-E010–E013](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e010); [HAR-U016-E006–E009](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e006).
+
+Her claim that Tuan possesses strong evidence inflates an anticipated lead into possession. Tuan corrects her, and Oscar asserts authority over certainty. That pressure continues the earlier contest over who may define the subordinate's situation. Sharing leads in an emergency has practical force, but its urgency does not make the stronger formulation accurate. Oscar's calm manner gives coercion a different register from the earlier shout. Tuan's middle finger remains an inward gesture, preserving official courtesy in a scene whose disagreement is acute. [HAR-U011-E013–E014](../01%20Sequential%20Readings/HAR-U011_PART_III_02_DEEP_READING.md#har-u011-e013); CL081.
+
+Tuan later uses an invented attribution to force the question of inspector membership. She says Vashilov disclosed it; her narration immediately tells the reader he did not. Oscar removes the other inspectors from the session and admits her own senior place in the working group. The private room is an active instrument: it changes who may hear an answer without making that answer public institutional knowledge. Her disclosure is affirmative evidence of membership, even though the tactic eliciting it is a bluff. It cannot authenticate Vashilov's invented speech. [HAR-U016-E010–E011](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e010); CL126–CL127.
+
+Oscar says both factions watched and used Tuan's movement. The mainstream hoped her connection would lead to Miaha; the other side wanted Nuaza. Her half-permitted freedom is captured by 半ば放し飼い, a phrase that makes managed release visible from the superior's position. Tuan's interpretation that the scandal card alone explained her room to travel is superseded. The earlier nonpublication commitment and granted participation remain performed acts. Oscar's revelation provides a larger institutional reason for permission; it does not establish that she had planned every sanction, knew each meeting or controlled Tuan's private decisions. [HAR-U016-E011](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e011).
+
+## Help without transparent benevolence
+
+The same private conversation includes condolence that seems sincere to Tuan. Oscar then professes ignorance about why Miaha has caused the crisis, describes limited reward-system authority and asks how to help. Her limited-authority report concerns members of several life governments; 合意員 does not establish a council-official target class. Miaha's later code/backdoor account and the exclusive elders' activation codes require separate treatment. Oscar's senior membership supplies meaningful insider access without making her omniscient or a final sole authorizer. [HAR-U016-E012–E013](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e012); [HAR-U019-E007–E009](../01%20Sequential%20Readings/HAR-U019_PART_IV_04_DEEP_READING.md#har-u019-e007).
+
+She agrees to enlist Uwe and offers unexpectedly personal encouragement: perhaps the world may depend on Tuan. The double possibility matters to its subsequent use. Tuan repeats it more categorically to Uwe, converting encouragement into a warrant to act. Uwe reports receiving Oscar's communication but lacks a precise task; the promised help has an actual institutional sequel, with boundaries on its content. Oscar's authority now assists a private pursuit she also hopes will serve collective ends. [HAR-U016-E015](../01%20Sequential%20Readings/HAR-U016_PART_IV_01_DEEP_READING.md#har-u016-e015); [HAR-U017-E002/E004](../01%20Sequential%20Readings/HAR-U017_PART_IV_02_DEEP_READING.md#har-u017-e002); CL129/CL131/CL133.
+
+Pure hostility is inadequate because it loses these real concessions and assistance. A benevolent guardian portrait loses the covert use of Tuan and the punishment through unwanted affection. The strong reading is of a supervisor who manages several overlapping obligations through limited permissions, while Tuan's usefulness keeps changing the terms of command. Oscar's apparent warmth can be sincere within that practice; sincerity does not dissolve the asymmetry.
+
+The study supports no complete private motive or general Oscar simulation. Her sensory autobiography is self-report, her beauty and composure reach us through Tuan, and much of her activity occurs through augmented sessions. No full colleague, family or ordinary intimate context is supplied. Later faction membership revises the reader's account of authority; it supplies no license to reconstruct an all-knowing mind behind every earlier word. Model production remains NOT_STARTED and validation NOT_PERFORMED.

@@ -1,0 +1,3370 @@
+{
+  "schema": "KONOSUBA_FAN_MEM_ACCEPTED_COMPONENT_REGISTER_V1",
+  "accepted_utc": "2026-10-18T00:05:03.198219+00:00",
+  "status": "SUPPLIED_EDITION_COMPONENT_ANALYSIS_ACCEPTED_CONTAINING_PUBLICATION_PENDING",
+  "source_id": "FAN-MEM",
+  "native_bytes": 69401330,
+  "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+  "actual_native_page_count": 121,
+  "coherent_component_groups": 21,
+  "complete_fiction_bodies": 3,
+  "current_source_and_code_qualifications": [
+    {
+      "id": "FAN-PREC-01",
+      "affected": [
+        "Report§7",
+        "FM-H-14 title/setup/H rationale",
+        "FM-V-11 context/pragmatics/L rationale",
+        "Any S098 ticket summary"
+      ],
+      "original_scope_error": "Ticket described as expiring/date constraints/true institutional deadline without distinguishing label truth.",
+      "current": "Genuine ticket; Kazuma himself writes date and same-day-only label. True service expiry not established. Deceptive perceived cutoff is the mechanism.",
+      "code_scope": "Original H1/L0 may remain for actual labeling/deception, not truth of expiry."
+    },
+    {
+      "id": "FAN-PREC-02",
+      "affected": [
+        "Acknowledgement98 uncoded_source_notes",
+        "Inventory S098 uncoded_observation"
+      ],
+      "original_exact_ambiguous_phrase": "Dustparty/Leen-specific ticketcontest proposed and observed without actualsexualservice demonstration.",
+      "current": "Dust party arrival is observed. Vanir proposes a Leen-facing ticket experiment; no execution/outcome of that proposal is shown.",
+      "no_Dust_or_Leen_performed_choice_inferred": true
+    },
+    {
+      "id": "FAN-PREC-03",
+      "affected": [
+        "FM-H-07 H_class/H_scope_and_rival"
+      ],
+      "initial_H_class": "H1",
+      "current_behavioral_H_applicability": "NOT_APPLICABLE_TO_NEW_PERFORMED_BEHAVIOR",
+      "current": "Editorial reported capacity and limits, with literal world-mechanical claim preserved; no actual new injury test. Neither H3 merely for reference status nor H4 for magic."
+    },
+    {
+      "id": "FAN-PREC-04",
+      "affected": [
+        "FM-V-15 selected_L_class/rival rationale"
+      ],
+      "initial_L_class": "L3",
+      "current_recommendation": "L2",
+      "confidence": "MODERATE",
+      "alternative": "L1 phrase-focused reading",
+      "reason": "Ordinary offer-of-help idiom; no locally exploited literal undressing ambiguity. Literal-translation error alone does not establish Japanese-form-central L3."
+    },
+    {
+      "id": "FAN-PREC-05",
+      "affected": [
+        "FM-V-05 justification"
+      ],
+      "initial_and_current_L_class": "L3 defensible, not compulsory",
+      "current": "Specific self-used proverb undercuts intended praise. Separate lexical/cultural/pragmatic contributions; no all-idioms-L3 rule."
+    },
+    {
+      "id": "FAN-ROOT-PREC-06",
+      "affected": [
+        "FM-V-05 source_plane/context",
+        "S072 caption"
+      ],
+      "current": "Reported Aqua self-quotation in editorial caption, not a fully staged newA/Kturn; source historical scene not independently reconstructed here. L3proverb misuse defensible, cultural/pragmatic alternatives visible."
+    },
+    {
+      "id": "FAN-ROOT-PREC-07",
+      "affected": [
+        "S060",
+        "FM-H-04 setup"
+      ],
+      "current": "Aqua rankrecollection hedged 気がするんだけど. Darkness corrects Ragcraftcategory; no confidentassertion/globalignorance inferred."
+    },
+    {
+      "id": "FAN-ROOT-PREC-08",
+      "affected": [
+        "Root initial S102 shorthand",
+        "Root initial blast attribution restriction"
+      ],
+      "current": "FreshactualS102 shows Kazuma kicksAqua, correctingrootreversedagency. S106–107 sequentialMstaff/aura/cast/graphic supportsMeguminblast; no deaths/durablebuildingconsequences certified. Originalrootnotes preserved, S initialcorrect."
+    }
+  ],
+  "original_reader_inventory_sha256": "2539aa136f51dfe3972803f4bfe10b9a72231134fc9e4efeb738a26268da1545",
+  "original_reader_inventory": {
+    "status": "INITIAL_UNCODED_SOURCE_FIRST_READING_NOT_ROOT_ACCEPTANCE",
+    "recorded_utc": "2026-10-17T23:43:56.307798+00:00",
+    "source_id": "FAN-MEM",
+    "native_bytes": 69401330,
+    "native_sha256": "e08725fc99cebadd52f93d05122de36d4ae39b435d0d993c41b068b127ebb32d",
+    "121_native_images_not_121_events": true,
+    "component_group_count": 21,
+    "groups": [
+      {
+        "component_id": "FAN-MEM-COMP-01",
+        "spine_start": 1,
+        "spine_end": 5,
+        "page_count": 5,
+        "title": "Cover, flap, title and contents",
+        "source_plane": "PACKAGING_NAVIGATION",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-02",
+        "spine_start": 6,
+        "spine_end": 14,
+        "page_count": 9,
+        "title": "Nine separately credited guest illustrations",
+        "source_plane": "GUEST_ART",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-03",
+        "spine_start": 15,
+        "spine_end": 16,
+        "page_count": 2,
+        "title": "Gallery index and Special Thanks",
+        "source_plane": "ART_REPETITION_ACKNOWLEDGEMENTS",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-04",
+        "spine_start": 17,
+        "spine_end": 17,
+        "page_count": 1,
+        "title": "Character section divider",
+        "source_plane": "SECTION_ART",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-05",
+        "spine_start": 18,
+        "spine_end": 41,
+        "page_count": 24,
+        "title": "Named character profiles",
+        "source_plane": "EDITORIAL_PROFILE_QUOTATION_ART",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-06",
+        "spine_start": 42,
+        "spine_end": 45,
+        "page_count": 4,
+        "title": "Other-character catalog",
+        "source_plane": "EDITORIAL_REFERENCE",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-07",
+        "spine_start": 46,
+        "spine_end": 49,
+        "page_count": 4,
+        "title": "Other-monster catalog",
+        "source_plane": "EDITORIAL_REFERENCE",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-08",
+        "spine_start": 50,
+        "spine_end": 50,
+        "page_count": 1,
+        "title": "Interlude 1: ingredients",
+        "source_plane": "REFERENCE_SCRIPTED_CHARACTER_COMMENTARY",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-09",
+        "spine_start": 51,
+        "spine_end": 59,
+        "page_count": 9,
+        "title": "Story divider and timeline",
+        "source_plane": "DEPENDENT_STORY_SUMMARY",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-10",
+        "spine_start": 60,
+        "spine_end": 60,
+        "page_count": 1,
+        "title": "Interlude 2: Demon King army",
+        "source_plane": "REFERENCE_SCRIPTED_CHARACTER_COMMENTARY",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-11",
+        "spine_start": 61,
+        "spine_end": 71,
+        "page_count": 11,
+        "title": "World-guide divider, world and tourism",
+        "source_plane": "EDITORIAL_GUIDE_PROMO_HYPOTHETICAL_ART",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-12",
+        "spine_start": 72,
+        "spine_end": 78,
+        "page_count": 7,
+        "title": "Sudden fashion check",
+        "source_plane": "DESIGN_REFERENCE_SCRIPTED_CHARACTER_COMMENTARY",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-13",
+        "spine_start": 79,
+        "spine_end": 87,
+        "page_count": 9,
+        "title": "Terms, jobs, skills, spells, gear, products",
+        "source_plane": "EDITORIAL_REFERENCE",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-14",
+        "spine_start": 88,
+        "spine_end": 88,
+        "page_count": 1,
+        "title": "Interlude 3: household table",
+        "source_plane": "REFERENCE_SCRIPTED_CHARACTER_COMMENTARY",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-15",
+        "spine_start": 89,
+        "spine_end": 94,
+        "page_count": 6,
+        "title": "Interview divider, creator interview, reader questions",
+        "source_plane": "CREATOR_COMMENTARY_INTERVIEW",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-FIC-01",
+        "spine_start": 95,
+        "spine_end": 99,
+        "page_count": 5,
+        "title": "Divider and new prose: ダンジョンマスターは世知辛い",
+        "source_plane": "NEW_PROSE_FICTION",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true,
+        "body_spine_start": 96,
+        "body_spine_end": 99,
+        "prose_author_note": "New prose designation; original-work credit Natsume, no separate byline visible on story page."
+      },
+      {
+        "component_id": "FAN-MEM-COMIC-01",
+        "spine_start": 100,
+        "spine_end": 107,
+        "page_count": 8,
+        "title": "New day-in-life interview comic",
+        "source_plane": "NEW_METAFICTIONAL_COMIC",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true,
+        "comic_creator": "森野カスミ",
+        "original": "暁なつめ",
+        "character_designs": "三嶋くろね",
+        "continuity_note": "Explicit fans/film/poll/protagonist metalevel, no exact MAIN chronology."
+      },
+      {
+        "component_id": "FAN-MEM-COMP-18",
+        "spine_start": 108,
+        "spine_end": 109,
+        "page_count": 2,
+        "title": "Supplementary SS list",
+        "source_plane": "BIBLIOGRAPHY_TITLES_ONLY",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-REPRINT-01",
+        "spine_start": 110,
+        "spine_end": 111,
+        "page_count": 2,
+        "title": "アクアの水商売",
+        "source_plane": "REPRODUCED_BONUS_PROSE",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true,
+        "prose_author": "暁なつめ",
+        "illustrator": "三嶋くろね",
+        "reprint_provenance": "Animate purchase bonus, explicitly stated on printed p109",
+        "original_distribution_date": "NOT_ESTABLISHED"
+      },
+      {
+        "component_id": "FAN-MEM-COMP-20",
+        "spine_start": 112,
+        "spine_end": 113,
+        "page_count": 2,
+        "title": "Original-book list",
+        "source_plane": "BIBLIOGRAPHY_REPRODUCED_COVER_THUMBNAILS",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      },
+      {
+        "component_id": "FAN-MEM-COMP-21",
+        "spine_start": 114,
+        "spine_end": 121,
+        "page_count": 8,
+        "title": "Colophons, blank, jackets and platform logo",
+        "source_plane": "PUBLICATION_PACKAGING_REPEATED_ART",
+        "disposition": "ACTUALLY_VIEWED_AND_VISIBLE_TEXT_READ",
+        "not_event_or_frequency_denominator": true
+      }
+    ],
+    "pages": [
+      {
+        "page_id": "FAN-MEM-S001",
+        "spine_position": 1,
+        "printed_page_or_position": "cover",
+        "component_group": "FAN-MEM-COMP-01",
+        "native_wrapper_member": "item/xhtml/p-cover.xhtml",
+        "native_wrapper_sha256": "7f0aed28de39ee07e561c24c2eac917d077f9c60a7cb653b5b4ec04706ff48b1",
+        "native_image_member": "item/image/cover.jpg",
+        "native_image_bytes": 651982,
+        "native_image_sha256": "7a1785207764651bbf733db595e6330640ea0b1bb707896768d947986689878a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "COVER_PACKAGING_AND_CREATOR_CREDITS",
+        "uncoded_observation": "Aqua/Megumin/Darkness with Chomusuke cover montage, no depicted plot event. Printed credit distinguishes original work Akatsuki Natsume, illustration Mishima Kurone, planning/editing Kadokawa Sneaker Bunko editorial department. Aqua-like sales command in title is packaging voice, not an additional in-world instruction.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:17:50.715438+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S002",
+        "spine_position": 2,
+        "printed_page_or_position": "flap",
+        "component_group": "FAN-MEM-COMP-01",
+        "native_wrapper_member": "item/xhtml/p-flap-001.xhtml",
+        "native_wrapper_sha256": "16b1938a5e1f49bd19410db46cd81fefd455583ed49db8d15197c946cf696b8b",
+        "native_image_member": "item/image/i-flap-001.jpg",
+        "native_image_bytes": 121926,
+        "native_image_sha256": "76007287baec6ba328b88918d7e9bfafce4bdc4d283bc5013e1c691052c0816f",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "DECORATIVE_BLANK_PACKAGING",
+        "uncoded_observation": "White flap with colored edge-dot decoration; no body text or fictional event visible.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:17:50.715448+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S003",
+        "spine_position": 3,
+        "printed_page_or_position": "title",
+        "component_group": "FAN-MEM-COMP-01",
+        "native_wrapper_member": "item/xhtml/p-001.xhtml",
+        "native_wrapper_sha256": "50994703517fcfbc5ea9b247101c4ab1827ad66cb5cd897652bb0226ef8c48a9",
+        "native_image_member": "item/image/i-001.jpg",
+        "native_image_bytes": 565040,
+        "native_image_sha256": "25bced332df6f10f7e0be83c71ecc1c69c076f2f6ccf53461d6734f37cb2eb1e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "TITLE_AND_REUSED_COVER_ART",
+        "uncoded_observation": "Same trio/Chomusuke composition as cover with title layout changed; dependent illustration, not another encounter or a romance/consent event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:17:50.715451+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S004",
+        "spine_position": 4,
+        "printed_page_or_position": "2",
+        "component_group": "FAN-MEM-COMP-01",
+        "native_wrapper_member": "item/xhtml/p-002.xhtml",
+        "native_wrapper_sha256": "c5407395de565d15c1fe55ea6869328b282531941d25e7ae651be8b18fea8546",
+        "native_image_member": "item/image/i-002.jpg",
+        "native_image_bytes": 621461,
+        "native_image_sha256": "45dd32eff266c5fa53d05950fb25ef5528a2d6214536a9b858fe7cfab32f38db",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "PRINTED_CONTENTS_REFERENCE",
+        "uncoded_observation": "Guest illustrations4–12, special thanks14, profiles15 onward, food column48. Guest artists explicitly diverse (Arisaka Aco, ue, Kakao Rantan, Sakura Koharu, Shiokonbu, Shinotsuki Shinobu, Shirabii, BUNBUN, Hagure Yuuki); do not attribute all pictures/prose to the three OPF aut names. Full profile/monster name list read, including minor/antagonist labels. Small drinking-party thumbnail and running chibi Kazuma are decorative/reproduced context, not independent new events.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:17:50.715453+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S005",
+        "spine_position": 5,
+        "printed_page_or_position": "3",
+        "component_group": "FAN-MEM-COMP-01",
+        "native_wrapper_member": "item/xhtml/p-003.xhtml",
+        "native_wrapper_sha256": "b9c3f73283c033dc8a24de05a0b9fd7060b0562bac8abe4cb784dfacffffb954",
+        "native_image_member": "item/image/i-003.jpg",
+        "native_image_bytes": 597882,
+        "native_image_sha256": "9dfec9c98fec60f58443dc7f874d014d6c5c6345fad62f0039032d4ee776c05f",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial contents and abbreviation key",
+        "uncoded_observation": "Contents explicitly route story/timeline/world guides, fashion, terms, interviews/questions, newly written prose/drawn comic section93, SS list106, earliest SS108, book list110. Abbreviations distinguish main/Explosion/continued Explosion/Masked/Yorimichi. This establishes prospective component routes, not reading of those components or fictional events. Chibi illustrations are packaging.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:15.290385+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S006",
+        "spine_position": 6,
+        "printed_page_or_position": "4",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-004.xhtml",
+        "native_wrapper_sha256": "583cfb9abd427a656d8bfe4ca7242de6d2ff9c1b91011b738556979d1371283f",
+        "native_image_member": "item/image/i-004.jpg",
+        "native_image_bytes": 491619,
+        "native_image_sha256": "eb7be242a4c003bf10fe7ac3408985fd81fdb5f8a58b1d05c7758614153e2e79",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; 有坂あこ",
+        "uncoded_observation": "Megumin and Yunyun stylized composition with fire motifs; no dialogue or narrated event. No cast, relationship act or joint chronology established from pose alone.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:15.290396+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S007",
+        "spine_position": 7,
+        "printed_page_or_position": "5",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-005.xhtml",
+        "native_wrapper_sha256": "becdc400bc991ef9f4f62016625d322d69e7ea85b84f12675f81bd30f2253ba0",
+        "native_image_member": "item/image/i-005.jpg",
+        "native_image_bytes": 475559,
+        "native_image_sha256": "03d17d0b3f2c5864827505a866d1fa32508b09a5f43e8c9e40eb2dbf1edf63a6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; ue",
+        "uncoded_observation": "Ensemble montage: foreground Aqua and main party, Chomusuke/chick, upper Eris/Chris dual representation, Wiz/Vanir. Symbolic colocation rather than independent new encounter or simultaneous Eris/Chris event. Credit and page fully read.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:15.290399+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S008",
+        "spine_position": 8,
+        "printed_page_or_position": "6",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-006.xhtml",
+        "native_wrapper_sha256": "73f41a9e1d0bb3d76efb19bf5ca506e0d3393493c20080c3f563ec7d0ab7b964",
+        "native_image_member": "item/image/i-006.jpg",
+        "native_image_bytes": 699099,
+        "native_image_sha256": "d11dfdf784cbb720f71c5f27d5175dac58e5ab0af86f89063936b53f83c52c11",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; カカオ・ランタン",
+        "uncoded_observation": "Color ensemble composition with Aqua, main party and familiar secondary characters. Credit/page are only prose. Smiles, blush and costume/pose are illustration evidence, not proof of consent, shared quest, chronology or inferred motive.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:15.290401+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S009",
+        "spine_position": 9,
+        "printed_page_or_position": "7",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-007.xhtml",
+        "native_wrapper_sha256": "ef66273e23b4df1f92b0d6e16afaf238dd9984c32c58eeb9bdfbaf53277c91d2",
+        "native_image_member": "item/image/i-007.jpg",
+        "native_image_bytes": 497228,
+        "native_image_sha256": "ed0532a8c9960fc4dcb129928e7f1079a01869350fd388b81f88b7c537d17085",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; さくら小春",
+        "uncoded_observation": "Main quartet dining/toasting composition. Aqua raises mug; Megumin/Kazuma face viewer; Darkness beside meal. Visual celebratory social scene without supplied dialogue, date or causal episode; no inferred intoxication/consent or frequency count.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:28.543305+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S010",
+        "spine_position": 10,
+        "printed_page_or_position": "8",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-008.xhtml",
+        "native_wrapper_sha256": "29a9245e2f4523cfacb2a17a3aa9aaf6a8f383de55ab5adb80cd7517241db09b",
+        "native_image_member": "item/image/i-008.jpg",
+        "native_image_bytes": 459461,
+        "native_image_sha256": "81a55d06a61ec40b8565d57a31d0d49586e9fa278d19704223f3508caee81502",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; しおこんぶ",
+        "uncoded_observation": "Megumin seated portrait with hat/staff and papers; no speech or narrated act. Stylized bodily/costume presentation is artwork, not evidence of invitation, sexual intention or a dated event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:28.543342+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S011",
+        "spine_position": 11,
+        "printed_page_or_position": "9",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-009.xhtml",
+        "native_wrapper_sha256": "00affa1e689f94dc321636c7a14586bd8f4d85558368d190c46f0e24017a0342",
+        "native_image_member": "item/image/i-009.jpg",
+        "native_image_bytes": 589881,
+        "native_image_sha256": "6c8d29b04ea53cb6c3bcc306f4c0cdade4fd91cc67d893b85cdbfec33358a266",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; 篠月しのぶ",
+        "uncoded_observation": "Dynamic exaggerated airborne ensemble with Aqua/Kazuma/Megumin/Yunyun and secondary cast/monsters. Aqua appears cheerful while Kazuma distressed; montage visually contrasts reactions. No reliable event chronology or literal combat/flight outcome from this uncaptioned guest composition.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:28.543346+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S012",
+        "spine_position": 12,
+        "printed_page_or_position": "10",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-010.xhtml",
+        "native_wrapper_sha256": "b26a7f18f77c36c32369ceff18194ccedd649a1b691838f5e26843bdb3111b0c",
+        "native_image_member": "item/image/i-010.jpg",
+        "native_image_bytes": 563738,
+        "native_image_sha256": "34dcd136553bf73cb4d8083cb1cee4efb025b710c4b201ff921572e5e58d134e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; しらび",
+        "uncoded_observation": "Aqua with fan and stylized water, smile and peace sign. Water motif/performative gesture supports depiction only, not independent demonstrated spell effect or addressee-specific language evidence. Credit read.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:19:28.543348+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S013",
+        "spine_position": 13,
+        "printed_page_or_position": "11",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-011.xhtml",
+        "native_wrapper_sha256": "8675247da2d09a8143aceff6b6041fafb61b7e621ca9b87db458684764054a95",
+        "native_image_member": "item/image/i-011.jpg",
+        "native_image_bytes": 409944,
+        "native_image_sha256": "4596a258e65027489d31d8ae213e9fa60f09b115560b84360614fdcc67d07232",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; BUNBUN",
+        "uncoded_observation": "Blond younger girl with green floral bow/headband and braids embracing Darkness; likely Iris by design, not named on page, so identity remains contextual pending reference-profile comparison. No dialogue/date; affectionate pictorial framing does not prove a new narrated meeting or inferred intention.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:19.146917+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S014",
+        "spine_position": 14,
+        "printed_page_or_position": "12",
+        "component_group": "FAN-MEM-COMP-02",
+        "native_wrapper_member": "item/xhtml/p-012.xhtml",
+        "native_wrapper_sha256": "4ad325f27aa2963d7f6d82bcb234a828ce595693f390c5926b19c83edf80ccc2",
+        "native_image_member": "item/image/i-012.jpg",
+        "native_image_bytes": 372949,
+        "native_image_sha256": "17b1fc250392b573af6fa34edb050ed72124edf641de6226bdbf3a6c9949ed7c",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Guest illustration; 憂姫はぐれ",
+        "uncoded_observation": "Two female-presenting figures in playful close pose, one brown-haired green-eyed in Kazuma-like green jacket, another pale pink-haired in black/pink devil-themed outfit. Names not supplied, so do not certify identity or in-world gender/state change from design alone. No dialogue, causation or consent generalized from pose.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:19.146931+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S015",
+        "spine_position": 15,
+        "printed_page_or_position": "13",
+        "component_group": "FAN-MEM-COMP-03",
+        "native_wrapper_member": "item/xhtml/p-013.xhtml",
+        "native_wrapper_sha256": "65520733aecbf6c475469c9e4320603bfdab0a247526a4e9e4765008c32c4483",
+        "native_image_member": "item/image/i-013.jpg",
+        "native_image_bytes": 716742,
+        "native_image_sha256": "46d67b8ca4ac32e793d135478d33babe654de2e40528000e2a4c3d8d9a52a637",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial gallery index",
+        "uncoded_observation": "Nine thumbnails with all guest artist names/page routes reproduce pages4–12. Full labels read; dependent copies are not nine additional independent artwork scenes or narrative events.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:19.146934+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S016",
+        "spine_position": 16,
+        "printed_page_or_position": "14",
+        "component_group": "FAN-MEM-COMP-03",
+        "native_wrapper_member": "item/xhtml/p-014.xhtml",
+        "native_wrapper_sha256": "2354e79eb751dd3e762c9409f79eee25f21b69b28231ba9ecc72d3886a86fc1f",
+        "native_image_member": "item/image/i-014.jpg",
+        "native_image_bytes": 540225,
+        "native_image_sha256": "403187f537578629599b71ded4f63537288cb2612a2fcf5b9727e11d379371b7",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Special Thanks; online editor acknowledgements",
+        "uncoded_observation": "Both columns of participant handles read, heading explicitly credits online editors, order unspecified. Thanks/provenance rather than fictional dialogue; handles do not independently confer fiction authorship or empirical character knowledge.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:19.146936+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S017",
+        "spine_position": 17,
+        "printed_page_or_position": "15",
+        "component_group": "FAN-MEM-COMP-04",
+        "native_wrapper_member": "item/xhtml/p-015.xhtml",
+        "native_wrapper_sha256": "c4b15131b5c9f374036938d34610253b7e690b57f2e6232bec57a663929d576f",
+        "native_image_member": "item/image/i-015.jpg",
+        "native_image_bytes": 454378,
+        "native_image_sha256": "31f857130644e7d3ac78eeac680a5d3d623212f4c84ec8d799eccf9d622f7431",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Characters and Monsters section divider",
+        "uncoded_observation": "Kazuma full-body decorative pose framing section title. No new fictional episode or language turn.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:19.146938+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S018",
+        "spine_position": 18,
+        "printed_page_or_position": "16",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-016.xhtml",
+        "native_wrapper_sha256": "825b2b510ec16679dfe80a09baf1d349161091abd4ec7f9fb96dd3d308aaf3db",
+        "native_image_member": "item/image/i-016.jpg",
+        "native_image_bytes": 533277,
+        "native_image_sha256": "d6fd032baa2e5343d3d6acf1aaebc58436f7b4419a204870feffca36c4a8a1d9",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Character File001 Kazuma portrait/quotation collage",
+        "uncoded_observation": "Kazuma attributed claims about luck and Steal; chibi underwear shock recycles skill/comic motif. Quotes presented without original interlocutor/context; not new speech event or evidence lucky outcomes always follow.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:35.191338+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S019",
+        "spine_position": 19,
+        "printed_page_or_position": "17",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-017.xhtml",
+        "native_wrapper_sha256": "32b8bb77cf2a99b831fd8c94c55293ae1965bef3a11036cb6616fdeec2b0e989",
+        "native_image_member": "item/image/i-017.jpg",
+        "native_image_bytes": 665519,
+        "native_image_sha256": "a46e1380307686e406c1c6f0fc8b04028a60abffa6435d98f7f31ebd0e6d54c0",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Kazuma profile/reproduced art",
+        "uncoded_observation": "Profile explicitly contrasts usually desire-faithful最低男 with occasional decisiveness/justice, weakest initial class with defeating generals/wealth gained and lost, loved by others. Hyperbolic true-gender-equality/dropkick quotation remains Kazuma self-characterization, not endorsement or uniform behavior. Art collage includes disguise/party, not independent fresh episodes.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:35.191351+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S020",
+        "spine_position": 20,
+        "printed_page_or_position": "18",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-018.xhtml",
+        "native_wrapper_sha256": "ecd2c6818933e3186f3859398984220ec9c62f18badef6032ff6ac783a56db71",
+        "native_image_member": "item/image/i-018.jpg",
+        "native_image_bytes": 590996,
+        "native_image_sha256": "b4ee341fb0f34e79936483bef34887fd64399cc25b78d6742ce9c10299b4cb16",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Character File002 Aqua portrait/quotation collage",
+        "uncoded_observation": "Self-introduction declares Axis sacred goddess identity; chibi anger/sadness/boxed-cat visual trope. No actual transformation inferred from cat costume/metaphor. Original quotation context/addressee absent; editorial selection may amplify signature identity register.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:35.191354+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S021",
+        "spine_position": 21,
+        "printed_page_or_position": "19",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-019.xhtml",
+        "native_wrapper_sha256": "44ae64bad4dd9284b4b53cd3e4192f46483799340d17ae1f6ca0adeb9041eea0",
+        "native_image_member": "item/image/i-019.jpg",
+        "native_image_bytes": 750327,
+        "native_image_sha256": "5981d2b8766b6f0acbb8d92fac5ba9c841f74450381def1cf5173d17f3c3d4e7",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Aqua profile and reproduced illustrations",
+        "uncoded_observation": "Profile separately affirms genuine goddess/extremely capable archpriest and selfish trouble-making/quick tears/fragile pride, with editorial claim she does not accrue hate. This is evaluative framing, not literal universal reception. Quoted mock laughter＋超うけるんですけど combines colloquial ridicule with polite morphology; context/addressee absent. Reproduced distress/sea/attire collage is not fresh trials.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:49.998520+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S022",
+        "spine_position": 22,
+        "printed_page_or_position": "20",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-020.xhtml",
+        "native_wrapper_sha256": "b0b498add67d7793f3a34fb43a2ff952e9162d719359a3afd3cefe2083b82f00",
+        "native_image_member": "item/image/i-020.jpg",
+        "native_image_bytes": 611403,
+        "native_image_sha256": "e2740189a4b6c7b3a685ecd8fa4626d6ed2295aa6b4cc9ce7d5300a3738903ba",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Character File003 Megumin portrait/quotation collage",
+        "uncoded_observation": "我 and formal Crimson introduction as signature self-performance; chibi school/bath/hat poses. No uniform register inference from selected quotation.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:49.998533+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S023",
+        "spine_position": 23,
+        "printed_page_or_position": "21",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-021.xhtml",
+        "native_wrapper_sha256": "31b6ef5c5d26e05dcdef991eccb93042861d6e2b4cb4de8c1cfcac2233fb8e58",
+        "native_image_member": "item/image/i-021.jpg",
+        "native_image_bytes": 619525,
+        "native_image_sha256": "07b8cf4f8333bd178a0b0edfd7ce54da58568e828b4a823b9269a64d1ccaa76a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Megumin profile/reproduced art",
+        "uncoded_observation": "Explosion specialization/inability and unwillingness to learn other magic contrasted with excellent student/intelligence, assertiveness, care and domestic competence. 隙のない if-not-explosion clause is editorial counterfactual praise, not measured absence of weaknesses. ロリっ子 self-description excerpt lacks original addressee; artwork references Hoost/Yunyun plus modern clothing without asserting one event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:20:49.998536+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S024",
+        "spine_position": 24,
+        "printed_page_or_position": "22",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-022.xhtml",
+        "native_wrapper_sha256": "62e5c3718be18a41ee69fe0fdfd8845312d4ca9958ccf6dc5c9d2934cd400baf",
+        "native_image_member": "item/image/i-022.jpg",
+        "native_image_bytes": 551750,
+        "native_image_sha256": "c4fb928a23c544c32290a1d39e9b27fdf42f8082c294fca2a745912be16b2eb0",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Character File004 Darkness quotation/portrait",
+        "uncoded_observation": "Attributed 鬼畜 exclamation framed with blush/chibi reactions. Selected signature response without original interlocutor or new chronology; no general consent or desire inference outside context.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:08.469191+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S025",
+        "spine_position": 25,
+        "printed_page_or_position": "23",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-023.xhtml",
+        "native_wrapper_sha256": "210ca57106b106291a29fe5bbafb3fabe51b5e227fd569ce878cbda48b24f411",
+        "native_image_member": "item/image/i-023.jpg",
+        "native_image_bytes": 732747,
+        "native_image_sha256": "7f79dd0a4642860b14eaf3e5eec6aa2ca1dff621c512747c3147a54c8cd480cc",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Darkness profile/reproduced images",
+        "uncoded_observation": "Noble lineage/knightly pride/responsibility affirmed before clumsy attacks/masochistic excitement said to spoil all; hyperbolic totalization is editorial comic framing. Chris explicitly close friend and earlier frequent party partner. Humiliation quote declares mind unyielding but ellipsis/image incongruity is selected presentation, not universal psychology.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:08.469208+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S026",
+        "spine_position": 26,
+        "printed_page_or_position": "24",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-024.xhtml",
+        "native_wrapper_sha256": "8c91d53206b9357706d8df813119abc624e36329468f055b56032237bb62e78f",
+        "native_image_member": "item/image/i-024.jpg",
+        "native_image_bytes": 666368,
+        "native_image_sha256": "988d112d16f1799ef588c5d243f071acc631b06456f43b688b7a20f2284d25bb",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Eris profile/reproduced Eris/Chris image",
+        "uncoded_observation": "Gentle luck goddess guides dead; Aqua jealousy/padding rumor explicitly attributed to Aqua and truth left unclear here. Keep this edition's epistemic posture distinct from later/prior located main narrative, no automatic override. Polite prayer never-return quote means hope not to die again in original afterlife setting, not exclusion/hate. Chris/Eris parallel image signals identity, not simultaneous independent encounter.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:08.469212+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S027",
+        "spine_position": 27,
+        "printed_page_or_position": "25",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-025.xhtml",
+        "native_wrapper_sha256": "dcb46c48684be680ee739406840c8f08b2888a298f284d5ad644cf4e79642e46",
+        "native_image_member": "item/image/i-025.jpg",
+        "native_image_bytes": 622449,
+        "native_image_sha256": "88983964d8d5ced936034cc3f6f4952218cdcfc4ae57ce39ce8755365a181a87",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Chris profile/quotation and reproduced scenes",
+        "uncoded_observation": "Profile explicitly Eris human form, descended to befriend Darkness after companion wish; teaches Steal, relatively sensible despite thief role and suffers. Relatively sensible does not erase own mischief; artifact-collection quote with possible future disclosure is excerpt not fresh event. Megumin/Chris proximity images not consent or intoxication diagnosis.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:23.872224+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S028",
+        "spine_position": 28,
+        "printed_page_or_position": "26",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-026.xhtml",
+        "native_wrapper_sha256": "0928712246132b1d47933339c3dcc6a68e1b58dee7971d7c6acc3944487696c1",
+        "native_image_member": "item/image/i-026.jpg",
+        "native_image_bytes": 672799,
+        "native_image_sha256": "a0cd218a734c3793e0c67b41f99a6df30181b1d56d33ae65fa41953c28a3546a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Wiz profile/quotation",
+        "uncoded_observation": "Selfclaimed20 distinguished from verified age; shopkeeper, lich/general, no intention to oppose humanity; Aqua harassment attributed and called unreasonable. 土に還る shared-failure line literal undead double meaning plus group solidarity, not death event. Peaceful identity not incapacity/exemption from harm.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:23.872235+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S029",
+        "spine_position": 29,
+        "printed_page_or_position": "27",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-027.xhtml",
+        "native_wrapper_sha256": "470e1164efc8d73721cdfa63fbc700d3d6bde5cf0e8fe53e7720457222461826",
+        "native_image_member": "item/image/i-027.jpg",
+        "native_image_bytes": 681548,
+        "native_image_sha256": "39d4bae69049ff6320bbd6ba1246c45c257300eea9211ba6f4120e3c74465c2e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Vanir profile/quotation",
+        "uncoded_observation": "Maybe stronger than Demon King explicitly qualified. Seeing thoughts/past/future described as capacity, not omniscience without limits. Dungeon/treasure-SUKA death dream presented as goal funding through Wiz shop, not completed construction/death. Malicious-emotion praise signature and Aqua conflict art reproduced rather than new tests.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:23.872239+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S030",
+        "spine_position": 30,
+        "printed_page_or_position": "28",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-028.xhtml",
+        "native_wrapper_sha256": "ae3a097e58e95c81735818786c6d23c3801d4112e527ee9e9bb49213fb9ba161",
+        "native_image_member": "item/image/i-028.jpg",
+        "native_image_bytes": 679109,
+        "native_image_sha256": "81e12acebcf1a49161c8a3c6887091069f8b6cc201298470f5b304f68f2469ee",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Yunyun profile",
+        "uncoded_observation": "Chief's daughter/selfdeclared rival; broad magic and excellence contrast few friends, framed through self-sufficiency/no need for party plus solitude. Can do anything alone is comic generalization, not universal operational capacity or denial of actual cooperation. Concerned reprimand quotation and friend collages contextualize rivalry/care.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:39.748237+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S031",
+        "spine_position": 31,
+        "printed_page_or_position": "29",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-029.xhtml",
+        "native_wrapper_sha256": "d1d6076ae4fc7c710eb3fbe960395ab3c243bf9bcd55532fdc98809fabb4642e",
+        "native_image_member": "item/image/i-029.jpg",
+        "native_image_bytes": 650856,
+        "native_image_sha256": "5edd089631326fa3c25448c45f478c4e722c1ae641c9dbc9ddf8304dd277cc97",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Komekko profile/reproduced sister scenes",
+        "uncoded_observation": "Megumin doting contrasted with Komekko already independent of sister, food-seeking/charming adults and adults culpable too. ニート姉ちゃん food demand is selected teasing label, not timeless employment finding. Bath/family images illustrative, not consent or new conduct count.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:39.748247+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S032",
+        "spine_position": 32,
+        "printed_page_or_position": "30",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-030.xhtml",
+        "native_wrapper_sha256": "399a0b2637da8b1c34e641dd17ce4ded07fa482c2a67c0c876fbd796a9b5376f",
+        "native_image_member": "item/image/i-030.jpg",
+        "native_image_bytes": 828547,
+        "native_image_sha256": "719b1ab344fc5b321d89b2eb6cbd0a9e1b9f907f44fc8983ebbcad84f07b8455",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Iris profile/reproduced art",
+        "uncoded_observation": "Royal hero education/bloodline and legendary gear together credited for dragon-one-blow strength at12; curious freedom-seeking Ilis alias and friendship with M/Vanir. お兄様 nonbiological attachment distinguished from actual brother. This profile confirms S013 guest girl likely Iris by matching green bow/braids, contextual not original caption. Modern controller image not automatically inworld hardware event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:21:39.748250+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S033",
+        "spine_position": 33,
+        "printed_page_or_position": "31",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-031.xhtml",
+        "native_wrapper_sha256": "ec84ce6c894bd430eabd99898920755651f1f5bc07214eb436b9d9f8acdd5bcf",
+        "native_image_member": "item/image/i-031.jpg",
+        "native_image_bytes": 738995,
+        "native_image_sha256": "848c34c38399a588cb90f715ebc5c705c85b27d274acedf80e2433b04648dfe8",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Luna/succubi reference profiles",
+        "uncoded_observation": "Luna's smiling work vs complaint/private-life stress and desire to pay for vacation; Vanir relation phrased らしい!? preserves rumor. Succubi consensual store dream-for-energy coexistence described, generic nickname not proper name; selected promise quote no addressee/source context. Pink small succubus resembles S014 figure but no definitive guest identity caption.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:00.276079+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S034",
+        "spine_position": 34,
+        "printed_page_or_position": "32",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-032.xhtml",
+        "native_wrapper_sha256": "8b9082c3b215c3ebf503adaabc14b0762aae02834a75b98373cd79da283983c7",
+        "native_image_member": "item/image/i-032.jpg",
+        "native_image_bytes": 752853,
+        "native_image_sha256": "d0402fdee9adf20b7ab03f321c5190583f3f928b1bbf8c691d06ef3aeb19fac5",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Four editorial profiles: Claire/Rain/Zesta/Cecily",
+        "uncoded_observation": "Claire protection/overindulgence/intense seriousness contrasted Rain calm logical correcting but often burdened, not humorless. Zesta strength/early recognition with hidden support juxtaposed erotic old man; no blanket divine knowledge. Cecily fetish/fanatic limits juxtaposed genuine helpful kindness. First impressions/status do not determine competence or virtue universally.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:00.276090+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S035",
+        "spine_position": 35,
+        "printed_page_or_position": "33",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-033.xhtml",
+        "native_wrapper_sha256": "ad6df60a7fd1f34c92225f2a1e10576c30d2be93d6d5a9f996869240c9148bd7",
+        "native_image_member": "item/image/i-033.jpg",
+        "native_image_bytes": 746030,
+        "native_image_sha256": "f764c5bd56cbf6519ed013906169cef42cdbe66b797652b0250c16f53ce933a5",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Four editorial profiles: Aigis/Count/Zel/clan chief",
+        "uncoded_observation": "Aigis effective armor/personality/female-wearer preference; Mitsurugi-rejection and village residence referenced, not new event. Count devil governance good yet malicious emotion tastes; exterior/hands unknown qualified. Zel dragon only Aqua belief vs editorial chicken, Vanir imprinted parent/huskbed. Clan chief embellished letter/mischief described and unnamed in novel; no omniscient intent beyond summary.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:00.276094+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S036",
+        "spine_position": 36,
+        "printed_page_or_position": "34",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-034.xhtml",
+        "native_wrapper_sha256": "600ae7c1a76e9fda0413bfd1c7e533ccf78ba163ec8460964853a347075c929b",
+        "native_image_member": "item/image/i-034.jpg",
+        "native_image_bytes": 705239,
+        "native_image_sha256": "f3d1720f9c744653129a3ea2a7bfd9ccf32c0ad7c66f63a662c667e1df834e4c",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reference profiles Hyoizaburo/Yuiyui/Arue/Nerimaki",
+        "uncoded_observation": "Father intimidating until money revelation, bad product preference linked poverty but no reform; mother's slimness explicitly inferred from ownfamily claim, marriage scheming and chaining framed critically. Arue literary ambitions/letter insert/eyepatch gift distinguished authored fiction from factual clan letter. Nerimaki hospitality/farewell staff and appraisal of M/Y roles; no new novel trial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:19.046650+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S037",
+        "spine_position": 37,
+        "printed_page_or_position": "35",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-035.xhtml",
+        "native_wrapper_sha256": "ac410df118f334f737ee1cc061fdef3a3d3bd2c6ba71ad0bcd87a65ec479866a",
+        "native_image_member": "item/image/i-035.jpg",
+        "native_image_bytes": 714895,
+        "native_image_sha256": "9a38162d878175bb305a5cbc043a4f3206bef699dd20f97f989197eacb61518e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reference profiles Dodonko/Funifura/Bukkorori/Soketto",
+        "uncoded_observation": "D/F financial manipulation contrasted real sick brother and farewell gift, no all-evil simplification. Bukkorori actual defense participation vs NEET label/uncertain craft training; stalking called out. Soketto always-right fortune claim immediately qualified by blank future-lover ambiguity and later suggested own appearance, not logically certified omniscience.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:19.046668+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S038",
+        "spine_position": 38,
+        "printed_page_or_position": "36",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-036.xhtml",
+        "native_wrapper_sha256": "fac00059751bb16c60eb3570229688a80aae92d1ee964036aa691242b2e31505",
+        "native_image_member": "item/image/i-036.jpg",
+        "native_image_bytes": 741827,
+        "native_image_sha256": "ee725515244ab127c37bcbd000ce9969811a1f8f70f0fc3bdbd9fed6b398d4bd",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reference profiles Anna/Sylphina/Levy/Mitsurugi",
+        "uncoded_observation": "Anna adventure-story listening/declared eventual ascension/no current boredom, Aqua communicates and does not force purge because notevil. Sylphina is Darkness cousin, notdaughter; prior maternal loss and disease. Levy agechild/haughty behavior contrasted accepting correction/peace after uncle spy. Mitsurugi distorted by quartet judgments but notbad, sword stolen then repurchased. Context qualifies evaluative labels. Sylphina design differs S013; S013 Iris identification remains strongest contextual match.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:19.046671+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S039",
+        "spine_position": 39,
+        "printed_page_or_position": "37",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-037.xhtml",
+        "native_wrapper_sha256": "00d337b9c130e2a1b81d6f7b2e4764560aa92c211488b3965fe1a4b81bbbbf55",
+        "native_image_member": "item/image/i-037.jpg",
+        "native_image_bytes": 722979,
+        "native_image_sha256": "adb174d3fbc47386419eaad55e817493951be9fe3c5ef9248915b15505415f86",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reference profiles Hoost/Serena/Sylvia/Arnes",
+        "uncoded_observation": "Hoost familiar promise prospective, lives reduction forced contract release; Serena recruitment rejected and eventual Axis conversion passive/forced phrasing, not voluntary reform proof. Sylvia altered chimera resists exorcism and railgun outcome. Arnes failed repeated pursuit/defeat escalation. All summaries referenced fiction not independent demonstrations.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:37.999075+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S040",
+        "spine_position": 40,
+        "printed_page_or_position": "38",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-038.xhtml",
+        "native_wrapper_sha256": "76e9e33934b532b5991f1fb7ee9d3c3ccb7a2d590ddc6e6374bdd938e8fcd9a4",
+        "native_image_member": "item/image/i-038.jpg",
+        "native_image_bytes": 714025,
+        "native_image_sha256": "36a447ca4ff65b3f52bbb931a7413d0723793319120c2d3553ce16e2b8046a1d",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reference profiles Chomusuke/Wolbach/Hans/Chappy",
+        "uncoded_observation": "Split goddess integration after human-body defeat qualified らしく/考えられる; M idol teaches then professes no memory. Hans consumed manager and offended Wiz, jointbattle; Chappy reincarnation identity recalled gradually then Inferno. Reproductions/summaries preserve death/identity mechanisms without assuming all slime or goddess acts identical.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:37.999086+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S041",
+        "spine_position": 41,
+        "printed_page_or_position": "39",
+        "component_group": "FAN-MEM-COMP-05",
+        "native_wrapper_member": "item/xhtml/p-039.xhtml",
+        "native_wrapper_sha256": "2ddea09978e40908d8c2fa5fd306fd5d0a65f77a95c0b1da4d42ab61e64dc1f7",
+        "native_image_member": "item/image/i-039.jpg",
+        "native_image_bytes": 733763,
+        "native_image_sha256": "e2e701097f1cb72f4d13a60f30f528451022c4b8b6af56d8a446d30c3c9c7515",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reference profiles tranquility seedling/adult/princess/orcs",
+        "uncoded_observation": "Seedling innocent/not yet understands speech; household care vs danger forces relocation, no conscious adult manipulation attributed to infant. Adult lures/predates, princess bribery/manipulation distinct. Orc males rare/eaten before maturity with exception Count adultmale; rape/reproduction risk context not comic consent. Kazuma named suitor Stinathe in summary, not new event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:22:37.999090+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S042",
+        "spine_position": 42,
+        "printed_page_or_position": "40",
+        "component_group": "FAN-MEM-COMP-06",
+        "native_wrapper_member": "item/xhtml/p-040.xhtml",
+        "native_wrapper_sha256": "a36a021c7f9a17b983205a27cd46333f84ad6bc526b56c201ad3f8895f8ee72e",
+        "native_image_member": "item/image/i-040.jpg",
+        "native_image_bytes": 774085,
+        "native_image_sha256": "afc939eaf85d82c3b6e6effc241c906e726bcee5f5326699fb9b27f222b9d6d5",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial other-character catalog entries046–064",
+        "uncoded_observation": "All19 small vertical entries read in order: Aji/Ain/Baron/Aqua counterpart Akua/Amaryllis/phonegirl/Alderp/Alexei/Aloerina/noble Aintan/Antai/Ilis/vampire/Ekekera/Karen two distinctpersons/Keith/Keele/Gil/Clarice. Distinguishes Akua priest healing vs goddess, Amaryllis fear mechanism and escaped jailer, reported bonebreak cause, Alderp contracts and noble benevolent adoptee, Keele willing lich for rescued lover then chosen purification. Anonymous phonegirl death cause is causal misunderstanding, not intentional attack. Similar/alias names explicitly separated. Image chibi Aqua label is editorial comedy, not actual cat transformation.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:23:08.899499+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S043",
+        "spine_position": 43,
+        "printed_page_or_position": "41",
+        "component_group": "FAN-MEM-COMP-06",
+        "native_wrapper_member": "item/xhtml/p-041.xhtml",
+        "native_wrapper_sha256": "548e0ba4e403bdf11d1236e39fff5a6c434f6d1dbca13497a1dac11e5d9e4f21",
+        "native_image_member": "item/image/i-041.jpg",
+        "native_image_bytes": 778765,
+        "native_image_sha256": "8c96ef3ac26fd2eda8ab3d4afeb09eced3a4ce1d1f93df23bb17b262726e8e72",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial other-character catalog entries065–087",
+        "uncoded_observation": "All23 entries read: Klein/Gain/prosecutor/Sakiberi/SatouOzuma/Jack/Jatis/Johanna/Steve/Sena/Teris/Demonbusters/Drex/Darknessfather/Dust/Tanaka/Chiekera/Taylor/Duke/angel/Tomas/Tridam. Specific aliases/party roles distinguished; Johanna injured therefore no longer fieldwork, Darkness father revived after curse, Dust false-name suspicion explicitly not confirmed here. Duke confession not actually courtship. Surviving/skilled companions versus names only are different evidence access. Image dialogue Sakiberi cute/asknot concerns nickname joke.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:23:08.899509+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S044",
+        "spine_position": 44,
+        "printed_page_or_position": "42",
+        "component_group": "FAN-MEM-COMP-06",
+        "native_wrapper_member": "item/xhtml/p-042.xhtml",
+        "native_wrapper_sha256": "429d67884940860f6cded0ebf06e53f5613f60b1ae7d9102f5046085c9882729",
+        "native_image_member": "item/image/i-042.jpg",
+        "native_image_bytes": 794939,
+        "native_image_sha256": "800ce8c370b898a2d8f684e46b2298bb5270b9acf9642cf1e0c6e6767b6d92d6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial other-character catalog entries088–104",
+        "uncoded_observation": "All17 entries read: lewdghost/AxisfinanceAmusta/Norris/Hagen/Barton/Barbara/Handel/Hachibe/Beat/Pucchin/Hemocronin/Beldia/Michael/DemonKing/daughter/Maxwell. Hachibe=Vanir assignedcomicservant name, dead court physician discussion vs costume claim, Pucchin class benevolence behind fashion flair, Beldia head/player idiosyncrasy, Maxwell memory/identity and infernal authority distinct. Daughter strength/access explicitly reported/no direct Kazuma encounter; King aged and dispersion work framed maybe/selfreport. No new plot authority from editorial inferential prose.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:23:08.899512+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S045",
+        "spine_position": 45,
+        "printed_page_or_position": "43",
+        "component_group": "FAN-MEM-COMP-06",
+        "native_wrapper_member": "item/xhtml/p-043.xhtml",
+        "native_wrapper_sha256": "61c251ece8ea6170a9b8ddddcb7f397ac7153222e3364aadd25dfab0d9706342",
+        "native_image_member": "item/image/i-043.jpg",
+        "native_image_bytes": 806868,
+        "native_image_sha256": "c7f1d9801fb1f5c47783e08e305842ce10c77cea0439068c369e17cb09eeada2",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial other-character catalog105–123",
+        "uncoded_observation": "All19 entries read: Maribel/Maris/Mitsurugi warrior/thief/Meryl/Megumi/Yukiri/Raiz/Raika/RainSchaker/Ragcraft/Leonor/Leen/Rigel/Regina/Rex/Rosary/Rod/Lorena. Intention, report and unknown carefully explicit: Megumi otherworld-lineage only inference; RainSchaker likelylaterbond; Rex group forgotten by M; Leonor virtuous comparison notidentity withDarkness. Leen intermediate-spell limitation contrasted actual appropriate support and pushback, not weak globalcompetence. Regina eventual release/disappearance possibility distinct from certified death. Royal butler Handel arbitrarily called Sebastian is naming act notproperidentity.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:23:35.679267+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S046",
+        "spine_position": 46,
+        "printed_page_or_position": "44",
+        "component_group": "FAN-MEM-COMP-07",
+        "native_wrapper_member": "item/xhtml/p-044.xhtml",
+        "native_wrapper_sha256": "6992edba6f9e74e34cd4cbd6272bcc18442e41b1aafbf2b08dd891716880cb63",
+        "native_image_member": "item/image/i-044.jpg",
+        "native_image_bytes": 845117,
+        "native_image_sha256": "c56d385bbd3e0827ebd3c2fa735a916572547888d7b33ba78615025d6e7400f5",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial monster catalog124–145",
+        "uncoded_observation": "All22 entries read including candidate general names, giant snails/antlion/Arraune/undeadknight/icebear/boar/medicalslime/vampires/ElderTreant/dragon/ogre/zombie/orclord/soldier/oni/frogkiller/duckleek/Destroyer/cabbage. Species vs individual/unnamed/joke-named entries distinct. Medicalslime explicitly sparse information notverified sham; duplicate orc exception and 20B eldervampire vulnerability framed contextually. Arraune supplies nutrients temporarily rather than literal flesh-eating, preserving apparent-danger reversal; Destroyer uncontrolled human weapon, notnaturalmonster. Exact bounty200万/追加50万 read; no new frequency statistics.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:23:35.679278+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S047",
+        "spine_position": 47,
+        "printed_page_or_position": "45",
+        "component_group": "FAN-MEM-COMP-07",
+        "native_wrapper_member": "item/xhtml/p-045.xhtml",
+        "native_wrapper_sha256": "373733e8d52d1b68ae3e466b57db4f031b7dd16caca7ae26d7341e855989f5ab",
+        "native_image_member": "item/image/i-045.jpg",
+        "native_image_bytes": 906348,
+        "native_image_sha256": "72fecdc564a00ae82d78379cbd90139d231793071469f3ef1a72e5d9f09f022e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial monster catalog146–168",
+        "uncoded_observation": "All23 entries read: wantedjellyfish/Kingtoad/ghoul/hydra/GreenSprite/CrystalLiger/chestnutmouse/griffin/gremlin/KesaranPasaran/fox/centaur/tortoise/mineralmimic/ghost/goldfish/goblin/kobold/monkey/RoidStalker/worm/gianttoad/giantbat. Wantedposterimagery differs actualtinyjellyfish; necromancy-ghoul engineered notnatural; tortoiseresourceecology; mimicnoncombatants usuallyignored but Aqua provokes; RoidStalker pet history and Vanir disgust separate specimen origin. Gianttoad foundational difficulty/prey ecology notuniformhero competence. Counts and costs are editorial reference not occurrence census.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:23:35.679281+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S048",
+        "spine_position": 48,
+        "printed_page_or_position": "46",
+        "component_group": "FAN-MEM-COMP-07",
+        "native_wrapper_member": "item/xhtml/p-046.xhtml",
+        "native_wrapper_sha256": "de9f37ec13e6eb5c3799853e696318315eea4605e2c383b10fe8e76787295a8f",
+        "native_image_member": "item/image/i-046.jpg",
+        "native_image_bytes": 915658,
+        "native_image_sha256": "97c77a6f26673811101fbfc6d91d0700b7b14a8f45783405524509c579380f9c",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial monster catalog169–195",
+        "uncoded_observation": "All27 entries read incl beginner-cat predator/ScarecrowSaurus/skeleton/slime/cicada/tetrapod/undead/zombiemaker/dungeonmimic/golem/hornedrabbit/deadlyslime/dullahan/kuwagata/lizard/tokorotenslime/dragon/dragonzombie/nightmare/neroid/harpy/explosiverobot/lion/hawk/Vanirdoll/parasiteslime/firedrake. Mimic walls/prey/bodymoney lure important changed access; slime physical-vs-magic domains vary, not one global immunity. Paperposter-cat vs actualfantasy dangerous contrast. Robot artificial origin/person-language tied Crimson past; no independent event count.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:12.837272+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S049",
+        "spine_position": 49,
+        "printed_page_or_position": "47",
+        "component_group": "FAN-MEM-COMP-07",
+        "native_wrapper_member": "item/xhtml/p-047.xhtml",
+        "native_wrapper_sha256": "84d983d5d75842f07be646a4616c742443d77b7411f6b3966aeec67c87c52f68",
+        "native_image_member": "item/image/i-047.jpg",
+        "native_image_bytes": 847442,
+        "native_image_sha256": "3040be2a0afc63607df81c4657b34d89697bfe90470ac74255d6cff3ffbdbbdd",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial monster catalog196–217",
+        "uncoded_observation": "All22 entries read: Fenrir/WinterShogun/BlackFang/momonga/alligator/whitewolf/magicslime/MagicEater/manticore/minotaur/Mimic/spiritsnow/Thunderbird/rabbit/Lamia/lizardrunner/lich/silverback/babydragon/roper/basilisk/wyvern. Alligator purity danger implies tacticaltradeoff; Dragonbaby contextualimage; manticore hidden female vs maleeffect context; magicslime capacity unlike ordinary slime; Neroid uncertainty prior carried. Fenrir no-return bounty contextual. Repeated route-to-Zesta foes not distinct new tests.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:12.837285+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S050",
+        "spine_position": 50,
+        "printed_page_or_position": "48",
+        "component_group": "FAN-MEM-COMP-08",
+        "native_wrapper_member": "item/xhtml/p-048.xhtml",
+        "native_wrapper_sha256": "2166afdca6126cbb45f72fb06289dbef1dd657064fa4b5dbb462137870b73f54",
+        "native_image_member": "item/image/i-048.jpg",
+        "native_image_bytes": 744041,
+        "native_image_sha256": "3857a95eede03afaf0029ed1b3c6279cd5b556e4853b6b5e02ed8485118310fb",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Column01 fantasy food; editorial table plus scripted character commentary",
+        "uncoded_observation": "Allfood rows and two explanatory boxes read. Ordinary food exists; moving/growing plants and fish-location inversion normalize genre absurdity. Aqua gardenlicense claim and M sardinefield/watermelonsea/bananariver commentary perform local-world-common-sense vs reader anomaly, not fresh observed agricultural trials. Tokoroten processing distinct foodspecies/child-elder choking ban, Cecily改良品 selfexemption qualified. Neroid mysteriouslivingdrink and namedcolors/fourclassifications; copied art/speech not source-census pool.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:12.837288+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S051",
+        "spine_position": 51,
+        "printed_page_or_position": "49",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-049.xhtml",
+        "native_wrapper_sha256": "c05d351273d07d85fcca4e7ae99c257e93f33c5772a60c762b579e90fb0dfa1b",
+        "native_image_member": "item/image/i-049.jpg",
+        "native_image_bytes": 503341,
+        "native_image_sha256": "d96b20957c5815cac69bdb1d5e612ad323a10c03b2c7f87b8e09e6a545ecac65",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Story reference divider",
+        "uncoded_observation": "Decorative Aqua introduces story outline, no additional utterance/event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:35.501528+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S052",
+        "spine_position": 52,
+        "printed_page_or_position": "50",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-050.xhtml",
+        "native_wrapper_sha256": "f4651ac58506b162056575e29bb61201d6e9b3322a55552701adb512af1854ba",
+        "native_image_member": "item/image/i-050.jpg",
+        "native_image_bytes": 717462,
+        "native_image_sha256": "01af683b7896c7c05a2fd4378158795c1a99f58cbec0e364bdfa9299604dd94e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline first page",
+        "uncoded_observation": "Full entries/assets/skills/linkbox read. About7years, about1year, overdecade approximations retained. Wiz adventure→lich/Vanircontract; Wolbachrelease/reseal/Explosionteaching and M/Y graduation, apprenticequest chronology. Explicit timeline scope main through16, derivative crossreferences not fullnewstory. Dustspinoff explanation credits 昼熊/憂姫はぐれ and then6publishedvolumes, links depict alternate sides; no Dust07absence conclusion from historical edition scope.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:35.501541+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S053",
+        "spine_position": 53,
+        "printed_page_or_position": "51",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-051.xhtml",
+        "native_wrapper_sha256": "e09c290584c0b94656656a3cd50d73167c0dee5edc20b71e1a9a38bdc41fac3a",
+        "native_image_member": "item/image/i-051.jpg",
+        "native_image_bytes": 685847,
+        "native_image_sha256": "dd1365fa21bd7c20e25a4a71d716535736fd17d5e165cfa0ee2d06f7a62d59c5",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline continuation",
+        "uncoded_observation": "Complete top/main/bottom asset lanes read: Explosion2farewell/Arcanretia before Axeltown; Arnes/Hoostfate and K/Adeath/arrival/labor/startskills/toad/Djoining/cabbage. Approx2weeks then 春? uncertainty not exactcalendar. Assets/rewards actor-specific, including separate totaltoad110k vs Kinitial50k and cabbageKover1M/A50k; no pooledcasual numericalmean. Recycled chibis not new events.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:35.501545+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S054",
+        "spine_position": 54,
+        "printed_page_or_position": "52",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-052.xhtml",
+        "native_wrapper_sha256": "7d93ee771afd1413c4a4ae2ccfcd8d24d779970f5e6afebf1de55abd7da83984",
+        "native_image_member": "item/image/i-052.jpg",
+        "native_image_bytes": 693768,
+        "native_image_sha256": "5aba86a27d2a8655ae814c5e9456224a96c9f2135d5750b610c87b7b4a90eb95",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline continuation",
+        "uncoded_observation": "Alltop/assets/Dust-crosslanes read: equipped group/Wiz/Beldia/deaththreatundone/lakepurity/stolensword/bountyflood/winterdeath/partyswap/Keele/manor/succubus/Yori/Destroyer. K learns skill from relevant teacher not automatic equipmentpower. Rewards and damages juxtapose nominal success and debt; Dustbuysback swordcrossreference adds mediator not new event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:57.258384+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S055",
+        "spine_position": 55,
+        "printed_page_or_position": "53",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-053.xhtml",
+        "native_wrapper_sha256": "6503041a73c6f369abf918b2f449e64e96eb0cecf33d5d4e36c3fff104069d32",
+        "native_image_member": "item/image/i-053.jpg",
+        "native_image_bytes": 663543,
+        "native_image_sha256": "8ff7526563144f725d25c53a762832069d7022f79b3f3e46b5d3822c988ea5e9",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline continuation",
+        "uncoded_observation": "All lanes read: arrest/release, Yunyun reunion, Darkness betrothal, Vanir losinglife/retires, lizardfall/Ksecondlocalcountdeath, Arcanretia/Hans compensation, Yori fakeparty, tranquility/Crimson/Sylvia; sums/equipment/bowskill/manatite and robes lane actor-specific. Seasonal placement approximate not created exact calendar.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:57.258395+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S056",
+        "spine_position": 56,
+        "printed_page_or_position": "54",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-054.xhtml",
+        "native_wrapper_sha256": "2daadf742961c938b65d883ebafd0909a17a11692cdeb132b12a31d1bab1e92a",
+        "native_image_member": "item/image/i-054.jpg",
+        "native_image_bytes": 731456,
+        "native_image_sha256": "544973cf28d2ae50a2b70f6127c724849f6464ae9d087db0fe0e2ee6c95cc50d",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline continuation",
+        "uncoded_observation": "Main6royal/Iris/groupidentity/steal, hydra firstfailure secondsuccess,7Alderp forcedwedding and debt,8festivals/Zel/Aigis, continuedExplosion group. Assetline explicitly IP proceeds about20億 and returneddebt20億 =2billion Eris, not20billion. Allyvictory/compensation differences noautomatic corruptiontrial. Dusthydra death/resurrection crosslane same event rather than independent replication.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:24:57.258398+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S057",
+        "spine_position": 57,
+        "printed_page_or_position": "55",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-055.xhtml",
+        "native_wrapper_sha256": "2f1f0e431fe3cfd7a71d622c66e7be6660dcf63eed7042b487bce56749f8921b",
+        "native_image_member": "item/image/i-055.jpg",
+        "native_image_bytes": 677751,
+        "native_image_sha256": "43dfef0834de82d7ad4127d48459f80ffaf42bda2e6e3854672696f898f41fe7",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline continuation",
+        "uncoded_observation": "Full lanes:17thbirthday/Vanirconsultation/main9Wolbach reunion/Explosiondefeat with tentativeintegration;10Elroad aid notobtained despite missions, Ragcraftdefeat;11royalstay/return/Komekko/ghost/princess/griffin; assetsKover1B. Timeline states memoryloss without sourcehedge; maintain as secondary editorial assertion distinct accepted narrower main-narrative access. Dustescapesprison afterKleft notsame timing; no new trial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:25:20.523868+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S058",
+        "spine_position": 58,
+        "printed_page_or_position": "56",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-056.xhtml",
+        "native_wrapper_sha256": "d5d370f9edf7f4c582e8d430857a2389e0c67930f3bc91954d38af2135ba8312",
+        "native_image_member": "item/image/i-056.jpg",
+        "native_image_bytes": 694569,
+        "native_image_sha256": "d8853a59bd76483455dea0201eab4a7595213e90399a41f46b43c252d1916b4e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline continuation",
+        "uncoded_observation": "Full lanes: Sylphinadisease/Countcureclaw/yearendtax, Countlifezero/Wizshop, treasureisland/Bartonrequests/Chappy, Ytrialfailure→Khelp/Aigis; assetlane blank rather than zero; Dust6treasure5crosslane context. No chronology assumptions beyond supplied ordering/period.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:25:20.523883+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S059",
+        "spine_position": 59,
+        "printed_page_or_position": "57",
+        "component_group": "FAN-MEM-COMP-09",
+        "native_wrapper_member": "item/xhtml/p-057.xhtml",
+        "native_wrapper_sha256": "7164891b17233de50b53180ad34bc4391889356f42ad63665957b410c2e04c3b",
+        "native_image_member": "item/image/i-057.jpg",
+        "native_image_bytes": 739932,
+        "native_image_sha256": "2b4146c40a92c81ba6e05e4f0ffa7738426d3628202180b593bc4cadd2153b8a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial timeline endpoint main16",
+        "uncoded_observation": "Full sourcechart ends entrycastle16, lateautumn/earlywinter. Ytrials threehelpers specific; Serena intrigue/puppetcurepotions/deathlevelreset/Aqualeaving; actual highskillpoint dungeontraining and classmates skills, Dust swordgift/M highmanatiteexpense. Dust5initialsurveillance→moneyflip→laterantiSerenacooperation dependencies maintained. Diagram cutoff16 notcomplete mainseries absence/event count; reproduced images not fresh scenes.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:25:20.523886+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S060",
+        "spine_position": 60,
+        "printed_page_or_position": "58",
+        "component_group": "FAN-MEM-COMP-10",
+        "native_wrapper_member": "item/xhtml/p-058.xhtml",
+        "native_wrapper_sha256": "4bf9aab60eb031faaca2360dad980647b6e9740349199bf6598dc78fcd8406b3",
+        "native_image_member": "item/image/i-058.jpg",
+        "native_image_bytes": 679421,
+        "native_image_sha256": "cec6d4a465a65c6808ae81f981a131d1644f6db79ab016147c97afc2f3e33565",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Column02 DemonArmy report: editorial chart plus scripted character commentary",
+        "uncoded_observation": "Allchart/status/route/gatekeeperboxes and Aq/K/M/D/V/W lines read. Chart through16 explicitly distinguishes dead, no-longer-general Vanir, disabledalive Serena, nominalallyWiz; noX=death conflation. M claimsExplosion strongest, AqrecallsElroadgeneral corrected by D(Ragcraftintelnotgeneral), VjokesⅡparttimer. Wiz says earliercastleincursion promptedwizardquit; mapAqdetour/princeexplanation noactualcurrenttrip. These voiced explanatory vignettes are metaframed recap, not new R1trials or proofallclaimsvalid.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:25:48.171468+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S061",
+        "spine_position": 61,
+        "printed_page_or_position": "59",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-059.xhtml",
+        "native_wrapper_sha256": "050daf0a4dc4cd6638b6d45176d6efb81055592531e7053a4edc6186e3d0357a",
+        "native_image_member": "item/image/i-059.jpg",
+        "native_image_bytes": 465889,
+        "native_image_sha256": "bb009f70fe1026025f24cd758705e24bdcfc49a9118f6bfe305b01a2014a1650",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "World-guide divider",
+        "uncoded_observation": "Megumin/Chomusuke illustration with world-view section title; no new fictional episode.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:25:48.171480+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S062",
+        "spine_position": 62,
+        "printed_page_or_position": "60",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-060.xhtml",
+        "native_wrapper_sha256": "a9f3c001a5774a99e6a5240ccdf96a14f51723551557a743c00d7455d78d2e6e",
+        "native_image_member": "item/image/i-060.jpg",
+        "native_image_bytes": 870289,
+        "native_image_sha256": "8e7b0be4523eff4f89fa95d7f52366eb93ea5a9e5c42df9384792790069efe3f",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "World-guide introductory spread right page",
+        "uncoded_observation": "Allvisible paragraphs/boxes/quotes read; adjacent-page heading edge is spread design, continuation next page. RPGfamiliarity contrasted poverty/weakness/unpopularity/eccentrics, systemic rather than efficientheroassumption. Eris largestnationalreligion vs Axis selfclaimed20M/actuallyminority, counterfiction demographic authority editorial. Reincarnationroute generalrule/AxisJapanparadise らしい attributed, not verified universalafterlifecondition. Aq/Kcomplaints paired visual reciprocal facepulling reproduced, not fresh consent/event.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:25:48.171483+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S063",
+        "spine_position": 63,
+        "printed_page_or_position": "61",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-061.xhtml",
+        "native_wrapper_sha256": "25bc7105976252791e01cd05b9da954e9568db2dc7a189f4f2acc2e7663787da",
+        "native_image_member": "item/image/i-061.jpg",
+        "native_image_bytes": 750444,
+        "native_image_sha256": "8e4a89fe9c9e3785ded392e2ab461daa49e971a1978db3e8a5f995a2658770b1",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial regional schematic continuation of60",
+        "uncoded_observation": "Allregional boxes/religious-political arrows/sites read. Belzerg/Elroad alliance and opposing Demonarmy, town/village/Arcanretia/capital referrals illustrative non-scale geography. Vanir/Wiz drawn besidearmy does not override nonhostile/currentresigned statuses. Entire spread heading60–61 resolved; no cartographicdistance inference.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:26:11.816836+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S064",
+        "spine_position": 64,
+        "printed_page_or_position": "62",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-062.xhtml",
+        "native_wrapper_sha256": "90ac31e51e40d372cbfe00ccf31e6aa0b2caed890b1993bfb530452f11c78822",
+        "native_image_member": "item/image/i-062.jpg",
+        "native_image_bytes": 634106,
+        "native_image_sha256": "e1ee0ee1bf79031d7202f03b4d8ddfb63fc4204c07fd7081ff13f27fe3c0aff9",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fictional tourism-magazine style Axel directory",
+        "uncoded_observation": "Everyshop/publicfacility/house/festivalstall list and topLuna-framed introduction read. Newbiecity hosts highlevelresidents; succubus regulars hinted reason but no exclusivity. Inns/shops/churches/police/orphanage/waterplant/socialinfrastructure foreground ordinarylife. Lists enumerate editorialsites not independentvisits; chibivoices are tourguide framing.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:26:11.816848+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S065",
+        "spine_position": 65,
+        "printed_page_or_position": "63",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-063.xhtml",
+        "native_wrapper_sha256": "e89de801d8afe9f8669752973e1481eed9048a40796bfca18094d0b8a64aa6f7",
+        "native_image_member": "item/image/i-063.jpg",
+        "native_image_bytes": 642337,
+        "native_image_sha256": "8cd35233beebeba9cef580d25d7aa295d51c5f4816f8d99562d8396be4308f8a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Axel gourmet/recommendation directory",
+        "uncoded_observation": "Allmenus/drinks/stallfoods and Wizshop recommendation read. YAKISOBA romanization/takoyaki homage and exotictoad/slime blended mundaneconsumer form. Wizshop locally reputable highmagicpower recommendation is promotional editorial perspective, not absence of costly/unsuitable goods seen in narrative. No new meal/cast/market success counted.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:26:11.816852+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S066",
+        "spine_position": 66,
+        "printed_page_or_position": "64",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-064.xhtml",
+        "native_wrapper_sha256": "f875671d807a6c6e4981c72eed5ae97dd3d12d0cd4267b205236141bc7e87678",
+        "native_image_member": "item/image/i-064.jpg",
+        "native_image_bytes": 631592,
+        "native_image_sha256": "b7dd81c1009761ed935882b2de20d48b58406893b95455dcd67ea891765b1254",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Tourguide Arcanretia directory",
+        "uncoded_observation": "Allintro/church/public/shop/food entries read. Hyperbolic happyresort conditional on hidingErisfaith/converting directly exposes exclusion/cost behind welcome. Zesta invite/hotspringexplosionorigin いわれる qualified. Elf/dwarf shop banter recommendation notnewscene; allnonAxisshops kind phrasing promotional generalization not literaluniversaltestedhospitality.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:26:50.057928+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S067",
+        "spine_position": 67,
+        "printed_page_or_position": "65",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-065.xhtml",
+        "native_wrapper_sha256": "ce60c0c39cca9f98c77b11e025d837e6aa32b20a116522f7d1bc6e24d4d81029",
+        "native_image_member": "item/image/i-065.jpg",
+        "native_image_bytes": 616854,
+        "native_image_sha256": "842078c60c8f97e24b433766275ef8f49d399a3292760edc7b76fd2183af0ff7",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Arcanretia gourmet and imagined bathing recommendation",
+        "uncoded_observation": "Allfoods/drinks/blackmarketbannedslime-rumor and bathtext read. Caveat ※妄想です explicitly marks image of nude Wiz/Darkness and lurking Kazuma imaginary; cannot use as actual harassment, consent, encounter or mentalstate report by named character. Aqua's miraculous holywater bath actual claim editorial recommendation; benefit/purifiedhotspringdamage different evaluations. Rumoredslime circulation not provenonsaleobservation.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:26:50.057939+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S068",
+        "spine_position": 68,
+        "printed_page_or_position": "66",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-066.xhtml",
+        "native_wrapper_sha256": "1913532718811c81360b841dd057ba79b77151cad1b910b2bafee59391e894b8",
+        "native_image_member": "item/image/i-066.jpg",
+        "native_image_bytes": 660433,
+        "native_image_sha256": "5d17b4a72eb0737f000333ffd67e8aab115a1054d22f4afd1d537c502df7f534",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Crimson village tourguide",
+        "uncoded_observation": "Allshop/closedsite/public/backstage entries and intro read. EveryresidentArchwizard/safeevenraids visitorpromotionalgeneralization; main5attackcounterevidence remains. Mixedbath name, monstermuseum, supplyfacility, sealedwarehouse/shrine distinctions; touristprivacybackstage rule explicitly limits access. Uniquehighest naming marketing links performative village culture, not objective ranking of everyshop.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:26:50.057942+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S069",
+        "spine_position": 69,
+        "printed_page_or_position": "67",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-067.xhtml",
+        "native_wrapper_sha256": "d3167354459dad81b109f512ffbac3d196677c0aa850ee3fb8fe0b9e39413306",
+        "native_image_member": "item/image/i-067.jpg",
+        "native_image_bytes": 642433,
+        "native_image_sha256": "1e0ecfc367bb45100df92244f5ee3c00f9af30663ee883519cb032defcda2df1",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Crimson gourmet/landmark guide",
+        "uncoded_observation": "Allmenu/curryetiquette/tavern/sights read. Cosmicdishnames contrasted mundane coffee/calorieparfait; wizardrobecurryexposed requires polite nonmention, facework not beliefmagicproved. Tavern SuccubusLingerie explicitly notmale-oriented, sexualstore inference blocked. Nerimaki-temperaturemilk is playful copy not measuredtemperature. Cat-ear shrine guide suggests power そう, not certified god or actual blessingtrial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:27:17.629895+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S070",
+        "spine_position": 70,
+        "printed_page_or_position": "68",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-068.xhtml",
+        "native_wrapper_sha256": "876872c884bae5900ed5a1ec9224f30ff0c139954bcfebe3fc94d3693415f04a",
+        "native_image_member": "item/image/i-068.jpg",
+        "native_image_bytes": 643310,
+        "native_image_sha256": "b760f97fd0f5ea6b14e52187b2f785c391a62beb09ce1c1e5e0b034d7d8c7c2a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Capital guide/menus",
+        "uncoded_observation": "Allinstitution/shop/food/royalaccess rules read. Photographingcastle suggestedmetafictiontourism, not proof cameraevent; outsiders barredinsideroyalproperty. Magicalmansion Irismeal Japanesecomfortfoods vs royalbanquet wasabipudding/hammelon tastehumor. Framed familiar artwork notnewpreparationevent.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:27:17.629907+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S071",
+        "spine_position": 71,
+        "printed_page_or_position": "69",
+        "component_group": "FAN-MEM-COMP-11",
+        "native_wrapper_member": "item/xhtml/p-069.xhtml",
+        "native_wrapper_sha256": "759fa451fc569603637e8a15d4691a84beb621f440ec1cdd7f869f348f699435",
+        "native_image_member": "item/image/i-069.jpg",
+        "native_image_bytes": 664241,
+        "native_image_sha256": "2fed91394fbba52a0bd5fb4eb63dda014caee164b12188e5669ed85aa6cf7fa6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Elroad gambling tourguide",
+        "uncoded_observation": "Allcasino/castle/carefarm/shops/public/menu/closingcaution read. Funmillionairedream countered addictionwarning and lucknotsolecause. Iris-Levybetrothal phrased editionpoint report そう, not irreversiblecurrentseriesstatus. Numericvisibleattributes genreconvention not realworldmeasure. Cardgames and financialstake framing not actual freshgamblingtrial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:27:17.629911+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S072",
+        "spine_position": 72,
+        "printed_page_or_position": "70",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-070.xhtml",
+        "native_wrapper_sha256": "597ed16abe97bf897dc83fe51e98734d16a53952f632bedf2e9d4d461a846d5c",
+        "native_image_member": "item/image/i-070.jpg",
+        "native_image_bytes": 789166,
+        "native_image_sha256": "5b09af6f90b6530b6add98cc8d35531449ad35d328db7bc82e1b9ee2bcc71d91",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Aqua; editorial annotations plus scripted Kazuma appraisal",
+        "uncoded_observation": "Allannotations and formalwearbox read. Hairornament watermolecule rumor explicitly伝説/toka; divinehagoromo defense/status/poison vs pain distinction, coldprotection absent byexperiencedcold; ordinary blessing inferred notcertified. Kdesiresdignity, insults failure conditional, not fresh universaltrait. BorrowedD dresswaist alteration qualifiedようだ and 馬子にも衣装 selfuse correction points idiompragmatics.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:27:47.164864+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S073",
+        "spine_position": 73,
+        "printed_page_or_position": "71",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-071.xhtml",
+        "native_wrapper_sha256": "6928dcd58ca23ce9a6e04c17ca3719e948c6026ccee662fbabea2a6f7fa2a207",
+        "native_image_member": "item/image/i-071.jpg",
+        "native_image_bytes": 581985,
+        "native_image_sha256": "fe39271f8b6c4b8d542e4600b6b5edaaee833656ce881f8fcb9ef5efd2f8c6a3",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Aqua continuation",
+        "uncoded_observation": "Allpajama/disguise/repair annotations read. Nightclothes andhairdown domesticroutine; Duke disguise catwalk described birdlike vs ownsexyintent, separatesobservedmovement/selfappraisal. Repairskill praised indirectly throughtitle while goddignitycriticized; actualskill/roleappearance distinction. Reproducedimages not independentrepair/failedseduction trials.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:27:47.164877+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S074",
+        "spine_position": 74,
+        "printed_page_or_position": "72",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-072.xhtml",
+        "native_wrapper_sha256": "b5ef3e9731c6ab938cc45e9b4f4bcd87c9c60213f8efe2758301bd3cae4602fb",
+        "native_image_member": "item/image/i-072.jpg",
+        "native_image_bytes": 637689,
+        "native_image_sha256": "dd2e778a435a0734f72ddc27b01ac75a25ab893cdf574430ba784a70f26702f2",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Megumin; editorial and scripted Kazuma",
+        "uncoded_observation": "Allgloves/robe/eyepatch/bandage/bodyannotations read. Oneclothingstore undermines higheststore boast; bandagechuuni comparison expressly not claim this is M actualcause. Krough directive notchooseblack functions fashionappraisal in editorialscript. Robesexualized speculation/flatbodymockery belongs gaze/evaluation, not consent or objectivepsychology and no necessitytoinferactualundressing.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:27:47.164881+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S075",
+        "spine_position": 75,
+        "printed_page_or_position": "73",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-073.xhtml",
+        "native_wrapper_sha256": "0e0bf35595f018cf789eed9539ef4ca64ff4a32247fd05938fd5c3fa577e4904",
+        "native_image_member": "item/image/i-073.jpg",
+        "native_image_bytes": 573203,
+        "native_image_sha256": "6125f4c0857fdabb0867cb1d6f44eea3ecb2c1f3409a470a61c152f45fcae404",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Megumin continuation",
+        "uncoded_observation": "Allpajama/borrowedDchilddress/schooluniform captions read. Pajama seductiveassessment explicitly かもしれない viewercontingent; formalwear borrowed when Dchild notproofMimmaturemind. Schoolgroupsprite designs repeated. Clothingcommentary does not itself establish attraction/knowledge/agency in original scene.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:28:15.393909+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S076",
+        "spine_position": 76,
+        "printed_page_or_position": "74",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-074.xhtml",
+        "native_wrapper_sha256": "556f30aef3fc0185562893c294304d4e9e110e733c2ff39c1de66eca56a063ee",
+        "native_image_member": "item/image/i-074.jpg",
+        "native_image_bytes": 619211,
+        "native_image_sha256": "4dbd02a9428ef370fb12fc3e1c4e11d8f834147a2cecfd6ba0505d988d97d7d3",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Darkness; editorial/scripted K",
+        "uncoded_observation": "Allhair/armordress/cloth/suit captions and Kline read. Laborintensivechignon mechanism stated, maidassistance possibility notfactofspecificstyling. Partarmor styletrades defenses; Krecommendation fordefense with imagined Dpleasure response is comicconstructedaside not actual statedDconsent. Suit/childcare gentleness contrasted battlescenes inappropriateforchildren; distinction reinscribes actual caregiving capacity.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:28:15.393925+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S077",
+        "spine_position": 77,
+        "printed_page_or_position": "75",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-075.xhtml",
+        "native_wrapper_sha256": "c20af0400606bdc7f0d14ebe502346a3ff59aef3b8087b3361ce99b893955edb",
+        "native_image_member": "item/image/i-075.jpg",
+        "native_image_bytes": 574505,
+        "native_image_sha256": "73dc670e48ee6f81c5e6a62c066421af20cb6e36674bd55ae46c151f3af5e88a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Darkness continuation",
+        "uncoded_observation": "Allnegligee/officewearbind/cleavage captions read. Attributed strongerbindrequest らしい vs editorial rejection separate from actualunconditionalconsent; Kbriefheartflutter describedようだ sourceaccessqualified. Noble/sensual/gaze moraldisapproval doublevoice, does not license harm outside specificscene or reduce D to fetish.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:28:15.393928+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S078",
+        "spine_position": 78,
+        "printed_page_or_position": "76",
+        "component_group": "FAN-MEM-COMP-12",
+        "native_wrapper_member": "item/xhtml/p-076.xhtml",
+        "native_wrapper_sha256": "8aef522c633f04cb79aa67148c76f8944cb8376574301209f4aa74dc07ec6467",
+        "native_image_member": "item/image/i-076.jpg",
+        "native_image_bytes": 577331,
+        "native_image_sha256": "99b78283ae22b008e9c5e0ab5e62cf133ce67c510076bdfa9e623a5ea88952bd",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Fashion-check Kazuma; editorial annotations and scripted Aq/K exchange",
+        "uncoded_observation": "Fulloutfit/jersey/captions/bothvoicebubbles read. Cape bought after Aqcomplains fantasyworld disrupted; appearance/socialrecognition distinction vs moredefenseunderclothing. Aqchallenges hypocrisy: fashionjudge wears ordinary outfit/jersey, Kdefendsonlyremainingmemory, partially apologizes but disclaims owninterest and blames企画author. Explicit productionaddress makes scriptedmetafictionalexchange, not silently new dated principalscene. Memoryattachment genuinecharactertheme but repackaged not originalfreshforecasttrial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:28:45.613301+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S079",
+        "spine_position": 79,
+        "printed_page_or_position": "77",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-077.xhtml",
+        "native_wrapper_sha256": "455b2482782ae8323d4ede6e5366b81cef1b7acb98a360af4e706c2c4bf3911e",
+        "native_image_member": "item/image/i-077.jpg",
+        "native_image_bytes": 839008,
+        "native_image_sha256": "e853029043c07f2a830e7435100e74bebc8439d2a27bdfe9c116e7a603297dfe",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial profession reference",
+        "uncoded_observation": "Allfourmainclassboxes/15otherprofessionrows and generalregistrationrequirements read. Adventurer broadpotential higherpointcost/noclassbonus, Archwizardallocation matters, Archpriestfrontlinepotential, Crusader deliberatelynotlearningholyoptions qualified. Classcapability not automatic performedskill/idealbehavior. Detailedunknown labels preserved for berserker/runeknight; no new exhaustive ontology claim.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:28:45.613317+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S080",
+        "spine_position": 80,
+        "printed_page_or_position": "78",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-078.xhtml",
+        "native_wrapper_sha256": "eb4b7c4d68f68329e70985386efdf1e4604d295e1bbd6669791e2b691114d405",
+        "native_image_member": "item/image/i-078.jpg",
+        "native_image_bytes": 608136,
+        "native_image_sha256": "4ae022ec99baa8b175a6af323a32830f43cd7d9b94cf353576d0cd3596269f22",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial skills and magic reference",
+        "uncoded_observation": "Allskilltable/generalacquisition/uniquemoves read. Adventurer taughtskills vs correspondingmagicmasternode; Stealrandomluck, trapdexterity/luck, Bindropemana, Drainsharing vs theft; resistanceeachseparate notuniversal. Fastchant inferred. Japanese-transmigrant cooking-skill practicalunavailability not proof inability to cook normally. Unique namedmoves are referencecensus not empiricalcastcounts; Iris sworddependentlastmove explicit.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:28:45.613320+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S081",
+        "spine_position": 81,
+        "printed_page_or_position": "79",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-079.xhtml",
+        "native_wrapper_sha256": "a8a700a3940853e07c8a19b0eb30aa748c9a2884ddf585e3a2efa35e59d707c3",
+        "native_image_member": "item/image/i-079.jpg",
+        "native_image_bytes": 869153,
+        "native_image_sha256": "7c608514e9c4b345082862fb08779f3abdfaff6e65942f9ae5cf38a3d133a51a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial magic taxonomy and complete two-column namedspell table",
+        "uncoded_observation": "Alltaxonomy/spellrows read, points1/10/30 and Explosion50 vs Blastestimated30 qualified; power/resource/convenience tradeoff explicit. Initial harmless vs intermediateattack vs advancedgesturechant; faith-effect らしい notconfirmedmechanism. Energysearch magic vs thiefsensing comparison does not settle MASK sensing causalfailure. Explosion nameduserlist/cost shorthand not fresh trial; single16Epcast/source-specificsupport remain. Allnamedscroll/curative/barrier differences read without equating capability with actual use.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:29:16.828289+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S082",
+        "spine_position": 82,
+        "printed_page_or_position": "80",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-080.xhtml",
+        "native_wrapper_sha256": "76214b5b84658f741f0cb2fedddca58a12a50580972aeb2cdb2d337602c1ced6",
+        "native_image_member": "item/image/i-080.jpg",
+        "native_image_bytes": 743962,
+        "native_image_sha256": "6e545ca1e5acfeb84889d730bf28f5e3ecc417a7617cd82fb340f3915f458dff",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial equipment reference",
+        "uncoded_observation": "Allweapon/armor/otherrows read. Swordpower Mitsurugispecific; unnamedcalibur statusward Iris; blackarmor Crusaderrestriction vs Kownfullplatefailedstats returned; swordgiftDust16 and ringtreasurelatecaps. Aigis healing/ability/immunity description not modelpersonality exemption. Ring lifetimeattachment phrasedらしい, not pre-refusal actor knowledge. NameChunchunmaru Munauthorizedengraving distinguishes agency and ordinary Korder.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:29:16.828300+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S083",
+        "spine_position": 83,
+        "printed_page_or_position": "81",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-081.xhtml",
+        "native_wrapper_sha256": "8974facd417ed2b0e8eb7b2a46b112b0392a46a24e313673b2182b482b2cd966",
+        "native_image_member": "item/image/i-081.jpg",
+        "native_image_bytes": 838331,
+        "native_image_sha256": "62fc096c18fb0c8b2ad3f963c8101d4dd0ad30d6afc69d02f3bae96625edb2c9",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial Wizshop product inventory/provenance",
+        "uncoded_observation": "Allproductrows, routes, intro andsupplierbox read. About70percentfeatureditems shopgoods is thiseditorialselection claim, not seriescommercefrequency. Defects/resourcecosts undermine nominalbenefits: cooldownlateaftersummer, gadgetthiefonly, topmanatitecost/noordinarydemand, barrierspecialdungeonmarkup; supplyHyoizaburo evidencednotallgoods. Futureprototypes/notyetmarketed/preservedbelief distinct from completedacceptedtransactions. Descriptivefantasyconsumerjokes not new denominators or R1wins.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:29:16.828303+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S084",
+        "spine_position": 84,
+        "printed_page_or_position": "82",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-082.xhtml",
+        "native_wrapper_sha256": "ee94daf166fb68ddb7840663c52fb9fe427e22795732add187f0e971b2b17e50",
+        "native_image_member": "item/image/i-082.jpg",
+        "native_image_bytes": 758825,
+        "native_image_sha256": "75317deaf0e7e03ad8d66be3a683af85c799c7d61f9349f7197f0963a2ae279e",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial item dictionary",
+        "uncoded_observation": "Allitemparagraphs read including adamantite/liebell/bodyswap/coins/orichalcum/cards/speaker/memorypotion/forbiddencrystal/silverchain/scroll/gamegirl/barrierdagger/barrier/crystal/Winterorigami/charm/heater/corona/sandbag/testrelic/linesmanual/deodorant/herbicide/skillpotion/scroll. Explicit magicalbarrier-only dagger, two-necklace ownermanifold/time, inferentiallimits retained. Coinvalue百万×二千=二十億 matches2B Eris. Antiquecorona fuelterm fantasticnames vs unintendedhardscienceconclusion. Conditionalutility not unconditionalcompetence.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:29:52.196722+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S085",
+        "spine_position": 85,
+        "printed_page_or_position": "83",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-083.xhtml",
+        "native_wrapper_sha256": "2ae7bd201085793a2ee5c8ce4cc00f4f9aa9ae4b66d9ba7e2e219ec085385302",
+        "native_image_member": "item/image/i-083.jpg",
+        "native_image_bytes": 760727,
+        "native_image_sha256": "31c5d238e8573f2dd34a374655770a7e546438d13adbd953ae5772686ec22326",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial item dictionary continuation",
+        "uncoded_observation": "Allparagraphs read: holywater/dynamite/healthpotion/bamboocopter/Demonblood/M doll/telescope/librarybooks/cure/riddle/bio-book/Babzel/padding/Wintertoy/ore/Erisorigami/boardgame/mic/camera/potion/manatite/mansion/randomsummon/cleaner/smokebomb. SP10homemadephysicalexplosive distinguished magic but poweronlyBlastanalogy. TrialBartonriddle andfourknowndiseaseingredients/lastunknown not falselycompletecureproductionrecipe. Booktitles/metafictionjokes listed not completeembeddednarrative. Consumerdescriptions include originalinventor/deception/cost and never-demanded capacity.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:29:52.196733+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S086",
+        "spine_position": 86,
+        "printed_page_or_position": "84",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-084.xhtml",
+        "native_wrapper_sha256": "f3a4d5c111f63962ee68483bebb107070ff6c6b779b62285c4ccddee5c82b3ef",
+        "native_image_member": "item/image/i-084.jpg",
+        "native_image_bytes": 757539,
+        "native_image_sha256": "cd4ff16120add7262694a196fcc85e1742aaf2793caf198580f6b016962f0cb4",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial other-term dictionary",
+        "uncoded_observation": "Allcolumns read. Eris deity/currency unit1yen distinguished; elf ear-reputation performance; masks/silverthieves aliases; charges 国家転覆 framed accusation not conviction. Crimson engineeredorigin/Japaneseancientlanguage and gamecommands storyevidence summarized. Status/residual-lives concepts; unwantedrewardSanta caricature and cosmicMegumin nicknames not actualnew species. Unresolvedflat-Earishistoricalnarratorclaims separate currentR1. Shrine/consultation site dictionary not new visitation.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:29:52.196736+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S087",
+        "spine_position": 87,
+        "printed_page_or_position": "85",
+        "component_group": "FAN-MEM-COMP-13",
+        "native_wrapper_member": "item/xhtml/p-085.xhtml",
+        "native_wrapper_sha256": "47786c56ed719e083e8ff20ea0f14ec875526252b0ae467f03f50efb83d43dc6",
+        "native_image_member": "item/image/i-085.jpg",
+        "native_image_bytes": 763447,
+        "native_image_sha256": "1bdec877c746ed8b8412d1202e3f818d409349f926691392463932b97ca73f67",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Editorial otherterm dictionary continuation",
+        "uncoded_observation": "Allcolumns read incl Charm/Wizproduction/noiseknown/stealswear/others. Succubus Charm humanwomen avoidance ofharm notconsent proof. Teddy/Totealice gameJapanese/rule aliases, mythology gods and chuuni epithets attributedfiction. Adventurercard records vs readeractualmind; institutionalagency hires/quests;养殖 highlevelimmobilize then novicefinish mechanism. Railgunphysicalconstruction vs magicgimmick context and prototypeexplosion risk. Satire RPG/magicalworld notgeneralhumanequivalent inference.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:30:21.978395+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S088",
+        "spine_position": 88,
+        "printed_page_or_position": "86",
+        "component_group": "FAN-MEM-COMP-14",
+        "native_wrapper_member": "item/xhtml/p-086.xhtml",
+        "native_wrapper_sha256": "3f2c1583391977d947e913a5eb25cfbb7e59a9537b36353a72a258c9c0767106",
+        "native_image_member": "item/image/i-086.jpg",
+        "native_image_bytes": 765189,
+        "native_image_sha256": "1b303024bb48754f5631551332bf994dca8cdbeeaae7b3d55d0146a1f2bdb834",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Column03 Kazuma-household food reference with scripted K/Aq comments",
+        "uncoded_observation": "Completeallmenu/drinkparagraphs read. Kcookedpasta treasuredtaste vs dragonmeatbad butXP, ordinarymeals/leftovers/gifts/Komekkobribery distinguish actor/intention/knownabsence. Aqua actualreportedtea skill praised by D while her ownpurification makes tea plainwater; maid-hotwater stagedperhapswasalreadywater, uncertaintypreserved. FishpolishedforChomusuke vs ownermeal, leftovercookunknown notassignedM automatically. Script Krealizesdiversity/Aqoffers tea mirrorsbenefit-cost but notnewmain-onlyforecast/census.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:30:21.978406+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S089",
+        "spine_position": 89,
+        "printed_page_or_position": "87",
+        "component_group": "FAN-MEM-COMP-15",
+        "native_wrapper_member": "item/xhtml/p-087.xhtml",
+        "native_wrapper_sha256": "f7e76a403e4bec2bf1b374d89b684006d63e06d1ffbbfee1b33122d255e4d513",
+        "native_image_member": "item/image/i-087.jpg",
+        "native_image_bytes": 463939,
+        "native_image_sha256": "26a93a114bfaccd3ccf8920d317555adce862de2670170f6d9d8dafc2e343305",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Interview divider",
+        "uncoded_observation": "Darkness art with interviewheading, actualforthcomingcreatorplane distinct fiction.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:30:21.978410+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S090",
+        "spine_position": 90,
+        "printed_page_or_position": "88",
+        "component_group": "FAN-MEM-COMP-15",
+        "native_wrapper_member": "item/xhtml/p-088.xhtml",
+        "native_wrapper_sha256": "3f5bd2d3af741f98ad1f0de801372876d2579adb4c683e5041c35a20dfbd3ac7",
+        "native_image_member": "item/image/i-088.jpg",
+        "native_image_bytes": 723450,
+        "native_image_sha256": "2eb6abcd5635d6f1883a34ebeec6c39347f7f9e062ecaf76e4bf373c68e9383d",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Attributed creator interview 暁なつめ×三嶋くろね",
+        "uncoded_observation": "Fullfourcolumntext read in right-to-left column order/toptofoot. Natsume distinguishes WEBinitialKazuma olderabout20/moreuseless and printmilder; Mishima wanted unglamorizeddesign/pleasedwithgoodladquality. Tsundere→complainsbuthelps is creator explanation not new observed episode; NEET similarity jest not biographicaldiagnosis. Aq conceived troublesomenondependable sister, illustrator watermoleculehair/shortskirt-designintent. Ddesign armorplacedtoallowdamage while avoiding strongfighterrole after Meguminoccupiesmagic and Aqhealing; costumeintent not universal inworldchoice. Natsumefavorite12rejection, fathercomplex labellaterdevelopment notoriginalfixedpremise; authorfutureintent not performedcanon.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:30:57.030369+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S091",
+        "spine_position": 91,
+        "printed_page_or_position": "89",
+        "component_group": "FAN-MEM-COMP-15",
+        "native_wrapper_member": "item/xhtml/p-089.xhtml",
+        "native_wrapper_sha256": "f1c6a6901b18972ac8b206ca959720bbcb9dedf75193929d1268ac4b69f760e2",
+        "native_image_member": "item/image/i-089.jpg",
+        "native_image_bytes": 567215,
+        "native_image_sha256": "57e43210ad4de9879b208a68b7740a7fde9091f93b059a178c6109723523f11a",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Creator interview continuation",
+        "uncoded_observation": "Allfourcolumns and quotedimage context read. Dnoblemaiden/purefeelings vs perversion, stylesdifferent; Misillustrationlikeness different fromauthor motives. Megumin DragonQuest4-role→Explosionresourceconstraint comparison, solo→necessitatedparty→valuingcompanions authorarc, notclaimselfnevercaringearly. Mishima shorterdarkhair/red/blueandeyepatch reasons, costlymanatite WEBcommentdeleted and planned payoff; claim16end success onlyauthorreport not unseen WEBreading. Allmembersviewselvescommonsense and endingshouldchange refined; Crimsonengineering notfullypreplanned initially, paragraphcontinues nextpage. No retrospective repair of immutablemodelthresholds from creator intent.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:30:57.030386+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S092",
+        "spine_position": 92,
+        "printed_page_or_position": "90",
+        "component_group": "FAN-MEM-COMP-15",
+        "native_wrapper_member": "item/xhtml/p-090.xhtml",
+        "native_wrapper_sha256": "a1c25b5b1938a3b43666d5b87335581f8374455f8fb5b93fd2f3397e92113adb",
+        "native_image_member": "item/image/i-090.jpg",
+        "native_image_bytes": 701594,
+        "native_image_sha256": "d0142a3b9b966b4604672a138dbbd268f6b8f06f8b294b823a1f85fc91617964",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Creator interview continuation; design constraints and favorites",
+        "uncoded_observation": "Fulltext read. Natsume saysNEET-orientedreligion, Aq/Ksimilarroot though deny, ordinaryclothesAxis integration vsabsurdwords; othersvictimblame manipulation attributed. Statedwritingconstraints Kdoesn'tmurder/Aqnoterotic, gagbalance punishestroublemakers/avoidsMthug; these are creatorintent/claimedprocess not retroactively universal behavioralguards or proof everypublishedscenecomplies. Wiz financepovertyconstraint and Dustpastcontrast; Mishima focus livelynotjustpretty, Knottoocoolpurecore. Pollresults/multi50pt scheme not independent survey evidence; creatorfavorites/imagechoices distinct fictionalcharacterjudgment.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:31:36.474081+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S093",
+        "spine_position": 93,
+        "printed_page_or_position": "91",
+        "component_group": "FAN-MEM-COMP-15",
+        "native_wrapper_member": "item/xhtml/p-091.xhtml",
+        "native_wrapper_sha256": "7009f325a2257646218d770ff1cf22d03cd2cfd81b0f9d139eaffac80d28580b",
+        "native_image_member": "item/image/i-091.jpg",
+        "native_image_bytes": 670794,
+        "native_image_sha256": "3334dddf12e44b7b9aa8ff81753d131574e33b2b18823f7876bf1804a316fb84",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Creator interview conclusion",
+        "uncoded_observation": "Allcontinuation/production/Q/finalmessage paragraphs read. Natsume saysSerena16 maybeoverdonebutnocomplaint; absenceofcomplaintreported notethicalvalidation. Kpopularity/mergedErisChris speculative poll arithmetic; illustratorcharacterspeed/style and Natsumevoiceinput/laptops/standingdesk described as their workhistory only, no claimtool/humanexpertiseours. Workprocess6/7years/WEBdaily5k–10k words recalled approximate notcurrentmethod. Mainfinalvolume prospective wish unlikecompletedplotconfirmation. No unseenWEB/acousticassessment.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:31:36.474092+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S094",
+        "spine_position": 94,
+        "printed_page_or_position": "92",
+        "component_group": "FAN-MEM-COMP-15",
+        "native_wrapper_member": "item/xhtml/p-092.xhtml",
+        "native_wrapper_sha256": "0425d1611303a776a1ccda52c22b27b8e00192d12b7f586f28c0e52a4714aa94",
+        "native_image_member": "item/image/i-092.jpg",
+        "native_image_bytes": 618423,
+        "native_image_sha256": "9c9c8aead29d4c4d98ba678b6f903a07d06198c023a2a18ec2673a906cdc98d6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reader questions to creators",
+        "uncoded_observation": "FullQ&A read: projectpersonalmeaning/comparisons/newmedia; costumeimagecolors balance/worldratherthanplannedK/Msimilarity; creativehabitsgames/thinking; deadlinesWEBdailyrecollection; Aqhair threaded throughorb/removebow, coldsensitivity admitted; Mshoulderstrap absence joke ファンタジーです notphysicaltest; Dbraidedpony detailedstyling; Irisgrape accessory edibleanswer humorous vs literalstrength caveat; Wizundershirt notpreviouslydrawn/imagined3quartersleeve. Answers actor-specific(authorvsillustrator), readerhandles nofictionalvoices; designhypothesis not onstagecharacteraction.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:31:36.474096+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S095",
+        "spine_position": 95,
+        "printed_page_or_position": "93",
+        "component_group": "FAN-MEM-FIC-01",
+        "native_wrapper_member": "item/xhtml/p-093.xhtml",
+        "native_wrapper_sha256": "40c5baf6a097de10fb2885918bac9ba26c64a6b87ae5f3e23ab9df776e94d577",
+        "native_image_member": "item/image/i-093.jpg",
+        "native_image_bytes": 458155,
+        "native_image_sha256": "c3ff7fae97688df610e90e64dbdb2647245f63602d97c1438402db797607f3c6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New fiction/comics section divider",
+        "uncoded_observation": "Read title 書き下ろし小説＆描き下ろしコミック; Megumin illustrated holding katana, no dated independent event or performed-use inference from divider art. Earlier attempted S095–097 display was truncated before images were received and is not counted; this actual returned original image establishes S095 view.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:34:10.984531+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S096",
+        "spine_position": 96,
+        "printed_page_or_position": "94",
+        "component_group": "FAN-MEM-FIC-01",
+        "native_wrapper_member": "item/xhtml/p-094.xhtml",
+        "native_wrapper_sha256": "afd4269574971c00af1fed2f3b12ee9147bae01a4716887fda01fdc615e69b57",
+        "native_image_member": "item/image/i-094.jpg",
+        "native_image_bytes": 629268,
+        "native_image_sha256": "df41178461255d27b17bde012f438645c507474ef675e67d216c9b7e7e047bfe",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New prose fiction opening: ダンジョンマスターは世知辛い",
+        "uncoded_observation": "Entire two-tier vertical prose page read in order. K first-person narration: guild emergency interrupts Aqua/Megumin card duel; Aqua's cheap kobold/debt-lich deck irritates Megumin, Darkness spills cards and is pressured to apologize. Darkness urges actual work, K initially proposes house-rest and meals/repurchase to placate. K calls D homebound but she denies and says M/D together; narrator suspects M. M says only forbidden-zone casting now allowed, not proof of lawful universal restraint. Guild explains new tower dungeon, actual public urgency vs treasure/tower-destruction attractions; M proposes later Blast only after checking people, guild insists full exploration before destruction. Aqua expresses dungeon trauma and declines, K says normal quest party lacks dungeon fit (Aq undead-specialist, M collapse risk, D no effective strikes); does not show incapacity in every domain. This is full new fiction, not editorial character bubble. Byline not present on this page; reserve precise author attribution to section/colophon.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:34:27.609922+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S097",
+        "spine_position": 97,
+        "printed_page_or_position": "95",
+        "component_group": "FAN-MEM-FIC-01",
+        "native_wrapper_member": "item/xhtml/p-095.xhtml",
+        "native_wrapper_sha256": "1eec4b8826a52318485f01a6d934c380ea6fe3cf2ae161459dc81f00fb6bd182",
+        "native_image_member": "item/image/i-095.jpg",
+        "native_image_bytes": 600033,
+        "native_image_sha256": "79108a344f849a1407af23d73dbcb075dfe047476af18267817db153834f79ca",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New prose fiction continuation",
+        "uncoded_observation": "Full two-tier page read. K reframes dungeonmaster confinement as victory; M admires, no fresh universal homebodyproof. At night Vanir asks K to advise new dungeonmaster: Medusa woman wants growing dungeon via novice prey, Vanir malignantly alludes K successfulvillain. K accepts after offered succubus true dream, not altruistic-only. Several days later K meets distrustful owner, invokes Vanir as status shield, is taken to crystal surveillance room. Invasion actuallevel30+ Axel adventurers; owner supposed40+ claim admitted false. K recommends entrance ambush/mines and burning/flooding/Blast where opposition moralizes honorable counterbattle; Vanir calls him worse than demon, human/devil inversion. KoboldHero already defeated; owner askswhy novice town so strong. K now proposes internal discord while intending duty, not completed tactic or guaranteed magicmindcontrol. Rough/conditional pragmatic direct speech and selfserving narration distinguished; advisor witness not creator interview.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:34:44.496836+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S098",
+        "spine_position": 98,
+        "printed_page_or_position": "96",
+        "component_group": "FAN-MEM-FIC-01",
+        "native_wrapper_member": "item/xhtml/p-096.xhtml",
+        "native_wrapper_sha256": "ed14ecb4712f51b8ba30c5a4f9b362c830e674c429a92a8d42d922e7969f803a",
+        "native_image_member": "item/image/i-096.jpg",
+        "native_image_bytes": 576237,
+        "native_image_sha256": "8b8fd2258513f9c41fd2180b464ee17897af65beb93addada1c20f6aa9e97b9b",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New prose fiction diary-like continuation",
+        "uncoded_observation": "Allprose read. K plants genuine succubus service ticket stamped that day/one-only as scarcity lure; actual ensuing adventurer fighting reported through crystal, no reported deaths. Vanir admires K malpractice/demoninversion and requests futureideas; K explains chance and deadline drive withdrawal, notmindcontrol, Medusa takes notes. Subsequent undated circle-date entries distinguish chronologywithout exactcalendar: conserve defendersdeep toavoidnovicesXP; some traps attract/retain expedition; dungeon doubles as XP farm/ownerresource, balance needed ratherthan maximumkill. Dustparty/Leen-specific ticketcontest proposed and observed without actualsexualservice demonstration. Dungeonfameattracts nonnovicetowns; Vanir delights in resentment, K fearsfellowadventurerslearninghisrole. K proposes toilet refuge/basicinfrastructure and falsecompanionvoicestoinduceparty distrust; technicallydifficult noted. Medusa/Vanirmoraldisgust selective, not innocenceorordinaryhumanethicsequal. Noadditionalindependent main-modeltrial/frequency.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:35:00.718926+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S099",
+        "spine_position": 99,
+        "printed_page_or_position": "97",
+        "component_group": "FAN-MEM-FIC-01",
+        "native_wrapper_member": "item/xhtml/p-097.xhtml",
+        "native_wrapper_sha256": "54ad38a4327f8552e051239f96ed11f442363629bf266f654d695cb6070adcca",
+        "native_image_member": "item/image/i-097.jpg",
+        "native_image_bytes": 525089,
+        "native_image_sha256": "5cbd2e854ee92a6f7ec590c8465e5b66a592898fc89d55a576b9c734d9ae34af",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New prose fiction conclusion",
+        "uncoded_observation": "Fullpage read. ActualnewpartyYunyun/Darkness/Chris/Wiz defeatskobold with YLightofSaber, Dfront, Chris trap解除, Wizburn; Krecognizes allhighcapacitythoughcalledPonkotsu. MedusakeepsKteacher/Vanirtrust, Kcorrects strongestmasterislichnotordinaryhuman, allowsremainifwanted. Partyhaltslookingoutside; guildalarmof imminentExplosion requires evacuation, visibleenormousmagic; **no completed Blast/towerdestruction narrated here**, Vanirconditional'shouldmydungeonblowaway' +futureundergroundretry notpastdemonstration. Medusarepentantpleads toAqgoddess atdistance, Kretreatstoassurancesnotdirectrescue; Kendsprayingherreturnalive, **Medusafateunknown**. ActualhomeAqangeratKabsence/requestsnapologypacified; M/DscoldedabouttowerplansandYcompetition. Aqrepeatcardvictory comfortingM contrasts practicalrisknoterased. Kreflects dungeonmastercannotjustenjoyhomeconfinement, dependentsbadchoices make labor; no universaldevelopmentpermanence. Section94–97 complete; undatedstorychronologycannotderivefromfanbookpackage date.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:35:17.899000+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S100",
+        "spine_position": 100,
+        "printed_page_or_position": "98",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-098.xhtml",
+        "native_wrapper_sha256": "d2c43e454bb52c3a054ac24c66e318f9813cf15ca451e24dfa8759105c64670a",
+        "native_image_member": "item/image/i-098.jpg",
+        "native_image_bytes": 481018,
+        "native_image_sha256": "c38f3058187a805ba65990b3dd4c5555f33a39d72023347f7f706ae9604ebb56",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic opening, 森野カスミ; original 暁なつめ; character designs 三嶋くろね",
+        "uncoded_observation": "Allpanels/dialogue/ruby/creditsread. K asks about filming/following theirday; blonde receptionwoman (Luna appearance, name not yetspokenonpage) says requestedbyKonosubafans. Explicitfan-facing comicmetalevel, notpretendordinarymainnarratorlog. Quartetbodylanguage/costumes distinct; no camera-likeframe proves maincontinuitytechnology. Guestcomicprimaryrenderingis owncomponent, not automaticallyNatsume-authorednovelprose.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:35:27.077874+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S101",
+        "spine_position": 101,
+        "printed_page_or_position": "99",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-099.xhtml",
+        "native_wrapper_sha256": "4e581754d13d21c8b8427c92f3c109eef5d57ed826a331e294b81538e66fe3a2",
+        "native_image_member": "item/image/i-099.jpg",
+        "native_image_bytes": 484176,
+        "native_image_sha256": "cfbc2a1cbd055f33d79a088f42c09ac194c8adf1ce758dcc3bee8decce8df8b1",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic continuation",
+        "uncoded_observation": "Allpanels/readings/SFXreadright-to-left. Receptionwoman asksdailyclosecoverage becausefanswantquartetactuality. Aqua delighted famous-personcomparison; Darkness corrects emphatically to actual 有名人よ, blush/pride; Klooksuneasy. This characterpresentation/context is fanrequest-induced and metatextual; no general Dconsenttocamera/privacyexposure inferred. Fame pride actual withincomic, not universaldignity predictiontrial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:35:35.494734+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S102",
+        "spine_position": 102,
+        "printed_page_or_position": "100",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-100.xhtml",
+        "native_wrapper_sha256": "c7e8f30a5022cdf88a5dd5d53174ac05e104467fab133597d701b4bf39d3aa3d",
+        "native_image_member": "item/image/i-100.jpg",
+        "native_image_bytes": 518550,
+        "native_image_sha256": "54294b4a66c851e000b8e675446979e450100a12237c9f0d8ae4f57354d7af7c",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic fan-facing fame/party gag",
+        "uncoded_observation": "Allpanels/ruby/SFXread. M boasts cinematicdebut explicit 紅伝説, Aq invokespollfirstplace asstatus/permission and offersnewpartytrick. Aq starts fan/cloth 風花せ…, Kdropkick drawnimpact interrupts. This ismetafictionalfilm/pollreference, not historicalmainnoveltechnology/exposure; pollglory not measuredindependentpopularity. Idiom一肌脱ぐ help/showact notactualundressonpage. Violence shown ascomicimpactwithoutproveninjury/death; sourcegenre/delivery separatefromhumancausedharmconstraints.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:35:46.421866+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S103",
+        "spine_position": 103,
+        "printed_page_or_position": "101",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-101.xhtml",
+        "native_wrapper_sha256": "8cc655f46ea0f2a46457b80658c78cda2a721310534a5131860bc9462c7772ad",
+        "native_image_member": "item/image/i-101.jpg",
+        "native_image_bytes": 485438,
+        "native_image_sha256": "fe21669122e916045e2d46cec60490146403ec4af8a228a4761c6b9e2faf1cb2",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic poll argument/interview setup",
+        "uncoded_observation": "Fullcomicread. Megumin explicitly contestsAqua electionfraud; Aqua insists 神パワー, inset５倍/ballotnotnewnaturalopinionmeasurement. K/D/A/Mnoise vsinterviewerhesitation. Darkness interrupts toconfirm interviews/filming, receptionwomanweaklyassents. Audience/pragmaticfunctiondependsonearlierfanrequest, notnewsource-independent statuscue denominator. Art/speechswitchcontrast: fair-politenessformsMはずです amidangryrivalry, Aqなのよdefensive, Dquestionnotyetconsenttoknownallconsequences.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:35:56.939856+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S104",
+        "spine_position": 104,
+        "printed_page_or_position": "102",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-102.xhtml",
+        "native_wrapper_sha256": "dd39e07aadc0524b150096300611cf2b082dd9e2103eba612fd8e56464ecfae8",
+        "native_image_member": "item/image/i-102.jpg",
+        "native_image_bytes": 552479,
+        "native_image_sha256": "555aa06717a712b7d9b5ec9edc07dacea2c7c380782fbe50690394fabd732277",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic Darkness interview fantasy",
+        "uncoded_observation": "Allbubbles/visibleruby/SFXread. Denthusiasticallyagrees toquestioning, permitsfavoredscenarios, sayspublicshame itselfappealing; asksinterviewerattackwithquestions thenbegins noblewoman/thief fantasy partlycensoredwithピー. This is specificvolunteeredfantasy/interviewcontext, notblanketconsenttoharm/anysetting; notcompletedassault. Receptionwoman uneasy. Aq/Mstillquarrel, Kturnsaway. Publicvsprivateexposure anddignitycanbotharouse/embarrass here; no automaticD02wholetrigger ororiginalGen05rescore.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:36:06.226172+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S105",
+        "spine_position": 105,
+        "printed_page_or_position": "103",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-103.xhtml",
+        "native_wrapper_sha256": "bf43f836fe795bd8a355d855d96cbbfbf04736680f8680cb5f9aa1d8af90b72f",
+        "native_image_member": "item/image/i-103.jpg",
+        "native_image_bytes": 542099,
+        "native_image_sha256": "a34f70322e9d5573254ec8bd21faecc213055f0f67c2a81a3bb2f0ee119cb071",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic Kazuma motivated self-presentation",
+        "uncoded_observation": "Allpanels/rubyread. Kprivately reinterprets dayfollow asdate, visiblyexcited, thenintervenesprotective-looking 'Lunaさんが困ってる' towardD. **Lunanameexplicit here confirms earlierappearance**. Ordered privateappraisalbeforehelping contradicts purelyaltruisticinference, but doesnoterase actualinterruptionofembarrassinginterview. Internalmonologue distinct externalutterance; self-presentationhelpfunction maycoexist selfinterest. No actualdatereciprocityproven.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:36:15.053068+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S106",
+        "spine_position": 106,
+        "printed_page_or_position": "104",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-104.xhtml",
+        "native_wrapper_sha256": "5688d6bdc016cfa8b6b5eecbeffebb5b419ebffdda0b3ce6a00b2fb219bb7248",
+        "native_image_member": "item/image/i-104.jpg",
+        "native_image_bytes": 496060,
+        "native_image_sha256": "baa0ce9cacc1e8a6b0f3ac3b0402d9288c34d23a5ef513bd972593e5b6c7c907",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic Kazuma protagonist/date boast",
+        "uncoded_observation": "Allpanels/rubyread. K saysonlyheneedscoverage becauseleader/protagonist; Aqretortsseventhplace, Kdefends, Dstatespartybelongstoall, K's 知るか rejectsinclusion. He tellsLunadate/adventurethen selfcorrects worddate. Mshadedface/dissatisfied look, Lunasilencearevisualnotexplicitprivateintent. Kboastselfpromotion mustnotbevaluedasanactualwelcomeddate, claimedleaderdoesnotobligecompanionsconsent. Literal protagonistwordacknowledgescomicmetaframe; registerboast/directiveversusprotectiveearlierperformance shows source-localfunctionchange.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:36:25.328289+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S107",
+        "spine_position": 107,
+        "printed_page_or_position": "105",
+        "component_group": "FAN-MEM-COMIC-01",
+        "native_wrapper_member": "item/xhtml/p-105.xhtml",
+        "native_wrapper_sha256": "53013db3afb4aa498b8d7570e83a9577b9c13de34002e84d7536718d0ed02c03",
+        "native_image_member": "item/image/i-105.jpg",
+        "native_image_bytes": 692820,
+        "native_image_sha256": "64b5a2aa999817d62f5ee19651bc6e0bbd71880d222a04105daf074d4f747c8f",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "New comic conclusion",
+        "uncoded_observation": "Allpanels/ruby/SFX/endcaptionread. LunaseesominousMstate, fleespostponinginterview; M saysExplosion, visiblelargeblastbetweenbuildings, K/Aq/Dscream drawnchibifaces. ActualcomicBlastdepictionbutnoverifiedfatality/bodydamage/consequences, notretroactivelyproseincompletedtowerblast. FinalreaderaddressaskscontinuedKonosubasupport; plannedfull-dayinterviewneveractuallycompleted. Sceneendsensembleescalationnotstablecure/modelvalidation; relationshipconflict/privacy/retaliation and gaglicense separated. Comic98–105fullyread8pages.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:36:37.619230+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S108",
+        "spine_position": 108,
+        "printed_page_or_position": "106",
+        "component_group": "FAN-MEM-COMP-18",
+        "native_wrapper_member": "item/xhtml/p-106.xhtml",
+        "native_wrapper_sha256": "1369d991b29ba66dbdf2846405669daed037ff16cf6716097fa4b4f36e7352d5",
+        "native_image_member": "item/image/i-106.jpg",
+        "native_image_bytes": 654839,
+        "native_image_sha256": "041889cf7ee15704845029104ce5717e78bcff070b00b879855305e1752ce6f9",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Supplementary short-story title bibliography, first half",
+        "uncoded_observation": "ReadallSSlisttitles/header/intro/順不同. Main15titleentries includeアクア先生/水商売/Axisinvite/名物女神/悪魔の禁書/大人のおもちゃ/畑のお肉/春/VS/王女思春期etc; Explosion/continuedExplosion8 entries andVanir3 entries distinguishseries. **Titlesonly, no narrativecontentsread from listedexternalbooks**; listnotproofweacquiredorcompleted thosecomponents. ここではリストアップ explicitreferencepurpose, noabsenceorchronologyinferencefromunsortedlist. Neednextpageforcontinuation.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:36:50.523503+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S109",
+        "spine_position": 109,
+        "printed_page_or_position": "107",
+        "component_group": "FAN-MEM-COMP-18",
+        "native_wrapper_member": "item/xhtml/p-107.xhtml",
+        "native_wrapper_sha256": "5a6791a781d3f419f171f9284decfd5343e1e4a6b15bd3201eb87f5385c3b6f6",
+        "native_image_member": "item/image/i-107.jpg",
+        "native_image_bytes": 678293,
+        "native_image_sha256": "1e1df6ac3cf9ea2b4109f8113895a5fac319700d3627c8c3a19f530061d350e6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Supplementary short-story title bibliography continuation",
+        "uncoded_observation": "Fullalltitlecolumns/footnote read. MainSScontinues acrossupperblock (Lalatinafriendship/presents/Vanir lap/Crimsonmagicalskills/seedling/continuedAqtrade/antikinggear/Darknessphoto/patrol/pet/bridetraining/bamboofarm/thanks; lowerblockgoddess/Crusader/feline/mascot/winter/etc). Yorimichi8namedtitleslistedbelow. Footnote saysrelease-purchasebonuses distributionalreadyended; listclaimsotherSSalsoexist. **Bibliographyonly not theirstorybody exposure orchronologycertification**, noabsenceclaimfromlist. ExistingYori/Dust/mainknowledge acknowledgedbutnewreadhereis titles/reference, notnewtrials; allpossibleassociatedbodiesremainclosedunlessalreadyadmittedelsewhere.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:37:02.401105+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S110",
+        "spine_position": 110,
+        "printed_page_or_position": "108",
+        "component_group": "FAN-MEM-REPRINT-01",
+        "native_wrapper_member": "item/xhtml/p-108.xhtml",
+        "native_wrapper_sha256": "f1bf66bf577a4c8ba1ad3a1edb9e0a44ff9aee78ec4773ceaa4c219f39e34c92",
+        "native_image_member": "item/image/i-108.jpg",
+        "native_image_bytes": 534530,
+        "native_image_sha256": "c95b5537fd77f2a6248b5736f68719f3b18f5f66210c60db1420d9835fafd573",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reproduced earliest bonus prose アクアの水商売, 暁なつめ",
+        "uncoded_observation": "Entiretwo-tierprose/rubywherevisible read. Header 最古の特典SS identifiesreprint/earliestbonus, notnewfanbookstory; storybody nowactuallyadmitted/readhere, notsameaslistedtitlesonly. Aqoffer10kEris purifiedfountainwater/selfdivinework; Khadseenherplayingfountainblockingkidsyesterday, Aqadult-lessonrationalization. Kcrudelycallsbodyrunoff, notactualphysiologicalprovenance. Claimedusesdishes/crops/antkillnotperformed. Knominalgoods-quality/saleschannelidea vs price/value; Aqtriescommissionsplit butinsultsKability. Beforeactualsales theyobserveunnamedmidagemage givingwaterfreelytorestaurant; Aqstartles at 水の神様, scansaroundnotimmediatelyclaimspraiseasself. MageCreateWateractualreceivedandthanks. Aqpurificationcapacitynotdemonstratedtobeuniquecommercialmonopoly. Word水商売literalwatertrade carriesJapaneseadult/nightbusinessresonancebutdoesnotmakestorysexwork.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:37:22.419004+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S111",
+        "spine_position": 111,
+        "printed_page_or_position": "109",
+        "component_group": "FAN-MEM-REPRINT-01",
+        "native_wrapper_member": "item/xhtml/p-109.xhtml",
+        "native_wrapper_sha256": "c5e7bf6d38a12142bb869f275f0c8959f11bcf0d785cbea264667b242c06fce8",
+        "native_image_member": "item/image/i-109.jpg",
+        "native_image_bytes": 551442,
+        "native_image_sha256": "1d1c6d6735aed57f8c919c6c9bac3152749815ec50593214fc09d860313bde36",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Reproduced earliest bonus prose conclusion and credited illustration",
+        "uncoded_observation": "Allprose/credit/footnote/imagesread. Restaurantwomanexplainsformer mage abandonedprofessionbut learnedbeginnerwater and nowfreecleanwateras hobby, nickname水の神様without knowingname. ActualAqinterrupt demandsapology/charges/Axisdonation; namesbeautifulwatergoddesscurseandbargainsroadsidewithman. Noactualpayment/completedcurseproven. Knarratorial 'darkorganizationfinallyusemypower?' fantasy/analogy ishis own, notworldfact. Ending女神だそうです ironicdistance/notdenialofliteralgodhood. Exactfootnote identifies**Animatepurchasebonusreprint**, illustrator三嶋くろね. Primaryreprint108–109complete. ChibiAqpleading/catboxartisparatextcharacterpose,notspecificstoriedsaleorconsent. Lexical水商売doublemeaningexplicitKnotesdifferenttradeconnotation, actualbusinessremainswater.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:37:37.057452+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S112",
+        "spine_position": 112,
+        "printed_page_or_position": "110",
+        "component_group": "FAN-MEM-COMP-20",
+        "native_wrapper_member": "item/xhtml/p-110.xhtml",
+        "native_wrapper_sha256": "1fb244ad5c55958803a134adab28353876851fc764eb16fcea9153b97d81c7db",
+        "native_image_member": "item/image/i-110.jpg",
+        "native_image_bytes": 928490,
+        "native_image_sha256": "36fbffba848091a8f502111d92ff3489301dd7e2283554861bc2b1fdf855c9bd",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Original-book publication bibliography and reproduced cover thumbnails",
+        "uncoded_observation": "All12mainbookcovers/titles/subtitles/datesread: MAIN1–12 publicationrange2013-10-01 through2017-08-01; creditedNatsume/Mishimaonreproducedcovers. Thesearebibliographic datesnotfanbookmodificationornewscene chronology. Twelveactualthumbnailartviewswithinthisnativepage acknowledged; notfullviewofotherEPUBimages/newstoryexposure. Vanir/succubusheaderartdecorative notperformedfictevent.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:37:48.379993+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S113",
+        "spine_position": 113,
+        "printed_page_or_position": "111",
+        "component_group": "FAN-MEM-COMP-20",
+        "native_wrapper_member": "item/xhtml/p-111.xhtml",
+        "native_wrapper_sha256": "1964a3c27d825d6a3f73d59c864266b2046f2e0f8e54c210b696da14531f0769",
+        "native_image_member": "item/image/i-111.jpg",
+        "native_image_bytes": 887649,
+        "native_image_sha256": "674681f0c18dcbc6728a71314d32be55672fe5f615442fcb6c841f14c1ca0320",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Book bibliography continuation, covers/references",
+        "uncoded_observation": "All11covers/titles/subtitles/datesread:MAIN13–16,Explosion1–3,continuedExplosion1–2,Vanir,Yorimichi. Main16date2019-08-01,Yorimichi2020-01-01; chronologyofpublicationnotstorytime. Namedcreatorscreditsvisibleoncoverreproductions; Chomusuke/Zelheaderdecorativenotnewinteraction. Thisiscurrentfanbookbibliographiccoverageendpoint, notprojectsourcecompleteness/noV17existenceorreadabsencefinding.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:37:58.707284+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S114",
+        "spine_position": 114,
+        "printed_page_or_position": "112 (colophon)",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-112.xhtml",
+        "native_wrapper_sha256": "35f8e5b03035f77bc5cf3317c4717c55082a8f1be84231dd4a22247aade3c082",
+        "native_image_member": "item/image/i-112.jpg",
+        "native_image_bytes": 539413,
+        "native_image_sha256": "6f25074a6ec72391e6d4cc62b9661d1b3c099c3072f52ecacaa413122a242f49",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Printed colophon, editorial/writing credits, copyright and illustration",
+        "uncoded_observation": "Allvisiblecolophoncredits/legaltext/date/ISBNread. **2020-04-01初版発行 explicitlysourcecertifiesprintedfirsteditiondate**, strongerthanOPFmodifieddatebutnotcertifiedearlierbonusoriginaldate. Original暁なつめ, illustration三嶋くろね; planning/editing角川スニーカー文庫編集部; editingcooperation株式会社クリエンタ; writing出口裕子/塩味鷹虎. Editorialwritingcredit meansreference/scriptbubblesnotautomaticallyNatsumeprose. PublisherKADOKAWA/発行者三坂泰二; ISBN978-4-04-109375-7. Otherproduction/design/print creditsandcopyrightrestrictionsread, noexternalcontact. Quartetartreproducedpose fromcover-relateddesign, notnewcanonicaldate/consentrecord. Distinctelectroniccolophonstillpendingactualview.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:38:12.052893+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S115",
+        "spine_position": 115,
+        "printed_page_or_position": "113 (blank)",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-113.xhtml",
+        "native_wrapper_sha256": "3847074aa455450102fac8dcfbad1a3b8291c2a5b942dcc995db5c2429b209c3",
+        "native_image_member": "item/image/i-113.jpg",
+        "native_image_bytes": 100872,
+        "native_image_sha256": "253d2d6f05b3a865e677b91d5a0659cf5003d0a665a8f72e8b79a9ed2de3ea06",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Blank end page",
+        "uncoded_observation": "Actualfullnativeimageviewed: blankwhitepage,no visibletext/illustration. Localpagedispositiononly, notabsenceofothercomponentsorfictioninwholebook.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:38:20.816219+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S116",
+        "spine_position": 116,
+        "printed_page_or_position": "Unnumbered allcover-001",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-allcover-001.xhtml",
+        "native_wrapper_sha256": "e7bc996db7cb43167bb8c1e6fb3b498ba31c967f6d9dfc0e8112f324314a8e0b",
+        "native_image_member": "item/image/i-allcover-001.jpg",
+        "native_image_bytes": 180073,
+        "native_image_sha256": "65b0f39c3490d0852a9b04a98d5ca192f76ee9391ee18469a655ba04812bcaa2",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Back cover/jacket reproduction",
+        "uncoded_observation": "Wholeactualimageviewed, centraltitle/sloganread, fourcolorspattern. Farleftnativeimage contains clippedspinestrip/partialletters atpageedge; **notclaimcompleteunseenout-of-cropcharacters**, coverpairedspreadmayresolve. Repeatedtitleauthoritymarketingnotnewcharacterutterance/event; no backcoverfiction.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:38:40.451491+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S117",
+        "spine_position": 117,
+        "printed_page_or_position": "Unnumbered allcover-002",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-allcover-002.xhtml",
+        "native_wrapper_sha256": "762c04b5171de6badaa990ae5021887bb67cd920730aa778997e1f3f262a3655",
+        "native_image_member": "item/image/i-allcover-002.jpg",
+        "native_image_bytes": 410777,
+        "native_image_sha256": "4f0e07910db0417d0dc3d6fb223e962f672fff86ed3528bc19a99325df0cd9fc",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Front jacket full-layout reproduction",
+        "uncoded_observation": "Wholeimageart/title/credits/sloganread. FrontjackettrioAq/M/D+Chomusuke repeatedcover; creditoriginalNatsume/illustratorMishima/planningeditorial. Rightspinestripnativeedgeclipped, titlefullyknownfromotheractualpages notimaginedmissingletters. Posesnotconsent/datingevent. Repetitionnotnewindependentillustrationtrial.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:38:50.925278+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S118",
+        "spine_position": 118,
+        "printed_page_or_position": "Unnumbered hyoushi-002",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-hyoushi-002.xhtml",
+        "native_wrapper_sha256": "0eccded4c899b70a0a3104debcc1cb0c9fff3378d6bb24e74240113fda839424",
+        "native_image_member": "item/image/i-hyoushi-002.jpg",
+        "native_image_bytes": 545490,
+        "native_image_sha256": "098c9677db5e52aae20d27cac0e281a41fc188db4d4f13f397d5ea3525f76af6",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Monochrome under-jacket front art",
+        "uncoded_observation": "Allvisibletext/artread: pinklineworkAq/M/Dposes/title/slogan. Distinctcasualcostumeunderjacketvariationfromfullcolorcover; noexplicitnarratedsetting/time/consent, no assertedstoryevent. NativefullviewnotOCR/countonly.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:39:01.187919+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S119",
+        "spine_position": 119,
+        "printed_page_or_position": "Unnumbered hyoushi-001",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-hyoushi-001.xhtml",
+        "native_wrapper_sha256": "41ebf8d712965b0121a182baac4e1d1c794280f66f5e27ea28df95efa18bed3e",
+        "native_image_member": "item/image/i-hyoushi-001.jpg",
+        "native_image_bytes": 155371,
+        "native_image_sha256": "b5af3aed74e69eb544e571eff4b232c2fcec977b209b5855265e7573f93add7c",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Monochrome under-jacket back title",
+        "uncoded_observation": "Wholeimageviewed/title/sloganread; whitespaceandpinklogo,no fictionornewcaptionbeyondmarketing. Repeateddesign notnewsourceindependentutterance.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:39:10.342347+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S120",
+        "spine_position": 120,
+        "printed_page_or_position": "Unnumbered electronic colophon",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-colophon.xhtml",
+        "native_wrapper_sha256": "351bf8d6dc44f747c98458d027fb553cc8a484084ea5acddf47430acd0a63955",
+        "native_image_member": "item/image/i-colophon.jpg",
+        "native_image_bytes": 368857,
+        "native_image_sha256": "db9955a40b9b8985cba2a5fa78126fafc44ff84ffafd44244e81f68ba052bc9f",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Electronic edition credits/publication and rights notice",
+        "uncoded_observation": "Alltext/ruby/creditsread. Explicit電子2020-04-01発行ver.001 andbasedonprinted2020-04-01初版, originalNatsume/illustratorMishima/editorial; thisconfirmseditiondateindependentlyofZIPmodified,butnotbonusoriginalpublicationdate. Noticecontentbasedonreporting/writingatbaseedition, thumbnailsmaychangeandreflowdifferences; notfictionchronology. Creditfulltitlemarketing汝女神… notcharacter-onstagecommand. Rights/contactnotesactualreadnoexternalmessageorlinkfollow.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:39:21.126992+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      },
+      {
+        "page_id": "FAN-MEM-S121",
+        "spine_position": 121,
+        "printed_page_or_position": "Unnumbered BookWalker page",
+        "component_group": "FAN-MEM-COMP-21",
+        "native_wrapper_member": "item/xhtml/p-bookwalker.xhtml",
+        "native_wrapper_sha256": "59bd74a3ea30ab5b6b8ccd077696d1aa797042dd843e87c99a02b3e17b55fcf9",
+        "native_image_member": "item/image/i-bookwalker.jpg",
+        "native_image_bytes": 142194,
+        "native_image_sha256": "988afe4748029a2f6e6d78d493e2bfb1f0b88f5595bc1d7d325a58959593a46d",
+        "dimensions": [
+          1448,
+          2048
+        ],
+        "actual_original_image_view": true,
+        "visible_text_actually_read": true,
+        "page_source_plane": "Platform branding end page",
+        "uncoded_observation": "Actualwholeimageviewed; BOOK☆WALKERlogo/colorbookshapesonly,nofictionorhiddencaption. Completesordered121nativeimageviews; commonrepeatedcoverartnotindependentstoryevents.",
+        "acknowledged_after_actual_read_utc": "2026-10-17T23:39:32.346810+00:00",
+        "formal_H_assignment": null,
+        "formal_L_assignment": null
+      }
+    ],
+    "navigation_and_reference": {
+      "navigation_member": "item/navigation-documents.xhtml",
+      "navigation_bytes": 4481,
+      "navigation_sha256": "a05f5d314efce7d0b3eb8d0d0952c9e08b0e1f482e4ea11e472f044ce99f5e39",
+      "NCX_member": "item/toc.ncx",
+      "NCX_bytes": 8999,
+      "NCX_sha256": "e3018736ecba72d22f4ed8397c2d90832aecc611baa7c58884c1206af4e47c1d",
+      "actual_complete_navigation_text_read": true,
+      "actual_complete_NCX_text_read": true,
+      "toc_anchor_count": 53,
+      "landmark_anchor_count": 3,
+      "NCX_points": 53,
+      "toc_NCX_labels_routes_exact": true,
+      "toc_labels_and_routes": [
+        [
+          "表紙",
+          "xhtml/p-cover.xhtml"
+        ],
+        [
+          "Contents",
+          "xhtml/p-002.xhtml"
+        ],
+        [
+          "有坂あこ",
+          "xhtml/p-004.xhtml"
+        ],
+        [
+          "ue",
+          "xhtml/p-005.xhtml"
+        ],
+        [
+          "カカオ・ランタン",
+          "xhtml/p-006.xhtml"
+        ],
+        [
+          "さくら小春",
+          "xhtml/p-007.xhtml"
+        ],
+        [
+          "しおこんぶ",
+          "xhtml/p-008.xhtml"
+        ],
+        [
+          "篠月しのぶ",
+          "xhtml/p-009.xhtml"
+        ],
+        [
+          "しらび",
+          "xhtml/p-010.xhtml"
+        ],
+        [
+          "BUNBUN",
+          "xhtml/p-011.xhtml"
+        ],
+        [
+          "憂姫はぐれ",
+          "xhtml/p-012.xhtml"
+        ],
+        [
+          "Special Thanks",
+          "xhtml/p-014.xhtml"
+        ],
+        [
+          "登場人物＆モンスター紹介",
+          "xhtml/p-015.xhtml"
+        ],
+        [
+          "カズマ（佐藤 和真）",
+          "xhtml/p-016.xhtml"
+        ],
+        [
+          "アクア",
+          "xhtml/p-018.xhtml"
+        ],
+        [
+          "めぐみん",
+          "xhtml/p-020.xhtml"
+        ],
+        [
+          "ダクネス",
+          "xhtml/p-022.xhtml"
+        ],
+        [
+          "エリス",
+          "xhtml/p-024.xhtml"
+        ],
+        [
+          "クリス",
+          "xhtml/p-025.xhtml"
+        ],
+        [
+          "ウィズ",
+          "xhtml/p-026.xhtml"
+        ],
+        [
+          "バニル",
+          "xhtml/p-027.xhtml"
+        ],
+        [
+          "ゆんゆん",
+          "xhtml/p-028.xhtml"
+        ],
+        [
+          "こめっこ",
+          "xhtml/p-029.xhtml"
+        ],
+        [
+          "ベルゼルグ・スタイリッシュ・ソード・アイリス",
+          "xhtml/p-030.xhtml"
+        ],
+        [
+          "ルナ／サキュバス",
+          "xhtml/p-031.xhtml"
+        ],
+        [
+          "クレア／レイン／ゼスタ／セシリー",
+          "xhtml/p-032.xhtml"
+        ],
+        [
+          "アイギス／ゼーレシルト伯爵／ゼル帝／紅魔族の族長",
+          "xhtml/p-033.xhtml"
+        ],
+        [
+          "ひょいざぶろー／ゆいゆい／あるえ／ねりまき",
+          "xhtml/p-034.xhtml"
+        ],
+        [
+          "どどんこ／ふにふら／ぶっころりー／そけっと",
+          "xhtml/p-035.xhtml"
+        ],
+        [
+          "アンナ／シルフィーナ／レヴィ／ミツルギ・キョウヤ",
+          "xhtml/p-036.xhtml"
+        ],
+        [
+          "ホースト／セレナ（セレスディナ）／シルビア／アーネス",
+          "xhtml/p-037.xhtml"
+        ],
+        [
+          "ちょむすけ／ウォルバク／ハンス／チャッピー",
+          "xhtml/p-038.xhtml"
+        ],
+        [
+          "安楽少女（苗）／安楽少女／安楽王女／オーク",
+          "xhtml/p-039.xhtml"
+        ],
+        [
+          "その他のキャラクター",
+          "xhtml/p-040.xhtml"
+        ],
+        [
+          "その他のモンスター",
+          "xhtml/p-044.xhtml"
+        ],
+        [
+          "幕間コラム①　異世界食材",
+          "xhtml/p-048.xhtml"
+        ],
+        [
+          "ストーリー紹介",
+          "xhtml/p-049.xhtml"
+        ],
+        [
+          "「このすば」タイムライン",
+          "xhtml/p-050.xhtml"
+        ],
+        [
+          "幕間コラム②　魔王軍レポート",
+          "xhtml/p-058.xhtml"
+        ],
+        [
+          "世界観紹介",
+          "xhtml/p-059.xhtml"
+        ],
+        [
+          "素晴らしき異世界へようこそ!!",
+          "xhtml/p-060.xhtml"
+        ],
+        [
+          "異世界ウォーカー",
+          "xhtml/p-062.xhtml"
+        ],
+        [
+          "カズマのいきなりファッションチェック！",
+          "xhtml/p-070.xhtml"
+        ],
+        [
+          "「このすば」用語の基礎知識",
+          "xhtml/p-077.xhtml"
+        ],
+        [
+          "幕間コラム③　カズマ邸の食卓",
+          "xhtml/p-086.xhtml"
+        ],
+        [
+          "インタビュー",
+          "xhtml/p-087.xhtml"
+        ],
+        [
+          "暁なつめ×三嶋くろね スペシャルインタビュー",
+          "xhtml/p-088.xhtml"
+        ],
+        [
+          "読者からの質問",
+          "xhtml/p-092.xhtml"
+        ],
+        [
+          "書き下ろし小説＆描き下ろしコミック",
+          "xhtml/p-093.xhtml"
+        ],
+        [
+          "このすば！　特典SSリスト",
+          "xhtml/p-106.xhtml"
+        ],
+        [
+          "最古の特典SS",
+          "xhtml/p-108.xhtml"
+        ],
+        [
+          "原作書籍一覧",
+          "xhtml/p-110.xhtml"
+        ],
+        [
+          "奥付",
+          "xhtml/p-colophon.xhtml"
+        ]
+      ],
+      "landmarks": [
+        [
+          "表紙",
+          "xhtml/p-cover.xhtml"
+        ],
+        [
+          "目次",
+          "xhtml/p-002.xhtml"
+        ],
+        [
+          "本編",
+          "xhtml/p-001.xhtml"
+        ]
+      ],
+      "not_additional_fiction_events": true,
+      "no_external_route_followed": true
+    },
+    "other_manifest_resource_scope": [
+      {
+        "member": "item/style/fixed-layout-jp.css",
+        "media_type": "text/css",
+        "bytes": 134,
+        "sha256": "d59219401aba0594a765c38913cbad87caadae4b2e873c26b43f403f5a34f5e6",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/book-style.css",
+        "media_type": "text/css",
+        "bytes": 6265,
+        "sha256": "8f79b97cdb18dbab2dbe585b8068361dd88dd0d579faeb76a28d5361468dcdfe",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/style-reset.css",
+        "media_type": "text/css",
+        "bytes": 2366,
+        "sha256": "105ade4b7e3d0a46e2c7abdad5bb6a8077b22895f5ed3f5024fd3d5bf7f8b899",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/style-standard.css",
+        "media_type": "text/css",
+        "bytes": 54465,
+        "sha256": "89efe50fa7f8fe1a26776cc53d116e004b3b138faf9ef7e39ab489b92bab445a",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/style-advance.css",
+        "media_type": "text/css",
+        "bytes": 84707,
+        "sha256": "2be69e0603ce34cecce869896e37794379138b33dbf2cf7eee1459b52d0e1306",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/style-check.css",
+        "media_type": "text/css",
+        "bytes": 2656,
+        "sha256": "d2b0c33ef50a4925baab9b7179aaa3c2845b5950682df255e40aa265e2de6b7a",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/style-karc.css",
+        "media_type": "text/css",
+        "bytes": 1927,
+        "sha256": "067ce6303605275a60389c7fb8cd59ef0ca47b6ba8eebe6f6438686f1f67552a",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/style/style-kadokawa.css",
+        "media_type": "text/css",
+        "bytes": 7766,
+        "sha256": "067299fc4af21b7575f079b857255b78acce60ee04d503db8126d7723ef44d07",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Technical headings and content/url projection inspected; full repeated CSS rule reading not claimed"
+      },
+      {
+        "member": "item/toc.ncx",
+        "media_type": "application/x-dtbncx+xml",
+        "bytes": 8999,
+        "sha256": "e3018736ecba72d22f4ed8397c2d90832aecc611baa7c58884c1206af4e47c1d",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Complete NCX labels/routes actually read"
+      },
+      {
+        "member": "js/kobo.js",
+        "media_type": "application/javascript",
+        "bytes": 4956,
+        "sha256": "4c46993796655b54260308dd2baa56275e69aa4fedbe0e05d3267a9af71e56ff",
+        "structural_resource_not_literary_reading": true,
+        "actual_scope": "Complete platform source code actually inspected; not fictional prose"
+      }
+    ],
+    "public_safe_no_native_images_fullXML_full_paragraph_arrays_or_local_acquisition_paths": true,
+    "uncertainties": [
+      "p12 two figures unnamed; no certified identity transformation",
+      "p11 small girl likely Iris; not confidently Sylphina",
+      "Medusa fate/tower destruction unshown",
+      "Native narrow jacket spine strips cropped",
+      "Reprinted story original issue date unestablished"
+    ],
+    "no_model_forecast_holdout_score_or_canonical_change": true
+  },
+  "root_actual_primary_scope": {
+    "initial_separate_source_first_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121
+    ],
+    "later_coordinated_reference_pages": [
+      50,
+      60,
+      67,
+      72,
+      78
+    ],
+    "total_unique_pages": 42,
+    "whole121_second_pass": false
+  },
+  "completion_limit": "Supplied object only. All identified native narrative bodies analyzed; external SS titles/covers not their bodies, reproduction dependence retained, original reprintdate/newprosechronology/byline/Medusafate/nativecroppededges unresolved asqualified. No globalcomponentpercentage."
+}

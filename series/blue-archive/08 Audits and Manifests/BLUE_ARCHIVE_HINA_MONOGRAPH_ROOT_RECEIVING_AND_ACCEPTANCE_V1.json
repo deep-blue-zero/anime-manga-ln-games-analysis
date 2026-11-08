@@ -1,0 +1,322 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Hina",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_HINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 19537,
+    "sha256": "0bcdfea7c90a74305e600748e9cda654f888620ac7bbe380a2b1def64acc99d8",
+    "git_blob_oid_of_actual_bytes": "23f17d7cf44eb9b822bc7313390201b58fe1a203",
+    "lines": 271
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_HINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "c61c00b7a1bdb3ea91783303aa4ff6264f7bfcc9740df6563266e4a055e2b04f",
+    "frozen_outputs_verified": 8,
+    "exact_analytical_inputs": 43,
+    "exact_copies_equal": 31,
+    "source_checks": [
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10004_E002_CURRENT_READING_V1.md",
+        "sha256": "0740c493240147940e63ca72054a63db6347731594b799f2996048ce108c6924",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10004_E003_CURRENT_READING_V1.md",
+        "sha256": "689ec9d51e11a41e0f1f50f0d7a86ffbfce07daf3c759b0f50a05a3190efba46",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10004_E005_CURRENT_READING_V1.md",
+        "sha256": "cfe5c3aa4e49721de429b180940851ba6eca4690fae946a6e8e2d0f59ce059f5",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10004_E006_CURRENT_READING_V1.md",
+        "sha256": "7c7e21e896dc9f9597ca59a949cdda883243ebe2f1e47942144e40195f46b528",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10004_E008_CURRENT_READING_V1.md",
+        "sha256": "1d881405ecd5a431d2290f55e92737a8ecd8010e22e143ea6884e99ec30b2339",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10004_E015_CURRENT_READING_V1.md",
+        "sha256": "77413d397cf700588a7d91bdeb50d1b13f7e73df871e1dec24aab566910035ec",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10022_E002_CURRENT_READING_V1.md",
+        "sha256": "7af69380f0461da408b3f9be313fd3e36049a8e5108efaaee903ec04d8074b6b",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10022_E003_CURRENT_READING_V1.md",
+        "sha256": "07d842765576d758780569f45873ae1daee330739af8ba200ab9bedab654d219",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10022_E005_CURRENT_READING_V1.md",
+        "sha256": "00b37f27b48d6843d7a2be7c5e17075df0e83e769327a24abdc641ce04f15d72",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10022_E020_CURRENT_READING_V1.md",
+        "sha256": "590ceac2d787c9320e5c48be860fe1075c41e838c25b23cf08bab887e47a8cbe",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10086_E002_CURRENT_READING_V1.md",
+        "sha256": "c1efa6b4486e8998d30cd2c857bf2cd50ba96254af2c86fc13d3044d49349293",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10086_E003_CURRENT_READING_V1.md",
+        "sha256": "21c72db08c59c3d9dd3d40771056413b0f7383d076a3e04eedb115237d00344b",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BOND_10086_E005_CURRENT_READING_V1.md",
+        "sha256": "a35cdb1132f7cbe133ebcacfc19eb05b7d18623291616b1cdfb9ed012cce91e5",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/distinct_ROOT_current014_016_two_focused_semantic_successors_20261004_v2/BLUE_ARCHIVE_HINA_BASE_WRITTEN_CURRENT014_FOCUSED_SUCCESSOR_V2.md",
+        "sha256": "c9973dad6b5d28e6d347e00427bf732edbb3119c07e766046156a809d212439f",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BA_character_data_10022_profile_and_dialog_CURRENT_READING_V1.md",
+        "sha256": "bc15860a2a9ed28b3ede762382169b93916819d6cc3e092810a65197cb61897e",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/distinct_ROOT_current014_016_two_focused_semantic_successors_20261004_v2/BLUE_ARCHIVE_HINA_DRESS_WRITTEN_CURRENT016_FOCUSED_SUCCESSOR_V2.md",
+        "sha256": "f19d223e358393d6f24e672b45a547a31cc32cf0b480c0bdfe37e468429e2c7f",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BA_character_data_event_costume_1900901101_character_10022_CURRENT_READING_V1.md",
+        "sha256": "9f983b8faf076119df8fe88b5720b7c52950c225a5c36c4b8a90c273a7449d47",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BA_character_data_event_costume_1900922001_character_10086_CURRENT_READING_V1.md",
+        "sha256": "9463654d7facd954ce29c82726bb0e12653ab728b3aededfb4f9a9d78d5e827b",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_BA_character_data_event_costume_1900922401_character_10004_CURRENT_READING_V1.md",
+        "sha256": "8764aa20f1a34525522ad7114ce0333bce00ec2371136faad9633d6e672aeb26",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/current_arguments_20261003_v1/immutable_current20_wholes_v1/BLUE_ARCHIVE_HINA_FAMILY_CHECKPOINT_CURRENT_V1.md",
+        "sha256": "c4938b8021629d0143d4e7b8fa7ac3a5f0a86438ba484943cdf068f1a0794772",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "private-extraction-analytical-witness/Blue_Archive/_phase2_work/hina_private_family_source_scope_20261003_v1/distinct_ROOT_hina_main_context_addendum_20261004_v1/PRIVATE_NEW_HINA_EFFECTIVE020_MAIN_C002_E021_CONTEXTUALIZATION_ADDENDUM_V1.md",
+        "sha256": "337338978d438e028a239ac4d8ae1c4e69b25d74654c201c04df2ed5a234decd",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_016_DEEP_READING.md",
+        "sha256": "c9ec5707b39cee7ead2e2970bd3e230ae7d6c1eb4845e0c6c81b9153edaa6120",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_821/BLUE_ARCHIVE_EVENT_821_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "3db44147f6a64482a606bf53d6dac4d328d15bb39fd07db439a6c853463d2b38",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "ced089d38e56d2247c67d861caba5401954f42b551fbcb125823f2ca0f76b19f",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "ab1737179cd375e8edcee8f372c92c155ca5b8f9bfb077d73af06f5ec4de6320",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "sha256": "96507ac2f5e534c43137b6212f66021bbd8c27292fca112b68aa2e6d6caf745c",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C002_CHECKPOINT.md",
+        "sha256": "97133f4cf5a2c78d8f7d41828edd036be217bf729a853c6eb3a44804be316379",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C003_CHECKPOINT.md",
+        "sha256": "3fd178e395a9f5e5d740a8f3f9c42ec4cfac80be2f519a2ee31682559511e6f9",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_006/BLUE_ARCHIVE_MAIN_V006_C003_CHECKPOINT.md",
+        "sha256": "81e43fb20fbb76ccb3243e562d0216839f573c08fe6e720c078614550beadb88",
+        "copied_exact_equal": true
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md",
+        "sha256": "2215aa4cb0f6b7092939f775ac72e12361e6fa58ce9d4087f7686d10d3c9a2d3",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+        "sha256": "5272f38efcec91af3817c895c191a01d2d1c1d9c04dca5da3c304685cb593843",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+        "sha256": "143280da7ea65dd6b5f32440f75f0bc1f2018cf1d6697eb0ee53af09bd6d261d",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "sha256": "3d6fbcf33bdd9e838d973de99a7c63aa1170cf038af5ace59b2255798cdfbe4a",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "sha256": "545a9d71b8ff27ee449408de7924258aff4481d88b516a077d1ec025834399f1",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "sha256": "3f22db6cbdcd4e184f44bec9a1574fd26226e294694d05cff37c7ff6dbd4530d",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "caddd6c0c1ec580c91a7115d65c1619ebfb8f5fae399222d999043be479ed349",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md",
+        "sha256": "726724e475449815e8143b5e4ef5006d1b83a5740d8a58bc814df05b1319c1c7",
+        "copied_exact_equal": false
+      },
+      {
+        "path": "immutable-local-receiving-witness/HINA32_CURRENT_RECEIVING_AND_SHARED_EFFECT_JUDGMENT_20261007_v1_a5dc286b/COMPLETE_REASONED_HINA32_CURRENT_RECEIVING_AND_PRECISE_UNAPPLIED_SHARED_EFFECT_JUDGMENT_V1.md",
+        "sha256": "a1b5ce5e453bdfdb2d730387356ff0c052f13a36010bc756cec3e865cfb50de7",
+        "copied_exact_equal": false
+      }
+    ],
+    "private32_binding_only_checks": 32,
+    "literal_retrieval_binding_only_checks": 73,
+    "exact_saved_blocks": 112,
+    "sections": 11,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "498ae9 lines1–110 with147dcc59–64 repairing clipped paragraph",
+        "acce2e111–185",
+        "4acca0186–267EOF"
+      ],
+      "readable_delivery": "d25516 whole29EOF",
+      "source_fields": [
+        "af107c controls",
+        "2b8b1a inputs0–11",
+        "c014e1 inputs12–26",
+        "8b61a1 inputs27–42"
+      ],
+      "frozen_control_fields": [
+        "9d93ed whole46-line manifest",
+        "567b72 whole63-line delivery",
+        "47e50c private32 schema and800184 first tuple",
+        "af84c5 literal retrieval schema and896000 first tuple",
+        "0bb8ca block index schema,7b0481 firstblock,e364a9 all11section fields"
+      ],
+      "consequential_complete_accepted_arguments": [
+        "941a50 wholeMA9474 moral-accountability addendum",
+        "d7b3a6 wholeE818016 campfire invitation and peer initiative",
+        "0ec7da whole corrected014 birthday witness boundary",
+        "d5cdb2 whole corrected016 practice decision and feelings witness boundary"
+      ],
+      "grounds": [
+        "Sleep, meal, failed card play, coffee preference, clothes, private listening, swimming and music carry intrinsic value. Peer invitation and birthday gathering prevent an adult-only account of ordinary participation.",
+        "Gentle private care coexists with severe training, confinement, violence and unfinished public accountability. Actual parole petition is a counterexample to revenge-only reduction; it does not authenticate lawfulness or innocence.",
+        "E821 accepted native meaning and sparse canonical Yuzu headers remain different witness scopes. E804 related planning is not a direct Hina speaking occurrence.",
+        "Gift and shopping boundaries remain local. Raw repair is performed by the engineer, and failed/unfinished wishes remain unfinished. Corrected014/016 meaning supersedes stale clauses without rewriting frozen custody."
+      ],
+      "authority_limits": "Only enumerated current files and copies were exactly bound. No whole-tree audit or new primary/native/raw/AV receiving. Existing author preservation claim is retained as attribution; no fresh all-prior tuple check is invented."
+    },
+    "root_new_primary_or_performance_credit": 0,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Current355 successor separately accepted; frozen historical353 home binding remains historical and unchanged. Public derivative must qualify this current scope.",
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-HINA",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HINA_CHARACTER_MONOGRAPH.md",
+    "bytes": 70951,
+    "sha256": "3ff4253a2cbfdc6653a3403c19b39ffa0aaea46199a059b090a52346194a1e90",
+    "git_blob_oid_of_actual_bytes": "ba79ef6caa221cc89f4264705248569957c448a3"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "ROOT alone accepts canonical literary completion, reconciles the 353-home denominator, updates current controls and publishes; an author-complete C-only candidate is not completion credit.",
+      "new": "ROOT independently received and accepted this bounded character argument with limits. ROOT's current355-package/29-section scope, canonical installation, publication and main integration remain separate from the historical353-home author boundary; this monograph supplies no additional scope or milestone credit.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "kind": "LAYOUT_ONLY_MOVED_UNCHANGED_ARGUMENT",
+      "frozen_paragraph_lines": [
+        77,
+        147
+      ],
+      "new_heading": "Required P3-SECTION-HINA-ICE-POP-GIFT-PRIVACY — GROUP3502 gift, ordinary sharing and recipient limits",
+      "substantive_text_changed": false,
+      "ROOT_named_section_fulfillment": "ACCEPT_COMPLETE_NAMED_ARGUMENT_WITH_LIMITS;CANONICAL_INSTALLATION_PENDING"
+    }
+  ],
+  "required_named_section_ROOT_adjudication": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HINA_REQUIRED_NAMED_SECTION_COMPLETION_ADJUDICATION_V1.json"
+}

@@ -1,0 +1,1134 @@
+{
+  "schema": "PLANA_DISTINCT_BODY_QA_FULL_REASONS_AND_DATED_LIMITS_PUBLIC_V1",
+  "authority": {
+    "artifact_id": "PLANA_DISTINCT_BODY_QA_FULL_REASONS_AND_DATED_LIMITS_PUBLIC_V1",
+    "scope": "P3-CHAR-M028",
+    "generation": "PUBLIC_FORM_V1",
+    "status": "canonical",
+    "supersedes": [],
+    "superseded_by": [],
+    "do_not_use_as_current_authority": false,
+    "private_body_review": "ROOT_ACCEPTED_C_ONLY_WITH_LIMITS_20261104",
+    "public_review": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION"
+  },
+  "prepared": "2026-11-04",
+  "historical_record_contract": "Each dated original record is preserved at its original author/reader/reviewer grade and stage. Current public wrapper is a separate draft; pending/next and first-person historical text is not promoted to current instruction or transferred attendance. Locator tokens replace unnecessary local paths with declared provenance/source IDs; original field names remain as dated schemas.",
+  "records": [
+    {
+      "record_id": "PLANA-BODY-QA-00-20261104-V2",
+      "original_filename": "PLANA_BODY_QA_OWN12_ALL25_PARTICULAR_REASONS_11DIM_EIGHT_RIVALS_AND_SEMANTIC_REFERENCE_JUDGMENTS_V2.json",
+      "original_file_bytes": 33707,
+      "original_file_sha256": "c8e593e8f8237f5be4539ab625e690543b6951c908aae621add40a8c06da7861",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_DISTINCT_COMPLETE_BODY_QA_OWN12_ALL25_11_EIGHT_REFERENTIAL_JUDGMENTS_V2",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T05:59:10.110387+00:00",
+        "verdict": "PASS_WITH_LIMITS_DISTINCT_COMPLETE_BODY_QA_NOT_ROOT_ACCEPTANCE",
+        "material_findings": [],
+        "whole_body_judgment": "The study sustains an individual accepted-company/answerable-judgment argument. Its ordinary acts are central, not illustrations admitted only for usefulness. Private concern, a rejected severe proposal and limited knowledge genuinely complicate the welcome rather than being erased or forced into a reform plot. Evidence restraint sometimes recurs, but it supports the particular thesis and is not a demonstrated material literary defect.",
+        "own12_answers": [
+          {
+            "id": "PBQ01",
+            "own_complete_answer": "The connected thesis is distinct: accepted company grants a relational place while leaving judgment answerable. P001–006 establish offer/answer/enactment; P007–012 complicate staying and resistance; P013–022 preserve operational/epistemic limits; P023–025 draw a local conclusion. This is more than an inventory, and it does not copy Arona’s particular-presence thesis or require a fixed paragraph quota.",
+            "actual_scope": "P001–025"
+          },
+          {
+            "id": "PBQ02",
+            "own_complete_answer": "Arona coins the image and offers a distinct name; Plana gives the qualified answer, joins return/hands and negotiates address. P003–005 make the recipient’s answer indispensable without turning acceptance into enthusiasm, an astronomy hobby, self-coining or biological family. Enacted welcome/routine at P006 has its own finite source endpoint.",
+            "actual_scope": "P003–006; refreshedS09physical28/S08physical38–42"
+          },
+          {
+            "id": "PBQ03",
+            "own_complete_answer": "P015 explicitly preserves the one-OS/helped-her-teacher opening as unresolved, and P022 refuses retrospective tag repair. Later clear acceptance resolves its own recipient only. The body does not derive definite Prenapates grief, loyalty, death or deletion; the cold/empty-path naming scene and private load concern retain separate loci.",
+            "actual_scope": "P002/P015/P022; refreshedS09physical18–30"
+          },
+          {
+            "id": "PBQ04",
+            "own_complete_answer": "P011–012 retain the immediate halo proposal, its severity and Sensei’s rejection at maintained paraphrase grade. They do not add an exact target, implementation or Plana’s unprinted inner conversion. P023 prevents backfill from supplying a reform/relapse calendar, while P024 uses the proposal as active contrary evidence rather than explaining it away.",
+            "actual_scope": "P011–012/P023–024; refreshedS02physical171–187"
+          },
+          {
+            "id": "PBQ05",
+            "own_complete_answer": "Memory reports, mismatch/mimesis, Arona’s alternative, logged pairing, failed inspection and private Q.E.D. keep different modes. P017–020 do not make confidence or connection an authenticated identity result; Plana’s private claim is not Arona’s knowledge. The missing demonstration remains consequential, not a disposable disclaimer.",
+            "actual_scope": "P016–020/P022; refreshedS04physical68–94/S05physical51–63/S08physical42/54–60"
+          },
+          {
+            "id": "PBQ06",
+            "own_complete_answer": "P013 separates coalition acts, conditional survival, proposed two-OS rescue and reported return. P014 credits the report without claiming exclusive causation, landing frames or clinical clearance. These are supported representations of participation, not a complete Plana rescue/capacity mechanism or Prenapates fate conclusion.",
+            "actual_scope": "P013–014; refreshedS08physical22–34/58–60/S09physical22–30"
+          },
+          {
+            "id": "PBQ07",
+            "own_complete_answer": "P007–008 preserve Plana’s private added-load attribution as concern about company and Arona’s power statement as a separate attributed benefit claim. They do not measure sleep causation or net capacity and do not prescribe departure. This interpretation gives the thought character value without treating its causal theory as verified.",
+            "actual_scope": "P007–008; refreshedS08physical24/42/51"
+          },
+          {
+            "id": "PBQ08",
+            "own_complete_answer": "The name/home/routine sequence has a positive local change; later inquiry carries unequal recollection, disagreement, attempt and unfinished offer. P023 does not make that a complete moral biography. Source-processing order, repeated S2 argument and ambiguous earlier speech do not become a global calendar or additional lived events.",
+            "actual_scope": "P002/P006/P015–023; SOURCEchronologylimits"
+          },
+          {
+            "id": "PBQ09",
+            "own_complete_answer": "The first section gives the small ordinary acts substantial interpretive space, and P007–009/P019/P021 preserve concern and uncompleted contribution. Worth does not depend on crisis usefulness. Arona’s naming image, Minato’s maker knowledge and subsequent grief stay with their actors; acceptance does not certify permanent harmony or all future assent.",
+            "actual_scope": "P003–009/P019/P021/P025; refreshedS09/S08/S07"
+          },
+          {
+            "id": "PBQ10",
+            "own_complete_answer": "All eleven dimensions have substantive or honestly bounded treatment. The school/club role is specifically limited, and language is maintained written presentation. Eight rival tests retain genuine partial warrants; the absent-private-pool eligibility issue is appropriately handled by the actual sustained MAIN argument and SOURCE rather than manufactured F/common105 prose. No identity theorem, operational model or REL185 completion follows.",
+            "actual_scope": "All25 joins; all11/eight judgments below"
+          },
+          {
+            "id": "PBQ11",
+            "own_complete_answer": "I received the whole body, all25 unique map/original decision fields, full SOURCE and author25/5/11/eight/reference readback. Duplicate body/value prose is exactly matched without a second literary-course claim. Own priorPlana288 plus13 previously owned Arona S05 addresses supplies301 available bounds, with selected126 actually refreshed covering all55 cited intervals. This is not author781/1977/current195 or Root560 attendance, nor Plana Prologue or old-starter absence proof.",
+            "actual_scope": "Own source record and independent1836 checks"
+          },
+          {
+            "id": "PBQ12",
+            "own_complete_answer": "Introduction, substantial middle, exit state and every major relation are intelligible at their knowledge boundaries. Arona offers and Plana answers; Sensei refuses/authorizes/receives care; disputed claimant anonymity is purposeful; Prenapates remains an unproved earlier teacher referent; Minato owns maker testimony. No supported unnecessary genericization, ambiguous actor or incorrect attribution was found, and no automatic name substitution is warranted.",
+            "actual_scope": "Own bounded semantic samples below"
+          }
+        ],
+        "all25_particular_body_and_join_reasons": [
+          {
+            "paragraph": "PLANA-P001",
+            "own_particular_reason": "The opening establishes a relation between welcome and accountable judgment, rather than deriving one from the other. Naming/hands and the harsh proposal give both parts actual support; the thesis does not turn belonging into acquittal or uncertainty into worthlessness.",
+            "personally_refreshed_basis": "S09physical28; S08physical42; S02physical181–183",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P002",
+            "own_particular_reason": "A former control-room role and later named recipient are connected by explicit maintained resolution. This explains a change in address and reception while refusing the extra inference of a third OS or a single merged Arona; operational context retains its testimony/forecast limits.",
+            "personally_refreshed_basis": "S08physical30–34; S09physical18–28",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P003",
+            "own_particular_reason": "The paragraph interprets the directed gift of an address. The planetarium image remains Arona’s naming gesture and Plana’s uptake remains a separate act; no private astronomy preference or origin explanation is supplied to the recipient.",
+            "personally_refreshed_basis": "S09physical28",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P004",
+            "own_particular_reason": "The maintained qualified affirmative is enough for a particular answer. The text takes its restraint seriously without inventing exuberance, a native-performance analysis or an emotional state stronger than the account gives.",
+            "personally_refreshed_basis": "S09physical18–28",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P005",
+            "own_particular_reason": "The source explicitly includes shared return, taking hands and address negotiation, so the ordinary endpoint is enacted rather than merely promised. The paragraph gives those small acts interpretive weight without demanding later rescue value or converting sister address into genealogy.",
+            "personally_refreshed_basis": "S09physical28",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P006",
+            "own_particular_reason": "The chapter supplies welcome-home enactment and subsequent shared routine, which makes the local movement beyond an offer real. The interpretation keeps that positive company while declining permanent residence, uninterrupted availability or a complete aftermath.",
+            "personally_refreshed_basis": "S08physical38–42/51",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P007",
+            "own_particular_reason": "A private causal explanation is treated as Plana’s concern, not as a measured diagnosis. This is a defensible characterization of attending to another’s possible cost; the paragraph does not establish actual harm, a pathology or an obligation to leave.",
+            "personally_refreshed_basis": "S08physical24/42/51",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P008",
+            "own_particular_reason": "Arona’s power statement and Plana’s private load interpretation retain separate owners and evidentiary grades. The interpretive claim about welcome does not require a net-capacity calculation; neither unmeasured statement silences the other or determines whether Plana may belong.",
+            "personally_refreshed_basis": "S08physical42/51",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P009",
+            "own_particular_reason": "The waking context attributes different watch memories and joint four-a.m. care to the two OSs. The body uses the caring invitations as speech acts, without importing the dream into waking fact or completing food, examination, sleep or cure.",
+            "personally_refreshed_basis": "S04physical68–72",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P010",
+            "own_particular_reason": "Chest support and council inquiry provide a real institutional situation at the evidenced scope. The added S01 citation functions as original-Arona/access background, not Plana’s Prologue appearance; school/club and legal-office biography are honestly unrepresented rather than invented.",
+            "personally_refreshed_basis": "S08physical30–34; S04physical88–94; S01physical58–66",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P011",
+            "own_particular_reason": "The maintained account explicitly preserves Plana’s immediate halo-destruction proposal and Sensei’s rejection. Retaining a troubling proposed solution, without assigning an unreceived exact target/quotation or implementation, supplies genuine counterpressure to automatic harmlessness.",
+            "personally_refreshed_basis": "S02physical181–183",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P012",
+            "own_particular_reason": "Sensei owns the refusal, while Plana’s complete inner reaction is unprinted. The paragraph interprets resistance within a relation without supplying a conversion, a relapse calendar or total rejection of the person; this keeps the contrary case consequential.",
+            "personally_refreshed_basis": "S02physical181–187",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P013",
+            "own_particular_reason": "The forecast is explicitly conditional on detonation, and coalition action, a two-OS rescue proposal and return reports are different predicates. The prose does not make the forecast a casualty, the proposal a complete mechanism or Plana the sole rescuer.",
+            "personally_refreshed_basis": "S08physical22/30–34/58–60",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P014",
+            "own_particular_reason": "The two-OS safe-return report has a positive endpoint even while landing and causal detail remain absent. Its placement connects crisis aftermath to offered company; it does not attribute every survival cause or an examined medical result to Plana.",
+            "personally_refreshed_basis": "S08physical22–34; S09physical22–30",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P015",
+            "own_particular_reason": "The body directly preserves the one-OS/her-teacher ambiguity instead of letting clear later naming settle an earlier speaker. Prenapates is intelligibly introduced as the counterpart adult, but is not installed as the definite farewell recipient or a source of completed grief/loyalty/death.",
+            "personally_refreshed_basis": "S09physical18–22/28–30; S08physical49–60",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P016",
+            "own_particular_reason": "Unequal watch recollection supplies a concrete difference between witnesses, without diagnosing general ignorance or proving their architecture. The paragraph retains shared concern alongside unequal knowledge rather than merging them into one voice.",
+            "personally_refreshed_basis": "S04physical68",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P017",
+            "own_particular_reason": "Plana’s mismatch/mimesis explanation has a real consequential role, and Arona’s memory-loss alternative stays live. Administrative competence and confidence do not authenticate the disputed president; no permanent suspicious/trusting personality law replaces the particular inquiry.",
+            "personally_refreshed_basis": "S04physical82–88; S05physical51–57",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P018",
+            "own_particular_reason": "The completed pairing stage survives the later overflow and missing core result. Authorization stays with Sensei and logs retain their mode; the reading neither announces recovered knowledge nor erases the operation because it failed to answer the larger question.",
+            "personally_refreshed_basis": "S04physical88; S05physical57",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P019",
+            "own_particular_reason": "The source distinguishes Arona’s installation possibility, Plana’s capacity offer and Sensei’s bounded agreement without alliance. Interpreting an offered resource as participation is warranted; the text does not finish installation, collection, credential use or classification.",
+            "personally_refreshed_basis": "S04physical92–94; S05physical61–63",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P020",
+            "own_particular_reason": "The private Q.E.D./hidden-president address is evidence of Plana’s confidence and unshared interpretation. The body explicitly withholds derivation, location, reply and independent check, so reader access is not converted into corroboration or Arona’s shared knowledge.",
+            "personally_refreshed_basis": "S08physical42/54–60",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P021",
+            "own_particular_reason": "The maintained chapter gives collective finding to Sensei/Arona/Plana, inference to the claimant and maker explanation to Minato. This preserves a modest positive Plana contribution without an individual S.O.S. utterance or borrowed subsequent grief; no finer E001 is needed for this sentence.",
+            "personally_refreshed_basis": "S07physical22–28/46",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P022",
+            "own_particular_reason": "Tags, dialogue, system reports and private assertions are used to analyze written presentation. The later distinct name clarifies a local exchange without retroactively fixing all opening tags or supplying unheard performance, universal style or uninspected visual knowledge.",
+            "personally_refreshed_basis": "S09physical18–28; S08physical42/59–60",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P023",
+            "own_particular_reason": "The local control-room/name/home strand and recurring inquiry have actual changes and unfinished ends. The account expressly refuses to use documentary backfill to date reform or relapse, preserving development without a fabricated global biography.",
+            "personally_refreshed_basis": "S08physical30–42; S09physical28; S04physical68–94; S02physical181–187",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P024",
+            "own_particular_reason": "The competing readings fail for different located reasons: interface-only omits answers, threat-only omits company, redemption omits the severe proposal and infallibility omits rivals/failure. The paragraph keeps their partial warrants without using rejection of a total claim to prove its total opposite.",
+            "personally_refreshed_basis": "S09physical28; S08physical42; S02physical181–183; S04physical88–94",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          },
+          {
+            "paragraph": "PLANA-P025",
+            "own_particular_reason": "The conclusion returns to the particular acceptance and its lived consequences, while retaining concern, proposals and scrutiny. It resolves the essay’s interpretive relation at bounded scope, without settling ontology, future assent, every ethical judgment or separate package/model completion.",
+            "personally_refreshed_basis": "S09physical28; S08physical42; S02physical181–183; S04physical88–94",
+            "verdict": "SUPPORTED_AT_DECLARED_MAINTAINED_SCOPE"
+          }
+        ],
+        "all11_dimension_judgments": [
+          {
+            "dimension": 1,
+            "name": "Core thesis",
+            "own_judgment": "P001/P024/P025 make accepted company and accountable judgment mutually relevant without claiming either exhausts Plana. The thesis stays interpretive, not a universal personality mechanism.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 2,
+            "name": "Longitudinal arc",
+            "own_judgment": "P002/P006/P023 retain an actual local movement into named company and later inquiry; P012/P015/P023 withhold inner conversion, full prior biography and source-order reform chronology.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 3,
+            "name": "Public/private self",
+            "own_judgment": "P007–008/P020/P022 distinguish public participation from private load/proof interpretation. Neither the private claim’s truth nor a complete hidden self is manufactured.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 4,
+            "name": "School/club or institution",
+            "own_judgment": "P010 develops Chest/council relations and authorization meaningfully while school/club membership and legal office are honestly unrepresented. This is a bounded dimension rather than a fictitious student biography.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 5,
+            "name": "Ordinary life",
+            "own_judgment": "P003–009/P021 center name, hands, address, routine, concern and shared attention. They preserve qualified acceptance and finite outcomes without a drama or productivity eligibility threshold.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 6,
+            "name": "Crisis conduct",
+            "own_judgment": "P011–014/P018 distinguish severe proposed solution, rejection, conditional forecast, coalition action, proposed rescue, reported return and failed inspection. Actual help survives the missing mechanism.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 7,
+            "name": "Sensei relation",
+            "own_judgment": "P006/P009/P011–019 preserve received care, adult refusal and authorization, return-report recipient and unresolved earlier teacher. Neither one-way provision nor blanket future consent is imposed.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 8,
+            "name": "Major peers",
+            "own_judgment": "Arona is developed through offer/answer, worry, differing memory and rival hypotheses. The claimant and Minato retain separate contributions. Cooperation neither merges knowledge/identity nor completes REL185.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 9,
+            "name": "Language/voice",
+            "own_judgment": "P004–005/P015/P022 analyze qualified reply, negotiated address, shared tags and private/report modes at maintained written grade. No new native quotation, heard age/tone or visual source is asserted.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 10,
+            "name": "Competing readings",
+            "own_judgment": "P011/P017–020/P024 put harmlessness/redemption and confidence under consequential pressure while preserving real ordinary choice. The thesis is tested, not simply certified by eight labels.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          },
+          {
+            "dimension": 11,
+            "name": "Evidence routes",
+            "own_judgment": "All25 map rows have exact maintained loci, distinct role/dimension/rival/limit fields and source-mode controls. Own current126 refresh covers all55 intervals; tuple/codec checks establish fidelity separately from judgment.",
+            "verdict": "SATISFIED_OR_HONESTLY_BOUNDED_AT_CURRENT_SCOPE"
+          }
+        ],
+        "all8_serious_rival_judgments": [
+          {
+            "id": "PLR01",
+            "reading": "Inert-interface only",
+            "own_particular_judgment": "Operating representation is a real warrant, but P003–009/P019 contain answers, private concern and offered company. The body retains function while showing what an exhaustive interface account loses; no consciousness mechanism is thereby proved.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR02",
+            "reading": "Same-Arona or interchangeable subject",
+            "own_particular_judgment": "Shared system/home and initially repeated tags invite flattening. Directed name acceptance and different watch memories/hypotheses in P002–005/P016–017 prevent it at local analytical scope, while software lineage and the opening speaker remain unproved.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR03",
+            "reading": "Infallible technical knowledge",
+            "own_particular_judgment": "Logs, calculation and confidence matter, yet P017–020 retain the amnesia rival, inaccessible core, uncompleted app and unprinted proof. The argument does not turn those failures into total incompetence or its successes into an identity oracle.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR04",
+            "reading": "Threat-only",
+            "own_particular_judgment": "The harsh halo proposal and hostile control-room context give serious pressure. Actual acceptance, concern and routine in P003–009 resist exhaustiveness without denying that the proposal is ethically troubling.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR05",
+            "reading": "Permanent redemption or harmony",
+            "own_particular_judgment": "The accepted home/routine is an actual positive endpoint. P007–008/P011–012/P023 keep private concern, severe proposal, unprinted moral response and unknown chronology, so the welcome neither guarantees permanent harmony nor dates a completed conversion.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR06",
+            "reading": "Settled family or completed grief cure",
+            "own_particular_judgment": "Affectionate address/hands support a particular relation, while P005/P015 withhold a genealogical conclusion and any secured earlier teacher/grief/fate explanation. That boundary preserves attachment rather than treating it as worthless until ontology is solved.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR07",
+            "reading": "Only extraordinary success has value",
+            "own_particular_judgment": "The name, qualified answer, hands, address, routine, caring invitations and collective attention are positively represented. The body gives them analytic work before any capacity/cure result, while keeping another person’s tastes or grief out of Plana’s life.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          },
+          {
+            "id": "PLR08",
+            "reading": "No private pool means no eligible individual argument",
+            "own_particular_judgment": "This MAIN-only study actually develops a connected individual argument with ordinary and contrary material. SOURCE preserves its boundary and separate debts; eligibility does not require a fictitious privateF/common105 apparatus or an administrative paragraph quota.",
+            "verdict": "PARTIAL_WARRANT_AND_CONSEQUENTIAL_COUNTERPRESSURE_RETAINED"
+          }
+        ],
+        "handoff15_semantic_samples": [
+          {
+            "scope": "IntroductionP001–006",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "own_judgment": "Plana and Arona are named, and control-room OS/familiar Arona differentiate a previously shared tag. The name giver and answering recipient stay separate; Sensei is introduced as adult teacher. No identity theorem or earlier knowledge is silently repaired."
+          },
+          {
+            "scope": "Substantial middleP011–020",
+            "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+            "own_judgment": "Sensei owns refusal and authorization; Plana owns the severe proposal, hypothesis and private proof. P015 keeps the opening speaker/teacher ambiguous, and P017–020 do not give Plana an authenticated president or recovered core answer."
+          },
+          {
+            "scope": "ConclusionP021–025",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "own_judgment": "Sensei/Arona/Plana find together, the claimant infers and Minato supplies maker testimony. The ending returns to Plana’s actual answer and joined company rather than assigning others’ grief or complete future assent."
+          },
+          {
+            "scope": "Arona relationP003–009/P016–020",
+            "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+            "own_judgment": "Arona coins/offers and makes a power claim; Plana accepts, privately considers load and has different watch memory/hypothesis. Reader access to her Q.E.D. does not become shared Arona knowledge. Affectionate roles explain negotiated address without genealogy."
+          },
+          {
+            "scope": "PresentSensei relationP006/P009–019",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "own_judgment": "The adult receives concern/help, refuses the proposal and authorizes pairing. These are particular modes and replies, not passive receipt of every system output, all-options enactment, universal consent or a secured earlier her-teacher referent."
+          },
+          {
+            "scope": "Prenapates and openingP015",
+            "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+            "own_judgment": "Prenapates is named by the counterpart-adult role needed to understand the excluded inference. The body does not claim he is the farewell teacher or dead, or use a generic title to conceal a known secure attribution."
+          },
+          {
+            "scope": "DisputedclaimantP017–019 and MinatoP021",
+            "classification": "SOURCE_REQUIRED_ANONYMITY",
+            "own_judgment": "The claimant remains a disputed federal-president claimant rather than an authenticated named officeholder. Minato is named as maker for the specific explanatory act; no automatic title replacement or unrelated shipboard duty is needed for this paragraph."
+          },
+          {
+            "scope": "Coalition/rescueP013–014",
+            "classification": "JUSTIFIED_ROLE_REFERENCE",
+            "own_judgment": "Collective work and a proposed two-OS rescue retain distributed agency at the level actually argued. General coalition wording does not assign all actions to Plana or claim that omitted individual mechanics were witnessed."
+          }
+        ],
+        "material_referential_findings": [],
+        "source_receiving_scope": "Own priorPlana288 plus13 S05 addresses from dated ownArona452 gives301 available bounds; current selected126 refreshed across7files covers all55 intervals/107unique cited addresses. These are physical maintained addresses, not independent events, source admissions or a threshold score. Full exact source record is separate.",
+        "documentary_receiving_scope": "Personally received whole wrapper5604/additive diagnostic2639/V1terminal15936/body83/25/SOURCE22322/all25 unique map-original role/evidence/dimension/limit values/authorprospective5 and full author25/5/11/eight/reference readback18892. Duplicate literal body/map/original prose is independently exact-matched rather than credited as a second literary course.41 input pairs and helper copies are custody only unless their meanings were separately received.",
+        "count_diagnostic_adjudication": "The frozen original result scalar854 and list855 including final creation guard are correctly preserved by the additive V2 diagnostic. It is metadata precision, not a literary/source correction or original scalar855.",
+        "own_checker_diagnostics": "My first checker imposed an unnecessary hand count113 unique cited addresses and stopped before saving output. The independent actual union107 excludes uncited S08 43–48. Failed own V1 helper/diagnostic remain; successful own V2 records measured union/actual containment and passes1836 predicates. No target changed. A read-only helper’s scalar855 typo was separately corrected; own direct check proves original854.",
+        "fidelity_separate": "Own stdlib confirms complete raw4 recovery in memory,41 original/copy byte pairs, all59 frozen pins/acyclic196edges, source bounds, full25 correspondence and reciprocal11 routes. Current targetV1/V2 remain byteNOOP. Five earlier working-draft beforeimage containers are preserved exact pins; no five-codec decoding claim. These mechanics do not confer literary cognition or Root adoption.",
+        "scope_and_remaining": "Existinghome22/P3-CHAR-M028/P3-M028 only; distinctArona/Prenapates/REL185 remain separate and incomplete. All14projectgapsOPEN/models0/published152of355/named19of29. No source/name/identity/F/common105/extraREL/model/count/install/publication/merge credit. Root actual full literary/fidelity receiving and later public composition remain separate.",
+        "execution": "Only own Q/ACTUAL_FROZEN_BODY_QA_20261104_V1 writes. No target edit, R/Git/provider/shared/global/control/tooling write, foreign helper execution/import, primary/native/raw/AV, excluded target access or external chat.",
+        "own_readback_precision": {
+          "prior_report": {
+            "relative_path": "PLANA_BODY_QA_OWN12_ALL25_PARTICULAR_REASONS_11DIM_EIGHT_RIVALS_AND_SEMANTIC_REFERENCE_JUDGMENTS_V1.json",
+            "bytes": 32424,
+            "sha256": "edd14cd4b8376d9b550e3f2fea1ca0dff47df27ce4d67586ff504147a61ac66a"
+          },
+          "exact_pointer": "/all8_serious_rival_judgments/5/own_particular_judgment",
+          "old_reason": "Affectionate address/hands support a particular relation, while P005/P015 deny genealogy and a secured earlier teacher/grief/fate explanation. That boundary preserves attachment rather than treating it as worthless until ontology is solved.",
+          "current_reason": "Affectionate address/hands support a particular relation, while P005/P015 withhold a genealogical conclusion and any secured earlier teacher/grief/fate explanation. That boundary preserves attachment rather than treating it as worthless until ontology is solved.",
+          "why": "My prior reason said deny genealogy, which could overstate the body as a negative ontology verdict. The body withholds a family conclusion from affectionate address; it does not prove no relation. This own-review precision preserves the candidate and its limits. All other meaningful reasons and verdict remain exact."
+        }
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-QA-01-20261104-V1",
+      "original_filename": "PLANA_BODY_QA_OWN12_ALL25_PARTICULAR_REASONS_11DIM_EIGHT_RIVALS_AND_SEMANTIC_REFERENCE_JUDGMENTS_V1.json",
+      "original_file_bytes": 32424,
+      "original_file_sha256": "edd14cd4b8376d9b550e3f2fea1ca0dff47df27ce4d67586ff504147a61ac66a",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "$historical_derivation": {
+          "base": {
+            "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_DISTINCT_BODY_QA_FULL_REASONS_AND_DATED_LIMITS_V1.json",
+            "pointer": "/records/0/content",
+            "value_sha256": "658e0b128e1d7f4502caedcd9b5d098f871be2eba20d2e8ea84d654c9017cf5a"
+          },
+          "operations": [
+            {
+              "operation": "SET",
+              "pointer": "/schema",
+              "value": "PLANA_DISTINCT_COMPLETE_BODY_QA_OWN12_ALL25_11_EIGHT_REFERENTIAL_JUDGMENTS_V1"
+            },
+            {
+              "operation": "SET",
+              "pointer": "/UTC",
+              "value": "2026-11-04T05:58:04.642731+00:00"
+            },
+            {
+              "operation": "SET",
+              "pointer": "/all8_serious_rival_judgments/5/own_particular_judgment",
+              "value": "Affectionate address/hands support a particular relation, while P005/P015 deny genealogy and a secured earlier teacher/grief/fate explanation. That boundary preserves attachment rather than treating it as worthless until ontology is solved."
+            },
+            {
+              "operation": "DELETE",
+              "pointer": "/own_readback_precision"
+            }
+          ],
+          "resolved_value_sha256": "49883d5c1400f2e1a45a2a842015bb8fdfeb84f26bd944387b115863dd1dd429",
+          "qualification": "Dated preliminary own review; PLR06 deny-genealogy wording is superseded by the complete current V2 withhold-conclusion reason and full correction. All other exact shared reason values resolve to V2, not a summary."
+        }
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-QA-02-20261104-V1",
+      "original_filename": "PLANA_BODY_QA_OWN_CURRENT126_REFRESH_DATED288_PLUS_ARONA13_SCOPE301_MEANINGS_AND_LIMITS_V1.json",
+      "original_file_bytes": 9773,
+      "original_file_sha256": "aa9251241ef128b4ab3d95ce706e2c42bce76d70e2cfddfca2383892a7122235",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_DISTINCT_BODY_QA_OWN_ACTUAL_SOURCE_REFRESH126_AND_DATED_ADJUDICATIVE_BOUNDS_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T05:55:10.068641+00:00",
+        "prepared_questions_before_body": "../PLANA_OWN_PROSPECTIVE_COMPLETE_BODY_QA_QUESTIONS_EXACT_PRIOR_EXPOSURE_AND_WAIT_BOUNDARY_V1.json",
+        "dated_base": "Own earlier Plana288=SELECTED132+WHOLE156 across7files. Add only S05 51–63 from my already personally received Arona bodyQA452 source course for this adjudicative scope:301 available physical addresses across8files (SELECTED145+WHOLE156). This is a selection/reuse of earlier actual reading, not301 new lines or borrowed author/Root attendance.",
+        "current_refresh": "Personally re-received selected126 physical addresses across7 maintained copies in two untruncated outputs after the saved prospective12. Every55 cited interval is within this refreshed scope; the actual unique cited-address union is measured below, not independent observations or an adequacy score.",
+        "current_rows": [
+          {
+            "source": "S01",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/PROLOGUE/BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S01",
+              "bytes": 29927,
+              "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                58,
+                66
+              ]
+            ],
+            "current_selected_lines": 9,
+            "own_meaning_and_limit": "Original Arona/access background grounds Chest institutional context only; it does not place Plana in the Prologue or give her all original Arona wishes."
+          },
+          {
+            "source": "S02",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_001_対策委員会編/BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S02",
+              "bytes": 64540,
+              "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                171,
+                187
+              ]
+            ],
+            "current_selected_lines": 17,
+            "own_meaning_and_limit": "The maintained immediate halo-destruction proposal and Sensei rejection remain severe contrary evidence at paraphrase scope. Two-OS process names and documentary backfill do not establish a tested ceiling or a conversion chronology."
+          },
+          {
+            "source": "S04",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S04",
+              "bytes": 38506,
+              "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                68,
+                94
+              ]
+            ],
+            "current_selected_lines": 27,
+            "own_meaning_and_limit": "Dream and waking care, unequal watch recollection, claimant hypotheses, authorized logged connection and failed core inspection have different modes. Offered capacity and bounded collection are not installed or completed results."
+          },
+          {
+            "source": "S05",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S05",
+              "bytes": 13393,
+              "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                51,
+                63
+              ]
+            ],
+            "current_selected_lines": 13,
+            "own_meaning_and_limit": "This older own-Arona-course interval repeats much of S04. It corroborates the actual source route/wording for mismatch, failure and an uncompleted offer, not a second independent event or a newly acquired whole94 course."
+          },
+          {
+            "source": "S07",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_003/BLUE_ARCHIVE_MAIN_S2_V003_C001_CHECKPOINT.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S07",
+              "bytes": 11521,
+              "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                22,
+                28
+              ],
+              [
+                46,
+                46
+              ]
+            ],
+            "current_selected_lines": 8,
+            "own_meaning_and_limit": "Joint finding belongs to Sensei/Arona/Plana; distress inference belongs to the claimant and Minato supplies maker/inscription explanation. Subsequent care/grief stays with its actors, not Plana by proximity."
+          },
+          {
+            "source": "S08",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S08",
+              "bytes": 12691,
+              "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                22,
+                60
+              ]
+            ],
+            "current_selected_lines": 39,
+            "own_meaning_and_limit": "Coalition work, conditional survival, proposed joint rescue and two-OS safe-return report remain distinct. Homecoming/routine and private load concern/Q.E.D. are positive local character material without measured effects, hidden proof, landing reconstruction or settled fate."
+          },
+          {
+            "source": "S09",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_E008_DEEP_READING.md",
+            "exact_maintained_copy": {
+              "C_path": "maintained-source:S09",
+              "bytes": 5803,
+              "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938"
+            },
+            "current_selected_refresh_intervals": [
+              [
+                18,
+                30
+              ]
+            ],
+            "current_selected_lines": 13,
+            "own_meaning_and_limit": "The source resolves the naming recipient and qualified answer, shared return/hands/address directly. It retains opening one-OS/her-teacher ambiguity and unresolved Prenapates fate; later naming does not retroactively repair every earlier tag."
+          }
+        ],
+        "dated_available_ranges": {
+          "S01": [
+            [
+              55,
+              90
+            ]
+          ],
+          "S02": [
+            [
+              171,
+              187
+            ],
+            [
+              291,
+              299
+            ]
+          ],
+          "S03": [
+            [
+              154,
+              175
+            ]
+          ],
+          "S04": [
+            [
+              60,
+              107
+            ]
+          ],
+          "S05": [
+            [
+              51,
+              63
+            ]
+          ],
+          "S07": [
+            [
+              1,
+              58
+            ]
+          ],
+          "S08": [
+            [
+              1,
+              60
+            ]
+          ],
+          "S09": [
+            [
+              1,
+              38
+            ]
+          ]
+        },
+        "counts": {
+          "dated_Planafocussed_base": 288,
+          "dated_Arona_S05_reused_subset": 13,
+          "adjudicative_available_union": 301,
+          "current_selected_refresh": 126,
+          "current_files_refreshed": 7,
+          "map_cited_intervals": 55,
+          "unique_cited_file_line_addresses": 107
+        },
+        "source_credit_limit": "Maintained written analytical accounts only. No whole9/author781/author1977/current195/Root560/native/raw-dialogue/AV/primary credit inherited; no new source admission. S04/S05 and C004/E008 overlaps are not independent observations. Original author/peer/Root histories remain whole and attributed.",
+        "conditional_seams": "No additional source was requested or opened. Stronger individual S.O.S., exact halo quotation/causal chronology, mixed-written preference or secured opening-teacher motive remain conditional/excluded; current text avoids them."
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-QA-03-20261104-V1",
+      "original_filename": "PLANA_BODY_QA_OWN_EIGHT_SUBSTANTIVE_CLOSEOUT_REASONS_AND_ACTUAL_SAVED_READBACK_V1.json",
+      "original_file_bytes": 8577,
+      "original_file_sha256": "651c79f870d21258470e6a64a83c0a1f5831cce38c76fde2f8dec57edc08bad6",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_DISTINCT_COMPLETE_BODY_QA_OWN_REASONED_CLOSEOUT_AND_ACTUAL_READBACK_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "verdict": "PASS_WITH_LIMITS_DISTINCT_COMPLETE_BODY_QA_NOT_ROOT_ACCEPTANCE",
+        "material_findings": [],
+        "own_eight_complete_closeout_reasons": [
+          {
+            "id": "C01",
+            "reason": "The whole83-line/25-paragraph study sustains an individual accepted-company/answerable-judgment argument. Name acceptance, concern and company are not reduced to technical work; serious proposal and failed inquiry prevent welcome from becoming ethical acquittal. The sections develop that relation through located acts and limits rather than treating headings or source counts as a thesis."
+          },
+          {
+            "id": "C02",
+            "reason": "The source gives an actual directed name offer and qualified answer, shared return, taking hands and address negotiation, then welcome and routine. The body gives those ordinary goods substantial interpretive space without a stakes or productivity test. It does not invent enthusiasm, an astronomy hobby, a permanent family ontology or all future assent."
+          },
+          {
+            "id": "C03",
+            "reason": "The severe halo-destruction proposal and Sensei's rejection remain real counterpressure at maintained paraphrase scope. They are not made an implemented act, an exact unreceived target or quotation, or a completed moral conversion. The local name-to-routine strand stays positive while the documentary position of Abydos material is denied a global reform/relapse calendar."
+          },
+          {
+            "id": "C04",
+            "reason": "Private load concern and Arona's power statement have separate authors and unmeasured effects. Mimesis/mismatch and memory loss remain rivals; pairing is completed but core inspection fails; capacity is offered but the app result remains unprinted. Plana's private Q.E.D. exposes confidence without a demonstrated proof, located president or shared Arona knowledge. These limits are consequential to the thesis, not merely formal disclaimers."
+          },
+          {
+            "id": "C05",
+            "reason": "The later naming recipient is resolved, while the earlier double-tagged one-OS/her-teacher passage stays unresolved. P015/P022 explicitly avoid a definite Prenapates grief, loyalty, death or deletion biography. The intro/middle/end and all major relations retain named actors, purposeful roles, disputed-claimant anonymity and exact recipient directions; no supported reference repair or automatic name substitution is warranted."
+          },
+          {
+            "id": "C06",
+            "reason": "I personally received the whole body, full SOURCE, all25 unique original/map roles, evidence, dimensions and limits, and full author25 reasons/five answers/all11/eight/reference readback. The duplicate literary strings were exactly proved equal rather than credited as a second literary course. My priorPlana288 plus13 previously owned AronaS05 addresses supply301 available bounds; current selected126 refreshed addresses cover all55 intervals and107 unique cited addresses. These maintained physical-line grades neither borrow author781/1977/current195 or Root560 nor count independent story observations."
+          },
+          {
+            "id": "C07",
+            "reason": "My own stdlib checker verifies four complete current raw identity recoveries in memory, all41 original/copy input pairs, all59 frozen packet bytes and an acyclic59-node/196-edge current graph, with V1's56/134 retained. It also verifies all25 body/map/original values, reciprocal11 routes and source bounds. The original scalar854 and855 total rows including a creation guard stay explicitly distinct. All1836 successful predicates establish fidelity separately from meaningful source/literary judgment."
+          },
+          {
+            "id": "C08",
+            "reason": "Own saved readback preserved a failed hand-count assumption and a small reason-wording precision without changing any target. My first checker guessed113 unique cited addresses, while actual107 excludes uncited S08 43–48; the corrected own V2 measures containment rather than imposing a quota. My PLR06 reason now says the body withholds a genealogical conclusion, rather than denying genealogy. The preliminary own files remain dated. This QA can support Root's separate full receiving; it grants no body adoption, public composition, installation, count, model or publication credit."
+          }
+        ],
+        "actual_saved_readback": {
+          "source_course": {
+            "relative_path": "PLANA_BODY_QA_OWN_CURRENT126_REFRESH_DATED288_PLUS_ARONA13_SCOPE301_MEANINGS_AND_LIMITS_V1.json",
+            "bytes": 9773,
+            "sha256": "aa9251241ef128b4ab3d95ce706e2c42bce76d70e2cfddfca2383892a7122235",
+            "scope": "Whole saved seven-row source meanings/grades/ranges and prior available bounds personally received."
+          },
+          "complete_preliminary_own_semantic_report": {
+            "relative_path": "PLANA_BODY_QA_OWN12_ALL25_PARTICULAR_REASONS_11DIM_EIGHT_RIVALS_AND_SEMANTIC_REFERENCE_JUDGMENTS_V1.json",
+            "bytes": 32424,
+            "sha256": "edd14cd4b8376d9b550e3f2fea1ca0dff47df27ce4d67586ff504147a61ac66a",
+            "scope": "Whole own12 answers,25 particular reasons,11 dimension judgments,eight rivals,eight reference samples and all scope/diagnostic qualifications personally received in two untruncated displays."
+          },
+          "operative_current_own_semantic_report": {
+            "relative_path": "PLANA_BODY_QA_OWN12_ALL25_PARTICULAR_REASONS_11DIM_EIGHT_RIVALS_AND_SEMANTIC_REFERENCE_JUDGMENTS_V2.json",
+            "bytes": 33707,
+            "sha256": "c8e593e8f8237f5be4539ab625e690543b6951c908aae621add40a8c06da7861",
+            "scope": "Current PLR06 reason and whole explicit readback qualification personally received; all remaining meaningful values retain the already received exact values by the complete inverse comparison. No fresh whole-source course is inferred."
+          },
+          "mechanical_proof": {
+            "relative_path": "PLANA_BODY_QA_OWN_FULL_RAW4_INPUT41_FROZEN59_GRAPH_AND_SOURCE_GEOMETRY_CHECKS_V1.json",
+            "bytes": 376636,
+            "sha256": "dcd24169b5933fe135478bdfe45c8e9e42daf662dcfaad672d6540367c743a6b",
+            "checks": 1836,
+            "failures": 0,
+            "scope": "Summary, all four complete recovery tuples, graph definition/counts and diagnostic/meaning limits personally received. Repetitive predicate/edge/custody rows are own executed static proof, not a claim of human original-report/source reading."
+          }
+        },
+        "author_V1_V2_preservation": "All58 V2 manifest members plus manifest itself59 retain their exact pins; every V1 member and V1 manifest remain unchanged. The V2 additive count clarification is not a source/literary correction. Four current raw bodies decoded only in memory; five earlier working-draft beforeimage containers remain exact pinned bytes without a five-codec decoding claim.",
+        "metadata_assistance_limit": "A read-only child supplied schema/path-role information for three exact data files, without writes, payload decoding or source-body reading. Its initial scalar855 typo was explicitly corrected to854. My own checker directly verifies the actual original854/list855 distinction; no author helper was executed/imported and no semantic cognition was delegated.",
+        "prospective_and_role_continuity": "The earlier frozen own12 body-QA questions and disclosed readiness288/Arona452/body-composer exposure remain unchanged. The moving body was not accessed before Root supplied the exact frozen handoff. Current review is distinct from body author recover_yuzu_saved_review; Root acceptance remains separate.",
+        "remaining": "Root actual complete body, unique author/peer reasons, source qualifications and fidelity receiving. Any later sanitized public composition, current remote/target reconciliation, installation, full gate, publication or exact-head audit is separate. No source seam promotion is needed for the current narrower text; stronger individual S.O.S., halo quotation/chronology, mixed-written preference or opening motive stays conditional/excluded.",
+        "fixed_scope": "Existinghome22/P3-CHAR-M028/P3-M028; distinctArona/Prenapates and requiredREL185 remain separate and incomplete.355required/29named,published152/19,all14originalgapsOPEN/models0. No source/name/identity/F/common105/extraREL/model/count/install/publication/runtime/merge credit.",
+        "execution": "Only own Q/ACTUAL_FROZEN_BODY_QA_20261104_V1 files written. No body/map/SOURCE/author or frozen packet edit, R/Git/provider/shared/global/control/tooling write, foreign-helper execution/import, primary/native/raw/AV, excluded target access or external chat. Preparation remains frozen."
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-QA-04-20261104-V1",
+      "original_filename": "PLANA_QA_OWN_INITIAL_HAND_COUNT_FAILURE_CORRECTION_WITH_NO_TARGET_CHANGE_V1.json",
+      "original_file_bytes": 1169,
+      "original_file_sha256": "8e003525b432887fd0441e6c6b50328250686c9578ab2663ddc7123b1380dd68",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_BODY_QA_REVIEWER_OWN_HAND_COUNT_ASSUMPTION_DIAGNOSTIC_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "failed_own_helper": {
+          "relative_path": "plana_own_complete_body_fidelity_source_and_custody_checker_v1.py",
+          "bytes": 17078,
+          "sha256": "79764ef4a001890fedc0773f3a9dfd8a1f31a851de811ff845ef6ebd38314746"
+        },
+        "failed_predicate": "actual_unique_cited_addresses113",
+        "expected_by_own_hand_calculation": 113,
+        "actual_independently_recomputed_union": 107,
+        "by_source": {
+          "S09": 13,
+          "S08": 33,
+          "S02": 7,
+          "S04": 27,
+          "S01": 9,
+          "S05": 10,
+          "S07": 8
+        },
+        "cause": "I mistakenly treated S08 cited coverage as continuous22–60; actual union has no43–48. Unique-address count was not a Root/policy quota. All55 interval and actual126 refreshed-range containment checks had passed before this final count assertion.",
+        "scope": "Own checker stopped before saving semantic course/result. No candidate/source/author/helper or previous frozen QA changed. This is not an author/source defect. Failed helper remains whole; V2 will record measured union and verify actual containment without a guessed count."
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-QA-05-20261104-V1",
+      "original_filename": "PLANA_QA_OWN_READBACK_FAMILY_INFERENCE_WORDING_PRECISION_AND_EXACT_LIMITED_DIFF_V1.json",
+      "original_file_bytes": 1389,
+      "original_file_sha256": "a77d33a93501538742e8f105bf148a098cfd4662bff68ae8072a94977952105b",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_QA_OWN_READBACK_PRECISION_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "current_semantic_report": {
+          "relative_path": "PLANA_BODY_QA_OWN12_ALL25_PARTICULAR_REASONS_11DIM_EIGHT_RIVALS_AND_SEMANTIC_REFERENCE_JUDGMENTS_V2.json",
+          "bytes": 33707,
+          "sha256": "c8e593e8f8237f5be4539ab625e690543b6951c908aae621add40a8c06da7861"
+        },
+        "exact_pointer": "/all8_serious_rival_judgments/5/own_particular_judgment",
+        "old_reason": "Affectionate address/hands support a particular relation, while P005/P015 deny genealogy and a secured earlier teacher/grief/fate explanation. That boundary preserves attachment rather than treating it as worthless until ontology is solved.",
+        "current_reason": "Affectionate address/hands support a particular relation, while P005/P015 withhold a genealogical conclusion and any secured earlier teacher/grief/fate explanation. That boundary preserves attachment rather than treating it as worthless until ontology is solved.",
+        "preservation": "Original reviewerV1 unchanged; all candidateV1/V2 bytes unchanged; all other reviewer meaning/verdict values exact NOOP.",
+        "finite_predicate": "Inverse of new pointer plus schema/time/qualification restores the complete old JSON object exactly.",
+        "pass": true,
+        "not_a_candidate_finding": "This is my reason wording precision, not a new body/source defect or repair authority."
+      }
+    },
+    {
+      "record_id": "PLANA-BODY-QA-06-20261104-V1",
+      "original_filename": "PLANA_OWN_PROSPECTIVE_COMPLETE_BODY_QA_QUESTIONS_EXACT_PRIOR_EXPOSURE_AND_WAIT_BOUNDARY_V1.json",
+      "original_file_bytes": 22770,
+      "original_file_sha256": "e0c875b4c03244e823b82fd0289e08291405ece2b0bfa3eb2544a9e505fa3664",
+      "original_author_or_reader": "/root/sumire_v2_finite_qa",
+      "dated_original_status": "HISTORICAL_ORIGINAL_STAGE_NOT_CURRENT_WRAPPER_STATUS",
+      "content": {
+        "schema": "PLANA_M028_DISTINCT_COMPLETE_BODY_QA_PROSPECTIVE_PREPARATION_BEFORE_BODY_RECEIVING_V1",
+        "reviewer": "/root/sumire_v2_finite_qa",
+        "UTC": "2026-11-04T05:39:49.115836+00:00",
+        "status": "PREPARATION_ONLY_AWAITING_ROOT_EXACT_FROZEN_BODY_HANDOFF_AND_QA_DISPATCH",
+        "Root_commission_receipt": {
+          "C_path": "provenance-locator:PLANA-LOC-135c61f0af47b488dc82",
+          "bytes": 12992,
+          "sha256": "746f88c46db381689d58ab8065bfa2d466cac7c9ed955e4a96129e1e5e35dcfe",
+          "actual_receiving": "Whole12992 personally received before saving these questions. Initial author-reported prefix was measured from the actual Root file; Root subsequently independently confirmed the full exact pin."
+        },
+        "disclosed_exposure_and_roles": [
+          "I previously performed Plana source-readiness QA, personally receiving288 maintained physical lines: SELECTED132+WHOLE156 across7files. Its complete own12/all22/11/eight/fourteen reasons, whole seven-row source grades/meanings and closure were personally re-received for this preparation. That readiness judgment is not body acceptance.",
+          "I later performed Arona private-body complete95line/32paragraph QA at own452 maintained source lines (SELECTED296+WHOLE156 across9files). These are exact dated ranges, not a new Plana whole-source course; C004/E008 and chapter58 overlap the288 course. No totals are added as independent observations.",
+          "I composed Arona’s separately authorized102line public form, preserving32 literary paragraphs and full dated normative history. That composition is frozen with a different reviewer. Receiving its historical author/peer/Root judgments gives attributed documentary context, not their source attendance or a template thesis for Plana.",
+          "This new Root receipt supplies own8 adjudication and body commissioning leads, including RPL04 opening ambiguity and serious halo/mimesis limits. Root560/author781/future-author1977+refresh272+whole58+new98 remain theirs; the new98 mentioned by Root is not my new source course.",
+          "Parent reports the Plana body is still moving. I have not opened, listed, statted or polled the body or its author directory, nor inferred paragraph counts, final bytes/hash or final pins. No unfrozen draft is used as review evidence."
+        ],
+        "own_prospective_questions": [
+          {
+            "id": "PBQ01",
+            "question": "Does the finished monograph make a sustained individual argument about Plana rather than inventory scenes, repeat readiness headings or borrow Arona’s thesis?",
+            "test": "Find the actual claim, how the connected prose develops it, and which contrary cases modify it. Treat every paragraph according to its actual responsibility; no predetermined25/32 paragraph quota or requirement for eleven headings.",
+            "likely_prior_context": "Dated own readiness288; whole future body/map and author decisions only after Root frozen dispatch."
+          },
+          {
+            "id": "PBQ02",
+            "question": "How are namegiving, qualified acceptance, shared return, hands and sister/senpai address assigned to their actual actors and recipients?",
+            "test": "Familiar Arona coins/offers; Plana says she does not dislike the name and answers the invitation/address negotiation. Preserve ordinary enacted significance without invented enthusiasm, self-coining, a Plana astronomy hobby, permanent family ontology or capacity utility.",
+            "likely_prior_context": "Dated E008whole38 and C004whole60."
+          },
+          {
+            "id": "PBQ03",
+            "question": "Does the body keep the double-tagged opening and one-OS/helped-her-teacher/burden/farewell passage unresolved at its precise speaker and teacher limits?",
+            "test": "Later named acceptance must not retroactively identify every earlier line as Plana, fix the teacher as Prenapates, or create definite grief/loyalty/death. The later control-room subject’s cold/empty path and accepted company have their own stronger loci.",
+            "likely_prior_context": "Dated E00818/22/28/30; C00449/60 and RootRPL04."
+          },
+          {
+            "id": "PBQ04",
+            "question": "Does the severe rejected halo-destruction proposal remain a serious contrary case against harmlessness or complete redemption?",
+            "test": "Assess the proposal and its rejection at maintained paraphrase scope. Warmth cannot erase it, nor can the harsh proposal exhaust the person. Backfill/publication order must not date a moral reform or supply an exact quotation or unprinted causal reconciliation.",
+            "likely_prior_context": "Dated own V001171–187/291–299. A stronger quotation/causal chronology requires the positively named C003 context and Root capture first."
+          },
+          {
+            "id": "PBQ05",
+            "question": "Do mimesis/mismatch, the memory-loss rival, pairing logs, core overflow and unprinted Q.E.D. retain their different epistemic modes and owners?",
+            "test": "Plana’s confidence and private reasoning are not a displayed proof, a located president, Arona’s shared knowledge or a universal classifier. Actual pairing is not recovered core content; failure does not erase the completed logged stage.",
+            "likely_prior_context": "Dated S2V00060–107 and C004whole60; Arona bodyQA broader ranges remain separately dated."
+          },
+          {
+            "id": "PBQ06",
+            "question": "Whose actual work, proposal, forecast and return report supports each crisis or technical claim?",
+            "test": "Keep coalition operations, conditional survival, joint rescue proposal and the twoOS return reports separate. Do not create a sole Plana rescue mechanism, casualty, unseen landing, measured capacity or clinical/Prenapates fate conclusion.",
+            "likely_prior_context": "Dated C00430/34/58 and V100154–175."
+          },
+          {
+            "id": "PBQ07",
+            "question": "What does Plana’s private load concern establish about wanted company without measuring harm or prescribing departure?",
+            "test": "Her added-load attribution and Arona’s increased-power statement have different speakers. Concern about staying with Arona can matter as self-interpretation while causation, damage and a duty to leave remain unproved.",
+            "likely_prior_context": "Dated C00424/42/51/54/59 and V100173/175."
+          },
+          {
+            "id": "PBQ08",
+            "question": "What local changes and actual finite ends support a longitudinal strand, and what global biography remains unavailable?",
+            "test": "Distinguish control-room encounter/name/home/routine from later inquiry. Repeated S2 synthesis, dreams, source-processing/backfill order and mixed written conditions do not become extra events, a global calendar, a whole prior biography or guaranteed future availability.",
+            "likely_prior_context": "Dated source288 and source-stage controls; RootRPL05–08."
+          },
+          {
+            "id": "PBQ09",
+            "question": "Does the argument retain intrinsic ordinary value, asymmetry and refusal without importing another actor’s goods?",
+            "test": "Name, hands, form of address, company and routine matter before crisis usefulness. Arona’s naming image and written tastes, Minato/Sammy grief and other students meals remain theirs. An accepted finite act does not become blanket future assent, complete cure or a shared preference.",
+            "likely_prior_context": "Dated E008/C004, V00055–90 and S2V003C001whole58."
+          },
+          {
+            "id": "PBQ10",
+            "question": "Are all eleven dimensions and serious rivals substantively addressed or honestly bounded at maintained written scope?",
+            "test": "Test inert-interface, identical-copy, infallible-classifier, threat-only, permanent-harmony/family and ineligibility readings with partial warrants and real counterpressure. Do not manufacture private interiority, a school office, heard voice, model, identity theorem or completed REL185 to fill a dimension.",
+            "likely_prior_context": "Whole own prior12/all22/11/eight/fourteen reasons and current Root eight answers; captured ARCH315–344/METHOD329–376."
+          },
+          {
+            "id": "PBQ11",
+            "question": "Do exact paragraph/map/source routes and dated reading grades support each consequential claim without converting custody into comprehension?",
+            "test": "Receive whole frozen body and every unique meaningful join/author reason after dispatch. Reuse my actual288/datedArona ranges transparently and extend positive maintained context only for a concrete suspect or stronger claim. V000+S2V000 is a retrieval seed beside V100-start boundary; V001 is additional contrary context, not proof of Plana Prologue presence or old-starter absence.",
+            "likely_prior_context": "Exact prior source grade record9983 and Root commission12992; no new source-body reading in this preparation."
+          },
+          {
+            "id": "PBQ12",
+            "question": "Are speakers, thinkers, known names, roles, pronouns and recipients clear in the introduction, a substantial middle, the ending and every major relation?",
+            "test": "Apply actual HANDOFF15 categories semantically. Preserve source-required anonymity and opening knowledge limits, distinct Arona/Plana, present-Sensei versus an unresolved earlier teacher, and collective finding versus claimant inference. No automatic names or first-use/frequency mandate; report supported defects before any repair.",
+            "likely_prior_context": "Captured HANDOFF236–243; actual later full body needed, not available for this preparation."
+          }
+        ],
+        "dated_own_readiness_source_ranges_and_meanings": {
+          "schema": "PLANA_DISTINCT_QA_OWN_SELECTED132_WHOLE156_MAINTAINED288_SOURCE_COURSE_V1",
+          "reviewer": "/root/sumire_v2_finite_qa",
+          "prospective_file": "PLANA_QA_PROSPECTIVE_OWN12_QUESTIONS_AND_EXACT_EXPOSURE_BEFORE_SOURCE_V1.json",
+          "source_rows": [
+            {
+              "relative_path": "immutable_declared_inputs/FINAL_C004_E008_MAINTAINED_READING_WHOLE38_WISH_RECIPIENT_NAME_EXTENSION.md",
+              "C_path": "maintained-source:S09",
+              "bytes": 5803,
+              "sha256": "0bc61d26f72c33d5958e9059c3b7e2612bff08b57839afeb4b8a213e6f0b4938",
+              "whole_file_physical_lines": 38,
+              "personally_received_ranges": [
+                [
+                  1,
+                  38
+                ]
+              ],
+              "union_lines": 38,
+              "grade": "WHOLE_MAINTAINED",
+              "question_ids": [
+                "PQ02",
+                "PQ03",
+                "PQ04",
+                "PQ07",
+                "PQ09",
+                "PQ10"
+              ],
+              "own_meaning_and_limit": "The account explicitly separates the two initially identical Arona labels by conversational content, resolves the control-room subject as the recipient of familiar Arona naming, and records acceptance, hands and negotiated address. Its earlier one-OS/her-teacher passage does not settle the teacher referent. Local home is offered and accepted; lasting architecture and Prenapates fate remain open."
+            },
+            {
+              "relative_path": "immutable_declared_inputs/FINAL_C004_CHECKPOINT_WHOLE60_OWN_READINESS_EXTENSION.md",
+              "C_path": "maintained-source:S08",
+              "bytes": 12691,
+              "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+              "whole_file_physical_lines": 60,
+              "personally_received_ranges": [
+                [
+                  1,
+                  60
+                ]
+              ],
+              "union_lines": 60,
+              "grade": "WHOLE_MAINTAINED",
+              "question_ids": [
+                "PQ03",
+                "PQ05",
+                "PQ06",
+                "PQ09",
+                "PQ10",
+                "PQ11"
+              ],
+              "own_meaning_and_limit": "The checkpoint supplies ordinary homecoming and shared routine together with Plana private added-load explanation and unprinted Q.E.D. Neither the load effect nor increased capacity is independently measured. It distinguishes coalition acts, forecasts, proposed joint rescue and reported present-Sensei return from exclusive causal achievement or reconstructed landing."
+            },
+            {
+              "relative_path": "immutable_declared_inputs/ARL01_S2V003_C001_CHECKPOINT_WHOLE58_OWN_EXTENSION.md",
+              "C_path": "maintained-source:S07",
+              "bytes": 11521,
+              "sha256": "9a5b3c6916fc210deaa56d9f47f8991fb997e9d4df4b3ff115122bfac7449738",
+              "whole_file_physical_lines": 58,
+              "personally_received_ranges": [
+                [
+                  1,
+                  58
+                ]
+              ],
+              "union_lines": 58,
+              "grade": "WHOLE_MAINTAINED",
+              "question_ids": [
+                "PQ08",
+                "PQ11"
+              ],
+              "own_meaning_and_limit": "The actual group Sensei, Arona and Plana finds the S.O.S.-marked ball. The claimant infers distress, and Minato supplies maker and Sammy inscription context. The source does not attribute the inference to Plana or establish actual distress from the object. Sammy/Minato grief and care belong to their represented actors."
+            },
+            {
+              "relative_path": "immutable_declared_inputs/S2V000_BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "C_path": "maintained-source:S04",
+              "bytes": 38506,
+              "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+              "whole_file_physical_lines": 259,
+              "personally_received_ranges": [
+                [
+                  60,
+                  107
+                ]
+              ],
+              "union_lines": 48,
+              "grade": "SELECTED_MAINTAINED",
+              "question_ids": [
+                "PQ02",
+                "PQ05",
+                "PQ10",
+                "PQ11"
+              ],
+              "own_meaning_and_limit": "Plana lacks watch memory while Arona vaguely recognizes it. Plana mismatch/mimesis judgment and Arona memory-loss alternative remain rival hypotheses. Logs support pairing but core inspection overflows and the core is not recovered. Plana offers capacity, not a completed app installation. Both OSs participate in ordinary concern without proving diagnosis or cure."
+            },
+            {
+              "relative_path": "immutable_declared_inputs/V000_BLUE_ARCHIVE_MAIN_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "C_path": "maintained-source:S01",
+              "bytes": 29927,
+              "sha256": "c002d2db50d36ab9307f2de0ec4062c000108068f6fc893fc7b14011a57adf54",
+              "whole_file_physical_lines": 146,
+              "personally_received_ranges": [
+                [
+                  55,
+                  90
+                ]
+              ],
+              "union_lines": 36,
+              "grade": "SELECTED_MAINTAINED",
+              "question_ids": [
+                "PQ01",
+                "PQ04",
+                "PQ10",
+                "PQ11"
+              ],
+              "own_meaning_and_limit": "The literal seed supplies original Arona and retrospective qualified mixed-written comparison. It does not place Plana in the Prologue or assign original Arona milk/song/sky lines to Plana. Local association and ordinary meanings are preserved without whole-aggregate ownership or a fabricated private family."
+            },
+            {
+              "relative_path": "immutable_declared_inputs/V001_BLUE_ARCHIVE_MAIN_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "C_path": "maintained-source:S02",
+              "bytes": 64540,
+              "sha256": "9745010e16ef2e7bc09b11eab784f9bf5771fe0a7e6ef48bfb3af763be7f156e",
+              "whole_file_physical_lines": 349,
+              "personally_received_ranges": [
+                [
+                  171,
+                  187
+                ],
+                [
+                  291,
+                  299
+                ]
+              ],
+              "union_lines": 26,
+              "grade": "SELECTED_MAINTAINED",
+              "question_ids": [
+                "PQ01",
+                "PQ05",
+                "PQ09",
+                "PQ11"
+              ],
+              "own_meaning_and_limit": "The serious rejected halo-destruction proposal prevents unqualified harmlessness or complete redemption. Two-OS claims are not tested ceilings. Documentary backfill does not supply a global reform chronology. Mixed9009000/9009005 addressed/replying roles are not uniform ownership, and written/native/performed modes remain separate."
+            },
+            {
+              "relative_path": "immutable_declared_inputs/V100_BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+              "C_path": "maintained-source:S03",
+              "bytes": 49292,
+              "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+              "whole_file_physical_lines": 452,
+              "personally_received_ranges": [
+                [
+                  154,
+                  175
+                ]
+              ],
+              "union_lines": 22,
+              "grade": "SELECTED_MAINTAINED",
+              "question_ids": [
+                "PQ03",
+                "PQ05",
+                "PQ06",
+                "PQ09",
+                "PQ10",
+                "PQ11"
+              ],
+              "own_meaning_and_limit": "Control-room timer and counterpart claims, coalition acts and reported return have distinct actors and modes. Naming and ordinary homecoming are affirmative outcomes. Unprinted Q.E.D., medical conditions, Prenapates fate and private causal interpretations stay limited; shared routine does not audit system architecture."
+            }
+          ],
+          "totals": {
+            "files": 7,
+            "whole_files": 3,
+            "whole_lines": 156,
+            "selected_files": 4,
+            "selected_lines": 132,
+            "personal_physical_line_union": 288
+          },
+          "unread_context": "S2V001 whole94 and broader S2V003 working account were not personally received in this task. All nine positive copies may be mechanically pinned without whole-nine reading credit. No 781/1977/ROOT14/common105/primary/native/raw-dialogue/AV attendance claimed.",
+          "historical_status": "The old E008/checkpoint coverage figures and next/unopened instructions remain dated text in maintained sources. They are not current count authority or a new task to resume old sequencing.",
+          "receiving_diagnostic": "An aggregate tool output clipped the author-course tail, which was recovered in a subsequent explicit remaining-key read before claiming complete author-document receipt. Source selections themselves were printed without clipping."
+        },
+        "dated_own_full_reason_identity": {
+          "C_path": "provenance-locator:PLANA-LOC-bcc2b577a23a1b777db7",
+          "bytes": 19388,
+          "sha256": "768b04976c07a2c48b23f2ba04c39e06d50f112a6c0f55d6e3e087f12a443d29",
+          "scope": "All12 own answers/all22 author concurrences/all11/eight/fourteen judgments personally received; no assertion about a future body."
+        },
+        "adequacy_plan": "The existing288 course already includes exact name/company, opening caution, private load/Q.E.D., harsh proposal and collective finding context. Do not repeat781/whole9/allprimary by ritual. After the exact frozen handoff, personally receive the complete connected argument and necessary unique map/source/author meanings, ask what each actually claims, and request only a concrete positively named maintained seam through Root if my actual source ranges cannot judge a load-bearing claim. No primary/native/raw/AV acquisition is commissioned.",
+        "controls_actually_refreshed": {
+          "ARCH": "315–344, eleven monograph responsibilities and sustained literary/psychological ownership.",
+          "METHOD": "329–376, inspect relevant available classes, goals/needs/self-report/ethics/ordinary/relationship/contrary/source dependence; ordinary behavior before crisis essence.",
+          "HANDOFF": "162–168 and236–243, argument/source/epistemic acceptance and bounded semantic name/reference review; full raw reread not universal and validators not literary certificates."
+        },
+        "future_documentary_duty": "Only after Root exact frozen dispatch: own stdlib independent positive-size/pin guards, complete body/author/map correspondence, all source-range/grade joins, all necessary core raw inverse and acyclic current binding checks. Foreign helper files remain data/custody; do not execute/import them. No fixed paragraph, file, raw4 or inherited525 graph is imposed now.",
+        "fixed_scope": "Existinghome22/P3-CHAR-M028/P3-M028; distinct Arona/home1; required REL185 incomplete.355required/29named,published152/19,all14originalgapsOPEN/models0. No new person/home/F/common105/name/REL/source admission/model/count/publication credit.",
+        "body_accessed_listed_statted_or_polled": false,
+        "body_current_pin_inferred": false,
+        "body_acceptance": false,
+        "awaiting": "Root must provide exact frozen terminal and separately dispatch actual complete-body QA. Await without polling static author files.",
+        "write_access": "Only new own C preparation directory. No R/Git/provider/shared/global/frozen/control/schema/tooling/source or excluded changes; no foreign helpers, primary/native/raw/AV or external messages."
+      }
+    }
+  ],
+  "effective_current_qualification": "This is the complete attributed distinct review of the private body stage, not a review or acceptance of this new public composition. Root has since accepted the private body with limits. The different public-form review and Root public-form acceptance remain pending.",
+  "current_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_PLANA_CHARACTER_MONOGRAPH.md",
+      "bytes": 16882,
+      "sha256": "662566a292345150854d39ce285e39c09cbf85098a85ba796d6ec4a4c7cc1244"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_SOURCE_AUTHORITY_DATED_COURSES_AND_EFFECTIVE_QUALIFICATIONS_V1.json",
+      "bytes": 24385,
+      "sha256": "f9c67f3c4087a76a204f7d365c912f5ef8e8b5bdf9dcfc80baab368a0ed542e3"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY25_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+      "bytes": 72544,
+      "sha256": "a7f9bd544a38ee2c3a5a734faccd22d867cffef8be55261ce11be9c23296e62c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PLANA_CHARACTER_RECEIVING_20261104_V1/PLANA_BODY_AUTHOR_FULL_REASONS_AND_DATED_PRECISIONS_V1.json",
+      "bytes": 56961,
+      "sha256": "5aeb9c39a09dc862c1b5ff216cd9da2fad3732129d3ba0ec987494660235ad68"
+    }
+  ],
+  "composer": "/root/recover_yuzu_saved_review"
+}

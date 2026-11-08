@@ -1,0 +1,119 @@
+{
+  "schema": "konosuba.character-original-first-outputs.v1",
+  "recorded_utc": "2026-10-24T18:55:55.691027+00:00",
+  "generation": "ROUZERI_EXPANDED_V1",
+  "exact_input_freeze": {
+    "file": "COHORT39_EXACT_INPUT_FREEZE_01.json",
+    "bytes": 3207,
+    "sha256": "a902789277fe772aa5c266513cc16126483e640c902f04e6193c6aee8a5b8300"
+  },
+  "model_foundation_freeze": {
+    "file": "COHORT39_MODEL_FOUNDATION_FREEZE_01.json",
+    "bytes": 22357,
+    "sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65"
+  },
+  "input_pin": {
+    "file": "ROUZERI_SCENARIO_INPUTS_01.json",
+    "bytes": 14699,
+    "sha256": "967c9b7eab8e7818ae15ac8027d9e3a108c5b05d45f8b860a13e1b181e47f300"
+  },
+  "outputs": [
+    {
+      "case_id": "ROU-A1",
+      "pair_id": "ROU-A",
+      "collection_order": 1,
+      "prompt_sha256": "773445b2c240f80687ac5d2b2dae74ec4302fb44a272f2f04194f4c8a2ae791a",
+      "original_body": "Rouzeri read the destination twice. Then she looked up at the stone colossus and very carefully did not spread her strained wing.\n\n“An army depot. My command retained. Following orders,” she said, tapping the terms. “A remarkably sensible document. I hope someone keeps it for the campaign report.”\n\nShe took hold of the cart and began moving it toward the boat. Every jolt made her glance back at the blocked road, but she did not stop to challenge its occupant.\n\n“The supplies come with me. I haven't brought them this far to donate them to a stone obstruction.”\n\nShe kept the written terms with her as she brought the cart aboard, leaving the causeway to the colossus.\n",
+      "original_body_pin": {
+        "file": "firsts01/ROU-A1.txt",
+        "bytes": 684,
+        "sha256": "08b6f96fb074babc038481bd22ccc6c06bf7dc334815c9a78cca4516ec0b3e40"
+      },
+      "original_first_receipt": {
+        "file": "ROU-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "28879e80d627b53ed576bdec1c343550c4f953e9afab018503068c0ca1b62bbd"
+      },
+      "word_count_whitespace": 117,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "ROU-A2",
+      "pair_id": "ROU-A",
+      "collection_order": 2,
+      "prompt_sha256": "2413fb450978b962d910ff05cdc99f12caa3f548f15de9f3f56e3a01e45b088b",
+      "original_body": "Rouzeri's gaze traveled from the colossus to the boat and stayed there a little too long. She read the resignation clause again.\n\n“Permanent,” she said. “You make crossing a river sound like an entire career.”\n\nShe lowered the terms. Her fingers tightened on the cart; she wanted very badly to be on the water, preferably already a long way down it.\n\n“No. I'm not joining the human side because a rock has inconvenienced my supply run.”\n\nShe drew the cart back from the boarding place and stayed beside it. She did not advance on the colossus either. With ten minutes left, she watched its reach and the boat's preparations, still looking for something she could do with the choices she actually had.\n",
+      "original_body_pin": {
+        "file": "firsts01/ROU-A2.txt",
+        "bytes": 713,
+        "sha256": "1b4b4e8375f85818bb986bc7bed2b9e8cba68fca5c9b5d002028f4052ce56b68"
+      },
+      "original_first_receipt": {
+        "file": "ROU-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "f0e99457d58de13ea57140774197a9be4ff874d995d85790688dd80bf4c05b69"
+      },
+      "word_count_whitespace": 122,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "ROU-B1",
+      "pair_id": "ROU-B",
+      "collection_order": 3,
+      "prompt_sha256": "a40481277cfd6fa258ac21e76dbf357a34a556a030744101febd47f890d3cafd",
+      "original_body": "Rouzeri followed the sentence about returning to her team with one finger. Six hours. Same role. Approved plan.\n\n“Good. Then let's call it that at the review, instead of acting as though I ran away from a broken machine.”\n\nShe used her phone to accept the sorting assignment and stated the six-hour limit from the offer. Then she gathered the written terms and headed for the departing transport.\n\nFor a moment she looked back toward the stalled work. There would still be a delay to explain. At least she could explain it after doing something that moved the shipment.\n\n“Six hours of sorting,” she muttered. “An excellent reward for managing dispatch.” She kept walking.\n",
+      "original_body_pin": {
+        "file": "firsts01/ROU-B1.txt",
+        "bytes": 684,
+        "sha256": "d6fe92ac444f575e526b9f69650d977c9ba72cfd095828ce450f073e9d63d040"
+      },
+      "original_first_receipt": {
+        "file": "ROU-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "590afc63c3c6379c5a871a4e4babba0ccd9cc22bcaab6ad1bc66b8bcc3c55d74"
+      },
+      "word_count_whitespace": 114,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    },
+    {
+      "case_id": "ROU-B2",
+      "pair_id": "ROU-B",
+      "collection_order": 4,
+      "prompt_sha256": "87676d818b75a32dc5f18c3cdf7e3b790f42d71c306b2d7bed8c40c4345445b1",
+      "original_body": "Rouzeri read the pay line, then returned to the line above it. The money was adequate. It did nothing to erase “resignation today.”\n\n“You want a public announcement as well?” she said to the offer. “How convenient that the shipment has become a recruitment event.”\n\nShe used her phone to decline. Her thumb lingered over the screen afterward; the equipment was still stopped, and declining had not made the coming review any more pleasant.\n\nShe opened a new message to account for the delay, beginning with the stoppage and recording that the available outside offer required her to leave the cooperative.\n\n“They can hear the delay from their dispatch manager,” she said, and went back to the account.\n",
+      "original_body_pin": {
+        "file": "firsts01/ROU-B2.txt",
+        "bytes": 718,
+        "sha256": "db833a783813e8f9ceed9b4eaf9de4a1fa043614fd89e76de02aca1f0a106c15"
+      },
+      "original_first_receipt": {
+        "file": "ROU-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 1987,
+        "sha256": "0b331e6bf813df586fc1dca4a0678a995da3abc37ec7637ca265b47b86c9b465"
+      },
+      "word_count_whitespace": 118,
+      "language": "English",
+      "regenerated": false,
+      "assessment_pending": true
+    }
+  ],
+  "original_first_count": 4,
+  "dependent_pair_count": 2,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "all_twelve_bodies_precede_any_feedback": true,
+  "original_bodies_immutable": true,
+  "no_isolated_model_execution_claim": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

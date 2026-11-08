@@ -2,17 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: visual_paratext_and_illustration
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 visual_index_version: IMOSAE-VISUAL-INDEX-1.0
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.12'
-date: '2026-08-20'
+version: '1.13'
+date: '2026-10-12'
 ---
 
 # IMOSAE Visual Paratext and Illustration Ledger
@@ -524,3 +525,44 @@ Promotional `V13-ILL-032`–`044` remain excluded from narrative inference.
 ### V13 visual synthesis
 
 The visual layer repeatedly makes **institutional mediation visible**: profiles, Q&A pages, project documents, work artifacts, and the wedding memorial composition show people entering professional/public forms without being reducible to those forms.
+
+
+## V14 — visual, paratext and illustration / final mainline horizon
+
+All35 non-gaiji V14 assets were inspected and all42 original assets hash checked. V14 reading's register supplies exact source members/SHAs. This ledger owns longitudinal framing, not raw artwork or another source gallery.
+
+| Visual group | V14 function and authority ceiling |
+|---|---|
+| ILL001–007 | Cover/title/previews/contents/roster distribute domestic/editorial/ensemble focus. Kazuko's wife label is PF, tested by actual writing; names read from original evidence. |
+| ILL008–009 | Divergent writer work/life presentation and momentary parent-child warmth. Neither appearance nor comfort establishes complete motivation or resolved unease. |
+| ILL010,012,015 | Fictional Q&A distributes completion, travel and editor creeds. Chronology unspecified; only independently identified portraits get names. PF written attribution, no acoustic model. |
+| ILL011 | Shared travel presence after deceptive arrangement; cannot erase setup or certify broad consent. |
+| ILL013 | Critical young-character eroticization: non-graphic interpretation only, no reproduction or ethical authorization. |
+| ILL014 | Toki/Miyako professional vulnerability/rivalry, contrary to uniform-contempt caricature. |
+| ILL016,018,020 | Created-work catalogs make detective, doujin and fantasy publications material. Fictional deeds never transfer automatically to actual cast. |
+| ILL017 | Adult same-sex intimacy and working friend's embarrassment share frame. |
+| ILL019 | Illustrator reliability/presentation changes with visible waiting line, without proof obsession gone. |
+| ILL021 | かかってこい and 完 complete suspended public speech; first ending is materially visual. |
+| ILL022–023 | Embedded draft's ethically uncomfortable mentor scene and grief/confusion contrast. Not authenticated adolescent future. |
+| ILL024 | Kantoku's astronaut image expressly framed as future possibility, not achieved Chihiro career. |
+| ILL025–035 | Historical ads, congratulations, media-mix/shop notices, recruitment and editorial notes. No added mainline event or performed voice. |
+
+Evidence: `IM-V14-E053`–`IM-V14-E087`, individually routed in V14 reading.
+
+### Two endings and a returned present
+
+ILL021 cannot be detached from the speech or treated as the book's only ending. The first afterword follows, then an apparent future narrative, then a return to actual manuscript-reading present. Embedded 続かない and final present 完 have separate levels. ILL024's future possibility reinforces rather than overrides this uncertainty. `IM-V14-E025` `IM-V14-E027` `IM-V14-E042` `IM-V14-E049` `IM-V14-E076`
+
+### Narration and illustration can exert different pressures
+
+Sleeping Sora offers comfort while prose preserves dissatisfaction. Travel toast offers romance while circumstances remain unfairly arranged. The manuscript's adult/young-person erotic image remains contrary evidence even when the later frame criticizes irresponsible representation. An illustration establishes licensed visual framing; it cannot certify consent or cure the ethical problem. `IM-V14-E003` `IM-V14-E006` `IM-V14-E043`
+
+### Documentary paratext is not a new interview corpus
+
+Questionnaires supply written fictional responses through portraits, while author/illustrator afterwords supply production commentary. Congratulatory comments are selected marketing reception; advertisements for an artbook do not admit its interviews. Current availability, legal claims and real publishing statistics are not inferred from dated2020 promotional prices or announcements. `IM-V14-E026` `IM-V14-E050` `IM-V14-E082` `IM-V14-E052`
+
+### Frozen source exception
+
+G005's original scolding glyph/ruby governs meaning despite a wrong frozen replacement. G063 remains symbol-sensitive; ornaments are structural, not speech. Keep raw/NORM/GAIJI-MAP bytes intact and route the analytical erratum. `IM-V14-E035`
+
+Current scope: V14 source-validated visual interpretation. External artbook/adaptation/performed media are deferred and need labeled authority before use.

@@ -1,0 +1,187 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Akane",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_AKANE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 6614,
+    "sha256": "734b0a86f16ea1468e521e045e447f951f40118c7dfab04cf17cd49f71b9e3cc",
+    "git_blob_oid_of_actual_bytes": "fbea6534ca7f791a01fd8b8c25d15b61adffa135",
+    "lines": 147
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_AKANE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "7240991de4a6a46f12bbe4d88c902d3a4508be0646daf0816761700d54cd7882",
+    "source_checks": [
+      {
+        "source_id": "C01",
+        "same_main": false,
+        "same_declared_snapshot": true,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+      },
+      {
+        "source_id": "C02",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+      },
+      {
+        "source_id": "C03",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+      },
+      {
+        "source_id": "C04",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac"
+      },
+      {
+        "source_id": "A01",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "af7b37302d664a2acd1286e594fe48e711dce1618269a70c130be67481aaf3d6"
+      },
+      {
+        "source_id": "G12",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "7878d5a7517dfad383ffd92f175d48f4ce5052afc332956122f396dc6209b32a"
+      },
+      {
+        "source_id": "G31",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "a9b013389a588c27970482c74e95eb16b57511dedb134e41aa4c850081d5aaf6"
+      },
+      {
+        "source_id": "M02",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d"
+      },
+      {
+        "source_id": "M21",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08"
+      },
+      {
+        "source_id": "M22",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a"
+      },
+      {
+        "source_id": "E06",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "a79b9d10a02fc32e3a2b6aed115e9b0e5cbba92eee4d118ef41c1c42c28a6b82"
+      },
+      {
+        "source_id": "E06C",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "187b924e3c750ba582de81a751ba5bd45d99e7b30d78cac38e33f80cb0ab5091"
+      },
+      {
+        "source_id": "L65",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "d89f9234aaf4c6281ed15a1ba437fbd5452844be7c62ac20dcf9af21e5403c41"
+      },
+      {
+        "source_id": "E10C",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "880f77f0a0027aabe86b4fcc556e93a96c8e2c7320ae857162aac010a771343e"
+      },
+      {
+        "source_id": "E25",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "0a04a3d7913d5ff800cf97c6d3581b38999b16f05f569978eecae8b391b1c9f9"
+      },
+      {
+        "source_id": "F00",
+        "same_main": true,
+        "same_declared_snapshot": true,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf"
+      }
+    ],
+    "exact_saved_claim_paragraphs": 51,
+    "frozen_outputs_verified": 4,
+    "saved_receipt_sha256": "a091ed3ed42598b3f0db791b8116dac7637a9e51907314ae2019cbc5d8129074",
+    "prior_frozen_outputs_preserved": 52,
+    "root_actual_receiving": {
+      "whole_saved_body": [
+        "c2c6fd lines1–84",
+        "b5d2cb lines85–140EOF"
+      ],
+      "source_fields": [
+        "7027a7 all source controls and historical exact home",
+        "1a3211 inputs0–7",
+        "3a445e inputs8–15"
+      ],
+      "claim_fields": [
+        "255251 schema/control projection",
+        "809354 first2 full claim rows; all51 exact joins independently checked, all joined saved meanings received in full saved body. No whole51support-row manual receiving claimed."
+      ],
+      "saved_receipt": [
+        "801a3e all controls and3outputs;16source and52prior rows separately exactchecked; no whole466line manual reading claimed"
+      ],
+      "additional_accepted_argument_receiving": [
+        "124477 private197–274 and2b76d7 private275–349EOF, complete declared substantive account",
+        "4f4043 whole historicalgiftE81006573linesEOF under Cycle008 admission",
+        "1242e8 complete current shipcomparison103linesEOF"
+      ],
+      "authority_qualification": "Other analytical owners use author-attributed complete scopes and prior ROOT accepted meanings. Sixteen c1/main2e comparisons are exactness checks, not newly earned whole primary, source-field, independence or performance credit."
+    },
+    "semantic_grounds": [
+      "Chosen service has real pleasures and useful outcomes; attentive usefulness never settles a self. Uniform self-uncertainty coexists with sincere tastes, wanted recognition, peers welcome and freely achieved leisure.",
+      "Craft, shared sweets, tea, learning bearing, clothing, wanted early conversation and sufficient proximity remain intrinsic ends. Actual eating, learning and outing are fulfilled; missed early talk, continued misunderstanding, early departure and uncertain self remain unfinished.",
+      "Akane can press boundaries, cause real exposure through familiar C4 routine, and end feared by opponents seeking police protection. Those adverse means survive competence and comic tone. Privacy request and peer-origin interruption of resisted laughter remain positive local judgment.",
+      "C&C signing remains Karin report plus Asuna acknowledgment, Akane internal-rule account and Neru refusal. The instrument, free assent, legal validity, paid costs and permanent reorganization are unproved. Jacket acceptance and narrower hair permission remain specific.",
+      "Coalition agency is distributed and Akane explicitly contests sole-adult attribution. Classmates independently welcome glasses and permit no explanation; peers and captive retain their own judgments, costs and refusals.",
+      "Local recurrences and variants do not give a universal growth calendar. Conditional replies, unnamed action, narrator access, actor seams, repeated written channels and unreceived performance retain their scopes."
+    ],
+    "root_new_primary_or_performance_credit": 0,
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "Current355/29 scope separately accepted; historical353 bytes preserved and Akane home unchanged",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-AKANE",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKANE_CHARACTER_MONOGRAPH.md",
+    "bytes": 40192,
+    "sha256": "dd80ccac34370044eb3ea553af618701da1ac74d48fa285d28fd3ead7bb67187",
+    "git_blob_oid_of_actual_bytes": "194a8b4add5da96a1a2a7014cb6fbe48079b8efc"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This is an author-complete character candidate pending ROOT's independent whole literary receiving and adoption.",
+      "new": "ROOT accepted this complete character monograph with limits after independent whole literary receiving.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

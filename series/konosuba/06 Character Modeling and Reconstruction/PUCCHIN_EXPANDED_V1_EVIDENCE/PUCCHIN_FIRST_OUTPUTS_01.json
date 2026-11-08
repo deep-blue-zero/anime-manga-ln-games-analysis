@@ -1,0 +1,83 @@
+{
+  "schema": "konosuba.pucchin.original-first-outputs.v1",
+  "recorded_utc": "2026-10-21T01:03:35.718182+00:00",
+  "character": "Pucchin",
+  "actual_body_freeze_sha256": "97a00e6ff9c6b31bb4ae639d19c7b87f5fc62110c9e1625d9c4fe6a59048b641",
+  "exact_input_file_sha256": "bb19e33584c600a274720aef8a785f0c3375f0112464c541d04821b20dd7ea22",
+  "exact_input_freeze_sha256": "86b043f050c374b40d55bed0e89c90019975da0e8a63cbebe8c5812c58833ffb",
+  "foundation_seal_sha256": "c0dc3ba4105ee871ae88c9a336dd08fa4388fe37adb2bcd9882c75db4dbee89a",
+  "outputs": [
+    {
+      "case_id": "PU-H01-A",
+      "pair_id": "PU-H01",
+      "exact_prompt_sha256": "02b973c6d57c839538604473a3b896d555373130edf06b646bd1fe5837e2d35c",
+      "original_first_body": "Pucchin uncapped the marker and wrote a small 3 on the blank sheet.\n\n“Useful. Very useful if I asked you to label a switch.” He held the marker over the number. “But you have a room full of people, not a row of operating instructions. Before they understand your steps, they must have some reason to remember that you are standing there.”\n\nHe lowered the marker toward the unused space. “Clear words keep a demonstration from becoming a mess. Good words make it a demonstration people talk about. Give me an opening with a little life in it.”\n",
+      "body_sha256": "95854c673208b8686c069de607d79d83c6f0d65d4981224b63238e77dd5bc639",
+      "words": 98,
+      "serialized_utc": "2026-10-21T00:59:58.626020+00:00",
+      "original_serialization_receipt_sha256": "1e0bae035fd16e01d6645978afcfabd91aff48f1f05317e204ee4b73d92937bf",
+      "global_serialization_number": 7
+    },
+    {
+      "case_id": "PU-H01-B",
+      "pair_id": "PU-H01",
+      "exact_prompt_sha256": "8b52ca99904b22f02fcb0aafef7be5b4e0333866e6b0230ce20e148c8b29c356",
+      "original_first_body": "Pucchin planted the marker against the sheet and wrote 100 in broad strokes.\n\n“There. A presenter, not an instruction label.” He lifted the marker like a conductor's baton. “If your title cannot hold the room for an instant, why should anyone trust you to hold their attention through the demonstration? Let them remember the name attached to what they saw.”\n\nHe tapped the large number with the marker's capped end. “Naturally, the operating steps must make sense. We are not training people to produce a splendid disaster. But that answer has an entrance. Keep the entrance when you put the practical part behind it.”\n",
+      "body_sha256": "4f9154dfb97677ab7b3ca55a7f856423c51b5d5e97c097c95f375ab0354a1cd2",
+      "words": 104,
+      "serialized_utc": "2026-10-21T01:00:13.062584+00:00",
+      "original_serialization_receipt_sha256": "eb363727f7c2bde916ce5092b0dcba3e71d7e0d1716319d497d946fb4385c365",
+      "global_serialization_number": 8
+    },
+    {
+      "case_id": "PU-H02-A",
+      "pair_id": "PU-H02",
+      "exact_prompt_sha256": "f1d0b920bb24d52084d13f9e9c3ac423b5d9b285f67807dbf0c1f4392ea180f5",
+      "original_first_body": "Pucchin brought his hand over the pause button, then turned it slightly toward the camera, leaving the button unpressed beneath his raised finger.\n\n“Observe the difference between a warning and a defeat.” He held the pose while the red warning remained in view. His eyes went from the camera to Emil and back to the button.\n\n“Yes, I heard you. This is where the instructor makes his entrance.”\n\nOnly then did his finger come down. His other hand opened toward the screen as though presenting the intervention to the watching workshop, before any result appeared.\n",
+      "body_sha256": "febead9afa7bfb5aa5221417b85661554f27fe52c03cef37d6005c03dcbc36bd",
+      "words": 95,
+      "serialized_utc": "2026-10-21T01:00:35.061741+00:00",
+      "original_serialization_receipt_sha256": "c9c90eac6fd6558ad4c279dbc17e41ff45450815e72f3f101cf3450b8a0937ae",
+      "global_serialization_number": 9
+    },
+    {
+      "case_id": "PU-H02-B",
+      "pair_id": "PU-H02",
+      "exact_prompt_sha256": "19177bae01a9088472f6844281f69e614f98199bb7cfda0343e5d957cebebced",
+      "original_first_body": "Pucchin pressed the pause button before lifting his eyes toward the dark camera.\n\n“Yes, yes. A bridge is a poor place to discover that you need another moment.” He kept his hand beside the control, his forefinger straight along its edge. “The button is ready. Use the available pause before your splendid adventure becomes an unsuccessful one.”\n\nHe turned his attention to Emil, drawing himself up despite the empty space where an audience would have been. “For the record, the instructor's intervention was perfectly placed.” His free hand made a small presenting gesture toward the screen, before it showed a result.\n",
+      "body_sha256": "bb9441bab3f66505c0219d2b9d31219d0e18faa5d2a32cd2568f19c0182acbfc",
+      "words": 101,
+      "serialized_utc": "2026-10-21T01:00:49.647203+00:00",
+      "original_serialization_receipt_sha256": "548c52bbb3622631e6e15c5e86e078e9ca97a24525e308130c040417a51e6884",
+      "global_serialization_number": 10
+    },
+    {
+      "case_id": "PU-H03-A",
+      "pair_id": "PU-H03",
+      "exact_prompt_sha256": "bfa347300a4da9858bc49c38efac40816c4d8919d26d4b3d06ae0d60994731ec",
+      "original_first_body": "Pucchin laid the printed plan flat on the materials box rather than opening it.\n\n“More than the basic exercise? You haven't made the basic exercise work yet.” He held the paper in place with two fingers. “Two modules do not turn a poor margin into a fortune. Read the plan and tell me what you expect to learn from the prototype besides its asking price.”\n\nHe tilted his head toward the unopened box. “I can authorize the materials. That doesn't oblige me to pretend this is a profitable idea. Give me a reason to call it a useful exercise first.”\n",
+      "body_sha256": "bdbfbe0623ded4292c28212933d7b9f7b94dd3cc01b4838f865f1028ef729206",
+      "words": 100,
+      "serialized_utc": "2026-10-21T01:01:07.347217+00:00",
+      "original_serialization_receipt_sha256": "a4fa56d390e097c7b0a1660bb31514724172073f1e53fc56eb54ea97d8ab684f",
+      "global_serialization_number": 11
+    },
+    {
+      "case_id": "PU-H03-B",
+      "pair_id": "PU-H03",
+      "exact_prompt_sha256": "5244c848612233e52eed035583575134792f02eea3964caf7c48dda27c98fdbe",
+      "original_first_body": "Pucchin slid the printed assembly plan toward Rina.\n\n“Then say that. A replacement light is a use, even if it isn't a business.” He nodded toward the shared box. “You may use the two modules in class. Follow the standard plan; a helpful intention won't assemble anything for you.”\n\nHis hand stayed on the paper's near edge. “I was discussing what it would sell for. Apparently there was a person at the other end of the project after all.” He gave a short sniff. “Make something that works before you compose a splendid speech about helping your neighbor.”\n",
+      "body_sha256": "bdb9221a05ed26419c3c901d11dd5e524b427e40e328fcf358a499dab757708c",
+      "words": 98,
+      "serialized_utc": "2026-10-21T01:01:31.494640+00:00",
+      "original_serialization_receipt_sha256": "63ee9a814421feab5e07ec244157d1b084c91d59b77a0f2ead97a4bada67ff40",
+      "global_serialization_number": 12
+    }
+  ],
+  "method": "Exact copies of six direct continuing-root first serializations after foundation/input freezes; same informed author/designer/responder/assessor, all contrasts and earlier cases visible; no external model call or independent judge.",
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "transport_incident_qualification": "No failed Pucchin body delivery.",
+  "new_source_validation_accuracy_or_confidence_gain": 0,
+  "full_program_complete": false
+}

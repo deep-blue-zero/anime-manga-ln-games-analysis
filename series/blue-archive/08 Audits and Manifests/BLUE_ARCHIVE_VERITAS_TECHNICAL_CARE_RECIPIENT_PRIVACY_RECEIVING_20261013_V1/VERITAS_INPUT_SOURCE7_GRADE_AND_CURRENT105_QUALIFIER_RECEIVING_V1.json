@@ -1,0 +1,1347 @@
+{
+  "author": "/root/m008_composition_review",
+  "created_actual_UTC": "2026-10-14T00:16:37.712715+00:00",
+  "existing_required_home": "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY",
+  "mandatory_embedded_responsibility": "P3-XMI-E001",
+  "additional_required_or_named_denominator": 0,
+  "fixed_scope": {
+    "required": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "next178": "UNREACHED",
+    "merge_approval": "RESERVED"
+  },
+  "independent_component_QA_ROOT_receiving_adoption_installation_publication": "PENDING_SEPARATE",
+  "new_source_primary_native_raw_AV_identity_model_or_canonical_package_credit": 0,
+  "schema": "VERITAS_CORE7_COMPLETE_OWN_MAINTAINED_ARGUMENT_RECEIVING_AND_CURRENT105_SCOPE_QUALIFICATIONS_V1",
+  "source7": [
+    {
+      "source_id": "S01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_CHIHIRO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 28890,
+      "sha256": "f5f7931544e1ec6332124db1708ab14e8d0cf7f683e4e739fa2bdc9dd036f274",
+      "git_blob_oid_of_actual_bytes": "87555cb2c4b6c0b3f67569945761e8dd7480ac4a",
+      "physical_lines": 260,
+      "complete_current_own_receiving": {
+        "source": "S01",
+        "ranges": [
+          [
+            1,
+            101,
+            "af939a"
+          ],
+          [
+            102,
+            165,
+            "c3ab6a"
+          ],
+          [
+            166,
+            216,
+            "2d7143"
+          ],
+          [
+            217,
+            260,
+            "13ef61"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained analytical carrier meaning receiving; original9 selected canonical-source/producer credits attributed, no primary replay.",
+        "manual": "Chihiro practical data protection accommodates user-memory/service tradeoffs, client credibility borrowed from Schale, company/coffee/rest wanted. E006 acknowledged unfair disclosure and secrecy defeats flawless ethical-authority reading; concern/anger/permission conflict is subjective impasse, not all-alternatives absence. Literal company-side/Chihiro and Veritas-introduction/suspicious-president seams preserved; E005 thirteen coffee narration units and written voice counterparts not rewritten as heard dialogue or duplicate incident. Public/private chronology only local; club fondness does not supply Maki assent. G01–14 remain original OPEN."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S01",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S01",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    },
+    {
+      "source_id": "S02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HARE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 32735,
+      "sha256": "5953c0c9456bc197e4ad37e7c8175d9e0dfdce3f98071ce0f69bf1b8485507d1",
+      "git_blob_oid_of_actual_bytes": "84a8449ff5e640e648b370afbc376641a6d24c30",
+      "physical_lines": 306,
+      "complete_current_own_receiving": {
+        "source": "S02",
+        "ranges": [
+          [
+            1,
+            116,
+            "e27a3b"
+          ],
+          [
+            117,
+            221,
+            "4859b4"
+          ],
+          [
+            222,
+            258,
+            "a8f04b"
+          ],
+          [
+            259,
+            296,
+            "36c5a5"
+          ],
+          [
+            297,
+            306,
+            "69f9c0"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained analytical carrier21 report meaning receiving; no21 canonical/40native/AV reading transfer.",
+        "manual": "Hare actively wants comfortable work, games, films, flavors, cafés, stars and camp reciprocity; self-funded cards and offers of coffee/help defeat one-way dependency. Reported cloud loss, repeated caffeine resumption and device failures qualify expertise without invalidating pleasures. Movie-caricature retaliation includes actual homepage tamper/admission/narrated restoration; not allclub ethics. Stop rejection/threat is not confirmed shock; subsequent photo desire-inference lacks instruction/permission; begun disassembly not completed repair/deletion. Chihiro apology and Maki café information remain reported peer routes. Current source-qualified40 native rows/ns/#st/#wait preserved as original bounded witness, no own native reading."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S02",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S02",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    },
+    {
+      "source_id": "S03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTAMA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 36048,
+      "sha256": "084cb6c0fc6c2780e2dfe09e1fd4f88c371dcecb10dc4502681bbdebd2fbe5f6",
+      "git_blob_oid_of_actual_bytes": "980072456c305f1456d390065527ce9a454e5c58",
+      "physical_lines": 286,
+      "complete_current_own_receiving": {
+        "source": "S03",
+        "ranges": [
+          [
+            1,
+            115,
+            "b8c0a3"
+          ],
+          [
+            116,
+            187,
+            "ca478a"
+          ],
+          [
+            188,
+            228,
+            "eb35fe"
+          ],
+          [
+            229,
+            263,
+            "f38f04"
+          ],
+          [
+            264,
+            286,
+            "9ffc15"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained19 analytical-report meaning receiving; no19canonical/audio/native replay.",
+        "manual": "Kotama sound appetite spans private proximity, research, concentration/comfort, chosen texture, process and actual company. Covert bear/clock/soup capture attempts meet found devices/no; voluntary adult height disclosure only a littlebetterunderstanding, no lasting cure. Radio interference remainsprobable/local; disappointed supernatural pursuit distinctadultsleepcost. Picklingmisread correctedwithdelivery/privacylecture. Café/rain/recordshop enjoymentcoexistscontinuedcapture attempts/noequipment. Mountainfire processwantedbutfailed>warmcompany; hunger breaks pure recording ideal; echoes disliked thenparticulartwovoiceexception,no erasedcontrarytaste. Costume152writtencontexts are26+26+9 subset andsourcevoice/choice/inward/log distinctions remainexact; no wholeE832 via costume."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S03",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S03",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    },
+    {
+      "source_id": "S04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+      "bytes": 27191,
+      "sha256": "bddddb8acf72d303dadcebd8c8b329c8b4a3ce2b9cacc6885fcce07979bccd24",
+      "git_blob_oid_of_actual_bytes": "3ebdc50e7f6c3ceb8c3c244a40b1b18b46a049dc",
+      "physical_lines": 254,
+      "complete_current_own_receiving": {
+        "source": "S04",
+        "ranges": [
+          [
+            1,
+            116,
+            "cbfebb"
+          ],
+          [
+            117,
+            198,
+            "d44155"
+          ],
+          [
+            199,
+            235,
+            "17435d"
+          ],
+          [
+            236,
+            254,
+            "cefd77"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained21 analytical carrier meaning receiving; no21 canonical/diegetic costume events/native/AV transfer.",
+        "manual": "Maki colors/materials/graffiti/games/icecream/shopping/praise/memory/craft have intrinsic force. Police forgiveness notnewwallpermission; terminal BOOM imposescustomer interruption,no restoredservice/restitutioncert. Cleanupcare/plannedapology/brokenpromise differslaterwallowner's unforcednewpermission andreducedlitter report,notretroauthorization. Failingtest/fastliterarylearning/literalnotebookpackaging/Veritasrecognition andreportednextperfectscore do notuniversalizecompetence. Company soughtthenphone absorption/acknowledgeddiscourtesy; workingfirmware/BOOM complete butoriginalcrowmissed. Handmadethankyoucard anddeadline/drinkpromise retainunfinished endpoints. ReportedChihiro reflection vsHare/Kotama coldrefusal differentiated; particularwinterfood/inspirationcoexistsconditionalcampingrefusal. Printed Maki/narrator/log/inward seams and17+17+10 costume repeats retained."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S04",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S04",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    },
+    {
+      "source_id": "S05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1501_1503_DEEP_READING.md",
+      "bytes": 31173,
+      "sha256": "5befccc68d9cd8c89ba1f60e37f5fe861acfe280f33d5c5ea145f89a8126b0d6",
+      "git_blob_oid_of_actual_bytes": "5f0889bb9b75d3cf973d432467152fb830ba722f",
+      "physical_lines": 190,
+      "complete_current_own_receiving": {
+        "source": "S05",
+        "ranges": [
+          [
+            1,
+            55,
+            "afb68d"
+          ],
+          [
+            56,
+            98,
+            "5ad0ba"
+          ],
+          [
+            99,
+            137,
+            "24db87"
+          ],
+          [
+            138,
+            190,
+            "269480"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained G150 three-object analytical argument receiving; original canonical/raw receipts attributed, no new source admission.",
+        "manual": "Ordinary measurement/image anxiety recruits Kotama through teacher-facing appearance/denial and Hare through limiteddronecuriosity; motives plural. Yuuka snacks/temptation self-report and fairness refusal coexistsworkinginitialpasswordweakpractice. Deliberateaccess/falsification/retention/retaliation differsaccidentalSNSdestination; false100kg notrealmeasure. Chihiro owntechnical defense nearlyovercome, vice-presidentrecognition andexplicitotherpeopleethicsrebuke countersclubprestige; no sanctions/instructionresults/fullrestitution. Severaldaystwo localstudents rumor+Yuuka reportednotice persists; Chihiro knowledge nottransferredtoYuuka/Sensei. Sensei onlyimaginedaudience, printedEimi personjoinempty, no localstudentsglobaljoin. Body/chapter evidence drawnfromsecureactualacts, source-label swaps cautions preserved."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S05",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S05",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    },
+    {
+      "source_id": "S06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 23709,
+      "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+      "git_blob_oid_of_actual_bytes": "c86f892caa1c88cfb9efacd14007408df834945b",
+      "physical_lines": 115,
+      "complete_current_own_receiving": {
+        "source": "S06",
+        "ranges": [
+          [
+            1,
+            70,
+            "f59703"
+          ],
+          [
+            71,
+            90,
+            "bbd057"
+          ],
+          [
+            91,
+            115,
+            "9f6165"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained EVENT832 ten-object analytical argument through115EOF, Cycle008 currentqualification governs historicalUNADMITTED; no ten canonical/native/AV replay.",
+        "manual": "E001 technical-soundinglabor iswanted sandboxgame/guild/update, notsecurityaudit; Chihiro orders actualsunrise overridesplannedMMORPGhunt. E002campdetailslate, Himariauthorizationreportednotrecipientassent, equipmentruleevenlyappliedbutpowerunequal. E003sharedtentactualrestreading positive. E004grassdiagnosesunconfirmed/coffeeinwardofferlocallyhelpsno clinicalcure; Makiclay/charcoalmural sincere/desireactual buterasureorderednotdone. E005secretshoerecorderpleasure/privacydenial; event-localRei repeatedlydifferentbaseballgoal andrefusal, bearhelpnotcertifiedtraining. E006Chihirojoinsawkwardveglabor notabandonedsubordinates yetchosenmenuunproved. E007actualmizutaki+cleanup/cocoa/mixedreflectioncompany notconversion. E008actualoptiontostop leadschosenpath/game-metaphorcontinuation/sunrise; futurebreakfastnotconsumed, Rei protestsnewrun. E009news/prophesyreportwrong/muraladmittedforgotten; actualpublicexplanationnotallrumorremoval/erasure. E010one-week10kg=gamecharacter, reciprocalrestadviceChihirodeclinesforwork, ownlocalgamingcontinues. Literalactor/inwardnarrationseams retained; sourceRei notglobaltypedbaseballjoin."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S06",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S06",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    },
+    {
+      "source_id": "S07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "bytes": 33564,
+      "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+      "git_blob_oid_of_actual_bytes": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+      "physical_lines": 257,
+      "complete_current_own_receiving": {
+        "source": "S07",
+        "ranges": [
+          [
+            1,
+            97,
+            "12d6d0"
+          ],
+          [
+            98,
+            149,
+            "d89a4c"
+          ],
+          [
+            150,
+            215,
+            "31f48d"
+          ],
+          [
+            216,
+            248,
+            "6ce1ec"
+          ],
+          [
+            249,
+            257,
+            "3eefd6"
+          ]
+        ],
+        "complete": true,
+        "grade": "Own complete maintained MAIN_V002 contextual account257EOF; accepted two-chapter/23family/event/Kei comparisons reused at source-attributed analytical/report scope, not own45/577/82/19canonical replay.",
+        "manual": "MaintainedMAIN distinguishesmaking/audience/recognition/home/safety; actualdistributedhypotheses/hacking/interventionC002E012–021 supportspositivecoalitionwork but no durableprivacy/systemrepair. Veritas privatepluralcare/ordinarywants andG150 failureskeep expertisenotautomaticwarrant. Maker/recipient tasteplural; no output/prize prerequisite ordinaryworkvalue. Clubfamilies/data/person/variant andKeyKei/Yuzu/Eimi/localsourceemptyjoins preserve actualroles notregistrymerges. NamedcomparisonToki/GDD friendagency/sourcecue notall chainofcommand; pleasures/consent differ. Event832 latechoice/dinner/readingsunrise actual notconversion;842 sourceprivacyconfiscation/pressuredistinct,854 genuine rescuecoexistsundisclosedYuzupiloting andunprintedfinaldefeat/homeenrollment. CurrentKei19 comparison chosenmakingQA/scopecritique andrefusal notnewKeibodyread/sourceprimary. AllCycle8 currentfrontmatterqualifies earlier intake/counterstates; no inheritedhistorical chronology/model."
+      },
+      "current_intake_custody_grade": "ROOT actual e28cfa compares current70db tracked blob with this C carrier; custody is not semantic receipt",
+      "whole_original_raw_preservation_evidence_id": "private-witness:VERITAS-FULL-CORE7-S07",
+      "original_binding_envelope_evidence_id": "private-witness:VERITAS-INITIAL-SOURCE7-S07",
+      "initial_Pending_field_role": "Preserved dated custody-stage binding envelope privately; complete own receiving record above now governs actual semantic reading."
+    }
+  ],
+  "all7_complete_maintained_meaning_received": true,
+  "source7_current_admission_boundary": "Current Cycle008 contextual admission governs retained old UNADMITTED/proposal/queue words at their creation-stage scope; complete analytical carrier meaning is no fresh primary/native/raw/AV or all MAIN/private/event family replay. Printed actors/choices/inward/narration/report/seams and local chronology remain.",
+  "current_common105_published_six_qualifier_binding": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Exactly O025/O071/O073/O075/O079/O087; complete published original layer below, including dated proposal/ROOT adoption fields. No arbitrary rewriting of another owner or frozen105 envelope."
+  },
+  "complete_original_common105_published_six_qualifier_layer_preserved": {
+    "schema": "BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_V1",
+    "artifact_type": "bounded_current_source_purpose_qualification",
+    "status": "C_ONLY_PROPOSED_ROOT_LITERAL_AND_MANUAL_SEMANTIC_RECEIVING_REQUIRED",
+    "created_UTC": "2026-10-13T01:01:36.132528+00:00",
+    "prospective_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "required_home": "P3-INST-GSC-SCHALE",
+    "institution_body": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+    "source_boundary": "Previously admitted maintained written analytical normals and their accepted published source-consistency qualifiers. This artifact is a receiving/qualification control, not a new analytical source or a new source admission.",
+    "current_snapshot_ROOT_attributed": {
+      "source_commit": "e748bf863ac674b3b215a9c132dbffb8533b1b43",
+      "main_commit": "0ed395926cca502fe1461d8c172330baab99e70e",
+      "identical_complete_tree": "5d24a375ffe80e3cefaa023bc101253f008970fb",
+      "latest_ROOT_instruction": "ROOT reports the reconciled local snapshot has the same complete tree, the source publication chain is accepted, and two main audits each ran all301 mandatory tests with zero skips. These are attributed operational facts, not provider or test operations by this preparer.",
+      "provider_Git_or_runtime_certification_by_this_preparer": false,
+      "future_package_publication_certified_by_these_prior_runs": false
+    },
+    "derivation_and_receiving": {
+      "complete_review_report": {
+        "retained_immutable_evidence_identifier": "GSC134_COMPLETE_POSTAUDIT_C_ONLY_RECONCILIATION_REVIEW_V1.json",
+        "bytes": 276282,
+        "sha256": "aa7fc896692c3416353089dc774a9b020cbb621c4c7a00c38c4ecbce247ba9bf",
+        "git_blob_oid_of_actual_bytes": "f38c34755e1741861b838908107f08fcd26ea417"
+      },
+      "current_analytical_binding_proof": {
+        "bytes": 171442,
+        "sha256": "54b52d7d7a8ff1b1c275333a2246478819c79bf7fa34684b7587bdecc43b0b22",
+        "git_blob_oid_of_actual_bytes": "397aa02d1b7633f54366a0638c74c08c0dc1319c"
+      },
+      "binding_proof_evidence_id": "ROOT_CURRENT_E748_COMMON105_AND_MINATO19_ADMITTED_ANALYTICAL_BINDING_DRIFT_V2.json",
+      "preparer_scope": "All six complete old/proposed GSC questions and all12 literal pointers checked against whole held attachment bytes. All source-audit receiving grades and counterlimits remain attributed.",
+      "ROOT_adoption": "PENDING",
+      "original_105_scope": "The full105 questions were received in the bound complete review; this layer changes exactly six questions and leaves99 other purpose meanings and all original grade declarations intact."
+    },
+    "single_proposed_operative_successor_layer": {
+      "layer_id": "GSC134_CURRENT_PURPOSE_SUCCESSORS_20261013_V1",
+      "activation_condition": "Operative only after ROOT completes literal and manual semantic receiving, adopts the bounded questions, binds the exact saved artifact and references, and completes the required installation/publication process. This preparation does not claim that adoption.",
+      "scope": "Exactly six current source-specific GSC purpose questions at12 retained scalar locations. No replacement of frozen original payloads, arrays, tuples, receipt fields or original full inverses.",
+      "default_for_every_other_field": "PRESERVE_EXISTING_CURRENT_QUALIFICATIONS_AND_ORIGINAL_HISTORY",
+      "records": [
+        {
+          "id": "GSC134-PURPOSE-O025-CURRENT-20261013",
+          "owner_ref": 25,
+          "alias": "O025",
+          "original_purpose_grade": "SOURCE_BOUNDED_SUBSTANTIVE_INSTITUTIONAL_COMPARISON",
+          "source_class": "GROUP",
+          "admitted_analytical_argument": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+            "retained_immutable_evidence_identifier": "O025__025__GROUP__BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md",
+            "bytes": 28377,
+            "sha256": "143280da7ea65dd6b5f32440f75f0bc1f2018cf1d6697eb0ee53af09bd6d261d",
+            "git_blob_oid_of_actual_bytes": "7be147924e3d291f9fc22dc45e75915ee7854df9"
+          },
+          "original_author_actual_receiving_declaration": {
+            "prior_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "complete_original_prior_own_receiving": {
+              "literal_prior_receipt_associations": [
+                {
+                  "receipt_ref": 2,
+                  "pointer": "/analytical_inputs/8"
+                }
+              ],
+              "lossless_literal_scope_dictionary": {
+                "retained_immutable_evidence_identifier": "RIN_PRIOR_OWN_SCOPE_LOOKUP_WORKING_V1.json",
+                "bytes": 231228,
+                "sha256": "7b0dd3a25bfc73d843889a4998d365255eb7039b5b00c4b9ebb7c0f6ef3b8baf",
+                "git_blob_oid_of_actual_bytes": "e832809271281dda62bcce8d833cbaa6ebba7f69"
+              },
+              "whole_current_physical_file_fresh_read": false,
+              "scope_adjudication": "Actual own complete coherent accepted meaning through its endings is adequate at unchanged exact bytes; copied existence/title/name alone is not the basis."
+            },
+            "fresh_physical_whole_current_owner_here": false
+          },
+          "preserved_earlier_scalar": "Hot Springs craft, reading/company and differentiated workers test technical service versus exposure and workload. Local acceptance is real; it does not authorize unlimited labor, erase leverage or finish promised repair.",
+          "preserved_earlier_scalar_binding": {
+            "UTF8_bytes": 221,
+            "sha256": "d937f0b51f3bf4484c293f377091db35cdadac06c1ef74f9d2aa39df66c2e4d9"
+          },
+          "proposed_current_qualified_scalar": "Hot Springs chosen digging, proposed work/rest reciprocity, wanted baths and spontaneous snack sharing test practical service against exposure, coercive labor and recipient workload. Local acceptance is real; it does not authorize unlimited labor, erase leverage or finish promised repair. Neither GROUP3501–3502 vignette establishes the copied chosen-reading detail; reading elsewhere remains a separate ordinary end.",
+          "proposed_current_qualified_scalar_binding": {
+            "UTF8_bytes": 420,
+            "sha256": "35ce6f8a95b2e96a04dbc475134f6d1390fe6179cdd9b3fdabf11135ff88ee83"
+          },
+          "complete_current_reason": "Chosen reading is unestablished in the two GROUP3501–3502 meanings. This does not exclude Kasumi reading in EVENT848 or other actual reading.",
+          "two_exact_retained_literal_locations": [
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+              "json_pointer": "/items/2/complete_original_payload/rows/25/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 469257,
+                "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+                "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759"
+              },
+              "exact_original_scalar": "Hot Springs craft, reading/company and differentiated workers test technical service versus exposure and workload. Local acceptance is real; it does not authorize unlimited labor, erase leverage or finish promised repair.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 221,
+                "sha256": "d937f0b51f3bf4484c293f377091db35cdadac06c1ef74f9d2aa39df66c2e4d9"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            },
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+              "json_pointer": "/items/0/complete_original_payload/rows/25/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 409005,
+                "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+                "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0"
+              },
+              "exact_original_scalar": "Hot Springs craft, reading/company and differentiated workers test technical service versus exposure and workload. Local acceptance is real; it does not authorize unlimited labor, erase leverage or finish promised repair.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 221,
+                "sha256": "d937f0b51f3bf4484c293f377091db35cdadac06c1ef74f9d2aa39df66c2e4d9"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            }
+          ],
+          "accepted_published_bounded_basis": {
+            "published_repository_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+            "published_json_pointer": "/first15_independent_receiving_fragment/Rin_eight_complete_exact_purpose_meanings_and_source_scopes/0",
+            "published_record_id": "FIRST15-RIN-PURPOSE-O25",
+            "source_normal_tuple": {
+              "bytes": 28377,
+              "sha256": "143280da7ea65dd6b5f32440f75f0bc1f2018cf1d6697eb0ee53af09bd6d261d",
+              "repository_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3501_3502_DEEP_READING.md"
+            },
+            "actual_prior_connected_source_interval": [
+              35,
+              117
+            ],
+            "current_source_grade": "ADMITTED_WRITTEN_ANALYTICAL_NORMAL; SOURCE_PRIMARY_AND_PERFORMANCE_CUSTODY_ATTRIBUTED",
+            "current_agent_fresh_underlying_source_replay": false,
+            "published_record_exact_file_tuple": {
+              "bytes": 530518,
+              "sha256": "0c1b9c277ab4b504543232f09b2bb034b415fd2cec8363d49c53381768519386",
+              "git_blob_oid_of_actual_bytes": "9616e7df927bd040c71f6477b041aa0e1bb9a265"
+            },
+            "new_proposal_review_scope": "The complete GSC-specific question is compared with the accepted published bounded precision. The source audit’s earlier connected analytical receiving is attributed; this new artifact grants no fresh primary or performance replay."
+          },
+          "counterlimitations_and_ordinary_relevance": [
+            "The two GROUP3501–3502 vignettes do not establish the copied chosen-reading detail.",
+            "Digging, proposed reciprocal work/rest, baths and spontaneous snack sharing retain intrinsic ordinary value.",
+            "Kasumi reading in EVENT848 remains independently warranted; removing O025 specificity does not remove reading across Hot Springs material.",
+            "Local acceptance does not authorize unlimited labor, erase coercion or finish promised repair."
+          ],
+          "original_stronger_claim_debt_retained": "Any stronger source-specific office, permission, clinical, legal, identity, technical or chronology conclusion requires its own connected evidence; the represented actual ordinary end is preserved, no all-recipient repair is inferred.",
+          "original_source_local_actor_role_mode_boundary_retained": "Named/anonymous/collective/system/nonhuman roles and choice/inward/report/dream/conditional forms retain original local attribution; no generic officer identity or all-school knowledge join.",
+          "affected_existing_saved_body_claims": [
+            "GSC030"
+          ],
+          "claim_transition": "REVISE_UNSUPPORTED_SPECIFICITY_BY_ADDITIVE_CURRENT_QUALIFICATION; preserve earlier author and ROOT V4 literals, original judgments and all full inverses.",
+          "ROOT_literal_and_manual_semantic_adoption": "PENDING",
+          "new_personal_primary_native_raw_AV_source_admission_identity_model_package_named_milestone_credit": 0,
+          "source_or_low_stakes_exclusion": false
+        },
+        {
+          "id": "GSC134-PURPOSE-O071-CURRENT-20261013",
+          "owner_ref": 71,
+          "alias": "O071",
+          "original_purpose_grade": "SOURCE_BOUNDED_SUBSTANTIVE_INSTITUTIONAL_COMPARISON",
+          "source_class": "EVENT",
+          "admitted_analytical_argument": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_827/BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md",
+            "retained_immutable_evidence_identifier": "O071__071__EVENT__BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 36865,
+            "sha256": "9befa909be94b8b850aeda7a026f13232fe0459b2173c016fb10b8735ac1bdaa",
+            "git_blob_oid_of_actual_bytes": "adbbd39c91ea6439a374cda2b67e25238dd20449"
+          },
+          "original_author_actual_receiving_declaration": {
+            "prior_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "complete_original_prior_own_receiving": {
+              "literal_prior_receipt_associations": [
+                {
+                  "receipt_ref": 4,
+                  "pointer": "/analytical_inputs/25"
+                }
+              ],
+              "lossless_literal_scope_dictionary": {
+                "retained_immutable_evidence_identifier": "RIN_PRIOR_OWN_SCOPE_LOOKUP_WORKING_V1.json",
+                "bytes": 231228,
+                "sha256": "7b0dd3a25bfc73d843889a4998d365255eb7039b5b00c4b9ebb7c0f6ef3b8baf",
+                "git_blob_oid_of_actual_bytes": "e832809271281dda62bcce8d833cbaa6ebba7f69"
+              },
+              "whole_current_physical_file_fresh_read": false,
+              "scope_adjudication": "Actual own complete coherent accepted meaning through its endings is adequate at unchanged exact bytes; copied existence/title/name alone is not the basis."
+            },
+            "fresh_physical_whole_current_owner_here": false
+          },
+          "preserved_earlier_scalar": "EVENT827 police rest/work, resort service and citizen/commercial constraints test civic duty with ordinary pleasure. Public help and institutional pressure have different recipients; missing full accountability tail prevents universal police legitimacy or repair.",
+          "preserved_earlier_scalar_binding": {
+            "UTF8_bytes": 263,
+            "sha256": "cecf8759a5b4a4bb97afac10f87eae89f855c199b8cf1720f9465d4d8aff4edf"
+          },
+          "proposed_current_qualified_scalar": "EVENT827 RABBIT investigation, coastguard work/rest and coastal-village participation test civic duty with ordinary pleasure. Public help and institutional pressure have different recipients; the unprinted full accountability tail prevents universal official legitimacy or repair.",
+          "proposed_current_qualified_scalar_binding": {
+            "UTF8_bytes": 280,
+            "sha256": "a983521cf3791fccb143d7d690c7f73a87d6484d2320471d49753400b0fb9e87"
+          },
+          "complete_current_reason": "The supported source-local actors are RABBIT investigators, coastguard workers and the coastal village; the copied police/resort frame is not adequate.",
+          "two_exact_retained_literal_locations": [
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+              "json_pointer": "/items/2/complete_original_payload/rows/71/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 469257,
+                "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+                "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759"
+              },
+              "exact_original_scalar": "EVENT827 police rest/work, resort service and citizen/commercial constraints test civic duty with ordinary pleasure. Public help and institutional pressure have different recipients; missing full accountability tail prevents universal police legitimacy or repair.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 263,
+                "sha256": "cecf8759a5b4a4bb97afac10f87eae89f855c199b8cf1720f9465d4d8aff4edf"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            },
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+              "json_pointer": "/items/0/complete_original_payload/rows/71/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 409005,
+                "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+                "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0"
+              },
+              "exact_original_scalar": "EVENT827 police rest/work, resort service and citizen/commercial constraints test civic duty with ordinary pleasure. Public help and institutional pressure have different recipients; missing full accountability tail prevents universal police legitimacy or repair.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 263,
+                "sha256": "cecf8759a5b4a4bb97afac10f87eae89f855c199b8cf1720f9465d4d8aff4edf"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            }
+          ],
+          "accepted_published_bounded_basis": {
+            "published_repository_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+            "published_json_pointer": "/first15_independent_receiving_fragment/Rin_eight_complete_exact_purpose_meanings_and_source_scopes/2",
+            "published_record_id": "FIRST15-RIN-PURPOSE-O71",
+            "source_normal_tuple": {
+              "bytes": 36865,
+              "sha256": "9befa909be94b8b850aeda7a026f13232fe0459b2173c016fb10b8735ac1bdaa",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_827/BLUE_ARCHIVE_EVENT_827_CONTEXTUALIZATION_CHECKPOINT.md"
+            },
+            "actual_prior_connected_source_interval": [
+              74,
+              203
+            ],
+            "current_source_grade": "ADMITTED_WRITTEN_ANALYTICAL_NORMAL; SOURCE_PRIMARY_AND_PERFORMANCE_CUSTODY_ATTRIBUTED",
+            "current_agent_fresh_underlying_source_replay": false,
+            "published_record_exact_file_tuple": {
+              "bytes": 530518,
+              "sha256": "0c1b9c277ab4b504543232f09b2bb034b415fd2cec8363d49c53381768519386",
+              "git_blob_oid_of_actual_bytes": "9616e7df927bd040c71f6477b041aa0e1bb9a265"
+            },
+            "new_proposal_review_scope": "The complete GSC-specific question is compared with the accepted published bounded precision. The source audit’s earlier connected analytical receiving is attributed; this new artifact grants no fresh primary or performance replay."
+          },
+          "counterlimitations_and_ordinary_relevance": [
+            "RABBIT investigation, coastguard work/rest and coastal-village participants retain source-local ownership.",
+            "The qualifier does not establish global absence of police or resort activity beyond the accepted connected scope.",
+            "Help and ordinary enjoyment do not finish the unprinted accountability tail or authenticate universal official legitimacy."
+          ],
+          "original_stronger_claim_debt_retained": "Any stronger source-specific office, permission, clinical, legal, identity, technical or chronology conclusion requires its own connected evidence; the represented actual ordinary end is preserved, no all-recipient repair is inferred.",
+          "original_source_local_actor_role_mode_boundary_retained": "Named/anonymous/collective/system/nonhuman roles and choice/inward/report/dream/conditional forms retain original local attribution; no generic officer identity or all-school knowledge join.",
+          "affected_existing_saved_body_claims": [
+            "GSC030",
+            "GSC051"
+          ],
+          "claim_transition": "REVISE_UNSUPPORTED_SPECIFICITY_BY_ADDITIVE_CURRENT_QUALIFICATION; preserve earlier author and ROOT V4 literals, original judgments and all full inverses.",
+          "ROOT_literal_and_manual_semantic_adoption": "PENDING",
+          "new_personal_primary_native_raw_AV_source_admission_identity_model_package_named_milestone_credit": 0,
+          "source_or_low_stakes_exclusion": false
+        },
+        {
+          "id": "GSC134-PURPOSE-O073-CURRENT-20261013",
+          "owner_ref": 73,
+          "alias": "O073",
+          "original_purpose_grade": "SOURCE_BOUNDED_SUBSTANTIVE_INSTITUTIONAL_COMPARISON",
+          "source_class": "EVENT",
+          "admitted_analytical_argument": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_829/BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+            "retained_immutable_evidence_identifier": "O073__073__EVENT__BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 28281,
+            "sha256": "57117923544c6b734273ae6cd25ce51f124274a706c2c962acaa6fac1ef36885",
+            "git_blob_oid_of_actual_bytes": "5e68e89102efd8fa610420d572538db07cf35113"
+          },
+          "original_author_actual_receiving_declaration": {
+            "prior_own_receiving_grade": "FRESH_COMPLETE_CURRENT_ANALYTICAL_OWNER_WITH_RECORDED_DISPLAY_REPAIRS",
+            "complete_original_prior_own_receiving": {
+              "physical_line_ranges": [
+                [
+                  1,
+                  85
+                ],
+                [
+                  86,
+                  160
+                ]
+              ],
+              "actual_receiving": [
+                "cb5aae",
+                "fdc641"
+              ]
+            },
+            "fresh_physical_whole_current_owner_here": false
+          },
+          "preserved_earlier_scalar": "EVENT829 books, reader-maker gratitude and desired company test implementation of a collective project. Refused ratios, forced carrying and incomplete publication/profit retain costs; gratitude does not execute every bargain or remove labor pressure.",
+          "preserved_earlier_scalar_binding": {
+            "UTF8_bytes": 250,
+            "sha256": "e5a4422ba079cd438846a438bb7e44db0f6e4203fced88c4f8e3c18c44639e68"
+          },
+          "proposed_current_qualified_scalar": "EVENT829 books, reader-maker gratitude and desired company test implementation of a collective project. Refused appropriation, forced carrying and incomplete publication/profit retain costs; gratitude does not execute every bargain or remove labor pressure.",
+          "proposed_current_qualified_scalar_binding": {
+            "UTF8_bytes": 257,
+            "sha256": "51cc541f1d6cc7afc5a4ee12fbea0dcf39ab9e42e64a09e13b468073a2436da0"
+          },
+          "complete_current_reason": "The connected meaning supports refusal of appropriation without establishing the copied ratio specificity.",
+          "two_exact_retained_literal_locations": [
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+              "json_pointer": "/items/2/complete_original_payload/rows/73/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 469257,
+                "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+                "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759"
+              },
+              "exact_original_scalar": "EVENT829 books, reader-maker gratitude and desired company test implementation of a collective project. Refused ratios, forced carrying and incomplete publication/profit retain costs; gratitude does not execute every bargain or remove labor pressure.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 250,
+                "sha256": "e5a4422ba079cd438846a438bb7e44db0f6e4203fced88c4f8e3c18c44639e68"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            },
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+              "json_pointer": "/items/0/complete_original_payload/rows/73/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 409005,
+                "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+                "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0"
+              },
+              "exact_original_scalar": "EVENT829 books, reader-maker gratitude and desired company test implementation of a collective project. Refused ratios, forced carrying and incomplete publication/profit retain costs; gratitude does not execute every bargain or remove labor pressure.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 250,
+                "sha256": "e5a4422ba079cd438846a438bb7e44db0f6e4203fced88c4f8e3c18c44639e68"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            }
+          ],
+          "accepted_published_bounded_basis": {
+            "published_repository_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+            "published_json_pointer": "/first15_independent_receiving_fragment/Rin_eight_complete_exact_purpose_meanings_and_source_scopes/3",
+            "published_record_id": "FIRST15-RIN-PURPOSE-O73",
+            "source_normal_tuple": {
+              "bytes": 28281,
+              "sha256": "57117923544c6b734273ae6cd25ce51f124274a706c2c962acaa6fac1ef36885",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_829/BLUE_ARCHIVE_EVENT_829_CONTEXTUALIZATION_CHECKPOINT.md"
+            },
+            "actual_prior_connected_source_interval": [
+              79,
+              140
+            ],
+            "current_source_grade": "ADMITTED_WRITTEN_ANALYTICAL_NORMAL; SOURCE_PRIMARY_AND_PERFORMANCE_CUSTODY_ATTRIBUTED",
+            "current_agent_fresh_underlying_source_replay": false,
+            "published_record_exact_file_tuple": {
+              "bytes": 530518,
+              "sha256": "0c1b9c277ab4b504543232f09b2bb034b415fd2cec8363d49c53381768519386",
+              "git_blob_oid_of_actual_bytes": "9616e7df927bd040c71f6477b041aa0e1bb9a265"
+            },
+            "new_proposal_review_scope": "The complete GSC-specific question is compared with the accepted published bounded precision. The source audit’s earlier connected analytical receiving is attributed; this new artifact grants no fresh primary or performance replay."
+          },
+          "counterlimitations_and_ordinary_relevance": [
+            "Refused appropriation is supported; copied ratio specificity is unestablished at the recorded connected grade.",
+            "Books, reader-maker gratitude and wanted company remain substantive ends.",
+            "Forced carrying, incomplete publication/profit and labor pressure remain adverse or unfinished; gratitude does not execute every bargain."
+          ],
+          "original_stronger_claim_debt_retained": "Any stronger source-specific office, permission, clinical, legal, identity, technical or chronology conclusion requires its own connected evidence; the represented actual ordinary end is preserved, no all-recipient repair is inferred.",
+          "original_source_local_actor_role_mode_boundary_retained": "Named/anonymous/collective/system/nonhuman roles and choice/inward/report/dream/conditional forms retain original local attribution; no generic officer identity or all-school knowledge join.",
+          "affected_existing_saved_body_claims": [
+            "GSC030"
+          ],
+          "claim_transition": "REVISE_UNSUPPORTED_SPECIFICITY_BY_ADDITIVE_CURRENT_QUALIFICATION; preserve earlier author and ROOT V4 literals, original judgments and all full inverses.",
+          "ROOT_literal_and_manual_semantic_adoption": "PENDING",
+          "new_personal_primary_native_raw_AV_source_admission_identity_model_package_named_milestone_credit": 0,
+          "source_or_low_stakes_exclusion": false
+        },
+        {
+          "id": "GSC134-PURPOSE-O075-CURRENT-20261013",
+          "owner_ref": 75,
+          "alias": "O075",
+          "original_purpose_grade": "SOURCE_BOUNDED_SUBSTANTIVE_INSTITUTIONAL_COMPARISON",
+          "source_class": "EVENT",
+          "admitted_analytical_argument": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_831/BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+            "retained_immutable_evidence_identifier": "O075__075__EVENT__BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 29214,
+            "sha256": "e63b8c490a3f80c8cc04f9079b927313b120cf91995e2cdc62a9b98a18eea24a",
+            "git_blob_oid_of_actual_bytes": "6e54e9131a3d70749584a49bed379fcacf926b63"
+          },
+          "original_author_actual_receiving_declaration": {
+            "prior_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "complete_original_prior_own_receiving": {
+              "literal_prior_receipt_associations": [
+                {
+                  "receipt_ref": 4,
+                  "pointer": "/analytical_inputs/20"
+                }
+              ],
+              "lossless_literal_scope_dictionary": {
+                "retained_immutable_evidence_identifier": "RIN_PRIOR_OWN_SCOPE_LOOKUP_WORKING_V1.json",
+                "bytes": 231228,
+                "sha256": "7b0dd3a25bfc73d843889a4998d365255eb7039b5b00c4b9ebb7c0f6ef3b8baf",
+                "git_blob_oid_of_actual_bytes": "e832809271281dda62bcce8d833cbaa6ebba7f69"
+              },
+              "whole_current_physical_file_fresh_read": false,
+              "scope_adjudication": "Actual own complete coherent accepted meaning through its endings is adequate at unchanged exact bytes; copied existence/title/name alone is not the basis."
+            },
+            "fresh_physical_whole_current_owner_here": false
+          },
+          "preserved_earlier_scalar": "EVENT831 Engineering festival contribution and maker/client ordinary wants test volunteered assistance versus presumed skill. A product and local win matter; they do not authenticate all safety, willingness or future repair.",
+          "preserved_earlier_scalar_binding": {
+            "UTF8_bytes": 224,
+            "sha256": "989ee2e8198118e07cd20e3f1f223679eb1fa2ce27613df45fd6a5ed4a473323"
+          },
+          "proposed_current_qualified_scalar": "EVENT831 Engineering contribution and maker/client ordinary wants test volunteered assistance versus presumed skill. A product and local win matter; they do not authenticate all safety, willingness or future repair.",
+          "proposed_current_qualified_scalar_binding": {
+            "UTF8_bytes": 215,
+            "sha256": "63b1b5b56c595fdec56c6d7504abdcc95d26aecd9bde678f88b668b0c6bbe110"
+          },
+          "complete_current_reason": "Engineering hosting/manufacture, visitor wants and bodily/technical limits are supported; festival purpose is unestablished in the received interval.",
+          "two_exact_retained_literal_locations": [
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+              "json_pointer": "/items/2/complete_original_payload/rows/75/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 469257,
+                "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+                "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759"
+              },
+              "exact_original_scalar": "EVENT831 Engineering festival contribution and maker/client ordinary wants test volunteered assistance versus presumed skill. A product and local win matter; they do not authenticate all safety, willingness or future repair.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 224,
+                "sha256": "989ee2e8198118e07cd20e3f1f223679eb1fa2ce27613df45fd6a5ed4a473323"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            },
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+              "json_pointer": "/items/0/complete_original_payload/rows/75/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 409005,
+                "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+                "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0"
+              },
+              "exact_original_scalar": "EVENT831 Engineering festival contribution and maker/client ordinary wants test volunteered assistance versus presumed skill. A product and local win matter; they do not authenticate all safety, willingness or future repair.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 224,
+                "sha256": "989ee2e8198118e07cd20e3f1f223679eb1fa2ce27613df45fd6a5ed4a473323"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            }
+          ],
+          "accepted_published_bounded_basis": {
+            "published_repository_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+            "published_json_pointer": "/first15_independent_receiving_fragment/Rin_eight_complete_exact_purpose_meanings_and_source_scopes/4",
+            "published_record_id": "FIRST15-RIN-PURPOSE-O75",
+            "source_normal_tuple": {
+              "bytes": 29214,
+              "sha256": "e63b8c490a3f80c8cc04f9079b927313b120cf91995e2cdc62a9b98a18eea24a",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_831/BLUE_ARCHIVE_EVENT_831_CONTEXTUALIZATION_CHECKPOINT.md"
+            },
+            "actual_prior_connected_source_interval": [
+              73,
+              133
+            ],
+            "current_source_grade": "ADMITTED_WRITTEN_ANALYTICAL_NORMAL; SOURCE_PRIMARY_AND_PERFORMANCE_CUSTODY_ATTRIBUTED",
+            "current_agent_fresh_underlying_source_replay": false,
+            "published_record_exact_file_tuple": {
+              "bytes": 530518,
+              "sha256": "0c1b9c277ab4b504543232f09b2bb034b415fd2cec8363d49c53381768519386",
+              "git_blob_oid_of_actual_bytes": "9616e7df927bd040c71f6477b041aa0e1bb9a265"
+            },
+            "new_proposal_review_scope": "The complete GSC-specific question is compared with the accepted published bounded precision. The source audit’s earlier connected analytical receiving is attributed; this new artifact grants no fresh primary or performance replay."
+          },
+          "counterlimitations_and_ordinary_relevance": [
+            "Engineering contribution, hosting/manufacture and visitor wants are supported; a festival purpose is unestablished in the received interval.",
+            "The qualifier does not assign the interrupted afternoon rest to Eimi; the published Sensei-rest actor qualification remains governing where used.",
+            "A product and local win remain positive results without authenticating all safety, recipient willingness or future repair."
+          ],
+          "original_stronger_claim_debt_retained": "Any stronger source-specific office, permission, clinical, legal, identity, technical or chronology conclusion requires its own connected evidence; the represented actual ordinary end is preserved, no all-recipient repair is inferred.",
+          "original_source_local_actor_role_mode_boundary_retained": "Named/anonymous/collective/system/nonhuman roles and choice/inward/report/dream/conditional forms retain original local attribution; no generic officer identity or all-school knowledge join.",
+          "affected_existing_saved_body_claims": [
+            "GSC030"
+          ],
+          "claim_transition": "REVISE_UNSUPPORTED_SPECIFICITY_BY_ADDITIVE_CURRENT_QUALIFICATION; preserve earlier author and ROOT V4 literals, original judgments and all full inverses.",
+          "ROOT_literal_and_manual_semantic_adoption": "PENDING",
+          "new_personal_primary_native_raw_AV_source_admission_identity_model_package_named_milestone_credit": 0,
+          "source_or_low_stakes_exclusion": false
+        },
+        {
+          "id": "GSC134-PURPOSE-O079-CURRENT-20261013",
+          "owner_ref": 79,
+          "alias": "O079",
+          "original_purpose_grade": "SOURCE_BOUNDED_SUBSTANTIVE_INSTITUTIONAL_COMPARISON",
+          "source_class": "EVENT",
+          "admitted_analytical_argument": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+            "retained_immutable_evidence_identifier": "O079__079__EVENT__BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 28709,
+            "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+            "git_blob_oid_of_actual_bytes": "68db40033aca83ee8ecfa3b1d7e60c329fb0b1a6"
+          },
+          "original_author_actual_receiving_declaration": {
+            "prior_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "complete_original_prior_own_receiving": {
+              "literal_prior_receipt_associations": [
+                {
+                  "receipt_ref": 3,
+                  "pointer": "/analytical_inputs/18"
+                },
+                {
+                  "receipt_ref": 9,
+                  "pointer": "/analytical_inputs/15"
+                }
+              ],
+              "lossless_literal_scope_dictionary": {
+                "retained_immutable_evidence_identifier": "RIN_PRIOR_OWN_SCOPE_LOOKUP_WORKING_V1.json",
+                "bytes": 231228,
+                "sha256": "7b0dd3a25bfc73d843889a4998d365255eb7039b5b00c4b9ebb7c0f6ef3b8baf",
+                "git_blob_oid_of_actual_bytes": "e832809271281dda62bcce8d833cbaa6ebba7f69"
+              },
+              "whole_current_physical_file_fresh_read": false,
+              "scope_adjudication": "Actual own complete coherent accepted meaning through its endings is adequate at unchanged exact bytes; copied existence/title/name alone is not the basis."
+            },
+            "fresh_physical_whole_current_owner_here": false
+          },
+          "preserved_earlier_scalar": "EVENT835 river/play and leadership obligations test revived companionship against tradition and public service. Actual aid and joy remain positive; ritual accounts, collective assent and permanent reform are not authenticated by a local success.",
+          "preserved_earlier_scalar_binding": {
+            "UTF8_bytes": 245,
+            "sha256": "55580e99350727adc11fe0280f7c175c4eebe6512a197dcb7e561db03251406a"
+          },
+          "proposed_current_qualified_scalar": "EVENT835 Hyakkiyako school-trip/festival pleasures and hosting obligations test revived companionship against tradition and public service. Actual aid and joy remain positive; ritual accounts, collective assent and permanent reform are not authenticated by a local success.",
+          "proposed_current_qualified_scalar_binding": {
+            "UTF8_bytes": 273,
+            "sha256": "4720ffab3746bf8b604b42fcad555263332a4a2e774ca246754ed676c4809db1"
+          },
+          "complete_current_reason": "Hyakkiyako school-trip/festival pleasures and hosting are supported; the copied river detail is unestablished at this grade.",
+          "two_exact_retained_literal_locations": [
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+              "json_pointer": "/items/2/complete_original_payload/rows/79/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 469257,
+                "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+                "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759"
+              },
+              "exact_original_scalar": "EVENT835 river/play and leadership obligations test revived companionship against tradition and public service. Actual aid and joy remain positive; ritual accounts, collective assent and permanent reform are not authenticated by a local success.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 245,
+                "sha256": "55580e99350727adc11fe0280f7c175c4eebe6512a197dcb7e561db03251406a"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            },
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+              "json_pointer": "/items/0/complete_original_payload/rows/79/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 409005,
+                "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+                "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0"
+              },
+              "exact_original_scalar": "EVENT835 river/play and leadership obligations test revived companionship against tradition and public service. Actual aid and joy remain positive; ritual accounts, collective assent and permanent reform are not authenticated by a local success.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 245,
+                "sha256": "55580e99350727adc11fe0280f7c175c4eebe6512a197dcb7e561db03251406a"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            }
+          ],
+          "accepted_published_bounded_basis": {
+            "published_repository_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+            "published_json_pointer": "/first15_independent_receiving_fragment/Rin_eight_complete_exact_purpose_meanings_and_source_scopes/5",
+            "published_record_id": "FIRST15-RIN-PURPOSE-O79",
+            "source_normal_tuple": {
+              "bytes": 28709,
+              "sha256": "23a5cb25f1b504b5e4dee8bf920f939e5e9faa8822f1c35d6d5932f6f720651b",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md"
+            },
+            "actual_prior_connected_source_interval": [
+              72,
+              133
+            ],
+            "current_source_grade": "ADMITTED_WRITTEN_ANALYTICAL_NORMAL; SOURCE_PRIMARY_AND_PERFORMANCE_CUSTODY_ATTRIBUTED",
+            "current_agent_fresh_underlying_source_replay": false,
+            "published_record_exact_file_tuple": {
+              "bytes": 530518,
+              "sha256": "0c1b9c277ab4b504543232f09b2bb034b415fd2cec8363d49c53381768519386",
+              "git_blob_oid_of_actual_bytes": "9616e7df927bd040c71f6477b041aa0e1bb9a265"
+            },
+            "new_proposal_review_scope": "The complete GSC-specific question is compared with the accepted published bounded precision. The source audit’s earlier connected analytical receiving is attributed; this new artifact grants no fresh primary or performance replay."
+          },
+          "counterlimitations_and_ordinary_relevance": [
+            "Hyakkiyako school-trip/festival pleasure and hosting obligations are supported; copied river specificity is unestablished at this grade.",
+            "Actual aid and joy retain ordinary value without merging school membership, recipient assent or story chronology.",
+            "Ritual history, collective assent and permanent reform are not authenticated by a local success."
+          ],
+          "original_stronger_claim_debt_retained": "Any stronger source-specific office, permission, clinical, legal, identity, technical or chronology conclusion requires its own connected evidence; the represented actual ordinary end is preserved, no all-recipient repair is inferred.",
+          "original_source_local_actor_role_mode_boundary_retained": "Named/anonymous/collective/system/nonhuman roles and choice/inward/report/dream/conditional forms retain original local attribution; no generic officer identity or all-school knowledge join.",
+          "affected_existing_saved_body_claims": [
+            "GSC030"
+          ],
+          "claim_transition": "REVISE_UNSUPPORTED_SPECIFICITY_BY_ADDITIVE_CURRENT_QUALIFICATION; preserve earlier author and ROOT V4 literals, original judgments and all full inverses.",
+          "ROOT_literal_and_manual_semantic_adoption": "PENDING",
+          "new_personal_primary_native_raw_AV_source_admission_identity_model_package_named_milestone_credit": 0,
+          "source_or_low_stakes_exclusion": false
+        },
+        {
+          "id": "GSC134-PURPOSE-O087-CURRENT-20261013",
+          "owner_ref": 87,
+          "alias": "O087",
+          "original_purpose_grade": "SOURCE_BOUNDED_SUBSTANTIVE_INSTITUTIONAL_COMPARISON",
+          "source_class": "EVENT",
+          "admitted_analytical_argument": {
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+            "retained_immutable_evidence_identifier": "O087__087__EVENT__BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md",
+            "bytes": 26925,
+            "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+            "git_blob_oid_of_actual_bytes": "9f210324ba71ed86e21f112b0956f2c371c5f43a"
+          },
+          "original_author_actual_receiving_declaration": {
+            "prior_own_receiving_grade": "ADEQUATE_EXACT_PRIOR_OWN_COMPLETE_ANALYTICAL_MEANING_REUSED",
+            "complete_original_prior_own_receiving": {
+              "literal_prior_receipt_associations": [
+                {
+                  "receipt_ref": 0,
+                  "pointer": "/complete_analytical_inputs/24"
+                }
+              ],
+              "lossless_literal_scope_dictionary": {
+                "retained_immutable_evidence_identifier": "RIN_PRIOR_OWN_SCOPE_LOOKUP_WORKING_V1.json",
+                "bytes": 231228,
+                "sha256": "7b0dd3a25bfc73d843889a4998d365255eb7039b5b00c4b9ebb7c0f6ef3b8baf",
+                "git_blob_oid_of_actual_bytes": "e832809271281dda62bcce8d833cbaa6ebba7f69"
+              },
+              "whole_current_physical_file_fresh_read": false,
+              "scope_adjudication": "Actual own complete coherent accepted meaning through its endings is adequate at unchanged exact bytes; copied existence/title/name alone is not the basis."
+            },
+            "fresh_physical_whole_current_owner_here": false
+          },
+          "preserved_earlier_scalar": "EVENT843 C&C self-proof and wanted company test student operative life under protective control. Competence and affection coexist with constrained recipients; neither supplies informed permission for every method or completed institutional restraint.",
+          "preserved_earlier_scalar_binding": {
+            "UTF8_bytes": 250,
+            "sha256": "940f0d210621d6bd1af4a18881b48f60a3e75d0bd01946113a978d44ac0a8203"
+          },
+          "proposed_current_qualified_scalar": "EVENT843 Seia and Rio’s qualification/self-proof wishes, C&C accompaniment, Neru’s direct refusals and Karin’s information request test operative protection against independent recipients’ purposes. Wanted company and negotiated one-week participation retain independent value; competence and affection do not supply blanket consent, completed institutional restraint or restored prophecy.",
+          "proposed_current_qualified_scalar_binding": {
+            "UTF8_bytes": 397,
+            "sha256": "224f7e782182f279150e05a6860e792ddc2f337cac9dec2c11c83fd67311cc1c"
+          },
+          "complete_current_reason": "The self-proof wishes belong to Seia and Rio. C&C accompaniment, Neru refusals, Karin information and negotiated one-week participation retain separate owners.",
+          "two_exact_retained_literal_locations": [
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+              "json_pointer": "/items/2/complete_original_payload/rows/87/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 469257,
+                "sha256": "f1b5099fec4dc0480b41d6d9c993f853f37fa5b244057e708b5d43635ecdde10",
+                "git_blob_oid_of_actual_bytes": "b74ad3440d8994f6d1ffe96c08c009294734a759"
+              },
+              "exact_original_scalar": "EVENT843 C&C self-proof and wanted company test student operative life under protective control. Competence and affection coexist with constrained recipients; neither supplies informed permission for every method or completed institutional restraint.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 250,
+                "sha256": "940f0d210621d6bd1af4a18881b48f60a3e75d0bd01946113a978d44ac0a8203"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            },
+            {
+              "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+              "json_pointer": "/items/0/complete_original_payload/rows/87/complete_new_GSC_source_specific_question_and_finite_result",
+              "held_carrier_beforeimage_tuple": {
+                "bytes": 409005,
+                "sha256": "1e575f199391606a8d5d2f97934474e9ac624042bb6bc70aadb212b1662c399c",
+                "git_blob_oid_of_actual_bytes": "c25d5642cfa2d8788972f79bce6fb5b9b081bdb0"
+              },
+              "exact_original_scalar": "EVENT843 C&C self-proof and wanted company test student operative life under protective control. Competence and affection coexist with constrained recipients; neither supplies informed permission for every method or completed institutional restraint.",
+              "exact_original_scalar_binding": {
+                "UTF8_bytes": 250,
+                "sha256": "940f0d210621d6bd1af4a18881b48f60a3e75d0bd01946113a978d44ac0a8203"
+              },
+              "preserve_original_scalar_and_ancestors": true
+            }
+          ],
+          "accepted_published_bounded_basis": {
+            "published_repository_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+            "published_json_pointer": "/first15_independent_receiving_fragment/Rin_eight_complete_exact_purpose_meanings_and_source_scopes/7",
+            "published_record_id": "FIRST15-RIN-PURPOSE-O87",
+            "source_normal_tuple": {
+              "bytes": 26925,
+              "sha256": "0c66b3db028ac9330ceee3cfd730b3969f5879f19bb459dce6ce73cd9077ec6d",
+              "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_843/BLUE_ARCHIVE_EVENT_843_CONTEXTUALIZATION_CHECKPOINT.md"
+            },
+            "actual_prior_connected_source_interval": [
+              72,
+              126
+            ],
+            "current_source_grade": "ADMITTED_WRITTEN_ANALYTICAL_NORMAL; SOURCE_PRIMARY_AND_PERFORMANCE_CUSTODY_ATTRIBUTED",
+            "current_agent_fresh_underlying_source_replay": false,
+            "published_record_exact_file_tuple": {
+              "bytes": 530518,
+              "sha256": "0c1b9c277ab4b504543232f09b2bb034b415fd2cec8363d49c53381768519386",
+              "git_blob_oid_of_actual_bytes": "9616e7df927bd040c71f6477b041aa0e1bb9a265"
+            },
+            "new_proposal_review_scope": "The complete GSC-specific question is compared with the accepted published bounded precision. The source audit’s earlier connected analytical receiving is attributed; this new artifact grants no fresh primary or performance replay."
+          },
+          "counterlimitations_and_ordinary_relevance": [
+            "Seia and Rio own the qualification/self-proof wishes; C&C accompaniment is a distinct purpose and act.",
+            "Neru direct refusals, Karin information requests and negotiated one-week participation preserve independent recipient answers.",
+            "Competence and affection do not supply blanket consent, completed institutional restraint or restored prophecy."
+          ],
+          "original_stronger_claim_debt_retained": "Any stronger source-specific office, permission, clinical, legal, identity, technical or chronology conclusion requires its own connected evidence; the represented actual ordinary end is preserved, no all-recipient repair is inferred.",
+          "original_source_local_actor_role_mode_boundary_retained": "Named/anonymous/collective/system/nonhuman roles and choice/inward/report/dream/conditional forms retain original local attribution; no generic officer identity or all-school knowledge join.",
+          "affected_existing_saved_body_claims": [
+            "GSC030"
+          ],
+          "claim_transition": "REVISE_UNSUPPORTED_SPECIFICITY_BY_ADDITIVE_CURRENT_QUALIFICATION; preserve earlier author and ROOT V4 literals, original judgments and all full inverses.",
+          "ROOT_literal_and_manual_semantic_adoption": "PENDING",
+          "new_personal_primary_native_raw_AV_source_admission_identity_model_package_named_milestone_credit": 0,
+          "source_or_low_stakes_exclusion": false
+        }
+      ]
+    },
+    "retained_binding_anchors": {
+      "original_GSC_author_body": {
+        "bytes": 49478,
+        "sha256": "b57079f2db77d13dfbf8984e379e0359b3021a22db927e110b2ed23c9d087572",
+        "git_blob_oid_of_actual_bytes": "07faf4f6c82a6c152d7aea9aa0dbdc39e23b5ffb"
+      },
+      "original_author_manifest": {
+        "bytes": 52792,
+        "sha256": "b8c1be8ed2e48d560bd0f5e202cf4853c27bfdd83423642d1c49d403a0b51722",
+        "git_blob_oid_of_actual_bytes": "87d3e62bccb4d120b8afb2d84874b8a3c8df9691"
+      },
+      "original_author_freeze": {
+        "bytes": 906,
+        "sha256": "9e62d2b4c383a055bdf65487c0d4bce3cbe871f6a730566312768c637f376cfc",
+        "git_blob_oid_of_actual_bytes": "1ebdfaf49acd9aeace6ec98ff7b25ba62293bf08"
+      },
+      "frozen_author_purposeV3": {
+        "retained_immutable_evidence_identifier": "GSC_SCHALE105_SOURCE_SPECIFIC_PURPOSE_AND_ACTUAL_SCOPE_V3.json",
+        "bytes": 374795,
+        "sha256": "fdb43736315d7ce3cb942e488c391dbe30e3088e06100ea823edf7d0b5231139",
+        "git_blob_oid_of_actual_bytes": "422c1b01646fcc2c80b3f4090e034cde67eac082"
+      },
+      "earlier_ROOT_purposeV4": {
+        "retained_immutable_evidence_identifier": "GSC_COMPLETE_PURPOSE105_ROOT_O102_ATTRIBUTION_QUALIFIED_V4.json",
+        "bytes": 375156,
+        "sha256": "c8ed12e6e35cae20a0f07f1ef2355308bba88a12be03f014e5f1f018459b82a1",
+        "git_blob_oid_of_actual_bytes": "2a31e31e67099c2795d5b7a5eaa6dd60fb65fb3f"
+      },
+      "held_proposal_manifest": {
+        "retained_immutable_evidence_identifier": "GSC134_EXACT_CANONICAL_C_ONLY_PROPOSAL_MANIFEST_V1.json",
+        "bytes": 135378,
+        "sha256": "0ea15cd89ab54f52a91c72846754408d7d501c2ebe138dd3a5e08b63b9e66ee3",
+        "git_blob_oid_of_actual_bytes": "c16560b2f534ccaf45629e3bf440787f464181b8"
+      },
+      "existing_O102_qualified_attribution": "The existing V4 O102 qualification remains operative and unchanged: EVENT861 hospitality/navigation/debt/extraction/rescue/work is separate from MAIN_S2_V003 Sammy death/grief; no event funeral, animal-consent join or inter-story chronology.",
+      "existing_owner68_fresh_scope_fix": "Keep sourceV2’s owner68 fresh-whole boolean qualification and its full original inverse; historical sourceV1 false and purposeV4 true remain attributed as already qualified. This six-purpose layer changes neither."
+    },
+    "reference_binding_contract_for_ROOT": {
+      "one_layer_reference_key": "current_gsc_purpose_qualification_20261013_v1",
+      "prospective_reference_object_fields": [
+        "layer_id",
+        "repository_path",
+        "bytes",
+        "sha256",
+        "git_blob_oid_of_actual_bytes",
+        "ROOT_receiving_disposition"
+      ],
+      "reference_layer_id": "GSC134_CURRENT_PURPOSE_SUCCESSORS_20261013_V1",
+      "reference_repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+      "held_carriers": [
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_AUTHOR_ATTACHMENTS_PART_03_V1.json"
+      ],
+      "receipts_may_reference_the_same_single_layer": [
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+        "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json"
+      ],
+      "actual_attachment_or_receipt_mutation_from_this_preparation": false,
+      "ROOT_obligation": "Record exact actual before/after carrier bytes, new artifact/reference tuples and complete insertion inverses when adding the reference. Keep every original item and old tuple, including prior V4, unchanged. A reference must identify this one layer rather than create a conflicting duplicate set of purpose decisions."
+    },
+    "exact_remove_layer_inverse_recipe": {
+      "artifact_before_this_layer": "ABSENT",
+      "original_scalar_values_and_hashes": "All six complete earlier scalars and hashes and all12 exact pointers appear losslessly in records; they are retained in both original attachment payloads.",
+      "future_reference_inverse_required_before_installation": [
+        "For each actual ROOT-authored reference insertion, bind the complete exact carrier beforeimage and afterimage byte tuples, byte offset, inserted UTF8 span and original replaced tail/terminator bytes. The base for this recipe is the exact carrier immediately before adding this six-purpose reference, preserving other independently adopted current-state changes.",
+        "Remove only the recorded reference span associated with this layer_id and restore its recorded original tail/terminator bytes; keep every unaffected prefix, original item, qualifier, tuple and field unchanged. Reject an inverse if its afterimage, offset or inserted literal differs from the bound actual installation.",
+        "Verify the restored complete carrier bytes equal its bound pre-layer tuple, and verify all12 old scalar pointers and SHA256 values still agree. This restores the pre-layer meaning/custody without rolling back O102, owner68 or any other accepted correction.",
+        "Remove this standalone artifact only as the exact new-file inverse after all references to this layer are removed and its bytes match the bound saved artifact tuple. No existing artifact or original inverse is deleted or rewritten."
+      ],
+      "byte_exact_inverse_executed_now": false,
+      "reason_not_executed": "No attachment reference is installed by this preparer; the complete actual insertion before/after proof belongs to ROOT’s later operation. This is the exact required recipe, not a claim of an already executed repository inverse.",
+      "C_proposal_original_inputs_unchanged": true
+    },
+    "preserved_boundaries": {
+      "all14_original_gaps": "OPEN; claim-specific",
+      "models": 0,
+      "required_packages": 355,
+      "required_named_duties": 29,
+      "named_parents": 25,
+      "required_homes": 384,
+      "navigation_rows": 788,
+      "milestones": [
+        89,
+        178,
+        267,
+        355
+      ],
+      "existing_published_before_GSC_installation": 133,
+      "existing_completed_named_duties_before_GSC_installation": 13,
+      "completion_promotion_from_this_layer": 0,
+      "PR151_controller": "UNCHANGED",
+      "PR152_seven_corrections_and43_retained_fields": "UNCHANGED",
+      "all133_current_published_qualifiers": "PRESERVE",
+      "ordinary_intrinsic_value": "Food, games, taste, rest, craft, reading and company remain substantial source-local ends. Unsupported detail precision never supplies a stakes-only reason to discard character-building evidence.",
+      "unreceived_channels": "No new primary/native/raw/AV/performed/language/identity/independence/source-admission or model credit."
+    },
+    "ROOT_remaining_gate": "Manually receive and adopt the complete six proposed questions, rebase the separate15 held target metadata/body-framing work on verified current bytes, record exact inverses/bindings and run the applicable new-head repository publication chain. This candidate layer performs no installation, staging, test, commit, push or merge.",
+    "current_ROOT_manual_adoption_20261013": {
+      "decision": "ROOT_ADOPTED_WITH_LIMITS_AS_CURRENT_PURPOSE_SUCCESSORS",
+      "historical_proposal_status_role": "The original proposal and preparer-stage pending fields above remain unchanged creation history; this dated ROOT adoption satisfies their semantic activation condition. Exact canonical installation and publication remain separate pending operations.",
+      "ROOT_adoption_evidence_id": "ROOT_GSC134_MANUAL_CURRENT_ARGUMENT_AND_SIX_PURPOSE_ADOPTION_V1.json",
+      "ROOT_adoption_binding": {
+        "bytes": 7021,
+        "sha256": "e3623af7645a01623c2ae1a6fe803695c690324f6a30afe65a0e3a4b8d8a7328",
+        "git_blob_oid_of_actual_bytes": "199d67b3482fe222b7b9a6a65321c4601db7034b"
+      },
+      "held_proposal_binding": {
+        "bytes": 60499,
+        "sha256": "3607b29cb2af392ec43f96c861860e1d5211293d11acfd33fc610718b3055117",
+        "git_blob_oid_of_actual_bytes": "bf0192736ab5dbdf12b15b9d2931041b69cb1e29"
+      },
+      "current_published_source": "e748bf863ac674b3b215a9c132dbffb8533b1b43",
+      "integrated_main": "0ed395926cca502fe1461d8c172330baab99e70e",
+      "owners": [
+        25,
+        71,
+        73,
+        75,
+        79,
+        87
+      ],
+      "all14_original_gaps": "OPEN",
+      "models": 0,
+      "new_credits": 0
+    }
+  },
+  "current_published_GSC_coffee_binding": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679",
+    "scope": "Only existing published GSC nine original files/body72/body148 and fourteen saved aliases,16 retained fields. Adult prepares coffee suited to Ayumu; Ayumu offers chocolate. This is separate from61767 six common105 qualification roles, not a blanket whole105/GSC-relationship pass.",
+    "private_complete_original_raw_evidence_id": "private-witness:VERITAS-PUBLISHED-COFFEE59334"
+  },
+  "new_VP094_source_specific_precision": {
+    "source_repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_850/BLUE_ARCHIVE_EVENT_850_CONTEXTUALIZATION_CHECKPOINT.md",
+    "bytes": 28418,
+    "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+    "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83",
+    "selected_lines": [
+      81,
+      100
+    ],
+    "actual_own_receiving_reused": "687a24",
+    "grade": "ADEQUATE_PRIOR_OWN_SELECTED_MAINTAINED_ANALYTICAL_ACTOR_AND_READING_ACCESS_ARGUMENT_REUSED;NO_NEW_PRIMARY_NATIVE_AV",
+    "current_meaning": "Ritsu favorite-author/sculpture/material interests are separate from Miyo wanted romance novels and refusal to let Teacher read one; no refusal-to-write inference. Frozen complete O094 row remains exact creation history. No Veritas attendance or Library QA/adoption transfer.",
+    "complete_selected_maintained_UTF8": "003:scene001 clarifies that Ritsu's planting is deliveries, not a body burial. She names sculpture and trading as hobby/skill and sculpture as major. Her offering Teacher clothes after a reported embarrassing news story is a wanted helpful gesture, politely declined, not completed dressing or verified whole earlier history. Delivery points show a student happily retrieving desired fried chicken and another receiving banned paint to finish work. The painting ban is explained through alleged insecticide danger; narrator's impression that inspected goods were less alarming than imagined does not prove all goods harmless. Other routes exist by club report, but the observed few are the actual scope.\n\n003:scene004 turns planning into a literary work: Fuyu and Ritsu praise Miyo's routes and encounter scripts. Their praise matters, but Miyo says it is embarrassing and initially refuses the next large commission. Fuyu introduces the rare キューティーベリー87, which Miyo has long wanted, then the prospect of enough pay to buy several. Its description includes an attached directional antipersonnel mine, a counterpoint to simplistic harmless collecting and Fuyu's own cool catapult. Miyo's affection for a commercially rejected device and aesthetic language are intrinsic desires, not pathology, nor automatically superior judgment. The temptation wins permission to hear the commission, not immediate unconditional acceptance.\n\n004 flashes back to the preceding day. Fuyu explicitly refuses a proposed painting removal as theft and jokingly rejects nonexistent robbery/thief clubs, then hears the client's claimed past forgery, remorse and wish to substitute a true painting. She suggests truthful disclosure to the foundation and asks how the client proves which painting is genuine (scene002:u0053–0076). Technical/commercial confidence coexists with moral and attribution questions. The client's offer to let them destroy or retain the removed work without public display persuades, but it is a claim offered as evidence, not independent authentication. His disdain for ignorant audiences and wish to erase his record qualify the remorse story.\n\nFuyu has received the purported genuine painting but has not independently accepted the commission; she says she will return it if Miyo refuses. Ritsu calls it pretty, Miyo is excited to see it close and the projected payment would fund wanted fine marble as well as the typewriter. Teacher says monitoring and trust in students make the job acceptable, while Miyo maintains it is money-driven theft. She agrees with an inward resolution that it will be her last job (u0123–0136). Teacher's reassurance is part of the pressure/confidence structure, not the analyst's certification of legality or truth.\n\n3. Affection, fatigue and an inadequate first plot\n005:scene001 Ritsu's hammer is actually preparation for sculpture, not Fuyu's joke about striking Miyo awake. Miyo spent the night designing the operation, dislikes its direction rather than all her writing, and is warmed by Ritsu's favorite-author declaration. Fuyu asks for comparable affection and is ignored. These unequal responses are not unanimous peer appreciation or completed intimacy. Miyo proposes targeting storage before exhibition; she refuses smashing the wall, partly because repair was not funded. Her expertise is printed planning, not faultless forecasting.\n\nHiromi in scene002 is a literature peer and Dormitory Guard deputy. Both have signs/reports of fatigue. Guarding the exhibition has crowded out smuggling enforcement. She feels able to relax with Miyo because she believes her uninvolved; Miyo's inward apology preserves the compromised trust, without a confession or later repaired friendship being printed. Miyo notices Hiromi's subdued voice and asks; Hiromi shares a thief's warning letter. That attentiveness has ordinary relational value even as the secret activity frustrates Hiromi's work.\n\n006 distinguishes Miyo's copied text from the original kept by guards. The warning is no longer treated as confidential because no one can decipher it, per Miyo's report. Stronger security defeats her first all-night plan and requires rewriting. In the library Miyo helps Eri with dropped books, asks painting questions and uses Eri's proposed lapis/ultramarine link to redirect research toward pigments. Eri explicitly denies general gem expertise, grounding it in her painting studies. Occult book titles supply a reading repertoire, not successful magic or a verified metaphysics. All etymology/material-history explanations remain the characters' source-local reasoning; no external scientific verification is claimed.\n\n007 completes the collaborative interpretation: Miyo proposes costly blue/purple pigments and royal exclusivity, Ritsu recognizes the title's relevant painting, Fuyu contributes media-art/photography knowledge and distinguishes sunrise from sunset; Ritsu supplies the closing-doors clue. The interpretation concludes おそらく, and the actual later evening appearance supports the local fit. Not all textual reasoning becomes universally true art history. Teacher brings cake, Ritsu actually praises/eats it, and Fuyu's plan to turn Teacher into an import business is explicitly refused. Welcome food and a commercial boundary coexist.\n\nMiyo reframes the job so the thief removes the stored purported forgery while the club inserts the supposedly true work. She resents praise for criminal talent and says she wanted romance novels; when Teacher wants to read one she explicitly refuses (u0063–0074). Respect her desired genre and refusal. She elects to support the thief, trusting a report that stolen works never return to circulation; that mistaken authentication premise and strategic hope must reach the later outcome.\n\n4. Art liberation and keeping art from others are in tension"
+  },
+  "105_prior_meaning_receiving_grade": "Own complete bounded prior-purpose question/meaning/counter/finite/trigger/report-grade fields read now in the named batches, with earlier own complete Library105 report-purpose receiving reusable at its disclosed grade. No fresh whole105 normals or primary/native/raw/AV. Only O004 and O076 also match coreS05/S06 owned full maintained carriers.",
+  "actual_prior_purpose_field_receiving": [
+    {
+      "owners": [
+        0,
+        9
+      ],
+      "refs": [
+        "908a62 completeO000",
+        "c60028 complete selected prior purpose semanticsO001–009"
+      ]
+    },
+    {
+      "owners": [
+        10,
+        19
+      ],
+      "refs": [
+        "2364ee"
+      ]
+    },
+    {
+      "owners": [
+        20,
+        29
+      ],
+      "refs": [
+        "935239"
+      ]
+    },
+    {
+      "owners": [
+        30,
+        37
+      ],
+      "refs": [
+        "fc27b3 complete prior substantive fields including O036/O037 six connected contexts and role/grade/finite/trigger"
+      ]
+    },
+    {
+      "owners": [
+        38,
+        47
+      ],
+      "refs": [
+        "a2a562"
+      ]
+    },
+    {
+      "owners": [
+        48,
+        57
+      ],
+      "refs": [
+        "14b329"
+      ]
+    },
+    {
+      "owners": [
+        58,
+        67
+      ],
+      "refs": [
+        "6bb351"
+      ]
+    },
+    {
+      "owners": [
+        68,
+        77
+      ],
+      "refs": [
+        "62145b original broad output clipped15tokens atO073 filename; no complete binding claim fromthatcaption",
+        "56ac40 completeO073 binding and substantivefields"
+      ]
+    },
+    {
+      "scope": "complete operative six source qualifier meanings/reasons/bounds and currentROOTadoption",
+      "refs": [
+        "592fdc"
+      ],
+      "binding": "61767/390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1"
+    },
+    {
+      "owners": [
+        78,
+        87
+      ],
+      "refs": [
+        "f82929 broad output clipped atO082/083; completedallaffectedsemanticsbydfcedc",
+        "dfcedc completeO082/O083"
+      ]
+    },
+    {
+      "owners": [
+        88,
+        94
+      ],
+      "refs": [
+        "abbb27 complete prior purposes",
+        "687a24 reused own selected maintained E850L81–100 actor/access reading governs VP094",
+        "ROOT authorization explicitly confirms no refusal-to-write inference and no global O094rewrite"
+      ]
+    },
+    {
+      "owners": [
+        95,
+        99
+      ],
+      "refs": [
+        "707b3d"
+      ]
+    },
+    {
+      "owners": [
+        100,
+        104
+      ],
+      "refs": [
+        "36d528"
+      ]
+    }
+  ],
+  "ordinary_priority": "Specific wanted games, art, food, sound, company and rest count intrinsically. Stakes/name frequency/current models are not eligibility or exclusion gates.",
+  "current_runtime_basis": "ROOT reported70db source141/named15 and main813 source133/named13 at author intake; no fresh live/provider certificate or future head credit.",
+  "current_VP104_wage_motive_and_finite_achieved_endpoint_source_use_qualification_V3": {
+    "schema": "VERITAS_VP104_CURRENT_SORA_WAGE_MOTIVE_AND_FINITE_ACHIEVED_END_SOURCE_USE_QUALIFICATION_V1",
+    "source_repository_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+    "bytes": 93829,
+    "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+    "git_blob_oid_of_actual_bytes": "512a08b30bfa91dee27087fd743809dc8aa30b98",
+    "selected_physical_lines": [
+      149,
+      151
+    ],
+    "complete_selected_maintained_argument_UTF8": "\nSensei later identifies the supposed lost gift as a gift for Sora and acknowledges failure to tell her (choices003/004). The explanation values reliable ordinary shop work, welcomes and daily availability rather than requiring a special achievement. She says she works for wages; this motive does not cancel her work's genuine value (u0054–0070). The gloves are actually opened/recognized and praised as light, warm and fitting; design/taste has its own intrinsic pleasant endpoint. Her question about how hand size was known offers two represented Sensei replies, including repeated observation while receiving change, not a single verified measurement technique (choice008). Final “suspicious adult” remains even as she says she is very happy and thanks Sensei for trusting the shop (u0071–0082). This is repaired gift attribution and welcomed care alongside continuing observational discomfort, not complete elimination of doubt, completed reciprocal coupon repayment, universal romance or proof that ordinary work can never be burdensome.\n",
+    "own_actual_selected_receiving": "71e55e complete maintainedL149–151/Sora04030u0054–0070",
+    "grade": "OWN_SELECTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ARGUMENT_ONLY;NOT_WHOLE344_NOT_32CANONICAL_UNITS_NOT_30PRIMARY_OR2REUSE",
+    "current_positive_meaning": "Selected MINI meanings retain actual fitted gloves, completed parties, enjoyed food, volunteered broadcast, rescue/dinner and a blooming plant as finite positive endpoints; Sora's wage motive and explicit release from endless repayment are distinct meaningful ends.",
+    "reason": "Sora says she works for wages; her motive has positive ordinary/work value. Actual opened/recognized warm fitting gloves are an achieved gift endpoint. Neither this source-local wage clause nor the new purpose certifies payroll; no global nonpayment or sourcewide wage absence is claimed. Prior originalO104 already preserves wage motive.",
+    "scope": "One new Veritas positive scalar, no body52 or semantic mirror. Current source-use qualifications/dependency pins follow this bounded precision; complete frozenO104/other104,source7/all14OPEN/model0 and all prior grades/decisions/raw inverse histories are unchanged.",
+    "different_author_finding_witness": {
+      "evidence_id": "private-witness:VERITAS-VP104-EXACT-ONE-FIELD-MIDDLE-FINDING",
+      "bytes": 5222,
+      "sha256": "f21892a6c22a88bf1ef1ed80ca3309ba582761f9e65d453b842ce1143c273d3b",
+      "git_blob_oid_of_actual_bytes": "669cca6c3b4a312a5704173cdee621cdf37d00bf",
+      "grade": "Full affected-field/repetition inventory and selected source reason, not positive repaired-delta QA; that remains pending."
+    },
+    "new_source_primary_native_raw_AV_identity_model_package_named_credit": 0
+  }
+}

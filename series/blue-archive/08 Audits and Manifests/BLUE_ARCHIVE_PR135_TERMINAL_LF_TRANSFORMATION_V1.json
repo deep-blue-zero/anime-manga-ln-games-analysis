@@ -1,0 +1,678 @@
+{
+  "schema": "blue-archive-review-draft-byte-transformation-v1",
+  "record_id": "BLUE_ARCHIVE_PR135_TERMINAL_LF_TRANSFORMATION_V1",
+  "status": "draft_noncurrent",
+  "source_admission": "UNADMITTED",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "recorded_utc": "2026-10-05T23:44:10.881517+00:00",
+  "role": "Historical byte-transformation and readback record; not an admission register or perpetual current-file manifest.",
+  "historical_manifest": {
+    "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE2_REVIEW_DRAFT_PUBLICATION_20261003.json",
+    "sha256": "d414befb20506ade3378b8d7a83c06b5848b8fff795fbe48f7eeea10e88053cd",
+    "blob": "4a15034da4e3fdddaac9a8ad69e2ae09019f0001",
+    "publication_snapshot": "BA_PHASE2_REVIEW_DRAFTS_20261003",
+    "analytical_bytes": 4970809,
+    "artifact_count": 465,
+    "preserved_byte_for_byte": true
+  },
+  "before_snapshot": {
+    "commit": "ef8afd5d3c7ae71a4e92ee6bf876b13e2bd6082f",
+    "all_465_tuples_match_historical_manifest": true
+  },
+  "after_snapshot": {
+    "commit": "e9c091af7c088398743c5370a41b8770bc9a9cf9",
+    "tree": "6b309abf41f351a051aaca6a87bb83613a8aeb28",
+    "all_465_files_read_back": true,
+    "analytical_bytes": 4970739
+  },
+  "transformation": {
+    "operation": "Remove exactly one terminal LF byte from each listed file ending in two terminal LF bytes.",
+    "affected_files": 70,
+    "removed_bytes": 70,
+    "unchanged_files": 395,
+    "other_byte_changes": 0,
+    "analytical_prose_changed": false,
+    "reversible": true
+  },
+  "verification": {
+    "method": "Read the complete historical manifest and complete Git blobs at the before snapshot, then compare complete after-snapshot bytes; affected bytes plus one LF reconstruct the exact historical tuple.",
+    "aggregate_delta_bytes": -70,
+    "affected_before_total": 644027,
+    "affected_after_total": 643957,
+    "scope": "465 published analytical review drafts only; no source admission, authority promotion, semantic rereading, private-source inspection, or whole Phase 2 completion credit."
+  },
+  "records": [
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_001_DEEP_READING.md",
+      "before_bytes": 8458,
+      "before_sha256": "62a916fe92698ad2be8b8174affb8e31453c5c265958b13fb36c79b56e991c58",
+      "after_bytes": 8457,
+      "after_sha256": "d783fd2f62255a1a571e2215cb2dc99510db948838c7375d3696baa6012f2c41",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_002_DEEP_READING.md",
+      "before_bytes": 9781,
+      "before_sha256": "ec6caa07847cdd4ec4e92feb7f6504e0b9c4d58faa0df0af5857aab124719e92",
+      "after_bytes": 9780,
+      "after_sha256": "533dfdc0dff35759b6d6e913e7ea8ec2521fe45819d87323ff52c56d90db2933",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_003_DEEP_READING.md",
+      "before_bytes": 8266,
+      "before_sha256": "23a7e5b73c5e22c4470795bf99fbccdf074ea9f4265080fa1cdae178860f2605",
+      "after_bytes": 8265,
+      "after_sha256": "1a001f3e3626bff1dcc76da08e91dc197bd1af03885f260b9e7a739c7ff079c6",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_004_DEEP_READING.md",
+      "before_bytes": 7249,
+      "before_sha256": "35f261d969d088fad95a5475d4ba74a58afcac0af78999f85ed45bd484749f79",
+      "after_bytes": 7248,
+      "after_sha256": "b3003ea9fa432440b1879e236209180b63acc69d4ce849b58d1fc2fc5b78d8c1",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_005_DEEP_READING.md",
+      "before_bytes": 6483,
+      "before_sha256": "7237c7bac67702488bbca123e95f5b5a350923f06d6db0cd2b0c2fc6745d6592",
+      "after_bytes": 6482,
+      "after_sha256": "cdfddbc055472b9cf368aca6ddc851dd47d9b1534bced1b01bd1e2d14ea6dbfc",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_006_DEEP_READING.md",
+      "before_bytes": 7078,
+      "before_sha256": "9601d598987cd811d6418dcbabcafe4efbc12246df74ed27728081b1f69857b4",
+      "after_bytes": 7077,
+      "after_sha256": "2a9ec9c7ea5a8933b1ec42c6b31636af309597611491eb003c5c5434a3b7f36a",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_007_DEEP_READING.md",
+      "before_bytes": 7709,
+      "before_sha256": "50d796c4c358aff2e750d0eeabb12de7a8904b9c74078df3792b50ca80f7b70a",
+      "after_bytes": 7708,
+      "after_sha256": "6a8a4652124044331be769ef56514b249be4523d967ae93540260ca62efc7d73",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_008_DEEP_READING.md",
+      "before_bytes": 6727,
+      "before_sha256": "990720a37d2372facc757bac0b4a6b027627421c4836bd96d932dc1371df4e6d",
+      "after_bytes": 6726,
+      "after_sha256": "1d1d94a42ed2253088efb399cf3a71b8677e997fc3cecb17d753e334d90b0f44",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_009_DEEP_READING.md",
+      "before_bytes": 7809,
+      "before_sha256": "222d4afa908f04ad68f8337bca8a48a91ea681998940da7d473c19d79ceacef1",
+      "after_bytes": 7808,
+      "after_sha256": "cd2212f64b13347afa389b19748824340baa48b3192a6611b344b574ec39cbc9",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_011_DEEP_READING.md",
+      "before_bytes": 7423,
+      "before_sha256": "863427bfb41f4c365ddd69dcada732822bc1e11c17326a7866c9c91300b456c5",
+      "after_bytes": 7422,
+      "after_sha256": "2e784095ed275acb00531eb77d985967675862929ec25392192e58855bbf35d7",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_012_DEEP_READING.md",
+      "before_bytes": 7834,
+      "before_sha256": "e11cb5c43afb0dd36f2e33b16aa333c283bc01529c676ce84ee3ec912d51708b",
+      "after_bytes": 7833,
+      "after_sha256": "0ac724056f70a6f15b53fb633de621cf31281f6d8f514e0e690151a3d8589f6c",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_013_DEEP_READING.md",
+      "before_bytes": 7611,
+      "before_sha256": "baa2b84811579b1bd47226b45a85d62d838c2fcae620d1de2a8d0e17e6c15713",
+      "after_bytes": 7610,
+      "after_sha256": "320762d86ccaee9fe8dd36a7da8ad512f1e91c3ed725689cd41319069474ad4f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_015_DEEP_READING.md",
+      "before_bytes": 6837,
+      "before_sha256": "300e60acd41b1628ff08b656c1575568d88cecc608a1d1a33d0619b36bc3f7c8",
+      "after_bytes": 6836,
+      "after_sha256": "19dad4696094bf70ef57ce69347c937632be3b4df1e86c3a84936ef134c0d3d2",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_016_DEEP_READING.md",
+      "before_bytes": 7015,
+      "before_sha256": "a5b55abf2b128f2520ec15b3894a47b2d0c1a61f0044af77abcdd1f7b113d0cb",
+      "after_bytes": 7014,
+      "after_sha256": "ccc3414cdbf3c666aeb6412d0e7b136774987836cd93009ca8f90ab19fcca155",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_017_DEEP_READING.md",
+      "before_bytes": 7017,
+      "before_sha256": "2f2f49c8f1cd1343702f550a305898611a880088ad659f6504c4571319af24e4",
+      "after_bytes": 7016,
+      "after_sha256": "4f87b889769b1cc49d5c9b4a3cc470d1e2cc4073df692d1656af0aa2d87ec16c",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_019_DEEP_READING.md",
+      "before_bytes": 6495,
+      "before_sha256": "34a71d0b79968c7ebbdb6d4b0c80627b22c4a3d909a2fcefa458eeaf021248fa",
+      "after_bytes": 6494,
+      "after_sha256": "7377f81a5af067bb12e9da72599c826cac477dd658ccaac2f12acad950d4eb43",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_EPISODE_020_DEEP_READING.md",
+      "before_bytes": 8435,
+      "before_sha256": "6ed2aa88f093ec2864f028e1e027273487ffb63623cae10c8c15a15301491cff",
+      "after_bytes": 8434,
+      "after_sha256": "c56b4145093badbe3c58192272f83d974e3be205268b6ddb89147caa3cb6e590",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_CONTEXTUALIZATION_CHECKPOINT.md",
+      "before_bytes": 84691,
+      "before_sha256": "e567988ef99aa54245130f86a6f60e94da7800978d9d0c3e3f35f9e284333650",
+      "after_bytes": 84690,
+      "after_sha256": "cfe6f231cb9b1e04130552d0dfc1a23c02c36ab2148676119106fdd8444ed334",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_001_DEEP_READING.md",
+      "before_bytes": 7029,
+      "before_sha256": "87797b9ea36164951f94cbb51f22df953e53c53c20c736d0da0d4d5e5e871bb9",
+      "after_bytes": 7028,
+      "after_sha256": "cffdcee0dcab2d9e182115926ec4a6b009c4ec3be27cc5d7a5de6f9a7b245da5",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_002_DEEP_READING.md",
+      "before_bytes": 8180,
+      "before_sha256": "94acacdcff7e2008930fbdcf573e01dced97981b11ef37e2d92b2f2866b13de2",
+      "after_bytes": 8179,
+      "after_sha256": "7f1e555a67119589b1894153d4588209976a748de24d6114a241911ba4e64316",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_003_DEEP_READING.md",
+      "before_bytes": 6982,
+      "before_sha256": "2133c2d089e9edada19c28a693b8126f181644e7503b855814195b4acde665e6",
+      "after_bytes": 6981,
+      "after_sha256": "6b26040a48b2f1795b3d299d457b870f1c0131bd7246d8fb4591244ee8466249",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_004_DEEP_READING.md",
+      "before_bytes": 7118,
+      "before_sha256": "b467a5f9f7262df24b9089c94438b0f63348c9fd829eca4e8e9ce614f1192442",
+      "after_bytes": 7117,
+      "after_sha256": "84dec514e57c53a104dab156fa5a5126ae1dbbb23af6ad6e66e10549ad36bc9c",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_005_DEEP_READING.md",
+      "before_bytes": 7647,
+      "before_sha256": "fb41f08967959b1726d56699679594979728a5402241135bd24b61ac3aeebd17",
+      "after_bytes": 7646,
+      "after_sha256": "3416ece4cdd643b8cac59d2745405e316c2d44da0fd85557e8e4b66e88726527",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_006_DEEP_READING.md",
+      "before_bytes": 6741,
+      "before_sha256": "eefc4a74354f8dbed9a19dc2faf659a0fe20459fb0c9741ae6a098830d9ebe01",
+      "after_bytes": 6740,
+      "after_sha256": "4e796947e6c380f279a7d720fa01716d09836b1b1a5863f2f3bbd83f46ae509a",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_007_DEEP_READING.md",
+      "before_bytes": 7751,
+      "before_sha256": "227b4c73b71e181516da0b4d5ae9d1ceba246c1a27c3a6633f8b264019538b60",
+      "after_bytes": 7750,
+      "after_sha256": "de2bdba536aa12f75ef3cc63f1133a8598ce6b724866bacfddb202b59ce6748f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_008_DEEP_READING.md",
+      "before_bytes": 8007,
+      "before_sha256": "6def903ed5579dba1326f50f52350aba8feee56c855c53d62bbff7150c9afa1b",
+      "after_bytes": 8006,
+      "after_sha256": "5666b3dc718c0af815cd9615b305f85b5f1b502eac982a0cb08d38bad2328785",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_805/BLUE_ARCHIVE_EVENT_805_EPISODE_009_DEEP_READING.md",
+      "before_bytes": 6804,
+      "before_sha256": "bafec21bda6f8fb4c60d496af2c8e17113cc333ec858b1803a49c833285a26c8",
+      "after_bytes": 6803,
+      "after_sha256": "99382ef62b22bc15e0bbb0b9d57d3248c02022ace1dc50e03906071a79183ab7",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MARINA/BLUE_ARCHIVE_MARINA_BOND_10037_E002_DEEP_READING.md",
+      "before_bytes": 19815,
+      "before_sha256": "90386726b1c2bbc9e67a222a17836216048dc361a22d04ea681ed66d767fd7ea",
+      "after_bytes": 19814,
+      "after_sha256": "ccb107b67c8e65e09593b694b973c921fce2dcf6a81988de14a753d273c9cc47",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MARINA/BLUE_ARCHIVE_MARINA_BOND_10037_E003_DEEP_READING.md",
+      "before_bytes": 18797,
+      "before_sha256": "6d00a1a5d40e4f7af2b6e1a7b581c31734c4189b8c608167ad004584a61c5611",
+      "after_bytes": 18796,
+      "after_sha256": "33d3dcf996bb97991b7fd2f7f066d10b2b9cba83cf4723bfda6a139cac82951b",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MARINA/BLUE_ARCHIVE_MARINA_BOND_10037_E005_DEEP_READING.md",
+      "before_bytes": 18136,
+      "before_sha256": "0342ab159f6ea802b0b5e478ccff9601114dae0596a77122fd1a64b22a89b44e",
+      "after_bytes": 18135,
+      "after_sha256": "056c66fc650c40714fe3ba0c1df0dc7ae44f68cbd2226fe69457338c41f44f63",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MARINA/BLUE_ARCHIVE_MARINA_BOND_10037_E006_DEEP_READING.md",
+      "before_bytes": 18140,
+      "before_sha256": "3145acf9ecd9d3e5652c696f79933a83fa7327285b065e53422b4739631bd288",
+      "after_bytes": 18139,
+      "after_sha256": "d9e9a1d9a3c553649c3e1689e1e4a552916d2b36fa89bac76f933906a7346524",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MINORI/BLUE_ARCHIVE_MINORI_BOND_20026_E002_DEEP_READING.md",
+      "before_bytes": 14653,
+      "before_sha256": "01ae3502f28f8fb07fa28aa4f56bddd2ef8e37a51d71b1c0682652e7cdf8df89",
+      "after_bytes": 14652,
+      "after_sha256": "4a8582d06790bf489fb6aaf4085135d92b88d791bf8fe377cde17a9179282792",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MINORI/BLUE_ARCHIVE_MINORI_BOND_20026_E003_DEEP_READING.md",
+      "before_bytes": 13290,
+      "before_sha256": "e57c33db300dc652f4f6bab388670172e3831e605739c09344f73d47b7569717",
+      "after_bytes": 13289,
+      "after_sha256": "56f79925d8a6870c22d2bfc39ac43e9c2a8fc082e6ac36cc39db588a3442ff50",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MINORI/BLUE_ARCHIVE_MINORI_BOND_20026_E005_DEEP_READING.md",
+      "before_bytes": 14497,
+      "before_sha256": "145373461c68ba207fbcdf3fe65ebc76b242fe122d023ae0bab38aa17c070345",
+      "after_bytes": 14496,
+      "after_sha256": "3722f6abab936f628914eaa4e777fcf2098217faa053d59027a782ed4cb35eb8",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MINORI/BLUE_ARCHIVE_MINORI_BOND_20026_E006_DEEP_READING.md",
+      "before_bytes": 14068,
+      "before_sha256": "5cc1434a94dcda0bb990066caaf99e828ba81d406d131c282176aa95203de7f0",
+      "after_bytes": 14067,
+      "after_sha256": "a25e5015d937403a47cc61c81999ad2a6339631e754a7829b7bee12b10649567",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/MINORI/BLUE_ARCHIVE_MINORI_CHARACTER_DATA_20026_DEEP_READING.md",
+      "before_bytes": 14770,
+      "before_sha256": "3ccdf0f558af20fdca57a4a4d6766b4d3f2249fcbcfc90034b5bb638f656e19d",
+      "after_bytes": 14769,
+      "after_sha256": "91d5dd90910a82096845300581218230ef07758df51c554565684dc549a45fd5",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_001_DEEP_READING.md",
+      "before_bytes": 8603,
+      "before_sha256": "b213b016ec7fb5a524909dbe06cb70603615428170cce9e919372fdb35ad3a3e",
+      "after_bytes": 8602,
+      "after_sha256": "5f28160dc424bc760e7886be9d3e4ab56f433aa593ad87bff79fa5fe90432d90",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_004_DEEP_READING.md",
+      "before_bytes": 7466,
+      "before_sha256": "09a3db0251b841a93ddc2059615464e0acd637c6436ce50e36ca586d6f5c92d9",
+      "after_bytes": 7465,
+      "after_sha256": "12f8c8f2e02b4cd9aba75450a604bfb9a881db0afeca09ced07891d0c8a5e64e",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_006_DEEP_READING.md",
+      "before_bytes": 6102,
+      "before_sha256": "819ea38e11eb4a6e138698e4eecfae26237a7f41a01df6559939213c05b4d4dc",
+      "after_bytes": 6101,
+      "after_sha256": "ace8d6806d76a0a222a59fcdeb6d259ead6fe85b6bb4f9c353e509e11688db6b",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_007_DEEP_READING.md",
+      "before_bytes": 6031,
+      "before_sha256": "0af891bfcd9bc3a42c233eab85c6393a942c35cd1f965172b02c471661b298ed",
+      "after_bytes": 6030,
+      "after_sha256": "91e753b2ff2f6bbd9163a8eba15b556e5339b002ab3d2a0a60d161e01d1bbe3b",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_009_DEEP_READING.md",
+      "before_bytes": 8194,
+      "before_sha256": "56627e07b6e1465a76c7a6bbc3c4fb8c534d0ee30a7b2612fc96628a3ceab470",
+      "after_bytes": 8193,
+      "after_sha256": "5cf5b28c1d148ffc8a65e1f2da9c98241f4156b55ae350e4e255fadf8e456b96",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_010_DEEP_READING.md",
+      "before_bytes": 5554,
+      "before_sha256": "607fcb9d50584c04603d6e963b5e7be8adfbfc0cc459824607ea4c0b6153f8c1",
+      "after_bytes": 5553,
+      "after_sha256": "95ff91b82b5e39485eafe96130985e519fd6f129afce64f093638a47532e4ed3",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_011_DEEP_READING.md",
+      "before_bytes": 5838,
+      "before_sha256": "d591b69a645d0abc15e2a7403e5b44da8d5ea16eaa5da39082fb2be51e506c37",
+      "after_bytes": 5837,
+      "after_sha256": "6340bf40921651b424250225162cc72a9d4481db69241216e2ea9a2978ae5c5f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_EPISODE_013_DEEP_READING.md",
+      "before_bytes": 6411,
+      "before_sha256": "2176f69e0e88975ceeca9a18c5fe3bf0d4724aa42205ad50ae5d5743cc1dd4c2",
+      "after_bytes": 6410,
+      "after_sha256": "c5416222de98a5df25d5472ad92c13861e246ae5d4c772f1ae5991e09a484ee4",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_001_DEEP_READING.md",
+      "before_bytes": 7746,
+      "before_sha256": "65bb9ab8b8bcea2a4be4562e59cdb82d818addff355ef7bbf8e3e480938aafe7",
+      "after_bytes": 7745,
+      "after_sha256": "e9cadf6d67c6944956709cd1f20199e5b242376459ef40b05c74ef8413f8dfc6",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_002_DEEP_READING.md",
+      "before_bytes": 7646,
+      "before_sha256": "f522d7b6c3c56f9953da66a5bdf78f0d65e9e829a04c7c0672f3f6d64c3b6a73",
+      "after_bytes": 7645,
+      "after_sha256": "d16b486ceab333a4da195c2a7ddca4c063ef23a1d15185b08ef720937d57919f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_003_DEEP_READING.md",
+      "before_bytes": 8379,
+      "before_sha256": "74a4b7151649e5f38724ab5a7b32b333929445d86f9af348a04936aaa7b83e72",
+      "after_bytes": 8378,
+      "after_sha256": "923f51dcebb20e796266484afb14929337a27e91af67f4003c5dc8d5a1a395ea",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_004_DEEP_READING.md",
+      "before_bytes": 8045,
+      "before_sha256": "8ecf5fcbcf8f6cd2ad038819a0bed0dc33cf2c3a1ed45bcb921d3bcb8390d37d",
+      "after_bytes": 8044,
+      "after_sha256": "2fc22a6b997e2b554f713c6668864e453289175aeb0d139726b45425e4e28aa7",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_005_DEEP_READING.md",
+      "before_bytes": 7616,
+      "before_sha256": "45cc0a884d13b0cd0ddf5daad58205ee35738d641647c6ac5cd61ca699c97a10",
+      "after_bytes": 7615,
+      "after_sha256": "68aa9255ec595f3eb10d49cb458ed86607a9002784beb8777a6bb9c90ec35e00",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_006_DEEP_READING.md",
+      "before_bytes": 8048,
+      "before_sha256": "0ebe39bc1305c562af24d2dfe01860b47d85be7b7915b64ae92e717139ca95b2",
+      "after_bytes": 8047,
+      "after_sha256": "308a4b448fd1908117c37ce5acbdd67ece17ed93a0555de72822f10b6cf41b52",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_008_DEEP_READING.md",
+      "before_bytes": 8054,
+      "before_sha256": "5d4b98c7a654e19f2e044f0ba0d88fe8c654a6c1d76c46457c068302af940cc7",
+      "after_bytes": 8053,
+      "after_sha256": "ef167cce9201050204c4d8f0ba972435d3ab4b89a402e08f5d9675adf4e6d1e2",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_009_DEEP_READING.md",
+      "before_bytes": 8300,
+      "before_sha256": "62affac55fe28f5480af3f873e053a9db3441eae1e460854bbcae30a2320120b",
+      "after_bytes": 8299,
+      "after_sha256": "6d66e701daa707233e098648a3c4461591e8d87ccf5a343fbfdf49636bfd2730",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_010_DEEP_READING.md",
+      "before_bytes": 7945,
+      "before_sha256": "4023e9c84a4d356e780850fd015e064752f0285e6caaca251dc759c3597e11d4",
+      "after_bytes": 7944,
+      "after_sha256": "230f21744d03ead64b036ec405896acdecacf74b8edb839243d7077936d4df2a",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_011_DEEP_READING.md",
+      "before_bytes": 7019,
+      "before_sha256": "ff7614a0d99a941079e8651f9620ee3ad52e104870407af7d80639cb4fe52e3e",
+      "after_bytes": 7018,
+      "after_sha256": "86bda5a0cedaeda3a9a6083523197126201e1d067dc0bdbb0dec7c1363078e6f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_012_DEEP_READING.md",
+      "before_bytes": 6181,
+      "before_sha256": "4de2046e88e6d40466f627062832a9cb918e4ebc36f90ffcb5f70692802fe242",
+      "after_bytes": 6180,
+      "after_sha256": "2f6251cf66aa281b8790bbdecad04e614b683ca56d63761f02eeb21eb1d2a824",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_801/BLUE_ARCHIVE_EVENT_801_EPISODE_013_DEEP_READING.md",
+      "before_bytes": 7423,
+      "before_sha256": "968be33da0ac1a9dfad71a5035f9ed364e776062426fb1e0fe5467f598f673c2",
+      "after_bytes": 7422,
+      "after_sha256": "c4d8c513ee3fd4d84a723d60a58a877c6654529f4e26a57f8548f59a658236c0",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E002_DEEP_READING.md",
+      "before_bytes": 3573,
+      "before_sha256": "f2ff243845b6a999111f1c2f367245a34a54334d2341231f190f6f6ef501fa6a",
+      "after_bytes": 3572,
+      "after_sha256": "1d89dca9f221b0e30124a07a668ae45654f6d526c08db3acfb17bfb1d9835add",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E003_DEEP_READING.md",
+      "before_bytes": 3722,
+      "before_sha256": "986caef96b951b7aae0c4fcbe6d75c0345e6b579bce70d13445f5038021cb8bf",
+      "after_bytes": 3721,
+      "after_sha256": "ea1e669585b9f4bcdb180e303dd65ce635e9f62f54aa7a6f932a6bab174466a5",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E005_DEEP_READING.md",
+      "before_bytes": 5046,
+      "before_sha256": "8126c2cb269e1b8d968a3c2c2285e09dce16329fa1bcd227b1bbec7ee4ac156f",
+      "after_bytes": 5045,
+      "after_sha256": "044d5be58b37a1df7796d774f2bd5611d3df109c5d2042a2f07aee3e8620945a",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E006_DEEP_READING.md",
+      "before_bytes": 3751,
+      "before_sha256": "ce7ac4a51ce71899ba0bc6218b82adb5f95f4d6d21531b325b80b7932266840d",
+      "after_bytes": 3750,
+      "after_sha256": "4437437bb4161f35dd918cf862a0678c1dea7ca265ab11c8c963ca2c91922816",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E008_DEEP_READING.md",
+      "before_bytes": 4452,
+      "before_sha256": "955908f060cb09334a9c3926d7c02ac59512a24f224ef5e49582dd2e341432a4",
+      "after_bytes": 4451,
+      "after_sha256": "456cc3dc1acdc6232696dc06542a5a8846bed8ae88a436f0f6f64b5689017af0",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20002_E009_DEEP_READING.md",
+      "before_bytes": 6255,
+      "before_sha256": "74f1170cda86704b6d9bafbc6c6d05303418028a77079815a4aeea34b6783d4c",
+      "after_bytes": 6254,
+      "after_sha256": "67bea95818ee6d87970b720f94aa05c146a87dbbd8f8c922cdf20ec636880361",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E002_DEEP_READING.md",
+      "before_bytes": 5245,
+      "before_sha256": "3c3002a76b59368aef7a91d245dd8a993f63e824728daaff8da489a7c53c0d6a",
+      "after_bytes": 5244,
+      "after_sha256": "b697898709f9201db7bda4a95e251c1c624e1e270ab6058df5524ab821e6e2cc",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E003_DEEP_READING.md",
+      "before_bytes": 6903,
+      "before_sha256": "768b25518ba909deeb29e50841c3596f15ee6207cd7c6a14f33ea1bd7e64ee03",
+      "after_bytes": 6902,
+      "after_sha256": "649591e9e96178ed5868751330cf6df4d461fa8adc443a0f8f9575c019cc80d4",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E005_DEEP_READING.md",
+      "before_bytes": 8388,
+      "before_sha256": "435daec941cb0f28199d2d5f988f19a2c421e2d5acc2586e6c186ee2fec4fbe9",
+      "after_bytes": 8387,
+      "after_sha256": "8f1a03b90edf585ea9fa9e53e7feeb63b4717db9946f9a883a1b4f31725e7e01",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E006_DEEP_READING.md",
+      "before_bytes": 6934,
+      "before_sha256": "ad14dd259e20d2fe1ce1606208803d70eb17db921b9fc67f493b8b6404969c92",
+      "after_bytes": 6933,
+      "after_sha256": "d5d394c3affba7ca34581ce5b7268f606178f4f13a351d5d6f3ea2b6905d5a2f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/SAYA/BLUE_ARCHIVE_SAYA_BOND_20006_E020_DEEP_READING.md",
+      "before_bytes": 6498,
+      "before_sha256": "ba2491c54db121793ac93669c017e6f7a1c46475e41e8081782840edd7b034fe",
+      "after_bytes": 6497,
+      "after_sha256": "3aafe23f0f40a56b0be92de07a132eea0bc31c43b2b836e88aabaca1f86051bd",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/SAYA/BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_20002_PROFILE_AND_DIALOG_WRITTEN_READING.md",
+      "before_bytes": 3755,
+      "before_sha256": "6d67d15fe3347b48fead3fc8d706cd68368b606b685854232c1ce57f72f0a161",
+      "after_bytes": 3754,
+      "after_sha256": "38d39dd79eb92362ef68683560bf8ebe8d37b3fdc3bad4d092c8965e6f633932",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/SAYA/BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_20006_PROFILE_AND_DIALOG_WRITTEN_READING.md",
+      "before_bytes": 4009,
+      "before_sha256": "c25d1d54231271e0485e818c9b22fcd72b78fb2838eb078a24a5e6dfa0bbf798",
+      "after_bytes": 4008,
+      "after_sha256": "4ade562df32bc47108435cb0ee30a3b1fb07b20d52dd7b92bf9595c8dac8412b",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/SAYA/BLUE_ARCHIVE_SAYA_BA_CHARACTER_DATA_EVENT_COSTUME_1900901401_CHARACTER_20006_WRITTEN_READING.md",
+      "before_bytes": 3552,
+      "before_sha256": "b341313c110cba533ec9f6181aae0a100e7dc6c7c434a82b5f111182eeec9d78",
+      "after_bytes": 3551,
+      "after_sha256": "03f0b35ed2a5d5461fb412887ea543acba62b2302f77cc37d2ebeff7f140495f",
+      "removed_bytes_hex": "0a",
+      "inverse": "append exactly one LF byte"
+    }
+  ]
+}

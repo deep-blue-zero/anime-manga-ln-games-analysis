@@ -1,0 +1,69 @@
+{
+  "schema": "KONOSUBA_KOMEKKO_ACTUAL_SOURCE_KNOWN_FIRST_RESPONSES_V1",
+  "recorded_utc": "2026-10-20T02:53:03.546292+00:00",
+  "spec_sha256": "bc9c09ef30142588d8f526a570ed506e730733e1deb6bc632c30386df1694ec8",
+  "model_sha256": "79dbef9175a1cedcab34ab19c618ddde23dd7e3802fc036abe31061814c52ea4",
+  "creation_method": "Same informed root deliberately authored the first persisted answer body for each sealed variant; no separate model/runtime invocation, sampled alternatives, other agent, independent judge or native-human check.",
+  "responses": [
+    {
+      "id": "KM-K-H01A",
+      "appraisal": "The puzzle is still interesting, but the already prepared meal is the immediate wanted resource. The before-food demand can be questioned.",
+      "action": "She glances at the meal, leaves the current puzzle section unfinished and asks to eat first, offering future work rather than performing it now.",
+      "japanese_utterance": "先にごはん。食べたらやる。",
+      "limit": "This is a request and promise; neither permission nor later completion is supplied."
+    },
+    {
+      "id": "KM-K-H01B",
+      "appraisal": "A full, sleepy body makes the requested effort unattractive despite the interesting object. Having eaten does not itself create a felt obligation to finish.",
+      "action": "She lies beside the puzzle, turns one piece slowly and makes only a small further attempt while yawning.",
+      "japanese_utterance": "ちょっとだけ。ねむい。",
+      "limit": "Partial work is actual in this hypothetical answer; sleep, full completion and Megumin's acceptance remain unshown."
+    },
+    {
+      "id": "KM-K-H02A",
+      "appraisal": "The visible box offers food despite the spoken snack threat, so the nearby room is a useful alternative to facing the discussion now.",
+      "action": "She takes her snack box into the playroom, closes the door and says the discussion can wait while she eats.",
+      "japanese_utterance": "ここで食べる。お話はあと。",
+      "limit": "The packet does not establish a lock. Closing the door does not guarantee exclusive control; Megumin may reopen it. No consumed quantity or final reconciliation is invented."
+    },
+    {
+      "id": "KM-K-H02B",
+      "appraisal": "An empty room offers no food leverage. She still dislikes the expected scolding, but the same retreat would not defeat the snack condition.",
+      "action": "She pauses at the empty box, stays by the doorway and asks whether the discussion will be short.",
+      "japanese_utterance": "お話、すぐおわる？",
+      "limit": "This is one permitted bargaining branch, not a uniquely predicted fallback, an apology or agreement to every instruction."
+    },
+    {
+      "id": "KM-K-H03A",
+      "appraisal": "Her sister's impending absence makes the book a concrete thing she can give for companionship. The possession remains valued.",
+      "action": "She offers the picture book for Megumin to keep and adds a direct early-return request.",
+      "japanese_utterance": "これあげる。早くかえってきてね。",
+      "limit": "This selects a supported affectionate-giving branch; the sources do not require a gift on every such departure or exclude a loan instead."
+    },
+    {
+      "id": "KM-K-H03B",
+      "appraisal": "The visitor is taking her valued property without asking. There is no established familiar bond or voluntary transfer.",
+      "action": "She keeps both hands on the book, pulls it close and objects to its removal.",
+      "japanese_utterance": "それ、わたしの。持っていっちゃだめ。",
+      "limit": "No attack, successful recovery from stronger force, new friendship or universal stranger hostility is supplied."
+    },
+    {
+      "id": "KM-K-H04A",
+      "appraisal": "Her accessible event knowledge consists of Megumin's short report. A vivid personal reconstruction would exceed it.",
+      "action": "She repeats the reported contribution and surprise, attributing both to her sister's words.",
+      "japanese_utterance": "姉ちゃんが、荷車とめるのを手伝ったって。みんなびっくりしたって。",
+      "limit": "She does not claim eyewitness access, sole mechanical authorship, independent checking or understanding of how the cart stopped."
+    },
+    {
+      "id": "KM-K-H04B",
+      "appraisal": "Her accessible event knowledge consists of Megumin's short report. A vivid personal reconstruction would exceed it.",
+      "action": "She repeats the reported contribution and surprise, attributing both to her sister's words.",
+      "japanese_utterance": "姉ちゃんが、荷車とめるのを手伝ったって。みんなびっくりしたって。",
+      "limit": "She does not claim eyewitness access, sole mechanical authorship, independent checking or understanding of how the cart stopped."
+    }
+  ],
+  "actual_first_persisted_bodies_preserved": true,
+  "source_or_independent_validation_credit": 0,
+  "formal_score_changes": 0,
+  "outcome_receiving_not_yet_written": true
+}

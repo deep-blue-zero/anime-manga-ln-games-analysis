@@ -2,17 +2,18 @@
 series: IMOSAE
 artifact_type: ledger
 ledger_type: creative_labor_career_and_industry
-scope: V01-V13
+scope: V01-V14
 generation: V1
-status: active_provisional
-source_boundary: Japanese numbered light novels read through V13
-current_reading_boundary: V13
+status: canonical
+source_boundary: Japanese numbered light novels read through V14; nested fiction and paratext separately classed
+current_reading_boundary: V14
+checkpoint_freeze: IMOSAE_V13-V14_END_STATE_CHECKPOINT.md
 normalized_text_version: IMOSAE-JP-LN-NORM-1.0
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-version: '1.12'
-date: '2026-08-20'
+version: '1.13'
+date: '2026-10-12'
 ---
 
 # IMOSAE Creative Labor, Career, and Industry Ledger
@@ -684,3 +685,60 @@ Kyo identifies public potential in Itsuki's one-reader manuscript, obtains conse
 ### V13 industry synthesis
 
 V13's professional thesis is **legible pluralism**. Different editor styles, creator modes, publication choices, audience addresses, and career goals can be legitimate, but institutional power becomes safer when reasons are communicable, decisions contestable, burdens finite, and domain crossings consented to.
+
+
+## V14 — creative labor, career and industry / final mainline horizon
+
+New semantic evidence is V14. This ledger owns longitudinal work states; mature industry interpretation belongs to the separate specialist. TF is the novel's represented professional world, not verified present-day industry policy. SI/IT below is explicitly interpretive.
+
+### Success creates a new production problem
+
+Seven later standalones sell well while failing to equal 主人公になりたい in reception. 一発屋 is hostile prestige rhetoric, not commercial zero. Workload, media supervision, comparison, family responsibility and audience pressure jointly shape Itsuki's slump. A usable imperfect draft and staged revision are practical production gains without guaranteed inspiration. `IM-V14-E003`
+
+Miyako's agent/editor work coordinates across labels. Nominal institutional backing and fees do not erase the fact that she performs much management alone. Itsuki explicitly fears that losing her would break his work arrangements. This is infrastructure with concentrated dependency, relevant to IM-C019/032/041. `IM-V14-E003` `IM-V14-E005`
+
+### Specialized editorial competence has a failure range
+
+Miyako successfully works with particular difficult writers, while some clients and vague direction expose failures. 自分の在り方 and professional recognition do not make her a universally suitable editor. Haruto privately distinguishes romantic compatibility from fit with his more analytical writing. `IM-V14-E012` `IM-V14-E008`
+
+Writer migration routes differ: return after failed GF publication, voluntary acquisition, changes of label and rights recovery. The represented printing-inventory account explains a publisher conflict within the novel. It is not a real-world legal or contract recommendation. `IM-V14-E012`
+
+### Cultivation and exit both impose costs
+
+Gōdo's patient-discovery account and Shirogamine's autonomy/survival account each offer credible counterevidence. Exceptional talent's imagined independent success does not establish ordinary discoverability. Long encouragement can sustain craft or exhaust a life; abrupt verdicts can be arrogant. Their partial agreement does not settle the institution. IM-C003/023/034 remain scoped accordingly. `IM-V14-E013`
+
+Toki's missed opportunity is a specific editorial grief. He remains at GF; Miyako recognizes publication mediation without claiming authorship. Different relationships can enable different works without a general hierarchy of friend above editor. `IM-V14-E014`
+
+### Changing terrain and sufficient goods
+
+Kaizu's general-fiction/film success combines durable craft, adaptability, market fit and chance. His willingness to delegate adaptations fits a family-first hierarchy. Itsuki admires that hierarchy without adopting it. Career recognition, artistic ownership and sufficient private life stay separate. `IM-V14-E015`
+
+Kaiko's original serial, continuing adaptation and doujin work demonstrate independent creator labor. The manga has not been shown fully complete merely because the prose original ended. Convention work requires assistants, cash handling, queue management, bodily endurance and public presentation. `IM-V14-E016` `IM-V14-E017`
+
+### An addressed book becomes a collaborative material object
+
+The proposal targets 可児那由多. Miyako recognizes strong personal feeling; her prediction of masterpiece status remains a proposal-stage judgment. Setsuna's year-long capacity reservation is explicitly exceptional, with costs. His practice, phone use and deadlines improve; erotic obsession remains. Reliability and moral transformation are different variables. `IM-V14-E020` `IM-V14-E021` `IM-V14-E024`
+
+The two-volume fantasy's irregular violence and difficult hero receive mixed responses before later word of mouth and award. The internal plot is WFW, not Itsuki's real behavior. Nayuta encounters the completed illustrated book, wants to write and asks him to take domestic work. Her new art uses changed life experience rather than reproducing an untouched past genius. `IM-V14-E022` `IM-V14-E023`
+
+### Award, derivative answer and artistic judgment
+
+The answering sequel requires represented permission, expands readership of the original and enters award consideration. Derivative status hurts its eligibility; Itsuki privately judges it greater. Formal recognition, commercial benefit and aesthetic preference separate at the point of victory. This strengthens IM-C010/022/026. `IM-V14-E024` `IM-V14-E025`
+
+### Final manuscript: success still requires research and accountable reading
+
+The apparent future is a manuscript. Chihiro contests invented medicine, vague technology, unresearched institutions and self-praise. Itsuki's dream/compliance defenses are his claims, not publisher doctrine. His childish exit is actual late behavior. A book's reception cannot retrospectively prove sound method or ethical portraiture. `IM-V14-E042` `IM-V14-E045` `IM-V14-E046`
+
+### V14 work register
+
+| Work / practice | Actual status | Authority / routes |
+|---|---|---|
+| 主人公になりたい | Earlier private-origin/public masterpiece remains benchmark | Mainline reception/cost, `IM-V14-E003` |
+| 明日の君さえいればいい。 | Addressed proposal, two-volume publication, mixed reception then award | `IM-V14-E020` `IM-V14-E022` `IM-V14-E025`; fantasy catalog `IM-V14-E072` is PF |
+| どんな星空よりも、どんな思い出よりも | Nayuta's new answering sequel, consented publication, acclaimed but no chief award | `IM-V14-E024` `IM-V14-E025` |
+| 第六感のミストレス | Kaizu's successful general-fiction/film route | `IM-V14-E015`; catalog `IM-V14-E068` is PF/WFW |
+| 妹すべ manga / Kaiko originals/doujin | Ongoing craft with independent products; not all complete | `IM-V14-E016` `IM-V14-E017` `IM-V14-E070` |
+| 青い小鳥たち / 果てなき挑戦者たち | Actual dream-based manuscript / represented play inside it | `IM-V14-E042` `IM-V14-E037`; no authenticated future career |
+| Agency / special illustrator reservation | Successful support with sole-person and opportunity costs | `IM-V14-E003` `IM-V14-E021` |
+
+Current state is V14 under the fifth checkpoint. External supplements are deferred; later industry claims need a new admitted scope.

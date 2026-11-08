@@ -1,0 +1,498 @@
+{
+  "schema": "BLUE_ARCHIVE_PHASE3_UI_SOURCE_AND_AUTHOR_SCOPE_V1",
+  "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_RECEIVING_PENDING",
+  "created": "2026-10-10",
+  "package": "P3-CHAR-UI-CH0169",
+  "candidate": "P3-F057",
+  "dated_route": "P3-A019",
+  "literal_identity": "BA_PERSON_CH0169",
+  "display_name": "Ui",
+  "variants": [
+    "10035",
+    "10073"
+  ],
+  "main_comparator": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+  "declared_source_snapshot": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "HEAD_at_binding": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+  "root_worktree_distinction": "Only enumerated analytical source inputs are verified; no whole worktree equality. ROOT first trio now published at dc5ae72 with unchanged analytical owners/architecture. c1 remains historical source comparand. New current candidate metadata is excluded here.",
+  "modern_source_pin": {
+    "repository": "electricgoat/ba-data@jp",
+    "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+    "generation": "BA_REFRESH_20260928T032248159554Z",
+    "parser": "0.2.0",
+    "historical_eden_checkpoint_witnesses": "Historical cbe3fd source pin retained by owners, not silently recertified by this author"
+  },
+  "original_producer_provenance": "Accepted small analytical owners retain their own historical source pins. Current byte equality does not recertify all producer fields against the modern pin.",
+  "inputs": [
+    {
+      "source_id": "M04",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_003_エデン条約編/BLUE_ARCHIVE_MAIN_V003_C004_CHECKPOINT.md",
+      "byte_count": 18759,
+      "line_count": 99,
+      "sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+      "worktree_content_blob_oid": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+      "declared_c1_blob_oid": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+      "main_blob_oid": "1942836782f92baa7d56aeb9f4be2ca830c63f84",
+      "main_sha256": "4a3cd456d3cd21d1b1b60efc6e33c930fd162a72eee1685a82fa89c1515ab59f",
+      "main_byte_count": 18759,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole1–99; complete27 episode arguments/endpoints/attribution controls Fresh25–70 consequential rescue and ending98df5c.",
+      "receiving_records": [
+        "323681",
+        "98df5c"
+      ],
+      "custody_credit": "COMPLETE_ACCEPTED_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C01",
+      "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "byte_count": 52261,
+      "line_count": 851,
+      "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+      "worktree_content_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+      "declared_c1_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+      "main_blob_oid": "685661b716fd0032997883efeb294425b0816c18",
+      "main_sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+      "main_byte_count": 51287,
+      "same_c1": true,
+      "same_main": false,
+      "inspected_scope": "319–344 exact eleven-section mature character monograph architecture",
+      "receiving_records": [
+        "17488f"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C02",
+      "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+      "byte_count": 53414,
+      "line_count": 840,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "worktree_content_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "declared_c1_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "main_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+      "main_sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "main_byte_count": 53414,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "327–379,485–509,606–639 relevant complete-story, audience/choice, comparison and counterreading requirements",
+      "receiving_records": [
+        "85dec8"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C03",
+      "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+      "byte_count": 79178,
+      "line_count": 354,
+      "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "worktree_content_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "declared_c1_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "main_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+      "main_sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+      "main_byte_count": 79178,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "31–44 all14 literal gap registrations andOPEN boundaries; G13–14 recovered separately",
+      "receiving_records": [
+        "757011",
+        "f0f49c"
+      ],
+      "custody_credit": "CONTROL_SCOPE_RECEIVING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "C04",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "byte_count": 19463,
+      "line_count": 113,
+      "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "worktree_content_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "declared_c1_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "main_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+      "main_sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+      "main_byte_count": 19463,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Previously received complete current Cycle008 argument113lines; current3940 contextual admission supersedes producer pending intake without adding primary credit",
+      "receiving_records": [
+        "Frozen Trinity V1 complete control receipt"
+      ],
+      "custody_credit": "CONTROL_SCOPE_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "U01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HINATA_UI_SHIMIKO_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 76346,
+      "line_count": 562,
+      "sha256": "d523094c54e611aa45cebab91ffbf2ecd1888b59f112c8f01dafeb66d274a638",
+      "worktree_content_blob_oid": "9bef56d2d1791c796b95a2eee21d4a539ee7c77f",
+      "declared_c1_blob_oid": "9bef56d2d1791c796b95a2eee21d4a539ee7c77f",
+      "main_blob_oid": "9bef56d2d1791c796b95a2eee21d4a539ee7c77f",
+      "main_sha256": "d523094c54e611aa45cebab91ffbf2ecd1888b59f112c8f01dafeb66d274a638",
+      "main_byte_count": 76346,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Complete239–562 accepted combined qualification, all distinct private/written arguments and ordinary endings. Frozen TrinityV2 receiving25a22d/900ff7/428f33/baa591/dde898 reused; fresh266638239–372,26ec0a373–562 with clipped455–471 recovered4d49ac. Current Cycle008 qualification supersedes producer UNADMITTED history; original primary credit remains attributed.",
+      "receiving_records": [
+        "25a22d",
+        "900ff7",
+        "428f33",
+        "baa591",
+        "dde898",
+        "266638",
+        "26ec0a",
+        "4d49ac"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E03",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_003_10010020_DEEP_READING.md",
+      "byte_count": 14881,
+      "line_count": 84,
+      "sha256": "43ddfe3dac8e4d2b3bcbd93e7113482780c06db222079e2d39c7ab2337668840",
+      "worktree_content_blob_oid": "6bc8e48773455df342e913bfa0f634ef0a1da565",
+      "declared_c1_blob_oid": "6bc8e48773455df342e913bfa0f634ef0a1da565",
+      "main_blob_oid": "6bc8e48773455df342e913bfa0f634ef0a1da565",
+      "main_sha256": "43ddfe3dac8e4d2b3bcbd93e7113482780c06db222079e2d39c7ab2337668840",
+      "main_byte_count": 14881,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical episode throughEOF, complete positive/contrary arguments, source modes/actor witnesses and actual ending. Historical proposed producer status is distinct from current admission. No first-reader, primary or performance credit. ",
+      "receiving_records": [
+        "3f620a"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E08",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_008_10010070_DEEP_READING.md",
+      "byte_count": 7278,
+      "line_count": 57,
+      "sha256": "b6c852fd9a36a2ccaa47a1a9abbf468b0f452946ebe7d00980a45c3388931419",
+      "worktree_content_blob_oid": "26a5e43606d2785935e2bfd3e0f583ef13f273ed",
+      "declared_c1_blob_oid": "26a5e43606d2785935e2bfd3e0f583ef13f273ed",
+      "main_blob_oid": "26a5e43606d2785935e2bfd3e0f583ef13f273ed",
+      "main_sha256": "b6c852fd9a36a2ccaa47a1a9abbf468b0f452946ebe7d00980a45c3388931419",
+      "main_byte_count": 7278,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical episode throughEOF, complete positive/contrary arguments, source modes/actor witnesses and actual ending. Historical proposed producer status is distinct from current admission. No first-reader, primary or performance credit. ",
+      "receiving_records": [
+        "3f620a"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E10",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_010_10010090_DEEP_READING.md",
+      "byte_count": 7384,
+      "line_count": 59,
+      "sha256": "3c9d43cfd831875db1c7d2d6c4dd95db03e3b014ba2f9be942e88ce451d6da2f",
+      "worktree_content_blob_oid": "2baa763dc42a79e5246daf385af9b6cab30336c5",
+      "declared_c1_blob_oid": "2baa763dc42a79e5246daf385af9b6cab30336c5",
+      "main_blob_oid": "2baa763dc42a79e5246daf385af9b6cab30336c5",
+      "main_sha256": "3c9d43cfd831875db1c7d2d6c4dd95db03e3b014ba2f9be942e88ce451d6da2f",
+      "main_byte_count": 7384,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical episode throughEOF, complete positive/contrary arguments, source modes/actor witnesses and actual ending. Historical proposed producer status is distinct from current admission. No first-reader, primary or performance credit. ",
+      "receiving_records": [
+        "385bf5"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E11",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_011_10010105_DEEP_READING.md",
+      "byte_count": 8743,
+      "line_count": 63,
+      "sha256": "a85a6e29853f0685003a4a7b9da062ddab38d761c6628a9c0708886f82855440",
+      "worktree_content_blob_oid": "279025d9d5e11e70bb820d2e12179ba15a4d91b5",
+      "declared_c1_blob_oid": "279025d9d5e11e70bb820d2e12179ba15a4d91b5",
+      "main_blob_oid": "279025d9d5e11e70bb820d2e12179ba15a4d91b5",
+      "main_sha256": "a85a6e29853f0685003a4a7b9da062ddab38d761c6628a9c0708886f82855440",
+      "main_byte_count": 8743,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical episode throughEOF, complete positive/contrary arguments, source modes/actor witnesses and actual ending. Historical proposed producer status is distinct from current admission. No first-reader, primary or performance credit. ",
+      "receiving_records": [
+        "385bf5"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E13",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_013_10010125_DEEP_READING.md",
+      "byte_count": 10583,
+      "line_count": 72,
+      "sha256": "e1b1d51c0042245992bfb615116c234f6a60f0d008068567ae84c5107e8b1f17",
+      "worktree_content_blob_oid": "f5dda570b80800348ba92bbdce0320066dd6e9e9",
+      "declared_c1_blob_oid": "f5dda570b80800348ba92bbdce0320066dd6e9e9",
+      "main_blob_oid": "f5dda570b80800348ba92bbdce0320066dd6e9e9",
+      "main_sha256": "e1b1d51c0042245992bfb615116c234f6a60f0d008068567ae84c5107e8b1f17",
+      "main_byte_count": 10583,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical episode throughEOF, complete positive/contrary arguments, source modes/actor witnesses and actual ending. Historical proposed producer status is distinct from current admission. No first-reader, primary or performance credit. ",
+      "receiving_records": [
+        "e9e1a4"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "E15",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_EPISODE_015_10010145_DEEP_READING.md",
+      "byte_count": 8679,
+      "line_count": 63,
+      "sha256": "2c786f03af0fe9314fc5941f552c87fefdcdc85c27bcca6c6deeafd51b970087",
+      "worktree_content_blob_oid": "22c431dfbefe51af783bedfe781e86eecbf99cb9",
+      "declared_c1_blob_oid": "22c431dfbefe51af783bedfe781e86eecbf99cb9",
+      "main_blob_oid": "22c431dfbefe51af783bedfe781e86eecbf99cb9",
+      "main_sha256": "2c786f03af0fe9314fc5941f552c87fefdcdc85c27bcca6c6deeafd51b970087",
+      "main_byte_count": 8679,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted analytical episode throughEOF, complete positive/contrary arguments, source modes/actor witnesses and actual ending. Historical proposed producer status is distinct from current admission. No first-reader, primary or performance credit. ",
+      "receiving_records": [
+        "e9e1a4"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "A00",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_812/BLUE_ARCHIVE_EVENT_812_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 99877,
+      "line_count": 437,
+      "sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6",
+      "worktree_content_blob_oid": "02d9d2f449e24008ff71e743502494ae004ebfa2",
+      "declared_c1_blob_oid": "02d9d2f449e24008ff71e743502494ae004ebfa2",
+      "main_blob_oid": "02d9d2f449e24008ff71e743502494ae004ebfa2",
+      "main_sha256": "6a6ce9b164f151fb70498bebcad0173ce39c3cb5e71653f6de1f231a27442bd6",
+      "main_byte_count": 99877,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Personal qualification/local chronology24–94 and full literary synthesis365–43747ca7e; own named-role middle display clipped, no own full annex claim. In addition, internal fullcast agent personally received entire81814 decoded chars in five untruncated spans, including all15 meanings/annex: e3e7760–20000,e7453720000–40000,49422e40000–60000,7e3e2960000–80000,dabd7880000–81814EOF. Its exact whole-source receipt is FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/WORKING_CURRENT_OWNER_RECEIVING.json, event812. That complete receiving is attributed to that agent, not this author. Consequential clauses375/377/381/387 supplied internally; cbb906 extraction not fresh receiving.",
+      "receiving_records": [
+        "47ca7e",
+        "attributed:e3e776",
+        "attributed:e74537",
+        "attributed:49422e",
+        "attributed:7e3e29",
+        "attributed:dabd78"
+      ],
+      "custody_credit": "PERSONAL_BOUNDED_AND_ATTRIBUTED_COMPLETE_ANALYTICAL_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "A01",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_828/BLUE_ARCHIVE_EVENT_828_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 37570,
+      "line_count": 1306,
+      "sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d",
+      "worktree_content_blob_oid": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04",
+      "declared_c1_blob_oid": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04",
+      "main_blob_oid": "5dd3f44ddb19c316cf7b2f8d8e298ad867056d04",
+      "main_sha256": "789b6a465f259ac2d427c9d9722102b449388c278943b04e51c3ab19f1a2997d",
+      "main_byte_count": 37570,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Complete15 meanings/controls36–40/634–1306 previously received; fresh all15 episode arguments634–9439fa280. Actual ends, recipients and unresolved reporting preserved. Whole literal roster duty remains pending.",
+      "receiving_records": [
+        "0af6dd",
+        "ef8f45",
+        "0a7b23",
+        "9fa280"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "A02",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_851/BLUE_ARCHIVE_EVENT_851_CONTEXTUALIZATION_CHECKPOINT.md",
+      "byte_count": 38628,
+      "line_count": 195,
+      "sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+      "worktree_content_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+      "declared_c1_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+      "main_blob_oid": "38ec4671a63ffd51f0f92b9cfd4dad0517a304e5",
+      "main_sha256": "61e628dab0ac127c946e0101225a89d1d7808a27b0f540d5d7a03fc76c36072c",
+      "main_byte_count": 38628,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Complete38–195 substantive17-object argument received in frozen TrinityV2; fresh149–159 consequential E01747ca7e. Recipient lost sleep, imagined violence, stock-permission limits preserved; whole literal roster remains pending.",
+      "receiving_records": [
+        "2a9482",
+        "45597d",
+        "d66b24",
+        "47ca7e"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_MEANING_REUSE_LITERAL_ROSTER_PENDING",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    },
+    {
+      "source_id": "L03",
+      "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_073_80000073_DEEP_READING.md",
+      "byte_count": 8073,
+      "line_count": 73,
+      "sha256": "a07ad2833082ff9a556c082bc35bdb4626c3faee897e00af110a8dc39f6c2e43",
+      "worktree_content_blob_oid": "ba0b538e7ece6e36ee6dba227ed53307e783298a",
+      "declared_c1_blob_oid": "ba0b538e7ece6e36ee6dba227ed53307e783298a",
+      "main_blob_oid": "ba0b538e7ece6e36ee6dba227ed53307e783298a",
+      "main_sha256": "a07ad2833082ff9a556c082bc35bdb4626c3faee897e00af110a8dc39f6c2e43",
+      "main_byte_count": 8073,
+      "same_c1": true,
+      "same_main": true,
+      "inspected_scope": "Whole accepted gift owner135cd9 including all ordinary-object claims, local parity, Japanese/Korean qualifications, actual shared coffee/cookies and returned complaints. No primary/performed credit.",
+      "receiving_records": [
+        "135cd9"
+      ],
+      "custody_credit": "PERSONALLY_COMPLETE_ACCEPTED_EPISODE_ARGUMENT_REUSE",
+      "original_primary_credit": 0,
+      "performed_credit": 0,
+      "independent_review_credit": 0
+    }
+  ],
+  "author_review": {
+    "body": "BLUE_ARCHIVE_UI_CHARACTER_MONOGRAPH.md",
+    "whole_saved_readback": "UI_READBACK_FULL_20261010: all136 lines throughEOF; final article correction in claim UI05 saved paragraph is separately read back.",
+    "literary_verdict": "AUTHOR_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "rivals": "Total reclusion/social cure; benign expert/selfish damage; book-only instrument/romance disguise; flawless gift/early taste inference. Section10 tests serious contrary evidence and endings.",
+    "ordinary_wants": "Shared reading, recovered cherished book, actual comment notebook, local labor, slow coffee, chosen walk, cookies, warmth and explicit true favorite have intrinsic significance.",
+    "recipient_and_endpoint_scope": "Returned key and advance contact; missing book recovery; completed local work; specific hospitality and boundary costs; actual restoration handoff; copy/report/capsule limits; lost sleep; shared meal/coffee/return/walk versus future invitations and partial change.",
+    "ROOT_literary_receiving": "PENDING",
+    "ROOT_adoption": "PENDING",
+    "independent": false
+  },
+  "all_fourteen_gaps": [
+    {
+      "id": "G01",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G02",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G03",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G04",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G05",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G06",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G07",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G08",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G09",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G10",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G11",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G12",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G13",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    },
+    {
+      "id": "G14",
+      "state": "OPEN",
+      "claim_specific_effect": "Body final paragraph and claim register retain actual limitations; no inferred closure."
+    }
+  ],
+  "receiving_recovery": "Fresh combined private display455–471 recovered4d49ac. Own E812 named-roster middle clipped, while explicit full receiving belongs to internal fullcast agent. Attributed reuse is not personal annex/primary/independent credit.",
+  "original_primary_credit_added": 0,
+  "unbound_large_reads_or_hashes": 0,
+  "performed_credit": 0,
+  "repository_or_global_writes": 0,
+  "N_frozen": false,
+  "quarter_claimed": false,
+  "external_handoff": false,
+  "canonical_derivative_custody": {
+    "state": "ROOT_ACCEPTED_WITH_LIMITS",
+    "frozen_author_bytes": 25253,
+    "frozen_author_sha256": "b154ee8dae3ab7719b0008c34b7f839516e6cf8f6520c8cf8fddf3a30056513e",
+    "root_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_UI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+    "source_reference_translation": "Repository-relative analytical paths, external selected corpus refs and immutable local witness refs preserve exact original tuples/scopes without publishing machine paths or claiming public availability. Historical author statuses are not current acceptance."
+  }
+}

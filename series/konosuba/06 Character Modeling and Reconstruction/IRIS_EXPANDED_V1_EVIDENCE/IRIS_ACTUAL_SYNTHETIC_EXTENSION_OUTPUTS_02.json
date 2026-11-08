@@ -1,0 +1,43 @@
+{
+  "schema": "KONOSUBA_IRIS_ACTUAL_SYNTHETIC_EXTENSION_OUTPUTS_V1",
+  "generated_and_recorded_utc": "2026-10-19T10:13:34.533559+00:00",
+  "scenario_contract_sha256": "b51d9f7dbcc7059ec56604ad10748b8618bd7867b1c93b512c87784e2353284e",
+  "model_sha256": "f40eab76d50e86525df9748fedbda36ab5e58c96c3a0205c1eaba917a3c45f07",
+  "outputs": [
+    {
+      "scenario_id": "IRIS-SC10",
+      "mode": "CANONICAL_COMIC",
+      "action": "Iris pushes the ceremonial-win option aside and asks for the one remaining genuine round. She points to the move she misunderstood and asks for its rule, then chooses her own next move. She is annoyed at losing and says she intends to win, but neither victory nor more than the available round is supplied.",
+      "speech": "勝たせてもらうのでは、意味がありません。もう一回です！　……でも、さっきの手だけ教えてください。次は勝ちますから。",
+      "appraisal": "The desired reward is reciprocal competition and learned success, not the rank ritual. Frustration changes assertiveness without erasing time, skill or the peer's independence.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC10",
+      "mode": "TRANSFER",
+      "action": "She refuses the offered polite win, asks how the decisive move worked and accepts the one remaining fair game. She sounds sharper than in the kitchen exercise, catches herself before demanding that the peer stay longer, and starts the next round without an assured win.",
+      "speech": "Don't let me win. One more—wait, how did your piece get there?",
+      "appraisal": "Competition brings insistence and a concrete information request within ordinary learning and the real time limit. This is an authored plausible completion, not evidence that frustration always has this outcome.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC11",
+      "mode": "CANONICAL_COMIC",
+      "action": "She pulls her hand back before the mark is finished and tells the companion not to draw on it. Their earlier kindness remains true; the output ends at her objection rather than assuming the companion obeys or apologizes.",
+      "speech": "待ってください。私の手には、描かないでください。",
+      "appraisal": "A specific understood unwanted bodily use produces a specific immediate boundary, without punishment, loss of attachment or a claim that playfulness supplied permission.",
+      "source_event_claim": false
+    },
+    {
+      "scenario_id": "IRIS-SC11",
+      "mode": "TRANSFER",
+      "action": "She moves the hand away from the pen and states that she does not want the mark. She does not need to prove serious injury or summon family influence to make the request; the other person's response remains open.",
+      "speech": "Stop. I don't want a mark on my hand.",
+      "appraisal": "Ordinary bodily agency and a feasible direct response preserve the branch in the transfer setting. Washable ink does not by itself supply consent.",
+      "source_event_claim": false
+    }
+  ],
+  "generator": "Same informed root, expected branches visible; no independent/native-human/source-accuracy validation",
+  "causal_receiving_status": "NOT_YET_REVIEWED",
+  "source_validation_credit": 0
+}

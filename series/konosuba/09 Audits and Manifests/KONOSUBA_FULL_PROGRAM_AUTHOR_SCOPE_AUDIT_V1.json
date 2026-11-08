@@ -1,0 +1,67 @@
+{
+  "schema": "konosuba.full-program.author-scope.v1",
+  "prepared_utc": "2026-10-26T07:35:07.511733+00:00",
+  "context_source": "9b3cc94f7575ccbc96c493b7c68ae79dd2556dbf",
+  "full_series_review_sha256": "1e594b0e4653571c675be3839e925bc03d141df8644d61cb282f8eb43f877e97",
+  "companion_review_sha256": "eda7cb2f9a3147ff2eca0f4d8510cb096a3c6ec4933ceabd652d5117f6a97177",
+  "completion_support_review_sha256": "f1f52010b76d0af99ed5382eb0789e03b51e7621e568b8a6c14ebc179a176e2b",
+  "actual_companion_qualification_receiving": "7c63dd",
+  "new_primary_reading_credit": 0,
+  "all_frozen_cores_firsts_scores_nulls_and_plane_differences_preserved": true,
+  "protected_registry_or_capability_writes": 0,
+  "protected_main_merge_performed": false,
+  "final_release": false,
+  "full_program_complete": false,
+  "artifact_members": [
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_POST_VALIDATION_STAGE_D_AUTHOR_PUBLICATION_GATE_CLOSE_01.json",
+      "bytes": 4537,
+      "sha256": "bc41c4e61954f9f1a0b6ec4a013663f85863523b413e6cb742d8359a8f4ec1a7"
+    },
+    {
+      "path": "series/konosuba/07 Full-Series Synthesis/KONOSUBA_FULL_SERIES_SYNTHESIS.md",
+      "bytes": 30621,
+      "sha256": "bf89f9c4614d91e0905d32a9178284f1aedaf08e32b8cb14ac2fd8b337bf47ee"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.md",
+      "bytes": 11674,
+      "sha256": "22fce5db7fc3f9dd4fc6143561382354de13bbd1607a49962fd6acc7cc79d5f2"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_POST_VALIDATION_MODEL_EVIDENCE_MATRIX_V1.md",
+      "bytes": 11704,
+      "sha256": "1d9dac4b20a5ff0a1aec13eccd7200b9dcac71d854ea446e44b10a360dee3419"
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_POST_VALIDATION_CLAIM_REVISION_LEDGER_V1.md",
+      "bytes": 6774,
+      "sha256": "38f57a87d9738c61e775108cbaef59726dd940da7e60544f437452f42e157c7e"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_POST_VALIDATION_CROSS_MODEL_CONSISTENCY_AUDIT_V1.md",
+      "bytes": 9999,
+      "sha256": "5607f29ed44799ac8a64711e0cbdb4696e2c327e3cc6c412c2f3bd7133ff9429"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPONENT_DISPOSITION_AUDIT_V1.json",
+      "bytes": 242631,
+      "sha256": "923334bd32a3de3ec1375a10fa624f831521b45145c1141297557d23a2ece993"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DESIGNATED_EVALUATION_HANDOFF_V1.json",
+      "bytes": 8425,
+      "sha256": "1a6ef8ad7e88c61db0f3b73777f3364d47f32f9097b1c7888d703279620207ae"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPLETION_AUDIT_V1.json",
+      "bytes": 8553,
+      "sha256": "f600c8fdeff0defff1dbaac99e36706810921b3fb44061a7dae07245fe769d57"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_FULL_PROGRAM_COMPLETION_AUDIT_V1.md",
+      "bytes": 7884,
+      "sha256": "b0f816acdce4d9a70cde39c9800b7b59bc7b5d5099ae6630daa6f95e95e0ee92"
+    }
+  ]
+}

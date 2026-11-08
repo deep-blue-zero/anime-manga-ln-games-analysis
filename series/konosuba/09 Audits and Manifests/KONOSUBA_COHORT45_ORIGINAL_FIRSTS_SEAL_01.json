@@ -1,0 +1,76 @@
+{
+  "schema": "konosuba.cohort45.source-safe-original-firsts-seal.v1",
+  "private_complete_seal_sha256": "ed12623515ec50b9c465fcf68d57d7b18249c87794df2395ce37789710a8410f",
+  "sealed_utc": "2026-10-25T06:48:26.588041+00:00",
+  "input_freeze_path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_EXACT_INPUT_FREEZE_01.json",
+  "input_freeze_sha256": "352da7f2cb8ef04fe996fc0db05664923bf61f6d4961a5d9812471bdc33f642f",
+  "original_bundle_pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/SHUMEL_EXPANDED_V1_EVIDENCE/SHUMEL_FIRST_OUTPUTS_01.json",
+      "sha256": "2ea8d378c1e3e781342ca7921c0b5885429d8fb31e59e4e79e01e3b1c601eedc"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KNEE_VETERAN_EXPANDED_V1_EVIDENCE/KNEE_VETERAN_FIRST_OUTPUTS_01.json",
+      "sha256": "ee46e1784280fdac2e9305c42d596d9a70692dc68f144ba91d2d267fb10b9299"
+    }
+  ],
+  "responses": [
+    {
+      "id": "SHU-A1",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "UTF8_body_sha256": "a142d2918d629009206cd48875cb03f111ee5f56b9a9291b3563f77d206ec345",
+      "exact_prompt_sha256": "4af1d0681df1928c754fcf7ab6d696aa1f79590edabd4da53aeddc30bafd9da2",
+      "attempt": 1
+    },
+    {
+      "id": "SHU-A2",
+      "pair_id": "SHU-A",
+      "rule_id": "SHU-R01",
+      "UTF8_body_sha256": "3d9625c265fc8fa20742ea0041f4a1453de160c5dc663334414741061742b129",
+      "exact_prompt_sha256": "c7863000d662bb933035c68497fe1c12c409d3a07adf6470372c55e75d546830",
+      "attempt": 1
+    },
+    {
+      "id": "KIV-B1",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "UTF8_body_sha256": "24a37455c3744b2f57c1f51e1c0cc40ce9322f555838b6f3247f2fa027aaf514",
+      "exact_prompt_sha256": "5f386470de884c5bc07bc78e3f1e56802a911f8cfc3475d0568645cc300b0465",
+      "attempt": 1
+    },
+    {
+      "id": "KIV-B2",
+      "pair_id": "KIV-B",
+      "rule_id": "KIV-R01",
+      "UTF8_body_sha256": "952d89b645e40272a4f335e3b7f6107cabf19dc93ada5260e948843094da8bc9",
+      "exact_prompt_sha256": "9122c77453e6586351b8bec4ff9c9437cd79b1237719d96c7dd68af5157b55f5",
+      "attempt": 1
+    },
+    {
+      "id": "KIV-C1",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "UTF8_body_sha256": "17701a7f190c0ea626ab49956f5e71de3b8d24219872eaf6c52d17312bec17ac",
+      "exact_prompt_sha256": "10938e2b199dfe65744ebe3f65fe0bb9a02acb41ee34eba745794103aa4272cf",
+      "attempt": 1
+    },
+    {
+      "id": "KIV-C2",
+      "pair_id": "KIV-C",
+      "rule_id": "KIV-R02",
+      "UTF8_body_sha256": "afe4172b8346fcdff60ecdbff2731cedb292bcd03160261bf7713848659607f6",
+      "exact_prompt_sha256": "c33dc7e5c1030d0b911709ccb66c2d1be612ad3773930d79195db89c3c25db52",
+      "attempt": 1
+    }
+  ],
+  "first_body_count": 6,
+  "dependent_pairs": 3,
+  "feedback_before_seal": false,
+  "first_body_model_or_input_repair": false,
+  "active_root_source_informed": true,
+  "separate_or_blinded_model_claim": false,
+  "independent_observation_count": null,
+  "grade_confidence_or_final_battery_gain": false,
+  "body_hash_encoding": "UTF-8 of original_body plus exactly one terminal LF, matching each preserved raw original file. The JSON original_body string omits that terminal LF."
+}

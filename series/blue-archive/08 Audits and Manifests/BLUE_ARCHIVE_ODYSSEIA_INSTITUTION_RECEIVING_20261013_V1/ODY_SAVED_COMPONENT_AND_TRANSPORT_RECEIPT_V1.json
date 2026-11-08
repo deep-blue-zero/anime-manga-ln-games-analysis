@@ -1,0 +1,127 @@
+{
+  "schema": "ODY_SAVED_COMPLETE_CURRENT_COMPONENT_AND_TRANSPORT_RECEIPT_V1",
+  "existing_home": "P3-INST-ODYSSEIA",
+  "primary_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 33349,
+    "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+    "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f",
+    "preservation": "EXACT_ROOT33350_BYTES_TWO_FINAL_LF_UNCHANGED"
+  },
+  "complete_current_component_tuples": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O000_O029_CURRENT_PURPOSES_V1.json",
+      "bytes": 258487,
+      "sha256": "c7155e06af23c6649af78623d6c4b8d39f91908d3cf098f8b7756df018e939b4",
+      "git_blob_oid_of_actual_bytes": "dbdca68e084a5ac55c46b07ded86787b3386685a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O030_O054_CURRENT_PURPOSES_V1.json",
+      "bytes": 324615,
+      "sha256": "a7fde84b174f0770ee3dec9011c6d1e5dd1de0278be458873fbbb0bee42d6fa3",
+      "git_blob_oid_of_actual_bytes": "47e7002fe25433eafca9340b636a44dcba4f1d75"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O055_O079_CURRENT_PURPOSES_V1.json",
+      "bytes": 412905,
+      "sha256": "dcdc3ec1cef927e87a4ea8799e48eeddf39fcae42eb683e1c606e4b16463eb0b",
+      "git_blob_oid_of_actual_bytes": "8718e246a41efadde37570567dcca6ed6ffc0a76"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O080_O104_CURRENT_PURPOSES_V1.json",
+      "bytes": 519960,
+      "sha256": "156397b49c4262db42decf03abe9e1535cc8e0de5133ca40f0bf20eed6769aec",
+      "git_blob_oid_of_actual_bytes": "c313608d36e0bebdd8daabde4a2dc334436f221a"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_SOURCE_BINDINGS_AND_FROZEN_INPUT_CUSTODY_V1.json",
+      "bytes": 76219,
+      "sha256": "3cb3b552358176ddd2b89cf691afa6ba09f3e2bd6f729563389c63bdc095681e",
+      "git_blob_oid_of_actual_bytes": "c6cb25005042e779aa822be8bb3fd54bdea93973"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_CURRENT_PURPOSE_INDEX_V1.json",
+      "bytes": 334653,
+      "sha256": "364ac445a29a55f7aea96e4782969b06559dcd58bbf129c1244b3331d0a272d7",
+      "git_blob_oid_of_actual_bytes": "2714d9efedb09b87873ee470fc8b374a477a2244"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ROOT_AUTHORED_COMPLETE_LITERAL_CLAIM_SOURCE_RIVAL_END_GAP_REGISTER_V1.json",
+      "bytes": 323339,
+      "sha256": "38ae859b411447e825857eb7f825a9f53e287d57404f7597d4e9ed64cad68a3b",
+      "git_blob_oid_of_actual_bytes": "578591a74f40c515b717f83b467ad8a1c30cfa6c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_REMAINING100_INDEPENDENT_PURPOSE_REVIEW_CURRENT_QUALIFIER_V1.json",
+      "bytes": 257931,
+      "sha256": "27de72abfe39d802439b64abdb4cfd28c1a572d85d26f2e3dc75439d08d5a40d",
+      "git_blob_oid_of_actual_bytes": "60ee3a639cabd99091dba698ab5b1738427a9cac"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_CURRENT_INPUT_AND_PREPARATION_RECEIPT_V1.json",
+      "bytes": 17538,
+      "sha256": "9e4f3d9594c1626ef2fec44999a2dee9f20f631989a7e3baeedc45f523140990",
+      "git_blob_oid_of_actual_bytes": "a6943148ed54daa9588cc84039ab85f703614556"
+    }
+  ],
+  "counts": {
+    "claims": 36,
+    "institutional_dimensions": 15,
+    "rivals": 8,
+    "finite_endpoints": 16,
+    "OPEN_gaps": 14,
+    "source_aliases": 20,
+    "source_specific_purposes": 105
+  },
+  "stage": "C_ONLY_COMPLETE_CURRENT_PROPOSAL;DIFFERENT_AUTHOR_FINAL_COMPONENT_QA_AND_ROOT_ADOPTION_INSTALLATION_PUBLICATION_PENDING",
+  "exact_old_source_inputs_and_beforeimages": "Private exact immutable witnesses and full scalar/path-only inverses retained; new public witnesses use opaque identifiers.",
+  "current_source_grade": "ROOT own prior19 plus selected connectedEVENT860, existing105 source-purpose report meanings. Author additional whole20 retained as attributed adequate reuse;26whole79selected underlying contributors not upgraded.",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "fixed355_29_25_384_788": "UNCHANGED",
+  "new_canonical_package_named_source_admission_identity_registry_generated_or_model_credit": 0,
+  "future_author_preflight_remote_chain_main_and178_certification": "NOT_CLAIMED",
+  "R_Git_provider_mutations": false,
+  "current_format_only_publication_successor_qualification": {
+    "schema": "ODYSSEIA_REQUIRED_PUBLICATION_WHITESPACE_ONE_FINAL_LF_SUCCESSOR_QUALIFICATION_V1",
+    "reason": "Required publication whitespace gate found new blank line at EOF at old174. Remove only last LF; no analytical prose or source change.",
+    "historical_ROOT_V3_and_whole_review_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 33350,
+      "sha256": "2a5857a5bad2f8708672cbd3458845db28789615f161ef21cb46c775d406ad52",
+      "git_blob_oid_of_actual_bytes": "2655f5798c709d34a8cb9800b96a5a65303221d5",
+      "physical_lines": 174,
+      "final_LF_count": 2,
+      "role": "Frozen original authored/received argument and all original ROOT/QA declarations stay literal history."
+    },
+    "current_saved_format_only_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_ODYSSEIA_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 33349,
+      "sha256": "99fa75c73f38f08d79d6d1da8d79bac6b48aee3a4651103e220d8a9bc1714a26",
+      "git_blob_oid_of_actual_bytes": "4099606621ba8f7d18ba2f44b0a64143b4ef468f",
+      "physical_lines": 173,
+      "final_LF_count": 1,
+      "claims": 36,
+      "all_claim_heading_rival_endpoint_gap_physical_locations": "UNCHANGED; only terminal empty physical line174 removed."
+    },
+    "review_coverage": "Prior complete V2 whole174 plus current V3 complete three affected lines/full inverse and full current36/105 exact11 QA cover the unchanged argument. This one-byte format delta is not a fresh whole173 literary or source pass.",
+    "ROOT_original_literary_semantic_adoption": "Complete original body/current105 purposes accepted WITHLIMITS; same argument retained. Current format delta/composition adoption still requires ROOT separate actual receiving.",
+    "frozen_snapshot_fields": "All original174/33350 ROOT and complete QA body/tuple/decision declarations and original11 snapshot arrays remain literal dated history. Only explicit operative current binding fields are updated.",
+    "required_whitespace_gate": {
+      "algorithm": "C-local git diff --no-index --check against an empty beforeimage",
+      "actual_body_exit_code": 1,
+      "whitespace_output": "EMPTY",
+      "result": "PASS",
+      "status_role": "Expected diff-only status1 is no whitespace failure; no Git repository or provider action."
+    },
+    "complete_full_actual_V1_recovery_artifact_id": "ODYSSEIA_EXACT14_V2_ONE_FINAL_LF_AND_ALL_CURRENT_BINDING_COMPLETE_FIELD_DIFFS_EXECUTED_ACTUAL_V1_FULL_BYTE_INVERSES_V1.json",
+    "current_format_delta_and_public_composition_ROOT_adoption": "PENDING_SEPARATE_CURRENT_ROOT_RECEIVING",
+    "actual_installation_sharedmetadata_publication_SOURCE_HK_FINAL_and_main": "PENDING_ROOT",
+    "composition_author": "/root/minato_105_derivative; format binding/composition author, not a new independent reviewer.",
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "fixed355_29_25_384_788": "UNCHANGED",
+    "new_source_primary_native_raw_AV_admission_identity_package_named_registry_generated_or_model_credit": 0,
+    "merge_approval": "RESERVED"
+  }
+}

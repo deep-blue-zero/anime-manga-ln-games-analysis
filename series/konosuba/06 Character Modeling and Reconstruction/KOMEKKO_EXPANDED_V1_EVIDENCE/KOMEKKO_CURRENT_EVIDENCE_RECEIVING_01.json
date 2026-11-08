@@ -1,0 +1,335 @@
+{
+  "schema": "KONOSUBA_KOMEKKO_CURRENT_EVIDENCE_RECEIVING_V1",
+  "accepted_utc": "2026-10-20T03:07:49.581550+00:00",
+  "status": "SCOPED_SEMANTIC_RECEIVING_COMPLETE_PUBLICATION_PENDING",
+  "receiver": "Same informed root, actual eighteen-page/fifteen-text-unit current receiving,79selected ledger entries and source-known internal contrast review. No independent review or native-human voice assessment.",
+  "current_primary_scope": {
+    "unique_base_slots": 1602,
+    "text_units": 15,
+    "source_identities_with_actual_text": 5,
+    "actual_image_prose_pages": 18,
+    "known_groups": 5,
+    "no_new_whole_book_ruby_or_independent_credit": true
+  },
+  "ledger_scope": {
+    "schema": "KONOSUBA_KOMEKKO_CURRENT_LEDGER_SCOPED_ACTUAL_RECEIVING_V1",
+    "received_utc": "2026-10-20T03:02:45.782622+00:00",
+    "mechanical_concordance_sha256": "449e4a119ac1add5e3e303d99757c0727a7248ca2e8ed186b582aae9a92ff571",
+    "actual_items_received": 79,
+    "actual_display_groups": [
+      [
+        1,
+        15
+      ],
+      [
+        16,
+        35
+      ],
+      [
+        36,
+        55
+      ],
+      [
+        56,
+        67
+      ],
+      [
+        68,
+        79
+      ]
+    ],
+    "physical_ledger_files": 11,
+    "analytical_responsibilities": 10,
+    "pins": [
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+        "bytes": 327737,
+        "sha256": "2b2912eaaf85e25136af48fe7843afab528af8c75191a92efa4ab02d3f8af957",
+        "actual_selected_lines": [
+          336,
+          659,
+          673,
+          675,
+          691,
+          693,
+          826,
+          1292,
+          1316,
+          1529,
+          1558,
+          1559
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+        "bytes": 238677,
+        "sha256": "d984cbe4bdab84b3fa2f0eca5cbb971a0232d8f87e35b5d2956fc6a5ec57e7c5",
+        "actual_selected_lines": [
+          222,
+          231,
+          576,
+          580,
+          582,
+          1284,
+          1285,
+          1312
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+        "bytes": 295368,
+        "sha256": "f5b26274d0e1a8d6f7fdb71bd19c4b08c598ef6ec0265a76063467fea4a8420d",
+        "actual_selected_lines": [
+          286,
+          961,
+          963,
+          967,
+          968,
+          1744,
+          1771
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+        "bytes": 814016,
+        "sha256": "f31a812821e07d54e4f4547cab0b2c08d4c4c36bb48ac38f480b890a9b49b8d0",
+        "actual_selected_lines": [
+          444,
+          1775,
+          1802,
+          1803
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+        "bytes": 625345,
+        "sha256": "108ac6eb661cb329ee069a6477ff98c53582f620ab7a33d17bc075d832231660",
+        "actual_selected_lines": [
+          959,
+          1351,
+          1731,
+          1740,
+          1741,
+          1768
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+        "bytes": 220642,
+        "sha256": "44d092bf7d083afca39f55c35a50e8ae75947188ab91e8db3a9fbcefcf390ea5",
+        "actual_selected_lines": [
+          485,
+          490,
+          1006,
+          1008,
+          1029,
+          1111,
+          1213,
+          1240
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+        "bytes": 1037609,
+        "sha256": "6e3892edf4e3248d30b61594e750822d36d526277174baa18331909daeb52263",
+        "actual_selected_lines": [
+          299
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+        "bytes": 159514,
+        "sha256": "9b3289e4e9e90d73b7fcafb3b374e56c60cb8d9611a064f344ead734f2098d5a",
+        "actual_selected_lines": [
+          65,
+          95,
+          98,
+          99,
+          312,
+          341
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+        "bytes": 213184,
+        "sha256": "2e5efa1c970f669da068fb1726df65ca9386be2258a17f50d6d966012a263a1f",
+        "actual_selected_lines": [
+          225,
+          450,
+          454,
+          455,
+          461,
+          464,
+          465,
+          550,
+          563,
+          752,
+          883,
+          1162,
+          1189
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+        "bytes": 243428,
+        "sha256": "8c4b88b7b812fc5ea87f04a4600922e52004b9a386c74c8eb8bb97551c06ef37",
+        "actual_selected_lines": [
+          287,
+          288,
+          586,
+          588,
+          1070,
+          1071,
+          1081,
+          1286,
+          1313
+        ]
+      },
+      {
+        "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+        "bytes": 201514,
+        "sha256": "0bd012f2f3f4fb7bc272668b7a7d8b124bf7d17cd0aa0e780ffa693df86e8aa6",
+        "actual_selected_lines": [
+          143,
+          407,
+          411,
+          1090,
+          1117
+        ]
+      }
+    ],
+    "decisions": {
+      "CHARACTER_STATE": "Append Komekko's own source-state age, changing engagement/body state, selective giving and named attachment; older limited-profile assessments remain historical. No new universal trait or diagnosis.",
+      "COMPETENCE_CONTEXT": "Append task-specific puzzle skill versus reading/causal/physical-help limits, qualified talent testimony and correctly distributed MAIN05 weapon actions. No power/IQ rank.",
+      "DECISION_ERROR": "Append failed Hoost tactics, mistaken offering, practical bargaining and harmful help; separate a real child source error from H02A authoring location failure.",
+      "HUMOR_MECHANICS": "Append food/role/expectation reversals and preserved literal acts/unshown outcomes. No replacement H/L codes, selected-sample denominator or all-comedy exemption.",
+      "JAPANESE_VOICE_HUMOR": "Append explicit Hoost copied phrase, specific Bukkorori reports versus Megumin guess, ordinary thanks/private affection and physical memo versus first-person image narration. Artbook reader-song remains a separate printed plane; no acoustic/native-human claim.",
+      "KAZUMA_NARRATOR": "Append reader-only Komekko interludes, Megumin inference/report, child actual writing and mother-read memo. Existing YORI04 aptitude and EXP03 lore remain reports; no knowledge leakage or fresh direct event.",
+      "MODEL_PREDICTION_VALIDATION": "Append only to CONTINUATION_01: six KM-K informed rules/four pairs/eight first bodies, one retained adverse location error, generic rivals and no H04 discrimination. Original large ledger and all scores/outcomes exact.",
+      "ORDINARY_LIFE_PREFERENCES": "Append novelty/boredom, hunger/plenty/sleep, two concrete sharing contexts, book/lunch gift, tea service and rejected carrying request. Reference song, TRPG appetite description and promotional future script are not new dated acts.",
+      "RELATIONSHIP_STATE": "Append particular Hoost friendship/provider refusal, Megumin care with child nonassent, Kazuma giving/receiving, Aqua play/care, Yunyun flawed-help recipient and Luna's own institution design.",
+      "SERIOUSNESS_OVERRIDE": "Append specific costly giving/concern with no universal protection/compliance brake. Preserve evacuation refusal, unknown bear outcome, Yunyun shielding and unshown seedling eating."
+    },
+    "scope": "All79 matching entries and their displayed preceding headings actually received. Some are headings or reused actor-list routes rather than load-bearing child evidence. This is a targeted Komekko/Hoost selection, not full ledger-body receiving, all incidental entities, another observation or new primary exposure. The mechanical preparer also scanned eleven additional frozen register files with zero matches; they receive no semantic credit and are not these eleven ledgers.",
+    "new_independent_observations_or_tests": 0,
+    "original_big_prediction_ledger_mutable": false
+  },
+  "census_scope": {
+    "rows": 157,
+    "targets": [
+      "Komekko",
+      "Horst / Hoost retrieval variant"
+    ],
+    "unaffected_rows_exact": 155,
+    "new_rows": 0,
+    "only_Komekko_new_scopedTier3": true,
+    "six_prior_tier_states_unchanged": true,
+    "Hoost_native_name_join": "ホースト at EXP01 IMG027/029; existing retrieval-row key unchanged; ownTier2candidate scope still open.",
+    "canonical_candidate_sha256": "49681e6d2d5a88ca81fcc7374d044d09f02a6e55ad6681b3b5a3f335216c32aa"
+  },
+  "bounded_name_reference_decisions": [
+    "Komekko is the first-person image-prose narrator; decorative Megumin art and Megumin chapter narration retain separate actors and access. Image narration is not a physical diary act.",
+    "Specific EXP01 age is five at U018P407; no fixed age across later chronology. Child work/generation remains nonsexual and age-appropriate.",
+    "Native ホースト joins existing Horst/Hoost variants. His future summoning/talent/lore claims remain attributed, not demonstrated general child control or a completed contract.",
+    "Megumin charges, Kazuma interprets/aims, Komekko notices and pulls the trigger, Aqua holds her; no sole weapon author. Yunyun shields and receives harmful attempted help; neither is the child's completed technical skill.",
+    "Megumin's later confirmation and public divine-battle story, mother-read memo, embedded fable and actual child writing remain separate planes. Correct quotation does not prove adult implication/causal understanding.",
+    "Hoost explicitly acknowledges one copied phrase; Komekko reports particular Bukkorori lessons; Megumin's different teacher guess remains unverified. No universal slang-source attribution.",
+    "Luna supplies papers/incentive/adult commitment; child assent is to listen, not to consent for others or design the system. An unnamed visitor, news vendor and source-required anonymous actors remain unnamed.",
+    "Same beast/capture/kitten arrival, same seal chain and later retelling, and same treasured book are deduplicated. Unknown bear result and unperformed pet/plant eating remain open.",
+    "Hypothetical H02A location error is retained as authoring evidence; H04 identical answers supply no behavioral discrimination. No scenario is installed as a source event or first response rewritten."
+  ],
+  "draft_pins": {
+    "KOMEKKO_CHARACTER_MONOGRAPH_PRIVATE_DRAFT_02.md": {
+      "canonical_path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KOMEKKO_CHARACTER_MONOGRAPH.md",
+      "bytes": 22167,
+      "sha256": "926667fda86e7d1ff46d0e8b18a68128d9e4463ee8c8c46494927922177c398f"
+    },
+    "KOMEKKO_RECONSTRUCTION_MODEL_PRIVATE_DRAFT_03.md": {
+      "canonical_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    "KOMEKKO_EVIDENCE_INDEX_PRIVATE_DRAFT_02.md": {
+      "canonical_path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_KOMEKKO_EVIDENCE_INDEX.md",
+      "bytes": 16662,
+      "sha256": "96cafceee55fb94776202466377a70a7eb3615f2f1e7aa7fe0b7e792e0437d19"
+    }
+  },
+  "twelve_entering_model_pins": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "internal_exercise": {
+    "pairs": 4,
+    "first_bodies": 8,
+    "adverse_H02A_location_error_retained": true,
+    "H04_behavioral_discrimination": false,
+    "independent_accuracy_or_general_confidence_gain": false,
+    "first_responses_sha256": "e7e26a52cdf430a5b42e7791ec1eb1f11a20253e56cef9a66d30164e1cd2a2a5"
+  },
+  "preservation": "66current immutable files,72historical pinned bytes,fourscores,14Dustblanks,SI-SY28nulls,twelveenteringmodels,80scratchandDustpostgate7 remain protected. Historical72 will also be rechecked at staging; no protected source/history overwrite is authorized.",
+  "not_closed": [
+    "Exact candidate adoption, publication, source audit, housekeeping, final actual-source audit/status and fresh authority reload",
+    "Full ledger bodies/global individual-event census; further proportional artifacts and profiles",
+    "Expanded specialists and separately versioned six principal/party/transfer revisions",
+    "Designated discovery/evaluation curation, governed integration and component/release/final-entrypoint audits"
+  ]
+}

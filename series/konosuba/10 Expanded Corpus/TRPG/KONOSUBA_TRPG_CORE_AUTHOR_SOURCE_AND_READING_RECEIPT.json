@@ -1,0 +1,100 @@
+{
+  "schema": "TRPG-CORE/complete-initial-component-inspection/v1",
+  "status": "INITIAL_AUTHOR_CANDIDATE_PENDING_ROOT_SUBSTANTIVE_RECEIVING",
+  "created_utc": "2026-10-18T00:20:52.641071+00:00",
+  "source": "TRPG-CORE",
+  "native_identity": {
+    "bytes": 118704701,
+    "sha256": "038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c"
+  },
+  "admission_identity": {
+    "bytes": 247883,
+    "sha256": "63fdcf5557c2d1aff5fa3d742722f06e66479d0ffa8e061c6942823fd779a1c1"
+  },
+  "actual_ordered_pages": 333,
+  "unique_actual_native_images": 333,
+  "individual_ack_count": 333,
+  "first_ack_utc": "2026-10-17T23:24:24.086147+00:00",
+  "last_ack_utc": "2026-10-18T00:06:51.161525+00:00",
+  "ack_file": {
+    "name": "ACTUAL_ORDERED_PAGE_VIEW_READ_ACKNOWLEDGMENTS_AND_UNCODED_NOTES.jsonl",
+    "bytes": 305631,
+    "sha256": "3ee568d15cd55389fea788a4735beb755af5cb5c1b892bf031d30c7944511673"
+  },
+  "uncoded_seal": {
+    "name": "COMPLETE_UNCODED_SOURCE_FIRST_SEAL.json",
+    "bytes": 1322,
+    "sha256": "c5bb72f547fdd53020503f76d040ff7d4aaca266402c1b8204f8493ddeaa2d23"
+  },
+  "first_pass_scope": "Full eligible Japanese replay, second-person world fiction, prospective authored scenario, vignettes, main-character teaching commentary, optional-lifepath miniatures, quest/enemy flavor and embedded examples read. Every page visually inspected. Individual scopes/legibility govern dense rules/stat sheets/appendix/index; no exhaustive all-text, numerical balance or cross-rule audit.",
+  "native_material_rechecks_after_uncoded_seal": {
+    "spines": [
+      64,
+      69,
+      75,
+      78,
+      84,
+      103,
+      107,
+      111,
+      115,
+      116,
+      205,
+      251,
+      254,
+      258,
+      263,
+      264,
+      265
+    ],
+    "unique_pages": 17,
+    "additional_crop_displays": 2,
+    "purpose": "Short Japanese form, source plane, wordplay and attribution checks within already-read CORE pages. Printed113 label remains explicitly uncertain. Not additional source coverage or independent reading."
+  },
+  "newly_authored_analysis_scope": {
+    "selected_humor_premises": 75,
+    "selected_voice_context_witnesses": 41,
+    "ten_ledger_observations": 30,
+    "all333_disposition_rows": 333
+  },
+  "source_plane_controls": [
+    "Edited replay ≠ unfiltered transcript or a natural independent experiment.",
+    "GM/player/PC/NPC/editorial narration, reported background, actual resolution and hypothetical plans are distinct.",
+    "World-guide narrator addresses unnamedキミ; Kazuma is a character, not its first-person narrator.",
+    "Prospective scenario scripts/branches are not actual play.",
+    "Reference/templates and pedagogical/promotional balloons do not automatically yield performed character behavior."
+  ],
+  "H_protocol_control": "H3 means a behavior too dependent on a local punchline to generalize. Source authority/uncertainty is separate. N/A is retained where no performed behavioral target exists; game abstraction alone does not imply H4.",
+  "current_qualifications": [
+    "V023 original uncertainty phrase was normalized; public offer fragment is rechecked.",
+    "V024 original Fireball was a normalized graphic abbreviation; public short fragments are rechecked.",
+    "U044 original tiny label/pun claim remains glyph/form-uncertain; preseal draft and original note preserved, current L UNCERTAIN.",
+    "V036 eternal20 is profile narration, not Wiz spoken dialogue.",
+    "U065/V037 corrector balloon is untagged; figure described cautiously rather than confidently tagged."
+  ],
+  "legibility_limits": [
+    "Tiny cover-design lettering not completely transcribed.",
+    "Native fold edges clip some cover/form composition, with no identified eligible story-text gap.",
+    "One compressed optional-family label remains uncertain; adjacent explanatory miniature is read."
+  ],
+  "bibliographic_planes": {
+    "original_supervision": "暁なつめ",
+    "author": "F.E.A.R.",
+    "original_illustration": "三嶋くろね",
+    "electronic": "2019-08-01 ver.003",
+    "base_print_first_edition": "2019-03-20",
+    "base_print_third_impression": "2019-06-25",
+    "package_modified": "2021-06-16; metadata only, not substituted for publication date",
+    "replay_era": "Near Kazuma/Aqua arrival, not post17"
+  },
+  "prior_knowledge_exposure": "Same informed independent-reader AI lineage; main17, four source-local validations and artbook knowledge already known. Possible pretraining and purposeful selection disclosed. No pristine blindness, human rater, acoustic/performance or statistical-independence claim.",
+  "peer_exposure": "No P/S/other CORE analytical products received before this complete packet seal. Root metadata/assignment and append-only ledger drift coordination received; new ledger tails not semantically read.",
+  "unchanged_authority": "Frozen R1 models/contracts/responses, main forecasts, four source-local scores and all old history unchanged. No fifth validation or main-J02 census.",
+  "source_safety": "Candidate derivatives contain original analysis, short exact Japanese fragments, native member routes and hashes only; no raw media, OCR exports, full paragraphs/XML, attachment paths or private acquisition evidence. Private display plan/crops/native remain excluded.",
+  "execution_settings": {
+    "actual_system_model_id": "not exposed by runtime",
+    "sampling_seed_temperature": "UNKNOWN",
+    "method": "AI image-tool viewing and Japanese reading with durable acknowledgments; no OCR, external summaries/translation, listening, stochastic API sampling experiment or human review."
+  },
+  "publication_status": "Not accepted/adopted/published by this author. Root alone owns current-prefix reconciliation, canonical writes and later publication."
+}

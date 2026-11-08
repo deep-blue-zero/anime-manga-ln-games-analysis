@@ -1,0 +1,1298 @@
+{
+  "schema": "BLUE_ARCHIVE_SERINA_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 45880,
+      "sha256": "cc402f3485d17fce38314f6ec053a6334153cfeec6fe2e09c9c891cdea5294da",
+      "git_blob_oid_of_actual_bytes": "547cbf50b8a69d47941d9e3ec9ef65d0f1f556be",
+      "lines": 193,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 47927,
+      "sha256": "aafeaa07f2b288deb00b84c19d30f0e0732f2d430297481ac995100109316e36",
+      "git_blob_oid_of_actual_bytes": "0a6ef7b7a4470facc4414506f1ac7b27968f209d",
+      "lines": 203
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "5483387a081795a185058a144ba0b36ea0ff756e89bc91f2b4218ce73123be50",
+        "line_text": "title: \"Serina: particular care, wanted company, and the recipient's unfinished claim\""
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "1bbfbf93b1443c36798cefc295849fd4a4fde94672a68e6fd77ebf7186b21b10",
+        "line_text": "artifact_id: BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+        "line_text": "artifact_type: character_monograph"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "eaf87c0bdc544084e633fb80904849cab759268567d1f531d51e5c97ff6d3b9b",
+        "line_text": "do_not_use_as_literary_evidence: false"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e79e80556c62d4ce3e7cd9b049dcf72a90f1fab120aef408ed9fedb29a112637",
+        "line_text": "reasoning_class: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "9a4329d539c4afe4e7dff45ad413007adbc5cd644222e58a0f1d3a7d45f18e64",
+        "line_text": "architecture: BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1, section 7.1, version 1.12"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "85c54b136fb88d4c1439977b094149d98d35f209ef18b573f82ba7db78ba72a3",
+        "line_text": "required_home: P3-CHAR-SERINA"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "cac8ac31372ef292e1a986c724c15bbd5eee8171bc0efb80f5b9c250c7cdd1c1",
+        "line_text": "candidate_responsibility: P3-F132"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "cdb14584944538301e3739da735f590398106c87485d63eb376874b0dc4ea029",
+        "line_text": "identity_scope: BA_PERSON_SERINA; normal 26003; Christmas 10056; event costume 1900908201 positively routed to 10056"
+      },
+      {
+        "frozen_line": 16,
+        "canonical_line": 16,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "01763e80e90d7fdc7716863e979ba81b7698ecb5707dbb0b4325f350b2d5d923",
+        "line_text": "dated_navigation_snapshot: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "a58bb5038e7db261495f25fc049142ea4cb9d2a5e6199421b8efe7389cdd2a60",
+        "line_text": "source_game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "253c2c13520916e9d01a2fb6caf323f4e5367584e263e1b293dc93fd68cbf38c",
+        "line_text": "source_parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "da2cedc0f0ee4c17e38145437835832073273d1b4c2d69b071d08c576ac74ada",
+        "line_text": "source_admission: Current Cycle008 admission with limits; earlier accepted owners retain their declared witnesses"
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "3f86d16c033b4fe62d7f79be6cbb08aad910dd05f1f79963fa73bcfd79b99c99",
+        "line_text": "contributor_inspection: Complete adequate accepted private and specified public analytical arguments; zero new primary, native, raw, QA, audio or audiovisual inspection"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "ff548e5b42a1ad6394bdd12057321d1c6a508cc9b9bb91237d15a4b0439b3f39",
+        "line_text": "reading_order_and_independence: Historical contributor order and independence remain UNKNOWN where not recorded; retrospective synthesis is exposed"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "b03d3acd5de3166c7e5a91f32560bfc72c5b6d945cfc67e905ce71a6c5cc7036",
+        "line_text": "performance_boundary: Written registers only; performed voice and embodied staging unreceived"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 27,
+        "line_sha256": "5175df5ce7be1adb0223a92e9b1548d2c7a434075421e77a1dc30ac0d4a36b7b",
+        "line_text": "authority_quartet: Admission, contributor inspection, reading order/independence, and performance are separate conditions"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 28,
+        "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+        "line_text": "model_promotion: NONE"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 29,
+        "line_sha256": "60ef09440e832a525a211bd8505cea1fcb66d12195eababefef14ef110703f4b",
+        "line_text": "gap_disposition: All original stable G01-G14 remain OPEN"
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 38,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 39,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 40,
+        "line_sha256": "b9b5928fb5206e3359f0a82a62f564eac77cb25b01b2fc41c65555e6143bce45",
+        "line_text": "# Serina: particular care, wanted company, and the recipient's unfinished claim"
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 43,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "893b9764c906e7721ef23b89c1c91c5973f7c1b7f4ebad73f69ae102a6ab69b1",
+        "line_text": "Serina's distinguishing achievement is to make care particular. A child needs a bandage, an injured hand makes opening a gift difficult, an exhausted adult needs time away from work, and a patient worries that a school's nurse might refuse him. She notices these differences rather than treating everyone as an interchangeable occasion to enact benevolence. Yet her skill at noticing need does not guarantee that she knows what another person wants, may do whatever seems beneficial, or has repaired the harm her group causes. The strongest account holds together three propositions: her care is often useful and sincerely enjoyed; she wants gifts, company, recognition and pleasure of her own; and some encounters leave recipients' refusal, knowledge or injury inadequately answered. None can serve as a convenient explanation that cancels the others."
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "3fc919b1f46699bf8a4a3ea93986bd63118991b776e69963644ff07bd5d83746",
+        "line_text": "The park bond makes the first two propositions inseparable. Children's reports establish balloon retrieval, play and help with injury; Serina says other people's happiness pleases her, then realizes that concentrating on children has made her inattentive to Sensei's needs. His ordinary wish for juice becomes a concrete gift rather than an abstract lesson in protecting a powerful adult. Her apology and his alternative replies matter: reassurance that an adult does not need attention produces her objection to that exemption; acknowledging her labor produces gratitude and another apology. These are distinct routes into a shared ending, not one ideal speech by Sensei. Care here widens through a recipient encounter. It does not begin only when the plot assigns a medical emergency. (`BA:bond:26003:002:scene:001:u:0009`–`:0015`, `:0016`–`:0027`, `:choice:001`, `:0028`–`:0037`; complete linked thread `BA:momotalk:26003:thread:260030010`.)"
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "968bb6fd206c392712915a2286e6b91c77a775d8723c55e1ba90d7c2d4a5c252",
+        "line_text": "The picnic reverses the direction of provision. Sensei prepares food and a place for Serina, who asks why he has done all this for her and finally enjoys a shared meal. Her stated happiness and the complete post-encounter thread support genuinely received care, not merely a caretaker rewarded with another assignment. The adult's false cry of pain is also an adverse method: he recruits her responsiveness by deception. The pleasant endpoint does not make that method a general permission to manipulate caregivers. Christmas then gives Serina further intrinsic ends: scarf warmth, a wish for company, delight in a holiday role, and an awkwardly withdrawn wish to spend time alone with Sensei in written costume material. These are different forms of wanting, with different actual endpoints. (`BA:bond:26003:006:scene:001:u:0001`–`:0004`, `:0021`–`:0042`; `BA:momotalk:26003:thread:260030250`; `BA:bond:10056:002:scene:001:u:0054`–`:0076`; costume `1900908201`, lobby 004–006.)"
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "4cb0e5b1820d4214543d8deb55d751bb35c956a1ddf93ba906281da5f80742ae",
+        "line_text": "The contrary evidence is consequential. Christmas massage proceeds under pressure; a night-care scene declares that Sensei has no right to refuse proposed stroking; the unused hospital floor contains force after an intruder's surrender and a later public denial inconsistent with what readers have seen. These qualify an account of good care at precisely the point where another person's body or knowledge matters. They do not establish that Serina always enjoys injury, that every request is coercive, or that she secretly causes every problem she treats. Her ordinary feeding limit, explicit invitations, self-questioning and cooperation with other nurses supply real counterexamples. The monograph therefore treats her as a fallible participant in particular relationships, not a person-wide diagnosis or a prediction rule. (Christmas `10056:003`, scene 002 u0025–0041; normal `26003:003`, u0042–0048; `BA:group:1702`, u0027–0035, and `BA:group:1703`, scene 002.)"
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "de2cbde79f0bc80a5516ab87cd8ef39125dbb79ad2c0cad7fe04a55e70234218",
+        "line_text": "The admitted material supports local developments and comparisons, not a chronological ladder from normal variant 26003 to Christmas variant 10056. MomoTalk schedule links locate an encounter within its own complete thread; the Christmas scarf explicitly links bond E003 to the gift in E002. Neither variant number, release sequence, favor rank nor repeated lobby context supplies a date relative to Eden, the Final, or later Arius. A mature account should say which change occurs within a scene or coherent sequence before calling it a durable personal transformation."
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "9b76c73c16cbbb1d9d452899844350b3fd94bbf6fc4c0a0e9a155cfac0546170",
+        "line_text": "In the normal park bond, Serina moves from competent child-directed help to embarrassment at having overlooked an adult, then to a particular response to his wish. The night bond develops a different state: Sensei's exhaustion permits her to occupy an intimate caregiving position, but she admits she is not yet a formal nurse. His sleeping face becomes a privilege she calls her own, and a request becomes a declaration of no refusal. The adult actually rests and wakes; formal qualification, universal touch consent and a clinically established treatment mechanism do not follow. These two bonds complicate each other. Increased closeness can expand her responsiveness and can license, in her own speech, an excessive claim over the recipient. It is not invariably moral progress. (`26003:002`; `26003:003:scene:001:u:0020`, `:0034`–`:0035`, `:0042`–`:0054`.)"
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "3e075319e53950fcf9d5e5f3267afed43ccbe1803c62b818ab5a3906000e0aaf",
+        "line_text": "The fall encounter restores the distinction between aspiration and achieved effect. Sensei may take stairs or enter an elevator; only the elevator route has the known nested hand-taking branch. These are alternatives, not multiple consecutive accidents. Serina assesses visible injuries, later reports completing treatment, and extends her desired protective duty even to a power cut. Power later returns and the narration ends his workday, but her wish to prevent everything harmful is not proof that she controls infrastructure. Camera footage that does not show her at the reviewed place leaves access unresolved. The subsequent thread permits Sensei's superhero accommodation to stand; it does not authenticate supernatural speed or surveillance. (`BA:bond:26003:005:scene:001:choice:001`–`:004`, u0014–0038; `BA:momotalk:26003:thread:260030150`.)"
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "0088ddd1d7aa60eff5e56570d70aa06b75b8decae3a7cf0ffc098fc7891230dc",
+        "line_text": "The picnic is an important achieved ordinary endpoint: she sits, eats, laughs and reports happiness after being cared for. By contrast, the Christmas scarf produces a genuine gift and her subsequent pressure to repay it through massage. An assurance that repayment is unnecessary does not release Sensei from her determination. His later report of feeling lighter remains a subjective result after an uncomfortable procedure, not retrospective consent. Christmas ward service gives another local correction: the special Santa assignment is distinguished from daily duties; Serina says people pursue what they like; she acknowledges limits and promises to contact Sensei if necessary. A future help request is not shown. Returning to Schale together is shown. (`26003:006`; `10056:002`→`:003`; `10056:005`, scene 003 u0002–0030.)"
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "7f78be6352e87ce96e017263e89f10f8ab2536d4194dfad4226c202507a9a368",
+        "line_text": "GROUP1701–1703 has its own adverse arc. Quiet ward work and affectionate patient descriptions precede an unused-floor investigation. The fake ghost's deception is available to the reader before the students understand it. Serina fears the location, then reasons that an already dead ghost cannot be harmed; the group's violence continues after surrender. A fabricated family-surgery story elicits help but does not justify taking valuables. A stolen sterilizer is forced open and explodes; Serina later tells patients a reassuring story that conceals the exploration and explosion, while acknowledging to the injured intruder that their mistake caused injury and that she wants him to recover. Acknowledgment is meaningful without becoming complete restitution, an administered injection, or proof of a safely reopened ward. (`BA:group:1701`–`:1703`, especially 1702 u0022–0035, 1703 scene 001 u0015–0041 and scene 002 u0024–0025.)"
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "142b8fc31d1fb5ab38fb49a9c879afd2c0407bc78ba5bdfb18ec112d26a35a48",
+        "line_text": "EVENT819 supplies a clearer shared movement from mistake to bounded repair. The juniors dispute an excessive blame assignment, choose to support Mine while intending to aid the wounded, encounter the opponents' admitted revenge, and help answer the resulting injuries. Treatment completion for other members and Hasumi's later recovery are reports with local scope; apologies and the actual party are further distinct acts. Mine's promise to improve is doubted. Serina can remain loyal, enjoy the reunion and acknowledge harm without the narrative having certified a reformed institution. (`BA:event:819:005`, `:007`–`:011`.) Main Eden's wounded-adult sequence and later V006 Arius aid add public states of distributed rescue and political unease. They broaden her repertoire without proving that these locally developing bonds occur before or after them."
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "d554f1f9c5de9ed90ab605b6b21af438a8444a9a5cdadcd576231067e0ad3442",
+        "line_text": "Serina's public reputation often receives its strongest praise from people who know only part of an encounter. Patients call the nurses angelic or describe Mine as a docile companion. Those descriptions are patient interpretations, not universal narrator verdicts. After the unused-floor events, patients remain affectionate while Serina denies conduct readers have witnessed. The discrepancy matters because public affection can coexist with withheld information. The meaningful contrary case is not merely that her kindness has a comic underside; it is that recipients cannot judge a causal history they have not been told. (`BA:group:1701`; `BA:group:1703`, scene 002.)"
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "0a847264c9ad012c9aa1b86d972ccbbc9b062cad61e6c39b35e5d59028faa701",
+        "line_text": "Private material reveals pleasures and vulnerabilities absent from that reputation: pink things, warmth, sweets, leisure, embarrassment at praise, a wish for company, and worry about whether she is strange. The normal written profile's maternal comparison is peers' figurative description, not biological kinship or an instruction that she has no life outside others' needs. Christmas's angel comparison is similarly figurative. Her ownership-like phrase about Sensei's sleeping face and her Christmas self-presentation as his Serina are more intimate than public professional language, but neither establishes an exclusive romantic relationship or ownership of him. (Written `BA:character_data:26003:profile_and_dialog`, Cafe 1996–1999; `BA:character_data:10056:profile_and_dialog`, 5004–5007; normal E003 u0034–0035.)"
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "04131ca0e9325b38f6631351368a521ae93868f0fe1febcac337aa90c835d815",
+        "line_text": "The concealment scenes should remain differentiated. Her unexplained arrival and departure, the missing camera image, the evasive MomoTalk reply and her avoidance of a ghost-nurse rumor question make the mystery a recurrent written device. They do not prove a single access mechanism, continuous stalking or telepathy. In Valentine gift E057 she corrects a utilitarian reading of the chocolate and seeks a pleasant seat and drink; Sensei may welcome her through an ordinary entrance or thank her. A future invitation to use a door does not show that she later does so. In the joint clinic she diverts a mystery question into a campfire invitation; the outing is not printed. A withheld explanation and an actual offered companionship must both survive. (`26003:005`; `BA:momotalk:26003:thread:260030070`; `BA:event:810:057`, u0001–0027; `BA:event:818:018`.)"
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "fd7ef402378c71cf9e193cd125eebaec39287b37e5d8df9d2c6ae806f33c0d29",
+        "line_text": "There is also no stable division in which public Serina only serves while private Serina only controls. Public charity includes joy and correction of donor prejudice; public clinic work includes explicit staff boundaries. Private ward work respects an injured hand and private written lobby dialogue offers massage rather than enacting it under pressure. Conversely, group hospital practice includes deception and excessive force. Context, actual request, recipient response and source mode explain more than an assumed split between a mask and a hidden true self."
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "7576b319aef97e1e7c41d3032c0f40bf8ed37bca10718f162a5c9fd15f0dd5e8",
+        "line_text": "The Rescue Knights give Serina a shared vocabulary of aid, seniority and duty, but the club also makes room for craft, seasonal imagination and ordinary affiliation. Christmas hats and gloves are made and given; carols and costumes belong to the textual festive repertoire; the party actually brings people together. At the Christmas ward she distinguishes extra Santa work from ordinary duties and says members have their respective preferred pursuits. Treating these acts only as evidence for crisis efficiency would discard what the club makes possible for its members and recipients. (`BA:event:819:001`–`:002`, `:004`, `:011`; `BA:bond:10056:005`, scene 003 u0003–0011.)"
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "1d1cd4747d1952cb5bc0ef219e800d3370dc3735c42b3f5cd5016260a1d5070f",
+        "line_text": "Membership does not abolish junior agency. Serina quiets Hanae's greeting and limits indiscriminate feeding, tries to steady a developing emergency, disputes Mine's blame assignment, and decides to support her captain while intending aid for the wounded. Her response to a donor's appearance and excessive contribution can precede the adult's intervention. Hanae's insistence that an injured hand needs help is an independent reason against Serina's feeding boundary; it is not an error simply because Serina provides the monograph's subject. Mine's name is invoked during the ghost investigation, but she does not appear there and her prior authorization of its methods is not shown. (`GROUP1701`–`:1703`; `EVENT819:004`–`:007`; `EVENT810:004`.)"
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "657436c7924de642f08c7b1a9d8440076108eebb2c8b429d5d1d709b48f9684c",
+        "line_text": "Club status likewise does not confer unlimited professional authority. Serina explicitly says she is not yet a formal nurse in normal E003. A school profile, hospital volunteering, a written treatment claim and a patient's thanks represent different evidence conditions. Clinic work can be competent in the fiction while remaining unverified as clinical measurement. The text does not license an empirical treatment recommendation, retrospective professional certification or a complete hospital safety audit. The same boundary prevents the weapon name Tactical Therapy from becoming a demonstrated mechanism for medical ammunition."
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "29d69600aaa0a95c0bfa3596b197153ec462a33d8f39fe8e638c3d22fcc2a1a3",
+        "line_text": "The institution's adversity is not reducible to Mine. The unused-floor case includes junior deception and force; the Christmas incident includes mistakes, peer injury and bounded treatment; cross-school care includes patients' institutional doubts. At the joint clinic a Trinity patient initially questions a Gehenna rescuer, then apologizes after useful care; Serina credits Sena's discovery and transport. This is an actual corrective encounter, not proof that every prejudice, rumor or institutional conflict has ended. The required Rescue institution and directed relationship studies therefore remain separate analytical duties. This character account supplies precise contributions rather than claiming to complete them. (`BA:event:818:018`; later Arius `BA:main:006:002:001`–`:004`, `:003:006`–`:010`.)"
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "440ac268bb3e5109b8caae91f6a95811156683d0ca0b3a5db952bb7c3ca06398",
+        "line_text": "## 5. Ordinary life, tastes and wanted ends"
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "eb78ada177473c938481fae08da24d3b408a1d0de9ab1fa691f3d2df14fd7500",
+        "line_text": "Serina's enjoyment is an intrinsic end, not a reward whose value depends on later danger. In the park she likes making children happy; the picnic gives her unhurried food, laughter and company; normal written Cafe lines name warmth, leisure and pink. Birthday language accepts a smile as a gift without banning other presents. Halloween combines wanted candy with concern about cavities. These modest preferences prevent caregiving from exhausting her identity. They also distinguish concern from its successful execution: a recovery wish at a cafe does not cure anyone there. (Normal E002 and E006; written 26003 Cafe 1996–1999, birthday 2009, Halloween 2013.)"
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "fe858c924dff8a0a88402fcdcddf4c7f6a103cdce86d5515da51f3ed70c56b59",
+        "line_text": "Christmas makes wanting particularly visible. Serina is cold, receives a scarf, values its warmth, and asks Sensei to stay with her. The request's answer is unprinted; no completed overnight companionship or date should be supplied. The scarf is nevertheless an actual received gift. Later the ward encounter ends in a shared return to Schale, which is a different completed companionship. Costume lobby speech begins a wish for time alone and withdraws it with an embarrassed dismissal. Withdrawal does not show Sensei refusing, accepting or failing to hear a completed invitation. Each endpoint deserves its own sentence instead of incorporation into a generic romantic progression. (`10056:002`, u0054–0076; `10056:005`, scene 003 u0015–0030; costume 1900908201, lobby 004–006.)"
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "0fc450b5d7110b45b2c747a58efb6aa1ef5b725a5fdf9b0fd4b16d9de25852d9",
+        "line_text": "Her gift work is also emotionally complicated. Handmade charity things and others' happiness matter to her, while a shop line hesitates to donate something precious. Sacrifice is therefore not effortless by definition. In the Christmas ward she conditions a present on a patient's promise about meals and treatment; this is pressure through reward, although actual gift denial is not shown. The queue offense in the Santa scene likewise does not identify a permanently bad child or establish a formal gift policy. Conditional closing lines describe charity completion in written context; they do not audit actual finances or prove every beneficiary received support. In Valentine E057 she gives chocolate discreetly and clarifies its occasion when Sensei initially interprets it as a sugar supply. His taste response and her pleasure are bounded culinary and relational events, not nutritional validation. Seeking to be understood as a giver with a particular intention matters even when nothing about the larger plot changes. (`10056:005`, scene 002 u0015–0018; `10056:002`, u0008–0013.)"
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "d41deb465cbb328fd4af7d7539b8386fda04ae319bff904a406f49c6ef0bbfd0",
+        "line_text": "Hanae's Santa anticipation and Serina's effort to preserve it belong to this ordinary imaginative life. Serina plans a gift and later intervenes when opponents threaten to spoil the story; the promised separate surprise is not shown delivered. Conversely, the Christmas party, extra hats and gloves offered by Hanae, and Serina's encouragement to receive them are actual acts. One need not authenticate Santa to recognize that a junior values anticipation and a peer protects that enjoyment. (`EVENT819:002`, `:009`, `:011`.) The written profile's handmade gifts and carol references support descriptions of repertoire; they do not provide an audio performance or depict every act of manufacture."
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "259dd7ca5b1ef317e47d8a7bd2887b5bc2a651810d4c874b3fe80254cd6b12c5",
+        "line_text": "Ordinary pleasure does not excuse harm. MINI06020 ends with wanted cookies actually made, eaten and praised, alongside a protesting Fuuka who is bound and a tremendous pursuit prompted by reported damage. Serina calls the misunderstanding difficult; the text does not show Fuuka's release, a repaired wall or reputational repair. The coexistence matters: shared tastes can be real even where someone else's ordinary work and freedom remain obstructed. These are neither disposable jokes nor evidence that Serina herself binds Fuuka. (`BA:mini:70006020`.)"
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "e96aab9a55a26b543cf1972139a09bb9f52f06d270aed009741b3ac33d1f433e",
+        "line_text": "## 6. Crisis behavior, causal contribution and limits"
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "39d71b0c211fcbc674c0c7f0b98c7e2d5667e2684620363a925dcf74e3af3ddf",
+        "line_text": "Eden gives Serina an important but distributed rescue position. Sena performs gunshot first aid and transport work; the wounded adult is unconscious and loses blood; in C003 E016 he wakes and sits with Serina. His recovery of consciousness is a completed change. It does not identify Serina as sole causal rescuer, establish that every injury has healed or demonstrate an intervention's mechanism. Her quiet presence has relational weight precisely without acquiring all the coalition's achievements. (`BA:main:003:003:010`–`:012`, `:016`; complete C003 checkpoint.) C004's broader care for Arius likewise should not assign every action by Mine or the coalition to Serina."
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "358de8298373eab487fd5d2d671aee515c8adcd41dd0ccb002d291f2c85deca8",
+        "line_text": "Later V006 is Arius material, not the Final. Mine, Serina and Hanae operate a temporary station under a service-club cover and teacher request. Practical kit and nutrient statements remain represented provisions and character reports, not charted outcomes for every patient. When Mine falls, the juniors respond; Sena assesses normal vital signs during an unconscious interval and voices a concern; transport is planned. Mine later wakes in the Knights' infirmary and becomes ambulatory. Subaru reports assistance and patient transfers; later full-recovery and containment statements have their own report boundary. Aid occurs within a politically uneasy setting, and affiliation can matter to recipients even when a dressing or meal is useful. (`BA:main:006:002:001`–`:004`, `:003:006`–`:010`; complete C002/C003 checkpoints.)"
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "2eb0b9910c8439d7886f1425d064de19621015eb05a4143d9de8278a357c311d",
+        "line_text": "Small public encounters make Serina's own decisions clearer. In Valentine narrative E004 she seeks injuries and tries to steady Mine's corrective advance; an interrupted wait does not establish a complete pacifist doctrine. In E007 she offers disinfection and stillness while a delinquent complains that injuries have increased. That complaint is printed under Serina but belongs to the delinquent in the accepted attribution repair. It must remain a recipient's adverse judgment rather than her confession or a medical finding. In E009 she and Hanae first doubt Mine's behavior, then prepare supplies after her correction; the final lead belongs to Mine, not Serina. No arrest, completed treatment or reform follows merely from this preparation. (`BA:event:810:004`, `:007`, `:009`, separate narrative objects.)"
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "82def41f69b3934fc3d60986ed3a91cb82cbfd8472f9989fefe448a0f57666d1",
+        "line_text": "The ghost-floor episode provides a stronger contrary causal chain. The intruder's theft and deception explain why the students misjudge him; they do not negate his pain after surrender. The text attributes continued shooting to the group, not an independently established quota of shots by Serina. The sterilizer explosion follows theft and forced opening, not a certified planned trap. Her private admission that their mistake caused injury is a real acknowledgment, while her public denial and the ending injection threat leave repair and disclosure unfinished. It would be equally unsupported to claim that no harm occurred or that a retaliatory injection was administered. (`GROUP1702`–`:1703`.)"
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "c94fc4d9f60e681cf608e2645adb6bd490fe7a89f6203d3fb9e23b22b90850b6",
+        "line_text": "At the joint clinic, Serina reports normalized measurements and advises returning if symptoms recur; the patient thanks her. This is a scene of useful assessed care and a completed relational response. It is not independent confirmation of heatstroke diagnosis, measurement accuracy or permanent cure. E006's overloaded station is also a workplace where staff refuse access to the inner room; Sensei being pushed out does not expose the patients within to the analyst. Serina's splinting or every staff action must not be invented from shared affiliation: some apparent Serina lines are Sena's. The finite care and the remaining informational boundary are both part of crisis conduct. (`BA:event:818:006`, `:018`.)"
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "920275e1d61faab377e77eb1cf8a311be30ca613f346171eba18721f63fb7734",
+        "line_text": "Their relationship works best when recognition makes both people visible. Park care corrects the idea that an adult is automatically beyond needing attention. Picnic care acknowledges that the person who provides support can herself be surprised and happy to receive it. Sensei's choice to thank her for his care and his alternative thanks for everyone's care can each sustain recognition, but they are not a cumulative declaration. Her complete MomoTalk thread supplies delighted aftermath without converting the adult into her only reason for helping people. (Normal E002/E006 and their complete linked threads.)"
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "79cde204d81abb575c3bedd3d613a06170fe7bd396d15cac70273844f9e81286",
+        "line_text": "The same dyad has unequal and adverse methods. Sensei calls falsely for help to summon her to the picnic. She makes a private privilege of seeing him sleep, proposes stroking without a right of refusal, and pressures him into a painful Christmas massage after he has offered to release repayment. Actual rest, pleasure or subjective lightness do not establish that these methods were freely chosen. Conversely, a written massage offer is still an offer, and a Christmas request for company leaves his answer absent. The evidence supports encounter-specific claims about pressure and invitations, not a single rule that both always welcome every bodily intervention. (`26003:003`; `26003:006`; `10056:003`; written normal UILobby 2003; `10056:002` ending.)"
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "c7043f0f76c7c16567e9b8c74223700dc4ccdf85fcc4f1e4d6e48aa277fc3ffc",
+        "line_text": "Closeness is often expressed through an uncertain audience. Inner narration or NS statements can be answered by a character as written; timed special-register passages occur within scenes, with actorless text and contextual association. These devices do not establish that Serina literally reads thoughts, controls sleep or hears an off-screen voice. Her sudden arrival carries emotional reassurance and a recurring mystery, while the night scene's security-dream question leaves access unresolved. Understanding how a scene writes attention is more secure than converting it into a technological or supernatural explanation."
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "f74d5c35c0dd89c32a4c7f8633a79a9ddb5d50096cb5be0a545c09deee00a1f0",
+        "line_text": "Their ordinary gift exchanges have their own limits. The scarf is given; the repayment dispute and painful massage occur; later company is requested, and another ward scene ends in a shared walk. Valentine chocolate is offered with a specific occasion and tasted with a positive response; future door use is not shown. This repertoire supports warmth, gratitude, embarrassment and wanted particularity. An exclusive relationship, a settled romantic label and blanket consent would require additional evidence. The profile, costume repetitions and alternative answers cannot supply those facts by accumulation."
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "1d6a217e17c7eab49a7a6a047c74320727df23239e157bda2c0ea24d850f6c05",
+        "line_text": "Nor does Sensei monopolize her ethical growth. She corrects ward noise, donor prejudgment and aspects of Mine's blame without first receiving a teacher lesson. A patient, Hanae's practical objection, an opponent's confession and Sena's cross-school work each create different opportunities to learn. The adult's significance is strengthened by keeping those independent relationships intact: he can give her recognition without being made the origin of her care, the guarantor of all her judgments or the unseen author of every peer correction."
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "9b37439529903a8399f0d83f32cf83ae44f0107d8a6d2e78739ecf3c6bb02eb8",
+        "line_text": "## 8. Major peer and recipient relationships"
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "363efc0cbcf323d26fe85fe08363508d44a24f5e869fb7d4e03fd017daeb88fc",
+        "line_text": "Hanae is a collaborator and a countervoice. Her loud greeting occasions Serina's quiet correction; her injured-hand reason challenges a general refusal to feed; her interest in the unused floor creates an inquiry Serina fears. Neither nurse receives all the ghost-floor lines as printed: the accepted seven attribution repairs must govern. They share mistakes, but Hanae's late warning and Serina's complaint that she should have spoken sooner preserve distinct contributions. Their Christmas craft and Santa exchanges show care for each other's imagination and pleasure, beyond clinical usefulness. Hanae's extra gifts at the actual party and Serina's encouragement to receive them make reciprocity peer-directed rather than wholly Sensei-centered. (`GROUP1701`–`:1703`; `EVENT819:001`–`:002`, `:009`, `:011`.)"
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "99e4fa8e6d61f9c11b783ad7b901552a29da53f83b7276072a1d7e1201d5877c",
+        "line_text": "Mine is neither merely an abusive obstacle nor an unquestionable rescuer. Serina worries about her captain, disputes a blame assignment, interrupts an advance and chooses to support her while retaining a concern for the wounded. Her choice to attend Mine first is an ordering of intended help, not proof that she abandons other recipients. Mine's appeal to juniors can allow their choice, while excessive correction causes a later care burden. The actual apology, treatment reports and party do not erase the earlier recipients' complaint. Mine's promised improvement remains prospective and doubted. (`EVENT819:005`, `:007`–`:011`; `EVENT810:004`, `:007`, `:009`.)"
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "2fc9b390765d1ab8b3fb773577243d6050378ceee3906484336dce1ebe2f77ac",
+        "line_text": "Sena supplies an independent cross-school relation grounded in work. In the joint clinic Serina credits her discovery and transport of a Trinity patient, while the patient questions Gehenna affiliation and later apologizes. Sena's wary view of rumors changes through the encounter; Serina describes exaggeration. This permits a particular corrective exchange, not a declaration that every rumor about either nurse is false. Serina's campfire invitation and Sena's interest make possible company visible without printing the outing. Eden also requires keeping Sena's first aid distinct from Serina's later presence. (`EVENT818:018`; MAIN V003 C003.)"
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "1c9a94237b992f884ec9f4440e67c4bcb1ef2392ccaa2be14686781af4e44bfc",
+        "line_text": "Patients are specific people whose judgments and wishes cannot be aggregated into universal approval. The Christmas injured-hand patient needs practical help; ward patients affectionately praise nurses without knowing the unused-floor history; the intruder pleads for pain to stop and later fears the needle; the joint-clinic patient worries about school allegiance; the overloaded station's occupants remain partly behind a closed boundary. Anonymous patient A/B/C in a bond are not automatically the group-story patients or the event patient. Their statements can recognize useful aid while leaving cure, informed agreement and institutional knowledge unsettled."
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "0b50fbc2959c7ed81409f4f25a4ddf6bac886588acf13ebfd72eace5835dde13",
+        "line_text": "Donors, children and culinary peers further widen the recipient field. A charity donor's appearance does not prove malice, and Serina questions both prejudgment and an excessive offered amount. Children's Santa questions sometimes remain unanswered; a queue offense is not a lifelong bad-child identity. Haruna's surrender and request for appropriate treatment in MINI06010 deserve recipient force even if earlier pursuit is blameworthy. Fuuka's real restraint and protest in MINI06020 remain adverse alongside completed, enjoyed cookies. Exact actors matter: neither Serina nor an entire school can inherit another person's restraint or assent from co-occurrence."
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "a58c40ec282ed059e89ce58da6ac5f217c506b9b4e5356301171285a4080e73b",
+        "line_text": "## 9. Language, written registers and formal presentation"
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "039e64b094032a712cfe337d901532e6763643a750bc57a861874089ff6def77",
+        "line_text": "Serina's polite address combines differentiated relations: Sensei, Hanae's familiar name, and seniority toward Mine. Tentative assessment language and situational qualification coexist with emphatic prohibitions and claims of no refusal. The park's tentative self-description, the fall's injury assessment and her explicit lack of formal nurse status restrain an omniscient-care reading. The night declaration and the massage's insistence show that politeness can accompany pressure. Hesitation at an intimate costume wish or valuable donation makes a wanted end visible without requiring it to be completed. These are written choices of stance, not measured prosody. (Normal E002 u0015; E003 u0020/u0043; E005 u0014–0018; Christmas E003; costume lobby 004–006 and shop 007.)"
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "ef440430b2a2b47d0eb9124fc3214d2493265653fcea5e81ccde0a4ee0a70d80",
+        "line_text": "Attribution is essential to this account. GROUP1702/1703 has seven accepted repairs; Valentine E004/E007/E009 contains Serina, Hanae, Mine and recipient seams; the joint clinic has eleven relevant Serina/Sena/Justice/patient repairs. A complaint about injuries must stay a delinquent's complaint, and Mine's final call must stay Mine's. Where MINI06010 prints a revenge-like or threatening line under an uncertain nursing label, the present synthesis retains the uncertainty rather than building a stable Serina motive from it. Source repair is not permission to assign every contextually plausible sentence to the subject."
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "6caacfd1188b935ce5ccb02c5ae1c76795b8b6fd5f28118e99f9b70a85073b4d",
+        "line_text": "Choice form also narrows interpretation. The seven bonds contain thirty-one formal choice groups and forty-four displayed options, with one positively known nested branch in normal E005. Elevator and stair routes are alternatives; thanks and praise can produce different local replies; the picnic's two kinds of gratitude are not a single cumulative adult speech. Complete MomoTalk threads include preparation and aftermath where present; Christmas E002 has no post-encounter segment to invent. A positive schedule link joins a thread to a bond, not to every other normal or Christmas episode."
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "1555eb2672107dea14d4082afe40337eb6e2d602bf683f44f03a311b9da4bcf8",
+        "line_text": "The written pool consists of two profiles and 117 dialogue/context records, 116 nonempty; the normal UITitle record is blank. Special passages correspond to depicted picnic or scarf contexts, not ten additional autobiographical events. Costume 1900908201 has no new profile and forty-eight context records; repeated contexts 819, 10819 and 900819 do not become three encounters, and no absent 900819 shop set is fabricated. Conditioned birthday, holiday, cafe, lobby and weapon lines are not a continuous conversation. No audio, voice acting, facial expression, vocal laugh, physical touch choreography or continuous audiovisual performance was inspected for this monograph."
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "f0d40f916859591006c4998bc424042fa947fd587d14cd45e8e26a5408952652",
+        "line_text": "The unknown access device also has a formal function. It makes Serina's presence surprisingly available and can let care answer an adult's fatigue before he asks clearly. It simultaneously leaves the recipient and reader uncertain about how she knows or arrives. The narrative's warmth and its incomplete explanation can coexist. Literal powers, surveillance frequency or a clinical sleep mechanism require further sources; a written timed register, a security-dream joke and a camera absence cannot jointly certify them."
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "d462e1e8b1f6f070e33cd59251522542e526bd17983496acec56f643c751580e",
+        "line_text": "## 10. Competing readings and adverse tests"
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "a12cfed496593c477a19b00109d96af1ebb4dae27111bc433896d4719c898d97",
+        "line_text": "**A wholly selfless angel.** Children, patients and public gift recipients support a sincere benefactor reading, and several scenes end in actual aid or pleasure. Against it stand her own desire for warmth, recognition and company, donation hesitation, private privilege, pressure and concealment. The reading is useful as a situated reputation or an aspect of practice; it fails as an exhaustive account. Stronger selflessness would require evidence that these wants and recipient conflicts are irrelevant to her acts, which the admitted material does not supply."
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "30a67898b9df3979531c210107423b62248be70b8c50e29c2c7572e1d32fe19f",
+        "line_text": "**A sinister controller whose care is a pretext.** Unexplained access, no-refusal speech, forced massage, group force after surrender and public denial provide serious support for questions about control. They cannot simply be dismissed because a scene is comic. But explicit invitations, practical help adapted to injury, an ordinary feeding boundary, self-questioning, gifts sincerely enjoyed and useful cross-school work contradict a universal pretext thesis. A fixed enjoyment of others' pain is especially unsupported: the massage narrator qualifies the perception, and Serina's treatment wish and recipient care recur in different settings. Stronger intentional manipulation would need an actual causal record of staged need or a disclosed plan, not an unknown entrance."
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "6c2bd59482a4877a85c2152690870db029dd6eb4ab9b0189d5e675a270e355ef",
+        "line_text": "**Comedy makes the adverse methods harmless.** Exaggerated nurse language, a fake ghost and explosive apparatus can explain the scene's comic form. Intruder pain, surrender, recipient complaints, painful massage and Fuuka's protests remain printed consequences. Calling them jokes cannot complete consent or repair. The opposite inference also fails: comedic exaggeration does not certify an empirical lethality, supernatural skill or medical mechanism. Form changes how a scene is read; it does not authorize erasing its finite events."
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "cf117cce57181db21208366f8714beb30ef7531f99040b82a1c2d6e91e4d36cd",
+        "line_text": "**Reciprocity arrives only as Sensei's reward.** The picnic strongly supports adult recognition of an overburdened giver. It does not originate her delight in helping children, gifts, pink or festive work, nor does it exhaust her relations. Hanae's gifts, patient thanks, collaboration and an invitation to Sena contribute other forms of reciprocity. A stronger adult-centered causal account would require chronology and statements connecting those ends to his intervention. They are absent; numbering cannot provide them."
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "91adfb2157573a534762e91734061abed20f2ce50ef015010a6aa290e0dc829e",
+        "line_text": "**She always learns and therefore is already reformed.** The park's correction, mistakes acknowledged, public treatment reports and later party support revisability. The massage, concealed ward history, unfinished injection ending and continuing rescue misunderstandings prevent a completed reform narrative. Local learning may be real without being permanent or transferable to every domain. Durable reform would require later recipient-facing change under comparable conditions, disclosure or repair, not another affectionate scene whose audience lacks the prior information."
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "ffcedd9a4e5178fd036ebb9c806ec59cd2b29368de153a1418bc9ce52a51b4ce",
+        "line_text": "**Her public rescue role is chiefly a teacher extension.** Eden's adult rescue and some student-service requests support an important relation to Sensei. Public charity, junior disagreements, a teacher-absent clinic exchange and independent patient objections resist reducing her to that relation. A serious character synthesis must explain why she chooses, wants or revises alongside others, not silently give the adult ownership of every useful result. None of these counterreadings closes the all-series gap register; each establishes a narrower warranted interpretation and names what would be needed to strengthen it."
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "7f4847d53fcaedbe8acb8a2d4d66ce0896c77cf4590718cf9c81cca646e7a7d1",
+        "line_text": "## 11. Evidence route, unresolved warrants and analytical boundary"
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "8134c046a43965fa96d752e58ed95b2770bbc7700b3b1885698c8b1f999a7811",
+        "line_text": "The complete accepted private argument is the seven paired bond/whole-thread readings, the three written-data readings and their maintained Serina private checkpoint. They represent seventeen admitted source responsibilities: seven bonds, seven whole MomoTalk threads and three written objects. The checkpoint overlaps those owners; it is not an eighteenth source. Current Cycle008 admission governs accepted literary bodies whose wrappers preserve earlier statuses. This synthesis does not re-perform their original canonical, native, raw or QA inspection and does not read preserved `_phase2_work` materials."
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "fd764f4b0d6da0e334469f581a8b4050192f1b2547b6d33b56451d9cff1cbacb",
+        "line_text": "| Accepted analytical route | Actual scope used here | Consequential claim boundary |"
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "dddd55179e9c7644ea8071ea1ef198c4b316955d0e3370d97d507057f55ec2e9",
+        "line_text": "| `BOND/SERINA/BLUE_ARCHIVE_SERINA_BOND_26003_E002/E003/E005/E006_PAIRED_DEEP_READING.md` (four separate files) | Complete paired arguments and whole linked threads | Particular care; qualification; private privilege; alternatives; access uncertainty; actual picnic |"
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "87d6f1dc04c53de9a40d75344fc0d2996aa29b9ef5e36d66e2f96d9e9085d171",
+        "line_text": "| `BOND/SERINA/BLUE_ARCHIVE_SERINA_BOND_10056_E002/E003/E005_PAIRED_DEEP_READING.md` (three separate files) | Complete paired arguments and whole linked threads | Actual scarf; unanswered company request; pressured massage; ward preferences and actual return |"
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "386ad4440a0ce4ae50efd0c7788490359d6e59e7eda2b2f74b10749a92aac266",
+        "line_text": "| `CHARACTER_DATA/SERINA/BLUE_ARCHIVE_SERINA_VARIANT_26003/10056_WRITTEN_DATA_DEEP_READING.md` and `BLUE_ARCHIVE_SERINA_COSTUME_1900908201_WRITTEN_DATA_DEEP_READING.md` (three separate files) | Complete written arguments; distinct profile/dialogue/condition/repetition modes | Figurative reputation, tastes, wishes, invitation limits; no performed voice |"
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "c3d664134daac912b5247893120eab4ebf50593d023e21bd9a68681f08fbc9c1",
+        "line_text": "| `BOND/SERINA/BLUE_ARCHIVE_SERINA_PRIVATE_CONTEXTUALIZATION_CHECKPOINT.md` | Complete 160-line maintained account | Seventeen-source identity, admitted witness, counts and cumulative private comparison |"
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "4828b70b5b7572bfb7c48c3161f1b2655eef3de0b41f8eac087dbee05d9b8d5a",
+        "line_text": "| `GROUP/BLUE_ARCHIVE_GROUP_1701_1703_DEEP_READING.md` | Complete three-source argument | Patient knowledge; seven actor repairs; surrender/force; theft/explosion; denial and unfinished treatment |"
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "241637dbfbe32c96fd7060b7329be3534af6a2c4c526f53b20f5a5a27388c890",
+        "line_text": "| `EVENTS/EVENT_819/BLUE_ARCHIVE_EVENT_819_CONTEXTUALIZATION_CHECKPOINT.md` | Complete eleven-source argument | Junior choice, donor correction, Santa imagination, treatment reports/apology and actual party |"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "ad3558bf2e6addc43eff9b97c5a6c83b7d8cc358ba54c3fff2b450daed210725",
+        "line_text": "| MAIN V003 C003/C004 checkpoints | Complete small maintained checkpoints | Distributed Eden care, consciousness and limits; no exclusive clinical cause |"
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "37278caa23b4ff511c3e38b7975379a13ac8439f8eaebf4cb83e3c45c81b4002",
+        "line_text": "| MAIN V006 C002/C003 checkpoints | Complete small maintained checkpoints | Later Arius aid, assessment/transport/waking/report distinctions; not the Final |"
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "787a542c04151bf2fe9672118538d6d45459eae834a32e2758a9a7e17ddc0dfa",
+        "line_text": "| EVENT810 narrative E004/E007/E009 and gift E057 deep readings | Four complete small accepted arguments; current comparison account lines 118–131/244–281 | Exact narrative/gift identity, speaker repairs, care/preparation versus completed outcomes |"
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "2ab9a4fd02ed1246d1bb6ecd519af16661cb70bc2bf48761c806d242b10db20a",
+        "line_text": "| EVENT818 E006/E018 deep readings and maintained checkpoint | Two complete small arguments; complete relevant maintained actor/control spans | Staff boundaries, local clinical report, patient objection/apology, Sena's independent act and unprinted outing |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "94cf313c66e02773f5aa61b99835bd0b696b2a8810719192b858ab8f6b490858",
+        "line_text": "| MINI32 checkpoint §8, `70006010/70006020` | Personally complete prior owner plus complete present section | Qualified nursing labels, surrender request, actual cookies, Fuuka's protest and unfinished release/repair |"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "07be93b5619361e254f4c915e3943a56d84e8630e61bbd15d3aaf4f8d729791f",
+        "line_text": "| EVENT841 checkpoint episode 009 and whole-event argument | Complete relevant small argument spans, not a new full source or roster reading | Limited Serina appearance/context; no ownership of others' rumor claims or imagined escalation |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "548f334ff0f3eb68abfbbb2dae9ebff446a9515473274de7f4173ca656ac74fa",
+        "line_text": "| MAIN V100 complete maintained working account | Reused personally complete accepted Final argument from frozen prior custody | Comparative series boundary; no Serina act inferred from affiliation or a keyword absence |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "f6390460d094414b184c93a1f6b07d073cc2c7ebda99d5f9d3e5dc81b54df77b",
+        "line_text": "Full paths, exact bytes/SHA-256, actual receiving frames, repaired clips, metadata probes and saved paragraph joins are recorded in the companion receiving receipt. A locator is an evidence route through an accepted reading, not a claim of fresh primary inspection. The Japanese witness is the pinned admitted generation; earlier Main checkpoint witnesses remain declared historical conditions. Current scope allocation and dated publication metadata do not retroactively change those literary witnesses."
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "747c1b68742aaaf1227831c850351b848ac0cbe1942f26bec323606d86016f25",
+        "line_text": "### Original stable gaps: all OPEN"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "91c8e8e53f106208dba9ff2dbaef57a8f0129a8f616d634af9ae0c342b14d49b",
+        "line_text": "| Stable ID and original name | Serina contribution and remaining warrant |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "04f94f4a59a4a3b9f84f74f5b26d498713b5d465f8b51cd6817113d91576462f",
+        "line_text": "| G01 Ordinary and private breadth | Seventeen private sources, festive work, chocolate, tastes and wanted company supply positive breadth. They do not exhaust every future setting or prove invariant behavior; wider-context transfer remains open. |"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "26b3e4c743bc905279621e7fe537a07d518dde88f78973da8cd2e071bd01fbc6",
+        "line_text": "| G02 Yuuka council/club decision transfer | Serina's donor and club choices do not establish Yuuka's decisions or settle that existing responsibility. No closure is proposed. |"
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "5922d4278348d3008bd1f074fe24ae82d94af093cd01889185face3365d5008b",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Received Serina care and food/company are not Serika evidence. The distinct Serika domain remains open. |"
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "43a949e9151bddfd029f1727b8e605a4b7b8451b708c9ffaff43a6c2517152c1",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Nurse comparisons do not complete NK Ultra causality, restitution or Hina's recipient-facing repair. |"
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "47b72fb955f6243bbcb81b70643ae168d31e6830fbdf5d506dcb380bd8d1d03b",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | Later V006 gives local aid and recipient/political limits; it does not settle Arius's durable aftermath or any PS68 repair. |"
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "43b6a7ef460169c58da931b4cefc77269b536d5217ae7f391478a8da5e8f8cf5",
+        "line_text": "| G06 Cross-school ordinary repertoire | Sena's clinic exchange and campfire invitation broaden particular cooperation; actual outing and universal reconciliation are unprinted. |"
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "a82330723f275cbed224aff5cb1ce61660ad4337e36d1a80ebe74f47e838383a",
+        "line_text": "| G07 Story-world chronology | Local scarf and thread links are positive; relative placement of normal, Christmas, Eden, Final and later Arius remains unproved. |"
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "8e9fdf5c344f051778272fdb2875867d6f5aaa94e8e5525a35e2c1c7672cc86d",
+        "line_text": "| G08 Event naming and repeat contexts | EVENT810 narratives and gifts are distinct; costume context repetitions remain separate written conditions, not repeated life episodes. Wider title/repeat claims remain open. |"
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "a32e98a5d73dd3e03258bb760f0cbf63fdbadb176653aafbc1683374b4c47a65",
+        "line_text": "| G09 Written speaker/choice attribution | Specified group, Valentine and clinic repairs and alternatives constrain the argument. MINI threats retain unresolved labels; actorless special and NS audience boundaries remain. |"
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "ecd0797f4b9e6ea1a4bc9092573e084ce329fe231f7509780d1b734dc3ca27d7",
+        "line_text": "| G10 Performed voice | No audio or audiovisual performance was inspected. Written address, timing and humming support textual analysis only. |"
+      },
+      {
+        "frozen_line": 188,
+        "canonical_line": 198,
+        "line_sha256": "9716a0e437cf243d4d0a2766ae0603e72a37ac826e5570ef7d2e93b7e3eb7a6f",
+        "line_text": "| G11 Hoshino's Yume record and office states | Serina's rescue or desired care does not authenticate Hoshino/Yume office evidence or close its existing claim effects. |"
+      },
+      {
+        "frozen_line": 189,
+        "canonical_line": 199,
+        "line_sha256": "1991b53d71850dfa60932d8d0b669203802e99590822dd8657d2297676fc2739",
+        "line_text": "| G12 Counterpart, system and variant identity | Positive Serina family/variant/costume routing supports this bounded person scope, not continuity dates, access powers, anonymous patient joins or other identities. |"
+      },
+      {
+        "frozen_line": 190,
+        "canonical_line": 200,
+        "line_sha256": "107c1ea18e8b06614d425e12e9a7c9b26785627ee31214454ec280ff2f91f44a",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Useful care, waking, reported measurements/treatment and rest remain finite. Formal qualification, diagnosis, clinical cure, consent, institutional safety, disclosure and durable repair are not certified. |"
+      },
+      {
+        "frozen_line": 191,
+        "canonical_line": 201,
+        "line_sha256": "db3f135795ecccc48df76122f1a833570299d23ffb42ac8b95216023f0b1dc96",
+        "line_text": "| G14 Unclassified/mode continuity | No unadmitted mode is promoted. Written special passages, profiles and context repetitions remain their admitted modes; future cross-mode continuity requires admission and evidence. |"
+      },
+      {
+        "frozen_line": 192,
+        "canonical_line": 202,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          5,
+          8
+        ],
+        "canonical_lines": [
+          5,
+          8
+        ],
+        "frozen_text": [
+          "version: \"1.0-author-candidate\"",
+          "status: working_draft",
+          "stage_state: READY_FOR_ROOT_RECEIVING",
+          "do_not_use_as_current_authority: true"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0-author-candidate\"",
+          "historical_author_status: working_draft",
+          "historical_author_stage_state: READY_FOR_ROOT_RECEIVING",
+          "historical_author_do_not_use_as_current_authority: true"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          15,
+          15
+        ],
+        "canonical_lines": [
+          15,
+          15
+        ],
+        "frozen_text": [
+          "canonical_target: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md"
+        ],
+        "canonical_text": [
+          "historical_author_canonical_target: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          30,
+          29
+        ],
+        "canonical_lines": [
+          30,
+          37
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SERINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          33,
+          32
+        ],
+        "canonical_lines": [
+          41,
+          42
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SERINA_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SERINA_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          193,
+          193
+        ],
+        "canonical_lines": [
+          203,
+          203
+        ],
+        "frozen_text": [
+          "For this bounded textual monograph, no new primary recovery is required to sustain the actual conclusions: adequate accepted arguments preserve the consequential wording, alternative choices, labels and endpoints. Stronger claims about medical mechanism, access, bodily staging, chronology, romance or institutional reform require the missing evidence named above. ROOT still must receive the whole saved candidate and exact receipt, judge its eleven dimensions and adopt any canonical derivative; this author has not granted acceptance or completion credit. Directed relationships, the Rescue institution, other full-cast packages, Sensei and language registers, convergence, readiness, reconstruction and prediction remain distinct required architecture work at their assigned scopes. This candidate neither completes them nor changes the required-home denominator."
+        ],
+        "canonical_text": [
+          "For this bounded textual monograph, no new primary recovery is required to sustain the actual conclusions: adequate accepted arguments preserve the consequential wording, alternative choices, labels and endpoints. Stronger claims about medical mechanism, access, bodily staging, chronology, romance or institutional reform require the missing evidence named above. ROOT has independently received and accepted the whole bounded argument and exact provenance WITH LIMITS. The frozen author supplied no self-acceptance; persistence belongs to the separate complete ROOT installation. Directed relationships, the Rescue institution, other full-cast packages, Sensei and language registers, convergence, readiness, reconstruction and prediction remain distinct required architecture work at their assigned scopes. This candidate neither completes them nor changes the required-home denominator."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 45880,
+      "sha256": "cc402f3485d17fce38314f6ec053a6334153cfeec6fe2e09c9c891cdea5294da",
+      "git_blob_oid_of_actual_bytes": "547cbf50b8a69d47941d9e3ec9ef65d0f1f556be",
+      "lines": 193,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_SERINA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 132273,
+      "sha256": "d7e807681da4b7a012c3c933dd726c02d71f815b2bcd43f0c001d1982c27f99e",
+      "git_blob_oid_of_actual_bytes": "0bfc277efff138b1d218e9a452399d379d59c40d",
+      "lines": 2718,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/SERINA_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3248,
+      "sha256": "e43dbbc5c39270a88d40759f9b9db0066586ef50363f03bec8638858e36cc429",
+      "git_blob_oid_of_actual_bytes": "32a1dd26f695d7bddf3651729c033c1fbe9ba89d",
+      "lines": 60,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_SERINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5236,
+      "sha256": "0cb52b58317072c66285ba1c5ae1223db814a28da84c14be62bd2774f359f30a",
+      "git_blob_oid_of_actual_bytes": "d085fc82dc1114776bfc43ee657d629e427d0ecf",
+      "lines": 77,
+      "immutable_transport_path": "immutable_originals/ROOT_SERINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7920,
+      "sha256": "6fffef687149d00ed6aa6f2aa8278c3809c89c6bc903ebae47ec031f600ef16b",
+      "git_blob_oid_of_actual_bytes": "544b5f5b12184d464755706a4e6f20d8e0204637",
+      "lines": 49,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/SERINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 5683,
+      "sha256": "8fdc997c82a5f27ca7f2db4a3fe087b8101238eddab25b105ec6410e2010d3c8",
+      "git_blob_oid_of_actual_bytes": "13709c9d464b958d1ef37d4358a0fd49cdab5620",
+      "lines": 105,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/SERINA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

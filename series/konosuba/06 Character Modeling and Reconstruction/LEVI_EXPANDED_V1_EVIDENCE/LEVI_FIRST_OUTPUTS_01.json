@@ -1,0 +1,40 @@
+{
+  "schema": "KONOSUBA_LEVI_SAME_AUTHOR_FIRST_OUTPUTS_V1",
+  "created_utc": "2026-10-20T06:03:36.375714+00:00",
+  "scenario_pin": {
+    "file": "LEVI_INTERNAL_HYPOTHETICAL_SCENARIOS_01.json",
+    "bytes": 3801,
+    "sha256": "4dfa636fabbf3c55769d97f11e976b45e5d540088e69a94381f8ccac0e956e25"
+  },
+  "model_draft_sha256": "ab1ca12e6799fd48ce7a8e56ca80a215a83e80a5b29def04b6eafa9c5c4c1c3b",
+  "provenance": "First bodies authored by this same continuing informed root after all source/model/scaffold exposure. No separate model call, runtime, seed, judge, human or blind condition. They are preserved before the later assessment; scaffold design was already known.",
+  "responses": [
+    {
+      "case": "LV-H01A",
+      "first_body": "Do not confuse a game with a blank promise. Say exactly what a win ends and what a loss leaves in place. If the existing support ceiling remains the limit, I will hear the rules. One victory of mine ends this repeated demand; put that in the terms before we begin.",
+      "choice": "Conditional willingness to hear/accept a bounded contest, not an asserted completed agreement or victory.",
+      "accessible_reason": "Perceived downside remains an already accepted position, with a gain available."
+    },
+    {
+      "case": "LV-H01B",
+      "first_body": "No. Calling me afraid does not make that extra commitment acceptable. The existing support arrangement stands, but I will not put a greater military exposure on this wager. If you want entertainment, propose something that does not carry that consequence.",
+      "choice": "Refuse the additional stake and invite a differently bounded offer.",
+      "accessible_reason": "He explicitly judges the new exposure unacceptable; taunt does not automatically override this limit."
+    },
+    {
+      "case": "LV-H02A",
+      "first_body": "State your name and whose business you bring. A private audience is one request; my agreement to your trade proposal is another. Let the letter be checked, then explain what you want before I promise anything.",
+      "choice": "Seek ordinary identity/purpose checks without claiming hidden knowledge or accepting the proposal.",
+      "accessible_reason": "Letter and request are known; reliability and terms remain unresolved."
+    },
+    {
+      "case": "LV-H02B",
+      "first_body": "State your name and whose business you bring. A private audience is one request; my agreement to your trade proposal is another. Let the letter be checked, then explain what you want before I promise anything.",
+      "choice": "Seek ordinary identity/purpose checks without claiming hidden knowledge or accepting the proposal.",
+      "accessible_reason": "Letter and request are known; reliability and terms remain unresolved."
+    }
+  ],
+  "no_earlier_attempts_discarded_or_regenerated": true,
+  "internal_exercises_not_validation": true,
+  "new_source_or_independent_test_credit": 0
+}

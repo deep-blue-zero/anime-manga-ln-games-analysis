@@ -1,0 +1,88 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+  "source_id": "MAIN-07",
+  "accepted_utc": "2026-10-19T11:40:53.818751+00:00",
+  "native_filename": "Konosuba - Main Series - Volume 07.epub",
+  "native_bytes": 11201415,
+  "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "337e510b49704bb01bc6cefc9dfbbe8aea2572d656212e6df4995f4aecf8436b",
+  "language": [
+    "ja"
+  ],
+  "colophon_and_bibliographic_difference": "Both supplied electronic issue and print-basis first-edition entries2015-09-01,copyright2015; no additional edition number asserted. Edition metadata does not date every scene. Afterword anime/spinoff announcements remain contemporary production reports/plans.",
+  "admission_sha256": "dc47469fce2c91a66a520b899f4abd1173eef3056559c8517e3381d79eb9e695",
+  "preceding_full_gate_source": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+  "preceding_fresh_reload_sha256": "e96cbf946bf339e6481e6fe1091455fad28518f067e1cff67473d8d9ec850ebb",
+  "excluded_uncoded_seal_sha256": "3605428686129948a4c38f2f529c7302c4a10703d0c970572ac2b4187af46505",
+  "excluded_uncoded_seal_utc": "2026-10-19T11:11:31.757097+00:00",
+  "actual_new_reading": {
+    "text_resources": 19,
+    "P_slots": 131,
+    "native_images": 32,
+    "ruby_and_nonparagraph_residual_received": true,
+    "bonus_P": 52,
+    "nonbonus_text_slots_P": 79,
+    "author_afterword_P": 34,
+    "other_wrapper_credit_slots_P": 45
+  },
+  "retained_principal_authority": {
+    "members": 9,
+    "P_slots": 3288,
+    "new_principal_reading_credit": 0,
+    "exact_native_and_prior_acceptance_control_joins": true
+  },
+  "fresh_native_CRC": "PASS",
+  "all_native_text_image_hashes_reverified": true,
+  "original_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 43902,
+      "sha256": "dc47469fce2c91a66a520b899f4abd1173eef3056559c8517e3381d79eb9e695"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 183362,
+      "sha256": "b73c281b729d2809c48518b1a1ef92c049b72d4187ca70bfbec67fef1e319094"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 29647,
+      "sha256": "e0762c004fc07b1bc79f2b8ea2b1de064e93b0215fc65d8671678bbd100f7b72"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 30964,
+      "sha256": "c46b216887a5705e283c67716a61b510995e2a1d67e9fc061d4ab211fcadd32d"
+    }
+  ],
+  "public_preparation_view_is_redacted": true,
+  "formal_counts": [
+    25,
+    24,
+    31,
+    12,
+    32
+  ],
+  "party_comparisons": 8,
+  "typed_constraints_not_behavioral_scores": 4,
+  "Iris_SI_C01_no_opportunity_comparisons": 7,
+  "preceding_main_component_gate": {
+    "source_id": "MAIN-06",
+    "actual_source_commit": "57c44c52e923800515c236a312f6c204c931432c",
+    "gate_sha256": "7730006f3c706afb4342700d4f1488cd04bb4bc65facac406140ae9d53a747b6",
+    "reload_sha256": "5f8d1f3dc122f14615dc23e2dd4595f64727accf4388911fbccb5e688e380cc0",
+    "schema": "KONOSUBA_MAIN06EXCLUDED_EXPANDED_PUBLICATION_GATE_CLOSE_V1"
+  },
+  "intervening_analytical_cohort_gate": {
+    "cohort": "IRIS-C01",
+    "actual_source_commit": "bc9b67dc37212868b16e8b6eed1a39f07b258dd0",
+    "gate_sha256": "02ef927bc98037e1bc63899c296b5bedf3447b07302d4ba66d3164c7d64370ba",
+    "reload_sha256": "e96cbf946bf339e6481e6fe1091455fad28518f067e1cff67473d8d9ec850ebb",
+    "schema": "KONOSUBA_IRIS_COHORT01_PUBLICATION_GATE_CLOSE_V1",
+    "reason": "Both the preceding component gate and the later Iris exact-source gate are required; neither replaces or impersonates the other."
+  },
+  "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Iris scopedTier3 cohort published/fullgateclosed; seven SI-C01 optional source commitments fixed before current exposure. Complete EXP01-03 reports additionally reviewed for the private secondary census; no fresh whole-source/image credit from those report reviews. Separately completed main excluded-component programs: MAIN-01,MAIN-02,MAIN-03,MAIN-04,MAIN-05,MAIN-06. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+  "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}

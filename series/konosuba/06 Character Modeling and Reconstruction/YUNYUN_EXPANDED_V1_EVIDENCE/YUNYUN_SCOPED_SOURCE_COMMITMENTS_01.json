@@ -1,0 +1,63 @@
+{
+  "schema": "KONOSUBA_YUNYUN_SEPARATE_INFORMED_SOURCE_SCOPE_V1",
+  "id": "SY-C01",
+  "fixed_utc": "2026-10-19T13:17:14.046407+00:00",
+  "status": "FIXED_BEFORE_MAIN09_MAIN17_EXCLUDED_EXPOSURE",
+  "model_path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+  "model_sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb",
+  "exposure": "All main17 principal and completed supplemental/mixed programs plus MAIN01-08excluded already exposed; new source-informed model, no pristine blindness/independent whole-book holdout.",
+  "eligible_scope": "Only a separately admitted previously unread MAIN09-MAIN17 excluded narrative component with a genuinely new directly represented Yunyun choice and full operational predicates independently present. No eligible component or opportunity guaranteed.",
+  "exclusions": [
+    "Previously accepted principal scenes or images illustrating them",
+    "Profile/navigation/advertising/creator wishes and nonliteral staged speech",
+    "Retelling or report of an already known choice",
+    "A statement without the rule full directly represented behavior/information predicates",
+    "Another actor controlling Yunyun or a future unperformed promise"
+  ],
+  "adjudication": "Source-first complete admitted component receiving precedes comparison. Preserve absent/partial/ambiguous/contrary cases and known chronology. Record any new actual outcome separately, never replace these null fields. Do not retarget MG03-MG05 or SEC01. No accuracy denominator is assumed.",
+  "commitments": [
+    {
+      "id": "SY-D01",
+      "exact_operational_rule": "MODERATE: When a trusted companion actually includes Yunyun in a bounded shared undertaking and identifies a useful role within her currently established repertoire, with that role available and no already stated conflicting commitment or refusal, she tends to accept or prepare useful participation despite social hesitation; anxiety or a protest may remain. A freely refused full fitted-role invitation is adverse. A casual walk, vague hope, permanent recruitment or permission for every later tactic is outside this claim.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SY-D02",
+      "exact_operational_rule": "MODERATE: In a period of expressed wanted company, a new person's concrete friendly engagement tends to recruit conversation, a limited offer of help or disclosure before she has fully verified that person's circumstances. The rule predicts an approach, not trust in every proposition or consent to a further trip. Repeated refusal of such low-demand engagement without an independently present cost would be adverse. Prior named constraints must be recorded before choice.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SY-D03",
+      "exact_operational_rule": "MODERATE within known bonds: When she recognizes a credible immediate threat to a valued person and a concrete familiar action is available to help, she tends toward practical protective action rather than only retreating or waiting to be invited. The action may be costly or coercive and may fail. Unnecessary nonintervention in a full feasible case is adverse; an unknown method or unavailable spell is not covert cowardice. This is not a universal stranger-rescue or humane-method guarantee.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SY-D04",
+      "exact_operational_rule": "LOW: After a directly compared rival's spectacular capstone success, when her own contribution is repeated enabling work and she voices concern about being a burden, she tends to favor training or renewed proof of parity over immediately asserting equal standing from contribution alone. Current basis is concentrated and retrospective. Confidently accepting her existing enabling contribution as sufficient in a full parallel case is adverse; real new skill deficits remain a rival, not a fact to hide.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SY-D05",
+      "exact_operational_rule": "MODERATE: When she recognizes a companion's concrete appropriation, false account of her contribution, or renewed violation of a limit she has actually expressed, she tends to correct, protest or demand change even while wanting the relationship. Continued company does not cancel the objection. Unqualified acquiescence in a full recognized case is adverse. Retaliation is a possible canonical escalation, not a guaranteed safe or morally justified method.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SY-D06",
+      "exact_operational_rule": "LOW and destination-specific: When the unwanted Alcanretia destination is known before she chooses whether to join a new friendly person's proposed trip, she tends to decline the trip while preserving gratitude or regret. The observed EXP03 refusal does not warrant a universal place-phobia. Freely accepting the fully informed equivalent invitation is adverse. Learning the destination after transit, or a different known group and purpose, is a distinct comparison that must remain visible.",
+      "future_outcome": null,
+      "adjudication": null
+    },
+    {
+      "id": "SY-D07",
+      "exact_operational_rule": "MODERATE in familiar escape work: When a requested familiar transport role exceeds her self-known remaining cast or passenger capacity, she tends to state the specific limit and coordinate an available resource or division rather than silently treat her ability as unlimited. A full known resource mismatch met by pretending unlimited capacity is adverse. This does not predict a solution where none exists, disclose unknown device constraints, or guarantee attention under an affiliation distraction.",
+      "future_outcome": null,
+      "adjudication": null
+    }
+  ],
+  "original_historical_forecasts_and_Iris_scope_unchanged": true
+}

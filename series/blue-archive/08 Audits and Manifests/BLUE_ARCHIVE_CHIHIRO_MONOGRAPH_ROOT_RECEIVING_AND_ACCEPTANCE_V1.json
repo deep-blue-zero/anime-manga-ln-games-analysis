@@ -1,0 +1,193 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Chihiro",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIHIRO_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_CHIHIRO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5659,
+    "sha256": "e104871b3e2f61c5e82204a2ce27b9100c105c33a519f05a1e9b7a664b093c3b",
+    "git_blob_oid_of_actual_bytes": "11902957113bf78b12c5f9a5a9b08dfc302a97e8",
+    "lines": 89
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_CHIHIRO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "0ba83a8315db47cfa1839e94ffe8fdfd4920d00b78b4d942e46ffde38ab289c6",
+    "frozen_payloads_verified": 4,
+    "complete_current_R_bindings_verified": 22,
+    "explicit_historical_comparison_tuples_verified": 84,
+    "local_argument_metadata_bindings_verified": 7,
+    "representative_frozen_witnesses_verified": 3,
+    "paragraphs_exactly_joined": 65,
+    "source_links_resolved": 15,
+    "source_endpoint_arguments": 16,
+    "substantial_sections": 11,
+    "all14_gaps": "OPEN_UNCHANGED",
+    "ROOT_actual_receiving": {
+      "whole_body": [
+        "be4f161–70",
+        "14dba571–140",
+        "05fb7c141–224EOF"
+      ],
+      "complete_source_controls": [
+        "9abd26 allnoninputcontrols",
+        "95156d inputs0–2;clippedinput3 repaired19211b",
+        "19211b inputs3–12",
+        "0b790a inputs13–21",
+        "acbc26 all7localbindings andscope"
+      ],
+      "complete_claim_fields": [
+        "9444c8CH001–033",
+        "43869dCH034–065",
+        "101b95/f3dc20 all16endpoints",
+        "9ceda5 all11headers/all14gaps/rivals/modes/controls; repeated paragraphs/sourcepathvalues affirmatively joined to whole body and known exact links"
+      ],
+      "whole_output_receipts": [
+        "3ac35a freeze72EOF",
+        "a493e4 saved71EOF",
+        "5e3725 erratum27EOF"
+      ],
+      "fresh_complete_consequential_arguments": [
+        "6246e0private1–155",
+        "418debprivate156–260EOF",
+        "e8d893E002125EOF",
+        "82bf35E003108EOF",
+        "ada0beE005112EOF",
+        "d9464cE006108EOF",
+        "75fe08written122EOF",
+        "e0fb22E8321–65",
+        "3953b7E83266–115EOF with clipped87/89 repaired40c882",
+        "adce85E81799EOF",
+        "91af12FinalC003E00637EOF",
+        "d0ff45PavaneC002E02073EOF"
+      ],
+      "fresh_bounded_argument_refreshes": [
+        "7c02b1GROUP15050–138",
+        "a0f2d2GROUP310118–154",
+        "8ed51fE84287–124 with clipped99–111 repaired6ab263"
+      ],
+      "existing_adequate_meanings": "MAIN480/Phase2 accepted meanings and prior ROOT Noa/Yuuka/CNC synthesis public grounds remain available at their exact declared scopes. HistoricalLA whole0e079e explicitly does not claim ROOTindividualwhole reading; the five individuals were therefore freshly fully received here. No author primary/native/performance custody transferred.",
+      "historical_source_control_qualification": "Author source1bb and7489/c1/maincomparands are dated; all22 current/dbabb actual source tuples independently equal. Changed ROOT progress records are not inputs.",
+      "E832_correction": "Original author freeze says115empty/complete114; actual115 is substantive Remainingduties. Separate erratumd9589e and later author362401 receipt qualify historical scope. ROOT independently received actual115 throughEOF and full clipped literary87/89. Originals preserved; no literary body correction identified; required canonical derivative must carry exact erratum."
+    },
+    "semantic_grounds": [
+      "Usable protection combines norms with memory/user tradeoffs and borrowed credibility; expertise does not certify every system or abolish dependence.",
+      "Sincere correction of club prestige coexists with acknowledged unfair means, anger, secrecy and unresolved recipients. Confession/reassurance do not repair users, legality or peers knowledge.",
+      "Electronics shopping, situated coffee, ordinary birthdays, books, cooking, games and requested rest have intrinsic value beyond service/crisis utility. Thirteen timed narration and seven written contexts are not performed voice or two encounters.",
+      "Initial compulsory outing and withheld plan coexist with actual pleasure, completed dinner/cleanup, real late stopping choice and gratitude. Simulator tenkilogram result, game return and refusal of reciprocal rest prevent universal outdoors conversion.",
+      "Maki/Hare/Kotama preferences remain independently held; rumor persistence, hidden recorders, game pressure and actual failure score do not disappear in a benevolent supervisor portrait.",
+      "Pavane resource limits/hypotheses and distributed student implementation remain distinct from verified compute budget or instrumented acceleration. Final processor access is explicitly notcontrol, fatigue is requested, localcut success is not wholeescape/permanentcommand.",
+      "Local appointments, coffee callback, nextmorning/weeklater and mainprogressions do not order allprivate/group/event or make normviolation and later rebuke a completed moral growth ladder. Literalactor/mode seams remain, no silent repair."
+    ],
+    "source_authority": "Cycle0083940 supplemental/480MAIN with limits; dated producer/admission/counter/frontier states qualified, no reconstruction/prediction promotion",
+    "scope": "355 packages/29 named sections unchanged; requiredP3-CHAR-CHIHIRO-CH0160, directed/ensemble/institution/register responsibilities remain",
+    "progress": {
+      "previous_ROOTaccepted_packages": 45,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 46,
+      "character_packages": 45,
+      "directed_relationship_packages": 1,
+      "published_packages": 43,
+      "published_source_commit": "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1",
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "quarter_reached": false
+    },
+    "new_primary_raw_performance_model_credit": 0,
+    "canonical_derivative_required_erratum": "CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1.json atd9589ec0007a3b6077dfff3995107c47ec2dd5c14c95b81e7a546796fb4566e1",
+    "nine_unbound_large": "UNREAD_UNHASHED",
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-CHIHIRO-CH0160",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHIHIRO_CHARACTER_MONOGRAPH.md",
+    "bytes": 54274,
+    "sha256": "4c83df99700b9b105b3c2014b9f14fb7152836310add394fe54088b9500e10c2",
+    "git_blob_oid_of_actual_bytes": "9aa01cab29b1c84f280cbb37c9b661219a8b9870"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "This candidate occupies the existing required Chihiro character home.",
+      "new": "This monograph occupies the existing required Chihiro character home.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "This draft supplies literary synthesis, with no new primary/raw/performed reading, model, canonical adoption or completion credit.",
+      "new": "ROOT independently received and accepted this literary synthesis with limits. This derivative adds no primary/raw/performed reading or model; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "the complete newly received camping owner,",
+      "new": "the accepted camping argument at its historical1–114 analytical scope with the substantive finalL115 separately received through the appended custody erratum,",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "historical7489/c1/main comparands remain separate from the current 1bb source head.",
+      "new": "historical7489/c1/main comparands remain separate from the declared author1bb source snapshot and the current canonical base dbabbf95.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "ROOT's independent complete receiving and decision remain pending.",
+      "new": "ROOT independently received and accepted the complete argument with limits; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHIHIRO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHIHIRO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior published canonical base is dbabbf95; historical author snapshots remain attributed.",
+    "The [separate E832 custody erratum](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1.json) qualifies the immutable original receipt: historicalL1–114 is not the physical current EOF. ActualL115 is a substantive Remaining duties paragraph, separately received later by the author throughL73–115 and independently received by ROOT. This later receiving repairs the endpoint description; it does not retroactively enlarge the original receipt or add primary, performed, model or literary completion credit. The complete exact erratum remains appended and bound in the public receiving records."
+  ],
+  "fixed_publication_snapshot": "Four accepted packages44–47 only; later ROOT acceptances are excluded from this canonical batch",
+  "current_E832_custody_correction": {
+    "current_custody_qualification": "HistoricalL1–114 is not actual currentEOF; L115 is substantive Remaining duties. Later author362401 receivedL73–115, and ROOT independently received actualL115/necessary clipped literaryL87/L89. Original claims remain historical and are not retrospectively enlarged. No literary body correction or new primary/performed/model/scope credit follows.",
+    "exact_separate_original_erratum_tuple": {
+      "path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1.json",
+      "bytes": 3142,
+      "sha256": "d9589ec0007a3b6077dfff3995107c47ec2dd5c14c95b81e7a546796fb4566e1",
+      "git_blob_oid_of_actual_bytes": "45f6347588b34a86b13785b48a852b13fc95a049",
+      "lines": 27
+    },
+    "exact_public_erratum_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1.json",
+    "appended_unchanged_erratum_payload": {
+      "schema": "BLUE_ARCHIVE_CHIHIRO_E832_ENDPOINT_AUTHOR_CUSTODY_ERRATUM_V1",
+      "decision": "CORRECT_RECEIPT_DESCRIPTION_PRESERVE_IMMUTABLE_ORIGINALS",
+      "frozen_author_receipt": {
+        "relative_path": "MILLENNIUM_KOYUKI_VERITAS_MONOGRAPHS/CHIHIRO_MONOGRAPH_AUTHOR_COMPLETE_READBACK_AND_FREEZE_RECEIPT_V1.json",
+        "byte_count": 4057,
+        "sha256": "e995857c461378ff963cc14c68ae3112a8e99ea7ba5935fbce06a6ba40a26dac"
+      },
+      "source": {
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_832/BLUE_ARCHIVE_EVENT_832_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 23709,
+        "line_count": 115,
+        "sha256": "aa8ea335644d12f74f0a268aa3cb03e8dcd1b51838cafa4bec8f66714a451e20",
+        "actual_byte_blob_oid": "c86f892caa1c88cfb9efacd14007408df834945b"
+      },
+      "incorrect_frozen_description": "Final115 empty; complete114 nonempty",
+      "corrected_description": "Current accepted source has115 splitlines; L115 is substantive Remaining duties through EOF.",
+      "actual_current_L115": "All ten episodes are CORE for this account's sustained pleasure/authority/afterstate comparison; mandatory workflow independently retains every selected object. D2 advances complete selected832 receiving. D5 proposes the seven exact ledger clauses without applying them. D1 uses prior accepted group meaning at the necessary contextual scope, D3 adds no bond/MM credit, D4 records event-language/mode observations without replacing written profile/costume coverage. G01/G06 gain ordinary repertoire, G09/G14 retain actor/mode seams, G13 gains limits on safety and actual outcomes. G07/G08 chronology/naming and G10 performance remain bounded; Yuuka's caricature does not settle G02, and no G03–05/G11/G12 completion is invented. All14 remain OPEN. Current ca965, architecture1.11/method1.10,480MAIN/266admitted/540subjects, models and Phase3unestablished remain unchanged. This scope is not admitted by this account; all proposals UNAPPLIED. MAIN_V002's whole-arc contextual and five-duty convergence remains incomplete. Sole fresh C substantive output; no shared/transport/QA/proof/hash writes. End of whole account.",
+      "author_receiving_qualification": "Historical3846f2 receiving was described as114nonempty plus empty115; its claimed final-line description cannot certify actual115. Prior complete substantive meaning remains adequate at recorded argument scope; present author personally received actualL73–115 through EOF in362401, including fullL115. This is a separate later analytical endpoint receiving, not retroactive original whole-body or new primary credit.",
+      "current_source_snapshot_qualification": "Worktree source remains at declared E32 tuple; ROOT latest publicationdbabbf95 and author historical1bb kept separate.",
+      "body_change": "NONE; no literary claim correction identified by this bounded check",
+      "required_canonical_derivative_action": "Qualify original custody line and append this exact later endpoint receiving; ROOT adjudication pending",
+      "frozen_originals_mutated": false,
+      "new_primary_native_performed_model_credit": 0,
+      "R_Git_global_writes": 0,
+      "scope_quarter_credit": 0
+    },
+    "ROOT_acceptance_authority": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CHIHIRO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json"
+  }
+}

@@ -1,0 +1,1555 @@
+{
+  "schema": "PUBLISHING_CURRENT105_EXACT_OWNER_TARGET_PURPOSE_INDEX_V1",
+  "home": "P3-INST-PUBLISHING-CIRCULATION-BURDENS",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 39617,
+    "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+    "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588"
+  },
+  "complete_purpose_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json",
+      "bytes": 271437,
+      "sha256": "7a87ce783ec58f393f76e22d4135a7485ee3d2a8787520f9cd2680604436f898",
+      "git_blob_oid_of_actual_bytes": "eee74b32b35958f094970df46b07777fa744e606"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json",
+      "bytes": 411418,
+      "sha256": "53619888c2aff2379f6ceb736b3a623f36e99f14383c06b9ac4035c08fab342f",
+      "git_blob_oid_of_actual_bytes": "e80ab83df285885240cac13306b06299c3ab80fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json",
+      "bytes": 576065,
+      "sha256": "d7acb895b80489546895ee610f15c331a5dbb493c693b06afef00d0182426fcf",
+      "git_blob_oid_of_actual_bytes": "7fde86e2cebf26fe77dd2d21e6a508d7f9fa361d"
+    }
+  ],
+  "complete_current105_index_rows": [
+    {
+      "owner_id": "O000",
+      "publishing_purpose_id": "PUBP000",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/0",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/0/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a reader's real sensory pleasure and volunteered help authorize a publisher's later production methods?",
+      "own_complete_current_finite_use": "Compare reader delight and production stages in PUBCLAIM001/006/008 without assigning Gourmet attendance to Publishing.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM006",
+        "PUBCLAIM008"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O001",
+      "publishing_purpose_id": "PUBP001",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/1",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/1/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does profitable temporary service settle makers' permanent institutional role?",
+      "own_complete_current_finite_use": "Use temporary versus enduring role permission for PUBCLAIM004/005/019.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM005",
+        "PUBCLAIM019"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O002",
+      "publishing_purpose_id": "PUBP002",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/2",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/2/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can promotional performance define a participant's wishes about belonging or valued property?",
+      "own_complete_current_finite_use": "Compare false princess publicity and displaced private ends in PUBCLAIM017/019/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O003",
+      "publishing_purpose_id": "PUBP003",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/3",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/3/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does enjoyable craft cease to authorize use of somebody else's object?",
+      "own_complete_current_finite_use": "Apply the craft/property distinction to manuscript appropriation and publicity in PUBCLAIM004/012/033.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM012",
+        "PUBCLAIM033"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O004",
+      "publishing_purpose_id": "PUBP004",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/4",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/4/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does a damaging published falsehood require beyond a later correction?",
+      "own_complete_current_finite_use": "Keep Takane's false biography and continuing consequences answerable in PUBCLAIM017/029/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM029",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O005",
+      "publishing_purpose_id": "PUBP005",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/5",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/5/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can an initial favorable check certify all later recipient effects of a service?",
+      "own_complete_current_finite_use": "Compare local book approval with distinct labor and recipient effects in PUBCLAIM005/008/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM005",
+        "PUBCLAIM008",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O006",
+      "publishing_purpose_id": "PUBP006",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/6",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/6/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does care and sociability settle every means used on an affected person?",
+      "own_complete_current_finite_use": "Use informed means and unequal knowledge as a finite comparison to helpful adult/critic acts in PUBCLAIM022/040.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM022",
+        "PUBCLAIM040"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O007",
+      "publishing_purpose_id": "PUBP007",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/7",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/7/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can an imposed social encounter become a claim of unanimous reader welcome?",
+      "own_complete_current_finite_use": "Keep Publishing's new readers and reluctant helpers differentiated in PUBCLAIM018/024.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM018",
+        "PUBCLAIM024"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O008",
+      "publishing_purpose_id": "PUBP008",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/8",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/8/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When can prestige, protection or refreshment be mistaken for an implemented resource decision?",
+      "own_complete_current_finite_use": "Bound declared and practical authority in PUBCLAIM004/005/010/023.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM005",
+        "PUBCLAIM010",
+        "PUBCLAIM023"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O009",
+      "publishing_purpose_id": "PUBP009",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/9",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/9/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does a true rumor or a later rescue erase a recipient's leisure refusal?",
+      "own_complete_current_finite_use": "Keep withdrawn Library help and reader leisure independent of useful rescue in PUBCLAIM018/024/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM018",
+        "PUBCLAIM024",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O010",
+      "publishing_purpose_id": "PUBP010",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/10",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/10/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can shared task words make contributors' destructive implementation informed?",
+      "own_complete_current_finite_use": "Compare editorial instructions, helpers' understanding and remaining liability in PUBCLAIM006/010/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM010",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O011",
+      "publishing_purpose_id": "PUBP011",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/11",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/11/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does rejecting a dubious sales pitch establish legitimate retaliation or lasting business reform?",
+      "own_complete_current_finite_use": "Qualify Publishing defeat/withdrawal versus institutional reform in PUBCLAIM031/033.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM031",
+        "PUBCLAIM033"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O012",
+      "publishing_purpose_id": "PUBP012",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/12",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/12/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What should circulation preserve when a modest quiet proposal is chosen over spectacle?",
+      "own_complete_current_finite_use": "Support intrinsic wanted reading and limited proposal stages in PUBCLAIM003/019/025/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM003",
+        "PUBCLAIM019",
+        "PUBCLAIM025",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O013",
+      "publishing_purpose_id": "PUBP013",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/13",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/13/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does anticipating an audience's praise establish a maker's actual reception?",
+      "own_complete_current_finite_use": "Keep wanted production and reader reaction distinct in PUBCLAIM001/006/008.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM006",
+        "PUBCLAIM008"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O014",
+      "publishing_purpose_id": "PUBP014",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/14",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/14/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a prior refusal settle whether a contributor wants a later invitation?",
+      "own_complete_current_finite_use": "Retain renewed work assent and real off-ramps in PUBCLAIM019/020/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM020",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O015",
+      "publishing_purpose_id": "PUBP015",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/15",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/15/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does excellent performance fail to authorize about publicity?",
+      "own_complete_current_finite_use": "Compare useful work versus Takane's publicity objection in PUBCLAIM017/019/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O016",
+      "publishing_purpose_id": "PUBP016",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/16",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/16/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does withheld private information make a published explanation or rumor true?",
+      "own_complete_current_finite_use": "Keep unknown private objects, false persona and partial correction separate in PUBCLAIM009/017/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM017",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O017",
+      "publishing_purpose_id": "PUBP017",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/17",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/17/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can domain competence and immediate success erase the costs of an unauthorized intervention?",
+      "own_complete_current_finite_use": "Qualify institutional force and local stopping in PUBCLAIM012/013/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM012",
+        "PUBCLAIM013",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O018",
+      "publishing_purpose_id": "PUBP018",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/18",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/18/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How can publishing preserve fiction's value without mistaking reception for delivered relief?",
+      "own_complete_current_finite_use": "Use channel, audience and completion distinctions for Publishing memory and circulation in PUBCLAIM028/029/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM028",
+        "PUBCLAIM029",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O019",
+      "publishing_purpose_id": "PUBP019",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/19",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/19/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When do a small audience and useful backstage help matter without formal institutional recognition?",
+      "own_complete_current_finite_use": "Give wanted maker-reader encounters independent value in PUBCLAIM001/018/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM018",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O020",
+      "publishing_purpose_id": "PUBP020",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/20",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/20/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can shared preference or professional vocabulary justify allocating unwanted disposal labor?",
+      "own_complete_current_finite_use": "Keep production costs and duty recipients explicit in PUBCLAIM006/010/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM010",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O021",
+      "publishing_purpose_id": "PUBP021",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/21",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/21/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How should a favorable coda qualify rather than validate an institutional theory?",
+      "own_complete_current_finite_use": "Separate Publishing useful results, money theory and measured success in PUBCLAIM011/029/032/039.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM011",
+        "PUBCLAIM029",
+        "PUBCLAIM032",
+        "PUBCLAIM039"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O022",
+      "publishing_purpose_id": "PUBP022",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/22",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/22/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a helper's concern redefine a maker's chosen preparation or tastes?",
+      "own_complete_current_finite_use": "Keep Mel's own wanted making and helper/editor interpretations distinct in PUBCLAIM006/020/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM020",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O023",
+      "publishing_purpose_id": "PUBP023",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/23",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/23/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can enjoyable shared training secure permission for a new means or lasting labor?",
+      "own_complete_current_finite_use": "Compare particular participation with enduring work expectations in PUBCLAIM019/026/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM026",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O024",
+      "publishing_purpose_id": "PUBP024",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/24",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/24/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does a private purpose become a mandate to the people who join it?",
+      "own_complete_current_finite_use": "Keep Publishing role authority and recipients' own requests separate in PUBCLAIM004/019/023.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM019",
+        "PUBCLAIM023"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O025",
+      "publishing_purpose_id": "PUBP025",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/25",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/25/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does enabling a worker's chosen craft imply universal gift or authority rules?",
+      "own_complete_current_finite_use": "Compare chosen publishing work and gift permission in PUBCLAIM016/020/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM016",
+        "PUBCLAIM020",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O026",
+      "publishing_purpose_id": "PUBP026",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/26",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/26/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does temporary gratitude leave unresolved about a burdened recipient's rest?",
+      "own_complete_current_finite_use": "Keep wanted company alongside deadline strain and ongoing work in PUBCLAIM003/019/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM003",
+        "PUBCLAIM019",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O027",
+      "publishing_purpose_id": "PUBP027",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/27",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/27/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can commercial affection or a valued gift certify every means of obtaining company?",
+      "own_complete_current_finite_use": "Compare requested company, gifts and publicity boundaries in PUBCLAIM017/022/026/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM022",
+        "PUBCLAIM026",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O028",
+      "publishing_purpose_id": "PUBP028",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/28",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/28/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What should a publisher preserve about authorship, private letters and a gift's off-ramp?",
+      "own_complete_current_finite_use": "Keep maker credit, publicity and renewed assent precise in PUBCLAIM017/020/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM020",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O029",
+      "publishing_purpose_id": "PUBP029",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/29",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/29/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can employer recognition replace a participant's own later decision?",
+      "own_complete_current_finite_use": "Keep makers' renewed decisions versus sole adult authorship in PUBCLAIM020/022/040.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM020",
+        "PUBCLAIM022",
+        "PUBCLAIM040"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O030",
+      "publishing_purpose_id": "PUBP030",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/30",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/30/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does restored leadership leave promised rights and ordinary goods undelivered?",
+      "own_complete_current_finite_use": "Keep Publishing victory/withdrawal and resource promises finite in PUBCLAIM010/031/033.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM010",
+        "PUBCLAIM031",
+        "PUBCLAIM033"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O031",
+      "publishing_purpose_id": "PUBP031",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/31",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/31/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a public leisure record settle every participant's labor, publicity and aftermath?",
+      "own_complete_current_finite_use": "Preserve circulation's individual readers/helpers and quiet value in PUBCLAIM018/024/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM018",
+        "PUBCLAIM024",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O032",
+      "publishing_purpose_id": "PUBP032",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/32",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/32/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can an institution's successful holiday account certify every participant's assent and duty remedy?",
+      "own_complete_current_finite_use": "Keep temporary ordinary pleasure beside unresolved work in PUBCLAIM019/030/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM030",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O033",
+      "publishing_purpose_id": "PUBP033",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/33",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/33/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What can chosen return and forgiveness fail to repair after coercive care?",
+      "own_complete_current_finite_use": "Apply renewed choice without retroactive authorization in PUBCLAIM020/026/038.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM020",
+        "PUBCLAIM026",
+        "PUBCLAIM038"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O034",
+      "publishing_purpose_id": "PUBP034",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/34",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/34/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can smiling service or conditional release license custody, rescue or publicity claims?",
+      "own_complete_current_finite_use": "Keep useful service, restraint and literal endpoints separate in PUBCLAIM012/013/024.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM012",
+        "PUBCLAIM013",
+        "PUBCLAIM024"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O035",
+      "publishing_purpose_id": "PUBP035",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/35",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json#/records/35/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does a joyful invitation establish about public circulation and performed reception?",
+      "own_complete_current_finite_use": "Bound publicity and wanted performance without invented audience fulfillment in PUBCLAIM017/018/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM018",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O036",
+      "publishing_purpose_id": "PUBP036",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/0",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/0/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can making a wanted hospitable place settle development permission or a worker's material loss?",
+      "own_complete_current_finite_use": "Keep temporary access, reader quiet and usefulness without completed restitution in PUBCLAIM019/024/030/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM024",
+        "PUBCLAIM030",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O037",
+      "publishing_purpose_id": "PUBP037",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/1",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/1/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When can a renewed ritual preserve meaning while shared funds and rest remain lost?",
+      "own_complete_current_finite_use": "Compare ordinary creative ritual and unequal institutional burden in PUBCLAIM016/019/030/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM016",
+        "PUBCLAIM019",
+        "PUBCLAIM030",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O038",
+      "publishing_purpose_id": "PUBP038",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/2",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/2/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How can giving an object retain value without making its recipient owe consumption, feedback or display?",
+      "own_complete_current_finite_use": "Compare manuscript receiving and reader/maker control in PUBCLAIM001/008/017/018.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM008",
+        "PUBCLAIM017",
+        "PUBCLAIM018"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O039",
+      "publishing_purpose_id": "PUBP039",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/3",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/3/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can civic protection and a held gift be overstated as secure custody or lasting relational repair?",
+      "own_complete_current_finite_use": "Keep helpful procedure and actual reception finite in PUBCLAIM005/013/018/023.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM005",
+        "PUBCLAIM013",
+        "PUBCLAIM018",
+        "PUBCLAIM023"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O040",
+      "publishing_purpose_id": "PUBP040",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/4",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/4/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What can professional restoration and a received gift show without inferring unrestricted friendship or taste?",
+      "own_complete_current_finite_use": "Compare material care and specific reader preference in PUBCLAIM009/013/024/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM013",
+        "PUBCLAIM024",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O041",
+      "publishing_purpose_id": "PUBP041",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/5",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/5/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When can desired recognition and collective rescue be separated from paid costs and charter completion?",
+      "own_complete_current_finite_use": "Keep publication stages, help and recognition distinct in PUBCLAIM001/006/008/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM006",
+        "PUBCLAIM008",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O042",
+      "publishing_purpose_id": "PUBP042",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/6",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/6/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does a successful outing settle a reader's quiet wish, a noncash prize or another party's home?",
+      "own_complete_current_finite_use": "Keep audience preferences and valued property specific in PUBCLAIM018/024/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM018",
+        "PUBCLAIM024",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O043",
+      "publishing_purpose_id": "PUBP043",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/7",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/7/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can an actual feast settle reported title, refunds or hidden protective intention?",
+      "own_complete_current_finite_use": "Separate usable local permission and material public/private claims in PUBCLAIM004/005/024/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM005",
+        "PUBCLAIM024",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O044",
+      "publishing_purpose_id": "PUBP044",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/8",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/8/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does a requester contribute to a helping relationship before any solution exists?",
+      "own_complete_current_finite_use": "Keep maker/help requester authorship and gifts specific in PUBCLAIM009/022/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM022",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O045",
+      "publishing_purpose_id": "PUBP045",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/9",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/9/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How should an institutional helper preserve a recipient's nonpunitive request?",
+      "own_complete_current_finite_use": "Compare specific withdrawal/refusal objects and bounded adult help in PUBCLAIM022/026/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM022",
+        "PUBCLAIM026",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O046",
+      "publishing_purpose_id": "PUBP046",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/10",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/10/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a disclosed past or shown photograph authorize publishing a person's hidden true identity?",
+      "own_complete_current_finite_use": "Keep publicity, biography and evidence grades answerable in PUBCLAIM009/017/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM017",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O047",
+      "publishing_purpose_id": "PUBP047",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/11",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/11/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does courtesy make sensitive personal answers or complete institutional knowledge owed?",
+      "own_complete_current_finite_use": "Compare critic reciprocity, personal limits and declared offices in PUBCLAIM004/009/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM009",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O048",
+      "publishing_purpose_id": "PUBP048",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/12",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/12/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a trusted correction and useful action guarantee lasting understanding?",
+      "own_complete_current_finite_use": "Keep local correction and future reception separate in PUBCLAIM009/021/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM021",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O049",
+      "publishing_purpose_id": "PUBP049",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/13",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/13/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can belonging affirmed before disclosure excuse a private object's later exposure?",
+      "own_complete_current_finite_use": "Compare creator/reader belonging and publicity permission in PUBCLAIM017/019/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O050",
+      "publishing_purpose_id": "PUBP050",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/14",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/14/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does a person's criticism of reassuring help leave the helper responsible for?",
+      "own_complete_current_finite_use": "Keep gratitude with privacy criticism and current work assent in PUBCLAIM017/020/022.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM020",
+        "PUBCLAIM022"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O051",
+      "publishing_purpose_id": "PUBP051",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/15",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/15/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does affectionate role-play become unwanted public misrecognition?",
+      "own_complete_current_finite_use": "Compare false princess framing, performer irritation and public audience in PUBCLAIM017/026/037.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM026",
+        "PUBCLAIM037"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O052",
+      "publishing_purpose_id": "PUBP052",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/16",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/16/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can gratitude and a direct noninterference boundary coexist in one speech?",
+      "own_complete_current_finite_use": "Ground no-retroactive-permission comparison in PUBCLAIM020/026/038 without dissolving positive regard.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM020",
+        "PUBCLAIM026",
+        "PUBCLAIM038"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O053",
+      "publishing_purpose_id": "PUBP053",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/17",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/17/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does an explicit cessation promise fail to settle about future conduct?",
+      "own_complete_current_finite_use": "Keep local withdrawal real but bounded in PUBCLAIM026/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM026",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O054",
+      "publishing_purpose_id": "PUBP054",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/18",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/18/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How should private attachment and responsibility appraisal be kept distinct from settled guilt?",
+      "own_complete_current_finite_use": "Compare memory objects, disclosure and bounded adult reassurance in PUBCLAIM022/028/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM022",
+        "PUBCLAIM028",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O055",
+      "publishing_purpose_id": "PUBP055",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/19",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/19/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a recipient initiate further concern while keeping aversion to an earlier intrusion?",
+      "own_complete_current_finite_use": "Keep renewed help and maker agency alongside maintained boundaries in PUBCLAIM020/022/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM020",
+        "PUBCLAIM022",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O056",
+      "publishing_purpose_id": "PUBP056",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/20",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/20/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does coordinated assistance commit participants to beyond a contested friendship label?",
+      "own_complete_current_finite_use": "Compare distributed work commitment with labels, authority and stage completion in PUBCLAIM004/006/022.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM006",
+        "PUBCLAIM022"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O057",
+      "publishing_purpose_id": "PUBP057",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/21",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/21/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can tangible help remove a recipient's objection to its humiliating form?",
+      "own_complete_current_finite_use": "Keep help, public form and body safety distinct in PUBCLAIM013/017/022.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM013",
+        "PUBCLAIM017",
+        "PUBCLAIM022"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O058",
+      "publishing_purpose_id": "PUBP058",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/22",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/22/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does familiarity and an offered meal stop short of clinical recovery or a settled relationship?",
+      "own_complete_current_finite_use": "Keep source modes and finite reception in PUBCLAIM008/018/029/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM008",
+        "PUBCLAIM018",
+        "PUBCLAIM029",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O059",
+      "publishing_purpose_id": "PUBP059",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/23",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/23/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How can a remembered ordinary life motivate change without becoming a verified cure or named biography?",
+      "own_complete_current_finite_use": "Keep wanted reading/making and ordinary memory intrinsic in PUBCLAIM019/028/029/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM028",
+        "PUBCLAIM029",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O060",
+      "publishing_purpose_id": "PUBP060",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/24",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/24/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can ordinary return coexist with renewed dispute that contradicts a permanent-resolution claim?",
+      "own_complete_current_finite_use": "Compare unresolved publicity and local stopping without erasing either in PUBCLAIM017/021/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM021",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O061",
+      "publishing_purpose_id": "PUBP061",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/25",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/25/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does recipient-shaped design demonstrate complete consultation or enjoyment?",
+      "own_complete_current_finite_use": "Compare editorial demands, useful design and remaining worker consultation in PUBCLAIM006/010/017/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM010",
+        "PUBCLAIM017",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O062",
+      "publishing_purpose_id": "PUBP062",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/26",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/26/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can mixed success keep a nonenjoying worker visible?",
+      "own_complete_current_finite_use": "Keep makers/helpers apart from audience pleasure in PUBCLAIM006/019/030/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM019",
+        "PUBCLAIM030",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O063",
+      "publishing_purpose_id": "PUBP063",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/27",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/27/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What can disclosure, apology and an actual party repair after mistaken care becomes force?",
+      "own_complete_current_finite_use": "Keep altered knowledge and finite correction in PUBCLAIM013/020/021/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM013",
+        "PUBCLAIM020",
+        "PUBCLAIM021",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O064",
+      "publishing_purpose_id": "PUBP064",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/28",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/28/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does a later request and a worker's personal assent change collaboration without legitimating initial commandeering?",
+      "own_complete_current_finite_use": "Compare renewed editorial work and material production burden in PUBCLAIM006/010/020/030, keeping E820 source-local.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM010",
+        "PUBCLAIM020",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O065",
+      "publishing_purpose_id": "PUBP065",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/29",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/29/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How should completed operational reports be retained when danger revives and reconstruction stays ahead?",
+      "own_complete_current_finite_use": "Keep source-mode accomplishment and incomplete aftermath distinct in PUBCLAIM023/029/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM023",
+        "PUBCLAIM029",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O066",
+      "publishing_purpose_id": "PUBP066",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/30",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/30/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does renewed contact and familiar recognition permit without resolving all identities or outcomes?",
+      "own_complete_current_finite_use": "Preserve memory and source-local report limits in PUBCLAIM028/029/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM028",
+        "PUBCLAIM029",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O067",
+      "publishing_purpose_id": "PUBP067",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/31",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/31/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can material warmth and offered trust resist a doctrine without becoming a complete causal account?",
+      "own_complete_current_finite_use": "Keep ordinary attachments, helper limits and informed knowledge in PUBCLAIM019/023/029/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM023",
+        "PUBCLAIM029",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O068",
+      "publishing_purpose_id": "PUBP068",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/32",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/32/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does courteous reconstruction communication authorize without accomplishing funding or restored office?",
+      "own_complete_current_finite_use": "Compare formal approval, finite help and resource implementation in PUBCLAIM004/005/010/023.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM005",
+        "PUBCLAIM010",
+        "PUBCLAIM023"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O069",
+      "publishing_purpose_id": "PUBP069",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/33",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/33/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can welcomed affiliation and reported command rights stand in for every coworker's informed participation?",
+      "own_complete_current_finite_use": "Keep information, local role and reader access distinct in PUBCLAIM004/006/018/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM006",
+        "PUBCLAIM018",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O070",
+      "publishing_purpose_id": "PUBP070",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/34",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json#/records/34/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a public apology and banquet settle the institutional costs of a successful trap?",
+      "own_complete_current_finite_use": "Compare food/company, recognition and material accountability in PUBCLAIM008/010/024/030, keeping E826 distinct from E844.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM008",
+        "PUBCLAIM010",
+        "PUBCLAIM024",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O071",
+      "publishing_purpose_id": "PUBP071",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/0",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/0/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can grateful community provision stand in for every participant's food, body and official answer?",
+      "own_complete_current_finite_use": "Compare helpful circulation and hospitality with local mandates and refusals in PUBCLAIM005/018/024.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM005",
+        "PUBCLAIM018",
+        "PUBCLAIM024"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O072",
+      "publishing_purpose_id": "PUBP072",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/1",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/1/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How can object memory and welcome remain valuable while access is temporary or conditional?",
+      "own_complete_current_finite_use": "Keep Publishing memory, particular shelter and quiet visitor limits in PUBCLAIM024/028/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM024",
+        "PUBCLAIM028",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O073",
+      "publishing_purpose_id": "PUBP073",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/2",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/2/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What is actually completed when a wanted ending becomes a manuscript under a deadline?",
+      "own_complete_current_finite_use": "This direct maintained core sharpens manuscript, refusal and renewed-work joins in PUBCLAIM001/006/014/020/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM006",
+        "PUBCLAIM014",
+        "PUBCLAIM020",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O074",
+      "publishing_purpose_id": "PUBP074",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/3",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/3/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can useful cross-school assistance create an indefinite obligation to help?",
+      "own_complete_current_finite_use": "Compare specific help, withdrawal and consultation limits in PUBCLAIM024/026/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM024",
+        "PUBCLAIM026",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O075",
+      "publishing_purpose_id": "PUBP075",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/4",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/4/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does a successful departure and cherished object leave unknown about its recipients?",
+      "own_complete_current_finite_use": "Keep objects, temporary access and remembered encounters source-local in PUBCLAIM024/025/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM024",
+        "PUBCLAIM025",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O076",
+      "publishing_purpose_id": "PUBP076",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/5",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/5/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can later chosen continuation erase the cost of a compulsory outing?",
+      "own_complete_current_finite_use": "Compare renewed publishing assent and work's consumption of private life in PUBCLAIM019/020/038.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM020",
+        "PUBCLAIM038"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O077",
+      "publishing_purpose_id": "PUBP077",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/6",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/6/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does a successful public performance leave publicity and cost transfer unsettled?",
+      "own_complete_current_finite_use": "Keep creative acceptance, publicity and actual stage completion distinct in PUBCLAIM017/022/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM022",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O078",
+      "publishing_purpose_id": "PUBP078",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/7",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/7/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How should circulation preserve different reception and work endpoints across a mixed collection?",
+      "own_complete_current_finite_use": "Use source-specific completion discipline for maker, reader and payment claims in PUBCLAIM001/006/010/018.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM006",
+        "PUBCLAIM010",
+        "PUBCLAIM018"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O079",
+      "publishing_purpose_id": "PUBP079",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/8",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/8/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a chosen hosting role and actual appreciation repair a lost schedule?",
+      "own_complete_current_finite_use": "Compare useful circulation, labor deadlines and qualified future plans in PUBCLAIM006/024/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM024",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O080",
+      "publishing_purpose_id": "PUBP080",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/9",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/9/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What can a maker's presence mean independently of skill or a fixed public role?",
+      "own_complete_current_finite_use": "Preserve wanted maker membership without a sales or talent threshold in PUBCLAIM019/032/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM032",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O081",
+      "publishing_purpose_id": "PUBP081",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/10",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/10/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Does a recipient's actual thanks validate a service institution's earlier means?",
+      "own_complete_current_finite_use": "Keep actual reader/recipient response and coercive methods separately judged in PUBCLAIM008/013/035.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM008",
+        "PUBCLAIM013",
+        "PUBCLAIM035"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O082",
+      "publishing_purpose_id": "PUBP082",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/11",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/11/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can desired art or shared company coexist with unpaid work and privacy costs?",
+      "own_complete_current_finite_use": "Compare creative encounter and private representation in PUBCLAIM017/019/030/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM030",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O083",
+      "publishing_purpose_id": "PUBP083",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/12",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/12/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a guest leader's welcome or broad defense establish institutional unanimity?",
+      "own_complete_current_finite_use": "Keep authority, hospitality and spokesperson scope separate in PUBCLAIM004/005/024.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM005",
+        "PUBCLAIM024"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O084",
+      "publishing_purpose_id": "PUBP084",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/13",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/13/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does refusing a title but accepting bounded maintenance teach about creative office and labor?",
+      "own_complete_current_finite_use": "Compare represented office, particular labor acceptance and retained dissent in PUBCLAIM004/019/026/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM019",
+        "PUBCLAIM026",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O085",
+      "publishing_purpose_id": "PUBP085",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/14",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/14/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a wanted interval of performance remain valuable when the performer chooses to end it?",
+      "own_complete_current_finite_use": "Keep performance duration and publicity rights particular in PUBCLAIM017/019/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O086",
+      "publishing_purpose_id": "PUBP086",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/15",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/15/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does good gift selection fail to settle privacy and ongoing office work?",
+      "own_complete_current_finite_use": "Compare received goods, company and work costs in PUBCLAIM010/017/019/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM010",
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O087",
+      "publishing_purpose_id": "PUBP087",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/16",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/16/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a no-force clause and short agreement settle every coworker's information and standing?",
+      "own_complete_current_finite_use": "Keep information, bounded duration and distributed help explicit in PUBCLAIM006/019/022/027.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM019",
+        "PUBCLAIM022",
+        "PUBCLAIM027"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O088",
+      "publishing_purpose_id": "PUBP088",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/17",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/17/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How does later explicit permission differ from earlier pressured work and interrupted rest?",
+      "own_complete_current_finite_use": "Compare maker/recipient later assent and actual eating to book reception/workload in PUBCLAIM008/020/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM008",
+        "PUBCLAIM020",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O089",
+      "publishing_purpose_id": "PUBP089",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/18",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/18/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a singular public success author future training or a career?",
+      "own_complete_current_finite_use": "Compare creative reception with wanted role duration and serious workload limits in PUBCLAIM008/019/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM008",
+        "PUBCLAIM019",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O090",
+      "publishing_purpose_id": "PUBP090",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/19",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/19/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does a delivery need besides speed and eventual ingestion to respect its recipients?",
+      "own_complete_current_finite_use": "Keep product condition, actual reader receipt and worker/control endpoints in PUBCLAIM001/006/018/024.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM006",
+        "PUBCLAIM018",
+        "PUBCLAIM024"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O091",
+      "publishing_purpose_id": "PUBP091",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/20",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/20/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can an initial agreement to meet license a changed public activity or confidentiality bargain?",
+      "own_complete_current_finite_use": "Compare changed editorial/publicity demands and local access in PUBCLAIM017/024/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM024",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O092",
+      "publishing_purpose_id": "PUBP092",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/21",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/21/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How can a collective leisure ending keep the helpers' ongoing work visible?",
+      "own_complete_current_finite_use": "Compare Publishing shared joy with finite help and consultation in PUBCLAIM019/022/030/041.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM022",
+        "PUBCLAIM030",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O093",
+      "publishing_purpose_id": "PUBP093",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/22",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/22/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can art recognition settle imposed ritual, private access or an unfulfilled wish?",
+      "own_complete_current_finite_use": "Keep artwork, participation, memory and access at distinct stages in PUBCLAIM017/027/028/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM027",
+        "PUBCLAIM028",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O094",
+      "publishing_purpose_id": "PUBP094",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/23",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/23/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What can wanted reading and craft retain when an unwanted office makes fallible commercial decisions?",
+      "own_complete_current_finite_use": "Apply maker/reader privacy and commercial outcome limits in PUBCLAIM009/017/029/039, preserving frozen O094 wording with a precise current-use qualification.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM017",
+        "PUBCLAIM029",
+        "PUBCLAIM039"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O095",
+      "publishing_purpose_id": "PUBP095",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/24",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/24/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When does circulating a performance or service leave reader and worker boundaries unsettled?",
+      "own_complete_current_finite_use": "Compare library procedure, creative representation and work's recipients in PUBCLAIM013/017/019/024.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM013",
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM024"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O096",
+      "publishing_purpose_id": "PUBP096",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/25",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/25/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "How does locally permitted circulation preserve the burdens of useful publicity?",
+      "own_complete_current_finite_use": "This direct E852 core grounds PUBCLAIM005/010/017/021/024/032 without manufacturing every reader's opinion.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM005",
+        "PUBCLAIM010",
+        "PUBCLAIM017",
+        "PUBCLAIM021",
+        "PUBCLAIM024",
+        "PUBCLAIM032"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O097",
+      "publishing_purpose_id": "PUBP097",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/26",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/26/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can successful public portrayal license an enduring creative career or loss of private control?",
+      "own_complete_current_finite_use": "Keep publicity duration and performer-owned identity in PUBCLAIM017/019/026.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM017",
+        "PUBCLAIM019",
+        "PUBCLAIM026"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O098",
+      "publishing_purpose_id": "PUBP098",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/27",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/27/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What does preserving an imperfect present mean when an ideal product would erase its recipients?",
+      "own_complete_current_finite_use": "Compare wanted work and existing reader/maker attachments without market perfection in PUBCLAIM019/028/029/032.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM019",
+        "PUBCLAIM028",
+        "PUBCLAIM029",
+        "PUBCLAIM032"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O099",
+      "publishing_purpose_id": "PUBP099",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/28",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/28/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can one explained rumor resolve every uncertainty or authorize coercive company?",
+      "own_complete_current_finite_use": "Keep interpretation, informed publicity and local procedure source-bounded in PUBCLAIM009/017/023/031.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM009",
+        "PUBCLAIM017",
+        "PUBCLAIM023",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O100",
+      "publishing_purpose_id": "PUBP100",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/29",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/29/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "When can recipient-sensitive service and merchant assent be overstated as all-person rest or reform?",
+      "own_complete_current_finite_use": "Keep Publishing hospitality, material gains and uneven work in PUBCLAIM010/024/030.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM010",
+        "PUBCLAIM024",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O101",
+      "publishing_purpose_id": "PUBP101",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/30",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/30/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a title and compensation promise settle the agency and property of a hosted audience?",
+      "own_complete_current_finite_use": "Compare title, publicity and meaningful material restitution in PUBCLAIM004/017/024/029.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM017",
+        "PUBCLAIM024",
+        "PUBCLAIM029"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O102",
+      "publishing_purpose_id": "PUBP102",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/31",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/31/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can institutional hospitality and useful service resolve debt, ecological authority or another recipient's work?",
+      "own_complete_current_finite_use": "Compare practical office, finite hospitality and labor exit in PUBCLAIM004/019/026/031, without direct Publishing attendance or shared chronology.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM004",
+        "PUBCLAIM019",
+        "PUBCLAIM026",
+        "PUBCLAIM031"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O103",
+      "publishing_purpose_id": "PUBP103",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/32",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/32/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "What should a collective creative project learn from projecting a helper's motive onto its maker?",
+      "own_complete_current_finite_use": "Keep editor/helper projections, maker ends and actual output in PUBCLAIM006/009/020/030, preserving Anna and Elina as distinct actors.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM006",
+        "PUBCLAIM009",
+        "PUBCLAIM020",
+        "PUBCLAIM030"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    },
+    {
+      "owner_id": "O104",
+      "publishing_purpose_id": "PUBP104",
+      "complete_new_target_purpose_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/33",
+      "complete_original_prior_meaning_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json#/records/33/complete_original_prior_meaning_input_row_preserved",
+      "own_complete_current_question": "Can a mixed set of good reception endpoints create one universal rule of repayment or service?",
+      "own_complete_current_finite_use": "Keep ordinary worth, particular reception and finite obligations in PUBCLAIM001/018/019/026/041 without a profit, frequency or crisis filter.",
+      "literal_body_claim_relations": [
+        "PUBCLAIM001",
+        "PUBCLAIM018",
+        "PUBCLAIM019",
+        "PUBCLAIM026",
+        "PUBCLAIM041"
+      ],
+      "source_grade": "Actual current report meaning/reuse; complete original attributed normal scope inside record, not a fresh primary or whole105 replay."
+    }
+  ],
+  "source_receiving": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+  "claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+  "author_complete525_saved_meaning_receipt": {
+    "evidence_id": "PUBLISHING_OWN105_COMPLETE525_SAVED_FIELD_READBACK_AND_REPORT_REUSE_RECEIPT_V1.json",
+    "bytes": 2878,
+    "sha256": "514ed238b73b4039a90fb163c38a04d679e038f03987d16a902f03c638dfeccd",
+    "git_blob_oid_of_actual_bytes": "10387b6d51831c052d5173674e4f9213aa50bb24",
+    "role": "PRIVATE_AUTHOR_RECEIVING_WITNESS_NOT_INDEPENDENT_PASS"
+  },
+  "preserved_original26whole79selected": true,
+  "mandatory_named_duty": null,
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "ROOT_acceptance_independent_QA_install_publication_MAIN": "PENDING. Existing home only; no current shared metadata/count credit."
+}

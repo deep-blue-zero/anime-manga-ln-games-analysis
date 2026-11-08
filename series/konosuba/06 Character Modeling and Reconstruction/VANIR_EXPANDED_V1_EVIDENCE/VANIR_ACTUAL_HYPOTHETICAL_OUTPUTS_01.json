@@ -1,0 +1,87 @@
+{
+  "schema": "KONOSUBA_VANIR_ACTUAL_HYPOTHETICAL_OUTPUTS_V1",
+  "composed_utc": "2026-10-19T22:17:54.963554+00:00",
+  "fixed_input_sha256": "6177ee4a4cf82e6bd3d3f1676312b564e9d110e5b888414906a3af05261c3ab2",
+  "prose_seal_sha256": "6deb95759cb888b398cdbfbe30c137939935e6fc19606487ec95a438757b9e27",
+  "execution": "Twelve actual written first responses to these fixed inputs by the same informed author after the private prose/input seals. No independent model, reviewer, participant or source event. English functional rendering, no acoustic claim.",
+  "outputs": [
+    {
+      "id": "VN-H01A",
+      "action": "Vanir leaves the fee uncollected and holds out an empty hand for the documents.",
+      "utterance": "You have supplied the fee and omitted the evidence. A splendid economy—for the buyer who wishes to purchase a guess. Bring the three invoices and their rejection notices; then we may discuss a diagnosis worth paying for.",
+      "boundary": "He has requested records. No folder delivery, private account access, cause, client agreement or payment is established."
+    },
+    {
+      "id": "VN-H01B",
+      "action": "He marks the blank purchase-order field on each authorized invoice and sets the copies together.",
+      "utterance": "Three grand mysteries, each announcing the same missing field. Supply the required purchase-order reference before resubmission. I diagnose the visible rejection; I do not sell you the buyer's future approval along with it.",
+      "boundary": "The field diagnosis follows the supplied rejection messages. Valid references, resubmission, acceptance and payment remain unperformed or unknown."
+    },
+    {
+      "id": "VN-H02A",
+      "action": "He returns the court letter to the desk instead of packing his work materials.",
+      "utterance": "An excellent offer. Naturally they recognize quality. Nevertheless, I shall remain here this week; the proprietor and I have work of our own. Do not mistake this for a vow to finance every future disaster.",
+      "boundary": "He chooses to stay this week. Wiz's response, later losses and future acceptance or refusal of court work are unknown; friend valuation and project dependence are not isolated."
+    },
+    {
+      "id": "VN-H02B",
+      "action": "He sets aside the new loss statement and prepares to seek the offered court conversation.",
+      "utterance": "Another triumph for our inventory. Very well: I shall hear the court's terms. I named a fallback, not a decorative anecdote. The dungeon will not be built from affectionate descriptions of an empty till.",
+      "boundary": "He chooses an application/conversation step, with irritation and project pressure visible. No appointment, wage, final abandonment of Wiz or solved loss is established."
+    },
+    {
+      "id": "VN-H03A",
+      "action": "He moves to the door and offers his hand for the parcel, preparing to undertake the particular promised escort.",
+      "utterance": "One parcel, one escort, as agreed. A most inconveniently precise promise. Come; we shall not improve it into a lifetime subscription merely because the lane is unpleasant.",
+      "boundary": "He initiates the promised aid and limits its scope. Parcel handoff, client movement, successful crossing and actual damage remain unknown. This single constructed choice does not isolate duty from pride."
+    },
+    {
+      "id": "VN-H03B",
+      "action": "He remains at the counter and begins to state the terms of a possible escort.",
+      "utterance": "You have described the danger admirably and my remuneration not at all. My hour and the risk to this manifestation are part of the price. Shall we negotiate an escort, or were you merely announcing your itinerary?",
+      "boundary": "A service offer is being negotiated. He has not accepted the escort, received payment, discovered a hidden bond or created a guard's willingness."
+    },
+    {
+      "id": "VN-H04A",
+      "action": "He crosses his name out of the promoter's provisional week-long booking.",
+      "utterance": "You have booked a week of your own enthusiasm. My mask and my time have yet to join the enterprise. Bring me the hours, the return and a request; then perhaps you may possess an agreement.",
+      "boundary": "He rejects the imposed booking and invites terms. The promoter has no new enforcement power, and no eventual agreement or revenue is established."
+    },
+    {
+      "id": "VN-H04B",
+      "action": "He takes the proposed programme and begins to put his own name on it before the volunteer has agreed.",
+      "utterance": "An efficient programme. Put my name above the demonstration; we can settle our host's terms afterward. Surely the prospect will become more persuasive once the audience exists.",
+      "boundary": "This is presumptive commitment and pressure, not host assent or a settled arrangement. No possession, publication, audience, agreement or proceeds occur in the response. His proposed sequencing preserves the autonomy asymmetry rather than certifying a permissible procedure."
+    },
+    {
+      "id": "VN-H05A",
+      "action": "He turns toward Aqua and extends a hand for the still-unprovided slip.",
+      "utterance": "A failed shopkeeper, yet the inventory waits upon the goddess's scrap of paper. Hand it over, and behold the miracle of a number finally arriving where it is useful.",
+      "boundary": "The jab competes with the practical task. Aqua's reply, delivery of the slip, attack or apology is not supplied; the number remains unknown and the count unfinished."
+    },
+    {
+      "id": "VN-H05B",
+      "action": "He gives Maxwell a formal bow and holds out a hand toward the slip.",
+      "utterance": "Once again, my fellow duke: I am Vanir. An introduction loses none of its dignity through repetition. Now, if you would entrust that number to me, we may complete this modest enterprise.",
+      "boundary": "Courtesy and renewed introduction differ from the Aqua jab. No restored memory, delivered number or completed count is established."
+    },
+    {
+      "id": "VN-H06A",
+      "action": "He drops the proposed repeat of the prank and turns the conversation toward the ordinary desk job.",
+      "utterance": "A remarkably unreceptive audience. Very well, there shall be no encore of that performance. As for the afternoon at the desk, let us discuss work and payment before anyone calls it another favor.",
+      "boundary": "He chooses no repeat here while retaining a self-serving frame. This does not establish apology, forgiveness, prior permission or a universal respect-for-objection rule; the paid work is not yet agreed."
+    },
+    {
+      "id": "VN-H06B",
+      "action": "He reads the shown rule again and asks the manager for the two required shift times.",
+      "utterance": "Two unpaid shifts. An expensive laugh indeed. Give me the times; I shall arrange my work around the obligation. Next time I will inspect the price before providing the entertainment.",
+      "boundary": "He acknowledges the demonstrated obligation and seeks a schedule. No exemption, substitute worker, completed shifts or recipient forgiveness is invented. Whether the lesson transfers beyond this enforceable cost remains untested."
+    }
+  ],
+  "outputs_count": 12,
+  "pairs": 6,
+  "source_validation_credit": 0,
+  "independent_validation_credit": 0,
+  "score": null,
+  "confidence_increase": false
+}

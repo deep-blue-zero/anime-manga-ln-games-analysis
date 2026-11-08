@@ -1,0 +1,342 @@
+{
+  "schema": "KONOSUBA_MAIN16_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-16",
+  "findings": [
+    {
+      "id": "M16EX-Q01",
+      "topic": "Exact local edition",
+      "current_qualification": "MAIN16 native8,530,869B/SHA7d8b2f5152716e0351dc6919abaa347c8504562d49ab9a748fdf3dc8db522df1; item/standard.opf SHA9bf3cb7daa5812197253e8f5328e624ceee6b367f0a0ce895b3729fc31d6721e. Read-only local source, not a substituted translation/adaptation.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q02",
+      "topic": "Complete new component scope",
+      "current_qualification": "All18new textual resources121P/ruby/residual and28native images actually received before seal. New60P『アクセルの街の名物女神』,21Pcreator afterword and40other notice/contents/heading/colophon/use slots;61nonbonusP. Reading magnifications add0assets.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q03",
+      "topic": "Current retained scope is1395BASE-TEXTP",
+      "current_qualification": "Ten accepted principal members2844P remain exact. Current actual recheck1395uniqueP acrossall10units: C1=254,C2=209,C3=96,C4=113,fourinterludes179,Final515,Ep29. Six units complete at base-text only; four main chapters bounded. No fresh retained ruby/residual, whole2844P/EPUB, new principal pass or independent validation.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q04",
+      "topic": "Sealed observations remain history",
+      "current_qualification": "Complete uncoded seal2026-10-19T20:42:45.366307+00:00precedes formal coding. All original text/image notes and pins remain exact, including wrong tentative visual names and nest/egg guess. Current correction receipt is attributable, not a silently improved original pass.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q05",
+      "topic": "Narrators and resource architecture",
+      "current_qualification": "28resources contain10retained bodies,18new resources. The four retained interludes use Aqua first person. Final shifts from Kazuma to Aqua at61–236and backat240; current complete Final base text makes those access planes explicit. New bonus uses Kazuma, creator text a different speaker.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q06",
+      "topic": "Bonus chronology bounded",
+      "current_qualification": "Aqua is away, Kazuma is in Axel buying dinner. Exact placement among retained subchapters/pursuit preparations is unspecified. Broader known concern matters but does not fix every new helpfulness decision interval. NEXT17 adds no admission.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q07",
+      "topic": "Mother's water/child account",
+      "current_qualification": "Unknown woman with bottle asks for regular Aqua water and reports that cooking with it avoids her child's allergy. Request and disappointment/departure are shown; the child, cooking, allergy outcome and actual Aqua sale are not independently observed in this bonus.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q08",
+      "topic": "Kazuma's changing appraisal",
+      "current_qualification": "P1's romantic interpretation is correctedP6. P12's rare-usefulness judgment andP57's admitted limited knowledge are his situated accounts, not a census proving Aqua usually incapable. Actual useful reports and later debt can coexist.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q09",
+      "topic": "Pierre identity and self-ranking",
+      "current_qualification": "ピエール explicitly selfnamesP14/17and police use the nameP46. Capital top-one-or-two and Axel audience reputation are performer claims, not verified ranking/population facts. No automatic join with another entertainer or invented biography.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q10",
+      "topic": "Children's concrete expectations",
+      "current_qualification": "Children actually expect a large beginner-killer or coordinated crow displayP22-23, with an attributed Aqua memory. Neither animal display is performed here; no species event or new Aqua trial is created.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q11",
+      "topic": "Candy is an offer at its observed stage",
+      "current_qualification": "Pierre removes sweetsP26and offers oneP25as a greeting after the raised expectation. Specific receipt/eating/payment by a child is unshown. The bag changes claimed role without certifying all his initial planning.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q12",
+      "topic": "No-trick formula is contextual language",
+      "current_qualification": "P32's stock assurance is later used literally by policeP48. Actual world magic makes possible harmful disappearance a coherent feared interpretation, but the formula does not prove bodily deletion. This needs phrasing/context, not forcedL3.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q13",
+      "topic": "Alarm and actual calls for help",
+      "current_qualification": "Audience questions/objections precede the effect; adults actually go to call policeP36. These are real responses, not consent, an empty gag label or a diagnosis of the town. Helper's own boundary remains unknown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q14",
+      "topic": "Visual effect versus reported mechanism",
+      "current_qualification": "Cloak falls and helper is no longer visibleP39. Pierre later says she is a Teleport-capable magicianP49. No independent spell sequence, actual destruction, exact destination or return is shown. Ordinary fantasy means are not unlimited invented powers.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q15",
+      "topic": "Police act and unresolved legal outcome",
+      "current_qualification": "Police hear the public, request Pierre accompany them and actually lead him awayP45-50. No conviction, final release, completed punishment or independently certified crime is narrated. The report analyzes fictional authority conduct, not current law.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q16",
+      "topic": "Concrete liability response after success",
+      "current_qualification": "E03fixes observed disappearance as the immediate achieved phase and the officer's literal-harm explanationP48as cue to preidentifiedPierre. He actually retracts the no-trick premise/disclosesTeleportP49. This is a corrective intervention, not passive cost; continued removal means no completed recovery credit.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q17",
+      "topic": "Outside provider phase kept local",
+      "current_qualification": "E07fixes only opening street-show encounterP14-27: availablePierre/props, actual crowd gathering/applause/children's responses and Kazuma observing. Actual initiation does not depend on an invented Kazuma coordinator; it does not credit the later feared effect, satisfied spectators or full success.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q18",
+      "topic": "Audience devaluation is a different phase",
+      "current_qualification": "After the explanation, commentsP52-53dismiss ordinary Teleport. Earlier fear and later lowered entertainment value differ. No retroactive audience agreement to feared destruction or completed harmlessness is inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q19",
+      "topic": "Known person is not complete knowledge",
+      "current_qualification": "Kazuma's probable Aqua-cause explanationP51is an inference, andP57admits incomplete familiarity. Local comments about her routinely defeating performers remain reported pattern claims. No unique causal proof or universal artistic standard follows.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q20",
+      "topic": "P59 speaker remains unjoined",
+      "current_qualification": "The final household voice is not named or independently tagged. Polite endings and familiarity do not prove Megumin, Darkness, Luna or another convenient identity. Its bar-tab content may be used with attribution while the speaker stays unknown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q21",
+      "topic": "Debt and future oversight",
+      "current_qualification": "P59reports Aqua apparently left a bar tab; P60is Kazuma's future intention to watch her after return. No settled amount, completed payment, actual monitoring, confinement or accepted household bargain appears.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q22",
+      "topic": "Absent actors have no new direct bonus choices",
+      "current_qualification": "Aqua,D,M have no directly identified new bonus act. Reports of Aqua's prior work, an untagged household line, art, profiles, creator and NEXT material cannot fill missing actor opportunities.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q23",
+      "topic": "Iris letter and original scope",
+      "current_qualification": "Current retained C1P286-300is an actual received Iris letter with formal full name and proposed future praise/defense; it is not a present direct act or new SItrial. Seven SI rows remainNT and original14null fields exact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q24",
+      "topic": "Yunyun retained choices versus new scope",
+      "current_qualification": "Yunyun has no new bonus choice. Current accepted interlude/Final recheck includes real rescue/company interests, messenger role, objection to shaking, protection of Aqua and constrained communication. Those remain accepted principal events; seven SY rowsNT/all14originalnulls exact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q25",
+      "topic": "IMG020 Iris representation",
+      "current_qualification": "C1P286-324joins the smiling girl to Iris's letter and Kazuma's concern; lowerD/M read/react. No actual Iris presence or independent illustrated visit. Original unjoined visual note stays intact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q26",
+      "topic": "IMG021 correction to Aqua and Anna",
+      "current_qualification": "Withdraw initial Yunyun guess. I1is Aqua's first person; Chomusuke approaches/sets belly boundary, explicitly named AnnaP29-36requests stories and Aqua accepts. Left girl is Anna, not Cecily; the current literary identity join has actual native support.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q27",
+      "topic": "Zel and the egg/nest guess",
+      "current_qualification": "I1P3-12describes sleeping Zel with rooster-like comb/beak/feathers on the devil's cast-off shell. No new egg, hatching or proved dragon species follows. Aqua's mother/dragon/affection claims retain their narrator plane; initial nest/egg guess is withdrawn.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q28",
+      "topic": "IMG007 exact montage anchors",
+      "current_qualification": "K C1P365, D473, M486; W C2P23, V7. Actual context includes forgotten-then-rescuedMegumin, known random status risk, actual Dshield/Mpriest-blessing proposals, Wiz safety conditions and Vanir initial refusal before purchase incentive. Dependent quotes are not extra trials.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q29",
+      "topic": "IMG008 crab and water joins",
+      "current_qualification": "Cecily/crabs join I3P16-46and admitted delayI4P33. Aqua/Yunyun water image joins FinalP201-236: attempted departure, arm release/accidental fall, actual purification, blocked proposed kill owing poison concern and unshown immediate extraction. Later villagers misread heroic intent; do not replace the actual cause.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q30",
+      "topic": "IMG022 dungeon actors and owner",
+      "current_qualification": "Wiz/Vanir face unnamed vampire owner C2P477-487; tired/strained triumph differs from a universal evil pose. Owner actually surrenders/serves tea and values a personal ring; Kdeclines that ring. No completed killing or automatic WolfgangCrow identity.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q31",
+      "topic": "Summoned minions own their complaints",
+      "current_qualification": "C2P451-459shows actual summoned devils complaining about work, neglect of territory and Vanir's dress. No invented personal names, permanent free labor or unlimited lord obedience. Separate speaker/individual joins remain a census task.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q32",
+      "topic": "IMG023 practical gift context",
+      "current_qualification": "Darkness actually receives the class-limited armor C3P17-27, thanks and polishes it. Kcouldnotwearit and had brought it as a practical souvenir; appreciation is particular without proving pure prior romantic intention or immunity to its later constraints.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q33",
+      "topic": "IMG027 duplicates an accepted closet event",
+      "current_qualification": "C3P129-145explicitly shows Darkness hiding/discovered/removed, especiallyP132. The illustrator's closet vignette depicts that accepted event, not an additional image-only canonical story. No unreceived intimate act, assent or completion is inferred; treatment stays non-graphic.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q34",
+      "topic": "IMG024 coerced religious recruitment",
+      "current_qualification": "C4P441-464joins Serena and Axis female clerics after real sexual threats, described non-graphically. Actual conversion-under-pressure/ongoing orders and Serena's objection remain. No free agreement, completed future punishment or completed assault is invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q35",
+      "topic": "IMG025 is news, not reunion",
+      "current_qualification": "Aqua/Yunyun converse FinalP87-112about reported pursuit, Megumin's anger and new skills. Yunyun is already a traveling companion, not a new arrival; Khasnotreunited here. Aqua's own role anxiety and actual unwanted shaking/releaseP111-113remain distinct.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q36",
+      "topic": "IMG026 costly offer and actual response",
+      "current_qualification": "FinalP476states prior purchase used most of Kwealth; actual finite mana stones are offered, costs checked, Maccepts and clingsP508/514. The image adds no kiss, marriage, unlimited permission or separate trial; wide-range safety and all future attacks are not certified by acceptance.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q37",
+      "topic": "Epilogue output kept within observed outcome",
+      "current_qualification": "EpP27actuallycastsExplosion. P23is a boast andP29a narrator's strongest-name evaluation, not proof every god/devil/dragon/DemonKing has been killed. No MAIN17excluded result is imported to complete this operation.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q38",
+      "topic": "Aqua's own narration and unequal access",
+      "current_qualification": "Current I1–I4/Final firstperson contains real companionship, self-excuse, useful skill, appetite, fear, performer standards and desire for familiar responses. Other people's thanks, reports and admiration do not overwrite her own admitted fall or mixed motives.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q39",
+      "topic": "Mitsurugi and unnamed companions",
+      "current_qualification": "FinalP65actual swordkill and Aqua's real support coexist with limited roles for spear/thief companionsP76-79/137-160, whose reactions are distinct. Their names remain unsupplied in current windows. No interchangeable-harem identity or complete emotional motive is proved by Aqua's appraisal.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q40",
+      "topic": "Creator commentary is historical",
+      "current_qualification": "AuthorP4-8heroic/serious(?)framing and intended finalMegumin scene are creator claims. Movie/Kemonomichi timingP10-14is historical2019edition commentary, not current schedule, fresh browsing or newly admitted adaptations. Thanks/signature remain creator voice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q41",
+      "topic": "NEXT17 still unopened",
+      "current_qualification": "IMG028fullscriptwasread. Money-powered raid, DemonKingMegumin title and forgotten-boxAqua are promotional staging; no actual castle burning/campaign, cat transformation or MAIN17body admission.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q42",
+      "topic": "Editorial profile limits",
+      "current_qualification": "IMG019profiles repeat capsule roles/interests with exaggerated absolutes. Rank, luck, defense, specialty or peace labels do not certify every skill, motive or behavior; posed art is not a source-world act.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q43",
+      "topic": "Wrap biographies and design credit",
+      "current_qualification": "IMG004fullwrapplusleft/right3Xreadingmagnifications were viewed beforeseal,0extraassets. Artist-parent/raccoon-cat anecdote, hometowns, white-hair preference and cover/movie comments are contributor reports; blurb is marketing. Credits百足屋ユウコ＋モンマ蚕 differ from wrongly guessed names; no fictional skill grant.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q44",
+      "topic": "Dates, zero-P and navigation",
+      "current_qualification": "Electronic/print-basis firstissue2019-08-01,copyright2019. Navhas20non-Pstrings; zero-P raster resources were actually viewed. Notices/fictional letters are source data, not human instructions or authorization to rehost full native text/images.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q45",
+      "topic": "Selected humor and written voice",
+      "current_qualification": "12purposeful whole effects:9H1/2H2/1H4;3L1/9L2. Thirtybonus+sixcreator exact short written fragments make36V. No H3uncertainty bucket, automatic fantasyH4, arbitraryL3, audio, census frequency or independent window.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q46",
+      "topic": "Exact comparison accounting",
+      "current_qualification": "39unchanged comparisons:2narrowE03/E07,3partialK03/E01/E05,34full-trigger-absent. Four typeddiagnostics and7IrisNT+7YunyunNT remain outside blind scoring. Partials retain real material and missing guards without an invented imminence, pure-motive, formal-consent or quartet-coordinator requirement.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q47",
+      "topic": "Census discoveries remain reviewable",
+      "current_qualification": "PrivateWORKING22has123workingrows, not a final individual denominator. New source leads include explicitly namedPierre, his unnamed helper, the mother/child report, role-bound audience/police and the unnamed MAIN16vampire/minions. Current native Anna/Cecily/Zesta/Mitsu evidence refines existing candidates; exact joins/tiers await a controlled successor, not silent promotion.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    },
+    {
+      "id": "M16EX-Q48",
+      "topic": "Preserved authorities and full continuation",
+      "current_qualification": "MAIN15fullgate9e0000b3372e3f98672e0e07038b8120455875fdprecedes this admission. Current66/historical72/four scores/Dust14blanks/eightmodelpins/28SI-SYnulls/original uncoded history remain exact. MAIN17excluded, full census/earned artifacts, expanded/versioned synthesis/models, curation/integration and release remain required; global completion percentageNULL.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T21:08:27.662258+00:00"
+    }
+  ]
+}

@@ -1,0 +1,1334 @@
+{
+  "schema": "BLUE_ARCHIVE_MINE_MONOGRAPH_PUBLIC_SAVED_LINE_TRANSPORT_V1",
+  "status": "EXACT_REVERSIBLE_CANONICAL_PREPARATION_ROOT_INSTALLATION_PENDING",
+  "full_saved_body_line_inverse": {
+    "original_exact_tuple": {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md",
+      "bytes": 42904,
+      "sha256": "75208d17e134ec6129e514b848b9a0d413da2f24935d65480cc41f1ea18f5ae8",
+      "git_blob_oid_of_actual_bytes": "8296cd0ff15fad1e82795f9ea65dbd546083cdf5",
+      "lines": 199,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md"
+    },
+    "canonical_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md",
+      "bytes": 45013,
+      "sha256": "eace1cec0c027ea453ae11fc4d506a77fd9530012e874342d2596c5212eb72c5",
+      "git_blob_oid_of_actual_bytes": "4f822a793a9b29f7befd2395faa66ead698ae2bb",
+      "lines": 209
+    },
+    "exact_unchanged_saved_line_joins": [
+      {
+        "frozen_line": 1,
+        "canonical_line": 1,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 2,
+        "canonical_line": 2,
+        "line_sha256": "237cc409c067ea2a7880ddcb644e4a067b3a9e1bee7ebc7af01ff65c3122dd47",
+        "line_text": "title: \"Mine: wanted selves, limited relief, and the costs of calling an intervention rescue\""
+      },
+      {
+        "frozen_line": 3,
+        "canonical_line": 3,
+        "line_sha256": "749ea9ca101bff91f58558ab136265887f2f52500efa4a40b6f706e3456bbc37",
+        "line_text": "artifact_id: BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH"
+      },
+      {
+        "frozen_line": 4,
+        "canonical_line": 4,
+        "line_sha256": "bb914669cd55a7b273c7c953cc13af9416c336d813c7209977fd932f34e35a82",
+        "line_text": "artifact_type: character_monograph"
+      },
+      {
+        "frozen_line": 9,
+        "canonical_line": 9,
+        "line_sha256": "eaf87c0bdc544084e633fb80904849cab759268567d1f531d51e5c97ff6d3b9b",
+        "line_text": "do_not_use_as_literary_evidence: false"
+      },
+      {
+        "frozen_line": 10,
+        "canonical_line": 10,
+        "line_sha256": "e79e80556c62d4ce3e7cd9b049dcf72a90f1fab120aef408ed9fedb29a112637",
+        "line_text": "reasoning_class: DEEP_SYNTHESIS"
+      },
+      {
+        "frozen_line": 11,
+        "canonical_line": 11,
+        "line_sha256": "0fad8f887f7e4967e23539b487b1c5dbcabcdb77492962cdc801c0c3ee642a44",
+        "line_text": "architecture: BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1, version 1.12, section 7.1"
+      },
+      {
+        "frozen_line": 12,
+        "canonical_line": 12,
+        "line_sha256": "be6e21c9ba219bd4cd7c5874d7b3d29990ae5f5bf30ab6728c408d6ed56866d7",
+        "line_text": "method: BLUE_ARCHIVE_ANALYTICAL_METHOD_V1, version 1.10"
+      },
+      {
+        "frozen_line": 13,
+        "canonical_line": 13,
+        "line_sha256": "cd435b9a54a4dc35866cd76199130fb3ab9ccca5ae4ef37f722d3a4d3b633ea2",
+        "line_text": "required_home: P3-CHAR-MINE-CH0152"
+      },
+      {
+        "frozen_line": 14,
+        "canonical_line": 14,
+        "line_sha256": "2f8b25cb242bbf01a63f48075f974fd94f84a91f805ddeaf901b1c263b9c34be",
+        "line_text": "candidate_responsibility: P3-F048"
+      },
+      {
+        "frozen_line": 15,
+        "canonical_line": 15,
+        "line_sha256": "935ce9742a9d39d60464a623bbcac6a7f05cfdd51023ca9e7c759b52934f8b91",
+        "line_text": "identity_scope: BA_PERSON_CH0152; normal 10058/CH0152; idol 16016/CH0275; costume 1900931201 positively routed to 16016"
+      },
+      {
+        "frozen_line": 17,
+        "canonical_line": 17,
+        "line_sha256": "0cd10f2d8302fe78220dfeeca8b84b759bca10d442c7a24138ef59571b85a785",
+        "line_text": "analytical_main_baseline: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+      },
+      {
+        "frozen_line": 18,
+        "canonical_line": 18,
+        "line_sha256": "573a788e4a4cf3518afc2e4a7dd907760acaaba9eaafd747c6aace55d16d0de7",
+        "line_text": "prior_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+      },
+      {
+        "frozen_line": 19,
+        "canonical_line": 19,
+        "line_sha256": "01763e80e90d7fdc7716863e979ba81b7698ecb5707dbb0b4325f350b2d5d923",
+        "line_text": "dated_navigation_snapshot: 5f0a24b56557f308e9cef31c7d1c2d58406ef49a"
+      },
+      {
+        "frozen_line": 20,
+        "canonical_line": 20,
+        "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+        "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+      },
+      {
+        "frozen_line": 21,
+        "canonical_line": 21,
+        "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+        "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+      },
+      {
+        "frozen_line": 22,
+        "canonical_line": 22,
+        "line_sha256": "a58bb5038e7db261495f25fc049142ea4cb9d2a5e6199421b8efe7389cdd2a60",
+        "line_text": "source_game: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1"
+      },
+      {
+        "frozen_line": 23,
+        "canonical_line": 23,
+        "line_sha256": "253c2c13520916e9d01a2fb6caf323f4e5367584e263e1b293dc93fd68cbf38c",
+        "line_text": "source_parser: \"0.2.0\""
+      },
+      {
+        "frozen_line": 24,
+        "canonical_line": 24,
+        "line_sha256": "f19e5be8645c4d772b2d01cd386494af18d08fa59222b09ab34241444760eda3",
+        "line_text": "source_admission: Current Cycle008 admission with limits; prior Cycle007 and producer witnesses remain attributed"
+      },
+      {
+        "frozen_line": 25,
+        "canonical_line": 25,
+        "line_sha256": "9d4848d260741fcc2f6568708d0f93553dd5c60ee13f7d8ee2d3faff960f378c",
+        "line_text": "contributor_inspection: Complete adequate accepted private and specified public analytical arguments; zero fresh primary, native, raw, QA, audio or audiovisual inspection"
+      },
+      {
+        "frozen_line": 26,
+        "canonical_line": 26,
+        "line_sha256": "b54587f9bb72ba39847c4bde910d2aa3f62cb283f27c41fed223dc5cd9bea18e",
+        "line_text": "reading_order_and_independence: Historical order and independence UNKNOWN where undeclared; retrospective synthesis exposed"
+      },
+      {
+        "frozen_line": 27,
+        "canonical_line": 27,
+        "line_sha256": "1b736c17739c713dac35e1a67ba7a2ec45a699ef56d1b0f8a1b7ac687c543ce8",
+        "line_text": "performance_boundary: Written registers and narrated song only; no performed voice or image inspection"
+      },
+      {
+        "frozen_line": 28,
+        "canonical_line": 28,
+        "line_sha256": "9734223659fc0bdd0eef2c111f7ac699511411b670e5cb7a567fa6aa0aa577c7",
+        "line_text": "authority_quartet: Admission, contributor inspection, reading order/independence and performance remain separate"
+      },
+      {
+        "frozen_line": 29,
+        "canonical_line": 29,
+        "line_sha256": "b181549213a7aae28bcc450154b6bba0d6460d8d40e1a120094d80c0eaf065d0",
+        "line_text": "model_promotion: NONE"
+      },
+      {
+        "frozen_line": 30,
+        "canonical_line": 30,
+        "line_sha256": "ce5d90d1d54a8608339a52c73dd45d801c807d0c106f8755616ff7bb03015353",
+        "line_text": "gap_disposition: All original stable G01-G14 OPEN"
+      },
+      {
+        "frozen_line": 31,
+        "canonical_line": 39,
+        "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+        "line_text": "---"
+      },
+      {
+        "frozen_line": 32,
+        "canonical_line": 40,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 33,
+        "canonical_line": 41,
+        "line_sha256": "2189d11b252537700f77fde9d9915ad807832c8fcb2c742a925e104f3dd58e7d",
+        "line_text": "# Mine: wanted selves, limited relief, and the costs of calling an intervention rescue"
+      },
+      {
+        "frozen_line": 34,
+        "canonical_line": 44,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 35,
+        "canonical_line": 45,
+        "line_sha256": "9a33aac2c231771295cd2645089044fec6ce7af972d47a6880d6d3d5b2ba99b9",
+        "line_text": "## 1. Core thesis"
+      },
+      {
+        "frozen_line": 36,
+        "canonical_line": 46,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 37,
+        "canonical_line": 47,
+        "line_sha256": "9849affc3a3559aaa565eb0a95ecaffca7f520ada4bcc82bc8bff009dcb1353f",
+        "line_text": "Mine expands rescue to include a puppy, a child, paperwork, food, a peaceful rest, a colleague's supposedly mistaken justice and an offender's correction. That breadth can recognize needs a narrow combat role would miss. Its central difficulty is the warrant for moving from a worthy end to a particular intervention: whose account has been heard, whose refusal can change the method, and which person's benefit is being used to settle another person's cost? The sources give actual benefits, actual damage, received objections and withheld endings. None warrants making every use of her rescue vocabulary morally equivalent."
+      },
+      {
+        "frozen_line": 38,
+        "canonical_line": 48,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 39,
+        "canonical_line": 49,
+        "line_sha256": "e5ce37f6db68aa2fbcebfb032c79a9286e4d840c1b266b8aa20156c9234de0bd",
+        "line_text": "The normal patrol makes the distinction unusually clear. A puppy is retrieved, treated and reunited; a child is protected from a truck. The wall and vehicle owners separately object to damage. Mine apologizes but says she would break the wall again if necessary and continue apologizing until forgiven. The child's gratitude does not provide the owner's consent, and promised apology is not completed restitution. Conversely, the actual rescues cannot be dismissed because liability remains unresolved. (`BA:bond:10058:002:scene:001:u:0010`–`:0066`, especially u0041–0052.)"
+      },
+      {
+        "frozen_line": 40,
+        "canonical_line": 50,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 41,
+        "canonical_line": 51,
+        "line_sha256": "65f3fc0b2c841033f585fd6d5b488e9b42a6d734c9133624d010c5b10c0898ce",
+        "line_text": "Other sources show that a bodily or personal boundary can have a real effect. An explicit stop interrupts her proposed self-wounding demonstration without destroying her collecting pleasure. The photography project produces photographs, but her opposition keeps them privately held rather than publicized. She withdraws a proposed confinement of Sensei before custody occurs. These are serious contrary cases to a captain who never permits refusal. They coexist with the Christmas assault, a prank-caller correction whose ending is deliberately withheld, and sudden Valentine feeding without shown prior assent. (Normal E003/E005/E006; idol16016 E002; `BA:event:819:005`–`:011`; `BA:event:810:092`.)"
+      },
+      {
+        "frozen_line": 42,
+        "canonical_line": 52,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 43,
+        "canonical_line": 53,
+        "line_sha256": "4d0953b6db19dda1207fc71f4d0ae0b8b72535691cb3b3ceb09a685eb42289ad",
+        "line_text": "Mine also has wanted selves whose value is not exhausted by helping. Collecting fascinates her; tea soothes her; she likes beautiful and cute things, wants clothes and memories to remain, seeks an excuse to meet Sensei, chooses a quiet river and wants to be remembered on her birthday. These particulars make her requests, refusals and feared conflicts intelligible. The strongest account is therefore a person negotiating desirable forms of life and limited care, sometimes receiving correction and sometimes imposing a label that outruns inquiry. It is a situated literary thesis, not a medical certification or a rule for predicting her next act."
+      },
+      {
+        "frozen_line": 44,
+        "canonical_line": 54,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 45,
+        "canonical_line": 55,
+        "line_sha256": "7f7c6f4a80bacf8de0ceba9fcd371222785093e1a8177a4cd041beed06e316ef",
+        "line_text": "## 2. Longitudinal arc and developmental states"
+      },
+      {
+        "frozen_line": 46,
+        "canonical_line": 56,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 47,
+        "canonical_line": 57,
+        "line_sha256": "4c395a0e43e485bdf63d7ecfae24d583fe438ae0760556dc8f20eb847e6b47ef",
+        "line_text": "Normal10058 and idol16016 positively join `BA_PERSON_CH0152` through distinct raw keys CH0152/CH0275. They do not form a dated ladder from destructive captain to harmless idol. Bond ranks, releases, event gates and episode numbers do not locate them against main. Local continuities are stronger: the forest conversation recalls the adviser invitation; repeated outfit encounters include “a few days later”; the holiday explicitly reconsiders the proposed disposal. The four idol threads include aftermath, while the four normal threads stop at their positively routed encounter boundaries. An absent normal postscript is not a completed repair."
+      },
+      {
+        "frozen_line": 48,
+        "canonical_line": 58,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 49,
+        "canonical_line": 59,
+        "line_sha256": "051892f06b708044fa811c1ed66433b066f2de92f610daa925c8a1c327a32d2d",
+        "line_text": "The normal sources reveal several kinds of revision. In the collection visit, she becomes excited enough to propose making a small wound on herself. Sensei's stop changes the act: she apologizes and continues explaining the objects until he returns to Schale, with no incision or treatment trial printed. In the tea scene she reasons toward restraining the adult, meets objections and abandons that solution herself. Those changes differ from the patrol's repeat-the-means vow. There is evidence of receiving boundaries, but no universal sequence in which one early lesson resolves all later excess. (`10058:003`, u0031–0043; `10058:005`, u0032–0056; `10058:002`, u0049–0052.)"
+      },
+      {
+        "frozen_line": 50,
+        "canonical_line": 60,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 51,
+        "canonical_line": 61,
+        "line_sha256": "3bf4ab71ee81416a49758f2b199a06f0900b59daa75d1bd23ef8911b01c5d779",
+        "line_text": "The forest further complicates a tidy learning arc. Mine supplies effective paperwork help, asks about procedures beforehand and admits nervousness. She agrees to caution about pace and resources, discovers that a GPS-failure story was a rumor, then provides an actual lap rest during a failed search. The caller's later prank disclosure produces a new punitive meaning of rescue. Appeals for moderation receive thanks, followed by departure and an explicitly withheld outcome. Useful work, revised belief and comfortable rest are secure local changes; lawful tracing, measured punishment, actual injury or successful reform are not. (`10058:006`, u0001–0089/u0091–0120, in actual source order.)"
+      },
+      {
+        "frozen_line": 52,
+        "canonical_line": 62,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 53,
+        "canonical_line": 63,
+        "line_sha256": "e5ee32a7b975c04eb24d699dc60585c2da0d087f20611afb3b5c31c0bb58f96b",
+        "line_text": "The idol sequence has a genuine local development with continuing reservations. A photoshoot exposes the difference between liking cute objects and unexpectedly being their cute subject. She expresses ambivalence and a publicity veto. Everyday errands and repeated meetings let her admit liking the clothes without a service excuse, while she objects to Sensei's delayed recognition. She later forecasts conflict between captain and idol, requests storage rather than destruction of cherished memories, and finally says disposal had been a mistake. The chosen boat outing gives actual shared rest. This is a local revaluation of a wanted self, not proof that all embarrassment, duties or adult dependence have disappeared. (`16016:002`–`:006` and all four complete linked threads.)"
+      },
+      {
+        "frozen_line": 54,
+        "canonical_line": 64,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 55,
+        "canonical_line": 65,
+        "line_sha256": "228e96593935a787b51f0763c4c3ea93bcf3255c4b223767659ee97f775b3887",
+        "line_text": "Public sequences supply further changes without a single moral calendar. Christmas exposes interrupted inquiry and coerced correction, then actual disarming, apology, reported treatment and an actual party, followed by colleagues' doubts about improvement. The idol festival gives Mine an explicit recognition that a junior may find leaders difficult to refuse, but her decision to ignore contacts contributes to a new information failure. Clarification and apology resolve the immediate misunderstanding, while Mari's own assent and later photograph restrictions retain independent force. (`EVENT819`; `BA:event:841:002`, `:007`–`:011`.)"
+      },
+      {
+        "frozen_line": 56,
+        "canonical_line": 66,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 57,
+        "canonical_line": 67,
+        "line_sha256": "c4cf1b536469ddefbda097c21065a2e933fc02130e971251609d1d21f5246a77",
+        "line_text": "The main's Eden and later Arius contexts add institutional and personal limits. Sakurako reports Mine's protective false-death deception; Mine later returns to the Knights and includes Arius students in a treatment mobilization. V006 explicitly distinguishes an adult statement she imagines from an order the adult actually gave, shows her finite commitment and collapse, then waking and reported recovery. These contexts broaden the repertoire. They do not date private play into a causal explanation of the crisis or certify that a later recovery resolves every earlier injured recipient's claim. (V003 C003/C004; V006 C002/C003 accepted checkpoints.)"
+      },
+      {
+        "frozen_line": 58,
+        "canonical_line": 68,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 59,
+        "canonical_line": 69,
+        "line_sha256": "a0d53186a88aa5b4a4a361894dd329f3fd3aea1ac4594304a13741bbb01b5462",
+        "line_text": "## 3. Public and private selves"
+      },
+      {
+        "frozen_line": 60,
+        "canonical_line": 70,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 61,
+        "canonical_line": 71,
+        "line_sha256": "04cacf20e740f57c2fcf6fb66325d20818d6371ad1f294c828f90676aeda5bc9",
+        "line_text": "Mine's public reputation is partly paratext and partly enacted evidence. The normal profile reports a widespread saying that Mine breaks and the Knights treat. Its rumor markers matter: it is not an independent count of her interventions. The patrol's destroyed wall and bent truck supply actual costs, and Christmas supplies further injuries. GROUP1701–1703, by contrast, contains present Serina and Hanae invoking an absent captain. Their conduct cannot be attributed to Mine merely because the reputation sounds applicable. (Written10058 profile; normal E002; EVENT819; GROUP1701–1703.)"
+      },
+      {
+        "frozen_line": 62,
+        "canonical_line": 72,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 63,
+        "canonical_line": 73,
+        "line_sha256": "75aea5dd75db82039b8c80c0cbab6b21d777375224317c2f5f69356a6214ad24",
+        "line_text": "Private collecting does not expose a secretly false public medic. She compares bandages, distinguishes use and price, and warns about dosage effects; technical enthusiasm and an interrupted hazardous demonstration occur in the same visit. This establishes a knowledgeable fictional explanation and an excited collector, not independently evaluated credentials, procurement or clinical outcomes. The hobby's reported fascination and absorbed time remain intrinsically meaningful even where its objects can be useful. (`10058:003` and complete thread100580090.)"
+      },
+      {
+        "frozen_line": 64,
+        "canonical_line": 74,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 65,
+        "canonical_line": 75,
+        "line_sha256": "5ee5dde556ee85fef982d1e4120776ce2a4ed19dc9f34d218cc828ce68da6205",
+        "line_text": "Cute preference likewise need not be extracted through an emergency interpretation. In Valentine092 she explicitly says she loves beautiful and cute things and wants to collect them, worries that the taste conflicts with seriousness, then receives reassurance. Her claim that this is a first revelation is source-local; it does not date every other disclosure. A sudden mouth insertion and her embarrassed departure follow. Actual flavor and ongoing waiting coexist with no shown prior assent or separately depicted return. A personal revelation can be welcomed while its gift method remains adverse. (`810:092`, u0016–0038.)"
+      },
+      {
+        "frozen_line": 66,
+        "canonical_line": 76,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 67,
+        "canonical_line": 77,
+        "line_sha256": "3a6d330fad58f80577ec6391b0701061bd83a0d73838a7de322466c95eaffbf7",
+        "line_text": "The idol public-image project is also limited by a private self's decision. A successful photoshoot does not equal a successful campaign: Mine opposes circulation, and the photographs remain private. In the festival she protests Sakurako's generalization that sidelines her interest in cute things. She can genuinely want an approachable institution and aesthetic pleasure at the same time. Calling all pleasure a publicity instrument would contradict those words; calling all public service a disguise would discard her independently shown work and concern. (`16016:002`, u0010–0066; `841:002`.)"
+      },
+      {
+        "frozen_line": 68,
+        "canonical_line": 78,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 69,
+        "canonical_line": 79,
+        "line_sha256": "686bb16a0d5ab21f160a7f5d8699d49f2787d69d7fbb73b973253ebe76193064",
+        "line_text": "Public and private modes thus each contain choice, reservation, mistaken inference and useful practice. Wanted quiet company belongs beside a public rest ideal; embarrassment belongs beside commanding confidence. Her eventual willingness to wear the outfit again does not retroactively permit the words she asked Sensei not to say or audiences she excluded. There is no reason to turn one source mode into the only authentic Mine."
+      },
+      {
+        "frozen_line": 70,
+        "canonical_line": 80,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 71,
+        "canonical_line": 81,
+        "line_sha256": "694da85f33689bcb72b641656f9ed63c873b4bf08e6d4c0f9e0a5ad65b8ba3bc",
+        "line_text": "## 4. School and club context"
+      },
+      {
+        "frozen_line": 72,
+        "canonical_line": 82,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 73,
+        "canonical_line": 83,
+        "line_sha256": "c73b2c55d444790a8d26708dde5ffca7a84f96cfd9f0da21a521b9d021a209d7",
+        "line_text": "The Rescue Knights supply a captain's documents, supplies, patrols, colleagues, spaces and shared purposes. Mine's quick paperwork is an actual contribution, with captain experience her explanation. Her wish for days when nobody needs rescue and for everyone, including the Knights, to rest is explicit in written registers. Capacity exists partly to remain unused in a peaceful world. That is a meaningful countercase to an intervention-hungry institution, without proving the institution consistently realizes its own ideal. (Normal E006; written10058 Cafe5186–5190/UILobby5198–5199.)"
+      },
+      {
+        "frozen_line": 74,
+        "canonical_line": 84,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 75,
+        "canonical_line": 85,
+        "line_sha256": "5199aab7343690acb002f855587adc1f72e93b5341cfd844e585defc9a5de7b3",
+        "line_text": "Leadership gives unequal possibilities for refusal. During Christmas Mine expressly lets the juniors remain at charity work or join and later offers support versus treating wounded Justice members. Both choices are presented as legitimate. Serina and Hanae make their own choices; their confidence and loyalty do not certify her inference. In the idol festival Mine recognizes that a junior can struggle to refuse leaders and asks Sakurako to do their own work first. This recognition is actual institutional intelligence. Choosing to cut off contacts, however, removes information other people need and helps produce alarm. (`819:005`, u0063–0064; `819:007`, u0066–0089; `841:008`.)"
+      },
+      {
+        "frozen_line": 76,
+        "canonical_line": 86,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 77,
+        "canonical_line": 87,
+        "line_sha256": "ce7e6d37d7ba3569ca58bc5453192f2f6cb2a60bfdde20f8f10d24e6363e00b3",
+        "line_text": "Institutional affiliation does not turn personal requests into office orders. Nagisa's flashback request for Arius aid is expressly personal rather than a Tea Party command. Mine's adviser-seat reservation after Sensei declines recruitment is a continuing invitation, not an appointment. Her claimed reverse-tracing authority includes an abuse caution, but no legal document or executed trace is shown. The idol weapon's manager analogy is explicitly counterfactual, and the wardrobe-help scene does not create a contract. (V006 C002 E004; normal E002/E006; written16016 WeaponGet1; idol E005.)"
+      },
+      {
+        "frozen_line": 78,
+        "canonical_line": 88,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 79,
+        "canonical_line": 89,
+        "line_sha256": "5141166755430c561d9e6a25d3026c991172c7e1f30a880d15afe204c1f6362b",
+        "line_text": "The named idol affiliation, Antique Seraphim, coexists with captain identity. A raw Club=None field does not erase the named Knights profile, nor does costume routing establish a new person. Wanting stage meetings instead of injury encounters adds a future she values. The stated image project, volunteered role and practice are not a tested public reputation change. Event841/10841 duplicate written contexts are not two performed concerts. These differences supply material for separately required Rescue, idol, institutional and relationship studies; this character monograph does not complete those homes."
+      },
+      {
+        "frozen_line": 80,
+        "canonical_line": 90,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 81,
+        "canonical_line": 91,
+        "line_sha256": "4787c35d261222c09d1bbe5c5a77dc5cd9dcdc1958b5e6ed5ac7998c2100b193",
+        "line_text": "## 5. Ordinary life, pleasure and wanted futures"
+      },
+      {
+        "frozen_line": 82,
+        "canonical_line": 92,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 83,
+        "canonical_line": 93,
+        "line_sha256": "4c6ed06cbaee5643cbe22714074209c493dd33c1707b6187d060888d347472b0",
+        "line_text": "Mine's collection gives ordinary life sustained form. She has rare free time, likes looking at similar objects, comparing them and imagining uses; time passes quickly. Comparing supplies to stamps, bottle caps or souvenirs makes a hobby legible without denying its practical possibilities. The reader need not decide that role-related leisure is either perfect rest or no pleasure at all. Her absorption is affirmative evidence, while the stopped proof experiment identifies a particular boundary. (`10058:003`, u0001–0030 and whole thread090.)"
+      },
+      {
+        "frozen_line": 84,
+        "canonical_line": 94,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 85,
+        "canonical_line": 95,
+        "line_sha256": "7493cca7154bea5502235db65c53ec8ecb868c740fcd6976957e8bb68ccf447c",
+        "line_text": "Tea offers another precise project. Mine arranges a three-tier stand with salads, yogurt, scones, clotted cream, fruit and tiramisu, asks whether the guest wants coffee or tea, and initially neglects to eat herself. Her admission that she makes tea when troubled allows the host to need comfort too. The gratitude and pound-cake paths remain alternatives; a promised capacity to obtain cake is not an acquired cake or an enacted violent errand. Her wish to talk is substantive without treating the guest as owing a confession. (`10058:005`, u0001–0031 and whole thread190.)"
+      },
+      {
+        "frozen_line": 86,
+        "canonical_line": 96,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 87,
+        "canonical_line": 97,
+        "line_sha256": "c81b39e79217b75ff95a43eed3eff9685e3201e8e2e9ee7c92159ba43377a0c8",
+        "line_text": "Night air, grass and a stream have sensory value for her, not only a recipient's recovery function. She clears a stump, offers conditional leaning or lap rest, and the narrator separately confirms the adult rested on her lap. The missing-person search fails, but that actual quiet interval is not cancelled by its failure. The idol outing later supplies her preferred quiet place and a shared pedal boat, with actual song-associated sleep. Hand support is offered, not narrated accepted; neither represented rest certifies physiological treatment. (Normal E006 u0068–0085; idol E006 u0035–0052.)"
+      },
+      {
+        "frozen_line": 88,
+        "canonical_line": 98,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 89,
+        "canonical_line": 99,
+        "line_sha256": "984e5b2bb6d0e9e5ed7847b29022fb7e2a6e9fe4ae71142ff0dbe9e789656805",
+        "line_text": "Clothes and memories carry wanted continuity. Mine fears that one commitment must eventually defeat the other, reports peers offering occasional concerts, and says she declined. No actual institutional ban, missed duty or demonstrated timetable failure is supplied. Keeping the outfit because she cannot discard its memories is an act, not indecision that an analyst may eliminate for her. Her later reassessment, wanted meeting and repeated invitation show a particular way of carrying the idol self into ordinary life. It need not earn legitimacy through successful publicity or clinical use. (`16016:005`–`:006`.)"
+      },
+      {
+        "frozen_line": 90,
+        "canonical_line": 100,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 91,
+        "canonical_line": 101,
+        "line_sha256": "d6ad2223d4e1427b49067d7868b4d93ef1211a284b1102a8cb867dac472e2c45",
+        "line_text": "Food and cute craft offer independent company as well. The restaurant encounter gives a meal she wants because she has heard it is good, without showing it eaten. MINI06020 gives failed chick-cookie attempts, a difficult recipe, wanted outreach and a chance meeting with Fuuka. The actual completed cookies are displayed, eaten and praised, and Mine's embarrassment, pleasure and confidence respond to that result. Fuuka's wanted cooking and explicit decision to help are independent ends. The later bound cook's protest remains a contrary endpoint; success in baking cannot absorb it. (`16016:003`; `BA:mini:70006020`, scenes002–003.)"
+      },
+      {
+        "frozen_line": 92,
+        "canonical_line": 102,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 93,
+        "canonical_line": 103,
+        "line_sha256": "73bfa323a706d2c3d7e914b19ddfa0d3023e0d5f645d8d421c0869533f22d058",
+        "line_text": "The written registers make her a receiver as well as giver. She likes a café, wants rest, asks to be remembered and indulged, asks for a birthday outing, offers to learn or teach, and wishes for future stage company. A first-aid birthday gift can be declined in the reported reply; the giver's subdued response matters without creating an obligation to receive it. Prepared seats and practiced singing are wanted hospitality and work, not a proven attended set. These quiet particulars carry explanatory weight even when no crisis claim is tested. (Complete normal/idol/costume written owners.)"
+      },
+      {
+        "frozen_line": 94,
+        "canonical_line": 104,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 95,
+        "canonical_line": 105,
+        "line_sha256": "0912877254b873e90861d10f83479fe33d4b68d6c262408ee5785fb6299490c6",
+        "line_text": "## 6. Crisis behavior and causal responsibility"
+      },
+      {
+        "frozen_line": 96,
+        "canonical_line": 106,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 97,
+        "canonical_line": 107,
+        "line_sha256": "e01dbb19f51ff41c118af6e9af9bbcf2d43d3c32bb8149fad98f3f2323a88321",
+        "line_text": "The patrol's causal credit remains divided by recipients. Mine retrieves and treats the puppy and protects a girl from a truck. House and truck damage are distinct costs with local owners' complaints; joint apologies include Sensei. A montage broadens rescue to a cat, discounted bentos and confrontation but does not give each case a diagnosis, authorization or final condition. Her acknowledged inability to reach everything limits a total-service claim. Particular success and finite availability can be true while the pledged destructive means remain objectionable. (`10058:002`, u0010–0087.)"
+      },
+      {
+        "frozen_line": 98,
+        "canonical_line": 108,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 99,
+        "canonical_line": 109,
+        "line_sha256": "b682e441ad0adf56be45698efebfcf2048c52caf9904229eabf7a0393a039197",
+        "line_text": "Christmas exposes a stronger inquiry failure than simple gullibility. Mine's principle that a justice claim can be wrong is defensible, but she treats confirmed recovery of chicken as unjust confiscation, repeatedly blocks explanation and attacks colleagues as correction. Tsurugi defends rare rest, Mashiro chooses to remain, and the juniors initially support Mine while also intending treatment. Reader knowledge of the delinquents' manipulation differs from the rescuers' early knowledge; real distress does not make the offenders' incomplete story innocent. The wrong intervention has represented injuries and a depleted group from which the opponents escape. (`819:003`–`:010`.)"
+      },
+      {
+        "frozen_line": 100,
+        "canonical_line": 110,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 101,
+        "canonical_line": 111,
+        "line_sha256": "590937319e7e45461bbd8c8be57c0a08d1430f4edfe62fbb650e8b107b4e44ae",
+        "line_text": "The ending makes responsibility concrete without making it absolute self-erasure. Mine offers no excuse, disarms and entrusts disposition to Hasumi, dramatizing it as life-for-life. Hasumi refuses that further extreme demand and accepts cleared misunderstanding and reported recovery; Mine receives the adult's distinction between listening and rash force. The party actually occurs. Her improvement pledge meets Tsurugi's doubt and Hasumi's hope, while her offered tea advice is accepted and knowledge acknowledged. Local reconciliation, real expertise and unproved durable reform remain simultaneous. No arrest, independent treatment chart or complete restitution is supplied. (`819:010`, u0002–0069; `:011`, u0011–0034.)"
+      },
+      {
+        "frozen_line": 102,
+        "canonical_line": 112,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 103,
+        "canonical_line": 113,
+        "line_sha256": "aa537a7b0ce146d8cf4f570361306bd9f9176809f5836b1ce3aa652a3e10d248",
+        "line_text": "Main V006 adds a finite aid commitment whose authority needs careful attribution. Mine and the juniors build a temporary station with distributed food, filters and kits; their limitations and Mine's nutrient-shortfall report do not become an independent survey. At the adult's request they conceal affiliation until her public Knights declaration ends the cover. During the intrusive historical ordeal Mine expressly recognizes that the apparent “believe” instruction was not something Sensei said; she imagines his response and chooses to lessen even a spoonful of sorrow within one body's limits. This preserves both adult influence and her self-authored commitment. It is not an issued command, certified revelation or measured unlimited capacity. (V006 C002 E001–E003.)"
+      },
+      {
+        "frozen_line": 104,
+        "canonical_line": 114,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 105,
+        "canonical_line": 115,
+        "line_sha256": "a124645c6940804f59ab44f4de8623c910de244c31573e5bc9113ab9541bb26a",
+        "line_text": "Collapse changes the rescuer's position. The juniors care for Mine; Sena assesses normal vitals with bounded unconsciousness findings and concern; transport is planned. Mine briefly wakes, thanks the adult's remembered influence, asks for ordinary Arius school life to be protected and lapses again. Later waking in an infirmary, ambulatory work, Subaru's account of aid and patient transfer, and Atsuko's full-recovery/four-figure explanation have different source statuses. Atsuko's account is not an independently witnessed battle, counted supernatural mechanism or complete medical timeline. Subaru's question why Mine hurts while claiming rescue remains evaded. Positive aid does not close that question. (V006 C002 E004; C003 E006/E007/E010.)"
+      },
+      {
+        "frozen_line": 106,
+        "canonical_line": 116,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 107,
+        "canonical_line": 117,
+        "line_sha256": "6bd97d2bf7a4b814896352cd1b41ae4287dca7a745becb174fe14fcd16a31f94",
+        "line_text": "Other public care keeps its own limits. In Valentine narrative007 a delinquent, rather than Serina, complains of accumulating injuries; juniors' proposals and concern do not become uniform Mine speech. Narrative009 defers correction and prepares without completing custody or cure. MINI prints pain, retreat and captive-cook protest beside surrender and requests for proper treatment, with unresolved nurse-label seams rather than an exclusive Mine procedural quota. EVENT821008 gives Mine's arrival/report and announced operation, then a broader successful coalition's reports; those endpoints cannot allocate every causal contribution or authenticate the competing Atsuko/Saori reflection. Reports, threats, performed acts and received treatment remain different propositions."
+      },
+      {
+        "frozen_line": 108,
+        "canonical_line": 118,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 109,
+        "canonical_line": 119,
+        "line_sha256": "5126a5e4e8d500d9c6ae494111367b2a2cead0a8fe2cf2b1dd35bc47709b7008",
+        "line_text": "## 7. Relationship with Sensei"
+      },
+      {
+        "frozen_line": 110,
+        "canonical_line": 120,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 111,
+        "canonical_line": 121,
+        "line_sha256": "0e9b59981d7feb776071507acee3726b3cdcb83488dacaad4df958fdd519219f",
+        "line_text": "Mine repeatedly requests adult time or opinion while shaping the occasion herself. Her patrol preface values his agreement before he learns the task; his trust is anticipatory, not prior approval of every means. Collection and tea invitations bring him into interests she already possesses. Nervous preparation precedes useful Schale work. She wants an excuse to meet, chooses the river and guides their leisure. Sensei can recognize, attend and benefit without becoming the author of every project. (Four complete normal threads; idol E006 and whole thread350.)"
+      },
+      {
+        "frozen_line": 112,
+        "canonical_line": 122,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 113,
+        "canonical_line": 123,
+        "line_sha256": "e865752acd2ca9e5acbcf4a127da12ce83697b9e2761b75fa05d5c2275870970",
+        "line_text": "The dyad contains meaningful disagreements. He stops the self-wounding demonstration, protests confinement, cautions resources and may state that following her into the forest was his own choice. The birthday-gift register permits decline. She responds locally, though appeals for moderation of prank callers remain without a printed outcome. The patrol invitation surviving refusal is not a completed adviser office. These cases resist both an all-obedient child and an adult with no effective boundary; neither supplies universal consent. (Normal E002/E003/E005/E006; written10058 birthday groups.)"
+      },
+      {
+        "frozen_line": 114,
+        "canonical_line": 124,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 115,
+        "canonical_line": 125,
+        "line_sha256": "b2b7338a8e45555d00b128c4fee707dbd4ddedf079adbfdabbbe80dbbaba707b",
+        "line_text": "Sensei's methods also receive criticism. Photograph teasing meets Mine's request not to say those words, and later outfit encounters end with her objection that he should have recognized the feeling aloud sooner. Eventual gratitude, cuteness praise and willingness to wear the clothes again do not undo those requests or the publicity veto. He can help a desired self survive while his playful withholding creates avoidable embarrassment. The source does not grant him privileged access to an invariant secret preference. (`16016:002`–`:003` and complete aftermaths.)"
+      },
+      {
+        "frozen_line": 116,
+        "canonical_line": 126,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 117,
+        "canonical_line": 127,
+        "line_sha256": "2b18a9f0416637011db69614d4eab5bcb8423ab013a418f2beaf27a1242bc2ea",
+        "line_text": "Wardrobe help has alternative ethical shapes. Thinking together offers collaboration; letting the adult say when to wear the outfit could make personal permission depend on him. The common reply emphasizes timing, gratitude and incomplete understanding. No long-term schedule proves either emancipation or control. Her immediate joke is scoped to teasing about his choosing clothes, not the entire feared role conflict. Her intimate framing of the present me and you supplements roles without abolishing adult obligations, creating a manager contract or completing a romantic relation. (`16016:005`, u0029–0069 and whole thread230.)"
+      },
+      {
+        "frozen_line": 118,
+        "canonical_line": 128,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 119,
+        "canonical_line": 129,
+        "line_sha256": "a007d8187da1b4f5c45881b9c2f4de4460b09310f9d580ae8a05e394e9b3e8b8",
+        "line_text": "Actual shared rest is a positive recipient endpoint. The forest lap rest and boat sleep are separately narrated; hand contact is only offered, and an energized aftermath response is an alternative to wanting another outing. Sudden Valentine feeding is a different method without shown prior assent. The good of a voluntarily arranged afternoon does not retroactively consent to a surprise gift or authorize exclusive bodily access. A serious account needs the adult's benefits, the student's wanted company and both parties' specific objections at the same time."
+      },
+      {
+        "frozen_line": 120,
+        "canonical_line": 130,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 121,
+        "canonical_line": 131,
+        "line_sha256": "226fb5fd9bbe569597ff09193121ff16e1d43adbdec4aba4e263883eacb7daf7",
+        "line_text": "## 8. Major peer and recipient relations"
+      },
+      {
+        "frozen_line": 122,
+        "canonical_line": 132,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 123,
+        "canonical_line": 133,
+        "line_sha256": "506bb072884319805ba581111af50fa1bf1ac4d714df007f327d6d1b823dd694",
+        "line_text": "Hasumi is a colleague with her own ordinary tastes, institutional reasoning and contrary limits. The profile comparison of tea knowledge is qualified reputation, not a personally observed contest. Christmas gives remembered cake/pudding embarrassment, disagreement about recovered chicken, Hasumi's contextual explanation and a proportionate response to Mine's extreme self-punishment. She makes novice pleasure legitimate, acknowledges treatment and invites a party, while her intimidation-related venue explanation and prospective political warning complicate a purely gentle leader. Mine's knowledge is genuinely received at the end, with change still doubted. (`EVENT819`, especially006–011.)"
+      },
+      {
+        "frozen_line": 124,
+        "canonical_line": 134,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 125,
+        "canonical_line": 135,
+        "line_sha256": "3e323b4967019c480b80c25dde1c415cc1b19c0ef01eeaaa93838b2e883e7802",
+        "line_text": "Serina and Hanae have independent care, judgment and choice. Mine can leave them options, praise their year's effort and later need their immediate care. Their support in a mistaken attack is not omniscience, coercion by definition or moral identity with the captain. GROUP's absent-Mine invocation gives no present authorization. The generic Knights members/A/B in her photoshoot remain unnamed: logistical assumptions, praise and delight in embarrassment are their source-local acts, with no automatic join to Serina/Hanae. Their apparent accommodation of occasional concerts is Mine's later report, not a performed organizational vote."
+      },
+      {
+        "frozen_line": 126,
+        "canonical_line": 136,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 127,
+        "canonical_line": 137,
+        "line_sha256": "7e149ef9d2844a666c03208ac750b8b0fcd61ad4938fe4099d318fc63daea34d",
+        "line_text": "Sakurako and Mari expose unequal knowledge in a second institutional setting. Mine resists Sakurako's erasure of cute preference and later recognizes the cost of asking a junior to choose between leaders. Both still independently contemplate Mari as group leader and ignore contacts, while Nagisa fears a political role. Mine denies concern when addressed in the Tea Party HOST capacity; that contextual refusal is not an institutional coup. Mari asks weapons lowered, the leaders explain and apologize, and Mari explicitly says she wanted to try before accepting. Her own assent is stronger than prior predictions, and her later request to dispose of public photos remains hers. (`841:002`, `:007`–`:011`.)"
+      },
+      {
+        "frozen_line": 128,
+        "canonical_line": 138,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 129,
+        "canonical_line": 139,
+        "line_sha256": "8d289f7ee27955ca3662f5f2d6200435cf1a8e1ef4ca5460c55890bb6f611f87",
+        "line_text": "Nagisa, Mika and Sena are also independent actors. Nagisa's Arius request is personal, and her attempted contacts precede an escalation Mika explicitly warns against. Mika's objection to being used to fight is not erased by Mine's idol purpose. Sena's assessment and transport planning are her contribution, not Mine curing herself or the juniors' medical guarantee. Trinity's inclusion of Arius patients and Subaru's unease about former-enemy care give situated participation without completed interschool trust. (V006 C002/C003; E841008–010.)"
+      },
+      {
+        "frozen_line": 130,
+        "canonical_line": 140,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 131,
+        "canonical_line": 141,
+        "line_sha256": "cdbca989bd1e69c2d3b46780b1b0cddc97566bd05f2ab84ecda0626102f2a7b6",
+        "line_text": "Fuuka supplies particularly valuable ordinary company. She enjoys choosing ingredients and shares a cross-school desire to feed people with Mine's account of selecting supplies. She postpones the gourmets' lunch because she wants to help bake. Actual cookies and praise give both craft and affection an endpoint. The later binding and protest are another person's adverse act, not Mine binding Fuuka by inference; Mine's pursuit still leaves release, lunch, wall repair and reputation unsettled. Some labels remain suspect, so the argument keeps the qualified local meanings without inventing raw-certified authorship. (`70006010`/`70006020`, complete accepted MINI §8.)"
+      },
+      {
+        "frozen_line": 132,
+        "canonical_line": 142,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 133,
+        "canonical_line": 143,
+        "line_sha256": "4771e6fe9a021fae56739c4b9f2e3feef02ccc8524f0ab6471c1aada7e3b0b66",
+        "line_text": "Children, animals, owners and offenders remain distinct recipients. A puppy's care and a child's safety do not settle a property owner; the patrol's first child and later girl are separate; a truck-owner/raw-versus-sweets-shop display mismatch does not identify another merchant. Prank callers, Christmas delinquents and unnamed ward intruders do not become one continuing enemy. The same ethical distinction applies when a wrongdoer genuinely needs treatment: deception does not remove pain, and aid does not prove innocence or a completed corrective process."
+      },
+      {
+        "frozen_line": 134,
+        "canonical_line": 144,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 135,
+        "canonical_line": 145,
+        "line_sha256": "449c02255ee80149ddbea550eae85d62b78d61740a8d22e07d2b21ebd88a040e",
+        "line_text": "## 9. Language and written formal registers"
+      },
+      {
+        "frozen_line": 136,
+        "canonical_line": 146,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 137,
+        "canonical_line": 147,
+        "line_sha256": "a6cc8fd5947098022f93cb4a71e6d5859e06dfe6d54857d2ba8d10fe6fd8d213",
+        "line_text": "Mine's rescue vocabulary expands its object rather than providing a single stable evaluation. Paperwork is playfully called rescue, and she takes a new use seriously; corrective force also acquires the same word. In Christmas, acknowledged recovery of an object differs from a charge of unjust taking. In Arius, one-body and spoonful limits narrow an ideal without making suffering negligible. In tea, inference and intuition mark her reasoning's status; in the patrol, “probably” qualifies the adult's expected safety. These distinctions are interpretive evidence rather than measured causal formulas. (Normal E002/E005/E006; E819; V006 C002.)"
+      },
+      {
+        "frozen_line": 138,
+        "canonical_line": 148,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 139,
+        "canonical_line": 149,
+        "line_sha256": "1a9ad94f8318cd8a9dd9b1856722fa13ebf203077805c6aafd24c8b80710b905",
+        "line_text": "Her aesthetic and personal language is equally specific. Fascination in comparison, a sealing away of memories, incomplete separation of ordinary clothes from captain identity, both not-dislike and not-like qualifications, and a request for earlier recognition articulate different relations to self-expression. The profile's rumor and “apparently/maybe” formulations constrain reputation and weapon doctrine. The idol manager analogy explicitly wishes for a condition that is not actual. Polite offers, birthday receiving wishes and permission to sing should not be collapsed into unconditional fan-service access. (Complete private/written envelope.)"
+      },
+      {
+        "frozen_line": 140,
+        "canonical_line": 150,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 141,
+        "canonical_line": 151,
+        "line_sha256": "670a63b02ba8ceb16e475889c3da5e8d1f8a9bb3e8e40fb0882ceef6de296d15",
+        "line_text": "The bond corpus contains forty-nine formal groups and seventy displayed options, every branch-effect-known field false. Source NS alternatives additionally survive, including alternatives beyond the lone formal group in idol E002. Duplicate responses under different selected groups are convergence, not cumulative acts or proven route sovereignty. Normal E005's cake discussion and gratitude have different audiences. Normal E006's inward joke is not a correction she necessarily heard. Actorless forest and photographic passages remain timed written presentation; later narrators separately confirm actual lap rest and restricted photo circulation."
+      },
+      {
+        "frozen_line": 142,
+        "canonical_line": 152,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 143,
+        "canonical_line": 153,
+        "line_sha256": "d6211b31fb3c030bc641a412538d425a3e544fea8e2119feb90cd2d789e7089d",
+        "line_text": "Exact source order and locale differences matter. Normal E006's u0120 occurs between u0105 and u0107. Its Japanese error claim concerning a prank differs from Korean timing wording; neither certifies a trace. Gift092's Japanese continuing wait differs from a Korean phrasing toward return, with no separately narrated return in either. Japanese lemon coating and cute appearance differ from Korean chick-shape/color particulars. EVENT821008's arrival and secure-front report differ, while the following reflection has competing Atsuko/native versus Saori/raw witnesses. The argument retains those limits and does not combine them into stronger outcomes."
+      },
+      {
+        "frozen_line": 144,
+        "canonical_line": 154,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 145,
+        "canonical_line": 155,
+        "line_sha256": "3e6b4c89e0483bb9b7b702e6bf2d742b5ca466aa50a7c9b7457f954de80856a4",
+        "line_text": "The written envelope has two profiles and 103 nonblank dialogue/context records:41 normal,38 idol,24 costume. The idol SSR introduction field is empty despite nonempty dialogues. Costume841/10841 records repeat Japanese under different collection fields and triggers; Day6/Day13/Close and ScenarioGroupId10039005 do not produce a lived calendar, identity override or a continuous concert. Narrative boat song and written vocal-practice syllables are represented text. Performer credits, voice arrays, timing, sound/effect resources and equipment references supply no inspected acting, tune, movement, medicine or acoustic quality."
+      },
+      {
+        "frozen_line": 146,
+        "canonical_line": 156,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 147,
+        "canonical_line": 157,
+        "line_sha256": "daf0995c894a2d93b298fcb24850b0e0c65300187113870fa966df8428a4193c",
+        "line_text": "## 10. Competing readings"
+      },
+      {
+        "frozen_line": 148,
+        "canonical_line": 158,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 149,
+        "canonical_line": 159,
+        "line_sha256": "ddfa953ef865227d43f4bce7d86483a77a1f060489679cba9a73ff351159165b",
+        "line_text": "**A destructive captain who creates patients to justify her role.** Wall and truck damage, Christmas force, a corrective-threat vocabulary and reported reputation make this a serious adverse hypothesis. Actual puppy treatment, a protected child, a voiced wish for peaceful unused capacity, a stopped experiment and real administrative/rest help resist its exhaustive motive. The limited account identifies specific disproportionate or premature methods; deliberate creation of every need and universal bad faith are not established."
+      },
+      {
+        "frozen_line": 150,
+        "canonical_line": 160,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 151,
+        "canonical_line": 161,
+        "line_sha256": "d20fcc657441e9bfc02d881de4c3cd5d606eb4d3b733d40bf1bb24ad6fe37366",
+        "line_text": "**An invariably effective, impartial savior.** Aid across affiliations, refusal to abandon a puppy, sincere concern, paperwork and recipients' gratitude support a benevolent capacity. Separate owners, a failed search, Christmas injuries, collapse, unprinted caller outcomes and Subaru's unanswered question defeat universal efficacy or repaired consequences. Clinical reports are not independent cure records. Equal concern is an intention whose methods still need evaluation."
+      },
+      {
+        "frozen_line": 152,
+        "canonical_line": 162,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 153,
+        "canonical_line": 163,
+        "line_sha256": "51eab87c7e12ffebc4a562daf80ebd523c84774b60a346e5a703d8efa7560fb1",
+        "line_text": "**A captain unable to hear any refusal.** A repeat-the-means pledge, interrupted explanations and abrupt feeding support particular overrunning behavior. Her accepted bodily stop, unexecuted/retracted confinement, public-photo veto and legitimate options for juniors provide strong contrary cases. Recognizing Mari's refusal costs adds institutional insight. The good countercases do not authorize the adverse ones, and the adverse ones do not justify deleting actual boundary effects."
+      },
+      {
+        "frozen_line": 154,
+        "canonical_line": 164,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 155,
+        "canonical_line": 165,
+        "line_sha256": "2ba1699b055a6880c29a18655d30118426ca448a22b3af3e0b767d48895dede4",
+        "line_text": "**A suppressed idol whom Sensei completely liberates.** The fearful disposal request and adult acknowledgment support the importance of his help. Reported peer flexibility, her own refusal of occasional concerts, her insistence that she has deliberated, preservation of memories and later chosen reassessment complicate an institutional-ban story. Possible timing dependence and continued embarrassment complicate completed emancipation. A more precise account gives her wanted self, actual choices and unresolved role conditions agency."
+      },
+      {
+        "frozen_line": 156,
+        "canonical_line": 166,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 157,
+        "canonical_line": 167,
+        "line_sha256": "0a48c1aae93e1e8afc5382d01175c41bceb554eef24bcc60ddd4d88e3dc1a80c",
+        "line_text": "**A harmless comic performer whose objections are flirtation.** Exaggerated apology, threatening correction, embarrassment and banter are formal features. Actual damaged property, disrupted rest, privacy restrictions and requests to stop particular words remain represented facts. Later laughter is not universal prior consent, while a threat or exaggeration is not itself an enacted procedure or measured harm. Comedy preserves contradictions rather than granting categorical immunity."
+      },
+      {
+        "frozen_line": 158,
+        "canonical_line": 168,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 159,
+        "canonical_line": 169,
+        "line_sha256": "4e8158d117c317a053e0bfdefd2b2491e00864b500a16106ab6f3e6ca9010b48",
+        "line_text": "**A selfless function whose cute details are incidental.** Service recurs throughout her language, and even collecting has possible use. Reported fascination, carefully arranged hospitality, liked clothes/food, remembered birthday, wanted company and a quiet place supply distinct ends. She wants some things for herself and does not have to prove their public usefulness. Omitting them would distort both her refusal to discard the costume and her offered care."
+      },
+      {
+        "frozen_line": 160,
+        "canonical_line": 170,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 161,
+        "canonical_line": 171,
+        "line_sha256": "ceb4558c78109a16ae9a3a37878d337231fbe817c8c91f6e61dea3a04a680e02",
+        "line_text": "**All useful judgment originates in Sensei.** His stops, recognition and reciprocal company matter, and she imagines his answer during the Arius ordeal. She expressly distinguishes that imagined instruction from his actual words. Collector knowledge, self-withdrawal, chosen place, privacy veto, junior-refusal recognition, Hasumi's proportionate response and Sena's assessment retain other sources of agency. No single adult becomes the owner of all insight, work or ethical correction."
+      },
+      {
+        "frozen_line": 162,
+        "canonical_line": 172,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 163,
+        "canonical_line": 173,
+        "line_sha256": "6d0f9ba6cd371d91c12238be1c038f12da2f2df1c7f9a0064a6e7359a66aa7a2",
+        "line_text": "## 11. Evidence route and unresolved warrants"
+      },
+      {
+        "frozen_line": 164,
+        "canonical_line": 174,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 165,
+        "canonical_line": 175,
+        "line_sha256": "778010f2b3381e895d22453e606abf5c08c784d56b9c66111511e363bb00aad5",
+        "line_text": "The private authority comprises eleven complete individual accepted analytical owners plus the overlapping200-line maintained checkpoint, representing nineteen responsibilities: eight bonds, eight complete positive linked threads and three written objects. All twelve files were personally received as adequate complete arguments. Current admission governs preserved historical producer wrappers, while original source-facing inspection remains attributed. The present author adds no primary, native, raw, QA, performance, independent medical or mechanical inspection."
+      },
+      {
+        "frozen_line": 166,
+        "canonical_line": 176,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 167,
+        "canonical_line": 177,
+        "line_sha256": "1568fb8a149f70a19339f9b6aa2ac667defb3bc3ad37f111a2ae217366cc5d25",
+        "line_text": "| Analytical route | Actual argument scope | Contribution |"
+      },
+      {
+        "frozen_line": 168,
+        "canonical_line": 178,
+        "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+        "line_text": "|---|---|---|"
+      },
+      {
+        "frozen_line": 169,
+        "canonical_line": 179,
+        "line_sha256": "aad85be07bf392e546c4072d5b6da70cdab2933d01a9cc2dc434b9813a093be5",
+        "line_text": "| `BOND/MINE/BLUE_ARCHIVE_MINE_BOND_10058_E002/E003/E005/E006_PAIRED_DEEP_READING.md` (four files) | Complete four paired arguments/whole positive threads | Benefits and owner costs, collecting/stopped proof, hosting/retracted confinement, paperwork/rest/withheld correction |"
+      },
+      {
+        "frozen_line": 170,
+        "canonical_line": 180,
+        "line_sha256": "5b294e7f4585c104388e88910f4df2d187d88a70757792c1a64f3e79675a0290",
+        "line_text": "| `BOND/MINE/BLUE_ARCHIVE_MINE_BOND_16016_E002/E003/E005/E006_PAIRED_DEEP_READING.md` (four files) | Complete four paired arguments and all aftermaths | Ambivalence/publicity veto, preference/recognition, preserved memories/alternative support, actual reassessment/boat sleep |"
+      },
+      {
+        "frozen_line": 171,
+        "canonical_line": 181,
+        "line_sha256": "80eaa50ebfb54b8204204bcdd7b899ce9ad632fc084a09425fa8b7da44cdc83f",
+        "line_text": "| Mine normal/idol/costume written owners, all under `BOND/MINE` | Three complete written arguments | Peace/rest, gifts/receiving self, practice, counterfactual manager and repeated conditioned context |"
+      },
+      {
+        "frozen_line": 172,
+        "canonical_line": 182,
+        "line_sha256": "fe139543fc656b61fa495b41678032a7612cdf9bdb5055e1f29f4115bf9e4742",
+        "line_text": "| Mine maintained private checkpoint | Complete200-line cumulative argument | Exact nineteen-source identity/count/mode controls and prior source provenance |"
+      },
+      {
+        "frozen_line": 173,
+        "canonical_line": 183,
+        "line_sha256": "69eae5bd8b7715e07b32b118f219dad57242fa5d21e7192d2fdc68df42ea8777",
+        "line_text": "| GROUP1701–1703 and EVENT819 | Reused personally complete accepted arguments; consequential Christmas67–128 refreshed with102–108 clip repair | Absent captain versus present junior acts; choice, rash correction, apology/disarming, actual party and doubts |"
+      },
+      {
+        "frozen_line": 174,
+        "canonical_line": 184,
+        "line_sha256": "9a1771e2e4927594357088552db1626113eecd0e3e62d3861912f441e55ae5a8",
+        "line_text": "| V003 C003/C004 and V006 C002/C003 accepted checkpoints | Reused personally complete small arguments; exact consequential spans separately refreshed | Reported false-death protection, mobilization, imagined command, aid, collapse/waking/reports and unanswered harmful-rescue question |"
+      },
+      {
+        "frozen_line": 175,
+        "canonical_line": 185,
+        "line_sha256": "d6759b64bd3b7ba987f47c1c67ff377a36aea64ffc0b5a81fe8c1e8622c1c01b",
+        "line_text": "| V100 accepted maintained account and EVENT821 checkpoint | Prior personally whole Final meaning; current82137–40/85–131 selected argument | Separate Final context and qualified coalition report/request/success limits, including008 competing attribution |"
+      },
+      {
+        "frozen_line": 176,
+        "canonical_line": 186,
+        "line_sha256": "3f0af684fb85bd4a65a7ae1612d590e2657f1cd9c64a3c84f2cf46cf32420b0a",
+        "line_text": "| EVENT810 narrative004/007/009 and gift092_80000092 | Reused three whole narrative arguments; fresh complete73-line gift and current comparison control | Junior/giver distinctions, medical/procedural concerns, intrinsic cute collection, sudden feeding and unfinished waiting |"
+      },
+      {
+        "frozen_line": 177,
+        "canonical_line": 187,
+        "line_sha256": "ea91fef0f531d5be9595b0ed5385999b393e0c5194ac34be9d47c22a9f647893",
+        "line_text": "| EVENT841 maintained checkpoint | Complete substantive episode arguments665–1040 plus current admission40–74; not fresh whole1656/proof sections | All19 main/aftermath meanings, junior refusal costs, ignored contact/escalation, actual clarification/assent and image restrictions |"
+      },
+      {
+        "frozen_line": 178,
+        "canonical_line": 188,
+        "line_sha256": "5d65350d087eb4f244a6f7d33cfea62b8176590a7f50d91fffe5a9d229a76452",
+        "line_text": "| MINI32 §8 | Personally prior complete accepted account; actual166–177 refreshed | Wanted craft, actual cookies/praise, recipient restraint/protest and unprinted repair with label qualifications |"
+      },
+      {
+        "frozen_line": 179,
+        "canonical_line": 189,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 180,
+        "canonical_line": 190,
+        "line_sha256": "f1ecefebdab13a7ceeb409e8941bec0fc688ca18bea8397c540925441ad9c53f",
+        "line_text": "The companion receipt binds actual full paths, bytes/SHA, complete versus partial/reused extents, source-ID provenance and exact saved paragraphs. It distinguishes current dated navigation from literary source authority and publication. It does not promote an unadmitted class, a generic actor merge, a whole proof annex, a raw-field inspection or an eligibility decision into mature completion."
+      },
+      {
+        "frozen_line": 181,
+        "canonical_line": 191,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      },
+      {
+        "frozen_line": 182,
+        "canonical_line": 192,
+        "line_sha256": "e0a5d46b6611903d6995f6353e309608cb91c73f6d8ed37e49d79e0f2e319125",
+        "line_text": "| Original stable gap | Mine contribution and remaining warrant — all OPEN |"
+      },
+      {
+        "frozen_line": 183,
+        "canonical_line": 193,
+        "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+        "line_text": "|---|---|"
+      },
+      {
+        "frozen_line": 184,
+        "canonical_line": 194,
+        "line_sha256": "3b7e4addc9bc9fed64cc6c3812390518c74dda9ec2cb3ec755d8139e851d6421",
+        "line_text": "| G01 Ordinary and private breadth | Nineteen private sources and public taste/craft/work retain intrinsic wants and countercases. Whole-person invariance and exhaustive future repertoire remain unproved. |"
+      },
+      {
+        "frozen_line": 185,
+        "canonical_line": 195,
+        "line_sha256": "eb4e2f02b9fea63eede0905fb65413ac788d179f87b757f73d725e3a008daac0",
+        "line_text": "| G02 Yuuka council/club decision transfer | Mine's administrative practice and personal wardrobe help do not complete Yuuka's separate decision-transfer responsibility. |"
+      },
+      {
+        "frozen_line": 186,
+        "canonical_line": 196,
+        "line_sha256": "7d8aacc983050fd1bd43008cfae7d90b39dff880d3871cff1ef0514b1eb4e8a6",
+        "line_text": "| G03 Serika service, peer and reciprocity range | Mine's hospitality and festival context do not settle Serika's distinct service/refusal/reciprocity range. |"
+      },
+      {
+        "frozen_line": 187,
+        "canonical_line": 197,
+        "line_sha256": "fc2be4cd7f6652718073660063bff6a9db1f79aaae95a65918c926b8be219e08",
+        "line_text": "| G04 Hina crisis causality, accountability and ordinary contrast | Limited care comparison supplies no NK Ultra causality, Hina ordinary transfer or completed restitution. |"
+      },
+      {
+        "frozen_line": 188,
+        "canonical_line": 198,
+        "line_sha256": "41e6d01633ca654b5b558a4c8b2e5ddebd9bb21d010b8389cfeabf7faf6a8a9b",
+        "line_text": "| G05 Arius and PS68 ordinary/aftermath transfer | V006 aid, reported transfer and the harmful-rescue question remain bounded; lasting Arius outcomes and PS68 repair are not completed. |"
+      },
+      {
+        "frozen_line": 189,
+        "canonical_line": 199,
+        "line_sha256": "fb0ecabcfd1eb422392d9c4627c98c090e670adbf568eeb5a60fe46d62e42f7e",
+        "line_text": "| G06 Cross-school ordinary repertoire | Wanted tea, food, clothes, cookies and company broaden repertoire intrinsically; a positive occasion does not establish universal interschool trust. |"
+      },
+      {
+        "frozen_line": 190,
+        "canonical_line": 200,
+        "line_sha256": "128661ed4199190ba2eceee26ff66bd7d3a938b49182a464f6e3e4a89d76e573",
+        "line_text": "| G07 Story-world chronology | Local few-days, invitations, week collecting and disposal reassessment are positive. Rank, release, event gates and variants do not place the packet against main. |"
+      },
+      {
+        "frozen_line": 191,
+        "canonical_line": 201,
+        "line_sha256": "d0e6222d95eeef8d19f2660dca6e865132f57e3117700e13382c309cf890c18a",
+        "line_text": "| G08 Event naming and repeat contexts | Gift092, narrative routes and costume841/10841 remain distinct contexts, with no two-concert or one continuous itinerary inference. Wider repeat chronology remains open. |"
+      },
+      {
+        "frozen_line": 192,
+        "canonical_line": 202,
+        "line_sha256": "14baa0e437cfe03dd613cedf4dbf988bcca907a58750283e291557f4cab32dd2",
+        "line_text": "| G09 Written speaker/choice attribution | Nonmonotoneu120, conditional cake/NS/formal alternatives, actorless text, source-local generic roles and unresolved MINI/821 seams constrain attribution. |"
+      },
+      {
+        "frozen_line": 193,
+        "canonical_line": 203,
+        "line_sha256": "7851667007037b8066f2f68c2490da23e714c980b178d3c3f7578e6ff2019766",
+        "line_text": "| G10 Performed voice | Narrated song and written practice are retained; no tune, acoustic quality, acting, image, movement or audiovisual performance was received. |"
+      },
+      {
+        "frozen_line": 194,
+        "canonical_line": 204,
+        "line_sha256": "7092d872dfcf43cc01488a68134806d6618a6e9964f8d1009cdba1d34fd62f83",
+        "line_text": "| G11 Hoshino's Yume record and office states | Mine's public/private care and record-related context do not authenticate Hoshino's distinct record or office states. |"
+      },
+      {
+        "frozen_line": 195,
+        "canonical_line": 205,
+        "line_sha256": "cf4b10a8578b5cbe8ef70694787450fd37c885095920e09376d5e93b1946326f",
+        "line_text": "| G12 Counterpart, system and variant identity | Positive CH0152/10058 and CH0275/16016 routing supports bounded person comparison, not a numerical chronology, unnamed-actor join or supernatural identity mechanism. |"
+      },
+      {
+        "frozen_line": 196,
+        "canonical_line": 206,
+        "line_sha256": "16f5e8d4f1268cc5a9652815d2e38b0e2878aabe6a40824e54b83bbe9cb7fc99",
+        "line_text": "| G13 Office, contract, safety and technical outcomes | Adviser invitation, claimed trace authority, alleged remedy/capacity, care reports and costume timing do not certify appointment, law, contract, clinical cure, consent, compensation or durable repair. |"
+      },
+      {
+        "frozen_line": 197,
+        "canonical_line": 207,
+        "line_sha256": "131fd878b0c8f6454be4069af64ca656815889de55a707e9a1ddcbb58e2e614e",
+        "line_text": "| G14 Unclassified/mode continuity | No unadmitted mode is promoted; conditioned UI repetition, props and timed narration do not become complete performed scenes or an extra primary source. |"
+      },
+      {
+        "frozen_line": 198,
+        "canonical_line": 208,
+        "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "line_text": ""
+      }
+    ],
+    "exact_changed_saved_line_ranges": [
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          5,
+          8
+        ],
+        "canonical_lines": [
+          5,
+          8
+        ],
+        "frozen_text": [
+          "version: \"1.0-author-candidate\"",
+          "status: working_draft",
+          "stage_state: READY_FOR_ROOT_RECEIVING",
+          "do_not_use_as_current_authority: true"
+        ],
+        "canonical_text": [
+          "historical_author_version: \"1.0-author-candidate\"",
+          "historical_author_status: working_draft",
+          "historical_author_stage_state: READY_FOR_ROOT_RECEIVING",
+          "historical_author_do_not_use_as_current_authority: true"
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          16,
+          16
+        ],
+        "canonical_lines": [
+          16,
+          16
+        ],
+        "frozen_text": [
+          "canonical_target: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md"
+        ],
+        "canonical_text": [
+          "historical_author_canonical_target: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          31,
+          30
+        ],
+        "canonical_lines": [
+          31,
+          38
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MINE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "publication_predecessor: cf2fba61c9e8448acdd2677f06d5258c051a6ba4"
+        ]
+      },
+      {
+        "operation": "insert",
+        "frozen_lines": [
+          34,
+          33
+        ],
+        "canonical_lines": [
+          42,
+          43
+        ],
+        "frozen_text": [],
+        "canonical_text": [
+          "",
+          "**Current receiving and publication boundary.** ROOT independently accepted this complete bounded character argument WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MINE_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) retains actual author/ROOT source scopes and historical controls. The [saved-line transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MINE_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) preserves every frozen original line and exact byte tuple with a complete inverse. Earlier author pending, local-candidate and next-work wording remains creation-time provenance where retained. The predecessor63-package source at `cf2fba61c9e8448acdd2677f06d5258c051a6ba4` has a successful exact audit chain; this successor supplies persistence only after complete ROOT installation. Publication and main integration remain separate. This fixed ten-package64–73 batch has eight character and two directed arguments; it reaches73 packages (70 character,3 directed) only after that installation. Later live ROOT reviews are outside this snapshot. Scope355/29 and18 section-home allocations, the existing1 named-section completion, all14 original OPEN gaps and model0 remain unchanged; no quarter is reached. Reference translations are navigation/provenance transformations and add no primary, performance, independent literary or scope credit."
+        ]
+      },
+      {
+        "operation": "replace",
+        "frozen_lines": [
+          199,
+          199
+        ],
+        "canonical_lines": [
+          209,
+          209
+        ],
+        "frozen_text": [
+          "No additional primary replay is mandatory for these actual bounded textual conclusions: adequate accepted arguments preserve consequential distinctions and endpoints. Stronger claims about clinical efficacy, dose, law, authority, body/voice mechanism, exact world chronology, contractual role, photograph destruction, punishment, restitution or durable reform need the missing warrants above and are not asserted. ROOT must independently receive and verify the whole saved candidate and decide adoption. This author grants no acceptance or count. Rescue directed relationships, ensemble/institution studies, other cast, Sensei/register and subsequent convergence/readiness/reconstruction/prediction duties remain separate required analytical work."
+        ],
+        "canonical_text": [
+          "No additional primary replay is mandatory for these actual bounded textual conclusions: adequate accepted arguments preserve consequential distinctions and endpoints. Stronger claims about clinical efficacy, dose, law, authority, body/voice mechanism, exact world chronology, contractual role, photograph destruction, punishment, restitution or durable reform need the missing warrants above and are not asserted. ROOT has independently received and accepted the whole bounded argument and exact provenance WITH LIMITS. The frozen author supplied no self-acceptance or count; persistence belongs to the separate complete ROOT installation. Rescue directed relationships, ensemble/institution studies, other cast, Sensei/register and subsequent convergence/readiness/reconstruction/prediction duties remain separate required analytical work."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS; complete reconstructed UTF8LF original equals frozen original bytes, SHA256 and blob",
+    "terminal_LF_preserved": true
+  },
+  "reference_navigation_translations": [],
+  "original_full_author_and_root_transports": [
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md",
+      "bytes": 42904,
+      "sha256": "75208d17e134ec6129e514b848b9a0d413da2f24935d65480cc41f1ea18f5ae8",
+      "git_blob_oid_of_actual_bytes": "8296cd0ff15fad1e82795f9ea65dbd546083cdf5",
+      "lines": 199,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/BLUE_ARCHIVE_MINE_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 140056,
+      "sha256": "8ea8c91a4566efcdb5729021110dee31495a7259e1e7a363c5c2f04b5297dffc",
+      "git_blob_oid_of_actual_bytes": "fa85a1c2a1cc081d5b98cb2fe625d8653ca43df8",
+      "lines": 2843,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/MINE_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 3612,
+      "sha256": "0b15ba3e465cfd0b9899f997b4d397e64c610d759f60fdcea45a1bf25ed1b457",
+      "git_blob_oid_of_actual_bytes": "85907de2bdd26bb1f7348ac0297bbd68d87a12e5",
+      "lines": 70,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/MINE_FROZEN_DELIVERY_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_MINE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 6205,
+      "sha256": "c03091a82019b3048cb957f93b99f124126a8b94fb930b5a76c1c42018e5a8eb",
+      "git_blob_oid_of_actual_bytes": "af07c61c2c33159dc52ff10bab826bf6060a7878",
+      "lines": 86,
+      "immutable_transport_path": "immutable_originals/ROOT_MINE_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 9782,
+      "sha256": "4391ab73caf048722525e1a8985d0db28d4c0161169ac3a39ce3e0c936c64932",
+      "git_blob_oid_of_actual_bytes": "6ddaf6317d1ad0f51139d49558e50700e9471aa5",
+      "lines": 55,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/MINE_MONOGRAPH_RECEIVING_RECEIPT.md"
+    },
+    {
+      "path": "RESCUE_KNIGHTS_MONOGRAPHS/MINE_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 5671,
+      "sha256": "f5676cbc65b92f828161e7755c671927ebd09b1f8674998a053867d4df59ae92",
+      "git_blob_oid_of_actual_bytes": "18a0fbcbb6dc512eae72604b1d228b236020c1c1",
+      "lines": 105,
+      "immutable_transport_path": "immutable_originals/RESCUE_KNIGHTS_MONOGRAPHS/MINE_CURRENT_WORKTREE_METADATA_PROBE.json"
+    }
+  ],
+  "substantive_literary_change": 0,
+  "new_primary_performance_independent_model_or_count_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

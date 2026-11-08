@@ -1,0 +1,139 @@
+{
+  "schema": "tomozaki_additional_three_administrative_derivations/v1",
+  "core_changes_permitted": false,
+  "model_derivations": [
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/0/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_additional_models_20261103/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 12093,
+        "sha256": "e5ba0a3ac7e31e4a95f1d129eee76a952662bfdc379f19725eff5250109fd9ae"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 13281,
+        "sha256": "40784d1fa96cae7d3453ef689d84a6b62eebfbf06c61c704e52a0d8bbdbafe3f"
+      },
+      "analytical_core_definition": "All original bytes after closing YAML delimiter, including leading blanks and historical ending.",
+      "original_core_bytes": 11139,
+      "original_core_sha256": "06a290aada50f55658b392d90a378a76d148d85214a87c9803b658d7eb8cb42d",
+      "rendered_core_sha256": "06a290aada50f55658b392d90a378a76d148d85214a87c9803b658d7eb8cb42d",
+      "rendered_core_offset": 2142,
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": [
+        "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "model_core_version: V1",
+        "administrative_render_date: 2026-11-03",
+        "supersedes: []",
+        "superseded_by: []",
+        "integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md",
+        "evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json"
+      ],
+      "inserted_current_wrapper": "\n> **Current bounded acceptance - 2026-11-03.** Root accepted this exact V1 core after individual sufficiency/admission, actualrootfreeze,15producer and12independent manual applications and selective local text/register review. The complete original body is preserved below; its pending statements are creation-stage history. Current acceptance and limits are in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). Rena is strictly non-graphic third-person ordinary/analytical. No freeformJapanese/fullidiolect/acoustic/blindaccuracy/globalgrade/terminal or future exact-head publication pass is claimed.\n",
+      "complete_unified_diff": "--- historical_original/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,10 +1,10 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_MIZUSAWA_P06_MODEL_V1\n subject: Mizusawa Takahiro\n@@ -16,8 +16,17 @@\n dependency_packet: TOMOZAKI_ADDITIONAL_THREE_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_ADDITIONAL_THREE_PREREG_20261103_V1_PROPOSED\n root_preregistration_freeze_sha256: 7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance - 2026-11-03.** Root accepted this exact V1 core after individual sufficiency/admission, actualrootfreeze,15producer and12independent manual applications and selective local text/register review. The complete original body is preserved below; its pending statements are creation-stage history. Current acceptance and limits are in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). Rena is strictly non-graphic third-person ordinary/analytical. No freeformJapanese/fullidiolect/acoustic/blindaccuracy/globalgrade/terminal or future exact-head publication pass is claimed.\n \n # Mizusawa — make form consequential while keeping the recipient outside the model\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/1/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_additional_models_20261103/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 11598,
+        "sha256": "6850635aa5939dbfbd290c6612717724425ce457f6b1fafa858befeee15f053f"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 12786,
+        "sha256": "3eb3d4018c54f5169767080e61d9230ab42dd12e19fa4a295f3a5eb9e3705a62"
+      },
+      "analytical_core_definition": "All original bytes after closing YAML delimiter, including leading blanks and historical ending.",
+      "original_core_bytes": 10642,
+      "original_core_sha256": "0a00dfcf9d07dc342cbcf3c78b713504a0d41a1b4599ecff9f1efb92a8e9a39e",
+      "rendered_core_sha256": "0a00dfcf9d07dc342cbcf3c78b713504a0d41a1b4599ecff9f1efb92a8e9a39e",
+      "rendered_core_offset": 2144,
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": [
+        "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "model_core_version: V1",
+        "administrative_render_date: 2026-11-03",
+        "supersedes: []",
+        "superseded_by: []",
+        "integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md",
+        "evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json"
+      ],
+      "inserted_current_wrapper": "\n> **Current bounded acceptance - 2026-11-03.** Root accepted this exact V1 core after individual sufficiency/admission, actualrootfreeze,15producer and12independent manual applications and selective local text/register review. The complete original body is preserved below; its pending statements are creation-stage history. Current acceptance and limits are in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). Rena is strictly non-graphic third-person ordinary/analytical. No freeformJapanese/fullidiolect/acoustic/blindaccuracy/globalgrade/terminal or future exact-head publication pass is claimed.\n",
+      "complete_unified_diff": "--- historical_original/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,10 +1,10 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_HARUKA_B05_MODEL_V1\n subject: Hinami Haruka / 日南遥\n@@ -16,8 +16,17 @@\n dependency_packet: TOMOZAKI_ADDITIONAL_THREE_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_ADDITIONAL_THREE_PREREG_20261103_V1_PROPOSED\n root_preregistration_freeze_sha256: 7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance - 2026-11-03.** Root accepted this exact V1 core after individual sufficiency/admission, actualrootfreeze,15producer and12independent manual applications and selective local text/register review. The complete original body is preserved below; its pending statements are creation-stage history. Current acceptance and limits are in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). Rena is strictly non-graphic third-person ordinary/analytical. No freeformJapanese/fullidiolect/acoustic/blindaccuracy/globalgrade/terminal or future exact-head publication pass is claimed.\n \n # Haruka — act through selected access without turning achievement into independence\n \n"
+    },
+    {
+      "path": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+      "original_record": {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_ORIGINAL_MODEL_RECORDS.json",
+        "json_pointer": "/records/2/value"
+      },
+      "original_raw_identity": {
+        "path": ".scratch/constructed_additional_models_20261103/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 13182,
+        "sha256": "61f88e2c26fd10c9165a118188ef7d99be97a0efa35a0574d29082d464d7c491"
+      },
+      "current_render_identity": {
+        "path": "series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md",
+        "bytes": 14370,
+        "sha256": "0897af539acda0b8ac51a99c87a7643fe178f96d75de11ce3be79f19425749cd"
+      },
+      "analytical_core_definition": "All original bytes after closing YAML delimiter, including leading blanks and historical ending.",
+      "original_core_bytes": 12157,
+      "original_core_sha256": "eb9334170f550d719483a4975aae082c2d4997e0ba376887410c8b65b534eaa2",
+      "rendered_core_sha256": "eb9334170f550d719483a4975aae082c2d4997e0ba376887410c8b65b534eaa2",
+      "rendered_core_offset": 2213,
+      "core_byte_equality": true,
+      "administrative_changes": {
+        "status: draft_noncurrent": "status: canonical",
+        "release_state: draft_noncurrent": "release_state: mutable_active",
+        "repository_authority: false": "repository_authority: true",
+        "do_not_use_as_current_authority: true": "do_not_use_as_current_authority: false",
+        "operational_validation: PENDING_INDEPENDENT_REVIEW": "operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS"
+      },
+      "inserted_frontmatter_fields": [
+        "generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER",
+        "model_core_version: V1",
+        "administrative_render_date: 2026-11-03",
+        "supersedes: []",
+        "superseded_by: []",
+        "integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md",
+        "evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json"
+      ],
+      "inserted_current_wrapper": "\n> **Current bounded acceptance - 2026-11-03.** Root accepted this exact V1 core after individual sufficiency/admission, actualrootfreeze,15producer and12independent manual applications and selective local text/register review. The complete original body is preserved below; its pending statements are creation-stage history. Current acceptance and limits are in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). Rena is strictly non-graphic third-person ordinary/analytical. No freeformJapanese/fullidiolect/acoustic/blindaccuracy/globalgrade/terminal or future exact-head publication pass is claimed.\n",
+      "complete_unified_diff": "--- historical_original/RENA_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,10 +1,10 @@\n ---\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n model_id: TOMOZAKI_RENA_B07_MODEL_V1\n subject: Rena / レナ\n@@ -17,8 +17,17 @@\n dependency_packet: TOMOZAKI_ADDITIONAL_THREE_DEPENDENCIES_20261103_V1\n preregistration_id: TOMOZAKI_ADDITIONAL_THREE_PREREG_20261103_V1_PROPOSED\n root_preregistration_freeze_sha256: 7cf850aa05cff95d4f8053c0d00fb75692116e321e04c21d34aea35e46ffa3cc\n-operational_validation: PENDING_INDEPENDENT_REVIEW\n+operational_validation: BOUNDED_SEMANTIC_AND_SELECTIVE_TEXT_REGISTER_PASS\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n+model_core_version: V1\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance - 2026-11-03.** Root accepted this exact V1 core after individual sufficiency/admission, actualrootfreeze,15producer and12independent manual applications and selective local text/register review. The complete original body is preserved below; its pending statements are creation-stage history. Current acceptance and limits are in the [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_ADDITIONAL_THREE_MODEL_EVIDENCE_AND_REVIEW_PACKET.json). Rena is strictly non-graphic third-person ordinary/analytical. No freeformJapanese/fullidiolect/acoustic/blindaccuracy/globalgrade/terminal or future exact-head publication pass is claimed.\n \n # Rena — ordinary choice and useful insight with separate accountability\n \n"
+    }
+  ],
+  "artifact_type": "model_evidence_historical_record_shard",
+  "authority_class": "model_validation_provenance",
+  "status": "canonical",
+  "release_state": "immutable_freeze",
+  "repository_authority": true,
+  "do_not_use_as_current_authority": false,
+  "do_not_use_as_primary_literary_authority": true,
+  "supersedes": [],
+  "superseded_by": [],
+  "fixed_record_scope": "Exact historical analytical value/identity container; no wider model/literary/grade/publication authority. An attributable successor is required for change."
+}

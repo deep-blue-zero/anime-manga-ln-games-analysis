@@ -1,0 +1,1333 @@
+{
+  "schema": "GSC_CURRENT15_SOURCE_AND_ACTUAL_AUTHOR_RECEIVING_V1",
+  "existing_home": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+  "existing_named_duty": "P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION",
+  "author": "/root/receive_middle_remaining",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_AND_RECOGNITION_RELATIONSHIP_SYNTHESIS.md",
+    "bytes": 41660,
+    "sha256": "cc689587d9acde0a6ae3bdcaa3f1565b4b127b6cdf9ba700c0d6e694a15a17e6",
+    "git_blob_oid_of_actual_bytes": "e6990f23ed19a2183572409634d66badfedfec50"
+  },
+  "input_count": 15,
+  "records": [
+    {
+      "alias": "N05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "actual_saved_normal": {
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d"
+      },
+      "physical_lines": 94,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "N05",
+        "C_normal_path": "private-witness:N05__RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+        "physical_lines": 94,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            94
+          ]
+        ],
+        "tools": [
+          "4726df"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Core directed rest: Aoi mediated deadline, reported Ayumu/Momoka coverage, actual outing, Rin/Kaya rest and incomplete recovery; diverse recognition/office uncertainty.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "N05",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "exact_original_C_tuple": {
+          "alias": "N05",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bound_C_copy": "private-witness:RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+          "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:N05__RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 13393,
+          "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+          "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d"
+        },
+        "actual_receiving": {
+          "alias": "N05",
+          "exact_tuple": {
+            "alias": "N05",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bound_C_copy": "private-witness:RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 13393,
+            "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+            "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+            "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              94,
+              "2cb719"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "GIFT3",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 8943,
+        "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+        "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd"
+      },
+      "physical_lines": 73,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "GIFT3",
+        "C_normal_path": "private-witness:COUNCIL_GIFT3__BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+        "bytes": 8943,
+        "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+        "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+        "physical_lines": 73,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            73
+          ]
+        ],
+        "tools": [
+          "ebdd4a"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Ayumu fear/desired capacity, specific reciprocal coffee and actual shared chocolate/hardship; sadness at more work, unnamed choice-frame snack eater, empty IDs and report/alternative modes.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "COUNCIL_GIFT3",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+        "exact_original_C_tuple": {
+          "alias": "COUNCIL_GIFT3",
+          "subject": "Ayumu",
+          "exact_selected_source_object": "BA:event:810:093",
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+          "bound_C_copy": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+          "bytes": 8943,
+          "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+          "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+          "physical_lines": 73,
+          "working_equals_exact_committed_source": true,
+          "current_source_blob_oid": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+          "institution_purpose": "Independent giving/receiving, meaningful chosen company, work and care endpoints; no imagined rest, purchase, romance or completed work."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:COUNCIL_GIFT3__BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+          "bytes": 8943,
+          "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+          "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd"
+        },
+        "actual_receiving": {
+          "alias": "COUNCIL_GIFT3",
+          "exact_tuple": {
+            "alias": "COUNCIL_GIFT3",
+            "subject": "Ayumu",
+            "exact_selected_source_object": "BA:event:810:093",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+            "bound_C_copy": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+            "bytes": 8943,
+            "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+            "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+            "physical_lines": 73,
+            "working_equals_exact_committed_source": true,
+            "current_source_blob_oid": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+            "institution_purpose": "Independent giving/receiving, meaningful chosen company, work and care endpoints; no imagined rest, purchase, romance or completed work."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              73,
+              "4dec14"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "MEETING",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 8810,
+        "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+        "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f"
+      },
+      "physical_lines": 52,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "MEETING",
+        "C_normal_path": "private-witness:COUNCIL_MEETING_C002E007__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+        "bytes": 8810,
+        "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+        "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+        "physical_lines": 52,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            52
+          ]
+        ],
+        "tools": [
+          "b7a1f3"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Ayumu objection and Rin cooperation pledge do not establish accusation or investigation; Rin dissent-restraint vsKaya superhuman prescription, preliminary vote and speaker seams.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "COUNCIL_MEETING_C002E007",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+        "exact_original_C_tuple": {
+          "alias": "COUNCIL_MEETING_C002E007",
+          "subject": "GSC meeting/Heine and Sumomo",
+          "exact_selected_source_object": "BA:main:004:002:007",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bound_C_copy": "private-witness:BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bytes": 8810,
+          "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+          "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+          "physical_lines": 52,
+          "working_equals_exact_committed_source": true,
+          "current_source_blob_oid": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+          "institution_purpose": "Actual meeting/Heine arm/Sumomo onigiri meaning; role and individual names cannot be guessed from generic Finance labels."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:COUNCIL_MEETING_C002E007__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+          "bytes": 8810,
+          "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+          "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f"
+        },
+        "actual_receiving": {
+          "alias": "COUNCIL_MEETING_C002E007",
+          "exact_tuple": {
+            "alias": "COUNCIL_MEETING_C002E007",
+            "subject": "GSC meeting/Heine and Sumomo",
+            "exact_selected_source_object": "BA:main:004:002:007",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+            "bound_C_copy": "private-witness:BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+            "bytes": 8810,
+            "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+            "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+            "physical_lines": 52,
+            "working_equals_exact_committed_source": true,
+            "current_source_blob_oid": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+            "institution_purpose": "Actual meeting/Heine arm/Sumomo onigiri meaning; role and individual names cannot be guessed from generic Finance labels."
+          },
+          "actual_current_scope": null,
+          "grade": "ADEQUATE_PRIOR_OWN_COMPLETE_UNCHANGED_RIN_MEANING_REUSED_AT_EXACT_SCOPE",
+          "not_other_author_receiving": true,
+          "actual_prior_receiving_control": "private-witness:core7; complete actual scope declarations ca1a07, preserved in progressV1; corresponding same exact source bytes verified. COUNCIL_MEETING exactE007 uses prior M031 aad783 whole52, not name-based credit."
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "KA13",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 8278,
+        "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+        "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13"
+      },
+      "physical_lines": 54,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "KA13",
+        "C_normal_path": "private-witness:KA13__BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+        "bytes": 8278,
+        "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+        "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+        "physical_lines": 54,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            54
+          ]
+        ],
+        "tools": [
+          "aa3cef"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Ayumu reports authority criticisms and camera search; Aoi politics and rest concern coexist; Ayumu self-address0083 unresolved; committee declaration not completed consent.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "KA13",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+        "exact_original_C_tuple": {
+          "alias": "KA13",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+          "bound_C_copy": "private-witness:BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+          "bytes": 8278,
+          "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+          "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+          "physical_lines": 54,
+          "institution_purpose": "Final C001 E006: Kaya publicly supports Rin mandate and undertakes Schale contact/escort, then makes opaque call. Undertaking is not delivered escort or identified counterpart; reported sensors are not inspected mechanisms.",
+          "earlier_ROOT_meaning_receiving": "ATTRIBUTED_ONLY_NOT_WRITER_READING"
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:KA13__BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+          "bytes": 8278,
+          "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+          "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13"
+        },
+        "actual_receiving": {
+          "alias": "KA13",
+          "exact_tuple": {
+            "alias": "KA13",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+            "bound_C_copy": "private-witness:BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+            "bytes": 8278,
+            "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+            "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+            "physical_lines": 54,
+            "institution_purpose": "Final C001 E006: Kaya publicly supports Rin mandate and undertakes Schale contact/escort, then makes opaque call. Undertaking is not delivered escort or identified counterpart; reported sensors are not inspected mechanisms.",
+            "earlier_ROOT_meaning_receiving": "ATTRIBUTED_ONLY_NOT_WRITER_READING"
+          },
+          "actual_current_scope": [
+            [
+              1,
+              54,
+              "bbb331"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "S2CHECK",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+      "actual_saved_normal": {
+        "bytes": 10927,
+        "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+        "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789"
+      },
+      "physical_lines": 57,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "S2CHECK",
+        "C_normal_path": "private-witness:CLAIMANT6__BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+        "bytes": 10927,
+        "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+        "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789",
+        "physical_lines": 57,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            57
+          ]
+        ],
+        "tools": [
+          "81a795",
+          "48d920"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Whole local sequence confirms actual bounded rest, ongoing search and divergent recognition; no office authentication or global calendar.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "CLAIMANT6",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+        "exact_original_C_tuple": {
+          "alias": "CLAIMANT6",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+          "bound_C_copy": "private-witness:BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+          "bytes": 10927,
+          "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+          "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789",
+          "physical_lines": 57,
+          "qualification": "Exact current128 analytical normal; copying is not personal reading."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:CLAIMANT6__BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+          "bytes": 10927,
+          "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+          "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789"
+        },
+        "actual_receiving": {
+          "alias": "CLAIMANT6",
+          "exact_tuple": {
+            "alias": "CLAIMANT6",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+            "bound_C_copy": "private-witness:BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+            "bytes": 10927,
+            "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+            "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789",
+            "physical_lines": 57,
+            "qualification": "Exact current128 analytical normal; copying is not personal reading."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              57,
+              "2cb719"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "N02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "actual_saved_normal": {
+        "bytes": 34839,
+        "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+        "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68"
+      },
+      "physical_lines": 414,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "N02",
+        "C_normal_path": "private-witness:N02__RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 34839,
+        "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+        "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+        "physical_lines": 414,
+        "actual_own_grade": "SELECTED_CONNECTED_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            300,
+            366
+          ]
+        ],
+        "tools": [
+          "362fc8_initial_output_clipped_not_whole",
+          "81a795_target_core_repaired"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Public duty/recipient constraints at repaired focal core; does not create own whole414-line or primary/private-family reading.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "N02",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "exact_original_C_tuple": {
+          "alias": "N02",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bound_C_copy": "private-witness:RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+          "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:N02__RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 34839,
+          "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+          "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68"
+        },
+        "actual_receiving": {
+          "alias": "N02",
+          "exact_tuple": {
+            "alias": "N02",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_004_カルバノの兎編/BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bound_C_copy": "private-witness:RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 34839,
+            "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+            "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+            "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+          },
+          "actual_current_scope": null,
+          "grade": "ADEQUATE_PRIOR_OWN_COMPLETE_UNCHANGED_RIN_MEANING_REUSED_AT_EXACT_SCOPE",
+          "not_other_author_receiving": true,
+          "actual_prior_receiving_control": "private-witness:core7; complete actual scope declarations ca1a07, preserved in progressV1; corresponding same exact source bytes verified. COUNCIL_MEETING exactE007 uses prior M031 aad783 whole52, not name-based credit."
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "N04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+      "actual_saved_normal": {
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e"
+      },
+      "physical_lines": 259,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "N04",
+        "C_normal_path": "private-witness:N04__RIN04__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+        "physical_lines": 259,
+        "actual_own_grade": "SELECTED_EXISTING_WRITTEN_ARGUMENT_PASSAGES_ONLY",
+        "actual_own_received_ranges": [
+          [
+            66,
+            66
+          ],
+          [
+            76,
+            78
+          ],
+          [
+            158,
+            158
+          ]
+        ],
+        "tools": [
+          "48d920"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Mailbox knowledge without sender and photographed letter without letter text; repeated source-local rest and typed-route limits; not own whole259-line reading.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "N04",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "exact_original_C_tuple": {
+          "alias": "N04",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bound_C_copy": "private-witness:RIN04__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 38506,
+          "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+          "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+          "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:N04__RIN04__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+          "bytes": 38506,
+          "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+          "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e"
+        },
+        "actual_receiving": {
+          "alias": "N04",
+          "exact_tuple": {
+            "alias": "N04",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_000/BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bound_C_copy": "private-witness:RIN04__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+            "bytes": 38506,
+            "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+            "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+            "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+          },
+          "actual_current_scope": null,
+          "grade": "ADEQUATE_PRIOR_OWN_COMPLETE_UNCHANGED_RIN_MEANING_REUSED_AT_EXACT_SCOPE",
+          "not_other_author_receiving": true,
+          "actual_prior_receiving_control": "private-witness:core7; complete actual scope declarations ca1a07, preserved in progressV1; corresponding same exact source bytes verified. COUNCIL_MEETING exactE007 uses prior M031 aad783 whole52, not name-based credit."
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "N07",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "actual_saved_normal": {
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+      },
+      "physical_lines": 83,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "N07",
+        "C_normal_path": "private-witness:N07__A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "physical_lines": 83,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            83
+          ]
+        ],
+        "tool": "ad9d60",
+        "new_GSC_target_positive_and_contrary_result": "CompleteFinalC1 context for Aoi dissent/chargesunproved, Ayumu-Momoka jointlogrecovery and Momoka-Arona communicationsresult, incompletegovernance.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "N07",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "exact_original_C_tuple": {
+          "alias": "N07",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bound_C_copy": "private-witness:A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+          "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:N07__A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+        },
+        "actual_receiving": {
+          "alias": "N07",
+          "exact_tuple": {
+            "alias": "N07",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+            "bound_C_copy": "private-witness:A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+            "bytes": 18013,
+            "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+            "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+            "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              83,
+              "603c7d"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "GIFT1",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 10755,
+        "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+        "git_blob_oid_of_actual_bytes": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af"
+      },
+      "physical_lines": 82,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "GIFT1",
+        "C_normal_path": "private-witness:COUNCIL_GIFT1__BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+        "bytes": 10755,
+        "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+        "physical_lines": 82,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            82
+          ]
+        ],
+        "tool": "04e52f",
+        "new_GSC_target_positive_and_contrary_result": "Momoka precise taste/sour-cream allowance/actual rejected-sweet test; nonhelp/nonsharing, half-eaten objection and futuredozen unfulfilled; no acceptedgift or unanimousworklaw.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "COUNCIL_GIFT1",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+        "exact_original_C_tuple": {
+          "alias": "COUNCIL_GIFT1",
+          "subject": "Momoka",
+          "exact_selected_source_object": "BA:event:810:001:118",
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+          "bound_C_copy": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+          "bytes": 10755,
+          "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+          "git_blob_oid_of_actual_bytes": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af",
+          "physical_lines": 82,
+          "working_equals_exact_committed_source": true,
+          "current_source_blob_oid": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af",
+          "institution_purpose": "Independent giving/receiving, meaningful chosen company, work and care endpoints; no imagined rest, purchase, romance or completed work."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:COUNCIL_GIFT1__BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+          "bytes": 10755,
+          "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+          "git_blob_oid_of_actual_bytes": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af"
+        },
+        "actual_receiving": {
+          "alias": "COUNCIL_GIFT1",
+          "exact_tuple": {
+            "alias": "COUNCIL_GIFT1",
+            "subject": "Momoka",
+            "exact_selected_source_object": "BA:event:810:001:118",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+            "bound_C_copy": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+            "bytes": 10755,
+            "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+            "git_blob_oid_of_actual_bytes": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af",
+            "physical_lines": 82,
+            "working_equals_exact_committed_source": true,
+            "current_source_blob_oid": "7b7ec67c27cdbe161fd6a8a2ffccaf183ea817af",
+            "institution_purpose": "Independent giving/receiving, meaningful chosen company, work and care endpoints; no imagined rest, purchase, romance or completed work."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              82,
+              "4dec14"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "GIFT2",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 9683,
+        "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+        "git_blob_oid_of_actual_bytes": "307a6ec9c979033b1e04b31c4fa935d345d2d442"
+      },
+      "physical_lines": 72,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "GIFT2",
+        "C_normal_path": "private-witness:COUNCIL_GIFT2__BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+        "bytes": 9683,
+        "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+        "physical_lines": 72,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            72
+          ]
+        ],
+        "tool": "e54e4e",
+        "new_GSC_target_positive_and_contrary_result": "Rin specific criticism and narratedsharedcorrection/workingthroughend; no inspectedreport/signaturesapproval or chocolateeating/medicalcure/romance.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "COUNCIL_GIFT2",
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+        "exact_original_C_tuple": {
+          "alias": "COUNCIL_GIFT2",
+          "subject": "Rin",
+          "exact_selected_source_object": "BA:event:810:003:120",
+          "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+          "bound_C_copy": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+          "bytes": 9683,
+          "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+          "git_blob_oid_of_actual_bytes": "307a6ec9c979033b1e04b31c4fa935d345d2d442",
+          "physical_lines": 72,
+          "working_equals_exact_committed_source": true,
+          "current_source_blob_oid": "307a6ec9c979033b1e04b31c4fa935d345d2d442",
+          "institution_purpose": "Independent giving/receiving, meaningful chosen company, work and care endpoints; no imagined rest, purchase, romance or completed work."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:COUNCIL_GIFT2__BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+          "bytes": 9683,
+          "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+          "git_blob_oid_of_actual_bytes": "307a6ec9c979033b1e04b31c4fa935d345d2d442"
+        },
+        "actual_receiving": {
+          "alias": "COUNCIL_GIFT2",
+          "exact_tuple": {
+            "alias": "COUNCIL_GIFT2",
+            "subject": "Rin",
+            "exact_selected_source_object": "BA:event:810:003:120",
+            "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+            "bound_C_copy": "private-witness:BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+            "bytes": 9683,
+            "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+            "git_blob_oid_of_actual_bytes": "307a6ec9c979033b1e04b31c4fa935d345d2d442",
+            "physical_lines": 72,
+            "working_equals_exact_committed_source": true,
+            "current_source_blob_oid": "307a6ec9c979033b1e04b31c4fa935d345d2d442",
+            "institution_purpose": "Independent giving/receiving, meaningful chosen company, work and care endpoints; no imagined rest, purchase, romance or completed work."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              72,
+              "4dec14"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "N08",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+      "actual_saved_normal": {
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2"
+      },
+      "physical_lines": 76,
+      "current_own_complete_receiving_record_NOT_rewritten": {
+        "alias": "N08",
+        "C_normal_path": "private-witness:N08__A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "physical_lines": 76,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "tool": "b3d1ca",
+        "new_GSC_target_positive_and_contrary_result": "CompleteFinalC3 checkpoint for Aoi/Rin personalapology vslegalreversal, Ayumu entryanddamage reports, distributedschoolroles and incompleteArk/safety.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      "complete_previous_dated_GSC_source_binding_and_receiving_record_ATTRIBUTED_NOT_CURRENT_SCOPE": {
+        "alias": "N08",
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "exact_original_C_tuple": {
+          "alias": "N08",
+          "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bound_C_copy": "private-witness:A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2",
+          "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+        },
+        "exact_owned_copy": {
+          "path": "private-witness:N08__A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+          "bytes": 14443,
+          "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+          "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2"
+        },
+        "actual_receiving": {
+          "alias": "N08",
+          "exact_tuple": {
+            "alias": "N08",
+            "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+            "bound_C_copy": "private-witness:A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+            "bytes": 14443,
+            "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+            "git_blob_oid_of_actual_bytes": "b385f8886700fb4470840306ecb05fdffb9275d2",
+            "qualification": "Dated custody and other-author scopes preserved; personally adequate meaning is required for this institution purpose."
+          },
+          "actual_current_scope": [
+            [
+              1,
+              76,
+              "603c7d"
+            ]
+          ],
+          "grade": "FRESH_COMPLETE_CONNECTED_ANALYTICAL_NORMAL_ARGUMENT",
+          "not_other_author_receiving": true
+        },
+        "source_class": "MAIN_OR_SELECTED_WRITTEN_OR_GIFT",
+        "source_mode": "MAINTAINED_ADMITTED_WRITTEN_ANALYTICAL_ARGUMENT",
+        "source_pins_and_read_order": "Original header/receipt documentary pins preserved; prior exposure is retrospective, not blind. No global calendar follows."
+      },
+      "current_source_mode": "Admitted maintained written analytical normal only; current original headers/producer receipts remain dated, later all133/PR152 qualifications govern use.",
+      "new_primary_native_raw_AV_source_admission_identity_credit": 0
+    },
+    {
+      "alias": "MAIN_SCOPE",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_COHORT_ARGUMENTS_V1/CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.md",
+      "actual_saved_argument": {
+        "bytes": 148261,
+        "sha256": "63bce41e80af9f6022f215f96424e426a9c95d3b8991a3fd141800dea6e42fb1",
+        "git_blob_oid_of_actual_bytes": "1a1235bc4c007f5d1428b3e6fec010d34129d6d6"
+      },
+      "physical_lines": 1540,
+      "actual_own_grade": "SELECTED_ACCEPTED_WRITTEN_SCOPE_ARGUMENT_FIELDS_M005_ONLY; NO_WHOLE1540_NORMAL_OR_PRIMARY",
+      "actual_own_ranges": [
+        [
+          174,
+          194
+        ]
+      ],
+      "actual_tool": "692081",
+      "new_GSC_target_question_and_result": "Ayumu practical/dissent recognition scope has positive named allocation without unjoined9009004 private-family or extra standalone count. The eligibility scope is documentary/argument authority, not exact performed speech. Current direct S2 recognition below supplies independently received support while old MAIN_SCOPE citation role remains unchanged.",
+      "new_credits": 0
+    },
+    {
+      "alias": "GSC134",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+      "actual_saved_normal": {
+        "bytes": 52929,
+        "sha256": "df5fef4e2f40b752dcd665be404baf095f84afea35f22140a3cb525c22325ebd",
+        "git_blob_oid_of_actual_bytes": "91365f2536d57a2477ad388da0b905319114c12d"
+      },
+      "physical_lines": 230,
+      "exact_ROOT_current2aa_custody_record_NOT_rewritten": {
+        "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+        "C_path": "private-witness:BLUE_ARCHIVE_GSC_SCHALE_INSTITUTIONAL_SYNTHESIS.md",
+        "bytes": 52929,
+        "sha256": "df5fef4e2f40b752dcd665be404baf095f84afea35f22140a3cb525c22325ebd",
+        "git_blob_oid_of_actual_bytes": "91365f2536d57a2477ad388da0b905319114c12d",
+        "lines": 230
+      },
+      "ROOT_capture_credit": "Exact tracked custody70ee77 attributed; own read592d62 separate.",
+      "actual_own_grade": "SELECTED_CONNECTED_ACCEPTED_INSTITUTION_ARGUMENT",
+      "actual_own_ranges": [
+        [
+          134,
+          154
+        ]
+      ],
+      "additional_individually_displayed_selected_lines": [
+        32,
+        34,
+        44,
+        58,
+        60,
+        72,
+        88,
+        96,
+        112,
+        174,
+        184,
+        196,
+        207
+      ],
+      "actual_own_receiving_tool": "592d62",
+      "new_GSC_target_specific_question": "Which civic Ayumu initiative is already complete and must not discharge this different practical-care named duty?",
+      "connected_positive_and_contrary_result": "Selected actual current civic section134–154 retains request, reported aid, suspended authority and prospective work without adult assent/rebuilding; selected ordinary/role parallels are received, not all230 literary paragraphs.",
+      "stronger_trigger": "Specific recipient, material, identity/causal or authority afterstates are required for stronger outcomes; analytical custody or current source status supplies no semantic completion.",
+      "new_credits": 0
+    },
+    {
+      "alias": "S2RECOGNITION",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_E005_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 6065,
+        "sha256": "1356db3a199ebf0e29df7081d918f96a086334e3ef9c82860f4cd1959ed6d03e",
+        "git_blob_oid_of_actual_bytes": "876ad4be4d6eb12f26bcc60d5a45c821a6ccabe0"
+      },
+      "physical_lines": 37,
+      "exact_ROOT_current2aa_custody_record_NOT_rewritten": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/SERIES2_VOLUME_001/BLUE_ARCHIVE_MAIN_S2_V001_C001_E005_DEEP_READING.md",
+        "C_path": "private-witness:BLUE_ARCHIVE_MAIN_S2_V001_C001_E005_DEEP_READING.md",
+        "bytes": 6065,
+        "sha256": "1356db3a199ebf0e29df7081d918f96a086334e3ef9c82860f4cd1959ed6d03e",
+        "git_blob_oid_of_actual_bytes": "876ad4be4d6eb12f26bcc60d5a45c821a6ccabe0",
+        "lines": 37
+      },
+      "ROOT_capture_credit": "Exact tracked custody70ee77 attributed; own read592d62 separate.",
+      "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_own_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "additional_individually_displayed_selected_lines": [],
+      "actual_own_receiving_tool": "592d62",
+      "new_GSC_target_specific_question": "How does Ayumu social recognition and a fatigue possibility answer Rin without authenticating office or diagnosing memory?",
+      "connected_positive_and_contrary_result": "Complete37-line analytical argument keeps Ayumu unchanged-president statement and fatigue possibility atL22/u0031–0043 separate from Aoi recognition, Rin/Sensei nonrecognition, inconsistent appearance reports and uninspected photo pixels. Concern is not diagnosis or authentication.",
+      "stronger_trigger": "Specific recipient, material, identity/causal or authority afterstates are required for stronger outcomes; analytical custody or current source status supplies no semantic completion.",
+      "new_credits": 0
+    },
+    {
+      "alias": "FINAL_DIAGNOSTIC",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E002_DEEP_READING.md",
+      "actual_saved_normal": {
+        "bytes": 7307,
+        "sha256": "40eb32f161cbd3277d6adc4ac84ccfd7fd4c4608f97d993503ba291f758ec54c",
+        "git_blob_oid_of_actual_bytes": "05bcc401194c7f2738f9730b460ff078b0d63de1"
+      },
+      "physical_lines": 42,
+      "exact_ROOT_current2aa_custody_record_NOT_rewritten": {
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E002_DEEP_READING.md",
+        "C_path": "private-witness:BLUE_ARCHIVE_MAIN_V100_C003_E002_DEEP_READING.md",
+        "bytes": 7307,
+        "sha256": "40eb32f161cbd3277d6adc4ac84ccfd7fd4c4608f97d993503ba291f758ec54c",
+        "git_blob_oid_of_actual_bytes": "05bcc401194c7f2738f9730b460ff078b0d63de1",
+        "lines": 42
+      },
+      "ROOT_capture_credit": "Exact tracked custody70ee77 attributed; own read592d62 separate.",
+      "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+      "actual_own_ranges": [
+        [
+          1,
+          42
+        ]
+      ],
+      "additional_individually_displayed_selected_lines": [],
+      "actual_own_receiving_tool": "592d62",
+      "new_GSC_target_specific_question": "What knowledge do Ayumu recall/question, Momoka instrument inference and Rin forecast each contribute without sharing a verified cause?",
+      "connected_positive_and_contrary_result": "Complete42-line analytical argument gives Ayumu prior approximately24-hour recall and root-cause question; Rin38% comparison/sooner warning and Momoka75,000m likely-origin analysis remain separate reports/inferences, not a known deadline or verified occupant/mechanism.",
+      "stronger_trigger": "Specific recipient, material, identity/causal or authority afterstates are required for stronger outcomes; analytical custody or current source status supplies no semantic completion.",
+      "new_credits": 0
+    }
+  ],
+  "complete_original_first_receiving_progress_NOT_rewritten": {
+    "schema": "GSC_DIRECTED_WORK_CURRENT_CORE_RECEIVING_PROGRESS_V1",
+    "UTC": "2026-10-13T19:15:48.685988+00:00",
+    "author": "/root/receive_middle_remaining",
+    "existing_home": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+    "ROOT_future_primary": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_AND_RECOGNITION_RELATIONSHIP_SYNTHESIS.md",
+    "existing_named_duty": "P3-SECTION-AYUMU-PRACTICAL-CARE-DISSENT-RECOGNITION",
+    "assignment_basis": "ROOT-reported source2aa139/14/mainf1f133/13; source/final runtimeclosure pending; no own freshGit/provider or green claim",
+    "records": [
+      {
+        "alias": "N05",
+        "C_normal_path": "private-witness:N05__RIN05__BLUE_ARCHIVE_MAIN_S2_V001_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 13393,
+        "sha256": "48a62cb5a2dc894176822923df4580be05f87287e792c0f6ad83d638a0940ecb",
+        "git_blob_oid_of_actual_bytes": "cc58366c949eb4844063ed7d1aecd889dec1308d",
+        "physical_lines": 94,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            94
+          ]
+        ],
+        "tools": [
+          "4726df"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Core directed rest: Aoi mediated deadline, reported Ayumu/Momoka coverage, actual outing, Rin/Kaya rest and incomplete recovery; diverse recognition/office uncertainty.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "GIFT3",
+        "C_normal_path": "private-witness:COUNCIL_GIFT3__BLUE_ARCHIVE_EVENT_810_EPISODE_093_80000093_DEEP_READING.md",
+        "bytes": 8943,
+        "sha256": "d120c527f225f0c5eaef17806ab8e9ee218711f56d294c82251e7b13fda03609",
+        "git_blob_oid_of_actual_bytes": "c9aa80d483567d270378a4d4bebdc063745fc8cd",
+        "physical_lines": 73,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            73
+          ]
+        ],
+        "tools": [
+          "ebdd4a"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Ayumu fear/desired capacity, specific reciprocal coffee and actual shared chocolate/hardship; sadness at more work, unnamed choice-frame snack eater, empty IDs and report/alternative modes.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "MEETING",
+        "C_normal_path": "private-witness:COUNCIL_MEETING_C002E007__BLUE_ARCHIVE_MAIN_V004_C002_E007_DEEP_READING.md",
+        "bytes": 8810,
+        "sha256": "73197daf01a438a84006c00dbf36fc362d102fb659b2506c3ca58d218bc889e6",
+        "git_blob_oid_of_actual_bytes": "1f82a46b0a41ac3932ffb6098040074c011cb84f",
+        "physical_lines": 52,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            52
+          ]
+        ],
+        "tools": [
+          "b7a1f3"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Ayumu objection and Rin cooperation pledge do not establish accusation or investigation; Rin dissent-restraint vsKaya superhuman prescription, preliminary vote and speaker seams.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "KA13",
+        "C_normal_path": "private-witness:KA13__BLUE_ARCHIVE_MAIN_V100_C001_E006_DEEP_READING.md",
+        "bytes": 8278,
+        "sha256": "01573c6439c3a52d870b3f8035ecf794fdafbd8fda9fa617e8670a814de86686",
+        "git_blob_oid_of_actual_bytes": "b130462ca0904f939e18bdd02b931f70c7087f13",
+        "physical_lines": 54,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            54
+          ]
+        ],
+        "tools": [
+          "aa3cef"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Ayumu reports authority criticisms and camera search; Aoi politics and rest concern coexist; Ayumu self-address0083 unresolved; committee declaration not completed consent.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "S2CHECK",
+        "C_normal_path": "private-witness:CLAIMANT6__BLUE_ARCHIVE_MAIN_S2_V001_C001_CHECKPOINT.md",
+        "bytes": 10927,
+        "sha256": "57f075dd136033dcd2acee66b33bcba82e81acad76d651053d669b4e4fc976a2",
+        "git_blob_oid_of_actual_bytes": "dfb581497b6204d07d39bb0cfecad2b26303a789",
+        "physical_lines": 57,
+        "actual_own_grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            1,
+            57
+          ]
+        ],
+        "tools": [
+          "81a795",
+          "48d920"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Whole local sequence confirms actual bounded rest, ongoing search and divergent recognition; no office authentication or global calendar.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "N02",
+        "C_normal_path": "private-witness:N02__RIN02__BLUE_ARCHIVE_MAIN_V004_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 34839,
+        "sha256": "9f953c2ae13515a38af2f469485eb260f32e69849033136a494843acd97024ae",
+        "git_blob_oid_of_actual_bytes": "4f8301a69d012fe2b15c9b81c38da510ad359e68",
+        "physical_lines": 414,
+        "actual_own_grade": "SELECTED_CONNECTED_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actual_own_received_ranges": [
+          [
+            300,
+            366
+          ]
+        ],
+        "tools": [
+          "362fc8_initial_output_clipped_not_whole",
+          "81a795_target_core_repaired"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Public duty/recipient constraints at repaired focal core; does not create own whole414-line or primary/private-family reading.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "N04",
+        "C_normal_path": "private-witness:N04__RIN04__BLUE_ARCHIVE_MAIN_S2_V000_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "bytes": 38506,
+        "sha256": "1b345afb1f793d320784394b5d8a51cb0b6a694b89cc06fbd514e1f2ceb71f79",
+        "git_blob_oid_of_actual_bytes": "584725d932820e7847f6c3a057fdafdcedc14b0e",
+        "physical_lines": 259,
+        "actual_own_grade": "SELECTED_EXISTING_WRITTEN_ARGUMENT_PASSAGES_ONLY",
+        "actual_own_received_ranges": [
+          [
+            66,
+            66
+          ],
+          [
+            76,
+            78
+          ],
+          [
+            158,
+            158
+          ]
+        ],
+        "tools": [
+          "48d920"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Mailbox knowledge without sender and photographed letter without letter text; repeated source-local rest and typed-route limits; not own whole259-line reading.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      },
+      {
+        "alias": "N07",
+        "C_normal_path": "private-witness:N07__A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+        "physical_lines": 83,
+        "actual_own_grade": "SELECTED_CONNECTED_EXISTING_WRITTEN_ARGUMENT_PASSAGES_ONLY",
+        "actual_own_received_ranges": [
+          [
+            22,
+            22
+          ],
+          [
+            34,
+            34
+          ],
+          [
+            42,
+            42
+          ],
+          [
+            46,
+            46
+          ],
+          [
+            52,
+            52
+          ],
+          [
+            59,
+            59
+          ],
+          [
+            66,
+            70
+          ]
+        ],
+        "tools": [
+          "48d920"
+        ],
+        "new_GSC_target_purpose_and_meaning": "Aoi accusations not proved; Momoka/Ayumu recover logs and Momoka restores communications with Arona confirmation; no universal control or uniformknowledge/loyalty.",
+        "fresh_primary_native_raw_AV_newsource_or_model_credit": 0,
+        "historical_headers": "Dated producer status/queue/frontiers remain original; currentCycle008/currentall133/PR152GSC qualifiers govern accepted use."
+      }
+    ],
+    "necessary_remaining": "Fine AyumuS2V1E005 recognition/fatigue and FinalC3E002 report, fuller gift1/2 or fullN07/N08 as needed; no source primary replay. Complete M005 eligibility row found as dated scope/report only, not its underlying source reading.",
+    "progress_not_acceptance": "Incomplete body/current105/register/QA/ROOTadoption; canonicalcounts0",
+    "models": 0,
+    "all14_original_gaps": "OPEN"
+  },
+  "complete_original_additive_receiving_progress_NOT_rewritten": {
+    "schema": "GSC_DIRECTED_WORK_ADDITIVE_OWN_CORE_RECEIVING_PROGRESS_V2",
+    "UTC": "2026-10-13T19:20:56.339373+00:00",
+    "records": [
+      {
+        "alias": "GIFT1",
+        "C_normal_path": "private-witness:COUNCIL_GIFT1__BLUE_ARCHIVE_EVENT_810_EPISODE_001_80000001_DEEP_READING.md",
+        "bytes": 10755,
+        "sha256": "e672db636ca504928f558766c019235cfb63a91459fa59183c8eee8fa4bf1f97",
+        "physical_lines": 82,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            82
+          ]
+        ],
+        "tool": "04e52f",
+        "new_GSC_target_positive_and_contrary_result": "Momoka precise taste/sour-cream allowance/actual rejected-sweet test; nonhelp/nonsharing, half-eaten objection and futuredozen unfulfilled; no acceptedgift or unanimousworklaw.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      {
+        "alias": "GIFT2",
+        "C_normal_path": "private-witness:COUNCIL_GIFT2__BLUE_ARCHIVE_EVENT_810_EPISODE_003_80000003_DEEP_READING.md",
+        "bytes": 9683,
+        "sha256": "33e6407530713856cfed6be481bd63929ac6f0deaab208273c54cd25acc3721f",
+        "physical_lines": 72,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            72
+          ]
+        ],
+        "tool": "e54e4e",
+        "new_GSC_target_positive_and_contrary_result": "Rin specific criticism and narratedsharedcorrection/workingthroughend; no inspectedreport/signaturesapproval or chocolateeating/medicalcure/romance.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      {
+        "alias": "N07",
+        "C_normal_path": "private-witness:N07__A07__BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "physical_lines": 83,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            83
+          ]
+        ],
+        "tool": "ad9d60",
+        "new_GSC_target_positive_and_contrary_result": "CompleteFinalC1 context for Aoi dissent/chargesunproved, Ayumu-Momoka jointlogrecovery and Momoka-Arona communicationsresult, incompletegovernance.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      },
+      {
+        "alias": "N08",
+        "C_normal_path": "private-witness:N08__A08__BLUE_ARCHIVE_MAIN_V100_C003_CHECKPOINT.md",
+        "bytes": 14443,
+        "sha256": "f1d911ce2d822e067d03708b0326f1b41bc032f937c5b24a00d7c256e3eb1c50",
+        "physical_lines": 76,
+        "grade": "COMPLETE_CURRENT_ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_NORMAL_ONLY",
+        "actualranges": [
+          [
+            1,
+            76
+          ]
+        ],
+        "tool": "b3d1ca",
+        "new_GSC_target_positive_and_contrary_result": "CompleteFinalC3 checkpoint for Aoi/Rin personalapology vslegalreversal, Ayumu entryanddamage reports, distributedschoolroles and incompleteArk/safety.",
+        "fresh_underlying_primary_native_raw_AV_credit": 0
+      }
+    ],
+    "qualifies_prior": "GSC_REL_OWN_NECESSARY_ANALYTICAL_CORE_RECEIVING_PROGRESS_AND_GRADE_BOUNDARIES_V1.json remains literal; N07 selectedhistory is now qualified by actuallycomplete83 currentnormal argument at ownanalytical grade. No priorrecord rewritten.",
+    "ROOT_runtime_update": "ROOT reports source2aa139/14 completeactualfresh301 source/housekeeping-noop/finalchain9d92e7; thisoldhead result creates no semantic/body/model or newfuturepublication credit.",
+    "body_package_acceptance": "PENDING",
+    "all14_original_gaps": "OPEN",
+    "models": 0
+  },
+  "current_additional_receiving_qualification": "Later actual592d62 supplements direct Ayumu recognition; earlier MAIN_SCOPE-only restriction remains dated original. Fine MAIN_SCOPE citations retain their old report role while S2RECOGNITION supplies direct current analytical corroboration. Original source headers/frontiers are historical, not current corpus status.",
+  "current_common105_source_qualifier_layer_NOT_rewritten": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f",
+    "scope": "Published source130b9 current GSC six-purpose successor layer; source-consistency audit qualifiers and original purpose/source payloads remain operative at their actual disclosed grades. This Minato derivative does not alter their records, inverse proofs or actor decisions."
+  },
+  "PR152_preserved_qualification": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "bytes": 79041,
+    "sha256": "afdb687d5fab584e25115d019dd32be78fa996d34da415e44bd6950698aa2755",
+    "git_blob_oid_of_actual_bytes": "ab4b2364c9a182d2ea9680e136ea3a4806520e1a",
+    "seven_corrections_and43_original_qualifiers": "Preserved current inherited constraints; no rewrite or replacement."
+  },
+  "all133_source_audit_qualification": "Current accepted source consistency actor/order/locator and grade boundaries remain operative; source hashes/CI do not add semantic coverage. Heine rumor during Kaya call is not Sports Association recipient reception.",
+  "historical_M008_dependencies": "Complete earlier M008 target records in purpose parts are frozen preparatory history at their declared tuple, not current claimant acceptance or an operative GSC evidence prerequisite. Their original Minato105 source bindings remain the analytical source layer; pending CP103 question actor successor is ROOT-owned and does not alter this GSC question.",
+  "105_purpose_index": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_DIFFERENTIATED_WORK_RECOGNITION_RECEIVING_20261013_V1/GSC_CURRENT105_DIRECTED_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+    "pointer": ""
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "ROOT_adoption_and_distinct_QA": "PENDING",
+  "new_credits": 0,
+  "operative_current_coffee_direction_and_retained_comparator_qualification": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+  }
+}

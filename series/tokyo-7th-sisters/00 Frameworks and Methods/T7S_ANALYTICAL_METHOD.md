@@ -4,16 +4,16 @@ artifact_id: T7S_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.1"
+version: "1.5"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-source_boundary: "c20260909-r484; method reviewed through complete native Main EPISODE 1.0 / T7S_B0001–T7S_B0011; no later or non-Main story source"
+source_boundary: "c20260909-r484; governing method applied through the exact T7S_B0001–T7S_B0079 horizon; no 2053 or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-09-10
+last_updated: 2026-10-27
 ---
 
 # Tokyo 7th Sisters analytical method
@@ -43,7 +43,7 @@ Initial block proposals use native family/chapter envelopes and source-size meta
 ### Coverage and routing contract
 
 1. Inventory all 1,578 scenario resources and the complete supplemental namespaces structurally. Initialize exact source membership, not findings.
-2. Close-read all 364 Main episodes over coherent blocks, covering every native family. Establish 2034 foundations, then schedule prequels, later-era material, side-family Main, and 2053 using explicit dependency/exposure decisions.
+2. Close-read all 364 Main episodes over coherent blocks, covering every native family. Complete the entire 2034 major story structure—including its remaining Main families, routed non-Main obligations, era reconstruction, literary synthesis, declared character layer, warranted longitudinal syntheses, audiovisual requirements, and completion audit—before any semantic consumption of 2053. Within each structure, schedule prequels, side-family Main, and parallel lines through explicit dependency/exposure decisions.
 3. Semantically screen **all 755 Sub and 231 Event episodes**, eventually covering complete native envelopes within admitted horizons. Reuse each screen across character/unit/theme queries; do not independently rediscover an event for each subject.
 4. Route complete additional scripts and supplemental tranches into narrative, ordinary-life, presentation, system, duplicate-occurrence, or unresolved roles. Hash-identical resources retain logical occurrences and contextual differences.
 5. Give each substantive story a factual reconstruction home. Compact ordinary-life mini-cases may share a bounded portfolio reading; complex or load-bearing scenes receive full deep reading. Screening alone does not satisfy reconstruction.
@@ -63,6 +63,16 @@ Pre-bootstrap design inspection saw source labels, a small number of technical d
 
 Once a foundation is established, global retrieval within its admitted witness/state horizon is encouraged. Out-of-horizon matches remain hidden or explicitly quarantined until a retrospective operation authorizes their use.
 
+### Major-story-structure transition discipline
+
+Treat native Main groupings `2034年` and `2053年` as separate analytical stacks, `T7S_STACK_2034` and `T7S_STACK_2053`, without treating either label as the date of every contained scene. Maintain an independent source frontier, semantic horizon, state horizon, and completion state for each stack. The project-wide sequential lock can remain open while a later-stack transition gate is closed.
+
+Before the 2034 era-completion audit passes, permitted 2053 access is limited to non-semantic topology reconnaissance: IDs, hashes, category-qualified native hierarchy, counts, source size, media capability, and exposed titles when unavoidable. Do not read or search 2053 dialogue, plot, characterization, outcomes, performed content, or thematic material; do not use it to select, explain, validate, or complete a 2034 claim or character account.
+
+The 2034 closeout operation must declare its exact Main and eligible non-Main pools; complete every required factual and interpretive home; produce the era-level narrative reconstruction and literary synthesis; finish the declared principal-character monographs with representative visual and actually listened-to performed-voice integration; resolve or explicitly classify secondary subjects; promote independently warranted relationship, unit, institutional, and specialist responsibilities; reconcile chronology and all cumulative ledgers; and pass the 2034 era-completion audit. An unresolved but intentionally open story outcome may survive that audit; an unexamined required source or missing analytical responsibility may not.
+
+Only after the entrypoint records `T7S_STACK_2034 = ERA_RELEASE_COMPLETE` may `T7S_STACK_2053` become `ELIGIBLE_FOR_PREREQUISITE_AUDIT`. Eligibility is not authorization. The first 2053 packet still requires owner authorization, fresh source verification, a prospective prerequisite audit, independent line frontiers, and a bounded entering state. Any later 2053-to-2034 connection is retrospective evidence and must use an explicit typed bridge rather than silently altering the frozen 2034-only release.
+
 ## H. Detailed narrative-reconstruction model
 
 **Default artifact:** `T7S_B0001_DEEP_READING.md`, with immutable block ID and explicit native source membership. Keep factual reconstruction and interpretation together in clearly labeled sections. Split into a narrative record plus an interpretation document only when independent retrieval or size makes the combined artifact unmanageable; declare the transferred responsibility and route the former home to the new one.
@@ -75,7 +85,8 @@ Once a foundation is established, global retrieval within its admitted witness/s
 | Causal story ledger | Cumulative event skeleton, dependencies, world consequences, thread status, and pointers to detailed reconstruction |
 | Arc/era narrative synthesis | Compact causal/state reconstruction of a completed storyline across blocks, with the bounded interpretation needed to explain its result and limits |
 | Arc deep reading | Optional sustained whole-arc literary/formal interpretation when cross-block comparison adds knowledge that the compact narrative synthesis cannot responsibly contain; never a competing state or local-reconstruction home |
-| Full-series narrative integration | Cross-line/era connections, chronology alternatives, continuity boundaries, and routes into detailed era reconstructions |
+| Major-story-structure narrative reconstruction | Complete causal/state integration of one native top-level story structure after its arcs, routed non-Main obligations, chronology, character roster, and promoted longitudinal responsibilities reconcile |
+| Full-series narrative integration | Cross-structure connections between completed 2034 and 2053 releases, chronology alternatives, continuity boundaries, and routes into detailed era reconstructions |
 
 Every substantive block must preserve the starting situation; participants and identities as known; location/context; goals; initiating conditions; consequential actions and decisions; important revelations/dialogue in concise paraphrase; misunderstandings; conflicts/reversals; commitments; failures and repairs; ending situation; immediate and durable consequences; open/closed threads; and dependencies on prior material. Retrospectively identified later dependencies are labeled as later annotations.
 
@@ -99,7 +110,7 @@ The narrative portion uses `SOURCE-ESTABLISHED NARRATIVE FACT` and separately ta
 
 “No supported change” is a valid value; blank fields are not assumed negative evidence. Side-story portfolios retain separate mini-case event chains and uncertain placement instead of pretending their source order describes one continuous day.
 
-Consolidate at the completion of a coherent native sub-arc/season or independently justified storyline, then at era closure after parallel lines and consequential supplemental obligations are reconciled. A 91-episode family may need several causal-phase readings before one family synthesis; no arbitrary every-five-episodes checkpoint is required. After that compact narrative synthesis exists, architecture may separately promote an arc deep reading when the completed scope sustains independent whole-arc literary work. Both consume the same reconciled substrate, but the narrative synthesis remains the publication prerequisite and authoritative route for causal/state closeout.
+Consolidate at the completion of a coherent native sub-arc/season or independently justified storyline, then at major-story-structure closure after its parallel lines, character layer, and consequential supplemental obligations are reconciled. A 91-episode family may need several causal-phase readings before one family synthesis; no arbitrary every-five-episodes checkpoint is required. After that compact narrative synthesis exists, architecture may separately promote an arc deep reading when the completed scope sustains independent whole-arc literary work. Both consume the same reconciled substrate, but the narrative synthesis remains the publication prerequisite and authoritative route for causal/state closeout. The complete 2034 era pair and audit are mandatory before 2053; they are not optional arc promotions or franchise-wide substitutes.
 
 ## I. T7S analytical method
 
@@ -133,6 +144,27 @@ Sequential readings also feed later multimodal character work: record important 
 Revision operations are `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, and `OPEN`. Record old/new formulation, trigger, counterevidence, scope change, affected artifact IDs, and downstream repair. Do not quietly turn recurring conduct into a universal trait or retroactively make an earlier prediction correct.
 
 Use the repository's stable workload classes: bounded source/locator audits `BOUNDED_STANDARD`; normal readings and established ledger updates `SUBSTANTIVE_ANALYSIS`; mature character, relationship, chronology, and era integration `DEEP_SYNTHESIS`; propagation-sensitive final/adversarial work may warrant `PREMIUM_QUALITY_FIRST` with justification. Literal models, controls, and prices require the then-current provider verification; this method supplies no new product mapping. [Reasoning/model-routing policy](../../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md)
+
+### Reading front-matter template
+
+Every sequential reading opens with a YAML front-matter block whose first lines carry the repository's complete authority quartet exactly as below, before any project-specific field. The quartet is what makes a reading current-eligible as character evidence under the [artifact authority rule](../../../characters/README.md); a partial quartet classifies as `UNCLASSIFIED_LEGACY`, and no later edit can repair it once the SourceLock closeout binds the file hash.
+
+```text
+---
+title: "Tokyo 7th Sisters — B#### <subject>"
+artifact_id: T7S_B####_DEEP_READING
+artifact_type: deep_reading
+series: Tokyo 7th Sisters
+generation: V1
+version: "1.0"
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+do_not_use_as_literary_evidence: false
+```
+
+Project fields (scope, native hierarchy, episode IDs, corpus alias, witness, source boundary, counts, analysis status and dates) follow the quartet, as in T7S_B0188. Before a closeout binds the reading's hash, confirm that the repository classifier in `tools/character_index_core.py` reports the new reading as `CANONICAL_CURRENT`. T7S_B0001–T7S_B0168 and T7S_B0184–T7S_B0187 predate this template and remain `UNCLASSIFIED_LEGACY` by project history; the corpus map records that state.
 
 ## N. Audiovisual/performance integration
 
@@ -209,3 +241,7 @@ Future ingestion is question-driven: an official lyric edition to resolve a vari
 
 - 2026-09-09 — V1 / 1.0: implement the approved reading, evidence, claim, audiovisual and music method for the preserved Japanese offline game.
 - 2026-09-10 — V1 / 1.1: distinguish compact arc/era narrative synthesis from optional promoted arc deep reading; require the narrative synthesis as the latter's publication prerequisite while preserving shared reconciled dependencies and separate authority.
+- 2026-09-12 — V1 / 1.2: add independent 2034/2053 stack horizons and a fail-closed transition method; require the complete 2034 story, declared character and multimodal layer, warranted longitudinal syntheses, era reconstruction, literary synthesis, and completion audit before any 2053 semantic consumption.
+- 2026-09-13 — V1 / 1.3: apply the unchanged governing method through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve the EPISODE NANASUTA and 2053 semantic boundaries.
+- 2026-09-13 — V1 / 1.4: apply the unchanged governing method through complete T7S_B0079 / EPISODE NANASUTA; record the corrected route and all-eleven-Main-family closure while retaining the incomplete 2034-era-release and blocked 2053 semantic boundaries.
+- 2026-10-27 — V1 / 1.5: add the reading front-matter template carrying the complete authority quartet after T7S_B0184–T7S_B0187 closed with incomplete quartets; the governing method and every analytical boundary are unchanged.

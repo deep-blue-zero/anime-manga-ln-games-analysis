@@ -1,0 +1,245 @@
+{
+  "schema": "konosuba.cohort33.exact-source-author-publication-gate.v1",
+  "status": "FULL_EXACT_SOURCE_PUBLICATION_GATE_CLOSED",
+  "closed_utc": "2026-10-24T11:08:02.564253+00:00",
+  "gate_scope": "Author publication tranche: ordinary continuing-source push, ready PR and full passing exact-head audit. Protected-main integration/post-integration checks remain separately owned.",
+  "actual_source_commit": "48d5b27916773293b054a0bbd04b8a65d347b458",
+  "tree": "4bf5dbf620c49b9c136a28595f46ed5d36af94bf",
+  "source_parent": "40571cea9f7f7c596063ec511b40621c746a475c",
+  "previous_published_source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+  "publication_main": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "main_observed_at_close": "b20de0edab953d40bf5fc3d2e51dea84e99a610c",
+  "pull_request": {
+    "number": 298,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/298",
+    "state": "open",
+    "merged": false,
+    "head": "48d5b27916773293b054a0bbd04b8a65d347b458",
+    "ready": true,
+    "labels": []
+  },
+  "author_preflight": {
+    "file": "COHORT33_AUTHOR_PREFLIGHT_VERIFIED_01.json",
+    "sha256": "e3fd16ca3bc7832d8ebd1b74c6afef201b2eb91eec36efcd0cf07f65b24935c5",
+    "paths": 9736,
+    "project_paths": 1399
+  },
+  "remote_readback": {
+    "file": "COHORT33_REMOTE_READBACK_VERIFIED_01.json",
+    "sha256": "cceaca5eb17bda86825b724d175b5051a303bec78a0a15812bfa61a1c612d5c4",
+    "all9736_files_and33_changed_streams_exact": true
+  },
+  "source_audit": {
+    "file": "C33_SOURCE_AUDIT_VERIFIED_01.json",
+    "sha256": "ee2c1e48b9a3efb93bf138fbb4f98188e5171e120f348d5b029b64869c8f18ac",
+    "run": 40087962089,
+    "job": 120854646314,
+    "reporter_job": 120855404994,
+    "actual_source": "48d5b27916773293b054a0bbd04b8a65d347b458",
+    "full_discovered_tests": 459,
+    "all_five_non_success_categories_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/48d5b27916773293b054a0bbd04b8a65d347b458",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57160773688,
+      "node_id": "SC_kwDOUJ9ads8AAAANTwwwOA",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40087962089",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-24T11:01:38Z",
+      "updated_at": "2026-10-24T11:01:38Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    }
+  },
+  "housekeeping": {
+    "status": "NOT_REQUIRED_WHEN_ROUTING_ALREADY_MATERIALIZED_UNDER_CURRENT_POLICY",
+    "run": null,
+    "execution_credit": false
+  },
+  "post_integration_main_audit": {
+    "status": "NOT_CERTIFIED_BY_THIS_AUTHOR_TRANCHE_GATE",
+    "run": null,
+    "execution_credit": false
+  },
+  "author_publication_tranche_complete": true,
+  "overall_git_integration_transaction_closed": false,
+  "authority_reload": {
+    "file": "COHORT33_POST_GATE_PUBLISHED_AUTHORITY_RELOAD.json",
+    "bytes": 348612,
+    "sha256": "1a8aeb95d151ce5d890f27088cb41bc95e3b6ae78718359b9fe7570b03f1e8f0"
+  },
+  "current53_models_exact": true,
+  "new_scope": {
+    "schema": "konosuba.cohort33.evidence-proportionate-scope-assessment.v1",
+    "recorded_utc": "2026-10-24T10:25:19.326883+00:00",
+    "local_head": "40571cea9f7f7c596063ec511b40621c746a475c",
+    "latest_certified_source": "a36777f6eec6274b3da1b40e899b37bf279b46a0",
+    "native_review_receiving_sha256": "95a9fb9bd7c421f7730a4ca5d7ef32a59baa493e796c8ba99ce42016d7620a1a",
+    "complete_context_receiving_sha256": "bc9894acd1b52cbc189b813dbbe880d0f0c6a30b4b44cc8d982700db946e4342",
+    "native_notes_sha256": "eed8139484e8137a2b63271765bfaedc37ebbb942dbf9877d65cbc515bed45a3",
+    "all41_lexical_retrieval_sha256": "131a3504d252e29f79a841225755268665fab3b551fc108a8b5293e0250186c4",
+    "subjects": [
+      {
+        "row": 70,
+        "character": "Karen Donnelly / カレン (ドネリー家当主)",
+        "tier": 3,
+        "rules": 3,
+        "artifacts": [
+          "twelve-dimension monograph",
+          "separate asymmetric provisional model",
+          "dependent probes only after separate foundation and input freezes"
+        ],
+        "reason": "Direct reception/representative apology, useful-hire flattery versus comparative rivalry, own lending and rare-summon profit rationales, actual piece-rate payment and reversible threats/fear provide differentiated generative hypotheses. Concentrated arc, generic antagonist/fear/business rivals and unjoined MASK name remain explicit."
+      },
+      {
+        "row": 41,
+        "character": "Beat / ビート",
+        "tier": 1,
+        "artifacts": [
+          "individual compact profile"
+        ],
+        "reason": "Self-introduction, personal experience/level claim, active reassurance and changed response to status information support an individual interaction account. No repeated context or distinctive stable mechanism sufficient for a separate model; exact reaction-line mapping qualified."
+      },
+      {
+        "row": 42,
+        "character": "Clarice / クラリス",
+        "tier": 1,
+        "artifacts": [
+          "individual compact profile"
+        ],
+        "reason": "Welcome/party-balance invitation, explicitly attached name compliment, equipment/level reassurance and withdrawal in the shared scene supply a useful bounded profile. Does not inherit all male turns or every paired reaction; no invented inner life or model."
+      },
+      {
+        "row": 169,
+        "character": "クレイン (Crane retrieval only)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "A signed written payment justification and reported return support a narrow transaction/permission account and one actual written formulation. Return motive is contested and no direct spoken persona, consent receipt or stable generic Axis model is supplied."
+      },
+      {
+        "row": 173,
+        "character": "Unnamed inn woman reporting stolen snack (CONTEXP02)",
+        "tier": 1,
+        "artifacts": [
+          "compact profile"
+        ],
+        "reason": "Own loss report, fear of business reputation, escalating work solicitation and rejected request give meaningful choices and a local ordinary interest. Narrator employment guess and her inheritance/scout story retain their source layers."
+      }
+    ],
+    "existing_route_updates": [
+      {
+        "row": 62,
+        "disposition": "Preserve C32 reported-Karen tier, support and all frozen artifacts. Add only current route/identity qualification for the separately reviewed Donnelly subject; no surname/event bridge or certified unique-person split."
+      }
+    ],
+    "new_discovery_records_file": "COHORT33_NEW_DISCOVERY_RECORDS_DRAFT_01.json",
+    "new_discovery_records_sha256": "ed8937ce409d3ec373d49e4a7c6cd50cd19c4925be3046d6ebd0ed6487f44da4",
+    "new_records": 5,
+    "new_Tier0_records": 5,
+    "new_compact_profiles": 4,
+    "new_monographs": 1,
+    "new_models": 1,
+    "new_rules": 3,
+    "planned_existing_changed_rows": [
+      41,
+      42,
+      62,
+      70,
+      169,
+      173
+    ],
+    "planned_untouched_entering_rows": 309,
+    "planned_new_rows": [
+      315,
+      316,
+      317,
+      318,
+      319
+    ],
+    "planned_nonfinal_records": 320,
+    "planned_models_if_received": 53,
+    "planned_scoped_secondary_model_subjects": 47,
+    "planned_bounded_profiles": 78,
+    "planned_monograph_only_subjects": 27,
+    "planned_firsts": 6,
+    "planned_dependent_pairs": 3,
+    "exact_inputs_or_firsts_serialized": false,
+    "source_known": true,
+    "same_informed_root_authors_and_assesses_every_stage": true,
+    "all_contrasts_visible": true,
+    "classification_basis": "Actual choices, varied states, relationships and identifiable conditional behavior; no word/appearance/document/rule quota. Dense evidence can support unequal forms; these sparse profiles have no automatic later ceiling.",
+    "independent_accuracy_result": null,
+    "capability_grade": null,
+    "confidence_gain": null,
+    "new_whole_source_or_independent_credit": 0,
+    "new_role_records_not_unique_people": true,
+    "global_census_closed": false,
+    "global_completion_percentage": null,
+    "full_program_complete": false
+  },
+  "scope_qualification": "new_scope is the preserved dated preinput assessment. Its exact_inputs_or_firsts_serialized=false describes that drafting boundary; current production is separately recorded here.",
+  "actual_received_artifact_scope": {
+    "models": 53,
+    "scoped_secondary_model_subjects": 47,
+    "bounded_profiles": 78,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 320,
+    "new_models": 1,
+    "new_monographs": 1,
+    "new_compact_profiles": 4,
+    "new_Tier0_dispositions": 5,
+    "new_records": 5,
+    "new_Tier0_records": 5,
+    "new_rules": 3,
+    "new_original_firsts": 6,
+    "new_dependent_pairs": 3
+  },
+  "current_totals": {
+    "models": 53,
+    "scoped_secondary_model_subjects": 47,
+    "bounded_profiles": 78,
+    "monograph_only_subjects": 27,
+    "nonfinal_records": 320
+  },
+  "source_known_same_root_diagnostics": true,
+  "actual_original_firsts": 6,
+  "actual_dependent_pairs": 3,
+  "original_defects_preserved": [
+    "H01B exhibition ownership",
+    "H02B assurance-speaker attribution",
+    "H03A fee-role ambiguity"
+  ],
+  "final_nine_category_battery_complete": false,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "global_census_closed": false,
+  "global_completion_percentage": null,
+  "designated_global_outputs_authored": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,56 @@
+{
+  "schema": "konosuba.ozuma.original-firsts.v1",
+  "sealed_utc": "2026-10-25T02:26:45.967709+00:00",
+  "foundation_freeze_sha256": "f3f2154077ebcbc5109eea4142a7393f3cf09a8b13ed06d346e1b2b8c5210102",
+  "exact_input_sha256": "97d42b1bbbfcc5e618353598f0289428f8dd249a8d2ce0098c766c47365cb473",
+  "exact_input_freeze_sha256": "7f11f203d9232c3e9b05594192e5e3eaa7813b58c46e6db95b9ab35e8c5931b1",
+  "authorship": "Four direct once-authored English scene bodies by the source-informed root after input freeze; no generation loop, template-response materializer or feedback repair.",
+  "source_known_same_informed_root": true,
+  "contrasts_visible_before_first_authorship": true,
+  "possible_pretraining": true,
+  "responses": [
+    {
+      "scenario_id": "OZU-A1",
+      "attempt": 1,
+      "original_private_file": "OZUMA_FIRST_OUTPUT_A1_01.txt",
+      "original_UTF8_sha256": "a9c2475d89c2a8433a0321bff5e51430aaf5fa6fa82a9710f1e642b6f8a55314",
+      "word_count": 136,
+      "response_text": "Ozuma put a hand against the door before Megumi could pull it shut.\n\n“Hold on. Forty minutes, remember?”\n\nHe glanced back at the guide, then at Megumi.\n\n“The walk's finished. His payment isn't. We were happy enough to offer that time when we wanted him to show us around.”\n\nWaiting another twenty minutes did not suddenly sound entertaining. He folded his arms and settled against the wall anyway.\n\n“Go ahead,” he told the guide. “You don't have to keep looking over your shoulder. You've got the rest of the time.”\n\nThen, more quietly to Megumi: “Be annoyed at me for agreeing to it if you want. Don't make him pay for it.”\n\nHe looked toward the map, unable to see what was taking so long, and sighed.\n\n“Next time, remind me to offer coins. Just coins.”\n",
+      "regenerated": false,
+      "repaired": false
+    },
+    {
+      "scenario_id": "OZU-A2",
+      "attempt": 1,
+      "original_private_file": "OZUMA_FIRST_OUTPUT_A2_01.txt",
+      "original_UTF8_sha256": "11181a03096324b461672ca72f78bd8cc99c09c8c3e790c97c949a2ed33c6b6d",
+      "word_count": 134,
+      "response_text": "“Another twenty?” Ozuma repeated. “You really like that map.”\n\nHe looked at Megumi, who had already made her opinion clear, and rubbed the back of his neck.\n\n“We paid what we promised. You know that, so we're not having an argument about whether we've cheated you.”\n\nHe turned back to the guide.\n\n“Ask the shopkeeper first. It's his map, not mine. If he says you can stay, I can wait a little. I'm not buying another trip or keeping Megumi here all afternoon.”\n\nOzuma held up a hand before the guide could treat that as another settled bargain.\n\n“Ask him. Then ask her. I agreed to the first arrangement for both of us; I don't get to keep extending it because I'm standing closest to the door.”\n\nHe stepped aside, leaving the question open.\n",
+      "regenerated": false,
+      "repaired": false
+    },
+    {
+      "scenario_id": "OZU-B1",
+      "attempt": 1,
+      "original_private_file": "OZUMA_FIRST_OUTPUT_B1_01.txt",
+      "original_UTF8_sha256": "333a4c7964d7b90aa4bfe2200d6e9f1273c484487bc2f002b30deaca2de927a2",
+      "word_count": 156,
+      "response_text": "Ozuma watched the traveler take the last few steps off the bridge. Only then did he turn on the bystander.\n\n“You saw that too, didn't you? Or were you saving that story for when he finished helping someone?”\n\nHe faced the engineer again, his expression easing.\n\n“That was good work. Damn good work. I'll tell them what you did.”\n\nThe deposit story irritated him more now than it had a moment before. A man who would put that much effort into getting a stranger safely across hardly looked like someone who made a living taking money and running.\n\n“And if they're going to call you a cheat, they can bring something better than somebody else's story. People do get sour when another man can do what they can't.”\n\nHe gave the engineer a firm nod.\n\n“Come on. You can tell the others about the repair yourself. They ought to hear something besides the rubbish going around.”\n",
+      "regenerated": false,
+      "repaired": false
+    },
+    {
+      "scenario_id": "OZU-B2",
+      "attempt": 1,
+      "original_private_file": "OZUMA_FIRST_OUTPUT_B2_01.txt",
+      "original_UTF8_sha256": "3dcca59b9761cb114642679f5b58076726b1f6f3081fdb92520078edfa6b5dd7",
+      "word_count": 160,
+      "response_text": "Ozuma started to nod, then looked down at the loose wheel.\n\n“Wait. Don't put that together with what you did at the bridge.”\n\nHe moved nearer the courier, his voice hardening.\n\n“You took his ten coins. I heard you say you'd fix it. Now you're keeping the money and telling him no.”\n\nThe engineer's good work was still there behind them. So was the traveler he had brought across. Ozuma glanced toward the bridge, angry at having to argue after something worth admiring.\n\n“I can tell people you saved someone. I'm not going to stand here calling this a lie for you.”\n\nHe pointed at the wheel.\n\n“Do the repair, or give him the coins back. You don't need me shouting down stories. You need to sort out the thing happening right in front of us.”\n\nHe turned to the bystander without moving away from the courier.\n\n“That other customer—do you actually know him, or are you just repeating it?”\n",
+      "regenerated": false,
+      "repaired": false
+    }
+  ],
+  "feedback_or_annotation_received_before_seal": false,
+  "independent_pristine_or_native_acoustic_claim": false,
+  "full_program_complete": false
+}

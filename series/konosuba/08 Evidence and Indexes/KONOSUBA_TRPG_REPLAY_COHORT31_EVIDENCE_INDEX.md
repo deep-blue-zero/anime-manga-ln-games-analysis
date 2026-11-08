@@ -1,0 +1,54 @@
+# TRPG replay cohort 31: evidence, identities and current qualifications
+
+This source-known retrospective cohort concerns the Core and Advanced TRPG edited replays. It adds seven twelve-dimension monographs, five separate provisional PC models and bounded supporting-role profiles at the evidence they earn. 13 proposed rules are distributed 3/2/3/2/3 across Gilbert, Suzuki Chiho, Otohime, Temiren and 21. Tier 2 Froger and Goran receive no model. Scope, rule counts and future hypothetical exercises are not a census-completion percentage or independent validation.
+
+## Admitted sources and layers
+
+| Source | Local native SHA256 | Canonical reading route |
+| --- | --- | --- |
+| Core Rulebook, Japanese image EPUB | `038bfc2d98f5e30853e041942805c7fe17eb8487ee33b8f18da5507f9e57e59c` | [Core component register](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_CORE_COMPONENT_REGISTER.json) |
+| Advanced Rulebook, Japanese image EPUB | `2efe00b0a914cf725dfd8a52a1983b8f633705330054bf82b0b9e09165cd9e7c` | [Advanced component register](../10%20Expanded%20Corpus/TRPG/KONOSUBA_TRPG_ADV_COMPONENT_REGISTER.json) |
+
+The original 333 Core and 331 Advanced page records and their closed source gates retain their actual individual reading scopes. Old publication-pending fields are historical authorship states; the closed source gates own later publication. This cohort does not admit either whole book again. It directly rechecks 56 saved native page images at original detail and reads all 170 after-view replay notes, 73 Core S012-084 and 97 Advanced S012-108, in source order. It also reads all three current deep-reading/qualification derivatives. The [native provenance](KONOSUBA_TRPG_REPLAY_COHORT31_NATIVE_PROVENANCE.json) distinguishes current image views from previous admitted readings and derivative rechecks. Repeated views of Core S063-064 add no unique-page credit. A truncated combined attempt at ADV S092/S099/S100 earned zero; the same original saved images were subsequently received individually, without regeneration.
+
+Fixed-image wrappers and images have exact component joins. Printed page numbers must come from the register, not a guessed offset. Locators below use source plus S component: `Core S063` means `TRPG-CORE-S063`. No OCR, audio, new human reading, external game episode, novel event or independent observer is claimed. The books' creation/GM/player/PC/edited-narrator/rules/reference and unperformed-scenario layers remain distinct. Core scenario S298-311 and Advanced S295-309 are not replay actions. Reference balloons are not new main-novel scenes.
+
+## Evidence map
+
+| ID | Source components | Bounded observation and analytical use |
+| --- | --- | --- |
+| TR31-01 | Core S017-024; ADV S013-014, S022, S025-028 | PC names/profiles and construction; declared ages/backgrounds/costs differ from performed acts. Advanced explicitly returns Chiho.21 manufacturing name and one-head-tall proportions. |
+| TR31-02 | Core S025-029 | Otohime's danger avoidance, task selection, purchases, survival-limited promise and Chiho's actual Oath. Current recheck directly views S029; earlier pages remain admitted source/fully received notes. |
+| TR31-03 | Core S030, S048-049 | Temiren's requested wall-pin/substituted slap, pain/reinterpretation; donation-conditioned head-pat agreement without payment receipt; Bo Kujo reports abnormal raids and Temiren defends survival. |
+| TR31-04 | Core S063-066 | Froger researcher/portrait/diary; misheard king wish; army/sovereignty project; openly improvised Aqua insult and changed party priority. S065 uses the admitted reading and full note, not a new current image view. |
+| TR31-05 | Core S067-073 | Threatened Hanako, guards, education project, refusal of human restoration, canceled buff and actual attacks. Park language openly coauthored and proposed, not built. These are admitted source/full-note reread, not new current images. |
+| TR31-06 | Core S074-078, S080 | Chiho vulnerability, Otohime's actual costly return, Gilbert's Heal/Shield, Chiho's voluntary showcase risk and later46-damage defeat. Actual defeat is not certified permanent death. |
+| TR31-07 | Core S081-084 | Spared frog, returned Hanako, Bo Kujo thanks, rewards including GM-added cow award, skeptical rank report, artifact return intention, missing Banquet and planned social continuation. |
+| TR31-08 | ADV S025, S031-035 |2700 KE actual transfer; bedding inequality; milk refusal and odor-masking; card rank concealment; pressure after 21 denial; instrumental recruitment and unsupported 95% Axis. S031 is prior admitted/full-note, not a new image view. |
+| TR31-09 | ADV S045, S061, S065 | Surviving former subordinate toad distinct from Froger; Winter Hatamoto distinct from Winter Shogun; jewel-created artificial nature and successful identification. |
+| TR31-10 | ADV S074-077 | Zamzar investigation, no child/grandchild, will lead; newspaper and perception establish Wally/Goran identity; lying reputation versus shown evidence and evidence-erasing cheat. S074-075 use admitted/full-note reading. |
+| TR31-11 | ADV S079-082 |21 successful trap detection does not cover event lightning; Otohime actual small injury; Gilbert failed exorcism versus Temiren scroll success; target selection keeps21 safe; Temiren admits bothering for attention. S081 is an admitted illustration, S082 prior full-note; neither is a newly counted current view. |
+| TR31-12 | ADV S083-084 | Successful/failed searches; ザムザー will; valued dragon and separation; Chiho suggests a beautiful dying reunion and GM adopts it; Temiren expectations/invitation and Gilbert future hunt. Reported coauthored past is not current original-dragon testimony. |
+| TR31-13 | ADV S085-088 | Requested/accepted mediation; questions before interpretation; Otohime own fear explanation, acknowledgment and actual800 KE communication cost; Chiho partial acceptance/doubts/Oath; continued borrowing; 21 declines another loop. |
+| TR31-14 | ADV S089-092 | Jewels unlock basement and reveal bones; charitable judgments precede revelation; scenario-required confession, rejected town threat, mindless corpse animation; 21 actually swallows jewels/values warmth. S089 uses admitted/full-note reading. |
+| TR31-15 | ADV S099-100 | Failed checks,21 evasion, Otohime Covering/Gilbert support/real residual damage; 21 own belonging claim; installed statue 24 HP/MP recovery includes undead, explicitly facility data rather than Heal/miracle. |
+| TR31-16 | ADV S104-106, S108 | Self-destruct is magic damage but not magic attack; unperformed enemy-rescue jokes; house Cover82 survival without return; Goran disappears; powerless jewels; actual accounting/compensation and continued house permission; welcome/bath versus future mourning/adventures. |
+
+## Current identity and precision qualifications
+
+The following attributed corrections govern current cohort use of older compressed derivatives. Originals, seals and historical first readings remain unchanged.
+
+- スズキ・チホ / チホ controls both replays. Chio is an older derivative spelling error, with no native rename or separate-PC uncertainty. 出自:動画 remains as printed. Gilbert's full Japanese is クラリオン・ヒート・ギルバート; he is distinct from main-volume16 Gil. 御手洗音姫 is みたらいおとひめ; the PC is not a ReZero protagonist. Temiren/player and 21/player are explicitly separated.
+- 21 is a roughly 40 cm 一頭身 chimera, not a former-life counter. 藍藤唯 is the player; the village girl is openly newly invented background. The grown/married joke at ADV S027 is Otohime's, not a GM-confirmed fate. この身 is21's first-person form.
+- ボ・クジョウ has no extra long vowel. ハナコ is the cow actually returned; モモコ is reported at the farm but has no witnessed rescue/fate. Hanako's thanks is GM as-if personification, not literal human-language speech. Froger's surviving trained toad is not Froger himself.
+- Native 千本槍 is Thousand Spears, not Ten Spears. Core S063 lower-researcher disclosure and S064 joking GM Thousand Spears designation coexist. Gilbert's later executive embellishment is not verified. Advanced Goran's improvised hierarchy is not main-novel executive roster evidence. 冬旗本 is distinct from 冬将軍. ウォーリー is Goran's client presentation, not Zamzar's real grandson.
+- The researcher is ザムザー. The will's revised reunion is player-suggested/GM-adopted. The living/reported companion and animated mindless bones have different agency states.21 is not automatically that dragon or its relative.
+- Froger's defeat is shown; permanent death is not certified. Goran disappears as charcoal/dust and the ending says only he disappeared; irreversible cosmological fate is not separately established. Town destruction, the park, completed artifact return, proposed hunting, future Banquet, powered elemental baths and completed dragon memorial are not observed.
+- Covering's applicable doubling follows defense and the shared-attack condition under the current Core qualifications. A successful personal evade can change that application. The source's local numbers are retained; no exhaustive mechanics certification is made. Gilbert's cheat is 悪役の迫力, not an enemy cheat. The healing statue is facility data, not Heal/divine miracle. Magic damage is not automatically a magic attack.
+- Gilbert's donation condition has an agreement, not a completed transfer. Actual 2700 KE transfer, Suite/Economy inequality and800 KE scroll use are separate receipts. Continued borrowing, doubt, fear and professional friction survive local repair.95% sect claims are character rhetoric, not demographics. Unperformed jokes are not acts.
+
+## What the new artifacts can support
+
+Seven monographs separate identity, chronology, motives, affect, competence, decisions, relations, ordinary life, Japanese pragmatics, comic/serious transfer, countercases and gaps. Five PC models state propositions, support, contrary evidence, rivals, conditions, prohibited assumptions, confidence limits and falsifiers. Froger/Goran model exclusion is positive evidence-proportionate scope, not a secondary-character ceiling. Compact role records remain source-bound and do not count unique people or close the still-open TRPG population.
+
+The same informed author reads, models, will generate and will annotate. All contrasts will be visible; there is no blind judge, external model invocation, preregistered unseen source or independent observation. Planned 13 pairs / 26 original firsts follow foundation and exact-input freezes. They are bounded diagnostic attempts, not a final nine-category battery, independent accuracy, confidence gain or evaluator grade. Any later first-response failure remains immutable; a later model change requires an attributable successor. Earlier frozen principal/secondary models, source receipts, forecasts, scores, blanks and null fields keep their own authority and bytes. The full KonoSuba program remains open beyond this cohort.

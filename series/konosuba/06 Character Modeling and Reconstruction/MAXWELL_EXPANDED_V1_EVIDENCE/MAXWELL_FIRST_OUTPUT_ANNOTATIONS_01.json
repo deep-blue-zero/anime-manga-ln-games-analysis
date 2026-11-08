@@ -1,0 +1,163 @@
+{
+  "schema": "konosuba.cohort28.original-first-annotations.v1",
+  "subject": "Maxwell",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "original_output_file": "MAXWELL_FIRST_OUTPUTS_01.json",
+  "original_output_sha256": "44638171348d7f6b33162f50d68033d3ac1dc43acebd6ec36c8af4c70496b30f",
+  "cases": [
+    {
+      "case_id": "MX-H01-A",
+      "original_first_body_sha256": "c38f33733b998cfd9fad9ceecce27eeead843a11c2d45b8c647c75fdc2a2c261",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Ordinary shelf movement largely follows the capacity stipulation."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MX-H01-B",
+      "original_first_body_sha256": "dda26215156cb27f0dc4375eef952c1bcb1f014a62ab5316d321f4423e40ddef",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Limit and work request are source-like,but missing route makes the difference obvious."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MX-H02-A",
+      "original_first_body_sha256": "e7c88c70a8223603741132a3abd0716f4b1d43da43afbf5bb166a90dc7224a6a",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Unspecified contract cannot prove compulsion; avoidance/payment move overlaps released case."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MX-H02-B",
+      "original_first_body_sha256": "38582f695504b978e088549b9624e3415cae1ba82d93bb099af8d3401acf760e",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "INPUT_FIDELITY_FAILURE: prompt demands a strike; response says kill. Preserve escalation,do not normalize it.",
+        "Same basic payment pursuit as active case leaves contract mechanism unresolved."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MX-H03-A",
+      "original_first_body_sha256": "8d545ec5bbf92c3f3b35997ca78ea06a03a3110a1322824cb261da21934a0900",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Unwelcome persistence remains coercive; physical no-touch follows supplied limit."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "MX-H03-B",
+      "original_first_body_sha256": "d637f70645b2075c4df9299d34f5811bfdfb8223af91ef732d6363977e56b97f",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Departure without reward is plausible but weakly identified for an ordinary counterpart."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "MX-H01",
+      "primary_rule": "MX-R01",
+      "case_ids": [
+        "MX-H01-A",
+        "MX-H01-B"
+      ],
+      "actual_local_observation": "Known accessible target elicits movement toward shelf; unknown sealed target elicits limit statement and another-task request.",
+      "qualitative_assessment": "Capacity-consistent difference,not behavioral validation.",
+      "contrary_rival_and_design_limits": "Access alone strongly determines feasibility; repeated source-like address and explanatory guardposts are not tested Japanese voice or specific agency success.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "MX-H02",
+      "primary_rule": "MX-R02",
+      "case_ids": [
+        "MX-H02-A",
+        "MX-H02-B"
+      ],
+      "actual_local_observation": "Both avoid striking and approach/press Alderp for payment; released version states more explicit refusal.",
+      "qualitative_assessment": "NONISOLATING_PAIR_WITH_INPUT_FIDELITY_FAILURE_RETAINED.",
+      "contrary_rival_and_design_limits": "No action-level contract effect is established. Active terms leave violence unspecified. MX-H02-B changes requested strike to kill; source-language contamination/escalation is a defect. Do not count it as accurate task reading or successful fellow-devil refusal test.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "MX-H03",
+      "primary_rule": "MX-R03",
+      "case_ids": [
+        "MX-H03-A",
+        "MX-H03-B"
+      ],
+      "actual_local_observation": "Rewarding despair elicits lingering/unwelcome attachment speech; calm counterpart elicits turn toward departure/other work.",
+      "qualitative_assessment": "Visible attention difference,weak source-specific support.",
+      "contrary_rival_and_design_limits": "Reward-seeking/sadistic rivals and explicit emotion cues explain much. Stipulated no-touch/no-detention boundaries are not proof of care or moral improvement. No actual future harm or relationship is secured.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    }
+  ],
+  "retained_failures_and_limits": [
+    "Ordinary shelf movement largely follows the capacity stipulation.",
+    "Limit and work request are source-like,but missing route makes the difference obvious.",
+    "Unspecified contract cannot prove compulsion; avoidance/payment move overlaps released case.",
+    "INPUT_FIDELITY_FAILURE: prompt demands a strike; response says kill. Preserve escalation,do not normalize it.",
+    "Same basic payment pursuit as active case leaves contract mechanism unresolved.",
+    "Unwelcome persistence remains coercive; physical no-touch follows supplied limit.",
+    "Departure without reward is plausible but weakly identified for an ordinary counterpart."
+  ],
+  "shared_limitations": [
+    "Same informed root wrote models,all exact inputs,expectations,both responses and annotations; all prior and opposing material visible.",
+    "High cueing,generic rivals and stipulated capacities prevent model-specific causal attribution.",
+    "Audit-like narration and explicit future-boundary guardposts weaken natural performance across every subject.",
+    "English prose does not test Japanese printed voice,audio,L3 or the complete final battery.",
+    "No regeneration,feedback repair,independent validation,accuracy,grade or confidence gain."
+  ],
+  "completed_final_nine_category_battery": false,
+  "aggregate_accuracy_score": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

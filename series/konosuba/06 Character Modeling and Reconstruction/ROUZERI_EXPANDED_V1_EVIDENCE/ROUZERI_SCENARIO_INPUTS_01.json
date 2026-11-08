@@ -1,0 +1,109 @@
+{
+  "schema": "konosuba.character-scenario-inputs.v1",
+  "frozen_utc": "2026-10-24T18:46:01.593124+00:00",
+  "generation": "ROUZERI_EXPANDED_V1",
+  "subject": "Rouzeri / ルーゼリ",
+  "model_foundation_freeze_sha256": "2e8a6f6db0b8e35ab9b899d4563931208fb3c9cde19a6d8b6475f1940355be65",
+  "frozen_model": {
+    "file": "ROUZERI_MODEL_DRAFT_02.md",
+    "bytes": 7679,
+    "sha256": "dfb29ef6a18fcc72a9ef8aff1d6e7957dfb3be07ee4c113bd397685c9b9e79ec"
+  },
+  "frozen_rule_inventory": {
+    "file": "ROUZERI_RULE_INVENTORY_DRAFT_02.json",
+    "bytes": 5716,
+    "sha256": "82680dd56425c4b1b784b32c8e3a3b725496270c8ee57653b2d197bc6a057b56"
+  },
+  "cases": [
+    {
+      "case_id": "ROU-A1",
+      "pair_id": "ROU-A",
+      "generation": "ROUZERI_EXPANDED_V1",
+      "mode": "CANONICAL_COMIC",
+      "categories": [
+        "fear_or_danger",
+        "resource_conflict"
+      ],
+      "shared_state": "Rouzeri is still an army commander and still values her place in that army. At an unfamiliar river causeway she is trying to bring one supply cart back to her unit. A much stronger stone colossus has cut the road. Her wing is strained:for the next hour she cannot fly or carry the cart through the air. She can still walk,transform and fight,but knows a direct fight is a serious disadvantage. There are no civilians present. A ferryman offers space for her and the cart;the boat leaves in ten minutes. She has the current written terms in front of her and credits them as genuine. She can inspect them,ask the ferryman a question,board or stay on the causeway. There is no second boat,hidden route,new weapon,unexpected rescue or command message.",
+      "variant_fact": "The ferry is an authorized military fallback. It lands at her own army depot;using it preserves her command and counts as following the current retreat order. No public defection or loss of membership is required.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Rouzeri / ルーゼリ\nMode: CANONICAL_COMIC\n\nRouzeri is still an army commander and still values her place in that army. At an unfamiliar river causeway she is trying to bring one supply cart back to her unit. A much stronger stone colossus has cut the road. Her wing is strained:for the next hour she cannot fly or carry the cart through the air. She can still walk,transform and fight,but knows a direct fight is a serious disadvantage. There are no civilians present. A ferryman offers space for her and the cart;the boat leaves in ten minutes. She has the current written terms in front of her and credits them as genuine. She can inspect them,ask the ferryman a question,board or stay on the causeway. There is no second boat,hidden route,new weapon,unexpected rescue or command message.\n\nPresent variant fact: The ferry is an authorized military fallback. It lands at her own army depot;using it preserves her command and counts as following the current retreat order. No public defection or loss of membership is required.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "773445b2c240f80687ac5d2b2dae74ec4302fb44a272f2f04194f4c8a2ae791a"
+    },
+    {
+      "case_id": "ROU-A2",
+      "pair_id": "ROU-A",
+      "generation": "ROUZERI_EXPANDED_V1",
+      "mode": "CANONICAL_COMIC",
+      "categories": [
+        "fear_or_danger",
+        "resource_conflict"
+      ],
+      "shared_state": "Rouzeri is still an army commander and still values her place in that army. At an unfamiliar river causeway she is trying to bring one supply cart back to her unit. A much stronger stone colossus has cut the road. Her wing is strained:for the next hour she cannot fly or carry the cart through the air. She can still walk,transform and fight,but knows a direct fight is a serious disadvantage. There are no civilians present. A ferryman offers space for her and the cart;the boat leaves in ten minutes. She has the current written terms in front of her and credits them as genuine. She can inspect them,ask the ferryman a question,board or stay on the causeway. There is no second boat,hidden route,new weapon,unexpected rescue or command message.",
+      "variant_fact": "The ferry lands at a human-run camp. Taking the offered place requires a public,permanent resignation from the army and service on the human side. She understands that these are the terms;there is no promise that her former unit will accept her back.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Rouzeri / ルーゼリ\nMode: CANONICAL_COMIC\n\nRouzeri is still an army commander and still values her place in that army. At an unfamiliar river causeway she is trying to bring one supply cart back to her unit. A much stronger stone colossus has cut the road. Her wing is strained:for the next hour she cannot fly or carry the cart through the air. She can still walk,transform and fight,but knows a direct fight is a serious disadvantage. There are no civilians present. A ferryman offers space for her and the cart;the boat leaves in ten minutes. She has the current written terms in front of her and credits them as genuine. She can inspect them,ask the ferryman a question,board or stay on the causeway. There is no second boat,hidden route,new weapon,unexpected rescue or command message.\n\nPresent variant fact: The ferry lands at a human-run camp. Taking the offered place requires a public,permanent resignation from the army and service on the human side. She understands that these are the terms;there is no promise that her former unit will accept her back.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "2413fb450978b962d910ff05cdc99f12caa3f548f15de9f3f56e3a01e45b088b"
+    },
+    {
+      "case_id": "ROU-B1",
+      "pair_id": "ROU-B",
+      "generation": "ROUZERI_EXPANDED_V1",
+      "mode": "MUNDANE_HUMAN_TRANSFER",
+      "categories": [
+        "mundane_inconvenience",
+        "public_embarrassment",
+        "competence_domain_shift"
+      ],
+      "shared_state": "In this explicitly human setting,Rouzeri is a dispatch manager at a delivery cooperative. She likes the work and her current team. An equipment stoppage has delayed her shipment before a public performance review. She has a phone,the written offer and ten minutes before transport leaves. A temporary sorting job at another depot would let the shipment move. She has no magic,dragon body,superhuman strength or special power over the equipment. She may ask for clarification,accept the offer or decline and account for the delay. No later decision by the board,a new engineer or a secret waiver is supplied.",
+      "variant_fact": "The cooperative has verified in writing that the six-hour transfer keeps her employed in her present role;she will return to her own team afterward and may accurately describe it as the approved recovery plan.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Rouzeri / ルーゼリ\nMode: MUNDANE_HUMAN_TRANSFER\n\nIn this explicitly human setting,Rouzeri is a dispatch manager at a delivery cooperative. She likes the work and her current team. An equipment stoppage has delayed her shipment before a public performance review. She has a phone,the written offer and ten minutes before transport leaves. A temporary sorting job at another depot would let the shipment move. She has no magic,dragon body,superhuman strength or special power over the equipment. She may ask for clarification,accept the offer or decline and account for the delay. No later decision by the board,a new engineer or a secret waiver is supplied.\n\nPresent variant fact: The cooperative has verified in writing that the six-hour transfer keeps her employed in her present role;she will return to her own team afterward and may accurately describe it as the approved recovery plan.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "a40481277cfd6fa258ac21e76dbf357a34a556a030744101febd47f890d3cafd"
+    },
+    {
+      "case_id": "ROU-B2",
+      "pair_id": "ROU-B",
+      "generation": "ROUZERI_EXPANDED_V1",
+      "mode": "MUNDANE_HUMAN_TRANSFER",
+      "categories": [
+        "mundane_inconvenience",
+        "public_embarrassment",
+        "competence_domain_shift"
+      ],
+      "shared_state": "In this explicitly human setting,Rouzeri is a dispatch manager at a delivery cooperative. She likes the work and her current team. An equipment stoppage has delayed her shipment before a public performance review. She has a phone,the written offer and ten minutes before transport leaves. A temporary sorting job at another depot would let the shipment move. She has no magic,dragon body,superhuman strength or special power over the equipment. She may ask for clarification,accept the offer or decline and account for the delay. No later decision by the board,a new engineer or a secret waiver is supplied.",
+      "variant_fact": "The written offer is from a competing company. It requires her resignation from the cooperative today and a public statement that she is leaving her former team behind. The offered pay is adequate,but there is no guaranteed route back.",
+      "output_request": "Write a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "exact_prompt": "Subject: Rouzeri / ルーゼリ\nMode: MUNDANE_HUMAN_TRANSFER\n\nIn this explicitly human setting,Rouzeri is a dispatch manager at a delivery cooperative. She likes the work and her current team. An equipment stoppage has delayed her shipment before a public performance review. She has a phone,the written offer and ten minutes before transport leaves. A temporary sorting job at another depot would let the shipment move. She has no magic,dragon body,superhuman strength or special power over the equipment. She may ask for clarification,accept the offer or decline and account for the delay. No later decision by the board,a new engineer or a secret waiver is supplied.\n\nPresent variant fact: The written offer is from a competing company. It requires her resignation from the cooperative today and a public statement that she is leaving her former team behind. The offered pay is adequate,but there is no guaranteed route back.\n\nWrite a short third-person scene with at least one utterance by the subject and a concrete next action. Enact the choice;do not explain,cite or summarize the model. Treat this as a new noncanonical situation. Use only the supplied present facts plus the frozen character model;do not invent completed prior promises,hidden helpers,new possessions or offstage outcomes. Preserve other people ownership,knowledge and expressed limits.",
+      "prompt_sha256": "87676d818b75a32dc5f18c3cdf7e3b790f42d71c306b2d7bed8c40c4345445b1"
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "ROU-A",
+      "case_ids": [
+        "ROU-A1",
+        "ROU-A2"
+      ],
+      "control_limit": "One offered-route consequence package changes,including destination and membership/status terms. This is not an isolated affiliation cue or a prediction of a unique optimal choice under all danger levels. Generic strategic caution and job dependence remain rivals."
+    },
+    {
+      "pair_id": "ROU-B",
+      "case_ids": [
+        "ROU-B1",
+        "ROU-B2"
+      ],
+      "control_limit": "The same broad exit-cost distinction is reused in a new ordinary setting;the two pairs are dependent and the membership terms are explicit in the prompt. They do not isolate character-specific causation from generic employment preferences or establish a final category result."
+    }
+  ],
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "novel_situations_not_canonical_events": true,
+  "no_actual_firsts_yet": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

@@ -1,0 +1,181 @@
+{
+  "schema": "yurucamp-frozen-artifact-preservation/v1",
+  "basis_commit": "cfddecb9b5b05ce7b5b25060673ed2e77639da6c",
+  "purpose": "Exact Git identities; distinct from historical Drive-export hashes. These artifacts must remain byte-identical during the repair.",
+  "artifacts": [
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/00_PHASE0_README.md",
+      "bytes": 522,
+      "sha256": "51c28bf883fe4a3da2df00c889fd98db01b194a6296efca51044c1127ed6e329",
+      "git_blob": "80ab653c6c04f5738716970506d6a213910816e2"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_EDITION_AND_PAGINATION_NOTES.md",
+      "bytes": 6147,
+      "sha256": "fc6be3052eab211f5103fcd62ccf1384d43f10adf7cf2a4dcf5cfb0edd5b2b50",
+      "git_blob": "d76b46ef90ea28aecb689232bbb2331ca5b0bf87"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_PHASE0_CORPUS_AUDIT_AND_SOURCE_LOCK.md",
+      "bytes": 7355,
+      "sha256": "292f95f4661949c270033ae66611a2848d966b5876c03bf5ca1b86ca17629db2",
+      "git_blob": "621983c7ed6a38cc1a52ffbe2b46b993f7aa31c9"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_PHASE0_MACHINE_AUDIT.json",
+      "bytes": 215391,
+      "sha256": "f13db5b7736319d05c9311d9e0a44f1d1ba9ba09207c7ef24e27d13885dae2b0",
+      "git_blob": "717b8b922ace29ac1e6a6f88108e5a6781f5aba8"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_SOURCE_CHECKSUMS.sha256",
+      "bytes": 2188,
+      "sha256": "1fa07752f35e5746588124a414b170c774c2586e49a98d54086ed7d2d6c58186",
+      "git_blob": "ca6a51bcde4fef2714c750a696a4fb232d682291"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_SOURCE_GAPS_AND_SUPPLEMENTS.md",
+      "bytes": 3895,
+      "sha256": "2ab9bf9f8b2ed953827077d47e213e54ac5433f8412ec25c893546e80eadc20a",
+      "git_blob": "1dcf226baf6c38e610cf8a75c9b4c1cb48fb3466"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_SOURCE_INVENTORY.md",
+      "bytes": 6334,
+      "sha256": "20b0de6233903e667749727f2827bf9e4b25bd26b097c306be0cdbb1aff1fec8",
+      "git_blob": "fd80d0964d974942e58670787cbea208176efd1f"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/YURUCAMP_SOURCE_MANIFEST.json",
+      "bytes": 11836,
+      "sha256": "0177a6d82b5850cf7e7c9c1e0d9aa0a6e4a2a8e6998cebbc3e72d046b144be04",
+      "git_blob": "61585ec27c352ae8bbda13c3aead7ef9fdd02923"
+    },
+    {
+      "path": "series/yuru-camp/02 Source Lock and Inventory/Yuru_Camp_Phase0_Corpus_Audit_and_Source_Lock.zip.sha256",
+      "bytes": 126,
+      "sha256": "09c8c22c0474160c5a47e0f91c789628c8447c6be7108c0f3995a946f0c515be",
+      "git_blob": "fc54710f274ba20789cea45e6475654c37f52738"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V01-V03_CHECKPOINT.md",
+      "bytes": 67222,
+      "sha256": "30cbe097cb5e1d12367829317ccb54a9e31901e46f8f1071bae01fa619bd5cd2",
+      "git_blob": "b3abe2431bb0f6d7ba5e2d004db2535b8308ec81"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V01_DEEP_READING.md",
+      "bytes": 74715,
+      "sha256": "e421ae386eb9b3ec157cbaa7eebcc0e45ee12dd42275a9d1fb9ec282cc9a9273",
+      "git_blob": "5b9de71f129b221ff89e09298009d02a44836fe1"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V02_DEEP_READING.md",
+      "bytes": 93754,
+      "sha256": "c7a6052fc99ad8622831efd26abd052cb006c3040eb8e96fca85ef8b328fca15",
+      "git_blob": "36fbca7ffc172cd111642e827f832c09a11305ff"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V03_DEEP_READING.md",
+      "bytes": 109713,
+      "sha256": "56da282e4c02d68936d4179174dfdb9211fd411f5bb955fd2245178d64e08c47",
+      "git_blob": "70e7668a17a66e9c6957d4f5c00640772a892316"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V04-V06_CHECKPOINT.md",
+      "bytes": 78390,
+      "sha256": "6914948de292105c891971282b4c1696d8228da2be03a99d354098e361684f57",
+      "git_blob": "0cb2f743a068e6e87e58660de8bff7ddf6a0622a"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V04_DEEP_READING.md",
+      "bytes": 83573,
+      "sha256": "639a6d8c5ca02d03fdbe4bd9c003b84459af066c6ac9546e5a2bca95d9a61a8f",
+      "git_blob": "2f8593fc15d3120fb896d4f50b618c4865a647a5"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V05_DEEP_READING.md",
+      "bytes": 85574,
+      "sha256": "550f017459a633f1d5d2b3f794f320eb80eee3a0777d4d29458c487dd3905cf1",
+      "git_blob": "95a934a3a97dce6d947f8a0e71134546ff73bb83"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V06_DEEP_READING.md",
+      "bytes": 103014,
+      "sha256": "64194c8c62d90db0a980b68aa1478b20286e523437d3d182c0469db9e2f06a4f",
+      "git_blob": "5405e38cca4935883b1df8f3afe92f1bce17e692"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V07-V09_CHECKPOINT.md",
+      "bytes": 101744,
+      "sha256": "be32b26edb4f535b07017c5f18bf72174abe772160044c07d0f2e129d1890e81",
+      "git_blob": "325d4f9cf195fb5b4465d064dfd83051b6802be9"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V07_DEEP_READING.md",
+      "bytes": 101752,
+      "sha256": "391440fb42c76ad93cb93acb51c39d5d5648ac62bc07ae08856fb0626dda186a",
+      "git_blob": "d7deca205d7c183d7ad04fc55934d9efba696bc4"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V08_DEEP_READING.md",
+      "bytes": 104746,
+      "sha256": "5206378ac07ff5fe9597beef58305cbadfbee228adf303b918ec97f8c3bb7a96",
+      "git_blob": "b13afa60c929cf879f4a2f3793218ce85890ccda"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V09_DEEP_READING.md",
+      "bytes": 115959,
+      "sha256": "18d739c51ccf96116410d029ef2fb5221e8059d145a7bbf68d547ed2a97702b8",
+      "git_blob": "92dc85be0c8f2936aed6ec834bf85faa3584c07f"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V10-V12_CHECKPOINT.md",
+      "bytes": 119857,
+      "sha256": "c8cebb975e73dc20dae6c9e321579ed0aad1afd5c282c33e6e7052f3c1157cd6",
+      "git_blob": "9e2d592b7ec4a549358ab32c7175c7768d8016aa"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V10_DEEP_READING.md",
+      "bytes": 88635,
+      "sha256": "882076c519eecd0ad1ec9d4141412e47072196a565791c6db270d6ed5cebda4c",
+      "git_blob": "04f58c7ab1d8cf958b425aa6defea1e4d5f00945"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V11_DEEP_READING.md",
+      "bytes": 88874,
+      "sha256": "a18282e99d37486dabc73d234b218f63494537bc6a1fe3d4d0deb72642157309",
+      "git_blob": "d3eacc3fe266d21c732ffe600210176fec342f7e"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V12_DEEP_READING.md",
+      "bytes": 92999,
+      "sha256": "c8484d95ffb03bb4097cda8c18bfc18dccbf4a97a9fa397903af62694713c89e",
+      "git_blob": "ecc1c398d40c09d337ba6a7cf2f083b25909e8a1"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V13-V15_CHECKPOINT.md",
+      "bytes": 88536,
+      "sha256": "842657eff8724b23a66e3b1cf6c417dac0bc83c69b6943d3a0d2e8864b61d1da",
+      "git_blob": "2807374ea72453b2e65ec219f393ac4449dadb3e"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V13_DEEP_READING.md",
+      "bytes": 77925,
+      "sha256": "1dbdfdbb2cc2473d0417f1f5bd1e68390da1206f90588e6833b62b6cbeb6ff38",
+      "git_blob": "31107c6b474ba459f3af3ef2ff22b15bda161845"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V14_DEEP_READING.md",
+      "bytes": 74823,
+      "sha256": "9478bc81bc32f776938f75b1ab00323f6a936dae7e5b98423b64e7b7ad08a21c",
+      "git_blob": "e49abc556440d4678c61e20ce9fea9eab9101e6c"
+    },
+    {
+      "path": "series/yuru-camp/03 Volume Deep Readings/YURUCAMP_V15_DEEP_READING.md",
+      "bytes": 67987,
+      "sha256": "69208b599be932821a4c6de41b232b175907b5d434e90aa7dd2b6bbbf9ef7a7b",
+      "git_blob": "15e05bfee0dbb3f238f47d7fede8df12af78bd36"
+    }
+  ]
+}
