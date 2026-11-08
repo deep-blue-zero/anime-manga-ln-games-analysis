@@ -911,6 +911,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "the-ramparts-of-ice",
+      "stable_slug": "the-ramparts-of-ice",
+      "canonical_title": "The Ramparts of Ice / 氷の城壁",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/the-ramparts-of-ice/",
+      "canonical_entrypoint": "series/the-ramparts-of-ice/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_RAMPARTS_OF_ICE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese full-colour tankobon analysis of character development, directed relationships, source-language expression and edition-specific visual form, with bounded reconstruction."
+    },
+    {
       "series_id": "three-days-of-happiness",
       "stable_slug": "three-days-of-happiness",
       "canonical_title": "Three Days of Happiness",
