@@ -331,6 +331,42 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Evidence at basis commit:
   - [`mushoku-tensei:roxy@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/141711495d1fc86a86c6db882e6e734ad9efc91e/series/mushoku-tensei/04%20Character%20Analysis/roxy/RECONSTRUCTION_MODEL.md)
 
+### Subject `mushoku-tensei:rudeus@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/rudeus@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/rudeus@light-novel.jsonl)
+
+<a id="mushoku-tensei-rudeus-ln-v01-v15-monographs-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-rudeus-ln-v01-v15-monographs-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:rudeus`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:rudeus@light-novel\#monograph-v01-v10 and \#monograph-v01-v15, the two canonical Rudeus character monographs \(each version 1.0\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V10 and V01-V15. Both monographs state that the Rudeus reconstruction model owns his conditional rules and state selectors and that an evidence index and shared ledger own the observations; the model \(revision 1.12\), the index, the ledgers, the readings and the checkpoints are not curated on this subject and are not used as evidence here. The project's current-state entrypoint was read for method and gate state only. The older self's diary, the elder's testimony and Orsted's account of reincarnation are attributed accounts, not accomplished chronology or verified cosmology. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
+- Temporal boundary: Japanese light novels V01-V15, the authorized terminal volume: the V01-V10 monograph is a historical argument frozen at its V10 boundary, and the V01-V15 monograph extends it through V11 \(Norn\), V12 \(Paul's death and Zenith's impairment\), V13 \(fatherhood, the Sara meeting\), V14 and V15 \(the diary, Hitogami's coercion, the ambush, the rescue, the Orsted employment terms and the marriage to Eris\). The curated evidence gives no state selectors; states are named only by volume and source locator. Nothing after V15 is established, his disclosure to Roxy and Sylphiette of the origin account is still pending at the boundary, and no earlier state acquires later knowledge.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `76662e8b9039387908818a86355af3742ce3e03841eb45c9cd4807b475356d26`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology A single named volume state within V01-V15 with that volume's knowledge only; the V01-V10 argument for states up to V10, nothing after V15, and diary or elder testimony never treated as his accomplished past or future.; interlocutor Only attested recipients in their volume-specific relation: Roxy, Eris, Sylphiette, Paul, Zenith, Norn, Aisha, Ruijerd, Zanoba, Cliff, Nanahoshi, Juli, Sara, Orsted and Hitogami.; settings The Japanese light-novel settings of V01-V15 only; Technical capacity is not comprehensive authority or knowledge of another person's needs; One accepted correction does not justify universal candor, and recognized reasons need not govern his next choice; Materially novel contexts end in abstention
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `attributed-accounts` (evidence-backed limitation): The older self's diary, the elder's testimony and Orsted's reincarnation account are attributed accounts; they cannot supply young Rudeus with future powers or serve as verified chronology or cosmology.
+  - `boundaries-persist` (evidence-backed limitation): Earlier refusals remain refusals after later closeness, marriage creates no universal access, and a stated boundary was violated again after he acknowledged it; comic presentation does not remove the affected person's response.
+  - `competence-not-authority` (evidence-backed limitation): Technical capacity does not confer knowledge of others' needs or comprehensive authority, and high magical output does not make him a capable teacher of every learner.
+  - `horizon-v15` (evidence gap): Nothing after V15 is assessed; whether his capacity to accept correction holds under another threat is left open, and his disclosure to Roxy and Sylphiette is pending.
+  - `impression-control-bounded` (evidence-backed limitation): His tendency to arrange a desired response applies to specific opportunities under apparently manageable risk; not every gift, joke, plan or act of aid conceals exploitation.
+  - `no-conversion-no-pure-control` (evidence-backed limitation): Neither a decisive moral conversion at V15 nor a reading in which every gain is selfish control fits the evidence; concealment recurs and correction is also accepted.
+  - `not-a-simulator` (evidence-backed limitation): The V01-V15 monograph states that its account is explanatory constraints, not a validated simulator; scene evidence is stronger than mechanism generalization, and all domains remain BOUNDED\_PROVISIONAL with abstention in unsupported contexts.
+  - `operational-model-uncurated` (evidence gap): The Rudeus reconstruction model \(revision 1.12, nine rules, 55 states, 87 checks\), the evidence index, the shared ledgers, the readings and the checkpoints are not curated on this subject; rule and state claims are known here only as the monographs report them. Missing support is not evidence of absence.
+  - `recognized-reasons-not-governing` (evidence-backed limitation): Recognizing another person's need or objection does not reliably govern his next action; accurate empathy can coexist with deliberate pressure, as with Nanahoshi in V15.
+  - `retrospective-fit-only` (evidence-backed limitation): Prior franchise familiarity is declared, so retrospective fit is not clean prediction, and no DOMAIN\_READY status or clinical diagnosis follows.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+- Evidence at basis commit:
+  - [`mushoku-tensei:rudeus@light-novel#monograph-v01-v10`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md)
+  - [`mushoku-tensei:rudeus@light-novel#monograph-v01-v15`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH_V01_V15.md)
+
 ### Subject `mushoku-tensei:ruijerd@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/ruijerd@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/ruijerd@light-novel.jsonl)
@@ -371,6 +407,48 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
   - `warrior-status-not-invulnerability` (evidence-backed limitation): Recognizing someone as a warrior can lead him to expect self-sufficiency and supply less care than needed; recognition does not mean adult invulnerability, and care remains possible alongside respect.
 - Evidence at basis commit:
   - [`mushoku-tensei:ruijerd@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/ruijerd/RECONSTRUCTION_MODEL.md)
+
+### Subject `mushoku-tensei:sara@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/sara@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/sara@light-novel.jsonl)
+
+<a id="mushoku-tensei-sara-ln-v07-v13-model-20261108-01"></a>
+
+#### Assessment `mushoku-tensei-sara-ln-v07-v13-model-20261108-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:sara`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:sara@light-novel\#character-model, the canonical Sara bounded reconstruction model \(generation V1, revision 1.1\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V13, with direct Sara grounds in V07 and V13 only. The model routes its observations to an evidence index, the V07 and V13 deep readings, the shared state ledger and the V07 recognition checkpoint, none of which is curated on this subject or used as evidence here. The project's current-state entrypoint was read for method and gate state only; it records that Sara 1.1 retains its earlier ceiling after the V14-V15 review. Her account of her parents' loss is her testimony, and her party's S rank is not certification of her personal rank. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
+- Temporal boundary: The model's eight selectors MT-SM-ST01 to ST08: V07 early party contact and class distrust \(ST01\), the ruins return and differentiated smiles \(ST02\), forest danger, injury, survival and rescue \(ST03\), companionship, shopping and undisclosed affection \(ST04\), the failed approach and overheard insult \(ST05\) and the confidants' correction and missed conversation after Rudeus's departure \(ST06\); and V13 the professional reunion and intended apology after years apart \(ST07\) and repaired companionship with explicit romantic closure \(ST08\). Age sixteen is explicit only in the late V07 conflict account; no state covers V08-V12, the intervening years are unobserved, nothing after V13 is established and no earlier state acquires later knowledge.
+- Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `cec82e2c47299e792d66ceee01b6226537596a80c8e50925f79613f66586ecfb`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any single named selector MT-SM-ST01 to ST06 in V07 or ST07 to ST08 in V13, with that state's knowledge only; no state for V08-V12, nothing after V13, and V07 desire never applied to the V13 states.; interlocutor Only attested recipients in their state-specific relation: Rudeus as suspect colleague, valued person, desired partner, feared source of rejection or, in V13, repaired companion with romance closed; Timothy as trusted leader; Suzanne as confidant; Elise as unfamiliar and angry informant; and party teammates.; settings The V07 adventurer-party, ruins, forest, town and shopping settings and the V13 professional escort reunion of the Japanese light novels; Her party's rank is not her personal rank, she lacks Rudeus's magical capacities and she can need rescue; No adult domestic life, unfamiliar diplomacy or politics, clinical explanation or covert new courtship; Near-analog situations only; materially novel contexts end in abstention
+  - `MUNDANE_SOCIAL` condition: Only ordinary help, repayment, purchase advice, equipment cost and invitations within familiar party relationships, as near analogs of V07:017-019 and V13:026.
+  - `MUNDANE_SOCIAL` condition: Reciprocity preserves dignity and is not a purchased-affection script; appreciation never obliges renewed intimacy, and the V13 romantic boundary governs the V13 states.
+  - `MUNDANE_SOCIAL` condition: No settled domestic life, family practice or long-term ambition; the selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+  - `PROFESSIONAL_CONTEXT` condition: Only adventurer-party teamwork, survival and escort work in attested Japanese light-novel settings, as near analogs.
+  - `PROFESSIONAL_CONTEXT` condition: She lacks Rudeus's magical capacities, can be injured and may need rescue; retreat and loss remain possible outcomes.
+  - `PROFESSIONAL_CONTEXT` condition: Her party's S rank is not her personal rank, and no complete career history is assumed.
+  - `PROFESSIONAL_CONTEXT` condition: The selected state's knowledge only; output is behavior described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-domestic-politics-unknown` (evidence gap): Adult domestic life, family practice, long-term ambition, political beliefs, clinical mechanisms and ordinary habits beyond the listed items are not established; this is a gap, not evidence of incapacity.
+  - `class-revision-person-specific` (evidence-backed limitation): Her revision of the noble category is specific to Rudeus after repeated costly action and a trusted comparison; it is not forgiveness of nobles in general, and no comparable new suspected-noble trial is observed.
+  - `focalization-not-truth` (evidence-backed limitation): Her focalized interpretations establish her motives but not the accuracy of her reading of others; local focalization is not global truth authority.
+  - `horizon-v07-v13-no-v08-v12` (evidence gap): Direct grounds cover V07 and V13 only; the years between are unobserved, the entrypoint keeps the model at its earlier ceiling after the V14-V15 review, and nothing after V13 is assessed.
+  - `insult-real-ridicule-overread` (evidence-backed limitation): The insult she overheard was real, but she imagined more prolonged mockery than occurred; both the hurt and its correctability must be preserved.
+  - `needs-rescue-not-passive` (evidence-backed limitation): She contributes causally to survival with a decoy, shelter and injury management but could not escape without aid; she is neither a helpless reward object nor an always-successful rescuer.
+  - `party-rank-not-personal-rank` (evidence-backed limitation): Her V13 report places her, recruited at A rank, in a party ranked S; party rank is not independent certification of her personal S rank or complete career.
+  - `retrospective-calibration-only` (evidence-backed limitation): All ten checks are retrospective fits with disclosed prior franchise familiarity, not clean holdouts or registered predictions, and no domain is DOMAIN\_READY.
+  - `uncurated-index-readings-ledger` (evidence gap): The evidence index, deep readings, shared ledger and V07 checkpoint to which the model routes its observations are not curated on this subject, so its locators were not rechecked here and no independent reconstruction test is in the evidence set. Missing support is not evidence of absence.
+  - `v13-boundary-governs` (evidence-backed limitation): In V13 she states that her romantic feeling is over and accepts ordinary companionship; historical V07 concealed desire must never override that boundary, and her direct words are not a code for opposite intent.
+  - `voice-unquoted` (evidence gap): No wording, self-reference or acoustic performance is in evidence; register is described only in prose.
+- Evidence at basis commit:
+  - [`mushoku-tensei:sara@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/sara/RECONSTRUCTION_MODEL.md)
 
 ### Subject `mushoku-tensei:sylphiette@light-novel`
 
