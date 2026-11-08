@@ -312,6 +312,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "look-back",
+      "stable_slug": "look-back",
+      "canonical_title": "Look Back / ルックバック",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/look-back/",
+      "canonical_entrypoint": "series/look-back/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_LOOK_BACK_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Standalone Japanese manga study of scene-level causality, character and directed relationships, language and visual form, with bounded character reconstruction."
+    },
+    {
       "series_id": "love-live-superstar",
       "stable_slug": "love-live-superstar",
       "canonical_title": "Love Live! Superstar!!",
