@@ -167,6 +167,22 @@
       "catalog_note": "Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git."
     },
     {
+      "series_id": "domestic-girlfriend",
+      "stable_slug": "domestic-girlfriend",
+      "canonical_title": "Domestic Girlfriend / ドメスティックな彼女",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/domestic-girlfriend/",
+      "canonical_entrypoint": "series/domestic-girlfriend/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DOMESTIC_GIRLFRIEND_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons."
+    },
+    {
       "series_id": "gakuen-idolmaster",
       "stable_slug": "gakuen-idolmaster",
       "canonical_title": "Gakuen Idolmaster",
@@ -310,6 +326,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T07_LOGH_FULL_PREFIX",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "look-back",
+      "stable_slug": "look-back",
+      "canonical_title": "Look Back / ルックバック",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/look-back/",
+      "canonical_entrypoint": "series/look-back/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_LOOK_BACK_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Standalone Japanese manga study of scene-level causality, character and directed relationships, language and visual form, with bounded character reconstruction."
     },
     {
       "series_id": "love-live-superstar",
@@ -616,6 +648,22 @@
       "catalog_note": "Japanese-language TV anime E01-E12 source bundles inventoried and locked; analytical foundation adopted; sequential run authorized through E12 with channel-specific AV debts tracked separately."
     },
     {
+      "series_id": "scums-wish",
+      "stable_slug": "scums-wish",
+      "canonical_title": "Scum’s Wish / クズの本懐",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/scums-wish/",
+      "canonical_entrypoint": "series/scums-wish/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SCUMS_WISH_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction."
+    },
+    {
       "series_id": "shine-post",
       "stable_slug": "shine-post",
       "canonical_title": "SHINE POST",
@@ -709,6 +757,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "the-apothecary-diaries",
+      "stable_slug": "the-apothecary-diaries",
+      "canonical_title": "The Apothecary Diaries",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/the-apothecary-diaries/",
+      "canonical_entrypoint": "series/the-apothecary-diaries/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel project for 薬屋のひとりごと, with a separate simplified Chinese volume 15 witness; adaptations and cross-language comparison remain distinct evidence scopes."
+    },
+    {
       "series_id": "the-idolmaster-cinderella-girls-2015-anime",
       "stable_slug": "the-idolmaster-cinderella-girls-2015-anime",
       "canonical_title": "THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)",
@@ -749,6 +813,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "three-days-of-happiness",
+      "stable_slug": "three-days-of-happiness",
+      "canonical_title": "Three Days of Happiness",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/three-days-of-happiness/",
+      "canonical_entrypoint": "series/three-days-of-happiness/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Standalone Japanese novel 三日間の幸福 by Sugaru Miaki; independent prose project with edition-bounded source and reconstruction responsibilities."
     },
     {
       "series_id": "to-be-hero-x",
@@ -794,6 +874,22 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_TOMOZAKI_BOOTSTRAP_V0_1",
       "authority_status": "GIT_PRIMARY",
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
+    },
+    {
+      "series_id": "wandering-witch",
+      "stable_slug": "wandering-witch",
+      "canonical_title": "Wandering Witch: The Journey of Elaina",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/wandering-witch/",
+      "canonical_entrypoint": "series/wandering-witch/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel project for 魔女の旅々 (Wandering Witch: The Journey of Elaina); main numbered editions and the separate 2014 Upper/Lower originals retain distinct witness and comparison scopes."
     },
     {
       "series_id": "watayuri",
