@@ -20,6 +20,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
+- [Domestic Girlfriend / ドメスティックな彼女](../series/domestic-girlfriend/) — `series/domestic-girlfriend/` — Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons.
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
@@ -59,6 +60,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [THE IDOLM@STER CINDERELLA GIRLS (2015 Anime)](../series/the-idolmaster-cinderella-girls-2015-anime/) — `series/the-idolmaster-cinderella-girls-2015-anime/`
 - [THE IDOLM@STER CINDERELLA GIRLS (Mobile Games)](../series/the-idolmaster-cinderella-girls-mobile-games/) — `series/the-idolmaster-cinderella-girls-mobile-games/`
 - [THE IDOLM@STER CINDERELLA GIRLS U149](../series/the-idolmaster-cinderella-girls-u149/) — `series/the-idolmaster-cinderella-girls-u149/`
+- [Three Days of Happiness](../series/three-days-of-happiness/) — `series/three-days-of-happiness/` — Standalone Japanese novel 三日間の幸福 by Sugaru Miaki; independent prose project with edition-bounded source and reconstruction responsibilities.
 - [To Be Hero X](../series/to-be-hero-x/) — `series/to-be-hero-x/`
 - [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
