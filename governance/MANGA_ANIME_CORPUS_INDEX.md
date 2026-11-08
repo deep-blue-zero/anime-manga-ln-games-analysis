@@ -14,6 +14,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
 - [Ascendance of a Bookworm](../series/ascendance-of-a-bookworm/) — `series/ascendance-of-a-bookworm/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
+- [Astra Lost in Space / 彼方のアストラ](../series/astra-lost-in-space/) — `series/astra-lost-in-space/` — Japanese manga analysis from an omnibus witness with explicit internal-unit mapping, prospective knowledge boundaries, longitudinal interpretation and bounded character reconstruction.
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
@@ -25,6 +26,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Genocidal Organ / 虐殺器官](../series/genocidal-organ/) — `series/genocidal-organ/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Genshin Impact](../series/genshin-impact/) — `series/genshin-impact/`
 - [Girls Band Cry](../series/girls-band-cry/) — `series/girls-band-cry/`
+- [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
