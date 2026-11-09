@@ -8,7 +8,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisua
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-09-11 — RINHA-AV-20260911 source/text, selected-mix and sampled-still pass integrated; perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
+last_updated: "2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
@@ -24,6 +24,24 @@ Current next operation: perform and account for direct listening/continuous-vide
 ## First-read status
 
 This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical corpus.
+
+### Historical-source coverage audit — 2026-11-08 (non-authoritative)
+
+A retrospective [historical-source coverage audit](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HISTORICAL_SOURCE_COVERAGE_AUDIT.md) assessed all thirteen character cores, both Relationship Systems syntheses and the event and support tranche readings against Source Lock 1.0. Its [findings register](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_FINDINGS_REGISTER.md) records 180 open findings (P0 0, P1 6) and proposes correction batches B1–B5 for owner review; the [coverage ledger](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_COVERAGE_LEDGER.tsv) records what was examined. The audit revises no canonical reading: every core, synthesis and ledger above remains the current authority until a correction is made through the ordinary claim-revision route. Phase states and the current next operation are unaffected.
+
+### Analytical correction — Saki U1 nightmare and insomnia — 2026-11-07
+
+A targeted correction integrates two Saki scenes from Unit Story 01 Episode 04 that Phase 3 had admitted but not analyzed: Saki’s nightmare in which Ume finds competing with her boring and leaves (`adv_unit_01-04_13.txt`), and her confession on the night before the summer H.I.F. that she fears losing again without feeling frustrated (`adv_unit_01-04_15.txt`). The actual Ume’s answer (`04_14`, `04_18`, `04_19`, `04_21`) is recorded as counterevidence. Dream-Ume is Saki’s representation and is never evidence of Ume’s beliefs.
+
+| artifact | change |
+| --- | --- |
+| [Saki core](03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/01_HANAMI_SAKI/GKM_CORE_01_HANAMI_SAKI.md) | v2.0 → **v2.1**: new §3.6.1, targeted cross-references, locators SAKI-L061–L064 |
+| [Saki evidence matrix](03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/01_HANAMI_SAKI/GKM_CORE_01_HANAMI_SAKI_EVIDENCE_MATRIX.md) | v2.1: SAKI-C31–C34 and a revision record |
+| [Relationship Systems I](06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md) | new §3.5.1; one §3.10 transition row; §3.11 rules 8–9 |
+| [character-state](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CHARACTER_STATE_LEDGER.md), [relationship-state](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_RELATIONSHIP_STATE_LEDGER.md) and [primary-source locator](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md) ledgers | dated correction rows; mirrored SAKI-L061–L064 |
+| [branch divergence ledger](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_BRANCH_DIVERGENCE_LEDGER.md) and [audiovisual verification queue](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) | BR-SAKI-UME-FEAR cross-track invariant row (method §4.3); AV-DIA-SAKI-007 registered as a P2 optional target |
+
+Source Lock 1.0 is unchanged and no source object is admitted, because Unit Story 01 was already inside the Saki core’s Phase-3 scope. The A1 scripts were re-read from the Source Lock 1.0 archive snapshot whose `manifest.csv` matches the control checksum in `GKM_SOURCE_LOCK.md`. Execution used the text lane only: no audio or continuous-video inspection was performed, and the optional audiovisual target AV-DIA-SAKI-007 is non-blocking. `GKM_CORE_10_HANAMI_UME.md` is deliberately unchanged. Phase states, the Rinha audiovisual gate and the current next operation above are unaffected.
 
 ### Hiro and Misuzu full AV documentation rebuild — 2026-09-10
 
@@ -81,7 +99,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 
 ## Phase 3 character state
 
-1. Hanami Saki — textual core COMPLETE; integrated AV baseline COMPLETE.
+1. Hanami Saki — textual core COMPLETE (v2.1 correction, 2026-11-07: U1 nightmare and insomnia); integrated AV baseline COMPLETE.
 2. Tsukimura Temari — textual core COMPLETE; integrated AV baseline COMPLETE.
 3. Fujita Kotone — textual core COMPLETE; integrated AV baseline COMPLETE.
 4. Arimura Mao — textual core COMPLETE; integrated AV baseline COMPLETE.
