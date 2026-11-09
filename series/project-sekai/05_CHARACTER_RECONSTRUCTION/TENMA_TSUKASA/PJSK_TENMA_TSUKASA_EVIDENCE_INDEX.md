@@ -42,6 +42,8 @@ Supplemental retrieval: `PJSK:mysekai:13_8663:01:001:0001–0005` — reported m
 
 ## Individual six-lane fit and contradiction audit
 
+The table immediately below preserves the original retrospective audit. The current [targeted reconsideration](#tsukasa-register-remediation) adds discriminating scene tests and retains explicit partial or insufficient results.
+
 Retrospective known-scene explanation, with targeted Japanese probes and reused full-envelope readings. No blind benchmark or independent second reviewer is claimed.
 
 | Lane | Explanation tested | Result / limit |
@@ -56,6 +58,21 @@ Retrospective known-scene explanation, with targeted Japanese probes and reused 
 Contradiction decision: Replace a steadily improving safe-leader model with conditional use of expertise and recovery. E0208 directly contradicts automatic pacing and completed emotional repair. E0178 special prize is not the top award; E0217 is not casting. Ordinary care is real without canceling private anger or current risk.
 
 **Readiness decision: R4 for bounded textual reconstruction.** Longitudinal evidence and the individual fit/contradiction decisions support this scope. The fictional unresolved outcome is retained, not supplied by the model. R5 is withheld: no performed-voice corpus was inspected. D3–D4 predictions remain weakly constrained.
+
+## Tsukasa register remediation
+
+The [revised speech matrix](PJSK_TENMA_TSUKASA_RECONSTRUCTION_MODEL.md#speech-and-register) owns conditional guidance. The [supplemental audit](../../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md#tsukasa-scene-tests) records six author-run cases, historical state, knowledge, alternatives, observed source, verdict and D0–D4 limits; its six-lane reconsideration retains R4 without treating all cases as passes. The original retrospective’s no-independent-review statement above remains historical. A separate selected-scene reviewer record is reported in the supplement.
+
+| Retrieval purpose | Canonical primary locator | Use and limit |
+|---|---|---|
+| Early announcement / staff-facing pronoun | `PJSK:main:wonder_01_01:01:002:0010–0016`; `PJSK:main:wonder_01_01:01:004:0018–0022` | Theatrical formal promise versus presumed-staff 僕; T1. |
+| Professional learning / familiar correction | `PJSK:event:0136:01:003:0067–0105`; `PJSK:card:1470:02:001:0010–0022` | Expert paraphrase and confirmation differ from brief peer apology; T3. |
+| Private memory / restrictive cooperation | `PJSK:event:0208:05:001:0079–0115`; `PJSK:event:0208:07:001:0002–0053` | Child speech, adult thought, cooperative request and restriction have separate recipients/modes; T4. |
+| Non-promise / domestic repair | `PJSK:card:1410:02:001:0018–0030`; `PJSK:card:1410:02:002:0003–0018` | Gratitude with continued disagreement, followed by emphatic family care; T5. |
+| Ordinary fear counterexample | `PJSK:area:areatalk_ev_wonder_26_002:01:001:0001–0008` | Len's immersion suspicion is corrected by the insect account; initial cause insufficient; T6. |
+| Ordinary recipients | `PJSK:mysekai:13_8663:01:001:0001–0005`; `PJSK:mysekai:13_8664:01:001:0001–0004` | Mafuyu honorific/plain register versus corrected Mizuki misreading; conditional dates; T2. |
+
+These are new retrieval anchors within the existing lock, not new source admission or newly completed event envelopes. Historical deep readings and state owners retain their original scopes.
 
 ## Generation and retrieval boundary
 
