@@ -36,6 +36,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
+- [Honkai: Star Rail](../series/honkai-star-rail/) — `series/honkai-star-rail/` — Independent versioned Honkai: Star Rail game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
 - [KimiShinu](../series/kimishinu/) — `series/kimishinu/`
 - [KonoSuba](../series/konosuba/) — `series/konosuba/`
