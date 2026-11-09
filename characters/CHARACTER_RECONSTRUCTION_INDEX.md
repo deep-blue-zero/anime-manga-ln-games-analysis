@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 85; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 86; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -27,7 +27,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
-| [`mass-effect`](reconstruction_index/mass-effect.md) | 1 | 1 |
+| [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 1 | 1 |
@@ -68,6 +68,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | [`konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
+| `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `mushoku-tensei:aisha@light-novel` | [`mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-aisha-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:cliff@light-novel` | [`mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-cliff-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:elinalise@light-novel` | [`mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
