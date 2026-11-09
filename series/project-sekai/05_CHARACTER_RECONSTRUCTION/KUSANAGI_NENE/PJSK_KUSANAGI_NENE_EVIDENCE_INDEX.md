@@ -41,6 +41,8 @@ Supplemental retrieval: `PJSK:mysekai:15_8661:01:001:0001–0005` — stage skil
 
 ## Individual six-lane fit and contradiction audit
 
+The table immediately below preserves the original retrospective audit. The current [targeted reconsideration](#nene-register-remediation) adds discriminating scene tests and retains explicit partial or insufficient results.
+
 Retrospective known-scene explanation, with targeted Japanese probes and reused full-envelope readings. No blind benchmark or independent second reviewer is claimed.
 
 | Lane | Explanation tested | Result / limit |
@@ -55,6 +57,21 @@ Retrospective known-scene explanation, with targeted Japanese probes and reused 
 Contradiction decision: The model keeps three distinct current personal owners instead of making the newest self-continuity state replace professional development. E0149 defeats automatic success, E0185 defeats universally safe pressure, E0209 defeats causal reversal of restoration and choice, and My SEKAI directly defeats equating stage confidence with social ease.
 
 **Readiness decision: R4 for bounded textual reconstruction.** Longitudinal evidence and the individual fit/contradiction decisions support this scope. The fictional unresolved outcome is retained, not supplied by the model. R5 is withheld: no performed-voice corpus was inspected. D3–D4 predictions remain weakly constrained.
+
+## Nene register remediation
+
+The [revised speech matrix](PJSK_KUSANAGI_NENE_RECONSTRUCTION_MODEL.md#speech-and-register) owns conditional guidance. The [supplemental audit](../../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md#nene-scene-tests) records six author-run cases, historical state, knowledge, alternatives, observed source, verdict and D0–D4 limits; its six-lane reconsideration retains R4 without treating all cases as passes. The original retrospective’s no-independent-review statement above remains historical. A separate selected-scene reviewer record is reported in the supplement.
+
+| Retrieval purpose | Canonical primary locator | Use and limit |
+|---|---|---|
+| Ordinary peers and genre limits | `PJSK:mysekai:15_8661:01:001:0001–0005`; `PJSK:mysekai:15_8656:01:001:0001–0005`; `PJSK:mysekai:15_8669:01:001:0001–0005` | Tsukasa correction, Toya technical comparison, Rui dry reversal; N1. |
+| Unfamiliar approach / novice coaching | `PJSK:event:0114:04:002:0040–0089`; `PJSK:event:0114:05:004:0025–0051`; `PJSK:event:0114:07:003:0040–0065` | Private impression, tentative inquiry, collaborative direction and returned credit; N2. |
+| Lead conflict / stage role | `PJSK:event:0185:07:001:0001–0062`; `PJSK:event:0185:08:001:0008–0070` | Frustrated intention, trust reception and commitment; Heart speech distinct; N3 PARTIAL. |
+| Gratitude through repair | `PJSK:card:1283:02:001:0002–0043` | Hesitation, misunderstood reason, alarm about the installed diffuser and explicit thanks; N4. |
+| Private self-address | `PJSK:card:1416:02:001:0069–0104` | Body restored before voluntary inclusion; represented other-self replies distinct; N5. |
+| Privacy / ambition | `PJSK:card:1470:02:001:0002–0061` | Rest, objections to attention/cloak, and private resolve coexist; N6. |
+
+These are new retrieval anchors within the existing lock, not new source admission or newly completed event envelopes. Historical deep readings and state owners retain their original scopes.
 
 ## Generation and retrieval boundary
 
