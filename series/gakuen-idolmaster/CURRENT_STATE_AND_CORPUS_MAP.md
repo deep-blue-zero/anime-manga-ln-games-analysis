@@ -8,7 +8,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisua
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
+last_updated: "2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
@@ -24,6 +24,10 @@ Current next operation: perform and account for direct listening/continuous-vide
 ## First-read status
 
 This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical corpus.
+
+### Historical-source coverage audit — 2026-11-08 (non-authoritative)
+
+A retrospective [historical-source coverage audit](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HISTORICAL_SOURCE_COVERAGE_AUDIT.md) assessed all thirteen character cores, both Relationship Systems syntheses and the event and support tranche readings against Source Lock 1.0. Its [findings register](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_FINDINGS_REGISTER.md) records 180 open findings (P0 0, P1 6) and proposes correction batches B1–B5 for owner review; the [coverage ledger](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_COVERAGE_LEDGER.tsv) records what was examined. The audit revises no canonical reading: every core, synthesis and ledger above remains the current authority until a correction is made through the ordinary claim-revision route. Phase states and the current next operation are unaffected.
 
 ### Analytical correction — Saki U1 nightmare and insomnia — 2026-11-07
 
