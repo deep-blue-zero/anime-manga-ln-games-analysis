@@ -6,6 +6,49 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 
 ## Recorded assessments
 
+### Subject `tomozaki:ashigaru@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/ashigaru@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/ashigaru@light-novel.jsonl)
+
+<a id="tomozaki-ashigaru-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-ashigaru-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:ashigaru`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:ashigaru@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Ashigaru bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, maturity BOUNDED\_INDIVIDUAL\_LITERARY\_ROLE\) over the locked Japanese main V01-V12 with routed V06.5/V08.5, whose positive person evidence lies in V08-V12 and whose routes AS-P01 to AS-P11 are fresh primary windows in V08, V09, V10, V11 and V12, with the other audit cells retained as unknown rather than absence findings; and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_ASHIGARU\_B08\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The supporting character implementation review, the supporting literary evidence manifest, the six-pilot integration review and evidence packet, the readings and the ledgers are not curated on this subject and are not evidence here. Ashigaru is a public handle; no legal name is established. Observation is predominantly Fumiya's. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's eight selectors: AS08\_REQUESTED\_OPPONENT and AS08\_ROUTE\_ADVISER \(V08\), AS09\_CONFIDENCE\_PEER and AS09\_RELATIONSHIP\_TALK \(V09\), AS10\_INTERMEDIARY \(V10\), AS11\_COMMENTATOR\_RECRUITER and AS11\_FAN\_SELF\_REPORT \(V11, with the school role still future\), and AS12\_ACTUAL\_GUEST \(V12, with the exhibition result unshown\). Earlier volumes are unknown review cells; the V11 report of another job is not Fumiya's earlier knowledge; nothing after V12 is established.
+- Basis commit: `ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `b4bfd272ec10ba99e0c90f79fbd64c0efcdde2ad35c69a46007a8794677d5d53`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology One of the model selectors AS08\_REQUESTED\_OPPONENT to AS12\_ACTUAL\_GUEST within Japanese V08-V12, with the V11 school role still future at AS11 and the V12 exhibition result unshown; earlier volumes are unknown cells and nothing after V12 is established.; interlocutor Only attested recipients in their represented standing: Fumiya as opponent, aspirant and interlocutor, Rena and Hinami in group talk, Harry and Max, Endo, Mizusawa, Mimimi, Kikuchi, Shimaaji, and the school audience and organizers.; settings Competitive game play under stated format and stakes, situated professional-route talk, network introduction and negotiated community or school events only; No private life, household, romance, finances, sponsorship, market facts or severe crisis; Participation, image and voice permissions and other people's labor must be supplied; output would be a labeled hypothetical range, never an observed canonical event
+  - `PROFESSIONAL_CONTEXT` condition: One named selector only \(AS08\_REQUESTED\_OPPONENT, AS08\_ROUTE\_ADVISER, AS10\_INTERMEDIARY, AS11\_COMMENTATOR\_RECRUITER or AS12\_ACTUAL\_GUEST\), with its actor knowledge.
+  - `PROFESSIONAL_CONTEXT` condition: Role, audience, request, format, stakes, agreed conditions, participation and image or voice scope, and other people's capacity and labor are supplied; an extension without renewed assent is marked outside the original permission.
+  - `PROFESSIONAL_CONTEXT` condition: No income, sponsorship, market facts, talk preparation or improvisation, fee loss, career guarantee or match result is invented; another professional's expertise and labor stay independent.
+  - `PROFESSIONAL_CONTEXT` condition: Output is a qualitative prose range naming who bears the labor and what is abstained, not generated canonical dialogue.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `broadcast-request-refused` (evidence-backed limitation): In V11 Ashigaru asks whether he may tell an embarrassing incident on stream and Fumiya refuses; the source does not show him broadcasting it, and the exchange is not a complete privacy policy.
+  - `earlier-cells-unknown` (evidence gap): Volumes before V08 are unknown review cells in the fourteen-witness audit, not findings of absence.
+  - `endo-retains-constraints` (evidence-backed limitation): In V10 Ashigaru presses Endo for an idea after an infeasible request; Endo retains the judgment of what can be done, and Mizusawa produces the eventual exchange.
+  - `fan-change-is-self-report` (evidence-backed limitation): Ashigaru's account of changing reasons through admirers' belief is his own retrospective self-report, not an independently witnessed conversion to altruism; competition and scene-building aims persist.
+  - `hundred-game-estimate-not-record` (evidence-backed limitation): Ashigaru's V08 claim that Fumiya would probably win more over a hundred games is his prospective comparative judgment, not a completed experiment, and one decisive set is not a ranking.
+  - `job-report-not-earlier-knowledge` (evidence-backed limitation): Ashigaru's V11 report that he also works an unnamed ordinary job cannot be assigned to Fumiya's earlier knowledge and does not show when the job began.
+  - `no-face-and-extension-apology` (evidence-backed limitation): Mimimi's novice commentary begins over her protest under a stated no-face condition, continues beyond the first game, and later draws Ashigaru's apology; favorable reception does not erase the pressure.
+  - `post-v12-horizon` (evidence gap): Nothing after the V12 boundary is evidenced.
+  - `presence-not-safeguard` (evidence-backed limitation): Ashigaru's presence at the V09 meeting with Rena as a local buffer does not prevent her later intrusion or establish a boundary policy.
+  - `pressure-read-not-diagnosis` (evidence-backed limitation): The V08 pressure read that wins the set is situated strategic work on this opponent, which Fumiya recognizes; it is not mind-reading, a clinical diagnosis or a rule for every risky move.
+  - `private-biography-unknown` (evidence gap): Legal name, age, education, household, employer, salary, sponsorship and romantic status are not established.
+  - `talk-preparation-unestablished` (evidence gap): Whether the V12 talk was improvised or prepared, and any fee loss or later professional consequence, are unestablished.
+  - `v12-talk-and-exhibition-bounded` (evidence-backed limitation): The V12 school talk follows organizer neglect of preparation; the zero-revenue anecdote is testimony, not audited finances, and the proposed exhibition's result is unshown.
+  - `voice-idiolect-unvalidated` (evidence gap): No idiolect, pitch, prosody or performed voice is established; no freeform Japanese or blind accuracy is validated.
+- Evidence at basis commit:
+  - [`tomozaki:ashigaru@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:ashigaru@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 ### Subject `tomozaki:izumi-yuzu@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl)
@@ -218,6 +261,56 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Evidence at basis commit:
   - [`tomozaki:narita-tsugumi@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f582dbbb2a5c31c60868c7e39898268f54e8a6bb/series/tomozaki/04%20Character%20Analysis/Narita%20Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:narita-tsugumi@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f582dbbb2a5c31c60868c7e39898268f54e8a6bb/series/tomozaki/07%20Character%20Reconstruction%20Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md)
+
+### Subject `tomozaki:natsubayashi-hanabi@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/natsubayashi-hanabi@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/natsubayashi-hanabi@light-novel.jsonl)
+
+<a id="tomozaki-natsubayashi-hanabi-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-natsubayashi-hanabi-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:natsubayashi-hanabi`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:natsubayashi-hanabi@light-novel at basis\_commit, each read in full: \#provisional-character-study, the canonical Natsubayashi Hanabi \(Tama\) character monograph \(generation V12\_REVIEWED\_TAMA, maturity MATURE\_LOCAL\_LITERARY\_ROLE, accepted scope A, independent review pass 2026-10-23\) over the audited Japanese main V01-V11, the admitted V12 witness and story-locally routed V06.5/V08.5, whose register TH-P01 to TH-P08 gives targeted primary windows for V05, V06, V06.5, V08, V08.5, the V05 appended bonus and V12, while V01-V04 and V09-V11 are retained through routed readings and ledgers that were not newly reread; and \#bounded-reconstruction-model, the canonical derived-use model with root construction admission MR-P05 \(model core V1\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from that monograph and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The V12/principal and R06 integration review, the principal B model integration review and evidence packet, the readings, ledgers, voice ledger, Mimimi-Tama specialist synthesis and full-series synthesis to which these items route are not curated on this subject and are not evidence here. Much of Tama's conduct is filtered through Fumiya, and V08.5 is narrated privately by Mimimi. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's eleven selectors: TH-S1 earlier ordinary company and the V05 appended bonus \(diegetic date unknown\), TH-S2 V04-V05 harassment, TH-S3 V05 copied and revised training, TH-S4 V05 reversed crowd and apology, TH-S5 V06 selected participation and teaching, TH-S6 V07 structured acting, TH-S7 V08 family craft, TH-S8 V08.5 year-end privacy \(story-local, between V07 and V08\), TH-S9 V12 practiced service, TH-S10 V12 cake decision and TH-S11 V12 addressed retrospective account, with the monograph's V01-V12 chronology as context. V09-V11 have no selector and carry no new developmental event; Mimimi's V12 separation interview is not Tama's knowledge state; nothing after V12 is established.
+- Basis commit: `ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `ab4f47cd9f9aa964e3d8e27d72c95dc044471275dfd045b698ff453d68ac6d68`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: One named selector only, with its actor-known information; Mimimi's V12 interview, reader-only V08.5 narration and Hinami's private history are not transferred.
+  - `CROSS_SCENARIO` condition: Only the model's admitted fields: familiar friendship and selected participation, reciprocal expression teaching, a learner-owned social method, and ordinary sweets, craft or service within observed family-shop standing.
+  - `CROSS_SCENARIO` condition: Output is a labeled hypothetical act or range; for a costly quality or cost decision it presents competing reasons and who bears the cost, and confidence falls where family latitude is removed.
+  - `CROSS_SCENARIO` condition: Behavior is described in prose; no quoted speech is generated as canonical.
+  - `CROSS_SCENARIO` bounds: chronology A single model selector from TH-S1 to TH-S11 within Japanese V01-V12, with V08.5 on its story-local clock and the bonus date unknown; no V09-V11 state is selected and no post-V12 state exists.; interlocutor Only attested recipients in their selector-specific standing: Mimimi, Fumiya, Mizusawa, Akiyama and the class group, her parents and grandfather, shop colleagues and customers.; settings Familiar school peer company, the V05 learner project, and the family sweets shop of the Japanese light novels; Task, recipient, request, actual authority, skills and cost supplied; a missing motive is not filled with purity, social deficiency or a clinical explanation; No new severe hostile setting, shop succession, management or wage authority, lifelong support arrangement, romance or clinical domain; Output is a labeled hypothetical act or range, never an observed canonical event
+  - `MUNDANE_SOCIAL` condition: Only familiar peer company with Mimimi or the attested friend group, as near analogs of the bonus, V06 and V06.5 windows.
+  - `MUNDANE_SOCIAL` condition: The particular company, activity and request are supplied; declining or accepting a narrower format both remain possible, and a preference of another person is used only when supplied.
+  - `MUNDANE_SOCIAL` condition: No invented favorite food, music, fashion, touch rule or routine; behavior is described in prose and no quoted speech is generated as canonical.
+  - `PROFESSIONAL_CONTEXT` condition: Only the family sweets shop under observed family standing \(TH-S7 or TH-S9\), with task, customer, colleagues and actual authority supplied.
+  - `PROFESSIONAL_CONTEXT` condition: Product taste, saleable presentation, originality and succession stay distinct; a costly remake requires the actual flaw, request, remedies, time, authority and others' burden, and is presented as competing reasons, not a predicted rule.
+  - `PROFESSIONAL_CONTEXT` condition: No succession election, management or wage authority, or success imported under removed family latitude.
+  - `PROFESSIONAL_CONTEXT` condition: Output is a qualitative prose range, not generated canonical dialogue.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `akiyama-apology-not-konno` (evidence-backed limitation): In V05 Akiyama and other group members apologize to Tama after Konno leaves; Konno's own apology, Tama's forgiveness of Konno, restitution and completed justice are not shown.
+  - `business-facts-unknown` (evidence gap): Prices, staff contracts, a standing remake protocol, wages, schedules and the shop's employee hierarchy are not established.
+  - `cake-cost-and-privilege` (evidence-backed limitation): The V12 remake benefits the child's celebration and earns the mother's thanks, while a quick repair was a real alternative and staff, queued customers and Fumiya absorb its cost; Tama acknowledges that her standing as the shop manager's daughter made the insistence possible, and the acknowledgment does not redistribute the labor.
+  - `capture-and-upload-consent-separate` (evidence-backed limitation): In V06 Tama's agreement to an image capture and her agreement to its upload are separate acts; one is not a standing grant for the other.
+  - `childhood-objects-not-taste` (evidence-backed limitation): The pastel possessions and stuffed toys in Tama's room are largely retained childhood gifts, not her current taste; the risotto is one observed order and the bracelet one observed use.
+  - `mimimi-fear-not-tama-reply` (evidence-backed limitation): Mimimi's V12 fear about keeping her self-regard after separation is Mimimi's own account given while Tama is absent; no Tama answer or standing promise is supplied.
+  - `no-hostile-retest` (evidence gap): No hostile-recipient retest, revision of a self-defining end, work disagreement under less family privilege or negotiated cost distribution is shown after V05.
+  - `not-invulnerable` (evidence-backed limitation): Tama wanted to flee after her keepsake was destroyed, and the V05 stopping intervention depended on a support network and changed reception as well as her judgment.
+  - `post-v12-horizon` (evidence gap): Nothing after the V12 boundary, and no career, adult, household, romantic or clinical domain, is evidenced.
+  - `retained-bands-not-reread` (evidence gap): V01-V04 and V09-V11 are retained through routed readings and ledgers that are not curated on this subject and were not newly reread for the monograph; V09-V11 carry no new developmental event.
+  - `self-report-not-diagnosis` (evidence-backed limitation): Tama's V12 statement that letting such a case go lightly could make her dislike herself is addressed self-report of an experienced limit, not a clinical diagnosis or proof she never compromises; the V06 choice not to join every act, the V08 conditional succession and the V08.5 waiting are counterexamples to universal rigidity.
+  - `succession-undecided` (evidence-backed limitation): In V08 Tama likes the shop's products and work but intends to learn through experience before deciding succession, and alternative relatives or trusted employees are explicitly possible; V10 and V12 do not elect a career.
+  - `unannounced-recording` (evidence-backed limitation): Fumiya records Tama's training without advance permission; her immediate objection and later participation are separate facts, and later participation does not rewrite the permission state.
+  - `voice-idiolect-unvalidated` (evidence gap): No idiolect, particle or honorific profile, pitch or performed voice is established; no freeform Japanese or blind accuracy is validated.
+- Evidence at basis commit:
+  - [`tomozaki:natsubayashi-hanabi@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md)
+  - [`tomozaki:natsubayashi-hanabi@light-novel#provisional-character-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
 
 ### Subject `tomozaki:takei@light-novel`
 
