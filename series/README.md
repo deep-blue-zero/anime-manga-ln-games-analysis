@@ -88,6 +88,7 @@ All G7 roots are `PRESENT_REVIEWED` and `GIT_PRIMARY` within authority epoch 1. 
 - [`wuthering-waves/`](wuthering-waves/) — Wuthering Waves — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
 - [`you-and-i-are-polar-opposites/`](you-and-i-are-polar-opposites/) — You and I Are Polar Opposites / 正反対な君と僕 — Japanese manga analysis of individual development, directed relationships, ordinary behavior and written register, with separate shared-artbook provenance and bounded reconstruction.
 - [`watayuri/`](watayuri/) — Yuri Is My Job! — Prospective Japanese manga analysis of Yuri Is My Job!, with volume readings and nine cumulative responsibilities for relationships, performance, information, agency, chronology, written speech, visual form, claims and character readiness. Source continuity, separately bounded supplements and reconstruction gates are controlled by the current entrypoint and project methods.
+- [`zenless-zone-zero/`](zenless-zone-zero/) — Zenless Zone Zero — Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 
 <!-- END GENERATED SERIES CATALOG -->
 

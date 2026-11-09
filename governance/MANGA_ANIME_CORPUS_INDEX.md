@@ -87,6 +87,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Prospective Japanese manga analysis of Yuri Is My Job!, with volume readings and nine cumulative responsibilities for relationships, performance, information, agency, chronology, written speech, visual form, claims and character readiness. Source continuity, separately bounded supplements and reconstruction gates are controlled by the current entrypoint and project methods.
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
+- [Zenless Zone Zero](../series/zenless-zone-zero/) — `series/zenless-zone-zero/` — Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 
 <!-- END GENERATED CORPUS SERIES CATALOG -->
 
