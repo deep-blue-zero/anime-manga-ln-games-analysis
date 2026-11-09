@@ -11,6 +11,8 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 <!-- BEGIN GENERATED CORPUS SERIES CATALOG -->
 
 - [86 - Eighty-Six](../series/86-eighty-six/) — `series/86-eighty-six/`
+- [A Certain Scientific Accelerator](../series/a-certain-scientific-accelerator/) — `series/a-certain-scientific-accelerator/` — Distinct A Certain Scientific Accelerator manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
+- [A Certain Scientific Mental Out](../series/a-certain-scientific-mental-out/) — `series/a-certain-scientific-mental-out/` — Distinct A Certain Scientific Mental Out manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [A Certain Scientific Railgun](../series/a-certain-scientific-railgun/) — `series/a-certain-scientific-railgun/` — Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
