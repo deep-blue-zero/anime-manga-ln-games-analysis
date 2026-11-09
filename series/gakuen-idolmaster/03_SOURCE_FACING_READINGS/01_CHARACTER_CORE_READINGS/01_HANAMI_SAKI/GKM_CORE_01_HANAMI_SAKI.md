@@ -2,7 +2,8 @@
 title: "Gakuen Idolmaster V2 — Hanami Saki Character-Core Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 provisional character-core reading"
-version: "2.0"
+artifact_type: source_facing_character_core
+version: "2.1"
 phase: "3 — Character-Core Readings"
 character: "Hanami Saki / 花海咲季"
 character_code: "hski"
@@ -10,11 +11,15 @@ source_lock: "GAKUMAS V2 Source Lock 1.0"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md"
 governing_continuity: "GKM_CONTINUITY_AND_STORY_STATE_MAP.md"
 created: "2026-08-13"
+revised: "2026-11-07"
+revision_note: "v2.1 substantive correction (STRENGTHEN / EXTEND; no v2.0 claim rejected): adds §3.6.1 on the U1 Episode 04 Selection defeat, Saki's nightmare (adv_unit_01-04_13) and H.I.F.-eve insomnia confession (adv_unit_01-04_15), with targeted cross-references and locators SAKI-L061–L064; A1 raw scripts re-inspected under Source Lock 1.0; no audiovisual evidence used"
 status: "canonical Phase-3 source-facing artifact; provisional, not a definitive monograph"
 audiovisual_status: "textual and scripted-dramaturgy analysis complete; selected music/MV and dialogue-performance evidence requested but not yet inspected"
 ---
 
 # GKM CORE 01 — HANAMI SAKI / 花海咲季
+
+> **Revision record — v2.1, 2026-11-07 (substantive correction).** Version 2.0 admitted Unit Story 01 into scope (§1.1) but did not analyze the Saki-centred scenes of Episode 04 Parts 13–19, including Saki's nightmare (`adv_unit_01-04_13.txt`) and her confession on the night before the summer H.I.F. (`adv_unit_01-04_15.txt`). Version 2.1 adds §3.6.1 and targeted cross-references in §2.6, §3.2.4, §7.3, §16.5, §18, §19 (H-SAKI-05), §23.3, §25 and §26 (new locators SAKI-L061–L064). Transition vocabulary: SAKI-C05 and SAKI-C08 **STRENGTHEN**; the fear model is **EXTENDED** from loss of rank to loss of the counterpart and of Saki's own frustration at losing. No v2.0 claim, locator ID or section number is withdrawn; the v2.0 text remains recoverable from Git history. Source boundary is unchanged (GAKUMAS V2 Source Lock 1.0; A1 raw scripts re-inspected). No audiovisual evidence was used.
 
 ## 0. Executive thesis
 
@@ -178,6 +183,8 @@ This ruby construction is a compact statement of Saki’s relational grammar. Sh
 
 U1 is not the same biography as `D-SAKI`, but it independently confirms that Saki’s mature social form is not solitary supremacy. It is an ecosystem in which other strong people become part of how she remains strong.
 
+*(v2.1)* U1 also contains its own first defeat by Ume, at a different point from `D-SAKI`: Begrazia beats Re;IRIS at the Selection, months before the summer H.I.F. As in `D-SAKI`, Saki acts again before she has recovered. The interval before the festival adds two scenes that no other Saki source contains: a nightmare in which Ume finds competing with her boring and leaves, and a confession that Saki is afraid of losing again *without feeling frustrated*. §3.6.1 reads that sequence as a parallel-track counterpart of the `D-SAKI` fear, not as an event in Saki’s Dear Idol biography.
+
 ---
 
 # 3. Source-family readings
@@ -257,6 +264,8 @@ In `adv_dear_hski_009.txt`, Saki’s hands shake. She fears that Ume will lose i
 The Producer explains that idol ability is not exhausted by technique or appearance. The text does not fully quantify the deciding factor, but the scene supports a limited inference: Saki’s desperate self-presentation, relational stakes, and capacity to make struggle visible produce idol value not captured by the technical comparison.
 
 This is not a license to say “heart always beats skill.” Saki wins narrowly; the Producer calls it a miracle-level upset and warns that future contests will be harder. The victory establishes plural evaluation, not anti-technical mysticism.
+
+*(v2.1 cross-reference)* The exact waking wording of the fear is that Ume will overtake her, run toward her dream, and `負けたやつへの興味は失せて……` / `二度と振り向いてくれなくなる。` U1 dramatizes the same fear as a nightmare after a defeat (§3.6.1). The parallel makes the fear a cross-track invariant of Saki; it does not make the Dear Idol and Unit Story events one biography.
 
 ### 3.2.5 World’s best begins as a promise to Ume
 
@@ -475,6 +484,89 @@ U1 confirms several traits independently of `D-SAKI`:
 
 U1’s final judgment—Re;IRIS as a unit that makes self, allies, and rivals shine—offers a plausible institutional reading of Saki’s broader role. But because the track is separate, the phrase should be used as a comparative hypothesis rather than imported as the literal verdict of every Saki route.
 
+### 3.6.1 *(v2.1)* Episode 04: the Selection defeat, the nightmare, and the fear of no longer being frustrated
+
+**Track and evidence boundary.** Every Unit Story event in this subsection is `C1 @ U1`; the closing cross-track paragraph cites `D-SAKI` separately. U1 reaches Saki’s first defeat by Ume at a different institutional point from `D-SAKI`: Begrazia beats Re;IRIS at the Selection, months before the summer H.I.F. Both sisters experience the result as Ume’s first victory over Saki (`adv_unit_01-04_07.txt`), while Kotone insists that Re;IRIS, not Saki alone, lost (`adv_unit_01-04_10.txt`). The scenes below were re-read directly from the A1 raw scripts under Source Lock 1.0. They are Unit Story events and must not be inserted into the Dear Idol biography.
+
+| part | event | retrieval anchor |
+| --- | --- | --- |
+| `04_04`–`04_05` | before the Selection, Saki tells the Producer her premonition: one loss to Ume and she will never win again; once Ume clears `わたしという壁`, she will accelerate out of reach; losing would make Saki `お姉ちゃん失格` | `あの子は一気に加速して` |
+| `04_07` | Ume wins; Saki congratulates her, then breaks down privately before the Producer | `今日は！　あたしの勝ちぃ～～～～～～～っ！` |
+| `04_09`–`04_12` | Saki collapses, then acts without recovering; the Producer says the root that still drives her will not break again, and she answers `……だといいけどね`; she notes that this is the first time in her life she has stayed in a contest after Ume overtook her | `根本さえ、残っていればいい` |
+| `04_13` | during months of “virtual H.I.F.” lives, Saki falls asleep before a performance and dreams that Ume leaves her; Temari notes that she has not been sleeping | `すごーく嫌な夢を見ただけ` |
+| `04_15` | on the night before the H.I.F., Kotone finds her awake; Saki says she is afraid that losing again might not frustrate her | `悔しくなかったら……どうしようって` |
+| `04_18` | before the stage, Saki confesses to Ume the flaws she has hidden | `大好きな妹に、失望されたくなかったから` |
+| `04_20`–`04_21`, `04_25` | Re;IRIS wins; the sisters renegotiate the rivalry; Saki becomes summer Prima Stella | `いつでも挑んできなさいっ！` |
+
+**The nightmare is assembled from real words.** The imagined Ume does not speak an alien language. Her lines rework what the actual Ume said after winning in `04_07`, and her conclusion fulfils the premonition Saki voiced in `04_04`:
+
+| actual source | nightmare (`adv_unit_01-04_13.txt`) | transformation |
+| --- | --- | --- |
+| Ume, `04_07`: `今日は！　あたしの勝ちぃ～～～～～～～っ！` | `今日もあたしの勝ちぃ！` | one victory becomes a repeated one (`は` → `も`) |
+| Ume, `04_07`: `次も、その次も、ずっとずっとずぅ～～～っと……` she will win—said while welcoming the rematch (`へへ～、どーんとかかってきなさいっ！`) | `ううん……何度やっても同じだよ。` | a playful boast that invites the next contest becomes a verdict that no contest is worth holding |
+| Ume, `04_07`: `あたしの世界が、こぉ～～～んなに広いことにっ！` | `あたし、新しい夢ができたんだ。` / `Begraziaのみんなと……トップアイドルになる。` | a widened world becomes a future with Begrazia in Saki’s place |
+| Saki, `04_04`: Ume will run `手の届かないところまで` | `だから……ばいばい。` | the premonition is fulfilled as farewell |
+| — | `お姉ちゃんと勝負しても……もう、つまんないや。` | no source in Ume’s speech |
+
+Across all 466 `佑芽`-labelled dialogue lines in Unit Story 01 (A2 layer), the boredom and farewell wording occurs only inside this dream. The dream also cuts off Saki’s characteristic recovery line: `…………やるじゃない。でもね、次こそは――` is interrupted by `ううん`. The nightmare does not take a result away from Saki. It takes away the next contest.
+
+**Epistemic rule.** Dream-Ume is Saki’s imagined representation of Ume. Her lines are evidence of Saki’s fear and of nothing about the actual Ume’s beliefs or intentions. The rule needs stating because the raw script labels the speaker `佑芽` and voices her with Ume’s assets (`sud_vo_adv_unit_01-04_13_hume-001` to `-007`); the dream status is established by staging and by Saki’s waking line, not by the speaker label. Script metadata (AV-C only; rendered image and sound not inspected) shows a white fade-in at the start, a 0.5-second fade-out of the opening music cue as Saki’s interrupted `次こそは――` ends—so the refusal begins without music—and a cut to black immediately after `ばいばい`, before Saki wakes gasping.
+
+**Which fear the dream dramatizes.** The available readings, tested against the text:
+
+- *Ume no longer finds Saki worth competing against* — **directly dramatized** (`つまんない`; `何度やっても同じ`).
+- *Saki fears losing Ume’s admiration* — **explicit in U1, outside the dream.** In `04_18` Saki says she hid her flaws `大好きな妹に、失望されたくなかったから`. The dream renders the same loss as boredom rather than disappointment.
+- *Ume replaces a shared dream with a future from which Saki is absent* — **dramatized, but the premise needs correction.** Before the Selection the sisters did not share a dream. Ume tells Sena that beating Saki is her life goal and that she has never thought past it (`04_06`); Saki’s goal is to be the world’s best idol (`04_13`). The dream imagines Ume’s first self-authored dream as one that excludes Saki. Begrazia, the dream’s substitute for Saki, is the unit Ume says she joined `お姉ちゃんと早く勝負したいから` (`04_14`).
+- *Saki becomes unnecessary to Ume’s development* — **plausible, not stated.** The dream contains nothing about Saki’s training or care role.
+- *The competitive relation through which Saki understands herself disappears* — **strong inference.** In U1’s first episode Saki explains why the sisters love each other: she loves winning `負けたら悔しい勝負`, `きっとあの子もそう。` / `だからわたしたち姉妹は、` / `お互いのことがだぁ～い好きなのよ！` (`adv_unit_01-01_03.txt`). In Saki’s own account, the sisters love each other because each loves contests that would hurt to lose. The dream removes Ume’s side of that bond.
+
+**Why departure is worse than defeat.** The feared progression can be tested link by link:
+
+| link | status in U1 | evidence |
+| --- | --- | --- |
+| defeat | occurred; the dream repeats it | `04_07`; `今日も` |
+| loss of parity | Saki’s waking belief; contested, then falsified | `04_09` `もう追いつけるわけ、ないじゃない`; `04_10` `もう二度と勝てない`; the Producer, `04_12` `あなたはいまも……少しずつ成長している`; outcome, `04_21` `1勝1敗` |
+| loss of interest | dream only; contradicted | `04_18`; `04_21` |
+| new purpose | confirmed, but not exclusive of Saki | `04_14`, `04_19`, `04_21`, `04_23` |
+| separation | dream only; contradicted | `04_21` `次は！　負けないからね！` |
+
+The nightmare is accurate about Ume’s de-totalization and wrong about its relational cost. Its first unsupported link is loss of interest, and everything after depends on it. That is why the threat exceeds defeat. Saki’s micro-cycle (§7.2) ends in renewed challenge, and renewed challenge needs an opponent who still wants the contest. Saki can choose motion alone: in `04_10` her body keeps moving after her heart has broken. She cannot make Ume want to race.
+
+**The second fear: losing without frustration.** In `04_15` Kotone guesses that Saki fears losing again. Saki answers `それもあるけど` and names a different fear: `もう一度負けて……もしも。` / `悔しくなかったら……どうしようって。` Fear of losing and fear of no longer caring about losing are distinct, and Saki treats the first as only part of what keeps her awake. The scene completes an earlier exchange. After the defeat the Producer said that what keeps Saki running after her heart broke (`心が折れて、なお咲季さんを走らせている<em>それ</em>`) will never break again, and Saki replied `……だといいけどね` (`04_11`). Her confidence is already broken; what remains is the refusal to lose that still moves her body (`04_10`: `わたしは……っ！　誰にも負けたくないのよっ！`). If that refusal stopped hurting, nothing would be left driving her. By her founding criterion (`01_03`), frustration also defines a contest worth winning. The two fears are therefore exactly related but not identical:
+
+- the nightmare locates the extinction in Ume (`つまんない`);
+- the confession locates it in Saki (`悔しくなかったら`);
+- both negate the premise of `01_03`, that the sisters love each other through contests that hurt to lose.
+
+They should be modelled as two fears sharing one premise, not as one phenomenon.
+
+**What the sleep evidence does and does not establish.** Temari observes recent sleeplessness during the training interval (`04_13`: `最近、夜、眠れてないんでしょ`). On the eve of the H.I.F. Kotone asks `やっぱ今夜も……眠れない？` and reports that Saki wakes and cries at night `毎晩のよーに` (`04_15`); Saki says she is too frightened to sleep; on the day itself Kotone still teases her as `寝不足` (`04_18`). Repeated sleeplessness and near-nightly waking and crying are therefore attested across the interval, by peers and by Saki herself. The sources do **not** say that the nightmare recurs: Saki reports one bad dream (`04_13`), and the fear she names in `04_15` is a waking fear. Nothing supports a clinical classification; these scenes concern competitive affect, rivalry and relationship.
+
+**The ensemble’s contribution (U1 only).** Re;IRIS supports Saki without asking her to recover first, to hide her breakage, or to stop competing:
+
+- Kotone relocates the defeat from sister duel to unit result: `Re;IRISが、Begraziaに負けたんだよ`. Temari refuses to let Saki own the humiliation alone (`勝手に屈辱を奪わないで。それ、私のだから。`) and endorses action without recovery (`ベストを尽くすんでしょ。立ち直ってないままで。`) (`04_10`).
+- The Producer corrects her growth model (`04_12`), and Saki registers what U1 has made possible: `考えてみたら……生まれて初めてなのね。` to stay in the same contest after Ume has overtaken her.
+- Temari notices the sleeplessness and answers with challenge rather than comfort (`……足、引っ張らないでよ。` / `……そっちこそ。`, `04_13`).
+- Kotone offers a consolation, `花海咲季は、とっくに世界一のサポーターだっての`, and Saki refuses it: `わたしがなりたいのは、世界一のアイドルなんだけど？` (`04_13`). A caregiver identity is not an answer to the fear.
+- Kotone admits she does not understand the fear (`よくわかんないな、あたしには`) and answers with reciprocity rather than argument: what helped her was the others’ self-interested pursuit of their own dreams, `あんたたちの<em>それ</em>`, so she will do the same (`04_15`). The A1 script emphasizes `それ` both here and in the Producer’s line in `04_11`. *Interpretive (T-D):* the drive Saki fears losing is already circulating inside the unit and can be returned to her. Kotone also tells her that today’s Saki is far more reliable than the Saki who laughed that she was in perfect shape at the Selection. Saki ends the night with `朝になるのが、楽しみね`. The fear is not refuted; it is accompanied into anticipation.
+
+Inside U1, a peer rather than the Producer keeps the night watch. This bears on H-SAKI-05 (§19).
+
+**How U1 answers the nightmare.**
+
+1. **Before any result** (`04_18`), Saki tells Ume what she has hidden. Ume says she always knew (`そんなのしってたよ。ずーっと前から。`), lists the same flaws and more, and concludes `あたしのお姉ちゃんは、世界一素敵なんだ`. The premise that Ume’s regard depends on the invincible image is falsified before Saki wins anything.
+2. **In Saki’s absence** (`04_14`, `04_19`, `04_23`), Ume confirms the dream’s premise. Beating Saki was her dream and it is achieved; she has found that she loves idolhood and Begrazia; she announces `新しい夢のはじまり` and invites Sena to become top idols together. In the same `04_19` shout she names Saki among the people who should watch that new dream begin.
+3. **After the H.I.F.** (`04_21`), Ume asks whether she may keep challenging Saki (`いいの……？　これからも、勝負とか……挑んでも。`). Her dream is now her own (`お姉ちゃんを追って、じゃあない。`), and Saki is no longer her only rival. In the image of Saki’s premonition, she says she accelerated in a widened world and found Saki running ahead; it is the most frustrating loss of her life (`いままでで、いちばん、くやしいや`); and when Saki suggests that running toward `同じ夢` is more fun than chasing ever was (`楽しい、でしょ？`), Ume agrees. The scene closes `次は！　負けないからね！` / `ええ！　いつでも挑んできなさいっ！`.
+4. **As Prima Stella** (`04_25`), Saki restates her founding criterion to every idol—`負けたら悔しい勝負に勝つのが大ぁ～～い好きっ！`—and declares everyone she has defeated her sister.
+
+**Limit.** U1 never tests the second fear. Saki does not lose again in U1, so whether she would still feel frustration after a second defeat is not shown. The answer is displaced: Ume’s frustration proves the contest is alive on the other side, and Saki’s public restatement reaffirms the criterion.
+
+**Bearing on `無敵` → `不屈`.** The nightmare shows why “learn to accept losing” would be the wrong remedy. The threatened loss is a counterpart, not a result; for Saki, an acceptance that no longer hurts would be the very extinction she fears; and she explicitly refuses the supporter consolation. U1 instead keeps her competing while broken. Kotone and Temari marvel that she gives her best performance with her spirit `べっきべきにヘシ折れたまんま`, and Saki recalls the unit name’s meaning as `花のように不屈で` (`04_20`). U1’s vocabulary converges with the `D-SAKI` concept of `不屈` without supplying Dear 027’s definition.
+
+**Cross-track comparison, without merger.** `D-SAKI` states the same fear awake, before a contest Saki goes on to win: Ume will overtake her, run toward her dream, `負けたやつへの興味は失せて……` / `二度と振り向いてくれなくなる。` (`adv_dear_hski_009.txt`). U1 states it as an involuntary dream after a defeat. In both tracks the actual Ume asks for Saki’s continued presence: `あたしを置いていかないで！！` after winning in `adv_dear_hski_022.txt`, and the request to keep challenging in `04_21`. The fear is therefore a cross-track invariant of Saki (method §4.3). The nightmare, the sleeplessness and the `悔しくなかったら` confession are U1 events. The daily crying after the `D-SAKI` summer loss (`adv_dear_hski_027.txt`) is a separate state and is not the U1 insomnia.
+
+**Evidence status.** Occurrence and wording: T-A, A1-verified. Fear structure: T-A for the fears themselves; T-C for their link to `01_03`. The `それ` echo: T-D. Staging: AV-C only; the cue placement, fade durations and cut order reported above are script commands read from A1 metadata, not playback measurements. No voice, animation or rendered/perceptual timing claim is made. An optional, non-blocking audiovisual target is registered as AV-DIA-SAKI-007 (§23.3). Locators: SAKI-L054, SAKI-L058, SAKI-L059 and SAKI-L061–L064 (§26).
+
 ---
 
 # 4. Constructed invincibility
@@ -644,6 +736,8 @@ This gives the project a necessary distinction:
 | **relational recovery** | ability to renegotiate the changed relation with Ume and Producer |
 
 Saki can recover action before the other layers.
+
+*(v2.1)* U1 independently reproduces the gap between action recovery and the other layers (`adv_unit_01-04_10.txt`–`_11.txt`) and adds a distinction the table did not draw. Before affective recovery, Saki can be afraid of two different things: losing again, and losing again **without being frustrated by it** (`adv_unit_01-04_15.txt`). The second threatens the drive that makes action recovery possible in the first place. See §3.6.1.
 
 ## 7.4 The new definition does not erase fragility
 
@@ -1128,6 +1222,8 @@ Both tracks culminate in summer-H.I.F.-related Saki material, but with different
 
 These are mutually exclusive personal histories. They may be compared for invariant characterization—Saki’s relation to units, Ume, leadership, defeat, and titles—but not merged into one sequence.
 
+*(v2.1)* Both tracks contain a first loss to Ume, but at different points. In `U1` it is the Selection defeat of Re;IRIS by Begrazia (`adv_unit_01-04_07.txt`), months before the summer H.I.F.; in `D-SAKI` it is the summer H.I.F. itself (`adv_dear_hski_022.txt`). The U1 nightmare (`adv_unit_01-04_13.txt`) carries an additional restraint: its Ume is Saki’s imagined representation, and its lines must never be cited as evidence of the actual Ume’s beliefs in any track.
+
 ## 16.6 Produce Events
 
 Produce Event scenes are default C3. A job success and its alternate presentation may show the same competence under different outcomes. Frequency claims must deduplicate scenario variants rather than count each as independent repeated behavior.
@@ -1208,6 +1304,7 @@ The following observations are sufficiently repeated across core source families
 18. **She revises judgments when direct evidence proves her wrong, including apologizing.**
 19. **Her post-loss identity is organized around `不屈`, explicitly distinguished from never falling or breaking.**
 20. **The Prima Stella title is treated as a new starting position, not closure.**
+21. *(v2.1)* **Saki’s fear of being overtaken by Ume is articulated as fear that Ume will stop finding her worth competing against and leave her behind, not only as fear of losing rank.** The fear recurs across tracks as a waking forecast in `D-SAKI` (`adv_dear_hski_009.txt`) and as a post-defeat nightmare in `U1` (`adv_unit_01-04_13.txt`). In both tracks the actual Ume contradicts the imagined abandonment (§3.6.1).
 
 ---
 
@@ -1244,6 +1341,8 @@ Saki genuinely learns recipient-centered care, but the care remains oriented tow
 The mature Saki can be broken and continue because the Producer provides a stable witness before whom weakness does not end the role.
 
 **Test needed:** evidence of continuation without the Producer; alternate relationships that can perform the same function; ethical comparison to dependency.
+
+**Partial test result (v2.1, `U1` only):** on the night before the summer H.I.F. (`adv_unit_01-04_15.txt`), Kotone, not the Producer, is the witness before whom Saki admits fear and sleeplessness, and Kotone tells the frightened, sleepless Saki that she is far more reliable today than the Saki who laughed that she was in perfect shape at the Selection. Temari performs a harsher version of the same function (`adv_unit_01-04_09.txt`–`_10.txt`, `_13.txt`). The hypothesis should therefore be narrowed: indomitability requires a witness, but the Producer is not the only possible one. `D-SAKI` remains Producer-centred, and the two tracks must not be merged.
 
 ## H-SAKI-06 — Musical identity as transformation of deficiency into propulsion
 
@@ -1450,6 +1549,15 @@ The later complete passes should search deliberately for the following rather th
 
 No lower-priority dialogue footage is requested at this stage. The numbered-event and support passes may add or remove requests.
 
+### AV-DIA-SAKI-007 — U1 nightmare and H.I.F.-eve confession *(v2.1; optional, non-blocking)*
+
+- **Priority:** P2 — optional open verification target; it does not block the v2.1 textual correction.
+- **Text sources:** `adv_unit_01-04_13.txt`; `adv_unit_01-04_15.txt`.
+- **Human description:** Saki dreams that Ume, after beating her again, calls their contest boring, announces a dream with Begrazia and says goodbye; Saki wakes gasping. Months later, on the night before the summer H.I.F., she tells Kotone she is afraid that losing again might not frustrate her.
+- **Why performance matters:** delivery could show whether dream-Ume is performed as Ume’s ordinary voice or as visibly altered, and how Saki’s minimizing `すごーく嫌な夢を見ただけ` and the late-night conversation beside the sleeping Temari are delivered. Script metadata establishes only cue placement and fades (§3.6.1); no performance claim is made until the scenes are inspected.
+- **Search anchors:** `お姉ちゃんと勝負しても……もう、つまんないや`; `だから……ばいばい`; `悔しくなかったら……どうしようって`; `朝になるのが、楽しみね`.
+- **Retrieval identity:** the public commu name and uploader search terms are not yet resolved; resolve them under method §16.4 before any retrieval request.
+
 ---
 
 # 24. Legacy claims to test
@@ -1500,6 +1608,7 @@ Series-wide legacy claims remain unresolved even where Saki supplies strong supp
 18. How much of her possessive language is comic franchise convention, character-specific attachment, or romantic dramaturgy?
 19. What does “world’s best” mean after the school title is achieved?
 20. Can Saki cease running without experiencing cessation as self-loss?
+21. *(v2.1)* Would Saki still feel frustration after a second defeat by Ume? `U1` raises the fear (`adv_unit_01-04_15.txt`) but never tests it, because Saki does not lose again in that track.
 
 ---
 
@@ -1569,6 +1678,12 @@ This table provides a working locator layer, not an exhaustive index. Exact word
 | SAKI-L058 | `adv_unit_01-04_04.txt`<br>`adv_unit_01-04_05.txt`<br>`adv_unit_01-04_06.txt`<br>`adv_unit_01-04_07.txt`<br>`adv_unit_01-04_08.txt`<br>`adv_unit_01-04_09.txt`<br>`adv_unit_01-04_10.txt`<br>`adv_unit_01-04_11.txt`<br>`adv_unit_01-04_12.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_04.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_05.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_06.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_07.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_08.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_09.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_10.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_11.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_12.txt` | U1 | Re;IRIS/Begrazia contest, defeat, recovery, summer H.I.F. |
 | SAKI-L059 | `adv_unit_01-04_20.txt`<br>`adv_unit_01-04_21.txt`<br>`adv_unit_01-04_22.txt`<br>`adv_unit_01-04_23.txt`<br>`adv_unit_01-04_24.txt`<br>`adv_unit_01-04_25.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_20.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_21.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_22.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_23.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_24.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_25.txt` | U1 | unit victory, Saki Prima Stella, idol-cultivation verdict |
 | SAKI-L060 | `adv_live_hski_001_end-01-01.txt`<br>`adv_live_hski_001_end-02-01.txt`<br>`adv_live_hski_001_end-03-01.txt`<br>`adv_live_hski_001_end-04-01.txt`<br>`adv_live_hski_001_start-01-01.txt`<br>`adv_live_hski_001_start-02-01.txt`<br>`adv_live_hski_001_start-03-01.txt`<br>`adv_live_hski_001_start-04-01.txt` | `transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-01-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-02-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-03-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-04-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-01-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-02-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-03-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-04-01.txt` | live C3 | public command and outcome-sensitive comparison to Ume |
+| SAKI-L061 | `adv_unit_01-04_13.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_13.txt` | U1 training interval | Saki’s nightmare (dream-Ume is Saki-imagined, not Ume evidence); Temari notes sleeplessness; Kotone’s “world’s best supporter” consolation and Saki’s refusal |
+| SAKI-L062 | `adv_unit_01-04_15.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_15.txt` | U1 H.I.F. eve | near-nightly waking and crying; fear of losing without frustration; Kotone as night witness |
+| SAKI-L063 | `adv_unit_01-04_18.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_18.txt` | U1 H.I.F. day | Saki confesses hidden flaws to Ume; Ume’s answer; rematch accepted before the result |
+| SAKI-L064 | `adv_unit_01-04_14.txt`<br>`adv_unit_01-04_19.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_14.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_19.txt` | U1; Saki absent | actual Ume with Begrazia: beating Saki was her fulfilled dream; she loves idolhood and Begrazia; she announces a new dream and names Saki among its watchers |
+
+*(v2.1)* SAKI-L058 (Parts 04–12) and SAKI-L059 (Parts 20–25) left Parts 13–19 unindexed without any recorded exclusion rationale, and the gap coincided with the omission corrected in §3.6.1. It is therefore treated as an omission rather than a deliberate selective boundary. SAKI-L061–L064 index the Saki-relevant evidence in that range. Parts 16 and 17 remain unindexed here because §3.6.1 does not rely on them; they are not asserted to be irrelevant to Saki. The table remains a working locator layer rather than a contiguous index.
 
 ---
 
