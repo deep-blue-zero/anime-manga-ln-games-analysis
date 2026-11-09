@@ -335,11 +335,58 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 
 - Registry file: [`characters/reconstruction_capabilities/mushoku-tensei/rudeus@light-novel.jsonl`](../reconstruction_capabilities/mushoku-tensei/rudeus@light-novel.jsonl)
 
+<a id="mushoku-tensei-rudeus-ln-v01-v15-model-20261109-01"></a>
+
+#### Assessment `mushoku-tensei-rudeus-ln-v01-v15-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `mushoku-tensei:rudeus`
+- Scope: continuity `light-novel`
+- Source boundary: Only mushoku-tensei:rudeus@light-novel\#character-model \(MT\_RUDEUS\_RECONSTRUCTION\_MODEL revision 1.12, canonical, BOUNDED\_PROVISIONAL\), \#monograph-v01-v10 and \#monograph-v01-v15 \(the two canonical Rudeus monographs, version 1.0\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V15. The model and monographs route source observations to an evidence index, a shared state ledger, sequential readings and checkpoints, none of which is curated on this subject or used as evidence here. The model's own readiness label is a method input, not a conclusion adopted here. Diary, elder testimony and Orsted's reincarnation account are attributed accounts. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
+- Temporal boundary: Japanese light novels V01-V15, through selector MT-RM-ST55 \(spoken marriage, renewed concealment, identity disclosure and negotiated service\). Each claim applies only to a named selector's knowledge; the V01-V10 monograph stays frozen at V10; no earlier state acquires later knowledge, and the origin account is still undisclosed to Roxy and Sylphiette at the boundary. Nothing after V15 is established.
+- Basis commit: `b6d39758903ce4d35f3dab527875a3f1efa70cd3`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `cfbd91e1a220befbf067db7eae446e6b929f67b70271021b880cda2512331eaf`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: One named selector from MT-RM-ST01 to ST55, with only that selector's knowledge; diary, elder testimony and Orsted's reincarnation account remain attributed and never supply later knowledge or powers.
+  - `CROSS_SCENARIO` condition: Only the model's BOUNDED\_PROVISIONAL domains: practical learning and coordination, familiar-party interaction and written public/private register; high-stakes judgment, sustained boundary respect, adult relationships, unfamiliar politics, prophecy and audiovisual delivery require abstention.
+  - `CROSS_SCENARIO` condition: Output is a labeled hypothetical response range under the applicable rule, with its countercase and falsifier; it never asserts that recognizing a reason will govern his action.
+  - `CROSS_SCENARIO` condition: No sexualized scenario and no invented source quotation; modern-setting extrapolation and unseen diplomacy are out of scope.
+  - `CROSS_SCENARIO` bounds: chronology A single selector within Japanese light novels V01-V15 with that state's knowledge only; nothing after V15; the V01-V10 monograph's argument for states up to V10.; interlocutor Attested recipients in their selector-specific relation, such as Roxy, Eris, Sylphiette, Paul, Norn, Aisha, Ruijerd, Zanoba, Cliff, Juli, Nanahoshi, Sara, Elinalise and Orsted; Ruijerd's reciprocity rule is not generalized to others.; settings The Japanese light-novel settings of V01-V15 only; Technical competence does not transfer to authority over another person's needs or decisions; A missing trigger is not scored as a successful prediction; Materially novel contexts end in abstention
+  - `MUNDANE_SOCIAL` condition: Only familiar-party practical errands, study, chores, meals and lessons as near analogs of located scenes, with the selector, money knowledge, available experts and stakes stated.
+  - `MUNDANE_SOCIAL` condition: Several plausible choices are allowed; no invented leisure preference, household routine or adult domestic persona.
+  - `MUNDANE_SOCIAL` condition: Recipients keep independent decisions; his consent or permission practice is never inferred from familiarity.
+  - `MUNDANE_SOCIAL` condition: Behavior is described in prose; no quoted speech is generated as canonical.
+  - `PROFESSIONAL_CONTEXT` condition: Only tutoring a familiar learner whose cooperation matters, or technical research, craft or party work with collaborators, as near analogs of located V02-V13 scenes with the selector stated.
+  - `PROFESSIONAL_CONTEXT` condition: The learner's or collaborator's independent knowledge and decisions are preserved; compliance from a dependent is not cooperative consent, and successful instruction is not emancipation.
+  - `PROFESSIONAL_CONTEXT` condition: No ordinary employment under Orsted, mission performance, institutional politics or universal teaching method is assumed.
+  - `PROFESSIONAL_CONTEXT` condition: Behavior is described in prose; no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `attributed-accounts` (evidence-backed limitation): The older self's diary, the elder's testimony and Orsted's reincarnation account are attributed accounts; they cannot supply young Rudeus with future powers or serve as verified chronology or cosmology.
+  - `boundary-recurrence` (evidence-backed limitation): A stated boundary was violated again after he acknowledged it \(V10\), which the model treats as disconfirming any durable universal transfer; earlier refusals remain refusals after later closeness and marriage creates no universal access.
+  - `bounded-provisional-ceiling` (evidence-backed limitation): The model is BOUNDED\_PROVISIONAL in every admitted domain, marks no domain DOMAIN\_READY, rates mechanism confidence moderate and requires abstention in unsupported contexts; the V01-V15 monograph calls the account explanatory constraints, not a validated simulator.
+  - `competence-not-authority` (evidence-backed limitation): Technical capacity does not confer knowledge of others' needs or comprehensive authority, and high output does not make him a capable teacher of every learner.
+  - `horizon-v15` (evidence gap): Nothing after V15 is assessed; whether his capacity to accept correction holds under another threat, ordinary service under Orsted and his disclosure of the origin account to Roxy and Sylphiette remain open.
+  - `impression-control-bounded` (evidence-backed limitation): Impression control applies to specific opportunities under apparently manageable risk; not every gift, joke, plan or act of aid conceals exploitation, and V15 concealment is a near analogy rather than the original staged-rescue trigger.
+  - `observations-uncurated` (evidence gap): The evidence index, shared state ledger, sequential readings and checkpoints that own the source observations are not curated on this subject; locators are known here only as the model and monographs route them. Missing support is not evidence of absence.
+  - `recognized-reasons-not-governing` (evidence-backed limitation): Recognizing another person's need or objection does not reliably govern his next action; accurate empathy can coexist with deliberate pressure, as with Nanahoshi in V15, and no rule ensures recognized reasons are honored.
+  - `register-not-truth` (evidence-backed limitation): Register shifts are contrasts, not a pronoun classifier, and neither politeness nor rough speech certifies truth, disclosure or consent.
+  - `retrospective-fit-only` (evidence-backed limitation): All 87 checks are retrospective fits under declared prior franchise exposure: no clean holdout, numerical forecast or clinical diagnosis follows.
+  - `untested-rules` (evidence-backed limitation): Rules 006 and 007 are UNTESTED under their exact triggers after V03 and V06, and rule 002 has no comparable sustained tutoring test in V14 or V15; untested is not passed.
+  - `voice-unquoted` (evidence gap): No wording beyond pronoun contrasts and no acoustic performance is in evidence.
+- Evidence at basis commit:
+  - [`mushoku-tensei:rudeus@light-novel#character-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/mushoku-tensei/04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md)
+  - [`mushoku-tensei:rudeus@light-novel#monograph-v01-v10`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md)
+  - [`mushoku-tensei:rudeus@light-novel#monograph-v01-v15`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH_V01_V15.md)
+- Supersedes: `mushoku-tensei-rudeus-ln-v01-v15-monographs-20261108-01`
+
 <a id="mushoku-tensei-rudeus-ln-v01-v15-monographs-20261108-01"></a>
 
 #### Assessment `mushoku-tensei-rudeus-ln-v01-v15-monographs-20261108-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `SUPERSEDED` — historical record; replaced by a successor assessment
 - Entity: `mushoku-tensei:rudeus`
 - Scope: continuity `light-novel`
 - Source boundary: Only mushoku-tensei:rudeus@light-novel\#monograph-v01-v10 and \#monograph-v01-v15, the two canonical Rudeus character monographs \(each version 1.0\) at basis\_commit, read in full as reviewed repository analysis of the locked Japanese light novels V01-V10 and V01-V15. Both monographs state that the Rudeus reconstruction model owns his conditional rules and state selectors and that an evidence index and shared ledger own the observations; the model \(revision 1.12\), the index, the ledgers, the readings and the checkpoints are not curated on this subject and are not used as evidence here. The project's current-state entrypoint was read for method and gate state only. The older self's diary, the elder's testimony and Orsted's account of reincarnation are attributed accounts, not accomplished chronology or verified cosmology. No web novel, later light-novel volume, adaptation, performed voice, reception or remembered franchise biography is in scope.
@@ -347,7 +394,7 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Basis commit: `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `76662e8b9039387908818a86355af3742ce3e03841eb45c9cd4807b475356d26`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
   - `CROSS_SCENARIO` bounds: chronology A single named volume state within V01-V15 with that volume's knowledge only; the V01-V10 argument for states up to V10, nothing after V15, and diary or elder testimony never treated as his accomplished past or future.; interlocutor Only attested recipients in their volume-specific relation: Roxy, Eris, Sylphiette, Paul, Zenith, Norn, Aisha, Ruijerd, Zanoba, Cliff, Nanahoshi, Juli, Sara, Orsted and Hitogami.; settings The Japanese light-novel settings of V01-V15 only; Technical capacity is not comprehensive authority or knowledge of another person's needs; One accepted correction does not justify universal candor, and recognized reasons need not govern his next choice; Materially novel contexts end in abstention
 - Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
@@ -366,6 +413,8 @@ Recorded assessments of subjects in the `mushoku-tensei` namespace of the [Chara
 - Evidence at basis commit:
   - [`mushoku-tensei:rudeus@light-novel#monograph-v01-v10`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md)
   - [`mushoku-tensei:rudeus@light-novel#monograph-v01-v15`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b0d1294fa93ff1aa0b2df0e03de16db3a7d45106/series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH_V01_V15.md)
+- Superseded by: `mushoku-tensei-rudeus-ln-v01-v15-model-20261109-01`
+- Stale reason: reconstruction\_status.py work-queue at main b6d39758903ce4d35f3dab527875a3f1efa70cd3 reports EFFECTIVELY\_STALE with reasons EVIDENCE\_MEMBERSHIP\_CHANGED and SUBJECT\_COVERAGE\_CHANGED: discovery PR \#534 added reviewed evidence mushoku-tensei:rudeus@light-novel\#character-model \(RECONSTRUCTION\_MODEL.md, revision 1.12 through V15\) and routed it into the reviewed-scope coverage, so this assessment no longer covers the subject's reviewed evidence set.
 
 ### Subject `mushoku-tensei:ruijerd@light-novel`
 

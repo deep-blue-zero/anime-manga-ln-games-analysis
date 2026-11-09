@@ -51,6 +51,44 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:izumi-yuzu@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/07%20Character%20Reconstruction%20Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`tomozaki:izumi-yuzu@light-novel#provisional-character-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
 
+### Subject `tomozaki:konno-erika@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/konno-erika@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/konno-erika@light-novel.jsonl)
+
+<a id="tomozaki-konno-erika-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-konno-erika-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:konno-erika`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:konno-erika@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Konno Erika bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS\) over the locked Japanese main V01-V12 with story-locally routed V06.5/V08.5, whose routes KE-E01 to KE-E10 mix fresh primary windows \(V01, V04, V05, V06.5, V07\) with inherited analytical routes \(V04 motives, V05 escalation, V06\); and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_KONNO\_B03\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The implementation review, evidence manifests, integration review, review packet, readings, ledgers and the Hinami, Fumiya and Kikuchi studies routed by KE-E10 are not curated on this subject and are not evidence here. Konno Erika is one person; Akiyama is not merged with the given name Yumi. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's selectors KE01\_PUBLIC\_CHALLENGE \(V01\), KE04\_CLASS\_PRESSURE \(V04\), KE05\_HARASSMENT and KE05\_REVERSE\_TARGET \(V05\), KE06\_COEXISTENCE \(V06\), KE65\_FRIEND\_OUTING \(V06.5 at its story-local festival-preparation clock\) and KE07\_SCRIPT\_COLLAB \(V07\). V08-V12 supply no new state in the completed audit, which is not proof of no off-page change; each selector carries only the information shown available to her; nothing after V12 is established.
+- Basis commit: `b6d39758903ce4d35f3dab527875a3f1efa70cd3`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `21aeab8560e99dfa469f1547493128455b764c49cfd556845311f9b997b482a8`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology One of the selectors KE01\_PUBLIC\_CHALLENGE to KE07\_SCRIPT\_COLLAB within Japanese V01-V07, with V06.5 at its story-local clock; V08-V12 add no state and nothing after V12 is established.; interlocutor Only the attested recipients in their represented standing: Fumiya and Yuzu in V01, Hirabayashi and Kawamura in V04, Tama, Akiyama and the class in V05-V06, Yuzu and Kawaguchi Mutsumi in V06.5, Kikuchi in V07.; settings Familiar school and peer settings of the Japanese light novels only; No new low-status recipient, private remorse, family, clinical, sexual or adult-work field; Accountability remains actor-specific; no other person's apology is credited to her
+  - `MUNDANE_SOCIAL` condition: Only ordinary company with Yuzu as the actual consulted friend \(clothes, food, photographs\) as near analogs of the V06.5 outing, with no public threat introduced.
+  - `MUNDANE_SOCIAL` condition: Receptivity to a friend's judgment is local; no claim of humility, restitution or changed standing with Tama, Akiyama or others.
+  - `MUNDANE_SOCIAL` condition: Any third party's permission state is tracked separately from Yuzu's benefit.
+  - `MUNDANE_SOCIAL` condition: No invented wardrobe, diet or routine; behavior is described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `apology-actor-specific` (evidence-backed limitation): Akiyama and the group apologize to Tama after Konno leaves \(V05 part0028 P17-19\); that apology is not Konno's, and no accountability act of hers is shown through V12.
+  - `care-not-reform` (evidence-backed limitation): Real care for Yuzu and a useful script revision coexist with unresolved responsibility toward Tama and Akiyama; neither proves moral conversion.
+  - `inherited-routes` (evidence gap): The V04 motive account, the V05 escalation detail and the V06 account rest on inherited analytical routes without fresh raw rereads; the readings, ledgers, reviews and manifests they route to are not curated on this subject.
+  - `motive-observer-inferred` (evidence-backed limitation): Her motive mixture is Fumiya's inference and the source supplies no comprehensive interior, childhood explanation or desire ordering.
+  - `no-new-recipients` (evidence-backed limitation): The model excludes predictions for a wholly new low-status recipient and weakens on altered familiar relations and new threat intensity.
+  - `permission-states-separate` (evidence-backed limitation): In V06.5 she takes Kawaguchi's phone before assent and sends the first message after assent; a beneficiary's relief does not settle the device owner's permission.
+  - `post-v07-unknown` (evidence gap): V08-V12 supply no new Konno episode in the completed audit; that is not proof of no off-page change, and nothing after V12 is assessed.
+  - `victimization-not-justice` (evidence-backed limitation): Being reverse-targeted neither erases her prior harm nor establishes confession, deserved punishment or forgiveness, and Tama's stopping the crowd is protection, not demonstrated forgiveness.
+  - `voice-unestablished` (evidence gap): No idiolect, stable phrasing or acoustic manner is established and generated speech was not evaluated.
+- Evidence at basis commit:
+  - [`tomozaki:konno-erika@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/tomozaki/04%20Character%20Analysis/Konno%20Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:konno-erika@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/tomozaki/07%20Character%20Reconstruction%20Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 ### Subject `tomozaki:mizusawa-takahiro@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/mizusawa-takahiro@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/mizusawa-takahiro@light-novel.jsonl)
