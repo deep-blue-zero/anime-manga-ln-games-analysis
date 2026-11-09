@@ -203,6 +203,7 @@ Reviewed analysis subjects in the `mushoku-tensei` namespace of the [Character A
   - `historical-v01-v10`: LIGHT_NOVEL VOLUME: Japanese light-novel V01–V10 cumulative monograph. The SPEECH dimension is limited to written narration and self-presentation within this historical scope.; continuity `light-novel`
   - `reviewed-scope`: LIGHT_NOVEL VOLUME: Published Japanese light novels V01–V15; cumulative analysis with the V01–V10 argument preserved at its historical scope. Diary and elder testimony remain attributed alternatives, not accomplished chronology.; continuity `light-novel`
 - Reviewed current evidence:
+  - [`character-model` — Bounded character analysis through V15](../../series/mushoku-tensei/04%20Character%20Analysis/rudeus/RECONSTRUCTION_MODEL.md)
   - [`monograph-v01-v10` — Character monograph through V10](../../series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH.md)
   - [`monograph-v01-v15` — Character monograph through V15](../../series/mushoku-tensei/04%20Character%20Analysis/rudeus/CHARACTER_MONOGRAPH_V01_V15.md)
 
