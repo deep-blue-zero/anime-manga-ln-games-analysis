@@ -245,6 +245,40 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:konno-erika@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/tomozaki/04%20Character%20Analysis/Konno%20Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:konno-erika@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/tomozaki/07%20Character%20Reconstruction%20Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
+### Subject `tomozaki:michael-andi@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/michael-andi@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/michael-andi@light-novel.jsonl)
+
+<a id="tomozaki-michael-andi-ln-v12-retrieval-20261109-01"></a>
+
+#### Assessment `tomozaki-michael-andi-ln-v12-retrieval-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:michael-andi`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:michael-andi@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Michael Andi bounded posthumous character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, scope B\_posthumous\_artifact\_and\_testimony\_bounded\), whose positive person evidence is Japanese V12 surviving documents and attributed island testimony \(MA-E01 to MA-E09, MA-P01 to MA-P08\), with earlier volumes routed only as Kikuchi's and Fumiya's reception \(MA-P09\); and \#attributed-retrieval-model, the canonical derived-use attributed retrieval/constraint model \(MA1 to MA6\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier, enacts no current or posthumous interior and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The supporting character implementation review, the supporting literary evidence manifest, the historical and context retrieval integration review, operator guide and packet, the accepted Kikuchi study and the ledgers \(CRI section 18, CS section 19.1, REL section 17.1\) are not curated on this subject and are not evidence here. No published Andi novel text, adaptation, performed voice or post-V12 material is in scope.
+- Temporal boundary: Andi's historical island presence as attributed after his death in V12: more than ten years of reported visits ending in a last year of desk work, with the order of the fish, prank, drinking, cloth and story-night reports not established; the V12 inquiry state is a record held by others \(tower, cloths, private continuation\), not a living Andi state. Earlier-volume material is later readers' reception, not his biography. Age, dates and mechanism of death and publication chronology are unknown.
+- Basis commit: `5aa25a60a918015bb973776732340cf205f9d39e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `be20f1fdab395c69d820e8725c699145d09461b27bff91f2fca526a08e271efa`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The historical island band only, as attributed after his death in V12, with report order unestablished; earlier volumes are reception and the V12 inquiry is a record held by others, not a living Andi state.; interlocutor Only attested recipients in their reported standing: the innkeeper, fish workers, the shopkeeper and translation helper, the liquor seller, Mitsu as craft partner and custodian, and island listeners; later readers never meet him.; settings The island inn, harbor, shops, tower and story nights as reported only; No new manuscript content, final testament, motive declaration, romance or endorsement of later readers; Output would be attributed retrieval with labeled tellers and alternatives, never an enacted persona or new dialogue
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `identity-and-chronology-unknown` (evidence-backed limitation): Whether マイケル・アンディ is a legal or pen name, his nationality, age, family, education, dates and mechanism of death and publication chronology are unknown at this scope \(MA-P01\).
+  - `interior-and-motive-unavailable` (evidence-backed limitation): His authentic interior, intentions and motive hierarchy are OPEN \(dossier sections 9 and 12\); the fish-motive explanation is a resident's hypothesis \(MA-P04\) and the godlike-observer and remaining-self/prayer accounts are Kikuchi's and Fumiya's reconstructions \(MA-E07\).
+  - `manuscript-marks-not-testament` (evidence-backed limitation): On the private continuation believe, tell, record and wish are crossed out and pray is circled \(V12 p0021 P267-329\); the marks establish revision and selection on those pages, not reasons, a final doctrine, a last thought or permission for later uses.
+  - `no-full-reread-and-uncurated-routes` (evidence gap): The dossier claims no complete new V12 primary reread, and the implementation and integration reviews, manifest, packet, operator guide, Kikuchi study and ledgers are not curated on this subject.
+  - `no-romance-or-identified-women` (evidence-backed limitation): The shopwoman's unnamed woman and the translation helper are not identified with each other or with Mitsu, and no wife, lover or romance is established \(MA-P02, MA-P05\).
+  - `posthumous-attributed-access-only` (evidence gap): No scene of Andi alive is represented; all conduct reaches the reader as recollection, material trace or translated document after his death.
+  - `reception-not-biography` (evidence-backed limitation): Earlier-volume Andi material is Kikuchi's and Fumiya's reception and does not show Andi's knowledge of those readers or a present development in him \(MA-E01, MA-P09\).
+  - `voice-unestablished` (evidence gap): No idiolect, habitual distribution or acoustic manner is established, his published prose is not in evidence, and generated speech was not evaluated.
+  - `witness-gaps` (evidence-backed limitation): The innkeeper does not know whether the last manuscript was completed \(MA-P03\), and the liquor seller cannot explain his observation-records statement and heard it as drunk talk \(MA-P02\).
+- Evidence at basis commit:
+  - [`tomozaki:michael-andi@light-novel#attributed-retrieval-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/07%20Character%20Reconstruction%20Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`tomozaki:michael-andi@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/04%20Character%20Analysis/Michael%20Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md)
+
 ### Subject `tomozaki:mizusawa-takahiro@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/mizusawa-takahiro@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/mizusawa-takahiro@light-novel.jsonl)
