@@ -416,6 +416,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "honkai-star-rail",
+      "stable_slug": "honkai-star-rail",
+      "canonical_title": "Honkai: Star Rail",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/honkai-star-rail/",
+      "canonical_entrypoint": "series/honkai-star-rail/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent versioned Honkai: Star Rail game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella."
+    },
+    {
       "series_id": "idoly-pride",
       "stable_slug": "idoly-pride",
       "canonical_title": "IDOLY PRIDE",
