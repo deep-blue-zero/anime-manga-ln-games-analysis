@@ -291,6 +291,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "girl-meets-rock",
+      "stable_slug": "girl-meets-rock",
+      "canonical_title": "Girl meets Rock!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/girl-meets-rock/",
+      "canonical_entrypoint": "series/girl-meets-rock/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for ふつうの軽音部 (Futsuu/Futsu no Keionbu), officially titled Girl meets Rock!; depicted musical expression is analyzed as page/text evidence without assuming a supplied audio performance."
+    },
+    {
       "series_id": "girls-band-cry",
       "stable_slug": "girls-band-cry",
       "canonical_title": "Girls Band Cry",
