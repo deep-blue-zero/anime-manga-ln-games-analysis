@@ -2,11 +2,14 @@
 title: "Gakuen Idolmaster V2 — Hanami Saki Character-Core Evidence Matrix"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 evidence and falsification matrix"
-version: "2.0"
+artifact_type: evidence_matrix
+version: "2.1"
 phase: "3 — Character-Core Readings"
 character: "Hanami Saki / 花海咲季"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 created: "2026-08-13"
+revised: "2026-11-07"
+revision_note: "v2.1 adds SAKI-C31–C34 for the U1 Episode 04 nightmare/insomnia correction (parent core v2.1 §3.6.1); SAKI-C01–C30 unchanged"
 status: "active provisional apparatus"
 ---
 
@@ -46,6 +49,10 @@ This matrix separates stable source observations from interpretation and identif
 | SAKI-C28 | “All life as cards” redeems detours but risks instrumentalizing pleasure | candidate ethical thesis | `cidol 018`; past-song audit | Saki genuinely enjoys hobbies; use and intrinsic value can coexist | support/event leisure scenes with no competitive payoff | moderate-high |
 | SAKI-C29 | The U1 verdict “idol who cultivates idols” is a plausible Saki-type description but not universal biography | bounded comparative inference | U1 H.I.F. judgment | verdict belongs to U1/Re;IRIS context | compare solo-route effects on other idols | moderate-high |
 | SAKI-C30 | The V1 “competitive love” thesis survives only if its control and hierarchy shadows remain visible | legacy revision | complete core corpus | later evidence may show more noncompetitive intimacy | events, support cards, Ume core, relationship synthesis | high as methodological correction |
+| SAKI-C31 | *(v2.1)* Saki’s fear of being overtaken is fear that Ume will stop finding her worth competing against and leave, not only fear of losing rank | source fact for the fear; strong inference for its structure | U1 `adv_unit_01-04_13` (nightmare; Saki-imagined Ume), `04_04`, `04_18`; D-SAKI `adv_dear_hski_009` | the actual Ume contradicts the imagined abandonment in both tracks: U1 `04_18`, `04_21`; D-SAKI `adv_dear_hski_022` | any track in which the actual Ume loses interest in competing with Saki | high; **dream-Ume lines are never Ume evidence** |
+| SAKI-C32 | *(v2.1)* Saki distinguishes fear of losing from fear that a further loss would no longer frustrate her; the second targets the refusal to lose that still drives her after her confidence breaks | source fact (statement); strong inference (function) | U1 `04_15`; `04_10`; `04_11`; `adv_unit_01-01_03`; `04_25` | U1 never tests a second loss; the answer is displaced onto Ume’s frustration (`04_21`) and Saki’s public restatement of the criterion (`04_25`) | any source in which Saki loses without frustration, or describes that state | high (statement); moderate (interpretation) |
+| SAKI-C33 | *(v2.1)* The nightmare accurately anticipates Ume’s de-totalization (a self-authored dream, Begrazia belonging, rivals beyond Saki) but wrongly infers relational abandonment | strong inference | `04_13` versus `04_07`, `04_14`, `04_19`, `04_21`, `04_23` | Saki does lose exclusivity: `あたしのライバルは、お姉ちゃんだけじゃなくなって` (`04_21`) | none within U1; test against other tracks without merging them | high within U1 |
+| SAKI-C34 | *(v2.1)* In U1, Re;IRIS peers and the Producer support Saki’s continuation without requiring recovery, concealment of breakage, or acceptance of a non-competitive identity | strong inference | `04_09`–`04_13`; `04_15`; `04_20` | Saki refuses part of that support (the “world’s best supporter” consolation, `04_13`); Kotone frames her help as self-interested | track-bound; do not import into D-SAKI | high within U1 |
 
 ## Matrix use rule
 
@@ -57,3 +64,16 @@ A later source should not be logged merely as another example. It should record 
 - changes the causal explanation;
 - reveals recipient disagreement;
 - or requires the claim to be retired.
+
+## Revision record — v2.1, 2026-11-07
+
+Source: parent core `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1; A1 raw scripts re-inspected under Source Lock 1.0 (U1 Episode 04 Parts 04–25, U1 Episode 01 Part 03, Dear 008/009/022/027). No audiovisual evidence was used.
+
+| claim | transition | basis |
+| --- | --- | --- |
+| SAKI-C05 | **STRENGTHEN** | U1 adds an independent-track dramatization (nightmare) and an explicit waking statement (`04_18`); detailed as SAKI-C31 |
+| SAKI-C08 | **STRENGTHEN (cross-track)** | U1 reproduces action before recovery (`04_10`–`04_11`) and a personal best while still broken (`04_20`) |
+| SAKI-C31–C34 | **ADD** | new bounded claims; C31 and C33 carry the dream-attribution restraint |
+| H-SAKI-05 (core §19) | **NARROW** | U1 shows a peer witness (Kotone, `04_15`); the Producer is not the only possible witness |
+
+A1 identities of the principal new sources (SHA-256 of the raw script as materialized from the Source Lock 1.0 archive): `adv_unit_01-04_13.txt` `a237fcaaff552b48fd3f39778cb00f6f49e8b3c755f1ad4d75ec56687c283bf0`; `adv_unit_01-04_15.txt` `124937c44f3235cae2610fe6c94a6491693aa5cd377b1292bb79fbac4a7e5490`; `adv_unit_01-04_18.txt` `98b1bb125585816d02761fa03e77dd6b7d0e878b64df6a7b35b639d6aa508e28`; `adv_unit_01-04_21.txt` `6b58b3aae66c4ba78de549d87096cb79cfb05d30b125f48de25b9c5eaa2f03d9`. The archive’s `manifest.csv` matches the Source Lock control checksum `82ed6510…96b1`.
