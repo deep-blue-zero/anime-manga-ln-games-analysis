@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 76; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 78; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -38,7 +38,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 16 |
-| [`tomozaki`](reconstruction_index/tomozaki.md) | 5 | 5 |
+| [`tomozaki`](reconstruction_index/tomozaki.md) | 7 | 7 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 1 | 1 |
 
 ## Recorded assessments
@@ -130,5 +130,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tomozaki:konno-erika@light-novel` | [`tomozaki-konno-erika-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-konno-erika-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `b6d39758903ce4d35f3dab527875a3f1efa70cd3` |
 | `tomozaki:mizusawa-takahiro@light-novel` | [`tomozaki-mizusawa-takahiro-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-mizusawa-takahiro-ln-v12-model-20261109-01) | `CANDIDATE` | `C` | `870de40b0e25fbead978613f8389e8678ff63ee3` |
 | `tomozaki:nakamura-shuji@light-novel` | [`tomozaki-nakamura-shuji-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-nakamura-shuji-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `ecea5a397b7dbf601851a0d7faed9793acf12264` |
+| `tomozaki:narita-tsugumi@light-novel` | [`tomozaki-narita-tsugumi-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-narita-tsugumi-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `f582dbbb2a5c31c60868c7e39898268f54e8a6bb` |
 | `tomozaki:takei@light-novel` | [`tomozaki-takei-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-takei-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `870de40b0e25fbead978613f8389e8678ff63ee3` |
+| `tomozaki:umayahara-mitsu@light-novel` | [`tomozaki-umayahara-mitsu-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-umayahara-mitsu-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `f582dbbb2a5c31c60868c7e39898268f54e8a6bb` |
 | `yuru-camp:shima-rin@manga` | [`yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01`](reconstruction_index/yuru-camp.md#yuru-camp-shima-rin-manga-v01-v19-synthesis-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |

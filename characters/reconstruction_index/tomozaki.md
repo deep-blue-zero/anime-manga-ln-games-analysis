@@ -176,6 +176,49 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:nakamura-shuji@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/04%20Character%20Analysis/Nakamura%20Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:nakamura-shuji@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/07%20Character%20Reconstruction%20Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md)
 
+### Subject `tomozaki:narita-tsugumi@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/narita-tsugumi@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/narita-tsugumi@light-novel.jsonl)
+
+<a id="tomozaki-narita-tsugumi-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-narita-tsugumi-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:narita-tsugumi`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:narita-tsugumi@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Narita Tsugumi bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS\) over the locked Japanese main V01-V12 with story-locally routed V06.5/V08.5, whose routes NT-E01 to NT-E07 are fresh primary windows in V04, V05, V06.5, V07 and V08 and whose NT-E08 \(V06 and the V12 cast sheet\) is inherited; and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_NARITA\_B01\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The implementation review, evidence manifest, integration review, review packet, readings and ledgers are not curated on this subject and are not evidence here. Gumi is Narita, not Haruka. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's selectors NT04\_WORK\_ADVICE \(V04\), NT05\_QUIET\_SHIFT \(V05\), NT65\_FRIEND\_OUTING \(V06.5 at its story-local clock, seam open\), NT07\_FESTIVAL\_VISIT \(V07\) and NT08\_FUTURE\_TALK \(V08\); V06 is an inherited route; the V12 cast sheet supplies identification only and there is no NT12 behavior state; each selector carries only the information shown available to her; nothing after V12 is established.
+- Basis commit: `f582dbbb2a5c31c60868c7e39898268f54e8a6bb`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `f65a79d1a6f165778383af44797411c871c17eb2f0a029e759a6faf206f97835`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology One of the selectors NT04\_WORK\_ADVICE, NT05\_QUIET\_SHIFT, NT65\_FRIEND\_OUTING \(V06.5 at its story-local clock\), NT07\_FESTIVAL\_VISIT or NT08\_FUTURE\_TALK within Japanese V04-V08; the V12 cast sheet supplies no behavior and nothing after V12 is established.; interlocutor Only attested recipients in their represented standing: Fumiya as one-year-older coworker and advice seeker, Mizusawa Takahiro as familiar coworker, the Mizusawa brothers and bar staff, her friends Mamiya Yoko and Fujii Hitomi, and the V07 festival acquaintances including Nakamura.; settings Familiar karaoke part-time workplace, low-stakes peer leisure and casual advice or future-preference talk only; No severe unfamiliar crisis, sustained demanding labor, household or financial planning, adult partnership, family or education field; Represented alternatives, fatigue and obligation must be supplied; no numerical cost optimization
+  - `MUNDANE_SOCIAL` condition: Only near analogs of the V06.5 outing or V07 visit with the attested friends or familiar acquaintances, under one named selector.
+  - `MUNDANE_SOCIAL` condition: Fatigue, alternatives and the cost of resisting or reversing must be supplied; continued reluctance and initiative both remain possible.
+  - `MUNDANE_SOCIAL` condition: Teasing is not read as romance and familiarity is not universal informality; casual information relay is flagged as a possible permission cost.
+  - `MUNDANE_SOCIAL` condition: No invented preferences, routines or biography; behavior is described in prose and no quoted speech is generated as canonical.
+  - `PROFESSIONAL_CONTEXT` condition: Only a familiar routine karaoke shift with known coworkers \(NT04\_WORK\_ADVICE or NT05\_QUIET\_SHIFT\), with ordinary task obligations still applying.
+  - `PROFESSIONAL_CONTEXT` condition: An ease preference is never converted into nonperformance of a task she is shown doing, and competence is not read as love of work.
+  - `PROFESSIONAL_CONTEXT` condition: No customer crisis, sustained demanding labor, supervisory role, career choice or earnings claim.
+  - `PROFESSIONAL_CONTEXT` condition: Output is a qualitative prose range with assumptions and unknowns, not generated canonical dialogue.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` D; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` E; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `ease-with-independence` (evidence-backed limitation): The V08 wealthy-spouse wish is paired with a stated need for minimum self-support \(part0032 P81-127\); no actual partner, wealth, occupation or financial plan is established.
+  - `identity-bridges` (evidence-backed limitation): Gumi is Narita's permitted workplace nickname, not Hinami Haruka, and her friend Mamiya Yoko is not Hinami Yoko.
+  - `inherited-and-uncurated-routes` (evidence gap): The V06 route is inherited without a fresh reread; the readings, ledgers, implementation and integration reviews and the evidence packet are not curated on this subject.
+  - `konno-motive-not-known` (evidence-backed limitation): In the V04 consultation \(p-0015 P1-86\) she declines to claim Konno's particular desire; her general cost/return account does not supply a specific person's motive.
+  - `no-v12-behavior` (evidence-backed limitation): The V12 cast sheet identifies her but supplies no conduct; the model has no NT12 behavior state and requires era selection for late-series requests.
+  - `out-of-distribution-fields` (evidence gap): Family, home and education history, sustained demanding labor, severe unfamiliar crisis, adult partnership, finances and an enduring confidentiality practice are unknown.
+  - `relay-not-known-breach` (evidence-backed limitation): Her V05 relay of Fumiya's consultation to Mizusawa \(part0012 P324-355\) is not shown as breaking a known secrecy agreement, Fumiya's concern stays inward, and no confidentiality rule follows; it shows that easy circulation can outpace permission.
+  - `teasing-not-romance` (evidence-backed limitation): Teasing Mizusawa or the brothers is not attraction to every man, the V06.5 bar drinks are explicitly nonalcoholic, and no adult experience is inferred.
+  - `v065-seam-open` (evidence gap): The historical seam of the V06.5 bar story is unresolved and unrequested V06.5 gaps were not read.
+  - `voice-unestablished` (evidence gap): No idiolect, stable phrasing or acoustic manner is established and generated speech was not evaluated.
+- Evidence at basis commit:
+  - [`tomozaki:narita-tsugumi@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f582dbbb2a5c31c60868c7e39898268f54e8a6bb/series/tomozaki/04%20Character%20Analysis/Narita%20Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:narita-tsugumi@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f582dbbb2a5c31c60868c7e39898268f54e8a6bb/series/tomozaki/07%20Character%20Reconstruction%20Models/NARITA_TSUGUMI_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 ### Subject `tomozaki:takei@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/takei@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/takei@light-novel.jsonl)
@@ -215,3 +258,43 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Evidence at basis commit:
   - [`tomozaki:takei@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/04%20Character%20Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:takei@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/07%20Character%20Reconstruction%20Models/TAKEI_BOUNDED_RECONSTRUCTION_MODEL.md)
+
+### Subject `tomozaki:umayahara-mitsu@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/umayahara-mitsu@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/umayahara-mitsu@light-novel.jsonl)
+
+<a id="tomozaki-umayahara-mitsu-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-umayahara-mitsu-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:umayahara-mitsu`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:umayahara-mitsu@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Umayahara Mitsu bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS\), whose positive primary scope is the V12 island encounter and her attributed past, with exact source windows UM-P01 to UM-P10 in the Japanese V12 EPUB and no complete V12 reread claimed; and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_MITSU\_B06\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The implementation review, evidence manifest, integration review, review packet, specialist syntheses, readings and ledgers are not curated on this subject and are not evidence here. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The witnessed Japanese V12 island visit through departure, in the model's selectors UM12\_INITIAL\_SHOP, UM12\_REFUSED\_VISIT, UM12\_NEGOTIATED\_WORK, UM12\_HELP\_COMPARISON, UM12\_COSTUME\_SEQUENCE, UM12\_TOWER\_CUSTODY, UM12\_STORM\_CONTINUITY and UM12\_DEPARTURE\_LOAN; Andi-era history is attributed retrospective testimony, not an enacted earlier state; nothing after the departure is established.
+- Basis commit: `f582dbbb2a5c31c60868c7e39898268f54e8a6bb`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `2c6902439106fec26f4385f968c8bf0075d88709883f826d08977c1f508c4a16`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology One of the selectors UM12\_INITIAL\_SHOP to UM12\_DEPARTURE\_LOAN within the witnessed Japanese V12 island visit through departure; earlier Andi-era material is attributed retrospective testimony only and nothing after the departure is established.; interlocutor Only attested recipients in their represented standing: the local cloth worker, the refused fans, Kikuchi and Fumiya as visiting outsiders who negotiate work for access, the waiting local youth, the festival committee member and festival residents.; settings The island kimono/cloth shop, the observation tower and cloth archive, and the festival preparation and storm recovery only; No medical, legal-estate, publication, marital or earlier-life field; Technical acceptance and permission are tracked as separate decisions; no new technical sewing or color instruction is generated
+  - `PROFESSIONAL_CONTEXT` condition: Only her current shop, cloth and festival-preparation work within the V12 selectors, with the task, material state, deadline and recipient standing supplied.
+  - `PROFESSIONAL_CONTEXT` condition: Outputs are qualitative judgments \(correct, require further comparison, reject an arrangement, scope a delegation\), never new technical sewing or color instructions.
+  - `PROFESSIONAL_CONTEXT` condition: Permission and technical acceptance are recorded separately; need does not grant an outsider standing to take over.
+  - `PROFESSIONAL_CONTEXT` condition: Visible bodily limitation is kept as a current constraint without diagnosis or prognosis, and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `declines-causal-theory` (evidence-backed limitation): She declines to certify Kikuchi's theory of why readers carried the story \(UM-P09\) and preserves continuing island quarrels against a harmony reading.
+  - `harshness-persists` (evidence-backed limitation): Bluntness, impatience and technical rejection persist through her gifts, access and loan; generosity is not a soft-persona replacement.
+  - `kinship-and-marriage-open` (evidence-backed limitation): The reported widow who folded after losing her husband at sea \(p-0018 P205-207\) is not identified as Mitsu, a youth's grandmother address establishes no kinship, and her relationship with Andi and marital status remain OPEN.
+  - `loan-not-publication` (evidence-backed limitation): The departure loan covers particular papers with a next-morning return condition; the return is placed behind the counter without a witnessed acknowledgment, and no ownership, circulation or publication right is granted.
+  - `no-diagnosis` (evidence-backed limitation): Her fingers that do not open fully and slowed folding establish bodily limitation and effort, not a diagnosis, onset history or prognosis.
+  - `no-full-reread-and-uncurated-routes` (evidence gap): No complete V12 primary reread is claimed; the readings, ledgers, specialist routes, implementation and integration reviews and the evidence packet are not curated on this subject.
+  - `no-technical-generation` (evidence-backed limitation): New technical sewing or color instructions exceed the model.
+  - `opening-not-permitted` (evidence-backed limitation): Fumiya proposed and opened the package after Kikuchi's assent \(P686-690\) despite her no-extra-action instruction; her later acceptance of the color relation \(P821\) does not grant prior permission.
+  - `sample-mismatch-cause-open` (evidence-backed limitation): The written blue-color name is correct \(p-0016 P701\) and the attached scarlet sample mismatches it \(P702-707\); no culprit or mechanism is established, so it is not her wrong label and not evidence of decline.
+  - `single-encounter-only` (evidence gap): All witnessed evidence is one V12 visit; earlier life is her and others' retrospective testimony, and nothing after the departure is known.
+  - `voice-unestablished` (evidence gap): No complete dialect, habitual distribution or acoustic manner is established and generated speech was not evaluated.
+- Evidence at basis commit:
+  - [`tomozaki:umayahara-mitsu@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f582dbbb2a5c31c60868c7e39898268f54e8a6bb/series/tomozaki/04%20Character%20Analysis/Umayahara%20Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:umayahara-mitsu@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f582dbbb2a5c31c60868c7e39898268f54e8a6bb/series/tomozaki/07%20Character%20Reconstruction%20Models/UMAYAHARA_MITSU_BOUNDED_RECONSTRUCTION_MODEL.md)
