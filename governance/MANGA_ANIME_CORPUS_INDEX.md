@@ -22,6 +22,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
+- [Blue Box](../series/blue-box/) — `series/blue-box/` — Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished.
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Chainsaw Man](../series/chainsaw-man/) — `series/chainsaw-man/` — Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
@@ -36,6 +37,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
+- [Honkai: Star Rail](../series/honkai-star-rail/) — `series/honkai-star-rail/` — Independent versioned Honkai: Star Rail game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
 - [KimiShinu](../series/kimishinu/) — `series/kimishinu/`
 - [KonoSuba](../series/konosuba/) — `series/konosuba/`
