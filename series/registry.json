@@ -1115,6 +1115,22 @@
       "catalog_note": "post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane."
     },
     {
+      "series_id": "you-and-i-are-polar-opposites",
+      "stable_slug": "you-and-i-are-polar-opposites",
+      "canonical_title": "You and I Are Polar Opposites / 正反対な君と僕",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/you-and-i-are-polar-opposites/",
+      "canonical_entrypoint": "series/you-and-i-are-polar-opposites/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_POLAR_OPPOSITES_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of individual development, directed relationships, ordinary behavior and written register, with separate shared-artbook provenance and bounded reconstruction."
+    },
+    {
       "series_id": "youjo-senki",
       "stable_slug": "youjo-senki",
       "canonical_title": "YOUJO SENKI",
