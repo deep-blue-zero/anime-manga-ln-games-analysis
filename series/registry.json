@@ -950,6 +950,22 @@
       "catalog_note": "Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes."
     },
     {
+      "series_id": "summer-time-rendering",
+      "stable_slug": "summer-time-rendering",
+      "canonical_title": "Summer Time Rendering / サマータイムレンダ",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/summer-time-rendering/",
+      "canonical_entrypoint": "series/summer-time-rendering/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SUMMER_TIME_RENDERING_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of causality, knowledge, character and directed relationships, with distinct main and supplementary horizons and source-bounded reconstruction."
+    },
+    {
       "series_id": "tatsuki-fujimoto-before-chainsaw-man",
       "stable_slug": "tatsuki-fujimoto-before-chainsaw-man",
       "canonical_title": "Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集",
@@ -1191,6 +1207,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "zenless-zone-zero",
+      "stable_slug": "zenless-zone-zero",
+      "canonical_title": "Zenless Zone Zero",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/zenless-zone-zero/",
+      "canonical_entrypoint": "series/zenless-zone-zero/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella."
     }
   ]
 }

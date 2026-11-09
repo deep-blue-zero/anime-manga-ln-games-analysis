@@ -71,6 +71,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
 - [SPY x FAMILY](../series/spy-x-family/) — `series/spy-x-family/` — Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes.
+- [Summer Time Rendering / サマータイムレンダ](../series/summer-time-rendering/) — `series/summer-time-rendering/` — Japanese manga analysis of causality, knowledge, character and directed relationships, with distinct main and supplementary horizons and source-bounded reconstruction.
 - [Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集](../series/tatsuki-fujimoto-before-chainsaw-man/) — `series/tatsuki-fujimoto-before-chainsaw-man/` — Japanese short-story collection analysis with independent story identities, source-qualified subset comparison and bounded character reconstruction.
 - [The Apothecary Diaries](../series/the-apothecary-diaries/) — `series/the-apothecary-diaries/` — Japanese light-novel project for 薬屋のひとりごと, with a separate simplified Chinese volume 15 witness; adaptations and cross-language comparison remain distinct evidence scopes.
 - [The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る](../series/cornered-mouse/) — `series/cornered-mouse/` — Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git.
@@ -87,6 +88,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Prospective Japanese manga analysis of Yuri Is My Job!, with volume readings and nine cumulative responsibilities for relationships, performance, information, agency, chronology, written speech, visual form, claims and character readiness. Source continuity, separately bounded supplements and reconstruction gates are controlled by the current entrypoint and project methods.
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
+- [Zenless Zone Zero](../series/zenless-zone-zero/) — `series/zenless-zone-zero/` — Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 
 <!-- END GENERATED CORPUS SERIES CATALOG -->
 

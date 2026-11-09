@@ -1,0 +1,78 @@
+---
+title: "Zenless Zone Zero — Governing analytical method"
+artifact_id: ZZZ_ANALYTICAL_METHOD
+artifact_type: project_game_analytical_method
+series: zenless-zone-zero
+version: "1.0"
+generation: INITIAL_BOOTSTRAP
+status: canonical
+scope: "Governing analytical method"
+authority_scope: source_bounded_initial_design_only
+source_boundary: "Historical target-projection metadata only; native source lock unbound; no narrative or AV inspection and no admitted units"
+canonical_home: series/zenless-zone-zero/ZZZ_ANALYTICAL_METHOD.md
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
+---
+
+# Zenless Zone Zero — source-bounded game method
+
+## 1. Adoption and actual task
+
+Adapt the [generic game method](../../governance/analytical-methods/GENERIC_GAME_ANALYTICAL_METHOD.md) with the [novel method](../../governance/analytical-methods/GENERIC_NOVEL_ANALYTICAL_METHOD.md) for textual interpretation and the [medium/lane policy](../../governance/source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md). This method is paired with [ZZZ_SYNTHESIS_ARCHITECTURE.md](ZZZ_SYNTHESIS_ARCHITECTURE.md); no current operation is a narrative reading. The first problem is recovery of a source-bounded foundation from a target-oriented derivative store, not interpreting a familiar character from memory.
+
+Native scripts, tables and runtime witnesses ground claims. Normalized JSONL, target bundles and rendered views route retrieval. A derived label such as `primary_source_view`, a nonzero count or a provider's safe-use claim cannot replace native provenance, actual inspection, the project's admission decision or owner run authorization. No source text or media is copied into Git.
+
+## 2. Project-specific failure modes
+
+The supplied package is a target projection over several incompletely joined graph families. Main-story attribution remains schema-blocked. Explicitly labeled ongoing text does not reconstruct the missing primary story graph. Mixed-speaker GalGame fragments are not assigned to Anby merely because the package concerns Anby; preserve unbound speaker and frame identity until native graph structure proves them.
+
+Trust/date material is conditioned on progression, option and graph reachability. A high-trust response cannot be projected backward or treated as an unconditional relationship. Unbound bubble or performance fragments retain their independent status; filenames and nearby rows do not establish which scene displayed them. Message contact-to-partner identity joins are reported partial, and social-post coverage reports zero/ABSENT_NOT_INGESTED alongside a note about a parsed source surface. Parsed tables are not target-attributed readable conversations. Dedicated profile-voice extraction and audio metadata are not implemented; no register-as-performance or acting claim is available from them.
+
+The resulting first-run proposal must identify a complete, interpretable causal block with a recoverable entering and exiting state, not simply all records matching the target name. If the native spine is unavailable, record that blocker rather than constructing a biography from supplemental fragments. Once a mature foundation exists, bounded retrieval within its admitted horizon is useful and does not need to repeat completed reading.
+
+## 3. Source and identity verification
+
+Bind build, region, platform, language, extraction origin/revision, immutable native hashes and normalization version into a fixed source alias. A changed upstream extract or localization receives a new witness/version with an explicit crosswalk; never redirect an existing citation silently. Keep private transport identifiers and complete machine records in the evidence plane. Public Git carries safe aliases, limited quotations, claim arguments, source coordinates and bounded provenance statements.
+
+For every join retain native keys and origin fields; zero/one/many candidate matches; resolution evidence; unknowns and exclusions. Never infer a character from display name, ID prefix, near-match, neighboring row or package title. Compound speakers, hidden identities, technical variants and unresolved roles retain explicit types. Generic IDs are not globally unified. Deduplicate the native evidence object before counting its multiple projections or appearances in branch outputs; shared dialogue is one observation.
+
+Validate native graph reachability, ordering, choice groups and all alternative paths. A stored row is not proof of runtime playback, release or scene placement. Scripts with no dialogue may still contain context and must be accounted for. Missing references are not default references. Unreleased, unused, cut or test data remains quarantined and outside the admitted horizon.
+
+## 4. Order, state and branch discipline
+
+Keep release order, depicted chronology, player disclosure order, unlock conditions and character knowledge separate. A source ordinal is not a date. Repeatable interface lines are not repeated chronological events. Date uncertain material as uncertain; record independent frontiers for distinct continuities or eras.
+
+Every claim selects `build`, `source_alias`, `language`, `continuity`, `release/unit`, `disclosure_horizon`, `depicted_time`, `character_state`, `relationship_direction`, `knowledge_state`, `route/choice`, `variant`, `unlock_condition`, `context_class` and, where relevant, `narrative_frame/role`. Mark inapplicable fields explicitly. State changes are append-only and independent: knowledge can change without personality change, and one relationship can change while another does not.
+
+Each consequential choice records every option, response and common outcome. Player-selected dialogue represents the designed option space, not one player's personality or a single canonical biography. Mutually exclusive branches do not merge into a history; independent branch invariants have only that branch-family scope. Distinguish stable shared source reuse from corroborating independent observations. Branch labels such as true/bad or numbered suffixes do not establish narrative authority.
+
+For nested frames distinguish the enclosing character, depicted role, controlled figure, frame kind and correspondence (`SAME_PERSON/PLAYS_ROLE/ANALOGUE/UNRELATED/UNRESOLVED`). Events and romance inside an embedded fiction remain inside it. A performer's reactions in the enclosing narrative can be evidence about that performer; the role's biography cannot. Alternate or collaboration contexts remain separately scoped until sources establish a bridge.
+
+## 5. Full reading and argument
+
+After explicit authorization, read the admitted narrative spine in order and entire bounded causal blocks. Recover event structure, prerequisites, choices, consequences and constraints with source anchors before interpretation. A text-search result or target packet is not full unit coverage. Events, side stories and ordinary-life material are independently screened and coverage-accounted; never discard them merely because they are not promotional main content.
+
+Separate `SOURCE_FACT`, attributed report, `BOUNDED_INFERENCE`, `THEMATIC_INTERPRETATION`, `WORKING_HYPOTHESIS`, `VALUE_JUDGMENT` and `UNKNOWN`. A speaker's belief is not a world fact. Explain how a source supports a claim, what plausible alternative remains, what would distinguish it, and the extrapolation limit. Preserve contradictory evidence instead of harmonizing inconvenient contexts. Depiction, interpretation and ethical endorsement are separate arguments.
+
+Track named persons' goals, decisions, self-presentation, values under conflict, repair and resistance. Characterize habits through ordinary behavior, humor, tastes, practical initiatives, irritation and downtime as well as crises. A favorite preference or one dramatic memory cannot explain all conduct. Relations are A→B and B→A with independent evidence, not generic closeness. Co-presence and mention establish neither intimacy nor reciprocity. A missing class in an incomplete extract is not evidence that a behavior never occurs.
+
+Keep full connected interpretation, causal reasoning and counterreadings in source-facing reading artifacts. Tables retrieve the evidence; they do not replace the argument. No fixed word/row budget compresses a difficult block. Reconstructing a factual sequence and explaining its form/psychology are distinct responsibilities, both retained.
+
+## 6. Language, images, performance and mechanics
+
+Historical reports identify CHS as semantic anchor with parallel localizations. Verify that alignment against the admitted native source before using it. Localizations are separate witnesses; compare lexical/register differences explicitly without replacing the anchor. Source-language address, pronouns, ellipsis, particles, register and interlocutor-conditioned shifts require exact wording and attribution. OCR/ASR/MT are provisional derivatives and cannot settle fine linguistic claims without native verification.
+
+Text inspection is `TEXT`; rendered image assets are `STILL_IMAGE`; voiced/cutscene/runtime claims require an actually inspected `CONTINUOUS_AV` witness under the [continuous-AV method](../../governance/analytical-methods/GENERIC_CONTINUOUS_AUDIOVISUAL_ANALYTICAL_METHOD.md). A cue, path or animation command is not its visible/audible effect. Audio existence is not listening, and asset identity is not proof of scene playback or mix. Queue specific missing channels tied to claims and states; preserve text-only conclusions only within their actual support. Direct listening and runtime viewing for this bootstrap: **none**.
+
+Combat statistics, rarity, gacha tiers, unlock ranks and UI instructions are separate data classes. They become narrative facts only when the narrative itself makes that relationship explicit. A mechanical progression level is not time, trust or character importance. Images and music can add meaning when inspected; neither can be inferred from transcript wording or filenames.
+
+## 7. Locators, revisions and acceptance
+
+Preserve reported native `hoyo://` locators but treat their grammar/resolver as unverified until bound to the source lock. Require alias/build + origin artifact/script/table + native unit/document/key + exact field/line pointer, language and state selectors. Do not invent a plausible URI. A projection locator must crosswalk to that native coordinate; runtime evidence adds exact recording identity, settings/route and timestamp. Index base and escaping rules are frozen with the locator version. Unit-only anchors route work but cannot support an exact-language claim.
+
+Use stable `ZZZ-Cnnn` claims and `ZZZ-Snnn` states. The retrieval chain is synthesis assertion → claim version → full reading heading → evidence/native locator and state. Preserve all necessary anchors for distributed patterns. Revisions use `PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN`, keeping original formulation, horizon, counterevidence and dependent artifacts. Source repair, chronology correction, unreliable testimony, branch/variant difference, localization conflict and genuine inconsistency require distinct diagnoses.
+
+A complete block includes locked source/packet receipt and exact coverage; entering states; factual causal account; sustained interpretation; form/register/AV actually inspected; named character, directional relationship, epistemic and group changes; ordinary-life evidence; counterreadings; claim transitions; exiting state; and a transaction naming each required ledger/coverage update or reviewed/no-supported-change disposition. No frontier advances while a required update or consequential channel gap remains outstanding.
+
+Before acceptance, apply handoff §15.6: sample opening, substantial middle and exit synthesis, extending to major relationships, for identifiable subjects, purposeful role references, clear pronouns and correct speaker/thinker/recipient attribution without breaking concealed identity or knowledge horizons. Record sampled scope and supported classifications; mechanical name counts or global substitutions cannot certify semantics. Handoffs preserve full artifact bytes and unresolved obligations. No entrypoint, summary or target dossier replaces full readings.
