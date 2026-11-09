@@ -42,6 +42,8 @@ Supplemental retrieval: `PJSK:mysekai:14_8667:01:001:0001–0004` — incomplete
 
 ## Individual six-lane fit and contradiction audit
 
+The table immediately below preserves the original retrospective audit. The current [targeted reconsideration](#emu-register-remediation) adds discriminating scene tests and retains explicit partial or insufficient results.
+
 Retrospective known-scene explanation, with targeted Japanese probes and reused full-envelope readings. No blind benchmark or independent second reviewer is claimed.
 
 | Lane | Explanation tested | Result / limit |
@@ -56,6 +58,21 @@ Retrospective known-scene explanation, with targeted Japanese probes and reused 
 Contradiction decision: Retain the development of testable craft and institutional argument without claiming intuition becomes universally reliable. E0196 defeats blanket consent or preparation rules; E0202 defeats permanent effortless happiness; incomplete My SEKAI inquiry defeats assumed Mafuyu knowledge. Approval, actual show and financial durability remain different results.
 
 **Readiness decision: R4 for bounded textual reconstruction.** Longitudinal evidence and the individual fit/contradiction decisions support this scope. The fictional unresolved outcome is retained, not supplied by the model. R5 is withheld: no performed-voice corpus was inspected. D3–D4 predictions remain weakly constrained.
+
+## Emu register remediation
+
+The [revised speech matrix](PJSK_OTORI_EMU_RECONSTRUCTION_MODEL.md#speech-and-register) owns conditional guidance. The [supplemental audit](../../09_EVIDENCE_AUDITS_AND_MANIFESTS/PJSK_WXS_TEXTUAL_REGISTER_REMEDIATION_AUDIT_THROUGH_EVENT_0222.md#emu-scene-tests) records six author-run cases, historical state, knowledge, alternatives, observed source, verdict and D0–D4 limits; its six-lane reconsideration retains R4 without treating all cases as passes. The original retrospective’s no-independent-review statement above remains historical. A separate selected-scene reviewer record is reported in the supplement.
+
+| Retrieval purpose | Canonical primary locator | Use and limit |
+|---|---|---|
+| Ordinary play / concealed concern | `PJSK:mysekai:14_8668:01:001:0001–0005`; `PJSK:mysekai:14_8667:01:001:0001–0004` | Ena resource inquiry versus interrupted Mafuyu observation; E1. |
+| Expert inquiry / performed role | `PJSK:event:0131:06:001:0047–0109`; `PJSK:event:0131:08:001:0072–0097` | Polite questions with surprise; Ushiwakamaru endings separate from post-role feedback; E2. |
+| Formal argument / private doubt | `PJSK:event:0164:07:003:0013–0084` | Public 私達 and rebuttal; 0063 is thought, not a spoken no-guarantee line; E3. |
+| Impersonation / instruction / overreach | `PJSK:event:0196:03:002:0012–0029`; `PJSK:event:0196:06:001:0088–0108`; `PJSK:event:0196:08:001:0007–0054` | El role 私, private あたし and later actual-identity apology; authorship returned; E4 PARTIAL. |
+| Grief account / hope | `PJSK:event:0202:04:004:0020–0083` | Initial disclosure precedes permission to continue; fit caveat, serious sound symbolism and strong assurance remain; E5. |
+| Urgent familiar reassurance | `PJSK:event:0208:07:001:0019–0031` | Repetition and remembering; hypothetical complaint is not actual Tsukasa speech; E6. |
+
+These are new retrieval anchors within the existing lock, not new source admission or newly completed event envelopes. Historical deep readings and state owners retain their original scopes.
 
 ## Generation and retrieval boundary
 
