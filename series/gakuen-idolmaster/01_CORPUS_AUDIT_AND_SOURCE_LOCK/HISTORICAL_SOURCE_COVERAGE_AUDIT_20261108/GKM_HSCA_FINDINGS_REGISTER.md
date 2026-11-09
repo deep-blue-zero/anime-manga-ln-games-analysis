@@ -9,6 +9,7 @@ source_lock: GAKUMAS V2 Source Lock 1.0
 source_commit: 00d150a069a3ffa723a1ff264752ba242024caad
 source_revision: 32
 created: '2026-11-08'
+last_updated: '2026-11-09'
 do_not_use_as_current_authority: false
 ---
 
@@ -16,194 +17,211 @@ do_not_use_as_current_authority: false
 
 Retrospective, non-authoritative audit register. It records what the examination established; it does not revise any canonical reading. Companion artifacts: `GKM_HISTORICAL_SOURCE_COVERAGE_AUDIT.md` (master report) and `GKM_HSCA_COVERAGE_LEDGER.tsv` (what was examined).
 
-Field conventions: **Source identity** = Source Lock 1.0 `original_name` plus archive-relative raw path. **Story state** uses the project continuity vocabulary (tracks such as D-UME, U1, P1 failure branch). **Evidence** quotes the Japanese anchor exactly where the auditor recorded one. **Status** is `open` unless stated. Finding IDs in parentheses are the stable assignment-level IDs used in the audit work records; merged entries list every member.
+Field conventions: **Source identity** = Source Lock 1.0 `original_name` plus archive-relative raw path; sources an auditor cited as a range were expanded to exact objects through the Stage-A candidate IDs they carried (noted in the work records). **Story state** uses the project continuity vocabulary. **Evidence** quotes the Japanese anchor exactly as the auditor recorded it. All cells are complete; nothing is abridged. Finding IDs in parentheses are the stable assignment-level IDs; merged entries list every member.
 
-Entries: 180 actionable (from 193 actionable assignment records; 13 merged as duplicates). Severity: P0 0, P1 6, P2 94, P3 79, evidence-only 1.
+Entries: 180 actionable (from 193 actionable assignment records; 13 merged as duplicates).
+
+| Severity | Entries |
+|---|---:|
+| P0 | 0 |
+| P1 | 6 |
+| P2 | 94 |
+| P3 | 79 |
+| evidence-only | 1 |
+
+| Disposition (entry lead) | Entries |
+|---|---:|
+| UNDERWEIGHTED | 74 |
+| CROSS_REFERENCE_GAP | 41 |
+| CONTINUITY_OR_ATTRIBUTION_ERROR | 20 |
+| TRACEABILITY_GAP | 18 |
+| OMITTED | 16 |
+| POTENTIALLY_CORRECTIVE | 11 |
 
 ## Index
 
 | ID | Sev | Subject | Disposition | Summary |
 |---|---|---|---|---|
 | HSCA-001 | P1 | hmsz, ttmr | OMITTED | U1 Temari–Misuzu / Begrazia arc lacks a Misuzu-facing and RS-I home |
-| HSCA-002 | P1 | hski | CROSS_REFERENCE_GAP | D-UME contains a coherent alternate Saki trajectory that no Saki-side canonical home models: first loss to Ume at the N.I.A. FINALE (a third placement after U1… |
-| HSCA-003 | P1 | hume | POTENTIALLY_CORRECTIVE | The core's own bundle shows that two episodes before Dear 035 Saki has already signed with 100 Pro (Dear 033: scouted by President Juo after summer H.I.F., sel… |
-| HSCA-004 | P1 | jsna | UNDERWEIGHTED | The title character's complete U1 retirement arc — announcement (retire from idol work mid-year to concentrate on production because Ume/Misuzu will surpass he… |
+| HSCA-002 | P1 | hski | CROSS_REFERENCE_GAP | D-UME contains a coherent alternate Saki trajectory that no Saki-side canonical home models: first loss to Ume at the N.I.A. |
+| HSCA-003 | P1 | hume | POTENTIALLY_CORRECTIVE | The core's own bundle shows that two episodes before Dear 035 Saki has already signed with 100 Pro (Dear 033: scouted by President Juo after summer H.I.F., self-produced with family management, refuses a producer 'because I would compare'), and that 100 Pro is the institutional default for Hatsuboshi idols (the Producer's own baseline: Dear 016 '卒業後、100プロに入社したとして', Dear 014 '100プロ以上の環境があったなら…移籍'). |
+| HSCA-004 | P1 | jsna | UNDERWEIGHTED | The title character's complete U1 retirement arc — announcement (retire from idol work mid-year to concentrate on production because Ume/Misuzu will surpass her: 'no dead weight, even myself'), destabilisation in the first one-on-one 'mirror' talk with Saki (Ume makes giving up hard; 'can we keep being idols?'; decision deferred; she now claims the title for herself, reversing part 14's expectation of being surpassed), inner doubt at the result, concession to Kotone/Re;IRIS/the Producer, and withdrawal after defeat (frustration; she gave Begrazia's best performance; numbers are not everything; she had not thought about graduating in half a year) — is absent from every Sena-model home. |
 | HSCA-005 | P1 | kllj, ssmk | POTENTIALLY_CORRECTIVE | Sumika Dear 014: Lilja does not simply 'reject' the prodigy charge (two-auditor convergence) |
-| HSCA-006 | P1 | ttmr, kllj, ssmk | POTENTIALLY_CORRECTIVE | The event chain shows that Temari's early deference to Lilja rests partly on a false belief inside the story. Temari never hears Sumika confess the dub: she is… |
-| HSCA-007 | P2 | amao, atbm | CROSS_REFERENCE_GAP | No canonical home records three things: Mao failed to reach the previous year's H.I.F. finals; she answered with resilience then ('I still won't give up; there… |
-| HSCA-008 | P2 | amao | CROSS_REFERENCE_GAP | The tranche renders the contrast as physical presence ('remains physically present'), but the line says Ume's admired person 'keeps being an object of admirati… |
-| HSCA-009 | P2 | amao | UNDERWEIGHTED | Mao's own bundle repeatedly grounds her psychology in an institutional history that the core never synthesizes. She entered the idol course as a fallback after… |
-| HSCA-010 | P2 | amao | UNDERWEIGHTED | D-MAO's own explicit self-account is stronger than the pevent material the core relies on. Mao says her helping originated as prince-role performance and was '… |
-| HSCA-011 | P2 | amao | UNDERWEIGHTED | The core presents the crisis as Mao choosing coauthorship over rational professionalization. Three parts of the route's internal dynamic are missing. (1) The t… |
-| HSCA-012 | P2 | amao, jsna | OMITTED | No canonical home records the president's concealed interest: keeping Mao out of H.I.F. to protect her pre-debut asset value. Sena's explicit condemnation of i… |
-| HSCA-013 | P2 | amao, jsna | CROSS_REFERENCE_GAP | The requested Sena-side counterreading was never done, yet Mao's own bundle already contains it. Sena regrets failing to help a struggling Mao, offers to inter… |
-| HSCA-014 | P2 | amao, hrnm | CROSS_REFERENCE_GAP | Each core uses initiation as evidence of its own subject's growth: Mao moves from solitary prince to seeking partnership; Rinami chooses a peer. The two commun… |
+| HSCA-006 | P1 | ttmr, kllj, ssmk | POTENTIALLY_CORRECTIVE | The event chain shows that Temari's early deference to Lilja rests partly on a false belief inside the story. |
+| HSCA-007 | P2 | amao, atbm | CROSS_REFERENCE_GAP | No canonical home records three things: Mao failed to reach the previous year's H.I.F. |
+| HSCA-008 | P2 | amao | CROSS_REFERENCE_GAP | The tranche renders the contrast as physical presence ('remains physically present'), but the line says Ume's admired person 'keeps being an object of admiration and a goal' (ずっと憧れで、目標であり続けてくれる). |
+| HSCA-009 | P2 | amao | UNDERWEIGHTED | Mao's own bundle repeatedly grounds her psychology in an institutional history that the core never synthesizes. |
+| HSCA-010 | P2 | amao | UNDERWEIGHTED | D-MAO's own explicit self-account is stronger than the pevent material the core relies on. |
+| HSCA-011 | P2 | amao | UNDERWEIGHTED | The core presents the crisis as Mao choosing coauthorship over rational professionalization. |
+| HSCA-012 | P2 | amao, jsna | OMITTED | No canonical home records the president's concealed interest: keeping Mao out of H.I.F. |
+| HSCA-013 | P2 | amao, jsna | CROSS_REFERENCE_GAP | The requested Sena-side counterreading was never done, yet Mao's own bundle already contains it. |
+| HSCA-014 | P2 | amao, hrnm | CROSS_REFERENCE_GAP | Each core uses initiation as evidence of its own subject's growth: Mao moves from solitary prince to seeking partnership; Rinami chooses a peer. |
 | HSCA-015 | P2 | amao | CONTINUITY_OR_ATTRIBUTION_ERROR | Support readings (S2 026–074, S3 001–075) and two state ledgers refer to Mao with male pronouns, contradicting MAO-C14 |
-| HSCA-016 | P2 | atbm | UNDERWEIGHTED | Tsubame's origin is given in at least four non-identical accounts with different epistemic standing: (a) Dear 008 self-deprecating retrospective claim that she… |
-| HSCA-017 | P2 | atbm, jsna | CONTINUITY_OR_ATTRIBUTION_ERROR | Speaker elision and epistemic overstatement. In every A1 instance the word 'love' (愛 / 大好き) is supplied by someone else: the Producer three times (Dear 010, De… |
-| HSCA-018 | P2 | atbm, jsna | UNDERWEIGHTED | The crisis is partly co-produced by Tsubame. Her Dear 019 offer lacks 一緒に and Sena hears it as permission to hand over ('燕になら、任せられるわ'). In Dear 020 she refuses… |
-| HSCA-019 | P2 | atbm, jsna, hmsz | UNDERWEIGHTED | Three scenes after accepting that Sena may genuinely retire (Dear 024 #042), Tsubame tries to bind Sena's post-graduation career outcome by contest. She explic… |
-| HSCA-020 | P2 | atbm, prod | UNDERWEIGHTED | The core models the Producer bond as chosen developmental dependence. It neither analyses nor explicitly brackets the possessive and romance-coded register: Ts… |
-| HSCA-021 | P2 | atbm, other | UNDERWEIGHTED | The core's principal open question already has an in-bundle answer: Shion refuses Tsubame's understanding twice and her rescue once. Each time Tsubame answers … |
-| HSCA-022 | P2 | atbm, jsna | CROSS_REFERENCE_GAP | Tsubame's central structure (No.2 as self-limiting shelter; self-diagnosis; recommitment) recurs in at least two other D-tracks with different catalysts and wi… |
-| HSCA-023 | P2 | fktn | UNDERWEIGHTED | The question the core defers to 'later phases' is answered inside its own corpus. In D-KOTONE the Producer investigates the household finances, searches for th… |
-| HSCA-024 | P2 | fktn | UNDERWEIGHTED | A recurring relational form of the failure stake is not stated: after visible failure Kotone expects to be dropped by the Producer (Dear 002, unconditional; P1… |
-| HSCA-025 | P2 | fktn | UNDERWEIGHTED | KOTO-C02 and §4.3 state the embrace as a stable trait. Early D-KOTONE shows a different baseline: publicly 'dream', privately 成り上がる/大金持ち (Dear 001); she cuts h… |
-| HSCA-026 | P2 | fktn | UNDERWEIGHTED | The concealed contingency plan appears nowhere canonical. Kotone, as leader, privately plans for defeat because she knows what the match means to Saki and Tema… |
-| HSCA-027 | P2 | fktn | UNDERWEIGHTED | The Producer explicitly admits he underestimated her vocal growth, attributes it to clouded judgement, and retires the '歌が下手' verdict he himself pronounced in … |
-| HSCA-028 | P2 | hmsz, jsna, hume | UNDERWEIGHTED | The juniors accept the song as competitive appropriation. Misuzu vows to make the legendary song hers alone, Ume vows to 'protect' it from her, their live call… |
-| HSCA-029 | P2 | hmsz, ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | Two observer inferences are recorded as fact. (1) The identity of 'あの子' is unnamed. Misuzu uses あの子 mostly for Temari (Dear 002/003/006/010/016) but sometimes … |
-| HSCA-030 | P2 | hmsz | POTENTIALLY_CORRECTIVE | The core's staging - Temari's gaze first, universal attention as a later expansion - is stronger than the text. In Dear 010 the original wish already includes … |
-| HSCA-031 | P2 | hmsz, ttmr | UNDERWEIGHTED | Misuzu's side of the SyngUp triangle is under-modelled. She privately held 'top idols together' as a two-person promise with Temari into which Rinha 'cut in la… |
+| HSCA-016 | P2 | atbm | UNDERWEIGHTED | Tsubame's origin is given in at least four non-identical accounts with different epistemic standing: (a) Dear 008 self-deprecating retrospective claim that she started idol work only (ためだけに) to crush Sena's confidence; (b) Dear 010, where she herself re-ranks (a) and admiration as true but secondary to a first wish to free Sena; (c) the Dear 019 flashback, the only staged (not narrated) childhood evidence, in which an adult reminds child Tsubame that she was going to become an idol together with Sena, and the hero wish is reconciled with that already-shared plan; (d) Dear 023's shared childhood admiration of Hatsuboshi idols and competition over 『初』. |
+| HSCA-017 | P2 | atbm, jsna | CONTINUITY_OR_ATTRIBUTION_ERROR | Speaker elision and epistemic overstatement. |
+| HSCA-018 | P2 | atbm, jsna | UNDERWEIGHTED | The crisis is partly co-produced by Tsubame. |
+| HSCA-019 | P2 | atbm, jsna, hmsz | UNDERWEIGHTED | Three scenes after accepting that Sena may genuinely retire (Dear 024 #042), Tsubame tries to bind Sena's post-graduation career outcome by contest. |
+| HSCA-020 | P2 | atbm, prod | UNDERWEIGHTED | The core models the Producer bond as chosen developmental dependence. |
+| HSCA-021 | P2 | atbm, other | UNDERWEIGHTED | The core's principal open question already has an in-bundle answer: Shion refuses Tsubame's understanding twice and her rescue once. |
+| HSCA-022 | P2 | atbm, jsna | CROSS_REFERENCE_GAP | Tsubame's central structure (No.2 as self-limiting shelter; self-diagnosis; recommitment) recurs in at least two other D-tracks with different catalysts and without this Producer. |
+| HSCA-023 | P2 | fktn | UNDERWEIGHTED | The question the core defers to 'later phases' is answered inside its own corpus. |
+| HSCA-024 | P2 | fktn | UNDERWEIGHTED | A recurring relational form of the failure stake is not stated: after visible failure Kotone expects to be dropped by the Producer (Dear 002, unconditional; P1 failure branches; the poor-result ending), and the same choice branch that supplies the core's '綱渡り' line names the fall as the Producer giving up on her ('まだ……あたしを見限らないでいてくれるんですか'). |
+| HSCA-025 | P2 | fktn | UNDERWEIGHTED | KOTO-C02 and §4.3 state the embrace as a stable trait. |
+| HSCA-026 | P2 | fktn | UNDERWEIGHTED | The concealed contingency plan appears nowhere canonical. |
+| HSCA-027 | P2 | fktn | UNDERWEIGHTED | The Producer explicitly admits he underestimated her vocal growth, attributes it to clouded judgement, and retires the '歌が下手' verdict he himself pronounced in Dear 005; his estimate also rates her dance/visual far above the norm. |
+| HSCA-028 | P2 | hmsz, jsna, hume | UNDERWEIGHTED | The juniors accept the song as competitive appropriation. |
+| HSCA-029 | P2 | hmsz, ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | Two observer inferences are recorded as fact. |
+| HSCA-030 | P2 | hmsz | POTENTIALLY_CORRECTIVE | The core's staging - Temari's gaze first, universal attention as a later expansion - is stronger than the text. |
+| HSCA-031 | P2 | hmsz, ttmr | UNDERWEIGHTED | Misuzu's side of the SyngUp triangle is under-modelled. |
 | HSCA-032 | P2 | hmsz, ttmr | OMITTED | Temari and Misuzu skip winter H.I.F. for the SyngUp dissolution live in several non-own tracks (Sena, Mao, China); unmapped |
-| HSCA-033 | P2 | hmsz, jsna | OMITTED | (1) The previous Prima Stella 村雨愁佳 - beaten by Sena, then a 100Pro major-debut top idol whose single song 'broke' Sena's heart and produced Sena's vow never ag… |
-| HSCA-034 | P2 | hrnm, atbm, jsna | UNDERWEIGHTED | The tranche contains a Producer-free, event-level instance of Rinami's core problem but reads her almost entirely as caretaker/regulator/witness. Unsynthesized… |
-| HSCA-035 | P2 | hrnm | CROSS_REFERENCE_GAP | Two support scenes carry Rinami's little-sister history and neither tranche links them to it. In S1-0004-P01 the trainer says she knows Rinami's 事情 and has her… |
-| HSCA-036 | P2 | hrnm, amao | CROSS_REFERENCE_GAP | The Mao-Rinami bilateral system routed to Phase 6 (OQ-RINAMI-07) was never synthesized. Rinami-side states that exist only in Mao's bundle are absent from ever… |
-| HSCA-037 | P2 | hrnm, jsna | CROSS_REFERENCE_GAP | Rinami's route is the corpus's most repeated instance of Sena's evaluator's eye failing to see a classmate's latent capacity (four scenes, two of them Sena's o… |
-| HSCA-038 | P2 | hrnm, prod | CROSS_REFERENCE_GAP | The canonical Producer-node synthesis omits the route that most explicitly combines (a) a pre-institutional childhood relation used as interpretive leverage, (… |
-| HSCA-039 | P2 | hrnm | UNDERWEIGHTED | Dear 018 is a high-stakes decision in which Rinami overrides the Producer's explicit, formal objection, names her desire as わがまま and as wanting to truly win, a… |
-| HSCA-040 | P2 | hrnm | POTENTIALLY_CORRECTIVE | Rinami's own corpus records a first-year, summit-directed aspiration (vow with Mao to catch up with Sena; H.I.F. stage as dream since first year; admiration-dr… |
-| HSCA-041 | P2 | hrnm, prod | UNDERWEIGHTED | Rinami's stated original idol model, repeated at three route points including the authenticity crisis, is a children's-TV 'singing big sister' who makes people… |
-| HSCA-042 | P2 | hrnm, other | UNDERWEIGHTED | Shion states her attack on Rinami is an attack on older-sisterhood as oppression, rooted in her treatment by Gekka (whose contempt Rinami witnesses and later r… |
-| HSCA-043 | P2 | hrnm, other | UNDERWEIGHTED | Shiori speaks directly: lonely at losing her sister to 'everyone', unattended phone calls, possessive refusal of the 'older little brother'. Rinami herself lin… |
-| HSCA-044 | P2 | hrnm, prod | UNDERWEIGHTED | Covert or unilateral Producer interventions beyond H.O.F. go unlogged: hidden lesson-time increments (P1), blackmail bluff and provocation of Shion (Rinami: ちょ… |
-| HSCA-045 | P2 | hski, ssmk | CROSS_REFERENCE_GAP | Two consequences of the exchange are not routed. (1) Saki side: a peer names Saki's mode as lying in order to fight, and Saki herself offers a lie as Sumika's … |
-| HSCA-046 | P2 | hski | CONTINUITY_OR_ATTRIBUTION_ERROR | The 04_04 premonition is presented as a U1 event, but it appears only if the player chooses 咲季さん in an exclusive three-way choice (the alternatives are Kotone'… |
-| HSCA-047 | P2 | hski | POTENTIALLY_CORRECTIVE | §3.2.9 describes the abandoned ideal as an 'unsupported and unbroken' Saki. At A1 the plan is premised on Saki's defeat from the outset (Dear 023 l.133; foresh… |
-| HSCA-048 | P2 | hski | UNDERWEIGHTED | D-SAKI frames Saki's idolhood from its first scene as a 悪あがき — a last-ditch struggle toward an expected loss — which the Producer refuses in Dear 001. Saki rec… |
-| HSCA-049 | P2 | hski | CROSS_REFERENCE_GAP | v2.1 builds a cross-track comparison of Saki's first loss to Ume and narrows H-SAKI-05 using U1 night scenes, but omits D-SAKI's own post-loss night evidence: … |
-| HSCA-050 | P2 | hski | OMITTED | The Producer's own explicit theory of D-SAKI's first act is absent: Ume's acceleration is produced by having Saki (model, supporter, trainer, superior rival) b… |
-| HSCA-051 | P2 | hski | CROSS_REFERENCE_GAP | The fear of disappointing Ume is stated most explicitly in D-SAKI (the Dear 008 climax), yet §3.6.1 locates explicitness in U1 and §3.2.3 never states it. D-SA… |
-| HSCA-052 | P2 | hski | POTENTIALLY_CORRECTIVE | A1 context does not match 'counterattack… spoken during conflict': the line comes after the contest, in answer to Rinha's explicit request to explain her loss,… |
-| HSCA-053 | P2 | hski | OMITTED | The core under-develops Saki's moral relation to non-Ume opponents. (1) Dear 027 gives Saki's own rationale for performed confidence: it is owed to the opponen… |
-| HSCA-054 | P2 | hski | UNDERWEIGHTED | CURRENT (residual): (1) the part-09 mechanism is stated nowhere: the morning after the defeat Saki cannot act, and motion restarts only after Temari — explicit… |
-| HSCA-055 | P2 | hski | CROSS_REFERENCE_GAP | The U1 instance of Sena's mirror reading is connected to neither home. It (a) answers the ledger's explicitly open test — Saki recognizes the likeness (both hi… |
-| HSCA-056 | P2 | hski | UNDERWEIGHTED | The corpus names one mechanism of Saki's protected record (flight to another field, D-SAKI 008). U1 supplies a second, complementary one — pre-emptive secret p… |
-| HSCA-057 | P2 | hski | POTENTIALLY_CORRECTIVE | In a track outside her own bundle, Saki narrates the very motive transition the core's legacy verdict revises. She says she chose idolhood as an older sister '… |
-| HSCA-058 | P2 | hski | CROSS_REFERENCE_GAP | D-SENA contains a second Saki trajectory in a track where she is not the protagonist Producer's idol, complementary to the D-UME trajectory filed as hski-B2-F0… |
-| HSCA-059 | P2 | hume | OMITTED | Inside D-UME the victory over Saki is reversed at the very next contest: Sena wins summer H.I.F., Saki outscores Ume and declares she has caught up, Ume laughs… |
-| HSCA-060 | P2 | hume | OMITTED | The only Source-Lock scene showing Ume as reigning Prima Stella outside D-UME records Ume-side facts no canonical home carries: the title is experienced as wei… |
-| HSCA-061 | P2 | hume | UNDERWEIGHTED | A recurrent Ume pattern is not synthesized: replacement anxiety distributed over both primary attachments. The rival she imagines hating is a better version of… |
-| HSCA-062 | P2 | hume | UNDERWEIGHTED | Recipient-side ambivalence is missing: Saki's consolation completes the defeat cycle ('また負けた'); her predictable praise after a marginal pass is 'すごーく悔しい'; Ume … |
-| HSCA-063 | P2 | hume | UNDERWEIGHTED | The core reports Ume's retrospective understanding but not the means: a pre-camp no-contact rule with Saki that Ume accepted without knowing why, and the Produ… |
-| HSCA-064 | P2 | hume | OMITTED | The flagged Ume-side reading is still missing. In D-HIRO, Ume (who debuted first) loses openly to Hiro at N.I.A. ('あたしの負けだね') and vows rematches. By the winter… |
-| HSCA-065 | P2 | jsna, atbm | UNDERWEIGHTED | The tranche records the plateau belief but not that Sena withholds it from Tsubame inside the very exchange used to illustrate witness: Tsubame detects distrac… |
-| HSCA-066 | P2 | jsna | UNDERWEIGHTED | Sena's own account of the 'perfect king' public form is not drawn out: she calls the alumni joint live 'the idol ideal itself' (for her younger self), says ide… |
-| HSCA-067 | P2 | jsna, fktn | POTENTIALLY_CORRECTIVE | The scene shows concealed authorship, not a decision taken for Kotone. The school issued the request; Kotone accepted it ('引き受けてくれてよかった'), told Temari about it… |
-| HSCA-068 | P2 | jsna, atbm | POTENTIALLY_CORRECTIVE | In the same scene Sena makes explicit superiority claims ('何度やっても結果は同じよ', 'まだまだ燕に負けるつもりはないわ', '私のダンスの方が完成度は高い') and laughs at Tsubame's anger. In part 2 Tsubam… |
+| HSCA-033 | P2 | hmsz, jsna | OMITTED | (1) The previous Prima Stella 村雨愁佳 - beaten by Sena, then a 100Pro major-debut top idol whose single song 'broke' Sena's heart and produced Sena's vow never again to voice weakness - is uncatalogued; it is a Sena-psychology origin datum and a Prima Stella lineage datum delivered inside Misuzu's track. |
+| HSCA-034 | P2 | hrnm, atbm, jsna | UNDERWEIGHTED | The tranche contains a Producer-free, event-level instance of Rinami's core problem but reads her almost entirely as caretaker/regulator/witness. |
+| HSCA-035 | P2 | hrnm | CROSS_REFERENCE_GAP | Two support scenes carry Rinami's little-sister history and neither tranche links them to it. |
+| HSCA-036 | P2 | hrnm, amao | CROSS_REFERENCE_GAP | The Mao-Rinami bilateral system routed to Phase 6 (OQ-RINAMI-07) was never synthesized. |
+| HSCA-037 | P2 | hrnm, jsna | CROSS_REFERENCE_GAP | Rinami's route is the corpus's most repeated instance of Sena's evaluator's eye failing to see a classmate's latent capacity (four scenes, two of them Sena's own inner/self-reproach) and of Sena owning that her model-student perfection produced Rinami's deference; Gekka's parallel eye reads Rinami as 覚醒途中 (Dear 018). |
+| HSCA-038 | P2 | hrnm, prod | CROSS_REFERENCE_GAP | The canonical Producer-node synthesis omits the route that most explicitly combines (a) a pre-institutional childhood relation used as interpretive leverage, (b) the Producer's private anguish behind the institutional 'be a magician' maxim (the notebook literally quotes and rejects it), and (c) explicit romance fused with production. |
+| HSCA-039 | P2 | hrnm | UNDERWEIGHTED | Dear 018 is a high-stakes decision in which Rinami overrides the Producer's explicit, formal objection, names her desire as わがまま and as wanting to truly win, and he yields. |
+| HSCA-040 | P2 | hrnm | POTENTIALLY_CORRECTIVE | Rinami's own corpus records a first-year, summit-directed aspiration (vow with Mao to catch up with Sena; H.I.F. |
+| HSCA-041 | P2 | hrnm, prod | UNDERWEIGHTED | Rinami's stated original idol model, repeated at three route points including the authenticity crisis, is a children's-TV 'singing big sister' who makes people smile; the remembered childhood scene enacts exactly that role. |
+| HSCA-042 | P2 | hrnm, other | UNDERWEIGHTED | Shion states her attack on Rinami is an attack on older-sisterhood as oppression, rooted in her treatment by Gekka (whose contempt Rinami witnesses and later rebukes across schools); Shion's follower Nadeshiko is disarmed by Rinami's care. |
+| HSCA-043 | P2 | hrnm, other | UNDERWEIGHTED | Shiori speaks directly: lonely at losing her sister to 'everyone', unattended phone calls, possessive refusal of the 'older little brother'. |
+| HSCA-044 | P2 | hrnm, prod | UNDERWEIGHTED | Covert or unilateral Producer interventions beyond H.O.F. |
+| HSCA-045 | P2 | hski, ssmk | CROSS_REFERENCE_GAP | Two consequences of the exchange are not routed. |
+| HSCA-046 | P2 | hski | CONTINUITY_OR_ATTRIBUTION_ERROR | The 04_04 premonition is presented as a U1 event, but it appears only if the player chooses 咲季さん in an exclusive three-way choice (the alternatives are Kotone's contingency confession and Temari's reflection on Misuzu). |
+| HSCA-047 | P2 | hski | POTENTIALLY_CORRECTIVE | §3.2.9 describes the abandoned ideal as an 'unsupported and unbroken' Saki. |
+| HSCA-048 | P2 | hski | UNDERWEIGHTED | D-SAKI frames Saki's idolhood from its first scene as a 悪あがき — a last-ditch struggle toward an expected loss — which the Producer refuses in Dear 001. |
+| HSCA-049 | P2 | hski | CROSS_REFERENCE_GAP | v2.1 builds a cross-track comparison of Saki's first loss to Ume and narrows H-SAKI-05 using U1 night scenes, but omits D-SAKI's own post-loss night evidence: sleep-onset difficulty against her early-bed baseline (Dear 026), nightly Producer accompaniment until she is drowsy and a nightly 'receive my complaints' arrangement (Dear 025–026), Rinha as a secondary night interlocutor (Dear 026), Producer-supplied aroma and Misuzu's voice as nightly sleep rituals (cidol 018_01–02), the Producer's private verdict that she has not recovered and may never heal even after Project Stardust's success (018_01), and an acquired late-night habit at the D-SAKI endpoint (Dear 037, cause unstated). |
+| HSCA-050 | P2 | hski | OMITTED | The Producer's own explicit theory of D-SAKI's first act is absent: Ume's acceleration is produced by having Saki (model, supporter, trainer, superior rival) beside her; Saki has never had anyone in that position ('わたしはふたりいない'); therefore the Producer will supply that function for Saki, and (Dear 008) Ume's surpassing is reframed as the gift Saki previously lacked — a superior rival she cannot bear to lose to. |
+| HSCA-051 | P2 | hski | CROSS_REFERENCE_GAP | The fear of disappointing Ume is stated most explicitly in D-SAKI (the Dear 008 climax), yet §3.6.1 locates explicitness in U1 and §3.2.3 never states it. |
+| HSCA-052 | P2 | hski | POTENTIALLY_CORRECTIVE | A1 context does not match 'counterattack… spoken during conflict': the line comes after the contest, in answer to Rinha's explicit request to explain her loss, prefaced by a hedge, and Rinha receives it with laughter, 'よく、わかった', envy and praise. |
+| HSCA-053 | P2 | hski | OMITTED | The core under-develops Saki's moral relation to non-Ume opponents. |
+| HSCA-054 | P2 | hski | UNDERWEIGHTED | CURRENT (residual): (1) the part-09 mechanism is stated nowhere: the morning after the defeat Saki cannot act, and motion restarts only after Temari — explicitly refusing to comfort her — returns Saki's own Ep01_11 creed and 'あなたが、わたしに付いてくるの' logic back to her (reciprocal revival). |
+| HSCA-055 | P2 | hski | CROSS_REFERENCE_GAP | The U1 instance of Sena's mirror reading is connected to neither home. |
+| HSCA-056 | P2 | hski | UNDERWEIGHTED | The corpus names one mechanism of Saki's protected record (flight to another field, D-SAKI 008). |
+| HSCA-057 | P2 | hski | POTENTIALLY_CORRECTIVE | In a track outside her own bundle, Saki narrates the very motive transition the core's legacy verdict revises. |
+| HSCA-058 | P2 | hski | CROSS_REFERENCE_GAP | D-SENA contains a second Saki trajectory in a track where she is not the protagonist Producer's idol, complementary to the D-UME trajectory filed as hski-B2-F09. |
+| HSCA-059 | P2 | hume | OMITTED | Inside D-UME the victory over Saki is reversed at the very next contest: Sena wins summer H.I.F., Saki outscores Ume and declares she has caught up, Ume laughs and says she knew one overtaking would not end their contest, openly uses the once-banned word ('あたしの負けだよ', banned in Dear 005), and Saki names Ume, not Prima Stella Sena, her sworn rival. |
+| HSCA-060 | P2 | hume | OMITTED | The only Source-Lock scene showing Ume as reigning Prima Stella outside D-UME records Ume-side facts no canonical home carries: the title is experienced as weight (relief at being 'my sister's little sister' again); world-scale competition humbles her (badly beaten abroad, many summits, 'my dream had a beyond'); and she re-opens the sister race by childlike pleading until Saki promises to run ahead of her, then accepts the challenge as Prima Stella. |
+| HSCA-061 | P2 | hume | UNDERWEIGHTED | A recurrent Ume pattern is not synthesized: replacement anxiety distributed over both primary attachments. |
+| HSCA-062 | P2 | hume | UNDERWEIGHTED | Recipient-side ambivalence is missing: Saki's consolation completes the defeat cycle ('また負けた'); her predictable praise after a marginal pass is 'すごーく悔しい'; Ume withholds reports from Saki until she can boast, while her first impulse on praise is to report to the Producer; she voices debt to Saki (D-SAKI 005); treats Saki's creed as arrogant in her own mouth (P1); counts Saki among those who underrate her (activity_020); and needs Saki to stay invincible: relief at the draw (Dear 010), grief that her own loss lowers Saki's standing (CIDOL 006_01). |
+| HSCA-063 | P2 | hume | UNDERWEIGHTED | The core reports Ume's retrospective understanding but not the means: a pre-camp no-contact rule with Saki that Ume accepted without knowing why, and the Producer's covert co-production of her father as a rival, including secret consultations about the sisters' burnout risk. |
+| HSCA-064 | P2 | hume | OMITTED | The flagged Ume-side reading is still missing. |
+| HSCA-065 | P2 | jsna, atbm | UNDERWEIGHTED | The tranche records the plateau belief but not that Sena withholds it from Tsubame inside the very exchange used to illustrate witness: Tsubame detects distraction and receives the junior-production explanation, while Sena promises 全身全霊 and inwardly apologizes that she can no longer remain Tsubame's rival. |
+| HSCA-066 | P2 | jsna | UNDERWEIGHTED | Sena's own account of the 'perfect king' public form is not drawn out: she calls the alumni joint live 'the idol ideal itself' (for her younger self), says ideals are person- and era-relative, describes her own path as continually choosing the direction that maximizes her ability values, and then disowns Tsubame's 'ideal form' praise ('for you, perhaps'). |
+| HSCA-067 | P2 | jsna, fktn | POTENTIALLY_CORRECTIVE | The scene shows concealed authorship, not a decision taken for Kotone. |
+| HSCA-068 | P2 | jsna, atbm | POTENTIALLY_CORRECTIVE | In the same scene Sena makes explicit superiority claims ('何度やっても結果は同じよ', 'まだまだ燕に負けるつもりはないわ', '私のダンスの方が完成度は高い') and laughs at Tsubame's anger. |
 | HSCA-069 | P2 | jsna | CROSS_REFERENCE_GAP | Sena's post-summit abdication/hollowing recurs across tracks (D-SAKI, D-TSUBAME, winter H.I.F. concessions) but is not routed to Sena |
-| HSCA-070 | P2 | jsna, hmsz | OMITTED | The only named origin of Sena's ceiling belief — she took Prima Stella from Murasame Shuka, Shuka skipped winter H.I.F. and debuted as a 100Pro pro, and one so… |
-| HSCA-071 | P2 | jsna | UNDERWEIGHTED | Dear 002 defines the sight as reading current values and full-growth limits; Dear 014 falsifies the limit reading for Sena herself (measured stats rise past he… |
-| HSCA-072 | P2 | jsna | UNDERWEIGHTED | The core frames Sena's starting point as long-held perfect supremacy plus stat-vision fatalism. The source documents childhood struggle, post-TV obscurity, a f… |
+| HSCA-070 | P2 | jsna, hmsz | OMITTED | The only named origin of Sena's ceiling belief — she took Prima Stella from Murasame Shuka, Shuka skipped winter H.I.F. |
+| HSCA-071 | P2 | jsna | UNDERWEIGHTED | Dear 002 defines the sight as reading current values and full-growth limits; Dear 014 falsifies the limit reading for Sena herself (measured stats rise past her 'upper limit' after unconventional training outside the academy; Producer: only extremely hard to raise, not the limit). |
+| HSCA-072 | P2 | jsna | UNDERWEIGHTED | The core frames Sena's starting point as long-held perfect supremacy plus stat-vision fatalism. |
 | HSCA-073 | P2 | kcna | CROSS_REFERENCE_GAP | China's own account of a lonely childhood / absent family is not reflected in core §2/§25 and C01 ('needs reliably met') |
-| HSCA-074 | P2 | kcna | UNDERWEIGHTED | The corpus models China's surface as legible and largely free of status anxiety, with self-deprecation as accuracy or comic certainty. P1 shows the proudly rep… |
-| HSCA-075 | P2 | kcna, prod | UNDERWEIGHTED | China's Producer attachment is modelled only as pedagogical dependence and possible interpretive enclosure. The China-specific sources code it as courtship: a … |
-| HSCA-076 | P2 | kcna, prod, other:Juo Kunio, other:Kuramoto grandfather | UNDERWEIGHTED | The corpus attributes the Kuramoto pressure to the grandfather's love alone. The text distributes its agency: the headmaster (Sena's grandfather) provoked the … |
-| HSCA-077 | P2 | kcna, jsna | CROSS_REFERENCE_GAP | In D-SENA China herself names the support components but refuses Sena's support-as-ability doctrine as consolation for a loss and locates the deficit in her ow… |
-| HSCA-078 | P2 | kllj, ssmk | CROSS_REFERENCE_GAP | RS-I is the reader-facing REVERSI authority. It models the concealment crisis as one-way: Sumika hides, and Lilja's mature capacity is to see through it ('Lilj… |
-| HSCA-079 | P2 | kllj, ssmk, ensemble | CONTINUITY_OR_ATTRIBUTION_ERROR | Who hesitates to want the singular title, who authorizes the desire, who proposes/leads the unit and who wins invert between the two Dear tracks (each track's … |
-| HSCA-080 | P2 | kllj, prod, ssmk | UNDERWEIGHTED | For Lilja the canonical corpus registers romance coding only at Dear 037. The bundle builds it as a thread: Tanabata hand-holding and the muttered work/love co… |
-| HSCA-081 | P2 | kllj, prod | UNDERWEIGHTED | The core treats Producer-disagreement and failure-without-debt as untested, yet its own bundle answers them partially: Lilja does challenge his method (cidol 0… |
-| HSCA-082 | P2 | kllj | UNDERWEIGHTED | §3 reads Lilja's founding creed as her own settled premise-logic. The inner view shows it is a deliberately asserted self-command ('断言、しよう') produced at the ed… |
-| HSCA-083 | P2 | kllj, ssmk | UNDERWEIGHTED | In D-SUMIKA the publicity of REVERSI's history is introduced as the Producer's remedy for negative fan reaction to Lilja and a large fan-number gap: the relati… |
-| HSCA-084 | P2 | kllj | UNDERWEIGHTED | The family homes omit two consequences of cidol 018_02: the cost structure of migration (mother's frailty means neither parent can accompany her; she chose to … |
-| HSCA-085 | P2 | shro | CROSS_REFERENCE_GAP | RS-II leaves as unevidenced the scenario E014 stages: Hiro's self-described 趣味 (idolhood chosen with an unsuited body) threatening her friends' class live. The… |
-| HSCA-086 | P2 | shro | UNDERWEIGHTED | The D-HIRO thread in which the Producer's exclusive choice of Hiro costs him professional standing (falling results, peer censure, 'fool who abandoned the drea… |
-| HSCA-087 | P2 | shro | UNDERWEIGHTED | No canonical home states that owl is Hiro's origin: the first idol she ever saw (owl losing to Sena at last year's summer H.I.F.), the trigger of the cute wish… |
-| HSCA-088 | P2 | shro | UNDERWEIGHTED | The source gives an explicit mechanism for the delayed declaration: a self-imposed entitlement threshold (only after becoming Prima Stella / recognized by all … |
+| HSCA-074 | P2 | kcna | UNDERWEIGHTED | The corpus models China's surface as legible and largely free of status anxiety, with self-deprecation as accuracy or comic certainty. |
+| HSCA-075 | P2 | kcna, prod | UNDERWEIGHTED | China's Producer attachment is modelled only as pedagogical dependence and possible interpretive enclosure. |
+| HSCA-076 | P2 | kcna, prod, other:Juo Kunio, other:Kuramoto grandfather | UNDERWEIGHTED | The corpus attributes the Kuramoto pressure to the grandfather's love alone. |
+| HSCA-077 | P2 | kcna, jsna | CROSS_REFERENCE_GAP | In D-SENA China herself names the support components but refuses Sena's support-as-ability doctrine as consolation for a loss and locates the deficit in her own ability, vowing to become worthy of the support. |
+| HSCA-078 | P2 | kllj, ssmk | CROSS_REFERENCE_GAP | RS-I is the reader-facing REVERSI authority. |
+| HSCA-079 | P2 | kllj, ssmk, ensemble | CONTINUITY_OR_ATTRIBUTION_ERROR | Who hesitates to want the singular title, who authorizes the desire, who proposes/leads the unit and who wins invert between the two Dear tracks (each track's protagonist hesitates and is authorized: Lilja by Sumika in D-LILJA 032; Sumika by the Producer's personal wish in D-SUMIKA 033, where Lilja wants the title from the outset). |
+| HSCA-080 | P2 | kllj, prod, ssmk | UNDERWEIGHTED | For Lilja the canonical corpus registers romance coding only at Dear 037. |
+| HSCA-081 | P2 | kllj, prod | UNDERWEIGHTED | The core treats Producer-disagreement and failure-without-debt as untested, yet its own bundle answers them partially: Lilja does challenge his method (cidol 008_01), shows open irritation (Dear 023), refuses to explain (Dear 013) and calls out his evasion (Dear 037), but frames disagreement as transgression to be apologized for ('センパイを疑うようなこと', Dear 014 '悪い子で……ごめんなさい'); in P1 failure branches she experiences failure as risking his abandonment (mid-failure, final-failure '諦めないでくれて', ending-normal-05, braced-for-scolding ending-normal-03). |
+| HSCA-082 | P2 | kllj | UNDERWEIGHTED | §3 reads Lilja's founding creed as her own settled premise-logic. |
+| HSCA-083 | P2 | kllj, ssmk | UNDERWEIGHTED | In D-SUMIKA the publicity of REVERSI's history is introduced as the Producer's remedy for negative fan reaction to Lilja and a large fan-number gap: the relationship is publicized to legitimize the less popular partner. |
+| HSCA-084 | P2 | kllj | UNDERWEIGHTED | The family homes omit two consequences of cidol 018_02: the cost structure of migration (mother's frailty means neither parent can accompany her; she chose to go knowing this) and Lilja's framing of her enrollment as having 'forced her way' (無茶を通した), which creates a proof obligation toward her parents parallel to the Producer-vindication motive. |
+| HSCA-085 | P2 | shro | CROSS_REFERENCE_GAP | RS-II leaves as unevidenced the scenario E014 stages: Hiro's self-described 趣味 (idolhood chosen with an unsuited body) threatening her friends' class live. |
+| HSCA-086 | P2 | shro | UNDERWEIGHTED | The D-HIRO thread in which the Producer's exclusive choice of Hiro costs him professional standing (falling results, peer censure, 'fool who abandoned the dream for a hobby'), which Hiro knows from the STEP1 bridge onward, and her stated meaning of the N.I.A. |
+| HSCA-087 | P2 | shro | UNDERWEIGHTED | No canonical home states that owl is Hiro's origin: the first idol she ever saw (owl losing to Sena at last year's summer H.I.F.), the trigger of the cute wish, and the video she showed her father when she said she wanted to become an idol. |
+| HSCA-088 | P2 | shro | UNDERWEIGHTED | The source gives an explicit mechanism for the delayed declaration: a self-imposed entitlement threshold (only after becoming Prima Stella / recognized by all may she voice 'the same dream as everyone'), first set at the 010-01 bridge before the Producer's Dear 020 request. |
 | HSCA-089 | P2 | shro | UNDERWEIGHTED | Hiro's 'never had friends' self-report treated as biography despite Hiro Dear 035 |
-| HSCA-090 | P2 | shro, hume, kcna | CROSS_REFERENCE_GAP | Canon already carries the burden-asymmetry principle (from E002/E014), but not its two strongest Hiro-side instances. (a) In U1 her refusal to join a Worst-Thr… |
-| HSCA-091 | P2 | ssmk | OMITTED | The only first-person account in Source Lock 1.0 of where Sumika's signature gyaru presentation came from is absent from every canonical home. It supplies what… |
-| HSCA-092 | P2 | ssmk | CROSS_REFERENCE_GAP | Both scenes are recorded, but separately and only as relationship evidence (Sumika/Lilja durability; Tsubame's restraint). Neither the tranche nor any cumulati… |
-| HSCA-093 | P2 | ssmk | UNDERWEIGHTED | Across tracks Sumika's push-away behaviour has a function the corpus does not name: pre-emptive release and testing whether the Producer will leave. She expect… |
-| HSCA-094 | P2 | ssmk, prod, kllj | UNDERWEIGHTED | In D-SUMIKA, the Prima Stella ambition is not self-generated. Before the Producer's personal wish she has 'no strong feeling' for the title, and she adopts it … |
-| HSCA-095 | P2 | ssmk, prod | CROSS_REFERENCE_GAP | On Lilja's track Sumika is not produced by GakumasP: she calls him 'Lilja's producer'. She returns to the idol path because of Lilja's first live, begins overc… |
-| HSCA-096 | P2 | ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | The Phase-3 Temari core (created 2026-08-14; bundle of 207 Temari-owned scripts with no numbered events) misplaces an Event 008 scene. In that scene Saki and K… |
-| HSCA-097 | P2 | ttmr, hmsz | CONTINUITY_OR_ATTRIBUTION_ERROR | Speaker misattribution in the tranche's key Phase-6 checkpoint. At A1 the non-restoration statement ('なにもかも元通りになったわけじゃない') is Temari's line. Misuzu affirms tha… |
-| HSCA-098 | P2 | ttmr | POTENTIALLY_CORRECTIVE | The core frames late self-love as victory/title-conditioned and lists 'self-regard after a meaningful loss' as an untested later target. The core's own bundle … |
-| HSCA-099 | P2 | ttmr, hmsz | OMITTED | The canonical corpus records the Temari–Misuzu gaze structure in one direction only (Misuzu jealous that an idol took Temari's heart). Temari's mirror is absen… |
-| HSCA-100 | P2 | ttmr | UNDERWEIGHTED | The corpus gives Temari a second self-blame for SyngUp's collapse besides inferiority: imposition — forcing her own intensity and pace on the others, sulking w… |
-| HSCA-101 | P3 | amao, jsna | UNDERWEIGHTED | Mao's E017 interior state (has lost the right to chase Sena; has been averting her eyes all along) is incompatible with having already delivered E013's answer … |
-| HSCA-102 | P3 | amao | OMITTED | Three items are recorded nowhere: Mao is an only child who played and rehearsed acting alone and envies siblings, a family-structure fact relevant to her child… |
-| HSCA-103 | P3 | amao | UNDERWEIGHTED | The tranche flattens Mao's guarded self-disclosure pattern. (1) In 0034_01 Rinami praises Mao to her face, and Mao returns the compliment only after Rinami has… |
-| HSCA-104 | P3 | amao | CONTINUITY_OR_ATTRIBUTION_ERROR | The quoted line is Mao's immediate outcry at the announcement, made in front of the Producer and the president before her composed framing. The private grief i… |
-| HSCA-105 | P3 | amao | UNDERWEIGHTED | The scenes show that child Mao enjoyed being called cute and was a crying, mother-clinging child actor. That places the cute-aversion after the rupture rather … |
-| HSCA-106 | P3 | amao | TRACEABILITY_GAP | Stage-A flag (b). Dear 010 and cidol 015 identify one person: the childhood revue top star who left revue for screen acting, named 龍月真希 of troupe Planetarium. … |
-| HSCA-107 | P3 | atbm, jsna | CONTINUITY_OR_ATTRIBUTION_ERROR | Attribution slip. Sena recalls only that Tsubame taught her the name 一番星. It is Tsubame who supplies the 'tall Tsubame could reach it / impossible' exchange, a… |
-| HSCA-108 | P3 | atbm | CROSS_REFERENCE_GAP | The tranche labels E021 a REVISE of a Phase-3 'uninterrupted heroic rivalry' trait, but the Tsubame core never made that claim. Its thesis starts from the defe… |
-| HSCA-109 | P3 | atbm, jsna | TRACEABILITY_GAP | The 0038_01 vice president is identifiable as Tsubame from 0046_01 (Mao addresses 副会長 and 燕 answers in the same 貴様 register) and from 0032_01 (Rinami asks Sena… |
-| HSCA-110 | P3 | atbm, prod | UNDERWEIGHTED | The core's general verdict (manipulative, asymmetric) is present. It leaves Q6 open although the bundle answers part of it: the Producer apologises explicitly … |
-| HSCA-111 | P3 | atbm | UNDERWEIGHTED | Tsubame enforces health and rest on juniors and will overextend for others. In P1 branches and PE she conceals or minimises her own condition, refuses accompan… |
-| HSCA-112 | P3 | atbm, hmsz | UNDERWEIGHTED | Sena's inference, half-conceded by Tsubame ('私は約束を守る女だからな'), recasts part of Tsubame's later gentleness toward Misuzu as promise-keeping after the Dear 006 wag… |
-| HSCA-113 | P3 | ensemble | TRACEABILITY_GAP | Explicit A1 narration time markers are not used or cited. E021's flashback is directly labelled as the second-year H.I.F. (rather than inferred from 'a year ha… |
-| HSCA-114 | P3 | ensemble | CONTINUITY_OR_ATTRIBUTION_ERROR | Cohort misattribution. Story_0045's ensemble is the other first-year class (1-2), not second-years. The 'second-year layer' framing invents a three-tier first/… |
-| HSCA-115 | P3 | fktn, ttmr, hski | CONTINUITY_OR_ATTRIBUTION_ERROR | (1) Only Saki predicts that Temari would help. Kotone's emphasised line aligns her ironically with Temari's refusal and does not predict Temari's behaviour, an… |
-| HSCA-116 | P3 | fktn, jsna | CROSS_REFERENCE_GAP | D-SENA Kotone-side evidence that tests Kotone claims is recorded only from Sena's side. Kotone first receives Sena's public successor/savior framing as cherish… |
-| HSCA-117 | P3 | hmsz, ttmr | CROSS_REFERENCE_GAP | The inference discipline is correct, but the corroborating locators that now exist were never attached. E005 m03, in the same tranche, gives the SyngUp! roster… |
-| HSCA-118 | P3 | hmsz, ttmr | UNDERWEIGHTED | Misuzu names the motivated state as nostalgic twice - at the commitment point and at the decisive race - and Temari predicts the comeback from long acquaintanc… |
-| HSCA-119 | P3 | hmsz, ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | Misuzu never names Temari in story_0011 (no 手毬/まりちゃん/月村 in any of the three parts). She says important friend(s) are in classes 1 and 3. The identification wit… |
-| HSCA-120 | P3 | hmsz | UNDERWEIGHTED | Misuzu's address system is dynamic: bare 燐羽 (and 'リーダー') enters with the Dear 012 hostility and frames the Dear 014 'fight properly' line and the Dear 016 'わたし… |
-| HSCA-121 | P3 | hmsz | TRACEABILITY_GAP | (1) Dear 009 - Misuzu cries in front of Temari when her effort is recognised ('ふたりめ') and calls it possibly the best day of her life, the antecedent of Dear 03… |
-| HSCA-122 | P3 | hrnm | OMITTED | Rinami explicitly declines to tell Mao not to overwork because she shares the third-year final-chance pressure, and no home treats this. It marks a boundary of… |
-| HSCA-123 | P3 | hrnm | TRACEABILITY_GAP | The fan-art submission detail is placed inside the story_0071 section, but it appears only in 0074_01 (grep イラスト／投稿 over 0071/0074: only 0074_part_01). A reade… |
-| HSCA-124 | P3 | hrnm | CONTINUITY_OR_ATTRIBUTION_ERROR | A1 grep of the whole archive finds the line only in adv_cidol-hrnm-3-013_03; in Dear 020 the memory dispute is left unresolved. A modular communication's resol… |
-| HSCA-125 | P3 | hrnm, prod | OMITTED | The Rinami-Producer childhood premise surfaces asymmetrically in the ensemble U1 track (she seems to recognize him; he does not) and is framed institutionally … |
-| HSCA-126 | P3 | hski, jsna, ttmr | TRACEABILITY_GAP | The interpretations exist, but their most compact lexical provenance is not attached. Only Sena glosses 一番星 as わたし, and she does so twice; Tsubame and Saki glo… |
-| HSCA-127 | P3 | hski, kllj | UNDERWEIGHTED | The text gives the cause: Lilja beat Saki at the E001 class-party games. This happens offscreen and is confirmed by Saki's excuse and by '借りを返す'. The relations… |
-| HSCA-128 | P3 | hski | TRACEABILITY_GAP | The enrolment-reason self-claim is located in story_0003/part_02 (where Ume notes the school has 'everything we used at home'), not story_0023. §25 cites the w… |
-| HSCA-129 | P3 | hski, hume | UNDERWEIGHTED | Saki's side is not recorded. She is pleased and troubled at once ('最高に嬉しくて――……悩ましい'), and she nudges Ume toward her class friends, which Ume declines. This is … |
-| HSCA-130 | P3 | hski, jsna | TRACEABILITY_GAP | The interpretation is right, but its provenance is left vague ('in some aspect', 'an earlier challenge') although the referent is explicit and canonical: Event… |
-| HSCA-131 | P3 | hski | UNDERWEIGHTED | Across P-route failure states Saki negotiates Producer-witnessed grief (venting 'within sight', 'stay with me so I can run again tomorrow', announcing her cryi… |
+| HSCA-090 | P2 | shro, hume, kcna | CROSS_REFERENCE_GAP | Canon already carries the burden-asymmetry principle (from E002/E014), but not its two strongest Hiro-side instances. |
+| HSCA-091 | P2 | ssmk | OMITTED | The only first-person account in Source Lock 1.0 of where Sumika's signature gyaru presentation came from is absent from every canonical home. |
+| HSCA-092 | P2 | ssmk | CROSS_REFERENCE_GAP | Both scenes are recorded, but separately and only as relationship evidence (Sumika/Lilja durability; Tsubame's restraint). |
+| HSCA-093 | P2 | ssmk | UNDERWEIGHTED | Across tracks Sumika's push-away behaviour has a function the corpus does not name: pre-emptive release and testing whether the Producer will leave. |
+| HSCA-094 | P2 | ssmk, prod, kllj | UNDERWEIGHTED | In D-SUMIKA, the Prima Stella ambition is not self-generated. |
+| HSCA-095 | P2 | ssmk, prod | CROSS_REFERENCE_GAP | On Lilja's track Sumika is not produced by GakumasP: she calls him 'Lilja's producer'. |
+| HSCA-096 | P2 | ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | The Phase-3 Temari core (created 2026-08-14; bundle of 207 Temari-owned scripts with no numbered events) misplaces an Event 008 scene. |
+| HSCA-097 | P2 | ttmr, hmsz | CONTINUITY_OR_ATTRIBUTION_ERROR | Speaker misattribution in the tranche's key Phase-6 checkpoint. |
+| HSCA-098 | P2 | ttmr | POTENTIALLY_CORRECTIVE | The core frames late self-love as victory/title-conditioned and lists 'self-regard after a meaningful loss' as an untested later target. |
+| HSCA-099 | P2 | ttmr, hmsz | OMITTED | The canonical corpus records the Temari–Misuzu gaze structure in one direction only (Misuzu jealous that an idol took Temari's heart). |
+| HSCA-100 | P2 | ttmr | UNDERWEIGHTED | The corpus gives Temari a second self-blame for SyngUp's collapse besides inferiority: imposition — forcing her own intensity and pace on the others, sulking when they would not match her, and a fear of not being followed ('付いてこられない' corrected inwardly to '付いてきては、くれない'). |
+| HSCA-101 | P3 | amao, jsna | UNDERWEIGHTED | Mao's E017 interior state (has lost the right to chase Sena; has been averting her eyes all along) is incompatible with having already delivered E013's answer to Sena's year-old question. |
+| HSCA-102 | P3 | amao | OMITTED | Three items are recorded nowhere: Mao is an only child who played and rehearsed acting alone and envies siblings, a family-structure fact relevant to her child-acting history and to simulation. |
+| HSCA-103 | P3 | amao | UNDERWEIGHTED | The tranche flattens Mao's guarded self-disclosure pattern. |
+| HSCA-104 | P3 | amao | CONTINUITY_OR_ATTRIBUTION_ERROR | The quoted line is Mao's immediate outcry at the announcement, made in front of the Producer and the president before her composed framing. |
+| HSCA-105 | P3 | amao | UNDERWEIGHTED | The scenes show that child Mao enjoyed being called cute and was a crying, mother-clinging child actor. |
+| HSCA-106 | P3 | amao | TRACEABILITY_GAP | Stage-A flag (b). Dear 010 and cidol 015 identify one person: the childhood revue top star who left revue for screen acting, named 龍月真希 of troupe Planetarium. |
+| HSCA-107 | P3 | atbm, jsna | CONTINUITY_OR_ATTRIBUTION_ERROR | Attribution slip. Sena recalls only that Tsubame taught her the name 一番星. |
+| HSCA-108 | P3 | atbm | CROSS_REFERENCE_GAP | The tranche labels E021 a REVISE of a Phase-3 'uninterrupted heroic rivalry' trait, but the Tsubame core never made that claim. |
+| HSCA-109 | P3 | atbm, jsna | TRACEABILITY_GAP | The 0038_01 vice president is identifiable as Tsubame from 0046_01 (Mao addresses 副会長 and 燕 answers in the same 貴様 register) and from 0032_01 (Rinami asks Sena about 燕ちゃん's absence from council). |
+| HSCA-110 | P3 | atbm, prod | UNDERWEIGHTED | The core's general verdict (manipulative, asymmetric) is present. |
+| HSCA-111 | P3 | atbm | UNDERWEIGHTED | Tsubame enforces health and rest on juniors and will overextend for others. |
+| HSCA-112 | P3 | atbm, hmsz | UNDERWEIGHTED | Sena's inference, half-conceded by Tsubame ('私は約束を守る女だからな'), recasts part of Tsubame's later gentleness toward Misuzu as promise-keeping after the Dear 006 wager rather than purely developmental change. |
+| HSCA-113 | P3 | ensemble | TRACEABILITY_GAP | Explicit A1 narration time markers are not used or cited. |
+| HSCA-114 | P3 | ensemble | CONTINUITY_OR_ATTRIBUTION_ERROR | Cohort misattribution. Story_0045's ensemble is the other first-year class (1-2), not second-years. |
+| HSCA-115 | P3 | fktn, ttmr, hski | CONTINUITY_OR_ATTRIBUTION_ERROR | (1) Only Saki predicts that Temari would help. |
+| HSCA-116 | P3 | fktn, jsna | CROSS_REFERENCE_GAP | D-SENA Kotone-side evidence that tests Kotone claims is recorded only from Sena's side. |
+| HSCA-117 | P3 | hmsz, ttmr | CROSS_REFERENCE_GAP | The inference discipline is correct, but the corroborating locators that now exist were never attached. |
+| HSCA-118 | P3 | hmsz, ttmr | UNDERWEIGHTED | Misuzu names the motivated state as nostalgic twice - at the commitment point and at the decisive race - and Temari predicts the comeback from long acquaintance. |
+| HSCA-119 | P3 | hmsz, ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | Misuzu never names Temari in story_0011 (no 手毬/まりちゃん/月村 in any of the three parts). |
+| HSCA-120 | P3 | hmsz | UNDERWEIGHTED | Misuzu's address system is dynamic: bare 燐羽 (and 'リーダー') enters with the Dear 012 hostility and frames the Dear 014 'fight properly' line and the Dear 016 'わたしが上で' offer, persisting through Dear 020 and 034; bare 手毬 is used to Temari only at the summit (Dear 034 close, Dear 036). |
+| HSCA-121 | P3 | hmsz | TRACEABILITY_GAP | (1) Dear 009 - Misuzu cries in front of Temari when her effort is recognised ('ふたりめ') and calls it possibly the best day of her life, the antecedent of Dear 037's refusal to make the summit 'the best day' - is uncited in core/matrix, so the record does not show that tears before Temari precede Dear 036. |
+| HSCA-122 | P3 | hrnm | OMITTED | Rinami explicitly declines to tell Mao not to overwork because she shares the third-year final-chance pressure, and no home treats this. |
+| HSCA-123 | P3 | hrnm | TRACEABILITY_GAP | The fan-art submission detail is placed inside the story_0071 section, but it appears only in 0074_01 (grep イラスト\|投稿 over 0071/0074: only 0074_part_01). |
+| HSCA-124 | P3 | hrnm | CONTINUITY_OR_ATTRIBUTION_ERROR | A1 grep of the whole archive finds the line only in adv_cidol-hrnm-3-013_03; in Dear 020 the memory dispute is left unresolved. |
+| HSCA-125 | P3 | hrnm, prod | OMITTED | The Rinami-Producer childhood premise surfaces asymmetrically in the ensemble U1 track (she seems to recognize him; he does not) and is framed institutionally by Asari as a childhood-sweetheart archetype. |
+| HSCA-126 | P3 | hski, jsna, ttmr | TRACEABILITY_GAP | The interpretations exist, but their most compact lexical provenance is not attached. |
+| HSCA-127 | P3 | hski, kllj | UNDERWEIGHTED | The text gives the cause: Lilja beat Saki at the E001 class-party games. |
+| HSCA-128 | P3 | hski | TRACEABILITY_GAP | The enrolment-reason self-claim is located in story_0003/part_02 (where Ume notes the school has 'everything we used at home'), not story_0023. |
+| HSCA-129 | P3 | hski, hume | UNDERWEIGHTED | Saki's side is not recorded. She is pleased and troubled at once ('最高に嬉しくて――……悩ましい'), and she nudges Ume toward her class friends, which Ume declines. |
+| HSCA-130 | P3 | hski, jsna | TRACEABILITY_GAP | The interpretation is right, but its provenance is left vague ('in some aspect', 'an earlier challenge') although the referent is explicit and canonical: Event 005 main-04, where both the disappointment and the 'example of exceeding limits' vow originate. |
+| HSCA-131 | P3 | hski | UNDERWEIGHTED | Across P-route failure states Saki negotiates Producer-witnessed grief (venting 'within sight', 'stay with me so I can run again tomorrow', announcing her crying to him), while one P1 state still privatizes it ('cry at home'). |
 | HSCA-132 | P3 | hski, hume | CONTINUITY_OR_ATTRIBUTION_ERROR | First Saki–Ume contest is D-SAKI Dear 009, not 011–012; Saki cannot explain the win (two-auditor convergence) |
-| HSCA-133 | P3 | hski | TRACEABILITY_GAP | The core's key redemption of the 'false genius' shame (cards / combinatorial talent) is textually authored by Sena in Dear 025 — interrupting Saki's habitual '… |
-| HSCA-134 | P3 | hski | CROSS_REFERENCE_GAP | Three small unwired corroborations/cautions: (a) 04_25 is a U1 instance of the public older-sister vocation, but §8.5/H-SAKI-03 do not cite it; (b) 04_24 '生まれて… |
-| HSCA-135 | P3 | hski | TRACEABILITY_GAP | (a) The 妹-read-as-ライバル ruby — the most compact inscription of the Hanami thesis (RS-I §3.1 'constitutive') — is uncollected; (b) the voice ledger mislocates th… |
-| HSCA-136 | P3 | hski | UNDERWEIGHTED | Saki, using the older-sister register toward a peer, diagnoses Kotone's block precisely: she should sing 'as she is', and her appeal is loving herself even whe… |
-| HSCA-137 | P3 | hski | CROSS_REFERENCE_GAP | The rank-3 episode-011/012 communications of all four bundles independently return to the Saki/Temari/Kotone unit as dream, simulation or pre-enrolment plan, w… |
-| HSCA-138 | P3 | hume, hski | CROSS_REFERENCE_GAP | RS I §3.8 models external-friendship jealousy in the Hanami system as running from Saki towards Ume's new ties. This scene shows the reverse direction: Ume is … |
-| HSCA-139 | P3 | hume, hski | UNDERWEIGHTED | Ume herself says Saki's public 'everyone's big sister' stance is a current worry of hers (最近のあたしの悩み). The tranche records only Rinha's teasing. No home records… |
-| HSCA-140 | P3 | hume | CROSS_REFERENCE_GAP | Ume-side invariants that recur across continuities are not consolidated in any Ume-facing home: (a) first victory over Saki -> self-authored idol dream (D-UME … |
-| HSCA-141 | P3 | hume | UNDERWEIGHTED | Ume switches to Saki's full name at peak challenge moments (four direct-address or naming instances across D-UME and D-SAKI found by exhaustive search; other h… |
-| HSCA-142 | P3 | hume | CONTINUITY_OR_ATTRIBUTION_ERROR | §8 narrates P2 material and D-UME material as one 'Series 2 / N.I.A.' sequence without track labels; the P2 Produce Story contains the Rinha loss and the dream… |
-| HSCA-143 | P3 | hume | CROSS_REFERENCE_GAP | Ume's own bundle (Dear 019) contains Saki's admission, made to Ume, that her past field changes were flight; the core uses only Ume's lines and states Ume's se… |
-| HSCA-144 | P3 | hume | UNDERWEIGHTED | Ume's own retrospective account to an outsider gives the vertical history a different valence from D-UME Dear 008/019. Saki 'ran ahead of me' and took her hand… |
-| HSCA-145 | P3 | hume | CROSS_REFERENCE_GAP | Across at least three tracks the Hanami facility serves rival idols: Sena's first stat growth after her plateau, China, Kotone, Tsubame, Misuzu. In D-SENA the … |
-| HSCA-146 | P3 | jsna, hski | CROSS_REFERENCE_GAP | The scene is carried at tranche and ledger level, but its two strongest consequences are not connected to their homes. (a) Sena states her growth-limit doctrin… |
-| HSCA-147 | P3 | jsna, fktn | CONTINUITY_OR_ATTRIBUTION_ERROR | Epistemic-category handling: an imagined voice is indexed as an appearance, and its analytical consequence goes unstated. The consequence is that Sena privatel… |
-| HSCA-148 | P3 | jsna | TRACEABILITY_GAP | The Saki 'another me' / saviour judgment is in Dear 026, not 025 (A1; concurs with the routed Saki-supplement note; Saki-side consequences are filed as hski-S-… |
-| HSCA-149 | P3 | jsna, hmsz | TRACEABILITY_GAP | The statement is in Misuzu's CIDOL 015 part_02 (outside Sena's declared bundle), not Sena's CIDOL 016 (no such line in parts 01–03). The core also drops its fr… |
-| HSCA-150 | P3 | jsna | OMITTED | The Juo-family model lacks its institutional-political layer: a father allied with 961's Kuroi in founding N.I.A., a grandfather who resents it, and a father w… |
-| HSCA-151 | P3 | kcna, other:Kanae | CONTINUITY_OR_ATTRIBUTION_ERROR | Several canonical homes identify the unnamed same-age maid apprentice of cidol 009_02 with Hiwatari Kanae and attribute the childhood petition to Kanae as fact… |
-| HSCA-152 | P3 | kcna, jsna | CROSS_REFERENCE_GAP | A route-structuring evaluation (latent talent ≈ Sena, a prophecy confirmed by the Producer in Dear 020 immediately after China's 'cannot do anything alone', an… |
-| HSCA-153 | P3 | kcna, shro, hume | UNDERWEIGHTED | Corpus-wide count of China's lines: 篠澤さん 198, 花海さん 145, 広さん 3, 佑芽さん 2 (two of the latter are full-name roll calls in Dear 024 and D-HIRO Dear 033). Dear 035 is… |
-| HSCA-154 | P3 | kcna, prod | UNDERWEIGHTED | The repair narrative is D-CHINA-specific. In P1 the fee motive is kept openly and China thanks him for being lured by the reward, accepting the transactional o… |
-| HSCA-155 | P3 | kcna, hmsz | CROSS_REFERENCE_GAP | The Misuzu-China edge lacks a canonical home: Dear 024's personnel-authority bargain (with China's benign inner reading) is a direct parallel to the Events §7.… |
-| HSCA-156 | P3 | kllj, ssmk, fktn | UNDERWEIGHTED | §5.4 describes the repair but leaves out how it begins. Alone and overloaded, Lilja's reflex is to call for the absent Sumika. Kotone's first move in the new f… |
-| HSCA-157 | P3 | kllj, ssmk, hmsz, ttmr | TRACEABILITY_GAP | Both locators name the wrong support series. The described content is in Support Series 2 story_0036 (Lilja/Kotone/Sumika) and Support Series 2 story_0042 (Sen… |
-| HSCA-158 | P3 | kllj | UNDERWEIGHTED | Lilja's signature self-lowering 'わたしなんか' is not tracked as a marker although it is thematized in-text: she becomes self-conscious of it, the Producer first acc… |
-| HSCA-159 | P3 | krnh | CROSS_REFERENCE_GAP | In an independent track (D-MAO), a professional alumna recalls a past Prima Stella named 賀陽. This corroborates the Kei-as-former-Prima-Stella claim outside D-T… |
-| HSCA-160 | P3 | other, prod | CROSS_REFERENCE_GAP | The Phase-6 side-character synthesis, which is Asari's designated synthesis home, does not mention Event 029 even with its continuity gate. Yet its own §3.1 di… |
-| HSCA-161 | P3 | other, atbm | CROSS_REFERENCE_GAP | D-TSUBAME supplies the only direct evidence of the Shirakusa household's favouritism: a parent praises Gekka and brushes Shion off. It shows Shion's idol motiv… |
-| HSCA-162 | P3 | shro, hume, kcna | CONTINUITY_OR_ATTRIBUTION_ERROR | A synthesis home names the wrong speaker. In E002, Hiro coins the label and calls the trio 運命の仲間; Ume supplies the climb-together frame. The only other Source … |
-| HSCA-163 | P3 | shro | TRACEABILITY_GAP | The かわいくなりたかった confession is first spoken in-scene in Dear 010 (early D-HIRO), but every locator points to the cidol 018_01 replay. That replay is a modular in… |
-| HSCA-164 | P3 | shro | UNDERWEIGHTED | Hiro's signature post-success sigh changes meaning across D-HIRO: a boredom tic (006/009), then a self-aware joke (P2), then a promised provocation of Ume (014… |
-| HSCA-165 | P3 | shro | CONTINUITY_OR_ATTRIBUTION_ERROR | The cumulative voice ledger still presents 瞬間最大風速 as Hiro's own register term ('self-limitation'), although it is the Producer's line. The e285ebb4 correction … |
-| HSCA-166 | P3 | shro, jsna | CROSS_REFERENCE_GAP | No canonical Hiro home records that in other idols' Dear routes Hiro has no P-course Producer of her own and is informally half-produced by Sena (with help fro… |
-| HSCA-167 | P3 | ssmk, kllj | CROSS_REFERENCE_GAP | E020 shows the founding period was already mutually needful: ballet-isolated Sumika had no same-age Japanese speaker and Lilja's side was 'my place'; Sumika re… |
-| HSCA-168 | P3 | ssmk | TRACEABILITY_GAP | In 0064_03 the cause of Sumika's present fear is summarized off-page ('――そんな感じで'). No line or narration mentions the injury, and 今は marks a current-state onset… |
-| HSCA-169 | P3 | ssmk | UNDERWEIGHTED | Stage-A flag tested: no contradiction. 010-01 is the 10.5 bridge before N.I.A. (Gokugetsu/Shion set-up; Sumika is surprised to hear of rival schools, impossibl… |
-| HSCA-170 | P3 | ssmk | UNDERWEIGHTED | The core's first thesis clause ('injury taught her that being believed in can feel like a threat') has its most explicit origin scene in CIDOL 010_03: unidenti… |
-| HSCA-171 | P3 | ssmk | UNDERWEIGHTED | In both selection-failure fragments it is Sumika who reaches for resignation or soothing closure ('仕方ない', 'a dream was enough', 'it ended here') while Lilja re… |
-| HSCA-172 | P3 | ssmk | UNDERWEIGHTED | Sumika models her pre-injury prodigy self as already a performance of invincibility ('思い込もうとしてた', emphasized) and as an overworking self she recognizes in Lilj… |
-| HSCA-173 | P3 | ttmr, kcna | UNDERWEIGHTED | §3.4 narrates the E007 compliment as delivered. At A1 China does not catch it ('あの、今なんと――'), and the blackout cuts the exchange off. She first receives the rec… |
-| HSCA-174 | P3 | ttmr | UNDERWEIGHTED | The tranche and ledger describe the inner/outer split statically. Read together, the two fan scenes add Temari's own relation to that split. In E008 she privat… |
-| HSCA-175 | P3 | ttmr, hmsz, fktn | UNDERWEIGHTED | S2T omits Kotone's two inner lines. Before she speaks, Kotone privately thinks the friend's 'moderation' is the natural response to Temari's training because i… |
-| HSCA-176 | P3 | ttmr, hmsz, krnh | TRACEABILITY_GAP | The tranche correctly preserves the unnamed status and routes the line to the Rinha dossier, but the Rinha source-discovery artifact does not record it. The cr… |
-| HSCA-177 | P3 | ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | No U1 scene supports 'nearly exits when center order triggers insecurity'. Every U1 line in which Temari says 抜ける, or says センター, was searched. Center order was… |
-| HSCA-178 | P3 | ttmr | TRACEABILITY_GAP | Two core claims rest on material outside the core's declared Phase-3 boundary (numbered event; support card) and carry no locators. §3.2.10 also places a modul… |
-| HSCA-179 | P3 | ttmr, hski | TRACEABILITY_GAP | The cumulative branch ledger lacks a Temari section, although the pass report says it was updated. Two D-TEMARI state facts are unrecorded: (1) in D-TEMARI, Sa… |
-| HSCA-180 | — | hume | CROSS_REFERENCE_GAP | Adds a D-KOTONE instance: Ume is among the few who 'followed' Sena's scouting. That makes Ume-as-Sena's-scouted-junior close to a default world-state outside U… |
+| HSCA-133 | P3 | hski | TRACEABILITY_GAP | The core's key redemption of the 'false genius' shame (cards / combinatorial talent) is textually authored by Sena in Dear 025 — interrupting Saki's habitual 'but I plateau' — and only later ratified by the Producer (deck-builder, cidol 018_03); Sena also frames herself and Saki as two all-rounders 'who fought by logic' (019_02). |
+| HSCA-134 | P3 | hski | CROSS_REFERENCE_GAP | Three small unwired corroborations/cautions: (a) 04_25 is a U1 instance of the public older-sister vocation, but §8.5/H-SAKI-03 do not cite it; (b) 04_24 '生まれて初めて……妹に勝てた' read literally contradicts Ume's 15-year record (01_02, 04_07, 04_21) and D-SAKI 009-012; context (04_21 Ume '初めてだ。お姉ちゃんを抜いたのも……抜き返されたのも') shows it means the first win after being overtaken — a §14.9 continuity/translation caution; (c) U1's 不屈 is the unit-name formula synthesized by the Producer from Temari's アヤメ derivation, not Saki's self-definition (Saki's own was 女神/虹) — v2.1's sentence is accurate but should not support a claim that Saki self-adopts 不屈 in U1. |
+| HSCA-135 | P3 | hski | TRACEABILITY_GAP | (a) The 妹-read-as-ライバル ruby — the most compact inscription of the Hanami thesis (RS-I §3.1 'constitutive') — is uncollected; (b) the voice ledger mislocates the 仲間 ruby (part 14 → actually part 12; the core's L055 range 12-14 is correct); (c) observation only: Saki writes 私 instead of わたし in 5 first-person lines across Source Lock 1.0 (vs 1,138 lines containing わたし), two of them earnest addresses to a Producer (cidol hski 011 part 01; D-UME 017) — possibly a register mark, possibly orthographic noise; not asserted. |
+| HSCA-136 | P3 | hski | UNDERWEIGHTED | Saki, using the older-sister register toward a peer, diagnoses Kotone's block precisely: she should sing 'as she is', and her appeal is loving herself even when timid. |
+| HSCA-137 | P3 | hski | CROSS_REFERENCE_GAP | The rank-3 episode-011/012 communications of all four bundles independently return to the Saki/Temari/Kotone unit as dream, simulation or pre-enrolment plan, with Saki a constant member. |
+| HSCA-138 | P3 | hume, hski | CROSS_REFERENCE_GAP | RS I §3.8 models external-friendship jealousy in the Hanami system as running from Saki towards Ume's new ties. |
+| HSCA-139 | P3 | hume, hski | UNDERWEIGHTED | Ume herself says Saki's public 'everyone's big sister' stance is a current worry of hers (最近のあたしの悩み). |
+| HSCA-140 | P3 | hume | CROSS_REFERENCE_GAP | Ume-side invariants that recur across continuities are not consolidated in any Ume-facing home: (a) first victory over Saki -> self-authored idol dream (D-UME Dear 019-020; D-SAKI Dear 022; U1 04_14/04_21); (b) Ume already knows Saki's hidden fear and flaws (U1 02_08, U1 04_18, D-UME 033 'しってる'); (c) each sister fears disappointing the other and receives reassurance (Ume D-UME 008 / Saki D-UME 012 and D-SAKI 014 '失望なんてするわけない'; Saki D-SAKI 008, U1 04_18); (d) the '15 years' catch-up (U1 04_07, D-SAKI 022); (e) Ume as Sena's successor who refuses Sena's self-erasure (D-SAKI 024; U1 04_14; D-UME 036). |
+| HSCA-141 | P3 | hume | UNDERWEIGHTED | Ume switches to Saki's full name at peak challenge moments (four direct-address or naming instances across D-UME and D-SAKI found by exhaustive search; other hits are song titles or third-person references). |
+| HSCA-142 | P3 | hume | CONTINUITY_OR_ATTRIBUTION_ERROR | §8 narrates P2 material and D-UME material as one 'Series 2 / N.I.A.' sequence without track labels; the P2 Produce Story contains the Rinha loss and the dreams but no Ume victory over Rinha and no fan entrustment (Rinha is mentioned in only three P2 files). |
+| HSCA-143 | P3 | hume | CROSS_REFERENCE_GAP | Ume's own bundle (Dear 019) contains Saki's admission, made to Ume, that her past field changes were flight; the core uses only Ume's lines and states Ume's self-account (her slowness made Saki disappear) as mechanism. |
+| HSCA-144 | P3 | hume | UNDERWEIGHTED | Ume's own retrospective account to an outsider gives the vertical history a different valence from D-UME Dear 008/019. |
+| HSCA-145 | P3 | hume | CROSS_REFERENCE_GAP | Across at least three tracks the Hanami facility serves rival idols: Sena's first stat growth after her plateau, China, Kotone, Tsubame, Misuzu. |
+| HSCA-146 | P3 | jsna, hski | CROSS_REFERENCE_GAP | The scene is carried at tranche and ledger level, but its two strongest consequences are not connected to their homes. |
+| HSCA-147 | P3 | jsna, fktn | CONTINUITY_OR_ATTRIBUTION_ERROR | Epistemic-category handling: an imagined voice is indexed as an appearance, and its analytical consequence goes unstated. |
+| HSCA-148 | P3 | jsna | TRACEABILITY_GAP | The Saki 'another me' / saviour judgment is in Dear 026, not 025 (A1; concurs with the routed Saki-supplement note; Saki-side consequences are filed as hski-S-F02 — Sena side only here). |
+| HSCA-149 | P3 | jsna, hmsz | TRACEABILITY_GAP | The statement is in Misuzu's CIDOL 015 part_02 (outside Sena's declared bundle), not Sena's CIDOL 016 (no such line in parts 01–03). |
+| HSCA-150 | P3 | jsna | OMITTED | The Juo-family model lacks its institutional-political layer: a father allied with 961's Kuroi in founding N.I.A., a grandfather who resents it, and a father whose talent-acquisition logic Sena says she hates — complicating the 'indirect care' template (core §33; side-char §2.4) and the Hatsuboshi-vs-Gokugetsu 'outside' taxonomy (side-char §4.6). |
+| HSCA-151 | P3 | kcna, other:Kanae | CONTINUITY_OR_ATTRIBUTION_ERROR | Several canonical homes identify the unnamed same-age maid apprentice of cidol 009_02 with Hiwatari Kanae and attribute the childhood petition to Kanae as fact. |
+| HSCA-152 | P3 | kcna, jsna | CROSS_REFERENCE_GAP | A route-structuring evaluation (latent talent ≈ Sena, a prophecy confirmed by the Producer in Dear 020 immediately after China's 'cannot do anything alone', and by Juo's Dear 032 'entertainer above Sena') appears only in an event reading. |
+| HSCA-153 | P3 | kcna, shro, hume | UNDERWEIGHTED | Corpus-wide count of China's lines: 篠澤さん 198, 花海さん 145, 広さん 3, 佑芽さん 2 (two of the latter are full-name roll calls in Dear 024 and D-HIRO Dear 033). |
+| HSCA-154 | P3 | kcna, prod | UNDERWEIGHTED | The repair narrative is D-CHINA-specific. |
+| HSCA-155 | P3 | kcna, hmsz | CROSS_REFERENCE_GAP | The Misuzu-China edge lacks a canonical home: Dear 024's personnel-authority bargain (with China's benign inner reading) is a direct parallel to the Events §7.6 OPEN hypothesis about why Misuzu wants council capacity, and Misuzu's admission that China is the first to make her feel defeat is unrecorded. |
+| HSCA-156 | P3 | kllj, ssmk, fktn | UNDERWEIGHTED | §5.4 describes the repair but leaves out how it begins. |
+| HSCA-157 | P3 | kllj, ssmk, hmsz, ttmr | TRACEABILITY_GAP | Both locators name the wrong support series. |
+| HSCA-158 | P3 | kllj | UNDERWEIGHTED | Lilja's signature self-lowering 'わたしなんか' is not tracked as a marker although it is thematized in-text: she becomes self-conscious of it, the Producer first accepts it as individuality, later bans it as unbefitting her growth, Saki challenges it, and it persists into the P1 true ending. |
+| HSCA-159 | P3 | krnh | CROSS_REFERENCE_GAP | In an independent track (D-MAO), a professional alumna recalls a past Prima Stella named 賀陽. |
+| HSCA-160 | P3 | other, prod | CROSS_REFERENCE_GAP | The Phase-6 side-character synthesis, which is Asari's designated synthesis home, does not mention Event 029 even with its continuity gate. |
+| HSCA-161 | P3 | other, atbm | CROSS_REFERENCE_GAP | D-TSUBAME supplies the only direct evidence of the Shirakusa household's favouritism: a parent praises Gekka and brushes Shion off. |
+| HSCA-162 | P3 | shro, hume, kcna | CONTINUITY_OR_ATTRIBUTION_ERROR | A synthesis home names the wrong speaker. |
+| HSCA-163 | P3 | shro | TRACEABILITY_GAP | The かわいくなりたかった confession is first spoken in-scene in Dear 010 (early D-HIRO), but every locator points to the cidol 018_01 replay. |
+| HSCA-164 | P3 | shro | UNDERWEIGHTED | Hiro's signature post-success sigh changes meaning across D-HIRO: a boredom tic (006/009), then a self-aware joke (P2), then a promised provocation of Ume (014) delivered as play (016), then explicitly redefined as fun-burnout rather than boredom (017), then a reason to defer praise (018). |
+| HSCA-165 | P3 | shro | CONTINUITY_OR_ATTRIBUTION_ERROR | The cumulative voice ledger still presents 瞬間最大風速 as Hiro's own register term ('self-limitation'), although it is the Producer's line. |
+| HSCA-166 | P3 | shro, jsna | CROSS_REFERENCE_GAP | No canonical Hiro home records that in other idols' Dear routes Hiro has no P-course Producer of her own and is informally half-produced by Sena (with help from China's Producer). |
+| HSCA-167 | P3 | ssmk, kllj | CROSS_REFERENCE_GAP | E020 shows the founding period was already mutually needful: ballet-isolated Sumika had no same-age Japanese speaker and Lilja's side was 'my place'; Sumika re-chooses the Sweden years because of Lilja. |
+| HSCA-168 | P3 | ssmk | TRACEABILITY_GAP | In 0064_03 the cause of Sumika's present fear is summarized off-page ('――そんな感じで'). |
+| HSCA-169 | P3 | ssmk | UNDERWEIGHTED | Stage-A flag tested: no contradiction. 010-01 is the 10.5 bridge before N.I.A. |
+| HSCA-170 | P3 | ssmk | UNDERWEIGHTED | The core's first thesis clause ('injury taught her that being believed in can feel like a threat') has its most explicit origin scene in CIDOL 010_03: unidentified adult voices at the meniscus diagnosis, overlaid with 'I don't want to betray anyone's expectations again'. |
+| HSCA-171 | P3 | ssmk | UNDERWEIGHTED | In both selection-failure fragments it is Sumika who reaches for resignation or soothing closure ('仕方ない', 'a dream was enough', 'it ended here') while Lilja resists. |
+| HSCA-172 | P3 | ssmk | UNDERWEIGHTED | Sumika models her pre-injury prodigy self as already a performance of invincibility ('思い込もうとしてた', emphasized) and as an overworking self she recognizes in Lilja. |
+| HSCA-173 | P3 | ttmr, kcna | UNDERWEIGHTED | §3.4 narrates the E007 compliment as delivered. |
+| HSCA-174 | P3 | ttmr | UNDERWEIGHTED | The tranche and ledger describe the inner/outer split statically. |
+| HSCA-175 | P3 | ttmr, hmsz, fktn | UNDERWEIGHTED | S2T omits Kotone's two inner lines. Before she speaks, Kotone privately thinks the friend's 'moderation' is the natural response to Temari's training because it is too hard (ハードすぎる). |
+| HSCA-176 | P3 | ttmr, hmsz, krnh | TRACEABILITY_GAP | The tranche correctly preserves the unnamed status and routes the line to the Rinha dossier, but the Rinha source-discovery artifact does not record it. |
+| HSCA-177 | P3 | ttmr | CONTINUITY_OR_ATTRIBUTION_ERROR | No U1 scene supports 'nearly exits when center order triggers insecurity'. |
+| HSCA-178 | P3 | ttmr | TRACEABILITY_GAP | Two core claims rest on material outside the core's declared Phase-3 boundary (numbered event; support card) and carry no locators. |
+| HSCA-179 | P3 | ttmr, hski | TRACEABILITY_GAP | The cumulative branch ledger lacks a Temari section, although the pass report says it was updated. |
+| HSCA-180 | — | hume | CROSS_REFERENCE_GAP | Adds a D-KOTONE instance: Ume is among the few who 'followed' Sena's scouting. |
 
 ## Entries
 
@@ -217,17 +235,18 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (all 10 objects present); A1 verified (04_08, 04_17, 04_22 read in full; Misuzu lines plus context in 04_02, 04_14, 04_19, 04_20, 04_23) |
 | Story state | C1 @ U1 (Unit Story 01 Ep03 Pt12 -> Ep04 Pts01-22; first-year spring to old-rules summer H.I.F.). Parallel ensemble track: not additive to D-MISUZU or D-TEMARI (placement doc §6-§7). Misuzu here is Begrazia member under Sena's production. |
 | Evidence | 美鈴: Begraziaに……入りませんか？…この手を取ってください。今度こそ、一緒に……トップアイドルになりましょう。 / 手毬: ここで私が『仲間になる』って頷いたら――とたんに美鈴は、本気を出すのをやめるよね。 / 美鈴: ただ、アイドルになってから……はじめて。走りたいと思ったんです。(04_08 #005-#031, #040-#041) / 美鈴(内): 最初で最後の全力疾走……これが……あなたの見ている世界なんですね (04_20 #023-#024) / 美鈴: わたしが……負けて、泣いていたら。…騙されました。…こんな想いは、もうこりごり。わたし、二度と全力疾走なんてしません。…徒歩で勝ちますね。…人は、向いていないことをするべきではない…まどろみながら歩むわたしが……一番です。…次は勝ちます。(04_22 #046-#077) |
-| Existing treatment | Misuzu core: none; its YAML/§0 boundary is the Misuzu complete character bundle (197 objects) and grep of all Misuzu core files for U1/unit_01/Unit Story = 0 -> SCOPE_LIMITED for the core. RS-I §5 (SyngUp, §5.1-§5.17) and §12.3 routing: no U1 source or claim (grep U1/unit_01/Begrazia within §5 = 0). Relationship State Ledger: no U1 Temari<->Misuzu, Ume<->Misuzu or Kotone<->Misuzu row (only the Ume-centred U1 row l.772 lists Misuzu as co-member). Character State Ledger: no U1 Misuzu row (Phase-3 Misuzu rows l.235-244 are D/P/M only). Temari core §2.6 and §3.6 carry Temari's side only ('tells Misuzu to stop yielding and become a rival'). Theme ledger l.91/l.98 mention U1 thematically under ne… |
-| Deficiency | Misuzu's complete U1 sub-arc has no Misuzu-facing canonical treatment. (a) She joins Begrazia with an avowed grudge against Re;IRIS and uses the Selection victory to try to bring Temari back into a unit with her ('今度こそ、一緒に') - a restoration attempt through a new unit - which Temari refuses, diagnosing that Misuzu would stop exerting once the relation was secured and preferring the serious Misuzu she meets as an enemy. (b) Her pointed hostility to Kotone is possessive jealousy over Temari's new peers, dissolved when Kotone denies friendship and Misuzu finds herself defending Temari. (c) She chooses, without any self-punitive motive, her 'first and last' all-out sprint and experiences it as entering Temari's world. (d) After the H.I.F. unit loss she cries openly to Temari, says Temari 'tricked' her about the beauty of all-out effort, and vows never to sprint again because the pain is too … |
-| Alternative | Adequacy defence: U1 is a parallel track and the Misuzu core declared a bundle-only boundary; RS-I's SyngUp conclusions (repair is non-restorative and runs through rivalry; care must not become jurisdiction) are corroborated rather than contradicted by U1; D-MISUZU already establishes that defeat hurts (Dear 022, 032), that frantic effort is abandoned for owned tempo (Dear 026), and that she can cry before Temari (Dear 009, 036); the 04_22 vow is delivered in a teasing register ('徒歩で勝ちますね'; Temari: 'らしくなってきちゃったね') and may be face-saving self-reassertion rather than a motive. Counter: even if … |
+| Existing treatment | Misuzu core: none; its YAML/§0 boundary is the Misuzu complete character bundle (197 objects) and grep of all Misuzu core files for U1/unit_01/Unit Story = 0 -> SCOPE_LIMITED for the core. RS-I §5 (SyngUp, §5.1-§5.17) and §12.3 routing: no U1 source or claim (grep U1/unit_01/Begrazia within §5 = 0). Relationship State Ledger: no U1 Temari<->Misuzu, Ume<->Misuzu or Kotone<->Misuzu row (only the Ume-centred U1 row l.772 lists Misuzu as co-member). Character State Ledger: no U1 Misuzu row (Phase-3 Misuzu rows l.235-244 are D/P/M only). Temari core §2.6 and §3.6 carry Temari's side only ('tells Misuzu to stop yielding and become a rival'). Theme ledger l.91/l.98 mention U1 thematically under need-without-surrender / conflict-as-repair (Temari-derived). Placement doc §6 names Temari/Misuzu history and renewed competition and Ume/Misuzu as exceptionally strong U1 evidence. Rinha crosswalk routes U1 04_13 and 04_17 only (XW-117/118), not Misuzu's 04_08 claim about Rinha. |
+| Deficiency | Misuzu's complete U1 sub-arc has no Misuzu-facing canonical treatment. (a) She joins Begrazia with an avowed grudge against Re;IRIS and uses the Selection victory to try to bring Temari back into a unit with her ('今度こそ、一緒に') - a restoration attempt through a new unit - which Temari refuses, diagnosing that Misuzu would stop exerting once the relation was secured and preferring the serious Misuzu she meets as an enemy. (b) Her pointed hostility to Kotone is possessive jealousy over Temari's new peers, dissolved when Kotone denies friendship and Misuzu finds herself defending Temari. (c) She chooses, without any self-punitive motive, her 'first and last' all-out sprint and experiences it as entering Temari's world. (d) After the H.I.F. unit loss she cries openly to Temari, says Temari 'tricked' her about the beauty of all-out effort, and vows never to sprint again because the pain is too great, reasserting walking as what suits her while promising to win next time. U1 is the only track in which chosen, non-punitive running ends in defeat, and the only place where Misuzu herself gives an affect-protective reason for walking. This bears on core §2 (the four layers of マイペース), §10/C14 (Temari's pace understood by enactment, not only observation), §14-§15/C23-C27 (defeat; running), and RS-I §5.9/§6.6 (non-restorative repair; recipient-relative pace). |
+| Alternative | Adequacy defence: U1 is a parallel track and the Misuzu core declared a bundle-only boundary; RS-I's SyngUp conclusions (repair is non-restorative and runs through rivalry; care must not become jurisdiction) are corroborated rather than contradicted by U1; D-MISUZU already establishes that defeat hurts (Dear 022, 032), that frantic effort is abandoned for owned tempo (Dear 026), and that she can cry before Temari (Dear 009, 036); the 04_22 vow is delivered in a teasing register ('徒歩で勝ちますね'; Temari: 'らしくなってきちゃったね') and may be face-saving self-reassertion rather than a motive. Counter: even if largely confirmatory, U1 supplies Misuzu's own words for an affect-protective function of the walking doctrine and an enacted understanding of Temari's pace that no canonical home records, and the placement doc itself classes this evidence as exceptionally strong. |
 | Disposition | OMITTED |
-| Severity | P1 — Major underrepresentation of a significant development/motive/relationship finding: an entire U1 Misuzu arc (restoration attempt and refusal, enacted pace-empathy, defeat tears, explicit pain-avoidance vow) is absent from every Misuzu-facing canonical home (core out of scope; RS-I §5 and both state ledgers silent). Structurally parallel to the calibrated Saki U1 Ep04 gap (OMITTED/P1 before PR #53… |
+| Severity | P1 — Major underrepresentation of a significant development/motive/relationship finding: an entire U1 Misuzu arc (restoration attempt and refusal, enacted pace-empathy, defeat tears, explicit pain-avoidance vow) is absent from every Misuzu-facing canonical home (core out of scope; RS-I §5 and both state ledgers silent). Structurally parallel to the calibrated Saki U1 Ep04 gap (OMITTED/P1 before PR #531). Not P0: no existing conclusion is shown to be wrong; the thesis survives with narrowing. Borderline P1/P2 if the orchestrator weights corroboration over novelty. |
 | Confidence | high |
-| Recommendation | Add a bounded U1 counter-track subsection to RS-I §5 (mirroring §3.5.1, e.g. §5.9.1 'U1 - repair through a lost race'): Misuzu's Begrazia recruitment attempt and Temari's refusal; enacted pace-empathy (04_20); defeat tears and walking vow (04_22); label C1 @ U1, not additive to D-tracks. Add Relationship State Ledger rows (Temari<->Misuzu U1; Ume<->Misuzu U1 Begrazia; Kotone<->Misuzu U1) and a Character State Ledger 'Hataya Misuzu ／ U1' row. Optionally add to Misuzu matrix C26/C45 counterpressure that U1 04_22 gives an affect-protective reason for walking. Route U1 04_08 ('恨んでなんて……わたしも、りんちゃんだ… |
+| Recommendation | Add a bounded U1 counter-track subsection to RS-I §5 (mirroring §3.5.1, e.g. §5.9.1 'U1 - repair through a lost race'): Misuzu's Begrazia recruitment attempt and Temari's refusal; enacted pace-empathy (04_20); defeat tears and walking vow (04_22); label C1 @ U1, not additive to D-tracks. Add Relationship State Ledger rows (Temari<->Misuzu U1; Ume<->Misuzu U1 Begrazia; Kotone<->Misuzu U1) and a Character State Ledger 'Hataya Misuzu \| U1' row. Optionally add to Misuzu matrix C26/C45 counterpressure that U1 04_22 gives an affect-protective reason for walking. Route U1 04_08 ('恨んでなんて……わたしも、りんちゃんだって') to the Rinha crosswalk as OTHER-REPORT. |
 | Status | open |
-| Adversarial verification | Auditor A1 verification plus independent orchestrator re-inspection of the raw script (see master report §7). |
+| Merged members | ttmr-B-F02 (CROSS_REFERENCE_GAP, P2): The canonical SyngUp home (RS-I) and the cumulative ledgers carry nothing from the U1 Temari–Misuzu arc, and the Temari core carries only Temari's refusal and Kotone's critique. Absent everywhere: (a) Temari's U1 premise that Misuzu and Rinha resent her for ruining 'the three's dream', directly refuted by Misuzu ('a small misunderstanding') — the U1 parallel of D-TEMARI Dear 004 ('恨まれてると思います' / 'have you asked them? No'); (b) Misuzu's bid to repair the friendship by winning Temari into Begrazia, and her open possessive hostility toward Kotone; (c) Misuzu's single 'last spurt', her tears after losing, her accusation that Temari 'tricked' her about full effort, and her return to walking. U1 independently reproduces two RS-I conclusions (repair without unit restoration; Misuzu may run once but returns to her own pace, cf. D-MISUZU Dear 023–026). That cross-track invariance is the strongest available corroboration of RS1-SYNGUP-05 and is unrecorded. |
+| Verification | A1: read raw 04_08 (56 msgs) and 04_22 (78 msgs) in full and 04_17 #001-#046; extracted all Misuzu lines from 04_02, 04_14, 04_19, 04_20, 04_23; confirmed speakers (美鈴/手毬/ことね labels, inner lines marked isInner) and wording; 04_20 #023-#024 are Misuzu inner monologue during the result announcement. Manifest: 03_12, 04_01-04_05, 04_08, 04_14, 04_17, 04_19, 04_20, 04_22, 04_23 all present (Source Lock 1.0 manifest.csv). Continuity: all C1 @ U1; Misuzu's producer here is Sena; must not be merged into D-MISUZU (where Dear 036 open tears follow victory). Canonical sections read in full: Misuzu core §0-§34; matrix C01-C45; AV addendum current and historical; RS-I §0-§2 and §5-§13 in full; Temari core §1, §2.6, §3.2, §3.6, §9, §12.4-12.5; placement doc in full. Other homes checked: Relationship and Character State Ledgers (all Misuzu/U1 rows), Theme ledger l.91/98, Branch Divergence and Continuity ledgers (Misuzu sections), shared spine §753/§761 (Sena-only U1), Rinha crosswalk U1 rows. Strongest adequacy argument recorded in 'alternative'.<br>Independent orchestrator re-inspection of the raw script: see master report §7. |
 
-### HSCA-002 — P1 — D-UME contains a coherent alternate Saki trajectory that no Saki-side canonical home models: first loss to Ume at the N.I.A. FINALE (a thir…
+### HSCA-002 — P1 — D-UME contains a coherent alternate Saki trajectory that no Saki-side canonical home models: first loss to Ume at the N.I.A.
 
 | Field | Value |
 |---|---|
@@ -237,18 +256,18 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ D-UME (Ume's Dear Idol longitudinal track): N.I.A. FINALE Dear 019 (Ume's first win over Saki) → summer H.I.F. Dear 022 (Sena Prima Stella; Saki ahead of Ume) → Dear 023-035 → winter H.I.F. Dear 036 (Ume Prima Stella). Saki is a secondary character; her interior is shown through her own lines and observers (Rinha, Ume's Producer). Never merged with D-SAKI or U1. |
 | Evidence | 咲季: わたしはもう……逃げたりしない！！…次はわたしが挑戦者よ！！…この新しい仲間たちと一緒にね！ (019; takes Sena and Rinha home to train) / 学園長: 夏の一番星…十王星南！！ 咲季: 待たせたわね――追いついたわよ！！(022) / 燐羽: 不屈で無敵のお姉ちゃん。…いまにも燃え尽きてしまいそうだった。(024) / {user}: 『H.I.F』で見た咲季さんには、短命アイドル特有の、あやうい魅力がありました。(027) / 咲季: 魂ごと燃え上がって――無敵の花海咲季を見せてやるわ！…わたし、100プロ入りが決まったの。…最初から最後まで、全力疾走するって決めているの。…プロデューサーは……いらないわ。比べてしまいそうだもの。セルフプロデュースを事務所がサポートする形式 (033) / 咲季 to Ume's Producer: あなたが。私の敵で……本当によかった。(017) |
-| Existing treatment | Ume core §4 (Dear 019 Ume lines), §7 (Dear 033 mutual fear), §15 (Dear 024→027 burnout → 'adding fuel'), §19 + UME-C30 (Ume's own 100pro choice), §22.1; RS-I §3.4, §3.6 ('Ume-side Dear material support the same structural correction'), §3.9 ('Burnout remains the principal unresolved danger … The route explicitly confronts romanticized burnout'), §12.1; RS-II §9.5 ('Saki may accept the Producer as singular witness'); Saki core H-SAKI-05 ('Test needed: evidence of continuation without the Producer'), §10.4/§10.8, §21 Saki↔Producer ('Does the pair tolerate alternate Producers …'), §25 Q9/Q14/Q20; LOC-CONT-012 (Dear 019 result only); Rinha crosswalk XW-094/095/097/099 (routing only). None found… |
-| Deficiency | D-UME contains a coherent alternate Saki trajectory that no Saki-side canonical home models: first loss to Ume at the N.I.A. FINALE (a third placement after U1 Selection and D-SAKI summer H.I.F.); immediate refusal to flee and a training retreat with Sena and Rinha (the Project-Stardust constellation recurring outside D-SAKI); a summer H.I.F. where Sena wins and Saki overtakes Ume; professional signing with 100 Pro as a self-produced idol who refuses any Producer because she would 'compare'; a declared full sprint 'from start to finish' under the banner 'invincible Hanami Saki'; two observers reading her as burning out / short-lived; Ume taking over the re-ignition role (Dear 027/029). Undeveloped consequences: (i) H-SAKI-05's explicit test (continuation without the Producer) has a direct D-UME answer — she continues, but in a combustion-prone mode with a rival as re-igniter — absent fr… |
+| Existing treatment | Ume core §4 (Dear 019 Ume lines), §7 (Dear 033 mutual fear), §15 (Dear 024→027 burnout → 'adding fuel'), §19 + UME-C30 (Ume's own 100pro choice), §22.1; RS-I §3.4, §3.6 ('Ume-side Dear material support the same structural correction'), §3.9 ('Burnout remains the principal unresolved danger … The route explicitly confronts romanticized burnout'), §12.1; RS-II §9.5 ('Saki may accept the Producer as singular witness'); Saki core H-SAKI-05 ('Test needed: evidence of continuation without the Producer'), §10.4/§10.8, §21 Saki↔Producer ('Does the pair tolerate alternate Producers …'), §25 Q9/Q14/Q20; LOC-CONT-012 (Dear 019 result only); Rinha crosswalk XW-094/095/097/099 (routing only). None found for Saki's 100 Pro signing, self-production, refusal of any Producer, '全力疾走', or the observers' short-lived/burn-out readings as Saki-side evidence (searched 100プロ, セルフプロデュース, いらないわ, 比べてしまいそう, 全力疾走, 短命, 燃え尽き, dear_hume_033, 無敵で不屈/不屈で無敵). CHARACTER_STATE has no D-UME Saki rows; BR-SAKI-SUMMER-CHAMPION lists only D-SAKI vs U1. |
+| Deficiency | D-UME contains a coherent alternate Saki trajectory that no Saki-side canonical home models: first loss to Ume at the N.I.A. FINALE (a third placement after U1 Selection and D-SAKI summer H.I.F.); immediate refusal to flee and a training retreat with Sena and Rinha (the Project-Stardust constellation recurring outside D-SAKI); a summer H.I.F. where Sena wins and Saki overtakes Ume; professional signing with 100 Pro as a self-produced idol who refuses any Producer because she would 'compare'; a declared full sprint 'from start to finish' under the banner 'invincible Hanami Saki'; two observers reading her as burning out / short-lived; Ume taking over the re-ignition role (Dear 027/029). Undeveloped consequences: (i) H-SAKI-05's explicit test (continuation without the Producer) has a direct D-UME answer — she continues, but in a combustion-prone mode with a rival as re-igniter — absent from the v2.1 U1-only narrowing; (ii) the 無敵→不屈 replacement (§0, §2.5, stable obs. 19) is not track-labelled, while in D-UME observers fuse '無敵で不屈 / 不屈で無敵' (023, 024) and Saki self-styles 無敵 late (033) — the explicit replacement is D-SAKI-specific; (iii) Producer exclusivity (§10.4, SAKI-C15) may persist as refusal of substitutes even where he is not her Producer (INFERENCE: the referent of '比べてしまいそう' is unstated); (iv) ledger completeness: BR-SAKI-SUMMER-CHAMPION omits the third summer state (Sena champion), CHARACTER_STATE lacks D-UME Saki rows. |
 | Alternative | Strongest adequacy defence: the Saki core's declared scope (own bundle + U1) makes D-UME absence SCOPE_LIMITED for the core; RS-I §3.9 and Ume core §15 already name the burnout danger and its relational revision; UME-C30 handles 100pro agency for Ume; H-SAKI-05 is an explicitly open hypothesis, so an untested track is incompleteness, not error; Saki's D-UME interiority is observer-mediated and must be treated cautiously. These justify not rating P0 and support P2 as a defensible alternative rating. |
 | Disposition | CROSS_REFERENCE_GAP |
-| Severity | P1 — Major underrepresentation of a significant multi-scene cross-track development bearing directly on two flagged Saki tests (H-SAKI-05; Producer exclusivity / alternate Producers) and on the track scope of the central 無敵→不屈 claim; the burnout danger is acknowledged only from Ume's side. Not P0: the core never asserts D-UME scope, so no conclusion is falsified — the risk is over-generalization by do… |
+| Severity | P1 — Major underrepresentation of a significant multi-scene cross-track development bearing directly on two flagged Saki tests (H-SAKI-05; Producer exclusivity / alternate Producers) and on the track scope of the central 無敵→不屈 claim; the burnout danger is acknowledged only from Ume's side. Not P0: the core never asserts D-UME scope, so no conclusion is falsified — the risk is over-generalization by downstream readers. |
 | Confidence | medium |
 | Recommendation | RS-I §3 (bounded C1 @ D-UME subsection or §3.9 extension): Saki's D-UME trajectory and its bearing on burnout and witness; Saki core H-SAKI-05 partial-test paragraph for D-UME (no Producer by choice; observers' combustion reading; Ume as re-igniter); track-label §2.5 / stable obs. 19 (無敵→不屈 as D-SAKI); CHARACTER_STATE D-UME Saki rows; BR-SAKI-SUMMER-CHAMPION add the D-UME (Sena) state. Cross-assignment note to hume: UME-C30/§19 should mention Saki's prior 100 Pro signing (Dear 033) as context for Ume's Dear 035 choice ('これからの100プロは、すっっごく面白くなりますよ'). |
 | Status | open |
 | Orchestrator adjustment | hski-B2-F09: {"disposition": {"from": "UNDERWEIGHTED", "to": "CROSS_REFERENCE_GAP"}, "reason": "evidence lives in Ume's bundle and is half-carried on the Ume side; target is the cross-character layer"} |
-| Adversarial verification | Auditor A1 verification plus independent orchestrator re-inspection of the raw script (see master report §7). |
+| Verification | A1 raw D-UME Dear 017, 019, 022, 023, 024, 027, 033, 035 read (relevant message lines with speakers): 019 Saki 'わたしはもう……逃げたりしない！！' and Sena/Rinha taken home; 022 学園長 names 十王星南 summer Prima Stella, Saki '追いついたわよ'; 023 {user} '彼女は無敵で不屈で理不尽で'; 024 燐羽 '不屈で無敵のお姉ちゃん' / 'いまにも燃え尽きてしまいそうだった'; 027 {user} '短命アイドル特有の、あやうい魅力'; 033 Saki 100 Pro / 'プロデューサーは……いらないわ。比べてしまいそうだもの' / 'セルフプロデュース' / '全力疾走'; 035 Ume '100プロが第一志望です' without naming Saki. All in manifest.csv (category dear, transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_NNN.txt). Continuity C1 @ D-UME per BRANCH 'D-UME' and STATE-UME-D. Canonical sections read in full: RS-I §3.4/§3.6/§3.9/§12.1 (unchanged since 3beaa074), Ume core §3/§4/§6/§7/§14/§15/§16.3-16.5/§19/§20/§22.1, RS-II §9.5/§10.4/§13.1/§14, Saki core v2.1 H-SAKI-05/§10/§18/§21/§25. No other canonical artifact carries the point (grep above).<br>Independent orchestrator re-inspection of the raw script: see master report §7. |
 
-### HSCA-003 — P1 — The core's own bundle shows that two episodes before Dear 035 Saki has already signed with 100 Pro (Dear 033: scouted by President Juo afte…
+### HSCA-003 — P1 — The core's own bundle shows that two episodes before Dear 035 Saki has already signed with 100 Pro (Dear 033: scouted by President Juo after summer H.I.F., self-produced with family management, refuses a producer 'because I would compare'), and that 100 Pro is the institutional default for Hatsuboshi idols (the Producer's own baseline: Dear 016 '卒業後、100プロに入社したとして', Dear 014 '100プロ以上の環境があったなら…移籍').
 
 | Field | Value |
 |---|---|
@@ -258,17 +277,17 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ D-UME (Dear 014 -> 016 -> 033 -> 035, internally ordered); cross-track corroboration only: C1 @ D-SAKI Dear 033 (institutional fact that the reigning Prima Stella works with 100 Pro seniors; not a D-UME event) |
 | Evidence | 咲季: わたし、100プロ入りが決まったの。…プロデューサーは……いらないわ。比べてしまいそうだもの。(dear_033 #040/#049) / 佑芽: …………………………………そっか。(dear_033 #046) / 佑芽: 100プロが第一志望です。…これからの100プロは、すっっごく面白くなりますよ！(dear_035 #037/#054) / {user}: 卒業後、100プロに入社したとして。(dear_016 #022) / {user}: 100プロ以上の環境があったなら、一緒に移籍しましょうね。(dear_014 #041) |
-| Existing treatment | GKM_CORE_10 §19 'Career agency: post-Saki Ume can choose against the obvious path' ('Dear 035 is strong evidence that individuation has become institutional'; 'the choice is not “go wherever Saki goes”'; 'Ume can honor relational inheritance while choosing differently'; 'continued love no longer requires copied decisions'); evidence matrix UME-C30 (HIGH; counterpressure '100pro choice remains relational/networked'; falsifier 'agency choice is made solely to follow Saki'); Character State Ledger Ume row 'late D-UME' ('selects songs/career using her own accumulating idol literacy'); Ume AV matrix UME-AV25 ('Ume makes career/song choices') and UME-AV09 / AV addendum row 'Rivalry becomes horizo… |
-| Deficiency | The core's own bundle shows that two episodes before Dear 035 Saki has already signed with 100 Pro (Dear 033: scouted by President Juo after summer H.I.F., self-produced with family management, refuses a producer 'because I would compare'), and that 100 Pro is the institutional default for Hatsuboshi idols (the Producer's own baseline: Dear 016 '卒業後、100プロに入社したとして', Dear 014 '100プロ以上の環境があったなら…移籍'). Ume's first choice therefore coincides with both the default path and Saki's agency; the option she weighed and declined (961, to fight Hatsuboshi idols from outside) was the divergent one. §19's framing ('against the obvious path', 'not go wherever Saki goes', 'choosing differently', 'no longer requires copied decisions') is contradicted at the level of outcome. What Dear 035 does show is procedural agency: her own OB visits, an explicit weighing of 961, timing deferred to post-H.I.F. consult… |
-| Alternative | Strongest adequacy defence: Ume never names Saki as a reason; she cites her own investigation and conviction; the Producer is visibly stunned by the independence of her answer; the matrix falsifier ('solely to follow Saki') is not met and the matrix already flags relational counterpressure; 100 Pro may be the obvious professional choice for any Hatsuboshi star regardless of Saki, so convergence need not mean following. Competing reading the corpus does not consider: Dear 035 is a self-reasoned choice that keeps the sisters in one professional field after Saki has moved ahead into professional… |
+| Existing treatment | GKM_CORE_10 §19 'Career agency: post-Saki Ume can choose against the obvious path' ('Dear 035 is strong evidence that individuation has become institutional'; 'the choice is not “go wherever Saki goes”'; 'Ume can honor relational inheritance while choosing differently'; 'continued love no longer requires copied decisions'); evidence matrix UME-C30 (HIGH; counterpressure '100pro choice remains relational/networked'; falsifier 'agency choice is made solely to follow Saki'); Character State Ledger Ume row 'late D-UME' ('selects songs/career using her own accumulating idol literacy'); Ume AV matrix UME-AV25 ('Ume makes career/song choices') and UME-AV09 / AV addendum row 'Rivalry becomes horizontal' ('divergent choice'). Saki's D-UME 100 Pro signing appears in no canonical artifact (grep 100プロ\|100pro\|100 Pro across ROOT excluding 90*: hits only Mao/Rinami material plus Ume §19 and UME-C30). |
+| Deficiency | The core's own bundle shows that two episodes before Dear 035 Saki has already signed with 100 Pro (Dear 033: scouted by President Juo after summer H.I.F., self-produced with family management, refuses a producer 'because I would compare'), and that 100 Pro is the institutional default for Hatsuboshi idols (the Producer's own baseline: Dear 016 '卒業後、100プロに入社したとして', Dear 014 '100プロ以上の環境があったなら…移籍'). Ume's first choice therefore coincides with both the default path and Saki's agency; the option she weighed and declined (961, to fight Hatsuboshi idols from outside) was the divergent one. §19's framing ('against the obvious path', 'not go wherever Saki goes', 'choosing differently', 'no longer requires copied decisions') is contradicted at the level of outcome. What Dear 035 does show is procedural agency: her own OB visits, an explicit weighing of 961, timing deferred to post-H.I.F. consultation, and a self-authored rationale ('その物語は、今日、ここから始まるんです！…一番星花海佑芽の手によって'). Ume's long pause on hearing Saki's news (Dear 033 #046) is unread. The omission propagates into the ledger and AV homes listed. |
+| Alternative | Strongest adequacy defence: Ume never names Saki as a reason; she cites her own investigation and conviction; the Producer is visibly stunned by the independence of her answer; the matrix falsifier ('solely to follow Saki') is not met and the matrix already flags relational counterpressure; 100 Pro may be the obvious professional choice for any Hatsuboshi star regardless of Saki, so convergence need not mean following. Competing reading the corpus does not consider: Dear 035 is a self-reasoned choice that keeps the sisters in one professional field after Saki has moved ahead into professional work, i.e. evidence for RS-I's 'stable shared field' (neither needs to leave the field) rather than for divergence from Saki. |
 | Disposition | POTENTIALLY_CORRECTIVE |
-| Severity | P1 — Not P0: the renewable-rivalry thesis and the self-authored-motive claim survive (Dear 031-032 song choice and her stated reasons remain valid evidence of authorship). P1 because a named HIGH-status pillar of the individuation argument (UME-C30, 'individuation has become institutional') is framed as outcome divergence from Saki when the core's own bundle shows outcome convergence with Saki and wit… |
+| Severity | P1 — Not P0: the renewable-rivalry thesis and the self-authored-motive claim survive (Dear 031-032 song choice and her stated reasons remain valid evidence of authorship). P1 because a named HIGH-status pillar of the individuation argument (UME-C30, 'individuation has become institutional') is framed as outcome divergence from Saki when the core's own bundle shows outcome convergence with Saki and with the institutional default, and the unqualified claim has propagated into the Character State Ledger and the Ume AV matrix. |
 | Confidence | high |
-| Recommendation | Bounded correction via addendum/correction note to GKM_CORE_10 §19 and matrix UME-C30 (no silent body edit): record Saki's 100 Pro signing (Dear 033) and the 100 Pro default (Dear 014/016); restate the claim as procedural, self-reasoned agency whose outcome converges with Saki's agency; withdraw 'choose against the obvious path' / 'not go wherever Saki goes' / 'choosing differently'; optionally add the shared-field reading with a cross-reference to RS-I §3.6. Flag the 'career' element in the Character State Ledger late-D-UME row and in Ume AV matrix UME-AV25 / UME-AV09 ('divergent choice' sho… |
+| Recommendation | Bounded correction via addendum/correction note to GKM_CORE_10 §19 and matrix UME-C30 (no silent body edit): record Saki's 100 Pro signing (Dear 033) and the 100 Pro default (Dear 014/016); restate the claim as procedural, self-reasoned agency whose outcome converges with Saki's agency; withdraw 'choose against the obvious path' / 'not go wherever Saki goes' / 'choosing differently'; optionally add the shared-field reading with a cross-reference to RS-I §3.6. Flag the 'career' element in the Character State Ledger late-D-UME row and in Ume AV matrix UME-AV25 / UME-AV09 ('divergent choice' should rest on the song choice only). |
 | Status | open |
-| Adversarial verification | Auditor A1 verification plus independent orchestrator re-inspection of the raw script (see master report §7). |
+| Verification | A1 raw read in full: transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_033.txt (79 msgs; #040 '100プロ入りが決まった', #046 Ume pause '…………そっか。', #048 '十王社長にスカウトされた', #049 'プロデューサーは……いらないわ。比べてしまいそうだもの。'; speaker 咲季/佑芽 confirmed) and dear_035.txt (72 msgs; #027 961 rumour, #032-033 Producer: offers from many agencies, answer withheld, #037 '100プロが第一志望です', #043-050 OB visits, 961 temptation, #054 'これからの100プロは、すっっごく面白くなりますよ！'; Saki is not mentioned anywhere in the file). Context checks: dear_014.txt #030-045 (the '100プロ以上の環境…移籍' line is spoken by {user}, not Ume - Stage-A anchor merges speakers; Ume answers that future talk waits until she beats Saki); dear_016.txt #011-024 (Kuroi recruits to 961; Producer refuses, citing default '卒業後、100プロに入社したとして'); D-SAKI dear_hski_033.txt #015-018 (Prima Stella's first job: overseas tour with '100プロの先輩方'; used only as cross-track institutional corroboration). All files resolve through 00_context/manifest.csv. Continuity: Dear 033 precedes Dear 035 inside D-UME (033 = after the selection, 035 = moments before the winter H.I.F. final); D-SAKI is a separate track. Canonical sections read in full: GKM_CORE_10 §19, §22.1, §25 table, §28; matrix UME-C30; Character State Ledger Ume Phase-3 rows; Ume AV matrix UME-AV09/UME-AV25 and AV addendum; RS-I §3.4 and §3.6; side-character synthesis §1.2 and §5.1 (100Pro); grep of 100プロ/100pro/100 Pro/十王社長 across ROOT found no other home carrying the Saki-signing point. Strongest adequacy argument recorded in 'alternative'.<br>Independent orchestrator re-inspection of the raw script: see master report §7. |
 
-### HSCA-004 — P1 — The title character's complete U1 retirement arc — announcement (retire from idol work mid-year to concentrate on production because Ume/Mi…
+### HSCA-004 — P1 — The title character's complete U1 retirement arc — announcement (retire from idol work mid-year to concentrate on production because Ume/Misuzu will surpass her: 'no dead weight, even myself'), destabilisation in the first one-on-one 'mirror' talk with Saki (Ume makes giving up hard; 'can we keep being idols?'; decision deferred; she now claims the title for herself, reversing part 14's expectation of being surpassed), inner doubt at the result, concession to Kotone/Re;IRIS/the Producer, and withdrawal after defeat (frustration; she gave Begrazia's best performance; numbers are not everything; she had not thought about graduating in half a year) — is absent from every Sena-model home.
 
 | Field | Value |
 |---|---|
@@ -278,15 +297,15 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (04_14, 04_16, 04_20, 04_22, 04_23 read in full); remaining parts A2 |
 | Story state | C1 @ U1 (old-rules summer H.I.F.; Sena = previous summer/winter champion, Begrazia leader-producer). Not D-SENA. 04_20 line is waking inner monologue; 04_16 is actual dialogue Sena/Saki. |
 | Evidence | 04_14 星南「この私、十王星南にとって……現役最後のライブになるのだから。」「私は……アイドルを引退して、プロデューサー業に専念する。」「足手まといは要らない。たとえそれが、私自身でも。」/ 04_16 星南「だって、鏡を見ているようだったのだもの。」咲季「あなただって、諦めが悪いじゃない。」星南「…………だって、佑芽が。諦めにくく、するのだもの。」「私たち、アイドルを続けられるのかしら。」「終わってから、考えればいいわね。」/ 04_20 星南（これが……引退を決めたベテランアイドルの姿？）/ 04_23「――引退を撤回するわ！」「とっ……っても。悔しかった。」「アイドルの実力は、数値だけでは表せないと。」 |
-| Existing treatment | Only: shared spine §8.4 ('She initially evaluates her own continued place in Begrazia through numerical capacity and assumes she should withdraw if she becomes a drag. After losing to Re;IRIS, she revises that belief…') and §16.5 (numbers-alone line). Sena core: none — declared boundary = Sena bundle (184 objects, no unit files) → SCOPE_LIMITED for the core; Begrazia appears only as AV-HYP-SENA-08 / AV addendum SN-R13. Unit placement doc §2.4 uses 04_14 only for 'venue outdoors in heat' and 04_16 only for 'Saki enrolled half a year'; CONT-036 / LOC-INST-030 use 04_16 only for festival fans/workers; RS-I §3.5.1 (PR #531, 2026-11-07) and relationship ledger U1 row cite 04_14 only for Ume's li… |
-| Deficiency | The title character's complete U1 retirement arc — announcement (retire from idol work mid-year to concentrate on production because Ume/Misuzu will surpass her: 'no dead weight, even myself'), destabilisation in the first one-on-one 'mirror' talk with Saki (Ume makes giving up hard; 'can we keep being idols?'; decision deferred; she now claims the title for herself, reversing part 14's expectation of being surpassed), inner doubt at the result, concession to Kotone/Re;IRIS/the Producer, and withdrawal after defeat (frustration; she gave Begrazia's best performance; numbers are not everything; she had not thought about graduating in half a year) — is absent from every Sena-model home. The one treatment (spine §8.4) is institutional and softens a settled retirement from idolhood into a conditional withdrawal from Begrazia; it omits the mirror talk, Ume's challenge as reversal agent and t… |
+| Existing treatment | Only: shared spine §8.4 ('She initially evaluates her own continued place in Begrazia through numerical capacity and assumes she should withdraw if she becomes a drag. After losing to Re;IRIS, she revises that belief…') and §16.5 (numbers-alone line). Sena core: none — declared boundary = Sena bundle (184 objects, no unit files) → SCOPE_LIMITED for the core; Begrazia appears only as AV-HYP-SENA-08 / AV addendum SN-R13. Unit placement doc §2.4 uses 04_14 only for 'venue outdoors in heat' and 04_16 only for 'Saki enrolled half a year'; CONT-036 / LOC-INST-030 use 04_16 only for festival fans/workers; RS-I §3.5.1 (PR #531, 2026-11-07) and relationship ledger U1 row cite 04_14 only for Ume's lines in the same scene. Character-state ledger Sena section, continuity ledger Sena map, branch ledger Sena controls list P1/P2/D-SENA/M-SENA only; RS-II §5, §8, §13.7 silent. Searched: 引退を撤回, 現役最後, 諦めにくく, 鏡/mirror, unit_01-04_14/16/20/23, 04_14, 04_16, retire/引退, Begrazia. |
+| Deficiency | The title character's complete U1 retirement arc — announcement (retire from idol work mid-year to concentrate on production because Ume/Misuzu will surpass her: 'no dead weight, even myself'), destabilisation in the first one-on-one 'mirror' talk with Saki (Ume makes giving up hard; 'can we keep being idols?'; decision deferred; she now claims the title for herself, reversing part 14's expectation of being surpassed), inner doubt at the result, concession to Kotone/Re;IRIS/the Producer, and withdrawal after defeat (frustration; she gave Begrazia's best performance; numbers are not everything; she had not thought about graduating in half a year) — is absent from every Sena-model home. The one treatment (spine §8.4) is institutional and softens a settled retirement from idolhood into a conditional withdrawal from Begrazia; it omits the mirror talk, Ume's challenge as reversal agent and the defeat response. Consequences undrawn: (a) independent non-D-SENA corroboration of core §6 / SENA-C03 (retirement-to-produce as displacement triggered by numerical self-assessment); (b) reversal without the Producer — via Ume's love of Begrazia, the Saki mirror and defeat by Re;IRIS — supporting core §25 ('not one destined rescuer') and marking §6–7's Producer-centred account as D-SENA-specific; (c) direct defeat-response evidence bearing on OPEN-SENA-12 / AV SN-R18; (d) the mirror image links Dear 002「鏡を見れば嫌でも視える」and E005's mirror rivalry. |
 | Alternative | Adequacy defence: D-SENA already carries a richer retirement→reversal arc that the core thesis accommodates; U1 is a parallel track whose outcomes must not be merged into D-SENA (unit placement §0, §7); the spine records the epistemic revision. Rebuttal: no merge is required — what is missing is any track-labelled record of a major Sena decision, its doubt and its reversal; part 16's doubt is unrecorded anywhere, and the latest correction used the same 04_14 scene for Ume only. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P1 — Major development (retirement decision, doubt, reversal) of the title character in a canonical continuity track is represented only by two softened institutional sentences; reversal agency and the mirror-talk doubt are absent from all homes. Not P0: no existing conclusion is contradicted — the arc corroborates the thesis. |
 | Confidence | high |
 | Recommendation | Add a track-labelled U1 state to the character-state ledger Sena section and continuity ledger Sena map (C1 @ U1: announce 04_14 → mirror talk / deferral 04_16 → inner doubt 04_20 → concession 04_22 → withdrawal 04_23); correct spine §8.4 wording (announces the summer H.I.F. as her last live and retirement from idol work; withdraws after defeat); route a cross-reference to core §6 / OPEN-SENA-12 via addendum or ledger (do not edit the frozen core body): U1 as non-D-SENA corroboration with reversal by rivals and defeat rather than by the Producer. |
 | Status | open |
-| Adversarial verification | Auditor A1 verification plus independent orchestrator re-inspection of the raw script (see master report §7). |
+| Verification | A1 raw: transcripts_raw/12_unit_story/unit_01/episode_04/part_14.txt (all 81 messages: Misuzu's member-addition question; Sena's last-live/retirement/production statement and 'dead weight even myself'; Ume's love of Begrazia and vow; Sena 'やってみなさい！'), part_16.txt (all 70: speakers 星南/咲季 confirmed; mirror 033–042, Ume makes giving up hard 045–047, claims title 050–054, 'アイドルを続けられるのかしら'/'終わってから' 063–065), part_20.txt (011–012 parenthesised inner monologue during result), part_22.txt (concession 036–038; Kotone inner 救世主 040), part_23.txt (all 65: withdrawal, frustration, best performance, numbers, graduation oversight). All five in manifest.csv (category unit). Continuity: U1 ep04 = old-rules summer H.I.F. (unit placement §2.4, §3.1); Sena SOURCE_METRICS.json shows no unit objects → core SCOPE_LIMITED. Canonical sections read in full: Sena core, matrix, AV addendum; unit placement doc; spine §8.4, §11, §13, §16.5; character-state ledger Sena section; continuity-ledger Sena map; branch-ledger Sena controls; relationship-ledger Sena rows; RS-I §3.5.1; RS-II §5, §7–9, §13.7. Strongest adequacy argument recorded in 'alternative'.<br>Independent orchestrator re-inspection of the raw script: see master report §7. |
 
 ### HSCA-005 — P1 — Sumika Dear 014: Lilja does not simply 'reject' the prodigy charge (two-auditor convergence)
 
@@ -298,17 +317,18 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ D-SUMIKA Dear 014 (N.I.A. period, after Shion's isolation scheme is exposed); cross-track only: C1 @ D-LILJA Dear 007 (early) and Dear 031 (winter H.I.F. selection); M-SUMIKA CIDOL 010_03 retrospective |
 | Evidence | 清夏: リーリヤが信じてるのは、今のあたしじゃない。…『神童』だった時の、あたしだよ。(dear_014 msg#77-78) / リーリヤ: そんな、ことない……！清夏ちゃんはもっと、すごくて――(#82) / リーリヤ: あっ……。(#83) / 一同: ごめんなさい！(#94) / リーリヤ: さっきの言葉で、気づいたんだ。……わたしのせいなんだなって。(#99-100) / [D-LILJA] リーリヤ: 清夏ちゃんと、わたしの才能は……比べ物にならないから。(kllj dear_007) |
-| Existing treatment | GKM_CORE_09 §8 ('That statement must not be frozen as objective relationship truth. It is Sumika's fear. Lilja rejects the interpretation.'); §23 V1->V2 row 'Lilja trusts the old prodigy rather than current Sumika -> REVISE: this is Sumika's fear; Lilja rejects it'; matrix SUMIKA-C07 (REVISED; falsifier 'Lilja-side primary evidence endorsing only the old 神童'); core-pass report gain #3 ('an expectation problem inside Sumika'); RS-I §4.2 ('Sumika can become defensive even when Lilja has not actually imposed the judgment Sumika fears'), §4.12 row 'REJECT as objective truth', §11 RS1-REVERSI-02 CANONICAL/REVISE; Relationship State Ledger Sumika row 174 ('Lilja rejects this'). Counter-home: Lilj… |
-| Deficiency | The core and RS-I describe Lilja's in-scene response in Dear 014 as a rejection of Sumika's reading. At A1 Lilja does not reject it: after Sumika's 神童 claim she hesitates ('それ、は……'), begins to describe a greater Sumika ('もっと、すごくて――'), catches herself ('あっ……。'), and after reconciliation says she realized it was her fault ('わたしのせいなんだなって'); both apologize simultaneously. The repair is mutual, and Lilja herself concedes that her belief carried an idealized image that pressured Sumika. D-LILJA Dear 007 ('比べ物にならない') shows the same idealization on Lilja's own track. The canonical bilateral model locates the problem wholly 'inside Sumika' and cites the Lilja core as strengthening the rejection, although the Lilja core says the opposite provisionally. Sumika's own inner line (#89, never to see Lilja sad again) does support the core's 'Sumika converts faith into obligation' half, so the correct s… |
+| Existing treatment | GKM_CORE_09 §8 ('That statement must not be frozen as objective relationship truth. It is Sumika's fear. Lilja rejects the interpretation.'); §23 V1->V2 row 'Lilja trusts the old prodigy rather than current Sumika -> REVISE: this is Sumika's fear; Lilja rejects it'; matrix SUMIKA-C07 (REVISED; falsifier 'Lilja-side primary evidence endorsing only the old 神童'); core-pass report gain #3 ('an expectation problem inside Sumika'); RS-I §4.2 ('Sumika can become defensive even when Lilja has not actually imposed the judgment Sumika fears'), §4.12 row 'REJECT as objective truth', §11 RS1-REVERSI-02 CANONICAL/REVISE; Relationship State Ledger Sumika row 174 ('Lilja rejects this'). Counter-home: Lilja core §10.2 ('admiration for the old prodigy can preserve an image Sumika cannot inhabit', marked provisional) and Relationship ledger row 121 ('admiration can preserve idealized old Sumika'). |
+| Deficiency | The core and RS-I describe Lilja's in-scene response in Dear 014 as a rejection of Sumika's reading. At A1 Lilja does not reject it: after Sumika's 神童 claim she hesitates ('それ、は……'), begins to describe a greater Sumika ('もっと、すごくて――'), catches herself ('あっ……。'), and after reconciliation says she realized it was her fault ('わたしのせいなんだなって'); both apologize simultaneously. The repair is mutual, and Lilja herself concedes that her belief carried an idealized image that pressured Sumika. D-LILJA Dear 007 ('比べ物にならない') shows the same idealization on Lilja's own track. The canonical bilateral model locates the problem wholly 'inside Sumika' and cites the Lilja core as strengthening the rejection, although the Lilja core says the opposite provisionally. Sumika's own inner line (#89, never to see Lilja sad again) does support the core's 'Sumika converts faith into obligation' half, so the correct state is bilateral, not one-sided. |
 | Alternative | Strongest adequacy defence: the corpus rejects only the strong form ('Lilja believes ONLY in the old prodigy'), which the text indeed does not support (Lilja: 'わたしは、清夏ちゃんを信じてるの！' #75; later D-LILJA Dear 031 '清夏ちゃんは清夏ちゃんでしょ'). The core keeps 'Sumika's experience of that pressure is still real' as counterpressure, and Lilja-side homes (Lilja core §10.2, ledger row 121) carry the idealization caveat. 'わたしのせい' could be empathic self-blame rather than an objective concession. |
 | Disposition | POTENTIALLY_CORRECTIVE |
 | Severity | P1 — Misdescribes Lilja's response in the pivotal concealment-crisis scene and uses it to support a canonical REVISE/REJECT transition (RS1-REVERSI-02, core §8/§23, C07) and a simulation rule (RS-I §4.2). The thesis that Sumika converts belief into obligation survives, so this is narrowing (bilateral responsibility), not reversal; hence P1 not P0. |
 | Confidence | high |
 | Recommendation | GKM_CORE_09 §8 and §23 row 7; matrix C07; RS-I §4.2/§4.3/§4.12 row 2 and Relationship ledger row 174: replace 'Lilja rejects the interpretation' with: Lilja rejects the strong 'only the prodigy' form, but in Dear 014 she catches herself idealizing and accepts partial responsibility; repair is mutual (simultaneous apology). Align with Lilja core §10.2. |
 | Status | open |
-| Adversarial verification | Auditor A1 verification plus independent orchestrator re-inspection of the raw script (see master report §7). |
+| Merged members | kllj-B-F01 (POTENTIALLY_CORRECTIVE, P1): The bilateral homes resolve the D-SUMIKA Dear 014 crisis unilaterally: Sumika's belief that Lilja trusts the old prodigy is 'Sumika's fear' which 'Lilja rejects'. At A1 Lilja's explicit rejection (#074-075) answers a different charge ('you believe the promise'); to the prodigy charge she hesitates ('それ、は……'), her protest slips into confirming the idealized image ('清夏ちゃんはもっと、すごくて―― あっ……'), and after Sumika's disclosure she accepts responsibility ('わたしのせいなんだなって'); repair is by simultaneous mutual apology, not refutation. Lilja's own track corroborates the idealization at that stage (D-LILJA Dear 007: '清夏ちゃんと、わたしの才能は……比べ物にならない'; 'Sumika ahead on her path'). The same scene shows concealment is bilateral: Sumika counter-charges Lilja's recklessness, and in D-LILJA Dear 013-014 it is Lilja who hides the Shion incident and her overwork while Sumika is shut out ('なんにも話してくれないんだね'). RS-I makes both secrecy and expectation-pressure Sumika's fault; the source shows each partner hiding weakness/overwork 'so as not to worry' the other, and Lilja conceding her trust was a weight. |
+| Verification | A1 transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_014.txt read for message ordinals #74-#100 and the dialogue-only file lines 160-330; speakers confirmed via name= fields (リーリヤ #74/#75/#82/#83/#100; 清夏 #77/#78/#80/#84; 清夏 isInner=true #89; 一同 #94). Manifest row adv_dear_ssmk_014.txt present. Continuity: D-SUMIKA Dear 014, after Dear 013 isolation, before Dear 016 audition; the classmates' apology follows in the same file. Cross-track checks: kllj dear_007 lines 232-236 and kllj dear_031 lines 165-172 (D-LILJA only; not imported as D-SUMIKA events). Canonical sections read in full: core §8/§23/C07, RS-I §4.1-4.13, §11, Lilja core §10, Relationship ledger rows 121-123 and 169-184. No canonical home records 'わたしのせい' or the self-interruption (grep of ROOT excluding 90*: no hits for すごくて/わたしのせい).<br>Independent orchestrator re-inspection of the raw script: see master report §7. |
 
-### HSCA-006 — P1 — The event chain shows that Temari's early deference to Lilja rests partly on a false belief inside the story. Temari never hears Sumika con…
+### HSCA-006 — P1 — The event chain shows that Temari's early deference to Lilja rests partly on a false belief inside the story.
 
 | Field | Value |
 |---|---|
@@ -318,17 +338,17 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (rows 1284, 1287, 1298, 1302); A1 verified |
 | Story state | Modular event track, no Producer branch. E001 m02 is the first day of 1st year, after school. E001 m05 is the first lunchtime class party a few days later. E004 is the summer festival, explicitly after the E001 party (E004 m01 #002 'せっかく懇親会やったのにな～'). These form one same-track relative chain. |
 | Evidence | リーリヤ？: ……足を引っ張らないでくださいね？ (E001 m02 #054) / 清夏: 以心伝心でアテレコしてみた。(#060) / 手毬: 『足を引っ張るなよ雑魚が』って？ … ……いい度胸してるよね。(E001 m05 #017, #019) / 清夏: たまぁ～に怖いトコあるんだから。 手毬: ……そ、そうなの？ (#021-022) / 手毬: ま、また脅す気？　簡単に従うと思わないで！ … 清夏: さっすがリーリヤ！　当分使えるわ～、この手♪ リーリヤ: ……誤解……なのに。(E004 m01 #016, #044-045) / 手毬: あの子、度胸あるし。(E004 m05 #010) |
-| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §3.2 correctly assigns the dubbed line to Sumika: 'the logic is genuinely Lilja's even though the aggressive delivery is not'. §14 queues it as AV P0 for voice ownership. The downstream model, however, never tracks what Temari believes: §6.7: 'Lilja's quiet earnestness reaches Temari because it cannot easily be dismissed as status play. Temari may be hostile to soft social pressure, but she respects conviction'. §9.1 Lilja↔Temari: 'later treats Lilja as unusually persuasive and courageous' → 'conviction-based respect under persistent temperamental distance'. §3.5 and §12.1 treat the apology and nickname without the misattribution. Propagation: Relationship… |
-| Deficiency | The event chain shows that Temari's early deference to Lilja rests partly on a false belief inside the story. Temari never hears Sumika confess the dub: she is frozen during #055–061 ('あ、復活した' #063). She later recalls the line as Lilja's in an aggravated form ('雑魚が'), calls Lilja gutsy on that basis (m05 #019), and accepts Sumika's claim that Lilja has a scary side. In E004 she explicitly reframes Lilja's soft invitation as another threat ('また脅す気？') before yielding. Sumika plans this lever in advance (E004 m01 #011–012) and openly intends to keep using it ('当分使えるわ～、この手'), over Lilja's protest. The canonical mechanism ('hostile to soft social pressure, respects conviction'; Lilja as 'courageous') therefore rests partly on a misattribution the reading never tracks. In E004 m01 Temari yields to exactly the soft pressure §6.7 says she resists, and the menace myth mediates that yielding. Sum… |
-| Alternative | Strongest adequacy defence: (1) The reading attributes the line itself correctly and flags voice ownership as AV P0. (2) Lilja's conviction is real, and it is what Temari explicitly answers. Lilja's refusal comes before the dub ('それはできません…絶対になるって……そう、決めたんです' #039–041). Temari answers '一理あると思ったから' (#068) and later '葛城にも言われて……色々考えたんだけど' (m05 #028). (3) 'また脅す気？' and '私が行きたいと思っただけ' can be read as face-saving cover for yielding to earnestness. §6.7 half-captures this ('verbally denying that Lilja has special leverage'). (4) The material is comic, and later Temari↔Lilja evidence develops independen… |
+| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §3.2 correctly assigns the dubbed line to Sumika: 'the logic is genuinely Lilja's even though the aggressive delivery is not'. §14 queues it as AV P0 for voice ownership. The downstream model, however, never tracks what Temari believes: §6.7: 'Lilja's quiet earnestness reaches Temari because it cannot easily be dismissed as status play. Temari may be hostile to soft social pressure, but she respects conviction'. §9.1 Lilja↔Temari: 'later treats Lilja as unusually persuasive and courageous' → 'conviction-based respect under persistent temperamental distance'. §3.5 and §12.1 treat the apology and nickname without the misattribution. Propagation: Relationship State Ledger, Phase-4 E001–005 row 'Lilja ↔ Temari \| E001/E004 \| quiet conviction earns respect despite persistent temperamental distance \| high'. Character State Ledger, Temari Phase-4 row: '…respect is responsive to conviction'. Sumika row: 'social intelligence includes intervention and non-intervention'. No canonical home mentions the misattribution, Sumika's reinforcement and exploitation of it, or Lilja's disavowal (searched ROOT excluding 90*: アテレコ, ventriloq, dub, impersonat, 脅す, 雑魚, 誤解, 怖いトコ, misattribut, misunderst; the only hits are the AV-queue rows). The Temari, Lilja and Sumika cores contain no Lilja–Temari treatment (SCOPE_LIMITED). Later Temari↔Lilja homes (S3 026–050 story_0031/0049; the Relationship State Ledger Phase-5 rows) model later reciprocal teaching, not this mechanism. |
+| Deficiency | The event chain shows that Temari's early deference to Lilja rests partly on a false belief inside the story. Temari never hears Sumika confess the dub: she is frozen during #055–061 ('あ、復活した' #063). She later recalls the line as Lilja's in an aggravated form ('雑魚が'), calls Lilja gutsy on that basis (m05 #019), and accepts Sumika's claim that Lilja has a scary side. In E004 she explicitly reframes Lilja's soft invitation as another threat ('また脅す気？') before yielding. Sumika plans this lever in advance (E004 m01 #011–012) and openly intends to keep using it ('当分使えるわ～、この手'), over Lilja's protest. The canonical mechanism ('hostile to soft social pressure, respects conviction'; Lilja as 'courageous') therefore rests partly on a misattribution the reading never tracks. In E004 m01 Temari yields to exactly the soft pressure §6.7 says she resists, and the menace myth mediates that yielding. Sumika's model also loses a data point: her social engineering includes playful deception and instrumental use of Lilja's false reputation. |
+| Alternative | Strongest adequacy defence: (1) The reading attributes the line itself correctly and flags voice ownership as AV P0. (2) Lilja's conviction is real, and it is what Temari explicitly answers. Lilja's refusal comes before the dub ('それはできません…絶対になるって……そう、決めたんです' #039–041). Temari answers '一理あると思ったから' (#068) and later '葛城にも言われて……色々考えたんだけど' (m05 #028). (3) 'また脅す気？' and '私が行きたいと思っただけ' can be read as face-saving cover for yielding to earnestness. §6.7 half-captures this ('verbally denying that Lilja has special leverage'). (4) The material is comic, and later Temari↔Lilja evidence develops independently. These defences keep the conviction component alive, so the correction narrows the claim rather than reversing it. |
 | Disposition | POTENTIALLY_CORRECTIVE |
-| Severity | P1 — A high-confidence cumulative relationship edge and a Temari character-state claim each state a single mechanism (conviction). The same-track text attributes Temari's response partly to a Sumika-manufactured misattribution, across three scenes in two events. The addendum flags this exact line as attribution-sensitive. Three principal models are affected: Temari's view of Lilja, the source of Lilja… |
+| Severity | P1 — A high-confidence cumulative relationship edge and a Temari character-state claim each state a single mechanism (conviction). The same-track text attributes Temari's response partly to a Sumika-manufactured misattribution, across three scenes in two events. The addendum flags this exact line as attribution-sensitive. Three principal models are affected: Temari's view of Lilja, the source of Lilja's leverage, and Sumika's methods. Not P0: the reading does not itself misattribute the line, the conviction component is genuinely evidenced, and no tranche or corpus thesis falls. |
 | Confidence | high |
-| Recommendation | Narrow §6.7 and §9.1 (Lilja↔Temari) and the matching Relationship State Ledger and Character State Ledger rows. State that Temari's early respect and deference toward Lilja combine two things: Lilja's genuine conviction (E001 m02 #039–048), and a misattribution that Sumika manufactured and maintains, which Temari believes and Lilja disowns (E001 m02 #054–063; m05 #016–024; E004 m01 #011–018, #041–045). Mark Temari's '度胸' judgement and her E004 yields as partly premised on that belief. Add to the Sumika entries (§8 table, Character State Ledger row) that her social engineering includes knowing… |
+| Recommendation | Narrow §6.7 and §9.1 (Lilja↔Temari) and the matching Relationship State Ledger and Character State Ledger rows. State that Temari's early respect and deference toward Lilja combine two things: Lilja's genuine conviction (E001 m02 #039–048), and a misattribution that Sumika manufactured and maintains, which Temari believes and Lilja disowns (E001 m02 #054–063; m05 #016–024; E004 m01 #011–018, #041–045). Mark Temari's '度胸' judgement and her E004 yields as partly premised on that belief. Add to the Sumika entries (§8 table, Character State Ledger row) that her social engineering includes knowing deception that uses Lilja as a lever. Keep the AV P0 for E001 m02 and extend it to E001 m05 #016–024 and E004 m01 #011–018: does Temari's delivery read as fear, face-saving, or play? |
 | Status | open |
-| Adversarial verification | Auditor A1 verification plus independent orchestrator re-inspection of the raw script (see master report §7). |
+| Verification | A1 read in full, with speaker labels confirmed from [message … name=…]. E001 m02 #025–074: #054 carries the label 'リーリヤ？'. #055 is Temari's long dash, showing her frozen. #058 'わ、わたしあんなこと言わない！'. #060 Sumika's 'アテレコ' admission, while Temari is still frozen. #062–069 Temari agrees and gives her reason ('一理あると思ったから'). #074 '私、あなたのこと嫌いだから'. E001 m05 #001–064: #016 Sumika 'またリーリヤに言われちゃうよ？'. #017–019 Temari's aggravated recall and '……いい度胸してるよね'. #020–024 Sumika builds the 'scary Lilja' myth and Temari accepts it. #026–031 apology ('葛城にも言われて'). E004 m01 #001–053: #011–012 Sumika's pre-planned lever. #015–016 Lilja's soft invitation, then Temari's 'また脅す気？'. #041–042 Temari agrees to come. #044–045 Sumika exploits the myth, Lilja protests. E004 m04 #001–006 and E004 m05 #001–012, #051–058: Sumika and Temari watch from a distance. '度胸' recurs. Temari yields to Lilja's second invitation and denies leverage. Manifest rows 1284, 1287, 1298, 1302 confirmed. No route or branch applies (event family). Relative order is confirmed by E004 m01 #002. Canonical sections read in full: GKM_EVENTS_001_005_DEEP_READING.md §3.1–3.6, §6.1–6.8, §8, §9.1, §11.2, §12.1/12.4, §13, §14, §17; Relationship State Ledger and Character State Ledger Phase-4 E001–005 sections; Relationship State Ledger Phase-5 Temari↔Lilja rows; RS-II §3.1–3.4 and §6.2; Voice ledger Phase-4 E001–005 delta; AV queue Phase-4 rows. Grep of the Temari, Lilja and Sumika cores found no Lilja–Temari treatment. No other canonical artifact carries the misattribution (grep terms are listed in existing_treatment). The strongest adequacy argument is recorded in 'alternative'.<br>Independent orchestrator re-inspection of the raw script: see master report §7. |
 
-### HSCA-007 — P2 — No canonical home records three things: Mao failed to reach the previous year's H.I.F. finals; she answered with resilience then ('I still …
+### HSCA-007 — P2 — No canonical home records three things: Mao failed to reach the previous year's H.I.F.
 
 | Field | Value |
 |---|---|
@@ -338,7 +358,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | E021 main-04 flashback is explicitly marked in A1 narration '星南と燕が2年生の時――' (the previous year's H.I.F.; Mao also a 2nd-year: 'あと1年ある'). E022 is the third-year pre-summer-H.I.F. state ('3年生のボクに与えられた最後のチャンス'), and in it Mao recalls '去年の星南'. Both are modular event states, compatible with each other and not placed on a route. |
 | Evidence | 麻央: ……本選にすら上がれなかったボクが、キミになにか言う資格はない。 / 麻央: でも、ボクは……まだ諦めないよ。あと1年ある。 / 燕: 私は、貴様のように強くはなれん。 (E021 main-04); 麻央: （夏の『H.I.F』は、3年生のボクに与えられた最後のチャンス――） / 麻央: （それだけなら、去年の星南だってすごかった） (E022 main-01/-05) |
-| Existing treatment | EVENTS_021_PLUS §2.4 ('Mao tries to tell her that second place is objectively extraordinary'); §2 relationship promotions 'Mao ↔ Tsubame — STRENGTHEN: Mao is an early witness to Tsubame's deepest competitive collapse'; §3.1 (final chance → identity foreclosure); §17 OQ 6 (separate final-chance foreclosure from a stable tendency). CSL Phase-4 E021+ Mao row cites E022 only. The RSL Phase-4 E021+ section has no Mao↔Tsubame row; the only Mao↔Tsubame RSL row (line 522) is S-series 0066 costume repair. Mao core §2.9, §6.4, §9.7, and §19 OQ 'How do Tsubame and other third-years describe Mao outside her own route?'. grep 本選／finals／did not reach／failed to qualify across cores, ledgers, syntheses and… |
+| Existing treatment | EVENTS_021_PLUS §2.4 ('Mao tries to tell her that second place is objectively extraordinary'); §2 relationship promotions 'Mao ↔ Tsubame — STRENGTHEN: Mao is an early witness to Tsubame's deepest competitive collapse'; §3.1 (final chance → identity foreclosure); §17 OQ 6 (separate final-chance foreclosure from a stable tendency). CSL Phase-4 E021+ Mao row cites E022 only. The RSL Phase-4 E021+ section has no Mao↔Tsubame row; the only Mao↔Tsubame RSL row (line 522) is S-series 0066 costume repair. Mao core §2.9, §6.4, §9.7, and §19 OQ 'How do Tsubame and other third-years describe Mao outside her own route?'. grep 本選\|finals\|did not reach\|failed to qualify across cores, ledgers, syntheses and event readings: no hit. |
 | Deficiency | No canonical home records three things: Mao failed to reach the previous year's H.I.F. finals; she answered with resilience then ('I still won't give up; there's a year left'); and Tsubame judged her the stronger of the two. As a result: (a) the tranche's E022 'identity foreclosure' reading is not connected to the fact that the 'last chance' follows a prior non-qualification, or that the same Mao was the hopeful one a year earlier, which is exactly the state-bound (not trait) evidence the tranche's own OQ 6 asks for; (b) the tranche's Mao↔Tsubame promotion never reached the RSL; (c) E021 partly answers the Mao core's open question about how third-years see Mao, but no home says so. |
 | Alternative | Adequacy defence: the tranche notes Mao's consoling role and the E022 stakes, and the second-year non-qualification is one line in a Tsubame-centred flashback that does not alter the reclaimed-aspiration thesis. Competing reading: '強くはなれん' refers to emotional resilience, not ability. This finding uses it in that sense. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -347,7 +367,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | EVENTS_021_PLUS §3.1 / OQ 6: record E021's prior-year non-qualification and Mao's resilience then as the contrasting earlier state. Add an RSL row 'Mao ↔ Tsubame — STRENGTHEN (E021: witness to Tsubame's H.I.F. collapse; Tsubame names Mao the stronger)' and a Mao CSL note (E021 memory: failed to reach the previous H.I.F. finals, did not give up). Optionally point Mao core §19 OQ to E021. |
 | Status | open |
 
-### HSCA-008 — P2 — The tranche renders the contrast as physical presence ('remains physically present'), but the line says Ume's admired person 'keeps being a…
+### HSCA-008 — P2 — The tranche renders the contrast as physical presence ('remains physically present'), but the line says Ume's admired person 'keeps being an object of admiration and a goal' (ずっと憧れで、目標であり続けてくれる).
 
 | Field | Value |
 |---|---|
@@ -357,7 +377,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (adv_csprt-3-0078_03.txt, 20 messages); A1 verified (raw [message] lines read for wording and speaker) |
 | Story state | Support S3 0078 part 03; undated modular support state (Mao a senior and already sibling-like to Ume; no H.I.F./graduation cue). Not placeable against Mao's Dear 001-037 arc; '今も' only fixes that the prince role is still being performed at the time of the scene. |
 | Evidence | 麻央: 昔ね、憧れの人がいたんだ…… / ボクは、その人のように カッコよくなりたくて、 今も王子様を演じ続けてる…… / 少し、羨ましいな。 / 憧れの人が、ずっと憧れで、 目標であり続けてくれるって―― / 佑芽: ……麻央先輩？ |
-| Existing treatment | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §4 ('she envies Ume because Ume's admired person remains physically present, continuously available as loved one, rival, and goal'); §4 claim transition 'Mao - STRENGTHEN role continuity: princehood remains linked to an admired predecessor without being reducible to imitation'; §34 Mao row. GKM_CHARACTER_STATE_LEDGER Phase-5 closure Mao row (dorm repayment, only child, fantasy taste; nothing on the admired figure). GKM_CORE_04_ARIMURA_MAO.md §1 thesis (line 37: 'avoidance of the transformed actress she once admired') and line 188 ('avoids the later acting career of the former prince she idolized because the woman's transformation feels like… |
+| Existing treatment | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §4 ('she envies Ume because Ume's admired person remains physically present, continuously available as loved one, rival, and goal'); §4 claim transition 'Mao - STRENGTHEN role continuity: princehood remains linked to an admired predecessor without being reducible to imitation'; §34 Mao row. GKM_CHARACTER_STATE_LEDGER Phase-5 closure Mao row (dorm repayment, only child, fantasy taste; nothing on the admired figure). GKM_CORE_04_ARIMURA_MAO.md §1 thesis (line 37: 'avoidance of the transformed actress she once admired') and line 188 ('avoids the later acting career of the former prince she idolized because the woman's transformation feels like betrayal'); MAO-C01/C03. grep 憧れの人\|admired person\|admired predecessor\|actress across ledgers/syntheses: no link between S0078 and the core's transformed-prince wound. |
 | Deficiency | The tranche renders the contrast as physical presence ('remains physically present'), but the line says Ume's admired person 'keeps being an object of admiration and a goal' (ずっと憧れで、目標であり続けてくれる). The implied contrast is that Mao's admired person did not remain one: this is the core's established wound (the musical-theatre prince whose later transformation Mao experienced as betrayal and avoids). The tranche does not connect the scene to that wound, and the character ledger does not carry it. The support scene is therefore not used as what it is: evidence outside the route that the loss of the admired figure is still emotionally live ('今も…演じ続けてる', '少し、羨ましい', the trailing dash and Ume noticing the shift), voiced to a junior and immediately covered by a change of subject. |
 | Alternative | Adequacy defence: the tranche correctly says princehood is linked to an admired predecessor and not reducible to imitation; 'physically present' is a loose paraphrase, not a wrong fact, and the core already owns the actress history. Competing reading: the person may simply be absent/retired rather than 'transformed', so the envy could be about distance rather than disillusion. Either way, the text locates the contrast in continuity of admiration, not in presence. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -366,7 +386,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §4: replace 'remains physically present' with 'continues to be an admired goal', and add a cross-reference to GKM_CORE_04_ARIMURA_MAO §1/§2 (transformed former prince, MAO-C03). GKM_CHARACTER_STATE_LEDGER Phase-5 closure Mao row: add 'admired-figure loss still active in support-time Mao (S0078-03), state undated'. |
 | Status | open |
 
-### HSCA-009 — P2 — Mao's own bundle repeatedly grounds her psychology in an institutional history that the core never synthesizes. She entered the idol course…
+### HSCA-009 — P2 — Mao's own bundle repeatedly grounds her psychology in an institutional history that the core never synthesizes.
 
 | Field | Value |
 |---|---|
@@ -376,7 +396,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | D-MAO Dear 002/010/011/013/024 (C1); C-MAO cidol 007_01, 015_01/03 (modular); P1 final-failure-01, ending-normal-04, after-step-2-normal-03 (C3 branch pool); PE-MAO event_001 school_005 (modular). All describe Mao's pre-Producer Hatsuboshi years or 3rd-year time pressure; non-additive. |
 | Evidence | 役者をお払い箱になったボクは…すがるような気持ちで、この学園に入学したんです。…本気でアイドルを目指してる子達に、申し訳ないって気持ちもあって。(cidol 007_01) / 去年、出場しましたけど、結果は全然……(Dear 011) / 三年間、くすぶっていたので (Dear 010) / 王子様になれないのなら、学園も辞めてしまおうって (P1 final-failure-01) / 3年生の落ちこぼれだったボク (cidol 015_03) / 彼女自身が、アイドルであることに、苦しんでいるように見えた (星南, Dear 024) |
-| Existing treatment | Core §2.1–2.4 jump from puberty/defensive princehood straight to the Producer's intervention; §4.4 explains overextension as 'competence itself can become another image she feels compelled to maintain'; §13.3 notes Campus mode as the Hatsuboshi image that convinced her idolhood could carry the prince dream. The core never states that Mao is a stalled third-year (grep third-year/落ちこぼれ/くすぶ/去年 in core: none in this sense). Partial canonical carriage: GKM_EVENTS_001_005 §5.1 (E003 'last summer' time scarcity) and GKM_EVENTS_021_PLUS §3.1 (E022 'if I cannot become an idol I have nothing'), propagated to Character State Ledger Phase-4 rows (E003; E022 'final-chance overtraining reveals identity f… |
+| Existing treatment | Core §2.1–2.4 jump from puberty/defensive princehood straight to the Producer's intervention; §4.4 explains overextension as 'competence itself can become another image she feels compelled to maintain'; §13.3 notes Campus mode as the Hatsuboshi image that convinced her idolhood could carry the prince dream. The core never states that Mao is a stalled third-year (grep third-year/落ちこぼれ/くすぶ/去年 in core: none in this sense). Partial canonical carriage: GKM_EVENTS_001_005 §5.1 (E003 'last summer' time scarcity) and GKM_EVENTS_021_PLUS §3.1 (E022 'if I cannot become an idol I have nothing'), propagated to Character State Ledger Phase-4 rows (E003; E022 'final-chance overtraining reveals identity foreclosure'); locator MAO-L021 ('threatened abandonment of idol/prince path'). |
 | Deficiency | Mao's own bundle repeatedly grounds her psychology in an institutional history that the core never synthesizes. She entered the idol course as a fallback after being dropped as an actor and felt guilty toward 'sincere' idol aspirants. The seniors' Campus mode converted her. She then spent two-plus years with stalled results: a poor N.I.A. the previous year, and a teacher's report that she had almost stopped idol work and refused all scouts. She nearly quit the academy. Her 3rd-year last-chance urgency is the reason she herself gives for overwork (Dear 013 無理をしてでも; P1 気負って…自主トレをしすぎた). The core's causal account of overextension, competence-image maintenance, omits this temporal driver. Its story-state overview has no phase for Hatsuboshi years 1–3. The consequence reaches the ledgers only through event readings (E003/E022), not through Mao's own route evidence. |
 | Alternative | Adequacy defence: §2.3 'defensive princehood' implicitly describes the stalled period; E022's 'catastrophic identity stakes' in the Character State Ledger carries the time-pressure point; the core's thesis (stop using the prince to disappear) is unaffected. The fallback/guilt detail also coheres with Shion's 'switched from acting' attack, which the core does treat. |
 | Disposition | UNDERWEIGHTED |
@@ -385,7 +405,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | In a later Mao revision or a Character State Ledger row, add a 'Hatsuboshi years 1–3 / belatedness' state (fallback entry and guilt, Campus-mode conversion, stalled results, near-quitting, last-chance urgency) and cite it in §4.4 beside competence-image maintenance; cross-link E003/E022. |
 | Status | open |
 
-### HSCA-010 — P2 — D-MAO's own explicit self-account is stronger than the pevent material the core relies on. Mao says her helping originated as prince-role p…
+### HSCA-010 — P2 — D-MAO's own explicit self-account is stronger than the pevent material the core relies on.
 
 | Field | Value |
 |---|---|
@@ -404,7 +424,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Cite Dear 020 in §6 and qualify MAO-C08: helping began as prince-role enactment and became character through repetition; Producer explicitly endorses this sequence. |
 | Status | open |
 
-### HSCA-011 — P2 — The core presents the crisis as Mao choosing coauthorship over rational professionalization. Three parts of the route's internal dynamic ar…
+### HSCA-011 — P2 — The core presents the crisis as Mao choosing coauthorship over rational professionalization.
 
 | Field | Value |
 |---|---|
@@ -423,7 +443,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §8 / Relationship State Ledger: add the abandonment-by-adults ground (Dear 025, P1 true) beside overwriting, and record Dear 022–026 as a producer-abdication-and-repair sequence; note for any RS-II revision that D-MAO is the counter-case to the overreach model. |
 | Status | open |
 
-### HSCA-012 — P2 — No canonical home records the president's concealed interest: keeping Mao out of H.I.F. to protect her pre-debut asset value. Sena's explic…
+### HSCA-012 — P2 — No canonical home records the president's concealed interest: keeping Mao out of H.I.F.
 
 | Field | Value |
 |---|---|
@@ -442,7 +462,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Side-characters §5.1 and NPC ledger: add Dear 024 concealed H.I.F. motive and Sena's opposition; record 'current Prima Stella's father' (D-MAO Dear 025) and adjudicate identity with the 'Sena's father' entry. |
 | Status | open |
 
-### HSCA-013 — P2 — The requested Sena-side counterreading was never done, yet Mao's own bundle already contains it. Sena regrets failing to help a struggling …
+### HSCA-013 — P2 — The requested Sena-side counterreading was never done, yet Mao's own bundle already contains it.
 
 | Field | Value |
 |---|---|
@@ -461,7 +481,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Update MAO-C23 / Relationship State Ledger Mao↔Sena: D-MAO Dear 024/027/036 supply Sena's reception (gratitude; prior regret); relabel §9.3 'year-mate summit'; route to any Sena revision or RS-II extension. |
 | Status | open |
 
-### HSCA-014 — P2 — Each core uses initiation as evidence of its own subject's growth: Mao moves from solitary prince to seeking partnership; Rinami chooses a …
+### HSCA-014 — P2 — Each core uses initiation as evidence of its own subject's growth: Mao moves from solitary prince to seeking partnership; Rinami chooses a peer.
 
 | Field | Value |
 |---|---|
@@ -498,8 +518,9 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Confidence | high |
 | Recommendation | Normalise Mao references in the listed support readings and two ledger rows to the core's usage, or add an explicit pronoun policy note; coordinate with SP-2…SP-5 auditors. |
 | Status | open |
+| Merged members | SP-2-B-F01 (CONTINUITY_OR_ATTRIBUTION_ERROR, P2): Unexplained male pronouns assign a gender framing the core explicitly declines to infer. The worst case is §24 (story_0075): 'once he grows taller, he will become the cool Mao he imagines' renders the body/height insecurity, which the core reads as gendered embodiment after puberty (core §1, §4), as a boy's growth wish. A downstream reader who consults only the support layer or the ledgers would model Mao as male.<br>SP-3-B-F01 (CONTINUITY_OR_ATTRIBUTION_ERROR, P2): The tranche reading misgenders a principal character in every Mao section and the error has entered two cumulative ledgers that downstream reconstruction reads. Because the tranche's Mao claims are about princehood ('prince-coded protection', 'perfect prince', the princess-carry caution in §24), the masculine pronoun erases the girl-performing-prince tension on which Mao core builds its thesis and makes the §24 'do not romanticize the princess carry' caution read as a male–female frame.<br>SP-4-B-F03 (CONTINUITY_OR_ATTRIBUTION_ERROR, P2): The canonical tranche text refers to Mao as he/him/his. That contradicts the character core's referent convention and implicitly encodes a gender-identity reading that MAO-C14 says the text does not license. It is an attribution and epistemic-category error, not a source-wording issue. The coordinator's routed note says the same pattern recurs in other Series 2/3 support readings. This audit confirms it for this tranche only; within the tranche there is no propagation into its ledger sections (Character, Relationship, Register, Institution and Song ledger rows for Mao use no pronoun).<br>SP-5-B-F01 (CONTINUITY_OR_ATTRIBUTION_ERROR, P2): The tranche reading refers to Arimura Mao with male pronouns: 15 instances on 10 lines (l.132 him; l.134 He, his; l.136 his; l.177 his; l.322 his; l.326 him, himself, his; l.511 himself; l.530 him; l.532 he, his, he; l.631 his). Every male pronoun in the tranche refers to Mao. This contradicts the Mao evidence matrix MAO-C14 (body/gendered-presentation arc must not be converted into a gender diagnosis) and core §4 / l.771. Mao is a girl at a girls' idol course. Her core's central arc is the gap between a female body and the prince role she chose. Using he/him silently turns the prince persona, a role a girl performs, into a male identity. That erases the very distinction the tranche's own Mao claims depend on: 'prince persona permeable', 'role-image contradiction', 'adult/prince poise is visibly aspirational'. The same error appears in neighbouring support readings (S2 026-050, S2 051-074, S3 001-025, S3 026-050) and in GKM_CHARACTER_STATE_LEDGER.md l.600 ('mature Mao declines council because he wants the spotlight'). The ledger's own SP-5 Mao row (l.643) has no pronoun, and RS II is correct. |
 
-### HSCA-016 — P2 — Tsubame's origin is given in at least four non-identical accounts with different epistemic standing: (a) Dear 008 self-deprecating retrospe…
+### HSCA-016 — P2 — Tsubame's origin is given in at least four non-identical accounts with different epistemic standing: (a) Dear 008 self-deprecating retrospective claim that she started idol work only (ためだけに) to crush Sena's confidence; (b) Dear 010, where she herself re-ranks (a) and admiration as true but secondary to a first wish to free Sena; (c) the Dear 019 flashback, the only staged (not narrated) childhood evidence, in which an adult reminds child Tsubame that she was going to become an idol together with Sena, and the hero wish is reconciled with that already-shared plan; (d) Dear 023's shared childhood admiration of Hatsuboshi idols and competition over 『初』.
 
 | Field | Value |
 |---|---|
@@ -509,8 +530,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ D-TSUBAME: Dear 008 (retrospective self-claim to Producer) / Dear 010 (retrospective self-claim, 'first feeling') / Dear 019 (involuntary childhood flashback during the N.I.A. one-on-one; MEMORY) / Dear 021 (Tsubame recalls Sena's childhood top-idol vow) / Dear 023 (retrospective self-claim while choosing setlist; Gokugetsu visit) |
 | Evidence | 燕: あいつを打ち負かすためだけに始めたアイドルをずるずると続け (dear_008 #059) / ？？？: あら？　燕は星南ちゃんと一緒に、アイドルになるんじゃなかったの？ 燕: う、うん……そうだけど、でも、アイドルだって、ヒーローみたいになれるよね？ (dear_019 #008-010) / 燕: 私たちは幼い頃、初星学園のアイドルに憧れ、この曲の出来を競い合っていた。(dear_023 #006) / 燕: このまま星南を置いていくのが、私の憧れたアイドルであるはずがない！ (dear_023 #073) |
-| Existing treatment | GKM_CORE_13 §5 'Sena before idolhood' (states as biography: 'Tsubame begins idol activity partly from competitive disbelief: if Sena can do this, surely she can too'); §6 'first wish was to free Sena' (Dear 010 layering); §13 'The hero ideal predates the Sena rivalry as vocation' (Dear 019 hero wish; 'a positive ideal that is not generated by adult rivalry with Sena'); §35.3 ('a reason to be an idol that belongs to Tsubame'); matrix TSB-009..012, TSB-031/032; Relationship State Ledger Phase-3 Tsubame<->Sena row. Searched ROOT (excl. 90*) for 'dear_atbm_019', '一緒に、アイドル', '星南ちゃんと一緒', '初', 'Hatsuboshi idols' childhood admiration, '憧れたアイドル': the joint childhood idol plan (Dear 019 #008) and the… |
-| Deficiency | Tsubame's origin is given in at least four non-identical accounts with different epistemic standing: (a) Dear 008 self-deprecating retrospective claim that she started idol work only (ためだけに) to crush Sena's confidence; (b) Dear 010, where she herself re-ranks (a) and admiration as true but secondary to a first wish to free Sena; (c) the Dear 019 flashback, the only staged (not narrated) childhood evidence, in which an adult reminds child Tsubame that she was going to become an idol together with Sena, and the hero wish is reconciled with that already-shared plan; (d) Dear 023's shared childhood admiration of Hatsuboshi idols and competition over 『初』. The core uses (a), (b) and the hero half of (c) but omits the joint plan and (d), and states (a) as biography without marking it as a retrospective self-claim the route itself revises. Consequence: the hero ideal was not generated by rivalr… |
+| Existing treatment | GKM_CORE_13 §5 'Sena before idolhood' (states as biography: 'Tsubame begins idol activity partly from competitive disbelief: if Sena can do this, surely she can too'); §6 'first wish was to free Sena' (Dear 010 layering); §13 'The hero ideal predates the Sena rivalry as vocation' (Dear 019 hero wish; 'a positive ideal that is not generated by adult rivalry with Sena'); §35.3 ('a reason to be an idol that belongs to Tsubame'); matrix TSB-009..012, TSB-031/032; Relationship State Ledger Phase-3 Tsubame<->Sena row. Searched ROOT (excl. 90*) for 'dear_atbm_019', '一緒に、アイドル', '星南ちゃんと一緒', '初', 'Hatsuboshi idols' childhood admiration, '憧れたアイドル': the joint childhood idol plan (Dear 019 #008) and the shared childhood admiration/competition over 『初』 (Dear 023 #006) appear in no canonical artifact; E021 (Character State Ledger Phase-4 delta) records 'childhood fandom' generically. |
+| Deficiency | Tsubame's origin is given in at least four non-identical accounts with different epistemic standing: (a) Dear 008 self-deprecating retrospective claim that she started idol work only (ためだけに) to crush Sena's confidence; (b) Dear 010, where she herself re-ranks (a) and admiration as true but secondary to a first wish to free Sena; (c) the Dear 019 flashback, the only staged (not narrated) childhood evidence, in which an adult reminds child Tsubame that she was going to become an idol together with Sena, and the hero wish is reconciled with that already-shared plan; (d) Dear 023's shared childhood admiration of Hatsuboshi idols and competition over 『初』. The core uses (a), (b) and the hero half of (c) but omits the joint plan and (d), and states (a) as biography without marking it as a retrospective self-claim the route itself revises. Consequence: the hero ideal was not generated by rivalry (the core is right), but it was not generated apart from Sena either: it emerges inside a childhood dream shared with Sena, and in Dear 023 Tsubame grounds her duty to save Sena in 'the idol I admired' (which she has just defined as Sena, #031). Her independence established in Dear 024 is independence from Sena's presence, not from Sena's genealogy. |
 | Alternative | Adequacy defence: the core's operative independence claim rests on Dear 024 (#038-040), which is explicit and A1-verified; §13 says only that the hero ideal predates the rivalry 'as vocation', which remains true; §35.3 says Sena is no longer the 'sole' reference point; and Dear 010 shows Tsubame herself treating the crush motive as partial, which the core's 'partly' tracks. Dear 023 #073's '私の憧れたアイドル' is ambiguous (Sena, or the hero-idol she aspired to be), so the genealogical point should be stated as a possibility, not a fact. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Meaningful qualification of §5/§13/§35 (epistemic labelling of origin claims; independence-of-presence vs genealogy) without overturning the heroic-rivalry thesis, which rests on Dear 024. |
@@ -518,7 +539,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §5/§13 (or the Phase-7 Tsubame monograph and Relationship State Ledger Tsubame<->Sena row): label Dear 008/010/023 origin statements as retrospective self-claims and Dear 019 as staged memory; add that the childhood idol plan was shared with Sena (Dear 019 #008; Dear 023 #006) and that Dear 024 establishes independence from Sena's presence, not from a Sena-shaped origin. |
 | Status | open |
 
-### HSCA-017 — P2 — Speaker elision and epistemic overstatement. In every A1 instance the word 'love' (愛 / 大好き) is supplied by someone else: the Producer three…
+### HSCA-017 — P2 — Speaker elision and epistemic overstatement.
 
 | Field | Value |
 |---|---|
@@ -537,7 +558,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §19/§33 and TSB-046/047 (or the Phase-7 monograph and RS-II §5.11 when revised): attribute 'love' to the Producer/Sena, quote Tsubame's own 'あいつを助けたい。道を示してやりたい' and '友', and mark her acceptance as hedged ('言いたいことはあるが、まあいい'; 'その愛とやら'). |
 | Status | open |
 
-### HSCA-018 — P2 — The crisis is partly co-produced by Tsubame. Her Dear 019 offer lacks 一緒に and Sena hears it as permission to hand over ('燕になら、任せられるわ'). In …
+### HSCA-018 — P2 — The crisis is partly co-produced by Tsubame.
 
 | Field | Value |
 |---|---|
@@ -556,7 +577,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §20-21 (or the Phase-7 monograph and RS-II §5.10): record the dear_019 #063 → dear_021 #058 → dear_024 #082-090 misunderstanding chain and the Producer's dear_020 #038 warning. Add the dear_024 #075-079 de-sanctification ('私よりも弱い') as a second self-correction distinct from independence. Note for the Stage-A record: atbm-DC-048, Dear 021's 'softening', is the empty-shell state (narration 1週間前; Producer inner '抜け殻'), not growth. |
 | Status | open |
 
-### HSCA-019 — P2 — Three scenes after accepting that Sena may genuinely retire (Dear 024 #042), Tsubame tries to bind Sena's post-graduation career outcome by…
+### HSCA-019 — P2 — Three scenes after accepting that Sena may genuinely retire (Dear 024 #042), Tsubame tries to bind Sena's post-graduation career outcome by contest.
 
 | Field | Value |
 |---|---|
@@ -567,7 +588,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ D-TSUBAME Dear 005 (pre-selection bet) -> 006 (Misuzu claims the promise) -> 007 (leniency + apology) -> 027 (winter wager; Sena's inference). Story ends before winter H.I.F. (CONT-019). |
 | Evidence | 燕: もし、この私に勝ったら、秦谷の言うことは何でも聞いてやろう！ (dear_005 #047) / 美鈴: では、約束は守ってくださいね？ (dear_006 #016) / 美鈴: わたし、少々サボりにいってもよろしいでしょうか？ 燕: ……あまり遅くならないようにな。 (dear_007 #023-025) / 燕: 悪いが、私はもう貴様の言葉など信用してはおらん。だから、約束しろ。 ... 私が勝ったら、卒業後は100プロのアイドルになれ！ (dear_027 #043-046) / 星南: ようやく分かったわ。あなたが美鈴に優しくなった理由が。 燕: …………私は約束を守る女だからな！ (dear_027 #058-059) / 星南: 私を助けたあなたには、それぐらいのことを言う権利がある。あなたとの勝負に、自分の未来を託すのも悪くない。 (dear_027 #062-063) |
 | Existing treatment | GKM_CORE_13 §22 'Liberation revisited: the mature Tsubame frees choice, not outcome'; §27 'The winter wager' ('both women retain separate agency'); §43 lists 'wants to free Sena and also wants to bind Sena to lifelong rivalry' as a visible contradiction; §4 ('stakes a student-council condition on the result'); §16 (Misuzu: 'loses to her, apologizes'); TSB-053/054/065; RS-II §5.3 ('A fan does not gain veto authority over the idol's future self'), §5.9 ('chosen future architecture'); Relationship State Ledger Misuzu row ('apology/recalibration') and AV row (do not reduce to 'learned humility'). Searched '信用', '約束', 'distrust', 'wager', '何でも'. |
-| Deficiency | Three scenes after accepting that Sena may genuinely retire (Dear 024 #042), Tsubame tries to bind Sena's post-graduation career outcome by contest. She explicitly says she no longer trusts Sena's word. Sena accepts on the ground that her rescuer has earned the right, and stakes her future on the result. The core keeps the contradiction visible (§43) but describes the wager as leaving both 'separate agency', and §22's 'frees choice, not outcome' omits this distrust-driven binding and the rescue-credit basis of Sena's consent. Reader flag 3 (lost bet): Sena's inference is A1-confirmed. Tsubame's leniency toward Misuzu is the lost Dear 005 bet being honoured, though the same Dear 007 scene also has a sincere apology ('見下して、すまなかった'). No canonical text presents the leniency as growth, so nothing in the corpus needs correcting on that point. It does add a character fact the corpus lacks: Tsu… |
+| Deficiency | Three scenes after accepting that Sena may genuinely retire (Dear 024 #042), Tsubame tries to bind Sena's post-graduation career outcome by contest. She explicitly says she no longer trusts Sena's word. Sena accepts on the ground that her rescuer has earned the right, and stakes her future on the result. The core keeps the contradiction visible (§43) but describes the wager as leaving both 'separate agency', and §22's 'frees choice, not outcome' omits this distrust-driven binding and the rescue-credit basis of Sena's consent. Reader flag 3 (lost bet): Sena's inference is A1-confirmed. Tsubame's leniency toward Misuzu is the lost Dear 005 bet being honoured, though the same Dear 007 scene also has a sincere apology ('見下して、すまなかった'). No canonical text presents the leniency as growth, so nothing in the corpus needs correcting on that point. It does add a character fact the corpus lacks: Tsubame treats promises and wagers as binding instruments, and Sena reads the winter wager through that lens. |
 | Alternative | Adequacy defence: Sena consents and gets a reciprocal claim on Tsubame. Sena has already said she will not give up idolhood (#041-042), so the wager secures Sena's stated will rather than overriding it, and a loss leaves Sena free ('貴様の好きにすればいい'). §43 already flags the free/bind tension. The paternalism reading should not be overstated. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Narrows §22/§27 and RS-II §5.9 (choice vs outcome; consent grounded in rescue credit and distrust). Adds a promise-keeping trait that qualifies the reading of Misuzu-facing gentleness. The thesis survives. |
@@ -575,7 +596,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §22/§27 (or the Phase-7 monograph and RS-II §5.9): add dear_027 #043 (distrust) and #062-063 (rescue-right; future staked) and state that the wager binds outcome by consented contest. Add dear_005 #047 → dear_027 #058-059 as evidence that Tsubame's leniency toward Misuzu is partly an honoured wager, alongside the sincere dear_007 #040 apology. |
 | Status | open |
 
-### HSCA-020 — P2 — The core models the Producer bond as chosen developmental dependence. It neither analyses nor explicitly brackets the possessive and romanc…
+### HSCA-020 — P2 — The core models the Producer bond as chosen developmental dependence.
 
 | Field | Value |
 |---|---|
@@ -594,7 +615,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §34 (or the Phase-7 monograph; Relationship State Ledger Tsubame<->Producer): add the possessive and romance-coded markers (dear_017 #039; dear_026 #073 with dear_027 #006-008 inner; P1 ending-true-01 #039) and state explicitly that they are bracketed under RS-II §9.11 rather than read as partnership only. |
 | Status | open |
 
-### HSCA-021 — P2 — The core's principal open question already has an in-bundle answer: Shion refuses Tsubame's understanding twice and her rescue once. Each t…
+### HSCA-021 — P2 — The core's principal open question already has an in-bundle answer: Shion refuses Tsubame's understanding twice and her rescue once.
 
 | Field | Value |
 |---|---|
@@ -613,7 +634,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §47 Q1 / TSB-037 and RS-II OPEN-RS2-07 (when revised): cite dear_016 #023-025, #052 and dear_019 #028-031 as observed refusal practice; reframe the open risk as outcome-binding (dear_027) and directive senior care rather than untested refusal-handling. |
 | Status | open |
 
-### HSCA-022 — P2 — Tsubame's central structure (No.2 as self-limiting shelter; self-diagnosis; recommitment) recurs in at least two other D-tracks with differ…
+### HSCA-022 — P2 — Tsubame's central structure (No.2 as self-limiting shelter; self-diagnosis; recommitment) recurs in at least two other D-tracks with different catalysts and without this Producer.
 
 | Field | Value |
 |---|---|
@@ -624,7 +645,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ D-SAKI Dear 029/030/032 (winter H.I.F. selection; Sena earlier lost to Hanami Ume) and C1 @ D-SENA Dear 025/026 (summer H.I.F., Sena's 4th). Cross-track only; not D-TSUBAME events. |
 | Evidence | 燕: 星南が花海に負けたことで、私は『学園No.2』ですらなくなった。その時、気づいたのだ。己の弱さから目を逸らしていたことに。もう逃げるわけにはいかない。 (dear_hski_029 #052-054) / 燕: 貴様にプロデュースされてやるつもりはない。 (dear_hski_030 #011) / 燕: あの演説を、間近で浴びたからな。 ... 私は愚かだった。 (dear_jsna_025 #058-061) / 燕: 本音を言うとな……貴様の提案に乗ったのは、危うくて、とても放っておけなかったからだ。……結局、一度だって助けさせてはくれなかったな。 (dear_jsna_025 #085-086) / 星南 [inner]: （大馬鹿者はあなたの方よ。私をとっくに追い越していたのに）（そんな意識だから、私の後ろで足踏みをする羽目になるのよ――）（ずっと、そう言ってやりたかった。言えるわけがなかった） (dear_jsna_026 #009-012) |
 | Existing treatment | The Tsubame core is scoped to her own bundle (SCOPE_LIMITED for the core). Later homes: RS-II §5.4 (Sena 'can privately envy Tsubame's “wings”', sourced to E021), §5.1-5.12 (no D-SAKI or D-SENA Dear 025/026 Tsubame material); Sena core §26 ('someone who has developed enough to exceed earlier expectations') and §36.4 ('image-conservative pressure'); Relationship State Ledger row Saki<->Tsubame (D-SAKI 029-034; Saki-centred 'individuality test'); Saki core §12.6 (Saki-side). Grep for '追い越して', '愚か', '足踏み', 'ですらなくなった', '鈍った牙', '危う', '一度だって助けさせ', 'dear_jsna_026': no hits. |
-| Deficiency | Tsubame's central structure (No.2 as self-limiting shelter; self-diagnosis; recommitment) recurs in at least two other D-tracks with different catalysts and without this Producer. In D-SAKI the trigger is Ume's defeat of Sena, and Tsubame refuses the Producer. In D-SENA it is Sena's 'aim at me' speech. In D-SENA, Sena privately judges that Tsubame had long since overtaken her and was stalling only because she fixated on Sena, and that she could never say so. This is the strongest bilateral confirmation of core §5 ('she participated in creating the category in which Sena became above her'). It also shows that the core's agent-specific 'Producer and Misuzu break that shelter' is a D-TSUBAME fact, not the mechanism. D-SENA additionally gives Tsubame's protective motive for joining Saki ('危うくて ... 放っておけなかった') and a shared first-year selection failure with Sena. No cumulative or synthesis ho… |
+| Deficiency | Tsubame's central structure (No.2 as self-limiting shelter; self-diagnosis; recommitment) recurs in at least two other D-tracks with different catalysts and without this Producer. In D-SAKI the trigger is Ume's defeat of Sena, and Tsubame refuses the Producer. In D-SENA it is Sena's 'aim at me' speech. In D-SENA, Sena privately judges that Tsubame had long since overtaken her and was stalling only because she fixated on Sena, and that she could never say so. This is the strongest bilateral confirmation of core §5 ('she participated in creating the category in which Sena became above her'). It also shows that the core's agent-specific 'Producer and Misuzu break that shelter' is a D-TSUBAME fact, not the mechanism. D-SENA additionally gives Tsubame's protective motive for joining Saki ('危うくて ... 放っておけなかった') and a shared first-year selection failure with Sena. No cumulative or synthesis home consolidates these Tsubame-side consequences. |
 | Alternative | Adequacy defence: route-bounded rules (RS-II §1.2, §9.2; continuity ledger) correctly forbid concatenating tracks. RS-II §5.4 already carries Sena's private admiration of Tsubame via E021, and Saki/Sena-side consequences belong to hski-B/jsna-B. The point is cross-track invariance, which the corpus could note without violating those rules. |
 | Disposition | CROSS_REFERENCE_GAP |
 | Severity | P2 — Cross-track replication supports the thesis and narrows one agent-specific clause. The bilateral Sena verdict is missing from the canonical Sena–Tsubame home. Not P1: RS-II §5.4 already holds a version of Sena's private admiration. |
@@ -632,7 +653,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS-II §5.4/§13.8 and the Relationship State Ledger Sena<->Tsubame row (or the Phase-7 Tsubame monograph): add a cross-track invariance note, track-labelled (D-SAKI 029/030; D-SENA 025/026), covering the No.2 shelter, self-diagnosis and recommitment, triggered by different catalysts and independent of this Producer; cite Sena's dear_jsna_026 #009-012 inner verdict. Sena core §26 may cite the same inner monologue. |
 | Status | open |
 
-### HSCA-023 — P2 — The question the core defers to 'later phases' is answered inside its own corpus. In D-KOTONE the Producer investigates the household finan…
+### HSCA-023 — P2 — The question the core defers to 'later phases' is answered inside its own corpus.
 
 | Field | Value |
 |---|---|
@@ -643,7 +664,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ D-KOTONE Dear 012-020 (N.I.A.); C-KOTONE cidol 007_03 / 011_03 (modular, same surprise); D-SENA Dear 023 parallel kept separate |
 | Evidence | {user}: 詳しくは話せませんが……どうしても必要なんです。/ ことね: なら、聞きません、けど。(012) / 星南: ――秘密よ。(013) / {user}: 心労の原因は、すべて潰しました。これでベストコンディションですね。/ ことね: まさかこの前の出張って、これ！？ … さ、最低ですよプロデューサー……本番直前に……こんなサプライズ (018) / ことね: なんで謝ってるんですか！！！！感謝してるんですけど！！！！(020) / ことね: この前なんか、サイテーなやり方で……あたしの悩みも！不安も！ぜんぶフッ飛ばしてくれました！(cidol 011_03) |
 | Existing treatment | Kotone core §3.2.14 (family contact breaks composure), §3.1.4 (absence reactivates father association), §9.2-9.3 ('Information can be a form of care … Kotone often tolerates difficult reality better than being managed through omission. Later phases should examine whether the Producer always meets that standard himself'), §11.2 (care effective and invasive); matrix KOTO-C06/C08; side-characters synthesis §2.2 ('Protection through omission is not automatically protective'); Sena core §24 analyses the D-SENA parallel (Dear 023) as ethically mixed paternalism; RS-II §9.5/§9.10 (monopoly of interpretation; belief is not authorization) without this case. |
-| Deficiency | The question the core defers to 'later phases' is answered inside its own corpus. In D-KOTONE the Producer investigates the household finances, searches for the father, declines to explain the trip, has Sena keep the secret against Kotone's direct question, and stages the reunion minutes before the N.I.A. FINALE, framing it himself as performance-condition management ('これでベストコンディションですね'; he 'remembered' that family words restore her confidence, cf. Dear 009). The same surprise recurs in C-KOTONE (cidol 007_03 'サプライズでお父さんを連れてきたの、ほんッとアレ'; 011_03 'サイテーなやり方'). Kotone protests the method comically, then thanks him and forbids his apology. No Kotone-facing home records this, so core §9.3 and side-characters §2.2 present 'omission harms; information is care' without the counter-case in which protective, time-limited omission by trusted carers is accepted and welcomed. The D-SENA parallel makes… |
+| Deficiency | The question the core defers to 'later phases' is answered inside its own corpus. In D-KOTONE the Producer investigates the household finances, searches for the father, declines to explain the trip, has Sena keep the secret against Kotone's direct question, and stages the reunion minutes before the N.I.A. FINALE, framing it himself as performance-condition management ('これでベストコンディションですね'; he 'remembered' that family words restore her confidence, cf. Dear 009). The same surprise recurs in C-KOTONE (cidol 007_03 'サプライズでお父さんを連れてきたの、ほんッとアレ'; 011_03 'サイテーなやり方'). Kotone protests the method comically, then thanks him and forbids his apology. No Kotone-facing home records this, so core §9.3 and side-characters §2.2 present 'omission harms; information is care' without the counter-case in which protective, time-limited omission by trusted carers is accepted and welcomed. The D-SENA parallel makes the carers' rationale explicit (avoid her 負い目 before H.I.F.) and shows Kotone extracting the truth and then consenting to deferral; that track contrast is also unrecorded on the Kotone side. |
 | Alternative | Adequacy defence: §11.2 already lists intervention in family finances and calls Producer care 'effective and invasive'; the Sena core analyses the paternalism of the D-SENA secret; the parental secret differs (years of false guilt versus days of uncertainty ending in a solution), so §9.2's verdict on the parents stands. Counter-reading: '最低/許せない' is affectionate genre comedy, not a boundary claim. Both readings still leave the §9.3 generalization needing narrowing. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — qualifies an explicitly stated ethical principle (core §9.3; side-characters §2.2) and closes a question the core marks open; sharpens rather than overturns the thesis that Producer care is effective and paternalistic |
@@ -651,7 +672,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Kotone core §9.3 (or matrix KOTO-C06/C08): note that D-KOTONE Dear 012-018 and C-KOTONE cidol 007_03/011_03 show the Producer managing Kotone by benevolent omission, framed as 'ベストコンディション' production and received with protest-in-gratitude. Narrow the principle: what Kotone condemns is omission that leaves a false causal model and guilt, not omission as such. Cross-reference Sena core §24 for the D-SENA variant (explicit 負い目 rationale; Kotone demands the truth). Add one sentence to side-characters §2.2. |
 | Status | open |
 
-### HSCA-024 — P2 — A recurring relational form of the failure stake is not stated: after visible failure Kotone expects to be dropped by the Producer (Dear 00…
+### HSCA-024 — P2 — A recurring relational form of the failure stake is not stated: after visible failure Kotone expects to be dropped by the Producer (Dear 002, unconditional; P1 failure branches; the poor-result ending), and the same choice branch that supplies the core's '綱渡り' line names the fall as the Producer giving up on her ('まだ……あたしを見限らないでいてくれるんですか').
 
 | Field | Value |
 |---|---|
@@ -670,7 +691,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Kotone core §3.1.1 / matrix KOTO-C10 or C23: add that the P1/Dear failure stake includes expected withdrawal of the Producer (Dear 002; P1 failure branches, marked C3; ending-normal-05), linked in P2 to the father belief, with P1 ending-normal-01 and P2 mid-failure as the developmental shift. Mark the '綱渡り' line as a choice-branch line (final-failure-01 branch 2; mid-normal-01 branch 3). |
 | Status | open |
 
-### HSCA-025 — P2 — KOTO-C02 and §4.3 state the embrace as a stable trait. Early D-KOTONE shows a different baseline: publicly 'dream', privately 成り上がる/大金持ち (D…
+### HSCA-025 — P2 — KOTO-C02 and §4.3 state the embrace as a stable trait.
 
 | Field | Value |
 |---|---|
@@ -689,7 +710,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Matrix KOTO-C02 counterevidence column and core §4.3: add Dear 001/006 (public softening, self-correction, 'ヒきました？') and note that open ownership of 成り上がる follows the Producer's endorsement (Dear 006, 010); cite U1 01_09 as a track-separate defensive use. |
 | Status | open |
 
-### HSCA-026 — P2 — The concealed contingency plan appears nowhere canonical. Kotone, as leader, privately plans for defeat because she knows what the match me…
+### HSCA-026 — P2 — The concealed contingency plan appears nowhere canonical.
 
 | Field | Value |
 |---|---|
@@ -699,16 +720,16 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (01_13, 04_04, 04_10, 04_11); others A2/Stage-A |
 | Story state | C1 @ U1 only. The 04_04 contingency confession is a C3 player-choice branch (exclusive three-way choice 藤田さん/月村さん/咲季さん at l.225; Kotone branch l.227-461); the plan's existence is branch-invariant via 04_10 ('リーダーのあたしとプロデューサーとで…対バンの前にさ'); 04_11 contains a two-way choice whose branches converge. |
 | Evidence | ことね: だから、あたしひとりだけでも……もし負けたときどーすっかなぁ～って考えてたんです。… ……なんかスミマセン……弱気なアイドルで。士気下がっちゃうと困るんで、ふたりには内緒ですヨ♪ / {user}: プロデューサーと、頼れるリーダーだけの秘密にしておきましょう。(04_04) / ことね: リーダーのあたしとプロデューサーとで、色々作戦を考えてたんだよ。… そういうと思ったから秘密にしてたの。勝てれば秘密のままにしておけたの。(04_10) / {user}: 万が一咲季さんが復活しなかった……そのときは、夏を諦めてデュオに切り替える。そう覚悟してもらうためのものでもありました。(04_11) |
-| Existing treatment | Shared spine §7.2 (Kotone's leadership as institutional craft), §7.3 (Kotone's Re;IRIS meaning = returning value), §6.5 ('Unit Story adds … contingency planning' as a Producer competence); CONT-030 / LOC-INST-010 (leader chosen for coordination/trust); Kotone core §3.6, §12.3, §23 Q5 (leadership left open); AV addendum KOT-AV-013 'OPEN / NARROW … not a permanent mediator role' and character-state ledger row 215 ('risk of projection that social intelligence automatically equals leadership'); Temari core §2.6 ('admits that Kotone can lead'; 'Temari eventually accepts because the dream remains'); Saki core §2.6 ('Saki then recruits Temari') and §3.6.1 (Kotone's 04_10/04_13/04_15 lines from Sak… |
-| Deficiency | The concealed contingency plan appears nowhere canonical. Kotone, as leader, privately plans for defeat because she knows what the match means to Saki and Temari, calls herself a '弱気なアイドル', hides it to protect morale, and with the Producer prepares a duo choreography that is deployed when Saki leaves without consulting; the Producer gives it a second function (showing that a duo forfeits the summer, i.e. that Saki is indispensable), while Saki reads it as '見限る準備'. The Shared spine assigns 'contingency planning' generically to the Producer. Related Kotone-side U1 mechanisms are also unanalysed in Kotone homes: Kotone's pitch is what actually secures Temari (Saki's demand fails at 01_13 l.18-36; Kotone's 'お友達でもなんでもねー … 前の仲間みたいにはならない' removes Temari's fear of hurting comrades, per Temari's inner lines); her mediation (02_13, 02_15); refusal of free meals to avoid debts among members (02_03… |
+| Existing treatment | Shared spine §7.2 (Kotone's leadership as institutional craft), §7.3 (Kotone's Re;IRIS meaning = returning value), §6.5 ('Unit Story adds … contingency planning' as a Producer competence); CONT-030 / LOC-INST-010 (leader chosen for coordination/trust); Kotone core §3.6, §12.3, §23 Q5 (leadership left open); AV addendum KOT-AV-013 'OPEN / NARROW … not a permanent mediator role' and character-state ledger row 215 ('risk of projection that social intelligence automatically equals leadership'); Temari core §2.6 ('admits that Kotone can lead'; 'Temari eventually accepts because the dream remains'); Saki core §2.6 ('Saki then recruits Temari') and §3.6.1 (Kotone's 04_10/04_13/04_15 lines from Saki's side); RS-II §3.1/§3.8 generic ('practical intelligence'; 'manager-like operations'); hski-B2-F04 routed the Kotone-side contingency to this audit. |
+| Deficiency | The concealed contingency plan appears nowhere canonical. Kotone, as leader, privately plans for defeat because she knows what the match means to Saki and Temari, calls herself a '弱気なアイドル', hides it to protect morale, and with the Producer prepares a duo choreography that is deployed when Saki leaves without consulting; the Producer gives it a second function (showing that a duo forfeits the summer, i.e. that Saki is indispensable), while Saki reads it as '見限る準備'. The Shared spine assigns 'contingency planning' generically to the Producer. Related Kotone-side U1 mechanisms are also unanalysed in Kotone homes: Kotone's pitch is what actually secures Temari (Saki's demand fails at 01_13 l.18-36; Kotone's 'お友達でもなんでもねー … 前の仲間みたいにはならない' removes Temari's fear of hurting comrades, per Temari's inner lines); her mediation (02_13, 02_15); refusal of free meals to avoid debts among members (02_03); support voiced as self-interest, and her account that she was helped by others' self-interested pursuit of their dreams (04_10, 04_15). As a result the Kotone AV addendum and ledger row 215 treat U1 leadership as an open projection risk although the U1 text establishes it within the track. |
 | Alternative | Adequacy defence: U1 lies outside the Kotone core's declared 192-object corpus (§1.1, §1.3; §3.6 'comparative'), so the core's silence is SCOPE_LIMITED; leadership itself is recorded in the Shared spine and CONT-030; Saki core v2.1 covers the 04_10/04_15 lines; the AV verdict concerns AV evidence and cross-track generalization only. The residual is a Kotone-side synthesis gap, not an error. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — gives concrete content to a leadership role the corpus names only generically and qualifies the AV-side 'projection risk' caution; U1-scoped and thesis-consistent |
 | Confidence | high |
-| Recommendation | RS-II §3.8 (and §16.1 routing, which omits U1 and the Shared spine) or the Kotone matrix: one U1-scoped paragraph on Kotone's leadership as covert risk management with the Producer (04_04 C3 confession; 04_10-11 duo plan with a triple function: hedge, insurance, demonstration of Saki's indispensability), recruitment of Temari through promised non-friendship (01_13), mediation (02_13/15), and debt-free care through self-interest framing (02_03, 04_10, 04_15). Qualify Shared spine §6.5 (the contingency was leader-initiated and Producer-supported). Annotate AV addendum KOT-AV-013 / ledger row 21… |
+| Recommendation | RS-II §3.8 (and §16.1 routing, which omits U1 and the Shared spine) or the Kotone matrix: one U1-scoped paragraph on Kotone's leadership as covert risk management with the Producer (04_04 C3 confession; 04_10-11 duo plan with a triple function: hedge, insurance, demonstration of Saki's indispensability), recruitment of Temari through promised non-friendship (01_13), mediation (02_13/15), and debt-free care through self-interest framing (02_03, 04_10, 04_15). Qualify Shared spine §6.5 (the contingency was leader-initiated and Producer-supported). Annotate AV addendum KOT-AV-013 / ledger row 215 that within U1 the leader role is a textual fact and the open question is only cross-track. Temari core §2.6 / Saki core §2.6: credit Kotone's 01_13 intervention. |
 | Status | open |
 
-### HSCA-027 — P2 — The Producer explicitly admits he underestimated her vocal growth, attributes it to clouded judgement, and retires the '歌が下手' verdict he hi…
+### HSCA-027 — P2 — The Producer explicitly admits he underestimated her vocal growth, attributes it to clouded judgement, and retires the '歌が下手' verdict he himself pronounced in Dear 005; his estimate also rates her dance/visual far above the norm.
 
 | Field | Value |
 |---|---|
@@ -727,7 +748,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Matrix §3.3 (falsification priority 2) and core §7.3: note cidol 011_02 (C-KOTONE): the Producer admits misjudgement and withdraws '歌が下手' (which originates with him in Dear 005), and his estimate rates dance/visual as exceptional; keep the track scope and the dream-prompt caveat. |
 | Status | open |
 
-### HSCA-028 — P2 — The juniors accept the song as competitive appropriation. Misuzu vows to make the legendary song hers alone, Ume vows to 'protect' it from …
+### HSCA-028 — P2 — The juniors accept the song as competitive appropriation.
 
 | Field | Value |
 |---|---|
@@ -746,7 +767,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | EVENTS_021_PLUS §5.4–5.5: note that each performer claims the song (Misuzu わたしだけのもの; Ume 守る; Sena 手放すつもりがなくなった) and that the commons arises from plural competing claims. Add 'E024 claims ENDLESS DANCE as わたしだけのもの' to the CSL Misuzu row, or add a pointer from RS II §8.6. |
 | Status | open |
 
-### HSCA-029 — P2 — Two observer inferences are recorded as fact. (1) The identity of 'あの子' is unnamed. Misuzu uses あの子 mostly for Temari (Dear 002/003/006/010…
+### HSCA-029 — P2 — Two observer inferences are recorded as fact.
 
 | Field | Value |
 |---|---|
@@ -765,7 +786,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §17: change 'transparently maintaining Temari' to 'most plausibly Temari (unnamed; Rinha cannot be excluded after the 0033 open reconciliation)'. Remove 'estrangement' from the Misuzu transition, or mark the state as unanchored. Credit Misuzu with initiating the reciprocal gift and cross-link to §8's 'bad child' verdict. |
 | Status | open |
 
-### HSCA-030 — P2 — The core's staging - Temari's gaze first, universal attention as a later expansion - is stronger than the text. In Dear 010 the original wi…
+### HSCA-030 — P2 — The core's staging - Temari's gaze first, universal attention as a later expansion - is stronger than the text.
 
 | Field | Value |
 |---|---|
@@ -784,7 +805,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §7 / matrix C10: state that Temari-gaze jealousy and venue-wide attention desire arise together (Dear 010 #050-#051); record P1 ending-true-01 as a track-specific origin account without Temari; keep C09 as the D-MISUZU triangular trigger. |
 | Status | open |
 
-### HSCA-031 — P2 — Misuzu's side of the SyngUp triangle is under-modelled. She privately held 'top idols together' as a two-person promise with Temari into wh…
+### HSCA-031 — P2 — Misuzu's side of the SyngUp triangle is under-modelled.
 
 | Field | Value |
 |---|---|
@@ -821,8 +842,9 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Confidence | high |
 | Recommendation | Branch Divergence Ledger: add 'Misuzu outside D-/P-MISUZU' (producer = Sena in D-TEMARI/D-SENA/C-SENA/U1; D-SENA withdraws from both H.I.F.s for the SyngUp dissolution live; D-MAO winter non-entry; D-TEMARI summer loss to Sena). Cite D-SENA Dear 022 and D-MAO Dear 030 at RS-I §5.13 / OPEN-RS1-08 / RS1-SYNGUP-07. |
 | Status | open |
+| Merged members | hmsz-S-F01 (OMITTED, P2): A third track (with D-SENA and D-MAO) shows the same state: once all three SyngUp members are reconciled, Misuzu and Temari skip the winter H.I.F. to prepare the dissolution live that was impossible before. Because it recurs in three independent tracks (D-SENA, D-MAO, D-CHINA), it behaves as the default ensemble-track state for Misuzu's winter outside D-MISUZU/D-TEMARI. It is the strongest available evidence for OPEN-RS1-08 (the dissolution live can outrank title competition) and is routed nowhere.<br>ttmr-S-F01 (CROSS_REFERENCE_GAP, P3): Two other idols' Dear tracks share a SyngUp state that no canonical home records. In D-KCNA and D-AMAO, Temari and Misuzu sit out the winter H.I.F. D-KCNA gives the reason: all three SyngUp members have reconciled and are preparing the dissolution live they could never hold. This is the opposite ordering to D-TEMARI, where the farewell live is deferred until after the H.I.F. So the timing of the dissolution live is track-variable, and the evidence bears directly on OPEN-RS1-08. D-KCNA also shows Temari self-identifying as China's fan and deferring her own Prima Stella challenge by a year, which the relationship ledger's China↔Temari rows support only in general terms. |
 
-### HSCA-033 — P2 — (1) The previous Prima Stella 村雨愁佳 - beaten by Sena, then a 100Pro major-debut top idol whose single song 'broke' Sena's heart and produced…
+### HSCA-033 — P2 — (1) The previous Prima Stella 村雨愁佳 - beaten by Sena, then a 100Pro major-debut top idol whose single song 'broke' Sena's heart and produced Sena's vow never again to voice weakness - is uncatalogued; it is a Sena-psychology origin datum and a Prima Stella lineage datum delivered inside Misuzu's track.
 
 | Field | Value |
 |---|---|
@@ -841,7 +863,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | NPC ledger entry for 村雨愁佳 (previous Prima Stella; D-MISUZU Dear 030-031; Sena's heartbreak; present with Rinha in Dear 034); cross-reference from Sena core §3/§11 and the side-character synthesis; add Dear 030-031 to Misuzu matrix C24/C25 as supporting evidence, with the ambiguous-result caution. |
 | Status | open |
 
-### HSCA-034 — P2 — The tranche contains a Producer-free, event-level instance of Rinami's core problem but reads her almost entirely as caretaker/regulator/wi…
+### HSCA-034 — P2 — The tranche contains a Producer-free, event-level instance of Rinami's core problem but reads her almost entirely as caretaker/regulator/witness.
 
 | Field | Value |
 |---|---|
@@ -851,16 +873,16 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | E013 third-year Kyoto school trip ('――2年前' narration dates the enrollment flashback), before the 'next H.I.F.', Rinami = council secretary; E017 third-year shortly before the summer H.I.F.; relative order of E013/E017 unresolved; event stories, no Producer track |
 | Evidence | 莉波: 今年こそ、アイドルとして羽ばたけますようにって、お願いするんだ。(013-01 #014) / 燕: 姫崎も今が大事な時期だろう。 莉波: 生徒会のお仕事も、私にとっては同じくらい大切なんだ。(013-03 #017-019) / 莉波: 会長が、私のこと、敵(ライバル)って言ってくれたから―― … 今の私の全力、会長にぶつけます！(013-05 #067-069) / 燕: 姫崎。お前も、ライバルのひとりだぞ。(017-01 #016) / 莉波: 私だけ、足踏みしたままで… アイドルを好きな気持ちが弱いのかなって――(017-05 #020-022) |
-| Existing treatment | Tranche §2.2 (recruitment; 'care is institutionally legible competence'), §2.5 (one sentence on Rinami's shrine declaration), §6.6 (E017 insecurity resolved into the daily-life idol definition; camera reversal); §2.4 analyzes Tsubame's anti-displacement challenge for Sena only; §11 Rinami row and Character State Ledger E013-020 Rinami row ('reversible hospitality and receptive authority are deeply historical; mature care preserves others' authorship and accepts return support'); Relationship ledger E013 Sena↔Rinami (recruitment for emotional perception only). Phase-3 homes hold the theme for D-RINAMI: GKM_CORE_08 §1 central question ('Can Rinami continue making other people feel held withou… |
+| Existing treatment | Tranche §2.2 (recruitment; 'care is institutionally legible competence'), §2.5 (one sentence on Rinami's shrine declaration), §6.6 (E017 insecurity resolved into the daily-life idol definition; camera reversal); §2.4 analyzes Tsubame's anti-displacement challenge for Sena only; §11 Rinami row and Character State Ledger E013-020 Rinami row ('reversible hospitality and receptive authority are deeply historical; mature care preserves others' authorship and accepts return support'); Relationship ledger E013 Sena↔Rinami (recruitment for emotional perception only). Phase-3 homes hold the theme for D-RINAMI: GKM_CORE_08 §1 central question ('Can Rinami continue making other people feel held without using usefulness as a reason to disappear from her own life?'), §8, §11 (dream-authorship crisis), §22 (Sena pedestal); Character ledger D-RINAMI summer-crisis row; Relationship ledger Rinami↔Sena 'admiration -> peer rivalry' (D-RINAMI); Legacy ledger Rinami rows. |
 | Deficiency | The tranche contains a Producer-free, event-level instance of Rinami's core problem but reads her almost entirely as caretaker/regulator/witness. Unsynthesized: Tsubame issues to Rinami the same anti-displacement warning that §2.4 analyzes for Sena (council work vs. her crucial final year) and Rinami defends support work as 'equally important'; '今年こそ' shows third-year Rinami still treating her own idol success as unfulfilled; the shrine declaration is grounded in Sena having named her a rival; Tsubame recruits her into the rival field; the E017 doubt is near-verbatim the core's dream-authorship crisis. §11's Rinami transition and the ledger row propagate only the care/authority reading, so the own-desire counter-thread (support role as possible displacement; Sena's and Tsubame's recognition as triggers of competitive desire) reaches no event-derived cumulative home. |
 | Alternative | Adequacy: §2.5 and §6.6 do report the declaration and the doubt; the Phase-3 core already owns the self-authorship problem, so the events corroborate rather than add a thesis; E017's resolution ('日常もステージも、ずっとアイドル') can be read as dissolving the doubt. Competing reading: 'equally important' is authentic vocation (core §14; ledger 'support of aspirants is a positive vocation'), not displacement - E013 leaves both readings open. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Qualifies the tranche's care-weighted Rinami model and its ledger row with the counter-thread the core treats as her central question; no conclusion is overturned. |
 | Confidence | medium |
-| Recommendation | Bounded addendum to tranche §2.4/§2.5 and the §11 Rinami row: 'Tsubame's anti-displacement pressure also targets Rinami (013-03 #014-019; 017-01 #016); Rinami defends council work as equally important while still wishing to finally take off (013-01 #014) and declares rivalry with Sena on the strength of Sena's 敵 recognition; the E017 doubt mirrors core §11.' Add E013/E017 to the Character State Ledger Rinami Phase-4 row and to Relationship ledger Rinami↔Sena / Rinami↔Tsubame as event-level corroboration of admiration→rivalry and of Tsubame as rivalry recruiter. Keep 'vocation vs displacement'… |
+| Recommendation | Bounded addendum to tranche §2.4/§2.5 and the §11 Rinami row: 'Tsubame's anti-displacement pressure also targets Rinami (013-03 #014-019; 017-01 #016); Rinami defends council work as equally important while still wishing to finally take off (013-01 #014) and declares rivalry with Sena on the strength of Sena's 敵 recognition; the E017 doubt mirrors core §11.' Add E013/E017 to the Character State Ledger Rinami Phase-4 row and to Relationship ledger Rinami↔Sena / Rinami↔Tsubame as event-level corroboration of admiration→rivalry and of Tsubame as rivalry recruiter. Keep 'vocation vs displacement' open. |
 | Status | open |
 
-### HSCA-035 — P2 — Two support scenes carry Rinami's little-sister history and neither tranche links them to it. In S1-0004-P01 the trainer says she knows Rin…
+### HSCA-035 — P2 — Two support scenes carry Rinami's little-sister history and neither tranche links them to it.
 
 | Field | Value |
 |---|---|
@@ -870,7 +892,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (adv_csprt-1-0004_01 20 msgs; adv_csprt-2-0004_02 20 msgs); A1 verified |
 | Story state | modular support (M-*); no Producer route. S1-0004-P01 is an acting exercise with the visual trainer; if 事情 refers to the Love☆しすたぁず little-sister persona, the scene is plausibly set in or just after Rinami's 1st/2nd-year unit era (unresolved). S2-0004-P02: Rinami as senior tutoring 1st-year China. |
 | Evidence | ビジュアルトレーナー: 妹っぽさ、を意識しすぎかも\nしれないわね。 / 莉波: 妹っぽさ……それは。 / ビジュアルトレーナー: あなたの事情は知ってるけど、\nいったんそれ、とっぱらってみよう。 // (S2-0004-P02) 莉波: か、可愛くていいと思うな。\n妹っぽい、元気なところ。 / 莉波: 私はうまくできなかったから…… |
-| Existing treatment | S1T §6.1 ("assigned little-sister persona"; "A preexisting 'little sister' story about Rinami"; REVISE "little-sister identity is not sufficient as an explanatory master key"); S1T §20 and CSL Phase-5 S1 Rinami row (same wording). S2T §6 covers China's 永遠の妹 line and the お姉さま/お師匠さま escalation but never mentions Rinami's 私はうまくできなかったから. The interpretation that does explain both lines lives in Rinami core §2 and §4 (Dear 001–003: first-year Love☆しすたぁず, failed little-sister presentation, 'failure of fit is not falsity of effort') and in later homes (S3 051–075 story_0064; CSL l.648/673). grep Love☆しすたぁず／しすたぁず／リナぽよ across S1T, S2T, CSL S1/S2 rows, RSL S1/S2 rows, CONT S1/S2 layer: no hit. |
+| Existing treatment | S1T §6.1 ("assigned little-sister persona"; "A preexisting 'little sister' story about Rinami"; REVISE "little-sister identity is not sufficient as an explanatory master key"); S1T §20 and CSL Phase-5 S1 Rinami row (same wording). S2T §6 covers China's 永遠の妹 line and the お姉さま/お師匠さま escalation but never mentions Rinami's 私はうまくできなかったから. The interpretation that does explain both lines lives in Rinami core §2 and §4 (Dear 001–003: first-year Love☆しすたぁず, failed little-sister presentation, 'failure of fit is not falsity of effort') and in later homes (S3 051–075 story_0064; CSL l.648/673). grep Love☆しすたぁず\|しすたぁず\|リナぽよ across S1T, S2T, CSL S1/S2 rows, RSL S1/S2 rows, CONT S1/S2 layer: no hit. |
 | Deficiency | Two support scenes carry Rinami's little-sister history and neither tranche links them to it. In S1-0004-P01 the trainer says she knows Rinami's 事情 and has her drop the 妹っぽさ she is straining for. S1T calls this an 'assigned' archetype and leaves 事情 unexplained. In S2-0004-P02 Rinami praises China's little-sister cheerfulness and then lets slip, unprompted, that she herself could not do it well (私はうまくできなかったから……). S2T omits the line. Read together with core §2/§4, these are low-stakes residues of the Love☆しすたぁず failure. They show that the failure persists as private self-assessment, and that Rinami can admire in a junior the register that failed for her. The S1-0004 continuity placement is also never discussed: the CONT S1 layer has no S0004 row. |
 | Alternative | Adequacy defence: S1T's REVISE (the little-sister archetype is a constraint, not a master key) already agrees with core §4, so no thesis is wrong. 事情 is not named in the text and could instead mean Rinami's real older-sister status (S1-0004-P02 shows a younger sister), which would make the stiffness a matter of inexperience rather than history. Against the defence: 私はうまくできなかった is a past-tense first-person admission of failing at 妹っぽさ, which fits the Love☆しすたぁず history in core §2 directly. Even under the alternative reading, the S2 line is still an untreated self-assessment. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -879,7 +901,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a cross-reference note to S1T §6.1 linking 事情 / 妹っぽさ to Rinami core §2/§4 (Love☆しすたぁず, Dear 001–003), marked as inference. Add one sentence to S2T §6 recording 私はうまくできなかったから as Rinami's own retrospective on the little-sister register, with the same link. Optionally add an S1-0004-P01 continuity row (unresolved; possibly Love☆しすたぁず era) to the CONT Phase-5 S1 layer. |
 | Status | open |
 
-### HSCA-036 — P2 — The Mao-Rinami bilateral system routed to Phase 6 (OQ-RINAMI-07) was never synthesized. Rinami-side states that exist only in Mao's bundle …
+### HSCA-036 — P2 — The Mao-Rinami bilateral system routed to Phase 6 (OQ-RINAMI-07) was never synthesized.
 
 | Field | Value |
 |---|---|
@@ -898,7 +920,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a Mao<->Rinami bilateral note (RS-II addendum or relationship ledger delta): record D-MAO Rinami states (track-scoped), the per-owner SUGAR FLAVOR variants, Rinami as Fluorite catalyst, and reconcile the CLOSE/OPEN status labels; close or re-scope OQ-RINAMI-07. |
 | Status | open |
 
-### HSCA-037 — P2 — Rinami's route is the corpus's most repeated instance of Sena's evaluator's eye failing to see a classmate's latent capacity (four scenes, …
+### HSCA-037 — P2 — Rinami's route is the corpus's most repeated instance of Sena's evaluator's eye failing to see a classmate's latent capacity (four scenes, two of them Sena's own inner/self-reproach) and of Sena owning that her model-student perfection produced Rinami's deference; Gekka's parallel eye reads Rinami as 覚醒途中 (Dear 018).
 
 | Field | Value |
 |---|---|
@@ -917,7 +939,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Relationship ledger Sena<->Rinami delta (or RS-II §5/§7 note) citing Dear 012/023/027/029/036/037 and cidol 007; annotate OQ-RINAMI-08 as partially answered within D-RINAMI. |
 | Status | open |
 
-### HSCA-038 — P2 — The canonical Producer-node synthesis omits the route that most explicitly combines (a) a pre-institutional childhood relation used as inte…
+### HSCA-038 — P2 — The canonical Producer-node synthesis omits the route that most explicitly combines (a) a pre-institutional childhood relation used as interpretive leverage, (b) the Producer's private anguish behind the institutional 'be a magician' maxim (the notebook literally quotes and rejects it), and (c) explicit romance fused with production.
 
 | Field | Value |
 |---|---|
@@ -936,7 +958,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add Rinami (and Mao) to RS-II §9.2 function list and cite Dear 022/027/030/037 under §9.8; cross-reference from side-character synthesis magician principle. |
 | Status | open |
 
-### HSCA-039 — P2 — Dear 018 is a high-stakes decision in which Rinami overrides the Producer's explicit, formal objection, names her desire as わがまま and as wan…
+### HSCA-039 — P2 — Dear 018 is a high-stakes decision in which Rinami overrides the Producer's explicit, formal objection, names her desire as わがまま and as wanting to truly win, and he yields.
 
 | Field | Value |
 |---|---|
@@ -955,7 +977,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §10/§12 and OQ-RINAMI-04 (or a revision addendum): record Dear 018 override and Dear 012 self-attribution as partial answers; rephrase §12 as recovery of already-voiced desire after crisis. |
 | Status | open |
 
-### HSCA-040 — P2 — Rinami's own corpus records a first-year, summit-directed aspiration (vow with Mao to catch up with Sena; H.I.F. stage as dream since first…
+### HSCA-040 — P2 — Rinami's own corpus records a first-year, summit-directed aspiration (vow with Mao to catch up with Sena; H.I.F.
 
 | Field | Value |
 |---|---|
@@ -974,7 +996,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Narrow core §8/C15: first-year summit aspiration existed and was lost; the route revives it and adds permission to want victory over others; add Dear 030/022 and P3-C final-normal-02 to C15 counterpressure. |
 | Status | open |
 
-### HSCA-041 — P2 — Rinami's stated original idol model, repeated at three route points including the authenticity crisis, is a children's-TV 'singing big sist…
+### HSCA-041 — P2 — Rinami's stated original idol model, repeated at three route points including the authenticity crisis, is a children's-TV 'singing big sister' who makes people smile; the remembered childhood scene enacts exactly that role.
 
 | Field | Value |
 |---|---|
@@ -993,7 +1015,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §3/§4 addendum: record 歌のお姉さん as Rinami's own original model (Dear 002/022/025) and its consequence for Producer-authorship claims. |
 | Status | open |
 
-### HSCA-042 — P2 — Shion states her attack on Rinami is an attack on older-sisterhood as oppression, rooted in her treatment by Gekka (whose contempt Rinami w…
+### HSCA-042 — P2 — Shion states her attack on Rinami is an attack on older-sisterhood as oppression, rooted in her treatment by Gekka (whose contempt Rinami witnesses and later rebukes across schools); Shion's follower Nadeshiko is disarmed by Rinami's care.
 
 | Field | Value |
 |---|---|
@@ -1012,7 +1034,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §9 / side-character synthesis §4.1 'Against Rinami': add sibling-hierarchy dimension (Dear 014, 018, 031; P2 audition-b) and route Shion's sibling wound beyond the Mao-side question. |
 | Status | open |
 
-### HSCA-043 — P2 — Shiori speaks directly: lonely at losing her sister to 'everyone', unattended phone calls, possessive refusal of the 'older little brother'…
+### HSCA-043 — P2 — Shiori speaks directly: lonely at losing her sister to 'everyone', unattended phone calls, possessive refusal of the 'older little brother'.
 
 | Field | Value |
 |---|---|
@@ -1031,7 +1053,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Side-character synthesis §7.1 and core OQ-01: add Shiori's direct speech (Dear 021, 024-025) and the exclusivity-vs-everyone pattern (Producer Dear 009/021, Shiori, Dear 037 confession). |
 | Status | open |
 
-### HSCA-044 — P2 — Covert or unilateral Producer interventions beyond H.O.F. go unlogged: hidden lesson-time increments (P1), blackmail bluff and provocation …
+### HSCA-044 — P2 — Covert or unilateral Producer interventions beyond H.O.F.
 
 | Field | Value |
 |---|---|
@@ -1050,7 +1072,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core C25/§15 and OQ-RINAMI-03/04 (revision addendum): log 100Pro withholding, P1 covert increments, Dear 013/016 unilateral tactics, and the covert notebook reading as reciprocal boundary crossing. |
 | Status | open |
 
-### HSCA-045 — P2 — Two consequences of the exchange are not routed. (1) Saki side: a peer names Saki's mode as lying in order to fight, and Saki herself offer…
+### HSCA-045 — P2 — Two consequences of the exchange are not routed.
 
 | Field | Value |
 |---|---|
@@ -1061,15 +1083,15 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | M-E012 present frame: Saki-led temporary unit before the regional-promotion mini-live, after Lilja's fever; Sumika speaks retrospectively about the flashback-era concealment. Modular; selects no D-SUMIKA position. |
 | Evidence | 咲季: 嘘をつくのは、得意でしょう？ / 清夏: あたしは咲季とは違うよ。あたしはずっと逃げてただけ。戦うために嘘をついたわけじゃない。 / 清夏: だからあたしはもう、<em>嘘はつかない</em>。 |
 | Existing treatment | Tranche §8.10 ('she distinguishes her old concealment from the kind of self-construction she associates with Saki'; only avoidance lies are rejected), §13.10, §14.17. Register ledger (Phase-4 E006–012 Sumika line) gives the same narrowing; character-ledger Sumika E012 row reads 'recovery requires disclosure without abolishing authored brightness'. Saki homes: core v2.1 §4.1 'Confidence is a maintained condition' (built from Saki-owned sources); character-ledger Saki E012 row covers pedagogy only. No Saki home records the exchange. |
-| Deficiency | Two consequences of the exchange are not routed. (1) Saki side: a peer names Saki's mode as lying in order to fight, and Saki herself offers a lie as Sumika's recovery tool; her only reply is '……清夏。'. This is direct peer-observer evidence for the Saki core's central 'constructed invincibility' thesis, yet the core v2.1, the character ledger and the RS-II Saki rows all leave it out (a grep of non-legacy ROOT for 嘘をつくのは / 戦うために嘘 / 咲季とは違う / bluff / 強がり finds nothing in any Saki or Sumika home outside the E006–012 tranche). (2) Sumika side: in the E012 state Sumika refuses the lie-to-fight frame for herself and vows an unqualified '嘘はつかない'. That is in cross-track tension with D-SUMIKA Dear 008's chosen 'beautiful lie' ('受け入れた上で、嘘をつくの。その嘘が本当になるまで', Sumika core §5). The tranche and the register ledger resolve it by narrowing the rejected lie to avoidance lies. The harmonization is defensible,… |
-| Alternative | Adequacy defence: the Saki core already establishes constructed confidence from Saki's own Dear and Produce evidence, so the peer line corroborates the thesis rather than revising it. The tranche guard (§8.10/§14.17) blocks the worst misuse, flattening Sumika's performance into a true/fake binary. The contrast Sumika draws (flight lies against fighting lies) does frame 'no more lies' as aimed at her own kind of lie. Competing reading: Saki's line is a needle ('you of all people can bluff yourself'), not self-disclosure. 'あたしは咲季とは違う' is Sumika's inference about Saki, an observer claim, and sho… |
+| Deficiency | Two consequences of the exchange are not routed. (1) Saki side: a peer names Saki's mode as lying in order to fight, and Saki herself offers a lie as Sumika's recovery tool; her only reply is '……清夏。'. This is direct peer-observer evidence for the Saki core's central 'constructed invincibility' thesis, yet the core v2.1, the character ledger and the RS-II Saki rows all leave it out (a grep of non-legacy ROOT for 嘘をつくのは / 戦うために嘘 / 咲季とは違う / bluff / 強がり finds nothing in any Saki or Sumika home outside the E006–012 tranche). (2) Sumika side: in the E012 state Sumika refuses the lie-to-fight frame for herself and vows an unqualified '嘘はつかない'. That is in cross-track tension with D-SUMIKA Dear 008's chosen 'beautiful lie' ('受け入れた上で、嘘をつくの。その嘘が本当になるまで', Sumika core §5). The tranche and the register ledger resolve it by narrowing the rejected lie to avoidance lies. The harmonization is defensible, but it is stated as what 'the event is specifically rejecting' rather than flagged as a reconciliation of two continuity tracks. |
+| Alternative | Adequacy defence: the Saki core already establishes constructed confidence from Saki's own Dear and Produce evidence, so the peer line corroborates the thesis rather than revising it. The tranche guard (§8.10/§14.17) blocks the worst misuse, flattening Sumika's performance into a true/fake binary. The contrast Sumika draws (flight lies against fighting lies) does frame 'no more lies' as aimed at her own kind of lie. Competing reading: Saki's line is a needle ('you of all people can bluff yourself'), not self-disclosure. 'あたしは咲季とは違う' is Sumika's inference about Saki, an observer claim, and should stay labelled as one. |
 | Disposition | CROSS_REFERENCE_GAP |
 | Severity | P2 — It qualifies two core theses (Saki's constructed invincibility; Sumika's beautiful lie) through the only scene where they meet. Neither thesis changes. |
 | Confidence | medium |
 | Recommendation | Character ledger (Saki E012 row) or a Saki-core revision note: add 'E012 main-04: Sumika describes Saki as one who lies in order to fight, and Saki offers bluff as a recovery tool (observer claim; M-E012)', cross-referenced to core §4.1. Tranche §8.10 and the register-ledger Sumika line: label the avoidance-lie narrowing as a cross-track reconciliation with D-SUMIKA Dear 008, and note that in the E012 text Sumika declines the lie-to-fight mode for herself. |
 | Status | open |
 
-### HSCA-046 — P2 — The 04_04 premonition is presented as a U1 event, but it appears only if the player chooses 咲季さん in an exclusive three-way choice (the alte…
+### HSCA-046 — P2 — The 04_04 premonition is presented as a U1 event, but it appears only if the player chooses 咲季さん in an exclusive three-way choice (the alternatives are Kotone's contingency confession and Temari's reflection on Misuzu).
 
 | Field | Value |
 |---|---|
@@ -1089,7 +1111,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Status | open |
 | Orchestrator adjustment | fktn-B-F07: {"severity": {"from": "P3", "to": "P2"}, "subject": {"from": "hski", "to": "hski"}, "reason": "orchestrator A1 re-check: 04_04 premonition is in one branch of an exclusive three-way choice; PR #531 nightmare analysis treats it as fixed"} |
 
-### HSCA-047 — P2 — §3.2.9 describes the abandoned ideal as an 'unsupported and unbroken' Saki. At A1 the plan is premised on Saki's defeat from the outset (De…
+### HSCA-047 — P2 — §3.2.9 describes the abandoned ideal as an 'unsupported and unbroken' Saki.
 
 | Field | Value |
 |---|---|
@@ -1099,8 +1121,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (manifest.csv SHA-256 82ed6510…96b1 re-verified); A1 verified |
 | Story state | C1 @ D-SAKI (Dear 008 before the first underdog contest; Dear 021 summer H.I.F. eve; Dear 023 after the summer loss; Dear 024/027 Project Stardust; Dear 033 before winter H.I.F.). The Dear 023 monologue sits inside a gated three-option choice sequence that every player traverses (Select1 -> Select2 -> Select3), so its content is invariant, not C3. |
 | Evidence | Dear 008: 『途中で一度くらい負けたって構わないってこと？』『大きな問題ではありません。』 / Dear 023: （花海咲季はいつか敗北する。……それからが本当の勝負だと）（プロデューサーのいない花海咲季を、確実に圧倒できるように。自身の存在意義を懸けたプラン）（きっと早々に燃え尽きる）（伝説を残して、共に終わればいい）（心折れ、ひとり強がる彼女に、ここで手を差し伸べるなんて……）（咲季さんが、ずっと積み上げてきた大切な苦しみを……誰であろうと奪ってはならない）（『彼女を助けない』――それこそが、無敵のトップアイドルへの最短ルート）; Saki: もっと孤高で、もっと苛烈で、不屈で無敵の花海咲季。 / Dear 027: 『彼女』はもう、俺と出逢わなかった世界にしかいない。 / Dear 033 (isInner): （もしも……わたしが、プロデューサーと出逢わなかったなら） |
-| Existing treatment | GKM_CORE_01 §3.2.9 ('The rejected “eternal legend” plan…': the plan 'can be read as constructing a solitary, invincible Saki whose legend might remain eternal even if the pair ends after a blaze of glory. He considers withholding help because the strongest version of his ideal might be the Saki who remains unsupported and unbroken'); §10.2, §10.7; SAKI-C14; GKM_SAKI_DIALOGUE_VOICE_ACTING_CLOSE_READING §2.5 ('preserve the solitary eternal legend, or reach toward the broken Saki'). Dear 008's divergence of win-definitions and the Dear 021/027/033 'Saki-without-the-Producer' counterfactual are not connected to the plan anywhere (searched ROOT excl. 90*: 燃え尽, 最短ルート, 助けない, プロデューサーのいない, 出逢わなかった, … |
-| Deficiency | §3.2.9 describes the abandoned ideal as an 'unsupported and unbroken' Saki. At A1 the plan is premised on Saki's defeat from the outset (Dear 023 l.133; foreshadowed by the Producer's Dear 008 definition of winning as eventual invincible-top-idol status, under which one loss 'is not a big problem' — the line Saki explodes at), targets an already broken Saki advancing alone (心折れ、ひとり強がる彼女), is explicitly a short burn-out-into-legend career, frames withheld help as respect for her accumulated suffering, and stakes the Producer's raison d'être on overwhelming the 'Producer-less Saki'. Saki herself names the dreamed Saki 孤高・苛烈・不屈・無敵. The core therefore misplaces the axis the scene rejects: not broken vs unbroken, but solitary, unaided burn-out vs accompanied, sustainable continuation. The recurring counterfactual of the Saki who never met the Producer (Dear 021 l.443–481; Dear 023 l.150, l.2… |
+| Existing treatment | GKM_CORE_01 §3.2.9 ('The rejected “eternal legend” plan…': the plan 'can be read as constructing a solitary, invincible Saki whose legend might remain eternal even if the pair ends after a blaze of glory. He considers withholding help because the strongest version of his ideal might be the Saki who remains unsupported and unbroken'); §10.2, §10.7; SAKI-C14; GKM_SAKI_DIALOGUE_VOICE_ACTING_CLOSE_READING §2.5 ('preserve the solitary eternal legend, or reach toward the broken Saki'). Dear 008's divergence of win-definitions and the Dear 021/027/033 'Saki-without-the-Producer' counterfactual are not connected to the plan anywhere (searched ROOT excl. 90*: 燃え尽, 最短ルート, 助けない, プロデューサーのいない, 出逢わなかった, eternal legend, withhold). |
+| Deficiency | §3.2.9 describes the abandoned ideal as an 'unsupported and unbroken' Saki. At A1 the plan is premised on Saki's defeat from the outset (Dear 023 l.133; foreshadowed by the Producer's Dear 008 definition of winning as eventual invincible-top-idol status, under which one loss 'is not a big problem' — the line Saki explodes at), targets an already broken Saki advancing alone (心折れ、ひとり強がる彼女), is explicitly a short burn-out-into-legend career, frames withheld help as respect for her accumulated suffering, and stakes the Producer's raison d'être on overwhelming the 'Producer-less Saki'. Saki herself names the dreamed Saki 孤高・苛烈・不屈・無敵. The core therefore misplaces the axis the scene rejects: not broken vs unbroken, but solitary, unaided burn-out vs accompanied, sustainable continuation. The recurring counterfactual of the Saki who never met the Producer (Dear 021 l.443–481; Dear 023 l.150, l.225; Dear 027 l.397; Dear 033 l.258–307), the frame against which both partners measure the co-authored Saki, is absent. |
 | Alternative | Adequacy defence: §3.2.9 says the plan 'can be read' this way, includes the 'blaze of glory' end and the withholding of help, and §10.7 correctly states that the Producer rejects care-by-withholding; the co-authorship thesis is unaffected, and 'unbroken' may mean 'unbowed in public'. Counter: the plan itself calls her broken (心折れ), and the premise of predicted defeat bears on §10.6/§10.8 (the Producer had planned for the loss Saki most feared without telling her) and answers part of §21's open question 'what happens when the Producer is wrong' — he judges his own original plan 間違ったプロデュース. |
 | Disposition | POTENTIALLY_CORRECTIVE |
 | Severity | P2 — Corrects the characterization of one of the core's most ethically weighted scenes and sharpens the 無敵/不屈 axis (solitude vs witness rather than breakage), but does not overturn the co-authorship thesis or SAKI-C14. |
@@ -1108,7 +1130,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §3.2.9: replace 'unsupported and unbroken' with the A1 structure (defeat-premised; broken and alone; burn-out legend; help withheld as respect for suffering; raison d'être staked on beating the Producer-less Saki); link Dear 008 l.87–117 as the first visible divergence of win-definitions; add one sentence in §10.3 on the Producer-less-Saki counterfactual (Dear 021/023/027/033). Optional cross-reference in §10.8 (planned-for loss as information asymmetry). |
 | Status | open |
 
-### HSCA-048 — P2 — D-SAKI frames Saki's idolhood from its first scene as a 悪あがき — a last-ditch struggle toward an expected loss — which the Producer refuses i…
+### HSCA-048 — P2 — D-SAKI frames Saki's idolhood from its first scene as a 悪あがき — a last-ditch struggle toward an expected loss — which the Producer refuses in Dear 001.
 
 | Field | Value |
 |---|---|
@@ -1119,7 +1141,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ D-SAKI, longitudinal (Dear 001 scouting -> 009 first underdog win -> 010 -> 018 FINALE eve -> 023 after the summer loss -> 031 -> 035 winter H.I.F. eve) |
 | Evidence | Dear 001: だから、もう逃げない。/ ならさ、悪あがきに付き合ってくれない？ — お断りします。あなたに弱気は似合いません。 / Dear 009: このわたしの、一世一代の悪あがきを！ / Dear 010: これが最後の悪あがき。……もしもダメだったら。……昔からの勘違いが、ようやく解ける。……佑芽の専属トレーナーでも目指そうかしら。 — 無理ですね。咲季さんは、そんなに潔くありません。 / Dear 018: もう、悪あがきはおしまいよ！ / Dear 023: あなたが言ってくれた通りだったわ。負けたらなにもかもおしまいだって――そう思っていたんだけどね。わたしって、潔くないみたい。走らずにはいられないの。…みっともない悪あがきだって―― / Dear 035: もう強がりじゃない。悪あがきでもない。 / Dear 008 (Producer): 負けるとわかっていても逃げない。そう言ったのは、嘘だったのですか！ |
 | Existing treatment | GKM_CORE_01 §3.2.1 (Dear 003 only), §3.2.3 ('The same scene [Dear 008] also marks the first refusal of the old strategy: だけど、もう逃げないわ'), §3.2.5 (Dear 010 read only for the world-best origin), §3.2.8 (action before recovery), §2.5/§3.2.13 (gathered past selves); §3.6.1 records Saki's refusal of Kotone's U1 '世界一のサポーター' consolation. No canonical hit for 悪あがき, 潔く/潔くない, 専属トレーナー (searched ROOT excl. 90*). |
-| Deficiency | D-SAKI frames Saki's idolhood from its first scene as a 悪あがき — a last-ditch struggle toward an expected loss — which the Producer refuses in Dear 001. Saki reclaims it as owned desperation (009), formalizes it with a pre-planned graceful exit (losing to Ume would 'finally dispel the old misunderstanding' and she would aim to be Ume's personal trainer, 010), declares it over once she senses real growth (018), finds after the actual loss that her own exit plan was false — she is not 潔い, exactly as the Producer predicted in 010 (023) — and finally renounces it together with 強がり (035). The core analyses the endpoints (false genius; action before recovery; integrated past selves) but not this spine, and so misses (a) that Saki entered idolhood with a scripted surrender, (b) that Dear 023's 'cannot stop running' is the falsification of that script rather than a fresh discovery, and (c) the D-… |
+| Deficiency | D-SAKI frames Saki's idolhood from its first scene as a 悪あがき — a last-ditch struggle toward an expected loss — which the Producer refuses in Dear 001. Saki reclaims it as owned desperation (009), formalizes it with a pre-planned graceful exit (losing to Ume would 'finally dispel the old misunderstanding' and she would aim to be Ume's personal trainer, 010), declares it over once she senses real growth (018), finds after the actual loss that her own exit plan was false — she is not 潔い, exactly as the Producer predicted in 010 (023) — and finally renounces it together with 強がり (035). The core analyses the endpoints (false genius; action before recovery; integrated past selves) but not this spine, and so misses (a) that Saki entered idolhood with a scripted surrender, (b) that Dear 023's 'cannot stop running' is the falsification of that script rather than a fresh discovery, and (c) the D-SAKI counterpart of U1's refused supporter identity: in D-SAKI Saki herself once proposed the trainer/supporter role as her post-defeat landing. Related accuracy slip: §3.2.3 assigns the 'first refusal' (もう逃げない) to Dear 008, but the vow is spoken in Dear 001 (l.239, with 負けるとわかっていても？ — うんっ！) and the Producer explicitly recalls it in Dear 008 (l.161). |
 | Alternative | Adequacy defence: the core's thesis already contains the movement from avoidance to staying, from desperate self-presentation to integrated selves, and from expected collapse to motion before recovery; a missing motif is not a missing insight. Counter: the planned trainer exit and its explicit falsification (潔くない) are distinct analytical facts — they show the indomitability of Dear 023 as the failure of Saki's own pre-commitment to surrender — and they supply a D-SAKI parallel to a point the core treats as U1-specific. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Adds a longitudinal setup–payoff and a cross-track parallel that refine the 'action recovery' and 'false genius' readings; the 'first refusal' misdating is a P3-level slip folded in. No thesis change. |
@@ -1127,7 +1149,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01: add a short paragraph after §3.2.5 on Dear 010's 最後の悪あがき and trainer exit; in §3.2.8 note that Dear 023 explicitly falsifies that exit (潔くない, echoing the Producer's Dear 010 line); in §3.2.3 change 'first refusal' to 'reaffirmation of the Dear 001 vow' (cite dear_001 l.239 and the Producer's recall at dear_008 l.161); optional cross-reference in §3.6.1 (U1 supporter consolation) to Dear 010 as a separate-track parallel, without merger. |
 | Status | open |
 
-### HSCA-049 — P2 — v2.1 builds a cross-track comparison of Saki's first loss to Ume and narrows H-SAKI-05 using U1 night scenes, but omits D-SAKI's own post-l…
+### HSCA-049 — P2 — v2.1 builds a cross-track comparison of Saki's first loss to Ume and narrows H-SAKI-05 using U1 night scenes, but omits D-SAKI's own post-loss night evidence: sleep-onset difficulty against her early-bed baseline (Dear 026), nightly Producer accompaniment until she is drowsy and a nightly 'receive my complaints' arrangement (Dear 025–026), Rinha as a secondary night interlocutor (Dear 026), Producer-supplied aroma and Misuzu's voice as nightly sleep rituals (cidol 018_01–02), the Producer's private verdict that she has not recovered and may never heal even after Project Stardust's success (018_01), and an acquired late-night habit at the D-SAKI endpoint (Dear 037, cause unstated).
 
 | Field | Value |
 |---|---|
@@ -1137,8 +1159,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (manifest.csv SHA-256 82ed6510…96b1 re-verified); A1 verified |
 | Story state | C1 @ D-SAKI (Dear 025–026 Hanami camp after the summer loss; Dear 037 after winter H.I.F.); cidol 018 is C-SAKI post-loss, internally anchored after Project Stardust and before winter H.I.F. (core §16.7 treats post-H.I.F. communications as strong C1/C2 anchors). Not U1; must not be merged with adv_unit_01-04_13/15. |
 | Evidence | Dear 025: オーディション当日までず～っと毎晩！わたしの弱音を受け止めてもらうんだから！ / Dear 026: 眠気がくるまで……一緒にいてもらってただけ。/ いつもはもっと早いわ。……最近、寝つきが悪くて。/ がっかりさせちゃったかしら。わたしがこんなに弱虫で。 / cidol 018_01: あなたからもらったアロマを試してた。/ （決して立ち直ったわけではないし。癒えることなどないのかもしれない）/ 余計に眠れなくなる話題で申し訳ありません。 / cidol 018_02: 最近、毎晩のように秦谷美鈴を聴いてから眠っているし。 / Dear 037: あんなに健康的だったのに……夜更かしの習慣ができてしまいましたね。 |
-| Existing treatment | GKM_CORE_01 §3.6.1 ('What the sleep evidence does and does not establish' — U1 only; 'The nightmare, the sleeplessness and the 悔しくなかったら confession are U1 events. The daily crying after the D-SAKI summer loss (adv_dear_hski_027.txt) is a separate state and is not the U1 insomnia'); §19 H-SAKI-05 partial test ('D-SAKI remains Producer-centred', no D-SAKI night evidence cited); §3.3.9 reads aroma only as leisure; GKM_BRANCH_DIVERGENCE_LEDGER BR-SAKI-UME-FEAR ('the nightmare, the sleeplessness and the 悔しくなかったら confession are U1 events only'). Dear 026's sleep line, cidol 018_01's 'may never heal' and Dear 037's acquired late-night habit are analysed nowhere (searched: 寝つき, 眠れ, アロマ, 秦谷美鈴を聴, 夜更かし… |
-| Deficiency | v2.1 builds a cross-track comparison of Saki's first loss to Ume and narrows H-SAKI-05 using U1 night scenes, but omits D-SAKI's own post-loss night evidence: sleep-onset difficulty against her early-bed baseline (Dear 026), nightly Producer accompaniment until she is drowsy and a nightly 'receive my complaints' arrangement (Dear 025–026), Rinha as a secondary night interlocutor (Dear 026), Producer-supplied aroma and Misuzu's voice as nightly sleep rituals (cidol 018_01–02), the Producer's private verdict that she has not recovered and may never heal even after Project Stardust's success (018_01), and an acquired late-night habit at the D-SAKI endpoint (Dear 037, cause unstated). Consequences missed: (1) post-first-loss night disruption is a cross-track parallel (like the fear itself) while the specific U1 events stay U1; (2) the occupant of the night-witness function differs by track … |
+| Existing treatment | GKM_CORE_01 §3.6.1 ('What the sleep evidence does and does not establish' — U1 only; 'The nightmare, the sleeplessness and the 悔しくなかったら confession are U1 events. The daily crying after the D-SAKI summer loss (adv_dear_hski_027.txt) is a separate state and is not the U1 insomnia'); §19 H-SAKI-05 partial test ('D-SAKI remains Producer-centred', no D-SAKI night evidence cited); §3.3.9 reads aroma only as leisure; GKM_BRANCH_DIVERGENCE_LEDGER BR-SAKI-UME-FEAR ('the nightmare, the sleeplessness and the 悔しくなかったら confession are U1 events only'). Dear 026's sleep line, cidol 018_01's 'may never heal' and Dear 037's acquired late-night habit are analysed nowhere (searched: 寝つき, 眠れ, アロマ, 秦谷美鈴を聴, 夜更かし, sleep/insomnia across core, ledgers, RS-I). |
+| Deficiency | v2.1 builds a cross-track comparison of Saki's first loss to Ume and narrows H-SAKI-05 using U1 night scenes, but omits D-SAKI's own post-loss night evidence: sleep-onset difficulty against her early-bed baseline (Dear 026), nightly Producer accompaniment until she is drowsy and a nightly 'receive my complaints' arrangement (Dear 025–026), Rinha as a secondary night interlocutor (Dear 026), Producer-supplied aroma and Misuzu's voice as nightly sleep rituals (cidol 018_01–02), the Producer's private verdict that she has not recovered and may never heal even after Project Stardust's success (018_01), and an acquired late-night habit at the D-SAKI endpoint (Dear 037, cause unstated). Consequences missed: (1) post-first-loss night disruption is a cross-track parallel (like the fear itself) while the specific U1 events stay U1; (2) the occupant of the night-witness function differs by track (Producer in D-SAKI; Kotone/Temari in U1) — this is the D-SAKI evidence that H-SAKI-05's 'Producer-centred' clause needs; (3) 018_01 is the strongest textual support for SAKI-C08 that affective recovery is incomplete at the pre-final stage. The ledger wording 'U1 events only' invites the false inference that D-SAKI has no post-loss sleep disturbance. |
 | Alternative | Adequacy defence: §3.6.1's sentences are literally true (the U1 insomnia is a U1 event; D-SAKI daily crying is not the U1 insomnia), the core never claims D-SAKI lacks sleep difficulty, §3.2.8 already records prolonged non-recovery and reliance on the Producer, and aroma/Misuzu are plausibly leisure. Counter: Dear 026 states the sleep problem in Saki's own words and frames the Producer's presence as 'until drowsiness comes'; omitting it while drawing cross-track conclusions about sleep and night witnesses leaves the comparison one-sided. No clinical classification is implied or needed. |
 | Disposition | CROSS_REFERENCE_GAP |
 | Severity | P2 — Bears directly on v2.1's central additions (cross-track invariance; H-SAKI-05 narrowing) and on SAKI-C08, but supplies parallel/confirming evidence rather than overturning a conclusion. |
@@ -1146,7 +1168,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §3.6.1 'Cross-track comparison, without merger': add one sentence that D-SAKI has its own post-loss sleep-onset difficulty and nightly Producer accompaniment (dear_025 l.894–898; dear_026 l.9–96; cidol 018_01–02), explicitly not the U1 insomnia; H-SAKI-05 partial test: cite dear_025/026 as the D-SAKI evidence for 'Producer-centred' and note Rinha's secondary night role; §7.3 or SAKI-C08: cite cidol 018_01 l.88. GKM_BRANCH_DIVERGENCE_LEDGER BR-SAKI-UME-FEAR: reword 'U1 events only' to 'the specific U1 events; D-SAKI has separate post-loss sleep evidence (Dear 026; cidol 018_01)'. |
 | Status | open |
 
-### HSCA-050 — P2 — The Producer's own explicit theory of D-SAKI's first act is absent: Ume's acceleration is produced by having Saki (model, supporter, traine…
+### HSCA-050 — P2 — The Producer's own explicit theory of D-SAKI's first act is absent: Ume's acceleration is produced by having Saki (model, supporter, trainer, superior rival) beside her; Saki has never had anyone in that position ('わたしはふたりいない'); therefore the Producer will supply that function for Saki, and (Dear 008) Ume's surpassing is reframed as the gift Saki previously lacked — a superior rival she cannot bear to lose to.
 
 | Field | Value |
 |---|---|
@@ -1165,7 +1187,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §3.2.1 or §10.1: add the Dear 006/008 diagnosis (Saki lacks the older sister she is for Ume; the Producer undertakes that function; Ume becomes the superior rival); §10.5: note the kin/older-sibling register (choice-dependent line flagged C3) alongside the romance and professional framings. RS-I §3.1: one cross-reference sentence that the text names the Producer as the provider of Saki's missing 'older sister' function (and Sena as Ume's Producer, Dear 025). |
 | Status | open |
 
-### HSCA-051 — P2 — The fear of disappointing Ume is stated most explicitly in D-SAKI (the Dear 008 climax), yet §3.6.1 locates explicitness in U1 and §3.2.3 n…
+### HSCA-051 — P2 — The fear of disappointing Ume is stated most explicitly in D-SAKI (the Dear 008 climax), yet §3.6.1 locates explicitness in U1 and §3.2.3 never states it.
 
 | Field | Value |
 |---|---|
@@ -1184,7 +1206,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §3.2.3: state the Dear 008 l.219 line; §3.6.1 'Which fear…' bullet 2: add 'also explicit in D-SAKI (Dear 008 l.219)'. RS-I §3.5.1 pt 4: add Dear 014 l.216–240 as the D-SAKI parallel (Ume's concealment; Saki's self-exempting principle), tracks kept separate; optionally cite the P1 failure choice-3 line as C3 corroboration. |
 | Status | open |
 
-### HSCA-052 — P2 — A1 context does not match 'counterattack… spoken during conflict': the line comes after the contest, in answer to Rinha's explicit request …
+### HSCA-052 — P2 — A1 context does not match 'counterattack… spoken during conflict': the line comes after the contest, in answer to Rinha's explicit request to explain her loss, prefaced by a hedge, and Rinha receives it with laughter, 'よく、わかった', envy and praise.
 
 | Field | Value |
 |---|---|
@@ -1203,7 +1225,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §3.2.6: describe the setting (post-victory, solicited, hedged), record Rinha's 'よく、わかった……羨ましい' and Dear 025's 'アイドルに戻らなくちゃいけない', and cross-reference RINHA-C009; reframe §21 / §25 Q12 from 'repair of an exclusion' to 'what Saki recognized and how Rinha's return answers it'. |
 | Status | open |
 
-### HSCA-053 — P2 — The core under-develops Saki's moral relation to non-Ume opponents. (1) Dear 027 gives Saki's own rationale for performed confidence: it is…
+### HSCA-053 — P2 — The core under-develops Saki's moral relation to non-Ume opponents.
 
 | Field | Value |
 |---|---|
@@ -1222,7 +1244,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §4.1: add 'respect owed to defeated opponents' (dear_027 l.257–294); §3.2.13 or §3.2.14: add the Dear 037 athletes' message (l.308–400) as the relational closure of the flight-guilt; update SAKI-L018's principal use; optional note in the SAKI-C04 counterevidence/limit column. |
 | Status | open |
 
-### HSCA-054 — P2 — CURRENT (residual): (1) the part-09 mechanism is stated nowhere: the morning after the defeat Saki cannot act, and motion restarts only aft…
+### HSCA-054 — P2 — CURRENT (residual): (1) the part-09 mechanism is stated nowhere: the morning after the defeat Saki cannot act, and motion restarts only after Temari — explicitly refusing to comfort her — returns Saki's own Ep01_11 creed and 'あなたが、わたしに付いてくるの' logic back to her (reciprocal revival).
 
 | Field | Value |
 |---|---|
@@ -1241,7 +1263,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Saki core §3.6.1 ensemble list: add a part-09 bullet (action recovery stalled and was re-ignited by Temari's refusal to comfort plus reciprocal return of Saki's Ep01_11 words); add a U1 note to §3.2.8. RS-II §3.1/§10.4: one C1 @ U1 cross-reference to 04_09-04_10; note partial U1 evidence at OPEN-RS2-01. Route Kotone-side contingency analysis to the fktn auditor. |
 | Status | open |
 
-### HSCA-055 — P2 — The U1 instance of Sena's mirror reading is connected to neither home. It (a) answers the ledger's explicitly open test — Saki recognizes t…
+### HSCA-055 — P2 — The U1 instance of Sena's mirror reading is connected to neither home.
 
 | Field | Value |
 |---|---|
@@ -1251,7 +1273,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ U1, Ep04 part 16: morning of the summer H.I.F. finals, first one-on-one Saki–Sena conversation (Sena has announced her retirement in part 14, in Saki's absence). |
 | Evidence | 星南: なんて諦めの悪い子……たいした才能もないくせに。そう思っていた。…だって、鏡を見ているようだったのだもの。/ 咲季: あなただって、諦めが悪いじゃない。/ 星南: …………だって、佑芽が。諦めにくく、するのだもの。/ 咲季: 他の誰かがここにいたら、胸を張って強がるんだけど。/ 星南: とても無様なところは見せられないわよね―― 咲季: お姉ちゃんとして。 星南: 先輩として。/ 咲季: …………やっぱ似てないかもね。いまの気持ちなんて、ぐちゃぐちゃでわかんないわ。 |
-| Existing treatment | Sena core §25 'Saki: another me' and §36.3 (D-SENA Dear 025); RELATIONSHIP_STATE row 'Sena - Saki ／ independent crown, another me … ／ test whether mirroring allows Saki's difference or turns her into Sena's chosen answer' and row 'Sena ↔ Saki ／ E005 ／ mirror rivalry / anti-succession'; Saki core §12.5 (D-SAKI: idol origin, training ally, vacancy) — no mirror; RELATIONSHIP_STATE 'Saki ↔ Sena' row lists 'U1' without content; v2.1 §26 note: 'Parts 16 and 17 remain unindexed … not asserted to be irrelevant'. 04_16 otherwise cited only for festival ethic (LOC-INST-030, CONT-036). Searched 鏡を見 / 諦めの悪い / 諦めにくく / 先輩として / たいした才能: 0 hits. |
+| Existing treatment | Sena core §25 'Saki: another me' and §36.3 (D-SENA Dear 025); RELATIONSHIP_STATE row 'Sena - Saki \| independent crown, another me … \| test whether mirroring allows Saki's difference or turns her into Sena's chosen answer' and row 'Sena ↔ Saki \| E005 \| mirror rivalry / anti-succession'; Saki core §12.5 (D-SAKI: idol origin, training ally, vacancy) — no mirror; RELATIONSHIP_STATE 'Saki ↔ Sena' row lists 'U1' without content; v2.1 §26 note: 'Parts 16 and 17 remain unindexed … not asserted to be irrelevant'. 04_16 otherwise cited only for festival ethic (LOC-INST-030, CONT-036). Searched 鏡を見 / 諦めの悪い / 諦めにくく / 先輩として / たいした才能: 0 hits. |
 | Deficiency | The U1 instance of Sena's mirror reading is connected to neither home. It (a) answers the ledger's explicitly open test — Saki recognizes the likeness (both hide uncertainty so as not to look pathetic, 'as older sister' / 'as senior') and then reasserts difference ('やっぱ似てないかもね'); (b) shows a third non-Producer figure before whom Saki admits she does not know whether she can win (bearing on H-SAKI-05 and §4.4 'witnessed weakness'); (c) supplies an external observer echoing Saki's 'false genius' self-classification with the same phrase Rinha uses in D-UME 012 ('たいした才能もないくせに') — observer interpretation, not fact (bearing on §5). |
 | Alternative | Sena core §25 already carries 'another me', the ledger already names the test, and Saki core §12.5 is D-SAKI-scoped; the scene adds an instance rather than a new thesis. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -1260,7 +1282,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a dated C1 @ U1 row or note at the RELATIONSHIP_STATE 'Sena - Saki' row citing adv_unit_01-04_16 as a partial answer to the mirroring test; one-sentence U1 cross-reference in Saki core §12.5; optionally index part 16 in §26. Route to the jsna auditor for the Sena-side retirement doubt ('私たち、アイドルを続けられるのかしら'). |
 | Status | open |
 
-### HSCA-056 — P2 — The corpus names one mechanism of Saki's protected record (flight to another field, D-SAKI 008). U1 supplies a second, complementary one — …
+### HSCA-056 — P2 — The corpus names one mechanism of Saki's protected record (flight to another field, D-SAKI 008).
 
 | Field | Value |
 |---|---|
@@ -1279,7 +1301,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Matrix SAKI-C04: add U1 01_03/02_09/02_10/04_12/04_21 and D-UME 004/019 as track-labelled corroboration plus a mechanism note (preparation, habit-reading, concealment); core §4.3 one paragraph; RS-I §3.2 note the second mechanism. No event merge. |
 | Status | open |
 
-### HSCA-057 — P2 — In a track outside her own bundle, Saki narrates the very motive transition the core's legacy verdict revises. She says she chose idolhood …
+### HSCA-057 — P2 — In a track outside her own bundle, Saki narrates the very motive transition the core's legacy verdict revises.
 
 | Field | Value |
 |---|---|
@@ -1289,16 +1311,16 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ D-MAO (Mao Dear 031, winter H.I.F. preparation; Saki is a supporting character in Mao's track). Saki's lines are a SELF_CLAIM about her own motive history; not to be inserted into the D-SAKI sequence. Ume's account in the same file (l.57–145) is Ume's observer report. |
 | Evidence | 咲季: 負けるわけには、いかないんです。/ 妹に、背中を見せ続けるのが、お姉ちゃんだから。/ ……だから、アイドルを選びました。/ 負けないために。/ でも、この初星で、ライバルたちと出会って。/ 『一番星』の背中を見て。/ ファンのみんなが、わたしを応援してくれて――/ アイドルが、好きになりました。/ だから、負けたくないんです。/ お姉ちゃんだから、じゃなくて――/ アイドルとして、佑芽に勝ちたい。/ お姉ちゃんなのに、そう思っちゃったんです。 (Ume, same file: やっと並んで走れたーって思ったら、フォームを変えて、また速くなって。) |
-| Existing treatment | None found (searched ROOT excl. 90*: dear_amao_031, Dear 031, アイドルとして、佑芽に勝ちたい, 負けないために, お姉ちゃんなのに; Mao core, Mao matrix, character/relationship ledgers, RS-I §3, RS-II). Saki core is SCOPE_LIMITED for D-MAO but holds the conclusions this text bears on: §0 ('Her older-sister identity remains central throughout. It does not simply disappear once she develops an ambition “for herself.” Instead, it expands into a theory of idolhood'); §8.1 ('Saki’s ambition cannot be separated cleanly into “personal” and “for Ume.” The two were co-authored from childhood'); §24 legacy table ('Arc moves from older-sister ambition to an ambition for herself' = REVISED; 'Saki becomes an idol for herself' = NARROWED… |
-| Deficiency | In a track outside her own bundle, Saki narrates the very motive transition the core's legacy verdict revises. She says she chose idolhood as an older sister 'so as not to lose'. Through rivals, the Prima Stella's back and fans she came to love idolhood. She now wants to beat Ume 'as an idol, not because I am the older sister', and experiences that wish as a transgression of the role ('お姉ちゃんなのに'). Analytical consequences missing from every canonical home: (1) Saki herself separates the sister motive and the idol motive cleanly, so §8.1's 'cannot be separated cleanly' needs qualifying; (2) the V1 claim 'older-sister ambition → ambition for herself' is partly vindicated in Saki's own words; (3) what persists is older-sisterhood as a normative constraint that makes the new desire feel illicit — a different inflection from D-SAKI's endpoint, where older-sisterhood expands into public vocati… |
-| Alternative | Adequacy defence: the core's thesis survives. The guilt shows older-sisterhood still binds Saki, which is exactly the core's claim that it does not disappear. §24 verdicts are labelled provisional and D-MAO is outside the core's declared scope. The scene may also be shaped for Mao's arc (sibling longing; Mao's own 'prince who stops being a prince'). Counter: the text is a first-person motive statement by Saki, unique in the corpus for its explicit 'as an idol, not as a sister' contrast. The canonical home for cross-track Saki motive (RS-I §3; character-state ledger) carries nothing, and §8.1'… |
+| Existing treatment | None found (searched ROOT excl. 90*: dear_amao_031, Dear 031, アイドルとして、佑芽に勝ちたい, 負けないために, お姉ちゃんなのに; Mao core, Mao matrix, character/relationship ledgers, RS-I §3, RS-II). Saki core is SCOPE_LIMITED for D-MAO but holds the conclusions this text bears on: §0 ('Her older-sister identity remains central throughout. It does not simply disappear once she develops an ambition “for herself.” Instead, it expands into a theory of idolhood'); §8.1 ('Saki’s ambition cannot be separated cleanly into “personal” and “for Ume.” The two were co-authored from childhood'); §24 legacy table ('Arc moves from older-sister ambition to an ambition for herself' = REVISED; 'Saki becomes an idol for herself' = NARROWED/REVISED). Mao core and the Mao ledger rows (D-MAO winter preparation, adv_dear_amao_028–035) do not record the Saki confession. |
+| Deficiency | In a track outside her own bundle, Saki narrates the very motive transition the core's legacy verdict revises. She says she chose idolhood as an older sister 'so as not to lose'. Through rivals, the Prima Stella's back and fans she came to love idolhood. She now wants to beat Ume 'as an idol, not because I am the older sister', and experiences that wish as a transgression of the role ('お姉ちゃんなのに'). Analytical consequences missing from every canonical home: (1) Saki herself separates the sister motive and the idol motive cleanly, so §8.1's 'cannot be separated cleanly' needs qualifying; (2) the V1 claim 'older-sister ambition → ambition for herself' is partly vindicated in Saki's own words; (3) what persists is older-sisterhood as a normative constraint that makes the new desire feel illicit — a different inflection from D-SAKI's endpoint, where older-sisterhood expands into public vocation (Dear 036 お姉ちゃんが先陣を切るわ); (4) the sibling motive is corroborated cross-track (Dear 008 idolhood chosen to beat Ume; D-SAKI Dear 028 わたしはわたしの意志で). Ume's account in the same scene (Saki 'changed her form and got faster again' whenever Ume drew level; reached back when Ume fell) is a benign, in-field version of the protected lead that complements, not replaces, the 勝ち逃げ confession. |
+| Alternative | Adequacy defence: the core's thesis survives. The guilt shows older-sisterhood still binds Saki, which is exactly the core's claim that it does not disappear. §24 verdicts are labelled provisional and D-MAO is outside the core's declared scope. The scene may also be shaped for Mao's arc (sibling longing; Mao's own 'prince who stops being a prince'). Counter: the text is a first-person motive statement by Saki, unique in the corpus for its explicit 'as an idol, not as a sister' contrast. The canonical home for cross-track Saki motive (RS-I §3; character-state ledger) carries nothing, and §8.1's wording is directly contradicted by Saki's self-description. P1 was considered (it touches a stated legacy verdict on Saki's core motive) but rejected: no thesis, stable observation or matrix claim becomes false; the needed change is qualification and track-labelling. |
 | Disposition | POTENTIALLY_CORRECTIVE |
 | Severity | P2 — Qualifies §8.1 and two §24 legacy verdicts with Saki's own cross-track motive statement; the older-sister-centrality thesis survives (in modified form: as felt constraint, not only as expanded vocation). |
 | Confidence | high |
 | Recommendation | RS-I §3 (Hanami system; bounded C1 @ D-MAO note, ideally beside the D-UME subsection proposed by hski-B2-F09): record Saki's D-MAO motive statement and the guilt it carries; Saki core §8.1: qualify 'cannot be separated cleanly' with a cross-track pointer ('Saki herself distinguishes the two motives in D-MAO Dear 031 and feels the idol motive as a breach of the sister role'); §24: annotate the two legacy rows; CHARACTER_STATE_LEDGER: add a D-MAO Saki row. Cross-assignment note to amao: the scene also carries Mao's 'prince who stops being a prince' reflection (l.434–438). |
 | Status | open |
 
-### HSCA-058 — P2 — D-SENA contains a second Saki trajectory in a track where she is not the protagonist Producer's idol, complementary to the D-UME trajectory…
+### HSCA-058 — P2 — D-SENA contains a second Saki trajectory in a track where she is not the protagonist Producer's idol, complementary to the D-UME trajectory filed as hski-B2-F09.
 
 | Field | Value |
 |---|---|
@@ -1306,18 +1328,18 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Subject | Hanami Saki |
 | Source identity | `adv_dear_jsna_025.txt` (`transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_025.txt`); `adv_dear_jsna_026.txt` (`transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_026.txt`); `adv_dear_jsna_027.txt` (`transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_027.txt`); `adv_dear_jsna_022.txt` (`transcripts_raw/05_dear_idol/jsna=Sena_Juo/dear_022.txt`) |
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
-| Story state | C1 @ D-SENA (Sena's Dear track: the protagonist Producer produces Sena, so Saki is not his idol in this track; whether Saki has another producer is unstated). N.I.A.: Ume plays 'the best day of her life' against Saki (jsna 022 l.469–533; Sena calls it 'Ume's story'); Kotone wins N.I.A. (jsna 024 l.151). Saki's loss to Ume is an INFERENCE from 022 plus Saki's 'stand before Ume once more' (025 l.58… |
+| Story state | C1 @ D-SENA (Sena's Dear track: the protagonist Producer produces Sena, so Saki is not his idol in this track; whether Saki has another producer is unstated). N.I.A.: Ume plays 'the best day of her life' against Saki (jsna 022 l.469–533; Sena calls it 'Ume's story'); Kotone wins N.I.A. (jsna 024 l.151). Saki's loss to Ume is an INFERENCE from 022 plus Saki's 'stand before Ume once more' (025 l.583). Summer H.I.F.: Sena wins; per Kotone, Tsubame second and Saki next (027 l.561–571). Must not be merged with D-SAKI, U1 or D-UME. |
 | Evidence | Dear 025: 咲季: アイドルに限界はないって、あなたが教えてくれたのよ。/ 燕: 『N.I.A』の期間中、咲季から声をかけられてな。花海トレーニングセンターで、特訓…… いや、共に修行を積んできた。/ 咲季: もう一度、佑芽の前に立つ。そのためならなんだってするわ。/ 咲季: たくさん……助けていただきました。ありがとうございます、燕先輩。/ 燕: 本音を言うとな……貴様の提案に乗ったのは、危うくて、とても放っておけなかったからだ。……結局、一度だって助けさせてはくれなかったな。……馬鹿者め。 / Dear 026 (星南 isInner): （選抜された生徒たちの中でも、数値が低いアイドルのもの）（不敵な笑顔で、分厚い壁に、何度も体当たりしていく姿）（もうひとりの私が、私の目の前で、限界を超えていく姿）/ 星南: ……もし、私が……プロデューサーと出逢わなかったなら。彼女こそが、私の救世主だったかもしれない。 / Dear 027: ことね: 雨夜先輩もいなかったら、絶対咲季が『一番星』でした。 |
-| Existing treatment | Sena-side only: GKM_CORE_12_JUO_SENA §25 ('Saki: “another me” and the rival Sena did not produce') and §36.3; SENA-C40 ('Saki functions as an independently formed “other self” and possible savior', evidence column 'Dear 025'); RELATIONSHIP_STATE_LEDGER row 'Sena - Saki ／ independent crown, `another me`, possible savior from solitude'. Saki side: none found. Searched Saki core (SCOPE_LIMITED for D-SENA), RS-I §3, RS-II §5 (Sena–Tsubame), Tsubame core, character-state ledger, BR-SAKI-SUMMER-CHAMPION, using 修行, 花海トレーニング, Hanami Training, 助けさせ, 危うくて, precarious, 救世主, もうひとりの私. The Tsubame–Saki alliance and Tsubame's 'you never once let me help' are analysed nowhere. hski-B2-F09 (D-UME Saki traje… |
-| Deficiency | D-SENA contains a second Saki trajectory in a track where she is not the protagonist Producer's idol, complementary to the D-UME trajectory filed as hski-B2-F09. The sequence: an implied N.I.A. loss to Ume; Saki herself recruits a senior (Tsubame) for 'hell' training at the Hanami Training Center; the senior joins because Saki looked 'precarious, impossible to leave alone', yet Saki 'never once let me help' even as she publicly thanks her for 'much help'; as a low-stat entrant Saki throws herself at 'a thick wall' and breaks her limits at the summer H.I.F., placing just behind Sena and Tsubame; the former Prima Stella reads her as 'another me' and a possible saviour in a world without the Producer. Saki-side consequences missing: (1) a further answer to H-SAKI-05's explicit test (continuation without the Producer). Here she continues and rises, with an ally present but help refused, in … |
-| Alternative | Adequacy defence: D-SENA is Sena's track and its Saki evidence is observer-heavy (Sena's inner monologue, Tsubame's report). The Sena core already records the mirror/saviour reading, and the Saki core's scope excludes other Dear tracks. Saki's 'たくさん助けていただきました' can be read as accepting help, Tsubame's line as affectionate exaggeration. Counter: Tsubame states her motive (危うくて、とても放っておけなかった) and the outcome (一度だって助けさせてはくれなかった) as a sincere aside ('本音を言うとな'). Saki's own lines establish the resolve and the self-initiated alliance. No Saki-side home connects any of this to H-SAKI-05, §4.4 or the D-… |
+| Existing treatment | Sena-side only: GKM_CORE_12_JUO_SENA §25 ('Saki: “another me” and the rival Sena did not produce') and §36.3; SENA-C40 ('Saki functions as an independently formed “other self” and possible savior', evidence column 'Dear 025'); RELATIONSHIP_STATE_LEDGER row 'Sena - Saki \| independent crown, `another me`, possible savior from solitude'. Saki side: none found. Searched Saki core (SCOPE_LIMITED for D-SENA), RS-I §3, RS-II §5 (Sena–Tsubame), Tsubame core, character-state ledger, BR-SAKI-SUMMER-CHAMPION, using 修行, 花海トレーニング, Hanami Training, 助けさせ, 危うくて, precarious, 救世主, もうひとりの私. The Tsubame–Saki alliance and Tsubame's 'you never once let me help' are analysed nowhere. hski-B2-F09 (D-UME Saki trajectory) is the nearest Saki-side finding. |
+| Deficiency | D-SENA contains a second Saki trajectory in a track where she is not the protagonist Producer's idol, complementary to the D-UME trajectory filed as hski-B2-F09. The sequence: an implied N.I.A. loss to Ume; Saki herself recruits a senior (Tsubame) for 'hell' training at the Hanami Training Center; the senior joins because Saki looked 'precarious, impossible to leave alone', yet Saki 'never once let me help' even as she publicly thanks her for 'much help'; as a low-stat entrant Saki throws herself at 'a thick wall' and breaks her limits at the summer H.I.F., placing just behind Sena and Tsubame; the former Prima Stella reads her as 'another me' and a possible saviour in a world without the Producer. Saki-side consequences missing: (1) a further answer to H-SAKI-05's explicit test (continuation without the Producer). Here she continues and rises, with an ally present but help refused, in the fierce, self-reliant mode that D-SAKI Dear 023 attributes to the Producer-less Saki (彼女ひとりで進んだであろう覇道…もっとも過酷で、苛烈な道). (2) Combined with D-UME (Sena/Rinha retreat; 'invincible' full sprint), the recurring post-N.I.A.-loss pattern outside D-SAKI is solitary or ally-assisted combustion with help refused — not the witnessed dependence of D-SAKI. That bounds §4.4 and the D-SAKI 'Producer-centred' reading. (3) BR-SAKI-SUMMER-CHAMPION lists only D-SAKI and U1 summer outcomes. Secondary, routed to jsna: the 'another me' and 救世主 lines are in Dear 026 (l.196–218), not Dear 025 as Sena core §25 and SENA-C40 state; Dear 025 carries the Saki–Tsubame scene. |
+| Alternative | Adequacy defence: D-SENA is Sena's track and its Saki evidence is observer-heavy (Sena's inner monologue, Tsubame's report). The Sena core already records the mirror/saviour reading, and the Saki core's scope excludes other Dear tracks. Saki's 'たくさん助けていただきました' can be read as accepting help, Tsubame's line as affectionate exaggeration. Counter: Tsubame states her motive (危うくて、とても放っておけなかった) and the outcome (一度だって助けさせてはくれなかった) as a sincere aside ('本音を言うとな'). Saki's own lines establish the resolve and the self-initiated alliance. No Saki-side home connects any of this to H-SAKI-05, §4.4 or the D-UME trajectory. P2 rather than P1 because hski-B2-F09 already raises the same structural gap at P1; this finding adds a second track and the help-refusal detail. |
 | Disposition | CROSS_REFERENCE_GAP |
 | Severity | P2 — Adds a second track to an already-filed P1 gap (hski-B2-F09) and a specific counter-pattern (help refused) bearing on H-SAKI-05 and §4.4; the D-SAKI conclusions themselves remain valid within their track. |
 | Confidence | medium |
-| Recommendation | Implement together with hski-B2-F09: in the proposed RS-I §3 bounded subsection on non-D-SAKI Saki trajectories, add a C1 @ D-SENA row (implied N.I.A. loss to Ume; self-initiated Hanami-centre alliance with Tsubame; help refused; low-stat limit-breaking summer live; third behind Sena and Tsubame; Sena's 'another me'). Saki core §19 H-SAKI-05 partial test: add D-SENA beside D-UME ('continuation without the Producer occurs; ally present; help refused'). BR-SAKI-SUMMER-CHAMPION: add the D-SENA state (Sena champion; Saki third per Kotone). RELATIONSHIP_STATE_LEDGER: a Saki ↔ Tsubame D-SENA row. R… |
+| Recommendation | Implement together with hski-B2-F09: in the proposed RS-I §3 bounded subsection on non-D-SAKI Saki trajectories, add a C1 @ D-SENA row (implied N.I.A. loss to Ume; self-initiated Hanami-centre alliance with Tsubame; help refused; low-stat limit-breaking summer live; third behind Sena and Tsubame; Sena's 'another me'). Saki core §19 H-SAKI-05 partial test: add D-SENA beside D-UME ('continuation without the Producer occurs; ally present; help refused'). BR-SAKI-SUMMER-CHAMPION: add the D-SENA state (Sena champion; Saki third per Kotone). RELATIONSHIP_STATE_LEDGER: a Saki ↔ Tsubame D-SENA row. Route to jsna: correct Sena core §25 / SENA-C40 locator to Dear 026. |
 | Status | open |
 
-### HSCA-059 — P2 — Inside D-UME the victory over Saki is reversed at the very next contest: Sena wins summer H.I.F., Saki outscores Ume and declares she has c…
+### HSCA-059 — P2 — Inside D-UME the victory over Saki is reversed at the very next contest: Sena wins summer H.I.F., Saki outscores Ume and declares she has caught up, Ume laughs and says she knew one overtaking would not end their contest, openly uses the once-banned word ('あたしの負けだよ', banned in Dear 005), and Saki names Ume, not Prima Stella Sena, her sworn rival.
 
 | Field | Value |
 |---|---|
@@ -1336,7 +1358,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a D-UME summer-H.I.F. state (Sena Prima Stella; Saki over Ume) to the Branch Divergence Ledger and the Character State Ledger Ume section; cite Dear 022 in RS-I §3.6/§12.1 as the Ume-side same-track instance of repeatable arrival; in a core addendum note the ban-to-explicit-loss thread (Dear 005 ban -> Dear 022 'あたしの負けだよ' -> P3 final-failure '約束を破ります'). |
 | Status | open |
 
-### HSCA-060 — P2 — The only Source-Lock scene showing Ume as reigning Prima Stella outside D-UME records Ume-side facts no canonical home carries: the title i…
+### HSCA-060 — P2 — The only Source-Lock scene showing Ume as reigning Prima Stella outside D-UME records Ume-side facts no canonical home carries: the title is experienced as weight (relief at being 'my sister's little sister' again); world-scale competition humbles her (badly beaten abroad, many summits, 'my dream had a beyond'); and she re-opens the sister race by childlike pleading until Saki promises to run ahead of her, then accepts the challenge as Prima Stella.
 
 | Field | Value |
 |---|---|
@@ -1355,7 +1377,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add D-SAKI Dear 033 to RS-I §3.6 and §12.1 (Ume-side: title weight, overseas humbling, re-invitation) and to the Relationship State Ledger D-SAKI sequence; reference it from OPEN-UME-02/-08 in a Ume addendum, labelled C1 @ D-SAKI. Saki's inner counterfactual in the same file is for hski-B. |
 | Status | open |
 
-### HSCA-061 — P2 — A recurrent Ume pattern is not synthesized: replacement anxiety distributed over both primary attachments. The rival she imagines hating is…
+### HSCA-061 — P2 — A recurrent Ume pattern is not synthesized: replacement anxiety distributed over both primary attachments.
 
 | Field | Value |
 |---|---|
@@ -1366,7 +1388,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | Labelled per scene: D-UME Dear 010-01, 017, 027 (C1 @ D-UME); M-UME CIDOL 009, 012, 016 (C2/C4 modular); M-UME pevent_003 activity_021; P1[UME] true-labelled ending (C3); D-SAKI Dear 017; C1 @ U1 ep01 part02 and ep02 part08 |
 | Evidence | 佑芽: しいていえば……あたしみたいな子……かなぁ。お姉ちゃんのことが大好きで、あたしよりも実力があって、…プロデューサーさんにも認められてて。…だいっ嫌いです！！！！(dear_hume_010-01) / 佑芽: あたし、嫉妬しちゃってたみたいです！…――お姉ちゃんにも。あたしのプロデューサーさんなのに……取っちゃやだって。(cidol-hume-3-009_03) / 『妹』……かぁ～。違うんだよなぁ～。…かわいく見てほしいんだぁ……(cidol-hume-3-012_02) |
 | Existing treatment | GKM_CORE_10 §5 lists 'open jealousy' as communicative style; §25 table ('can hold … jealousy … simultaneously'); §18 cute-recognition (CIDOL 012) without the jealousy and the explicit rejection of the 'doted-on sister' frame; Ume AV dialogue close reading §7 ('Jealousy and reassurance-seeking can appear directly'); sister-category jealousy covered in Support S2 story_0047, S3 story_0003 and story_0052 readings and Events 016; RS-I §3.8 (mainly Saki's jealousy). |
-| Deficiency | A recurrent Ume pattern is not synthesized: replacement anxiety distributed over both primary attachments. The rival she imagines hating is a better version of herself who loves Saki and is recognized by the Producer (Dear 010-01); she checks that the Producer prefers her to Saki (Dear 017); she is jealous of Saki and of the Producer at once over their secret meetings (CIDOL 009), of Sena's ten-hour talk with him and of being seen as his 'doted-on sister' (CIDOL 012), of his praise of Sena/Misuzu (CIDOL 016) and of her father as his other idol (Dear 027); with Saki she claims exclusivity ('お姉ちゃんは、あたしだけのお姉ちゃん', activity_021) and sulks at Saki's new unit (U1 02_08). This links to the core's abandonment structure (fear of being displaced, not only left behind) and to romance-coded Producer material (CIDOL 009_02 romance manga and Hiro's '恋愛のことになると、直感と判断力がにぶる'; P1 true-end '出逢った瞬間から大好きでした')… |
+| Deficiency | A recurrent Ume pattern is not synthesized: replacement anxiety distributed over both primary attachments. The rival she imagines hating is a better version of herself who loves Saki and is recognized by the Producer (Dear 010-01); she checks that the Producer prefers her to Saki (Dear 017); she is jealous of Saki and of the Producer at once over their secret meetings (CIDOL 009), of Sena's ten-hour talk with him and of being seen as his 'doted-on sister' (CIDOL 012), of his praise of Sena/Misuzu (CIDOL 016) and of her father as his other idol (Dear 027); with Saki she claims exclusivity ('お姉ちゃんは、あたしだけのお姉ちゃん', activity_021) and sulks at Saki's new unit (U1 02_08). This links to the core's abandonment structure (fear of being displaced, not only left behind) and to romance-coded Producer material (CIDOL 009_02 romance manga and Hiro's '恋愛のことになると、直感と判断力がにぶる'; P1 true-end '出逢った瞬間から大好きでした') that the core neither analyzes nor explicitly brackets under the RS-I §1.3 romance-control rule. |
 | Alternative | Adequacy defence: most scenes are comic; §18 handles the most consequential Producer-recognition scene; sister jealousy is covered by support readings; AV close reading flags Producer-directed jealousy; RS-I deliberately avoids romance labels. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Meaningful psychological refinement (triangulated replacement anxiety; Producer-directed possessiveness) tied to the abandonment thesis and OPEN-UME-05; the thesis is unchanged. |
@@ -1374,7 +1396,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | In a Ume addendum or RS-II §9 (Producer node): add a bounded note that Ume's jealousy is triangulated (Saki <-> Producer) and functions as replacement anxiety, with Dear 010-01 and CIDOL 009_03 as principal locators; record the romance-coded material under RS-I §1.3 / OPEN-RS1-09 without assigning a label. |
 | Status | open |
 
-### HSCA-062 — P2 — Recipient-side ambivalence is missing: Saki's consolation completes the defeat cycle ('また負けた'); her predictable praise after a marginal pas…
+### HSCA-062 — P2 — Recipient-side ambivalence is missing: Saki's consolation completes the defeat cycle ('また負けた'); her predictable praise after a marginal pass is 'すごーく悔しい'; Ume withholds reports from Saki until she can boast, while her first impulse on praise is to report to the Producer; she voices debt to Saki (D-SAKI 005); treats Saki's creed as arrogant in her own mouth (P1); counts Saki among those who underrate her (activity_020); and needs Saki to stay invincible: relief at the draw (Dear 010), grief that her own loss lowers Saki's standing (CIDOL 006_01).
 
 | Field | Value |
 |---|---|
@@ -1393,7 +1415,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to a Ume addendum, or as a 'Ume receiving Saki's care' paragraph in RS-I §3.7: care as reminder of the gap; debt framing and Saki's 'threaten me' answer; reporting asymmetry (Producer as safe recipient of success); the invincibility wish (promote UME-C10 into prose). Keep P1 branch labels separate. |
 | Status | open |
 
-### HSCA-063 — P2 — The core reports Ume's retrospective understanding but not the means: a pre-camp no-contact rule with Saki that Ume accepted without knowin…
+### HSCA-063 — P2 — The core reports Ume's retrospective understanding but not the means: a pre-camp no-contact rule with Saki that Ume accepted without knowing why, and the Producer's covert co-production of her father as a rival, including secret consultations about the sisters' burnout risk.
 
 | Field | Value |
 |---|---|
@@ -1412,7 +1434,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Qualify GKM_CORE_10 §10 / UME-C12 in an addendum: record the no-contact rule and covert production as method; cross-reference RS-II §9.5 and OPEN-UME-05. |
 | Status | open |
 
-### HSCA-064 — P2 — The flagged Ume-side reading is still missing. In D-HIRO, Ume (who debuted first) loses openly to Hiro at N.I.A. ('あたしの負けだね') and vows rema…
+### HSCA-064 — P2 — The flagged Ume-side reading is still missing.
 
 | Field | Value |
 |---|---|
@@ -1422,7 +1444,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | C1 @ D-HIRO: Dear 008 (Ume debuts first) -> Dear 013 -> Dear 016 (N.I.A. QUARTET: Hiro beats Ume) -> Dear 030 (winter H.I.F. selection) -> Dear 036 (Hiro Prima Stella). Not D-UME; outside the Ume core's declared boundary |
 | Evidence | 佑芽: ……あたしの負けだね。広ちゃん。…負けっぱなしは、くやしいもん！(dear_shro_016) / 佑芽: やっとみんなに追いついた……やっとスタートラインに立ったんだ。/ 広: 千奈。勝手に置いていかれた気になってたのは、わたしたちだけだった、ね。/ 佑芽: も～、ふたり仲良く先に行っちゃって、さみしかったんだからね～？(dear_shro_030) |
-| Existing treatment | Hiro side covered: GKM_CORE_07 §5 (Dear 008) and the Dear 013-17 paragraph (Ume as the first idol Hiro sees, admires, envies, defeats and calls a rival); Character State Ledger 'D-HIRO jealousy hinge' (Hiro 'hates being left behind'); Relationship State Ledger 'Hiro <-> Ume ／ Dear 008-17, 30-34' with the note 'Ume-side bilateral reading still pending'. RS-II §4 (trio friendship and rivalry) does not use the Dear 030 exchange. GKM_CORE_10 §1/§12 and RS-I §3.2/§3.5.1 tie Ume's left-behind affect to Saki only. Ume core: SCOPE_LIMITED. Searched: shro_030, 置いていかれ, さみしかった, 'left behind'. |
+| Existing treatment | Hiro side covered: GKM_CORE_07 §5 (Dear 008) and the Dear 013-17 paragraph (Ume as the first idol Hiro sees, admires, envies, defeats and calls a rival); Character State Ledger 'D-HIRO jealousy hinge' (Hiro 'hates being left behind'); Relationship State Ledger 'Hiro <-> Ume \| Dear 008-17, 30-34' with the note 'Ume-side bilateral reading still pending'. RS-II §4 (trio friendship and rivalry) does not use the Dear 030 exchange. GKM_CORE_10 §1/§12 and RS-I §3.2/§3.5.1 tie Ume's left-behind affect to Saki only. Ume core: SCOPE_LIMITED. Searched: shro_030, 置いていかれ, さみしかった, 'left behind'. |
 | Deficiency | The flagged Ume-side reading is still missing. In D-HIRO, Ume (who debuted first) loses openly to Hiro at N.I.A. ('あたしの負けだね') and vows rematches. By the winter selection she describes herself as the late arrival who has 'finally caught up with everyone… finally reached the start line', and says she was lonely when the other two went ahead. Hiro and China had believed Ume left them behind. Two consequences have no canonical home: (i) Ume's slow-starter / catching-up / left-behind structure is not Saki-specific; it recurs with her friends in another track; (ii) the Worst Three contain a reciprocal 'who left whom behind' misperception that structurally mirrors the Hanami reciprocal abandonment fear in RS-I §3.5.1.3. |
 | Alternative | Adequacy defence: the tone is light ('さみしかったんだからね～？'); RS-II §4 already states that friendship and rivalry coexist and that hierarchy reverses by domain; the Ume core is bounded to her own bundle; Hiro's side of the exchange is covered. |
 | Disposition | OMITTED |
@@ -1431,7 +1453,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add the D-HIRO Ume-side reading to RS-II §4 (a 'reciprocal misperception of pace' paragraph, labelled C1 @ D-HIRO) and close the 'Ume-side bilateral reading still pending' note in the Relationship State Ledger; cross-reference from RS-I §3.5.1.3 as a non-Hanami instance of the reciprocal left-behind fear. |
 | Status | open |
 
-### HSCA-065 — P2 — The tranche records the plateau belief but not that Sena withholds it from Tsubame inside the very exchange used to illustrate witness: Tsu…
+### HSCA-065 — P2 — The tranche records the plateau belief but not that Sena withholds it from Tsubame inside the very exchange used to illustrate witness: Tsubame detects distraction and receives the junior-production explanation, while Sena promises 全身全霊 and inwardly apologizes that she can no longer remain Tsubame's rival.
 
 | Field | Value |
 |---|---|
@@ -1450,7 +1472,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to tranche §2.4 (or §10.1) a bounded qualification: 'Tsubame detects affect, not content; Sena conceals the plateau belief from her and inwardly apologizes (013-05 #044-046) while promising full commitment.' Append the same to the Relationship ledger Sena↔Tsubame E013 row; optional RS-II §5.4 note that Tsubame's growth demand meets an undisclosed plateau. |
 | Status | open |
 
-### HSCA-066 — P2 — Sena's own account of the 'perfect king' public form is not drawn out: she calls the alumni joint live 'the idol ideal itself' (for her you…
+### HSCA-066 — P2 — Sena's own account of the 'perfect king' public form is not drawn out: she calls the alumni joint live 'the idol ideal itself' (for her younger self), says ideals are person- and era-relative, describes her own path as continually choosing the direction that maximizes her ability values, and then disowns Tsubame's 'ideal form' praise ('for you, perhaps').
 
 | Field | Value |
 |---|---|
@@ -1460,7 +1482,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | E021 modular senior (3rd-year) state, ~1 year after Sena's first Prima Stella; private scene at Tsubame's home; no Producer route |
 | Evidence | 星南: この初星卒業生の合同ライブは、当時の私にとって――アイドルの理想、そのものだった。 / 星南: 私は私の能力値を最大化させる方向性を選び続ける。……それだけよ。 / 燕: 完璧で、隙がなく、王者のように振舞うアイドル――まさに理想形だろう。 / 星南: 燕にとっては、そうでしょうね。 |
-| Existing treatment | EVENTS_021_PLUS §2.3 (reads the scene only through Tsubame's answer: the perfect persona 'is understood by intimate peers as an achievement'); §10 Sena row; CSL Phase-4 E021+ Sena row ('E021 private imperfection strengthens Tsubame's fandom'); RS II §5.3/§5.5. Sena core §4 (stat vision: measurement becoming fatalism) and §9 (finished perfection vs dynamic excellence) are the directly relevant Phase-3 homes. No canonical home quotes or interprets the 能力値 / 理想 distinction (grep 能力値／最大化／maximi[sz] across ROOT excl. 90*: no Sena hit). |
+| Existing treatment | EVENTS_021_PLUS §2.3 (reads the scene only through Tsubame's answer: the perfect persona 'is understood by intimate peers as an achievement'); §10 Sena row; CSL Phase-4 E021+ Sena row ('E021 private imperfection strengthens Tsubame's fandom'); RS II §5.3/§5.5. Sena core §4 (stat vision: measurement becoming fatalism) and §9 (finished perfection vs dynamic excellence) are the directly relevant Phase-3 homes. No canonical home quotes or interprets the 能力値 / 理想 distinction (grep 能力値\|最大化\|maximi[sz] across ROOT excl. 90*: no Sena hit). |
 | Deficiency | Sena's own account of the 'perfect king' public form is not drawn out: she calls the alumni joint live 'the idol ideal itself' (for her younger self), says ideals are person- and era-relative, describes her own path as continually choosing the direction that maximizes her ability values, and then disowns Tsubame's 'ideal form' praise ('for you, perhaps'). The consequence for Sena's self-model (persona as stat-optimizing strategy rather than her ideal or self-expression) is missing from the tranche and from every cumulative home, and the scene is not linked to core §4/§9 where it applies directly. |
 | Alternative | Adequacy defence: core §4/§9 already model Sena's perfection as a constructed office driven by measurement logic, and RS II §5.5 says the public form is an achievement rather than fraud; the line can be absorbed under those claims. Competing reading: '能力値を最大化' may be professional idiom, not self-theory. Against that, Sena immediately qualifies Tsubame's 'ideal' praise and then asks why Tsubame is not disillusioned, so the line is doing self-characterizing work. |
 | Disposition | UNDERWEIGHTED |
@@ -1469,7 +1491,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a short paragraph to EVENTS_021_PLUS §2.3 (or a note on the CSL Phase-4 E021+ Sena row) recording Sena's ability-maximization rationale and its distinction from her childhood 'idol ideal', with pointers to Sena core §4 and §9. Keep it modular: E021 does not place this against the D-SENA mask-dismantling arc. |
 | Status | open |
 
-### HSCA-067 — P2 — The scene shows concealed authorship, not a decision taken for Kotone. The school issued the request; Kotone accepted it ('引き受けてくれてよかった'), …
+### HSCA-067 — P2 — The scene shows concealed authorship, not a decision taken for Kotone.
 
 | Field | Value |
 |---|---|
@@ -1488,7 +1510,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Narrow GKM_SUPPORT_SERIES_02_PART_051_074_DEEP_READING.md §20 Phase-6 warning, §28.12 and §33.7, and the CSL Sena row, to: 'conceals her authorship to pre-empt a refusal based on who proposed it; Kotone retains and exercises the choice to accept; Temari reads this as clumsiness.' Keep the informed-consent caution; drop 'authority to decide for Kotone' as unsupported by this scene. |
 | Status | open |
 
-### HSCA-068 — P2 — In the same scene Sena makes explicit superiority claims ('何度やっても結果は同じよ', 'まだまだ燕に負けるつもりはないわ', '私のダンスの方が完成度は高い') and laughs at Tsubame's ang…
+### HSCA-068 — P2 — In the same scene Sena makes explicit superiority claims ('何度やっても結果は同じよ', 'まだまだ燕に負けるつもりはないわ', '私のダンスの方が完成度は高い') and laughs at Tsubame's anger.
 
 | Field | Value |
 |---|---|
@@ -1517,16 +1539,17 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified for dear_hski_024 and dear_kllj_036; others A2 |
 | Story state | Other idols' Dear tracks, each C1 @ own track: D-SAKI post-summer-H.I.F. (Sena lost the title to Ume after producing her); winter H.I.F. in D-UME / D-TEMARI / D-MISUZU / D-MAO / D-RINAMI / D-LILJA / D-SUMIKA (Sena loses her last H.I.F.). Plus canonical anchor D-TSUBAME Dear 021–024 (Tsubame core §20). Never D-SENA. |
 | Evidence | hski_024 星南「今日の私は、アイドルじゃなかった。はじまる前から、心折れていた。」「あの子を育てるプロデューサーとしての日々が、あまりにも楽しかったから。」「なにもかもを継承して……まるで抜け殻。」「プロデューサーとしての私は、今日の結果に満足しているの。けれどっ！」/ kllj_036「私自身、最後の『H.I.F』で敗退してしまったけれど……まだアイドルとして頑張りたい、と。あなたのせいで、そう思ったわ。」/ hume_036「私の完敗よ。あなたにも、プロデューサーにもね。」 |
-| Existing treatment | Recipient homes hold the interpretations: Saki core §3.2.10 and §12.5 ('Sena became hollow after producing Ume into the title'; 'identity can be emptied by successful succession'; present since 9957068c); Tsubame core §20–21 ('Sena's second retirement crisis': early retirement when Tsubame's parameters exceed hers; Sena admits she used Tsubame's growth to abandon her own desire); Kotone core §3.2.9/§10.5; Mao core §7.4 (tower); Lilja core (D-LILJA: Lilja's performance gave Sena courage); relationship ledger Saki/Temari/Mao/Rinami/Sumika/Misuzu ↔ Sena rows (several flagged 'require Sena core counterreading'). Sena homes: core OPEN-SENA-12 ('not the full mature consequence of losing'); AV add… |
-| Deficiency | Source Lock 1.0 holds many post-summit Sena defeats and a recurrent retirement/hollowing pattern, analysed piecemeal in recipient cores but routed to no Sena-model home: (1) D-SAKI executes the successor model (Project Supernova: dream, role, songs and title handed over) and leaves a hollow idol self while the producer self is 'satisfied' — direct evidence for core §6's self-erasure diagnosis and a limit on §15's integration claim (integration is D-SENA-contingent); (2) D-TSUBAME and U1 (F01) show retirement re-triggered at late states by being numerically overtaken, contrary to the continuity ledger's 'early-state solution' framing when read cross-track; (3) winter-H.I.F. concessions across seven Dear tracks show gracious defeat with renewed idol commitment (D-LILJA explicit). Together they answer much of OPEN-SENA-12/SN-R18 at cross-track scope and name generative supremacy's characte… |
+| Existing treatment | Recipient homes hold the interpretations: Saki core §3.2.10 and §12.5 ('Sena became hollow after producing Ume into the title'; 'identity can be emptied by successful succession'; present since 9957068c); Tsubame core §20–21 ('Sena's second retirement crisis': early retirement when Tsubame's parameters exceed hers; Sena admits she used Tsubame's growth to abandon her own desire); Kotone core §3.2.9/§10.5; Mao core §7.4 (tower); Lilja core (D-LILJA: Lilja's performance gave Sena courage); relationship ledger Saki/Temari/Mao/Rinami/Sumika/Misuzu ↔ Sena rows (several flagged 'require Sena core counterreading'). Sena homes: core OPEN-SENA-12 ('not the full mature consequence of losing'); AV addendum SN-R18 ('mature Sena can metabolize defeat — OPEN: current route verifies fear and victory, not a later major defeat'); character-state ledger Sena section has no defeat/cross-track retirement state; RS-II §8.6/§13.7 cite neither D-SAKI hollowing nor D-TSUBAME/U1 retirement; branch ledger only 'meaning of retirement, loss and ownership changes substantially by track'. |
+| Deficiency | Source Lock 1.0 holds many post-summit Sena defeats and a recurrent retirement/hollowing pattern, analysed piecemeal in recipient cores but routed to no Sena-model home: (1) D-SAKI executes the successor model (Project Supernova: dream, role, songs and title handed over) and leaves a hollow idol self while the producer self is 'satisfied' — direct evidence for core §6's self-erasure diagnosis and a limit on §15's integration claim (integration is D-SENA-contingent); (2) D-TSUBAME and U1 (F01) show retirement re-triggered at late states by being numerically overtaken, contrary to the continuity ledger's 'early-state solution' framing when read cross-track; (3) winter-H.I.F. concessions across seven Dear tracks show gracious defeat with renewed idol commitment (D-LILJA explicit). Together they answer much of OPEN-SENA-12/SN-R18 at cross-track scope and name generative supremacy's characteristic failure mode — abdication/hollowing when surpassed by those she raised — reversed by rivals rather than by the D-SENA Producer. |
 | Alternative | OPEN-SENA-12/SN-R18 are explicitly scoped to the D-SENA 'reformed crown'; other tracks' defeats concern differently configured Senas and cannot be merged; the facts already sit in recipient cores and the relationship ledger, reachable through RS-II §16.3. The gap is routing and synthesis, not error. |
 | Disposition | CROSS_REFERENCE_GAP |
 | Severity | P2 — Interpretations exist canonically and the thesis survives (is corroborated); Sena's own homes nonetheless declare the question open and no home states the recurrent failure mode — meaningful qualification, not interpretation-changing. |
 | Confidence | high |
 | Recommendation | Add track-labelled cross-track rows to the character-state ledger Sena section (D-SAKI hollow → Project Stardust; D-TSUBAME second retirement crisis; U1 per F01; winter-H.I.F. concessions by track) and a routing note in the AV addendum (SN-R18) or RS-II §13.7 to Saki core §3.2.10/§12.5 and Tsubame core §20–21. |
 | Status | open |
+| Merged members | jsna-S-F01 (CROSS_REFERENCE_GAP, P2): Supplements jsna-B-F02 with the strongest instance. D-TSUBAME gives Sena a full defeat → self-belittlement → stat-cap retirement → retraction cycle, with Sena-side psychology the Sena homes never record: (a) the retirement plan predates the route here as in D-SENA Dear 001, so it is a cross-track pre-route invariant; (b) Sena's eye misjudges Tsubame ('燕が、私に挑むわけない…私には勝てないから', Dear 008), then she concedes 'I was wrong' (relevant to jsna-B-F04); (c) retirement is re-triggered late by numerical overtaking ('実力不足で、可能性もない'), the same trigger as U1 (jsna-B-F01); (d) she experiences retirement as release ('アイドルから解放された') and admits fear of being left behind. That adds a liberation component to the core's displaced-desire reading (SENA-C03) and links it to core §5's missing ordinary childhood. D-CHINA and D-HIRO add two more post-summit defeats met with open frustration and graceful handover. |
 
-### HSCA-070 — P2 — The only named origin of Sena's ceiling belief — she took Prima Stella from Murasame Shuka, Shuka skipped winter H.I.F. and debuted as a 10…
+### HSCA-070 — P2 — The only named origin of Sena's ceiling belief — she took Prima Stella from Murasame Shuka, Shuka skipped winter H.I.F.
 
 | Field | Value |
 |---|---|
@@ -1545,7 +1568,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add Shuka to the NPC ledger (previous Prima Stella; 100Pro top idol; D-MISUZU 030/031/034) and a track-labelled pre-route-memory note to the character-state ledger Sena section and side-character synthesis §5 (100Pro horizon), marked compatible-with but not imported into D-SENA. |
 | Status | open |
 
-### HSCA-071 — P2 — Dear 002 defines the sight as reading current values and full-growth limits; Dear 014 falsifies the limit reading for Sena herself (measure…
+### HSCA-071 — P2 — Dear 002 defines the sight as reading current values and full-growth limits; Dear 014 falsifies the limit reading for Sena herself (measured stats rise past her 'upper limit' after unconventional training outside the academy; Producer: only extremely hard to raise, not the limit).
 
 | Field | Value |
 |---|---|
@@ -1564,7 +1587,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Narrow SENA-C05 via addendum/ledger: 'accurate for present values; limit/potential readings fallible (Dear 014 self; Rinami cidol 007; Ume E005; Hiro supports)'; note Dear 014's training-environment factor. |
 | Status | open |
 
-### HSCA-072 — P2 — The core frames Sena's starting point as long-held perfect supremacy plus stat-vision fatalism. The source documents childhood struggle, po…
+### HSCA-072 — P2 — The core frames Sena's starting point as long-held perfect supremacy plus stat-vision fatalism.
 
 | Field | Value |
 |---|---|
@@ -1593,7 +1616,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | M-CHINA (cidol rank 3 ep 009, Hinamatsuri; memory = China's 'first memory', pre-Hatsuboshi childhood) linked to D-CHINA Dear 008-009 (first live). Memory is MEMORY_FLASHBACK narrated by China; not a scene shown. |
 | Evidence | 幼い頃は、ほとんどお会いすることができなくて……さみしくて泣いてしまったこともありますわ。/ わたくしのわがままで、責務の邪魔をしてはならないのです。/ 泣いても、なにも状況は変わらないと。(cidol 009_02) ; 少し前まで、ご意思に逆らうことなんて……考えもしませんでしたわ。(Dear 009) ; 実はわたくし、わがままお嬢様なんですのよ。(Dear 008) |
-| Existing treatment | Core §2 ('Her initial poverty is not material'; 'China's needs were met so reliably'), §25 'Governing wound / deficit: Not deprivation, but underdeveloped self-authorship in a life where other people reliably met needs'; matrix CHINA-C01; AV addendum row 'initial deficit is lack of self-authored stakes' = STRENGTHEN; core §9/§19 cite only cidol 009_03 (愛された責任). The absence IS carried in AV homes: Music close reading §5.1/§5.4 ('relatives were often absent'; 'inheritance includes affection, absence'), Complete AV baseline §6.3 and §13.3 ('gatherings and care are partly responses to earlier absence and loss'). Character State Ledger row 'C-CHINA family roots' ('affection has history and hiera… |
+| Existing treatment | Core §2 ('Her initial poverty is not material'; 'China's needs were met so reliably'), §25 'Governing wound / deficit: Not deprivation, but underdeveloped self-authorship in a life where other people reliably met needs'; matrix CHINA-C01; AV addendum row 'initial deficit is lack of self-authored stakes' = STRENGTHEN; core §9/§19 cite only cidol 009_03 (愛された責任). The absence IS carried in AV homes: Music close reading §5.1/§5.4 ('relatives were often absent'; 'inheritance includes affection, absence'), Complete AV baseline §6.3 and §13.3 ('gatherings and care are partly responses to earlier absence and loss'). Character State Ledger row 'C-CHINA family roots' ('affection has history and hierarchy'). Dear 009's first defiance of the grandfather: no canonical home (grep 逆らう/defi*). |
 | Deficiency | The core's causal model of China's deficit (abundance -> noncommitment; needs reliably met; 'not deprivation') was never revised against cidol 009_02, which gives China's own earliest memory as affective absence and a learned rule that her wishes are 'わがまま' that must not obstruct the family's duties. The doting 'pampered' regime is a later compensation that began when a maid apprentice petitioned the grandfather. This supplies an origin for China's deference to family will, which Dear 009 explicitly marks as broken for the first time ('少し前まで…考えもしませんでした'), and recasts her self-labelling as 'わがままお嬢様' (Dear 008, said in order to keep the Producer) as a reclaimed word. The AV baseline records the absence, but the core, matrix C01 and AV addendum keep 'not deprivation / needs reliably met' unqualified, and the deference-to-defiance step (Dear 009) is not registered anywhere. |
 | Alternative | Adequacy defence: the core explicitly concerns *material* poverty and calls 'nothing' retrospective rhetoric (C01 counterpressure); the absence ended in early childhood and China now narrates it with a smile ('いまのわたくしなら、笑ってそう言えます'); the AV baseline already ties absence to the 愛された責任 debt risk (§13.3). The point qualifies rather than overturns the self-authored-stakes thesis. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -1601,8 +1624,9 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Confidence | high |
 | Recommendation | Annotate CHINA-C01 / core §25 (via a revision addendum, not body edit) with the cidol 009_02 qualification: early affective absence + learned 'my wishes are わがまま' rule; cross-reference AV baseline §13.3; add Dear 009 first defiance of the grandfather to the Character State Ledger D-CHINA privilege-audit row. |
 | Status | open |
+| Merged members | SP-5-B-F02 (CROSS_REFERENCE_GAP, P2): China's only first-person account of childhood unhappiness appears in the support corpus: she longed for a lively, warm home, had lessons every day, never visited friends, and cried over why she was different. The tranche states the consequence correctly. No cumulative or synthesis home carries it, though, and the Phase-3 China core frames her childhood lack purely as an absence of self-authored stakes ('needs were met so reliably'). The core's 'not deprivation' line is literally compatible with the scene. But a later reader who goes from the core to the ledgers will not learn that China's childhood also lacked ordinary peer access and felt unlike a warm home to her.<br>SP-5-B-F03 (UNDERWEIGHTED, P2): The tranche takes China's reassurance ('only briefly troubled; now I don't mind; I have age-near family; it's always lively') as a settled description of present family belonging. Three textual cues point to a more qualified reading. First, 家族 carries emphasis markup, which flags a non-literal use; the age-near people in her household are most plausibly staff such as Kanae, whom the side-characters synthesis already calls a same-age companion. Second, China herself says the maids kept her company at night. Third, Kotone answers with an extended silent ellipsis instead of agreeing. Separately, in 0072_02 first-year China openly envies the dorm residents for being with friends every day. That is present-tense evidence of the same peer-access gap, and it is absent from tranche §23. The tranche reports China's self-claim without marking it as a self-claim or recording the scene's counter-signal. |
 
-### HSCA-074 — P2 — The corpus models China's surface as legible and largely free of status anxiety, with self-deprecation as accuracy or comic certainty. P1 s…
+### HSCA-074 — P2 — The corpus models China's surface as legible and largely free of status anxiety, with self-deprecation as accuracy or comic certainty.
 
 | Field | Value |
 |---|---|
@@ -1613,7 +1637,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | P1[CHINA] normal-result branches (mid-normal-04 bare pass; final-normal-03; ending-normal-02 middling) + M-CHINA cidol 005/012/016 (the cidol 012 dream content is DREAM; the nail marks and China's report are waking events). |
 | Evidence | 入学試験の結果が最下位だったこと。そこまで気にしていたんですね。/ はいっ！すっごく、すぅ～～っごく、気にしておりましたわ！/ 学園最下位の称号を気に入る理由ってなんですの！？(P1 mid-normal-04) ; 振り向いても、誰もいらっしゃいませんわ！…また追い抜かれてしまったらどうしましょう～！(P1 ending-normal-02) ; 掌に、爪の跡がついていますよ。/ 淑女の醜態は、見ないふりをするものですわ。/ <em>ごく身近</em>にいましたね。倉本千奈に厳しい人が。(cidol 012_03) |
 | Existing treatment | Core §3 ('She has little of the status anxiety that could make bad news unusable'; under-crediting; P1 final-normal gap flagged), §4 talent 5 'Affective legibility: panic, delight, gratitude, embarrassment…unusually easy for others to read', §13/§24.7 (強がり, Dear 028 inner crying), §25 primary defense 'self-deprecating accuracy…comic panic'; AV Dialogue close reading §4.3 'Self-deprecation: four functions' incl. 'defensive under-crediting'; AV addendum 'visibly permeable self'. None cites P1 mid-normal-04 / ending-normal-02 or cidol 012_03. |
-| Deficiency | The corpus models China's surface as legible and largely free of status anxiety, with self-deprecation as accuracy or comic certainty. P1 shows the proudly repeated 'lowest in school' boast concealed real hurt (the Producer had taken it as something she liked) and that the bottom rank worked as a shield: once she is no longer last she immediately fears being overtaken. cidol 012 shows frustration hidden behind a cheerful report (nail marks in her palms, a request to look away from a lady's lapse) and names China herself as her harshest critic; cidol 016_03 shows she retains every word of scolding as well as praise; Dear 013 conceals jealousy from the Producer ('秘密ですわ'); cidol 005 friends had noticed overwork she kept up. Negative affects (hurt, frustration, jealousy, self-severity) are selectively concealed, which the 'affective legibility' and 'little status anxiety' formulations do no… |
+| Deficiency | The corpus models China's surface as legible and largely free of status anxiety, with self-deprecation as accuracy or comic certainty. P1 shows the proudly repeated 'lowest in school' boast concealed real hurt (the Producer had taken it as something she liked) and that the bottom rank worked as a shield: once she is no longer last she immediately fears being overtaken. cidol 012 shows frustration hidden behind a cheerful report (nail marks in her palms, a request to look away from a lady's lapse) and names China herself as her harshest critic; cidol 016_03 shows she retains every word of scolding as well as praise; Dear 013 conceals jealousy from the Producer ('秘密ですわ'); cidol 005 friends had noticed overwork she kept up. Negative affects (hurt, frustration, jealousy, self-severity) are selectively concealed, which the 'affective legibility' and 'little status anxiety' formulations do not qualify. |
 | Alternative | Adequacy defence: §3 already warns against romanticizing self-deprecation and the AV dialogue doc lists defensive under-crediting; §13 and Dear 028/029 (強がり, ハリボテ) acknowledge performed confidence; the 'legibility' list is about positive/flustered affect, and the cidol scenes are light in tone. Concealment is of a polite, ladylike kind rather than a hidden self. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Refines two stated observations (legibility; low status anxiety) and the primary-defense entry without changing the accountable-inheritance thesis. |
@@ -1621,7 +1645,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Revision addendum to core §3/§4/§25 and matrix C03/C04: narrow 'little status anxiety' to 'little defensiveness against correction'; add 'selective concealment of hurt, frustration and jealousy behind comic/ladylike register; China as her own harshest critic' with the P1 and cidol 012/016 locators. |
 | Status | open |
 
-### HSCA-075 — P2 — China's Producer attachment is modelled only as pedagogical dependence and possible interpretive enclosure. The China-specific sources code…
+### HSCA-075 — P2 — China's Producer attachment is modelled only as pedagogical dependence and possible interpretive enclosure.
 
 | Field | Value |
 |---|---|
@@ -1640,7 +1664,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to the China revision addendum and RS-II §9.11 a China-specific bracket: courtship-coded register (cidol 005_03, P1 true, event_003), concealed jealousy (Dear 013), household chaperonage (Kanae/maids); keep it labelled as coded register, not an established romance. |
 | Status | open |
 
-### HSCA-076 — P2 — The corpus attributes the Kuramoto pressure to the grandfather's love alone. The text distributes its agency: the headmaster (Sena's grandf…
+### HSCA-076 — P2 — The corpus attributes the Kuramoto pressure to the grandfather's love alone.
 
 | Field | Value |
 |---|---|
@@ -1651,7 +1675,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | D-CHINA: Dear 003 (spring, demand origin) -> Dear 006 (濫用 promise) -> Dear 009 (after first live: China overrules grandfather) -> Dear 010-01 (bridge placed after Dear 010, opening the N.I.A. arc; target = the H.I.F. after this summer) -> Dear 032 (winter H.I.F. run-up). 010-01 sits first in the bundle folder ('dear/') but is correctly placed after 010 by CONT-003. |
 | Evidence | そう倉本爺を煽っていたら、大喧嘩になってしまったのだ。/ どちらの孫娘が可愛いか、とな。(Juo, Dear 003) ; 倉本さんのお爺様は、孫娘に叱られて無茶なリクエストをやめたはずでは？/ ペナルティなどなくてよいから…（倉本グループ重鎮総出の支援！？断れない……）(Dear 010-01) ; 最近おぬし、倉本爺に余計なことを吹き込んどらん？/ 残念です。そのワガママが通れば、倉本さんにとって有利になったのに。(Dear 032) ; せめて……濫用はしないでくださいませ！/ 約束します。(Dear 006) |
 | Existing treatment | Core §19 ('The grandfather's love repeatedly produces coercive conditions: impossible outcome demands; career pressure on the Producer; attempts to use family influence; potential intrusion into H.I.F. judging'), §18 (Producer gives 'ethical rules for family resources'), §24.3/§24.5; side-characters §2.3 and §3.4 (Kunio: no China-route role recorded); AV Dialogue §6.5 (grandfather boundary-setting); Continuity ledger CONT-003 ('010-01 inserted after 010 where present'). China's Dear 010-01 is not cited in any China home. |
-| Deficiency | The corpus attributes the Kuramoto pressure to the grandfather's love alone. The text distributes its agency: the headmaster (Sena's grandfather) provoked the 'whose granddaughter is cuter' quarrel that produced the impossible demand and relays the requests; China herself scolded the grandfather into dropping the penalty-backed demand (Dear 009/010-01), after which the family returns as a no-penalty collective plea whose support the Producer feels unable to refuse (the core's §24.3 coercion/persuasion line in action); and in Dear 032 Juo suspects the Producer of having put the grandfather up to demanding an H.I.F. judge seat, which the Producer denies only ironically while regretting the attempt failed. That last point bears on the Dear 006 promise China extracted from the Producer and on the core's portrait of him as source of the stewardship rules. The China-Sena rivalry also gains a … |
+| Deficiency | The corpus attributes the Kuramoto pressure to the grandfather's love alone. The text distributes its agency: the headmaster (Sena's grandfather) provoked the 'whose granddaughter is cuter' quarrel that produced the impossible demand and relays the requests; China herself scolded the grandfather into dropping the penalty-backed demand (Dear 009/010-01), after which the family returns as a no-penalty collective plea whose support the Producer feels unable to refuse (the core's §24.3 coercion/persuasion line in action); and in Dear 032 Juo suspects the Producer of having put the grandfather up to demanding an H.I.F. judge seat, which the Producer denies only ironically while regretting the attempt failed. That last point bears on the Dear 006 promise China extracted from the Producer and on the core's portrait of him as source of the stewardship rules. The China-Sena rivalry also gains a grandparental prehistory not recorded anywhere. |
 | Alternative | Adequacy defence: §19 already lists judge-seat intrusion and §24.3/24.5 cover the non-clean coercion line; the Dear 032 exchange is comic, the Producer's 'involvement' is Juo's suspicion plus an ironic denial whose stated motive is revenge on Juo, and the attempt failed; Juo's quarrel is a running gag. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Refines who produces coercive family pressure (institution and Producer as co-agents; China's own defiance) and qualifies the Producer-as-steward portrait; thesis unchanged; epistemic status of the Producer's role is uncertain. |
@@ -1659,7 +1683,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | China revision addendum §19/§18: record Juo's instigation (Dear 003), China's Dear 009 override and the 010-01 no-penalty plea (cite 010-01 as post-010 bridge), and the Dear 032 judge-seat episode with its epistemic label (suspicion + ironic denial). Add a China-route line to side-characters §3.4 (Kunio). |
 | Status | open |
 
-### HSCA-077 — P2 — In D-SENA China herself names the support components but refuses Sena's support-as-ability doctrine as consolation for a loss and locates t…
+### HSCA-077 — P2 — In D-SENA China herself names the support components but refuses Sena's support-as-ability doctrine as consolation for a loss and locates the deficit in her own ability, vowing to become worthy of the support.
 
 | Field | Value |
 |---|---|
@@ -1678,7 +1702,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a recipient-side note to SENA-C36 and a cross-track counterpoint to CHINA-C14 (D-SENA Dear 019: doctrine declined as consolation in defeat). |
 | Status | open |
 
-### HSCA-078 — P2 — RS-I is the reader-facing REVERSI authority. It models the concealment crisis as one-way: Sumika hides, and Lilja's mature capacity is to s…
+### HSCA-078 — P2 — RS-I is the reader-facing REVERSI authority.
 
 | Field | Value |
 |---|---|
@@ -1689,7 +1713,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | M-E012 flashback layer (first weeks after entry, dance-test era) plus present-frame retrospect. Modular; does not fix a D-LILJA or D-SUMIKA position. |
 | Evidence | リーリヤ(inner): 走り続けていることだけが、あなたの隣にいる免罪符だった。 / （せめて……追いつかないと、心配する資格なんて、わたしにない） / 咲季: わたしはともかく、リーリヤにも相談していなかったんだから。 / 咲季: わたしですら分かることが、あの子に分からないわけないでしょ。 / リーリヤ: もっと早く、清夏ちゃんに、手を差し伸べてあげればよかった。 |
 | Existing treatment | Tranche §8.3, §8.6, §8.9 and §10.8 (full analysis). Character-ledger Lilja E012 row: 'raw effort can become an 免罪符 ritual'. Relationship ledger Lilja↔Sumika E009/E012: bilateral support. Lilja core vulnerability list: 'fear that she cannot stand beside Sumika rather than merely behind her'. RS-I REVERSI §4.2–4.4, §4.13 rules 1–2, §6.8 and §9.3 are built from Dear and support material; E012 appears only in routing index §12.2 ('bilateral support / temporary-unit evidence'). |
-| Deficiency | RS-I is the reader-facing REVERSI authority. It models the concealment crisis as one-way: Sumika hides, and Lilja's mature capacity is to see through it ('Lilja can recognize Sumika's concealment without waiting for a confession', §6.8). It also states 'Lilja often stabilizes through sincere effort' as a positive rule (§4.13.1). E012 supplies the mirror mechanism. In the early state Lilja noticed Sumika's change but judged she had no standing to worry until she caught up, and running itself was the 免罪符 that licensed standing beside Sumika. So she stayed silent. The concealment ended only when a third party, Saki, forced disclosure (Saki reasons that Lilja must already sense it), and Lilja then regrets not reaching out. RS-I uses E012 only for the closing pact. Its concealment model, effort rule and recognition claim therefore lack this bilateral, effort-mediated cause of the silence and… |
+| Deficiency | RS-I is the reader-facing REVERSI authority. It models the concealment crisis as one-way: Sumika hides, and Lilja's mature capacity is to see through it ('Lilja can recognize Sumika's concealment without waiting for a confession', §6.8). It also states 'Lilja often stabilizes through sincere effort' as a positive rule (§4.13.1). E012 supplies the mirror mechanism. In the early state Lilja noticed Sumika's change but judged she had no standing to worry until she caught up, and running itself was the 免罪符 that licensed standing beside Sumika. So she stayed silent. The concealment ended only when a third party, Saki, forced disclosure (Saki reasons that Lilja must already sense it), and Lilja then regrets not reaching out. RS-I uses E012 only for the closing pact. Its concealment model, effort rule and recognition claim therefore lack this bilateral, effort-mediated cause of the silence and the broker who broke it. |
 | Alternative | Adequacy defence: the Lilja character model already carries the parts (ledger 免罪符; core 'fear she cannot stand beside Sumika'; RS-I §9.3 'severe effort tendency'; OPEN-RS1-05). RS-I §6.7 accepts brokerage in general terms, and E012 is modular, so it cannot overwrite the later recognition capacity in D-LILJA. Counter: the gap is relational, not characterological. No home says that Lilja's silence during Sumika's concealment came from her own felt lack of standing. |
 | Disposition | CROSS_REFERENCE_GAP |
 | Severity | P2 — It qualifies the REVERSI concealment and recognition model and one reconstruction rule. RS-I's thesis (synchronized differentiation) is unchanged, and the E012 pact supports it. |
@@ -1697,7 +1721,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS-I §4.3 (or §4.13 rules 1–2 and §6.8): add a bounded M-E012 note. In the early state the silence was bilateral: Sumika concealed, and Lilja felt she had no standing to ask, with effort serving as her 免罪符. Saki brokered the disclosure. Lilja's later recognition of Sumika's concealment is a capacity that developed and depends on state, not a constant. |
 | Status | open |
 
-### HSCA-079 — P2 — Who hesitates to want the singular title, who authorizes the desire, who proposes/leads the unit and who wins invert between the two Dear t…
+### HSCA-079 — P2 — Who hesitates to want the singular title, who authorizes the desire, who proposes/leads the unit and who wins invert between the two Dear tracks (each track's protagonist hesitates and is authorized: Lilja by Sumika in D-LILJA 032; Sumika by the Producer's personal wish in D-SUMIKA 033, where Lilja wants the title from the outset).
 
 | Field | Value |
 |---|---|
@@ -1716,7 +1740,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Scope RS-I §4.8 and §4.11 step 4 to D-LILJA and add the D-SUMIKA inversion; add a Branch Divergence Ledger row 'REVERSI D-LILJA vs D-SUMIKA' listing variants (hesitating/authorizing partner, unit initiator/leader, Prima Stella) and invariants (singular desire inside partnership, mirrored loser line, separate futures, partner yields the Producer). |
 | Status | open |
 
-### HSCA-080 — P2 — For Lilja the canonical corpus registers romance coding only at Dear 037. The bundle builds it as a thread: Tanabata hand-holding and the m…
+### HSCA-080 — P2 — For Lilja the canonical corpus registers romance coding only at Dear 037.
 
 | Field | Value |
 |---|---|
@@ -1726,8 +1750,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | M-LILJA cidol 001/010/012 (modular; 012 = DREAM); C1 @ D-LILJA Dear 022-023, 026, 037; C1 @ D-SUMIKA Dear 027, 033, 037 (cross-track, not merged); M-LILJA pevent 003 |
 | Evidence | ……仕事をおろそかにしなければ、ずっと一緒にいられるのかな。(cidol 001_03 #029) / [dream] この戦いが終わったら、俺と―― → [waking] ご、ごめんなさい！アイドルなので、今はまだ――(cidol 012_03 #040-045) / 清夏ちゃんばっかり、褒めるから……(Dear 023 #028) / 別に、そのぐらい分かってます。(#033) / ……もし、わたしの方が、あの人に出会うのが早かったら、(dear_ssmk_033 #066) / いつか、あなたがアイドルではなくなったら……今度は俺があなたに伝えます。(Dear 037 #069-070) |
-| Existing treatment | GKM_CORE_05 §12 (Dear 037 'romance-adjacent implication'; Producer deflects), §20 ('career/romantic enclosure'); Relationship State Ledger Lilja<->Producer late row ('romantic/professional enclosure remains open'); Japanese Voice Ledger 'romantic-professional ambiguity ／ Dear 037'; RS-I §4.6 (jealousy = Sumika's toward Lilja's social expansion), §4.10 and OPEN-RS1-09 (Sumika/Lilja coding only); RS-II §9.11 OPEN; GKM_CORE_09 §7/§20 (Sumika-Producer). Continuity Ledger flags cidol 012 as symbolic. |
-| Deficiency | For Lilja the canonical corpus registers romance coding only at Dear 037. The bundle builds it as a thread: Tanabata hand-holding and the muttered work/love condition (cidol 001_03), 'ふつつかものですが' (cidol 010_01), the dreamt confession and reflexive waking refusal 'アイドルなので、今はまだ' (cidol 012_03), jealousy of the Producer's praise of Sumika that drives her dance effort and produces open irritation (Dear 022-023, 026), and the Sweden family-home invitation (pevent 003). Lilja's own idol-first prohibition matches the Producer's Dear 037 deferral, so the postponement is co-held rather than only his evasion. Across both Dear tracks REVERSI contains a Producer triangle (Sumika's 'センパイは取らないから' D-LILJA 022; Sumika's jealousy D-SUMIKA 027; Lilja's envy D-SUMIKA 033; each partner sends the winner to the Producer in Dear 037) that RS-I does not record; RS-I's jealousy section covers only Sumika's jealo… |
+| Existing treatment | GKM_CORE_05 §12 (Dear 037 'romance-adjacent implication'; Producer deflects), §20 ('career/romantic enclosure'); Relationship State Ledger Lilja<->Producer late row ('romantic/professional enclosure remains open'); Japanese Voice Ledger 'romantic-professional ambiguity \| Dear 037'; RS-I §4.6 (jealousy = Sumika's toward Lilja's social expansion), §4.10 and OPEN-RS1-09 (Sumika/Lilja coding only); RS-II §9.11 OPEN; GKM_CORE_09 §7/§20 (Sumika-Producer). Continuity Ledger flags cidol 012 as symbolic. |
+| Deficiency | For Lilja the canonical corpus registers romance coding only at Dear 037. The bundle builds it as a thread: Tanabata hand-holding and the muttered work/love condition (cidol 001_03), 'ふつつかものですが' (cidol 010_01), the dreamt confession and reflexive waking refusal 'アイドルなので、今はまだ' (cidol 012_03), jealousy of the Producer's praise of Sumika that drives her dance effort and produces open irritation (Dear 022-023, 026), and the Sweden family-home invitation (pevent 003). Lilja's own idol-first prohibition matches the Producer's Dear 037 deferral, so the postponement is co-held rather than only his evasion. Across both Dear tracks REVERSI contains a Producer triangle (Sumika's 'センパイは取らないから' D-LILJA 022; Sumika's jealousy D-SUMIKA 027; Lilja's envy D-SUMIKA 033; each partner sends the winner to the Producer in Dear 037) that RS-I does not record; RS-I's jealousy section covers only Sumika's jealousy of Lilja's friendships. |
 | Alternative | The corpus deliberately keeps romance labels OPEN (RS-I OPEN-RS1-09; RS-II §9.11) and the core names enclosure risk; cidol 012 is a dream and cidol placement is modular, so some caution is warranted. Adequacy is good for the governing claim, weaker for the developmental pattern and the jealousy-as-motive. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Refines the Producer-dependence model (praise-seeking effort, internalized idol prohibition, triangle) without overturning the core's open status. |
@@ -1735,7 +1759,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to the Lilja Relationship Ledger Producer rows and RS-I §4.10 an inventory of Lilja-Producer coding (cidol 001_03, 010_01, 012_03 [dream; waking refusal], Dear 022-023/026, pevent 003 activity_022, Dear 037) and a note on the REVERSI Producer triangle across D-LILJA/D-SUMIKA; keep the label OPEN; keep dream vs waking distinct. |
 | Status | open |
 
-### HSCA-081 — P2 — The core treats Producer-disagreement and failure-without-debt as untested, yet its own bundle answers them partially: Lilja does challenge…
+### HSCA-081 — P2 — The core treats Producer-disagreement and failure-without-debt as untested, yet its own bundle answers them partially: Lilja does challenge his method (cidol 008_01), shows open irritation (Dear 023), refuses to explain (Dear 013) and calls out his evasion (Dear 037), but frames disagreement as transgression to be apologized for ('センパイを疑うようなこと', Dear 014 '悪い子で……ごめんなさい'); in P1 failure branches she experiences failure as risking his abandonment (mid-failure, final-failure '諦めないでくれて', ending-normal-05, braced-for-scolding ending-normal-03).
 
 | Field | Value |
 |---|---|
@@ -1754,7 +1778,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Addendum to GKM_CORE_05 §12/§22 and AV addendum §5: record that disagreement occurs but is experienced as doubt requiring apology (cidol 008, Dear 014), that P1 failure branches show abandonment fear, and that the Producer redistributes scaffolding to Saki (cidol 008_01-02); add a Lilja example to RS-II §9.5/§9.6. |
 | Status | open |
 
-### HSCA-082 — P2 — §3 reads Lilja's founding creed as her own settled premise-logic. The inner view shows it is a deliberately asserted self-command ('断言、しよう'…
+### HSCA-082 — P2 — §3 reads Lilja's founding creed as her own settled premise-logic.
 
 | Field | Value |
 |---|---|
@@ -1773,7 +1797,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Addendum note to GKM_CORE_05 §3 linking Dear 004 to cidol 010_02: the premise creed is a performed self-command sustained by and for the Producer; cross-reference §4/§12 and C01/C25. |
 | Status | open |
 
-### HSCA-083 — P2 — In D-SUMIKA the publicity of REVERSI's history is introduced as the Producer's remedy for negative fan reaction to Lilja and a large fan-nu…
+### HSCA-083 — P2 — In D-SUMIKA the publicity of REVERSI's history is introduced as the Producer's remedy for negative fan reaction to Lilja and a large fan-number gap: the relationship is publicized to legitimize the less popular partner.
 
 | Field | Value |
 |---|---|
@@ -1792,7 +1816,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to RS-I §4.7 (and GKM_CORE_09 §15 addendum) the D-SUMIKA motive: publicity as legitimation of Lilja against fan hostility; note Lilja's response in the Lilja Relationship Ledger fans row. |
 | Status | open |
 
-### HSCA-084 — P2 — The family homes omit two consequences of cidol 018_02: the cost structure of migration (mother's frailty means neither parent can accompan…
+### HSCA-084 — P2 — The family homes omit two consequences of cidol 018_02: the cost structure of migration (mother's frailty means neither parent can accompany her; she chose to go knowing this) and Lilja's framing of her enrollment as having 'forced her way' (無茶を通した), which creates a proof obligation toward her parents parallel to the Producer-vindication motive.
 
 | Field | Value |
 |---|---|
@@ -1811,7 +1835,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to GKM_CORE_05 §9.2/§20 addendum and side-characters §2.6: maternal health constraint and family-directed proof obligation (cidol 018_02). |
 | Status | open |
 
-### HSCA-085 — P2 — RS-II leaves as unevidenced the scenario E014 stages: Hiro's self-described 趣味 (idolhood chosen with an unsuited body) threatening her frie…
+### HSCA-085 — P2 — RS-II leaves as unevidenced the scenario E014 stages: Hiro's self-described 趣味 (idolhood chosen with an unsuited body) threatening her friends' class live.
 
 | Field | Value |
 |---|---|
@@ -1821,7 +1845,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | first-year Class 1-2, nationally broadcast class sports festival with a class-live reward; season unresolved; event story, no Producer track |
 | Evidence | 広: 初星学園に入るって決めたときから、こういう日が来るってわかってた。/ わたしの趣味が、誰かの足を引っ張る嫌な状況、覚悟してた。/ 仕方がないって、そのときは諦めようって、決めてた。/ けど、ね。友達ができちゃった、から。/ 友達の足を引っ張るのは……どうしても無理だった。(#037-042) / 広: こういう苦しさは好きじゃないけど。 <em>やる</em>。(#062-063) |
-| Existing treatment | Tranche §3.2 ('She can tolerate difficulty for herself. She cannot casually tolerate making friends lose because of her'; Hiro REJECT 'all hardship is a reward'), §3.6, §11 Hiro row, §17 OQ3; Character State Ledger E013-020 Hiro STRENGTHEN/REJECT row; GKM_CORE_07 §1 proposition 4, §9. But RS-II §4.4 'Friendship gives Hiro shared stakes' cites no E014 scene; §6.3-6.4 use the sports festival only for class culture/China/Temari; §16.2 routes the tranche only as 'Class 1-2 collective stakes'; and OPEN-RS2-05 ('What happens if Hiro's preferred difficulty directly endangers a friend's project rather than only herself? Shared stakes should constrain her, but the mature limit requires further evide… |
+| Existing treatment | Tranche §3.2 ('She can tolerate difficulty for herself. She cannot casually tolerate making friends lose because of her'; Hiro REJECT 'all hardship is a reward'), §3.6, §11 Hiro row, §17 OQ3; Character State Ledger E013-020 Hiro STRENGTHEN/REJECT row; GKM_CORE_07 §1 proposition 4, §9. But RS-II §4.4 'Friendship gives Hiro shared stakes' cites no E014 scene; §6.3-6.4 use the sports festival only for class culture/China/Temari; §16.2 routes the tranche only as 'Class 1-2 collective stakes'; and OPEN-RS2-05 ('What happens if Hiro's preferred difficulty directly endangers a friend's project rather than only herself? Shared stakes should constrain her, but the mature limit requires further evidence.') remains open. |
 | Deficiency | RS-II leaves as unevidenced the scenario E014 stages: Hiro's self-described 趣味 (idolhood chosen with an unsuited body) threatening her friends' class live. The tranche answers it at class-event scale - she had pre-committed to accepting such costs, friendship made that impossible, she dislikes this suffering yet commits, organizes practice/strategy and accepts Ume's shared-loss frame - but the synthesis home does not connect it, so an RS-II reader would believe the limit is unknown. |
 | Alternative | RS-II can argue its question concerns a newly chosen harder method at professional stakes, whereas E014 concerns an existing weakness at school-event stakes; the tranche's own OQ3 keeps the higher-stakes generalization open. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -1830,7 +1854,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Annotate RS-II OPEN-RS2-05 (and §4.4/§13.6) with E014 main-03/05: 'at class-event scale the limit is explicit - Hiro refuses to let her hobby burden friends, dislikes this suffering, commits and shares the loss; professional/high-stakes cases remain open (tranche OQ3).' |
 | Status | open |
 
-### HSCA-086 — P2 — The D-HIRO thread in which the Producer's exclusive choice of Hiro costs him professional standing (falling results, peer censure, 'fool wh…
+### HSCA-086 — P2 — The D-HIRO thread in which the Producer's exclusive choice of Hiro costs him professional standing (falling results, peer censure, 'fool who abandoned the dream for a hobby'), which Hiro knows from the STEP1 bridge onward, and her stated meaning of the N.I.A.
 
 | Field | Value |
 |---|---|
@@ -1841,8 +1865,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ D-HIRO: Dear 005 -> 010 -> 010-01 (bridge, Hatsuboshi side in China's room; Gokugetsu tail = shared STEP2 setup) -> 019 -> 020 -> 028 -> 031; cidol 012_02 = C-HIRO modular (C2/C4); P1 ending-true-01 = P1[HIRO] C3 parallel only, not merged |
 | Evidence | 広: 夢を諦めたプロデューサーの成績は、順調に下がってる。…篠澤広だけを担当するのは、よくない判断ですよ、って。(010-01) / 広: あなたが他のプロデューサーに、なんて言われているか……しってる。……見返せた、かな。……証明できた、かな。あなたの趣味は、夢に劣らないって。(019) / {user}: 夢を捨て、趣味に走った愚者。そう思われているようです。(031) / 広: 成績下がってるくせに。(cidol 012_02) |
 | Existing treatment | Core §10 (Dear 019-20 read only through the father conversation and the 趣味のまま、夢 formula); §14 (Dear 028 career stake read as crisis engineering); §21 (Producer's 趣味 'despite weak utility toward his original dream'; 'shared professional risk' bullet); thesis 'the Producer who chose to share the wager'. Dear 010-01 is counted in the core's 38 Dear objects (§0) but never discussed or located. Ledgers/RS-II: none found (grep 見返/他のプロデューサー/愚者/成績/夢に劣ら/遊びだけ/criticis*/vindicat*/reputation across ROOT excl. 90*; only hit 一蓮托生 in voice ledger). Continuity: CONT-003 places 010-01 after 010 generically. |
-| Deficiency | The D-HIRO thread in which the Producer's exclusive choice of Hiro costs him professional standing (falling results, peer censure, 'fool who abandoned the dream for a hobby'), which Hiro knows from the STEP1 bridge onward, and her stated meaning of the N.I.A. victory as vindicating him (proving his hobby is not inferior to a dream) is absent from every canonical home. Consequences: (a) Dear 020's shared-dream request reads as the Producer restoring a dream he had set aside, prompted by Hiro's vindication, not only as an additive philosophical formula; (b) Producer-directed accountability enters at end-STEP1, earlier than §14's Dear 028 wager; (c) the core's one-directional asymmetry model (Producer designs stakes, Hiro bears them) omits that his career and reputation have been exposed on her behalf for the whole N.I.A./H.I.F. arc, making Dear 028 continuous with an existing mutual expos… |
-| Alternative | Adequacy defence: §21 already notes the Producer pursues Hiro 'despite weak utility toward his original dream' and lists 'shared professional risk'; §17 lists 'a Producer dream she has adopted' and fear of losing the relationship among her plural motives; the thesis names a Producer 'who chose to share the wager'. The ethical OPEN status is not overturned. Epistemic caution: 010-01's '夢より、わたしと一緒がいい' is Hiro's relay (not spoken in Dear 010; echoes P1 ending-true-01 wording) and 'falling results' is her report; both are corroborated inside D-HIRO by Dear 019 (she knows the criticism), Dear 020 … |
+| Deficiency | The D-HIRO thread in which the Producer's exclusive choice of Hiro costs him professional standing (falling results, peer censure, 'fool who abandoned the dream for a hobby'), which Hiro knows from the STEP1 bridge onward, and her stated meaning of the N.I.A. victory as vindicating him (proving his hobby is not inferior to a dream) is absent from every canonical home. Consequences: (a) Dear 020's shared-dream request reads as the Producer restoring a dream he had set aside, prompted by Hiro's vindication, not only as an additive philosophical formula; (b) Producer-directed accountability enters at end-STEP1, earlier than §14's Dear 028 wager; (c) the core's one-directional asymmetry model (Producer designs stakes, Hiro bears them) omits that his career and reputation have been exposed on her behalf for the whole N.I.A./H.I.F. arc, making Dear 028 continuous with an existing mutual exposure rather than purely a manufactured device. |
+| Alternative | Adequacy defence: §21 already notes the Producer pursues Hiro 'despite weak utility toward his original dream' and lists 'shared professional risk'; §17 lists 'a Producer dream she has adopted' and fear of losing the relationship among her plural motives; the thesis names a Producer 'who chose to share the wager'. The ethical OPEN status is not overturned. Epistemic caution: 010-01's '夢より、わたしと一緒がいい' is Hiro's relay (not spoken in Dear 010; echoes P1 ending-true-01 wording) and 'falling results' is her report; both are corroborated inside D-HIRO by Dear 019 (she knows the criticism), Dear 020 ('俺の夢は、きっと叶わない') and Dear 031 (Producer reports the 'fool' perception). Reasonable reviewers could rate this P2. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Hiro's own first statement of what her N.I.A. victory meant (Dear 019) and the Producer-reputation thread spanning five D-HIRO scenes is a significant motive/relationship finding with no canonical treatment; it qualifies the core's asymmetry framing and the reading of Dear 020, without overturning the thesis. |
 | Confidence | medium |
@@ -1850,7 +1874,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Status | open |
 | Orchestrator adjustment | shro-B-F01: {"severity": {"from": "P1", "to": "P2"}, "reason": "orchestrator A1 re-check: qualifies timing/two-way stakes of an existing analysis; thesis survives"} |
 
-### HSCA-087 — P2 — No canonical home states that owl is Hiro's origin: the first idol she ever saw (owl losing to Sena at last year's summer H.I.F.), the trig…
+### HSCA-087 — P2 — No canonical home states that owl is Hiro's origin: the first idol she ever saw (owl losing to Sena at last year's summer H.I.F.), the trigger of the cute wish, and the video she showed her father when she said she wanted to become an idol.
 
 | Field | Value |
 |---|---|
@@ -1869,7 +1893,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §11/§12/§17 (or later monograph): identify owl as the origin trigger (Dear 024, father video), cite Dear 034's 初心 formula and the Dear 036 owl-Sena-Hiro closure; narrow C01 to 'unsuitability is a sincere, prepared rationale co-present with an owl-triggered aspiration/cute wish'; correct §9 wording; update side-characters §7.3, NPC ledger and relationship ledger Hiro<->owl rows. |
 | Status | open |
 
-### HSCA-088 — P2 — The source gives an explicit mechanism for the delayed declaration: a self-imposed entitlement threshold (only after becoming Prima Stella …
+### HSCA-088 — P2 — The source gives an explicit mechanism for the delayed declaration: a self-imposed entitlement threshold (only after becoming Prima Stella / recognized by all may she voice 'the same dream as everyone'), first set at the 010-01 bridge before the Producer's Dear 020 request.
 
 | Field | Value |
 |---|---|
@@ -1906,8 +1930,9 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Confidence | medium |
 | Recommendation | Core §2/§16 and side-characters §7.4: add Hiro's prior belief of being resented for betraying expectations, and the single-letter / fan detail; link Dear 002 → cidol 007_03 → Dear 036 under §8; requalify character-ledger S3 row as 'self-reported friendlessness (cf. Dear 035)'. |
 | Status | open |
+| Merged members | SP-3-B-F02 (CONTINUITY_OR_ATTRIBUTION_ERROR, P2): Hiro's self-report at S3-0010 is promoted to biographical fact ('direct biography') although the corpus's own Hiro core records that, in Dear 035, she learns her university classmates regarded her as a friend and the Producer jokes that Ume and China must be stripped of the 'first friends' title. The S3 tranche, CSL row and RS II §4.7 neither label the line as Hiro's self-perception nor cross-reference Dear 035, so the cumulative homes now hold contradictory claims (CSL l.602 vs RSL l.150). |
 
-### HSCA-090 — P2 — Canon already carries the burden-asymmetry principle (from E002/E014), but not its two strongest Hiro-side instances. (a) In U1 her refusal…
+### HSCA-090 — P2 — Canon already carries the burden-asymmetry principle (from E002/E014), but not its two strongest Hiro-side instances.
 
 | Field | Value |
 |---|---|
@@ -1926,7 +1951,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS-II §4 (add trio unit-compatibility note: U1 refusal → Ume/Begrazia; cidol 016 parity condition) and the character ledger Hiro rows (link U1 01-03_03 and cidol shro-3-016 to the E002/E014 principle, with track labels); core locator table: add cidol 016 and the Producer exemption under §21. |
 | Status | open |
 
-### HSCA-091 — P2 — The only first-person account in Source Lock 1.0 of where Sumika's signature gyaru presentation came from is absent from every canonical ho…
+### HSCA-091 — P2 — The only first-person account in Source Lock 1.0 of where Sumika's signature gyaru presentation came from is absent from every canonical home.
 
 | Field | Value |
 |---|---|
@@ -1936,17 +1961,17 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | E020 first-year Lilja-Sumika shared-life state (main-05 #017 'まだ、1年も経ってないのにね'); the line is retrospective backstory placed 'after quitting ballet and returning to Japan' (Sweden stay = 2 years, main-02 #056), i.e. pre-Hatsuboshi; event story, no Producer track; single-source biography |
 | Evidence | 清夏: えっとね、バレエ辞めて日本に帰ってきた後かな？ / 清夏: ママがいろいろうるさいから、反抗してギャルっぽい恰好してたんだよね～。 / 清夏: その時に、友達から教えてもらったり、雑誌で学んだりして―― / 清夏: 気づいたら、馴染んでたって感じ？ (main-03 #021-024) |
-| Existing treatment | none found. Tranche GKM_EVENTS_013_020_DEEP_READING.md §9.1-9.6 omits the main-03 origin statement. GKM_CORE_09_SHIUN_SUMIKA §1 thesis/trajectory ('assigned prodigy future → injury and fracture → expectation as danger → strategic unseriousness …') and §3 'The gyaru is real: armor is a function, not an essence claim' (rejects 'bright gyaru Sumika = false persona produced only after trauma' using present-day pleasures only; no origin datum); core §23 row 'gyaru brightness is armor ／ STRENGTHEN / NARROW'; GKM_LEGACY_CLAIM_REVISION_LEDGER Sumika row 'gyaru brightness is armor ／ STRENGTHEN / NARROW' (Produce Events + P1 + Dear 007); side-character synthesis §2.9 'Sumika's family: the archive of … |
-| Deficiency | The only first-person account in Source Lock 1.0 of where Sumika's signature gyaru presentation came from is absent from every canonical home. It supplies what the corpus lacks: (1) timing - the style begins after ballet ends and she returns from Sweden, i.e. a post-fracture self-fashioning; (2) motive - rebellion against a mother who was 'いろいろうるさい', the only direct statement of Sumika-mother friction (family is otherwise modeled as resource/archive with 'interiority limited'); (3) the mechanism by which it became authentic - learned from friends and magazines until '気づいたら、馴染んでた', authenticity by naturalization rather than by a pre-existing essence. Core §3 and the legacy NARROW verdict argue only from present pleasures and so cannot address the origin question raised by V1's 'armor' claim; the core trajectory has no step between 'injury and fracture' and 'strategic unseriousness' for t… |
+| Existing treatment | none found. Tranche GKM_EVENTS_013_020_DEEP_READING.md §9.1-9.6 omits the main-03 origin statement. GKM_CORE_09_SHIUN_SUMIKA §1 thesis/trajectory ('assigned prodigy future → injury and fracture → expectation as danger → strategic unseriousness …') and §3 'The gyaru is real: armor is a function, not an essence claim' (rejects 'bright gyaru Sumika = false persona produced only after trauma' using present-day pleasures only; no origin datum); core §23 row 'gyaru brightness is armor \| STRENGTHEN / NARROW'; GKM_LEGACY_CLAIM_REVISION_LEDGER Sumika row 'gyaru brightness is armor \| STRENGTHEN / NARROW' (Produce Events + P1 + Dear 007); side-character synthesis §2.9 'Sumika's family: the archive of the assigned future' (family = provenance; no mother friction); GKM_NPC_AND_SIDE_CHARACTER_LEDGER 'Sumika's parents/family … family interiority limited'; Character State Ledger E013-020 Sumika row (E018/E020 Sweden/hobby only). Searched ROOT (excluding 90*): 反抗, ギャルっぽ, gyaru+rebel/origin/mother, Sumika+mother/ママ/母. Whole A2 corpus: no other gyaru-origin statement (dear_ssmk_011 has only an observer label 'ギャルっぽい子'). |
+| Deficiency | The only first-person account in Source Lock 1.0 of where Sumika's signature gyaru presentation came from is absent from every canonical home. It supplies what the corpus lacks: (1) timing - the style begins after ballet ends and she returns from Sweden, i.e. a post-fracture self-fashioning; (2) motive - rebellion against a mother who was 'いろいろうるさい', the only direct statement of Sumika-mother friction (family is otherwise modeled as resource/archive with 'interiority limited'); (3) the mechanism by which it became authentic - learned from friends and magazines until '気づいたら、馴染んでた', authenticity by naturalization rather than by a pre-existing essence. Core §3 and the legacy NARROW verdict argue only from present pleasures and so cannot address the origin question raised by V1's 'armor' claim; the core trajectory has no step between 'injury and fracture' and 'strategic unseriousness' for this reactive re-styling. |
 | Alternative | Adequacy defence: the line is brief small talk in a comic shopping scene; the operative core claim (sociality genuine; strategic unseriousness is the defense) is not contradicted - E020 actually corroborates 'genuine' through naturalization; the tranche's §9.4/§9.5 already treat Sumika's fashion competence as world-opening care. Competing reading: '反抗' may be ordinary adolescent rebellion unrelated to ballet expectation; the text never says the mother pressed ballet, so any link to the core's expectation-threat thesis must stay marked as inference. |
 | Disposition | OMITTED |
-| Severity | P2 — Origin, motive and family-relationship datum for the character's defining public identity, uniquely sourced and missing from tranche, core, ledgers and family synthesis; a later reader cannot learn that the gyaru look began as post-ballet rebellion against her mother and became hers through naturalization. Not P0: no existing conclusion is shown wrong (the NARROW verdict survives) - it lacks its … |
+| Severity | P2 — Origin, motive and family-relationship datum for the character's defining public identity, uniquely sourced and missing from tranche, core, ledgers and family synthesis; a later reader cannot learn that the gyaru look began as post-ballet rebellion against her mother and became hers through naturalization. Not P0: no existing conclusion is shown wrong (the NARROW verdict survives) - it lacks its origin layer. |
 | Confidence | medium |
 | Recommendation | Bounded addendum to tranche §9.4 or §9.5, routed to: Character State Ledger (Sumika E020: 'gyaru presentation originates after ballet exit as rebellion against her mother; naturalized via friends/magazines'); Legacy Claim Revision Ledger row 'gyaru brightness is armor' (add E020 main-03 as origin evidence; keep NARROW; note reactive origin + naturalization); side-character synthesis §2.9 and NPC ledger Sumika-family row (direct mother-friction datum; mark any ballet-expectation link as inference). Append a qualification note to core §3 rather than rewriting it. |
 | Status | open |
 | Orchestrator adjustment | EV-3-B-F01: {"severity": {"from": "P1", "to": "P2"}, "reason": "orchestrator A1 re-check: four-line aside enriches rather than changes the core thesis (P2 definition)"} |
 
-### HSCA-092 — P2 — Both scenes are recorded, but separately and only as relationship evidence (Sumika/Lilja durability; Tsubame's restraint). Neither the tran…
+### HSCA-092 — P2 — Both scenes are recorded, but separately and only as relationship evidence (Sumika/Lilja durability; Tsubame's restraint).
 
 | Field | Value |
 |---|---|
@@ -1956,7 +1981,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (0093_02 20 msgs; 0108_03 20 msgs); A1 verified for 0108_03 (embedded memory segment and <em>戻った</em>); A2 read in full for 0093_01-03 |
 | Story state | S0093: explicitly pre-admission (eve of the Hatsuboshi entrance exam, about six months after the summer decision). S0108-03: present = later first year, after Sumika has stopped skipping; embedded memory = first Tsubame encounter, Sumika skipping a 1st-year dance lesson ('1年生はダンスレッスンの時間だぞ？'). Modular support states; not placed on a Producer route. |
 | Evidence | リーリヤ: 清夏ちゃんはぜったい大丈夫だよ。バレエの実績もあるし。 / 清夏: でもさ～、あたしのダンスって なんかアイドルっぽくないんだよね～。 (0093_02) / 燕: やたらサボる生徒がいると聞いたが… / 1年生はダンスレッスンの時間だぞ？ / 清夏: 副会長。実は、あたし…… / ――内緒で～す！ / 燕: お前は真面目になった。――いや、<em>戻った</em>というべきか。 (0108_03) |
-| Existing treatment | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §19 (pre-admission study, contingency planning, 'their promise is eternal'; Sumika's fear of failing), §31 ('Sumika has become serious again - perhaps "returned"'; Tsubame chooses non-inquiry), §34 Sumika row. GKM_CHARACTER_STATE_LEDGER Sumika row ('resilient entrance-exam partnership'); GKM_RELATIONSHIP_STATE_LEDGER Tsubame<->Sumika row; RS-I §4.1 and §12.2 route S0093 for 'future durability'. GKM_CORE_09_SHIUN_SUMIKA thesis trajectory (injury → expectation as danger → strategic unseriousness → borrowed courage ...), §3 ('サボり cannot be treated as one stable psychological object'), §4 (Dear 008: Lilja's trust felt heavy). grep 戻った／0108／ball… |
+| Existing treatment | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §19 (pre-admission study, contingency planning, 'their promise is eternal'; Sumika's fear of failing), §31 ('Sumika has become serious again - perhaps "returned"'; Tsubame chooses non-inquiry), §34 Sumika row. GKM_CHARACTER_STATE_LEDGER Sumika row ('resilient entrance-exam partnership'); GKM_RELATIONSHIP_STATE_LEDGER Tsubame<->Sumika row; RS-I §4.1 and §12.2 route S0093 for 'future durability'. GKM_CORE_09_SHIUN_SUMIKA thesis trajectory (injury → expectation as danger → strategic unseriousness → borrowed courage ...), §3 ('サボり cannot be treated as one stable psychological object'), §4 (Dear 008: Lilja's trust felt heavy). grep 戻った\|0108\|ballet.*idol-like across ledgers/syntheses: no home connects the two scenes or links either to the core. |
 | Deficiency | Both scenes are recorded, but separately and only as relationship evidence (Sumika/Lilja durability; Tsubame's restraint). Neither the tranche nor any cumulative home states their joint consequence for Sumika's own model: (1) before admission she is already earnest and committed, and her pre-exam worry is framed as idol-fit of a ballet-trained body and karaoke-like singing, not as injury; (2) Lilja's reassurance rests on Sumika's ballet record, an early, low-stakes instance of the belief-as-weight dynamic the core makes central in Dear 008; (3) her later Hatsuboshi skipping targets dance lessons and is read by Tsubame as a lapse from which she has 'returned', with the reason withheld ('内緒'). Together these place the strategic-unseriousness phase after an earnest entry, consistent with the core's dance-avoidance reading, but nobody records it. |
 | Alternative | Adequacy defence: the core already says サボり has several functions and separates origin motive from current commitment, so the support scenes fit without revision. '戻った' is Tsubame's observer interpretation and could refer to Sumika's known ballet-era seriousness rather than her entrance period; the reason for skipping is never given in these sources, so the injury link stays an inference. The finding therefore asks for a bounded cross-reference, not a new thesis. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -1965,7 +1990,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §19/§31: add one sentence linking S0093-02 (pre-exam idol-fit doubt; Lilja's ballet-based reassurance) and S0108-03 ('戻った', dance-lesson skipping, withheld reason) to GKM_CORE_09 §3-§4, marked observer claim / reason unstated. GKM_CHARACTER_STATE_LEDGER Sumika row: note the support-side sequence. RS-I §4.2: optional pointer. |
 | Status | open |
 
-### HSCA-093 — P2 — Across tracks Sumika's push-away behaviour has a function the corpus does not name: pre-emptive release and testing whether the Producer wi…
+### HSCA-093 — P2 — Across tracks Sumika's push-away behaviour has a function the corpus does not name: pre-emptive release and testing whether the Producer will leave.
 
 | Field | Value |
 |---|---|
@@ -1975,8 +2000,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A2 dialogue-only read in full for CIDOL 010_01-03, Dear 004, P1 mid-failure-01/ending-normal-05, pevent activity_020 |
 | Story state | M-SUMIKA CIDOL 010 (retrospective outing overlaying the Dear 001-007 period; global C2) / C1 @ D-SUMIKA Dear 001, 004 / P1[SUMIKA] C3 failure and low-result branches (mid-failure-01, before-mid-normal-01, ending-normal-04/05, opening) / M-SUMIKA pevent_001 activity_020 (C3) |
 | Evidence | 清夏(inner): あの子を預けられるかは、まだ分かんないケド……唾だけつけとく的な？ / 清夏: あたしを助けてくれる、都合の良いヒーローを探してた。/ …いつの間にか、ひとりもいなかったけど。(cidol 010_01) / {user}: 俺が、清夏さんのプロデューサーだからです。/ 清夏(inner): この人は、いなくならないんだ。(cidol 010_02) / 清夏: 途中で投げ出したりしたら、絶対に許さない。(dear_004) / 清夏: ほらほら、Pっちもそろそろ辞めたくなったっしょ。(P1 mid-failure-01) / 清夏: だから、ゴメン。今までありがとね！(P1 ending-normal-05) / 清夏: 他の子をプロデュースしよーとか考えたことないの？…じゃあ、暇ができたら思う？(pevent activity_020) |
-| Existing treatment | GKM_CORE_09 §3 (strategic unseriousness pre-devalues results), §6 ('behaves as though the project matters more to him than to her'; he 'stayed beside her'), §7 relationship sequence beginning 'evaluator'; matrix C05 cites CIDOL 010 for strategic unseriousness only; Relationship ledger row 176 ('persistent witness ... evaluator becomes privileged emotional refuge'); OPEN-SUMIKA-02 grounds dependency in late Dear lines. No canonical home quotes or analyzes CIDOL 010's hero-seeking, Lilja-vetting, observer-abandonment or 'いなくならない' lines, the Dear 004 non-abandonment condition, or activity_020 (grep: 都合の良いヒーロー／いなくならない／投げ出したり／唾だけ -> no hits). |
-| Deficiency | Across tracks Sumika's push-away behaviour has a function the corpus does not name: pre-emptive release and testing whether the Producer will leave. She expects abandonment (observers vanished once she could not dance), offers him exits after every failure, fears being replaced (activity_020), and secretly hoped for a rescuer. The founding pact (Dear 004) makes non-abandonment the explicit condition of her commitment, and CIDOL 010_02 makes 'he will not disappear' the hinge of her trust. The core treats dependency as intensifying late (Dear 026-037). The evidence shows its terms were set at the start, which bears directly on OPEN-SUMIKA-02. Track note: CIDOL 010_02 replays Dear 004 with a different Producer answer ('俺が、清夏さんのプロデューサーだからです' vs Dear 004 '観たいんですよ。ステージの上で輝く清夏さんの姿が。'). It is an M-SUMIKA retrospective, not a transcript of Dear 004. No canonical text currently quotes either answ… |
+| Existing treatment | GKM_CORE_09 §3 (strategic unseriousness pre-devalues results), §6 ('behaves as though the project matters more to him than to her'; he 'stayed beside her'), §7 relationship sequence beginning 'evaluator'; matrix C05 cites CIDOL 010 for strategic unseriousness only; Relationship ledger row 176 ('persistent witness ... evaluator becomes privileged emotional refuge'); OPEN-SUMIKA-02 grounds dependency in late Dear lines. No canonical home quotes or analyzes CIDOL 010's hero-seeking, Lilja-vetting, observer-abandonment or 'いなくならない' lines, the Dear 004 non-abandonment condition, or activity_020 (grep: 都合の良いヒーロー\|いなくならない\|投げ出したり\|唾だけ -> no hits). |
+| Deficiency | Across tracks Sumika's push-away behaviour has a function the corpus does not name: pre-emptive release and testing whether the Producer will leave. She expects abandonment (observers vanished once she could not dance), offers him exits after every failure, fears being replaced (activity_020), and secretly hoped for a rescuer. The founding pact (Dear 004) makes non-abandonment the explicit condition of her commitment, and CIDOL 010_02 makes 'he will not disappear' the hinge of her trust. The core treats dependency as intensifying late (Dear 026-037). The evidence shows its terms were set at the start, which bears directly on OPEN-SUMIKA-02. Track note: CIDOL 010_02 replays Dear 004 with a different Producer answer ('俺が、清夏さんのプロデューサーだからです' vs Dear 004 '観たいんですよ。ステージの上で輝く清夏さんの姿が。'). It is an M-SUMIKA retrospective, not a transcript of Dear 004. No canonical text currently quotes either answer, so nothing is misattributed. |
 | Alternative | Adequacy defence: §3's 'pre-devalue the result' and 'deny other people the power to see that she cares' cover much of the same behaviour. The ledger's 'persistent witness' captures the Producer side, and abandonment fear can be read as a sub-case of fear of disappointing. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Refines the origin and terms of the Producer-dependency structure and adds a named defensive function; does not change the thesis. |
@@ -1984,7 +2009,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_09 §3/§7 and OPEN-SUMIKA-02; Relationship ledger Sumika<->Producer 'early' row: add abandonment-testing / pre-emptive release with Dear 004 pact, P1 failure branches, activity_020 and CIDOL 010_01-02; label CIDOL 010 as an M-SUMIKA retrospective with variant wording (do not cite it for Dear 004's exact dialogue). |
 | Status | open |
 
-### HSCA-094 — P2 — In D-SUMIKA, the Prima Stella ambition is not self-generated. Before the Producer's personal wish she has 'no strong feeling' for the title…
+### HSCA-094 — P2 — In D-SUMIKA, the Prima Stella ambition is not self-generated.
 
 | Field | Value |
 |---|---|
@@ -1994,7 +2019,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A2 dialogue-only read (Dear 033 in full; Dear 026/027/037 targeted) |
 | Story state | C1 @ D-SUMIKA Dear 026-027 (STEP3 / unit formation), Dear 033 (before winter H.I.F.), Dear 037 (post-victory); M-SUMIKA CIDOL 001_03, 010_03; cross-track C1 @ D-LILJA Dear 022-026 (winter H.I.F. prep) |
 | Evidence | 清夏: 今は、優勝がいちばん大事で、あんまり強い気持ちはないかなぁ…… / {user}: 俺個人のわがままです。/ 清夏: ――――――――――(elided) / 清夏: 約束する、Pっち。あたし、『一番星』になるよ！/ 清夏: あの人を幸せにしてあげたいんだ。/ リーリヤ: ふふっ、恋する乙女は強いってこと？/ リーリヤ: ほとんど言ってるのと同じだよ。/ リーリヤ: もし、わたしの方が、あの人に出会うのが早かったら、(dear_033) / 清夏: だって、あなたを幸せにするって……プロポーズしてきたくせに！(dear_027) / [D-LILJA] 清夏ちゃんばっかり、褒めるから……(kllj dear_023) |
-| Existing treatment | GKM_CORE_09 §13 (Producer's personal reason; 'Sumika notices the boundary crossing'), §18 (lists 'The Producer also asks Sumika, personally, to win' as one of three factors; frames Dear 033 as companion->rival differentiation), §19 (summit as public promise), §20 (dependency; 'should not be dismissed as merely romance-coded banter'); AV addendum row 'Producer/private intimacy ... REVISE/OPEN'; Relationship ledger row 179 ('Sumika wants to make him happy'); RS-I §4.6 (jealousy only over Lilja's peer expansion), §4.10 (romance coding limited to the Lilja-Sumika dyad); RS-II §9.2/§9.5 (Producer-node examples omit Sumika and Lilja), §9.11 OPEN on romance/exclusivity. Grep 恋する／会うのが早／プロポーズ／取らない／も… |
+| Existing treatment | GKM_CORE_09 §13 (Producer's personal reason; 'Sumika notices the boundary crossing'), §18 (lists 'The Producer also asks Sumika, personally, to win' as one of three factors; frames Dear 033 as companion->rival differentiation), §19 (summit as public promise), §20 (dependency; 'should not be dismissed as merely romance-coded banter'); AV addendum row 'Producer/private intimacy ... REVISE/OPEN'; Relationship ledger row 179 ('Sumika wants to make him happy'); RS-I §4.6 (jealousy only over Lilja's peer expansion), §4.10 (romance coding limited to the Lilja-Sumika dyad); RS-II §9.2/§9.5 (Producer-node examples omit Sumika and Lilja), §9.11 OPEN on romance/exclusivity. Grep 恋する\|会うのが早\|プロポーズ\|取らない\|もやもや -> no hits. |
 | Deficiency | In D-SUMIKA, the Prima Stella ambition is not self-generated. Before the Producer's personal wish she has 'no strong feeling' for the title, and she adopts it as a gift to him: 'make him happy'. Lilja names this 恋する乙女 and Sumika concedes it is nearly a confession. The core lists the request as one factor, reads Dear 033 chiefly as REVERSI differentiation, and states the elided wish's content ('to win') as fact although the text withholds it. The Producer-centred triangle on both Dear tracks has no canonical home: Sumika is jealous of P-Lilja closeness (Dear 027), Lilja envies Sumika and wonders 'if I had met him first' (Dear 033), and in D-LILJA Dear 022-026 Lilja resents P praising Sumika while Sumika jokes 'センパイは取らないから'. RS-II's Producer-node synthesis does not list Sumika despite her core flagging one of the corpus's strongest dependency signals. |
 | Alternative | The core's own formula ('chooses the people whose belief she will answer') absorbs answering the Producer's wish; §20 explicitly declines to dismiss or condemn the romance coding, and RS-I's OPEN romance policy is deliberate genre discipline. Jealousy in the triangle remains teasing and non-enclosing, consistent with RS-I §4.6. |
 | Disposition | UNDERWEIGHTED |
@@ -2003,7 +2028,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_09 §18/§19: state that the D-SUMIKA title desire originates in the Producer's elided personal wish and her wish to make him happy (romance-coded, conceded in-text). Mark the wish content as withheld. RS-I §4.6/§4.10: add the Producer-centred triangle on both Dear tracks. RS-II §9.2/9.5: add Sumika (and Lilja) Producer-node rows. |
 | Status | open |
 
-### HSCA-095 — P2 — On Lilja's track Sumika is not produced by GakumasP: she calls him 'Lilja's producer'. She returns to the idol path because of Lilja's firs…
+### HSCA-095 — P2 — On Lilja's track Sumika is not produced by GakumasP: she calls him 'Lilja's producer'.
 
 | Field | Value |
 |---|---|
@@ -2022,7 +2047,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS-I §4.11/§10 (or OPEN-RS1 list) and GKM_CORE_09 OPEN-SUMIKA-02 cross-reference: note that D-LILJA presents a Lilja-catalysed, self-initiated recovery in which the Producer is helper, as possibility-space evidence (track-labelled). |
 | Status | open |
 
-### HSCA-096 — P2 — The Phase-3 Temari core (created 2026-08-14; bundle of 207 Temari-owned scripts with no numbered events) misplaces an Event 008 scene. In t…
+### HSCA-096 — P2 — The Phase-3 Temari core (created 2026-08-14; bundle of 207 Temari-owned scripts with no numbered events) misplaces an Event 008 scene.
 
 | Field | Value |
 |---|---|
@@ -2032,8 +2057,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (adv_event_008_main-02.txt, 72 msgs); A1 verified |
 | Story state | M-E008 modular numbered event (Animate one-day work; day after Sena's record shift; Sena incumbent Prima Stella; after SyngUp! disbandment); C1 internal / C2 global; not part of D-TEMARI |
 | Evidence | 客C: 『SyngUp!』のステージ、絶対に行ってました！ / 手毬: じゃあ残念だったね。今日は美鈴も燐羽もいな―― / 咲季: 空気読みなさいよ！ / 手毬: 見くびらないで。吹っ切れたから。 |
-| Existing treatment | GKM_CORE_02_TSUKIMURA_TEMARI.md §3.2.10 'Fans make the old unit socially real' sits inside '§3.2 Dear Idol: the longitudinal argument', between §3.2.9 (Rinha) and §3.2.11 (Plan A/B), and has no locator. Its §26 locator row reads 'fans can retain Rinha and support Temari ／ adv_dear_ttmr_016–020; related fan dialogue ／ direct'. Tranche GKM_EVENTS_006_012 §4.2 'Temari meets a SyngUp! fan' attributes the scene correctly but reads it only as the public-image gap. RS-I §12.3 routing index: 'Event 008 — SyngUp fan forces Temari to accept that public memory can survive the unit' (correct source family, index only). KR crosswalk RINHA-XW-105. |
-| Deficiency | The Phase-3 Temari core (created 2026-08-14; bundle of 207 Temari-owned scripts with no numbered events) misplaces an Event 008 scene. In that scene Saki and Kotone redirect Temari after she nearly dismisses a SyngUp! fan because Misuzu and Rinha are absent. The core presents it as Dear Idol evidence inside the D-TEMARI STEP2 sequence, and its locator table folds it into 'adv_dear_ttmr_016–020; related fan dialogue … direct'. The scene exists only in adv_event_008_main-02. Modular M-* event evidence has therefore been placed in a Dear-track continuity argument with an untraceable locator, which the core's own §1.3 track discipline and the tranche's §1.3 cross-track rule forbid. Secondary: tranche §4.2, the one home that attributes the scene correctly, omits its SyngUp-specific content. Temari overrides the fan's explicit '手毬ちゃんのファンなんです' with 'too bad, Misuzu and Rinha aren't here', then… |
+| Existing treatment | GKM_CORE_02_TSUKIMURA_TEMARI.md §3.2.10 'Fans make the old unit socially real' sits inside '§3.2 Dear Idol: the longitudinal argument', between §3.2.9 (Rinha) and §3.2.11 (Plan A/B), and has no locator. Its §26 locator row reads 'fans can retain Rinha and support Temari \| adv_dear_ttmr_016–020; related fan dialogue \| direct'. Tranche GKM_EVENTS_006_012 §4.2 'Temari meets a SyngUp! fan' attributes the scene correctly but reads it only as the public-image gap. RS-I §12.3 routing index: 'Event 008 — SyngUp fan forces Temari to accept that public memory can survive the unit' (correct source family, index only). KR crosswalk RINHA-XW-105. |
+| Deficiency | The Phase-3 Temari core (created 2026-08-14; bundle of 207 Temari-owned scripts with no numbered events) misplaces an Event 008 scene. In that scene Saki and Kotone redirect Temari after she nearly dismisses a SyngUp! fan because Misuzu and Rinha are absent. The core presents it as Dear Idol evidence inside the D-TEMARI STEP2 sequence, and its locator table folds it into 'adv_dear_ttmr_016–020; related fan dialogue … direct'. The scene exists only in adv_event_008_main-02. Modular M-* event evidence has therefore been placed in a Dear-track continuity argument with an untraceable locator, which the core's own §1.3 track discipline and the tranche's §1.3 cross-track rule forbid. Secondary: tranche §4.2, the one home that attributes the scene correctly, omits its SyngUp-specific content. Temari overrides the fan's explicit '手毬ちゃんのファンなんです' with 'too bad, Misuzu and Rinha aren't here', then claims the fan as hers and says '吹っ切れたから'. |
 | Alternative | Adequacy defence: the core's paraphrase of the scene is accurate. Its broader fan claims (§11.1 plural fan memory; evidence-matrix TMR-F02) also rest on the D-TEMARI Dear 016 Rinha fan-transfer dialogue, so no conclusion collapses, and RS-I routes the scene under the correct family. The defect is provenance and continuity placement, not interpretation. One could argue that the Phase-3 pass used the event deliberately as 'relevant shared material'. But the core's declared scope lists only Temari-owned families plus U1, and nowhere labels the scene as event or M-* evidence. |
 | Disposition | CONTINUITY_OR_ATTRIBUTION_ERROR |
 | Severity | P2 — A modular event scene is assigned to the D-TEMARI longitudinal track with an untraceable locator, so a reader rebuilding Dear STEP2 chronology would insert a Saki/Kotone Animate scene. Not P0 or P1: the dependent conclusions have independent Dear support and the paraphrase is accurate. |
@@ -2041,7 +2066,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Temari core §3.2.10 and the §26 locator row: add a dated provenance correction (core addendum or evidence matrix) that reattributes the scene to adv_event_008_main-02 (numbered event, M-E008, C1 internal / C2 global, outside the Phase-3 bundle) and withdraws its placement in the D-TEMARI sequence. Tranche §4.2: add one clause recording the '今日は美鈴も燐羽もいな――' reflex and '吹っ切れたから' as post-SyngUp! evidence, cross-referenced to RS-I §12.3. |
 | Status | open |
 
-### HSCA-097 — P2 — Speaker misattribution in the tranche's key Phase-6 checkpoint. At A1 the non-restoration statement ('なにもかも元通りになったわけじゃない') is Temari's line…
+### HSCA-097 — P2 — Speaker misattribution in the tranche's key Phase-6 checkpoint.
 
 | Field | Value |
 |---|---|
@@ -2052,7 +2077,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | post-reconciliation (two-person room, autumn moon viewing); support story, no Producer branch |
 | Evidence | 手毬「仲直り……したのかな。いまも、美鈴とは合わないところあるし。」／美鈴「しましたよ。」／手毬「だけど、なにもかも元通りに なったわけじゃない。」／美鈴「そうですね……もう、一緒に 歌おうとは、言いません。」…「わたしなりのやり方で、あなたを輝かせてみせます。」／手毬「意味がわからないよ」／美鈴「わからなくてもいいんです。」 |
 | Existing treatment | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §9 ('Part 1 is a critical Phase-6 relationship checkpoint'): 'Misuzu supplies the decisive revision: they have reconciled, but **not everything has returned to how it was**.' Claim transitions: Temari<->Misuzu MAJOR REVISE; Misuzu REVISE. Downstream: GKM_CONTINUITY_AND_STORY_STATE_LEDGER story_0033 row ('Misuzu explicitly says old SyngUp/wings structure will not return' — accurate for the sing/wings lines); GKM_CHARACTER_STATE_LEDGER Temari row ('post-reconciliation explicitly refuses full restoration of old SyngUp form' — consistent with A1); RS I §5.9. |
-| Deficiency | Speaker misattribution in the tranche's key Phase-6 checkpoint. At A1 the non-restoration statement ('なにもかも元通りになったわけじゃない') is Temari's line. Misuzu affirms that they have reconciled ('しましたよ'), concedes Temari's point ('そうですね'), and only then renounces singing together and being Temari's wings. The tranche keeps Temari's doubt ('Temari questions whether the word is fully accurate') but gives the decisive reframing to Misuzu. This loses the scene's asymmetry, which matches 0028_01: Misuzu is the party who claims or affirms reconciliation ('わたしはいつも……仲直りしたいって思っています'), and Temari is the party who withholds the label and names the difference. The tranche also omits that Misuzu's replacement plan is undisclosed: Temari says she does not understand it, and Misuzu answers that she does not need to. The tranche presents the plan simply as 'help Temari shine by her own method'. Given the scene's o… |
+| Deficiency | Speaker misattribution in the tranche's key Phase-6 checkpoint. At A1 the non-restoration statement ('なにもかも元通りになったわけじゃない') is Temari's line. Misuzu affirms that they have reconciled ('しましたよ'), concedes Temari's point ('そうですね'), and only then renounces singing together and being Temari's wings. The tranche keeps Temari's doubt ('Temari questions whether the word is fully accurate') but gives the decisive reframing to Misuzu. This loses the scene's asymmetry, which matches 0028_01: Misuzu is the party who claims or affirms reconciliation ('わたしはいつも……仲直りしたいって思っています'), and Temari is the party who withholds the label and names the difference. The tranche also omits that Misuzu's replacement plan is undisclosed: Temari says she does not understand it, and Misuzu answers that she does not need to. The tranche presents the plan simply as 'help Temari shine by her own method'. Given the scene's own diet-cycle coda (0033_03) and Misuzu's 0028_02 'すべてわたしに任せてください', the opacity is relevant to the boundary caution the tranche itself raises in §4. |
 | Alternative | Adequacy defence: the thesis (repair without restoration) and the Misuzu REVISE transition rest on Misuzu's own sing/wings lines, which are correctly attributed, and the downstream ledgers phrase the point in ways compatible with A1. So the error does not propagate as a false claim and does not overturn any conclusion. It changes who drives the reframing and drops a qualification. |
 | Disposition | CONTINUITY_OR_ATTRIBUTION_ERROR |
 | Severity | P2 — Meaningful correction of speaker and agency in a scene the tranche calls a critical Phase-6 checkpoint. The thesis survives, and the error is confined to the tranche body (ledgers are compatible), so it is not P0/P1. |
@@ -2060,7 +2085,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §9 para 2: attribute 'not everything has returned' to Temari, with Misuzu affirming reconciliation, conceding, then renouncing sing-together/wings. Add one sentence noting that Misuzu's alternative method is explicitly left unexplained ('わからなくてもいいんです'), linked to the §4 Phase-6 caution. Optionally add the asymmetry (Misuzu affirms, Temari withholds; cf. 0028_01) to the RS I §5.9 key-evidence list. |
 | Status | open |
 
-### HSCA-098 — P2 — The core frames late self-love as victory/title-conditioned and lists 'self-regard after a meaningful loss' as an untested later target. Th…
+### HSCA-098 — P2 — The core frames late self-love as victory/title-conditioned and lists 'self-regard after a meaningful loss' as an untested later target.
 
 | Field | Value |
 |---|---|
@@ -2070,8 +2095,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (dear_027 l.240-427; dear_023 l.283-374; unit 04_20 l.662-678; unit 04_22 l.562-635; pstory_003 selection-failure l.25-57) |
 | Story state | C1 @ D-TEMARI (Dear 023 immediately after summer H.I.F. loss; Dear 027 after Gokugetsu rematch, before winter H.I.F.); C1 @ U1 (04_20 inner monologue before the unit-division result is announced; 04_22 after the result); C3 P3 selection-failure branch; counter-branch C3 P2 final-failure. Tracks kept separate. |
 | Evidence | 手毬: 夏……負けて、悔しかった。悔しく思えたことが、嬉しかった。…信じてくれるひとがいるんだ。だから、私も私を信じていられる。(dear_027) / 手毬: 今日の私は、いつもよりずっと長く、激しく、歌い続けることができた。自分で自分を、コントロールできていた。(dear_027) / 手毬(inner): （……過去最高の私を出せた）（私は、こういう私が好き）(unit 04_20, before the result) / 手毬: 本気でやって、全力で走って、それでもダメなとき。自分で自分を殺したくなるのに……すぐにもう一度、走らずにはいられなくなるんだ。…こんなに素敵なこと、他にない。(unit 04_22) / 手毬: 空から落ちたなら、もう一度飛べばいい。(P3 selection-failure) |
-| Existing treatment | GKM_CORE_02 §5.4 ('The route does not test whether she could retain self-regard during prolonged stagnation, injury, ordinary life…'), §8.1 ('can also make self-worth dangerously score-dependent'), §17.4 'Counterargument: self-love remains victory-conditioned' ('strongest positive self-statements occur after major achievement… We still lack a long stable state of non-winning self-regard'), §19 H-TEMARI-03, §22 target 14 ('Evidence that current self-love persists after a meaningful loss'); matrix TMR-C04 (post-victory Dear 037), TMR-F04 ('title-driven self-love'); AV addendum §10 ('the timing remains maximal success'); character ledger D-TEMARI winter-victory row ('self-love may remain achie… |
-| Deficiency | The core frames late self-love as victory/title-conditioned and lists 'self-regard after a meaningful loss' as an untested later target. The core's own bundle and U1 already contain it: after the summer H.I.F. loss Temari says she was glad she could feel frustrated and that her self-belief is sustained because others believe in her; in U1 she states that she likes herself because she gave her best ever before she knows the result, and later tells Misuzu that the agony of a full-effort loss and the compulsion to run again are 'the most wonderful thing'. A P3 failure state rebounds in flight imagery, not self-hatred. Dear 027 also records internalized self-regulation ('自分で自分を、コントロールできていた'), relevant to the pacing problem (§6.2). The analytical consequence is missing: self-regard is tied to effort and approach (H-03 survives) and is relationally scaffolded, but it is not tied to winning; f… |
+| Existing treatment | GKM_CORE_02 §5.4 ('The route does not test whether she could retain self-regard during prolonged stagnation, injury, ordinary life…'), §8.1 ('can also make self-worth dangerously score-dependent'), §17.4 'Counterargument: self-love remains victory-conditioned' ('strongest positive self-statements occur after major achievement… We still lack a long stable state of non-winning self-regard'), §19 H-TEMARI-03, §22 target 14 ('Evidence that current self-love persists after a meaningful loss'); matrix TMR-C04 (post-victory Dear 037), TMR-F04 ('title-driven self-love'); AV addendum §10 ('the timing remains maximal success'); character ledger D-TEMARI winter-victory row ('self-love may remain achievement-conditioned'). Dear 027's frustration/self-belief lines, U1 04_20 and 04_22 cited nowhere for this question (grep 悔し/こういう私/私も私を信じ across core, matrix, AV addendum, RS-I/II, character and theme ledgers: no Temari hit). |
+| Deficiency | The core frames late self-love as victory/title-conditioned and lists 'self-regard after a meaningful loss' as an untested later target. The core's own bundle and U1 already contain it: after the summer H.I.F. loss Temari says she was glad she could feel frustrated and that her self-belief is sustained because others believe in her; in U1 she states that she likes herself because she gave her best ever before she knows the result, and later tells Misuzu that the agony of a full-effort loss and the compulsion to run again are 'the most wonderful thing'. A P3 failure state rebounds in flight imagery, not self-hatred. Dear 027 also records internalized self-regulation ('自分で自分を、コントロールできていた'), relevant to the pacing problem (§6.2). The analytical consequence is missing: self-regard is tied to effort and approach (H-03 survives) and is relationally scaffolded, but it is not tied to winning; frustration itself is valued as evidence of seriousness. This is the exact inverse of Saki's U1 fear of losing without frustration (RS-I §3.11 rule 9), which the Temari core does not connect. |
 | Alternative | Adequacy defence: §17.4 is hedged ('long stable state'); Dear 027 is spoken just after a minor victory (the Gokugetsu rematch) and is one scene; U1 04_20 precedes a win; and the P2 final-failure branch shows the opposite (collapse into the 'old self', 'もう、取り返しはつかないのかもしれません'), so the effect is branch-variable. The core's main hypothesis H-03 (present-tense, movement-dependent) is consistent with all of this. The defence covers H-03 but not the 'victory/title-conditioned' wording in §17.4, TMR-F04 and AV §10. |
 | Disposition | POTENTIALLY_CORRECTIVE |
 | Severity | P2 — Narrows a stated qualification (victory-conditioned → effort-conditioned and relationally scaffolded, branch-variable) without changing the thesis or H-03. |
@@ -2079,7 +2104,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Temari core §17.4 / TMR-F04 / AV addendum §10: add a bounded note citing dear_027 (post-loss self-belief and valued frustration), unit 04_20 (pre-result self-liking, C1 @ U1) and 04_22 (Temari's account of full-effort loss), with the P2 final-failure counter-branch; keep tracks separate. Optionally cross-reference RS-I §3.11 rule 9 (Saki's mirror fear). |
 | Status | open |
 
-### HSCA-099 — P2 — The canonical corpus records the Temari–Misuzu gaze structure in one direction only (Misuzu jealous that an idol took Temari's heart). Tema…
+### HSCA-099 — P2 — The canonical corpus records the Temari–Misuzu gaze structure in one direction only (Misuzu jealous that an idol took Temari's heart).
 
 | Field | Value |
 |---|---|
@@ -2089,8 +2114,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (hmsz dear_032 #024-#060; dear_034 l.540-702; dear_036 l.974-1240; ttmr dear_017 l.226-246, 427-442; ttmr dear_022 l.70-252) |
 | Story state | C1 @ D-MISUZU (Dear 010, 024, 032, 034, 036; memories of early SyngUp in 032 are MEMORY, told in the present); supporting C1 @ D-TEMARI (Dear 017, 022) and C1 @ U1 (04_04). Tracks kept separate. |
 | Evidence | 手毬: あの日の私は……燐羽と継さんに、美鈴を取られたみたいに感じてた。…私の歌じゃ、あなたの感情を動かせなかった。それが悔しかったんだよ……！…私の歌で、あなたを泣かせてやるから！(hmsz dear_032) / 美鈴: 『一緒にトップアイドルになろう』――これは、わたしとまりちゃん……『ふたりの約束』だと思っていました。(ttmr dear_017) / 美鈴: 手毬。(hmsz dear_034 close) / 美鈴: あなたが言ったんですよ……目の前で泣いていいよ、って。/ 手毬: 私は大好きだったよ。最初から。(hmsz dear_036) |
-| Existing treatment | Misuzu core §7 (Misuzu's triangular gaze: she wanted Temari's captivated look), §14 (Dear 032 used only for Misuzu's private crying), §27.6 ('まりちゃん… preserve childhood intimacy even when the relationships become competitive'); RS-I §5.2 ('Misuzu's idol origin itself is triangular'); relationship ledger AV note 'Misuzu ↔ Temari' ('Open crying in the winter H.I.F. tranche permits Temari to encounter Misuzu's need'); voice ledger row 80 ('まりちゃん' recurring); character ledger row 77 and AV addendum §9 ('different remembered promises'). Temari core: D-MISUZU outside its declared boundary; its own §3.2.12 reads Dear 022 as breaking 'the childhood model in which Misuzu is the sleepy caretaker behin… |
-| Deficiency | The canonical corpus records the Temari–Misuzu gaze structure in one direction only (Misuzu jealous that an idol took Temari's heart). Temari's mirror is absent: she felt Misuzu was 'taken' by Rinha and Kei in early SyngUp, resented that her singing could not move Misuzu, and sets the explicit aim of making Misuzu cry with her song — fulfilled in Dear 036, where Misuzu cries in front of her for the first time. Misuzu's private 'two-person promise' that Rinha later 'cut into' (024 inner; voiced aloud in Temari's own Dear 017) shows the same dyadic exclusivity inside the triangle from her side. Misuzu's switch from 'まりちゃん' to the bare name '手毬' at the winter H.I.F. (034 close; 036) marks the equal-rival moment and contradicts the unqualified 'preserved even when competitive' wording. The core's own §3.2.12 phrase 'Misuzu… behind her' also conflicts with Dear 022 (Temari: early on Misuzu i… |
+| Existing treatment | Misuzu core §7 (Misuzu's triangular gaze: she wanted Temari's captivated look), §14 (Dear 032 used only for Misuzu's private crying), §27.6 ('まりちゃん… preserve childhood intimacy even when the relationships become competitive'); RS-I §5.2 ('Misuzu's idol origin itself is triangular'); relationship ledger AV note 'Misuzu ↔ Temari' ('Open crying in the winter H.I.F. tranche permits Temari to encounter Misuzu's need'); voice ledger row 80 ('まりちゃん' recurring); character ledger row 77 and AV addendum §9 ('different remembered promises'). Temari core: D-MISUZU outside its declared boundary; its own §3.2.12 reads Dear 022 as breaking 'the childhood model in which Misuzu is the sleepy caretaker behind her'. Grep 取られ / 美鈴を取られ / ふたりの約束 / two-person promise across ROOT (excluding 90*): no hit. |
+| Deficiency | The canonical corpus records the Temari–Misuzu gaze structure in one direction only (Misuzu jealous that an idol took Temari's heart). Temari's mirror is absent: she felt Misuzu was 'taken' by Rinha and Kei in early SyngUp, resented that her singing could not move Misuzu, and sets the explicit aim of making Misuzu cry with her song — fulfilled in Dear 036, where Misuzu cries in front of her for the first time. Misuzu's private 'two-person promise' that Rinha later 'cut into' (024 inner; voiced aloud in Temari's own Dear 017) shows the same dyadic exclusivity inside the triangle from her side. Misuzu's switch from 'まりちゃん' to the bare name '手毬' at the winter H.I.F. (034 close; 036) marks the equal-rival moment and contradicts the unqualified 'preserved even when competitive' wording. The core's own §3.2.12 phrase 'Misuzu… behind her' also conflicts with Dear 022 (Temari: early on Misuzu improved fast and '私だけが置き去り'; 'しってた！わかってた！'). |
 | Alternative | Adequacy defence: RS-I already models SyngUp as a triangle of gaze and asymmetry; the ledger records the Dear 036 crying as Temari encountering Misuzu's need; the Temari core's H-TEMARI-04 says Temari needs Misuzu to contest her, not only care for her. These cover the outcome (equal rivalry, reciprocal need) but not the mechanism on Temari's side (exclusion from Misuzu's emotional gaze; song as the means to reach her). |
 | Disposition | OMITTED |
 | Severity | P2 — Adds the missing reciprocal half of a central relationship mechanism and corrects two small wordings; existing conclusions (rivalry instead of caretaking, non-restorative repair) stand. |
@@ -2098,7 +2123,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS-I §5.2 (founding triangle): add a sentence that the gaze-jealousy is reciprocal, citing hmsz dear_032 (C1 @ D-MISUZU) with the 036 payoff and the ttmr dear_017 two-person-promise line. Misuzu core §27.6 / voice ledger row 80: note the bare-name '手毬' exception at the winter H.I.F. Temari core §3.2.12: replace 'behind her' with 'the rival she believed she had just drawn level with'. |
 | Status | open |
 
-### HSCA-100 — P2 — The corpus gives Temari a second self-blame for SyngUp's collapse besides inferiority: imposition — forcing her own intensity and pace on t…
+### HSCA-100 — P2 — The corpus gives Temari a second self-blame for SyngUp's collapse besides inferiority: imposition — forcing her own intensity and pace on the others, sulking when they would not match her, and a fear of not being followed ('付いてこられない' corrected inwardly to '付いてきては、くれない').
 
 | Field | Value |
 |---|---|
@@ -2109,7 +2134,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ U1 Episode 1 (inner monologue and ？？？ memory of the SyngUp breakup) and Episode 4 (04_17); C1 @ D-TEMARI Dear 008 and 015; C-TEMARI cidol 007. U1 and D-TEMARI self-accounts kept separate. |
 | Evidence | 手毬: みんな！　どうしてわかってくれないの！？　私たちなら、もっと上を目指せる！ / ？？？: 『頑張ろう』って？　いい加減にしてくれない？　うんざりなんだけど。(01_11 memory) / 手毬(inner): （私は、ただ、ワガママなだけだって）（仲間の気持ちや都合を無視して、やりたいようにやってきただけだって）（なのに、みんなが私に合わせてくれないことに拗ねて……逃げて…台無しにして……）(01_13) / {user}: 仲間に自分以上の努力と研鑽を強要しますし。張り切るほどに空回って、周囲に大きな負担をかけ続ける。/ 手毬: ……うぐぐぐ……否定できない。(dear_008) / 手毬: 私、たくさん持ち込んでいると思います……マイナス。(04_17) |
 | Existing treatment | GKM_CORE_02 §3.2.4 ('Temari's memory of the old unit is organized by inferiority'; three truths about peak, support and hierarchy), §3.2.6 (laziness as a theory of dependence), §9.1 table (Temari distortion: 'self-destruction; care experienced as humiliation'), §2.6 (U1: 'the unresolved memory of being the weak center supported by stronger members'); RS-I §5.2 ('Temari's core remembers SyngUp through inferiority'), §5.6, §8.6 ('not excuses that erase impact'); character ledger row 84 (U1: 'fear of hurting loved friends'). |
-| Deficiency | The corpus gives Temari a second self-blame for SyngUp's collapse besides inferiority: imposition — forcing her own intensity and pace on the others, sulking when they would not match her, and a fear of not being followed ('付いてこられない' corrected inwardly to '付いてきては、くれない'). It is her private account in U1 Episode 1. In D-TEMARI she concedes it to the Producer in Dear 008, the reason he refuses any unit for her; Dear 015 corrects 'a big fight' to her own one-sided shouting and records that she proposed the dissolution; cidol 007_03 recalls her demanding that her unitmates get serious. The core and RS-I model the collapse on the inferiority/humiliation axis alone. The core's U1 section (§2.6) imports the D-TEMARI Dear 004 'weak center supported by stronger members' memory into U1, where the text gives selfishness and a fear of ruining another group. This is also why U1's resolution works: Ko… |
+| Deficiency | The corpus gives Temari a second self-blame for SyngUp's collapse besides inferiority: imposition — forcing her own intensity and pace on the others, sulking when they would not match her, and a fear of not being followed ('付いてこられない' corrected inwardly to '付いてきては、くれない'). It is her private account in U1 Episode 1. In D-TEMARI she concedes it to the Producer in Dear 008, the reason he refuses any unit for her; Dear 015 corrects 'a big fight' to her own one-sided shouting and records that she proposed the dissolution; cidol 007_03 recalls her demanding that her unitmates get serious. The core and RS-I model the collapse on the inferiority/humiliation axis alone. The core's U1 section (§2.6) imports the D-TEMARI Dear 004 'weak center supported by stronger members' memory into U1, where the text gives selfishness and a fear of ruining another group. This is also why U1's resolution works: Kotone ('we won't be friends; it won't be like your old unit') and Saki ('you follow me') remove the fear of imposing on loved teammates, and Temari's 'hurting people I dislike won't hurt my heart' answers it. |
 | Alternative | Adequacy defence: the inferiority account is the most elaborated one in Temari's own bundle (Dear 004, 015, 022); the core rejects 'Temari selfishly rejected kind friends'; RS-I §8.6 acknowledges Temari's impact; the character ledger already names U1's 'fear of hurting loved friends'. The two accounts are compatible (she lagged, overexerted to catch up, and pushed the group). The defence shows partial coverage, not that the imposition axis or the U1 self-account is modeled. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P2 — Broadens the SyngUp-collapse mechanism and fixes a cross-track import in §2.6; the thesis 'asymmetry made unspeakable' survives in broadened form. |
@@ -2117,7 +2142,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Temari core §3.2.4 / §9.1: add imposition (forcing pace/standards on others; fear of not being followed) as a second Temari-held self-blame, citing dear_008 and dear_015 (D-TEMARI) and unit 01_11/01_13 (C1 @ U1, separate). §2.6: replace the 'weak center supported by stronger members' wording with U1's own account. RS-I §5.2/§5.6: one bounded sentence. |
 | Status | open |
 
-### HSCA-101 — P3 — Mao's E017 interior state (has lost the right to chase Sena; has been averting her eyes all along) is incompatible with having already deli…
+### HSCA-101 — P3 — Mao's E017 interior state (has lost the right to chase Sena; has been averting her eyes all along) is incompatible with having already delivered E013's answer to Sena's year-old question.
 
 | Field | Value |
 |---|---|
@@ -2127,7 +2152,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | E017 third-year shortly before the summer H.I.F. (017-01 #013); E013 third-year Kyoto trip before the 'next H.I.F.' with the previous year's H.I.F. as memory; no text fixes their mutual order |
 | Evidence | 麻央 isInner: （その背中を追いかけることも、追いかける資格もなくなってしまった）…（……ずっと、目をそらしてきたんだ）(017-04 #048, #052) vs 麻央: あのときの返事、待たせてしまったね。/ 今度こそ、ボクはキミに追い付いてみせるよ。(013-05 #062-063) |
-| Existing treatment | Tranche §1.2 continuity table (E013 'before a coming H.I.F.'; E017 'shortly before the summer H.I.F.') and 'Event-number warning strengthened' (cites only E015 autumn vs E017 summer); §6.5 (Mao has avoided looking at Sena); §11 Mao row 'E013 old regret toward Sena; E017 role-integration advice'; Relationship ledger 'Sena ↔ Mao ／ E013/E017 ／ Mao's old failure to promise pursuit becomes present challenge and role-expansion advice'; Continuity ledger E013/E017 rows. |
+| Existing treatment | Tranche §1.2 continuity table (E013 'before a coming H.I.F.'; E017 'shortly before the summer H.I.F.') and 'Event-number warning strengthened' (cites only E015 autumn vs E017 summer); §6.5 (Mao has avoided looking at Sena); §11 Mao row 'E013 old regret toward Sena; E017 role-integration advice'; Relationship ledger 'Sena ↔ Mao \| E013/E017 \| Mao's old failure to promise pursuit becomes present challenge and role-expansion advice'; Continuity ledger E013/E017 rows. |
 | Deficiency | Mao's E017 interior state (has lost the right to chase Sena; has been averting her eyes all along) is incompatible with having already delivered E013's answer to Sena's year-old question. Read in number order - as the §11 row and the combined E013/E017 relationship edge invite - the Mao-Sena arc would regress. The continuity controls do not record this second internal anchor; the safe readings are E017 → E013 or independent modular states. |
 | Alternative | The tranche never asserts E013 precedes E017, and its general rule ('never event number as biography') already forbids the inference; the E017 lines could be read as 'until now' at a time after the vow but before acting on it. |
 | Disposition | UNDERWEIGHTED |
@@ -2136,7 +2161,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to tranche §1.2 'Event-number warning' and the Continuity ledger: 'E017 Mao interior (017-04 #046-052) precedes or is independent of the E013 vow (013-05 #062-063); do not chain E013 → E017 for Mao/Sena.' Reword the Sena↔Mao E013/E017 edge so it does not imply sequence. |
 | Status | open |
 
-### HSCA-102 — P3 — Three items are recorded nowhere: Mao is an only child who played and rehearsed acting alone and envies siblings, a family-structure fact r…
+### HSCA-102 — P3 — Three items are recorded nowhere: Mao is an only child who played and rehearsed acting alone and envies siblings, a family-structure fact relevant to her child-acting history and to simulation.
 
 | Field | Value |
 |---|---|
@@ -2146,7 +2171,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A2 (dialogue-only) read in full for the cited parts, spot A1 checks where noted |
 | Story state | E022 modular third-year pre-summer-H.I.F. state (not placed against the D-MAO body-acceptance arc) |
 | Evidence | ことね: 麻央先輩って、ひょっとして、ひとりっ子です？ / 麻央: ……うん。家ではひとりで遊んだり、お芝居の稽古をしていたから、咲季のところとか、ことねとか、姉妹って、ちょっと羨ましいなあ。 / ことね: （『グングン背伸ばしマシン』……？み、見なかったことにしとこ……） / (main-04) 麻央: ぼ、ボクはいいよ……可愛い服とか、似合わないし。 |
-| Existing treatment | EVENTS_021_PLUS §3.3 (fever surfaces 'dependency, regional food memory, childhood performance history, and appetite'; additive private material); §14.2. Mao core §4.1 (height insufficient for the imagined prince form), §4.3, §9.6 (parents). grep only child／ひとりっ子／一人っ子／背伸ばし across ROOT excl. 90*: no hit. |
+| Existing treatment | EVENTS_021_PLUS §3.3 (fever surfaces 'dependency, regional food memory, childhood performance history, and appetite'; additive private material); §14.2. Mao core §4.1 (height insufficient for the imagined prince form), §4.3, §9.6 (parents). grep only child\|ひとりっ子\|一人っ子\|背伸ばし across ROOT excl. 90*: no hit. |
 | Deficiency | Three items are recorded nowhere: Mao is an only child who played and rehearsed acting alone and envies siblings, a family-structure fact relevant to her child-acting history and to simulation. The hidden height-stretching device and the senior-state 'cute clothes don't suit me' line show the core's height/category concerns persisting privately in a modular senior state; the tranche reads Mao's private material only additively. |
 | Alternative | Defence: these are comic or incidental beats; §3.3's 'more private material than the role displays' and core §4.1 cover the gist, and the modular state cannot correct the route endpoint. |
 | Disposition | OMITTED |
@@ -2155,7 +2180,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Optional: add a line to EVENTS_021_PLUS §3.2/§3.3 (only child; solitary rehearsal; concealed height device, flagged modular) or to Mao core-adjacent notes via the CSL. |
 | Status | open |
 
-### HSCA-103 — P3 — The tranche flattens Mao's guarded self-disclosure pattern. (1) In 0034_01 Rinami praises Mao to her face, and Mao returns the compliment o…
+### HSCA-103 — P3 — The tranche flattens Mao's guarded self-disclosure pattern.
 
 | Field | Value |
 |---|---|
@@ -2174,7 +2199,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §10: correct to an asymmetric exchange (Mao compliments only in Rinami's absence). §16: add 'Mao admits she is "always wavering" and immediately retreats into prince register'. Optionally add to the Character ledger Mao row as residual third-year uncertainty. |
 | Status | open |
 
-### HSCA-104 — P3 — The quoted line is Mao's immediate outcry at the announcement, made in front of the Producer and the president before her composed framing.…
+### HSCA-104 — P3 — The quoted line is Mao's immediate outcry at the announcement, made in front of the Producer and the president before her composed framing.
 
 | Field | Value |
 |---|---|
@@ -2193,7 +2218,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §2.9, Character State Ledger, MAO-L009: replace the 負けた anchor with the party inner monologue and う、うわあああ after Rinami's 'よく頑張ったね'; note peer-triggered release. |
 | Status | open |
 
-### HSCA-105 — P3 — The scenes show that child Mao enjoyed being called cute and was a crying, mother-clinging child actor. That places the cute-aversion after…
+### HSCA-105 — P3 — The scenes show that child Mao enjoyed being called cute and was a crying, mother-clinging child actor.
 
 | Field | Value |
 |---|---|
@@ -2212,7 +2237,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add cidol 013_01–02 to MAO-C06 (evidence) and to §2.1 as an observer qualification of 無敵. |
 | Status | open |
 
-### HSCA-106 — P3 — Stage-A flag (b). Dear 010 and cidol 015 identify one person: the childhood revue top star who left revue for screen acting, named 龍月真希 of …
+### HSCA-106 — P3 — Stage-A flag (b). Dear 010 and cidol 015 identify one person: the childhood revue top star who left revue for screen acting, named 龍月真希 of troupe Planetarium.
 
 | Field | Value |
 |---|---|
@@ -2231,7 +2256,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | NPC ledger / side-characters §7.5: name 龍月真希 (cidol 015_01), cite Dear 010 + cidol 015 as the identifying sources, and mark P1 step-2 and PE event_002 as unnamed, consistent, not explicitly identified; note track-varying avoidance. |
 | Status | open |
 
-### HSCA-107 — P3 — Attribution slip. Sena recalls only that Tsubame taught her the name 一番星. It is Tsubame who supplies the 'tall Tsubame could reach it / imp…
+### HSCA-107 — P3 — Attribution slip. Sena recalls only that Tsubame taught her the name 一番星.
 
 | Field | Value |
 |---|---|
@@ -2250,7 +2275,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Amend EVENTS_021_PLUS §2.5: Sena raises the first star, Tsubame recounts the exchange, and Sena does not remember it. Note the asymmetry under §13.1. |
 | Status | open |
 
-### HSCA-108 — P3 — The tranche labels E021 a REVISE of a Phase-3 'uninterrupted heroic rivalry' trait, but the Tsubame core never made that claim. Its thesis …
+### HSCA-108 — P3 — The tranche labels E021 a REVISE of a Phase-3 'uninterrupted heroic rivalry' trait, but the Tsubame core never made that claim.
 
 | Field | Value |
 |---|---|
@@ -2269,7 +2294,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | In EVENTS_021_PLUS §2.4/§10 and the CSL Tsubame row, recast the transition as STRENGTHEN (origin datum) with pointers to Tsubame core §1–§3 and §5. Note '学園No.2に価値なんてない' as a continuity-compatible antecedent of the core's No.2 refuge, not as a sequenced fact. |
 | Status | open |
 
-### HSCA-109 — P3 — The 0038_01 vice president is identifiable as Tsubame from 0046_01 (Mao addresses 副会長 and 燕 answers in the same 貴様 register) and from 0032_…
+### HSCA-109 — P3 — The 0038_01 vice president is identifiable as Tsubame from 0046_01 (Mao addresses 副会長 and 燕 answers in the same 貴様 register) and from 0032_01 (Rinami asks Sena about 燕ちゃん's absence from council).
 
 | Field | Value |
 |---|---|
@@ -2288,7 +2313,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §14 and the NPC ledger: annotate 'vice president (= Tsubame by 0046_01 address/register; unvoiced here)'. Add S3-0038 to the Sena↔Tsubame evidence routing. |
 | Status | open |
 
-### HSCA-110 — P3 — The core's general verdict (manipulative, asymmetric) is present. It leaves Q6 open although the bundle answers part of it: the Producer ap…
+### HSCA-110 — P3 — The core's general verdict (manipulative, asymmetric) is present.
 
 | Field | Value |
 |---|---|
@@ -2307,7 +2332,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_13 §8/§47 Q6 and RS-II §9.10 (optional): cite dear_006 #039 (apology), dear_010 #025-029 (saw through; chose), dear_011 #028-029 and dear_014 #073-074 (unilateral acts), dear_020 #055 (ratification); distinguish retroactive ratification from prior consent. |
 | Status | open |
 
-### HSCA-111 — P3 — Tsubame enforces health and rest on juniors and will overextend for others. In P1 branches and PE she conceals or minimises her own conditi…
+### HSCA-111 — P3 — Tsubame enforces health and rest on juniors and will overextend for others.
 
 | Field | Value |
 |---|---|
@@ -2326,7 +2351,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Optional: GKM_CORE_13 §30 / RS-II §5.8 note that Tsubame's care authority is asymmetric (she discloses and accepts care reluctantly), with P1 branch labels. |
 | Status | open |
 
-### HSCA-112 — P3 — Sena's inference, half-conceded by Tsubame ('私は約束を守る女だからな'), recasts part of Tsubame's later gentleness toward Misuzu as promise-keeping af…
+### HSCA-112 — P3 — Sena's inference, half-conceded by Tsubame ('私は約束を守る女だからな'), recasts part of Tsubame's later gentleness toward Misuzu as promise-keeping after the Dear 006 wager rather than purely developmental change.
 
 | Field | Value |
 |---|---|
@@ -2345,7 +2370,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add Dear 027 #058-#059 as counterpressure to Tsubame matrix TSB-040 and a note on the Relationship State Ledger Tsubame<->Misuzu row ('kindness partly framed as wager obligation'). |
 | Status | open |
 
-### HSCA-113 — P3 — Explicit A1 narration time markers are not used or cited. E021's flashback is directly labelled as the second-year H.I.F. (rather than infe…
+### HSCA-113 — P3 — Explicit A1 narration time markers are not used or cited.
 
 | Field | Value |
 |---|---|
@@ -2364,7 +2389,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add the A1 narration markers to EVENTS_021_PLUS §1.3 and the CONT ledger E021/E024 rows (E021 flashback = Sena/Tsubame 2nd-year H.I.F.; E024 April→February internal calendar). |
 | Status | open |
 
-### HSCA-114 — P3 — Cohort misattribution. Story_0045's ensemble is the other first-year class (1-2), not second-years. The 'second-year layer' framing invents…
+### HSCA-114 — P3 — Cohort misattribution. Story_0045's ensemble is the other first-year class (1-2), not second-years.
 
 | Field | Value |
 |---|---|
@@ -2383,7 +2408,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §1.1 and §21: replace 'second-year ensemble/layer' with 'Class 1-2 first-year ensemble'. Adjust §21's framing to 'parallel first-year class'. |
 | Status | open |
 
-### HSCA-115 — P3 — (1) Only Saki predicts that Temari would help. Kotone's emphasised line aligns her ironically with Temari's refusal and does not predict Te…
+### HSCA-115 — P3 — (1) Only Saki predicts that Temari would help.
 
 | Field | Value |
 |---|---|
@@ -2402,7 +2427,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | S3T §26: 'Saki predicts Temari would help; Kotone ironically sides with Temari (emphasised 手毬とまったく同じ気持ち)'. Note that part_02 precedes part_01 in content. |
 | Status | open |
 
-### HSCA-116 — P3 — D-SENA Kotone-side evidence that tests Kotone claims is recorded only from Sena's side. Kotone first receives Sena's public successor/savio…
+### HSCA-116 — P3 — D-SENA Kotone-side evidence that tests Kotone claims is recorded only from Sena's side.
 
 | Field | Value |
 |---|---|
@@ -2421,7 +2446,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Kotone matrix KOTO-C13 and §4: add a D-SENA cross-reference (Sena Dear 004/013; Sena core §8, §19) recording that Kotone accepts Sena's production when it is recipient-aware; mark C12 as D-KOTONE-scoped. |
 | Status | open |
 
-### HSCA-117 — P3 — The inference discipline is correct, but the corroborating locators that now exist were never attached. E005 m03, in the same tranche, give…
+### HSCA-117 — P3 — The inference discipline is correct, but the corroborating locators that now exist were never attached.
 
 | Field | Value |
 |---|---|
@@ -2431,7 +2456,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (rows 1290, 1291, 1292, 1305); A1 verified |
 | Story state | E002 m03 is the first day of 1st year. E002 m04/m05 come a few days later and after the E001 party. E005 m03 is early 1st year, before the summer H.I.F. SyngUp! is middle-school history, known only as reported past. Modular event track, no Producer branch. |
 | Evidence | 美鈴: 他のクラスに、友達がいるんです。…いま、喧嘩をしていまして。(E002 m03 #010, #012) / 佑芽: グッズのうちわでファンを叩いて問題になったって噂もホントなの！？ 美鈴: わたし<em>は</em>やってません！ (#051-052) / 美鈴: ……あの子が……親しいお友達を作っているのが。わたしとは、喧嘩しているままなのに。(E002 m05 #017-018) / 星南: 元『SyngUp!』のメンバーから…それほどよ、3人ともね。ただ……仲違いで解散したわけだから……生徒会にスカウトできるのは、ひとりだけ。(E005 m03 #013, #025-026) / 燕: やはり、月村手毬か？ 星南: …『SyngUp!』からひとりを選ぶなら、彼女じゃない。(#028-031) |
-| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §4.3 and §4.6. §9.2: 'Temari is the leading identification … keep name inference explicit until cross-source locator is attached'. §7.6: Misuzu is chosen from 'former SyngUp! members' as 'the only former member who appears well behaved'. Relationship State Ledger row 'Misuzu ↔ unnamed Class 1-1 friend ／ E002 ／ … Temari is leading identification but remains inference-labeled ／ moderate for identity'. Participant index: E002 'unnamed friend likely Temari but inference-labeled'; E005 lists Rinha, Temari and SyngUp as mentioned. The Rinha crosswalk (RINHA-XW-104 and its notes) carries the E005 m03 classification of Rinha. RS-I §5.8 and the Relationship State L… |
+| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §4.3 and §4.6. §9.2: 'Temari is the leading identification … keep name inference explicit until cross-source locator is attached'. §7.6: Misuzu is chosen from 'former SyngUp! members' as 'the only former member who appears well behaved'. Relationship State Ledger row 'Misuzu ↔ unnamed Class 1-1 friend \| E002 \| … Temari is leading identification but remains inference-labeled \| moderate for identity'. Participant index: E002 'unnamed friend likely Temari but inference-labeled'; E005 lists Rinha, Temari and SyngUp as mentioned. The Rinha crosswalk (RINHA-XW-104 and its notes) carries the E005 m03 classification of Rinha. RS-I §5.8 and the Relationship State Ledger Phase-5 Temari↔Misuzu row record 'mutual observation of new friends' during the estrangement, from support evidence, without linking E002. No canonical treatment found for the fan-paddle rumour or for Sena's assessment of Temari (searched: うちわ, 団扇, fan-hitting, 叩いて; Temari + Sena + scout/successor/彼女じゃない). |
 | Deficiency | The inference discipline is correct, but the corroborating locators that now exist were never attached. E005 m03, in the same tranche, gives the SyngUp! roster (Temari/Rinha/Misuzu), says the unit split through a falling-out (仲違いで解散), and bills Temari as the middle-school No.1. In E002 m04 #045–048 Misuzu reports that she watched Class 1-1 quarrelling. Phase-5 support evidence shows Temari and Misuzu each watching the other's new friends. Two SyngUp! details are also untracked. First, Misuzu's contrastive emphasis わたし<em>は</em> on the fan-paddle rumour implies, without naming anyone, misconduct by another member; this bears on the 'bad image' that Sena acknowledges. Second, Sena pointedly excludes Temari, with a pause and no explanation, despite rating her a superb talent. |
 | Alternative | E002 never names the friend, and this tranche does not state Rinha's class, so inference labelling stays formally correct. §7.6's 'well behaved' remark already implies why Temari and Rinha were passed over. The rumour emphasis is an implication, not a claim. RS-I §5 carries SyngUp!'s reputation and rupture from core material. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -2440,7 +2465,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | In the Relationship State Ledger E002 Misuzu-friend row and tranche §4.6/§9.2, attach three locators: E005 m03 #011–034, E002 m04 #045–048, and the Phase-5 Temari↔Misuzu 'mutual observation of new friends' row. Relabel the identification as 'strongly corroborated inference (unnamed in E002)'. Add to tranche §7.6, or to the SyngUp section of RS-I, two inference-labelled items of SyngUp! reputation evidence: Sena's Temari assessment (E005 m03 #028–031) and Misuzu's emphasised denial of the fan-paddle rumour (E002 m03 #051–054). |
 | Status | open |
 
-### HSCA-118 — P3 — Misuzu names the motivated state as nostalgic twice - at the commitment point and at the decisive race - and Temari predicts the comeback f…
+### HSCA-118 — P3 — Misuzu names the motivated state as nostalgic twice - at the commitment point and at the decisive race - and Temari predicts the comeback from long acquaintance.
 
 | Field | Value |
 |---|---|
@@ -2459,7 +2484,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | One-line note in tranche §3.5: 'Misuzu twice calls the state 懐かしい (014-03 #071; 014-05 #018); Temari predicts the comeback from acquaintance (014-04 #056; 014-05 #040); referent open - any SyngUp-era link is inference.' |
 | Status | open |
 
-### HSCA-119 — P3 — Misuzu never names Temari in story_0011 (no 手毬/まりちゃん/月村 in any of the three parts). She says important friend(s) are in classes 1 and 3. Th…
+### HSCA-119 — P3 — Misuzu never names Temari in story_0011 (no 手毬/まりちゃん/月村 in any of the three parts).
 
 | Field | Value |
 |---|---|
@@ -2478,7 +2503,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | S3T §13 and CSL l.605: 'an unnamed estranged "precious friend" in classes 1 and 3 — contextually Temari (1-1); the class-3 referent is not identified in the text'. |
 | Status | open |
 
-### HSCA-120 — P3 — Misuzu's address system is dynamic: bare 燐羽 (and 'リーダー') enters with the Dear 012 hostility and frames the Dear 014 'fight properly' line a…
+### HSCA-120 — P3 — Misuzu's address system is dynamic: bare 燐羽 (and 'リーダー') enters with the Dear 012 hostility and frames the Dear 014 'fight properly' line and the Dear 016 'わたしが上で' offer, persisting through Dear 020 and 034; bare 手毬 is used to Temari only at the summit (Dear 034 close, Dear 036).
 
 | Field | Value |
 |---|---|
@@ -2497,7 +2522,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §27.6 note and JVR ledger l.238: bare-name address marks conflict/equality (燐羽 from Dear 012/014; 手毬 at Dear 034/036). |
 | Status | open |
 
-### HSCA-121 — P3 — (1) Dear 009 - Misuzu cries in front of Temari when her effort is recognised ('ふたりめ') and calls it possibly the best day of her life, the a…
+### HSCA-121 — P3 — (1) Dear 009 - Misuzu cries in front of Temari when her effort is recognised ('ふたりめ') and calls it possibly the best day of her life, the antecedent of Dear 037's refusal to make the summit 'the best day' - is uncited in core/matrix, so the record does not show that tears before Temari precede Dear 036.
 
 | Field | Value |
 |---|---|
@@ -2516,7 +2541,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add Dear 009 to matrix C04/C25 locators; correct the §21 locator to CIDOL 015_01; adjust §14 wording to 'cried privately over being outclassed by Kei and Rinha (Dear 032)'. |
 | Status | open |
 
-### HSCA-122 — P3 — Rinami explicitly declines to tell Mao not to overwork because she shares the third-year final-chance pressure, and no home treats this. It…
+### HSCA-122 — P3 — Rinami explicitly declines to tell Mao not to overwork because she shares the third-year final-chance pressure, and no home treats this.
 
 | Field | Value |
 |---|---|
@@ -2535,7 +2560,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add one sentence to EVENTS_021_PLUS §2.1 or §3.5 (or a note on the CSL Rinami row): Rinami's protective command targets duty overload; in E022 she identifies with a peer's final-chance training and does not forbid it. |
 | Status | open |
 
-### HSCA-123 — P3 — The fan-art submission detail is placed inside the story_0071 section, but it appears only in 0074_01 (grep イラスト／投稿 over 0071/0074: only 00…
+### HSCA-123 — P3 — The fan-art submission detail is placed inside the story_0071 section, but it appears only in 0074_01 (grep イラスト\|投稿 over 0071/0074: only 0074_part_01).
 
 | Field | Value |
 |---|---|
@@ -2546,7 +2571,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | 0071_02 third-year karaoke; 0074_01 Rinami/Lilja bookstore (unclear year) |
 | Evidence | 莉波(0071_02): 夕方は妹と一緒に、アニメをよく観てたんです。 / 莉波(0074_01): 妹と一緒に、読者コーナーにイラストとか投稿してたよ。 |
 | Existing treatment | GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md §22 (l.511, under story_0071: 'They even submitted illustrations to reader sections'); §25 attributes the same detail correctly to 0074. |
-| Deficiency | The fan-art submission detail is placed inside the story_0071 section, but it appears only in 0074_01 (grep イラスト／投稿 over 0071/0074: only 0074_part_01). A reader routing claim → story from §22 would open the wrong script. |
+| Deficiency | The fan-art submission detail is placed inside the story_0071 section, but it appears only in 0074_01 (grep イラスト\|投稿 over 0071/0074: only 0074_part_01). A reader routing claim → story from §22 would open the wrong script. |
 | Alternative | §25 has the correct locator, so the information itself is not lost. |
 | Disposition | TRACEABILITY_GAP |
 | Severity | P3 — Locator conflation inside one tranche. No interpretive effect. |
@@ -2554,7 +2579,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md §22: move the reader-section fan-art clause to §25 or tag it '(0074_01)'. |
 | Status | open |
 
-### HSCA-124 — P3 — A1 grep of the whole archive finds the line only in adv_cidol-hrnm-3-013_03; in Dear 020 the memory dispute is left unresolved. A modular c…
+### HSCA-124 — P3 — A1 grep of the whole archive finds the line only in adv_cidol-hrnm-3-013_03; in Dear 020 the memory dispute is left unresolved.
 
 | Field | Value |
 |---|---|
@@ -2573,7 +2598,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Core §7 and register-ledger row: re-source the line to cidol 013_03 (C-RINAMI) and note Dear 020 leaves the dispute open. |
 | Status | open |
 
-### HSCA-125 — P3 — The Rinami-Producer childhood premise surfaces asymmetrically in the ensemble U1 track (she seems to recognize him; he does not) and is fra…
+### HSCA-125 — P3 — The Rinami-Producer childhood premise surfaces asymmetrically in the ensemble U1 track (she seems to recognize him; he does not) and is framed institutionally by Asari as a childhood-sweetheart archetype.
 
 | Field | Value |
 |---|---|
@@ -2592,7 +2617,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Unit-story placement doc / continuity ledger: note U1 ep03 part04 branch-gated recognition cue as possibility-space, not imported biography; optionally cite school_010 in Rinami-Producer relationship rows. |
 | Status | open |
 
-### HSCA-126 — P3 — The interpretations exist, but their most compact lexical provenance is not attached. Only Sena glosses 一番星 as わたし, and she does so twice; …
+### HSCA-126 — P3 — The interpretations exist, but their most compact lexical provenance is not attached.
 
 | Field | Value |
 |---|---|
@@ -2611,7 +2636,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add rows to the Voice and Register ledger's Phase-4 E001–005 delta, and a sentence to tranche §12.2/§12.10: (1) Sena alone reads 一番星 as わたし, others as プリマステラ; (2) 後継者/敵=ライバル, as the earliest instance of the 後継者→ライバル opposition, cross-linked to Saki core §14.8; (3) Saki's クラス=わたし; (4) Temari's 予定 emphasis and pronoun drift. |
 | Status | open |
 
-### HSCA-127 — P3 — The text gives the cause: Lilja beat Saki at the E001 class-party games. This happens offscreen and is confirmed by Saki's excuse and by '借…
+### HSCA-127 — P3 — The text gives the cause: Lilja beat Saki at the E001 class-party games.
 
 | Field | Value |
 |---|---|
@@ -2621,7 +2646,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (rows 1287, 1298, 1299); A1 verified |
 | Story state | The E001 m05 class party, where games are announced and the results happen offscreen, is followed by the E004 summer festival. Modular event track. |
 | Evidence | 咲季: あらゆるパーティーゲームで百戦無敵を誇るこのわたしに、挑んできなさい！ 清夏: …うちのめちゃつよリーリヤに勝てるかな～？ (E001 m05 #051-052) / 咲季: 葛城リーリヤ！　借りを返すときが来たようね！ (E004 m01 #050) / 咲季: 懇親会の時は本調子じゃなかったの！…今度こそわたしが勝つんだから！ (E004 m02 #018, #020) / まだ借りを返しただけで、勝ち越してないもの。(#045) |
-| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §6.2: 'Personal competitive interest in Lilja matters' and 'should not be overread as secret romance'. §6.4: 'Saki initially crushes Lilja … wants Lilja competent enough that victory over her means something'. §9.1 Saki ↔ Lilja: 'Early relation: classmate / competitive curiosity'. Relationship State Ledger: 'Saki ↔ Lilja ／ E004 ／ competitive curiosity becomes mentorship and reciprocal rivalry'. |
+| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §6.2: 'Personal competitive interest in Lilja matters' and 'should not be overread as secret romance'. §6.4: 'Saki initially crushes Lilja … wants Lilja competent enough that victory over her means something'. §9.1 Saki ↔ Lilja: 'Early relation: classmate / competitive curiosity'. Relationship State Ledger: 'Saki ↔ Lilja \| E004 \| competitive curiosity becomes mentorship and reciprocal rivalry'. |
 | Deficiency | The text gives the cause: Lilja beat Saki at the E001 class-party games. This happens offscreen and is confirmed by Saki's excuse and by '借りを返す'. The relationship therefore starts from Lilja's win, not from Saki's curiosity. Saki's first festival move is revenge, beating a beginner, and it turns into teaching only after Kotone shames her. This is an E001→E004 continuity link, and it makes the edge reciprocal from the outset. It also strengthens the tranche's own §3.3 rule that someone who beats Saki becomes more interesting to her. |
 | Alternative | §6.2's 'personal competitive interest' and §6.4's acknowledgement that Saki first crushed Lilja already cover the substance. The party loss happens offscreen and the stakes are trivial. |
 | Disposition | UNDERWEIGHTED |
@@ -2630,7 +2655,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | In §9.1 Saki ↔ Lilja, record that Lilja beat Saki at the E001 party games (offscreen; E004 m01 #050, m02 #018/#045) and that E004 opens as Saki's revenge. Add the E001 m05 → E004 link to the E004 continuity entry. In the Relationship State Ledger row, change 'competitive curiosity' to 'revenge after an offscreen loss'. |
 | Status | open |
 
-### HSCA-128 — P3 — The enrolment-reason self-claim is located in story_0003/part_02 (where Ume notes the school has 'everything we used at home'), not story_0…
+### HSCA-128 — P3 — The enrolment-reason self-claim is located in story_0003/part_02 (where Ume notes the school has 'everything we used at home'), not story_0023.
 
 | Field | Value |
 |---|---|
@@ -2649,7 +2674,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | S3T §25: route the 'one reason she enrolled' claim to story_0003/part_02 and keep the 0023 machine/trainer/father-report content in §25. |
 | Status | open |
 
-### HSCA-129 — P3 — Saki's side is not recorded. She is pleased and troubled at once ('最高に嬉しくて――……悩ましい'), and she nudges Ume toward her class friends, which Um…
+### HSCA-129 — P3 — Saki's side is not recorded. She is pleased and troubled at once ('最高に嬉しくて――……悩ましい'), and she nudges Ume toward her class friends, which Ume declines.
 
 | Field | Value |
 |---|---|
@@ -2668,7 +2693,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_026_050_DEEP_READING.md §0 bullet: 'Ume develops friendships... while still deliberately organizing her own routine around Saki (0035)'. §11: add Saki's 嬉しくて/悩ましい ambivalence and her nudge toward Ume's class friends. |
 | Status | open |
 
-### HSCA-130 — P3 — The interpretation is right, but its provenance is left vague ('in some aspect', 'an earlier challenge') although the referent is explicit …
+### HSCA-130 — P3 — The interpretation is right, but its provenance is left vague ('in some aspect', 'an earlier challenge') although the referent is explicit and canonical: Event 005 main-04, where both the disappointment and the 'example of exceeding limits' vow originate.
 
 | Field | Value |
 |---|---|
@@ -2687,7 +2712,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §15: cite GKM_EVENTS_001_005 §7.7 / adv_event_005_main-04 as the referent. GKM_RELATIONSHIP_STATE_LEDGER Saki<->Sena Phase-5 row: add 'closes E005 main-04 disappointment/example vow'. |
 | Status | open |
 
-### HSCA-131 — P3 — Across P-route failure states Saki negotiates Producer-witnessed grief (venting 'within sight', 'stay with me so I can run again tomorrow',…
+### HSCA-131 — P3 — Across P-route failure states Saki negotiates Producer-witnessed grief (venting 'within sight', 'stay with me so I can run again tomorrow', announcing her crying to him), while one P1 state still privatizes it ('cry at home').
 
 | Field | Value |
 |---|---|
@@ -2716,7 +2741,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (manifest.csv SHA-256 82ed6510…96b1 re-verified); A1 verified |
 | Story state | C1 @ D-SAKI (Dear 006 ordinary win; Dear 009 first underdog contest; Dear 011–012 N.I.A. set-up and fan-ranking tie) |
 | Evidence | Dear 009: 歌も、ダンスも……なにもかも、ぜんぶ佑芽に負けてたわよね。……なんで勝てたんだろう？ / 今日はあなたの方が、魅力的なアイドルだった / ひたすら必死に……悪あがきをしただけで。 / Dear 011: あの日以来の直接対決ね。 / Dear 012: えっ……同じ順位？ |
-| Existing treatment | GKM_CHARACTER_STATE_LEDGER Phase-3 Saki row 'D-SAKI first direct Ume contest ／ adv_dear_hski_011–012 ／ … wins by preparation, strategy, and total competitive construction'; GKM_RELATIONSHIP_STATE_LEDGER row 'Saki ↔ Ume ／ first direct stable contest ／ adv_dear_hski_011–012 ／ … Saki has strategy and accumulated competence'. The core itself is correct (§3.2.4; SAKI-L003 = Dear 009). |
+| Existing treatment | GKM_CHARACTER_STATE_LEDGER Phase-3 Saki row 'D-SAKI first direct Ume contest \| adv_dear_hski_011–012 \| … wins by preparation, strategy, and total competitive construction'; GKM_RELATIONSHIP_STATE_LEDGER row 'Saki ↔ Ume \| first direct stable contest \| adv_dear_hski_011–012 \| … Saki has strategy and accumulated competence'. The core itself is correct (§3.2.4; SAKI-L003 = Dear 009). |
 | Deficiency | Both ledger rows cite the wrong scripts: Dear 011–012 contain the N.I.A. announcement and a fan-ranking tie; the first underdog contest is Dear 009 (Dear 011 l.254 calls the coming FINALE 'the first direct contest since that day'), and Dear 006 shows an earlier ordinary win. The causal gloss 'wins by preparation, strategy' is unsupported: in Dear 009 Saki does not know why she won and says she only struggled desperately; the Producer attributes the result to her being the more charming idol (core §3.2.4 reads this correctly). |
 | Alternative | Adequacy defence: the ledgers are routing summaries and the governing core reading is correct; a reader following the core is not misled. Counter: the ledgers are declared evidence-routing spines; a wrong locator plus a wrong causal gloss can propagate into later syntheses. |
 | Disposition | CONTINUITY_OR_ATTRIBUTION_ERROR |
@@ -2724,8 +2749,9 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Confidence | high |
 | Recommendation | GKM_CHARACTER_STATE_LEDGER and GKM_RELATIONSHIP_STATE_LEDGER: change the source to adv_dear_hski_009 (optionally 006 for the prior ordinary contest) and replace 'wins by preparation, strategy…' with 'wins narrowly without being able to explain it; the Producer attributes it to idol appeal not captured by technique'. |
 | Status | open |
+| Merged members | hume-B-F09 (TRACEABILITY_GAP, P3): Locator mismatch in two Hanami routing homes: the contest those rows describe (hands shaking, Saki wins without escaping) is Dear 009; Dear 011-012 contain N.I.A. fan material and a fan-count contest. |
 
-### HSCA-133 — P3 — The core's key redemption of the 'false genius' shame (cards / combinatorial talent) is textually authored by Sena in Dear 025 — interrupti…
+### HSCA-133 — P3 — The core's key redemption of the 'false genius' shame (cards / combinatorial talent) is textually authored by Sena in Dear 025 — interrupting Saki's habitual 'but I plateau' — and only later ratified by the Producer (deck-builder, cidol 018_03); Sena also frames herself and Saki as two all-rounders 'who fought by logic' (019_02).
 
 | Field | Value |
 |---|---|
@@ -2744,7 +2770,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_01 §3.2.13 / §5.2: credit Sena (dear_025 l.599–618) as the in-text author of the cards reframing; SAKI-C01/C02 evidence columns: add Dear 009 l.357–368 and Dear 032 l.471–482; §12.5: note the all-rounder parallel (cidol 019_02). |
 | Status | open |
 
-### HSCA-134 — P3 — Three small unwired corroborations/cautions: (a) 04_25 is a U1 instance of the public older-sister vocation, but §8.5/H-SAKI-03 do not cite…
+### HSCA-134 — P3 — Three small unwired corroborations/cautions: (a) 04_25 is a U1 instance of the public older-sister vocation, but §8.5/H-SAKI-03 do not cite it; (b) 04_24 '生まれて初めて……妹に勝てた' read literally contradicts Ume's 15-year record (01_02, 04_07, 04_21) and D-SAKI 009-012; context (04_21 Ume '初めてだ。お姉ちゃんを抜いたのも……抜き返されたのも') shows it means the first win after being overtaken — a §14.9 continuity/translation caution; (c) U1's 不屈 is the unit-name formula synthesized by the Producer from Temari's アヤメ derivation, not Saki's self-definition (Saki's own was 女神/虹) — v2.1's sentence is accurate but should not support a claim that Saki self-adopts 不屈 in U1.
 
 | Field | Value |
 |---|---|
@@ -2763,7 +2789,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | One-line U1 cross-reference in §8.5/H-SAKI-03; a §14.9 bullet on 04_24; in the §3.6.1 'Bearing' paragraph note the 03_10 Temari/Producer origin of 花のように不屈で. |
 | Status | open |
 
-### HSCA-135 — P3 — (a) The 妹-read-as-ライバル ruby — the most compact inscription of the Hanami thesis (RS-I §3.1 'constitutive') — is uncollected; (b) the voice …
+### HSCA-135 — P3 — (a) The 妹-read-as-ライバル ruby — the most compact inscription of the Hanami thesis (RS-I §3.1 'constitutive') — is uncollected; (b) the voice ledger mislocates the 仲間 ruby (part 14 → actually part 12; the core's L055 range 12-14 is correct); (c) observation only: Saki writes 私 instead of わたし in 5 first-person lines across Source Lock 1.0 (vs 1,138 lines containing わたし), two of them earnest addresses to a Producer (cidol hski 011 part 01; D-UME 017) — possibly a register mark, possibly orthographic noise; not asserted.
 
 | Field | Value |
 |---|---|
@@ -2782,7 +2808,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add the 妹/ライバル ruby to core §14.8 and the voice ledger; correct the ledger locator to adv_unit_01-01_12.txt; optional note on 私 as an unverified orthographic observation. |
 | Status | open |
 
-### HSCA-136 — P3 — Saki, using the older-sister register toward a peer, diagnoses Kotone's block precisely: she should sing 'as she is', and her appeal is lov…
+### HSCA-136 — P3 — Saki, using the older-sister register toward a peer, diagnoses Kotone's block precisely: she should sing 'as she is', and her appeal is loving herself even when timid.
 
 | Field | Value |
 |---|---|
@@ -2801,7 +2827,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Saki core §8.5 / H-SAKI-03: cite cidol fktn 000_02 as a peer use of the お姉ちゃん register; optional sentence in §3.3.1 noting that Saki prescribes to Kotone the self-acceptance she herself resists in `Fighting My Way`. RS-II §3.3: add 'self-presentation/song-stance coaching' to Saki's contributions, scoped C2/C4. |
 | Status | open |
 
-### HSCA-137 — P3 — The rank-3 episode-011/012 communications of all four bundles independently return to the Saki/Temari/Kotone unit as dream, simulation or p…
+### HSCA-137 — P3 — The rank-3 episode-011/012 communications of all four bundles independently return to the Saki/Temari/Kotone unit as dream, simulation or pre-enrolment plan, with Saki a constant member.
 
 | Field | Value |
 |---|---|
@@ -2820,7 +2846,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS-II §3.7 (or §1.2): one paragraph naming the episode-011/012 'Re;IRIS shadow' set across the Saki, Temari, Kotone and Sena bundles as dream, simulation or plan (not event), with Saki as the constant member; Saki core §15.6 and §8.6: cite cidol jsna 011_02 l.55–111 (Producer: Saki in every unit and ignites everyone; Sena: she would force equal training on partners). |
 | Status | open |
 
-### HSCA-138 — P3 — RS I §3.8 models external-friendship jealousy in the Hanami system as running from Saki towards Ume's new ties. This scene shows the revers…
+### HSCA-138 — P3 — RS I §3.8 models external-friendship jealousy in the Hanami system as running from Saki towards Ume's new ties.
 
 | Field | Value |
 |---|---|
@@ -2839,7 +2865,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a clause to RS I §3.8 (or the CSL Ume 026–050 row): 'jealousy runs both ways; Ume envies Saki's peer friendship (S2-0047) and Saki answers by placing sisterhood outside the friend category.' |
 | Status | open |
 
-### HSCA-139 — P3 — Ume herself says Saki's public 'everyone's big sister' stance is a current worry of hers (最近のあたしの悩み). The tranche records only Rinha's teas…
+### HSCA-139 — P3 — Ume herself says Saki's public 'everyone's big sister' stance is a current worry of hers (最近のあたしの悩み).
 
 | Field | Value |
 |---|---|
@@ -2858,7 +2884,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READING.md §23: add 'Ume confirms it is a current worry'. Optionally RS-I §3.8: one line that sister-category jealousy also reaches Saki's public 'everyone's sister' persona (S0097-03). |
 | Status | open |
 
-### HSCA-140 — P3 — Ume-side invariants that recur across continuities are not consolidated in any Ume-facing home: (a) first victory over Saki -> self-authore…
+### HSCA-140 — P3 — Ume-side invariants that recur across continuities are not consolidated in any Ume-facing home: (a) first victory over Saki -> self-authored idol dream (D-UME Dear 019-020; D-SAKI Dear 022; U1 04_14/04_21); (b) Ume already knows Saki's hidden fear and flaws (U1 02_08, U1 04_18, D-UME 033 'しってる'); (c) each sister fears disappointing the other and receives reassurance (Ume D-UME 008 / Saki D-UME 012 and D-SAKI 014 '失望なんてするわけない'; Saki D-SAKI 008, U1 04_18); (d) the '15 years' catch-up (U1 04_07, D-SAKI 022); (e) Ume as Sena's successor who refuses Sena's self-erasure (D-SAKI 024; U1 04_14; D-UME 036).
 
 | Field | Value |
 |---|---|
@@ -2877,7 +2903,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add a short 'Ume cross-track invariants' note (RS-I §9.2 or a Branch Ledger BR entry) and a Character State Ledger Ume U1 row pointing to RS-I §3.5.1; keep each track label explicit. |
 | Status | open |
 
-### HSCA-141 — P3 — Ume switches to Saki's full name at peak challenge moments (four direct-address or naming instances across D-UME and D-SAKI found by exhaus…
+### HSCA-141 — P3 — Ume switches to Saki's full name at peak challenge moments (four direct-address or naming instances across D-UME and D-SAKI found by exhaustive search; other hits are song titles or third-person references).
 
 | Field | Value |
 |---|---|
@@ -2896,7 +2922,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add one row to the Japanese Voice and Register Ledger (Ume -> Saki full-name address at challenge peaks) and a qualifier to GKM_CORE_10 §21.2 via addendum. |
 | Status | open |
 
-### HSCA-142 — P3 — §8 narrates P2 material and D-UME material as one 'Series 2 / N.I.A.' sequence without track labels; the P2 Produce Story contains the Rinh…
+### HSCA-142 — P3 — §8 narrates P2 material and D-UME material as one 'Series 2 / N.I.A.' sequence without track labels; the P2 Produce Story contains the Rinha loss and the dreams but no Ume victory over Rinha and no fan entrustment (Rinha is mentioned in only three P2 files).
 
 | Field | Value |
 |---|---|
@@ -2915,7 +2941,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add track labels to §8 in an addendum (P2: loss, dreams, popularity after loss; D-UME: coaching, victory, entrustment; M-UME: entrusted fans). |
 | Status | open |
 
-### HSCA-143 — P3 — Ume's own bundle (Dear 019) contains Saki's admission, made to Ume, that her past field changes were flight; the core uses only Ume's lines…
+### HSCA-143 — P3 — Ume's own bundle (Dear 019) contains Saki's admission, made to Ume, that her past field changes were flight; the core uses only Ume's lines and states Ume's self-account (her slowness made Saki disappear) as mechanism.
 
 | Field | Value |
 |---|---|
@@ -2934,7 +2960,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Annotate UME-C06 in an addendum as Ume's self-account; cross-reference RS-I §3.2 and the Dear 019 Saki line. |
 | Status | open |
 
-### HSCA-144 — P3 — Ume's own retrospective account to an outsider gives the vertical history a different valence from D-UME Dear 008/019. Saki 'ran ahead of m…
+### HSCA-144 — P3 — Ume's own retrospective account to an outsider gives the vertical history a different valence from D-UME Dear 008/019.
 
 | Field | Value |
 |---|---|
@@ -2953,7 +2979,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add D-MAO Dear 031 as cross-track counterpressure to UME-C06 (via a Ume addendum or RS-I §3.2), labelled C1 @ D-MAO; note Ume's positive account of Saki's lead next to the D-UME 'left behind' account. |
 | Status | open |
 
-### HSCA-145 — P3 — Across at least three tracks the Hanami facility serves rival idols: Sena's first stat growth after her plateau, China, Kotone, Tsubame, Mi…
+### HSCA-145 — P3 — Across at least three tracks the Hanami facility serves rival idols: Sena's first stat growth after her plateau, China, Kotone, Tsubame, Misuzu.
 
 | Field | Value |
 |---|---|
@@ -2972,7 +2998,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Answer the NPC ledger's open access question with the D-SENA, D-MISUZU and D-SAKI instances; add one qualifying sentence to side-character synthesis §2.1 and a pointer from OPEN-UME-04. Saki/Tsubame-side content of Dear 025 is for hski and Tsubame. |
 | Status | open |
 
-### HSCA-146 — P3 — The scene is carried at tranche and ledger level, but its two strongest consequences are not connected to their homes. (a) Sena states her …
+### HSCA-146 — P3 — The scene is carried at tranche and ledger level, but its two strongest consequences are not connected to their homes.
 
 | Field | Value |
 |---|---|
@@ -2982,7 +3008,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest (row 1306); A1 verified |
 | Story state | Modular event track. Early 1st year, after the entrance ceremony (#033) and before the summer H.I.F. (m05 #003–006). No Producer branch. Must not be merged with the D-SENA or P3 track states. |
 | Evidence | 星南: あら、2年前は私たちだって――………… (#028) / 星南: 成長限界を迎えたアイドルに、未来なんてない。夢に届かなかった星は、ただ消え去るのみよ。(#046-047) / 咲季: わたしにアイドルを教えてくれた、<em>かつてのあなた</em>の代わりにね。(#059) / 星南: 絶対に嫌。あの子は、私の後継者じゃない。 敵よ。(#067-068) / 燕: 昔の貴様にそっくりだろうが。(#072) |
-| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §7.7 treats the scene fully and accurately. §9.4: 'Sena ↔ Saki … mirror rivalry / anti-succession relation. High priority for Phase 6'. Relationship State Ledger row: 'Sena ↔ Saki ／ E005 ／ PROMOTE … Saki is explicitly 敵, not successor ／ very high'. Sena core §4 ('Stat vision: accurate knowledge becoming fatalism'), §25 ('another me', Dear 025) and §36.3. Saki core §12.5 ('Sena is Saki's idol origin') and its open question 'Saki ↔ Sena: Is Sena mentor, idol, rival, former summit…?'. E013 reading and Character State Ledger: 'E013 explicitly believes she has reached growth limit'. RS-II §8.1 lists Kotone, Ume, Tsubame and China as refusals of the replacement … |
+| Existing treatment | GKM_EVENTS_001_005_DEEP_READING.md §7.7 treats the scene fully and accurately. §9.4: 'Sena ↔ Saki … mirror rivalry / anti-succession relation. High priority for Phase 6'. Relationship State Ledger row: 'Sena ↔ Saki \| E005 \| PROMOTE … Saki is explicitly 敵, not successor \| very high'. Sena core §4 ('Stat vision: accurate knowledge becoming fatalism'), §25 ('another me', Dear 025) and §36.3. Saki core §12.5 ('Sena is Saki's idol origin') and its open question 'Saki ↔ Sena: Is Sena mentor, idol, rival, former summit…?'. E013 reading and Character State Ledger: 'E013 explicitly believes she has reached growth limit'. RS-II §8.1 lists Kotone, Ume, Tsubame and China as refusals of the replacement model; Saki and E005 are absent, and RS-II has no Saki↔Sena section. |
 | Deficiency | The scene is carried at tranche and ledger level, but its two strongest consequences are not connected to their homes. (a) Sena states her growth-limit doctrine with a broken-off allusion to her own past ('2年前は私たちだって――'), and Saki answers with 'かつてのあなた'. This is the earliest numbered-event statement of the fatalism that Sena core §4 and E013 (plateau) analyse, but neither links back to it. (b) The tranche's explicit Phase-6 PROMOTE was never carried out. The RS-II succession section omits the clearest anti-succession case, in which Saki refuses the model role and Sena herself reclassifies her as 敵. The Saki core's open question about Sena has a modular-event answer component (idol origin → rejected model → mutual 敵) that is not cross-referenced. |
 | Alternative | The Relationship State Ledger row meets the addendum's minimum propagation test. Sena core §25/§36.3 already models Saki as the rival Sena did not produce. Continuity rules rightly discourage merging event material into the Dear-track fatalism arc, so the missing link may be deliberate caution. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -2991,7 +3017,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add track-labelled cross-references: (1) tranche §7.7 → Sena core §4 and the E013 plateau, as the modular-event instance of the fatalism, with the self-referential reading marked as inference; (2) RS-II §8.1 → Saki (E005 m04 #048–068) as the earliest refusal of successor framing, which Sena herself reclassifies as 敵; (3) the Saki core open question 'Saki ↔ Sena' → E005 m04 #048–059. |
 | Status | open |
 
-### HSCA-147 — P3 — Epistemic-category handling: an imagined voice is indexed as an appearance, and its analytical consequence goes unstated. The consequence i…
+### HSCA-147 — P3 — Epistemic-category handling: an imagined voice is indexed as an appearance, and its analytical consequence goes unstated.
 
 | Field | Value |
 |---|---|
@@ -3010,7 +3036,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Participant index S2-0042: change to 'Fujita Kotone (imagined voice only)'. Add one sentence to GKM_SUPPORT_SERIES_02_PART_026_050_DEEP_READING.md §18 noting that Sena voices an imagined Kotone accepting her production, and tie it to the OPEN/RISK claim. Optionally add a CONT nonliteral control line. |
 | Status | open |
 
-### HSCA-148 — P3 — The Saki 'another me' / saviour judgment is in Dear 026, not 025 (A1; concurs with the routed Saki-supplement note; Saki-side consequences …
+### HSCA-148 — P3 — The Saki 'another me' / saviour judgment is in Dear 026, not 025 (A1; concurs with the routed Saki-supplement note; Saki-side consequences are filed as hski-S-F02 — Sena side only here).
 
 | Field | Value |
 |---|---|
@@ -3029,7 +3055,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Correct SENA-C40 locator to Dear 026 via addendum/ledger; add a locator row for adv_dear_jsna_026.txt (Saki and Tsubame inner lines). |
 | Status | open |
 
-### HSCA-149 — P3 — The statement is in Misuzu's CIDOL 015 part_02 (outside Sena's declared bundle), not Sena's CIDOL 016 (no such line in parts 01–03). The co…
+### HSCA-149 — P3 — The statement is in Misuzu's CIDOL 015 part_02 (outside Sena's declared bundle), not Sena's CIDOL 016 (no such line in parts 01–03).
 
 | Field | Value |
 |---|---|
@@ -3048,7 +3074,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Relocate SENA-C47 evidence to adv_cidol-hmsz-3-015_02.txt via addendum and note Misuzu's adversarial framing / Kaya Kei element; cross-reference Misuzu core. |
 | Status | open |
 
-### HSCA-150 — P3 — The Juo-family model lacks its institutional-political layer: a father allied with 961's Kuroi in founding N.I.A., a grandfather who resent…
+### HSCA-150 — P3 — The Juo-family model lacks its institutional-political layer: a father allied with 961's Kuroi in founding N.I.A., a grandfather who resents it, and a father whose talent-acquisition logic Sena says she hates — complicating the 'indirect care' template (core §33; side-char §2.4) and the Hatsuboshi-vs-Gokugetsu 'outside' taxonomy (side-char §4.6).
 
 | Field | Value |
 |---|---|
@@ -3067,7 +3093,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to side-character synthesis §2.4/§5.1 or the NPC ledger (Ryuusei): N.I.A. co-planning with Kuroi (D-SENA 012, principal's claim), H.I.F.-exclusion motive for Mao and Sena's opposition (D-MAO 024). |
 | Status | open |
 
-### HSCA-151 — P3 — Several canonical homes identify the unnamed same-age maid apprentice of cidol 009_02 with Hiwatari Kanae and attribute the childhood petit…
+### HSCA-151 — P3 — Several canonical homes identify the unnamed same-age maid apprentice of cidol 009_02 with Hiwatari Kanae and attribute the childhood petition to Kanae as fact.
 
 | Field | Value |
 |---|---|
@@ -3077,7 +3103,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | M-CHINA cidol 009 (childhood memory); Kanae appears by name only in Dear 011/021/023/024/027/034/036, cidol 014/016, event_003 activity_022, Hiro cidol 014/016, S2-0074, S3-0072/0088/0103. |
 | Evidence | わたくしを<em>あやして</em>くれたのは、同じ年のメイド見習いでしたわ。/ ――彼女が、お爺様に直談判をしてくれたのです。(name never given) |
-| Existing treatment | NPC & Side-Character Ledger row 氷渡香名江 ('same-age caretaker…; childhood intervention helped change the Kuramoto household's emotional practice ／ cidol 009'); Relationship State Ledger 'China <-> Kanae' ('same-age caretaker…historical witness'); side-characters synthesis §2.3 ('same-age companion'); AV Music close reading §5.1 ('Kanae and others formed the child's immediate world'); Complete AV baseline §6.3 ('Kanae's care'); Dialogue close reading §6.4 ('continuity with a childhood self'); Character State Ledger 'C-CHINA family roots' ('recognizes Kanae/family history'). |
+| Existing treatment | NPC & Side-Character Ledger row 氷渡香名江 ('same-age caretaker…; childhood intervention helped change the Kuramoto household's emotional practice \| cidol 009'); Relationship State Ledger 'China <-> Kanae' ('same-age caretaker…historical witness'); side-characters synthesis §2.3 ('same-age companion'); AV Music close reading §5.1 ('Kanae and others formed the child's immediate world'); Complete AV baseline §6.3 ('Kanae's care'); Dialogue close reading §6.4 ('continuity with a childhood self'); Character State Ledger 'C-CHINA family roots' ('recognizes Kanae/family history'). |
 | Deficiency | Several canonical homes identify the unnamed same-age maid apprentice of cidol 009_02 with Hiwatari Kanae and attribute the childhood petition to Kanae as fact. No Source Lock text checked names the apprentice or states Kanae's age or childhood service (full search of every 香名江/氷渡 file plus 同じ年/同い年/見習い/お世話係; the raw script of 009_02 contains only the kcna actor and the China-room background, so the rendered commu cannot show her either). The identification is an inference presented as an established attribute. |
 | Alternative | The identification is highly plausible (Kanae is the only named same-generation Kuramoto maid; Ume calls her 香名江ちゃん; Kanae's guardianship behaviour fits) and may be confirmed by paratext outside the boundary. Nothing in the analysis depends heavily on it beyond Kanae's 'historical witness' role. |
 | Disposition | CONTINUITY_OR_ATTRIBUTION_ERROR |
@@ -3086,7 +3112,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Mark the Kanae = childhood apprentice identification as INFERENCE (unnamed in cidol 009_02) in the NPC ledger, Relationship State Ledger and side-character synthesis §2.3; keep Kanae's attested functions (fan No.9, aide, Xiao He, election shield, uchiwa, vetting) unchanged. |
 | Status | open |
 
-### HSCA-152 — P3 — A route-structuring evaluation (latent talent ≈ Sena, a prophecy confirmed by the Producer in Dear 020 immediately after China's 'cannot do…
+### HSCA-152 — P3 — A route-structuring evaluation (latent talent ≈ Sena, a prophecy confirmed by the Producer in Dear 020 immediately after China's 'cannot do anything alone', and by Juo's Dear 032 'entertainer above Sena') appears only in an event reading.
 
 | Field | Value |
 |---|---|
@@ -3105,7 +3131,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add the headmaster evaluation (Dear 003, P1 step-2, P2 audition-b, Dear 020, Dear 032) to CHINA-C05 evidence with a cross-reference to Events 001-005 §7.5. |
 | Status | open |
 
-### HSCA-153 — P3 — Corpus-wide count of China's lines: 篠澤さん 198, 花海さん 145, 広さん 3, 佑芽さん 2 (two of the latter are full-name roll calls in Dear 024 and D-HIRO De…
+### HSCA-153 — P3 — Corpus-wide count of China's lines: 篠澤さん 198, 花海さん 145, 広さん 3, 佑芽さん 2 (two of the latter are full-name roll calls in Dear 024 and D-HIRO Dear 033).
 
 | Field | Value |
 |---|---|
@@ -3124,7 +3150,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add to the Register Ledger China model and RS-II §4 a note: habitual surname address to Hiro/Ume, with a single marked first-name address at Dear 035 (rivalry declaration), not sustained; and the P3 あなた moment. |
 | Status | open |
 
-### HSCA-154 — P3 — The repair narrative is D-CHINA-specific. In P1 the fee motive is kept openly and China thanks him for being lured by the reward, accepting…
+### HSCA-154 — P3 — The repair narrative is D-CHINA-specific.
 
 | Field | Value |
 |---|---|
@@ -3134,7 +3160,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A2 read, key lines checked at A1 |
 | Story state | P1[CHINA] mid-audition normal-01 (top pass) vs D-CHINA Dear 002 (redo of the meeting). |
 | Evidence | なにせ報酬が破格ですからね。/ もちろん、好きですよ。/ 報酬に釣られてくださって……本当にありがとうございました！(P1) vs 倉本家からの依頼がなかったとしても。成功報酬がなかったとしても。(Dear 002) |
-| Existing treatment | Core §18 (grandfather-requested assignment as 'structural contamination'; Dear 002 'repairs the problem'); Relationship State Ledger row 'China <-> Producer ／ P1->D-CHINA'. |
+| Existing treatment | Core §18 (grandfather-requested assignment as 'structural contamination'; Dear 002 'repairs the problem'); Relationship State Ledger row 'China <-> Producer \| P1->D-CHINA'. |
 | Deficiency | The repair narrative is D-CHINA-specific. In P1 the fee motive is kept openly and China thanks him for being lured by the reward, accepting the transactional origin rather than having it disclaimed. The core does not note the branch variant, and the ledger row's 'P1->D-CHINA' state label reads as one progression. |
 | Alternative | The core never claims P1 contains the redo; both versions end in warm chosen attachment. |
 | Disposition | UNDERWEIGHTED |
@@ -3143,7 +3169,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Note in core addendum §18 / ledger row that P1 retains the fee motive (accepted by China) while D-CHINA disclaims it; relabel 'P1->D-CHINA' as 'P1; D-CHINA'. |
 | Status | open |
 
-### HSCA-155 — P3 — The Misuzu-China edge lacks a canonical home: Dear 024's personnel-authority bargain (with China's benign inner reading) is a direct parall…
+### HSCA-155 — P3 — The Misuzu-China edge lacks a canonical home: Dear 024's personnel-authority bargain (with China's benign inner reading) is a direct parallel to the Events §7.6 OPEN hypothesis about why Misuzu wants council capacity, and Misuzu's admission that China is the first to make her feel defeat is unrecorded.
 
 | Field | Value |
 |---|---|
@@ -3162,7 +3188,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Cross-reference Dear 024/026 to Events 001-005 §7.6 OPEN and to C16; route the Misuzu-side reading to the hmsz audit. |
 | Status | open |
 
-### HSCA-156 — P3 — §5.4 describes the repair but leaves out how it begins. Alone and overloaded, Lilja's reflex is to call for the absent Sumika. Kotone's fir…
+### HSCA-156 — P3 — §5.4 describes the repair but leaves out how it begins.
 
 | Field | Value |
 |---|---|
@@ -3181,13 +3207,13 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Tranche §5.4 or §10.6: add one clause on the Sumika-substitution beat (Kotone: 'ゴメンね♪――清夏じゃなくて'). |
 | Status | open |
 
-### HSCA-157 — P3 — Both locators name the wrong support series. The described content is in Support Series 2 story_0036 (Lilja/Kotone/Sumika) and Support Seri…
+### HSCA-157 — P3 — Both locators name the wrong support series.
 
 | Field | Value |
 |---|---|
 | Finding ID | HSCA-157 (SP-4-B-F08) |
 | Subject | Katsuragi Lilja, Shiun Sumika, Hataya Misuzu, Tsukimura Temari |
-| Source identity | `adv_csprt-2-0036_02.txt` (`transcripts_raw/04_support_card_stories/support_series_2/story_0036/part_02.txt`); `adv_csprt-2-0042_0x.txt` (`transcripts_raw/04_support_card_stories/support_series_2/story_0042/`) |
+| Source identity | `adv_csprt-2-0036_02.txt` (`transcripts_raw/04_support_card_stories/support_series_2/story_0036/part_02.txt`); `adv_csprt-2-0042_01.txt` (`transcripts_raw/04_support_card_stories/support_series_2/story_0042/part_01.txt`); `adv_csprt-2-0042_02.txt` (`transcripts_raw/04_support_card_stories/support_series_2/story_0042/part_02.txt`) |
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (locator error in canonical synthesis) |
 | Story state | n/a (locator) |
 | Evidence | S2 0036_02: 清夏「うちのリーリヤをいじめんなぁ？」 / S2 0042: 美鈴「バレンタイン前後の摂取カロリーを 抑えてあげるんです。」 |
@@ -3200,7 +3226,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | RS I §12.2 and §12.3: change both to 'Support Series 2'. Optionally add S3 story_0042 (idol-invitation origin) to §12.2. |
 | Status | open |
 
-### HSCA-158 — P3 — Lilja's signature self-lowering 'わたしなんか' is not tracked as a marker although it is thematized in-text: she becomes self-conscious of it, th…
+### HSCA-158 — P3 — Lilja's signature self-lowering 'わたしなんか' is not tracked as a marker although it is thematized in-text: she becomes self-conscious of it, the Producer first accepts it as individuality, later bans it as unbefitting her growth, Saki challenges it, and it persists into the P1 true ending.
 
 | Field | Value |
 |---|---|
@@ -3219,7 +3245,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add 'わたしなんか' as a tracked Lilja marker in the Japanese Voice and Register Ledger with the three interventions and its persistence. |
 | Status | open |
 
-### HSCA-159 — P3 — In an independent track (D-MAO), a professional alumna recalls a past Prima Stella named 賀陽. This corroborates the Kei-as-former-Prima-Stel…
+### HSCA-159 — P3 — In an independent track (D-MAO), a professional alumna recalls a past Prima Stella named 賀陽.
 
 | Field | Value |
 |---|---|
@@ -3238,7 +3264,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Kaya crosswalk §8: log Dear 025 (and the Sena Dear hit) as Kei-reference rows or as explicit exclusions; add Dear 025 as cross-track support for RINHA-C003. |
 | Status | open |
 
-### HSCA-160 — P3 — The Phase-6 side-character synthesis, which is Asari's designated synthesis home, does not mention Event 029 even with its continuity gate.…
+### HSCA-160 — P3 — The Phase-6 side-character synthesis, which is Asari's designated synthesis home, does not mention Event 029 even with its continuity gate.
 
 | Field | Value |
 |---|---|
@@ -3248,7 +3274,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified |
 | Story state | E029 branch/novelty-gated Asari producer-idol sequence (internal order agreement → auditions → live) |
 | Evidence | あさり先生: 担当アイドルの活躍はきみの成績にも関わるんですよ？ / {user}: あさり先生がいいんです！ / あさり先生: なぜ先生に相談もせずに、こんなことをしてしまったんですかっ！ / (main-02) あさり先生: やるからには本気でやらないと！他の頑張っているアイドル科の生徒たちに失礼じゃないですかっ！ |
-| Existing treatment | EVENTS_021_PLUS §8.1–8.2, §12.7, §15.1; RS II §1.2 (branch-bounded Producer) and §9.10 ('belief in another person's potential is not substitute authorization'); NPC ledger 'Asari-sensei — Event 029 branch-gated evidence'; CONT ledger and SEPI E029 rows. The side-characters synthesis §3.1 (Neo Asari) has no E029 reference (grep E029／Event 029／event_029: 0 hits), although it discusses the story_0019–0020 scouting exercise in which the Producer pitches Asari as a self-producing 'idol who raises idols'. |
+| Existing treatment | EVENTS_021_PLUS §8.1–8.2, §12.7, §15.1; RS II §1.2 (branch-bounded Producer) and §9.10 ('belief in another person's potential is not substitute authorization'); NPC ledger 'Asari-sensei — Event 029 branch-gated evidence'; CONT ledger and SEPI E029 rows. The side-characters synthesis §3.1 (Neo Asari) has no E029 reference (grep E029\|Event 029\|event_029: 0 hits), although it discusses the story_0019–0020 scouting exercise in which the Producer pitches Asari as a self-producing 'idol who raises idols'. |
 | Deficiency | The Phase-6 side-character synthesis, which is Asari's designated synthesis home, does not mention Event 029 even with its continuity gate. Yet its own §3.1 discusses the support-card scouting exercise that the event literalizes, and its 'Asari is a professional character' claim is directly supported by E029 main-02. A reader of the synthesis cannot find the branch-gated evidence or the RS II §9.10 overreach warning. |
 | Alternative | Defence: the omission may be deliberate given the branch gate, and the NPC ledger and RS II §9.10 carry the event, so cumulative propagation exists. |
 | Disposition | CROSS_REFERENCE_GAP |
@@ -3257,7 +3283,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Side-characters synthesis §3.1: add a branch-gated pointer to E029 (professionalism transfer; teacher/idol dual role; Producer overreach per RS II §9.10), explicitly marked as not baseline biography. |
 | Status | open |
 
-### HSCA-161 — P3 — D-TSUBAME supplies the only direct evidence of the Shirakusa household's favouritism: a parent praises Gekka and brushes Shion off. It show…
+### HSCA-161 — P3 — D-TSUBAME supplies the only direct evidence of the Shirakusa household's favouritism: a parent praises Gekka and brushes Shion off.
 
 | Field | Value |
 |---|---|
@@ -3276,7 +3302,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Side-characters synthesis §4.3 (and optionally the §2.11 family table): add the D-TSUBAME Shirakusa flashback (dear_016 #037-046) and the dear_019 #033-037 / dear_023 #043-047, #075 outcome, track-labelled C1 @ D-TSUBAME. |
 | Status | open |
 
-### HSCA-162 — P3 — A synthesis home names the wrong speaker. In E002, Hiro coins the label and calls the trio 運命の仲間; Ume supplies the climb-together frame. Th…
+### HSCA-162 — P3 — A synthesis home names the wrong speaker.
 
 | Field | Value |
 |---|---|
@@ -3295,7 +3321,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Revise RS-II §4.1 to: 'Hiro names the trio the ワーストスリー / 運命の仲間 (E002 m01 #043–044; in U1 03_02 China names it); Ume proposes that they climb from the bottom together (#048).' |
 | Status | open |
 
-### HSCA-163 — P3 — The かわいくなりたかった confession is first spoken in-scene in Dear 010 (early D-HIRO), but every locator points to the cidol 018_01 replay. That re…
+### HSCA-163 — P3 — The かわいくなりたかった confession is first spoken in-scene in Dear 010 (early D-HIRO), but every locator points to the cidol 018_01 replay.
 
 | Field | Value |
 |---|---|
@@ -3305,7 +3331,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 checked (Dear 010 dialogue; cidol 018_01 dialogue; P1 ending-normal-02 raw #99) |
 | Story state | C1 @ D-HIRO Dear 010 (in-scene first disclosure, end STEP1); cidol 018_01 C-HIRO inner replay (after Dear 026) with variant content; P1[HIRO] ending-normal-02 |
 | Evidence | 広: …………かわいくなりたかった。(dear_010) / {user}: あと半年、よろしくお願いします。(cidol 018_01 replay only; absent from dear_010) / 広: だけど……ライブは、責任重大。……失敗できない。だから、怖い。(pstory_001 ending-normal-02 raw #99) |
-| Existing treatment | Core §11 ('In the communication crosswalked to her early idol motive'), §26 locator ('retrospective motive / かわいくなりたかった ／ episode_018'); matrix C14 (principal evidence 'Cidol episode 018; Dear 024–26'; counterpressure 'disclosed retrospectively'); locator ledger HIRO-C14 → cidol 018 part_01; HIRO-C06 → after-audition-final-normal-03.txt. |
+| Existing treatment | Core §11 ('In the communication crosswalked to her early idol motive'), §26 locator ('retrospective motive / かわいくなりたかった \| episode_018'); matrix C14 (principal evidence 'Cidol episode 018; Dear 024–26'; counterpressure 'disclosed retrospectively'); locator ledger HIRO-C14 → cidol 018 part_01; HIRO-C06 → after-audition-final-normal-03.txt. |
 | Deficiency | The かわいくなりたかった confession is first spoken in-scene in Dear 010 (early D-HIRO), but every locator points to the cidol 018_01 replay. That replay is a modular inner memory whose text diverges from Dear 010: it omits the trial-extension request and adds the Producer line 'あと半年…'. The matrix's 'disclosed retrospectively' counterpressure is therefore partly an artifact of the citation. Separately, locator ledger HIRO-C06 points to after-audition-final-normal-03.txt, but the quoted live-responsibility line is in ending-normal-02.txt. |
 | Alternative | The interpretation is correct. cidol 018_01 adds legitimate evidence: the least-suited answer was prepared and sincere, and the cute wish slipped out. HIRO-C06 already flagged 'exact supporting state cross-check bundle'. |
 | Disposition | TRACEABILITY_GAP |
@@ -3314,7 +3340,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Matrix C14 and locator ledger HIRO-C14: cite dear_shro_010 as the primary source, keep cidol 018_01 as a modular retrospective with variant wording, and drop or adjust 'disclosed retrospectively'. Locator ledger HIRO-C06: change the file to ending-normal-02.txt. |
 | Status | open |
 
-### HSCA-164 — P3 — Hiro's signature post-success sigh changes meaning across D-HIRO: a boredom tic (006/009), then a self-aware joke (P2), then a promised pro…
+### HSCA-164 — P3 — Hiro's signature post-success sigh changes meaning across D-HIRO: a boredom tic (006/009), then a self-aware joke (P2), then a promised provocation of Ume (014) delivered as play (016), then explicitly redefined as fun-burnout rather than boredom (017), then a reason to defer praise (018).
 
 | Field | Value |
 |---|---|
@@ -3333,7 +3359,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Matrix C09 and core §23: add the Dear 014-018 ふぅ sequence as D-HIRO evidence, and add ふぅ to the register terms. |
 | Status | open |
 
-### HSCA-165 — P3 — The cumulative voice ledger still presents 瞬間最大風速 as Hiro's own register term ('self-limitation'), although it is the Producer's line. The …
+### HSCA-165 — P3 — The cumulative voice ledger still presents 瞬間最大風速 as Hiro's own register term ('self-limitation'), although it is the Producer's line.
 
 | Field | Value |
 |---|---|
@@ -3343,7 +3369,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (dear_037 raw #107 広 '奇跡は続かない'; #113 {user} '瞬間最大風速'; #236 広 '今夜だけ') |
 | Story state | C1 @ D-HIRO Dear 037 |
 | Evidence | {user}: 先ほども……瞬間最大風速で、全員を上回っただけでしたね。(raw #113) / 広: 普段のわたしはそうでもない。奇跡は続かない。(#107) |
-| Existing treatment | GKM_JAPANESE_VOICE_AND_REGISTER_LEDGER.md 'Hiro Japanese textual-register baseline' key transitions list ('`奇跡は続かない` / `瞬間最大風速` — peak-state instability'), and its Hiro AV register table ('`瞬間最大風速` / `今夜だけ` ／ self-limitation of summit claims'). The AV addendum, the AV baseline and the dialogue close reading carry the speaker correction. Core §18/§20 attribute correctly (Hiro: 奇跡は続かない; Producer agrees on the momentary peak). |
+| Existing treatment | GKM_JAPANESE_VOICE_AND_REGISTER_LEDGER.md 'Hiro Japanese textual-register baseline' key transitions list ('`奇跡は続かない` / `瞬間最大風速` — peak-state instability'), and its Hiro AV register table ('`瞬間最大風速` / `今夜だけ` \| self-limitation of summit claims'). The AV addendum, the AV baseline and the dialogue close reading carry the speaker correction. Core §18/§20 attribute correctly (Hiro: 奇跡は続かない; Producer agrees on the momentary peak). |
 | Deficiency | The cumulative voice ledger still presents 瞬間最大風速 as Hiro's own register term ('self-limitation'), although it is the Producer's line. The e285ebb4 correction was not propagated, even though the ledger was touched afterward in 5e36a44c (2026-09-11). |
 | Alternative | The analytical consequence (a bounded peak) is unaffected, and Hiro does voice the instability ('奇跡は続かない', '今夜だけ', '一夜限り'). |
 | Disposition | CONTINUITY_OR_ATTRIBUTION_ERROR |
@@ -3352,7 +3378,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Voice ledger Hiro baseline and AV register rows: attribute 瞬間最大風速 to the Producer (Dear 037 raw #113), and keep 奇跡は続かない / 今夜だけ / 一夜限りのトップアイドル as Hiro's terms. |
 | Status | open |
 
-### HSCA-166 — P3 — No canonical Hiro home records that in other idols' Dear routes Hiro has no P-course Producer of her own and is informally half-produced by…
+### HSCA-166 — P3 — No canonical Hiro home records that in other idols' Dear routes Hiro has no P-course Producer of her own and is informally half-produced by Sena (with help from China's Producer).
 
 | Field | Value |
 |---|---|
@@ -3371,7 +3397,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Continuity ledger Hiro checkpoint and relationship ledger Hiro<->Sena: add 'in D-CHINA/D-TEMARI Hiro is informally produced by Sena (pseudo-agency), assisted by China's Producer; route-scoped'. |
 | Status | open |
 
-### HSCA-167 — P3 — E020 shows the founding period was already mutually needful: ballet-isolated Sumika had no same-age Japanese speaker and Lilja's side was '…
+### HSCA-167 — P3 — E020 shows the founding period was already mutually needful: ballet-isolated Sumika had no same-age Japanese speaker and Lilja's side was 'my place'; Sumika re-chooses the Sweden years because of Lilja.
 
 | Field | Value |
 |---|---|
@@ -3390,7 +3416,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Add one sentence to RS-I §4.1 or §4.4: 'E020: in Sweden the need was already bidirectional - Lilja was isolated Sumika's place of belonging; the founding asymmetry is one of initiative, not of need.' Adjust the §4.12 row wording accordingly. |
 | Status | open |
 
-### HSCA-168 — P3 — In 0064_03 the cause of Sumika's present fear is summarized off-page ('――そんな感じで'). No line or narration mentions the injury, and 今は marks a…
+### HSCA-168 — P3 — In 0064_03 the cause of Sumika's present fear is summarized off-page ('――そんな感じで').
 
 | Field | Value |
 |---|---|
@@ -3409,7 +3435,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_SUPPORT_SERIES_03_PART_051_075_DEEP_READING.md §15: rephrase as 'dancing has become frightening (cause summarized off-page; most plausibly continuous with the injury-fear documented in GKM_CORE_09_SHIUN_SUMIKA.md l.92 and 0055_03)'. |
 | Status | open |
 
-### HSCA-169 — P3 — Stage-A flag tested: no contradiction. 010-01 is the 10.5 bridge before N.I.A. (Gokugetsu/Shion set-up; Sumika is surprised to hear of riva…
+### HSCA-169 — P3 — Stage-A flag tested: no contradiction. 010-01 is the 10.5 bridge before N.I.A.
 
 | Field | Value |
 |---|---|
@@ -3420,7 +3446,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Story state | C1 @ D-SUMIKA: Dear 006 -> 008 -> 010 -> 010-01 (10.5 bridge, before Dear 011; CONT-003) -> 011 -> 020 -> 021; M-SUMIKA CIDOL 012_01 (post-Dear 021 strength-training period); P1[SUMIKA] C3 step/audition/ending branches; growth system; cross-track M-LILJA cidol 006_02 |
 | Evidence | 清夏: ……雨の日はちょっと膝が痛かったり、違和感で不安な時があるんだよね。/ {user}: トラウマを完全に克服したかどうかは、まだ分からないんですから。(dear_010-01) / {user}: トラウマを克服した今の清夏さんなら絶対に勝てます。(dear_011) / 清夏: 今までは何だかんだ言っても、膝が少し気になってたんだけどさ / {user}: 完全に克服したようですね。/ 清夏: そうなのかも！(dear_020) / {user}: トラウマのせいで、右膝に負担をかける動作を、無意識に避けていた。(dear_021) / 清夏: 怪我のトラウマは、もう何ともないし、(cidol 012_01) |
 | Existing treatment | GKM_CORE_09 §1 proposition 2 ('deepest persistent barrier becomes psychological anticipation of failure and disappointment'), §2, §4 (Dear 008 'decisive reinterpretation'), §10 ('biomechanical afterlife'), OPEN-SUMIKA-05 ('later source passes should test chronic management'); C02; Character State ledger rows 201 ('bodily afterlife of trauma persists') and 649 (S3 injury nightmare); RS-I §4.4 and §4.12 ('mature support means no fear or relapse: REJECT'); Events 006-012 reading §8.5 (E012). Continuity ledger CONT-003 / STATE-SUMIKA-D place 010-01 after Dear 010. No home cites dear_ssmk_010-01 or Dear 020's status line. |
-| Deficiency | Stage-A flag tested: no contradiction. 010-01 is the 10.5 bridge before N.I.A. (Gokugetsu/Shion set-up; Sumika is surprised to hear of rival schools, impossible after Dear 019), so its rainy-day knee pain precedes Dear 020. Dear 020's 'completely overcome' is the Producer's hedged inference (〜ようですね) with Sumika's tentative 'そうなのかも'. Dear 021's imbalance is the residue of past avoidance. The corpus never asserts full overcoming, but it lacks a trauma-status trajectory. It records neither the Producer's oscillating assessments (010-01 'not yet known' -> Dear 011 'overcome' -> Dear 020 'seems completely') nor P1's route-dependent dance recovery (ending-normal-02 still unable vs final-normal-01/growth pass). OPEN-05 is framed as needing later sources although in-bundle 010-01 already shows weather-linked chronic management and a reporting rule. The core ranks expectation-fear as the 'deepes… |
+| Deficiency | Stage-A flag tested: no contradiction. 010-01 is the 10.5 bridge before N.I.A. (Gokugetsu/Shion set-up; Sumika is surprised to hear of rival schools, impossible after Dear 019), so its rainy-day knee pain precedes Dear 020. Dear 020's 'completely overcome' is the Producer's hedged inference (〜ようですね) with Sumika's tentative 'そうなのかも'. Dear 021's imbalance is the residue of past avoidance. The corpus never asserts full overcoming, but it lacks a trauma-status trajectory. It records neither the Producer's oscillating assessments (010-01 'not yet known' -> Dear 011 'overcome' -> Dear 020 'seems completely') nor P1's route-dependent dance recovery (ending-normal-02 still unable vs final-normal-01/growth pass). OPEN-05 is framed as needing later sources although in-bundle 010-01 already shows weather-linked chronic management and a reporting rule. The core ranks expectation-fear as the 'deepest' barrier on Dear 008's self-claim ('言い訳だった'), while Dear 006, 020 and 032 keep the somatic fear independently active until the N.I.A. final. |
 | Alternative | The core holds both components ('trauma/anticipation', biomechanical afterlife, OPEN-05). Ledgers and event/support readings record persistence. Dear 008 is a direct confession and is a reasonable basis for the ranking at that state. |
 | Disposition | UNDERWEIGHTED |
 | Severity | P3 — Traceability and state-modelling refinement; no canonical conclusion depends on 'completely overcome'. |
@@ -3428,7 +3454,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_09 §10/OPEN-SUMIKA-05 and matrix C02: cite dear_ssmk_010-01 (10.5 bridge) and Dear 011/020 as the status trajectory. Soften 'deepest' in §1.2 to 'co-active with, and increasingly dominant over, somatic fear'. Note P1 route-dependence of dance recovery. |
 | Status | open |
 
-### HSCA-170 — P3 — The core's first thesis clause ('injury taught her that being believed in can feel like a threat') has its most explicit origin scene in CI…
+### HSCA-170 — P3 — The core's first thesis clause ('injury taught her that being believed in can feel like a threat') has its most explicit origin scene in CIDOL 010_03: unidentified adult voices at the meniscus diagnosis, overlaid with 'I don't want to betray anyone's expectations again'.
 
 | Field | Value |
 |---|---|
@@ -3447,7 +3473,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Side-characters §2.9 and GKM_CORE_09 §2/§12: cite CIDOL 010_03 as the origin scene (speakers unidentified) and CIDOL 014_02 / Dear 010 / Dear 032 as guarded family affect. |
 | Status | open |
 
-### HSCA-171 — P3 — In both selection-failure fragments it is Sumika who reaches for resignation or soothing closure ('仕方ない', 'a dream was enough', 'it ended h…
+### HSCA-171 — P3 — In both selection-failure fragments it is Sumika who reaches for resignation or soothing closure ('仕方ない', 'a dream was enough', 'it ended here') while Lilja resists.
 
 | Field | Value |
 |---|---|
@@ -3466,7 +3492,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_09 §19 or §24 (new note under OPEN-SUMIKA-01): record the P3-C selection-failure resignation/mood-management invariant, track-labelled. |
 | Status | open |
 
-### HSCA-172 — P3 — Sumika models her pre-injury prodigy self as already a performance of invincibility ('思い込もうとしてた', emphasized) and as an overworking self sh…
+### HSCA-172 — P3 — Sumika models her pre-injury prodigy self as already a performance of invincibility ('思い込もうとしてた', emphasized) and as an overworking self she recognizes in Lilja.
 
 | Field | Value |
 |---|---|
@@ -3485,7 +3511,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_CORE_09 §2/§5/§11: note the pre-injury self-persuaded invincibility and the overwork self-identification (D-LILJA, track-labelled). |
 | Status | open |
 
-### HSCA-173 — P3 — §3.4 narrates the E007 compliment as delivered. At A1 China does not catch it ('あの、今なんと――'), and the blackout cuts the exchange off. She fi…
+### HSCA-173 — P3 — §3.4 narrates the E007 compliment as delivered.
 
 | Field | Value |
 |---|---|
@@ -3504,7 +3530,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Tranche §3.4: note that the compliment is unheard and interrupted. §10.4 or §13.2: add the ぽんこつ1号/2号 → 千奈・広 address shift (E007 main-05), which persists into E011. |
 | Status | open |
 
-### HSCA-174 — P3 — The tranche and ledger describe the inner/outer split statically. Read together, the two fan scenes add Temari's own relation to that split…
+### HSCA-174 — P3 — The tranche and ledger describe the inner/outer split statically.
 
 | Field | Value |
 |---|---|
@@ -3523,7 +3549,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Tranche §4.2 or §13.4 (or the character-ledger Temari row): add that Temari does not experience her fan-facing coldness as a chosen persona (E008 inner) and can recognize and query it afterwards (E011 main-03). Do not imply an E008→E011 order. |
 | Status | open |
 
-### HSCA-175 — P3 — S2T omits Kotone's two inner lines. Before she speaks, Kotone privately thinks the friend's 'moderation' is the natural response to Temari'…
+### HSCA-175 — P3 — S2T omits Kotone's two inner lines. Before she speaks, Kotone privately thinks the friend's 'moderation' is the natural response to Temari's training because it is too hard (ハードすぎる).
 
 | Field | Value |
 |---|---|
@@ -3542,7 +3568,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | In S2T §3 add one sentence: Kotone's spoken agreement contradicts her inner judgment that Temari's training is too hard, so Temari defends Misuzu against an agreement Kotone did not hold, and Kotone privately sides with Misuzu's concern. Mark 'friend = Misuzu' as a paired-part inference (strong) for consistency with §19 OPEN. |
 | Status | open |
 
-### HSCA-176 — P3 — The tranche correctly preserves the unnamed status and routes the line to the Rinha dossier, but the Rinha source-discovery artifact does n…
+### HSCA-176 — P3 — The tranche correctly preserves the unnamed status and routes the line to the Rinha dossier, but the Rinha source-discovery artifact does not record it.
 
 | Field | Value |
 |---|---|
@@ -3561,7 +3587,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | GKM_KAYA_RINHA_SOURCE_CROSSWALK.md: add adv_csprt-3-0033_02 as an indirect/OPEN row (REL-INFERENCE, unnamed). RS I §5.13: one sentence linking the 0033_02 deferred reconciliation to the 0097 return, labelled as inference. |
 | Status | open |
 
-### HSCA-177 — P3 — No U1 scene supports 'nearly exits when center order triggers insecurity'. Every U1 line in which Temari says 抜ける, or says センター, was search…
+### HSCA-177 — P3 — No U1 scene supports 'nearly exits when center order triggers insecurity'.
 
 | Field | Value |
 |---|---|
@@ -3580,13 +3606,13 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Temari core §2.6: change the bullet to 'threatens to quit over Saki's food rule (tonkatsu batter) — comic friction that coexists with the bond'. |
 | Status | open |
 
-### HSCA-178 — P3 — Two core claims rest on material outside the core's declared Phase-3 boundary (numbered event; support card) and carry no locators. §3.2.10…
+### HSCA-178 — P3 — Two core claims rest on material outside the core's declared Phase-3 boundary (numbered event; support card) and carry no locators.
 
 | Field | Value |
 |---|---|
 | Finding ID | HSCA-178 (ttmr-B-F06) |
 | Subject | Tsukimura Temari |
-| Source identity | `adv_event_008_main-02.txt` (`transcripts_raw/06_story_events/event_008/main-02.txt`); `support_series_3/story_0021/part_02` (`transcripts_raw/04_support_card_stories/support_series_3/story_0021/part_02.txt`) |
+| Source identity | `adv_event_008_main-02.txt` (`transcripts_raw/06_story_events/event_008/main-02.txt`); `adv_csprt-3-0021_02.txt` (`transcripts_raw/04_support_card_stories/support_series_3/story_0021/part_02.txt`) |
 | Source status | eligible: Source Lock 1.0 (raw files present); A1 checked; found during the core read — not a ttmr Stage-A candidate |
 | Story state | modular numbered event (E008) and support story S3-0021; neither is D-TEMARI |
 | Evidence | 客C: 『SyngUp!』のときから応援してて…… / 手毬: っ……私のファンだから！あなたには渡さない！(event_008 main-02) / 手毬: りんはぁ……雷とめてぇ…… / 手毬: みすずぅ……(S3-0021 part_02) |
@@ -3599,7 +3625,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Temari core §3.2.10 and §9.4: add locators (event_008 main-02; S3 story_0021 part_02) and mark them as modular/out-of-Phase-3 material; move §3.2.10 out of the D-TEMARI sequence or label it. |
 | Status | open |
 
-### HSCA-179 — P3 — The cumulative branch ledger lacks a Temari section, although the pass report says it was updated. Two D-TEMARI state facts are unrecorded:…
+### HSCA-179 — P3 — The cumulative branch ledger lacks a Temari section, although the pass report says it was updated.
 
 | Field | Value |
 |---|---|
@@ -3608,7 +3634,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Source identity | `adv_dear_ttmr_031.txt` (`transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_031.txt`); `adv_dear_ttmr_013.txt` (`transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_013.txt`); `adv_dear_ttmr_030.txt` (`transcripts_raw/05_dear_idol/ttmr=Temari_Tsukimura/dear_030.txt`) |
 | Source status | eligible: Source Lock 1.0 manifest; A1 verified (dear_031 l.69-389; dear_013 choicegroup l.35, variant lines 403-423 and 818-875) |
 | Story state | C1 @ D-TEMARI winter-H.I.F. selection (Dear 030–031); Dear 013 contains an in-file player choice (藤田ことねさん / 花海咲季さん) that selects the partner variant |
-| Evidence | 咲季: <em>プロデューサーも付いていないのに</em>、<em>そんな余裕ないもの</em>。…いーえ、立ち直ってなんかないわ。叩き起こされただけよ――わたしの憧れのアイドルに。(dear_031) / {user}: 花海咲季さんと直接交渉しただけです。(dear_031) / [choicegroup 藤田ことねさん ／ 花海咲季さん] (dear_013) |
+| Evidence | 咲季: <em>プロデューサーも付いていないのに</em>、<em>そんな余裕ないもの</em>。…いーえ、立ち直ってなんかないわ。叩き起こされただけよ――わたしの憧れのアイドルに。(dear_031) / {user}: 花海咲季さんと直接交渉しただけです。(dear_031) / [choicegroup 藤田ことねさん \| 花海咲季さん] (dear_013) |
 | Existing treatment | GKM_CORE_02 §16 (internal branch section: P1 ladder, P2, P3, D-TEMARI, U1); relationship ledger row 77 (Temari ↔ Saki, dear 031–032). GKM_BRANCH_DIVERGENCE_LEDGER.md has per-character sections for the other twelve cores but none for Temari (grep TEMARI/ttmr: one Misuzu-section mention only). The D-TEMARI Saki state (no Producer; 'not recovered'; Rinha-trained during N.I.A.) is in no canonical home (grep). |
 | Deficiency | The cumulative branch ledger lacks a Temari section, although the pass report says it was updated. Two D-TEMARI state facts are unrecorded: (1) in D-TEMARI, Saki is producerless and unrecovered from her own collapse, was trained by Rinha during N.I.A. (Rinha calls her '咲季お姉ちゃん'), and is steered into the selection match by Temari's Producer through direct negotiation — a continuity hazard for any cross-track Saki model; (2) Dear 013 has a choice-selected partner variant (Kotone or Saki) with different Temari motives ('私だけの手柄にするのが、申し訳ない' vs '咲季、喜ぶかなって'). |
 | Alternative | The core's §16 carries the main branch logic, and the Saki fact is incidental to Temari's own model. |
@@ -3618,7 +3644,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | Recommendation | Branch divergence ledger: add a 'Phase 3 — Temari branch controls' section (D-TEMARI vs U1 summer champion; Dear 013 partner choice; D-TEMARI Saki producerless/Rinha-trained state); route the Saki state to the Saki-side owner. |
 | Status | open |
 
-### HSCA-180 — evidence-only — Adds a D-KOTONE instance: Ume is among the few who 'followed' Sena's scouting. That makes Ume-as-Sena's-scouted-junior close to a default w…
+### HSCA-180 — evidence-only — Adds a D-KOTONE instance: Ume is among the few who 'followed' Sena's scouting.
 
 | Field | Value |
 |---|---|
@@ -3641,7 +3667,7 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 
 | Assignment ID | Subject | Summary |
 |---|---|---|
-| hski-B2-F01 | hski | CURRENT: none material — v2.1 states the U1 first loss to Ume, the public-dignity/private-collapse sequence, action without recovery, and the personal best while broken, with explicit track guards. (Residual mechanism detail of part 09 is carried in F04; link… |
+| hski-B2-F01 | hski | CURRENT: none material — v2.1 states the U1 first loss to Ume, the public-dignity/private-collapse sequence, action without recovery, and the personal best while broken, with explicit track guards. (Residual mechanism detail of part 09 is carried in F04; link of part 12 to SAKI-C04 in F07.) |
 | hski-B2-F02 | hski | CURRENT: none material. v2.1 analyses both fears, keeps dream vs waking belief distinct, bounds the sleep evidence (no clinical claim; nightmare not stated to recur), and records that U1 never tests the second fear. |
 | hski-B2-F03 | hski | CURRENT: none material. Optional qualification only: RS-I §3.5.1 finding 4 is correctly U1-guarded; in D-UME Ume explicitly wishes Saki to remain invincible (Dear 010; UME-C10), so the finding must stay track-bound (it is). |
 | hski-B2-F06 | hski | CURRENT: none for the hski angle. (Whether the Ume core should carry U1 is a hume-assignment question; the deliberate-boundary rationale is recorded.) |
@@ -3650,6 +3676,8 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | ttmr-B-F08 | ttmr, krnh | Historical: the core adopted Temari's observer interpretation as Rinha's motive. The later canonical homes record the correction; the core body is unchanged but does not need to be. |
 
 ## Covered and scope-limited records (summary)
+
+Some assignments recorded covered candidates as grouped COVERED records; others recorded them only in their summary ledger. Zero here therefore does not mean no covered candidates; see the negative-control appendix.
 
 | Assignment | COVERED records | SCOPE_LIMITED records |
 |---|---:|---:|
@@ -3669,11 +3697,351 @@ Entries: 180 actionable (from 193 actionable assignment records; 13 merged as du
 | fktn-S | 1 | 0 |
 | hmsz-B | 10 | 0 |
 | hmsz-S | 4 | 0 |
+| hrnm-B | 0 | 0 |
+| hski-B1 | 0 | 0 |
 | hski-B2 | 8 | 0 |
+| hski-S | 0 | 0 |
 | hume-B | 15 | 0 |
 | hume-S | 4 | 0 |
+| jsna-B | 0 | 0 |
+| jsna-S | 0 | 0 |
 | kcna-B | 5 | 1 |
 | kllj-B | 8 | 1 |
+| shro-B | 0 | 0 |
 | ssmk-B | 15 | 0 |
 | ttmr-B | 12 | 0 |
 | ttmr-S | 2 | 0 |
+
+## Appendix — negative controls by assignment
+
+Each assignment's negative-control section is reproduced verbatim from its Stage-B summary (local paths scrubbed). Count = table rows or top-level items.
+
+| Assignment | Negative controls |
+|---|---:|
+| amao-B | 6 |
+| atbm-B | 8 |
+| EV-1-B | 6 |
+| EV-2-B | 5 |
+| EV-3-B | 6 |
+| EV-4-B | 5 |
+| fktn-B | 6 |
+| fktn-S | 0 |
+| hmsz-B | 6 |
+| hmsz-S | 3 |
+| hrnm-B | 6 |
+| hski-B1 | 5 |
+| hski-B2 | 6 |
+| hski-S | 4 |
+| hume-B | 6 |
+| hume-S | 3 |
+| jsna-B | 7 |
+| jsna-S | 4 |
+| kcna-B | 7 |
+| kllj-B | 5 |
+| shro-B | 8 |
+| SP-1-B | 5 |
+| SP-2-B | 4 |
+| SP-3-B | 5 |
+| SP-4-B | 5 |
+| SP-5-B | 5 |
+| SP-6-B | 5 |
+| ssmk-B | 6 |
+| ttmr-B | 7 |
+| ttmr-S | 0 |
+| **Total** | **154** |
+
+### amao-B (6)
+
+1. **Dear 015 reclaimed prince (amao-DC-026, D-MAO).** Covered by core §2.7, which quotes "呪縛…ちゃんと本物…本物の王子様になる、その日まで" with an A1 check, and by MAO-C04 and locator MAO-L006 (F14).
+2. **pevent_001 activity_003, "不純ですか？" (amao-PX-030, PE).** Covered by core §6.1–6.2, which records both the self-directed secondary motive and the refusal to exploit the helped person (F20).
+3. **U1 02_12 dorm-head intervention (U1-A-055, Unit Story).** Covered by core §6.3: "listens to Kotone's judgment… temporarily permits it… bounded authority rather than immediate command" (F15).
+4. **Rinami Dear 030, "アイドルを辞めなかったのは、麻央が隣にいてくれたから" (hrnm-DC-054, other idol's bundle).** Covered by Rinami core §23 and the Relationship State Ledger (Rinami↔Mao) (F16).
+5. **Dear 036 Prima Stella speech (amao-DC-062).** Covered by core §11.4 and MAO-C30, A1-checked (F21).
+6. **Dear 012 Kotone rebuff (amao-DC-020).** Covered by core §9.2 and MAO-C18 (F15).
+
+### atbm-B (8)
+
+| control | family | candidate | covering section |
+|---|---|---|---|
+| NC1 | Produce Story P1 | atbm-PX-022, ending-true-01: '星南は例外だと思い込むことで…' (A1 #017–019) | GKM_CORE_13 §8 and §29; TSB-016/018; Relationship ledger Tsubame↔Producer (verbatim 'いないと輝けん' / '見捨てたら、許さん', A1 #044/#050) |
+| NC2 | Dear | atbm-DC-015, Dear 006: 'ずっと逃げていたのか、私は。追うふりをして、諦めていた' | GKM_CORE_13 §4 (verbatim); TSB-006/007/008; Character State Ledger Tsubame delta |
+| NC3 | Dear | atbm-DC-057, Dear 024: 'ヒーローみたいなアイドルになる！その想いに、貴様の有無は関係ない！' | GKM_CORE_13 §20 (verbatim, A1 #039–040); TSB-051/052; Character ledger 'Individuation hinge' |
+| NC4 | Idol Communication | atbm-DC-069, cidol 012_03: '歌で人を救うなんて、傲慢なこと' | GKM_CORE_13 §14; TSB-035 |
+| NC5 | Other-route Dear (D-SENA) | jsna-DC-015, Dear 006 protest '十王星南！　私を失望させるなよ！' | Sena core §26, §36.4, OPEN-SENA-04; RS-II §5.3 |
+| NC6 | Other-route Dear (D-CHINA) | kcna-DC-027, consent check '貴様は自分自身の意志で…' | Kuramoto China core (consent check paragraph; CHINA-L14) |
+| NC7 | Other-idol Produce Event | amao-PX-041, Mao: '不器用で、優しい奴' | GKM_CORE_13 §28; RS-II §5.8; TSB-041 |
+| NC8 | Other-route Dear (D-RINAMI) | hrnm-DC-056, Tsubame validates three years of fundamentals | Himesaki Rinami core §23 |
+
+### EV-1-B (6)
+
+| control | event | candidate | covering sections |
+|---|---|---|---|
+| NC1 | E002 | EV-1-025: Hiro, `ひとりで苦戦するのは嬉しい、けど。がんばってるみんなの足を引っ張るのは、いやだから。` (A1 m04 #042–043) | tranche §4.4 + §13.3; CSL Hiro Phase-4 row; RS-II §4.4 "Friendship gives Hiro shared stakes" |
+| NC2 | E003 | EV-1-037: Sumika's beach house (`親戚のばーちゃんのお店`, stage practice) (A1 m03 #058–082) | tranche §5.4 + §13.4; CSL Sumika row ("family/community labor complicates avoidance readings"); RSL Mao↔Sumika |
+| NC3 | E005 | EV-1-058: Tsubame keeps Kotone's middle-school work consultation private (A1 m02 #007–015) | tranche §7.3 + §9.4; RSL Tsubame↔Kotone; RS-II §5.6 |
+| NC4 | E003 | EV-1-033: Mao's `方便だね` reading of Sena's absence (A1 m02 #019–025) | tranche §5.6 keeps it as **Mao's inference** ("not direct Sena confession"); the epistemic discipline is correct |
+| NC5 | E001 | EV-1-008: Saki loses the singing duel and declares friendship (A1 m03 #037–048) | tranche §3.3; RSL Saki↔Temari; RS-II §3.1–3.2 |
+| NC6 | E004 | EV-1-049: Kotone reads Lilja's `絶対に負かしてやる～！って顔` (A1 m04 #011–025) | tranche §6.4 claim transitions; CSL Lilja row |
+
+### EV-2-B (5)
+
+1. **NC1. EV-2-014 (E007 main-05, 「……引っぱっていい」).** Tranche §3.6 quotes it verbatim with its effort condition. Character-ledger Temari row: "a sincere weaker teammate may be actively carried". Relationship ledger China↔Temari: PROMOTE, very high.
+2. **NC2. EV-2-020 (E008 main-04, 「あたしだって、マジメにアイドル目指してんだから」).** Tranche §4.4–4.5 and §14.9. Character-ledger Kotone row (overfunctioning risk). Kotone core §0 already rejects the materialism/sincerity opposition.
+3. **NC3. EV-2-037 (E010 main-04, 「いつもは、できちゃったら、虚しくなるのに……楽しかった」).** Tranche §6.5 with the §14.7 guard. Character-ledger Hiro row: "relational meaning can survive successful completion". It answers the Hiro core §0 boredom question.
+4. **NC4. EV-2-044 (E011 main-04, Mao: 「……まあ、ね」 / 「求められたことに応えるのがボクたちの仕事」).** Tranche §7.3–7.4, §11.6 and §14.13. Character-ledger Mao row: "prince desire … negotiated role multiplication". Relationship ledger Mao↔Temari.
+5. **NC5. EV-2-057 (E012 main-02, 「弟子入りしなさい」 / 免罪符 / 「師匠になってください」).** Tranche §8.3–8.4. Relationship ledger Saki↔Lilja (PROMOTE 師匠; method, not morale). Theme ledger: "effort requires direction".
+
+### EV-3-B (6)
+
+1. **EV-3-006 (E013 main-03).** Sena: "私は、完璧に見えるように、振る舞っているだけ… 莉波は、人の気持ちに触れるのが上手だから".
+   - Covered by tranche §2.2 "Rinami's student-council recruitment: emotional perception as institutional competence", including Sena REVISE "not self-deception".
+   - Propagated to the Relationship ledger E013 Sena↔Rinami row.
+2. **EV-3-026 (E014 main-05).** Hiro: "なんでだろう……わたし、笑ってる" / "大切な友達。大好き。".
+   - Covered by tranche §3.6 "Hiro learns shared disappointment" and §3.5.
+   - Propagated to the Relationship ledger "Hiro ↔ Misuzu | E014 | PROMOTE" and the Character ledger Hiro "STRENGTHEN / REJECT".
+3. **EV-3-030 (E015 main-04).** China: "ご当地の歌を覚えてきましたの！" while Rinami freezes inwardly.
+   - Covered by tranche §4.4 "China takes over the crisis that Rinami thought she had to solve" and §4.5.
+   - Propagated to the Relationship ledger Rinami↔China E015 and the Character ledger China row.
+4. **EV-3-034 (E016 main-02).** Saki: "そんな弱いお姉ちゃんを、佑芽に見せるわけにはいかないもの".
+   - Covered by tranche §5.1 "Saki deliberately gives Ume a social world that does not include Saki".
+   - Propagated to RS-I §3.8 "Jealousy and social expansion — attachment without enclosure" and the Character ledger Saki "STRENGTHEN / OPEN".
+5. **EV-3-036 (E016 main-03).** Rinha: "なに、諦めるの？　根性無し… 打てるようになると、結構楽しいから".
+   - Covered by tranche §5.4 "Temari transmits Rinha's care script" and §15.1.
+   - Propagated to RS-I §5.5 and RS1-SYNGUP-06, Rinha crosswalk RINHA-XW-106, and the Relationship ledger Temari↔Rinha.
+6. **EV-3-074/075 (E020 main-05).** The recurring dreams ("夢はいつも、そこで終わるんだ"; "約束なんてなかったみたいに").
+   - Covered by tranche §9.6 "The feared future is not failure; it is asymmetrical success", which keeps the dream epistemics distinct from waking belief.
+   - Propagated to the Relationship ledger Lilja↔Sumika.
+
+### EV-4-B (5)
+
+1. **EV-4-005** (E021 main-03, Tsubame: `そういう貴様を知っているからこそ、アイドルとしての貴様を評価している`) → tranche §2.3 "Tsubame is a fan because she knows Sena is imperfect"; RS II §5.5 "Private knowledge does not expose public perfection as fake"; CSL Sena row.
+2. **EV-4-018** (E022 main-05, Mao: `ほんとは、星南のライブを、ひとりで観る勇気がなかったんだ` … `星南のことも、ボク自身のことも`) → tranche §3.7 "Kotone argues for a wider princehood; Mao uses Kotone to face Sena"; CSL Mao row.
+3. **EV-4-022 / EV-4-024** (E023 main-03/05, Misuzu `大切なひとが、わたしでいっぱいになっているのが幸せなんです`; CD and double spy) → tranche §4.3 "Misuzu articulates possessive care unusually plainly", §4.5 "Hiro is a mediator, not a replacement intimacy"; RS I §5.11–5.12.
+4. **EV-4-034** (E025 main-05, China `春までに、頼れる生徒会長になってみせますわ`; deferred first names) → tranche §6.6–6.7; RSL next-council cluster; RS II §8.3.
+5. **EV-4-035** (E026 main-01, Temari's internal wail plus `横からとったりしない`) → tranche §7.1 "envy is not denied, but jurisdiction over the opportunity is respected"; CSL Temari row.
+
+### fktn-B (6)
+
+| candidate | source family | anchor | covering sections | A1 |
+|---|---|---|---|---|
+| fktn-DC-026 (Dear 016) | Dear | `あたしのファンとか、誰かのファンとか、もう関係なくなってて……` | core §3.2.12, §8.2, §20; matrix C16/C19 | re-checked |
+| fktn-DC-027 (Dear 017) | Dear | `後継者になんてなりたくない` → `ライバルになりたいんだよ！！` | core §3.2.10, §10.3; matrix C12; RS-II §8.1 | — |
+| fktn-PX-026 (P2 after-audition-a-normal-03) | Produce Story | `たとえそんなものがなかったとしても。いいアイドルになったと思います。` | core §3.1.5 | confirmed |
+| fktn-DC-048/049 (cidol 001 `Yellow Big Bang！`) | Idol Communication | reads all criticism; fans' energy | core §3.3.3, §8.4; KOT-AV-005 | — |
+| U1-B-017 (U1 03_10, Re;IRIS name) | Unit Story | Kotone's `お返し` meaning | Shared spine §7.3 | — |
+| fktn-PX-037/038 (pevent 001 activity_010/019, siblings and first income) | Produce Event | — | core §3.4.4–3.4.5 | — |
+
+### fktn-S (0)
+
+_No negative-control section (supplement of fewer than four candidates)._
+
+### hmsz-B (6)
+
+1. **hmsz-DC-028**, Dear 014 "ちゃんと喧嘩をしましょう。わたしたち、友達なんですから" (dear). Covered by core §11 (quoted), matrix C18, RS-I §5.6, Relationship State Ledger l.212.
+2. **hmsz-PX-012**, P1 after-step-2-normal-01 "のんびりするためには、いつも順調でなくてはならない" (pstory). Core §2.3 quotes it verbatim; matrix C05.
+3. **hmsz-DC-074**, CIDOL 010_03: council takeover as a SyngUp hangout, and having looked down on Sena (cidol). Core §21 (second and third points) and §29.7.
+4. **hmsz-DC-067**, Dear 037: the scouting-day demurral was genuine depression (dear, retrospective). Core §1 and §3; matrix C02 (REVISED / VERY HIGH); Character State Ledger l.235.
+5. **ttmr-DC-069**, Temari CIDOL 009: Misuzu's "わたしも、アイドルになります" at the childhood H.I.F. (cross-bundle cidol). Temari core §3.2.7, Misuzu core §7, RS-I §5.2.
+6. **hmsz-PX-014**, P1 before-audition-final-normal-01: caring for others calms her (pstory). Core §5 ("looking after Producer before a high-stakes event can function as self-regulation").
+
+### hmsz-S (3)
+
+1. **atbm-DC-013**, Tsubame Dear 006: Tsubame core §4 quotes the raw line; matrix TSB-005.
+2. **kcna-DC-030**, China Dear 024: Misuzu core §21 and §29.7 (council as a gathering place; securing appointment rights).
+3. **kcna-DC-033**, China Dear 027: China core l.434ff and l.556; RS-II §8.2.
+
+### hrnm-B (6)
+
+| # | family | candidate | canonical home |
+|---|---|---|---|
+| NC1 | Dear | hrnm-DC-045, Dear 026: Rinami was also crying after Shiori's birth | Core §3 "Care begins as co-regulation" (A1-quoted), RINAMI-C03, legacy ledger l.151, register ledger |
+| NC2 | Produce Story / live | hrnm-PX-014/015/012 (P1 catchphrase rehearsal; "弟くん" practice device), PX-045/046 (live start-03/04) | Core §4 "お姉さん is both discovered and manufactured", C05/C13, character ledger "D-RINAMI produced naturalness", AV addendum row 1 |
+| NC3 | Produce Event | hrnm-PX-038, activity_020 ("今日だけは、その……甘えてもいいかな" / "弟にもお兄さんにも") | Core §5 (quoted; A1-matched), RINAMI-C07, character ledger "ordinary life/work" |
+| NC4 | Idol Communication | hrnm-DC-070, cidol 002_03: wants to be seen | Core §5 "CIDOL 001/002 … wants to be seen, not merely efficiently produced" |
+| NC5 | Dear | hrnm-DC-023, Dear 013: defends sincere Love☆しすたぁず work against smear | Core §2/§9, C02/C16, side-characters synthesis §4.1 |
+| NC6 | Dear | hrnm-DC-048, Dear 027 run / 優勝したかった | Core §12, C20, register ledger, character ledger AV "PROMOTE" |
+
+### hski-B1 (5)
+
+1. **hski-DC-015 — Dear 008 勝ち逃げ confession (Dear Idol).** Covered by core §3.2.3 ("The Hanami race was historically protected by escape"), SAKI-C04, stable observation 4, RS-I §3.2, and the character- and relationship-ledger rows `adv_dear_hski_008–010`. A1 (dear_008 l.180–219) matches the core's reading in wording and consequence. Only the "first refusal" dating is off (F02).
+2. **hski-DC-078 — cidol 000_02 `はだかで歌うようなもの` (Idol Communications).** Covered by core §3.3.1 ("controlled exposure of the weak self"), SAKI-C19, AV addendum §2 (confidence as production sequence) and AV-DIA-SAKI-006. Consequence and register analysis are both present.
+3. **hski-PX-042 / hski-PX-043 — live end-04 `佑芽に負けちゃう……！！` and start-04 `出来て当然よ…お姉ちゃんなんだから…！` (live scenes).** Covered by core §3.5 ("Poor outcomes immediately activate the comparison to Ume and older-sister obligation") and locator SAKI-L060, which lists all eight live variants as C3.
+4. **hski-PX-002 — P1 final normal-02, high but not first (Produce Story).** Covered by core §3.1.3 ("At a high but non-first result, she can recognize objective success while feeling troubled that happiness itself may betray her identity"), §16.1 (ladder table) and SAKI-L028, with correct branch scoping.
+5. **hski-DC-009 — Dear 005 `早く育って、わたしを脅かしなさい。それが一番、嬉しいわ` (uncited control).** No canonical document cites dear_005, but the analytical consequence is stated in core §8.2 ("Love through remaining worth chasing"), §9.4 ("care that removes competition can feel less loving than care that makes the contest worthy"), SAKI-C12, and RS-I §3.1. This confirms the method does not treat an absent citation as an omission. F04, by contrast, is an uncited scene whose consequence is also absent.
+
+### hski-B2 (6)
+
+1. U1-A-025 (U1, Ep01 part 12): `心強い<r=ライバル>仲間</r>`. Covered by core §2.6 and §14.8, which quote it exactly, and by the voice-ledger Saki row.
+2. hume-DC-027 (Ume's Dear 019): `もう、追いかけない`. Covered by RS-I §3.4, which quotes it exactly with a REJECT/REFRAME transition, and by Ume core §4.
+3. hume-PX-039 (Produce Event 003, activity_021): "my body is practically something Saki made". Covered by RS-I §3.1 and Ume core §3, which cites activity_021.
+4. hume-PX-025 (Produce Story series 2, final, 1st place): `勝ったら思いっきり喜ぶのは、勝負のマナー`. Covered by Ume core §6.3, which quotes it exactly.
+5. hume-PX-009 (Produce Story series 1, mid-normal-03): "the target was gone by the time I could run". Covered by RS-I §3.2.
+6. Episode-04 controls U1-B-057 (rivals line; LOC-INST-011 and RS-II §3.4) and U1-B-055 (RS-II §3.2): COVERED in both pass 1 and pass 2, so the method did not invent an omission where none existed.
+
+### hski-S (4)
+
+1. **ttmr-DC-070** (Temari communication, unit dream): Temari core §3.3.6 reads the dream exactly. It shows Saki and Kotone as imaginable partners, the Producer's jealousy of his dream counterpart, and 'あなたの担当アイドルは、夢と違って……私だけなんです'.
+2. **shro-DC-025** (Hiro Dear 013): Hiro core (Dear 013–017 paragraph): China asks to be Hiro's rival; friendship and rivalry coexist. RS-II §4 carries the trio system.
+3. **hmsz-DC-013** (Misuzu Dear 007): Misuzu core (Dear 007, learning open anger) and RS-I §5.4 (Temari's independence as dependency transfer; she later accepts help framed as compatible with agency). The classmates' comic denial of friendship is RS-II §3.2's label-lag rule.
+4. **kllj-DC-079** (Lilja communication): Lilja's jealousy of Saki and the Producer's 'talk to the rival whose back you can now see' are carried by the relationship-ledger Saki ↔ Lilja rows (rivalry as pedagogy; explicit 師匠 relation).
+
+### hume-B (6)
+
+| control | family | candidate | covering section |
+|---|---|---|---|
+| NC1 | Produce Story P1 | hume-PX-008, secret box (`秘密の箱に蓋をして、カギをかけて、切り替えます。`) | GKM_CORE_10 §5 (both lines quoted verbatim) + UME-C07 + Japanese Voice ledger Ume section |
+| NC2 | Dear | hume-DC-013, Dear 009 `対等なライバルと戦うって……こんなに怖いんですね。` | GKM_CORE_10 §7 (verbatim) + UME-C08 + Voice Performance State Ledger "equal-rival fear" |
+| NC3 | Produce Event | hume-PX-037, school_002 (goal vs message) | GKM_CORE_10 §9 + UME-C16 |
+| NC4 | Unit Story | U1-B-063, 04_21 (`1勝1敗`, `いいの……？これからも、勝負とか……挑んでも。`) | RS-I §3.5.1 table (2026-11-07) + Relationship State Ledger U1 row 04_21 |
+| NC5 | CIDOL | hume-DC-056, CIDOL 006_03 (fans as part of idol Hanami Ume, "muscle") | GKM_CORE_10 §9 + UME-C17 |
+| NC6 | Produce Story P2 | hume-PX-025, `勝ったら思いっきり喜ぶのは、勝負のマナーなんです。` | GKM_CORE_10 §6.3 (verbatim) + UME-C18 |
+
+### hume-S (3)
+
+| control | candidate (family) | covering section |
+|---|---|---|
+| NC1 | jsna-DC-070, Sena CIDOL 016_01 (communication) | Character State Ledger E005 ("idol potential … unreadable even to Sena"); Relationship ledger "Sena ↔ Ume, E005"; GKM_CORE_10 UME-C16 |
+| NC2 | shro-DC-015, Hiro Dear 008 (Dear) | GKM_CORE_07 §5 "Dear 008: jealousy creates the first nonoptional value"; Character State Ledger "D-HIRO jealousy hinge" |
+| NC3 | hmsz-DC-074, Misuzu CIDOL 010_03 (communication) | GKM_CORE_11 §21: council-as-SyngUp-gathering-place confession, revised contempt for seniors, Ume read as Rinha-like |
+
+### jsna-B (7)
+
+| candidate | covering sections |
+|---|---|
+| jsna-DC-013 (Dear 005, avoidance, "coward") | core §11; SENA-C13/14 |
+| jsna-DC-032 (Dear 016, successor → rival) | core §20; SENA-C31; legacy ledger |
+| jsna-PX-030 (P2 final failure) | core §16; SENA-C26; continuity ledger P2[SENA] |
+| fktn-DC-027 (D-KOTONE 017 「自分でやれ」) | Kotone core §3.2.9, §10.5; relationship ledger; RS-II §8.1 |
+| U1-B-062 (「アイドルを育むアイドル」) | shared spine §0, §4.3, §16.5; LOC-CONT-022 |
+| SH-004 (Asari lecture) | shared spine §16.5; LOC-INST-020 |
+| jsna-DC-070 (Ume unreadable) | E005 §7.8; character-ledger E005 rows |
+
+### jsna-S (4)
+
+| candidate | covering sections |
+|---|---|
+| atbm-DC-057 (クライアイ, independence) | Tsubame core §20; character-ledger Tsubame delta |
+| atbm-DC-027 ("free Sena") | Tsubame core §6; relationship ledger Tsubame↔Sena |
+| atbm-PX-022 ("Sena is the exception" excuse) | character-ledger Tsubame early state; Tsubame core |
+| shro-DC-054 (「夢見るアイドルだよ」) | relationship ledger Hiro↔Sena; Hiro core |
+
+### kcna-B (7)
+
+| cid | source (family) | covering section |
+|---|---|---|
+| kcna-DC-015 | Dear 011 (Dear) | Core §5 (quotes `命じて好きになっていただくのでは…`), C09, register ledger China table, AV dialogue §5.2 |
+| kcna-PX-018 | P1 ending-true-01 (Produce Story) | Core §2 (quotes `わたくし自身にはなにもなかった` / `本気で悔しがったことさえ`), C01, Character State Ledger P1 row |
+| kcna-DC-032 | Dear 026 (Dear) | Core §12 (quotes `最終日は、わたくしひとりで…`), C18, Character State Ledger election row, AV dialogue §8.1 |
+| kcna-DC-041 | Dear 032 Hiro song (Dear) | Core §10 ("By Dear 032, China is even willing to use Kuramoto resources in the construction of Hiro's song"), C20, RS-II §4.5 |
+| kcna-PX-038 | event_002 sales jobs (Produce Events) | Core §20 "Ordinary work proves that China's appeal is not only dynastic", C06 |
+| shro-DC-008 | Hiro Dear 003, posture model (other bundle) | Core §4 taxonomy item 2 (posture/manners), RS-II §4.6 |
+| ttmr-DC-074 | ttmr cidol 016 (other bundle) | Temari core §3.3.8 ("China's ability to deliver gentleness") |
+
+Self-checks against manufacturing omissions (not filed as findings):
+- Dear 030 "first quarrel" with Hiro. It is unrecorded, but it is comic and resolved at once, so it does not close the open "serious disagreement" question.
+- Dear 036 "かつてあなたが涙を…". It refers to a recent event ("ほんのすこし前"), not an origin backstory.
+- Dear 010-01 placement. CONT-003 correctly places it after Dear 010; content and target ("その次の H.I.F") fit that placement. Hiro's 010-01 (shro-DC-001) also fits after Dear 010, before her Dear 020 shared-dream pact.
+
+### kllj-B (5)
+
+- **Dear (D-LILJA) — Dear 014 injury/self-sacrifice** (`kllj-DC-028/029`, `わたしの体なんて、壊れたっていい`). Covered by core §1 and §4, matrix C05/C06, Relationship Ledger Lilja↔Producer N.I.A. row, and Character State Ledger D-LILJA N.I.A. row.
+- **Idol Communication — cidol 017_01, "清夏ちゃんは、嘘つきなんです！"** (`kllj-DC-088`). Covered by core §10.1–10.2, RS-I §4.3 and Relationship Ledger "reversal" row.
+- **Produce Story P2 — final-failure-01** (`kllj-PX-028`, `…でも、今回は……合格したかった。…センパイの目が、正しいってことを`). Covered by core §14 (quoted) and §12.2, matrix C06/C12, and Character State Ledger P2 row.
+- **Produce Event — school_004 (Asari)** (`kllj-PX-040`). Covered by core §4 (support distance) and §9.1. `日本語は堪能なので問題ない` was verified at A1.
+- **Cross-track result — Dear 036 Prima Stella** (`kllj-DC-066`; `ssmk-DC-061`). Covered by core §15 and §19.6, Continuity Ledger CONT-016/017 ("exclusive with … endpoint") and RS-I §1.2.
+
+### shro-B (8)
+
+1. **Dear 008** (shro-DC-015, Dear family): first `悔しい` / `好き……アイドルが`. Covered by core §5 and C05 with exact quotes.
+2. **P2 ending-normal-02** (shro-PX-028, Produce Story S2): covered by core §7 and C08, which quote it.
+3. **P1 ending-normal-02** (shro-PX-016, Produce Story S1): `ライブは、責任重大。……失敗できない。だから、怖い。` is quoted in core §7 (C06).
+4. **cidol 3-000_03** (shro-DC-063, communications): surprise at having fans. Covered by core §8, C10 and locator HIRO-C10.
+5. **Dear 028** (shro-DC-048): career stake and `追い詰められてあげる`. Covered by core §14 and C18.
+6. **China Dear 032** (kcna-DC-041, other bundle): Kuramoto resources spent on Hiro's song. Covered by China core §10.
+7. **Ume cidol 3-006_03** (hume-DC-056, other bundle): Ume lost to China and Hiro in fan love. Covered by Ume core §9.
+8. **P3 selection-failure nightmare** (shro-PX-030): covered by core §26, matrix track notes and the continuity-ledger Hiro checkpoint.
+
+### SP-1-B (5)
+
+1. **SP-1-014** (S1-0010-P01, Misuzu `もう、用意する必要はないんでした。…直接、渡さなければいい……`):
+   - S1T §12.1 "Misuzu stops handing Temari the drink; she does not stop preparing it";
+   - RS I §5.7 "separation can revoke delivery permission without erasing the care habit";
+   - RSL S1 Misuzu↔Temari PROMOTE.
+2. **SP-1-035** (S2-0011-P02, Kotone `借金はぜーったいしたくない`):
+   - S2T §13 (three-point debt ethic);
+   - CSL S2 Kotone row;
+   - RSL Sena↔Kotone "positive regard ≠ consent".
+3. **SP-1-050** (S2-0021-P02, Hiro `わたしは……好きでやってる。`):
+   - S2T §23 "'not friends' is not a behavioral description";
+   - RSL S2 Temari↔Hiro PROMOTE (label asymmetry).
+4. **SP-1-038** (S2-0013-P02, Rinami's long-career cherry-tree ideal):
+   - S2T §15 and its thematic promotion;
+   - CSL S2 Rinami row.
+5. **SP-1-015** (S1-0011-P01, Sena `私に伸びしろはもうないのね`):
+   - S1T §13.1;
+   - CSL S1 Sena row;
+   - Sena core l. 121.
+
+### SP-2-B (4)
+
+1. **SP-2-063, S2-0075/02.** First-year Mao failure and Rinami's `有村さんは、カッコいいよ`. Covered by T51 §24 (claim "Mao ↔ Rinami — PROMOTE HIGH" and the Phase-6 thesis candidate), RSL 051–074 row 1, CONT "0075 part_02 C1 historical anchor", and Mao core §9.1. Every element (first-year, height theory, intimidation by Sena/Tsubame, practice invitation) was A1-verified.
+2. **SP-2-027, S2-0042/02.** Misuzu's annual Valentine diet/skin system for Temari. Covered by T26 §18 ("Misuzu → Temari — PROMOTE/STRENGTHEN: anticipatory, system-level"), CSL Misuzu row, RSL Misuzu↔Temari, and RS I SYNGUP-02 ("support food/body systems"). A1-verified.
+3. **SP-2-043, S2-0056/02.** Hiro: `わたしに一番、向いてなさそうだから`; Tsubame's body assessment; `向いてない者同士`. Covered by T51 §6 (including the Phase-7 behavioural rule), RSL Tsubame↔Hiro, and RS II §5.8 "discipline versus preventable collapse". A1-verified.
+4. **SP-2-004, S2-0028/02.** Busy parents and Saki's practice-after-failure cooking. Covered by T26 §4 with an explicit caution against inferring neglect, CONT 0028, and the RS I locator. A1-verified.
+
+### SP-3-B (5)
+
+1. **0021_02 thunder / `りんはぁ` (SP-3-052).** S3T §23; RSL "Temari ↔ Kaya Rinha PROMOTE"; Kaya Rinha crosswalk RINHA-XW-109 (l. 257, 295); RS I source list l. 1532; CONT relationship-state control.
+2. **0020_02 Asari `ふり` (SP-3-050).** Side-characters synthesis §3.1, "The 'magician' principle" (l. 437–439); RS II §9.8; institution ledger, "Producer Course professional ecology".
+3. **0024_03 hardship relief (SP-3-062).** S3T §26 and §31 I-1; institution ledger, "Hardship support"; CSL Kotone row.
+4. **0005_02 Rinami unit failure (SP-3-017).** S3T §7, plus Rinami core §2 (l. 87) and l. 387. Stage-A's "undated" is resolved by the core (first-year Love☆しすたぁず).
+5. **0000_02 Saki's unilateral `友達` (SP-3-001).** Saki core §3.4.2 (l. 439–441) and RS II §3.2.
+
+### SP-4-B (5)
+
+1. **0050_03 (Hiro's friendship definition):** tranche §26; RS II §4.9 "Future distance does not revoke friendship"; Character ledger Hiro "MAJOR PROMOTE". Verified at A1.
+2. **0032_01 (Sena: 「実力と才能しか見ていなかった」):** tranche §8; Institution ledger "Producer calibration — Sena"; RS II §13.7. Verified at A1.
+3. **0030_03 (Rinami's festival-spot handoff):** tranche §6; RS II §8.5; Institution ledger "Student-council memory transmission"; NPC ledger. Verified at A1.
+4. **0042_03 (Sumika's idol invitation to Lilja):** tranche §18; Relationship ledger Sumika↔Lilja. Verified at A1.
+5. **0046_02 (Tsubame/Sena `Campus mode!!` rivalry):** tranche §22; Song ledger "rivalry compatibility". Verified at A1.
+
+### SP-5-B (5)
+
+1. **0065_01–03 (Kotone/Misuzu/Temari brokerage):** tranche §16 and §27.1; relationship ledger rows Kotone↔Misuzu and Kotone↔Temari↔Misuzu (MAJOR PROMOTE); RS I §12.3; RS II §10.7. Speakers, jealousy mirroring and Kotone's transaction ethic are all exact.
+2. **0055_03 (Sumika's knee nightmare):** tranche §6, plus continuity-ledger control "dream exaggeration is remembered-trauma evidence, not literal injury description". This is a model dream/waking separation.
+3. **0052_01 (Ume self-authorship):** tranche §3 and §31; character ledger Ume row; RS I §12.1; theme ledger "Individuation without detachment".
+4. **0066_01–03 (Sena/Hiro anomaly):** tranche §17; relationship ledger Sena↔Hiro; character ledger Sena REVISE. Hiro's withheld motive and Sena's inner-monologue limit are kept at the correct epistemic status.
+5. **0062_03 / 0057_01–03:** tranche §13 and §8; RS II §3; character and relationship ledgers.
+
+### SP-6-B (5)
+
+1. **SP-6-034, S0088-03 (China/Hiro internalized others).** Tranche §14 and §32.1; RS-II §4.8 "The friendship becomes internally portable"; RSL "Relationship-function extension: internalized others".
+2. **SP-6-031, S0087-03 (Mao dorm-leader repayment).** Tranche §13 and §36.2; RS-II §8.5 "Mundane rituals are also institutional memory"; CSL P5 Mao row.
+3. **SP-6-063, S0104-02 (Tsubame rejects No.2 comfort).** Tranche §29; RS-II §5.4 "Rivalry fails when the rival becomes unreachable".
+4. **SP-6-046/049, S0096 (Temari/Misuzu new memories).** Tranche §22 and §32.4; RS-I §5.10 "New memories matter more than reenactment".
+5. **SP-6-020, S0083-03 (あの子).** A referent-discipline control. Tranche §9 marks the referent OPEN instead of adopting Stage-A's Temari inference.
+
+### ssmk-B (6)
+
+| control | family | candidate | covering section |
+|---|---|---|---|
+| NC1 | Dear | ssmk-DC-017, Dear 008 `強いあたしの仮面…その嘘が本当になるまで` | core §5 (verbatim) + C08 + Character State ledger row 199 |
+| NC2 | Produce Story P1 | ssmk-PX-025, true ending, fled "ballet, idols, best friend" | core §6 + C10 + Branch ledger P1[SUMIKA] |
+| NC3 | CIDOL | ssmk-DC-079/080, CIDOL 012 `Love & Joy` coauthorship and Producer stepping back | core §14.3, §7, §22.4 + C21/C25 + Relationship ledger row 178 |
+| NC4 | Dear | ssmk-DC-060, Dear 034 `他者を勇気づけられるのは、恐怖を持っている人だけです` | core §17 + C27 + AV addendum row "mature strength eliminates fear: REJECT" |
+| NC5 | Dear (D-LILJA) | kllj-DC-068, Dear 037 `もう同じ夢は見れなくても、助け合うことはできるでしょ？` | RS-I §4.9 (verbatim) + Lilja core §10.4 |
+| NC6 | Produce Event | ssmk-PX-040, school_003 (friend as most important; "あたしが一番のファン") | core §3 + C04 (cites school_003) |
+
+### ttmr-B (7)
+
+1. **ttmr-DC-076** (cidol 018_02, `冷ややかな氷ではなく、超高温で完全燃焼する青い炎`; A1 l.185): core §3.3.9, §4.3, §14.8; TMR-C01; AV addendum §3.
+2. **U1-A-054** (U1 02_12, `私たちは機械じゃない！　人間なんだ……！`; A1 l.472): core §3.6 ¶3; TMR-B05; character ledger row 85.
+3. **hmsz-DC-011 / hmsz-DC-025** (D-MISUZU Dear 006/013, `あれが、彼女にとっての『マイペース』`): Misuzu core §10; relationship ledger row 211.
+4. **ttmr-PX-037** (PE 001 activity_005, insomnia handled by applying every remedy; A1 l.20/58): core §3.4.2 (`Even sleep optimization can become another form of overwork`).
+5. **ttmr-DC-047** (Dear 025, the Producer pledges both girls to 961; A1 l.377–409): core §10.2; TMR-P05.
+6. **ttmr-PX-030** (P2 final failure, `どうか、一緒にいて、ください`): core §3.1.5.
+7. **U1-A-023** (U1 01_11, `もっと頑張れ… いつぶりだろう`): core §2.6 (`gives Temari the harsh phrase she secretly wants`).
+
+### ttmr-S (0)
+
+_No negative-control section (supplement of fewer than four candidates)._

@@ -16,7 +16,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-11-08"
-last_updated: "2026-11-08"
+last_updated: "2026-11-09"
 ---
 
 # Historical-source analytical coverage audit
@@ -25,7 +25,7 @@ last_updated: "2026-11-08"
 
 ## Final disposition (one paragraph)
 
-All thirteen character cores, both Relationship Systems syntheses, the four story-event tranche readings and the eight support-card tranche readings were assessed against a complete blind reading of Source Lock 1.0. **No P0 (interpretation-breaking) deficiency was found.** Six P1 findings survived adversarial verification; 94 P2 and 79 P3 findings are refinements, cross-reference gaps or traceability defects. 228 audit records were classified COVERED, including about 150 negative controls (at least three per assignment) across every source family. The corpus's central theses for all thirteen characters survive; the most consequential gaps cluster in **cross-track material** (a character's states inside other idols' Dear tracks and inside Unit Story 01) and in a small number of **attribution and branch-gating** errors. The PR #531 Saki correction calibrated correctly (historically OMITTED, now ALREADY_CORRECTED), and the audit found one further qualification to that correction (a choice-gated line, HSCA-046).
+All thirteen character cores, both Relationship Systems syntheses, the four story-event tranche readings and the eight support-card tranche readings were assessed against complete coverage of Source Lock 1.0: 3,377 objects read in full by blind readers, plus a non-blind orchestrator pass over the 26 remaining objects that carry dialogue. **No P0 (interpretation-breaking) deficiency was found.** Six P1 findings survived adversarial verification; 94 P2 and 79 P3 findings are refinements, cross-reference gaps or traceability defects. 228 audit records were classified COVERED, and 154 negative controls across every source family are published in the register appendix. The corpus's central theses for all thirteen characters survive; the most consequential gaps cluster in **cross-track material** (a character's states inside other idols' Dear tracks and inside Unit Story 01) and in a small number of **attribution and branch-gating** errors. The PR #531 Saki correction calibrated correctly (historically OMITTED, now ALREADY_CORRECTED), and the audit found one further qualification to that correction (a choice-gated line, HSCA-046).
 
 ## 1. Purpose and evidence boundaries
 
@@ -56,11 +56,11 @@ Boundary facts established from the manifest (recorded because canonical text co
 
 ## 3. Method and actual inspection capabilities
 
-**Stage A — blind primary-source reading.** The admitted sources were partitioned into 39 packets: for each of the 13 characters a Dear+Communications packet and a Produce Story/Events/live/growth packet (26); Unit Story 01 in two halves (U1-A lines 1–4675, U1-B 4676–end); story events in four tranches (EV-1..4); support cards in six (SP-1..6); and shared/tutorial (SH). Each packet was read **completely and sequentially** by an independent reader with no access to the repository or any analysis (blindness rule), recording candidate scenes with exact Japanese anchors, epistemic class (event / dream / memory / hypothetical / self-claim / observer claim / stage performance / inner monologue), continuity cues and salience. 3,377 source objects were read in full; **2,403 candidates (996 high-salience)** were recorded.
+**Stage A — blind primary-source reading.** The admitted sources were partitioned into 39 packets: for each of the 13 characters a Dear+Communications packet and a Produce Story/Events/live/growth packet (26); Unit Story 01 in two halves (U1-A lines 1–4675, U1-B 4676–end); story events in four tranches (EV-1..4); support cards in six (SP-1..6); and shared/tutorial (SH). Each packet was read **completely and sequentially** by an independent reader with no access to the repository or any analysis (blindness rule), recording candidate scenes with exact Japanese anchors, epistemic class (event / dream / memory / hypothetical / self-claim / observer claim / stage performance / inner monologue), continuity cues and salience. 3,377 source objects were read in full; **2,403 candidates (996 high-salience)** were recorded. Eight candidates quote lines that continue into the next script; the coverage ledger counts every candidate once, on its primary object, and lists those eight continuations as secondary links.
 
 Every packet was validated mechanically: manifest identity of every `original_name`, presence of every anchor fragment in the cited script's dialogue (whitespace-, ruby- and emphasis-normalized; speaker labels stripped), and coverage reconciliation against the bundle's envelope list. Mismatches were bookkeeping only (anchors spanning two consecutive scripts were given the second script as `also_in`); no reader interpretation was altered.
 
-The 400 manifest objects outside any packet carry 70 dialogue messages in total (produce-system prompts, gacha staging, empty staging files, the series-3 H.I.F. rules explanation and the request-system introduction). The orchestrator read all 26 that carry dialogue; they contain no character-psychology content, and the substantive ones are covered by `GKM_DEDUP_AND_EXCEPTION_AUDIT.md`, the shared/institutional spine and the institution ledger.
+The 400 manifest objects outside any packet carry 70 dialogue messages in total (produce-system prompts, gacha staging, empty staging files, the series-3 H.I.F. rules explanation and the request-system introduction). The orchestrator read all 26 that carry dialogue (a non-blind pass: the orchestrator also routed, consolidated and verified findings); they contain no character-psychology content, and the substantive ones are covered by `GKM_DEDUP_AND_EXCEPTION_AUDIT.md`, the shared/institutional spine and the institution ledger.
 
 **Stage B — comparison against the canonical corpus.** Candidates were routed to 30 assignments: 14 character runs (Saki split into own-bundle and U1/Ume-bundle halves), 6 character supplements for late-arriving cross-character candidates, 4 event-tranche runs and 6 support-tranche runs. Auditors read each core, evidence matrix and AV addendum in full, the relevant tranche readings, ledgers and syntheses, grepped the whole series root, and judged **interpretive coverage, not citation**: a missing quotation is not a missing insight, and an uncited scene adequately synthesized under a broader claim is COVERED. Tranche auditors additionally checked **propagation**: whether a character-defining tranche finding reaches at least one cumulative or synthesis home.
 
@@ -68,7 +68,7 @@ The 400 manifest objects outside any packet carry 70 dialogue messages in total 
 
 **Adversarial verification.** Every P0/P1 required A1 re-inspection, context, speaker check, manifest check, continuity placement, full reading of the relevant canonical sections, a search for another canonical home, and the strongest adequacy defence. The orchestrator then **independently re-inspected the raw script** for every P1 (two borderline P1s were lowered to P2 — §7).
 
-**Negative controls.** Each assignment reported at least three high-salience candidates that the corpus covers well, with the exact covering section (about 150 in total; every source family and character represented).
+**Negative controls.** Every primary assignment (24) reported at least four high-salience candidates that the corpus covers well, with the exact covering section; four of the six supplements reported three or four, and the two smallest supplements (one and three candidates) reported none. The 154 negative controls are reproduced verbatim, per assignment, in the register appendix.
 
 **Actual capabilities and limits** are stated in §9 and §11.
 
@@ -88,9 +88,9 @@ The 400 manifest objects outside any packet carry 70 dialogue messages in total 
 | Actionable assignment records | 193 |
 | Register entries after merging duplicates | 180 |
 
-Register entries by disposition: UNDERWEIGHTED 74, CROSS_REFERENCE_GAP 42, CONTINUITY_OR_ATTRIBUTION_ERROR 20, TRACEABILITY_GAP 19, OMITTED 14, POTENTIALLY_CORRECTIVE 11. By severity: P0 0, P1 6, P2 94, P3 79, evidence-only 1.
+Register entries by disposition (the lead finding of each entry, exactly as published in the register): UNDERWEIGHTED 74, CROSS_REFERENCE_GAP 41, CONTINUITY_OR_ATTRIBUTION_ERROR 20, TRACEABILITY_GAP 18, OMITTED 16, POTENTIALLY_CORRECTIVE 11. By severity: P0 0, P1 6, P2 94, P3 79, evidence-only 1.
 
-Source families cited by actionable entries (an entry can cite several): Dear 109, Idol Communications 51, Produce Story 34, story events 29, support cards 26, Unit Story 01 20, Produce Events 16, other 6. Dear dominance reflects where character interiority is concentrated, not a family-specific failure; see §6.
+Source families cited by actionable entries (an entry can cite several): Dear 109, Idol Communications 51, Produce Story 34, story events 29, support cards 27, Unit Story 01 20, Produce Events 16, other 5. Dear dominance reflects where character interiority is concentrated, not a family-specific failure; see §6.
 
 ## 5. Character-by-character conclusions
 
@@ -116,7 +116,7 @@ Event and support tranche readings were found accurate and well propagated: in e
 
 ## 6. Cross-character and cross-source patterns
 
-1. **Cross-track states are the dominant gap.** Of the six P1s, four concern material that sits in another idol's track or in U1 (HSCA-001, -002, -003, -004). The same pattern recurs at P2: Saki in Sena's track, Ume in Hiro's, Misuzu/Temari skipping winter H.I.F. in three tracks, Sena's abdication in D-SAKI/D-TSUBAME. Phase-3 cores were scoped to their own bundles, and the later synthesis layer did not systematically harvest each character's appearances in other tracks.
+1. **Cross-track states are the most frequent gap.** Of the six P1s, three concern material that sits in another idol's track or in U1 (HSCA-001, -002, -004); a fourth (HSCA-003) is an own-bundle omission of another character's action (Saki's 100 Pro signing inside Ume's own Dear track). The same pattern recurs at P2: Saki in Sena's track, Ume in Hiro's, Misuzu/Temari skipping winter H.I.F. in three tracks, Sena's abdication in D-SAKI/D-TSUBAME. Phase-3 cores were scoped to their own bundles, and the later synthesis layer did not systematically harvest each character's appearances in other tracks.
 2. **U1 Episode-04 sub-arcs.** Before PR #531, Saki's U1 nightmare/insomnia material had no character-facing home. The audit found the same structural gap for Misuzu (HSCA-001) and Sena (HSCA-004), and Kotone's own U1 leadership is likewise unrecorded from her side (HSCA-026).
 3. **Attribution and branch gating.** A dubbed line treated as Lilja's influence (HSCA-006), a reconciliation mechanism misread (HSCA-005), a choice-gated line treated as fixed (HSCA-046), male pronouns for Mao across five support readings and two ledgers (HSCA-015), a self-report promoted to biography (HSCA-089), an unsourced identity assertion (HSCA-151).
 4. **Independent convergence** strengthens confidence: two auditors separately found the Dear 014 misreading (Sumika and Lilja runs), the Dear 009 vs 011–012 ledger error (Saki and Ume runs), and the D-UME 100 Pro issue (Ume and Saki calibration runs).
@@ -173,6 +173,7 @@ These are proposals for owner-reviewed follow-up; this audit performs none of th
 - Stage-B outputs: 30 assignments; every routed candidate is assigned to exactly one primary record (checked by script in each assignment).
 - Consolidation: duplicates merged into eight clusters; orchestrator overrides recorded per finding in the register.
 - **Process limitations disclosed:** (a) the Stage-B calibration pass-1 was not fully blind (§8); (b) several runs were interrupted by usage limits and resumed from saved work — two readers wrote some candidates after resumption from already-read context (anchors validated); (c) Stage-B helpers shared a scratch area and at least two helper files were overwritten (canonical outputs unaffected; one per-candidate appendix lost, bucket counts preserved); (d) one auditor wrote its summary by script after a tool refusal before the brief forbade routing around refusals.
+- **Revision 2026-11-09 (after PR review):** register cells republished in full (the first publication abridged long fields to save space; the complete records were never lost); report totals regenerated from the register itself (the first report took a merged entry's disposition from its last member instead of its lead); every cited source normalized to its manifest `original_name` (one support source had been cited by path, and range citations were expanded through their Stage-A candidate IDs); candidate counting rule stated (2,403 counted once plus 8 secondary links); negative-control claim narrowed to what is published; blind-reading and cross-track wording corrected. A consistency check in the audit work records now verifies that report totals equal register totals, every register source resolves to a manifest object, and every register source carries the matching register ID in the coverage ledger.
 - Principal **false-positive mechanisms** observed (and filtered): character merely mentioned or dreamt of (counted COVERED/false positive); readers over-reading comic or branch-mixed lines in Produce Events; treating an uncited scene as an omission although its consequence was synthesized elsewhere; identifying unnamed referents too confidently.
 
 ## 12. Executive summary (questions A–E)
