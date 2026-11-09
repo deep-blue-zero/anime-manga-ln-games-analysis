@@ -186,6 +186,23 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "blue-box",
+      "stable_slug": "blue-box",
+      "canonical_title": "Blue Box",
+      "media": [
+        "MANGA",
+        "NOVEL"
+      ],
+      "repository_path": "series/blue-box/",
+      "canonical_entrypoint": "series/blue-box/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished."
+    },
+    {
       "series_id": "chainsaw-man",
       "stable_slug": "chainsaw-man",
       "canonical_title": "Chainsaw Man",
