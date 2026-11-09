@@ -66,6 +66,22 @@
       "catalog_note": "Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
     },
     {
+      "series_id": "a-certain-scientific-railgun-astral-buddy",
+      "stable_slug": "a-certain-scientific-railgun-astral-buddy",
+      "canonical_title": "A Certain Scientific Railgun: Astral Buddy",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-scientific-railgun-astral-buddy/",
+      "canonical_entrypoint": "series/a-certain-scientific-railgun-astral-buddy/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Distinct A Certain Scientific Railgun: Astral Buddy manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+    },
+    {
       "series_id": "a-sisters-all-you-need",
       "stable_slug": "a-sisters-all-you-need",
       "canonical_title": "A Sister's All You Need",
