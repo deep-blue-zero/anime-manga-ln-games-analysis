@@ -18,6 +18,70 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "a-certain-scientific-accelerator",
+      "stable_slug": "a-certain-scientific-accelerator",
+      "canonical_title": "A Certain Scientific Accelerator",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-scientific-accelerator/",
+      "canonical_entrypoint": "series/a-certain-scientific-accelerator/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Distinct A Certain Scientific Accelerator manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+    },
+    {
+      "series_id": "a-certain-scientific-mental-out",
+      "stable_slug": "a-certain-scientific-mental-out",
+      "canonical_title": "A Certain Scientific Mental Out",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-scientific-mental-out/",
+      "canonical_entrypoint": "series/a-certain-scientific-mental-out/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Distinct A Certain Scientific Mental Out manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+    },
+    {
+      "series_id": "a-certain-scientific-railgun",
+      "stable_slug": "a-certain-scientific-railgun",
+      "canonical_title": "A Certain Scientific Railgun",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-scientific-railgun/",
+      "canonical_entrypoint": "series/a-certain-scientific-railgun/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+    },
+    {
+      "series_id": "a-certain-scientific-railgun-astral-buddy",
+      "stable_slug": "a-certain-scientific-railgun-astral-buddy",
+      "canonical_title": "A Certain Scientific Railgun: Astral Buddy",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-scientific-railgun-astral-buddy/",
+      "canonical_entrypoint": "series/a-certain-scientific-railgun-astral-buddy/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Distinct A Certain Scientific Railgun: Astral Buddy manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+    },
+    {
       "series_id": "a-sisters-all-you-need",
       "stable_slug": "a-sisters-all-you-need",
       "canonical_title": "A Sister's All You Need",
@@ -62,6 +126,22 @@
       "catalog_note": "post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane."
     },
     {
+      "series_id": "astra-lost-in-space",
+      "stable_slug": "astra-lost-in-space",
+      "canonical_title": "Astra Lost in Space / 彼方のアストラ",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/astra-lost-in-space/",
+      "canonical_entrypoint": "series/astra-lost-in-space/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_ASTRA_LOST_IN_SPACE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis from an omnibus witness with explicit internal-unit mapping, prospective knowledge boundaries, longitudinal interpretation and bounded character reconstruction."
+    },
+    {
       "series_id": "attack-on-titan",
       "stable_slug": "attack-on-titan",
       "canonical_title": "Attack on Titan",
@@ -104,6 +184,39 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_T05_BLUE_ARCHIVE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "blue-box",
+      "stable_slug": "blue-box",
+      "canonical_title": "Blue Box",
+      "media": [
+        "MANGA",
+        "NOVEL"
+      ],
+      "repository_path": "series/blue-box/",
+      "canonical_entrypoint": "series/blue-box/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished."
+    },
+    {
+      "series_id": "chainsaw-man",
+      "stable_slug": "chainsaw-man",
+      "canonical_title": "Chainsaw Man",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/chainsaw-man/",
+      "canonical_entrypoint": "series/chainsaw-man/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate."
     },
     {
       "series_id": "chiramune",
@@ -167,6 +280,22 @@
       "catalog_note": "Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons."
     },
     {
+      "series_id": "dr-stone",
+      "stable_slug": "dr-stone",
+      "canonical_title": "Dr. STONE",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/dr-stone/",
+      "canonical_entrypoint": "series/dr-stone/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for Dr.STONE, with numbered main volumes and the separately scoped 科学王国事典 official fanbook; fictional explanation, depicted capability and external reference remain distinct evidence classes."
+    },
+    {
       "series_id": "gakuen-idolmaster",
       "stable_slug": "gakuen-idolmaster",
       "canonical_title": "Gakuen Idolmaster",
@@ -211,6 +340,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "girl-meets-rock",
+      "stable_slug": "girl-meets-rock",
+      "canonical_title": "Girl meets Rock!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/girl-meets-rock/",
+      "canonical_entrypoint": "series/girl-meets-rock/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for ふつうの軽音部 (Futsuu/Futsu no Keionbu), officially titled Girl meets Rock!; depicted musical expression is analyzed as page/text evidence without assuming a supplied audio performance."
+    },
+    {
       "series_id": "girls-band-cry",
       "stable_slug": "girls-band-cry",
       "canonical_title": "Girls Band Cry",
@@ -223,6 +368,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "haikyu",
+      "stable_slug": "haikyu",
+      "canonical_title": "Haikyu!!",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/haikyu/",
+      "canonical_entrypoint": "series/haikyu/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes."
     },
     {
       "series_id": "harmony",
@@ -648,6 +809,22 @@
       "catalog_note": "Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction."
     },
     {
+      "series_id": "shihou-yuugi",
+      "stable_slug": "shihou-yuugi",
+      "canonical_title": "Shihou Yuugi: Tatsuya Endo Short Stories / 四方遊戯 遠藤達哉短編集",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/shihou-yuugi/",
+      "canonical_entrypoint": "series/shihou-yuugi/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SHIHOU_YUUGI_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga anthology analysis with independent story identities, source-bounded character and relationship interpretation, and evidence-led collection comparison."
+    },
+    {
       "series_id": "shine-post",
       "stable_slug": "shine-post",
       "canonical_title": "SHINE POST",
@@ -741,6 +918,38 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "spy-x-family",
+      "stable_slug": "spy-x-family",
+      "canonical_title": "SPY x FAMILY",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/spy-x-family/",
+      "canonical_entrypoint": "series/spy-x-family/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes."
+    },
+    {
+      "series_id": "tatsuki-fujimoto-before-chainsaw-man",
+      "stable_slug": "tatsuki-fujimoto-before-chainsaw-man",
+      "canonical_title": "Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/tatsuki-fujimoto-before-chainsaw-man/",
+      "canonical_entrypoint": "series/tatsuki-fujimoto-before-chainsaw-man/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_FUJIMOTO_COLLECTION_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese short-story collection analysis with independent story identities, source-qualified subset comparison and bounded character reconstruction."
+    },
+    {
       "series_id": "the-apothecary-diaries",
       "stable_slug": "the-apothecary-diaries",
       "canonical_title": "The Apothecary Diaries",
@@ -797,6 +1006,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "the-ramparts-of-ice",
+      "stable_slug": "the-ramparts-of-ice",
+      "canonical_title": "The Ramparts of Ice / 氷の城壁",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/the-ramparts-of-ice/",
+      "canonical_entrypoint": "series/the-ramparts-of-ice/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_RAMPARTS_OF_ICE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese full-colour tankobon analysis of character development, directed relationships, source-language expression and edition-specific visual form, with bounded reconstruction."
     },
     {
       "series_id": "three-days-of-happiness",
@@ -905,6 +1130,22 @@
       "migration_scope": "GIT_NATIVE_POST_CUTOVER_WUWA_BOOTSTRAP_V0_1",
       "authority_status": "GIT_PRIMARY",
       "catalog_note": "post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane."
+    },
+    {
+      "series_id": "you-and-i-are-polar-opposites",
+      "stable_slug": "you-and-i-are-polar-opposites",
+      "canonical_title": "You and I Are Polar Opposites / 正反対な君と僕",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/you-and-i-are-polar-opposites/",
+      "canonical_entrypoint": "series/you-and-i-are-polar-opposites/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_POLAR_OPPOSITES_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of individual development, directed relationships, ordinary behavior and written register, with separate shared-artbook provenance and bounded reconstruction."
     },
     {
       "series_id": "youjo-senki",
