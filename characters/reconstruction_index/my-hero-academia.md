@@ -6,6 +6,47 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
 
 ## Recorded assessments
 
+### Subject `my-hero-academia:amajiki-tamaki@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/amajiki-tamaki@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/amajiki-tamaki@manga.jsonl)
+
+<a id="my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01"></a>
+
+#### Assessment `my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:amajiki-tamaki`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_AMAJIKI\_TAMAKI\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its AT-SUP-01 to AT-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the V14-V16 deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong readiness label and its retrospective holdout probe are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Amajiki Tamaki from his V14 classroom introduction \(V14:p073-078\) through V15-V16 field work under Fat Gum and the solo bottleneck fight \(V15:p072-084, V16:p047-083\), the V36 Big Three engagement with its support-acceptance reflection \(V36:p150-185, logical pages, p180 excluded as guest illustration\) and the V42 adult Fat Gum sidekick epilogue \(V42:p149-153\), kept as separable snapshots \(inhibited public introduction, practiced field work, V36 regulation update, adult professional\). No atom covers V17-V35, and the supplement's food and employment claims are endpoint or author claims, not enacted scenes.
+- Basis commit: `5aa25a60a918015bb973776732340cf205f9d39e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6d2e32238d8ae5a48cd25572f5c7003b98f7486ce97697f64f0a2f11b62dbd44`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named snapshot: V14 public introduction, V15-V16 field work, V36 Big Three engagement or V42 adult sidekick, never blended; no V17-V35 behavior is invented.
+  - `CROSS_SCENARIO` condition: The situation is an operational task within a trusted team where a bounded role can help, as the decision policy requires; the context transition is predicted before tone.
+  - `CROSS_SCENARIO` condition: The interlocutor is Mirio, Nejire, Fat Gum, Kirishima, Ochako or an opponent handled as the partner table gives, with no invented private relationship.
+  - `CROSS_SCENARIO` condition: Manifest uses only consumed inputs and allied support the scene supplies, and no outcome is guaranteed by confidence or visual scale.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description with high-confidence behavior, plausible alternatives and flip conditions, abstaining on the model's OPEN items of adult and private breadth and response outside sampled support relations; no quoted dialogue is produced as canon and no readiness is inherited from the strong label.
+  - `CROSS_SCENARIO` bounds: chronology One named snapshot: V14 inhibited introduction, V15-V16 practiced field work, V36 Big Three engagement, or V42 adult Fat Gum sidekick, stated explicitly.; interlocutor Mirio as reciprocal friend, Nejire as Big Three teammate, Fat Gum or Kirishima as trusted professionals, Ochako as an adult collaborator, or opponents in a protective engagement.; settings Hero field work, internship, rescue or team combat with a bounded role for him; Manifest depends on consumed inputs, combination and timing; Others' confidence is evidence of their evaluation, not of a guaranteed win; No public ceremonial, family, romance or unrelated private-life setting
+  - `PROFESSIONAL_CONTEXT` condition: Hero field work under Fat Gum, internship or Big Three operations within a named snapshot.
+  - `PROFESSIONAL_CONTEXT` condition: Visible inhibition and doubt coexist with competence; neither is deleted.
+  - `PROFESSIONAL_CONTEXT` condition: Independent team-management decisions are not generated, since the model states they lack samples, and continued sidekick work is chosen repayment, not inability to lead.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `adult-private-breadth-open` (evidence-backed limitation): The model leaves adult and private breadth and response outside sampled support relations OPEN; broader private routine, romance and independent family conflict remain low-confidence or unknown, and exact adult intimate voice is unestablished.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set. Missing support is not evidence of absence.
+  - `manifest-input-dependent` (evidence-backed limitation): Manifest depends on consumed inputs, combination and timing; it is not unrestricted generation, and the V36 combined attack depended on allies buying time. The profile calls it ineffective while the move caption calls it arm-blowing, a recorded tension.
+  - `middle-interval-unsampled` (evidence gap): No evidence atom covers V17-V35, between the Hassaikai raid and the final war, so his behavior over that interval is not established by this evidence set.
+  - `opponent-knowledge-bounded` (evidence-backed limitation): He does not know opponents' full motives or histories; his recognition of their bonds is explicitly bounded \(AT03\).
+  - `received-belief-not-a-cure` (evidence-backed limitation): The V36 reinterpretation of others' belief as strength occurs under extreme pressure; the source does not establish a permanent cure for anxiety, and V42 directly shows continuing self-questioning.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe AT-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; supported axes are qualitative comparisons and the emotional-trajectory axis is only partial.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries and author comments \(AT-SUP-01 to AT-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+  - `team-management-unsampled` (evidence-backed limitation): Independent adult team-management response lacks samples, and continued employment with Fat Gum is chosen repayment; a ranking above Mirio is rumor.
+- Evidence at basis commit:
+  - [`my-hero-academia:amajiki-tamaki@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AMAJIKI_TAMAKI_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Subject `my-hero-academia:lady-nagant@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/my-hero-academia/lady-nagant@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/lady-nagant@manga.jsonl)
@@ -87,3 +128,49 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
   - `terminal-boundary-no-living-future` (evidence-backed limitation): The model ends with death at V18:p077; later Mirio and All Might behavior is legacy evidence, the posthumous remembered prediction is not a living return, and no canonical future exists to show how a surviving Nighteye would practice after revising his account.
 - Evidence at basis commit:
   - [`my-hero-academia:sir-nighteye@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SIR_NIGHTEYE_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Subject `my-hero-academia:togata-mirio@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/togata-mirio@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/togata-mirio@manga.jsonl)
+
+<a id="my-hero-academia-togata-mirio-manga-v2-model-20261109-01"></a>
+
+#### Assessment `my-hero-academia-togata-mirio-manga-v2-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:togata-mirio`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_TOGATA\_MIRIO\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its TM-SUP-01 to TM-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the V14-V17 deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong readiness label and its retrospective holdout probe are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Togata Mirio from his V14 introduction as a Permeation-using third-year senior \(V14:p071-115\) through the V15-V17 Eri rescue and loss of Permeation \(V17:p050-096\), the V18 Quirkless grieving state \(V18:p074-090\), restoration after Eri's trained Rewind \(V30:p138-140\), the V36 restored professional in the final war \(V36:p163-174\) and the V42 graduation and adult No.1 epilogue \(V42:p042-043, p149-152\), kept as separable action spaces \(with Permeation, Quirkless, restored, adult\). No atom covers the V19-V29 Quirkless interval, and the supplement's agency succession and adult gag material are endpoint claims, not enacted scenes.
+- Basis commit: `5aa25a60a918015bb973776732340cf205f9d39e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `e590b218c7cf6ea79b3d55b65007d36883461a63ca5f482b5ef30bf3c0cf3239`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named action space: Permeation-using senior \(V14-V17\), Quirkless student \(V17-V18\), restored professional \(V30-V36\) or adult No.1 \(V42\), never blended; no V19-V29 Quirkless-interval behavior is invented.
+  - `CROSS_SCENARIO` condition: The situation is a rescue, protection, teaching or support task where the model's decision policy applies.
+  - `CROSS_SCENARIO` condition: The interlocutor is Nighteye, Tamaki, Eri, Midoriya, Ochako or an adult team, or an opponent handled as the partner table gives, with no invented family or intimate relationship.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description separating high-confidence behavior, plausible alternatives and flip conditions, as the MHA schema's output contract requires; humor reception is not assumed, and abstains on the model's OPEN item of independent adult and private breadth.
+  - `CROSS_SCENARIO` condition: No quoted dialogue is produced as canon, and no readiness is inherited from the project's strong label or its retrospective probe.
+  - `CROSS_SCENARIO` bounds: chronology One named action space: V14-V17 Permeation-using senior, V17-V18 Quirkless grieving student, V30-V36 restored professional, or V42 adult No.1, stated explicitly.; interlocutor Nighteye as mentor, Tamaki as reciprocal friend, Eri as a protected child whose choices are her own, Midoriya as junior, Ochako or adult teams as professionals whose domain he follows, or an opponent in a protective encounter.; settings Hero work, internship, rescue, school or child-facing counseling situation; His bodily capability matches the named action space \(Permeation, none, or restored\); He does not gain knowledge the model denies him, such as OFA mechanics or an opponent's history; No family, romance or unrelated private-life setting
+  - `MUNDANE_SOCIAL` condition: Settings are school-senior or peer social situations, or adult child-facing public settings, matching located evidence.
+  - `MUNDANE_SOCIAL` condition: Audience reception of humor is conditioned on recipient and stakes, never assumed to succeed.
+  - `MUNDANE_SOCIAL` condition: No family, intimate or unrelated adult private-life behavior is generated.
+  - `ETHICAL_DELIBERATION` condition: The dilemma concerns entitlement to another's capacity, consent of a rescued person, or restraint versus intervention in rescue, within one named action space.
+  - `ETHICAL_DELIBERATION` condition: Guilt after correct restraint is preserved as guilt, without converting it into a rule to disregard procedure.
+  - `ETHICAL_DELIBERATION` condition: Abstain on ethics outside that domain, such as political, family or romantic obligations the model does not address.
+  - `PROFESSIONAL_CONTEXT` condition: Hero, internship or counseling-support work within a named action space.
+  - `PROFESSIONAL_CONTEXT` condition: Permeation's sensory and air constraints apply when he has it; Quirkless and restored states are distinct action spaces.
+  - `PROFESSIONAL_CONTEXT` condition: Specific agency management decisions are not generated, since the model states they are not enacted.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` D; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `distinct-action-spaces` (evidence-backed limitation): With-Permeation, Quirkless and restored Mirio are distinct action spaces; Quirkless Mirio retains learned prediction but cannot phase, and restored Mirio has a later mechanism and history. Later restoration does not prove it was owed.
+  - `independent-private-breadth-open` (evidence-backed limitation): The model leaves independent adult and private breadth OPEN: repeated independent private and adult contexts are thinner than specialist evidence, and unrelated adult intimacy and family decision-making remain less certain.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set. Missing support is not evidence of absence.
+  - `management-decisions-not-enacted` (evidence-backed limitation): Current agency leadership is established by supplement profile claims, but specific management decisions and his reactions to Eri's stated performance boundary are not directly enacted.
+  - `quirkless-interval-unsampled` (evidence gap): No evidence atom covers V19-V29, between the V18 Quirkless grief and the V30 restoration, so his behavior over that interval is not established by this evidence set.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe TM-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; supported axes are qualitative comparisons and the emotional-trajectory axis is only partial.
+  - `social-prediction-fallible` (evidence-backed limitation): His social prediction is not infallible: a cheerful provocation misfires on an unseen wound \(TM05\), and supplement evidence shows humor reception varies by recipient. Perfect empathy is revised.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, author comments and bonus fiction \(TM-SUP-01 to TM-SUP-03\) constrain reconstruction without becoming enacted manga observations; repeated panels or statements are not independent behavioral occasions.
+- Evidence at basis commit:
+  - [`my-hero-academia:togata-mirio@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TOGATA_MIRIO_CHARACTER_RECONSTRUCTION_MODEL.md)
