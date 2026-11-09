@@ -49,6 +49,47 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:ashigaru@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:ashigaru@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/ASHIGARU_BOUNDED_RECONSTRUCTION_MODEL.md)
 
+### Subject `tomozaki:hinami-haruka@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/hinami-haruka@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/hinami-haruka@light-novel.jsonl)
+
+<a id="tomozaki-hinami-haruka-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-hinami-haruka-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:hinami-haruka`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:hinami-haruka@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Hinami Haruka bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, maturity BOUNDED\_INDIVIDUAL\_LITERARY\_ROLE\) over the locked Japanese V01-V12 with story-local V06.5/V08.5, whose positive person evidence is the nine handles HH-E01 to HH-E09 in V08.5, V09, V11 and V12, with earlier bucket cells retained as unknown rather than absence findings; and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_HARUKA\_B05\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier and is not used as literary evidence. The supporting character implementation review, the supporting literary evidence manifest, the additional-three model integration review and evidence packet, the readings and the ledgers \(CS-HAR-01, CS section 13.3/19, REL section 17.1\) are not curated on this subject and are not evidence here. Much of Haruka's V11-V12 conduct is seen through Fumiya's or Aoi's narration. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's seven selectors: HH\_CHILDHOOD\_PLAY and HH\_RETROSPECTIVE\_SHARED\_GAME \(V08.5 retrospective scenes inside a later frame, not dated by package order\), HH09\_FAMILY\_INTRO \(V09 restaurant\), HH11\_FIRST\_CONTACT, HH11\_INQUIRY and HH11\_SISTER\_APPEAL \(V11\), and HH12\_READING\_RELAY \(V12, ending with the departure DM and Fumiya's found reply\). Her exact current age is not established; earlier volumes are unknown cells; nothing after V12 is established.
+- Basis commit: `ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `51f79c519caad26abd94946c4c67093d97c3932eb4a5d2d7f97bb8f30a9ac6ed`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_ASSESSED; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology One of the selectors HH\_CHILDHOOD\_PLAY to HH12\_READING\_RELAY, with V08.5 retrospective states dated by their frame rather than package order, and nothing after the V12 departure DM.; interlocutor Only attested recipients in their represented standing: Nagisa and Aoi in sister play, Aoi as model, her mother as reported, Fumiya as an unfamiliar then partially trusted older student, Kikuchi and Mizusawa at the food court, and the V12 delivery peers.; settings Ordinary sister play, family introduction, first contact with channel choice, an invited inquiry, a sister-directed appeal or reading and relay only; No therapy, crisis, romance, vocation, school-role continuation or durable family repair; Who heard or read what and any expressed refusal must be supplied; output would be a labeled hypothetical range, never an observed canonical event
+  - `MUNDANE_SOCIAL` condition: One named selector \(HH\_RETROSPECTIVE\_SHARED\_GAME, HH09\_FAMILY\_INTRO, HH11\_FIRST\_CONTACT or HH11\_INQUIRY\) with its recipient familiarity and actual channel.
+  - `MUNDANE_SOCIAL` condition: Recipient, setting, request, shared history and any refusal are supplied; no exclusive favorite, routine or age is invented.
+  - `MUNDANE_SOCIAL` condition: Output is a qualitative prose range with local register noted, not generated dialogue.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `age-unestablished` (evidence gap): Haruka's exact current age is not established; the V09 observer estimate is not a measurement.
+  - `council-result-reported` (evidence-backed limitation): Haruka's middle-school presidency and campaign work are her own reports to Fumiya and Aoi; no administration, leadership skill or vocation is shown.
+  - `dm-transmits-departure-only` (evidence-backed limitation): Haruka's V12 DM reports Aoi's unsteady departure; it does not transmit Aoi's private p-0022 reading or create a supervision role.
+  - `earlier-cells-unknown` (evidence gap): Earlier bucket cells marked unknown are not findings that Haruka was absent from those volumes.
+  - `independence-and-repair-open` (evidence gap): Durable independent value, family repair and her full later reaction to the covert inquiry are open source questions.
+  - `inquiry-participation-not-consent` (evidence-backed limitation): Haruka asks Kikuchi for her view and stops Fumiya's interruption, then is visibly hurt; participation is not informed anticipation or permission to publish her words.
+  - `line-refused-instagram-offered` (evidence-backed limitation): Haruka refuses LINE as private and offers Instagram; agreeing to talk does not grant every channel, audience or reuse of her family testimony.
+  - `p240-qualifier-unheard` (evidence-backed limitation): Fumiya's 'as one person' qualification is inward; Haruka hears only his liking for Aoi and cannot hold a final romantic classification.
+  - `post-v12-horizon` (evidence gap): Nothing after the V12 boundary is evidenced.
+  - `relay-sincerity-and-pressure` (evidence-backed limitation): Haruka reads the manuscript independently and presses it on Aoi after Aoi refused it; sincerity does not erase pressure, and a later benefit is not prior consent.
+  - `rescue-intent-unsettled` (evidence-backed limitation): The text offers possible concern for Aoi as a reason for Haruka's Atafami invitation but does not settle it; a consciously designed rescue exceeds the evidence.
+  - `silence-motive-unknown` (evidence-backed limitation): A week after the food court Haruka has not replied to Fumiya; that is a finite interval, not a refusal, punishment or diagnosis.
+  - `voice-idiolect-unvalidated` (evidence gap): No idiolect, habitual frequencies or acoustic delivery is established; no freeform Japanese or blind accuracy is validated.
+- Evidence at basis commit:
+  - [`tomozaki:hinami-haruka@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Hinami%20Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:hinami-haruka@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md)
+
 ### Subject `tomozaki:izumi-yuzu@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl)
@@ -311,6 +352,51 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Evidence at basis commit:
   - [`tomozaki:natsubayashi-hanabi@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`tomozaki:natsubayashi-hanabi@light-novel#provisional-character-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Natsubayashi%20Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md)
+
+### Subject `tomozaki:rena@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/rena@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/rena@light-novel.jsonl)
+
+<a id="tomozaki-rena-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-rena-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:rena`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:rena@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Rena bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, maturity BOUNDED\_INDIVIDUAL\_LITERARY\_ROLE\) over the locked Japanese V01-V12 with V06.5/V08.5 at their separately routed story clocks, whose positive person evidence is the routes RE-P01 to RE-P12 in V08.5 Unit 4, V08, V09 and V11, with V12 supplying only afterword paratext and earlier cells retained as unknown rather than absence findings; and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_RENA\_B07\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority and limited by its mandatory gate to non-graphic third-person ordinary gaming, taste, status and attention selection, attributed formation comparison, situated advice and accountability analysis; it derives from the dossier and is not used as literary evidence. The supporting character implementation review, the supporting literary evidence manifest, the additional-three model integration review and evidence packet, the readings and the ledgers \(CS section 13.4, REL section 8.5/17, EFFORT section 54.3\) are not curated on this subject and are not evidence here. Rena is a game-community appellation; no legal name is established. V08.5 Unit 5 karaoke and the VR bonus are parallel or adapted layers outside mainline behavior. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's five selectors: RE17\_SCHOOL\_BELONGING \(the age-seventeen retrospective disclosed in V08.5 Unit 4\), RE20\_YEAR\_END\_UNIT4 \(an unspecified adult year-end gathering at age twenty, not a post-V08 reaction, with Fumiya absent\), RE08\_MAIN\_GAME\_CONTACT \(V08 gathering and call\), RE09\_MAIN\_GAME\_ADVICE \(V09 incidents and consultation\) and RE11\_MAIN\_PUBLIC\_ACCOUNTABILITY \(V11 encounter and exit\). There is no V12 conduct state; the interval between seventeen and twenty is not narrated; earlier volumes are unknown cells; nothing after V12 is established.
+- Basis commit: `ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `c03ff942c9d5b3cb4d87b2961ada86d6fb6184b0b64883709d22ff391e87d028`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology One of the selectors RE17\_SCHOOL\_BELONGING to RE11\_MAIN\_PUBLIC\_ACCOUNTABILITY, with Unit 4's year-end gathering at its own unspecified clock rather than after V08, and no V12 or later conduct state.; interlocutor Only attested recipients in their represented standing: Shoko, Karen's group and the older former students in the school past; Rambo, Kaba-jii, Jimmy, Inumaru and Vanilla at the year-end gathering; Fumiya, Aoi, Ashigaru and Kikuchi in the mainline.; settings Non-graphic third-person ordinary gaming, taste, attention and status comparison, situated advice or accountability analysis only; No sexualized content, coercive-contact reenactment, first-person persona or new tactic for exploiting a target, bypassing refusal or provoking a rival; No family, education, work, reform, remorse or future relationship is invented; output would be a labeled hypothetical range, never an observed canonical event
+  - `MUNDANE_SOCIAL` condition: The mandatory domain gate passes: non-graphic, adult, ordinary gaming, taste or advice topic only, with no sexualized or coercive content.
+  - `MUNDANE_SOCIAL` condition: One named selector \(RE20\_YEAR\_END\_UNIT4, RE08\_MAIN\_GAME\_CONTACT or RE09\_MAIN\_GAME\_ADVICE\) with recipient, standing and what each person knows supplied.
+  - `MUNDANE_SOCIAL` condition: Continued gaming or consultation is never treated as permission for unrelated acts; no favorite, routine, occupation or motive is invented.
+  - `MUNDANE_SOCIAL` condition: Output is a qualitative third-person prose range, not a first-person performance or generated dialogue.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `advice-not-ethical-authority` (evidence-backed limitation): Her causal advice and game analogy are useful and are hers, but they confer no ethical authority and coexist with contact the recipient removes during the consultation.
+  - `apology-object-specific` (evidence-backed limitation): Her V09 apology answers a request about message wording; the later image and renewed contact are separate incidents, and the apology is not a general stop.
+  - `attention-not-desire-for-giver` (evidence-backed limitation): Enjoying attention from Rambo and Kaba-jii is not wanting them; she inwardly dismisses them and leaves.
+  - `biography-unknown` (evidence gap): Legal name, family, education after leaving school, occupation and household are not established.
+  - `earlier-cells-unknown` (evidence gap): Earlier unknown bucket cells are not findings of absence.
+  - `formation-not-excuse` (evidence-backed limitation): Her exclusion from both school fields helps explain later reliance on being selected, but it is not a diagnosis, a sole cause or an excuse for chosen later acts.
+  - `future-conduct-open` (evidence gap): No general stopping rule, later remorse, reform or durable reciprocal friendship is established; V12 supplies only an afterword statement that not everything about Rena has been written.
+  - `inward-objection-not-heard` (evidence-backed limitation): Some of Fumiya's objections are inward narration, not speech Rena hears; equally, incomplete outward articulation is not permission.
+  - `known-attachment-pursued` (evidence-backed limitation): Rena hears that Jimmy has a girlfriend, has it confirmed by him, and continues her pursuit; attachment was not unknown to her.
+  - `refusal-then-renewed-contact` (evidence-backed limitation): After Fumiya's explicit girlfriend refusal and hand removal in V09, Rena touches him again in the following discussion and at the consultation, and again in V11.
+  - `saturday-withdrawal-local` (evidence-backed limitation): In V08 Rena withdraws the particular Saturday invitation when Fumiya has plans; this is local and is not acceptance of a sexual, relational or contact limit.
+  - `self-theory-not-fact` (evidence-backed limitation): Her body-as-truth and black-snow theory is her own interpretive framework, contradicted within Unit 4 by her own unhonored replies and provocative true hint.
+  - `seventeen-to-twenty-unnarrated` (evidence gap): The interval between the age-seventeen retrospective and the adult present is not narrated.
+  - `two-fields-not-true-and-false-face` (evidence-backed limitation): Rena's appearance-group recognition and her online-game interest were both inhabited belonging at seventeen; neither is a disguise for the other, and other members' band and idol tastes are not hers.
+  - `v11-exit-not-apology` (evidence-backed limitation): Rena's amused V11 exit and compliment to Kikuchi are a local end, not an apology, promise or reform.
+  - `voice-idiolect-unvalidated` (evidence gap): No idiolect or acoustic delivery is established; no freeform Japanese or blind accuracy is validated.
+- Evidence at basis commit:
+  - [`tomozaki:rena@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:rena@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/RENA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
 ### Subject `tomozaki:takei@light-novel`
 
