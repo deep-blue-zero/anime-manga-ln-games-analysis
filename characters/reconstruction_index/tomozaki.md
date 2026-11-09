@@ -6,6 +6,51 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 
 ## Recorded assessments
 
+### Subject `tomozaki:izumi-yuzu@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl)
+
+<a id="tomozaki-izumi-yuzu-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-izumi-yuzu-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:izumi-yuzu`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:izumi-yuzu@light-novel at basis\_commit, each read in full: \#provisional-character-study, the canonical Izumi Yuzu character monograph \(generation V12\_REVIEWED\_YUZU, maturity MATURE\_LOCAL\_LITERARY\_ROLE, accepted scope A, independent review pass 2026-10-23\) over the verified Japanese main V01-V12 with story-locally routed V06.5/V08.5, whose register IY-R01 to IY-R11 gives selective primary windows for V04, V05, V06.5, V08, V11 and V12 and routes other bands to sequential readings and ledgers; and \#bounded-reconstruction-model, the canonical derived-use model with root construction admission MR-P07 \(model core V1\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from that monograph and is not used as literary evidence. The project's current-state entrypoint and the models README were read for method and gate state only. The V12/principal and R06 integration review, principal B model integration review, evidence packets, readings, ledgers, voice ledger and full-series synthesis to which these items route are not curated on this subject and are not evidence here. Much of her conduct is filtered through Fumiya; V06.5 is her own focalization and is not his knowledge. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's eleven selectors: IY-S1 V01 early learner, IY-S2 V03-V04 peer/captain, IY-S3 V04 discreet inquiry, IY-S4 V05 re-entry, IY-S5 V06-V07 public work, IY-S6 V06.5 private uncertainty \(story-local clock\), IY-S7 V08-V09 ordinary future and collaboration, IY-S8 V10 birthday planner, IY-S9 V11 absent handoff, IY-S10 V12 delivery and IY-S11 V12 ordinary audience, with the monograph's V02 chronology row as context. Selectors are configurations, not a maturation ranking; reader access to a private scene stays with the reader; Hinami's V12 private appraisal is not distributed back to the birthday group; the V11-V12 interval is off-page; nothing after V12 is established.
+- Basis commit: `ecea5a397b7dbf601851a0d7faed9793acf12264`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `e1e4a2b6ca3eed73478747b6a8069467ed44cd143743469418d93b6ee9c45d87`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` condition: One named selector only, with its actor-known information and route; reader-only private material and Hinami's family history are not transferred.
+  - `CROSS_SCENARIO` condition: Only the model's admitted domain: relationship-motivated learning, familiar peer coordination and timed inquiry, ordinary taste consultation, small event or birthday planning and festival work.
+  - `CROSS_SCENARIO` condition: Output is a labeled hypothetical act or range that keeps continuing, narrowing, sharing, postponing or declining open where workload or cooperation is unspecified, and abstains on any capacity threshold, couple agreement or career.
+  - `CROSS_SCENARIO` condition: Behavior is described in prose; no quoted speech is generated as canonical.
+  - `CROSS_SCENARIO` bounds: chronology A single model selector from IY-S1 to IY-S11 within Japanese V01-V12, with V06.5 on its story-local clock; no post-V12 state.; interlocutor Only attested recipients in their selector-specific standing: Nakamura, Fumiya, Konno, Tama, Hinami, Hirabayashi, the festival or class group and the V12 audience.; settings Familiar school peer coordination, relationship-motivated learning, ordinary taste consultation, small event or birthday planning and festival work of the Japanese light novels; Workload, request, available cooperation and known preferences supplied; hidden Hinami family meaning is not actor knowledge; No durable refusal or delegation threshold, private couple agreement, household, career, finance, unfamiliar professional management or clinical domain; Output is a labeled hypothetical act or range, never an observed canonical event
+  - `MUNDANE_SOCIAL` condition: Only familiar peer company and coordination: friend consultation on taste, photographs, outings, school-group planning and ordinary banter, as near analogs of the V06.5 outing, V08 school conversation and V10 planning returns.
+  - `MUNDANE_SOCIAL` condition: Recipient, known preferences and actual alternatives are supplied; if taste information is absent, ask rather than fill it from an agreeable-person stereotype.
+  - `MUNDANE_SOCIAL` condition: No invented home life, fixed favorites, uniform or career; behavior is described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `absorber-threshold-open` (evidence gap): No durable refusal, delegation or capacity threshold, and no reciprocity or stopping rule within her relationship with Nakamura, is established.
+  - `akiyama-apology-not-konno` (evidence-backed limitation): In V05 Akiyama and other group members apologize to Tama; Konno's own apology, restitution and restored trust are not shown, and Yuzu's re-entry support is not accountability.
+  - `aogaku-wish-not-outcome` (evidence-backed limitation): The V08 Aogaku wish is her stated educational preference with a reported model-school link; it is not admission, feasibility, a modeling vocation, verified biography or romantic invitation.
+  - `birthday-care-limited-knowledge` (evidence-backed limitation): The V10 plan produces Hinami's genuine pleasure and is sincere, but the group lacks Hinami's family history; later injury does not prove the care false, and guilt does not prove sole responsibility.
+  - `home-life-sparse` (evidence gap): Home life, household rules and the reasons for every accommodation remain sparsely available.
+  - `owned-reason-not-fair-load` (evidence-backed limitation): Owning a relationship or group reason does not establish fair distribution, sustainable workload or easy refusal; volunteering is not evidence of unlimited capacity.
+  - `phone-taking-then-assent` (evidence-backed limitation): In V06.5 Konno takes Kawaguchi Mutsumi's phone before her reply and then obtains assent before sending; later assent does not erase the taking, and Yuzu's gratitude does not show she ordered it.
+  - `post-v12-horizon` (evidence gap): Nothing after the V12 boundary, and no career, adult, household or clinical domain, is evidenced.
+  - `routed-bands` (evidence gap): The V01-V03, V06-V07, V09 and V10 bands are carried by routed readings and ledgers that are not curated on this subject; the curated monograph gives primary windows only for V04, V05, V06.5, V08, V11 and V12.
+  - `v065-fear-not-fact` (evidence-backed limitation): Yuzu's V06.5 fear of a breakup is her private focalization; the meeting is for a birthday gift, and reader access to that interior is not shown as communicated to Fumiya or Nakamura.
+  - `v11-refusal-is-nakamuras` (evidence-backed limitation): In V11 Nakamura's refusal and protest against her self-blame are his acts; her apology and choice to follow are hers and do not establish her own capacity threshold or a private agreement.
+  - `v12-words-unheard` (evidence-backed limitation): In V12 the intervening agreement before delivery is not shown, Hinami's apology and trap theories are hers, and Yuzu's final words at the audience scene are masked by Takei; only the wave is evidenced.
+  - `voice-idiolect-unvalidated` (evidence gap): No idiolect, particle or honorific profile, pitch or performed voice is established; no freeform Japanese or blind accuracy is validated.
+- Evidence at basis commit:
+  - [`tomozaki:izumi-yuzu@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/07%20Character%20Reconstruction%20Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md)
+  - [`tomozaki:izumi-yuzu@light-novel#provisional-character-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/04%20Character%20Analysis/Izumi%20Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md)
+
 ### Subject `tomozaki:mizusawa-takahiro@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/mizusawa-takahiro@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/mizusawa-takahiro@light-novel.jsonl)
@@ -52,6 +97,46 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Evidence at basis commit:
   - [`tomozaki:mizusawa-takahiro@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/07%20Character%20Reconstruction%20Models/MIZUSAWA_TAKAHIRO_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`tomozaki:mizusawa-takahiro@light-novel#provisional-character-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/04%20Character%20Analysis/Mizusawa%20Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md)
+
+### Subject `tomozaki:nakamura-shuji@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/nakamura-shuji@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/nakamura-shuji@light-novel.jsonl)
+
+<a id="tomozaki-nakamura-shuji-ln-v12-model-20261109-01"></a>
+
+#### Assessment `tomozaki-nakamura-shuji-ln-v12-model-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:nakamura-shuji`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:nakamura-shuji@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Nakamura Shuji bounded character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, maturity BOUNDED\_INDIVIDUAL\_LITERARY\_ROLE\) over the locked Japanese main V01-V12 with story-locally routed V06.5/V08.5, whose local routes NS-E01 to NS-E11 mix fresh primary returns \(V01, V06.5, V07, V08, V11, V12\) with inherited analytical routes \(V02, V03, V04, V09, V10\); and \#bounded-reconstruction-model, the canonical derived-use model TOMOZAKI\_NAKAMURA\_B04\_MODEL\_V1, marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier and is not used as literary evidence. The project's current-state entrypoint and the models README were read for method and gate state only. The supporting character implementation review, evidence manifests, six-pilot integration review, review packet, readings and ledgers are not curated on this subject and are not evidence here. Fumiya's expert evaluations and inner jokes are the focalizer's; Yuzu's V06.5 private fear is her focalization, not Nakamura's knowledge. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: The model's directional-standing selectors: NS01\_OPPONENT and NS01\_YUZU\_CARE \(V01\), NS02\_ACK and NS03\_CAMP \(V02-V03\), NS04\_RELATION\_START \(V04\), NS65\_BIRTHDAY \(V06.5 story-local concurrent placement\), NS07\_FRIEND\_HOST \(V07\), NS08\_ROUTE\_RETRIEVAL \(V08\), NS09\_10\_PRACTICAL\_PEERS \(V09-V10\), NS11\_REFUSAL \(V11\) and NS12\_LOCAL\_PARTICIPATION \(V12\). V05 has no dossier band and V08.5 is a review-limit cell, neither of which establishes absence; the V11-V12 interval is off-page; each selector carries only the information shown available to him; nothing after V12 is established.
+- Basis commit: `ecea5a397b7dbf601851a0d7faed9793acf12264`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `27db22eaa419bf7b6ceb6d2e845a3290da825f5fb0b9f7c1636ca9c83a5bc362`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology A single selector from NS01\_OPPONENT to NS12\_LOCAL\_PARTICIPATION within Japanese V01-V12, with V06.5 at its story-local concurrent placement; V05 and V08.5 are unknown cells and nothing after V12 is established.; interlocutor Only attested recipients in their selector-specific standing: Fumiya as opponent or as friend, Yuzu, Mizusawa, festival visitors, the V11 group and Hinami, and his family-route report.; settings Familiar school, gaming, festival, camp and V12 delivery and event settings of the Japanese light novels; No adult employment, marriage, parenting, legal decisions, unseen household disputes or clinical explanations; Yuzu's private V06.5 fear and Hinami's family history are not actor knowledge; Materially novel contexts end in abstention or a returned range
+  - `MUNDANE_SOCIAL` condition: Only familiar peer company in an attested standing: hosting or easing nervous visitors, joking, rough advice to a friend and gaming rematches, as near analogs of the V07 festival and V01-V02 competition returns.
+  - `MUNDANE_SOCIAL` condition: Recipient, audience and known shared history are supplied; no promise that every guest feels safe and no romantic intent inferred from hosting.
+  - `MUNDANE_SOCIAL` condition: No invented home routine, tastes or family life; behavior is described in prose and no quoted speech is generated as canonical.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` D; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `camp-plan-not-his` (evidence-backed limitation): At the V03 camp the friends arrange information around his pride; his privacy demand is a local boundary, and he is not shown to know or consent to the covert plan.
+  - `family-route-reported` (evidence-backed limitation): The V08 route is his report of a father's acquaintance and an educational threshold; company ownership, a guaranteed job, a chosen vocation and household psychology are not established.
+  - `inherited-bands` (evidence gap): The V02, V03, V04, V09 and V10 bands rest on inherited analytical routes without fresh primary returns in this dossier; V05 has no band and V08.5 is a review-limit cell.
+  - `loss-is-not-inability` (evidence-backed limitation): In V01 he improves substantially and still loses to a much stronger opponent; the expert recognition of his execution is Fumiya's situated evaluation, and recognition is not yet friendship.
+  - `no-general-stopping-policy` (evidence gap): No general anger threshold, proportionality rule, priority ordering among competition, Yuzu and friendship, or stopping policy for gaming, partner protection or group obligations is established.
+  - `post-v12-horizon` (evidence gap): Nothing after the V12 boundary, and no adult, family-interior, sexual-history or clinical domain, is evidenced.
+  - `uncurated-reviews-and-routes` (evidence gap): The implementation review, manifests, six-pilot integration review, packet, readings and ledgers to which the dossier and model route are not curated on this subject and were not used.
+  - `v01-care-coexists` (evidence-backed limitation): V01 already contains his comfort of Yuzu alongside competitive antagonism and his earlier brusque dismissal of her as a practice partner; a defeat-to-redemption chronology is contradicted.
+  - `v11-refusal-not-end` (evidence-backed limitation): In V11 he refuses further cooperation, citing hurtful treatment and Yuzu's self-blame, while denying that the friendship has ended; he lacks the reader's knowledge of Hinami's family, and the refusal is neither universal law nor abandonment.
+  - `v12-interval-unshown` (evidence-backed limitation): V12 delivery and his seat beside Yuzu show changed local participation; the private conversation, any apology, repaired trust and future labor terms are not supplied, and Hinami's apology theory is hers.
+  - `voice-idiolect-unvalidated` (evidence gap): No idiolect, habitual vocabulary, particle distribution or performed voice is established; no freeform Japanese or blind accuracy is validated.
+  - `yuzu-fear-not-his-knowledge` (evidence-backed limitation): Yuzu's V06.5 fear of a breakup is her private focalization; the meeting is for a birthday gift, and the gift neither makes her distress imaginary nor shows he knowingly caused it.
+- Evidence at basis commit:
+  - [`tomozaki:nakamura-shuji@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/04%20Character%20Analysis/Nakamura%20Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md)
+  - [`tomozaki:nakamura-shuji@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ecea5a397b7dbf601851a0d7faed9793acf12264/series/tomozaki/07%20Character%20Reconstruction%20Models/NAKAMURA_SHUJI_BOUNDED_RECONSTRUCTION_MODEL.md)
 
 ### Subject `tomozaki:takei@light-novel`
 
