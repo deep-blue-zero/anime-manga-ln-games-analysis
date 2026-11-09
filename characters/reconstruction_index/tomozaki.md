@@ -90,6 +90,78 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:hinami-haruka@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/04%20Character%20Analysis/Hinami%20Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:hinami-haruka@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93/series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_HARUKA_BOUNDED_RECONSTRUCTION_MODEL.md)
 
+### Subject `tomozaki:hinami-nagisa@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/hinami-nagisa@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/hinami-nagisa@light-novel.jsonl)
+
+<a id="tomozaki-hinami-nagisa-ln-v12-retrieval-20261109-01"></a>
+
+#### Assessment `tomozaki-hinami-nagisa-ln-v12-retrieval-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:hinami-nagisa`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:hinami-nagisa@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Hinami Nagisa bounded posthumous character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, scope B\_STRICTLY\_ATTRIBUTED\_POSTHUMOUS\), whose evidence register is HN-E01 to HN-E10 in Japanese V08.5, V10, V11 and V12, all retrospective, reported, survivor-interior or fiction/address routes; and \#attributed-retrieval-model, the canonical derived-use attributed retrieval/constraint model \(NG1 to NG5\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier, enacts no interior and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The supporting character implementation review, the supporting literary evidence manifest, the historical and context retrieval integration review, operator guide and packet, the readings and the ledgers \(CS section 13.6/19, CRI-HIN-005, REL-C10\) are not curated on this subject and are not evidence here. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: Nagisa's own life as retrospectively represented in three bands: the childhood play state \(V08.5 HN-E01/E02\), the early intervention state and the distressed questioning state \(V11 HN-E03 to HN-E05\), ending before her death, whose mechanism and intent are unknown; the V10, V11 and V12 death reports and the V12 imagined reunion are survivor reports and fiction/address, not later Nagisa states. Exact age and school year are unreconciled \(V10 sixth grade versus V11 fourth grade\).
+- Basis commit: `5aa25a60a918015bb973776732340cf205f9d39e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `9ec5f069a8c8c7f19cd3e429006a0463d48de06dbada837975a882762cdcca2b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology One of the three retrospective bands only: the V08.5 childhood play state, the V11 early intervention state or the V11 distressed questioning state, all before her death; nothing after her death is a Nagisa state, and the V12 reunion is fiction/address.; interlocutor Only attested recipients in their represented standing: Aoi as play rival and affectionate sister or as the sister addressed in distress, Haruka as cheering sister, Yoko as the mother whose advice she seeks, and the targeted and perpetrating classmates as she reports them.; settings Family game play, the family meal and the school persecution history as represented only; No road-entry intention, final words, afterlife contact, diagnosis or preventability finding; Output would be attributed retrieval with labeled alternatives, never an enacted posthumous persona or new dialogue
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `doubt-not-renunciation` (evidence-backed limitation): Her later question whether doing right had meaning \(P907-994\) establishes doubt and distress, not abandonment of help, loss of love for the classmate or a chosen death.
+  - `driver-account-is-report` (evidence-backed limitation): The collision description and the driver's remorse reach the reader through Aoi's report to Fumiya \(V10 part0024/part0026\), not as a depicted final scene or Nagisa focalization.
+  - `final-intent-unknown` (evidence-backed limitation): Whether her road entry was fatigue or dizziness, an accident or a deliberate act, and whether any intervention would have prevented the death, are explicitly unknown in V10 and again after more than five years in V12 \(p0022 P504-514\); the V11 hospital scene supplies no road viewpoint.
+  - `institutional-context-absent` (evidence gap): The targeted child's full response, the class structure and adult or school actions are not supplied.
+  - `no-full-reread-and-uncurated-routes` (evidence gap): The implementation and integration reviews, manifest, packet, operator guide, readings and ledgers are not curated on this subject.
+  - `not-maternal-obedience` (evidence-backed limitation): She intervenes despite Yoko's suggestion that watching without acting is an option \(V11 p0030 P851-906\), so her choice is not reducible to following maternal advice.
+  - `retrospective-access-only` (evidence-backed limitation): All of her conduct is retrospective representation within survivors' disclosure; no living Nagisa scene at a story present exists, and V11 dialogue is not a verbatim heard transcript.
+  - `reunion-is-address` (evidence-backed limitation): The V12 imagined reunion and its affirming Nagisa are authored address within Aoi's private reading \(p0022 P846-979\) under Kikuchi's stated limit that Nagisa can no longer be observed or asked \(p0021 P11-149\); they are not recovered last words.
+  - `school-year-unreconciled` (evidence-backed limitation): V10 part0024 P139 places her in sixth grade when the bullying history begins; V11 p0030 P826-842 makes her two years younger than sixth-grade Aoi and a fourth grader. The conflict is preserved, not harmonized.
+  - `voice-unestablished` (evidence gap): No idiolect, habitual distribution or acoustic manner is established and generated speech was not evaluated.
+- Evidence at basis commit:
+  - [`tomozaki:hinami-nagisa@light-novel#attributed-retrieval-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_NAGISA_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`tomozaki:hinami-nagisa@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/04%20Character%20Analysis/Hinami%20Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md)
+
+### Subject `tomozaki:hinami-yoko@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/hinami-yoko@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/hinami-yoko@light-novel.jsonl)
+
+<a id="tomozaki-hinami-yoko-ln-v12-retrieval-20261109-01"></a>
+
+#### Assessment `tomozaki-hinami-yoko-ln-v12-retrieval-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:hinami-yoko`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:hinami-yoko@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Hinami Yoko bounded attributed character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, scope B\_FOCALIZATION\_BOUNDED\), whose evidence register is HY-E01 to HY-E10 in Japanese V08.5, V09, V10, V11 and V12, much of it received through Aoi's focalization or Haruka's and Fumiya's reports; and \#attributed-retrieval-model, the canonical derived-use attributed retrieval/constraint model \(HY1 to HY5\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier, enacts no interior and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The supporting character implementation review, the supporting literary evidence manifest, the historical and context retrieval integration review, operator guide and packet, the accepted Hinami R04 analysis, the readings and the ledgers \(CS section 13.6/19, REL section 17.1\) are not curated on this subject and are not evidence here. Hinami 陽子 is distinct from Mamiya 葉子. No adaptation, performed voice, reception or post-V12 material is in scope.
+- Temporal boundary: Separate access events, not a continuous witnessed life: the V11 childhood comfort and private-room history, the V11 Nagisa advice and retaliation history and hospital scene \(undated within the unreconciled V10/V11 school-year conflict\), the V08.5 middle-school cooking and game observation, the V09 restaurant encounter as a story-present scene, the V10 cutoff and V11 continuation of the birthday video, and Aoi's V12 private clarification and re-reception; no new direct maternal testimony after V11 and no later response of hers is established.
+- Basis commit: `5aa25a60a918015bb973776732340cf205f9d39e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `33837c02b6a278243b59f20cb923c1bbba900ba5c01782c04adbcafb85b3212d`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` bounds: chronology One of the represented access events only: the childhood comfort history, the Nagisa advice and retaliation history, the hospital scene, the V08.5 middle-school household, the V09 restaurant encounter or the birthday video; nothing after V12 and no new maternal response.; interlocutor Only attested recipients in their represented standing: Aoi as distressed child or middle-school daughter, Nagisa seeking advice or under retaliation, Aoi and Haruka as surviving children, and Fumiya and Kikuchi as Aoi's classmates.; settings The family home, the hospital, the V09 restaurant and the recorded video only; No named faith or organization, diagnosis, present remorse, reform or father-absence explanation; Output would be attributed retrieval with labeled alternatives, never an enacted persona or new dialogue
+- Dimension grades: `PSYCHOLOGICAL_MODEL` D; `LONGITUDINAL_STATE` D; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `comfort-is-actual` (evidence-backed limitation): Touch, food, the shared cake and grief at the hospital are represented acts received as care \(HY-E03, HY-E06\); a malicious-disguise reading is rejected by the evidence.
+  - `faces-familiar-room-is-trigger` (evidence-backed limitation): Aoi says she was already used to her mother's and Haruka's faces; the acute reminder in the video was the long-unseen prayer room and the illegible scroll in its cabinet \(V12 p0022 P59-78\), so 'she cannot bear her mother's face' is too broad.
+  - `interior-and-biography-unavailable` (evidence gap): Her complete beliefs, present interior, occupation, adult biography and the reason for the father's absence are not supplied.
+  - `name-retrospective` (evidence-backed limitation): The V08.5 domestic window calls her mother without naming her; the link to 陽子 is retrospective, and she is distinct from Mamiya 葉子.
+  - `no-deliberate-trigger` (evidence-backed limitation): The birthday video is an actual recorded maternal address \(V11 p0011 P1-26\), but whether she anticipated Aoi's response or intended to reactivate the past is not established.
+  - `no-full-reread-and-uncurated-routes` (evidence gap): The implementation and integration reviews, manifest, packet, operator guide, R04 analysis, readings and ledgers are not curated on this subject.
+  - `no-reform-shown` (evidence-backed limitation): V12 changes Aoi's private reading and address; no new Yoko apology, manuscript reading, room discussion or family repair is shown, and neither reform nor permanent inability to change is supported.
+  - `not-sole-cause` (evidence-backed limitation): Nagisa acted despite her caution, and bullying, missing institutional responses and competing prevention hypotheses remain; she is not established as a sole cause of the death.
+  - `practice-unidentified` (evidence gap): The private room, scroll and practice are represented without a named religion, organization, doctrine or diagnosis.
+  - `support-without-concrete-change` (evidence-backed limitation): Aoi's focalized criticism that her support did nothing concrete to change Nagisa's situation \(V11 p0030 P826-943\) is consequential but is not a census of every adult or school contact.
+  - `unsaid-question-not-received` (evidence-backed limitation): Aoi's withdrawn dinner question is reader access to Aoi; it is not shown that Yoko read and suppressed it.
+  - `voice-unestablished` (evidence gap): No idiolect, habitual distribution or acoustic manner is established and generated speech was not evaluated.
+- Evidence at basis commit:
+  - [`tomozaki:hinami-yoko@light-novel#attributed-retrieval-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_YOKO_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`tomozaki:hinami-yoko@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/04%20Character%20Analysis/Hinami%20Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md)
+
 ### Subject `tomozaki:izumi-yuzu@light-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/izumi-yuzu@light-novel.jsonl)
@@ -172,6 +244,40 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Evidence at basis commit:
   - [`tomozaki:konno-erika@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/tomozaki/04%20Character%20Analysis/Konno%20Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md)
   - [`tomozaki:konno-erika@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/b6d39758903ce4d35f3dab527875a3f1efa70cd3/series/tomozaki/07%20Character%20Reconstruction%20Models/KONNO_ERIKA_BOUNDED_RECONSTRUCTION_MODEL.md)
+
+### Subject `tomozaki:michael-andi@light-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/tomozaki/michael-andi@light-novel.jsonl`](../reconstruction_capabilities/tomozaki/michael-andi@light-novel.jsonl)
+
+<a id="tomozaki-michael-andi-ln-v12-retrieval-20261109-01"></a>
+
+#### Assessment `tomozaki-michael-andi-ln-v12-retrieval-20261109-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `tomozaki:michael-andi`
+- Scope: continuity `tomozaki-light-novel`
+- Source boundary: Only the two reviewed items curated on tomozaki:michael-andi@light-novel at basis\_commit, each read in full: \#bounded-character-dossier, the canonical B-scope Michael Andi bounded posthumous character dossier \(INDEPENDENT\_BOUNDED\_LITERARY\_SCOPE\_PASS, scope B\_posthumous\_artifact\_and\_testimony\_bounded\), whose positive person evidence is Japanese V12 surviving documents and attributed island testimony \(MA-E01 to MA-E09, MA-P01 to MA-P08\), with earlier volumes routed only as Kikuchi's and Fumiya's reception \(MA-P09\); and \#attributed-retrieval-model, the canonical derived-use attributed retrieval/constraint model \(MA1 to MA6\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from the dossier, enacts no current or posthumous interior and is not used as literary evidence. The project's current-state entrypoint was read for method and gate state only. The supporting character implementation review, the supporting literary evidence manifest, the historical and context retrieval integration review, operator guide and packet, the accepted Kikuchi study and the ledgers \(CRI section 18, CS section 19.1, REL section 17.1\) are not curated on this subject and are not evidence here. No published Andi novel text, adaptation, performed voice or post-V12 material is in scope.
+- Temporal boundary: Andi's historical island presence as attributed after his death in V12: more than ten years of reported visits ending in a last year of desk work, with the order of the fish, prank, drinking, cloth and story-night reports not established; the V12 inquiry state is a record held by others \(tower, cloths, private continuation\), not a living Andi state. Earlier-volume material is later readers' reception, not his biography. Age, dates and mechanism of death and publication chronology are unknown.
+- Basis commit: `5aa25a60a918015bb973776732340cf205f9d39e`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `be20f1fdab395c69d820e8725c699145d09461b27bff91f2fca526a08e271efa`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `E` — limited/local evidence suitable for bounded canon questions only
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology The historical island band only, as attributed after his death in V12, with report order unestablished; earlier volumes are reception and the V12 inquiry is a record held by others, not a living Andi state.; interlocutor Only attested recipients in their reported standing: the innkeeper, fish workers, the shopkeeper and translation helper, the liquor seller, Mitsu as craft partner and custodian, and island listeners; later readers never meet him.; settings The island inn, harbor, shops, tower and story nights as reported only; No new manuscript content, final testament, motive declaration, romance or endorsement of later readers; Output would be attributed retrieval with labeled tellers and alternatives, never an enacted persona or new dialogue
+- Dimension grades: `PSYCHOLOGICAL_MODEL` E; `LONGITUDINAL_STATE` E; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` D; `INTERIORITY` E; `CONFLICT_BEHAVIOR` E; `ETHICAL_DELIBERATION` NOT_ASSESSED; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `identity-and-chronology-unknown` (evidence-backed limitation): Whether マイケル・アンディ is a legal or pen name, his nationality, age, family, education, dates and mechanism of death and publication chronology are unknown at this scope \(MA-P01\).
+  - `interior-and-motive-unavailable` (evidence-backed limitation): His authentic interior, intentions and motive hierarchy are OPEN \(dossier sections 9 and 12\); the fish-motive explanation is a resident's hypothesis \(MA-P04\) and the godlike-observer and remaining-self/prayer accounts are Kikuchi's and Fumiya's reconstructions \(MA-E07\).
+  - `manuscript-marks-not-testament` (evidence-backed limitation): On the private continuation believe, tell, record and wish are crossed out and pray is circled \(V12 p0021 P267-329\); the marks establish revision and selection on those pages, not reasons, a final doctrine, a last thought or permission for later uses.
+  - `no-full-reread-and-uncurated-routes` (evidence gap): The dossier claims no complete new V12 primary reread, and the implementation and integration reviews, manifest, packet, operator guide, Kikuchi study and ledgers are not curated on this subject.
+  - `no-romance-or-identified-women` (evidence-backed limitation): The shopwoman's unnamed woman and the translation helper are not identified with each other or with Mitsu, and no wife, lover or romance is established \(MA-P02, MA-P05\).
+  - `posthumous-attributed-access-only` (evidence-backed limitation): No scene of Andi alive is represented; all conduct reaches the reader as recollection, material trace or translated document after his death.
+  - `reception-not-biography` (evidence-backed limitation): Earlier-volume Andi material is Kikuchi's and Fumiya's reception and does not show Andi's knowledge of those readers or a present development in him \(MA-E01, MA-P09\).
+  - `voice-unestablished` (evidence gap): No idiolect, habitual distribution or acoustic manner is established, his published prose is not in evidence, and generated speech was not evaluated.
+  - `witness-gaps` (evidence-backed limitation): The innkeeper does not know whether the last manuscript was completed \(MA-P03\), and the liquor seller cannot explain his observation-records statement and heard it as drunk talk \(MA-P02\).
+- Evidence at basis commit:
+  - [`tomozaki:michael-andi@light-novel#attributed-retrieval-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/07%20Character%20Reconstruction%20Models/MICHAEL_ANDI_ATTRIBUTED_RETRIEVAL_MODEL.md)
+  - [`tomozaki:michael-andi@light-novel#bounded-character-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/tomozaki/04%20Character%20Analysis/Michael%20Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md)
 
 ### Subject `tomozaki:mizusawa-takahiro@light-novel`
 

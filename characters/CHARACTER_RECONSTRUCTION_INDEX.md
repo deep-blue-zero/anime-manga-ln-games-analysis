@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 82; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 90; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -27,8 +27,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
-| [`mass-effect`](reconstruction_index/mass-effect.md) | 1 | 1 |
+| [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 4 | 4 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 1 | 1 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
@@ -38,7 +39,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 16 |
-| [`tomozaki`](reconstruction_index/tomozaki.md) | 11 | 11 |
+| [`tomozaki`](reconstruction_index/tomozaki.md) | 14 | 14 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 1 | 1 |
 
 ## Recorded assessments
@@ -68,6 +69,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `konosuba:yorimichi04-retired-dark-stalker@original-light-novel` | [`konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-yorimichi04-retired-dark-stalker-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
+| `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `mushoku-tensei:aisha@light-novel` | [`mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-aisha-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:cliff@light-novel` | [`mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-cliff-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:elinalise@light-novel` | [`mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
@@ -82,6 +84,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `mushoku-tensei:sara@light-novel` | [`mushoku-tensei-sara-ln-v07-v13-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-sara-ln-v07-v13-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:sylphiette@light-novel` | [`mushoku-tensei-sylphiette-ln-v01-v15-model-20261107-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-sylphiette-ln-v01-v15-model-20261107-01) | `CANDIDATE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
 | `mushoku-tensei:zanoba@light-novel` | [`mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
+| `my-hero-academia:amajiki-tamaki@manga` | [`my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `my-hero-academia:lady-nagant@manga` | [`my-hero-academia-lady-nagant-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-lady-nagant-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `my-hero-academia:sir-nighteye@manga` | [`my-hero-academia-sir-nighteye-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-sir-nighteye-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `my-hero-academia:togata-mirio@manga` | [`my-hero-academia-togata-mirio-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-togata-mirio-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `peach-girl:adachi-momo@manga` | [`peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`](reconstruction_index/peach-girl.md#peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
 | `re-zero:beatrice@light-novel` | [`re-zero-beatrice-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-beatrice-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
@@ -128,8 +134,11 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tokyo-7th-sisters:sakaiya-yumeno@game` | [`tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-sakaiya-yumeno-game-b0205-portfolio-20261030-01) | `SUPERSEDED` | `E` | `77c83fcbd77a957fbd7659ec222e120bcb00406d` |
 | `tomozaki:ashigaru@light-novel` | [`tomozaki-ashigaru-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-ashigaru-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93` |
 | `tomozaki:hinami-haruka@light-novel` | [`tomozaki-hinami-haruka-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-hinami-haruka-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `ed9ab7d88bb0711e7659732d3f3bdc4fbbd68c93` |
+| `tomozaki:hinami-nagisa@light-novel` | [`tomozaki-hinami-nagisa-ln-v12-retrieval-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-hinami-nagisa-ln-v12-retrieval-20261109-01) | `CANDIDATE` | `E` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `tomozaki:hinami-yoko@light-novel` | [`tomozaki-hinami-yoko-ln-v12-retrieval-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-hinami-yoko-ln-v12-retrieval-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `tomozaki:izumi-yuzu@light-novel` | [`tomozaki-izumi-yuzu-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-izumi-yuzu-ln-v12-model-20261109-01) | `CANDIDATE` | `C` | `ecea5a397b7dbf601851a0d7faed9793acf12264` |
 | `tomozaki:konno-erika@light-novel` | [`tomozaki-konno-erika-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-konno-erika-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `b6d39758903ce4d35f3dab527875a3f1efa70cd3` |
+| `tomozaki:michael-andi@light-novel` | [`tomozaki-michael-andi-ln-v12-retrieval-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-michael-andi-ln-v12-retrieval-20261109-01) | `CANDIDATE` | `E` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `tomozaki:mizusawa-takahiro@light-novel` | [`tomozaki-mizusawa-takahiro-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-mizusawa-takahiro-ln-v12-model-20261109-01) | `CANDIDATE` | `C` | `870de40b0e25fbead978613f8389e8678ff63ee3` |
 | `tomozaki:nakamura-shuji@light-novel` | [`tomozaki-nakamura-shuji-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-nakamura-shuji-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `ecea5a397b7dbf601851a0d7faed9793acf12264` |
 | `tomozaki:narita-tsugumi@light-novel` | [`tomozaki-narita-tsugumi-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-narita-tsugumi-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `f582dbbb2a5c31c60868c7e39898268f54e8a6bb` |
