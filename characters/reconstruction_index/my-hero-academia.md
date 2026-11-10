@@ -6,6 +6,50 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
 
 ## Recorded assessments
 
+### Subject `my-hero-academia:all-for-one@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/all-for-one@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/all-for-one@manga.jsonl)
+
+<a id="my-hero-academia-all-for-one-manga-v2-model-20261110-01"></a>
+
+#### Assessment `my-hero-academia-all-for-one-manga-v2-model-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:all-for-one`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_ALL\_FOR\_ONE\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its AF-SUP-01 to AF-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong label and its retrospective holdout probe are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: All For One from the V40:p137-149 and p151-160 retrospective narration of birth, childhood, early extraction, the chosen Demon Lord ideal and the refusal of Yoichi's exit, through the V13:p142-148 and V25:p025-034 planner and teacher who shelters and names Tenko, the V28:p047-058, V30:p183-187 and V31:p035-037 transfer into and operation of the successor's body, the V35:p023-039, p059-075, p171-187 and V36:p057-103 adaptive campaign, the V38 Rewind state and V39:p141-179 confrontation with All Might, and the V40:p178-191 dysregulation and external disappearance, to the V41:p129-140, p166-171 and V42:p008-015 vestige claims and terminal plea to Yoichi. Kept as separable states: early acquisition and the Yoichi relation, long-term planner and teacher, wounded external body, Rewind-dysregulated body, vestige or controller, and terminal need; the V40-V42 origin and attachment revelations are reader-time later than V38-V39 and are excluded from the AF-V01 freeze. No atom covers V01-V12, V14-V24, V26-V27, V29, V32-V34 or V37.
+- Basis commit: `5413a3571bea0467d1bc9a5d4e27940dac9c81ce`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `176b6c1c248b5b47a2bd65ad585f6c4a80fcbed6e90d4399f110dbb9f59f9c89`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named state, stated explicitly: early acquisition, regulated planner and teacher, wounded external body, Rewind-dysregulated body, vestige or controller, or terminal need; Rewind is not treated as a costless return to youth and later revelations are not given to earlier states.
+  - `CROSS_SCENARIO` condition: Before simulation, body, factor availability, rival location, remaining time, what surveillance has actually revealed and which personal grievance is activated are specified, as the model requires; he does not know private conversations or future acts.
+  - `CROSS_SCENARIO` condition: The interlocutor stands in one of the asymmetric relations the partner table gives \(Yoichi, Tomura or Tenko, All Might or Kudo-associated figures, Garaki or subordinates, a vulnerable intermediary, or a recruit\); no genuine equal, harmless social encounter or invented reciprocal friendship.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description with alternatives that keeps knowing a trap distinct from declining it, no quoted dialogue is produced as canon and no readiness is inherited from the strong label.
+  - `CROSS_SCENARIO` bounds: chronology One named state: early acquisition, regulated planner and teacher, wounded body, Rewind-dysregulated body, vestige or controller, or terminal need, stated explicitly.; interlocutor Yoichi, Tomura or Tenko, All Might or Kudo-associated figures, Garaki or subordinates, a vulnerable intermediary, or a useful recruit, in the asymmetric relation the partner table gives.; settings Strategic, coercive, recruiting or adversarial confrontation; Body, factor, time and surveillance limits specified and respected; No ordinary hospitality, leisure, romantic or reciprocal-equal setting
+  - `PROFESSIONAL_CONTEXT` condition: The setting is his strategic or organizational project: teaching and directing Tomura, technical collaboration with Garaki, delegated operations, or recruitment of an intermediary, with the state named.
+  - `PROFESSIONAL_CONTEXT` condition: Output preserves option preservation, engineered conditions, asymmetric delegation and replacement routes, and does not infer equality from a collaborator's competence.
+  - `PROFESSIONAL_CONTEXT` condition: Planning is adaptive but not omniscient; architecture-specific failures and unavailable surveillance remain possible.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `attachment-not-respect` (evidence-backed limitation): His attachment to Yoichi is real and possessive; need does not become recognition of the brother's right to leave, and love is not moral amnesty \(AF05, AF07\).
+  - `authorship-claim-not-fact` (evidence-backed limitation): His claim to have authored everything about Tomura is a totalizing ownership claim, not narrator certification; Tomura's independent League relation and resistance are counterevidence \(AF07\).
+  - `body-states-distinct` (evidence-backed limitation): Original and duplicate factors, wounded senses, Rewind, the internal vestige and external survival are distinct systems; Rewind is administered and uncontrollable, and his final stockpiled attack injures himself \(AF02, AF06, AF-SUP-03\).
+  - `editorial-affect-conflict` (evidence-backed limitation): An editorial claim that his emotions did not form, with a tentative cause, stands in unresolved tension with observed attachment, rage and control failure; neither it nor a love label establishes emptiness, a diagnosis or reciprocity \(AF-SUP-02\).
+  - `grievance-overrides-strategy` (evidence-backed limitation): Under Rewind and All Might's challenge he spends time on All Might despite recognizing delay as the opponent's purpose; knowing a trap does not entail declining it \(AF04, AF-V01\).
+  - `intervals-unsampled` (evidence gap): No atom covers V01-V12, V14-V24, V26-V27, V29, V32-V34 or V37, so behavior over those intervals is not established by this evidence set.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set.
+  - `name-without-memory` (evidence-backed limitation): The name Shigaraki Zen and its provenance give him no conscious autobiographical memory of its history \(AF-SUP-01\).
+  - `not-affectless` (evidence-backed limitation): Calm is regulation rather than absence of feeling; dysregulation under the younger body weakens factor integration \(AF06\), and affectlessness is REVISEd.
+  - `not-omniscient` (evidence-backed limitation): His plans are adaptive but not omniscient: a speaker-intent blind spot defeats one channel \(AF03\), and he does not know every private conversation or future act.
+  - `ordinary-reciprocal-open` (evidence gap): The model marks ordinary reciprocal conduct OPEN because no broad sample exists; the evidence set cannot say how he behaves with a genuine equal or in harmless leisure. Missing support is not evidence of absence.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe AF-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; motive was partial and exact equipment and time loss were not predictable.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, the author comment and editorial summaries \(AF-SUP-01 to AF-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+- Evidence at basis commit:
+  - [`my-hero-academia:all-for-one@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ALL_FOR_ONE_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Subject `my-hero-academia:amajiki-tamaki@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/my-hero-academia/amajiki-tamaki@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/amajiki-tamaki@manga.jsonl)
@@ -691,3 +735,53 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
   - `trust-not-knowledge` (evidence-backed limitation): He rescues Hawks before complete adjudication and voices belief, not knowledge; he does not have the full Hawks and Twice exchange and must not be given the reader's evidence \(TF03\).
 - Evidence at basis commit:
   - [`my-hero-academia:tokoyami-fumikage@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TOKOYAMI_FUMIKAGE_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Subject `my-hero-academia:yaoyorozu-momo@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/yaoyorozu-momo@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/yaoyorozu-momo@manga.jsonl)
+
+<a id="my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01"></a>
+
+#### Assessment `my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:yaoyorozu-momo`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_YAOYOROZU\_MOMO\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its YM-SUP-01 to YM-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong label and its retrospective holdout probe are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Yaoyorozu from the V02:p069-070 and p174-179 task-fidelity critique and crisis coordination, through the V07:p130-132 first-place ranking and study invitation, the V08:p012-045 failure-conditioned deference and restored planning in the exam, the V10:p060 and p082 and V13:p031 tracker, restraint and treatment support, the V21:p183-193 and V22:p019 joint-training loss to Kendo, the V29:p040-067 and p128-132 delegated emergency sedation command and V30:p125-129 delayed efficacy, and the V35:p111-126 and V36:p121-151 sustained material production, to the V42:p133 later counseling activity. Kept as separable states: early analytic confidence, failure-conditioned excessive deference, restored planning authority, independent emergency command, and sustained infrastructure and adult civic work; the V30 efficacy is not available to the V29 actor and is excluded from the YM-V01 freeze. No atom covers V01, V03-V06, V09, V11-V12, V14-V20, V23-V28, V31-V34 or V37-V41.
+- Basis commit: `5413a3571bea0467d1bc9a5d4e27940dac9c81ce`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `fa216c7e5fdc496c4062e01a72c37a2ab5db04d55aae47ab2b86f857a2a3e022`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named state, stated explicitly: early analytic confidence, failure-conditioned deference, restored planning authority, independent emergency command, or infrastructure and adult civic work; later outcomes and adult arrangements are not given to earlier states.
+  - `CROSS_SCENARIO` condition: The confidence and authority state is specified: a recent personal failure or a trusted peer's competing judgment raises hesitation, while urgency and explicit delegated authority raise commitment.
+  - `CROSS_SCENARIO` condition: The interlocutor is Todoroki, a classmate she teaches, Kendo, an adult authority such as Midnight or Majestic, Jiro, or an infrastructure team, handled as the partner table gives; no invented family conflict or private adult relationship.
+  - `CROSS_SCENARIO` condition: Creation is bounded by time, mass, materials knowledge, delivery and others' execution; the correct engineering answer is not predicted without technical evidence, no quoted dialogue is produced as canon and no readiness is inherited from the strong label.
+  - `CROSS_SCENARIO` bounds: chronology One named state: early analytic confidence, post-failure deference, restored planning authority, emergency command or infrastructure and adult civic work, stated explicitly.; interlocutor Todoroki, classmates, Kendo, Midnight or Majestic, Jiro or infrastructure teams, in the relation the partner table gives for that state.; settings School, training, crisis operation or infrastructure support; Creation resource, knowledge and delivery limits respected; No family-conflict, adult private or romantic setting
+  - `MUNDANE_SOCIAL` condition: The setting is a school-era study or teaching invitation among classmates, or reception of a classmate's unfamiliar interest, with the state named.
+  - `MUNDANE_SOCIAL` condition: Output keeps enthusiastic structured help without contempt for less-resourced peers, and allows that unfamiliar ordinary conventions may need explaining to her.
+  - `MUNDANE_SOCIAL` condition: Family life, adult private life and leisure outside the cited windows are not predicted.
+  - `ETHICAL_DELIBERATION` condition: The dilemma is a school or hero-operation decision under uncertainty, with legal or procedural constraints and responsibility to a team, and with whether authority has been delegated stated.
+  - `ETHICAL_DELIBERATION` condition: Output weighs task fidelity, stated constraints and teammates' welfare, and does not convert a crisis authorization into a belief that outcomes excuse any means.
+  - `ETHICAL_DELIBERATION` condition: Private, family and adult institutional dilemmas are not predicted.
+  - `PROFESSIONAL_CONTEXT` condition: The setting is a training exercise, a supervised or delegated hero operation, or infrastructure and material support, with the state stated.
+  - `PROFESSIONAL_CONTEXT` condition: Output preserves planning by constraints, complementary role assignment, accountability without guaranteed success and dependence on others to transport, protect or use what she makes.
+  - `PROFESSIONAL_CONTEXT` condition: Adult research and international hero work are profile facts only; no laboratory management style or adult casework is predicted.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `confidence-gates-competence` (evidence-backed limitation): After failure she can defer prematurely despite a viable alternative; specific trust restores access to judgment she already had \(YM03\).
+  - `creation-resource-bound` (evidence-backed limitation): Creation consumes bodily resources and requires knowledge of what is made; time, mass, materials understanding, delivery and exhausted teammates constrain it, and infinite-resource Creation is REJECTed \(YM06-YM07\).
+  - `crisis-authorization-specific` (evidence-backed limitation): The V29 decision is a specific delegated crisis authorization, not a belief that useful outcomes excuse any means \(YM06\).
+  - `foresight-not-victory` (evidence-backed limitation): Useful foresight and victory are different outcomes; she loses 4-0 while her plan stays causally active \(YM05\).
+  - `formality-not-coldness` (evidence-backed limitation): Her formal register carries evaluation, explanation and encouragement and is not to be rendered as coldness or class disdain \(YM02 and the register analysis\).
+  - `intervals-unsampled` (evidence gap): No atom covers V01, V03-V06, V09, V11-V12, V14-V20, V23-V28, V31-V34 or V37-V41, so behavior over those intervals is not established by this evidence set.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set.
+  - `outcome-not-foreknown` (evidence-backed limitation): The V29 actor does not know her sedation plan has worked; V30 efficacy is not imported into her earlier knowledge \(YM06\).
+  - `private-adult-open` (evidence gap): The model marks private adult breadth OPEN and names repeated independent and private decisions and family conflict as unsampled; the evidence set cannot say how she behaves there. Missing support is not evidence of absence.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe YM-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; the exact drug, quantity and delivery success were not derivable.
+  - `score-discrepancy` (evidence-backed limitation): The guide's editorial licensing score of 95 conflicts with the reproduced panel and checked Japanese V13:p105 value of 94; the narrative value is 94 and the discrepancy is not explained or turned into a behavioral tier \(YM-SUP-03\).
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries, design notes and the gag \(YM-SUP-01 to YM-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+  - `unfamiliar-conventions` (evidence-backed limitation): Knowledgeable teaching does not imply familiarity with every social setting; she is surprised by an ordinary hotpot's open rules \(YM-SUP-01\).
+- Evidence at basis commit:
+  - [`my-hero-academia:yaoyorozu-momo@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_YAOYOROZU_MOMO_CHARACTER_RECONSTRUCTION_MODEL.md)
