@@ -171,6 +171,48 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
 - Evidence at basis commit:
   - [`my-hero-academia:eri@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ERI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Subject `my-hero-academia:gentle-criminal@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/gentle-criminal@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/gentle-criminal@manga.jsonl)
+
+<a id="my-hero-academia-gentle-criminal-manga-v2-model-20261110-01"></a>
+
+#### Assessment `my-hero-academia-gentle-criminal-manga-v2-model-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:gentle-criminal`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_GENTLE\_CRIMINAL\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its GC-SUP-01 to GC-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong label and its retrospective holdout probe GC-V01 are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Gentle Criminal from the V20:p025-039 backstory of repeated school and license failure and the harmful unauthorized rescue, through the V19:p064-069 and p121-131 uploaded-crime persona with La Brava and the V20:p043-060 and p097-114 objective change, surrender and custodial self-account, to the V38:p054-059 prison-escape and U.A. rescue, the V38:p081-083 no-audience load-bearing and warning to filming students, and the V42:p068 and p130 release recognition and reintegration; supplement endpoint facts place him as GeL Inc. cofounder and secretary. Kept as separable states: failed trainee, ashamed former aspirant, theatrical criminal partner, surrendering defendant, rehabilitative rescuer, reintegrated adult. No atom covers V21-V37 or V39-V41.
+- Basis commit: `5413a3571bea0467d1bc9a5d4e27940dac9c81ce`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `92961a28e23ac665a705f94ed7e651cc78e78cd703b8bb71983803f1a1341f0a`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` condition: Chronology is one named state: theatrical criminal partner before V20 defeat, surrendering defendant, or rehabilitative rescuer after V38; adult business endpoint facts are not assigned to earlier states.
+  - `CROSS_SCENARIO` condition: The interlocutor is La Brava, Midoriya, a custodial actor, an audience or bystanders, handled as the partner table gives; no invented independent private relationship.
+  - `CROSS_SCENARIO` condition: Elasticity stays within its bounded mechanism and La Brava's Love is her own contribution, not a switch he controls.
+  - `CROSS_SCENARIO` condition: He knows only what the scene supplies, including whether anyone is watching.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description with high-confidence behavior, plausible alternatives and flip conditions, abstaining on the model's OPEN items of later private breadth and detailed institutional terms of rehabilitation; no quoted dialogue is produced as canon and no readiness is inherited from the strong label.
+  - `CROSS_SCENARIO` bounds: chronology One named state: pre-V20 theatrical criminal partner, V20 surrender and custody, or post-V38 rehabilitative rescuer, stated explicitly.; interlocutor La Brava as reciprocal partner, Midoriya as earlier adversary, custodial actors, audiences or endangered bystanders.; settings Rescue, staged-crime or custodial contexts with a feasible task; Elasticity capacity limits respected; No employee disagreement, nonpartner friendship, family or other ordinary private setting
+  - `ETHICAL_DELIBERATION` condition: The choice sets a theatrical or recognition-seeking project against the safety or future of La Brava, bystanders or an ordinary public event, in a named state.
+  - `ETHICAL_DELIBERATION` condition: Output preserves that later recognition does not expunge earlier harm and that good intention is not competence.
+  - `ETHICAL_DELIBERATION` condition: No general moral-philosophy, legal-rehabilitation or private-life question is answered.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `belief-state-bounded` (evidence-backed limitation): He did not know the students were filming until the reveal; simulations must use his belief state, and the later discovery is not his earlier motive.
+  - `capacity-bounded` (evidence-backed limitation): Elasticity shapes trajectories and supports loads within a capacity limit he acknowledges; La Brava's Love is her own contribution and does not guarantee success.
+  - `harm-not-expunged` (evidence-backed limitation): Final-war recognition and reintegration do not make earlier dangerous performances harmless \(GC-SUP-03\), and mutual affection does not certify the U.A. intrusion.
+  - `intention-not-competence` (evidence-backed limitation): An unauthorized rescue that impeded a professional and seriously injured a civilian \(GC02\) shows good intention is not competence; the licensing failure is not evidence of a secretly qualified hero.
+  - `intervals-unsampled` (evidence gap): No atom covers V21-V37 or V39-V41, so behavior over those intervals is not established by this evidence set.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set. Missing support is not evidence of absence.
+  - `private-breadth-open` (evidence-backed limitation): Later private breadth, detailed institutional terms of rehabilitation, employee disagreement, nonpartner friendships and family reconciliation are OPEN or underdetermined in the model.
+  - `recognition-not-prerequisite-not-erased` (evidence-backed limitation): Development revises recognition as a prerequisite for action, not his theatrical identity or desire for grandeur; visibility can still matter after the act.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe GC-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; supported axes are qualitative and the emotional-trajectory axis is only partial.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries, gags and author comments \(GC-SUP-01 to GC-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+- Evidence at basis commit:
+  - [`my-hero-academia:gentle-criminal@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_GENTLE_CRIMINAL_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Subject `my-hero-academia:iguchi-shuichi@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/my-hero-academia/iguchi-shuichi@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/iguchi-shuichi@manga.jsonl)
@@ -249,6 +291,47 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
   - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe LN-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; supported axes are qualitative comparisons and the action and emotional-trajectory axes are only partial.
 - Evidence at basis commit:
   - [`my-hero-academia:lady-nagant@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_LADY_NAGANT_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Subject `my-hero-academia:shinso-hitoshi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/shinso-hitoshi@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/shinso-hitoshi@manga.jsonl)
+
+<a id="my-hero-academia-shinso-hitoshi-manga-v2-model-20261110-01"></a>
+
+#### Assessment `my-hero-academia-shinso-hitoshi-manga-v2-model-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:shinso-hitoshi`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_SHINSO\_HITOSHI\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its SI-SUP-01 to SI-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong label and its retrospective holdout probe SI-V01 are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Shinso from the V03:p113-115 and V04:p118-156 Sports Festival applicant, through the V21:p091-168 joint training with Persona Chords and the V22:p157-180 and V23:p059-066 interruption and admission to further training, the V35:p077-093 trained compelled speech in a coordinated operation and the V38:p133-156 control of Machia and limit on authoring the heart, to the V42:p047 and p163 Class A entry and adult professional continuity. Kept as separable states: stigmatized applicant, trained provisional participant, emergency specialist, admitted and adult hero; later compelled speech is not assigned to the festival version of Brainwashing and V42 admission is not assigned to the applicant. No atom covers V05-V20, V24-V34, V36-V37 or V39-V41.
+- Basis commit: `5413a3571bea0467d1bc9a5d4e27940dac9c81ce`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `f000187ff7c78b66d8405d3fcb1bedda425445da86fa0b8130236187eba19afb`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` condition: Chronology is one named state, with the Brainwashing version and repertoire stated; post-V38 reasoning is not given to the festival applicant.
+  - `CROSS_SCENARIO` condition: The interlocutor is Aizawa, Midoriya, Ochako, a training or operation teammate, or a controlled target, handled as the partner table gives; no invented private relationship.
+  - `CROSS_SCENARIO` condition: Brainwashing requires a response, gives no telepathy, memory access or motive rewriting, and his knowledge of a target comes only from observation, briefing or recordings.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description with high-confidence behavior, plausible alternatives and flip conditions, abstaining on private adult breadth; no quoted dialogue is produced as canon and no readiness is inherited from the strong label.
+  - `CROSS_SCENARIO` bounds: chronology One named state: festival applicant, trained provisional participant after V21-V23, or emergency specialist after V35-V38, stated explicitly.; interlocutor Aizawa as exacting sponsor, Midoriya, Ochako, teammates or a controlled target, in the relation the partner table gives.; settings Training, competition or coordinated hero operations; Response-condition mechanics and equipment limits respected; No family, leisure, romance or other ordinary private setting
+  - `PROFESSIONAL_CONTEXT` condition: The setting is an authorized, coordinated hero training exercise or operation after V35, with the Brainwashing version stated.
+  - `PROFESSIONAL_CONTEXT` condition: Output preserves the response-condition mechanism, the limit on authoring motive and his monitoring of independent intent.
+  - `PROFESSIONAL_CONTEXT` condition: Adult institutional address, international cooperation work and independent career decisions are not predicted; the model samples them thinly.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` NOT_ASSESSED; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `control-not-heart` (evidence-backed limitation): Controlling behavior does not author a person's heart; post-control conduct belongs to the target \(SI05, SI-SUP-02\).
+  - `intervals-unsampled` (evidence gap): No atom covers V05-V20, V24-V34, V36-V37 or V39-V41, so behavior over those intervals is not established by this evidence set.
+  - `knowledge-bounded` (evidence-backed limitation): What he knows of a target comes from observation, briefing or supplied recordings, not from control; the classmates' farewell planning was not knowledge he had.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set. Missing support is not evidence of absence.
+  - `mechanism-bounded` (evidence-backed limitation): Brainwashing requires a response; training and equipment expand the command repertoire, but no telepathy, memory access, omnipotent persuasion or motive rewriting is licensed, and Persona Chords is vulnerable to impact.
+  - `private-breadth-open` (evidence-backed limitation): Private family life, ordinary adult intimacy, leisure and responses outside trained role contexts are thin or OPEN in the model; no globally cynical adult or frictionless post-admission confidence is warranted.
+  - `provocation-functional` (evidence-backed limitation): Early provocation can be tactical bait for a response and is not his ordinary opinion of the target; early envy does not exhaust his motive.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe SI-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; it is a narrow test of professional judgment with an underdetermined emotional axis and a partial relationship axis.
+  - `state-locked-repertoire` (evidence-backed limitation): Later compelled speech and the Machia distinction are not assigned to the festival applicant, and V42 admission is not assigned to the General Studies state.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries, design notes and author comments \(SI-SUP-01 to SI-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+- Evidence at basis commit:
+  - [`my-hero-academia:shinso-hitoshi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SHINSO_HITOSHI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Subject `my-hero-academia:sir-nighteye@manga`
 
