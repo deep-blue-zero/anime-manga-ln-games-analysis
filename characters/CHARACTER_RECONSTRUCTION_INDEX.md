@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 100; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 102; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -29,7 +29,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
-| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 14 | 14 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 16 | 16 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 1 | 1 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
@@ -96,8 +96,10 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:kirishima-eijiro@manga` | [`my-hero-academia-kirishima-eijiro-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-kirishima-eijiro-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:lady-nagant@manga` | [`my-hero-academia-lady-nagant-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-lady-nagant-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:shinso-hitoshi@manga` | [`my-hero-academia-shinso-hitoshi-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-shinso-hitoshi-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:shoji-mezo@manga` | [`my-hero-academia-shoji-mezo-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-shoji-mezo-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:sir-nighteye@manga` | [`my-hero-academia-sir-nighteye-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-sir-nighteye-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:togata-mirio@manga` | [`my-hero-academia-togata-mirio-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-togata-mirio-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `my-hero-academia:tokoyami-fumikage@manga` | [`my-hero-academia-tokoyami-fumikage-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-tokoyami-fumikage-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `peach-girl:adachi-momo@manga` | [`peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`](reconstruction_index/peach-girl.md#peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
 | `re-zero:beatrice@light-novel` | [`re-zero-beatrice-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-beatrice-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
