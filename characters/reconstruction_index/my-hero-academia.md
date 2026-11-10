@@ -47,6 +47,48 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
 - Evidence at basis commit:
   - [`my-hero-academia:amajiki-tamaki@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5aa25a60a918015bb973776732340cf205f9d39e/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_AMAJIKI_TAMAKI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Subject `my-hero-academia:bubaigawara-jin@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/bubaigawara-jin@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/bubaigawara-jin@manga.jsonl)
+
+<a id="my-hero-academia-bubaigawara-jin-manga-v2-model-20261110-01"></a>
+
+#### Assessment `my-hero-academia-bubaigawara-jin-manga-v2-model-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:bubaigawara-jin`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_TWICE\_BUBAIGAWARA\_JIN\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its TW-SUP-01 to TW-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the V13-V26 deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's specialist\_ready label and its retrospective holdout probe TW-V01 are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Twice from the V13:p127-129 identity backstory through the V14 Chisaki rupture and V16-V17 secondment \(located by event, not page\), the V24:p064 and p071-104 belief revision, the V24:p081-082 and V26:p177-188 trust in Hawks, to the V27:p109-117 refused restart and the V27:p147-158 terminal clone rescue. Terminal boundary V27. Kept as separable states: pre-V24 self-duplication gate, post-V24 before Hawks's exposure, post-exposure terminal. Later Toga-produced copies and blood use are another actor's actions, and there is no postmortem adult Jin.
+- Basis commit: `5413a3571bea0467d1bc9a5d4e27940dac9c81ce`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `79ff06d3f5d192a248d2b52306bcf320ee1f01d03a6cba80ea68ffda9979fe37`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_ASSESSED
+  - `CROSS_SCENARIO` condition: Chronology is one named state: pre-V24 with the self-duplication gate closed, post-V24 before Hawks's exposure, or post-exposure before V27:p149; no postmortem or Toga-derived continuation.
+  - `CROSS_SCENARIO` condition: The interlocutor is Toga, Giran, a League comrade, an apparent helper of the League, or Hawks in the state the scene names, handled as the partner table gives; no invented private relationship.
+  - `CROSS_SCENARIO` condition: Double uses only information the scene supplies, and his damage threshold and original/copy distinction are respected.
+  - `CROSS_SCENARIO` condition: He does not know concealed hero plans or future events.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description with high-confidence behavior, plausible alternatives and flip conditions, abstaining on the model's OPEN items of alternate lives outside the League and ordinary social domains; no quoted dialogue is produced as canon and no readiness is inherited from the specialist\_ready label.
+  - `CROSS_SCENARIO` bounds: chronology One named state: pre-V24 closed duplication gate, post-V24 before Hawks's exposure, or post-exposure terminal arc to V27, stated explicitly.; interlocutor Toga as protected comrade, Giran as recognizer, League comrades as home, an apparent helper of the League, or Hawks before or after exposure.; settings League or coalition operations and their immediate danger; Double requires information and has damage thresholds; Care for comrades does not make outsiders safe; No ordinary civilian, family, romance or post-League setting
+  - `ETHICAL_DELIBERATION` condition: The choice sets loyalty to particular League comrades against his own individual safety or restart, in a named state.
+  - `ETHICAL_DELIBERATION` condition: Output preserves the particularist self-assessment without treating it as universal endorsement of the League's conduct, and kindness to comrades is not treated as harmlessness to outsiders.
+  - `ETHICAL_DELIBERATION` condition: No rehabilitation, alternate-life or general moral-philosophy question is answered; the model leaves those OPEN.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `care-not-harmlessness` (evidence-backed limitation): Kindness toward comrades does not make the resulting mass threat harmless to outsiders, and the final curse toward Hawks is not erased by tenderness toward Toga.
+  - `counter-voicing-not-a-rule` (evidence-backed limitation): Contradictory voicing is a recurrent presentation, not a rule to append an opposite sentence to every line or proof that his values cancel; no psychiatric diagnosis or invented second personality is licensed.
+  - `identity-revision-not-cure` (evidence-backed limitation): The V24 bodily falsification revises his belief about being original, not every personhood question, and does not certify a general psychological cure; bodily-security needs persist \(TW-SUP-01\).
+  - `intervals-unsampled` (evidence gap): No atom covers pre-V13 League appearances, V18-V23 or V25, and TW02 locates V14 and V16-V17 by event rather than page, so behavior over those intervals is not established by this evidence set.
+  - `knowledge-and-gate-bounded` (evidence-backed limitation): He cannot know concealed hero plans from the start, and a pre-V24 version may not be given unrestricted self-duplication; future death is not projected into earlier interactions.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set. Missing support is not evidence of absence.
+  - `ordinary-domains-open` (evidence-backed limitation): Alternate lives outside the League, whether another intervention could have preserved both agency and safety, and detailed ordinary social domains beyond sampled precarity and affiliation are OPEN in the model.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe TW-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; supported axes are qualitative and the emotional-trajectory axis is only partial.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries and gags \(TW-SUP-01 to TW-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+  - `terminal-boundary-v27` (evidence-backed limitation): The model's terminal boundary is V27; the last clone's care act does not establish resurrection, later Toga-produced copies and blood use are another actor's decisions, and there is no postmortem adult Twice model.
+- Evidence at basis commit:
+  - [`my-hero-academia:bubaigawara-jin@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_TWICE_BUBAIGAWARA_JIN_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Subject `my-hero-academia:chisaki@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/my-hero-academia/chisaki@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/chisaki@manga.jsonl)
@@ -128,6 +170,44 @@ Recorded assessments of subjects in the `my-hero-academia` namespace of the [Cha
   - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries, author comments and bonus fiction \(ER-SUP-01 to ER-SUP-03\) constrain reconstruction without becoming enacted manga observations; no legal-adoption date, exclusive residence or completed career is given, and the public debut is future to the scene.
 - Evidence at basis commit:
   - [`my-hero-academia:eri@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_ERI_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Subject `my-hero-academia:iguchi-shuichi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/my-hero-academia/iguchi-shuichi@manga.jsonl`](../reconstruction_capabilities/my-hero-academia/iguchi-shuichi@manga.jsonl)
+
+<a id="my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01"></a>
+
+#### Assessment `my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `my-hero-academia:iguchi-shuichi`
+- Scope: continuity `my-hero-academia-manga`
+- Source boundary: Only the subject's single curated item, reviewed-dedicated-analysis: the canonical V2 character reconstruction model MHA\_SP2\_SPINNER\_IGUCHI\_SHUICHI\_CHARACTER\_RECONSTRUCTION\_MODEL.md at basis\_commit, read in full as reviewed repository analysis of the Japanese main manga V01-V42 with the source-labeled Ultra Archive, Ultra Analysis and Ultra Age claims its SP-SUP-01 to SP-SUP-03 sections admit. The MHA character modeling schema was consulted for method only; the readiness index, supplemental reconciliation ledger and audit and the V09-V36 deep readings are not curated evidence on this subject and nothing is borrowed from them. The model's strong readiness label and its retrospective holdout probe SP-V01 are inputs, not conclusions. No original manga page, anime adaptation, V1 material or other character's model is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Spinner from Stain-filtered V09 conduct \(located by volume, not page\) and V23:p117-125 through V24:p140-146, V30:p178-180 and V31:p052 custodianship, the V35:p023-039 and V37:p117-182 enhanced impaired symbol state, to the V42:p073-081 arrested deterioration and memorial vow, with the supplement's reported publication and mixed reception as an endpoint claim. Kept as separable states: regulated League member, Shigaraki's custodian, cognitively impaired symbol, grieving memorial author. No atom covers V25-V29, V32-V34 or V38-V41, and no legal, health or reform trajectory is established.
+- Basis commit: `5413a3571bea0467d1bc9a5d4e27940dac9c81ce`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `bf837408224cb51420c4de60c240ec4212dbf81d36496e3b895f9b4a6e58e5ce`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_ASSESSED; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` condition: Chronology is one named state: regulated League member before V35, cognitively impaired symbol V35-V37, or postwar memorial author from V42; the impaired state is never treated as ordinary Spinner with a larger body.
+  - `CROSS_SCENARIO` condition: The scene turns on the Shigaraki relation, the League, AFO's occupation, or the memory of Tomura, with the interlocutor handled as the partner table gives.
+  - `CROSS_SCENARIO` condition: He knows only what the scene's state supplies; V42 information about Tomura arrives as testimony through Midoriya.
+  - `CROSS_SCENARIO` condition: Output is a behavioral description with high-confidence behavior, plausible alternatives and flip conditions, abstaining on reconciliation with a particular stranger \(low confidence\) and the model's OPEN items of readership, legal or reform trajectory, health course and life beyond League relations; no quoted dialogue is produced as canon and no readiness is inherited from the strong label.
+  - `CROSS_SCENARIO` bounds: chronology One named state: regulated pre-V35 League member, V35-V37 impaired symbol, or postwar V42 memorial author, stated explicitly.; interlocutor Shigaraki as particular friend, AFO as occupying controller, League comrades, a movement or memorial audience, or Midoriya and Shoji after the war.; settings League operations, the coalition war, or postwar memorial and authorship contexts; Enhancement impairment is a separate state variable; Writing is not proof of nonviolence; No ordinary civilian, family, romance or unrelated private-life setting
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` E; `MUNDANE_BEHAVIOR` E; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` D; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `fidelity-not-infallible` (evidence-backed limitation): Friend-directed action can have unwanted effects: his revival attempt also strengthened AFO's will \(SP-SUP-03\), so fidelity does not make him an infallible interpreter of his friend.
+  - `impaired-state-separate` (evidence-backed limitation): Enhancement-related cognitive and expressive degradation \(V35-V37\) is a separate state; more capacity is not more agency, and later medical arrest does not make the cost negligible.
+  - `intervals-unsampled` (evidence gap): No atom covers V25-V29, V32-V34 or V38-V41, and SP01 locates V09 conduct by volume rather than page, so behavior over those intervals is not established by this evidence set.
+  - `knowledge-bounded-testimony` (evidence-backed limitation): He cannot know every engineered detail of Tenko's origin or the terminal inner battle; the V42 message is received testimony, not direct participation.
+  - `linked-corpus-not-curated` (evidence gap): The deep readings, readiness index, supplemental reconciliation ledger and audit linked from the model are not curated evidence on this subject, so their warrants were not independently rechecked here. Anime performance and any supplement material beyond what the model cites lie outside this evidence set. Missing support is not evidence of absence.
+  - `ordinary-life-insufficient` (evidence-backed limitation): Ordinary life outside League and stigma relations and broad postwar adjustment are insufficient in the model; future readership, legal or reform trajectory, health course and a life beyond League relations are OPEN.
+  - `publication-reception-unshown` (evidence-backed limitation): The supplements report publication, heavy criticism and some historical recognition, but his private response to particular critics and broad acceptance remain unestablished.
+  - `retrospective-probe-not-blind` (evidence-backed limitation): The single formal probe SP-V01 is a retrospective chronological evidence holdout by an analyst who had read later manga, not a blind experiment; supported axes are qualitative, and action, speech and emotional trajectory are only partial.
+  - `supplemental-claims-not-enacted` (evidence-backed limitation): Supplement profile facts, editorial summaries and author comments \(SP-SUP-01 to SP-SUP-03\) constrain reconstruction without becoming enacted manga observations.
+  - `writing-not-pacifism` (evidence-backed limitation): V42 memorial authorship is adversarial and includes a terror-symbol intention; writing instead of immediate attack is not evidence of a settled nonviolent philosophy or of reconciliation.
+- Evidence at basis commit:
+  - [`my-hero-academia:iguchi-shuichi@manga#reviewed-dedicated-analysis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/5413a3571bea0467d1bc9a5d4e27940dac9c81ce/series/my-hero-academia/V2%20Analysis/04%20Character%20Modeling%20and%20Reconstruction/MHA_SP2_SPINNER_IGUCHI_SHUICHI_CHARACTER_RECONSTRUCTION_MODEL.md)
 
 ### Subject `my-hero-academia:lady-nagant@manga`
 
