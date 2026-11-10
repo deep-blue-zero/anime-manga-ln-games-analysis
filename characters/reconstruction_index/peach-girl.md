@@ -43,6 +43,46 @@ Recorded assessments of subjects in the `peach-girl` namespace of the [Character
   - [`peach-girl:adachi-momo@manga#second-pass-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7a78b2072ed6a322d3c90cf0cedf511685d3e1e8/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_MONOGRAPH.md)
   - [`peach-girl:adachi-momo@manga#time-indexed-literary-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7a78b2072ed6a322d3c90cf0cedf511685d3e1e8/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MOMO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md)
 
+### Subject `peach-girl:aki-misao@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/peach-girl/aki-misao@manga.jsonl`](../reconstruction_capabilities/peach-girl/aki-misao@manga.jsonl)
+
+<a id="peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01"></a>
+
+#### Assessment `peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `peach-girl:aki-misao`
+- Scope: continuity `peach-girl-manga`
+- Source boundary: Only peach-girl:aki-misao@manga\#second-pass-character-monograph \(PEACH\_GIRL\_MISAO\_MONOGRAPH.md, version 1.0, active\_provisional\) and peach-girl:aki-misao@manga\#time-indexed-literary-dossier \(PEACH\_GIRL\_MISAO\_TIME\_INDEXED\_RECONSTRUCTION\_DOSSIER.md, version 1.0, active\_provisional\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese 新装版 manga V01-V18. The Peach Girl current-state and corpus map was read for method, authority order and scope only. The volume readings, the four longitudinal ledgers, the source receipts, the second-pass audit, reconciliation, coverage and reconstruction reassessments, the supporting-ensemble and directional-relationship studies, the G4 rules, cases, results and runner, and the other characters' monographs and dossiers are not curated evidence on this subject and nothing is borrowed from them. The project's BOUNDED\_PROVISIONAL, PASS\_SCOPED and BLOCKED\_NO\_HELD\_OUT\_VALIDATION labels are inputs, not conclusions. No anime, live-action, sequel or related-manga material is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Seven dossier states from M-01 \(after V06 i0053\) to M-07 \(after V18 i0068\), each ending after all panels of one named image, together with the dossier's V01-V18 phase table, which it states is a retrospective aggregate and not a set of temporal states, and the monograph's developmental account. V01-V05, V07, V10 and V11-V13 have no exact state. No default state is designated, so a cutoff must be named. Her unshown ordinary life and long-term aftermath, including any outcome of the V18 arranged meal, are expressly unknown, and no in-world calendar dates are fixed.
+- Basis commit: `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `4553f1ea3adcaf322cbb3a9eadd1eff5bfbd7cea718897f89c648465d3689b3b`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `CROSS_SCENARIO` bounds: chronology Any named dossier state M-01-M-07 or V01-V18 cutoff; no post-V18 state.; interlocutor Any counterpart, including pupils, Kairi, Ryō, Momo, Tōji and Sae as the evidence describes them at the named cutoff; the refusal does not depend on the partner.; settings Crossover, counterfactual or materially novel contexts outside the canon cutoffs; Stranger relationships, most professional routines, unshown private life and long-term aftermath; Behavioral or dialogue simulation rather than retrieval of a canon state
+  - `ROMANCE_RELATIONSHIP` condition: A dossier state M-01-M-07 or an equally exact V01-V18 cutoff is named; no default state is assumed and no information after the cutoff or unreceived by Misao is used.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is Kairi \(recognition and explicit refusal\) or Ryō \(desire, withdrawal and renunciation\) as the evidence describes him at that cutoff; her V14 and V17 refusals remain refusals and her later care is never presented as renewed romance.
+  - `ROMANCE_RELATIONSHIP` condition: Output is a description of Misao's accessible knowledge, competing explanations and actual conduct, with the dossier's unavailable sections kept; no quoted dialogue is produced as canon.
+  - `ROMANCE_RELATIONSHIP` condition: No reconciliation with Ryō, future spouse, wedding or other outcome after V18 is asserted; the arranged meal is only a meal.
+  - `PROFESSIONAL_CONTEXT` condition: The question concerns a located school-nurse episode \(V01 transport and evaluation, V03 refuge for Momo, V06 emergency, treatment and reporting discussion, V08-V09 Tōji's confidence, V15 hospital and police offer\) at a named cutoff.
+  - `PROFESSIONAL_CONTEXT` condition: Output describes her conduct and the dossier's stated tendencies \(practical aid across allegiances; selective confidence and disclosure\) together with their stated error boundaries; it does not supply flawless safeguarding, competence or neutrality.
+  - `PROFESSIONAL_CONTEXT` condition: No new clinical, medical, legal or safeguarding judgment, no unfamiliar case, pupil or stranger, and no invented routine is produced; her V06 parental-contact assertion stays unverified.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` NOT_ASSESSED; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `linked-corpus-not-curated` (evidence gap): The volume readings, four ledgers, source receipts, second-pass audit and reconciliation, coverage and reconstruction reassessments, the supporting-ensemble study and the G4 rules, cases and results are not curated evidence on this subject, so their warrants were not rechecked here. Missing support is not evidence of absence.
+  - `literary-states-not-executable-model` (evidence-backed limitation): The dossier states it is substantially developed literary reconstruction, not an accepted simulation or a claim of unrestricted conversational fidelity, and that no reconstruction acceptance, readiness promotion, forecast rescore or gate closure follows from it.
+  - `no-held-out-validation` (evidence-backed limitation): The dossier gives no retrieval vectors, its exposed-source logical comparison cannot establish held-out validity, and operational acceptance is BLOCKED\_NO\_HELD\_OUT\_VALIDATION; its proposed checks are UNEXECUTED.
+  - `no-retroactive-knowledge` (evidence-backed limitation): Later events and accounts \(the chocolates history, Kairi's Momo-first statement, Ryō's commission and cancellation, the nonpregnancy account\) cannot be installed in an earlier state, and reader knowledge is not her knowledge.
+  - `partial-authority-not-omniscient` (evidence-backed limitation): Her judgments rest on partial information: Momo withholds the assault when asking about Ryō, Kairi and Momo withhold the full consultation, and her favorable Ryō testimony does not verify his integrity; her counselor role may not be treated as infallible.
+  - `phase-table-not-temporal-states` (evidence-backed limitation): The V01-V18 phase table is a retrospective navigation aid; only the seven selected endpoints are temporal states, and a fact listed for an interval was not necessarily known at its start.
+  - `refusals-not-revoked-by-care` (evidence-backed limitation): Her V14 refusal of Kairi and V17-V18 refusal of Ryō are not revoked by later gratitude, encouragement or emergency concern; lingering feeling and principled refusal coexist, and no automatic reconciliation may be predicted.
+  - `same-pass-authorship-owner-acceptance-pending` (evidence-backed limitation): Both artifacts carry SECOND\_PASS\_SCOPED\_SEMANTIC\_REVIEW\_PASSED\_OWNER\_ACCEPTANCE\_PENDING, were authored and accepted within the project's own second pass, and are active\_provisional; prior exposure to all outcomes is disclosed and there is no blind corroboration.
+- Evidence at basis commit:
+  - [`peach-girl:aki-misao@manga#second-pass-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_MONOGRAPH.md)
+  - [`peach-girl:aki-misao@manga#time-indexed-literary-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_MISAO_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md)
+
 ### Subject `peach-girl:kashiwagi-sae@manga`
 
 - Registry file: [`characters/reconstruction_capabilities/peach-girl/kashiwagi-sae@manga.jsonl`](../reconstruction_capabilities/peach-girl/kashiwagi-sae@manga.jsonl)
@@ -80,6 +120,44 @@ Recorded assessments of subjects in the `peach-girl` namespace of the [Character
 - Evidence at basis commit:
   - [`peach-girl:kashiwagi-sae@manga#second-pass-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_MONOGRAPH.md)
   - [`peach-girl:kashiwagi-sae@manga#time-indexed-literary-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_SAE_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md)
+
+### Subject `peach-girl:okayasu-kairi@manga`
+
+- Registry file: [`characters/reconstruction_capabilities/peach-girl/okayasu-kairi@manga.jsonl`](../reconstruction_capabilities/peach-girl/okayasu-kairi@manga.jsonl)
+
+<a id="peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01"></a>
+
+#### Assessment `peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `peach-girl:okayasu-kairi`
+- Scope: continuity `peach-girl-manga`
+- Source boundary: Only peach-girl:okayasu-kairi@manga\#second-pass-character-monograph \(PEACH\_GIRL\_KAIRI\_MONOGRAPH.md, version 1.1, active\_provisional\) and peach-girl:okayasu-kairi@manga\#time-indexed-literary-dossier \(PEACH\_GIRL\_KAIRI\_TIME\_INDEXED\_RECONSTRUCTION\_DOSSIER.md, version 1.0, active\_provisional\) at basis\_commit, read in full as reviewed repository analysis of the original Japanese 新装版 manga V01-V18. The Peach Girl current-state and corpus map was read for method, authority order and scope only. The volume readings, the four longitudinal ledgers, the source receipts, the second-pass audit, reconciliation, coverage and reconstruction reassessments, the supporting-ensemble and directional-relationship studies, the G4 rules, cases, results and runner, and the other characters' monographs and dossiers are not curated evidence on this subject and nothing is borrowed from them. The project's BOUNDED\_PROVISIONAL, PASS\_SCOPED and BLOCKED\_NO\_HELD\_OUT\_VALIDATION labels are inputs, not conclusions. No anime, live-action, sequel or related-manga material is included, and the evaluator performed no primary-source inspection.
+- Temporal boundary: Fourteen dossier states from K01 \(V02 i0166\) to K14 \(V18 i0178\), each bounded by a single inclusive image cutoff and admitting only information Kairi Okayasu actually received, together with the monograph's V01-V18 developmental account. No default state is designated, so a cutoff must be named. V01 has no exact state. His conduct after the V18 ending, including future accountability, safety and reliable handling of refusals, is expressly unshown, and no in-world calendar dates are fixed.
+- Basis commit: `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `8350bde06d56eeee9025dd4347cbb115281d895b033ff9b50eb0b9a6c2f4863f`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
+- Overall tier: provisional `D` — substantial distributed evidence without a strong operational model
+- Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` NOT_READY; `MUNDANE_SOCIAL` NOT_READY; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` NOT_READY
+  - `CROSS_SCENARIO` bounds: chronology Any named dossier state K01-K14 or V01-V18 cutoff; no post-V18 state.; interlocutor Any counterpart, including Momo, Misao, Tōji, Ryo and Sae as the evidence describes them at the named cutoff; the refusal does not depend on the partner.; settings Crossover, counterfactual or materially novel contexts outside the canon cutoffs; Independent adult responsibilities, parenting, politics, unfamiliar clinical crises or arbitrary strangers; Behavioral or dialogue simulation rather than retrieval of a canon state
+  - `ROMANCE_RELATIONSHIP` condition: A dossier state K01-K14 or an equally exact V01-V18 cutoff is named; no default state is assumed and no information after the cutoff or unreceived by Kairi is used.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is Momo or Misao as the evidence describes her at that cutoff; Misao's V14 younger-brother-only refusal remains a refusal and is not softened by her later gratitude.
+  - `ROMANCE_RELATIONSHIP` condition: Output is a description of Kairi's accessible knowledge, competing goals and actual conduct, with the dossier's exclusions kept; no quoted dialogue is produced as canon.
+  - `ROMANCE_RELATIONSHIP` condition: Refused releases and held contact \(V02, V03, V17, V18\) are not presented as consensual or redeemed by later reciprocity, and his valid stops and Momo's own choices are both preserved.
+  - `ROMANCE_RELATIONSHIP` condition: No outcome after V18, future reform or relationship durability is asserted.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` D; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` D; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` B
+- Known limits:
+  - `linked-corpus-not-curated` (evidence gap): The volume readings, four ledgers, source receipts, second-pass audit and reconciliation, coverage and reconstruction reassessments and the G4 rules, cases and results are not curated evidence on this subject, so their warrants and the project's preserved probe failures were not rechecked here. Missing support is not evidence of absence.
+  - `literary-states-not-executable-model` (evidence-backed limitation): The dossier states its states are literary reconstruction states, not an executable model, and that no predictive accuracy, calibration, acoustic voice or conversational portability is claimed; the monograph calls its subject a temporally changing literary account, not a timeless operational personality.
+  - `motive-weights-unsupported` (evidence-backed limitation): Competing wants for closeness, unique recognition, helping, avoiding rejection and preserving another's apparent happiness are supported, but exact weights and a timeless priority function are not, and family and Aki accounts cannot be completed by invention.
+  - `no-held-out-validation` (evidence-backed limitation): The twelve K-R vectors were designed after outcomes were known, are unexecuted consistency questions rather than held-out probes, and operational acceptance is BLOCKED\_NO\_HELD\_OUT\_VALIDATION / NOT\_ACCEPTED; the historical PR0015 and PR0016 probes remain failed.
+  - `no-retroactive-or-unreceived-knowledge` (evidence-backed limitation): Later disclosures and Momo's private text cannot be installed in an earlier state; each state excludes later or unreceived information, including Momo's declaration to Tōji at V18 i0143 before the rescue.
+  - `no-universal-respect-or-opportunism-rule` (evidence-backed limitation): Local withdrawal \(V04, V18\) and repeated coercion \(V03 hug after no, refused releases, the V18 forced departure\) both stand; neither an always-respect rule nor a pure-opportunism account may be supplied.
+  - `same-pass-authorship-owner-acceptance-pending` (evidence-backed limitation): Both artifacts carry SECOND\_PASS\_SCOPED\_SEMANTIC\_REVIEW\_PASSED\_OWNER\_ACCEPTANCE\_PENDING, were authored and accepted within the project's own second pass, and are active\_provisional; the dossier synthesizes other readers' finalized notes rather than new personal visual coverage.
+  - `stopping-cause-inaccessible` (evidence-backed limitation): Reader access to his complete V11 stopping cause is limited; a representation may say it is inaccessible but may not invent a supplied explanation, adopt Momo's private theory or deny he has an inner reason.
+- Evidence at basis commit:
+  - [`peach-girl:okayasu-kairi@manga#second-pass-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_MONOGRAPH.md)
+  - [`peach-girl:okayasu-kairi@manga#time-indexed-literary-dossier`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef/series/peach-girl/04%20Character%20and%20Relationship%20Analysis/PEACH_GIRL_KAIRI_TIME_INDEXED_RECONSTRUCTION_DOSSIER.md)
 
 ### Subject `peach-girl:tojigamori-kazuya@manga`
 
