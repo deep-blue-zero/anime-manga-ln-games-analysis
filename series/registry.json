@@ -264,6 +264,22 @@
       "catalog_note": "Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git."
     },
     {
+      "series_id": "cosmic-princess-kaguya",
+      "stable_slug": "cosmic-princess-kaguya",
+      "canonical_title": "Cosmic Princess Kaguya! / 超かぐや姫！",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/cosmic-princess-kaguya/",
+      "canonical_entrypoint": "series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_COSMIC_PRINCESS_KAGUYA_BOOTSTRAP_20261110",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation."
+    },
+    {
       "series_id": "domestic-girlfriend",
       "stable_slug": "domestic-girlfriend",
       "canonical_title": "Domestic Girlfriend / ドメスティックな彼女",
