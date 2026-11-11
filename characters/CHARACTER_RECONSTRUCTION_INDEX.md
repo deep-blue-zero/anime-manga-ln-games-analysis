@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 106; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 113; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -29,9 +29,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
-| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 18 | 18 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 22 | 22 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
-| [`peach-girl`](reconstruction_index/peach-girl.md) | 3 | 3 |
+| [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 6 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 2 | 2 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
@@ -84,6 +84,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `mushoku-tensei:sara@light-novel` | [`mushoku-tensei-sara-ln-v07-v13-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-sara-ln-v07-v13-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:sylphiette@light-novel` | [`mushoku-tensei-sylphiette-ln-v01-v15-model-20261107-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-sylphiette-ln-v01-v15-model-20261107-01) | `CANDIDATE` | `C` | `83ee41aafa45a46e630ca6bb64c7a170c8b42c44` |
 | `mushoku-tensei:zanoba@light-novel` | [`mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
+| `my-hero-academia:aizawa-shota@manga` | [`my-hero-academia-aizawa-shota-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-aizawa-shota-manga-v2-model-ledgers-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:all-for-one@manga` | [`my-hero-academia-all-for-one-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-all-for-one-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:amajiki-tamaki@manga` | [`my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:aoyama-yuga@manga` | [`my-hero-academia-aoyama-yuga-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-aoyama-yuga-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
@@ -92,7 +93,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:chisaki@manga` | [`my-hero-academia-chisaki-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-chisaki-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:eri@manga` | [`my-hero-academia-eri-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-eri-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:gentle-criminal@manga` | [`my-hero-academia-gentle-criminal-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-gentle-criminal-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:hawks@manga` | [`my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:iguchi-shuichi@manga` | [`my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:iida-tenya@manga` | [`my-hero-academia-iida-tenya-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-iida-tenya-manga-v2-model-ledgers-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:jiro-kyoka@manga` | [`my-hero-academia-jiro-kyoka-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-jiro-kyoka-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:kirishima-eijiro@manga` | [`my-hero-academia-kirishima-eijiro-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-kirishima-eijiro-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:lady-nagant@manga` | [`my-hero-academia-lady-nagant-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-lady-nagant-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
@@ -101,10 +104,14 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:sir-nighteye@manga` | [`my-hero-academia-sir-nighteye-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-sir-nighteye-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:togata-mirio@manga` | [`my-hero-academia-togata-mirio-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-togata-mirio-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:tokoyami-fumikage@manga` | [`my-hero-academia-tokoyami-fumikage-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-tokoyami-fumikage-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:uraraka-ochako@manga` | [`my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:yaoyorozu-momo@manga` | [`my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `peach-girl:adachi-momo@manga` | [`peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`](reconstruction_index/peach-girl.md#peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
+| `peach-girl:aki-misao@manga` | [`peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:kashiwagi-sae@manga` | [`peach-girl-kashiwagi-sae-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-kashiwagi-sae-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
+| `peach-girl:okayasu-kairi@manga` | [`peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
+| `peach-girl:okayasu-ryo@manga` | [`peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:tojigamori-kazuya@manga` | [`peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-tojigamori-kazuya-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `re-zero:beatrice@light-novel` | [`re-zero-beatrice-ln-v01-v15-model-20261029-01`](reconstruction_index/re-zero.md#re-zero-beatrice-ln-v01-v15-model-20261029-01) | `CANDIDATE` | `C` | `057a9b65f94da293f9eda5a5cefd11568839a094` |
 | `re-zero:crusch-karsten@light-novel` | [`re-zero-crusch-karsten-ln-v01-v16-model-20261023-01`](reconstruction_index/re-zero.md#re-zero-crusch-karsten-ln-v01-v16-model-20261023-01) | `CANDIDATE` | `C` | `297bc0d05040a24facbeb5440481b9c604de5568` |
