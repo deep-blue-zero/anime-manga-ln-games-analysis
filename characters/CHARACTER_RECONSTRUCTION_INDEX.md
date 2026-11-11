@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 121; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 122; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -39,7 +39,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 16 |
-| [`tomozaki`](reconstruction_index/tomozaki.md) | 14 | 14 |
+| [`tomozaki`](reconstruction_index/tomozaki.md) | 15 | 15 |
 | [`yuru-camp`](reconstruction_index/yuru-camp.md) | 1 | 1 |
 
 ## Recorded assessments
@@ -168,6 +168,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `tomozaki:hinami-nagisa@light-novel` | [`tomozaki-hinami-nagisa-ln-v12-retrieval-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-hinami-nagisa-ln-v12-retrieval-20261109-01) | `CANDIDATE` | `E` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `tomozaki:hinami-yoko@light-novel` | [`tomozaki-hinami-yoko-ln-v12-retrieval-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-hinami-yoko-ln-v12-retrieval-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `tomozaki:izumi-yuzu@light-novel` | [`tomozaki-izumi-yuzu-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-izumi-yuzu-ln-v12-model-20261109-01) | `CANDIDATE` | `C` | `ecea5a397b7dbf601851a0d7faed9793acf12264` |
+| `tomozaki:kikuchi-fuka@light-novel` | [`tomozaki-kikuchi-fuka-ln-v12-model-20261111-01`](reconstruction_index/tomozaki.md#tomozaki-kikuchi-fuka-ln-v12-model-20261111-01) | `CANDIDATE` | `C` | `870de40b0e25fbead978613f8389e8678ff63ee3` |
 | `tomozaki:konno-erika@light-novel` | [`tomozaki-konno-erika-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-konno-erika-ln-v12-model-20261109-01) | `CANDIDATE` | `D` | `b6d39758903ce4d35f3dab527875a3f1efa70cd3` |
 | `tomozaki:michael-andi@light-novel` | [`tomozaki-michael-andi-ln-v12-retrieval-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-michael-andi-ln-v12-retrieval-20261109-01) | `CANDIDATE` | `E` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `tomozaki:mizusawa-takahiro@light-novel` | [`tomozaki-mizusawa-takahiro-ln-v12-model-20261109-01`](reconstruction_index/tomozaki.md#tomozaki-mizusawa-takahiro-ln-v12-model-20261109-01) | `CANDIDATE` | `C` | `870de40b0e25fbead978613f8389e8678ff63ee3` |
