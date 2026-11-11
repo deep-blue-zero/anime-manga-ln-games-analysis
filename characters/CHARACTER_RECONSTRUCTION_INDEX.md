@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 113; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 114; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -29,7 +29,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
-| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 22 | 22 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 23 | 23 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 6 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
@@ -86,6 +86,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `mushoku-tensei:zanoba@light-novel` | [`mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-zanoba-ln-v06-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `my-hero-academia:aizawa-shota@manga` | [`my-hero-academia-aizawa-shota-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-aizawa-shota-manga-v2-model-ledgers-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:all-for-one@manga` | [`my-hero-academia-all-for-one-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-all-for-one-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:all-might@manga` | [`my-hero-academia-all-might-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-all-might-manga-v2-model-ledgers-20261111-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:amajiki-tamaki@manga` | [`my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-amajiki-tamaki-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:aoyama-yuga@manga` | [`my-hero-academia-aoyama-yuga-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-aoyama-yuga-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:asui-tsuyu@manga` | [`my-hero-academia-asui-tsuyu-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-asui-tsuyu-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
