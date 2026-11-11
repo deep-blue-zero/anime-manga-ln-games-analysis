@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 112; `SUPERSEDED` 11
+- Recorded totals: `CANDIDATE` 113; `SUPERSEDED` 11
 
 ## Namespaces
 
@@ -29,7 +29,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
-| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 21 | 21 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 22 | 22 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 6 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
@@ -93,6 +93,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:chisaki@manga` | [`my-hero-academia-chisaki-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-chisaki-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:eri@manga` | [`my-hero-academia-eri-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-eri-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:gentle-criminal@manga` | [`my-hero-academia-gentle-criminal-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-gentle-criminal-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:hawks@manga` | [`my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:iguchi-shuichi@manga` | [`my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:iida-tenya@manga` | [`my-hero-academia-iida-tenya-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-iida-tenya-manga-v2-model-ledgers-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:jiro-kyoka@manga` | [`my-hero-academia-jiro-kyoka-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-jiro-kyoka-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
