@@ -4,7 +4,7 @@ series: cosmic-princess-kaguya
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: CPK-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "Single INITIAL project entrypoint and procedural routing; no narrative findings or run authorization"
 source_boundary: "Intended Japanese feature film F01; metadata reconnaissance only; admitted and inspected narrative boundary NONE"
@@ -55,7 +55,9 @@ No future reading/audit/synthesis files listed in the architecture exist yet. Pl
 
 ## Permitted now and blocked work
 
-Permitted: foundation review and targeted repairs, public metadata verification, source-access planning and repository validation/publication within this root. This assignment does **not** authorize obtaining the film, constructing a bundle, opening a reading, running either model, comparing models or merging the PR. Those operations remain blocked by scope as well as the CLOSED admission gate.
+Permitted while the lock is CLOSED: foundation review and targeted repairs, public metadata verification, source-access planning and repository validation/publication under live governance. Repository integration follows the ordinary publication and merge controls; the sequential-admission lock does not prevent integration.
+
+New narrative admission and substantive F01 reading remain blocked. Film acquisition, bundle construction, analytical model execution and model comparison require their own owner-authorized scope; an OPEN lock alone does not authorize them.
 
 Next owner-authorized operation: define a bounded F01 source-admission and full-film reading run. Supply an authorized external film witness and its public-safe identity/provenance; settle edition, Japanese track and text-witness availability; verify the actual primary analyst's capabilities and transport; confirm the initiation requirements, then make the explicit, consistent OPEN/run-scope transition before narrative execution. If text or temporal evidence remains unavailable, keep affected claims blocked or explicitly narrow the authorized scope. Architecture readiness alone cannot open the gate.
 
