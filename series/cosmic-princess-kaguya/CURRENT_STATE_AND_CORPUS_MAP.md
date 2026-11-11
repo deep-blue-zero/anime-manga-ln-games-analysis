@@ -4,10 +4,10 @@ series: cosmic-princess-kaguya
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: CPK-G1
-version: "1.1"
+version: "1.2"
 status: canonical
-authority_scope: "Single INITIAL project entrypoint and procedural routing; no narrative findings or run authorization"
-source_boundary: "Intended Japanese feature film F01; metadata reconnaissance only; admitted and inspected narrative boundary NONE"
+authority_scope: "Single project entrypoint and active F01 single-operation run routing"
+source_boundary: "Admitted Japanese feature film witness CPK-W01-NF-WEBRIP-HEVC (F01, 02:22:03.207); primary continuous-AV run CPK-R1 active; committed narrative high-water mark NONE"
 canonical_home: series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md
 supersedes: []
 superseded_by: []
@@ -27,13 +27,22 @@ project_initialization:
     - CPK_CHARACTER_RELATIONSHIP_LEDGER.md
     - CPK_CLAIM_REVISION_LEDGER.md
     - CPK_RECONCILIATION_PROFILE.md
-  sequential_analysis_lock: closed
-  next_permitted_operation: NONE_AWAITING_SOURCE_AND_RUN_AUTHORIZATION
+  sequential_analysis_lock: open
+  next_permitted_operation: F01
+sequential_execution:
+  mode: single_operation
+  unit_type: film
+  authorized_start: F01
+  terminal_boundary: F01
+  committed_high_water_mark: NONE
+  next_candidate_operation: F01
+  confirmation_between_units: true
+  run_state: active
 ---
 
 # Current state
 
-**SEQUENTIAL_ANALYSIS_LOCK = CLOSED.** Initialization is **INITIAL**. No analytical run has been authorized or executed. No film, dialogue, song, scene or media derivative has been admitted or inspected. There is no sequential-execution block, completed run, closure seal, character model or literary synthesis.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** Initialization is **INITIAL**, and owner-authorized primary run **CPK-R1** is **active** (`mode: single_operation`, authorized unit `F01`, committed narrative high-water mark `NONE`, next permitted/candidate operation `F01`). Primary source witness `CPK-W01-NF-WEBRIP-HEVC` (`4,916,885,885` bytes, SHA-256 `b940eede5e3ce2e83e507a33e6523516c21e770dbccd8cc9e4461af77b23a42a`, measured duration `02:22:03.207` / `8523.207` s, Japanese primary audio track 1 `0:a:0` and Japanese `[SDH]` reference subtitle track 4 `0:s:3`) and Gemini 4 Carbon synchronized audiovisual inspection (`~1.0` fps visual frame sampling paired with continuous Japanese audio) have been verified prior to substantive reading execution. No closure seal, character model or accepted literary synthesis exists yet.
 
 Canonical root: `series/cosmic-princess-kaguya/`. Continuing branch: `series/cosmic-princess-kaguya`. This is generation CPK-G1 for the single feature **超かぐや姫！ / Cosmic Princess Kaguya!**. Procedural authority is scoped to this foundation; it does not certify source access or any provider's perceptual capability. Repository `main` remains analytical authority after integration.
 
@@ -55,11 +64,9 @@ No future reading/audit/synthesis files listed in the architecture exist yet. Pl
 
 ## Permitted now and blocked work
 
-Permitted while the lock is CLOSED: foundation review and targeted repairs, public metadata verification, source-access planning and repository validation/publication under live governance. Repository integration follows the ordinary publication and merge controls; the sequential-admission lock does not prevent integration.
+Permitted during active run `CPK-R1`: complete primary `CONTINUOUS_AV` source inspection of `F01` (`CPK-W01-NF-WEBRIP-HEVC`), author the `draft_noncurrent` primary candidate `readings/CPK_F01_PRIMARY_DEEP_READING.md`, populate the project-local source inventory and cumulative ledgers (`CPK_SOURCE_INVENTORY.md`, `CPK_OBSERVATION_LEDGER.md`, `CPK_CHARACTER_RELATIONSHIP_LEDGER.md`, `CPK_CLAIM_REVISION_LEDGER.md`), freeze the original primary candidate with blind/withheld stage-handoff separation, close `F01` truthfully (`run_state: completed`, `committed_high_water_mark: F01`, next operations `NONE`), and publish to `series/cosmic-princess-kaguya`.
 
-New narrative admission and substantive F01 reading remain blocked. Film acquisition, bundle construction, analytical model execution and model comparison require their own owner-authorized scope; an OPEN lock alone does not authorize them.
-
-Next owner-authorized operation: define a bounded F01 source-admission and full-film reading run. Supply an authorized external film witness and its public-safe identity/provenance; settle edition, Japanese track and text-witness availability; verify the actual primary analyst's capabilities and transport; confirm the initiation requirements, then make the explicit, consistent OPEN/run-scope transition before narrative execution. If text or temporal evidence remains unavailable, keep affected claims blocked or explicitly narrow the authorized scope. Architecture readiness alone cannot open the gate.
+Blocked in this run: admitting other narrative works or additional editions, publishing copyrighted media or raw transcript dumps to Git, executing the separate future OpenAI `BUNDLE_MEDIATED` blind audit, fabricating audit adjudications, authoring `synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md` before audit/reconciliation, manufacturing operational character-reconstruction models or capability grades, modifying repository-global governance or housekeeping/discovery outputs, and merging into `main`.
 
 The intended operational sequence is Gemini 4 Carbon as primary `CONTINUOUS_AV` analyst, then a separate OpenAI `BUNDLE_MEDIATED` auditor, then a designated integrator with verified continuous-AV access for unresolved temporal claims. These are owner-requested assignments, not verified product facts. Actual provider/model/surface, effort, input configuration and sampling are recorded at execution; no automatic substitution is authorized. An Argon control is optional future work requiring separate authorization.
 
