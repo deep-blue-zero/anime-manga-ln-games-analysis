@@ -1697,3 +1697,8 @@ The event pass has generated relationship and side-character questions that Phas
 - Events 013–020 dedicated tranche: 40 / 2,570.
 - Events 021+ dedicated tranche: 34 / 1,858.
 - **Total dedicated event source boundary: 136 / 8,507.**
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [Source Lock 1.1 numbered-event supplement](GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md) reads all fifteen new scripts for Events 027, 028 and 030. This release's count and its recorded absence of 027–028 describe Source Lock 1.0. The new reading gives the campaign sequence, the last school festival and the relevant character and ledger consequences.

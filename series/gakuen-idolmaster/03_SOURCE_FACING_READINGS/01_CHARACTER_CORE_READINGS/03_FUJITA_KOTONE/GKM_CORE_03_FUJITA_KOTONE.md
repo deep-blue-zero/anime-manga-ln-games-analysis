@@ -1502,3 +1502,10 @@ Ordinary idolhood is the condition that finally lets extravagance become a choic
 11. Does the full AV corpus support a stable personal sonic identity, or primarily a highly portable performance technique?
 12. Can Kotone eventually receive love/support that she does not have to `お支払い` back?
 
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In D-KOTONE 028–037, Kotone reports clearing her family's debt and says that earning still gives her joy, security, options and evidence that the work is valued (`adv_dear_fktn_028.txt` M037–051; `_032.txt` M074–096). The winter result and Sena's move from `星南先輩` to `星南ちゃん` belong to this Dear track (`_036.txt` M009 and M019–039). The separate P3 final-failure scene names Sena. Kotone's later vow to defer romance has a common endpoint across the two choice branches (`_037.txt` L380 and M053–099).
+
+[Source reading 1](GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md)

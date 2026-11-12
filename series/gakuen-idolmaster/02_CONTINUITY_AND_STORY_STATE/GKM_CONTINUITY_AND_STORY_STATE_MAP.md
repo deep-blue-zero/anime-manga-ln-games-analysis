@@ -565,3 +565,8 @@ This is an institutional identity rule, not a chronology bridge. It does not mer
 ### External taxonomy
 
 Official paratext confirms the formal `プロデューサー科` label. Credited creator commentary specifies the protagonist's placement as the Producer Course of `初星学園専門大学` and explains that this was selected to create physical proximity without collapsing the Producer's professional/psychological distance. Those claims remain source-labeled S2/S3 in the external register and must not be used to erase S1 ambiguity elsewhere.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Revision 86 extends the winter structure with character-specific P3 selection and final outcomes and C1 late Dear continuations for Kotone, Sena and Tsubame. Apply the [revision 86 continuity rows](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CONTINUITY_AND_STORY_STATE_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12) and the [branch ledger](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_BRANCH_DIVERGENCE_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12). The results named in D-KOTONE, D-SENA, D-TSUBAME and their C3 Produce failures retain their separate placement. Event 028 supplies a summer-to-winter seasonal anchor and a specific exam decision. Events 027 and 030 are joined by their campaign order. The five Kanae horizontal parts give a C1 internal sequence with China's winning state compatible with D-CHINA.

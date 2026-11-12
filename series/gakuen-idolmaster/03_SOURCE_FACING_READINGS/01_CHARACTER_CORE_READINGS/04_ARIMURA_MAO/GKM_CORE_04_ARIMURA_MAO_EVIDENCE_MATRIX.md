@@ -93,3 +93,14 @@ Continuity warning: `P1[MAO]`, `P2[MAO]`, `P3-C[MAO]`, `D-MAO`, `C-MAO`, `PE-MAO
 6. Third-year graduation material and whether seniority remains generative after leaving school.
 7. Post-H.I.F. professional material testing whether Producer dependence remains empowering.
 8. Direct AV evidence for vocal/gendered-performance distinctions.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_04_ARIMURA_MAO.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `MAO-R86-C01` | ADD to `MAO-C23` | Succession changes the title and preserves a personal star. `adv_cidol-amao-3-018_01.txt` L135–261 and `adv_cidol-amao-3-018_02.txt` L25–67, L154–291. | C1 within Mao 018 after Mao's H.I.F. win, compatible with the Mao-winning Dear state. | The dialogue establishes one official title transfer. The double title is joking. Its surrounding remarks give evidence of respect and reception in this scene. |
+| `MAO-R86-C02` | ADD to `MAO-C27` | The Producer exercises professional leverage on Mao's behalf. `adv_cidol-amao-3-018_03.txt` L85–140, L149–210. | C1 after the Mao-winning result. The single-option `トップアイドルにする` precedes the final exchange. | The president's possible test is the Producer's conjecture. The scene shows an offer and deferral. Mao's signature and later terms remain open. |
+| `MAO-R86-C03` | STRENGTHEN `MAO-C08` and `MAO-C09` | Temari names the courage in Mao's conduct. `adv_csprt-2-0078_01.txt` L112–155 and `adv_csprt-2-0078_02.txt` L79–182. | C1 within the test of courage, C4 relative to the main tracks. | Mao asks Temari to keep the fear private. The acknowledgement supports this pair's exchange, with public use of vulnerability still open. |
