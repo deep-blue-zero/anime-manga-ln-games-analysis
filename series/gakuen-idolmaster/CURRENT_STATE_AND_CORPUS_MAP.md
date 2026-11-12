@@ -4,14 +4,20 @@ artifact_type: corpus_map
 scope: full_active_v2_project
 generation: V2
 status: canonical
-source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisual and external-paratext evidence
+source_boundary: GAKUMAS V2 Source Lock 1.1 for the transcript refresh; Source Lock 1.0 for historical readings; separately versioned audiovisual and external-paratext evidence
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
+last_updated: "2026-11-12 — Source Lock 1.1 admission and delta accounting; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
+
+## Transcript refresh — 2026-11-12
+
+[Source Lock 1.1](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261112.md) admits the revision 86 Japanese ADV snapshot at 82412aa5029abd363e68aec145e36525cf9b6b06, with 3,949 raw objects and 100,847 extracted messages. The [per-object delta](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) records 172 additions, 13 byte revisions, 10 byte-identical moves and zero missing objects. [Source Lock 1.0](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md) remains the historical scope of the existing 1.0 readings and their receipts.
+
+The 1.1 source comparison is complete. Analysis of the additions and revisions is in progress. Existing phase completion statements describe their 1.0 boundary. The current textual operation is the authorized, bounded 1.0→1.1 delta reading and ledger reconciliation. The Rinha perceptual pass below remains the next audiovisual execution. The Gemini Carbon candidate selection and future perceptual execution have separate completion states.
 
 ## Current Rinha AV execution — RINHA-AV-20260911
 
@@ -73,7 +79,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 
 ### Current authority
 
-- Governing textual source: **GAKUMAS V2 Source Lock 1.0** — commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32, frozen 2026-08-02, 3,777 raw scripts / 93,924 messages.
+- Baseline textual source for completed historical readings: **GAKUMAS V2 Source Lock 1.0** — commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32, frozen 2026-08-02, 3,777 raw scripts / 93,924 messages.
 - Governing method: `GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md` **v2.2**.
 - Synthesis architecture: `GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md` **v2.4**.
 - Continuity authority: `GKM_CONTINUITY_AND_STORY_STATE_MAP.md` **v2.1**.
