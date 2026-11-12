@@ -1713,3 +1713,38 @@ That is why `不屈` is the better endpoint than `無敵`. Invincibility imagine
 
 Saki’s victory does not end the race. It gives her a more honest back from which to lead it.
 
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_01_HANAMI_SAKI_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Recovery belongs to Saki’s training
+
+During a declared `完全休養日`, Saki tells Misuzu that she wants to heal mental and physical fatigue so she can return to idol work at full strength. Saki proposes `全力でぼーっとする`. Misuzu recognizes a method different from her own, then arranges another nap. Ume describes Saki's recurring `おやすみモード` on holidays. `adv_csprt-2-0055_01.txt` L71–121 and `adv_csprt-2-0055_02.txt` L58–151. [Support-card reading](../../03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md).
+
+Saki applies discipline to lowering her demands as well as raising them. Misuzu can appreciate a different reason for a practice they share. Ume's teasing complaint shows that protected recovery can make Saki less available to people she loves. Saki says she rests to sustain future work. The scene does not establish recovery as wholly independent of performance.
+
+**Scope.** C1 within the support story, C4 against Saki’s main tracks.
+
+**Claim disposition.** `SAKI-R86-C01` — ADD to §§6.3 and 17.3.
+
+### Saki and her Producer revise their model of capacity
+
+During the fragrance shoot, Saki asks the Producer to respond to her fear that her beauty may have peaked. The Producer describes prior redesign plans. Saki deliberately changes the next take and describes building a future version together. When the Producer relinquishes his former `大器晩成` explanation, Saki proposes creating a larger `器`. `adv_cidol-hski-3-022_02.txt` L159–247 and `adv_cidol-hski-3-022_03.txt` L18–48, L141–186. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+The exchange gives Saki a role in specifying and testing possible future selves. The alternative take makes co-authorship a production choice with a concrete result reported by the Producer. The Producer reports the client's decision to use both takes. The campaign's final edits and reception remain unverified.
+
+**Scope.** C1 within Saki's fragrance communication.
+
+**Claim disposition.** `SAKI-R86-C02` — STRENGTHEN `SAKI-C14`.
+
+### A truce creates a specific cooperation state
+
+Saki and Ume voice reservations about working together during their rivalry. They identify `GO MY WAY!!` as an exception and agree to help Lilja. At the shoot Saki declares a `一時休戦`, contributes a rehearsal method from Lilja's cosplay experience, and later names her responsibilities as older sister and as Lilja's teacher. `adv_event_030_main-02.txt` M003–022, `adv_event_030_main-04.txt` M008–039, `adv_event_030_main-05.txt` M070–085. [Numbered-event reading](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md).
+
+Saki can explicitly suspend competition for a defined professional task and transfer technique to a junior. The collaboration adds a working state alongside the ongoing rivalry. The truce is local to the job. The sisters' expressed reluctance still constrains how far the scene can generalize.
+
+**Scope.** C1 within E030, C2 relative to the main routes.
+
+**Claim disposition.** `SAKI-R86-C03` — ADD to `H-SAKI-04` and §21.

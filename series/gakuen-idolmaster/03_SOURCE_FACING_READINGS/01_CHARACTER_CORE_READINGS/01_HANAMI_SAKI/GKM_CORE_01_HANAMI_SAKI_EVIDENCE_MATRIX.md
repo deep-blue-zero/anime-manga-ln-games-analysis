@@ -77,3 +77,14 @@ Source: parent core `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1; A1 raw scripts re
 | H-SAKI-05 (core §19) | **NARROW** | U1 shows a peer witness (Kotone, `04_15`); the Producer is not the only possible witness |
 
 A1 identities of the principal new sources (SHA-256 of the raw script as materialized from the Source Lock 1.0 archive): `adv_unit_01-04_13.txt` `a237fcaaff552b48fd3f39778cb00f6f49e8b3c755f1ad4d75ec56687c283bf0`; `adv_unit_01-04_15.txt` `124937c44f3235cae2610fe6c94a6491693aa5cd377b1292bb79fbac4a7e5490`; `adv_unit_01-04_18.txt` `98b1bb125585816d02761fa03e77dd6b7d0e878b64df6a7b35b639d6aa508e28`; `adv_unit_01-04_21.txt` `6b58b3aae66c4ba78de549d87096cb79cfb05d30b125f48de25b9c5eaa2f03d9`. The archive’s `manifest.csv` matches the Source Lock control checksum `82ed6510…96b1`.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_01_HANAMI_SAKI.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `SAKI-R86-C01` | ADD to §§6.3 and 17.3 | Recovery belongs to Saki’s training. `adv_csprt-2-0055_01.txt` L71–121 and `adv_csprt-2-0055_02.txt` L58–151. | C1 within the support story, C4 against Saki’s main tracks. | Saki says she rests to sustain future work. The scene does not establish recovery as wholly independent of performance. |
+| `SAKI-R86-C02` | STRENGTHEN `SAKI-C14` | Saki and her Producer revise their model of capacity. `adv_cidol-hski-3-022_02.txt` L159–247 and `adv_cidol-hski-3-022_03.txt` L18–48, L141–186. | C1 within Saki's fragrance communication. | The Producer reports the client's decision to use both takes. The campaign's final edits and reception remain unverified. |
+| `SAKI-R86-C03` | ADD to `H-SAKI-04` and §21 | A truce creates a specific cooperation state. `adv_event_030_main-02.txt` M003–022, `adv_event_030_main-04.txt` M008–039, `adv_event_030_main-05.txt` M070–085. | C1 within E030, C2 relative to the main routes. | The truce is local to the job. The sisters' expressed reluctance still constrains how far the scene can generalize. |

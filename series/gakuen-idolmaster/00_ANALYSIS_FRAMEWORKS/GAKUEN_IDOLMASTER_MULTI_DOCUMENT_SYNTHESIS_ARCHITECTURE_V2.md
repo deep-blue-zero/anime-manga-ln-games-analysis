@@ -3,7 +3,11 @@ title: "Gakuen Idolmaster Multi-Document Synthesis Architecture V2"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "production architecture and phase plan"
 version: "2.4"
-status: "canonical working architecture"
+artifact_type: synthesis_architecture
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 last_updated: "2026-08-17"
 revision_note: "adds mandatory Phase-6 distributed-character reconstruction for Kaya Rinha, with cross-character provenance, observer triangulation, and explicit dossier promotion rules; preserves the 13-character playable-core architecture"
 governing_method: "GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md"

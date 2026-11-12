@@ -704,3 +704,12 @@ Downstream reconstruction heuristic:
 > **character prior + current state + domain competence + recipient model + relationship history + access permission + network position + institutional affordance + internalized others**
 
 This is a guardrail against flattening, not a numerical scoring formula.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| theme ID | candidate_theme | source_id | support_or_counterevidence | characters/institution | story_state | legacy_origin | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| THEM-R86-WORK | Pay, recognition and return of affection | GKM-R86-01, 08 | Kotone explains money after debt repayment and Temari calls praise compensation | Kotone, Temari | D-KOTONE, M-TEMARI 021 | work/recognition | high for claims | shared economic wording can carry different motivations |
+| THEM-R86-HEIGHT | Distance in success and reciprocal assistance | GKM-R86-04, 05 | Kanae perceives separation after China's win, Rinami experiences and then receives a route onto the stage | China/Kanae, Rinami/Tsubame | Kanae 000, E028 | distributed care | high for observations | Misuzu's analogy is her own statement |
+| THEM-R86-STAGE | Competitive affection and audience orientation | GKM-R86-01–03, 06 | Sena revises assessment, Tsubame retains rivalry, Saki/Ume choose a work truce | competition and professional pedagogy | named D/P/E states | rivalry systems | high within tracks | crowd behavior imagined in D-KOTONE 035 has a different status from 036 fan address |

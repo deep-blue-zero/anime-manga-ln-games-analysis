@@ -8,7 +8,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.1 for the transcript refresh; Source L
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-11-12 — Source Lock 1.1 admission and delta accounting; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
+last_updated: "2026-11-12 — Source Lock 1.1 analysis, historical corrections and Carbon selection; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
@@ -17,7 +17,11 @@ last_updated: "2026-11-12 — Source Lock 1.1 admission and delta accounting; 20
 
 [Source Lock 1.1](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261112.md) admits the revision 86 Japanese ADV snapshot at 82412aa5029abd363e68aec145e36525cf9b6b06, with 3,949 raw objects and 100,847 extracted messages. The [per-object delta](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) records 172 additions, 13 byte revisions, 10 byte-identical moves and zero missing objects. [Source Lock 1.0](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md) remains the historical scope of the existing 1.0 readings and their receipts.
 
-The 1.1 source comparison is complete. Analysis of the additions and revisions is in progress. Existing phase completion statements describe their 1.0 boundary. The current textual operation is the authorized, bounded 1.0→1.1 delta reading and ledger reconciliation. The Rinha perceptual pass below remains the next audiovisual execution. The Gemini Carbon candidate selection and future perceptual execution have separate completion states.
+The bounded 1.1 textual refresh covers **172 new objects / 6,923 extracted messages**, compares all 13 revised resources and resolves the 10 moved locators. The [source-locator ledger](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12) partitions the new readings by scope. It links the three winter Dear continuations and Produce variants, Kanae's horizontal arc, 15 numbered-event parts, 42 support scripts, 45 idol communications, 13 branch-specific epilogues and two startup clips. The related core, evidence, story, relationship, institutional and AV ledgers carry dated 1.1 dispositions. Existing phase completion statements describe their original 1.0 boundary.
+
+The [historical-audit dispositions](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_HISTORICAL_AUDIT_DISPOSITIONS_20261112.md) record the six P1 findings and HSCA-046. The other 173 findings remain open. The [Rinha source crosswalk](06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md#source-lock-11--additional-rinha-witnesses) records 28 exact Rinha messages in three new 1.1 objects. Her 1.0 counts and perceptual gate retain their original scope. The source refresh record identifies the extraction omissions and the opaque revised music resource.
+
+**Next operation:** recover the retained Rinha recordings or verify matching editions, then execute the source-first [Gemini 4 Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The prioritized 35-row selection includes the inherited Rinha gate and the E001 request. New candidate recordings and exact offsets still need matching. Freeze the observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
 
 ## Current Rinha AV execution — RINHA-AV-20260911
 

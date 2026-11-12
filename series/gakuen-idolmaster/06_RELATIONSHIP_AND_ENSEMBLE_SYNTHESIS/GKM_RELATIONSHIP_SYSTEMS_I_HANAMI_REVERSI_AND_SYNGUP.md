@@ -1590,3 +1590,10 @@ Phase 6 also still requires:
 - `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`.
 
 No definitive Phase-7 character monograph should be promoted until Phase 6 is substantially complete, in accordance with architecture v2.4.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+- **Hanami and Lilja.** E030 gives Saki's explicit temporary truce with Ume and Lilja's performance-specific mediation. Ume's accepted performance uses a remembered appeal to Saki. The sisters still prefer to compete when possible. See [E030](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e030--lilja-leads-by-matching-different-performers-to-the-same-brief).
+- **REVERSI.** In M-SUMIKA 018 part 02, Sumika tells Temari the agreement is a pause while each follows a separate ambition. Temari respects it and voices her own challenge. In part 03 Sumika accepts her mother's support and wants to bring Lilja to Hokkaido. Keep the father's knowledge gap in scope. See [Sumika 018](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md#sumika-018--using-the-title-pausing-reversi-and-renewed-family-contact).
+- **SyngUp alumni.** Misuzu confirms Rinha's account of restored contact through one another's performances. Rinha pushes back against Temari's extension to their own history. E027 separately shows Temari and Misuzu sharing work and memories while Temari stays outside the student council. The scenes distinguish ongoing personal contact, mentorship and mutually acknowledged repair. See [Misuzu 018](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md#misuzu-018--relational-repair-and-rehearsal) and [E027](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e027--a-commercial-collaboration-across-a-membership-boundary).

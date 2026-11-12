@@ -2,6 +2,7 @@
 title: "Gakuen Idolmaster V2 — Tsukimura Temari Evidence and Falsification Matrix"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 claim-evidence-counterevidence matrix"
+artifact_type: evidence_falsification_matrix
 version: "2.0"
 phase: "3 — Character-Core Readings"
 character: "Tsukimura Temari / 月村手毬"
@@ -163,3 +164,13 @@ The most consequential possible corrections are:
 7. Future unit material may reunite SyngUp! in a transformed form, requiring the non-reunion thesis to become historical rather than final.
 
 Until those tests are complete, the main document should be read as a strong provisional model, not a closed interpretation.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_02_TSUKIMURA_TEMARI.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `TMR-R86-C01` | ADD to `TMR-C02` and §11 | Receiving praise becomes a professional task. `adv_cidol-ttmr-3-021_03.txt` L29–169. | C1 within Temari's first-round apparel communication. | Temari supplies a self-account and one attempt to practice. The scene leaves the durability of that change open. |
+| `TMR-R86-C02` | STRENGTHEN `TMR-S04` and ADD related evidence for `TMR-C05` | Repair allows distinct ways of working together. `adv_cidol-hmsz-3-018_01.txt` L73–180, L195–264 and `adv_cidol-hmsz-3-018_03.txt` L73–125 and `adv_event_027_main-01.txt` M007–020 and `adv_event_027_main-03.txt` M050–069. | Separate scoped cases. Post-repair café and pre-main-round rehearsal within Misuzu 018. C1 within E027 and C2 to the main tracks. | Rinha disputes the analogy and recalls additional events. The scripts leave the degree of shared agreement and the exact cross-source chronology open. |

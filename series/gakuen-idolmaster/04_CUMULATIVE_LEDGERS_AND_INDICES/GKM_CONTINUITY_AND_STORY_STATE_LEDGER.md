@@ -496,3 +496,17 @@ Final canonical support reading: `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READIN
 | C1 @ D-UME summer H.I.F. | Sena is announced as Prima Stella. Ume describes herself as the loser, and Saki calls their sibling result a draw. | `LOC-HSCA-002B` | These statements do not supply a ranked Saki placement or combine with the D-SAKI/U1 summer results. |
 | C3 @ U1, Episode 04 Part 04 | Saki's premonition is selected by `咲季さん` in a three-way choice. | `LOC-HSCA-046A` | The later U1 nightmare and H.I.F.-eve insomnia conversation are shared. |
 | C3 @ D-UME Dear 016 | The Producer compares compensation to potential 100 Pro employment only under `報酬が……`. | `LOC-HSCA-003C` | The comparison is a conditional negotiating line. |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| state ID | track | bounded state | principal evidence | continuity status | analytical use |
+| --- | --- | --- | --- | --- | --- |
+| GKM-R86-DK | D-KOTONE | defeated at summer H.I.F., later undefeated Selection, winter title and 037–037-01 aftermath | GKM-R86-01, GKM-R86-09 | C1 within track | keep final loss fragment and separate titles apart |
+| GKM-R86-DS | D-SENA | external Triple Crown precedes 100 Pro role approval and fourth winter crown | GKM-R86-02 | C1 within track | distinguishes office transfer, affiliation and continued challenge |
+| GKM-R86-DT | D-TSUBAME | summer second reported, wins winter, professional rivalry and Producer choice follow | GKM-R86-03 | C1 within track | compatible with E028's earlier festival evidence as a witness only |
+| GKM-R86-KANAE | Kanae 000 horizontal | China photo work → Hiroshima promise → council election → China winter win → winter break proposal | GKM-R86-04 | C1 internally | D-CHINA-compatible winning outcome, no broader merge |
+| GKM-R86-FEST | E028 | third-years' last festival follows summer H.I.F. and precedes September exam and winter H.I.F. | GKM-R86-05 | C1 internally with explicit anchors | participation and intent to take exam are distinct |
+| GKM-R86-CAMP | E027 → E030 | sports-drink first campaign precedes perfume second campaign | GKM-R86-05, GKM-R86-06 | C1 campaign order, C2 outside | tie-up personnel in M tracks do not override these participants |
+| GKM-R86-POST | M-MAO 018, M-CHINA 018, M-HIRO 022, M-SUMIKA 018 | four local post-win trajectories | GKM-R86-08 | C1 locally | scope contract offer, president-elect, retired performance and REVERSI pause to each outcome |
+| GKM-R86-EP | all thirteen Dear 037-01 | after the winning live in the matching Dear route | GKM-R86-09 | C1 within each D track | titles and prospective offers stay track-relative |

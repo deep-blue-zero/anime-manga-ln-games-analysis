@@ -61,3 +61,10 @@ The following high-load raw scripts were directly resolved in Drive and material
 - Dear 037 — Drive `1udaOha1boDXzAXu1EJS1OVdTcVtYbmFF`
 
 These are checks of raw script identity and text, not claims that the entire 204-object corpus was manually reread from A1 rather than through the audited complete bundle.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** the claim that Sumika keeps ballet-derived skill inside a different vocation. **EXTEND** the bounded post-win family state to an observed conversation with the mother. Preserve the father's knowledge gap and REVERSI's continuing relationship during a pause.
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md)

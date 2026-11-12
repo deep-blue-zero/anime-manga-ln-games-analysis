@@ -1277,3 +1277,10 @@ Later phases must determine whether the crown she opens can truly outgrow her.
 For now, the strongest bounded claim is:
 
 > **Juo Sena makes supremacy meaningful by making it contestable. Her route transforms the top from a lonely place one protects into a horizon one builds with enough force that other people can arrive, answer, refuse, rival and eventually exceed it.**
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In D-SENA, the 100 Pro president objects to Sena producing while active, then expressly accepts the dual vocation after her external Triple Crown (`adv_dear_jsna_028.txt` L428–530 and `_033.txt` L10–23). The reversal occurs before winter H.I.F. D-SENA 036 gives Sena a fourth title and an invitation for future holders to challenge her. P3-SENA final-failure names Kotone and preserves Sena's competitive intent after defeat. See the bounded 1.1 route for exact state and corroboration.
+
+[Source reading 1](GKM_SENA_TRANSCRIPT_REFRESH_20261112.md)

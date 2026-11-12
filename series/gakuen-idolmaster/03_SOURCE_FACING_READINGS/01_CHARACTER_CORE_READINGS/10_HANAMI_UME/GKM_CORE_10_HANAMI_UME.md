@@ -908,3 +908,10 @@ The most reliable Phase-3 thesis is therefore:
 That is why her late “world's strongest idol” language is not best read as simple domination.
 
 For Hanami Ume, the strongest idol is the one who can keep enough people running that nobody has to disappear over the horizon alone.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In Ume's fragrance campaign communication, Ume wants to borrow from her imagined future. Her Producer identifies composure already visible in competition. Ume then recasts `現実` with ruby `あたし` and `理想` with ruby `ライバル`, turning her actual self into a challenger to the Producer's ideal (`adv_cidol-hume-3-022_02.txt` L119–192; `_03.txt` L127–186). E030 separately gives a performance technique that depends on Ume imagining the familiar act of asking her sister for something (`adv_event_030_main-04.txt` M052–070; `main-05` M018–029).
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

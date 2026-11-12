@@ -190,3 +190,14 @@ P3 failure fragments are analytically valuable because they prove that separatio
 - Dear's summer/winter H.I.F. state must not be projected automatically into P1/P2 chronology where the source does not establish equivalence.
 - `クライアイ` can inform thematic/voice analysis across the character model but remains modular unless a stronger placement is established.
 
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| branch ID | track | source family | divergent states | invariant character evidence allowed | merge rule | confidence | note |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BR-R86-HIF-RESULT | D-KOTONE / D-SENA / D-TSUBAME and corresponding P3 | GKM-R86-01–03 | Dear 036 winners respectively Kotone, Sena, Tsubame. P3 final-failure names Sena, Kotone, Sena respectively | continued professional purpose and rivalry can be compared | preserve each winner in its track | high | Selection-failure and normal fragments give no later winner |
+| BR-R86-KOTONE-037 | D-KOTONE | `adv_dear_fktn_037.txt` L380–504 | `あります` and `ありません` produce distinct exchanges | Kotone's restriction on a verbal reply and continued collaboration | only common scenes may be claimed as branch-invariant | high | D031 first praise branch is empty |
+| BR-R86-MAO-HIRO | M-MAO 018 / M-HIRO 022 | GKM-R86-08 | Mao has one offered prompt before Producer pledge. The player, via the Producer, chooses whether Hiro recaps | common later work in each commu | keep gated words and recap framing visible | high | Hiro choice changes recollection presentation |
+| BR-R86-SCHOOL | P3 common lesson | GKM-R86-09 | each school lesson has three selection-dependent teacher answers | Asari treats different explanations as valid | preserve target-specific remarks and versioned ruby | high | Sena and Ume answers are different prompts |
+| BR-R86-CAMPAIGN | E027→E030 and M campaign witnesses | GKM-R86-05, 06, 08 | E027 sports-drink with Sena, Misuzu and Temari. M first-round apparel variants name local leads. E030 has Lilja lead perfume with the Hanamis, while M briefs distinguish local selection | students help create briefs and performances | compare structure with separate casting and facts | high | no presumed reconciliation of sponsor, slot or casting |

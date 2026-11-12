@@ -1352,3 +1352,20 @@ Physical A1 line numbers are for the checksum-verified Source Lock 1.0 snapshot.
 | `LOC-HSCA-006C` | Sumika reuses the misunderstanding | `adv_event_004_main-01.txt` | `transcripts_raw/06_story_events/event_004/main-01.txt` | C1 within E004, C2 relative to Produce | 76–113, 269–292 | `また脅す気` / `誤解` |
 | `LOC-HSCA-006D` | Temari still calls Lilja courageous and accepts her invitation | `adv_event_004_main-05.txt` | `transcripts_raw/06_story_events/event_004/main-05.txt` | C1 within E004, C2 relative to Produce | 68–80, 391–445 | `度胸` / `私が行きたい` |
 | `LOC-HSCA-046A` | Saki's premonition occurs only under the third option | `adv_unit_01-04_04.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_04.txt` | C3 @ U1, `咲季さん` choice | 225–227, 462, 575, 676–681 | `妹に、一度でも負けちゃったら` |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Use the reading's A1 locator with the [versioned archive-relative path and SHA-256](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv). M denotes one-based message-command order where indicated and L a physical line. The partition counts each new A1 object once.
+
+| evidence group | retrieval | coverage |
+| --- | --- | --- |
+| GKM-R86-01 | [Kotone Dear and Produce variants](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/03_FUJITA_KOTONE/GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md) | 17 new, 976 messages |
+| GKM-R86-02 | [Sena Dear, Produce and communications](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_SENA_TRANSCRIPT_REFRESH_20261112.md) | 28 new, 1,306 messages, plus Dear 025 staging revision |
+| GKM-R86-03 | [Tsubame Dear, Produce and communications](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md) | 20 new, 954 messages, plus Dear 020 and 022 staging revisions |
+| GKM-R86-04 | [Kanae 000 horizontal arc](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_KANAE_CHINA_DEAR_000_READING.md) | 5 new, 326 messages |
+| GKM-R86-05 | [Events 027 and 028](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md) | 10 new, 607 messages |
+| GKM-R86-06 | [Event 030](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md) | 5 new, 342 messages |
+| GKM-R86-07 | [Support and seasonal startup](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md) | 44 new, 845 messages, plus support 3-0063 part 03 |
+| GKM-R86-08 | [Eleven remaining new communication episodes](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md) | 33 new, 1,347 messages, plus Rinami 018 and Saki 015 revisions |
+| GKM-R86-09 | [Remaining Dear epilogues and common A1 changes](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) | 10 new, 220 messages, with three overlap epilogues already counted above, and seven technical comparisons |

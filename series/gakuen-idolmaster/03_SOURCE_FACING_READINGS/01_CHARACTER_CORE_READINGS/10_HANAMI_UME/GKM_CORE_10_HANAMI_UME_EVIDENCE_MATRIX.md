@@ -72,3 +72,10 @@ High-load raw scripts were directly materialized from the raw-source Drive layer
 - Dear 037 — Drive `1tr9gsISgsav6K7U4myu4ah0vK8yG6uJ9` — SHA-256 `76c90c980450fb214d0d4cbd0880cb1e2a2dcf2e1944327d844dcb8bc97c055a`
 
 These are spot checks of raw script identity and wording, not a claim that all 204 objects were manually reread from A1 instead of the audited bundle layer.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** the account of renewable rivalry with an internal comparison and an individualized acting tactic. In E030 the sisters' temporary professional cooperation has an explicit limit. The preferred 100 Pro destination in D-UME and the campaign scenes have separate evidence and continuity.
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

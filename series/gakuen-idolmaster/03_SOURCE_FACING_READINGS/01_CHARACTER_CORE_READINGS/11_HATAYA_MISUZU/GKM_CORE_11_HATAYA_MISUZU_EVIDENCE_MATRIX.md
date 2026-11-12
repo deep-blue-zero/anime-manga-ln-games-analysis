@@ -67,3 +67,10 @@ This matrix is subordinate to `GKM_CORE_11_HATAYA_MISUZU.md`. It keeps high-load
 ## Historical cross-track qualification — HSCA-001
 
 **MISUZU-C26 and MISUZU-C45 — STRENGTHEN (C1 @ U1).** In `adv_unit_01-04_20.txt` (A1 681–694), Misuzu privately understands her all-out exertion as access to Temari's world. In `adv_unit_01-04_22.txt` (542–823) she cries, vows not to sprint again and commits to 「徒歩で勝ちますね」. Both affect protection after defeat and teasing self-reassertion remain plausible functions. This is a separate episode from D-MISUZU Dear 022 and 032. See Relationship Systems I §5.9.1 and `LOC-HSCA-001C`–`001D`.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** MISUZU-C26 and MISUZU-C45 with deliberate rehearsal and permission to rest after effort. **STRENGTHEN** the scoped repair reading with Misuzu's own confirmation and keep Rinha's qualification separately attributed. The café recollection, E027 cooperation and U1 competitive aftermath have distinct continuity.
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

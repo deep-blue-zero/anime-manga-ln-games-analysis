@@ -1739,3 +1739,10 @@ The Rinha branch remains a hard precondition for final Temari/Misuzu monographs.
 
 **Next canonical operation:** `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`.
 
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**Winter successors.** In D-KOTONE, Tsubame acknowledges Kotone's audience-facing form of competition and accepts her Selection defeat. Sena's winter loss and their move toward reciprocal informal address add friendship to their rivalry. In D-SENA, Sena keeps her title and Kotone presents the award after losing. In D-TSUBAME, Tsubame wins and asks Sena to chase her. The results are mutually exclusive, while the possibility of long-term professional rivalry survives in each. See [Kotone](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/03_FUJITA_KOTONE/GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md), [Sena](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_SENA_TRANSCRIPT_REFRESH_20261112.md) and [Tsubame](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md).
+
+**Senior peer facilitation.** In E028, Tsubame uses her access to open a stage opportunity for Rinami, affirms that the decision is Rinami's and later calls her a prospective rival. In D-TSUBAME 031 Rinami credits Tsubame’s festival backing. This is a separate retrospective witness. D-SENA 031 independently gives Rinami and Mao an explicit continuing challenge to Sena and Tsubame. These sources develop the distribution of agency within the cohort. See [E028](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md#e028--rinamis-career-choice-and-the-school-festival-as-a-bridge-to-professional-work).

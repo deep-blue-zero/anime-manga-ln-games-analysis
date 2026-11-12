@@ -1056,3 +1056,10 @@ Sumika has become capable of doing for another person what idols once did for he
 The remaining challenge is whether that authored expectation can stay hers when the audience becomes larger, the title becomes heavier, the Producer becomes more indispensable, and REVERSI's two members continue becoming people with dreams that no longer perfectly coincide.
 
 That is the correct handoff from Phase 3 into AV verification, later Lilja/Sumika comparative synthesis, events/support-card ecology, and ultimately the Phase-7 monograph.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In the Sumika-winning post-H.I.F. communication state, Sumika distinguishes REVERSI's `休止` from `解散` while Temari respects their decision and names her own rival aim (`adv_cidol-ssmk-3-018_02.txt` L24–165). Sumika's mother says the live helped her understand Sumika's motives. Sumika names the value of ballet training for her idol work and accepts her mother's support. The father's misunderstanding remains open (`_03.txt` L139–335).
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md)

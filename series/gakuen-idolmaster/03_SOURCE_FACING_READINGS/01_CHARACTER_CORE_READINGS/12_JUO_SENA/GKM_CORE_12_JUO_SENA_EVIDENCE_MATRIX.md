@@ -80,3 +80,10 @@ This matrix is subordinate to `GKM_CORE_12_JUO_SENA.md`. It keeps high-load Phas
 ## Matrix use rule
 
 Claims labeled **TEXT / AV PENDING** may guide acquisition but must not be converted into acoustic, choreographic or visual findings until the relevant source has been directly inspected. Claims labeled **RECIPIENT SIDE OPEN** must be retested in the relevant character, event, support-card and relationship phases rather than repeated as settled truths from Sena's route alone.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** SENA-C19, C29, C35, C42 and C56 with the 100 Pro concession and costs of the dual role. **STRENGTHEN** C43–C44 with the branch-specific distinction between transferring office and remaining a challenger. **OPEN** the long-term consequences of the raised standard for later pupils.
+
+[Source reading 1](GKM_SENA_TRANSCRIPT_REFRESH_20261112.md)

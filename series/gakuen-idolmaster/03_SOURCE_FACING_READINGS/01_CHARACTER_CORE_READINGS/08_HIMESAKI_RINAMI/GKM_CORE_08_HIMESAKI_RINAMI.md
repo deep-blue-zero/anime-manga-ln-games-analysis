@@ -982,3 +982,38 @@ Recommended routing:
 - Sumika extraction / source-family segmentation / continuity / locator construction / bounded first draft: **GPT-5.6 Sol — Extra High**.
 - later integrated Lilja + Sumika + REVERSI synthesis: **GPT-5.6 Pro — Pro reasoning preferred**.
 - Rinami integrated AV synthesis, once the requested media exist: **GPT-5.6 Pro — Pro reasoning preferred**, because romance, intimacy, mature-vs-cute register, “effortless” public warmth, technical love, and competitive stage intensity all require cross-modal reconciliation.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_08_HIMESAKI_RINAMI_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Rinami makes a career decision through the work she has already done
+
+At her last school festival, Rinami tells Tsubame she doubts whether she has the qualifications to call herself a real idol. Tsubame cites Rinami's sustained work and asks what she wants now. Sena announces a walk-on contest and Tsubame encourages Rinami to enter. Rinami decides to perform and later says she will take the September professional exam. `adv_event_028_main-03.txt` M053–078, `adv_event_028_main-04.txt` M074–077 and `adv_event_028_main-05.txt` M030–078. [Numbered-event reading](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md).
+
+Rinami treats three years of acting as an idol as evidence about what she wants. Tsubame and Sena help make performance possible. Rinami supplies the decision, and Tsubame begins treating Rinami as a prospective rival. The source establishes an intention to sit the exam and supplies no exam or hiring result. It leaves the division of planning between Tsubame and Sena open.
+
+**Scope.** C1 within E028 after summer H.I.F. and before September intake. Exact main-route placement remains open.
+
+**Claim disposition.** `RINAMI-R86-C01` — ADD to `RINAMI-C28` and STRENGTHEN the vocational strand of `RINAMI-C30`.
+
+### Rinami teaches a professional craft and receives a peer's answer
+
+During the beach shoot, Temari realizes that her precise description has left out her immediate enjoyment. Rinami models a reaction directed to the viewer and Temari follows it. Afterward, Rinami recalls that her former unit partners quit and asks Temari about quitting. Temari gives her own answer, `でも、アイドル、好きだから`, and asks Rinami whether she feels the same. Rinami agrees. `adv_csprt-3-0106_01.txt` L76–152, `adv_csprt-3-0106_02.txt` L110–164 and `adv_csprt-3-0106_03.txt` L93–159. [Support-card reading](../../03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md).
+
+Rinami has a learned reporting method she can teach. The person Rinami helps with the assignment then offers language for Rinami's uncertainty about remaining an idol. Temari's description of her cool image and Rinami's own memories remain perspective-specific. The pauses and delivery need AV inspection.
+
+**Scope.** C1 within the festival advance shoot and C4 against the main tracks. The former unit is recalled.
+
+**Claim disposition.** `RINAMI-R86-C02` — STRENGTHEN `RINAMI-C28`.
+
+### Rinami appears as a guest in the RippleSign interview
+
+The updated Producer line thanks Rinami for `ゲスト出演`. The previous wording was `パーソナリティ`. At the opening `優` introduces Rinami and Mao as the two guests. Rinami still explains choosing Mao out of longstanding trust. `adv_cidol-hrnm-3-018_03.txt` L8–50, L76–127, L291. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+The revision makes this job an appearance on an interviewer's program. Rinami's testimony about peer collaboration continues to support the RippleSign reading. This change is scoped to one broadcast. Other Rinami reporting and presenter jobs require their own sources.
+
+**Scope.** Revision 86 reading of Rinami's duo-contest web special.
+
+**Claim disposition.** `RINAMI-R86-C03` — NARROW the occupational attribution for this source. CONFIRM the existing `RINAMI-C28` basis.

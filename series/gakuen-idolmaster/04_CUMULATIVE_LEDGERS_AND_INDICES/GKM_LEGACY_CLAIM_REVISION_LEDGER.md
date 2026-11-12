@@ -313,3 +313,15 @@ All evidence is Source Lock 1.0. [Finding dispositions and correction homes](../
 | HSCA-005 / SUMIKA-C07 | REVISE | Lilja rejects the promise framing, hesitates over the old-prodigy charge, and acknowledges a part in the hurt. The weight of prodigy expectation remains open. | `LOC-HSCA-005A` |
 | HSCA-006 / E001–005 reading §§6.7, 9.1 | REVISE | Retain Lilja's convincing argument and distinguish Sumika's imitation, Temari's attribution and Lilja's disavowal. Delivery remains open. | `LOC-HSCA-006A`–`006D` |
 | HSCA-046 / SAKI-L058, SAKI-C31 | REVISE | Scope the `04_04` premonition to its C3 choice. The shared U1 nightmare and insomnia passages still support the fear structure. | `LOC-HSCA-046A` |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| current proposition | disposition | reason | evidence route |
+| --- | --- | --- | --- |
+| Kotone's work combines money, fan attention and reciprocal effort | STRENGTHEN | D-KOTONE reports financial relief, stronger love of earning and public thanks | GKM-R86-01 |
+| Any character-wide winter result stated outside its track | REVISE | three Dear and three conditional P3 variants have distinct winners | GKM-R86-01–03 and BR-R86-HIF-RESULT |
+| Sena's dual role as an effective but institutionally contested practice | STRENGTHEN | objection and reversal after external competition, before the school result | GKM-R86-02 |
+| Temari–Misuzu repair and unchanged unit identity | STRENGTHEN | café recognition adds an independent participant account and leaves Rinha's disagreement attributed | GKM-R86-08 |
+| Rinami as a web-program personality in the revised 018 scene | REVISE | 1.1 A1 changes the Producer's line to `ゲスト出演` and keeps Yu as announcer | GKM-R86-08 |
+| Kanae's same-height aspiration or idol debut as an accomplished career transition | OPEN | arc gives first-hand learning aim and a proposal cliffhanger | GKM-R86-04 |
