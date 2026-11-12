@@ -170,7 +170,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 
 #### Assessment `tomozaki-hinami-ln-v12-model-20261111-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `tomozaki:hinami`
 - Scope: continuity `tomozaki-light-novel`
 - Source boundary: Only the three reviewed items curated on tomozaki:hinami@light-novel at basis\_commit, each read: \#reviewed-character-monograph, the canonical Hinami Aoi character monograph \(generation V12\_REVIEWED\_HINAMI, maturity MATURE\_LOCAL\_LITERARY\_ROLE, independent review pass, V12 band accepted 2026-10-23\), covering the locked Japanese main V01-V12 with story-locally routed V06.5/V08.5, read in full; \#bounded-reconstruction-model, the canonical V2 derived-use model \(root construction admission MR-P02, root-accepted 2026-11-03\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from that monograph \(its bound SHA-256 d296e418... matches the monograph blob at the basis\) and is not used as literary evidence, read in full; and \#reviewed-shared-synthesis, the effort, competition and goal-ownership ledger, read for its Hinami sections and hypothesis dispositions \(sections 3.3, 5, 10, 15, 25.1, 29, 31.1, 46, 53, 60, 67, 71-74, 78, 81-84\), with its curated discovery coverage limited to V01-V02 specialist analysis. The project's current-state entrypoint was read for gate state only. The integration reviews, model evidence and review packet, readings, claim index, character-state, relationship, social and voice ledgers to which these items route are not curated on this subject and are not evidence here. Kikuchi's Alcia and the V12 story-speech are fiction, other characters' accounts of Hinami are their accounts, and the V11 mixed-person retrospective and V12 first-person chapter are reader access rather than knowledge held by other characters. No adaptation, performed voice, reception or post-V12 material is in scope.
@@ -178,7 +178,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Basis commit: `870de40b0e25fbead978613f8389e8678ff63ee3`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `3ba2dafedec8e96bd5b4dafe7f9220fa89912e5b4d041ddf9c69ffb409ba5824`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `CROSS_SCENARIO` condition: One named phase selector from A\_CHILD\_SIBLING\_PLAY to A12\_LATER\_AND\_PUBLIC with that phase's actor-known information; capacities from different phases are not combined, and the V11 withdrawal state is not silently reused after V12.
   - `CROSS_SCENARIO` condition: Only the model's admitted domain: familiar teaching of a willing learner, competition and shared play, supported public-recipient calibration, particular attachment and refusal, and tightly bounded withdrawal or post-reading interpretation.
@@ -215,6 +215,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:hinami@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/07%20Character%20Reconstruction%20Models/HINAMI_AOI_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`tomozaki:hinami@light-novel#reviewed-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/04%20Character%20Analysis/Hinami%20Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md)
   - [`tomozaki:hinami@light-novel#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+- Stale reason: reconstruction\_status.py currentness at main 4d83b32a8ef03b3e109e261b32151b737f58fdf3 reports EFFECTIVELY\_STALE with reason SUBJECT\_COVERAGE\_CHANGED: discovery commit 24ca9e5b \(PR \#547\) widened the reviewed-foundation-corpus coverage scope for tomozaki:hinami@light-novel\#reviewed-shared-synthesis from V01-V02 to Japanese V12 \(effort ledger generation V1.7\), so this assessment no longer reflects the subject's curated coverage. Evidence bytes and membership are unchanged.
 
 ### Subject `tomozaki:izumi-yuzu@light-novel`
 
@@ -396,7 +397,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 
 #### Assessment `tomozaki-mimimi-ln-v12-model-20261111-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `tomozaki:mimimi`
 - Scope: continuity `tomozaki-light-novel`
 - Source boundary: Only the three reviewed items curated on tomozaki:mimimi@light-novel at basis\_commit, each read: \#reviewed-character-monograph, the canonical Nanami Minami \(Mimimi\) character monograph \(generation V12\_REVIEWED\_MIMIMI, maturity MATURE\_LOCAL\_LITERARY\_ROLE, independent review pass 2026-10-23\), covering the locked Japanese main V01-V12 with story-locally routed V06.5/V08.5, read in full; \#bounded-reconstruction-model, the canonical V2 derived-use model \(root construction admission MR-P03\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from that monograph and is not used as literary evidence, read in full; and \#reviewed-shared-synthesis, the effort, competition and goal-ownership ledger, read for its Mimimi sections and hypothesis dispositions, with its curated discovery coverage limited to V01-V02 specialist analysis. The project's current-state entrypoint was read for gate state only. The integration reviews, evidence packet, readings, character-state, relationship and voice ledgers and dyad specialists to which these items route are not curated on this subject and are not evidence here. Hinami's private view of her and Nana's fictional speech are evidence of Hinami's model and Kikuchi's composition, not of Mimimi's state. No adaptation, performed voice, reception or post-V12 material is in scope.
@@ -404,7 +405,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Basis commit: `870de40b0e25fbead978613f8389e8678ff63ee3`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `6feb9b5373313dc6307c71aff2a03b436d11db21d1404752f3a1a39e524114c4`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `CROSS_SCENARIO` condition: One named state selector NM-S1 to NM-S13 with that state's actor-known information; domains are selected separately rather than advancing every dimension together; no post-V12 state.
   - `CROSS_SCENARIO` condition: Only the model's admitted domain: familiar peer and friend interaction, ordinary leisure and sensory practice, bounded competition, the witnessed love and non-selection states, selected novice public work and V12 contribution or critique.
@@ -436,6 +437,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:mimimi@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/07%20Character%20Reconstruction%20Models/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`tomozaki:mimimi@light-novel#reviewed-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md)
   - [`tomozaki:mimimi@light-novel#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+- Stale reason: reconstruction\_status.py currentness at main 4d83b32a8ef03b3e109e261b32151b737f58fdf3 reports EFFECTIVELY\_STALE with reason SUBJECT\_COVERAGE\_CHANGED: discovery commit 24ca9e5b \(PR \#547\) widened the reviewed-foundation-corpus coverage scope for tomozaki:mimimi@light-novel\#reviewed-shared-synthesis from V01-V02 to Japanese V12 \(effort ledger generation V1.7\), so this assessment no longer reflects the subject's curated coverage. Evidence bytes and membership are unchanged.
 
 ### Subject `tomozaki:mizusawa-takahiro@light-novel`
 
@@ -710,7 +712,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 
 #### Assessment `tomozaki-tomozaki-ln-v12-model-20261112-01`
 
-- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Recorded status: `STALE` — historical record; not current readiness
 - Entity: `tomozaki:tomozaki`
 - Scope: continuity `tomozaki-light-novel`
 - Source boundary: Only the three reviewed items curated on tomozaki:tomozaki@light-novel at basis\_commit, each read: \#reviewed-character-monograph, the canonical Tomozaki Fumiya character monograph \(generation V12\_REVIEWED\_FUMIYA, maturity MATURE\_LOCAL\_LITERARY\_ROLE, independent review pass, V12 band accepted 2026-10-23\), covering the locked Japanese main V01-V12 with story-locally routed V06.5/V08.5, read in full; \#bounded-reconstruction-model, the canonical V1 derived-use model \(root construction admission MR-P01, root-accepted 2026-11-03\), marked do\_not\_use\_as\_primary\_literary\_authority, which derives from that monograph \(its bound SHA-256 1be90778... matches the monograph blob at the basis\) and is not used as literary evidence, read in full; and \#reviewed-shared-synthesis, the effort, competition and goal-ownership ledger, read for its Tomozaki sections and hypothesis dispositions \(sections 1-4, 6.4, 8-9, 12.4, 13, 15-16, 22, 28, 31.5, 36, 38, 43-45, 47, 56-59, 64-67, 71-72, 74-75, 77-78, 79-84\), with its curated discovery coverage limited to V01-V02 specialist analysis. The project's current-state entrypoint was read for gate state only. The integration reviews, model evidence and review packet, readings, claim index, character-state, relationship, social and voice ledgers to which these items route are not curated on this subject and are not evidence here. Fumiya's first-person narration is not what listeners heard, other characters' accounts of him are their accounts, Kikuchi's fiction is authored modeling, and the V11 mixed-person retrospective and Hinami's V12 first-person chapter are reader access rather than his knowledge. No adaptation, performed voice, reception, parallel or VR bonus material, or post-V12 material is in scope.
@@ -718,7 +720,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
 - Basis commit: `870de40b0e25fbead978613f8389e8678ff63ee3`
 - Evidence set: `CHARACTER_EVIDENCE_SET_V1` `4c9ce043b77e669034764d6ec95187093c9d263c58f19085a21e61cf03df1988`
 - Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit; evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.0.0`)
-- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Overall tier: historical `C` — specialist-supported interpretation without unconstrained simulation support
 - Scenario readiness: `DIALOGUE` NOT_READY; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
   - `CROSS_SCENARIO` condition: One named selector from F01\_GAME\_EXPERT\_SOCIAL\_NOVICE to F12\_PUBLIC\_PURPOSE with that phase's actor-known information; capacities and knowledge from different phases are not combined, and the V11 acute aftermath and later repair proposal are not merged.
   - `CROSS_SCENARIO` condition: Only the model's admitted domain: finite learning and teaching, competition and game work, familiar collaboration, ordinary company and represented relationship or intervention decisions with a named recipient and permission holder.
@@ -760,6 +762,7 @@ Recorded assessments of subjects in the `tomozaki` namespace of the [Character R
   - [`tomozaki:tomozaki@light-novel#bounded-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/07%20Character%20Reconstruction%20Models/TOMOZAKI_FUMIYA_BOUNDED_RECONSTRUCTION_MODEL.md)
   - [`tomozaki:tomozaki@light-novel#reviewed-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md)
   - [`tomozaki:tomozaki@light-novel#reviewed-shared-synthesis`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/870de40b0e25fbead978613f8389e8678ff63ee3/series/tomozaki/03%20Longitudinal%20Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md)
+- Stale reason: reconstruction\_status.py currentness at main 4d83b32a8ef03b3e109e261b32151b737f58fdf3 reports EFFECTIVELY\_STALE with reason SUBJECT\_COVERAGE\_CHANGED: discovery commit 24ca9e5b \(PR \#547\) widened the reviewed-foundation-corpus coverage scope for tomozaki:tomozaki@light-novel\#reviewed-shared-synthesis from V01-V02 to Japanese V12 \(effort ledger generation V1.7\), so this assessment no longer reflects the subject's curated coverage. Evidence bytes and membership are unchanged.
 
 ### Subject `tomozaki:umayahara-mitsu@light-novel`
 
