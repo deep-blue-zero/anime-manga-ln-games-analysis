@@ -2,6 +2,7 @@
 title: "Gakuen Idolmaster V2 — Tsukimura Temari Character-Core Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "Phase-3 provisional character-core reading"
+artifact_type: source_facing_character_core
 version: "2.0"
 phase: "3 — Character-Core Readings"
 character: "Tsukimura Temari / 月村手毬"
@@ -1666,3 +1667,28 @@ The provisional V2 conclusion is therefore:
 > **Temari does not become authentic by taking off the mask. She becomes authentic by learning which masks she chose, which were imposed, which relationships may hold them, and what truth each performance can carry. Her artificial wings matter because they are built—and because, once built, they permit a girl who could not love herself at rest to create a self capable of singing above the sun.**
 
 That achievement is real. Whether it can become a life rather than an endlessly accelerating performance remains one of the central questions the later event, support-card, Misuzu, Rinha, and audiovisual passes must answer.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_02_TSUKIMURA_TEMARI_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Receiving praise becomes a professional task
+
+After the apparel shoot, Temari says she felt brusque toward the crew and has trouble receiving praise of her appearance. She relates the problem to an older appearance complex and to typically receiving praise alongside Misuzu and Rinha. The Producer asks her to accept the approval. Temari calls it `報酬` and asks him to praise her. `adv_cidol-ttmr-3-021_03.txt` L29–169. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+Temari can name her confidence in the appearance she has trained and her difficulty experiencing praise as personal recognition. Calling praise compensation makes receiving it part of her work, and her request turns that principle into a practice. Temari supplies a self-account and one attempt to practice. The scene leaves the durability of that change open.
+
+**Scope.** C1 within Temari's first-round apparel communication.
+
+**Claim disposition.** `TMR-R86-C01` — ADD to `TMR-C02` and §11.
+
+### Repair allows distinct ways of working together
+
+Rinha asks how Temari and Misuzu reconciled. Temari defers to Misuzu on the account, later compares Rinha's renewed contact to theirs, and hears Rinha contest the analogy. During rehearsal, Temari explains that she struggles to offer the praise an outside observer can give because the work is hers too. In E027, Temari separately declines council membership, joins Sena and Misuzu's campaign, and thanks Misuzu for conditioning help. `adv_cidol-hmsz-3-018_01.txt` L73–180, L195–264 and `adv_cidol-hmsz-3-018_03.txt` L73–125 and `adv_event_027_main-01.txt` M007–020 and `adv_event_027_main-03.txt` M050–069. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md), [Numbered-event reading](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md).
+
+Temari makes room for Misuzu's account of repair and can distinguish the support of a peer from an evaluator's recognition. E027 supplies an independent case in which work and reciprocal care continue across a membership boundary. Rinha disputes the analogy and recalls additional events. The scripts leave the degree of shared agreement and the exact cross-source chronology open.
+
+**Scope.** Separate scoped cases. Post-repair café and pre-main-round rehearsal within Misuzu 018. C1 within E027 and C2 to the main tracks.
+
+**Claim disposition.** `TMR-R86-C02` — STRENGTHEN `TMR-S04` and ADD related evidence for `TMR-C05`.
