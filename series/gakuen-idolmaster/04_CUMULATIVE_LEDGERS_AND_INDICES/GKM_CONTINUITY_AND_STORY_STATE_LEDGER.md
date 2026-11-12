@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.2"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-15 - Phase 3 Shiun Sumika textual core pass"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 status: "active; cumulative through Phase 3 Shiun Sumika textual core pass"
 ---
 
@@ -488,3 +488,11 @@ Final canonical support reading: `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READIN
 - `story_0104` - H.I.F. context with Sena seeking a fourth consecutive First Star title.
 
 **Phase 5 is COMPLETE under GAKUMAS V2 Source Lock 1.0.** Support-story numbering remains a routing/identity system and is not promoted into one linear chronology.
+
+## Historical source corrections — 2026-11-12
+
+| Story state | Admitted observation | A1 route | Scope condition |
+| --- | --- | --- | --- |
+| C1 @ D-UME summer H.I.F. | Sena is announced as Prima Stella. Ume describes herself as the loser, and Saki calls their sibling result a draw. | `LOC-HSCA-002B` | These statements do not supply a ranked Saki placement or combine with the D-SAKI/U1 summer results. |
+| C3 @ U1, Episode 04 Part 04 | Saki's premonition is selected by `咲季さん` in a three-way choice. | `LOC-HSCA-046A` | The later U1 nightmare and H.I.F.-eve insomnia conversation are shared. |
+| C3 @ D-UME Dear 016 | The Producer compares compensation to potential 100 Pro employment only under `報酬が……`. | `LOC-HSCA-003C` | The comparison is a conditional negotiating line. |

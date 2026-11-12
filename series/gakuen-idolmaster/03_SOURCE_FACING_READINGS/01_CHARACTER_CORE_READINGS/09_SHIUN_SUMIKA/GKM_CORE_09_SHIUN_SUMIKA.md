@@ -16,7 +16,7 @@ continuity_tracks:
 - D-SUMIKA
 - M-SUMIKA
 reasoning_route: GPT-5.6 Sol — Extra High
-last_updated: '2026-08-15'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 09 — SHIUN SUMIKA / 紫雲清夏
@@ -337,9 +337,7 @@ It is that **Sumika converts Lilja's faith into an obligation to remain the stro
 
 Dear 014 brings this to crisis. Sumika tells Lilja that the person she believes in is not present-day Sumika but the old `神童`. That statement must not be frozen as objective relationship truth. It is Sumika's fear.
 
-Lilja rejects the interpretation.
-
-The independent Lilja Phase-3 pass strengthens that rejection: Lilja's mature attachment increasingly concerns Sumika as a changing current person, and the relationship itself becomes healthier through differentiation.
+**Correction — HSCA-005, 2026-11-12 (REVISE).** In `adv_dear_ssmk_014.txt` (C1 @ D-SUMIKA; A1 406–458), Lilja's 「違う……！」 rejects the promise as the object of her belief. Sumika raises the old-prodigy charge next. Lilja hesitates, says 「清夏ちゃんはもっと、すごくて――」 and breaks off. In the later apology Lilja acknowledges a part in Sumika's hurt (540–586). The scene supports a real mismatch in expectations while leaving open how much Lilja's belief attached to the old prodigy. Lilja's work to clear Sumika's name and Sumika's decision to rely on her show present-person attachment (619–699). The separate D-LILJA evidence supports the mature relationship with a changing Sumika. See `SUMIKA-C07` and Relationship Systems I §4.2.
 
 Sumika and Lilja's reconciliation is therefore not:
 
@@ -969,7 +967,7 @@ The later synthesis should preserve both descriptions.
 | ballet is the lost civilization of the self | **STRENGTHEN / NARROW** | lost future is central, but ballet also survives as reusable embodied craft rather than only ruin |
 | beautiful lie becomes truth | **STRENGTHEN** | Dear 008 + CIDOL 012 + Dear 031 explicitly support chosen performance becoming authored truth |
 | Producer prevents fantasy from consuming real girl | **STRENGTHEN / OPEN** | he enables authorship, but attachment becomes intense enough that enclosure/dependence remains unresolved |
-| Lilja trusts the old prodigy rather than current Sumika | **REVISE** | this is Sumika's fear; Lilja rejects it, and Lilja's independent V2 route supports current-person belief |
+| Lilja trusts the old prodigy rather than current Sumika | **REVISE** | the charge registers real pressure; Lilja rejects the promise framing, hesitates at the prodigy charge, and acts for present-day Sumika. D-LILJA supplies separately scoped corroboration |
 | REVERSI = inseparable two halves | **REVISE** | fusion is an intermediate description; mature relationship becomes companion+rival with separable future dreams |
 | public trauma confession integrates truth and fantasy | **STRENGTHEN** | disclosure becomes a vocational promise rather than exposure for its own sake |
 | `不真面目` persona is gradually discarded | **REJECT** if stated strongly | playfulness remains genuine and valuable; what changes is its use as escape from stakes |

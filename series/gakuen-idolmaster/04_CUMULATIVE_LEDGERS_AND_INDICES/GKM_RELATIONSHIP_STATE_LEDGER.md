@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.15"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-07 — U1 Saki ↔ Ume Episode 04 states appended (nightmare/insomnia correction); RINHA-AV-20260911 state unchanged"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections; RINHA-AV-20260911 remains open"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
@@ -171,7 +171,7 @@ No substantive entries are asserted at Phase 0. The schema is intentionally init
 | relationship | phase/state | current model | tension / asymmetry | confidence | later test |
 | --- | --- | --- | --- | --- | --- |
 | Sumika <-> Lilja | childhood / entry | best friend whose shared idol promise helps Sumika move after ballet fracture | Lilja's trust becomes heavy because Sumika converts it into obligation | very high | bilateral REVERSI synthesis |
-| Sumika <-> Lilja | concealment crisis | protector/strong-friend model fails when Sumika hides weakness | Sumika claims Lilja believes only old prodigy; Lilja rejects this | very high | integrate Lilja V2 directly rather than choosing one account |
+| Sumika <-> Lilja | concealment crisis | protector/strong-friend model fails when Sumika hides weakness | Lilja rejects trusting the promise, hesitates at the separate prodigy charge and acknowledges her part in the pressure (HSCA-005) | very high | integrate Lilja V2 directly rather than choosing one account |
 | Sumika <-> Lilja | mature REVERSI | mutual support -> companion + rival; separate wants/dreams become legitimate | unit/fusion language can obscure differentiation | very high | Pro-level REVERSI synthesis + AV blocking/vocals |
 | Sumika <-> Producer | early | persistent witness who does not demand shallow anti-avoidance; makes weakness survivable | evaluator becomes privileged emotional refuge | very high | meaningful refusal / alternative support |
 | Sumika <-> Producer | chosen fantasy | coauthor of `強いあたし`; supports performed ideal while warning against self-loss | strong interpretive influence | very high | Phase 7 governance |
@@ -332,7 +332,7 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 |---|---|---|---|
 | Saki ↔ Temari | E001 | antagonistic comparison becomes competitive recognition; Saki names intimacy faster than Temari does | high |
 | Sumika ↔ Lilja | E001/E004 | secure attachment permits Lilja's independent social expansion; jealousy is felt but not enacted as enclosure | high |
-| Lilja ↔ Temari | E001/E004 | quiet conviction earns respect despite persistent temperamental distance | high |
+| Lilja ↔ Temari | E001/E004 | genuine conviction earns respect; Sumika's dub gives Lilja attributed leverage she disavows (HSCA-006) | high |
 | Saki ↔ Lilja | E004 | competitive curiosity becomes mentorship and reciprocal rivalry | very high |
 | Saki ↔ Kotone | E001/E004 | practical care plus teasing horizontal correction | high |
 | Class 1-1 collective | E001/E004 | negotiated competitive federation; cooperation does not require harmony or shared self-description as friends | very high |
@@ -772,3 +772,13 @@ Authority: `GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md` §3.5.1 and
 | Ume, Saki absent | U1 Begrazia scenes | `04_14`; `04_19`; `04_23` | Ume with Sena and Misuzu | — | beating Saki is a fulfilled dream; Ume loves idolhood and Begrazia; she announces a new dream and asks Sena to become top idols together | C1 @ U1 | high | confirms the nightmare’s premise of de-totalization; in `04_19` Ume names Saki among the people who should watch the new dream begin |
 | Saki ↔ Ume | U1 H.I.F. pre-stage confession | `04_18` | Saki discloses the flaws she hid; Ume says she always knew and loves her for them; both accept the contest | Ume’s regard does not depend on the invincible image | falsifies Saki’s admiration premise before any result | C1 @ U1 | high | — |
 | Saki ↔ Ume | U1 after the H.I.F. | `04_21` | tackle-hug renegotiated; Ume asks to keep challenging; both now run toward the same dream | Saki concedes Ume’s physical superiority; Ume finds Saki ahead of her; `1勝1敗` | shared field: competing is more fun; `次は！　負けないからね！` / `いつでも挑んできなさいっ！` | C1 @ U1 | high | contradicts the dream’s `つまんない` and `ばいばい`; the fear of abandonment is also visible on Ume’s side |
+
+## Historical source corrections — 2026-11-12
+
+| Relationship | Story state | Change and competing perspectives | Locator |
+| --- | --- | --- | --- |
+| Misuzu ↔ Temari | C1 @ U1 | Misuzu seeks a unit-based repair; Temari wants a serious rival and refuses. Misuzu briefly inhabits Temari's pace, then recommits to winning at a walk while Temari acknowledges the pain of defeat. | `LOC-HSCA-001A`, `001C`–`001D` |
+| Misuzu ↔ Kotone | C1 @ U1 | Misuzu expects reunion through Begrazia. Kotone challenges the unit-as-friendship premise; Misuzu defends Temari and says she misunderstood Kotone. | `LOC-HSCA-001B` |
+| Saki ↔ Ume | C1 @ D-UME | Saki resumes the rivalry after the N.I.A. loss. Ume hopes rivalry will renew Saki's fuel. Their late professional plans name the same agency while relying on different decision processes. | `LOC-HSCA-002A`–`002E`, `003A` |
+| Sena ↔ Saki | C1 @ U1 | Sena recognizes a mirror; Saki returns the criticism of refusal to give up. The peers defer deciding whether they can continue. | `LOC-HSCA-004B` |
+| Sena ↔ Ume/Misuzu | C1 @ U1 | Sena sets her own exit threshold. Ume intends to answer by action; after the unit defeat she challenges Sena's self-ranking, while Misuzu challenges her numerical position. The three agree on wanting to continue. | `LOC-HSCA-004A`, `004D` |

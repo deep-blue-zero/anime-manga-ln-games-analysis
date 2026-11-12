@@ -408,6 +408,12 @@ It is:
 
 That remains OPEN.
 
+### 3.9.1 Saki's rival trajectory in D-UME (HSCA-002 / HSCA-003)
+
+After losing the D-UME N.I.A. FINALE, Saki calls herself the challenger and trains with Sena and Rinha (`LOC-HSCA-002A`). At the summer H.I.F., the Headmaster names Sena. Ume calls herself the loser, and Saki calls their result a draw and later says she caught up. The dialogue gives the sisters' views without a formal Saki–Ume ranking (`LOC-HSCA-002B`). Rinha and Ume's Producer independently describe the danger of burnout as observers. Ume wants their rivalry to give Saki more fuel (`LOC-HSCA-002C`–`002D`). Saki's plan for a full sprint as a self-producing 100 Pro idol and her refusal of a Producer bring a new case to the witness hypothesis, with no established long-term result (`LOC-HSCA-002E`).
+
+Ume's separately reasoned first preference for 100 Pro converges with Saki's already-decided placement. Ume considered competing from outside Hatsuboshi and explains why she prefers 100 Pro. This supports differentiation inside the shared field. Ume has not yet committed, and her statements do not settle the full influence of their relationship on her choice (`LOC-HSCA-003A`–`003C`). Both sequences are C1 @ D-UME. Their outcomes remain separate from D-SAKI and U1.
+
 ## 3.10 Hanami synthesis claim transitions
 
 | earlier / simplified claim | transition | current V2 relationship formulation |
@@ -478,6 +484,8 @@ It is:
 > **Sumika turns Lilja's faith into an obligation to remain the strong person Lilja believes in.**
 
 This distinction is critical for simulation. Sumika can become defensive even when Lilja has not actually imposed the judgment Sumika fears.
+
+**Historical correction — HSCA-005, 2026-11-12.** In `adv_dear_ssmk_014.txt` (C1 @ D-SUMIKA, A1 406–458), Lilja expressly rejects trusting the promise itself. Sumika's accusation about the old prodigy comes afterward. Lilja hesitates, starts to defend a stronger Sumika and interrupts herself. The later apology acknowledges Lilja's part in the pressure (540–586). Lilja's work clearing Sumika's name supports attachment to the person in front of her (619–699). The episode leaves the precise weight of prodigy expectation unresolved. See `SUMIKA-C07` and `LOC-HSCA-005A`.
 
 ## 4.3 The concealment crisis — protection becomes disconnection
 
@@ -683,7 +691,7 @@ The danger is that circulation becomes obligation: if one member is always expec
 | earlier / simplified claim | transition | current V2 relationship formulation |
 | --- | --- | --- |
 | Sumika is Lilja's protector and Lilja follows | **REVISE** | founding asymmetry is real, but mature care is reversible and Lilja can lead/support Sumika |
-| Lilja believes only in the old prodigy | **REJECT as objective truth** | this is Sumika's fear; Lilja directly rejects concealment and increasingly responds to present Sumika |
+| Lilja believes only in the old prodigy | **REVISE / OPEN** | Sumika feels the pressure; Lilja rejects the promise framing, hesitates over the prodigy charge, acknowledges a part in the pressure, and acts for present-day Sumika (§4.2) |
 | REVERSI are inseparable halves | **REVISE** | fusion language is developmentally meaningful but not the mature endpoint |
 | shared dream proves relationship health | **REVISE** | health requires room for selfish desire, rivalry, and later separate dreams |
 | jealousy means possessiveness | **DOWNGRADE / QUALIFY** | jealousy is real, but repeated behavior is non-enclosing and socially expansive |
@@ -915,6 +923,12 @@ It is:
 > **old relationship → unsustainable role structure → rupture → continuing witnesshood → bounded indirect care → explicit conflict → reconciliation → new access under revised terms.**
 
 This is a stronger model of repair because it does not require the past to have been secretly fine.
+
+### 5.9.1 Begrazia as a U1 counter-track (HSCA-001)
+
+Misuzu asks Temari to join Begrazia and offers 「今度こそ、一緒に……」. Temari refuses and says immediate reunion would take away Misuzu's reason to exert herself. Misuzu describes her reasons for running as complicated, while Temari wants to meet her as a serious competitor. Misuzu also denies that she or Rinha resent Temari. The denial about Rinha is Misuzu's report (`LOC-HSCA-001A`). Kotone separately points out that joining a unit can worsen a relationship. When Kotone disclaims friendship, Misuzu defends Temari and revises her view of Kotone (`LOC-HSCA-001B`).
+
+During the result announcement, Misuzu privately calls her effort 「最初で最後の全力疾走」 and recognizes it as access to Temari's world. After losing, Misuzu cries with Temari, says she feels tricked, and commits to winning next time at a walk. The sequence supports a protective function of owned pace after defeat. Temari recognizes the familiar Misuzu in the return to walking, and Misuzu still challenges her. That leaves room for teasing self-reassertion. The exact delivery remains an AV question (`LOC-HSCA-001C`–`001D`). C1 @ U1. These developments corroborate non-restorative repair through competition while preserving the distinct Dear-track outcomes.
 
 ## 5.10 New memories matter more than reenactment
 

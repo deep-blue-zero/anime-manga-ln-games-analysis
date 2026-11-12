@@ -9,7 +9,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 — Ume character-owned textual corp
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-16'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 10 — HANAMI UME EVIDENCE / FALSIFICATION MATRIX
@@ -47,7 +47,7 @@ This matrix is subordinate to `GKM_CORE_10_HANAMI_UME.md`. It keeps high-load Ph
 | UME-C27 | `真っ白いページと水彩の主人公` is chosen as a plural self-history rather than destiny/Saki-only song. | Dear 031–032 | Saki/rivalry remains one input | source indicates choice was primarily Producer/Saki manipulation | **VERY HIGH** |
 | UME-C28 | `全部盛り` is Ume's mature integration model: self + Producer + fans + road + rivals. | Dear 032 | accumulation can become incoherent branding | later source claims mature identity requires stripping away relational influences | **VERY HIGH** |
 | UME-C29 | Ume desires recognition as cute, not only as powerful/talented. | CIDOL 012 | may be comic/temporary insecurity | later sources consistently reject cute/feminine self-presentation as irrelevant to her | **HIGH** |
-| UME-C30 | Ume becomes capable of career choice independent of Saki's path. | Dear 035 | 100pro choice remains relational/networked | later source says agency choice is made solely to follow Saki | **HIGH** |
+| UME-C30 | Ume gives a self-reasoned first preference for 100 Pro, the agency Saki has already said she will join. | `adv_dear_hume_033.txt`, A1 298–393; `adv_dear_hume_035.txt`, 183–304 (C1 @ D-UME) | Ume's reasons are explicit; the institutional destination converges and she has not yet committed | an explicit motive placing Saki as decisive, or evidence that Ume's stated preference later changes | **REVISE** (HSCA-003, 2026-11-12) |
 | UME-C31 | Mature top-idol definition is generative: make fans and rivals smile, burn, and become excited. | Dear 033 `.../dear_033.txt`; Dear 037 `.../dear_037.txt` | language remains competitive/aggressive | later route defines top idol purely as rank domination | **VERY HIGH** |
 | UME-C32 | D-UME Prima Stella victory is a track-specific summit, not universal P3 fact. | Dear 036 `.../dear_036.txt`; four Series-3 conditional fragments | themes can cross tracks | evidence Series-3 fragments are sequential rather than conditional | **CONTINUITY LOCK** |
 | UME-C33 | Ume refuses false humility after victory because it would demean strong rivals. | Dear 036; P2 winning etiquette | public diplomacy could modify expression | source presents refusal as selfish grandstanding detached from opponent respect | **VERY HIGH** |

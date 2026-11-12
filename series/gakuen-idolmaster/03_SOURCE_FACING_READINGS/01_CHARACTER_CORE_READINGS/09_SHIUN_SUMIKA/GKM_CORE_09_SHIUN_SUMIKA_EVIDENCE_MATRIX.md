@@ -9,7 +9,7 @@ source_boundary: GAKUMAS V2 Source Lock 1.0 — Sumika character-owned textual c
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: '2026-08-15'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 09 — SHIUN SUMIKA EVIDENCE / FALSIFICATION MATRIX
@@ -24,7 +24,7 @@ This matrix is subordinate to `GKM_CORE_09_SHIUN_SUMIKA.md`. It keeps high-load 
 | SUMIKA-C04 | Gyaru brightness, sociability, leisure and fashion pleasure are genuine rather than wholly fabricated armor. | Produce Events activity_002, 005, 014, 015, 017; school_003; sales scenes | casualness sometimes clearly protects against stakes | evidence that these pleasures disappear when defensive need disappears | **HIGH** |
 | SUMIKA-C05 | Defensive mechanism is strategic unseriousness/noninvestment: if she does not fully try, failure cannot fully judge her. | P1 audition branches; Dear 005–008; CIDOL 010 | she also genuinely likes rest/play | ordinary low-stakes laziness alone cannot prove defensive use | **VERY HIGH** |
 | SUMIKA-C06 | Lilja's promise reactivates desire but also converts expectation into a threat. | Dear 003, 006, 008 `.../dear_008.txt` | Lilja does not intentionally coerce her | bilateral evidence that Sumika feels no pressure from Lilja at key states | **VERY HIGH** |
-| SUMIKA-C07 | Sumika's claim that Lilja believes only in the old prodigy is a fear, not settled bilateral fact. | Dear 014 `.../dear_014.txt`; Lilja independent V2 core | Sumika's experience of that pressure is still real | Lilja-side primary evidence endorsing only the old `神童` as valued self | **REVISED** |
+| SUMIKA-C07 | Sumika fears that Lilja believes only in her old prodigy self. Lilja rejects the promise framing, hesitates over the prodigy charge, and acknowledges her part in the pressure. | `adv_dear_ssmk_014.txt`, A1 406–458, 540–586, 619–699 (C1 @ D-SUMIKA); separate D-LILJA core | Lilja acts for present-day Sumika; D-SUMIKA does not settle how much the prodigy image shapes her trust | explicit source narrowing or establishing exclusive old-`神童` valuation | **REVISE** (HSCA-005, 2026-11-12) |
 | SUMIKA-C08 | `強いあたしの仮面` is a consciously chosen ideal intended to become true, not merely a false mask to remove. | Dear 008 `.../dear_008.txt` | later public disclosure reduces need for secrecy | later source explicitly repudiates the ideal as inherently false/harmful | **VERY HIGH** |
 | SUMIKA-C09 | Producer coauthors the fantasy but must gradually return authorship to Sumika. | Dear 008; Dear 026 `.../dear_026.txt`; CIDOL 012 | his interpretations remain highly influential | Sumika consistently accepts externally designed identity without meaningful preference | **VERY HIGH** |
 | SUMIKA-C10 | P1 endpoint is willingness to stop fleeing valued things, not simple conversion to discipline. | P1 true ending `.../ending-true-01.txt` | discipline does increase | later P1 evidence frames rest/play themselves as moral failures | **VERY HIGH** |

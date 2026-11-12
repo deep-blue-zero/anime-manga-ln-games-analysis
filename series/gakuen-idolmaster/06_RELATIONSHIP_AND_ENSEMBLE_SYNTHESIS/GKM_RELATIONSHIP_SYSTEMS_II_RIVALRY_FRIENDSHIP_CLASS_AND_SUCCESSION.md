@@ -971,6 +971,12 @@ This is a crucial temporal correction.
 
 Succession does not require the predecessor to die socially so the successor can be real.
 
+### 8.7.1 Sena's reversal in U1 Begrazia (HSCA-004)
+
+Sena's initial retirement plan applies a rule about unit contribution to herself. She expects Ume or Misuzu to surpass her and says Begrazia needs no 「足手まとい」. In private with Saki, whom Sena calls her mirror, Sena says Ume makes giving up harder and claims the Prima Stella title for herself. Both senior competitors admit uncertainty they usually conceal from juniors. After Re;IRIS defeats Begrazia in the unit contest, Sena retracts retirement. She cites frustration and her own judgment that her performance was Begrazia's best, while accepting Misuzu's numerical comparison. Ume disputes Sena's ranking. Sena distinguishes idol ability from numerical score, and Ume reminds her of the school event constraint on graduates. Sena's continuation and the eventual school unit roster remain separate questions (`LOC-HSCA-004A`–`004D`).
+
+This is C1 @ U1. It strengthens succession as a change in function while preserving Sena's unresolved plan for Begrazia and the distinct career and title outcomes of other tracks.
+
 ## 8.8 Succession claim transitions
 
 - **REJECT:** succession = identity replacement.

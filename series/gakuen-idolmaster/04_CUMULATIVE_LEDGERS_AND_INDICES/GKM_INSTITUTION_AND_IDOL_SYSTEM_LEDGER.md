@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.5"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 - Phase 6 side-character synthesis institutional routing integrated"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 status: "active; cumulative through Phase 6 side-character synthesis"
 ---
 
@@ -603,3 +603,10 @@ This is a synthesis-only institutional update; it introduces no new Source Lock 
 Phase-8 institutional synthesis should therefore evaluate systems through the people who administer and contest them, not only through stated rules.
 
 **Next Phase-6 operation:** `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`.
+
+## Historical source corrections — 2026-11-12
+
+| State | Evidence | Institutional consequence and limit |
+| --- | --- | --- |
+| C1 @ D-UME | Saki reports President Juo's scouting and 100 Pro's willingness to support self-production. She intends family management and declines a dedicated Producer (`LOC-HSCA-002E`). Ume later names 100 Pro her first preference (`LOC-HSCA-003A`). | Agency-supported self-production is possible for Saki in this track. Ume has a preference; the compensation comparator is branch-gated and does not establish a hiring rule. |
+| C1 @ U1 | Sena leads and produces Begrazia, plans to leave idol work, then reverses herself after the unit result. Ume reminds her that graduates cannot enter school events (`LOC-HSCA-004A`, `004D`). | Unit member, producer and student eligibility have separate conditions. Sena does not disclose a plan that resolves the future roster. |

@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.7"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-18 — Amaya Tsubame integrated AV claim transitions added"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 status: "active; cumulative through Phase 3 Amaya Tsubame integrated audiovisual baseline"
 ---
 
@@ -299,3 +299,17 @@ Current authority: `GKM_CORE_11_HATAYA_MISUZU_AV_REVISION_ADDENDUM.md` and `GKM_
 | REVERSI resolves closeness through fusion | REJECT | audiovisual form supports synchronized differentiation and teammate-rival plurality | same |
 | strategic unseriousness is central after prodigy fracture | STRENGTHEN | AV shows genuine play and defensive continuity can share the same outward register | dialogue specialist + textual core |
 
+
+## Historical-source claim revisions — 2026-11-12
+
+All evidence is Source Lock 1.0. [Finding dispositions and correction homes](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_HISTORICAL_AUDIT_DISPOSITIONS_20261112.md) preserve the retrospective register as issued.
+
+| Finding / claim | Disposition | Accepted scope and limit | Source locator |
+| --- | --- | --- | --- |
+| HSCA-001 / MISUZU-C26, MISUZU-C45 | STRENGTHEN | U1 Misuzu first tries recruitment, then learns through serious competition and returns to her pace after defeat. Wounded protection and teasing self-reassertion remain plausible. | `LOC-HSCA-001A`–`001D` |
+| HSCA-002 / H-SAKI-05, stable observation 19 | STRENGTHEN / REVISE / OPEN | D-UME Saki plans to continue without a dedicated Producer. Scope the explicit identity substitution to D-SAKI. The witness hypothesis remains causal and unresolved. | `LOC-HSCA-002A`–`002E` |
+| HSCA-003 / UME-C30, UME-AV09, UME-AV25 | REVISE | 100 Pro agency outcomes converge at the level of named destination; Saki reports decided entry and Ume names a first preference with her own reasons. Preserve separately evidenced song choice. | `LOC-HSCA-002E`, `003A`–`003C` |
+| HSCA-004 / SENA-C03, SENA-C06, SENA-C26 | STRENGTHEN | U1 gives its own announcement, destabilization and retraction sequence. The individual performance ranking is disputed and post-graduation roster is open. | `LOC-HSCA-004A`–`004D` |
+| HSCA-005 / SUMIKA-C07 | REVISE | Lilja rejects the promise framing, hesitates over the old-prodigy charge, and acknowledges a part in the hurt. The weight of prodigy expectation remains open. | `LOC-HSCA-005A` |
+| HSCA-006 / E001–005 reading §§6.7, 9.1 | REVISE | Retain Lilja's convincing argument and distinguish Sumika's imitation, Temari's attribution and Lilja's disavowal. Delivery remains open. | `LOC-HSCA-006A`–`006D` |
+| HSCA-046 / SAKI-L058, SAKI-C31 | REVISE | Scope the `04_04` premonition to its C3 choice. The shared U1 nightmare and insomnia passages still support the fear structure. | `LOC-HSCA-046A` |

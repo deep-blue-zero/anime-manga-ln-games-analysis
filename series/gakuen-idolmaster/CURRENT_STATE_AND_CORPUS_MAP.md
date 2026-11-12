@@ -35,6 +35,10 @@ This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical 
 
 A retrospective [historical-source coverage audit](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HISTORICAL_SOURCE_COVERAGE_AUDIT.md) assessed all thirteen character cores, both Relationship Systems syntheses and the event and support tranche readings against Source Lock 1.0. Its [findings register](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_FINDINGS_REGISTER.md) records 180 open findings (P0 0, P1 6) and proposes correction batches B1–B5 for owner review; the [coverage ledger](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_COVERAGE_LEDGER.tsv) records what was examined. The audit revises no canonical reading: every core, synthesis and ledger above remains the current authority until a correction is made through the ordinary claim-revision route. Phase states and the current next operation are unaffected.
 
+### Historical-audit corrections — 2026-11-12
+
+The [current disposition crosswalk](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_HISTORICAL_AUDIT_DISPOSITIONS_20261112.md) records source-first adjudication of HSCA-001–006 and HSCA-046 under Source Lock 1.0. It routes the changes to the affected character cores, evidence matrices, institutional and relationship syntheses, event reading and cumulative ledgers. The other 173 historical findings remain open.
+
 ### Analytical correction — Saki U1 nightmare and insomnia — 2026-11-07
 
 A targeted correction integrates two Saki scenes from Unit Story 01 Episode 04 that Phase 3 had admitted but not analyzed: Saki’s nightmare in which Ume finds competing with her boring and leaves (`adv_unit_01-04_13.txt`), and her confession on the night before the summer H.I.F. that she fears losing again without feeling frustrated (`adv_unit_01-04_15.txt`). The actual Ume’s answer (`04_14`, `04_18`, `04_19`, `04_21`) is recorded as counterevidence. Dream-Ume is Saki’s representation and is never evidence of Ume’s beliefs.
