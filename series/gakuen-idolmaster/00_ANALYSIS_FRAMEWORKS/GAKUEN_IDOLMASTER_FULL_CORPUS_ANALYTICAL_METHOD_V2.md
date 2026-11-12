@@ -3,7 +3,11 @@ title: "Gakuen Idolmaster Full-Corpus Analytical Method V2"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "governing analytical protocol"
 version: "2.2"
-status: "canonical working method"
+artifact_type: analytical_method
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 last_updated: "2026-08-14"
 revision_note: "adds validated public-commu nomenclature, search-term construction, whole-video acquisition, and grouped AV retrieval packets"
 source_lock: "GAKUMAS V2 Source Lock 1.0"

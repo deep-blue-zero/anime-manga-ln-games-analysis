@@ -72,3 +72,14 @@ This matrix records the bounded Phase-3 claims carried by `GKM_CORE_06_KURAMOTO_
 - actual performance of student-council governance;
 - ability to self-name `トップアイドル` later;
 - audiovisual realization of soft/regal state switching.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+These claim rows apply to revision 86 A1. The [core supplement](GKM_CORE_06_KURAMOTO_CHINA.md#source-lock-11-supplement--2026-11-12) gives the observations and interpretations separately. The Source Lock 1.0 matrix above records the historical assessment.
+
+| Claim ID | Disposition and prior claim | Bounded finding and A1 locator | Story state | Counterevidence and limits |
+| --- | --- | --- | --- | --- |
+| `CHINA-R86-C01` | STRENGTHEN `CHINA-C16` and ADD to core §19 | China sees a future for Kanae beyond helping her. `adv_dear_hkne_000-03-horizontal.txt` M001–006, M037–055, `adv_dear_hkne_000-04-horizontal.txt` M044–077 and `adv_dear_hkne_000-05-horizontal.txt` M028–049. | C1 within the Kanae horizontal sequence, compatible with the China-winning Dear outcome. | The exchange establishes Kanae's refusal in this scene. The full extent of family involvement, China's proposed next step and Kanae's idol status remain open. |
+| `CHINA-R86-C02` | ADD to `CHINA-C19` | China distinguishes the champion's pin from the future office. `adv_cidol-kcna-3-018_01.txt` L154–218, `adv_cidol-kcna-3-018_02.txt` L150–193, L235–346 and `adv_cidol-kcna-3-018_03.txt` L190–235, L251–321. | C1 within China 018 after China's H.I.F. win and before the end of term. | The scene establishes a president-elect state and a stated plan for an image change. The uniform commission does not establish future use. |
+| `CHINA-R86-C03` | ADD to the incremental-learning account and STRENGTHEN `CHINA-C16` | China's result diverges from owl's planned learning model. `adv_cidol-kcna-3-019_02.txt` L107–194 and `adv_cidol-kcna-3-019_03.txt` L143–229. | C1 within the `ガラクタロード` lesson sequence, C2 relative to the winter result. | Owl's feedback establishes the tutor's evaluation. Comparative performance remains an AV question. |

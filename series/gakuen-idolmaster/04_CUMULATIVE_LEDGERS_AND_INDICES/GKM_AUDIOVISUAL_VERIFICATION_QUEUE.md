@@ -893,3 +893,10 @@ All 11 P0 and 7 P1 targets from the matrix-selected plan are acquired and matche
 | Rinha dossier / Phase 6 closure | OPEN; cannot close from computations or still counts |
 
 The prior acquisition handoff is historical. Use the [target and metrics matrix](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md) for the retained sources and windows. Q1–Q7 now have bounded answers and explicit residual dependencies in the baseline.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [Gemini 4 Carbon observation packet](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md) and [paired adjudication packet](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md) supply the current prioritized selection. The register has 35 unique candidates: 12 P0, 17 P1, 4 P2 and 2 deferred. The P0 set includes the 11 existing required Rinha targets and the inherited E001 dub witness. The Rinha café candidate is supplemental. Preserve the inherited seven Rinha controls, exact source-edition matching and the established gate criteria. The prior Phase 4/5 backlog stays queued under its original evidence obligations.
+
+All new exact playback times are unresolved. The inherited Rinha navigation windows apply to their matched files only. Direct listening and continuous motion for this refresh are both zero seconds.
