@@ -9,13 +9,13 @@ version: "1.0"
 created: "2026-11-12"
 status: canonical
 scope: "Longitudinal evidence, claim revision, specialist responsibilities and series integration."
-source_boundary: "Japanese publisher EPUBs V01–V07. Bibliography, bytes and package structure reconciled. Narrative admission and inspection are pending."
+source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
 canonical_home: series/kamakura-sho/KSOA_SYNTHESIS_ARCHITECTURE.md
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
-architecture_lifecycle: INITIAL
+architecture_lifecycle: STABILIZED
 governing_method: KSOA_ANALYTICAL_METHOD.md
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
@@ -32,7 +32,7 @@ This design applies the repository's [initiation policy](../../governance/source
 
 ## From reading to synthesis
 
-The future canonical volume documents are `readings/KSOA_Vnn_DEEP_READING.md`, with a structured `novel_deep_reading` type. Each owns its continuous source-facing argument, paragraph locators for non-case passages, coverage by section, and committed prospective chapter freezes. The volume is the atomic advancement unit. The prologue, each chapter and the epilogue are smaller disclosure boundaries. A scene can have a finer freeze for a particular claim. A complete unit advances the reading, source coverage, case evidence, disclosure, longitudinal state, claims and current entrypoint together. Record when a home has no warranted update. Case IDs and natural units follow what the text establishes, so a case can span volumes and a volume can contain more than one investigation.
+The canonical volume documents are `readings/KSOA_Vnn_DEEP_READING.md`, with a structured `novel_deep_reading` type. Each owns its continuous source-facing argument, paragraph locators for non-case passages, coverage by section, and committed prospective chapter freezes. The volume is the atomic advancement unit. The prologue, each chapter and the epilogue are smaller disclosure boundaries. A scene can have a finer freeze for a particular claim. A complete unit advances the reading, source coverage, case evidence, disclosure, longitudinal state, claims and current entrypoint together. Record when a home has no warranted update. Case IDs and natural units follow what the text establishes, so a case can span volumes and a volume can contain more than one investigation.
 
 | Analytical dimension | Capture in each applicable unit | Canonical cumulative home | Final use | Day-one state |
 |---|---|---|---|---|
@@ -93,6 +93,16 @@ Prospective checkpoints and complete volume reads are frozen at acceptance, with
 The [reasoning policy](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [capability policy](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [inspection-lane policy](../../governance/source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md) and [long-series protocol](../../governance/source-policies/MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) guide assignments. Verify actual access, language and image fidelity, isolation and tooling before assignment. A transfer under the [handoff contract](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) pins the base commit, generation, exact source and knowledge frontiers, artifacts, required evidence and pending questions. The receiving integrator reviews the whole return and its evidence, preserves concurrent changes, records proposed claim transitions and checks drift before adoption.
 
 Independent or blind passes require a distinct generation ID, a pinned witness and evidence cutoff, exposure disclosures and an isolated input view. Hold comparison criteria constant where practical. Keep their outputs outside the current route until reviewed. Use a later comparison to explain divergences at their own horizons and preserve both histories.
+
+## V04 architecture review
+
+The [midpoint reconciliation](audits/KSOA_V04_LONGITUDINAL_RECONCILIATION.md) moves this generation to `EVOLVING` through V04. The mystery study must explain direct action, enabling action and each actor's knowledge separately. V02 redirection, V03 successive assault and V04 key transfer and alleged instigation support materially different causal accounts. Each study should preserve the difference between verified physical absence and possible participation elsewhere. The completed readings and ledgers already preserve these roles, so this change requires no backfill. The character evidence now supports individual questions for both detectives in addition to their partnership. Final role placement and reconstruction readiness remain subject to the post-V07 review.
+
+## V07 architecture review
+
+The [terminal reconciliation](audits/KSOA_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) and [role-gap audit](audits/KSOA_ARCHITECTURE_ROLE_GAP_AUDIT.md) establish the source and evidence basis. The five specialist studies and their [convergence review](audits/KSOA_SPECIALIST_CONVERGENCE.md) support the `STABILIZED` lifecycle. The two lead monographs and directed relationship study answer different questions. The mystery study tracks attribution and timing, and the policing study links access, place and prose. The [integrated synthesis](studies/KSOA_INTEGRATED_SERIES_SYNTHESIS.md) uses their bounded findings. This architecture amendment records those mature dependencies and the late cases’ distinct disclosure and concealment roles. No source-reading backfill is needed.
+
+The [reconstruction readiness assessment](audits/KSOA_CHARACTER_RECONSTRUCTION_READINESS.md) records interpretive sufficiency and its limits. An operational candidate and its tests require their own authorization. The [release review](audits/KSOA_PRODUCER_REVIEW_AND_RECEIVING_HANDOFF.md) records producer validation and the receiving obligation.
 
 ## Architecture lifecycle and retrieval
 
