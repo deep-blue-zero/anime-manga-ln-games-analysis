@@ -47,6 +47,8 @@ do_not_use_as_current_authority: false
 
 Shoji's anti-revenge formulation belongs to V37:p140; the V37:p148 kimono image is an author-posted drawing and supplies no in-world voice. V36:p170 carries Mirio's spoken apology and p171 his internal reconsideration. V41:p175's mutual-need wording is Aoyama's; V42:p042–043's future/humor argument is Mirio's. V39:p146 is Tsukauchi's interpretation, while p155 is All Might's own win-directed statement. Broad ranges and historical romanizations/escaped strings below are retrieval aids; exact-glyph claims must return to the Japanese page, preserve the speaker, and distinguish speech, thought, narrator and author matter.
 
+Bakugo's given-name address to Midoriya is located, page-checked, at V33:p071 (`出久`, spoken before `今まで ごめん` at p072) and V33:p159 (`デ…` corrected to `いずく`; Midoriya then says `デク` is fine, and Bakugo refuses the easier form). It also appears at V36:p186 (spoken `勝たなきゃあなぁ……出久…`), V36:p189 (thought, with `出久` placed before `俺まだ おまえに追いつけるかな`) and V40:p192 (`出久 頑張れよ`). `デク` continues in the cited later scenes (V42:p141, p156), both adult professional exchanges; the sample does not establish his default address in private settings. Select the address by relation, moment and effort; do not model a one-way switch (SR11).
+
 These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
 
 
@@ -1456,6 +1458,8 @@ Register rule strengthened: Hawks's politeness cannot be treated as softness, an
 | `発明がサポート科のヒーロー活動なんです` | V34 Hatsume | differentiated support labor as hero activity |
 | `猶予` | V34 post-Star | reprieve/window, not victory guarantee |
 
+> **Current correction:** Bakugo's apology is preceded by the address `出久` at V33:p071. His bath line at p159 corrects `デ…` to `いずく` (SR11).
+
 # Volume 35 vocabulary / formulation updates
 
 | Term / formulation | V35 function | Locator |
@@ -1487,6 +1491,8 @@ Register rule strengthened: Hawks's politeness cannot be treated as softness, an
 | `志村` | explicit family/identity visual marking during intrusion | `V36:p169-172` | proves nonuniformity, not final control state |
 | `俺まだ おまえに追いつけるかな 出久` | Bakugo's current rivalry formulation | `V36:p189` | preserves competition while recognizing Midoriya's lead |
 | `心臓が—` | explicit cardiac focus at Bakugo endpoint | `V36:p195` | catastrophic state is canonical; definitive death is V37+ OPEN |
+
+> **Current correction:** on the page, the V36:p189 thought places `出久` before `俺まだ おまえに追いつけるかな`. V36:p186 adds the spoken `勝たなきゃあなぁ……出久…` (SR11).
 
 # Volume 37 Japanese vocabulary / register updates
 
