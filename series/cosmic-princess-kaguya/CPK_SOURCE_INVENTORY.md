@@ -4,10 +4,10 @@ series: cosmic-princess-kaguya
 artifact_id: CPK_SOURCE_INVENTORY
 artifact_type: source_inventory
 generation: CPK-G1
-version: "1.1"
+version: "1.2"
 status: canonical
-authority_scope: "Verified bibliographic metadata, bound F01 witness CPK-W01-NF-WEBRIP-HEVC, calibrated film clock, derivative provenance, and CPK-R1 run/coverage profile"
-source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 02:22:03.207); primary continuous-AV run CPK-R1 completed across [00:00:00.000, 02:22:03.207]; independent bundle audit pending"
+authority_scope: "Verified bibliographic metadata, bound F01 witness CPK-W01-NF-WEBRIP-HEVC, calibrated film clock, complete AM-01..AM-06 measurements, CPK-R1 / CPK-B1-SOL61 / CPK-AVRET-R1 derivative provenance, and post-reconciliation source errata"
+source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 02:22:03.207); primary continuous-AV run CPK-R1, independent CPK-B1-SOL61 bundle reading/audit, bounded primary AV return CPK-AVRET-R1 (AV-01..AV-10), and Stage-3 reconciliation completed"
 canonical_home: series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md
 supersedes: []
 superseded_by: []
@@ -177,6 +177,34 @@ For focused Pass-2 reinspection of load-bearing scenes and micro-typography, **6
 | `FRM-28` | `02:18:16.000` | `1,592,232` | `08819704289968668fdc393305da693de600319945d8f6f3f7575a54109516ed` | End credits Reality Character Design (`永江彰浩`) & Live Directors (`中山直哉`, `岩澤亨`) |
 | `FRM-29` | `02:19:48.000` | `1,422,525` | `841c6f84353be3a7f94f5c206abf16213d3f9d932f32803ad5f0ae5693ae99d7` | End credits Animation Producer (`桃原一真`) & Director (`山下清悟`) |
 
+
+### 4.4 Deterministic scene-cut (`scdet`) and loudness (`ebur128`) windows (`AM-01`–`AM-06`, complete `v1.2` table)
+
+> **Post-audit `v1.2` completeness repair:** `CPK_SOURCE_INVENTORY.md` `v1.1` stated in §4.3 that six `AM` windows (`AM-01`–`AM-06`) were measured during `CPK-R1`, while individual `AM-02` and `AM-03` rows were absent from the six delivered `v1.1` homes (verified in [PUBLICATION_REVIEW_RECEIPT.json](audits/CPK-B1-SOL61/PUBLICATION_REVIEW_RECEIPT.json)). All six windows below were verified deterministically with `ffmpeg n8.0` (`scdet=threshold=12` + `ebur128=peak=true`) on the synchronized `CPK-W01-NF-WEBRIP-HEVC` segment derivatives under `CPK-CLK-F01-GLOBAL`:
+
+| Window ID | Derivative source | `F01` interval (`CPK-CLK-F01-GLOBAL`) | Duration (s) | `scdet` cuts (`>= 12.0`) | Peak `scdet` score & timestamp (`t_F01`) | Integrated loudness `I` (`LUFS`) | Loudness range `LRA` (`LU`) | True peak `TP` (`dBFS`) | Structural verification scope |
+|---|---|---|---|---|---|---|---|---|---|
+| `AM-01-OPENING` | `SEG-01` (`0.0`–`82.0` s) | `00:00:00.000` – `00:01:22.000` | `82.0` | `35` | `78.214` at `00:00:06.006` (`NETFLIX PRESENTS` wallpaper entry; cosmic-to-apartment room transition cut at `00:01:20.956`) | `-20.5` | `12.1` | `-0.4` | Netflix ident (`00:01`–`00:11`), cosmic Tsukuyomi prologue (`[JA#0001]` at `00:00:26.026`), and hard cut into Iroha's Tokyo room |
+| `AM-02-KASSEN-CLIMAX` | `SEG-07` (`0.0`–`135.0` s) | `01:00:00.000` – `01:02:15.000` | `135.0` | `79` | `42.596` at `01:00:16.975` | `-19.0` | `8.9` | `-2.5` | High-density `KASSEN` `3対3` arena combat window immediately following Asahi's `00:58:53` sibling recognition (`[JA#1294]`) |
+| `AM-03-MOON-HIJACK` | `SEG-09` (`240.0`–`310.0` s) | `01:24:00.000` – `01:25:10.000` | `70.0` | `22` | `38.047` at `01:24:30.145` | `-21.2` | `12.1` | `-5.2` | Loft marriage/expense exchange (`[JA#1850–1857]`), `01:24:16.250` bracelet close-up, and `2030/09/12` `月人` screen/AR intrusion |
+| `AM-04-POSTPLAY-SHATTER` | `SEG-12` (`80.0`–`118.0` s) | `01:51:20.000` – `01:51:58.000` | `38.0` | `16` | `42.126` at `01:51:39.433` | `-23.0` | `8.1` | `-5.0` | Storybook `めでたし めでたし`, `~6.0` s source-embedded streaming post-play UI (`01:51:33.3`–`01:51:39.4`, `[JA#2312]`), and Iroha's refusal shatter (`[JA#2313–2318]`) |
+| `AM-05-BALCONY-REPLY` | `SEG-12` (`185.0`–`265.0` s) | `01:53:05.000` – `01:54:25.000` | `80.0` | `23` | `59.783` at `01:54:12.961` | `-19.1` | `17.2` | `-3.7` | Completed `Reply` (`[JA#2338]` `できた`) sung from Iroha's night balcony and received by Kaguya & `犬DOGE` on the Moon |
+| `AM-06-COMEBACK-TITLE` | `SEG-14` (`0.0`–`40.0` s) | `02:10:00.000` – `02:10:40.000` | `40.0` | `5` | `82.015` at `02:10:33.367` | `-23.7` | `11.4` | `-8.0` | Dining-room photo narration (`[JA#2592–2598]`), silent late title card (`02:10:26.360`–`02:10:33.367`), and cut into `ray` end credits |
+
+### 4.5 Post-audit bounded AV return derivatives (`CPK-AVRET-R1`, external to Git)
+
+To answer the `10` bounded `VIDEO_TARGETED_ESCALATION` requests (`AV-01`–`AV-10`) in [CPK_F01_RECEIVING_HANDOFF.md](audits/CPK_F01_RECEIVING_HANDOFF.md) §6 (`1 of 1` primary-author return), `CPK-AVRET-R1` generated and hashed **`25` synchronized H.264/AAC clips** (`AVRET-01A`–`AVRET-10B` + `AVRET-03B2`, `2,307.2` s total, normalized with `-af aresample=async=1:first_pts=0`), **`32` lossless `1920x1080` PNG frames** (`AVFRM-01A`–`AVFRM-09B`), **`2` `3x` Lanczos crops** (`AVCROP-09B-FULL`, `AVCROP-09B-CENTER`), **`82` native 6-channel (`FL/FR/FC/LFE/SL/SR`) `48 kHz` PCM acoustic windows** directly from `0:a:0`, and a fresh byte-verified SubRip dump of `0:s:3` (`2,716` cues). Every individual filename, interval, byte count, and full 64-character SHA-256 digest is recorded in [CPK_F01_PRIMARY_AV_RETURN.md](audits/CPK_F01_PRIMARY_AV_RETURN.md) §§2.2–2.3 (`72,291` B).
+
+### 4.6 Post-audit `v1.2` source-note errata on preserved `CPK-R1` (`v1.1`) entries
+
+Historical `CPK-R1` rows in §§2–4 above are retained unaltered for auditability; the following source-verified corrections govern downstream citation in `v1.2` ledgers and [CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md):
+
+1. **Opening platform ident & `[JA#0001]` onset (corrects §3.1 `Program-start definition` and §3.2 `Audio start-offset handling`):** `t_F01 = 00:00:00.000` begins on black (`00:00:00.0`–`00:00:01.0`), followed by the animated Netflix `N` ribbon/streaks (`00:00:01.0`–`00:00:06.0`, `AVFRM-01A`) and a custom `NETFLIX PRESENTS` wallpaper (`00:00:06.0`–`00:00:11.0`, `AVFRM-01B`, chibi Yachiyo & `FUSHI` with stacked pancakes) before the cosmic Tsukuyomi moon/cloud vista opens at `~00:00:11.5`. `[JA#0001]` begins at **`00:00:26.026`** (`（ＮＡ(ナレーション):月見(るなみ)ヤチヨ）今は昔`), not `00:00:15.390` (where only instrumental/ambient prologue audio sounds). Normalization with `-af aresample=async=1:first_pts=0` remains exact (`0.0` s offset).
+2. **End-credit lyric presence in Track 4 `[SDH]` `0:s:3` (corrects §2 `Japanese song lyrics` and §6 `Supporting Japanese text`):** Subtitle Track 4 (`0:s:3`) **does** contain timed Japanese `♪` lyric and vocal cues throughout the end-credit roll (`[JA#2599]`–`[JA#2709]`, `111` total cues across `ray 超かぐや姫！Version` `[JA#2599–2659]` and `メルト CPK! Remix` `[JA#2660–2709]`, including `109` `♪`-marked rows plus spoken interjections `[JA#2662]` `オーケー` and `[JA#2708]` `♪ …なんてね`). `v1.1`'s statement that end-credit songs lack SDH lyric lines is retracted (`CPK-B1-SOL61-P020` `REJECT`, `U0008` resolved).
+3. **`FRM-14` (`01:56:36.500`) telemetry labels (corrects `CPK-R1` prose shorthand, `P034`):** The server-room monitor displays four separate telemetry fields — **`CPU load 24`**, **`FPS 89`**, **`Energy usage 53`**, and **`RAM usage 37`** — rather than a combined `CPU 24/89` ratio.
+4. **`FRM-19` (`02:08:48.000`) native-crop monitor wording (`AV-09`, `P023`):** Direct `3x` Lanczos inspection (`AVCROP-09B-FULL`, `AVCROP-09B-CENTER`) verifies top tabs `Study of real...` and `tactile sensati...` and Japanese numbered heading **`1. 触覚の伝達経路`** (`tactile transmission pathway`, correcting `v1.1`'s `触覚の伝達構造`); lower numbered subheadings (`2. 触覚セン...`, `3. 触覚フィー...`) are partially occluded at native `1920x1080` resolution and are not reconstructed beyond legible characters.
+5. **Available wallet balance vs spent sum (`FRM-03`, `00:09:09.500`, `C0007`):** `ふじゅペイ` displays `23,532円` (`20,532円` balance + `3,000 pt`) as Iroha's available total prior to checkout, not an exact receipt of yen spent in that transaction.
+
 ## 5. Run profile (`CPK-R1`) and capability verification
 
 | Field | Verified observation |
@@ -199,6 +227,14 @@ For focused Pass-2 reinspection of load-bearing scenes and micro-typography, **6
 | Secondary English subtitles (`0:s:2` `English`) | `00:00:00.000` – `02:22:03.207` (`[EN#0001]`–`[EN#2079]`) | `OPTIONAL` | `COMPLETE_FOR_DECLARED_SCOPE` | Extracted UTF-8 SRT used strictly for localization contrast | Never used as primary narrative authority | OpenAI blind bundle verifier |
 | Deterministic acoustic/cut measurements (`AM`) | `6` structural windows (`AM-01`–`AM-06`) + `7` PSNR calibration points (`CAL-01`–`CAL-07`) | `OPTIONAL` (corroborative) | `COMPLETE_FOR_DECLARED_SCOPE` | `ffmpeg n8.0` `scdet=threshold=12`, `ebur128`, `psnr` | Scoped to `6` load-bearing transitions | Integrator / targeted escalation if needed |
 
-## 7. Registers
+## 7. Independent verifier (`CPK-B1-SOL61`) and post-audit reconciliation (`CPK-INT`) profiles
 
-Bound narrative witnesses: **1** (`CPK-W01-NF-WEBRIP-HEVC`). Language text derivatives: **2** (`CPK-W01-SUB-JA-T4`, `CPK-W01-SUB-EN-T3`). Synchronized AV segments: **15** (`SEG-01`–`SEG-15`). Targeted Pass-2 AV clips: **6** (`P2-CLIP-01`–`P2-CLIP-06`). Lossless `1920x1080` PNG frames: **29** (`FRM-01`–`FRM-29`). Calibration mappings: **7** (`CAL-01-BEGIN`–`CAL-07-END` under `CPK-CLK-F01-GLOBAL`). Analytical run profiles: **1** (`CPK-R1`). Inspected narrative intervals: **15 contiguous segments covering `100%` of `00:00:00.000`–`02:22:03.207`**.
+| Execution / stage | Producer & role | Verified source / derivative scope | Preserved public home |
+|---|---|---|---|
+| `CPK-B1-SOL61` (Phase A independent + Phase B2 blind + post-exposure comparison) | Codex assistant (`requested Sol 6.1 Max`; `BUNDLE_MEDIATED`, `AO = 0 s`, `CAV = 0 s`) | Bound to exact same `CPK-W01-NF-WEBRIP-HEVC` (`b940eede...`); `5,761`-file local bundle (`5,465` JPEGs, `274` contact sheets), `2,716/2,716` JA cues read, `79` EN pairings, `127` sheets (`2,525` slots) + `29` clean frames in Phase A; `58` PNG + `18` JPEG views in Phase B2; `13` post-exposure `960x540` PNG tiles (`PE01`–`PE16`) | Retrospective noncurrent envelope [independent/CPK-B1-SOL61/](independent/CPK-B1-SOL61/PUBLICATION_README.md) (`16` files, authorized via `frozen_generation_publications`) + verifier audits `audits/CPK_F01_*.md` & receipts `audits/CPK-B1-SOL61/` (`23` files) |
+| `CPK-AVRET-R1` (`1 of 1` bounded primary-author AV return) | **Gemini 4 Carbon** (`CONTINUOUS_AV` + native `5.1` PCM + lossless `1920x1080` / `3x` crops; `blind_order_achieved: false` disclosed) | `25` synchronized clips (`2,307.2` s), `32` `1920x1080` PNGs, `2` `3x` crops, `82` 6-channel PCM acoustic windows, raw `0:s:3` SRT (`2,716` cues) across `AV-01`–`AV-10` | [audits/CPK_F01_PRIMARY_AV_RETURN.md](audits/CPK_F01_PRIMARY_AV_RETURN.md) (`v1.0`, `draft_noncurrent`) |
+| `CPK-INT` (Stage-3 owner-designated integration) | **Gemini 4 Carbon** (same-session dual-role execution with `CPK-AVRET-R1` explicitly disclosed per [CPK_RECONCILIATION_PROFILE.md](CPK_RECONCILIATION_PROFILE.md) §1) | Full reconciliation across `20` `CPK-R1` claims, `35` `P001`–`P035` assertions, `28` `CPK-B1-SOL61` claims, `SA01`–`SA14`, and `AV-01`–`AV-10` | [audits/CPK_F01_RECONCILIATION_RECORD.md](audits/CPK_F01_RECONCILIATION_RECORD.md) (`v1.1`), `v1.2` ledgers, and canonical [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) (`v1.0`) |
+
+## 8. Registers
+
+Bound narrative witnesses: **1** (`CPK-W01-NF-WEBRIP-HEVC`). Language text derivatives: **2** (`CPK-W01-SUB-JA-T4`, `CPK-W01-SUB-EN-T3`). Synchronized Pass-1 AV segments: **15** (`SEG-01`–`SEG-15`). Targeted Pass-2 AV clips: **6** (`P2-CLIP-01`–`P2-CLIP-06`). Targeted post-audit AV return clips: **25** (`AVRET-01A`–`AVRET-10B` + `AVRET-03B2`). Lossless `1920x1080` PNG frames & crops: **63** (`29` `FRM-01`–`FRM-29` + `32` `AVFRM-01A`–`AVFRM-09B` + `2` `AVCROP-09B-*`). Deterministic `AM` cut/loudness windows: **6** (`AM-01`–`AM-06`, all tabulated in §4.4). Calibration mappings: **7** (`CAL-01-BEGIN`–`CAL-07-END` under `CPK-CLK-F01-GLOBAL`). Analytical executions recorded: **3** (`CPK-R1`, `CPK-B1-SOL61`, `CPK-AVRET-R1` / `CPK-INT`).

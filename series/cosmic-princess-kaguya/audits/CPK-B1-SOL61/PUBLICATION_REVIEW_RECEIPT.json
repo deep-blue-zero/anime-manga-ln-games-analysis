@@ -1,0 +1,157 @@
+{
+  "schema": "CPK-B1-SOL61-publication-review/1",
+  "generation": "CPK-B1-SOL61-COMPARISON",
+  "status": "draft_noncurrent",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": true,
+  "checked_at_utc": "2026-11-12 05:51:49 UTC",
+  "main": "46c341663e7e0b78d75fe9e2b3dc6e83859f85db",
+  "gemini_head": "7c850af679471b74e36a8458985e448bc8191068",
+  "baseline_drift": false,
+  "pr_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542",
+  "pr_state": "open",
+  "mergeable_state": "behind",
+  "labels": [
+    "nightly-hold"
+  ],
+  "combined_status": {
+    "statuses": [
+      {
+        "context": "Repository integration audit",
+        "state": "success",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/42970700933"
+      }
+    ]
+  },
+  "workflow_run_listing": {
+    "workflow_runs": []
+  },
+  "review_discussion_exposure": "After both blind freezes and after completing the 20 registered claim dispositions; publication-control check only.",
+  "review_discussion_count": 31,
+  "review_references": [
+    {
+      "id": 6788565395,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#issuecomment-6788565395",
+      "path": null
+    },
+    {
+      "id": 6788620580,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#issuecomment-6788620580",
+      "path": null
+    },
+    {
+      "id": 4534677718,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677718",
+      "path": "series/cosmic-princess-kaguya/audits/CPK_F01_BLIND_INPUT_PACKET.md"
+    },
+    {
+      "id": 4534677725,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677725",
+      "path": "series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md"
+    },
+    {
+      "id": 4534677730,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677730",
+      "path": "series/cosmic-princess-kaguya/CPK_CLAIM_REVISION_LEDGER.md"
+    },
+    {
+      "id": 4534677736,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677736",
+      "path": "series/cosmic-princess-kaguya/audits/CPK_F01_BLIND_INPUT_PACKET.md"
+    },
+    {
+      "id": 4534677742,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677742",
+      "path": "series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md"
+    },
+    {
+      "id": 4534677751,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677751",
+      "path": "series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md"
+    },
+    {
+      "id": 4534677756,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677756",
+      "path": "series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md"
+    },
+    {
+      "id": 4534677759,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677759",
+      "path": "series/cosmic-princess-kaguya/audits/CPK_F01_BLIND_INPUT_PACKET.md"
+    },
+    {
+      "id": 4534677763,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534677763",
+      "path": "series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md"
+    },
+    {
+      "id": 5854701504,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#pullrequestreview-5854701504",
+      "path": null
+    },
+    {
+      "id": 6788903288,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#issuecomment-6788903288",
+      "path": null
+    },
+    {
+      "id": 4534739151,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534739151",
+      "path": "series/cosmic-princess-kaguya/audits/CPK_F01_BLIND_INPUT_PACKET.md"
+    },
+    {
+      "id": 4534739342,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534739342",
+      "path": "series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md"
+    },
+    {
+      "id": 4534739493,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534739493",
+      "path": "series/cosmic-princess-kaguya/CPK_CLAIM_REVISION_LEDGER.md"
+    },
+    {
+      "id": 4534739621,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534739621",
+      "path": "series/cosmic-princess-kaguya/audits/CPK_F01_BLIND_INPUT_PACKET.md"
+    },
+    {
+      "id": 4534739761,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534739761",
+      "path": "series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md"
+    },
+    {
+      "id": 4534739960,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534739960",
+      "path": "series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md"
+    },
+    {
+      "id": 4534740105,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534740105",
+      "path": "series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md"
+    },
+    {
+      "id": 4534740247,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534740247",
+      "path": "series/cosmic-princess-kaguya/audits/CPK_F01_BLIND_INPUT_PACKET.md"
+    },
+    {
+      "id": 4534740391,
+      "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/542#discussion_r4534740391",
+      "path": "series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md"
+    }
+  ],
+  "direct_local_verification": {
+    "observation_rows": 40,
+    "ANCHORED": 28,
+    "REPORTED": 12,
+    "stated_snapshot": {
+      "ANCHORED": 23,
+      "REPORTED": 17
+    },
+    "AM_02_03_records_in_six_substantive_homes": 0
+  },
+  "blocker": "No CPK frozen_generation_publications binding on fetched main. Full independent candidate needs policy 3.9.5; ordinary verifier audits do not constitute a new source run.",
+  "repository_mutations": "None: no staging, commit, push, PR update or merge in canonical repository.",
+  "local_json_write_incident": "A companion write was rejected as a potentially destructive partial overwrite. Read-only inspection proved destination absent; one complete exclusive-create serialization succeeded and validated. Resolved, no outstanding approval."
+}

@@ -4,10 +4,10 @@ series: cosmic-princess-kaguya
 artifact_id: CPK_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: CPK-G1
-version: "1.0"
+version: "1.1"
 status: canonical
-authority_scope: "Project-local film reading method, AV companion and lane permissions; INITIAL procedure only"
-source_boundary: "Intended Japanese feature F01; no narrative source admitted or inspected"
+authority_scope: "Project-local film reading method, AV companion, lane permissions, and post-reconciliation operational refinements"
+source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 00:00:00.000-02:22:03.207); executed across CPK-R1, CPK-B1-SOL61, CPK-AVRET-R1, and CPK-INT"
 canonical_home: series/cosmic-princess-kaguya/CPK_ANALYTICAL_METHOD.md
 supersedes: []
 superseded_by: []
@@ -112,4 +112,18 @@ Before acceptance, perform the bounded name/reference check on synopsis, a subst
 
 Use `PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT`, `OPEN` through the claim ledger. Frozen candidates and blind logs are not rewritten. Later facts cannot be inserted as earlier prospective knowledge. Amend INITIAL procedure when actual source behavior requires it; preserve version history and record material backfill needs.
 
-Live [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [lane routing](../../governance/source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md), [topology](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [reasoning](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [handoff](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) and [reconciliation](../../governance/source-policies/MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) governance controls those responsibilities. No model or film has been executed under this method.
+Live [initiation](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md), [lane routing](../../governance/source-policies/MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md), [topology](../../governance/source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md), [reasoning](../../governance/source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md), [handoff](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) and [reconciliation](../../governance/source-policies/MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) governance controls those responsibilities. Executed for single feature unit `F01` across primary continuous-AV run `CPK-R1`, independent bundle/audit passes `CPK-B1-SOL61`, bounded AV return `CPK-AVRET-R1`, and Stage-3 integration `CPK-INT` (see §10).
+
+## 10. Version history and post-execution operational refinements (`v1.1`)
+
+| Version | Date | Amendment summary |
+|---|---|---|
+| `1.0` | `2026-11-10` | Initial single-film analytical method, continuous-AV companion, and bundle-lane permissions prior to source admission |
+| `1.1` | `2026-11-12` | Post-reconciliation operational refinements after `CPK-R1`, `CPK-B1-SOL61` (`SA01`–`SA14`), and `CPK-AVRET-R1` (`AV-01`–`AV-10`), preserving §§1–9 intact |
+
+Four operational lessons earned during `F01` execution and mirror-route audit refine §§3–7 without altering retrospective evaluation of frozen artifacts:
+
+1. **Strict enforcement of §6 speaker-attribution corroboration (`SA08`, `AV-10`, `CPK-INT-U0010`)**: Section 6 prohibits treating voice-actor or singer timbre recognition as standalone speaker-attribution proof when onscreen performance, subtitle speaker tags, and explicit credit links are absent. Where Japanese `[SDH]` Track 4 (`0:s:3`) omits a parenthetical speaker tag over offscreen narration (as in `[JA#2595–2597]` at `02:10:13.722–02:10:21.359` following `（かぐや）`-tagged `[JA#2592–2594]`), acoustic continuity or subjective vocal perception may be logged as a provisional `AO` note, but speaker identity must remain `OPEN` (`CPK-INT-U0010`) unless corroborated by explicit textual or onscreen evidence.
+2. **Raw `[SDH]` stream extraction before lyric-boundary claims (`AV-08`, `CPK-R1-U0008`)**: Before declaring end-credit or insert-song intervals unsubtitled in a Matroska witness, verify cue counts directly on raw stream extraction (`ffmpeg -map 0:s:3 -c:s srt`) across the full container duration (`[00:00:00.000, 02:22:03.207]`) and retain parenthetical `[SDH]` tags (`（…）`, `♪～`) unstripped. Stream-complete Track 4 carries `111` timed lyric cues (`[JA#2599–2709]`) across `ray 超かぐや姫！Version` (`63` cues) and `メルト CPK! Remix` (`48` cues); commercial booklet diffs and official lineation remain `OPTIONAL` external paratext rather than a primary-witness text gap.
+3. **Native `5.1` channel-isolation verification for *a cappella* and silence claims (`AV-02`, `AV-07`, `AV-09`, `AM-01`–`AM-06`)**: On `5.1(side)` (`FL+FR+FC+LFE+SL+SR`) Opus/PCM mixes, perceived vocal Exposedness on a stereo downmix must be checked against per-channel `FC` versus `FL/FR/SL/SR` RMS/peak levels before asserting `"zero-instrument a cappella"` or `"dead room silence"`. In `CPK-AVRET-R1`, per-channel PCM inspection distinguished true unaccompanied `FC`-only singing (`00:07:33–00:07:49`, `FL/FR = -61.82/-62.55 dBFS`; `02:05:48.5–02:06:16.5` solo call-and-response before piano re-entry at `02:06:16.5`) and near-digital-zero real-room silence (`01:47:38–01:47:42`, `-107.45 dBFS` between `[JA#2266]` and `[JA#2267]`) from sustained pad accompaniment (`01:38:44–01:38:56`).
+4. **Contact-sheet navigation versus exact-frame timestamp citation (`SA12`)**: When a bundle verifier uses contact sheets (`1`-row or tiled grids) for broad navigation, prose citations must resolve every load-bearing visual anchor back to its individual clean-frame timestamp or subtitle cue rather than attributing sheet-neighboring timestamps across adjacent shots; similarly, low-rate (`~1.0 fps`) primary `CAV` passes must pair sub-second visual claims (`01:24:16.250` bracelet flash, `02:07:40` post-raid avatar cameo) with full-rate (`24000/1001 fps`) clip/frame extraction.

@@ -1,0 +1,77 @@
+{
+  "freeze_id": "CPK-B1-SOL61-INDEPENDENT-V1",
+  "frozen_at_utc": "2026-11-12T04:50:06.676495+00:00",
+  "timestamp_kind": "local execution clock, not externally notarized",
+  "status": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "exposure_state": "PRE_QUESTIONS_PRE_GEMINI",
+  "requested_model": "Sol6.1",
+  "requested_reasoning": "Max",
+  "runtime_model_verified": false,
+  "git_commit": null,
+  "identity_kind": "local preserved corpus + canonical manifest entry-array SHA256",
+  "content_tree_sha256": "9934c0f4a0309a134bea39bf62a52db8016b95291cc4e817f90b380a1cdde643",
+  "content_tree_algorithm": "SHA256 of UTF-8 json.dumps(files,sort_keys=True,separators=(comma,colon))",
+  "files": [
+    {
+      "path": "claims/CPK_B1_SOL61_CLAIMS.md",
+      "bytes": 24075,
+      "sha256": "b440ee394202ecf25fc480f010eb94b554624e45a4e929445ca9f76ef6bac1f8"
+    },
+    {
+      "path": "evidence/CPK_B1_SOL61_CHARACTERS.md",
+      "bytes": 21096,
+      "sha256": "cbaa9c5a3c95aa4cdcaa6f2d9c535d080d1f6c5ad778acd5f49086867e208abd"
+    },
+    {
+      "path": "evidence/CPK_B1_SOL61_OBSERVATIONS.md",
+      "bytes": 24454,
+      "sha256": "57873ba2eb4b6e2e2eb436b1fb8ceb50bb83d4de619edd3c2b3d7ebaa4ebf199"
+    },
+    {
+      "path": "evidence/CPK_B1_SOL61_RESEARCH_LOG.md",
+      "bytes": 46430,
+      "sha256": "fbed7e923990d7e1ac3bbebc401de20ac151d25460bbc3a77a1607198eb19ff9"
+    },
+    {
+      "path": "provenance/BUNDLE_FILE_HASHES.json",
+      "bytes": 1008160,
+      "sha256": "5a18ed467b026f4f467e2eb94c009bcfdcf7490806a0811296f4f8490fd5229d"
+    },
+    {
+      "path": "provenance/CLOCK_VERIFICATION.json",
+      "bytes": 2227,
+      "sha256": "f391ec5aa2cec682670b691c2f434b06bbe12f2509ad4040b9dcb7ffe44f8657"
+    },
+    {
+      "path": "provenance/CONTROL_INPUT_HASHES.json",
+      "bytes": 3375,
+      "sha256": "e75a786e2e267c6caeed46269fddf520928b253ed32f47ef8827368ee5af2154"
+    },
+    {
+      "path": "provenance/CPK_B1_SOL61_EXECUTION_PROFILE.md",
+      "bytes": 13449,
+      "sha256": "7d03fdff49f591817785c5ef14c9686929cb73ddcf087c3202d7e511274a31ef"
+    },
+    {
+      "path": "provenance/INDEPENDENT_COMPLETION.md",
+      "bytes": 3212,
+      "sha256": "88dbd723c7ea0843567d0f7d717bc01acc9467c9a48af62d9cfe74b51b52f09a"
+    },
+    {
+      "path": "provenance/INSPECTION_LOG.json",
+      "bytes": 4163,
+      "sha256": "9e0aafbfc536770745c9c0378418f437a225d2481429674bc4f9578c2b708e0a"
+    },
+    {
+      "path": "provenance/SOURCE_BOUNDARY.json",
+      "bytes": 3037,
+      "sha256": "c1287b40e5d2f8dd25cacc6719f8640a5c9e27b9075272443fc1691b99b1e48d"
+    },
+    {
+      "path": "readings/CPK_B1_SOL61_MONOGRAPH.md",
+      "bytes": 34010,
+      "sha256": "8577bf06ded087b10bde23872e4598cba16c842c7ee5b6e753623f7ec1e89491"
+    }
+  ]
+}

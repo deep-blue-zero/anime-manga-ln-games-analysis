@@ -1,0 +1,131 @@
+{
+  "freeze_id": "CPK-B1-SOL61-COMPARISON-V1",
+  "frozen_at_utc": "2026-11-12T05:54:23.345950+00:00",
+  "timestamp_kind": "local execution clock, not externally notarized",
+  "status": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "exposure_state": "POST_GEMINI_POST_REVIEW_STATUS",
+  "gemini_head": "7c850af679471b74e36a8458985e448bc8191068",
+  "files": [
+    {
+      "path": "audits/CPK_F01_AUDIT_DECISIONS.json",
+      "bytes": 31316,
+      "sha256": "e77eb50e7b47e4247bb71861bffa862a1817f28ff77dca80d121ff31b20ecdc2"
+    },
+    {
+      "path": "audits/CPK_F01_CLAIM_AUDIT.md",
+      "bytes": 79018,
+      "sha256": "7598d9df5728aa1d5c2be5dfec6b74a4dcf4148916a384360dcb7f96c26d2645"
+    },
+    {
+      "path": "audits/CPK_F01_COMPARATIVE_EVALUATION.md",
+      "bytes": 13265,
+      "sha256": "0579b2e6b93fd43bc16c6baad9a1d8a37eaa8135eff318170ca7b8c20336d95e"
+    },
+    {
+      "path": "audits/CPK_F01_POST_EXPOSURE_OBSERVATIONS.md",
+      "bytes": 10071,
+      "sha256": "416a991effcd27535daeff5720384fa3d186e7293bc7bbf00d6be213649589a1"
+    },
+    {
+      "path": "audits/CPK_F01_PROSE_AUDIT_DECISIONS.json",
+      "bytes": 26998,
+      "sha256": "047463c33eafc5e98f9d804b7ff8f009cca89aa2e751bfc44dba702d8ab8619b"
+    },
+    {
+      "path": "audits/CPK_F01_RECEIVING_HANDOFF.md",
+      "bytes": 19440,
+      "sha256": "0ee24fdef2addfc2f8d9a5bf4bb1219b75eea5cea45b14816bd1e5f32abc7246"
+    },
+    {
+      "path": "audits/CPK_F01_SELF_AUDIT.md",
+      "bytes": 14702,
+      "sha256": "4cb2823dbaa25512c0be4e469be92a1984ecf9eafeecb4ef9675f10298eb49fc"
+    },
+    {
+      "path": "audits/CPK_F01_STRUCTURE_COMPARISON.md",
+      "bytes": 11681,
+      "sha256": "b12a9033c0a84d6ec155777da72627d79ad4f3ab124b6afb79deb9a61237949e"
+    },
+    {
+      "path": "audits/CPK_R1_ORIGINAL_CLAIMS.json",
+      "bytes": 64806,
+      "sha256": "a75a10156aa849fc1b0d3cdae90eec8deeb33ad04421699918c561b84483c9bf"
+    },
+    {
+      "path": "gemini-baseline/audits/CPK_F01_RECONCILIATION_RECORD.md",
+      "bytes": 22846,
+      "sha256": "ad0387d0c51e6eaaad2c423a5dacd1e1c579e2350f539c365fdf489210bf5672"
+    },
+    {
+      "path": "gemini-baseline/CPK_CHARACTER_RELATIONSHIP_LEDGER.md",
+      "bytes": 64307,
+      "sha256": "8f6aea5a65f96a9bb8a3fa9d4742514c238ed0e86f7232353be6a6b1b6ea4626"
+    },
+    {
+      "path": "gemini-baseline/CPK_CLAIM_REVISION_LEDGER.md",
+      "bytes": 40216,
+      "sha256": "aee13ff18e30f8729d165cdf4c4bbc762d9fa56667ee403a82ea766fcca75f20"
+    },
+    {
+      "path": "gemini-baseline/CPK_OBSERVATION_LEDGER.md",
+      "bytes": 77806,
+      "sha256": "76f4cd8d6aa5ffab5dc3d7540a913a04f1a59391ee663f7be3c2c1da8a184c2e"
+    },
+    {
+      "path": "gemini-baseline/CPK_SOURCE_INVENTORY.md",
+      "bytes": 33190,
+      "sha256": "51d50099349a8c799990fb6091a6146b033e0bb5769f7ad8f10f649e14322c77"
+    },
+    {
+      "path": "gemini-baseline/readings/CPK_F01_PRIMARY_DEEP_READING.md",
+      "bytes": 86421,
+      "sha256": "cf7c64d7f4e70d8bfbbc8d97652e40c99de115e5bd9958e4f620197c70a47c3c"
+    },
+    {
+      "path": "GEMINI_BASELINE_RECEIPT.json",
+      "bytes": 1871,
+      "sha256": "c21908de78680e82eaeeae9fca39153c0d48e28003958c97f7f669f3617a8f11"
+    },
+    {
+      "path": "GEMINI_READ_COMPLETION.json",
+      "bytes": 976,
+      "sha256": "87267a1cdc9df3ae8d9c26b869a7f216aa8e01672650fdf398d39bd68a07b5fe"
+    },
+    {
+      "path": "POST_EXPOSURE_FRAME_RETURNS.json",
+      "bytes": 3563,
+      "sha256": "e75e47b2ddf3cc819ca2fbcbc2122d89f54522e52b96e623e33719d45506cb38"
+    },
+    {
+      "path": "POST_EXPOSURE_TEXT_RETURNS.json",
+      "bytes": 5077,
+      "sha256": "e8ee9cb7a0ef3a6fbe6b2cf84cd657207a614ea7ba45fe12c9be2c1c949c5780"
+    },
+    {
+      "path": "PUBLICATION_REVIEW_RECEIPT.json",
+      "bytes": 6634,
+      "sha256": "18cb044b00c53cbb83d710b059f41b3bdef1aa037afc540607aee5b9ad0336d6"
+    }
+  ],
+  "content_tree_sha256": "302c15f20e357a4aee38645432d8a644376a03f98e245a167aa47c5d97a01f54",
+  "independent_freeze_recheck": {
+    "independent-v1": {
+      "files": 12,
+      "manifest_sha256": "67d16bc1a88fa6672f24c0f7cdf9c3002a0bd946aeafc8d7058c1c407d1448e7",
+      "tree": "9934c0f4a0309a134bea39bf62a52db8016b95291cc4e817f90b380a1cdde643",
+      "status": "PASS"
+    },
+    "blind-v1": {
+      "files": 5,
+      "manifest_sha256": "19b5c74de3ad47317d2de11f50f798fa6d25965cc79426835b7980ca54bd184a",
+      "tree": "a60c3890bb150fa15a32347a579c084eddf03654436985ca1509c16bd452cff0",
+      "status": "PASS"
+    }
+  },
+  "registered_claims": 20,
+  "consequential_assertions": 35,
+  "accepted_transitions": 0,
+  "AO_seconds": 0,
+  "CAV_seconds": 0
+}
