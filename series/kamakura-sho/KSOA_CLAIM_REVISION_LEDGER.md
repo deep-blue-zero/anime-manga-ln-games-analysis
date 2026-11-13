@@ -131,3 +131,18 @@ The [frozen V05 reading](readings/KSOA_V05_DEEP_READING.md) defines the exact wi
 | <a id="ksoa-v05-cl-0004-r01"></a> KSOA-V05-CL-0004-R01 | [H-0015](readings/KSOA_V05_DEEP_READING.md#ksoa-v05-h-0015) | C03 0399–0422, 0954–0977; EPI 0004–0044 | PRESERVE operational trust alongside the newly sharper off-duty friction. OPEN the reading of Asumi's motive. Give independent agency to Sayaka and Emiri. |
 | <a id="ksoa-v05-cl-0005"></a> KSOA-V05-CL-0005 | [H-0014](readings/KSOA_V05_DEEP_READING.md#ksoa-v05-h-0014) | C02 0137–0229; C03 0842–0927, 0928–0946 | OPEN the analogy between taking designs and taking a partner. The detective's rhetorical use exposes Hani's resentment while obscuring Yuka's independent decisions if taken literally. |
 | <a id="ksoa-v05-cl-0006"></a> KSOA-V05-CL-0006 | [H-0014](readings/KSOA_V05_DEEP_READING.md#ksoa-v05-h-0014) | C03 0157–0247, 0297–0397, 0484–0558, 0629–0684, 0783–0824 | STRENGTHEN the account of different creative trajectories, mentorship and maintaining work. Dialogue, house design and tribute independently limit what a single professional ranking can explain. |
+
+## V06 claim history
+
+The [frozen V06 reading](readings/KSOA_V06_DEEP_READING.md) defines the exact witness, full paragraph addresses and disclosure checkpoints. All rows are in generation KSOA-G1 and resolve through that reading's section/member table. The evidence horizon bounds what can be inferred from each row.
+
+| ID | Horizon | Native locators | Record |
+|---|---|---|---|
+| <a id="ksoa-v06-cl-0001"></a> KSOA-V06-CL-0001 | [H-0004](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0004) | PRO 0004–0039; C01 0478–0483, 0903–0917 | STRENGTHEN link between the opening and investigation through Otaru and Yakushiji. Identity of speaker and meeting partner remains open. |
+| <a id="ksoa-v06-cl-0001-r01"></a> KSOA-V06-CL-0001-R01 | [H-0010](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) | C03 0150–0229, 0525–0536, 0673–0715 | REVISE the opening as Nonaka's account before meeting Kasuya, supported by kinship, stated purpose and the reported arranged meeting. |
+| <a id="ksoa-v06-cl-0002"></a> KSOA-V06-CL-0002 | [H-0007](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0007) | C02 0581–0649 | OPEN attribution of sabotage. Kasuya supplies presence evidence by report and takes it to identify an actor. |
+| <a id="ksoa-v06-cl-0002-r01"></a> KSOA-V06-CL-0002-R01 | [H-0010](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) | C03 0478–0536, 0593–0658 | REJECT the inference about Mizutani. Kume admits joint planning and attributes the act to Kasuya. The stalking claim and departure require additional testimony. |
+| <a id="ksoa-v06-cl-0003"></a> KSOA-V06-CL-0003 | [H-0007](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0007) | C02 0492–0506, 0654–0663 | OPEN the party alibi pending observation of the critical interval. |
+| <a id="ksoa-v06-cl-0003-r01"></a> KSOA-V06-CL-0003-R01 | [H-0010](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) | C03 0280–0306, 0684–0716 | REJECT continuous observation. Retain corroborated endpoints and use Yakushiji's withdrawal to distinguish the roles. |
+| <a id="ksoa-v06-cl-0004"></a> KSOA-V06-CL-0004 | [H-0010](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) | C03 0150–0229, 0646–0677 | STRENGTHEN Mitsuki's causal agency in the relationship and reconciliation attempt. Treat her precise reasons for departure as mediated reconstruction. |
+| <a id="ksoa-v06-cl-0005"></a> KSOA-V06-CL-0005 | [H-0011](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0011) | C03 0264–0266, 0314–0349; EPI 0008–0043 | REVISE the disclosure model to include a personal channel with both access and reporting costs. The buddy label gains an explicit user without resolving the direction of affection. |
