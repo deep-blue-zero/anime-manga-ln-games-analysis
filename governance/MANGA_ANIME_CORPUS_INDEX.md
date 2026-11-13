@@ -14,6 +14,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [A Certain Scientific Accelerator](../series/a-certain-scientific-accelerator/) — `series/a-certain-scientific-accelerator/` — Distinct A Certain Scientific Accelerator manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [A Certain Scientific Mental Out](../series/a-certain-scientific-mental-out/) — `series/a-certain-scientific-mental-out/` — Distinct A Certain Scientific Mental Out manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [A Certain Scientific Railgun](../series/a-certain-scientific-railgun/) — `series/a-certain-scientific-railgun/` — Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
+- [A Certain Scientific Railgun: Astral Buddy](../series/a-certain-scientific-railgun-astral-buddy/) — `series/a-certain-scientific-railgun-astral-buddy/` — Distinct A Certain Scientific Railgun: Astral Buddy manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison.
 - [A Sister's All You Need](../series/a-sisters-all-you-need/) — `series/a-sisters-all-you-need/`
 - [AoButa](../series/aobuta/) — `series/aobuta/`
 - [Ascendance of a Bookworm](../series/ascendance-of-a-bookworm/) — `series/ascendance-of-a-bookworm/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
@@ -21,10 +22,12 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Attack on Titan](../series/attack-on-titan/) — `series/attack-on-titan/`
 - [Azur Lane](../series/azur-lane/) — `series/azur-lane/`
 - [BLUE ARCHIVE](../series/blue-archive/) — `series/blue-archive/`
+- [Blue Box](../series/blue-box/) — `series/blue-box/` — Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished.
 - [Bottom-Tier Character Tomozaki](../series/tomozaki/) — `series/tomozaki/` — post-cutover Git-native analytical root; Japanese light-novel sources remain in the governed Drive evidence plane.
 - [Chainsaw Man](../series/chainsaw-man/) — `series/chainsaw-man/` — Japanese manga project for チェンソーマン; numbered main manga witnesses form the source lane, with adaptations and other works by the creator kept separate.
 - [Chitose Is in the Ramune Bottle](../series/chiramune/) — `series/chiramune/` — post-cutover Git-native analytical root; original-language light-novel sources remain in the governed Drive evidence plane.
 - [Classroom of the Elite](../series/classroom-of-the-elite/) — `series/classroom-of-the-elite/`
+- [Cosmic Princess Kaguya! / 超かぐや姫！](../series/cosmic-princess-kaguya/) — `series/cosmic-princess-kaguya/` — Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation.
 - [Domestic Girlfriend / ドメスティックな彼女](../series/domestic-girlfriend/) — `series/domestic-girlfriend/` — Japanese manga analysis of character development, directed relationships, page form and source-language expression, with bounded reconstruction and distinct source horizons.
 - [Dr. STONE](../series/dr-stone/) — `series/dr-stone/` — Japanese manga project for Dr.STONE, with numbered main volumes and the separately scoped 科学王国事典 official fanbook; fictional explanation, depicted capability and external reference remain distinct evidence classes.
 - [Gakuen Idolmaster](../series/gakuen-idolmaster/) — `series/gakuen-idolmaster/`
@@ -35,7 +38,9 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Haikyu!!](../series/haikyu/) — `series/haikyu/` — Japanese manga project for ハイキュー!!, with the supplied colour edition as its own main witness and separate Chronicle/Final Guidebook paratext scopes.
 - [Harmony / ハーモニー](../series/harmony/) — `series/harmony/` — Independent original Japanese prose-novel analysis of narration, character development, agency, institutions and literary form, with evidence-tested reconstruction; primary and derived evidence remain in Drive.
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
+- [Honkai: Star Rail](../series/honkai-star-rail/) — `series/honkai-star-rail/` — Independent versioned Honkai: Star Rail game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
+- [Kamakura Police Station: The Case Files of Asumi Ogasawara / 鎌倉署・小笠原亜澄の事件簿](../series/kamakura-sho/) — `series/kamakura-sho/` — Japanese detective novels by Kyōichi Narukami, with source-grounded analysis of investigations, mystery disclosure, character and relationship development, and literary form.
 - [KimiShinu](../series/kimishinu/) — `series/kimishinu/`
 - [KonoSuba](../series/konosuba/) — `series/konosuba/`
 - [Legend of the Galactic Heroes](../series/legend-of-the-galactic-heroes/) — `series/legend-of-the-galactic-heroes/`
@@ -68,6 +73,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Solo Leveling](../series/solo-leveling/) — `series/solo-leveling/`
 - [Sound! Euphonium](../series/sound-euphonium/) — `series/sound-euphonium/`
 - [SPY x FAMILY](../series/spy-x-family/) — `series/spy-x-family/` — Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes.
+- [Summer Time Rendering / サマータイムレンダ](../series/summer-time-rendering/) — `series/summer-time-rendering/` — Japanese manga analysis of causality, knowledge, character and directed relationships, with distinct main and supplementary horizons and source-bounded reconstruction.
 - [Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集](../series/tatsuki-fujimoto-before-chainsaw-man/) — `series/tatsuki-fujimoto-before-chainsaw-man/` — Japanese short-story collection analysis with independent story identities, source-qualified subset comparison and bounded character reconstruction.
 - [The Apothecary Diaries](../series/the-apothecary-diaries/) — `series/the-apothecary-diaries/` — Japanese light-novel project for 薬屋のひとりごと, with a separate simplified Chinese volume 15 witness; adaptations and cross-language comparison remain distinct evidence scopes.
 - [The Cornered Mouse Dreams of Cheese / 窮鼠はチーズの夢を見る](../series/cornered-mouse/) — `series/cornered-mouse/` — Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git.
@@ -80,9 +86,11 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Tokyo 7th Sisters](../series/tokyo-7th-sisters/) — `series/tokyo-7th-sisters/` — Game-first analytical architecture under approved design 1.1. T7S_B0001–B0003 close the exact first 11 Main episodes through 201000201 with synchronized readings, state ledgers, coverage, and bounded visual review; native source corpus/media remain external. B0002 completes Haru's first chapter and B0003 opens but does not complete Musubi's. Next candidate 201000202 is not admitted; Haru is R2 state-bounded, and no monograph, model, specialist, or synthesis is promoted.
 - [Wandering Witch: The Journey of Elaina](../series/wandering-witch/) — `series/wandering-witch/` — Japanese light-novel project for 魔女の旅々 (Wandering Witch: The Journey of Elaina); main numbered editions and the separate 2014 Upper/Lower originals retain distinct witness and comparison scopes.
 - [Wuthering Waves](../series/wuthering-waves/) — `series/wuthering-waves/` — post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane.
+- [You and I Are Polar Opposites / 正反対な君と僕](../series/you-and-i-are-polar-opposites/) — `series/you-and-i-are-polar-opposites/` — Japanese manga analysis of individual development, directed relationships, ordinary behavior and written register, with separate shared-artbook provenance and bounded reconstruction.
 - [YOUJO SENKI](../series/youjo-senki/) — `series/youjo-senki/`
 - [Yuri Is My Job!](../series/watayuri/) — `series/watayuri/` — Prospective Japanese manga analysis of Yuri Is My Job!, with volume readings and nine cumulative responsibilities for relationships, performance, information, agency, chronology, written speech, visual form, claims and character readiness. Source continuity, separately bounded supplements and reconstruction gates are controlled by the current entrypoint and project methods.
 - [Yuru Camp](../series/yuru-camp/) — `series/yuru-camp/`
+- [Zenless Zone Zero](../series/zenless-zone-zero/) — `series/zenless-zone-zero/` — Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 
 <!-- END GENERATED CORPUS SERIES CATALOG -->
 

@@ -1,0 +1,14 @@
+{
+  "series_id": "cosmic-princess-kaguya",
+  "stable_slug": "cosmic-princess-kaguya",
+  "canonical_title": "Cosmic Princess Kaguya! / 超かぐや姫！",
+  "media": ["ANIME"],
+  "repository_path": "series/cosmic-princess-kaguya/",
+  "canonical_entrypoint": "series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_COSMIC_PRINCESS_KAGUYA_BOOTSTRAP_20261110",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation."
+}

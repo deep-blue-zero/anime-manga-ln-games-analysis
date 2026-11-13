@@ -984,3 +984,38 @@ That is stronger than “responsible dependence.”
 It is **accountable inheritance becoming relational legitimacy**.
 
 And it makes China one of Gakumas’s clearest challenges not to merit itself, but to the fantasy that merit can ever be perfectly separated from history, institutions, resources, relationships, and love.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_06_KURAMOTO_CHINA_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### China sees a future for Kanae beyond helping her
+
+In the Kanae arc, Kanae refuses election funding and backstage influence in her exchange with the family and supplies practical help backstage. China wants Kanae to have a dream of her own and internally recognizes that Kanae has missed the point. After China's H.I.F. win, Kanae feels distance in the hall and China recognizes Kanae's work backstage. Kanae later seeks first-hand training and the Producer reacts to her name. `adv_dear_hkne_000-03-horizontal.txt` M001–006, M037–055, `adv_dear_hkne_000-04-horizontal.txt` M044–077 and `adv_dear_hkne_000-05-horizontal.txt` M028–049. [Kanae and China reading](GKM_KANAE_CHINA_DEAR_000_READING.md).
+
+China receives skilled help that can protect her independent achievement and recognizes that Kanae has needs and possibilities beyond the attendant role. China's concern and Kanae's wish to remain useful create a tension that survives their reunion. The exchange establishes Kanae's refusal in this scene. The full extent of family involvement, China's proposed next step and Kanae's idol status remain open.
+
+**Scope.** C1 within the Kanae horizontal sequence, compatible with the China-winning Dear outcome.
+
+**Claim disposition.** `CHINA-R86-C01` — STRENGTHEN `CHINA-C16` and ADD to core §19.
+
+### China distinguishes the champion's pin from the future office
+
+After winning, China wears the ordinary winter uniform with the title pin. The Producer confirms that pairing as a duty and says China's proposed procession is new to him. Students respond affectionately to China, and Tsubame stops the improvised procession. Kanae commissions a future uniform and China defers the redesign, explicitly calling herself the next president. `adv_cidol-kcna-3-018_01.txt` L154–218, `adv_cidol-kcna-3-018_02.txt` L150–193, L235–346 and `adv_cidol-kcna-3-018_03.txt` L190–235, L251–321. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+China treats both distinctions as work she must grow into. Her affection among students can support legitimacy, even as China tests what gravitas means to her and preserves the actual timing of the office transfer. The scene establishes a president-elect state and a stated plan for an image change. The uniform commission does not establish future use.
+
+**Scope.** C1 within China 018 after China's H.I.F. win and before the end of term.
+
+**Claim disposition.** `CHINA-R86-C02` — ADD to `CHINA-C19`.
+
+### China's result diverges from owl's planned learning model
+
+Owl asks China to do `これだけがんばる` within the plan so they can collect usable data. Later owl says China mastered few of the taught techniques, used those at a high level, and improved her singing beyond what owl expected. `adv_cidol-kcna-3-019_02.txt` L107–194 and `adv_cidol-kcna-3-019_03.txt` L143–229. [Communication reading](../GKM_COMMU_REVISION_86_DEEP_READING.md).
+
+China's disciplined trust in instruction permits individualized progress. The teacher's expectation of approaching a model gives way to a different outcome assessed on China's own work. Owl's feedback establishes the tutor's evaluation. Comparative performance remains an AV question.
+
+**Scope.** C1 within the `ガラクタロード` lesson sequence, C2 relative to the winter result.
+
+**Claim disposition.** `CHINA-R86-C03` — ADD to the incremental-learning account and STRENGTHEN `CHINA-C16`.

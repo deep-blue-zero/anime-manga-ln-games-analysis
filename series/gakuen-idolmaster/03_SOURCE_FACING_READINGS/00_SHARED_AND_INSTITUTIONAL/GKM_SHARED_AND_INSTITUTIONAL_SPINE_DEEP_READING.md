@@ -2,6 +2,7 @@
 title: "Gakuen Idolmaster V2 — Shared Narrative and Institutional Spine Deep Reading"
 project: "Gakuen Idolmaster / 学園アイドルマスター"
 document_type: "canonical source-facing deep reading"
+artifact_type: deep_reading
 version: "2.1"
 phase: "2 — Shared Narrative and Institutional Spine"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
@@ -758,9 +759,7 @@ This establishes an alternative model:
 - institutional permission can authorize exceptional arrangements;
 - the school recognizes possible conflicts between student production and formal P-course authority.
 
-Sena’s model also contains a warning. She initially evaluates her own continued place in Begrazia through numerical capacity and assumes she should withdraw if she becomes a drag. After losing to Re;IRIS, she revises that belief and says idol ability cannot be fully represented by numbers.
-
-The institution is therefore capable of producing a self-critical Producer—but only through defeat and counterexample.
+**Historical correction — HSCA-004 (C1 @ U1).** Sena announces retirement and applies Begrazia's standard to herself, expecting Ume or Misuzu to surpass her. Her conversation with Saki unsettles that plan before the result. Re;IRIS then wins the unit contest, and Sena retracts retirement, citing her frustration and her own estimate of her performance. She accepts Misuzu's numerical comparison and still says that idol ability exceeds those numbers. Ume disputes Sena's self-ranking and raises the school event restriction after graduation. The correction distinguishes Sena's evaluation, the unit result and the unresolved roster question. See `LOC-HSCA-004A`–`004D` and Relationship Systems II §8.7.1.
 
 ---
 

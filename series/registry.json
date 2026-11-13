@@ -66,6 +66,22 @@
       "catalog_note": "Distinct A Certain Scientific Railgun manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
     },
     {
+      "series_id": "a-certain-scientific-railgun-astral-buddy",
+      "stable_slug": "a-certain-scientific-railgun-astral-buddy",
+      "canonical_title": "A Certain Scientific Railgun: Astral Buddy",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/a-certain-scientific-railgun-astral-buddy/",
+      "canonical_entrypoint": "series/a-certain-scientific-railgun-astral-buddy/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Distinct A Certain Scientific Railgun: Astral Buddy manga project within the A Certain franchise; independent work, edition, disclosure and character-state boundaries govern cross-title comparison."
+    },
+    {
       "series_id": "a-sisters-all-you-need",
       "stable_slug": "a-sisters-all-you-need",
       "canonical_title": "A Sister's All You Need",
@@ -170,6 +186,23 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "blue-box",
+      "stable_slug": "blue-box",
+      "canonical_title": "Blue Box",
+      "media": [
+        "MANGA",
+        "NOVEL"
+      ],
+      "repository_path": "series/blue-box/",
+      "canonical_entrypoint": "series/blue-box/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese アオのハコ main manga project with separate Interlude and Prologue prose supplement witnesses; medium-specific narration and cross-source continuity remain explicitly distinguished."
+    },
+    {
       "series_id": "chainsaw-man",
       "stable_slug": "chainsaw-man",
       "canonical_title": "Chainsaw Man",
@@ -229,6 +262,22 @@
       "authority_status": "GIT_PRIMARY",
       "project_initiation_gate": "REQUIRED",
       "catalog_note": "Connected Japanese manga project covering The Cornered Mouse Dreams of Cheese and The Carp on the Chopping Block Jumps Twice, with explicit edition/supplement boundaries, longitudinal character and relationship evidence, and separate reconstruction validation. Primary and derived evidence remain outside Git."
+    },
+    {
+      "series_id": "cosmic-princess-kaguya",
+      "stable_slug": "cosmic-princess-kaguya",
+      "canonical_title": "Cosmic Princess Kaguya! / 超かぐや姫！",
+      "media": [
+        "ANIME"
+      ],
+      "repository_path": "series/cosmic-princess-kaguya/",
+      "canonical_entrypoint": "series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_COSMIC_PRINCESS_KAGUYA_BOOTSTRAP_20261110",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Single Japanese animated feature: narrative, character and directed relationships, cinematic form and musical dramaturgy, with independent continuous-AV reading and bundle-mediated reconciliation."
     },
     {
       "series_id": "domestic-girlfriend",
@@ -383,6 +432,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "honkai-star-rail",
+      "stable_slug": "honkai-star-rail",
+      "canonical_title": "Honkai: Star Rail",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/honkai-star-rail/",
+      "canonical_entrypoint": "series/honkai-star-rail/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent versioned Honkai: Star Rail game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella."
+    },
+    {
       "series_id": "idoly-pride",
       "stable_slug": "idoly-pride",
       "canonical_title": "IDOLY PRIDE",
@@ -395,6 +460,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "PARTIAL_G4_P02_SINGLE_LEDGER",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "kamakura-sho",
+      "stable_slug": "kamakura-sho",
+      "canonical_title": "Kamakura Police Station: The Case Files of Asumi Ogasawara / 鎌倉署・小笠原亜澄の事件簿",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/kamakura-sho/",
+      "canonical_entrypoint": "series/kamakura-sho/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_KAMAKURA_SHO_BOOTSTRAP_20261112",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese detective novels by Kyōichi Narukami, with source-grounded analysis of investigations, mystery disclosure, character and relationship development, and literary form."
     },
     {
       "series_id": "kimishinu",
@@ -901,6 +982,22 @@
       "catalog_note": "Japanese manga project for SPY×FAMILY, with main numbered volumes and the separately scoped EYES ONLY official fanbook; other works and adaptations remain independent evidence lanes."
     },
     {
+      "series_id": "summer-time-rendering",
+      "stable_slug": "summer-time-rendering",
+      "canonical_title": "Summer Time Rendering / サマータイムレンダ",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/summer-time-rendering/",
+      "canonical_entrypoint": "series/summer-time-rendering/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_SUMMER_TIME_RENDERING_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of causality, knowledge, character and directed relationships, with distinct main and supplementary horizons and source-bounded reconstruction."
+    },
+    {
       "series_id": "tatsuki-fujimoto-before-chainsaw-man",
       "stable_slug": "tatsuki-fujimoto-before-chainsaw-man",
       "canonical_title": "Tatsuki Fujimoto Before Chainsaw Man / 藤本タツキ短編集",
@@ -1099,6 +1196,22 @@
       "catalog_note": "post-cutover Git-native analytical root; primary and deterministic derived evidence remain in its governed Drive evidence plane."
     },
     {
+      "series_id": "you-and-i-are-polar-opposites",
+      "stable_slug": "you-and-i-are-polar-opposites",
+      "canonical_title": "You and I Are Polar Opposites / 正反対な君と僕",
+      "media": [
+        "MANGA"
+      ],
+      "repository_path": "series/you-and-i-are-polar-opposites/",
+      "canonical_entrypoint": "series/you-and-i-are-polar-opposites/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_POLAR_OPPOSITES_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese manga analysis of individual development, directed relationships, ordinary behavior and written register, with separate shared-artbook provenance and bounded reconstruction."
+    },
+    {
       "series_id": "youjo-senki",
       "stable_slug": "youjo-senki",
       "canonical_title": "YOUJO SENKI",
@@ -1126,6 +1239,22 @@
       "materialization_status": "PRESENT_REVIEWED",
       "migration_scope": "G5_FINAL_AGGREGATE",
       "authority_status": "GIT_PRIMARY"
+    },
+    {
+      "series_id": "zenless-zone-zero",
+      "stable_slug": "zenless-zone-zero",
+      "canonical_title": "Zenless Zone Zero",
+      "media": [
+        "GAME"
+      ],
+      "repository_path": "series/zenless-zone-zero/",
+      "canonical_entrypoint": "series/zenless-zone-zero/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261107",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Independent versioned Zenless Zone Zero game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella."
     }
   ]
 }

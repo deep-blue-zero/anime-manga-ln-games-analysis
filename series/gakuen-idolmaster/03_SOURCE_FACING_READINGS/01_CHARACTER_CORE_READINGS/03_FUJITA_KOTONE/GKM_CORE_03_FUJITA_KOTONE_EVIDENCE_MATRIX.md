@@ -223,3 +223,10 @@ The next sources with highest expected information gain are:
 9. **Younger-sister material across support/event corpus** — test scarcity/replacement anxiety after financial stabilization.
 10. **Any scene where Kotone turns down profitable work** — critical for boundaries of commerciality thesis.
 
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** the work, recognition and practical-security formulation with the post-debt account in Dear 032. **REVISE** the winter endpoint by naming D-KOTONE's win and the separate P3 failure outcome. Dear 031 shows Tsubame withdrawing her own diagnosis of insufficient combativeness after watching Kotone's audience-facing work. Dear 037 establishes desire and a career boundary, with a verbal reply declined in both paths.
+
+[Source reading 1](GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md)

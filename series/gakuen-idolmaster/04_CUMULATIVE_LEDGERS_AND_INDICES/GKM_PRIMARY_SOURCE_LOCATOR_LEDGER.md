@@ -5,7 +5,7 @@ document_type: "persistent ledger"
 version: "2.14"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-11-07 — Saki locators SAKI-L061–L064 added (U1 Episode 04 nightmare/insomnia correction)"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 status: "active; cumulative through Phase 6 Kaya Rinha source-crosswalk routing"
 ---
 
@@ -150,7 +150,7 @@ This table provides a working locator layer, not an exhaustive index. Exact word
 | SAKI-L055 | `adv_unit_01-01_12.txt`<br>`adv_unit_01-01_13.txt`<br>`adv_unit_01-01_14.txt` | `transcripts_raw/12_unit_story/unit_01/episode_01/part_12.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_01/part_13.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_01/part_14.txt` | U1 | Kotone/Temari challenge; Saki revises judgment and recruits rival/ally |
 | SAKI-L056 | `adv_unit_01-02_15.txt` | `transcripts_raw/12_unit_story/unit_01/episode_02/part_15.txt` | U1 | roles, centers, unit care and planning |
 | SAKI-L057 | `adv_unit_01-03_01.txt` | `transcripts_raw/12_unit_story/unit_01/episode_03/part_01.txt` | U1 | Worst Three/Begrazia relational context |
-| SAKI-L058 | `adv_unit_01-04_04.txt`<br>`adv_unit_01-04_05.txt`<br>`adv_unit_01-04_06.txt`<br>`adv_unit_01-04_07.txt`<br>`adv_unit_01-04_08.txt`<br>`adv_unit_01-04_09.txt`<br>`adv_unit_01-04_10.txt`<br>`adv_unit_01-04_11.txt`<br>`adv_unit_01-04_12.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_04.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_05.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_06.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_07.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_08.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_09.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_10.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_11.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_12.txt` | U1 | Re;IRIS/Begrazia contest, defeat, recovery, summer H.I.F. |
+| SAKI-L058 | `adv_unit_01-04_04.txt`<br>`adv_unit_01-04_05.txt`<br>`adv_unit_01-04_06.txt`<br>`adv_unit_01-04_07.txt`<br>`adv_unit_01-04_08.txt`<br>`adv_unit_01-04_09.txt`<br>`adv_unit_01-04_10.txt`<br>`adv_unit_01-04_11.txt`<br>`adv_unit_01-04_12.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_04.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_05.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_06.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_07.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_08.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_09.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_10.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_11.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_12.txt` | U1; `04_04` premonition C3 @ U1 (`咲季さん`) | Re;IRIS/Begrazia contest, defeat, recovery, summer H.I.F. |
 | SAKI-L059 | `adv_unit_01-04_20.txt`<br>`adv_unit_01-04_21.txt`<br>`adv_unit_01-04_22.txt`<br>`adv_unit_01-04_23.txt`<br>`adv_unit_01-04_24.txt`<br>`adv_unit_01-04_25.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_20.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_21.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_22.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_23.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_24.txt`<br>`transcripts_raw/12_unit_story/unit_01/episode_04/part_25.txt` | U1 | unit victory, Saki Prima Stella, idol-cultivation verdict |
 | SAKI-L060 | `adv_live_hski_001_end-01-01.txt`<br>`adv_live_hski_001_end-02-01.txt`<br>`adv_live_hski_001_end-03-01.txt`<br>`adv_live_hski_001_end-04-01.txt`<br>`adv_live_hski_001_start-01-01.txt`<br>`adv_live_hski_001_start-02-01.txt`<br>`adv_live_hski_001_start-03-01.txt`<br>`adv_live_hski_001_start-04-01.txt` | `transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-01-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-02-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-03-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_end-04-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-01-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-02-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-03-01.txt`<br>`transcripts_raw/08_live_scenes/hski=Saki_Hanami/001_start-04-01.txt` | live C3 | public command and outcome-sensitive comparison to Ume |
 | SAKI-L061 | `adv_unit_01-04_13.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_13.txt` | U1 training interval | Saki’s nightmare (dream-Ume is Saki-imagined, not Ume evidence); Temari notes sleeplessness; Kotone’s “world’s best supporter” consolation and Saki’s refusal |
@@ -444,7 +444,7 @@ A1 direct spot checks in the Phase-3 pass: Dear 003, 026, 027, 031, 033, and 037
 | `SUMIKA-C04` | genuine gyaru leisure/sociality | `adv_pevent_001_ssmk_activity_002.txt` | `transcripts_raw/02_produce_events/event_001/ssmk=Sumika_Shiun/activity_002.txt` | M-SUMIKA | amusement/shopping `デート` play |
 | `SUMIKA-C05` | strategic noninvestment | `adv_pstory_001_ssmk_after-audition-final-failure-01.txt` | `transcripts_raw/01_produce_main_story/series_001/ssmk=Sumika_Shiun/after-audition-final-failure-01.txt` | P1 | `レッスンサボってた`; frustration disqualification |
 | `SUMIKA-C06` | Lilja trust feels heavy | `adv_dear_ssmk_008.txt` | `transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_008.txt` | D-SUMIKA | `あの子の信頼が、重い` |
-| `SUMIKA-C07` | old-prodigy belief is Sumika fear | `adv_dear_ssmk_014.txt` | `transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_014.txt` | D-SUMIKA | `今のあたしじゃない`; Lilja rejection |
+| `SUMIKA-C07` | old-prodigy belief is Sumika fear | `adv_dear_ssmk_014.txt` | `transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_014.txt` | D-SUMIKA | `今のあたしじゃない`; Lilja's rejection concerns the promise, and the separate prodigy charge makes her hesitate (HSCA-005) |
 | `SUMIKA-C08` | chosen strong mask / lie to truth | `adv_dear_ssmk_008.txt` | `transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_008.txt` | D-SUMIKA | `強いあたしの仮面`; `嘘が本当になるまで` |
 | `SUMIKA-C09` | Producer coauthors fantasy | `adv_dear_ssmk_008.txt` | `transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_008.txt` | D-SUMIKA | `ふたりで幻想を作りましょう` |
 | `SUMIKA-C10` | P1 stop fleeing / top idol | `adv_pstory_001_ssmk_ending-true-01.txt` | `transcripts_raw/01_produce_main_story/series_001/ssmk=Sumika_Shiun/ending-true-01.txt` | P1 | `逃げてばっか`; `目指すよ、アイドルのトップ` |
@@ -1323,3 +1323,49 @@ Architecture label `support_series_3_part_076-102.dialogue.txt` contains 30 thre
 
 **Retrieval rule:** use the crosswalk row ID / exact A1 path for any Rinha claim outside these anchors. Do not infer absence from this compact ledger because the exhaustive inventory lives in the crosswalk.
 
+
+## Historical source corrections — 2026-11-12
+
+Physical A1 line numbers are for the checksum-verified Source Lock 1.0 snapshot. Repeated use of a script (for example, `adv_unit_01-04_20.txt`) locates different evidence in the same object.
+
+| ID | Bounded claim | Original name | Raw path | Scope | Physical lines | Japanese anchor |
+| --- | --- | --- | --- | --- | --- | --- |
+| `LOC-HSCA-001A` | Misuzu recruits Temari and reports Rinha's view | `adv_unit_01-04_08.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_08.txt` | C1 @ U1 | 67–237, 241–421, 452–512 | `今度こそ、一緒に` / `本気を出すのをやめる` |
+| `LOC-HSCA-001B` | Kotone challenges Misuzu's unit-as-friendship premise | `adv_unit_01-04_17.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_17.txt` | C1 @ U1 | 394–570 | `友達じゃないんですか` / `誤解` |
+| `LOC-HSCA-001C` | Misuzu recognizes Temari's pace | `adv_unit_01-04_20.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_20.txt` | C1 @ U1 | 681–694 | `最初で最後の全力疾走` |
+| `LOC-HSCA-001D` | Misuzu cries after defeat and recommits to her own pace | `adv_unit_01-04_22.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_22.txt` | C1 @ U1 | 542–823 | `騙されました` / `徒歩で勝ちますね` |
+| `LOC-HSCA-002A` | Saki resumes rivalry after first N.I.A. loss to Ume | `adv_dear_hume_019.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_019.txt` | C1 @ D-UME | 249 onward | `逃げたりしない` |
+| `LOC-HSCA-002B` | Sena wins; Ume and Saki give their own account of their result | `adv_dear_hume_022.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_022.txt` | C1 @ D-UME | 204–216, 297–309, 350 | `十王星南` / `追いついたわよ` |
+| `LOC-HSCA-002C` | Rinha assesses Saki's appearance of burnout | `adv_dear_hume_024.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_024.txt` | C1 @ D-UME | 312–359 | `燃え尽きてしまいそうだった` |
+| `LOC-HSCA-002D` | Producer assesses burnout; Ume intends to renew Saki's fuel | `adv_dear_hume_027.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_027.txt` | C1 @ D-UME | 481, 640–707 | `短命アイドル` / `お姉ちゃんを燃やします` |
+| `LOC-HSCA-002E` | Saki reports decided agency entry and prospective self-production | `adv_dear_hume_033.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_033.txt` | C1 @ D-UME | 298–393 | `100プロ入りが決まった` / `比べてしまいそう` |
+| `LOC-HSCA-003A` | Ume gives her first-choice agency and requests consultation on timing | `adv_dear_hume_035.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_035.txt` | C1 @ D-UME | 183–304 | `100プロが第一志望です` |
+| `LOC-HSCA-003B` | Producer compares professional environments | `adv_dear_hume_014.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_014.txt` | C1 @ D-UME | 186 | `100` / `以上の環境` |
+| `LOC-HSCA-003C` | Producer uses 100 Pro as a compensation comparator | `adv_dear_hume_016.txt` | `transcripts_raw/05_dear_idol/hume=Ume_Hanami/dear_016.txt` | C3 @ D-UME, third `報酬が……` choice | 52 | `卒業後、100プロに入社したとして` |
+| `LOC-HSCA-004A` | Sena announces retirement and her reasons | `adv_unit_01-04_14.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_14.txt` | C1 @ U1 | 332–506 | `現役最後のライブ` / `足手まとい` |
+| `LOC-HSCA-004B` | Sena and Saki speak as rival seniors; Sena reopens decision | `adv_unit_01-04_16.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_16.txt` | C1 @ U1 | 288–585 | `鏡` / `諦めにくく` |
+| `LOC-HSCA-004C` | Sena questions her retirement; judges distinguish technique and impact | `adv_unit_01-04_20.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_20.txt` | C1 @ U1 | 560–567, 724–787 | `引退を決めた` / `総合的に見て` |
+| `LOC-HSCA-004D` | Sena retracts retirement; Ume raises graduation restriction | `adv_unit_01-04_23.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_23.txt` | C1 @ U1 | 93–766 | `引退を撤回するわ` / `数値だけでは表せない` |
+| `LOC-HSCA-005A` | Lilja distinguishes promise from person and hears Sumika's accusation | `adv_dear_ssmk_014.txt` | `transcripts_raw/05_dear_idol/ssmk=Sumika_Shiun/dear_014.txt` | C1 @ D-SUMIKA | 406–458, 540–586, 619–699 | `約束を信じてるんじゃない` / `わたしのせい` |
+| `LOC-HSCA-006A` | Lilja's argument and Sumika's dubbed warning | `adv_event_001_main-02.txt` | `transcripts_raw/06_story_events/event_001/main-02.txt` | C1 within E001, C2 relative to Produce | 266–309, 341–382, 419–443 | `リーリヤ？` / `アテレコ` / `一理ある` |
+| `LOC-HSCA-006B` | Temari recalls harsher wording; Lilja denies saying it | `adv_event_001_main-05.txt` | `transcripts_raw/06_story_events/event_001/main-05.txt` | C1 within E001, C2 relative to Produce | 90–180 | `雑魚` / `そんなこと言ってません` |
+| `LOC-HSCA-006C` | Sumika reuses the misunderstanding | `adv_event_004_main-01.txt` | `transcripts_raw/06_story_events/event_004/main-01.txt` | C1 within E004, C2 relative to Produce | 76–113, 269–292 | `また脅す気` / `誤解` |
+| `LOC-HSCA-006D` | Temari still calls Lilja courageous and accepts her invitation | `adv_event_004_main-05.txt` | `transcripts_raw/06_story_events/event_004/main-05.txt` | C1 within E004, C2 relative to Produce | 68–80, 391–445 | `度胸` / `私が行きたい` |
+| `LOC-HSCA-046A` | Saki's premonition occurs only under the third option | `adv_unit_01-04_04.txt` | `transcripts_raw/12_unit_story/unit_01/episode_04/part_04.txt` | C3 @ U1, `咲季さん` choice | 225–227, 462, 575, 676–681 | `妹に、一度でも負けちゃったら` |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Use the reading's A1 locator with the [versioned archive-relative path and SHA-256](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv). M denotes one-based message-command order where indicated and L a physical line. The partition counts each new A1 object once.
+
+| evidence group | retrieval | coverage |
+| --- | --- | --- |
+| GKM-R86-01 | [Kotone Dear and Produce variants](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/03_FUJITA_KOTONE/GKM_KOTONE_TRANSCRIPT_REFRESH_20261112.md) | 17 new, 976 messages |
+| GKM-R86-02 | [Sena Dear, Produce and communications](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/12_JUO_SENA/GKM_SENA_TRANSCRIPT_REFRESH_20261112.md) | 28 new, 1,306 messages, plus Dear 025 staging revision |
+| GKM-R86-03 | [Tsubame Dear, Produce and communications](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/13_AMAYA_TSUBAME/GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md) | 20 new, 954 messages, plus Dear 020 and 022 staging revisions |
+| GKM-R86-04 | [Kanae 000 horizontal arc](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_KANAE_CHINA_DEAR_000_READING.md) | 5 new, 326 messages |
+| GKM-R86-05 | [Events 027 and 028](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md) | 10 new, 607 messages |
+| GKM-R86-06 | [Event 030](../03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md) | 5 new, 342 messages |
+| GKM-R86-07 | [Support and seasonal startup](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md) | 44 new, 845 messages, plus support 3-0063 part 03 |
+| GKM-R86-08 | [Eleven remaining new communication episodes](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md) | 33 new, 1,347 messages, plus Rinami 018 and Saki 015 revisions |
+| GKM-R86-09 | [Remaining Dear epilogues and common A1 changes](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) | 10 new, 220 messages, with three overlap epilogues already counted above, and seven technical comparisons |

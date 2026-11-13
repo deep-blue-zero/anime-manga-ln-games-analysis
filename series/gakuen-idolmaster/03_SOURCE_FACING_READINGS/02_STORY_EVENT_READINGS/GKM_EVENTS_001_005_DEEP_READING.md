@@ -527,7 +527,7 @@ From the edge of the scene Temari tells Sumika that Lilja has enough nerve that 
 
 Later Temari again yields to Lilja's invitation while verbally denying that Lilja has special leverage over her.
 
-The Event 001 relation has become a stable grammar: Lilja's quiet earnestness reaches Temari because it cannot easily be dismissed as status play. Temari may be hostile to soft social pressure, but she respects conviction.
+**Historical correction — HSCA-006 (REVISE).** In Event 001, Lilja gives her own reason for class cooperation before the line labeled `リーリヤ？`. Sumika identifies the aggressive line as her own `アテレコ`, and Temari then says Lilja's argument has a point. At the next gathering Temari attributes a harsher version to Lilja and adds `雑魚`. Sumika reinforces the impression, and Lilja denies the attribution. At the summer festival, Temari asks whether Lilja means to threaten her again. Sumika calls the impression a reusable tactic, and Lilja calls it a misunderstanding. The scenes establish both conviction and a comic misattribution. Temari's precise balance of apprehension, face-saving and play remains open to audiovisual review (`LOC-HSCA-006A`–`006D`).
 
 ## 6.8 “Friend” versus “comrade”
 
@@ -742,14 +742,14 @@ Phase 4 should not silently rewrite the character cores. The following table rec
 | character | Phase-4 transition | Events | current result |
 | --- | --- | --- | --- |
 | Hanami Saki | **STRENGTHEN** competitive relation; **STRENGTHEN** caregiving competence; **REVISE** rationality-as-complete-causal-explanation | 001, 004, 005 | contest is epistemology and pedagogy; care can be practical and nonintrusive; relational desire can outrun stated optimization logic |
-| Tsukimura Temari | **STRENGTHEN** professional severity; **REVISE** aloofness; **STRENGTHEN** distance-calibration problem | 001, 004 | wants relation more than surface hostility suggests; moves awkwardly from exclusion to high-intimacy proposals; respects conviction |
+| Tsukimura Temari | **STRENGTHEN** professional severity; **REVISE** aloofness; **STRENGTHEN** distance-calibration problem | 001, 004 | wants relation more than surface hostility suggests; moves awkwardly from exclusion to high-intimacy proposals; responds to conviction and misattributes Sumika's dubbed warning to Lilja (§6.7) |
 | Fujita Kotone | **STRENGTHEN** precarity; **STRENGTHEN** social reading/regulation; **STRENGTHEN** boundary defense | 001, 003, 004, 005-discussed | exhaustion is materially visible; she regulates peers without standing outside the group; poor status does not imply low talent |
 | Arimura Mao | **STRENGTHEN** senior/prince role as chosen action; **REVISE** care calibration under pressure | 003 | result anxiety can make care overreach, but she detects and repairs the error; princehood becomes practical service rather than static image |
 | Katsuragi Lilja | **STRENGTHEN** ambition, courage, and competitiveness; **STRENGTHEN** cultural-specific uncertainty | 001, 004 | fear coexists with explicit desire not to lose; she converts teaching into repeated self-authored attempts and expands beyond Sumika |
 | Kuramoto China | **STRENGTHEN** accurate weakness-awareness; **STRENGTHEN** receptive authority; **STRENGTHEN** inherited-legitimacy problem | 002, 005 | anxiety becomes steady practice; friendliness does not erase norm enforcement; elite endorsement precedes later stewardship questions |
 | Shinosawa Hiro | **STRENGTHEN** resistant-form model; **REJECT** selfish-failure-seeking simplification | 002 | wants personal hardship but explicitly dislikes harming friends through her weakness |
 | Himesaki Rinami | **STRENGTHEN** reversible hospitality; **STRENGTHEN** firm judgment inside soft register | 003, 005 | reframes performance around shared pleasure without denying ambition; politely challenges questionable institutional arrangements |
-| Shiun Sumika | **STRENGTHEN** social intelligence; **REVISE** nontraining as simple avoidance; **STRENGTHEN** nonpossessive handling of jealousy | 001, 003, 004 | engineers social connection, carries family/community labor, converts work into craft, and gives Lilja room to build independent relationships |
+| Shiun Sumika | **STRENGTHEN** social intelligence; **REVISE** nontraining as simple avoidance; **STRENGTHEN** nonpossessive handling of jealousy | 001, 003, 004 | engineers social connection and reinforces the dubbed-warning misunderstanding, carries family/community labor, converts work into craft, and gives Lilja room to build independent relationships |
 | Hanami Ume | **STRENGTHEN** reciprocal propulsion; **STRENGTHEN** body/metric distinction | 002, 005 | low starting rank becomes fuel; athletic capacity is obvious while idol potential remains epistemically open even to Sena |
 | Hataya Misuzu | **STRENGTHEN** low-tempo self-authorship and relational possessiveness; **OPEN** student-council motive | 002, 005 | gentle behavior coexists with notorious reputation, truancy, jealousy, care, and elite skill; remaining-capacity question needs later resolution |
 | Juo Sena | **STRENGTHEN** generative supremacy; **PROMOTE** successor/rival distinction; **REJECT** infallible talent-eye model | 005; 003 inference | pseudo-agency externalizes her succession project; Saki becomes rival instead of successor; Ume creates productive epistemic failure |
@@ -780,9 +780,9 @@ Event delta: Sumika converts Lilja's fear into group action, later deliberately 
 ### Lilja ↔ Temari
 
 Early relation: fear versus professional contempt.  
-Event delta: Lilja's quiet counter-demand earns respect; Temari remembers her, changes policy, later treats Lilja as unusually persuasive and courageous.
+Event delta: Lilja's conviction supplies a reason to cooperate. Sumika's dub and Temari's attribution give Lilja extra leverage that Lilja herself disavows.
 
-**State:** conviction-based respect under persistent temperamental distance.
+**State:** respect for conviction mixed with an attribution error and persistent temperamental distance. Temari's exact delivery remains open (HSCA-006, §6.7).
 
 ### Saki ↔ Lilja
 
@@ -1189,7 +1189,7 @@ The following findings should be promoted into mutable cumulative infrastructure
 Promote:
 
 - Saki: competition-as-pedagogy; bounded care for Kotone; Sena wall confrontation.
-- Temari: nickname/intimacy overcorrection; respect for Lilja conviction.
+- Temari: nickname/intimacy overcorrection; respect for Lilja's conviction and the leverage of Sumika's dubbed warning (§6.7).
 - Kotone: visible overwork plus class-level social regulation.
 - Mao: senior-care overreach → self-correction → collaborative repair.
 - Lilja: explicit early competitiveness; cross-cultural festival uncertainty; competitive mentorship with Saki.
