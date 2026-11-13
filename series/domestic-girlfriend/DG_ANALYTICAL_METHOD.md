@@ -4,7 +4,7 @@ series: domestic-girlfriend
 artifact_id: DG_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: DG-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL project method; procedural authority only, no literary findings"
 source_boundary: "Metadata reconnaissance of Japanese manga volumes 01-03 only; no narrative units admitted or inspected"
@@ -105,3 +105,17 @@ The required reading artifact is `readings/DG_VNN_DEEP_READING.md`, created only
 Update the source inventory, character ledger, relationship ledger, register/everyday ledger and claim ledger in the same unit transaction; give “no material change” with a reason in the reading when a home has no update. Do not insert empty “no change” data rows unless the absence is itself meaningful. Update reconstruction coverage only when evidence has actually advanced, and the entrypoint/high-water mark only after acceptance and required persistence.
 
 A future receiver must inspect substantial prose, representative source support and every known consequential ambiguity. Sample names and references in the opening, a substantive middle section, exit state and every major relationship; record the handoff contract's findings. An inadequate source route, missing required channel, inconsistent run boundary or materially compressed argument holds the affected completion claim. Validation alone is not semantic acceptance.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Every authorized collected-volume reading must include a clearly labeled **Current-unit story synopsis** near its front: after the witness/coverage receipt and entering context (items 1–2 above), before the governing thesis, extended interpretation and ledger inventory (item 3 onward). It belongs inside the canonical volume reading, not in a new synopsis file. Orient the reader to inherited events and relationships briefly, then distinguish what newly happens in this volume.
+
+Write coherent, accessible prose tracing the opening situation, source-established participants and stakes, consequential actions and decisions, turning points and disclosures, and the state reached at the volume's ending. Preserve meaningful scene mechanics: who acts on whom or what, how an action or interruption proceeds, and its consequences where the panels establish them. Respect actual chapter/movement and panel order; mark inferred transitions across gutters instead of supplying unseen action. Scale detail to narrative density, with no fixed word count or compulsory chapter template. A V03 ending remains an acquisition-frontier outcome, not an asserted full-series resolution.
+
+Use only this admitted Japanese volume and clearly marked inherited context. Distinguish depicted events, a person's testimony or thought, narrator presentation, conjecture, contested attribution and unresolved outcomes in ordinary prose; a relationship label or apparent expression cannot turn an inference into fact. Attach retrievable witness/chapter/image/panel locators under §8, or stable evidence references resolving to them, to material event claims without converting the account into rows. Later volumes, adaptations and remembered plot cannot fill gaps.
+
+This is unit-end, spoiler-bearing orientation. Compose or finalize it only after the applicable prospective captures are frozen, and withhold the full spoiler-bearing reading from any analyst assigned an earlier chapter, movement or volume horizon. It is neither a prospective freeze nor independent evidence. The full causal, visual, Japanese, character, relationship and counterreading work, synchronized ledger updates and exit freeze remain mandatory; the synopsis supplements every existing obligation above. Only a genuinely non-narrative separately scoped pass may mark the responsibility inapplicable with a reason.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings. No synopsis, narrative admission, run authorization or change to frozen history is made here._

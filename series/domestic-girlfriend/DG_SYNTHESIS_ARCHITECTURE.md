@@ -4,7 +4,7 @@ series: domestic-girlfriend
 artifact_id: DG_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: DG-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL source-bounded project architecture; no run authorization or literary conclusion"
 source_boundary: "Metadata reconnaissance of Japanese manga volumes 01-03 only; no narrative units admitted or inspected"
@@ -72,7 +72,7 @@ The reading owns movement-level explanation: agent, perceived stakes, decision/c
 |---|---|---|
 | 5.1 Purpose, scope, authority | Opening section, authority front matter and current entrypoint | Procedural authority distinguished from literary and run authority |
 | 5.2 Source model | Source model above and source inventory | V01–03 limit; witness, apparatus and excluded tracks explicit |
-| 5.3 Sequential contribution | Unit transaction above; method §9 | Full reading plus all required updates and exit freeze |
+| 5.3 Sequential contribution | Unit transaction above; method §9 | Full reading plus all required updates and exit freeze; required [current-unit story synopsis](DG_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Longitudinal infrastructure | Four typed ledgers plus source/control home | Schemas, IDs, update triggers and preserved history present |
 | 5.5 Character / relationships | Earned-study rule below; reconstruction specification | Named subjects and directional edges; no dossier without evidence |
 | 5.6 Specialists | Responsibility matrix and study contracts below | Mandatory responsibilities satisfied, optional domains justified |
@@ -180,3 +180,4 @@ Retrieval is entrypoint → method/architecture → scoped ledger or study → c
 | Version | Date | Change / basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL partial-acquisition architecture; no sequential findings, source admissions or owner run approval |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future eligible volume readings; all existing analytical duties and CLOSED authorization boundary preserved |
