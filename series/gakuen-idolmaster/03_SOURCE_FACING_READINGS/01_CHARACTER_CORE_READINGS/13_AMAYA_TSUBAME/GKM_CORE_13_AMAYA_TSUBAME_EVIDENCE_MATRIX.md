@@ -90,3 +90,10 @@ This matrix routes the claims in `GKM_CORE_13_AMAYA_TSUBAME.md` to their stronge
 ## Phase-3 evidence judgment
 
 The core model is well supported by the Dear longitudinal route and reinforced by P1/P2/M material. The claims carrying the greatest later-phase falsification burden are **TSB-037** (paternalism risk), **TSB-062** (star quality through rescue), and the broad synthesis **TSB-066**. These should be actively attacked rather than merely confirmed in Phases 4–7.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+**STRENGTHEN** TSB-001, TSB-025, TSB-040 and TSB-065 with the title's bounded tenure and renewed rivalry. **STRENGTHEN** TSB-017 with the later commitment to consultation (`adv_cidol-atbm-3-015_02.txt` L006–131), and keep TSB-037 open given continuing tactical assertiveness. The post-win professional horizon and the music communication do not establish new perceptual findings.
+
+[Source reading 1](GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

@@ -810,3 +810,28 @@ Recommended routing:
 - China extraction, source-family segmentation, locators, bounded first draft: **GPT-5.6 Sol — Extra High**.
 - Lilja/Sumika REVERSI comparative synthesis after Sumika's own core is complete: **GPT-5.6 Pro — Pro reasoning preferred**.
 - Lilja integrated AV synthesis after corpus acquisition: **GPT-5.6 Pro — Pro reasoning preferred** because the key unresolved claims concern actual transmissive performance, vocal/persona contrast, world-making, and REVERSI dyadic staging.
+
+
+## Source Lock 1.1 supplement — 2026-11-12
+
+The claims below use revision 86 A1. The earlier sections document the Source Lock 1.0 reading. The companion [evidence matrix](GKM_CORE_05_KATSURAGI_LILJA_EVIDENCE_MATRIX.md#source-lock-11-supplement--2026-11-12) records the claim dispositions. The [source delta](../../../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) resolves original filenames to archive paths and hashes. L indicates a physical A1 line. M indicates the ordinal of an A1 message command.
+
+### Campaign leadership means adjusting a method to another person
+
+Sena delegates the fragrance campaign to Lilja. Lilja chooses rose for the brief and the Hanami sisters despite her own preference for lemon. Saki suggests drawing on cosplay to inhabit the role. Lilja tries that method, then gives Ume a different prompt by asking her to imagine a recipient. The staff accepts Ume's retake. `adv_event_030_main-01.txt` M014–034, `adv_event_030_main-02.txt` M023–042, M052–070, `adv_event_030_main-04.txt` M023–070 and `adv_event_030_main-05.txt` M001–027. [Numbered-event reading](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md).
+
+Lilja learns to accept collaborators' proposals while keeping responsibility for the brief. Cosplay becomes an available technical method. Her contribution to Ume is recognizing when a different method fits the performer. The accepted retake establishes the job outcome within the event. The degree of change in voice and physical delivery remains open.
+
+**Scope.** C1 within E030, C2 relative to Lilja's main tracks.
+
+**Claim disposition.** `LILJA-R86-C01` — STRENGTHEN `LILJA-C18` and ADD related evidence for `LILJA-C30`.
+
+### Costume craft develops through trust and control of disclosure
+
+Lilja tells Saki that she started cosplaying after arriving in Japan. She describes making her own costumes and learning makeup from Sumika. She protests when Sumika shows a photo without asking. Lilja describes embodying a character's point of view and considers a future use for that skill in idol work. `adv_csprt-3-0111_02.txt` L6–148 and `adv_csprt-3-0111_03.txt` L11–166. [Support-card reading](../../03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md).
+
+The hobby gives Lilja a setting to practice authoring appearances, with reciprocal craft support and her own boundaries around public disclosure. Saki takes her craft seriously enough to ask for an expert's advice. Lilja is still considering public idol use in this story. The relation between these Halloween preparations and the numbered event is unestablished.
+
+**Scope.** C1 within the Halloween preparation, C4 against the main tracks.
+
+**Claim disposition.** `LILJA-R86-C02` — ADD to `LILJA-C18` and `LILJA-C19`.

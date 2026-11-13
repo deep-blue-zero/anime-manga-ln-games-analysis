@@ -1020,3 +1020,10 @@ It is:
 > **a girl who first made relationships safe by being indispensable learns that people can remain precious while moving differently, fighting her, surpassing her, choosing other attachments and refusing the old form. Because she no longer has to freeze the world to keep it warm, her appetite can become larger. The moon can remain a moon, rivals can remain rivals, fans can choose repeatedly, Producer can walk beside her, and the night sky can keep expanding beyond the stars she already knows.**
 
 That is why Dear 037 is a better endpoint than the Prima Stella victory itself. Misuzu reaches the high place promised at the beginning, yawns with Producer—and discovers that the visible summit was only the first sky.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Misuzu's café account confirms that attending one another's lives helped repair contact with Temari. Rinha accepts that account for the two and contests the analogy to herself (`adv_cidol-hmsz-3-018_01.txt` L7–264). In the following rehearsal, Misuzu values Temari's willingness to struggle with her and accepts recognition of deliberate effort (`_03.txt` L45–125, L172–259). E027 shows cooperation continuing alongside Temari's refusal to join the council (`adv_event_027_main-01.txt` M018–020 and `main-05` M024–030).
+
+[Source reading 1](../GKM_COMMU_REVISION_86_DEEP_READING.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

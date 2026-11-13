@@ -369,3 +369,14 @@ Participant names are scene-presence indexes; references/incidental figures are 
 Participant names are scene-presence indexes; references/incidental figures are labeled in the participants field.
 
 **Phase-5 support participant/source coverage is COMPLETE: 498/498 scripts / 9,777/9,777 messages.**
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| source_story_id | source_family | speakers / principal participants | mentioned characters | relationship pairs_or_groups | continuity_class | themes | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| E027 | numbered event | Temari, Misuzu, Sena, studio staff | Saki as pace comparison, Sena's childhood friend | trio, Temari–Misuzu | C1 local / C2 globally | advertising, sponsorship, childhood and professional practice | 5 objects and 278 messages. See GKM-R86-05. |
+| E028 | numbered event | Rinami, Tsubame, Sena, Mao, first-year students, President Juo, families and visitors | owl, Shuka, former unit leader | senior cohort, incoming council | C1 local with exam and H.I.F. anchors | selection, work, succession, vocational risk | 5 objects and 329 messages. See GKM-R86-05. |
+| E030 | numbered event | Lilja, Saki, Ume, Sena, Sumika and staff | Sumika in later discussion, unidentified imagined addressee resolved as Saki's remembered role | Lilja–Hanamis, sibling rivalry | C1 local / C2 globally | creative direction, cooperation and performance adaptation | 5 objects and 342 messages. See GKM-R86-06. |
+
+The 16 newly read support families, including direct speakers, reported figures and internal ordering, are indexed by family in the [revision 86 support reading](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md#source-family-readings). Its 42 A1 objects and 841 messages supplement the 498-object Phase 5 register. For per-part paths and checksums use the [source delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv).
