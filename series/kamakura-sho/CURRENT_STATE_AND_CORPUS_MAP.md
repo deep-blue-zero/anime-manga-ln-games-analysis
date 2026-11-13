@@ -97,7 +97,7 @@ The [terminal source completion and reconciliation](audits/KSOA_SOURCE_COMPLETIO
 | [Policing, place and narration](studies/KSOA_POLICING_PLACE_AND_NARRATION.md) | How institutions, geography and prose give access to evidence and set its limits |
 | [Character reconstruction readiness](audits/KSOA_CHARACTER_RECONSTRUCTION_READINESS.md) | Where the literary evidence supports a bounded candidate and what independent validation requires |
 
-The current cross-volume formulations and source routes are in the [series claim history](KSOA_CLAIM_REVISION_LEDGER.md#series-claim-history). The studies and this table contain solutions. For a bounded reading, use the [disclosure ledger](KSOA_DISCLOSURE_AND_HYPOTHESIS_LEDGER.md) to retrieve the applicable freeze.
+The current cross-volume formulations and source routes are in the [series claim history](KSOA_CLAIM_REVISION_LEDGER.md#series-claim-history). The studies and this table contain solutions. For a bounded reading, use the [disclosure ledger](KSOA_DISCLOSURE_AND_HYPOTHESIS_LEDGER.md) and the [checkpoint locator addendum](audits/KSOA_CHECKPOINT_LOCATOR_ADDENDUM.md) to extract the applicable freeze.
 
 ## Completed run and review status
 
