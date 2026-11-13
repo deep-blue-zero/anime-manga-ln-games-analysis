@@ -9,7 +9,7 @@ version: "1.0"
 created: "2026-11-12"
 status: canonical
 scope: "Sole current project entrypoint and operational state."
-source_boundary: "Japanese publisher EPUBs V01–V07. Sequential readings closed through V03 within the authorized run."
+source_boundary: "Japanese publisher EPUBs V01–V07. Sequential readings closed through V04 within the authorized run."
 canonical_home: series/kamakura-sho/CURRENT_STATE_AND_CORPUS_MAP.md
 supersedes: []
 superseded_by: []
@@ -25,7 +25,7 @@ project_initialization:
   architecture_status: canonical
   source_reconnaissance_complete: true
   source_reconnaissance_scope: "All seven Japanese EPUBs. Local and Drive bytes, import provenance, package structure and navigation."
-  source_admission: V01_THROUGH_V03
+  source_admission: V01_THROUGH_V04
   required_day_one_infrastructure_initialized: true
   required_day_one_infrastructure:
     - KSOA_SOURCE_AND_WITNESS_MAP.md
@@ -35,25 +35,25 @@ project_initialization:
     - KSOA_CLAIM_REVISION_LEDGER.md
   substantive_sequential_findings_at_bootstrap: false
   sequential_analysis_lock: open
-  next_permitted_operation: V04
+  next_permitted_operation: V05
   run_authorization: "Owner instruction in the current Codex task to analyze all seven local Japanese novels and generate the artifacts required by the architecture."
-  committed_high_water_mark: V03
-  sequential_units_admitted: 3
-  sequential_units_completed: 3
+  committed_high_water_mark: V04
+  sequential_units_admitted: 4
+  sequential_units_completed: 4
 sequential_execution:
   mode: continuous_sequential
   unit_type: volume
   authorized_start: V01
   terminal_boundary: V07
-  committed_high_water_mark: V03
-  next_candidate_operation: V04
+  committed_high_water_mark: V04
+  next_candidate_operation: V05
   confirmation_between_units: false
   run_state: active
 ---
 
 # Kamakura Police Station — current state and corpus map
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner authorized continuous sequential analysis of V01–V07 from the local Japanese witnesses. The committed high-water mark is **V03**, through [KSOA-V03-H-0013](readings/KSOA_V03_DEEP_READING.md#ksoa-v03-h-0013). **V04** is the next permitted operation.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The owner authorized continuous sequential analysis of V01–V07 from the local Japanese witnesses. The committed high-water mark is **V04**, through [KSOA-V04-H-0015](readings/KSOA_V04_DEEP_READING.md#ksoa-v04-h-0015). **V05** is the next permitted operation.
 
 `series/kamakura-sho/` is the canonical root for *Kamakura Police Station: The Case Files of Asumi Ogasawara* / 鎌倉署・小笠原亜澄の事件簿 by 鳴神響一 (Kyōichi Narukami), 文藝春秋 / 文春文庫. The planned corpus is V01 稲村ヶ崎の落日, V02 由比ヶ浜協奏曲, V03 極楽寺逍遙, V04 竹寺の雪, V05 西御門の館, V06 佐助ヶ谷の銀雫 and V07 長谷の花舞, the publisher-identified finale.
 
@@ -78,6 +78,7 @@ The primary sources are the seven Japanese EPUBs in the owner's local `Main Seri
 | V01 | [稲村ヶ崎の落日](readings/KSOA_V01_DEEP_READING.md) |
 | V02 | [由比ヶ浜協奏曲](readings/KSOA_V02_DEEP_READING.md) |
 | V03 | [極楽寺逍遙](readings/KSOA_V03_DEEP_READING.md) |
+| V04 | [竹寺の雪](readings/KSOA_V04_DEEP_READING.md) |
 
 ## Active run
 
