@@ -9,7 +9,7 @@ version: "1.0"
 created: "2026-11-12"
 status: canonical
 scope: "Bibliographic identity, witness bindings, structural coverage and source locator contract."
-source_boundary: "Japanese publisher EPUBs V01–V07. Bibliography, bytes and package structure reconciled. Narrative admission and inspection are pending."
+source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
 canonical_home: series/kamakura-sho/KSOA_SOURCE_AND_WITNESS_MAP.md
 supersedes: []
 superseded_by: []
@@ -60,7 +60,7 @@ All packages declare EPUB 3.0, one rootfile `item/standard.opf`, right-to-left p
 
 ## Spine and literary boundaries
 
-Across the seven witnesses, the first ZIP member is the stored EPUB mimetype. ZIP CRCs passed, manifest references exist, all spine XHTML parsed, and inspected navigation targets and fragments resolved. The observed spine has 100 occurrences in all, with no explicit `linear="no"` entries. The XHTML navigation member is `item/xhtml/p-toc.xhtml`. It has no page-list and the packages declare no spine NCX. This is package and navigation verification. Full EPUBCheck, rendered fidelity, completeness against a publisher master, and substantive source inspection remain outside that result.
+Across the seven witnesses, the first ZIP member is the stored EPUB mimetype. ZIP CRCs passed, manifest references exist, all spine XHTML parsed, and inspected navigation targets and fragments resolved. The observed spine has 100 occurrences in all, with no explicit `linear="no"` entries. The XHTML navigation member is `item/xhtml/p-toc.xhtml`. It has no page-list and the packages declare no spine NCX. This package and navigation result covers the declared structure. The accepted narrative inspections and their rendering limits are recorded separately below.
 
 The table accounts for all spine positions. Prefix the displayed basenames with `item/xhtml/` to obtain the exact archive member. Use `PRO`, `C01` through the last numbered chapter, and `EPI` as literary section keys under the volume. The titles of the chapter headings can be recorded at admission if needed and subject to the reader's boundary.
 
@@ -73,7 +73,7 @@ The table accounts for all spine positions. Prefix the displayed basenames with 
 | Epilogue | 10, `p-006.xhtml#toc-005` | 12, `p-008.xhtml#toc-006` |
 | Back matter | 11–14, `p-007.xhtml` (author bio markers), `p-008.xhtml` (imprint, rights and promotion markers), `p-colophon.xhtml`, `p-caution-002.xhtml` | 13–16, `p-009.xhtml` (author bio markers), `p-010.xhtml` (promotion markers), `p-colophon.xhtml`, `p-caution-002.xhtml` |
 
-The nine or ten positions outside the listed narrative span are provisional paratext dispositions per volume. No dedicated afterword is labeled in the navigation or detected by the inspected paratext markers. If a future bounded inspection identifies an afterword, reference list, bonus prose or ambiguous continuation, classify the precise span and record its status before using it. Spoiler-bearing paratext stays outside prospective reading and any extra narrative requires a scope decision. Cover and colophon imagery are paratext. V03 C02 and V05 C02 each contain one image reference in `item/xhtml/p-004.xhtml`, at `el[0804]` for `item/image/cid-00260_m_r.png` and `el[0585]` for `item/image/sa00084-aa.png` respectively. Inspect those at their authorized disclosure positions using `STILL_IMAGE` and record their function and any analytical consequences. The V03 occurrence is visually verified as an inline gaiji separator. Its [inspection record](readings/KSOA_V03_DEEP_READING.md#ksoa-v03-h-0007) locates and classifies it. The V05 occurrence is visually verified as an apostrophe and capital S in a camera model designation. See its [inspection record](readings/KSOA_V05_DEEP_READING.md#ksoa-v05-h-0006).
+The nine or ten positions outside the listed narrative span are scoped as paratext per volume. No dedicated afterword is labeled in the navigation or detected by the inspected paratext markers. If a future bounded inspection identifies an afterword, reference list, bonus prose or ambiguous continuation, classify the precise span and record its status before using it. Spoiler-bearing paratext stays outside prospective reading and any extra narrative requires a scope decision. Cover and colophon imagery are paratext. V03 C02 and V05 C02 each contain one image reference in `item/xhtml/p-004.xhtml`, at `el[0804]` for `item/image/cid-00260_m_r.png` and `el[0585]` for `item/image/sa00084-aa.png` respectively. Both were inspected at their authorized disclosure positions using `STILL_IMAGE`. The V03 occurrence is visually verified as an inline gaiji separator. Its [inspection record](readings/KSOA_V03_DEEP_READING.md#ksoa-v03-h-0007) locates and classifies it. The V05 occurrence is visually verified as an apostrophe and capital S in a camera model designation. See its [inspection record](readings/KSOA_V05_DEEP_READING.md#ksoa-v05-h-0006).
 
 ## Witness-bound locator
 

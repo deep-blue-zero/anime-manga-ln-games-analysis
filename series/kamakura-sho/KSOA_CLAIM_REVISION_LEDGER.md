@@ -9,7 +9,7 @@ version: "1.0"
 created: "2026-11-12"
 status: canonical
 scope: "Cross-unit interpretation, contradictory evidence and recoverable claim versions."
-source_boundary: "Japanese publisher EPUBs V01–V07. Bibliography, bytes and package structure reconciled. Narrative admission and inspection are pending."
+source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
 canonical_home: series/kamakura-sho/KSOA_CLAIM_REVISION_LEDGER.md
 supersedes: []
 superseded_by: []
@@ -19,7 +19,9 @@ do_not_use_as_literary_evidence: true
 
 # Claim revision ledger
 
-**Analytical rows at initialization: 0.** This is the canonical home for versioned, material interpretive propositions, including disputed readings of character, prose form, clue placement, institutional practice, setting and theme. Case hypothesis history lives in the [disclosure ledger](KSOA_DISCLOSURE_AND_HYPOTHESIS_LEDGER.md), and local observations keep their source homes.
+**Volume-level records through V07** 74.
+
+This is the canonical home for versioned, material interpretive propositions, including disputed readings of character, prose form, clue placement, institutional practice, setting and theme. Case hypothesis history lives in the [disclosure ledger](KSOA_DISCLOSURE_AND_HYPOTHESIS_LEDGER.md), and local observations keep their source homes.
 
 | Record | Required fields |
 |---|---|
@@ -162,3 +164,17 @@ The [frozen V07 reading](readings/KSOA_V07_DEEP_READING.md) defines the exact wi
 | <a id="ksoa-v07-cl-0005"></a> KSOA-V07-CL-0005 | [H-0011](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0011) | C04 0073–0126, 0157–0226 | OPEN Emiri's stake in the inquiry. Motoya suspects personal interest, while she explicitly advocates for Izumida. |
 | <a id="ksoa-v07-cl-0005-r01"></a> KSOA-V07-CL-0005-R01 | [H-0015](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0015) | EPI 0082–0130 | REJECT the romantic inference. Late engagement and alibi disclosures make the private meeting intelligible without retroactive knowledge at the encounter. |
 | <a id="ksoa-v07-cl-0006"></a> KSOA-V07-CL-0006 | [H-0015](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0015) | C04 0641–0655; EPI 0135–0151 | STRENGTHEN two-way professional dependence. Asumi's acknowledgement is voiced in company, while Motoya's future commitment is internal. |
+
+## Series claim history
+
+KSOA-G1. First versions recorded 2026-11-13 by the producer of the V01–V07 run, at source cutoff [KSOA-V07-H-0015](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0015) and terminal commit `9fee95813a8df8c19621001ae7cb1c9bc02f76bc`. These are retrospective synthesis claims. The linked volume versions preserve when particular support and counterevidence entered. [Specialist convergence](audits/KSOA_SPECIALIST_CONVERGENCE.md).
+
+| Stable claim | Current proposition and confidence | Prior claims, support and counterevidence | Dependent argument |
+|---|---|---|---|
+| <a id="ksoa-ser-cl-0001"></a> KSOA-SER-CL-0001 | **High.** Direct action, enabling conduct and knowledge differ by time and function in the major cases. | **STRENGTHEN** the midpoint distinction through [V02 redirection](KSOA_CASE_EVIDENCE_LEDGER.md#ksoa-v02-res-0002), [V03 successive action](#ksoa-v03-cl-0003-r02), [V04 facilitation](KSOA_CASE_EVIDENCE_LEDGER.md#ksoa-v04-res-0002), [V06 shared participation and later concealment](KSOA_CASE_EVIDENCE_LEDGER.md#ksoa-v06-act-0001) and [V07 an alibied intermediary](KSOA_CASE_EVIDENCE_LEDGER.md#ksoa-v07-act-0001). [V05 single admitted assault](KSOA_CASE_EVIDENCE_LEDGER.md#ksoa-v05-res-0002) constrains any claim that multiple grievances usually imply multiple assailants. | [Causal roles](studies/KSOA_MYSTERY_FORM_AND_CAUSALITY.md#direct-action-enabling-action-and-knowledge) |
+| <a id="ksoa-ser-cl-0002"></a> KSOA-SER-CL-0002 | **High for the distinctions, variable by case for detectability.** Each investigation and narration establish different questions at different times. The early anomaly is generally easier to identify than the final allocation of roles. | **STRENGTHEN** [V02 reader availability](#ksoa-v02-cl-0005) through [V03 injury discrepancy](#ksoa-v03-cl-0003-r02) and [V04 selective view](#ksoa-v04-cl-0001-r02). Preserve the late witness evidence in [V06](#ksoa-v06-cl-0003-r01) and [V07](#ksoa-v07-cl-0004) as a limit to uniqueness. | [Comparative detectability](studies/KSOA_MYSTERY_FORM_AND_CAUSALITY.md#what-a-reader-can-infer-before-the-solution) |
+| <a id="ksoa-ser-cl-0003"></a> KSOA-SER-CL-0003 | **High for observable conduct, moderate for thematic reach.** Detection depends on trained attention, material records, independent access and another person able to act on the inference. | **STRENGTHEN** [V03 color](#ksoa-v03-cl-0005) and [V07 paired photographs](#ksoa-v07-cl-0003). Bound with [V04 unsuccessful viewing](#ksoa-v04-cl-0001-r01), [V06 team priority](KSOA_CHARACTER_AND_RELATIONSHIP_LEDGER.md#ksoa-v06-inst-0002) and the [V07 allocation](KSOA_CHARACTER_AND_RELATIONSHIP_LEDGER.md#ksoa-v07-inst-0002). | [Institutions](studies/KSOA_POLICING_PLACE_AND_NARRATION.md#who-can-act-on-a-question) · [Asumi](studies/KSOA_ASUMI_OGASAWARA.md#from-noticing-a-difference-to-making-it-testable) |
+| <a id="ksoa-ser-cl-0004"></a> KSOA-SER-CL-0004 | **High.** The finale strengthens evidence of two directed professional commitments. Asumi’s appreciation is spoken, and Motoya’s pledge is private. Future private conduct is open. | **REVISE** the [V02 endpoint](#ksoa-v02-cl-0004-r02) and [V05 field/private division](#ksoa-v05-cl-0004-r01) using [V06’s claim of partnership](#ksoa-v06-cl-0005) and [V07’s two acknowledgments](#ksoa-v07-cl-0006). Preserve the professional cost of civilian friction and the [misreading of Emiri](#ksoa-v07-cl-0005-r01). | [Directed partnership](studies/KSOA_PARTNERSHIP.md#directed-states-by-volume) |
+| <a id="ksoa-ser-cl-0005"></a> KSOA-SER-CL-0005 | **Moderate.** Professional work and private protection repeatedly depend on someone’s selective account of what another person needs. Their decisions can preserve one value and withhold agency or credit elsewhere. | **STRENGTHEN** [Marina’s protective belief](KSOA_CHARACTER_AND_RELATIONSHIP_LEDGER.md#ksoa-v01-rel-0005), [the museum disclosure conflict](#ksoa-v03-cl-0006), [the design circle](#ksoa-v05-cl-0006), [Mitsuki’s agency](#ksoa-v06-cl-0004) and [qualified attribution of commercial borrowing](#ksoa-v07-cl-0001-r01). Independent grounds for secrecy in V04 and V07 constrain a general claim against withholding. | [Integrated series synthesis](studies/KSOA_INTEGRATED_SERIES_SYNTHESIS.md#private-obligations-become-public-evidence) |
+
+These are the current series-level formulations at the named boundary. A later source or correction enters as a new revision with its own basis. The prior linked propositions remain recoverable.
