@@ -146,3 +146,19 @@ The [frozen V06 reading](readings/KSOA_V06_DEEP_READING.md) defines the exact wi
 | <a id="ksoa-v06-cl-0003-r01"></a> KSOA-V06-CL-0003-R01 | [H-0010](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) | C03 0280–0306, 0684–0716 | REJECT continuous observation. Retain corroborated endpoints and use Yakushiji's withdrawal to distinguish the roles. |
 | <a id="ksoa-v06-cl-0004"></a> KSOA-V06-CL-0004 | [H-0010](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) | C03 0150–0229, 0646–0677 | STRENGTHEN Mitsuki's causal agency in the relationship and reconciliation attempt. Treat her precise reasons for departure as mediated reconstruction. |
 | <a id="ksoa-v06-cl-0005"></a> KSOA-V06-CL-0005 | [H-0011](readings/KSOA_V06_DEEP_READING.md#ksoa-v06-h-0011) | C03 0264–0266, 0314–0349; EPI 0008–0043 | REVISE the disclosure model to include a personal channel with both access and reporting costs. The buddy label gains an explicit user without resolving the direction of affection. |
+
+## V07 claim history
+
+The [frozen V07 reading](readings/KSOA_V07_DEEP_READING.md) defines the exact witness, full paragraph addresses and disclosure checkpoints. All rows are in generation KSOA-G1 and resolve through that reading's section/member table. The evidence horizon bounds what can be inferred from each row.
+
+| ID | Horizon | Native locators | Record |
+|---|---|---|---|
+| <a id="ksoa-v07-cl-0001"></a> KSOA-V07-CL-0001 | [H-0004](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0004) | C01 0351–0398, 0491–0515 | OPEN borrowing, economic contribution and causal claim about the chef's death as different questions. Hearsay and filial judgment have different reach. |
+| <a id="ksoa-v07-cl-0001-r01"></a> KSOA-V07-CL-0001-R01 | [H-0013](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0013) | C02 0284–0385; C03 0072–0163, 0333–0376; C04 0429–0487 | STRENGTHEN targeted borrowing based on Shiobara's account. Keep equivalence of quality, share of business decline and cause of Aonuma's death separately qualified. |
+| <a id="ksoa-v07-cl-0002"></a> KSOA-V07-CL-0002 | [H-0009](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0009) | C02 0376–0408; C03 0574–0629 | OPEN revenge as a plausible theory. Expressed resentment and weakly evidenced whereabouts do not establish the actor. |
+| <a id="ksoa-v07-cl-0002-r01"></a> KSOA-V07-CL-0002-R01 | [H-0014](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0014) | C04 0553–0645 | REVISE through extortion evidence and the reconstruction. Distinguish Eguchi's claimed revenge and Motoya's financial interpretation. Preserve the separate legal steps. |
+| <a id="ksoa-v07-cl-0003"></a> KSOA-V07-CL-0003 | [H-0012](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0012) | C03 0747–0751; C04 0262–0344 | STRENGTHEN the person-based connection through two photographs. Preserve the alibi as a different proposition from historical agency. |
+| <a id="ksoa-v07-cl-0004"></a> KSOA-V07-CL-0004 | [H-0014](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0014) | PRO 0004–0036; C04 0598–0639 | STRENGTHEN Eguchi's narrative attribution. Separate inference from arrest, future physical proof and judicial resolution. |
+| <a id="ksoa-v07-cl-0005"></a> KSOA-V07-CL-0005 | [H-0011](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0011) | C04 0073–0126, 0157–0226 | OPEN Emiri's stake in the inquiry. Motoya suspects personal interest, while she explicitly advocates for Izumida. |
+| <a id="ksoa-v07-cl-0005-r01"></a> KSOA-V07-CL-0005-R01 | [H-0015](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0015) | EPI 0082–0130 | REJECT the romantic inference. Late engagement and alibi disclosures make the private meeting intelligible without retroactive knowledge at the encounter. |
+| <a id="ksoa-v07-cl-0006"></a> KSOA-V07-CL-0006 | [H-0015](readings/KSOA_V07_DEEP_READING.md#ksoa-v07-h-0015) | C04 0641–0655; EPI 0135–0151 | STRENGTHEN two-way professional dependence. Asumi's acknowledgement is voiced in company, while Motoya's future commitment is internal. |
