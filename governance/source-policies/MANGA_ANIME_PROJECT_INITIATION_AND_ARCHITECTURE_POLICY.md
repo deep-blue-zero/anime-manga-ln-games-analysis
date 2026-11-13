@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: "1.10"
+version: "1.11"
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-10-24
+last_updated: 2026-11-13
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -119,6 +119,7 @@ The method should govern **how the source will be read**. Depending on medium an
 - prospective-reading or truth-freeze rules;
 - textual, visual, audiovisual, musical, linguistic, or performance lenses;
 - scene/chapter/episode segmentation;
+- a front-of-reading, human-facing synopsis of narrative events for plot-bearing source units, with explicit source and disclosure bounds;
 - character-state and relationship-state observation;
 - dialogue, translation, voice, and speech-register handling;
 - fact/inference/speculation distinctions;
@@ -417,7 +418,7 @@ The architecture must identify what each sequential deep reading is expected to 
 
 It need not duplicate the analytical method. It should define the architectural outputs of a completed source-unit reading, for example:
 
-- deep-reading artifact;
+- deep-reading artifact, with a human-facing current-unit story synopsis when the unit contains a narrative sequence;
 - cumulative ledger updates;
 - new or revised claims;
 - evidence locators;
@@ -425,6 +426,10 @@ It need not duplicate the analytical method. It should define the architectural 
 - source inventory advancement;
 - readiness-state changes;
 - corpus-map update.
+
+**Human-facing synopsis contract.** A plot-bearing sequential deep reading (in particular a novel or manga volume) must open with a clearly labeled **current-unit story synopsis** near the front of the canonical artifact, after brief identity/witness and entering-context material where needed, and before extended diagnostic interpretation or ledger inventories. Write it as coherent, accessible prose answering *what actually happens*: the opening situation, principal participants and stakes, consequential actions and decisions, causal turning points, major disclosures, and the state at the unit's ending. Preserve concrete scene and physical-event mechanics when established by the source; do not replace them with abstract descriptions of thematic or investigative significance. Scale the detail to the density of the unit rather than enforcing a fixed word count or chapter-by-chapter template. Other narrative media adapt the same responsibility to their own unit structure; non-narrative analytical passes may mark it inapplicable with a reason.
+
+The synopsis is **unit-end, spoiler-bearing orientation**, not a frozen prospective checkpoint or a source of new independent evidence. It may reveal the current unit's climax or solution, but not information from later unadmitted units. Distinguish witnessed events from testimony, conjecture, disputed attributions and unresolved outcomes in ordinary prose; avoid promoting an investigator's belief or a character's report into omniscient fact. Provide retrievable source locators or stable observation/evidence references for material event claims without turning the synopsis into a ledger or cluttering every sentence. Where the unit has an entering state, orient the reader briefly without conflating inherited events with new ones. Compose or finalize the synopsis only after the applicable prospective captures are frozen, and do not expose the full spoiler-bearing reading to a bounded earlier-horizon analyst. Its purpose is independent human comprehension alongside, not instead of, the detailed causal, formal, character and evidence work.
 
 A deep reading should not be considered architecturally complete merely because its standalone prose was written if required cumulative state was not advanced.
 
@@ -754,6 +759,8 @@ This rule specifically prevents the situation in which a project completes seque
 
 This policy is prospective. Existing mature projects are **grandfathered**.
 
+The synopsis contract does not require retroactive editing of completed or frozen readings, reopening their prospective captures, or re-reading primary sources solely to standardize presentation. Apply it to new eligible units through the series-specific method at a natural boundary. A separate, source-checked synopsis supplement for an older unit may be authored when explicitly warranted, without rewriting frozen analytical history.
+
 Do not create replacement documents solely to make old projects cosmetically conform.
 
 At the next natural analytical boundary for an existing project:
@@ -953,6 +960,12 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.11 — 2026-11-13 — Human-facing narrative synopsis
+
+- Requires a source-bounded, readable current-unit story synopsis near the front of plot-bearing sequential deep readings, with concrete events and closure rather than only themes or case abstractions.
+- Keeps the spoiler-bearing unit-end synopsis distinct from prospective freezes and evidentiary ledgers, permits medium-specific proportionate formats, and preserves grandfathered/frozen readings.
+
 
 ## v1.10 — 2026-10-24 — Corpus reference foundations
 
