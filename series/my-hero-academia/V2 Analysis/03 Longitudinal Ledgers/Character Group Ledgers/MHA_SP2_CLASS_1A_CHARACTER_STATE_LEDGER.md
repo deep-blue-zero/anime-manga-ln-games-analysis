@@ -49,6 +49,8 @@ The historical Shoji note below uses V37:p148 as a deadpan kimono response. That
 
 Jiro's V36:p078 fear changes her understanding of classmates' danger; p082–092 combines her friend-directed challenge with internal wills, the copied factor's weaker control and delayed perception. Sound is a contribution, not an isolated sufficient cause. Tokoyami's V27 endpoint is arrival only; the rescue, Dabi confrontation and belief response occur in V28:p060–077. Gentle's V38:p082 unseen joy is followed by discovering cameras at p082–083, not permanent witnesslessness. V41:p168 is Sero's rejection of suffering as necessary to become better.
 
+Bakugo's V33 apology begins with the given-name address `出久` at V33:p071, before `今まで ごめん` at p072. In the V33:p159 bath he starts `デ…` and corrects himself to `いずく`. V36:p186 adds a spoken `出久`. The given name is a recurring, effortful choice (also V36:p189, V40:p192) beside continued `デク` (V42:p141, p156), not a one-way switch. V42 separates his postwar medical state (p027–028) from adulthood with the `8年後` caption at p130; the medical restrictions are located only before the gap (SR11–SR12).
+
 These are current admissibility rules for the preserved cumulative history. Exact hashes, inspection ranges and inherited/new-review distinctions are in the [source-reverification audit](../../08%20Audits%20and%20Manifests/MHA_SP2_PUBLICATION_AND_SOURCE_REVERIFICATION_AUDIT.md).
 
 
@@ -12882,6 +12884,8 @@ V27 adds limited independent Jiro behavior but meaningful relationship evidence:
 - **Register control:** later bath/dorm behavior stays abrasive and competitive. He still aims at No.1 and treats classmates as rivals (`V33:p157-160`). Moral development does not generalize into generic softness.
 - **Readiness:** remains `specialist_ready`, very strongly strengthened.
 
+> **Current correction:** the accountability entry omits the address that opens the apology. Bakugo calls Midoriya `出久` at V33:p071, before `今まで ごめん` at p072. In the bath at p159 he starts `デ…` and corrects himself to `いずく`; Midoriya says `デク` is fine, and Bakugo refuses the easier form. Register stays abrasive while the given name becomes a deliberate, effortful choice (SR11).
+
 ### Iida Tenya
 - **State transition:** earlier Hosu lesson generalizes beyond revenge. Iida accepts Midoriya's goal but rejects solitary implementation and becomes the final receiving hand in Class A's relay.
 - **Key formulation:** `同じ意志で 同じ歩調で` (`V33:p061`) — solidarity means shared direction and pace rather than obedience.
@@ -13025,6 +13029,8 @@ V27 adds limited independent Jiro behavior but meaningful relationship evidence:
 - The carried All Might card and unfulfilled wish for an autograph expose a quiet childhood-fan layer beneath his public victory fixation.
 - V36 ends with Bakugo motionless after catastrophic chest/cardiac injury; `心臓が—` is explicit at `p195`. **Exact death, rescue and later function remain V37+ OPEN.**
 - **Model rule:** mature Bakugo can preserve rivalry, pride, abrasive register and No.1 aspiration while accurately acknowledging superior peer performance and the infrastructure/relationships sustaining his own action.
+
+> **Current correction:** V36:p186 adds a spoken `出久` (`勝たなきゃあなぁ……出久…`). At p189 the unballooned monologue places `出久` before `俺まだ おまえに追いつけるかな`; the string above preserves the words but not their order (SR11).
 
 ## Kirishima Eijiro - peer success as collective obligation
 - **Readiness:** remains `strong`.
@@ -13299,6 +13305,8 @@ This tranche follows the promoted V41 snapshot. Locators refer to directly reche
 - `V42:p033-035`: cries at Midoriya's approaching Quirklessness because he imagined their continuing rivalry. Childhood superiority no longer defines that rivalry.
 - `V42:p140-141`: centrally supports the class-funded armor; `p156-161` retains abrasive banter and recruitment standards. Applicants who merely admire him fare poorly; an aspirant who wants to surpass him would interest him. His indirect invitation to Midoriya is missed, then he challenges Midoriya's self-undervaluation.
 - `V42:p171-175`: competitive rescue timing still draws Iida's objection; care has not made him universally tactful. **Readiness:** remains `specialist_ready`.
+
+> **Current correction:** this entry spans the epilogue time gap. `p027-028` and `p033-035` precede No.430 (p124); the `8年後` caption at p130 separates them from `p140-141`, which dates the battle `8年前`, and from `p156-161` and `p171-175`. Keep the postwar medical state and the adult state distinct. The cardiac and rest restrictions are located only before the gap; adult work neither inherits them nor shows them resolved (SR12).
 
 ## Uraraka Ochako — grief, professional prevention and permitted desire
 
