@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
 project_initialization:
   status: canonical
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: EVOLVING
   bootstrap_generation: KSOA-G1
   governing_method: KSOA_ANALYTICAL_METHOD.md
   method_status: canonical
@@ -79,6 +79,10 @@ The primary sources are the seven Japanese EPUBs in the owner's local `Main Seri
 | V02 | [由比ヶ浜協奏曲](readings/KSOA_V02_DEEP_READING.md) |
 | V03 | [極楽寺逍遙](readings/KSOA_V03_DEEP_READING.md) |
 | V04 | [竹寺の雪](readings/KSOA_V04_DEEP_READING.md) |
+
+## Reconciliation
+
+[V04 midpoint reconciliation](audits/KSOA_V04_LONGITUDINAL_RECONCILIATION.md) compares the first four volumes and records the basis for the evolving architecture.
 
 ## Active run
 
