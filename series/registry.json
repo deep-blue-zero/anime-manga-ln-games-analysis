@@ -857,6 +857,22 @@
       "catalog_note": "Japanese manga analysis of perspective, directed relationships, expression and page form, preserving separate main-sequence and decor horizons with evidence-tested character reconstruction."
     },
     {
+      "series_id": "shiboyugi",
+      "stable_slug": "shiboyugi",
+      "canonical_title": "Playing Death Games to Put Food on the Table",
+      "media": [
+        "LIGHT_NOVEL"
+      ],
+      "repository_path": "series/shiboyugi/",
+      "canonical_entrypoint": "series/shiboyugi/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_UNREVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_DRIVE_BOOTSTRAP_20261113",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese light-novel series 死亡遊戯で飯を食う。, also known as Shiboyugi; edition-bounded prose, disclosure, character, relationship and reconstruction analysis."
+    },
+    {
       "series_id": "shihou-yuugi",
       "stable_slug": "shihou-yuugi",
       "canonical_title": "Shihou Yuugi: Tatsuya Endo Short Stories / 四方遊戯 遠藤達哉短編集",
