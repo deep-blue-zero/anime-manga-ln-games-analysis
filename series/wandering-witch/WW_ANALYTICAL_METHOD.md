@@ -2,7 +2,7 @@
 title: "Wandering Witch — Analytical Method"
 artifact_id: WW_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -115,6 +115,16 @@ Assertion classes are `OBSERVATION / SELF_REPORT / NARRATOR_PRESENTATION / INFER
 Before semantic acceptance, promotion or integration, sample introduction/synopsis, a substantial middle section, conclusion/exit state, every major relationship and any ambiguous actor passage. Verify known names, purposeful titles, pronouns, concealment, speaker/thinker/recipient and knowledge boundaries. Classify findings as `JUSTIFIED_ROLE_REFERENCE / SOURCE_REQUIRED_ANONYMITY / KNOWLEDGE_BOUNDARY_REQUIRED / UNNECESSARY_GENERICIZATION / AMBIGUOUS_REFERENT / INCORRECT_IDENTITY_OR_ATTRIBUTION`. Record sampled scope and material findings; repair only supported defects.
 
 A completed reading requires the full text and synchronized source, atlas, persona, claim and boundary-register transaction. Inspect central evidence retrieval and modality debt. A word ceiling, convenient summary or populated table cannot excuse missing local causal/linguistic argument. Reasoned uncertainty may remain; unsupported closure may not.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing reading includes a clearly labeled **Current-unit story synopsis** near its front, after brief witness/coverage and entering context and before the extended interpretation or ledger inventory. For a canonical volume reading, orient the reader to the actual sequence of source-established local units and their relation or lack of established connection. For a separately authorized canonical local-unit reading, use that declared local boundary. Do not assume every chapter is a self-contained story, force an overarching continuous plot, or turn volume completion into resolution of every local outcome.
+
+Use connected, accessible prose to explain the opening situations, named participants and stakes, consequential actions and decisions, causal turns, disclosures and state at the current boundary. Preserve concrete scene and physical-event mechanics where established, including what remains unresolved when a local narrative ends. Distinguish inherited context from events newly presented here; distinguish narrated or witnessed events from focalized belief, testimony, conjecture and unknown outcomes. Preserve source-required anonymity and the point at which an identity becomes available. Material event claims need retrievable source locators or stable observation references; those references support the prose rather than replacing it with a table. Scale detail to the actual units without a fixed word count.
+
+This is unit-end, spoiler-bearing orientation: compose or finalize it only after all applicable entering and within-unit prospective captures are frozen, and shield it and the completed reading from earlier-horizon analysts. It may recount any outcome disclosed inside the authorized unit, but must not import later unadmitted units or the separate 2014 Upper/Lower witnesses to complete a main-lane account. Publication ancestry does not supply missing fictional chronology. The synopsis supplements every existing full local causal, linguistic, formal, character, ethical, counterreading and synchronized-register obligation in this section. Acceptance requires both; no existing frozen reading is rewritten and the CLOSED analysis lock remains governing.
 
 ## 10. Later reconstruction and historical preservation
 
