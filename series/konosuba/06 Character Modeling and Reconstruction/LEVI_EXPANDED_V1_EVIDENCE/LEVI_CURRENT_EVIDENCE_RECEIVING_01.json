@@ -1,0 +1,81 @@
+{
+  "schema": "KONOSUBA_LEVI_SEMANTIC_RECEIVING_V1",
+  "recorded_utc": "2026-10-20T06:06:00.407382+00:00",
+  "subject": "Levi / Revi / レヴィ",
+  "scope": "Earned scoped Tier3, informed current corpus, no artificial appearance quota; containing canonical adoption/publication gate pending.",
+  "tier_basis": "Own national and personal goals, actual contest acceptance/refusal and rule error, political commitment before villain exposure, concern/recognition, coercive authority despite acknowledged debt, another narrator and stance changes support five falsifiable but asymmetric local rules.",
+  "confidence": "Provisional local mechanisms; causal weights, prevalence, transfer and linguistic generation underidentified. No capability grade or reliability promotion.",
+  "native_provenance_pin": {
+    "file": "LEVI_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+    "bytes": 4671,
+    "sha256": "01d29dc077b92e60add4ed0298e3432a1d170d55643c1785e62b353d8289cdf2"
+  },
+  "internal_assessment_pin": {
+    "file": "LEVI_INTERNAL_ASSESSMENT_01.json",
+    "bytes": 2679,
+    "sha256": "a0dd9ebc3ad332f15597de92c05dcea21a7da77ab1e40996bdaf86a261c884e2"
+  },
+  "draft_lineage": [
+    {
+      "private_draft_name": "LEVI_CHARACTER_MONOGRAPH_DRAFT_01.md",
+      "bytes": 18979,
+      "sha256": "f61c6e6aa635f4b6cb3ad58e8b7bc5aff15832aade7b5cb66e4fc8943601a009",
+      "current_candidate": true
+    },
+    {
+      "private_draft_name": "LEVI_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "bytes": 23118,
+      "sha256": "ab1ca12e6799fd48ce7a8e56ca80a215a83e80a5b29def04b6eafa9c5c4c1c3b",
+      "current_candidate": false
+    },
+    {
+      "private_draft_name": "LEVI_RECONSTRUCTION_MODEL_DRAFT_02.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46",
+      "current_candidate": true
+    },
+    {
+      "private_draft_name": "LEVI_EVIDENCE_INDEX_DRAFT_01.md",
+      "bytes": 11106,
+      "sha256": "d28ab1c790de016431026af0fcb18f9109f9caa03f1111555e0bba5406d4edc4",
+      "current_candidate": false
+    },
+    {
+      "private_draft_name": "LEVI_EVIDENCE_INDEX_DRAFT_02.md",
+      "bytes": 11616,
+      "sha256": "26c673904d6e9a82166e2b72fbc4306b1b44ede9e47f122a84c874068f735829",
+      "current_candidate": true
+    }
+  ],
+  "editorial_sample": "All three original authored prose bodies, the appended internal limits, introduction, substantial middle, conclusions, every major relationship, all rule support/contrary conditions and source-return rows.",
+  "name_reference_findings": [
+    {
+      "classification": "JUSTIFIED_ROLE_REFERENCE",
+      "finding": "Prince used after native-named Levi; institutional role helps explain authority and is not a substitute for his own goals."
+    },
+    {
+      "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+      "finding": "Kazuma royal-brother mistake, Ragcraft knowledge, hidden forecast, late release-intention report and fabricated private allegations stay separated."
+    },
+    {
+      "classification": "SOURCE_REQUIRED_ANONYMITY",
+      "finding": "Unnamed attendants/soldiers remain unjoined; no player/PC or ordinary hostile Axis follower is silently a known named actor."
+    },
+    {
+      "classification": "JUSTIFIED_ROLE_REFERENCE",
+      "finding": "Small/Lolisa, Leen/リーン, Rain/レイン, Iris and Kazuma retain separate actors; later friendship does not revive an engagement."
+    },
+    {
+      "classification": "JUSTIFIED_ROLE_REFERENCE",
+      "finding": "Leen authors her added stakeP318; exact cheating mechanism remains inferred despite broad admissionP418. Correct target and timing retained."
+    }
+  ],
+  "substantive_receiving_findings": [
+    "No sole compassion cause assigned to aid; security/public-pressure and personal grievance can coexist without excuse.",
+    "Unconditional pride, global stupidity, permanent reform and pure ministerial obedience are contradicted; actual local inhibition and harmful agency remain.",
+    "Post-exercise over-optimization/English blandness and extrapolated document checking are explicitly retained in candidate02; first bodies/draft01 preserved."
+  ],
+  "designated_curation_and_evaluation": "Author supplies eligible analytical artifacts only; designated writers retain their registry/index/capability surfaces. New eligible discovery may lag per policy; no existing evidence reference is removed here.",
+  "remaining": "Canonical adoption, exact diff/preflight/publication/readback/source-HK-final gate/reload; global individual/alias/incidental census, further artifacts, expanded specialists/series syntheses, six separate StageD successors, curation/integration/component-release/final entry remain.",
+  "full_program_complete": false
+}

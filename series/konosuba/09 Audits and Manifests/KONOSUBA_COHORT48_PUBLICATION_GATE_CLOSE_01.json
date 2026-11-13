@@ -1,0 +1,311 @@
+{
+  "schema": "konosuba.cohort48.publication-gate-close.v1",
+  "closed_utc": "2026-10-25T15:33:20.767073+00:00",
+  "status": "EXACT_SOURCE_AUTHOR_PUBLICATION_GATE_CLOSED_SCOPED_NONFINAL",
+  "source": "8c09e83d148678ba74559b91b3d62065c0222d42",
+  "tree": "585d4f490919289edfc086d085ddd346e713afea",
+  "parent": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+  "prior_remote_source": "fcc404eb8ef5eb60925ea9fd15d8c82dd354a325",
+  "author_preflight": {
+    "paths": 10312,
+    "exact_index_tree": "585d4f490919289edfc086d085ddd346e713afea",
+    "verified_receipt_sha256": "78a0b223948d90a0d5d37483a93515274ed015fa45ddb1b5d2303ff720d72eca"
+  },
+  "ordinary_push_receipt_sha256": "bfabaa0cb943dade0db107f3a22549a3e30283903a36880943d68a4bdd2a3283",
+  "remote_readback": {
+    "repository_files": 10312,
+    "project_files": 1718,
+    "authored_streams": 60,
+    "reconciled_owner_streams": 0,
+    "changed_streams": 60,
+    "all_byte_exact": true,
+    "receipt_sha256": "9d5c194fd650a0288c850d23b40bea2616beb55eaaf2537451afc3709cf1ca00"
+  },
+  "actual_source_audit": {
+    "run": 40206751488,
+    "paths": 10312,
+    "full_discovered_tests": 479,
+    "every_discovered_ID_compared": true,
+    "all5_non_success_zero": true,
+    "latest_trusted_status": {
+      "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/8c09e83d148678ba74559b91b3d62065c0222d42",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "id": 57206594311,
+      "node_id": "SC_kwDOUJ9ads8AAAANUcdbBw",
+      "state": "success",
+      "description": "Exact commit passed the repository audit",
+      "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/40206751488",
+      "context": "Repository integration audit",
+      "created_at": "2026-10-25T15:31:21Z",
+      "updated_at": "2026-10-25T15:31:21Z",
+      "creator": {
+        "login": "github-actions[bot]",
+        "id": 41898282,
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "html_url": "https://github.com/apps/github-actions",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "type": "Bot",
+        "user_view_type": "public",
+        "site_admin": false
+      }
+    },
+    "verification_sha256": "665a6c21cef9957c5bbe55ba03c083abe2591be64042760a7fe4dfe0bdd28da7"
+  },
+  "fresh_authority_reload": {
+    "file": "COHORT48_PUBLISHED_AUTHORITY_RELOAD_01.json",
+    "bytes": 570610,
+    "sha256": "833db77038c508bcd173c4f698d2c141e197f0d465ecde1afca328fdf9e7bc28"
+  },
+  "analytical_artifacts": {
+    "monographs": 3,
+    "new_restricted_provisional_models": 1,
+    "rules": 2,
+    "bounded_focus_profiles": 3,
+    "bounded_supporting_profiles": 6,
+    "new_Tier1_source_routes": 6,
+    "new_Tier0_source_routes": 32,
+    "original_firsts": 4,
+    "dependent_pairs": 2,
+    "current_model_artifacts": 71,
+    "current_source_scoped_secondary_model_entries": 65,
+    "current_bounded_profile_passages": 193,
+    "current_monograph_only_source_studies": 60,
+    "nonfinal_source_access_records": 732,
+    "unique_person_denominator": null
+  },
+  "received_analytical_bindings": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md",
+      "bytes": 8887,
+      "sha256": "c2fe082d485c7ceb1eab5dcfa67632ee131bfb35ad00752f791222c219c78b71",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_MAIN16_BOUNDED_PROFILES_AND_REFERENCE.md",
+      "bytes": 4833,
+      "sha256": "126e8e5bb356566cf490eb111e8abd0fb9575ea8a11546b5efb511c2b895d280",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT48_SUPPORTING_ENCOUNTER_PROFILES.md",
+      "bytes": 8557,
+      "sha256": "d68f312fd4df275857efda301a3e378f9f4928dccf713027b81a4c46f195fd9d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md",
+      "bytes": 8666,
+      "sha256": "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md",
+      "bytes": 7884,
+      "sha256": "83e51cab02743729a39925b2a6fe73b3d42743e0c77da2fd88baa261924b15b7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_EXACT_INPUT_PACKET_NOTE_01.md",
+      "bytes": 1253,
+      "sha256": "47dd2b09729e2f61cbe6239bde2e100c594b0630a09d1530bb54656d77e62e0d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_FIRST_OUTPUTS_01.json",
+      "bytes": 5828,
+      "sha256": "28ae1dfd8b10a4b9301b1366b3658339e7a7fc10f5458ccef4273ca941f944b8",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_FIRST_DIAGNOSTIC_01.json",
+      "bytes": 6961,
+      "sha256": "dedafc98461500145a7fb37afe08cbfd3e2e4914ccbdb8838f20fbcd905d7626",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_FIRST_DIAGNOSTIC_01.md",
+      "bytes": 4739,
+      "sha256": "27fcdd7f097d00417c20240cb7c688e2393ffcc86f7efff9234a2e439ff7d16d",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_PAIRED_INPUT_DESIGN_01.json",
+      "bytes": 3269,
+      "sha256": "97f3ecd58b1e1fdc7b3fa8e9fed6a3eaa8df432a1bb41098bfa562d77c1fe8b4",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMARYLLIS_RULE_INVENTORY_01.json",
+      "bytes": 5713,
+      "sha256": "86be9296272947fa8f5a674460d0a9aaa5b30bc7c1ff5ca31ee13e7befbe7bfd",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_FIRST_01.txt",
+      "bytes": 603,
+      "sha256": "bbf5ec2e0ca6d9f543ee25610e49f23780af75e9c30122d3e2986d7a366d9d94",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_INPUT_01.json",
+      "bytes": 2260,
+      "sha256": "f4ce63c6e4282033239b49c1ddb0e029cf9a76e73a3eb7a3924cac7579097e01",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A1_INPUT_01.txt",
+      "bytes": 2279,
+      "sha256": "24b1791b477387b1ed6b6aa66771bca2b76fc8d22974010b682417d92e0680ba",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_FIRST_01.txt",
+      "bytes": 644,
+      "sha256": "443d0dd11b8207a600be4f92648cddeef4b34ece94ebbc34867baa6e75fecf68",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_INPUT_01.json",
+      "bytes": 2258,
+      "sha256": "8086228ba11f67982cfe9e521f90fda03b9ef95fc413b810060b8f51ba323940",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_A2_INPUT_01.txt",
+      "bytes": 2277,
+      "sha256": "909bad17561b66894cae986debcd13c6868a9c2eae2383c5cb7338a74c7edbb9",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_FIRST_01.txt",
+      "bytes": 679,
+      "sha256": "50d87fee5555ef1cc129fabce0926c4c12c9de3cf9180b039fd3059763099d13",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_INPUT_01.json",
+      "bytes": 2616,
+      "sha256": "cb63c5de8e8c6ebe4c405bc432694359c00015cf39fe0c015cdf341fad5035b1",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B1_INPUT_01.txt",
+      "bytes": 2635,
+      "sha256": "a82807f445f058c70090367f0ed95acff7ddf9badd7a12a7e3ebbaf751e34bbc",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_FIRST_01.txt",
+      "bytes": 673,
+      "sha256": "233378dd7166ab9405947fabe8292e6af8d7879b18222e8fd61089a5e42ce5a6",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_INPUT_01.json",
+      "bytes": 2635,
+      "sha256": "70d4b1f0bb16c70d706bc013c01490634dfcb5542cfcaa67c207777a2e9f85c0",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/AMARYLLIS_EXPANDED_V1_EVIDENCE/AMR_B2_INPUT_01.txt",
+      "bytes": 2654,
+      "sha256": "21b8aad0ed5c54e3b7ef04b704adb63b9773289688176bc9d9602956328cdbae",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AMARYLLIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 5881,
+      "sha256": "2e2f17bc22cac4e4c8cf9d90aaa2da85b69ff6624319b10143e4e3d5febe8dd7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/08 Evidence and Indexes/KONOSUBA_COHORT48_EVIDENCE_INDEX.md",
+      "bytes": 8797,
+      "sha256": "4a9a0da4c6505def720c810b5e517581d3bf657426981ccd5c85a2e7f8c3136e",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_INDIVIDUAL_DISPOSITIONS_AND_DIMENSION_AUDIT_01.json",
+      "bytes": 17298,
+      "sha256": "a90ec78ca552730fb3b46688e0dd7be73be6d8e0eb264d48eeaed03d960b999f",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+      "bytes": 4531,
+      "sha256": "5cdc9609befcd93dc9c861b1fa7784cc3a934c1ee6df04250bcd2f9ff85ddc69",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SUPPORTING_DIMENSION_AUDIT_01.json",
+      "bytes": 12983,
+      "sha256": "1457eca92c240deb7ec150e682659dc2ffc3bece364449ca8d1e4e09dd896ed7",
+      "verbatim_frozen_body": true
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_TYPED_SUPPORTING_ROUTES_01.json",
+      "bytes": 53658,
+      "sha256": "25c4596496e8839734b86a28b2873c420d9df23ca5113ebc68887541913acf5b",
+      "verbatim_frozen_body": true
+    }
+  ],
+  "current_source_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_SOURCE_PRECISION_QUALIFICATIONS_01.json",
+    "sha256": "5cdc9609befcd93dc9c861b1fa7784cc3a934c1ee6df04250bcd2f9ff85ddc69"
+  },
+  "source_scope": {
+    "current_unique_structural_P": 1895,
+    "current_ruby_occurrences": 1862,
+    "actual_source_review_pages": 46,
+    "known_EPUB_objects": 14,
+    "unique_native_members": 20,
+    "complete_paragraph_ruby_narrative_members": 4,
+    "complete_paragraph_ruby_author_paratext_members": 1,
+    "current_images_viewed": 0,
+    "current_residuals_received": 0,
+    "new_whole_edition_global_first_or_independent_credit": 0,
+    "source_known_same_informed_root": true
+  },
+  "preservation": {
+    "all70_entering_models_originals_scores_adverse_blanks_notes_exact": true,
+    "all25_private_core_pins_exact_after_feedback": true,
+    "all29_verbatim_public_received_bodies_exact": true,
+    "all19_historical_plane_differences_exact": true,
+    "seven_focus_rows_and687_unchanged_entering_rows_verified": true,
+    "all80_scratch_exact": true,
+    "all194_preservation_entries_pass": true,
+    "WORK134_and_WORK135_histories_exact": true,
+    "all110_current_owner_bindings_and12_unchanged_controls_exact": true,
+    "all187_prior_guards_replayed_at_exact_historical694_plane_and_current732_separately_verified": true
+  },
+  "current_author_PR": {
+    "number": 335,
+    "url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/335",
+    "state": "open",
+    "merged": false,
+    "head": "8c09e83d148678ba74559b91b3d62065c0222d42",
+    "metadata_receipt": {
+      "file": "C48_CURRENT_AUTHOR_PR_01.json",
+      "bytes": 3438,
+      "sha256": "6625b4500546948e9644d3803b1c1945e167fd4174158b5a93ad4581856514c5"
+    }
+  },
+  "observed_main_at_close": "f0d17c618ff5fd6749f1c9ef4dbdf717a0534b34",
+  "protected_integration_certified_by_this_record": false,
+  "source_known_same_informed_root": true,
+  "independent_accuracy_grade_or_confidence_gain": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false,
+  "next_required": "Refresh PR335 with exact-source results; completely review and apply closing progress,then remaining MAIN17 subjects and incidental/reference/image joins. Seven specialist expansions,extended/full-series syntheses,six distinct StageD successors,final nine-category battery,designated curation/evaluation/integration/component-release/final-entry responsibilities remain due."
+}

@@ -1,0 +1,295 @@
+{
+  "created_utc": "2026-10-17T23:47:41.178138+00:00",
+  "original_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+  "no_main_R1_Gen05_Gen06_or_holdout_score_change": true,
+  "no_new_generation_freeze": true,
+  "records": [
+    {
+      "id": "DUST01-N01",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N01",
+        "character_or_system": "Dust",
+        "trigger_context": "A particular companion faces a credible, understood near-term coercive danger; a valued leisure opportunity competes and some concrete protective action is available.",
+        "predicted_appraisal": "The specific person’s danger should outweigh treating the situation as somebody else’s affair.",
+        "predicted_behavior_or_decision_tendency": "Seek usable information/help or intervene; ordinary joking may continue, but it should not replace the needed protective action.",
+        "relationship_stakes_state_modifiers_and_missingness": "Track urgency, credibility, means and rival risks as appraised before choice. A nonurgent wish to repair friendship is a separate condition, not this trigger.",
+        "qualitative_confidence": "MODERATE",
+        "principal_evidence_basis": [
+          "C02P395–406",
+          "C04P434–435",
+          "FinalP203–215 contrary boundary",
+          "FinalP241–380",
+          "FinalP599/672"
+        ],
+        "what_would_count_as_disconfirmation": "A fully depicted case where he understands the credible danger and feasible means but knowingly chooses the dispensable pleasure without a protective action is contrary. Do not add a later goal-completion or pure-motive exemption.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "PARTIAL",
+      "local_summary": "The emergency route supports action despite valued rest; it does not support a general respect-for-companions rule.",
+      "strongest_support_and_conjuncts": "Final223–250 supplies the strongest conjunction: impaired companions, understood lethal continuation of the drain236–237, temptation to sleep232–235, a usable carrying option228 and residual-risk appraisal249 before continued transport250. Final434–449 adds a concrete provider arrangement when carrying three alone becomes infeasible. C02P760–784 supplies escape orders and trust, but the dragon resolution is offstage793/811.",
+      "strongest_contrary_missingness_or_alternative": "C03P156–176/420 establishes deliberate attempted coercion of familiar women for Dust’s gratification. C04P483–490 deliberately exposes Chris to the angry crowd. Final365–381 uses the impaired small succubus as a pretended hostage. These are material adverse boundaries to any broad protective characterization; later care cannot cancel them. In the Chris case competing immediate escape, rather than dispensable leisure, is explicit; in the hostage case the threatened cut is feigned and the motive is disarming opponents. For the charm case he knows compulsion but does not independently acknowledge it as the danger he should avert. This limits exact trigger identification; it does not excuse the harm or add an external-perpetrator condition.",
+      "disposition_and_limits": "No pure-motive or completed-goal exemption. Urgent action can coexist with self-liability avoidance151/502–503. PRESERVE the bounded emergency tendency; REVISE any extrapolation that affection reliably protects consent or precludes instrumental use of a companion.",
+      "original_outcome_and_adjudication_unchanged": true
+    },
+    {
+      "id": "DUST01-N02",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N02",
+        "character_or_system": "Dust–Leen",
+        "trigger_context": "A concrete, particular need or desire is expressed or credibly noticed, and Dust holds a usable resource with a meaningful competing personal value.",
+        "predicted_appraisal": "Her actual satisfaction can matter beyond its immediate monetary return.",
+        "predicted_behavior_or_decision_tendency": "Sometimes choose a specific gift/help while concealing or minimizing the tenderness; do not predict indiscriminate generosity.",
+        "relationship_stakes_state_modifiers_and_missingness": "Record subsistence needs, coercive demands and expected reciprocation as competing mechanisms, not automatic exclusions invented after the choice.",
+        "qualitative_confidence": "LOW_MODERATE",
+        "principal_evidence_basis": [
+          "C01P8",
+          "C02P457–465",
+          "C05P363–380/580–583",
+          "EpiP35–44"
+        ],
+        "what_would_count_as_disconfirmation": "Repeated adequately depicted refusals that preserve the resource despite the same recognized need would weaken this particular-care tendency; willingness only when the gain is immediate/status-visible would challenge the concealed-care account. One contrary case remains visible rather than automatically retiring a broad tendency.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "CONFIRMED",
+      "local_summary": "At least one bounded costly-help route to Leen is depicted; the costly toy for Yunyun is separate cross-target evidence.",
+      "strongest_support_and_conjuncts": "Final223–250: he recognizes that the impaired Leen cannot continue, carries her despite his own wish to stop236/243, and rejects residual danger249. Epi56/66–67 adds actual support and carrying of drunken Leen, choosing familiar company for her predicted comfort. C01P166–169 shows him suppress a bodily complaint at her tears and apologize/pat her. These have unequal costs and evidential weight; the dungeon transport is the strongest resource tradeoff.",
+      "strongest_contrary_missingness_or_alternative": "C04P536–549 is a striking costly gift, but its recipient is Yunyun. Purchase occurred before the later chase537/544; giving now relieves guilt535. It must not be counted as a Leen gift or pure altruism. C03P171–176/420 and C04P483–490 show coercion/scapegoating within the wider group. No claim of indiscriminate generosity follows from a sometimes-help tendency.",
+      "disposition_and_limits": "The recognized need is bodily safety, not Leen’s request to be abandoned223 as a preference to fulfill literally. Group survival and his own future are competing explanations, explicitly retained. STRENGTHEN particular practical care at MODERATE confidence; OPEN the extent of concealed tenderness as the unique cause.",
+      "original_outcome_and_adjudication_unchanged": true
+    },
+    {
+      "id": "DUST01-N03",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N03",
+        "character_or_system": "Dust",
+        "trigger_context": "His unusual weapon capacity can solve a task, while displaying it would expose the older identity/constraint he is still treating as binding.",
+        "predicted_appraisal": "Privacy/chosen present identity should have value independent of simple pride in winning.",
+        "predicted_behavior_or_decision_tendency": "Favor concealment, a loophole or a different method where feasible; particular serious protection can change the permission appraisal.",
+        "relationship_stakes_state_modifiers_and_missingness": "The precise old promise is UNKNOWN. Record when a comparable secrecy constraint is actually active; do not infer it solely from nonuse or insist the ordinary life is fake.",
+        "qualitative_confidence": "MODERATE",
+        "principal_evidence_basis": [
+          "C01P159–164",
+          "C02P171–175",
+          "FinalP769–794"
+        ],
+        "what_would_count_as_disconfirmation": "A clear full-trigger choice to advertise the capacity simply for admiration, without any independently established change in the active restraint, is contrary. An unavailable alternative is missing opportunity, not proof of incapacity.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "PARTIAL",
+      "local_summary": "Rare spear capacity and identity avoidance gain evidence, while the exact continuing restraint is still not supplied.",
+      "strongest_support_and_conjuncts": "C02P635 says a spear would make the goblin encounter easy, but he uses the current sword and receives Small/Leen assistance641–650. Dragon encounter760–789 keeps companions away; 788 explicitly refers to having quit something, with resolution only reported811. Final532–544 actually depicts spear footwork, penetration and a coordinated electrical finish under serious city danger. Epi50–61 shows a hidden-past question, initial deflection and actual readiness to speak before sleep prevents disclosure.",
+      "strongest_contrary_missingness_or_alternative": "Spear nonuse alone cannot prove an active oath; neither dragon recognition nor Yunyun’s hearsay815–816 proves his precise past identity. The public spear display in Final is not simply admiration-seeking: danger501 and evidence concealment502–503 precede it, and later admiration548 is an outcome. It therefore is not the frozen full-trigger counterexample.",
+      "disposition_and_limits": "PRESERVE unusual domain capacity and OPEN exact identity, promise and permission rules. A protection-based permission change remains plausible, not independently demonstrated by an explicit relinquished restraint. No later Dust knowledge is used.",
+      "original_outcome_and_adjudication_unchanged": true
+    },
+    {
+      "id": "DUST01-N04",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N04",
+        "character_or_system": "Dust",
+        "trigger_context": "A desired reward depends on an explicitly available timing/ownership/provider term beyond completion of the immediate task.",
+        "predicted_appraisal": "Attractive immediate gain may crowd out a full downstream access/accounting check.",
+        "predicted_behavior_or_decision_tendency": "Risk committing before resolving when/who/what additional condition makes the benefit usable. This is exploratory, not a prediction that every contract must fail.",
+        "relationship_stakes_state_modifiers_and_missingness": "Retain actual learning: FinalP74 asks for a defect. Strong current salience of a previous failure is a possible rival cause to record prospectively, not an exemption from adverse evidence.",
+        "qualitative_confidence": "LOW",
+        "principal_evidence_basis": [
+          "C05P76–77/550–568",
+          "FinalP58/74–78",
+          "EpiP52–56"
+        ],
+        "what_would_count_as_disconfirmation": "Proactive, adequate checks and secured terms in comparable full opportunities count against the underchecking mechanism; repeated careful uptake would warrant downgrade. No new score or denominator is specified in Stage C.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "PARTIAL",
+      "local_summary": "There is both recurrent reward-led underchecking and substantial proactive checking; no one-way deficit survives.",
+      "strongest_support_and_conjuncts": "C02P176/448–453: the paid job needs a workable team, but he spends the advance while rejecting recruits and forgets the recruiting goal448. C03P156–159: he cuts short the charm explanation after an attractive effect, although he retains the familiar-person restriction172. Final293–294 abandons a relevant memory cue; Final354 substitutes destruction for checking the stopping instructions. These are unequal matches to the exact timing/ownership/provider trigger.",
+      "strongest_contrary_missingness_or_alternative": "C03P18 proactively asks Kazuma whether the free coupons have a catch; the city-level warning21 is actually supplied. Most strongly, C03P572–594 repeatedly checks the promised food-discount paper and exposes a carbon-copy membership form before signing. C02P668–670 is an intentionally understated client headcount, not a known term he ignored. The delayed mixed-sex charm duration is reader-only477–478, not an available term he refused to read. Photo-album contents are fraudulent, not established by the promised label.",
+      "disposition_and_limits": "Retain the low-confidence exploratory mechanism with DOWNGRADE of any global contract-blindness account. Adequate checks are genuine contrary evidence, not exempted because prior fraud was salient. Distinguish hidden deception, unasked available information, impulsive spending and explicit terms already known.",
+      "original_outcome_and_adjudication_unchanged": true
+    },
+    {
+      "id": "DUST01-N05",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N05",
+        "character_or_system": "small succubus",
+        "trigger_context": "Dust requests costly cooperation or threatens a helper whose actual service/access can be withheld; praise targets her professional self-evaluation.",
+        "predicted_appraisal": "Esteem and custom matter, but control of access and her own exposure create real limits.",
+        "predicted_behavior_or_decision_tendency": "Set/retain at least a condition or veto when leverage is owned; praise can obtain bounded cooperation without erasing agency.",
+        "relationship_stakes_state_modifiers_and_missingness": "Separate manager instruction, client dependence, deception, physical compulsion and actual free agreement. Do not assume professional politeness means consent.",
+        "qualitative_confidence": "MODERATE",
+        "principal_evidence_basis": [
+          "C03P151–175",
+          "C03P339–366",
+          "C05P550–568",
+          "FinalP425–429 contrary compulsion",
+          "FinalP735–741"
+        ],
+        "what_would_count_as_disconfirmation": "Adequate cases in which she freely gives unbounded risky compliance despite a known, usable veto and no independently established rival would challenge the limit account. Actual compulsion is adverse to Dust’s respect, not evidence of her freely chosen compliance.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "PARTIAL",
+      "local_summary": "The small succubus retains conditions and an independent professional goal; praise is not sufficient by itself to identify the entire causal conjunction.",
+      "strongest_support_and_conjuncts": "C02P284–290 distinguishes dream expertise from general combat magic and gives conditional emergency cooperation rather than a blanket combat promise. C03P187 refuses Dust as an affection target; 192–196 professional esteem and coaching are acknowledged, but the invitation is accepted when Vanir’s attendance supplies her own strong reason210–211. In the vehicle lottery she gives Vanir the winning stick368 rather than implement Dust’s desired outcome. Final516 independently uses staged dream access to recruit helpers.",
+      "strongest_contrary_missingness_or_alternative": "She travels into painful holy steam544/625 and remains with the group, but these are not isolated praise-caused unbounded consents. Final365–376 is physical instrumentalization while impaired, not free professional agreement; her sleeping protest366 and later criticism378 remain. Manager influence, idol preference, youthlike presentation and actual age uncertainty are not silently merged into one dependency.",
+      "disposition_and_limits": "PRESERVE bounded agency/access ownership; OPEN how much esteem alone changes costly cooperation. No physical compulsion is counted as support for freely chosen compliance, and no universal reliable veto is inferred where she lacks power to exercise it.",
+      "original_outcome_and_adjudication_unchanged": true
+    },
+    {
+      "id": "DUST01-N06",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N06",
+        "character_or_system": "Dust and providers",
+        "trigger_context": "A numerically or positionally unfavorable encounter threatens a concrete task, and alternative geometry/materials/providers are actually available and can be recruited.",
+        "predicted_appraisal": "Avoiding the unfavorable deployment matters more than proving a class rank in a straight fight.",
+        "predicted_behavior_or_decision_tendency": "Attempt to change information, position, enemy options or provider arrangement rather than rely on raw direct superiority alone.",
+        "relationship_stakes_state_modifiers_and_missingness": "Keep availability and provider agreement explicit. Defect magnitude, unexpected side effects and collateral harm remain possible; no invented modern expertise.",
+        "qualitative_confidence": "MODERATE",
+        "principal_evidence_basis": [
+          "C04P464–495",
+          "FinalP364–403",
+          "FinalP487–566",
+          "FinalP578–655"
+        ],
+        "what_would_count_as_disconfirmation": "A full comparable choice of an obviously inferior frontal display while an understood, feasible rearrangement is available is contrary. A tactic’s partial success does not establish safe total execution/recovery.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "CONFIRMED",
+      "local_summary": "Several unfavorable encounters lead to actual rearrangement; success is neither uniformly safe nor ethically neutral.",
+      "strongest_support_and_conjuncts": "Final355–376 explicitly presents three armed opponents against Dust alone. He changes rooms and their options with a pretended ally-hostage threat, producing disarmament376. The information problem persists391–402 and requires a different book-value threat407–415. When collapse exceeds his transport capacity434, actual release-and-rescue agreement436–449 redistributes the carrying. The final machine fight combines Keith’s rope521, recruited pullers522, Taylor’s shield528, Yunyun’s two-leg cut531, Dust’s spear532–541 and Leen’s Lightning543.",
+      "strongest_contrary_missingness_or_alternative": "C01P43–55 is serious counterevidence to blanket tactical prudence: he leaves the rope role for glory, ignores warning47 and dies. He appraises the bound monster as a chance rather than explicitly recognizing that the frontal option is inferior; preserve the overconfidence instead of treating this as proof he noticed all safer facts. Final tactics recover neither a safe total ending nor innocence: hostage coercion, blast injury545 and concealed responsibility Epi8 survive.",
+      "disposition_and_limits": "STRENGTHEN conditional practical rearrangement, with provider agreement and actual resource ownership specified. Do not convert this into global intelligence, ethical superiority, solo victory or a claim of modern technical expertise.",
+      "original_outcome_and_adjudication_unchanged": true
+    },
+    {
+      "id": "DUST01-N07",
+      "entering_hypothesis_exact": {
+        "id": "DUST01-N07",
+        "character_or_system": "Dust’s social inference",
+        "trigger_context": "An ambiguous interpersonal cue admits an explanation aligned with his own appetites or normal assumptions, with contrary information incomplete or inconvenient.",
+        "predicted_appraisal": "The desire-compatible account may feel like a deduction before it has excluded rivals.",
+        "predicted_behavior_or_decision_tendency": "Initially interpret the cue through that account and miss a plausible alternative; preserve cases in which direct correction produces an update.",
+        "relationship_stakes_state_modifiers_and_missingness": "This is a bounded inferential tendency, not global unreliability. Narrator knowledge, reader-only dialogue, and alternate viewpoint must remain separate.",
+        "qualitative_confidence": "LOW_MODERATE",
+        "principal_evidence_basis": [
+          "C01P38–39",
+          "C03P195–203",
+          "C05P243–303",
+          "I01P3–20",
+          "FinalP441–468"
+        ],
+        "what_would_count_as_disconfirmation": "Consistent initial consideration of meaningful rivals or adequate updating before any external exposure in similar cases would weaken the tendency. A guess made without accessible contrary evidence is not automatically a reasoning failure.",
+        "future_outcome": "",
+        "adjudication": "",
+        "future_source_access": "CLOSED until exact separate root admission after preceding volume gate"
+      },
+      "local_source": "DUST-02 principal only",
+      "local_stage": "post-complete-uncoded-pass; exploratory natural-order assessment, not out-of-sample score",
+      "local_category": "CONFIRMED",
+      "local_summary": "Repeated initial appetite-compatible readings occur, alongside successful rival testing and updating.",
+      "strongest_support_and_conjuncts": "C01P67–80 misreads Eris’s concern/venue as commercial affection. C02P55–58 misreads Leen’s disgust through a shared-afterlife fantasy, then receives direct correction. C03P529–534 treats expired male charm timing as a rule for the women and considers advantage, though the reader knows the unspoken different duration477. C04P293–294 speculates that Yunyun’s mana entails resistance; that causal law is not established. C04P316 initially fails to place her attempted date, while her later actual confirmation541 supports a narrower successful inference.",
+      "strongest_contrary_missingness_or_alternative": "Final97–100 explicitly tests infection against unaffected close companions; 185–190 retains demon and device rivals. C03P572–594 identifies the document trap before an external exposure. Final499–500 revises the premature broken-orb explanation465/469 when the orb-like eye is visible. These are genuine counterexamples to a global unreliable-narrator or never-updates rule.",
+      "disposition_and_limits": "STRENGTHEN a desire-sensitive initial attribution mechanism at MODERATE confidence; PRESERVE domain-specific competence. Reader-only information cannot be imputed to Dust, and an unverified guess is not automatically a proven falsehood.",
+      "original_outcome_and_adjudication_unchanged": true
+    }
+  ],
+  "root_receiving_utc": "2026-10-18T01:34:31.692041+00:00",
+  "original_records_status": "PRESERVED_PRODUCER_PROPOSALS_NOT_CURRENT_ROOT_OUTCOMES",
+  "current_root_dispositions": [
+    {
+      "id": "DUST01-N01",
+      "current_root_category": "PARTIAL_MIXED_SUPPORT_AND_DIRECT_CONTRARY",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "C",
+      "support": "Final217-250: Dust actually transports particular impaired companions despite explicit attractive sleep/dream offers and his anticipated fatal consequence; urgency, available action and pleasure tradeoff are shown. The externally imposed drain is a broad coercive constraint; direct-agent-only eligibility is uncertain.",
+      "direct_contrary": "C03P149 gives Yunyun’s explicit refusal before P156-176 gives Dust knowledge of induced attraction and his deliberate plan; P420-424 depicts execution for gratification. He can refrain from using the device and chooses the dispensable reward instead. Causing understood coercion is not an unstated exemption from protective conduct. No further moral acknowledgment or external perpetrator is required by the original question.",
+      "scope_and_rivals": "These are mixed within-volume directions, not one clean passed trial. The pleasure-caused coercion is direct adverse evidence, not merely a general morality footnote. Chris scapegoating (C04P483-490) remains adverse but immediate escape is not an established leisure alternative. The Final hostage bluff changes a numerically bad encounter (P355-381), rather than depicting leisure replacing action. Do not pool these unlike triggers or erase any harm.",
+      "model_transition": "Retain bounded emergency carrying and reject an exceptionless protective hierarchy. This local mixed disposition does not fill the original fields or repair R1."
+    },
+    {
+      "id": "DUST01-N02",
+      "current_root_category": "PARTIAL_CONJUNCTION_AND_ATTRIBUTION_LIMIT",
+      "P_original_category": "CONFIRMED",
+      "S_original_category": "C",
+      "support": "Final223-250 gives actual Leen-directed help, a usable bodily resource, effort, tempting rest and refusal to leave residual danger. C01P166-169 and EpiP56-67 add relational care with less explicit competing resource value.",
+      "direct_contrary": "No repeated fully matched withholding pattern is established. Yunyun’s toy is cross-target evidence and cannot confirm a Leen-specific claim.",
+      "scope_and_rivals": "The gentle smile/support at P224-225 is overt; the complaints at P230-231 can minimize tenderness but also express actual labor resentment. They do not unambiguously identify concealed tenderness as the mechanism. Self-preservation and need for fighting partners (P236-237/P245) remain live contributors. No unique, pure or exclusively Leen motive is made a new requirement. The full concealment/minimization-and-care conjunction has less support than the help act itself, so the current whole-question conclusion is partial.",
+      "model_transition": "Strengthen observed particular practical care at moderate generalization confidence; keep the tenderness mechanism open. Preserve both readers’ supportive original labels as authored history."
+    },
+    {
+      "id": "DUST01-N03",
+      "current_root_category": "PARTIAL",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "P",
+      "support": "C02P635 contrasts spear advantage with sword stalling; Final532-541 supplies actual trained spear action. EpiP50-61 gives concealment and willingness to disclose.",
+      "direct_contrary": "Public skill display and actual willingness to speak defeat absolute secrecy, but do not show admiration-only advertising under an independently unchanged binding restraint.",
+      "scope_and_rivals": "A weapon’s usefulness, its physical availability and a binding older rule are different facts. Do not infer an active oath from nonuse, a full identity from hearsay, or a proven permission change from successful protection.",
+      "model_transition": "Preserve domain-specific capacity; leave exact identity, old restraint and permission appraisal open."
+    },
+    {
+      "id": "DUST01-N04",
+      "current_root_category": "PARTIAL_WITH_GENUINE_CHECKING_COUNTEREVIDENCE",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "P",
+      "support": "C03P159-160 cuts off further instructions after an attractive promised effect. The attention mechanism is plausible but exact unheard earlier content is not established.",
+      "direct_contrary": "Ownership inquiry/assurance (P157-158), retained familiarity restriction (P172-176), proactive ticket inquiry (P18-23), and successful physical/document checks (P572-594) are real attentive evidence. They cannot be exempted because earlier fraud made caution salient.",
+      "scope_and_rivals": "Do not backdate the later reader-only duration account P477-478 into delivered pre-choice terms. Concealed client numbers and fraudulent album contents are not known terms ignored. Recruitment goal substitution and memory retrieval failure are neighboring mechanisms, not automatically full matches to timing/ownership/provider clauses.",
+      "model_transition": "Retain a low-confidence reward-sensitive inquiry risk and downgrade any global contract-blindness account."
+    },
+    {
+      "id": "DUST01-N05",
+      "current_root_category": "PARTIAL",
+      "P_original_category": "PARTIAL",
+      "S_original_category": "P",
+      "support": "C02P284-290 gives Leen’s initial request and a limited emergency role proposed by Dust and accepted by Small. C03P187-214 and the seating choice preserve her Vanir preference; Final516 supplies actual owned dream-access leverage.",
+      "direct_contrary": "Impaired hostage use at Final365-376 is actual instrumentalization without free agreement, not a voluntary unlimited service response. Dangerous fraud participation leaves exact freely usable veto knowledge uncertain.",
+      "scope_and_rivals": "Professional praise plus costly Dust request is not cleanly isolated: C03P194 recognition is internal, P193 claims credit, and Vanir attendance explains acceptance. Final366 is Small’s sleepy no-touch protest, whereas P377-379 are unnamed women’s comments grouped at P380; P378 is not uniquely hers.",
+      "model_transition": "Preserve bounded agency and access ownership, with missing praise conjunction explicit. Do not turn lack of power while impaired into freely waived agency."
+    },
+    {
+      "id": "DUST01-N06",
+      "current_root_category": "BOUNDED_SUPPORT_C",
+      "P_original_category": "CONFIRMED",
+      "S_original_category": "C",
+      "support": "Final355-381 explicitly notices numerical disadvantage before a changed-room hostage bluff; P436-455 recruits actual evacuation carriers; P510-546 depicts role recruitment, ropes, shields, leg cuts, spear and Lightning. Geometry/materials/providers are alternatives, not a mandatory all-three conjunction.",
+      "direct_contrary": "C01P43-55 abandons a working rope role, disregards warning and ends in actual death. His bound-monster appraisal limits a clean acknowledged-inferiority match, while leaving serious overconfidence and underchecking visible.",
+      "scope_and_rivals": "The hostage target did not agree. Numerical tactical rearrangement does not require an ethical-approval threat and does not establish innocence. The later three pullers are recruited former criminals, not the earlier bounty client. Effective spear penetration alone does not stop the machine; the blast injury remains.",
+      "model_transition": "Strengthen conditional practical rearrangement with phase/provider limits, no solo-victory, modern engineering or safe-total-recovery claim."
+    },
+    {
+      "id": "DUST01-N07",
+      "current_root_category": "BOUNDED_SUPPORT_C",
+      "P_original_category": "CONFIRMED",
+      "S_original_category": "C",
+      "support": "The seating scheme is desired-alliance inference despite Small’s already stated Vanir preference (C03P187-214/P350-378). Her independent choice exposes the missing rival.",
+      "direct_contrary": "Actual document investigation (C03P572-594), causal rival testing (Final97-100/P185-190), visible-eye revision (P499-500) and recognition of Yunyun’s rivalry purpose before her confirmation (C04P540-541) show real consideration/updating.",
+      "scope_and_rivals": "Unavailable reader-only knowledge is not refusal of a known warning, and an unverified guess is not automatically a proven falsehood. Vanir’s intervention and Small’s aims contribute to the seating result.",
+      "model_transition": "Retain a bounded desire-sensitive initial-attribution tendency at moderate generalization confidence and domain-specific competence."
+    }
+  ],
+  "not_aggregate_validation_accuracy": true,
+  "root_receiving_record": "KONOSUBA_DUST_V02_RECEIVING_AND_PROVENANCE.json"
+}

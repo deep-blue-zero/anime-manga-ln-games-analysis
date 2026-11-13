@@ -1,0 +1,40 @@
+{
+  "release_id": "RINHA-AV-20260911",
+  "audit_status": "PASS_BOUNDED_DELIVERABLE_SCOPE",
+  "physical_files_sha256_verified": 12,
+  "target_scenes": 18,
+  "p0": 11,
+  "p1": 7,
+  "canonical_crosswalk_objects": 118,
+  "direct_objects": 43,
+  "rinha_messages": 620,
+  "inspected_distinct_source_points": 538,
+  "point_presentations": 540,
+  "sheets": 97,
+  "accepted_cited_anchors": 84,
+  "measured_windows": 18,
+  "measured_seconds": 3473.95,
+  "claim_dispositions": {
+    "PRESERVE": 59,
+    "STRENGTHEN": 6,
+    "OPEN": 3,
+    "REVISE": 5
+  },
+  "claim_ids_preserved": 73,
+  "modified_canonical_claim_rows": [
+    "RINHA-C052",
+    "RINHA-C057",
+    "RINHA-C065",
+    "RINHA-C066",
+    "RINHA-C070",
+    "RINHA-C073"
+  ],
+  "local_links_checked": 309,
+  "missing_local_links": 0,
+  "direct_listening_seconds": 0,
+  "continuous_motion_seconds": 0,
+  "dossier_finalized": false,
+  "phase6": "IN PROGRESS",
+  "unresolved_gate": "direct listening and continuous-motion performance discrimination; not missing acquisition",
+  "crosswalk_av_status_cells_updated": 18
+}

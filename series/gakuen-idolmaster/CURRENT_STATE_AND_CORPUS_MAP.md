@@ -4,18 +4,58 @@ artifact_type: corpus_map
 scope: full_active_v2_project
 generation: V2
 status: canonical
-source_boundary: GAKUMAS V2 Source Lock 1.0 plus separately versioned audiovisual and external-paratext evidence
+source_boundary: GAKUMAS V2 Source Lock 1.1 for the transcript refresh; Source Lock 1.0 for historical readings; separately versioned audiovisual and external-paratext evidence
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-09-10 - AVE-FULL-20260910 Hiro/Misuzu documentation imported; source-accounting and measurement gaps closed within declared scope; direct-listening and motion dependencies remain open; Phase 6 remains IN PROGRESS
+last_updated: "2026-11-12 — Source Lock 1.1 analysis, historical corrections and Carbon selection; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
 
+## Transcript refresh — 2026-11-12
+
+[Source Lock 1.1](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261112.md) admits the revision 86 Japanese ADV snapshot at 82412aa5029abd363e68aec145e36525cf9b6b06, with 3,949 raw objects and 100,847 extracted messages. The [per-object delta](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv) records 172 additions, 13 byte revisions, 10 byte-identical moves and zero missing objects. [Source Lock 1.0](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_LOCK.md) remains the historical scope of the existing 1.0 readings and their receipts.
+
+The bounded 1.1 textual refresh covers **172 new objects / 6,923 extracted messages**, compares all 13 revised resources and resolves the 10 moved locators. The [source-locator ledger](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12) partitions the new readings by scope. It links the three winter Dear continuations and Produce variants, Kanae's horizontal arc, 15 numbered-event parts, 42 support scripts, 45 idol communications, 13 branch-specific epilogues and two startup clips. The related core, evidence, story, relationship, institutional and AV ledgers carry dated 1.1 dispositions. Existing phase completion statements describe their original 1.0 boundary.
+
+The [historical-audit dispositions](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_HISTORICAL_AUDIT_DISPOSITIONS_20261112.md) record the six P1 findings and HSCA-046. The other 173 findings remain open. The [Rinha source crosswalk](06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md#source-lock-11--additional-rinha-witnesses) records 28 exact Rinha messages in three new 1.1 objects. Her 1.0 counts and perceptual gate retain their original scope. The source refresh record identifies the extraction omissions and the opaque revised music resource.
+
+**Next operation:** recover the retained Rinha recordings or verify matching editions, then execute the source-first [Gemini 4 Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The prioritized 35-row selection includes the inherited Rinha gate and the E001 request. New candidate recordings and exact offsets still need matching. Freeze the observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
+
+## Current Rinha AV execution — RINHA-AV-20260911
+
+The [Kaya Rinha AV packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) now contains the 18-target source/text, selected-mix measurement and sampled-still pass. All 12 required compilations are retained; 538 distinct source frame points were actually inspected, and 18 selected stereo mixes were computationally measured with decoded-sample preservation verified. **Direct listening: 0 seconds. Continuous-motion review: 0 seconds.** The full perceptual AV gate and final dossier remain open; Phase 6 stays **IN PROGRESS** and Phase 7 remains closed.
+
+The [exact-speaker audit](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md) corrects the current total to **118 relevant objects / 43 direct objects / 620 Rinha messages**. Support0097 part02 had one fan utterance incorrectly included by prefix matching; Rinha-only elongation marks change 63→49. All 73 claim IDs and Source Lock 1.0 commit/revision are preserved. Historical checkpoints below retain 621 as their then-reported count and retain old acquisition handoffs as history.
+
+Current next operation: perform and account for direct listening/continuous-video discrimination of the retained scenes, reconcile the remaining performance claims, then finalize the Rinha dossier only when its gate is satisfied. No additional required download is identified for the declared 18-target set.
+
 ## First-read status
 
 This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical corpus.
+
+### Historical-source coverage audit — 2026-11-08 (non-authoritative)
+
+A retrospective [historical-source coverage audit](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HISTORICAL_SOURCE_COVERAGE_AUDIT.md) assessed all thirteen character cores, both Relationship Systems syntheses and the event and support tranche readings against Source Lock 1.0. Its [findings register](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_FINDINGS_REGISTER.md) records 180 open findings (P0 0, P1 6) and proposes correction batches B1–B5 for owner review; the [coverage ledger](01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/GKM_HSCA_COVERAGE_LEDGER.tsv) records what was examined. The audit revises no canonical reading: every core, synthesis and ledger above remains the current authority until a correction is made through the ordinary claim-revision route. Phase states and the current next operation are unaffected.
+
+### Historical-audit corrections — 2026-11-12
+
+The [current disposition crosswalk](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_HISTORICAL_AUDIT_DISPOSITIONS_20261112.md) records source-first adjudication of HSCA-001–006 and HSCA-046 under Source Lock 1.0. It routes the changes to the affected character cores, evidence matrices, institutional and relationship syntheses, event reading and cumulative ledgers. The other 173 historical findings remain open.
+
+### Analytical correction — Saki U1 nightmare and insomnia — 2026-11-07
+
+A targeted correction integrates two Saki scenes from Unit Story 01 Episode 04 that Phase 3 had admitted but not analyzed: Saki’s nightmare in which Ume finds competing with her boring and leaves (`adv_unit_01-04_13.txt`), and her confession on the night before the summer H.I.F. that she fears losing again without feeling frustrated (`adv_unit_01-04_15.txt`). The actual Ume’s answer (`04_14`, `04_18`, `04_19`, `04_21`) is recorded as counterevidence. Dream-Ume is Saki’s representation and is never evidence of Ume’s beliefs.
+
+| artifact | change |
+| --- | --- |
+| [Saki core](03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/01_HANAMI_SAKI/GKM_CORE_01_HANAMI_SAKI.md) | v2.0 → **v2.1**: new §3.6.1, targeted cross-references, locators SAKI-L061–L064 |
+| [Saki evidence matrix](03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/01_HANAMI_SAKI/GKM_CORE_01_HANAMI_SAKI_EVIDENCE_MATRIX.md) | v2.1: SAKI-C31–C34 and a revision record |
+| [Relationship Systems I](06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md) | new §3.5.1; one §3.10 transition row; §3.11 rules 8–9 |
+| [character-state](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_CHARACTER_STATE_LEDGER.md), [relationship-state](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_RELATIONSHIP_STATE_LEDGER.md) and [primary-source locator](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md) ledgers | dated correction rows; mirrored SAKI-L061–L064 |
+| [branch divergence ledger](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_BRANCH_DIVERGENCE_LEDGER.md) and [audiovisual verification queue](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) | BR-SAKI-UME-FEAR cross-track invariant row (method §4.3); AV-DIA-SAKI-007 registered as a P2 optional target |
+
+Source Lock 1.0 is unchanged and no source object is admitted, because Unit Story 01 was already inside the Saki core’s Phase-3 scope. The A1 scripts were re-read from the Source Lock 1.0 archive snapshot whose `manifest.csv` matches the control checksum in `GKM_SOURCE_LOCK.md`. Execution used the text lane only: no audio or continuous-video inspection was performed, and the optional audiovisual target AV-DIA-SAKI-007 is non-blocking. `GKM_CORE_10_HANAMI_UME.md` is deliberately unchanged. Phase states, the Rinha audiovisual gate and the current next operation above are unaffected.
 
 ### Hiro and Misuzu full AV documentation rebuild — 2026-09-10
 
@@ -28,7 +68,7 @@ This is the canonical active entrypoint for the Gakuen Idolmaster V2 analytical 
 
 **Fresh direct listening: zero. Fresh continuous-motion review: zero.** Source-bound measurements describe the decoded mix; sampled stills support bounded visual/caption findings. Neither closes the remaining vocal, motion, causal or ethical dependencies. Earlier AV interpretations and the separate targeted trial remain identified as inherited evidence. Exact review accounting and limitations are in each character's `SUPPORTING_DATA/FULL_REBUILD_REVIEW_ACCOUNTING.md` and all-claim review.
 
-The original `GKM_PHASE3_*_AUDIOVISUAL_SOURCE_MANIFEST.json` files remain historical release records. The linked `*_SOURCE_MANIFEST_REBUILD.md` files and `FULL_REBUILD_SOURCE_VERIFICATION.md` now govern current Hiro/Misuzu acquisition accounting; original null fields are not current missing-source claims. Immutable release checksums continue to describe their original packages. Textual-core addenda remain in the existing `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` homes. Source Lock 1.0 is unchanged, and the separate Phase-6 Rinha AV baseline and dossier remain pending.
+The original `GKM_PHASE3_*_AUDIOVISUAL_SOURCE_MANIFEST.json` files remain historical release records. The linked `*_SOURCE_MANIFEST_REBUILD.md` files and `FULL_REBUILD_SOURCE_VERIFICATION.md` now govern current Hiro/Misuzu acquisition accounting; original null fields are not current missing-source claims. Immutable release checksums continue to describe their original packages. Textual-core addenda remain in the existing ` 03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` homes. Source Lock 1.0 is unchanged, and the separate Phase-6 Rinha perceptual AV gate and dossier remain pending; the subsequent RINHA-AV-20260911 pass is recorded above.
 
 The September 9 checkpoint below preserves the earlier recovery state. Its prospective Hiro/Misuzu labels are superseded by this checkpoint and the [updated rebuild dispositions](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_TARGETED_REBUILD_CANDIDATES.md).
 
@@ -47,7 +87,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 
 ### Current authority
 
-- Governing textual source: **GAKUMAS V2 Source Lock 1.0** — commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32, frozen 2026-08-02, 3,777 raw scripts / 93,924 messages.
+- Baseline textual source for completed historical readings: **GAKUMAS V2 Source Lock 1.0** — commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32, frozen 2026-08-02, 3,777 raw scripts / 93,924 messages.
 - Governing method: `GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md` **v2.2**.
 - Synthesis architecture: `GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md` **v2.4**.
 - Continuity authority: `GKM_CONTINUITY_AND_STORY_STATE_MAP.md` **v2.1**.
@@ -65,7 +105,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 | 3 — Character Core Readings | COMPLETE — Gate C satisfied | `03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/` |
 | 4 — Numbered Events | COMPLETE — 136/136 dedicated event scripts, 8,507/8,507 messages; four canonical tranche readings | `03_SOURCE_FACING_READINGS/02_STORY_EVENT_READINGS/` |
 | 5 — Support Cards | COMPLETE — 498/498 support scripts, 9,777/9,777 messages; eight canonical support readings | `03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/` |
-| 6 — Relationship/Ensemble Synthesis | IN PROGRESS - Relationship Systems I + II + side-character synthesis + corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md` + `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` COMPLETE; targeted Rinha AV baseline next; Rinha dossier remains required | `06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/` |
+| 6 — Relationship/Ensemble Synthesis | IN PROGRESS - Relationship Systems I + II + side-character synthesis + corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md` + `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` COMPLETE; Rinha source/text, selected-mix and sampled-still pass delivered; perceptual AV gate and dossier remain required | ` 06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/` |
 | 7 — Definitive Character Monographs | PENDING | `07_DEFINITIVE_CHARACTER_MONOGRAPHS/` |
 | 8 — Thematic/Institutional Synthesis | PENDING | `08_THEMATIC_AND_INSTITUTIONAL_SYNTHESIS/` |
 | 9 — Full-series/adversarial audit | PENDING | `09_FINAL_READER_FACING_SYNTHESIS/` |
@@ -73,7 +113,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 
 ## Phase 3 character state
 
-1. Hanami Saki — textual core COMPLETE; integrated AV baseline COMPLETE.
+1. Hanami Saki — textual core COMPLETE (v2.1 correction, 2026-11-07: U1 nightmare and insomnia); integrated AV baseline COMPLETE.
 2. Tsukimura Temari — textual core COMPLETE; integrated AV baseline COMPLETE.
 3. Fujita Kotone — textual core COMPLETE; integrated AV baseline COMPLETE.
 4. Arimura Mao — textual core COMPLETE; integrated AV baseline COMPLETE.
@@ -87,7 +127,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 12. Juo Sena / 十王星南 — textual core COMPLETE; integrated AV baseline COMPLETE.
 13. Amaya Tsubame / 雨夜燕 — textual core COMPLETE; integrated AV baseline COMPLETE.
 
-**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 621 logical Rinha dialogue messages** after tagged-speaker parser correction. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. Next is `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`; the character dossier remains required before Phase 6 can close.
+**Current integrated AV coverage: 13/13 baseline analyses delivered.** No Phase-3 baseline document is missing. Hiro and Misuzu now have the imported AVE-FULL-20260910 source-accounting, measurement and all-claim review records; their remaining perceptual and interpretive dependencies are explicitly qualified above and in the character packets. Phase 4 is **COMPLETE** under Source Lock 1.0. Phase 5 is **COMPLETE**: all **498/498 support scripts / 9,777/9,777 support messages** are covered across eight canonical support readings. Phase 6 is **IN PROGRESS**: both architecture-defined major relationship syntheses, `GKM_SIDE_CHARACTERS_FAMILIES_STAFF_GOKUGETSU_AND_EXTERNAL_PRESSURES.md`, the corrected `GKM_KAYA_RINHA_SOURCE_CROSSWALK.md`, and `GKM_KAYA_RINHA_EVIDENCE_MATRIX.md` are COMPLETE and canonical. The corrected crosswalk freezes **118 deduplicated Rinha-relevant source objects**, including **43 direct-speaking objects / 620 logical Rinha dialogue messages** after tagged-speaker and exact-name parser corrections. The matrix adjudicates **73 bounded person-level claims** and requires a targeted Rinha AV baseline before the dossier is finalized. The [RINHA-AV-20260911 packet](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) delivers the source/text, selected-mix and sampled-still pass. Direct listening and continuous-motion discrimination remain next; the character dossier remains required before Phase 6 can close.
 
 ## Canonical retrieval route
 
@@ -1003,3 +1043,11 @@ The matrix advances the Rinha AV decision from **WARRANTED/DEFERRED** to **REQUI
 
 After targeted acquisition/inspection and integration, proceed to `GKM_KAYA_RINHA_CHARACTER_DOSSIER.md`. The dossier remains mandatory before Phase 6 can close.
 
+<!-- RINHA_AV_20260911 -->
+## Phase 6 checkpoint — Rinha AV evidence pass delivered, perceptual gate open
+
+The [integrated Rinha baseline](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md), [evidence/metrics matrix](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md) and [73-claim report](05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md) are the current bounded AV generation. The original acquisition plan is preserved with owner-execution approval and targeted count/path status corrections.
+
+The pass sharpens sustained/accepted vulnerability, fandom beside self-disqualification, recipient-boundary acceptance and speaker/body attribution. It supplies 538 distinct inspected still points and 18 selected-mix measurements across 12 physical sources. These counts are not listening or continuous-motion coverage. The exact-speaker total is 620; prior 621 checkpoints are superseded only for current count use.
+
+Required next: direct listening and continuous-video comparison of the same 18 scenes, then performance-claim reconciliation and the Rinha dossier. Phase 6 remains **IN PROGRESS**. Dossier finalization and Phase 7 remain gated.

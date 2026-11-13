@@ -1,0 +1,157 @@
+{
+  "schema": "KONOSUBA_MAIN02_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-02",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 283227,
+      "sha256": "836d4437c46abd1e07088e153607ebc62c25eadb3c7af1a6792d64229fb7b348"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 204097,
+      "sha256": "af01ba9c32c7a9985311521b172c15301bf3269cee0dc2d70daead1b8c5d0c8c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 773087,
+      "sha256": "edc8e8fdbffc0eade3fc912b78ceea2178fd1f48ad095c7baa2434b7fdb34494"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 583865,
+      "sha256": "efa4bc202500839d457d5ab2477187e827664def7e50cc47dca483092f20c088"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 181608,
+      "sha256": "edd8a53554e3424c629d3301f7e000225b9e85d8c5cc7b9784db9ea4b532fafd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 175520,
+      "sha256": "f17a26ab83a956782ce6235939e1e2076abffec9a8c0bd2cf037261d64ffbf87"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 197602,
+      "sha256": "46be9caa8c6f9b46fb4de2c6b63a72e0dd225be829af39062d05cc9c5d7dfc8a"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 163377,
+      "sha256": "4bf332698e12be59c481fcd37e897a4d59d6fbaf522878df526d2cdec953c9fd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 253292,
+      "sha256": "d562b71ee361701f851baf5f98a7941f6547356e98beb5aee76a63843d5c2aa7"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 111499,
+      "sha256": "d61ecaa0ffa8af6b3ea539d8cbc716d7014c26f22a3466eb2a6704de500d4adc"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M02EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P1-62",
+      "observation": "M's domain-specific game failure and K's usable prior knowledge coexist with D's ordinary practical action and Aqua's dozing.",
+      "implication": "Clan status is no general IQ, and offensive weakness is no global household incapacity.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P25/40-50",
+      "observation": "Chris actually visits D; the prior invitation is K's reported overheard conversation. Familiar K/M play includes real penalty and a later unfairness objection.",
+      "implication": "Separate actual visit, reported invitation, chosen play and disputed informational fairness; no unlimited permission.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "H01-H11",
+      "observation": "Ordinary-game defeat, information reversal and second-knock competition use distinct premises; profiles, coda and preview have declared frames.",
+      "implication": "Overlapping windows do not create independent trials; profile ellipses are not mainline silence/confession.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "V01-V24",
+      "observation": "Game terms, formal competitive protest, Chris's casual D address and D's practical imperative perform different local functions.",
+      "implication": "Exact bounded written fragments after seal; no acoustic, native-human, preselected-window or L3-by-vocabulary claim.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P34-57",
+      "observation": "K's correct first visitor prediction uses an overheard invitation, revealed atP48 and explicitly causally acknowledgedP57.",
+      "implication": "Visible win is informed; no blind probability test or omniscience.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P48-50",
+      "observation": "His first explanatory turn discloses the material advantage; later 'research' is a subsequent favorable framing.",
+      "implication": "Do not cherry-pick the later mitigation to replace the earlier candid account or force K07 support.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P2-30/40-62",
+      "observation": "Rain keeps the household home: games, Aqua's nap, D's armor care, a friend visit and M's wish to retain the daily outing.",
+      "implication": "Ordinary recreation and concrete interests survive one-trait categories; no completed Explosion or compulsory service.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P7-57; retainedU018P426-450",
+      "observation": "SHOGI, supernatural board rules, poker luck and actual visitor knowledge differ; an accepted native image join additionally preserves K's effective golem disabling and heavy-head injury cost.",
+      "implication": "New bonus comparisons and old-event image audits are separate. Actual narrow effect is not safe implementation or new skill.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024whole; retainedU018P533-566;IMG008/020-021",
+      "observation": "The bonus is low-stakes ordinary life; old Destroyer/Wiz illustrations retain their previous serious context and actual resource costs.",
+      "implication": "No new serious rescue/trial is invented from image reception; comedy does not erase real wrist-flick pain or over-drain risk.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "U024P34-63",
+      "observation": "M's first occupational prediction lacks K's private invitation; both then prefer male, but the second visitor is never shown.",
+      "implication": "One falsified prediction and one unresolved prediction, not two errors or a general inability to reason.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    },
+    {
+      "id": "M02EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Megumin/Darkness/Aqua/Chris, with actual actors and evidence planes individually fixed",
+      "native_routes": "ASrecords/currentQ",
+      "observation": "Narrow K01 informed option-use and D06 ordinary practical attempt are supported; K07's candid first disclosure and all qualified/NT branches remain visible.",
+      "implication": "No copied outcomes, new blind score, retargeted historical secondary forecast or reopened accepted principal trial.",
+      "authority_and_adverse_limit": "New bonus and declared paratext; retained-principal joins are audits of existing events, not new independent tests. Original ledger prefixes, controls and scores stay exact."
+    }
+  ]
+}

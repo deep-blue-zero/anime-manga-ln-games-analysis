@@ -1,0 +1,137 @@
+{
+  "schema": "konosuba.cohort41.identity-and-scope-assessment.v1",
+  "status": "PRIVATE_FOUNDATION_DRAFT_SEMANTIC_REVIEW_DUE",
+  "native_provenance_sha256": "8f4846c81465e26aeb7f97be2c7ad62dc98bd0d10ef6e75565d8beb6e51712fd",
+  "entering_private_census": "WORKING118",
+  "entering_private_census_sha256": "62e7706b758a81d600fb521a338e698fb0a1504b379f105268f3cad77cc01ee5",
+  "subjects": [
+    {
+      "row": 89,
+      "subject": "Dust03lake Tranquility Girl",
+      "proposed_scoped_tier": 2,
+      "proposed_rules": [],
+      "justification": "Own approach/retention tactics,recipient differences,resource control,changed bargaining,failed reliance and consequential death earn a substantial twelve-dimension account.",
+      "limits_and_rivals": "Predation,ordinary threatened bargaining,learned performance and episode structure remain overlapping causes. No stable personal generator isolated;not a plant,anonymity or appearance-count ceiling."
+    },
+    {
+      "row": 90,
+      "subject": "Dust02diary inventor",
+      "proposed_scoped_tier": 2,
+      "proposed_rules": [],
+      "justification": "Four explicit entries supply discretionary interests,imposed-work resentment,funding concealment,technical self-correction and selective protection. Documentary custody and actual later device events constrain interpretation.",
+      "limits_and_rivals": "No equally explicit MAIN02/05personal identity join;generic avoidance/privacy and comic self-presentation remain. No complete implementation,fate or universal safety. No new model merely to fill this route."
+    },
+    {
+      "row": 92,
+      "subject": "MAIN15bonus noblewoman",
+      "proposed_scoped_tier": 1,
+      "proposed_rules": [],
+      "justification": "Own polite initiation,story request,surprise,topic repair and embarrassment support a bounded profile distinct from Darkness later accusation.",
+      "limits_and_rivals": "No witnessed wealth request,verified finances,named family,completed storytelling or reciprocal romance."
+    },
+    {
+      "row": 133,
+      "subject": "MAIN02/05joined historical scientist",
+      "proposed_scoped_tier": 3,
+      "proposed_rules": [
+        "DSC-R01",
+        "DSC-R02"
+      ],
+      "justification": "Positively joined journals distinguish pressured low-effort accounts and accountability deferral from genuine interest-driven effort with late hazard recognition. Opposed capability,status,ordinary reward and responsibility evidence earns a monograph and two defeasible conditional propositions.",
+      "limits_and_rivals": "Documentary selection,coercive institutions,ordinary hobby engagement and generic avoidance remain strong rivals. No unique mechanism isolation,public-voice certainty or universal engineering competence. Dust02and Moguninnin routes remain unresolved."
+    },
+    {
+      "row": 145,
+      "subject": "MAIN05roadside Tranquility Girl",
+      "proposed_scoped_tier": 2,
+      "proposed_rules": [],
+      "justification": "Repeated false first-conversation premise across two recipients,public/private register,appetite,exposure and failed repair earn a substantial individual account.",
+      "limits_and_rivals": "Species lure,survival script,opportunism and comic reveal not yet discriminated into a distinct generator. Only implied killing;no completed feeding or rehabilitation. No nonhuman/anonymity ceiling."
+    },
+    {
+      "row": 146,
+      "subject": "MAIN05woodcutter",
+      "proposed_scoped_tier": 1,
+      "proposed_rules": [],
+      "justification": "Stated occupational obligation,apology,failed intended action and flight are his own agency under a specific conflict.",
+      "limits_and_rivals": "No known earlier-deception awareness,confirmed residence,performed rescue,return or universal occupational law."
+    }
+  ],
+  "new_discovery_records_sha256": "b5a208b73a71351ac1f9b99e24de79dece1b35ebd65fb6c2046051a31ffefac5",
+  "name_and_role_findings": [
+    {
+      "route": "133 MAIN02/05 scientist",
+      "classification": "JUSTIFIED_ROLE_REFERENCE",
+      "qualification": "Unnamed joined source subject. Explicit narrator recognition plus attributed handwriting/Japanese-writing account;no invented personal name."
+    },
+    {
+      "route": "90 Dust02 inventor",
+      "classification": "AMBIGUOUS_REFERENT",
+      "qualification": "Plausible same-scientist contextual features,not an equally explicit personal join. Separate records can overlap;do not assert two distinct people."
+    },
+    {
+      "route": "89/145 plants",
+      "classification": "SOURCE_REQUIRED_ANONYMITY",
+      "qualification": "No personal names in current scenes. Specific episode labels and positive later distinction;no species personality or automatic named-plant merge."
+    },
+    {
+      "route": "92 noblewoman/146woodcutter/female colleague",
+      "classification": "KNOWLEDGE_BOUNDARY_REQUIRED",
+      "qualification": "Particular source roles or reported-role route;name and broader identity unknown. Occupational,rank,gender and appearance similarity are insufficient aliases."
+    },
+    {
+      "route": "Prelude/Calpas/Primo",
+      "classification": "UNNECESSARY_GENERICIZATION",
+      "qualification": "Avoid generic noble labels where source namesプレリュード伯爵/カルパス男爵/プリモ子爵 are supplied. Latin labels are working readings;rank is source-attested."
+    },
+    {
+      "route": "142 reporting priest",
+      "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+      "qualification": "Initial tentative route was a preparation error. Already-covered unrelated MAIN04priest is withdrawn without changing either plane or claiming a new subject."
+    },
+    {
+      "route": "221 Moguninnin master",
+      "classification": "AMBIGUOUS_REFERENT",
+      "qualification": "Retain existing unresolved maker route. No automatic scientist join from Noise/project association."
+    },
+    {
+      "route": "69Princess/76named garden plant",
+      "classification": "JUSTIFIED_ROLE_REFERENCE",
+      "qualification": "Existing separate positive source identities and frozen C34/C37analysis remain;no new source/model/person credit here."
+    },
+    {
+      "route": "female colleague across journals",
+      "classification": "AMBIGUOUS_REFERENT",
+      "qualification": "Shared reported role within joined-writer records supports a bounded role profile;every occurrence is not proven a single globally distinct woman."
+    },
+    {
+      "route": "MAIN15P37surprise",
+      "classification": "INCORRECT_IDENTITY_OR_ATTRIBUTION",
+      "qualification": "Interjection is guest own speech attributed byP38,not Kazuma. P45guest embarrassment differs from P46-47Darkness laughter."
+    }
+  ],
+  "candidate_totals_if_received": {
+    "models": 63,
+    "scoped_secondary_models": 57,
+    "compact_profiles": 106,
+    "monograph_only": 32,
+    "nonfinal_census_records": 397,
+    "new_monographs": 4,
+    "new_models": 1,
+    "new_rules": 2,
+    "new_compact_profiles": 6,
+    "new_sparse_index_records": 8,
+    "new_unfinished_substantive_routes": 2,
+    "new_nonfinal_records": 14
+  },
+  "count_qualification": "All counts are local artifacts/records,not unique people,independent observations,completion fraction or a final denominator. Four new reported-role/individual compact records plus two existing-row profiles. Historical19cross-plane differences and all other rows remain exact.",
+  "no_stage_shortcut": "Actual current model/monograph review and foundation freeze must precede exact inputs and genuine first bodies. Diagnostics,semantic receiving,integration preflight and publication gate remain due before expanding to next cohort.",
+  "source_known": true,
+  "same_informed_root": true,
+  "independent_observation_count": null,
+  "independent_trial_count": 0,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "canonical_changes": false,
+  "full_program_complete": false
+}

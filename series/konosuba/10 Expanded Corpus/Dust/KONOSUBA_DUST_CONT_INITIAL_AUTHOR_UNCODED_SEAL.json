@@ -1,0 +1,225 @@
+{
+  "schema": "KONOSUBA_WHOLE_LOCAL_TEXT_EPUB_ACTUAL_UNCODED_READING_SEAL_V1",
+  "source_id": "DUST-CONT",
+  "sealed_utc": "2026-10-18T12:18:47.351639+00:00",
+  "native_filename": "Konosuba Extra - Dust - Motto Ano Orokamono ni mo Kyakkou wo - Himesama kara no Shoutaijou.epub",
+  "native_bytes": 5588468,
+  "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+  "fresh_native_ZIP_CRC": "PASS",
+  "actual_complete_textual_units": 23,
+  "actual_paragraph_slots": 2916,
+  "actual_unique_native_images_viewed": 22,
+  "unit_interval_verification": [
+    {
+      "component_id": "DUST-CONT-U001",
+      "native_member": "item/xhtml/p-cover.xhtml",
+      "sha256": "992fbfde77691cbcacec2a98d046cecdd60f026527364bb890b4af7280ed4614",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U002",
+      "native_member": "item/xhtml/p-fmatter-001.xhtml",
+      "sha256": "658bc1e745348a0e6becd66ba4c9e8a702bdc376eb7a7f220257039153ce9e6f",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U003",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "sha256": "82e7f2200b2e475398f1ba9ab5d27542af4b602e6369cecd91ffe456dfb8f29a",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U004",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "sha256": "4491814f96c0851cb48cf71d97aa63e62fa9111b5d21c858d487e60b34621b06",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U005",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "sha256": "deb79b9ff17f3e3f48688180888642b6b5876511757fa87ab51c74e6f173844b",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U006",
+      "native_member": "item/xhtml/p-titlepage.xhtml",
+      "sha256": "bb2af2033d8316cd43fb8a30073b29f55b3244a449cc7cba449820f5347f86e0",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U007",
+      "native_member": "item/xhtml/p-caution.xhtml",
+      "sha256": "366ec6261e0cb5668d44f7f02d25615d9ad59d7e84d49bae7fa78d41f12f51e8",
+      "paragraph_slots_actually_received": 4,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U008",
+      "native_member": "item/xhtml/p-toc-001.xhtml",
+      "sha256": "de99cf2f1fbfc805a38cf625cf7b3cf8de3cd00c700486683dbdefbb4e04d5c2",
+      "paragraph_slots_actually_received": 11,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U009",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "sha256": "5b1fcb684afc9b903aee31e4085ccaa1f962045581f22e5f90ffd057452bdec2",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U010",
+      "native_member": "item/xhtml/p-002.xhtml",
+      "sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+      "paragraph_slots_actually_received": 574,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U011",
+      "native_member": "item/xhtml/p-003.xhtml",
+      "sha256": "37ec58602b864bf68c6237a939e8699c8ca1d1f002711b4cf6206d2b8e09b4ea",
+      "paragraph_slots_actually_received": 551,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U012",
+      "native_member": "item/xhtml/p-004.xhtml",
+      "sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+      "paragraph_slots_actually_received": 510,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U013",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "sha256": "716e1c469c9bf0161907524ab941d57cee45313caea4580d725d62e66d5b9d49",
+      "paragraph_slots_actually_received": 531,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U014",
+      "native_member": "item/xhtml/p-006.xhtml",
+      "sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+      "paragraph_slots_actually_received": 573,
+      "intervals": 3,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U015",
+      "native_member": "item/xhtml/p-007.xhtml",
+      "sha256": "27d8dcffde244b6b30ce7853bc82783329a3fdc7ea72090bc65b97728ceb44fd",
+      "paragraph_slots_actually_received": 73,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U016",
+      "native_member": "item/xhtml/p-008.xhtml",
+      "sha256": "887d168e69e87b05dc7e4d8ac6818717d8082fefab0867a80faaec9a70847a98",
+      "paragraph_slots_actually_received": 34,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U017",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "sha256": "ebc268ad283203a3781ac15d42dc2fdd415f3c443553217f063d841a1572bf30",
+      "paragraph_slots_actually_received": 32,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U018",
+      "native_member": "item/xhtml/p-010.xhtml",
+      "sha256": "41c2fbbed257869ce67204e75d275a4d3ad266be17dd96606ae5558d9aa5f844",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U019",
+      "native_member": "item/xhtml/p-allcover-001.xhtml",
+      "sha256": "2c0f4ebcd0866ca7291df6813092c841ffae9dcfdf89da55fabc2f93d3dd4beb",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U020",
+      "native_member": "item/xhtml/p-colophon.xhtml",
+      "sha256": "9e07a8c3e516b36bcf45b37e400f62376551adfa2b19e149a051b3bf85c92ecd",
+      "paragraph_slots_actually_received": 20,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U021",
+      "native_member": "item/xhtml/p-colophon2.xhtml",
+      "sha256": "d3800e4162cc81029271dfa148e5411e8447d24eb2fe76b23dfd7490c03190a6",
+      "paragraph_slots_actually_received": 3,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U022",
+      "native_member": "item/xhtml/p-bookwalker.xhtml",
+      "sha256": "12ce2faa0b241d25f0e74460a97709c2d03e6d1cc595f0f9cd5487c6295baf09",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    },
+    {
+      "component_id": "DUST-CONT-U023",
+      "native_member": "item/navigation-documents.xhtml",
+      "sha256": "e706e9b3478a748d5057186d9be97b29a99a129b5fb913cf3cf53a9e12b60aaa",
+      "paragraph_slots_actually_received": 0,
+      "intervals": 1,
+      "nonparagraph_residual_received": true
+    }
+  ],
+  "immutable_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 26074,
+      "sha256": "c4ab1fb7d52d432e9f62748ee55651ae2395cf179a2cae9cf025390d25b1e5b8"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 9028,
+      "sha256": "292b9f1a7909b2b943735b792185bec0bae894340c2b81f71c58ca74ba85c304"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 134260,
+      "sha256": "60d4f7831ef5ae9d34b17e5e7b75b034397dacdbc2d969fe753fab06499d78ac"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 15877,
+      "sha256": "99a67d6989353c6fcb2885f8dab9b1504f4119e3601c81bd7921075b0112ff3f"
+    }
+  ],
+  "all_source_first_formal_outcomes_still_unassigned": true,
+  "reader": "Continuing informed root AI; same author and receiver, no independent review, pristine blindness, native-human or audio claim.",
+  "scope": "All supplied textual bodies, ruby readings displayed inline, native nonparagraph residuals, front/end/navigation, electronic bonus, author and contributor paratext, and every image received actual separate reading/view records. Exact layout inspection of textual XHTML is not a separate print-page facsimile claim. Structural extraction alone received no reading credit.",
+  "corrections_to_resolve_in_separate_current_derivatives": [],
+  "remaining": "Formal L/H and voice coding, natural-order question assessment, seventeen-responsibility report, component dispositions, ledger decisions, acceptance, and full publication gate; no whole-program completion claim."
+}

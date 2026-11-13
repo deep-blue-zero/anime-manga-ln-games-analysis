@@ -1,0 +1,1067 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-MAKOTO",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MAKOTO_CHARACTER_MONOGRAPH.md",
+    "bytes": 37548,
+    "sha256": "350e614e7ee1237d16a5c6a0a802c736a73f368e8e0427a0c7a5b5751f72b100",
+    "git_blob_oid_of_actual_bytes": "01dd8940bd1cafeb4a97688f3160f994305343fe"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/BLUE_ARCHIVE_MAKOTO_CHARACTER_MONOGRAPH.md",
+      "bytes": 35952,
+      "sha256": "cfb8431e2c7675045428a84129330f12f9f08d06be71468a639c238d7c3f762f",
+      "git_blob_oid_of_actual_bytes": "a01c9a9f894b8421e6478ca8c18d87e191802828",
+      "lines": 151
+    },
+    {
+      "path": "ROOT_MAKOTO_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5559,
+      "sha256": "5e6ad6ba8e4b9dab0d9bd02f6fd40069e644b2763582c1f2d272ec8ff40982ec",
+      "git_blob_oid_of_actual_bytes": "3a73646002c803f376ca03220f0268bbef79c459",
+      "lines": 72
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 118680,
+      "sha256": "fe3d76613e8f648f7c824b818888743968983b2b40c482ae9bd2735c72b71538",
+      "git_blob_oid_of_actual_bytes": "47404fbf62d491da16d54612c0964699fc8a1dc2",
+      "lines": 2171
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 3612,
+      "sha256": "46a8888c846e039ec38b67dd7ef6df6f1c8e0236ac62ff73c5bf7ccc3a5ac035",
+      "git_blob_oid_of_actual_bytes": "3e6480724eaac3e48a1c2bceae77df741629c404",
+      "lines": 49
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_FROZEN_DELIVERY_MANIFEST.json",
+      "bytes": 2099,
+      "sha256": "6c2da2e0a6ad4f27135eafdaae83e00d277cc3f83119ec7ed7056f3ab63a2949",
+      "git_blob_oid_of_actual_bytes": "56b6d9f02dd3328cddb7e4b1ab74522cc04e5f63",
+      "lines": 41
+    },
+    {
+      "path": "GEHENNA_PANDEMONIUM_MONOGRAPHS/MAKOTO_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 13058,
+      "sha256": "15cf745bf3bc68737174c2e179efe0f33384e4aa8dce032eb90516b49a35ac13",
+      "git_blob_oid_of_actual_bytes": "7ef3ca645cb40b3556e3e5592c10169bb448acc9",
+      "lines": 77
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MAKOTO_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MAKOTO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter/current acceptance framing, explicit ROOT scope and stable original-gap ID qualifications and optional retrieval title change. Full unchanged literary claims, sources, recipient ends and custody extents are retained. Every original line and changed clause is recoverable through exact transport.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "1658226d82991e821acc7363ec1375c03a4c3037e48a2a07ed6d5d89a5430ec5",
+      "line_text": "method: DEEP_SYNTHESIS"
+    },
+    {
+      "frozen_line": 5,
+      "canonical_line": 4,
+      "line_sha256": "2923c66dbdf3cac7fd09c1d32e3c93a03d356dead7112227287dbfbc376eed79",
+      "line_text": "architecture: \"1.12 / section 7.1\""
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "69edb45e1ea6a5550a81d9ca52aacb122b7ad30d40e201d37117cf89e97b6f82",
+      "line_text": "required_home: P3-CHAR-MAKOTO"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "88e325fb8da573f8c5b65e8532ef8bca8742d99921dacdf2db1b71a19bff5129",
+      "line_text": "source_responsibility: P3-F029"
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "3e80cfa4c0850f296e6a605581cf955aa2fcf62dd58d73e370d4906a136a5e2b",
+      "line_text": "dated_navigation: P3-A038"
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "a4efd80721e3cf24979bf95d191302956552e96ca14faadfd92bb1eead382773",
+      "line_text": "person_scope: \"羽沼マコト / BA_PERSON_CH0079; literal variants10146 and20033\""
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "dca433725e2113a41bd7ea1bf048c40b8cfe9ebbeefcc0997266fd1090647fa7",
+      "line_text": "analytical_base: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "3d639a1006263fe0efb71adff7cd496284e45b46a8f9c748f161e9019134278e",
+      "line_text": "historical_source_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 14,
+      "line_sha256": "43f4dafb6945f1863207bb76f7cbcdeb334f4f5ef3c97f403bdce183c2130fc3",
+      "line_text": "source_boundary: \"Thirteen complete effective MakotoV3 private arguments and complete corrected comparator; complete adequate accepted Main/Final/Group/MINI/event meanings, including whole Event86027 argument with retrospective dream qualification\""
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 15,
+      "line_sha256": "4efc00eb15bac2aaa1416c4c159b4a5dadf8f363b2a399b9ae28d10de635a501",
+      "line_text": "authority_quartet: \"Current Cycle008 admission with limits; ROOT-qualified accepted source arguments; historical firstness/independence UNKNOWN; performed voice unreceived\""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 16,
+      "line_sha256": "abef9e120d5642fec7a7ee4983e730f875c03c166c6437b24d6da24bd0c03e54",
+      "line_text": "exposure: RETROSPECTIVE_TEXTUAL_SYNTHESIS"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 17,
+      "line_sha256": "053d11ab47fc96cac835274ba6c83c9dac538a71508ef1181c0737f9e9530b9a",
+      "line_text": "all14_original_gaps: OPEN"
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 31,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 32,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 33,
+      "line_sha256": "5d847d58f902efd20dd98805550635de4eeac26aa2f76cc1eead69090ab4a7b7",
+      "line_text": "# Makoto — wanted recognition, particular care and the answer she cannot own"
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 36,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 24,
+      "canonical_line": 37,
+      "line_sha256": "2ab9be8ae76efee6c2a536ea8b5a9dcf8191023d6803ab5412619eb37ef768ff",
+      "line_text": "## 1. Core thesis: particular accommodation inside a wish for domination"
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 38,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 39,
+      "line_sha256": "f0aaf86b4d72aa446a853762d75ecdd3112afac7ccb75a1f29fd3082b5b33580",
+      "line_text": "Makoto's central literary tension is that she can value another person's attachment, offer practical redress and accept a particular limit while seeking a political arrangement in which resistance cannot determine the outcome. Private compromise, merchant negotiation, Lionmaru photo comfort, actual pudding forgiveness, a protective diversion and tangible boat compensation provide substantive positive evidence. Her wish to prevent independent student thinking, predetermined rejection of correct paperwork, repeated reinterpretation of adult refusal and explicit claim of anti-treaty collusion supply serious contrary evidence. The most defensible synthesis asks which other person's answer she leaves open, which she recasts as hidden agreement, and which she seeks to remove from public decision altogether. [MK02–MK08; MK-CMP:Q01–Q06; G1902; MINI15030; V3C3E007; E860:007,014]"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 40,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 41,
+      "line_sha256": "b666f99eed9ccf10e5814f3284d4c10008a31f7e412eb50d335b2b7bf535fedc",
+      "line_text": "Recognition is a wanted end with several scales. She enjoys swimsuit discussion and praise, wants a model occasion, likes a particular atmosphere and rare uninterrupted company, seeks a personal alliance and boasts about public superiority. These do not all become political transactions. Shopping, animals, photographs, pudding, play and cherries deserve analysis in their own right. Their ordinary value is also why another person's discomfort, stolen dessert, hidden workload or denied photograph matters before any major institutional consequence. Makoto's own investment framing and denial of affection remain her formulations; contrary care does not authorize a diagnosis of concealed feelings. [MK01,MK04,MK07,MK09–MK12; MINI00020; E860:011]"
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 42,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 43,
+      "line_sha256": "e99d4d492166d907743bf5be437ab9dc3c6d0a3a2a24d6c8381ea5652dfbbd1c",
+      "line_text": "The strongest counterreading to a uniformly parasitic leader is material. In Event860 Makoto draws pursuit away from Ibuki and her companions, rejects forced retention of Iroha, and supplies the fisherman with a new boat while distinguishing its price from the decades of value in his old one. These are actual protective and corrective acts. They coexist with dismissing supply management as trivial, taking risks to obtain Iroha's apology, looting rhetoric and a renewed budget-cut proposal. A narrow positive action has enough weight to change the portrait without certifying every authority claim or completing a durable reform. [E860:004,007,011,014]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 44,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 45,
+      "line_sha256": "23047757fdbfb2aa66aa3566f93e601b0683e49fbf86084e11a280d115a93e2b",
+      "line_text": "## 2. Longitudinal states: local adjustments and recurring unfinished proposals"
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 46,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 47,
+      "line_sha256": "4d955bd6aa56d5e44b2369ff3f60dd3a607f168121e9efabcc357c40b8dca49b",
+      "line_text": "The eight private pairs retain complete chats and local Schedule joins. Literal10146 and20033, with costumes1900957001 and1900922201 respectively, define the current family; they do not date a summer-to-normal conversion against Main, Group or events. Recognition and self-presentation, square compromise, a refused possession offer, ended photography, ceremony preparation, merchant accommodation, animal-care adjustment and broad problem-solving are distinct local states. Their changes can be traced within each argument without manufacturing one release-order biography. [MK01–MK13; G07–G08]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 48,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 49,
+      "line_sha256": "f42e9366bb08361ed985e51b771a98ac5919b10392880d68b5f7589212d26d93",
+      "line_text": "The square episode supplies a genuine compromise. Makoto accepts the adult's imposed arrangement while objecting to its method, acknowledges she is not displeased and requests reflection time. A Prefect apology and assurance about interference de-escalate the particular encounter; successful later training and permanent unobstructed access are unprinted. The same episode retains her wish to prevent students thinking independently so Pandemonium keeps power. A local willingness to reconsider an encounter therefore does not entail a general willingness to share political determination. [MK02; BA:bond:10146:003; whole thread101460080]"
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 50,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 51,
+      "line_sha256": "f3336f75896dc87706c02313d46bfec858287e3c0f620d9b6ca6b96150af1c0a",
+      "line_text": "Lionmaru's episode gives a different adjustment. Holiday shopping, feeding-preference reports and resistance to separation lead to delegated care and later actual receipt and viewing of photographs. Her denial of affection and investment language remain; the narrator's small comfort is also positive. The doctor's allergy and risk account is attributed person-empty written evidence, with unequal Japanese and Korean symptom/severity clauses. Delegating care and receiving photos are completed or reported local changes; clinical cure, safe resumed contact and a successful animal channel remain unestablished. [MK07; BA:bond:20033:005; whole thread200330200]"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 52,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 53,
+      "line_sha256": "0a2903f0013a2b64ab9871696f437dbcbc87bcb648091c6722fc322d430d706e",
+      "line_text": "Pudding provides an especially important recurring limit. MINI00020 ends with Makoto admitting fault and apologizing after recognizing Ibuki's loss, without printed forgiveness or replacement. MINI150 begins another violation despite an earlier promise. Its ending gives an apology, a widened promise not to take anyone's pudding and actual forgiveness. That is more than no change, and less than a proved permanent habit. Ibuki's desired play with PS68 remains independent of whether she has ceased feeling angry. The local sequence refutes an invariant no-remorse reading while showing why selective attachment does not by itself secure a rule for everyone. [MINI00020:u0064–0074; MINI15010/20/30]"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 54,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 55,
+      "line_sha256": "94d76d8e48646b1aa7f0d93650b782173c63683f02450bca041e29b816ffba34",
+      "line_text": "Event860 likewise has finite afterstates. Makoto acknowledges being wrong about the boat selection, accepts rest while seasick, protects companions, survives after Iroha saves her and eventually presents compensation. Her admission that she wanted Iroha to apologize explains a risk without justifying it; no mutual apology is printed. Subsequent tournament victories become retrospectively dream-qualified, rather than a later factual conquest phase. The ethical trajectory contains local change, recurring vanity and incomplete responsibility, with exact placement relative to the private pairs still open. [E860:002,007,010–014,016–027]"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 56,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 57,
+      "line_sha256": "2fea8dabdeebaeead035f33df7799eed15de8c26f1cacc565e7c5f5b6c86b6cc",
+      "line_text": "## 3. Public and private self: recognition differs from assent"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 58,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 59,
+      "line_sha256": "935ddd98d0cc3008386b74b9df5e00abeb3c960c8d1221da8c7ff7222135badc",
+      "line_text": "Makoto repeatedly treats another person's response as a resource for her self-image. A model invitation and excitement about a first step remain plans, without a performed debut or measured public reception. The students who recognize Chiaki and Ibuki differently from Makoto form a particular encounter, rather than a popularity poll. Her acknowledged inability to swim, rejected immediate lessons and future learning complicate confident presentation without certifying a global incapacity. Enjoyment, embarrassment and withdrawal belong to this ordinary scene as completed local responses. [MK01; BA:bond:10146:002:u0026–0063]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 60,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 61,
+      "line_sha256": "67b7d5e2b431c2982fafc6849e2ac96be86fc38eb6d1d11d0401249b040b7575",
+      "line_text": "Private interest also encounters explicit refusal. A reciprocal-possession proposal and half-Kivotos offer do not acquire the adult or territory. Japanese refusal to become property and Korean difficulty wording remain unequal. Sensei being everyone's teacher provides counterpressure while Makoto's qualified special-person statement remains real. In the photo encounter an ended shoot and later viewing coexist with the adult's refusal to guarantee constant company. Makoto's reinterpretation of that limit is her answer to refusal, not the adult's consent. A portrait of wanted proximity must preserve who can decline it. [MK03–MK04; their complete linked chats]"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 62,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 63,
+      "line_sha256": "dd61ae68a746450ba65fbb03a192a0ea6d9d1f14280ab20e22d36760f37c7f52",
+      "line_text": "The commercial scenes show accommodation and incomplete inspection together. A merchant objects to demolition of a purchased shop; Makoto offers locale-specific redress while twice excepting Prefects. A contractor's400-inch completion letter, her admitted neglect of units, fleeing-supplier reports and repossession for lease arrears do not prove vendor fraud or every physical outcome. The adult agrees to local help and refuses conquest. The final narration of jointly resolving various problems is a real broad endpoint, even though cash transfer, repayment, tower correction, punishment and publication are not individually inspected. [MK06,MK08]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 64,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 65,
+      "line_sha256": "83eb5f44f89bc5286a3d4f92664adf3abd7af632826d6900f36ecd45f5cb218d",
+      "line_text": "Public procedure reveals a more closed answer. In Group1902 Makoto admits the paperwork is correct and announces that adjustment cannot change rejection. She assigns Iroha to humble the Prefects; fault-finding is the purpose rather than the product of an independently established discrepancy. Private merchant accommodation and the off-duty helping visit therefore complicate, rather than cancel, institutional subordination. Different scales of generosity and domination belong to the same literary problem. [G1902:scene001:u0002–0053; MK04,MK06]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 66,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 67,
+      "line_sha256": "c69c901e7ad0a46fb64534653a981aed462df546a1d7454640804c3c66935714",
+      "line_text": "## 4. School and office: power depends on invisible work and bounded authority"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 68,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 69,
+      "line_sha256": "337d595925e2a8570dc7596c5f16fe7a23b6b46c1eaa49dc6988e7bb8cca59c0",
+      "line_text": "Pandemonium's office provides status and practical dependence. Makoto calls herself the true leader, commissions symbols of authority and hopes others are not slacking; written labels distinguish ClubNone from the gacha Pandemonium designation. These descriptions are not an office charter, consent record or audited performance. In Main's opening Ako reports inventory, ammunition and delayed expense demands, Makoto says the Prefects can wait, and Hina conditionally refuses to ignore that reason. The opening prints no settled budget outcome. An uncertain Iroha-tagged self-reference to “this Makoto” cannot become a secure Iroha endorsement. [MK09–MK10; M2C1E001]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 70,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 71,
+      "line_sha256": "7aa2e364c1bcbf2e0ff1b2e8305e454b6603769b8aefa20613df054f4fc162e6",
+      "line_text": "Group1902 shows how institutional care language can serve a predetermined punishment. Iroha deducts for a newspaper rule that the field may not have heard, then uses Ibuki's wanted cocoa as a hospitality criterion. Ibuki's preference does not make her the author of the rule. Her fall, own assurance she will not cry, others' concern and Iroha's zero-budget rationale remain separate. The narration records successive reductions and reallocations, while the final roughly95-percent/zero proposal still requires formal processing. Makoto's gloating and refusal to listen do not supply approved expenditure, just as the final limit does not erase the earlier represented revisions. [G1902:scene002:u0002–0018; scene003:u0002–0059]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 72,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 73,
+      "line_sha256": "363264ae9d4614cf9356a7e27639054ae2e3dcb7babc81fcc8f98a76003e06a2",
+      "line_text": "Event833 adds actual party work and a publicity strategy. Makoto's budget-transfer and statue claims are not invoices. She assigns Hina piano partly to expose presumed weakness, announces a victory when Hina is late, and disorder follows in the represented sequence. The opening of009 narrates problems resolved and the party restarted; the text then gives Hina's successful represented music and Makoto's surprised admission that she played. The compressed positive endpoint is real, while covert costs, shifted work and durable accounting remain unresolved. Ibuki's desired party, Ako's burden objection and Hina's own effort cannot be reduced to Makoto's political score. [E833:006,008–009]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 74,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 75,
+      "line_sha256": "d86b74fe6fca60327bb2c297eff94f62d3673cc14014239e2682d78678bb8c4d",
+      "line_text": "Event860 makes the dependence on work explicit. Iroha conserves portions, removes dessert, tries fishing and preparation, and conceals some danger from Ibuki. Makoto neither knows nor cares about supplies and calls such management trivial. Iroha's refusal exposes that leisure and title did not keep the group safe. Makoto then rejects forced retention and hypnosis as a way to keep her, stating loyalty should be voluntary and contrasting an “old Gehenna.” This is meaningful contrary speech to her coercive habits; it does not furnish that regime's authenticated history or make Iroha's ongoing chores freely wanted. The Pandemonium institution and ensemble remain separate required Phase3 packages. [E860:003–004; G12–G14]"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 76,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 77,
+      "line_sha256": "1e633ab88ecb11bf291a39c60f5bff843a16d6e28d8cf039f6fdf0e62a5a098e",
+      "line_text": "## 5. Ordinary life: care, taste and company have their own ends"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 78,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 79,
+      "line_sha256": "c08f80f1868fadcf4faf97641ab91ddc77a338b8e7fa8d9452db8e816c82ab2a",
+      "line_text": "Makoto's ordinary repertoire includes enjoyment of clothes, photographs, shopping, animals, pudding, holidays, atmosphere and company. The written birthday's possible or asserted broadcast differs from its personal-congratulation and private-company address; invitations to sunrise, Christmas or Halloween remain trigger-specific. An appreciated coffee offer does not print drinking. Holiday mall comparison is actual local activity, while Korean purchase wording and Japanese came-to-buy wording constrain a common checkout claim. Neither a political defeat nor a failed business plan withdraws these scenes from character analysis. [MK01,MK04,MK06–MK12]"
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 80,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 81,
+      "line_sha256": "22a69a00719e2eea85c5e5224f41a51ef37aea4945b99bbe9fd01bdaa0969544",
+      "line_text": "Lionmaru is especially useful because care and denial coexist at the level of printed words and acts. Her basket's toys and snacks, reported feeding preferences, proposed reduced contact and photo comfort are positive. Calling the animal an investment does not erase that activity, and interpreting the activity as hidden affection would exceed what the testimony can settle. Delegated care allows a wanted connection to continue under a limitation. The resulting photo receipt and viewing require no inspected image pixels, channel debut or health certificate before they matter as an ending. [MK07; MK-CMP:Q05]"
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 82,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 83,
+      "line_sha256": "21ea99cb4d057dd70ca77040f787e46d1438d3c7eff84bf68547e0c5fe58f67a",
+      "line_text": "Ibuki's pudding and play are independently wanted. Written Makoto can treat locating pudding as more urgent than a great deed; no pudding recovery is thereby enacted. In MINI the child's worry that deprivation means she is bad, refusal to return home, pleasant play and widened condition for forgiveness constrain the senior's affection. Makoto's report of buying ten replacements is positive testimony without printing all delivery or consumption. The broadened promise belongs to Ibuki's agency; her forgiveness belongs to a completed local exchange. It supplies a different end from Makoto simply obtaining reassurance about herself. [MK10; MINI00020; MINI15010–30]"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 84,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 85,
+      "line_sha256": "fa9637a9e5c57ddb169b335ff2ae9dfadd6f9536f41a85e02e7f691547a0bbec",
+      "line_text": "Event835's photograph gives another specific accommodation. Makoto agrees to take an edge position if Ibuki looks good, despite her self-celebration. Her later prestige-driven offer of help coexists with Ibuki's own desire to support hosts, and the trip safely ends in narration. A sleeping prestige dream is not achieved school-wide loyalty. In Event860 she likes cherries after the crisis, values the fisherman's long attachment and gives compensation that exceeds a simple price comparison. These ordinary attachments are literary evidence in their own right, while recipients' work, delayed guidance, refusals and unverified costs remain. [E835:003,009,016; E860:011,014]"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 86,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 87,
+      "line_sha256": "ac84a9abbf86c1089f51e081f3e0cc2ebb32efbaf591d7e73113ec2f81160a59",
+      "line_text": "## 6. Crisis: self-claimed betrayal, useful rescue and continuing risks"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 88,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 89,
+      "line_sha256": "fa36faf3d4c38d6d5573b71f2735624625f5d2ff25033304830458f2b560344b",
+      "line_text": "The Eden Treaty crisis is a decisive adverse case. A formal visit first meets Makoto's mistaken assumption of an anti-Prefect alliance; Iroha directly corrects it. Hinata later reports hearing that Nagisa and Makoto agreed on the venue, which remains secondhand. During the attack Makoto celebrates the blast as planned, explicitly claims prior collusion with Arius and sham acceptance of Eden, and states aims against Nagisa, Hina and Trinity. These are unusually strong first-person evidence of intent and participation. They do not inspect the bargain, certify every intelligence claim or show achieved removal. The collusion claim deserves substantive weight without becoming a comprehensive forensic record. [V3C3E004,E006,E007:scene001:u0039–0054]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 90,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 91,
+      "line_sha256": "c7f391016bb41c2b4f022ceef419f866cbe1eca78add307cb2233146eb2dee4f",
+      "line_text": "Iroha's conclusion that Makoto was deceived follows her reminder that Arius may hate Gehenna even more. Ibuki sees fragile and flammable boxes; a second explosion is narrated. This gives danger to the airship party without a device or death count. E016 supplies a medical member's report that Pandemonium delegates including Makoto were rescued from the airship in a lake. E025 then gives Makoto's complaint of deception and request to prepare an unspecified “that,” while Iroha urges rest. The epilogue does not execute retaliation, settle all damage or show a public apology. Survival and continued ambition are finite afterstates, not political acquittal. [V3C3E007:u0055–0059; E016:scene001:u0042; E025:u0001–0007]"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 92,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 93,
+      "line_sha256": "99fac8990233ba42e4d95a8035c04b1f0c606e35532a5fc453cd34ed30dc9ada",
+      "line_text": "S2's broadcast crisis has another unresolved cause. Promotion consent, room access, a reported installation and changed rhetoric appear in the accepted chapter argument; operator, transmission path and selective mechanism remain unsettled. Makoto's existing ambition does not prove susceptibility, inevitability or an authenticated implanted control. Coercive ammunition surrender, actual confinement, a proposed remembered chemical weapon, counterbroadcast and local recovery retain their distinctions. Withdrawal, apology and a property-return promise do not show every ammunition return, repair, discipline task or joint review completed. A private helping scene cannot perform those public remedies on the text's behalf. [M2C1–C2; MK-CMP:Q03–Q06]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 94,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 95,
+      "line_sha256": "8367b67788f9f173fd7aee912a98bf4be776812d3a8266dbe6eecc5800cee97f",
+      "line_text": "Final supplies a real useful intervention. Makoto calls for Toramaru's arrival, Iroha deploys, and encircled ninjas join the action. Her claimed information network, timing and wish to regain Ibuki's favor remain accounts; the arrival and local rescue are positively represented. The area is mostly cleared and no injury is reported, while attackers, exact casualties and the mission's final destination remain unresolved. Ibuki's help request and reassurance do not establish enduring redemption, and heavy label drift limits precise gratitude assignments. Distributed rescue is enough to complicate an exclusively harmful crisis portrait. [V100C2E018]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 96,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 97,
+      "line_sha256": "2208abcf462f51509c4a5153e46574a8fee4fb7cae724e971487cc7a39b93c6c",
+      "line_text": "Event860 tests leadership through an avoidable material crisis. Poor contract selection, ignored warning, failed communications and unrecognized supply labor lead to drifting. Makoto draws pursuit away and rejects compulsory loyalty, then turns the available ship toward looting and risks others to solve the quarrel on her own terms. Actual cannon firing does not prove her willpower explanation; range fails, she slips, Iroha saves her and the ship sinks. Five students are reported rescued with the teacher separately present; pirates' fate remains unresolved. A new boat is later actually supplied to its owner. These benefits and costs support a mixed account of protective capacity and self-centering risk, rather than one stable incompetence or benevolence grade. [E860:002–004,007–011,014]"
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 98,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 99,
+      "line_sha256": "23c8a95cb7bef346fc24114d3a18cb4cfd4afb460fb3c46c9d26fcb9708626de",
+      "line_text": "## 7. Sensei: desired proximity without acquired property"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 100,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 101,
+      "line_sha256": "4506624ad7afd6a9633a1c5eb06dfc50a605ecc1c2cbe9e8430c5a931fd0a7e0",
+      "line_text": "Makoto wants recognition from the adult as well as public status. Private praise and embarrassment, reflection time, requested company, a chauffeured return, an ended photo session and actual later viewing form a positive ordinary relationship. Its invitations and language of a special person are qualified; the whole chats preserve refusals, sequential answers and future pickup or contact. A possible feeling kept secret is a participant account. The evidence cannot make it a secure reciprocal romantic state or a completed promise that the adult will remain beside her. [MK01–MK05]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 102,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 103,
+      "line_sha256": "5838a384b4397f6300eb658e426b7c8479e7e51f759d9c5afa4121959432e186",
+      "line_text": "Her frequent reinterpretation of refusal is the consequential limit. Bypassed proposals, appreciation or explanation failure become her reasons to assume agreement. The adult refuses property, constant company, workload enlistment and conquest at particular source points. Local assistance and broad jointly resolved problems in MK08 do not convert that refusal into accession to Pandemonium or territorial ownership. The written special register explicitly corrects an institutional alliance to a personal Makoto proposal; its cannot-refuse framing and half-Kivotos forecast remain her speech, without adult assent. [MK03–MK06,MK08,MK10]"
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 104,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 105,
+      "line_sha256": "44cea5272fa38b8a61ad5f8694d486358d15fcd1d67ac098682e8c3d446de367",
+      "line_text": "Event833 prints another recipient boundary: the adult declines filming and that refusal is accommodated, while piano pressure on Hina remains a separate matter. Ako objects to assigning Makoto's responsibility to Sensei. Event860 makes the adult an invited guest who inwardly accepts, offers work, mediates and fails to reach the slipping Makoto before Iroha saves her. Hospitality supplied by Odysseia is corrected through a teacher alternative rather than attributed to Makoto's original promise. Adult presence can support wanted company without ensuring safe leadership, successful rescue or consent to all publicity. [E833:003–004,008; E860:001,003,010–012]"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 106,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 107,
+      "line_sha256": "70af2fa97fde4f2eb9c3102b94b35f96a8395cd46ea2f7b96a837a78a92a694a",
+      "line_text": "The directed Sensei package remains separate required work. This character argument establishes where desired company, practical help, praise, refusal and guest status meet office rhetoric. Anonymous logs, inward selections, alternate answers and written trigger lines retain their distinct modes. No all-options conversation, exclusive dependency, acquired partnership or adult power to settle every institutional conflict is inferred. [MK01–MK13; G09–G10]"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 108,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 109,
+      "line_sha256": "d485876950930a303a0614bcccceb0126e1a5c29672df1426929b8eb4d33e779",
+      "line_text": "## 8. Peers and recipients: affection cannot answer in their place"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 110,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 111,
+      "line_sha256": "7e1f16c991c75e7c7381fb335b90881e80503810d16da254c0bc6093802f3ee4",
+      "line_text": "Ibuki places the strongest ordinary constraint on Makoto's selective care. Her guilt over missing pudding, refusal to return, chosen play and widened promise are not merely devices that make Makoto regretful. In Event860 Ibuki knows about drifting despite adult concealment and asks to help as a member; actual protective diversion responds to her risk. Her wish for reconciliation pushes an encounter while Iroha asks her to wait. Child affection and a senior's affection can therefore both be real without every adult task, apology or return occurring on terms the recipient chose. [MINI000/150; E860:005,007,011]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 112,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 113,
+      "line_sha256": "c0bf6ba38fd5080bcc797f4a8da33201d5e138b9493fa81a7f5a854c6d5bd7c1",
+      "line_text": "Iroha performs work Makoto depends on and voices limits that matter independently. She requests usable information for escape at the Red Winter visit, wants release from broadcasting, rejects dismissed labor, saves Makoto and refuses a repeated photograph. Her apology to Chiaki in Event860 is actual; an apology to Makoto is unprinted. Her appraisal that Makoto is occasionally cool is qualified, rather than proof of either absolute hatred or unconditional loyalty. Makoto's refusal to force retention offers a meaningful principle, while her admitted wish to obtain Iroha's apology through solving everything leaves the quarrel unresolved. [MINI00010,120; E860:004,010–013]"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 114,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 115,
+      "line_sha256": "61d1d0c7475054f4d18603b661b1a9be46155877744351ad48df15ad43987094",
+      "line_text": "Prefects are recipients with purposes Makoto cannot simply subsume. Private square compromise and a reported off-duty helping visit show particular accommodation; generic administrators are not securely Hina or Ako, and Korean reconciled-friends wording differs from Japanese friends. Group1902's preselected rejection and Event833's hostile piano assignment impose a contrary public relation. Hina's artistic effort and successful music, Ako's work criticism and their actual help searching for Ibuki retain independent agency. MINI150 Makoto briefly softens after remembering that assistance while maintaining hostility and contestable tolerance of illegality. That local response does not establish whole-committee reconciliation. [MK02,MK04; G1902; E833:008–009; MINI15020–30]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 116,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 117,
+      "line_sha256": "e219d5671a956042999311ab415a6ba8988ace44925d02861161d84f56f76f69",
+      "line_text": "Other recipients broaden the question beyond favored peers. Merchant dissent prompts a verbal accommodation with Prefect exceptions; the fisherman receives an actual new boat; Cherino allows a meeting despite the failed plot; Kayoko states PS68 belonging rather than accepting a presumed council destination. Chiaki and Satsuki provide work, correction, interests and thanks of their own. In dream-qualified Event860 Makoto calls school victories conquest while Niya denies representative authority and Hifumi wants to leave. Those represented recipient limits matter to the literary comparison without becoming actual geopolitical or administrative events. [MK06,MK08; MINI000,15030; E860:014,017–026]"
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 118,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 119,
+      "line_sha256": "6a2fc458f674091e6f0dc13341bcef005d491b060a924a0e6f64c24b1a35a90e",
+      "line_text": "## 9. Written register: leadership, possession and source-local qualification"
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 120,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 121,
+      "line_sha256": "9e6420fc313a25a344ab556787e4910377bf2a32dd243978874c7dc56ba9dcbf",
+      "line_text": "The literal family names 羽沼マコト and CH0079, with10146/20033, remain separate from DevCH0344/CH0079 fields, gacha labels, ClubNone and costume texture metadata. Written age18, year3,March19 and169cm describe the profile, rather than date scenes. The swimsuit10146 profile has72 contextual lines;20033 has54. Event costume1900922201→20033 holds38 edition-specific lines for833/10833;1900957001→10146 holds35 lines for860. Equal wording in original/rerun editions is not one continuous shopping scene or double credit for a performed act. [MK09–MK13]"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 122,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 123,
+      "line_sha256": "39b1c809e370510febf2111e73d42f936296fd19b67337b1ed1dea0fcab45dcd",
+      "line_text": "The written register joins boasts to particular limits. Ibuki's play and pudding, preferred holidays, atmosphere, congratulations and rare private time coexist with Hina comparisons, conquest forecasts and capture language. An invitation to look at the swimsuit is paired with do-not-stare; do-not-touch and seasickness occur in event writing. Birthday likely-airing versus is-airing differs by locale and remains a written assertion, not viewed performance or permission to broadcast private material. Task rewards and leadership norms likewise differ between Japanese right-conduct language and Korean accomplishment/personnel-management language. [MK09–MK12]"
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 124,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 125,
+      "line_sha256": "c105348654b53cad906a38117f97f83bb88ca8dae4740304660bcc44201f3959",
+      "line_text": "Source forms also prevent an invariant voice sample. Person-empty#st logs in private scenes are typed narration, while interleaved adult selections may be inward. Private mob and committee seams, Group1902 display/text disagreements and Main self-address faults are exact local limits. The adult's workload thoughts are not spoken enlistment; two alternative ns records do not enlarge a formal choice count. Whole chats retain corrected singleton counts: MM014 has five Answer groups and015 has three, with earlier six/four shorthand retained historically. Sequential answers are not one alternative domain. [MK02–MK08,MK13; G1902; V3C3E004,E007; M2C1E001]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 126,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 127,
+      "line_sha256": "b0d68b3361d2a29eaf829559c4fff82e8d1e0d13b1bb557120804302c6f5988c",
+      "line_text": "The family producer's attributed extent is20sources:8BOND,8whole Momotalk and4written, with697typed scene units,1274raw scene statements,93formal groups/120options/10stored scenes,92chat rows,126normal and73event written rows. Twelve auxiliary witnesses and nine positive endpoints for eight pairs remain producer controls. This monograph personally receives complete13effective arguments and comparator, rather than claiming a new primary field audit. Event860's video token and retrospectively dream-qualified016–027 remain written mode evidence; neither viewed media nor actual school conquest is added. Performed voice, animation and audio stay unreceived. [MK13; MK-CMP; E860]"
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 128,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 129,
+      "line_sha256": "b5cc7f650bf5ef070d14ea2eae6695b3f5e918af18718c40019bee6ba25f2d7c",
+      "line_text": "## 10. Competing readings: neither every care nor every boast is total"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 130,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 131,
+      "line_sha256": "227679d7f481e396f6fd452f1fc75f12c0e5130e3735fbc64a1a527dc2a05972",
+      "line_text": "A strong reading treats Makoto as a domineering elite sustained by others' labor. Correct paperwork cannot alter her decision; she wishes to prevent independent thought, claims betrayal of the treaty and dismisses survival work. This reading captures significant public harm and cannot be answered merely with a pleasant private photograph. Its universal version fails on actual apology and forgiveness, a particular compromise, the protective diversion, rejection of forced loyalty and tangible boat compensation. The positive facts are substantive revisions, without neutralizing the adverse ones. [MK02,MK07; G1902; V3C3E007; MINI15030; E860:004,007,014]"
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 132,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 133,
+      "line_sha256": "8f2b11ce56a8757db497f4d1bd6b864239c956b4fb171545028f328b39bbafab",
+      "line_text": "A second reading sees hidden benevolence behind every boast. Makoto's secret helping visit, Lionmaru activity and Ibuki care make that possibility tempting. Her own denial and investment framing remain words that require interpretation, rather than a guaranteed confession in disguise. Predetermined fault-finding, sham treaty assent, dismissed work and apology-seeking risk cannot all be redescribed as considerate methods. The fisherman receives a genuine compensatory boat, while a second giant ship and Prefect cuts are still proposed afterward. Care changes the argument most when its exact recipient and completed form remain visible. [MK04,MK07; MK-CMP:Q05; G1902; V3C3E007; E860:011,014]"
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 134,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 135,
+      "line_sha256": "14c01e18f8369c67170922aafdb37f79638010ccd6fa44444bf0a2702c233762",
+      "line_text": "A third reading lets comedy abolish accountability or lets failure prove total incompetence. The actual destroyed statue, repeated pudding violation, material crisis and ship sinking are represented consequences. Equally, competent particular negotiation, local resolution, requested meeting, completed photo viewing, rescue and compensation survive unsuccessful grand plans. Dream victories can disclose ambition, rank play, company and recipient refusal without constituting geopolitical success. The material does not require either all harm inconsequential or every smaller end defeated by public failure. [MK01–MK13; MINI000/120/150; V100C2E018; E860]"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 136,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 137,
+      "line_sha256": "6ea4aeaa853041ded7b5366a8be53ee3699a6b401e20205fcea1a62350c86717",
+      "line_text": "The synthesis concerns the scale and conditions of recognition. Makoto can hear a particular grievance, appreciate an attachment and make a real correction. She often seeks recognition by controlling what an answer will mean, and sometimes seeks an institution in which contrary answers cannot count. Her free-will principle and compensatory act are important alternatives within the same account; they are not a universal enacted constitution. Recipient refusal, actual limited repair and continuing ambitious speech leave an open character question rather than a predictive rule or final moral essence. [MK02–MK08; G1902; E860:004,014]"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 138,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 139,
+      "line_sha256": "4375d368891cf88ee093e4de81590452915ddae6340ca9ed4722ddc2ac0aa839",
+      "line_text": "## 11. Evidence register, fourteen open gaps and completion boundary"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 140,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 141,
+      "line_sha256": "27c64a530795c990b2f23f56f5684e1d3d48a77a728010cb77b66e91f8637a53",
+      "line_text": "This local character candidate occupies existing P3-CHAR-MAKOTO/F029/A038. Thirteen effective accepted private bodies plus the corrected comparator are wholly received, with adequate complete accepted public arguments at exact declared scopes. Source-world chronology, original reading order and independence stay qualified. CurrentV3 scope acceptance does not itself grant literary completion; independent ROOT whole receiving, exact verification and adoption remain outstanding. All14 original gaps retain the following OPEN dispositions."
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 142,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 143,
+      "line_sha256": "90f029f969fd36e62baee92eb35a25a53cab0c211e4291226a257b6528b023b7",
+      "line_text": "| Gap | Status | Claim-specific disposition |"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 144,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 145,
+      "line_sha256": "ff579f047e9cc44e0934bcfec327c9a693370c5820d8371f1623e21264d8c40a",
+      "line_text": "| G01 | OPEN | Clothes, shopping, animals, photographs, coffee consideration, pudding, play, cherries and company are intrinsic. Failed commercial plans and unprinted drinking, checkout, gifts or future outings remain distinct from actual comfort/viewing/forgiveness. No exhaustive ordinary biography. |"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 146,
+      "line_sha256": "01216737894d403f4f190a363eb742a216ae190c77e44eb28e719f640fde2ebf",
+      "line_text": "| G02 | OPEN | No missing Yuuka relation or private context is supplied by office finance, a shared event or a geopolitical boast. This character does not complete her separate directed scope. |"
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 147,
+      "line_sha256": "0816f91fe9da0fcd88136f6798622c9fe8a1d094a36af58d4a0c423dfcb5d375",
+      "line_text": "| G03 | OPEN | Dream-qualified Abydos play and an unpaid debt wish do not complete Serika/Abydos private or actual institutional duties. Victory representations do not pay a debt. |"
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 148,
+      "line_sha256": "5bf0163f98da8f83f6d1b30e6f145c8ba7fba9bb9d7fff92dce7e69cc210a861",
+      "line_text": "| G04 | OPEN | Hina's wanted rest/music, public refusal and training are source-local; hostile piano intelligence and sabotage accusations are Makoto claims. Successful music and particular private help do not settle all Prefect costs or relationships. |"
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 149,
+      "line_sha256": "e0ec2680644c825b33d932de1b270289248f7d37aa4399a5462b779344e10b01",
+      "line_text": "| G05 | OPEN | Eden collusion self-claim is strong intent/participation evidence, with actual attack harm and later rescue report; it does not inspect all Arius communications, certify a bargain or erase victim futures. PS68 preferred company/forgiveness does not merge the cohorts. |"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 150,
+      "line_sha256": "de102a3b9265cb28e872ce37a69ac4a73d3dabd5c435f169638e2d21d590ed13",
+      "line_text": "| G06 | OPEN | Merchants, fisherman, visitors, broadcasters, Prefects and Ibuki have independent local ends. Shared geography, statue exchange, aid and dream school contact do not prove allegiance, collective consent or whole relationship completion. |"
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 151,
+      "line_sha256": "e63a40886b0e41f2d557088c9d3ef52be40ba8c4f3dacf5db3eedc10adcb929f",
+      "line_text": "| G07 | OPEN | Eight complete private pair joins have local endpoints, including nine positive witnesses; Main/Group/event/rerun order does not furnish a common dated maturity ladder. Event860's local drift/rewind/afterstory/dream relations stay explicit. |"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 152,
+      "line_sha256": "91801c17431ee0de6f62134972d8df59a0b1ba17c2a11edbd0fe4775126433a2",
+      "line_text": "| G08 | OPEN | CH0079/10146/20033 and costume1900922201→20033/1900957001→10146 are literal. Dev fields, texture school, ClubNone/gacha label and anonymous/raw actor seams are not global identity repairs. |"
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 153,
+      "line_sha256": "acc6e7fae32070dc97f8b2494ba3b93cd9d9ec311bb9b2b20bfc3cb67cb28846",
+      "line_text": "| G09 | OPEN | Alternate answers, sequential singleton groups, inward selections, person-empty logs, reported help and broad narration remain separate. Private possession and publicity interpretations are not the adult's assent; Event860016–027 are retrospectively dream-qualified. |"
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 154,
+      "line_sha256": "680a9ff3bf58957f37c02892a387f7c0d3d0f196e217c530cd41c81251346cc3",
+      "line_text": "| G10 | OPEN |126normal/73event written rows and video/voice metadata are attributed text extents; no audio, acting, timing, animation, image pixels or performed music/broadcast were received. Written enthusiasm does not certify delivery. |"
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 155,
+      "line_sha256": "3b3f83dc3928e9b064e6a008e2d749e105810e07a04eb1618aa2717deb6ee95a",
+      "line_text": "| G11 | OPEN | Dream Hoshino awakening and public shared contexts do not close Yume/Abydos history. No office record, ancestor or historical continuity is invented. |"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 156,
+      "line_sha256": "ec6aeeee16dd6818f23c76c6a5aba17a6f47a59674c3b6e0de76b9b5c9329dd8",
+      "line_text": "| G12 | OPEN | Chosen membership/free-will speech, old-Gehenna contrast, ship crest/history and NK Ultra leads do not authenticate a body/person/control/office chain or complete emancipation. The questioned dream actor remains unjoined. |"
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 157,
+      "line_sha256": "957559d03f305f5dab9fd2e810dce325560fc3714c85b015f5c1a46fb6313f3b",
+      "line_text": "| G13 | OPEN | Allergy severity,300-percent/3.8-percent political numbers, budgets,400-inch letter, fraud, weapons, cannon willpower and ghost history remain attributed or unaudited. Actual boat compensation is positive; it does not certify every payment, repayment, safe cruise, missing-pirate fate or institutional repair. |"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 158,
+      "line_sha256": "1ef7e86ddd252f8d3bc8f72068dd0cdde6ba172ba3e9b24cd1e91e5179564d62",
+      "line_text": "| G14 | OPEN | Exact20private sources and declared accepted Main/Final/Group/MINI/event arguments do not silently add unknown classes. Current admission qualifies old pending wrappers; integrity bindings do not grant fresh primary/native/raw/QA/AV or global source admission. |"
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 160,
+      "line_sha256": "c6d57186b548113336d6fdf1fadc7edfe1cc47db741ef4c7ebadabff89c0154a",
+      "line_text": "Source key: MK01–MK08 are complete paired arguments for BA:bond:10146:002/003/005/006 and20033:002/003/005/006 with whole threads101460010/080/170/240 and200330010/090/200/310. MK09–MK12 are complete written arguments for profiles10146/20033 and the two exact event costumes; MK13 is the complete twenty-source checkpoint with zero additional sources. MK-CMP is the complete corrected effectiveV3 comparison. G1902 and MINI000/120/150 use unchanged personally complete accepted Group1901–1902 and MINI32 arguments, with full relevant section refreshes. V3C3E004/006/007/016/025 and V100C2E018 are complete specific accepted episode arguments. M2C1E001 and adequate current chapter/arc meanings preserve reported demands, changed rhetoric and unfinished remedies. E833/E835 whole accepted accounts and the complete E86027 account supply public care, work, refusals, actual compensation and mode-bounded endings."
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 162,
+      "line_sha256": "37c0bc4471fe7ae635c49a1e4564779718f271009cf513ed916e14bac56d2591",
+      "line_text": "The exact analytical base remains main2e, with separately retained historicalc1 source witness; current sourcebranchdbabb and any mutable ROOT metadata are bound separately. Japanesecommit a038020f1f5ac02dcfe76962426d38f86414cdd8 and generation BA_REFRESH_20260928T032248159554Z bound accepted source lineage. Current Cycle008 admission and ROOT-qualified arguments govern historical UNADMITTED/pending prose. No fresh primary recovery is necessary for the bounded claims asserted here. Stronger claims about political legitimacy, clinical state, operator/control mechanism, exact chronology, fraud, payment, every damage remedy, missing passengers or performed delivery would require their own evidence."
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph_candidate"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        6,
+        6
+      ],
+      "canonical_lines": [
+        5,
+        4
+      ],
+      "frozen_text": [
+        "status: LOCAL_CANDIDATE_ROOT_RECEIVING_ADOPTION_PENDING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        13,
+        13
+      ],
+      "canonical_lines": [
+        11,
+        11
+      ],
+      "frozen_text": [
+        "current_control_reference: \"ROOT V3 required-home partition; source branch dbabbf95a39458b05f337c1d0151a79f4d4ab6f1; actual mutable ROOT metadata captured separately\""
+      ],
+      "canonical_text": [
+        "historical_author_current_control_reference: \"ROOT V3 required-home partition; source branch dbabbf95a39458b05f337c1d0151a79f4d4ab6f1; actual mutable ROOT metadata captured separately\""
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        20,
+        19
+      ],
+      "canonical_lines": [
+        18,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MAKOTO_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_CHARACTER_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "canonical_publication_base: 92184703994a1950a5660654ce52d8516dbe9bf5",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        23,
+        22
+      ],
+      "canonical_lines": [
+        34,
+        35
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted this complete eleven-section character argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MAKOTO_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MAKOTO_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior47-package source publication base is `92184703994a1950a5660654ce52d8516dbe9bf5`; frozen author/control/progress snapshots below retain their dated meaning. Execution requires ROOT’s successful actual exact-head audit chain."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        151,
+        151
+      ],
+      "canonical_lines": [
+        164,
+        164
+      ],
+      "frozen_text": [
+        "Required Makoto–Ibuki/Iroha/Sensei and authority/recipient relationships, Pandemonium ensemble, school/office institution, labor/permission/repair and written-register packages remain distinct Phase3 duties. Their necessity is separate from completing this character candidate. Independent ROOT adoption remains pending; this C-only draft creates no denominator entry, milestone, model rule, source admission or publication authority. All prior frozen character deliveries and the separate Kasumi supplement remain unchanged."
+      ],
+      "canonical_text": [
+        "Required Makoto–Ibuki/Iroha/Sensei and authority/recipient relationships, Pandemonium ensemble, school/office institution, labor/permission/repair and written-register packages remain distinct Phase3 duties. Their necessity is separate from completing this character candidate. ROOT independently received and accepted this complete character argument with limits; canonical persistence follows complete ROOT installation. The immutable original C-only draft created no denominator entry, milestone, model rule, source admission or publication authority. All prior frozen character deliveries and the separate Kasumi supplement remain unchanged."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false
+}

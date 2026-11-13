@@ -1,0 +1,393 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_BOUNDED_SAME_ROOT_RECEIVING_V1",
+  "source_id": "MAIN-03",
+  "accepted_utc": "2026-10-19T07:51:28.048149+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "actual_source_scope": {
+    "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+    "source_id": "MAIN-03",
+    "accepted_utc": "2026-10-19T07:51:28.048149+00:00",
+    "native_filename": "Konosuba - Main Series - Volume 03.epub",
+    "native_bytes": 3497582,
+    "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+    "OPF_member": "item/standard.opf",
+    "OPF_sha256": "f3f84c60759b409ee848db0d328fcf3c5ba3e8914e1c4206c87379a0fbe5645a",
+    "language": [
+      "ja"
+    ],
+    "colophon_and_bibliographic_difference": "Electronic colophon and print-basis firstedition both2014-03-01;copyright2014Akatsuki/Mishima/KADOKAWA;staff/designcredits retained. Other market dates not silently equated.",
+    "admission_sha256": "7ab195535b037a831d10377feba6144996291dc9cc5da56135328e1dffb1dff1",
+    "preceding_full_gate_source": "2c5b72d31da9c8d015768aa9babe9c2bbec2c7d6",
+    "preceding_fresh_reload_sha256": "a23b8e0a1f6fd7b2cf4b7bdff167a41873ae12543ece890ecbe850099006b17c",
+    "excluded_uncoded_seal_sha256": "3e79b2505f94a2b508b30d6cd46afc1537d05eba64bdfde598f1812314748432",
+    "excluded_uncoded_seal_utc": "2026-10-19T07:30:14.611197+00:00",
+    "actual_new_reading": {
+      "text_resources": 24,
+      "P_slots": 180,
+      "native_images": 30,
+      "ruby_and_nonparagraph_residual_received": true,
+      "bonus_P": 62,
+      "nonbonus_text_slots_P": 118,
+      "author_afterword_P": 53,
+      "other_wrapper_credit_slots_P": 65
+    },
+    "retained_principal_authority": {
+      "members": 8,
+      "P_slots": 3001,
+      "new_principal_reading_credit": 0,
+      "exact_native_and_prior_acceptance_control_joins": true
+    },
+    "fresh_native_CRC": "PASS",
+    "all_native_text_image_hashes_reverified": true,
+    "original_uncoded_pins": [
+      {
+        "file": "NATIVE_ADMISSION.json",
+        "bytes": 43839,
+        "sha256": "7ab195535b037a831d10377feba6144996291dc9cc5da56135328e1dffb1dff1"
+      },
+      {
+        "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+        "bytes": 179954,
+        "sha256": "910a6ec89a58116ef32dc520be237a38c9a5c8268312f82620a80963d6105a77"
+      },
+      {
+        "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+        "bytes": 25485,
+        "sha256": "78d78b4f32d9a57a0b929a2d6938138c4a6fa1b2a974e2cef5766f2bcf7ceebc"
+      },
+      {
+        "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+        "bytes": 19178,
+        "sha256": "17f63eca33ab640a2514a20c1ab3b8fbee028d84489868cb115b2d322e26dd6f"
+      }
+    ],
+    "public_preparation_view_is_redacted": true,
+    "formal_counts": [
+      12,
+      30,
+      31,
+      11,
+      28
+    ],
+    "party_comparisons": 8,
+    "typed_constraints_not_behavioral_scores": 4,
+    "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim. Separately completed main excluded-component programs: MAIN-01,MAIN-02. These include their actual new bonuses/paratext/images, with original principal authority retained and zero new principal-pass credit. No pristine blindness is claimed.",
+    "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+    "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+  },
+  "semantic_name_reference_review": "Same continuing informed root checked all17report sections against complete new text/image reception and narrow accepted-principal joins. No actual Aqua contact/cause, full recovery, performed stranger assault, tournament loss or fully proved overnight falsehood is invented. Hit scope and conditional mercy retain their limits. The two-page image-only anticipated consequence is classified from adjoining prose continuity; actual old threats remain. Chomusuke fire access and Aqua empty refutation are precisely joined. All21native fragments/nineraster fragments and addedIMG020boundary verified. Same-author bounded receiving, no independent review.",
+  "narrow_retained_principal_native_backjoins": {
+    "schema": "KONOSUBA_SECONDARY_ACCEPTED_PRINCIPAL_IMAGE_BACKJOIN_V1",
+    "created_utc": "2026-10-19T07:33:10.051735+00:00",
+    "source_id": "MAIN-03",
+    "native_sha256": "c269c3478fbd247428128a7407015a4d84c5e3c64b709056a1e0c393c60d5bcc",
+    "pins": [
+      {
+        "component_id": "MAIN-03-U014",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "member_sha256": "1728703dabecef366b4c006c34bc25ad5873aaef574bf8c6676466e0e42cb5bd",
+        "actual_received_P_ranges": [
+          [
+            447,
+            460
+          ]
+        ],
+        "accepted_principal_retained": true,
+        "new_principal_reading_credit": 0
+      },
+      {
+        "component_id": "MAIN-03-U016",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "member_sha256": "9588683a5cc5aca25e550231ade83445a1e538f46ec2d3cce7c2a0b514cdbc9d",
+        "actual_received_P_ranges": [
+          [
+            1,
+            10
+          ]
+        ],
+        "accepted_principal_retained": true,
+        "new_principal_reading_credit": 0
+      },
+      {
+        "component_id": "MAIN-03-U017",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "member_sha256": "e95a01a476aba149445390b976c0387177a0528c4b0e167bfa466efa7fd1592d",
+        "actual_received_P_ranges": [
+          [
+            37,
+            65
+          ]
+        ],
+        "accepted_principal_retained": true,
+        "new_principal_reading_credit": 0
+      },
+      {
+        "component_id": "MAIN-03-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "member_sha256": "c890274d91685f7af1bcf9e5d4291540c2fcd196b30906cfe441daace947f64e",
+        "actual_received_P_ranges": [
+          [
+            650,
+            680
+          ]
+        ],
+        "accepted_principal_retained": true,
+        "new_principal_reading_credit": 0
+      },
+      {
+        "component_id": "MAIN-03-U021",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "member_sha256": "c91836e0f07c7e2106ae6e006739525e1efcb8e090bf71963105e65519840334",
+        "actual_received_P_ranges": [
+          [
+            1,
+            20
+          ]
+        ],
+        "accepted_principal_retained": true,
+        "new_principal_reading_credit": 0
+      }
+    ],
+    "new_independent_behavioral_trials": 0,
+    "new_principal_reading_credit": 0,
+    "observations": [
+      {
+        "image": "MAIN-03-IMG013",
+        "route": "U014P447-460/U016P1-10",
+        "finding": "論破calloutandAquaconfidenceareatcourtinterruption. ActualprosesayssheonlywantedtosaythelineandhasnoexculpatorybasisP7;no actualrefutationsuccessfromcaption. Senaoffersattributedobservationsandlie-detectorpremise;Kobjectsotherpartyconductdoesnotestablishhisownagency.",
+        "limit": "No newcourtverdict/prosecutorvendettaorall-partysharedculpabilityfromart."
+      },
+      {
+        "image": "MAIN-03-IMG014",
+        "route": "U017P37-65",
+        "finding": "Mnamesちょむすけ;Kdirectfocalizationnarratesflame/fishroastingP50andthenexplainsP62. Aqua/Mdenialsfollowwithoutashownsharedflameobservation.",
+        "limit": "No universalcats-breathefire, consensualdeception, AqsecretknowledgeorfutureWolbachmemory/identitymechanismproved."
+      },
+      {
+        "images": [
+          "MAIN-03-IMG019",
+          "MAIN-03-IMG020"
+        ],
+        "route": "U018P650-680 then U021P1-20",
+        "finding": "Image-only凄い事tableauexpandsanticipatedconsequenceafterKthreatsandDrepetitionP680. ContinuousproseU021P1stillhasKholdingDhandsontraininggroundasDcollapses;no chainedroom/master-addresssceneisenactedhere.",
+        "inference_precision": "Embeddedimaginedcoerciveconsequencefromplacement/continuity;attributingimaginationtoDissupportedbyimmediatelyprecedinganticipationbutnotanexplicitrasterPOVlabel.",
+        "limit": "ActualDrainTouch/threats/negotiatedwagerinretainedproseremainreal;fantasypleasureandwagerdonotgrantblanketpermissionfornewacts. BalterP3interpretsbetofferedwhenKwaswinning;KprivateP658-659showshimfeelinglosingbeforemakingit,soobserveraccountnotomniscient."
+      }
+    ],
+    "current_scope": "Narrowold-principalbackjoinswereactuallyreadbeforeMAIN03excludeduncodedseal. All24newresources180P/30imagesseparatelyreceivedandsealed;theseoldjoinshavezero newprincipalpasscredit. No formalH/L/voice/modeloutcomesassignedbythisreceipt."
+  },
+  "current_qualifications": [
+    {
+      "id": "M03EX-Q01",
+      "current_precision": "Eight accepted principal members3001P retain original exact joins/history; zero new principal-pass credit.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q02",
+      "current_precision": "All24newresources180P/30images actually received: one62Pbonus,53Pcreatorafterword and65otherwrapper/credit/navigation slots. Image-onlynarratives have separate roles; no global narrative denominator from resource counts.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q03",
+      "current_precision": "Bonus guild/forest chronology has knownD/Krelationship and Aqua as a possible communicator; no exact chapter placement or later relationship permissions imported.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q04",
+      "current_precision": "An initial request for a hit does not authorize every location/intensity/new act. D's public-place objection is real; an independently pre-known public-location ban is not invented for a full D05/E06 test.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q05",
+      "current_precision": "K's regular-shop/ticket plan, embarrassed reply and topic shift are actual. The full cause of every overnight stay is not independently shown, so no proved specific falsehood from insinuation alone.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q06",
+      "current_precision": "D's morning siren meeting/sleep are her report; the later forest encounter is directly narrated. The feared stranger assault is an unperformed fantasy.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q07",
+      "current_precision": "D's generally friendly spirit account and possibly-lost explanation are attributed, qualified beliefs, not a universal species safety law.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q08",
+      "current_precision": "The nearby ruler/communication/Aqua-cause ideas are actor hypotheses. Aqua is never present or actually called; no confirmed causal blame or successful communication.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q09",
+      "current_precision": "Watch/fetch is proposed and interrupted. No completed accepted handoff, successful guard, actual summons or return-to-sea outcome.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q10",
+      "current_precision": "Individual waking succeeds and hurts; reciprocal hitting does not remove the active hazard. Actual directed attempts differ from full recovery, safe method or silent reset.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q11",
+      "current_precision": "K's sleep-means-death alarm is contradicted by D's next statement. Forest vulnerability is real without inventing a performed lethal event.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q12",
+      "current_precision": "Siren earplugs are observed late and removed by D. Do not backdate their availability/recognition to earlier choices or infer a cheap-option failure without actual earlier knowledge.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q13",
+      "current_precision": "The siren notices the pair only after removal, then gasps. Full-song causation of sleep is K's らしい inference; no confessed malice, intentional self-defeat or independently established song mechanism beyond this scene.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q14",
+      "current_precision": "Evening arrival is observed, exact sleep duration unshown. K misses the opportunity; no tournament participation, actual RPS loss or independently proved lifelong never-lost record.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q15",
+      "current_precision": "Aqua/M are absent from enacted new bonus participation. Proposed help, profiles, preview and retained mainline illustrations cannot supply new behavioral eligibility.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q16",
+      "current_precision": "Raster ages/jobs are local: M/Yun13,D18,K16,Wiz20,Sena20,Dust17,Balter21,Ignis45; Chris15歳? retains uncertainty, Aqua/Erisunknown and Chomusuke??? stay unresolved.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q17",
+      "current_precision": "Profile names resolve Senaセナ, アレクセイ・バーネス・バルター and ダスティネス・フォード・イグニス. Balter is distinct from Alderp; profiles do not establish all inner lives or role histories.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q18",
+      "current_precision": "The image-only 論破 callout is checked against retainedU014ending/U016opening: Aqua admits no exculpatory proof and merely wanting the line. No successful refutation or verdict from the label.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q19",
+      "current_precision": "Chomusuke fire/fish is narrated as K's actual observation at retainedC2P50. Aqua/M denials occur without a shown shared observation, not proof of their secret knowledge/deception; no universal cats or complete Wolbach ontology.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q20",
+      "current_precision": "U019/U020 and IMG019/020 form one two-page image-only imagined coercive-consequence group. Placement between C3anticipation and continuous training-ground collapse supplies the plane; Darkness focalizer is inferred, not explicitly captioned.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q21",
+      "current_precision": "Actual retained-prose DrainTouch, pressure and wager stay real while the imagined chained/master-address scene is not enacted. Fantasy desire, a wager or later response cannot consent to every new act.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q22",
+      "current_precision": "Vanir mask control and D-owned action remain distinct. Visible II on a later mask is retained, without a new infinite-life or complete resurrection mechanism claim.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q23",
+      "current_precision": "Yunyun's raster stop/don'tapproach line is a real represented refusal in a retained scene, not secret consent or a fresh independent model trial.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q24",
+      "current_precision": "NEXT hot-spring trip and alleged old wound are promotional speech, not performed travel, medical finding, new MAIN04excluded exposure or a completed new intimate act.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q25",
+      "current_precision": "Creator translation worries do not independently prove translation failure/L3 predominance. Prospective prosecutor career/ending remarks stay prospects, and fake testimonials are explicitly not received reports.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q26",
+      "current_precision": "Colophon electronic and print-basis statements both2014-03-01; package dates or other releases are not silently equated.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q27",
+      "current_precision": "All source-first notes and initial uncertainties remain exact. Native principal backjoins are narrowly recorded with zero new reading credit and no new independent trials.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    },
+    {
+      "id": "M03EX-Q28",
+      "current_precision": "Original R1 contracts/fouracceptedscorefiles, historical secondary/I01/I02/CE01/SEC01 scopes/outcomes and fourteen Dust future/adjudication blanks remain unchanged. All present formal selections are post-seal, informed qualitative comparisons, not a census or accuracy statistic.",
+      "authored_after_seal_utc": "2026-10-19T07:45:42.735968+00:00"
+    }
+  ],
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 284787,
+      "sha256": "51415976ee429a5a52301ab0b47e8fcca1f1d0c05375e6004e89f281eae63f29"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 205725,
+      "sha256": "cba3dcfd169c5b0efcf2037429c9a493b05aefb9a1d6e336e3d1c727f8c4b627"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 774683,
+      "sha256": "5c76f123c25432c182438ccfc024b9ecc2d7c2ff3d123b2311ddd5ecc0fd5118"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 585455,
+      "sha256": "f483923e76de3224d5784ee7e9f370d82566d9096d07a0474c8ae6a54bc5fffa"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 183661,
+      "sha256": "faeab6e6ab8dbc39df7ba392f681b3a3672cf3734971fa368614d37b66c1b06b"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 177113,
+      "sha256": "f21abdf4020a6b0c5f3098dfa933aaee4080d57929266477a4592db152730172"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 199287,
+      "sha256": "6aabd90f13cad056942d7e075ff62bd42b1631a6c038e2d40970bdb640e82eba"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 165022,
+      "sha256": "6e9e4ee37495a74ad77da256b4b3db3910df6ddfccf7e85bd0d86c376ca9c660"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 254870,
+      "sha256": "86bf42c05ceea53545340a3fb4f4cbf23c7dacf77c2d4beb5ee249b68eb6a7cd"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 113127,
+      "sha256": "206e87ffdcc94af1f5484ac2b4b7cfbcb613a4238f5d49ccee21fbd76be29be6"
+    }
+  ],
+  "frozen_proof": {
+    "current66_verified": 66,
+    "historical72_at_3b92_verified": 72,
+    "four_score_sha256": {
+      "YORI01": "7a3cd1e0c046cd34e6f3a628e580f204d6aac6a5d16feb419761a925c930d026",
+      "MASK": "adf99e88f67285d3bdd5f17a7248818dae46d98f405909d1ec2bc0aec01aa967",
+      "DUST06": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e",
+      "DUST07": "8b44adedfd61592c639f325cca25482d46ba289670d263cb5e2ed836d90e9dab"
+    },
+    "original14blank_file_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "R1_or_old_secondary_forecasts_changed": false
+  },
+  "supplemental19_and_mixed5_gate_states_unchanged": true,
+  "main_excluded_component_programs": {
+    "this_source_analytically_accepted_containing_publication_pending": "MAIN-03",
+    "next_separate_source": "MAIN-04",
+    "accepted_principal_bodies_retained": true
+  },
+  "global_narrative_component_completion_percentage": null,
+  "next_boundary": "Exact sourcepublication/all-treeandchanged-streamreadback/sourceaudit/housekeeping/finalactualsourceaudit-status/freshauthorityreload beforeMAIN04excluded admission. Ordinary then-currentmain merge and affected author checks before nextpush. Fullremaining sources/syntheses/versionedmodels/secondarycensus/earnedartifacts/curation/release continue."
+}

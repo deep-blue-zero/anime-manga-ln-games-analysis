@@ -1,0 +1,53 @@
+{
+  "schema": "konosuba.actual-first-internal-outputs.v1",
+  "recorded_utc": "2026-10-20T16:00:14.258477+00:00",
+  "subject": "Wolbach",
+  "generation_method": "Actual first saved bodies authored by the same informed root after exact-input freeze in this execution. No independent model/author,external API generation,blind replay or native-human adequacy check. The case designer anticipated likely directions and considered response ideas; this is an informed internal portrayal exercise.",
+  "input_file": "WOLBACH_SCENARIO_INPUTS_01.json",
+  "input_sha256": "d3cca9bbdd68d005bf72b3f6caebe62bbbcdb2b6de0dc161a5908669e09050ad",
+  "input_freeze_sha256": "c65595ef4b5ba315c67702178e129de3468ac1ce978878e01b575e5fceb5909b",
+  "model_pre_case_freeze_sha256": "1729e5dee90829b7fdaf48705bad4a2bcf071b228f16524fd6d2150b1f93bb65",
+  "body_count": 4,
+  "regenerations": 0,
+  "repairs": 0,
+  "outputs": [
+    {
+      "case_id": "WOLBACH-H01A",
+      "exact_prompt_sha256": "db957a20a3fc504b9833e3a69d83e71bd6c724c9ce01808ce8ebecd9d3ce626a",
+      "actual_first_body": "“Ah, I would like to help, but this arm isn’t going to lift anything tonight. Let’s ask that porter to take the other end. I can show you where to put it—and still catch my bus afterward.”\n\nShe raises her unbraced hand to call the porter over.",
+      "body_utf8_bytes": 253,
+      "body_sha256": "796945ba4702680fb7064b271519fd6816f95026a46a790f1a245aae60e91e8a",
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "WOLBACH-H01B",
+      "exact_prompt_sha256": "b154c89d4d96773a9493611db32fd22eced64857b10bf49e0bf4dda404ae01e9",
+      "actual_first_body": "“Of course. Just into the alcove, then. Take the other end when you’re ready; I have a very important appointment with a hot bath, and I don’t intend to miss it.”\n\nShe bends down and takes hold of one handle, waiting for Kazuma to lift with her.",
+      "body_utf8_bytes": 253,
+      "body_sha256": "35597442e18cfa103a110a0cf403a186bc44b952e372c66cb185de7fc5a3aa6f",
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "WOLBACH-H02A",
+      "exact_prompt_sha256": "fd02c1a7cdd3e9a064946ca359e70e6cd9df52f8bef233875c1674c8b869a13b",
+      "actual_first_body": "“Yes, gladly. It’s nice to see these chairs being put to a use that will keep the place open. You take that side, and I’ll start here. Half an hour of company won’t hurt either.”\n\nShe takes the first folded chair from the stack and opens it.",
+      "body_utf8_bytes": 251,
+      "body_sha256": "955a860ab9ebef62f2234c24168d28807bfbcae477035f93ec26dc84788539c9",
+      "regenerations": 0,
+      "repairs": 0
+    },
+    {
+      "case_id": "WOLBACH-H02B",
+      "exact_prompt_sha256": "69d0ed6d30d8eee2cb6aa2f26c39c2a82dd066e5290a47e6a5172278ec91638a",
+      "actual_first_body": "“No. I like you, but I’m not going to help you make the case for closing this place. The blankets weren’t a promise to agree with you forever. We can still talk afterward—about something else, preferably.”\n\nShe keeps her hands folded instead of reaching for the chairs.",
+      "body_utf8_bytes": 279,
+      "body_sha256": "bbe6fb863c069f6512e832e104246d38651ce8400163d1f8829f71b1d2898900",
+      "regenerations": 0,
+      "repairs": 0
+    }
+  ],
+  "independent_validation": false,
+  "accuracy_or_confidence_gain": false
+}

@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Branch Divergence Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.0"
+version: "2.1"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-15 - Phase 3 Shiun Sumika textual core pass"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 status: "active; cumulative through Phase 3 Shiun Sumika textual core pass"
 ---
 
@@ -63,12 +63,14 @@ The ledger must not infer one universal meaning from filename shape.
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | BR-SAKI-P1-RESULT | P1-SAKI | Saki mid/final result files and endings | failure; four graded successes; normal endpoints; true-labeled endpoint | standards of excellence, affective discharge, demand for analysis, resistance to “completion” praise | CONDITIONAL / INVARIANT-ONLY | high | ordinary failure cycle is comparable; no one biography contains every result |
 | BR-SAKI-P1-SCENEPOOL | P1-SAKI | `opening-*`, `after-step-*` | alternate/conditional developmental scenes | body-history, plateau anxiety, Producer reliance, care practice | INVARIANT-ONLY | high | do not narrate every pool member sequentially |
-| BR-SAKI-SUMMER-CHAMPION | D-SAKI vs U1 | `adv_dear_hski_021–023` vs `adv_unit_01-04_20..25` | Ume wins summer Prima Stella; Saki wins summer Prima Stella | summer H.I.F. as title/succession pressure | NO for result merge | high | personal outcomes are mutually exclusive even though institutional old-rules summer H.I.F. may be compared |
+| BR-SAKI-SUMMER-CHAMPION | D-SAKI vs U1 vs D-UME | `adv_dear_hski_021–023`; `adv_unit_01-04_20..25`; `adv_dear_hume_022.txt` A1 204–216 | Ume wins summer Prima Stella in D-SAKI; Saki wins in U1; Sena wins in D-UME | summer H.I.F. as title/succession pressure | NO for result merge | high | HSCA-002: D-UME Ume calls herself the loser (297); Saki calls it a draw (303–309) and says she caught up (350). Neither line adjudicates Saki's placement. |
 | BR-SAKI-P3-WORLD | P3-SAKI vs P3-C | Saki world explanation and common Series 3 | Ume incumbent/Sena former; Sena incumbent | winter H.I.F. reform, Selection, prescribed/free rounds | NO for champion merge; YES for shared rules | high | Saki's route must not inherit Sena-current fact from common track |
 | BR-SAKI-P3-RESULT | P3-SAKI | Saki selection/final fragments, result wrappers, Dear Idol 036–037 | selection failure/success; final non-victory/normal; true-labeled Prima Stella; D-SAKI narrative victory | response to title pressure and Producer–idol accumulated production | CONDITIONAL | high | Dear Idol supplies the richest personal victory narrative; system files remain branch wrappers |
 | BR-SAKI-COMMUNICATION | C-SAKI | communication episodes 000–019 | internally ordered multipart episodes; globally floating song/relationship states | linguistic voice, song self-interpretation, leisure, care, partnership | CONDITIONAL / C2-C4 | moderate-high | do not impose numeric episode order as exact chronology without internal anchors |
 | BR-SAKI-PEVENT | PE-SAKI | 83 Produce Events | run-conditioned school/activity/job/advice scenes | repeated habits, competence, care, revision behavior | INVARIANT-ONLY | high on C3 status | later event/support pass decides which ordinary patterns survive broader evidence |
 | BR-SAKI-SONG-SELF | D/C-SAKI | `Fighting My Way`, `Campus mode!!`, `がむしゃらに行こう！`, `Wildest Flower`, `GO MY WAY!!`, H.I.F. songs | distinct self-models and narrative placements | controlled disclosure, appropriation, propulsion from deficiency | INVARIANT-ONLY until AV | moderate | textual dramaturgy is established; sonic continuity remains pending |
+| BR-SAKI-U1-PREMONITION | C3 @ U1 | `adv_unit_01-04_04.txt` A1 225–227, 462, 575, 676–681 | Three-way `藤田さん` / `月村さん` / `咲季さん` choice; Saki's premonition occurs in the third branch | U1 nightmare and insomnia remain shared U1 scenes | NO for branch merge | high | HSCA-046; `SAKI-L058`, `LOC-HSCA-046A` |
+| BR-SAKI-UME-FEAR *(2026-11-07)* | D-SAKI vs U1 | `adv_dear_hski_009`, `adv_dear_hski_022` vs `adv_unit_01-04_13`, `adv_unit_01-04_18`, `adv_unit_01-04_21` | waking forecast before a contest Saki goes on to win (D-SAKI); post-defeat nightmare months before the summer H.I.F. (U1) | Saki’s fear that Ume will stop finding her worth competing against and leave her behind, not only fear of losing rank; in both tracks the actual Ume contradicts the imagined abandonment and asks for Saki’s continued presence | INVARIANT-ONLY; NO for event merge | high | recorded under method §4.3 from `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1 and `GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md` §3.5.1; dream-Ume (`04_13`) is Saki-imagined and never Ume evidence; the nightmare, the sleeplessness and the `悔しくなかったら` confession are U1 events only |
 
 ## Phase 3 — Kotone branch notes
 
@@ -188,3 +190,14 @@ P3 failure fragments are analytically valuable because they prove that separatio
 - Dear's summer/winter H.I.F. state must not be projected automatically into P1/P2 chronology where the source does not establish equivalence.
 - `クライアイ` can inform thematic/voice analysis across the character model but remains modular unless a stronger placement is established.
 
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| branch ID | track | source family | divergent states | invariant character evidence allowed | merge rule | confidence | note |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BR-R86-HIF-RESULT | D-KOTONE / D-SENA / D-TSUBAME and corresponding P3 | GKM-R86-01–03 | Dear 036 winners respectively Kotone, Sena, Tsubame. P3 final-failure names Sena, Kotone, Sena respectively | continued professional purpose and rivalry can be compared | preserve each winner in its track | high | Selection-failure and normal fragments give no later winner |
+| BR-R86-KOTONE-037 | D-KOTONE | `adv_dear_fktn_037.txt` L380–504 | `あります` and `ありません` produce distinct exchanges | Kotone's restriction on a verbal reply and continued collaboration | only common scenes may be claimed as branch-invariant | high | D031 first praise branch is empty |
+| BR-R86-MAO-HIRO | M-MAO 018 / M-HIRO 022 | GKM-R86-08 | Mao has one offered prompt before Producer pledge. The player, via the Producer, chooses whether Hiro recaps | common later work in each commu | keep gated words and recap framing visible | high | Hiro choice changes recollection presentation |
+| BR-R86-SCHOOL | P3 common lesson | GKM-R86-09 | each school lesson has three selection-dependent teacher answers | Asari treats different explanations as valid | preserve target-specific remarks and versioned ruby | high | Sena and Ume answers are different prompts |
+| BR-R86-CAMPAIGN | E027→E030 and M campaign witnesses | GKM-R86-05, 06, 08 | E027 sports-drink with Sena, Misuzu and Temari. M first-round apparel variants name local leads. E030 has Lilja lead perfume with the Hanamis, while M briefs distinguish local selection | students help create briefs and performances | compare structure with separate casting and facts | high | no presumed reconciliation of sponsor, slot or casting |

@@ -1,0 +1,85 @@
+{
+  "schema": "KONOSUBA_OWNER_RESUME_AND_LOCAL_HANDOFF_RECOVERY_V1",
+  "recorded_utc": "2026-10-18T01:00:29.876928+00:00",
+  "disposition": "EXACT_PAUSED_STATE_RECOVERED_OWNER_RESUMED_CONTAINING_PUBLICATION_PENDING",
+  "authorization": {
+    "current_owner_instruction": "The cloud handoff archive is attached. Verify it, recover the paused state, and resume the full KonoSuba program using the local EPUBs.",
+    "scope": "Entire remaining governed fixed41 program, including receiving, complete Stage C, attributable Stage D/qualified secondary work, full synthesis/indexes and substantive completion audit; ordinary transitions require no further confirmation.",
+    "transport_documents_are_authorization": false,
+    "historical_cloud_pause_preserved": true,
+    "local_owner_hold_pending_archive_preserved": true
+  },
+  "transport": {
+    "archive_name": "konosuba-handoff-20261018.zip",
+    "archive_bytes": 8376750,
+    "archive_sha256": "3ab1d9f12dba2e3070b771d7d74193576d96850e77de5097c80950fea9f77d6d",
+    "manifest_sha256": "996730177593787e4d8a55f5686db09814a43ac2900f058ceb0a3fcf84af7c08",
+    "members": 462,
+    "manifest_files_verified": 460,
+    "checksum_entries_verified": 461,
+    "crc_path_safety_and_extracted_readback": "PASS",
+    "export_redactions": 37,
+    "seal_limit": "Historical original seals retain their original-byte meaning; separately verified export hashes certify redacted transported copies. Transport is not semantic acceptance.",
+    "project_snapshot": {
+      "project_documents": 269,
+      "published_documents_byte_equal": 263,
+      "exact_paused_metadata_documents": 6
+    }
+  },
+  "git_recovery": {
+    "initial_local_head": "90fa5c533520118939bebb99673f2cc9330039bd",
+    "last_fully_audited_source": "31921a9c7c85976b70ae7ba8d26e6ccba8073a9a",
+    "exact_recovered_unpublished_merge": "6938b50645b4f0568aa1c6bbe1d6ced4286e075f",
+    "exact_recovered_tree": "5a53ba01c30b0c47615dad6169deada0f8cd4c29",
+    "preserved_merge_parents": [
+      "31921a9c7c85976b70ae7ba8d26e6ccba8073a9a",
+      "d5535f0681a772d11d4af337d9c41219c5890ece"
+    ],
+    "current_main_incoming": "536328c3613d735dc5c983a93a5adbbf70adcb33",
+    "current_main_imports": 11,
+    "current_main_import_scope": "Exact accepted Shuukura blobs; no KonoSuba or governing-file change.",
+    "windows_checkout_repair": "The first fast-forward left1467 target-equal partial writes without advancing HEAD. Every partial write was compared to the intended blob before long-path materialization; the branch advanced only after exact index/tree equality. All80 existing private scratch files remained unchanged.",
+    "old_fanbook_audit_certifies_new_candidate": false
+  },
+  "preservation": {
+    "owner_pause_receipt_sha256": "f8e82e843bac6cb53e1e9f345d67fb849317c17a05c94d9808ea6f7d349a84f7",
+    "main_only_freeze_sha256": "a446f7f59c9ae1044a42b6ebe525bb75e8bfde00e78d9a10ec0dc73f67ce06a4",
+    "contract_registry_sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833",
+    "current_immutable_suite_artifacts_verified": 66,
+    "historical_suite_and_CR007_pins_verified_at_3b92": 72,
+    "four_accepted_score_registers_exact": true,
+    "dust_original_exploratory_question_sha256": "3372733aa462b9e97a7b2bd117fb29c7eff7ab34d0a0bc3d9f4084c2234ddd0f",
+    "dust_original_outcome_adjudication_fields_still_blank": 14
+  },
+  "local_source_recovery": {
+    "source_surface": "Owner-selected local EPUB copies",
+    "objects": 41,
+    "total_bytes": 679308092,
+    "all_exact_native_hashes_sizes_crc_and_japanese_opf_checks": "PASS",
+    "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+    "new_narrative_reading_or_admission_claimed": false,
+    "native_media_and_private_evidence_published": false
+  },
+  "receiving_boundary": {
+    "DUST02": "Author-complete principal/component packets and semantic reports preserved; not accepted or published. Resume exact outstanding receiving after this recovery publication gate.",
+    "TRPG_CORE": "Author-complete333-page declared scope preserved; full packet and bounded primary receiving still pending.",
+    "inherited_previous_root_scope": "Dust02 all139 excluded P/all23 images and328 unique principal P; this local recovery does not claim those as fresh reading.",
+    "DUST03": "CLOSED until Dust02 whole-edition publication gate and fresh admission.",
+    "TRPG_ADVANCED": "CLOSED pending separate predecessor/admission decision.",
+    "global_component_denominator": "UNRESOLVED",
+    "expanded_completion_percentage": null
+  },
+  "containing_publication": {
+    "commit": null,
+    "author_preflight": "PENDING",
+    "remote_readback": "PENDING",
+    "source_audit": "PENDING",
+    "housekeeping": "PENDING",
+    "final_exact_source_audit": "PENDING",
+    "protected_main_integration_asserted": false
+  },
+  "next_permitted_operation": "RECOVERY_PUBLICATION_GATE",
+  "after_own_full_gate": "Reload exact published authority; finish Dust02 receiving/publication and Core receiving/publication; continue all remaining authorized program responsibilities.",
+  "full_corpus_complete": false,
+  "archival_release_asserted": false
+}

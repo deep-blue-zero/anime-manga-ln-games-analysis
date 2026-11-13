@@ -1,0 +1,358 @@
+{
+  "schema": "KONOSUBA_YORI02_CURRENT_PRECISION_QUALIFICATIONS_V1",
+  "created_utc": "2026-10-19T01:00:29.011443+00:00",
+  "original_uncoded_history_unchanged": true,
+  "findings": [
+    {
+      "id": "Q01",
+      "qualification": "35textresources/2746P/28nativeimages actually received before formal coding; seal is not extraction-only credit.",
+      "source": "Whole-source seal and native admission"
+    },
+    {
+      "id": "Q02",
+      "qualification": "Seven long fiction bodies2469P and three individual integral mini-stories206P make2675P; textual nonfiction71P is separate.",
+      "source": "U012/014/016/018/020/022/024/026/027/028;all-unit inventory"
+    },
+    {
+      "id": "Q03",
+      "qualification": "IMG020 is an actual sequential illustrated afterword coda/memory contrast, separately identified rather than discarded as decoration.",
+      "source": "U029P11;IMG020 full panel order"
+    },
+    {
+      "id": "Q04",
+      "qualification": "Image coda's modern gaming inset does not prove Japan-trip episodic memory survives the explicit wipe or add a safely dated new trip.",
+      "source": "IMG020;U014P262–282"
+    },
+    {
+      "id": "Q05",
+      "qualification": "U012 narrator is Megumin at just over a week after joining; the other nine prose pieces use Kazuma with their own states.",
+      "source": "U012P19;U014–028"
+    },
+    {
+      "id": "Q06",
+      "qualification": "Wealth, winter debt, degree of acquaintance and attributed earlier histories differ by slice; TOC order is not a continuous fictional chronology.",
+      "source": "U014P22/45–49;U018P190;U022P394–407"
+    },
+    {
+      "id": "Q07",
+      "qualification": "Initial-publication table distinguishes two new long stories U022/U024 from reprints; creator jokes/intent are paratext, not fictional permission.",
+      "source": "U029P4–8;U030P4–24"
+    },
+    {
+      "id": "Q08",
+      "qualification": "All83 initial short fragments native-join within their actual windows; no original quote error or later substituted quote was needed.",
+      "source": "CURRENT_SELECTED_VOICE_REGISTER.json"
+    },
+    {
+      "id": "Q09",
+      "qualification": "86humor/83voice selections are purposive overlapping context samples, not a gag census, accuracy score or global denominator.",
+      "source": "Current registers"
+    },
+    {
+      "id": "Q10",
+      "qualification": "All86selected whole comic effects are H1 at their selected causal level; this is not a statement that every rhetorical sentence or intensity is literal.",
+      "source": "HUMOR_REGISTER;H protocol"
+    },
+    {
+      "id": "Q11",
+      "qualification": "Three selected L3 mechanisms are actual WhiteTiger/Byakko naming, mimetic name blends and rewritten food names; ordinary idiom alone remains insufficient.",
+      "source": "U018P5–14;U022P75–78/207–218"
+    },
+    {
+      "id": "Q12",
+      "qualification": "M's lakecast achieves quota while causing damage; K's intended power warning was interrupted before the actual cast.",
+      "source": "U012P34–51"
+    },
+    {
+      "id": "Q13",
+      "qualification": "M's first-person childhood/culture theory about K is an inference, not imported biography or a reason to erase his actual carrying.",
+      "source": "U012P41–50"
+    },
+    {
+      "id": "Q14",
+      "qualification": "D explicitly rejects safe detection because she wants an ambush before choosing it, stronger than a post-hoc allegation.",
+      "source": "U012P63–90"
+    },
+    {
+      "id": "Q15",
+      "qualification": "New unwanted clothing/armor condition yields actual D rescue pleas despite no bodily damage; later satisfaction is not prior permission.",
+      "source": "U012P96–112;U016P334–338/378"
+    },
+    {
+      "id": "Q16",
+      "qualification": "K actually blocks Aqua helping D after pleas; retain broad adverse care evidence and serious-harm applicability rival.",
+      "source": "U012P103–109"
+    },
+    {
+      "id": "Q17",
+      "qualification": "Collar shopping and picture do not establish actual purchase; no enemy death or final postcast carry is narrated in first story.",
+      "source": "U012P123–126/281–283;IMG011"
+    },
+    {
+      "id": "Q18",
+      "qualification": "False public bounty/perversion/harmlessness accounts recruit civilians; K's exact earlier demon knowledge is not shown.",
+      "source": "U012P140–170"
+    },
+    {
+      "id": "Q19",
+      "qualification": "Abductor respects Wolbach's name but stays personally unnamed; D's alleged sexual demands are invented by D and denied.",
+      "source": "U012P176–184"
+    },
+    {
+      "id": "Q20",
+      "qualification": "Actual knife Steal and later bag Steal are different outputs, not immediate complete hostage resolution.",
+      "source": "U012P190–197/258–264"
+    },
+    {
+      "id": "Q21",
+      "qualification": "Chom's weakness has travel and sacred-magic rival causes; M asks stop and Aqua actually stops.",
+      "source": "U012P226–235"
+    },
+    {
+      "id": "Q22",
+      "qualification": "Japan gadget's12hours/memoryloss are received before purchase; destination name changes K's actual choice.",
+      "source": "U014P34–54"
+    },
+    {
+      "id": "Q23",
+      "qualification": "Actual visit is not assumed dream/illusion; K's Stealth/nightvision work while M has insufficient practical local mana.",
+      "source": "U014P228/249/262–282"
+    },
+    {
+      "id": "Q24",
+      "qualification": "ATM theft is proposed then stopped, no gold exchange; limited yen and actual fastfood remain local fictional facts.",
+      "source": "U014P65–81"
+    },
+    {
+      "id": "Q25",
+      "qualification": "Station employee actually frees Aqua, with D/M attempts also credited; K is not sole rescuer.",
+      "source": "U014P105–114"
+    },
+    {
+      "id": "Q26",
+      "qualification": "Recording is not a worker, game pixels not imprisoned people, photographers' roleplay reading not M's own knowledge.",
+      "source": "U014P119–132/162–179"
+    },
+    {
+      "id": "Q27",
+      "qualification": "Unwanted adult-job offer causes D distress, no acceptance or intimate act; numerical age guesses unverified.",
+      "source": "U014P144–160"
+    },
+    {
+      "id": "Q28",
+      "qualification": "Actual21gamewins do not prove general combat genius; machine strike and civil staff apology retain their actual owners.",
+      "source": "U014P192–205"
+    },
+    {
+      "id": "Q29",
+      "qualification": "Souvenir actually acquired and returns282, method/cost elided; repeated chance-loss/newstake guard absent.",
+      "source": "U014P213–225/282"
+    },
+    {
+      "id": "Q30",
+      "qualification": "Room care/flowers, data deletion, memo and gold left are actual; drive contents, family meeting/receipt/use unknown.",
+      "source": "U014P233–258"
+    },
+    {
+      "id": "Q31",
+      "qualification": "Postreturn episodic forgetting is actual, pleasant residue partial, French-meal guess false; assent to futurequest not its performance.",
+      "source": "U014P262–282"
+    },
+    {
+      "id": "Q32",
+      "qualification": "Potato contact injury and Aqua's three spells/cooking takeover are actual, K's feared fatality unanswered.",
+      "source": "U016P22–39"
+    },
+    {
+      "id": "Q33",
+      "qualification": "Aqua's pajama prediction precedes K's next-day cancellation; prepared companions' actual wasted effort remains.",
+      "source": "U016P91–115"
+    },
+    {
+      "id": "Q34",
+      "qualification": "Dryad identity and ordinary-deer classification arrive after earlier mistaken assumptions; raw spirit speech remains Aqua-mediated.",
+      "source": "U016P190–225"
+    },
+    {
+      "id": "Q35",
+      "qualification": "Dryad's invitation motive is translated, K infers household cause, future damages are only possible.",
+      "source": "U016P247–257"
+    },
+    {
+      "id": "Q36",
+      "qualification": "Fertilizer misunderstanding is explicitly refused bodily humiliation, no performed act credited or graphic detail reconstructed.",
+      "source": "U016P261–283"
+    },
+    {
+      "id": "Q37",
+      "qualification": "K's voice imitation lacks deer-language knowledge; actual jump/cast does not retroactively establish full friendly preparation.",
+      "source": "U016P339–364"
+    },
+    {
+      "id": "Q38",
+      "qualification": "Actual guild payment and negotiated periodic water exchange differ from a narrated later water delivery.",
+      "source": "U016P366–382"
+    },
+    {
+      "id": "Q39",
+      "qualification": "White tiger survives/evasively moves; empty crater and heroic flags do not establish a kill, and bounty requires fur.",
+      "source": "U018P122–145"
+    },
+    {
+      "id": "Q40",
+      "qualification": "Aqua's cub-care explanation differs from narrator certainty; mother-abandonment is her claim and is complicated by later waiting mother.",
+      "source": "U018P157–167/304–307"
+    },
+    {
+      "id": "Q41",
+      "qualification": "K forgoes offered10million sale and actually prepares care; later utility argument is not unique cause.",
+      "source": "U018P187–209"
+    },
+    {
+      "id": "Q42",
+      "qualification": "Aqua's blanket offer is to cub for her garment, wrong direction for own-item-equivalent replacement forecast.",
+      "source": "U018P266–272/315"
+    },
+    {
+      "id": "Q43",
+      "qualification": "Actual reunion becomes unwanted Aqua transport; she returns3days later, travel interval/mechanism elided.",
+      "source": "U018P307–331"
+    },
+    {
+      "id": "Q44",
+      "qualification": "Real local-weather correction and actual failed fitted command coexist with successful translated lure/swim/counterspell.",
+      "source": "U020P42/219–227/284–308/380–388"
+    },
+    {
+      "id": "Q45",
+      "qualification": "Male concealed voyeuristic goal does not authorize women's exposure; actual covering/help/refusals retained non-graphically.",
+      "source": "U020P129–138/147–159/199–200"
+    },
+    {
+      "id": "Q46",
+      "qualification": "M proposes staged lower-risk testing before taunts override it; actual three casts calm spirit, not a kill.",
+      "source": "U020P309–367"
+    },
+    {
+      "id": "Q47",
+      "qualification": "Aqua's protective cancellation is actual success even though male observers dislike it; no performed next-year event.",
+      "source": "U020P380–393"
+    },
+    {
+      "id": "Q48",
+      "qualification": "Chris's crime-help acceptance precedes concealed lover-role disclosure and actual objection; no retroactive scope expansion.",
+      "source": "U022P180–201"
+    },
+    {
+      "id": "Q49",
+      "qualification": "Host welcomes appetites and permits takehome food with keeping warning; family receipt/freezing still unperformed.",
+      "source": "U022P210–237"
+    },
+    {
+      "id": "Q50",
+      "qualification": "Fairy food suspicion wrong, cook explanation incomplete, later child-equivalent exploitation issue distinct; critical non-graphic welfare account.",
+      "source": "U022P295–303/340/369–386"
+    },
+    {
+      "id": "Q51",
+      "qualification": "Fairy's nonverbal no changes K's cage-opening behavior; cat restraint precedes safe actual opening.",
+      "source": "U022P328–335/351"
+    },
+    {
+      "id": "Q52",
+      "qualification": "D's Chris-origin story is attributed memory; unauthorized wallet taking is not legitimated by a game-event script.",
+      "source": "U022P394–407"
+    },
+    {
+      "id": "Q53",
+      "qualification": "Final arrest plan is not completed arrest, neither noble host nor suspicious park men shown captured.",
+      "source": "U022P414–423;U024P275"
+    },
+    {
+      "id": "Q54",
+      "qualification": "Yun denies overnight waiting, owns lesson request, refuses duel/teachercontest; no blanket assent to coercive demonstrations.",
+      "source": "U024P82/100/152/217"
+    },
+    {
+      "id": "Q55",
+      "qualification": "Unidentified-target Lightning actually hits M; K's privacy-violating Steal is actual, followed by return/apology, not permission.",
+      "source": "U024P133–140/189–197"
+    },
+    {
+      "id": "Q56",
+      "qualification": "K's stranger-safety reasoning is biased viewpoint corrected by actual predatory statements and police call; no recommendation/diagnosis.",
+      "source": "U024P229–275"
+    },
+    {
+      "id": "Q57",
+      "qualification": "Yun actually rescues novices, their self-sufficiency/credit claims contradicted by cries; M's later cast disproves kind-restraint inference.",
+      "source": "U024P298–348"
+    },
+    {
+      "id": "Q58",
+      "qualification": "M's revenge blast creates new actual frog dependency; unknown novices are not significantly bonded M04 persons.",
+      "source": "U024P331–348"
+    },
+    {
+      "id": "Q59",
+      "qualification": "Household care and actual pajamaparty invitation do not prove completed party or cured social anxiety; guessed guilt percentages are not measurements.",
+      "source": "U024P354–367"
+    },
+    {
+      "id": "Q60",
+      "qualification": "CreateWater local moisture rule differs from Aqua's admitted CreateEarth ignorance; rain succeeds while offering appropriation fails.",
+      "source": "U026P29–33/51–66"
+    },
+    {
+      "id": "Q61",
+      "qualification": "Inverted rain-charm effect/clientconversion is explicitly narrated coda, not merely an offered future experiment.",
+      "source": "U026P66"
+    },
+    {
+      "id": "Q62",
+      "qualification": "Actual mana transfer and movement do not by themselves supply M's self-accepted substantial build-loss judgment.",
+      "source": "U027P29–35"
+    },
+    {
+      "id": "Q63",
+      "qualification": "Gate rescue is others' report plus actual gratitude; M's boast remains challenged and card not actually read.",
+      "source": "U027P45–60"
+    },
+    {
+      "id": "Q64",
+      "qualification": "D's serious concern receives honest appreciation then new ridicule; own withdrawal and Chris's explicit stop must not be conflated.",
+      "source": "U028P53–64"
+    },
+    {
+      "id": "Q65",
+      "qualification": "Possible D07 adverse phase is retained alongside withdrawal-as-boundary interpretation; no new verbal-retaliation, injury or repeat floor.",
+      "source": "U028P57–64;exact R1-D07"
+    },
+    {
+      "id": "Q66",
+      "qualification": "Birthday wine/food/toy are instructions/intentions; no completed purchase, preparation, gift receipt or celebration.",
+      "source": "U028P73–77"
+    },
+    {
+      "id": "Q67",
+      "qualification": "Exact31principal/8party/4typed contracts are retained; current qualitative later-evidence comparisons are not a new blind trial or score.",
+      "source": "Prebody43contract seal;current assessments"
+    },
+    {
+      "id": "Q68",
+      "qualification": "OriginalYORI01K08F/otherdispositions,MASKscore,DUST06/07scores and14originalfuturefields remain byte exact.",
+      "source": "Frozen controls"
+    },
+    {
+      "id": "Q69",
+      "qualification": "R1-E06 predicts recipient response, not universal perpetrator stopping; persistence alone does not fail it.",
+      "source": "Exact R1-E06;U012/U016/U018/U022"
+    },
+    {
+      "id": "Q70",
+      "qualification": "Global narrative-component denominator and completionpercentage remain unresolved/null;17whole supplementals only after containingfullgate.",
+      "source": "Component roles;continuing roadmap"
+    }
+  ],
+  "source_body_and_originals_not_replaced": true
+}

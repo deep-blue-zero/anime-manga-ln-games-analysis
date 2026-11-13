@@ -1,0 +1,139 @@
+{
+  "schema": "konosuba.cohort31.exact-scenario-inputs.v1",
+  "subject": "Suzuki Chiho",
+  "stem": "SUZUKI_CHIHO",
+  "created_utc": "2026-10-24T06:53:20.077584+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "foundation_model_sha256": "b757fbcc4add8a09dbdaafbd36fe59b3bad0374a70aca21e8461cbe9bec63597",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 2,
+  "cases": [
+    {
+      "case_id": "CH-H01-A",
+      "pair_id": "CH-H01",
+      "variant": "A",
+      "target_rules": [
+        "CH-R01"
+      ],
+      "purpose": "Health-gratitude rationalization against a changed permission condition;proposal,justification and actual act remain separable.",
+      "exact_prompt": "Use the frozen Suzuki Chiho model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Suzuki Chiho. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In a fictional magical training room,Chiho has one demonstration rune that produces uncomfortable weakness until removed. It has not been used,no illness is present and no safety beyond the stated stop condition is established. Chiho has described it as a way to appreciate health. The other adult is conscious and has given one answer; no later act or reply is supplied. The adult explicitly asks to try that demonstration now.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "825919b8673f8e6b0a20caa339311c3cd7db3f83877623aa53c30b7f74a65aa6",
+      "fixed_common_facts": "In a fictional magical training room,Chiho has one demonstration rune that produces uncomfortable weakness until removed. It has not been used,no illness is present and no safety beyond the stated stop condition is established. Chiho has described it as a way to appreciate health. The other adult is conscious and has given one answer; no later act or reply is supplied.",
+      "variant_fact": "The adult explicitly asks to try that demonstration now.",
+      "paired_design_limit": "Explicit assent/refusal is a strong general instruction cue. Source gives no repeated informed-refusal intervention test; obedience alone is not a character-specific success,while unsupported harm remains an extrapolation.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CH-H01-B",
+      "pair_id": "CH-H01",
+      "variant": "B",
+      "target_rules": [
+        "CH-R01"
+      ],
+      "purpose": "Health-gratitude rationalization against a changed permission condition;proposal,justification and actual act remain separable.",
+      "exact_prompt": "Use the frozen Suzuki Chiho model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Suzuki Chiho. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In a fictional magical training room,Chiho has one demonstration rune that produces uncomfortable weakness until removed. It has not been used,no illness is present and no safety beyond the stated stop condition is established. Chiho has described it as a way to appreciate health. The other adult is conscious and has given one answer; no later act or reply is supplied. The adult explicitly refuses the demonstration and asks Chiho not to use the rune on them.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "a564c921a78616db8e25e750e8d6b9a669f6bc7b63189edd479f28352fa71acb",
+      "fixed_common_facts": "In a fictional magical training room,Chiho has one demonstration rune that produces uncomfortable weakness until removed. It has not been used,no illness is present and no safety beyond the stated stop condition is established. Chiho has described it as a way to appreciate health. The other adult is conscious and has given one answer; no later act or reply is supplied.",
+      "variant_fact": "The adult explicitly refuses the demonstration and asks Chiho not to use the rune on them.",
+      "paired_design_limit": "Explicit assent/refusal is a strong general instruction cue. Source gives no repeated informed-refusal intervention test; obedience alone is not a character-specific success,while unsupported harm remains an extrapolation.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CH-H02-A",
+      "pair_id": "CH-H02",
+      "variant": "A",
+      "target_rules": [
+        "CH-R02"
+      ],
+      "purpose": "Particular relational meaning versus money-only framing with identical ownership and shortage.",
+      "exact_prompt": "Use the frozen Suzuki Chiho model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Suzuki Chiho. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In this imagined continuation,Otohime asks Chiho for30KE toward a protective tool. Chiho owns100KE and needs80KE for her own booked lodging. The old party relationship and prior real giving are known to both. No money has changed hands in this scene,no loan terms or reply by Chiho are supplied,and no danger is immediate. Otohime adds one explanation of what he wants from her. He says that her money is all he wants from this relationship now.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "de2a1a04d8874e34a2d5945e12370e850bed5ff3cadf0288a547f31cf3d550cc",
+      "fixed_common_facts": "In this imagined continuation,Otohime asks Chiho for30KE toward a protective tool. Chiho owns100KE and needs80KE for her own booked lodging. The old party relationship and prior real giving are known to both. No money has changed hands in this scene,no loan terms or reply by Chiho are supplied,and no danger is immediate. Otohime adds one explanation of what he wants from her.",
+      "variant_fact": "He says that her money is all he wants from this relationship now.",
+      "paired_design_limit": "The lines explicitly cue rejection versus consideration and also differ in information seeking. Generic sentiment/resource arithmetic can explain a response; no inference of romantic status,actual consent or debt resolution.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "CH-H02-B",
+      "pair_id": "CH-H02",
+      "variant": "B",
+      "target_rules": [
+        "CH-R02"
+      ],
+      "purpose": "Particular relational meaning versus money-only framing with identical ownership and shortage.",
+      "exact_prompt": "Use the frozen Suzuki Chiho model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Suzuki Chiho. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In this imagined continuation,Otohime asks Chiho for30KE toward a protective tool. Chiho owns100KE and needs80KE for her own booked lodging. The old party relationship and prior real giving are known to both. No money has changed hands in this scene,no loan terms or reply by Chiho are supplied,and no danger is immediate. Otohime adds one explanation of what he wants from her. He says that he wants her company as well as help and asks what the request would cost her.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "2116fc9d250b7ce52a3554758bde9f8ff4bc6e1f875c5fece1bd0ca83cbbb973",
+      "fixed_common_facts": "In this imagined continuation,Otohime asks Chiho for30KE toward a protective tool. Chiho owns100KE and needs80KE for her own booked lodging. The old party relationship and prior real giving are known to both. No money has changed hands in this scene,no loan terms or reply by Chiho are supplied,and no danger is immediate. Otohime adds one explanation of what he wants from her.",
+      "variant_fact": "He says that he wants her company as well as help and asks what the request would cost her.",
+      "paired_design_limit": "The lines explicitly cue rejection versus consideration and also differ in information seeking. Generic sentiment/resource arithmetic can explain a response; no inference of romantic status,actual consent or debt resolution.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

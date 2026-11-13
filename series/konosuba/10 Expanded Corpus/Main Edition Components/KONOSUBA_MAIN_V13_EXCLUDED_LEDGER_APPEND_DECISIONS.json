@@ -1,0 +1,166 @@
+{
+  "schema": "KONOSUBA_MAIN13_EXCLUDED_TEN_LEDGER_APPEND_DECISIONS_V1",
+  "source_id": "MAIN-13",
+  "ten_current_prefix_controls": [
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "bytes": 307724,
+      "sha256": "2f60f8e30dcc674f78cb097b82080faaf36197cf71734814c6d8d8b0de94b368"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 226808,
+      "sha256": "bc8869426dedffa6a6fb990f853b703c971b334a341b8f63f035478a352c701c"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "bytes": 797321,
+      "sha256": "65bf5a60ea642f3bb2c2124c4fd1b9f03b18b8aa83938c26ea3b9e4b51bf2b46"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "bytes": 609006,
+      "sha256": "6e3220a5578c5f7af39c2007ac5519973a53c2574ed17c05fd11e4252a685cce"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "bytes": 204688,
+      "sha256": "e9dcd31915ecb612b6388b82c8f62ff79ed2eb4e4870f8137050619dd2fef004"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "bytes": 197283,
+      "sha256": "bce75fc325d0536b1f164c668df48c8ef48db9e243fbc1cc4883ee518a68dead"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "bytes": 222652,
+      "sha256": "1cb507d24090bddffa32dce3982edba3b7b9745ffcc94b64970818259be7a077"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "bytes": 185562,
+      "sha256": "ac4921c6dfad67e46d1421f0ad639f6bca89962a291e618abfc9e6dd70c5ee28"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "bytes": 276235,
+      "sha256": "208bdb58e0890e215b9ff88badffda201f9eadefe78cc117923b11f10c344b2d"
+    },
+    {
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "bytes": 141372,
+      "sha256": "52151b6d8100737be047dd665ed1938dd800ceed41b667f3aa17ee4cb3f6ecb8"
+    }
+  ],
+  "rows": [
+    {
+      "id": "M13EX-LD01",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P7-57/60;Q05-Q22",
+      "observation": "The new bonus distinguishes Kazuma's checked terms/private method/accountability narrowing, Darkness's useful-accuracy tension, Megumin's power interest/conditional test assent and Aqua's cleaning/recreation/gift motives.",
+      "implication": "Keep actual choices, narrator forecasts, promises, unwanted costs and unperformed purchases separate; no whole-person adjective substitutes.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD02",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13retainedPr/C1/C2/C3/C4/Final/Ep;Q29-Q43",
+      "observation": "Current retained native joins refine Wiz/Vanir/Duke, Sylphina, Zereschilt and Yunyun with exact information, bodily state, actual agency and finite provider limits; corrected images do not add trials.",
+      "implication": "Original uncoded guesses stay historical. Duke is distinct from count Zereschilt; new garden Anraku girl is distinct from prior forest princess. Luna is not the disguised tavern speaker.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD03",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P39-58;Q16-Q22",
+      "observation": "A new-technique invitation receives specific nonlethal conditional assent, but a wrong-object theft and immobility create real unremedied visible costs; prior familiarity cannot authorize every consequence.",
+      "implication": "Do not treat consent to a limited test, later reaction, comedic framing or a refund request as global permission or completed bodily recovery.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD04",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "M13EX-H01-H16;Q23/Q25-Q28",
+      "observation": "Sixteen selected whole effects distinguish purchase priors, selective funding, drawback-as-benefit tension, merchant caveat, failed retrieval, blame, market uptake and late bandana callback; author entitlement is separately nonliteral.",
+      "implication": "H1 literal events/claims and H4 staged author/editor license remain distinct; no forced H3 from missing evidence, fantasy or apparent exaggeration.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD05",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "M13EX-V01-V43;Q21/Q24-Q27",
+      "observation": "Forty-three exact short written witnesses35bonus/8creator track disclaimers, limiting assent, gift/loan negotiation, frank nonrepayment, defensive explanation, untagged uptake and creator apology/ellipsis.",
+      "implication": "Nested クズマ nameplay warrants one L3 witness without making the whole social failure Japanese-form dependent. No acoustic judgment, permanent boke role or invented speaker.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD06",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P30-55;Q13/Q17-Q21",
+      "observation": "Kazuma knows the merchant's warning and withholds his method until after failure; his own intended-loop account then narrows responsibility and blames a disputed garment value.",
+      "implication": "A checked purchase may still have a bad implementation. A real stated intent need not be a complete candid account; unknown remedy remains unknown.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD07",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P11-38/57/60;Q08-Q15",
+      "observation": "Shopping, cleaning, recreation, resource allocation, borrowed versus gifted money and Darkness's chosen configuration have explanatory value outside battle; the stone alone has an explicit cash transfer.",
+      "implication": "No funded potion, delivered cleaner, bandana price, refund settlement or other-person labor is invented from a request or coda.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD08",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P30-51/60;Q12-Q18/Q34-Q41",
+      "observation": "A finite outside item paralyzes once, the attempted Steal recapture returns the wrong object, and equipping a dexterity bandana does not stop reported misses.",
+      "implication": "Technique generation, target effect, retrieval, remaining bodily recovery and statistical reliability are separate. Retained Wiz competence does not imply market infallibility or Vanir omniscience.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD09",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P39-58;Q16-Q22/Q35-Q42",
+      "observation": "Megumin's limited test assent, pain, unintended clothing loss and immobility survive the comic reputation/price exchange. Retained harassment, intimidation and humiliation remain harmful alongside real care.",
+      "implication": "The absence of a shown remedy is not a harmless reset or permanent incapacity. Actual care/friendship does not erase specific boundaries or coercion.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD10",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "MAIN13U021P30-58;Q13-Q22",
+      "observation": "Kazuma's explicit risk check precedes an indirect plan whose recovery edge fails; his commercial withdrawal is a different objective and does not demonstrate recapture-method repair.",
+      "implication": "Record real checking and concrete failure together. No hidden alternative, unchanged active objective, seller refund acceptance or full physical help is supplied to improve a forecast.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD11",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "M13EX-AS-R1-K01 through M13EX-AS-R1-T04;Q44",
+      "observation": "The39 unchanged contracts receive4narrow supports,5partials,1ambiguous possible-adverse recovery comparison,1boundary adjacency and28NT;4typed diagnostics remain outside behavioral totals.",
+      "implication": "Exact full predicates and visible adverse costs control the local result. No old confidence/score/outcome, independent-reader claim or blind prediction is altered.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    },
+    {
+      "id": "M13EX-LD12",
+      "target": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER_CONTINUATION_01.md",
+      "subjects": "Kazuma/Aqua/Megumin/Darkness and separately unnamed merchant/familiar adventurer/untagged audience in new bonus; retained Wiz/Vanir/Duke/Zereschilt/Sylphina/Yunyun/Chomusuke/EmperorZel/new Anraku girl and unnamed succubus keep exact actor/access planes; Luna specifically excluded from disguised tavern art; creator/promotion separate",
+      "native_routes": "M13EX-AS-SI-D01-D07/SY-D01-D07;Q43",
+      "observation": "Neither Iris nor Yunyun acts in the new60P bonus; all14separate scoped comparisons remain NT. Their retained body appearances/teasers are not new eligible opportunities.",
+      "implication": "Both original14null sets and eight model pins remain exact; no quiet conversion of a retained event, raster depiction or unknown speaker into a fresh secondary test.",
+      "authority_and_adverse_limit": "New bonus and separately typed profile/creator/promotion/edition images and paratext. Retained principal checks have zero new pass/event credit. Existing ledger prefixes, old forecasts and scorecards remain exact; partial and missing conditions preserved."
+    }
+  ]
+}

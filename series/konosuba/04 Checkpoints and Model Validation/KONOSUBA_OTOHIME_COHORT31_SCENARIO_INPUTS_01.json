@@ -1,0 +1,199 @@
+{
+  "schema": "konosuba.cohort31.exact-scenario-inputs.v1",
+  "subject": "Otohime",
+  "stem": "OTOHIME",
+  "created_utc": "2026-10-24T06:53:20.154980+00:00",
+  "foundation_seal_sha256": "efffd85b8193015dfff55c22138d0b70c155fc2775d95a0a19d1ecdde2792c04",
+  "foundation_model_sha256": "eb96f6c2edd52a066ca570d4f8c6ea3515617cf743656b83614c4f091fea7e2a",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 3,
+  "cases": [
+    {
+      "case_id": "OT-H01-A",
+      "pair_id": "OT-H01",
+      "variant": "A",
+      "target_rules": [
+        "OT-R01"
+      ],
+      "purpose": "Fear,usable preparation and survival-bounded protection under a single changed capacity.",
+      "exact_prompt": "Use the frozen Otohime model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Otohime. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In a fictional training battle,an unavoidable next hit threatens Chiho. Otohime can redirect it to himself by Covering. The stipulated final loss after all defense and applicable Covering rules would be exactly10HP; no other reduction,ally help or Death Return is available. He has the earlier survival-limited protective promise in mind. No redirect or hit has happened yet. Otohime currently has15HP.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "cb5a8d132336a6f751e3cf4dcb17c5866919195b025b314b373927689973bf5e",
+      "fixed_common_facts": "In a fictional training battle,an unavoidable next hit threatens Chiho. Otohime can redirect it to himself by Covering. The stipulated final loss after all defense and applicable Covering rules would be exactly10HP; no other reduction,ally help or Death Return is available. He has the earlier survival-limited protective promise in mind. No redirect or hit has happened yet.",
+      "variant_fact": "Otohime currently has15HP.",
+      "paired_design_limit": "Stipulated arithmetic strongly cues a generic choice and does not isolate fear,care,pact or optimal tank play. The counterfactual is not a new source outcome or a rulebook certification.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "OT-H01-B",
+      "pair_id": "OT-H01",
+      "variant": "B",
+      "target_rules": [
+        "OT-R01"
+      ],
+      "purpose": "Fear,usable preparation and survival-bounded protection under a single changed capacity.",
+      "exact_prompt": "Use the frozen Otohime model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Otohime. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: In a fictional training battle,an unavoidable next hit threatens Chiho. Otohime can redirect it to himself by Covering. The stipulated final loss after all defense and applicable Covering rules would be exactly10HP; no other reduction,ally help or Death Return is available. He has the earlier survival-limited protective promise in mind. No redirect or hit has happened yet. Otohime currently has5HP.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "4e55fd56a5183a3105606ccb79fd72d168c757a5cfd7c71fbfc9a75dbdf4731c",
+      "fixed_common_facts": "In a fictional training battle,an unavoidable next hit threatens Chiho. Otohime can redirect it to himself by Covering. The stipulated final loss after all defense and applicable Covering rules would be exactly10HP; no other reduction,ally help or Death Return is available. He has the earlier survival-limited protective promise in mind. No redirect or hit has happened yet.",
+      "variant_fact": "Otohime currently has5HP.",
+      "paired_design_limit": "Stipulated arithmetic strongly cues a generic choice and does not isolate fear,care,pact or optimal tank play. The counterfactual is not a new source outcome or a rulebook certification.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "OT-H02-A",
+      "pair_id": "OT-H02",
+      "variant": "A",
+      "target_rules": [
+        "OT-R02"
+      ],
+      "purpose": "Security rationale,comfort and continued dependence under changed ownership terms.",
+      "exact_prompt": "Use the frozen Otohime model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Otohime. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Chiho has actually handed Otohime100KE in this imagined scene. A useful protective scroll costs40KE and a better bed for tonight costs60KE. He wants both,can buy them locally,but has bought neither. No current attack or other funds exist in the scene. The handover has an explicit condition. It is a loan strictly for the scroll;Chiho requires the unused60KE returned.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "cc8b05b8550fea6f6e10102aaca2ab91580613c80ab514e8de4bd9baac578728",
+      "fixed_common_facts": "Chiho has actually handed Otohime100KE in this imagined scene. A useful protective scroll costs40KE and a better bed for tonight costs60KE. He wants both,can buy them locally,but has bought neither. No current attack or other funds exist in the scene. The handover has an explicit condition.",
+      "variant_fact": "It is a loan strictly for the scroll;Chiho requires the unused60KE returned.",
+      "paired_design_limit": "Loan/gift terms directly constrain permissible spending; respecting them is generic constraint following and cannot establish selflessness. No repayment,purchase or assent beyond the stated terms may be invented.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "OT-H02-B",
+      "pair_id": "OT-H02",
+      "variant": "B",
+      "target_rules": [
+        "OT-R02"
+      ],
+      "purpose": "Security rationale,comfort and continued dependence under changed ownership terms.",
+      "exact_prompt": "Use the frozen Otohime model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Otohime. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Chiho has actually handed Otohime100KE in this imagined scene. A useful protective scroll costs40KE and a better bed for tonight costs60KE. He wants both,can buy them locally,but has bought neither. No current attack or other funds exist in the scene. The handover has an explicit condition. It is an unrestricted gift;Chiho explicitly says he may keep the unused money.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "74f2b737f694f17b18ae9bfad480d0a8b03a584977b5e9db947a216aab40a172",
+      "fixed_common_facts": "Chiho has actually handed Otohime100KE in this imagined scene. A useful protective scroll costs40KE and a better bed for tonight costs60KE. He wants both,can buy them locally,but has bought neither. No current attack or other funds exist in the scene. The handover has an explicit condition.",
+      "variant_fact": "It is an unrestricted gift;Chiho explicitly says he may keep the unused money.",
+      "paired_design_limit": "Loan/gift terms directly constrain permissible spending; respecting them is generic constraint following and cannot establish selflessness. No repayment,purchase or assent beyond the stated terms may be invented.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "OT-H03-A",
+      "pair_id": "OT-H03",
+      "variant": "A",
+      "target_rules": [
+        "OT-R03"
+      ],
+      "purpose": "Invited explanation versus a retained refusal;costly action and another person's acceptance are not guaranteed.",
+      "exact_prompt": "Use the frozen Otohime model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Otohime. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Chiho has asked21 for help about feeling seen only as money,and authorized21 to name that concern to Otohime.21 privately asks him whether he wants to explain. Otohime has two unused communication scrolls,but has not spent them. No reply or forgiveness from Chiho is supplied. Otohime has just stated his willingness. He said yes,he wants to explain what he was afraid of.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "cde4731cdfa94e8442fa0cd8a2eb005c3600265cb6f3fc245ae121474b079ddc",
+      "fixed_common_facts": "Chiho has asked21 for help about feeling seen only as money,and authorized21 to name that concern to Otohime.21 privately asks him whether he wants to explain. Otohime has two unused communication scrolls,but has not spent them. No reply or forgiveness from Chiho is supplied. Otohime has just stated his willingness.",
+      "variant_fact": "He said yes,he wants to explain what he was afraid of.",
+      "paired_design_limit": "Willingness is stipulated,so the exercise tests conditional rendering and restraint rather than discovering it. The known counseling source and visible pair invite reconstruction/cueing.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "OT-H03-B",
+      "pair_id": "OT-H03",
+      "variant": "B",
+      "target_rules": [
+        "OT-R03"
+      ],
+      "purpose": "Invited explanation versus a retained refusal;costly action and another person's acceptance are not guaranteed.",
+      "exact_prompt": "Use the frozen Otohime model as a provisional,imperfect representation. This imagined scene is not source evidence. In80-140 English words,give a brief immediate appraisal,short first-person English-rendered speech,and the next observable action by Otohime. Stop before another person replies or an unprovided outcome happens. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity,independent judge or held-out validation is claimed.\n\nSCENE: Chiho has asked21 for help about feeling seen only as money,and authorized21 to name that concern to Otohime.21 privately asks him whether he wants to explain. Otohime has two unused communication scrolls,but has not spent them. No reply or forgiveness from Chiho is supplied. Otohime has just stated his willingness. He said no,he does not want to discuss his feelings now.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "f77552a83a182eb3e242083dc16281c9849f8920a6b20e551db892d5faafceca",
+      "fixed_common_facts": "Chiho has asked21 for help about feeling seen only as money,and authorized21 to name that concern to Otohime.21 privately asks him whether he wants to explain. Otohime has two unused communication scrolls,but has not spent them. No reply or forgiveness from Chiho is supplied. Otohime has just stated his willingness.",
+      "variant_fact": "He said no,he does not want to discuss his feelings now.",
+      "paired_design_limit": "Willingness is stipulated,so the exercise tests conditional rendering and restraint rather than discovering it. The known counseling source and visible pair invite reconstruction/cueing.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person speech",
+          "next observable action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

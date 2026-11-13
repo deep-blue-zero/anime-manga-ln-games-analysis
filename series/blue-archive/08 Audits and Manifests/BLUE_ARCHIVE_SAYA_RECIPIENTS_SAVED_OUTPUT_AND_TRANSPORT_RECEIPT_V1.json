@@ -1,0 +1,438 @@
+{
+  "schema": "BLUE_ARCHIVE_SAYA_RECIPIENTS_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_C_ONLY_PROPOSAL_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 46781,
+      "sha256": "cfd65880a120d5e2fa999ca7129ac39da2af4175649b3dedfaeed813bf03e3fb",
+      "git_blob_oid_of_actual_bytes": "fdbc7b952a0ffeaa05943b0c53854a7543247114"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 49617,
+      "sha256": "c268fb7f5e8d34f865d4c7b995edc1af00505e3ff5761b062b1be44ba59c7b5e",
+      "git_blob_oid_of_actual_bytes": "3f5261d7f1cd0cc256fb6de1df9838d25e61adcf"
+    },
+    "complete_ranges": [
+      {
+        "kind": "insert",
+        "original_lines": [
+          1,
+          0
+        ],
+        "canonical_lines": [
+          1,
+          14
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "---",
+          "series: BLUE_ARCHIVE",
+          "artifact_type: directed_relationship_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 7a146891ad9ffd999b2c4377d66a73313217a510",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+          "---",
+          ""
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          1
+        ],
+        "canonical_lines": [
+          15,
+          15
+        ],
+        "exact_unchanged_lines": [
+          "# Saya and her recipients: care, company, and the limits of another person's usefulness"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          2,
+          1
+        ],
+        "canonical_lines": [
+          16,
+          17
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/afb/bf5/count statements remain creation-time history. Published114 source 7a146891ad9ffd999b2c4377d66a73313217a510/tree b726ef7a1a3a103d3011cf708a169eb8c7d659df has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed six-package115–120 proposal takes effect only through complete ROOT installation, yielding120 (95character/12directedrelationship/5ensemble/8institution) and the unchanged10 completed non-denominator named duties. Later121+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          2,
+          155
+        ],
+        "canonical_lines": [
+          18,
+          171
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "Required home: `P3-REL-SAYA-RECIPIENTS-CARE-TECHNICAL-LIMITS` · Responsibility: `HYS::significant_responsibilities::14` · Kind: `DIRECTED_RELATIONSHIP` · Mandatory named duties: none.",
+          "",
+          "Status: author candidate for independent ROOT receiving. This package makes a bounded literary argument from accepted written analytical meanings. It supplies no new original-primary, performed, technical-model, identity, or independent-witness credit. Published source bindings are dated `bf5ded30464ab39f78f71e79ecc7494654c25faa`; main comparison is `b76b4373e6d0526bc78ce00bb673dba9e536c128`. Ordinary desires and recipient refusals have intrinsic analytical value. Allocation is not completion.",
+          "",
+          "## 1. Core thesis",
+          "",
+          "[SR001] Saya's relationships repeatedly turn on the difference between another person answering an invitation and another person being made useful to a project whose success she defines. She wants lasting inquiry, recognition, delicious food, play, and company. These wishes make her more than a dispenser of harmful concoctions. Yet the same wish to continue can turn an objection into a new experiment, a symptom into usable information, or a material request into the next demand. The relationship question is therefore whether the other's answer can alter the encounter, including the purposes and costs of participation. Saya sometimes hears that answer, sometimes accommodates it, and sometimes evades its force. The local differences matter more than a verdict that all her care is fraudulent or all her trouble harmless. [N03:L37,L41; N05:L37,L41; N10:L41,L49,L53; N20:L124]",
+          "",
+          "[SR002] The directed sides are heterogeneous. Sensei can worry, refuse a sample, object to risks, help finish a task, or share a cake. Club members object to earlier effects and decline further experimentation; Saya later admits deceptive invitations even as she denies force. Nezusuke is her family-like companion, but his motives are mediated by narrative gestures, other people's conjectures, and her translations. Shun refuses unfamiliar food and interference, subsequently asks for a remedy, and still wants indulgence after returning to her usual appearance. Kisaki can seek medicines and reject prescribed rest or Kai's conditions. Rumi's food can recruit Saya without proving that the whole political or technical arrangement is freely accepted. These recipients do not form one interchangeable audience. [N03:L37; N08:L41,L57; N10:L41,L53; N17:L76,L88,L90,L92; N18:L95,L97; N19:L116; N20:L104,L114]",
+          "",
+          "[SR003] Quiet goods are central to the mechanism. Saya explicitly wants an invitation to mean food rather than an experiment; she wants someone to stay until cake is finished, play a two-player game, visit unfamiliar restaurants, and enjoy the smell of a flower-filled park. She can thank a collaborator for searching or helping with work. These ends are positive evidence even when they cause no public crisis. Their particularity also sharpens the contrary evidence: inviting someone to remain for company is different from lying about a pill, and a pleasant shared meal does not answer another recipient's hunger or weakness. A relationship can contain real attachment and fail to protect the other's independently wanted life. [N05:L41; N06:L37,L41,L65; N08:L49,L61; N09:L41,L61; N10:L41,L57; N13:L41,L49]",
+          "",
+          "[SR004] The strongest supported conclusion is a repertoire of differently bounded reciprocity, not a finished conversion from experimenter to carer. Saya has practical compassion, valued pleasures, fallible diagnoses, dangerous assumptions, useful expertise, evasions, and appreciable acts of help. The sources print several completed encounters and local corrections, but omit clinical verification, all delayed repair, durable consent practices, and a universal chronology. Her objection to Kai's treatment of people is consequential; it must be read beside her own previous recipient failures. It can establish a meaningful difference in the specific confrontation without certifying all of her research or retroactively authorizing anyone's participation. [N07:L37,L41,L70,L108; N08:L41; N13:L41,L57; N20:L114,L121,L124,L126]",
+          "",
+          "## 2. Longitudinal arc",
+          "",
+          "[SR005] The ordinary private sequence supplies local continuities rather than a calendar. The mistaken fur transformation is followed by a ramen invitation presented as its apology, and the cake encounter is followed by thanks and another food invitation. These remembered links justify comparing an injury or embarrassment with a subsequent attempt at company. They do not date every public episode, outfit, holiday, or technological claim. Returning to the same recipient can carry a memory of trouble without displaying a steady lesson learned. A promised noodle outing, the wish for a rematch, and a later experiment all have different temporal standing. [N04:L41,L80; N05:L37,L41; N06:L41; N10:L45; N11:L41; N27:L156]",
+          "",
+          "[SR006] In the ordinary research encounters, success and recipient experience frequently separate. Saya calls the shining body a result in pursuit of immortality, while other club members recall altered skin and refuse new trials. She promises a one-day return, but the afterword still presents Sensei's shining face and a refused sample. In the fur episode she realizes that a different potion was used and apologizes, yet the proposed razor and wanted sample extend the episode's material logic. Neither a successful transformation by her criterion nor a spoken reversal deadline is proof of a completed, safe remedy. The later apology has interpersonal weight precisely because embarrassment and continuing uncertainty are preserved. [N03:L37,L41,L55,L79; N04:L37,L41,L80]",
+          "",
+          "[SR007] The sequence involving Nezusuke makes a qualified acknowledgment especially clear. Saya searches anxiously, accepts Sensei's company, and is relieved by the return. Club members' hypothesis that the animal left because of mistreatment competes with her interpretation of his sounds and the seeds he brings. Her apology for harsh pranks is genuine speech with a limited scope: she exempts serious research and then tries to restrain him while he struggles. The endpoint allows regained company and renewed friction together. It does not show permanent reform, prove the cause of the absence, or turn a happy return into the animal's unrestricted endorsement of future research. [N08:L41,L49,L57,L61]",
+          "",
+          "[SR008] Public comparisons enlarge the repertoire without supplying an ordered improvement ladder. Saya initially declines faction involvement in EVENT826, responds to Rumi's dish, articulates technical limits, and later arrives independently to investigate and help capture Kai. EVENT839 shows requested rest refused by Kisaki; EVENT840 shows Saya freed, thankful, worried, and opposed to Kai's means; EVENT859 shows a late medicine schedule and renewed company. Their internal callbacks and actual endings support situated comparisons. Event identifiers and release carriers alone do not establish that every private deception preceded every public act of care, or that the later act erased the former. [N18:L95,L97,L99,L131,L133; N19:L112,L116; N20:L121,L124; N21:L142,L144]",
+          "",
+          "[SR009] The birthday sequence completes a social event while leaving particular activities less specified. Saya contributes telephone mediation during the mistaken cake deliveries; Chinatsu's medical connection, Mina's proposed warehouse inquiry, Reijo's objections, Rumi's suggestion, the two groups' name permissions, and Hina's and Kisaki's reservations retain independent agency. The source eventually gives karaoke agreement and a party successfully ended, followed by Sensei's pain. That warrants the finished party and agreed activity, not an inspected song, an audiovisual performance, every cake eaten, or a general medical outcome. A shared celebration need not become a tale of Saya alone rescuing everyone. [N27:L156,L158,L160,L162,L164]",
+          "",
+          "## 3. Public/private self",
+          "",
+          "[SR010] The boastful researcher and the person wanting ordinary company can address the same recipient in different ways. In the casual food encounter Saya insists that every invitation is not an experiment, describes a changing menu, and wants to explore unfamiliar routes. In the cake encounter she begins with the loneliness of genius, draws back, and is followed by a concerned Sensei. She wants someone to stay because shared cake tastes better. These are situated self-presentations, not transparent diagnoses of lifelong solitude: Nezusuke is family-like, her peers are present elsewhere, and the teacher's selected answers remain alternatives. Her own admission that she lied about pills also explains why assurances of a normal invitation need testing. [N09:L41,L53,L61; N10:L41,L49,L53,L57; N14:L29]",
+          "",
+          "[SR011] The public researcher can speak limits rather than simply advertise limitless competence. In EVENT826 the demand for a dependable result meets unequal abilities and danger; Saya recognizes the difficulty even while using impossible immortality as a reason for discoveries along the way. The inner plan to investigate the brain is not something everyone in the room has heard. Rumi's agreement to secrecy does not verify its technical prospect. This allows intellectual ambition and practical uncertainty to coexist. The capacity to name a limitation is a real contrast to redefining an injured recipient's condition as a success, but it is not proof that every later experiment is assessed by the recipient's standards. [N18:L97,L99; N05:L37]",
+          "",
+          "[SR012] Written profile and dialogue evidence gives additional forms of address rather than a filmed private life. Remembered birthdays, cheese, food sharing, clothing, and reassurance toward Nezusuke coexist with speculative mixtures, unmade immortality, and minimization of excessive mustard. The costume carrier presents a courteous host and material operator, with conditional availability and thanks; it does not show a completed transaction or reveal the strange stone's properties. These lines enlarge possible social purposes without making every greeting an accomplished visit. Profile degrees and expertise claims remain reported credentials, not inspected educational history or licensed practice. [N14:L29,L41,L61,L71,L81,L91,L101; N15:L51,L61,L71,L81,L91,L111,L115; N16:L29,L41,L51,L61,L71,L81]",
+          "",
+          "[SR013] A secret can protect or compromise the relation depending on whose knowledge is withheld. Saya's inner research plan is preserved as private thought rather than attributed to Rumi or Sensei. Concealing the Shun transformation behind a skin-softening explanation works differently: it can protect a person from public exposure while withholding a relevant account from someone answering a causal question. The gift's later disclosure of expected bodily effects is different again, because Sensei has already objected and drunk the mixture. None of these situations warrants a universal praise or condemnation of secrecy. The audience, purpose, timing, and actual recipient's answer decide the local reading. [N18:L99; N20:L86; N25:L39,L43,L64]",
+          "",
+          "## 4. School/club role",
+          "",
+          "[SR014] The Alchemy Research Society creates a continuing relation among inquiry, labor, and recipients. Its members can refuse further tests and name prior effects rather than merely applaud the genius. A public challenge to technical standards also requires Saya to articulate what the Society cannot promise. EVENT839 attributes suspected substitution to her report and shows her intended review and management of later doses; it does not print an assay, a completed inquiry, or a Society-wide corrective procedure. School affiliation and research role explain access and responsibility while leaving the practical distribution of authority unresolved. [N03:L37,L55; N18:L97,L99; N19:L116]",
+          "",
+          "[SR015] Food exposes the difference between collaborating with someone and imposing a result on them. Rumi's dish draws an initially reluctant Saya into EVENT826; her spoken willingness to eat is a local acceptance of the food. It is not blanket consent to factional demands, every risk, or an enduring political allegiance. Conversely, Saya's attempt to help a chef by treating an unwanted odor creates a result the chef cannot eat, a coughing visitor, and a painful shared meal. Her respect for the professional and his hospitality are not imaginary, but his independent judgment remains a counterweight to her idea of improvement. [N18:L95,L97,L99; N11:L41,L49,L53,L57]",
+          "",
+          "[SR016] Kai supplies a competing allocation of research and bodies. Saya reports the historical removal of Kai from the Society; that is testimony with institutional relevance rather than a newly inspected legal judgment. In EVENT840 Kai offers Kisaki a cure on conditions involving club ownership and continued research, and treats past victims as cases. Kisaki refuses the conditions; Saya can recognize technical proximity while rejecting the means. The teacher acknowledges Saya's earlier trouble while refusing to equate the experiments. This comparison matters because the recipients and the offered arrangements differ. It does not establish a clean history for Saya, completed rehabilitation for Kai, or a perfected alternative research institution. [N18:L133; N20:L100,L104,L114,L124,L126,L128]",
+          "",
+          "[SR017] Meihua and Genryumon contexts remain adjacent responsibilities. Saya's height-related appearance in GROUP340 is a report carried by Kokona, not direct attendance, a witnessed request, or efficacy proof. The group nevertheless establishes that children's wishes, a ruler's rest, and allowed activity have independent value, against which a research-centered reading can be compared. The small Final encounter likewise provides a scoped Shanhaijing institutional context, not Saya's attendance or an institution-wide MAIN census. Neither contextual route substitutes for the separate care institution, its three-child duty, the Genryumon institution, or the Shun–Kokona relationship. [N23:L91,L93,L95,L101,L113,L115,L117,L119; N22:L39-L133; N24:L1-L32]",
+          "",
+          "## 5. Ordinary life",
+          "",
+          "[SR018] Shared eating is a wanted activity in its own right. The ramen apology retains Saya's familiar tastes and invitation to return; the cake encounter makes company part of the pleasure. The later food outing is prompted by thanks for cake, yet Saya chooses a week-long ramen plan despite soliciting a preference. A gift, reciprocity, and misrecognition can therefore coexist. The chef, visitor, and Sensei are not merely supporting props for her taste: their inability to eat, coughing praise, reported surprise, and bodily pain keep the meal's distribution of consequences visible. A warm intention cannot stand in for another person's enjoyable dinner. [N05:L37,L41,L67; N10:L41,L45,L57; N11:L41,L49,L53,L57]",
+          "",
+          "[SR019] The Helmet recipients make the same issue less comfortable. Saya offers a product represented as enabling eating without weight gain; their reported hunger and weakness become evidence for her success criterion rather than an occasion for showing their recovery. Sensei asks after them at the end of a delicious meal, and Saya barely recalls the matter and guesses at what they might eat. The source does not establish starvation death, a medical diagnosis, verified ingredients, or a completed cure. It does establish that their reported experience diverges from her celebratory result and that the inviting dyad does not absorb the unresolved outside recipients. [N05:L37,L41,L82,L106,L128,L150,L172,L186]",
+          "",
+          "[SR020] The two-player board game is a different direction of influence. Saya asks for play, appreciates warm hands, chooses the activity, and becomes distracted by model cheese. She admits defeat and wants another match. Her renewed boast is punctured by another trap, so the ending does not certify greater self-control. Sensei's company here is not principally a clinical intervention or a rescue. Sensory warmth, attention, a comic loss, and a wished rematch are enough to make a meaningful encounter, while neither warmth nor proximity proves romance and the models are not an inspected meal. [N06:L37,L41,L54,L65,L93]",
+          "",
+          "[SR021] Mobility and instruction display another asymmetry. Saya wants new menus and unfamiliar restaurants; lending a skateboard can be an invitation into an enjoyed way of moving. Her claim to natural ability fails to become usable instruction, and Sensei falls. The Japanese account's stopping or catching after the rotations and the next day's bruises preserve both an attempted response and consequential pain; the Korean wording has its own stopping qualification. The promised destination is not shown completed. Ordinary exploration deserves analysis without an injury, and an injury does not make the wanted exploration fake; the question is whether a shared plan makes room for the novice's capacities. [N09:L41,L49,L53,L57,L61]",
+          "",
+          "[SR022] Taste can also produce a successfully heard refusal. In the casual sauce-and-tea encounter, repeated sauce demand displaces research; an employee asks about popular flavors and a mooncake. Spiced tea offends Saya, and she orders it stopped. The narration's later end of the spice craze and apparently costly stock supplies an actual local endpoint without proving a complete market survey or permanent abandonment of a research program. Saya's right to dislike the result helps clarify what is denied to recipients when their own adverse symptoms are redescribed as success. Her taste is an ordinary value and a useful comparison, not a universal legal theory of consent. [N12:L41,L49,L53,L57,L61; N05:L37]",
+          "",
+          "[SR023] The fragrance commission gives a positive labor endpoint with its failure still attached. Saya wants a pleasant park and recognition from visitors; Sensei helps with the bottles, and the board allows hands-free transport along narrow routes. Over-relaxation, loss of focus, and a crash sound expose both collaborators to the intervention. The narration locally says no injury and has them finish spraying carefully; the afterword acknowledges carelessness, wants a gas mask, and thanks the helper. That is completed local work and meaningful gratitude. It is neither proof of a clinically safe formulation nor an excuse to discard the sensory enjoyment the work was meant to provide. [N13:L41,L45,L49,L57]",
+          "",
+          "## 6. Crisis behavior",
+          "",
+          "[SR024] The apparent love-potion encounter shows why desired closeness cannot decide efficacy or permission. Saya first reports attraction and peers' rumors; the claimed potion is pressed upon Sensei with assurances of harmlessness. The bottle breaks, Saya perceives cheese, and the episode includes arm biting until the effect wears off in the afterword. A later account of napping and a dream leaves a gap beside the question about wounds. Neither selecting a reply nor hearing an assurance supplies fully informed assent, and neither the dream report nor the comic frame proves that nothing happened. The mechanism, dose, memory, and romantic meaning remain more limited than the actual printed proximity and pain. [N07:L37,L41,L56,L70,L82,L95,L108]",
+          "",
+          "[SR025] Shun's encounter requires distinct refusals and later requests. She refuses unknown food under Sensei's boundary, evades interference, and faces attempts at restraint involving a proposed potion whose irresistible or paralyzing effect Saya qualifies with 多分. Kirino's witnessing, detention, and lecture establish a local response, not a reviewed conviction or certified safety practice. Later Shun herself asks for the antidote and returns to her usual appearance. Restored Shun apologizes and receives qualified forgiveness; that post-restoration exchange is distinct from her request to Saya and does not backdate consent to the earlier intervention. Continuing wishes for indulgence after restoration resist a reading in which only adult work is her authentic life. [N17:L76,L82,L88,L90,L92,L96,L98,L100]",
+          "",
+          "[SR026] Kisaki's bodily trouble gives another independent recipient position. EVENT839 recalls daily medicines, incense, and stretching with uncertain benefit, and Kisaki says she took medicine that morning. Saya reports a suspected substitution, proposes managing subsequent doses and reviewing the Society, and asks for a week or at least a day of rest. Kisaki refuses while guests remain and promises later convalescence. This is Saya asking Kisaki, not Saya asking Marina. The care relationship contains an actual recommendation and a recipient's competing office commitment; neither suspicion nor the promise supplies an assay, a repaired supply chain, or accomplished rest. [N19:L112,L116,L132,L134]",
+          "",
+          "[SR027] The next public confrontation separates requested care from coerced dependency without promising that all care is safe. Kisaki recounts the body and taste damage of Kai's experiments and the pressure of needing an antidote. She explicitly distinguishes Saya's troubles and freely supplied requested remedies from that conditional arrangement. After the drug-dependent guards obstruct release and Kisaki asserts responsibility, Saya is actually freed, grateful, and concerned for Kisaki; recovering the laboratory's needed medicine remains a task. The release and the recipient's discrimination are consequential achievements. Complete treatment, every guard's recovery, and an enduring clinical account are still unprinted. [N20:L114,L121,L124,L126]",
+          "",
+          "[SR028] EVENT859 retains the difference between feeling better, taking medicine on time, and curing the underlying condition. Saya's elixir and the reversal of Shun's appearance are conveyed with report qualifiers. Kisaki's medicine is late rather than never taken; her call, report of renewed energy, and Saya's reprimand coexist with wanted affection and company. The later checkup and future adherence are not shown, and the return trip's actual enjoyment does not finish the underlying illness. A cared-for ruler remains a person with office, fatigue, social wants, and an independently answering voice, rather than merely a compliance outcome. [N21:L120,L142,L144,L167]",
+          "",
+          "## 7. Sensei relationship",
+          "",
+          "[SR029] Sensei participates through selected responses, refusals, worry, and material help; the role is not a single invariant acceptance of Saya. Refusing a shining sample and a fur sample differ from staying during a search, sharing cake, or helping carry and spray bottles. In the cake scene concern follows a withdrawal of the invitation, so the invitation's completion depends on a second person's initiative rather than Saya's appeal alone. In the board game the shared purpose is simply play. These completed local exchanges support valued companionship while leaving other branches and future visits unaccomplished. [N03:L41; N04:L41; N08:L49; N10:L41,L49; N06:L37,L41; N13:L41,L49]",
+          "",
+          "[SR030] Help can expose rather than cancel a capacity mismatch. Sensei's fall under bad skateboard instruction and shared weakness during fragrance work make the adult vulnerable to Saya's judgments. The teacher's question about the Helmet recipients also keeps an absent group's welfare inside the ordinary meal. In EVENT826 the teacher's risk objection meets Saya's explanation of limits. None of these scenes supports an always-effective adult monitor who guarantees safety or makes the scientist's agency dependent on rescue. The finished fragrance task is collaborative; the questioning and injuries leave different unfinished responsibilities. [N09:L41,L49,L53; N13:L41,L49,L57; N05:L41,L186; N18:L97]",
+          "",
+          "[SR031] The gift is a concentrated case of an accepted object without fully shared knowledge. Saya tries discounted chocolate in immortality research and offers a drink; only later, after Sensei drinks and objects, are expected glow or fur effects disclosed. Saya's reasoning about neutralization remains uncertain, and the final proposal to examine the drink is not executed. Her dislike of chocolate and disposition of the failed product are printed reasons for the unusual gift, not a hidden romance established by interpretation. Later drinking is not retrospective informed assent. The object can matter as a gift and still carry an unresolved recipient cost. [N25:L37,L39,L43,L64,L66; N26:L290,L296]",
+          "",
+          "[SR032] Nezusuke is not reducible to a substitute Sensei, even when Saya compares warmth or seeks similar company. Profile and private scenes establish family-like attachment, years of cohabitation as her estimate, concern during absence, and relief on return. Her account of experimental dosing and demand for endorsement meets frightened nonreply; the animal's later struggle and returned seeds also resist a translation wholly controlled by Saya. Calling the teacher a similar warm presence neither proves a romantic relation nor turns all animal exchanges into human dialogue. Sensei's participation in the search adds a witnessed act of company, while the actual cause of Nezusuke's departure and the breadth of his assent remain open. [N04:L37,L67; N06:L37,L65; N08:L41,L49,L57,L61; N14:L29,L61]",
+          "",
+          "## 8. Major peer relationships",
+          "",
+          "[SR033] Saya's club members preserve a refusal with reasons. Their recalled skin changes explain reluctance; in the later food scene she says they flee invitations and admits deception with pills while denying force. The denial of force does not negate withholding information. Neither account warrants an eternal rejection by every friend: the selected teacher replies and Saya's broad self-descriptions are not an exhaustive peer survey. The significant direction is that their prior experience changes the answer she receives, and that wishing for more company does not itself repair the basis for their distrust. [N03:L37,L55; N10:L41,L49,L53]",
+          "",
+          "[SR034] Saya and Rumi meet through reciprocal appetites and competing purposes. Rumi recruits the reluctant scientist with a particular dish; Saya wants further dishes as well as research, and later thanks are attached to promised prototype food. Rumi hears and agrees to a secrecy request but does not hear Saya's soliloquized brain plan. Saya's unexpected arrival and participation in the Kai inquiry also show an initiative beyond being fed into a coalition. What is completed is actual eating, an independently initiated return, and participation in the confrontation; promised food, remuneration, and broader political repair remain separately unfinished. This comparison does not complete the Rumi directed parent or its distinct Kisaki and Reijo duties. [N18:L95,L99,L131,L143,L147,L149]",
+          "",
+          "[SR035] Kisaki answers care from within a conflicted office. She can request remedies, credit Saya with freely supplying them, refuse rest because visitors remain, reject Kai's offered cure conditions, and later seek companionship while receiving a reprimand over late medicine. Those responses are compatible with bodily suffering and practical dependence; dependence does not erase the observed refusal or make every word of gratitude medical proof. Saya can be concerned and useful without controlling when Kisaki rests, what office means to her, or whether promised later convalescence occurs. Their local differences are not grounds to assign Marina's actions to Saya or make the medicine call a complete institutional health policy. [N19:L112,L116; N20:L104,L114,L121; N21:L142,L144]",
+          "",
+          "[SR036] Shun's independently wanted life remains legible across Saya's interference. Refusal, flight, requested antidote, restored appearance, Shun's subsequent apology and qualified forgiveness, and a continued wish for indulgence all have different directions. Teachers' workload proposals, Kokona's role, and Saya's missed appointment or offered future outing remain contextual obligations, not proof that everyone accepted one plan of care. The private teacher and child directions are separately owned by Shun–Kokona; this package compares the interventions affecting Shun rather than merging all those responsibilities into Saya's relation. It cannot use the later restored appearance to settle biological age, the late written 10144 scope, or unprinted staffing changes. [N17:L76,L82,L88,L90,L92,L96,L98; N01:L279-L302,L303-L339]",
+          "",
+          "[SR037] Kai's position is not a mirror that removes Saya's own contradictions. Saya rejects using people on Kai's terms while recognizing something technically related; Kisaki and the teacher also make distinctions with reasons. Kai's assurances, her follower's pain, coerced antidote dependency, demanded control, and recollection of victims as cases give the disagreement substance beyond a label of villainy. Yet the text does not convert Saya's earlier misleading invitations into harmless incidents or establish every restoration after capture. The comparison sharpens the question of whether a recipient can refuse or demand help without ceding their future, while each actual release, threat, and promised remedy retains its own scope. [N20:L102,L104,L114,L121,L124,L126,L128]",
+          "",
+          "[SR038] Local employees, customers, Helmet members, and birthday participants need not acquire invented biographies to matter. The chef's inability to eat, a visitor's cough, the tea worker's actual line, and the Helmet recipients' hunger and weakness are consequential answers at their source-local scope. The birthday phone route is one contribution among several independent initiatives and objections. Typed labels do not automatically assign a Helmet executive's complaint to Saya, a shopkeeper's line to her, or a staff robot a joined identity. Recipients can be analytically necessary without becoming a new person-count or a generalized public that confirms her character. [N05:L82,L106,L128,L150,L172,L186; N11:L53,L57; N12:L53; N27:L156,L158,L160,L162,L164]",
+          "",
+          "## 9. Language/voice",
+          "",
+          "[SR039] Saya's written first-person styling and explanatory confidence make uncertainty and evasion readable, but no performed sound has been admitted. ぼく様 and なのだ help mark a self-staged genius; 多分 qualifies an asserted bodily effect, while report forms surrounding a reversal prevent a clinical certainty. The analyses distinguish inner text, narration, direct speech, labels, and choices. The late report of a dream does not erase the earlier written action; an inward plan is not something a peer has heard; a narrator's local no-injury claim is not a medical examination. These are literary distinctions in text, not claims about pitch, acting, acoustic delivery, or actual voice consistency. [N17:L88,L100; N07:L41,L95; N18:L99; N13:L41,L57; N21:L120; N14:L29,L101]",
+          "",
+          "[SR040] Japanese and Korean seams affect recipient claims. The skateboard stopping account is not identical across languages; the spicy-meal aftereffect has different durations; a gift's age question and neutralization guess are not reproduced identically. Profile and costume assertions about ability also retain their qualification rather than being upgraded to an all-capable person. The bound arguments preserve these differences without silently harmonizing a multilingual canon. Interpretation here follows the actual accepted Japanese meaning with the declared Korean comparison, and no source-local duration becomes a universal recovery timeline. [N09:L53; N11:L57; N25:L66; N16:L51; N14:L41,L101]",
+          "",
+          "[SR041] Choice form is consequential for answering, not an obstacle to quiet evidence. Concern, teasing, being treated as a member or friend, and material-help replies have alternative conditions; they cannot all be actions one Sensei performed. A singleton option group still preserves a choice carrier, and `branch_effect_known=false` is not a license to invent a joined course. Narration and afterwords can supply actual completion or pain while optional post-scene crowd reports remain scoped. The package therefore compares each printed response at its actual mode, including alternatives that affect how an invitation or objection might be answered, rather than reducing them to one allegedly definitive relationship route. [N07:L82,L95; N09:L53; N10:L49,L53; N12:L49; N13:L45; N25:L64; N27:L164]",
+          "",
+          "## 10. Competing readings",
+          "",
+          "[SR042] **Rival 1 — the comic experimenter makes every injury unserious.** The repeated transformations, cheese traps, improbable motion, and exaggerated symptoms invite a comic reading, and ordinary encounters often end with restored contact. That reading usefully prevents treating every boast as a laboratory protocol. It fails if it erases actual complaints, the teacher's bruises and pain, the Helmet recipients' hunger and weakness, or Shun's refusal. The comic form does not print an assay, universal consent, or durable repair. The supported balance is humor with particular consequences and incomplete tails; neither genre nor an amused ending cancels the independent recipient's answer. [N05:L37,L41,L186; N09:L41,L53; N11:L41,L57; N17:L76,L88,L90]",
+          "",
+          "[SR043] **Rival 2 — attachment is only a means of obtaining subjects.** The shining and fur samples, misleading pill invitations, restrained animal, and late gift disclosure supply serious evidence for instrumental treatment. A reading that recognizes those pressures is stronger than one that uses the word care to cover them. It becomes too broad if it excludes a wanted two-player game, anxiety during Nezusuke's absence, pleasure in company over cake, or thanks after genuinely shared work. Those printed purposes are not automatically disproved by another scene's deception. The unresolved issue is coexistence and local accommodation, not a demonstration that every quiet wish masks a test. [N03:L41; N04:L41; N06:L37,L41,L65; N08:L41,L49,L57; N10:L41,L53,L57; N13:L41,L49]",
+          "",
+          "[SR044] **Rival 3 — a caring genius is misunderstood by anxious recipients.** Saya herself presents harmlessness, expertise, professional respect, and successful results; the useful public remedies and Kai comparison lend the interpretation some force. But recipients have reasons independent of misunderstanding: remembered bodily changes, lied-about pills, a result the chef cannot eat, Shun's clear refusals, and Kisaki's uncertain benefit or rejected rest. Kai's worse coercion does not validate Saya's methods. The qualified positive reading is that Saya can help, recognize limits, and differ in consequential ways, while a recipient's adverse experience need not be corrected to fit her genius claim. [N03:L37; N10:L53; N11:L41,L49; N17:L76,L88; N19:L112,L116; N20:L114,L124]",
+          "",
+          "[SR045] **Rival 4 — later public care proves a completed moral development.** Requested remedies, actual release and gratitude, investigation, apology, and concern are meaningful grounds for comparison. The private local continuities likewise show remembered trouble followed by renewed company. No global chronology joins all of them, however, and Nezusuke's apology immediately exempts serious research. Promised rest, later review, clinical outcomes, and future work remain unprinted. A developmental hypothesis would need secure ordering and evidence that the new recipient boundary survives another consequential challenge. This package establishes recurring tensions and achieved local responses without making event order, outfit, or friendliness a moral ladder. [N04:L41; N08:L41; N18:L131; N19:L116; N20:L121,L124; N21:L142,L167]",
+          "",
+          "[SR046] **Rival 5 — Sensei's benevolent supervision makes the relationship safe.** Sensei objects to risk, asks after absent recipients, follows from concern, refuses materials, and helps with work. Those acts often matter. Yet the adult also falls, shares weakness, drinks before full disclosure, and receives a later question about wounds. The birthday group resolves important matters before the adult arrives, and peers distinguish research terms for themselves. Adult presence neither guarantees information nor monopolizes care. The defensible account is collaborative and uneven agency: sometimes effective objection or help, sometimes vulnerability, and never an inspected universal oversight system. [N03:L41; N05:L41; N07:L41,L108; N09:L41; N13:L41,L49; N25:L39; N27:L158,L162]",
+          "",
+          "[SR047] **Rival 6 — Nezusuke's return proves assent and enduring welfare.** Family-like attachment, searching, relief, and a friendly ending make a stable companion reading plausible. The narration's fear and struggle, club members' mistreatment hypothesis, Saya's different translation, and her renewed research exception prevent that reading from becoming consent proof. Returned seeds do not reveal the animal's motive, and a source withholding species does not permit a clinical welfare model. Continued company is achieved; a full account of the absence or future experiments is not. Sensei's warm-hand comparison does not settle the animal's independently answering position. [N04:L37,L67; N06:L37,L65; N08:L41,L57,L61; N14:L61]",
+          "",
+          "[SR048] **Rival 7 — food and gifts automatically make an exchange reciprocal.** Familiar ramen, cake, thanks, hospitality, actual eating, and the birthday exchange are achieved goods rather than decorative props. But a solicited preference can be displaced by Saya's fixed itinerary, a chef can reject the improvement, a failed experimental product can be given despite concealed expectations, and outside recipients can remain hungry. The answer is not to devalue meals or gifts. Reciprocity must be evaluated in the particular direction: what was offered, known, asked, accepted, refused, accomplished, or left to another person to bear. A pleasant dyad does not pay the cost of an unshown third party. [N05:L37,L41; N10:L41,L45; N11:L41; N18:L95,L147; N25:L37,L39,L43; N27:L160,L162]",
+          "",
+          "[SR049] **Rival 8 — refusing medicine or rest means refusing all care.** Kisaki rejects rest while visitors remain and refuses Kai's conditional cure; Shun refuses unknown food yet later asks for the antidote. These actions demonstrate that refusal can distinguish terms and timing rather than reject help wholesale. Kisaki's requested remedies and later company show valued care without proof of adherence or cure. Shun's continued desire for indulgence prevents her restored appearance from reducing her wishes to proper work. Respect for an independent answer requires preserving precisely which proposal is rejected or requested, including the health consequences and uncertainty that remain afterward. [N17:L76,L90,L92; N19:L112,L116; N20:L104,L114; N21:L142,L167]",
+          "",
+          "[SR050] **Rival 9 — rejecting Kai absolves Saya, or technical similarity makes them equivalent.** Kai's instrumental records, imposed dependency, demanded control, and conditionally offered remedy explain a serious contrast. The teacher explicitly acknowledges Saya's trouble while rejecting equivalence, and Kisaki distinguishes requested, freely supplied medicines. Saya's recognition of technical proximity does not assert the same purpose or recipient terms. Conversely, that contrast cannot erase the pill deception, Helmets' effects, or Shun's earlier restraint. The relationship argument must hold the distinct conditions and the remaining contrary cases together. Actual capture and offered remedy end one confrontation without proving all victim recovery, safe future research, or comprehensive accountability. [N10:L53; N05:L37,L41; N17:L88; N20:L102,L104,L114,L124,L126,L128]",
+          "",
+          "## 11. Evidence route",
+          "",
+          "[SR051] The distinct responsibility is a directed recipient argument, not an aggregate of Saya's character traits or a count of paired appearances. It receives the eleven complete accepted BOND/whole-MomoTalk analytical pairs, their complete private checkpoint, and three complete written carriers; it reuses adequate personally received public meanings and refreshes the consequential recipient paragraphs. Gift028 is wholly received, the actual current gift override is scoped, and the birthday section is complete at its own extent. N22 and N24 supply contextual comparisons only: they establish no Saya attendance and support no school-wide or MAIN absence finding. The inherited all-source admissions belong to Cycle008; this author reception adds no original-primary credit. [N02:L1-L52; N03:L1-L94; N04:L1-L96; N05:L1-L189; N06:L1-L108; N07:L1-L112; N08:L1-L162; N09:L1-L140; N10:L1-L179; N11:L1-L212; N12:L1-L176; N13:L1-L170; N14:L1-L108; N15:L1-L119; N16:L1-L90; N25:L1-L68; N26:L110-L143,L278-L296; N27:L154-L164]",
+          "",
+          "[SR052] Every citation above identifies a bound accepted analytical owner and its physical line, not a new reading of that owner's raw source, every annex, or a multilingual primary. The paired private owners print local continuities, choices, afterwords, actor seams, and rival meanings; the complete current contextual account governs their historical proposal or unadmitted words. The gift's historical database-table hash is not equated with the current canonical carrier. Published bf5 inputs and their same-byte main comparands are separately recorded from mutable progress controls. Metadata records eligibility and allocation; it does not authenticate bodily effects, create named recipients, or constitute independent literary testimony. [N01:L142-L144,L303-L339; N02:L1-L52; N25:L1-L68; N26:L110-L143; C04:L1-L113]",
+          "",
+          "[SR053] The source plan's historical EVENT839 phrase assigning a rest request to Marina is explicitly qualified here: the accepted meaning has Saya asking Kisaki to rest, Kisaki refusing for the visit and promising later convalescence. The frozen metadata proposal remains unchanged. This body and its operative receipt use the actual actor relation; Marina remains contextual unless an independent positive passage is received. The birthday source similarly supports an agreed karaoke activity and completed party while leaving performed songs uninspected. Precision qualifies what can be claimed without discarding the valuable care or pleasure that the source actually prints. [N19:L116; N27:L158,L162,L164]",
+          "",
+          "[SR054] The sources leave a finite literary completion rather than a model of safely reproducible intervention. Printed endpoints include returned company, a refused sample, lost play, actual meals, painful aftermath, successful local work, requested reversal, actual release, accepted or refused terms, a late medicine call, and a completed party. Unprinted clinical, legal, institutional, or relational tails are kept alongside them. These distinctions allow the package to be independently retrieved for its sustained recipient question while leaving the Saya character, Rumi parent, Shun–Kokona relation, care institutions, and other directed packages necessary in their own scopes. No heading, cited secondary body, or allocation supplies completion for those responsibilities. [N03:L41,L79; N08:L41; N06:L41,L93; N11:L41,L57; N13:L41,L57; N17:L90; N20:L121,L126,L128; N21:L142,L167; N27:L162]",
+          "",
+          "### Claim-specific effects of the original fourteen OPEN gaps",
+          "",
+          "| Gap | Status | Effect on this directed argument |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | OPEN | Complete available Saya private analytical meanings support these distinct encounters and intrinsic pleasures, not a whole-person envelope or every recipient's life. The many ordinary goods cannot be filtered by stakes. |",
+          "| G02 Yuuka council/club decision transfer | OPEN | No new Yuuka decision domain, fiscal outcome, or private transfer is established by Saya's research or a general comparison of initiative. |",
+          "| G03 Serika service, peer and reciprocity range | OPEN | Saya's service, taste, gift and reciprocity cases add no Serika route, stranger-response generalization, or universal cafe relation. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | OPEN | Hina's birthday reservations are independently voiced company evidence; they neither close NK Ultra responsibility nor prove durable victim repair. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | OPEN | These food, care, research, and body-restoration cases provide no Arius/PS68 chronology, legal repair, institutional restoration, or equivalent suffering model. |",
+          "| G06 Cross-school ordinary repertoire | OPEN | Particular teachers, peers, staff, club members, and birthday participants broaden comparison without a school-wide prevalence or all-private repertoire claim. |",
+          "| G07 Story-world chronology | OPEN | Fur/apology and cake/thanks links support local order; identifiers, variants, gifts and birthday dates without a year cannot supply a universal developmental timeline. |",
+          "| G08 Event naming and repeat contexts | OPEN | Stable event IDs and source objects govern retrieval; no missing overarching title, rerun world-state, or duplicate event identity is invented. |",
+          "| G09 Written speaker/choice attribution | OPEN | Inner text, narration, choices and localized Helmet/shopkeeper/employee seams remain distinct; no label repair, fused alternative reply, or unheard thought becomes public agreement. |",
+          "| G10 Performed voice | OPEN | Written register and accepted Japanese/Korean comparison do not supply acting, pitch, sound, audiovisual biting, karaoke singing, or performance consistency. |",
+          "| G11 Hoshino's Yume record and office states | OPEN | A local recovery, apology or resumed relation supplies no Hoshino office-state join, authenticated Yume record, death-causality account, or lasting stabilization. |",
+          "| G12 Counterpart, system and variant identity | OPEN | The secure Saya forms retain their given person binding without a growth ladder; species, anonymous staff, 10144, generic children and Final-local roles are not silently joined. |",
+          "| G13 Office, contract, safety and technical outcomes | OPEN | No clinical efficacy, verified dose, universal harmlessness, legal detention judgment, durable supply repair, paid remuneration, completed later checkup or comprehensive victim recovery follows from local achieved goods. |",
+          "| G14 Unclassified/mode continuity | OPEN | Written profile, costume, BOND/whole-message, gift, MINI and public contextual modes remain labeled; database/current-carrier equivalence, unknown classes and performed continuity are not inferred. |",
+          ""
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          156,
+          156
+        ],
+        "canonical_lines": [
+          172,
+          172
+        ],
+        "original_lines_complete_text": [
+          "[SR055] The exact [source and custody receipt](SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json), [claim, ending and rival register](SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json), and [saved-body receiving receipt](SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1.md) expose the actual source extents and local endings. The [architecture](bound_source_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) owns the specialist responsibility; the [current admission checkpoint](bound_source_inputs/C04_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) owns selected source admission. These working copies provide transport for review and carry no new source credit. All fourteen gaps remain OPEN; no ROOT acceptance, canonical installation, or denominator change is asserted."
+        ],
+        "canonical_lines_complete_text": [
+          "[SR055] The exact [source and custody receipt](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_INPUT_AND_RECEIVING_RECEIPT_V1.json), [claim, ending and rival register](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json), and [saved-body receiving receipt](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1_V1.json) expose the actual source extents and local endings. The [architecture](../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md) owns the specialist responsibility; the [current admission checkpoint](../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md) owns selected source admission. These working copies provide transport for review and carry no new source credit. All fourteen gaps remain OPEN; no ROOT acceptance, canonical installation, or denominator change is asserted."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46781,
+      "sha256": "cfd65880a120d5e2fa999ca7129ac39da2af4175649b3dedfaeed813bf03e3fb",
+      "git_blob_oid_of_actual_bytes": "fdbc7b952a0ffeaa05943b0c53854a7543247114",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json",
+      "bytes": 75326,
+      "sha256": "506e62b83eeb44e0a0460714f2587dffec7b5964cf0ab5a3b5fa59356ab2cfaa",
+      "git_blob_oid_of_actual_bytes": "751fa013e01ad6740f9e3d62a5411b6c3eedc464",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_AUTHOR_COMPLETE_SAVED_REVIEW_AND_EXACT_FREEZE_V1.json",
+      "bytes": 10702,
+      "sha256": "566520dcd086790561ca4375bc3695304f4e203c85bcfc04508d1d9bcd846848",
+      "git_blob_oid_of_actual_bytes": "c314499285541fc649844759ea7956729e42a514",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_AUTHOR_COMPLETE_SAVED_REVIEW_AND_EXACT_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_SAYA_RECIPIENTS_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+      "bytes": 6167,
+      "sha256": "14fef2e892f87fcaa00cea10294e8ec44638f4524a71f8259e7f935c43cf0b1c",
+      "git_blob_oid_of_actual_bytes": "e0b264d32e03de2abe9b8520e4dc0c1c55d0014b",
+      "immutable_transport_path": "immutable_originals/ROOT_SAYA_RECIPIENTS_COMPLETE_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_FINITE_EXACT_VERIFICATION_RESULT_V1.json",
+      "bytes": 43314,
+      "sha256": "7e4eb2b36a138bdecf877c07c243d16bff125d7af206d7e4367b8a1f29de8819",
+      "git_blob_oid_of_actual_bytes": "9095ba681125dbb7499a735c88f612222caab3e1",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_FINITE_EXACT_VERIFICATION_RESULT_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_INITIALLY_BOUND_NORMAL_INPUTS_AND_MATERIAL_READING_DEBT_V1.json",
+      "bytes": 44730,
+      "sha256": "4709ba781def922e811b1849b3c083201926fff2ffd7f30902cba63925c52da8",
+      "git_blob_oid_of_actual_bytes": "f775087e8586fe9cfebd5523f6c9e43136942a57",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_INITIALLY_BOUND_NORMAL_INPUTS_AND_MATERIAL_READING_DEBT_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_PREFREEZE_SHUN_APOLOGY_ACTOR_PRECISION_V1.json",
+      "bytes": 6442,
+      "sha256": "22d36d980eaa763b53e93832fdee913e5ac573550f57902d21b2448bee3b9f22",
+      "git_blob_oid_of_actual_bytes": "b99b4fc65e971cfd37971e0a4382486526672583",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_PREFREEZE_SHUN_APOLOGY_ACTOR_PRECISION_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json",
+      "bytes": 565883,
+      "sha256": "6596b8deb6bcd42a5eac782ebd2026f76c199a94c566250c7e602cd2e427605b",
+      "git_blob_oid_of_actual_bytes": "f94921d1355cedd95674d6731d4e94c6a369393b",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1.md",
+      "bytes": 8842,
+      "sha256": "967cc3f42e84d3f1dc75631f5cca4ca0d423f8a5f887af6598bbe6c421ebb853",
+      "git_blob_oid_of_actual_bytes": "b2f954da2808a0d1a7397dcbcf04719ead34f0cc",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1.md"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 46664,
+      "sha256": "8ecc0b64932ef62aa812fdc026bcf2467ea047ee412357eaad40f21c5a44acab",
+      "git_blob_oid_of_actual_bytes": "77daa4683042465de65110fcd6dc3744286cb260",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json",
+      "bytes": 565482,
+      "sha256": "5d51c8d6db58b140eb377a88311faf201eebcb850381729b4678d13288faad8b",
+      "git_blob_oid_of_actual_bytes": "4b9d68b27acee42edadbb4d9631348603a625870",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json"
+    },
+    {
+      "path": "SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json",
+      "bytes": 74388,
+      "sha256": "41c5464ef6cd87f51cd0965444e8b89f43656bdf84873248c5b838414ac2cd66",
+      "git_blob_oid_of_actual_bytes": "04caa2f8133260d6934f94cc145b532411eec3c0",
+      "immutable_transport_path": "immutable_originals/SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS/unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json"
+    }
+  ],
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 742227,
+      "sha256": "29561299842cc632260d78c3ed37f45d5bef52e71268b043114e356c82649a4d",
+      "git_blob_oid_of_actual_bytes": "880d60664f99d9914e3993aa4e3f22f7b8cb5817",
+      "attachment_names": [
+        "SAYA_RECIPIENTS_FINITE_EXACT_VERIFICATION_RESULT_V1.json",
+        "SAYA_RECIPIENTS_INITIALLY_BOUND_NORMAL_INPUTS_AND_MATERIAL_READING_DEBT_V1.json",
+        "SAYA_RECIPIENTS_PREFREEZE_SHUN_APOLOGY_ACTOR_PRECISION_V1.json",
+        "SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json",
+        "SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1.md"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_02_V1.json",
+      "bytes": 672728,
+      "sha256": "f4e7eebd817bea96c5b6b6980ef669c8f55c8849110c6fae07c65b110a5a1c15",
+      "git_blob_oid_of_actual_bytes": "231fc0ecf001691f75344fc0b07a6dbd9c00cbd9",
+      "attachment_names": [
+        "unsealed_beforeimages_shun_actor_precision/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+        "unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json"
+      ]
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_AUTHOR_ATTACHMENTS_PART_03_V1.json",
+      "bytes": 84306,
+      "sha256": "4333993a340bc0f6f37c80dcc702ac1454513ee2e71d8e6bd2992e509ad0c9fb",
+      "git_blob_oid_of_actual_bytes": "6b3596e85a18a6717892302c0bb8ffb91db401d2",
+      "attachment_names": [
+        "unsealed_beforeimages_shun_actor_precision/SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json"
+      ]
+    }
+  ],
+  "canonical_link_translations": [
+    {
+      "original_candidate_href": "SAYA_RECIPIENTS_RELATIONSHIP_SOURCE_AND_CUSTODY_RECEIPT_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "operative_canonical_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "occurrences": 1
+    },
+    {
+      "original_candidate_href": "SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1.json",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json",
+      "operative_canonical_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_CLAIM_ENDPOINT_AND_RIVAL_REGISTER_V1_V1.json",
+      "occurrences": 1
+    },
+    {
+      "original_candidate_href": "SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1.md",
+      "repository_relative_target": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1_V1.json",
+      "operative_canonical_href": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_SAYA_RECIPIENTS_NAV_SAYA_RECIPIENTS_RELATIONSHIP_COMPLETE_SAVED_BODY_RECEIVING_V1_V1.json",
+      "occurrences": 1
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "repository_relative_target": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "operative_canonical_href": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+      "occurrences": 1
+    },
+    {
+      "original_candidate_href": "bound_source_inputs/C04_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "repository_relative_target": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "operative_canonical_href": "../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+      "occurrences": 1
+    }
+  ],
+  "mandatory_operative_qualification": "All156 literary lines, six recipient question families,45 finite end cases and nine rivals retain distinct recipients, actual rest refusals, gifts, inquiry and restored Shun's own apology. Historical plan actor errors are qualified by the full operative source/precision receipts. Saya's character, Meihua and every separate directed responsibility remain distinct.27 adequate normal scopes and original mode/identity/chronology limits are preserved; copies add no original-primary credit. 2026-10-11 operative correction: The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established. See operative_source_consistency_correction and its versioned register; historical wording is retained without current endorsement of these corrected details.",
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "operative_source_consistency_correction": {
+    "register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEVEN_SOURCE_CONSISTENCY_CORRECTIONS_20261011_V1.json",
+    "correction_ids": [
+      "BA-SC-20261011-05",
+      "BA-SC-20261011-07"
+    ],
+    "qualification": "The joint capture resolves the local collaborators/conduit; Kai and her larger project remain unresolved. The board-game trap punctures Saya's renewed boast before the later MomoTalk admission of loss and wish for a rematch; no rematch or future win is established.",
+    "effective_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 50018,
+      "sha256": "aefc05761d2752ac238e1ad62fd96a3dc9f3f08492f0f981e7a73d852c69f50a",
+      "git_blob_oid_of_actual_bytes": "1dd2cf7e7930bd49a045588a48551914cba9a419"
+    },
+    "prior_canonical_body_exact_tuple": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_SAYA_RECIPIENTS_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 49617,
+      "sha256": "c268fb7f5e8d34f865d4c7b995edc1af00505e3ff5761b062b1be44ba59c7b5e",
+      "git_blob_oid_of_actual_bytes": "3f5261d7f1cd0cc256fb6de1df9838d25e61adcf"
+    },
+    "preservation": "Original author/ROOT payloads, receipt decisions, source and paragraph hashes, attachment tuples, authority-framing snapshots and complete inverse ranges remain historical and unchanged. This dated correction governs current claim/endpoint use and the effective body binding; earlier canonical tuples and exact-unchanged-line labels describe the pre-correction snapshot. It does not claim new ROOT receiving, primary/media inspection, source admission, character identity, package, model, milestone or integration credit."
+  }
+}

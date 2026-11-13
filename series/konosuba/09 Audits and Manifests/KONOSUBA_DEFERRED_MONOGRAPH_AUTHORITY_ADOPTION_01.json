@@ -1,0 +1,1430 @@
+{
+  "schema": "konosuba.deferred-monograph.authority-adoption.v1",
+  "authored_utc": "2026-10-26T22:17:48.039224+00:00",
+  "status": "AUTHOR_SEMANTIC_ADOPTION_ACCEPTED_PENDING_CONTAINING_PUBLICATION",
+  "basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+  "decision": "Thirty-two existing scoped monographs/studies are accepted as current provisional interpretations at their recorded boundaries. Initial body bytes remain exact; machine authority is made explicit with a complete quartet and a visible adoption notice. This is not a blanket maturity, tier, identity, discovery-enrollment or capability decision.",
+  "receiving": {
+    "complete_proposal_packet_sha256": "60dd1cbb34e66ccd4eed0d19b8d119abcaef6c12ba580cd90b9761db501d77f0",
+    "root_complete_proposal_receiving": [
+      "c077ab",
+      "2cd903",
+      "22b1d1",
+      "59d505"
+    ],
+    "root_complete_existing_C46_qualification_receiving": "6fb460",
+    "reviewer": "Separately delegated authority reviewer, same AI lineage; all32 substantive bodies received, introduction/middle/conclusion and major actor/relationship references checked.",
+    "root_acceptance_scope": "Complete transferred adoption arguments, controlling qualifications and exact inheritance of previously received and published substantive bodies. New authority decision; no fresh raw-source completeness or statistically independent validation claimed."
+  },
+  "original_core_preservation": "Each original entire byte stream is an exact suffix after a separately attributable metadata/adoption prefix. Historical receipts, foundation files, models, rules, prompts, firsts, scores, adverse findings and nulls are not edited. Snapshot hashes remain statements about their original commits.",
+  "authority_limits": "No monograph in this tranche has an explicit perpetual byte-/archival-lock declaration in the reviewed owning records. Explicitly immutable tested models are excluded and require separate disposition; no authority state is assigned merely to pass validation.",
+  "C46_current_qualifications": {
+    "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json",
+    "sha256": "1b270b19d8b119d6ebb785ac4a66112a2665b1abf7dc85e546f9ba80488d0c0f",
+    "ids": [
+      "C46-PFQ02",
+      "C46-PFQ03"
+    ],
+    "full_qualifications_control_the_retained_overbroad_initial_wording": true,
+    "pending_at_authorship_status_is_historical_after_closed_cohort46_publication": true
+  },
+  "accepted_artifacts": [
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DRYAD_CHARACTER_MONOGRAPH.md",
+      "title": "The YORI02 dryad: living dependents, unequal demands and a negotiated limit",
+      "cohort": 44,
+      "old_bytes": 10867,
+      "old_sha256": "1cf5378ebe52de18ca467e84311826b06252c026f1daf73bbd140e6913352de0",
+      "new_bytes": 12211,
+      "new_sha256": "7568ec0599997f250fa64c5a539a62f2892fd4b94e27388860b05dd00ce4d01b",
+      "prefix_bytes": 1344,
+      "prefix_sha256": "7a67cfc5ad6df130a4540a1fbed817b2116fc99d3d6902ee607aca82d38f8096",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+      "scope_rationale_and_limits": "Living-plant objection, wanted water, unequal demands, finite power and reported settlement; speech mediated through Aqua, no future service performed.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor.",
+        "generation": "COHORT44_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "1cf5378ebe52de18ca467e84311826b06252c026f1daf73bbd140e6913352de0"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "92ecc6f4274c886425157656bd2250fb1f361a1aad256972ac0d386c20175974"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+        "sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_NOBLE_DINNER_HOST_CHARACTER_MONOGRAPH.md",
+      "title": "The YORI02 dinner host: hospitality, a useful debt and concealed extraction",
+      "cohort": 44,
+      "old_bytes": 9911,
+      "old_sha256": "33ac15866726fc7673503006fe64c78bc5ba8c28988d76d72f5a4911f7f5a6dc",
+      "new_bytes": 11255,
+      "new_sha256": "2a90f4eb0d9ef4def7b3d5507237bbc9c329d8fb61825e25f35bebd3a5a02643",
+      "prefix_bytes": 1344,
+      "prefix_sha256": "11c79e1a0f7e593d6d821b6338550949e33987d4f77c17279a0181cd615fe2a8",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+      "scope_rationale_and_limits": "Specific host identity and act/line exclusions; useful debt, incomplete employee framing, admitted extraction and flight with no final arrest/placement.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor.",
+        "generation": "COHORT44_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "33ac15866726fc7673503006fe64c78bc5ba8c28988d76d72f5a4911f7f5a6dc"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "92ecc6f4274c886425157656bd2250fb1f361a1aad256972ac0d386c20175974"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+        "sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WHITE_TIGER_MOTHER_CHARACTER_MONOGRAPH.md",
+      "title": "The YORI02 white-tiger mother: entrusting care without surrendering agency",
+      "cohort": 44,
+      "old_bytes": 9115,
+      "old_sha256": "f30b9e6219071d29c560664c946b3344ac57ca60005c9f5b91bc46c686672701",
+      "new_bytes": 10459,
+      "new_sha256": "7be55c6139f7c75d8e8f94f2d257d3c131db69b5edec5257f81ebbe5832677f0",
+      "prefix_bytes": 1344,
+      "prefix_sha256": "53751c82039399d3f75aa4405aa272afc5937eb42ac840c8e1659494cc8ea921",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+      "scope_rationale_and_limits": "Entrusts cub, returns/waits and forcibly transports Aqua; maternal motive partly inferred, no animal dialogue or perfected care policy.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor.",
+        "generation": "COHORT44_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "f30b9e6219071d29c560664c946b3344ac57ca60005c9f5b91bc46c686672701"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "92ecc6f4274c886425157656bd2250fb1f361a1aad256972ac0d386c20175974"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+        "sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SIEGWALD_CHARACTER_MONOGRAPH.md",
+      "title": "Siegwald: ordinary needs inside a projected military future",
+      "cohort": 44,
+      "old_bytes": 9034,
+      "old_sha256": "891d66ba9f60eca5370dfc6b3754bce2586b94c97f0a535f244d3e7af0a78c3c",
+      "new_bytes": 10378,
+      "new_sha256": "c9dbb4330c32d2a16808d56cb53a8e9e5eff4b48f66027d58a0af6cfd8fe3546",
+      "prefix_bytes": 1344,
+      "prefix_sha256": "76b1e647c6a7a9ebb7edb582a0c2e7024dd0355a516f0957d0bb5036c9c31508",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+      "scope_rationale_and_limits": "Positive native name/nickname joins; multi-phase ordinary care/play/garment behavior, human projections and unshown later life retained.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor.",
+        "generation": "COHORT44_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "891d66ba9f60eca5370dfc6b3754bce2586b94c97f0a535f244d3e7af0a78c3c"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "92ecc6f4274c886425157656bd2250fb1f361a1aad256972ac0d386c20175974"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+        "sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_WOLBACH_FOLLOWER_CHARACTER_MONOGRAPH.md",
+      "title": "The unnamed YORI02 Wolbach follower: reverence, leverage and failed superiority",
+      "cohort": 44,
+      "old_bytes": 9221,
+      "old_sha256": "cfb1bcd7ca71abb8896a037a93ea05a31689f5eb7ee0ea9c4c7cee7b32b16a69",
+      "new_bytes": 10565,
+      "new_sha256": "426978ef9b695865bc5da02f2b4ea367e8fc770f7d80014fda1ef4291c4f4301",
+      "prefix_bytes": 1344,
+      "prefix_sha256": "7d57b8ac104ee6cc5851a1b0dc31f797a2986322df2491580c8a7239cd6b7959",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+      "scope_rationale_and_limits": "Particular unnamed abductor, revised leverage and harmful action with false sexual allegation corrected; no Hoost/Arnes name join.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor.",
+        "generation": "COHORT44_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "cfb1bcd7ca71abb8896a037a93ea05a31689f5eb7ee0ea9c4c7cee7b32b16a69"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "92ecc6f4274c886425157656bd2250fb1f361a1aad256972ac0d386c20175974"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+        "sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STORM_GREAT_SPIRIT_CHARACTER_MONOGRAPH.md",
+      "title": "The YORI02 storm spirit: distress, refusal and a contested return gift",
+      "cohort": 44,
+      "old_bytes": 9264,
+      "old_sha256": "edb7be169033e01cfdab4832b690657d293aab65809291b2470c07d58dffa4b3",
+      "new_bytes": 10608,
+      "new_sha256": "9b5da80ec02ccce0cc37f76dbd1c4e7b8157524c3969f754580ad46d88eed25b",
+      "prefix_bytes": 1344,
+      "prefix_sha256": "151c77ef3743596d27ad70bc061b54cfb2adda07ec97de961fe304fdbffe9752",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+      "scope_rationale_and_limits": "Observed refusal/defense/provoked pursuit/calm/bow; translated physiology and unperformed final gust remain distinct.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 44 context totals are not independent observations for this actor.",
+        "generation": "COHORT44_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-02 ten paragraph/ruby projections, 2675 P/2530 ruby; each study remains bounded to its identified U012/U016/U018/U020/U022 encounter.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "edb7be169033e01cfdab4832b690657d293aab65809291b2470c07d58dffa4b3"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "92ecc6f4274c886425157656bd2250fb1f361a1aad256972ac0d386c20175974"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_FOUNDATION_FREEZE_01.json",
+        "sha256": "8e5122a34c3c31379edc8dd2906b24a4deaec24e96aa88ddcd891668ca6959d6"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT44_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "cdc7c0f8431b224266443251ae54876fe1ac5803b2674c0a6e2a40b13783e541"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_SHUMEL_CHARACTER_MONOGRAPH.md",
+      "title": "Shumel: a disputed name, an unequal raid and a costly assertion of rank",
+      "cohort": 45,
+      "old_bytes": 12716,
+      "old_sha256": "8dc54bc0d2d1a2b276d133a9c09cc8de9b64734c5ea758217261a51fab0984cf",
+      "new_bytes": 14091,
+      "new_sha256": "2dcf7e6e04d86af150ea88bdf0d6a0ed7145b1f3dfedd044691420468d80ac5c",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "048d0e6a62b1c95d91cbc046f95628975b63a4cdf54dbc6ce28b03b32d55faa3",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Native named woman; explicit address boundary and harmful costly cast with unequal raid, ancestry uncertainty and failed control.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "8dc54bc0d2d1a2b276d133a9c09cc8de9b64734c5ea758217261a51fab0984cf"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_VICE_CHARACTER_MONOGRAPH.md",
+      "title": "Vice: public certainty, a mistaken addressee and a marriage under pressure",
+      "cohort": 45,
+      "old_bytes": 10325,
+      "old_sha256": "07d3e9df84065ff9b942d0acb0e9f7e1705d8d8339ce1427c02420a37b3e31dd",
+      "new_bytes": 11700,
+      "new_sha256": "db57377e3d785b9414428c3bb08375f05c81908da5dc786921342d4adcb0f076",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "ea3bd0e3ac20c6304efa9d9d64fdc74ef53626b3846c6c1c129585eaf0d137f2",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Mistaken identity, changing public certainty, duels and coercively constrained marriage; no free happiness or unlimited finances.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "07d3e9df84065ff9b942d0acb0e9f7e1705d8d8339ce1427c02420a37b3e31dd"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILAC_LALATINA_CHARACTER_MONOGRAPH.md",
+      "title": "Lilac’s Lalatina, later Lalatine: a winning claim and a false past",
+      "cohort": 45,
+      "old_bytes": 9294,
+      "old_sha256": "a1561c41dd4cae21b979a968bd36bc8f565ffc378ff72e209d25d454e8e86d19",
+      "new_bytes": 10669,
+      "new_sha256": "e9ad1e88707e1f7d4a917921530e5b46881831ae52b81d1bf2b1e30fa2730666",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "4552204164f77ad3ec40fb347b838d8e03da3b8ccf073d0895bafa2f67a5236c",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Positive renamed Lalatine join; false romantic past, claim over Vice, constrained settlement, no Darkness/pupil conflation.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "a1561c41dd4cae21b979a968bd36bc8f565ffc378ff72e209d25d454e8e86d19"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TIA_CHARACTER_MONOGRAPH.md",
+      "title": "Tia: the victim claim, forgiveness and an active challenge",
+      "cohort": 45,
+      "old_bytes": 8894,
+      "old_sha256": "1f7e47055bcc26780024fe4acf3d75065f569b7a56bf97b0ec0c3b220d869020",
+      "new_bytes": 10269,
+      "new_sha256": "5ec5cd97ae3f3cd4a046a07e5f15edb31b13ce343f85fd415828001a8ab605af",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "b65a2ddc50293b279a8973722a52e6d78a2f0738dca09e890709ef80bb606b6f",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Separate staged victim claim, forgiveness then challenge, mediated motives and forced settlement; no borrowed direct idiolect.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "1f7e47055bcc26780024fe4acf3d75065f569b7a56bf97b0ec0c3b220d869020"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LILIANTINE_CHARACTER_MONOGRAPH.md",
+      "title": "Liliantine: learning from a teacher whose fiction she enjoys",
+      "cohort": 45,
+      "old_bytes": 10540,
+      "old_sha256": "063e68e68878f6316c9ccad7b850de9ec73ea04a7c6e27c6f7f5fad6a2180ebc",
+      "new_bytes": 11915,
+      "new_sha256": "5b927e246f6f391f1f592fb68df5e9a00861ad797855dd12e24f4510a1e93692",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "d08e711bf5ce3a8e151711f8a80f940ea0eecc55502f09b739a2d18191adee85",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Named child learner; inquiry, grades, knowingly enjoyed fiction and pose imitation with consequences; no invented adult motive or global skepticism.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "063e68e68878f6316c9ccad7b850de9ec73ea04a7c6e27c6f7f5fad6a2180ebc"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_MELVIREI_CHARACTER_MONOGRAPH.md",
+      "title": "Melvirei: observed capability and the minds others assign to a growing creature",
+      "cohort": 45,
+      "old_bytes": 10644,
+      "old_sha256": "d75f585cdfc95999a3f3eff1ccc7dbdda81157c3c097fc46e6ea91043203d98f",
+      "new_bytes": 12019,
+      "new_sha256": "bef838add34becadf1ab4764a30a883385ba7e7d5d5c7ec71e057e662cd0e8f1",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "199121d65c98e347a62ad92e4ab49abea44b12f098cafb41eafc9b968c737173",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Continuous creature across mistaken classifications; observed resistance/growth/water/healing, inferred strategy/comprehension/weather kept uncertain.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "d75f585cdfc95999a3f3eff1ccc7dbdda81157c3c097fc46e6ea91043203d98f"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_LAST_LIFE_SUCCUBUS_OWNER_CHARACTER_MONOGRAPH.md",
+      "title": "The last-life dungeon owner: concessions that do not secure her own rescue",
+      "cohort": 45,
+      "old_bytes": 10159,
+      "old_sha256": "1262c67dadada1a4407c9f40a751882fff9496308e4238ee631c4126a3e911f3",
+      "new_bytes": 11534,
+      "new_sha256": "77a3ef723daac0398a347225538003bec7d91673b5bf0e1270f851acdfef03f8",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "b8f8cbe533cd93838df99b2d7f0dce49f84fc07b5af036de00b58a208918b121",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Finite-life claim, revised concession, outside rescue and performed gratitude; distinct succubus owner, no completed property surrender.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "1262c67dadada1a4407c9f40a751882fff9496308e4238ee631c4126a3e911f3"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_CRANK_CHARACTER_MONOGRAPH.md",
+      "title": "Baron Crank: the claims he contests and the conduct he admits",
+      "cohort": 45,
+      "old_bytes": 8945,
+      "old_sha256": "45e2442f7020450e0e90a440d7ddb3576053cd56a73246e2b3af48373435c49f",
+      "new_bytes": 10320,
+      "new_sha256": "ae3b819cccf897dbd66cbfeeaecf310fb37c0d4e2d242af6ed4d575274e05f1f",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "179d715251c1a6eacda7b9578e12ca5ab9cc85944c2f576b73a0c51b7e515ce1",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Distinct inspected baron; contested trade purpose versus admitted harassment and found contraband; no total innocence/guilt inference.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "45e2442f7020450e0e90a440d7ddb3576053cd56a73246e2b3af48373435c49f"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI03_SUCCUBUS_MESSENGER_CHARACTER_STUDY.md",
+      "title": "The YORI03 rescue messenger: discretion, a refused appeal and another route to help",
+      "cohort": 45,
+      "old_bytes": 10358,
+      "old_sha256": "d1704a28e843b2cd69914b550549960cb59fa00ab98f8f340a526861857fe0d1",
+      "new_bytes": 11729,
+      "new_sha256": "24873c0a4353e489f7945c4b81a0117a7c543e7a8342e3b07fca239464851956",
+      "prefix_bytes": 1371,
+      "prefix_sha256": "1cb80b7e7961dba9a9cbb5988eafe79861501b80c6e18971f22cf46a6f274bf9",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Event-scoped substantial agency, discretion, limits and logistics; personal-name bridge to Lolisa/open worker routes remains OPEN, no new distinct-person claim.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_study",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "d1704a28e843b2cd69914b550549960cb59fa00ab98f8f340a526861857fe0d1"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KNEE_INJURED_VETERAN_CHARACTER_MONOGRAPH.md",
+      "title": "The knee-injured veteran: refusal before proof and expansive repayment after recovery",
+      "cohort": 45,
+      "old_bytes": 12577,
+      "old_sha256": "347640b9a460a335f7ff754edbc5f38474a4106ba04f18166b78ef455d0c1cc4",
+      "new_bytes": 13952,
+      "new_sha256": "6cc26897f736e1fbc6dc90987d4acf5711c5d76ff01d348165eb0a2cccacb886",
+      "prefix_bytes": 1375,
+      "prefix_sha256": "2f0b68fb05de3aebde889ae6273f5a5389ce7d2c64074186ab419a2268839de1",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+      "scope_rationale_and_limits": "Branch2 refusal and branch3 repayment belong to differently informed counterparts; unconsented treatment, real help and bounded means remain.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 45 context totals are not independent observations for this actor.",
+        "generation": "COHORT45_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI-03 five paragraph/ruby projections, 3006 P/2745 ruby, plus declared bounded EXP03 identity return; each monograph retains its member/route and narrator constraints.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "347640b9a460a335f7ff754edbc5f38474a4106ba04f18166b78ef455d0c1cc4"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "8d4479e0a2f8417b2bc4fbd1d26a4eb4d5479ba4ca8e336b690eecec3270c19c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_FOUNDATION_FREEZE_01.json",
+        "sha256": "f6d19bf173327abb8893b934b152ead4b78941f0cd443a394ff0d4b37021ac6b"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT45_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "c5ec7a89514fef6908b53fa6b6cbd695af8bbe755e0e00b6e5c9b13b76612173"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANGIE_CHARACTER_MONOGRAPH.md",
+      "title": "Angie: being the senior, carrying the cost and misreading Axel",
+      "cohort": 46,
+      "old_bytes": 11700,
+      "old_sha256": "941086ad41d0c769ee7aa4faaf1026950ac5327300f0a49f910a0ad47505be91",
+      "new_bytes": 13692,
+      "new_sha256": "664b12d357a5f57ed0f4bb794149c5cc01e56e508c2275192c79de3a730a71df",
+      "prefix_bytes": 1992,
+      "prefix_sha256": "e02e39153eddfa123b1dd6d21e24cbf5b8b18952497fa5d576faaf258e65bb04",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+      "scope_rationale_and_limits": "Named senior/class miscalibration with real protection, fear, resources and unjust blame; C46-PFQ03 controls unshown injury/Heal, PFQ02 separate Dark Stalker payment issue.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor.",
+        "generation": "COHORT46_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "941086ad41d0c769ee7aa4faaf1026950ac5327300f0a49f910a0ad47505be91",
+        "current_source_qualifications": [
+          "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json"
+        ]
+      },
+      "controlling_qualification_ids": [
+        "C46-PFQ03"
+      ],
+      "qualification_sha256": "1b270b19d8b119d6ebb785ac4a66112a2665b1abf7dc85e546f9ba80488d0c0f",
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "d24bc291d00a56f13bd0aa63ef27cf5f4c9ba4a9280d5c060dadcb6fc05cc85c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_FOUNDATION_FREEZE_01.json",
+        "sha256": "3a46773427b63acd2679bf446e3e02fc02e78027f66f9d6e9dc5cbb090713d45"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ANNA_CHARACTER_MONOGRAPH.md",
+      "title": "Anna Filante Esteroid: a resident who asks for another story",
+      "cohort": 46,
+      "old_bytes": 11447,
+      "old_sha256": "17b09b6b0cdfd6f0fa4053253f76526b36f6a12cdf9c1b34c9075d911208d79d",
+      "new_bytes": 12892,
+      "new_sha256": "add42c0c6b6651c977a8fc27eb3b121a6b1499ffa18e20f2c32d4d02e76767d7",
+      "prefix_bytes": 1445,
+      "prefix_sha256": "fe8f056c377d1dd8558b4f30655a9e894e771c67bd101cf39b9ab5c630de94a1",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+      "scope_rationale_and_limits": "Full-name material anchors, recurring mediated narrative interest/request and unshown book production; hostile dolls excluded, no invented independent Japanese voice.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor.",
+        "generation": "COHORT46_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "17b09b6b0cdfd6f0fa4053253f76526b36f6a12cdf9c1b34c9075d911208d79d"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "d24bc291d00a56f13bd0aa63ef27cf5f4c9ba4a9280d5c060dadcb6fc05cc85c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_FOUNDATION_FREEZE_01.json",
+        "sha256": "3a46773427b63acd2679bf446e3e02fc02e78027f66f9d6e9dc5cbb090713d45"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_ASSASSIN_CHARACTER_MONOGRAPH.md",
+      "title": "Assassin: a partner's enthusiasm is not her answer",
+      "cohort": 46,
+      "old_bytes": 10627,
+      "old_sha256": "8bbd1f4ae7a809beb995d99bfa175f67a6bccc8f6c6007c4c0f686e4af209ccb",
+      "new_bytes": 12072,
+      "new_sha256": "fab5974ae28acec3690d1f8c2b5d6e40c7e9b2dd14f3e500548c8d47df01a4df",
+      "prefix_bytes": 1445,
+      "prefix_sha256": "cd33469ac8de4f1cd84be5ecbe6aa1f5ce751f0d234e5046cb347193f479c558",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+      "scope_rationale_and_limits": "Intentional class-only woman; rivalry/injury and care, own conversion/work refusals and later attributed contributions retained independently of Dark Stalker.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor.",
+        "generation": "COHORT46_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "8bbd1f4ae7a809beb995d99bfa175f67a6bccc8f6c6007c4c0f686e4af209ccb"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "d24bc291d00a56f13bd0aa63ef27cf5f4c9ba4a9280d5c060dadcb6fc05cc85c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_FOUNDATION_FREEZE_01.json",
+        "sha256": "3a46773427b63acd2679bf446e3e02fc02e78027f66f9d6e9dc5cbb090713d45"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DARK_STALKER_CHARACTER_MONOGRAPH.md",
+      "title": "Dark Stalker: retirement, watchfulness and the life she wants to keep",
+      "cohort": 46,
+      "old_bytes": 12458,
+      "old_sha256": "965470d33ee4a232bf6ec67ab69cc141a39f61a5c687fa1d1d1c4b66d16f570a",
+      "new_bytes": 14466,
+      "new_sha256": "b9eab18e32947d9a20408e5c962504854c6cf163e2693de115b2753223733520",
+      "prefix_bytes": 2008,
+      "prefix_sha256": "fdacf8ddc1cc81d5af317bca3bc840fef9c325015e3aabf65a9ecfec812f8919",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+      "scope_rationale_and_limits": "Particular female invested narrator; restored ordinary life, romance misreading, spending/rivalry and limited watching; C46-PFQ02 narrows meal price versus payment.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor.",
+        "generation": "COHORT46_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "965470d33ee4a232bf6ec67ab69cc141a39f61a5c687fa1d1d1c4b66d16f570a",
+        "current_source_qualifications": [
+          "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_POST_FREEZE_SOURCE_QUALIFICATIONS_01.json"
+        ]
+      },
+      "controlling_qualification_ids": [
+        "C46-PFQ02"
+      ],
+      "qualification_sha256": "1b270b19d8b119d6ebb785ac4a66112a2665b1abf7dc85e546f9ba80488d0c0f",
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "d24bc291d00a56f13bd0aa63ef27cf5f4c9ba4a9280d5c060dadcb6fc05cc85c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_FOUNDATION_FREEZE_01.json",
+        "sha256": "3a46773427b63acd2679bf446e3e02fc02e78027f66f9d6e9dc5cbb090713d45"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_YORIMICHI04_SUCCUBUS_WORKER_CHARACTER_MONOGRAPH.md",
+      "title": "The Yorimichi 4 shop worker: business judgment, fearful speech and a treasured fragment",
+      "cohort": 46,
+      "old_bytes": 10702,
+      "old_sha256": "1791f455dac61f64fc8bac76a3029d18d5f2ae039175591f67850ffe052da5c5",
+      "new_bytes": 12147,
+      "new_sha256": "003a4d15296a59a71d81071055b2b73fc4df70f6f95170b055e70907490a63b1",
+      "prefix_bytes": 1445,
+      "prefix_sha256": "a07191269e9cc7a045c1b1ebfa31086e83f9c04acf71882f9ae1c49971512bc0",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+      "scope_rationale_and_limits": "Qualified local day/evening/night route; work judgment, fear, loyalty and fragment contradiction; no global Lolisa/leader/messenger join or all collective acts assigned.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 46 context totals are not independent observations for this actor.",
+        "generation": "COHORT46_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Japanese YORI04 five complete fiction paragraph/ruby members and declared bounded MAIN02, MAIN16, MAIN17, YORI01 and DUST-CONT returns; 3986 P/1559 ruby in 16 members/7 known source objects, no new full-edition/image/residual or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "1791f455dac61f64fc8bac76a3029d18d5f2ae039175591f67850ffe052da5c5"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "d24bc291d00a56f13bd0aa63ef27cf5f4c9ba4a9280d5c060dadcb6fc05cc85c"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_FOUNDATION_FREEZE_01.json",
+        "sha256": "3a46773427b63acd2679bf446e3e02fc02e78027f66f9d6e9dc5cbb090713d45"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT46_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "ec4a93d07e7258ffe96c673af3c08d9d0274a05a3116d64e6701d98af0fb239a"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_HEIDEL_CHARACTER_MONOGRAPH.md",
+      "title": "Heidel: service that anticipates, enables and sometimes misreads",
+      "cohort": 47,
+      "old_bytes": 10009,
+      "old_sha256": "ddf6ced4d34bdffca2f0997056617c35cd245ab8fb924d55d108326ed503bc6d",
+      "new_bytes": 11445,
+      "new_sha256": "6a4ece2a6a0bcc2e6aeb5e54681a9c942e0288b227aa4870c47eb2f54e4e61d5",
+      "prefix_bytes": 1436,
+      "prefix_sha256": "ed66cc858def9fed198803e472995826c8c256ecc4db34f7b962060c452c8471",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit.",
+      "scope_rationale_and_limits": "Named continuous service relation with anticipation, fallible complaint guess and enabling of objections; plans/trades/deliveries separated, no presumed potion role.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 47 context totals are not independent observations for this actor.",
+        "generation": "COHORT47_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "ddf6ced4d34bdffca2f0997056617c35cd245ab8fb924d55d108326ed503bc6d"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "54726923fea27a6ab42667be263b5b9f872c0bc629435558d8c2d8fae6798bc0"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_FOUNDATION_FREEZE_01.json",
+        "sha256": "c004948bdfc448b96101c5249be6240ba2950726504d0d758dc7370d58aac28e"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_KEELE_CHARACTER_MONOGRAPH.md",
+      "title": "Keele: the great wizard who cannot certify his beloved's happiness",
+      "cohort": 47,
+      "old_bytes": 10262,
+      "old_sha256": "4495f9eb74ccd5b51cf6c4720da950bdbd7fba32dc53bba31562e1bed124022f",
+      "new_bytes": 11698,
+      "new_sha256": "f470936f653105d804ca6385fa32599891fed4e3b0088c35298ca2403d910645",
+      "prefix_bytes": 1436,
+      "prefix_sha256": "0db0663453ebc76664ce74561333dd3212092681ded042823866a1acc4777b66",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit.",
+      "scope_rationale_and_limits": "Self-reported romance and accepted proposal, ongoing doubt and observed purification disappearance; beloved independent, no performed reunion.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 47 context totals are not independent observations for this actor.",
+        "generation": "COHORT47_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "4495f9eb74ccd5b51cf6c4720da950bdbd7fba32dc53bba31562e1bed124022f"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "54726923fea27a6ab42667be263b5b9f872c0bc629435558d8c2d8fae6798bc0"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_FOUNDATION_FREEZE_01.json",
+        "sha256": "c004948bdfc448b96101c5249be6240ba2950726504d0d758dc7370d58aac28e"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRANSFER_ANGEL_CHARACTER_MONOGRAPH.md",
+      "title": "The replacement angel: courteous administration and truthful disclosure",
+      "cohort": 47,
+      "old_bytes": 7914,
+      "old_sha256": "06fe245ae7b5ab353702acd7bf0f674dfb6709e2cf746fe2db7b34ca32f7b6c1",
+      "new_bytes": 9350,
+      "new_sha256": "10d58c07c20de2408efb4b56369a886a1e3ad13cbca65d32700a1fcafc0bc95b",
+      "prefix_bytes": 1436,
+      "prefix_sha256": "3f3c476353a2ff5bb53d2085134abd50c1f9e569c5c3e4e92e0e18af34289026",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit.",
+      "scope_rationale_and_limits": "Office continuity and consequential acceptance despite Aqua protest; later truthful disclosure reported, no saintly bureaucrat/generic angel identity.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 47 context totals are not independent observations for this actor.",
+        "generation": "COHORT47_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Known Japanese MAIN01/02/06/11/15 and declared bounded comparison returns; C47 3160 P/3010 ruby in 43 members/24 editions, six complete narrative members including repeated framing, no new image/residual/full-edition or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "06fe245ae7b5ab353702acd7bf0f674dfb6709e2cf746fe2db7b34ca32f7b6c1"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "54726923fea27a6ab42667be263b5b9f872c0bc629435558d8c2d8fae6798bc0"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_FOUNDATION_FREEZE_01.json",
+        "sha256": "c004948bdfc448b96101c5249be6240ba2950726504d0d758dc7370d58aac28e"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT47_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "e93e7291163b87f5ad13ba3883d30e02cd90180c3961f8a8f34b662c2da362b0"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_AMARYLLIS_CHARACTER_MONOGRAPH.md",
+      "title": "Amaryllis: a frightening story and a change of company",
+      "cohort": 48,
+      "old_bytes": 8887,
+      "old_sha256": "c2fe082d485c7ceb1eab5dcfa67632ee131bfb35ad00752f791222c219c78b71",
+      "new_bytes": 10355,
+      "new_sha256": "e6a329982c8f6e6f30a6912f7c08d578c42a619fae81e644fc1ab3ea908d0339",
+      "prefix_bytes": 1468,
+      "prefix_sha256": "b4c93da6d40e5048509a2b368216cb6bafb90c5c3ffb3c7723da3ace7183ceab",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit.",
+      "scope_rationale_and_limits": "Positive continuous named performer; explicitly false child biography, staged reassurance and ordered Vanir register shift; pet edge unresolved.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 48 context totals are not independent observations for this actor.",
+        "generation": "COHORT48_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "c2fe082d485c7ceb1eab5dcfa67632ee131bfb35ad00752f791222c219c78b71"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "1eeafe98ebb7a6c3663a7abe1eeb3723f4984a627d40fd1d3d7360c3fb5a9664"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_FOUNDATION_FREEZE_01.json",
+        "sha256": "27a5a7915ed1d04035d745a498bddbbecc66d4866e08e16c114a78a550146cb5"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_DUNGEON_VAMPIRE_OWNER_CHARACTER_MONOGRAPH.md",
+      "title": "The unnamed dungeon vampire: surrender with a valued remainder",
+      "cohort": 48,
+      "old_bytes": 8666,
+      "old_sha256": "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614",
+      "new_bytes": 10134,
+      "new_sha256": "2a1a3a4f758ebaa50b17fc715a4bc3d3c50f49eae2a57f099802fb68e6fda28c",
+      "prefix_bytes": 1468,
+      "prefix_sha256": "41bfc48fad8315992c6f0db0e89745f5333577d27904724b47ca6caa5f64c49d",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit.",
+      "scope_rationale_and_limits": "Unnamed self-described owner, performed surrender/hospitality and valued untransferred ring; farming unperformed, Crow/succubus excluded.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 48 context totals are not independent observations for this actor.",
+        "generation": "COHORT48_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "a17bc168b1ab426dd87e29c0a0a80932fb098a2322445a845568a27070fde614"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "1eeafe98ebb7a6c3663a7abe1eeb3723f4984a627d40fd1d3d7360c3fb5a9664"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_FOUNDATION_FREEZE_01.json",
+        "sha256": "27a5a7915ed1d04035d745a498bddbbecc66d4866e08e16c114a78a550146cb5"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_STELLA_CHARACTER_MONOGRAPH.md",
+      "title": "Stella: competence remembered from inside a failed descent",
+      "cohort": 48,
+      "old_bytes": 7884,
+      "old_sha256": "83e51cab02743729a39925b2a6fe73b3d42743e0c77da2fd88baa261924b15b7",
+      "new_bytes": 9352,
+      "new_sha256": "193526a45334d95bb77c8a81e0f55079156cace7c9a267132588a25c250ebf95",
+      "prefix_bytes": 1468,
+      "prefix_sha256": "f087b88139d09702393606be45ade040718ef7dac065d2727dd4cbb0de97f6c8",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit.",
+      "scope_rationale_and_limits": "Named first-person party member; retrospective overconfidence, appraisal correction and concern/gratitude; no unshown cast/heal/safe return.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 48 context totals are not independent observations for this actor.",
+        "generation": "COHORT48_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "Known Japanese MAIN16/MAIN17 plus identified comparison contexts; C48 1895 structural P/1862 ruby in 20 members/14 editions, four full narrative paragraph/ruby members and one full author afterword kept distinct; no new image/residual/whole-edition or independent credit.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "83e51cab02743729a39925b2a6fe73b3d42743e0c77da2fd88baa261924b15b7"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "1eeafe98ebb7a6c3663a7abe1eeb3723f4984a627d40fd1d3d7360c3fb5a9664"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_FOUNDATION_FREEZE_01.json",
+        "sha256": "27a5a7915ed1d04035d745a498bddbbecc66d4866e08e16c114a78a550146cb5"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT48_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "862f97c6fe9357fc18bf51549cc4274a18afc1d4ce54c41bc40f56445b21b1e1"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_FANBOOK_MEDUSA_DUNGEON_OWNER_CHARACTER_MONOGRAPH.md",
+      "title": "The fanbook’s Medusa dungeon owner: learning to run a defended home",
+      "cohort": 51,
+      "old_bytes": 11372,
+      "old_sha256": "32a08d5d2143f611ed9355f2de22eb7ee0abd92a0420d02500f9bfc6214c439b",
+      "new_bytes": 12762,
+      "new_sha256": "055bac6b2a660a12473d51e96d24787b997140a62af9e4d9968401cb4ff5e95d",
+      "prefix_bytes": 1390,
+      "prefix_sha256": "0440a7bef4230bc7df1cdae9ee15b155c4f15eeff207d8e60fff5c6bcef30192",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "FAN-MEM-FIC-01, Japanese printed 94–97/native S096–S099, upper/lower prose tiers read right-to-left. Dedicated fanbook fiction, distinct from reprint/editorial/art and other dungeon owners.",
+      "scope_rationale_and_limits": "Distinct fiction owner with enterprise, deceptive level claim, learning/ethical recoil and danger-dependent requests; final safety/career change unshown.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 51 context totals are not independent observations for this actor.",
+        "generation": "COHORT51_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "FAN-MEM-FIC-01, Japanese printed 94–97/native S096–S099, upper/lower prose tiers read right-to-left. Dedicated fanbook fiction, distinct from reprint/editorial/art and other dungeon owners.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "32a08d5d2143f611ed9355f2de22eb7ee0abd92a0420d02500f9bfc6214c439b"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "0c877632f1421b8ca124aeae795a6963a0a3aa8f7bc4cb855ae7e64ae4b6809e"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_FOUNDATION_FREEZE_01.json",
+        "sha256": "a84a49ecc10cb1b150746639bb47812ab6feebdf08abd0aae697cc3ab9828228"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT51_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "dac2aa30045ed21e08690099290d1154ce08dc9b37c3c758de3d014b049dbdb0"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_GUIDE_NEWCOMER_CHARACTER_MONOGRAPH.md",
+      "title": "The unnamed newcomer in the Core world guide",
+      "cohort": 52,
+      "old_bytes": 8094,
+      "old_sha256": "4c9513ca786e57a6616bc0270bd6d38f8d39228c8e7262b58f3962909915347f",
+      "new_bytes": 9559,
+      "new_sha256": "cb84317edce5f42014f86d9c68da26da770639c780aaf7fbc9c052a7a41984bb",
+      "prefix_bytes": 1465,
+      "prefix_sha256": "ba969baad5babafd0443e86850139731a89676d1353f3c4757ea264b81a63201",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+      "scope_rationale_and_limits": "Source-addressed fixed second-person actor with judgments, grievance release and accepted novice partnership; distinct from reader/optional samples/replay PCs.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 52 context totals are not independent observations for this actor.",
+        "generation": "COHORT52_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "4c9513ca786e57a6616bc0270bd6d38f8d39228c8e7262b58f3962909915347f"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "afa1d616dd75af5e33371b199b81e306c4755be2fcccd9a9704dfa7c11447e41"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_FOUNDATION_FREEZE_01.json",
+        "sha256": "ed49f3fb70fac1bb7348324633d9e1f29aba39e526e774c32ce89d1a3a11c1ad"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_OKINA_CHARACTER_MONOGRAPH.md",
+      "title": "Okina: expertise, secrecy and a harvest business",
+      "cohort": 52,
+      "old_bytes": 7106,
+      "old_sha256": "75f020e3ff92b3d2677bbe78b96eb67d049cee1adb9be2f67d0b224acb94f8b4",
+      "new_bytes": 8571,
+      "new_sha256": "02a245bafd6f54c052f3d6ae05c3daa9344c1ad63c49e788e9d4a30e0d762859",
+      "prefix_bytes": 1465,
+      "prefix_sha256": "7c88b43ddee3b2c53959ba0afdcd6eff696726f1e66b6133354ddd5a5b9c1230",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+      "scope_rationale_and_limits": "Scripted named elderly instructor with expertise, proprietary secrecy, forgotten trap locations and offers; unperformed branches and no actual PC consent.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 52 context totals are not independent observations for this actor.",
+        "generation": "COHORT52_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "75f020e3ff92b3d2677bbe78b96eb67d049cee1adb9be2f67d0b224acb94f8b4"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "afa1d616dd75af5e33371b199b81e306c4755be2fcccd9a9704dfa7c11447e41"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_FOUNDATION_FREEZE_01.json",
+        "sha256": "ed49f3fb70fac1bb7348324633d9e1f29aba39e526e774c32ce89d1a3a11c1ad"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_BOREN_CHARACTER_MONOGRAPH.md",
+      "title": "Boren: earned strength, claimed authority and coercive command",
+      "cohort": 52,
+      "old_bytes": 7523,
+      "old_sha256": "83253b4b998f596db4071419a79461e7a02a8c8c56d2eae1de5d0373c1e2ca39",
+      "new_bytes": 8988,
+      "new_sha256": "b2190fd4ad94f93b9d6044590f14a2cf0bd8f3ae4e62a6e47f55b7d3d8687701",
+      "prefix_bytes": 1465,
+      "prefix_sha256": "3fb0be5e7af43df8b039c702ccb5a7b00b5e36a3a5e472a10b8a93af32f65b29",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+      "scope_rationale_and_limits": "Named scenario kobold with labor/ambition/coercion and material tactical dependence; failed command conditional, no witnessed play or broad honor law.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 52 context totals are not independent observations for this actor.",
+        "generation": "COHORT52_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "83253b4b998f596db4071419a79461e7a02a8c8c56d2eae1de5d0373c1e2ca39"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "afa1d616dd75af5e33371b199b81e306c4755be2fcccd9a9704dfa7c11447e41"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_FOUNDATION_FREEZE_01.json",
+        "sha256": "ed49f3fb70fac1bb7348324633d9e1f29aba39e526e774c32ce89d1a3a11c1ad"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    },
+    {
+      "path": "series/konosuba/05 Specialist Synthesis/KONOSUBA_TRPG_METAL_MORA_CHARACTER_MONOGRAPH.md",
+      "title": "メタルモーラー: a controlled weapon and an autonomous threat",
+      "cohort": 52,
+      "old_bytes": 7063,
+      "old_sha256": "5a65a814c4bde22f5c67f30d970ac8077d8c75d7f5211fe7d948ce6b894f56bd",
+      "new_bytes": 8528,
+      "new_sha256": "18e00e98193a8501a055b363b3f6dff19fdc8cec2efa6e3e332f097b7eae00bb",
+      "prefix_bytes": 1465,
+      "prefix_sha256": "ac34427e4de86aa047ec463c8f8f33f465c53f1f5ed814223d42423366408175",
+      "original_argument_exact_suffix": true,
+      "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+      "scope_rationale_and_limits": "Individually designated autonomous machine across control states; announcements/targets/material weaknesses, no invented human psychology.",
+      "new_metadata": {
+        "series": "KonoSuba",
+        "artifact_type": "character_monograph",
+        "scope": "Actor-specific bounded argument and locators retained in the original body; cohort 52 context totals are not independent observations for this actor.",
+        "generation": "COHORT52_V1_AUTHORITY_RECONCILIATION_01",
+        "status": "active_provisional",
+        "source_boundary": "TRPG Core world-guide fiction S252–262/printed250–260 or Core supplied scenario S300–313/printed298–311 or Advanced supplied scenario S298–311/printed296–309, per artifact; authored guide/scenario states, never actual play or main-novel/replay observation.",
+        "supersedes": [],
+        "superseded_by": [],
+        "do_not_use_as_current_authority": false,
+        "authority_review_basis_commit": "33ff979c717586c6685a8b19727c67d07866b00f",
+        "authority_review_record": "series/konosuba/09 Audits and Manifests/KONOSUBA_DEFERRED_MONOGRAPH_AUTHORITY_ADOPTION_01.json",
+        "original_argument_sha256": "5a65a814c4bde22f5c67f30d970ac8077d8c75d7f5211fe7d948ce6b894f56bd"
+      },
+      "controlling_qualification_ids": [],
+      "qualification_sha256": null,
+      "acceptance_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_RECEIVING_AND_PROVENANCE.json",
+        "sha256": "afa1d616dd75af5e33371b199b81e306c4755be2fcccd9a9704dfa7c11447e41"
+      },
+      "foundation_evidence": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_FOUNDATION_FREEZE_01.json",
+        "sha256": "ed49f3fb70fac1bb7348324633d9e1f29aba39e526e774c32ce89d1a3a11c1ad"
+      },
+      "closed_publication_gate": {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_COHORT52_PUBLICATION_GATE_CLOSE_01.json",
+        "sha256": "0f513635a1ff5b77be8b2555024cb4fe93b450eded77709bb996f6d12401cc95"
+      },
+      "perpetual_monograph_byte_lock_found": false
+    }
+  ],
+  "new_source_reading_credit": 0,
+  "new_model_or_hypothetical_first_credit": 0,
+  "source_known_same_AI_lineage": true,
+  "independent_accuracy": null,
+  "global_completion_percentage": null,
+  "unique_person_denominator": null,
+  "discovery_enrollment_by_this_author": false,
+  "capability_grades_by_this_author": false,
+  "remaining": "Containing publication and designated curation/evaluation; explicit tested-model locks and earlier-cohort reference findings retain separate work. Calibration assessment publication remains owner-only. Final release is conditional.",
+  "final_release": false,
+  "full_program_complete": false
+}

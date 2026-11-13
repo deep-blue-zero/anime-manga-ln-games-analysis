@@ -1,0 +1,190 @@
+{
+  "state": "POST_INITIAL_SEAL_SHARED_QA_RECEIVING_EXTERNAL_OVERLAY_NOT_NEW_INITIAL_CODING",
+  "recorded_utc": "2026-10-17T14:56:04.240102+00:00",
+  "initial_seal": {
+    "path": "/workspace/scratch/konosuba/reconstruction-first90-assessment-v1/INITIAL_FULL90_ASSESSMENT_SEAL.json",
+    "bytes": 1116,
+    "sha256": "d6b83a778db6c071bf5045e42ce11b627d8a0f69ff027a26b15c53e3971ea113"
+  },
+  "shared_inputs_fully_read": [
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-full90-actual-receiving-v1/ROOT_FULL90_ACTUAL_INPUT_RESPONSE_AND_CROSS_MODEL_RECEIVING.md",
+      "bytes": 7971,
+      "sha256": "c0de568b4f404078f42cbd101b1a6bec1d3b484c4f88eb7ff17ed98606050103"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-independent/producer-first36-peer-receiving-v1/FULL_ALL36_PRODUCER_FIRST_RESPONSE_PEER_RECEIVING_REPORT.md",
+      "bytes": 19365,
+      "sha256": "d31f6f858fb3c59b0c94b42ad2937a2c57acad4e5911ae74d5aeb1b06fddb8ff"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/peer-root-k18-postresponse-receiving-v1/FULL_K18_MASKED_INPUT_RESPONSE_AND_MODEL_FIDELITY_PEER_REPORT.md",
+      "bytes": 13110,
+      "sha256": "b9a81871e19a6c7516039c0700acf76ed227dad733603c0267ec65f02cda17b4"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/SELF_OBSERVED_FIRST_OUTPUT_CONCERNS_NOT_REPLACEMENTS.json",
+      "bytes": 941,
+      "sha256": "513bbec26c17dd57ae99e786a5822f5a98c0e55f4a60b0ca18d2538ce01d2c01"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/v17-producer/aqua-megumin-first-executions-v1/ACTUAL_RUNTIME_READ_SCOPE_AUTHORING_TIME_AND_LIMITS.json",
+      "bytes": 6485,
+      "sha256": "111f5a9ccd2569c7347c4512611279710da343e5e44e06ea83be05e9edc160ca"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_COMPLETE_K18_RESPONSE_SEAL.json",
+      "bytes": 2369,
+      "sha256": "c8d2720ed5de49cfc67fd5057fca004e0cebb8b3595d38f3b7308b078e90a167"
+    },
+    {
+      "path": "/workspace/scratch/konosuba/main-only-reconstruction-stage/root-first-k18-responses-v1/ROOT_FIRST_K18_AUTHORING_AND_INPUT_SCOPE.json",
+      "bytes": 2082,
+      "sha256": "73700d58a9f2a6c6c53f8f6a884b7fd7b934fb0f13ac6a1800b0afa0f12e66ff"
+    }
+  ],
+  "new_qualified_record_fields": [
+    {
+      "issue_id": "CQ-01",
+      "execution_id": "F03-M-TR",
+      "criteria_external_qualifications": [
+        "R3",
+        "R6",
+        "R8"
+      ],
+      "actual_response_evidence": "Megumin marks the three-square margin with a finger, leaving the controls alone. Megumin→surveyor: 「狙う場所はここですね。それで、この装置は何をすると動くのですか？」 She points to the uncertified notice before proceeding.",
+      "current_receiving_finding": "QUALIFIED_UNSUPPLIED_TARGET_REFERENCE: supplied chart exclusion margin does not supply aiming location. Exact finger-deixis conflates margin with target; no actual shot or device operation follows.",
+      "minimum_derivative_or_scope_treatment": "If a derivative is made, replace 狙う場所はここですね with an accurate margin statement such as 三十歩の余白なら三目盛りですね. Do not invent a target or call this a failed actual cast.",
+      "discovery_provenance": "First raised in independent PR02; independently rechecked actual response and complete released prompt only after own initial seal.",
+      "original_first_response_unchanged": true,
+      "initial_assessment_unchanged": true,
+      "behavioral_eligibility_or_finding_changed": false
+    },
+    {
+      "issue_id": "CQ-02",
+      "execution_id": "F08-A-TR",
+      "criteria_external_qualifications": [
+        "R3",
+        "R8"
+      ],
+      "actual_response_evidence": "She knows the apology/withdrawal option. The rematch partner’s ability to meet tomorrow does not tell her their actual answer.",
+      "current_receiving_finding": "QUALIFIED_UNSUPPLIED_APOLOGY: admission that Kazuma did not ask and an offered withdrawal are given; apology/remorse are not. Actual refusal remains supported.",
+      "minimum_derivative_or_scope_treatment": "Audit-only apology/withdrawal -> admission/withdrawal; no trust repair or remorse claimed.",
+      "discovery_provenance": "First raised in independent PR04; rechecked original fixed prompt and response after own initial seal.",
+      "original_first_response_unchanged": true,
+      "initial_assessment_unchanged": true,
+      "behavioral_eligibility_or_finding_changed": false
+    },
+    {
+      "issue_id": "CQ-03",
+      "execution_id": "F02-A-TR",
+      "criteria_external_qualifications": [
+        "R4",
+        "R8"
+      ],
+      "actual_response_evidence": "After four plus two she retains four, owes six later and has no demonstrated income source here. Duplication and supernatural luck are unavailable.",
+      "current_receiving_finding": "QUALIFIED_TRANSACTION_TENSE: 4+2 leaves4 and future balance6 only if offered transaction is accepted. Same response explicitly awaits maker acceptance, so no actual account settlement or delivered cup should be certified.",
+      "minimum_derivative_or_scope_treatment": "Keep resource arithmetic conditional: if the contribution and deposit are accepted, she would retain4 and owe6 later.",
+      "discovery_provenance": "First raised in independent PR05; exact response/action/uncertainty and original quoted deposit terms rechecked after own seal.",
+      "original_first_response_unchanged": true,
+      "initial_assessment_unchanged": true,
+      "behavioral_eligibility_or_finding_changed": false
+    },
+    {
+      "issue_id": "CQ-04",
+      "execution_id": "F04-K-TR",
+      "criteria_external_qualifications": [
+        "R6"
+      ],
+      "actual_response_evidence": {
+        "action": "Kazuma takes the full note from his pocket and uses the offered floor to acknowledge his actual first clause and read its omitted qualification. He presses the unfairness of the selective impression, without claiming a deliberate conspiracy or giving Darkness a response she has not made.",
+        "generated_not_source_dialogue": {
+          "speaker": "Kazuma",
+          "addressee": "The clerk and the six acquaintances; Darkness is a known supporting counterpart",
+          "language": "Japanese",
+          "text": "それ、前半です。楽な方がいいとは言ったけど、必要なら引き受けるとも書いたんで。最後まで読んでもらえます？"
+        }
+      },
+      "current_receiving_finding": "QUALIFIED_QUOTE_COVERAGE: action narrates reading full omitted qualification, but Japanese 必要なら引き受ける lacks if no one else could. Full action is present; complete restricted Japanese rendering is not demonstrated. This can be selective face defense and is not automatically a whole-action contradiction.",
+      "minimum_derivative_or_scope_treatment": "No compulsory action repair. Preserve narration versus literal quote; do not count quotation as exact full restriction or import CC wording.",
+      "discovery_provenance": "Shared P KR-Q04 and root finding05, received only after own initial seal; exact supplied note and TR action/quote rechecked.",
+      "original_first_response_unchanged": true,
+      "initial_assessment_unchanged": true,
+      "behavioral_eligibility_or_finding_changed": false
+    },
+    {
+      "issue_id": "CQ-05",
+      "execution_id": "F08-K-TR",
+      "criteria_external_qualifications": [
+        "R6"
+      ],
+      "actual_response_evidence": {
+        "action": "Kazuma makes a defensive reference to the earlier laugh, then acknowledges the audience-specific limit and stops repeating the dependence joke. He asks for comparable restraint about his own failures and offers to move to the minor joint errand. He does not narrate reconciliation or Megumin's approval.",
+        "generated_not_source_dialogue": {
+          "speaker": "Kazuma",
+          "addressee": "Megumin, with Aqua present",
+          "language": "Japanese",
+          "text": "笑ってたから平気かと思ったんだよ。……今は嫌なんだな、分かった。次の用事、済ませようぜ。"
+        }
+      },
+      "current_receiving_finding": "QUALIFIED_SUBFUNCTION_UNOBSERVED_JAPANESE: reciprocal restraint request exists in action narration; its exact Japanese realization is not quoted. Stopping/audience-specific concession is quoted.",
+      "minimum_derivative_or_scope_treatment": "Do not claim reciprocal Japanese construction observed, and do not falsely claim reciprocal act absent. No required new utterance.",
+      "discovery_provenance": "Shared P KR-Q05/root finding05, received after initial seal; exact prompt/action/quote rechecked.",
+      "original_first_response_unchanged": true,
+      "initial_assessment_unchanged": true,
+      "behavioral_eligibility_or_finding_changed": false
+    },
+    {
+      "issue_id": "CQ-06",
+      "execution_id": "F05-K-TR",
+      "criteria_external_qualifications": [
+        "R6",
+        "R8"
+      ],
+      "actual_response_evidence": {
+        "action": "Kazuma abandons his game-table place and begins the limited ten-minute intervention, taking the offered public book to identify the supervisor's order page he personally saw. He presents his firsthand account and the page for the shopkeeper's promised check; release of the worker and the ride home are not narrated.",
+        "generated_not_source_dialogue": {
+          "speaker": "Kazuma",
+          "addressee": "The shopkeeper, with the worker and Aqua present",
+          "language": "Japanese",
+          "text": "その注文なら俺が見てます。ここで十分快く説明すれば済むんですよね。帳簿の該当ページを確認させてください。"
+        }
+      },
+      "current_receiving_finding": "ADDITIONAL_SCOPE_QUALIFICATION_TO_INITIAL_K_LANG_01: English action/audit retains the leisure cost, but malformed procedural TR line does not clearly utter the cost complaint claimed by outside audit.",
+      "minimum_derivative_or_scope_treatment": "Keep original language defect and distinguish English motive narration from actual Japanese speech; repair is diagnostic only.",
+      "discovery_provenance": "Own initial lexical defect predates shared QA; P KR-P01/root report subsequently supplied explicit complaint-versus-audit qualification.",
+      "original_first_response_unchanged": true,
+      "initial_assessment_unchanged": true,
+      "behavioral_eligibility_or_finding_changed": false
+    }
+  ],
+  "preserved_initial_findings": [
+    "K-LANG-01",
+    "K-ROUTE-01",
+    "P-LANG-01",
+    "P-TIME-01",
+    "I-PROVIDER-01",
+    "I-BEH-E02-01",
+    "P-MANUAL-Q_optional"
+  ],
+  "disagreements_or_limits": [
+    {
+      "case": "F05-A-CC",
+      "finding": "Do not adopt producer self-suspected unsupported Darkness agreement. Fixed prompt explicitly supplies will accompany if Aqua supplies observation; she actually supplies it. Staging has no supervisor response or restored wage. Keep prior consent scope, not generic free agency."
+    },
+    {
+      "case": "F04-PARTY_CC_TR",
+      "finding": "Initial locally adverse E02 direction and broader credit-competition rival retained; shared reviews do not resolve the directional criterion. No majority voting or new exemption."
+    },
+    {
+      "case": "F03-K_CC_TR",
+      "finding": "7/15/25 are nominal completion including handovers, distinct from binding5/13/23 arrival-before-handover. Unknown inquiry/departure delay prevents actual deadline-success claim. No arithmetic defect, no action outcome."
+    }
+  ],
+  "frozen_rule_views_unchanged": 702,
+  "typed_constraints_not_behavioral_wins": true,
+  "all34_missing_initial_full_conjunctions_unchanged": true,
+  "new_primary_source_slots": 0,
+  "owner_models_first_outputs_bank_bindings_untouched": true,
+  "no_suite_acceptance_freeze_or_accuracy": true
+}

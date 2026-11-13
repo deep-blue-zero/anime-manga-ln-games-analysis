@@ -1,0 +1,121 @@
+{
+  "schema": "konosuba.cohort47.original-firsts-bundle.v1",
+  "assembled_utc": "2026-10-25T12:05:30.826394+00:00",
+  "foundation_freeze_sha256": "bd285c36cd90fe9dad086fdd979ae8f9d9b5274bfbc6e2f00a7d45f983f6c1bc",
+  "input_freeze_sha256": "2ee56c303bb236f711cd1cc7142b8f0416fef58dadeb364ed301daddd851d027",
+  "cases": [
+    {
+      "input_id": "HEI-A1",
+      "pair_id": "HEI-A",
+      "exact_input_binding": {
+        "file": "exact-inputs-frozen01/HEI_A1_INPUT_01.json",
+        "bytes": 2049,
+        "sha256": "63e5a8dac2b73040052cb2b4b462dd94881fab4b8e1a9c07463917a57d6b0a22",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_A1_INPUT_01.json",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_INPUT_01.json"
+      },
+      "exact_prompt_binding": {
+        "file": "exact-inputs-frozen01/HEI_A1_PROMPT_01.md",
+        "bytes": 1651,
+        "sha256": "77b21fb23eb25981929ac24e22b40e1fe02ba2eef5b9115c1aed726f82d2fbae",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_A1_PROMPT_01.md",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A1_PROMPT_01.md"
+      },
+      "original_binding": {
+        "file": "originals-sealed01/HEI_A1_FIRST_01.md",
+        "bytes": 787,
+        "sha256": "f88926e7309aeec8787c5d876413f5122c86882ed7b9777c6ffb5cf610dbc851"
+      },
+      "original_response": "Heidel looked at the two packets without allowing the pause to become an examination of his guest.\n\n“Certainly, Satou-sama. Would you prefer something to occupy Lady Rain pleasantly, or something to reward a little study?”\n\nHis hand came to rest beside the illustrated notes.\n\n“For a free evening, I would suggest these. The diagrams are available if you intend a more industrious compliment. I have no instruction from Lady Rain herself, so I would not presume to call either her favorite.”\n\nHe straightened the slim packet without removing the other choice.\n\n“The messenger can take one in twenty minutes. If the illustrated notes meet your intention, I shall have that packet ready. Your standard need not suffer merely because we have been given two ways of meeting it.”\n",
+      "single_authorship": true,
+      "no_revision_before_seal": true
+    },
+    {
+      "input_id": "HEI-A2",
+      "pair_id": "HEI-A",
+      "exact_input_binding": {
+        "file": "exact-inputs-frozen01/HEI_A2_INPUT_01.json",
+        "bytes": 2061,
+        "sha256": "93937eec1e58ecb7c25e236632089701a144bbee4f427bba7d116bcdd829f1a0",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_A2_INPUT_01.json",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_INPUT_01.json"
+      },
+      "exact_prompt_binding": {
+        "file": "exact-inputs-frozen01/HEI_A2_PROMPT_01.md",
+        "bytes": 1663,
+        "sha256": "7dfc01c6f9d4ec572c9e0b484c3acec82e724a558363ea014d61f18f3c39c84c",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_A2_PROMPT_01.md",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_A2_PROMPT_01.md"
+      },
+      "original_binding": {
+        "file": "originals-sealed01/HEI_A2_FIRST_01.md",
+        "bytes": 717,
+        "sha256": "8d353f4b6710e477c955c0c27afd7e4c7cd6848860a6d3c9a6e7d169d4521e9b"
+      },
+      "original_response": "“Certainly, Satou-sama. Lady Rain has been kind enough to request the illustrated travel notes herself.”\n\nHeidel selected the slim packet and left the mechanical diagrams on the table.\n\n“A gift suited to its recipient is a very agreeable standard. I shall have this one ready for the messenger.”\n\nHe checked the title once more, as though choosing between the two had been a necessary ceremony rather than a difficulty.\n\n“There is no need to burden her free evening with a second packet, and the messenger is limited to one in any case. The catalog can remain here. As for the impression it makes, I can arrange the selection you requested; Lady Rain must be allowed her own opinion when it reaches her.”\n",
+      "single_authorship": true,
+      "no_revision_before_seal": true
+    },
+    {
+      "input_id": "HEI-B1",
+      "pair_id": "HEI-B",
+      "exact_input_binding": {
+        "file": "exact-inputs-frozen01/HEI_B1_INPUT_01.json",
+        "bytes": 2191,
+        "sha256": "b2423c630bb750e49b643c6ba4c571e69e1411e755d729fb1bca0a4aa33e3a6d",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_B1_INPUT_01.json",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_INPUT_01.json"
+      },
+      "exact_prompt_binding": {
+        "file": "exact-inputs-frozen01/HEI_B1_PROMPT_01.md",
+        "bytes": 1793,
+        "sha256": "d93fc0db7e6846d9e02295626cd9c0f387e80b6db316148498cd9f027293a652",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_B1_PROMPT_01.md",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B1_PROMPT_01.md"
+      },
+      "original_binding": {
+        "file": "originals-sealed01/HEI_B1_FIRST_01.md",
+        "bytes": 779,
+        "sha256": "55cc710122f86046164755d775acf51234c32811c38c64bd2f13ddd19ff8063c"
+      },
+      "original_response": "Heidel glanced once more at the curator’s note.\n\n“The instruction does expressly exclude a guest’s name, Satou-sama. I thought it best that you should know before an arrangement was made.”\n\nHe let that sentence settle, then inclined his head.\n\n“Very well. If you wish your selection to be acknowledged, I shall take the card bearing your name.”\n\nHe picked up the personal card, leaving the collection card on the table.\n\n“It describes what you did, at least. I would not add anything about making or restoring the clock.”\n\nHis composure gave the small transaction the appearance of orderly service.\n\n“The curator has not withdrawn the instruction. I cannot promise the card will remain in the display. But I understand which of the two you wish me to carry.”\n",
+      "single_authorship": true,
+      "no_revision_before_seal": true
+    },
+    {
+      "input_id": "HEI-B2",
+      "pair_id": "HEI-B",
+      "exact_input_binding": {
+        "file": "exact-inputs-frozen01/HEI_B2_INPUT_01.json",
+        "bytes": 2201,
+        "sha256": "d388398713647964b4ac4d94667df895398559dcff541786f485975ac4794069",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_B2_INPUT_01.json",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_INPUT_01.json"
+      },
+      "exact_prompt_binding": {
+        "file": "exact-inputs-frozen01/HEI_B2_PROMPT_01.md",
+        "bytes": 1803,
+        "sha256": "30f6f972a5f45c32dd2f78221f975ab59b4137e878b51f6f0e2290373c71a572",
+        "reviewed_source_file": "exact-inputs-draft02/HEI_B2_PROMPT_01.md",
+        "canonical_destination": "series/konosuba/06 Character Modeling and Reconstruction/HEIDEL_EXPANDED_V1_EVIDENCE/HEI_B2_PROMPT_01.md"
+      },
+      "original_binding": {
+        "file": "originals-sealed01/HEI_B2_FIRST_01.md",
+        "bytes": 771,
+        "sha256": "a82369c00b640de830db32a5e7cad4ad03e3396ac91b568574b6a7b08d947999"
+      },
+      "original_response": "“Certainly, Satou-sama. The curator has requested precisely that wording.”\n\nHeidel picked up the card naming Kazuma and compared it with the note, giving both the same composed attention.\n\n“Clock selected by Satou Kazuma. It records your part in the matter without troubling anyone with a longer explanation.”\n\nHe left the collection card on the table.\n\n“A most convenient initiative, if I may say so. Your preference and the written instruction agree, so there is nothing further for me to settle between them.”\n\nHe inclined his head, the chosen card held ready.\n\n“I shall take this one for the display. Naturally, its reception is for the curator to determine; I can at least avoid improving the approved wording into a claim that you built the clock.”\n",
+      "single_authorship": true,
+      "no_revision_before_seal": true
+    }
+  ],
+  "authoring_record": "Four literal response bodies authored once in a single apply_patch call with four Add File operations immediately after exact-input seal. This wrapper copies those actual UTF8 first bodies; no script generated or filled response prose.",
+  "source_known_same_informed_root": true,
+  "all_four_input_cases_visible": true,
+  "earlier_cases_available_to_later": true,
+  "dependent_pairs": 2,
+  "independent_observation_count": null,
+  "feedback_started_at_assembly": false,
+  "no_accuracy_grade_or_confidence_gain": true,
+  "full_program_complete": false
+}

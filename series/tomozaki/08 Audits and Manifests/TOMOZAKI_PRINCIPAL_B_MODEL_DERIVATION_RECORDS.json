@@ -1,0 +1,124 @@
+{
+  "schema": "tomozaki_principal_B_portable_historical_records/v1",
+  "artifact_type": "derived_model_historical_evidence_records",
+  "record_group": "DERIVATION",
+  "status": "canonical",
+  "release_state": "fixed_historical_evidence",
+  "repository_authority": false,
+  "do_not_use_as_current_authority": true,
+  "do_not_use_as_primary_literary_authority": true,
+  "historical_value_policy": "Complete values are preserved unchanged and attributable. Creation-stage pending/no-admission statements do not supersede later root decisions. Historical scratch/helper-identity strings are provenance only; no helper body/argv/raw primary is included.",
+  "records": [
+    {
+      "record_id": "derivation.selected_three",
+      "value_kind": "new_administrative_derivation_proof",
+      "value": {
+        "derivations": [
+          {
+            "person_prefix": "NM",
+            "selected_original_record": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_ORIGINAL_MODEL_RECORDS.json",
+              "json_pointer": "/records/2/value"
+            },
+            "original_raw_identity": {
+              "path": "NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md",
+              "bytes": 21897,
+              "sha256": "b60ef7a0b803d7e0354e2f8ad909f23be83e2c9ddad3507e1c75bdf888df38a4"
+            },
+            "current_administrative_render": {
+              "path": "series/tomozaki/07 Character Reconstruction Models/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 23149,
+              "sha256": "240b0d1ef7cd4c293338eb158bc976a41264a5a09ef3cc11275679d6aba7d87e"
+            },
+            "complete_original_analytical_core": {
+              "bytes": 20861,
+              "sha256": "f0bbaedbc4f206e3f32cf934e76e61b08e6f4c2f95f490d97a81541e9a792c08",
+              "rendered_suffix_bytes_equal": true
+            },
+            "only_administrative_wrapper_changed": true,
+            "complete_unified_derivation_diff": "--- NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL_V2.md\n+++ series/tomozaki/07 Character Reconstruction Models/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,24 +1,33 @@\n ---\n-series: TOMOZAKI\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-subject: NANAMI_MINAMI_MIMIMI\n-model_version: NM_BOUNDED_V2_20261103\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n-proposed_repository_path: \"series/tomozaki/07 Character Reconstruction Models/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md\"\n+subject: Nanami Minami / Mimimi\n+model_core_version: V2\n+generation: V2_ACCEPTED_ADMINISTRATIVE_RENDER\n+intended_repository_path: series/tomozaki/07 Character Reconstruction Models/NANAMI_MINAMI_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n-literary_release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n+release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n+release_record_commit: 164a593d8ee6998cf735442d855135ababfee497\n root_construction_admission: MR-P03\n-root_admission_sha256: 733b2fbb431c610d74d09f90eb6d3bdc9c8e4d2da7832155949d33e28c712a17\n+root_individual_acceptance_sha256: bdc63cdb102b9750ac0db681baf6f43b6d7b7da885e2fa618caf266015b79913\n+root_exact_review_seal_sha256: 3606431dbe2f7c17ac293b2cbf4a5744201a3e01d2041f3d4241755120cf9b7f\n root_preregistration_freeze_sha256: 4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822\n frozen_preregistration_sha256: 0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3\n-dependency_packet: PRINCIPAL_B_MODEL_DEPENDENCIES.json\n-validation_state: ACTUAL_TRACES_AND_INDEPENDENT_ROOT_REVIEW_REQUIRED\n+operational_validation: BOUNDED_SEMANTIC_SOURCE_FIDELITY_AND_LOCAL_WRITTEN_REGISTER_PASS\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted this exact selected V2 core after frozen criteria, actual producer/independent applications, selective local written-register review and preserved defect/correction history. The complete original analytical body below is byte-identical; its pending statements are creation-stage history. The [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json) distinguish selected coverage, explicit V1 carry-forward and lifetime executions. No blind accuracy, freeform Japanese/full idiolect/acoustics, global grade, source OPEN closure, future outcome or terminal/publication pass is claimed.\n+\n \n # Mimimi: making a wanted exchange possible without assuming she can afford it\n \n",
+            "root_acceptance_record": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+              "json_pointer": "/records/1/value"
+            }
+          },
+          {
+            "person_prefix": "TH",
+            "selected_original_record": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_ORIGINAL_MODEL_RECORDS.json",
+              "json_pointer": "/records/3/value"
+            },
+            "original_raw_identity": {
+              "path": "NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 17318,
+              "sha256": "05d27a7901f802719ea3137ef435140eec4d40efafda17fbcf2f23a22fa27d5f"
+            },
+            "current_administrative_render": {
+              "path": "series/tomozaki/07 Character Reconstruction Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18570,
+              "sha256": "61e4540b6967cd1f63ba31a06b3dd8795fc9d5d5112ca7715c7c5b6cc67839de"
+            },
+            "complete_original_analytical_core": {
+              "bytes": 16272,
+              "sha256": "905a8e431b60f27ce9d5531c4ed44feae2ddb56c593bbc0285dded4ebbd3be0c",
+              "rendered_suffix_bytes_equal": true
+            },
+            "only_administrative_wrapper_changed": true,
+            "complete_unified_derivation_diff": "--- NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,24 +1,33 @@\n ---\n-series: TOMOZAKI\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-subject: NATSUBAYASHI_HANABI_TAMA\n-model_version: TH_BOUNDED_V1_20261103\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n-proposed_repository_path: \"series/tomozaki/07 Character Reconstruction Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md\"\n+subject: Natsubayashi Hanabi / Tama\n+model_core_version: V1\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n+intended_repository_path: series/tomozaki/07 Character Reconstruction Models/NATSUBAYASHI_HANABI_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n-literary_release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n+release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n+release_record_commit: 164a593d8ee6998cf735442d855135ababfee497\n root_construction_admission: MR-P05\n-root_admission_sha256: 733b2fbb431c610d74d09f90eb6d3bdc9c8e4d2da7832155949d33e28c712a17\n+root_individual_acceptance_sha256: c6f628314cb5e784e3794f06388ec0c111e6553b6a8cc1de833bc7eceb00c47c\n+root_exact_review_seal_sha256: 3606431dbe2f7c17ac293b2cbf4a5744201a3e01d2041f3d4241755120cf9b7f\n root_preregistration_freeze_sha256: 4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822\n frozen_preregistration_sha256: 0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3\n-dependency_packet: PRINCIPAL_B_MODEL_DEPENDENCIES.json\n-validation_state: ACTUAL_TRACES_AND_INDEPENDENT_ROOT_REVIEW_REQUIRED\n+operational_validation: BOUNDED_SEMANTIC_SOURCE_FIDELITY_AND_LOCAL_WRITTEN_REGISTER_PASS\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted this exact selected V1 core after frozen criteria, actual producer/independent applications, selective local written-register review and preserved defect/correction history. The complete original analytical body below is byte-identical; its pending statements are creation-stage history. The [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json) distinguish selected coverage, explicit V1 carry-forward and lifetime executions. No blind accuracy, freeform Japanese/full idiolect/acoustics, global grade, source OPEN closure, future outcome or terminal/publication pass is claimed.\n+\n \n # Tama: choosing the point, adapting its delivery, and accounting for its cost\n \n",
+            "root_acceptance_record": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+              "json_pointer": "/records/2/value"
+            }
+          },
+          {
+            "person_prefix": "IY",
+            "selected_original_record": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_ORIGINAL_MODEL_RECORDS.json",
+              "json_pointer": "/records/0/value"
+            },
+            "original_raw_identity": {
+              "path": "IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 18891,
+              "sha256": "685c4f9736229b6dd705237f0b266158ae4a99ae40ed068e8db15c45e86344c1"
+            },
+            "current_administrative_render": {
+              "path": "series/tomozaki/07 Character Reconstruction Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md",
+              "bytes": 20141,
+              "sha256": "6d4c5d1c1a13757edae0027692a1f575b67dc72f71bed9204e2f048e716cf7a1"
+            },
+            "complete_original_analytical_core": {
+              "bytes": 17868,
+              "sha256": "6f2f01f608fb67ecbefe9bec241d8a671adb349f9f6c0cc688d2f2a5950e34f2",
+              "rendered_suffix_bytes_equal": true
+            },
+            "only_administrative_wrapper_changed": true,
+            "complete_unified_derivation_diff": "--- IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md\n+++ series/tomozaki/07 Character Reconstruction Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md\n@@ -1,24 +1,33 @@\n ---\n-series: TOMOZAKI\n artifact_type: character_reconstruction_model\n authority_class: derived_use_model\n-subject: IZUMI_YUZU\n-model_version: IY_BOUNDED_V1_20261103\n-status: draft_noncurrent\n-release_state: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n do_not_use_as_primary_literary_authority: true\n-proposed_repository_path: \"series/tomozaki/07 Character Reconstruction Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md\"\n+subject: Izumi Yuzu\n+model_core_version: V1\n+generation: V1_ACCEPTED_ADMINISTRATIVE_RENDER\n+intended_repository_path: series/tomozaki/07 Character Reconstruction Models/IZUMI_YUZU_BOUNDED_RECONSTRUCTION_MODEL.md\n literary_basis_commit: b498a20457e4debeb70895fca8ebd37717e91017\n-literary_release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n+release_id: TOMOZAKI_JP_LN_V12_EDITION_1_20261103\n+release_record_commit: 164a593d8ee6998cf735442d855135ababfee497\n root_construction_admission: MR-P07\n-root_admission_sha256: 733b2fbb431c610d74d09f90eb6d3bdc9c8e4d2da7832155949d33e28c712a17\n+root_individual_acceptance_sha256: 4bb652291c44a516d5e420e0e17815ba7bc101650fde10602d79d278647df3c3\n+root_exact_review_seal_sha256: 3606431dbe2f7c17ac293b2cbf4a5744201a3e01d2041f3d4241755120cf9b7f\n root_preregistration_freeze_sha256: 4b4275c68c443b708c558477d6a185ee33eeb043205a58bbdb10820fe4a88822\n frozen_preregistration_sha256: 0d907323eea7fdfe544d014a9bda8dcdb18725ec2d59c4a0c92caa1b03ec6fb3\n-dependency_packet: PRINCIPAL_B_MODEL_DEPENDENCIES.json\n-validation_state: ACTUAL_TRACES_AND_INDEPENDENT_ROOT_REVIEW_REQUIRED\n+operational_validation: BOUNDED_SEMANTIC_SOURCE_FIDELITY_AND_LOCAL_WRITTEN_REGISTER_PASS\n+administrative_render_date: 2026-11-03\n+supersedes: []\n+superseded_by: []\n+integration_review: series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_INTEGRATION_REVIEW.md\n+evidence_and_review_packet: series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json\n ---\n+\n+> **Current bounded acceptance — 2026-11-03.** Root accepted this exact selected V1 core after frozen criteria, actual producer/independent applications, selective local written-register review and preserved defect/correction history. The complete original analytical body below is byte-identical; its pending statements are creation-stage history. The [integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_INTEGRATION_REVIEW.md) and [portable packet](../08%20Audits%20and%20Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_EVIDENCE_AND_REVIEW_PACKET.json) distinguish selected coverage, explicit V1 carry-forward and lifetime executions. No blind accuracy, freeform Japanese/full idiolect/acoustics, global grade, source OPEN closure, future outcome or terminal/publication pass is claimed.\n+\n \n # Yuzu: making a valued relation workable without inventing unlimited capacity\n \n",
+            "root_acceptance_record": {
+              "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRINCIPAL_B_MODEL_ROOT_ACCEPTANCE_RECORDS.json",
+              "json_pointer": "/records/3/value"
+            }
+          }
+        ],
+        "source_prerequisite": "Fixed Edition1 exact literature; no source or model mechanism rewrite.",
+        "NM_V1_history": "Original V1 body and all initial outputs, NM-D01, exact V2 delta, eight producer retests and independent preimage/correction/four retest outputs retained as separate complete records.",
+        "selected_coverage": {
+          "producer_cases": 22,
+          "producer_suboutputs": 46,
+          "Mimimi_V1_carry_forward_cases": 6,
+          "Mimimi_V1_carry_forward_suboutputs": 12,
+          "independent_inputs": 16,
+          "independent_suboutputs": 35,
+          "Mimimi_independent_V1_carry_forward_inputs": 4,
+          "Mimimi_independent_V1_carry_forward_suboutputs": 9
+        },
+        "lifetime_executions": {
+          "producer_cases": 24,
+          "producer_suboutputs": 54,
+          "independent_inputs": 18,
+          "independent_suboutputs": 40
+        },
+        "publication": "Candidate only; root owns install/exact-head checks/publication."
+      }
+    }
+  ]
+}

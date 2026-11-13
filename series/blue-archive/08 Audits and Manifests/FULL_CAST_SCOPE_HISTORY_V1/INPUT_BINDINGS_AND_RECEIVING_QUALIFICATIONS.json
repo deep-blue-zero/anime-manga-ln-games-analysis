@@ -1,0 +1,225 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/INPUT_BINDINGS_AND_RECEIVING_QUALIFICATIONS.json",
+  "original_frozen_binding": {
+   "bytes": 12605,
+   "sha256": "fbb58023f6622ebf87906d6f622d5fbadab15fb5fb4a0c88daadb03fd1e3bf3d",
+   "git_blob_sha1": "ebf9275fc2cd5c18e53e6824d75df57b4eb6343f"
+  }
+ },
+ "historical_payload": {
+  "scope": {
+   "state": "C_ONLY_SEMANTIC_PARTITION_PROPOSAL_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+   "N_frozen": false,
+   "monograph_completion_credit_added": 0,
+   "primary_narrative_credit_added": 0,
+   "percentage_or_quarter_claimed": false,
+   "repository_writes": false,
+   "historical_source_baseline": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+   "reported_current_publication": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+   "reported_current_candidate_sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523"
+  },
+  "inputs": [
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MAIN_SPECIAL/MAIN_SPECIAL_CENSUS_CANDIDATE.json",
+     "bytes": 282340,
+     "sha256": "28c1f3905bf099b10e1d09d028733b5c022769f2fc05e3ac6fa13d93298b9cae",
+     "git_blob_sha1": "76856e202f8363507e87c52a83f15dc06995f47f"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MILLENNIUM/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V1.json",
+     "bytes": 26772,
+     "sha256": "cc0daad45b5dfe26e66049719271282704f419d9864daa284f9f76e33e4b4768",
+     "git_blob_sha1": "f7f8ce1c188932b885cd0529b7be84f49cc15c48"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_MILLENNIUM_V2/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V2.json",
+     "bytes": 34855,
+     "sha256": "41fd1078e3f7b15ec4225f6cf71dad5a623fb7cbc06778042872e5b2cabdd02a",
+     "git_blob_sha1": "f864562949adf311b201eca0de1f3dedc3813819"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_TRINITY_V1/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V1.json",
+     "bytes": 87882,
+     "sha256": "3135c48175aabf56bf1c65477d6392471b59fbf6745a2aefbeca2df2ebdbb1c9",
+     "git_blob_sha1": "4dcab7742e689b93d72c4c0e19fea023153744f3"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_TRINITY_V2/BLUE_ARCHIVE_PHASE3_TRINITY_DECISION_REGISTER_V2.json",
+     "bytes": 94478,
+     "sha256": "6f8607abe964b0032bda888a6d3b9f37b374a5aba8d953eca83d7f485627b6d4",
+     "git_blob_sha1": "9643a0a29ebf143f506f3410bb6e55aed3666e02"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_ABYDOS_ARIUS/ABYDOS_ARIUS_CHARACTER_DECISIONS.json",
+     "bytes": 50413,
+     "sha256": "5bed3de0f634d68b3591080b1bbf6c1767c7ed7b1e183e6511e578475276e4ac",
+     "git_blob_sha1": "e68c9c6640caf99b663992282a3c2ced4cc06593"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/ROOT_RED_WINTER10_DECISION_REGISTER_V1.json",
+     "bytes": 11142,
+     "sha256": "5d5592dc5157c58078ca7bf76c0e426ea98964f7e50ce1009edd9e38964212ff",
+     "git_blob_sha1": "ed725598cd4bb99bb86ed54a110ff1266a768cfb"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/ROOT_VALKYRIE3_DECISION_REGISTER_V2.json",
+     "bytes": 15188,
+     "sha256": "0d3683af714e8a77255063d1a5beb9078ffc3a8320ead9821f95489e12010d9c",
+     "git_blob_sha1": "091794d08a88e462d8f0ba2fbc2a3837598d0523"
+    },
+    "use": "Original frozen semantic register",
+    "receiving": "Attributed author/ROOT complete original custody; personal whole question projection received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_GEHENNA/GEHENNA_PS68_CHARACTER_DECISIONS.json",
+     "bytes": 82363,
+     "sha256": "bb070ae5a9b005ae3aa9fcf5d0d1e837c434102427cb29978bf1b5dc1a463fd7",
+     "git_blob_sha1": "fd7be9487db4f4d539c1bdcc6f9929cfa5289845"
+    },
+    "use": "Original argument or exact frozen coverage reference",
+    "receiving": "Own complete author custody for three cohorts; own mechanical scope received; ROOT Red Winter full body received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_HYAKKIYAKO_SHANHAIJING/HYAKKIYAKO_SHANHAIJING_CHARACTER_DECISIONS.json",
+     "bytes": 128815,
+     "sha256": "d74b602e7fd31c51968f416ad565648d897fa628182d314995cfad127af965cd",
+     "git_blob_sha1": "718a180e2508f4e181e1d0a771577950b2691a6c"
+    },
+    "use": "Original argument or exact frozen coverage reference",
+    "receiving": "Own complete author custody for three cohorts; own mechanical scope received; ROOT Red Winter full body received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_COHORT_DECISIONS_V1/CENSUS_RESIDUAL26/RESIDUAL26_CHARACTER_DECISIONS.json",
+     "bytes": 156748,
+     "sha256": "4306ecafa61000db5960956f4d4c7ca28789f44ab1cb76188f2a82bc09338afc",
+     "git_blob_sha1": "fed794fb1b1ff2caea864c617baa28178366bfea"
+    },
+    "use": "Original argument or exact frozen coverage reference",
+    "receiving": "Own complete author custody for three cohorts; own mechanical scope received; ROOT Red Winter full body received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/OWNER_COVERAGE_MATRIX.json",
+     "bytes": 407296,
+     "sha256": "3ee93c8f2ad94de8a2bb9dc12207158945a010155e1f775799317271cded497a",
+     "git_blob_sha1": "f8afc2254f5d683072c959ab84f6aafcc4913d52"
+    },
+    "use": "Original argument or exact frozen coverage reference",
+    "receiving": "Own complete author custody for three cohorts; own mechanical scope received; ROOT Red Winter full body received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/EXACT_OUTPUT_MANIFEST.json",
+     "bytes": 6119,
+     "sha256": "d05786e4b3ad2a500b33c01d317675c5e7e7b4ff2a802467622be35d803f895c",
+     "git_blob_sha1": "8a29a9afb00e229f05c188297f4ee09015af8f74"
+    },
+    "use": "Original argument or exact frozen coverage reference",
+    "receiving": "Own complete author custody for three cohorts; own mechanical scope received; ROOT Red Winter full body received"
+   },
+   {
+    "tuple": {
+     "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_COHORT_ARGUMENTS_V1/ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md",
+     "bytes": 32751,
+     "sha256": "cb20b5b0f2e0cd757ed2a1d0495116cebe771031c969b5858ca66b647a5e89b9",
+     "git_blob_sha1": "d56786e8e2b5184c3c69056df0ede08c772b0bea"
+    },
+    "use": "Original argument or exact frozen coverage reference",
+    "receiving": "Own complete author custody for three cohorts; own mechanical scope received; ROOT Red Winter full body received"
+   },
+   {
+    "tuple": {
+     "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_ALL_CHARACTER_SOURCE_DECISIONS.json",
+     "bytes": 877121,
+     "sha256": "a7e836edc1978bd25ba73d80ab1e1a416614aba875904c39f03490acfacabcfb",
+     "git_blob_sha1": "6d12a3c49b6393d781cc0d85ccc74f1f5db02d3f"
+    },
+    "use": "Exact local derivative; provenance retained",
+    "receiving": "Full question view and Millennium thesis/shared view received; full character copy mechanically projected losslessly, not claim of personal full original receiving"
+   },
+   {
+    "tuple": {
+     "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_C1_TYPED_DISPATCH_GAPS.json",
+     "bytes": 4389,
+     "sha256": "752354ab0628b4bfbf69a016023dc9293dd52c57767d7fa14d5f9ae33ba1a04f",
+     "git_blob_sha1": "a8cd02b04a81e0c6f51baff1838209eda235ba6a"
+    },
+    "use": "Exact local derivative; provenance retained",
+    "receiving": "Full question view and Millennium thesis/shared view received; full character copy mechanically projected losslessly, not claim of personal full original receiving"
+   },
+   {
+    "tuple": {
+     "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_QUESTION_RECONCILIATION_VIEW.jsonl",
+     "bytes": 134231,
+     "sha256": "9977e258b0056e517227079019769e028273573e7b753c6eff1affe46f1bd0a6",
+     "git_blob_sha1": "78a525cd2f01170739f3ecbcd296367056da4b72"
+    },
+    "use": "Exact local derivative; provenance retained",
+    "receiving": "Full question view and Millennium thesis/shared view received; full character copy mechanically projected losslessly, not claim of personal full original receiving"
+   },
+   {
+    "tuple": {
+     "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+     "bytes": 74124,
+     "sha256": "8c68d1dbbc5332983e890bdd6743fcdf894d63e534b0035d53fc38097946055f",
+     "git_blob_sha1": "132dfa4cd6c95a040116f138d2104c5471b84b8a"
+    },
+    "use": "Exact local derivative; provenance retained",
+    "receiving": "Full question view and Millennium thesis/shared view received; full character copy mechanically projected losslessly, not claim of personal full original receiving"
+   },
+   {
+    "tuple": {
+     "path": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1\\WORKING_CURRENT_OWNER_RECEIVING.json",
+     "bytes": 28122,
+     "sha256": "4d7288d7f552199882096dcbd7316dc6daad2d3996b7d2c1f78d6049d9a05b5a",
+     "git_blob_sha1": "d63ff2a9ef1a2488c7ad19705d708ed476719475"
+    },
+    "use": "Exact local derivative; provenance retained",
+    "receiving": "Full question view and Millennium thesis/shared view received; full character copy mechanically projected losslessly, not claim of personal full original receiving"
+   }
+  ],
+  "current_public_owner_exact_tuples": "CURRENT_PUBLIC_MEANING_RECEIVING_RECEIPT.json",
+  "mechanical_manifest_immutable": true,
+  "nine_unbound_large_artifacts_read_or_hashed": false,
+  "current_public_meanings_c1_bytes_equal": true
+ }
+}

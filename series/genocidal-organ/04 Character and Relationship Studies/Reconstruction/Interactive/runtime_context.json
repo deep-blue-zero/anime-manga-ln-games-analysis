@@ -1,0 +1,791 @@
+{
+  "schema": "character-runtime-context-observations/v1",
+  "observed_utc": "2026-10-19T04:25:37.959916+00:00",
+  "export_boundary": "Selected exposed context fields only. Private absolute paths, account IDs and full host instruction bodies omitted; body digests retained. This is not an assertion of server system prompt access.",
+  "sessions": [
+    {
+      "id": "alex",
+      "session_id": "01a1525c-ff42-77b0-bda1-4dd01f24c2ae",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a1525c-ff4b-7ac0-8dc2-5cf3d08d8ad4"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "ce7eb7acab28a77eb442a06d06ecba03196fcec9f0690022cb7a81670407686a",
+          "characters": 574,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "clavis",
+      "session_id": "01a1525d-aa1c-7bf1-91de-afba7dfd138b",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a1525d-aa21-70b2-b4d2-9c0a91f23091"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "935a68580679d7a24144d7248edf8979879bb97a85e9aaadd89887c245b726c8",
+          "characters": 574,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "john_paul",
+      "session_id": "01a1525d-aa22-7692-b266-53675a1d1c77",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a1525d-aa28-76c1-96c5-0870b01493c5"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "d777425eea4fdb75444a42abdd600458769f9c3a2864e0bba367c206d5d4c946",
+          "characters": 580,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "leland",
+      "session_id": "01a15260-1fb7-7d50-b7ea-c76602350724",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a15260-1fbb-78e0-8b7d-eb32be4f3db3"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "d6bbc498792fce8618b648e6ce8ca11bee7d5b340f1976356865c780b0514552",
+          "characters": 574,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lucia",
+      "session_id": "01a1525f-c2b5-7460-9dd7-3b61f3bcfeea",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a1525f-c2ba-7e43-af76-f527ebe86501"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "c6b4f358c60d79bf4502e4624c7db076ae9eb05c8b688d50dd8c9fb1ebe5f465",
+          "characters": 9800,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "ee93f467320ab7cd97f4e0994fd06efa4a99d50fc73ea87d752553c8a2241ced",
+          "characters": 572,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lucius",
+      "session_id": "01a15261-804a-7eb1-afe7-01014ec11e06",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a15261-804d-79c3-969f-1f4ee5873036"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "28f7e8a2e0909f57121011d5f88c497706242d7e7a6b38418cb88fdd7c1f0f15",
+          "characters": 574,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rockwell",
+      "session_id": "01a15260-26a0-7650-a0dc-0a1608eac47d",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a15260-26a5-78a1-91ae-c93b4ba68ce7"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "f776f9eedf538429007cc6c5241d04bf77177100e0356a522b3e072ef1464ba1",
+          "characters": 578,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    },
+    {
+      "id": "williams",
+      "session_id": "01a1525d-aa21-7e82-aca9-9d500bff28d5",
+      "session_meta_cli_version": "0.163.0-alpha.10.2",
+      "model_provider": "openai",
+      "context_window_exposed": {
+        "window_id": "01a1525d-aa26-7043-89f0-47402533ef70"
+      },
+      "local_base_instruction_text_sha256": "e1bdd4f8f0df4b20f4a0ffc8a861ce819df45325d8cecdfb92e80379cf8d142e",
+      "initial_host_messages": [
+        {
+          "role": "developer",
+          "text_utf8_sha256": "d1875a50411c8a15e8808c9cd823e75a41efde3806ae95e25503af425d331eb6",
+          "characters": 4144,
+          "skills_catalog_present": true,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "3edd51083129388f52e881435e93e4b981e00c5ee3d62ab5d32e22c428fd504b",
+          "characters": 2400,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "developer",
+          "text_utf8_sha256": "6ded806e3cdbb35599ecaf8742574bc5274908472b1729090010c404c2151e8e",
+          "characters": 271,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        },
+        {
+          "role": "user",
+          "text_utf8_sha256": "45832d5c123d66c6816bf602b9030ad190e8d721a84496f1b7d42bab398d2f7d",
+          "characters": 578,
+          "skills_catalog_present": false,
+          "repository_operating_card_present": false
+        }
+      ],
+      "observed_turn_contexts": [
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        },
+        {
+          "model": "gpt-6.1-sol",
+          "effort": "xhigh",
+          "approval_policy": "never",
+          "sandbox_policy": {
+            "type": "read-only"
+          }
+        }
+      ]
+    }
+  ]
+}

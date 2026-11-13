@@ -1,0 +1,1240 @@
+{
+  "schema": "SAMMY_SOURCE_SCOPED_CHARACTER_FULL_CLAIM_RIVAL_FINITE_END_AND_GAP_REGISTER_V1",
+  "current_qualifier": {
+    "required_home": "P3-CHAR-M032",
+    "source_responsibility": "P3-M032",
+    "source_local_subject": "Sammy / サミー / MAIN_S2_V003_C001",
+    "current_scope": "EXISTING_ACCEPTED_REQUIRED_HOME_WITH_LIMITS",
+    "present_disposition": "COMPLETE_PRIVATE_AUTHOR_PROPOSAL;ROOT_LITERARY_RECEIVING_AND_CANONICAL_INSTALLATION_PENDING",
+    "future_primary_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "own_current_core19": {
+      "complete_maintained_analytical_normals": 18,
+      "selected_complete_family_meaning_and_current_limits_plus_tail": 1,
+      "underlying_primary_native_raw_AV": 0
+    },
+    "own_current105": {
+      "adequate_report_meanings": 105,
+      "finite_union": "O000–O104 exactly once",
+      "manually_Sammy_specific_questions_and_positive_limits": 105,
+      "fresh_underlying105_normal_replay": 0
+    },
+    "separate_attributed_grades": {
+      "original_contributors": "26 whole /79 selected connected analytical sources",
+      "ROOT_common105": "all105 report meanings adopted WITH LIMITS",
+      "ROOT_original_core19": "original ROOT scope remains separately attributed, not this author's fresh inspection"
+    },
+    "operative_authority": "Current Cycle008 qualified analytical adoption over retained historical UNADMITTED/frontier/pending creation states; no new admission",
+    "all14_original_gaps": "OPEN",
+    "operational_models": 0,
+    "validated_predictions": 0,
+    "no_exclusion_basis": [
+      "low stakes",
+      "popularity",
+      "animal status",
+      "private-join absence",
+      "name absence",
+      "model grade"
+    ],
+    "no_new_credit": {
+      "primary_native_raw_AV": 0,
+      "source_admission": 0,
+      "private_family_join": 0,
+      "global_person_or_variant_join": 0,
+      "named_sections": 0,
+      "models": 0,
+      "canonical_completed_packages": 0,
+      "remote_publications": 0,
+      "main_integrations": 0
+    },
+    "separate_homes": "Ami M039; Minato M040; directed Sammy-care; Odysseia institution; claimant M008; GSC all remain separately owned",
+    "comparison_limits": "Human testimony, animal movement, narration, memories, hypotheses, conditional alternatives and report grades remain distinct; no source/actor/calendar/clinical transfer"
+  },
+  "current_proposed_body": {
+    "bytes": 24887,
+    "sha256": "b3a06892f5078b34a6b307e6daaa0d17ea48dc7935b86e739830493ce543487f",
+    "Git_blob": "62b2f9d19a95959843eb9b33c9b82de4732920d7",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAMMY_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "format": "UTF8_LF_FINAL_NEWLINE_NO_BOM",
+    "installed": false
+  },
+  "claims": [
+    {
+      "claim_id": "SM01",
+      "body_section": 1,
+      "question": "What establishes Sammy's independent subjecthood?",
+      "positive_claim": "Represented movement, familiar life and limited final narration support a particular animal-character argument.",
+      "counterevidence_and_limit": "A complete human inner monologue, student office or informed all-method consent is not supplied.",
+      "source_aliases": [
+        "MN03",
+        "MN06",
+        "MN10",
+        "MN13"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E003 scene001u0019–0038",
+        "E006 scene001u0001–0002",
+        "E010 scene002u0035–0087,u0109–0125",
+        "E013 scene002u0050–0054"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/2"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/5"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/9"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/12"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "New stronger cognition or identity claims need specific adequate animal-representation evidence, not presumed human psychology.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM02",
+      "body_section": 4,
+      "question": "What ordinary acts matter before the health dispute?",
+      "positive_claim": "Sniffing, accepted touch and directly narrated play establish ordinary contact and activity.",
+      "counterevidence_and_limit": "Run motive, starvation, performed whistle causation and complete preference set remain unprinted.",
+      "source_aliases": [
+        "MN03",
+        "MN05",
+        "MN06"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E003 scene001u0019–0038,u0058–0073",
+        "E005 scene001u0012–0017",
+        "E006 scene001u0001–0002"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/2"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/4"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/5"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A specific new preference requires adequate recipient or narrator warrant; no crisis significance threshold applies.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM03",
+      "body_section": 4,
+      "question": "What does the rope toy and nickname explanation establish?",
+      "positive_claim": "Minato's maker account, durable rope and imperfect first-year knots liked by Sammy support familiar making and recipient value.",
+      "counterevidence_and_limit": "Displaced nickname tags, unprinted inscription date and chain prevent independent translation, sending intention or physical provenance.",
+      "source_aliases": [
+        "MN01",
+        "MN04",
+        "MN05",
+        "MN08"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E005 scene001u0001–0017",
+        "E008 scene001u0065–0070"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/0"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/3"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/4"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/7"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Stronger object custody or translation needs independent adequate exact evidence; report-level liking remains positive.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM04",
+      "body_section": 5,
+      "question": "How strong are age, history and early health reports?",
+      "positive_claim": "Reported records show at least fifteen years, arrival is unknown, and Minato/Ami relay symptoms and a possible fast boat.",
+      "counterevidence_and_limit": "No opened record, diagnosis chart, transport performed or comparative veterinary plan; embedded student positions are not a referendum.",
+      "source_aliases": [
+        "MN05"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E005 scene001u0018–0064"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/4"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Authentication, exact age, performed shore care or preference testing requires its own adequate consequential evidence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM05",
+      "body_section": 5,
+      "question": "Does the cough establish weather causation?",
+      "positive_claim": "Direct cough and squall have local sequence and students interpret their association through taboo.",
+      "counterevidence_and_limit": "No mechanism demonstrates cat-produced weather; no global impossibility of magic is inferred.",
+      "source_aliases": [
+        "MN06",
+        "MN08"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E006 scene001u0008–0026",
+        "E008 scene001u0036–0056"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/5"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/7"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A weather-cause claim needs independent mechanism and warranted contrary cases beyond co-occurrence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM06",
+      "body_section": 5,
+      "question": "Can Sammy's activity contribute to practical hazard without moral blame?",
+      "positive_claim": "Curiosity, railing movement and wet-deck slips participate in material risk; Sensei prevents Sumika's fall.",
+      "counterevidence_and_limit": "No deliberate injury, exact cargo loss, cat health clearance or universally passive innocence is proved.",
+      "source_aliases": [
+        "MN06"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E006 scene002u0011–0025",
+        "E006 scene003u0023–0037"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/5"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Specific fault, damage or clinical effect requires actual secure action and outcome evidence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM07",
+      "body_section": 5,
+      "question": "What does shaking and the direct physician's will discussion establish?",
+      "positive_claim": "Sumika shakes Sammy; Sanae stops her and gives hypertension/dizziness/environment risk and will concerns.",
+      "counterevidence_and_limit": "Vocalization is not residence preference; no printed exam or will test; Sanae's anti-projection criticism is not omniscience.",
+      "source_aliases": [
+        "MN07"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E007 scene001u0027–0047"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/6"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Medical mechanisms or complete feline wishes need adequate specific evidence beyond authority or interpretation.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM08",
+      "body_section": 4,
+      "question": "Do abundant gifts certify recipient welfare?",
+      "positive_claim": "Actual balls/food offerings and reconsideration preserve affection, familiarity, illness burden and disagreement about total disposal.",
+      "counterevidence_and_limit": "Final packing, use, consumption and benefit are unprinted; reported favorites are not this scene's eaten food.",
+      "source_aliases": [
+        "MN09"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E009 scene001u0017–0047"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/8"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A consumption, administered amount or welfare result needs its actual endpoint and recipient conditions.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM09",
+      "body_section": 5,
+      "question": "What does the ordinary walk and familiar chase show?",
+      "positive_claim": "Reported ordinary walk, represented rope/rail/narrow-passage movement and student sheltering establish familiarity and activity.",
+      "counterevidence_and_limit": "Past bath/vaccine avoidance is not present motive; agility does not disprove illness or informed escape intent.",
+      "source_aliases": [
+        "MN10"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E010 scene002u0016–0087"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/9"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A current motive or health recovery claim needs specific adequate evidence, not analogy from prior habits.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM10",
+      "body_section": 7,
+      "question": "What does Sammy's approach to fallen Minato mean?",
+      "positive_claim": "The approach is represented; Minato reads concern and expresses thanks/apology.",
+      "counterevidence_and_limit": "Concern and water dislike are her interpretations; the action is not authenticated rescue purpose or complete consent.",
+      "source_aliases": [
+        "MN10",
+        "MN11"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E010 scene002u0109–0125",
+        "E011 scene001u0022–0035"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/9"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/10"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A stronger intentional-care claim requires adequate narrator or recipient-specific warrant and secure mode.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM11",
+      "body_section": 2,
+      "question": "What actually happens to the proposed handover?",
+      "positive_claim": "After preparation, the handover remains unsigned; Minato requests cancellation and the claimant agrees to her request.",
+      "counterevidence_and_limit": "No completed prior transfer, inspected hygiene ground, formal rescission, care plan or health cure.",
+      "source_aliases": [
+        "MN08",
+        "MN09",
+        "MN10",
+        "MN11"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E008 scene001u0071–0086",
+        "E010 scene001u0001–0003",
+        "E011 scene001u0012–0055"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/7"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/8"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/9"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/10"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Legal disposition, completed transfer or treatment needs actual signed/action/recipient evidence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM12",
+      "body_section": 5,
+      "question": "What do the critical report and rejected single-cause guilt establish?",
+      "positive_claim": "Sanae reports grave vital observations, offers kidney/cardiac hypotheses and rejects one hypothetical cause for deterioration.",
+      "counterevidence_and_limit": "No chart, independently inspected method, exact death cause, real-world veterinary ruling or total exoneration.",
+      "source_aliases": [
+        "MN11",
+        "MN12"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E011 scene001u0065–0073",
+        "E012 scene002u0002–0017"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/10"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/11"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Stronger medical causation requires independently adequate diagnosis/course and actual alternatives.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM13",
+      "body_section": 4,
+      "question": "How do remembered play and familiar scenery support a farewell?",
+      "positive_claim": "Minato recounts bubbles, tag, sunlight, rope ball and familiar views as her reason for the final gift.",
+      "counterevidence_and_limit": "Memory is not a current critical-state preference test; no clinical optimum or every student's permission follows.",
+      "source_aliases": [
+        "MN12",
+        "MN13"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E012 scene002u0040–0047",
+        "E013 scene002u0044–0049"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/11"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/12"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Present preference or best treatment needs specific adequate current recipient/clinical evidence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM14",
+      "body_section": 2,
+      "question": "Does the announced voyage actually occur?",
+      "positive_claim": "E012 plans 06:00; E013 represents Olympos departure, later Cruise and Trident participation and additional requests.",
+      "counterevidence_and_limit": "Requests are not all departures; guest schedules and no-complaint bet are unverified; no complete fleet roster.",
+      "source_aliases": [
+        "MN12",
+        "MN13"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E012 scene002u0048–0053",
+        "E013 scene002u0002–0043"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/11"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/12"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Complete turnout, safety clearance or universal permission needs actual roster/recipient/inspection results.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM15",
+      "body_section": 8,
+      "question": "What does the final narration give Sammy?",
+      "positive_claim": "Narration gives fellow sailors in his view, usual place, friends and a contented expression, then ends his voyage; context strongly depicts death.",
+      "counterevidence_and_limit": "No clinical certificate, exact time, postmortem disposition, total cognition or informed medical consent.",
+      "source_aliases": [
+        "MN13",
+        "MN14"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E013 scene002u0050–0054",
+        "E014 scene001u0001–0012"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/13"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Stronger clinical or cognition claims need their own adequate warrant; do not reduce actual narrator channel to only human projection.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM16",
+      "body_section": 10,
+      "question": "Whose acts are the changed cleaning, tuna habit and cushion?",
+      "positive_claim": "Survivors' concrete habits and retained cushion preserve continuing grief and absence.",
+      "counterevidence_and_limit": "No posthumous Sammy speech, restored life, universal grief cure or shared psychic state.",
+      "source_aliases": [
+        "MN14"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E014 scene001u0001–0012,u0047–0062"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/13"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Future grief, reunion or completed new ties needs actual later relevant outcomes.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM17",
+      "body_section": 3,
+      "question": "Does the farewell prove a redeemed institution?",
+      "positive_claim": "Minato reports some reconsideration; a local visitor exception and retained right-foot custom reveal partial change.",
+      "counterevidence_and_limit": "Limited incident knowledge, speaker satisfaction and future hope do not prove consensus, taboo abolition or office authentication.",
+      "source_aliases": [
+        "MN14"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E014 scene001u0013–0062,u0077–0093"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/13"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Durable reform needs supported later actions, affected-party answers and exact institutional evidence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM18",
+      "body_section": 6,
+      "question": "What relation to Sensei is actually secured?",
+      "positive_claim": "Accepted touch, observation, rescue of Sumika and practical involvement affect Sammy's environment.",
+      "counterevidence_and_limit": "No reciprocal linguistic teacher relation, feline request, clinical endorsement or omniscient adult design.",
+      "source_aliases": [
+        "MN05",
+        "MN06",
+        "MN08",
+        "MN10",
+        "MN12"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E005 scene001u0012–0017",
+        "E006 scene003u0023–0037",
+        "E008 scene001u0030–0035",
+        "E012 scene002u0027–0031"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/4"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/5"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/7"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/9"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/11"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A stronger reciprocal or sole-author claim needs explicit adequate subject/actor and knowledge evidence.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM19",
+      "body_section": 10,
+      "question": "What can the public/private animal channel establish?",
+      "positive_claim": "Named presence, familiar intimate-scale places and limited narrator perspective are positive different channels.",
+      "counterevidence_and_limit": "No typed Sammy private family, complete inward monologue, performed meow or global private absence.",
+      "source_aliases": [
+        "MN03",
+        "MN05",
+        "MN10",
+        "MN13",
+        "MN14",
+        "MN16"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E003 scene001u0019–0038",
+        "E010 scene002u0016–0055",
+        "E013 scene002u0050–0054",
+        "E014 scene001u0055–0062"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/2"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/4"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/9"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/13"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/15"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A newly recovered specific private/identity/performance witness needs authorized adequate receiving at that grade.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM20",
+      "body_section": 4,
+      "question": "What positive role does each supplemental purpose have for Sammy?",
+      "positive_claim": "All105 target questions preserve ordinary goods, individualized reception, changing permission, fallible care and exact endpoints without a stakes filter.",
+      "counterevidence_and_limit": "The report pass is not fresh underlying full normal or primary reading, and comparative human consent or recovery cannot supply feline equivalents.",
+      "source_aliases": [
+        "MN17",
+        "MN18",
+        "MN19"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "Common105 O000–O104 exact purpose records; body §§4,6,9,11"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/16"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/17"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/18"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "A stronger exact-source fact outside adequate received report scope requires consequential current source argument/tail receiving.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM21",
+      "body_section": 9,
+      "question": "How do source classes, chronology and identities stay bounded?",
+      "positive_claim": "MAIN Sammy death/grief, EVENT861 office/whale-remains care and distinct human private families remain positively comparable.",
+      "counterevidence_and_limit": "No event bereavement merger, cat/whale consent equality, diver/private/officer join or inter-story date edge.",
+      "source_aliases": [
+        "MN16",
+        "MN17",
+        "MN18",
+        "MN19"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "MN17 complete qualified account; MN18 selected family argument/current limits/tail; MN19 complete qualified account"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/15"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/16"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/17"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/18"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Any stronger cross-source identity or chronology needs exact admitted warrant and separate ROOT adjudication.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    },
+    {
+      "claim_id": "SM22",
+      "body_section": 11,
+      "question": "Can the humane-looking farewell decide medical optimum?",
+      "positive_claim": "Familiarity, meaningful accompaniment, narrator contentment and death are affirmative literary outcomes.",
+      "counterevidence_and_limit": "No unperformed shore-treatment counterfactual, validated decision rule, model or medical optimality is supplied.",
+      "source_aliases": [
+        "MN12",
+        "MN13",
+        "MN14"
+      ],
+      "canonical_locators_at_analytical_carrier_grade": [
+        "E012 scene002u0002–0017,u0040–0053",
+        "E013 scene002u0044–0054",
+        "E014 scene001u0047–0062"
+      ],
+      "source_binding_references": [
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/11"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/12"
+        },
+        {
+          "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+          "pointer": "/records/13"
+        }
+      ],
+      "evidence_grade": "ADMITTED_MAINTAINED_WRITTEN_ANALYTICAL_CARRIER; narrated/reported/memory/interpretive modes remain claim-specific",
+      "future_trigger": "Clinical optimum or durable safety needs independently adequate alternatives and actual longitudinal outcomes.",
+      "model_or_forecast": false,
+      "disposition": "PROPOSED_LITERARY_CLAIM_WITH_LIMITS_ROOT_RECEIVING_PENDING"
+    }
+  ],
+  "serious_rivals": [
+    {
+      "rival_id": "SMR01",
+      "claim_ids": [
+        "SM05",
+        "SM06"
+      ],
+      "reading": "Supernatural misfortune cause",
+      "best_support": "Cough precedes squall and slips occur near work hazards.",
+      "adjudication_and_remaining_limit": "Local sequence and material contribution remain real; taboo interpretation is not a mechanism. Do not infer global magic impossibility either."
+    },
+    {
+      "rival_id": "SMR02",
+      "claim_ids": [
+        "SM01",
+        "SM02",
+        "SM09",
+        "SM15"
+      ],
+      "reading": "Passive plot prop",
+      "best_support": "Human decisions structure the story and no full feline monologue is supplied.",
+      "adjudication_and_remaining_limit": "Direct sniffing, touch, play, movement and narrator final perspective exceed passivity. None requires human moral responsibility."
+    },
+    {
+      "rival_id": "SMR03",
+      "claim_ids": [
+        "SM09",
+        "SM10",
+        "SM13",
+        "SM15"
+      ],
+      "reading": "Fully informed voyage choice",
+      "best_support": "Familiar movement, approach and final contented expression suggest attachment.",
+      "adjudication_and_remaining_limit": "Preserve positive familiarity and comfort without knowledge of alternatives, risk or all-method consent."
+    },
+    {
+      "rival_id": "SMR04",
+      "claim_ids": [
+        "SM12",
+        "SM13",
+        "SM15",
+        "SM22"
+      ],
+      "reading": "Medically optimal loving farewell",
+      "best_support": "Familiar company and narrator contentment fit Minato's wished gift.",
+      "adjudication_and_remaining_limit": "Literary meaning is supported; comparative veterinary course, treatment efficacy and length-of-life counterfactual are absent."
+    },
+    {
+      "rival_id": "SMR05",
+      "claim_ids": [
+        "SM04",
+        "SM12",
+        "SM22"
+      ],
+      "reading": "Minato caused death through delay or taboo",
+      "best_support": "The crisis follows contested decisions and she voices guilt.",
+      "adjudication_and_remaining_limit": "Sequence and guilt are represented; Sanae rejects one hypothetical cause. Neither sole fault nor total exoneration is established."
+    },
+    {
+      "rival_id": "SMR06",
+      "claim_ids": [
+        "SM14",
+        "SM17",
+        "SM21"
+      ],
+      "reading": "Institution redeemed through death",
+      "best_support": "Taboo-breaking voyage and reported reconsideration occur.",
+      "adjudication_and_remaining_limit": "Partial change is real; continuing custom, incomplete incident knowledge, deferred objections and future hopes prevent universal reform."
+    },
+    {
+      "rival_id": "SMR07",
+      "claim_ids": [
+        "SM03",
+        "SM08",
+        "SM20"
+      ],
+      "reading": "Gift quantity measures care",
+      "best_support": "Students bring abundant balls and favorite food.",
+      "adjudication_and_remaining_limit": "Affection and recipient-sensitive correction coexist with no final packing, consumption or benefit. Total discard is also resisted."
+    },
+    {
+      "rival_id": "SMR08",
+      "claim_ids": [
+        "SM15",
+        "SM16",
+        "SM17"
+      ],
+      "reading": "Cushion and farewell cure grief",
+      "best_support": "Retained object and Minato's positive appraisal preserve meaning.",
+      "adjudication_and_remaining_limit": "Embodied habits preserve continuing absence. No returned Sammy voice, universal cure or completed future ties."
+    }
+  ],
+  "finite_retrospective_checks": [
+    {
+      "check_id": "SMT01",
+      "claim_ids": [
+        "SM03"
+      ],
+      "finite_question": "S.O.S. object: explanation or message?",
+      "observed_result_and_limit": "Maker/nickname explanation is provided; sender intention and material route are not authenticated.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT02",
+      "claim_ids": [
+        "SM02"
+      ],
+      "finite_question": "Ordinary baseline before crisis",
+      "observed_result_and_limit": "Sniffing, accepted touch and play are positive; run motive and fetched return remain particular unprinted endpoints.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT03",
+      "claim_ids": [
+        "SM04"
+      ],
+      "finite_question": "Age and long history",
+      "observed_result_and_limit": "At-least-fifteen record claim and unknown arrival remain reported, not opened records or exact age.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT04",
+      "claim_ids": [
+        "SM04",
+        "SM07"
+      ],
+      "finite_question": "Clinical relay versus direct voice",
+      "observed_result_and_limit": "Minato relay differs from Sanae's direct risk statements; neither alone is a chart or complete preference test.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT05",
+      "claim_ids": [
+        "SM05"
+      ],
+      "finite_question": "Cough then squall",
+      "observed_result_and_limit": "Both occur locally; cause is not demonstrated and taboo interpretation remains actor-owned.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT06",
+      "claim_ids": [
+        "SM06"
+      ],
+      "finite_question": "Practical movement and hazard",
+      "observed_result_and_limit": "Slips and curiosity contribute to risk; no malicious motive, exact cargo loss or cat health clearance follows.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT07",
+      "claim_ids": [
+        "SM07"
+      ],
+      "finite_question": "Handling and will",
+      "observed_result_and_limit": "Shaking and physician stop are actual; vocalization is not a propositional residence answer.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT08",
+      "claim_ids": [
+        "SM08"
+      ],
+      "finite_question": "Gifts and recipient result",
+      "observed_result_and_limit": "Offerings and reconsideration occur; complete disposal, final packing and consumption are not shown.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT09",
+      "claim_ids": [
+        "SM09"
+      ],
+      "finite_question": "Walk, familiarity and escape",
+      "observed_result_and_limit": "Ordinary-walk report and represented agility coexist; informed removal avoidance and cure are unproved.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT10",
+      "claim_ids": [
+        "SM10"
+      ],
+      "finite_question": "Approach and concern",
+      "observed_result_and_limit": "Sammy approaches fallen Minato; concern is her reading, not independently translated intention.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT11",
+      "claim_ids": [
+        "SM11"
+      ],
+      "finite_question": "Paperwork and handover",
+      "observed_result_and_limit": "Procedures precede an unsigned handover, cancellation request and claimant agreement; no performed transfer or formal rescission.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT12",
+      "claim_ids": [
+        "SM12"
+      ],
+      "finite_question": "Critical turn and causal hypothesis",
+      "observed_result_and_limit": "Grave physician report is retained; kidney/cardiac inference and rejected single-cause guilt do not fix death cause.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT13",
+      "claim_ids": [
+        "SM13"
+      ],
+      "finite_question": "Remembered comfort and current will",
+      "observed_result_and_limit": "Bubbles, tag, sunlight, toy and view have memory value; no critical-state preference test or medical optimum.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT14",
+      "claim_ids": [
+        "SM14"
+      ],
+      "finite_question": "Plan and performed sailing",
+      "observed_result_and_limit": "06:00 announcement is followed by actual Olympos sailing and some follow-on participation; not an all-fleet census.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT15",
+      "claim_ids": [
+        "SM15",
+        "SM22"
+      ],
+      "finite_question": "Narrated death and animal perspective",
+      "observed_result_and_limit": "Final narrated view/contentment and voyage end strongly depict death, not certificate, exact time or informed clinical choice.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    },
+    {
+      "check_id": "SMT16",
+      "claim_ids": [
+        "SM16",
+        "SM17"
+      ],
+      "finite_question": "Human afterstate and durable repair",
+      "observed_result_and_limit": "Half-month habits, cushion, partial reconsideration and continuing custom are actual; grief cure and institution-wide reform are not.",
+      "full_exposed_analytical_scope": true,
+      "held_out_or_prediction": false
+    }
+  ],
+  "original14_gaps": [
+    {
+      "gap_id": "G01",
+      "original_subject": "ordinary/private breadth",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Sammy's ordinary goods are advanced, while no full private or complete-person preference scope is exhausted.",
+      "claim_ids": [
+        "SM02",
+        "SM19",
+        "SM20"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G02",
+      "original_subject": "Yuuka council/club transfer",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Comparative work/privacy purposes preserve this unrelated broader duty; Sammy supplies no closure.",
+      "claim_ids": [
+        "SM20",
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G03",
+      "original_subject": "Serika service/peer/reciprocity",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Related holiday and material-purpose comparisons do not discharge Serika's separate scope.",
+      "claim_ids": [
+        "SM20",
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G04",
+      "original_subject": "Hina crisis/ordinary",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Rest, performance and office comparisons retain their own recipient limits; no unrelated closure.",
+      "claim_ids": [
+        "SM20",
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G05",
+      "original_subject": "Arius/PS68 ordinary/aftermath",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Company, labor and meaningful ritual comparisons advance interpretation without finishing broader homes.",
+      "claim_ids": [
+        "SM20",
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G06",
+      "original_subject": "cross-school ordinary",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "All105 ordinary evidence has intrinsic value; broad cross-school synthesis remains larger than Sammy.",
+      "claim_ids": [
+        "SM20"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G07",
+      "original_subject": "story-world chronology",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Local chapter sequence and half-month afterstate do not date EVENT860/861 or private stories against MAIN.",
+      "claim_ids": [
+        "SM14",
+        "SM16",
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G08",
+      "original_subject": "event naming/repeat context",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Unresolved EVENT861 title/blank012 and repeat work context remain; main death is not event bereavement.",
+      "claim_ids": [
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G09",
+      "original_subject": "printed choice/speaker limits",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Displaced toy/history/human labels remain qualified; alternatives do not become cumulative delivered replies.",
+      "claim_ids": [
+        "SM03",
+        "SM04",
+        "SM10",
+        "SM18",
+        "SM19"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G10",
+      "original_subject": "performed voice",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Written meows and descriptions are not inspected audio or performance; no delivery claims.",
+      "claim_ids": [
+        "SM15",
+        "SM19"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G11",
+      "original_subject": "Hoshino/Yume office-state",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "No unrelated office-state debt is discharged by Sammy's chapter or comparisons.",
+      "claim_ids": [
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G12",
+      "original_subject": "counterpart/variant identity and private joins",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Sammy remains S2V003 source-local; no other cat, private actor, diver or officer family is joined.",
+      "claim_ids": [
+        "SM19",
+        "SM21"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G13",
+      "original_subject": "office/contract/safety/technical outcomes",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Handover is unsigned, formal rescission and veterinary alternatives unprinted; cause, optimum and full fleet permission remain limited.",
+      "claim_ids": [
+        "SM04",
+        "SM11",
+        "SM12",
+        "SM14",
+        "SM17",
+        "SM22"
+      ],
+      "closure_credit": 0
+    },
+    {
+      "gap_id": "G14",
+      "original_subject": "source-mode/class continuity",
+      "status": "OPEN",
+      "Sammy_claim_specific_impact": "Admitted analytical source classes, report grades, narration, memory, conditional replies and original primary attribution stay distinct.",
+      "claim_ids": [
+        "SM15",
+        "SM19",
+        "SM20",
+        "SM21"
+      ],
+      "closure_credit": 0
+    }
+  ],
+  "eleven_original_architecture_dimensions": [
+    {
+      "section": 1,
+      "fulfilled_argument_heading": "Core thesis"
+    },
+    {
+      "section": 2,
+      "fulfilled_argument_heading": "Longitudinal arc"
+    },
+    {
+      "section": 3,
+      "fulfilled_argument_heading": "School/club role"
+    },
+    {
+      "section": 4,
+      "fulfilled_argument_heading": "Ordinary life"
+    },
+    {
+      "section": 5,
+      "fulfilled_argument_heading": "Crisis behavior/counterevidence"
+    },
+    {
+      "section": 6,
+      "fulfilled_argument_heading": "Sensei relation"
+    },
+    {
+      "section": 7,
+      "fulfilled_argument_heading": "Major peer relations"
+    },
+    {
+      "section": 8,
+      "fulfilled_argument_heading": "Language/voice/identity"
+    },
+    {
+      "section": 9,
+      "fulfilled_argument_heading": "Evidence route"
+    },
+    {
+      "section": 10,
+      "fulfilled_argument_heading": "Public/private self"
+    },
+    {
+      "section": 11,
+      "fulfilled_argument_heading": "Competing readings"
+    }
+  ],
+  "complete105_purpose_index": {
+    "bytes": 102069,
+    "sha256": "59d40dfa97d3a9e1962c0f75624bdc2d555a8320d937ec0c51507d686d135425",
+    "Git_blob": "29fe76c3f74dcdf91b77228d1677db79894b36f5",
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_COMMON105_TARGET_PURPOSE_INDEX_V1.json",
+    "format": "UTF8_LF_FINAL_NEWLINE_NO_BOM",
+    "installed": false
+  },
+  "complete19_source_custody": {
+    "bytes": 39002,
+    "sha256": "e68b299009b77118470d7d544d798540a1fd9c92a2cf307ac486548aaecc194f",
+    "Git_blob": "48c272f0605445e1e7f326d4ca45df84803422e5",
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SAMMY_CHARACTER_RECEIVING_20261013_V1/SAMMY_CHARACTER_SOURCE_CUSTODY_AND_GRADE_CONTROL_V1.json",
+    "format": "UTF8_LF_FINAL_NEWLINE_NO_BOM",
+    "installed": false
+  },
+  "readiness": "Literary author proposal complete at this bounded scope; independent current-byte review and ROOT manual receiving pending. No reconstruction model or prediction readiness."
+}

@@ -1,0 +1,11 @@
+{
+  "study_id": "pactrih-ethical-topology",
+  "stable_slug": "pactrih-ethical-topology",
+  "canonical_title": "PACTRIH Ethical Topology",
+  "repository_path": "studies/pactrih-ethical-topology/",
+  "canonical_entrypoint": "studies/pactrih-ethical-topology/README.md",
+  "materialization_status": "PRESENT_UNREVIEWED",
+  "authority_status": "GIT_PRIMARY",
+  "catalog_note": "Seven-axis comparative ethical topology for fictional characters/entities, factions and historical agents, with canonical numerical data and a verified interactive atlas.",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED"
+}

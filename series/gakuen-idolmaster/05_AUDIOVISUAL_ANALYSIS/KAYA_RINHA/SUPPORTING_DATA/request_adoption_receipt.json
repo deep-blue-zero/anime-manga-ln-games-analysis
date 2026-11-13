@@ -1,0 +1,15 @@
+{
+  "original_filename": "GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md",
+  "original_sha256": "847f058f3313c6836b7c7fb4d2ee53d1c28d0093589289d43ebaf569dd3e686e",
+  "adopted_sha256": "8c72afea209bbd2f94266e235f9639b276d47225652311f385aed61ba1b3b685",
+  "changes": [
+    "review_state records owner execution authorization and open perceptual gate",
+    "621→620 exact-speaker counter correction",
+    "support0097 part02 target count10→9",
+    "bounded adoption note gives current home, achieved scope and historical-checklist interpretation",
+    "LF line endings match supplied plan and repository convention",
+    "supersedes/superseded_by null values converted to empty arrays required by the current repository artifact schema",
+    "status mapped to draft_noncurrent to preserve the supplied true current-authority veto; owner execution approval remains recorded"
+  ],
+  "original_preserved": true
+}

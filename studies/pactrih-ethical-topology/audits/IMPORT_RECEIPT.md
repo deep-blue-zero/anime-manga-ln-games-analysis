@@ -1,0 +1,31 @@
+# PACTRIH v12/v3 import receipt
+
+Transfer ID: `PACTRIH_CSV12_ATLAS3_IMPORT_20261024`. Receiver: the owner-operated study author. Assignment: the owner's 2026-10-24 request to import the supplied canonical CSV and atlas, preserve their content/functionality, validate, and publish a study PR for CI/owner integration. This is artifact-preservation work, with no new scoring or source-unit analysis.
+
+## Base, identity and authority
+
+- Repository: `deep-blue-zero/anime-manga-ln-games-analysis`; branch: `studies/pactrih-ethical-topology`.
+- Initial preparation base: `10576e0dace0d2fe888f28357e9ed6dc95846c15`. The full local pre-commit gate passed against that base (479 tests, zero failures/errors; four Bash-dependent skips also passed in a focused rerun). Before publication, the unpublished branch fast-forwarded to current main `9fb94085fed6083ab71c9f59c59997533b95aca8`, preserving four intervening owner commits affecting only the To Be Hero X root. No governance, tooling or PACTRIH input changed; author routing and staged commit preflights were repeated for the reconciled candidate. The final remote audit must certify its exact published head.
+- Canonical entrypoint: [study README](../README.md). The registered existing scaffold is `GIT_PRIMARY`; its authority quartet resolves to `ACTIVE_PROVISIONAL_CURRENT` and was verified current-eligible before editing. The routing descriptor records `PRESENT_VERIFIED` while retaining `PRESENT_UNREVIEWED` materialization status; byte validation does not independently endorse the interpretations.
+- The remote continuing branch was absent. The existing scaffold had already merged in PR #5 (integration commit `15361e7c334c619c27901d3537628074e765ff7c`); no unmerged study artifacts were found. The required stable branch was created from current main in an isolated worktree, preserving the other active checkout.
+- Governing instructions: live `AGENTS.md`, agent routing, change checklist, branch lifecycle, artifact eligibility, publication policy, housekeeping policy and analytical handoff contract at the recorded base. No global policy or housekeeping output was hand-edited.
+
+## Inputs, outputs and inspection boundary
+
+[source_manifest.json](source_manifest.json) records exact source member names, versions, sizes and SHA-256 values. The supplied read-only validator ran before import and passed. Both delivered artifacts were inspected; semantic parity covers every row and all fields. The atlas is byte-for-byte unchanged. The CSV's UTF-8 BOM and 101 CRLF line endings conflict with the repository's live text rules, so a declared encoding-only conversion removes the BOM and replaces CRLF with LF. Every other byte is retained. The validator restores the BOM/CRLF and checks the exact original source SHA-256 as well as the committed UTF-8/LF SHA-256; no CSV records are reserialized. The historical methodological handoff was inspected as background. It contains earlier-version workflow guidance and indicative scores and is not adopted as a current scoring source or copied into public Git.
+
+Accepted outputs are [CSV v12](../data/pactrih_scores.csv) and [atlas v3](../interactive/atlas.html), plus study-local validation/provenance/documentation. Before import neither stable output existed in the current study tree. Base drift was irrelevant to the source contents: the study still held the original scaffold, with no competing numerical source. Existing scaffold history and unaffected bytes were retained through targeted documentation edits.
+
+The supplied boundary is 100 provisional assessments: 85 Character, 7 Faction and 8 Historical Agent. Scores, descriptions, labels, order, unit classifications, PCA coordinates, Ward k=8/10/12 IDs, priority flags, color mapping and UI code are preserved. No primary-source claim was re-researched or rescored. Earlier handoff naming examples do not override the CSV's exact identities. Receipt acceptance means integrity and preservation for this import, not independent semantic approval of every ethical interpretation.
+
+## Verification and remaining obligations
+
+PASS: supplied source validator; study validator (100 subjects, exact field/order parity, formulas, reversible original CSV hash, committed hashes and Node syntax); 11 safeguard mutation tests. Browser smoke is UNAVAILABLE: installed Edge and Chrome both exited before page creation, and the bundled Playwright Chromium is absent. No visual or browser-interaction pass is claimed. The atlas interaction code is byte-for-byte identical to the supplied v3 snapshot. Repository preflight and the final published-head status are recorded by the PR/CI history.
+
+The [validator](../scripts/validate_scores.py) requires exact baseline hashes and CSV/atlas parity and fails on additions, altered data or changed PCA/cluster/UI bytes. It never auto-updates a manifest. The global repository audit does not run study-local tests; run the two documented study commands explicitly on every study update.
+
+Exact reconstruction from CSV remains unestablished because the original PCA/Ward producer and dependency versions were not supplied. An evidence-backed successor needs a reviewed producer snapshot or a tested generator with sign, precision, linkage/tie and stable label/color conventions, then new provenance and synchronized tests under the [update procedure](../scripts/README.md). No further numerical release is accepted until those obligations are met. The current offline snapshot does not depend on that future work.
+
+Name-and-reference review: exact Unicode names and descriptions were compared for all 100 rows; the atlas heading, explanation/key, unit legend, first/middle/final embedded records and interactions were inspected for transfer defects. No import-induced identity or attribution change was found. This bounded preservation review makes no exhaustive evidence-grounding claim about the incoming interpretations.
+
+Excluded: new subjects, rescoring, the full methodological handoff, transport ZIP, PACTRIH-SR, respondent data, deployment and unrelated projects. Main integration and the final-head audit are recorded by the PR/CI history; this receipt alone does not claim a merge or canonical promotion.

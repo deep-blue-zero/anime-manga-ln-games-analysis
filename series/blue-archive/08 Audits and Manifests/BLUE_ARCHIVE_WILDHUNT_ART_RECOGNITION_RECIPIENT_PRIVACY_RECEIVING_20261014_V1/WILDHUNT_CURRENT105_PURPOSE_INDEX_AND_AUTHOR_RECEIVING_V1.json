@@ -1,0 +1,2684 @@
+{
+  "schema": "WILDHUNT_CURRENT_COMPLETE105_NEW_TARGET_PURPOSE_INDEX_V1",
+  "author": "/root/receive_middle_remaining",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 45508,
+    "sha256": "c60796230fc5ace5117be4619cf917c467c79dce2cf55df0d4baf41e7845f233",
+    "git_blob_oid_of_actual_bytes": "41d0ca1f75ec8f1bf08c9f27716273e5e2bc668a"
+  },
+  "source_receiving": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+    "bytes": 40302,
+    "sha256": "57dadd1c73615cd94e6d8bf8994bbf71fc809dc5ff1937c9230e2a1855cb301b",
+    "git_blob_oid_of_actual_bytes": "b9e3b88a98b0aabc2bd707c72270dd22a7ff603f"
+  },
+  "complete_current_purpose_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+      "bytes": 406465,
+      "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+      "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+      "bytes": 541960,
+      "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+      "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+      "bytes": 701989,
+      "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+      "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+    }
+  ],
+  "owner_rows": [
+    {
+      "owner_id": "O000",
+      "purpose_id": "WHCP000",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do different mint tastes and an overridden kitchen warning require of Wildhunt's recognition of particular liking?",
+        "own_new_Wildhunt_positive_connected_meaning": "Shared aroma and differing tastes retain real pleasure without a finished meal; Wildhunt likewise values Kanoe's liking and Eri's art interest before unanimous success.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "The warning and disorder remain contrary; neither pleasant aroma nor beautiful lights licenses every ignored recipient condition.",
+        "own_new_Wildhunt_finite_use": "Use this as a taste-and-method comparison for WHCLAIM032 and050, not proof these cooks attended Wildhunt.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the specific recipient response, respected warning and actual served/restored endpoint before extending pleasure to universal approval."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/0",
+      "current_body_claim_ids": [
+        "WHCLAIM032",
+        "WHCLAIM050",
+        "WHCLAIM012"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O001",
+      "purpose_id": "WHCP001",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can service earnings and a wanted jacket matter without making a useful performance an indefinite duty?",
+        "own_new_Wildhunt_positive_connected_meaning": "Asuna's delegated opening and reported earnings give service value; Neru's jacket remains wanted, as art confidence and company remain particular Wildhunt ends.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Neru refuses permanent maid work; useful service does not establish an indefinite contract, just as later bell help does not authorize every ritual.",
+        "own_new_Wildhunt_finite_use": "Compare differentiated wanted goods and labor limits in WHCLAIM007,017 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require a separate actual term, choice and recipient response before assigning continuing labor or transferring consent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/1",
+      "current_body_claim_ids": [
+        "WHCLAIM007",
+        "WHCLAIM017",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O002",
+      "purpose_id": "WHCP002",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do Class227 home goods and imposed mascot contact test belonging through wanted art and company?",
+        "own_new_Wildhunt_positive_connected_meaning": "Pudding, telescope and home retain Nodoka's interests; Wildhunt's informal group can have belonging goods even where not every activity is chosen.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Forced tickling and restored command do not prove consent; reported imposed roommates and later respected refusal remain distinct.",
+        "own_new_Wildhunt_finite_use": "Use a bounded belonging-versus-contact comparison in WHCLAIM018 and019.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual acceptance, refusal response and later participation terms before a universal freely chosen membership claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/2",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM019",
+        "WHCLAIM017"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O003",
+      "purpose_id": "WHCP003",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What does joyful engineering with an unconsented modification require of Wildhunt's useful making?",
+        "own_new_Wildhunt_positive_connected_meaning": "Pizza, invention and different tastes are intrinsic maker goods; collective lights likewise give real craft pleasure.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Unauthorized modification and distress preserve property/recipient costs; art success cannot replace permission or restoration.",
+        "own_new_Wildhunt_finite_use": "Compare making and method in WHCLAIM010,012 and032 at the received report grade.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require exact object consent and restoration before converting useful craft into harmless control over another's property."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/3",
+      "current_body_claim_ids": [
+        "WHCLAIM010",
+        "WHCLAIM012",
+        "WHCLAIM032"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O004",
+      "purpose_id": "WHCP004",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can a recipient's fairness objection and a rumor correction inform Wildhunt's legitimacy without proving repaired standing?",
+        "own_new_Wildhunt_positive_connected_meaning": "Yuuka's objection and Chihiro's correction are actual response routes; Wildhunt's heard objections and recognition also have recipient value.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Unauthorized access, false100kg and surviving rumor prevent complete repair; mediated chair praise cannot settle every access cost.",
+        "own_new_Wildhunt_finite_use": "Use finite objection/response rather than recognition-as-exoneration in WHCLAIM008,009 and021.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual corrected circulation, recipient terms and durable response before a completed reputation or institutional repair claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/4",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM009",
+        "WHCLAIM021"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O005",
+      "purpose_id": "WHCP005",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do a passed hygiene check, pleasure and a later adverse drink response require of a locally praised artwork?",
+        "own_new_Wildhunt_positive_connected_meaning": "Izumi's pleasure and the reported check have different positive scopes; lights can likewise be locally appreciated without every stronger safety result.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Iori's adverse response is not a chemical proof; neither reported check nor aesthetic reception establishes universal harmlessness.",
+        "own_new_Wildhunt_finite_use": "Compare local reception with technical/safety limits in WHCLAIM012,013 and047.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the relevant actual safety or cause evidence before extending a pleasant or checked act to all recipients."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/5",
+      "current_body_claim_ids": [
+        "WHCLAIM012",
+        "WHCLAIM013",
+        "WHCLAIM047"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O006",
+      "purpose_id": "WHCP006",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can food attention remain positive beside shooting after surrender and a threatened injection?",
+        "own_new_Wildhunt_positive_connected_meaning": "Visits and food give particular material and social care, as company and offered cleanup do in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Surrender, shooting and prepared/threatened treatment retain separate endpoints; neither attention nor art rhetoric supplies consent or completed therapy.",
+        "own_new_Wildhunt_finite_use": "Use the care-versus-force distinction in WHCLAIM012,030 and038 without importing clinical mechanisms.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual act, accepted condition and affected recipient result before a therapy, safety or consensual-intervention claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/6",
+      "current_body_claim_ids": [
+        "WHCLAIM012",
+        "WHCLAIM030",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O007",
+      "purpose_id": "WHCP007",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do differing welcome and origin-rejection responses require of Wildhunt's artistic reception?",
+        "own_new_Wildhunt_positive_connected_meaning": "Tsurugi's welcome and Hasumi's initial aroma enjoyment preserve particular recipients; Wildhunt likewise allows different tastes and calm preferences.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Compulsory contact and later origin rejection oppose unanimous welcome; one beautiful display does not prove every recipient agreed.",
+        "own_new_Wildhunt_finite_use": "Use recipient-specific reception in WHCLAIM008,033 and050.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each actual response and permission before turning one welcome into general audience assent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/7",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM033",
+        "WHCLAIM050"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O008",
+      "purpose_id": "WHCP008",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do cocoa, work burden and deduction plans test the difference between a valued result and resource entitlement?",
+        "own_new_Wildhunt_positive_connected_meaning": "Ibuki's cocoa and Iroha's work burdens identify different material recipients, like artwork and guard rest in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Deductions and95percent/zero plans are not approved payment or remedy; recognition cannot settle labor accounts.",
+        "own_new_Wildhunt_finite_use": "Compare resource allocation and continuing costs in WHCLAIM011 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual payment, approved term and recipient relief before claiming a completed resource settlement."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/8",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM033",
+        "WHCLAIM009"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O009",
+      "purpose_id": "WHCP009",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do holiday talk, rescue and spoiled rest require of a positive art-company afterstate?",
+        "own_new_Wildhunt_positive_connected_meaning": "Airi's talk and Kazusa's holiday wishes preserve ordinary time and company, as Eri/Rena's different creative and calm ends do.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Rescue and genuine danger coexist with spoiled rest and stomach discomfort; success does not restore every recipient's leisure.",
+        "own_new_Wildhunt_finite_use": "Use ordinary goods beside recipient costs in WHCLAIM030,032 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the particular recovered rest or completed desired outing before a uniformly happy aftermath claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/9",
+      "current_body_claim_ids": [
+        "WHCLAIM030",
+        "WHCLAIM032",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O010",
+      "purpose_id": "WHCP010",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does uninformed Ayane response beside picnic and paid-cleaning assignments constrain cooperative recognition?",
+        "own_new_Wildhunt_positive_connected_meaning": "Nonomi's picnic care and Ayane's labor assignment retain company and work as goods; shared cleanup in Wildhunt has its own positive endpoint.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Omitted wrong-site combat keeps Ayane's response uninformed, not approving; withheld supply knowledge likewise limits retrospective assent.",
+        "own_new_Wildhunt_finite_use": "Compare differentiated knowledge and labor in WHCLAIM020 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require disclosure of the relevant act and actual recipient response before interpreting a later helpful reply as prior approval."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/10",
+      "current_body_claim_ids": [
+        "WHCLAIM020",
+        "WHCLAIM039",
+        "WHCLAIM011"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O011",
+      "purpose_id": "WHCP011",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do Haruka's belonging, Mutsuki's amusement and an unfulfilled withdrawal vow require of unofficial art-group agency?",
+        "own_new_Wildhunt_positive_connected_meaning": "Belonging and amusement remain ordinary continuity beside dubious business self-presentation, as liking and company do beside Wildhunt rules.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Aru's pitch and withdrawal vow do not achieve recognition or reform; intentions cannot count as completed access or institutional exit.",
+        "own_new_Wildhunt_finite_use": "Use belonging with uncompleted institutional promises in WHCLAIM018 and019.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual changed role, fulfilled vow and recipient terms before a durable reform or exit claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/11",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM019",
+        "WHCLAIM025"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O012",
+      "purpose_id": "WHCP012",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can a smaller accepted festival idea retain quiet making value before purchase or completion?",
+        "own_new_Wildhunt_positive_connected_meaning": "Pina's bento/cards/sleep and Umika's willow idea preserve distinct wanted ends; Wildhunt's painting and tea wishes also matter before completion.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Refused large budget and accepted smaller idea do not establish purchase or revived festival; praised viewpoint plans remain prospective.",
+        "own_new_Wildhunt_finite_use": "Compare wanted craft, rest and future material ends in WHCLAIM018,043 and049.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual acquisition, construction or event/visit before promoting an accepted proposal to realization."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/12",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM043",
+        "WHCLAIM049"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O013",
+      "purpose_id": "WHCP013",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do wanted film recognition, sleep and untested curry seasoning require of art confidence?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kaede's recognition wish, Tsubaki's sleep and Mimori's making preserve different interests; Eri's wanted painting is meaningful before acclaim.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Imagined praise and untasted seasoning remain unperformed; confidence is not objective lifetime quality or a finished work.",
+        "own_new_Wildhunt_finite_use": "Use desired recognition without outcome inflation in WHCLAIM018 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the completed artifact, actual taste/reception and relevant recipient scope before a quality or achievement claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/13",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM052",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O014",
+      "purpose_id": "WHCP014",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can companionship and cat care coexist with unannounced patrol and a declined invitation?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kaede's companionship wish and care remain positive ordinary ends, as company can matter to skeptical Wildhunt participants.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Unannounced intervention and refusal prevent unanimous participation; Rena's enjoyed company cannot be made permission to join every operation.",
+        "own_new_Wildhunt_finite_use": "Compare invitation, boundary and belonging in WHCLAIM019 and026.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual request and accepted/refused response for each new activity rather than importing broad assent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/14",
+      "current_body_claim_ids": [
+        "WHCLAIM019",
+        "WHCLAIM026",
+        "WHCLAIM036"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O015",
+      "purpose_id": "WHCP015",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What does chosen gaming success beside pressure to attend require of art and audience participation?",
+        "own_new_Wildhunt_positive_connected_meaning": "Yuzu's wins and apology have finite value without achieved wanted fame; local art confidence similarly need not complete a public career.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Pressure and abusive courtesy do not prove free participation, and a possible bug stays unverified; recognition does not erase participation costs.",
+        "own_new_Wildhunt_finite_use": "Use confidence and pressure as separate predicates in WHCLAIM018,035 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual freely accepted attendance and artifact/performance evidence before broad fame, autonomy or mechanism conclusions."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/15",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM035",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O016",
+      "purpose_id": "WHCP016",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do meals, privacy and quiet tea survive an invented rumor and persistent misunderstanding?",
+        "own_new_Wildhunt_positive_connected_meaning": "Rumi's meals/privacy and Shun's tea retain distinct wants; Wildhunt's liking and protected canvases need no dramatic payoff.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Invented rumor and continuing misunderstanding do not complete reputation repair; pleasant company cannot certify shared knowledge.",
+        "own_new_Wildhunt_finite_use": "Compare ordinary privacy and incomplete repair in WHCLAIM028 and053.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require corrected information and each affected recipient's response before treating social warmth as restored standing."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/16",
+      "current_body_claim_ids": [
+        "WHCLAIM028",
+        "WHCLAIM053",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O017",
+      "purpose_id": "WHCP017",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do wanted donuts, rest and advancement beside unauthorized deployment require of worker-centered art analysis?",
+        "own_new_Wildhunt_positive_connected_meaning": "Fubuki's rest and Kirino's ambitions remain particular goods alongside actual hostage response, like guard rest beside art accomplishment.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Explosion and shop suspension do not settle judicial aftermath or a granted holiday; useful action cannot cancel work/rest costs.",
+        "own_new_Wildhunt_finite_use": "Use practical response and unsettled institutional remedy in WHCLAIM006,030 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual relief, disposition and affected worker outcomes before a completed holiday or legal-repair claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/17",
+      "current_body_claim_ids": [
+        "WHCLAIM006",
+        "WHCLAIM030",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O018",
+      "purpose_id": "WHCP018",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do embedded fiction and a hardship letter constrain Wildhunt's narrated memories and causal explanations?",
+        "own_new_Wildhunt_positive_connected_meaning": "Mel's fiction and Minori's letter have different imaginative/material purposes; occult stories can matter without being authenticated history.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Fiction is not Shigure/Nodoka's act and ashes do not identify a burner; uncertain voice or statue mechanism cannot be resolved by thematic resemblance.",
+        "own_new_Wildhunt_finite_use": "Compare memory, representation and incomplete causal attribution in WHCLAIM029 and048.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual actor and connected causal evidence before turning represented fiction, traces or recurring motifs into factual history."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/18",
+      "current_body_claim_ids": [
+        "WHCLAIM029",
+        "WHCLAIM048",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O019",
+      "purpose_id": "WHCP019",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do practical water/towel work and quiet stars require of recognition before official club status?",
+        "own_new_Wildhunt_positive_connected_meaning": "Tsukuyo's assistance and quiet scenery, plus Izuna's welcome, preserve practical and ordinary worth like informal art-company goods.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Interview and welcome do not grant club status or perform a stunt; useful participation cannot authenticate an official occult office.",
+        "own_new_Wildhunt_finite_use": "Use local welcome and formal-status limits in WHCLAIM004 and018.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual appointment/admission or performed stunt before a status or completed-performance claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/19",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM018",
+        "WHCLAIM040"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O020",
+      "purpose_id": "WHCP020",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do ration differences, refused cans and lingering smell test institutional allocation without a single causal story?",
+        "own_new_Wildhunt_positive_connected_meaning": "Reluctant material allocation has real recipients and different tastes, as resources and preferences differ in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Expired-can refusal, disposal and lingering smell do not certify lawful salvage or one cause; useful materials are not blanket safety or access authorization.",
+        "own_new_Wildhunt_finite_use": "Compare resource choice and technical limits in WHCLAIM011 and031.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the precise accepted resource, relevant cause and authorized use before extending allocation to lawful or harmless success."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/20",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM031",
+        "WHCLAIM013"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O021",
+      "purpose_id": "WHCP021",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can shared construction hopes and a hedged titanium result remain valuable without a theft or forecast claim?",
+        "own_new_Wildhunt_positive_connected_meaning": "Maker hopes, Noa's curiosity and shared building have positive content, as joint light craft does before every wish is fulfilled.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Premature dismissal, payer risk and an unoffered warning remain; a hedged coda is not treasury theft or calibrated prediction.",
+        "own_new_Wildhunt_finite_use": "Use making with resource/information costs in WHCLAIM011,029 and032.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual payment ownership, received warning and independent technical evidence before a theft or predictive-mechanism conclusion."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/21",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM029",
+        "WHCLAIM032"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O022",
+      "purpose_id": "WHCP022",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do preparations, thanks and rest require of art care when covert following misreads rebellion?",
+        "own_new_Wildhunt_positive_connected_meaning": "Chise's preparations, Kaho's rest and specific thanks preserve giver/recipient interests, like Eri encouragement and Rena calm.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Following and misread rebellion do not justify surveillance; protection cannot supply facts a recipient did not know or authorize.",
+        "own_new_Wildhunt_finite_use": "Compare care, knowledge and dissent in WHCLAIM022 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each actually disclosed act and recipient agreement before a justified monitoring or comprehensive care claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/22",
+      "current_body_claim_ids": [
+        "WHCLAIM022",
+        "WHCLAIM039",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O023",
+      "purpose_id": "WHCP023",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do an athlete's wanted home run and refusal of machine restraint constrain art-making authority?",
+        "own_new_Wildhunt_positive_connected_meaning": "Rei's food, practice and beautiful-home-run wish remain chosen goods, like wanted painting and fashion expertise.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Restraint objections and refused return survive; this source does not supply a later home run or global identity join.",
+        "own_new_Wildhunt_finite_use": "Use creative/athletic aspiration beside bodily refusal in WHCLAIM018,026 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual achieved performance and renewed agreed method before a completed dream or unlimited training-control claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/23",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM026",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O024",
+      "purpose_id": "WHCP024",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do solitary exercise/rest and a limited accepted child request require of a school's broad discipline claim?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kisaki's chosen solitary ends and particular accepted request retain agency, as Wildhunt recipients have different calm and art wants.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Projected discipline and stopped rivalry do not prove a universal mandate or clinical growth; one request cannot govern all recipients.",
+        "own_new_Wildhunt_finite_use": "Compare particular choice with formal-authority limits in WHCLAIM004,019 and040.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require an actual scoped mandate, recipient response and relevant outcome before universal authority or clinical-benefit claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/24",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM019",
+        "WHCLAIM040"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O025",
+      "purpose_id": "WHCP025",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do rest, snow memory, ice-pop reception and later chosen digging test permission across stages?",
+        "own_new_Wildhunt_positive_connected_meaning": "Meg's rest, Kasumi's memory, Hina's received ice pop and later digging have different intrinsic goods, like Eri confidence and Rena later help.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Refused scripted bag and bath/digging do not establish public opening or clinical revival; later participation is not retroactive assent.",
+        "own_new_Wildhunt_finite_use": "Use qualified O025 stage distinctions in WHCLAIM017 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the specific new choice, real opening/result and recipient terms before extending a later act to earlier permission or cure."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/25",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM042",
+        "WHCLAIM032"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O026",
+      "purpose_id": "WHCP026",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do tea, park memories and refused hand-leading require of appreciative company?",
+        "own_new_Wildhunt_positive_connected_meaning": "Nagisa's tea, memories and company are ordinary goods, like Tsumugi's company and Kanoe's liking.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Burnout report and unreplenished energy remain; a contact refusal cannot be erased by sociability or recognition.",
+        "own_new_Wildhunt_finite_use": "Compare recipient preference and nonrestored rest in WHCLAIM026,033 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the accepted contact and actual relief before interpreting wanted company as all bodily permission or recovered energy."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/26",
+      "current_body_claim_ids": [
+        "WHCLAIM026",
+        "WHCLAIM033",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O027",
+      "purpose_id": "WHCP027",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can craft, tea, pictures and gratitude matter while gift pretexts remain false?",
+        "own_new_Wildhunt_positive_connected_meaning": "Nine gifts preserve separate maker and recipient ends, including Rio's gratitude; collective art can likewise give real goods without one purpose.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "False pretexts and undisclosed additions do not prove harmlessness or all agreement; positive reception does not repair every information cost.",
+        "own_new_Wildhunt_finite_use": "Use differentiated gratitude and knowledge in WHCLAIM008,022 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each actual disclosed addition, accepted term and recipient result before a universal harmless or informed-gift claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/27",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM022",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O028",
+      "purpose_id": "WHCP028",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do handmade letters, shared food and chosen waiting require of permission after an ignored request?",
+        "own_new_Wildhunt_positive_connected_meaning": "Sixteen gifts retain work, baker credit, waiting and particular responses, like distinct art help and ordinary company.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "An ignored EVENT Kei request remains a boundary despite later allowance; neither identities nor retrospective interruption permission follow.",
+        "own_new_Wildhunt_finite_use": "Compare exact-stage assent in WHCLAIM017 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual request/response and separate later choice, with identity context preserved, before consent transfer across acts or variants."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/28",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM042",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O029",
+      "purpose_id": "WHCP029",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does Izuna's chosen rescue preserve allegiance change without completed membership or autonomy?",
+        "own_new_Wildhunt_positive_connected_meaning": "Food, scenery, fireworks and a ninja dream matter, and chosen rescue redirects allegiance; useful help can be real without a perfected status.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Employer exploitation and a club inquiry do not establish full membership or lasting independence; bell help does not finish institutional freedom.",
+        "own_new_Wildhunt_finite_use": "Use chosen contribution beside incomplete belonging in WHCLAIM007 and019.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual admission/exit terms and later independence before a durable status or autonomy claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/29",
+      "current_body_claim_ids": [
+        "WHCLAIM007",
+        "WHCLAIM019",
+        "WHCLAIM042"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O030",
+      "purpose_id": "WHCP030",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can pudding, literature comfort, home, pay and leave retain value when official restoration does not implement promises?",
+        "own_new_Wildhunt_positive_connected_meaning": "Class227 ordinary goods and wanted wages/leave are meaningful, as art-company and guard rest are.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Office restoration and promises do not enact labor rights or all assent; institutional praise cannot substitute for payment, rest or realized access.",
+        "own_new_Wildhunt_finite_use": "Compare recognition with resource and policy limits in WHCLAIM009 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual performed payment/leave/access terms before counting an office change or promise as implemented recipient benefit."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/30",
+      "current_body_claim_ids": [
+        "WHCLAIM009",
+        "WHCLAIM033",
+        "WHCLAIM025"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O031",
+      "purpose_id": "WHCP031",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do sea, food and next-day energy require of a holiday institution with exhausted drivers and opponent costs?",
+        "own_new_Wildhunt_positive_connected_meaning": "Particular respite and energy are positive, like actual cafe company and felt creative confidence.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Driving exhaustion and cleanup/opponent costs remain; photographs do not establish universal consent or restored leisure.",
+        "own_new_Wildhunt_finite_use": "Use positive aftermath with unequal costs in WHCLAIM030,032 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each actual rest/cleanup and photo agreement before a uniformly carefree or repaired holiday claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/31",
+      "current_body_claim_ids": [
+        "WHCLAIM030",
+        "WHCLAIM032",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O032",
+      "purpose_id": "WHCP032",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can Hina's coffee, waves, games and swim wish matter independently of training and stress inference?",
+        "own_new_Wildhunt_positive_connected_meaning": "Specific ordinary wants remain meaningful before a completed swim or rhythm act, as Eri's painting and Rena's fashion ambition do.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Issued training and stress inference are not performed acts or clinical evidence; recognition must not turn desire into completion.",
+        "own_new_Wildhunt_finite_use": "Use intrinsically valuable wishes with finite performance limits in WHCLAIM018 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the represented completed activity and relevant clinical evidence before extending wishes or inferred stress to realized benefit."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/32",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM052",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O033",
+      "purpose_id": "WHCP033",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do Shun's missed treat, chosen antidote and bounded forgiveness require of care after deception?",
+        "own_new_Wildhunt_positive_connected_meaning": "Treat, park and qualified forgiveness retain local goods, like apology/cleanup and renewed company in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Food refusal, deception and restraint survive; mechanism and privacy repair stay unproved rather than being redeemed by a later choice.",
+        "own_new_Wildhunt_finite_use": "Compare local care and continuing boundaries in WHCLAIM020 and053.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted treatment, mechanism if claimed and affected privacy repair before a comprehensive healing or consent conclusion."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/33",
+      "current_body_claim_ids": [
+        "WHCLAIM020",
+        "WHCLAIM053",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O034",
+      "purpose_id": "WHCP034",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do C&C hospitality and captive pleas require actor-specific endpoints rather than generic rescue success?",
+        "own_new_Wildhunt_positive_connected_meaning": "Curry, jacket choice, privacy and free play preserve real ordinary purposes, like art-group liking and company.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Captive pleas, Koyuki's refusal of pursuit and the adult's unexecuted rescue proposal have different actors/stages; smiles and later warmth do not complete rescue.",
+        "own_new_Wildhunt_finite_use": "Use precise actor/request/endpoint separation in WHCLAIM038 and045.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual rescue, recipient permission and response before converting a proposed helper act into achieved safety or consent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/34",
+      "current_body_claim_ids": [
+        "WHCLAIM038",
+        "WHCLAIM045",
+        "WHCLAIM032"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O035",
+      "purpose_id": "WHCP035",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do Miku's self-introduction, prepared-body joy and audience wish require of artistic recognition before a concert?",
+        "own_new_Wildhunt_positive_connected_meaning": "Creative self-presentation and wanted audience contact retain intrinsic value, like Eri aspiration before public display.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Rhythm difficulty and a data request leave concert, attendance and permission prospective; written framing is not heard performance.",
+        "own_new_Wildhunt_finite_use": "Compare wanted art, performance mode and future audience in WHCLAIM018,044 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual performed event, attendance and permission at their separate modes before a realized concert or public-reception claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+        "bytes": 406465,
+        "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+        "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+      },
+      "pointer": "/records/35",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM044",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O036",
+      "purpose_id": "WHCP036",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can livelihood, home and guests' tea/art/garden pleasures survive the failure to restore a lost place?",
+        "own_new_Wildhunt_positive_connected_meaning": "Nodoka's home and Shigure's company retain real ends; visitors' tastes are specific, like Wildhunt's art, company and private canvas interests.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Overwork, refused help, late permission and Meg's blast do not restore the home; local art reception cannot replace object or recipient repair.",
+        "own_new_Wildhunt_finite_use": "Compare belonging and incomplete restoration in WHCLAIM010,018 and053.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual restored place/object and accepted recipient terms before promoting recognition or hospitality to full repair."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/0",
+      "current_body_claim_ids": [
+        "WHCLAIM010",
+        "WHCLAIM018",
+        "WHCLAIM053"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O037",
+      "purpose_id": "WHCP037",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do effort, albums, toys and unpaid ends require of art resources without financial restoration?",
+        "own_new_Wildhunt_positive_connected_meaning": "Haruka's work, Kayoko's album, Mutsuki's toys and Aru's recovery motive keep resources personal rather than abstract.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "An empty safe, conditional ramen, refused holiday and unpaid ends oppose a financial-restoration claim; wanted art does not prove payment.",
+        "own_new_Wildhunt_finite_use": "Use differentiated goods and accounts in WHCLAIM011 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual available funds, payment and relief before declaring a completed work or resource settlement."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/1",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM033",
+        "WHCLAIM032"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O038",
+      "purpose_id": "WHCP038",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do object-display aims and adult-to-Ayumu coffee constrain the directions of caring art-company?",
+        "own_new_Wildhunt_positive_connected_meaning": "Ui's anti-mess wish, Hiyori's sacrifice, Mari's display and Atsuko's viewing differ. The adult prepares coffee for Ayumu; her chocolate goes back to the adult, preserving separate care directions.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Display is not installation and abrupt feeding not assent. Published59334 qualifies old GSC coffee aliases only; it does not give a whole-source or arbitrary privacy correction.",
+        "own_new_Wildhunt_finite_use": "Compare recipient-specific object and care directions in WHCLAIM010,028 and038.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual installed object, accepted contact and exact helper/recipient action before broadening care or privacy claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/2",
+      "current_body_claim_ids": [
+        "WHCLAIM010",
+        "WHCLAIM028",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O039",
+      "purpose_id": "WHCP039",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can rest questions, walking, maintenance, art and bonus wishes coexist with forced subdual?",
+        "own_new_Wildhunt_positive_connected_meaning": "Sena's rest, Chihiro's walk/maintenance and Fubuki's art/bonus preserve particular worker ends like guard rest beside light craft.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Restart and subdual do not authenticate impostors or establish pharmacology; chocolate and success do not erase enforcement costs.",
+        "own_new_Wildhunt_finite_use": "Compare practical work and technical/recipient limits in WHCLAIM006,012 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require exact cause, identity and recipient response before converting a useful intervention into diagnosis, proof or all-party care."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/3",
+      "current_body_claim_ids": [
+        "WHCLAIM006",
+        "WHCLAIM012",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O040",
+      "purpose_id": "WHCP040",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do repair expertise, coffee, referral and cake labor require of object-care authority?",
+        "own_new_Wildhunt_positive_connected_meaning": "Ui's scripture work, iced Americano, Shimiko's useful referral and contributors' cake retain real object/recipient goods. Referral and different personal spaces can support art care without one shared access rule.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Hinata's gentle intent can still damage an object; acceptance does not prove liking or complete restoration. The private-property objection is Shimiko's reported objection, with Hinata as reporter, not Ui's visitor complaint.",
+        "own_new_Wildhunt_finite_use": "Use actual expertise, separate reporter/recipient roles and object privacy in WHCLAIM004,010 and038.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual restored state, the specific person's assent and the exact reporter/action before a common policy or universal care claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/4",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM010",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O041",
+      "purpose_id": "WHCP041",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do collectibles, peer disagreement and chosen trust require distributed recognition rather than one omniscient plan?",
+        "own_new_Wildhunt_positive_connected_meaning": "Michiru's recognition wish, chosen collectibles and Ibuki's trust preserve different aims; Wildhunt's useful collective making likewise has distinct contributors.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Distributed help and a catch do not pay a bill or prove all knew Niya's plan; Eri's confidence cannot establish shared prior knowledge.",
+        "own_new_Wildhunt_finite_use": "Compare recognition and unequal information in WHCLAIM008 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual payment and each person's disclosed plan/response before a completed reciprocal or universally informed cooperation claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/5",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM039",
+        "WHCLAIM040"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O042",
+      "purpose_id": "WHCP042",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What does wanted fishing beside a ruined rod and protected noncash leisure require of Wildhunt's uncompleted wishes?",
+        "own_new_Wildhunt_positive_connected_meaning": "Serika's protected noncash prize, shared cleaning and night leisure retain real gains; Shiroko's wanted fishing matters intrinsically without needing an achieved endpoint.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "The received report does not establish achieved fishing, and the rod is ruined; this is not global fishing disproof. Commandeering and opponent pain do not become permission through tactical success.",
+        "own_new_Wildhunt_finite_use": "Use report-bounded wanted/achieved distinctions in WHCLAIM018,043 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the exact represented fishing result, restored object and recipient permission before stronger completion or carefree-success claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/6",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM043",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O043",
+      "purpose_id": "WHCP043",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does making pleasure and a feast remain positive beside dissent, title and payment limits?",
+        "own_new_Wildhunt_positive_connected_meaning": "Shizuko's project pleasure, substitute work, praise and feast support particular cooperative making like shared light craft.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Serika's dissent and title/payment/refund limits remain; praise and useful work do not settle authority or every material cost.",
+        "own_new_Wildhunt_finite_use": "Compare shared making and unsettled legitimacy/resources in WHCLAIM008,011 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual title, payment/refund and addressed dissent before institutional success is expanded beyond local goods."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/7",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM011",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O044",
+      "purpose_id": "WHCP044",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do self-naming, relief and an offered drink require of recognition without a fixed essence?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's chosen self-name and local relief give consultation particular value; Eri's confidence likewise need not authenticate a permanent identity.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Uncertain disclosure and alternatives do not authorize every tease or define a stable essence; warm reception is not all-recipient permission.",
+        "own_new_Wildhunt_finite_use": "Use recognition with privacy and interpretive limits in WHCLAIM022,028 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the specific disclosure, permitted response and later context before claims of complete knowledge or permanent transformation."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/8",
+      "current_body_claim_ids": [
+        "WHCLAIM022",
+        "WHCLAIM028",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O045",
+      "purpose_id": "WHCP045",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can wanting harassment stopped without punishment inform a recipient's art-group refusal?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's specific remedy and information wants preserve agency, like Rena refusing one dangerous activity while retaining company.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Interruption does not settle motive, injury or complete cessation; a valued intervention cannot erase the requested scope of remedy.",
+        "own_new_Wildhunt_finite_use": "Compare particular dissent and incomplete repair in WHCLAIM026 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual cessation and the recipient's accepted remedy rather than treating an interruption as full resolution."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/9",
+      "current_body_claim_ids": [
+        "WHCLAIM026",
+        "WHCLAIM042",
+        "WHCLAIM021"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O046",
+      "purpose_id": "WHCP046",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do escape and checking adult safety require of later help without a true-self verdict?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's escape and safety check are useful particular acts, like later chosen bell help alongside continuing objection.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Past photos and fairness disclosures do not authorize future pursuit or prove a violent hidden essence; an effective action is not a total person judgment.",
+        "own_new_Wildhunt_finite_use": "Use action-specific care and dissent in WHCLAIM038 and051.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual permission and new context before projecting one protective or forceful act into permanent identity or future license."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/10",
+      "current_body_claim_ids": [
+        "WHCLAIM038",
+        "WHCLAIM051",
+        "WHCLAIM027"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O047",
+      "purpose_id": "WHCP047",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can clearer requests, voluntary grouping and anonymous hearing inform recognition of different sensibilities?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's request, Suzumi's voluntary group and hearing Reisa provide local arrangements like an acknowledged art-operation off-ramp.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "These acts do not establish unlimited deference, jurisdiction or harmless pursuit; receiving a view does not authorize every method.",
+        "own_new_Wildhunt_finite_use": "Compare finite accommodation and institutional limits in WHCLAIM021 and026.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual terms, authority and affected recipient result before calling a local arrangement complete policy or unrestricted consent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/11",
+      "current_body_claim_ids": [
+        "WHCLAIM021",
+        "WHCLAIM026",
+        "WHCLAIM005"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O048",
+      "purpose_id": "WHCP048",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do courage, conflict work and hesitant correction response require of art-group authority?",
+        "own_new_Wildhunt_positive_connected_meaning": "Reisa's courage and response have useful agency, as individual assistance can matter without uniform recognition.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Attack complaints and actor seams prevent certified justification or lasting reform; a useful role does not license all force.",
+        "own_new_Wildhunt_finite_use": "Use practical capacities with force/attribution limits in WHCLAIM006,012 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual justified act, affected recipient response and clear actor mode before generalized lawful force or rehabilitation."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/12",
+      "current_body_claim_ids": [
+        "WHCLAIM006",
+        "WHCLAIM012",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O049",
+      "purpose_id": "WHCP049",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do affirmation and ingredient talk retain friendship/craft while information and photo exposure remain unequal?",
+        "own_new_Wildhunt_positive_connected_meaning": "Airi's affirmation and Natsu's making discussion support particular friendship, like wanted art and company in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Exposure and unequal information do not implement accepted help; confidence and care are not blanket permission to disclose.",
+        "own_new_Wildhunt_finite_use": "Compare ordinary goods and trust/privacy limits in WHCLAIM028,032 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted disclosure and help before treating an affirming exchange as a completed remedy or universal consent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/13",
+      "current_body_claim_ids": [
+        "WHCLAIM028",
+        "WHCLAIM032",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O050",
+      "purpose_id": "WHCP050",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can appreciation of arrival and chosen work retain agency beyond a public legend?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's appreciation and chosen work matter without reducing her to reputation; Eri's local confidence can likewise be received without objective total rank.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Shame is not diagnosis and appreciation does not authorize dissemination or restore public trust.",
+        "own_new_Wildhunt_finite_use": "Use recognition as finite recipient meaning in WHCLAIM008,028 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual permission, corrected circulation and later evidence before a complete reputation or clinical-development claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/14",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM028",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O051",
+      "purpose_id": "WHCP051",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What does warm performance around an old public role require when the recipient asks for accurate correction?",
+        "own_new_Wildhunt_positive_connected_meaning": "Friends' warm intention remains meaningful, like company and encouragement before artistic success.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Kazusa's accurate-correction request and Reisa's renewed rumor prevent kindness from becoming assent to the imposed role; liking does not certify every description.",
+        "own_new_Wildhunt_finite_use": "Compare recognition and continuing dissent in WHCLAIM026,040 and050.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the requested correction and actual recipient acceptance before construing a warm group performance as endorsed public identity."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/15",
+      "current_body_claim_ids": [
+        "WHCLAIM026",
+        "WHCLAIM040",
+        "WHCLAIM050"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O052",
+      "purpose_id": "WHCP052",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can explanation and hearing before excusing provide repair without assuming it was requested?",
+        "own_new_Wildhunt_positive_connected_meaning": "Friends' explanations and Yoshimi's hearing create a possible response route, like actual cleanup and listened-to objection.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Kazusa asks whether she requested it; silence is not a completed remedy or diagnosis, and unilateral help cannot be credited as shared agreement.",
+        "own_new_Wildhunt_finite_use": "Use requested scope and local repair limits in WHCLAIM020,021 and038.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual request/accepted response and completed remedy before broad trust or care success."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/16",
+      "current_body_claim_ids": [
+        "WHCLAIM020",
+        "WHCLAIM021",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O053",
+      "purpose_id": "WHCP053",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do promise and a help offer retain when a challenge resumes?",
+        "own_new_Wildhunt_positive_connected_meaning": "Reisa's promise and Suzumi's help offer keep possible change meaningful without a guaranteed endpoint.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Lost rival purpose and renewed challenge counter durable cessation; later warmth cannot settle every future demand.",
+        "own_new_Wildhunt_finite_use": "Compare local redefinition and unfinished change in WHCLAIM021,042 and051.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the later actual conduct and recipient response before converting a promise into lasting reform."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/17",
+      "current_body_claim_ids": [
+        "WHCLAIM021",
+        "WHCLAIM042",
+        "WHCLAIM051"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O054",
+      "purpose_id": "WHCP054",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can checking injury, owning a problem and returning a letter remain positive beside unwanted memory?",
+        "own_new_Wildhunt_positive_connected_meaning": "Reisa's responsibility and returned letter are finite care goods; joy and sadness can coexist, like chosen help and continued dissent.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Unwanted memory and protective distance survive; warmth is not cure or permission for continued pursuit.",
+        "own_new_Wildhunt_finite_use": "Use directed care and incomplete aftermath in WHCLAIM038,041 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the affected recipient's accepted terms and actual repaired condition before a cure, all-party reconciliation or pursuit license."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/18",
+      "current_body_claim_ids": [
+        "WHCLAIM038",
+        "WHCLAIM041",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O055",
+      "purpose_id": "WHCP055",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does renewed concern within irritation resist a uniformly hostile or grateful recipient label?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's visit and inquiry preserve concern with irritation, like Rena's enjoyment of company alongside refusal.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Adult arrangement does not erase agency or reverse aversion; help cannot establish that every later contact is welcomed.",
+        "own_new_Wildhunt_finite_use": "Compare differentiated relational grammar in WHCLAIM036 and051.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the specific later request/response before asserting changed preference, uniform gratitude or general contact permission."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/19",
+      "current_body_claim_ids": [
+        "WHCLAIM036",
+        "WHCLAIM051",
+        "WHCLAIM019"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O056",
+      "purpose_id": "WHCP056",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do contested labels, theatre wishes and help over obstruction constrain institutional authority?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's label objection, Natsu's theatre interest and Yoshimi's help aim preserve distinct positive ends.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Positioning and jurisdiction claims do not prove police authority or completed rescue; a chosen role does not authenticate a formal office.",
+        "own_new_Wildhunt_finite_use": "Use role and dissent limits in WHCLAIM004,026 and040.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual mandate, performed rescue and recipient permission before claims of legitimate coercive authority."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/20",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM026",
+        "WHCLAIM040"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O057",
+      "purpose_id": "WHCP057",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do withheld identity and actual friends' arrival require of recognition without certified cause?",
+        "own_new_Wildhunt_positive_connected_meaning": "Reisa withholds Kazusa's identity and friends actually arrive; both have finite social meaning.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Underworld naming still irritates Kazusa; exhaustion does not establish examination or a certified explosive cause.",
+        "own_new_Wildhunt_finite_use": "Compare privacy, received company and mechanism limits in WHCLAIM028,039 and048.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual disclosure/recipient condition and causal evidence before treating a reunion as diagnosis or full privacy repair."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/21",
+      "current_body_claim_ids": [
+        "WHCLAIM028",
+        "WHCLAIM039",
+        "WHCLAIM048"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O058",
+      "purpose_id": "WHCP058",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can a returned letter, trusted bench and meal offer materialize care without completed clinical or legal results?",
+        "own_new_Wildhunt_positive_connected_meaning": "Particular objects, trust and hunger-directed offering have value, like offered cleanup and protected canvases.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "No clinical recovery, actual arrest or categorical romance follows the offered care; an endpoint must keep its actual mode.",
+        "own_new_Wildhunt_finite_use": "Use finite helper/recipient acts in WHCLAIM020,038 and045.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted meal/care, legal disposition or other claimed result before extending an offer into achieved recovery."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/22",
+      "current_body_claim_ids": [
+        "WHCLAIM020",
+        "WHCLAIM038",
+        "WHCLAIM045"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O059",
+      "purpose_id": "WHCP059",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do café warmth, cake and changed friendship require when failures and irritation remain?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kazusa's reported help and particular friendship goods are positive, like art confidence and ordinary company after continued consequences.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Failures and irritation remain; no omniscient adult or clinical cure is authenticated by social warmth.",
+        "own_new_Wildhunt_finite_use": "Compare ordinary afterstate with adult and repair limits in WHCLAIM022,043 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual stronger repair/knowledge evidence before calling warm continuity total recovery or flawless mediation."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/23",
+      "current_body_claim_ids": [
+        "WHCLAIM022",
+        "WHCLAIM043",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O060",
+      "purpose_id": "WHCP060",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does ordinary parfait continuity matter when a solo-rescue myth and challenge recur?",
+        "own_new_Wildhunt_positive_connected_meaning": "Parfait and routine have intrinsic continuity without needing another dramatic rescue, as quiet art/company do.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Renewed myth and challenge do not enact a future fight or lasting cessation; ordinary enjoyment is not complete reform.",
+        "own_new_Wildhunt_finite_use": "Use ordinary goods and finite future modes in WHCLAIM032,043 and051.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the later actual encounter and changed response before a durable cessation or future-performance claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/24",
+      "current_body_claim_ids": [
+        "WHCLAIM032",
+        "WHCLAIM043",
+        "WHCLAIM051"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O061",
+      "purpose_id": "WHCP061",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do records, rest and revised sports offers require of service that leaves helpers tired?",
+        "own_new_Wildhunt_positive_connected_meaning": "Noa's tea/records and Yuuka's schedule/rest preserve different administrative ends; revised offers can have value like accommodated refusal.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Tired helpers, unwanted clothes and denied rest remain; an opening does not make every service successful.",
+        "own_new_Wildhunt_finite_use": "Compare administrative work and recipient costs in WHCLAIM006,026 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each fulfilled rest/service term and accepted role before a uniformly beneficial institutional outcome."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/25",
+      "current_body_claim_ids": [
+        "WHCLAIM006",
+        "WHCLAIM026",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O062",
+      "purpose_id": "WHCP062",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do a worst-and-fun judgment, craft and recognition coexist with others' displeasure and hunger?",
+        "own_new_Wildhunt_positive_connected_meaning": "Hasumi's coaching and mixed positive judgment, craft and food recognition have particular value.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Chihiro did not enjoy it, Hibiki wants an end and hunger/rest costs persist; one pleased recipient cannot speak for all.",
+        "own_new_Wildhunt_finite_use": "Use plural audience response in WHCLAIM008,033 and050.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each actual response and addressed cost before a universal enjoyment or repaired-worker conclusion."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/26",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM033",
+        "WHCLAIM050"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O063",
+      "purpose_id": "WHCP063",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can handmade help, tea/rest, disclosure and a party matter without vindicating harmful force?",
+        "own_new_Wildhunt_positive_connected_meaning": "Local alternatives and chosen making give recipient goods, like cleanup, questioned boundaries and collective art.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Mine's blocked explanation and harmful force are not every patient's assent or completed reform; support does not erase method.",
+        "own_new_Wildhunt_finite_use": "Compare practical care and continued accountability in WHCLAIM012,020 and045.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual heard explanation, accepted care and affected recipient result before comprehensive consent or safety claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/27",
+      "current_body_claim_ids": [
+        "WHCLAIM012",
+        "WHCLAIM020",
+        "WHCLAIM045"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O064",
+      "purpose_id": "WHCP064",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do Fuuka's recognition, Juri's pleasure/failure and later listening retain work agency after commandeering?",
+        "own_new_Wildhunt_positive_connected_meaning": "Chosen kitchen ends and later recognition remain affirmative, like local art confidence and selected later help.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Commandeering remains; personal assent does not retroactively authorize kidnapping or settle wages, and no payroll audit is supplied.",
+        "own_new_Wildhunt_finite_use": "Use early pressure versus later recipient choice in WHCLAIM017,035 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require separate actual assent, performed compensation and work terms before converting recognition into full labor authorization."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/28",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM035",
+        "WHCLAIM042"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O065",
+      "purpose_id": "WHCP065",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do distributed thanks, play, food and rest require of recovery without sole-cause or rebuilding proof?",
+        "own_new_Wildhunt_positive_connected_meaning": "Different recipients have actual ordinary goods after action, as light craft and company can be appreciated in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Destruction reports do not establish one cause, universal consent or rebuilt safety; warm afterstate cannot settle every consequence.",
+        "own_new_Wildhunt_finite_use": "Compare plural goods with continued technical/repair limits in WHCLAIM030,032 and047.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the particular causal, rebuilt or permission endpoint before a complete restoration or universal-success claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/29",
+      "current_body_claim_ids": [
+        "WHCLAIM030",
+        "WHCLAIM032",
+        "WHCLAIM047"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O066",
+      "purpose_id": "WHCP066",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can contact reports, cycling, recognition and food retain care while listening is deferred?",
+        "own_new_Wildhunt_positive_connected_meaning": "Practical and quiet goods coexist, like wanted company and artistic confidence before all questions are answered.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Restraint, masks and deferred listening do not prove durable contact or a joined Minato identity; source-local names remain typed.",
+        "own_new_Wildhunt_finite_use": "Use contact, information and identity limits in WHCLAIM022,039 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual renewed contact, heard response and independently warranted identity before broad continuity or healed relationship claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/30",
+      "current_body_claim_ids": [
+        "WHCLAIM022",
+        "WHCLAIM039",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O067",
+      "purpose_id": "WHCP067",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do scarf warmth, home, food, friends and cycling make aid particular without a self-blame mechanism?",
+        "own_new_Wildhunt_positive_connected_meaning": "Recipient-specific material and social goods are real, like welcomed art encouragement and offered cleanup.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "The self-blame theory is unauthenticated; no complete safer roster or cure follows, and ordinary aid need not depend on one cause.",
+        "own_new_Wildhunt_finite_use": "Compare positive care with mechanism/closure limits in WHCLAIM020,030 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the relevant causal evidence and actual safer arrangement before clinical explanation or total recovery."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/31",
+      "current_body_claim_ids": [
+        "WHCLAIM020",
+        "WHCLAIM030",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O068",
+      "purpose_id": "WHCP068",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What does requested initiative and reported aid approval require when staff coverage remains promised?",
+        "own_new_Wildhunt_positive_connected_meaning": "Ayumu's request, Aoi's reported approval and student cooperation support useful initiative, as actual shared making does.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Suspended Rin authority, available money and promised coverage are not payment or performed all-staff work; praise cannot complete resources.",
+        "own_new_Wildhunt_finite_use": "Use actual practical initiative beside formal/work limits in WHCLAIM004,011 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each accepted mandate, actual payment and performed coverage before implemented institutional relief."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/32",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM011",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O069",
+      "purpose_id": "WHCP069",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do welcomed affiliation, reported command rights and praise/apology retain standing without borrowing another event's refusal?",
+        "own_new_Wildhunt_positive_connected_meaning": "Toki's affiliation, command-right account, Neru's praise/apology and ordinary clothes/games give specific standing; different recipients can be useful without identical roles.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "O069/E825 does not supply O087/E843's Neru use-then-exclusion refusal. Reported standing and art titles do not settle all work, payment or guest knowledge.",
+        "own_new_Wildhunt_finite_use": "Compare local role/recognition and information limits in WHCLAIM004,008 and039, retaining the actual E825 account scope.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the source-specific request, response and terms before transferring a refusal, command right or complete reform across events."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/33",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM008",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O070",
+      "purpose_id": "WHCP070",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can Rumi's cooking, Saya's refused impossible job and banquet apology matter beside fatigue and a secret trap?",
+        "own_new_Wildhunt_positive_connected_meaning": "The EVENT826 report preserves different work, film-interest and banquet ends, like different art/company and calm wishes.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Kokona's fatigue, secret capture plan and future apology remain; banquet is not wages or every worker's rest, and this is not EVENT844 chronology.",
+        "own_new_Wildhunt_finite_use": "Use source-local resource, dissent and ordinary-afterstate comparison in WHCLAIM011,026 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual apology/payment/rest and disclosed recipient terms before a fully consensual banquet or finished work remedy."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+        "bytes": 541960,
+        "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+        "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+      },
+      "pointer": "/records/34",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM026",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O071",
+      "purpose_id": "WHCP071",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do community work and enjoyed delivered food retain value beside Saki's food/proximity and bed-sharing refusals?",
+        "own_new_Wildhunt_positive_connected_meaning": "Fishing, cargo, knots, app help and actual shrimp/barbecue give practical and ordinary recipient goods, like collective craft and company in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Saki's bodily and food boundaries survive pressure and party enjoyment. Limited repairs do not settle legal or refrigeration questions, and this is not a blanket unexamined refusal claim.",
+        "own_new_Wildhunt_finite_use": "Use particular boundary and later enjoyment distinctions in WHCLAIM026,032 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual accepted food/contact terms and any claimed technical or legal result before extending a pleasant group end to universal assent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/0",
+      "current_body_claim_ids": [
+        "WHCLAIM026",
+        "WHCLAIM032",
+        "WHCLAIM042"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O072",
+      "purpose_id": "WHCP072",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can historical calm and different seaside responses support a private-art institution without full access reform?",
+        "own_new_Wildhunt_positive_connected_meaning": "Ui's quiet history interest and Hanako, Hinata and Koharu's different responses preserve particular goods, like covered canvases and art company.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Map/reburial duties, opting out and distance do not recover lost writing or reform every library policy; one wanted outing is not complete access permission.",
+        "own_new_Wildhunt_finite_use": "Compare memory/privacy and unfinished institutional duties in WHCLAIM028,029 and053.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual recovered record, accepted access and implemented terms before full restoration or general policy claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/1",
+      "current_body_claim_ids": [
+        "WHCLAIM028",
+        "WHCLAIM029",
+        "WHCLAIM053"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O073",
+      "purpose_id": "WHCP073",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do reconciliation, freely completed writing and refused appropriation require of recognized artistic labor?",
+        "own_new_Wildhunt_positive_connected_meaning": "Mel and Momiji reconcile; completed manuscript work and wanted reading/food/resources remain meaningful as art confidence and collective making do.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Secretarial appropriation, Minori's demand and outsourcing are refused. Current61767 qualification keeps these scopes; praise does not establish sales or final9:1 rights.",
+        "own_new_Wildhunt_finite_use": "Use completed chosen craft beside control and recognition limits in WHCLAIM011,026 and049.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual agreed rights, sales/payment and separate accepted labor terms before counting acclaim as complete ownership or work settlement."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/2",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM026",
+        "WHCLAIM049"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O074",
+      "purpose_id": "WHCP074",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do a rest request, small talk and reassurance preserve relief under constrained accompaniment?",
+        "own_new_Wildhunt_positive_connected_meaning": "Hasumi's rest and Ichika's local relief are positive, like Rena's calm preference and heard difference.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Ichika refuses Kasumi's belonging; accompaniment is constrained and proposed repair remains unperformed rather than universal welcome.",
+        "own_new_Wildhunt_finite_use": "Compare exact refusal and local accommodation in WHCLAIM019,021 and026.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual permission, performed remedy and recipient choice before an unrestricted belonging or completed rest claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/3",
+      "current_body_claim_ids": [
+        "WHCLAIM019",
+        "WHCLAIM021",
+        "WHCLAIM026"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O075",
+      "purpose_id": "WHCP075",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can valued meeting memory and departure help coexist with different rest actors and unrepaired equipment?",
+        "own_new_Wildhunt_positive_connected_meaning": "Saten's meeting memory and one-time demonstration have real value; maker and visitor wants differ, like art-maker confidence and audience liking.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Sensei's opening rest is not Eimi's under the current qualification; tired helpers and failed guns remain. One demonstration does not repair every object.",
+        "own_new_Wildhunt_finite_use": "Use actor-specific ordinary goods and local technical ends in WHCLAIM013,033 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the exact actor, restored equipment and later agreed work before universal rest or complete service success."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/4",
+      "current_body_claim_ids": [
+        "WHCLAIM013",
+        "WHCLAIM033",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O076",
+      "purpose_id": "WHCP076",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do reading, cocoa, food and sunrise require when an outing starts as ordered work and later has an off-ramp?",
+        "own_new_Wildhunt_positive_connected_meaning": "Actual ordinary ends and later chosen continuation remain positive, as respected refusal and later bell work can coexist in Wildhunt.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Chihiro required the outing and withheld camp details; Rei refuses changed training. Game numbers are not body-weight measurements and later choice is not retrospective assent.",
+        "own_new_Wildhunt_finite_use": "Compare initial demand, disclosed knowledge and later terms in WHCLAIM017,039 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual new choice, exact disclosure and appropriate measurement before universal consent or physical-performance claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/5",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM039",
+        "WHCLAIM042"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O077",
+      "purpose_id": "WHCP077",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does accepted piano responsibility and represented performance retain recognition without a heard or causal mechanism?",
+        "own_new_Wildhunt_positive_connected_meaning": "Hina's represented playing and Ibuki's cocoa/play/clothes preserve specific art and ordinary goods, like light craft and company.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Written performance is not received audio; covert publicity does not prove hypnosis or budget repair, and different recipients retain their own wants.",
+        "own_new_Wildhunt_finite_use": "Use performance mode and recognition limits in WHCLAIM008,032 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual performed-source receiving, consent and material budget result before acoustic, control or comprehensive repair claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/6",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM032",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O078",
+      "purpose_id": "WHCP078",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do work and many differentiated gifts prevent one uniform recipient result?",
+        "own_new_Wildhunt_positive_connected_meaning": "PS68/Saori work and23 gifts include chosen ends and answered requests, like diverse art-help and company needs.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Contract safety, all gift agreement and full compensation remain unproved; a grateful recipient cannot authorize all methods or payments.",
+        "own_new_Wildhunt_finite_use": "Compare resource/recognition and information terms in WHCLAIM011,033 and038.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require each accepted gift/work term and performed compensation or safety endpoint before all-party benefit."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/7",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM033",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O079",
+      "purpose_id": "WHCP079",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does responsibility after an off-ramp retain craft value while timing objections survive?",
+        "own_new_Wildhunt_positive_connected_meaning": "Umika's chosen responsibility, craft, clothes, scenery and actual festival/trip have intrinsic goods, like Rena's new contribution after refusal.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Current qualification retains timing objections and incomplete risk/cleanup knowledge; later ownership of a task is not earlier informed assent.",
+        "own_new_Wildhunt_finite_use": "Use source-qualified stage and accountability distinctions in WHCLAIM017,027 and042.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the exact disclosed risk, new choice and completed cleanup before full responsibility or universal consent transfer."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/8",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM027",
+        "WHCLAIM042"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O080",
+      "purpose_id": "WHCP080",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do being wanted before success, practice and local self-acceptance require of artistic confidence?",
+        "own_new_Wildhunt_positive_connected_meaning": "Airi's friends want her before skill success; practice, food/music and local acceptance have value, like Eri's painting aspiration before public display.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Wrong semla theory and misheard self-talk do not calibrate talent or diagnose recovery; recognition is not objective lifetime rank.",
+        "own_new_Wildhunt_finite_use": "Compare aspiration and received confidence in WHCLAIM018,032 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual performance, relevant measurement and continuing context before a talent or clinical-development conclusion."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/9",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM032",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O081",
+      "purpose_id": "WHCP081",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can service desire, child protection and paid leisure retain value despite imposed work and mishandling?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kanna's desire/thanks and Love's particular paid leisure are positive recipient goods, like practical help and guard rest.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Imposed lifesaver work and algorithmic mishandling are not restitution or permanent office transfer; tickets are refused and remedy stays specific.",
+        "own_new_Wildhunt_finite_use": "Use service with continuing authority/rest limits in WHCLAIM006,020 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted work, restitution and implemented role transfer before comprehensive institutional rehabilitation."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/10",
+      "current_body_claim_ids": [
+        "WHCLAIM006",
+        "WHCLAIM020",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O082",
+      "purpose_id": "WHCP082",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do reunion food/music and Saori's wanted stage sensation matter beside unpaid labor and discomfort?",
+        "own_new_Wildhunt_positive_connected_meaning": "Arius quiet, food, music and reunion preserve specific ordinary goods without needing an effective institution-wide reform.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Secret forced protection, unpaid wages, Misaki's discomfort and limited camera knowledge remain; Azusa attendance is not established by this report.",
+        "own_new_Wildhunt_finite_use": "Compare company with labor, knowledge and audience limits in WHCLAIM019,033 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual payment, agreed protection/filming terms and represented attendance before full consent or repaired aftermath."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/11",
+      "current_body_claim_ids": [
+        "WHCLAIM019",
+        "WHCLAIM033",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O083",
+      "purpose_id": "WHCP083",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can numerical defeat and later broad defense remain useful without filling fine actor attribution?",
+        "own_new_Wildhunt_positive_connected_meaning": "Theatre, food and pandas have intrinsic value, and the report preserves initial numerical defeat beside later defense.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Fine defeated-party attribution stays deferred; invitation is not unanimous assent and cell/interrogation precede correction, so reception cannot erase that sequence.",
+        "own_new_Wildhunt_finite_use": "Use finite evidence grades and continuing costs in WHCLAIM008,021 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require precise actor/phase evidence and actual recipient agreement before stronger victory, freedom or all-party repair claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/12",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM021",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O084",
+      "purpose_id": "WHCP084",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do unchosen office and rejected cure/title bargains require of agency without guaranteed reform?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kisaki's response to Kai's bargain and Kaguya's refused headship preserve particular agency, like Eri/Rena's different chosen aims.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Medical harm remains; a festival beginning neither cures everyone nor legitimizes every proposed change, and refused title is not every office's history.",
+        "own_new_Wildhunt_finite_use": "Compare choice against role and mechanism limits in WHCLAIM004,026 and040.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual health, office disposition and implemented reform before stronger cure or universal legitimacy claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/13",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM026",
+        "WHCLAIM040"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O085",
+      "purpose_id": "WHCP085",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does freely leading and ending idol work preserve art and ordinary ends beside photo/privacy conditions?",
+        "own_new_Wildhunt_positive_connected_meaning": "Mari's chosen leadership/exit and art, music, reading and play retain particular positive value, like local choice and confidence.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Requested photo disposal is not destruction; a private gift is not upload consent, and recipient costs persist.",
+        "own_new_Wildhunt_finite_use": "Use art agency and unfinished privacy outcomes in WHCLAIM028,032 and053.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual disposal/publication permission and each accepted role before interpreting creative success as unlimited audience access."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/14",
+      "current_body_claim_ids": [
+        "WHCLAIM028",
+        "WHCLAIM032",
+        "WHCLAIM053"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O086",
+      "purpose_id": "WHCP086",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can accepted pajamas, games, cleanup, sleep and apology be positive when confinement and filing continue?",
+        "own_new_Wildhunt_positive_connected_meaning": "Ordinary play/rest and greeting goods remain actual, like company and confidence after Wildhunt consequences.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Confinement, recording/privacy interference, protested pursuit and continuing filing are not erased by that warmth.",
+        "own_new_Wildhunt_finite_use": "Compare ordinary afterstate with privacy and enforcement costs in WHCLAIM030,039 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual exit, respected privacy and completed work relief before a wholly repaired or freely chosen aftermath."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/15",
+      "current_body_claim_ids": [
+        "WHCLAIM030",
+        "WHCLAIM039",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O087",
+      "purpose_id": "WHCP087",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do worth beyond prophecy and company interact with requests for information and refusal of unilateral exclusion?",
+        "own_new_Wildhunt_positive_connected_meaning": "Seia's worth beyond prediction, Rio's limits and C&C company support distinct belonging rather than one useful-role identity.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Karin requests information; Neru refuses use-then-exclusion in O087/E843. One-week terms and work pretext do not complete repair or move that refusal into E825.",
+        "own_new_Wildhunt_finite_use": "Use source-qualified role/information/dissent distinctions in WHCLAIM018,026 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual disclosed terms, recipient response and lasting implemented remedy before universal inclusion or cross-event refusal transfer."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/16",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM026",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O088",
+      "purpose_id": "WHCP088",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "What do Fuuka's interrupted rest and Juri's chosen substitute service require of institutional care?",
+        "own_new_Wildhunt_positive_connected_meaning": "Rest, chosen work, pancakes and permitted practice retain different recipients and pleasures, like art-making and guard calm needs.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Explosion, manager pressure and Sena's painful objected treatment keep pay, safety and cure unresolved; later service cannot authorize earlier pressure.",
+        "own_new_Wildhunt_finite_use": "Compare chosen work, bodily objection and rest in WHCLAIM017,030 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require separate actual work assent, performed compensation and relevant safety/recipient results before complete service or clinical benefit."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/17",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM030",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O089",
+      "purpose_id": "WHCP089",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can an achieved grand slam and refused professional contract show agency without certifying every method?",
+        "own_new_Wildhunt_positive_connected_meaning": "Rei's actual sporting success and choice of her club retain a realized wanted end, as local art confidence can be positive.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Awkward clothes/drinks, overridden rest and failed equipment remain; wrist harm or safety is unverified, not made certain by performance.",
+        "own_new_Wildhunt_finite_use": "Use achieved art/sport and continuing recipient costs in WHCLAIM008,026 and052.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted method and relevant safety evidence before universal training benefit or complete career determination."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/18",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM026",
+        "WHCLAIM052"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O090",
+      "purpose_id": "WHCP090",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do safety wants, refused maneuver, actual stopping and intact cargo constrain a service-success account?",
+        "own_new_Wildhunt_positive_connected_meaning": "Aoba's manga/safety interests, actual stop, cargo and signatures retain meaningful work agency, like particular art contributors' decisions.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "An unwanted station visit remains; medicine offered and dinner invited are not performed care or settled damage.",
+        "own_new_Wildhunt_finite_use": "Compare finite practical endpoints with offer/permission modes in WHCLAIM006,020 and045.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted visit/care and settled recipient harm before a comprehensive safe-service result."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/19",
+      "current_body_claim_ids": [
+        "WHCLAIM006",
+        "WHCLAIM020",
+        "WHCLAIM045"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O091",
+      "purpose_id": "WHCP091",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can quiet strategy, food, rescue and later contest choice matter beside pressure and unfinished performance?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kikyou's quiet interests, Renge's stop and a later chosen contest have particular value, like Rena's distinct refusal and new contribution.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Confidentiality pressure, tail contact and strain survive; final/prize, CPR and cure are not completed by this report.",
+        "own_new_Wildhunt_finite_use": "Use actual choices and finite stronger-warrant boundaries in WHCLAIM026,027 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted contact, performed final/result and relevant mechanism before all-success or clinical conclusions."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/20",
+      "current_body_claim_ids": [
+        "WHCLAIM026",
+        "WHCLAIM027",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O092",
+      "purpose_id": "WHCP092",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do actual barbecue/play/cleanup and Kasumi's reading retain value alongside covert work and environmental/title limits?",
+        "own_new_Wildhunt_positive_connected_meaning": "Mika's play and particular food/company, and Kasumi's books/ice cream, have ordinary worth before structural repair.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Covert labor, environmental/title limits and Seia's atonement do not enact all rest preference or institutional restoration.",
+        "own_new_Wildhunt_finite_use": "Compare ordinary taste with continuing accountability in WHCLAIM011,030 and050.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted work, repaired place and recipient relief before converting pleasure or atonement into implemented reform."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/21",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM030",
+        "WHCLAIM050"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O093",
+      "purpose_id": "WHCP093",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does the actual Wildhunt sequence let Eri's confidence and Rena's boundary remain positive together?",
+        "own_new_Wildhunt_positive_connected_meaning": "Own whole185-line WH01 gives Eri's wanted painting and received confidence, Tsumugi's company, Kanoe's liking/privacy, respected Rena refusal, her later chosen bell work and actual collective lights with mediated recognition.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Imposed rooms/first pressure, explosion, guard workload and renewed detention remain. Manami is relayed, further voice/statue causes unresolved, and future painting/viewpoint/museum entry uncompleted.",
+        "own_new_Wildhunt_finite_use": "Direct core support for WHCLAIM001,018,027,028 and034–045 at own maintained-account grade; not fourteen freshly read canonical objects.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the specific later artifact/access/recipient response and actual mechanism evidence before extending confidence, recognition or chosen help to fulfilled wishes, global identity or every permission."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/22",
+      "current_body_claim_ids": [
+        "WHCLAIM001",
+        "WHCLAIM018",
+        "WHCLAIM027",
+        "WHCLAIM028",
+        "WHCLAIM034",
+        "WHCLAIM035",
+        "WHCLAIM036",
+        "WHCLAIM037",
+        "WHCLAIM038",
+        "WHCLAIM039",
+        "WHCLAIM040",
+        "WHCLAIM041",
+        "WHCLAIM042",
+        "WHCLAIM043",
+        "WHCLAIM044",
+        "WHCLAIM045"
+      ],
+      "grade": "OWN_COMPLETE185_MAINTAINED_E849_AND_PRIOR_O093_REPORT_MEANING_NOT14PRIMARY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O094",
+      "purpose_id": "WHCP094",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do Miyo's reading-access refusal and Ritsu's sculpture/material interests constrain an art institution's recipient claims?",
+        "own_new_Wildhunt_positive_connected_meaning": "Miyo makes fallible real decisions, rejects a dishonest ending and refuses Teacher reading her wanted novels; Ritsu's craft, materials, favorite-author affection and cake remain separate wants.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Zero earnings/loss, tree blockade, contested titles and Hiromi's limited knowledge remain. Reading refusal belongs to Miyo, not Ritsu, and no tool/marble purchase or total repair follows.",
+        "own_new_Wildhunt_finite_use": "Compare distinct artists' privacy, tastes and directed costs in WHCLAIM010,028 and038, with E850 current maintained context kept separate from E849.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require exact actor/act, accepted access and completed purchase/repair before general artistic rights, privacy settlement or shared-role conclusions."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/23",
+      "current_body_claim_ids": [
+        "WHCLAIM010",
+        "WHCLAIM028",
+        "WHCLAIM038"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O095",
+      "purpose_id": "WHCP095",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can chosen joining/leaving, music/chat and reading/craft retain belonging when sleep is lost?",
+        "own_new_Wildhunt_positive_connected_meaning": "Suzumi's JTF choices, Reisa's interests and Shimiko's reading/sewing preserve particular agency, like informal art company without identical preferences.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Love's actual win and feigned defeat do not yield a heroine win or torture; Ui loses desired sleep and cleanup remains bounded.",
+        "own_new_Wildhunt_finite_use": "Use voluntary role change and continuing rest costs in WHCLAIM018,019 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual role/cleanup/rest results and clear actor modes before a completed victory, universal service or durable belonging claim."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/24",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM019",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O096",
+      "purpose_id": "WHCP096",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do criticism, making and reader tastes support circulation without fixed rights or completed future access?",
+        "own_new_Wildhunt_positive_connected_meaning": "Takane's criticism, Mel's creation, readers' making and Mashiro's tea/memories provide plural artistic recipients, like local light recognition and differing tastes.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "False biography, withdrawing readers and Ui's temporary distance persist; final9:1 rights, ownership and a future collection are not established.",
+        "own_new_Wildhunt_finite_use": "Compare reception and unfinished access/authority in WHCLAIM008,025 and050.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual agreed rights, represented circulation and completed collection visit before all-reader benefit or permanent artistic legitimacy."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/25",
+      "current_body_claim_ids": [
+        "WHCLAIM008",
+        "WHCLAIM025",
+        "WHCLAIM050"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O097",
+      "purpose_id": "WHCP097",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How does chosen modeling while retaining a ninja self-name test creative recognition under forced fitting and withheld information?",
+        "own_new_Wildhunt_positive_connected_meaning": "Tsukuyo chooses styles/modeling today and returns; dress repair and camera views have finite positive goods.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Forced fitting/diet and a withheld phone remain; filming permission and new ramen are unproved, and local choice does not complete all bodily/privacy autonomy.",
+        "own_new_Wildhunt_finite_use": "Use particular creative choice and information boundaries in WHCLAIM018,028 and039.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require exact accepted preparation/filming terms and later recipient outcomes before permanent identity, consent or repair claims."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/26",
+      "current_body_claim_ids": [
+        "WHCLAIM018",
+        "WHCLAIM028",
+        "WHCLAIM039"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O098",
+      "purpose_id": "WHCP098",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do chosen naming, gifts, hobbies and peace retain agency without certifying co-design permission or metaphysics?",
+        "own_new_Wildhunt_positive_connected_meaning": "Kei's name/uniform, Alice's imperfect gift and refusal of erasure, Toki's hobbies and Eimi's peace preserve different ordinary goods.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Pilot permission, health and identity metaphysics do not follow co-design; objections and broken machines remain source-local.",
+        "own_new_Wildhunt_finite_use": "Compare role/name and technical/mode limits in WHCLAIM004,019 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual accepted operation, restored machine and independent identity warrant before universal personhood, safety or mechanism conclusions."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/27",
+      "current_body_claim_ids": [
+        "WHCLAIM004",
+        "WHCLAIM019",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O099",
+      "purpose_id": "WHCP099",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can cooking, inquiry, admitted uncertainty and reunion retain care when rumor and contact limits remain?",
+        "own_new_Wildhunt_positive_connected_meaning": "Konoka's cooking, named inquiry, Himari's uncertainty and reunion give particular care content, like art support with differing knowledge.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "One planted rumor explains only its acts; secret nonarrest, an unconsulted hug and eating burden remain rather than all mystery or consent resolved.",
+        "own_new_Wildhunt_finite_use": "Use support, partial cause and recipient permission in WHCLAIM022,038 and048.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the exact causal chain, accepted contact and actual legal outcome before all-knowing or universally consensual care."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/28",
+      "current_body_claim_ids": [
+        "WHCLAIM022",
+        "WHCLAIM038",
+        "WHCLAIM048"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O100",
+      "purpose_id": "WHCP100",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do iced tea, refused cooking duties, revised pace and a permitted walk retain leisure under continuing pressure?",
+        "own_new_Wildhunt_positive_connected_meaning": "Rumi's drink wish, cooks' duty refusal, Kisaki's revised pace and Kokona's walk permission preserve specific positive ends.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Collapse, factions, late medicine and punishment remain; Kokona's infiltration refusal is not erased by later walk allowance or universal rest.",
+        "own_new_Wildhunt_finite_use": "Compare resource/dissent and later-choice stages in WHCLAIM017,026 and033.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted work and restored rest/health if claimed before turning one allowance into broad command reform."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/29",
+      "current_body_claim_ids": [
+        "WHCLAIM017",
+        "WHCLAIM026",
+        "WHCLAIM033"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O101",
+      "purpose_id": "WHCP101",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do rest, privacy, rations, rescue and boat memory coexist with attack then blame-shift and unfinished apology?",
+        "own_new_Wildhunt_positive_connected_meaning": "Iroha's particular ordinary ends and protective rescue have different recipients, like care and guard rest beside art.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Photo refusals, Sumika's own attack order then blame-shift and unfinished apology remain; pirate aftermath and cannon cause are bounded rather than settled by rescue.",
+        "own_new_Wildhunt_finite_use": "Use source-specific responsibility and disclosure in WHCLAIM020,039 and041.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual accepted photo/contact, delivered apology and causal evidence before full accountability repair or universal consent."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/30",
+      "current_body_claim_ids": [
+        "WHCLAIM020",
+        "WHCLAIM039",
+        "WHCLAIM041"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O102",
+      "purpose_id": "WHCP102",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can curry, sea cooking, rescue warmth and offered debt cancellation distinguish service from imposed roles?",
+        "own_new_Wildhunt_positive_connected_meaning": "Minato's cooking, Ami's recalled work, retreat/ice cream and partial debt have real ordinary and practical value.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Debt cancellation is offered, not enacted; Minato refuses exception/bad-guy/extraction roles and Ami more paperwork. Do not join source-local actors or flatten clinical/main versus event scopes.",
+        "own_new_Wildhunt_finite_use": "Compare requested roles, resource ends and quiet afterstate in WHCLAIM011,019 and043.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual agreed role, performed debt relief and the precise source/recipient before completed obligation or global identity conclusions."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/31",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM019",
+        "WHCLAIM043"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O103",
+      "purpose_id": "WHCP103",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How do Anna's warmth/failure fear and Elina's motivational projection keep encouragement actor-specific?",
+        "own_new_Wildhunt_positive_connected_meaning": "Warmth, fuel-use fear, cafe/clothes and apologies have distinct speakers and recipient goods, like art confidence and calm preference.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Forced praise, injury/property risk and unfinished race/restoration remain; Elina's admitted projection is not Anna's confession, and fuel is not battery.",
+        "own_new_Wildhunt_finite_use": "Use exact encouragement/mode and uncompleted-mechanism boundaries in WHCLAIM022,043 and044.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require the actual actor statement, completed outcome and relevant mechanism before shared desire, technical cause or full repair."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/32",
+      "current_body_claim_ids": [
+        "WHCLAIM022",
+        "WHCLAIM043",
+        "WHCLAIM044"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    },
+    {
+      "owner_id": "O104",
+      "purpose_id": "WHCP104",
+      "complete_current_new_five_fields": {
+        "own_new_Wildhunt_target_specific_substantive_question": "How can actual gifts, food, broadcasts, flowers and wanted wages retain different ends without an achieved-payroll claim?",
+        "own_new_Wildhunt_positive_connected_meaning": "Gifts, cakes, broadcasts, dinner, a blooming plant, pudding/play and Arata's refusal preserve actual or wanted particular goods; Sora's wage motive remains intrinsically meaningful.",
+        "own_new_Wildhunt_countermeaning_and_recipient_limit": "Coerced unpaid art, captive cooks, property/food abuse and pending promises persist. Sora's motive is not established as achieved payroll here, with no global nonpayment or full payroll-absence claim.",
+        "own_new_Wildhunt_finite_use": "Compare ordinary goods and unfinished resources in WHCLAIM011,032 and050.",
+        "own_new_Wildhunt_stronger_claim_trigger": "Require actual paid amount/terms, accepted work and each fulfilled promise before converting motive or pleasant reception into completed compensation."
+      },
+      "part": {
+        "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+        "bytes": 701989,
+        "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+        "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+      },
+      "pointer": "/records/33",
+      "current_body_claim_ids": [
+        "WHCLAIM011",
+        "WHCLAIM032",
+        "WHCLAIM050"
+      ],
+      "grade": "OWN_ADEQUATE_PRIOR_COMMON105_REPORT_MEANING_REUSE_AND_DISCLOSED_RECEIVED_WRITTEN_CONTEXT_NOT_DEFAULT105_NORMAL_REPLAY",
+      "source_original_payload": "Preserved complete row at the same part pointer;original ROOT/source scopes unchanged."
+    }
+  ],
+  "owner105_exact_union": true,
+  "new_fields_count": 525,
+  "ordinary_evidence_priority": "Question relevance,actor/mode/context/endpoint;not stakes,name presence or source-count proxy. All105 preserved;no discard by low stakes.",
+  "original_pending_history_current_qualification": "Earlier Minato/Odysseia/M008 states inside preserved ROOT/input payloads retain snapshots;new Wildhunt judgments do not promote source/native/AV grades or complete a package.",
+  "ROOT_acceptance_independent_QA_install_publication_MAIN_integration": "PENDING_SEPARATE",
+  "models": 0,
+  "all14_original_gaps": "OPEN",
+  "new_canonical_package_named_or_source_credit": 0
+}

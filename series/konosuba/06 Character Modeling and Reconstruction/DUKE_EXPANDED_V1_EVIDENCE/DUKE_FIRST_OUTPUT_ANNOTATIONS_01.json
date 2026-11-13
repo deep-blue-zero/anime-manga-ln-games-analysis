@@ -1,0 +1,146 @@
+{
+  "schema": "konosuba.character-first-output-annotations.v1",
+  "assessed_utc": "2026-10-24T15:16:11.113629+00:00",
+  "generation": "DUKE_EXPANDED_V1",
+  "first_outputs_pin": {
+    "file": "DUKE_FIRST_OUTPUTS_DRAFT_01.json",
+    "bytes": 5122,
+    "sha256": "1a7a4c7f359544842f9f0e9d4815a46ccb1947a68ed9d7db680be51ceb5d4456"
+  },
+  "exact_inputs_pin": {
+    "file": "DUKE_SCENARIO_INPUTS_DRAFT_02.json",
+    "bytes": 8578,
+    "sha256": "f3881f4c08b35dced8271e4fe1496e55cc65eb5f064168c335ba15c98bc17cf5"
+  },
+  "pre_first_expectation_pin": {
+    "file": "DUKE_PRE_FIRST_EXPECTATIONS_DRAFT_02.json",
+    "bytes": 2514,
+    "sha256": "fc4fd17ce8c8af8b348eb8a3dc7f5b232cea39c283333d9f23fbb3af414e7651"
+  },
+  "actual_complete_output_review_chunk": "91ccd9",
+  "annotations": [
+    {
+      "case_id": "DK-A1",
+      "pair": "DK-PAIR-A",
+      "prompt_sha256": "d75d9d962708b6f96c449ca14c1fe9bcd35f89fbe06ac8d1a86be0f2b66aaf95",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-A1.txt",
+        "bytes": 245,
+        "sha256": "e9127a6ce173612f3a09d3204ed8dbe11395e0f3c99cc0a6a4ee76f27285ae79"
+      },
+      "original_first_receipt": {
+        "file": "DK-A1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "37754d16336d0602e2b76138eaed535358a3db22c71a564ee5338a097503b274"
+      },
+      "target_rule": "DK-R01",
+      "disposition": "SHARPER_TREATMENT_WITH_MINOR_UNBOUND_LEXICAL_DETAIL",
+      "observed": "Commands the demon to put ledgers down,demands the account location and turns toward another desk. No physical attack,compliance by the demon or acquired record is narrated.",
+      "body_constraints": "Immediate observable action/utterance,45words,and supplied species/weakness/goal retained. Quoted tidies its shelves introduces a shelving description absent the scene. It may be a dismissive conjecture,but it is not an established setting fact and prevents a strict fully bound-body claim.",
+      "rule_comparison": "Compatible contempt/coercive speech under no credited Vanir connection;not a proof that all weak unconnected demons would be attacked.",
+      "defects": [
+        "Unprovided shelving detail in Duke taunt;kept exact."
+      ],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "DK-A2",
+      "pair": "DK-PAIR-A",
+      "prompt_sha256": "b8303933ddc6ff02eec76aea7e7c1c14c244dcacd0a245091b60a85c518813e0",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-A2.txt",
+        "bytes": 253,
+        "sha256": "f7202ab79245bee11ccbe0ab5ba36b37e983c8879b5ecef7439a8931cc64e359"
+      },
+      "original_first_receipt": {
+        "file": "DK-A2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "cd82a164d29044a11e35ad0969504f94cfd350bb5278dda7c3c44a0e5647ca8d"
+      },
+      "target_rule": "DK-R01",
+      "disposition": "BOUNDED_COMPATIBLE_QUALIFIED_TREATMENT",
+      "observed": "Steps aside,agrees to five minutes,requests later account location and retains categorical distance. Does not invoke an invented Vanir order or abandon information goal.",
+      "body_constraints": "Immediate action/utterance,42words. Stepping aside is Duke chosen action,not an invented prior obstruction by the demon. No completed future service or retaliation is supplied.",
+      "rule_comparison": "Direction fits qualified treatment. Accepting the wait is one possible choice,not mandatory forecast success;generic patience/source cueing still explain it.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "DK-B1",
+      "pair": "DK-PAIR-B",
+      "prompt_sha256": "edcf15ab432d118e7f3de65affa2e57345717c83eb752072ea84127db13e2471",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-B1.txt",
+        "bytes": 225,
+        "sha256": "7024d75e7b8fc0c6b5862675beae1eed9eb2f3f8150a6af2af81b70fbbd4d8d3"
+      },
+      "original_first_receipt": {
+        "file": "DK-B1_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "31f26e1ccb218bccb8b1f54bd91ef352190ef98a195ca8fb49374a432ab2b095"
+      },
+      "target_rule": "DK-R01",
+      "disposition": "BOUNDED_COMPATIBLE_LIMITED_CONCESSION",
+      "observed": "Accepts ten-minute shift while expressly retaining intention to face Wiz. A head inclination and departure enact the answer.",
+      "body_constraints": "39words. Will not alter the outcome is Duke boast/prediction,not a narrated settled battle outcome. Spend the day being redirected is prospective complaint,not an independently supplied prior history.",
+      "rule_comparison": "Limited concession coexists with retained core aim. Ordinary pragmatic goal preservation supplies a strong rival.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    },
+    {
+      "case_id": "DK-B2",
+      "pair": "DK-PAIR-B",
+      "prompt_sha256": "76b8c4b528cb85c263f8e1b8311324064a747ba0399e298de8d2ecaf7f4652b6",
+      "original_body_pin": {
+        "file": "first-bodies01/DK-B2.txt",
+        "bytes": 255,
+        "sha256": "6efef325bfd3970e6f0836120e9dc375a1994359586231fba3c3fcebfebb4f94"
+      },
+      "original_first_receipt": {
+        "file": "DK-B2_ORIGINAL_FIRST_RECEIPT_01.json",
+        "bytes": 2120,
+        "sha256": "545828d3f7cbd8a17bb1653bb7f7f2b27fa09bfc5f383b1d0101bea6e21f5a72"
+      },
+      "target_rule": "DK-R01",
+      "disposition": "BOUNDED_COMPATIBLE_RETAINED_GOAL",
+      "observed": "Declines abandonment,credits Vanir connection as reason for a civil answer,asserts intention to challenge Wiz and leaves physical path clear.",
+      "body_constraints": "47words. No new patron instruction,enforcement power,force,prior agreement or future outcome. Vanir/Wiz references are supplied and meaningful.",
+      "rule_comparison": "Enacts qualified treatment without conceding central aim. Explicit acquaintance-to-civility wording is close to the model cue and does not establish independently inferred cause.",
+      "defects": [],
+      "original_body_changed": false,
+      "regenerated": false
+    }
+  ],
+  "pairs": [
+    {
+      "pair": "DK-PAIR-A",
+      "disposition": "QUALIFIED_DIRECTION_NOT_STRICT_FULLY_BOUND_BODY_PAIR",
+      "comparison": "A1 sharper command/contempt versus A2 wait/qualified distance. Both are nonattacking,so attack restraint is not discriminated. A1 shelving detail remains unbound.",
+      "limits": "Common restraint,generic patronage and source/contrast cueing remain live. No isolated affiliation mechanism or accuracy claim."
+    },
+    {
+      "pair": "DK-PAIR-B",
+      "disposition": "BODY_CONSTRAINTS_ACCEPTABLE_LOCAL_DEPENDENT_CONTRAST",
+      "comparison": "Limited schedule concession versus refusal to abandon goal,with same credible affiliation. Current action/knowledge/world constraints are acceptable;the request itself strongly cues a generic distinction.",
+      "limits": "Body compliance is separate from mechanism isolation. Ordinary goal preservation/source cueing explain the difference. No independent validity or general novelty success."
+    }
+  ],
+  "original_firsts": 4,
+  "dependent_pairs": 2,
+  "minor_unbound_detail_cases": [
+    "DK-A1"
+  ],
+  "clean_mechanism_isolating_pairs": 0,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "same_informed_root_authors_and_assesses": true,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "Japanese_or_acoustic_voice_certification": false,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false
+}

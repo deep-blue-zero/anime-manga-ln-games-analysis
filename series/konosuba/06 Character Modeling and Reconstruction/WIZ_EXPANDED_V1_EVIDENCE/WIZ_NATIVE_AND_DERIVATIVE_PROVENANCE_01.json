@@ -1,0 +1,536 @@
+{
+  "schema": "KONOSUBA_WIZ_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-19T23:03:58.124820+00:00",
+  "authority_source_commit": "90fb18d5302711cb265687c140ab5d5d151ebe06",
+  "shared_MASK_receiving_reference": {
+    "path": "series/konosuba/06 Character Modeling and Reconstruction/VANIR_EXPANDED_V1_EVIDENCE/VANIR_NATIVE_AND_DERIVATIVE_PROVENANCE_01.json",
+    "source_commit": "90fb18d5302711cb265687c140ab5d5d151ebe06",
+    "sha256": "8334f1781654e1548b9799d9bc74d19225bb6a3db53ae5c487064d1ad3aa9368",
+    "responsibility": "Exact already accepted current native union/receipts, reused across subjects with zero additional whole-source or independent credit; Vanir path label does not make every passage his viewpoint."
+  },
+  "MASK_complete_BASE_TEXT_units": [
+    {
+      "component_id": "MASK-U011",
+      "member": "text/part0009.html",
+      "member_sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 45,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          45
+        ]
+      ]
+    },
+    {
+      "component_id": "MASK-U013",
+      "member": "text/part0011.html",
+      "member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 481,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          481
+        ]
+      ]
+    },
+    {
+      "component_id": "MASK-U015",
+      "member": "text/part0013.html",
+      "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 518,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          518
+        ]
+      ]
+    },
+    {
+      "component_id": "MASK-U017",
+      "member": "text/part0015.html",
+      "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 587,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          587
+        ]
+      ]
+    },
+    {
+      "component_id": "MASK-U019",
+      "member": "text/part0017.html",
+      "member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 648,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          648
+        ]
+      ]
+    },
+    {
+      "component_id": "MASK-U021",
+      "member": "text/part0019.html",
+      "member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 556,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          556
+        ]
+      ]
+    },
+    {
+      "component_id": "MASK-U023",
+      "member": "text/part0021.html",
+      "member_sha256": "702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6",
+      "actual_complete_BASE_TEXT_member": true,
+      "actual_unique_BASE_TEXT_P": 27,
+      "received_BASE_TEXT_ranges": [
+        [
+          1,
+          27
+        ]
+      ]
+    }
+  ],
+  "MASK_inherited_actual_P": 2862,
+  "MAIN04_actual_bounded_native_receipt": {
+    "preserved_input_name": "SECONDARY_ACCEPTED_MAIN04_WIZ_HANS_AND_RESOURCE_NATIVE_RECHECK_01.json",
+    "receipt_sha256": "334869aa4444dc60bf290dfe5a4eb049437db40c1676447897d8109672d7c07f",
+    "actual_receiving_record": {
+      "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_RECHECK_V1",
+      "status": "ACTUAL_BOUNDED_BASE_TEXT_RECEIVED_NO_NEW_PRINCIPAL_PASS",
+      "source_id": "MAIN-04",
+      "native_filename": "Konosuba - Main Series - Volume 04.epub",
+      "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "c512e28feb296ec13d93e49f99d3b9a99053adce9fdc73891a6c3f920e80adf3",
+      "paragraph_slots": 677,
+      "actual_received_base_text_ranges": [
+        [
+          1,
+          70
+        ],
+        [
+          225,
+          300
+        ],
+        [
+          385,
+          450
+        ],
+        [
+          451,
+          525
+        ],
+        [
+          526,
+          600
+        ],
+        [
+          601,
+          677
+        ]
+      ],
+      "actual_unique_base_text_P_in_this_receipt": 439,
+      "not_received_in_this_receipt": [
+        [
+          71,
+          224
+        ],
+        [
+          301,
+          384
+        ]
+      ],
+      "new_principal_pass_credit": 0,
+      "new_excluded_reading_credit": 0,
+      "new_independent_validation_credit": 0,
+      "qualifications": [
+        "P1–70includes Wiz source hypothesis/access concern and two Eris guard roles. Guards enforce specific visitor rules and respond to Aqua claims/threats; their behavior is not generic inability. Individual utterance attribution and incidental dispositions need separate identity guards; lead-search snippets outside actual ranges confer zero full-P credit.",
+        "P240–257Wiz recognizes Hans, names her lich identity, mentions the Demon King castle and defeats his cover; P265confirms his name. P252narrator calls disclosure unknowing, whileP273keeps natural versus deliberate open. Do not certify one hidden intention or merge ordinary friendliness with full agreement to his plan.",
+        "P270Hans describes a long-prepared plan and the noninterference arrangement; P271Wiz says she was greeting him. P281actually asks negotiation because these are friends and the town's springs matter; P283Hans compares her prior Archwizard aggression andP284her own response is an account, not proof lichhood caused all later dispositions.",
+        "P408question→P409/P413Hans admits eating the manager. It is an admission, not a newly witnessed consumption or known manager name. P416actual Curse Crystal Prison freezes him/source; P425/P428Wiz explicitly distinguishes noncombat humans from adventurers/knights accepting reciprocal lethal risk. Her moral rule is not universal pacifism or opposition to all Demon King actors.",
+        "P431–432Wiz states the manager innocence and sadness. Her cold voice/expression and actual force follow the admission rather than mere faction identity. Hans pain/refusal, self-releaseP441–443 and later tactical counteraction retain his own agency.",
+        "P453–455Wiz again freezes Hans before the final spring, but he can throw/regenerate body parts. P463–495Kazuma actual Snipe plus Aqua Blessing works until arrows run out; this is finite resource failure, not unlimited routing or proof Wiz alone stopped every piece.",
+        "P499Wiz warns Aqua about actual body contamination; ignored warning is not Wiz permission. P502–504actual Light of Saber cuts the poisoned pipe. P505prediction of repair time remains prediction, not a witnessed completed repair.",
+        "P522states insufficient mana for the enlarged target; P524Kazuma explains his low supply and Aqua incompatibility, not a newly performed transfer experiment. P565Wiz urges withdrawal while providing Freeze/coolingP567; Aqua refuses. Affection does not eliminate Wiz own limit or turn Aqua continued danger into shared agreement.",
+        "P554/P563near-instinct interpretation is Kazuma hypothesis; large-body material intake and food responseP579are observed. Do not erase Hans prior planning or certify total permanent loss of cognition.",
+        "P582Darkness protests gift use; P583Kazuma overrides/P584promises replacement/help. LaterP635–636explicitly shows her holding repurchased gifts. This adds precision to earlier derivative review: repurchase is actual by this later phase, while the shopping scene, Kazuma promised participation and eventual father/staff handoff/approval remain unshown. Do not broaden a no-delivery caution into no repurchase.",
+        "P588Wiz half-size mana statement is qualified possibility. P612Kazuma authorizes a mana draw short of death; P618actual drain/consciousness loss follows. P634is retrospective account of freezing every remnant after his loss of consciousness, not his newly witnessed continuous battle action.",
+        "P641–648actually fading Wiz is stabilized by Darkness vitality transferred through Kazuma Drain Touch. Mana for casting and later lifeforce/vitality for maintenance have different source terms and phases; they are not one unlimited energy scalar. Her dependence is real without making her prior expertise fake.",
+        "P656–658full purification and near-annihilation are narrated retrospectively after Kazuma unconsciousness; P662bounty compensation is his later account. P663Wiz condition prevents expected Teleport and requires carriage. Finite health, recipient harm and lost transport utility survive overall victory and holy-water economic possibilities.",
+        "Only439BASE-TEXT P across these ranges are currently credited; no fresh ruby/residual/image, full677Pmember or new whole-EPUB reading. Core MASK own-human-Wiz/other complete units retain separate2862P union, not added as new primary passes. All harm/coercion discussion is non-graphic."
+      ],
+      "scope": "Current native precision for Wiz/Hans and finite outside providers, within a previously accepted principal source. All counts describe this receipt, not a deduplicated all-execution corpus or independent observations.",
+      "received_utc": "2026-10-19T22:50:07.354731+00:00"
+    }
+  },
+  "core_member_scope_sum_not_observations": 3301,
+  "complete_MASK_members": 7,
+  "partial_MAIN04_members": 1,
+  "complete_derivative_receipts": [
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_16.json",
+      "receipt_sha256": "b5f5176b75b86de69f11b5dc7de938558bf130c289d0c978c8168b640fc74e18",
+      "scope": "Complete accepted MASK report lines1-209 received in four untruncated displays; original whole-source/native-image acceptance retained separately.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
+        "bytes": 63587,
+        "sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954",
+        "actual_received_line_ranges": [
+          [
+            1,
+            52
+          ],
+          [
+            53,
+            100
+          ],
+          [
+            101,
+            156
+          ],
+          [
+            157,
+            209
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_32.json",
+      "receipt_sha256": "e4739faa0422eeefa157ad4753b19e951db30bae81526ce67bc14ae8ef8cfc02",
+      "scope": "Complete previously accepted derivative report at report scope. No new whole-native/ruby/image or independent validation credit; historical sequential/bonus-quarantine statements remain attributed authoring history. Current correction authority remains separate.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V01_DEEP_READING.md",
+        "bytes": 62464,
+        "sha256": "9605df9f2a26b7039195ba98a0cdf99afa848a106d2c6bd1f08cb8c630497aaf",
+        "lines": 1094,
+        "actual_received_line_ranges": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            260
+          ],
+          [
+            261,
+            500
+          ],
+          [
+            501,
+            760
+          ],
+          [
+            761,
+            960
+          ],
+          [
+            961,
+            1094
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_33.json",
+      "receipt_sha256": "d5d376221b506fe8473376353674294f94324a1e807baf3abaad86df9b43b9dc",
+      "scope": "Complete accepted derivative report. Historical working hypotheses, V03 readiness and bonus quarantine are sequential history, not current admission status. No new native/ruby/raster/independent-validation credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V02_DEEP_READING.md",
+        "bytes": 39383,
+        "sha256": "15825ae793f869cde619a9692494f462aa8559d39e4bf4cd62dd9b4cfb2c4473",
+        "lines": 481,
+        "actual_received_line_ranges": [
+          [
+            1,
+            180
+          ],
+          [
+            181,
+            340
+          ],
+          [
+            341,
+            481
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_34.json",
+      "receipt_sha256": "110e49454bc9cd2465ef6a15e5f05b482fec658971e9908b6af9d31735b1da66",
+      "scope": "Complete previously accepted derivative report only. Original checkpoint-readiness, pre-freeze claims, bonus quarantine and historical confidence remain source-bounded authoring history; no new native/ruby/raster/independent credit or old outcome revision.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md",
+        "bytes": 51030,
+        "sha256": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6",
+        "lines": 645,
+        "actual_received_line_ranges": [
+          [
+            1,
+            160
+          ],
+          [
+            161,
+            340
+          ],
+          [
+            341,
+            500
+          ],
+          [
+            501,
+            645
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_36.json",
+      "receipt_sha256": "10f3459d2f4467bf522b7df9e98292ecf557f7a428a71d8292a9943c269b1aa5",
+      "scope": "Complete accepted derivative report only; historical prospective adjudications and next-source/bonus-quarantine statements remain unchanged. No new native/ruby/raster, blinded experiment, independent event or score credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V04_DEEP_READING.md",
+        "bytes": 57297,
+        "sha256": "e3c23425791359506e881a70dd858673364de17afb64b22b5b7f89c3bb507e6e",
+        "lines": 760,
+        "actual_received_line_ranges": [
+          [
+            1,
+            160
+          ],
+          [
+            161,
+            340
+          ],
+          [
+            341,
+            520
+          ],
+          [
+            521,
+            760
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_37.json",
+      "receipt_sha256": "aa678fa96bf86a157cf2b9b547be870466239b7f9e471a0b07c0886c2213b150",
+      "scope": "Complete accepted derivative report only. Original forecasts, MG01 adjudications, historical source boundary and next-volume statements remain exact. No new native/ruby/raster, blinded experiment, independent event or score credit from this report review.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V05_DEEP_READING.md",
+        "bytes": 53663,
+        "sha256": "ab29a472cd0714e125d2de414e3d4d8a4efdb083f5b0fad7bbe5a4e9f4ddf1dc",
+        "lines": 809,
+        "actual_received_line_ranges": [
+          [
+            1,
+            150
+          ],
+          [
+            151,
+            340
+          ],
+          [
+            341,
+            520
+          ],
+          [
+            521,
+            680
+          ],
+          [
+            681,
+            809
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_38.json",
+      "receipt_sha256": "d4294d204e5eaa92766487b508966359ec8a76849d5631ad7e82f58233d5d7e6",
+      "scope": "Complete accepted derivative report only, with current qualifications below. No new native/ruby/raster, experiment, independent event or score credit. Original MG01 history, source boundary and forecast wording remain unchanged.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V06_DEEP_READING.md",
+        "bytes": 36576,
+        "sha256": "6716a24edf6e1e32e9510feed31519c4c1b52c706a13a2eb8fb794f05b1746bb",
+        "lines": 596,
+        "actual_received_line_ranges": [
+          [
+            1,
+            180
+          ],
+          [
+            181,
+            360
+          ],
+          [
+            361,
+            596
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_40.json",
+      "receipt_sha256": "a5c2187be8433e25ce8cac26158c08f3a535067b3994a7bccc8f55f3dd56c9c6",
+      "scope": "Complete accepted derivative report. Historical main narrative/bonus quarantine, MG02 forecasts/adjudications and next-source statements remain exact. No new native/ruby/raster, whole-book or independent-validation credit from this report review.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+        "bytes": 56569,
+        "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c",
+        "lines": 863,
+        "actual_received_line_ranges": [
+          [
+            1,
+            180
+          ],
+          [
+            181,
+            360
+          ],
+          [
+            361,
+            560
+          ],
+          [
+            561,
+            730
+          ],
+          [
+            731,
+            863
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_41.json",
+      "receipt_sha256": "289524b433a8bbb8a2ac3ff842b133b116633105911d6f9600368f9f45ca267b",
+      "scope": "Complete accepted derivative report only; no new native/ruby/raster/whole-source or independent-validation credit. Original MG02 forecasts/outcomes, narrative boundary, bonus quarantine and next-source statements remain exact.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V08_DEEP_READING.md",
+        "bytes": 55637,
+        "sha256": "dfd7006c95c750deef902d61da41fb28ee226d984fcb7c2699d6369cc94e5c74",
+        "lines": 794,
+        "actual_received_line_ranges": [
+          [
+            1,
+            180
+          ],
+          [
+            181,
+            360
+          ],
+          [
+            361,
+            540
+          ],
+          [
+            541,
+            700
+          ],
+          [
+            701,
+            794
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_42.json",
+      "receipt_sha256": "8f26b589c694cb913f5c80fe827c13af7059302b751fb3f0dede1596343018a8",
+      "scope": "Complete accepted derivative report only; producer/receiver and historical pre-exposure claims retained as attributed history. No fresh native/ruby/raster/source pass, independent observation or validation credit. Existing forecasts, corrections and scoring remain exact.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V09_DEEP_READING.md",
+        "bytes": 83538,
+        "sha256": "628fc5b663031395ee053689ccdf179f313e16840be071b79b8f33c305a63331",
+        "lines": 464,
+        "actual_received_line_ranges": [
+          [
+            1,
+            100
+          ],
+          [
+            101,
+            200
+          ],
+          [
+            201,
+            300
+          ],
+          [
+            301,
+            400
+          ],
+          [
+            401,
+            464
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_43.json",
+      "receipt_sha256": "1c20c4e1d4672decdd6d344b87e43a319f5c2f84a479f1554ee25ef140dd4186",
+      "scope": "Complete accepted historical derivative checkpoint only. Current reading creates no new native/ruby/image/source pass, freeze, pristine prospective status, independent observation or score. Producer/receiver and historical source-exposure statements retain their attributed scopes.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_V07-V09_CHECKPOINT.md",
+        "bytes": 90799,
+        "sha256": "68d0b9962389a183a517ff2859bdd85f3275681c18fa9a74c76ae6e3bd8faf92",
+        "lines": 654,
+        "actual_received_line_ranges": [
+          [
+            1,
+            120
+          ],
+          [
+            121,
+            240
+          ],
+          [
+            241,
+            360
+          ],
+          [
+            361,
+            480
+          ],
+          [
+            481,
+            600
+          ],
+          [
+            601,
+            654
+          ]
+        ]
+      }
+    }
+  ],
+  "viewpoint_limits": "MASKU021humanWizfirstperson differs from Vanirshopnarration and Kazumamainnarration; admissions/reports/inferences/actualacts and downstream outcomes remain separate. No exact chronology or hidden motive is invented.",
+  "new_whole_EPUB_or_ruby_or_image_passes": 0,
+  "source_validation_credit": 0,
+  "independent_validation_credit": 0,
+  "independent_observation_denominator": null,
+  "limits": [
+    "No raw EPUB/raster/fulltranscription or private acquisition material is included.",
+    "MAIN04C5holes71–224/301–384remain unreceived in this specific439Pcheck; paragraphslots include blanks/images.",
+    "Other accepted late routes retain their own recorded limits; this core is not an exhaustive fresh Wiz appearance census.",
+    "MAIN01/02newly explicit routes are derivative, not fresh native credit.",
+    "Same episodes across reports/checkpoints/ledgers/character cohorts deduplicate; reception counts never become performance scores."
+  ]
+}

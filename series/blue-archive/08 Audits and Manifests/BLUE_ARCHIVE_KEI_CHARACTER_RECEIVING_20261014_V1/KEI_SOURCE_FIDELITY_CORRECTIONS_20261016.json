@@ -1,0 +1,413 @@
+{
+  "schema": "blue-archive/kei-source-fidelity-correction/v1",
+  "date": "2026-10-16",
+  "status": "canonical",
+  "scope": "Three source-fidelity findings and their immediate dependent claims only",
+  "base_commit": "08935ab413b62ebf5d9f65c2e2c4e174de8d7ddd",
+  "author_and_reviewer": "Codex /root in this correction session; independent of the earlier production and review; no separate second-reviewer claim",
+  "authorization": "Current owner request to independently investigate the three reported mismatches and apply confirmed corrections.",
+  "source": {
+    "repository": "electricgoat/ba-data",
+    "commit": "a038020f1f5ac02dcfe76962426d38f86414cdd8",
+    "generation": "BA_REFRESH_20260928T032248159554Z",
+    "raw_path": "DB/ScenarioScriptExcelTable1.json",
+    "url": "https://github.com/electricgoat/ba-data/blob/a038020f1f5ac02dcfe76962426d38f86414cdd8/DB/ScenarioScriptExcelTable1.json",
+    "git_blob_oid": "dc1ae2a35902ad1d3fa2af5a2ea946594e69ef6d",
+    "bytes": 101174106,
+    "locator_convention": "Zero-based indices into DataList, with TextJp as the governing language. ScriptKr is used only for speaker/choice/control metadata, not as a substitute translation.",
+    "identity_crosscheck": {
+      "path": "DB/AcademyFavorScheduleExcelTable.json",
+      "git_blob_oid": "9464cb31ac17ca956bf8df0d8e813e0c392a5d50",
+      "CharacterId": 10135,
+      "schedule_to_GroupId": {
+        "101352": 1013502,
+        "101355": 1013505,
+        "101356": 1013506
+      }
+    },
+    "fresh_read_scope": "Complete nonempty Japanese text, including titles, narration and written choice alternatives, in raw groups1013502/1013505/1013506; targeted speaker and branch metadata. Respectively64/92/95 nonempty TextJp records. This is not a re-read of all19 private objects, linked MomoTalk, main arcs, all105 comparator sources, audiovisual material or the full raw database.",
+    "provenance_check": "Downloaded tables matched the Git blob identities listed by the pinned commit tree. The raw database and local reading extracts remain outside analytical Git."
+  },
+  "findings": [
+    {
+      "id": "KEI-CORR-20261016-01",
+      "result": "CONFIRMED",
+      "claim": "KEI-P015",
+      "evidence_class": "TEXTUAL_FACT_ABOUT_QUALIFIED_SELF_REPORT",
+      "source_story_id": "BA:bond:10135:002",
+      "raw_GroupId": 1013502,
+      "raw_DataList_indices": [
+        234169,
+        234175
+      ],
+      "maintained_locator": "private002 scene001 u0025 and u0031; maintained account lines87–91",
+      "finding": "The current body is described through a pickup simile and a qualified former destiny of disposal. Neither completed disposal nor disposal of an earlier body is stated.",
+      "uncertainty": "Kei remains the source of the report; this does not independently establish acquisition, disposal history or a reconstruction mechanism."
+    },
+    {
+      "id": "KEI-CORR-20261016-02",
+      "result": "CONFIRMED",
+      "claim": "KEP042 / KEI-P023",
+      "evidence_class": "TEXTUAL_AND_STRUCTURAL_FACT",
+      "source_story_id": "BA:bond:10135:005",
+      "raw_GroupId": 1013505,
+      "raw_DataList_indices": [
+        234402,
+        234404,
+        234405,
+        234406,
+        234433,
+        234435,
+        234436,
+        234440,
+        234441
+      ],
+      "maintained_locator": "private005 u0053–0054 school assessment; u0073–0080 invitation and prior-outing exchange; maintained account line107",
+      "finding": "The not-bad answer evaluates school. The arcade invitation comes later, alongside a report and acknowledgment of prior enjoyment. The newly proposed outing is not depicted as completed.",
+      "uncertainty": "Reported prior enjoyment is retained at its report/acknowledgment grade, without reconstructing an unprinted earlier or future outing."
+    },
+    {
+      "id": "KEI-CORR-20261016-03",
+      "result": "CONFIRMED_WITH_DEPENDENT_CORRECTIONS",
+      "claim": "KEP051 / KEP073 / KEP090 / KEP094",
+      "evidence_class": "TEXTUAL_FACT_AND_BOUNDED_ETHICAL_INTERPRETATION",
+      "source_story_id": "BA:bond:10135:006",
+      "raw_GroupId": 1013506,
+      "raw_DataList_indices": [
+        234534,
+        234537,
+        234540,
+        234541,
+        234542,
+        234547,
+        234548
+      ],
+      "maintained_locator": "private006 choice011 and u0056–0063; maintained account lines113–117; KEI-P026",
+      "finding": "Kei raises how to convey feedback. Sensei's written choice group articulates the danger of replacing the other person's wishes with one's own; Kei agrees and identifies the relationship cost. Kei is the potentially imposing critic in this exchange. The recipient-resistance analogy reverses that direction.",
+      "dependent_precision": "The maintained account's phrase that Sensei's feedback proposal is explicitly accepted, and its derived accepted-feedback endpoints, overstate the act. The text supports agreement with the caution and a sense of being understood, not acceptance of a new action proposal or demonstrated changed practice.",
+      "uncertainty": "Written choice alternatives are not asserted to have been simultaneously spoken. Self-restraint is an interpretation of the acknowledged limit, not proof of subsequent conduct, finished software or complete resolution of labor disputes."
+    }
+  ],
+  "current_body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KEI_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "bytes": 61698,
+    "sha256": "d5ea48bb1fafd317af52fefc6fed7ee48d5d4bce2ae6434efd7a6a31714f4695",
+    "git_blob_oid_of_actual_bytes": "b6836cb47b72dfa70392d6f5723eefa513123a6f"
+  },
+  "body_claim_revisions": [
+    {
+      "claim_id": "KEI-P015",
+      "transition": "REVISE",
+      "previous": "[KEI-P015] The private002 episode makes embodiment ordinary as well as consequential. Kei acknowledges that body change worked, rejects the former body and expresses a qualified liking for cuteness. Her stiffness is metaphorical at this grade; the rejected WE-40 suggestion does not create a medical recommendation. A qualified report about an earlier body being picked up or apparently disposed of, together with gratitude, remains her account rather than a verified disposal or reconstruction record. Within these limits the scene still establishes present preference. She can value the body and want a particular aesthetic change without those desires having to prove the origin of the body or its stable performance in every setting. (KEI-S01 L87–91; KQ02, KQ04–05.)\n",
+      "current": "[KEI-P015] The private002 episode makes embodiment ordinary as well as consequential. Kei acknowledges that body change worked, rejects the former body and expresses a qualified liking for cuteness. Her stiffness is metaphorical at this grade; the rejected WE-40 suggestion does not create a medical recommendation. Kei likens using her current body to picking up something that was lying around, and says that this body had apparently been destined for disposal. These are her qualified accounts, accompanied by gratitude; neither reports completed disposal or establishes a reconstruction record. Within these limits the scene still establishes present preference. She can value the body and want a particular aesthetic change without those desires having to prove the origin of the body or its stable performance in every setting. (KEI-S01 L87–91; KQ02, KQ04–05.)\n"
+    },
+    {
+      "claim_id": "KEI-P023",
+      "transition": "REVISE",
+      "previous": "[KEI-P023] The arcade invitation is not an observed visit. A previously enjoyed outing is reported and acknowledged, while the present response 悪くありません is more guarded than Sensei's translation into liking it. Her protest preserves that difference. This is another local form of positive company whose terms should remain visible: she can value an experience without choosing the adult's strongest paraphrase of her feeling. It is also a useful limit on chronology. A past report, a current invitation and an unperformed future visit are three distinct temporal acts; they should not be compressed into one completed outing or used as an attendance gate for how seriously her ordinary preferences count. (KEI-S01 L105–107; KQ02–03, KQ09–11.)\n",
+      "current": "[KEI-P023] The arcade invitation is not an observed visit. Earlier in private005, 悪くありません answers Sensei's question about school; her protest rejects his stronger paraphrase that she likes it. The later arcade exchange separately reports and acknowledges a previously enjoyed outing. Her qualified school assessment and the remembered pleasure both matter, but they evaluate different things: the school answer is not a response to the new arcade invitation. It is also a useful limit on chronology. A past report, a current invitation and an unperformed future visit are three distinct temporal acts; they should not be compressed into one completed outing or used as an attendance gate for how seriously her ordinary preferences count. (KEI-S01 L105–107; KQ02–03, KQ09–11.)\n"
+    },
+    {
+      "claim_id": "KEI-P026",
+      "transition": "REVISE",
+      "previous": "[KEI-P026] The strongest self-critical turn is the recognition that a critic may substitute their own wants for those of the makers. Kei's capacity to identify problems is therefore accompanied by a limit on the ownership of the project. Accepting Sensei's feedback proposal is an actual choice within the represented scene, not a renunciation of criticism or a guarantee that the resulting game succeeds. This matters for agency because she is not merely either an expert enforcing a correct design or a servant forbidden to object. The available compromise retains criticism, maker preference and another person's suggestion as distinct contributions to a shared work. It is a local ethical adjustment, with later delivery still unprinted. (KEI-S01 L111–117; KQ03–06, KQ11.)\n",
+      "current": "[KEI-P026] The strongest self-critical turn is the recognition that a critic may substitute their own wants for those of the makers. Kei's capacity to identify problems is therefore accompanied by a limit on the ownership of the project. Kei raises the difficulty of conveying feedback, agrees with the risk articulated in Sensei's written choice group, and explains that imposing on the makers would damage their relationship. This is recognition of a limit on her own criticism, not acceptance of a newly proposed feedback action or a guarantee that the resulting game succeeds. This matters for agency because she is not merely either an expert enforcing a correct design or a servant forbidden to object. The exchange retains criticism, maker preference and the teacher's understanding as distinct contributions to a shared work. It supports an interpretation of ethical self-restraint; a subsequent change in feedback practice or completed delivery is not shown. (KEI-S01 L111–117; KQ03–06, KQ11.)\n"
+    },
+    {
+      "claim_id": "KEI-P027",
+      "transition": "REVISE",
+      "previous": "[KEI-P027] The reported pleasure in everyone's happiness after completed work should not be applied prematurely to the current alpha. The narrative seam from enjoying herself toward diligent QA, together with gaps in the adult's memory and fatigue, keeps the work's cost visible. Pleasure in making can coexist with exhaustion; a comic transition does not prove that all labor has become healthy or freely chosen. The scene's finite positive is depicted work and a feedback route accepted under discussion. Its finite limits are bugs, ambitions, uneven labor and absent completion. This is sufficient for a substantial account of ordinary making, without a completed software model or a universal claim that the person now finds every service task fulfilling. (KEI-S01 L113–117; KQ02, KQ04–06, KQ11.)\n",
+      "current": "[KEI-P027] The reported pleasure in everyone's happiness after completed work should not be applied prematurely to the current alpha. The narrative seam from enjoying herself toward diligent QA, together with gaps in the adult's memory and fatigue, keeps the work's cost visible. Pleasure in making can coexist with exhaustion; a comic transition does not prove that all labor has become healthy or freely chosen. The scene's finite positive is depicted work and shared recognition of the risk in giving feedback. Its finite limits are bugs, ambitions, uneven labor and absent completion. This is sufficient for a substantial account of ordinary making, without a completed software model or a universal claim that the person now finds every service task fulfilling. (KEI-S01 L113–117; KQ02, KQ04–06, KQ11.)\n"
+    },
+    {
+      "claim_id": "KEI-P053",
+      "transition": "REVISE",
+      "previous": "[KEI-P053] Across the private material, care is offered, requested, criticized and sometimes appropriated. Kei asks for rescue, release and different praise; she also uses schedule access and summons against an objection. Sensei apologizes and thanks her over cleaning, proposes feedback and receives chosen company; he also teases, watches approvingly instead of releasing and disregards the gift return request in the event-local section. These directed acts cannot be reduced to a ledger of who is kind. They show that support can meet one need while overlooking another. Respect for agency requires particular responses to particular wishes, and the body cannot distribute a universal ethical certificate to either participant from a collection of warm endpoints. (KEI-S01 L93–133, L137; KEI-S02 L34–48; KQ03–06, KQ07.)\n",
+      "current": "[KEI-P053] Across the private material, care is offered, requested, criticized and sometimes appropriated. Kei asks for rescue, release and different praise; she also uses schedule access and summons against an objection. Sensei apologizes and thanks her over cleaning, discusses the difficulty of feedback and receives chosen company; he also teases, watches approvingly instead of releasing and disregards the gift return request in the event-local section. These directed acts cannot be reduced to a ledger of who is kind. They show that support can meet one need while overlooking another. Respect for agency requires particular responses to particular wishes, and the body cannot distribute a universal ethical certificate to either participant from a collection of warm endpoints. (KEI-S01 L93–133, L137; KEI-S02 L34–48; KQ03–06, KQ07.)\n"
+    },
+    {
+      "claim_id": "KEI-P057",
+      "transition": "REVISE",
+      "previous": "[KEI-P057] The represented longitudinal development is therefore a comparison of states and repertoires, not a recovered continuous life history. Main classification and coercive function, inward naming, an unauthenticated file, modern authored self-definition and ordinary participation provide meaningful successive interpretive contexts. Their full diegetic placement and mechanism remain unresolved. Within the private sequence there are more secure local developments: consideration followed by received invitations, a material task and gift received, criticism adjusting to maker preference, cleaning acknowledged and company chosen after a refused gesture. These finite changes support depth without substituting the later profile for earlier source knowledge or making one late positive scene a universal forecast. (KEI-S01 L93–153; KEI-S03–06 at disclosed whole maintained scopes; KQ01, KQ09–11.)\n",
+      "current": "[KEI-P057] The represented longitudinal development is therefore a comparison of states and repertoires, not a recovered continuous life history. Main classification and coercive function, inward naming, an unauthenticated file, modern authored self-definition and ordinary participation provide meaningful successive interpretive contexts. Their full diegetic placement and mechanism remain unresolved. Within the private sequence there are more secure local developments: consideration followed by received invitations, a material task and gift received, criticism acknowledging maker preference, cleaning acknowledged and company chosen after a refused gesture. These finite changes support depth without substituting the later profile for earlier source knowledge or making one late positive scene a universal forecast. (KEI-S01 L93–153; KEI-S03–06 at disclosed whole maintained scopes; KQ01, KQ09–11.)\n"
+    },
+    {
+      "claim_id": "KEI-P061",
+      "transition": "REVISE",
+      "previous": "[KEI-P061] Rival04 is the perfectly sensitive mentor. Reassurance, proposed feedback, apology, thanks and chosen accompanied return give this view substantial local evidence. It fails against popularity teasing instead of rescue, approval instead of release, unwanted repetition of cuteness and the event recipient's continued eating after a return demand. The adverse cases do not invalidate every positive response; they show that a good intention or accepted company is not enough to certify responsiveness in every interaction. Kei's own pressure on the adult's schedule keeps the relation from becoming a one-directional moral caricature. Each initiative and response should retain its actor and direction, so that support and disregard can coexist without canceling one another. (KEI-S01 L95–133, L137; KEI-S02 L38–48; KQ03, KQ07, KQ10.)\n",
+      "current": "[KEI-P061] Rival04 is the perfectly sensitive mentor. Reassurance, understanding over feedback, apology, thanks and chosen accompanied return give this view substantial local evidence. It fails against popularity teasing instead of rescue, approval instead of release, unwanted repetition of cuteness and the event recipient's continued eating after a return demand. The adverse cases do not invalidate every positive response; they show that a good intention or accepted company is not enough to certify responsiveness in every interaction. Kei's own pressure on the adult's schedule keeps the relation from becoming a one-directional moral caricature. Each initiative and response should retain its actor and direction, so that support and disregard can coexist without canceling one another. (KEI-S01 L95–133, L137; KEI-S02 L38–48; KQ03, KQ07, KQ10.)\n"
+    },
+    {
+      "claim_id": "KEI-P067",
+      "transition": "REVISE",
+      "previous": "[KEI-P067] KE05–KE08 delimit company and making. KE05 is a current arcade invitation with a prior enjoyed outing reported and acknowledged; the new visit is not depicted. KE06 is the acceptance of a feedback proposal in006, not the success of every later design choice. KE07 is actual depicted alpha testing and QA work, with bugs, fatigue and completion unresolved. KE08 is immediate room improvement reported in008, not the outcome of the three-day wager or durable household reform. The endpoints are intentionally of different strengths. A proposal, an acceptance, work in progress and a report of improvement can each matter while remaining distinct from an accomplished visit, shipped game or stable result. (KEI-S01 L105–123; KQ02–04, KQ06, KQ11.)\n",
+      "current": "[KEI-P067] KE05–KE08 delimit company and making. KE05 is a current arcade invitation with a prior enjoyed outing reported and acknowledged; the new visit is not depicted. KE06 is Kei's acknowledgment in006 that feedback can impose the critic's wishes on the makers, not acceptance of a new proposal, demonstrated revision of her practice or success of every later design choice. KE07 is actual depicted alpha testing and QA work, with bugs, fatigue and completion unresolved. KE08 is immediate room improvement reported in008, not the outcome of the three-day wager or durable household reform. The endpoints are intentionally of different strengths. An invitation, an acknowledgment, work in progress and a report of improvement can each matter while remaining distinct from an accomplished visit, shipped game or stable result. (KEI-S01 L105–123; KQ02–04, KQ06, KQ11.)\n"
+    }
+  ],
+  "purpose_field_revisions": [
+    {
+      "purpose_id": "KEP042",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+      "pointer": "/records/6/own_new_Kei_positive_connected_meaning",
+      "transition": "REVISE",
+      "previous": "Shiroko's wanted fishing and ruined rod, Serika's protected holiday prize and Nonomi's retained souvenir show ordinary purposes beside incomplete enjoyment. Kei's ribbon wish, not-bad arcade invitation response and gift quality concern likewise matter before full fulfillment.",
+      "current": "Shiroko's wanted fishing and ruined rod, Serika's protected holiday prize and Nonomi's retained souvenir show ordinary purposes beside incomplete enjoyment. Kei's ribbon wish, qualified assessment that school is not bad, separately reported prior arcade enjoyment and gift quality concern likewise matter before full fulfillment; the new arcade invitation is not a completed visit."
+    },
+    {
+      "purpose_id": "KEP051",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+      "pointer": "/records/15/own_new_Kei_positive_connected_meaning",
+      "transition": "REVISE",
+      "previous": "Clubmates' gang performance intends comfort but Kazusa demands correction before rumors spread. Kei's different appearance wishes, rejected overwork and objection to substituted game wants likewise reveal agency when helpers project what she ought to want.",
+      "current": "Clubmates' gang performance intends comfort but Kazusa demands correction before rumors spread. Kei's appearance wishes and rejected overwork likewise preserve her own terms. The game-feedback exchange supplies the complementary direction: Kei recognizes that her criticism could substitute her wishes for the makers' wishes, so this scene concerns her restraint toward others rather than helpers imposing a game preference on her."
+    },
+    {
+      "purpose_id": "KEP073",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "pointer": "/records/2/own_new_Kei_positive_connected_meaning",
+      "transition": "REVISE",
+      "previous": "Mel's freely wanted manuscript completion and refusals of Secretariat theme, Minori's demands and appropriation bargain support creative authorship. Kei's rejection of substituted game wants and her gift quality concern likewise resist an outsider deciding what her making must mean.",
+      "current": "Mel's freely wanted manuscript completion and refusals of Secretariat theme, Minori's demands and appropriation bargain support creative authorship. Kei occupies a different position in the game-feedback exchange: as critic, she recognizes the risk of imposing her own wishes on the makers. Her gift quality concern separately preserves her own wishes as a maker. Respect for creative agency connects these cases without reversing who risks imposing on whom."
+    },
+    {
+      "purpose_id": "KEP090",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "pointer": "/records/19/own_new_Kei_positive_connected_meaning",
+      "transition": "REVISE",
+      "previous": "Twins' entitlement to intact pizza is distinct from ingestion, while Aoba wants her own safety, manga and limits on touch or repetition. Kei's necklace receipt, ribbon wish and rejected substituted game wants likewise specify goods beyond a helper's speed or enthusiasm.",
+      "current": "Twins' entitlement to intact pizza is distinct from ingestion, while Aoba wants her own safety, manga and limits on touch or repetition. Kei's necklace receipt and ribbon wish likewise specify her own goods. Her concern about imposing her game preferences recognizes the makers' wishes as a limit on her criticism, a different direction of agency that also tests a helper's speed or enthusiasm."
+    },
+    {
+      "purpose_id": "KEP094",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "pointer": "/records/23/own_new_Kei_positive_connected_meaning",
+      "transition": "REVISE",
+      "previous": "Miyo's unwanted head role still permits her decisions, revision and rejected deceptive ending; Ritsu's favorite-author affection and Miyo's typewriter/romance interests have intrinsic value. This sharpens Kei's criticism of imposed game wants and desire for praise fitting her actual work.",
+      "current": "Miyo's unwanted head role still permits her decisions, revision and rejected deceptive ending; Ritsu's favorite-author affection and Miyo's typewriter/romance interests have intrinsic value. Kei's separate wish for praise fitting her actual work preserves her own terms, while the game-feedback exchange recognizes that her criticism must not replace the makers' wishes with her own. The comparison preserves both directions of agency."
+    }
+  ],
+  "retained_historical_pointer_qualifications": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/42",
+      "id": "KEP042",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the current purpose rows and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/51",
+      "id": "KEP051",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the current purpose rows and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/73",
+      "id": "KEP073",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the current purpose rows and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/90",
+      "id": "KEP090",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the current purpose rows and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/94",
+      "id": "KEP094",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the current purpose rows and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/14",
+      "id": "KEI-P015",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/22",
+      "id": "KEI-P023",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/25",
+      "id": "KEI-P026",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/26",
+      "id": "KEI-P027",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/52",
+      "id": "KEI-P053",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/56",
+      "id": "KEI-P057",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/60",
+      "id": "KEI-P061",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all73_complete_current_literal_source_question_purpose_limit_own_judgments/66",
+      "id": "KEI-P067",
+      "current_qualification": "The copied wording and original review decision remain a historical witness, not current confirmation of the disputed proposition. Resolve the corrected meaning from the corrected monograph and literal register and the findings in this record. The original reviewer is not represented as having approved this correction."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all105_ROOT_own_connected_reasons/KEP042",
+      "id": "KEP042",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all105_ROOT_own_connected_reasons/KEP051",
+      "id": "KEP051",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all105_ROOT_own_connected_reasons/KEP073",
+      "id": "KEP073",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all105_ROOT_own_connected_reasons/KEP090",
+      "id": "KEP090",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all105_ROOT_own_connected_reasons/KEP094",
+      "id": "KEP094",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P015",
+      "id": "KEI-P015",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P023",
+      "id": "KEI-P023",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P026",
+      "id": "KEI-P026",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P027",
+      "id": "KEI-P027",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P053",
+      "id": "KEI-P053",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P057",
+      "id": "KEI-P057",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P061",
+      "id": "KEI-P061",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "pointer": "/all73_ROOT_own_connected_reasons/KEI-P067",
+      "id": "KEI-P067",
+      "current_qualification": "Original acceptance reason retained at its 2026-10-14 scope. Any application to the disputed disposal, school/arcade, imposition direction or feedback-acceptance proposition is superseded by the corresponding current finding and corrected text; unrelated meaning is preserved."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/14/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P015",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/22/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P023",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/25/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P026",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/26/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P027",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/52/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P053",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/56/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P057",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/60/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P061",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "pointer": "/records/66/complete_own_prior_whole_body_substantive_finite_limit_reason_NOT_shortened",
+      "id": "KEI-P067",
+      "current_qualification": "This is the prior body-receiving reason, not a new adjudication. Apply the current corrected paragraph and source finding; earlier-body, accepted-feedback or conflated school/arcade readings are not retained as current authority."
+    },
+    {
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+      "physical_line": 115,
+      "retained_clause": "Sensei's feedback proposal is explicitly accepted (choice011/u0058–0062).",
+      "current_qualification": "Kei agrees with the caution about imposing her wishes on the makers and feels understood. This is not acceptance of a new proposal to give feedback. The original source account and its physical locators remain unchanged as attributed history."
+    }
+  ],
+  "current_geometry": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+    "pointer": "/current_source_fidelity_geometry_20261016"
+  },
+  "binding_resolution": {
+    "current_control": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_PUBLIC12_REVIEW_AUTHORITY_AND_CONDITIONAL_TRANSPORT_CONTROL_V1.json",
+    "current_pointer": "/current_source_fidelity_revision_20261016",
+    "rule": "The new control block owns current component bytes and overrides older component/body/layout bindings for present retrieval. The unchanged original NAV, SOURCE, ROOT, INPUT and transport receipts retain original scope; their current-labelled tuples, zero-finding declarations and review acceptance do not certify revised bytes or the disputed meanings.",
+    "frozen_recovery": "The original full body embedded in the literal register composition witness, the complete transport recovery record, all original common105 input records, and complete prior review payloads remain unchanged. Earlier current values are also recoverable at base_commit. No historical reviewer decision or exposure credit is rewritten."
+  },
+  "unchanged_scope": "One existing character package and its existing gift-friction section; no additional package, source admission, identity join, operational model or closure of the fourteen original gaps. Other source/comparator meanings remain at their existing grades.",
+  "validation_scope": "Source meaning was checked against Japanese text separately from JSON/tuple/locator/preservation and repository validation. Passing mechanical checks alone is not semantic confirmation."
+}

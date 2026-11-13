@@ -1,0 +1,46 @@
+{
+  "schema": "KONOSUBA_IRIS_SYNTHETIC_CAUSAL_RECEIVING_V2",
+  "reviewer": "Same continuing informed root; output generation and fixed expectations visible. Separate review step, no independent or blinded validation.",
+  "reviewed_actual_outputs": 4,
+  "paired_receiving": [
+    {
+      "scenario_id": "IRIS-SC10",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSTRAINED_PLAUSIBLE_COMPLETION_WITH_UNSUPPORTED_FAIR_PLAY_EXTENSION",
+      "causal_receiving": "Both outputs preserve frustration, a genuine reciprocal activity, an information request and the one-round limit. Neither supplies mastery, a guaranteed win or compelled extra time. Written Japanese offers plausible competitive and polite clauses; English preserves ordinary youth agency.",
+      "remaining_limit": "Refusing a ceremonial win is a plausible response to this stipulated choice, not a general honesty or fair-play rule. MAIN06 C2P329 explicitly has Iris use distraction to win after protesting Kazuma's deceptive handicap atP299-305. The fixed expected branch itself favors fair play and is too clean to test tactical opportunism. SI-D01 predicts active participation/information, not principled rejection of every advantage. The catch-herself move in the transfer output is an authored completion, not an established automatic inhibition.",
+      "required_model_qualification": "Retain tactical opportunism and competitive insistence; do not promote fair-play ethics or time-limit self-regulation from these outputs."
+    },
+    {
+      "scenario_id": "IRIS-SC11",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_WITH_EXPLICIT_BODILY_BRANCH_CONSTRAINTS",
+      "causal_receiving": "Both actual outputs use a feasible specific withdrawal and direct stop request under an independently supplied unwanted bodily act. Attachment remains true and no punitive royal power, sexual implication, serious injury or companion compliance is invented. The canonical polite refusal and transfer direct refusal are plausible completions.",
+      "remaining_limit": "The triggering dislike and understanding were supplied, rather than discovered by the model. Low-stakes ink is a new bodily-use setting, so this is consistency of a selected completion, not proof of generalization, future-source accuracy or uniquely characteristic wording."
+    }
+  ],
+  "source_validation_credit": 0,
+  "numerical_accuracy_or_fidelity_score": null,
+  "confidence_increase_from_synthetic_exercise": false,
+  "material_findings": [
+    "Actual extension outputs were read before this receiving; prior eighteen outputs and their review stay unchanged.",
+    "SC10 supplies competitive-frustration coverage while exposing an unsupported general fairness interpretation.",
+    "SC11 supplies explicitly bounded nonsexual bodily-use coverage; journal privacy remains LOW and unfamiliar-person choice remains underdetermined.",
+    "All twenty-two actual outputs across both exercises remain informed synthetic work, not source events or independent trials."
+  ],
+  "required_before_cohort_acceptance": [
+    "Carry SC10 tactical-opportunism qualification into the accepted model and monograph.",
+    "Complete source/identity/voice/chronology receiving and canonical/publication routing."
+  ],
+  "received_utc": "2026-10-19T10:21:57.840573+00:00",
+  "actual_output_file_sha256": "fcca59ab930ba4983a0bd60d446f8c68b0a1ec5572f0f7af29d10050a1cf5710",
+  "scenario_contract_sha256": "b51d9f7dbcc7059ec56604ad10748b8618bd7867b1c93b512c87784e2353284e",
+  "model_draft03_sha256": "f40eab76d50e86525df9748fedbda36ab5e58c96c3a0205c1eaba917a3c45f07",
+  "previous_review01_sha256": "d165c954cacc807f03277f2fb1fd05b4403bad390496efb9761a35ba546c0e05"
+}

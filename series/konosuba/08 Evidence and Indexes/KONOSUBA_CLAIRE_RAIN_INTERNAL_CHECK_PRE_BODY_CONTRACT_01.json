@@ -1,0 +1,131 @@
+{
+  "schema": "KONOSUBA_CLAIRE_RAIN_INTERNAL_CHECK_PRE_BODY_CONTRACT_V1",
+  "frozen_utc_before_first_bodies": "2026-10-20T07:57:17.370433+00:00",
+  "source_boundary": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+  "preceding_closed_gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+  "native_receipt03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+  "bound_models": [
+    {
+      "subject": "Claire",
+      "private_file": "CLAIRE_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "canonical_model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CLAIRE_RECONSTRUCTION_MODEL.md",
+      "sha256": "386b2e7c5df610e83bbf9fec58a8c9485132d6f28b8abb65a3658142de6b08d1"
+    },
+    {
+      "subject": "Rain",
+      "private_file": "RAIN_RECONSTRUCTION_MODEL_DRAFT_01.md",
+      "canonical_model": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_RAIN_RECONSTRUCTION_MODEL.md",
+      "sha256": "3d62cb9fc0958b86cc9edef8479036483f4cb0d752f63c599beab3719d689637"
+    }
+  ],
+  "bound_input_and_rule_files": [
+    {
+      "file": "CLAIRE_RULE_INVENTORY_01.json",
+      "bytes": 2150,
+      "sha256": "4e1ded149ef247b5fcf4de549e4981b593045cb6e45fdae22217c985e6c172e8"
+    },
+    {
+      "file": "CLAIRE_SCENARIO_INPUTS_01.json",
+      "bytes": 5452,
+      "sha256": "0fa125092d06b51f0dfa9de73ffed00234b6d633ec4c8386a2516776239be21f"
+    },
+    {
+      "file": "RAIN_RULE_INVENTORY_01.json",
+      "bytes": 2109,
+      "sha256": "5ddd56b13d6593c221cbb0d3447a919670f893a30e20c5ced24d52c586157731"
+    },
+    {
+      "file": "RAIN_SCENARIO_INPUTS_01.json",
+      "bytes": 4703,
+      "sha256": "372da5bac7ba182ae4b8a0986749c66f773670c58cd895a56d4bd0d0307fc507"
+    }
+  ],
+  "actual_first_bodies_at_contract_freeze": 0,
+  "planned_first_bodies": 7,
+  "scope": "Claire two pairs/four first bodies; Rain one cost pair plus one unmatched compliance-conflict case/three first bodies. Different responsibilities, no forced equal battery.",
+  "blinding": "None. Same informed author knows all canon, models, variants and hidden reader truths.",
+  "method": "Freeze files first; generate one actual first body per packet in subsequent author output; preserve exact first bytes; assess observed action/omission/knowledge/rivals without repair.",
+  "first_body_failures_must_remain_exact": true,
+  "generic_and_near_canonical_rivals_must_remain": true,
+  "historical_model_prediction_score_and_blank_null_changes": false,
+  "separate_runtime_judge_or_capability_grade": false,
+  "new_source_or_independent_validation_credit": 0,
+  "fifteen_entering_model_bodies_exact": [
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_AQUA_RECONSTRUCTION_MODEL.md",
+      "bytes": 64491,
+      "sha256": "2f63ef1000c74a2bf105c3cfbbd4258f39e8abe9cf1544fac25768673f17c430"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CHRIS_ERIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 24777,
+      "sha256": "213de30d6bfab2fb3a9d2c47c2158b6425a598814b92caa855913f08bd997083"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_CROSS_CONTEXT_TRANSFER_MODEL.md",
+      "bytes": 51278,
+      "sha256": "3bec39a1014c50c6704e920b076076ecd2d82ffab0f987fd379844cc68783ee1"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DARKNESS_RECONSTRUCTION_MODEL.md",
+      "bytes": 62581,
+      "sha256": "e54f45b3aaa74197e76ec917888416b08683ef2b7194586ba060b93979e78bc9"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_DUST_RECONSTRUCTION_MODEL.md",
+      "bytes": 20922,
+      "sha256": "3ef260ea7a64f350c8c09448020a96e18ed0eed75af5acd417193805bff8655f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_HOOST_RECONSTRUCTION_MODEL.md",
+      "bytes": 25873,
+      "sha256": "e973e7f325238ab71fa0e10e3588d32c8fc3bf03dd827bb32e9120789c4742c7"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_IRIS_RECONSTRUCTION_MODEL.md",
+      "bytes": 20464,
+      "sha256": "75afb94b5723af3620ea5fabe1d8a7c742645bb56de938c605a3d11999a42c29"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KAZUMA_RECONSTRUCTION_MODEL.md",
+      "bytes": 61516,
+      "sha256": "6fe7b325666e339ed86edba70f8d1f9491705f66a6ecdc31eeb44a5bed7a89e4"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_KOMEKKO_RECONSTRUCTION_MODEL.md",
+      "bytes": 21826,
+      "sha256": "0be5bfa9097547a3d705b5a8216dd395f714382b65f6fa4cad499504641065c0"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_LEVI_RECONSTRUCTION_MODEL.md",
+      "bytes": 23809,
+      "sha256": "dd3b48dba631c87e7c0fe604f0cb5a94dd618e5e77b9d2c781491b6c7b7b3c46"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_MEGUMIN_RECONSTRUCTION_MODEL.md",
+      "bytes": 60891,
+      "sha256": "cbff1ec4266e8d6908b3d58af9870aa7f981fe40f3a573ed29da345e1f1d801f"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_PARTY_INTERACTION_MODEL.md",
+      "bytes": 67885,
+      "sha256": "cf2082e63718e1c51c171fb9225b0be5da603c1e85900f397c36e233af6d3f8e"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_VANIR_RECONSTRUCTION_MODEL.md",
+      "bytes": 25561,
+      "sha256": "081b6bef4df5584837d2a6fb565f746aa3d9c00a3c925c592596d2d3bb3186df"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_WIZ_RECONSTRUCTION_MODEL.md",
+      "bytes": 24361,
+      "sha256": "b8248785ff01251738798121a3ac1eea06b576913c1ea436e97fc22720146b89"
+    },
+    {
+      "path": "series/konosuba/06 Character Modeling and Reconstruction/KONOSUBA_YUNYUN_RECONSTRUCTION_MODEL.md",
+      "bytes": 25474,
+      "sha256": "4565a9089c9bac6c6f694469f27920d26f9ab1b44275c62c7160692575c765eb"
+    }
+  ],
+  "full_program_complete": false
+}

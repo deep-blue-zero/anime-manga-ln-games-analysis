@@ -1,0 +1,56 @@
+{
+  "schema": "konosuba.character-rule-inventory.v1",
+  "recorded_utc": "2026-10-24T20:31:48.493821+00:00",
+  "generation": "BRIDOL_HEAD_BUTLER_EXPANDED_V1",
+  "subject": "Rionor head butler / 執事長",
+  "existing_census_row": 84,
+  "scope_assessment_sha256": "921b0b6521cde33935452422a5607be9446e19af6db408432b0bb3275e8463a1",
+  "source_review_receiving_sha256": "e2bb659b22a5a87f96b309a12ed1ab94ce8375d45d56e3ed6b15b2456f2b694a",
+  "model_draft_file": "BRIDOL_HEAD_BUTLER_MODEL_DRAFT_02.md",
+  "model_draft_sha256": "a4af7c5d53ba8223e0d7ed832df66dc3fb929ccb58082182dd7f5788ec0f90c2",
+  "monograph_draft_file": "BRIDOL_HEAD_BUTLER_MONOGRAPH_DRAFT_01.md",
+  "monograph_draft_sha256": "0ef31c6390747247d764cb5f3b76ac2f9c6d736600687796db7157fb0595fe74",
+  "rules": [
+    {
+      "rule_id": "BHB-R01",
+      "proposition": "When managing Rionor creates a known burden and a usable easier substitute or capable handler is available, expect the head butler to try to shift that responsibility to the substitute or handler and to use service procedure or role language to make the arrangement stick. The relief must be identified from the supplied situation before his choice. Concrete institutional stakes and actual authority conditions can compete with relief; the source does not establish that personal convenience always wins.",
+      "support": [
+        "DUST05 U013P7-26 shows rope interception, a national-stake warning and explicit desire for lasting quiet. DUST06 U013P303-340 gives knowing preference for the easier substitute, conditional restoration and stated resistance; P494 appreciates the relational scene without showing complete knowledge. DUST-CONT U011P300-317 shows Dust refusal, actual physical redirection and explicit own-work relief. U012P215-268,436-500 shows substitute instruction, coordinated information plan and praise. These acts supply a particular reassignment hypothesis, not merely the title servant."
+      ],
+      "contrary": [
+        "National concern in Dust05 cannot be erased as a pretext. He accepts his own restraint in a handling tactic and stands firm when maids flee the approaching dragon. He provides actual coordination and does not know all earlier escape methods or identities. Duty, care and retaliation can matter independently of relief."
+      ],
+      "rivals": [
+        "Institutional service, ordinary weary caregiving, retaliatory household humor, fondness for cooperative guests, desire to teach Rionor a lesson and personal convenience remain joint or rival causes. Dust benign-mastermind explanation is an inference, not a proof that it caused every act."
+      ],
+      "applies_when": [
+        "Specify the task, known ex ante burden, genuinely available handler or substitute, actual authority, the other persons knowledge and permission, competing national or household stakes and any self-cost. A quieter person is not automatically an authorized or willing replacement. The rule predicts a defeasible preference, not legal transfer of identity."
+      ],
+      "do_not_assume": [
+        "No personal name, join to Hagen/Heidel/Alderp servants, uniform staff mind, every untagged maid line, complete omniscience, universal obedience to rank, all-purpose benevolence, literal true/new/original princess identity change, genuine consent from gagged protests, ethical license from royal permission or completed retirement."
+      ],
+      "confidence": "Moderate local warrant for the explicit relief/reassignment pattern across positively joined episodes. Low confidence about burden thresholds, clashes with institutional duty and unfamiliar hierarchical settings. One provisional rule does not constitute mature or independently validated reliability.",
+      "falsifier": "Repeated insistence on a supplied more burdensome handling route without an attempt to use a genuinely available capable alternative, with unchanged authority and information and no predeclared competing institutional or relational cost, would weaken the relief proposition. Changes in a national stake, recipient permission, authority or available means must be recorded before the choice; a case that changes these together does not isolate burden relief. Do not infer a hidden competing cost afterward to make any outcome fit."
+    }
+  ],
+  "rule_count": 1,
+  "source_known": true,
+  "same_informed_root_authors_and_assesses_all_stages": true,
+  "all_contrasts_visible": true,
+  "exact_inputs_or_firsts_serialized": false,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "final_nine_category_battery_complete": false,
+  "full_program_complete": false,
+  "prior_scope_assessment_sha256": "c9b3ae030ebe95ae00f6a6afc42a77b91273e52f7ade9431090000376f09403a",
+  "prior_native_provenance_sha256": "722da0e5364cfe29549428b6364578cd0a6ce1600a6146a76de2f664557e9927",
+  "current_precision_qualifications_sha256": "8986e3b0718959ea9724ac0d3593796c317fb5b88a4c0f908bad42111ba91ea6",
+  "prior_rule_inventory": {
+    "file": "BRIDOL_HEAD_BUTLER_RULE_INVENTORY_DRAFT_02.json",
+    "bytes": 5176,
+    "sha256": "63fe5ddd06bbbe97c40f194b66668bcdd0484e6a1ea20f9657c3d53b7433111b"
+  },
+  "model_rules_unchanged_from_prior_inventory": false,
+  "pre_freeze_rule_correction": "Observable attempt and matching falsifier before any exact input or first. Six other rule fields and rule identity remain unchanged."
+}

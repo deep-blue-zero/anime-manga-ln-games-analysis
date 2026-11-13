@@ -1,0 +1,1882 @@
+{
+  "schema": "INDEPENDENT_WILDHUNT_CURRENT247_FULL53_BODY_FIRST_ACTUAL_LITERALS_SOURCE_BINDINGS_AND_FULL_RAW_V1_INVERSE_MECHANICAL_RECEIPT_V1",
+  "reviewer": "/root/minato_105_derivative",
+  "author": "/root/receive_middle_remaining",
+  "all_actual_input_pins": [
+    {
+      "role": "manifest",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-c3e9fdbb7f3738d5355ba895",
+      "bytes": 2174,
+      "sha256": "4808e088edae572a0d7a0e1aa86374eef3bbca230994ead0b192cbfd51912607",
+      "git_blob_oid_of_actual_bytes": "49e51e89490450835d134175fc656129deff7ce2"
+    },
+    {
+      "role": "body",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-45cb14e8f4fe101771cbd522",
+      "bytes": 45111,
+      "sha256": "354717125b4029e3ed56b88f6bf2612b0314cc1c1664fdab9932ff0225409353",
+      "git_blob_oid_of_actual_bytes": "6fd7de738553a59647d61b42c781d6340f5e9fa4"
+    },
+    {
+      "role": "old_body",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-05c401cfdf63f5ed0ce8668d",
+      "bytes": 45112,
+      "sha256": "29fca3b9840897fd12a246de1d15c9caf7ab42ec0ca05c8a0c71799cf2ab208b",
+      "git_blob_oid_of_actual_bytes": "2021fa233643ceb4850945cc3f7752d10c04218d"
+    },
+    {
+      "role": "source",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-8b77f776d02b861b5843d50a",
+      "bytes": 35106,
+      "sha256": "ad78e22c8dc0e0ffd471e61c7afdfac235793b48d4e447e418c6d86f4405507f",
+      "git_blob_oid_of_actual_bytes": "2b693ccaeb424591554fb714a070a384de8b1802"
+    },
+    {
+      "role": "questions",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-20b90a9bca7e408122c48d6a",
+      "bytes": 32628,
+      "sha256": "052d092e10d2fcf8b86964fa45ba725b4fcafcc8999fdeff9903cf7ac0e4e2e2",
+      "git_blob_oid_of_actual_bytes": "6e7c7be458dbb3af3a30f098d8773b3515d7a6c6"
+    },
+    {
+      "role": "bindings",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-11119f795e68faae69dcaff8",
+      "bytes": 55420,
+      "sha256": "19cd8e843749bb2d026719e203e996a76a6f8c82379494e1cbc8888e7d822faf",
+      "git_blob_oid_of_actual_bytes": "ebb88f1af6dd5945f0ab0fa30a204dd9a75e9c7b"
+    },
+    {
+      "role": "inverse",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-1612d73c2a4f6266d5740c07",
+      "bytes": 46390,
+      "sha256": "19c352288b392bc432ffe8f6e36dcd64e903dc7462b1edb473212411ecd6ffc0",
+      "git_blob_oid_of_actual_bytes": "02e174718a6011cf0858825fff6d31f185cf7800"
+    },
+    {
+      "role": "author",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-5f7c6264f45a4d7bf4779a39",
+      "bytes": 2650,
+      "sha256": "0bafbe4fd71ae3c5a77d2c93a72e923ca45541bfe07c8eff81094e1c5a135189",
+      "git_blob_oid_of_actual_bytes": "efd479638d76c08c5e46510f60453764e3d62094"
+    },
+    {
+      "role": "ROOT_custody",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-1eac73e7fec1bff6adaad2b0",
+      "bytes": 2466,
+      "sha256": "f16c8f69b9f71f9dd5a1c86b38abdb851fee75e6cea327c539c75cdfb9b331e2",
+      "git_blob_oid_of_actual_bytes": "3dc4a8d88ab38e00a260802cae2c9b41575c1bad"
+    },
+    {
+      "role": "selected_governing_method",
+      "private_input_relative_to_P": "private-witness:WILDHUNT-QA-DELIVERY-a8779ffc6a0cea925b9e6244",
+      "bytes": 53414,
+      "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+      "git_blob_oid_of_actual_bytes": "49c7b15ecae4e2a7819b08e2d7392aa095caf982"
+    }
+  ],
+  "actual_saved_check_count": 447,
+  "PASS_count": 447,
+  "FAIL_count": 0,
+  "all_actual_finite_checks": [
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\WILDHUNT_BODY_FIRST_CURRENT_FULL53_SOURCE1_AND_NAMED_RECIPIENT_ARGUMENT_PRIVATE_ALLOWLIST_MANIFEST_V1.json contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_BODY_FIRST_CURRENT_FULL53_SOURCE1_AND_NAMED_RECIPIENT_ARGUMENT_PRIVATE_ALLOWLIST_MANIFEST_V1.json nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_BODY_FIRST_CURRENT_FULL53_SOURCE1_AND_NAMED_RECIPIENT_ARGUMENT_PRIVATE_ALLOWLIST_MANIFEST_V1.json regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V2.md contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V2.md nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V2.md regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V1.md contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V1.md nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS_PRIVATE_DRAFT_V1.md regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\bound_core_inputs\\WH01__BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "WH01__BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "bound_core_inputs nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WH01__BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\WILDHUNT_OWN_COMPLETE185_MAINTAINED_SOURCE_AND_27_PRE_DRAFT_TARGET_QUESTION_RESULTS_V1.json contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_OWN_COMPLETE185_MAINTAINED_SOURCE_AND_27_PRE_DRAFT_TARGET_QUESTION_RESULTS_V1.json nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_OWN_COMPLETE185_MAINTAINED_SOURCE_AND_27_PRE_DRAFT_TARGET_QUESTION_RESULTS_V1.json regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\WILDHUNT_BODY_FIRST_CURRENT_LITERAL53_FULL_ARGUMENT_SOURCE1_AND_PRE_DRAFT_QUESTION_BINDINGS_V1.json contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_BODY_FIRST_CURRENT_LITERAL53_FULL_ARGUMENT_SOURCE1_AND_PRE_DRAFT_QUESTION_BINDINGS_V1.json nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_BODY_FIRST_CURRENT_LITERAL53_FULL_ARGUMENT_SOURCE1_AND_PRE_DRAFT_QUESTION_BINDINGS_V1.json regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\WILDHUNT_CURRENT_V2_ONE_FINAL_LF_ONLY_AND_EXECUTED_COMPLETE_V1_RAW_BODY_INVERSE_V1.json contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_CURRENT_V2_ONE_FINAL_LF_ONLY_AND_EXECUTED_COMPLETE_V1_RAW_BODY_INVERSE_V1.json nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_CURRENT_V2_ONE_FINAL_LF_ONLY_AND_EXECUTED_COMPLETE_V1_RAW_BODY_INVERSE_V1.json regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\WILDHUNT_AUTHOR_CURRENT247_FULL53_SAVED_READBACK_AND_PRECISE_ONE_LF_INVERSE_SCOPE_QUALIFICATION_V1.json contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_AUTHOR_CURRENT247_FULL53_SAVED_READBACK_AND_PRECISE_ONE_LF_INVERSE_SCOPE_QUALIFICATION_V1.json nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_AUTHOR_CURRENT247_FULL53_SAVED_READBACK_AND_PRECISE_ONE_LF_INVERSE_SCOPE_QUALIFICATION_V1.json regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1\\private_control_beforeimages\\ROOT_CURRENT_C4_CORE3_CUSTODY_V1.json contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "ROOT_CURRENT_C4_CORE3_CUSTODY_V1.json nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "private_control_beforeimages nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_EXISTING_HOME_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "ROOT_CURRENT_C4_CORE3_CUSTODY_V1.json regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "manifest actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "body actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "source actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "questions actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "bindings actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "inverse actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "author actual assigned bytes/SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "current247 physical lines",
+      "result": "PASS"
+    },
+    {
+      "check": "source185 complete maintained lines",
+      "result": "PASS"
+    },
+    {
+      "check": "manifest current_body actual complete tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "manifest literal_checkpoint actual complete tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "manifest source_receiving actual complete tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "manifest source_core_WH01 actual complete tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "bindings actual current body tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "author current actual body tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "inverse actual old body tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "inverse actual current body tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "complete proof UTF8 actual originalV1 bytes",
+      "result": "PASS"
+    },
+    {
+      "check": "independently executed full oneLF inverse",
+      "result": "PASS"
+    },
+    {
+      "check": "independently executed full oneLF forward",
+      "result": "PASS"
+    },
+    {
+      "check": "all247 retained physical lines identical including all53 paragraphs",
+      "result": "PASS"
+    },
+    {
+      "check": "oneLF operation actual offset",
+      "result": "PASS"
+    },
+    {
+      "check": "old original248 versus current247 lines",
+      "result": "PASS"
+    },
+    {
+      "check": "old imprecise scope sentence explicitly current qualified",
+      "result": "PASS"
+    },
+    {
+      "check": "current UTF8LF noBOM",
+      "result": "PASS"
+    },
+    {
+      "check": "current exactly one finalLF",
+      "result": "PASS"
+    },
+    {
+      "check": "current no trailing whitespace",
+      "result": "PASS"
+    },
+    {
+      "check": "current no private C/H absolute locator",
+      "result": "PASS"
+    },
+    {
+      "check": "all27 target source questions complete",
+      "result": "PASS"
+    },
+    {
+      "check": "all15 WI and12 WR question IDs complete",
+      "result": "PASS"
+    },
+    {
+      "check": "operative Cycle008 status retained",
+      "result": "PASS"
+    },
+    {
+      "check": "source current qualification actualL37",
+      "result": "PASS"
+    },
+    {
+      "check": "new105 not started in current bodyfirst controls",
+      "result": "PASS"
+    },
+    {
+      "check": "all53 distinct manual reasons",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM001 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM001 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM001 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM001 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM001 source span 79-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM001 source span 127-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM002 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM002 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM002 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM002 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM002 source span 1-73 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM002 source span 173-185 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM003 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM003 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM003 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM003 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM003 source span 99-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM003 source span 119-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM004 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM004 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM004 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM004 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM004 source span 81-81 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM004 source span 91-93 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 source span 115-115 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 source span 121-123 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 source span 131-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM005 source span 153-153 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 source span 87-87 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 source span 119-145 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM006 source span 153-157 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 source span 119-119 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 source span 139-139 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 source span 149-155 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM007 source span 165-167 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM008 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM008 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM008 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM008 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM008 source span 157-161 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM009 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM009 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM009 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM009 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM009 source span 159-159 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM009 source span 165-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 source span 119-119 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 source span 133-133 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM010 source span 137-137 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 source span 141-141 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 source span 145-153 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM011 source span 169-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM012 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM012 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM012 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM012 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM012 source span 87-87 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM012 source span 119-123 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM013 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM013 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM013 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM013 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM013 source span 111-111 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM013 source span 153-157 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM014 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM014 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM014 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM014 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM014 source span 87-115 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM014 source span 127-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 source span 111-111 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 source span 137-137 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 source span 145-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 source span 169-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM015 source span 183-183 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 source span 79-95 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 source span 101-101 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 source span 115-121 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM016 source span 145-145 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 source span 93-93 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 source span 113-123 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 source span 139-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM017 source span 155-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM018 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM018 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM018 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM018 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM018 source span 99-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM018 source span 127-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 source span 81-81 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 source span 91-93 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 source span 139-139 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 source span 149-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM019 source span 167-167 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM020 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM020 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM020 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM020 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM020 source span 103-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM020 source span 129-137 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM021 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM021 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM021 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM021 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM021 source span 149-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 source span 79-83 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 source span 99-105 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 source span 129-145 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM022 source span 183-183 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 source span 121-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 source span 153-153 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM023 source span 169-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 source span 81-81 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 source span 95-105 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM024 source span 175-175 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM025 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM025 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM025 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM025 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM025 source span 159-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 source span 105-105 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 source span 113-123 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 source span 139-139 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM026 source span 149-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM027 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM027 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM027 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM027 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM027 source span 155-155 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM027 source span 165-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM028 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM028 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM028 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM028 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM028 source span 99-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM028 source span 137-137 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 source span 101-111 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 source span 139-141 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM029 source span 159-159 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM030 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM030 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM030 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM030 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM030 source span 119-137 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM031 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM031 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM031 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM031 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM031 source span 145-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 source span 79-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 source span 127-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM032 source span 157-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM033 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM033 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM033 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM033 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM033 source span 103-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM033 source span 119-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 source span 91-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 source span 119-129 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM034 source span 149-167 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 source span 91-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 source span 113-123 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM035 source span 127-129 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 source span 101-115 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 source span 127-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM036 source span 161-167 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 source span 99-105 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 source span 119-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM037 source span 165-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 source span 103-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 source span 133-149 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM038 source span 155-167 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 source span 119-119 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 source span 137-153 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM039 source span 155-167 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 source span 91-93 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 source span 131-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM040 source span 155-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM041 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM041 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM041 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM041 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM041 source span 119-137 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM042 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM042 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM042 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM042 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM042 source span 149-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 source span 79-83 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 source span 99-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 source span 127-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM043 source span 161-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 source span 73-73 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 source span 89-95 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 source span 129-129 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 source span 141-141 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 source span 159-159 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM044 source span 183-183 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM045 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM045 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM045 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM045 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM045 source span 103-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM045 source span 129-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 source span 93-93 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 source span 103-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM046 source span 119-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM047 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM047 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM047 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM047 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM047 source span 149-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 source span 77-77 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 source span 101-115 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM048 source span 141-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM049 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM049 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM049 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM049 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM049 source span 159-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM050 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM050 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM050 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM050 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM050 source span 127-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM050 source span 157-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 source span 109-109 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 source span 131-131 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM051 source span 139-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 source span 99-103 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 source span 127-129 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM052 source span 159-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM053 exact ID and full saved literal",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM053 exact raw slice offset and length",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM053 exact literal SHA",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM053 complete maintained source references",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM053 source span 137-153 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "WHCLAIM053 source span 169-169 within actual185",
+      "result": "PASS"
+    },
+    {
+      "check": "actual53 full IDs",
+      "result": "PASS"
+    },
+    {
+      "check": "all15 institutional headings",
+      "result": "PASS"
+    },
+    {
+      "check": "all12 named recipient headings",
+      "result": "PASS"
+    },
+    {
+      "check": "all8 serious rival headings",
+      "result": "PASS"
+    },
+    {
+      "check": "all16 finite endpoint rows",
+      "result": "PASS"
+    },
+    {
+      "check": "all14 original gaps explicitly OPEN",
+      "result": "PASS"
+    },
+    {
+      "check": "ART_ACCESS_OWNERSHIP_EXCLUSIVE_GATEKEEPING_I008_BODY_FIRST_C_ONLY_20261014_V1\\bound_control_inputs\\BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md contained below exact private P",
+      "result": "PASS"
+    },
+    {
+      "check": "BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "bound_control_inputs nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "ART_ACCESS_OWNERSHIP_EXCLUSIVE_GATEKEEPING_I008_BODY_FIRST_C_ONLY_20261014_V1 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "PHASE3_START_20261009 nonreparse",
+      "result": "PASS"
+    },
+    {
+      "check": "BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md regular and below1MiB",
+      "result": "PASS"
+    },
+    {
+      "check": "controlled method actual assigned tuple",
+      "result": "PASS"
+    },
+    {
+      "check": "institution15 actual controlled mandatory fields",
+      "result": "PASS"
+    },
+    {
+      "check": "recipient12 actual controlled mandatory fields",
+      "result": "PASS"
+    }
+  ],
+  "complete_original_V1_recovery": {
+    "bytes": 45112,
+    "sha256": "29fca3b9840897fd12a246de1d15c9caf7ab42ec0ca05c8a0c71799cf2ab208b",
+    "git_blob_oid_of_actual_bytes": "2021fa233643ceb4850945cc3f7752d10c04218d"
+  },
+  "complete_current_V2_forward": {
+    "bytes": 45111,
+    "sha256": "354717125b4029e3ed56b88f6bf2612b0314cc1c1664fdab9932ff0225409353",
+    "git_blob_oid_of_actual_bytes": "6fd7de738553a59647d61b42c781d6340f5e9fa4"
+  },
+  "method_scope_actual": "54f7a9:L380-446",
+  "mechanical_result": "PASS_NO_FINDING_NOT_LITERARY_ADOPTION_BY_ITSELF"
+}

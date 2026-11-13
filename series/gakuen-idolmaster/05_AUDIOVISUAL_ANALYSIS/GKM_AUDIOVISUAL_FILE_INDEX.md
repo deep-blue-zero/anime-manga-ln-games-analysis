@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-10"
+last_updated: "2026-09-11 — Rinha distributed AV packet added; perceptual gate open"
 ---
 
 # Audiovisual file index
@@ -57,6 +57,19 @@ Rinami's [named source inventory](08_HIMESAKI_RINAMI/SUPPORTING_DATA/GKM_PHASE3_
 
 ## Distributed-character continuation
 
-Rinha remains a distributed, non-playable character responsibility. The completed [source crosswalk](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) and [evidence matrix](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) govern target selection and source reuse. Her targeted AV request/baseline and subsequent dossier remain prospective work; this index does not create a fourteenth playable-character package or imply that inspection has occurred.
+Rinha remains a distributed, non-playable character responsibility. The completed [source crosswalk](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_SOURCE_CROSSWALK.md) and [evidence matrix](../06_RELATIONSHIP_AND_ENSEMBLE_SYNTHESIS/GKM_KAYA_RINHA_EVIDENCE_MATRIX.md) govern target selection and source reuse. Her targeted AV request and bounded source/text, selected-mix and sampled-still baseline are now available in the unnumbered [KAYA_RINHA home](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md). Direct listening, continuous-motion discrimination and the subsequent dossier remain open; the thirteen playable-character packages retain their existing scope.
 
 Consult the [AV verification queue](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md) for scoped acquisition decisions and the [AV source crosswalk](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md) for cumulative source routing. Source media remain outside the analytical Git corpus.
+
+<!-- RINHA_AV_20260911 -->
+## Kaya Rinha — distributed-character AV responsibility
+
+The unnumbered [KAYA_RINHA packet](KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) adds the 18-target source/text, selected-mix and sampled-still pass across 12 retained recordings. It documents 538 distinct inspected frame points, 18 verified selected-mix measurements and 73 claim dispositions. Direct listening and continuous-motion review are both 0 seconds; the perceptual baseline gate and Rinha dossier remain open.
+
+- [Integrated baseline and 18 scene records](KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md)
+- [Evidence and metrics matrix](KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md)
+- [All-claim change report](KAYA_RINHA/GKM_KAYA_RINHA_CLAIM_CHANGE_REPORT.md)
+- [Source identities and 620-message recount](KAYA_RINHA/GKM_KAYA_RINHA_SOURCE_MANIFEST_AND_AUDIT.md)
+- [Actual review accounting and methods](KAYA_RINHA/GKM_KAYA_RINHA_REVIEW_ACCOUNTING_AND_METHODS.md)
+
+The baseline owns the bounded voice-analysis responsibility; no separate unheard-voice specialist or numbered fourteenth playable-character core is created.

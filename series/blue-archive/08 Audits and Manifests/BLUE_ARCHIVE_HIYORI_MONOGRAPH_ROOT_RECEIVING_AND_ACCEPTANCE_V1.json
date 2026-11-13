@@ -1,0 +1,104 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Hiyori",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_HIYORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 3490,
+    "sha256": "48ab4179a594fa829db929582cc5751b0c967c788746d8006d955ef0108a9271",
+    "git_blob_oid_of_actual_bytes": "a97778aff34d049fc235b04a713afa7dba20820b",
+    "lines": 49
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_HIYORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "3ddebff28643eb6060c4afc5a3e61128aa8435cf013732583355d006a17a5d6a",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_outputs_preserved": 37,
+    "exact_unique_binding_pairs_verified": 76,
+    "fresh_complete_arguments_equal_main_and_c1": 1,
+    "selected_private_objects_exact_verified": 15,
+    "saved_nonempty_lines_exact_verified": 132,
+    "historical_metadata_bindings": [
+      {
+        "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+        "purpose": "historical metadata only"
+      }
+    ],
+    "unchanged_ROOT_source_custody_verified": "12 Main/Final and3 event tuples exactly equal the personally received Misaki custody; first33 prior tuples likewise unchanged, with4 Misaki payloads added. Reuse is not new whole-argument/primary receiving.",
+    "root_actual_receiving": {
+      "whole_final_body": [
+        "dc25be lines1–112",
+        "b8806c lines113–222EOF"
+      ],
+      "whole_readable_receipt": [
+        "afa5f7 all42linesEOF"
+      ],
+      "source_scope_fields": "ebdb08 all source controls;8c041d all3 necessary Japanese recovery scopes;28bf0a all15 inherited bindings;364019 four new prior frozen payload bindings;0b689e whole32-line manifest. Exact unchanged prior source tuples independently checked. Whole saved body is semantic receiving; line hashes are exact verification.",
+      "additional_consequential_accepted_arguments": [
+        "1ce4c5 completeEVENT810075 all73linesEOF",
+        "8eb3a3 accepted private324–347 received untruncated tail;238b9d completes348–376EOF of Hiyori argument. Shared826 owner not newly whole-read."
+      ],
+      "new_full_primary_or_raw_or_performance_credit": 0
+    },
+    "semantic_grounds": [
+      "Novels, fashion, collected magazines, sea/clothing wishes, taste, unpurchased looking and wanted reciprocal giving are intrinsically valuable before permanent rescue or useful employment.",
+      "The swimsuit is actually purchased and brings joy, while false contest explanations preserve recipient information inequality and unfulfilled further prize expectations.",
+      "Initial fireworks fail with an unidentified mixed object; a new set and joint play are actually completed. Whole message mutual enjoyment is local positive evidence, not permanent recovery.",
+      "Gift acceptance answers her deliberate magazine-funded request; sale amount, complete collection loss, later recollection and eating are unprinted. An unrequested head pat is a distinct permission boundary.",
+      "Hospital transport and requested overnight company are actual; doctor reports and forecasts do not certify clinical recovery or completed discharge. Her unfinished-reading protest survives announced confiscation.",
+      "Photographs chosen and distributed coexist with continuing magazine interest, differentiated peer wants, harmful public action, independent refusal of betrayal and unfinished Arius institutional repair."
+    ],
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope_reference": "ROOT successor355 scope separately accepted for final exact preparation; character acceptance adds no denominator change",
+    "quarter_reached": false,
+    "main_integration": "NONE"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-HIYORI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_HIYORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 46544,
+    "sha256": "2458166488c62aba604966882325d1d708fbb8bad6349d7e987271fe4c834827",
+    "git_blob_oid_of_actual_bytes": "e7b9e8c8f627822a35162d7091b0ae1880284dea"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "Proposed canonical target:",
+      "new": "Canonical target:",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "old": "This C-only saved candidate awaits ROOT’s complete receiving and adoption.",
+      "new": "ROOT independently received and accepted the complete bounded literary argument with limits.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "old": "This candidate’s completion is distinct from full Phase3 completion.",
+      "new": "This monograph’s completion is distinct from full Phase3 completion.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    },
+    {
+      "old": "This draft grants no global registry, model, denominator, quarter, publication or merge result.",
+      "new": "This monograph grants no global registry, model, new denominator, quarter, remote publication or merge result.",
+      "kind": "AUTHORITY_OR_CURRENT_SCOPE_FRAMING_ONLY"
+    }
+  ]
+}

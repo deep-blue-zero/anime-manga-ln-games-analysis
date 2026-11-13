@@ -1,0 +1,60 @@
+{
+  "schema": "KONOSUBA_LUNA_INTERNAL_SCENARIO_INPUTS_V1",
+  "recorded_utc": "2026-10-20T08:52:25.465673+00:00",
+  "model_sha256": "7d071db906bd88e6e14b305705825a11c253f99eb66e6ee26644c4523bded2c9",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "designed_battery": "One audience-presence pair and one unmatched hopeful-appraisal case; not a principal battery, not full four-rule validation.",
+  "cases": [
+    {
+      "id": "LUNA-H01A",
+      "paired_with": "LUNA-H01B",
+      "target_rules": [
+        "LUNA-R01",
+        "LUNA-R03"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical new Axel guild exchange; no admitted canon event or new census individual.",
+        "actors": "Luna and an adult adventurer called Maro for this fictional packet only.",
+        "task": "Tonight Luna must sort return-seals by printed codes before locking the desk. Maro has demonstrated that he can do it in30minutes; Luna can do it herself in60minutes. It is routine backlog, with no physical emergency or new legal compulsion.",
+        "known_state": "Luna wants to avoid another late hour. No other staff are currently available. No extra reward or budget is offered in the packet. Maro has delivered the envelope he agreed to deliver, is now off duty and says: Not tonight; I am leaving.",
+        "audience_variant": "Four adult trainees are listening at the desk. They visibly admire Maro as a person who helps others; both Maro and Luna know this. They have made no commitment on his behalf.",
+        "generation_request": "Give one brief Luna reply and one sentence describing only her chosen next action, at most160Englishwords. Preserve her actual knowledge and the stage of every action. She may appeal or apply pressure; do not force an optimal ethical response. Do not give Maro a reply or complete the sorting. Do not invent authority, funds, companions, immediate danger, past promises or new facts."
+      }
+    },
+    {
+      "id": "LUNA-H01B",
+      "paired_with": "LUNA-H01A",
+      "target_rules": [
+        "LUNA-R01",
+        "LUNA-R03"
+      ],
+      "packet": {
+        "frame": "Wholly hypothetical new Axel guild exchange; no admitted canon event or new census individual.",
+        "actors": "Luna and an adult adventurer called Maro for this fictional packet only.",
+        "task": "Tonight Luna must sort return-seals by printed codes before locking the desk. Maro has demonstrated that he can do it in30minutes; Luna can do it herself in60minutes. It is routine backlog, with no physical emergency or new legal compulsion.",
+        "known_state": "Luna wants to avoid another late hour. No other staff are currently available. No extra reward or budget is offered in the packet. Maro has delivered the envelope he agreed to deliver, is now off duty and says: Not tonight; I am leaving.",
+        "audience_variant": "No trainees or other audience are present. Only Luna and Maro are at the desk.",
+        "generation_request": "Give one brief Luna reply and one sentence describing only her chosen next action, at most160Englishwords. Preserve her actual knowledge and the stage of every action. She may appeal or apply pressure; do not force an optimal ethical response. Do not give Maro a reply or complete the sorting. Do not invent authority, funds, companions, immediate danger, past promises or new facts."
+      }
+    },
+    {
+      "id": "LUNA-H02",
+      "paired_with": null,
+      "target_rules": [
+        "LUNA-R04"
+      ],
+      "packet": {
+        "frame": "Unmatched wholly hypothetical Axel exchange; adult copyist Iven is a fictional packet actor only.",
+        "known_to_Luna": "Iven has just performed two hours of approved clerical cover at the guild. Coworkers credibly confirm the work. He has been courteous during two prior brief encounters. Luna has described several weeks of too little rest and a wish for respectful adult company. She does not know him closely. They are alone at the desk.",
+        "current_utterance": "I did it because I like spending time with you. Would you share a drink with me after work tomorrow?",
+        "reader_only_hidden_truth": "Iven is preparing a mocking written account of this exchange for his friends. He has told nobody at the guild and no observable cue in this packet reveals it. The same informed author sees this truth, so this is not blind validation.",
+        "generation_request": "Give one brief Luna reply and one sentence describing only her immediate chosen action, at most160Englishwords. Do not invent a friend warning, her knowledge of the hidden plan, future publication, completed meeting, relationship, revealed intent, new past events or Iven response. Allow fallible personal appraisal rather than automatically making her detect deception."
+      }
+    }
+  ],
+  "pair_controls": "H01publicly valued audience is the sole planned variant field; all task, known alternatives, adult refusal and output constraints identical. No deterministic ethical contrast is prerequired. A more public identity lever inA is only a weak expected tendency; private pressure remains possible.",
+  "unmatched_limits": "H02 has no hidden-truth paired control; cannot establish causal discrimination. Desired flaw is explicitly primed and the author knows reader-only truth.",
+  "LUNA_R02_not_isolated_by_this_battery": true,
+  "assessment_contract": "Preserve exact first bodies. Assess packet precision, actual versus proposed acts, recipient agency, disclosed generic-role/near-canonical rivals and underdetermination. Do not turn designed contrasts into source, independent, Japanese or confidence credit."
+}

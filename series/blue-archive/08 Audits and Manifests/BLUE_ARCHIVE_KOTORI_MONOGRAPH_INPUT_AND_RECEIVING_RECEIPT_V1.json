@@ -1,0 +1,3431 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_INPUT_AND_AUTHOR_SCOPE_RECEIPT_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE_INSTALLATION_PENDING",
+  "subject": "Kotori",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This preparation has no persistence or publication effect before complete ROOT installation. ROOT must verify the successful actual exact-head source/housekeeping/final chain for 5f0a24b56557f308e9cef31c7d1c2d58406ef49a, complete the final whole candidate receiving, and install all final declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The complete original payload is immutable. Its pending, C-only, historical counts and audit statuses describe its creation-time custody event, not current adoption. Current ROOT acceptance is qualified explicitly here. Current scope remains355/29; no new source, primary, performance, model, independent literary or count credit follows from transport.",
+  "original_exact_tuple": {
+    "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+    "bytes": 110593,
+    "sha256": "b90b32cdf8dc31a2be5d7969fa0490fdfa87d73a5fa9f766e99bfdefcc3296bd",
+    "git_blob_oid_of_actual_bytes": "5c8297acdca2d0bfb333e3b1b917ef07ba872ccd",
+    "lines": 1932,
+    "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+  },
+  "public_reference_translation": "Full original fields and strings survive with declared reference translation only; public provenance labels do not serve files or admit material. Original byte tuples remain original witnesses and are not claimed as derivative tuples.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "Author and ROOT complete/bounded meanings remain attributed to actual scopes. Mechanical transport adds no literary receiving."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1",
+    "status": "AUTHOR_SOURCE_SCOPE_COMPLETE_ROOT_REVIEW_PENDING",
+    "package": "P3-CHAR-KOTORI",
+    "typed_family": "P3-F111",
+    "dated_route": "P3-A070",
+    "person_key": "BA_PERSON_KOTORI",
+    "full_name_jp": "豊見コトリ",
+    "variants": [
+      10076,
+      16002
+    ],
+    "costume": "1900917201:character:10076",
+    "body": {
+      "file": "BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+      "byte_count": 58396,
+      "line_count": 151,
+      "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+      "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+    },
+    "proposed_canonical_home": "series/blue-archive/04 Specialist Syntheses/CHARACTERS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+    "required_home": {
+      "home_key": "P3-CHAR-KOTORI",
+      "kind": "CHARACTER",
+      "source_responsibility_refs": [
+        "P3-F111"
+      ],
+      "scope_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+      "allocation_is_completion": false,
+      "selected_home_reading_only": true
+    },
+    "frozen_source_snapshot": "92184703994a1950a5660654ce52d8516dbe9bf5",
+    "analytical_main_comparand": "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+    "architecture": "Current architecture1.12 differs from main1.11 with eleven requirements unchanged; method1.10; mutable ROOT progress excluded.",
+    "input_tuple_factoring": "Each same_bytes comparison references all four tuple fields of its current input. Unequal exceptions print the actual historical tuple; absent controls qualify only later presence.",
+    "inputs": [
+      {
+        "source_id": "A01",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "byte_count": 52261,
+        "line_count": 851,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "actual_byte_blob_oid": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45",
+        "author_receiving_scope": "Current required eleven sections L322–344 personally received fb4f2f; current1.12 equalsc1 but main1.11 differs, eleven requirements unchanged",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": false,
+            "tuple_reference": "EXACT_HISTORICAL_EXCEPTION",
+            "historical_tuple": {
+              "byte_count": 51287,
+              "line_count": 849,
+              "sha256": "e5e0c9794fdb9664a61110eb002afc75011b75e49ab5965ad8808231455cd7cd",
+              "actual_byte_blob_oid": "685661b716fd0032997883efeb294425b0816c18"
+            }
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A02",
+        "repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "byte_count": 53414,
+        "line_count": 840,
+        "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d",
+        "actual_byte_blob_oid": "49c7b15ecae4e2a7819b08e2d7392aa095caf982",
+        "author_receiving_scope": "Applicable entire L327–379 minimum sources/required dimensions/ordinary before crisis personally received31a0cb; prior necessary comparison/counterreading controls retained",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A03",
+        "repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "byte_count": 79178,
+        "line_count": 354,
+        "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6",
+        "actual_byte_blob_oid": "0e15ecdee162ba461e475081e2b430a17ce76edf",
+        "author_receiving_scope": "Prior complete fourteen stable definitions L31–44 from Noa custody, with G13/G14 recoveryf0f49c. Fresh exact current L25–45 received443d3e, including all full original names; Kotori labels receivedc6e09c. This is bounded definition receiving, not whole354-line register receiving.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "A04",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "byte_count": 19463,
+        "line_count": 113,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "actual_byte_blob_oid": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2",
+        "author_receiving_scope": "Prior complete current113-line Cycle008 admission/control argument reused from frozen Trinity/Noa custody; not fresh primary",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "C05",
+        "repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "byte_count": 461112,
+        "line_count": 6514,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "actual_byte_blob_oid": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1",
+        "author_receiving_scope": "Selected exact Kotori required-home object and Engineering companions already personally received by engineering_home_working.py; not whole355 literary receiving and no allocation completion.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "C06",
+        "repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "byte_count": 21833,
+        "line_count": 289,
+        "sha256": "2350c273cc06f2d86273b177b299521d96da7ee108c8a8368d4d652487483454",
+        "actual_byte_blob_oid": "195739a98c7b439b48bfd8e973282e941a45d8e1",
+        "author_receiving_scope": "Prior exact current ROOT V3 scope acceptance355/29 with zero allocation completion and all14OPEN reused; no new ROOT adjudication or whole review credit",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": false,
+            "qualification": "Later scoped control; no claimed historical presence or equality"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E17",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 15844,
+        "line_count": 99,
+        "sha256": "4bbb3e21eb2959d3a06f1f0fb4b66111017a6d7e113283d7b32f7dd66aee852e",
+        "actual_byte_blob_oid": "779b22f9d700bbcfe2e8aa38e628217ed9891858",
+        "author_receiving_scope": "Adequate prior whole current corrected99-line accepted comparison39e06b; full consequential60–99EOF received during Utaha. Current positive Kotori clauses L78–79 recovered caf9f2 only as locator: specific sports-explanation wish, old cheer outfit and partial gakuran fulfillment, collective opening. No fresh817 primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E10",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "byte_count": 46462,
+        "line_count": 316,
+        "sha256": "b5a86050b0f78e343e39499b7b1766b474a9ec106a0215279caff72589fe9353",
+        "actual_byte_blob_oid": "13b90d6ccfe8df728be0e963cfb8c62c0116f2c2",
+        "author_receiving_scope": "Adequate prior whole316-line current accepted comparison, including repaired200–250 and throughEOF, reused. Kotori gift projectionL290 caf9f2 is inquiry routing only; the complete small gift068 owner L68 is personally received below. Historical intake qualified by Cycle008.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "PW",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 33564,
+        "line_count": 257,
+        "sha256": "0e9bd813014d36111466060e928647b2ff77eb32a0906ad5d20a3c8a3423c45d",
+        "actual_byte_blob_oid": "a0063821e5cbdd67c326b0e32dcd1e2f5428b683",
+        "author_receiving_scope": "Adequate personally prior whole257-line accepted normal Pavane argument da983a1–115/9c6161116–257EOF, reused at exact bytes. Current literal routes caf9f2/ee4134 are scoped inquiry extractions. Six necessary small complete individual arguments separately bound; no allMAIN primary or automatic individual authorship.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F00",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "byte_count": 49292,
+        "line_count": 452,
+        "sha256": "98389376769f172e799e4457cf8433b285e2a8e6b521c9850cb40a30b6ee8dcf",
+        "actual_byte_blob_oid": "4712932e1058e7babcc693932caedcfd1a076622",
+        "author_receiving_scope": "Adequate personally prior whole452-line accepted Final normal argument reused from Trinity/Noa and Utaha scopes, including collective ending. Current literal routes caf9f2/ee4134 and prior207–239/310–337 are bounded recovery, not fresh whole primary or every-person repair.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "G14",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "byte_count": 24487,
+        "line_count": 153,
+        "sha256": "2f196a0f37e8bb018bf29b953b20f233be8bcbd829936448dcc51728d45a84b2",
+        "actual_byte_blob_oid": "5af18f683c454059385397183a8822af7c9f7058",
+        "author_receiving_scope": "Personally complete current153-line group analytical argument107246L1–85/af6af9L86–153EOF, reused with current literal Kotori inquiry caf9f2. All three ordinary/device/ownership/retaliation arguments and19 declared actor seams; no raw/native replay or label harmonization.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "byte_count": 109502,
+        "line_count": 534,
+        "sha256": "e5a26dbbd5a61dbe4de68d76a10edfcc518c90e76c0e902e72a2f269138f1187",
+        "actual_byte_blob_oid": "f359d3ab6367591050eb85c4dbbfe7abec940b66",
+        "author_receiving_scope": "SCOPED AUTHORITY ONLY: actual currentL23–40 completely received6b5060, not whole534 checkpoint. Utaha-specific prior routing is not Kotori credit. Complete007/009/010 individual arguments independently received below; no hidden whole actor-annex claim.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18007",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "byte_count": 8542,
+        "line_count": 68,
+        "sha256": "4dc7f8921e4962faf3dae333742524bf0b2e4ad48008e3f8128d2b0f7181c1fa",
+        "actual_byte_blob_oid": "6e44f7ef305c8b634e4a493f1184b3a13970a3f0",
+        "author_receiving_scope": "Personally prior complete current small accepted analytical owner throughEOF during Utaha; Kotori cheering versus race commitment, distinct Hanae care and Hibiki unease are current positive caf9f2 locator recovery. Zero fresh primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18009",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "byte_count": 8127,
+        "line_count": 70,
+        "sha256": "668e7dd8623b83263bf83fc5738703752ac81065ef3192293bfb91ece637fb28",
+        "actual_byte_blob_oid": "4313276d4c06791f015f0edaa2e3aa85eb1f08dd",
+        "author_receiving_scope": "Personally complete prior small accepted analytical owner, and fresh entire7923-character current argument88460e[0,7923)EOF. Hurried fuse/testing, distinct peers, robot failure, report demand and exact declared u0091 printedKotori/rawHibiki plusu0106 printedUtaha/rawKotori are retained. No fresh raw/primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "E18010",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "byte_count": 7590,
+        "line_count": 66,
+        "sha256": "e5a1f1842a7a6791c90c82a067d700b54dda14a0eebebc2a26eef421add49bcf",
+        "actual_byte_blob_oid": "f63c12ac184bc7fe83491869fec55f4fb788a7f5",
+        "author_receiving_scope": "Personally prior complete current small accepted analytical owner throughEOF during Utaha. Collective actual evacuation/captives/care and reported destruction support consequences only; no secure Kotori appearance or individual repair is inferred.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P107",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "byte_count": 12509,
+        "line_count": 84,
+        "sha256": "e0bc0cfef4412114e40881b49095e2d8eb10e2068e1fc1b1a020e176239137ac",
+        "actual_byte_blob_oid": "2608db30916cadc69708a903ee0550cb24018a33",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner during Utaha, and fresh entire12163-character current argument b2f87c[0,12163)EOF. Budget/specification reports, unsafe discharge, late qualification and actual passed result/concession are received with label/technical limits; no primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P212",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "byte_count": 11241,
+        "line_count": 77,
+        "sha256": "41a3b59d29497baf1b336a212e376eea921ae3f1f00e345c4de4071987fb830e",
+        "actual_byte_blob_oid": "e21a57cb3b916b02dff14e98b59f1296cd6b4cc8",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha; current ee4134 literal routes. Conditional group freight plan and actual contested attribution aroundu0072–0078 do not certify Kotori hidden motive or solitary route authorship.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P213",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "byte_count": 9575,
+        "line_count": 72,
+        "sha256": "f855463a73fe432f6d98c55f921604e55ae643c9b472817e2c0876d42df7dc96",
+        "actual_byte_blob_oid": "86829cde73fcf167ccf0166e22fb7fdee08c6ce5",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha. Collective actual arrival is consequent context, not an unprinted Kotori explanation or calibrated invisible route proof.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P217",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "byte_count": 10259,
+        "line_count": 75,
+        "sha256": "2e0f08a62820cb98953d2b6aa13f19eef6299c95abf04266e1246af91a2a80b8",
+        "actual_byte_blob_oid": "b9a6fd3f5b0196887f8a55411a63ca6f68106d70",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha; ee4134 positive Kotori group exhaustion/handoff. Local result, reported exhaustion and inward adult promise remain distinct.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P219",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "byte_count": 9028,
+        "line_count": 70,
+        "sha256": "7c8bd1a797da200a4d2022db0ada22f0c24f47fbea40094aa8eaa7b34ea89d1e",
+        "actual_byte_blob_oid": "c61adbf485220454d78092669fdaafb191db6557",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha. The unnamed gift is Utaha-specific; no Kotori ownership or causal connection to escape inferred.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "P223",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "byte_count": 10620,
+        "line_count": 77,
+        "sha256": "26d08a3839c57f51aee0a98ce26c97eb6f54f72f28ecbb4280acd1e1c56ea2cf",
+        "actual_byte_blob_oid": "92ab9cf967d913d49e09fae6c09eef0d119d2650",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha; ee4134 positive Kotori suspicious-signs/return clause. Renewed help and technical reports are distinct from audited power and total pursuer defeat.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F216",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "byte_count": 2316,
+        "line_count": 26,
+        "sha256": "cc8bffc658943c6f8b51984c30e63bbcb0f11b8764ef43d518e3c1109a111bef",
+        "actual_byte_blob_oid": "b4b08dd331cba4f7a57948aa20dbde82617139df",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha; ee4134 positive Kotori Veritas-control question after Himari denial. AMAS controller/personhood remain unjoined; departure is not final battle result.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F307",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "byte_count": 6643,
+        "line_count": 39,
+        "sha256": "341fac9070d15a90f4d180c2402d57f43e811af5cd1a455be2afb42f4f18fe2c",
+        "actual_byte_blob_oid": "40c7685c7e73c5c05a594d380110e919d0c165c7",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha; ee4134 positive Engineering manual proposal. Opaque engine knowledge and proposed practical use do not certify complete manual/reverse-engineering/safety.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "F315",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "byte_count": 5125,
+        "line_count": 36,
+        "sha256": "10a6d3b598fca1e4d8e68986daa27a9e16d48aeb2c443e271e759e4959ff65c1",
+        "actual_byte_blob_oid": "71c473bfe50b6d43d70ffc3080a259d3df981f9e",
+        "author_receiving_scope": "Personally prior complete small accepted analytical owner throughEOF during Utaha. Collective endpoint context only; no positive Kotori actor appearance or individual total repair attributed.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K21",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "byte_count": 33663,
+        "line_count": 505,
+        "sha256": "05bda347f51433185363f236a52e2ed7745c4bda95ec0bb43fa3249c3d070350",
+        "actual_byte_blob_oid": "5a93291ebfd59c9a698d3626b2c9f6d935fbd72d",
+        "author_receiving_scope": "Personally whole505-line current normal account32575eL1–141/f24afcL142–300/fd9c2aL301–505EOF. Fresh bounded exactlocator recoverya786d4L140–350. Nine whole bond/MomoTalk pairs plus three written meanings in12soleowners; all12 original analytical arguments personally complete below, zero21freshprimary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "L68",
+        "repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "byte_count": 7810,
+        "line_count": 73,
+        "sha256": "3d8ccd09e63f89062a79cf16f132d35782eac9873f24788fe40adef54bf46cad",
+        "actual_byte_blob_oid": "7d0dc71a8b8012a7e9c4e1cc76d6c7106d5b6bfe",
+        "author_receiving_scope": "Personally whole73-line current small gift analytical argument4098ebL1–73EOF, including adaptation, invitation alternatives and actual delicious shared eating plus abundant explanationu0028–0029. Origin authenticity remains Kotori claim; JP/KR differences retained; producer historical intake qualified by E10 andCycle008, zero primary.",
+        "published_source_comparand": "92184703994a1950a5660654ce52d8516dbe9bf5",
+        "exact_published_equality": true,
+        "historical_comparisons": {
+          "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "c1f14d5120c29209ca571fea8d7cfbe111076ec5": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          },
+          "2e2018d0d62d91e3e0a5e7681f72a31cec08e02c": {
+            "present": true,
+            "same_bytes": true,
+            "tuple_reference": "THIS_CURRENT_INPUT"
+          }
+        },
+        "whole_binding_is_not_whole_receiving": true,
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      }
+    ],
+    "local_complete_original_analytical_owners": [
+      {
+        "source_id": "K01",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_10076_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 12395,
+        "line_count": 171,
+        "sha256": "c4b852d08320f9f23939f1dc67371384c8b46e7f3da41539874364678b271c17",
+        "actual_byte_blob_oid": "d78232f798905bbf0a3b9938c8c992c388259dc6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_10076_E002_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:10076:002",
+          "BA:momotalk:10076:thread:100760010"
+        ],
+        "personally_received_character_span": [
+          0,
+          12267
+        ],
+        "actual_complete_emission": "82b8d5",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K02",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_10076_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 12893,
+        "line_count": 172,
+        "sha256": "c49232118038f88763e5b3f06ff99343c3e55f296f47edc91d876cfbfb765784",
+        "actual_byte_blob_oid": "d1dd7239fce43cb7474a7f91a2c0e23174821da6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_10076_E003_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:10076:003",
+          "BA:momotalk:10076:thread:100760170"
+        ],
+        "personally_received_character_span": [
+          0,
+          12691
+        ],
+        "actual_complete_emission": "b82101",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K03",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_10076_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 12456,
+        "line_count": 171,
+        "sha256": "17c90fef24de62d06a878e7ed7fcdc3226167edde56cfcea067153a64924b100",
+        "actual_byte_blob_oid": "2017584790ec0d034b18620d254445ed301ab477",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_10076_E005_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:10076:005",
+          "BA:momotalk:10076:thread:100760330"
+        ],
+        "personally_received_character_span": [
+          0,
+          12250
+        ],
+        "actual_complete_emission": "13b1d7",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K04",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_10076_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 12708,
+        "line_count": 170,
+        "sha256": "fb317a01939d2d88b33ff4d3833b6ddb1ea8731440f577481f17b7beb21f375e",
+        "actual_byte_blob_oid": "ba58e8aa802d7da70e393759c2ef779d594e33e6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_10076_E006_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:10076:006",
+          "BA:momotalk:10076:thread:100760480"
+        ],
+        "personally_received_character_span": [
+          0,
+          12542
+        ],
+        "actual_complete_emission": "07baf3",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K05",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_16002_E002_PAIRED_DEEP_READING.md",
+        "byte_count": 13032,
+        "line_count": 175,
+        "sha256": "e358419a01a12037fbe017b32dd89b15da8e149a40c908e33b6ccdfcd5bad6f8",
+        "actual_byte_blob_oid": "17dfc13a6ac3fd2ccd28bce5da157f4857344bea",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_16002_E002_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16002:002",
+          "BA:momotalk:16002:thread:160020010"
+        ],
+        "personally_received_character_span": [
+          0,
+          12844
+        ],
+        "actual_complete_emission": "85d5ee",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K06",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_16002_E003_PAIRED_DEEP_READING.md",
+        "byte_count": 11898,
+        "line_count": 169,
+        "sha256": "c98e08b383759ddb845bbc30f80c488bf765a030921d0796d143236379f07965",
+        "actual_byte_blob_oid": "81274a8f02b5279da88940091f8b52b99762dbba",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_16002_E003_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16002:003",
+          "BA:momotalk:16002:thread:160020090"
+        ],
+        "personally_received_character_span": [
+          0,
+          11722
+        ],
+        "actual_complete_emission": "768dc3",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K07",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_16002_E005_PAIRED_DEEP_READING.md",
+        "byte_count": 12642,
+        "line_count": 173,
+        "sha256": "ca5150922002d35ab64889d840fb7796dfb63f5e07ddbe6fe0895ba62eff4d6a",
+        "actual_byte_blob_oid": "5fa34679744a68cbd98821ad1cceedcae4326fe6",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_16002_E005_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16002:005",
+          "BA:momotalk:16002:thread:160020130"
+        ],
+        "personally_received_character_span": [
+          0,
+          12470
+        ],
+        "actual_complete_emission": "f85ba5",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K08",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_16002_E006_PAIRED_DEEP_READING.md",
+        "byte_count": 12326,
+        "line_count": 170,
+        "sha256": "0fe33d63ebaa936a110197695a03bf0a82648bcf351c1e8ee3d3bb94be54d88c",
+        "actual_byte_blob_oid": "f387091eac7bbd0a99de8120ce13bb297287e549",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_16002_E006_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16002:006",
+          "BA:momotalk:16002:thread:160020260"
+        ],
+        "personally_received_character_span": [
+          0,
+          12228
+        ],
+        "actual_complete_emission": "b680f4",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K09",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_BOND_16002_E015_PAIRED_DEEP_READING.md",
+        "byte_count": 12329,
+        "line_count": 172,
+        "sha256": "b27b043b5f8db2d502a8993474adaffd96dc741c43f51592fea0cab515b9cba8",
+        "actual_byte_blob_oid": "3a5d96196e422c3725977070606f2f7e9101249e",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/BOND/KOTORI/BLUE_ARCHIVE_KOTORI_BOND_16002_E015_PAIRED_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:bond:16002:015",
+          "BA:momotalk:16002:thread:160020380"
+        ],
+        "personally_received_character_span": [
+          0,
+          12195
+        ],
+        "actual_complete_emission": "a47c96",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K10",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_VARIANT_10076_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 11318,
+        "line_count": 169,
+        "sha256": "f985912caf82033f44a9fd940ea9bc81e409066fd39592a403a84d17f154c631",
+        "actual_byte_blob_oid": "2af4f056466992936d9feffbf0b0f52e6e6cf342",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/KOTORI/BLUE_ARCHIVE_KOTORI_VARIANT_10076_WRITTEN_DATA_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:character_data:10076:profile_and_dialog"
+        ],
+        "personally_received_character_span": [
+          0,
+          11193
+        ],
+        "actual_complete_emission": "c3abff",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K11",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_VARIANT_16002_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 11666,
+        "line_count": 172,
+        "sha256": "da84f40b7e6688709066abe4f09a9baa7915135f4bf0bcb8037940b93c10b8cc",
+        "actual_byte_blob_oid": "fe200cf090c688d454483462aa953f51e11f4ccf",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/KOTORI/BLUE_ARCHIVE_KOTORI_VARIANT_16002_WRITTEN_DATA_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:character_data:16002:profile_and_dialog"
+        ],
+        "personally_received_character_span": [
+          0,
+          11515
+        ],
+        "actual_complete_emission": "0f1d94",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      },
+      {
+        "source_id": "K12",
+        "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/ARGUMENTS/BLUE_ARCHIVE_KOTORI_EVENT_COSTUME_1900917201_CHARACTER_10076_WRITTEN_DATA_DEEP_READING.md",
+        "byte_count": 12506,
+        "line_count": 169,
+        "sha256": "a344ad63fbb08de21d0b861e89614408eae246efcac847e4ffa4e6ee602385ab",
+        "actual_byte_blob_oid": "93a2617e5c5e6ac06efb28ee9344327e4c421548",
+        "canonical_proposed_owner_home": "series/blue-archive/02 Sequential Readings/CHARACTER_DATA/KOTORI/BLUE_ARCHIVE_KOTORI_EVENT_COSTUME_1900917201_CHARACTER_10076_WRITTEN_DATA_DEEP_READING.md",
+        "source_ids_attributed": [
+          "BA:character_data:event_costume:1900917201:character:10076"
+        ],
+        "personally_received_character_span": [
+          0,
+          12364
+        ],
+        "actual_complete_emission": "63da15",
+        "through_physical_EOF": true,
+        "current_public_authority": "K21 andCycle008/A04 preserve historical author-stage headers and source-pin attribution",
+        "custody": "PERSONALLY_COMPLETE_ORIGINAL_SOLE_ANALYTICAL_ARGUMENT_NOT_FRESH_PRIMARY",
+        "new_primary_raw_native_performed_model_independent_credit": 0
+      }
+    ],
+    "selected_original_binding_registry": {
+      "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER_ARGUMENT_BINDINGS_V1.json",
+      "byte_count": 59332,
+      "line_count": 1074,
+      "sha256": "e95f57a2ca63215e54deddab38aac40cc4e1ca3808746737fa30e5202a84d63e",
+      "actual_byte_blob_oid": "cef4438f6b1e9de1df2860c3da6d48358ce34759",
+      "receiving_scope": "Selected12 exact owner/source-ID/proposed-home bindings received by guarded individual-owner reads. Initial combined registry7e1c83 output clipped; no fresh whole59332 metadata-receiving credit."
+    },
+    "owner4_literal_semantic_correction": {
+      "attachment_relative_path": "KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json",
+      "byte_count": 1579,
+      "line_count": 16,
+      "sha256": "3c080748830f1dac5898ead6206f1ec89e658b98724631904ae821bdc80e8edd",
+      "actual_byte_blob_oid": "3b5f115a36c8ebd57251b92bdf679419877a510c",
+      "actual_receiving": "Prior wholead0fd9; fresh whole7823fd, preserving historical correction and currentowner4fb317a binding",
+      "public_safe_semantic_projection": {
+        "source_locator": "BA:bond:10076:006:scene:001:u:0011",
+        "old": "enjoyed bustle despite disliking sport",
+        "current": "enjoyed bustle despite finding sports difficult",
+        "reason": "苦手 distinguishes aptitude/difficulty from aversion; no athletic diagnostic or erased pleasure"
+      },
+      "original_format": "Preserved historical JSON bytes including CR characters and local-originpath; not copied into public candidate",
+      "source_credit_added": 0
+    },
+    "relative_links": [
+      {
+        "label": "Current private authority and identity, L142–241",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Required home, selected P3-CHAR-KOTORI object",
+        "relative_target": "../../06%20Evidence%20and%20Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "resolved_repository_relative_path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "source_id": "C05",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:002/003/005/006/015;10076:006;L201–245",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1401–1403, device pleasure and disputed ownership",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0044–0148;scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "810:068u0011–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:003/006;16002:015;written10076/16002;L205–237",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1402–1403, concealment and retaliation",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:002u0017–0056/thread100760010;003u0002–0052/thread100760170;005u0014–0036/thread100760330",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L191–213;16002:002/003/005/006/015;10076:006",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0002–0148;scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0047–0082",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "source_id": "P212",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0036–0055",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "source_id": "P213",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0032–0052",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "source_id": "P217",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0018–0047",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "source_id": "P223",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:006–011;L78–83",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0019–0040",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "source_id": "E18007",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0058–0140",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0018",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "source_id": "E18010",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L162–175;310–337",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "F00",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0016–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0044–0105",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0058–0067",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "source_id": "F216",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:006u0001–0058/thread160020260;L209–241",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:005u0001–0055/thread160020130, especiallymessage160020240:1296",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:006u0011–0021/0033/0049/0059–0065;thread100760480",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene001u0002–0011;scene002u0044–0148;scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1401u0007/0016–0025/0050–0054;1402u0024–0061",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1403, particularlyu0013–0038 andu0072;currentL70–125",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0058–0067/0079–0140;declaredactorwitnessesu0091/0106",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0018",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "source_id": "E18010",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:002u0041–0053;003u0027–0040/thread160020090",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:003u0017–0052/thread100760170;006u0011–0065",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:005u0014–0036/thread100760330;16002:015u0013–0056/thread160020380",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "written10076:6484–6513;written16002:1718–1750 andfallback000001/000002;costume1900917201context817/10817/900817",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "810:068u0001–0029, choices001/003 andJP/KRqualifications",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0047–0082, particularlyu0072–0078",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "source_id": "P212",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0036–0055",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E013_DEEP_READING.md",
+        "source_id": "P213",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0032–0052",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "source_id": "P217",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0078–0084",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E019_DEEP_READING.md",
+        "source_id": "P219",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0018–0047",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "source_id": "P223",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0019–0040",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "source_id": "E18007",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0058–0140",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0018",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "source_id": "E18010",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C002_E016_DEEP_READING.md",
+        "source_id": "F216",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0019",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "source_id": "F307",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0027–0076",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E015_DEEP_READING.md",
+        "source_id": "F315",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L162–175;207–239;310–337",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "F00",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0018–0047",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E023_DEEP_READING.md",
+        "source_id": "P223",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L78–83",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0018",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_010_DEEP_READING.md",
+        "source_id": "E18010",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0028–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:002u0017–0056, choices002/003;wholethread100760010",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:003u0002–0052/wholethread100760170;005u0001–0036/wholethread100760330",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:002u0009/choice003;003u0001–0040/wholethread160020090",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:005/006/015 andcompletecodas;10076:006u0059–0065",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1401–1403, noSenseiaction",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "noSenseiaction",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0002–0148",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1401–1403,19declaredactorseams",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene001u0002–0011;scene002u0012–0148;scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1402u0024–0061;1403u0013–0072",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "817:006/007;L78–79",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_817/BLUE_ARCHIVE_EVENT_817_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E17",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0019–0040",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_007_DEEP_READING.md",
+        "source_id": "E18007",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0029–0057/0123–0140",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:002u0017–0030;005u0001–0055;015u0049–0055;10076:003u0002–0035",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L231–245;10076:003/005/006;16002:002/005/006",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L213;10076:002/005/006;16002:005/006/015",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "declared19actorseams",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "declaredwitnessesu0091/0106",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0072–0078",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E012_DEEP_READING.md",
+        "source_id": "P212",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "boundaryandscene002/003anomalies",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "whole810:068argument,JP/KRparagraphandu0001–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "writtencontextandL213–237",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "10076:002/003/005/006;16002:002/003/005/006",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0011–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "16002:002u0041–0053;003u0027–0040;10076:003u0017–0052",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1401,foodandprojectpleasure",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002/003",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1402/1403",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0058–0140",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_EPISODE_009_DEEP_READING.md",
+        "source_id": "E18009",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene002u0032–0052",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_E017_DEEP_READING.md",
+        "source_id": "P217",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0001–0019",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C003_E007_DEEP_READING.md",
+        "source_id": "F307",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L191–213;10076:006;16002:006",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "scene003u0001–0014",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_E007_DEEP_READING.md",
+        "source_id": "P107",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0011–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L201–245;completeprivateendings",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "1401–1403",
+        "relative_target": "../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+        "source_id": "G14",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "u0028–0029",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_EPISODE_068_80000068_DEEP_READING.md",
+        "source_id": "L68",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L142–157",
+        "relative_target": "../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+        "source_id": "K21",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "L23–40currentauthorityonly",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_818/BLUE_ARCHIVE_EVENT_818_CONTEXTUALIZATION_CHECKPOINT.md",
+        "source_id": "E18",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "CurrentCycle008authority",
+        "relative_target": "../../02%20Sequential%20Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "source_id": "A04",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Current810normalcomparison",
+        "relative_target": "../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+        "source_id": "E10",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "CurrentPavaneacceptednormalmeaning",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_002_%E6%99%82%E8%A8%88%E3%81%98%E3%81%8B%E3%81%91%E3%81%AE%E8%8A%B1%E3%81%AE%E3%83%91%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%8C/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "PW",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "CurrentFinalacceptednormalmeaning",
+        "relative_target": "../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "resolved_repository_relative_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_PHASE2_CONTEXTUALIZATION_WORKING_ACCOUNT.md",
+        "source_id": "F00",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Architecture7.1,all11dimensions",
+        "relative_target": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "resolved_repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "source_id": "A01",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Methodandsourcecustody",
+        "relative_target": "../../00%20Frameworks%20and%20Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "resolved_repository_relative_path": "series/blue-archive/00 Frameworks and Methods/BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+        "source_id": "A02",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "Originalfourteengaps",
+        "relative_target": "../../01%20Source%20Lock%20and%20Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "resolved_repository_relative_path": "series/blue-archive/01 Source Lock and Inventory/BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+        "source_id": "A03",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      },
+      {
+        "label": "355/29scopeauthority,allocationnotcompletion",
+        "relative_target": "../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "resolved_repository_relative_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+        "source_id": "C06",
+        "resolution_base": "PROPOSED_CANONICAL_CHARACTER_HOME_NOT_C_AUTHOR_DIRECTORY"
+      }
+    ],
+    "source_authority": "Current Cycle008 and K21/public normal owners admit registered meanings WITH LIMITS. Original counts, pending headers, source credits and historical custody remain attributed and immutable; whole analytical arguments are not new primary receiving.",
+    "complete_saved_body_receiving": {
+      "initial_bytes": 58258,
+      "initial_sha256": "00b36065cc40c7104dc69c787b836bc2c43c4f133fea126d4506eb1b349f06c6",
+      "initial_characters": 57957,
+      "spans": [
+        [
+          0,
+          16000,
+          "924896"
+        ],
+        [
+          16000,
+          32000,
+          "a68fcf"
+        ],
+        [
+          32000,
+          48000,
+          "f6c367"
+        ],
+        [
+          48000,
+          57957,
+          "4ff232"
+        ]
+      ],
+      "through_EOF": true,
+      "narrow_correction": "7823fd received the whole changed written-repertoire paragraph, removing unsupported costume practice. c6e09c received the whole final custody paragraph removing unused017 from the necessary arguments, and every exact original gap label. All other initial body bytes retain complete four-span receiving."
+    },
+    "excluded_negative_routes": "E818010, F315 and P213 provide collective context only, not Kotori appearance credit. P219 unnamed gift is Utaha-specific. E818017 was received historically but is unused here. Mechanical810068 positive header was an internal inquiry aid; no inherited mechanical metadata or primary credit. Unrecognized E18009 reader asserted before R read; successful009 whole88460e is the actual receiving scope.",
+    "all_fourteen_OPEN_gaps": {
+      "G01": {
+        "original_topic": "Ordinary and private breadth",
+        "state": "OPEN",
+        "saved_table_line": 138
+      },
+      "G02": {
+        "original_topic": "Yuuka council/club decision transfer",
+        "state": "OPEN",
+        "saved_table_line": 139
+      },
+      "G03": {
+        "original_topic": "Serika service, peer and reciprocity range",
+        "state": "OPEN",
+        "saved_table_line": 140
+      },
+      "G04": {
+        "original_topic": "Hina crisis causality, accountability and ordinary contrast",
+        "state": "OPEN",
+        "saved_table_line": 141
+      },
+      "G05": {
+        "original_topic": "Arius and PS68 ordinary/aftermath transfer",
+        "state": "OPEN",
+        "saved_table_line": 142
+      },
+      "G06": {
+        "original_topic": "Cross-school ordinary repertoire",
+        "state": "OPEN",
+        "saved_table_line": 143
+      },
+      "G07": {
+        "original_topic": "Story-world chronology",
+        "state": "OPEN",
+        "saved_table_line": 144
+      },
+      "G08": {
+        "original_topic": "Event naming and repeat contexts",
+        "state": "OPEN",
+        "saved_table_line": 145
+      },
+      "G09": {
+        "original_topic": "Written speaker/choice attribution",
+        "state": "OPEN",
+        "saved_table_line": 146
+      },
+      "G10": {
+        "original_topic": "Performed voice",
+        "state": "OPEN",
+        "saved_table_line": 147
+      },
+      "G11": {
+        "original_topic": "Hoshino's Yume record and office states",
+        "state": "OPEN",
+        "saved_table_line": 148
+      },
+      "G12": {
+        "original_topic": "Counterpart, system and variant identity",
+        "state": "OPEN",
+        "saved_table_line": 149
+      },
+      "G13": {
+        "original_topic": "Office, contract, safety and technical outcomes",
+        "state": "OPEN",
+        "saved_table_line": 150
+      },
+      "G14": {
+        "original_topic": "Unclassified/mode continuity",
+        "state": "OPEN",
+        "saved_table_line": 151
+      }
+    },
+    "nine_unbound_large": "UNREAD_UNHASHED_UNUSED",
+    "new_primary_raw_native_performed_model_independent_credit": 0,
+    "R_Git_provider_global_writes": 0,
+    "ROOT_acceptance": "PENDING",
+    "ROOT_adoption": "PENDING",
+    "scope_N_quarter_namedsection_relation_institution_credit": 0
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "current_required_home": "P3-CHAR-KOTORI",
+  "root_exact_acceptance_record": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "fixed_publication_snapshot": "Nine already ROOT-accepted packages55–63 only; after full ROOT installation63=62characters+1directedrelationship. Later live ROOT reviews excluded.",
+  "historical_author_delivery_attachments": {
+    "KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json": {
+      "schema": "KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+      "body": {
+        "file": "BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 58396,
+        "line_count": 151,
+        "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+        "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+      },
+      "all_eleven_sections": [
+        {
+          "line": 22,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 30,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 40,
+          "heading": "## 3. Public self, private self, and interpretation"
+        },
+        {
+          "line": 50,
+          "heading": "## 4. Millennium and Engineering: knowledge, resources and ownership"
+        },
+        {
+          "line": 60,
+          "heading": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling"
+        },
+        {
+          "line": 72,
+          "heading": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair"
+        },
+        {
+          "line": 84,
+          "heading": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits"
+        },
+        {
+          "line": 96,
+          "heading": "## 8. Major peers and independent recipients"
+        },
+        {
+          "line": 108,
+          "heading": "## 9. Japanese written voice and source-mode limits"
+        },
+        {
+          "line": 118,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 130,
+          "heading": "## 11. Evidence route, open gaps and completeness"
+        }
+      ],
+      "complete_saved_paragraph_joins": [
+        {
+          "saved_paragraph_id": "KOTORI-P001",
+          "saved_line": 24,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "953776ff48215009944d33dd4d02bb7233984ef54d9aa36f265614e08fa56562",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:002/003/005/006/015;10076:006;L201–245"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P002",
+          "saved_line": 26,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "27b6867b9e0c1e61868b96d735fcb97931394b1948e371542996e79bf280c8e5",
+          "source_ids": [
+            "G14",
+            "L68",
+            "P107"
+          ],
+          "inline_locators": [
+            "1401–1403, device pleasure and disputed ownership",
+            "scene002u0044–0148;scene003u0001–0014",
+            "810:068u0011–0029"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P003",
+          "saved_line": 28,
+          "section": "## 1. Core thesis",
+          "paragraph_sha256": "3e1c14de162a38b776331df44a20f6cf6006533a192c6b0bf5676e6385cf8180",
+          "source_ids": [
+            "G14",
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:003/006;16002:015;written10076/16002;L205–237",
+            "1402–1403, concealment and retaliation"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P004",
+          "saved_line": 32,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "4fc4ea2c3aa97c9aa4639746f92cdba389aaec27765f493354afe0764ca3e5dc",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:002u0017–0056/thread100760010;003u0002–0052/thread100760170;005u0014–0036/thread100760330"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P005",
+          "saved_line": 34,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "ca792f55d5e63bd341bd2d9f50fe868316a0dbdbb0b673ac6423481d339df37e",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "L191–213;16002:002/003/005/006/015;10076:006"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P006",
+          "saved_line": 36,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "f5b3b929dac5d5dad8697560452b3241a077e4f7bc78147ac6147584d71c4949",
+          "source_ids": [
+            "P107",
+            "P212",
+            "P213",
+            "P217",
+            "P223"
+          ],
+          "inline_locators": [
+            "scene002u0002–0148;scene003u0001–0014",
+            "u0047–0082",
+            "u0036–0055",
+            "scene002u0032–0052",
+            "u0018–0047"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P007",
+          "saved_line": 38,
+          "section": "## 2. Longitudinal arc and legitimate ordering",
+          "paragraph_sha256": "69c8923bd8de1ec8e8493b2d12660fed5a26f2c900d132ee2e7bf7944f9ae65d",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009",
+            "E18010",
+            "F00",
+            "L68"
+          ],
+          "inline_locators": [
+            "817:006–011;L78–83",
+            "u0019–0040",
+            "u0058–0140",
+            "u0001–0018",
+            "L162–175;310–337",
+            "u0016–0029"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P008",
+          "saved_line": 42,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "de248e5cab7f040284d0bddc98c74d0423fd595d06b343bd709a7261dc57ba6c",
+          "source_ids": [
+            "E18009",
+            "F216",
+            "P107"
+          ],
+          "inline_locators": [
+            "scene002u0044–0105",
+            "u0058–0067",
+            "u0001–0014"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P009",
+          "saved_line": 44,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "75039b2579e390a2afeaff5f926f87691d508185c9252de49776c2adc6bc0a40",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:006u0001–0058/thread160020260;L209–241"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P010",
+          "saved_line": 46,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "36d6234d884302ed5bd4d01273b4b8396cda98e2cf12d9e5f806d33f4dd93f26",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:005u0001–0055/thread160020130, especiallymessage160020240:1296"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P011",
+          "saved_line": 48,
+          "section": "## 3. Public self, private self, and interpretation",
+          "paragraph_sha256": "406d2036ca92bdd6995b68c83c9e3d23ae9062186f832dc42dc6818da8c1ff18",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:006u0011–0021/0033/0049/0059–0065;thread100760480"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P012",
+          "saved_line": 52,
+          "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+          "paragraph_sha256": "ee0deab9ba9aa7e5f3fd86c39ee49dc3842ef32f069ba201bef45d16d7ed938c",
+          "source_ids": [
+            "P107"
+          ],
+          "inline_locators": [
+            "scene001u0002–0011;scene002u0044–0148;scene003u0001–0014"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P013",
+          "saved_line": 54,
+          "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+          "paragraph_sha256": "00722873f4a07bce98a0b63aab80276f147cd6bfb821d245aa42789eb89eca8f",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "1401u0007/0016–0025/0050–0054;1402u0024–0061"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P014",
+          "saved_line": 56,
+          "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+          "paragraph_sha256": "87813e50d38d266027824b5eb7b626745b6d288a1278f6cef6a4618832b46737",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "1403, particularlyu0013–0038 andu0072;currentL70–125"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P015",
+          "saved_line": 58,
+          "section": "## 4. Millennium and Engineering: knowledge, resources and ownership",
+          "paragraph_sha256": "447a33942f05f61f22d0d73b84e0dcfe5b0739f79995115e61b84bb30e3c69c0",
+          "source_ids": [
+            "E18009",
+            "E18010"
+          ],
+          "inline_locators": [
+            "u0058–0067/0079–0140;declaredactorwitnessesu0091/0106",
+            "u0001–0018"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P016",
+          "saved_line": 62,
+          "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+          "paragraph_sha256": "a449ea762ff254f308ccfc2aaa43364943b6205b308985366a640c395143b149",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:002u0041–0053;003u0027–0040/thread160020090"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P017",
+          "saved_line": 64,
+          "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+          "paragraph_sha256": "1e6a7fd26f3068968cc29e75c0af0f7caa3f65eaa03c95e10d44068f49e23cdc",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:003u0017–0052/thread100760170;006u0011–0065"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P018",
+          "saved_line": 66,
+          "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+          "paragraph_sha256": "431aaecfa00a1da1e5e60602dbd1da589d71a499f000bf3ed54c85ed19bbd111",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:005u0014–0036/thread100760330;16002:015u0013–0056/thread160020380"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P019",
+          "saved_line": 68,
+          "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+          "paragraph_sha256": "73e3a9708337df77d53ff6f0f2ba1333a6e96e529b926b7a6773bd4563848618",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "written10076:6484–6513;written16002:1718–1750 andfallback000001/000002;costume1900917201context817/10817/900817"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P020",
+          "saved_line": 70,
+          "section": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling",
+          "paragraph_sha256": "eef92a2a2d25f67a0622852edfa211c7edd0eaaa7334d5e9461a1c84e9cdc4b0",
+          "source_ids": [
+            "L68"
+          ],
+          "inline_locators": [
+            "810:068u0001–0029, choices001/003 andJP/KRqualifications"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P021",
+          "saved_line": 74,
+          "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+          "paragraph_sha256": "2368215f9fdd837fef78c1da6cd69849b21cd9ef2aa229a899a4ae9daadc6af5",
+          "source_ids": [
+            "P212",
+            "P213"
+          ],
+          "inline_locators": [
+            "u0047–0082, particularlyu0072–0078",
+            "u0036–0055"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P022",
+          "saved_line": 76,
+          "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+          "paragraph_sha256": "5125ebc03501d4ade3eb0406628541dadef5686321ca98d056a594d8e96bfeb5",
+          "source_ids": [
+            "P217",
+            "P219",
+            "P223"
+          ],
+          "inline_locators": [
+            "scene002u0032–0052",
+            "u0078–0084",
+            "u0018–0047"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P023",
+          "saved_line": 78,
+          "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+          "paragraph_sha256": "e114ccaa708d77ee6e2b90c27b0b6daa73caf2cedd317023fe22d7b5542fe21d",
+          "source_ids": [
+            "E18007",
+            "E18009",
+            "E18010"
+          ],
+          "inline_locators": [
+            "u0019–0040",
+            "u0058–0140",
+            "u0001–0018"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P024",
+          "saved_line": 80,
+          "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+          "paragraph_sha256": "296a5fa5d6f60efe16f539e41ec3c384e0b32ee32c59c6e9c3b45a77fe68736b",
+          "source_ids": [
+            "F00",
+            "F216",
+            "F307",
+            "F315"
+          ],
+          "inline_locators": [
+            "u0001–0014",
+            "u0001–0019",
+            "u0027–0076",
+            "L162–175;207–239;310–337"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P025",
+          "saved_line": 82,
+          "section": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair",
+          "paragraph_sha256": "01571d49110ce29bdd2ac6c8c8d8ca0dbd7a1aded7f7209e90e61178a368931c",
+          "source_ids": [
+            "E17",
+            "E18010",
+            "L68",
+            "P107",
+            "P223"
+          ],
+          "inline_locators": [
+            "scene003u0001–0014",
+            "u0018–0047",
+            "L78–83",
+            "u0001–0018",
+            "u0028–0029"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P026",
+          "saved_line": 86,
+          "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+          "paragraph_sha256": "b35d46ef60f8944c7d8789f2ed6e5d1f76db4774dc03b78772c33d67b235839e",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:002u0017–0056, choices002/003;wholethread100760010"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P027",
+          "saved_line": 88,
+          "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+          "paragraph_sha256": "6a255b260e0793fc7cfb87ff54571dd0f8c4aa69b350454d0a3cac78e1c06208",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "10076:003u0002–0052/wholethread100760170;005u0001–0036/wholethread100760330"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P028",
+          "saved_line": 90,
+          "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+          "paragraph_sha256": "3ebb03569a9dc7028a283da807f3cac7b90d2115d452e3ed4b0d6b2735fe7a25",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:002u0009/choice003;003u0001–0040/wholethread160020090"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P029",
+          "saved_line": 92,
+          "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+          "paragraph_sha256": "cc5903c12b25a6ad53fd667d54d74777dba5b7e85c4d7b0a97916997551c1093",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:005/006/015 andcompletecodas;10076:006u0059–0065"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P030",
+          "saved_line": 94,
+          "section": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits",
+          "paragraph_sha256": "d46d93db4f7c8fa4721470662f6123f0ce9e313085f33801b1fcdf6116a7eaf1",
+          "source_ids": [
+            "G14",
+            "L68",
+            "P107"
+          ],
+          "inline_locators": [
+            "u0001–0029",
+            "1401–1403, noSenseiaction",
+            "noSenseiaction"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P031",
+          "saved_line": 98,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "fd30773ca18686ad4cd4e2b057df34755302bbac59e2fcee9b227f9553bd05bf",
+          "source_ids": [
+            "G14",
+            "P107"
+          ],
+          "inline_locators": [
+            "scene002u0002–0148",
+            "1401–1403,19declaredactorseams"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P032",
+          "saved_line": 100,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "093ebf6fe4bf638000e1c6d1df53c4e6c9523f7a330a4e561c23f07ff176767d",
+          "source_ids": [
+            "P107"
+          ],
+          "inline_locators": [
+            "scene001u0002–0011;scene002u0012–0148;scene003u0001–0014"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P033",
+          "saved_line": 102,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "4d77384df5c2cb76da5e61abc242ff8787707bc155583fb65d74051bb36fee23",
+          "source_ids": [
+            "G14"
+          ],
+          "inline_locators": [
+            "1402u0024–0061;1403u0013–0072"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P034",
+          "saved_line": 104,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "c9665c46fd50833bfb5ef6d0609c789449fb8414bf083f38a97c9d8316691ad6",
+          "source_ids": [
+            "E17",
+            "E18007",
+            "E18009"
+          ],
+          "inline_locators": [
+            "817:006/007;L78–79",
+            "u0019–0040",
+            "u0029–0057/0123–0140"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P035",
+          "saved_line": 106,
+          "section": "## 8. Major peers and independent recipients",
+          "paragraph_sha256": "e7bbf9807850d3d6bdb015f2535ea9ad9e2f5d2fa8805be09a29a9ba1948b2e2",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:002u0017–0030;005u0001–0055;015u0049–0055;10076:003u0002–0035"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P036",
+          "saved_line": 110,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "4fc454343cc747e0ff6e0e5641c446648981618f9eaf1867c5aa5b17786daea4",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "L231–245;10076:003/005/006;16002:002/005/006"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P037",
+          "saved_line": 112,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "6f72dd7f96b1e7617df3a47e5efc7914fce1546dcfc65d353ef1510d4808afec",
+          "source_ids": [
+            "K21"
+          ],
+          "inline_locators": [
+            "L213;10076:002/005/006;16002:005/006/015"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P038",
+          "saved_line": 114,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "fbba764097e93aead8bbeb564187f6f42ebeb287cb05c31afa9765028a864a24",
+          "source_ids": [
+            "E18009",
+            "G14",
+            "P107",
+            "P212"
+          ],
+          "inline_locators": [
+            "declared19actorseams",
+            "declaredwitnessesu0091/0106",
+            "u0072–0078",
+            "boundaryandscene002/003anomalies"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P039",
+          "saved_line": 116,
+          "section": "## 9. Japanese written voice and source-mode limits",
+          "paragraph_sha256": "8a7d545a6e3c5e2aab2bfdb6dcac5db0833dd4e930c6967f0b8b6c7d0b12a2a6",
+          "source_ids": [
+            "K21",
+            "L68"
+          ],
+          "inline_locators": [
+            "whole810:068argument,JP/KRparagraphandu0001–0029",
+            "writtencontextandL213–237"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P040",
+          "saved_line": 120,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "45cd77f32dacc610fd505874245897a1d9e37033b1959a90b23403166aae17b5",
+          "source_ids": [
+            "K21",
+            "L68"
+          ],
+          "inline_locators": [
+            "10076:002/003/005/006;16002:002/003/005/006",
+            "u0011–0029"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P041",
+          "saved_line": 122,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "901f15c7ee827707d18681ba2150836941942c58febeb91cbf455dd0a0772c8f",
+          "source_ids": [
+            "G14",
+            "K21"
+          ],
+          "inline_locators": [
+            "16002:002u0041–0053;003u0027–0040;10076:003u0017–0052",
+            "1401,foodandprojectpleasure"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P042",
+          "saved_line": 124,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "78462b76a7af95d0fc471efd06774652302db5d8b4c4323e50c471c0076ba8ff",
+          "source_ids": [
+            "E18009",
+            "F307",
+            "G14",
+            "P107",
+            "P217"
+          ],
+          "inline_locators": [
+            "scene002/003",
+            "1402/1403",
+            "u0058–0140",
+            "scene002u0032–0052",
+            "u0001–0019"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P043",
+          "saved_line": 126,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "a378fa2fd1a71169dfa669d4f69f4e2852b67f506e970dfc9b7553e2e0fa8e5d",
+          "source_ids": [
+            "K21",
+            "L68",
+            "P107"
+          ],
+          "inline_locators": [
+            "L191–213;10076:006;16002:006",
+            "scene003u0001–0014",
+            "u0011–0029"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P044",
+          "saved_line": 128,
+          "section": "## 10. Competing readings and evidential judgment",
+          "paragraph_sha256": "eec9929f59ed93c61aecb3b263b5a24d8a677d1b44aef0a61cab060a1162c130",
+          "source_ids": [
+            "G14",
+            "K21",
+            "L68"
+          ],
+          "inline_locators": [
+            "L201–245;completeprivateendings",
+            "1401–1403",
+            "u0028–0029"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P045",
+          "saved_line": 132,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "4f16fbb49f03aadba30f2b4b4ae07de0698723d4ce62aea8f67203468b7964c5",
+          "source_ids": [
+            "A04",
+            "E10",
+            "E18",
+            "F00",
+            "K21",
+            "PW"
+          ],
+          "inline_locators": [
+            "L142–157",
+            "L23–40currentauthorityonly",
+            "CurrentCycle008authority",
+            "Current810normalcomparison",
+            "CurrentPavaneacceptednormalmeaning",
+            "CurrentFinalacceptednormalmeaning"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        },
+        {
+          "saved_paragraph_id": "KOTORI-P046",
+          "saved_line": 134,
+          "section": "## 11. Evidence route, open gaps and completeness",
+          "paragraph_sha256": "6f6830b8d37faee439ed8e92eecb32803737575233c18b33eb463c8a5c9f56d4",
+          "source_ids": [
+            "A01",
+            "A02",
+            "A03",
+            "C06"
+          ],
+          "inline_locators": [
+            "Architecture7.1,all11dimensions",
+            "Methodandsourcecustody",
+            "Originalfourteengaps",
+            "355/29scopeauthority,allocationnotcompletion"
+          ],
+          "qualification": "Full saved paragraph actually received. Exact source IDs and hashes are retrieval/projection aids, not automatic semantic proof or custody transfer; interpretation and adverse/unfinished evidence are in the actual prose.",
+          "ROOT_acceptance": "PENDING"
+        }
+      ],
+      "consequential_endpoint_review": [
+        {
+          "id": "KOTORI-E01",
+          "source_id": "K01",
+          "locators": "10076:002u0017–0056; whole thread100760010",
+          "affirmative_ending": "Actual shared stretching and easier movement; complete coda credits her initiative as useful",
+          "contrary_or_unfinished_tail": "Failed demonstration and pain; initial surprise assistance; no lasting physical or clinical competence",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E02",
+          "source_id": "K02",
+          "locators": "10076:003u0002–0052; whole thread100760170",
+          "affirmative_ending": "Empty queue, adult rest and wanted company until appointment",
+          "contrary_or_unfinished_tail": "Customer departure is Kotori report; complaints not shown resolved; alternatives not fused; complete coda retains uncertainty",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E03",
+          "source_id": "K03",
+          "locators": "10076:005u0014–0036; whole thread100760330",
+          "affirmative_ending": "Actual narrated sleep, company and renewed energy, with later embarrassed trust",
+          "contrary_or_unfinished_tail": "Inward adult account licenses topic rather than certified whole speech; full revival report is not clinical causation",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E04",
+          "source_id": "K04",
+          "locators": "10076:006u0011–0065; whole thread100760480",
+          "affirmative_ending": "Sports difficult but bustle enjoyed; actual sunset admiration and firm refusal to explain",
+          "contrary_or_unfinished_tail": "Tentative loneliness and skepticism about adult uniqueness framing; italic closing company request not accepted on page; no added coda",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E05",
+          "source_id": "K05",
+          "locators": "16002:002u0009/0017–0030/0041–0053; whole thread160020010",
+          "affirmative_ending": "Explicit wish for recipient understanding and continued shared joy",
+          "contrary_or_unfinished_tail": "Two actual stop requests and departures; lecture hall is an aspiration, not actual audience; renewed talk gives no proven adult flight",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E06",
+          "source_id": "K06",
+          "locators": "16002:003u0027–0040; whole thread160020090",
+          "affirmative_ending": "Enjoyable narrated digression for nearly an hour; actual continuation until her satisfaction",
+          "contrary_or_unfinished_tail": "Past listener flight is reported; universal rejection and adult kindness motive are her inferences; no unlimited attention contract",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E07",
+          "source_id": "K07",
+          "locators": "16002:005u0037–0055; whole thread160020130/message160020240:1296",
+          "affirmative_ending": "Actual adult non-return, solved-it message and explicit secret",
+          "contrary_or_unfinished_tail": "Anonymous girl not joined to Kotori; interrupted analogy is not full confession; no enacted peer counseling or proven bathroom destination",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E08",
+          "source_id": "K08",
+          "locators": "16002:006u0043–0058; whole thread160020260",
+          "affirmative_ending": "Actual departure/non-return, unknown completion estimate and delay until ready",
+          "contrary_or_unfinished_tail": "No immediate final answer; narrator/inward modes retained; no absence of all hobbies or clinical mute diagnosis",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E09",
+          "source_id": "K09",
+          "locators": "16002:015u0013–0056; whole thread160020380",
+          "affirmative_ending": "Hesitant account, glasses kept for unnamed happy effect, actual chat and light meal",
+          "contrary_or_unfinished_tail": "Repair report is not an optical test; familiar people fleeing is her report; no fixed romance, mechanism or added coda",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E10",
+          "source_id": "K10",
+          "locators": "Written10076:profile/6484–6513",
+          "affirmative_ending": "Crowds, speaking, outfit gaze condition, birthday remembrance and bodily difference",
+          "contrary_or_unfinished_tail": "Written repertoire is not an enacted annual diary; no presumed consent to touch or new clinical scene",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E11",
+          "source_id": "K11",
+          "locators": "Written16002:profile/1718–1750/fallback000001/000002",
+          "affirmative_ending": "Knowledge light qualified against glitter; candy limits, learning, questions and unfinished self-story",
+          "contrary_or_unfinished_tail": "Machine trouble explanation is not repair; no invented fallback numbers, enacted weapon use or continuous growth ladder",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E12",
+          "source_id": "K12",
+          "locators": "Costume1900917201:10076:context817/10817/900817",
+          "affirmative_ending": "Written cheering, question, completion feeling and contact embarrassment within13/13/9 contexts",
+          "contrary_or_unfinished_tail": "No actual poking, energy result or three enacted events; no added shorter-set lines or biography from empty profile",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E13",
+          "source_id": "L68",
+          "locators": "810:068u0001–0029; choices001/003",
+          "affirmative_ending": "Purposeful chocolate reproduction, invited company, actual delicious shared eating and abundant explanation",
+          "contrary_or_unfinished_tail": "Origin authenticity and recipe unverified; no fixed reform law; Japanese/Korean differences and invitation alternatives retained",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E14",
+          "source_id": "G14",
+          "locators": "1401–1403; current153-line argument",
+          "affirmative_ending": "Differentiated taste, enjoyed making, completed device, ownership discovery and confrontation",
+          "contrary_or_unfinished_tail": "19 actor seams; initial ownership assumption is not early knowledge; concealment is not Neru assent; console repair promise unacted; harm/liability unclosed",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E15",
+          "source_id": "E17",
+          "locators": "817:006/007/008–011; currentL78–83",
+          "affirmative_ending": "Only Utaha gakuran complete; earlier Hibiki/Kotori clothes; specific explanation wish and reached opening",
+          "contrary_or_unfinished_tail": "Not all three new costumes fulfilled; no unanimous pleasure or permanent robot repair",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E16",
+          "source_id": "E18007",
+          "locators": "818:007u0019–0040",
+          "affirmative_ending": "Kotori cheering versus race commitment; independent Hanae useful-care and Hibiki unease",
+          "contrary_or_unfinished_tail": "No single Engineering doctrine or proven fun for everyone",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E17",
+          "source_id": "E18009",
+          "locators": "818:009u0058–0140; actoru0091/u0106",
+          "affirmative_ending": "Hurried fuse, testing wish, robot failure, response and report demand",
+          "contrary_or_unfinished_tail": "No Kotori attribution of raw Hibiki line; no Yuuka attack order, separately shown rocket firing or final battle result",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E18",
+          "source_id": "E18010",
+          "locators": "818:010u0001–0018",
+          "affirmative_ending": "Collective actual evacuation, captives and injured care; track/engine destruction report",
+          "contrary_or_unfinished_tail": "No secure Kotori turn or new appearance credit; total injury count, permanent repair and liability stay unclosed",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E19",
+          "source_id": "P107",
+          "locators": "V002C001E007scene002u0044–0148; scene003u0001–0014",
+          "affirmative_ending": "Budget/material limits, unsafe indoor firing and ceiling damage; actual passed test, Kotori concession and Alice possession",
+          "contrary_or_unfinished_tail": "Numbers reported rather than measured; late condition is not clearly disclosed advance consent; precise test tactics unprinted",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E20",
+          "source_id": "P212/P213",
+          "locators": "V002C002E012u0047–0082/u0072–0078; E013u0036–0055",
+          "affirmative_ending": "Conditional group freight plan and consequent arrival",
+          "contrary_or_unfinished_tail": "Role flips prevent certified Kotori hidden motive; no complete-system stealth, calibrated forecast or solitary route authorship",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E21",
+          "source_id": "P217/P219/P223",
+          "locators": "V002C002E017scene002u0032–0052; E019u0078–0084; E023u0018–0047",
+          "affirmative_ending": "Local victory, group reported exhaustion, handoff and later actual return/help",
+          "contrary_or_unfinished_tail": "Inward adult promise is not secure whole speech; unnamed Utaha gift not Kotori gift or proven escape cause; technical audit and total defeat unshown",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E22",
+          "source_id": "F216/F307",
+          "locators": "V100C002E016u0001–0014; C003E007u0001–0019",
+          "affirmative_ending": "Kotori control question after Himari denial; Engineering limited manual proposal",
+          "contrary_or_unfinished_tail": "Unidentified AMAS not all Rio; proposal not finished manual, reverse-engineering or safe-engine certification",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        },
+        {
+          "id": "KOTORI-E23",
+          "source_id": "F315/F00",
+          "locators": "V100C003E015u0027–0076; F00L162–175/207–239/310–337",
+          "affirmative_ending": "Collective Final repair and survival context at the complete accepted normal boundary",
+          "contrary_or_unfinished_tail": "No Kotori sole rescue authorship, all-person recovery or implementation of all engineering promises",
+          "author_semantic_receiving": "COMPLETE_AT_DECLARED_ANALYTICAL_SCOPE_NO_PRIMARY_TRANSFER"
+        }
+      ],
+      "rival_review": {
+        "whole_section": 10,
+        "readings": [
+          "compulsive explanation",
+          "perfect helper",
+          "attention seeking",
+          "pure self-sacrifice",
+          "technical genius",
+          "incompetent engineer",
+          "linear reform",
+          "no learning",
+          "romantic confession",
+          "adult rescue",
+          "institution only"
+        ],
+        "judgment": "The complete prose preserves wanted mutual understanding and ordinary goods alongside actual refusal, secrecy, delay, successful gift adaptation, public costs, ownership and uncertain knowledge. No verdict follows from stakes, model grade, school or source count."
+      },
+      "all_fourteen_OPEN_gaps": {
+        "G01": {
+          "original_topic": "Ordinary and private breadth",
+          "state": "OPEN",
+          "saved_table_line": 138
+        },
+        "G02": {
+          "original_topic": "Yuuka council/club decision transfer",
+          "state": "OPEN",
+          "saved_table_line": 139
+        },
+        "G03": {
+          "original_topic": "Serika service, peer and reciprocity range",
+          "state": "OPEN",
+          "saved_table_line": 140
+        },
+        "G04": {
+          "original_topic": "Hina crisis causality, accountability and ordinary contrast",
+          "state": "OPEN",
+          "saved_table_line": 141
+        },
+        "G05": {
+          "original_topic": "Arius and PS68 ordinary/aftermath transfer",
+          "state": "OPEN",
+          "saved_table_line": 142
+        },
+        "G06": {
+          "original_topic": "Cross-school ordinary repertoire",
+          "state": "OPEN",
+          "saved_table_line": 143
+        },
+        "G07": {
+          "original_topic": "Story-world chronology",
+          "state": "OPEN",
+          "saved_table_line": 144
+        },
+        "G08": {
+          "original_topic": "Event naming and repeat contexts",
+          "state": "OPEN",
+          "saved_table_line": 145
+        },
+        "G09": {
+          "original_topic": "Written speaker/choice attribution",
+          "state": "OPEN",
+          "saved_table_line": 146
+        },
+        "G10": {
+          "original_topic": "Performed voice",
+          "state": "OPEN",
+          "saved_table_line": 147
+        },
+        "G11": {
+          "original_topic": "Hoshino's Yume record and office states",
+          "state": "OPEN",
+          "saved_table_line": 148
+        },
+        "G12": {
+          "original_topic": "Counterpart, system and variant identity",
+          "state": "OPEN",
+          "saved_table_line": 149
+        },
+        "G13": {
+          "original_topic": "Office, contract, safety and technical outcomes",
+          "state": "OPEN",
+          "saved_table_line": 150
+        },
+        "G14": {
+          "original_topic": "Unclassified/mode continuity",
+          "state": "OPEN",
+          "saved_table_line": 151
+        }
+      },
+      "ROOT_acceptance": "PENDING",
+      "relation_institution_namedsection_N_quarter_credit": 0
+    },
+    "KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json": {
+      "schema": "KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1",
+      "body": {
+        "file": "BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+        "byte_count": 58396,
+        "line_count": 151,
+        "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+        "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+      },
+      "format": "UTF8_LF_NO_BOM_ONE_FINAL_LF",
+      "eleven_sections": [
+        {
+          "line": 22,
+          "heading": "## 1. Core thesis"
+        },
+        {
+          "line": 30,
+          "heading": "## 2. Longitudinal arc and legitimate ordering"
+        },
+        {
+          "line": 40,
+          "heading": "## 3. Public self, private self, and interpretation"
+        },
+        {
+          "line": 50,
+          "heading": "## 4. Millennium and Engineering: knowledge, resources and ownership"
+        },
+        {
+          "line": 60,
+          "heading": "## 5. Ordinary life: conversation, bustle, food and deliberately unsaid feeling"
+        },
+        {
+          "line": 72,
+          "heading": "## 6. Crisis behavior: initiative, exhaustion and unfinished repair"
+        },
+        {
+          "line": 84,
+          "heading": "## 7. Relationship with Sensei: willing attention, help and reciprocal limits"
+        },
+        {
+          "line": 96,
+          "heading": "## 8. Major peers and independent recipients"
+        },
+        {
+          "line": 108,
+          "heading": "## 9. Japanese written voice and source-mode limits"
+        },
+        {
+          "line": 118,
+          "heading": "## 10. Competing readings and evidential judgment"
+        },
+        {
+          "line": 130,
+          "heading": "## 11. Evidence route, open gaps and completeness"
+        }
+      ],
+      "saved_nonempty_paragraph_count": 46,
+      "saved_joins_receipt": "KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "source_scope_receipt": "KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "relative_link_count": 102,
+      "relative_link_resolution": "From the proposed canonical04 Specialist Syntheses/CHARACTERS home to exact finite R targets; no local absolute paths.",
+      "consequential_endpoints": 23,
+      "all_fourteen_gaps": "OPEN_AT_ORIGINAL_LITERAL_TOPICS",
+      "author_saved_scope": "Whole initial saved body received through EOF, plus every actual narrow changed paragraph. The full source and claim receipts and saved receipt are now received; exact joins do not establish ROOT literary acceptance. Separate author freeze follows finite verification.",
+      "ROOT_review_and_adoption": "PENDING",
+      "credits_added": 0
+    },
+    "KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json": {
+      "schema": "KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1",
+      "status": "AUTHOR_COMPLETE_BOUNDARY_ROOT_REVIEW_PENDING",
+      "package": "P3-CHAR-KOTORI",
+      "frozen_payloads": [
+        {
+          "file": "BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 58396,
+          "line_count": 151,
+          "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+          "actual_byte_blob_oid": "ee6ff7156dc2539bd46632495315e8508f44f78e"
+        },
+        {
+          "file": "KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 110593,
+          "line_count": 1932,
+          "sha256": "b90b32cdf8dc31a2be5d7969fa0490fdfa87d73a5fa9f766e99bfdefcc3296bd",
+          "actual_byte_blob_oid": "5c8297acdca2d0bfb333e3b1b917ef07ba872ccd"
+        },
+        {
+          "file": "KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 49355,
+          "line_count": 1088,
+          "sha256": "51de4cef1a3dd3b662267dc3d8a333708be34392760f75d078bbb272952431b9",
+          "actual_byte_blob_oid": "4639bdad7267779d6fb98dd9026e55435b5369fb"
+        },
+        {
+          "file": "KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 2406,
+          "line_count": 67,
+          "sha256": "e5e7e4d8b05f629b35d66971178fb488bd016d547ea49f1b339d947e85de9e38",
+          "actual_byte_blob_oid": "1b8e66309744135888d8d8f54f114913417358e4"
+        }
+      ],
+      "complete_saved_body_receiving": {
+        "initial_bytes": 58258,
+        "initial_characters": 57957,
+        "initial_sha256": "00b36065cc40c7104dc69c787b836bc2c43c4f133fea126d4506eb1b349f06c6",
+        "actual_complete_character_spans": [
+          [
+            0,
+            16000,
+            "924896"
+          ],
+          [
+            16000,
+            32000,
+            "a68fcf"
+          ],
+          [
+            32000,
+            48000,
+            "f6c367"
+          ],
+          [
+            48000,
+            57957,
+            "4ff232"
+          ]
+        ],
+        "complete_narrow_corrections": "7823fd whole written paragraph removes unsupported costume practice; c6e09c whole custody paragraph removes unused017 and all fourteen table labels receive exact original stable names. No unreceived changed body paragraph.",
+        "final_sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+        "completeness": "Complete initial saved literary body through EOF plus every exact changed paragraph; current final body is bound by all46 saved paragraph joins and the14 exact table rows."
+      },
+      "complete_source_receipt_receiving": {
+        "initial_sha256": "c9d6564778d23b61436a0a5ba2bf829a6ce078036a48417b3217d48f1bcc7a7d",
+        "characters": 109061,
+        "spans": [
+          [
+            0,
+            18000,
+            "585850"
+          ],
+          [
+            18000,
+            36000,
+            "434c78"
+          ],
+          [
+            36000,
+            54000,
+            "Second batched span received; chunk identifier not retained in clipped combined wrapper"
+          ],
+          [
+            54000,
+            72000,
+            "04ffc0"
+          ],
+          [
+            72000,
+            90000,
+            "8078eb"
+          ],
+          [
+            90000,
+            109061,
+            "46b707"
+          ]
+        ],
+        "clipping_qualification": "The combined434c78/second span display clipped166 tokens at the F315 seam. Entire original source[34000,37000) received13b10a repairs it. Current final source[36000,54000) additionally received5f83f8 at exact b90b32 binding; all remaining fields were received in original spans plus exact changed fields4fbce3. No unretained identifier is invented and no missing field carried as whole credit.",
+        "final_narrow_changed_fields": "4fbce3 completely emits all six changed source metadata/custody fields, two rival fields and two saved-output fields with exact before/after tuples. No body/input-byte change.",
+        "through_EOF": true
+      },
+      "complete_claim_register_receiving": {
+        "initial_sha256": "f54ae55529314ef114408a645a87e186996b6e89e61f8e8800f11d214cd024f1",
+        "characters": 49002,
+        "spans": [
+          [
+            0,
+            18000,
+            "bb3417"
+          ],
+          [
+            18000,
+            36000,
+            "c8883c"
+          ],
+          [
+            36000,
+            49002,
+            "d12e00"
+          ]
+        ],
+        "through_EOF": true,
+        "final_rival_fields": "4fbce3 complete clarity change, no added literary claim"
+      },
+      "complete_saved_receipt_receiving": "5cd66c whole67 lines through EOF plus both final clarity/custody fields4fbce3",
+      "author_literary_review": {
+        "distinct_thesis": "Wanted mutual understanding joins conversation and usefulness to recipient willingness, personal readiness and the right to silence. Situated revision and ordinary pleasure coexist with public costs and contested ownership; the person cannot be exhausted by explanation success or failure.",
+        "ordinary_intrinsic_wants": "Happy understanding, voluntary discussion, crowds, company, rest, food, rich taste, glasses, remembered birthdays, clothes, sweets and this occasion's sunset remain positive objects of life. Chosen secrecy, delay and non-explanation remain meaningful ends rather than missing character value.",
+        "complete_private_endpoints": "All twelve original analytical arguments personally received through physical EOF, with nine complete whole-message pair endings and three written repertoires. Stop requests/departures, enjoyable can discussion, shared stretching, reported/actual rest distinctions, library non-return and secret, unknown final answer, kept glasses/actual meal and chosen sunset silence remain distinct.",
+        "public_actual_and_unfinished_ends": "Actual chocolate shared eating plus abundant explanation counters invariant rejection. Prototype gift concession follows late qualification; sauce device is completed but ownership concealment does not establish Neru assent. Group help, exhaustion, return, festival opening and actual evacuation/care survive incomplete technical audits and liability. Final practical proposal remains proposed within collective ending.",
+        "independent_peers_and_sparse_recipients": "Utaha, Hibiki, Alice, Momoi, Midori, Neru, Hanae, Maki, Kotama, Ayane, Shiroko, Hasumi, Yuuka and Himari retain their own directed reasons. Anonymous students, librarian, girl and clients preserve actual limits without identity invention. No all-agency-through-teacher framing.",
+        "serious_rivals": "Fullsection10 argues comic compulsion, perfect helper, attention seeking, self-sacrifice, genius, incompetence, linear reform, no learning, romantic confession, adult rescue and institution-only accounts against their strongest contrary endings.",
+        "source_and_actor_boundaries": "GROUP19 seams, Pavane role flips,818u0091/u0106, inward/italic/narrator forms and choice alternatives are explicitly retained. JP/KR gift wording is not harmonized; written triggers are not enacted scenes or performed voice. Variant releases do not create a fixed growth ladder.",
+        "source_authority_and_custody": "Current Cycle008 and normal accounts govern dated producer intake, counts and attributed source pins. Whole analytical receiving grants zero primary/raw/native/performed/independent/model credit. E18 is current authority/routing only; context-only MAIN/818 owners give no new Kotori appearance.",
+        "literal_gap_names": "Fresh currentA03L25–45 received443d3e. All fourteen complete original names appear verbatim in final body and receipts, with specific claim consequences and every state OPEN. Frozen Utaha/Hibiki use topic-preserving abbreviated labels and are not retroactively described as full literal names.",
+        "paragraph_verification_limit": "Exact hashes and source lists are source and saved-paragraph projection aids; they do not replace the complete literary argument or constitute ROOT independent review."
+      },
+      "finite_verification": {
+        "R_inputs": 26,
+        "local_sole_analytical_inputs": 12,
+        "selected_binding_registry": 1,
+        "owner4_semantic_erratum": 1,
+        "saved_paragraph_joins": 46,
+        "relative_links_from_proposed_canonical_home": 102,
+        "consequential_endpoint_reviews": 23,
+        "architecture_sections": 11,
+        "full_literal_original_gap_names_and_OPEN_states": 14,
+        "format": "UTF8_LF_NO_BOM_ONE_FINAL_LF_UNDER_1_MIB"
+      },
+      "prior_frozen_Engineering_witnesses_unchanged": [
+        {
+          "file": "BLUE_ARCHIVE_UTAHA_CHARACTER_MONOGRAPH.md",
+          "byte_count": 50384,
+          "line_count": 154,
+          "sha256": "7345567930a555f7f9152b6f1f25d40f17ac03720a1065f0c19ba8d09184cb05",
+          "actual_byte_blob_oid": "069e67eea0c5332679383e11cd4ce089a6488ad7"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 92196,
+          "line_count": 1668,
+          "sha256": "1445d750de0d9f4bdba9b52e0e7330ea37ad897a1d7fe1549406eb7db47d64b7",
+          "actual_byte_blob_oid": "741ca8130aa9ff9be47b29791afcb59a27e23369"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 42473,
+          "line_count": 1023,
+          "sha256": "821768e525f4b6c63acf64208be7e031a94ff6ec34c2d789d0782fe379be3acd",
+          "actual_byte_blob_oid": "d00a93c3cb03fb34c28c5115bda283c1ed3882ce"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 2332,
+          "line_count": 67,
+          "sha256": "89498c5b29248d994d5ed8b23f84242c5e1049afb1bee64f5ba40567889c3681",
+          "actual_byte_blob_oid": "f20e8acb4f86219bc99ce39a97bb381b07f68452"
+        },
+        {
+          "file": "UTAHA_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+          "byte_count": 8028,
+          "line_count": 193,
+          "sha256": "3f7b403ba76b4de5bb79ff30bcf904650b5b1aae3cc4a808036cffc58bea0d7e",
+          "actual_byte_blob_oid": "c1497a2374f73ce0287d0e8509e4e55304c139ff"
+        },
+        {
+          "file": "BLUE_ARCHIVE_HIBIKI_CHARACTER_MONOGRAPH.md",
+          "byte_count": 52132,
+          "line_count": 160,
+          "sha256": "b5e924e7e4a67cde5454c8e3e0e256c37aa90556902acadf0c8ce3dee32a492a",
+          "actual_byte_blob_oid": "4acf0ec5752c70a3697ad8f086fdc4fd0e3d096d"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+          "byte_count": 85340,
+          "line_count": 1584,
+          "sha256": "d2c57833a6964ff79163124cdb67f160ed5fa5e896509adf83e3347fdb0bb1eb",
+          "actual_byte_blob_oid": "d36074b9eb73cbeadb8950f146d8db45af7017a5"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+          "byte_count": 51519,
+          "line_count": 1163,
+          "sha256": "1e8402d124304fa6efb6a9743a55480cf31bf6afc5d25493476abcb43ecb4c26",
+          "actual_byte_blob_oid": "19601edb504649d9432490eb541d4580f6df9c5d"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+          "byte_count": 2319,
+          "line_count": 67,
+          "sha256": "7f88419113a4c70fbdf61ecd480d99a600ecd9af5162dc9bb42d9c24e9975466",
+          "actual_byte_blob_oid": "d0b03c0c9871898dfa6740a7cf9bf7736a42f2f8"
+        },
+        {
+          "file": "HIBIKI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+          "byte_count": 8525,
+          "line_count": 190,
+          "sha256": "104e47aceb6e4a9a6eac628764367903cccfa5d787477fd508d9e6a3b214bcae",
+          "actual_byte_blob_oid": "0457eb8709ed87ba62c60cb0ae030054039bf1a7"
+        }
+      ],
+      "source_snapshot": "92184703994a1950a5660654ce52d8516dbe9bf5",
+      "historical_comparands": "dbabb, c1 and main2e comparisons factor exact equal tuples explicitly; main architecture differs and later V3 controls absent in c1/main retain exact exceptions. No historical-versus-current blob confusion.",
+      "mutable_ROOT_progress": "EXCLUDED_FROM_AUTHOR_LITERARY_EVIDENCE",
+      "nine_UNBOUND_large_files": "UNREAD_UNHASHED_UNUSED",
+      "ROOT_literary_acceptance": "PENDING",
+      "ROOT_canonical_adoption": "PENDING",
+      "new_primary_raw_native_performed_model_independent_scope_N_quarter_namedsection_relation_institution_credit": 0,
+      "R_Git_provider_global_writes": 0
+    }
+  },
+  "all_complete_immutable_author_transport_tuples": [
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 58396,
+      "sha256": "6a151ab4e7d74addd9a61e337811bc2d73d7662ff808d5f1fc4c1d1edf3375e0",
+      "git_blob_oid_of_actual_bytes": "ee6ff7156dc2539bd46632495315e8508f44f78e",
+      "lines": 151,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/BLUE_ARCHIVE_KOTORI_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "ROOT_KOTORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 12851,
+      "sha256": "aaf31258ecf8e7f923f7ce05eb7015e4336ac8b98fabb65775485b7a02538737",
+      "git_blob_oid_of_actual_bytes": "e4c3576c3332ea35f364c2eb19f35d354c5e0e9e",
+      "lines": 200,
+      "immutable_transport_path": "immutable_originals/ROOT_KOTORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json",
+      "bytes": 110593,
+      "sha256": "b90b32cdf8dc31a2be5d7969fa0490fdfa87d73a5fa9f766e99bfdefcc3296bd",
+      "git_blob_oid_of_actual_bytes": "5c8297acdca2d0bfb333e3b1b917ef07ba872ccd",
+      "lines": 1932,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SOURCE_AND_AUTHOR_SCOPE_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json",
+      "bytes": 49355,
+      "sha256": "51de4cef1a3dd3b662267dc3d8a333708be34392760f75d078bbb272952431b9",
+      "git_blob_oid_of_actual_bytes": "4639bdad7267779d6fb98dd9026e55435b5369fb",
+      "lines": 1088,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_CLAIM_AND_ENDPOINT_REGISTER_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json",
+      "bytes": 2406,
+      "sha256": "e5e7e4d8b05f629b35d66971178fb488bd016d547ea49f1b339d947e85de9e38",
+      "git_blob_oid_of_actual_bytes": "1b8e66309744135888d8d8f54f114913417358e4",
+      "lines": 67,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_SAVED_OUTPUT_RECEIPT_V1.json"
+    },
+    {
+      "path": "MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 11711,
+      "sha256": "cb5e465ea708da2dcc71757c80f2e5dc618381edb0de00169cac0d00e6db5e1f",
+      "git_blob_oid_of_actual_bytes": "bd907a85be283f7bc5963c8581216bc9708eb898",
+      "lines": 232,
+      "immutable_transport_path": "immutable_originals/MILLENNIUM_ENGINEERING_MONOGRAPHS/KOTORI_MONOGRAPH_AUTHOR_COMPLETE_SAVED_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "../KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json",
+      "bytes": 1579,
+      "sha256": "3c080748830f1dac5898ead6206f1ec89e658b98724631904ae821bdc80e8edd",
+      "git_blob_oid_of_actual_bytes": "3b5f115a36c8ebd57251b92bdf679419877a510c",
+      "lines": 16,
+      "immutable_transport_path": "immutable_originals/PARENT_WORKING_ATTACHMENT/KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json"
+    }
+  ],
+  "stable_original_gap_alignment": null,
+  "immutable_ROOT_count_cause_qualification": null,
+  "mandatory_private_semantic_erratum_public_projection": {
+    "public_projection": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KOTORI_OWNER4_LITERAL_SEMANTIC_CORRECTION_PUBLIC_PROJECTION_V1.json",
+    "original_private_exact_tuple": {
+      "path": "../KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json",
+      "bytes": 1579,
+      "sha256": "3c080748830f1dac5898ead6206f1ec89e658b98724631904ae821bdc80e8edd",
+      "git_blob_oid_of_actual_bytes": "3b5f115a36c8ebd57251b92bdf679419877a510c",
+      "lines": 16,
+      "immutable_transport_path": "immutable_originals/PARENT_WORKING_ATTACHMENT/KOTORI21_COMPLETE_PRESENT_PRIVATE_SOURCE_READING_20261008_V1_917c76d1/CURRENT_KOTORI21_OWNER4_LITERAL_SEMANTIC_CORRECTION_V1.json"
+    },
+    "semantic_projection": {
+      "source_locator": "BA:bond:10076:006:scene:001:u:0011",
+      "old": "enjoyed bustle despite disliking sport",
+      "current": "enjoyed bustle despite finding sports difficult",
+      "reason": "苦手 distinguishes aptitude/difficulty from aversion; no athletic diagnostic or erased pleasure"
+    },
+    "private_original_copied_to_public": false,
+    "current_corrected_body_unchanged": true,
+    "new_source_credit": 0
+  },
+  "source_credit_rule": "All complete/bounded author and ROOT scopes remain exactly attributed. Finite complete frozen witnesses and exact source-copy tuples are preservation transports, not independently rereceived primary or narrative evidence. Current wrappers qualify original pending labels without editing originals."
+}

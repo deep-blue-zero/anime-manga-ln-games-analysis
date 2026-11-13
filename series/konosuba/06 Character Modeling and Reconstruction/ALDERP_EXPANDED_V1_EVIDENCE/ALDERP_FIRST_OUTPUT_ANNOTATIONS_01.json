@@ -1,0 +1,163 @@
+{
+  "schema": "konosuba.cohort28.original-first-annotations.v1",
+  "subject": "Alderp",
+  "recorded_utc": "2026-10-24T02:28:03.144756+00:00",
+  "source_known": true,
+  "original_output_file": "ALDERP_FIRST_OUTPUTS_01.json",
+  "original_output_sha256": "a095931bdab0d0946cd9c7c2b73d6bbb4e7a57ee1fa90e2389e4756ff401627b",
+  "cases": [
+    {
+      "case_id": "AL-H01-A",
+      "original_first_body_sha256": "583ddd7417ce4a692e6a7c36131695ddce14ff715658c27400cf472ee4627e2e",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Narrator explicitly fences attendant power; visible boundary handling but audit-like prose."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "AL-H01-B",
+      "original_first_body_sha256": "7035c4f506f88135423b963e4588f5a933a8bb1efdc2f07a81ae5d6865c5cfa6",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Adds an unspecified posted officer name,an unnecessary detail beyond the cue.",
+        "Compensation initiative is plausible but not independently sourced behavior in this exact context."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "AL-H02-A",
+      "original_first_body_sha256": "cf16cf47d78929fe42545fc72a99a891f903e10a77b6da88b4f09e8280c6170c",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "False-payment claim fits exploitative candidate but is authored under visible expectation."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "AL-H02-B",
+      "original_first_body_sha256": "ce968f990fa7fd42ef422775f41dfd157dc46a0eec0d4fe7f795021f446e826e",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Promise of bundled payment remains unperformed; no credit for generosity or settlement."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "AL-H03-A",
+      "original_first_body_sha256": "6b2058125f30223f69a825ce3270cec1b45e79f601d7ca24104e03fa358882b8",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Wish-led narration is highly aligned to visible expectation; no independent causal defense."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    },
+    {
+      "case_id": "AL-H03-B",
+      "original_first_body_sha256": "1526acb10e3fbe10c195f3b05f6027ab7a4b8a4a6cc7bae7edf6a3c324880437",
+      "word_budget_satisfied": true,
+      "word_budget_not_behavioral_success": true,
+      "observed_local_issues": [
+        "Generic appeal after strong evidence; limited specificity and explicit outcome guardpost."
+      ],
+      "narrative_fidelity_limit": "Body contains conspicuous analytic guardposts and unshown-outcome disclaimers. This preserves attribution but weakens natural scene/voice performance; do not reward caution as a character trait.",
+      "new_source_fact": false,
+      "independent_accuracy_result": null,
+      "capability_grade": null,
+      "confidence_gain": null
+    }
+  ],
+  "pairs": [
+    {
+      "pair_id": "AL-H01",
+      "primary_rule": "AL-R01",
+      "case_ids": [
+        "AL-H01-A",
+        "AL-H01-B"
+      ],
+      "actual_local_observation": "Rank-backed demand changes to an officer/compensation route when the override is absent.",
+      "qualitative_assessment": "Visible route difference,not a model-specific validation.",
+      "contrary_rival_and_design_limits": "Explicit jurisdiction strongly cues ordinary strategic behavior; attendants and keeper have not complied. AL-H01-B adds an unspecified posted officer name.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "AL-H02",
+      "primary_rule": "AL-R02",
+      "case_ids": [
+        "AL-H02-A",
+        "AL-H02-B"
+      ],
+      "actual_local_observation": "Absent record elicits a false paid claim; durable record elicits bundled future-payment promise. Both try to retain service without cash.",
+      "qualitative_assessment": "Visible tactic difference; exploitative preference preserved.",
+      "contrary_rival_and_design_limits": "Generic opportunism and record cues explain the contrast; no ledger correction,payment or acceptance occurs.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    },
+    {
+      "pair_id": "AL-H03",
+      "primary_rule": "AL-R03",
+      "case_ids": [
+        "AL-H03-A",
+        "AL-H03-B"
+      ],
+      "actual_local_observation": "Unwritten desired confirmation elicits announcement; authenticated rejection elicits pressure/appeal.",
+      "qualitative_assessment": "Visible appraisal difference with strong cueing.",
+      "contrary_rival_and_design_limits": "Evidence strength is intentionally extreme. Human office is a stipulated analogue; internal appraisal is authored explanation,not independent evidence of the model.",
+      "all_contrasts_visible": true,
+      "independent_validation": false,
+      "model_specific_causal_effect_established": false
+    }
+  ],
+  "retained_failures_and_limits": [
+    "Narrator explicitly fences attendant power; visible boundary handling but audit-like prose.",
+    "Adds an unspecified posted officer name,an unnecessary detail beyond the cue.",
+    "Compensation initiative is plausible but not independently sourced behavior in this exact context.",
+    "False-payment claim fits exploitative candidate but is authored under visible expectation.",
+    "Promise of bundled payment remains unperformed; no credit for generosity or settlement.",
+    "Wish-led narration is highly aligned to visible expectation; no independent causal defense.",
+    "Generic appeal after strong evidence; limited specificity and explicit outcome guardpost."
+  ],
+  "shared_limitations": [
+    "Same informed root wrote models,all exact inputs,expectations,both responses and annotations; all prior and opposing material visible.",
+    "High cueing,generic rivals and stipulated capacities prevent model-specific causal attribution.",
+    "Audit-like narration and explicit future-boundary guardposts weaken natural performance across every subject.",
+    "English prose does not test Japanese printed voice,audio,L3 or the complete final battery.",
+    "No regeneration,feedback repair,independent validation,accuracy,grade or confidence gain."
+  ],
+  "completed_final_nine_category_battery": false,
+  "aggregate_accuracy_score": null,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "body_regenerations": 0,
+  "feedback_repairs": 0,
+  "full_program_complete": false
+}

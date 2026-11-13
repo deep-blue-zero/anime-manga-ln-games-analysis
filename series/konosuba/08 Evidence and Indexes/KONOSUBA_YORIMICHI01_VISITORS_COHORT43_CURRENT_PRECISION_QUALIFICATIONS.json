@@ -1,0 +1,61 @@
+{
+  "schema": "konosuba.cohort43.current-precision-qualifications.v1",
+  "recorded_utc": "2026-10-25T02:18:25.485690+00:00",
+  "native_provenance_sha256": "01850ad21764ccce1716fb250d092050619665d769a84c3b4423597bbc2e5e1f",
+  "findings": [
+    {
+      "id": "C43-Q01",
+      "qualification": "Client/father full names retain C29 precision. Adoption qualifies kinship without identifying biological parents. Diary disposal and payment handover are not separately performed."
+    },
+    {
+      "id": "C43-Q02",
+      "qualification": "Aqua-mediated father requests are not an independently heard voice or other people’s consent. The insulting/deferential reward plea is mixed rather than uniformly humble."
+    },
+    {
+      "id": "C43-Q03",
+      "qualification": "The veteran’s stake is wallet contents at U018P291. Retaining the wallet after P321’s objection is an actual violation. No rigged die, performed failed Blessing or repeated losses are invented."
+    },
+    {
+      "id": "C43-Q04",
+      "qualification": "Crow concedes rank and requests release. The coerced vegetarian pledge at U020P306 is not fulfilled reform before purification at P311. P281 is a valid local metric critique."
+    },
+    {
+      "id": "C43-Q05",
+      "qualification": "Akyua’s heal is preempted at U024P299–301, Rakuresu’s shield offer at P346–347, and Megumi’s reinforcement proposal at P337 is not carried out. No invented failures."
+    },
+    {
+      "id": "C43-Q06",
+      "qualification": "Do not assign all party checking to Ozuma: Megumi supplies the P186 account. Her near-apology is interrupted at P196. Earlier quartet insults remain partly unallocated."
+    },
+    {
+      "id": "C43-Q07",
+      "qualification": "Ozuma’s warning at U024P394–395 is useful actual assistance. His gratitude does not exonerate the principals. Their final prostration is not a full confession or future correction."
+    },
+    {
+      "id": "C43-Q08",
+      "qualification": "The recruiter’s punitive aim is initially inferred. His explicit goal at U026P126/145 and departure at P208 do not establish a private final motive or completed transfer."
+    },
+    {
+      "id": "C43-Q09",
+      "qualification": "Old route100 joins already studied Lolierina231 at U014P63. Chief91 is separate; unrelated230 stays untouched. Retain C27 and the original preparation qualification, with zero duplicate-study credit."
+    },
+    {
+      "id": "C43-Q10",
+      "qualification": "Marybell/マリーベル is not Mary/メアリー; Crow is not the cub; the female-devil scapegoat is not automatically Arnes. Unnamed clerks, police and retinues retain unresolved personal joins."
+    },
+    {
+      "id": "C43-Q11",
+      "qualification": "Anna/118 remains due for adequate YORI04 cross-source review. Aqua’s admitted false wine blame at U012P299 does not make every ghost statement false."
+    },
+    {
+      "id": "C43-Q12",
+      "qualification": "The 37 new source/access records comprise 35 sparse routes and two bounded pair routes, not 37 distinct people. Independent-observation fields stay null. The 419 prior records are not all semantically reread."
+    },
+    {
+      "id": "C43-Q13",
+      "qualification": "Seven monographs, one two-rule model and four compact profiles are proposed. Review and seal foundations before exact inputs and original firsts. No final battery, StageD successor, designated curation, release or full-program completion is claimed."
+    }
+  ],
+  "original_histories_changed": false,
+  "full_program_complete": false
+}

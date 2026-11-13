@@ -1,0 +1,111 @@
+{
+  "schema": "CULINARY_SAVED_CURRENT_BODY_AND_EXACT8_AUTHOR_TRANSPORT_RECEIPT_V1",
+  "required_home": {
+    "required_package_id": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "kind": "INSTITUTION",
+    "subject_or_question": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "source_responsibility_refs": "CURRENT_OWNER_ADDITION::P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "mandatory_named_section_ids": "",
+    "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+    "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+    "canonical_path": "",
+    "persistence_state": "UNACCEPTED",
+    "remote_publication": "NOT_YET_PUBLISHED",
+    "main_integration": "NOT_YET_INTEGRATED",
+    "completed_after_ROOT_install": "false",
+    "required_count": "1"
+  },
+  "components_exact_before_this_receipt": [
+    {
+      "bytes": 35034,
+      "sha256": "4d6819ba741010adf10bd4a9829a74edd6413af969ca8a704649f98d9302fe1c",
+      "git_blob_oid_of_actual_bytes": "8f1c48e101fa3f3676ba513465767b98a9b8299c",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_AND_RECIPIENTS_INSTITUTIONAL_SYNTHESIS.md"
+    },
+    {
+      "bytes": 260304,
+      "sha256": "9ff67829c589dd94cdfef42a337e6c2eb871a1c45f93f91925ec3ad8b5b50359",
+      "git_blob_oid_of_actual_bytes": "01ac7190afe6c9e7c651c3f4a9498082cf9e35fa",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP000_CWCP035_V1.json"
+    },
+    {
+      "bytes": 519087,
+      "sha256": "61947a6d5df43403506237386cff83052765cecad7d5f236aa9d1e3cb4de282a",
+      "git_blob_oid_of_actual_bytes": "f5e2e83a53855e5fcb769159228742a053f4205d",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP036_CWCP070_V1.json"
+    },
+    {
+      "bytes": 561193,
+      "sha256": "4488ce73491989254436b484abc4b2acb6e51e1be4a04c36107b8c49aa687565",
+      "git_blob_oid_of_actual_bytes": "19a8785d2e0894bd52bd2608c826e30f2f519db4",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP071_CWCP104_V1.json"
+    },
+    {
+      "bytes": 132749,
+      "sha256": "6cbd3a72fae15e773c0936d382fbe190711eabc7bdec3330603c1d8aa1a7fe9f",
+      "git_blob_oid_of_actual_bytes": "01ae1e6a18f2206eb9255d4bd8a440d5c44f8051",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_TARGET_PURPOSE_INDEX_V1.json"
+    },
+    {
+      "bytes": 18677,
+      "sha256": "100b297ea03a16d4a4effd7acf38b9146fdf3fe8b9027ba09f3d66ae8e493c48",
+      "git_blob_oid_of_actual_bytes": "07dc8e9b47d25bb1b435355eadd3726309408ba8",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json"
+    },
+    {
+      "bytes": 392286,
+      "sha256": "5bfdf728b9840297a2be80297d5ecdc70638b761a028b12be8af29b9504d825e",
+      "git_blob_oid_of_actual_bytes": "f2353f46cab35a6ea72f25c071fa700447f9aa6d",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_LITERAL40_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json"
+    }
+  ],
+  "exact_current_public_file_count_with_this_receipt": 8,
+  "saved_body": {
+    "bytes": 35034,
+    "sha256": "4d6819ba741010adf10bd4a9829a74edd6413af969ca8a704649f98d9302fe1c",
+    "git_blob_oid_of_actual_bytes": "8f1c48e101fa3f3676ba513465767b98a9b8299c",
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_AND_RECIPIENTS_INSTITUTIONAL_SYNTHESIS.md"
+  },
+  "whole_argument": "40 substantial paragraphs including2thesis/30dimension/8rivals;15dimensions16ends14OPEN",
+  "own_full_saved_body_receiving": "V1actualf65096/69a702/d42014 all190 plus currentV2complete2changedlines70f4fe; unchanged188 lines literal",
+  "complete_original_body_inverse_evidence_id": "CULINARY_V2_SUZUME_KAN_SOURCE_LOCAL_ROLE_ENRICHMENTS_AND_EXECUTED_FULL_BODY_INVERSE_V1.json",
+  "complete_current_body_inverse_binding": {
+    "evidence_id": "CULINARY_V2_SUZUME_KAN_SOURCE_LOCAL_ROLE_ENRICHMENTS_AND_EXECUTED_FULL_BODY_INVERSE_V1.json",
+    "bytes": 82766,
+    "sha256": "6bbfd8afbd53a778b2b5c428580f4ffb6d8d55640a0d4123312434774aad3c22",
+    "git_blob_oid_of_actual_bytes": "a6adb0ff03bfb2b4466f48efbc6e14b227e39305",
+    "role": "COMPLETE_PRIVATE_EXECUTED_CURRENT_V2_TO_ORIGINAL_V1_FULL_BODY_AND_TWO_LITERAL_LINES_RECOVERY"
+  },
+  "original11_input_whole_raw_inverse_custody_evidence_id": "CULINARY_OWN70_LITERAL_PRESERVATION_AND_CURRENT_TWO_PARTS_READBACK_V1.json",
+  "delegated35_complete_original_preservation_evidence_id": "CULINARY_AUTHOR35_CASE_ONLY_TWO_FIELD_DELTA_AND_FULL_ORIGINAL_RAW_OBJECT_RECOVERY_PROOF_V2.json",
+  "original105_fields": "All complete prior input rows/ROOTpayloads/source tuples/scopes remain unchanged in newpart wrappers; every extraction equals retained originals",
+  "authorship": "70 purposes/core/body receiving_middle_remaining;35 purposes m008_composition_review; no independentQA claim of either own subset",
+  "no_source_primary_native_raw_AV_bodyadmission_count": true,
+  "adoption_install_sourcepublication_MAINintegration": "PENDING",
+  "required_fixed_scope": {
+    "packages": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation": 788,
+    "next178": "UNREACHED",
+    "models": 0,
+    "all14": "OPEN",
+    "new_credit": 0
+  },
+  "current_CP104_wage_motive_and_finite_scope_clarification_V1": {
+    "before": "Wages, gloves, cakes, cookies, dinner, gardening and chosen release have differentiated finite recipients.",
+    "current": "Sora’s wage motive, actual gloves, cakes, cookies, dinner, gardening and chosen release have differentiated recipients and scopes.",
+    "operative_part_pointer": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_CURRENT105_NEW_TARGET_PURPOSES_CWCP071_CWCP104_V1.json#/records/33/own_new_target_specific_positive_meaning",
+    "current_source_use": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_CULINARY_WORK_MERCHANTS_RECIPIENTS_RECEIVING_20261013_V1/CULINARY_INPUT_SOURCE_GRADE_AND_CURRENT_QUALIFIER_RECEIVING_V1.json",
+      "bytes": 18677,
+      "sha256": "100b297ea03a16d4a4effd7acf38b9146fdf3fe8b9027ba09f3d66ae8e493c48",
+      "git_blob_oid_of_actual_bytes": "07dc8e9b47d25bb1b435355eadd3726309408ba8"
+    },
+    "source_use_pointer": "/current_CP104_wage_motive_ambiguity_precision_source_use_qualification_V1",
+    "scope": "One current positive ambiguity clarification, not a confirmed-payroll-error assertion. Full original105,body190/40,other524 fields,source-grade and previous QA/CP094 histories remain immutable. Current delta independentQA/ROOT acceptance remain separate.",
+    "new_source_primary_native_raw_AV_package_named_model_credit": 0,
+    "merge_approval": "RESERVED"
+  }
+}

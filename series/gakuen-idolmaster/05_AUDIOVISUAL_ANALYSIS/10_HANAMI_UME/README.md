@@ -10,7 +10,7 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: "2026-09-09"
-last_updated: "2026-09-09"
+last_updated: "2026-11-12"
 ---
 
 # Hanami Ume — audiovisual analysis
@@ -30,5 +30,7 @@ Start with the integrated baseline. Use the textual core and AV addendum togethe
 | Data exports | [Supporting data](SUPPORTING_DATA/) |
 | Package navigation | [Original package map](00_README_AND_DOCUMENT_MAP.md) |
 | Textual authority | [Character core](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/10_HANAMI_UME/GKM_CORE_10_HANAMI_UME.md) · [Core evidence](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/10_HANAMI_UME/GKM_CORE_10_HANAMI_UME_EVIDENCE_MATRIX.md) · [AV revision addendum](../../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/10_HANAMI_UME/GKM_CORE_10_HANAMI_UME_AV_REVISION_ADDENDUM.md) |
+
+[2026-11-12 textual claim erratum](GKM_UME_AV_TEXTUAL_CLAIM_ERRATUM_20261112.md) qualifies UME-AV09 and UME-AV25 without reopening perceptual inspection.
 
 Retained release checksums describe historical ZIP member bytes and package paths. The [recovery audit](../../10_RELEASE_MANIFEST_AND_ARCHIVE/GKM_RECOVERY_INTEGRATION_AUDIT_20260909.md) records recovered originals and repository derivatives.

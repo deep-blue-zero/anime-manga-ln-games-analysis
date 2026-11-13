@@ -1,0 +1,24 @@
+[
+  {
+    "filename": "codex-clipboard-21b71852-72b7-4bd5-b790-e46859236e68.png",
+    "sha256": "43c64146c99b34b8153b3da411de3eb4cec16efcb1c3f5508e8d2c25f4119c4a",
+    "dimensions": [
+      512,
+      512
+    ],
+    "role": "Owner-supplied uniform bust; identity reference only",
+    "official_provenance": "claimed by owner; not independently verified in this pass",
+    "av_review_credit": false
+  },
+  {
+    "filename": "codex-clipboard-05e5232f-93f9-4fe4-8189-d3fc4d6f7cd1.png",
+    "sha256": "129c89bf68445776c0436370caf369b0a59e0605ffc1b0255fbd85d7f5b0742f",
+    "dimensions": [
+      1820,
+      1024
+    ],
+    "role": "Owner-supplied winter illustration; identity/artwork reference only",
+    "official_provenance": "claimed by owner; not independently verified in this pass",
+    "av_review_credit": false
+  }
+]

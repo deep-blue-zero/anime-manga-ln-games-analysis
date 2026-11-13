@@ -1,0 +1,63 @@
+{
+  "state": "LOSSLESS_PRIVATE_PARTITIONS_VERIFIED_NOT_EXECUTION_RELEASE",
+  "created_at_utc": "2026-10-17T14:22:16.324525+00:00",
+  "source_full_stream_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/SEALED_PRE_RESPONSE_BINDINGS_PRIVATE.json",
+    "bytes": 1382202,
+    "sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d"
+  },
+  "original_final_binding_seal": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/METADATA_ONLY_FINAL_PRE_RESPONSE_BINDING_SEAL.json",
+    "bytes": 3085,
+    "sha256": "4d44a08e0d3cf48ab023317bf3115b7a73b9642ff5d50ae76baf9d4a1172a9d2"
+  },
+  "common_header_order_private_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/lossless-private-partitions-v1/COMMON_BINDING_HEADER_AND_ORDER_PRIVATE.json",
+    "bytes": 3151,
+    "sha256": "782164f1e8bd0c635609f4125e946a0519d57bc62c52888a153249e314e186d7"
+  },
+  "owner_partitions_evaluator_private": [
+    {
+      "owner_partition": "ROOT",
+      "records": 18,
+      "identity": {
+        "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/lossless-private-partitions-v1/PRIVATE_BINDINGS_OWNER_ROOT.json",
+        "bytes": 283319,
+        "sha256": "36947aa88f432b9e0e26c02542c0a995547852458de812fd1491571089f010b5"
+      }
+    },
+    {
+      "owner_partition": "PRODUCER",
+      "records": 36,
+      "identity": {
+        "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/lossless-private-partitions-v1/PRIVATE_BINDINGS_OWNER_PRODUCER.json",
+        "bytes": 535162,
+        "sha256": "13c46c5bb36d4c56ba41477ebbd67d1377c6db7076a6ef03305938fd708a953e"
+      }
+    },
+    {
+      "owner_partition": "INDEPENDENT",
+      "records": 36,
+      "identity": {
+        "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/lossless-private-partitions-v1/PRIVATE_BINDINGS_OWNER_INDEPENDENT.json",
+        "bytes": 564146,
+        "sha256": "c42a29d0ae406776ae66e70bd4ebdb5b52dbd7aa256a4bf747e75e2fe42885f4"
+      }
+    }
+  ],
+  "full_contract_registry_identity": {
+    "path": "/workspace/scratch/konosuba/reconstruction-pre-response-binding-v1/EXACT_RECEIVED_MODEL_CONTRACT_REGISTRY.json",
+    "bytes": 250967,
+    "sha256": "680748c892a9178852901c217b657119afeea3879e547db8a393d93878d9b833"
+  },
+  "execution_records": 90,
+  "complete_object_equality": true,
+  "complete_byte_reassembly_equality": true,
+  "reassembled_bytes": 1382202,
+  "reassembled_sha256": "0a05252f1005f482da2d0f015d4431f715c9b8544451d2d7ba3251fdeecd189d",
+  "all_partition_products_below_1MiB": true,
+  "source_full_stream_untouched": true,
+  "omissions_or_compression": false,
+  "privacy": "All actual partition contents remain evaluator-private; these are NOT owner generation packs. Root may receive this metadata only before K18 first-response seal.",
+  "scope": "Lossless representation/size remedy only; no binding change, response evaluation, source admission, suite acceptance or publication."
+}

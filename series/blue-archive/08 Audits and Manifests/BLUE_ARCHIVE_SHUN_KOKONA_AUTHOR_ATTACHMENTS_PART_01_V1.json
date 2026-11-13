@@ -1,0 +1,197 @@
+{
+  "schema": "BLUE_ARCHIVE_SHUN_KOKONA_COMPLETE_ORIGINAL_AUTHOR_ATTACHMENTS_PART_V1",
+  "status": "COMPLETE_HISTORICAL_FIELDS_CURRENT_ROOT_QUALIFICATION_IN_PARENT",
+  "complete_author_attachments": [
+    {
+      "name": "BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+      "original_exact_tuple": {
+        "path": "SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+        "bytes": 4827,
+        "sha256": "5d8026aa74a4417dbac82f7ff215f705611ec225603c4f4e6ae91b8acfb0bf6a",
+        "git_blob_oid_of_actual_bytes": "2acc6ec4c33a0d27076524973a787ac1a7780ff7",
+        "immutable_transport_path": "immutable_originals/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_ROOT_SHUN_KOKONA_EXISTING_DIRECTED_HOME_AUTHOR_ALLOCATION_V1",
+        "checked_UTC": "2026-10-10T20:59:15.156309+00:00",
+        "decision": "ALLOCATE_EXISTING_DIRECTED_RELATIONSHIP_AUTHORING_WITH_LIMITS",
+        "existing_home": "P3-REL-SHUN-KOKONA",
+        "kind": "DIRECTED_RELATIONSHIP",
+        "source_responsibility": "HYS::significant_responsibilities::13",
+        "mandatory_named_duties": [],
+        "proposal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_KOKONA_EXISTING_HOME_ALLOCATION_PROPOSAL_V1.json",
+          "bytes": 11874,
+          "sha256": "29b633e00fb6aeb1dab7ca24d991a2938fb86ea308a03874da571fd1d99a52c0"
+        },
+        "current_source": "bf5ded30464ab39f78f71e79ecc7494654c25faa",
+        "exact_required_row": {
+          "required_package_id": "P3-REL-SHUN-KOKONA",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "subject_or_question": "P3-REL-SHUN-KOKONA",
+          "source_responsibility_refs": "HYS::significant_responsibilities::13",
+          "mandatory_named_section_ids": "",
+          "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+          "canonical_path": "",
+          "persistence_state": "UNACCEPTED",
+          "remote_publication": "NOT_YET_PUBLISHED",
+          "main_integration": "NOT_YET_INTEGRATED",
+          "completed_after_ROOT_install": "false",
+          "required_count": "1"
+        },
+        "exact_partition_home": {
+          "home_key": "P3-REL-SHUN-KOKONA",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+          "source_responsibility_refs": [
+            "HYS::significant_responsibilities::13"
+          ],
+          "literary_rationale": [
+            "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": true
+        },
+        "ROOT_actual_receiving": "6836c5 complete166-line proposal throughEOF. Both distinct directions, positive and adverse endings, exact12 source routes, source-mode and private-pool limits, frozen character dependencies and positive existing355/384 allocations received. Relevant originalHYS13 and institution split already received in Meihua allocation; architecture1.12 significantrelationship7.2 governs, with eleven dimensions usable as organizing extensions.",
+        "author": "/root/phase3_toki_monograph",
+        "execution_order": "After current Mina–Reijo independent peer review and Shun immutable V2 corrective successor delivery; neither pending candidate is accepted by this allocation.",
+        "positive_argument_scope": [
+          "Shun→Kokona: teaching and reported pride/uncertainty, privacy disclosure, support for infiltration refusal, supervision transfer/cover and particular wanted shared company.",
+          "Kokona→Shun: wanted proximity and recognition, reported advice, fear/secrecy/fabrication/relay, qualified forgiveness, actual chosen exception and independent adult/sister boundaries.",
+          "Carry distinct actual local endings: chosen return, completed banquet, expressly permitted three-person walk/swing/fireworks; privacy harm, unfinished apologies, rumor reception, labor asymmetry, fear, failed delegation and unfinished child retrieval. Ordinary desires are intrinsic evidence."
+        ],
+        "finite_checks": "Currentcommitted355index/384partition selected exact existing home and twelve small adequate argument tuples; two immutable original character seals exact. No sourceprimary replay or new literary reception implied by tupleproof.",
+        "nonoverlap": "Both sibling lanes confirm no authored/frozen Shun–Kokona package. Meihua MI036 is institutional comparison, separate three-child duty; reconciliation package is fixed102–108 and Pandemonium. ROOT Mina–Reijo remains separately peer-reviewed; Reijo–Kaguya unallocated.",
+        "limits": "Twelve routes are adequate argument navigation at declared complete/bounded scopes; source9Kokona/36Shun private responsibilities and distinct10144 remain counted at their original modes. Individual gifts cannot become invented sister encounters. Reinspect only consequential unreceived meaning. No global age/identity/calendar, blanket consent, clinical/educational safety or institutional repair claim. C-only authoring, immutable predecessors, no repository/Git/provider writes or selfacceptance.",
+        "full_scope": "355requiredpackages/29mandatoryduties/25parents; existingoneparent and zero newnamed.",
+        "progress": "UNCHANGED_ROOT108_WITH6NAMED; AUTHOR_ALLOCATION_ONLY",
+        "all14_original_gaps": "OPEN",
+        "new_primary_native_raw_QA_AV_model_identity_credit": 0,
+        "full_goal_status": "ACTIVE_INCOMPLETE"
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.md",
+      "original_exact_tuple": {
+        "path": "SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.md",
+        "bytes": 3329,
+        "sha256": "304e86b05b4de3aedcfcb6f37f2054301e6429262a4eab636802d2b776b2a78b",
+        "git_blob_oid_of_actual_bytes": "791476e2968d5c1a0a75d954047101e9ce012b4e",
+        "immutable_transport_path": "immutable_originals/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_DIRECTED_SYNTHESIS_RECEIVING_RECEIPT_V1.md"
+      },
+      "complete_original_payload": "# Shun–Kokona — complete bounded directed candidate V1\n\nExisting home: P3-REL-SHUN-KOKONA / HYS::significant_responsibilities::13. No mandatory named duties. Independent ROOT receiving/adoption remains pending; author delivery grants no count.\n\n## Literary argument\n\nKokona chose instruction partly for proximity to Shun, yet reports both becoming busier. Their shared vocation has real value without automatically supplying wanted company. Both are students who teach. Shun's recognition, protective refusal support and wanted inclusion coexist with privacy disclosure, threat, cover and supervision transfer. Kokona's concern, fear, fabrication/relay, qualified forgiveness and chosen exception retain distinct agency.\n\nPositive return/restoration/apology/qualified forgiveness, real banquet, permitted walking/swinging/fireworks and actual care remain achieved. Rumor reception, trap apologies, consultation, workload, child reform/retrieval, future compensation and lasting trust remain unresolved. Private pleasures/tastes/wishes are intrinsic, with no crisis payoff requirement. Individual810 gifts do not become invented sister gifts.\n\n## Actual source and body reception\n\nWhole144-line saved body personally received6f374f1–72/351f3173–144EOF with no clipping or later changes. Eleven substantive organizing dimensions, seven serious rival readings, eight finite endpoint cases and fourteen stable original OPEN gap effects are saved.\n\nTwelve exact small normal-source routes and six control copies are bound. Prior whole public/group/checkpoint meanings are reused at actual scopes; fresh current adoption/Shun/Kokona private paragraphs,80562–108/G26062–91/83995–108/85991–167 (116blank), whole109Kokona checkpoint, Shun69–125 and gift consequences were personally received. Final32 was freshly corrected whole20eeca. Shun issues both orders; Kokona accepts evacuation only. No completed evacuation or Shun receiving-defense claim.\n\nThirty-six Shun and nine Kokona private responsibilities are adequate analytical custody, not45 new primary readings. Nineteen whole-message carriers and seven written objects retain their own modes. Separate10144 stays in Shun's character named section; Meihua and its three-child duty are different homes.\n\n## Exact and authority limits\n\nAllocation/proposal and selected355-index/384-partition rows establish the existing home. Metadata probe binds that frozen bf5 boundary, not a new live Git/provider snapshot. Source7546, mergedb76, prior2714 and bf5 navigation remain distinct. Later chain closure is ROOT-reported743572c2; no author provider/audit verification.\n\nAll247 earlier frozen files checked unchanged, including ShunV1/V2 and peer review. Twelve source-copy tuple matches and six copied control matches supply byte custody, not prose reception. Ninety-one nonempty saved joins, seven rivals and fourteen gap cells join exact body text; these are separate counts.\n\nNo primary/native/raw/QA/AV/model/identity, repository/provider/global-source operation or new count occurs. NineUNBOUND and preserved_phase2_work remain unread/unhashed. Whole receipt serialization is not claimed: actual meaningful field scopes and saved/body readbacks are recorded separately. Final immutable seal will record receipt/readable reception and preservation before delivery.\n",
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    },
+    {
+      "name": "SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+      "original_exact_tuple": {
+        "path": "SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json",
+        "bytes": 5186,
+        "sha256": "7c898aa5e713449dfc12fdbb9b0b3151a86bc3351b6b6d20ed56aab6e2ad6710",
+        "git_blob_oid_of_actual_bytes": "4a4a8eb0aa74d99caacfbc82adf116cb4f88ebc0",
+        "immutable_transport_path": "immutable_originals/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1.json"
+      },
+      "complete_original_payload": {
+        "schema": "BLUE_ARCHIVE_SHUN_KOKONA_FROZEN_ALLOCATION_METADATA_PROBE_V1",
+        "captured_UTC": "2026-10-10T21:09:42.170529+00:00",
+        "boundary": "Exact immutable bf5 ROOTallocation/proposal and six bound small controls, not a new live HEAD/index/provider snapshot.",
+        "required_row": {
+          "required_package_id": "P3-REL-SHUN-KOKONA",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "subject_or_question": "P3-REL-SHUN-KOKONA",
+          "source_responsibility_refs": "HYS::significant_responsibilities::13",
+          "mandatory_named_section_ids": "",
+          "scope_acceptance": "ROOT_ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "literary_acceptance": "PENDING_FULL_LITERARY_ARGUMENT_AND_ROOT_RECEIVING",
+          "canonical_path": "",
+          "persistence_state": "UNACCEPTED",
+          "remote_publication": "NOT_YET_PUBLISHED",
+          "main_integration": "NOT_YET_INTEGRATED",
+          "completed_after_ROOT_install": "false",
+          "required_count": "1"
+        },
+        "partition_home": {
+          "home_key": "P3-REL-SHUN-KOKONA",
+          "kind": "DIRECTED_RELATIONSHIP",
+          "recommended_allocation": "PROPOSED_REQUIRED_STANDALONE_PACKAGE",
+          "source_responsibility_refs": [
+            "HYS::significant_responsibilities::13"
+          ],
+          "literary_rationale": [
+            "Full required semantic question named by original cohort argument and allocation prose, distinct actors/recipients/contrary evidence preserved"
+          ],
+          "ROOT_adoption": "ACCEPTED_REQUIRED_SCOPE_WITH_LIMITS",
+          "counts_as_completed": false,
+          "proposed_denominator_entry": true
+        },
+        "ROOT_author_allocation": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/BOUND_ROOT_AUTHOR_ALLOCATION_V1.json",
+          "bytes": 4827,
+          "lines": 60,
+          "sha256": "5d8026aa74a4417dbac82f7ff215f705611ec225603c4f4e6ae91b8acfb0bf6a"
+        },
+        "original_proposal": {
+          "path": "immutable-local-author-witness/PHASE3_START_20261009/SHANHAIJING_CONTINUATION_MONOGRAPHS/SHUN_KOKONA_EXISTING_HOME_ALLOCATION_PROPOSAL_V1.json",
+          "bytes": 11874,
+          "lines": 166,
+          "sha256": "29b633e00fb6aeb1dab7ca24d991a2938fb86ea308a03874da571fd1d99a52c0"
+        },
+        "source_boundaries": "main2e analyticalbaseline/source7546 / mergedb76 / prior2714 and later bf5 navigation distinct; ROOT reports actual completed bf5 chain743572c2, not author verification.",
+        "controls": [
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C01_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+            "bytes": 52261,
+            "lines": 851,
+            "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C02_BLUE_ARCHIVE_ANALYTICAL_METHOD_V1.md",
+            "bytes": 53414,
+            "lines": 840,
+            "sha256": "c8afa32da7969370b9c705db4d2f3f446e9f2c4a534966c3a965764b1a729f0d"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C03_BLUE_ARCHIVE_SOURCE_CLASS_CROSSWALK.md",
+            "bytes": 52723,
+            "lines": 275,
+            "sha256": "6a0ca0819b1cdf44d878308f5a06a68f6e44bffb7d374ee1c15a3a75a393d89e"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C04_BLUE_ARCHIVE_SOURCE_GAP_IMPACT_REGISTER.md",
+            "bytes": 79178,
+            "lines": 354,
+            "sha256": "f95d0ed1601604882dfee515fa158162af770cd8d38a9c5c7fa37e6b963f8cc6"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C05_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+            "bytes": 461112,
+            "lines": 6514,
+            "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a"
+          },
+          {
+            "path": "immutable-local-author-witness/PHASE3_START_20261009/SHUN_KOKONA_DIRECTED_RELATIONSHIP_SYNTHESIS/bound_control_inputs/C06_BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+            "bytes": 101490,
+            "lines": 356,
+            "sha256": "58a0e1a40b90df7cacd2be367ff70861d6a0f1428c210a5397c30d0529a7b2d6"
+          }
+        ],
+        "private_counts": {
+          "Shun": 36,
+          "Kokona": 9,
+          "total_adequate_meanings_reused": 45,
+          "wholeMM": 19,
+          "written": 7,
+          "separate10144": "character named duty only, no extra private/relationshipparent"
+        },
+        "scope": "355packages29named25parents384homes unchanged",
+        "operation": "Metadata parse/hash of exact small bound files only; noR/Git/provider mutation/largeindex",
+        "credit": 0
+      },
+      "historical_scope": "Complete original author payload, including dated pending and unsealed-history fields; separate current ROOT receipt governs authority."
+    }
+  ],
+  "no_new_literary_or_source_credit": 0
+}

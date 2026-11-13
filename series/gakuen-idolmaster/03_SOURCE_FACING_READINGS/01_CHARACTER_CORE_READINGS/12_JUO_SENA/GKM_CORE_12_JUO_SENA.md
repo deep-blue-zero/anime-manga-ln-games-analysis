@@ -19,7 +19,7 @@ continuity_tracks:
 - D-SENA
 - M-SENA
 reasoning_route: GPT-5.6 Sol — Extra High
-last_updated: '2026-08-16'
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections"
 ---
 
 # GKM CORE 12 — JUO SENA / 十王星南
@@ -1114,6 +1114,12 @@ Exact chronology and realized audiovisual form remain separately controlled.
 
 ---
 
+## U1 counter-track — Begrazia retirement and reversal
+
+**Historical correction — HSCA-004, 2026-11-12 (STRENGTHEN).** Source Lock 1.0, C1 @ U1. Sena announces plans to retire as an idol and focus on production. She expects Ume or Misuzu to surpass her and applies Begrazia's rule against 「足手まとい」 to herself (`adv_unit_01-04_14.txt`, A1 332–506). Speaking to Saki as a mirror, Sena says Ume makes it difficult to give up, aims to retain the Prima Stella title, and postpones deciding whether she can continue (`04_16`, 288–585). Her own heartbeat during the result prompts a private question about her decision (`04_20`, 560–567). The Headmaster separately reports Begrazia's superior individual metrics and the disagreement over performance impact (`04_20`, 724–787).
+
+After Begrazia loses to Re;IRIS, Sena retracts her retirement, cites frustration, and says she judged her own performance best in the unit. When she describes rewatching the recording, she says she found herself cute. Ume disputes that ranking. Sena accepts Misuzu's numerical comparison and concludes 「アイドルの実力は、数値だけでは表せない」 (`adv_unit_01-04_23.txt`, 93–566). Ume reminds her that graduates cannot enter school events. Sena claims to have a plan and supplies no details (584–766). Her plan therefore changes before and after the defeat, while Begrazia's post-graduation roster remains open. Compare SENA-C03, C06 and C26 as separately scoped evidence. See Relationship Systems II §8.7.1 and `LOC-HSCA-004A`–`004D`.
+
 # 39. V1 → V2 claim transitions
 
 | earlier claim | transition | V2 formulation |
@@ -1271,3 +1277,10 @@ Later phases must determine whether the crown she opens can truly outgrow her.
 For now, the strongest bounded claim is:
 
 > **Juo Sena makes supremacy meaningful by making it contestable. Her route transforms the top from a lonely place one protects into a horizon one builds with enough force that other people can arrive, answer, refuse, rival and eventually exceed it.**
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+In D-SENA, the 100 Pro president objects to Sena producing while active, then expressly accepts the dual vocation after her external Triple Crown (`adv_dear_jsna_028.txt` L428–530 and `_033.txt` L10–23). The reversal occurs before winter H.I.F. D-SENA 036 gives Sena a fourth title and an invitation for future holders to challenge her. P3-SENA final-failure names Kotone and preserves Sena's competitive intent after defeat. See the bounded 1.1 route for exact state and corroboration.
+
+[Source reading 1](GKM_SENA_TRANSCRIPT_REFRESH_20261112.md)

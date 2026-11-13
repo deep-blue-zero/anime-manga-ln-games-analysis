@@ -1,0 +1,2072 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_COMPONENTS_WITH_RETAINED_PRINCIPAL_DISPOSITIONS_V1",
+  "source_id": "MAIN-04",
+  "accepted_utc": "2026-10-19T08:38:07.954302+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_bytes": 3907671,
+  "native_sha256": "1ae1f38228b10cd46e1aa8124dfb369bb2f7507e4cccc709cfa35b3b302c7fa6",
+  "text_resources": [
+    {
+      "component_id": "MAIN-04-U001",
+      "member": "item/xhtml/p-cover.xhtml",
+      "member_sha256": "6870df092dd88f6e44d96012005df3f2998f3d3e6d39fe2a00a73e2ca775e74b",
+      "bytes": 975,
+      "native_spine_order": 1,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG001"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COVER_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U001",
+          "native_member": "item/xhtml/p-cover.xhtml",
+          "native_member_sha256": "6870df092dd88f6e44d96012005df3f2998f3d3e6d39fe2a00a73e2ca775e74b",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.702503+00:00",
+          "source_first_notes": "Image-only cover wrapper, no hidden nonparagraph text. Cover artwork actually viewed separately as IMG001; not a newly enacted narrative event.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U002",
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "member_sha256": "579bf7e82e4f18f2fa6081e9282325df635e9d35f7782f8d853dfeb78cda8179",
+      "bytes": 962,
+      "native_spine_order": 2,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG005"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_TRAVEL_AND_SHOPKEEPING_DIALOGUE_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U002",
+          "native_member": "item/xhtml/p-fmatter-001.xhtml",
+          "native_member_sha256": "579bf7e82e4f18f2fa6081e9282325df635e9d35f7782f8d853dfeb78cda8179",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.703495+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG005. Vanir/home-keeping and party travel dialogue is raster, separately viewed; no live-text story body.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U003",
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "member_sha256": "9d73cdca475cba14e0e96c85d05c9ec3834c362076ed7362f1783d2011094f6a",
+      "bytes": 962,
+      "native_spine_order": 3,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG006"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_WIZ_DOLL_DIALOGUE_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U003",
+          "native_member": "item/xhtml/p-fmatter-002.xhtml",
+          "native_member_sha256": "9d73cdca475cba14e0e96c85d05c9ec3834c362076ed7362f1783d2011094f6a",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.703991+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG006, Wiz and an Eris doll sales encounter with Vanir commentary; raster dialogue separately viewed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U004",
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "member_sha256": "62d90472401009109b2f15ffc7e9a763e6880377b63392ffa0888fec9c7765b3",
+      "bytes": 962,
+      "native_spine_order": 4,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG007"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_MEGUMIN_ADVENTURE_IMAGINING_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U004",
+          "native_member": "item/xhtml/p-fmatter-003.xhtml",
+          "native_member_sha256": "62d90472401009109b2f15ffc7e9a763e6880377b63392ffa0888fec9c7765b3",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.704983+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG007, Megumin's grand monster/church imagining and Vanir commentary; no live-text paragraph.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U005",
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "member_sha256": "2f1f20481bddff3096ba17f2a664f235c9dd7c303b3944c6d4410ccc654cdf22",
+      "bytes": 962,
+      "native_spine_order": 5,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG008"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_DARKNESS_RELIGIOUS_REFUSAL_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U005",
+          "native_member": "item/xhtml/p-fmatter-004.xhtml",
+          "native_member_sha256": "2f1f20481bddff3096ba17f2a664f235c9dd7c303b3944c6d4410ccc654cdf22",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.705479+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG008, Darkness's religious refusal and reaction; native raster dialogue actually viewed separately.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U006",
+      "member": "item/xhtml/p-fmatter-005.xhtml",
+      "member_sha256": "d89c93eeb7f88011a1e9b90b1e9a5c2aeef5a2ba67fe835a877f001186d5ef89",
+      "bytes": 962,
+      "native_spine_order": 6,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG009"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_AQUA_ADMIRATION_WISH_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U006",
+          "native_member": "item/xhtml/p-fmatter-005.xhtml",
+          "native_member_sha256": "d89c93eeb7f88011a1e9b90b1e9a5c2aeef5a2ba67fe835a877f001186d5ef89",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.706471+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG009, Aqua's wished-for public recognition and Vanir's amused response; raster plane retained.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U007",
+      "member": "item/xhtml/p-fmatter-006.xhtml",
+      "member_sha256": "f441e4eda3446e275a26c5b44b23a97059f1c2f1c83b6e979787ecbc4caccc9e",
+      "bytes": 962,
+      "native_spine_order": 7,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG010"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_KAZUMA_INTRUSIVE_IMAGINING_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U007",
+          "native_member": "item/xhtml/p-fmatter-006.xhtml",
+          "native_member_sha256": "f441e4eda3446e275a26c5b44b23a97059f1c2f1c83b6e979787ecbc4caccc9e",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.706967+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG010, Kazuma's intrusive bath imagining; non-graphic analytical scope, no permission inferred.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U008",
+      "member": "item/xhtml/p-fmatter-007.xhtml",
+      "member_sha256": "ff1aecc28052a372659b6ee97142045c961d5a71078cf08ad5f9640c61557df0",
+      "bytes": 962,
+      "native_spine_order": 8,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG011"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_YUNYUN_COMPANY_WISH_AND_EXPLICIT_IMAGINATION_FRAME",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U008",
+          "native_member": "item/xhtml/p-fmatter-007.xhtml",
+          "native_member_sha256": "ff1aecc28052a372659b6ee97142045c961d5a71078cf08ad5f9640c61557df0",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.707959+00:00",
+          "source_first_notes": "Image-only frontmatter wrapper for IMG011, Yunyun's wish for shared leisure and Vanir's explicit imagination/unfulfilled-wish commentary. Raster characters are not new present spoken trials.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U009",
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "member_sha256": "83567298048260ae1bf3b45c08d51c106db53ac44400eaf0c2bbb9b50d3d93fc",
+      "bytes": 1711,
+      "native_spine_order": 9,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 5,
+      "nonempty_paragraphs": 4,
+      "base_characters": 46,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "TITLE_IMPRINT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 5,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U009",
+          "native_member": "item/xhtml/p-titlepage.xhtml",
+          "native_member_sha256": "83567298048260ae1bf3b45c08d51c106db53ac44400eaf0c2bbb9b50d3d93fc",
+          "start_P": 1,
+          "end_P": 5,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.708454+00:00",
+          "source_first_notes": "Title, volume4, subtitle 鈍ら四重奏 with explicit ナマクラカルテット rendering, author and imprint/logo. Bibliographic presentation, not character behavior.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U010",
+      "member": "item/xhtml/p-caution.xhtml",
+      "member_sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+      "bytes": 2933,
+      "native_spine_order": 10,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 6,
+      "nonempty_paragraphs": 5,
+      "base_characters": 245,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ELECTRONIC_LAYOUT_RIGHTS_NOTICE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 6,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U010",
+          "native_member": "item/xhtml/p-caution.xhtml",
+          "native_member_sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+          "start_P": 1,
+          "end_P": 6,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.709447+00:00",
+          "source_first_notes": "Rights/transfer/thumbnail-change and vertical-layout/reader-display notices. Read as source paratext, not task instructions; no narrative exposure credit beyond these six slots.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U011",
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "member_sha256": "d13d13781f14fc29a53e3485ed43d42d685ae6071cfb08793cd61f7f9aa9d58a",
+      "bytes": 959,
+      "native_spine_order": 11,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG004"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_TOC_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U011",
+          "native_member": "item/xhtml/p-toc-001.xhtml",
+          "native_member_sha256": "d13d13781f14fc29a53e3485ed43d42d685ae6071cfb08793cd61f7f9aa9d58a",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.709447+00:00",
+          "source_first_notes": "Raster contents wrapper IMG004; print-like page references require separate image review and are not native paragraph locators.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U012",
+      "member": "item/xhtml/p-toc-002.xhtml",
+      "member_sha256": "4faf45627cf75f4e73838fcebb4b4865abaea4fc59cb39c826dcf38990c925b6",
+      "bytes": 2374,
+      "native_spine_order": 12,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 12,
+      "nonempty_paragraphs": 9,
+      "base_characters": 132,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "TEXTUAL_TOC_INCLUDING_BONUS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 12,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U012",
+          "native_member": "item/xhtml/p-toc-002.xhtml",
+          "native_member_sha256": "4faf45627cf75f4e73838fcebb4b4865abaea4fc59cb39c826dcf38990c925b6",
+          "start_P": 1,
+          "end_P": 12,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.710956+00:00",
+          "source_first_notes": "Contents identifies prologue, five chapters, epilogue and distinct electronic purchase bonus 町内会の不死の王. Empty/newline slots retained; no bonus folded into the old principal chapters.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U013",
+      "member": "item/xhtml/p-001.xhtml",
+      "member_sha256": "416f64ad4ed76a40a227ad6fd50e3e91aa80fb4b4df8095d1774ffc87ad3ee66",
+      "bytes": 960,
+      "native_spine_order": 13,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG012"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_EDITION_CHARACTER_PROFILE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U013",
+          "native_member": "item/xhtml/p-001.xhtml",
+          "native_member_sha256": "416f64ad4ed76a40a227ad6fd50e3e91aa80fb4b4df8095d1774ffc87ad3ee66",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.711452+00:00",
+          "source_first_notes": "Image-only Character profile page IMG012, no live text. Printed ages and class descriptions remain edition-profile declarations; no current behavioral test from the wrapper.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U014",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "4fa9fec2f092435648d16e20ec09ba5e28b77b37683cdf06d22ee59c3820bd5a",
+      "bytes": 8474,
+      "native_spine_order": 14,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 21,
+      "nonempty_paragraphs": 18,
+      "base_characters": 511,
+      "ruby_count": 12,
+      "image_ids": [
+        "MAIN-04-IMG025"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U014",
+        "metadata_plan_id": "MAIN04-EDITION-U014",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "sha256": "4fa9fec2f092435648d16e20ec09ba5e28b77b37683cdf06d22ee59c3820bd5a",
+        "accepted_principal_contract_exact": {
+          "alias": "Pr / start",
+          "paragraph_slots": 21,
+          "member_sha256": "4fa9fec2f092435648d16e20ec09ba5e28b77b37683cdf06d22ee59c3820bd5a"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U015",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a",
+      "bytes": 282312,
+      "native_spine_order": 15,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 505,
+      "nonempty_paragraphs": 476,
+      "base_characters": 19044,
+      "ruby_count": 465,
+      "image_ids": [
+        "MAIN-04-IMG026",
+        "MAIN-04-IMG013",
+        "MAIN-04-IMG014"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U015",
+        "metadata_plan_id": "MAIN04-EDITION-U015",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a",
+        "accepted_principal_contract_exact": {
+          "alias": "C1 / start",
+          "paragraph_slots": 505,
+          "member_sha256": "427682424c43d2ba88a2b4d445dbff12be56e9d82743b7498dd31c41a72c1a0a"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U016",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "5cb48cef90dcdc1419a9bf6bcb815043d55b9ebf7fdeb01d439139f033b9322e",
+      "bytes": 400966,
+      "native_spine_order": 16,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 714,
+      "nonempty_paragraphs": 673,
+      "base_characters": 26992,
+      "ruby_count": 687,
+      "image_ids": [
+        "MAIN-04-IMG027",
+        "MAIN-04-IMG015",
+        "MAIN-04-IMG016"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U016",
+        "metadata_plan_id": "MAIN04-EDITION-U016",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "sha256": "5cb48cef90dcdc1419a9bf6bcb815043d55b9ebf7fdeb01d439139f033b9322e",
+        "accepted_principal_contract_exact": {
+          "alias": "C2 / start",
+          "paragraph_slots": 714,
+          "member_sha256": "5cb48cef90dcdc1419a9bf6bcb815043d55b9ebf7fdeb01d439139f033b9322e"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U017",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "2b11d380ddfd3c23806883176f5f2419b7266685960ff726debb82f91a490c65",
+      "bytes": 16328,
+      "native_spine_order": 17,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 34,
+      "nonempty_paragraphs": 30,
+      "base_characters": 1172,
+      "ruby_count": 25,
+      "image_ids": [
+        "MAIN-04-IMG028"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U017",
+        "metadata_plan_id": "MAIN04-EDITION-U017",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "sha256": "2b11d380ddfd3c23806883176f5f2419b7266685960ff726debb82f91a490c65",
+        "accepted_principal_contract_exact": {
+          "alias": "C3_start / start",
+          "paragraph_slots": 34,
+          "member_sha256": "2b11d380ddfd3c23806883176f5f2419b7266685960ff726debb82f91a490c65"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U018",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "80d37d9740603327823ab32d53e058215bb9990a360e2f5ea1e55a2ecec167e3",
+      "bytes": 960,
+      "native_spine_order": 18,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG017"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_EMBEDDED_WELCOME_COMPOSITION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U018",
+          "native_member": "item/xhtml/p-006.xhtml",
+          "native_member_sha256": "80d37d9740603327823ab32d53e058215bb9990a360e2f5ea1e55a2ecec167e3",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.712445+00:00",
+          "source_first_notes": "Image-only embedded Aqua welcome spread IMG017, no live text. Actual raster greeting and other characters' surprised reaction were viewed separately; context of retained adjoining chapters still needs its bounded join.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U019",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "8d1119bc818f8df065a9efa77420778cb889f544e583d0bf6b2968248e145bf8",
+      "bytes": 205725,
+      "native_spine_order": 19,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 406,
+      "nonempty_paragraphs": 384,
+      "base_characters": 14384,
+      "ruby_count": 325,
+      "image_ids": [],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U019",
+        "metadata_plan_id": "MAIN04-EDITION-U019",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "sha256": "8d1119bc818f8df065a9efa77420778cb889f544e583d0bf6b2968248e145bf8",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / continuation",
+          "paragraph_slots": 406,
+          "member_sha256": "8d1119bc818f8df065a9efa77420778cb889f544e583d0bf6b2968248e145bf8"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U020",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "fa82216564ecafdf9c8638daba16444679d042dcafb278d1c2ca385947d68f6e",
+      "bytes": 960,
+      "native_spine_order": 20,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG018"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_IMAGINED_SEQUENCE_FIRST_PAGE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U020",
+          "native_member": "item/xhtml/p-008.xhtml",
+          "native_member_sha256": "fa82216564ecafdf9c8638daba16444679d042dcafb278d1c2ca385947d68f6e",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.712941+00:00",
+          "source_first_notes": "First image-only bath comic page IMG018. Depicts K and Wiz encountering one another, initial apology and mixed-bath reassurance. Story-plane and relation to retained prose remain unresolved in original notes pending a bounded contextual join.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U021",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "0f460fe49c49d605ebe4273bc60b3483b1f2a27b8c03458204754c3f2620c197",
+      "bytes": 960,
+      "native_spine_order": 21,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG019"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_IMAGINED_SEQUENCE_SECOND_PAGE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U021",
+          "native_member": "item/xhtml/p-009.xhtml",
+          "native_member_sha256": "0f460fe49c49d605ebe4273bc60b3483b1f2a27b8c03458204754c3f2620c197",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.713933+00:00",
+          "source_first_notes": "Second image-only bath comic page IMG019 continues the same depicted exchange, awkward silence and an interrupted back-washing offer reversed by K's premature volunteered service. One sequence, not two independent events; exact fantasy/actual plane remains a later contextual qualification.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U022",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "ce1612319bf679ca2731cad1a4ed16de4023a0b799ccb58490efd30c548515a7",
+      "bytes": 102268,
+      "native_spine_order": 22,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 218,
+      "nonempty_paragraphs": 206,
+      "base_characters": 7074,
+      "ruby_count": 159,
+      "image_ids": [
+        "MAIN-04-IMG020"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U022",
+        "metadata_plan_id": "MAIN04-EDITION-U022",
+        "native_member": "item/xhtml/p-010.xhtml",
+        "sha256": "ce1612319bf679ca2731cad1a4ed16de4023a0b799ccb58490efd30c548515a7",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / continuation",
+          "paragraph_slots": 218,
+          "member_sha256": "ce1612319bf679ca2731cad1a4ed16de4023a0b799ccb58490efd30c548515a7"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U023",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "bc50c0e76ce8a8b1c0c16a4c1db91bf42710dc6e9dcd1f0aff8f4d0d21a7d9e9",
+      "bytes": 242545,
+      "native_spine_order": 23,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 466,
+      "nonempty_paragraphs": 435,
+      "base_characters": 16951,
+      "ruby_count": 383,
+      "image_ids": [
+        "MAIN-04-IMG029",
+        "MAIN-04-IMG021"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U023",
+        "metadata_plan_id": "MAIN04-EDITION-U023",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "sha256": "bc50c0e76ce8a8b1c0c16a4c1db91bf42710dc6e9dcd1f0aff8f4d0d21a7d9e9",
+        "accepted_principal_contract_exact": {
+          "alias": "C4 / start",
+          "paragraph_slots": 466,
+          "member_sha256": "bc50c0e76ce8a8b1c0c16a4c1db91bf42710dc6e9dcd1f0aff8f4d0d21a7d9e9"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U024",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "c512e28feb296ec13d93e49f99d3b9a99053adce9fdc73891a6c3f920e80adf3",
+      "bytes": 343624,
+      "native_spine_order": 24,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 677,
+      "nonempty_paragraphs": 643,
+      "base_characters": 22741,
+      "ruby_count": 562,
+      "image_ids": [
+        "MAIN-04-IMG030",
+        "MAIN-04-IMG022"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U024",
+        "metadata_plan_id": "MAIN04-EDITION-U024",
+        "native_member": "item/xhtml/p-012.xhtml",
+        "sha256": "c512e28feb296ec13d93e49f99d3b9a99053adce9fdc73891a6c3f920e80adf3",
+        "accepted_principal_contract_exact": {
+          "alias": "C5 / start",
+          "paragraph_slots": 677,
+          "member_sha256": "c512e28feb296ec13d93e49f99d3b9a99053adce9fdc73891a6c3f920e80adf3"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U025",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "f86298103f93103711c50ff08be9648ab723588fa168fecdd39c3f62747e5b46",
+      "bytes": 41695,
+      "native_spine_order": 25,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 94,
+      "nonempty_paragraphs": 85,
+      "base_characters": 2604,
+      "ruby_count": 69,
+      "image_ids": [
+        "MAIN-04-IMG031",
+        "MAIN-04-IMG023"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-04-U025",
+        "metadata_plan_id": "MAIN04-EDITION-U025",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "sha256": "f86298103f93103711c50ff08be9648ab723588fa168fecdd39c3f62747e5b46",
+        "accepted_principal_contract_exact": {
+          "alias": "Ep_start / start",
+          "paragraph_slots": 94,
+          "member_sha256": "f86298103f93103711c50ff08be9648ab723588fa168fecdd39c3f62747e5b46"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-04-U026",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "c2bc61fe1bde44a6e24c83104678e7ea32f41cda25bd66f444e9046a62a237eb",
+      "bytes": 11642,
+      "native_spine_order": 26,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 26,
+      "nonempty_paragraphs": 21,
+      "base_characters": 671,
+      "ruby_count": 20,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "CREATOR_AFTERWORD_NOT_NEW_FICTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 26,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U026",
+          "native_member": "item/xhtml/p-014.xhtml",
+          "native_member_sha256": "c2bc61fe1bde44a6e24c83104678e7ea32f41cda25bd66f444e9046a62a237eb",
+          "start_P": 1,
+          "end_P": 26,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.746806+00:00",
+          "source_first_notes": "Creator afterword celebrates fourth book, jokes that bundled books become a weapon and can also be read; announces Explosions book plans with added material and a manga project, guesses about next volume tone, thanks staff/artist/readers. Plans/reported publishing facts are not performed character events or proof of actual audience reaction.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U027",
+      "member": "item/xhtml/p-015.xhtml",
+      "member_sha256": "486a122a2c4a5c7f685674b66e5569bcea30d704b2e4a6d4d48366da55586708",
+      "bytes": 960,
+      "native_spine_order": 27,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG024"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_NEXT_VOLUME_PROMOTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U027",
+          "native_member": "item/xhtml/p-015.xhtml",
+          "native_member_sha256": "486a122a2c4a5c7f685674b66e5569bcea30d704b2e4a6d4d48366da55586708",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.747798+00:00",
+          "source_first_notes": "NEXT raster page IMG024, no live text. Yunyun's alarming child request, reactions and clarified village invitation are prospective promotional framing; no actual pregnancy, sexual act, parentage or completed village visit established here.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U028",
+      "member": "item/xhtml/p-016.xhtml",
+      "member_sha256": "a1a84a8c8b16f0dc81b31dd852139e0950a7e842675dfb4021262970bbc8c734",
+      "bytes": 1038,
+      "native_spine_order": 28,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 5,
+      "nonempty_paragraphs": 2,
+      "base_characters": 26,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ELECTRONIC_BONUS_HEADING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 5,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U028",
+          "native_member": "item/xhtml/p-016.xhtml",
+          "native_member_sha256": "a1a84a8c8b16f0dc81b31dd852139e0950a7e842675dfb4021262970bbc8c734",
+          "start_P": 1,
+          "end_P": 5,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.748295+00:00",
+          "source_first_notes": "Separate electronic-volume4 purchase-thanks heading and title 町内会の不死の王, with blank slots. Establishes bonus boundary before U029.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U029",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+      "bytes": 13986,
+      "native_spine_order": 29,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 67,
+      "nonempty_paragraphs": 65,
+      "base_characters": 1989,
+      "ruby_count": 1,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "COMPLETE_SEPARATE_ELECTRONIC_BONUS_STORY",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 67,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U029",
+          "native_member": "item/xhtml/p-017.xhtml",
+          "native_member_sha256": "b895949853bfb3016b0a72e72b834717f3b26b7413a54884b58b60aa5e1087bd",
+          "start_P": 1,
+          "end_P": 67,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.774605+00:00",
+          "source_first_notes": "Complete K-first-person cemetery bonus,67slots. Aqua accepted a neighborhood fright-event staff request; K contests forcing actual lich Wiz into it. Wiz says Aqua's proposed frightening-face compliment hurts more, then volunteers to scare. Aqua actually applies convincing makeup; Wiz worries about overdoing it, K speculates about elderly heart failure but none occurs. Aqua plans conversational distraction and Wiz jumps out before K identifies visitors as fellow hired ghost workers. They mistake makeup for real zombie despite speech and objections; repeated group request asks Aqua to use purportedly human-safe Turn Undead. Wiz protests, K explains special makeup, Aqua says she will use low power. No explicit spell release is narrated before cut. Night outcome is Wiz/zombie running through graveyard and Aqua receiving an unexplained temporary bonus. Not a shown participant injury, actual purification/death, full prior informed agreement, or measured spell efficacy.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U030",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "edf9981c192a87e14333959ff2b9edb44d9109a7078a8b4e6aaf016ea7e8311a",
+      "bytes": 1260,
+      "native_spine_order": 30,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 6,
+      "nonempty_paragraphs": 3,
+      "base_characters": 85,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ILLUSTRATION_AND_DESIGN_CREDITS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 6,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U030",
+          "native_member": "item/xhtml/p-018.xhtml",
+          "native_member_sha256": "edf9981c192a87e14333959ff2b9edb44d9109a7078a8b4e6aaf016ea7e8311a",
+          "start_P": 1,
+          "end_P": 6,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.775597+00:00",
+          "source_first_notes": "Illustration and cover/interior design credits, with blank slots. Creator attribution only, no new fiction.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U031",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "member_sha256": "904b882ada5a4cdaca906593ab4f1bfbfbcc86a2e08647337ca3297ee5fafe81",
+      "bytes": 5715,
+      "native_spine_order": 31,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 17,
+      "nonempty_paragraphs": 16,
+      "base_characters": 309,
+      "ruby_count": 6,
+      "image_ids": [
+        "MAIN-04-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOPHON",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 17,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U031",
+          "native_member": "item/xhtml/p-colophon.xhtml",
+          "native_member_sha256": "904b882ada5a4cdaca906593ab4f1bfbfbcc86a2e08647337ca3297ee5fafe81",
+          "start_P": 1,
+          "end_P": 17,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.776093+00:00",
+          "source_first_notes": "Colophon gives electronic issue and print basis both2014-05-01, source title and author ruby, copyright2014, publisher/address/contact/imprint. Mixed subtitle ruby kept as printed; no claim that current external web or contacts were checked.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U032",
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "member_sha256": "5fea6f2510e62288e91d99a2ab3ebd68620c7d9a14adc17d45960e90be3506e6",
+      "bytes": 873,
+      "native_spine_order": 32,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-04-IMG002"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "BOOKWALKER_LOGO_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U032",
+          "native_member": "item/xhtml/p-bookwalker.xhtml",
+          "native_member_sha256": "5fea6f2510e62288e91d99a2ab3ebd68620c7d9a14adc17d45960e90be3506e6",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.777085+00:00",
+          "source_first_notes": "BOOK WALKER raster logo wrapper IMG002; no narrative or nonparagraph residual.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-04-U033",
+      "member": "item/navigation-documents.xhtml",
+      "member_sha256": "9713c9ef70189d3dc6e206b1b5e2e22e6a12ddbf91762685cd12b4f017cfc076",
+      "bytes": 1641,
+      "native_spine_order": null,
+      "in_spine": false,
+      "properties": "nav",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "NAVIGATION_RESIDUAL",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-04",
+          "component_id": "MAIN-04-U033",
+          "native_member": "item/navigation-documents.xhtml",
+          "native_member_sha256": "9713c9ef70189d3dc6e206b1b5e2e22e6a12ddbf91762685cd12b4f017cfc076",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T08:20:43.777085+00:00",
+          "source_first_notes": "Navigation residual actually read: cover, contents, prologue/five chapters/epilogue, named bonus and colophon, Guide cover/contents/body. Zero paragraph slots does not mean residual ignored; repeated route labels are not extra stories.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "image_id": "MAIN-04-IMG001",
+      "member": "item/image/cover.jpg",
+      "sha256": "cda208955fca062bf0405e99cea93e98ba786b79561f6e5dac9957b380d821a4",
+      "bytes": 178338,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG001",
+        "native_image_member": "item/image/cover.jpg",
+        "native_image_sha256": "cda208955fca062bf0405e99cea93e98ba786b79561f6e5dac9957b380d821a4",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.285998+00:00",
+        "source_first_notes": "Color cover centers Wiz, Aqua eating a bun, small bath-robed Megumin and Darkness; title4/subtitle, author/illustrator and imprint legible. Cover composite has no narrated chronology.",
+        "reading_scope_and_limit": "Cover/marketing plane; no new enacted visit or speech.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG002",
+      "member": "item/image/bookwalker.png",
+      "sha256": "898ce653b4dfa0232ce1e1d5670e6149afde35979b5cd8be3f815f3f41e5f507",
+      "bytes": 5543,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG002",
+        "native_image_member": "item/image/bookwalker.png",
+        "native_image_sha256": "898ce653b4dfa0232ce1e1d5670e6149afde35979b5cd8be3f815f3f41e5f507",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.287486+00:00",
+        "source_first_notes": "BOOK WALKER wordmark and colored book bars on white, no fiction.",
+        "reading_scope_and_limit": "Distributor logo only.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG003",
+      "member": "item/image/logo-sneaker.png",
+      "sha256": "b711af1d1ea56c33d80bb709ecb7f2d45723289a71d1dd221a9d7af0d20190a6",
+      "bytes": 1335,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG003",
+        "native_image_member": "item/image/logo-sneaker.png",
+        "native_image_sha256": "b711af1d1ea56c33d80bb709ecb7f2d45723289a71d1dd221a9d7af0d20190a6",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.288974+00:00",
+        "source_first_notes": "Small yellow/black Sneaker imprint symbol, actually viewed at original resolution.",
+        "reading_scope_and_limit": "Imprint only.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG004",
+      "member": "item/image/toc-001.jpg",
+      "sha256": "d043a2514c65628a118315272b0de44e0fc8299fcb6606c6d989201b99c33065",
+      "bytes": 565336,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG004",
+        "native_image_member": "item/image/toc-001.jpg",
+        "native_image_sha256": "d043a2514c65628a118315272b0de44e0fc8299fcb6606c6d989201b99c33065",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.298928+00:00",
+        "source_first_notes": "Monochrome contents composite, Vanir/Megumin/Darkness/Wiz chibis. Print-like references Pr005,C1007,C2053,C3117,C4176,C5217,Ep272. Subtitle ナマクラカルテット.",
+        "reading_scope_and_limit": "Navigation artwork; these page references are not native P locators.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG005",
+      "member": "item/image/kuchie-001.jpg",
+      "sha256": "bb6427c6b3b7da1bbf5474e564c638d79f7f84781cadd2a64a7bd36962f2cf93",
+      "bytes": 200400,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG005",
+        "native_image_member": "item/image/kuchie-001.jpg",
+        "native_image_sha256": "bb6427c6b3b7da1bbf5474e564c638d79f7f84781cadd2a64a7bd36962f2cf93",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.308868+00:00",
+        "source_first_notes": "Color panel: Vanir II reacts to party's sudden Arcanretia hot-springs request and says he can watch shop; Wiz smiles with ニヤ, K proposes peeking at their scheme. Other party members grouped.",
+        "reading_scope_and_limit": "Frontmatter staged/compressed dialogue; no unseen mind-reading performance or unlimited caretaker promise inferred.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG006",
+      "member": "item/image/kuchie-002.jpg",
+      "sha256": "8f63560a5644056893bedd8c0cdcc40850911d66a85c45e63d09234f7dcc8df2",
+      "bytes": 159095,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG006",
+        "native_image_member": "item/image/kuchie-002.jpg",
+        "native_image_sha256": "8f63560a5644056893bedd8c0cdcc40850911d66a85c45e63d09234f7dcc8df2",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.320313+00:00",
+        "source_first_notes": "Wiz-specific color case: vendor calls her unhappy and offers Eris doll for luck; she holds it happily, anticipates easier business and considers Vanir souvenir. Vanir says prior doll-making was not hobby and worries exploding it would incur punishment.",
+        "reading_scope_and_limit": "Frontmatter staged encounter; sales claims not actual improved profit, luck or new divine intervention.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG007",
+      "member": "item/image/kuchie-003.jpg",
+      "sha256": "485d0714db71b65c6ff46b0296c218bdf71d6bb5d66fc4f7a33905204ac0c89d",
+      "bytes": 156848,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG007",
+        "native_image_member": "item/image/kuchie-003.jpg",
+        "native_image_sha256": "485d0714db71b65c6ff46b0296c218bdf71d6bb5d66fc4f7a33905204ac0c89d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.331793+00:00",
+        "source_first_notes": "Megumin-specific color case: church/deep dungeon and great enemy imagining, townsmanA(K-like appearance) reports monsters, M offers to burn enemies; Vanir comments that only Explosion is in her head.",
+        "reading_scope_and_limit": "Imagined/staged grand quest and offers, not an actual new spell cast or established100-floor dungeon.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG008",
+      "member": "item/image/kuchie-004.jpg",
+      "sha256": "bf188e65a36f0ee416c5093fc7cca2966b0d5d359ad56fb00485660a4d14a081",
+      "bytes": 150691,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG008",
+        "native_image_member": "item/image/kuchie-004.jpg",
+        "native_image_sha256": "bf188e65a36f0ee416c5093fc7cca2966b0d5d359ad56fb00485660a4d14a081",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.342740+00:00",
+        "source_first_notes": "Darkness-specific color case: off-panel proselytizing request and Axis form meet explicit Eris-devotee refusal; opponent begins direct-body alternative, her reaction changes; Vanir facepalms and gives up commenting.",
+        "reading_scope_and_limit": "Preserve explicit initial refusal and incomplete alternative; no completed body act, general consent or actual conversion inferred.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG009",
+      "member": "item/image/kuchie-005.jpg",
+      "sha256": "c0bf4322e69eb672270a37774f65e30cceda1cc259e9b66fba165dd4715c63c3",
+      "bytes": 162647,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG009",
+        "native_image_member": "item/image/kuchie-005.jpg",
+        "native_image_sha256": "c0bf4322e69eb672270a37774f65e30cceda1cc259e9b66fba165dd4715c63c3",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.354717+00:00",
+        "source_first_notes": "Aqua-specific case shows admiring crowd asking autograph/photo/handshake and her indulgent reassurance, followed by Vanir suppressing laughter.",
+        "reading_scope_and_limit": "Aspirational frontmatter frame with later explicit imagination commentary; no newly witnessed public service burden or actual devoted crowd trial.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG010",
+      "member": "item/image/kuchie-006.jpg",
+      "sha256": "8360de95d151187f3822538a97b51e6444d8d3bab93be7b4258375131367e0af",
+      "bytes": 223705,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG010",
+        "native_image_member": "item/image/kuchie-006.jpg",
+        "native_image_sha256": "8360de95d151187f3822538a97b51e6444d8d3bab93be7b4258375131367e0af",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.364854+00:00",
+        "source_first_notes": "Wide color Kazuma-specific bath-peeping imagining with women anticipating his predictable conduct; analytical reading kept non-graphic.",
+        "reading_scope_and_limit": "Represented intrusive fantasy, not actual access, permission, consent or an additional bath event.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG011",
+      "member": "item/image/kuchie-007.jpg",
+      "sha256": "8941f0a1545ba98292e048922a98efd74b8cdbe1a4bd7fe1a28f54ad0a582474",
+      "bytes": 156618,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG011",
+        "native_image_member": "item/image/kuchie-007.jpg",
+        "native_image_sha256": "8941f0a1545ba98292e048922a98efd74b8cdbe1a4bd7fe1a28f54ad0a582474",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.376614+00:00",
+        "source_first_notes": "Yunyun peeks through door; Vanir says an imagining could simply include shared company. Represented M/Yun hot-spring leisure follows; he says he knows nobody here's wishes will come true and still sends party off with GoodLuck.",
+        "reading_scope_and_limit": "Explicit imagination/paratext frame; no performed joint bath, accepted outing or independent trial. No graphic description retained.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG012",
+      "member": "item/image/img-0001.jpg",
+      "sha256": "48398bdaff06fee86f1e25e9fe5b189bff8c414eb92b24cb20d1d0c7cc8c20aa",
+      "bytes": 206113,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG012",
+        "native_image_member": "item/image/img-0001.jpg",
+        "native_image_sha256": "48398bdaff06fee86f1e25e9fe5b189bff8c414eb92b24cb20d1d0c7cc8c20aa",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.388718+00:00",
+        "source_first_notes": "Monochrome Character page: Darkness18Crusader/noble, Aqua ageunknownArchpriest, Megumin14Archwizard, Yunyun13Archwizard, Wiz20shopowner, Eris ageunknownGoddess,Sena20kingdomprosecutor,K16Adventurer. M described as able/willing only Explosion; K near giving up DemonKing mission.",
+        "reading_scope_and_limit": "Edition-profile declarations. M14 differs from earlier edition M13; preserve provenance rather than silently changing earlier ages. Broad descriptions not observed universal behavior.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG013",
+      "member": "item/image/img-0002.jpg",
+      "sha256": "68bc1eb7ac639858a99f10038a250e9848ac7102c2d7b5768a0ee81609eed0fa",
+      "bytes": 102219,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG013",
+        "native_image_member": "item/image/img-0002.jpg",
+        "native_image_sha256": "68bc1eb7ac639858a99f10038a250e9848ac7102c2d7b5768a0ee81609eed0fa",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.400664+00:00",
+        "source_first_notes": "Serious K sword portrait labeled 銘刀 ちゅんちゅん丸, with strong contrast between named-blade pose and diminutive-looking name.",
+        "reading_scope_and_limit": "Illustration/orthographic naming cue; no shown combat, sharpness or superior execution.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG014",
+      "member": "item/image/img-0003.jpg",
+      "sha256": "e99f9350fe77640ac456b9fa0831171b6232216c41dee8a618e3a23f0addbeb3",
+      "bytes": 106391,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG014",
+        "native_image_member": "item/image/img-0003.jpg",
+        "native_image_sha256": "e99f9350fe77640ac456b9fa0831171b6232216c41dee8a618e3a23f0addbeb3",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.411141+00:00",
+        "source_first_notes": "Eris portrait with finger near chin, goddess clothing and luminous styling; no dialogue.",
+        "reading_scope_and_limit": "Portrait, not an additional divine decision, specific mental state or public demand.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG015",
+      "member": "item/image/img-0004.jpg",
+      "sha256": "c47e9d1ef2a1419549c03df8bb2c915e84891a20f0c7f95b232a029e36962b0d",
+      "bytes": 126672,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG015",
+        "native_image_member": "item/image/img-0004.jpg",
+        "native_image_sha256": "c47e9d1ef2a1419549c03df8bb2c915e84891a20f0c7f95b232a029e36962b0d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.420578+00:00",
+        "source_first_notes": "Red-eyed dark-haired young woman with low side-tied hair and blonde Darkness-like woman tasting elongated handheld snacks at counter.",
+        "reading_scope_and_limit": "Identity and exact event require adjoining retained prose; source-first note retains visible figures rather than assuming speaker or motive.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG016",
+      "member": "item/image/img-0005.jpg",
+      "sha256": "87f60f390bfe4702935b77522e4e92ab8cbe12bc7d07823bc2a9e8446aca6e1e",
+      "bytes": 113063,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG016",
+        "native_image_member": "item/image/img-0005.jpg",
+        "native_image_sha256": "87f60f390bfe4702935b77522e4e92ab8cbe12bc7d07823bc2a9e8446aca6e1e",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.429537+00:00",
+        "source_first_notes": "Wiz smiles beside Megumin holding a birdlike creature in a cage, with Chomusuke on Wiz's lap. No dialogue.",
+        "reading_scope_and_limit": "Illustrates travel/company; species, acquisition permission and complete feelings not established by art.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG017",
+      "member": "item/image/img-0006.jpg",
+      "sha256": "43fcb8ae1bc034889a5af7e69a939ce0f6286302e27e580456ef88a73987fa77",
+      "bytes": 234496,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG017",
+        "native_image_member": "item/image/img-0006.jpg",
+        "native_image_sha256": "43fcb8ae1bc034889a5af7e69a939ce0f6286302e27e580456ef88a73987fa77",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.438488+00:00",
+        "source_first_notes": "Wide embedded image-only spread: Aqua enthusiastically says ようこそ!! in hot-spring town; K/M/D chibis react in surprise, street silhouettes behind.",
+        "reading_scope_and_limit": "Raster greeting actually read; adjacent principal context to be joined later, no new standalone adventure count.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG018",
+      "member": "item/image/img-0007.jpg",
+      "sha256": "f050ce45afb35a62385ff1504072bc1b236654dc88aa463311a80d2ef7b9fa19",
+      "bytes": 133072,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG018",
+        "native_image_member": "item/image/img-0007.jpg",
+        "native_image_sha256": "f050ce45afb35a62385ff1504072bc1b236654dc88aa463311a80d2ef7b9fa19",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.447945+00:00",
+        "source_first_notes": "First embedded comic page: startled Wiz recognizes K in mixed bath; K apologizes; she says mixed bath is fine, and he begins to sit. Analytical description non-graphic.",
+        "reading_scope_and_limit": "One two-page group with IMG019. Actual/fantasy status not settled in original notes until adjoining retained narration checked; no broad permission inferred.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG019",
+      "member": "item/image/img-0008.jpg",
+      "sha256": "1626b8cd8aa6f8373601961b561b9e42e79c4ec9b21496f4b0bc32481fbffc1a",
+      "bytes": 135618,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG019",
+        "native_image_member": "item/image/img-0008.jpg",
+        "native_image_sha256": "1626b8cd8aa6f8373601961b561b9e42e79c4ec9b21496f4b0bc32481fbffc1a",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.457399+00:00",
+        "source_first_notes": "Second comic page: shared silence, Wiz starts back-related offer, K prematurely volunteers to wash, she loudly corrects direction of the intended service.",
+        "reading_scope_and_limit": "Same group as IMG018; offer is interrupted and no completed washing shown. Original contextual plane remains open pending bounded backjoin.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG020",
+      "member": "item/image/img-0009.jpg",
+      "sha256": "b968fb4a0f1bb544f64e079f2ac16ea7cbb64b6e7f3fb05917e8aa49b43dca82",
+      "bytes": 94100,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG020",
+        "native_image_member": "item/image/img-0009.jpg",
+        "native_image_sha256": "b968fb4a0f1bb544f64e079f2ac16ea7cbb64b6e7f3fb05917e8aa49b43dca82",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.466352+00:00",
+        "source_first_notes": "Wiz bath illustration with K reaction inset, no dialogue.",
+        "reading_scope_and_limit": "Image itself cannot determine full narrated thought, consent or performed service. Non-graphic analytic scope.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG021",
+      "member": "item/image/img-0010.jpg",
+      "sha256": "e5cef7a8e05f68cc44eb3b7252723491182b1a0f91e03ffa2596f8ec717d0c29",
+      "bytes": 140357,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG021",
+        "native_image_member": "item/image/img-0010.jpg",
+        "native_image_sha256": "e5cef7a8e05f68cc44eb3b7252723491182b1a0f91e03ffa2596f8ec717d0c29",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.475797+00:00",
+        "source_first_notes": "Split illustration of Aqua's assertive stance and Darkness's flushed/tense response; no legible dialogue.",
+        "reading_scope_and_limit": "Full cause, desire and coercion context require retained prose; facial rendering not complete inner-state evidence.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG022",
+      "member": "item/image/img-0011.jpg",
+      "sha256": "13d0b84c087e783579ba705286cba2445ca8abb0c91f8372792325976fcb4ee2",
+      "bytes": 109531,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG022",
+        "native_image_member": "item/image/img-0011.jpg",
+        "native_image_sha256": "13d0b84c087e783579ba705286cba2445ca8abb0c91f8372792325976fcb4ee2",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.484247+00:00",
+        "source_first_notes": "Large dark-haired man with small beard gestures behind Aqua pointing/arguing; no dialogue.",
+        "reading_scope_and_limit": "Role/name and exact conflict require source context; no additional action or competence trial inferred from composition.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG023",
+      "member": "item/image/img-0012.jpg",
+      "sha256": "922e90b97c2d6610ec145604d4e2181b004c6af81a77461b1960f99752523447",
+      "bytes": 111329,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG023",
+        "native_image_member": "item/image/img-0012.jpg",
+        "native_image_sha256": "922e90b97c2d6610ec145604d4e2181b004c6af81a77461b1960f99752523447",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.493710+00:00",
+        "source_first_notes": "Yunyun tearfully clutches a letter/cloth while K reacts in lower panel.",
+        "reading_scope_and_limit": "Visible distress and letter motif; no literal pregnancy, completed appeal, author of letter or exact content from art alone.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG024",
+      "member": "item/image/img-0013.jpg",
+      "sha256": "7b47d1e7dfde932a66f78f915d34c4a8a8075aac26eb51d72d939857c7207ee7",
+      "bytes": 132950,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG024",
+        "native_image_member": "item/image/img-0013.jpg",
+        "native_image_sha256": "7b47d1e7dfde932a66f78f915d34c4a8a8075aac26eb51d72d939857c7207ee7",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.503155+00:00",
+        "source_first_notes": "NEXT5 promotional dialogue begins Yunyun wanting K's child; K immediately agrees, M asks sanity, Aq questions, D speculates, K boasts jealousy, silence follows, Yun clarifies village accompaniment. Subtitle 爆裂紅魔にレッツ＆ゴー!! and ComingSoon.",
+        "reading_scope_and_limit": "Promotion/elliptical comic framing; not an actual sexual act, pregnancy, child, adult relationship or completed V05 travel.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG025",
+      "member": "item/image/img-t001.jpg",
+      "sha256": "4038b35a01ccee8e238236c45dde62c851c54b747019f8d6cafb85fbc7f5c6d6",
+      "bytes": 25030,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG025",
+        "native_image_member": "item/image/img-t001.jpg",
+        "native_image_sha256": "4038b35a01ccee8e238236c45dde62c851c54b747019f8d6cafb85fbc7f5c6d6",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.511622+00:00",
+        "source_first_notes": "Prologue chibi Aqua with title balloon.",
+        "reading_scope_and_limit": "Section marker; no new utterance or event.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG026",
+      "member": "item/image/img-t002.jpg",
+      "sha256": "e636c70d934cd7ad3f6b498ae95447940d4b8364660e89d9746cb78075a49860",
+      "bytes": 28867,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG026",
+        "native_image_member": "item/image/img-t002.jpg",
+        "native_image_sha256": "e636c70d934cd7ad3f6b498ae95447940d4b8364660e89d9746cb78075a49860",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.521064+00:00",
+        "source_first_notes": "C1 title この煩わしい外界にさよならを！ with chibi Vanir.",
+        "reading_scope_and_limit": "Section marker; title not literal world renunciation by depicted figure.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG027",
+      "member": "item/image/img-t003.jpg",
+      "sha256": "06bce77729c7dd77452e6ef32bee23c72af56feda97c206cbf98594abcea0c9c",
+      "bytes": 31640,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG027",
+        "native_image_member": "item/image/img-t003.jpg",
+        "native_image_sha256": "06bce77729c7dd77452e6ef32bee23c72af56feda97c206cbf98594abcea0c9c",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.530487+00:00",
+        "source_first_notes": "C2 title このふてぶてしい鈍らに招待を！ with distressed chibi Wiz.",
+        "reading_scope_and_limit": "Section marker; no separately enacted invitation or distress cause.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG028",
+      "member": "item/image/img-t004.jpg",
+      "sha256": "c7d3ca73f27d995573e0d5474264811840923f1eaa29ff94ffab1238a02c54f1",
+      "bytes": 28569,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG028",
+        "native_image_member": "item/image/img-t004.jpg",
+        "native_image_sha256": "c7d3ca73f27d995573e0d5474264811840923f1eaa29ff94ffab1238a02c54f1",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.539418+00:00",
+        "source_first_notes": "C3 title この痛々しい街で観光を！ with chibi Darkness.",
+        "reading_scope_and_limit": "Section marker, not a new independent choice.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG029",
+      "member": "item/image/img-t005.jpg",
+      "sha256": "26921bd534cecac045df93687f3ede072fb15ddb246d8517b0bf613d698fb0df",
+      "bytes": 30060,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG029",
+        "native_image_member": "item/image/img-t005.jpg",
+        "native_image_sha256": "26921bd534cecac045df93687f3ede072fb15ddb246d8517b0bf613d698fb0df",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.554884+00:00",
+        "source_first_notes": "C4 title この怪しい事件に救援を！ with bath-robed chibi Megumin.",
+        "reading_scope_and_limit": "Section marker, not evidence of fresh cast or rescue.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG030",
+      "member": "item/image/img-t006.jpg",
+      "sha256": "0e3d19d439fcff5d92650161372eb0a9f7a447103740e2c4b4a4abe2d49d1eab",
+      "bytes": 30916,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG030",
+        "native_image_member": "item/image/img-t006.jpg",
+        "native_image_sha256": "0e3d19d439fcff5d92650161372eb0a9f7a447103740e2c4b4a4abe2d49d1eab",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.571313+00:00",
+        "source_first_notes": "C5 title この不浄な温泉街に女神を！ with chibi Aqua.",
+        "reading_scope_and_limit": "Section marker; no actual purification result from title.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    },
+    {
+      "image_id": "MAIN-04-IMG031",
+      "member": "item/image/img-t007.jpg",
+      "sha256": "51477c63fc6aefa9dd97589348fd5bed232180424834c4a1785478eea2c76d13",
+      "bytes": 25127,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-04",
+        "image_id": "MAIN-04-IMG031",
+        "native_image_member": "item/image/img-t007.jpg",
+        "native_image_sha256": "51477c63fc6aefa9dd97589348fd5bed232180424834c4a1785478eea2c76d13",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T08:21:51.581280+00:00",
+        "source_first_notes": "Epilogue title with chibi Yunyun, eyes closed and expressive stance.",
+        "reading_scope_and_limit": "Section marker, not a new separate claim or distress episode.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original notes retained as history. Q18-Q25 and retained-native backjoins correct profile age scope, balloon-object/actor identity, caged dragon, counterfactual Wiz encounter, distinct actual unnamed bath woman, welcome-speaker access and Hans identity. Current qualifications govern interpretation; profile/promotion and imagined roles do not create additional enacted events."
+    }
+  ],
+  "new_excluded_text_resources": 24,
+  "new_excluded_P_slots": 144,
+  "retained_principal_members": 9,
+  "retained_principal_P_slots": 3135,
+  "new_principal_reading_credit": 0,
+  "bonus_narrative": {
+    "component_id": "MAIN-04-U029",
+    "title": "町内会の不死の王",
+    "P": [
+      1,
+      67
+    ],
+    "heading_component": "MAIN-04-U028",
+    "chronology": "Neighborhood cemetery event with establishedK/Aqua/Wiz familiarity; exact principal chapter/day unbound."
+  },
+  "image_only_narrative_components": [
+    {
+      "id": "MAIN04-IMAGE-ONLY-MISSED-WIZ-ENCOUNTER",
+      "component_ids": [
+        "MAIN-04-U020",
+        "MAIN-04-U021"
+      ],
+      "image_ids": [
+        "MAIN-04-IMG018",
+        "MAIN-04-IMG019"
+      ],
+      "source_plane": "EMBEDDED_KAZUMA_COUNTERFACTUAL_IMAGINING",
+      "retained_native_joins": [
+        "MAIN-04-U019:P0402-0406",
+        "MAIN-04-U022:P0001-0002"
+      ],
+      "focalizer_precision": "Kazuma's counterfactual missed timing explicitly established by adjoining narration; not actual Wiz invitation.",
+      "new_enacted_mainline_event": false
+    }
+  ],
+  "image_only_compositional_welcome": {
+    "component_id": "MAIN-04-U018",
+    "image_id": "MAIN-04-IMG017",
+    "text": "ようこそ!!",
+    "retained_join": [
+      "MAIN-04-U017:P0031-0034",
+      "MAIN-04-U019:P0001-0010"
+    ],
+    "prose_welcome_speaker_not_assigned_from_image_alone": true
+  },
+  "raster_staged_profile_script_images": [
+    "MAIN-04-IMG012"
+  ],
+  "promotional_script_image": "MAIN-04-IMG024",
+  "source_plane_limit": "All24newresources144P/31images actually received;9acceptedprincipal members3135P retainedexact/newprincipalcredit0. One67Pbonus,26Pcreatorafterword and51otherwrapper/credit/navigation slots; one embedded welcome composition and one two-page imagined sequence identified. Staged frontmatter/profile/promotion separate. These slot counts are not a narrative denominator."
+}

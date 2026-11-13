@@ -1,0 +1,1020 @@
+{
+  "schema": "KONOSUBA_VANIR_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-19T22:21:06.886565+00:00",
+  "authority_source_commit": "49dbe1b11b22a4007c33c9d3bea16c7877006bc1",
+  "current_core_native_scope": {
+    "MASK_complete_BASE_TEXT_units": [
+      {
+        "component_id": "MASK-U011",
+        "member": "text/part0009.html",
+        "member_sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 45,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            45
+          ]
+        ]
+      },
+      {
+        "component_id": "MASK-U013",
+        "member": "text/part0011.html",
+        "member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 481,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            481
+          ]
+        ]
+      },
+      {
+        "component_id": "MASK-U015",
+        "member": "text/part0013.html",
+        "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 518,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            518
+          ]
+        ]
+      },
+      {
+        "component_id": "MASK-U017",
+        "member": "text/part0015.html",
+        "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 587,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            587
+          ]
+        ]
+      },
+      {
+        "component_id": "MASK-U019",
+        "member": "text/part0017.html",
+        "member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 648,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            648
+          ]
+        ]
+      },
+      {
+        "component_id": "MASK-U021",
+        "member": "text/part0019.html",
+        "member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 556,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            556
+          ]
+        ]
+      },
+      {
+        "component_id": "MASK-U023",
+        "member": "text/part0021.html",
+        "member_sha256": "702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6",
+        "actual_complete_BASE_TEXT_member": true,
+        "actual_unique_BASE_TEXT_P": 27,
+        "received_BASE_TEXT_ranges": [
+          [
+            1,
+            27
+          ]
+        ]
+      }
+    ],
+    "MASK_unique_P": 2862,
+    "MAIN07_unique_BASE_TEXT_P": 327,
+    "nine_member_scope_sum_not_observations": 3189,
+    "fresh_whole_EPUB_or_ruby_or_image_passes": 0,
+    "independent_validation_credit": 0
+  },
+  "native_receipts": [
+    {
+      "preserved_receipt_name": "SECONDARY_ACCEPTED_MASK_YUNYUN_AGENCY_RECHECK_01.json",
+      "receipt_sha256": "9ec83a73807dd411c7ca54a5bbfc6ac91f7ca81489d6c69ef077d5aa3573d502",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_ACCEPTED_MASK_YUNYUN_AGENCY_NATIVE_RECHECK_V1",
+        "received_utc": "2026-10-19T13:36:52.809877+00:00",
+        "source_id": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "actual_native_windows": [
+          {
+            "unit": "MASK-U013",
+            "member": "text/part0011.html",
+            "member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+            "actual_untruncated_P_windows": [
+              [
+                140,
+                205
+              ],
+              [
+                275,
+                305
+              ],
+              [
+                306,
+                334
+              ],
+              [
+                335,
+                405
+              ],
+              [
+                406,
+                459
+              ]
+            ],
+            "actual_unique_P": 251
+          },
+          {
+            "unit": "MASK-U019",
+            "member": "text/part0017.html",
+            "member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+            "actual_untruncated_P_windows": [
+              [
+                315,
+                368
+              ]
+            ],
+            "actual_unique_P": 54
+          }
+        ],
+        "actual_unique_P_total": 305,
+        "findings": [
+          "Yunyun rejects fabricated rescue and substitute-skin proposals; specifies desired conversation/walk company but explicitly reserves selection rights and rejects Dust. Minimum language compatibility is not blanket agreement.",
+          "Publicly coerced disclosure and limited divination retain actual distress; Vanir does not see exact new-friend identity/method. Yunyun reports being14thisyear; temporalselfreportisnot a timelessprofileage.",
+          "Leen directly refuses Dust introduction; after Yunyun leaves, she explains suspicionofDust, self-perceivedlevelmismatch and others reportedrespect/admiration. Their belief that Yunyun wants solitude is conveyed secondhand, not proof nobodywantsher. Leen repayment/refusalofguarantee and actual spellambush have their own agency.",
+          "Vanir impersonatesLeen, receives enthusiasticfriendassent underfalseidentity, then reveals. Yunyun actually retaliates withdagger, pauses for message, thanksmessageyet condemns the trap. Laterrealcompany/joy do notbackdateinformedinitialassent.",
+          "Yunyun notices friend-labor manipulation aloud and still accompaniesVanir toshop. Wiz reports prior potiontransaction and actuallaterfriendjoy; not firsteveracquaintance. Neither exploitationawarenessnor latercompany supplies unlimitedlaboragreement.",
+          "At racket encounter Yunyun begins under a good-act explanation, warns/defends and corrects mistaken Explosion identity; no released attack shown before opponents flee. Later learns stagedpotfraud through actualconversation/Vanirappraisal, angrilyobjects, rejects bestfriendlabel as mereacquaintance and requests nofurtherinvolvement. Her completeddeparture is not shown inthatwindow; Vanirleaves.",
+          "This is currentretrospective source-known refinement after original Yunyun modelpublication, not a new heldoutsource/opportunity or permission toamend SY-C01originalfields."
+        ],
+        "new_whole_source_or_independent_test_credit": 0,
+        "all_original_models_forecasts_scores_and_notes_unchanged": true
+      }
+    },
+    {
+      "preserved_receipt_name": "SECONDARY_ACCEPTED_MASK_ORIGIN_NATIVE_RECHECK_01.json",
+      "receipt_sha256": "edb4d8c2868e9beb086478c1bc39debe58b6c5252ef2c61d73dd19a708c26b08",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_MASK_ORIGIN_NATIVE_RECHECK_01",
+        "actual_reading_recorded_utc": "2026-10-19T14:27:27.840346+00:00",
+        "source": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "windows": [
+          {
+            "component_id": "MASK-U021",
+            "member": "text/part0019.html",
+            "member_sha256": "afa3465b454f22d0795390e6d0b0c5f4dd93f5426bd492678692d45bd744f16d",
+            "actual_untruncated_windows_P": [
+              [
+                45,
+                105
+              ],
+              [
+                170,
+                240
+              ],
+              [
+                276,
+                350
+              ],
+              [
+                351,
+                410
+              ],
+              [
+                411,
+                470
+              ],
+              [
+                471,
+                526
+              ],
+              [
+                527,
+                556
+              ],
+              [
+                1,
+                44
+              ],
+              [
+                106,
+                169
+              ],
+              [
+                241,
+                275
+              ]
+            ],
+            "actual_unique_P": 556,
+            "actual_whole_textual_unit_received": true
+          },
+          {
+            "component_id": "MASK-U023",
+            "member": "text/part0021.html",
+            "member_sha256": "702642bc0b1e8be4d3b45b538e83124f046fedeeab4cd43d771bbe29d323efd6",
+            "actual_untruncated_windows_P": [
+              [
+                1,
+                27
+              ]
+            ],
+            "actual_unique_P": 27,
+            "actual_whole_textual_unit_received": true
+          }
+        ],
+        "actual_unique_P": 583,
+        "new_whole_book_or_independent_source_test_credit": 0,
+        "source_already_accepted": true,
+        "source_semantics": "Full556Poriginunit and27Pepilogue received in enumerateduntruncatednativewindows. Not another wholeMASK/source-firstpass.",
+        "findings": [
+          "Native45-105:BradSwordmaster47,RosaryArchpriest49;WizactualInferno52/search67;Vanirchestperformance80andappearance/discussion,role/intentclaims separate.",
+          "106-169:Rosaryactualsealattempt108-115failsbecauseVanirkicksfocusbeforeactivation;Bradrestrainsheatedsectarianattack130;claimedretirement/marriagegoalVanir137,notprivateomniscienceoracceptedplan.Karen/Yukinorireportedmutualfeelings143,otherthreeadventurers160unresolvedthird. Wizambush146afterinstitutional/categoryduty131despiteprivateunease142/155;vanirbodycollapse153isnotfinaldeath164.",
+          "170-240:Rosarybodypossession192;coercedspeech198/204notherbelief;ownresistance209/219/222showslimits. BradrequestsSleep/Paralyze213,actualWizSleep225,maskremoved228,Bradretrieval229-230,actualTeleport233;recoveryhasproviders. Exposure/forcedviewingthreats215-223areactualharmfulacts,noblanketpermissionorharmlessness.",
+          "241-275:Wizsayssheno longerpersonallyminds249butacknowledgesexcess;otherslikelystillresent251. Herforgivenesscannotauthorizeothersbodies. ContemporarypeacefulWizdefendsownidentity261andstopsembarrassingnickname265.",
+          "276-350:forcedTeleportscrollactuallyworksonthelivingcaster305/313becauseVanirbodyontology309-311;notglobalbrokenmagic. Actualbarrier325blocksallattacks330/333;Rosarynoticeslogicalplanproblem333;highprice/reportedsavings340+offerloan;Karen/Yukinoribattleunfavorable347secondhand.",
+          "351-470:Vanirfakeinjury/meal-dodgeplot374-377isplannednotperformed.Wizappearsaloneserious379-401usinglife-consumingcrystal397;lastspell406-408notfired.Vanirsaysnearlylostlife410notactualdecrement. Curse431/441-445reported,failedhealer444reported;Wizsoulcontractoffer431/435actual;Vanirrecognition436andrefusal458actual,cureunshownhere.",
+          "471-556:conditionalforbiddentechnique479/dungeondream481;Vanirthinksunlikelysuccess484thenchoosesnotuseavailableforesight491-492.Hans/Sylviadefeats519/523reportedbyoni,newskills546narratorinference. ActualnewlichWiz551/changedmanner553/promise556;promiseitselfisnotperformednewdungeon.",
+          "Epilogue1reportscompanionscurseclearedbutlaterdeathsarehearsay,noall-partydeathclaim. Aquaactuallyasleep8;Wizopposesproposedray11;Vanirchoosesrest13andexplicitlyreportsforesight17. Twoformeradventurerswithsmallchild25unnamed;nomarriedcouple,names,parentagejoin."
+        ],
+        "census_identity_limit": "Four native named discovery leads. Brad/Rosary actual actors; Karen/Yukinori mentioned separately but surname/role/fullchoice and possible cross-sourcehomonymjoins unresolved. No four-new-people denominator or final tiers."
+      }
+    },
+    {
+      "preserved_receipt_name": "SECONDARY_ACCEPTED_MASK_LUNA_NATIVE_RECHECK_01.json",
+      "receipt_sha256": "a984fe281d01513de3c73bcb542aea187a80a31ad058f8bb8913c185fc7d293a",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_MASK_LUNA_NATIVE_RECHECK_01",
+        "recorded_utc": "2026-10-19T14:34:59.538553+00:00",
+        "source": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "component_id": "MASK-U017",
+        "member": "text/part0015.html",
+        "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            155
+          ],
+          [
+            156,
+            235
+          ],
+          [
+            236,
+            315
+          ],
+          [
+            316,
+            395
+          ],
+          [
+            396,
+            470
+          ],
+          [
+            471,
+            545
+          ],
+          [
+            546,
+            587
+          ]
+        ],
+        "actual_unique_P": 587,
+        "actual_whole_textual_unit_received": true,
+        "new_whole_book_or_independent_test_credit": 0,
+        "findings": [
+          "Lunaactualreward/rule/informationwork5-16;investigationrequest10,nopenaltycorrection13,harassmentboundary16;notjustromanticfoil.",
+          "Vanircheatsmemorygame25/Yobjects26andpays28;Yownwantedsharedgame23,butnoviewingassenttoforesight.",
+          "Wizownexperiencegap62;adviseswithoutseer69butlaterwavers197andacceptsVoverride283underfalse-romancepremise;observedvalue/choicecontextnotabsoluterule.",
+          "Lunarejectscorpses91-95/explainshealth/ecology/supportrationale93/requestsrecallselfexplodingdolls95. Herguildbuyingdoesnotimplyprivatecollectingpreference.",
+          "Ytreasuredfriendgift-drink152,actualDustappropriation157andYattack159-161;return183Vanirinfersearlierwin,notdirectlywitnessedfightoutcome.",
+          "Lunapolicylimits164/316:adventurersnotemployees,wealthreducesquest-banforce. Actualcomplainttriage166/172/178;MExplosioncoordinationandDmedicalslimetakingreported171/177,notperformedbymodelsubjects.",
+          "Vcommercialrelationshipconstraint250-252 thenexplicitlyacceptsrisk272-273dungeondelay;identity/statusbeforeconstituents280 andmoonattribution257-260competingmotiveclaims.",
+          "Lunaactuallylateworking292/299;ownsaysunpaidovertime/noleave3months/staffturnover/desiredadultrespectfulpartner322,ordinarywashing/trashrest330.Vactuallykeepspouring319/324;consumptionnotproofinformedromancecontract.",
+          "Vstaffapproval346forasubstitutebutnotspecificpermissionforeachharmmethod;actualbodycurse373-408andcontinuedpleas409-417;claimedrestorationaftermonth/reducedservice417notactualcompletedcure.",
+          "Lunareturns441/apologizes442,receivesstaffpraise447-448,actuallythanks450butknowledgeofcurseunfixed;thenasksreason457 andspecificdirectromanticstatement482undersocialpressure475-480.",
+          "Vexplicitlyplannedseerharvest485andactualhumiliation487/500;evenfellowdevilscondemn509.No mutualromanceorsimpleaccident.",
+          "Lunaactualprotests511/515/517,demandslisteningandpaidnextdaysubstitute519;nextdaybounty539narratorretrospective,notonscreenissuing;Vacknowledgesunderestimatedinstitution540. Lunaoptsoutunwelcomemarriageforecast541afterinitialrequest534;unseenmaskfaceremainsunshown.",
+          "Vneedsrest548afterrolecost;literalworkingcooler562/actualprofitableledger551-557counterglobalincompetentWiz;largeorder565/delivery2months569/autumn571/expiry6months586 showacquisitiontiming/lifetimefailurenotbrokenproduct. Vreassurances583limitedbylateexpiryinfo586;nofinalfixnarrated.",
+          "UnnamedlolisuccubusandoldersuccubusnotautomaticallySmall/Lolisa;nativeage/rolepresentationdoesnotsettleidentity. Rosary/Wizcanforgiveselfnotothers,Vanirunlimitedharmlessnessnotaccepted."
+        ]
+      }
+    },
+    {
+      "preserved_receipt_name": "SECONDARY_ACCEPTED_MASK_WORK_AND_ROYAL_NATIVE_RECHECK_01.json",
+      "receipt_sha256": "305b8adfdd32968736a56a851b6530f9bbb6efedf65afee415d4adb4027035db",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_MASK_WORK_AND_ROYAL_NATIVE_RECHECK_01",
+        "recorded_utc": "2026-10-19T15:25:51.023938+00:00",
+        "source": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "component_id": "MASK-U015",
+        "member": "text/part0013.html",
+        "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+        "actual_untruncated_windows_P": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            160
+          ],
+          [
+            161,
+            240
+          ],
+          [
+            241,
+            320
+          ],
+          [
+            321,
+            400
+          ],
+          [
+            401,
+            480
+          ],
+          [
+            481,
+            518
+          ]
+        ],
+        "actual_unique_P": 518,
+        "actual_whole_textual_unit_received": true,
+        "new_whole_book_or_independent_test_credit": 0,
+        "findings": [
+          "Wiz/Aqpitytheater3-24andnewpropertyscheme15-17ignorecapital/interest/taxes;fictionalfinancialerror,norealfinancialadvice. Vactualwaterpour22/Aquaremainswell25,wantscoldwater32.",
+          "Kholywaterproposalsource18/30,Vaccepts31,realAqbodycapability29;productnotglobaluselessmagic. Laterwholebatchactuallysold506,butadditionalproduction514-516opensreportedexplosivepotion,visibledebris498;causeWizreport,notnarratorwitnessingblast.",
+          "VanirpracticalconsultsincludeSteskyNeroidmissing3days43/location44;otherconsultantsunnamed,notassumedDmaid/Lunaifnotnamed. Do notgrantallproposedsolutionsperformedresults.",
+          "IrisdisguiseIris-to-Iris88;Vprivatelyusesseer106andknowsidentitywithouttellingher. HerHachibeeask/safetyclaim114failsinitialrefusal112,largefee118/actualinstantaccept119-120;VrefusesRainfair-ratecorrection136.",
+          "Royalfatherpermissiontoalltreasure127isIrisreport,notindependentgrant;Claireobjectspayment125/130thenownindulgenceoffer130;Rainaccountability/financialworry135-137.",
+          "Irisownachievementpurpose147/151,realordinarylearning,Vanirnarratorindirectgod/catstatement202notinfallibleontology. RainactualNeroidcorrection189andperformerabilitycorrection427;Claireunknownvillagecommonknowledgedoesnotmakehergloballyincapable.",
+          "ActualIrisrejectseasydirectKvisit221becausewantsearnedachievement;rejectedSilverThiefhunt224/231notdirectactoridentitydisclosure.Knownsource,notnewSItest. Seerpreviouslyblockedbylight229,powerdoesnotalwayswork.",
+          "Aulippubliccoercion/angryorders289/311-314;Rainidentifiesassociationandpendingallegations293butunverifiedinnermotiveasdespairisinterpretation. Threatensfire,actualknightcastsintosky324;noncombatantdamageunshown. Iriswantsintervene316,obeysClaire/Rainwait321;laterIask375afterVoffersspecificprovider361andpowerfelt373.",
+          "Vdeniesbenevolencemotive362-364butacknowledgesbonuscalculation364/uplift365;royalskill367isguess,notverifiedbuff.Battleitselfretold388-391;Vclaimscontrollednonlethalinjury391,peerscondemnpublicchaos393/395. ActualIjoy406doesnotauthorizeallothersrisks.",
+          "IrischoosesdeferKmeeting414andcontinueouting;Vanirrole-normalization/citystreetssafe442countsnoactualpoliceencounter,noblanketlegalimmunity. Festivaladvice437/Ichosescapitalfestival439unperformedfutureplan.",
+          "ActualIcourtjoboffer456/Vdeclinesforfriend458;Claireoffersearnmore460/Rainmentionsjobthreat461;Vexplicitfallback465,courteousducalform466/privateidentitylimit475. Extraactualpayment489,ownfriend-support/dungeonpurpose493;notpureaffiliationisolatedfromproviderdependence.",
+          "Afterreportedstockexplosion516,VactuallyleavesSEEKINGIrisjob517;noacceptedcourtposition,pay,returnornewfinisheddungeonshown.Lateractualdepartureiscontrarytoanyunconditionalalwaysstayrule;priorrefusalisnoterased.",
+          "Full518PdoesnotcontainWizprofitable-exclusionrefusal;thatleadremainsanotherunitneedingitsownnativeanchor. No futurepublicreceiptrelabelingofthischapterasthatproof."
+        ]
+      }
+    },
+    {
+      "preserved_receipt_name": "SECONDARY_ACCEPTED_MASK_PROTECTION_AND_SHOP_NATIVE_RECHECK_01.json",
+      "receipt_sha256": "dd93bc9aa4e1c963eb5919690f5c8401a1c19b0d62a2b99801a62f9e17855716",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_MASK_PROTECTION_AND_SHOP_NATIVE_RECHECK_01",
+        "recorded_utc": "2026-10-19T15:35:49.207350+00:00",
+        "source": "MASK",
+        "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+        "units": [
+          {
+            "component_id": "MASK-U019",
+            "member": "text/part0017.html",
+            "member_sha256": "debf120259f59eb8f28a6fb05e1f7e01eae2a24b1b1ac50cef7c81fdb455fe3f",
+            "actual_untruncated_base_text_P_windows_this_receipt": [
+              [
+                1,
+                100
+              ],
+              [
+                101,
+                200
+              ],
+              [
+                201,
+                314
+              ],
+              [
+                369,
+                470
+              ],
+              [
+                471,
+                570
+              ],
+              [
+                571,
+                648
+              ]
+            ],
+            "unique_newly_received_P_within_current_secondary_audit": 594,
+            "whole_base_text_unit_now_received_in_union": true,
+            "new_whole_book_pass_or_independent_test_credit": 0
+          },
+          {
+            "component_id": "MASK-U011",
+            "member": "text/part0009.html",
+            "member_sha256": "891af7555bad39fd0fb25a1cd215a3f81452bf910ca6734f9b2bcc646f42a409",
+            "actual_untruncated_base_text_P_windows_this_receipt": [
+              [
+                1,
+                45
+              ]
+            ],
+            "unique_newly_received_P_within_current_secondary_audit": 45,
+            "whole_base_text_unit_now_received_in_union": true,
+            "new_whole_book_pass_or_independent_test_credit": 0
+          },
+          {
+            "component_id": "MASK-U013",
+            "member": "text/part0011.html",
+            "member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+            "actual_untruncated_base_text_P_windows_this_receipt": [
+              [
+                1,
+                100
+              ],
+              [
+                101,
+                139
+              ],
+              [
+                206,
+                274
+              ],
+              [
+                460,
+                481
+              ]
+            ],
+            "unique_newly_received_P_within_current_secondary_audit": 230,
+            "whole_base_text_unit_now_received_in_union": true,
+            "new_whole_book_pass_or_independent_test_credit": 0
+          }
+        ],
+        "current_new_unique_P": 869,
+        "prior_bounded_receipt": "SECONDARY_ACCEPTED_MASK_YUNYUN_AGENCY_RECHECK_01.json",
+        "union_limits": "Prior receipt supplies U019315-368 and U013140-205,275-459. This receipt closes those base-text chapter unions and adds U011. Across five specified receipts, seven distinct MASK base-text units total2862 uniqueP; no new whole-book, image/ruby rereading, forecast, independent review or validation credit.",
+        "findings": [
+          "U0117/17: Wiz defends actual high-quality manatite;13-15 native prices show demand/price mismatch against scroll alternatives, not broken magic. Vcasino plan18-20 and actual transformed capital are separate. Actual Wiz refusal24 rejects10-year paid exclusion; own company preference41 and promised shared dungeon36; Vchooses continue40-43 with own dream and friend both named. This is the previously missing exact refusal anchor, not U015.",
+          "U0135 sleep-free labor is expressly an analogy;7 discounts/gifts are self-report. Frogkiller capability10 and200000 price12 vs25000 rewardincludingmeat14 separate technical function from ordinary market economics. U01335-40 property proposal/Vleaves;480 Wiz reports actual borrowing and repayment after Kexplainscapital/tax, one-day interest remains. Vforgiveness477 precedes hearing new actual cost, then ray481.",
+          "U01348-83 actual staged pickup and Dustthreats;Yrefuses76/recognizesV81. ActualDustselfidentification83/94, Vseerhasothername97 but no exact identity disclosed. Yactual recognizes setup101/117 and Dust admits115; no blindnessrule. Yclaimsgoal108, objectstoethnicridicule113, fearofunwantedvisit121, disappointedselfinterest132 and requestsleave136. Guildemployee216-238 is not named Luna here. Consultation permission actual244; Vforesightbacklash261-270 is narrator explanation/inference, lightblocked thief search267-268 reported; fakeinventoryluckyitem272 is plan, not completed deception in this interval.",
+          "U0193-35 unnamed succubus leader attemptsCharm/Wizimmune17, Wizactualpersonalageinsultthreat18 and actualmoodrepair21; Vrefusescelebrityhosting33. Succubusleader, smallsuccubus and shopworkers stay distinct. Smallform/appearance alone does not prove Lolisa alias/chronological age; Vexplicitly says olderthanWiz434.",
+          "U01962-116 extortionist versus vendor: vendorownpushback/priceclaim73/76, Vobservationalinference84/89, no blanket consentingvictim. Vseeksguardwork100, disclosure of no sales115 endscommercialoffer116. Wizlaterfoodgift123 reported; Vjoin125-126 hedged. No namingthesevisitorsaspreciselysamegangmembers withoutjoin.",
+          "U019178-195 Wizactuallyintervenesbecausemistakeschoice-of-menu186/188; gangswithdraw190-191 actual, protectiveintentnotinitiallyshown. Afterhearingactualextortion203/211sheprotestsVandaskshelp216. Vprofit/affect rationale206-218 and no-seerprediction220/269 separate from witnessedfunctionalforesight. Aq230purificationandpunchreport not newdirectactions. Localgangpowerfailsunderpatronprotection/contractclaim259-265; nobleアンダイン272 named byaddress, alternativealiasunresolved; red-eyedchild278/armoredlady283 not native-nameconfirmed here.",
+          "U019Dustactualdestruction292-301 andvendorcollateral310 intentionalharm/compensationleverage, not harmlessrescue. Arrest369 is later rumor. Yagency315-368 remains prior bounded receipt: actualbestfriendrefusal361 anddenial of futureinvolvement; no shown own completeddeparture.",
+          "U019neighborwidow387 reportsfear/providerneed;Voffer388 privatelyfee389notcommunicated. Compliment392literalrelativeage/V395; recipientromanceinference393 and Wizshipperquestions410-415 not reciprocal confirmedromance. No namegivento widow; fatherhood/marriage notinvented.",
+          "U019smallaskshelp418, Vruns422/keepspace424 thenstops430/demandsownagency431-452. Succubus chooses own fight454. Actualpriorforcedpriceandhierarchyconcernsnot erased by laterprotection. Aqreport490-505 connectsstickers/attack/actualsuccubusdefenseasreport; no allpriorwindowscorroboration. LeaderwarnsV509; smallproposesrisk/protects512-513. Aqua refuses Wiz514-516; WizactuallyfetchesK522-524.",
+          "U019Vcontractspeech532-536 binds prior protectionoffer452 to actualhelpwhisper482; not universalmagicproof of everycontract. Actualstep542/confrontation550, laterbodybreaksbutfullprotection564 is narratorreport; no life decrementreported, succubusreport560saysnone. Smallownoffer528undervaluesgodannihilationrisk529; leader530 asksVescape. Contractpride, attachment and prospectiveaffect/profit remain rivalmotives. Lateracknowledgedrevenue624 not advancepaymentproof.",
+          "U019Aqapology558, conditionalsecrecy575/retaliationrisk573/Aqanger586 distinctfrom fullgodontologydenial; no newwholebookforecast. Vdeliberatecontinuedhumiliation587/590/596 andrenewedAqthreat597. Succubi rejectoffer to eraseV593-594, relationchoice underhierarchy/fear context; not universalabsenceofharm. Actualguardianremoval599.",
+          "U019namingWiz607/615 actualemotion/relationcue, not narratorabsolutereform. Vreceipts624/budgetplan627; newbusinessnotperformed631. Wizbeginsdisclosure641, ray642 interrupts; exactsafecontents/spendcauseunshownhere. Vfinalwish647 includes bothfriendandselfdream; not pureprofit or unconditionalstay. U015courtjobdeparture517 remains contrarytounconditionalstay."
+        ]
+      }
+    },
+    {
+      "preserved_receipt_name": "SECONDARY_ACCEPTED_MAIN07_VANIR_TRANSACTION_AND_CONTRACT_NATIVE_RECHECK_01.json",
+      "receipt_sha256": "abc701b240b7cc32ebfe8b618fa502f19f7cb3efd330c4b1b0f807e16037634a",
+      "actual_receiving_record": {
+        "schema": "KONOSUBA_SECONDARY_ACCEPTED_NATIVE_RECHECK_V1",
+        "status": "ACTUAL_BOUNDED_BASE_TEXT_RECEIVED_NO_NEW_PRINCIPAL_PASS",
+        "actual_unique_base_text_P_in_this_receipt": 327,
+        "new_principal_pass_credit": 0,
+        "new_excluded_reading_credit": 0,
+        "new_independent_validation_credit": 0,
+        "units": [
+          {
+            "source_id": "MAIN-07",
+            "native_filename": "Konosuba - Main Series - Volume 07.epub",
+            "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+            "member": "item/xhtml/p-007.xhtml",
+            "member_sha256": "bce309b4655b0e751768358bfe354f7c4934edeef7befe7fa5d4d2c7c36423fd",
+            "paragraph_slots": 784,
+            "actual_received_base_text_ranges": [
+              [
+                195,
+                260
+              ],
+              [
+                261,
+                318
+              ],
+              [
+                450,
+                490
+              ]
+            ],
+            "actual_unique_base_text_P": 165,
+            "qualifications": [
+              "Vanir arrives for business P200, reports coercive overwork of Wiz P206 and proposes a dangerous pendant P209 without a shown purchaser or detonation. Presumptive document packing P220 precedes Kazuma stated assent P222. Later P488 explicitly reports the completed sale; these phases must not be collapsed into prior permission.",
+              "P227 explicitly declines an all-things claim while claiming broad sight; P230 states interests align and seeks cheap rights. P234 attempted affect-producing joke fails, and P236 adjusts. Powers, commercial knowledge, recipient reaction and deliberate disclosure timing are separate.",
+              "Aqua actual attack P238-242 collapses body; reconstitution P251 and cracked mask complaint P254 are actual but no remaining-life decrement is specified. Kazuma interruption P257 and Aqua reluctant compliance P258 enable resumed disclosure; Vanir repeats provocation P264-265.",
+              "Debt/history P269-300 is Vanir account, including farmers, officials and terms; Kazuma hidden-state reconstruction P304-308 is his inference. P313 combined existing assets plus bag equals debt, not the bag alone equals twenty oku. P475-476 cash amount/dumping are actual; P488 IP-sale account distinct.",
+              "Darkness demands release P464, shakes off hand and questions intervention P485-486, then shows a mixed expression P489. Helpful outcome is not universal recipient approval at all phases. Non-graphic agency and coercion analysis only.",
+              "Hagen is directly named and identified as Dustiness household steward P248-250. This is an additional actual role/name route for the existing Hagen census lead, not a new individual merely because he appears in another edition."
+            ]
+          },
+          {
+            "source_id": "MAIN-07",
+            "native_filename": "Konosuba - Main Series - Volume 07.epub",
+            "native_sha256": "38c1fa428ba096cdc4c8b7a5df393dd5763b438e780ef2cef138860c608143c5",
+            "member": "item/xhtml/p-008.xhtml",
+            "member_sha256": "2783bde76a1d1520865a83e281207d3fc5863a3d2a36c17549728470c3583571",
+            "paragraph_slots": 162,
+            "actual_received_base_text_ranges": [
+              [
+                1,
+                85
+              ],
+              [
+                86,
+                162
+              ]
+            ],
+            "actual_unique_base_text_P": 162,
+            "complete_base_text_member_received": true,
+            "qualifications": [
+              "The complete interlude is Alderp focalization, not Vanir omniscient narration. Maxwell actual limits P12/P24/P32 include church weakening and blocking light; exact cause of every earlier institutional failure is not independently established.",
+              "Alderp promises payment/releases P44 because the false arrival fits his desire; Maxwell explicitly says he has done nothing P45. Vanir actual impersonation reveals itself P57-60; professional bow/address P72-77 differ from domination toward Alderp. Maxwell refuses the kill order P68.",
+              "Vanir P93 calls the existing contract a problem and P96 claims arranging financing. His P102 preference for the more entertaining method supplies adverse motivation alongside fellow-devil recovery. It does not prove every accident or every choice was preplanned.",
+              "Actual coercive collection begins P115-125. Vanir P127 urges continuation in hell; P129 explains claimed debt; P133 predicts future asset redistribution; P137 refuses substitution of household members and distinguishes emotional tastes. Those are bounded utterances, not global contract law or harmless justice.",
+              "P140 knowingly leaves Alderp false affection statement uncorrected. P150/P158/P162 threaten prolonged future treatment; the unit ends before a separately shown physical transport or all future punishment is performed. The report shorthand that Maxwell takes him to hell must retain this local directness limit unless another source phase supplies the outcome.",
+              "Reported prior victims in P162 are Maxwell accusation, not newly witnessed incidents. Keep harm analysis non-graphic and do not infer absence of harm from victim status, devil identity, comedy, affection language or eventual social benefit."
+            ]
+          }
+        ],
+        "scope": "327 actual BASE-TEXT P in this receipt across two accepted MAIN07 members, with the interlude complete. No fresh ruby/residual/images, whole EPUB reading, new original event denominator or source validation. Lead-search snippets outside these ranges confer zero complete-P credit.",
+        "received_utc": "2026-10-19T22:09:58.131958+00:00"
+      }
+    }
+  ],
+  "complete_derivative_receipts": [
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_16.json",
+      "receipt_sha256": "b5f5176b75b86de69f11b5dc7de938558bf130c289d0c978c8168b640fc74e18",
+      "scope": "Complete accepted MASK report lines1-209 received in four untruncated displays; original whole-source/native-image acceptance retained separately.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_DEEP_READING.md",
+        "bytes": 63587,
+        "sha256": "0c066d3550302fd68db85010729f82b1d39d478de4f0fb27f02639dbf36f4954",
+        "actual_received_line_ranges": [
+          [
+            1,
+            52
+          ],
+          [
+            53,
+            100
+          ],
+          [
+            101,
+            156
+          ],
+          [
+            157,
+            209
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_20.json",
+      "receipt_sha256": "e9dbb8ba050e202ef16ccfe0f1571edaf8c6ab0284c72f4884dacf59b5d80e67",
+      "scope": "Complete accepted Dust05 report lines1-210 actually received in four bounded untruncated displays. This is derivative census review, not a new full native EPUB/ruby/image pass or independent validation.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_DEEP_READING.md",
+        "bytes": 47678,
+        "sha256": "4073efff8c31c67ccc0dcf5b2d3dfb65de2ffc7d4436121c3bfd741cd2bca4be",
+        "actual_received_line_ranges": [
+          [
+            1,
+            50
+          ],
+          [
+            51,
+            100
+          ],
+          [
+            101,
+            150
+          ],
+          [
+            151,
+            210
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_21.json",
+      "receipt_sha256": "0f625db596434813d7298b5673e7615316947458b3b09bf895ce011cc025986a",
+      "scope": "Complete accepted Dust06 report lines1-157 actually received in three bounded untruncated displays; derivative census review, no new native full EPUB/ruby/image pass or independent validation.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_DEEP_READING.md",
+        "bytes": 37237,
+        "sha256": "1b65bcd3d98fe01244db5bbb8d114d8e98afa174dd2a2c43ddddee833ee599b3",
+        "actual_received_line_ranges": [
+          [
+            1,
+            50
+          ],
+          [
+            51,
+            105
+          ],
+          [
+            106,
+            157
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_22.json",
+      "receipt_sha256": "123a3d5f06e300d9a6c163036aed70e8db0edcb885bcd119c428cd700a79e21f",
+      "scope": "Complete already accepted derivative report; direct native support only where separately recorded. No new whole-EPUB/ruby/image/independent-test credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_DEEP_READING.md",
+        "bytes": 51395,
+        "sha256": "e085d36d3a7e1e4dcd2ee0cc2a70b7096cdcc2eec240b708c20ce5928bb732f7",
+        "lines": 192,
+        "actual_received_line_ranges": [
+          [
+            1,
+            50
+          ],
+          [
+            51,
+            100
+          ],
+          [
+            101,
+            150
+          ],
+          [
+            151,
+            192
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_23.json",
+      "receipt_sha256": "ddaa4f958d6faaf1e84ad0e65f77bc36ddfba683f9c17b02afa231abab6b44fe",
+      "scope": "Already accepted full derivative report, source-specific direct native receipt separate. No new whole-source/ruby/image/independent-test credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_DEEP_READING.md",
+        "bytes": 57038,
+        "sha256": "35e7cd3c64c8f976bce05fb08150e7d397b370d65c3d405f4ddd0cac00d896ad",
+        "lines": 220,
+        "actual_received_line_ranges": [
+          [
+            1,
+            55
+          ],
+          [
+            56,
+            110
+          ],
+          [
+            111,
+            165
+          ],
+          [
+            166,
+            220
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_24.json",
+      "receipt_sha256": "db56962b7b81bdbe8cc58ad2866ec441cd21221624a2dbe26592a929832cb32f",
+      "scope": "Complete already accepted derivative principal report;direct native/current edition components are separate receipt scopes. No new whole-source/ruby/image/independent-test or natural-order-blind credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V01_DEEP_READING.md",
+        "bytes": 64738,
+        "sha256": "b36e5640445e4fa8997c6b3121c62c3da94febeb6fd810a691a2384224e53908",
+        "lines": 349,
+        "actual_received_line_ranges": [
+          [
+            1,
+            80
+          ],
+          [
+            81,
+            160
+          ],
+          [
+            161,
+            240
+          ],
+          [
+            241,
+            320
+          ],
+          [
+            321,
+            349
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_25.json",
+      "receipt_sha256": "fda701a318df9086ca2e8ddd22927087aae97d82c79add0bc70d991ff9b846e4",
+      "scope": "Complete alreadyaccepted derivative principal report including current root receiving18;not fresh complete3052principal/native/ruby/image/independentvalidation.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V02_DEEP_READING.md",
+        "bytes": 47299,
+        "sha256": "b9a51928855aa3fb20ae22d75b0a896bfe0ca0ba4607faa4347770f1feab7384",
+        "lines": 222,
+        "actual_received_line_ranges": [
+          [
+            1,
+            75
+          ],
+          [
+            76,
+            150
+          ],
+          [
+            151,
+            222
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_26.json",
+      "receipt_sha256": "62f2c380053b487f5d6e33ac8b7a7f5f5c93f2ca104188f244a57552b00fcd5c",
+      "scope": "Complete alreadyaccepted derivative whole-edition report;currentdirectnative receipt separate. Historical authoring-boundary prose is attributed history,not currentunadmittedstatus. No newwhole-source/ruby/image/independentcredit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+        "bytes": 39612,
+        "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd",
+        "lines": 194,
+        "actual_received_line_ranges": [
+          [
+            1,
+            65
+          ],
+          [
+            66,
+            130
+          ],
+          [
+            131,
+            194
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_27.json",
+      "receipt_sha256": "73acb8f1f1e81f41eca963870420adacf306b950f50ddd1b608f0380c18a1000",
+      "scope": "Complete alreadyaccepted derivative whole-edition report;currentdirectnative receipt separate. Historical authoring-boundary prose is attributed history,not currentunadmittedstatus. No newwhole-source/ruby/image/independentcredit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V04_DEEP_READING.md",
+        "bytes": 50258,
+        "sha256": "389c84d346bc0eab3d7e36b1ab5ad2d89ad3be594957e327ffcb21a70346811f",
+        "lines": 216,
+        "actual_received_line_ranges": [
+          [
+            1,
+            72
+          ],
+          [
+            73,
+            144
+          ],
+          [
+            145,
+            216
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_28.json",
+      "receipt_sha256": "0c9cb42fbdd56798d01ec794ffc8cc60d90d448bb623e762bda6aea5ec153838",
+      "scope": "Complete already accepted derivative anthology report. Historical next-source/publication-pending prose is retained authoring-boundary history, not a current reopening. This current derivative review adds no native whole-source/ruby/image/independent credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI01_DEEP_READING.md",
+        "bytes": 54635,
+        "sha256": "0847ac89c4ae59f5b167ca718c07dca8f531c992eff17777ff1eb5deaa0145a5",
+        "lines": 257,
+        "actual_received_line_ranges": [
+          [
+            1,
+            64
+          ],
+          [
+            65,
+            128
+          ],
+          [
+            129,
+            192
+          ],
+          [
+            193,
+            257
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_29.json",
+      "receipt_sha256": "331dc40a359f4937e294d4bdf66ae0af1077a7959d3defeba7274464a300e339",
+      "scope": "Complete already accepted derivative report; historical publication/admission boundaries remain attributed history. Current review is not another whole-native/ruby/image/independent pass.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI02_DEEP_READING.md",
+        "bytes": 38138,
+        "sha256": "e0c759f30ffe03e9e4ce4aff5c23685cb013fc287c3e05a32cf283c1705e01ac",
+        "lines": 165,
+        "actual_received_line_ranges": [
+          [
+            1,
+            55
+          ],
+          [
+            56,
+            110
+          ],
+          [
+            111,
+            165
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_30.json",
+      "receipt_sha256": "77a6232a4c1487c0f520a82287e7c01c1fa5455aceddf0d3a657b5e117da84a1",
+      "scope": "Complete already accepted derivative report; historical pending/next-source statements remain authoring-boundary history. Current review supplies no new full native/ruby/image/independent pass.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI03_DEEP_READING.md",
+        "bytes": 51307,
+        "sha256": "25d83f5f19f775222ee2fe144ce71dff1a9b273b377dbfc82ef4df70d358822a",
+        "lines": 183,
+        "actual_received_line_ranges": [
+          [
+            1,
+            61
+          ],
+          [
+            62,
+            122
+          ],
+          [
+            123,
+            183
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_31.json",
+      "receipt_sha256": "7eadbf395a612dd2d194ea080124e55569e6b17b7c5a88e8226ba0074a11751a",
+      "scope": "Complete already accepted derivative report; its pending-publication/next-source prose remains historical. This current review is not another full-native/ruby/image/independent pass, and concentrated source evidence is not barred from earning a mechanism model by an arbitrary source-count quota.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_DEEP_READING.md",
+        "bytes": 50978,
+        "sha256": "d295fdc9625142e43c9117700cd0b0d86186b0bfb8be4b991602f9c9b403a5d8",
+        "lines": 225,
+        "actual_received_line_ranges": [
+          [
+            1,
+            56
+          ],
+          [
+            57,
+            112
+          ],
+          [
+            113,
+            168
+          ],
+          [
+            169,
+            225
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_34.json",
+      "receipt_sha256": "110e49454bc9cd2465ef6a15e5f05b482fec658971e9908b6af9d31735b1da66",
+      "scope": "Complete previously accepted derivative report only. Original checkpoint-readiness, pre-freeze claims, bonus quarantine and historical confidence remain source-bounded authoring history; no new native/ruby/raster/independent credit or old outcome revision.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V03_DEEP_READING.md",
+        "bytes": 51030,
+        "sha256": "2f081277c91caf13ff7964ca0ef1341cab5508275e2a4ff9e1da25ec16bca5d6",
+        "lines": 645,
+        "actual_received_line_ranges": [
+          [
+            1,
+            160
+          ],
+          [
+            161,
+            340
+          ],
+          [
+            341,
+            500
+          ],
+          [
+            501,
+            645
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_36.json",
+      "receipt_sha256": "10f3459d2f4467bf522b7df9e98292ecf557f7a428a71d8292a9943c269b1aa5",
+      "scope": "Complete accepted derivative report only; historical prospective adjudications and next-source/bonus-quarantine statements remain unchanged. No new native/ruby/raster, blinded experiment, independent event or score credit.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V04_DEEP_READING.md",
+        "bytes": 57297,
+        "sha256": "e3c23425791359506e881a70dd858673364de17afb64b22b5b7f89c3bb507e6e",
+        "lines": 760,
+        "actual_received_line_ranges": [
+          [
+            1,
+            160
+          ],
+          [
+            161,
+            340
+          ],
+          [
+            341,
+            520
+          ],
+          [
+            521,
+            760
+          ]
+        ]
+      }
+    },
+    {
+      "receipt_name": "SECONDARY_AUDIT_REPORT_READ_RECEIPT_40.json",
+      "receipt_sha256": "a5c2187be8433e25ce8cac26158c08f3a535067b3994a7bccc8f55f3dd56c9c6",
+      "scope": "Complete accepted derivative report. Historical main narrative/bonus quarantine, MG02 forecasts/adjudications and next-source statements remain exact. No new native/ruby/raster, whole-book or independent-validation credit from this report review.",
+      "accepted_derivative_report": {
+        "path": "series/konosuba/02 Sequential Readings/KONOSUBA_V07_DEEP_READING.md",
+        "bytes": 56569,
+        "sha256": "1f27454edcd22ea8315867767484aeea47cdb4f8c2cf209182a167c08936c64c",
+        "lines": 863,
+        "actual_received_line_ranges": [
+          [
+            1,
+            180
+          ],
+          [
+            181,
+            360
+          ],
+          [
+            361,
+            560
+          ],
+          [
+            561,
+            730
+          ],
+          [
+            731,
+            863
+          ]
+        ]
+      }
+    }
+  ],
+  "separately_inherited_late_routes": "MAIN11-17 and Dust/Yorimichi current bounded native/report routes retain their existing exact receipts. They are not added to this nine-member sum or declared full Vanir-scene reinspection here.",
+  "limits": [
+    "All source histories already exposed; no pristine prospective holdout or new score.",
+    "Member completeness describes base-text only. Full source integrity, prior source-first text/ruby/images and component gates retain separate authority.",
+    "No raw EPUB, raster, complete transcription or acquisition evidence included.",
+    "Same events across reports/ledgers/this cohort deduplicate; event/individual population denominator remains null.",
+    "Characters, narrators, attributed reports, intentions, actual acts and future outcomes remain distinct."
+  ]
+}

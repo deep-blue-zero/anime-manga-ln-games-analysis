@@ -1,0 +1,660 @@
+{
+  "generation": "SW-G2-V1-COMPARISON-20261020",
+  "prepared_UTC": "2026-10-20T21:39:36.772092+00:00",
+  "owner_authorization": "Simplified Execution Directive step7; comparison started only after verified immutable independent G2 freeze. No publication/push/authority promotion or edits to either baseline.",
+  "independent_G2_freeze": {
+    "generation": "SW-G2-CODEX-20261019",
+    "frozen_UTC": "2026-10-20T21:36:31.472851+00:00",
+    "repository": "urn:sw-g2:private-frozen-repository",
+    "branch": "codex/silent-witch-g2-20261019",
+    "commit": "a51884a4ef18771fd4c708a13793f136a27c9b06",
+    "parent": "8ccde567323189036d0b1455ea8df22374785ebf",
+    "tree": "c06a9f540bccab034087ffda1a0cff7782a3be00",
+    "corpus_path": "series/silent-witch/10 Codex G2",
+    "corpus_tree": "b76280cdd3cbbfb440588eaa227a8a1e3f666fed",
+    "local_annotated_tag": "sw-g2-independent-20261019-freeze",
+    "tag_object": "4c8897bcc3bb388e7ff5bb030b4c8b847c0c5a31",
+    "source_manifest_sha256": "4c481df2b1009404c4f2ddf539a021b8a23ba480ee1879337fd3aaed61c69071",
+    "source_boundary_sha256": "3665725ad120e9f5d3c15d35f27b576267d7583b638519fcf0e118ccb7d5974c",
+    "source_boundary": "Exactly16 admitted Japanese witnesses with embedded ads/unrelated previews excluded; original source/media files outsideGit remain bound by committed exact manifest.",
+    "semantic_review": "06 Reviews/SW_CG2_FINAL_CORPUS_SEMANTIC_REVIEW.md",
+    "semantic_disposition": "Bounded readiness; no Critical/Major; two exact nonblocking Minor cleanups administratively closed; original candidate hashes/findings/limits retained; no postedit independent recheck claimed.",
+    "checks": "Existing repository gate: generated index matches; all7 tests pass; no extra obligations. Explicit15-file scope, author/committer, parent, index/working/commit bytes and clean status verified.",
+    "authority": "draft_noncurrent; immutable baseline is not authority promotion",
+    "local_only": true,
+    "publication": false,
+    "comparison_begun_at_freeze": false,
+    "artifact_inventory": [
+      {
+        "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_ANALYTICAL_METHOD_DRAFT.md",
+        "git_blob": "29cf134e5ce6da5bc79e7749460dcfd71ce2aaa9",
+        "bytes": 25206,
+        "sha256": "a237f6b9c7a4a11e6dc2d6d2eb073b630d0748123f16301341fdec250d80ecfe"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_RECONSTRUCTION_READINESS_DRAFT.md",
+        "git_blob": "0dc2dcdc4e3cd7aba9b207b02e7f86ae607a2908",
+        "bytes": 13806,
+        "sha256": "92bedeb62592f015edef95458bf3c9d3ed31cb5291225318cf049ab78970941b"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_SYNTHESIS_ARCHITECTURE_DRAFT.md",
+        "git_blob": "b04574319107e4888bf29584da938ed6163279da",
+        "bytes": 17688,
+        "sha256": "2fc5a608909090805398452b04bb4f0010dc3446e5beebf57d9c602b3e81be04"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/00 Method/NORMATIVE_VOLUME_TEMPLATE_DRAFT.md",
+        "git_blob": "4777991b59033c3a187b3d839764fb5c1f125d4b",
+        "bytes": 11805,
+        "sha256": "9bc6bed8b5014a59a5124fd14d5620240149663d46ff8b59f2f3c67765ad41c3"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/00 Method/RUN_INSTRUCTIONS.md",
+        "git_blob": "7d6fd7e5080183aa680d1c95ef4cb8e8cd369f41",
+        "bytes": 5676,
+        "sha256": "680783f86381c5a62a65c0eb4b8c96f6a02dac682dc849be79b7809842bfa53c"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/00_PROVENANCE_AND_SCOPE.md",
+        "git_blob": "bd84d68e5d1e064ba958c55e56b8056d0b6a5472",
+        "bytes": 2643,
+        "sha256": "be47515f8dd0b4ecc9a1c2ab06943d746133d751bccbdcac3f173e8722dc445a"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/00_RUN_STATE.md",
+        "git_blob": "beeaf724df4afd6ab64b9611c206e8b474c5629c",
+        "bytes": 134622,
+        "sha256": "10d1df7579a62d79e6e0ac760f54b121c1df135e81339afc2e8c192f534d4ccb"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_AFTER04_DEEP_READING.md",
+        "git_blob": "517e79cc3e6c750ba9017bdb20af2d536dfaac85",
+        "bytes": 84025,
+        "sha256": "b32db8a4d3038d1a3ed1b18a1e491cf83f5a2919ad1367cc4878b6f5def778c6"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_ANOTHER-LOWER_DEEP_READING.md",
+        "git_blob": "76345c6321e72a1a42995cd3dac2a0a1ded25c61",
+        "bytes": 87703,
+        "sha256": "faaeda13fb967975cd654c4abbfcba491be004cee50b1ba467d8b607455583f8"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_ANOTHER-UPPER_DEEP_READING.md",
+        "git_blob": "3d1aec4c3a47f4614902da479157e20eafe349c0",
+        "bytes": 92637,
+        "sha256": "0d198deb6f4fc28495410ecd51c27b1911afdbcd1eab9c91458bba1fcb507e51"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_EXTRA09_DEEP_READING.md",
+        "git_blob": "2acc72243b6a1d02fc96c78207b57f23584f3772",
+        "bytes": 78698,
+        "sha256": "ec02fd1dade9ae890d5d58d450430e452c42193bf1dde541a6cebd9c674a0a0a"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V01_DEEP_READING.md",
+        "git_blob": "cdbfbe53ed9d3a4fcc9b0f4ca1e1bbfb99265546",
+        "bytes": 64167,
+        "sha256": "7ef3478fde723a70e52bc9a8d40c90f28cd088bdaf926232b6348697c258932b"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V02_DEEP_READING.md",
+        "git_blob": "7e5fbe6e0290267ff3b0b68af1856a6e093161a2",
+        "bytes": 89575,
+        "sha256": "e9d0cceca227d33cdd331d6dc8c1c944acfda756c4e0dd17375a5eaf22601917"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V03_DEEP_READING.md",
+        "git_blob": "d3004c1fcfd9b469715c67c900b40b436cd6f9cb",
+        "bytes": 120866,
+        "sha256": "8dcc5952983ce8aa0693449f536ea2228f46a95a8c67c294a4764a1ca3a67601"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V04_DEEP_READING.md",
+        "git_blob": "3a9ded01bae49422cf383a78785665d3f8acfc62",
+        "bytes": 103988,
+        "sha256": "924de97e8db5ea885b6c66ef4fb5796ab4b3f39f260a885c703758406bee27af"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V05_DEEP_READING.md",
+        "git_blob": "3c4e95a648b4176091131b20fd85c395cd5a8241",
+        "bytes": 98484,
+        "sha256": "e5ea862f5af705d433b9fad85a7ddcc4ed3428b5b1dc053dd5c30b908b2f1d51"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V06_DEEP_READING.md",
+        "git_blob": "375b45fff69ea480b720ee86d490030947f0a64b",
+        "bytes": 88599,
+        "sha256": "f7797d17a525222706b060673fb44512334585591ad64620e7d3b0e7d650a655"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V07_DEEP_READING.md",
+        "git_blob": "0ce54bd9bb767347725085699e097d436d4b066e",
+        "bytes": 92943,
+        "sha256": "e7ae6c5651f430468ee5dcd5510476775610aa40953eb971795e8f4d6a3210cb"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V08_DEEP_READING.md",
+        "git_blob": "cd50b250709e05c879af8cfb880aa9f305c19b11",
+        "bytes": 107884,
+        "sha256": "a0ea307091957e79d79a03991f7717fe44c4f183a03ba9c6f79389af82ca337b"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V09_DEEP_READING.md",
+        "git_blob": "adea09887a075ee526ef989f034c2d586ee3ad7a",
+        "bytes": 78310,
+        "sha256": "acd10518613e29f6770a056b2576f9e6f7c50f18770f88532bd54444ff1984ba"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V10_DEEP_READING.md",
+        "git_blob": "9c2087179eb6f199f1f776301e5523f141451560",
+        "bytes": 76359,
+        "sha256": "74c64edd0412764e659c910e2303577a5aff958f6dc41ca0464e7dae3c5c9a42"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V11_DEEP_READING.md",
+        "git_blob": "04c4c59784394718b17944ad4544ce85862f4a28",
+        "bytes": 88194,
+        "sha256": "cb1549a802dee1cb3f227620f16176a7dc237e3e09d06e62faba5f9b238db296"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/01 Sequential Readings/SW_CG2_V12_DEEP_READING.md",
+        "git_blob": "a57a8987f688ca61e6b190cf1b5c8dd64df28c5e",
+        "bytes": 106369,
+        "sha256": "bfcba9b626e0433709b240f0387b01a446a3e82ed036663910aa37484e3d1dbd"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/02 Cumulative/SW_CG2_CLAIMS_AND_REVISIONS.md",
+        "git_blob": "5d4c9c9fb9560076085eff1bd2eb241360546e89",
+        "bytes": 494757,
+        "sha256": "99a75f67ab0d46619080e6053122f1827931f22bf9ee1ae573352cfb6b4ea200"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/02 Cumulative/SW_CG2_MASTER_LEDGER.md",
+        "git_blob": "e132d07ce9d7167a06ab14cb3de1d89fbc39e789",
+        "bytes": 644761,
+        "sha256": "a1a92a54b80b38eac76e826e5cd01e452009defb71cf6330b6681233ecb43e3f"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_CYRIL.md",
+        "git_blob": "aae20bc4640f3dbe9d83f5b011b11db07c2c6b65",
+        "bytes": 16847,
+        "sha256": "fe043287290d6802290ff4f91450d734a18201f1c0a3fb3f0a229e33e2900123"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_ISAAC.md",
+        "git_blob": "de5c6056f79ef6e50feb4974d1a6a885aa76cb37",
+        "bytes": 16574,
+        "sha256": "a2a4a5ac88800b191f945e6d7ed6bfab1f44ccff16469c0a370d41346c4829c6"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_LOUIS_ROSALIE.md",
+        "git_blob": "9f6fc90f8c2a97740bea97a8079d80577ae24029",
+        "bytes": 19582,
+        "sha256": "3fda261ed55cc9152364075c14224c4330f945862ff717b5c0e027e161d12c46"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_MONICA.md",
+        "git_blob": "e52408ca01e15fecc0760dde04c444f1018527e0",
+        "bytes": 18470,
+        "sha256": "97e768252cb6fa7474ead9d22f7b6e497aacef9096dc76915cd57c6e1462034a"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_MONICA_CYRIL.md",
+        "git_blob": "e10b6a51bff02bace988ac64f7077d1a2322b69d",
+        "bytes": 17626,
+        "sha256": "793b1ee54fb84049676446e1f75396072c1259f2c3c93ddbe90c45a2feeae1e3"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_MONICA_ISAAC.md",
+        "git_blob": "21c12ec3d32102f4c1a0960e9eb44deeb06107df",
+        "bytes": 18376,
+        "sha256": "9dea7c9c3e8372fc7b6e32f0ab94835cad3ad7407e3cedab054a143cebd6e0ea"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_POWER_AND_DEPENDENCE.md",
+        "git_blob": "d1e1ba8bd023519d91fab6ad62b383125d94b7e7",
+        "bytes": 19691,
+        "sha256": "86a719da91c351aee08b18fa3ca764db2ce5c2b30da8ba5420885047d3bcaf71"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/03 Characters and Relationships/SW_CG2_SCHOOL_COMPANIONS.md",
+        "git_blob": "354777aa08eb3db840bbe2b16b6dedbe56d85601",
+        "bytes": 21909,
+        "sha256": "017ce2c063a1d4900a43339896baf185929d4ee0044cb73b7b3f19026478174b"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/04 Specialist Arguments/SW_CG2_EXPERTISE_INSTITUTIONS.md",
+        "git_blob": "2263e9c51ef0604826b1415dbb9f4253c9328d1e",
+        "bytes": 16948,
+        "sha256": "41db6b97a89ff037f4fc077210b2d4502123eaf33cb970438b4889992cc922fb"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/04 Specialist Arguments/SW_CG2_NARRATION_VOICE_ETHICS.md",
+        "git_blob": "e1627ab80c4d38b4837486efea897cd64dc88cfe",
+        "bytes": 16776,
+        "sha256": "53516a2d49c3230ebb339781462fc595ffdbc591b33f4d0c167e904acfa9fe8b"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/05 Synthesis/SW_CG2_SIXTEEN_WORK_SYNTHESIS.md",
+        "git_blob": "2ac100c4207c64fdd2cf59567450e52d67a746fb",
+        "bytes": 30828,
+        "sha256": "9062b28c23e59e16a46313a53a0f660c620ebdf340dd9e19fdef7b46431db698"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_AFTER04_SEMANTIC_REVIEW.md",
+        "git_blob": "eece51dbfc26e9a0ba63f8116ed9346982c7bec4",
+        "bytes": 23591,
+        "sha256": "25e31a198f483ee8b816250f936321dd0364475ddd1e6bee9a18336ef00d8167"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_AFTER04_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "b83ae5f0d69b8579b266d7850c5f57bd40da2ba1",
+        "bytes": 15007,
+        "sha256": "1ec393eee1d443bda9aefc5685fd59ac54425f518a5ab349bf52cc5c24466e8f"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_ANOTHER-LOWER_SEMANTIC_REVIEW.md",
+        "git_blob": "ec90921a5d38737d75db6e350485385694cf956f",
+        "bytes": 18692,
+        "sha256": "11ccec8444858ca92ecc5227861b3f6625ca93dc8460ded030a43a001ace187c"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_ANOTHER-UPPER_SEMANTIC_REVIEW.md",
+        "git_blob": "c9aca05fa5d5f7d0a690d6bf816d363892b279aa",
+        "bytes": 20835,
+        "sha256": "524405301f78ce0c76e03f27d58e2fe604f70ba8e13096bc6289f0a1fc151686"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_EXTRA09_SEMANTIC_REVIEW.md",
+        "git_blob": "2ba2c1db1f206bd9423db038b660aacd18591892",
+        "bytes": 19583,
+        "sha256": "ed321dadc871b17b0ad373ebfad91fb08cd361db0d44e029fa43a013095f9ea0"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_FINAL_CORPUS_SEMANTIC_REVIEW.md",
+        "git_blob": "5f009d1fc3734851b999fc311c66e8285fc0f2e7",
+        "bytes": 88404,
+        "sha256": "ca3be72fb5ae1d4815d7dd790d3efd5ce13d3dd291366c94a4ca786c5b5b0f37"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V01_SEMANTIC_REVIEW.md",
+        "git_blob": "8cc2a11c452f417647c5a25df931d1c5568744ac",
+        "bytes": 19879,
+        "sha256": "692c42afa9b000abff7509e41be15a78282dec47db69c83263c34011993d826a"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V02_PRECISION_RECHECK.md",
+        "git_blob": "715e33f2817fa69122136cb07f4e85ff05dd5d85",
+        "bytes": 6434,
+        "sha256": "ba4522b1dded7ab60540155730422b4344ede9253b0c783e59f3cece605a6c64"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V02_REPAIR01_PRODUCER_RECORD.md",
+        "git_blob": "981563ca72efe90a31f81af9e7d0cb7e3bf6edd6",
+        "bytes": 5976,
+        "sha256": "1cf8c6255057c76d8fa458237bb8f242f68d3e211f3152f49b3dcfbdb0023ff1"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V02_SEMANTIC_REVIEW.md",
+        "git_blob": "694549021e0bf6ef907c1d5ac2e8b7cc9076ecdb",
+        "bytes": 19123,
+        "sha256": "7612373a19962f0bf613eafe35286b3cea924da8ce5e481841cc72a4072ad4f7"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V03_REPAIR01_PRODUCER_RECORD.md",
+        "git_blob": "c9a815309b062c74691d4d820e84ebd23b10a03c",
+        "bytes": 6925,
+        "sha256": "85d42fb693ca90b4464f988671bc51e5ea7011b2fea4613073006477410b47dc"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V03_SEMANTIC_REVIEW.md",
+        "git_blob": "fe37f5a33d71c4758d0d3c56d65aeb649eb3d363",
+        "bytes": 23197,
+        "sha256": "4549884b3f6835989bd88149d96c29067d1f8b486d584d7a425237f39f7831e1"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V03_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "f37b042c7ba6d6495bbd33fe7520a0f8d0a7d3bd",
+        "bytes": 10849,
+        "sha256": "fdbb61f21b2da198696b4cf252e9d1206516d3550efe582d69f1f3726a2a892c"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V04_SEMANTIC_REVIEW.md",
+        "git_blob": "a8e0d181a25a5362b4b2d8be5bc8779fccde0ce4",
+        "bytes": 22493,
+        "sha256": "3f8b5540db8b4b150d226cbc82ad288b3ecb82fdd544d0ed6aaacb619e86ee6a"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V05_SEMANTIC_REVIEW.md",
+        "git_blob": "8c136921526f8af593fdc1d3064c0c60bc9e57bc",
+        "bytes": 19370,
+        "sha256": "05ededa956ca7b5ed94cb84a89f9a458c42288aead0358949e1193bdab14087e"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V05_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "c9092de12074c5d33090fb67d565dc79aeb05281",
+        "bytes": 11427,
+        "sha256": "2fd4aa219f5da604bc1a55e4b1e184376ac318ab4156e97e57414c012afa95b2"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V06_SEMANTIC_REVIEW.md",
+        "git_blob": "d047c1cc278c62b530275b7c91c8b2b533ce14b5",
+        "bytes": 20916,
+        "sha256": "1dc45c4f3711f8e91a3d1ce6c138a18ab3cb5c139324b07893e7c722bae3f3a1"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V06_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "1b34474d453a4d4bbb92a81ef50913f340f3ef87",
+        "bytes": 13712,
+        "sha256": "53424e2b7c48200d1daa20af5f9923f33f4f77d33adf501e9d4f1b64827ea1ba"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V07_SEMANTIC_REVIEW.md",
+        "git_blob": "aedb21efa9de1c5ab4afd08723fc916a41be8b59",
+        "bytes": 20748,
+        "sha256": "f0360d2c4a8986a940b8874ffc76d4f2f7522667d76c5ec379a181cd5a892e55"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V07_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "5082084dfe79a711fc759c8ef56628d51e42a5af",
+        "bytes": 15073,
+        "sha256": "2eda1b30c310a56a5bc48498cf0b1d351c89d0eaad7d7c538591cf64ee20f194"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V08_SEMANTIC_REVIEW.md",
+        "git_blob": "70f3a2f825abe2cf380ad1f36ed3f8dd3345f932",
+        "bytes": 21786,
+        "sha256": "e428a7151c010d2083cd1a7bcbd941825c285952012cb4fba826efedf6b97f75"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V09_SEMANTIC_REVIEW.md",
+        "git_blob": "0b423356c1804c3bd5107c3cb53bdc866b35c466",
+        "bytes": 23876,
+        "sha256": "854c8ee048cd72b6cd5ef40fb28faa22f7cfc727a2b51e571d28159ba3db2298"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V09_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "972ec1bae3e05a4aea49cf07c03384acfd45d903",
+        "bytes": 14142,
+        "sha256": "35d04e9942b815ee83716612f35c7890e7c10ccd17c42d5e964d83165f7cc91b"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V10_SEMANTIC_REVIEW.md",
+        "git_blob": "9638d9028abcad7c8159888af95e5bba508acf23",
+        "bytes": 20304,
+        "sha256": "0b5ef6d757936e900ad002b66721b236623ee1e5596755ed38ee5c53de3c2a9c"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V11_SEMANTIC_REVIEW.md",
+        "git_blob": "0ce68a587d9208b65081091e32ad18c6ad352899",
+        "bytes": 19725,
+        "sha256": "34874426f5553df1f80e4ce4292e2b5a8b09c2f443088098fb50bf209eb08a92"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V11_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "c04ce2bf82c1c7bce27b31005cf6ac03315b1f26",
+        "bytes": 13839,
+        "sha256": "c6c31deae66a2506e9b04c1b5553a70f095aa739ae4d7a7ee3e373b7e224fb27"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V12_SEMANTIC_REVIEW.md",
+        "git_blob": "119a7400abdee7d9f31397a6fc9179ee4b855385",
+        "bytes": 19211,
+        "sha256": "9edda30bb6f01e5c9e11979637dedfee8183679f25ec3932270c8b80a4882ba9"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/06 Reviews/SW_CG2_V12_SOURCE_REPAIR_RECHECK.md",
+        "git_blob": "897b3be47119ae7129c8a72ec8006edc802b4dad",
+        "bytes": 13890,
+        "sha256": "70129cc0f0764f17fbdf5c060483f0fb5133eb549163d4e23ddf0268928356ec"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/SOURCE_BOUNDARY.json",
+        "git_blob": "f4c3d63285fb3e368ec3d785dc414585cfce19f9",
+        "bytes": 40880,
+        "sha256": "3665725ad120e9f5d3c15d35f27b576267d7583b638519fcf0e118ccb7d5974c"
+      },
+      {
+        "path": "series/silent-witch/10 Codex G2/SOURCE_MANIFEST.json",
+        "git_blob": "387f66a28c2ee17cbc87dba4128821e9f68c9029",
+        "bytes": 412124,
+        "sha256": "4c481df2b1009404c4f2ddf539a021b8a23ba480ee1879337fd3aaed61c69071"
+      }
+    ]
+  },
+  "historical_V1": {
+    "latest_main_commit": "c5646c50f8e7cc0b7ea6ac79204cd3e2558bb5a5",
+    "root_at_commit": "series/silent-witch",
+    "files": [
+      {
+        "path": ".repository/series-registry.json",
+        "bytes": 1276,
+        "sha256": "5461f7e7f10014480b4e07cf3da6f5bab727ea06e67ed19423ce16397d566823"
+      },
+      {
+        "path": "00 Frameworks and Methods/SW_ANALYTICAL_METHOD.md",
+        "bytes": 26984,
+        "sha256": "d7ad44c96381c1c7a4f068f4e9f055d795fba09856b5c305c39a94234d4a78f3"
+      },
+      {
+        "path": "00 Frameworks and Methods/SW_CHARACTER_RECONSTRUCTION_METHOD.md",
+        "bytes": 14886,
+        "sha256": "f7cab385984d50c34d0d32c79419670ee90a85bd10aee19e7bd8e94ba3dcafcf"
+      },
+      {
+        "path": "00 Frameworks and Methods/SW_SYNTHESIS_ARCHITECTURE.md",
+        "bytes": 59429,
+        "sha256": "0276d11ca1c7f3b7a0c49319980eaa0b28fff3ec0a93dce85d062af1f2b56880"
+      },
+      {
+        "path": "00 Frameworks and Methods/SW_VOLUME_READING_TEMPLATE.md",
+        "bytes": 10657,
+        "sha256": "595baf10da2104d3cc3a56e7975fc37f56b1150125c12d4645a984deb595e1d0"
+      },
+      {
+        "path": "01 Source Lock and Inventory/SW_LNJP_SOURCE_LOCK_REGISTER.md",
+        "bytes": 83114,
+        "sha256": "e96530e7171ebcab52a408c938315262e334cec932e83a7836265a773c8dec3f"
+      },
+      {
+        "path": "01 Source Lock and Inventory/SW_LNJP_V01_SOURCE_LOCK.md",
+        "bytes": 14927,
+        "sha256": "750fc10e1a086a8fdc99305d58bdfec600c1f04a770a43e5a3c79ad26950522a"
+      },
+      {
+        "path": "01 Source Lock and Inventory/SW_SOURCE_AND_CONTINUITY_MAP.md",
+        "bytes": 29918,
+        "sha256": "d6e3e164174db6bb0e9efee8eccdaf454c0b419bcfac4cb5b615666c3d576aa6"
+      },
+      {
+        "path": "02 Sequential Readings/SW_AFTER04_DEEP_READING.md",
+        "bytes": 99588,
+        "sha256": "13d57cd8cdb9bf94ea7baec7b465603fc6de8f4d96c2b47d95ebb8161d98260e"
+      },
+      {
+        "path": "02 Sequential Readings/SW_ANOTHER_LOWER_DEEP_READING.md",
+        "bytes": 87724,
+        "sha256": "b4cec16d001f35b426a727684e872eb0b69a8b54c9dedeede8077a7fb37f493e"
+      },
+      {
+        "path": "02 Sequential Readings/SW_ANOTHER_UPPER_DEEP_READING.md",
+        "bytes": 105480,
+        "sha256": "16bee87677d9c80da06fa60d4557290f36e8773ea799b6175e17f8cd1ec3b521"
+      },
+      {
+        "path": "02 Sequential Readings/SW_EXTRA09_DEEP_READING.md",
+        "bytes": 90562,
+        "sha256": "d428ae6adee335bc8a1bf8b414132c233c2339ff860c36b572749e5fbc98a260"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V01_DEEP_READING.md",
+        "bytes": 156332,
+        "sha256": "39f883642374104f169c18b619c76e60ca4688dc8399435a8cafac084b52ba87"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V02_DEEP_READING.md",
+        "bytes": 151778,
+        "sha256": "852a5910a4a7028283bfb2e7680fce8ece85c6eb2b1294afc019165ec8757320"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V03_DEEP_READING.md",
+        "bytes": 140731,
+        "sha256": "dae346f8f988f9f930a7ca8e081821f38b5f8f90ebac9ad7546c0f84cd88e122"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V04_DEEP_READING.md",
+        "bytes": 105501,
+        "sha256": "4c2ca80b4f0319697c0f770a6e154e32913f455d8b47cbb44c93492b191199fd"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V05_DEEP_READING.md",
+        "bytes": 82679,
+        "sha256": "d4049882facbd02a2864a3c9ae46804e94539f419350a573069819005954080e"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V06_DEEP_READING.md",
+        "bytes": 91791,
+        "sha256": "b51eedecbf0b56c8ce916131f79cbb8ea13c267c4e58c752232df653418842d9"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V07_DEEP_READING.md",
+        "bytes": 83570,
+        "sha256": "f5da0e28bf8b6043674830c003c50e2a6ffa4e729d8da7e61bf026680b9c22b7"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V08_DEEP_READING.md",
+        "bytes": 104795,
+        "sha256": "6a44842710df1a0031994d490912acd8947959f7b21bff2dbd25061be5b8cafe"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V09_DEEP_READING.md",
+        "bytes": 71157,
+        "sha256": "2082130c546d14b7ce711d7621e958bec022f8ebe440c7def94cc8612ff7d8a2"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V10_DEEP_READING.md",
+        "bytes": 72386,
+        "sha256": "7c6237469972c7fb59bc10f35522cdcc7e2f52dd7ba65564ee1eded3a745aaab"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V11_DEEP_READING.md",
+        "bytes": 87003,
+        "sha256": "d91b3c08f9518733686dafe00eb199590f1a67e63f639d4c50a6768416bac026"
+      },
+      {
+        "path": "02 Sequential Readings/SW_V12_DEEP_READING.md",
+        "bytes": 81013,
+        "sha256": "e3408783552625602a5580919c4de8aaf5a6e05933509055092e1e89bc1c1bcd"
+      },
+      {
+        "path": "03 Longitudinal Ledgers/SW_CLAIMS_AND_REVISIONS_LEDGER.md",
+        "bytes": 474392,
+        "sha256": "b7adc6b81b19a08aa19123d882b156bbdd502da8472987cbdfa98d0a365862ab"
+      },
+      {
+        "path": "03 Longitudinal Ledgers/SW_LONGITUDINAL_RECONCILIATION.md",
+        "bytes": 29299,
+        "sha256": "dce203d92e8214e7eadfbe6b861672da2cf0d2226ead8fa358957519259678ed"
+      },
+      {
+        "path": "03 Longitudinal Ledgers/SW_MASTER_LONGITUDINAL_LEDGER.md",
+        "bytes": 367038,
+        "sha256": "fd3085c67163ff8c4124bda975eb0cdca059678023db714bc022261299baa8ba"
+      },
+      {
+        "path": "04 Checkpoints and Reviews/SW_COMPLETION_CHECKPOINT_AND_EVIDENCE_GAP_REVIEW.md",
+        "bytes": 19304,
+        "sha256": "c5709d055c1eb6d61492c2bdc9f758cae73152f7034805769c9367e668d3d68d"
+      },
+      {
+        "path": "05 Specialist Arguments/SW_SPECIALIST_DISCLOSURE_AND_WITHHOLDING.md",
+        "bytes": 71288,
+        "sha256": "ca873c32153f6e80ae6bee6de90a92d73e60a26ec6d8e22ee480ef244d4342a5"
+      },
+      {
+        "path": "05 Specialist Arguments/SW_SPECIALIST_MASTERS_AND_TRANSMISSION.md",
+        "bytes": 64040,
+        "sha256": "cd2d420fa2de01d77d5399206ec393a616910a86e2d71f572b22aed7cba257ac"
+      },
+      {
+        "path": "05 Specialist Arguments/SW_SPECIALIST_NUMBERS_AND_MAGIC.md",
+        "bytes": 64137,
+        "sha256": "d67f8490e77606ece8ed8942846338ca6d62f03c29b4fbe67d8938d4e725524b"
+      },
+      {
+        "path": "06 Character and Relationship Arguments/SW_CHARACTER_CYRIL_ASHLEY.md",
+        "bytes": 74439,
+        "sha256": "8fa6965cfcb841f9f064c664a665901fe4c508f4fddf0641dbc10f73875f414c"
+      },
+      {
+        "path": "06 Character and Relationship Arguments/SW_CHARACTER_ISAAC_WALKER.md",
+        "bytes": 68732,
+        "sha256": "3e071ef5c36ca706ce317fad5dafd13af84dda3633541c8781a2eccceaf6c89b"
+      },
+      {
+        "path": "06 Character and Relationship Arguments/SW_CHARACTER_LOUIS_MILLER.md",
+        "bytes": 77429,
+        "sha256": "11a29768ec7568f72fc40e35be415b9b6d774eb0cefbf2bcbe2cc0f3b854cee1"
+      },
+      {
+        "path": "06 Character and Relationship Arguments/SW_CHARACTER_MONICA_EVERETT.md",
+        "bytes": 69430,
+        "sha256": "f8d4101abbb09879fb83c31cc4a7698ce90290579107e476e9216dcd9af80f22"
+      },
+      {
+        "path": "06 Character and Relationship Arguments/SW_RELATIONSHIP_ARGUMENTS.md",
+        "bytes": 79865,
+        "sha256": "37fde6b03cdd57cf7e602d4cbd49f7f36188f930e58f832196a6d6b494d66909"
+      },
+      {
+        "path": "07 Integrated Synthesis/SW_INTEGRATED_SYNTHESIS.md",
+        "bytes": 31053,
+        "sha256": "18d38c0b422c32ffd75337ebb177e2282baf26abace62f5a65f2ee6d873f2ce5"
+      },
+      {
+        "path": "08 Audits and Manifests/SW_DIAGNOSTIC_RETENTION_AMENDMENT_REPORT.md",
+        "bytes": 10355,
+        "sha256": "a6b19c363b2c8dc4dc0eead662c09c00a661a834172283609949af4b63eae165"
+      },
+      {
+        "path": "08 Audits and Manifests/SW_LEDGER_ARCHITECTURE_CORRECTION_REPORT.md",
+        "bytes": 21174,
+        "sha256": "1f9b18222ace2d36e6baa1b36d83c8d9b621fa03fabada670b28b5eaae7915ce"
+      },
+      {
+        "path": "09 Reconstruction Readiness/SW_RECONSTRUCTION_READINESS_ASSESSMENT.md",
+        "bytes": 22061,
+        "sha256": "1fc16dc41ed1a98bf79925b203531e53a980b03fc3446bc88793d7271bfdad01"
+      },
+      {
+        "path": "CURRENT_STATE_AND_CORPUS_MAP.md",
+        "bytes": 40319,
+        "sha256": "1aed5ef6cabe03a90ccaaa3b8eb9ab19833dd0c0da352640a0aa69d3c25fbbd3"
+      }
+    ],
+    "excluded_audit_or_qualification_files": [
+      "08 Audits and Manifests/SOURCE_FIRST_REVIEW.md",
+      "08 Audits and Manifests/SW_BOOTSTRAP_PATH_MANIFEST.json",
+      "08 Audits and Manifests/SW_BOOTSTRAP_REPORT.md",
+      "08 Audits and Manifests/SW_CONTINUOUS_RUN_PATH_MANIFEST.json",
+      "08 Audits and Manifests/SW_QUALIFICATION_ACCEPTED_PACKAGE_MANIFEST.json",
+      "08 Audits and Manifests/SW_QUALIFICATION_PILOT_CLAIMS.md",
+      "08 Audits and Manifests/SW_QUALIFICATION_PILOT_CUMULATIVE.md",
+      "08 Audits and Manifests/SW_QUALIFICATION_PILOT_ERRATUM.md",
+      "08 Audits and Manifests/SW_QUALIFICATION_PILOT_READING.md",
+      "08 Audits and Manifests/SW_QUALIFICATION_REVIEW.md",
+      "08 Audits and Manifests/SW_V01_NAMED_SUBJECT_EDITORIAL_AUDIT.md",
+      "08 Audits and Manifests/SW_V01_READINESS_GATE_REPORT.md",
+      "08 Audits and Manifests/SW_V01_READINESS_PATH_MANIFEST.json",
+      "08 Audits and Manifests/SW_V01_READING_PATH_MANIFEST.json"
+    ],
+    "exclusion_reason": "Historical pilot/qualification/scaffolding are not the completed V1 literary baseline; only the two relevant architecture/retention correction reports are included for historical context."
+  },
+  "source_root": "urn:sw-g2:source",
+  "norm_root": "urn:sw-g2:norm",
+  "source_boundary": "Same exact16 admitted Japanese witnesses and exclusions as frozenG2 SOURCE_BOUNDARY/SOURCE_MANIFEST; no expanded source admission.",
+  "output_relative_root": "series/silent-witch/11 Codex G2 Comparison",
+  "authority": "draft_noncurrent",
+  "local_only": true
+}

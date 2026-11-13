@@ -1,0 +1,1571 @@
+{
+  "schema": "KONOSUBA_EXP01_SELECTED_WHOLE_PREMISE_REGISTER_V1",
+  "created_utc": "2026-10-18T13:39:42.331438+00:00",
+  "source_id": "EXP-01",
+  "H_protocol": "H1 literal source-plane events; H2 an actually amplified disposition with intensity-transfer limits; H3 actual behavior too dependent on a local punchline to generalize; H4 actual nonliteral behavioral license. Fictional magic, performed lies, genre beliefs, embedded fiction, ordinary metaphors and illustration steam marks alone do not establish H3/H4. No category quota.",
+  "L_protocol": "L0 portable propositions; L1 materially important wording/rhythm/tone; L2 recipient/register/pragmatic force; L3 central Japanese form requiring reconstruction or annotation. Idioms, ruby and culturally odd behavior are not automatically L3.",
+  "selected_record_count": 76,
+  "counts_describe_selected_records_only": {
+    "L": {
+      "L2": 60,
+      "L0": 8,
+      "L1": 7,
+      "L3": 1
+    },
+    "H": {
+      "H1": 74,
+      "H2": 2
+    }
+  },
+  "no_population_denominator_or_accuracy_score": true,
+  "records": [
+    {
+      "id": "EXP01-WHOLE-H001",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U014",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "native_member_sha256": "62aa05713d8653627ef91f2ef3698cd182314c1aa03e5a2ddf7a3d6b6d5e3046",
+        "start_P": 2,
+        "end_P": 29
+      },
+      "whole_selected_premise": "A quiet rescue of overwhelming power first inspires a different, non-graphic bodily aspiration rather than an unqualified art-only conversion.",
+      "primary_L": "L2",
+      "L_rationale": "The open become-like-you question has a referent the rescuer and reader can initially understand differently.",
+      "primary_H": "H1",
+      "H_rationale": "The rescue, destruction and child’s actual attention are literal; the narrator discloses the competing object of admiration.",
+      "eligibility_and_limits": "No biological conclusion or pure lifelong origin motive follows from this first moment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H002",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U016",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "615198d8c4ec0905416e97249a4b7f9b070d4b0b7faac512cee9c1d22de7942d",
+        "start_P": 1,
+        "end_P": 10
+      },
+      "whole_selected_premise": "Disbelief about a real name leads to advice that the child selectively hears, missing the explicit spell warning.",
+      "primary_L": "L2",
+      "L_rationale": "Nickname/real-name correction and ambiguous like-me advice change the uptake.",
+      "primary_H": "H1",
+      "H_rationale": "Two silences and narrowed attention are actual communicative events.",
+      "eligibility_and_limits": "The spoken name itself is IMG011; no acoustic or independent biological inference.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H003",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U016",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "615198d8c4ec0905416e97249a4b7f9b070d4b0b7faac512cee9c1d22de7942d",
+        "start_P": 13,
+        "end_P": 35
+      },
+      "whole_selected_premise": "A poor child’s ordinary puzzle casually solves the supposedly sage-level seal and explains why prohibition attracted her.",
+      "primary_L": "L2",
+      "L_rationale": "Toy versus sacred seal and the maternal treasure maxim establish different purposes.",
+      "primary_H": "H1",
+      "H_rationale": "Actual reconstruction surprises the rescuer and changes the inferred culprit.",
+      "eligibility_and_limits": "Beast is resealed, not killed; exceptional skill is not generalized to every problem.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H004",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U016",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "native_member_sha256": "615198d8c4ec0905416e97249a4b7f9b070d4b0b7faac512cee9c1d22de7942d",
+        "start_P": 36,
+        "end_P": 57
+      },
+      "whole_selected_premise": "An unlimited wish offer retreats before impossible demands, then objects when the child requests too little.",
+      "primary_L": "L2",
+      "L_rationale": "Expansive promise narrows into modest capacity, followed by pressure for a larger acceptable wish.",
+      "primary_H": "H1",
+      "H_rationale": "The rescuer corrects her own offer; the final teaching request is actual but teaching is not depicted here.",
+      "eligibility_and_limits": "No actual world conquest, bodily alteration, demon-king appointment or immediate learned spell.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H005",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 3,
+        "end_P": 58
+      },
+      "whole_selected_premise": "The forgotten pupil is second academically while the top pupil already has enough points for the locally approved skill she refuses to choose.",
+      "primary_L": "L0",
+      "L_rationale": "Attendance omission, ranking and a different desired skill are portable propositions.",
+      "primary_H": "H1",
+      "H_rationale": "Actual card LV1/45, advanced30 and Explosion50 separate capacity from chosen value.",
+      "eligibility_and_limits": "No current spell can yet be cast; the unnamed rescuer remains unknown to Megumin.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H006",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 62,
+        "end_P": 96
+      },
+      "whole_selected_premise": "A valuable potion buys the right to choose a guaranteed food contest, yet winning it still provokes envy and actual hitting.",
+      "primary_L": "L2",
+      "L_rationale": "Negotiated handicap and flattering compactness wording conceal a biased comparison.",
+      "primary_H": "H2",
+      "H_rationale": "The episode amplifies actual status sensitivity into repeated painful aggression after the biased contest wins; preserve the motive while independently recalibrating response magnitude.",
+      "eligibility_and_limits": "Non-graphic status comparison only; the narrator’s growth theories are not established science. This H2 intensity qualification does not erase literal acts, recipient pain, resource cost or responsibility; it supplies no H3/H4 or harmless-reset license.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H007",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 100,
+        "end_P": 134
+      },
+      "whole_selected_premise": "A proposed dessert wager slips into service before a teacher confiscates and eats it; the distracted pupil becomes attentive at her specialty.",
+      "primary_L": "L2",
+      "L_rationale": "Gift-like uptake is explicitly corrected by the owner, then overridden by authority.",
+      "primary_H": "H1",
+      "H_rationale": "Actual pudding loss and sustained technical listening coexist.",
+      "eligibility_and_limits": "Teacher’s possession is not consent; curricular claims retain their stated fictional limits.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H008",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 138,
+        "end_P": 157
+      },
+      "whole_selected_premise": "Practical language answers lose to the answer that words make introductions sound impressive.",
+      "primary_L": "L2",
+      "L_rationale": "A real classroom evaluation prizes performance over the pupils’ intended practical explanation.",
+      "primary_H": "H1",
+      "H_rationale": "Arue earns the mark; low grades do not show the practical answers are false.",
+      "eligibility_and_limits": "No claim every use of polite language is theatrical or every Crimson Demon shares one judgment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H009",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 161,
+        "end_P": 200
+      },
+      "whole_selected_premise": "A costly real storm is built for a teacher’s pose; the one embarrassed student becomes the local abnormality.",
+      "primary_L": "L2",
+      "L_rationale": "The boastful introduction and Yunyun’s private embarrassment have different audiences and norms.",
+      "primary_H": "H2",
+      "H_rationale": "The teacher’s actual style appetite is amplified into costly weather manipulation solely for a pose; literal storm effects remain, while the social investment’s magnitude needs separate transfer calibration.",
+      "eligibility_and_limits": "Megumin’s chuunibyou label is her inverted appraisal, not a clinical diagnosis. This H2 intensity qualification does not erase literal acts, recipient pain, resource cost or responsibility; it supplies no H3/H4 or harmless-reset license.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H010",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 202,
+        "end_P": 248
+      },
+      "whole_selected_premise": "Ordinary illness cannot excuse exercise, but acted possession can; the avoided lesson then floods the garden.",
+      "primary_L": "L2",
+      "L_rationale": "The local supernatural-role script wins permission where an ordinary request failed.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin invents the excuse; the storm and subsequent student request to stop it are literal.",
+      "eligibility_and_limits": "No actual hidden occupant or nonliteral storm; calorie saving and hurt specialty pride both remain.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H011",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 252,
+        "end_P": 268
+      },
+      "whole_selected_premise": "A provider yields half her own lunch under pressure and the beneficiary eats all while the teacher launders storm blame.",
+      "primary_L": "L2",
+      "L_rationale": "Half is a specific limit, and the explicit protest survives later friendly behavior.",
+      "primary_H": "H1",
+      "H_rationale": "Both food violation and institutional false account actually occur.",
+      "eligibility_and_limits": "Neither a comic outcome nor authority makes the act harmless or consensual.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H012",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 270,
+        "end_P": 299
+      },
+      "whole_selected_premise": "An unfavorable reference weakens the chosen dream, so she stops reading and becomes absorbed in a fictional ruler’s accidental civic improvement.",
+      "primary_L": "L0",
+      "L_rationale": "Selective evidence avoidance and displacement into another book are portable.",
+      "primary_H": "H1",
+      "H_rationale": "The narrator explicitly admits wavering and choosing not to continue.",
+      "eligibility_and_limits": "Embedded Violent Lord events are not events of the principal narrative; unseen volumes are not credited.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H013",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 300,
+        "end_P": 320
+      },
+      "whole_selected_premise": "A grand protective accusation collapses into an admission of boredom and an unsatisfied wish to introduce herself.",
+      "primary_L": "L2",
+      "L_rationale": "Heroic address and the ordinary explanation of her actual motive conflict.",
+      "primary_H": "H1",
+      "H_rationale": "Both supposedly rescued pupil and accused classmate dispute the interpretation.",
+      "eligibility_and_limits": "An insulted peer’s reaction is not proof of a secret abusive plan.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H014",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 325,
+        "end_P": 363
+      },
+      "whole_selected_premise": "An obvious detour becomes a wanted shared walk, followed by a free-meal beneficiary criticizing the hunger she caused.",
+      "primary_L": "L2",
+      "L_rationale": "Invitation, rival disclaimer and repeated demands to make a quiet friendship wish audible control relational face.",
+      "primary_H": "H1",
+      "H_rationale": "Actual inclusion and actual teasing coexist; the narrator admits her own food toll contributes to isolation.",
+      "eligibility_and_limits": "No universal social exclusion, pure generosity or inferred consent to every humiliation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H015",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 367,
+        "end_P": 397
+      },
+      "whole_selected_premise": "Yunyun insists on an ordinary dish name while Megumin embraces ceremony, then desired friend talk produces an ideal partner forecast the reader knows to question.",
+      "primary_L": "L1",
+      "L_rationale": "The shortening of the menu name and repeated correction materially shape the contrast.",
+      "primary_H": "H1",
+      "H_rationale": "Both state preferences in this earlier slice.",
+      "eligibility_and_limits": "Later relationships are informed reader comparison, not the girls’ future knowledge or a guaranteed endpoint.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H016",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 404,
+        "end_P": 439
+      },
+      "whole_selected_premise": "A sister’s supposed sales victory accompanies a real meal gift and a reciprocal offer, while her captured dinner is a frightened pet.",
+      "primary_L": "L2",
+      "L_rationale": "Battle/result language reframes scarcity and food acquisition; the offered portion is actually declined.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin gives the sandwich and takes the cat away from threatened consumption.",
+      "eligibility_and_limits": "The child’s three-day claim is not an independent nutrition survey; no animal is eaten here.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H017",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 441,
+        "end_P": 494
+      },
+      "whole_selected_premise": "Unable to afford a pet, she recruits classmates’ feeding through a false familiar story that the teacher accepts for amusement.",
+      "primary_L": "L2",
+      "L_rationale": "Mana dependence fails, invented shared identity succeeds for an openly different recipient reason.",
+      "primary_H": "H1",
+      "H_rationale": "Food and classroom permission have real providers; she does not know the cat’s actual origin.",
+      "eligibility_and_limits": "The familiar claim is an in-world fabrication, not evidence of acquired familiar magic.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H018",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 496,
+        "end_P": 539
+      },
+      "whole_selected_premise": "The persuasive other-self story makes the cat the real Megumin, until an angry child demands a name her culture finds strangely ordinary.",
+      "primary_L": "L1",
+      "L_rationale": "Repeated identical name/reference and Kuro’s local markedness are material to the confusion.",
+      "primary_H": "H1",
+      "H_rationale": "Actual taunts, desk overturn, wrestling and a temporary name occur.",
+      "eligibility_and_limits": "No actual duplicate person or clinical loss of identity; the cat’s later acceptance of Yunyun is retained.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H019",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 543,
+        "end_P": 572
+      },
+      "whole_selected_premise": "A hoped-for accessories outing supplies small weapons, but the apparently misplaced shop has a real advanced-magic craft business.",
+      "primary_L": "L1",
+      "L_rationale": "Small goods versus small weapons is the explicit lexical misunderstanding.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun likes the dagger; the blacksmith explains his furnace and niche customers.",
+      "eligibility_and_limits": "Unnamed noble customer is not conclusively identified here; purchase is only confirmed in chapter2.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H020",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U018",
+        "native_member": "item/xhtml/p-008.xhtml",
+        "native_member_sha256": "2dd39ce6dfcd80c8e48592a830e11d37065b804d3894bd10766b20c5cb5ee018",
+        "start_P": 574,
+        "end_P": 614
+      },
+      "whole_selected_premise": "Protecting the cat through a fattening pretext leaves the eater’s goal intact, while ordinary cleaning and bedtime companionship continue.",
+      "primary_L": "L2",
+      "L_rationale": "Strategic postponement speaks the child’s incentive language instead of giving unlimited permission.",
+      "primary_H": "H1",
+      "H_rationale": "Actual care, warnings and new toy clue occur; identity remains unproved to Megumin.",
+      "eligibility_and_limits": "No completed cooking, final familiar contract or permanent safety from Komekko.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H021",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 3,
+        "end_P": 33
+      },
+      "whole_selected_premise": "Pride in a new dagger wins broad contest assent before alarming terms are disclosed; the point count then creates a false graduation comparison.",
+      "primary_L": "L2",
+      "L_rationale": "Specific method refusal follows assent to an unspecified contest; truthful four-points answer hides the different target skill.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun forfeits and supplies lunch; no stabbing contest is performed.",
+      "eligibility_and_limits": "No retrospective full-scope agreement or false claim that Megumin’s total points are lower.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H022",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 47,
+        "end_P": 77
+      },
+      "whole_selected_premise": "Shared book interest gives way to a real friendship offer treated as an enormous ceremony.",
+      "primary_L": "L2",
+      "L_rationale": "Spoiler objection, corrected classmate name and formal acceptance expose contrasting stakes.",
+      "primary_H": "H1",
+      "H_rationale": "Funifura offers friendship and Yunyun chooses it.",
+      "eligibility_and_limits": "No permanent benign motive is certified by the offer alone; fictional book2 remains a nested story.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H023",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 81,
+        "end_P": 128
+      },
+      "whole_selected_premise": "A casually stolen hair tie is irreplaceable as a first friend gift, while a newly given half-lunch is again consumed whole.",
+      "primary_L": "L2",
+      "L_rationale": "Replacement price misses relational meaning and half remains a precise violated scope.",
+      "primary_H": "H1",
+      "H_rationale": "Desk rummaging and loss are actual, as are apology posture, renewed provision and protest.",
+      "eligibility_and_limits": "No original gift retrieval is shown; continuing company does not repair the earlier act.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H024",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 132,
+        "end_P": 164
+      },
+      "whole_selected_premise": "The dependent eater and inclusion seeker accurately identify one another’s vulnerability, then object to the unflattering symmetry.",
+      "primary_L": "L2",
+      "L_rationale": "Quoted future lures and rival claims turn personal knowledge into mutual leverage.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun wipes Megumin’s face before their genuine argument.",
+      "eligibility_and_limits": "Predicted bad men and a bloody duel remain hypothetical; no literal future prophecy.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H025",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 175,
+        "end_P": 206
+      },
+      "whole_selected_premise": "The pale customer’s praise of defective tools is dismissed before her name is read; the cat-in-pot cue overturns the well-fed-sister safety assumption.",
+      "primary_L": "L0",
+      "L_rationale": "Interrupted identification and a failed prediction followed by actual rescue are portable.",
+      "primary_H": "H1",
+      "H_rationale": "The Axel address is received but the customer’s name is not.",
+      "eligibility_and_limits": "Do not backfill Wiz knowledge or a completed cat meal from later exposure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H026",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 210,
+        "end_P": 265
+      },
+      "whole_selected_premise": "The girl who routinely gives her own breakfast to her sister fails at flattery where the child’s plain request obtains actual food.",
+      "primary_L": "L2",
+      "L_rationale": "The adult preempts the extraction attempt; the child’s own address changes willingness.",
+      "primary_H": "H1",
+      "H_rationale": "Holiday scarcity, reciprocal breakfast care and delivered gifts are real.",
+      "eligibility_and_limits": "No general obedience-to-praise rule or proved ownership permission for food taken from the adult’s household.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H027",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 269,
+        "end_P": 320
+      },
+      "whole_selected_premise": "Exact contest limits prevent a fake second form, but a threat to take the cat’s promised food still wins an inferior arm-wrestler the match.",
+      "primary_L": "L2",
+      "L_rationale": "One round, provider choice and independent cat provision are negotiated, then undermined through a new threat.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun explains her own non-parental standing motive; Megumin revises her loneliness-only theory.",
+      "eligibility_and_limits": "No actual shape change, death curse or completed starvation; actual cognitive update is retained.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H028",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 325,
+        "end_P": 363
+      },
+      "whole_selected_premise": "A three-person option exists, yet the friend label moves Yunyun into another group while Megumin’s intended invitation remains unfinished.",
+      "primary_L": "L2",
+      "L_rationale": "Rival disclaimer, explicit friend address and a borrowed displacement trope organize competing affiliations.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun’s conflicted choice is actual.",
+      "eligibility_and_limits": "No sexual affair or permanent group contract; illustration speech has its own identity.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H029",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 367,
+        "end_P": 399
+      },
+      "whole_selected_premise": "A lesson in supernatural strength is punctured by the observation that the huge weapons are hollow props.",
+      "primary_L": "L2",
+      "L_rationale": "The literal object correction contradicts the teacher’s causal story and loses marks.",
+      "primary_H": "H1",
+      "H_rationale": "The props are real; no demonstrated physical strengthening is required for lifting them.",
+      "eligibility_and_limits": "Do not infer a new magical ability from performed strain or a game-like lesson.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H030",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 401,
+        "end_P": 452
+      },
+      "whole_selected_premise": "Peers who insist the frightened pupil kill a rabbit resist the same demand when Megumin physically imposes it on them.",
+      "primary_L": "L2",
+      "L_rationale": "Ranking pressure becomes concrete refusal and repeated stop requests.",
+      "primary_H": "H1",
+      "H_rationale": "Forced blade handling is literal coercion despite a protective-looking reversal.",
+      "eligibility_and_limits": "Rabbit death is not shown before interruption; no comedy, benefit or injury threshold excuses force.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H031",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 454,
+        "end_P": 503
+      },
+      "whole_selected_premise": "A pet protector offers the pet as a decoy; a reluctant killer shields friends; an effective teacher admits he deliberately waited to look cool.",
+      "primary_L": "L2",
+      "L_rationale": "Proposed sacrifice, explicit condemnation and the rescuer’s own timing explanation separate actors’ goals.",
+      "primary_H": "H1",
+      "H_rationale": "Useful protection and imposed danger coexist with interrupted consideration of advanced magic.",
+      "eligibility_and_limits": "No actual advanced purchase, guaranteed safety or prior knowledge of the monster’s true target.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H032",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 507,
+        "end_P": 584
+      },
+      "whole_selected_premise": "New friends replace a familiar walk and a tender written reconciliation becomes a deliberate cruel bait-switch.",
+      "primary_L": "L2",
+      "L_rationale": "Private-note disclosures and the final reversal require the actual recipient’s trust and prior concern.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun really cries, attacks and receives punishment with Megumin.",
+      "eligibility_and_limits": "Calling it a joke does not erase harm; manufactured tenderness is not proof every expressed bond is false.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H033",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 588,
+        "end_P": 633
+      },
+      "whole_selected_premise": "Survival advice rewards genre dialogue, and two rivals both try to occupy the supposedly winning heroic role.",
+      "primary_L": "L1",
+      "L_rationale": "Specific heroic/villain lines and their contradiction with prior answers are material.",
+      "primary_H": "H1",
+      "H_rationale": "The girls deliberately manipulate the performance frame.",
+      "eligibility_and_limits": "No evidence the quoted clichés are literal guarantees of survival or an actual probabilistic law.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H034",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U023",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "native_member_sha256": "378009a1f86d3ac59f7afb1cff4475e0a0dfa637272c51559f59c5f71b50acec",
+        "start_P": 634,
+        "end_P": 671
+      },
+      "whole_selected_premise": "An agreed fistfight becomes unwinnable when the pupil knowingly uses a named pet as a shield, then warns her friend about other people’s exploitation.",
+      "primary_L": "L2",
+      "L_rationale": "Explicit objection to the changed method and the narrator’s later admission of her own specialty parallel expose the inconsistency.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun halts after an initially unknown cat cue; Megumin knowingly presses the advantage.",
+      "eligibility_and_limits": "No actual Explosion at friends, no permission supplied by accepting a fistfight or continued attachment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H035",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 3,
+        "end_P": 52
+      },
+      "whole_selected_premise": "A game’s rule permits a board-flip Explosion, while punishing a late adult requires a deliberately distorted report to his father.",
+      "primary_L": "L1",
+      "L_rationale": "Rulebook wording and the added breathy implication change what the father hears.",
+      "primary_H": "H1",
+      "H_rationale": "The board action is a game move; the accusation’s false embellishment is explicitly challenged.",
+      "eligibility_and_limits": "No real spell or evidence the adult desires these children; no retroactive permission for borrowing the game.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H036",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 55,
+        "end_P": 114
+      },
+      "whole_selected_premise": "Practical courtship inquiry needs conversation and a fee, but the applicant proudly admits lacking both resources.",
+      "primary_L": "L2",
+      "L_rationale": "Status insults, ordinary job advice and a cashless reply have specific opposing recipients.",
+      "primary_H": "H1",
+      "H_rationale": "The helpers actually propose alternatives before the forest plan.",
+      "eligibility_and_limits": "Imagined future partner is not standing consent or a completed relationship.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H037",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 117,
+        "end_P": 180
+      },
+      "whole_selected_premise": "The funded-reading plan fails when invisible protection leaves visible helpers as bait and the rescuer rehearses his entrance.",
+      "primary_L": "L0",
+      "L_rationale": "Capacity, detection, chosen delay, carcass and pack are portable causal dependencies.",
+      "primary_H": "H1",
+      "H_rationale": "An effective saber strike is followed by a failed earning/extraction problem.",
+      "eligibility_and_limits": "No liver sale or free successful whole operation; Yunyun’s dagger-limit objection is actual.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H038",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 181,
+        "end_P": 237
+      },
+      "whole_selected_premise": "Exhaustive private routine knowledge finds the target, but an allegedly casual question loses its opening over a cute wooden sword.",
+      "primary_L": "L2",
+      "L_rationale": "Megumin’s self-assessment of perfect casualness is directly contested; local taste reverses who seems odd.",
+      "primary_H": "H1",
+      "H_rationale": "The adult’s admitted surveillance and the target’s departure actually occur.",
+      "eligibility_and_limits": "IMG017 supplies the missing large speech, not an independently omniscient account or consent.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H039",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 239,
+        "end_P": 277
+      },
+      "whole_selected_premise": "A helpful gust is turned into an intrusive look and a huge tornado; the person helped must rescue herself.",
+      "primary_L": "L2",
+      "L_rationale": "The speaker admits a second motive after a capacity excuse, and the girls expose him.",
+      "primary_H": "H1",
+      "H_rationale": "Actual dangerous launching and the target’s own wind recovery precede escape and censure.",
+      "eligibility_and_limits": "No pure-help or survival exemption; no graphic detail or completed burial.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H040",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 281,
+        "end_P": 334
+      },
+      "whole_selected_premise": "A vowed refusal is bought back with an actual meal, then a proposed manufactured attacker receives a real veto.",
+      "primary_L": "L2",
+      "L_rationale": "The food offer changes one helper’s choice without changing the other’s stated judgment.",
+      "primary_H": "H1",
+      "H_rationale": "Payment depletes the adult’s money; Yunyun refuses the attacker role.",
+      "eligibility_and_limits": "The proposed assault is not enacted; real urgency and hoped-for gratitude remain mixed motives.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H041",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 338,
+        "end_P": 381
+      },
+      "whole_selected_premise": "An intended full-power rescue includes the intended beneficiary in its fire and needs her shield plus a separate cleanup request.",
+      "primary_L": "L0",
+      "L_rationale": "Target, bystander geometry, independent protection and wildfire recovery are separable.",
+      "primary_H": "H1",
+      "H_rationale": "Monster destruction succeeds while Socket supplies her own shield and Bukkorori supplies later water.",
+      "eligibility_and_limits": "No guaranteed prior separation, harmless effect or claim that useful output proves safe judgment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H042",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 382,
+        "end_P": 418
+      },
+      "whole_selected_premise": "The apparently mutual romantic confession is actually a challenge from a woman who experienced stalking and two attacks.",
+      "primary_L": "L2",
+      "L_rationale": "Same-feeling and something-to-tell-you formulas have incompatible private referents.",
+      "primary_H": "H1",
+      "H_rationale": "Her mistaken hostile-intent inference has real evidential grounds even though the motive differs.",
+      "eligibility_and_limits": "A blush is not proof of love; the girls reveal the admitted intrusive motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H043",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 422,
+        "end_P": 462
+      },
+      "whole_selected_premise": "A freely offered first fortune reading shows nothing, and comforting talk instead boasts an accuracy that makes the result hurt more.",
+      "primary_L": "L2",
+      "L_rationale": "One-time service, probabilistic caveat and reassurance uptake each matter.",
+      "primary_H": "H1",
+      "H_rationale": "Current empty output is observed; permanent celibacy is only a character inference.",
+      "eligibility_and_limits": "Epilogue49 later supplies the self-involvement limit; do not backdate that information.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H044",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U028",
+        "native_member": "item/xhtml/p-018.xhtml",
+        "native_member_sha256": "7a80854b35590237f585e783e73eb82042f55eaf9a07e301566c1690356cff97",
+        "start_P": 466,
+        "end_P": 493
+      },
+      "whole_selected_premise": "The child’s ideal heroic future contrasts with her friend’s ordinary-man forecast, then an unfinished gift report triggers an angry inference.",
+      "primary_L": "L0",
+      "L_rationale": "Stated early preferences and incomplete evidence are portable.",
+      "primary_H": "H1",
+      "H_rationale": "She runs out before hearing the whole child’s sentence.",
+      "eligibility_and_limits": "No completed final assault, proven adult proposal to a child or future marriage.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H045",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U034",
+        "native_member": "item/xhtml/p-024.xhtml",
+        "native_member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+        "start_P": 8,
+        "end_P": 49
+      },
+      "whole_selected_premise": "Unsolicited food replaces the expected wager, and a tempting point lead cannot make the provider compete.",
+      "primary_L": "L2",
+      "L_rationale": "Lunch is given with a specific leave-me-alone condition, and the rejected challenge has a private cause.",
+      "primary_H": "H1",
+      "H_rationale": "Actual chosen refusal precedes Megumin’s later understanding of graduation alignment.",
+      "eligibility_and_limits": "No inferred infatuation or general absence of rivalry from this changed morning.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H046",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U034",
+        "native_member": "item/xhtml/p-024.xhtml",
+        "native_member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+        "start_P": 55,
+        "end_P": 88
+      },
+      "whole_selected_premise": "A reported perfect hero becomes a dream of joining righteous companions and then ruling as the new demon king.",
+      "primary_L": "L2",
+      "L_rationale": "Moral-hero framing and the narrator’s openly imagined usurpation diverge.",
+      "primary_H": "H1",
+      "H_rationale": "This is an actual fantasy, not an actual political act.",
+      "eligibility_and_limits": "Hero name remains partially recalled in peer report; the closing coda separately names its subject.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H047",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U034",
+        "native_member": "item/xhtml/p-024.xhtml",
+        "native_member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+        "start_P": 92,
+        "end_P": 128
+      },
+      "whole_selected_premise": "Friendship finance is treated seriously until the advice is applied to the adviser’s own lunch.",
+      "primary_L": "L2",
+      "L_rationale": "Shared-hardship maxim receives an exact counterexample and a self-serving exception.",
+      "primary_H": "H1",
+      "H_rationale": "Yunyun asks about gift meaning, not a direct loan demand; Megumin still allows aid for real need.",
+      "eligibility_and_limits": "Illness is not disproved by suspicion and no pharmacy robbery is performed.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H048",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U034",
+        "native_member": "item/xhtml/p-024.xhtml",
+        "native_member_sha256": "3f41c401eed63de1de9dcb486461831e3caa77dccf0eafdb7451107600d984fd",
+        "start_P": 130,
+        "end_P": 179
+      },
+      "whole_selected_premise": "A dangerous sealed attraction is preserved because it sounds cool, while a planned early walk catches a real transfer and uneasy consciences.",
+      "primary_L": "L2",
+      "L_rationale": "Institutional style justification and actual overheard guilt have distinct authority.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin acts on a particular concern before the later outcome.",
+      "eligibility_and_limits": "No precise elder history or total fraudulent-illness conclusion from local lore and guilt alone.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H049",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 1,
+        "end_P": 82
+      },
+      "whole_selected_premise": "A confident offer of help finds an actual recipe and permitted materials, while the same helper ignores damage she caused to a pet.",
+      "primary_L": "L2",
+      "L_rationale": "Profit-oriented expectation is corrected by a specific helping aim; strict-training language is corrected as abuse.",
+      "primary_H": "H1",
+      "H_rationale": "Teacher, Arue and Yunyun are independent providers with real roles.",
+      "eligibility_and_limits": "Fantasy recipe is not real medical guidance; no full safe laboratory operation or proven cure.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H050",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 83,
+        "end_P": 134
+      },
+      "whole_selected_premise": "Reassurance that only the leek is needed ends when fresh experience and food information creates a reason to kill the duck.",
+      "primary_L": "L2",
+      "L_rationale": "No-meaningless-killing leaves room for a newly discovered reward, exposing a substantive failed expectation.",
+      "primary_H": "H1",
+      "H_rationale": "Actual killing, two levels and two points follow despite Yunyun’s expressed concern.",
+      "eligibility_and_limits": "Purpose does not make harm harmless or consensual; no pet/duck identity conflation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H051",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 138,
+        "end_P": 185
+      },
+      "whole_selected_premise": "A real homemade remedy obtains the money’s return, but teasing the rescuer’s attachment still invites actual retaliation.",
+      "primary_L": "L2",
+      "L_rationale": "The helper explicitly separates exploitation from the unresolved truth of illness.",
+      "primary_H": "H1",
+      "H_rationale": "Cash is returned under anger and threats; she also tries to attack the newly provided remedy.",
+      "eligibility_and_limits": "Final broken bottle or clinical effect is not observed; caring motive does not nullify force.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H052",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 189,
+        "end_P": 246
+      },
+      "whole_selected_premise": "The beneficiary correctly infers hidden help, rejects its no-harm account and buys a meal that exceeds her expectations.",
+      "primary_L": "L2",
+      "L_rationale": "Self-serving denial and specific counterexample coexist with a freely offered all-you-want meal.",
+      "primary_H": "H1",
+      "H_rationale": "Money actually reaches Yunyun and food actually reaches Megumin.",
+      "eligibility_and_limits": "No pre-existing meal budget is invented; complaints and later support do not erase prior costs.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H053",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 249,
+        "end_P": 309
+      },
+      "whole_selected_premise": "A shared graduation plan exposes different skill targets, and the chosen art’s defense ends in the defender’s first real loss.",
+      "primary_L": "L2",
+      "L_rationale": "The points’ hidden premise is corrected before the explicit specialty criticism; actual loss admission is followed by excuses.",
+      "primary_H": "H1",
+      "H_rationale": "Both chosen identity and physical inferiority are literal.",
+      "eligibility_and_limits": "No current magical demonstration or full ordinary-cost priority test merely from an angry attack.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H054",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 311,
+        "end_P": 348
+      },
+      "whole_selected_premise": "A private origin confession wins understanding, but a weak creature is killed while the friend is articulating her wish to protect it.",
+      "primary_L": "L2",
+      "L_rationale": "Personal disclosure changes understanding without withdrawing practical criticism; the interrupted moral aspiration has an actual object.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin chooses food despite the companion’s audible concern.",
+      "eligibility_and_limits": "No absolute affectionate safety brake or requirement of a pure hostile motive.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H055",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U037",
+        "native_member": "item/xhtml/p-027.xhtml",
+        "native_member_sha256": "60647d2820d49b2b7ac5570c5013f18e6ab080aaa434672a2ab59421a58532da",
+        "start_P": 351,
+        "end_P": 427
+      },
+      "whole_selected_premise": "The heroically worded escape leaves the companion behind, and a refused alternative spell is followed by a protective home invitation that meets a broken door.",
+      "primary_L": "L2",
+      "L_rationale": "The recipient catches the inverted heroic script; the explicit advanced-magic plea is understood and refused.",
+      "primary_H": "H1",
+      "H_rationale": "Refusal precedes monsters passing by, and the new broken-door cue changes the situation.",
+      "eligibility_and_limits": "Later survival cannot supply prior prudence; no hidden safe plan or guaranteed house security.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H056",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 3,
+        "end_P": 55
+      },
+      "whole_selected_premise": "The supposedly calm sister rescuer needs her friend’s intervention, then forces the hesitant dagger holder into an actual attack.",
+      "primary_L": "L2",
+      "L_rationale": "A false divine-sister story gives way to direct instructions and an unconsented push.",
+      "primary_H": "H1",
+      "H_rationale": "Fear, forced first stab and Megumin’s own finishing act are actual.",
+      "eligibility_and_limits": "No real hidden god transformation, mutually chosen weapon use or no-cost heroism.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H057",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 62,
+        "end_P": 110
+      },
+      "whole_selected_premise": "A premature obituary is corrected by a live pet, then a missed rescue throw is excused as an imaginary wind barrier.",
+      "primary_L": "L2",
+      "L_rationale": "Visible evidence and an explicit counterpart correction oppose the narrator’s self-serving accounts.",
+      "primary_H": "H1",
+      "H_rationale": "She tries after a plea but fails; the monster actually carries the cat away.",
+      "eligibility_and_limits": "No actual target wind ability or full successful pet rescue.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H058",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 113,
+        "end_P": 180
+      },
+      "whole_selected_premise": "The toy clue finally connects the sister with the seal, but a one-enemy plan is delayed by disputed bait roles and overtaken by five new enemies.",
+      "primary_L": "L0",
+      "L_rationale": "Memory, alternative gift hypothesis, actual observation and new threat are portable reasoning stages.",
+      "primary_H": "H1",
+      "H_rationale": "New knowledge does not become old knowledge; the proposed role was never jointly settled.",
+      "eligibility_and_limits": "Genre hope for hidden power is an escape fantasy, not a supplied capability.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H059",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 181,
+        "end_P": 219
+      },
+      "whole_selected_premise": "A real commitment to protect the sister confronts the long-held dream before the other girl chooses an actual costly spell.",
+      "primary_L": "L2",
+      "L_rationale": "An unearned advanced-mage introduction and private hesitation differ from actual acquisition.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin cannot easily commit; Yunyun recognizes the conflict and acts independently.",
+      "eligibility_and_limits": "Meaningful reconsideration does not require an eventual purchased alternative; no retrospective erasure of earlier refusal.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H060",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 223,
+        "end_P": 284
+      },
+      "whole_selected_premise": "The sight of a rival’s real sacrifice brings tears and a return, but the younger sister refuses the proposed safe destination.",
+      "primary_L": "L2",
+      "L_rationale": "Strongest-sister reassurance and the child’s specific no change the accepted plan.",
+      "primary_H": "H1",
+      "H_rationale": "She returns to help at a possible identity cost; taking the child reflects an assessed new risk.",
+      "eligibility_and_limits": "Yunyun’s estimated year loss is the narrator’s appraisal, not measured recovery time or total permanent loss.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H061",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 288,
+        "end_P": 352
+      },
+      "whole_selected_premise": "The returning hero is initially unnecessary, a child steals her entrance, and Yunyun deliberately preserves a dream she still thinks impractical.",
+      "primary_L": "L2",
+      "L_rationale": "Rival acknowledgment, intermediate-mage insult and explicit continued opposition prevent a unanimous-value reading.",
+      "primary_H": "H1",
+      "H_rationale": "Actual successive enemy defeats and fatigue have the correct provider.",
+      "eligibility_and_limits": "Waiting for cheaper help and wanting a repayment role complicate simple selfless resolve.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H062",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 360,
+        "end_P": 405
+      },
+      "whole_selected_premise": "Carrying the spent helper imposes pain, the promised safe return blocks abandonment and a cat’s cry finally resolves the pursuit pattern.",
+      "primary_L": "L2",
+      "L_rationale": "The specific promised scope is invoked by its beneficiary; the narrator explicitly admits delayed recognition.",
+      "primary_H": "H1",
+      "H_rationale": "Actual transport, cost and cognitive update remain after a local battle win.",
+      "eligibility_and_limits": "No costless reset or inference that every old clue already supplied the full answer.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H063",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 407,
+        "end_P": 441
+      },
+      "whole_selected_premise": "Ready to buy time with advanced magic, she receives a competing wait proposal, then a new card check reveals the dream spell is already affordable.",
+      "primary_L": "L0",
+      "L_rationale": "Competing routes, known danger and genuinely new resource information are portable.",
+      "primary_H": "H1",
+      "H_rationale": "Her willingness to change the build precedes the favorable discovery.",
+      "eligibility_and_limits": "No completed advanced purchase or proof that firing was the uniquely safest alternative.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H064",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 445,
+        "end_P": 512
+      },
+      "whole_selected_premise": "The first real Explosion destroys its target, fells trees and exhausts the caster, who newly recognizes her need for companions.",
+      "primary_L": "L1",
+      "L_rationale": "The elaborate self-introduction and ecstatic phrasing contrast with concrete collapse and dependency.",
+      "primary_H": "H1",
+      "H_rationale": "Spell and collateral are literal within the fiction; performance is not nonliteral license.",
+      "eligibility_and_limits": "No independently secured recovery or full safe-operation guard; stated future appreciation is not permanent behavioral validation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H065",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 516,
+        "end_P": 545
+      },
+      "whole_selected_premise": "The local victory releases another seal, but a convenient public story and selectively withheld knowledge protect the young casters.",
+      "primary_L": "L2",
+      "L_rationale": "The narrator’s correction-to-misunderstanding move meets Yunyun’s explicit causal objection.",
+      "primary_H": "H1",
+      "H_rationale": "Adult arrival/transport/reprimand are actual; the goddess’s movement is reported rather than directly observed.",
+      "eligibility_and_limits": "The false divine battle account is not canon truth; no named goddess location or universal casualty proof.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H066",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 547,
+        "end_P": 573
+      },
+      "whole_selected_premise": "An extravagant sacrifice-for-art claim secretly retains all meals, yet the specific nearby-casting restriction actually holds for now.",
+      "primary_L": "L1",
+      "L_rationale": "The final add-back clause undoes the stated tradeoff and is caught by the listener.",
+      "primary_H": "H1",
+      "H_rationale": "Ongoing desire and temporary restraint are both observed.",
+      "eligibility_and_limits": "No continuous repeat-fire claim, new blind drift score or retroactive harmlessness from no-injury self-report.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H067",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U043",
+        "native_member": "item/xhtml/p-033.xhtml",
+        "native_member_sha256": "88cb1b00e4b737f23f40e2107f36ac35da84ec72bdeba31579d04e79eff58deb",
+        "start_P": 574,
+        "end_P": 614
+      },
+      "whole_selected_premise": "Care keeps the cat at home, while an inferred evil-god identity is hidden from a friend and the new name ignores both her objection and the cat’s reaction.",
+      "primary_L": "L2",
+      "L_rationale": "Quiet disclosure repair omits the important identity predicate; actual naming overrides a temporary shared label.",
+      "primary_H": "H1",
+      "H_rationale": "A new name is given, while a magical contract is only suggested.",
+      "eligibility_and_limits": "No target consent, formal familiar ritual or equally shared knowledge.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H068",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U049",
+        "native_member": "item/xhtml/p-039.xhtml",
+        "native_member_sha256": "6b11990f5101539067279b4f7870ea3670f8bc8b7106fe62439fea33043ea62c",
+        "start_P": 1,
+        "end_P": 31
+      },
+      "whole_selected_premise": "An invited fortune reading falters over the perfect companions and then withholds information precisely because the reader wants that future.",
+      "primary_L": "L2",
+      "L_rationale": "The provider’s stated advice purpose conflicts with her own desired outcome and refusal to disclose.",
+      "primary_H": "H1",
+      "H_rationale": "Megumin explicitly asks for clarification and considers changing destination.",
+      "eligibility_and_limits": "Divination is not an observed future main-series event or informed agreement to later harassment.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H069",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U049",
+        "native_member": "item/xhtml/p-039.xhtml",
+        "native_member_sha256": "6b11990f5101539067279b4f7870ea3670f8bc8b7106fe62439fea33043ea62c",
+        "start_P": 33,
+        "end_P": 71
+      },
+      "whole_selected_premise": "A new self-involvement rule reopens the empty-crystal result, and the worried traveler still chooses a concrete budget task before departure.",
+      "primary_L": "L2",
+      "L_rationale": "The later rule supplies a new inference route; it does not replace the old observers’ earlier knowledge.",
+      "primary_H": "H1",
+      "H_rationale": "Actual present uncertainty and future ambitions coexist.",
+      "eligibility_and_limits": "No completed marriage, departure or oracle-accuracy census; cat reaction is not a spoken causal explanation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H070",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U009",
+        "native_member": "item/xhtml/p-001.xhtml",
+        "native_member_sha256": "cd13e686179cb30717b1d644115da9801ac453e9b143bcd3bcb1d603731d2774",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG009",
+        "native_image_member": "item/image/img-001.jpg",
+        "native_image_sha256": "5eae6230f5cb84a3667677d771d70502d4b0e923b1b4a2d39d009000b80fa310",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "An Arue-attributed tourist feature turns dangerous attractions and top-pupil self-promotion into village normality.",
+      "primary_L": "L2",
+      "L_rationale": "Promotional voice and quoted interview are distinct from unqualified narrator fact.",
+      "primary_H": "H1",
+      "H_rationale": "The fictional article exists on its own source plane.",
+      "eligibility_and_limits": "Legends, seating chart and tourist claims do not establish visits or independent event counts.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H071",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U019",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "native_member_sha256": "481f61a63a19efaf627df79190b74c7c82b87194bdecbfabc67bb0a6b84e6c2a",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG026",
+        "native_image_member": "item/image/img-txt001.jpg",
+        "native_image_sha256": "d2b2e5a4f313695ae5c8dd72c22c8644cf909eb54a790a378e1336922055495a",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "A would-be terrifying devil must ask the child who calls him a goblin to solve his sacred device.",
+      "primary_L": "L2",
+      "L_rationale": "Rank insistence and reciprocal ownership claims change who can request help.",
+      "primary_H": "H1",
+      "H_rationale": "Actual child skill and the devil’s dependency are literal.",
+      "eligibility_and_limits": "Whole interlude spans IMG026–028; the first page alone is not its whole outcome.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H072",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U024",
+        "native_member": "item/xhtml/p-014.xhtml",
+        "native_member_sha256": "7245d7f2469fec5f2212777309eed2a02dfbe90943407849dda153f890d93db5",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG029",
+        "native_image_member": "item/image/img-txt004.jpg",
+        "native_image_sha256": "7c08b4ed39ab5265853394482a628b6c449a40683a88c2414bbbca8edda438e1",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "The devil supplies real meat before the bored solver claims the promised food did not buy an enforceable contract.",
+      "primary_L": "L2",
+      "L_rationale": "Progress condition, contract denial and deferential request have exact limited scope.",
+      "primary_H": "H1",
+      "H_rationale": "The child eats and does not complete the remaining task on demand.",
+      "eligibility_and_limits": "Whole interlude IMG029–031; no perpetual obedience or magical contract.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H073",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U029",
+        "native_member": "item/xhtml/p-019.xhtml",
+        "native_member_sha256": "b38224da4340873a85506f812175cc22765546920c0ba6588719db9f86cc76b6",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG032",
+        "native_image_member": "item/image/img-txt007.jpg",
+        "native_image_sha256": "6f5c1865aa4913769b0e490f4ce3fe4a615a9e74e7bae571122ea91799a5a031",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "The supposedly impossible puzzle yields, while a child’s independent adventure choice converts the devil’s boast into a dangerous rescue problem.",
+      "primary_L": "L2",
+      "L_rationale": "No, boredom, praise and a conditional honorific bet mark changing owned choices.",
+      "primary_H": "H1",
+      "H_rationale": "Actual carry and charge toward the bear pack occur.",
+      "eligibility_and_limits": "Whole interlude IMG032–035; the battle resolution is unshown, not an invented heroic victory.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H074",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U038",
+        "native_member": "item/xhtml/p-028.xhtml",
+        "native_member_sha256": "63df4197d888c63930551ee8a55f7bb688cf35b1869e8bba433779b6cbbffecd",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG036",
+        "native_image_member": "item/image/img-txt011.jpg",
+        "native_image_sha256": "bdb0919296142d348ee530d17a70ad9fe203f910c7a33f79f7fd313532c8556f",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "A ritual’s hen-and-child demand is answered with a chicken-and-egg bowl, and the intended sacrifice becomes the solver’s meal.",
+      "primary_L": "L3",
+      "L_rationale": "親子丼 names a specific Japanese dish through parent/child semantics; translating only parent-and-child loses the culinary misunderstanding and requires reconstruction or a note.",
+      "primary_H": "H1",
+      "H_rationale": "Actual shopping, food ownership and failed ritual interpretation are literal acts.",
+      "eligibility_and_limits": "Whole interlude IMG036–039; no erotic reading or actual child sacrifice is asserted.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H075",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U044",
+        "native_member": "item/xhtml/p-034.xhtml",
+        "native_member_sha256": "0b947cc5f52698531ad6df85cff45594d161756dbca20615bc6312a21d92fb11",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG040",
+        "native_image_member": "item/image/img-txt015.jpg",
+        "native_image_sha256": "6dfa8b193d671232b09e95a3e982ac37ca06ce7094fc4f166062a8437eaa3e58",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "The returning devil mistakes the village’s false battle story for defeat, misses the child’s cat clue and leaves a valued first friend.",
+      "primary_L": "L2",
+      "L_rationale": "Reported catastrophe, uncertain self-preservation inference and conditional future contract have distinct force.",
+      "primary_H": "H1",
+      "H_rationale": "Actual farewell and the child’s affection coexist with earlier food leverage.",
+      "eligibility_and_limits": "Whole interlude IMG040–043; no completed summoning, new contract or confirmed death.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    },
+    {
+      "id": "EXP01-WHOLE-H076",
+      "source_id": "EXP-01",
+      "boundary": {
+        "component_id": "EXP-01-U050",
+        "native_member": "item/xhtml/p-040.xhtml",
+        "native_member_sha256": "6b75631edb48b6f5b07bcdcdea9d81bd88b416380bd5df1b3ed63b6d991fbda1",
+        "start_P": 0,
+        "end_P": 0,
+        "image_id": "EXP-01-IMG025",
+        "native_image_member": "item/image/img-017.jpg",
+        "native_image_sha256": "155d1879c66070177ca30cc97f3ad40b67133234da2926323415bee79f6cc429",
+        "locator_scope": "Full specified image; linked complete narrative group is identified in eligibility limits, not a fabricated paragraph-zero transcript."
+      },
+      "whole_selected_premise": "The final credits wink at the source’s callbacks, while a separate meanwhile-hero comic reveals a different reason for the visitor’s search.",
+      "primary_L": "L2",
+      "L_rationale": "Creator address, fictional cast credits and the hero’s surprised question have different addressees and authority.",
+      "primary_H": "H1",
+      "H_rationale": "The mini-coda reports the goddess has escaped; it does not show the escape.",
+      "eligibility_and_limits": "Upper creator panel and lower CO-EXP01-END-CODA are separate components; no live site access or new main-source validation.",
+      "native_whole_interval_previously_read": true,
+      "formal_assignment_after_seal_utc": "2026-10-18T13:39:42.331438+00:00",
+      "not_an_independent_prediction_trial": true
+    }
+  ]
+}

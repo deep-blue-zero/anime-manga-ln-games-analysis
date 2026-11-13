@@ -1,0 +1,141 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_ROOT_RECEIVING_AND_ACCEPTANCE_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_CANONICAL_DERIVATIVE",
+  "subject": "Akari",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+  "canonical_adoption_boundary": "This candidate takes effect only after ROOT verifies and installs all declared paths. Publication and main integration remain separate.",
+  "historical_payload_qualification": "The exact original is immutable; pending, C-only, historical 353/26 or publication states below describe its original custody event. Current required scope is355/29. They are not current adoption states.",
+  "original_exact_tuple": {
+    "path": "ROOT_AKARI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+    "bytes": 5018,
+    "sha256": "e7748b6c3cf2396f9664fa9e2270c5665ea8bfdc2a1d10a009f2ecaed9deb7d2",
+    "git_blob_oid_of_actual_bytes": "87e412aa9aaf9d238bff1d951081965f023213d6",
+    "lines": 92
+  },
+  "public_reference_translation": "Repository paths are recoverable repository-relative routes; external/private/local witness labels preserve provenance only and do not serve files or admit new material. No original tuple is recomputed as a public derivative tuple.",
+  "assembler_receiving_credit": {
+    "new_primary": 0,
+    "new_performance": 0,
+    "independent_literary_receiving": 0,
+    "authority": "ROOT complete literary decision is preserved; mechanical full-byte transport and exactness are separately checked."
+  },
+  "historical_author_or_root_payload": {
+    "schema": "BLUE_ARCHIVE_ROOT_AKARI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+    "status": "PASS_WITH_LIMITS",
+    "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+    "candidate_sha256": "f88dfb7fe2f93eb7780d8c7094cdfc893a95c8f87f08f28b762dd05c17c3f5ec",
+    "frozen_outputs_verified": 4,
+    "prior_frozen_payloads_preserved": 73,
+    "exact_unique_binding_pairs_verified": 148,
+    "public_arguments_equal_current_main_c1_and_published_source": 29,
+    "effective_private_arguments": 11,
+    "separate_comparison_arguments": 1,
+    "complete_F14_F15_addendum": 1,
+    "selected_private_objects_exactly_verified": 17,
+    "saved_nonempty_lines_joined": 111,
+    "root_actual_receiving": {
+      "whole_body": [
+        "39b9371–65",
+        "76947f66–130",
+        "dcafde131–178EOF"
+      ],
+      "whole_readable_receipt": "ad63cc59EOF",
+      "complete_controls": "46618f repairs clipped3e295a; excludes explicitly named binding/projection arrays; no whole2545JSON narrative claim",
+      "scope_fields": [
+        "30c86b all11private",
+        "71bed7 all26reused public",
+        "3fa849 both freshpublic",
+        "defea9 all11boundedrefreshes"
+      ],
+      "whole_manifest_and_metadata": [
+        "19900939EOF",
+        "d0aabb49EOF"
+      ],
+      "fresh_complete_effective_private_arguments": [
+        "34c70dA01",
+        "2b1e7aA02",
+        "90f079A03",
+        "ef2d4aA04",
+        "183d80A05",
+        "31b01fA06",
+        "1a6b87A07",
+        "7ef733A08",
+        "36997fA09",
+        "91b677A10",
+        "484ac2A11"
+      ],
+      "fresh_complete_separate_comparison": "1ab01f83EOF",
+      "fresh_complete_addendum": [
+        "441d001–76",
+        "f50c9777–143EOF"
+      ],
+      "fresh_complete_consequential_public_arguments": [
+        "5694a8E810009:12686EOF",
+        "f6b80dE81001083EOF"
+      ],
+      "adequate_existing_ROOT_meanings": "MAIN480 and Phase2 accepted analytical meanings, Fuuka/Juri/Haruna/Izumi accepted public grounds reused at exact prior declared scopes; author whole/bounded custody remains attributed. E848 thirty narrative arguments and stated gap spans only, not whole2333metadata. No fresh primary/native/raw/performance receiving.",
+      "current_worktree_reconciliation": "Frozen probe describes1bb97; old exact tuples checked against1bb97 committed history after sevenpublicationdbabb. AkariF003/A049 exact fields remain unchanged in current788 index. No mutable old tuple represented as current."
+    },
+    "semantic_grounds": [
+      "Affordable food, garlic embarrassment, dress, craft effort, taste, gratitude and wanted company are distinct ordinary evidence; appetite does not exhaust her portrait or require world-level stakes.",
+      "Actual adult limits and pressure coexist with chosen company. Forecast hundredburgers, publicity metrics, conditional request, first tasting and future dishes remain unfulfilled at their source degree.",
+      "Narrated sixtyportions/thirtyminutes is a bounded actual record; suspected seasoning purpose remains her locale-specific assessment rather than chemical or culpability proof.",
+      "Generic person-empty sushi/mochi narration does not become securely voiced Akari because adjacent written lines name her. Typed/native actor disagreements, internal/formal choice modes and MM alternatives are retained.",
+      "Actual shared mochi differs from fulfilled first-tasting priority or staff service. Japan designateddriver/home and Korean hotel/overnight stay separate; borrowedvehicle permission/return remain unresolved.",
+      "Akari novice chocolate anxiety, separately prepared portions, adult objections and actual less-than-half consumption retain conservation and unfinished future eating; Junko comparativecapacity and paymentoffer do not establish an Akari appearance or settled payment.",
+      "Positive help, apology and carefulcompany do not erase captiveFuuka labor, Junko objections, Izumi plea, coercedfood or unfinished restitution. Historical sourceadmission/ledger/reconstruction statements are qualified by currentCycle008; no model or allinstitutionrepair is promoted."
+    ],
+    "root_new_primary_extent": {
+      "complete_bond": 0,
+      "complete_whole_message": 0,
+      "complete_written": 0,
+      "canonical_partial": 0,
+      "native_raw_AV": 0
+    },
+    "all14_gaps": "OPEN_UNCHANGED",
+    "models_or_predictions_promoted": false,
+    "scope": "Accepted355/29 unchanged; existingP3-CHAR-AKARI; separate directed/ensemble/institution/register duties unfinished",
+    "progress": {
+      "previous_ROOTaccepted_packages": 43,
+      "new_character_package": 1,
+      "total_ROOTaccepted_packages": 44,
+      "character_packages": 43,
+      "directed_relationship_packages": 1,
+      "canonical_persistence": "PENDING_NEXT_EXACT_ADOPTION",
+      "published_packages": 43,
+      "published_source_commit": "dbabbf95a39458b05f337c1d0151a79f4d4ab6f1",
+      "published_source_audit_chain": "PENDING_REMOTE_SOURCE_HOUSE_FINAL;no nextpublicationbeforePASS",
+      "quarter_reached": false
+    },
+    "canonical_adoption": "PENDING_ROOT_PUBLIC_DERIVATIVE",
+    "main_integration": "NONE",
+    "nine_unbound_large": "UNREAD_UNHASHED"
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "new_scope_or_quarter_credit": false,
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "current_required_home": "P3-CHAR-AKARI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_AKARI_CHARACTER_MONOGRAPH.md",
+    "bytes": 35862,
+    "sha256": "dff7fddab94d303a2c1c0b622ce761e96172c3c08e76bc0793297465a70da8f1",
+    "git_blob_oid_of_actual_bytes": "b570172b33e361706f36ee5ada88011184d4dc25"
+  },
+  "precise_derivative_changes": [
+    {
+      "old": "The candidate adds no primary/native/raw/AV reading.",
+      "new": "This monograph adds no primary/native/raw/AV reading.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    },
+    {
+      "old": "This is a complete literary candidate for independent ROOT receiving and adoption with limits, not canonical acceptance by its author.",
+      "new": "ROOT independently received and accepted this complete literary argument with limits; canonical persistence follows complete ROOT installation.",
+      "kind": "AUTHORITY_OR_PRECISE_CUSTODY_FRAMING_ONLY"
+    }
+  ],
+  "exact_added_authority_or_custody_paragraphs": [
+    "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKARI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_AKARI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed. The prior published canonical base is dbabbf95; historical author snapshots remain attributed."
+  ],
+  "fixed_publication_snapshot": "Four accepted packages44–47 only; later ROOT acceptances are excluded from this canonical batch"
+}

@@ -1,0 +1,17 @@
+{
+  "state": "ACTUALLY_RECEIVED_ALL_PROJECTED_NEW_SEMANTIC_FIELDS",
+  "completed_utc": "2026-10-17T20:59:51.633372+00:00",
+  "read_log": {
+    "path": "/workspace/scratch/konosuba/withheld-source-validation/DUST-07/root-coordinated-receiving-v1/ROOT_ACTUAL_NEW_FIELD_RECEIVING_READ_LOG.jsonl",
+    "bytes": 16529,
+    "sha256": "72ebb8ee7d5b12ccf0ad6da82ebf446500145eb14a26837d3e22f40c70221262"
+  },
+  "counts": {
+    "original_assessments": 86,
+    "event_cards": 192,
+    "voice_witnesses": 78,
+    "projection_files": 34,
+    "verified_reused_S_native_base_and_ruby_occurrences": 130
+  },
+  "boundary": "All new interpretive fields and source intervals actually read; exact previously read literals/questions/cautions and source base/ruby copies mechanically verified/reused. Original reports already received separately. No new full principal pass, independent discovery, statistical reliability, acceptance or publication claimed. I Epi54/55 and E01 actor errors plus E06 chronology qualification require external correction; S preseal Epi correction governs its original notes."
+}

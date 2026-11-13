@@ -1,0 +1,1330 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/CENSUS_HYAKKIYAKO_SHANHAIJING/HYAKKIYAKO_SHANHAIJING_CHARACTER_DECISIONS.json",
+  "original_frozen_binding": {
+   "bytes": 128815,
+   "sha256": "d74b602e7fd31c51968f416ad565648d897fa628182d314995cfad127af965cd",
+   "git_blob_sha1": "718a180e2508f4e181e1d0a771577950b2691a6c"
+  }
+ },
+ "historical_payload": {
+  "status": "AUTHOR_COMPLETE_ROOT_ACCEPTANCE_PENDING",
+  "decisions": [
+   {
+    "candidate_unit_id": "P3-F036",
+    "label": "Niya",
+    "display_label": "Niya",
+    "literal_identity_field": "BA_PERSON_CH0109",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F036",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Niya",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0109",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_YINYANG_NIYA_KAHO_CHISE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B5/MM5/W1; variants 20046",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A162",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Niya",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Niya warrants a monograph about the conversion of personal amusement into administrative opportunity, and the limits of treating indirect help as harmless or omniscient care. Her desired kabuki, breeze, scents and shared outing are ends in themselves. The invented pursuit that draws the adult into leisure is nevertheless deception; Kaho's subsequent work and junior correction keep its interpersonal costs visible. Actual origami/street or room settlement, resource brokerage and jurisdiction talk show practical agency, but attributed reasons and promised wages do not establish a completed payment or sole adult authorship. The withdrawn takeover joke and its whole-message tail leave bounded uncertainty rather than an enacted coup.",
+     "Public evidence complicates both benevolent-mastermind and purely frivolous-official portraits. V005 provides actual crisis coordination and a local song/story countereffect while Niya explicitly retracts the universal historical purging explanation. EVENT813 preserves planning admissions alongside recognition costs and uncompleted accounts. EVENT835 gives expected disorder exceeding expectation, delegated host burden and amusement admitted at the ending. It allows an interpretation of indirect help without making the adult's all-planned inference true. GROUP320 supplies encouragement of Chise's initiative beside covert following; enjoying a gratitude gift does not retrospectively authorize surveillance. The strongest rival reading sees playful manipulation as necessary institutional flexibility. It must answer the displaced work and withheld information. The opposite reading of total bad faith cannot explain real contributions, chosen enjoyment or her own limited admissions."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: power, amusement and indirect assistance with accountable costs",
+     "longitudinal_arc": "Longitudinal arc: V005 chapter ordering and event-local revisions, without ordering private variants by release",
+     "public_private_self": "Public/private self: administrative rhetoric, playful evasion and wanted outings compared at actual audiences",
+     "school_club_role": "School/club role: Onmyou coordination and jurisdiction claims distinguished from documents or universal law",
+     "ordinary_life": "Ordinary life: theatre, breeze, scents, origami and private pleasure retain intrinsic value",
+     "crisis_behavior": "Crisis behavior: actual public coordination and wounded aftermath without all-control or casualty certification",
+     "sensei_relationship": "Sensei relationship: deception, invited company, adult hypotheses and correction remain directed and situated",
+     "major_peer_relationships": "Major peer relationships: Kaho's work and Chise's chosen making require separate duties",
+     "language_voice": "Language/voice: written register, joking withdrawal and attribution seams, no performed voice",
+     "competing_readings": "Competing readings: strategic care versus instrumental amusement tested against burden and actual aid",
+     "evidence_route": "Evidence route: complete YinYang owner, GROUP320, V005 and813/835/853 plus all further positive owners required before monograph adoption."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NIYA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F035",
+    "label": "Kaho",
+    "display_label": "Kaho",
+    "literal_identity_field": "BA_PERSON_CH0107",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F035",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Kaho",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0107",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_YINYANG_NIYA_KAHO_CHISE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B5/MM5/W1; variants 10065",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A113",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Kaho",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Kaho's independent responsibility is the tension between sincere admiration, competent public work and the right to an ordinary life that admiration can interrupt. The off-duty helping episode achieves local solutions yet displaces her hoped-for tour. Her later film, haiku, food, popup and tiny-channel pleasures are actual particular tastes; views do not grade them. Collapse and rest survive admiration, and the adult refuses exclusive oath or economic-alliance proposals. Actual cleaning, remembered award care and quiet tea show both conscientious work and wanted company without a verified public-growth outcome.",
+     "GROUP320 is decisive against treating her as simply the owner of Chise's creativity. Chise prepares the personal poem/gift, asks for help and wants Kaho to enjoy sunny rest. Kaho's overprotective involvement and covert following are different acts from Chise's voluntary gratitude. Her tears, admitted doubt and apology have a local recipient; they do not disclose or repair every surveillance step. EVENT835 supplies tired yet genuinely wanted hospitality and a demand that Niya do her share. V005 gives risky festival work, while813 adds recognition and disputed cost judgments. The rival reading of pure selfless service loses interrupted wants and actual joy; the rival reading of controlling fandom loses chosen labor, gratitude received and willingness to reflect. Her interests and failures deserve explanation even when no institution-wide result follows."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: devotion and public labor conditioned by personal wants and recipient agency",
+     "longitudinal_arc": "Longitudinal arc: local private work/rest changes and V005 duties, no inferred variant calendar",
+     "public_private_self": "Public/private self: host competence, fandom, collapse and delight separated by audience",
+     "school_club_role": "School/club role: actual Onmyou hosting and delegated burden, no audited growth claim",
+     "ordinary_life": "Ordinary life: tours, film, haiku, food, tiny videos, keepsakes and tea",
+     "crisis_behavior": "Crisis behavior: risky festival continuation and aid at stated public scope",
+     "sensei_relationship": "Sensei relationship: enjoyed company with refused oath/alliance and displaced leisure",
+     "major_peer_relationships": "Major peer relationships: Chise's authored gratitude and Niya's allocation need distinct directed accounts",
+     "language_voice": "Language/voice: reverential and work registers with GROUP320 raw-actor qualifications",
+     "competing_readings": "Competing readings: devotion as generosity versus control, tested against actual chosen rest and covert action",
+     "evidence_route": "Evidence route: whole YinYang,320,V005,813/835 and further positive event/written owners, with performance and payment limits retained."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAHO_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F083",
+    "label": "Chise",
+    "display_label": "Chise",
+    "literal_identity_field": "BA_PERSON_CHISE",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F083",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Chise",
+     "raw_identity_or_source_ids": "BA_PERSON_CHISE",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_YINYANG_NIYA_KAHO_CHISE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 10047|13001",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A163",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Chise",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Chise is an author and recipient-sensitive maker whose ordinary perception cannot be reduced to a public ritual tool or to vague eccentricity. A cloud is not found, but cotton candy is enjoyed. A poem is actually completed from shared sounds and literal moon clarification, while the interrupted book purchase remains unprinted. Cleanup achieves a local environmental benefit without finding the wanted sparkle. Turtle company, wind chimes, shared conversation and sand treasure have their own value. The curse-letter approach refusal is overridden; later chosen company cannot repair that earlier permission seam. A local deadline/blackout does not prove supernatural law.",
+     "GROUP320 shows her independently preparing a personal gratitude work for Kaho and Niya, choosing its components and recognising their tastes. Audience approval is actual from three local speakers, not a population survey. V005's song is heard and Hitotsume thins locally; Niya's later bluff retraction blocks a universal rite mechanism without cancelling that effect. EVENT835 preserves her beauty response during a dangerous launch;847 supplies chosen competitive effort, defeat without regret and a poem's particular written carriers. A rival reading of passive mascot fails against actual authorship and choice. A rival reading of sovereign magical poet fails against causal limits, unfinished searches and the actual contributions of others. Her quiet making can be meaningful before anybody needs it to save a town."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: perception and making are personal agency with situated audience effects",
+     "longitudinal_arc": "Longitudinal arc: completed poem, local performances and public countereffects at their own order",
+     "public_private_self": "Public/private self: chosen quiet making versus crowd access and public expectation",
+     "school_club_role": "School/club role: Onmyou/festival participation without absorption into magical office",
+     "ordinary_life": "Ordinary life: clouds, sweets, books, moon, chimes, turtles and treasure",
+     "crisis_behavior": "Crisis behavior: V005 song and835 beauty amid danger without universal technique",
+     "sensei_relationship": "Sensei relationship: shared observation and company retain refused approach and unfinished exchange",
+     "major_peer_relationships": "Major peer relationships: Kaho/Niya gratitude, audience boundaries and competitive Izuna direction",
+     "language_voice": "Language/voice: literal/figurative correction and poem carriers, no heard vocals",
+     "competing_readings": "Competing readings: passive eccentricity and unlimited artistic power both tested",
+     "evidence_route": "Evidence route: whole YinYang,320,V005,835/847 plus relevant801/other owners still required, all chronology/ritual gaps open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_CHISE_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F054",
+    "label": "Yukari",
+    "display_label": "Yukari",
+    "literal_identity_field": "BA_PERSON_CH0161",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F054",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Yukari",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0161",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HYAKKA_YUKARI_NAGUSA_KIKYOU_RENGE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 10081|10121",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A148",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Yukari",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Yukari's monograph should explain chosen Hyakka belonging against household obligation, the continuing hurt involved in repair, and the ordinary curiosity that predates adult guidance. V005 gives her own first wanted role, pressure into inherited miko work, refusal of Shuro's proxy claim, a lost succession challenge accepted without resentment and a reported household conversation. Neither family instruments nor complete grievance repair is displayed. Her private foot-dipping, arcade, sweets, swimming and companion preference show a young person's wanted life beyond carrying prestige. A family-rented pool becomes an actual refusal of exclusionary privilege and announced public access; refunded money and the initial lesson remain unprinted. Melted ice and a failed plan do not erase actual night-market company.",
+     "EVENT847 contrasts her wanted sea and senior company with Kikyou's quiet preference. Her push initially needs Renge's restraint, and support on the boat includes an apologised tail touch; warm group outcomes are not universal prior assent. Her effective local play contributes to a win without spiritual healing or restored clinical arm state. A rival reading of mere inherited obedience cannot explain refusal and independent curiosity. A rival emancipation-as-complete reading overlooks ongoing injury to relationships, reported rather than instrumented family change, and her own pressure on another student's enjoyment. Her arc is neither a popularity reward nor a cure for all obligation."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen belonging and repair alongside unremoved hurt and personal curiosity",
+     "longitudinal_arc": "Longitudinal arc: V0051→2 choices plus local summer episodes, no variant date invention",
+     "public_private_self": "Public/private self: household dignity, committee longing, embarrassment and play",
+     "school_club_role": "School/club role: actual Hyakka service and challenge loss versus unsettled offices/family documents",
+     "ordinary_life": "Ordinary life: arcade, sweets, foot-dipping, pool/sea and company",
+     "crisis_behavior": "Crisis behavior: refusal of proxy blame, requested help and situated teamwork",
+     "sensei_relationship": "Sensei relationship: guidance/comfort without authorship of her preexisting wants",
+     "major_peer_relationships": "Major peer relationships: Nagusa admiration and Kikyou/Renge accommodation/pressure duties",
+     "language_voice": "Language/voice: ですの and coerced public scripts qualified by actor seams",
+     "competing_readings": "Competing readings: submissive heir versus completed liberation tested against choices and costs",
+     "evidence_route": "Evidence route: complete Hyakka,V005,847/835 and relevant other public/whole-written owners required, clinical and office debt open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUKARI_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F065",
+    "label": "Nagusa",
+    "display_label": "Nagusa",
+    "literal_identity_field": "BA_PERSON_CH0222",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F065",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Nagusa",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0222",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HYAKKA_YUKARI_NAGUSA_KIKYOU_RENGE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 10119|10142",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A149",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Nagusa",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Nagusa's sustained responsibility is the move from performing an ideal senior in isolation toward asking for help and staying beside an incompletely known person. V005 chapter1 retains withheld truth and hurt rather than calling all performance fraud. Chapter2 gives her choice to name herself, accept the burdens of a challenge, recover a represented right arm and wait beside physically returned yet sleeping Ayame. Participant victory statements do not display office or emblem transfer. Ayame's psychological explanation is relayed medical testimony, not chart or prognosis, and Nagusa's waiting does not force awakening or restore mutual consent.",
+     "Private festival wishes, chosen participation, gardening, heat weakness, night fear, food and a losing water-gun game complicate a sufficient-senior image. Reported peer support and actual company matter beside persistent rumours; a locally rejected rumour is not their global end. Her skewer offering does not establish adult eating, and good volleyball play does not certify clinical arm restoration.847 adds overstrain, an inward Ayame address with no answer, received peer support and reflection that depending on others need not be shameful. The rival impostor reading cannot explain actual junior care. The rival perfected-leader reading ignores continued limits, missing appointments and an unawakened friend. Her ordinary vulnerability earns a substantial account independent of crisis rank."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: named imperfect presence and help-seeking replace isolated ideal substitution",
+     "longitudinal_arc": "Longitudinal arc: exact V0051/2 changes and847's post-seal local qualification",
+     "public_private_self": "Public/private self: admired image against heat, fear, rumour, loss and wanted participation",
+     "school_club_role": "School/club role: acting chair/challenge support versus unsettled title and 百蓮",
+     "ordinary_life": "Ordinary life: gardening, food, festival company, games and rest",
+     "crisis_behavior": "Crisis behavior: cooperation, changed self-understanding and returned arm at actual source degree",
+     "sensei_relationship": "Sensei relationship: adult argument and help do not make awakening/care his sole outcome",
+     "major_peer_relationships": "Major peer relationships: Ayame directed waiting, junior resentment/support and Kikyou witnessing",
+     "language_voice": "Language/voice: コスプレ/演技/継承戦 and inward address with seam limits",
+     "competing_readings": "Competing readings: total fraud and perfected replacement both rejected through specific evidence",
+     "evidence_route": "Evidence route: whole Hyakka,V005 and847 plus every positive owner, preserving Nagusa-arm/Ayame-body distinction and unresolved private placement."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_NAGUSA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F067",
+    "label": "Kikyou",
+    "display_label": "Kikyou",
+    "literal_identity_field": "BA_PERSON_CH0225",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F067",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Kikyou",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0225",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HYAKKA_YUKARI_NAGUSA_KIKYOU_RENGE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 10083|20047",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A111",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Kikyou",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Kikyou merits an independent account of strategic competence, chosen reciprocity and the conflict between protecting a useful public image and admitting limitation. V005 gives harsh speech that hurts Yukari alongside desire for Nagusa herself, help and a witness role. Private practical repairs and dinner are actual bounded contributions, not a structural repair of every recipient's work. Quiet books, crafts, private initiative and companionship are positive wants. Her objections to discussing rest, illness access or body/depth handling survive eventual resignation and later pleasure. Cat-video denial is not an observed viewing. Hammock making and a named alliance have particular meanings without universal durability.",
+     "847 materially changes the account: she initially prefers quiet reading, is permitted not to join, conceals fear under strategist expectations, loses awareness after sabotage, wakes and later chooses serious competition rather than sacrificing her place. Local dog-paddle recovery is genuine skill growth, not complete cure. Renge's support informs the choice without swallowing Kikyou's own wanting. The adult's final confidentiality condition produces reluctant agreement; gratitude and enjoyment do not make it an uncomplicated privacy promise. A rival cold-calculator portrait misses craft, wanting and actual reciprocal care. A rival friendship-cures-all portrait misses earlier refusal, unequal touch and secret pressure. The monograph's mechanism must be literary explanation, not an installed behavioral rule set."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen reciprocity under image pressure requires recipient access limits",
+     "longitudinal_arc": "Longitudinal arc: V005 repair choices and847 concealment→rescue→chosen contest/local learning",
+     "public_private_self": "Public/private self: strategist image, private books/craft, weakness and secrecy",
+     "school_club_role": "School/club role: strategy and witnessing without proved office transfer",
+     "ordinary_life": "Ordinary life: reading, ayatori, dinner, repair, sand play and hammock making",
+     "crisis_behavior": "Crisis behavior: actual tactics/failure/support and local swim recovery",
+     "sensei_relationship": "Sensei relationship: help/company coexist with ignored objections and conditional confidentiality",
+     "major_peer_relationships": "Major peer relationships: Renge childhood report/support, Nagusa wanted person and Yukari hurt/repair",
+     "language_voice": "Language/voice: 身共, cat metaphors, strategic rhetoric and source drift",
+     "competing_readings": "Competing readings: pure calculation versus total friendship cure tested against contrary choices",
+     "evidence_route": "Evidence route: whole Hyakka,V005,847/835 and all further positive owners, no swimsuit-to-calendar or clinical promotion."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KIKYOU_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F066",
+    "label": "Renge",
+    "display_label": "Renge",
+    "literal_identity_field": "BA_PERSON_CH0224",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F066",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Renge",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0224",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HYAKKA_YUKARI_NAGUSA_KIKYOU_RENGE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B9/MM9/W3; variants 10082|13014",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A112",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Renge",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Renge's distinct monograph should examine wanting youth and recognisable roles without making genre rehearsal a requirement for real company. Her private city places and novels predate adult intervention. A refused collision roleplay and failed transfer/childhood-lover labels contrast with actually enjoyed snacks, karaoke, shopping and walks. The romance comparison is rejected; an unshared fictional childhood is not their past. Her real care for an adult who skipped meals supplies a consumed bento without printed portion/preferences or a claim she caused the collapse. A ribbon's fictional lover association is learned only after the gift; placement permission and a no-teasing boundary stay specific.",
+     "Larger summer ambitions can cost pain or fail: island escape is achieved after all-night effort and aching muscles, while a dangerous larger fire draws complaints and is extinguished. A quieter sparkler is actually fulfilled, without converting her permanently to a quiet-only person. V005 gives hurt, desired reunion/apology and actual teamwork.847 makes support an active refusal to force Kikyou initially, rescue, imperfect teaching, insistence on a full contest and acceptance of her own actual win. A rival immature-mimic reading discards real care and preferences. A rival endless-energetic-joy reading discards fatigue, failed roles, objections and bodily cost. She is independently eligible before any youth template succeeds."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: desired youth can become real experience without compulsory fictional roles",
+     "longitudinal_arc": "Longitudinal arc: source-local failed roles and fulfilled care/sparkler, V005 and847 actual changes",
+     "public_private_self": "Public/private self: expansive genre language, shame, practical care and fatigue",
+     "school_club_role": "School/club role: Hyakka service and rejected pressure differ from mere carefree image",
+     "ordinary_life": "Ordinary life: novels, city tastes, karaoke, shopping, ribbons and sparks",
+     "crisis_behavior": "Crisis behavior: teamwork, rescue and genuine contest with actual cost",
+     "sensei_relationship": "Sensei relationship: role rejection, received meals/company and bounded placement/privacy",
+     "major_peer_relationships": "Major peer relationships: Kikyou support/contest and Nagusa apology/reunion duty",
+     "language_voice": "Language/voice: アタシ/青春/師匠 and rejected romance labels with seams",
+     "competing_readings": "Competing readings: childish imitation and effortless vitality both tested",
+     "evidence_route": "Evidence route: complete Hyakka,V005,847/835 and all positive public/private owners, no clinical or invented childhood/calendar claims."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RENGE_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F038",
+    "label": "Michiru",
+    "display_label": "Michiru",
+    "literal_identity_field": "BA_PERSON_CH0113",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F038",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Michiru",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0113",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NINJA_MICHIRU_IZUNA_TSUKUYO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B9/MM9/W4; variants 16009|20053",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A154",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Michiru",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Michiru deserves a monograph about sincere making, desired wider reception and the difference between encouragement and certifying effects. Favourite fictional worlds need not be ranked by one realism scale. Ruined noodles, doused fire and failed covered-lens upload are genuine costs/failures beside actually repaired clothing, handed-over gifts and preferred company. Her formative film remains damaged after the failed backup; a cheerful turn does not restore the object. Fraudulent million-view claims are rejected by her, while100-subscriber and charter goals remain unachieved. Courage under actual gunfire is neither a total-confidence cure nor a safety audit.",
+     "GROUP290 gives her own appreciative correction of Tsukuyo's self-blame, recognition of reflector work and delight in one real friend's comment. External reach is wanted without cancelling that already-given pleasure. Shared movie knowledge lets Izuna find and join the group before equal expertise or official recognition. Staged rock-breaking is audience interpretation distinct from Michiru's inward technique account.813 supplies actual rescue and accountability without completed recognition or paid costs.853 adds wanting shared ramen/video life while fearing that asking Tsukuyo back would crush talent; forced fitting, deceptive job recruitment and surprised filming remain contrary cases inside friendship. The rival fraud reading confuses staged genre effects with false affection. The rival competent-leader-total-plan reading cannot answer improvisation, losses or her explicit protest at deception."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: sincere amateur making and desired recognition without effect certification",
+     "longitudinal_arc": "Longitudinal arc: group formation/recruitment before peers' later Sensei meeting and853 return at local order",
+     "public_private_self": "Public/private self: director pose, fear, self-doubt and genuine taste",
+     "school_club_role": "School/club role: unofficial room/funds/channel and unfinished charter",
+     "ordinary_life": "Ordinary life: films, ramen, gifts, camera craft and small appreciative audience",
+     "crisis_behavior": "Crisis behavior: improvised public rescue/protection with uncertainty and cost",
+     "sensei_relationship": "Sensei relationship: requested help/company, refused gun/retake and objected deception",
+     "major_peer_relationships": "Major peer relationships: Tsukuyo credited skill and Izuna admission, unequal friend pressure",
+     "language_voice": "Language/voice: 殿/部長 and genre registers, staged/private layers and raw seams",
+     "competing_readings": "Competing readings: fraud versus all-planning leader against local positive/counterevidence",
+     "evidence_route": "Evidence route: complete Ninja,290,V005,813/853 plus all further actual appearances; ruined film, bills, charter and performed-voice debt retained."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MICHIRU_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F100",
+    "label": "Izuna",
+    "display_label": "Izuna",
+    "literal_identity_field": "BA_PERSON_IZUNA",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F100",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Izuna",
+     "raw_identity_or_source_ids": "BA_PERSON_IZUNA",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NINJA_MICHIRU_IZUNA_TSUKUYO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W4; variants 10014|10046",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A155",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Izuna",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Izuna's independent argument is chosen ninja belonging through taste, effort and ordinary pleasure, with devotion that can become intrusive when the recipient's wishes are not updated. Her private favourite films, shared long viewing, ramen/takoyaki/ramune, free-throw, quiet boat and beach wants are ends beyond useful guarding. An adult privacy warning and her apology do not remove later persistent following after a rest request. Agreed hand contact during the desired swimming lesson differs from surprising waist support. Actual basics, a smaller chosen sandcastle and eaten watermelon are positive achievements without solo mastery or a fear cure; grandeur can fail without defeating all play.",
+     "GROUP290 shows her finding a cultural-reference flyer, agreeing to an interview and actually joining peers who say shared liking permits belonging before equal expertise. Her prior exploited-festival/Teacher-help report is not the other members' witnessed history. V005 presents actual route/guard contributions and temporary power later lost.813 gives distributed rescue;853 adds deliberate cheer and hopeful emotional work, yet misleading Michiru about the security job remains a permission failure.847 records real chosen competition and an interrupted final/joint champion result rather than universal technique. A rival servant-only reading misses her taste and peer agency; a rival purely harmless enthusiasm reading cannot explain boundaries, deception or misunderstood staged effects."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen devotion and belonging have personal ends and recipient limits",
+     "longitudinal_arc": "Longitudinal arc: application follows reported prior help, then located public changes without global calendar",
+     "public_private_self": "Public/private self: literal ninja aspiration, pleasure, effort and possible image misunderstanding",
+     "school_club_role": "School/club role: actual peer admission versus unfinished administrative recognition",
+     "ordinary_life": "Ordinary life: favourite films, snacks, boating, sandcastle, watermelons and rest",
+     "crisis_behavior": "Crisis behavior: situated rescue/routing/competition and temporary-power loss",
+     "sensei_relationship": "Sensei relationship: 主殿 is chosen address, not ownership or blanket access",
+     "major_peer_relationships": "Major peer relationships: welcomed member, supportive emotional work and deceptive recruitment boundaries",
+     "language_voice": "Language/voice: 主殿/殿/部長 and technical genre interpretations qualified by mode/seams",
+     "competing_readings": "Competing readings: servant-only and harmless-enthusiast accounts tested",
+     "evidence_route": "Evidence route: whole Ninja,290,V005,813/815/847/853 plus801 and all further positive routes still required, aquatic/chronology limits open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IZUNA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F039",
+    "label": "Tsukuyo",
+    "display_label": "Tsukuyo",
+    "literal_identity_field": "BA_PERSON_CH0114",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F039",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Tsukuyo",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0114",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NINJA_MICHIRU_IZUNA_TSUKUYO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W4; variants 10040|10132",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A156",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Tsukuyo",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Tsukuyo needs a distinct substantial argument about capability, bodily visibility, audience control and the right to name a wanted ordinary life. Private trained stillness, child/dog reunion, show work and tailoring requests show useful contributions beside fear, obstruction and misunderstanding. The premature technique is explicitly refused, the adult delays an explanation already known, and a whole-message book search stays unfinished. Actual vegetable meals and comfortable office/coupon hospitality matter without curing every anxiety. A rare club pamphlet motivates one-day work; promised ice cream and future peer reaction do not become achieved outcomes. The short art-class レイ is generic employee evidence, not baseball or diver Rei, and later reported payment cannot backdate a receipt into an earlier posed drawing.",
+     "GROUP290 recognises reflector skill and behind-camera care despite self-devaluation, while keeping her request not to be photographed.853 provides the load-bearing public arc: temporary one-day assent, actual beautiful performance, withheld contact/diet, wanted ramen with peers, self-naming as a timid tall ninja-loving student and chosen return. The repaired garment is actually gifted by a designer who later accepts choice; beauty is preserved beside critique of imposed professional worth. Her own unexpected filming at the ending stops a total-consensual-homecoming reading. The rival body-deficit portrait fails against competence. The rival inevitable-model-success portrait mistakes acclaim for preference. Her fear and skill require neither crisis-only value nor a clinical diagnosis."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: capable bodies and admired skill do not prescribe a wanted life",
+     "longitudinal_arc": "Longitudinal arc: formation care, private temporary work and853 assent→restriction→self-definition→return",
+     "public_private_self": "Public/private self: visibility, self-devaluation, inward wants and outward naming",
+     "school_club_role": "School/club role: useful unofficial club labor and career limits, no WildHunt enrollment",
+     "ordinary_life": "Ordinary life: ramen, vegetables, quiet stars, pamphlet, clothes and chair/coupon pleasures",
+     "crisis_behavior": "Crisis behavior: actual child/dog help and bomb capture with injury/role attribution qualifications",
+     "sensei_relationship": "Sensei relationship: supportive mediation, delayed explanation, refused technique and unprinted filming permission",
+     "major_peer_relationships": "Major peer relationships: Michiru recognition/pressure and Izuna care/deception separately argued",
+     "language_voice": "Language/voice: 大野ツクヨ self-definition, 殿 and actor/mode seams, no acoustic claims",
+     "competing_readings": "Competing readings: bodily deficit and obligatory talent realization tested against agency",
+     "evidence_route": "Evidence route: whole Ninja,290,V005,813/853 and every positive owner, with lecturer/payment/anonymous-Rei and career-restoration debt explicit."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TSUKUYO_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F136",
+    "label": "Shizuko",
+    "display_label": "Shizuko",
+    "literal_identity_field": "BA_PERSON_SHIZUKO",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F136",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Shizuko",
+     "raw_identity_or_source_ids": "BA_PERSON_SHIZUKO",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W4; variants 23006|26008",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A152",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Shizuko",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Shizuko's monograph should explain chosen hospitality, craft and commercial ambition without making either professional control or selfless service total. Deliberate stage clumsiness does not make every collapse, near-fall or exhausted slip staged. Her ordinary old tea set, apple tea, yokan, memories and wanted quiet rest have intrinsic meaning. Actual preparation and service coexist with fatigue and distributed work. Secretly claimed revenue and future franchising are not accounts; failed plans stay failed. Most sharply, continued violence after surrender cannot be erased by an entertaining corporate dream or later calming.",
+     "GROUP230 distinguishes ethical/supply limits from rejecting imagination; she accepts Umika's quiet willow/leaves/wind/sweets plan while refusing an oversized model. GROUP2403 adds practical direct-inquiry advice and a ramune gift, not proof of covert crime service or completed bill payment.815 makes refusal a protection of the project's identity while allowing aid, praise and chosen sweet/bitter memory. Actual feast/victory coexist with GSC land/forgery/departure testimony and unprinted refund.835 preserves Umika's real achievements without requiring a flawless Shizuko counterfactual.847 shows marketed fun, fatigue, a destroyed/submerged venue and local cleanup rather than comprehensive compensation. The rival mercenary-only portrait loses craft and personally wanted joy; the rival flawless host portrait cannot answer fatigue, violent failure or unsettled property."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen commerce and hospitality support personal festival value with real costs",
+     "longitudinal_arc": "Longitudinal arc: local planning/refusal/celebration and aftermath, no costume timeline",
+     "public_private_self": "Public/private self: staged service character versus genuine rest, fatigue and anger",
+     "school_club_role": "School/club role: Festival Management/Hyakuyadou planning and limits without audited business growth",
+     "ordinary_life": "Ordinary life: tea set, apple tea/yokan, memories, rest and wanted praise",
+     "crisis_behavior": "Crisis behavior: bounded hosting/refusal/help with violence and venue/property costs",
+     "sensei_relationship": "Sensei relationship: company, support and refused proposals do not certify all conduct",
+     "major_peer_relationships": "Major peer relationships: Umika guidance/recognition, Fina different plans and Training guests",
+     "language_voice": "Language/voice: customer performance, requested nickname and commercial irony with seams",
+     "competing_readings": "Competing readings: mercenary and flawless-service reductions tested through quiet craft and actual failure",
+     "evidence_route": "Evidence route: whole Festival,230/2403,V005,815/835/847 and801/remaining positive owners required, accounts and performed-voice open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHIZUKO_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F127",
+    "label": "Fina",
+    "display_label": "Fina",
+    "literal_identity_field": "BA_PERSON_PINA",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F127",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Fina",
+     "raw_identity_or_source_ids": "BA_PERSON_PINA",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 16004|20045",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A158",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Fina",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Fina's distinct responsibility is to separate chosen film-derived ethics and enthusiasm from formal criminal role, and to preserve the person who helps others yet wants a trip as a guest. PINA is the literal key, not permission to silently alter a family identity. Actual helping and shared movies coexist with failed dog-size clothing, a missing mini-dog and an exhausting film relay. A request framed through third-person Fina shifts to 私; it is personal wanting, not adult ownership. An oolong-tea oath is neither alcohol nor a printed drinking act. A lost passenger is actually returned, and her honest admission teaches the adult rather than proving only adult instruction matters.",
+     "GROUP230 shows external film ideas and plural effort; quiet planning can be accepted without erasing bold taste. GROUP2403 supplies support and misunderstood movie analogy, not real shop criminality.835 makes actual guiding, new clothes, friendship handshake and firefighting contributions distinct from failed timetable or food assumptions.815 contains positive cooperation and local festival pleasure with institutional limits. Her final private whole-message wish for a guest's trip remains prospective, deserving a place in ordinary life even if no later trip occurs. The rival genre-deluded portrait misses honest correction, competent local service and taste. The rival perfect-helper portrait misses failure, intrusion and a recipient's exhausted condition. Neither high stakes nor administrative office is needed to justify her independent account."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen genre supports honest service without cancelling personal leisure",
+     "longitudinal_arc": "Longitudinal arc: local guide error/reunion and whole-thread future guest wish, no release-order arc",
+     "public_private_self": "Public/private self: dramatic 仁義 performance and direct 私 request",
+     "school_club_role": "School/club role: festival/Hyakuyadou service with bounded completed tour",
+     "ordinary_life": "Ordinary life: films, tea, clothes, travelling and wanted guest status",
+     "crisis_behavior": "Crisis behavior:835 firefighting at distributed scope rather than invented combat career",
+     "sensei_relationship": "Sensei relationship: shared films/learning coexist with overruling an exhausted recipient and future wants",
+     "major_peer_relationships": "Major peer relationships: Shizuko planning limits, Umika support and chosen guest friendships",
+     "language_voice": "Language/voice: デス/仁義/私 repertoire with raw PINA and attribution limits",
+     "competing_readings": "Competing readings: deluded genre fan and perfect helper tested against honest action/failures",
+     "evidence_route": "Evidence route: whole Festival,230/2403,V005,815/835 plus all further positive public owners, exact minor-dog and unprinted travel/film outcomes retained."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_FINA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F037",
+    "label": "Umika",
+    "display_label": "Umika",
+    "literal_identity_field": "BA_PERSON_CH0110",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F037",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Umika",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0110",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_FESTIVAL_SHIZUKO_FINA_UMIKA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B5/MM5/W2; variants 10090",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A157",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Umika",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Umika's independent proposition is that a festival is her wanted creation before it becomes an emergency, and making it together requires acknowledging both her limits and others' preferences. She reasons about temporary worlds before the adult speaks, treasures preparation, collects an unknown childhood doll and enjoys actual chosen fireworks company. Its first identity and pair meaning remain unknown; safekeeping is requested without printed acceptance. Busy-footed rest/classes and future tests are not results. Intrusive cafe effort presses guests, and the adult renews discussion after she asks to stop; neither commercial warmth nor recognition cures the boundary.",
+     "GROUP230 supplies an initially discounted quiet willow stroll that earns genuine intrinsic value before becoming useful, then a selected plan rather than a completed festival.835 is the substantial public change: her design/craft, asking for help, real friendship handshake, an actual early fireworks relocation error, distressed overtotal self-blame and distributed firefighting. She is recognised for the completed trip/ceremony without validating her faulty timing or proving a flawless alternative Shizuko. Next-festival hope remains future.847 supplies local cleanup thanks without full submerged-venue restitution. The rival failure-only reading erases chosen design, actual fun and cooperation; the rival creativity-solves-everything reading erases pressure, hazard and timetable costs. Her ordinary work and pleasure deserve a monograph independently of whether every future festival succeeds."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: wanted making and shared help under recipient limits",
+     "longitudinal_arc": "Longitudinal arc: selected plan,835 error/help/completion/recognition, future hope kept future",
+     "public_private_self": "Public/private self: embarrassed designer, intensive service, distress and chosen company",
+     "school_club_role": "School/club role: actual festival labor and distribution, no sole adult or flawless predecessor",
+     "ordinary_life": "Ordinary life: preparation, costumes, sweets, keepsake, quiet rest and fireworks",
+     "crisis_behavior": "Crisis behavior: specific planning error and real request for distributed fire response",
+     "sensei_relationship": "Sensei relationship: help and requested sitting beside him coexist with renewed unwanted inquiry",
+     "major_peer_relationships": "Major peer relationships: Shizuko guidance, Fina/Kaede support and Erika/Kirara friendship",
+     "language_voice": "Language/voice: festival/world vocabulary and self-blame with actor qualifications",
+     "competing_readings": "Competing readings: total failure versus universal creative remedy tested against endpoints and costs",
+     "evidence_route": "Evidence route: whole Festival,230,V005,835/847 and all further positive sources required, unknown toy/no accepted safekeeping and material repair limits open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_UMIKA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F102",
+    "label": "Kaede",
+    "display_label": "Kaede",
+    "literal_identity_field": "BA_PERSON_KAEDE",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F102",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Kaede",
+     "raw_identity_or_source_ids": "BA_PERSON_KAEDE",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_TRAINING_KAEDE_MIMORI_TSUBAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B5/MM5/W2; variants 20015",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A108",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Kaede",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Kaede warrants a monograph about self-chosen maturity and active contribution while preserving interests often falsely classified as immature. Beetles, rural pleasures, cards and sweets are not deficits to be removed. Actual litter cleanup and giving a scarce pack are positive actions;20 reward packs, documentary permission and later play have distinct endpoints. A bought sleeve is deliberately not used in tournaments to avoid wear. Failed bookings, spilled bitter coffee, unfinished beetle capture and an uncompleted bomb-wire intervention prevent a perfect-growth narrative. The adult's lack of card-rule knowledge also constrains evaluative authority.",
+     "GROUP2401–2402 gives a wanted film and contribution to Mimori's curry; anticipated praise is not observed approval, and an untested salt analogy produces rebuke. Tsubaki's licking grievance and Mimori's food boundary remain real.2403–2404 gives desserts, stickers, play, fear of being unneeded, a previously declined patrol and a renewed conditional invitation. That refusal explains exclusion without making current loneliness false; wanted companionship and sleep remain competing goods. V005/835 supply situated help, clothes, card enthusiasm and future play, without needing a high-stakes competence promotion. The rival mascot-only reading misses wanted contribution; the rival maturity-as-abandonment reading discards the very interests through which she cares and plays. The disputed happy ending and her own protest must survive synthesis."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen maturity integrates interests and accountable contribution",
+     "longitudinal_arc": "Longitudinal arc: film effort/rebuke and pursuit/refusal/reinvitation locally ordered",
+     "public_private_self": "Public/private self: confident mascot image, anxious belonging and untested repair",
+     "school_club_role": "School/club role: voluntary Training activity and unfinished contest outcome",
+     "ordinary_life": "Ordinary life: beetles, cards, sleeves, sweets, stickers and sleep",
+     "crisis_behavior": "Crisis behavior: actual local giving/help without power/bomb-success invention",
+     "sensei_relationship": "Sensei relationship: advice/help/rebuke plus adult limited rules knowledge and coffee-guilt dispute",
+     "major_peer_relationships": "Major peer relationships: distinct Tsubaki/Mimori aspirations, protected junior and renewed permission",
+     "language_voice": "Language/voice: レディー/マスコット/アマツナ and imagined film/hero layers",
+     "competing_readings": "Competing readings: mascot-only and maturity-as-rejection tested against chosen wants",
+     "evidence_route": "Evidence route: whole Training,2401–2404,V005,835 plus all further positives, exact sleeve/handkerchief and unfinished outcomes retained."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KAEDE_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F117",
+    "label": "Mimori",
+    "display_label": "Mimori",
+    "literal_identity_field": "BA_PERSON_MIMORI",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F117",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Mimori",
+     "raw_identity_or_source_ids": "BA_PERSON_MIMORI",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_TRAINING_KAEDE_MIMORI_TSUBAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W3; variants 10034|20029",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A109",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Mimori",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Mimori needs an independent literary account of a self-chosen manga-shaped ideal, actual craft and caregiving, and the limits of imagining that warmth knows every mind or consents to every request. Her good sandwich/curry, sewing and desired companion have actual outcomes. The salt-error cooking is remade by her as delicious curry; the adult is not credited for the repair. The embroidered object is a handkerchief, completed by particular permission, not Kaede's card sleeve. A treasured apron is mended, a demonstration remains missed and quiet sweets/tea are still valuable. Bed-sharing and initial corridor-hug proposals are refused. Cleaning happiness does not prove the whole building inspected.",
+     "GROUP2402 makes meal care compatible with real anger at altered food;2404 rejects the literal mother identity and supports apology/conditional junior invitation. Public voluntary patrol, care for cats and protective work extend her chosen repertoire beyond uniform domestic compliance.847 explicitly distinguishes her affiliation from Ninja Research and shows local peer aid without verified mind-reading. Private summer walking, floating and shared pleasure can forget training; ankle trouble and adult reassurance are not a clinical cure. A rival gender-duty reading turns her own wants into an external rule. A rival infallible-warmth reading cannot answer refused proposals, actual anger, failed demonstrations or unsupported physiological claims. Her skill and taste deserve analysis without requiring a battle-sized effect."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen ideal/craft and care remain bounded by recipient and personal agency",
+     "longitudinal_arc": "Longitudinal arc: local mistake/remake, missed demonstration/comfort and public night duties",
+     "public_private_self": "Public/private self: warm presentation, real anger, embarrassment and personal aspiration",
+     "school_club_role": "School/club role: Training deputy/voluntary patrol without literal motherhood",
+     "ordinary_life": "Ordinary life: cooking, sewing, apron, handkerchief, tea and walks",
+     "crisis_behavior": "Crisis behavior: situated junior protection and847 aid without ESP or cure",
+     "sensei_relationship": "Sensei relationship: actual assented company/help and specifically refused hug/bed futures",
+     "major_peer_relationships": "Major peer relationships: Kaede admiration and accountability, Tsubaki shared voluntary work",
+     "language_voice": "Language/voice: 大和撫子/先輩 and rejected お母さん, written seams not performance",
+     "competing_readings": "Competing readings: compulsory domesticity and perfect warmth tested against chosen acts/refusals",
+     "evidence_route": "Evidence route: whole Training,2401–2404,230,V005/847/835 plus every positive owner, no sleeve drift or blanket consent."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MIMORI_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F141",
+    "label": "Tsubaki",
+    "display_label": "Tsubaki",
+    "literal_identity_field": "BA_PERSON_TSUBAKI",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F141",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Tsubaki",
+     "raw_identity_or_source_ids": "BA_PERSON_TSUBAKI",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_TRAINING_KAEDE_MIMORI_TSUBAKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B7/MM7/W3; variants 13009|20035",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A110",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Tsubaki",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Tsubaki's substantial independent responsibility is the coexistence of comfortable rest, night pleasure and actual leadership without a timeless sleep-superpower rule. Private sleep under attacks supplies a local evasion episode, not universal immunity. Wanted pillows remain unchosen; an adult's numb legs qualify lap comfort. Her first sleep lesson fails for the adult and is retracted, a separate group of students genuinely sleeps, and a later night walk yields actual adult overnight rest. Different recipients and contexts do not make one universal treatment. Desired streets, sore feet, breathlessness, unfinished tour/shared-sleep offers and next-day work all preserve material limits.",
+     "GROUP2402 gives a real licking grievance after Kaede's claimed success.2404 shows greater alertness at night, reported equipment/cat care, successful immediate protection and a conditional invitation honouring changed wishes. Festival cooperation is not needed to legitimise her sleep;835 actually supplies local guidance, protective acts and a postponed nap during excited planning. Dream-contact claims remain reports, while finding or guiding someone has its own local endpoint. A rival always-incapable reading cannot explain night work. A rival effortless-sleep-saviour reading cannot explain failure, soreness, recipients' costs or unprinted mechanisms. Ordinary rest is a personal good before its institutional usefulness."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: wanted rest and situated night agency without universal sleep power",
+     "longitudinal_arc": "Longitudinal arc: distinct recipient outcomes and located public night/festival sequences",
+     "public_private_self": "Public/private self: sleeping image, alertness, grievance and bodily fatigue",
+     "school_club_role": "School/club role: Training leadership and voluntary patrol, no complete town-maintenance log",
+     "ordinary_life": "Ordinary life: pillows, streets, food, lap rest and chosen sleep",
+     "crisis_behavior": "Crisis behavior: immediate protection and835 guidance with stated scope",
+     "sensei_relationship": "Sensei relationship: failed first method, later real rest and unfinished offers retain reciprocity costs",
+     "major_peer_relationships": "Major peer relationships: Kaede permission/grievance and Mimori work/care directions",
+     "language_voice": "Language/voice: sleep/dream terms, conditional invitation and source-layer limits",
+     "competing_readings": "Competing readings: incapacity and effortless saviour tested against recipient-specific outcomes",
+     "evidence_route": "Evidence route: whole Training,2401–2404,230,V005/835 plus all further positive sources, global physiology/timing and work restoration open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_TSUBAKI_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F144",
+    "label": "Wakamo",
+    "display_label": "Wakamo",
+    "literal_identity_field": "BA_PERSON_WAKAMO",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F144",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Wakamo",
+     "raw_identity_or_source_ids": "BA_PERSON_WAKAMO",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/WAKAMO/BLUE_ARCHIVE_WAKAMO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B9/MM9/W3; variants 10033|10043",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A088",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Wakamo",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Wakamo needs a full monograph because attention, gift-giving and ordinary companionship are substantial wants while her ways of obtaining them have real recipient and public costs. Private clothes/guides, cat affection, meals, shopping, campfire warmth and a quiet parasol walk broaden her beyond a criminal label. A planned outing includes actual polite restraint despite closures and a failed itinerary; a busy refusal is respected once, then the adult's much later invitation arrives. Her own not-now is also ignored. Different date/lifetime meanings, refused all-night proof, withheld history, melted ice and unaccepted reciprocal feeding prevent a total reciprocal-romance narrative.",
+     "Actual injured customers, covert following and proposed bomb/security bypass remain consequential. The summer warehouse threat is secured before destruction; an anger/apology sequence is not clinical rehabilitation.811 supplies a chocolate actually given and held, not eaten, a unilateral declaration, a recipient-conditioned promise, departure and resumed pursuit. Secure Wakamo is distinct from masked/impostor source forms.847 adds her own wish for rule-governed joy, objection to destructive allies, actual assent and acceptance of a local defeat for today. That real compliance complicates an all-violence portrait without forgiving earlier harm or settling custody. The rival dangerous-essence account loses meaningful restraint and taste; the rival devotion-excuses-means account loses refusal, injury and the whole-message bypass proposal. Joining police flight preserves an adult-care/public-law tension, not acquittal."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: longing and local restraint alongside accountable harmful means",
+     "longitudinal_arc": "Longitudinal arc: outing/gift/local promise/847 compliance at shown local order only",
+     "public_private_self": "Public/private self: criminal reputation, ordinary wants, withheld history and unilateral romance interpretation",
+     "school_club_role": "School/club role: outsider/police/event participation with no invented affiliation or legal clearance",
+     "ordinary_life": "Ordinary life: clothes, cats, meals, guides, campfire, parasol and quiet walk",
+     "crisis_behavior": "Crisis behavior: injuries, stopped threats, actual local restraint and finite rule compliance",
+     "sensei_relationship": "Sensei relationship: attention and gift care require both sides' actual refusal/choice boundaries",
+     "major_peer_relationships": "Major peer relationships: police/organiser/troupe directions and shared contest joy without implied blanket consent",
+     "language_voice": "Language/voice: あなた様/恋/date claims, secure actor versus impostor and formal/inward branches",
+     "competing_readings": "Competing readings: fixed dangerous essence and devotion as absolution tested through countercases",
+     "evidence_route": "Evidence route: whole Wakamo,811/847,V005 comparisons plus every relevant positive811/815/other owner, with no custody/restitution/clinical/performed-voice closure."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_WAKAMO_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F044",
+    "label": "Kisaki",
+    "display_label": "Kisaki",
+    "literal_identity_field": "BA_PERSON_CH0139",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F044",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Kisaki",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0139",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B8/MM8/W5; variants 10145|20039",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A189",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Kisaki",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Kisaki's monograph should explain how an unchosen position can become a chosen present responsibility without absorbing the young person's life or absolving the office's coercion. Private rooftop views, requested affection, an actual amusement-park outing with five coaster rides and failed arcade, ordinary-name Kiki performance, incense and playful bodily comfort matter independently of state utility. Staged office-image confinement and health self-reports cannot be clinical facts. A proposed trip or two-person float is not fulfilled, and dangerous throwing is refused. Summer student identity and actual children/snacks/medaka, local rescue, sunscreen and wanted handholding retain their distinct endpoints; theoretical swimming fails before local practice helps.",
+     "GROUP340 gives desired solitary movement, freedom from escort and sleep-in wishes, then a volunteered children's commitment and public intervention whose loudness itself frightens recipients and prompts apology.826 gives restrained premature blame alongside surveillance, an effective institutional apology beside ongoing problems, and an adult-presence expectation contradicted by actual fighting.840 gives the unchosen-office admission, imperfect mooncakes, refusal of a proposed personal cure purchased through renewed student harm, acknowledged shortcut expulsion/record erasure and an achieved festival without individual clinical closure.859 makes actual rest partly possible through others' transferred work and returns to failed delegation, cough/late medication and continuing factions. The rival perfect-sovereign reading loses these errors and burdens; the rival corrupt-office-only reading loses genuine refusal, pleasure and apology. No benevolent or corrupt essence can replace a situated account of the choices."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen present care under unchosen office and accountable institutional means",
+     "longitudinal_arc": "Longitudinal arc: actual local policy/apology/rest changes in826/840/859, no variant/release calendar",
+     "public_private_self": "Public/private self: office speech using 門主, Kiki student performance, desire and bodily limits",
+     "school_club_role": "School/club role: Genryumon decisions and constraints distinguished from legal doctrine or audited reform",
+     "ordinary_life": "Ordinary life: exercise, sleep, incense, rooftop, amusement park, food, water and requested affection",
+     "crisis_behavior": "Crisis behavior: refused coercive cure, protective intervention and fallible medication/delegation",
+     "sensei_relationship": "Sensei relationship: chosen intimacy/company with refused stays and limited availability, no blanket contact consent",
+     "major_peer_relationships": "Major peer relationships: Rumi wanted craft, Mina/Kanae work, Kokona/children and Saya dependence",
+     "language_voice": "Language/voice: 妾/其方/じゃ/門主, aliases and extensive raw/mode seams, no performance",
+     "competing_readings": "Competing readings: flawless ruler and total institutional corruption tested against actual errors/refusals/apology",
+     "evidence_route": "Evidence route: whole Shanhaijing,340,826/840/859 and relevantFinal/839/other owners still mandatory before adoption, illness and global chronology open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KISAKI_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F041",
+    "label": "Rumi",
+    "display_label": "Rumi",
+    "literal_identity_field": "BA_PERSON_CH0135",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F041",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Rumi",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0135",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B4/MM4/W2; variants 10069",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A147",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Rumi",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Rumi's distinct character responsibility is culinary pleasure as her own wished-for life, with hospitality that must learn actual recipients and survive leadership's compromises. Private failed prototypes and achieved delicious meals both matter. Repeated tasting despite fullness, an unsuccessful exit and month-long seasoning uncertainty stop a flawless-hospitality account. Defending a chef includes intimidating wall damage rather than a displayed blow to a person; police settlement remains prospective. Actual shared whole-fish dumpling delight is not a future menu guess. She wants cooking apart from being chair, not merely higher profit or more institutional rank.",
+     "GROUP260 supplies real generous food/peaches and a title correction beside the misleading secrecy scare that contributes to Kokona's fabricated rumor.340 gives affectionate withheld correction that helps a false purpose circulate, then actual de-escalation.826 makes customers' taste her strongest pleasure while continued feeding later gains explicit permission to leave food, and portrays forceful access, useful inquiry, an undisclosed child trap, a real banquet and promised rather than paid expenses.840 remembers burned mooncake craft as an affectionate foundation of vocation, while business harm and pushing Reijo remain.859 gives actual iced lemon tea welcomed against painful hot hospitality, a wanted break from cooking, received piggyback and chosen nature/rest work with investment still unfulfilled. The rival profit-only reading cannot explain taste, care and personally wanted craft; the rival generous-chef-as-perfect-host reading cannot answer recipient pressure, secrecy means or unequal recognition."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: wanted culinary craft and recipient-sensitive hospitality under chair burdens",
+     "longitudinal_arc": "Longitudinal arc: private failure/success and local826 banquet/859 rest changes, no fabricated history",
+     "public_private_self": "Public/private self: warm chair, skilled cook, guarded secret and tired personal wants",
+     "school_club_role": "School/club role: Genbu leadership/material constraints and investment versus audited money/legal closure",
+     "ordinary_life": "Ordinary life: actual tastes, failed mooncakes, food discovery, tea, clothes and wanted kitchen respite",
+     "crisis_behavior": "Crisis behavior: hypothesis/shelter/cooperation with forceful access and child-trap costs",
+     "sensei_relationship": "Sensei relationship: desired student attention, private boundaries and actual food response, no ownership of appetite",
+     "major_peer_relationships": "Major peer relationships: Reijo labor/objections, Kisaki affection/refused kinship and Kokona privacy duty",
+     "language_voice": "Language/voice: 会長, レイちゃん objection, culinary/commerce register and actor seams",
+     "competing_readings": "Competing readings: profit-only and perfect generous host tested",
+     "evidence_route": "Evidence route: whole Shanhaijing,260/340,826/840/859 and all remaining positive owners, unpaid expenses and unprinted institutional repair explicit."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RUMI_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F043",
+    "label": "Mina",
+    "display_label": "Mina",
+    "literal_identity_field": "BA_PERSON_CH0138",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F043",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Mina",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0138",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B4/MM4/W2; variants 10070",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A421",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Mina",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Mina warrants an independent monograph about the pleasure of a chosen cool/noir repertoire, actual service and the danger of mistaking that repertoire or office confidence for evidence. Private late entrances, address negotiation, rainy umbrella dance/run, recorder surrender and wished-for ordinary conversation supply a distinct person. Film colleagues' deaths are film, not her bereavement. Children object to チビ, and denial does not erase the insult. Black clothes/shoes are not accepted gifts; recipient cute preferences and later back-care kindness remain. The adult's ensuing cold is a whole-message tail, not erased by joyful rain.",
+     "826 tests inquiry rather than making fiction only harmless taste. Her physical-evidence absence, premature guilt and defeated entrance coexist with courage and effective joint capture; minimising a mistake and deferred apology differ from Kisaki's actual official apology.840 makes remonstrance that Kisaki stay back accepted, and Mina's devotion still carries pressure and threatened force that the office must constrain.859 gives regret at missing a swimsuit, watching duty, a hardboiled reveal and actual shared fireworks; even fun has work attached. The rival comic-incompetence reading loses real contributions and taste. The rival loyal-officer reading as exoneration cannot explain premature certainty or recipient address boundaries. Her genre should be analysed as personally enjoyed language and a situated appraisal frame, not a model that predicts every error."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: cinematic self-fashioning and care versus evidentiary overconfidence",
+     "longitudinal_arc": "Longitudinal arc:826 defeat/capture/deferred apology and later local duty/pleasure, no release-order state",
+     "public_private_self": "Public/private self: entrance pose, embarrassment, gift mismatch and wanted talk",
+     "school_club_role": "School/club role: actual Genryumon service and challenged unequal executive voice",
+     "ordinary_life": "Ordinary life: films, rain, clothes, exercise, conversation and fireworks",
+     "crisis_behavior": "Crisis behavior: effective joint work with premature blame and threatened disclosure",
+     "sensei_relationship": "Sensei relationship: preferred Teacher address and care with actual recipient cold/pressure",
+     "major_peer_relationships": "Major peer relationships: Kisaki devotion/remonstrance, Reijo challenge and children named boundaries",
+     "language_voice": "Language/voice: 近衛ミナ/noir quotation and source-specific alias/seam qualifications",
+     "competing_readings": "Competing readings: comic incapacity and morally complete loyalty tested",
+     "evidence_route": "Evidence route: whole Shanhaijing,340,826/840/859 plus relevant839/Final/all positive owners mandatory, no crime efficacy or harm-repair certification."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MINA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F128",
+    "label": "Reijo",
+    "display_label": "Reijo",
+    "literal_identity_field": "BA_PERSON_REIZYO",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F128",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Reijo",
+     "raw_identity_or_source_ids": "BA_PERSON_REIZYO",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B4/MM4/W2; variants 10104",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A353",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Reijo",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Reijo's independent argument is the coexistence of martial-fiction pleasure, practical commercial work, public strength and a personally wanted protected moment. REIZYO remains literal; neither an earlier unnamed Shanhaijing chief nor short レイ employee can be installed as her by expectation. Private grade embarrassment stays evasive, logistical plans are not delivery records, and a hygiene encounter shifts from initial cooperation into auditor/threat/apology without institutional reform. Her request to be protected once gains a local adult intervention, not a sweeping safety outcome. Tickling refusal has no printed adult response. Kaguya remains a distinct source-local person and relationship question.",
+     "GROUP340 shows desired craft companionship, refusal of research-club membership to keep Genbu commitments and actual acceptance of cooperation. Her confident kung-fu interpretation of Kisaki's exercise is projected rather than confirmed.826 adds reasoning that challenges premature guilt, effective work and objections to insufficient apology, while unusual prototypes provoke inward dread despite others' enjoyment.840 supplies shelter as real care with strategic debt, labor and commercial loss.859 keeps recipient-sensitive material explanations, alternative menu limits, wanting rest and fireworks company beside continuing recognition and faction burdens. The rival brute-only reading loses practical reasoning, restraint and vulnerable wishes; the rival flawless rational critic cannot answer projected exercise meaning, touch pressure or ordinary evasions. Strength has its own positive craft value without automatically authorizing others' lives."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen strength/craft and practical commitment with vulnerable personal wants",
+     "longitudinal_arc": "Longitudinal arc: local cooperation/refused membership and distinct inquiry/holiday stages",
+     "public_private_self": "Public/private self: confident style, grades evasion, imagined craft peer and protection wish",
+     "school_club_role": "School/club role: Genbu duty versus accepted research cooperation, no assumed office/person merger",
+     "ordinary_life": "Ordinary life: martial films, exercise, tastes, tea/fireworks and wanted relief",
+     "crisis_behavior": "Crisis behavior: actual reasoning/help/shelter with strategic and labor costs",
+     "sensei_relationship": "Sensei relationship: requested once-only protection and privacy/touch boundaries",
+     "major_peer_relationships": "Major peer relationships: Rumi work/affection, Mina disagreement and Kaguya rivalry/refusal duties",
+     "language_voice": "Language/voice: 鹿山レイジョ/REIZYO, nicknames and actor-layer limits",
+     "competing_readings": "Competing readings: brute force and flawless critic tested against vulnerable/counter cases",
+     "evidence_route": "Evidence route: whole Shanhaijing,340,826/840/859 plus every positive owner, with Kaguya joining, force, payment and logistics debt retained."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_REIJO_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F042",
+    "label": "Kokona",
+    "display_label": "Kokona",
+    "literal_identity_field": "BA_PERSON_CH0137",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F042",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Kokona",
+     "raw_identity_or_source_ids": "BA_PERSON_CH0137",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B4/MM4/W1; variants 10050",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A146",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Kokona",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Kokona's monograph should explain professional dignity, personally wanted play and family company without fixing a single infantilised or adult-equivalent identity. Private coffee/respect questions yield distress and no fulfilled ice purchase, while actual vegetable/meal enjoyment coexists with unwanted diminutive address, arm-grab limits, release and a written no-poking condition. Work is real; difficult grading and care are not simply evidence of maturity to prove through productivity. Her respect preference has actual context-dependent exceptions, which make it more precise rather than less legitimate.",
+     "GROUP260 gives a completed supply delivery, role correction, fabricated confidentiality story and breached Shun privacy; real helpful intent does not make information reliable.340 lets her volunteer children's exercise, express fear and insist on 教官 after an ambiguous comfort carrier.826 gives fatigue, pressure from excessive questions, unconsulted trap use and unequal childcare beside thanks.840 retains explicit no-head-patting despite delighted instructor address.859 enacts refusal of undercover danger with guardian support, then a protective deception that still leaves her wanting consultation. A promised two-person outing later gains an expressly permitted Shun exception and actual shared walk/swinging. Real pleasure does not erase continued teasing after stop requests. The rival incapable-child reading loses actual work and choices; the rival dignity-as-no-play reading loses taste, desired sister company and legitimate contextual changes."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: dignity and play require listening to changing recipient terms",
+     "longitudinal_arc": "Longitudinal arc: local deliveries/rumor consequence and859 refusal→deferred outing→permitted shared walk",
+     "public_private_self": "Public/private self: instructor performance, fatigue, fear and personally wanted family time",
+     "school_club_role": "School/club role: Meihua grading/provision/care with unequal burdens and actual errors",
+     "ordinary_life": "Ordinary life: food, coffee/ice wishes, rest, play and sister company",
+     "crisis_behavior": "Crisis behavior: rejected infiltration, deceived trust and limited chosen participation",
+     "sensei_relationship": "Sensei relationship: address/touch/consultation limits alongside real meals and desired outing",
+     "major_peer_relationships": "Major peer relationships: Shun work/family, Rumi misleading instruction and children care/rumor",
+     "language_voice": "Language/voice: 教官/ちゃん/レディー/お姉ちゃん by actual recipient situation, no all-context rule",
+     "competing_readings": "Competing readings: incapacity and dignity precluding play tested",
+     "evidence_route": "Evidence route: whole Shanhaijing,260/340,826/840/859 plus every positive owner, child-body and generic roles unmerged."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KOKONA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F137",
+    "label": "Shun",
+    "display_label": "Shun",
+    "literal_identity_field": "BA_PERSON_SHUN",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F137",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "Shun",
+     "raw_identity_or_source_ids": "BA_PERSON_SHUN",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B15/MM15/W6; variants 10011|10025|10143",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [
+     {
+      "candidate_unit_id": "P3-A145",
+      "population": "DATED_ASSESSED_ANALYTICAL_ROUTE",
+      "subject_or_responsibility": "Shun",
+      "raw_identity_or_source_ids": "",
+      "evidence_paths": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CONTEXTUAL_CHARACTER_COVERAGE_INDEX.md",
+      "source_boundary": "Dated Cycle007 model-route census; current Cycle008 source owners supersede intake words",
+      "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+      "argument_or_limit": "Named people, compound/uncertain identities, local roles, voices and nonhuman actors remain heterogeneous. Model readiness is not literary package eligibility.",
+      "package_target": "",
+      "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+     }
+    ],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Shun needs an independent account of chosen educational care, student vulnerability and ordinary wants beyond being a sibling or ideal teacher. Her private clothes/taste/lullaby care, quiet company and asked-for comfort contain actual positive endpoints and refusal pressure. Future adult praise is not childhood recollection;10025's small-body play totals five slides rather than a promise of five more, and a half-day carry is past report. Tent location shifts outside Meihua, not to the adult's home.10143 supports the adult's head while floating, not both people identically, and two shutter acts do not expose photo pixels. Staff handover is not a cure for children's attachment.",
+     "GROUP260 preserves hoped-for quiet tea and beauty privacy, a rumor source stopped but a reputation not immediately repaired.826 adds real supervision and a shifted burden Kokona protests.840 gives actual outing/crepe company and a small-body representation; it does not install a person registry merge.859 makes the mature instructor expressly identify as a fallible student, fear transmitting mistakes and still choose guidance. Actual night walk, a private wish to see children grow with Teacher and kept further meaning do not create marriage or a family agreement. Enacted painful corporal discipline yields crying/apologies followed by escape and revenge, so benevolent intention cannot certify successful education. The rival maternal-function-only reading loses desire and fear; the rival ideal-instructor reading loses coercive care and failure. Separate Shuerin responsibility remains ROOT's, with exact overlaps recorded rather than absorbed here."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: chosen care by a student/instructor includes private pleasure and educational fear",
+     "longitudinal_arc": "Longitudinal arc: local rumor repair limits and859 guidance/discipline/failed-reform contrast, no small-body variant chronology",
+     "public_private_self": "Public/private self: instructor dignity, skincare secrecy, desired comfort and vulnerability",
+     "school_club_role": "School/club role: Meihua care, supervision and shared work without clinical/disciplinary success theorem",
+     "ordinary_life": "Ordinary life: clothes, tea, tastes, lullabies, slides, floating and walks",
+     "crisis_behavior": "Crisis behavior: actual guardian refusal/protection and painful punishment with contrary aftermath",
+     "sensei_relationship": "Sensei relationship: care, secrecy and hoped-for future together, with refusal/contact conditions",
+     "major_peer_relationships": "Major peer relationships: Kokona sister/work asymmetry, pupils actual reactions and Rumi customer privacy",
+     "language_voice": "Language/voice: 姉さん/instructor/student forms and Shuerin labels, no performed voice",
+     "competing_readings": "Competing readings: maternal-only and ideal-educator portraits tested",
+     "evidence_route": "Evidence route: whole Shanhaijing,260,826/840/859 plus all actual positive owners, ROOT separate Shuerin overlap and medical/media/developmental limits mandatory."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SHUN_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   },
+   {
+    "candidate_unit_id": "P3-F023",
+    "label": "薬子サヤ",
+    "display_label": "Saya (薬子サヤ)",
+    "literal_identity_field": "BA_PERSON_SAYA",
+    "exact_F_row": {
+     "candidate_unit_id": "P3-F023",
+     "population": "TYPED_PRIVATE_WRITTEN_RESPONSIBILITY",
+     "subject_or_responsibility": "薬子サヤ",
+     "raw_identity_or_source_ids": "BA_PERSON_SAYA",
+     "evidence_paths": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_SHANHAIJING6_AND_SAYA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md|series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE2_CURRENT_PRIVATE_FAMILY_COVERAGE.csv",
+     "source_boundary": "B11/MM11/W3; variants 20002|20006",
+     "eligibility_review_state": "PENDING_SEMANTIC_ELIGIBILITY_REVIEW",
+     "argument_or_limit": "Complete selected pools admitted with limits; counts do not prove an independent monograph. Preserve literal raw-key and chronology distinctions.",
+     "package_target": "",
+     "no_exclusion_basis": "No stakes, popularity, MAIN frequency, or model-grade exclusion"
+    },
+    "dated_exact_label_retrieval_overlaps": [],
+    "overlap_limit": "Exact F literal raw key. A label coincidence is retrieval only; late Saya Japanese/English label discrepancy remains pending, never inferred join.",
+    "recommended_decision": "ELIGIBLE_INDEPENDENT_CHARACTER_PACKAGE",
+    "acceptance": "ROOT_PENDING",
+    "independent_thesis_and_contrary_cases": [
+     "**Thesis.** Saya's monograph is independently justified by valued indefinite inquiry and the ways curiosity, expertise and ordinary warmth meet recipients who cannot be reduced to cases. Her private gold/immortality project remains unproved; an enduring gold tail, mistaken gray fur and restraint do not give Nezusuke's motive access. Actual cake/tea/board-game/company, perfume visitor care, shared blue-cheese cake and quiet production stop intent have positive extent. Ramens/apology and self-serving no-weight criteria are not medical safety. Dream reporting does not erase actual biting, deceptive dosing or family/Nezusuke concerns. Mustard accident popularity does not establish predicted competence; the Japanese nearly-week burn is not the Korean three-day account.",
+     "826 makes her initial political refusal, actually accepted delicious food, acknowledgment of other students' limits, impossible-goal reasoning and independent intervention substantial. She may be technically competent without universal good methods.840 compares her freely supplied requested antidotes with Kai's coercive dependency, while explicitly retaining Saya trouble; expertise and other's need require actual attention.859 provides the real call/reprimand after Kisaki's medication lapse, not later adherence or a completed consultation. A rival harmless-eccentric portrait loses harmful means and recipients. A rival morally identical-to-Kai account loses the explicitly contrasted accessibility of antidotes and meaningful refusal/care. English Saya's dated A overlap remains a ROOT identity retrieval decision, not an absent person or discarded late family."
+    ],
+    "eleven_dimension_feasibility": {
+     "core_thesis": "Core thesis: impossible inquiry and warmth remain accountable to actual recipients",
+     "longitudinal_arc": "Longitudinal arc: recipient-specific private failures/care and826/840/859 actual contrasts, no variant calendar",
+     "public_private_self": "Public/private self: esteem-seeking research pose, secrecy, remorse and ordinary hospitality",
+     "school_club_role": "School/club role: Alchemy expertise and access versus unverified efficacy/safety",
+     "ordinary_life": "Ordinary life: cakes, tea, games, ramen, perfume and wanted company",
+     "crisis_behavior": "Crisis behavior: independent826 aid and840 method contrast without global absolution",
+     "sensei_relationship": "Sensei relationship: affection/care and harmed or pressured recipient outcomes kept distinct",
+     "major_peer_relationships": "Major peer relationships: Nezusuke agency limits, Kisaki dependence, Kai disagreement and Genbu food invitation",
+     "language_voice": "Language/voice: 薬子サヤ/raw SAYA, soliloquy/non-disclosure and locale distinctions, no acoustic performance",
+     "competing_readings": "Competing readings: harmless eccentricity and equivalence to Kai tested against methods/access",
+     "evidence_route": "Evidence route: whole Shanhaijing,826/840/859 and relevantFinal/839/other actual owners mandatory, English-A overlap and clinical/technical gaps open."
+    },
+    "eventual_home": "04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SAYA_CHARACTER_MONOGRAPH.md",
+    "remaining_required": "All relevant complete positive owners before mature monograph adoption, including explicit801/839/other-event and MAIN/Final/MINI debts; claim-specific channels/joins remain.",
+    "no_exclusion_basis": "No stakes, quiet/comedy, popularity, crisis, MAIN-frequency, count or model-grade exclusion."
+   }
+  ],
+  "N_frozen": false,
+  "quarter_credit": false
+ }
+}

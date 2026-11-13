@@ -1,0 +1,3727 @@
+{
+  "schema": "KEI_CURRENT12_PUBLIC_PROVENANCE_AND_PRIVATE_WITNESS_NAVIGATION_V1",
+  "composer": "/root/next_cast_source_preparation",
+  "original_actual_semantic_witness": {
+    "id": "KEI_CURRENT_V4_ACTUAL_SIGNED_ROOT_SEMANTIC_ADOPTION_WITH_LIMITS",
+    "original_private_tuple": {
+      "bytes": 42220,
+      "sha256": "7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44",
+      "git_blob_oid_of_actual_bytes": "c2122804a4126d7e75c6d09a1913a20b5de2ad66"
+    },
+    "current_public_ROOT": {
+      "role": "actual_future_ROOT_semantic_derivative",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 41458,
+      "sha256": "6261dc72080fb7ee906f2ab4524bfb53566187a1a7f2329bb9beb7252cfac33e",
+      "git_blob_oid_of_actual_bytes": "fd1ad9ee2a7ef3daea40baa539a0fce946dcc2f7"
+    },
+    "signature_kind": "NONCRYPTOGRAPHIC_WORKFLOW_WITNESS_NOT_NEW_ROOT_DECISION"
+  },
+  "component_review_reporting_witness": {
+    "id": "KEI_CURRENT_V4_COMPLETE_COMPONENT_QA_908418_20261014_V1",
+    "original_reviewer": "/root/m008_composition_review",
+    "original_analytical_author": "/root/next_cast_source_preparation",
+    "new_reporter": "/root/next_cast_source_preparation",
+    "original_QA_tuple": {
+      "bytes": 908418,
+      "sha256": "90ef123e768f89425f672e3a822491ec5c86004da3d29a88f0927f4ab74eb5f6",
+      "git_blob_oid_of_actual_bytes": "9e6aff7055b2006d5967abed145c79f5e3b9388e"
+    },
+    "current_public_INPUT": {
+      "role": "truthful_INPUT",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "bytes": 937935,
+      "sha256": "41af06a90b1a6381e3d86b7a5e2641c8818aacd97a182118478c70a4f758e699",
+      "git_blob_oid_of_actual_bytes": "82795b0a490d6e3f2004250edb17953bbcb43a74"
+    },
+    "scope": "New reporting/header label for actual original908418 review; immutable original had no such self-ID and the reporter gains no independence or source credit."
+  },
+  "first10_actual_current_components": [
+    {
+      "role": "bounded_character_body_with_inside_named_gift",
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KEI_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "relative_C_candidate_path": "candidate/series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_KEI_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 61002,
+      "sha256": "f3a900134a02161b82facfd95e7499ab76a32e9620269cc79dd3edd53968beb7",
+      "git_blob_oid_of_actual_bytes": "cbdb14997a381a543e11b2b8d06610e4d8ce283e"
+    },
+    {
+      "role": "purposes000_035",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP000_KEP035_V2.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP000_KEP035_V2.json",
+      "bytes": 454037,
+      "sha256": "c365301054bea2f4088c02d93a282e33cfb55a12b088d6a7e7a65e757d15455c",
+      "git_blob_oid_of_actual_bytes": "2d28ec002485b272f508dd338b0c5358620e0b92"
+    },
+    {
+      "role": "purposes036_070",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP036_KEP070_V2.json",
+      "bytes": 587884,
+      "sha256": "dfc905e032f385841bacde552d4a7e8c9577480078fb016a9b846cdf3716dc00",
+      "git_blob_oid_of_actual_bytes": "e437652c3e5bd8118073dc783f82c9d6cef05f7a"
+    },
+    {
+      "role": "purposes071_104",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT105_NEW_PURPOSE_JUDGMENTS_KEP071_KEP104_V4.json",
+      "bytes": 745763,
+      "sha256": "0e174d86dc9ef10b0a94536384e17fdc7a2e8950a118b919d1d0b394bf9612e7",
+      "git_blob_oid_of_actual_bytes": "fd46331d54bba68b31cb2b88f3221d0b993a0311"
+    },
+    {
+      "role": "source1_existing_spine_and_exact6",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_PRIVATE19_AND_EVENT80001_E141_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_PRIVATE19_AND_EVENT80001_E141_SOURCE1_CORE_AND_EXACT6_AUTHOR_SCOPE_RECEIVING_V1.json",
+      "bytes": 63757,
+      "sha256": "d5d09852b0aed69c5cd0f74b9e659deeaf814cf526843e1d66247f919d11a9b7",
+      "git_blob_oid_of_actual_bytes": "a7f7f4b23f175db945abf93a47273ba13f582ed6"
+    },
+    {
+      "role": "literal73_register",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT178_COMPLETE_LITERAL73_CLAIM_AND_SOURCE_LIMIT_REGISTER_V3.json",
+      "bytes": 694339,
+      "sha256": "fe1299f3ff04d9126541a824f4a4fd328d44d03f70248622a4d3b33ae2ab1296",
+      "git_blob_oid_of_actual_bytes": "0cbbb1d73684e16bb02640e897da6305fc0d6886"
+    },
+    {
+      "role": "all105_source_index",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V4.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ALL105_CURRENT_PURPOSE_AND_EXACT_SOURCE_BINDING_INDEX_V4.json",
+      "bytes": 537305,
+      "sha256": "dd538be0fe64c2ddfd04b0a1815aa1abd0a6a97b79c07121c480ef5a499a3c29",
+      "git_blob_oid_of_actual_bytes": "2cec273e37bb820fe3962bf65e563ec82c70c8ae"
+    },
+    {
+      "role": "transport",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V4.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_EXACT8_SAVED_OUTPUT_ORIGINAL_INPUT_PRESERVATION_AND_TRANSPORT_RECEIPT_V4.json",
+      "bytes": 681238,
+      "sha256": "e81d7135664e3692be66740e3291c99390841cb6692c62f9d6d40aa242e474dd",
+      "git_blob_oid_of_actual_bytes": "2d70ead3a40337412d7c1e25f28ed8979e489caa"
+    },
+    {
+      "role": "truthful_INPUT",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_CURRENT_SOURCE6_NEW105_COMPLETE_INPUT_DECLARATIONS_AND_PRIOR_REVIEW_BASIS_V1.json",
+      "bytes": 937935,
+      "sha256": "41af06a90b1a6381e3d86b7a5e2641c8818aacd97a182118478c70a4f758e699",
+      "git_blob_oid_of_actual_bytes": "82795b0a490d6e3f2004250edb17953bbcb43a74"
+    },
+    {
+      "role": "actual_future_ROOT_semantic_derivative",
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "relative_C_candidate_path": "candidate/series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_KEI_CHARACTER_RECEIVING_20261014_V1/KEI_ACTUAL_ROOT_CURRENT_V4_COMPLETE_SEMANTIC_ADOPTION_WITH_LIMITS_V1.json",
+      "bytes": 41458,
+      "sha256": "6261dc72080fb7ee906f2ab4524bfb53566187a1a7f2329bb9beb7252cfac33e",
+      "git_blob_oid_of_actual_bytes": "fd1ad9ee2a7ef3daea40baa539a0fce946dcc2f7"
+    }
+  ],
+  "declared_maintained_source6_counterparts": [
+    {
+      "kind": "EXISTING_DIRECTLY_DECLARED_MAINTAINED_SOURCE_COUNTERPART",
+      "source_id": "KEI-S01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+      "unchanged_original_C_tuple": {
+        "bytes": 46263,
+        "sha256": "d439da5a74130e30135b017c4416e588da73178047d62e1d408083866d65ade8",
+        "git_blob_oid_of_actual_bytes": "f7024908cca8716f4c26903d8ef0111148dea55e"
+      },
+      "actual_tree_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "f7024908cca8716f4c26903d8ef0111148dea55e",
+        "bytes": 46263,
+        "repository_path": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md"
+      },
+      "fixed_commit": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "new_source_credit": 0
+    },
+    {
+      "kind": "EXISTING_DIRECTLY_DECLARED_MAINTAINED_SOURCE_COUNTERPART",
+      "source_id": "KEI-S02",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md",
+      "unchanged_original_C_tuple": {
+        "bytes": 9535,
+        "sha256": "85d6d727f15512e90c6ee57b1be0999eefc73485c232dd2ba33b74f02411b841",
+        "git_blob_oid_of_actual_bytes": "af14350c75c5bef9cbc7cebcf4a58d4edb281e47"
+      },
+      "actual_tree_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "af14350c75c5bef9cbc7cebcf4a58d4edb281e47",
+        "bytes": 9535,
+        "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_80001/BLUE_ARCHIVE_EVENT_80001_E141_DEEP_READING.md"
+      },
+      "fixed_commit": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "new_source_credit": 0
+    },
+    {
+      "kind": "EXISTING_DIRECTLY_DECLARED_MAINTAINED_SOURCE_COUNTERPART",
+      "source_id": "KEI-S03",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md",
+      "unchanged_original_C_tuple": {
+        "bytes": 23039,
+        "sha256": "c0b33674a671046d4de4bea373c1c366bdd1b5ddc422e52e9cc93a6289aebd08",
+        "git_blob_oid_of_actual_bytes": "4328e26cd55fbdb65935615c27e85154f7c6867a"
+      },
+      "actual_tree_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "4328e26cd55fbdb65935615c27e85154f7c6867a",
+        "bytes": 23039,
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C001_CHECKPOINT.md"
+      },
+      "fixed_commit": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "new_source_credit": 0
+    },
+    {
+      "kind": "EXISTING_DIRECTLY_DECLARED_MAINTAINED_SOURCE_COUNTERPART",
+      "source_id": "KEI-S04",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md",
+      "unchanged_original_C_tuple": {
+        "bytes": 22309,
+        "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+        "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+      },
+      "actual_tree_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "edc03f8b5d5c71d7c4914187845a20b6e0941376",
+        "bytes": 22309,
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_002_時計じかけの花のパヴァーヌ/BLUE_ARCHIVE_MAIN_V002_C002_CHECKPOINT.md"
+      },
+      "fixed_commit": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "new_source_credit": 0
+    },
+    {
+      "kind": "EXISTING_DIRECTLY_DECLARED_MAINTAINED_SOURCE_COUNTERPART",
+      "source_id": "KEI-S05",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md",
+      "unchanged_original_C_tuple": {
+        "bytes": 18013,
+        "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+        "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+      },
+      "actual_tree_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "269d6deb765ba5a65a3f831f3248741a24621fa3",
+        "bytes": 18013,
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C001_CHECKPOINT.md"
+      },
+      "fixed_commit": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "new_source_credit": 0
+    },
+    {
+      "kind": "EXISTING_DIRECTLY_DECLARED_MAINTAINED_SOURCE_COUNTERPART",
+      "source_id": "KEI-S06",
+      "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md",
+      "unchanged_original_C_tuple": {
+        "bytes": 12691,
+        "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+        "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+      },
+      "actual_tree_metadata": {
+        "mode": "100644",
+        "type": "blob",
+        "git_blob_oid": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1",
+        "bytes": 12691,
+        "repository_path": "series/blue-archive/02 Sequential Readings/MAIN/VOLUME_100_最終編/BLUE_ARCHIVE_MAIN_V100_C004_CHECKPOINT.md"
+      },
+      "fixed_commit": "6bfad1ff18a58dd6e98c0b5415a6d39dabbb054d",
+      "new_source_credit": 0
+    }
+  ],
+  "private_original_parent_witness_declarations": [
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-18CF5AF61752421D39325466",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_000": {
+          "bytes": 16374,
+          "sha256": "15bbd0c2ec1964d22b1e5feaae4f6432ef382360a194e51a8b31a3c620f461f6",
+          "git_blob_oid_of_actual_bytes": "fb5126b2af796bfcfbbfcb50fe6f2e1c9b69eef9"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5039C71F9ABBE83FCBB9A6E4",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_001": {
+          "bytes": 11216,
+          "sha256": "8f43735aab6f7cf1451c38818aa52130fd9f12ce9afce8d59d60da87d0eee987",
+          "git_blob_oid_of_actual_bytes": "dece0f24dd976f4b612f1ed183c157a7cfbe9073"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-42E4D74B828C2D75BC201A07",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_002": {
+          "bytes": 16900,
+          "sha256": "6fbb219df07bd41677455f476f3ce6643ff09797f1474f472f41b35e1614f2e3",
+          "git_blob_oid_of_actual_bytes": "1ce519b3294cf88365e7afc7505a3801129b0e6a"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-8F329AAF17F186011C2B7306",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_003": {
+          "bytes": 16074,
+          "sha256": "1be36c9d4d5a2aebc4a185c10b607e7d16e47f4b7d02c785f75b2a09eb3b7db5",
+          "git_blob_oid_of_actual_bytes": "6c43805bd1837d8c7b42a8934e96a3cae100acc4"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-6B9ACCD6BF664CC111084951",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_004": {
+          "bytes": 16541,
+          "sha256": "e4e0b7fba37c5d8585da3a3188688857c738c4f7a372dc24cdac176e7912dd35",
+          "git_blob_oid_of_actual_bytes": "1c535b38852343da0b31d1dda667b0eae898b151"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-071D26E2A66D3AAD8CDB294F",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_005": {
+          "bytes": 16339,
+          "sha256": "24fdc60257de255efb2363ede49b2257c4ee50f59033e02586f5d780a3c99684",
+          "git_blob_oid_of_actual_bytes": "aab766d9d21b3282c2fc2fb8f7a63555edb465b8"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-9DB02C27846C408C4256DB6E",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_006": {
+          "bytes": 16857,
+          "sha256": "d0756d45e78e8174d08328f2bab003022fe5c0e35e8b07c62fd6716b9ab6df8f",
+          "git_blob_oid_of_actual_bytes": "76dfb17783b16bd6dc1e92b6433cb2df268b09de"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-0582220672BA211952A3D695",
+      "roles_and_pointers": [
+        {
+          "container_id": "purposes000_035",
+          "pointer": "/seed_pins/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes036_070",
+          "pointer": "/seed_pins/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "purposes071_104",
+          "pointer": "/seed_pins/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/seed525_values_custody/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_007": {
+          "bytes": 6123,
+          "sha256": "2212f7876e9afff5ce49b942627d6bc0058eeca3802b8c60eb31d72a99fe1c22",
+          "git_blob_oid_of_actual_bytes": "318641e4f9dd1506cdeb657302c2244003439edf"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-89BCF565816DCBCA0912CD97",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/six_complete_original_source_binding_records_NOT_rewritten/3/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/pin/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/exact6_current_C_copies_and_actual_extents/3/semantic_extent/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/pin/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_011": {
+          "bytes": 22309,
+          "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+          "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-4ECCD234183E5F83BD2A7BE5",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/six_complete_original_source_binding_records_NOT_rewritten/3/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/prior_scope_record",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/six_complete_original_source_binding_records_NOT_rewritten/5/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/prior_scope_record",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/exact6_current_C_copies_and_actual_extents/3/semantic_extent/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/prior_scope_record",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/exact6_current_C_copies_and_actual_extents/5/semantic_extent/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/prior_scope_record",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_012": {
+          "pin": {
+            "bytes": 22309,
+            "sha256": "290dc36540adf15f471a729d1e6becba635255c3a2dc0a0f9171c47e13851d7a",
+            "git_blob_oid_of_actual_bytes": "edc03f8b5d5c71d7c4914187845a20b6e0941376"
+          }
+        },
+        "RECORDED_METADATA_016": {
+          "pin": {
+            "bytes": 12691,
+            "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+            "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-0F0D7E0B84BF583257F0C07B",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/six_complete_original_source_binding_records_NOT_rewritten/4/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/pin/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/exact6_current_C_copies_and_actual_extents/4/semantic_extent/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/pin/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_013": {
+          "bytes": 18013,
+          "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+          "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-E7A979B28ABC45EB64732678",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/six_complete_original_source_binding_records_NOT_rewritten/4/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/scope_record",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/exact6_current_C_copies_and_actual_extents/4/semantic_extent/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/scope_record",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_014": {
+          "pin": {
+            "bytes": 18013,
+            "sha256": "68c68589c96361f94053cd4485daf68c1cdb70d31d622607aded26492aa7da0e",
+            "git_blob_oid_of_actual_bytes": "269d6deb765ba5a65a3f831f3248741a24621fa3"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-E0BA5628C45641B5004571A3",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/six_complete_original_source_binding_records_NOT_rewritten/5/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/pin/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/exact6_current_C_copies_and_actual_extents/5/semantic_extent/complete_unchanged_own_prior_receiving_scope_record_NOT_new_reading/pin/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_015": {
+          "bytes": 12691,
+          "sha256": "04e317025793999e7615ac3a4bad7601cb75aefe3e5b9ef949d48e17a3f47eef",
+          "git_blob_oid_of_actual_bytes": "d5fb4ba7e17b370de02541446f82ce4bdedd82e1"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-6DCC600490542E4E9CE7CAB5",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/current_distinct_body_ONLY_QA_and_actual_author_concurrence/QA/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_original_review_role_disclosure/previous_own_body_only_QA/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/body_QA/complete_original_source_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/role_disclosure/previous_own_body_only_QA/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_017": {
+          "bytes": 191730,
+          "sha256": "ff84a88fb5953c91b1d4bc591dd0b7180790ce021f7b30c6b1cc10dabbad47b1",
+          "git_blob_oid_of_actual_bytes": "c4d1d1605c47558369b16cd285493eb9e923dbcb"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-EE44BCC3C9781BCE4BAB1432",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/current_distinct_body_ONLY_QA_and_actual_author_concurrence/author/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/actual_body_only_current_QA_author_concurrence/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_018": {
+          "bytes": 30522,
+          "sha256": "99873417482c1ea985dd8e07926b51ba9fd1b15d97c53901149d01f82da07e7e",
+          "git_blob_oid_of_actual_bytes": "ab70f36c41799531f814352f3cf053bebc79a616"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-1A327E9E34B46F45941A868E",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/current_distinct_body_ONLY_QA_and_actual_author_concurrence/actual_full_meaning_scope/exact_previously_received_whole_V2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_019": {
+          "bytes": 180178,
+          "sha256": "0345ddab48b7abe4f598849bff5634d95d25353ed9390c654a018b0261b9803f",
+          "git_blob_oid_of_actual_bytes": "de9c03c514d6dc910ae6156844bb31d78d7ad24d"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-CF6700FECC4A4213903D7723",
+      "roles_and_pointers": [
+        {
+          "container_id": "source1_existing_spine_and_exact6",
+          "pointer": "/O094_finite_comparison_precision/existing_source_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "transport",
+          "pointer": "/current_added_O094_existing_source_comparison/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_020": {
+          "bytes": 28418,
+          "sha256": "a5ea335dfd318422d128e6f5f8a6e0a5a041a88331bbf3839cb9c18a217edc9c",
+          "git_blob_oid_of_actual_bytes": "e213a371a863d781a16bb0fbcebcf888a83fff83"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-EE857A93F0BB73B59A3D029A",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_021": {
+          "bytes": 59968,
+          "sha256": "f253ba86e94b21fe31f8e742c35d6bedd559daf1d7e68e4f746f18e4a8331154",
+          "git_blob_oid_of_actual_bytes": "57d71c5716b89a1464821b4e07d69ee8d15d2ae0"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-2CCD964C691CA41C0A9EAA22",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/0/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/1/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/2/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/3/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/4/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/5/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/6/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/7/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/8/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/9/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/10/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/11/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/12/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/13/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/14/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/15/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/16/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/17/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/18/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/19/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/20/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/21/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/22/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/23/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/24/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/25/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/26/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/27/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/28/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/29/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/30/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/31/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/32/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/33/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/34/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/35/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_022": {
+          "bytes": 455717,
+          "sha256": "028d2669f0472e5cbd09152904fa8ce00fb88d6080c3dcf0c124247e7e2d793f",
+          "git_blob_oid_of_actual_bytes": "52af235f01e7be2f8fd43b955b14aae9b102989f"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-FFACF1E82867AC82718BAD5D",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/36/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/37/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/38/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/39/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/40/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/41/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/42/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/43/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/44/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/45/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/46/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/47/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/48/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/49/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/50/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/51/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/52/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/53/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/54/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/55/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/56/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/57/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/58/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/59/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/60/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/61/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/62/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/63/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/64/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/65/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/66/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/67/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/68/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/69/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/70/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_023": {
+          "bytes": 589564,
+          "sha256": "c1a66b04139612d1f20bc3c9ab1b48f5c2582ca1b65143750bb2aa4a0303045c",
+          "git_blob_oid_of_actual_bytes": "c4877249f3a51496fbb66b99bc31fb9d828ae246"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-18E9FA2AE2E6E9CFD82250BB",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/71/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/72/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/73/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/74/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/75/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/76/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/77/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/78/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/79/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/80/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/81/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/82/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/83/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/84/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/85/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/86/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/87/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/88/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/89/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/90/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/91/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/92/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/93/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/94/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/95/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/96/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/97/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/98/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/99/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/100/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/101/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/102/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/103/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/all105_complete_current_purpose_own_judgments/104/actual_current_part/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_024": {
+          "bytes": 747443,
+          "sha256": "bbf61a941861a11e2c9489cdff3bc85313bf421609297388d15c29a55e1fbdc6",
+          "git_blob_oid_of_actual_bytes": "049170ed7390612fc12f3429de80566e2696736f"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-1FC545C262877E4DE30232FB",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_025": {
+          "bytes": 69959,
+          "sha256": "ec652ef6d133b81589c621a8b39619528f48034229c42399ac26915ce4750e72",
+          "git_blob_oid_of_actual_bytes": "253cb99dc97086ee29ed288cfbae7a1eb31ab38b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-E1FC57909712BC05F4B82AF4",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_026": {
+          "bytes": 592871,
+          "sha256": "d3e00234885dd06c25d666c27cbe347b08b843009330c779a11924287058bbfe",
+          "git_blob_oid_of_actual_bytes": "2e2eef81c20dd69b5755eada2c1b43b25f36846f"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-01F8DBAFA7C90CCD76619205",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_027": {
+          "bytes": 537305,
+          "sha256": "4691bd380691484c3a4e84ab792e7dee94987a2951440774855a0408d5ed4e8e",
+          "git_blob_oid_of_actual_bytes": "c6f8ded9ecdeb303f0c390b8d5af4afba8dbbe4c"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-9213DAEBADD9E6A4A3B6995C",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/full_oldV1_currentV2_body_inverse_forward_proof/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_028": {
+          "bytes": 164454,
+          "sha256": "4697b0ba94da651a7acea2bec363df6d242ee2c17c322d3546ae60588d038644",
+          "git_blob_oid_of_actual_bytes": "da1246301c0a8d513d713da01b39d3b0dfcdb59e"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-E0414BCD49BEF01FBEC6E52E",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/original_full105_input_capture_pinned/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_029": {
+          "bytes": 20546,
+          "sha256": "933d164f2a40f27646157bbe8a7bfc1f20a3c5a6b65dbd5637968ac674b48ef7",
+          "git_blob_oid_of_actual_bytes": "20babf13c43e0ba58f1083a681206c1b8ae11dd7"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-0F27B39D41A19347F5E9FEDE",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/three_complete_original_M008_carrier_inverse_objects_NOT_KEI_target_evidence/0/exact_unchanged_private_inverse_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_030": {
+          "bytes": 160244,
+          "sha256": "50c91eea7132a7a80ac1a4ca44c5085a4d217a6de257c53a62467e6238a97c53",
+          "git_blob_oid_of_actual_bytes": "c7d7287f96dfe4cd72bc5db7f03c54582633b3c5"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B1B23982F6301C6CD2F42CAA",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/three_complete_original_M008_carrier_inverse_objects_NOT_KEI_target_evidence/0/complete_original_inverse_object_NOT_new_Toki_meaning/beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_031": {
+          "original_tuple": {
+            "bytes": 405832,
+            "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+            "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+        "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-AB46E0E4F81317A4BFC4A903",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/three_complete_original_M008_carrier_inverse_objects_NOT_KEI_target_evidence/1/exact_unchanged_private_inverse_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_032": {
+          "bytes": 166033,
+          "sha256": "fce5e3f467eafd70b56863fc69e9e63930056a625e8f21704a209ea069504d9c",
+          "git_blob_oid_of_actual_bytes": "d37a2d26a4f5050e591c4541e7192f2545a782d6"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5FA1BB600FC1B257D5F74138",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/three_complete_original_M008_carrier_inverse_objects_NOT_KEI_target_evidence/1/complete_original_inverse_object_NOT_new_Toki_meaning/beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_033": {
+          "original_tuple": {
+            "bytes": 549668,
+            "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+            "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+        "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-D353033F857E366E54DBB9AD",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/three_complete_original_M008_carrier_inverse_objects_NOT_KEI_target_evidence/2/exact_unchanged_private_inverse_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_034": {
+          "bytes": 168527,
+          "sha256": "068a93af48ffc97656a2e190d3c776b6ec2e2c2631aeda9eb50f5b0041e578ff",
+          "git_blob_oid_of_actual_bytes": "d81117cb6dd321a451d62c950a0ebbcc73e65dcc"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5E9D1DF49ECEBA2C396E7FDC",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/three_complete_original_M008_carrier_inverse_objects_NOT_KEI_target_evidence/2/complete_original_inverse_object_NOT_new_Toki_meaning/beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_035": {
+          "original_tuple": {
+            "bytes": 707877,
+            "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+            "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+        "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-6E62210E147D4A620F9D09E7",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete3_original_M008_raw_carrier_recovery_from_current_Kei_records/0/historic_original_route",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_036": {
+          "exact_original_tuple": {
+            "bytes": 405832,
+            "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+            "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+          },
+          "own_complete_recovered_raw": {
+            "bytes": 405832,
+            "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+            "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 405832,
+        "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+        "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-6466BE30979EA6C573EBB1E6",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete3_original_M008_raw_carrier_recovery_from_current_Kei_records/0/own_complete_recovered_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_037": {
+          "bytes": 405832,
+          "sha256": "c5554f1ad3d152529beeeab079fcb5a6a9e7ba26a6ef0f8fd2545af4c5c68bc3",
+          "git_blob_oid_of_actual_bytes": "1b227069e0ef843ad100b4c716aacca4ca4b72b6"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-FECD429101D566F91E2A5A8F",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete3_original_M008_raw_carrier_recovery_from_current_Kei_records/1/historic_original_route",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_038": {
+          "exact_original_tuple": {
+            "bytes": 549668,
+            "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+            "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+          },
+          "own_complete_recovered_raw": {
+            "bytes": 549668,
+            "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+            "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 549668,
+        "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+        "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-AA877A8626AD6BEE55E24B42",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete3_original_M008_raw_carrier_recovery_from_current_Kei_records/1/own_complete_recovered_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_039": {
+          "bytes": 549668,
+          "sha256": "2d3d97e0e0a8f5b6d5216bb2c6724c37eb73080df7567d58e74bb8e5da18dec1",
+          "git_blob_oid_of_actual_bytes": "597f6da9880d36cca4d1138e472d43de5bc7cc17"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-18CF20B00E71778BD286E1D0",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete3_original_M008_raw_carrier_recovery_from_current_Kei_records/2/historic_original_route",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_040": {
+          "exact_original_tuple": {
+            "bytes": 707877,
+            "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+            "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+          },
+          "own_complete_recovered_raw": {
+            "bytes": 707877,
+            "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+            "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 707877,
+        "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+        "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-C8E6356F03191092E908EE08",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete3_original_M008_raw_carrier_recovery_from_current_Kei_records/2/own_complete_recovered_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_041": {
+          "bytes": 707877,
+          "sha256": "370075d93bee086430bd29702eca9725fc3a9d09962f19fb2c2c7f01d2ccf9ba",
+          "git_blob_oid_of_actual_bytes": "8d824facccff446e3712ab9a2ece904dff8a042e"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-A2D07073FC3B618ECE1D567B",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/0/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_042": {
+          "original_tuple": {
+            "bytes": 58865,
+            "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+            "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 58865,
+            "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+            "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 58865,
+        "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+        "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-BFA3E616C5045C8544125770",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/1/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_043": {
+          "original_tuple": {
+            "bytes": 53604,
+            "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+            "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 53604,
+            "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+            "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 53604,
+        "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+        "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-56C08387092EFED94E0D09C0",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/2/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_044": {
+          "original_tuple": {
+            "bytes": 55023,
+            "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+            "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 55023,
+            "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+            "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 55023,
+        "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+        "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-723309976F97DEC723C41D89",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/3/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_045": {
+          "original_tuple": {
+            "bytes": 70082,
+            "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+            "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 70082,
+            "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+            "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 70082,
+        "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+        "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-F7A3C8B849FFBCEDAE3EADE9",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/4/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_046": {
+          "original_tuple": {
+            "bytes": 85986,
+            "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+            "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 85986,
+            "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+            "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 85986,
+        "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+        "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-F245FDFE7106AB811F024FC3",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/5/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_047": {
+          "original_tuple": {
+            "bytes": 96346,
+            "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+            "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 96346,
+            "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+            "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 96346,
+        "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+        "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-69C82944BE54633593EB07F6",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/6/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_048": {
+          "original_tuple": {
+            "bytes": 110226,
+            "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+            "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 110226,
+            "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+            "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 110226,
+        "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+        "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-80414F2DED253850D445B46F",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/7/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_049": {
+          "original_tuple": {
+            "bytes": 131988,
+            "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+            "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 131988,
+            "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+            "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 131988,
+        "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+        "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-4F44442A62C46623992D5D01",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/8/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_050": {
+          "original_tuple": {
+            "bytes": 140190,
+            "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+            "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 140190,
+            "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+            "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 140190,
+        "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+        "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-DFAC1B7AC83BD6B988C17A75",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/9/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_051": {
+          "original_tuple": {
+            "bytes": 152450,
+            "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+            "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 152450,
+            "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+            "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 152450,
+        "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+        "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-F2130A93B25ED49E07751B9E",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/complete_original11_envelope_recovery_specification_NOT_new_target/original_envelopes/10/original_beforeimage_relative_path",
+          "parent_role": "EXACT_HISTORICAL_ART_V4_PARENT_NOT_KEI"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_052": {
+          "original_tuple": {
+            "bytes": 83739,
+            "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+            "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+          },
+          "executed_complete_recovered_tuple": {
+            "bytes": 83739,
+            "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+            "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+          }
+        }
+      },
+      "fixed_original_target_tuple": {
+        "bytes": 83739,
+        "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+        "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+      },
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B99D220A970FF47300D16041",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/0/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_053": {
+          "bytes": 58865,
+          "sha256": "2e923d2763c8073d0d61d54acb78ce99d5bbe4edef0eb84efca38cd0783bab5d",
+          "git_blob_oid_of_actual_bytes": "914909a538f54ac969e280fe5f60c55e96dd2906"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-371CD2AA52D7849CA4BD4912",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/1/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_054": {
+          "bytes": 53604,
+          "sha256": "9ffdf06d3991c7677bf1377a4e599dbd61136029c80220cb2b9540bca56d0735",
+          "git_blob_oid_of_actual_bytes": "bd835b21400054707d5113ec6c23e6a0cd26bf18"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-87766E0AFDC31918A000BB40",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/2/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_055": {
+          "bytes": 55023,
+          "sha256": "7421defc4b0f32b5a3f603763d76cd744ba09a9bf40cd7a4e629d2efc2467bba",
+          "git_blob_oid_of_actual_bytes": "ed66acda47094a411487ea10f8ec3b41091f55cc"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-39BD1D24E86FBD598D57AA41",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/3/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_056": {
+          "bytes": 70082,
+          "sha256": "26b6f1b31df148c44134c599510f60cec5e58203bb9f60b2f964e56916cf8e5f",
+          "git_blob_oid_of_actual_bytes": "5cc40b03dd38e6eaf935699be4765b68aa7820c4"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-BBE824CCB2534BB4BCF6DC8F",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/4/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_057": {
+          "bytes": 85986,
+          "sha256": "83870b947a0f25a459b4b0d8fec33a552bc0fe74b92e0ba62572fbe44e1e3d36",
+          "git_blob_oid_of_actual_bytes": "79380b8b1b6dfb4757064663f8f14135b12bbc07"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-D35ED99B966B8C183050060A",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/5/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_058": {
+          "bytes": 96346,
+          "sha256": "ade26f1d99ddfe1835a7a39a718816dd283c385945e0100893058c9835be945a",
+          "git_blob_oid_of_actual_bytes": "fdcc1cb8850106660091c1560b7ea88c9a8d00aa"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-4FA442F3AA0F9758D8F05EB6",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/6/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_059": {
+          "bytes": 110226,
+          "sha256": "342d9319537817e2ebca80032572b88e24c889655d1d1b921df242164fd490c5",
+          "git_blob_oid_of_actual_bytes": "1e7a194861dd50acaa4668e51dd026337db8468b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-02ED062BCD28630447623106",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/7/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_060": {
+          "bytes": 131988,
+          "sha256": "776d61eb17eb70111047e21a6cc38ebd0b58fdf3c93510de16786ca12a95e640",
+          "git_blob_oid_of_actual_bytes": "6bb3ba99a453c0b537273fd3aaa7915edfa8b46b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-EABA7CD68A651145EC6FB40A",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/8/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_061": {
+          "bytes": 140190,
+          "sha256": "322e14ed4c07435f2ec419786f9551c47e55d99fceafff1a5ae81504e1311947",
+          "git_blob_oid_of_actual_bytes": "e43d962d95815f01556bb04b91f580c870235eda"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-791ABF3B0CB92064C3A68150",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/9/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_062": {
+          "bytes": 152450,
+          "sha256": "3408232ce6a8f0624ab792e92c01ca818aab2f5d4f682cc92ecc6e4596686309",
+          "git_blob_oid_of_actual_bytes": "cad8c10fc131ccbaacce780a5101c99c77d8b5ec"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5857B765D6DC5D51CEFDA11A",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/actual_complete11_original_input_raw_recovery_from_current_Kei_records/10/own_full_recovered_original_raw/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_063": {
+          "bytes": 83739,
+          "sha256": "81364d28d5da8a26c88fb390645099415f5b6db8723f9475a3ff6df5d783d387",
+          "git_blob_oid_of_actual_bytes": "5b1be5e3ef3bdc9e5174f0953893704b1968641d"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-574AEFEF4B3B464157B45841",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_original_current_Minato3_raw_envelope_preservation/0/file",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_064": {
+          "original_tuple": {
+            "bytes": 175040,
+            "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+            "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+          },
+          "current_own_exact_copy": {
+            "bytes": 175040,
+            "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+            "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-1F3BB26C19CBE6D230253002",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_original_current_Minato3_raw_envelope_preservation/0/current_own_exact_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_065": {
+          "bytes": 175040,
+          "sha256": "8e7e43b6b7643af9622bbaf69e91a0ded858fd4452ae3ff6773cd3054dbecdae",
+          "git_blob_oid_of_actual_bytes": "4316db408d1c8b1bfae685d5cff359817f59c2ae"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-33BB62F8D1BB785154E2F6ED",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_original_current_Minato3_raw_envelope_preservation/1/file",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_066": {
+          "original_tuple": {
+            "bytes": 311785,
+            "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+            "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+          },
+          "current_own_exact_copy": {
+            "bytes": 311785,
+            "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+            "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-F8664BA1FDE84EEB6D134370",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_original_current_Minato3_raw_envelope_preservation/1/current_own_exact_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_067": {
+          "bytes": 311785,
+          "sha256": "88022612a68c33c452639eaf4a7a9ba5bbfbc5e84bda6deea09c3537140a1002",
+          "git_blob_oid_of_actual_bytes": "74047a97019d8bb1ea6bdfd1c847ba68eaba2034"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B0AE0E0C1959E37C86AB8B02",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_original_current_Minato3_raw_envelope_preservation/2/file",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_068": {
+          "original_tuple": {
+            "bytes": 462753,
+            "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+            "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+          },
+          "current_own_exact_copy": {
+            "bytes": 462753,
+            "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+            "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B72C5DDD1259AE3ED5CF67BE",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_original_current_Minato3_raw_envelope_preservation/2/current_own_exact_copy/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_069": {
+          "bytes": 462753,
+          "sha256": "528ba4307d3621c7565852727099a37cb8b66e325dc336c105695fe24a5cb553",
+          "git_blob_oid_of_actual_bytes": "4971d41202426c72d2c61abb8b1c367a856cd7cb"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B7350AE1987E3FE9789F7A88",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_raw61767six59334oldGSC16_and_full_original_qualifier/0/exact_own_C_copy",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_070": {
+          "tuple": {
+            "bytes": 61767,
+            "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+            "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-3554676969A4623776FD133D",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_raw61767six59334oldGSC16_and_full_original_qualifier/1/exact_own_C_copy",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_071": {
+          "tuple": {
+            "bytes": 59334,
+            "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+            "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5A0B32CCC628BCE08AB427F5",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/exact_raw61767six59334oldGSC16_and_full_original_qualifier/2/exact_own_C_copy",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_072": {
+          "tuple": {
+            "bytes": 114106,
+            "sha256": "c1ef2f1caf309f359c4dc14e97d844eb76feb729e3c9c2d38fc04f14965bbf9d",
+            "git_blob_oid_of_actual_bytes": "5adfb91cd6da16115d31503101ea4c0b37bf9ad3"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-0C0A9E219A65AE049F7BC412",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/actual_full_raw_inverse_forward_proof/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_073": {
+          "bytes": 21720,
+          "sha256": "5fb9e38154e78b1d3f5fcf92d781aeaf1d7795714b97fffabca71b6b12033e04",
+          "git_blob_oid_of_actual_bytes": "b92ead8b941f2c7c6355f474e875077816d060cf"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-A836478ECEDA2EEF1133116F",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_021": {
+          "bytes": 59968,
+          "sha256": "f253ba86e94b21fe31f8e742c35d6bedd559daf1d7e68e4f746f18e4a8331154",
+          "git_blob_oid_of_actual_bytes": "57d71c5716b89a1464821b4e07d69ee8d15d2ae0"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-C4FEC098A728905BBCC35860",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_074": {
+          "bytes": 455636,
+          "sha256": "6978cff5698f997c8c6e8f963efdad23044299a61264b668247bb8a7af4df26d",
+          "git_blob_oid_of_actual_bytes": "d9ca802951d11ab33ac9a2062864eeee8fb3c17d"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-3BE540E090E80D12A6C80122",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_075": {
+          "bytes": 589492,
+          "sha256": "33c053a887b41c3bd40935bf6c508190e08f6ffbe1e97493f5307dd05bf3f17e",
+          "git_blob_oid_of_actual_bytes": "dd93953aa3c069d48254c404e779bfe3923dcac7"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-2B412E2BAFD3496F9DBD8B57",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_076": {
+          "bytes": 747393,
+          "sha256": "7812f3181c600bdff1dd52e375747db589039ad3d298a4b71d7662ff7e751211",
+          "git_blob_oid_of_actual_bytes": "84600e9042e62b997ddac98a5551a389b1a6fb16"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5C01FD487EA456C8CCE322AD",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_025": {
+          "bytes": 69959,
+          "sha256": "ec652ef6d133b81589c621a8b39619528f48034229c42399ac26915ce4750e72",
+          "git_blob_oid_of_actual_bytes": "253cb99dc97086ee29ed288cfbae7a1eb31ab38b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-F5B5FC5FAA30653B2A131FC2",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_077": {
+          "bytes": 489811,
+          "sha256": "263f914dd9fbb8095ebe3cf686c476a41add10a15245435a6eb4d538f558acda",
+          "git_blob_oid_of_actual_bytes": "bc3c0647edd0935dc67831f775630de105a3512c"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-36EB79B89BCD9CEAE516B4E3",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_078": {
+          "bytes": 537305,
+          "sha256": "0222c75fc290068ba69e4295163fb2ae4753be133af70f10519b1ac9d92e4312",
+          "git_blob_oid_of_actual_bytes": "bf1f8c4fa6fbee9aca0cdb32d036b1797565343b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-C603290B905D3BB041B4972B",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/all_original_V1_raw8_beforeimages/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_079": {
+          "bytes": 674215,
+          "sha256": "d7f5366b10aa13e96b161a3d39729f4629ec512c0f72c9b1628f28ec61a32e19",
+          "git_blob_oid_of_actual_bytes": "0891c60612f11fa5a2543e5d43fc026846275067"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-98B7B8FB4A64FFCAD92FCC6B",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_five_new_author_actor_precisions_and_complete_oldV1_recovery/original_V1_manifest/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_080": {
+          "bytes": 10261,
+          "sha256": "8a08ffcea915bee6de19ab9d0422d7c1f1b8b16333e22d9218dd08aa62e49608",
+          "git_blob_oid_of_actual_bytes": "0901c396f0fed160a2b00dce195253bb6c6aa509"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-ED7557FEDE929E52A91AA69A",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/finite_inventory/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_081": {
+          "bytes": 36280,
+          "sha256": "5d6f12c391bed5a6c53404d65b40ccb7cf31f3f8ab833e7aba7e79bc3136fe22",
+          "git_blob_oid_of_actual_bytes": "a2563b10043f3c8f89a4ad947b3bee73799f5927"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-E0E460341CBACE552A013A1A",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_021": {
+          "bytes": 59968,
+          "sha256": "f253ba86e94b21fe31f8e742c35d6bedd559daf1d7e68e4f746f18e4a8331154",
+          "git_blob_oid_of_actual_bytes": "57d71c5716b89a1464821b4e07d69ee8d15d2ae0"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-CA70A566496D94CB85816EA2",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_022": {
+          "bytes": 455717,
+          "sha256": "028d2669f0472e5cbd09152904fa8ce00fb88d6080c3dcf0c124247e7e2d793f",
+          "git_blob_oid_of_actual_bytes": "52af235f01e7be2f8fd43b955b14aae9b102989f"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-03829EAB00181CC55BE51BFF",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_023": {
+          "bytes": 589564,
+          "sha256": "c1a66b04139612d1f20bc3c9ab1b48f5c2582ca1b65143750bb2aa4a0303045c",
+          "git_blob_oid_of_actual_bytes": "c4877249f3a51496fbb66b99bc31fb9d828ae246"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-4223CBD0D77C042C14E1E9D4",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_082": {
+          "bytes": 747430,
+          "sha256": "1766584bd2edaa3f24797625309a269b0e6c5ef146853eed23c84778c48a2819",
+          "git_blob_oid_of_actual_bytes": "7d16db89e0e0508483ab91d599e97a89d43bef57"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-F2B69B3895A21B54F05E2064",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_025": {
+          "bytes": 69959,
+          "sha256": "ec652ef6d133b81589c621a8b39619528f48034229c42399ac26915ce4750e72",
+          "git_blob_oid_of_actual_bytes": "253cb99dc97086ee29ed288cfbae7a1eb31ab38b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-6413060F2EC99D8DF251706E",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_077": {
+          "bytes": 489811,
+          "sha256": "263f914dd9fbb8095ebe3cf686c476a41add10a15245435a6eb4d538f558acda",
+          "git_blob_oid_of_actual_bytes": "bc3c0647edd0935dc67831f775630de105a3512c"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-90925B09CB7EA4F4290A59E8",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_083": {
+          "bytes": 537305,
+          "sha256": "39015748520438ab8d1e8420e656c32eacd2a9f27d583877ccc6b53068d559ac",
+          "git_blob_oid_of_actual_bytes": "e61f6dfec66b3bb7db2d82e9f82ee515255a84ab"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-241FEA98C18B727A69F9980E",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_components/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_084": {
+          "bytes": 686652,
+          "sha256": "cc318587978f37e8236129ac40ffb30376b0524fd73c197ebb43406d477d187f",
+          "git_blob_oid_of_actual_bytes": "f573e3b5f812a38d10e801ca40df1c59066e96fe"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-587DC3C5EB437F48906774B3",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_register_range_member_precision_and_full_V2_custody/whole_old_V2_manifest/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_085": {
+          "bytes": 11707,
+          "sha256": "b832078c41c7cfcddbb4f592d68d390e1597a586d50dc0285498dce7fb6f7dc0",
+          "git_blob_oid_of_actual_bytes": "448372bb51af7b5b7df41cf9204c3b72ceafe900"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B3FE52AEBB9A4D8DB2577CAD",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/inventory/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_086": {
+          "bytes": 11070,
+          "sha256": "8057e1b5f54d6259c567e5e889d53785dc2fef471790f5c66351e7dbae85ee94",
+          "git_blob_oid_of_actual_bytes": "cbb057faff009c321b20e0310528ea90f8320449"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-B6805F2847154E627A2CDFB0",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/actual_distinct_finding/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_087": {
+          "bytes": 4891,
+          "sha256": "39240f786b921c69952058e32ae9f10f959dfe93fe1fc4541258df087115e70c",
+          "git_blob_oid_of_actual_bytes": "0394764468608016ff26b06a5d800e649a695933"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-72051A88695ECB3DC3A99251",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_021": {
+          "bytes": 59968,
+          "sha256": "f253ba86e94b21fe31f8e742c35d6bedd559daf1d7e68e4f746f18e4a8331154",
+          "git_blob_oid_of_actual_bytes": "57d71c5716b89a1464821b4e07d69ee8d15d2ae0"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-0C52ADA2D0668E38D3F6F461",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_022": {
+          "bytes": 455717,
+          "sha256": "028d2669f0472e5cbd09152904fa8ce00fb88d6080c3dcf0c124247e7e2d793f",
+          "git_blob_oid_of_actual_bytes": "52af235f01e7be2f8fd43b955b14aae9b102989f"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-FEA4057F55677BB950712937",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_023": {
+          "bytes": 589564,
+          "sha256": "c1a66b04139612d1f20bc3c9ab1b48f5c2582ca1b65143750bb2aa4a0303045c",
+          "git_blob_oid_of_actual_bytes": "c4877249f3a51496fbb66b99bc31fb9d828ae246"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-7BA3BD458858259B2BE658C7",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_082": {
+          "bytes": 747430,
+          "sha256": "1766584bd2edaa3f24797625309a269b0e6c5ef146853eed23c84778c48a2819",
+          "git_blob_oid_of_actual_bytes": "7d16db89e0e0508483ab91d599e97a89d43bef57"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-036740EEA9225BCD7CEABE86",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_025": {
+          "bytes": 69959,
+          "sha256": "ec652ef6d133b81589c621a8b39619528f48034229c42399ac26915ce4750e72",
+          "git_blob_oid_of_actual_bytes": "253cb99dc97086ee29ed288cfbae7a1eb31ab38b"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-5E945E36A41FC1DC57648C5F",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_026": {
+          "bytes": 592871,
+          "sha256": "d3e00234885dd06c25d666c27cbe347b08b843009330c779a11924287058bbfe",
+          "git_blob_oid_of_actual_bytes": "2e2eef81c20dd69b5755eada2c1b43b25f36846f"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-E72380ECFA85C6A24E0DDF88",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/6/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_083": {
+          "bytes": 537305,
+          "sha256": "39015748520438ab8d1e8420e656c32eacd2a9f27d583877ccc6b53068d559ac",
+          "git_blob_oid_of_actual_bytes": "e61f6dfec66b3bb7db2d82e9f82ee515255a84ab"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-9F57B6EAA1B9B241E82F1C65",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_full_original_V3_eight/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_088": {
+          "bytes": 692716,
+          "sha256": "a5eebb1b834901ba52b4d89eb128c87cbb36348ee0edad39732088d7e36692dd",
+          "git_blob_oid_of_actual_bytes": "ecc476a4dd9d628de7d7006917d09e2668a94d08"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-BBA4F752514202DDD3BD5A13",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/exact_original_V3_manifest/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_089": {
+          "bytes": 13218,
+          "sha256": "c94585afb98d3aa48a636036c669f6f041aadc76aea61515cdf9ab8c77746203",
+          "git_blob_oid_of_actual_bytes": "16903d62f82501940b235ecd3c54fe53fabbeb47"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-LOCATION-05E6A0BE2857C07EA39D026A",
+      "roles_and_pointers": [
+        {
+          "container_id": "transport",
+          "pointer": "/current_one_O087_positive_agreement_scope_and_complete_V3_custody/original_V3_author525/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_090": {
+          "bytes": 239943,
+          "sha256": "f140d91e0d6d870932d80bbe8c98bf702508f925ccfcd66c182bd068d8056f99",
+          "git_blob_oid_of_actual_bytes": "d80eec02f5c432a003416f49907c7950dfaafa72"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-BA14142DF42B11AAD3097A40",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/source_review_original_raw_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/component_QA/complete_original_source_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/full_ordered_original_QA_recovery_contract/original_raw_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "root",
+          "pointer": "/actual_distinct_component_QA/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_091": {
+          "bytes": 908418,
+          "sha256": "90ef123e768f89425f672e3a822491ec5c86004da3d29a88f0927f4ab74eb5f6",
+          "git_blob_oid_of_actual_bytes": "9e6aff7055b2006d5967abed145c79f5e3b9388e"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-FC34763C4A8F1B33B3CF10B5",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/actual_separate_later_ROOT_semantic_workflow_authority_metadata/actual_ROOT_original_raw_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/ROOT_semantic/complete_original_source_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_092": {
+          "bytes": 42220,
+          "sha256": "7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44",
+          "git_blob_oid_of_actual_bytes": "c2122804a4126d7e75c6d09a1913a20b5de2ad66"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-2F1894505B0FBE26832072EC",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/component_QA/relative_path",
+          "parent_role": "EXACT_CONTAINING_PRIVATE_REPORT_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_093": {
+          "complete_original_source_tuple": {
+            "bytes": 908418,
+            "sha256": "90ef123e768f89425f672e3a822491ec5c86004da3d29a88f0927f4ab74eb5f6",
+            "git_blob_oid_of_actual_bytes": "9e6aff7055b2006d5967abed145c79f5e3b9388e"
+          },
+          "private_copy_tuple": {
+            "bytes": 908418,
+            "sha256": "90ef123e768f89425f672e3a822491ec5c86004da3d29a88f0927f4ab74eb5f6",
+            "git_blob_oid_of_actual_bytes": "9e6aff7055b2006d5967abed145c79f5e3b9388e"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-30CC0176273A89BDF7DB7D3B",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/component_QA/private_copy_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_091": {
+          "bytes": 908418,
+          "sha256": "90ef123e768f89425f672e3a822491ec5c86004da3d29a88f0927f4ab74eb5f6",
+          "git_blob_oid_of_actual_bytes": "9e6aff7055b2006d5967abed145c79f5e3b9388e"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-2094882B5B50C691B1D65DCB",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/body_QA/relative_path",
+          "parent_role": "EXACT_CONTAINING_PRIVATE_REPORT_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_094": {
+          "complete_original_source_tuple": {
+            "bytes": 191730,
+            "sha256": "ff84a88fb5953c91b1d4bc591dd0b7180790ce021f7b30c6b1cc10dabbad47b1",
+            "git_blob_oid_of_actual_bytes": "c4d1d1605c47558369b16cd285493eb9e923dbcb"
+          },
+          "private_copy_tuple": {
+            "bytes": 191730,
+            "sha256": "ff84a88fb5953c91b1d4bc591dd0b7180790ce021f7b30c6b1cc10dabbad47b1",
+            "git_blob_oid_of_actual_bytes": "c4d1d1605c47558369b16cd285493eb9e923dbcb"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-A833AA5D30BD42CC7069996A",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/body_QA/private_copy_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_017": {
+          "bytes": 191730,
+          "sha256": "ff84a88fb5953c91b1d4bc591dd0b7180790ce021f7b30c6b1cc10dabbad47b1",
+          "git_blob_oid_of_actual_bytes": "c4d1d1605c47558369b16cd285493eb9e923dbcb"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-ACE888E3B661F1DE4C1ACBDB",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/author525/relative_path",
+          "parent_role": "EXACT_CONTAINING_PRIVATE_REPORT_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_095": {
+          "complete_original_source_tuple": {
+            "bytes": 244720,
+            "sha256": "0da0e4fb577ee86e05496aeb6d81fa63031b6a03644346487d8bcd0ec99e16ac",
+            "git_blob_oid_of_actual_bytes": "12da33504eb7c99c0490461229bf65c28189cee4"
+          },
+          "private_copy_tuple": {
+            "bytes": 244720,
+            "sha256": "0da0e4fb577ee86e05496aeb6d81fa63031b6a03644346487d8bcd0ec99e16ac",
+            "git_blob_oid_of_actual_bytes": "12da33504eb7c99c0490461229bf65c28189cee4"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-87BC88884CF025E30F5D730E",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/author525/complete_original_source_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_096": {
+          "bytes": 244720,
+          "sha256": "0da0e4fb577ee86e05496aeb6d81fa63031b6a03644346487d8bcd0ec99e16ac",
+          "git_blob_oid_of_actual_bytes": "12da33504eb7c99c0490461229bf65c28189cee4"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-43B27B29C2DCAB60AD21AA38",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/author525/private_copy_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_096": {
+          "bytes": 244720,
+          "sha256": "0da0e4fb577ee86e05496aeb6d81fa63031b6a03644346487d8bcd0ec99e16ac",
+          "git_blob_oid_of_actual_bytes": "12da33504eb7c99c0490461229bf65c28189cee4"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-9B187B02A48BABCAD74A7E66",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/author_closure/relative_path",
+          "parent_role": "EXACT_CONTAINING_PRIVATE_REPORT_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_097": {
+          "complete_original_source_tuple": {
+            "bytes": 475725,
+            "sha256": "bd2e15919cd5b2f7e59a000159e06f60725a11c13d260521048efdb325603d24",
+            "git_blob_oid_of_actual_bytes": "d65c349bad5e64a163268c1b92e7f7f4c9d0f745"
+          },
+          "private_copy_tuple": {
+            "bytes": 475725,
+            "sha256": "bd2e15919cd5b2f7e59a000159e06f60725a11c13d260521048efdb325603d24",
+            "git_blob_oid_of_actual_bytes": "d65c349bad5e64a163268c1b92e7f7f4c9d0f745"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-78637ACD4E5CD4A0D6174CD0",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/author_closure/complete_original_source_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_098": {
+          "bytes": 475725,
+          "sha256": "bd2e15919cd5b2f7e59a000159e06f60725a11c13d260521048efdb325603d24",
+          "git_blob_oid_of_actual_bytes": "d65c349bad5e64a163268c1b92e7f7f4c9d0f745"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-9A8B1B0513ED28912A29666D",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/author_closure/private_copy_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_098": {
+          "bytes": 475725,
+          "sha256": "bd2e15919cd5b2f7e59a000159e06f60725a11c13d260521048efdb325603d24",
+          "git_blob_oid_of_actual_bytes": "d65c349bad5e64a163268c1b92e7f7f4c9d0f745"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-E2E630EDBDA14A0D86307534",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/ROOT_semantic/relative_path",
+          "parent_role": "EXACT_CONTAINING_PRIVATE_REPORT_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_099": {
+          "complete_original_source_tuple": {
+            "bytes": 42220,
+            "sha256": "7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44",
+            "git_blob_oid_of_actual_bytes": "c2122804a4126d7e75c6d09a1913a20b5de2ad66"
+          },
+          "private_copy_tuple": {
+            "bytes": 42220,
+            "sha256": "7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44",
+            "git_blob_oid_of_actual_bytes": "c2122804a4126d7e75c6d09a1913a20b5de2ad66"
+          }
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-5E24A447DBAF0DF435544A59",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/full_original_private_custody/ROOT_semantic/private_copy_tuple/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_092": {
+          "bytes": 42220,
+          "sha256": "7d842b5fe736fe4e80b4c9841f6b014bbcc9cf05aeecac4aee81d81ff7262a44",
+          "git_blob_oid_of_actual_bytes": "c2122804a4126d7e75c6d09a1913a20b5de2ad66"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-1B2989ACEB2F6424F5019F35",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current_entry/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        },
+        {
+          "container_id": "root",
+          "pointer": "/actual_current_entry/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_100": {
+          "bytes": 11541,
+          "sha256": "694819ae3e0c1f65e4bdabc7f8c4b0e38bb1af192c955d56f1b41379de9ae566",
+          "git_blob_oid_of_actual_bytes": "ce23a166066b5f8bdfd4c354dd488f44779a2279"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-D81233522345D0739E37490F",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current_manifest/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_101": {
+          "bytes": 15193,
+          "sha256": "a5cc72e4c0f878e01dd832fae7f50d2e278d1b5005e1d9ef269d0a1a18d2ddb2",
+          "git_blob_oid_of_actual_bytes": "e5688f8cc5fa59ead7e7dc6901797880e7c011ad"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-8C9B07A4330F56497F699EC3",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/actual_current8/7/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_102": {
+          "bytes": 700291,
+          "sha256": "5630a109fd75f717fa7466ba0110dcfc93487171a55d920a92760592162604b5",
+          "git_blob_oid_of_actual_bytes": "dc6828574305bc81f2abbedd7991751c0d9dea70"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-404747A8E81EC315C415A93B",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/resolved_finding_history/original_finding/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_087": {
+          "bytes": 4891,
+          "sha256": "39240f786b921c69952058e32ae9f10f959dfe93fe1fc4541258df087115e70c",
+          "git_blob_oid_of_actual_bytes": "0394764468608016ff26b06a5d800e649a695933"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-E98363CCCD69EBD640776063",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/mechanical_receipt/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_103": {
+          "bytes": 110287,
+          "sha256": "4cfc2d9749377a34bc7aff0607c8a1240c073c25b2b5350917a3ad41a5d67cd3",
+          "git_blob_oid_of_actual_bytes": "0da1ea7d9ac7fb777ba540aa3b7e1dbf1af7e3c4"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-DA357832236212798533A6A8",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/prior_provisional_own_reason_artifacts_retained/0/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_104": {
+          "bytes": 10158,
+          "sha256": "1482121182aec32d43f8326d80a4f2e45a8174c5d449e509030af162ef754acb",
+          "git_blob_oid_of_actual_bytes": "c2bf30c8407f89d25e62b17767ff0a01b71e74ed"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-947D5ED430C35D0AA57F4BAA",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/prior_provisional_own_reason_artifacts_retained/1/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_105": {
+          "bytes": 5159,
+          "sha256": "d0ac60593a829d91c6b155861f1f8a515ef35d2a02dee094f675b53c93c8743e",
+          "git_blob_oid_of_actual_bytes": "d460dff39eeef28927a712a1e3619fd3f18705fa"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-6B6E22A67CE4B01FA0C1110D",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/prior_provisional_own_reason_artifacts_retained/2/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_106": {
+          "bytes": 5332,
+          "sha256": "888746802007dc72497da3803137a21d65a9b5995a9ad92c31351ef33f3cea04",
+          "git_blob_oid_of_actual_bytes": "bf3ff7520f899261bf55cb1c52be035743acfbd2"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-3F4C9F61AFEFFEF1FAA9A153",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/prior_provisional_own_reason_artifacts_retained/3/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_107": {
+          "bytes": 5361,
+          "sha256": "ca47cb068730ae2ba30c2c32a360a38e8f54fd9fe873bd3553e3ca5e9a841e3a",
+          "git_blob_oid_of_actual_bytes": "283bf5a9fa6e44e9ddaa13faffcded8ddf0e1ea3"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-CCB371831192394A428CA96B",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/prior_provisional_own_reason_artifacts_retained/4/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_108": {
+          "bytes": 5365,
+          "sha256": "dddbe4cf03c1b3349bd562e58be3740adccc8a2050a33d8ff1000f91300b888d",
+          "git_blob_oid_of_actual_bytes": "3ef04e6164ce87d3af276278d3b71b5cb3122a76"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-F9FCF7410223F20E6A3D4CFF",
+      "roles_and_pointers": [
+        {
+          "container_id": "input",
+          "pointer": "/reported_completed_source_review_complete_original_object_NOT_new_reporter_QA/prior_provisional_own_reason_artifacts_retained/5/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_109": {
+          "bytes": 8424,
+          "sha256": "12d1a0d1699ee1f44c07320e1bbfc32855da95a4679461bf5a987f967be260af",
+          "git_blob_oid_of_actual_bytes": "499218e35fa668d976ef18c3da183cdd2acca96d"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-1EB4213D497D08214BE67AC4",
+      "roles_and_pointers": [
+        {
+          "container_id": "root",
+          "pointer": "/actual_author_concurrence/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_110": {
+          "bytes": 301419,
+          "sha256": "2694f7314ed1e729c2aa77e6c5694df434abbd870f8bbee7defd38407dd99497",
+          "git_blob_oid_of_actual_bytes": "eded2da1860546b1c9a3877290dc7ae03a6ac7d9",
+          "actual_equal_receipt_sha256": "dce4c6ef011469655ffb96c6c93d0c2618ef3f01276390d3ebc05d7dd1ecb684"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-26F520C4A4AD8F821FD508B7",
+      "roles_and_pointers": [
+        {
+          "container_id": "root",
+          "pointer": "/actual_ROOT_personal_receiving/own_control_journal",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_111": {}
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-94C8C61BED348F9227FCBA3A",
+      "roles_and_pointers": [
+        {
+          "container_id": "root",
+          "pointer": "/actual_ROOT_personal_receiving/own105_journal",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_111": {}
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-D58303696FDA4F12C9499ECE",
+      "roles_and_pointers": [
+        {
+          "container_id": "root",
+          "pointer": "/actual_ROOT_personal_receiving/own73_journal",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_111": {}
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-996CD9A1BDD622349F86A53B",
+      "roles_and_pointers": [
+        {
+          "container_id": "root",
+          "pointer": "/actual_ROOT_personal_receiving/own_core_journal",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_111": {}
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    },
+    {
+      "private_custody_id": "private-witness:KEI-NORM-85BA602C6334D611B15F2C69",
+      "roles_and_pointers": [
+        {
+          "container_id": "root",
+          "pointer": "/actual_independent_raw_custody_execution/C_path",
+          "parent_role": "LITERAL_ORIGINAL_ABSOLUTE_PATH_PARENT"
+        }
+      ],
+      "recorded_parent_metadata_records": {
+        "RECORDED_METADATA_112": {
+          "bytes": 198294,
+          "sha256": "0c945cdddf6a6f10b7ebb079fb00a4c49859e14d74b414c488824c5f73c24aba",
+          "git_blob_oid_of_actual_bytes": "a17b9afe7549939283af6c8e0b71b380bef3f91a"
+        }
+      },
+      "fixed_original_target_tuple": null,
+      "scope": "Original parent-private delivery declaration; full scalar and parent retained only in private original/proposal/inverse. No canonical alias or target existence/open/hash assertion."
+    }
+  ],
+  "actual_ROOT_plan303_grant": {
+    "witness_id": "ROOT_KEI_ACTUAL_PLAN303_PUBLIC12_COMPOSITION_DISPATCH",
+    "bytes": 5214,
+    "sha256": "26e892ee64c5d181e365f703ad2e5bbfed0e7a211c34a7fd941fee024f046fbd",
+    "git_blob_oid_of_actual_bytes": "4720bb32f53a1e00384e586eda860ad3345bb36f"
+  },
+  "source_grade": "AUTHOR3NEW481_PLUS3PRIOR268_REVIEWER6WHOLE749_COMMONROOT26WHOLE79SELECTED_SEPARATE",
+  "identity_and_mode": "Two literal person keys, MainKey/provisionalKey/Kei.sav and unjoined event-local E141 actor remain distinct; Alice Main rescue, event-local Kei giver/Sensei consumer, O087 agreement-to-stay and O094 requested reading access stay finite.",
+  "scope": "All original delivery strings and parents are complete private custody/inverse values. Declarations are not target existence, opening/hash or canonical alias claims. Four ROOT journals have only containing-original declaration custody.",
+  "self_pin": "Only CONTROL and external manifest bind actual NAV bytes; no recursive selfpin.",
+  "published_preparation_snapshot": {
+    "required": 150,
+    "named": 18,
+    "scope": "Dated actual ROOT5214 authorization baseline; no later count assertion"
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "merge": "RESERVED"
+}

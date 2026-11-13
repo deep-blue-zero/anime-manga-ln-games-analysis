@@ -7,7 +7,7 @@ generation: V2
 phase: 3
 specialist_number: 16
 status: canonical
-source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; canonical Specialists 06-15; targeted audiovisual and episode-specific motion evidence where those layers revise relationship interpretation
+source_boundary: Frozen Mandarin-primary audiovisual Season 1 E01-E24; canonical Phase-2 topical ledgers and 145-key claim register; canonical Specialists 06-15; targeted audiovisual and episode-specific motion evidence where those layers revise relationship interpretation; post-freeze E05–E07 AV reconciliation within the formal and Yan audits' stated source limits
 canonical_home: 03 V2 Specialist Syntheses/01 Characters and Relationships
 primary_claim_keys:
 - P2-CR-R01
@@ -138,7 +138,8 @@ supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 created: 2026-08-17
-last_updated: 2026-08-17
+last_updated: 2026-10-24
+revision: AV-2026-10-24
 ---
 
 # Cross-Arc Relationships, Alliances, Mentorship, and Recognition
@@ -690,7 +691,7 @@ The series' strongest intimate relationships resist a common narrative shortcut:
 
 Lin and Xiao develop genuine reciprocal recognition inside an imposed public romance. Xiao distinguishes Lin from Original Nice, asks for his name, and acknowledges that her days with him were happier. None of this makes confinement, forced content, marriage escalation, or contractual romantic labor acceptable.
 
-Yang's attachment to Xia Qing is longstanding, and Xia's recognition of `另一个你` gives his performed self legitimacy without requiring permanent performance. Reciprocal romance remains unconfirmed; the ethical significance lies in recognition that survives failure of the role.
+Yang's attachment to Xia Qing is longstanding, and Xia's recognition of `另一个你` gives his performed self legitimacy without requiring permanent performance. Reciprocal romance remains unconfirmed; the ethical significance lies in recognition that survives failure of the role. The Chinese rain passage also protects Xia's own future: wholehearted support is conditional on honest self-facing, and she refuses to stop and wait indefinitely if he cannot do that. `TBHX-AV-E06-001` revises the earlier Japanese-dependent waiting interpretation. Recognition across role failure does not impose unlimited availability on the recognizer; this strengthens the two-sided exit and answerability standard. See [formal audit §5](../../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md).
 
 Qīng and Luo's relation carries intense attachment, sacrifice, music, and mutual de-totalization. Its exact romantic classification is less important than its refusal of the blessing/jinx categories that reduce each person to causal use.
 

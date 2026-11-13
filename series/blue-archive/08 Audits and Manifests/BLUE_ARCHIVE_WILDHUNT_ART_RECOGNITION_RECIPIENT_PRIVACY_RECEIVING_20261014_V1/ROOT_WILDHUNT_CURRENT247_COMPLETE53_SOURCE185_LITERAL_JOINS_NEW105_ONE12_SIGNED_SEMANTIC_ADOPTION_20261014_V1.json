@@ -1,0 +1,1354 @@
+{
+  "schema": "ROOT_WILDHUNT_CURRENT247_COMPLETE_PERSONAL_SOURCE_LITERAL_NEW105_EXACT8_SIGNED_SEMANTIC_ADOPTION_V1",
+  "ROOT": "/root",
+  "actual_UTC": "2026-10-14T13:52:50Z",
+  "decision": "SEMANTICALLY_ACCEPT_EXISTING_INSTITUTION_AND_ONE_EXISTING_SUBSTANTIAL_ERI_RENA_NAMED_SECTION_WITH_LIMITS",
+  "existing_required_home": "P3-INST-WILDHUNT-ART-RECOGNITION-PRIVACY",
+  "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+  "original_current8": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 45111,
+      "sha256": "354717125b4029e3ed56b88f6bf2612b0314cc1c1664fdab9932ff0225409353",
+      "git_blob_oid_of_actual_bytes": "6fd7de738553a59647d61b42c781d6340f5e9fa4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+      "bytes": 406465,
+      "sha256": "7e430c4508f72d9a0e0b0123489d14481f3670c4b981a1b53e8674ffb45baad4",
+      "git_blob_oid_of_actual_bytes": "71df8c253436c88a8b516a53a4aa41b3a3812bf2"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+      "bytes": 541960,
+      "sha256": "c66b27282400db1ce1468040c02993529be625748fb594976dbae769c8b56cc6",
+      "git_blob_oid_of_actual_bytes": "a0408afaefa28ce943012cfc71eeb702696a4e2f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+      "bytes": 701989,
+      "sha256": "024431094cfe3075141cf1d954ad7765ac8a06b051e9229afe0215b0405685e6",
+      "git_blob_oid_of_actual_bytes": "e52475953a7147d49f2159220234e6b3d71eb3b5"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT1_SOURCE_INPUT_AND_GRADE_RECEIVING_V1.json",
+      "bytes": 40302,
+      "sha256": "a81d7f7f1437c2431934907e4f0be082ff2d215d3cb73328e88dfef50462d950",
+      "git_blob_oid_of_actual_bytes": "1d290359d5d54af8fb579d39ca314296d8ab153d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 195379,
+      "sha256": "652d9df229bbfaf1cf0a1d209278995597c402684f7702ca0a6c1e0c417f9fe0",
+      "git_blob_oid_of_actual_bytes": "29be55783e26e92fc26e0d78cb282137d6f8a0e1"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_LITERAL53_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 466763,
+      "sha256": "8b5088e1e9ba05afd12a1dca6a30d5e7c9bee6a3a59f7d73ff94866b005664df",
+      "git_blob_oid_of_actual_bytes": "55a3bdc5b1dac274b8e1fd918c5fca28f69ee843"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 6546,
+      "sha256": "14abce3cb85a2439c41c4254192627755bf7e8fc496de5670c5f47fe0b52abe3",
+      "git_blob_oid_of_actual_bytes": "964c9dd75a8ab1b6f58426dacb307b8be613f6f8"
+    }
+  ],
+  "author": "/root/receive_middle_remaining",
+  "distinct_literary_and_full_component_QA_reviewer": "/root/minato_105_derivative",
+  "actual_ROOT_personal_receiving": {
+    "maintained_source_whole185": "Maintained EVENT849 written analytical checkpoint only; actual070e7f/fc6ced/b164ac, no primary/raw/native/AV",
+    "pre_draft_questions": 27,
+    "body_lines": 247,
+    "full_paragraphs": 53,
+    "current_purposes": 105,
+    "new_fields": 525,
+    "institution_dimensions": 15,
+    "named_dimensions": 12,
+    "named_duties": 1,
+    "rivals": 8,
+    "finite_ends": 16,
+    "original_gaps_OPEN": 14,
+    "operative_controls": 105,
+    "last_controls": [
+      "d4c4a7",
+      "304ab8",
+      "e0a289"
+    ]
+  },
+  "whole_receiving_journal_pins": [
+    {
+      "path": "private-witness:WILDHUNT-ROOT-DELIVERY-cd2c6efd2af43f294d719d82",
+      "bytes": 223925,
+      "sha256": "799951f5027a1f8d6be95cd6955b15c2d48ce18041ddc2ce45157a751ce7d420",
+      "git_blob_oid_of_actual_bytes": "d44fae0a139c48e184cac245d0e02ed3d5616e6e"
+    },
+    {
+      "path": "private-witness:WILDHUNT-ROOT-DELIVERY-073c106f01cb75231facc65f",
+      "bytes": 61731,
+      "sha256": "5eae8b1e22eed33974a1f8b9f3bd525a5644b5361c72c4b15f609bdde495d4fc",
+      "git_blob_oid_of_actual_bytes": "3cdd8b0299189d190065748d647d7a8a60d5aa9d"
+    },
+    {
+      "path": "private-witness:WILDHUNT-ROOT-DELIVERY-9bf57b7e9dd5ccdc1afa8999",
+      "bytes": 69648,
+      "sha256": "4b494dc4befdf3cc66a7d9af11cc7e79914acd75c246973ae842ac131e1bf25f",
+      "git_blob_oid_of_actual_bytes": "55015fffc0b5f258c087225ef6a4f70c636bf9ac"
+    },
+    {
+      "path": "private-witness:WILDHUNT-ROOT-DELIVERY-e056d9b15a4c6492c57b0893",
+      "bytes": 96737,
+      "sha256": "38e0905a62a8e098616da6796725a53afd6a97e8ccb07b90aacd68d06ef1477b",
+      "git_blob_oid_of_actual_bytes": "727398ff6ff362a9e44d71e5f095645e130f0456"
+    }
+  ],
+  "other_complete_journals": {
+    "all105": {
+      "path": "private-witness:WILDHUNT-ROOT-DELIVERY-82067ccdc6ee3866ea1086ac",
+      "bytes": 355547,
+      "sha256": "10627badf5215c6b65a33f9bdb1ee28e2c0209db105eba3671bd51a9b890f8b3"
+    },
+    "all53joins": {
+      "path": "private-witness:WILDHUNT-ROOT-DELIVERY-2f0e4c784964878375bd5009",
+      "bytes": 195969,
+      "sha256": "b12eb815d28a22929055660fd7b2087051a0628ff87c8c9972ea4f0a9e2144a9"
+    }
+  },
+  "actual_own_complete_judgments": {
+    "whole_body53": [
+      {
+        "claim_id": "WHCLAIM001",
+        "ROOT_own_finite_reason": "Distinct creative wants and actual recognition support an institutional argument whose success does not settle imposed rooms, privacy or guard burden."
+      },
+      {
+        "claim_id": "WHCLAIM002",
+        "ROOT_own_finite_reason": "Cycle008 current qualification governs retained intake history; whole maintained185 scope is separate from fourteen producer primary objects or a new school census."
+      },
+      {
+        "claim_id": "WHCLAIM003",
+        "ROOT_own_finite_reason": "The three response changes—Eri confidence, respected Rena choice and mediated recognition—have separate endpoints and cannot jointly imply universal repair."
+      },
+      {
+        "claim_id": "WHCLAIM004",
+        "ROOT_own_finite_reason": "Reported no-official-club and imposed-room arrangements provide formal context without an inspected rulebook or authenticated occult office."
+      },
+      {
+        "claim_id": "WHCLAIM005",
+        "ROOT_own_finite_reason": "Rule13's contradictions and particular Schale release demonstrate interpreted practical power, not coherent occult law or general immunity."
+      },
+      {
+        "claim_id": "WHCLAIM006",
+        "ROOT_own_finite_reason": "Inspection, restraint, making, withheld supply information and adult evasion are concrete capacities whose effectiveness does not establish authorization."
+      },
+      {
+        "claim_id": "WHCLAIM007",
+        "ROOT_own_finite_reason": "Rena's pressured conditional assent, later withdrawal and bell action are different participation states; cooperation cannot be measured by continuous obedience."
+      },
+      {
+        "claim_id": "WHCLAIM008",
+        "ROOT_own_finite_reason": "Actual aesthetic reception and mediated named praise recognize Eri and collective work without on-site chair attendance or a warrant for every method."
+      },
+      {
+        "claim_id": "WHCLAIM009",
+        "ROOT_own_finite_reason": "Admired lights coexist with self-surrender and renewed discipline; future display and viewpoint remain proposals rather than installed rights."
+      },
+      {
+        "claim_id": "WHCLAIM010",
+        "ROOT_own_finite_reason": "Covered canvases and reported room restoration deserve local credit while uninspected art, complete archives and all-damages settlement remain absent."
+      },
+      {
+        "claim_id": "WHCLAIM011",
+        "ROOT_own_finite_reason": "Requested supplies become present LEDs and tape, yet payment and individual delivery mechanics remain unprinted; this cannot complete Art Commerce or access duties."
+      },
+      {
+        "claim_id": "WHCLAIM012",
+        "ROOT_own_finite_reason": "Physical conflict, explosion and detention persist despite comedy; no clinical injury, technical assay or proportionate restriction is authenticated."
+      },
+      {
+        "claim_id": "WHCLAIM013",
+        "ROOT_own_finite_reason": "Guards' admitted play-along bounds paralysis claims without explaining every uncertain voice; actual light work still consumes guard sleep and labor."
+      },
+      {
+        "claim_id": "WHCLAIM014",
+        "ROOT_own_finite_reason": "Different art, calm and company motives explain conflict without formal factions or a single school personality."
+      },
+      {
+        "claim_id": "WHCLAIM015",
+        "ROOT_own_finite_reason": "Tsumugi's respected difference and Kanoe's canvas protection are distinct actions from pressure and prank; Milia's local roles do not join Hiromi or global identities."
+      },
+      {
+        "claim_id": "WHCLAIM016",
+        "ROOT_own_finite_reason": "Occult and severe performance vocabulary enables play while an ordinary café and actual circle do not verify alternate realms or improved magic."
+      },
+      {
+        "claim_id": "WHCLAIM017",
+        "ROOT_own_finite_reason": "The later off-ramp is substantive alongside compulsory room and first-ritual pressure; it is not a general institutional exit rule."
+      },
+      {
+        "claim_id": "WHCLAIM018",
+        "ROOT_own_finite_reason": "Painting confidence, fashion ambition and liking have belonging value before prestige, finished therapy or crisis usefulness; self-evaluated failure is not total art rank."
+      },
+      {
+        "claim_id": "WHCLAIM019",
+        "ROOT_own_finite_reason": "Rena enjoys peers while refusing a dangerous operation and monitoring information; affection does not establish universal activity consent."
+      },
+      {
+        "claim_id": "WHCLAIM020",
+        "ROOT_own_finite_reason": "Stopped questioning and actual shared cleanup are local replies to difficulty and damage without diagnosis or complete legal settlement."
+      },
+      {
+        "claim_id": "WHCLAIM021",
+        "ROOT_own_finite_reason": "Accommodation of refusal revises uniform pressure while repeated detention and further objections keep full reform and trust repair open."
+      },
+      {
+        "claim_id": "WHCLAIM022",
+        "ROOT_own_finite_reason": "Teacher's encouragement and cleanup retain positive direction alongside failed prevention and unequal knowledge; inward and choice modes prevent universal authorization."
+      },
+      {
+        "claim_id": "WHCLAIM023",
+        "ROOT_own_finite_reason": "Initial detention, reputation-based release, unauthorized evasion and prospective access mediation remain distinct Schale-related acts, not a stable exemption."
+      },
+      {
+        "claim_id": "WHCLAIM024",
+        "ROOT_own_finite_reason": "Multi-school band and reported Trinity/anomaly links permit bounded comparison without new MAIN arc, shared mechanism or identity join."
+      },
+      {
+        "claim_id": "WHCLAIM025",
+        "ROOT_own_finite_reason": "Mediated praise and exclusive-museum reports make unequal access a real question; no entry, security proof or completion of the separate access home follows."
+      },
+      {
+        "claim_id": "WHCLAIM026",
+        "ROOT_own_finite_reason": "Rena's recorded objections and confirmed absence establish an actual boundary with ordinary alternatives, rather than an inevitable conversion."
+      },
+      {
+        "claim_id": "WHCLAIM027",
+        "ROOT_own_finite_reason": "Her represented bell action and continued dissent coexist; Tsumugi's guilt interpretation is not a complete Rena motive or universal belief."
+      },
+      {
+        "claim_id": "WHCLAIM028",
+        "ROOT_own_finite_reason": "Present covered canvases and Kanoe's privacy request protect prior expression without ROOT inspecting works or authenticating a full artistic history."
+      },
+      {
+        "claim_id": "WHCLAIM029",
+        "ROOT_own_finite_reason": "Reported founding layout and observed statue movement retain literary significance while dataset, cause and lawful current access remain unverified."
+      },
+      {
+        "claim_id": "WHCLAIM030",
+        "ROOT_own_finite_reason": "Explosion and detention override actual preferences, and confinement has differing felt meanings; local apology and cleanup do not erase costs."
+      },
+      {
+        "claim_id": "WHCLAIM031",
+        "ROOT_own_finite_reason": "Safer local materials and respected absence matter during the second risk, but unauthorized entry, guard work and renewed detention survive success."
+      },
+      {
+        "claim_id": "WHCLAIM032",
+        "ROOT_own_finite_reason": "Art, taste and company have actual and wanted value while future cake and museum access remain incomplete; useful institution does not guarantee equal freedom."
+      },
+      {
+        "claim_id": "WHCLAIM033",
+        "ROOT_own_finite_reason": "Directed benefits and burdens explain institutional discrepancy more precisely than a single moral grade for the school."
+      },
+      {
+        "claim_id": "WHCLAIM034",
+        "ROOT_own_finite_reason": "The named duty begins in an ensemble living/tour context, with meaningful Eri–Rena requests and later thanks, without an invented private origin."
+      },
+      {
+        "claim_id": "WHCLAIM035",
+        "ROOT_own_finite_reason": "Eri's invested making and Rena's property-conditioned pressured assent are an asymmetry; neither formal control nor a categorical absence of agreement follows."
+      },
+      {
+        "claim_id": "WHCLAIM036",
+        "ROOT_own_finite_reason": "Recurring request, objection and recognition preserve warm company alongside specific refusal and differing wish fulfillment."
+      },
+      {
+        "claim_id": "WHCLAIM037",
+        "ROOT_own_finite_reason": "Conflict about danger, falsehood and access retains both fashion and painting ambitions without diagnosing participants or inventing permanent rivalry."
+      },
+      {
+        "claim_id": "WHCLAIM038",
+        "ROOT_own_finite_reason": "Teacher's inquiry boundary, Kanoe's canvas cover, peers' off-ramp and Rena's bell are separately directed support, not a fictitious exclusively dyadic care exchange."
+      },
+      {
+        "claim_id": "WHCLAIM039",
+        "ROOT_own_finite_reason": "Supply secrecy, monitoring and unnotified operation keep knowledge unequal despite cooperation; one privacy act does not repair every withheld fact."
+      },
+      {
+        "claim_id": "WHCLAIM040",
+        "ROOT_own_finite_reason": "Self-declared chairs and mediated collective praise do not authenticate a private hierarchy, artistic rank or delegated unlimited power over Rena."
+      },
+      {
+        "claim_id": "WHCLAIM041",
+        "ROOT_own_finite_reason": "Explosion, pressure and detention rupture uncomplicated company, with Rena's accountability claim directed to the adult; no private-only quarrel or unanimous settlement follows."
+      },
+      {
+        "claim_id": "WHCLAIM042",
+        "ROOT_own_finite_reason": "Respected withdrawal followed by newly chosen bell help supports local redefinition without erasing the earlier no or securing the next proposal's assent."
+      },
+      {
+        "claim_id": "WHCLAIM043",
+        "ROOT_own_finite_reason": "Confidence and company persist beside calm preference and unfinished artistic ends; the actual earlier café belongs to its recipients, with cake and tea still prospective."
+      },
+      {
+        "claim_id": "WHCLAIM044",
+        "ROOT_own_finite_reason": "Written terms and explicit actor/mode drift support qualified contextual interpretation while audio, native prosody and intimacy-by-address remain unreceived."
+      },
+      {
+        "claim_id": "WHCLAIM045",
+        "ROOT_own_finite_reason": "Adult help and mediated praise cannot decide every peer's dream or replace Rena's boundary; ONE embedded named duty leaves separate monographs and access responsibilities intact."
+      },
+      {
+        "claim_id": "WHCLAIM046",
+        "ROOT_own_finite_reason": "The coercion rival has real force but must account for respected refusal, chosen help, privacy protection and intrinsically valued company."
+      },
+      {
+        "claim_id": "WHCLAIM047",
+        "ROOT_own_finite_reason": "The success rival retains beautiful lights but is bounded by unauthorized activity, guard sleep costs, renewed detention and future access."
+      },
+      {
+        "claim_id": "WHCLAIM048",
+        "ROOT_own_finite_reason": "Supernatural reading remains a literary possibility across observations and interpretations; admitted light performance does not verify a universal mechanism or negate every anomaly."
+      },
+      {
+        "claim_id": "WHCLAIM049",
+        "ROOT_own_finite_reason": "Named mediated praise has more institutional weight than private aspiration but cannot stand in for inspected governance or implemented access rights."
+      },
+      {
+        "claim_id": "WHCLAIM050",
+        "ROOT_own_finite_reason": "Liking without a special reason is fully eligible and specific to recipients, not trivial or universal taste consensus."
+      },
+      {
+        "claim_id": "WHCLAIM051",
+        "ROOT_own_finite_reason": "Rena's affectionate care and chosen help do not imply hidden conversion or invalidate her earlier no; continued objections give her agency across the sequence."
+      },
+      {
+        "claim_id": "WHCLAIM052",
+        "ROOT_own_finite_reason": "Eri's actual confidence change is local and her earlier wish already meaningful; no completed painting, lifetime superiority or clinical cure follows."
+      },
+      {
+        "claim_id": "WHCLAIM053",
+        "ROOT_own_finite_reason": "Canvas privacy and reported room restoration are affirmative local ends while museum entry, every information boundary and all rights settlement remain uncompleted."
+      }
+    ],
+    "literal_join53": [
+      {
+        "claim_id": "WHCLAIM001",
+        "ROOT_own_finite_literal_join_reason": "WI08/WI12/WI15 and direct O093 match the distinct aspiration, dissent and recognition thesis: making is positive before display, while Guard costs, imposed rooms and access remain separate."
+      },
+      {
+        "claim_id": "WHCLAIM002",
+        "ROOT_own_finite_literal_join_reason": "Claim002 needs no ornamental question or comparison pointer: whole185 maintained receiving and Cycle008 qualification are adequate for its authority boundary, with producer14 primary scopes and dated c4 capture explicitly separate."
+      },
+      {
+        "claim_id": "WHCLAIM003",
+        "ROOT_own_finite_literal_join_reason": "WI03/WI12/WI15 support three independent changes—felt confidence, respected withdrawal/new help and mediated praise—without conflating wanted painting, initial permission and later museum/display access."
+      },
+      {
+        "claim_id": "WHCLAIM004",
+        "ROOT_own_finite_literal_join_reason": "WI01 preserves Tsumugi's club explanation and Rena's room-assignment report as reports. Eight source-specific role/privacy/mandate comparisons illuminate those limits without certifying a universal rulebook or official Wildhunt band club."
+      },
+      {
+        "claim_id": "WHCLAIM005",
+        "ROOT_own_finite_literal_join_reason": "WI01 locates contradictory Rule13, the later666 explanation and two detention stages. O047 is a finite authority/accommodation comparison, not evidence of general immunity or coherent occult law."
+      },
+      {
+        "claim_id": "WHCLAIM006",
+        "ROOT_own_finite_literal_join_reason": "WI02 identifies actual Guard and peer capacities and Teacher's help/failure/evasion; worker/service comparisons keep practical efficacy distinct from authorization and proportionality, rather than proving each clause by attendance."
+      },
+      {
+        "claim_id": "WHCLAIM007",
+        "ROOT_own_finite_literal_join_reason": "WI02 locates conditioned participation, actual withdrawal and later bell contribution; O001/O029 compare chosen contribution without transferring later help to initial assent or treating continuous obedience as cooperation."
+      },
+      {
+        "claim_id": "WHCLAIM008",
+        "ROOT_own_finite_literal_join_reason": "WI03 supports actual light reception, Guard acknowledgment and Milia-relayed Manami praise. Twelve recognition/gift/performance comparisons retain recipient and mode limits, while Eri's confidence gives local praise a real addressee."
+      },
+      {
+        "claim_id": "WHCLAIM009",
+        "ROOT_own_finite_literal_join_reason": "WI03 and O004/O008/O030 keep renewed detention and Rena's self-surrender separate from beauty or official praise; proposals for display, viewpoint and museum visit are not material installations or exemptions."
+      },
+      {
+        "claim_id": "WHCLAIM010",
+        "ROOT_own_finite_literal_join_reason": "WI04 locates present covered canvases, Kanoe's protective request and Eri's reported room restoration. Object/privacy comparisons clarify that protected presence is not inspection and local cleanup is not all-damages settlement."
+      },
+      {
+        "claim_id": "WHCLAIM011",
+        "ROOT_own_finite_literal_join_reason": "WI04 supplies Miyo's reluctant acceptance after promised advance pay and actual later LEDs/tape; thirteen work/resource comparisons cannot invent a payment amount, full delivery mechanics or transfer E850 worker duties into E849."
+      },
+      {
+        "claim_id": "WHCLAIM012",
+        "ROOT_own_finite_literal_join_reason": "WI05 distinguishes physical fighting, reports of past explosions, an actual larger blast and narrated restraint. Seven force/care comparisons retain these modes without supplying clinical injury, a tested safety mechanism or proportionate-force certification."
+      },
+      {
+        "claim_id": "WHCLAIM013",
+        "ROOT_own_finite_literal_join_reason": "WI05 locates crows, proposal and later completed lighting segment; O005/O020/O075 compare practical and technical limits. Guards' admitted pretend weakness defeats paralysis/mana-drain at that endpoint without explaining all earlier voices or cancelling lost sleep."
+      },
+      {
+        "claim_id": "WHCLAIM014",
+        "ROOT_own_finite_literal_join_reason": "WI06 supports actual incompatible art, company, calm and fashion wants, not inferred organized factions; unnamed artistic disputes and Guard/Council pressures remain differentiated role responses."
+      },
+      {
+        "claim_id": "WHCLAIM015",
+        "ROOT_own_finite_literal_join_reason": "WI06 keeps Tsumugi's danger acknowledgment, Rena's affection with dislike, Kanoe's privacy versus secrecy and Milia's local declarations separate. No global Akira join or borrowing Hiromi's E850 recipient evidence follows."
+      },
+      {
+        "claim_id": "WHCLAIM016",
+        "ROOT_own_finite_literal_join_reason": "WI07 makes occult vocabulary, lyrics, circle-making and fairy-tale staging genuine artistic practice while literal magic and alternative realms remain unvalidated; Rena's questioning belongs inside the practice."
+      },
+      {
+        "claim_id": "WHCLAIM017",
+        "ROOT_own_finite_literal_join_reason": "WI07 and nine stage/consent comparisons preserve compulsory rooms and pressured experiment before the real later off-ramp; new help cannot retrospectively authorize the original act or implement a school-wide freedom rule."
+      },
+      {
+        "claim_id": "WHCLAIM018",
+        "ROOT_own_finite_literal_join_reason": "WI08 and direct O093 preserve Eri's wanted representative painting and self-evaluation, classmates' company, Rena's design/calm and peers' liking as belonging before fame or cure. Fifteen other comparisons keep aspirations meaningful without supplying direct attendance or a prestige threshold."
+      },
+      {
+        "claim_id": "WHCLAIM019",
+        "ROOT_own_finite_literal_join_reason": "WI08 and eleven belonging/refusal comparisons support enjoyed company together with compulsory rooms and specific refusal; Rena's monitoring visit supplies neither assistance nor accepted occult belief or family history."
+      },
+      {
+        "claim_id": "WHCLAIM020",
+        "ROOT_own_finite_literal_join_reason": "WI09 supports Teacher ceasing pressure, Eri's apology, Rena naming failed prevention and actual cleanup with reported restoration. Nine helper/remedy comparisons do not expand that local response into a clinical cause or complete legal settlement."
+      },
+      {
+        "claim_id": "WHCLAIM021",
+        "ROOT_own_finite_literal_join_reason": "WI09 and seven dissent/accommodation comparisons locate the real off-ramp and continuing museum/wish objections; neither ongoing consequence nor positive accommodation cancels the other or proves permanent appeals machinery."
+      },
+      {
+        "claim_id": "WHCLAIM022",
+        "ROOT_own_finite_literal_join_reason": "WI10 and seven information/encouragement comparisons preserve actual support, future viewing and inwardly labeled encouragement alongside failed prevention and withheld supplies; Teacher's help is not informed universal authorization."
+      },
+      {
+        "claim_id": "WHCLAIM023",
+        "ROOT_own_finite_literal_join_reason": "WI10 locates first detention, reputation-based release, unfiled garden excuse/escape and prospective ordinary museum access effort as distinct Schale actions; no common comparison is needed to invent a stable privilege."
+      },
+      {
+        "claim_id": "WHCLAIM024",
+        "ROOT_own_finite_literal_join_reason": "WI11 preserves the multi-school band and reported Trinity statue/anomaly connections at their local modes; no further MAIN arc, shared causal mechanism, absolute chronology or global variant/family join follows."
+      },
+      {
+        "claim_id": "WHCLAIM025",
+        "ROOT_own_finite_literal_join_reason": "WI11 and O011/O030/O096 make mediated audience expansion and unequal collection access consequential without achieved entry, inspected security or a completed workaround; separate I008 duty remains separate."
+      },
+      {
+        "claim_id": "WHCLAIM026",
+        "ROOT_own_finite_literal_join_reason": "WI12 locates repeated property/danger objections, requested adult intervention, explicit activity refusal and accepted absence. Seventeen refusal comparisons preserve ordinary alternatives without reducing Rena to theatrics or predicting inevitable conversion."
+      },
+      {
+        "claim_id": "WHCLAIM027",
+        "ROOT_own_finite_literal_join_reason": "WI12/direct O093 and O046/O079/O091 distinguish represented bell action from Tsumugi's inferred motive; subsequent credit and continued objection show help and dissent in one recipient without universal belief or permission."
+      },
+      {
+        "claim_id": "WHCLAIM028",
+        "ROOT_own_finite_literal_join_reason": "WI13/direct O093 with ten privacy/object/name comparisons supports present covered expression and Kanoe's protective request, not a complete inspected archive; present confidence need not make past painful canvases public property."
+      },
+      {
+        "claim_id": "WHCLAIM029",
+        "ROOT_own_finite_literal_join_reason": "WI13 and O018/O021/O072 preserve failed search, changed historical layout, reported magic square and observed statue movement at their actual grades; neither design computation, cause, full archive nor lawful access is established."
+      },
+      {
+        "claim_id": "WHCLAIM030",
+        "ROOT_own_finite_literal_join_reason": "WI14 and nine cost/rest/afterstate comparisons retain Rena's conditions, Teacher's failed prevention and differing detention appraisals; Kanoe's warm food cannot substitute for Rena's calm or technical/medical/property settlement."
+      },
+      {
+        "claim_id": "WHCLAIM031",
+        "ROOT_own_finite_literal_join_reason": "WI14/O020 match the second course's real off-ramp, LEDs/tape and completed lights with renewed detention; different material safety and chosen bell assistance do not establish universal lawful entry or structural liberation."
+      },
+      {
+        "claim_id": "WHCLAIM032",
+        "ROOT_own_finite_literal_join_reason": "WI15 and sixteen ordinary/art/food comparisons retain actual performance/cafe company, wanted tastes and craft before completed museum, cake or individual wish. Intrinsic positive goods coexist with imposed rooms and unequal freedom."
+      },
+      {
+        "claim_id": "WHCLAIM033",
+        "ROOT_own_finite_literal_join_reason": "WI15 and nineteen recipient/cost comparisons support differentiated confidence, calm/help, protection/secrecy and Guard sleep/work; these directed outcomes explain more than a single good/bad school verdict."
+      },
+      {
+        "claim_id": "WHCLAIM034",
+        "ROOT_own_finite_literal_join_reason": "WR01/direct O093 starts ONE required Eri–Rena section from represented ensemble introductions, distinct majors, requests and credit with peer/Teacher mediation; private origins or manufactured intimacy are unnecessary."
+      },
+      {
+        "claim_id": "WHCLAIM035",
+        "ROOT_own_finite_literal_join_reason": "WR02/direct O093 and O015/O064 preserve Eri's creative desire, Rena's compulsory-room/conditional-agreement costs and Kanoe's separate pressure. Neither formal Eri control nor no agreement at all describes the source accurately."
+      },
+      {
+        "claim_id": "WHCLAIM036",
+        "ROOT_own_finite_literal_join_reason": "WR03/direct O093 with O014/O055 supports recurring request/objection/monitoring/credit as relational grammar; Rena's enjoyed company is warm ordinary content that leaves disbelief and each specific refusal intact."
+      },
+      {
+        "claim_id": "WHCLAIM037",
+        "ROOT_own_finite_literal_join_reason": "WR04/direct O093 locates specific disputed objects—statue cause, room damage, prevention, dangerous entry and museum access—so both fashion/calm and painting aspirations remain positive without diagnosis or permanent rivalry."
+      },
+      {
+        "claim_id": "WHCLAIM038",
+        "ROOT_own_finite_literal_join_reason": "WR05/direct O093 with twelve helper/object/refusal comparisons preserves actual Teacher, Kanoe, Rena and peer directions. Eri's later credit connects the ensemble-supported Eri–Rena section without fictional direct dyadic substitutions."
+      },
+      {
+        "claim_id": "WHCLAIM039",
+        "ROOT_own_finite_literal_join_reason": "WR06/direct O093 with fifteen secrecy/disclosure comparisons distinguishes monitoring, withheld supplies, failed assurance and unnotified activity. Cooperation and confidence cannot retrospectively demonstrate shared information, accepted risk or common magical belief."
+      },
+      {
+        "claim_id": "WHCLAIM040",
+        "ROOT_own_finite_literal_join_reason": "WR07/direct O093 with six role/mandate/recognition comparisons keeps chairs, age, majors and mediated Council praise as local asymmetries, not formal private domination, objective artistic rank or onsite delegated power."
+      },
+      {
+        "claim_id": "WHCLAIM041",
+        "ROOT_own_finite_literal_join_reason": "WR08/direct O093 with O054/O101 keeps pressure and explosion as a real rupture while directing Rena's failed-prevention accusation to the adult; Eri's apology and cleanup do not invent a private quarrel or unanimous settled harm."
+      },
+      {
+        "claim_id": "WHCLAIM042",
+        "ROOT_own_finite_literal_join_reason": "WR09/direct O093 and nine off-ramp/stage comparisons support accepted withdrawal followed by new bell help and credit; inferred guilt is not sole motive, and new cooperation does not revoke earlier or next-plan refusal."
+      },
+      {
+        "claim_id": "WHCLAIM043",
+        "ROOT_own_finite_literal_join_reason": "WR10/direct O093 and sixteen afterstate/wish comparisons keep renewed confidence, Tsumugi's requested performance and Rena's calm objection distinct. Actual cafe presence differs from wanted cake and future tea, painting or museum entry, so positive continuity is no completed career or wish-conversion claim."
+      },
+      {
+        "claim_id": "WHCLAIM044",
+        "ROOT_own_finite_literal_join_reason": "WR11/direct O093 and ten mode/actor comparisons preserve metaphor, circle/square vocabulary, reports, inward/choice/log modes and known label drift; maintained connected meaning supplies neither heard prosody nor repaired canonical identities."
+      },
+      {
+        "claim_id": "WHCLAIM045",
+        "ROOT_own_finite_literal_join_reason": "WR12/direct O093 and four helper/offer comparisons explain care as a mediated network with adult limits, Manami's relay and Rena's self-surrender; ONE embedded duty is substantial without completing character, new dyadic or I008 homes."
+      },
+      {
+        "claim_id": "WHCLAIM046",
+        "ROOT_own_finite_literal_join_reason": "WI07/WI12/WI14 give the coercion rival its real compulsory rooms, pressure and detention. Actual off-ramp, private boundaries, cleanup and ordinary company limit the universal-illusion reading without cancelling coercion."
+      },
+      {
+        "claim_id": "WHCLAIM047",
+        "ROOT_own_finite_literal_join_reason": "WI03/WI14/WI15 with O005/O065 give the success rival real beauty and praise, while unnotified work, initial pressure, Guard fatigue and renewed detention prevent universal vindication or prospective access becoming accomplished."
+      },
+      {
+        "claim_id": "WHCLAIM048",
+        "ROOT_own_finite_literal_join_reason": "WI07/WI13 with O018/O057/O099 keep observed movement and unresolved voice as a live supernatural possibility; an admitted initial prank, LEDs/tape and guards' play defeat a single certified mechanism without globally explaining the strange."
+      },
+      {
+        "claim_id": "WHCLAIM049",
+        "ROOT_own_finite_literal_join_reason": "WI03/WI11 with O012/O073 keep Manami's relayed recognition institutionally significant, while onsite presence, viewpoint, exhibit, image possession and formal visit remain unperformed; praise cannot implement every right."
+      },
+      {
+        "claim_id": "WHCLAIM050",
+        "ROOT_own_finite_literal_join_reason": "WI08/WI15 with seven taste/reception comparisons preserve Kanoe's liking without reason, Tsumugi's company and Eri's confidence as intrinsic goods. Rena's different calm preference prevents universal aesthetic consensus without diminishing small pleasures."
+      },
+      {
+        "claim_id": "WHCLAIM051",
+        "ROOT_own_finite_literal_join_reason": "WI08/WI12 and O046/O053/O055/O060 retain Rena's affection, fashion dream, acknowledged refusal, later help and renewed objections as one connected recipient sequence, defeating both merely contrarian and secretly converted labels."
+      },
+      {
+        "claim_id": "WHCLAIM052",
+        "ROOT_own_finite_literal_join_reason": "WI08/WI15 with twelve aspiration/result comparisons give Eri actual felt possibility without objective rank, completed representative painting or clinical cure; earlier desire already mattered before useful display."
+      },
+      {
+        "claim_id": "WHCLAIM053",
+        "ROOT_own_finite_literal_join_reason": "WI04/WI13 with five privacy/repair comparisons support Kanoe's protected canvases and Eri's local reported restoration while leaving withheld facts, property settlement and disputed exclusive museum access visible."
+      }
+    ],
+    "new105": [
+      {
+        "owner_id": "O000",
+        "ROOT_own_finite_reason": "Different mint pleasures remain positive before a finished meal, while ignored warning and kitchen disorder bound method; plural Wildhunt liking cannot authorize every condition breach."
+      },
+      {
+        "owner_id": "O001",
+        "ROOT_own_finite_reason": "Asuna's reported service earnings and Neru's wanted jacket remain particular goods beside refused permanent work; Rena's later bell cannot be converted into indefinite ritual duty."
+      },
+      {
+        "owner_id": "O002",
+        "ROOT_own_finite_reason": "Nodoka's home and telescope interests preserve belonging without licensing forced contact; imposed Wildhunt rooms and later respected absence retain different choice scopes."
+      },
+      {
+        "owner_id": "O003",
+        "ROOT_own_finite_reason": "Pizza and invention have intrinsic craft value while unauthorized modification and distress remain; successful lights cannot supply another person's property permission or restoration."
+      },
+      {
+        "owner_id": "O004",
+        "ROOT_own_finite_reason": "Yuuka's fairness objection and Chihiro's correction establish local response routes, not fully corrected rumor circulation; named Wildhunt praise likewise cannot settle all access costs."
+      },
+      {
+        "owner_id": "O005",
+        "ROOT_own_finite_reason": "Izumi's pleasure and reported hygiene check retain separate scopes alongside Iori's adverse response; no chemical cause or universal safety follows, including for artistic reception."
+      },
+      {
+        "owner_id": "O006",
+        "ROOT_own_finite_reason": "Food visits retain concrete care while surrender, shooting and threatened injection are distinct acts; offered attention cannot mean completed therapy or consent to Wildhunt force."
+      },
+      {
+        "owner_id": "O007",
+        "ROOT_own_finite_reason": "Tsurugi's welcome and Hasumi's initial aroma pleasure remain recipient-specific beside compelled contact and origin rejection; one audience's liking cannot speak for all."
+      },
+      {
+        "owner_id": "O008",
+        "ROOT_own_finite_reason": "Ibuki's cocoa and Iroha's work burden identify different material recipients; deductions and percentage plans do not pay accounts, as art praise does not settle guard costs."
+      },
+      {
+        "owner_id": "O009",
+        "ROOT_own_finite_reason": "Airi's talk and Kazusa's wanted holiday give leisure positive content despite rescue, danger and spoiled rest; successful art cannot restore each recipient's time by inference."
+      },
+      {
+        "owner_id": "O010",
+        "ROOT_own_finite_reason": "Picnic care and a labor assignment have particular value while Ayane lacks the omitted combat information; helpful cleanup cannot retroactively approve undisclosed Wildhunt acts."
+      },
+      {
+        "owner_id": "O011",
+        "ROOT_own_finite_reason": "Haruka's belonging and Mutsuki's amusement remain meaningful while Aru's withdrawal vow is unfulfilled; an intention cannot establish a completed reform, exit or access grant."
+      },
+      {
+        "owner_id": "O012",
+        "ROOT_own_finite_reason": "Pina's rest and Umika's accepted smaller making idea are meaningful before acquisition or festival revival; praised Wildhunt viewpoint and tea plans remain prospective."
+      },
+      {
+        "owner_id": "O013",
+        "ROOT_own_finite_reason": "Kaede's wanted recognition, Tsubaki's sleep and Mimori's untested seasoning retain different desires; Eri's confidence cannot establish finished art or lifetime quality."
+      },
+      {
+        "owner_id": "O014",
+        "ROOT_own_finite_reason": "Kaede's company and cat care coexist with unannounced intervention and declined invitation; Rena's warm relations need a new answer for each operation."
+      },
+      {
+        "owner_id": "O015",
+        "ROOT_own_finite_reason": "Yuzu's actual wins and apology retain local value while pressured attendance, wanted fame and a possible bug remain bounded; successful recognition is not general autonomy."
+      },
+      {
+        "owner_id": "O016",
+        "ROOT_own_finite_reason": "Rumi's meals and privacy and Shun's quiet tea are real interests despite rumor and persistent misunderstanding; social warmth cannot repair all Wildhunt knowledge."
+      },
+      {
+        "owner_id": "O017",
+        "ROOT_own_finite_reason": "Fubuki's rest and Kirino's ambition remain worker-specific beside hostage response and suspension; effective action does not grant holiday, legal remedy or erased guard workload."
+      },
+      {
+        "owner_id": "O018",
+        "ROOT_own_finite_reason": "Mel's embedded fiction and Minori's letter retain different imaginative and material modes; ashes or thematic resemblance cannot identify a burner, later voice or statue mechanism."
+      },
+      {
+        "owner_id": "O019",
+        "ROOT_own_finite_reason": "Tsukuyo's practical help and quiet stars and Izuna's welcome matter before formal status; neither interview nor useful participation authenticates an official Wildhunt office."
+      },
+      {
+        "owner_id": "O020",
+        "ROOT_own_finite_reason": "Ration choice and refused expired cans keep material preferences specific while disposal and smell leave causation bounded; available supplies do not prove lawful or harmless operation."
+      },
+      {
+        "owner_id": "O021",
+        "ROOT_own_finite_reason": "Maker hopes and Noa's curiosity have building value while payer risk and unoffered warning persist; a hedged technical coda cannot establish theft or calibrated prediction."
+      },
+      {
+        "owner_id": "O022",
+        "ROOT_own_finite_reason": "Chise's preparations, Kaho's rest and particular thanks are positive without licensing covert following or correcting misread rebellion; care must retain each recipient's information."
+      },
+      {
+        "owner_id": "O023",
+        "ROOT_own_finite_reason": "Rei's practice and wanted home run remain chosen aims beside rejected restraint and return; this report cannot import a later achieved performance or unlimited training control."
+      },
+      {
+        "owner_id": "O024",
+        "ROOT_own_finite_reason": "Kisaki's solitary practice and particular acceptance matter without establishing a general office mandate; calm or discipline cannot supply an unobserved clinical result."
+      },
+      {
+        "owner_id": "O025",
+        "ROOT_own_finite_reason": "Rest, snow memory, the received ice pop and chosen later digging retain separate stages and recipients; later digging cannot authorize the refused earlier bag or establish revival."
+      },
+      {
+        "owner_id": "O026",
+        "ROOT_own_finite_reason": "Nagisa's tea and wanted company remain positive while refused hand-leading and unrecovered energy survive; sociability cannot transfer bodily permission."
+      },
+      {
+        "owner_id": "O027",
+        "ROOT_own_finite_reason": "Nine distinct gifts, including Rio's gratitude, keep meaningful maker and recipient ends alongside false pretexts and hidden additions; reception alone cannot demonstrate informed agreement."
+      },
+      {
+        "owner_id": "O028",
+        "ROOT_own_finite_reason": "Handmade gifts, food and chosen waiting are intrinsic goods; the ignored EVENT Kei request persists despite later allowance, which supplies neither prior permission nor cross-variant consent."
+      },
+      {
+        "owner_id": "O029",
+        "ROOT_own_finite_reason": "Izuna's chosen rescue changes allegiance in the particular action; exploitation and the subsequent club inquiry leave membership and durable autonomy unestablished."
+      },
+      {
+        "owner_id": "O030",
+        "ROOT_own_finite_reason": "Class227's home, literature, pudding, wages and leave are recipient goods; restoring an office or promising rights does not perform payment or rest, just as recognition does not open a museum."
+      },
+      {
+        "owner_id": "O031",
+        "ROOT_own_finite_reason": "A holiday's local sea, food and next-day energy can be real while driving, opponent and cleanup costs remain unequal; photographs cannot resolve another recipient's assent."
+      },
+      {
+        "owner_id": "O032",
+        "ROOT_own_finite_reason": "Hina's coffee, waves, games and swimming desire deserve attention without completed swimming or training; a stress inference cannot establish therapeutic recovery."
+      },
+      {
+        "owner_id": "O033",
+        "ROOT_own_finite_reason": "Shun's chosen remedy and bounded forgiveness offer local care without cancelling refused food, deception or restraint; mechanism and privacy repair require separate evidence."
+      },
+      {
+        "owner_id": "O034",
+        "ROOT_own_finite_reason": "C&C hospitality and choices remain meaningful beside captive pleas, Koyuki's pursuit refusal and the adult's merely proposed rescue; actor and stage prevent false completion."
+      },
+      {
+        "owner_id": "O035",
+        "ROOT_own_finite_reason": "Miku's self-presentation and desire to meet an audience matter before a concert; a written preparation/data request does not demonstrate attendance, permission or an audible performance."
+      },
+      {
+        "owner_id": "O036",
+        "ROOT_own_finite_reason": "Nodoka's home and livelihood, Shigure's company and guest tastes retain belonging and pleasure; overwork, refused help and Meg's blast leave actual restoration unmet."
+      },
+      {
+        "owner_id": "O037",
+        "ROOT_own_finite_reason": "Haruka's work, Kayoko's album, Mutsuki's toys and Aru's recovery motive keep resources concrete; an empty safe and unpaid ends cannot become a settled account through appreciation."
+      },
+      {
+        "owner_id": "O038",
+        "ROOT_own_finite_reason": "Ui's anti-mess wish, Mari's intended display and Atsuko's viewing remain distinct, as do adult-to-Ayumu coffee and Ayumu-to-adult chocolate; the old GSC correction has that bounded direction, not a whole-source authority."
+      },
+      {
+        "owner_id": "O039",
+        "ROOT_own_finite_reason": "Rest, walking, maintenance, art and bonus desires remain worker ends beside subdual; a successful intervention alone proves neither pharmacological cause, identity nor universal care."
+      },
+      {
+        "owner_id": "O040",
+        "ROOT_own_finite_reason": "Ui's expertise and Shimiko's referral aid object care, but Hinata reports Shimiko's private-property objection; that reported objection differs from Ui's visitor complaint and cannot supply common assent or completed restoration."
+      },
+      {
+        "owner_id": "O041",
+        "ROOT_own_finite_reason": "Michiru's recognition, collectibles and Ibuki's trust represent different contributions; useful distributed cooperation need not imply everyone knew Niya's plan or paid the bill."
+      },
+      {
+        "owner_id": "O042",
+        "ROOT_own_finite_reason": "Shiroko's wanted fishing is valuable while the received report leaves achievement unestablished and describes a ruined rod; this narrow limit is no global disproof of fishing, and tactical success cannot authorize commandeering."
+      },
+      {
+        "owner_id": "O043",
+        "ROOT_own_finite_reason": "Shizuko's project pleasure, substitute effort, praise and feast supply particular gains; Serika's dissent and title, payment and refund limits leave legitimacy and material settlement unresolved."
+      },
+      {
+        "owner_id": "O044",
+        "ROOT_own_finite_reason": "Kazusa's self-naming and relief support the particular consultation without universal disclosure, teasing permission or a permanent essence; Eri's local confidence can be interpreted with the same boundary."
+      },
+      {
+        "owner_id": "O045",
+        "ROOT_own_finite_reason": "Kazusa's request to stop harassment without punishment defines the wanted remedy; interruption alone cannot establish cessation, motive, injury or accepted comprehensive repair."
+      },
+      {
+        "owner_id": "O046",
+        "ROOT_own_finite_reason": "Kazusa's escape and safety check are concrete agency, while old photos and fairness disclosures license neither future pursuit nor a violent true-self diagnosis."
+      },
+      {
+        "owner_id": "O047",
+        "ROOT_own_finite_reason": "Kazusa's clearer request, Suzumi's voluntary grouping and hearing Reisa are finite accommodation; they do not extend jurisdiction or authorize every pursuit method."
+      },
+      {
+        "owner_id": "O048",
+        "ROOT_own_finite_reason": "Reisa's courage and tentative response retain practical value; complaints about attacks and uncertain actor attribution prevent legal justification, unlimited force permission or durable reform."
+      },
+      {
+        "owner_id": "O049",
+        "ROOT_own_finite_reason": "Airi's affirmation and Natsu's ingredient discussion are friendship and craft goods; unequal information and photo exposure still require accepted disclosure and implemented help."
+      },
+      {
+        "owner_id": "O050",
+        "ROOT_own_finite_reason": "Kazusa's appreciation of arrival and chosen work resist reduction to public reputation; shame and warmth alone prove neither diagnosis nor repaired dissemination."
+      },
+      {
+        "owner_id": "O051",
+        "ROOT_own_finite_reason": "Friends' warm reenactment keeps meaningful intent while Kazusa requests accurate correction and Reisa renews the rumor; intent cannot certify recipient endorsement of an imposed identity."
+      },
+      {
+        "owner_id": "O052",
+        "ROOT_own_finite_reason": "Explanations and Yoshimi's hearing open a response path, but Kazusa's question whether she requested help remains decisive; silence cannot be invented as agreement or remedy."
+      },
+      {
+        "owner_id": "O053",
+        "ROOT_own_finite_reason": "Reisa's promise and Suzumi's help offer keep a possible change open; a renewed challenge prevents treating those words as lasting cessation or reform."
+      },
+      {
+        "owner_id": "O054",
+        "ROOT_own_finite_reason": "Reisa checking injury, taking responsibility and returning a letter are directed care; unwanted memory and protected distance remain, so warmth establishes neither cure nor continued pursuit permission."
+      },
+      {
+        "owner_id": "O055",
+        "ROOT_own_finite_reason": "Kazusa's renewed concern and irritation coexist as recipient responses; adult-arranged contact cannot erase aversion or turn every later meeting into welcome."
+      },
+      {
+        "owner_id": "O056",
+        "ROOT_own_finite_reason": "Contested labels, Natsu's theatrical interest and Yoshimi's desire to help are distinct aims; taking a position does not supply police jurisdiction, permission or an achieved rescue."
+      },
+      {
+        "owner_id": "O057",
+        "ROOT_own_finite_reason": "Reisa withholding identity and friends actually arriving retain privacy and company value; irritating underworld naming and exhaustion still leave disclosure repair, examination and explosive cause unproved."
+      },
+      {
+        "owner_id": "O058",
+        "ROOT_own_finite_reason": "The returned letter, trusted bench and hunger-directed meal offer materialize particular care; an offer is no actual arrest, clinical recovery or established romance."
+      },
+      {
+        "owner_id": "O059",
+        "ROOT_own_finite_reason": "Cafe warmth, cake and Kazusa's report of help give ordinary friendship a positive afterstate while failures and irritation survive; no omniscient mediation or clinical cure follows."
+      },
+      {
+        "owner_id": "O060",
+        "ROOT_own_finite_reason": "Parfait and ordinary routine remain meaningful continuity despite a recurring rescue myth; renewed words establish neither a future performed fight nor lasting cessation."
+      },
+      {
+        "owner_id": "O061",
+        "ROOT_own_finite_reason": "Noa's records and tea, Yuuka's schedule and rest, and revised offers serve different recipients; helpers' fatigue, unwanted clothing and denied rest prevent universal service success."
+      },
+      {
+        "owner_id": "O062",
+        "ROOT_own_finite_reason": "Hasumi's mixed worst-and-fun judgment and recognition cannot answer for Chihiro's displeasure, Hibiki's wish to end or continuing hunger and rest costs."
+      },
+      {
+        "owner_id": "O063",
+        "ROOT_own_finite_reason": "Handmade alternatives, tea, disclosure and party goods can support care while Mine's blocked explanation and force remain accountable; support does not create every patient's assent."
+      },
+      {
+        "owner_id": "O064",
+        "ROOT_own_finite_reason": "Fuuka's recognition and Juri's pleasure and failure preserve kitchen agency; later listening cannot retrospectively authorize commandeering, kidnapping or unpaid work, and this report is no payroll audit."
+      },
+      {
+        "owner_id": "O065",
+        "ROOT_own_finite_reason": "Distributed thanks, play, food and rest preserve particular afterstate goods while destruction reports leave causal responsibility, rebuilding and recipient permissions unsettled."
+      },
+      {
+        "owner_id": "O066",
+        "ROOT_own_finite_reason": "Contact reports, cycling, recognition and food preserve care while listening is deferred; restraint and masks do not establish enduring contact or authorize joining source-local Minato identities."
+      },
+      {
+        "owner_id": "O067",
+        "ROOT_own_finite_reason": "Scarf warmth, home, food and friends are concrete recipient goods without authenticated self-blame causation; they need not be discarded because the complete safer roster or cure is missing."
+      },
+      {
+        "owner_id": "O068",
+        "ROOT_own_finite_reason": "Ayumu's request, Aoi's reported approval and student initiative matter while suspended authority, available money and promised coverage remain distinct from actual payment or all-staff work."
+      },
+      {
+        "owner_id": "O069",
+        "ROOT_own_finite_reason": "Toki's E825 affiliation, reported command rights and Neru's praise/apology give specific standing; E843's use-then-exclusion refusal cannot be borrowed into E825 or substitute for terms and shared knowledge."
+      },
+      {
+        "owner_id": "O070",
+        "ROOT_own_finite_reason": "Rumi's cooking, Saya's refused impossible job and EVENT826 banquet ends remain specific; Kokona's fatigue, secret capture and prospective apology prevent settled compensation and must not migrate to E844 chronology."
+      },
+      {
+        "owner_id": "O071",
+        "ROOT_own_finite_reason": "Community fishing, cargo, knots, app work and actual enjoyed food are positive beside Saki's precise food, proximity and bed-sharing boundaries; later enjoyment licenses no earlier pressure or broader repair."
+      },
+      {
+        "owner_id": "O072",
+        "ROOT_own_finite_reason": "Ui's historical calm and the four separate seaside responses retain quiet interests and recipient distance; map and reburial obligations leave lost writing and universal library access reform unmet."
+      },
+      {
+        "owner_id": "O073",
+        "ROOT_own_finite_reason": "Mel and Momiji's reconciliation and freely completed manuscript are actual craft goods; refusal of secretarial appropriation, Minori's demand and outsourcing remains, while sales and final9:1 rights are unimplemented."
+      },
+      {
+        "owner_id": "O074",
+        "ROOT_own_finite_reason": "Hasumi's rest request and Ichika's reassurance give local relief while Ichika refuses Kasumi's claimed belonging; constrained accompaniment and proposed repair do not establish welcomed unrestricted membership."
+      },
+      {
+        "owner_id": "O075",
+        "ROOT_own_finite_reason": "Saten's valued meeting memory and one departure demonstration retain finite goods; the opening rest belongs to Sensei, not Eimi, and helpers' fatigue and failed guns prevent comprehensive equipment repair."
+      },
+      {
+        "owner_id": "O076",
+        "ROOT_own_finite_reason": "Reading, cocoa, food and sunrise with later chosen continuation matter; Chihiro's ordered outing and withheld details, Rei's changed-training refusal and game numbers remain separate from initial consent and body-weight evidence."
+      },
+      {
+        "owner_id": "O077",
+        "ROOT_own_finite_reason": "Hina's accepted responsibility and represented piano performance support art, and Ibuki's cocoa/play/clothes remain different interests; written performance cannot prove heard audio, hypnosis, publicity assent or budget repair."
+      },
+      {
+        "owner_id": "O078",
+        "ROOT_own_finite_reason": "Actual PS68/Saori work and23 differentiated gifts retain chosen ends and answered requests; one grateful recipient cannot establish safe contracts, everyone's gift assent or full compensation."
+      },
+      {
+        "owner_id": "O079",
+        "ROOT_own_finite_reason": "Umika choosing responsibility after an off-ramp adds real craft and festival/trip goods; her timing objection and undisclosed risk/cleanup prevent retrospective informed assent."
+      },
+      {
+        "owner_id": "O080",
+        "ROOT_own_finite_reason": "Airi being wanted before skill success gives friendship and aspiration value; practice and local self-acceptance do not validate the semla theory, talent measurement or clinical recovery."
+      },
+      {
+        "owner_id": "O081",
+        "ROOT_own_finite_reason": "Kanna's service desire, protection and thanks and Love's paid leisure matter beside imposed lifesaver work, algorithmic mishandling and refused tickets; an institutional remedy requires its actual terms."
+      },
+      {
+        "owner_id": "O082",
+        "ROOT_own_finite_reason": "Arius food, music, reunion and Saori's stage desire are specific goods beside secret forced protection, unpaid work, Misaki's discomfort and camera-knowledge limits; Azusa's unestablished attendance is report-bounded only."
+      },
+      {
+        "owner_id": "O083",
+        "ROOT_own_finite_reason": "The numerical defeat and later broad defense remain affirmative reported events while fine attribution is deferred; theatre, food and pandas neither create unanimous assent nor erase prior confinement/interrogation."
+      },
+      {
+        "owner_id": "O084",
+        "ROOT_own_finite_reason": "Kisaki's response to Kai's bargain and Kaguya's refusal of headship preserve choice under offered cure and title; festival opening alone neither remedies medical harm nor establishes every office's legitimacy."
+      },
+      {
+        "owner_id": "O085",
+        "ROOT_own_finite_reason": "Mari's chosen leadership and exit preserve artistic agency and ordinary interests; asking for photo disposal is not observed destruction and privately giving an image is not upload permission."
+      },
+      {
+        "owner_id": "O086",
+        "ROOT_own_finite_reason": "Accepted pajamas, games, cleanup, sleep and apology are actual warmth beside confinement, recording/privacy interference, opposed pursuit and ongoing filing; the goods do not discharge those separate burdens."
+      },
+      {
+        "owner_id": "O087",
+        "ROOT_own_finite_reason": "Seia's worth beyond prophecy, Rio's limits and C&C company resist usefulness-only belonging; Karin's information request and Neru's E843 exclusion refusal remain specific, with one-week terms and work pretext short of lasting repair."
+      },
+      {
+        "owner_id": "O088",
+        "ROOT_own_finite_reason": "Fuuka's interrupted rest and Juri's chosen service, pancakes and permitted practice matter; explosion, manager pressure and painful objected treatment leave compensation, safety and cure unresolved."
+      },
+      {
+        "owner_id": "O089",
+        "ROOT_own_finite_reason": "Rei's achieved grand slam and refusal of a professional contract affirm a realized aim and chosen club; overridden rest, awkward imposed goods and failed equipment still preclude universal training permission or wrist-safety proof."
+      },
+      {
+        "owner_id": "O090",
+        "ROOT_own_finite_reason": "Aoba's manga and safety desires, actual stopping, intact cargo and signatures demonstrate bounded work competence; the unwanted station visit, offered medicine and invited dinner remain distinct from accepted care or damage settlement."
+      },
+      {
+        "owner_id": "O091",
+        "ROOT_own_finite_reason": "Kikyou's quiet interests, Renge's stopping and the later chosen contest are particular agency; confidentiality pressure, tail contact and strain persist without performed final/prize, CPR or cure."
+      },
+      {
+        "owner_id": "O092",
+        "ROOT_own_finite_reason": "Actual barbecue, play and cleanup and Kasumi's reading/ice cream retain ordinary goods; covert labor, environmental/title limits and atonement do not enact structural repair or every rest preference."
+      },
+      {
+        "owner_id": "O093",
+        "ROOT_own_finite_reason": "The direct whole maintained185 E849 account supports Eri's confidence, protected canvases, heard Rena refusal, later bell choice and collective lights with mediated praise. First pressure, explosion, guard work and renewed detention remain, and future painting/museum access and unresolved voices/statue causes must stay open."
+      },
+      {
+        "owner_id": "O094",
+        "ROOT_own_finite_reason": "Miyo's wanted novels and refusal of Teacher's reading differ from Ritsu's craft, materials and favorite-author/cake affection. Titles, loss, blockade and Hiromi's uneven knowledge prevent shared-role, completed purchase or full privacy repair."
+      },
+      {
+        "owner_id": "O095",
+        "ROOT_own_finite_reason": "Suzumi's chosen joining/leaving, Reisa's interests and Shimiko's reading/sewing retain voluntary belonging; Love's actual win/feigned defeat, Ui's lost sleep and bounded cleanup cannot become a heroine victory, torture or universal service success."
+      },
+      {
+        "owner_id": "O096",
+        "ROOT_own_finite_reason": "Takane's criticism, Mel's making and differentiated reader tastes support plural reception; false biography, withdrawing readers and Ui's distance leave rights, ownership and future access unsettled."
+      },
+      {
+        "owner_id": "O097",
+        "ROOT_own_finite_reason": "Tsukuyo's chosen modeling today and repaired dress establish local agency while her ninja self-name remains; forced fitting/diet, withheld phone and unproved filming permission cannot become lasting bodily autonomy."
+      },
+      {
+        "owner_id": "O098",
+        "ROOT_own_finite_reason": "Kei's name/uniform, Alice's imperfect gift and refusal of erasure, Toki's hobbies and Eimi's peace give distinct meanings; co-design alone neither establishes pilot consent, health, machine restoration nor metaphysical identity."
+      },
+      {
+        "owner_id": "O099",
+        "ROOT_own_finite_reason": "Konoka's cooking, inquiry, Himari's admitted uncertainty and reunion preserve particular care; one planted rumor explains only its represented chain, leaving secret nonarrest, unconsulted contact and eating burdens."
+      },
+      {
+        "owner_id": "O100",
+        "ROOT_own_finite_reason": "Rumi's iced-tea wish, cooks' refusals, Kisaki's revised pace and Kokona's permitted walk are finite leisure and choice; collapse, factions, medicine timing and punishment remain, and later allowance does not cancel infiltration refusal."
+      },
+      {
+        "owner_id": "O101",
+        "ROOT_own_finite_reason": "Iroha's rest/privacy/rations/boat memory and rescue retain recipient goods while Sumika's own attack order then blame-shift and unfinished apology stay accountable; rescue does not settle cannon cause or photo permission."
+      },
+      {
+        "owner_id": "O102",
+        "ROOT_own_finite_reason": "Minato's cooking, Ami's recalled work, retreat/ice cream and partial debt retain concrete service goods while debt cancellation remains an offer; refused exception/bad-guy/extraction roles and extra paperwork preclude completed obligation or joined source-local identity."
+      },
+      {
+        "owner_id": "O103",
+        "ROOT_own_finite_reason": "Anna's own fear and warmth differ from Elina's admitted motivational projection; fuel is not battery, and forced praise plus injury/property risk leaves the race and restoration incomplete."
+      },
+      {
+        "owner_id": "O104",
+        "ROOT_own_finite_reason": "Gifts, cake, broadcasts, flowers, pudding/play and Arata's refusal retain their particular actual or wanted ends. Sora's wage motive is intrinsically meaningful without an achieved-payroll claim; this report establishes neither global nonpayment nor a complete payroll absence."
+      }
+    ],
+    "institution15": [
+      {
+        "id": "I01",
+        "ROOT_own_finite_reason": "Reported club/room order, contradictory Rule13 and situational release form substantial formal-authority analysis without inspected legislation or general immunity."
+      },
+      {
+        "id": "I02",
+        "ROOT_own_finite_reason": "Inspection, detention, making and Eri's redirection are actual capacities, with Rena's changed participation showing efficacy need not be continuous obedience or authorization."
+      },
+      {
+        "id": "I03",
+        "ROOT_own_finite_reason": "Beautiful light reception and relayed named praise are actual recognition while renewed detention and future display/visit keep distinct institutional endpoints."
+      },
+      {
+        "id": "I04",
+        "ROOT_own_finite_reason": "Covered canvases, protected inspection, cleanup, promised payment and actual LEDs distinguish recipient/object resources from universal access and financial settlement."
+      },
+      {
+        "id": "I05",
+        "ROOT_own_finite_reason": "Reports of past incidents, present explosion/restraint and guards' admitted play preserve graded force and technical limits without invented injury, mana drain or universal safety."
+      },
+      {
+        "id": "I06",
+        "ROOT_own_finite_reason": "Incompatible art, company, calm and fashion wants and changed responses are actual institutional differences; they do not establish permanent camps, school personality or global identity joins."
+      },
+      {
+        "id": "I07",
+        "ROOT_own_finite_reason": "Occult vocabulary and actual artifact-making are meaningful cultural practice; initial pressure and later off-ramp preserve uneven norms without retrospective assent or certified magic."
+      },
+      {
+        "id": "I08",
+        "ROOT_own_finite_reason": "Painting, fashion, company and liking are belonging before prestige or crisis utility; monitoring and refused attendance remain compatible with affection."
+      },
+      {
+        "id": "I09",
+        "ROOT_own_finite_reason": "Apology, listening, cleanup and accommodated withdrawal are real local response routes while continued objection/detention leave complete settlement and appeals machinery unproved."
+      },
+      {
+        "id": "I10",
+        "ROOT_own_finite_reason": "Teacher's inquiry respect, help and future offers coexist with failed prevention, unnotified evasion and incomplete knowledge; selective deference is no omniscient authorization."
+      },
+      {
+        "id": "I11",
+        "ROOT_own_finite_reason": "Multi-school music, reported statue origin and mediated praise provide specific external connections; museum admission, mechanism, absolute chronology and new MAIN census remain separate."
+      },
+      {
+        "id": "I12",
+        "ROOT_own_finite_reason": "Rena's property/danger objections, respected withdrawal and later bell contribution are a consequential refusal history with ongoing dissent, not inevitable conversion."
+      },
+      {
+        "id": "I13",
+        "ROOT_own_finite_reason": "Private retained canvases and historically reinterpreted layout matter without inspected art archive, independent square computation or resolved statue cause."
+      },
+      {
+        "id": "I14",
+        "ROOT_own_finite_reason": "First explosion/detention and second LED-making/off-ramp preserve different crisis outcomes; actual art success retains Guard costs, unauthorized entry and renewed detention."
+      },
+      {
+        "id": "I15",
+        "ROOT_own_finite_reason": "Dreams, art, cafe company and ordinary tastes are affirmative functions without fulfilled every wish; recipient confidence, calm, privacy/secrecy and lost sleep prevent one good/bad verdict."
+      }
+    ],
+    "ONE_named12": [
+      {
+        "id": "ER01",
+        "claim_id": "WHCLAIM034",
+        "ROOT_own_finite_reason": "WR01/direct O093 starts ONE required Eri–Rena section from represented ensemble introductions, distinct majors, requests and credit with peer/Teacher mediation; private origins or manufactured intimacy are unnecessary.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER02",
+        "claim_id": "WHCLAIM035",
+        "ROOT_own_finite_reason": "WR02/direct O093 and O015/O064 preserve Eri's creative desire, Rena's compulsory-room/conditional-agreement costs and Kanoe's separate pressure. Neither formal Eri control nor no agreement at all describes the source accurately.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER03",
+        "claim_id": "WHCLAIM036",
+        "ROOT_own_finite_reason": "WR03/direct O093 with O014/O055 supports recurring request/objection/monitoring/credit as relational grammar; Rena's enjoyed company is warm ordinary content that leaves disbelief and each specific refusal intact.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER04",
+        "claim_id": "WHCLAIM037",
+        "ROOT_own_finite_reason": "WR04/direct O093 locates specific disputed objects—statue cause, room damage, prevention, dangerous entry and museum access—so both fashion/calm and painting aspirations remain positive without diagnosis or permanent rivalry.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER05",
+        "claim_id": "WHCLAIM038",
+        "ROOT_own_finite_reason": "WR05/direct O093 with twelve helper/object/refusal comparisons preserves actual Teacher, Kanoe, Rena and peer directions. Eri's later credit connects the ensemble-supported Eri–Rena section without fictional direct dyadic substitutions.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER06",
+        "claim_id": "WHCLAIM039",
+        "ROOT_own_finite_reason": "WR06/direct O093 with fifteen secrecy/disclosure comparisons distinguishes monitoring, withheld supplies, failed assurance and unnotified activity. Cooperation and confidence cannot retrospectively demonstrate shared information, accepted risk or common magical belief.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER07",
+        "claim_id": "WHCLAIM040",
+        "ROOT_own_finite_reason": "WR07/direct O093 with six role/mandate/recognition comparisons keeps chairs, age, majors and mediated Council praise as local asymmetries, not formal private domination, objective artistic rank or onsite delegated power.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER08",
+        "claim_id": "WHCLAIM041",
+        "ROOT_own_finite_reason": "WR08/direct O093 with O054/O101 keeps pressure and explosion as a real rupture while directing Rena's failed-prevention accusation to the adult; Eri's apology and cleanup do not invent a private quarrel or unanimous settled harm.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER09",
+        "claim_id": "WHCLAIM042",
+        "ROOT_own_finite_reason": "WR09/direct O093 and nine off-ramp/stage comparisons support accepted withdrawal followed by new bell help and credit; inferred guilt is not sole motive, and new cooperation does not revoke earlier or next-plan refusal.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER10",
+        "claim_id": "WHCLAIM043",
+        "ROOT_own_finite_reason": "WR10/direct O093 and sixteen afterstate/wish comparisons keep renewed confidence, Tsumugi's requested performance and Rena's calm objection distinct. Actual cafe presence differs from wanted cake and future tea, painting or museum entry, so positive continuity is no completed career or wish-conversion claim.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER11",
+        "claim_id": "WHCLAIM044",
+        "ROOT_own_finite_reason": "WR11/direct O093 and ten mode/actor comparisons preserve metaphor, circle/square vocabulary, reports, inward/choice/log modes and known label drift; maintained connected meaning supplies neither heard prosody nor repaired canonical identities.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      },
+      {
+        "id": "ER12",
+        "claim_id": "WHCLAIM045",
+        "ROOT_own_finite_reason": "WR12/direct O093 and four helper/offer comparisons explain care as a mediated network with adult limits, Manami's relay and Rena's self-surrender; ONE embedded duty is substantial without completing character, new dyadic or I008 homes.",
+        "ONE_existing_named_duty": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+        "count_effect": "12 substantive dimensions discharge ONE existing duty only after separate ROOT adoption/install, not12 new duties or a dyadic required home"
+      }
+    ],
+    "rival8": [
+      {
+        "rival_claim_id": "WHCLAIM046",
+        "ROOT_own_finite_reason": "WI07/WI12/WI14 give the coercion rival its real compulsory rooms, pressure and detention. Actual off-ramp, private boundaries, cleanup and ordinary company limit the universal-illusion reading without cancelling coercion."
+      },
+      {
+        "rival_claim_id": "WHCLAIM047",
+        "ROOT_own_finite_reason": "WI03/WI14/WI15 with O005/O065 give the success rival real beauty and praise, while unnotified work, initial pressure, Guard fatigue and renewed detention prevent universal vindication or prospective access becoming accomplished."
+      },
+      {
+        "rival_claim_id": "WHCLAIM048",
+        "ROOT_own_finite_reason": "WI07/WI13 with O018/O057/O099 keep observed movement and unresolved voice as a live supernatural possibility; an admitted initial prank, LEDs/tape and guards' play defeat a single certified mechanism without globally explaining the strange."
+      },
+      {
+        "rival_claim_id": "WHCLAIM049",
+        "ROOT_own_finite_reason": "WI03/WI11 with O012/O073 keep Manami's relayed recognition institutionally significant, while onsite presence, viewpoint, exhibit, image possession and formal visit remain unperformed; praise cannot implement every right."
+      },
+      {
+        "rival_claim_id": "WHCLAIM050",
+        "ROOT_own_finite_reason": "WI08/WI15 with seven taste/reception comparisons preserve Kanoe's liking without reason, Tsumugi's company and Eri's confidence as intrinsic goods. Rena's different calm preference prevents universal aesthetic consensus without diminishing small pleasures."
+      },
+      {
+        "rival_claim_id": "WHCLAIM051",
+        "ROOT_own_finite_reason": "WI08/WI12 and O046/O053/O055/O060 retain Rena's affection, fashion dream, acknowledged refusal, later help and renewed objections as one connected recipient sequence, defeating both merely contrarian and secretly converted labels."
+      },
+      {
+        "rival_claim_id": "WHCLAIM052",
+        "ROOT_own_finite_reason": "WI08/WI15 with twelve aspiration/result comparisons give Eri actual felt possibility without objective rank, completed representative painting or clinical cure; earlier desire already mattered before useful display."
+      },
+      {
+        "rival_claim_id": "WHCLAIM053",
+        "ROOT_own_finite_reason": "WI04/WI13 with five privacy/repair comparisons support Kanoe's protected canvases and Eri's local reported restoration while leaving withheld facts, property settlement and disputed exclusive museum access visible."
+      }
+    ],
+    "end16": [
+      {
+        "endpoint_id": "T01",
+        "ROOT_own_finite_reason": "Wanted lasting painting and offered viewing remain prospective until the actual completed artifact and viewing are represented."
+      },
+      {
+        "endpoint_id": "T02",
+        "ROOT_own_finite_reason": "Completed performance and actual cafe visit are affirmative; cake delivery/eating, romance and private continuity require their own endpoints."
+      },
+      {
+        "endpoint_id": "T03",
+        "ROOT_own_finite_reason": "Observed inspection/permission differs from reported previous incidents; safety, proportionality and universal entry policy are uninspected."
+      },
+      {
+        "endpoint_id": "T04",
+        "ROOT_own_finite_reason": "Room-assignment/no-change account stays Rena's report, with universal legal and actual request/result warrants separate."
+      },
+      {
+        "endpoint_id": "T05",
+        "ROOT_own_finite_reason": "Conditional pressure, actual blast/restraint/detention do not supply specific clinical damage or every recipient's freely informed assent."
+      },
+      {
+        "endpoint_id": "T06",
+        "ROOT_own_finite_reason": "Ceasing inquiry pressure is actual boundary respect; tea gathering or private explanation elected for disclosure is not completed."
+      },
+      {
+        "endpoint_id": "T07",
+        "ROOT_own_finite_reason": "Admitted first prank and observed statue movement coexist with unidentified later voice; no universal trick, ghost or crow actor identification."
+      },
+      {
+        "endpoint_id": "T08",
+        "ROOT_own_finite_reason": "Shared cleanup and Eri's reported restoration are local; covered canvases remain protected/uninspected and all-damage settlement unproved."
+      },
+      {
+        "endpoint_id": "T09",
+        "ROOT_own_finite_reason": "Actual refusal and confirmed absence with reported other sleeping remain consequential; later choice cannot grant retrospective ritual permission."
+      },
+      {
+        "endpoint_id": "T10",
+        "ROOT_own_finite_reason": "Accepted supplies after promised pay and actual buried LEDs/tape distinguish delivery from unprinted paid amount, contract or all mechanisms."
+      },
+      {
+        "endpoint_id": "T11",
+        "ROOT_own_finite_reason": "Directly represented bell assistance is actual; motive completeness, belief conversion and future authorization need separate evidence."
+      },
+      {
+        "endpoint_id": "T12",
+        "ROOT_own_finite_reason": "Completed segment/lights and acknowledged beauty are positive while admitted pretend weakness defeats that magical endpoint and preserves Guard costs."
+      },
+      {
+        "endpoint_id": "T13",
+        "ROOT_own_finite_reason": "Milia's relayed Manami praise stays mediated, and display/viewpoint/formal-visit proposals do not establish onsite presence or installed objects."
+      },
+      {
+        "endpoint_id": "T14",
+        "ROOT_own_finite_reason": "Actual thanks and renewed felt confidence are local, without completed wanted painting, lifetime rank or permanent clinical recovery."
+      },
+      {
+        "endpoint_id": "T15",
+        "ROOT_own_finite_reason": "Renewed detention and reported self-surrender persist after praise; exoneration, structural reform and compensation are separate."
+      },
+      {
+        "endpoint_id": "T16",
+        "ROOT_own_finite_reason": "Ordinary museum access remains proposed with no performed request/permission/entry; disputed irregular methods give no universal access."
+      }
+    ],
+    "gap14": [
+      {
+        "gap_id": "G01",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Ordinary art/fashion/taste/company is substantial while private pools and lifetime reconstruction remain unreceived."
+      },
+      {
+        "gap_id": "G02",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Local Council/club comparisons cannot complete Yuuka-specific decision outcomes."
+      },
+      {
+        "gap_id": "G03",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Supply/cleanup/help comparisons do not complete Serika's service/peer/reciprocity range."
+      },
+      {
+        "gap_id": "G04",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Wildhunt blast/Guard aftermath is no Hina-specific causal, clinical or recovery record."
+      },
+      {
+        "gap_id": "G05",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Local belonging/force/work does not settle Arius/PS68 separate aftermath/permissions."
+      },
+      {
+        "gap_id": "G06",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Particular cross-school art/company gives no universal ranking or attendance."
+      },
+      {
+        "gap_id": "G07",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "E849 local next-day/full-moon sequence leaves absolute MAIN/private/other-event order unresolved."
+      },
+      {
+        "gap_id": "G08",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "EVENT849 producer14 scope is known without invented event title, repeat/reissue enactment or extra MAIN arc."
+      },
+      {
+        "gap_id": "G09",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Known actor/relay/inward/choice/log/report drift stays visible without silent canonical-label repair."
+      },
+      {
+        "gap_id": "G10",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Written performance and logs are not heard delivery, native prosody, pixels or timing."
+      },
+      {
+        "gap_id": "G11",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Canvas/history/office analogies cannot authenticate Yume notebook or settle Hoshino's office."
+      },
+      {
+        "gap_id": "G12",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Unknown voice/animals/statue and local Milia claims do not establish global variants/family/Hiromi joins."
+      },
+      {
+        "gap_id": "G13",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Office, contracts, payment, safety, full damage/display/viewpoint/access outcomes require separate actual evidence."
+      },
+      {
+        "gap_id": "G14",
+        "status": "OPEN",
+        "ROOT_own_finite_reason": "Maintained admission qualification grants no new native/raw/AV class or future dialogue admission."
+      }
+    ]
+  },
+  "connected_ROOT_reasons": [
+    "Art-making/confidence, ordinary fashion/company/liking, covered canvases, inspection/rules, pressure/detention and refused/later chosen help form fifteen connected institutional dimensions and ONE substantial mediated Eri-Rena section, no separate new REL home.",
+    "Wanted lasting painting is desire and confidence is Eri's felt outcome. Performed lights and beauty appreciation are actual; finished representative painting, lifetime rank, clinical cure, installed exhibition/viewpoint and acquired museum access are unshown.",
+    "Rena's compulsory room/pressured condition, actual refusal and later bell assistance retain order and recipients. Later cooperation gives no retrospective initial assent, belief conversion or next-plan permission; warm company and calm/fashion wants matter intrinsically.",
+    "Teacher's inquiry restraint/cleanup/help are positive alongside failed prevention, evasion, secrecy and limited knowledge. Inward/choice/log modes are not spoken permission; Manami's relayed praise is not onsite Council speech or enacted institutional access.",
+    "LEDs/tape and admitted first prank limit particular mechanisms without resolving every voice/statue/animal. Guard's pretend weakness limits magical claims while sleep/work costs and renewed detention remain after appreciation.",
+    "Covered paintings remain uninspected; delivered supplies differ from promised payment; reported room restoration is local. Confidence/pleasure do not erase property/privacy/payment/exclusive-access disputes.",
+    "O093 alone directE849; other104 finite comparisons. Source grades stay whole185 maintained written argument, attributed original26WHOLE79SELECTED/contributor scopes, and actual reviewer extents; no primary/raw/native/AV promotion.",
+    "ROOT actually received all105 new fivefields/all53 literal/source/question/purpose/QA joins, serious rivals/finite ends and operative controls. Frozen11envelopes/3carriers are fully raw recoverable;61767six/59334oldGSC16 scopes stay narrow.14OPEN/models0."
+  ],
+  "actual_ROOT_raw_schema_execution": {
+    "actual_output": "24b871",
+    "predicates": 5381,
+    "groups": 25,
+    "failures": 0,
+    "helper": {
+      "helper": "private-witness:WILDHUNT-ROOT-DELIVERY-e65549ee709db0cae786f103",
+      "bytes": 27807,
+      "sha256": "086b7243a229257c3d064d90c48d7a71581a3db90d10c58ca93890a96a90b57a",
+      "git_blob_oid_of_actual_bytes": "90e739e98fac192aa36706c8726fe75a71869a70",
+      "delta": {
+        "path": "private-witness:WILDHUNT-ROOT-DELIVERY-1835c3dd4d14f1a4512f5a46",
+        "bytes": 29321,
+        "sha256": "73ba192a4f5b298a9396f0171a9ab293258d2bd237688e03eefcc098c8aa9541",
+        "git_blob_oid_of_actual_bytes": "b1c81ef98b9e9a021c00c2cb97f701634645f390"
+      },
+      "only_changed_condition": "reg['body_complete_reconstruction']['current_body_tuple']==body_tuple"
+    },
+    "receipt_path": "private-witness:WILDHUNT-ROOT-DELIVERY-e01c1d08c6191897498b7fd8",
+    "complete_result_received": true,
+    "scope": "Fixed54 C-only exact8 ROOT execution; full11 raw envelopes/3wrapper carriers/source32628 two-value inverse/oneLF/body24753 reconstruction/current525/QA mirrors/typedgraph. Mechanics support preservation, not personal semantic reading."
+  },
+  "checker_history": {
+    "V2": "10a434 failed1353, guard falsely disallowed actualO093 directcore",
+    "V3": "b82c74 failed4383, guard falsely compared route+3tuple to route-free pin",
+    "V3_repair": "1dc67a/716db1 exactO093 union enforced with fullV2raw recovery",
+    "V4_repair": "1f038b/816825 exactwhole route+3pin enforced with fullV3raw recovery",
+    "candidate_changes": 0
+  },
+  "scope_limits": {
+    "fixed_required": 355,
+    "fixed_named": 29,
+    "fixed_parents": 25,
+    "fixed_homes": 384,
+    "fixed_navigation": 788,
+    "source_current_published": 148,
+    "named_current_published": 17,
+    "conditional_required_after_separate_publication": 149,
+    "conditional_named_after_separate_publication": 18,
+    "models": 0,
+    "all14_original_gaps": "OPEN",
+    "next178": "UNREACHED",
+    "MAIN": 133,
+    "merge": "RESERVED",
+    "primary_native_AV_identity_credit": 0
+  },
+  "next_separate_gates": [
+    "Exact QA delivery-value inventory receiving/leaf approval",
+    "Frontmatter/offset/pin/typed-metadata composition preserving all53 arguments/525 fields/frozen originals",
+    "Independent current-byte/documentary QA and ROOT composed-byte adoption",
+    "Fresh remote/main reconcile; shared7 successor/exact freeze/install/INDEX validation",
+    "Ordinary publication/new exact-head SOURCE/HOUSEKEEPING/FINAL audits; merge reserved"
+  ],
+  "public_receipt_policy": "Private receiving-only witness paths/tuples retain original scope. A public successor requires exact delivery-value inventory approval and full inverse before adoption; this original is immutable. No future action certified."
+}

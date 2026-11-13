@@ -1,0 +1,125 @@
+{
+  "schema": "konosuba.pucchin.first-output-annotations.v1",
+  "recorded_utc": "2026-10-21T01:12:01.891841+00:00",
+  "status": "Same-author adversarial observations after all twelve firsts frozen; no independent grade",
+  "input_file_sha256": "bb19e33584c600a274720aef8a785f0c3375f0112464c541d04821b20dd7ea22",
+  "first_outputs_sha256": "3f01afc52bb14135ea6b645fc0ccc5b361f739e92558c0ee508447050cbe0a18",
+  "actual_body_freeze_sha256": "97a00e6ff9c6b31bb4ae639d19c7b87f5fc62110c9e1625d9c4fe6a59048b641",
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_and_prior_serialized_cases_visible": true,
+  "case_observations": [
+    {
+      "case_id": "PU-H01-A",
+      "target": "PU-R01",
+      "actual_action": "Writes 3 on the blank score sheet and asks for a livelier opening.",
+      "speech_and_information": "Acknowledges practical clarity but evaluates it as insufficiently memorable for a presentation.",
+      "material_defects": [
+        "The numerical 3 introduces a grading choice without a supplied rubric or scale and echoes the known source. It does not validate a precise source grade or stable scoring threshold.",
+        "The reply retains an ordinary practical teaching rationale. It cannot be summarized as complete rejection of clarity or actual instructional incompetence.",
+        "The practical and theatrical student answers differ in content as well as style; the contrast cannot isolate presentation style causally."
+      ],
+      "strong_generic": "A generic dramatic presentation teacher can prefer a memorable opening while recognizing clarity.",
+      "outcome_not_supplied": "No pupil revision, settled grading scale, completed demonstration, class learning or failure."
+    },
+    {
+      "case_id": "PU-H01-B",
+      "target": "PU-R01",
+      "actual_action": "Writes 100 broadly, uses the marker as a baton and praises the theatrical answer.",
+      "speech_and_information": "Adds an explicit requirement that the operating steps still make sense and rejects producing a splendid disaster.",
+      "material_defects": [
+        "The numerical 100 has no supplied rubric or scale. Source-colored numbers are an author-selected response, not independent evidence of scoring fidelity.",
+        "The practical floor is conspicuously orderly relative to source cases of risky display. It may overcohere the teacher; the original is preserved rather than made less prudent afterward.",
+        "The grade contrast is visible, but approval follows a highly explicit cue and generic presentation teaching remains a strong explanation."
+      ],
+      "strong_generic": "Ordinary presentation coaching can reward audience attention while also requiring intelligible steps.",
+      "outcome_not_supplied": "No actual teaching outcome, successful demonstration, measured expertise or universal safety policy."
+    },
+    {
+      "case_id": "PU-H02-A",
+      "target": "PU-R02",
+      "actual_action": "Hovers over the ready pause button, poses toward the camera through two remarks, then presses and presents the intervention.",
+      "speech_and_information": "Acknowledges Emil's request and treats the moment as the instructor's entrance; no readiness obstacle is introduced.",
+      "material_defects": [
+        "The body depicts rhetorical delay, but no elapsed seconds are measured and no rendered virtual result is given. Do not claim a lost round or successful rescue.",
+        "Both variants press the button and use a presenting gesture; the contrast is ordering before versus after the press, not intervention versus abandonment.",
+        "A virtual round without physical danger differs materially from the source threat. Audience-directed theater here cannot establish repeated dangerous delay in actual emergencies."
+      ],
+      "strong_generic": "A showy instructor may stage a demonstration for a remote audience; explicit camera/audience cues strongly suggest this behavior.",
+      "outcome_not_supplied": "No screen result, exact delay duration, saved round, injury or process-safety finding."
+    },
+    {
+      "case_id": "PU-H02-B",
+      "target": "PU-R02",
+      "actual_action": "Presses first, then turns to the dark camera and gives a self-presenting explanation before any screen result.",
+      "speech_and_information": "Still uses theatrical language without the audience and urges use of the available pause.",
+      "material_defects": [
+        "Empty space where an audience would have been invents a physical audience-layout baseline. The contrast was a remote stream on versus off, not occupied versus empty local seats.",
+        "The extended post-press speech is placed before a rendered result. The input provides only the next few seconds and no result latency; timing feasibility is underidentified, not demonstrated.",
+        "The exhortation to use the pause does not establish that Emil can reach or control it. It is speech, not an observed student action or proven access failure.",
+        "The shared presenting gesture and teacher self-credit leave private theatricality present. Immediate pressing does not establish general ethical repair."
+      ],
+      "strong_generic": "A teacher can help promptly in private while retaining a habitual performance style.",
+      "outcome_not_supplied": "No rendered pause outcome, elapsed timing, student access test or durable change of conduct."
+    },
+    {
+      "case_id": "PU-H03-A",
+      "target": "PU-R03",
+      "actual_action": "Places the plan on the unopened shared box and asks for a learning rationale before authorizing materials.",
+      "speech_and_information": "Challenges profitability and says he can authorize the materials, without actually granting them in the body.",
+      "material_defects": [
+        "You haven't made the basic exercise work yet asserts an unprovided earlier student failure. No construction has occurred in the setup; prior performance is not supplied.",
+        "The reply makes an actual grant conditional; it does not establish that Rina lacks classroom entitlement, that profit work is forbidden or that she ultimately receives nothing.",
+        "The unopened-box state and plan handling are added local staging, not evidence of an external test or final refusal."
+      ],
+      "strong_generic": "A generic teacher can ask what an ambitious prototype teaches before releasing class resources.",
+      "outcome_not_supplied": "No completed authorization, construction, sale, profit, assessed prior exercise or final denial."
+    },
+    {
+      "case_id": "PU-H03-B",
+      "target": "PU-R03",
+      "actual_action": "Slides the plan toward Rina and explicitly grants use of the two modules in class.",
+      "speech_and_information": "Recognizes a practical human use while retaining disparagement and asking her to follow the standard plan.",
+      "material_defects": [
+        "Then say that and the closing warning about a splendid speech can shift blame or impute theatrical priorities to the pupil. They do not prove she previously withheld the need or intended self-display.",
+        "The need statement is supplied by the pupil cue, not independently checked. Resource permission does not establish a completed lamp, delivery, repair, payment or benefit to the neighbor.",
+        "A generic teacher granting authorized class materials for a practical project explains the same act; the grant does not establish a private altruistic motive."
+      ],
+      "strong_generic": "Ordinary practical teaching and an available approved plan explain support after a concrete use is stated.",
+      "outcome_not_supplied": "No construction, functioning light, neighbor outcome, extra supplies or technical performance."
+    }
+  ],
+  "pair_observations": [
+    {
+      "pair": "PU-H01",
+      "difference": "A writes 3 and asks for more memorable presentation; B writes 100 and praises the entrance. Both retain practical clarity.",
+      "identifiability_limit": "Unspecified scale, source echo, content/style covariation and generic dramatic-teacher behavior prevent unique causal or numerical identification."
+    },
+    {
+      "pair": "PU-H02",
+      "difference": "Audience case poses before pressing; private case presses first and performs afterward. Both press and present.",
+      "identifiability_limit": "Strong audience cue, shared intervention, unmeasured time, unprovided post-press latency and virtual stakes limit source transfer."
+    },
+    {
+      "pair": "PU-H03",
+      "difference": "Profit branch conditions authorization on a learning reason; neighbor-need branch explicitly grants the two modules.",
+      "identifiability_limit": "A invents prior student failure, while B follows a strong supplied practical-need cue. Ordinary teacher help remains a strong rival."
+    }
+  ],
+  "unprobed_rules": [],
+  "unprobed_domains": [
+    "Actual magic and physical emergency safety",
+    "Precise source grades and stable scoring scales",
+    "Repeated delay rates or exact seconds",
+    "Literal belief in fictional explanations",
+    "Private confidentiality and care motives",
+    "Japanese voice",
+    "Long-term teaching and recipient outcomes"
+  ],
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

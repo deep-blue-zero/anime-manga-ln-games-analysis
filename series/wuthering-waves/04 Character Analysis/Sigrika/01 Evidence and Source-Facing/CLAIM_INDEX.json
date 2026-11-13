@@ -1,0 +1,796 @@
+[
+  {
+    "id": "SIG-C01",
+    "title": "Warm attachment is a premise of the burden, not a mask concealing a wholly loveless home",
+    "epistemic_category": "inference",
+    "confidence": "high within the selected archive",
+    "scope": "Family formation and later disclosure",
+    "evidence": [
+      "SIG-E01",
+      "SIG-E05",
+      "SIG-E33",
+      "SIG-E36"
+    ],
+    "support": "The dinner, handmade supplies, gifts, patient homecoming, and resumed conversation show affection operating before and after the crisis. The burden matters partly because she genuinely values those people.",
+    "counterevidence_and_limits": "Encouragement can still constrain. The bag description explicitly includes constraint, and she hides fatigue. Warmth does not make all parental pressure harmless.",
+    "revision_or_falsification_condition": "Sustained primary scenes of affection being deliberately withdrawn for ordinary failure would require revising the family mechanism, rather than merely adding a harsh line from a nightmare."
+  },
+  {
+    "id": "SIG-C02",
+    "title": "Rune aptitude is exceptional but domain-limited",
+    "epistemic_category": "source fact",
+    "confidence": "high",
+    "scope": "Archive formation, institutional examination, later study",
+    "evidence": [
+      "SIG-E02",
+      "SIG-E04",
+      "SIG-E06",
+      "SIG-E44"
+    ],
+    "support": "She can manifest rune meaning without fully understanding its origin; the blessing does not grant total comprehension. Later science tutoring remains necessary.",
+    "counterevidence_and_limits": "Domain limits do not mean poor general intelligence or inability to learn. She can tutor others and contribute uncommon spatial insights.",
+    "revision_or_falsification_condition": "A later explicit expansion of her ability could update the later-state model. It would not retroactively make early uncertainty fictitious."
+  },
+  {
+    "id": "SIG-C03",
+    "title": "Success can deepen her aversion to error",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "The Exoswarm event and competitive memories",
+    "evidence": [
+      "SIG-E03",
+      "SIG-E13",
+      "SIG-E18"
+    ],
+    "support": "The intervention succeeds through prior preparation and assistance even though the final rune fails. The frightening margin can become an inward demand never to err; winning also generates pressure to keep winning.",
+    "counterevidence_and_limits": "The rescue has real stakes, so caution is not simply irrational vanity. Not every success demonstrably worsens her state.",
+    "revision_or_falsification_condition": "Repeated comparable early successes accompanied by relaxed acceptance of margins would weaken the proposed feedback pattern; a source explaining a wholly different cause of the fear would narrow its explanatory reach."
+  },
+  {
+    "id": "SIG-C04",
+    "title": "Her early standard confuses responsibility for effort with responsibility for every outcome",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Student pressure through the central crisis",
+    "evidence": [
+      "SIG-E03",
+      "SIG-E15",
+      "SIG-E18",
+      "SIG-E25"
+    ],
+    "support": "The diary moves from difficulty to necessity because she is Sigrika, while imagined failure endangers both companions and identity. The final speech revises what holding expectations means.",
+    "counterevidence_and_limits": "She is actually responsible for some decisions and risks. The model must not turn accountability into something she merely imagines.",
+    "revision_or_falsification_condition": "Evidence that she already consistently distinguishes limited responsibility from guaranteed success before the crisis would force a narrower or different developmental account."
+  },
+  {
+    "id": "SIG-C05",
+    "title": "The school is both a pressure-producing setting and a source of care",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Inspected academy material",
+    "evidence": [
+      "SIG-E06",
+      "SIG-E08",
+      "SIG-E15",
+      "SIG-E17",
+      "SIG-E56"
+    ],
+    "support": "Unfamiliar coursework and exceptional reputation intensify strain; counseling, protective intervention, teaching, and responsive adult support are also present.",
+    "counterevidence_and_limits": "Care does not prove the institution has no systemic problem. The evidence is not a complete policy or student-outcome audit.",
+    "revision_or_falsification_condition": "A broader primary institutional corpus might expose practices absent here. It could revise the balance without deleting the care scenes."
+  },
+  {
+    "id": "SIG-C06",
+    "title": "The rigged judgment cannot be reduced to her psychological failure",
+    "epistemic_category": "source fact plus inference",
+    "confidence": "high",
+    "scope": "Dark Side second investigation and wider operation",
+    "evidence": [
+      "SIG-E14",
+      "SIG-E21",
+      "SIG-E57"
+    ],
+    "support": "The raw outline says any answer is judged wrong at the crisis point. Antagonist and authority context establishes manipulation beyond her own insecurity.",
+    "counterevidence_and_limits": "Her emotional material helps shape the trap. External manipulation and inward pressure are simultaneous causes, not competing all-or-nothing explanations.",
+    "revision_or_falsification_condition": "A source-level correction that the judgment was objectively answerable would alter the mechanism. Her statement that she shaped it does not by itself establish such a correction."
+  },
+  {
+    "id": "SIG-C07",
+    "title": "Reflections are evidence of a threatening representation, not direct access to real peers’ minds",
+    "epistemic_category": "methodological source constraint",
+    "confidence": "high",
+    "scope": "All Dark Side material",
+    "evidence": [
+      "SIG-E14",
+      "SIG-E21",
+      "SIG-E24",
+      "SIG-E25"
+    ],
+    "support": "The mother/friend projections exaggerate pressure, and the counterpart is explicitly separate from direct Sigrika. Later actual support supplies counterweights.",
+    "counterevidence_and_limits": "Some reflected concerns may overlap with real history; representation is not synonymous with complete fabrication.",
+    "revision_or_falsification_condition": "Independent real-world scenes corroborating a specific accusation can establish that accusation separately. They cannot license wholesale acceptance of every reflected claim."
+  },
+  {
+    "id": "SIG-C08",
+    "title": "Alia exposes the limits of exhorting another person to meet expectations",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Alia rescue exchange",
+    "evidence": [
+      "SIG-E20",
+      "SIG-E23"
+    ],
+    "support": "Sigrika recognizes fear and responsibility yet cannot settle Alia’s dilemma by repeating her own standard. Shared feeling does not make an answer transferable.",
+    "counterevidence_and_limits": "A single unsuccessful reassurance does not show that all her emotional support is ineffective.",
+    "revision_or_falsification_condition": "Later evidence of an explicit, repeatable technique would refine her support capacity, while preserving the observed early limitation."
+  },
+  {
+    "id": "SIG-C09",
+    "title": "The counterpart uses genuine vulnerabilities without becoming her authentic total self",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Counterpart confrontation",
+    "evidence": [
+      "SIG-E21",
+      "SIG-E24",
+      "SIG-E25",
+      "SIG-E26",
+      "SIG-E52"
+    ],
+    "support": "She admits having questioned expectations and wanted escape, then rejects the interlocutor’s interpretation of her feelings and effort. Admission and refusal coexist.",
+    "counterevidence_and_limits": "Calling the counterpart merely alien would erase the recognized thoughts. Calling it simply her true self would erase her direct refusal and the source identity boundary.",
+    "revision_or_falsification_condition": "A later authoritative narrative reclassification would require a lore revision. A resonant line spoken by the counterpart alone is not that reclassification."
+  },
+  {
+    "id": "SIG-C10",
+    "title": "Her final choice changes the criterion for honoring expectations",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Final Dark Side decision and aftermath",
+    "evidence": [
+      "SIG-E23",
+      "SIG-E25",
+      "SIG-E26",
+      "SIG-E27",
+      "SIG-E33",
+      "SIG-E34"
+    ],
+    "support": "The Chinese gold line links retaining expectations to deciding to act; later refusal of excess tasks and revised scheduling show consequences beyond a declaration.",
+    "counterevidence_and_limits": "She still wants to do well and meet hopes. The English rendering stresses continued forward movement; neither witness guarantees success.",
+    "revision_or_falsification_condition": "A sustained later pattern in which she explicitly treats any imperfect outcome as total moral failure would challenge the depth or durability of the change."
+  },
+  {
+    "id": "SIG-C11",
+    "title": "The text does not support a permanent do-whatever-I-want ethic",
+    "epistemic_category": "source fact plus interpretive correction",
+    "confidence": "high",
+    "scope": "Localization-sensitive climax and later life",
+    "evidence": [
+      "SIG-E26",
+      "SIG-E33",
+      "SIG-E43",
+      "SIG-E55"
+    ],
+    "support": "Chinese says this time where English says from now on. Later archive and work still affirm chosen obligations and practical assistance.",
+    "counterevidence_and_limits": "The scene does establish real refusal of imposed interpretation. Narrowing the tense must not drain that refusal of force.",
+    "revision_or_falsification_condition": "Later unambiguous renunciation of all other-directed obligations would alter the later model; a single English expansion cannot carry that conclusion against the broader corpus."
+  },
+  {
+    "id": "SIG-C12",
+    "title": "Help becomes compatible with a decision she must make herself",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Post-nightmare talk, final entry, and shared rescue",
+    "evidence": [
+      "SIG-E19",
+      "SIG-E22",
+      "SIG-E23",
+      "SIG-E26",
+      "SIG-E43"
+    ],
+    "support": "Rover does not supply the correct answer but offers assistance. Sigrika asks to be awakened if lost; later work distributes expertise rather than restoring solitary omnipotence.",
+    "counterevidence_and_limits": "The self-reliance sentence is not identical across languages. The model describes a scene-supported distinction, not a universal ethical theorem in four equal wordings.",
+    "revision_or_falsification_condition": "Evidence that her later choices are consistently delegated to Rover, or that she rejects all aid as illegitimate, would require major revision."
+  },
+  {
+    "id": "SIG-C13",
+    "title": "Courage is action with recognized uncertainty, not absence of fear",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Deliberation and last entry",
+    "evidence": [
+      "SIG-E23",
+      "SIG-E25",
+      "SIG-E26"
+    ],
+    "support": "She weighs whether entering aids the trap and whether abstaining abandons people; she still asks for help if the nightmare recurs.",
+    "counterevidence_and_limits": "Some combat lines sound categorical because their trigger and dramatic function differ. They do not measure private fear continuously.",
+    "revision_or_falsification_condition": "A source explicitly removing the relevant uncertainty before she chooses would require describing that particular action as informed confidence instead."
+  },
+  {
+    "id": "SIG-C14",
+    "title": "Her rescue role is specialized and reciprocal",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Chisa rescue and later reactor-related work",
+    "evidence": [
+      "SIG-E17",
+      "SIG-E19",
+      "SIG-E43"
+    ],
+    "support": "Rune/spatial interpretation complements Chisa’s rescue capacity, other students’ logistics, Mornye’s projection, and Rover’s interpretation.",
+    "counterevidence_and_limits": "She is more than an interchangeable helper. Her rare contribution can be indispensable in a scene without making all other contributions hers.",
+    "revision_or_falsification_condition": "A fuller primary sequence assigning a claimed contribution to a different actor would require correcting the allocation, not simply calling everyone a collective hero."
+  },
+  {
+    "id": "SIG-C15",
+    "title": "Rest progresses from tolerated recovery toward an activity she can choose",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Gated cooperation episodes and later ordinary life",
+    "evidence": [
+      "SIG-E29",
+      "SIG-E30",
+      "SIG-E31",
+      "SIG-E32",
+      "SIG-E34"
+    ],
+    "support": "The rooftop begins as refuge and becomes a site of shared joy; rhythm play redirects attention, while written nonurgent work is replaced with rest.",
+    "counterevidence_and_limits": "Some leisure still restores capacity for work. The text need not prove that every activity is free of instrumental benefit.",
+    "revision_or_falsification_condition": "Evidence that all later leisure is coerced, or that she regards it only as a brief efficiency technique, would narrow the claim."
+  },
+  {
+    "id": "SIG-C16",
+    "title": "Declining requests is a stronger behavioral marker than a motivational slogan",
+    "epistemic_category": "source fact plus inference",
+    "confidence": "high in Chinese",
+    "scope": "Post-crisis maternal call",
+    "evidence": [
+      "SIG-E33",
+      "SIG-E34"
+    ],
+    "support": "She reports trying to decline unmanageable tasks, and the diary contains visible textual changes toward rest. Two different surfaces support revised limits.",
+    "counterevidence_and_limits": "These are a report and narrated written evidence, not a long-term time-use study. The Korean line is more prospective than the Chinese.",
+    "revision_or_falsification_condition": "An explicit later admission that the refusals never occurred would revise the behavioral claim; ordinary future strain would not automatically negate a demonstrated attempt."
+  },
+  {
+    "id": "SIG-C17",
+    "title": "Protective reassurance can impoverish the relationship it tries to protect",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Mother–daughter communication",
+    "evidence": [
+      "SIG-E01",
+      "SIG-E05",
+      "SIG-E33",
+      "SIG-E55"
+    ],
+    "support": "She explains that repeatedly saying she was fine left less to talk about. Later detailed conversation and the homecoming restore a fuller self to the relationship.",
+    "counterevidence_and_limits": "She is not shown lying maliciously or being forbidden to speak. Nor does a successful conversation prove every family tension resolved.",
+    "revision_or_falsification_condition": "Primary evidence of the mother punishing disclosure, or a different explicit account of why conversation dwindled, would change the mechanism."
+  },
+  {
+    "id": "SIG-C18",
+    "title": "Her mother’s response revises an expectation rather than creating attachment from nothing",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Later disclosure",
+    "evidence": [
+      "SIG-E01",
+      "SIG-E05",
+      "SIG-E33"
+    ],
+    "support": "The unexpected acknowledgment of her burden lands within an already loved home. What changes is what she can tell that home, not whether love ever existed.",
+    "counterevidence_and_limits": "The surprise reveals a real prior gap in communication. Earlier warmth should not be used to trivialize her isolation.",
+    "revision_or_falsification_condition": "A source identifying earlier family affection as deliberate performance would require a substantially different reading."
+  },
+  {
+    "id": "SIG-C19",
+    "title": "Birdwatching is an ordinary preference before it is a symbol",
+    "epistemic_category": "source fact plus inference",
+    "confidence": "high",
+    "scope": "Archive and cooperation/ordinary scenes",
+    "evidence": [
+      "SIG-E01",
+      "SIG-E30",
+      "SIG-E31",
+      "SIG-E36",
+      "SIG-E37",
+      "SIG-E38"
+    ],
+    "support": "She has knowledge, failed photographs, a favorite place, film interest, invitations, and excitement about unfamiliar birds. The evidence supports activity-specific pleasure.",
+    "counterevidence_and_limits": "The source also explicitly links birds with freedom and hope. Refusing total symbolism does not require refusing every metaphor.",
+    "revision_or_falsification_condition": "If a claimed episode is only a promotional illustration or a counterfactual, its behavioral use must be withdrawn. Repeated direct activity presently supports the preference."
+  },
+  {
+    "id": "SIG-C20",
+    "title": "A single failed photograph is not proof that she is generally incompetent",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Camera and bird material",
+    "evidence": [
+      "SIG-E30",
+      "SIG-E36",
+      "SIG-E37"
+    ],
+    "support": "She can learn unfamiliar rental controls and collaborate with a photographer while repeatedly missing birds’ faces. Different tasks have different skill demands.",
+    "counterevidence_and_limits": "The comic failures are real limits; the model should not upgrade her to expert wildlife photographer.",
+    "revision_or_falsification_condition": "A substantive later photography portfolio could raise that capability. The award scene alone, partly photographed by Rover, cannot."
+  },
+  {
+    "id": "SIG-C21",
+    "title": "The award scene limits a totalizing nature philosophy",
+    "epistemic_category": "source fact plus interpretive constraint",
+    "confidence": "high",
+    "scope": "Narration around the posted photographs",
+    "evidence": [
+      "SIG-E37"
+    ],
+    "support": "The narration explicitly calls the judges’ elaborate reading excessive and identifies a simple wish to share luck and happiness.",
+    "counterevidence_and_limits": "The photographs may still invite interpretation and circulate meaning beyond intention. The source does not ban interpretation in general.",
+    "revision_or_falsification_condition": "An explicit later self-authored ecological doctrine would supply a separate basis; it should not be backdated into this simple wish."
+  },
+  {
+    "id": "SIG-C22",
+    "title": "Food preferences are specific, playful, and capable of contradicting a generic label",
+    "epistemic_category": "source fact",
+    "confidence": "high",
+    "scope": "Food archive and gameplay caption",
+    "evidence": [
+      "SIG-E35",
+      "SIG-E36",
+      "SIG-E47"
+    ],
+    "support": "Fruit Crackle, Smoked Meat Stew, orange-related preference, and the strong Grilled Fern Spore aversion form a concrete everyday profile. The not-picky caption is too broad to erase the aversion.",
+    "counterevidence_and_limits": "The corpus does not supply a complete diet, every favorite dish, or nutritional requirements. Candy enthusiasm is not addiction.",
+    "revision_or_falsification_condition": "New explicit preferences can extend the profile. A source correction to a particular food translation should update the relevant label only."
+  },
+  {
+    "id": "SIG-C23",
+    "title": "Improvisation is possible even for someone anxious about correctness",
+    "epistemic_category": "inference",
+    "confidence": "moderate to high",
+    "scope": "Her specially prepared candy and gift-making",
+    "evidence": [
+      "SIG-E28",
+      "SIG-E36"
+    ],
+    "support": "The food-item description says she departs from recipe order and obtains a good result. The crooked folded cat is valued for effort, not perfection.",
+    "counterevidence_and_limits": "These are small successful cases, not proof she is equally comfortable improvising under lethal stakes.",
+    "revision_or_falsification_condition": "Repeated low-stakes refusal to deviate accompanied by repudiation of these experiments would weaken the generalization; one high-risk hesitation would not."
+  },
+  {
+    "id": "SIG-C24",
+    "title": "She gives practical and personally chosen forms of care",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Gifts, teaching, clinic collaboration, and food",
+    "evidence": [
+      "SIG-E09",
+      "SIG-E28",
+      "SIG-E35",
+      "SIG-E39",
+      "SIG-E56"
+    ],
+    "support": "Tutoring, homemade or selected gifts, rune assistance, shared sweets, and concrete appreciation of counseling show action-specific care rather than only benevolent sentiment.",
+    "counterevidence_and_limits": "The birthday voice line is an addressed archive performance, not a dated observed gift exchange in the quest chronology.",
+    "revision_or_falsification_condition": "A proposed care behavior absent from these source classes should remain an untested prediction, not be added to the ledger as if observed."
+  },
+  {
+    "id": "SIG-C25",
+    "title": "A playful care gesture can cross a boundary",
+    "epistemic_category": "source fact plus value judgment",
+    "confidence": "high for the branch; bounded evaluation",
+    "scope": "Candy scene",
+    "evidence": [
+      "SIG-E16"
+    ],
+    "support": "The candy interaction can override Rover’s hesitation/refusal. As an evaluative reading, that limits any claim that her warmth always entails immaculate respect for another’s immediate choice.",
+    "counterevidence_and_limits": "It is comic, low-stakes, and branch-conditioned. It does not justify recasting her as broadly coercive or malicious.",
+    "revision_or_falsification_condition": "A corrected raw branch mapping showing no such override would remove the claim; a separate consent-respecting scene would qualify rather than erase this one."
+  },
+  {
+    "id": "SIG-C26",
+    "title": "Closeness with Rover does not license an exclusive romantic identity",
+    "epistemic_category": "source constraint",
+    "confidence": "high",
+    "scope": "Hugs, birthdays, refuge, and gifts",
+    "evidence": [
+      "SIG-E28",
+      "SIG-E31",
+      "SIG-E39",
+      "SIG-E40"
+    ],
+    "support": "The source supports trust, affection, cultural hospitality, and highly valued companionship. It does not explicitly establish exclusivity or a relationship contract.",
+    "counterevidence_and_limits": "Affectionate and potentially romantic framing may be possible interpretations. They remain interpretations pending stronger evidence.",
+    "revision_or_falsification_condition": "Explicit primary confirmation of a romantic relationship would update the appropriate state; voice timbre, a gift, or a culturally framed hug alone is insufficient."
+  },
+  {
+    "id": "SIG-C27",
+    "title": "She notices the contradiction in Denia’s escape rhetoric",
+    "epistemic_category": "source fact plus inference",
+    "confidence": "high",
+    "scope": "Archive observations and shared school life",
+    "evidence": [
+      "SIG-E10",
+      "SIG-E41",
+      "SIG-E47"
+    ],
+    "support": "Sigrika observes that Denia stays beside her when she studies late despite advocating escape. She therefore does not simply absorb Denia’s stated philosophy.",
+    "counterevidence_and_limits": "She cannot fully explain Denia’s motives or origin, and admits as much. Perception of one contradiction is not mind-reading.",
+    "revision_or_falsification_condition": "A source showing the stay-behind behavior did not occur, or that Sigrika’s account was knowingly fabricated, would require revision."
+  },
+  {
+    "id": "SIG-C28",
+    "title": "The birthday exchange demonstrates active perception, not blank innocence",
+    "epistemic_category": "source fact",
+    "confidence": "high",
+    "scope": "Denia’s outing before full disclosure",
+    "evidence": [
+      "SIG-E45",
+      "SIG-E47"
+    ],
+    "support": "She enumerates unusual actions—invitation, photographs, birthday disclosure, advice not to escape—and asks whether something is concealed.",
+    "counterevidence_and_limits": "The list does not give her the full operational plan. Denia’s private scenes and the containment document remain reader-side knowledge.",
+    "revision_or_falsification_condition": "If later material dates full disclosure before this exchange, the knowledge-state account must be revised; absent that, suspicion must not be upgraded to complete knowledge."
+  },
+  {
+    "id": "SIG-C29",
+    "title": "Her restraint about secrets is conditional, not indifference",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Birthday conversation and later information-seeking",
+    "evidence": [
+      "SIG-E41",
+      "SIG-E47",
+      "SIG-E48"
+    ],
+    "support": "She permits some continued not-asking but insists on a future birthday. Later she seeks information and directly asks about Nivora’s nonreturn.",
+    "counterevidence_and_limits": "This is not a blanket doctrine that friends owe nothing or must reveal everything. Different stakes elicit different questions.",
+    "revision_or_falsification_condition": "Repeated explicit indifference to a friend’s survival or a demand for total access in comparable circumstances would challenge the inferred boundary."
+  },
+  {
+    "id": "SIG-C30",
+    "title": "A future birthday functions as a concrete claim on continued friendship",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Denia’s birthday scene",
+    "evidence": [
+      "SIG-E47",
+      "SIG-E48",
+      "SIG-E49"
+    ],
+    "support": "Instead of resolving every secret, she asks whether Denia will still celebrate next year. Ordinary ritual gives continuity a specific form.",
+    "counterevidence_and_limits": "The promise is not proof of fulfillment and does not settle Denia’s fate. Calling it a claim is interpretive, not a legal or absolute moral right.",
+    "revision_or_falsification_condition": "Evidence that Sigrika intended the question as a casual pleasantry rather than concern would weaken the reading; the unusual-behavior prelude currently argues against that."
+  },
+  {
+    "id": "SIG-C31",
+    "title": "Later hope is compatible with grief and explicit bad news",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Nivora/Denia follow-up",
+    "evidence": [
+      "SIG-E40",
+      "SIG-E48",
+      "SIG-E49",
+      "SIG-E51"
+    ],
+    "support": "She directly seeks confirmation, remembers the outing, reports a letter, and continues working toward a future. The summary frames acceptance rather than total forgetting.",
+    "counterevidence_and_limits": "The complete letter is not shown in the inspected scene, and a promised return is not observed. Hope must not be redescribed as certainty.",
+    "revision_or_falsification_condition": "A later primary account can revise her knowledge or coping. Sustained denial of the explicit nonreturn would challenge this state model."
+  },
+  {
+    "id": "SIG-C32",
+    "title": "She does not know every truth the reader learns about the white bird",
+    "epistemic_category": "source constraint",
+    "confidence": "high",
+    "scope": "White-bird quest and private conversation",
+    "evidence": [
+      "SIG-E46"
+    ],
+    "support": "Her excitement and taxonomy are separated from a private Hiyuki-related explanation. The latter is not a line she automatically hears.",
+    "counterevidence_and_limits": "It remains possible that she learns more elsewhere; the current selection does not establish when.",
+    "revision_or_falsification_condition": "A located disclosure scene would advance her knowledge state. Until then, generated predictions must preserve the asymmetry."
+  },
+  {
+    "id": "SIG-C33",
+    "title": "Denia’s protective framing cannot exhaust Sigrika’s personhood",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Other-person archive versus Sigrika’s direct actions",
+    "evidence": [
+      "SIG-E10",
+      "SIG-E17",
+      "SIG-E23",
+      "SIG-E42",
+      "SIG-E47"
+    ],
+    "support": "Denia describes innocence punished by a cruel world, but Sigrika decides, notices, questions, and contributes. Her friend’s compassion is important but perspectival.",
+    "counterevidence_and_limits": "Sigrika is genuinely vulnerable to manipulation and pressure. Rejecting reduction to innocence is not denial of victimization.",
+    "revision_or_falsification_condition": "A broader corpus could show some perceived agency was engineered; particular decisions would then require reassessment, not automatic transfer of all authorship to others."
+  },
+  {
+    "id": "SIG-C34",
+    "title": "Lynae is both a recipient of expertise and a route into shared leisure",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Culture tutoring, festival, and archive",
+    "evidence": [
+      "SIG-E09",
+      "SIG-E16",
+      "SIG-E38",
+      "SIG-E41"
+    ],
+    "support": "Sigrika helps with coursework and values Lynae’s color, spontaneity, and play. Their relationship cannot be flattened to competent rescuer and passive patient.",
+    "counterevidence_and_limits": "The evidence does not establish complete reciprocity in every domain or a uniform equality of need.",
+    "revision_or_falsification_condition": "Primary interactions that contradict a specific tutoring or leisure claim should correct that claim; broader asymmetries may refine the relationship profile."
+  },
+  {
+    "id": "SIG-C35",
+    "title": "Adult help is not limited to telling her to try harder",
+    "epistemic_category": "source fact plus inference",
+    "confidence": "high",
+    "scope": "Examination, counseling, safety decisions, and teaching",
+    "evidence": [
+      "SIG-E06",
+      "SIG-E08",
+      "SIG-E15",
+      "SIG-E17",
+      "SIG-E56"
+    ],
+    "support": "Adults name the burden, offer counseling, provide protection, and sometimes recognize a self-made decision. Their responses differ and can change.",
+    "counterevidence_and_limits": "They do not always find the perfect formulation, and institutional recognition can add pressure. This is not an idealized faculty portrait.",
+    "revision_or_falsification_condition": "A source showing that a claimed supportive act was coercive under omitted conditions would require local revision."
+  },
+  {
+    "id": "SIG-C36",
+    "title": "Her later life preserves learning deficits without making recovery a failure",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Later tutoring and cross-domain cooperation",
+    "evidence": [
+      "SIG-E02",
+      "SIG-E04",
+      "SIG-E43",
+      "SIG-E44",
+      "SIG-E50"
+    ],
+    "support": "She still needs scientific help and can learn games from Rebecca while offering rune or cultural knowledge in return. Agency improves without universal competence.",
+    "counterevidence_and_limits": "Learning itself can improve actual skill. The model must not fossilize an early limitation into permanent inability.",
+    "revision_or_falsification_condition": "Evidence of newly mastered specific subjects updates capabilities; it need not refute the distinction between psychological change and omniscience."
+  },
+  {
+    "id": "SIG-C37",
+    "title": "Her public competence and private self-address are different behavioral layers",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Institutional praise, diary, and direct recovery",
+    "evidence": [
+      "SIG-E07",
+      "SIG-E09",
+      "SIG-E18",
+      "SIG-E33",
+      "SIG-E34"
+    ],
+    "support": "She can sound helpful and capable while privately fearing failure and invoking her own name as a standard. Later private writing provides a separate check on public claims.",
+    "counterevidence_and_limits": "The gap is not proof of a fabricated public persona or a secret cynical self. Both layers can be sincere.",
+    "revision_or_falsification_condition": "A source explicitly identifying systematic insincere public performance would require adding that mechanism rather than presuming it from distress."
+  },
+  {
+    "id": "SIG-C38",
+    "title": "Self-naming turns a social identity into an inward instruction",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Diaries and cooperation narration",
+    "evidence": [
+      "SIG-E18",
+      "SIG-E28",
+      "SIG-E31",
+      "SIG-E34"
+    ],
+    "support": "The formulation because I am Sigrika transforms a name into an obligation. Later self-address can also register pride and happiness after chosen action.",
+    "counterevidence_and_limits": "Self-address is not itself pathological or uniquely diagnostic. Its content and state, not mere occurrence, carry the interpretation.",
+    "revision_or_falsification_condition": "A corrected speaker or diary attribution would require withdrawal of the relevant instance; additional playful self-address would expand the range rather than negate it."
+  },
+  {
+    "id": "SIG-C39",
+    "title": "Speech shifts by recipient and circumstance",
+    "epistemic_category": "inference",
+    "confidence": "high for textual register",
+    "scope": "Archive, family, peers, authority, and counterpart",
+    "evidence": [
+      "SIG-E16",
+      "SIG-E18",
+      "SIG-E25",
+      "SIG-E26",
+      "SIG-E33",
+      "SIG-E40",
+      "SIG-E47"
+    ],
+    "support": "Technical explanation, warm family reassurance, peer teasing, anxious self-correction, and direct refusal use different forms. Senior address does not imply identical behavior with every senior.",
+    "counterevidence_and_limits": "Without listening, punctuation and wording cannot establish prosody, vocal warmth, breathiness, or actor intent.",
+    "revision_or_falsification_condition": "Acquired matched AV could refine performance claims. It should not overwrite the textual recipient distinctions without considering localization and editing."
+  },
+  {
+    "id": "SIG-C40",
+    "title": "Gold is valuable and burdensome at once",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Archive and central decision language",
+    "evidence": [
+      "SIG-E01",
+      "SIG-E03",
+      "SIG-E16",
+      "SIG-E25",
+      "SIG-E33",
+      "SIG-E36"
+    ],
+    "support": "Expectations are described as bright, warm, and heavy; domestic objects repeat warmth and weight. The solution preserves value while changing how it is carried.",
+    "counterevidence_and_limits": "Not every gold-colored prop has been seen, and not every warm object must be interpreted as the same metaphor. The photo scene warns against overreach.",
+    "revision_or_falsification_condition": "A source framing the decisive change as rejection of all affection would contradict this account; merely showing a visually gold object would not substantiate it."
+  },
+  {
+    "id": "SIG-C41",
+    "title": "Meaning is relational without granting her universal interpretive authority",
+    "epistemic_category": "inference",
+    "confidence": "moderate to high",
+    "scope": "Rune explanation, childhood stars, and interpersonal limits",
+    "evidence": [
+      "SIG-E02",
+      "SIG-E12",
+      "SIG-E20",
+      "SIG-E41",
+      "SIG-E47"
+    ],
+    "support": "The archive describes finding relations that disclose meaning; interpersonal scenes show she can interpret but cannot define another person completely.",
+    "counterevidence_and_limits": "Extending rune vocabulary into an ethics of interpretation is an analytical synthesis, not an explicit philosophical treatise by Sigrika.",
+    "revision_or_falsification_condition": "If future text rejects the connection or portrays her consistently claiming final authority over others, the synthesis should narrow. Technical rune success alone cannot confirm it."
+  },
+  {
+    "id": "SIG-C42",
+    "title": "Unknown civilization remains unknown",
+    "epistemic_category": "source fact",
+    "confidence": "high",
+    "scope": "Rune archive and institutional profile",
+    "evidence": [
+      "SIG-E02",
+      "SIG-E06",
+      "SIG-E12",
+      "SIG-E60"
+    ],
+    "support": "She reports projections and unanswered questions; her speculation that runes may read her is marked as a question.",
+    "counterevidence_and_limits": "The source may permit hypotheses about engineering or ancient origins. None becomes a verified identity in this dossier.",
+    "revision_or_falsification_condition": "A later explicit primary identification can close part of the gap. An English True Name label or gameplay description is not sufficient evidence by itself."
+  },
+  {
+    "id": "SIG-C43",
+    "title": "Menu-triggered growth and defeat lines are not dated longitudinal observations",
+    "epistemic_category": "methodological source constraint",
+    "confidence": "high",
+    "scope": "Favor/archive and gameplay surfaces",
+    "evidence": [
+      "SIG-E55"
+    ],
+    "support": "The same archive contains reassurance, later resolve, growth language, battle exclamations, and defeat triggers. Their coexistence does not demonstrate a chronological relapse or canonical death.",
+    "counterevidence_and_limits": "Triggered lines remain useful for repertoire and production framing when correctly typed.",
+    "revision_or_falsification_condition": "A story scene explicitly reusing a line at a known time can supply a new chronological occurrence; it must be separately located."
+  },
+  {
+    "id": "SIG-C44",
+    "title": "The selected body of evidence supports a bounded reconstruction, not a complete game-wide biography",
+    "epistemic_category": "methodological inference",
+    "confidence": "high",
+    "scope": "Collection boundary",
+    "evidence": [
+      "SIG-E52",
+      "SIG-E54",
+      "SIG-E58"
+    ],
+    "support": "The contextual selection, unresolved identities, summary-only aurora-flight reference, and incomplete full-quest graph boundary are explicit.",
+    "counterevidence_and_limits": "The large and coherent central corpus is sufficient for substantial characterization; acknowledging gaps is not treating every claim as equally uncertain.",
+    "revision_or_falsification_condition": "Acquisition of missing primary sequences should extend the reconstruction and test its predictions rather than retroactively pretend those sequences were read here."
+  },
+  {
+    "id": "SIG-C45",
+    "title": "Actual waveform analysis now supports bounded machine-voice profiling",
+    "epistemic_category": "methodological source constraint",
+    "confidence": "high",
+    "scope": "Acquired native audio and declared signal methods in V0.2",
+    "evidence": [
+      "SIG-E53"
+    ],
+    "support": "All 2,809 routed objects were acquired, decoded, and FLAC/native-PCM verified; direct and counterpart scopes are separate. New pitch, energy/timing, spectral, normalization, source-context, quality, and sensitivity analyses support machine_voice_profiled under explicit limits.",
+    "counterevidence_and_limits": "Only 2,531 of 2,652 direct objects pass the principal pitch gate. No word alignment, isolated-stem guarantee, direct perceptual listening, or video review is claimed. Machine completion does not imply human-performance or audiovisual completion.",
+    "revision_or_falsification_condition": "A route, hash, reproducibility, or material method failure reopens the affected result and completion scope. A later perceptual or video pass may revise a specific interpretation without erasing verified signal measurements."
+  },
+  {
+    "id": "SIG-C46",
+    "title": "Cross-language timing differences are not automatically acting differences",
+    "epistemic_category": "methodological source constraint",
+    "confidence": "high",
+    "scope": "Localized semantics and acquired waveform evidence",
+    "evidence": [
+      "SIG-E22",
+      "SIG-E25",
+      "SIG-E26",
+      "SIG-E33",
+      "SIG-E53"
+    ],
+    "support": "Meaning, tense, line length, and runtime variant can differ. The packet therefore checks important wording shifts before proposing performance comparisons. V0.2 adds actual same-semantic recordings, language-specific written-unit duration controls, and explicit counterexamples to universal delivery assumptions.",
+    "counterevidence_and_limits": "Matched semantics do not eliminate all production or mix differences. A clean comparison still needs equivalent circumstances and media inspection.",
+    "revision_or_falsification_condition": "Only suitably matched acquired media and controlled analysis can support a particular acting contrast; a longer file alone cannot."
+  },
+  {
+    "id": "SIG-C47",
+    "title": "No visual-performance conclusion is established by this packet",
+    "epistemic_category": "methodological source constraint",
+    "confidence": "high",
+    "scope": "Pre-AV delivery",
+    "evidence": [
+      "SIG-E53",
+      "SIG-E54",
+      "SIG-E58"
+    ],
+    "support": "No Sigrika image/video witness was acquired, and toolkit code is not character evidence. Source descriptions of pictures or actions remain textual evidence.",
+    "counterevidence_and_limits": "The AV plan identifies strong visual tests; lack of a witness does not imply no expressive design exists.",
+    "revision_or_falsification_condition": "Acquired and actually inspected frames/sequences with declared clocks and provenance can support scoped visual claims. Tool installation or synthetic tests cannot."
+  },
+  {
+    "id": "SIG-C48",
+    "title": "Sigrika’s ordinary future is more than restored usefulness",
+    "epistemic_category": "inference",
+    "confidence": "high",
+    "scope": "Leisure, disclosure, travel, and farewell",
+    "evidence": [
+      "SIG-E31",
+      "SIG-E33",
+      "SIG-E34",
+      "SIG-E38",
+      "SIG-E39",
+      "SIG-E49",
+      "SIG-E51"
+    ],
+    "support": "Rest, shared pictures, food, fuller conversation, stories brought home, and desired journeys coexist with continued work. They are ends she can value, not merely fuel for tasks.",
+    "counterevidence_and_limits": "Work remains meaningful to her; a fulfilling day is not necessarily an escape from contribution. Some English wording stresses productivity more than the Chinese.",
+    "revision_or_falsification_condition": "An explicit later rejection of these desires as worthless except for work would challenge this account. Continuing to volunteer does not by itself do so."
+  },
+  {
+    "id": "SIG-C49",
+    "title": "The model’s central distinction predicts both refusal and voluntary commitment",
+    "epistemic_category": "inference",
+    "confidence": "moderate to high",
+    "scope": "Post-crisis within observed state boundaries",
+    "evidence": [
+      "SIG-E23",
+      "SIG-E26",
+      "SIG-E33",
+      "SIG-E34",
+      "SIG-E43",
+      "SIG-E47"
+    ],
+    "support": "A request can be declined when unmanageable, accepted when she can meaningfully contribute, or renegotiated when it conflicts with friendship. The governing change is not a binary from obedience to refusal.",
+    "counterevidence_and_limits": "The ordering is qualitative, not a fitted probability model. Very high-stakes novel cases remain uncertain.",
+    "revision_or_falsification_condition": "Repeated primary decisions contrary to the proposed distinctions would require revising the priority rules rather than explaining every miss as an exception."
+  },
+  {
+    "id": "SIG-C50",
+    "title": "Contradictions should be retained at the level where the evidence places them",
+    "epistemic_category": "methodological inference",
+    "confidence": "high",
+    "scope": "Whole selected corpus",
+    "evidence": [
+      "SIG-E01",
+      "SIG-E16",
+      "SIG-E20",
+      "SIG-E25",
+      "SIG-E33",
+      "SIG-E35",
+      "SIG-E47",
+      "SIG-E55"
+    ],
+    "support": "Care and pressure, effort and rest, perception and incomplete knowledge, playful overstepping and respect for secrets, and hope and grief are all evidenced without requiring a perfectly consistent ideal self.",
+    "counterevidence_and_limits": "Not every inconsistency is profound character design: some are localization, chronology, source-class, or extraction differences. Those explanations must be checked first.",
+    "revision_or_falsification_condition": "A contradiction dissolved by an exact source correction should be removed, not preserved for rhetorical richness. Genuine unresolved tensions remain explicit."
+  }
+]

@@ -1,0 +1,250 @@
+{
+  "schema": "KONOSUBA_CLAIRE_RAIN_NATIVE_AND_DERIVATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T08:07:45.666692+00:00",
+  "source_boundary": "6958c3726a1dc3f9fb505915508af32a2f7e7bae",
+  "preceding_gate_sha256": "d77fae35a118b459b5ca1059f66caf193dd1192b60adb7fc271347dfd0f51b2e",
+  "preceding_reload_sha256": "0baf267b08069a02266152acd3fc8649aa6ce67db2cd92ac555ad80554ba6f6a",
+  "private_actual_receiving03_sha256": "c3f66f54428441ff35d993d9dca80b7d93427f287bb6f2ab2d2565649e69ef8c",
+  "responsibility": "Exact admitted-source identity/member/range returns for two character analyses; no native source content or acquisition files.",
+  "reader": "Same continuing informed root AI; source outcomes already known, possible pretraining; no independent or native-human reader.",
+  "members": [
+    {
+      "source": "MAIN-06",
+      "component": "MAIN-06-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+      "register_sha256": "856209cc26ab2eaf7d3ed33905e193b2bb8f4f5afb3dd9bbfaef2bdd1549a86d",
+      "total_P": 640,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          174
+        ],
+        [
+          232,
+          335
+        ],
+        [
+          398,
+          424
+        ],
+        [
+          521,
+          584
+        ]
+      ],
+      "unique_context_slots_within_record": 369
+    },
+    {
+      "source": "CONTEXP-02",
+      "component": "CONTEXP-02-U013",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ccaa0e2b83859e0abccb2d57010dda46fef6ea18048e7bd775b7fbacb45ac267",
+      "member_sha256": "78226812570a45053a1e90fc069dd72105fdbd50a0e5771c60e0a52ab7102518",
+      "register_sha256": "7d2db19645e0660d86b0eae2e9043c270fa1699426bfc2eac488bebc73f6ba8b",
+      "total_P": 509,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          165
+        ]
+      ],
+      "unique_context_slots_within_record": 165
+    },
+    {
+      "source": "MAIN-10",
+      "component": "MAIN-10-U013",
+      "member": "text/part0011.html",
+      "native_sha256": "8b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733",
+      "member_sha256": "a36909b07482011a912e9150820b0af418ead81a8da0f21a97e8282cef3f73a0",
+      "register_sha256": "86271e4cc6e8fa34ed204310f23f7368c99d726f8a04a5316e66b67eba56cf2f",
+      "total_P": 541,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          180
+        ],
+        [
+          475,
+          541
+        ]
+      ],
+      "unique_context_slots_within_record": 247
+    },
+    {
+      "source": "MAIN-11",
+      "component": "MAIN-11-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "member_sha256": "402519269fae35532674fbb60f7fdb8b42df28e725a4b27c30639aafcfdd971f",
+      "register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "total_P": 633,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          96
+        ],
+        [
+          411,
+          633
+        ]
+      ],
+      "unique_context_slots_within_record": 319
+    },
+    {
+      "source": "MAIN-11",
+      "component": "MAIN-11-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "ffee8a32ec536bbacf7f72c3482a11230dc177c33740296c55238eeb62eeab46",
+      "member_sha256": "3c906a437c23241ca003a012cedc1461282eb8a9e4c4bf5781231f02b4984760",
+      "register_sha256": "d323c2fad7915c46bfe9d041350e8aec40561f23741abfbbf00a6fac913b9dc4",
+      "total_P": 534,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          145
+        ]
+      ],
+      "unique_context_slots_within_record": 145
+    },
+    {
+      "source": "MASK",
+      "component": "MASK-U015",
+      "member": "text/part0013.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "member_sha256": "f05e2d91c0172071fe267417fee8952b8642814e0adac0b061fb346f6e1dd8b3",
+      "register_sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349",
+      "total_P": 518,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          518
+        ]
+      ],
+      "unique_context_slots_within_record": 518
+    },
+    {
+      "source": "CONTEXP-01",
+      "component": "CONTEXP-01-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "60962eb6d9d10c2c640846c22749ebad305180beb6af1a41c9b05ef76b4fa51f",
+      "member_sha256": "598ef7fa04089518be1fe8dc3f5296a89ee236436fdfcd47dc75ca0bb43a4b5a",
+      "register_sha256": "8c31cb78d30d549864623f781fad193e5457b9b0cad722fe5e1cb45dcf7a3120",
+      "total_P": 501,
+      "actual_received_BASE_ranges": [
+        [
+          360,
+          430
+        ]
+      ],
+      "unique_context_slots_within_record": 71
+    },
+    {
+      "source": "DUST-03",
+      "component": "DUST-03-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "member_sha256": "9d67df3460c4a5c82bac1c24940a62b8de104b47d7dce51c451f4165c0ec2fd1",
+      "register_sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a",
+      "total_P": 913,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          913
+        ]
+      ],
+      "unique_context_slots_within_record": 913
+    },
+    {
+      "source": "DUST-03",
+      "component": "DUST-03-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "58b6a86f341eff89b1b4743c0a62a0c1535c8b4ecb1163fe104fda7fa26f3040",
+      "member_sha256": "f1e7804375afff09f4078876bf08ff57e917884f98f721968dbf7dca2397a29a",
+      "register_sha256": "53b858ed6ac34f17cb61c2e7078b813750fd1295f97ff4b58da4548a3417172a",
+      "total_P": 370,
+      "actual_received_BASE_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          270,
+          370
+        ]
+      ],
+      "unique_context_slots_within_record": 201
+    },
+    {
+      "source": "MAIN-06",
+      "component": "MAIN-06-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+      "member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+      "register_sha256": "856209cc26ab2eaf7d3ed33905e193b2bb8f4f5afb3dd9bbfaef2bdd1549a86d",
+      "total_P": 679,
+      "actual_received_BASE_ranges": [
+        [
+          400,
+          679
+        ]
+      ],
+      "unique_context_slots_within_record": 280
+    },
+    {
+      "source": "MAIN-15",
+      "component": "MAIN-15-U013",
+      "member": "OEBPS/Text/part0011.xhtml",
+      "native_sha256": "ceae1226aa01421185231c837f542c430bd289489b73276b7086bb3c216ba005",
+      "member_sha256": "284a00b2c93af6021012842422f47d9e46a92ca2c9e4d4eb27e0a073c7ef1e33",
+      "register_sha256": "8d550c03bd34d188dbbcf28567a7dd5d2cb3d9a74a67223c9ddbed6bb6ab2594",
+      "total_P": 958,
+      "actual_received_BASE_ranges": [
+        [
+          414,
+          470
+        ]
+      ],
+      "unique_context_slots_within_record": 57
+    }
+  ],
+  "source_known_BASE_context_slots_within_shared_receipt": 3285,
+  "native_members": 11,
+  "native_objects": 8,
+  "counting": "One union of the actual listed windows within this receiving only. Two subject artifacts do not double the count. Context is not a character-action or final-event denominator. Earlier full native/ruby/image receipts retain their own exact scopes.",
+  "whole_known_BASE_members_rechecked": [
+    "MASK-U015:1-518",
+    "DUST-03-U013:1-913"
+  ],
+  "derivative_reinspection": {
+    "path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V03_DEEP_READING.md",
+    "sha256": "05f34f0eac8f51d195154d2b64b5a91945f524ed88eb4af8d60d6d630e6f92bd",
+    "complete_received_line_ranges": [
+      [
+        1,
+        100
+      ],
+      [
+        101,
+        194
+      ]
+    ],
+    "scope": "Already accepted complete derivative, reinspected here; no new native credit."
+  },
+  "event_joins": [
+    "MAIN06 cast, Iris additional passenger and later hospitality framing are connected phases.",
+    "MAIN10 lip-read proposed sedation differs from MAIN11 completed memory procedure and observed gap.",
+    "MASK finance-cost anticipation and DUST03 recognized memory projection return to one episode.",
+    "DUST03 prologue/full palace scene/image repeats are one mask-control episode. Dust controls Rain body; neither narrator knowledge nor body ownership changes actual actor.",
+    "MASK precedes remembered DUST03 visit explicitly; unresolved Elroad matter retains its local timing.",
+    "MAIN15 officer/letter account is later reported evidence, not a watched new court meeting."
+  ],
+  "source_plane_limits": [
+    "Direct act, narrator inference, self-account, lip-read conversation, magical projection, tentative mechanism, reported visit, letter and hypothetical output remain typed.",
+    "CONTEXP01 Rain crying is Claire prediction, not actual newly watched Rain behavior.",
+    "The café joint-role statement is qualified at consultation scope; no uniquely tagged Rain turn is forced."
+  ],
+  "new_global_unique_primary_full_source_ruby_image_admission_independent_or_prospective_credit": 0,
+  "historical_forecast_score_or_blank_null_changes": false
+}

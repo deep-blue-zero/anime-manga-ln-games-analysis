@@ -1,0 +1,377 @@
+{
+  "schema": "BLUE_ARCHIVE_MARINA_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_PREPARATION_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 44401,
+      "sha256": "88fac4f6e65638f65b3d4f7104a9c9494931d71258e2e46d466c44193fbf7237",
+      "git_blob_oid_of_actual_bytes": "824746ab319c1611b57215158276e22a687fd8c7"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 46612,
+      "sha256": "bd6c7d4a16ea2368fa2f10a3825f94d9d6754b236b81f2e21b5feb3c4cf9e5db",
+      "git_blob_oid_of_actual_bytes": "100aae71bd671ee7457fb4e031c08df1983230bb"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          4
+        ],
+        "canonical_lines": [
+          3,
+          4
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: working_candidate_root_receiving_pending"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: character_monograph",
+          "historical_author_status: working_candidate_root_receiving_pending"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          5,
+          24
+        ],
+        "canonical_lines": [
+          5,
+          24
+        ],
+        "exact_unchanged_lines": [
+          "execution_classification: DEEP_SYNTHESIS",
+          "person_ids: [BA_PERSON_MARINA, BA_PERSON_CH0270]",
+          "typed_family: MARINA",
+          "existing_required_home: P3-CHAR-MARINA-TWO-KEY-BOUNDED",
+          "source_responsibility: P3-F114",
+          "method_version: \"1.10\"",
+          "architecture_version: \"1.12\"",
+          "analytical_main: 2e2018d0d62d91e3e0a5e7681f72a31cec08e02c",
+          "analytical_source_branch_witness: c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+          "dated_navigation_head: 86e0c3d8071aeaa2ed09bb79d4a28fce1c117103",
+          "pinned_Japanese_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "game_version: v1.73.459696-r96_3cpn8ebtdjiqi6y9qtn1",
+          "parser_version: \"0.2.0\"",
+          "private_boundary: \"17 existing selected responsibilities:7BOND/7wholeMomoTalk/3written;10037|10103; two preserved raw person keys; costume1900929001->10103\"",
+          "authority_quartet: \"Current Cycle008 admission; personally complete adequate accepted analytical meanings at declared whole/span custody; exposed retrospective sources with chronology/independence UNKNOWN where undeclared; performed voice unreceived\"",
+          "new_primary_native_raw_QA_AV_model_credit: 0",
+          "source_boundary: \"Complete base9 checkpoint/four complete paired arguments/complete10037 written argument; already wholly received RedWinter7 current later8 meaning; complete gift810090,Final100C002E002 and three small E802/E808 arguments; qualified prior whole public owners reused. No new primary-source opening/hash or whole-main-arc replay.\"",
+          "original_stable_gaps: ALL_14_OPEN",
+          "ROOT_acceptance_canonical_install_publication_count: PENDING_SEPARATELY"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          25,
+          24
+        ],
+        "canonical_lines": [
+          25,
+          34
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "artifact_type: character_monograph",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_MARINA_CHARACTER_MONOGRAPH.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_MARINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 7546a2331b3f2ca83798d54f9a2b8120c780adae",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          25,
+          27
+        ],
+        "canonical_lines": [
+          35,
+          37
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Marina — recognition, ordinary skill and the people an ideal officer fails to see"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          28,
+          27
+        ],
+        "canonical_lines": [
+          38,
+          39
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently accepted this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MARINA_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual author/ROOT source scopes and the accepted first-milestone control; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_MARINA_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the frozen original and complete byte inverse. Retained author pending, local navigation, source-capture and count wording describes creation-time custody. The first89 packages were published at source `7546a2331b3f2ca83798d54f9a2b8120c780adae`, squash-merged as main `b76b4373e6d0526bc78ce00bb673dba9e536c128` with the same `e9b01c39d750a9d12296023f0b29d04f30f3cdb5` tree, and accepted after the exact postmerge full audit. This first25% milestone does not finish Phase3. The present fixed twelve-package90–101 continuation takes effect only through complete ROOT installation:101 packages (89 character,6 directed relationship,3 ensemble,3 institution), with3 of29 mandatory named duties; later live ROOT reviews remain outside this snapshot. Required355 packages and29 non-denominator duties across25 distinct parents, the next178 milestone, all14 original OPEN gaps and model0 remain unchanged. This preparation provides no installation, publication, local source/main reconciliation or new source, primary, performed, independent literary or scope credit."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          28,
+          189
+        ],
+        "canonical_lines": [
+          40,
+          201
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Core thesis: wanting to be a capable officer can support care and obstruct recognition",
+          "",
+          "Marina's recurring difficulty is a mismatch between a person and a standard of what that person must be. She wants to defend Red Winter, deserve recognition and keep an important office. Those wants sometimes make her dismiss evidence that contradicts the ideal: missing sweets become espionage, a real chair fails her subordinates' publicity-based identity test, and a fictional mascot must become an enrolled student. The difficulty also works upon her. She fears being judged unworthy and can be hurt by the image meant to honor her. This is a situated literary pattern, rather than an empirical personality mechanism or a claim that every error has the same cause. The spy pair, detention, and mascot sequence give it different actors and endings. [BA:bond:10037:002:u37–58;003:u1–68;006:u1–51; BA:group:1301–1303.]",
+          "",
+          "The same person can clean attentively, take pleasure in the result, appreciate animals, accept practical help, worry about hospitality burdens and value remembered work. These qualities deserve full treatment. Cleaning is valuable as work and an enjoyed experience before it becomes reassurance about office fitness; a panda is enjoyable before its image becomes a diplomatic gift; a bear toy matters as comfort, without needing to explain a political decision. Marina's cruelty toward Nodoka and destructive firing remain actual contrary evidence. Their presence does not convert every soft interest into camouflage, and ordinary warmth does not authorize the coercion. [10037E005:u1–51; written10037:3577–3579,3590–3605; EVENT839:E007/E014; GROUP1302:u25–50.]",
+          "",
+          "Her strongest positive development is local responsiveness. She accepts calming company, useful navigation, shared work, reassurance, an initially refused photograph opportunity and a new account of what preserves a medal's value. The record also preserves what does not change: a false identification standard, renewed disorientation, an unanswered purchase question, unprinted sharing of cake portions, and a subsequent tea disagreement. These finite ends prevent both a complete rehabilitation story and a permanently incapable-person verdict. The thesis is therefore comparative: recognition can be sought through rank, publicity or competent service; each route gives different people power to judge, help or refuse. [10037E002/E003/E005/E006; 10103E002/E003/E005 and their whole threads; EVENT810090:u15–33.]",
+          "",
+          "This monograph occupies the existing bounded two-key literary home. BA_PERSON_MARINA/10037 and BA_PERSON_CH0270/10103 remain exact source responsibilities, rather than a newly authenticated registry merge or a chronological ladder of costumes. Securely named event speech with empty person/variant fields is retained as local Marina evidence. Anonymous guards, students, shopkeepers and the photographer have their own local roles; they do not become repeated people by shared occupational labels or lettered names. Current admission qualifies the preserved older wrappers' pending/no-later-variant statements. [Current MARINA coverage row; RedWinter7 §2/§4/§8/§10; base checkpoint §3.]",
+          "",
+          "## 2. Longitudinal arc: a limited continuation, distinct encounters and unfinished returns",
+          "",
+          "There is one meaningful locally supported base sequence. The whole thread100370130 explicitly continues the spy search begun through100370010; thread100370200 refers to the statue incident and reports a one-week cleaning penalty. These references support E002→E003→E005. The access condition before thread100370320 separately requires preceding Favor/group controls; it does not independently date the detention story after cleaning. Release dates, episode gaps, birthdays and exchange availability are documentary controls, not coordinates on a single in-world calendar. No private encounter is ordered as a reform after GROUP130's coercion or a particular coup. [Base checkpoint §3; exact threads100370010/130/200/320.]",
+          "",
+          "The spy inquiry develops through actual contrary information. Marina begins by reporting discrepancies in snack numbers and dismissing alternative explanations through different message branches. Her security quiz admits dragons because they are cool and cancels a question she cannot settle. When the adult reverses the test, her reported propaganda claim about Cherino's height conflicts with her own observation; tentative age knowledge then contributes to her self-purge proposal. Sensei calms and accompanies her in the printed ending. Neither a purge nor an arrest occurs. This is a genuine interruption of distress, while the inquiry's initial premises remain unverified. [10037E002 whole M010;u1–58/choices1–12.]",
+          "",
+          "E003 does disclose an outcome: the narrator says the culprit was later identified as a cat. It also shows firing and a damaged statue. The disclosure should survive beside, rather than be reduced to, Marina's triumphant interpretation. It does not prove that every earlier missing snack had that same cause. Her childhood account of being scratched while feeding a stray is reported kindness and vulnerability, without a childhood/current-cat identity join or clinical diagnosis. Later punishment is qualified by らしい; threadM200 separately reports cleaning. No wounded or dead animal, repaired monument or complete sanction dossier is printed. [10037E003:u38–68/choices7–10; whole M130/M200.]",
+          "",
+          "The cleaning encounter changes the available appraisal of competence. Marina coordinates the task, gives practical reasons for early work, takes pleasure in clean surfaces, credits joint effort and explicitly forgives lateness. Completion is her statement, rather than an independent safety audit. She resists losing the security-chair identity, entertains a combined cleaning role and retains presidential ambition. The encounter gives a completed local pardon and wanted praise without proving an appointment, coup success, equitable labor rule or durable revision of harsh disciplinary language. [10037E005:u1–51; whole M200; written3593–3605.]",
+          "",
+          "The detention encounter has a different finite arc: a private help request, a publicity-shaped refusal to recognize her, narrated release after unspecified persuasion, proposed resignation, alternative reassurance and reconsideration. The final return with light steps is immediately qualified by renewed getting lost on the route. Resumed office work and corrected identity records are not shown. Choosing to protect her subordinates' dream gives the episode a caring motive and a continuing informational cost; it is not a clean closure of the institution's mistake. [10037E006:u1–51; M320 all8 messages.]",
+          "",
+          "The exchange stories broaden the comparison without supplying a universal later state. Tasting gives genuine enjoyment followed by whole-thread stomach discomfort and a request to have been told earlier. A photograph session completes, but its entire thread ends with an unanswered purchase question. A cake dispute receives enthusiastic replies after she eats the cake, while another preference conflict leaves tea cold. The endpoint of each full MomoTalk object matters: W15's launch messages060/180 are not the full endings130/280. [10103E002/MM101030010;E003/MM101030120;E005/MM101030240; RedWinter7 §4.]",
+          "",
+          "| Source-local state | Positive change or available capacity | Contrary endpoint and chronology limit |",
+          "|---|---|---|",
+          "| 10037E002/M010 | Accepts being calmed and accompanied; tastes qualify quiz rigidity. | No verified spy or enacted self-purge; no global timing. |",
+          "| 10037E003/M130 | Accepts adult observation/navigation; case ends with cat disclosure. | Actual firing/statue damage; sanction reported and restitution unprinted. |",
+          "| 10037E005/M200 | Skilled joint routine, stated completion, pleasure and forgiven lateness. | Punitive vocabulary and office ambition persist; no school-wide accident audit. |",
+          "| 10037E006/M320 | Requests help, obtains release, reconsiders quitting after reassurance. | False ideal uncorrected; gets lost again before resumed work is shown. |",
+          "| 10103E002/MM010 | Enjoys scorpion crunch/aroma and samples further food. | Starfish response differs; stomach complaint and incomplete learning remain. |",
+          "| 10103E003/MM120 | Initially refuses, then agrees; shooting actually completes. | Book/news reported; purchase question receives silence through the whole tail. |",
+          "| 10103E005/MM240 | Students explicitly welcome her taste-first lesson. | No shared portions/prior permission shown; new tea debate remains unresolved. |",
+          "| EVENT810090 | Revalues keeping a medal into a grateful request to receive it. | Acceptance/eating/collective memory and factory supply are unprinted. |",
+          "",
+          "## 3. Public and private self: a feared reputation is neither a complete person nor a harmless mask",
+          "",
+          "The10037 profile presents merciless-chair reputation as reputation, then describes directness, dutifulness and getting lost after charging. Its qualification matters: it does not pronounce the frightening image false in every circumstance. GROUP130 supplies actual pressure and exploitation; the private sources supply ordinary attachment and fallibility. The Chinese-style outfit's10103 profile adds enjoying hospitality and pandas while feeling uncertain about exposure. Age16/year2/height166/birthday11/4 are descriptive metadata, not a growth interval or changed bodily state. Raw Club=None, the gacha label and CharacterExcel secretariat field remain distinct representations. [Written10037 §5; RedWinter7 §4.4.]",
+          "",
+          "E006 makes public image an obstacle to the actual person. Her guards know an ideal chair who would be fearsome and faultless; a person who gets lost and fears cats cannot satisfy it. Their admiration is directly represented, but the article they invoke is not independently inspected. Marina's request that Sensei preserve the dream can be understood as affection toward followers and as reluctance to expose a humiliating contradiction. The request leaves the false recognition standard unresolved in the printed outcome. It does not demonstrate that she authored the publicity or that the adult's successful persuasion corrected their standard. [10037E006:u1–30,31–51.]",
+          "",
+          "Her private reliance is explicit where she asks for help that she cannot discuss with secretariat colleagues. This is selective trust and acknowledged inconvenience; it does not establish the adult as her only possible attachment. In the whole exchange-photo thread, she rejects flattery and says sincerity is more troublesome. That response is meaningful beside her earlier reluctance, agreed participation and recalled praise, without identifying every narrated evaluation as direct adult speech. The continued call after silence prevents us from inventing a mutually understood romantic ending. [M320:440–510;10103E003:u41–71/MM190–280.]",
+          "",
+          "Nor is ordinary enjoyment restricted to privately safe moments. E802E010 presents naps, snacks and a soft chair from Marina's perspective while she holds office against Cherino. She wonders about cocoa for the approaching predecessor, then remembers her own presidency and fears losing the position. Familiar service, care, anxiety and habit are live rival explanations for the impulse; the cocoa is unserved. Office comfort has value to her without excusing anticipated attack, and the adult's absence makes the reflections reader-facing rather than Sensei's witnessed knowledge. [BA:event:802:010:u2–30.]",
+          "",
+          "## 4. School and club role: skilled service, coercive delegation and unstable criteria",
+          "",
+          "Marina's security work is not merely an empty title. She can identify the impossibility of registering a fictional mascot, explain dry floors and ventilation, perform detailed routine work, and assist Mina in a conflict. Those are different capacities. They do not prove expertise at investigation, proportionate use of force, safe crowd management or comprehensive administration. Her claim that hygiene accidents have almost never occurred is explicitly bounded by what she knows, and belongs only to one reassurance branch. A person can have real skill while the institution makes false prestige a criterion of belonging. [GROUP1301:u23/33/43;10037E005/E006;EVENT839:E010/E012.]",
+          "",
+          "The mascot task shows the coercion's direction clearly. Marina first voices accurate limitations. Cherino's demand and Tomoe's quoted correctness/purge rules then make disagreement costly. Marina's plan to fabricate a mascot student is reader-visible, tied to career and punishment concerns; she does not need sincerely to believe the fiction. This upstream pressure explains a choice but does not absolve what she does to Nodoka. The plan changes an administrative impossibility into a demand that another person perform the desired proof. [BA:group:1301:u23–64.]",
+          "",
+          "Nodoka refuses the costume, objects to being belittled and asks Marina to tell Cherino when she is wrong. Marina exploits her scarce-pudding preferences by eating and wasting food before her, threatens the telescope and enacts tickling until conditional compliance follows. The telescope's fingerprints are threatened, not shown as actual damage; laughter does not cancel the plea to stop. Proposed mint-chocolate pineapple-tempura is not demonstrated ingestion or an experiment. The institutional reading requires Nodoka's independent judgment and pleasures, rather than reducing her to the effect Marina obtains. [GROUP1302:u7–50,51–63.]",
+          "",
+          "Marina's fabrication cannot satisfy a criterion that changes with Cherino's visual dislike of the costume. Nodoka's defense of the old school exposes the wearer; Cherino orders punishment and the local sequence turns toward revolt. The week-later aftermath narrates repeated revolutions followed by return to the previous arrangement. It is a bounded institutional ending, not proof no individual concession ever occurred or every Red Winter actor is incapable. No formal choice belongs to Sensei in this sequence, and its title system is not a narrator's certification that the president is always correct. [GROUP1303:u11–51; whole GROUP130 accepted argument.]",
+          "",
+          "EVENT810090 adds a distinct labor account. Marina reports months of work, factory-supervisor appointment and this month's output reaching200% of last year's figure. Pride in labor and concern for the chocolate medal's perishability are secure represented concerns. The figures and supply instability remain her report; Korean's average/exceeding threshold is not the Japanese baseline. Revaluing the medal does not deliver raw materials, audit production or settle appointment validity. The material honor question is intrinsic, even when factory reform is outside the demonstrated outcome. [BA:event:810:090:u1–33/choices1–6.]",
+          "",
+          "## 5. Ordinary life: satisfying surfaces, particular animals and tastes that need not converge",
+          "",
+          "Cleaning matters because Marina enjoys it. Specific attention to crevices, detergent, drying glass, newspapers and ventilation supplies more than a vague declaration of competence. Seventeen timed actorless records carry the scene's instructions; thirteen separately attributed written lines corroborate the vocabulary without retroactively filling the actor fields. Adjacent clean speech preserves her satisfaction and wanted praise. This ordinary activity is not merely a rehabilitation device or preparation for political promotion. The adult's internal cleaning-head suggestion and her response remain a source-mode seam, while her stated enjoyment is secure. [10037E005:u16–51; written10037:3593–3605.]",
+          "",
+          "The bear motif has distinct uses. Fearless bear-hunting imagery expresses a martial posture; メドヴェーチ is explicitly a stuffed toy she says helps her sleep, not a living bear or a human companion. E808's reported bears near the bath interest her despite her denial of wanting to play with them. E839 actually gives delight and calm while watching pandas, permission for a closer approach with distance guidance, and an offered panda model. A later report of trying to hug a panda does not show a completed safe hug. Comfort, curiosity, esteem and risk are different functions, rather than evidence for one unconscious mechanism. [Written3574/3577–3579;EVENT808003:u63–71;EVENT839:E007/E008/E014.]",
+          "",
+          "Written wishes enlarge her range without becoming enacted scenes. Cold kompot, warm softness, birthday company and equal sweets matter as wanted experiences and a stated norm. Equal distribution without a behavioral condition contradicts a purely loyalty-based distributive portrait, but it is not a shown distribution and cannot retroactively justify wasting pudding before Nodoka. The10103 written source adds loneliness, navigation company, bear-touch wishes, clothing discomfort, seasonal reports and shoulder-strap concern. None needs a battle or plot consequence to warrant inclusion; none independently proves a cure, accepted touch or fulfilled birthday. [Written10037:3567–3591;RedWinter7 §4.4 full10103 meaning.]",
+          "",
+          "Tasting abroad supplies both pleasure and dissatisfaction. Marina worries unfamiliar quantities and textures burden the host and dishonor Red Winter. The shopkeeper's fabulous ingredient descriptions become a joke, not culinary facts; her later overgeneralization fails when the insect-like food is real. She actually likes the scorpion, responds differently to starfish and continues sampling. The complete message afterword reports stomach discomfort and asks why Sensei did not say earlier that the skewers were tourist food. This complaint must survive a summary of her happy experience. Hospitality enjoyed is not universal agreement about the experience or audited medical harm. [10103E002:u7–70; whole MM101030010:70–130.]",
+          "",
+          "Tea and cake have value beyond school symbolism. Her remembered samovar method and jam preference are her account and taste, while a future offer to host Sensei is not a completed reciprocal visit. Students disagree about appearance, cutting, ease of eating and alternating tea; these are genuine preferences, not obstacles to her correct doctrine. They explicitly approve her taste-first intervention after she eats the disputed cake. Their replies are positive evidence; unprinted indignation must not replace them. Their assent still does not show prior permission or shared portions. A new dispute about tea continues until it cools. No lasting harmony closes the scene. [10103E005:u2–65; whole MM101030240:290–330.]",
+          "",
+          "Her medal's problem similarly cannot be reduced to greed. She initially refuses to eat because a witness to effort would disappear and dislikes leaving Cherino's gift refrigerated. Advice about memory helps her choose a grateful recipient while retaining the object's honor. That chosen request is an actual change in valuation, not a completed adult acceptance or eating. The argument preserves pride, perishability and remembered work together; nobody's collective memory is inspected. [EVENT810090:u10–33;JP/KR differences in current argument§8.]",
+          "",
+          "## 6. Crisis behavior: fear, reciprocity and promised defense with finite results",
+          "",
+          "The cat encounter is a consequential adverse case, although it begins with an ordinary missing-snack problem. Marina expands observed tracks into a sophisticated disguise theory, loses her way, accepts useful adult navigation and then fires in fear. The damaged monument is actual; the reported feeding anecdote explains vulnerability without proving innocence or requiring diagnosis. Choice alternatives concerning a missed bullet or escaped cat cannot be combined into a wound. The ending's case disclosure matters independently of whether her own theory was vindicated. [10037E003:u8–68.]",
+          "",
+          "E802 locates another revolt in an accidental damaged statue, anticipated punishment and preemption. Marina's imagined sentence is not an imposed Cherino order. Later, she enjoys office comfort, briefly responds as a host to the approaching predecessor, weighs reported hundreds against five or six and chooses an attack. Her incredulous question that Cherino persuaded them is not the established cause of the coalition; reader-known conditional bargains and each faction's interests retain their own agency. E010 ends with a forecast and decision, rather than a demonstrated maneuver or military success. [EVENT802 current comparison:E002;wholeE010:u2–30.]",
+          "",
+          "The restoration does not render affection meaningless. Cherino explicitly says Marina's support matters more than the statue, then punishes the coup's disruption with a month of cleaning. A positive acknowledgment and an adverse order coexist with different stated objects. The festival aftermath reports skilled cleaning but exhausted Marina and depleted/confined guards; renewed demands interrupt wished company. Punitive labor has a concrete capacity consequence in this local ending. It does not demonstrate the delivered pay, leave, pudding or access promised to factions, a completed second escape or permanent governance collapse. [EVENT802E011:s1u13–46;s3u6–36.]",
+          "",
+          "In Shanhaijing, Marina is also a harmed guest and an active reciprocal helper. The interrogation threatens a young panda and distresses her. Subsequent correction and comfortable borrowed clothing are actual improvements after harm, rather than proof hospitality was harmless throughout. The park/bear dispute with Mina reaches a local accord after Sensei reframes the boast; Mina retains her protection agenda. In the later conflict Marina helps in reciprocity and refuses to leave Mina the only heroic line. Numerical defeat precedes further help and a later charge/local victory. No singular Marina rescue explains every participant's decision. [EVENT839:E003/E005/E010–E012.]",
+          "",
+          "Her guessed two or three weeks of toilet cleaning for Kaguya is not the punishment eventually imposed. The farewell gives actual gifts, appreciation and future hopes while Kisaki claims continuing responsibility, Kaguya retains her position and confinement is later shown. Marina's security language travels into an unfamiliar legal setting without becoming reliable comparative law. Her costume's contribution requests and success guarantees are event-conditioned words, not donations or certified outcomes. [EVENT839:E013/E014;written costume1900929001:839/10839/900839.]",
+          "",
+          "Final provides a bounded public commitment. Tomoe/Marina participate in the district-response pledges within an explicit division between attacking towers and protecting/evacuating civilians. The episode establishes assignments and promises with some separately reported resources, rather than Marina completing evacuation, defeating a guardian or guaranteeing safety. Whole Final custody is adequate context, but this particular figure's claim rests on the small meeting argument. The later Red Winter welcome/rally episode does not provide a new named Marina action. [BA:main:100:002:002:s7u12–62;100C002E008 qualified comparison.]",
+          "",
+          "## 7. Sensei relationship: practical help, chosen appraisal and unanswered obligations",
+          "",
+          "The adult's relation to Marina begins neither as universal command nor uncomplicated trust. She treats the trusted visitor as potentially compromised and threatens a sanction in the quiz; the adult can protest, answer, reverse the test and then actually calm and accompany her. Alternatives about miscounting and secret eating have distinct message responses. Three converging praise options do not mean three accumulated adult statements. Her acceptance of being calmed supports a real moment of help without proving the test was acceptable or a general adult authority over her beliefs. [10037E002 full M010/choices1–12/u58.]",
+          "",
+          "The next search distributes skills: adult observation/navigation help, Marina praises the finding and conditionally intends to propose a medal after successful capture. No medal proposal or award is shown. In cleaning she recruits Sensei through asserted co-responsibility, rebukes actual lateness, accepts joint work, credits it and asks for praise. The adult is neither an omnipotent investigator nor merely a spectator: local help and limits both matter. Internal job-related wording is not silently turned into a spoken recommendation, even when the next line answers it. [10037E003:u1–37;E005 full M200/u1–51.]",
+          "",
+          "In detention she privately summons the adult, apologizes for distance and asks for concealment. The M320 early Answers at successive groups are successive commitments, not alternative branches. Sensei shows identification and secures release through narrated unspecified persuasion, then offers one of two rationale branches: caring about feelings/stories, or cleaning skill with its bounded safety claim. Both support reconsideration, but neither is coactual with the other. The intervention leaves guard recognition uncorrected and navigation incomplete. Trust and care are genuine without a completed cure of office insecurity. [10037E006 whole M320;choices2/5/7/u27–51.]",
+          "",
+          "The exchange-photo encounter includes recipient constraints upon the adult's wishes. Marina initially refuses the photographer at u41. The offered panda book and alternative adult response—nonforce or wanting to see—then contribute to situated agreement. Later consent does not erase the earlier refusal, and the nonforce option cannot be claimed alongside the more interested option as guaranteed conduct. Timed narration preserves embarrassment and recalled/evaluated praise, rather than a newly witnessed direct compliment in every unit. The full thread's repeated unanswered question about purchase is an unresolved adult-response boundary, not tacit proof a book was bought or affection reciprocated. [10103E003:u41–71/choice5;MM190–280.]",
+          "",
+          "Wanted company also appears without a rescuing task. Birthday language imagines happiness if Sensei stays;10103 asks for companionship and navigation; the café invitation pursues flavor; gift090 solicits advice and ultimately a grateful receiving/eating role. These are distinct student wishes and actual requests. The adult's memory advice is not knowledge that all students remember her work; the medal's acceptance remains unprinted. Her tasting afterword directly criticizes what was not explained earlier. A serious dyadic reading therefore includes imperfect accompaniment and unfulfilled response beside competent comfort. [Written10037:3582–3586;RedWinter7§4.1–4.4;EVENT810090:u23–33.]",
+          "",
+          "## 8. Major peers: different people retain different wants and grounds of refusal",
+          "",
+          "Cherino is a valued leader, threatening superior, admired cute person and competing officeholder under different conditions. Marina can accurately object to a demand, fear sanctions, fabricate compliance, consider cocoa and enjoy her own seat. Cherino can acknowledge indispensable support and still punish. Neither universal obedience nor total antagonism fits those exchanges. E802's speculation about stolen pudding/bear plush is not the established coup cause; Marina does not recall the incidents there. Written affection does not turn an invoked Cherino into a live private-scene participant or certify all loyalty as freely chosen. [GROUP130;EVENT802010/011;written3580–3581.]",
+          "",
+          "Tomoe's role is differentiated. In GROUP130 she reinforces the leader's demand through praise and code threat; later she corrects Cherino's reported lateness. Marina is not the sole planner of every administrative action, and Tomoe is not universally silent. The petition's destruction belongs to Tomoe's proposal/Cherino's agreement, with no direct Marina intervention established by the GROUP280 comparison. Preserving these actor limits keeps the ensemble accountable without treating all office harm as one person's action. [GROUP1301:u24–52;1303:u3;GROUP280 whole argument as comparative home.]",
+          "",
+          "Nodoka is an adverse recipient with persistent agency. She refuses despite wanted material benefits, identifies waste as waste, values her telescope and rejects degrading the old school. Conditional compliance under tickling gives a forced performance; its eventual failure does not erase the harm. Her rebellion invitation and place-attachment interrupt the plan, rather than merely registering Marina's loss of control. Shigure's later hospitality gives Marina distinct bear interest; it does not demonstrate permanent reconciliation between the coercer and Nodoka or informed site-wide approval. [GROUP1302/1303;EVENT808003:u63–88.]",
+          "",
+          "Mina is a peer with a shared protective idiom but a distinct object of protection and school context. Marina's distress for the panda, a park misunderstanding, agreed reframing and reciprocal combat assistance are specific. Mina's stated choice to protect Kisaki even against the school cannot be borrowed as Marina's general doctrine. The anonymous guard in costume1900929001 is not Mina solely because of sunglasses or occupational similarity. Kaguya's opposition and art interests remain independent reasons within the larger encounter; Marina's imagined sanction does not decide their legitimacy or future. [EVENT839:E003/E005/E010–E014;RedWinter7§4.4.]",
+          "",
+          "Local food students also count as recipients. The cake students have different requests and explicitly applaud Marina's lesson; the tea disputants resist her jam/sugar method. Agreement and disagreement coexist without a lesson that taste differences will disappear. A/B labels in the café are not joined to photo admirers elsewhere. The photographer completes shooting after her agreement, but publication/sell-out remains reported and no pixels or saved-photo count were inspected. The cat remains episode-local, while the toy is an object; neither acquires a cross-story biography through the bear/animal motif. [10103E003/E005;10037E003;written3577–3579.]",
+          "",
+          "## 9. Written language and voice: commands, softened wants and exact attribution limits",
+          "",
+          "私/先生, official titles, charge/spy/purge vocabulary and interrogatives stage her claim to confidence. The language also permits concession, uncertainty and wanted pleasure. The cancelled quiz, 悔しいが、一理あるな, tentative age answer, explicit enjoyment and praise request all resist an invariant rigid register. In written contexts, softened forms such as いいのだが and かもしれない accompany drink and company wishes. A threatening register is analytically significant without swallowing every intimate or practical formulation. No heard tone, comic timing or performed consistency is inferred from textual recurrence. [10037E002/E005;written3567/3584–3586;profile CV metadata only.]",
+          "",
+          "Actor seams constrain particular claims. In10037E006, canonical Marina at u4/7/13/14 belongs to the accepted guard-speaking layer; canonical guard at u27 belongs to Marina's speaking layer after an empty portrait segment. The Japanese u27 is a modest stopping phrase, not Korean's stronger explicit denial. These controls prevent invented amnesia, self-accusation or a new guard biography. All scenario person/variant fields may be empty even where ownership and adjacent text establish the local literary role. The source fields remain unchanged. [Base checkpoint§5;completeE006§10/§17.]",
+          "",
+          "The cleaning scene's17 timed #st records remain actorless despite thirteen independent written echoes. Its internal appraisal and cleaning-head suggestion remain inward despite a response. The exchange-photo timed narration is log-bearing and contains recalled/evaluated praise; the10037 cleaning and10103 photo representations are not mechanically identical source modes. The exchange-food canonical Marina/shopkeeper seams and photographer-like lines do not make Marina a shopkeeper or photographer. Confidence in broader scene meaning does not authorize a precise biography from a suspect label. [10037E005:u16–32/42–43;10103E002:u4/21/23;E003:u26/27/30/40,52–63.]",
+          "",
+          "Formal alternatives and full message tails remain separate from invented coactual speech. The tea choice fragments are one listed group. M320's successive Answers contrast with alternatives in M010/M200; launch messages are not full-thread endings. Japanese/Korean differences in article reputation, gift-output baseline, punitive denial or ordinary wishes stay locale-specific. Nonempty VoiceId, animation/duration and SFX references are metadata; no acoustic or visual realization was received. Costume839,10839 and900839 pools are unequal contextual registers, not a replicated lived conversation or a replacement for EVENT826. [RedWinter7§4/§10;written10037§17;gift090§8.]",
+          "",
+          "## 10. Competing interpretations: seven readings tested against contrary cases",
+          "",
+          "**The incapable fool.** Getting lost, spy overinterpretation, panic and a failed food inference are strong evidence of local fallibility. Detailed cleaning, accurate mascot-registration objections, useful reciprocal help, responsive appraisal and real tasting pleasure defeat a person-wide incapacity claim. A failed investigation does not make every service incompetent. Conversely, cleaning expertise does not validate her spy reasoning or force. [10037E002–006;GROUP1301;EVENT839E010/E012.]",
+          "",
+          "**The harmless comic officer.** Cool dragons, a toy, pandas and jam are charming evidence with intrinsic value. Threatened special-class placement, actual firing/statue damage and coercion until Nodoka pleads for tickling to stop are substantive costs. The absence of a demonstrated animal injury or damaged telescope prevents invented injury, not scrutiny of actual force and pressured compliance. [10037E002/E003;GROUP1302.]",
+          "",
+          "**The wholly cynical subordinate.** She knows the mascot is fake and pursues rank, while feared sanctions and enjoyed office comfort support an instrumental reading. Yet genuinely caring about followers' hopes, liking Cherino's cuteness, seeking praise, enjoying shared work and worrying about a host's burden are not established lies. E006 concealment has both kindness and informational cost; E802 cocoa has competing motives without proof one is uniquely true. [GROUP130;10037E006;EVENT802010;written3580–3581;10103E002.]",
+          "",
+          "**The sincerely loyal innocent.** Pride, duty and material honor support sincerity in particular scenes. Those do not authorize waste, threat, tickling or the false enrollment. Being pressured by an ideal superior leaves Marina's own choices visible. The institutional account therefore preserves both constrained incentives and the downward acts she selects, with Nodoka's refusal supplying independent contrary judgment. [GROUP1301–1303;EVENT810090.]",
+          "",
+          "**The adult's comfort completes rehabilitation.** Calming escort, navigation, shared labor and branch-specific reassurance have real positive endpoints. The guards' false ideal remains, disorientation recurs, the photo question goes unanswered, and tasty experience still prompts a complaint. No supported chronology makes later variants a cure after a public harm. Local responsiveness is stronger than complete transformation, and it requires less invented evidence. [10037E002/E003/E005/E006;10103wholeMM010/120.]",
+          "",
+          "**Successful persuasion proves fair service.** Students explicitly endorse the cake lesson, and narratorial cat disclosure or completed shooting are actual outcomes. Those positives should not be replaced with unprinted failures. They also do not certify prior cake permission, shared food, universal guard consent, inspected publication sales or competent institutional reform. Recipient approval and unresolved material distribution are jointly possible. [10103E003/E005;10037E003/E006.]",
+          "",
+          "**Ordinary warmth cancels the hard ending, or the hard ending makes warmth unreal.** Cherino's regard for Marina and month-cleaning punishment have distinct stated grounds; the later exhaustion gives a causal capacity limit. Panda delight, offered model, clothing relief, birthday company and medal pride stay real represented ends beside continuing sanctions and coercion. A serious synthesis can retain both without demanding one person-wide moral diagnosis or converting finite achievements into permanent repair. [EVENT802011;EVENT839E007/E014;written10037/10103;EVENT810090.]",
+          "",
+          "## 11. Evidence route, original open gaps and terminal boundary",
+          "",
+          "The adequate current private home is the complete495-line RedWinter7 account, which receives the base9 and the later8 separately and explicitly corrects the earlier no-later-variant inventory. The complete127-line base checkpoint and four complete paired arguments plus complete219-line written argument were personally received here; the current Cycle008 wrapper qualifies their retained historical UNADMITTED/pending words. The17 selected object IDs are recorded losslessly in the accompanying receipt: seven BOND, seven whole MomoTalk and three written objects. Reusing accepted complete analytical meanings does not transfer their producers' canonical/native/raw/duplicate/QA credit or make17 fresh primary reads. [RedWinter7§2–4/§10; current coverage MARINA; base checkpoint§1/§8.]",
+          "",
+          "Public comparison reuses personally complete GROUP130, GROUP280, currentE802/currentE808 and wholeE839 at their exact unchanged tuples; bounded fresh Marina-paragraph receiving is explicitly separate from the earlier whole custody. Complete small E802E010/E011, E808E003, gift810090 and Final100C002E002 were received for consequential ends. GROUP280 and FinalE008 remain comparison contexts without new direct Marina appearance credit. The E810 checkpoint lookup was a bounded navigation/qualification probe, not fresh whole1501-line receiving. The bounded maintained-main-context query and exact Final navigation inquiry add no source completion. No whole-main-arc replay was needed. Current355/29 home controls select this already required character package; acceptance, canonical installation, progress and publication remain ROOT decisions.",
+          "",
+          "| Original stable gap | Marina contribution and remaining warrant | Disposition |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | All17 selected private responsibilities provide tastes, skill, wishes and differentiated help; wider unreviewed experiences and unprinted fulfillment cannot be supplied from that finite family. | OPEN |",
+          "| G02 Yuuka council/club decision transfer | Marina's service/office contrast offers comparison, not new Yuuka evidence or validated transfer between offices; that separate subject's required warrant remains. | OPEN |",
+          "| G03 Serika service, peer and reciprocity range | Cleaning, reciprocity and gift requests are Marina-local; they do not fill Serika's independent peer/service evidence or show a general service law. | OPEN |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Marina's pressure/firing/recognition contrasts retain concrete ends but add no Hina crisis causes, accountability closure or ordinary-source completion. | OPEN |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | Ordinary company and aftermath are not a substitute for their distinct harms, work and recipients; no Arius/PS68 cross-domain prediction is validated. | OPEN |",
+          "| G06 Cross-school ordinary repertoire | Food, pandas, borrowed clothing, tea and a photograph give actual/scoped wishes across schools; local students, one visit and host reports do not establish school-wide prevalence or completed reciprocal visits. | OPEN |",
+          "| G07 Story-world chronology | E002→E003→E005 has source references; E006 access gates, variants, gift release and seasonal/return contexts do not globally date the character's development or order public harms and private concessions. | OPEN |",
+          "| G08 Event naming and repeat contexts | Exact802/808/810090/839 and839/10839/900839 pools are distinct; null overarching titles, repeated contexts and absent permanent shop pools are retained without renamed scenes or duplicated events. | OPEN |",
+          "| G09 Written speaker/choice attribution | FiveE006 seams,17actorless cleaning units, internal responses, food/photo seams, event actor qualifications and whole-thread tails are retained; uncertain exact speakers and unselected replies are not silently repaired. | OPEN |",
+          "| G10 Performed voice | All register analysis is written; profile CV, VoiceId, sound, animation and timing references do not establish delivery, audible thoughts or performed consistency. | OPEN |",
+          "| G11 Hoshino's Yume record and office states | Marina's image/office question does not authenticate Yume chronology, Hoshino office transitions or a universal parallel; those separate warrants remain. | OPEN |",
+          "| G12 Counterpart, system and variant identity | Two literal raw keys10037/10103 support this bounded comparative home, with no new registry merge; empty gift/event joins, local guards, toy/cat, A/B students and photographer remain source-local. | OPEN |",
+          "| G13 Office, contract, safety and technical outcomes | Cleaning completion is stated, hygiene rate and factory output reported, restitution/appointments/donations/evacuation unprinted; no legal, clinical, financial or engineering audit is supplied by positive literary ends. | OPEN |",
+          "| G14 Unclassified/mode continuity | Admitted written/scenario/choice registers retain their actual modes; no unclassified story, omitted variant, native file or shared role is admitted through thematic similarity. | OPEN |",
+          "",
+          "The bounded argument requires no further primary recovery for its actual assertions: adequate complete accepted arguments resolve the consequential cat ending, the detention return, gift's unaccepted request, photographer tail, cake replies and tea ending. Stronger claims would require their specific missing witnesses—article/identity corrections, sanction or restitution records, factory accounts, actual acceptance/eating, completed publication purchase, clinical consequences, donation and civilian-protection outcomes. They remain unasserted. Performed voice and global chronology remain required claim-specific limits, rather than tasks completed by this monograph's retrospective depth.",
+          "",
+          "Marina's terminal state here is a differentiated repertoire: useful work and wanted pleasure, fallibility and recognition pressure, chosen company and recipients who can refuse or remain unserved. No predicted rule, empirical mechanism, model grade, global identity merge or completed institution follows. Her full literary character argument is distinct from the full Phase3 goal's required directed relationship, ensemble, institution, Sensei and written-register homes. Those separate existing responsibilities remain required where allocated; this candidate neither makes them optional nor claims their completion. ROOT's independent whole receiving and exact verification govern acceptance; canonical publication and integration remain separate."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_MARINA_CHARACTER_MONOGRAPH.md",
+      "bytes": 44401,
+      "sha256": "88fac4f6e65638f65b3d4f7104a9c9494931d71258e2e46d466c44193fbf7237",
+      "git_blob_oid_of_actual_bytes": "824746ab319c1611b57215158276e22a687fd8c7",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/BLUE_ARCHIVE_MARINA_CHARACTER_MONOGRAPH.md"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_MONOGRAPH_RECEIVING_RECEIPT.json",
+      "bytes": 139762,
+      "sha256": "208ca509a55814501182896df60c9abd849b1e5d277e260d80548e0862dd8a36",
+      "git_blob_oid_of_actual_bytes": "867eed4c426c315432694f3baecb54e0fdbdd11b",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_MONOGRAPH_RECEIVING_RECEIPT.json"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_FROZEN_OUTPUT_MANIFEST.json",
+      "bytes": 3680,
+      "sha256": "a4ced5f3c1a5f199a8ebb7b943f15f2d9af5fe7d1922f508e0af386a648db551",
+      "git_blob_oid_of_actual_bytes": "212731e59fd4447b92cb26e7e4ebdbab789aac34",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_FROZEN_OUTPUT_MANIFEST.json"
+    },
+    {
+      "path": "ROOT_MARINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5620,
+      "sha256": "bc2a6d7b46cca26ef0526756fbd88e35b204c53276d27140837548fb8868c3b1",
+      "git_blob_oid_of_actual_bytes": "dfa0a1fbcc8b5e12c50b32a4e13a3fdff956af50",
+      "immutable_transport_path": "immutable_originals/ROOT_MARINA_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_CURRENT_WORKTREE_METADATA_PROBE.json",
+      "bytes": 9998,
+      "sha256": "5e8a78df60dfa6a1dd288dc44f8ba4c0a2c42ed470238acb5531712f732615fe",
+      "git_blob_oid_of_actual_bytes": "175bb609fa8617931e06c62b52dbde94dbb8988b",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_CURRENT_WORKTREE_METADATA_PROBE.json"
+    },
+    {
+      "path": "RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_MONOGRAPH_RECEIVING_RECEIPT.md",
+      "bytes": 7523,
+      "sha256": "5e703bd3e310f469af7ce2145856395f3bf65fb3821ffb6fb0fb3af91f8a525d",
+      "git_blob_oid_of_actual_bytes": "25325a4b5f9251403c25dc567bb9a927bdacfcc9",
+      "immutable_transport_path": "immutable_originals/RED_WINTER_SECRETARIAT_MONOGRAPHS/MARINA_MONOGRAPH_RECEIVING_RECEIPT.md"
+    }
+  ],
+  "mandatory_claim_metadata_inverse": null,
+  "canonical_link_translations": [],
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+,
+  "current_source_consistency_audit_20261012": {
+  "register_public_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_SOURCE_CONSISTENCY_AUDIT_20261012_V1.json",
+  "register_fragment_pointer": "/last16_independent_receiving_fragment",
+  "record_ids": [
+    "last16-qualification-06"
+  ],
+  "current_interpretation": "The separately current register qualifies named historical fields; it does not replace antecedent bodies, source scopes, tuples, statuses, counts or inverses.",
+  "current_body_exact_tuples": [],
+  "adoption": "ROOT_ACCEPTED_WITH_LIMITS_AT_EXPLICIT_ATTRIBUTED_GRADE"
+}
+}

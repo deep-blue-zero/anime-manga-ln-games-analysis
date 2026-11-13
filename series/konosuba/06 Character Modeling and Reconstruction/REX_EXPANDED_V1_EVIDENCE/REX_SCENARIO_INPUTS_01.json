@@ -1,0 +1,68 @@
+{
+  "schema": "konosuba.secondary.scenario-inputs.v1",
+  "created_utc": "2026-10-20T17:57:05.046798+00:00",
+  "subject": "Rex",
+  "source_known": true,
+  "same_informed_model_author_case_designer_output_author_assessor": true,
+  "model_pre_case_freeze_sha256": "e76c4eb089a76aba6c2b0ea64b63562211b2219bb702de847ab75beef8635c3f",
+  "case_count": 4,
+  "contrast_pairs": 2,
+  "cases": [
+    {
+      "case_id": "RX-H01-A",
+      "pair_id": "RX-H01",
+      "condition": "directly witnessed basic performance",
+      "exact_prompt": "Use the frozen Rex conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated prior agreement or guaranteed later outcome. Write Rex’s next spoken response and, if appropriate, one immediate action of his own in English, 80–130 words. Do not speak or decide for another person, invent equipment or completed future events, or add commentary outside the response. Preserve fallible judgment and his situation-dependent informal voice; do not turn him into an ideal professional.\n\nRex leads a three-person volunteer sound crew preparing a small outdoor community concert. The two other regulars are checking the stage. There are twenty minutes before the public arrives. Sam is a new adult helper. Yesterday Rex heard that graduates of Sam’s course all know advanced multichannel systems. Sam said only, “I haven’t done the advanced multichannel course.” Rex laughed and called Sam an all-talk technician. Today the task is a basic two-speaker setup, with its required cables, mixer and printed wiring plan all present. Both speakers are now producing the test track correctly.\n\nRex personally watched Sam follow the wiring plan and connect the supplied cables; Sam obtained the present correct test sound unaided while Rex watched.\n\nSam asks, “Are you still calling me all talk, or can I help with this basic setup?” Rex is beside the mixer. Nothing else has happened yet.",
+      "input_sha256": "30f3cfb3b924d1c793aacb215c9b73f3a646d477af49698d3cffe5855150c0db",
+      "rules": [
+        "RX-R01",
+        "RX-R02"
+      ]
+    },
+    {
+      "case_id": "RX-H01-B",
+      "pair_id": "RX-H01",
+      "condition": "present result and uncorroborated account",
+      "exact_prompt": "Use the frozen Rex conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated prior agreement or guaranteed later outcome. Write Rex’s next spoken response and, if appropriate, one immediate action of his own in English, 80–130 words. Do not speak or decide for another person, invent equipment or completed future events, or add commentary outside the response. Preserve fallible judgment and his situation-dependent informal voice; do not turn him into an ideal professional.\n\nRex leads a three-person volunteer sound crew preparing a small outdoor community concert. The two other regulars are checking the stage. There are twenty minutes before the public arrives. Sam is a new adult helper. Yesterday Rex heard that graduates of Sam’s course all know advanced multichannel systems. Sam said only, “I haven’t done the advanced multichannel course.” Rex laughed and called Sam an all-talk technician. Today the task is a basic two-speaker setup, with its required cables, mixer and printed wiring plan all present. Both speakers are now producing the test track correctly.\n\nRex arrived after the test track was already playing correctly. Sam says, “I followed the wiring plan and connected those cables myself.” Rex did not see the setup, and nobody else has said who did it.\n\nSam asks, “Are you still calling me all talk, or can I help with this basic setup?” Rex is beside the mixer. Nothing else has happened yet.",
+      "input_sha256": "f6d54717309927047140ab741c859028b561174eb18ede5f880dc899e84fdcaa",
+      "rules": [
+        "RX-R01",
+        "RX-R02"
+      ]
+    },
+    {
+      "case_id": "RX-H02-A",
+      "pair_id": "RX-H02",
+      "condition": "explicit competing preference and refusal",
+      "exact_prompt": "Use the frozen Rex conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated prior agreement or guaranteed later outcome. Write Rex’s next spoken response and, if appropriate, one immediate action of his own in English, 80–130 words. Do not speak or decide for another person, invent equipment or completed future events, or add commentary outside the response. Preserve fallible judgment and his situation-dependent informal voice; do not turn him into an ideal professional.\n\nRex and his two adult companions perform as a small acoustic band. They want better-paying bookings and a wider reputation. They have been offered three evenings at a festival in another town. Jules, an adult local musician, has a powerful nine-minute solo Rex has actually heard. The festival organizer has explicitly approved Jules doing just that solo on Friday at 18:10, with no obligation to attend other sets or days. Rex has already described those exact terms and invited Jules to join them for that slot. Jules is free on Friday from 18:00 to 18:45; Rex knows this. They are talking at their usual local venue after rehearsal. No transport, payment, attendance or membership agreement by Jules has been completed.\n\nJules says, “I understand you only need that Friday solo, but no thanks. I like staying with my local group here, and I do not want to take that festival slot.”\n\nRex has heard that reply. The rest of the band has not said anything further. Give his immediate response at this point.",
+      "input_sha256": "14212865ab134280e985932231aa08da942b631ebd3c345303d7f46181fa2284",
+      "rules": [
+        "RX-R03"
+      ]
+    },
+    {
+      "case_id": "RX-H02-B",
+      "pair_id": "RX-H02",
+      "condition": "interest with already accommodated availability limit",
+      "exact_prompt": "Use the frozen Rex conditional model in this feasible modern human analogue. Everyone is an adult. There is no magic, hidden fact, unstated prior agreement or guaranteed later outcome. Write Rex’s next spoken response and, if appropriate, one immediate action of his own in English, 80–130 words. Do not speak or decide for another person, invent equipment or completed future events, or add commentary outside the response. Preserve fallible judgment and his situation-dependent informal voice; do not turn him into an ideal professional.\n\nRex and his two adult companions perform as a small acoustic band. They want better-paying bookings and a wider reputation. They have been offered three evenings at a festival in another town. Jules, an adult local musician, has a powerful nine-minute solo Rex has actually heard. The festival organizer has explicitly approved Jules doing just that solo on Friday at 18:10, with no obligation to attend other sets or days. Rex has already described those exact terms and invited Jules to join them for that slot. Jules is free on Friday from 18:00 to 18:45; Rex knows this. They are talking at their usual local venue after rehearsal. No transport, payment, attendance or membership agreement by Jules has been completed.\n\nJules says, “I would like to take that festival slot, but I can only be there on Friday from 18:00 to 18:45. Would someone with so little availability be any use to you?”\n\nRex has heard that reply. The rest of the band has not said anything further. Give his immediate response at this point.",
+      "input_sha256": "766c951b4e36a03698e2dcc1bcd4d69a99bf560d3d1d3c42e86fdef1d8ab54cb",
+      "rules": [
+        "RX-R03"
+      ]
+    }
+  ],
+  "controls": {
+    "RX_H01": "Same ability-related history,basic task,working endpoint,resources,current words,time and role. Changed cue is direct observation versus an uncorroborated personal account; B does not establish a lie or actual inability.",
+    "RX_H02": "Same invitation,proven solo,approved single slot,known availability,goals and setting. Changed cue is Jules’s present refusal/preference versus qualified interest invoking the already accommodated limit."
+  },
+  "limits": [
+    "H01 changes evidential access,not necessarily Sam’s actual ability. Generic standards of evidence and pride may yield the same response.",
+    "H02 makes the role fit and answer explicit; generic recruitment and ordinary refusal handling are strong rivals. Refusal and qualified interest differ in a supplied speech act,not a hidden motive.",
+    "No direct battle/injury pressure,genuine financial loss,unsafe retreat or Japanese language contrast. RX-R02 only weakly engaged by work offer.",
+    "General directions and response ideas were anticipated; exact prompts are newly saved after model/rules seal. Same informed author,not blind validation."
+  ],
+  "regenerations_allowed": 0,
+  "repairs_allowed": 0,
+  "independent_accuracy_or_confidence_gain": false,
+  "full_program_complete": false
+}

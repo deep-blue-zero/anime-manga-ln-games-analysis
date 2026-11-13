@@ -1,0 +1,68 @@
+{
+  "schema": "konosuba.cohort45.exact-scenario-inputs.v1",
+  "authored_utc": "2026-10-25T06:44:55.693930+00:00",
+  "foundation_freeze_sha256": "a90e08631f114cdd939fe2999ffffa6ab18afd5bf1c9235c0f0b78acd9bedefb",
+  "original_firsts_exist": false,
+  "feedback_exists": false,
+  "language": "English",
+  "kind": "Informed same-root source-known hypothetical diagnostics",
+  "independent_observation_count": null,
+  "not_final_principal_party_transfer_battery": true,
+  "canonical_fiction": false,
+  "subject": "Knee-injured veteran",
+  "model_sha256": "5a9dc199c4fc3d000e957c10309efe94bc4857559ce1775dfeb8493af62776a6",
+  "inventory_sha256": "fb60994c618e42f2f33ad0798577541b4095f7b0b2579851c1e75b3f362da6e5",
+  "pair_count": 2,
+  "pairs": [
+    {
+      "id": "KIV-B",
+      "changed_condition": "The unfamiliar provider’s final line imposes a religious promise or explicitly leaves the offer voluntary and obligation-free.",
+      "held_constant": "Old injury, correct unexplained injury knowledge, no demonstration/treatment, unfamiliarity, nonemergency and counterpart knowledge.",
+      "limitation": "KIV-R01 chiefly supports the pressuring case. Neutral treatment was not tested by canon; acceptance of B2 is not required and shared caution is not automatically a failure. Wording/pressure/obligation form a bundled contrast, not isolated causal weights."
+    },
+    {
+      "id": "KIV-C",
+      "changed_condition": "Whether the same twelve carried coins are uncommitted or wholly committed to unpaid lodging/food.",
+      "held_constant": "Unrequested but perceived successful restoration, initial protest, present affect, no religious claim, free hour, same40-minute low-risk request and amount carried.",
+      "limitation": "Both are hypothetical. Generic gratitude and ordinary resource budgeting may explain any contrast. No obligation to spend, canonical exact donation or promised theological conversion is supplied."
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "KIV-B1",
+      "pair_id": "KIV-B",
+      "subject": "Knee-injured veteran before any experienced restoration",
+      "rule_id": "KIV-R01",
+      "present_facts": "The knee-injured veteran is seated in the guild during a quiet afternoon. His old knee injury still limits walking. An unfamiliar traveler has correctly mentioned that injury, but has not explained how they learned of it, demonstrated any power or treated him. He has no prior relation of trust with this traveler. There is no emergency and he can refuse. He knows nothing about time experiments, another route, a future conversion or the traveler’s private intentions.",
+      "other_speaker_line": "“I can restore your knee. Before I try, promise to join my faith and worship me.”",
+      "exact_prompt": "Write one short English scene continuing only the specified subject’s next turn, using speech and observable acts. Use the supplied present facts and the frozen subject model. Do not add an analytical explanation, a future outcome or knowledge from another route. This is a hypothetical continuation, not canon.\n\nSubject: Knee-injured veteran before any experienced restoration\n\nPresent facts:\nThe knee-injured veteran is seated in the guild during a quiet afternoon. His old knee injury still limits walking. An unfamiliar traveler has correctly mentioned that injury, but has not explained how they learned of it, demonstrated any power or treated him. He has no prior relation of trust with this traveler. There is no emergency and he can refuse. He knows nothing about time experiments, another route, a future conversion or the traveler’s private intentions.\n\nThe other speaker now says: “I can restore your knee. Before I try, promise to join my faith and worship me.”\n\nContinue the subject’s immediate response."
+    },
+    {
+      "id": "KIV-B2",
+      "pair_id": "KIV-B",
+      "subject": "Knee-injured veteran before any experienced restoration",
+      "rule_id": "KIV-R01",
+      "present_facts": "The knee-injured veteran is seated in the guild during a quiet afternoon. His old knee injury still limits walking. An unfamiliar traveler has correctly mentioned that injury, but has not explained how they learned of it, demonstrated any power or treated him. He has no prior relation of trust with this traveler. There is no emergency and he can refuse. He knows nothing about time experiments, another route, a future conversion or the traveler’s private intentions.",
+      "other_speaker_line": "“I can restore your knee. You may decline; I ask for no religious promise or other obligation.”",
+      "exact_prompt": "Write one short English scene continuing only the specified subject’s next turn, using speech and observable acts. Use the supplied present facts and the frozen subject model. Do not add an analytical explanation, a future outcome or knowledge from another route. This is a hypothetical continuation, not canon.\n\nSubject: Knee-injured veteran before any experienced restoration\n\nPresent facts:\nThe knee-injured veteran is seated in the guild during a quiet afternoon. His old knee injury still limits walking. An unfamiliar traveler has correctly mentioned that injury, but has not explained how they learned of it, demonstrated any power or treated him. He has no prior relation of trust with this traveler. There is no emergency and he can refuse. He knows nothing about time experiments, another route, a future conversion or the traveler’s private intentions.\n\nThe other speaker now says: “I can restore your knee. You may decline; I ask for no religious promise or other obligation.”\n\nContinue the subject’s immediate response."
+    },
+    {
+      "id": "KIV-C1",
+      "pair_id": "KIV-C",
+      "subject": "Knee-injured veteran after perceived restoration",
+      "rule_id": "KIV-R02",
+      "present_facts": "The knee-injured veteran has just received unexpected magical treatment from a visiting healer who did not ask permission before casting. After an initial protest, he has stood and tested a few steps: the old knee pain and movement limit are gone, and he is visibly moved by the restoration. He has not yet tested a long walk. The healer has made no claim about divinity, religion, future favors or a continuing contract. The veteran has one free hour before an existing appointment. The healer’s novice traveling companion asks him for a forty-minute daylight escort along a familiar low-risk road, with no purchase required. He can agree, refuse or make a proposal; nothing is already promised. He carries twelve coins. All twelve coins are presently uncommitted after his lodging and food have already been paid.",
+      "other_speaker_line": "“Would you escort me for those forty minutes? That is all I’m asking.”",
+      "exact_prompt": "Write one short English scene continuing only the specified subject’s next turn, using speech and observable acts. Use the supplied present facts and the frozen subject model. Do not add an analytical explanation, a future outcome or knowledge from another route. This is a hypothetical continuation, not canon.\n\nSubject: Knee-injured veteran after perceived restoration\n\nPresent facts:\nThe knee-injured veteran has just received unexpected magical treatment from a visiting healer who did not ask permission before casting. After an initial protest, he has stood and tested a few steps: the old knee pain and movement limit are gone, and he is visibly moved by the restoration. He has not yet tested a long walk. The healer has made no claim about divinity, religion, future favors or a continuing contract. The veteran has one free hour before an existing appointment. The healer’s novice traveling companion asks him for a forty-minute daylight escort along a familiar low-risk road, with no purchase required. He can agree, refuse or make a proposal; nothing is already promised. He carries twelve coins. All twelve coins are presently uncommitted after his lodging and food have already been paid.\n\nThe other speaker now says: “Would you escort me for those forty minutes? That is all I’m asking.”\n\nContinue the subject’s immediate response."
+    },
+    {
+      "id": "KIV-C2",
+      "pair_id": "KIV-C",
+      "subject": "Knee-injured veteran after perceived restoration",
+      "rule_id": "KIV-R02",
+      "present_facts": "The knee-injured veteran has just received unexpected magical treatment from a visiting healer who did not ask permission before casting. After an initial protest, he has stood and tested a few steps: the old knee pain and movement limit are gone, and he is visibly moved by the restoration. He has not yet tested a long walk. The healer has made no claim about divinity, religion, future favors or a continuing contract. The veteran has one free hour before an existing appointment. The healer’s novice traveling companion asks him for a forty-minute daylight escort along a familiar low-risk road, with no purchase required. He can agree, refuse or make a proposal; nothing is already promised. He carries twelve coins. All twelve coins are already committed to tonight’s lodging and food, which have not yet been paid; he has no other spending money available.",
+      "other_speaker_line": "“Would you escort me for those forty minutes? That is all I’m asking.”",
+      "exact_prompt": "Write one short English scene continuing only the specified subject’s next turn, using speech and observable acts. Use the supplied present facts and the frozen subject model. Do not add an analytical explanation, a future outcome or knowledge from another route. This is a hypothetical continuation, not canon.\n\nSubject: Knee-injured veteran after perceived restoration\n\nPresent facts:\nThe knee-injured veteran has just received unexpected magical treatment from a visiting healer who did not ask permission before casting. After an initial protest, he has stood and tested a few steps: the old knee pain and movement limit are gone, and he is visibly moved by the restoration. He has not yet tested a long walk. The healer has made no claim about divinity, religion, future favors or a continuing contract. The veteran has one free hour before an existing appointment. The healer’s novice traveling companion asks him for a forty-minute daylight escort along a familiar low-risk road, with no purchase required. He can agree, refuse or make a proposal; nothing is already promised. He carries twelve coins. All twelve coins are already committed to tonight’s lodging and food, which have not yet been paid; he has no other spending money available.\n\nThe other speaker now says: “Would you escort me for those forty minutes? That is all I’m asking.”\n\nContinue the subject’s immediate response."
+    }
+  ]
+}

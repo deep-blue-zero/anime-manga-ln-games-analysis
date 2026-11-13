@@ -1,0 +1,19 @@
+{
+  "sealed_utc": "2026-10-18T00:20:52.685563+00:00",
+  "manifest": {
+    "name": "COMPLETE_INITIAL_CORE_HANDOFF_MANIFEST.json",
+    "bytes": 6773,
+    "sha256": "bb91f68aed6dce8e467fc189fd6fe9bed1e0041af1653595fb6d3cb934533183"
+  },
+  "uncoded_seal": {
+    "name": "COMPLETE_UNCODED_SOURCE_FIRST_SEAL.json",
+    "bytes": 1322,
+    "sha256": "c5bb72f547fdd53020503f76d040ff7d4aaca266402c1b8204f8493ddeaa2d23"
+  },
+  "status": "COMPLETE_INITIAL_SOURCE_FIRST_AUTHOR_PACKET_SEALED_BEFORE_PEER_CORE_RECEIVING",
+  "actual_viewed_pages": 333,
+  "actual_eligible_fiction_reading": "Complete at declared individual scopes; dense-reference/numeric and one label limits explicit.",
+  "no_peer_CORE_findings_received": true,
+  "source_and_frozen_models_unchanged": true,
+  "root_receiving_adoption_publication_pending": true
+}

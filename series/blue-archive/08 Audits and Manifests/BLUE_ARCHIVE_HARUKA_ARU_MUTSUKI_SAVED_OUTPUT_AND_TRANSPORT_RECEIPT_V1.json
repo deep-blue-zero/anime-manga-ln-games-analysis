@@ -1,0 +1,402 @@
+{
+  "schema": "BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_COMPLETE_REVERSIBLE_CANONICAL_TRANSPORT_V1",
+  "status": "EXACT_C_ONLY_PROPOSAL_COMPLETE_ROOT_INSTALLATION_PENDING",
+  "complete_original_to_canonical_inverse": {
+    "original_exact_tuple": {
+      "bytes": 39469,
+      "sha256": "59802c33fa87eabfb76e76ef7c845a610f8510518fc9d8fad9f99b390fa58594",
+      "git_blob_oid_of_actual_bytes": "320ef5d53d327accbb845e838005e77394619715"
+    },
+    "canonical_exact_tuple": {
+      "bytes": 42521,
+      "sha256": "13a2fa5ec0dcd7e7c152078e1141a35aae4b62b27eab54ed4209d2f89d8d834c",
+      "git_blob_oid_of_actual_bytes": "9a5c865d4ab7ab409c02835d5ae4c4d8febe34dc"
+    },
+    "complete_ranges": [
+      {
+        "kind": "equal",
+        "original_lines": [
+          1,
+          2
+        ],
+        "canonical_lines": [
+          1,
+          2
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "series: BLUE_ARCHIVE"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          3,
+          3
+        ],
+        "canonical_lines": [
+          3,
+          3
+        ],
+        "original_lines_complete_text": [
+          "artifact_type: directed_relationship_synthesis"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_artifact_type: directed_relationship_synthesis"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          4,
+          5
+        ],
+        "canonical_lines": [
+          4,
+          5
+        ],
+        "exact_unchanged_lines": [
+          "scope: P3-REL-PS68-HARUKA-REPAYMENT-RECOGNITION",
+          "mandatory_named_sections: [P3-REL-ARU-HARUKA, P3-REL-MUTSUKI-HARUKA]"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          6,
+          7
+        ],
+        "canonical_lines": [
+          6,
+          7
+        ],
+        "original_lines_complete_text": [
+          "generation: V1",
+          "status: candidate_pending_independent_ROOT_receiving"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_generation: V1",
+          "historical_author_status: candidate_pending_independent_ROOT_receiving"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          8,
+          15
+        ],
+        "canonical_lines": [
+          8,
+          15
+        ],
+        "exact_unchanged_lines": [
+          "analytical_method: DEEP_SYNTHESIS",
+          "source_boundary: \"Nineteen exact current C copies of accepted normal analytical arguments; same-author earlier complete meanings reused at declared scopes; specific consequential normal paragraphs freshly received. No new primary, native, raw, image or performed-voice inspection.\"",
+          "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8",
+          "source_generation: BA_REFRESH_20260928T032248159554Z",
+          "captured_source_head: c6908f2dba6f3b379bb84679fdd01175ac5894da",
+          "captured_source_tree: 40b006f65bd1c98422d9093d08f53696c2d54cc9",
+          "merged_main_boundary: b76b4373e6d0526bc78ce00bb673dba9e536c128",
+          "created: 2026-10-10"
+        ]
+      },
+      {
+        "kind": "replace",
+        "original_lines": [
+          16,
+          16
+        ],
+        "canonical_lines": [
+          16,
+          26
+        ],
+        "original_lines_complete_text": [
+          "do_not_use_as_current_authority: true"
+        ],
+        "canonical_lines_complete_text": [
+          "historical_author_do_not_use_as_current_authority: true",
+          "artifact_type: directed_relationship_synthesis",
+          "status: canonical",
+          "version: \"1.0-canonical\"",
+          "do_not_use_as_current_authority: false",
+          "canonical_home: series/blue-archive/04 Specialist Synthesis/Relationship Syntheses/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+          "ROOT_acceptance: PASS_WITH_LIMITS",
+          "ROOT_receiving_reference: series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+          "canonical_adoption_boundary: ROOT_ONLY_COMPLETE_INSTALLATION_REQUIRED",
+          "dated_preparation_source_witness: 5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "accepted_first_milestone_main_witness: b76b4373e6d0526bc78ce00bb673dba9e536c128"
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          17,
+          19
+        ],
+        "canonical_lines": [
+          27,
+          29
+        ],
+        "exact_unchanged_lines": [
+          "---",
+          "",
+          "# Haruka with Aru and Mutsuki — recognition that cannot be repaid by surrendering a life"
+        ]
+      },
+      {
+        "kind": "insert",
+        "original_lines": [
+          20,
+          19
+        ],
+        "canonical_lines": [
+          30,
+          31
+        ],
+        "original_lines_complete_text": [],
+        "canonical_lines_complete_text": [
+          "",
+          "**Current ROOT receiving and publication boundary.** ROOT independently adjudicated this complete bounded responsibility WITH LIMITS. The [complete ROOT receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) preserves actual custody; the [full saved transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) retains the operative original and complete byte inverse. Original pending/local/source114/7a/source120/source125-chain-pending/count statements remain creation-time history. Published125 source 5933ee5e3859049509357c06e739ef91e0e7c98c/tree e6b570d622c4a56f6b98c29c9eb78e2e90025618 has a separately bound ROOT-accepted exact source→housekeeping→final automatic chain. Merged89/main b76b4373e6d0526bc78ce00bb673dba9e536c128 and the completed first25% milestone remain separate. This fixed three-package126–128 proposal takes effect only through complete ROOT installation, yielding128 (96character/16directedrelationship/5ensemble/11institution) and13 completed non-denominator named duties, including the three prior ROOT-adjudicated substantial sections within two parents. Later129+ is excluded. Required355packages/29duties across25parents/384homes, next178, all14original OPEN gaps and model0 remain unchanged. Mechanical transport grants no new source, original-primary, native, raw, QA, performed, independent literary, identity, denominator or milestone credit. **Package-specific operative qualification:** All174 literary lines and both substantial Aru–Haruka/Mutsuki–Haruka directions retain independent wants, objections and answering agency. Six immutable outputs plus author freeze preserve19 source grades,38 claims,86 source spans,110 saved joins, nine rivals,13 finite ends and85 private documentary inverse records at actual custody. Ordinary gardening, leaves, soil, outings, museum and kimono wishes, affordable gifts and dinner retain intrinsic worth. Gratitude does not warrant infinite service; private comparison is not communicated peer knowledge. MINI13050 actor seams remain literal. Institution/belonging, individual portraits and Kayoko–Ako remain separate; two named duties count within one required directed parent."
+        ]
+      },
+      {
+        "kind": "equal",
+        "original_lines": [
+          20,
+          174
+        ],
+        "canonical_lines": [
+          32,
+          186
+        ],
+        "exact_unchanged_lines": [
+          "",
+          "## 1. Central argument and the exact responsibility",
+          "",
+          "**HA-C01.** The strongest account of these two relationships is a dispute over the terms of continued company. Haruka can understand rescue as a reason to surrender her whole future; Aru and Mutsuki can want her present, accept her contribution and reject that unlimited payment. The refusal of endless repayment is substantive relationship evidence because it answers her formulation. It is not proof that she has ceased to formulate it. Nor does affectionate recognition make every subsequent order, joke or protective method safe. The relationships contain real peer refusal of a self-proposed unlimited debt, real pleasure in belonging, and recurring difficulty letting those answers govern action. [HA06:214–228, BA:mini:70013020/70013030/70013040/70013050.]",
+          "",
+          "**HA-C02.** This parent contains two substantial directed arguments, §4 **P3-REL-ARU-HARUKA** and §5 **P3-REL-MUTSUKI-HARUKA**. Aru's refusal of payment and sufficient-repayment response concern protection, command and membership. Mutsuki's nickname, apology, worry, received protection and request to stop death talk concern familiarity that can hurt and then become wanted without becoming automatically harmless. Their different acts cannot be compressed into one benevolent club voice. The existing PS68 command/finance institution and its belonging section, Kayoko–Ako boundary, the three character monographs and other peer directions remain distinct responsibilities. One parent with two named sections creates no additional denominator home. [Original Gehenna duty11; exact current required-home and named-section controls in the companion receipt.]",
+          "",
+          "**HA-C03.** Haruka's gardening sets a crucial condition on the argument: it precedes the rescuers' recognition. MINI13020 shows her attending to leaves and wanting to water the plant before the encounter, while her ordinary private account gives cultivation, soil knowledge and a private place she has already made. Protection can defend a wanted life; it need not manufacture every reason she has for living. This is why weeds cannot be reduced to an emblem of usefulness to Aru. A cultivated plant is an object of her attention before it becomes a shared metaphor. [HA06:220; HA01:164–170, BA:bond:16000:003/006/008.]",
+          "",
+          "**HA-C04.** The authority quartet is explicit: current Cycle008 admission with limits; qualified accepted complete analytical meaning at each declared extent; retrospective source exposure with historical reading order and independence UNKNOWN; performed voice unreceived. The current nineteen C tuples are bound to ROOT's c690 custody proof. The author's earlier complete PS68/Main/Final meanings are reused as analytical reception, not nineteen fresh whole reads in this turn or eighty-five fresh original-source readings. The Japanese pin and generation govern provenance, while c690 governs this dated current copy. ROOT's allocation permits authorship, not acceptance or publication. [Companion source/receiving receipt; HA11:123–130.]",
+          "",
+          "## 2. Local development, memory and the limits of an improvement narrative",
+          "",
+          "**HA-C05.** MINI130 distinguishes restaurant present, pre-membership retrospective and a few-days-later afterstate. The retrospective includes an actual small cat-retrieval job, prospective ramen and toppings, Haruka's gardening, bullying and intervention. It then returns to present danger and finally to dinner and the alley. That explicit internal construction supports a local longitudinal argument: recognition is revisited through rescue, gratitude and the rediscovered living plant. It does not place New Year, dress, GROUP2201 or the Abydos demolition on one certified calendar, and the retrospective is not a newly witnessed childhood at a present adult encounter. [HA06:216–226.]",
+          "",
+          "**HA-C06.** The development has resistance inside it. After the first intervention Haruka says she is not okay, refuses her name and warns the group against involvement. Kayoko advises against pressing persuasion; Aru withdraws. The account therefore includes an answer that the rescuer cannot convert into instant readiness for friendship. Later she can rescue them and like a nickname that first hurt, yet the return to the alley still involves hesitation and her death-bound gratitude recurs. The continuity is of a contested problem and real new possibilities, not a universal recovery completed at the first smile. [HA06:220/222/224/226.]",
+          "",
+          "**HA-C07.** The ordinary, New Year and dress scopes broaden each person's repertoire without becoming a ladder of cured versions. Exact Haruka variants16000/20025/10141, Aru10000/10031/10089 and Mutsuki13006/10032/20059 remain their positively routed literary scopes. Haruka's literal refusals, Aru's refusal of consolation and narrated repayment, Mutsuki's cultural restraint and financial secrecy can complicate a reading without proving which scene taught which later lesson. Local message links, recalled offerings and a next-day decoration edge have evidential force; numeric variant order and publication dates do not supply elapsed development. [HA01:126–158/182–200; HA02:126–153/175–179; HA03:121–140/165–177.]",
+          "",
+          "## 3. Public membership and private availability do different work",
+          "",
+          "**HA-C08.** Haruka's admiration for Aru and wish to participate are visible before violent compliance. At the Trinity briefing she asks whether she belongs in the surroundings, worries how to respond and takes notes on unfamiliar terminology. Aru wants the firm remembered and its future improved; Mutsuki and Kayoko doubt the exclusive invitation. These ordinary differences matter independently of the eventual retaliation. Haruka is participating in a desired social world, not simply waiting to be deployed, while admiration can still make uncertain authority difficult to resist. [HA05:59–73, BA:group:2201:u7/16–17/38–43/71/74.]",
+          "",
+          "**HA-C09.** Public collective membership cannot be equated with shared interior access. Aru's inward fear for staff and hostages in MINI13030, her private concern about how she looks, Mutsuki's source-facing trust/money reflections and Haruka's timed or parenthetical self-devaluation are available to a reader under their modes. They do not establish that the other two heard all of them. Parenthetical death rhetoric in Haruka's garden cannot be retroactively used as something Mutsuki knowingly endorsed. The public no-death-talk request has its own actual occasion and remains stronger evidence for her answer than a manufactured private knowledge pool. [HA06:222/228; HA01:149–154; HA03:140/169.]",
+          "",
+          "**HA-C10.** The forged-absence-notice vignette provides another public boundary. Ako reports copied seals, attempted sales and no buyers, with Aru complaining, Mutsuki amused, Haruka fidgeting and Kayoko sighing. It is not all four physically at a Prefect meeting, proof every member copied a seal or a conviction. The divergent responses can compare with other business failures; the brief motion cannot carry a detailed diagnosis or prove that membership is always enjoyed in the same way. [HA04:67–81/93, BA:group:1901:u48–58.]",
+          "",
+          "## 4. Mandatory named section — P3-REL-ARU-HARUKA",
+          "",
+          "**HA-C11.** Aru's first protection is significant partly because she does not secure the response she might want. The bullies retreat after intervention, but Haruka rejects the idea that she is now okay. Aru's withdrawal on Kayoko's advice admits a practical limit: stopping an immediate threat is different from obtaining a name, confidence or willing affiliation. Later retrospective punishment, humiliating photographs and a pledge include the bully's actual apology, yet threatened exposure remains coercive and a promise not to return does not establish lifelong safety. These are protective actions with mixed means and bounded results. [HA06:220/222, 70013020:u36–100/109–122;70013030:u65–90.]",
+          "",
+          "**HA-C12.** The decisive exchange is about what protection entitles Aru to receive. Aru refuses payment; Haruka instead interprets rescue as a reason to give her entire self. Their statements therefore disagree about the relationship's price. The later sufficient-repayment answer and repeated refusal of debt unto death are not negligible reassurances: they reject the proposed unlimited obligation. The source also retains fine-label seams, especially the Aru-like response under a Haruka label in13050u104. Secure named relations and connected context support the bounded answer, but this reading does not repair every tag or present all release lines as equally clean individual quotations. [HA06:222/224/226/228.]",
+          "",
+          "**HA-C13.** Haruka then becomes a rescuer. She commits to bring the others back, works with Mutsuki and protects her during the confrontation. Aru's gratitude and sufficient-repayment response follow real received help, not a lecture delivered to an entirely passive dependent. Aru can acknowledge a contribution without establishing a fresh debt for an even larger sacrifice. Haruka's persistence metaphor has force within that specific return, while Kayoko's fatigue explanation is a character assessment rather than medical clearance. Real rescue and arrest coexist with unknown hostage injuries, hotel repair and eventual conviction. [HA06:222–224, 70013040:scene006:u18–90.]",
+          "",
+          "**HA-C14.** The flowering plant gives Aru an alternative way to recognize her. Aru attributes its stored nourishment to Haruka's earlier daily care. The explanation values what Haruka had been doing before rescue and outside an assignment to serve the firm. Actual flowering supports a positive afterstate; the causal explanation remains Aru's reasoned attribution, not a botanical experiment. Bringing the plant to the office and tending it together is proposed and welcomed. The invitation permits a shared future around Haruka's interest; transplantation and every future person's participation remain unperformed. [HA06:226, 70013050:u72–107.]",
+          "",
+          "**HA-C15.** Aru's ordinary leadership wants make the release plausible without making it infallible. Her staff rewards, shared food, study, cinema and imagined nonabandonment ideal give affirmative reasons to want employees as people. MINI130's enjoyed luxurious dinner is genuinely completed even while culinary terms remain unfamiliar. Her private wallet origin is a peer-gift report, and private meals/search/recovery are actual narrated outcomes. These broaden the kind of return she can want from company. They are adult-centered or collective comparisons, not invented one-to-one outings with Haruka. [HA02:159–163/183; HA06:218/226.]",
+          "",
+          "**HA-C16.** A forceful contrary case remains: releasing Haruka from permanent repayment does not eliminate command exploitation or Aru's responsibility for how admiration is mobilized. GROUP2201 has Haruka's proposed erasure followed by secure Aru commands and acceptance. Aru has correctly rejected the suspicious pitch without buying; that correct judgment does not create lawful punishment authority. Her later stopping of escalation and withdrawal are actual local limits, not tested lasting reform. The source permits both a boss who rejects unlimited personal debt and a boss who can direct harmful retaliation. [HA05:71–87, u84/89/106–117/128–136.]",
+          "",
+          "**HA-C17.** Conversely, the Shiba Seki demolition must not be rewritten as the same ordered pattern. Haruka triggers it without an affirmative Aru order; Aru's adoption is post hoc under persona pressure. The proprietor survives with light injuries, and the building/contact space are actually lost. This is serious harm and a failure of restraint whose agency differs from the later group command. Aru's willingness to own the result is not proof she ordered it or a completed compensation record. Explaining Haruka's loyalty and Aru's image vulnerability is different from excusing either response. [HA07:149–155/239/247; HA01:206; HA02:187.]",
+          "",
+          "**HA-C18.** EVENT809 keeps this direction under material pressure. Aru attempts to stop Haruka's excessive offering, later chooses recovery for peers' wishes/resources, and receives Haruka's renewed earn-again offer after loss. These are meaningful concern and response. They do not prevent the loss, refund exhausted labor or make the ending's proposed ramen a received meal. A wish to comfort Aru can renew the burden of an already exhausted worker. The relationship's positive answer to repayment must therefore be tested against concrete rest, wages and resource outcomes rather than assumed from affection. [HA08:91/99/105–112, E002u122–135/E010s1u27–40/E018u13/E020u1–3/39/49.]",
+          "",
+          "## 5. Mandatory named section — P3-REL-MUTSUKI-HARUKA",
+          "",
+          "**HA-C19.** Mutsuki's weed nickname initially hurts, and she apologizes. That response cannot be absorbed into an invariant bully thesis, but neither can later liking erase the first recipient cost. Haruka's self-description after the first encounter keeps the wound and the plant interest distinct. Recognition begins here as a failed or painful familiar address, not a name that has always been welcomed. The immediate apology is positive because it answers actual hurt; no universal prohibition or lifelong repair is printed. [HA06:220, 70013020:u91–100.]",
+          "",
+          "**HA-C20.** Their later cooperation makes this more than verbal teasing. In present danger Mutsuki calls for combined action; the pair disguise themselves, reach the others and confront concealed mercenaries. Mutsuki coughs and thanks Haruka for shielding her. Haruka is contributing to someone whose answer acknowledges receipt, rather than fulfilling an abstract utility assigned by an analyst. The explosion and reported gunfire nevertheless retain costs and uncertainty. Being protected does not authorize Mutsuki to assume Haruka cannot be hurt, and the weed's persistence cannot become a certificate of unlimited bodily endurance. [HA06:222/224, 70013030:u58–64;70013040:scene006:u18–52.]",
+          "",
+          "**HA-C21.** Haruka's later liking of the nickname and Mutsuki's concern about its earlier hurt produce a genuinely revised local relation. Mutsuki does not merely announce that the joke was harmless all along; worry preserves the prior reception. Haruka's liking is her answer, not Aru's or Mutsuki's permission on her behalf. The scene supports a nickname becoming wanted in a particular context without converting it into retrospective consent to all humiliation or every future use. Later, asking her to stop death talk gives concern a different object: her presence should not have to be represented through willingness to die. [HA06:224/226/228.]",
+          "",
+          "**HA-C22.** Mutsuki's care also has an ordinary form. In EVENT834's ending she gives Haruka permission to stay seated during shared meal hospitality. Haruka's disposal/self-blame and Kayoko's reassurance remain unresolved about collapse causation. The seated meal is useful precisely because it permits a moment of reception rather than requiring another performance of service. It does not prove paid wages or a completed safety repair, and it cannot be generalized into every occasion's work division. Her own failure/nonpayment counterpressure and Kayoko's exploitation objection preserve the ending's adverse labor question. [HA09:165, E015u4–7/20–22/35–45.]",
+          "",
+          "**HA-C23.** Mutsuki's adult-centered private repertoire provides a serious comparison, not borrowed encounters with Haruka. She can initiate pleasant board play, offer breaks/drinks, halt an escalation she did not intend and choose opera without disruption. She can also deceive, pressure an adult with purported obligations, violate a game's informed terms and prefer the firm slightly short of money for amusement while asking secrecy. The capacity to worry about Haruka is compatible with ethically troubling play elsewhere. There is no warrant to infer that she used the same chocolate trick on Haruka or that all peers knew her money decision. [HA03:149–171; HA14:37–45/69–73.]",
+          "",
+          "**HA-C24.** This direction resists two shortcuts. Calling all teasing affectionate deletes the first hurt, explicit apology and adult deception objections. Calling all concern manipulative deletes received protection, thanks, worry and the actual stop-death-talk request without an inspected ulterior purpose. Her independently wanted café, clothes, tea, opera and food keep enjoyment from becoming either a universal moral excuse or a symptom of malice. The source gives a person who can answer another's hurt and still need limits on different occasions. It supplies no calendar demonstrating permanent correction. [HA06:220–228; HA03:165–177; HA14:43–47.]",
+          "",
+          "## 6. Intrinsic ordinary wants, gifts and refusals",
+          "",
+          "**HA-C25.** Haruka's own plant work has distinct outcomes. A pot she grew is offered; her protective gunfire after an adult wait destroys it, leaving soil, leaves and bugs. A soil search succeeds with her terrain knowledge and joint return, while a lost/collapsed adult receives her care. A private garden has a do-not-touch warning and wanted future visits, while adult entry precedes express site permission. None of these scenes requires a spectacular crisis to matter. They show wanted cultivation, competence, a recipient boundary and a destructive attempt to protect, which cannot be flattened into either incapacity or reliable care. [HA01:164–170.]",
+          "",
+          "**HA-C26.** Her literal refusals prevent the repayment thesis from becoming a claim that she never authors limits. She declines help with already-finished gardening, refuses a replacement kimono and receives sweets/warmth instead, corrects an adult's late-work assumption, asks for slower walking and receives that slower pace. The museum invitation leads to actual viewing/return and her independent criterion of weed persistence rather than beauty. These are adult-specific scenes, not proof Aru and Mutsuki heard each wish or provided every fulfillment. Their significance is comparative: unbounded loyalty language does not exhaust her available ways of answering. [HA01:170/184/194–200.]",
+          "",
+          "**HA-C27.** Seasonal decoration similarly remains her project for office peers and Sensei. The shared search fails; she adapts a long-grown plant and both carry decorations the next day. Installation and peer reception are not printed. Failure, invention and transport are real finite ends without an imagined thank-you from Aru or Mutsuki. Written coffee aroma, birthday/company, task-free contact and rest hesitation add wanted life even when a scene never enacts them. An editorial bullying/Aru-help origin is written evidence, not an independently witnessed childhood cause for every current action. [HA01:182/186/202.]",
+          "",
+          "**HA-C28.** The three independent EVENT810 gifts keep choice and reception differentiated. Haruka selects within affordability/price/number and carefully carries the gift; her requested smile and thanks are local responses. Japanese's sweetness inside99% chocolate and Korean's explicit difficulty eating are distinct endings. Aru carefully chooses a reward, receives consolation, yet remains dissatisfied and plans retaliation with adult accompaniment; no raid is inspected. Mutsuki's altered game ends in deception objections and a pleasant spicy-taste result. Gifts remain valuable ordinary evidence without universal success, shared chronology or a fabricated three-way chocolate exchange. Current HA11 adoption governs historical unadmitted wrappers, and none of these inherited primary-owner claims creates new author primary credit. [HA12:37–45/67–73; HA13:37–45/69–73; HA14:37–45/69–73; HA11:123–130/286.]",
+          "",
+          "## 7. Crisis actions and affected recipients",
+          "",
+          "**HA-C29.** The MINI hostage action gives actual rescue and arrest while retaining protective coercion. Aru lays down her weapon and demands Mutsuki/Haruka's departure; their escape enables return. The pair's entrance explosion and upper-floor confrontation are positive contributions whose method is not automatically proportionate because friends are recovered. Rigatoni's impunity claim is allegation; police arrival and arrest are narrated, conviction is not. No killing is narrated, and no clinically verified absence of injury or completed hotel restoration follows. The relationship's successful protection should be credited at that exact extent. [HA06:218/222–228.]",
+          "",
+          "**HA-C30.** Haruka's private security and gift cases demonstrate that a desire to protect can harm the thing or recipient it protects. The destroyed pot is witnessed; severe venue damage follows fast suppression in dressE002. DressE005 reports shooting every slightly suspicious person and an employer pleased with quietness, while the adult's fixed violent-solution wording is not a responsible reprimand supplied by this analyst. A fulfilled slower walk in the same encounter remains valuable, but does not resolve that conduct. These are separate objects/targets and cannot be fused into one commission, peer command or technical mechanism. [HA01:164/174/190–194.]",
+          "",
+          "**HA-C31.** EVENT834 also contests effortless professional solidarity. Aru protests harm to theater visitors and refuses an alliance; Haruka's honorific outrage/direction uptake and Aru's attempt to stop her coexist with later escalation. Reported bomb relocation is not neutralization. Shared meal hospitality, safe-escape testimony and help can be real without settling collapse causality, casualties, wages or fair contracts. Saori's and Kayoko's objections prevent a merely cheerful end from laundering exploitation. The named relationship parent must leave these third recipients visible rather than evaluating methods only by whether Aru, Haruka and Mutsuki feel close. [HA09:145–165.]",
+          "",
+          "**HA-C32.** Final participation changes scale without changing this evidential discipline. PS68's ramen-after-return promise is morale and care; Haruka-labelled drift atC003E009u28–29 limits individual attribution, and the promise guarantees no safe return. C004E002 has Aru urging the group because Sensei and Kayoko are working, which is actual response under a changed sky, not a completed ground victory. EVENT821's plan encouragement and Haruka/Mutsuki uptake are meaningful working relations, while guardian defeat/destruction confirmations retain report grades and do not supply every actor's causal share. A broad crisis cannot certify the dyads' permanent safety or every repayment repaired. [HA15:18–20; HA16:18–20; HA10:94–96.]",
+          "",
+          "## 8. Sensei, Kayoko and company beyond these two directions",
+          "",
+          "**HA-C33.** Sensei's private answers can offer contact without tribute, assist actual shop returns/joint apologies and permit mistakes, yet remain fallible and sometimes pressuring. Haruka receives care and also supplies it when the adult gets lost and collapses. A loaded companion choice, site entry before express permission, work-escape benefit and problematic security defense prevent a flawless corrective-adult account. These scenes broaden Haruka's relational options; they do not put Sensei inside MINI130 or GROUP2201 where he is absent, or replace peers' own repayment answer with adult instruction. [HA01:166–178/194–200/219; HA05:91/120; HA06:214–228.]",
+          "",
+          "**HA-C34.** Kayoko's role is neither a fourth named duty here nor an invisible convenience. She counsels withdrawal from an unreceptive first encounter, gathers information, tracks costs, helps plan rescue, offers a fatigue interpretation and describes the whole group as constitutive of PS68. Each act has its actual grade; investigation and medical interpretation do not become exhaustive truth. Her later objection to treating exploitation as just ordinary business is adverse evidence about the company's work. These contributions keep the two named directions situated among independent recipients and other answers rather than making them sufficient causes for every outcome. [HA06:220–226; HA09:165.]",
+          "",
+          "**HA-C35.** Haruka's wanted company is not limited to repayment. MINI150 supplies play, her wish for Ibuki's company and an office invitation after Ibuki refuses return; mixed fine labels remain qualified. At the closing coffee encounter Aru actually coughs over bitterness, Haruka threatens to shoot it and Kayoko suggests milk; neither shooting nor consumed milk is printed. The ridiculous threat is still only a threat there, while taste, shared play and quiet company are intrinsic parts of membership. A moment of receiving pleasure is not an institutional workload settlement or a generalized gift policy. [HA06:232–242.]",
+          "",
+          "## 9. Written register, source attribution and knowledge",
+          "",
+          "**HA-C36.** Boss and familiar address supply different footing: GROUP2201 retains社長,アル様 andアルちゃん alongside commands, teasing and exclusive-access rhetoric. Haruka's tribute/borrowed-life formulations and Mutsuki's nickname can function relationally without being performed voice or an enforceable contract. A respectful form cannot establish ethical consent, and a familiar name cannot prove the recipient welcomes it at every moment. MINI's first hurt and later liking are therefore necessary to interpretation, not exceptions to erase for a simple register taxonomy. [HA05:121; HA01:219–220; HA06:220–228.]",
+          "",
+          "**HA-C37.** Exact speaker and mode limits remain part of the claims. GROUP2201's eleven seams do not defeat secure adjacent command/acceptance, but its host and local students remain unjoined. MINI130/150 has multiple display/text-function shifts;13050u104 is especially material to a repayment quotation. Timed blank-speaker garden rhetoric, source-context-secured museum log text, inward-style options, repeated conditional replies and written UI triggers retain their separate modes. No performed hesitation, laugh, intimate tone, unheard gesture, image or synthetic native repair is asserted. The narrative can support a relational argument at connected adequate scope while particular words' fine ownership stays qualified. [HA05:89–111; HA06:228/242; HA01:145–158/232–233.]",
+          "",
+          "**HA-C38.** The identity scope is equally finite. Exact typed people and positively joined variants support retrieval; unnamed clients, the recommending acquaintance, shopkeepers, targets, gang actors, plants, pamphlet artists and other local roles are not merged with main actors or a shared firm client. Reports of Akemi or Wild Hunt are not fresh encounters with the named people. Unclassified92030 remains an available/unadmitted historical queue with unresolved mode/continuity, outside the85 admitted private responsibilities. No read or hash of that protected original, private originals, nine unbound files or thirty-nine unpublished payloads was used here. [HA01:155–158/218/236; HA05:109; HA06:224/228; allocated control/source boundaries.]",
+          "",
+          "## 10. Competing readings and the evidence that resists them",
+          "",
+          "**R01 — Protection creates permanent repayment entitlement.** Haruka's total-self and death-bound formulations, dangerous availability and some continued deference make this tempting as her interpretation. It fails as the peers' endorsed entitlement against Aru's payment refusal/sufficient-repayment answer and Mutsuki's no-death-talk request. Their answer has been made, even if she has not permanently absorbed it. A later report or renewed tribute therefore cannot cancel the local release without new evidence; nor can release erase renewed burden. [HA-C12–18/21.]",
+          "",
+          "**R02 — Chosen family has fully repaired the problem.** Rescue, gratitude, nickname liking, dinner, flowering and welcomed shared cultivation give this reading substantial positive support. Haruka's first refusal, later hesitation/death language, unresolved injury/repair and harmful means elsewhere prevent the adjective fully. The genuine positive ends deserve credit without an imaginary cure. A future record could strengthen durable uptake; this packet has local ordinary continuance instead. [HA-C05–06/13–18/29–31.]",
+          "",
+          "**R03 — Haruka has no ends independent of rescue or utility.** Self-devaluation and sacrificial service make dependence central, but the already tended weed, soil knowledge, plant warnings, kimono refusal, museum criterion and slow-time wish contradict total erasure. Those scenes do not all include Aru/Mutsuki. Their role is to delimit a person-wide inference, not invent dyadic provisions. The relationships matter as places that can recognize a life already wanted. [HA-C03/25–27.]",
+          "",
+          "**R04 — Mutsuki is uniformly a bully incapable of concern.** Initial nickname hurt, deceptive games and enjoyment of scarcity are real adverse support. Apology, worry about the earlier hurt, thanks for shielding, no-death-talk request, permission to remain seated and chosen restraints defeat the invariant claim. Concern does not need a secret ulterior motive to be plausible; different adverse methods still require criticism. [HA-C19–24.]",
+          "",
+          "**R05 — Later nickname liking licenses the original hurt and all later jokes.** Recipient-led change makes later use locally meaningful; it provides no retroactive assent. Mutsuki's own concern keeps earlier reception in view. Similarly, delicious spicy chocolate does not cure misleading game terms, and successful rescue does not prove everyone welcomed every method. The correct unit of evaluation is the particular offered action and its actual answer. [HA-C19/21/23/28–29.]",
+          "",
+          "**R06 — Recognition is only manipulation.** Hierarchical address, vulnerability and the possibility of useful endurance give this criticism a serious foothold. Yet preexisting cultivation, refusal of payment, explicit release, actual thanks, worried apology and welcomed company provide counterevidence to only. GROUP's harmful commands show a concrete failure without proving all warmth counterfeit. A bounded account can say recognition is real while its institutional conversion to availability remains contested. [HA-C03/08/12–16/19–24.]",
+          "",
+          "**R07 — Aru's ownership and affection resolve harmful methods.** Post hoc adoption, protective intervention and concern for staff are positive responsibility claims. The actual lost restaurant, explicit retaliation, coercive exposure and unpaid/lost labor remain incompatible with completed resolution. Correctly detecting deception is an epistemic achievement; punishment authority, compensation and safety are different predicates. The contrary reading that Aru had commanded every blast also fails against source-specific agency. [HA-C11/16–18/29–31.]",
+          "",
+          "**R08 — Ordinary agency is merely a product of adult rescue.** Adult welcome, returns and slower time genuinely support Haruka's wishes. The weed before protection, peer refusal of endless debt, Mutsuki's received shielding and wanted Ibuki company show a wider repertoire. No teacher is required inside the MINI130 core to explain every recognition. Conversely, adult-specific evidence cannot be promoted to peer knowledge or a peer encounter. [HA-C03/13/20/25–28/33–35.]",
+          "",
+          "**R09 — Costume breadth proves permanent recovery in a chronological ladder.** Dress cultural judgment and literal small wishes can look like later progress. Explicit source-mode/variant limits, repeated UI forms, unknown main placement and continuing security excess prevent this causal ordering. Aru's narrated repayment shows a completed local reciprocal action, while Mutsuki's withheld financial choice supplies a contrary local action; neither is a date for Haruka's learning. The literary comparison is sustained repertoire with unequal answers, not a certified mechanism or predictive model. [HA-C07/15–18/23/26–28/37–38.]",
+          "",
+          "## 11. Finite endings, evidence scope and the fourteen open gaps",
+          "",
+          "The operative conclusion is that continued membership is offered against Haruka's account of endless repayment, and that each direction must keep the recipient's actual answer. Aru can refuse an unlimited debt and still command unsafe retaliation; Mutsuki can worry about hurt and still use misleading play elsewhere; Haruka can love her colleagues and still want cultivation, judgment and quiet time for herself. The following finite tests retain both achievement and remaining warrant. They are retrospective constraints, not predictions or completion counts.",
+          "",
+          "| End test | Actual supported end | Remaining limit |",
+          "|---|---|---|",
+          "| E01 Rescue history | MINI retrospective intervention and later reported punishment/apology; written origin separately available | Not independently witnessed childhood or complete lifetime safety. |",
+          "| E02 Sufficient repayment | Aru's refusal/payment-release answer supported at connected MINI scope | Haruka's durable uptake unprinted;13050u104 fine-label seam retained. |",
+          "| E03 Nickname | First hurt/apology, later local liking and Mutsuki's worry | No retroactive consent or all-future welcome. |",
+          "| E04 Death talk | Mutsuki asks it to stop | No completed cure, diagnosis or stable future absence. |",
+          "| E05 Cultivation | Wanted tending precedes rescue; soil knowledge/return and existing private garden | No rescuers authored every preference or knew every private thought. |",
+          "| E06 Flowering | Weed alive and flowering; shared cultivation proposed and welcomed | Transplant not narrated; Aru's nourishment explanation not an assay. |",
+          "| E07 Pot protection | Actual broken offering, remaining bugs/soil/leaves | No successful extermination, cleanup or compensation. |",
+          "| E08 Small repair/refusal | Returned unopened goods/joint apology; kimono refused, sweets/warmth received | No all-legal closure, audited recovered payment or future adherence. |",
+          "| E09 Contact/culture | Task-free written wishes; slowed walk and completed museum viewing/return | No invented peer encounter, universal inward access or completed future outing. |",
+          "| E10 MINI rescue | Colleagues reached, police arrival/arrest, enjoyed dinner | No conviction, all injuries resolved, repaired hotel or durable trauma cure. |",
+          "| E11 Command | Main blast uncommanded/post hoc; GROUP2201 secure commands/acceptance and withdrawal | No shared cause, completed proportionality/repair or durable closing vow. |",
+          "| E12 Private comparisons | Specific refusals, play/culture and narrated Aru repayment; distinct gifts | No peer-owned adult encounters, completed donation or fair-game guarantee. |",
+          "| E13 Public/Final work | Actual participation, reports, requests and morale promises retained by source | No safe-return guarantee, every actor's causal share, restored wages or all future completion. |",
+          "",
+          "| Original stable gap | Contribution of this parent | Claim-specific remaining warrant; status |",
+          "|---|---|---|",
+          "| G01 Ordinary and private breadth | Gardening, taste, company, gifts, cultural criterion, refusal and rest have intrinsic weight | Broader recurrence/recipient uptake not supplied by nineteen arguments; OPEN. |",
+          "| G02 Yuuka council/club decision transfer | No direct Yuuka decision-transfer test here | No transfer from PS68's answer to council/club decisions; OPEN. |",
+          "| G03 Serika service, peer and reciprocity range | EVENT809 wage/service comparison remains Serika's own scope | No full Serika range or restored wage inference from Haruka's relations; OPEN. |",
+          "| G04 Hina crisis causality, accountability and ordinary contrast | Report-layer/Prefect comparisons keep public accountability distinct | No Hina causal or ordinary completion from dyadic kindness; OPEN. |",
+          "| G05 Arius and PS68 ordinary/aftermath transfer | MINI ordinary afterward and E834 labor objections materially broaden PS68 | No all-PS68 harm/rest/finance repair or inferred Arius restoration; OPEN. |",
+          "| G06 Cross-school ordinary repertoire | Trinity visiting, Ibuki company, plants/culture and local food comparisons | Unknown artists/clients/collectives stay unjoined; no exhaustive cross-school transfer; OPEN. |",
+          "| G07 Story-world chronology | MINI retrospective/present/few-days-later and specific private local links retained | No main/variant/holiday calendar or certified lesson-to-later-action edge; OPEN. |",
+          "| G08 Event naming and repeat contexts | Exact809/810/821/834 and gift suffixes/UI modes retained | No one gift day, repeated lived costume run or invented overarching title; OPEN. |",
+          "| G09 Written speaker/choice attribution | Secure connected answer/command distinct from named seams and inward alternatives |13050u104/GROUP eleven seams/timed labels remain qualified; no silent repair; OPEN. |",
+          "| G10 Performed voice | Written register interpreted at actual grade | No heard prosody, gesture, laugh, acting or audiovisual reinspection; OPEN. |",
+          "| G11 Hoshino's Yume record and office states | No direct Yume record test; limited Main comparison retains its original limits | No grief/office authentication from PS68 ordinary continuance; OPEN. |",
+          "| G12 Counterpart, system and variant identity | Exact three typed families/positive variant routes; local anonymous roles separate | No new person, client continuity, botanically authenticated plant or native-label repair; OPEN. |",
+          "| G13 Office, contract, safety and technical outcomes | Local rescue/arrest/returns/dinner/flowering coexist with actual damage and reported work | Wages, injuries, compensation, convictions, security proportionality, botanical mechanisms and durable debt uptake remain bounded; OPEN. |",
+          "| G14 Unclassified/mode continuity |92030 lead retained metadata-only outside admitted85; source modes preserved | No unclassified admission, protected-original access or cross-mode continuity; OPEN. |",
+          "",
+          "The source receipt joins every numbered claim to exact normal paragraphs and the saved body. HA01–03 preserve the complete85-object private responsibilities as documentary inverse metadata with earlier adequate same-author checkpoint reception. HA04–19 retain their distinct GROUP, MINI, Main, event, gift and Final scopes. Fresh reception here is specific accepted analytical argument reception; inherited original-owner canonical/raw assertions stay attributed. Historical producer pending/unadmitted totals and main frontiers inside the normal files are superseded for present status by their current maintained controls, with no new source credit through this synthesis.",
+          "",
+          "This candidate can support independent review of the existing parent and both named duties. ROOT acceptance, canonical adoption, publication, milestone integration, institution/belonging work, other directed relationships, models and predictions remain separate. All fourteen original gaps remain OPEN; no diagnostic opportunity or empirical mechanism is invented from already exposed textual endings."
+        ]
+      }
+    ],
+    "full_original_byte_recovery": "PASS",
+    "terminal_LF": "EXACT"
+  },
+  "all_frozen_original_transports": [
+    {
+      "path": "HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 39469,
+      "sha256": "59802c33fa87eabfb76e76ef7c845a610f8510518fc9d8fad9f99b390fa58594",
+      "git_blob_oid_of_actual_bytes": "320ef5d53d327accbb845e838005e77394619715",
+      "immutable_transport_path": "immutable_originals/HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS.md"
+    },
+    {
+      "path": "HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_INPUT_AND_ACTUAL_RECEIVING_RECEIPT_V1.json",
+      "bytes": 367824,
+      "sha256": "7f5aab1a46736f342a639154fcdd11c32d1095b345bfc8b22053be0b0c327afd",
+      "git_blob_oid_of_actual_bytes": "1d3a0501ec8a33f7cb59d3b390bfa45279974146",
+      "immutable_transport_path": "immutable_originals/HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_INPUT_AND_ACTUAL_RECEIVING_RECEIPT_V1.json"
+    },
+    {
+      "path": "HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_COMPLETE_AUTHOR_REVIEW_AND_FREEZE_V1.json",
+      "bytes": 6127,
+      "sha256": "2da01d93e306d87be3fe8c5133fff7fd3215444e7205fb8c0b05897eb6b82eda",
+      "git_blob_oid_of_actual_bytes": "55bf557b57fd906c26bd3637fd32188ed9ea6f2d",
+      "immutable_transport_path": "immutable_originals/HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_COMPLETE_AUTHOR_REVIEW_AND_FREEZE_V1.json"
+    },
+    {
+      "path": "ROOT_HARUKA_ARU_MUTSUKI_COMPLETE_SOURCE_SCOPED_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json",
+      "bytes": 8800,
+      "sha256": "2354a8ab12948791f723ddfae8fd9a4a513c2e8857a779ace4422e0faaeea6d2",
+      "git_blob_oid_of_actual_bytes": "4c17de9fa9964c036777f61f8e09f8180cf20fcf",
+      "immutable_transport_path": "immutable_originals/ROOT_HARUKA_ARU_MUTSUKI_COMPLETE_SOURCE_SCOPED_DIRECTED_RELATIONSHIP_ACCEPTANCE_V1.json"
+    },
+    {
+      "path": "HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_CLAIM_ENDPOINT_AND_SAVED_JOIN_REGISTER_V1.json",
+      "bytes": 168653,
+      "sha256": "0a2c5fd14b22838e95f7cb1abdf4ddcfe9e5498bf2409e05cc00145f20b80fc4",
+      "git_blob_oid_of_actual_bytes": "c89bd7e474ddaa640705ff2c6cf4ae6ef44ccaee",
+      "immutable_transport_path": "immutable_originals/HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_CLAIM_ENDPOINT_AND_SAVED_JOIN_REGISTER_V1.json"
+    },
+    {
+      "path": "HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_READABLE_AUTHOR_RECEIVING_RECEIPT_V1.md",
+      "bytes": 3741,
+      "sha256": "358e01f7800d804083d4ca7c9a8d3ba4fd12e0c2340dd4ea6a7849f9945d4059",
+      "git_blob_oid_of_actual_bytes": "d2f7ef6a5ba80c0c320954bead4c16db4b4f5a93",
+      "immutable_transport_path": "immutable_originals/HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_READABLE_AUTHOR_RECEIVING_RECEIPT_V1.md"
+    },
+    {
+      "path": "HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_SAFE_FINITE_EXACT_INVERSE_VERIFICATION_V1.json",
+      "bytes": 24561,
+      "sha256": "d584b6378be5af3fa3d06828c9c279583b1a2fd4c5f7ba9d487fe23ccc3de7ff",
+      "git_blob_oid_of_actual_bytes": "aa0e5d993128fcff6c3468b3cd3b67c817e85b7f",
+      "immutable_transport_path": "immutable_originals/HARUKA_ARU_MUTSUKI_DIRECTED_RELATIONSHIP_SYNTHESIS/HARUKA_ARU_MUTSUKI_SAFE_FINITE_EXACT_INVERSE_VERIFICATION_V1.json"
+    }
+  ],
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_HARUKA_ARU_MUTSUKI_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 210936,
+      "sha256": "53a870fa3762910820aa96ad7e078c8ccebe71f303cfcc55816297d952e036d7",
+      "git_blob_oid_of_actual_bytes": "f63f9d5ce4497d47dd2124774b9666bfd1fb3046",
+      "attachment_names": [
+        "HARUKA_ARU_MUTSUKI_CLAIM_ENDPOINT_AND_SAVED_JOIN_REGISTER_V1.json",
+        "HARUKA_ARU_MUTSUKI_READABLE_AUTHOR_RECEIVING_RECEIPT_V1.md",
+        "HARUKA_ARU_MUTSUKI_SAFE_FINITE_EXACT_INVERSE_VERIFICATION_V1.json"
+      ]
+    }
+  ],
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "All174 literary lines and both substantial Aru–Haruka/Mutsuki–Haruka directions retain independent wants, objections and answering agency. Six immutable outputs plus author freeze preserve19 source grades,38 claims,86 source spans,110 saved joins, nine rivals,13 finite ends and85 private documentary inverse records at actual custody. Ordinary gardening, leaves, soil, outings, museum and kimono wishes, affordable gifts and dinner retain intrinsic worth. Gratitude does not warrant infinite service; private comparison is not communicated peer knowledge. MINI13050 actor seams remain literal. Institution/belonging, individual portraits and Kayoko–Ako remain separate; two named duties count within one required directed parent.",
+  "new_completion_credit": 0,
+  "all14_original_gaps": "OPEN_UNCHANGED"
+}

@@ -1,0 +1,75 @@
+{
+  "schema": "konosuba.secondary.exact-scenario-inputs.v1",
+  "created_utc": "2026-10-20T17:07:37.943133+00:00",
+  "subject": "Arnes",
+  "precase_freeze_file": "SENA_ARNES_MODELS_AND_RULES_PRECASE_FREEZE_01.json",
+  "precase_freeze_sha256": "58df851fb0f8bdb76a58831643428dfbcb4e2bae36fbe8af4d241eeeea868ce0",
+  "setting": "All-adult realistic modern human analogues; no performed canonical events, magic, hidden knowledge or legal advice.",
+  "authorship": "Same informed root model author/case designer/first-output author/assessor. General response tendencies were anticipated; cases are not blind or independent.",
+  "cases": [
+    {
+      "case_id": "ARNES-H01-A",
+      "pair_id": "ARNES-H01",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Arnes is arranging an old theatre group's reunion and regards its former leader Wolbach as particularly important. Wolbach texted her yesterday, 'I'll return to the hall with you tomorrow evening.' Arnes has come to collect her and has two unused bus passes. Wolbach is now helping Megumin put three books away in a small reading room. The hall is ten minutes away by bus and the reunion starts in forty minutes. There is time to help or talk. Arnes stands at the open doorway, two steps from Wolbach; Megumin is beside the shelf and is silent. Wolbach tells Arnes, 'I'm staying here with Megumin. I'm not returning with you tonight.'\nGive Arnes's next brief spoken response and one visible action. Use only the supplied history and present preference; do not invent memory illness, a binding contract, physical restraint, a completed departure or anyone else's reply.",
+      "input_sha256": "9319559ff39be2c00420b19f24e5f07e12c02bda779da0cd8275d157b448e747",
+      "intended_rules": [
+        "AR-R01",
+        "AR-R02"
+      ]
+    },
+    {
+      "case_id": "ARNES-H01-B",
+      "pair_id": "ARNES-H01",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Arnes is arranging an old theatre group's reunion and regards its former leader Wolbach as particularly important. Wolbach texted her yesterday, 'I'll return to the hall with you tomorrow evening.' Arnes has come to collect her and has two unused bus passes. Wolbach is now helping Megumin put three books away in a small reading room. The hall is ten minutes away by bus and the reunion starts in forty minutes. There is time to help or talk. Arnes stands at the open doorway, two steps from Wolbach; Megumin is beside the shelf and is silent. Wolbach tells Arnes, 'I'm returning with you tonight, but first I'm helping Megumin put these three books away.'\nGive Arnes's next brief spoken response and one visible action. Use only the supplied history and present preference; do not invent memory illness, a binding contract, physical restraint, a completed departure or anyone else's reply.",
+      "input_sha256": "6f11797eeb5f20e1eb6ee4753a06eda5569095b4df791edaf0de0a9ff4d14824",
+      "intended_rules": [
+        "AR-R01",
+        "AR-R02"
+      ]
+    },
+    {
+      "case_id": "ARNES-H02-A",
+      "pair_id": "ARNES-H02",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Arnes has seen Megumin attend three theatre-group meetings. At each one Megumin carried equipment and never gave a presentation. Yunyun delivered the presentations and is now too hoarse to speak. Arnes has come to believe Megumin is all talk and cannot present. She has not seen the assigned roles for those meetings and does not know why Megumin stayed silent. The group is now alone in an empty rehearsal room, with working equipment ready and no audience nearby. Megumin has an open two-minute slot and says, 'Give me those two minutes. I can make the presentation.' No facts about her actual presentation ability are supplied. Arnes stands opposite her, holding the paper schedule; Yunyun sits silently at the side.\nGive Arnes's next brief spoken response and one visible action. Preserve her actual information, including a possible mistaken inference. Do not invent a performed presentation, hidden training, knowledge of a future result or anyone else's reply.",
+      "input_sha256": "1cef6a626acd51347b579e3d42e1be7c351708fc988afb94c1c55add5b3d26f0",
+      "intended_rules": [
+        "AR-R03"
+      ]
+    },
+    {
+      "case_id": "ARNES-H02-B",
+      "pair_id": "ARNES-H02",
+      "exact_prompt": "Modern human analogue. Everyone is an adult. Arnes has seen Megumin attend three theatre-group meetings. At each one Megumin carried equipment and never gave a presentation. Yunyun delivered the presentations and is now too hoarse to speak. Arnes has come to believe Megumin is all talk and cannot present. She has just read all three meeting programs: Megumin was assigned only the silent equipment role, with no speaking slot at any of them. The group is now alone in an empty rehearsal room, with working equipment ready and no audience nearby. Megumin has an open two-minute slot and says, 'Give me those two minutes. I can make the presentation.' No facts about her actual presentation ability are supplied. Arnes stands opposite her, holding the paper schedule; Yunyun sits silently at the side.\nGive Arnes's next brief spoken response and one visible action. Preserve her actual information, including a possible mistaken inference. Do not invent a performed presentation, hidden training, knowledge of a future result or anyone else's reply.",
+      "input_sha256": "7118928f059dfe6e71ab6da735bb7401854e8070cd4d92756048deb2a010c5da",
+      "intended_rules": [
+        "AR-R03"
+      ]
+    }
+  ],
+  "contrasts": [
+    {
+      "pair_id": "ARNES-H01",
+      "cases": [
+        "ARNES-H01-A",
+        "ARNES-H01-B"
+      ],
+      "shared_setup_sha256": "e6fdcee3d4826d1502ee8ca4724b806505fcadc72e7d36de70752b0de1e0873a",
+      "changed_field": "line",
+      "contrast_and_limit": "Current expressed preference changes from refusal to affirmative intention with a short task. Previous agreement, relation and time remain exact. Explicit current preference is a strong generic cue; no consent or memory mechanism is independently isolated."
+    },
+    {
+      "pair_id": "ARNES-H02",
+      "cases": [
+        "ARNES-H02-A",
+        "ARNES-H02-B"
+      ],
+      "shared_setup_sha256": "36de1e6115ddf70e98b0f9d539abfc07a1d5ebd31e38c7920872434ebcb9f022",
+      "changed_field": "information",
+      "contrast_and_limit": "Only information about the earlier opportunity changes. Non-use and lack of known ability remain exact. Explicit role information may make generic context-sensitive updating sufficient; no unique identification claim."
+    }
+  ],
+  "case_count": 4,
+  "paired_contrasts": 2,
+  "scope": "Proportionate internal probes; no principal battery or appearance quota. Rules unengaged by these inputs remain unprobed. These exact strings do not validate source interpretation, language adequacy, accuracy or confidence.",
+  "full_program_complete": false
+}

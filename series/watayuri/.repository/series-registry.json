@@ -1,0 +1,14 @@
+{
+  "series_id": "watayuri",
+  "stable_slug": "watayuri",
+  "canonical_title": "Yuri Is My Job!",
+  "media": ["MANGA"],
+  "repository_path": "series/watayuri/",
+  "canonical_entrypoint": "series/watayuri/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "GIT_NATIVE_POST_CUTOVER_WATAYURI_BOOTSTRAP_20260928",
+  "authority_status": "GIT_PRIMARY",
+  "project_initiation_gate": "REQUIRED",
+  "catalog_note": "Prospective Japanese manga analysis of Yuri Is My Job!, with volume readings and nine cumulative responsibilities for relationships, performance, information, agency, chronology, written speech, visual form, claims and character readiness. Source continuity, separately bounded supplements and reconstruction gates are controlled by the current entrypoint and project methods."
+}

@@ -2,11 +2,11 @@
 title: "Gakuen Idolmaster V2 - Audiovisual Verification Queue"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.6"
+version: "2.7"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 — Phase 6 Kaya Rinha evidence-matrix AV gate integrated"
-status: "active; 13/13 core baselines complete; Phase-6 Kaya Rinha targeted AV baseline REQUIRED — matrix-selected P0/P1 set pending acquisition/inspection"
+last_updated: "2026-11-07 — AV-DIA-SAKI-007 registered as P2 optional (Saki core v2.1 correction); RINHA-AV-20260911 state unchanged"
+status: "active; Rinha source/text, selected-mix and sampled-still pass delivered; listening, motion and dossier gate open"
 ---
 
 # AUDIOVISUAL VERIFICATION QUEUE
@@ -52,11 +52,14 @@ No substantive entries are asserted at Phase 0. The schema is intentionally init
 | AV-DIA-SAKI-004 | P1 | dialogue scene | `adv_dear_hski_035.txt` | romance, professional devotion, theatrical burden, or unstable blend? | full scene video/audio | CLOSED — INSPECTED |
 | AV-DIA-SAKI-005 | P1 | dialogue/stage | `adv_dear_hski_036.txt` | public older-sister command and scale of victory | full scene including audience/song/BGM | CLOSED — INSPECTED |
 | AV-DIA-SAKI-006 | P1 | dialogue/live transition | `adv_cidol-hski-3-000_03.txt` | baseline strong/weak register and Producer ignition line | full scene through performance transition | CLOSED — INSPECTED |
+| AV-DIA-SAKI-007 *(2026-11-07)* | P2 | dialogue scenes | `adv_unit_01-04_13.txt`; `adv_unit_01-04_15.txt` | is dream-Ume performed as Ume’s ordinary voice or as visibly altered, and how are Saki’s minimizing `すごーく嫌な夢を見ただけ` and the H.I.F.-eve confession `悔しくなかったら……どうしようって` delivered? | full scene video/audio for both scenes; public commu name and search terms unresolved (method §16.4) | OPEN — OPTIONAL, NON-BLOCKING (Saki core v2.1 §23.3) |
 
 
 ## Saki queue closure — 2026-08-14
 
 All `AV-MUS-SAKI-001..011` and `AV-DIA-SAKI-001..006` objects were supplied and inspected. No Saki AV acquisition remains open for the Phase-3 baseline.
+
+*(2026-11-07)* `AV-DIA-SAKI-007`, registered above with the Saki core v2.1 correction (§23.3), is a P2 optional target outside the Phase-3 baseline. It does not reopen this closure and creates no active retrieval burden; its identifier is reserved here so later passes do not reuse it.
 
 The following are **future comparative analyses**, not missing-source requests:
 
@@ -875,3 +878,25 @@ Prefer whole-scene/whole-episode captures that preserve pauses, BGM, facial anim
 
 **Next AV artifact:** `GKM_KAYA_RINHA_AUDIOVISUAL_BASELINE_AND_REQUESTS.md`.
 
+<!-- RINHA_AV_20260911 -->
+## Current Rinha target execution — perceptual gate OPEN
+
+All 11 P0 and 7 P1 targets from the matrix-selected plan are acquired and matched to 12 retained recordings. The [packet](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/00_README_AND_DOCUMENT_MAP.md) accounts for 538 distinct inspected still points and 18 selected-mix measurements. No required media download remains for this plan.
+
+| Responsibility | Current status |
+| --- | --- |
+| Physical source identity / Japanese scene matching | COMPLETE within 18-target scope |
+| Source text / speaker recount | COMPLETE; 620 Rinha messages, support0097-02 nine |
+| Selected-mix computation / declared sampled-still pass | COMPLETE |
+| Direct listening / continuous-motion comparison | OPEN; 0 seconds reviewed in each modality |
+| C073 relation-conditioned performed register | OPEN; text/still distinctions supplied, audible discrimination pending |
+| Rinha dossier / Phase 6 closure | OPEN; cannot close from computations or still counts |
+
+The prior acquisition handoff is historical. Use the [target and metrics matrix](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_AV_EVIDENCE_AND_METRICS_MATRIX.md) for the retained sources and windows. Q1–Q7 now have bounded answers and explicit residual dependencies in the baseline.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+The [Gemini 4 Carbon observation packet](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md) and [paired adjudication packet](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md) supply the current prioritized selection. The register has 35 unique candidates: 12 P0, 17 P1, 4 P2 and 2 deferred. The P0 set includes the 11 existing required Rinha targets and the inherited E001 dub witness. The Rinha café candidate is supplemental. Preserve the inherited seven Rinha controls, exact source-edition matching and the established gate criteria. The prior Phase 4/5 backlog stays queued under its original evidence obligations.
+
+All new exact playback times are unresolved. The inherited Rinha navigation windows apply to their matched files only. Direct listening and continuous motion for this refresh are both zero seconds.

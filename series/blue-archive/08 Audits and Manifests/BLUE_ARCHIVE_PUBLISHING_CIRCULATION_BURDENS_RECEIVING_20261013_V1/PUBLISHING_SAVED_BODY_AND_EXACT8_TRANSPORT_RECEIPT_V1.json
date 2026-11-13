@@ -1,0 +1,121 @@
+{
+  "schema": "PUBLISHING_CURRENT41_105_SOURCE4_EXACT8_AUTHOR_SAVED_BODY_TRANSPORT_RECEIPT_V1",
+  "home": "P3-INST-PUBLISHING-CIRCULATION-BURDENS",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 39617,
+    "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+    "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588"
+  },
+  "components_exact_before_this_receipt": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_AND_BURDENS_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 39617,
+      "sha256": "3c034418c18746e86f85382c201e8e87cb119f6477f73630cd75497aa4813e5c",
+      "git_blob_oid_of_actual_bytes": "18282268b3973fde29dc34f1995cf4a394c57588"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP000_PUBP035_V1.json",
+      "bytes": 271437,
+      "sha256": "7a87ce783ec58f393f76e22d4135a7485ee3d2a8787520f9cd2680604436f898",
+      "git_blob_oid_of_actual_bytes": "eee74b32b35958f094970df46b07777fa744e606"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP036_PUBP070_V1.json",
+      "bytes": 411418,
+      "sha256": "53619888c2aff2379f6ceb736b3a623f36e99f14383c06b9ac4035c08fab342f",
+      "git_blob_oid_of_actual_bytes": "e80ab83df285885240cac13306b06299c3ab80fc"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_NEW_TARGET_PURPOSES_PUBP071_PUBP104_V1.json",
+      "bytes": 576065,
+      "sha256": "d7acb895b80489546895ee610f15c331a5dbb493c693b06afef00d0182426fcf",
+      "git_blob_oid_of_actual_bytes": "7fde86e2cebf26fe77dd2d21e6a508d7f9fa361d"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT105_TARGET_PURPOSE_INDEX_V1.json",
+      "bytes": 124236,
+      "sha256": "269219831ab3222dfe5e640b5c25cad8851671ac75cf0e384597dd905b05123a",
+      "git_blob_oid_of_actual_bytes": "b93a21a8640fe5faa6e4819b01a4e6c6435e03df"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT4_INPUT_SOURCE_GRADE_AND_RECEIVING_V1.json",
+      "bytes": 18320,
+      "sha256": "9ca8566266c695a42c6e83955f1f0af70e07256f699d02b98da1261afe4e0f85",
+      "git_blob_oid_of_actual_bytes": "411979530537839089b4fd2af96d768fdc2b68f4"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PUBLISHING_CIRCULATION_BURDENS_RECEIVING_20261013_V1/PUBLISHING_CURRENT_LITERAL41_CLAIM_SOURCE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 493160,
+      "sha256": "3a3a9b03c28f3cbb2d93738679b38e9acd3c6b443d9d0a7b7df074627bd615ef",
+      "git_blob_oid_of_actual_bytes": "37ba2859e4c14e99c985134f5d1c67d0e673db00"
+    }
+  ],
+  "exact_current_public_file_count_with_this_receipt": 8,
+  "source_grade": "Author complete4 maintained arguments plus consequential selectedE850 and actual priorreport meaning/525 newtarget fields; all underlying primary and26whole79selected remain attributed.",
+  "current_author_body_and_purpose_saved_receiving": {
+    "evidence_id": "PUBLISHING_OWN105_COMPLETE525_SAVED_FIELD_READBACK_AND_REPORT_REUSE_RECEIPT_V1.json",
+    "bytes": 2878,
+    "sha256": "514ed238b73b4039a90fb163c38a04d679e038f03987d16a902f03c638dfeccd",
+    "git_blob_oid_of_actual_bytes": "10387b6d51831c052d5173674e4f9213aa50bb24"
+  },
+  "complete_original_input_custody_and_full_raw_recovery_manifest": {
+    "evidence_id": "PUBLISHING_CURRENT105_THREE_PARTS_COMPLETE_ORIGINAL11_CUSTODY_AND_FULL_RAW_RECOVERY_PREPARATION_MANIFEST_V1.json",
+    "bytes": 13005,
+    "sha256": "879ee2fe2a6e78ef5ec115898a53cdfb789f5619d516954abafa2190e3aecc87",
+    "git_blob_oid_of_actual_bytes": "1ed0d548c46c53e155a393029102e99aa50c4268"
+  },
+  "source4_report_exact4_path_only_inverse": {
+    "evidence_id": "PUBLISHING_SOURCE4_EXACT4_PATH_ONLY_OPERATIONS_AND_FULL_ORIGINAL_REPORT_RECOVERY_V1.json",
+    "bytes": 14948,
+    "sha256": "27736bfe664c14834620b0a255e6e1abe09a6c23c89399930d668f06ad5a40f2",
+    "git_blob_oid_of_actual_bytes": "ded52047bd6cd8cef5aa9fd462781e9a5cf7f9b7"
+  },
+  "source4_full_raw_beforeimage_recovery_witnesses": [
+    {
+      "evidence_id": "PS01_FULL_ORIGINAL_MAINTAINED_ARGUMENT_UTF8_INVERSE_V1.json",
+      "bytes": 66625,
+      "sha256": "64cd8b579cf976b6e8c548033973f4dc968ba9fa423d76bc1a06b36b9e9c3fa5",
+      "git_blob_oid_of_actual_bytes": "a442de172bd52f3959ba5df82b8d6a6f3c685ffc"
+    },
+    {
+      "evidence_id": "PS02_FULL_ORIGINAL_MAINTAINED_ARGUMENT_UTF8_INVERSE_V1.json",
+      "bytes": 29060,
+      "sha256": "6817736f8b2b0a7ac2750dee39d9689c845c279f4c4a1fd8af18171910a59d45",
+      "git_blob_oid_of_actual_bytes": "d0f98cb0c073174986efb6516855f511ccd3128e"
+    },
+    {
+      "evidence_id": "PS03_FULL_ORIGINAL_MAINTAINED_ARGUMENT_UTF8_INVERSE_V1.json",
+      "bytes": 39225,
+      "sha256": "51959e0c78408e7ea8ed09436770a051fb00ae2e01439c5e34396ea634f7bcb5",
+      "git_blob_oid_of_actual_bytes": "f88198ac211a94b45bd3c5552f665ee11bd42423"
+    },
+    {
+      "evidence_id": "PS04_FULL_ORIGINAL_MAINTAINED_ARGUMENT_UTF8_INVERSE_V1.json",
+      "bytes": 47998,
+      "sha256": "fc0c980bdab090eb64f89a99b07786e97099436febbfba9ca9622e0682cdabda",
+      "git_blob_oid_of_actual_bytes": "33afc85531c5acf0ddaf9630061a0dff85e3e089"
+    }
+  ],
+  "current_complete_body_inverse": {
+    "evidence_id": "PUBLISHING_CURRENT_V3_THREE_LITERAL_ACTOR_ACTION_SUCCESSORS_AND_EXECUTED_FULL_V2_INVERSE_V1.json",
+    "bytes": 46384,
+    "sha256": "eec5cc1284093922f3b7be7966de5b78d40926a50d9c1ca918516cf9bd51299a",
+    "git_blob_oid_of_actual_bytes": "525ecc65460634bf5504d55d082ad65bf6493da7"
+  },
+  "body_only_current_independent_QA": {
+    "evidence_id": "INDEPENDENT_PUBLISHING_CURRENT_V3_EXACT3_LITERAL_ACTOR_ACTION_REPAIR_AND_FULL_BODY_RAW_RECOVERY_POSITIVE_QA_V1.json",
+    "bytes": 14550,
+    "sha256": "3a14771226c3bac1c64da9299ae85f3289f6329bd92c9f61904f7f8885b0c9e2",
+    "git_blob_oid_of_actual_bytes": "879ccd96a46073b5daaf4380e013268286457535",
+    "role": "BODY_ONLY; no new105/component/ROOT acceptance implied."
+  },
+  "source_fixed_receiving_basis": "70db21c24b2a2e1e68b227b5ef278cfaeca32d3e",
+  "public_UTF8LF_noBOM_single_final_LF_and_under1MiB": true,
+  "all14_OPEN": true,
+  "models": 0,
+  "next178": "UNREACHED",
+  "mandatory_named_duty": null,
+  "new_scope_source_package_named_model_milestone_credit": 0,
+  "adoption_install_sourcepublication_MAINintegration": "PENDING separate distinct complete component/new105 QA and ROOT actual receiving/adoption. No new runtime certification."
+}

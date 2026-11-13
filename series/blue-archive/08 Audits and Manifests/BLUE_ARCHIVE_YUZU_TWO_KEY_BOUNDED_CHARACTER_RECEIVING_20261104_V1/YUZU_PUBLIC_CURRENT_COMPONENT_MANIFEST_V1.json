@@ -1,0 +1,103 @@
+{
+  "schema": "YUZU_PUBLIC_CURRENT_NONSELF_COMPONENT_MANIFEST_V1",
+  "status": "canonical",
+  "supersedes": [],
+  "superseded_by": [],
+  "do_not_use_as_current_authority": false,
+  "generation": "PUBLIC_FORM_V1",
+  "date": "2026-11-04",
+  "home_zero": 58,
+  "required_package_id": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+  "role": "Exact nine nonself current outputs; this manifest never binds itself, Root control never hashes this manifest",
+  "stage": "CURRENT_ELIGIBLE_METADATA_PROPOSED_20261104;PRIOR_PUBLIC_C_FORM_ROOT_ACCEPTED_WITH_LIMITS;FINAL_DERIVATIVE_QA_AND_ROOT_BYTE_ACCEPTANCE_REQUIRED_BEFORE_INSTALLATION",
+  "component_paths": {
+    "BODY": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+    "MAP": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_BODY52_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+    "SOURCE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_AUTHORITY_IDENTITY_AND_EFFECTIVE_USE_QUALIFICATIONS_V1.json",
+    "PURPOSE": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ALL105_COMPLETE_FIVE_FIELD_COMPARATIVE_PURPOSES_V1.json",
+    "INDEX": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_COMPARISON_NAVIGATION_AND_RECIPROCAL_RELATION_INDEX_V1.json",
+    "WARRANT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_REPORT_WARRANTS_O000_O004_COMPLETE_ATTRIBUTED_V1.json",
+    "AUTHOR": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_AUTHOR_REASONS_AND_DATED_QUALIFICATIONS_V1.json",
+    "PEER": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_DISTINCT_REVIEW_REASONS_AND_CURRENT_FINITE_QA_V1.json",
+    "ROOT": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ROOT_PRIVATE_ADOPTION_AND_PUBLIC_COMPOSITION_CONTROL_V1.json",
+    "MANIFEST": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_PUBLIC_CURRENT_COMPONENT_MANIFEST_V1.json",
+    "ODY1": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O000_O029_CURRENT_PURPOSES_V1.json",
+    "ODY2": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O030_O054_CURRENT_PURPOSES_V1.json",
+    "ODY3": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O055_O079_CURRENT_PURPOSES_V1.json",
+    "ODY4": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O080_O104_CURRENT_PURPOSES_V1.json"
+  },
+  "exact_reference_semantics": "COMPONENT#/JSON/pointer resolves recursively to the whole typed value. Full equality is proved in ROOT exact reuse table; path aliases are explicit repository paths, never private locators.",
+  "components": [
+    {
+      "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_MONOGRAPH.md",
+      "bytes": 31896,
+      "sha256": "8a4ef53eb5b9046814bd82c27190c39d29aeb41f5f667191babf83523b8f1413"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_REPORT_WARRANTS_O000_O004_COMPLETE_ATTRIBUTED_V1.json",
+      "bytes": 30894,
+      "sha256": "690689f0044973faa6cda0fad083ddaf0f5d9135f6b9982d4518af36c9938676"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_SOURCE_AUTHORITY_IDENTITY_AND_EFFECTIVE_USE_QUALIFICATIONS_V1.json",
+      "bytes": 295318,
+      "sha256": "d5efb376014b3066020265d04c493603f49a1c1e589cbb94f4352c3c7c1d9be8"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_BODY52_EVIDENCE_MODES_AND_ARGUMENT_LIMITS_V1.json",
+      "bytes": 112559,
+      "sha256": "5da24e41dda396b20af092b1b610078a8f68c6bda5fc38f85b4ee857e1ff197a"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ALL105_COMPLETE_FIVE_FIELD_COMPARATIVE_PURPOSES_V1.json",
+      "bytes": 426607,
+      "sha256": "cd64d31fa633bf6043dbeabf96f9ca410c90f8b800e22db7761328a364036bbe"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_COMPARISON_NAVIGATION_AND_RECIPROCAL_RELATION_INDEX_V1.json",
+      "bytes": 411917,
+      "sha256": "41366efdf8df4796154d5d9c53dfce6b25c5593995e9c8b5095827e343344a15"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_AUTHOR_REASONS_AND_DATED_QUALIFICATIONS_V1.json",
+      "bytes": 720906,
+      "sha256": "ab34b40cbf9cd819d1c6672a6efa0da227c0e124ff97015af12fafc92c213a0a"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_DISTINCT_REVIEW_REASONS_AND_CURRENT_FINITE_QA_V1.json",
+      "bytes": 662152,
+      "sha256": "c97949d12783dffd24fce77eb81180514891f8d02fd15d29594aa8ab2644d8ee"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_YUZU_TWO_KEY_BOUNDED_CHARACTER_RECEIVING_20261104_V1/YUZU_ROOT_PRIVATE_ADOPTION_AND_PUBLIC_COMPOSITION_CONTROL_V1.json",
+      "bytes": 714597,
+      "sha256": "764fa1b129459192ee5b2b26755584a78bafca5fb941e4af69f396994951e6cf"
+    }
+  ],
+  "external_carriers": [
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O000_O029_CURRENT_PURPOSES_V1.json",
+      "bytes": 258487,
+      "sha256": "c7155e06af23c6649af78623d6c4b8d39f91908d3cf098f8b7756df018e939b4",
+      "git_blob": "dbdca68e084a5ac55c46b07ded86787b3386685a"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O030_O054_CURRENT_PURPOSES_V1.json",
+      "bytes": 324615,
+      "sha256": "a7fde84b174f0770ee3dec9011c6d1e5dd1de0278be458873fbbb0bee42d6fa3",
+      "git_blob": "47e7002fe25433eafca9340b636a44dcba4f1d75"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O055_O079_CURRENT_PURPOSES_V1.json",
+      "bytes": 412905,
+      "sha256": "dcdc3ec1cef927e87a4ea8799e48eeddf39fcae42eb683e1c606e4b16463eb0b",
+      "git_blob": "8718e246a41efadde37570567dcca6ed6ffc0a76"
+    },
+    {
+      "path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_ODYSSEIA_INSTITUTION_RECEIVING_20261013_V1/ODY_ALL105_O080_O104_CURRENT_PURPOSES_V1.json",
+      "bytes": 519960,
+      "sha256": "156397b49c4262db42decf03abe9e1535cc8e0de5133ca40f0bf20eed6769aec",
+      "git_blob": "c313608d36e0bebdd8daabde4a2dc334436f221a"
+    }
+  ]
+}

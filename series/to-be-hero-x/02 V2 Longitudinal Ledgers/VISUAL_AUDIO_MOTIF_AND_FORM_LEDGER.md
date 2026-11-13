@@ -13,11 +13,11 @@ visual_status: Full-series formal stabilization complete
 audio_status: Complete synchronized Mandarin audio exists in the episode bundles; T03B preserves verified local audio/performance evidence but does not claim a fresh full-season acoustic audition
 legacy_id_policy: Phase-1 VF identifiers are episode-local and may repeat; current full-series findings use unique P2-VF identifiers
 targeted_av_evidence_ledger: TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md
-post_t03b_addenda: 1
+post_t03b_addenda: 2
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-16
+last_updated: 2026-10-25
 ---
 
 # Visual, Audio, Motif, and Form Ledger
@@ -111,6 +111,24 @@ The strongest formal inference is **spatial contraction after epistemic/jurisdic
 The bottle field strongly codes solitary drinking, but exact beverage contents remain an inference unless separately verified. Do not diagnose depression, dependence, or permanent ideological collapse from this sequence.
 
 Canonical evidence entry: `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` → `TBHX-AV-E11-001`.
+
+
+## 2B. Post-freeze written-evidence qualification — E16–E18
+
+Source qualification (2026-10-25): these are verified **displayed-text / `F-VIS`** findings from selected individual frames of supplied 1fps windows. WEB positions are nominal window-start-plus-PTS mappings, distinct from native cut boundaries and the DB Blu-ray clock. They narrow the written-evidence questions below without certifying acoustic performance or continuous motion.
+
+| Written credit | Readable source assertion | Evidence route |
+|---|---|---|
+| E16 Ghostblade theme | `英雄默杀 主旋律 Because of you`; performer **Kris Roche**; lyrics **泽野弘之 / Kris Roche**; composition/arrangement **泽野弘之**. `KONTINUUM` is separately labeled the ending theme. | Nominal WEB **24:14**, local PTS 79 seconds; [SUB-02](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-02). |
+| E17 The Johnnies theme | `英雄大小强 主旋律 growL`; performer **J.Rio**; lyrics **cAnON.**; composition/arrangement **Misaki Umase**. | Nominal WEB **24:12**, local PTS 77 seconds; [SUB-09](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-09). |
+
+These pages settle the printed titles and credited artists. The heard recording, scene allocation, delivery, mix and synchronization remain open for actual audition and Document 19; the written credits do not close the interpretive remainder of `C-V1-105` or identify a masked character's voice.
+
+The E17 hospital dashboard is real: the image at nominal WEB **04:45**, local PTS 35 seconds, pairs **heart 80%, lungs 30%, stomach 50%, kidneys 10%**. This recovers the HUD after earlier failed samples and corrects the producer's organ mapping. The separate `0%`-viability assertion and clinical meaning remain unresolved; the interface does not establish a diagnosis or recovery probability. See [SUB-04](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-04).
+
+The E18 phone image at nominal WEB **04:55**, local PTS 45 seconds, displays **`未知联系人 / 别做多余的事`** — an unknown contact and “Don't do anything unnecessary.” It does not name Vortex or Big Johnny. The recovered text supports an anonymous admonition; sender, intended intervention and native onset remain open. See [SUB-05](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-05).
+
+The E18 purple tank at nominal WEB **17:20**, local PTS 40 seconds, visibly contains a humanoid and displays **`FUSION IN PROGRESS`**, **`LOADING`** and **`EXPERIMENTAL DATA DETAILS`** with completion-rate UI. The scene exists despite the earlier failed locator; exact 30/78 values, production scale, operator/ownership and a complete clone-production chain remain unverified. These screen motifs support bounded technical/research staging without establishing its full mechanism. See [SUB-06](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md#sub-06).
 
 
 ## 3. Representational regime taxonomy

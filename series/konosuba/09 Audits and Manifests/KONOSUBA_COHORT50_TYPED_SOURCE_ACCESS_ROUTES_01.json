@@ -1,0 +1,1168 @@
+{
+  "schema": "konosuba.cohort50.typed-source-access-routes.v1",
+  "new_routes": [
+    {
+      "token": "C50-S01",
+      "intended_census_row": 732,
+      "character": "Unseen castle guard citing safe employment and a pet Neroido",
+      "identity": "A castle-security role speaks among alarms. No gender, name, Stesky156 or universal all-guard identity.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U01230–36, especially overheard35.",
+      "source_access_type": "overheard_individual_role_own_report_and_unperformed_leave_request",
+      "substantive_responsibility": "Asks to go home as the castle becomes unsafe; remembers an ordinary obligation. Actual departure/feeding is unshown.",
+      "gaps": "No named pet identity, actual leave, household visit or stable cowardice mechanism.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p09",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          140,
+          156
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [
+          156
+        ],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S02",
+      "intended_census_row": 733,
+      "character": "Unmapped castle emergency orders and daughter-campaign report",
+      "identity": "These are source-local voices, not a proven single commander or an automatic Mammon identification.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U01233–34/55–56.",
+      "source_access_type": "overheard_unmapped_command_and_report_voices",
+      "substantive_responsibility": "Requests coordination and imposes accountability/search orders. The reported capital success is not watched here.",
+      "gaps": "Exact speaker count/name, audience compliance and truth of every report remain limited.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          138,
+          140,
+          141
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S03",
+      "intended_census_row": 734,
+      "character": "Mammon corridor escort and elite-hall guard group",
+      "identity": "Contains locally differentiated server/angry speaker/rumor speaker and later interceptors, with unresolved overlaps. No common psyche or final roster.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U012111–166/170–351, with378–453 aftermath; known complete C49 chapter retained.",
+      "source_access_type": "actual_group_varied_unmapped_voices_and_armed_behavior",
+      "substantive_responsibility": "Guards captive and commander; reacts to perceived danger and later fights. Scruples about hostage status coexist with participation.",
+      "gaps": "No all-members agreement, every refusal, unified loyalty mechanism, exact count of distinct people across subroutes or confirmed deaths.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p10",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          78,
+          137,
+          138,
+          140
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S04",
+      "intended_census_row": 735,
+      "character": "Mammon unnamed tea-serving knight",
+      "identity": "Subordinate server within hall group734. Not automatically angry knight180, rumor speaker212 or a later interceptor.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U012182–203/207–217/228–244.",
+      "source_access_type": "actual_local_individual_service_and_denial",
+      "substantive_responsibility": "Continues the service task and contests blame. Mammon217 strikes; another attempted sanction238/244 is interrupted.",
+      "gaps": "No three performed blows, personal revenge confession, exact injury outcome or later fate. Obedience, job pressure and self-defense remain rival motives.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p11",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          138
+        ],
+        "explicit_member_of_new_rows": [
+          734
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S05",
+      "intended_census_row": 736,
+      "character": "Knight objecting when Aqua requests tea",
+      "identity": "A member occurrence in hall group734. Overlap with server735 is unproved, not certified distinctness.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U012178–183.",
+      "source_access_type": "actual_individual_reaction_member_overlap_unresolved",
+      "substantive_responsibility": "Objects locally; no performed attack or proof this same knight serves the tea.",
+      "gaps": "Identity and later role remain unresolved; no invented extra unique person.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          138
+        ],
+        "explicit_member_of_new_rows": [
+          734
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [
+          734,
+          735,
+          740
+        ],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S06",
+      "intended_census_row": 737,
+      "character": "Hall knight recalling the Sato Kazuma rumor",
+      "identity": "Local member of734; no automatic server/capture-messenger/katakana-speaker identity.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U012211–213.",
+      "source_access_type": "actual_individual_rumor_report_member_overlap_unresolved",
+      "substantive_responsibility": "Introduces a threat-relevant rumor into the discussion; no personal prior encounter is supplied.",
+      "gaps": "No previous personal Kazuma encounter, complete source network or global cowardice trait.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          138
+        ],
+        "explicit_member_of_new_rows": [
+          734
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [
+          734,
+          735,
+          740
+        ],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S07",
+      "intended_census_row": 738,
+      "character": "Knight reporting successful capture to Mammon",
+      "identity": "Messenger role in current castle force. Mammon246 reward promise addresses apparent Nos, not this messenger.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U012240–246.",
+      "source_access_type": "actual_individual_capture_report_and_order",
+      "substantive_responsibility": "Reports operational success and receives an order to bring captives. Exact personal capture actions are not watched.",
+      "gaps": "No proved personal disarmament of each captive, payment or later fate.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          138
+        ],
+        "explicit_member_of_new_rows": [
+          734
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [
+          734,
+          735,
+          740
+        ],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S08",
+      "intended_census_row": 739,
+      "character": "Guards escorting the captured party into the hall",
+      "identity": "Group occurrence within castle guards; individual overlap with messenger738 or interceptors740 is unresolved.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U012251–257.",
+      "source_access_type": "actual_guard_escort_group",
+      "substantive_responsibility": "Escorts captives to Mammon; disarmament has not already been accomplished.",
+      "gaps": "No invented fixed headcount, every captive consent, completed execution or unique-person increment.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          10,
+          127,
+          128,
+          138
+        ],
+        "explicit_member_of_new_rows": [
+          734
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [
+          734,
+          735,
+          740
+        ],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S09",
+      "intended_census_row": 740,
+      "character": "Five hall interceptors assembled during the melee",
+      "identity": "An actual local five-person configuration inside734, not five additional people beyond that group. Individual earlier-role mappings remain unknown.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U012377–453.",
+      "source_access_type": "actual_five_member_configuration_and_coordination",
+      "substantive_responsibility": "Coordinate a simultaneous attack, detect imitation, reinforce, focus Kazuma, are redirected by Decoy and retreat from a suspected trap.",
+      "gaps": "No five certified deaths, exact all-member cut mapping, earlier tea-server identity or general immunity/loyalty measure.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p12",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          138
+        ],
+        "explicit_member_of_new_rows": [
+          734
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S10",
+      "intended_census_row": 741,
+      "character": "Nine throne-room retainers",
+      "identity": "Nine retainers plus king make ten. Skeleton742 is a member, not a tenth retainer. No species-based join to earlier Pain135 or Logia136.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U013122–185/435–454/510–522;U014667.",
+      "source_access_type": "actual_nine_retainer_group",
+      "substantive_responsibility": "Attacks intruders, shields king, warns about indoor Explosion and tries to maintain a defensive wall against the seal.",
+      "gaps": "No every-retainer death, equal abilities, exact spell-to-figure map or complete unbuffed capability measurement.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p13",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          140
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [
+          136
+        ],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S11",
+      "intended_census_row": 742,
+      "character": "Throne-room scythe-bearing skeleton",
+      "identity": "Member of nine-retainer741; no Pain identity or merger with every undead/scythe image.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U013184/194–212/440–454.",
+      "source_access_type": "actual_individual_creature_with_inferred_finishing_outcome",
+      "substantive_responsibility": "Detects an intruder and attacks. Later scythe/absence support inferred Aqua retaliation, not another watched full duel.",
+      "gaps": "No personal name, every-undead psychology, exact finishing sequence or precise skill taxonomy independently tested.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p14",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          140
+        ],
+        "explicit_member_of_new_rows": [
+          741
+        ],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [
+          135,
+          136
+        ],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S12",
+      "intended_census_row": 743,
+      "character": "Returning army and protectors of the apparent daughter",
+      "identity": "Protector group and apparent daughter are different roles. Later approaching sounds744 are not a confirmed same roster.",
+      "draft_tier": 1,
+      "evidence_distribution": "MAIN17U014705–725; creatorU01622 separately.",
+      "source_access_type": "actual_returning_army_protection_with_tentative_visual_identity",
+      "substantive_responsibility": "Returns to castle and protects a vulnerable focal figure while under bombardment; no own explanation or exact command is supplied.",
+      "gaps": "Exact count/names, everyone identity, daughter certainty in the focalized sighting and future fate remain limited. Creator22 corroborates expulsion, not every watched gesture.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p15",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          141
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [
+          741
+        ],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S13",
+      "intended_census_row": 744,
+      "character": "Unidentified approaching castle footsteps",
+      "identity": "Unidentified sound-source occurrence, not a proved new person or explicit membership in743.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U014772–783.",
+      "source_access_type": "unidentified_approaching_sound_source",
+      "substantive_responsibility": "No identified actor decision or completed arrival is shown before departure.",
+      "gaps": "Source identity, group count and purpose remain inferred/unresolved; sound does not certify a separate person.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          141
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S14",
+      "intended_census_row": 745,
+      "character": "Creator offstage Axel-defense sketches and role references",
+      "identity": "Existing Dust/Wiz/Vanir/Luna/Zel/Chomusuke/Anna routes are relevant context, with no automatic equation of every descriptive role or ghost.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U0168–12/18–19.",
+      "source_access_type": "creator_offstage_and_partly_modal_reference_group",
+      "substantive_responsibility": "Offstage or modal defense is not a freshly watched choice, paid transaction or independent behavioral test.",
+      "gaps": "No fabricated extra named person, role identity, exact battle or global cast denominator. Modal wording and offstage access remain explicit.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          3,
+          4,
+          5,
+          11,
+          21,
+          59,
+          118
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S15",
+      "intended_census_row": 746,
+      "character": "Creator capital-battle collective and girl/armor references",
+      "identity": "Iris0,Aigis58,daughter141 and Crimson/Axis/royal groups are relevant known context. Descriptive metonymy is not a new individual registry identity.",
+      "draft_tier": 0,
+      "evidence_distribution": "MAIN17U01613–16/18–27.",
+      "source_access_type": "creator_offstage_collective_and_pending_future_context",
+      "substantive_responsibility": "Not a complete attended duel or watched armor bargain. Award23 and marriage-right discussion25 remain pending/future context.",
+      "gaps": "Do not turn tentative earlier visual daughter identification into an explicitly named witness or add generic researcher/royal roles as newly observed people.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          0,
+          1,
+          58,
+          141
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S16",
+      "intended_census_row": 747,
+      "character": "Two young female Axis street recruiters",
+      "identity": "A two-person local group, not automatically Cecily, Tristan or every Axis caller.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U02922–38.",
+      "source_access_type": "actual_two_person_recruitment_group_unmapped_lines",
+      "substantive_responsibility": "Calls for membership and offers alleged benefits; no recruitment actually completed here.",
+      "gaps": "Exact names, individual success, recipient enrollment and later identities remain unknown.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          12,
+          13
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S17",
+      "intended_census_row": 748,
+      "character": "Pub customer in Megumin dismissal explanation",
+      "identity": "Unjoined Arcanretia customer, distinct retrieval context from Crimson oden customer211; identity is not certified by town/food alone.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U02963–67.",
+      "source_access_type": "participant_reported_customer",
+      "substantive_responsibility": "Attributed concern/removal attempt and insulting assessment, without a watched customer scene.",
+      "gaps": "Exact incident, retaliation completion and injury outcome are not watched. Manager dismissal does not independently confirm every detail.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          217
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S18",
+      "intended_census_row": 749,
+      "character": "Earlier Arcanretia employment-rejection roles",
+      "identity": "Unresolved employment-role aggregate; does not join village workshops218 or fixed nine extra people.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U02961/71–81.",
+      "source_access_type": "participant_reported_employment_role_aggregate",
+      "substantive_responsibility": "Reported hiring/firing outcomes, not watched decisions for nine named managers.",
+      "gaps": "Exact employers, overlapping jobs, terms and causes remain unprovided. Institutional restriction8–18 is not a new observed clerk.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          217,
+          218
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S19",
+      "intended_census_row": 750,
+      "character": "First intervening Arcanretia police officer",
+      "identity": "Men are Eris pair; Cecily brings officer. No automatic join to off-duty751, later police752 or Axel officer178.",
+      "draft_tier": 1,
+      "evidence_distribution": "EXP02U029121–141.",
+      "source_access_type": "actual_local_police_intervention",
+      "substantive_responsibility": "Investigates an apparent child confrontation but initially follows a misleading framing. Subsequent request includes the fleeing pair.",
+      "gaps": "Exact identity, later outcome, truth-check and every dialogue speaker remain limited. Cecily claims of predation are contested immediately.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p16",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          13,
+          185,
+          186
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S20",
+      "intended_census_row": 751,
+      "character": "Off-duty Arcanretia officer selected by Megumin",
+      "identity": "Local off-duty officer occurrence, no proved identity with750/752 or earlier Axel police.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U029264–286.",
+      "source_access_type": "actual_question_with_retrospective_outcome",
+      "substantive_responsibility": "Asks about a staged distress call. Zesta escape is not an officer choice or collusion.",
+      "gaps": "Exact name, full lecture, legal sanction and future conduct unshown. Tier0 can preserve this bounded procedure without a separate personality profile.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          12
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S21",
+      "intended_census_row": 752,
+      "character": "Police encircling the toilet-paper thieves",
+      "identity": "Group occurrence, not a fixed headcount or demonstrated overlap with750/751.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U029322–344.",
+      "source_access_type": "actual_police_like_group_with_retrospective_station_outcome",
+      "substantive_responsibility": "Surrounds the pair and seeks compliance; no individual role allocation or watched full station process.",
+      "gaps": "No individual names, exact legal disposition, every act assigned to one cop or completed Zesta proposed attack.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          12
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S22",
+      "intended_census_row": 753,
+      "character": "Woman helping gather Zesta spilled apples",
+      "identity": "Targeted passerby with no proved identity join to MASK apple seller296 or reported family310. Help does not consent to recruitment or intimacy.",
+      "draft_tier": 1,
+      "evidence_distribution": "EXP02U029235–250.",
+      "source_access_type": "actual_passerby_help_refusal_and_withdrawal",
+      "substantive_responsibility": "Helps with a practical problem, redirects attention to remaining apples and then rejects pressure to enter a cafe.",
+      "gaps": "Name, exact private purpose, enduring personality and later encounter absent. Fear is narration, not direct interior access.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p17",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          12,
+          296
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [
+          296
+        ],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S23",
+      "intended_census_row": 754,
+      "character": "Axis follower serving Megumin a meal on Cecily instruction",
+      "identity": "Unnamed follower role, not automatically Zesta, Tristan or the reporting follower755.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U029167–170.",
+      "source_access_type": "actual_instruction_bound_meal_service_occurrence",
+      "substantive_responsibility": "Carries out a serving task; no personal attempt to impose enrollment is shown.",
+      "gaps": "Do not transfer Cecily suspected condition or Megumin suspicion to the server private motive.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          13
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S24",
+      "intended_census_row": 755,
+      "character": "Follower presenting the recruitment-rate report to Zesta",
+      "identity": "Not automatically Tristan168 or MAIN04 reporting priest142. Same function does not establish identity.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP02U029200–201.",
+      "source_access_type": "actual_document_report_with_unverified_causal_claim",
+      "substantive_responsibility": "Communicates a result/account to Zesta; no measured causal responsibility for recruitment failure.",
+      "gaps": "No exact data, document authorship, true sabotage or personally directed harassment.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          12,
+          142,
+          168
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S25",
+      "intended_census_row": 756,
+      "character": "Young police employee in Cecily prior-visit account",
+      "identity": "Reported Axel police role, with no explicit identity to178 or other officers.",
+      "draft_tier": 0,
+      "evidence_distribution": "CONTEXP01U015294.",
+      "source_access_type": "participant_reported_prior_police_role",
+      "substantive_responsibility": "Attributed recognition, not a watched current decision or romantic invitation.",
+      "gaps": "Name, exact status, actual visits and personal feelings unverified; no romance or corruption inferred.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          13,
+          178
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S26",
+      "intended_census_row": 757,
+      "character": "Male buyer taking three portions from the powder sellers",
+      "identity": "One customer occurrence, not all buyers or automatically the later older acquaintance176.",
+      "draft_tier": 0,
+      "evidence_distribution": "CONTEXP01U015234–237.",
+      "source_access_type": "actual_purchase_occurrence",
+      "substantive_responsibility": "Makes an actual purchase amid suggestive marketing; no personal consumption or effect is watched.",
+      "gaps": "No narcotic certainty, actual product effect or stable private motive. Purchase is explicit, unlike offered share246.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          13,
+          176
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S27",
+      "intended_census_row": 758,
+      "character": "Embedded Rampaging Lord story roles",
+      "identity": "Source-local story roles; no real-setting ruler, caregiver or village identities or automatic count from the sequel.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP01U018291–298;U02349–58.",
+      "source_access_type": "embedded_fiction_and_quoted_sequel_roles",
+      "substantive_responsibility": "Actions occur within embedded fiction/report, not a new attended event in the main setting.",
+      "gaps": "Do not inflate the external-world census with story cast, generic book authors or every reported sequel companion.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S28",
+      "intended_census_row": 759,
+      "character": "Unnamed library classmate misaccused by Megumin",
+      "identity": "A classmate, not automatically Kaikai200,Sakiberry201,Funifura,Dodonko or Arue. Girl-class setting does not name the speaker.",
+      "draft_tier": 1,
+      "evidence_distribution": "EXP01U018300–320.",
+      "source_access_type": "actual_classmate_dialogue_and_motive_denial",
+      "substantive_responsibility": "Initiates a teasing conversation, responds to an accusation and challenges teacher shifting story318.",
+      "gaps": "No proof the proposed exploitative plan existed, durable bullying disposition, exact name or future conduct.",
+      "tier_reason": "A specific situated choice and its limits support a compact profile; broader person/model mechanisms remain underidentified.",
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p18",
+      "typed_relations": {
+        "known_context_existing_rows": [
+          200,
+          201
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S29",
+      "intended_census_row": 760,
+      "character": "Classroom onlookers during potion preparation",
+      "identity": "Class group; Arue/Yunyun own acts are separately tagged. No default Pucchin or roster-name spellcaster join.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP01U03785–90/108.",
+      "source_access_type": "actual_unmapped_classroom_voice_group",
+      "substantive_responsibility": "React to sparks, escaping ingredients and apparent threatened animal harm. No own full preparation sequence assigned.",
+      "gaps": "Exact speaker count/identities, all injuries and causation remain unprovided; no inferred all-class assent.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          200,
+          201
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S30",
+      "intended_census_row": 761,
+      "character": "Active mandrake ingredients in the potion lesson",
+      "identity": "Group/member occurrence with unassigned overlaps, not named unique plants or duck762.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP01U03788–98.",
+      "source_access_type": "actual_active_creature_ingredient_group",
+      "substantive_responsibility": "Resists handling/flees as an active fantasy ingredient, without evidence of a rich private psychology.",
+      "gaps": "Exact number, each fate, individual continuity and inner experience remain unknown. Nonhuman status is not the reason for Tier0.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": true
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    },
+    {
+      "token": "C50-S31",
+      "intended_census_row": 762,
+      "character": "Kamonegi used in the potion lesson",
+      "identity": "Individual lesson creature; no identity join to YORI03 leader/flock562 or every species reference is established.",
+      "draft_tier": 0,
+      "evidence_distribution": "EXP01U037101–134.",
+      "source_access_type": "actual_creature_response_and_narrated_resource_result",
+      "substantive_responsibility": "Limited displayed response, without intelligible decision sequence or inferred agreement to use.",
+      "gaps": "No actual later meal, individual name, consent, species-wide mind or automatic flock identity. Source-limited behavior earns indexing rather than a forced profile.",
+      "tier_reason": "The received occurrence supports qualified indexing. Its limited performance, report or collective attribution does not presently require a separate profile; this is revisable evidence proportionality, not an identity/species ceiling.",
+      "bounded_profile_home": null,
+      "typed_relations": {
+        "known_context_existing_rows": [
+          562
+        ],
+        "explicit_member_of_new_rows": [],
+        "qualified_identity_existing_rows": [],
+        "possible_identity_existing_rows": [],
+        "possible_member_overlap_existing_rows": [],
+        "comparison_existing_rows": [
+          562
+        ],
+        "excluded_identity_existing_rows": [],
+        "known_context_new_rows": [],
+        "individual_mapping_unresolved": false
+      },
+      "independent_observation_count": null,
+      "not_final_unique_person_increment": true,
+      "source_known": true,
+      "new_model_or_rule": false
+    }
+  ],
+  "existing_target_dispositions": [
+    {
+      "row": 174,
+      "subject": "Unnamed Axel butcher confronted by Cecily",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p01"
+    },
+    {
+      "row": 175,
+      "subject": "Reported male Axis refrigerator user",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 176,
+      "subject": "Older gentleman acquainted with Cecily and the powder",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 178,
+      "subject": "Unnamed festival tadpole-stall officer",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p02"
+    },
+    {
+      "row": 179,
+      "subject": "Claimed juvenile-Kraken food vendor",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 180,
+      "subject": "Fish-display caller",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 181,
+      "subject": "Eris-target shooting-game operator",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p03"
+    },
+    {
+      "row": 182,
+      "subject": "Child pressured to buy Aqua alleged dragon",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p04"
+    },
+    {
+      "row": 183,
+      "subject": "Axis succession campaigner",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p05"
+    },
+    {
+      "row": 184,
+      "subject": "Axis farmer approached for a vote",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p06"
+    },
+    {
+      "row": 185,
+      "subject": "Eris bread encounter participant A, local unmapped slot",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p07"
+    },
+    {
+      "row": 186,
+      "subject": "Eris bread encounter participant B, local unmapped slot",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p07"
+    },
+    {
+      "row": 187,
+      "subject": "Funifura reported younger brother",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 188,
+      "subject": "Funifura reported staff-craftsman father",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 189,
+      "subject": "Unjoined MAIN14 tavern/lodging operator",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 195,
+      "subject": "Reported Crimson school principal",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 200,
+      "subject": "Kaikai / かいかい",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 201,
+      "subject": "Sakiberry / さきべりー",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 202,
+      "subject": "Mary / メアリー, palace messenger",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 203,
+      "subject": "Quoted fan-letter writer A",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 204,
+      "subject": "Quoted fan-letter writer B",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 205,
+      "subject": "Quoted fan-letter writer C",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 206,
+      "subject": "Parent roles reported in three fan letters",
+      "tier": 0,
+      "bounded_profile_home": null
+    },
+    {
+      "row": 217,
+      "subject": "Unnamed Arcanretia pub manager",
+      "tier": 1,
+      "bounded_profile_home": "series/konosuba/05 Specialist Synthesis/KONOSUBA_COHORT50_INCIDENTAL_AND_CASTLE_ROLE_PROFILES.md#c50-p08"
+    }
+  ],
+  "qualified_pair_recurrence": {
+    "existing_rows": [
+      185,
+      186
+    ],
+    "source": "EXP02 interludeII four images andU02993–141",
+    "relation": "High-confidence contextual recurrence of the two-man pair; not an explicit named equation or persistent individual A/B mapping.",
+    "no_new_unique_person_increment": true
+  },
+  "relation_rules": [
+    "Known context, comparison, explicit group membership and identity are different relations. Empty identity arrays are not certified distinctness.",
+    "Do not add every vaguely plausible role-filler edge. No source-supported identity is asserted from profession, place, pronoun or katakana styling alone.",
+    "Rows734/740 and741/742 overlap by actual group/member containment. The local five and nine counts do not partition a global population.",
+    "Historical canonical/private differences and all original artifact arrays remain exact; any newly added artifact destination must be unique."
+  ],
+  "new_routes_count": 31,
+  "global_identity_partition_closed": false,
+  "global_completion_percentage": null,
+  "full_program_complete": false
+}

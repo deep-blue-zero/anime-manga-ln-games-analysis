@@ -1,0 +1,2516 @@
+{
+  "schema": "BLUE_ARCHIVE_RIGATONI_INPUT_PUBLIC_CANONICAL_PROPOSAL_V1",
+  "status": "ROOT_ACCEPTED_WITH_LIMITS_COMPLETE_CANONICAL_INSTALLATION_PENDING",
+  "canonical_home": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+  "current_scope": "355required/29mandatory non-denominator duties/25distinctparents/384homes unchanged",
+  "dated_source_beforeimage": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+  "dated_source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+  "accepted_first_milestone_main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+  "fixed_preparation_snapshot": {
+    "accepted_package_sequence": [
+      126,
+      128
+    ],
+    "new_packages": 3,
+    "after_complete_ROOT_install": 128,
+    "characters": 96,
+    "directed_relationships": 16,
+    "ensembles": 5,
+    "institutions": 11,
+    "named_duties_after_complete_ROOT_install": 13,
+    "published_before_successor": 125,
+    "merged_main": 89,
+    "next_milestone": 178,
+    "later129plus": "EXCLUDED_FROM_FIXED_PROPOSAL",
+    "automatic_chain_required_before_assembly": "ROOT_ACCEPTED_EXACT_5933_SOURCE125_HOUSEKEEPING_FINAL_PASS",
+    "new_named_duty_completions_from_prior_ROOT_acceptance": 3,
+    "mechanical_transport_credit": 0
+  },
+  "current_source125_complete_chain": {
+    "original_exact_tuple": {
+      "path": "ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+      "bytes": 6067,
+      "sha256": "b5a025b1958cfa8a08e0e629fb717fa8b6798cff77628b55ce5ec2516a392285",
+      "git_blob_oid_of_actual_bytes": "40e3bcdbdccd017bbc2760b4a6394f9d1f8de5fc",
+      "immutable_transport_path": "immutable_originals/ROOT_5933_SOURCE125_PUBLICATION_CHAIN_ACCEPTANCE_V1.json"
+    },
+    "complete_ROOTaccepted_payload": {
+      "schema": "blue-archive/root-5933125-complete-publication-chain-acceptance/v1",
+      "decision": "ACCEPT_EXACT_SOURCE_HOUSEKEEPING_FINAL_COMPLETE_AUTOMATIC_CHAIN",
+      "checked_UTC": "2026-10-11T01:58:48.077877+00:00",
+      "source": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+      "main": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+      "source_tree": "e6b570d622c4a56f6b98c29c9eb78e2e90025618",
+      "source_parent": [
+        "c6908f2dba6f3b379bb84679fdd01175ac5894da"
+      ],
+      "original_capture": {
+        "path": "immutable-local-author-witness/PHASE3_START_20261009/ROOT_5933_SOURCE125_COMPLETE_AUTOMATIC_CHAIN_V1/EXACT_COMPLETE_CHAIN_CAPTURE_AND_EXECUTED_WITNESSES_V1.json",
+        "bytes": 34450,
+        "sha256": "6b95193c1198831daf874d47595b7ec51ce60f85bedadd49e1c7ef8dead49218",
+        "git_blob_sha1": "dd331b3b4987a3f4a7c21dbcce35c229a6a843e8"
+      },
+      "runs_and_actual_execution": [
+        {
+          "role": "SOURCE",
+          "run": {
+            "id": 38102191860,
+            "name": "Repository audit",
+            "event": "push",
+            "head_sha": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38102191860",
+            "created_at": "2026-10-11T01:32:42Z",
+            "updated_at": "2026-10-11T01:47:43Z"
+          },
+          "complete_log": {
+            "path": "SOURCE_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 359172,
+            "lines": 2272,
+            "sha256": "18ec5a000a17e67b7e8a30cd4d125105a083b281f44d9f0f5b177edc05a84873",
+            "git_blob_oid_of_actual_bytes": "a3aa4d3cd5ec102332d8675433fb6f82c46ae464"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "actual_execution": {
+            "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        },
+        {
+          "role": "HOUSEKEEPING",
+          "run": {
+            "id": 38103024197,
+            "name": "Global index housekeeping",
+            "event": "workflow_run",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103024197",
+            "created_at": "2026-10-11T01:47:45Z",
+            "updated_at": "2026-10-11T01:48:05Z"
+          },
+          "complete_log": {
+            "path": "HOUSEKEEPING_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 44358,
+            "lines": 267,
+            "sha256": "9aab774b9d1e452463ee7aba2f91de8ffd15747c41aa1e6c53a65e6c885a41ed",
+            "git_blob_oid_of_actual_bytes": "fcd993f48bad8d54a98be762d444dab15a5b431b"
+          },
+          "actual_noop_and_dispatch_witnesses": [
+            {
+              "line": 265,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3420005Z PASS: dispatched the full audit for 5933ee5e3859049509357c06e739ef91e0e7c98c"
+            },
+            {
+              "line": 266,
+              "literal": "Synchronize allowlisted global surfaces\tGenerate, validate, and publish allowlisted outputs\t2026-10-11T01:48:03.3421274Z PASS: unchanged routing and branch boundaries verified; final audit dispatched"
+            }
+          ]
+        },
+        {
+          "role": "FINAL_FULL_AUDIT",
+          "run": {
+            "id": 38103041900,
+            "name": "Repository audit",
+            "event": "repository_dispatch",
+            "head_sha": "b76b4373e6d0526bc78ce00bb673dba9e536c128",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+            "created_at": "2026-10-11T01:48:04Z",
+            "updated_at": "2026-10-11T01:55:53Z"
+          },
+          "complete_log": {
+            "path": "FINAL_FULL_AUDIT_COMPLETE_EXECUTED_LOG_V1.log",
+            "bytes": 358656,
+            "lines": 2267,
+            "sha256": "5952f303becb464fec3fdd9b13984acddbf301022717e62b3dfadfc0bfa4f0a0",
+            "git_blob_oid_of_actual_bytes": "86e7805cbef04bcb9b120a6159e22ab08069e0d7"
+          },
+          "actual_archive_outcome": "success",
+          "actual_archive_SHA": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+          "actual_execution": {
+            "commit": "5933ee5e3859049509357c06e739ef91e0e7c98c",
+            "outcome": "success",
+            "requested_profile": "shadow",
+            "executed_profile": "full",
+            "selection_enabled": false,
+            "discovered_tests": 292,
+            "tests_run": 292,
+            "errors": 0,
+            "failures": 0,
+            "expected_failures": 0,
+            "unexpected_successes": 0,
+            "skipped": 0
+          }
+        }
+      ],
+      "exact_final_status": {
+        "url": "https://api.github.com/repos/deep-blue-zero/anime-manga-ln-games-analysis/statuses/5933ee5e3859049509357c06e739ef91e0e7c98c",
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "id": 56070978939,
+        "node_id": "SC_kwDOUJ9ads8AAAANDhc9ew",
+        "state": "success",
+        "description": "Exact commit passed the repository audit",
+        "target_url": "https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/actions/runs/38103041900",
+        "context": "Repository integration audit",
+        "created_at": "2026-10-11T01:55:51Z",
+        "updated_at": "2026-10-11T01:55:51Z"
+      },
+      "ROOT_actual_execution_summary_receiving": "4af798",
+      "whole_log_human_reading_claim": false,
+      "progress": "Published125/merged89; ROOTaccepted128 remains separate. Nextmerge178/full355cast target unchanged; zero new literary acceptance or milestone.",
+      "source_or_repository_mutations": 0,
+      "all14_original_gaps": "OPEN_UNCHANGED",
+      "UNBOUND9_and_unpublished39": "UNREAD_UNHASHED_UNCHANGED"
+    }
+  },
+  "original_exact_tuple": {
+    "path": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+    "bytes": 132119,
+    "sha256": "b2d0221c18286e582a237054edc9e77cc257ce6bfa26b81fa0ffdd21fe18b594",
+    "git_blob_oid_of_actual_bytes": "077d1fc9e1e87200212cde9ec4d9321613cd12d7",
+    "immutable_transport_path": "immutable_originals/RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json"
+  },
+  "historical_author_or_ROOT_payload": {
+    "schema": "RIGATONI_COMPLETE_SOURCE_SCOPED_CHARACTER_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1",
+    "status": "AUTHOR_COMPLETE_BOUNDARY_PENDING_ROOT_COMPLETE_RECEIVING",
+    "home": "P3-CHAR-RIGATONI-MINI-SOURCE-SCOPED",
+    "kind": "CHARACTER",
+    "required_count": 1,
+    "mandatory_named_duties": [],
+    "body": {
+      "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "bytes": 35455,
+      "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+      "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+    },
+    "source_inputs": [
+      {
+        "ref": "M",
+        "original_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A06__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/M__A06__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+          "bytes": 93829,
+          "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+          "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+        },
+        "byte_equal": true,
+        "source_grade": "ACCEPTED_NORMAL_WRITTEN_ANALYTICAL_ARGUMENT",
+        "public_safe_path": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "own_adequate_custody": "Personally complete coherent130214–228/current53–62/ending288 received9fc564; notwhole344 or fresh primary",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      },
+      {
+        "ref": "A",
+        "original_C_tuple": {
+          "relative_to_P": "ROOT_RIGATONI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+          "bytes": 11981,
+          "sha256": "77c32c5888166e3efa5a22dc929be322d270a254395e718933582edf4b10412f",
+          "git_blob_sha1": "d89a4071e76af2331011854f89363bf939b6138c"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/A__ROOT_RIGATONI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+          "bytes": 11981,
+          "sha256": "77c32c5888166e3efa5a22dc929be322d270a254395e718933582edf4b10412f",
+          "git_blob_sha1": "d89a4071e76af2331011854f89363bf939b6138c"
+        },
+        "byte_equal": true,
+        "source_grade": "ROOT_POSITIVE_SCOPE_AND_AUTHOR_ALLOCATION_CONTROL",
+        "public_safe_path": null,
+        "own_adequate_custody": "Personally complete82e7db, no new literary credit from allocation",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      },
+      {
+        "ref": "C03",
+        "original_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+          "bytes": 24494,
+          "sha256": "017d25ce5296e792e7f2437bc4ca574f651f9478f3788620b727e0fdb71465c7",
+          "git_blob_sha1": "9343385e530b7db4819308a15278c2b2db5604a0"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C03__RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+          "bytes": 24494,
+          "sha256": "017d25ce5296e792e7f2437bc4ca574f651f9478f3788620b727e0fdb71465c7",
+          "git_blob_sha1": "9343385e530b7db4819308a15278c2b2db5604a0"
+        },
+        "byte_equal": true,
+        "source_grade": "AUTHOR_FROZEN_METADATA_PLAN",
+        "public_safe_path": null,
+        "own_adequate_custody": "Personally complete0845e0/94b203 with repaired initial aggregate clipping; noempirical130 custody",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      },
+      {
+        "ref": "Q",
+        "original_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_EXACT_METADATA_AND_ORIGINAL_SOURCE_QUESTION_RECEIPT_V1.json",
+          "bytes": 16263,
+          "sha256": "38c98d3e76fb48ea43b08e06ad8029cbdbd248d0f09839496a570dab9b288efc",
+          "git_blob_sha1": "9cf8d7d4f366f9956c4deafb1985bd6671a089b2"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/Q__RIGATONI_EXACT_METADATA_AND_ORIGINAL_SOURCE_QUESTION_RECEIPT_V1.json",
+          "bytes": 16263,
+          "sha256": "38c98d3e76fb48ea43b08e06ad8029cbdbd248d0f09839496a570dab9b288efc",
+          "git_blob_sha1": "9cf8d7d4f366f9956c4deafb1985bd6671a089b2"
+        },
+        "byte_equal": true,
+        "source_grade": "ORIGINAL_QUESTION_AND_CURRENT_SCOPE_CONTROL",
+        "public_safe_path": null,
+        "own_adequate_custody": "Personally complete8f8018; current required row and originalquestion control only",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      },
+      {
+        "ref": "C05",
+        "original_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A07__architecture_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "bytes": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C05__A07__architecture_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+          "bytes": 52261,
+          "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+          "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+        },
+        "byte_equal": true,
+        "source_grade": "ARCHITECTURE_CONTROL",
+        "public_safe_path": null,
+        "own_adequate_custody": "Personally complete7.1 normal319–345 in4f6546, not whole architecture",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      },
+      {
+        "ref": "C06",
+        "original_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A08__Cycle008_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+          "bytes": 19463,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "git_blob_sha1": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C06__A08__Cycle008_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+          "bytes": 19463,
+          "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+          "git_blob_sha1": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+        },
+        "byte_equal": true,
+        "source_grade": "ADMISSION_AND_CONTEXTUAL_ADOPTION_CONTROL",
+        "public_safe_path": null,
+        "own_adequate_custody": "Previously received bounded currentadmission control; no new whole checkpoint/source credit",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      },
+      {
+        "ref": "C07",
+        "original_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A10__ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+          "bytes": 6858,
+          "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+          "git_blob_sha1": "bcd927b29365cff78b8e28d733763a5a2b437c2c"
+        },
+        "bound_C_tuple": {
+          "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C07__A10__ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+          "bytes": 6858,
+          "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+          "git_blob_sha1": "bcd927b29365cff78b8e28d733763a5a2b437c2c"
+        },
+        "byte_equal": true,
+        "source_grade": "DATED_ROOT_ACCEPTED_PUBLICATION_CHAIN_CONTROL",
+        "public_safe_path": null,
+        "own_adequate_custody": "Personally complete b7a447, attributed ROOT execution; no fresh provider log credit",
+        "snapshot": "M/C05/C06 datedafb copy; Q currentc690 row plus olderoriginalquestion; A current ROOT allocation; C07 actualc690 chain",
+        "new_primary_raw_native_QA_AV_model_admission_identity_independence_credit": 0
+      }
+    ],
+    "own_actual_complete_source_receiving": {
+      "allocation": "82e7db complete11981-byte allocation throughEOF",
+      "empirical_normal": "9fc564 complete coherent214–228/current53–62/endpoint288",
+      "underlying_primary": "Attributednormalproduceronly; notfreshlyreceived",
+      "prior_MINI060": "Only166–177 scopedcustody, nowhole344/130 transfer",
+      "saved_body": "78f477 final1–80/e9f58c final81–162EOF untruncated"
+    },
+    "complete_received_source_spans": [
+      {
+        "normal_owner_line": 53,
+        "full_saved_text": "## Cycle008 current contextual adoption — 2026-10-09",
+        "text_sha256": "1abf5ae0c8a1b5e17359dadb9811980c4d00ed1a6dd63ad9b1a34c3efa217723",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 54,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 55,
+        "full_saved_text": "The complete contextual meaning is accepted WITH LIMITS under the Cycle008 checkpoint. All required supplemental objects assigned to this account by the six current class crosswalks are ADMITTED_WITH_LIMITS; the twelve MAIN contextual accounts and seven cumulative ledgers have been reconciled. The earlier producer account below retains its creation-stage intake, proposal and queue statements as history, superseded for current status by Cycle008. Attributed source-reading and ROOT argument-receiving credits remain distinct. All fourteen original gaps remain OPEN, performed voice remains unreceived, and model grades retain their assessed boundaries. Publication status is governed by the Cycle008 checkpoint's source audit, housekeeping and final exact-head audit record; merge approval remains RESERVED.",
+        "text_sha256": "2dc2766b6260ef086ba8d0d4a80410b2ddf967a79a97a5f02e7ec2fe5dc82e49",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 56,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 57,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 58,
+        "full_saved_text": "## Current integrator disposition",
+        "text_sha256": "85b07701e373b8d0eb6e788044bbed3d42b255fdc88bddb438d2f4e8ccdd17b2",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 59,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 60,
+        "full_saved_text": "ROOT adopts complete substantive meaning WITH LIMITS after whole argument1e62c0/1bd8b3/0f49ec/033225 through EOF.30 present primary and2 effective003V3 analytical reuses retain distinct attributed credit; the broader46 mini inventory is not claimed. The exact32 all remain eligible and required regardless of priority or stakes. Actual ordinary outcomes and refusals/costs/unprinted repair retain equal source precision. Source-local actor seams remain qualified; no raw repair or inspected audiovisual performance is invented.",
+        "text_sha256": "273f282e19c2cc36c5ae8b6f4642acfe9665653e2a40078c9c2574aa11e41503",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 61,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 62,
+        "full_saved_text": "Current whole selected private authority includes125 baseline2556 plus151 new required objects and Kei19, with exact owner reconciliation active. The producer’s earlier private limits below remain attributed, rather than renewed unreadness declarations. The substantial Sora/Akemi/Arata private-route inquiry is separately active because these mini sequences reveal them as principals. New source admission and all seven new cumulative effects remain pending; original14 gaps OPEN, no model/Phase3 promotion.",
+        "text_sha256": "c998d567e9e9835418f7166ca9bfb2abfb8a3a6e34c2d0ab5cb57b2035396a5e",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 214,
+        "full_saved_text": "13.70013010–70013050: rescued colleagues, an actually blooming weed and rejection of endless repayment",
+        "text_sha256": "62930a6ec7bd6bc04cc4416e23542b7de4a77ec220ec04a893d49e9f53199d4b",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 215,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 216,
+        "full_saved_text": "All five selected installments were received whole:84/122/100/153/111 metadata units and1/1/1/6/2 scenes, no choices. Scene and unit markers must be used together because numbering resets; empty location-only scenes in13040 are retained, not counted as missing dialogue. The restaurant present, Haruka's pre-membership retrospective and later afterstate form a coherent sequence rather than a single chronological incident. It is CORE for PS68 character, reciprocal company, coercion and ordinary aftermath; violence does not exhaust its literary value.",
+        "text_sha256": "e81777b65eb2be11f57f4e52489c602ff39e10dbe1c6b518ac95969d18820110",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 217,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 218,
+        "full_saved_text": "13010 sc1:u5–48 actually brings the four to a booked fine-dining restaurant. Aru wants to treat employees and reports steadier income/savings; the unexplained culinary terms, unfamiliar utensils and dress anxiety complicate accomplished-outlaw display. Kayoko does not know every utensil order, and Mutsuki tests rather than simply endorses Aru's competence. Haruka's pleasure and extreme dying-contentment language coexist with anxiety. Wealth does not prove taste: Aru's high-price-means-good assertion is a rival interpretation that the later enjoyment revises without validating every expensive item. Bruno Rigatoni recognizes them and claims payments let him act with impunity; that is his allegation, not a verified hotel bribery record. The narrator establishes a gunfight after Aru chooses to resist despite possible repair costs (u49–84), without printing fatalities.",
+        "text_sha256": "4ab7e391d46a269fe85e96c18b15be2a0301c17157f21cb2a0aebeb399a20af5",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 219,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 220,
+        "full_saved_text": "13020 opens before Haruka joined. Their cat-retrieval success and proposed ramen/toppings make small paid work and employee welfare valuable beneath Aru's evil rhetoric. Kayoko's account of people fleeing into inescapable positions is a reflective analogy, not a diagnosed biography for every victim (u1–29). Haruka actually tends the weed, cares about its growing leaves and wants to water it; the bullies demand money, trample it and threaten her. Aru intervenes with a shot according to the antagonist's complaint, and the group retreats (u36–68). Haruka contradicts the claim that she is now okay, refuses her name and warns against involvement; Kayoko advises not pursuing persuasion in her current state and Aru withdraws (u69–89). Mutsuki's weed nickname hurts, she apologizes, and Haruka's self-description shows that her own plant interest is not automatically healed by momentary protection (u91–100). Kayoko actually gathers information; her mafia-extortion explanation is a reported investigative result (u109–122), not independently observed every collection or a public legal verdict.",
+        "text_sha256": "81c1d6dde8d624cd17a2d2b9d55b6117eec1e59341a1020a3faf008a9b9ad24d",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 221,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 222,
+        "full_saved_text": "13030 returns to the restaurant. Haruka's lethal wishes, Mutsuki's explosive amusement, Kayoko's accounting of repair costs and Aru's winner-makes-history boast are not proof of deaths or moral immunity (u1–29). Rigatoni takes guests hostage. Aru inwardly fears both employees and hostages being hurt; Kayoko sends Mutsuki/Haruka via the kitchen lift while Aru actually lays down her weapon and demands their departure (u33–57). Escape is a tactic for rescue, not abandonment. Haruka nevertheless calls herself unworthy of living; Mutsuki explicitly calls for combined action (u58–64). The next passage is a retrospective: Aru reports punishing the mafia, Mutsuki describes humiliating photographs, Kayoko a pledge, and the bully actually apologizes. Promises not to return do not establish lifelong safety, and threats of public exposure remain coercive even in a protective plan (u65–90). Aru refuses payment; Haruka interprets rescue as reason to give her entire self, a burden of gratitude later challenged. Returning to the present, she commits to rescue the others (u92–100); that commitment is not yet the completed rescue.",
+        "text_sha256": "15b249bbf3811d7aaaa03021ba8b60c4b08d48eb7519cf239cce4da02bcda922",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 223,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 224,
+        "full_saved_text": "13040 preserves all six location envelopes. Mutsuki and Haruka change to disguises, learn the top-floor position, cause an entrance explosion and ascend. A gang member compares their feared power with Seven Prisoners Akemi (sc3:u17), a reported reputation—not proof that Sumire in070 knew that identity or had consented to criminal company. Aru's bluff about what employees will do if she is hurt coexists with her admitted fear and inward trust (sc4:u8–22). On the upper floor they actually reach Aru/Kayoko, face concealed mercenaries and endure reported full gunfire. Mutsuki coughs and thanks Haruka for shielding her; Haruka's weed self-description turns persistence into resistance but does not make injury universally negligible (sc6:u18–52). Rigatoni begs, Haruka asks Aru what to do, release is ordered in a Haruka-labelled line whose response context points toward Aru, and Aru says living with ruined reputation is punishment (u54–65). No killing is narrated. Kayoko says Haruka's weakness is fatigue, not a verified medical examination; Aru thanks her and explicitly says repayment is already sufficient (u70–81). Haruka says she likes the weed nickname, while Mutsuki worries about its earlier hurt. The narrator actually establishes Valkyrie's arrival and Rigatoni's arrest (u89–90). This endpoint supports rescue and arrest, not conviction, every hostage's clinical outcome, a repaired hotel or disappearance of all mafia.",
+        "text_sha256": "1ed492bcbf1efb3246973811dda68b3b827a9bc7ee4f3891d070c7ad4ba31731",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 225,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 226,
+        "full_saved_text": "13050 supplies a few-days-later invitation, not a global date. Kayoko believes the hotel's thanks sincere because of its reported trouble with Rigatoni; Aru still fears a damages trap and Haruka threatens violence if tricked (sc2:u3–17). No exact repair payment or legally waived liability is printed. The waiter actually offers a private special dinner; unfamiliar menu names still confuse them, and the narrator confirms they enjoy their most luxurious dinner so far, followed by Mutsuki's fullness and Haruka's happiness (u18–60). Enjoyment does not require acquired elite vocabulary. Their return to the alley is agreed despite Haruka's hesitation, without proof of a completed trauma cure. The weed is actually alive and flowering; Aru attributes its stored nourishment to Haruka's earlier daily care, a reasoned character explanation rather than a botanical experiment (u72–94). Taking it to the office and tending it together is proposed and welcomed, not separately narrated transplant completion (u95–100). Haruka renews gratitude unto death; the response repeats that repayment is finished, Mutsuki asks her to stop saying death, and Kayoko makes the whole group constitutive of PS68 (u101–107). The narrator continues their ordinary days, without guaranteeing enduring safety or transformed self-esteem.",
+        "text_sha256": "5b498929abcf7a01ec3a5f006e01839f63b92543afc2d2a1ab9659e9e1b47974",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 227,
+        "full_saved_text": "",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 228,
+        "full_saved_text": "Source-mode limits include Unknown source form at13020:u36, Aru/Kayoko/Mutsuki response shifts at13010:u9/12/14/18/29/30/44/51; mixed labels around13020:u7/17/22/26/28/69/91/101/106; Kayoko's Mutsuki-like question13030:u45 and Haruka's Mutsuki-like instructionu52; gang-labelled thanks and mixed Aru/Kayoko/Haruka address in13040; Haruka-labelled Aru-like repayment reply13050:u104. The explicit narrative action and named relations support the account, but fine speaker attribution remains qualified. The weed motif joins wanted gardening to mutual support; it must not reduce Haruka's individuality to useful toughness or equate friendship with unlimited sacrificial availability. This mini sequence extends accepted PS68/Abydos MAIN_V001 and Trinity/Arius MAIN_V003/V006 contextual interpretations at thematic ordinary/aftermath scope, without importing their underlying primary again or proving an absolute order between the arcs.",
+        "text_sha256": "378eb7f8566b97316f19bb6284ad6319b87b3427cf7cfa266c207f44133b1287",
+        "actual_receiving": "9fc564"
+      },
+      {
+        "normal_owner_line": 288,
+        "full_saved_text": "Ordinary positive endings require precision. Sora actually likes gloves while retaining suspicion of adults. Mine gains confidence in cookies while her reputation is not globally repaired. PS68 actually rescues colleagues, Rigatoni is arrested, and the four enjoy dinner; the plant actually blooms, but its office transplant is only proposed. Ibuki forgives a widened pudding promise and leaves after wanted play; Makoto's lasting compliance is unknown. The birthday party actually ends successfully, with Sensei's later pain constraining a fantasy of adult exemption. These quiet and contrary afterstates change character reconstruction. They do not merely provide decoration before a major public plot.",
+        "text_sha256": "4e3e292c3530aacb18d3a36b310623bf52e34148714701cd3a3c3b26e703afde",
+        "actual_receiving": "9fc564"
+      }
+    ],
+    "complete_saved_paragraph_projections": [
+      {
+        "id": "RG001",
+        "saved_line": 14,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG001] This source-scoped monograph receives the complete accepted MINI13010–13050 argument in the current MINI32 normal owner, its current adoption clauses and its precise ending qualification. Its named subject is the source-local リガトーニ, called Bruno Rigatoni in that argument. The five-part account includes a restaurant encounter, Haruka's pre-membership retrospective and a later invitation; it provides a bounded character question rather than a whole-life biography. The existing required home was already positively allocated. This saved argument has no ROOT acceptance, model, primary, performance or milestone credit by its creation. [M:53–62,214–228,288; A]",
+        "saved_text_sha256": "42f9098bd0bb808971fdf6a6a282e1c6ecc49d1cb94b5b67a664089d334f01a9",
+        "source_refs": [
+          "M",
+          "A"
+        ],
+        "exact_normal_owner_lines": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG002",
+        "saved_line": 18,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG002] Rigatoni tries to make other people's options depend on his asserted immunity. His recognition of PS68, claim that payments let him act with impunity and subsequent hostage-taking move the encounter from an opponent's boast into control over people who have their own fears and obligations. His later begging exposes how strongly that position depends on the distribution of force. The sequence ends with narrated arrest. It gives a connected account of claims, coercive choice and an answering afterstate while leaving his inner remorse, wider life and legal disposition unprinted. [M:218,222,224]",
+        "saved_text_sha256": "f5aa633048bde89580a6bb75c9780dd4c07e13d5a41d440ae4cebd50298f564e",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG003",
+        "saved_line": 20,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG003] The most revealing change is in his addressed conduct. A speaker who asserts protection eventually asks for relief. Begging can be a practical attempt to escape consequences, an expression of fear or both; the normal account does not settle his private motive. This change is sufficient to distinguish his response from an interchangeable defeated obstacle. It supplies no fixed ladder from villainy through humiliation to reform. His character remains legible through what he seeks to control, what others refuse to yield and what he requests once that control fails. [M:218,224]",
+        "saved_text_sha256": "587b1dad67ac86d01c33e10f321993d1ee5721dc654e74846fe4dd26f6b6f7ec",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG004",
+        "saved_line": 22,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG004] Answering him carries costs and constraints. Aru fears damage to employees and hostages, lays down her weapon and arranges a tactical escape. Mutsuki and Haruka reach their colleagues and endure full gunfire; shielding, coughing and fatigue remain in the account. Aru's language about living with ruined reputation belongs to her punitive judgment. Narrated nonkilling and arrest give concrete limits to the intervention, while conviction, every hostage's clinical outcome and the hotel's repaired property remain unprinted. These distinctions prevent a victorious ending from absorbing all the people affected by it. [M:222,224,226]",
+        "saved_text_sha256": "4221772475077b70e650a326bce69a9aaf6d5838eb784165aad041c24ffa9aba",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG005",
+        "saved_line": 24,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG005] The restaurant and later dinner make the opponent's interference matter in an ordinary register as well. Aru wants to treat her employees; the four negotiate unfamiliar utensils, clothing anxiety, pleasure and expense. They later enjoy a special dinner, and Haruka's plant flowers. Those achievements retain their own value after Rigatoni's arrest. They belong to the actual enjoying people. The source does not establish Rigatoni's cuisine preferences, gardening interest or a secret wish for their company. His represented aims concern asserted freedom of action and later relief from opposed force. [M:218,224,226,288]",
+        "saved_text_sha256": "e08c054b06b1092b8809d2c96b0f0d3e3c1e02b0697ad21fdbc68f8a87d8fc8b",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224,
+          226,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG006",
+        "saved_line": 28,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG006] MINI130's order requires three temporal frames. The present restaurant brings PS68 to a booked meal and confronts them with Rigatoni. The next installment opens before Haruka joined; a later installment returns to that retrospective before resuming rescue plans in the present. MINI13050 explicitly supplies a few-days-later invitation. This local sequence can connect decisions and consequences. It cannot establish an absolute calendar for the MAIN arcs or date every mafia action by adjacency. The retrospective's bullies must retain their own identities; the account does not identify a bully who tramples the weed as Rigatoni. [M:216,218,220,222,226,228]",
+        "saved_text_sha256": "b7f1c7770c5c99d55c02ddc4fd085666022637d73ce9a86d134429e562bab2f9",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          218,
+          220,
+          222,
+          226,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG007",
+        "saved_line": 30,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG007] The first present encounter begins within a wanted outing. Aru's steadier-income and savings report supports her wish to pay for employees' enjoyment, and unfamiliar fine-dining practices complicate her accomplished-outlaw image. Rigatoni recognizes the four and asserts payment-protected impunity. The narrator establishes a gunfight after Aru chooses resistance despite possible repair costs. His claim and the narrated fight have different evidence grades: the account certifies the represented confrontation, while the alleged protection arrangement receives no independently shown record. Fatalities are not printed at this endpoint. [M:218]",
+        "saved_text_sha256": "813c016951019022777b37f0e70aa4012c0885b8ae3dafa38d3ff823e279c88a",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG008",
+        "saved_line": 32,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG008] The earlier Haruka episode explains one source of the group's determination without manufacturing a Rigatoni biography. Small paid cat-retrieval work, proposed ramen and toppings, and Haruka's daily plant care are worthwhile pursuits. The bullies demand money, trample the weed and threaten her. Aru's intervention and the group's retreat do not make Haruka feel safe or willing to give her name. Kayoko respects the need to withdraw persuasion; Mutsuki apologizes after her nickname hurts. Kayoko's mafia-extortion explanation is an investigative report. The thematic connection to present exaction warrants comparison, with the perpetrators and certification levels kept distinct. [M:220]",
+        "saved_text_sha256": "ef8407fb377e86392949857cb00151ee76f21718081fad1a6d3dd8feca795be5",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          220
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG009",
+        "saved_line": 34,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG009] Rigatoni's hostage demand changes the present encounter's choices. Aru inwardly fears harm to both employees and hostages. Kayoko sends Mutsuki and Haruka by the kitchen lift; Aru actually lays down her weapon and demands their departure. The escape is organized for rescue, while Haruka's pledge to return remains a commitment at this stage. The same installment contains reports of earlier punishment, humiliating photographs and a pledge, an actual bully apology and Aru's refusal of payment. Those earlier acts establish a protective and coercive repertoire; they do not prove that the present Rigatoni is the photographed bully or that every prior promise has been kept forever. [M:222]",
+        "saved_text_sha256": "e13ab4ef2723e7354fd5a9fc29fc9202efeef7932938bc7eb2fc5e74a63a7c7f",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG010",
+        "saved_line": 36,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG010] The rescue becomes achieved in MINI13040. Disguises, information about the top floor and the entrance explosion precede the actual reunion with Aru and Kayoko. Concealed mercenaries and full gunfire make success laborious. Mutsuki's cough and thanks for shielding, Haruka's continued resistance and later fatigue retain each participant's experience. Rigatoni begs; a release order appears under a Haruka label with response context pointing toward Aru. The argument preserves that seam rather than silently correcting the speaker. Aru articulates punishment through living with ruined reputation, no killing is narrated, and Valkyrie's arrival and Rigatoni's arrest are narrated achievements. [M:224,228]",
+        "saved_text_sha256": "ddd073f33946d85f9754a26512dfe9d4f5672a69331de64eb1b50b92be1ee03c",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          224,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG011",
+        "saved_line": 38,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG011] The later invitation supplies the account's afterstate. Kayoko believes the hotel's thanks sincere on the basis of its reported trouble with Rigatoni. Aru fears a damages trap; Haruka threatens violence if tricked. The waiter actually offers a private special dinner, and the four enjoy it without acquiring complete elite menu vocabulary. Rigatoni's arrest has relieved one encounter, yet the source supplies no conviction, payment receipt, waived liability or lifelong removal of mafia pressure. The later ordinary days and flowering plant are positively achieved at their own scale; the proposed office transplant and permanent psychological recovery remain separate unfinished possibilities. [M:226,288]",
+        "saved_text_sha256": "59bf33037ff7f2bf0d844486b06636cae1ec39f2001c891122140b0f49db4805",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          226,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG012",
+        "saved_line": 42,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG012] The available portrait is externally addressed. Recognition, protected-payment assertion, hostage-taking and begging are represented in a public conflict; wider private thinking is absent from this received account. Aru's inward fear and trust belong to Aru, and Haruka's unworthiness language belongs to Haruka. Their thoughts cannot serve as Rigatoni's confession. An interpretation of his arrogance or fear must remain an inference from his assertions, choices and requests, with strategic and emotional explanations both available. [M:218,222,224]",
+        "saved_text_sha256": "46d35e6b1448c1b3fbcb40710a8aed88d5cec499c58fd4e2efc95a079dd20d35",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG013",
+        "saved_line": 44,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG013] His authority claim tries to govern others' expectations before the source proves its institutional basis. Saying that payments permit impunity may be sincere belief, intimidation or a mixture. The account does not independently certify payer, recipient, contractual instrument or corrupt office. Actual arrest places a limit on his asserted claim within this encounter, but cannot retrospectively prove that no such arrangement ever existed. The sustainable conclusion is narrower: the claimed immunity fails to prevent the narrated intervention and arrest. [M:218,224]",
+        "saved_text_sha256": "d72b631e89820bfc9bbb2fb0911cc39ae25cd92e4540fd95adf2259f9a295d36",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG014",
+        "saved_line": 46,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG014] Begging presents an addressed wish for relief once opposed force reaches him. It deserves literal attention even in an antagonist: his request is part of his agency and the other's decision about what follows. The source does not print enough inner testimony to decide that it expresses moral recognition, permanent humility or only a calculated ploy. His expressed vulnerability and the coercive conduct that precedes it coexist. Neither supplies a complete private personality. [M:222,224]",
+        "saved_text_sha256": "925bc4da971c80bf43bf5f826c54927ec6721887638d24fff82407c4d225498a",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG015",
+        "saved_line": 48,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG015] The ordinary end also puts a boundary around claims made about him. Kayoko's account of the hotel's prior trouble is reported support for sincere thanks. It does not give Rigatoni a newly inspected hotel relationship, property title or hidden domestic history. The later four-person enjoyment supplies an actual local ending after his narrated arrest. It supports no general claim about his continued confinement, employment, taste or future ability to interfere. [M:226]",
+        "saved_text_sha256": "7083f9a74d20aecfd2350b9b434dc71d7aa06c1cbc8e027c7f9dd6e69e5d25e6",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG016",
+        "saved_line": 52,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG016] Rigatoni is treated here as a named source-local adversarial actor. The accepted question allocates his exaction aims and recipient response as a character responsibility without forcing a student, school, club or typed-family identity. His name, the retrospective mafia report, a gang member's speech and the concealed mercenaries do not authorize a universal join of those actors into one person or certified organizational chart. The monograph can explain the local power relation at the strength given by the current argument. [Q; M:218,220,224]",
+        "saved_text_sha256": "87e6e4478b588580dc7656f72b45078ffc9aa3969715c58572e18ecb8e42cc9c",
+        "source_refs": [
+          "M",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          220,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG017",
+        "saved_line": 54,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG017] His position is enacted through recognition, asserted impunity and hostage control. These acts show a local attempt to command the encounter. Formal ownership of the hotel, a legal collection right and membership status for every armed participant remain unprinted. The gang member's comparison of the rescuers' power with Seven Prisoners Akemi is a reputation report made by that speaker; it establishes no independently measured power scale or identity continuity with every other Akemi route. [M:218,222,224]",
+        "saved_text_sha256": "11e73b1beb55bfb0c472b8b9a47786653c720ebb47eaf7829cfa472f4b4bb65e",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG018",
+        "saved_line": 56,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG018] Roles around him also constrain the interpretation. Guests become hostages in the named demand; the rescuers are colleagues with both practical competence and real fear. The waiter later makes an actual offer, while Kayoko reports a reason for the hotel's gratitude. Valkyrie arrives and arrests Rigatoni. These are distinct capacities and recipients. The restaurant's hospitality, a police intervention and Aru's punitive reasoning cannot be collapsed into a single certified office that settles every liability. [M:222,224,226]",
+        "saved_text_sha256": "d2accdb5aa43897722049995b2b2fdc9d33bbc92305eba11090fdefee99da45f",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG019",
+        "saved_line": 58,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG019] Role difference matters for scope completeness. A named antagonist with sparse private evidence can receive a mature bounded literary argument when his choices, addressed consequences and actual ending form a connected question. The existing allocation already requires that work. No promotion from three header routes or moral judgment supplies completion; the claim depends on the whole coherent argument, the contrary cases and the explicit limits below. The school/club dimension therefore addresses actual local position without manufacturing enrollment. [A; Q; M:216–228]",
+        "saved_text_sha256": "210251ea3724e179139739099f1b411b3274189434da2aad39fd59a7e314463b",
+        "source_refs": [
+          "M",
+          "A",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG020",
+        "saved_line": 62,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG020] Rigatoni's claimed freedom to act and later begging identify represented wants at a narrow scale. The payment assertion concerns the conditions under which he expects to operate; the request for relief concerns consequences he seeks to avoid. These ends warrant analysis even though they do not resemble an affectionate bond or a quiet hobby. The source does not permit a claim that he privately enjoys collecting money, fine dining or coercion as a leisure pursuit. It supplies externally expressed aims and action, with pleasure and inward satisfaction left uncertain. [M:218,224]",
+        "saved_text_sha256": "fb0a704471e8e4a01ed4a03a3add7a8d595614669eb5b4fa6eb00a58a142256e",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG021",
+        "saved_line": 64,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG021] The four's ordinary outing makes the space he disrupts independently legible. Aru wants to treat employees with steadier earnings, Kayoko's utensil knowledge has limits, Mutsuki questions the display of competence, and Haruka combines pleasure with anxiety. The source revises a simple high-price-means-good interpretation through actual later enjoyment. Restaurant luxury is an object of their awkward and eventual pleasure, rather than proof that each has identical taste or that Rigatoni shares it. Their wants are part of the character context because they are people whose day his actions alter. [M:218,226]",
+        "saved_text_sha256": "8b95ec8417f421686e97b6b919bc4a8592f8c6c15a7b037e78916074936e89c3",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG022",
+        "saved_line": 66,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG022] Haruka's plant also remains an ordinary interest in its own right. She wants to care for growing leaves; the bullies threaten and trample the plant. Later it flowers, and Aru attributes its nourishment to Haruka's previous daily care. That explanation belongs to Aru, rather than a botanical experiment. The source links persistent gardening and reciprocal company while retaining hurt, reluctance to revisit the alley and the proposed transplant's unperformed status. No need for crisis usefulness replaces the plant's value as something Haruka wants to tend. Rigatoni is not identified as its earlier trampler. [M:220,226,228]",
+        "saved_text_sha256": "037e9dd6af934b6f1faf01a833805d0d07c77774f337311515ec395f38dc16b3",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          220,
+          226,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG023",
+        "saved_line": 68,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG023] The ending's dinner and garden separate achieved pleasure from completed repair. The waiter offers, the narrator confirms enjoyment, Mutsuki feels full and Haruka expresses happiness. The plant actually lives and flowers. Taking it to the office and caring together is welcomed as a proposal; it has no separately narrated completion. Aru's fears of damages, Haruka's conditional violence and renewed gratitude unto death remain contrary tails. Rigatoni's arrest makes room for one later meal, while permanent safety, restored self-esteem and settled liability have no printed certification. [M:226,288]",
+        "saved_text_sha256": "22b9e6a267e1f3701df4962d8f6efc6fdf8b031cd17a0e09f532c3c5ccb545f0",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          226,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG024",
+        "saved_line": 70,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG024] Sparse ordinary evidence for the named antagonist is an honest character boundary. It does not discard low-stakes sources or treat an antagonist as ineligible. The received sequence gives generous space to food, paid work, staff welfare, company and gardening for their actual recipients. Rigatoni's represented place within it can be synthesized without appropriating those interests or inventing a private repertoire. The resulting account is complete for the allocated source-local question and open to a later expanded life only if relevant admitted evidence supplies it. [A; Q; M:216–228,288]",
+        "saved_text_sha256": "6d4d712f17b9ccde801d0ef61366d43c3e6a84726123ac94e425ddf0c505baf3",
+        "source_refs": [
+          "M",
+          "A",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG025",
+        "saved_line": 74,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG025] Hostage-taking is Rigatoni's consequential choice in the present encounter. It puts guests and Aru's colleagues into a field of risk that the normal account makes explicit through Aru's inward fear and her actual surrender of the weapon. The hostage demand makes force a means of restricting others' choices. Her decision to let two colleagues escape is made under that constraint and oriented toward rescue. It should retain both the people exposed to injury and the agency of those trying to answer the demand. [M:222]",
+        "saved_text_sha256": "e08a3ec6bd381a7d8b5a554af3fac3d4512ee3aff8523841155c002356652abe",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG026",
+        "saved_line": 76,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG026] The answering force is substantial. The rescuers use disguises, gather location information and cause an entrance explosion, then reach colleagues while confronting concealed mercenaries and full gunfire. Haruka shields Mutsuki, who coughs and thanks her; later weakness is described by Kayoko as fatigue. That account preserves bodily cost without claiming a medical examination, every injury status or a uniformly negligible vulnerability. Aru's bluff about what employees would do if she were hurt also coexists with her admitted fear and trust. Competence emerges through risky cooperation, rather than an absence of fear. [M:224]",
+        "saved_text_sha256": "085197e25cb05c749b641c9ad26b588eba7f8677c1eaab4a0faa2b495d02de53",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG027",
+        "saved_line": 78,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG027] Reversed pressure changes Rigatoni's conduct. His begging is an actual request in the accepted account, and Haruka's question about what to do keeps the following decision addressed. The release line's label and context cannot be merged into an unqualified speaker fact. Aru's stated punishment is that the opponent live with ruined reputation; no killing is narrated. This permits an analysis of a bounded nonlethal endpoint alongside coercive reputational judgment. It does not verify that photographs of this named Rigatoni were published, that all reputational effects occurred, or that the earlier bully and this present opponent are the same person. [M:222,224,228]",
+        "saved_text_sha256": "e2a686f73c38f3a0ee33a337403b9c004ca23063f74c5a8194d38570c6bb9e5f",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG028",
+        "saved_line": 80,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG028] Arrest is achieved independently of those unresolved speaker and reputation details. The narrator establishes Valkyrie's arrival and Rigatoni's arrest. Its scope is an intervention and custody event at the sequence's end. Conviction, duration of detention, clinical outcomes for every hostage, exact repair payment and the disappearance of all mafia remain unprinted. Keeping those limits does not diminish the positive rescue; it preserves what that relief actually accomplishes for named colleagues and what future accountability would still need to show. [M:224,226,288]",
+        "saved_text_sha256": "5017e344ad0ff12062e6ba7e60b4ac8ed1603c5a16f022f72233749e4c4d5ff4",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          224,
+          226,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG029",
+        "saved_line": 82,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG029] The earlier protection of Haruka offers a serious comparison rather than a clean moral warrant for every PS68 method. Her refusal to give her name and request to avoid involvement continue after the bullies retreat. Mutsuki hurts her with a nickname and apologizes. Reports of mafia punishment, humiliating photographs and a pledge coexist with an actual bully apology and threats of public exposure. Those acts support practical protection while retaining unequal force, reputation pressure and incomplete safety. They remain attached to their own earlier recipients. The present Rigatoni episode can be assessed without either excusing hostage-taking or assuming that all retaliation is harmless. [M:220,222,224]",
+        "saved_text_sha256": "743fef25953640735ee21b8390ea1e113d8e0c21b003b3b896a012e9afb70f1c",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          220,
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG030",
+        "saved_line": 86,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG030] The received MINI130 argument prints no direct Rigatoni–Sensei exchange or inward teacher bond. This is a bounded statement about the complete five-part normal argument, rather than an absence claim across Blue Archive. It prevents the monograph from importing an intimate dyad from a student's bond repertoire, an ordinary birthday story or another PS68 arc. The existing character home remains justified by his own choices and answered recipients at this scope. [M:216–228; A]",
+        "saved_text_sha256": "2a7a30182bca0334ebdca5c117d7faffeaa5746fa4ac59d392de46e176be5a60",
+        "source_refs": [
+          "M",
+          "A"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG031",
+        "saved_line": 88,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG031] The relevant intervention has independently named actors. Aru gives up her weapon and worries about hostages; Kayoko organizes the escape; Mutsuki and Haruka cooperate in reaching colleagues; Valkyrie arrives and arrests the opponent. Their choices can be read at their own strength without routing agency through an unprinted teacher instruction. A later comparison with Sensei could be added only on adequate received evidence, with its own chronology and mode limits. This saved package supplies no such new comparison or completion of a separate relationship home. [M:222,224]",
+        "saved_text_sha256": "5e7777c6c6c47958705fc0c43295814cb5af169d46f5637021f8a595da52b4cc",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG032",
+        "saved_line": 92,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG032] Rigatoni's directed relation to PS68 begins with recognition and the claim of practical impunity, then becomes hostage control and finally a request for relief. PS68's answering directions differ. Aru resists the first confrontation and later balances feared harm, disarmament, rescue and punishment; Kayoko plans and gathers information; Mutsuki and Haruka execute the rescue with shielding and fatigue. Their reception is consequential because it changes which options his demand can enforce. Their differences must remain legible even when the collective succeeds. [M:218,220,222,224]",
+        "saved_text_sha256": "f20bccdd7f6ecfbbfef2bba2203b7e56516d29de6fe3bcafcadb3a2f9266b9f6",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          220,
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG033",
+        "saved_line": 94,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG033] The guests' position is defined by being taken hostage, and Aru's inward fear makes their exposure a real concern. The accepted account does not print every guest's independent testimony, departure or clinical afterstate. Their lack of individual speech cannot erase that directed harm, and it cannot authorize a uniform account of relief or assent. The represented rescue of colleagues and narrated arrest establish specific outcomes, with all-hostage outcomes still bounded. [M:222,224]",
+        "saved_text_sha256": "42f92b173361c258870ec0c2a6b963ee781ed5590e8597798d17a3ed5efb143a",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG034",
+        "saved_line": 96,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG034] Gang and mercenary roles require similar restraint. A gang member reports a feared reputation, and concealed mercenaries oppose the rescuers in the upper-floor encounter. The account does not certify each employment contract, command order, payment or identity. Their actual role in the confrontation can be retained without turning all generic actors into Rigatoni's personal subordinates or joining them to the earlier bullies. The named character's responsibility for taking hostages remains clear without an invented global organization. [M:220,224]",
+        "saved_text_sha256": "885c5d8db719102e690d478d08aa6bc7a2a2025e6fd25a45a49c9368c0c548a0",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          220,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG035",
+        "saved_line": 98,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG035] The hotel's relation is partly mediated and partly enacted. Kayoko reports prior trouble with Rigatoni as a reason to believe its thanks sincere; Aru worries about a damages trap and Haruka voices a conditional threat. The waiter actually offers a private special dinner, and enjoyment is narrated. The offer and reception support a hospitality endpoint while allowing uncertainty about property liability, exact damages and legal waiver. Rigatoni's arrest is followed by that local reopening of pleasure, with the staff's complete governance and the opponent's longer hotel history unprinted. [M:226]",
+        "saved_text_sha256": "3ab530bb15e855d17053259bb22bd26d7da48f4ddfee1b487d1860f824df7df0",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG036",
+        "saved_line": 100,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG036] Haruka's gratitude provides an independent answering problem inside the group. In the earlier retrospective she interprets rescue as a reason to give her whole self; later Aru says repayment is sufficient, Mutsuki asks her to stop saying death, and Kayoko makes the whole group constitutive of PS68. These replies contest endless availability as a condition of belonging. That development matters to the people whom Rigatoni holds or opposes, without completing the separately required Haruka-directed parent or the PS68 institution. The monograph uses it as contextual evidence about actual recipients and the limited ends of rescue. [M:222,224,226,228]",
+        "saved_text_sha256": "8b3f93f53335e3d0ed37804e40d54cdedb03750590308d0d88c82070b6d0d352",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224,
+          226,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG037",
+        "saved_line": 104,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG037] The literal Japanese header リガトーニ fixes the source-local retrieval boundary; the current accepted account provides the Bruno Rigatoni naming. The received material for this monograph is the analytical normal argument, so assertions about protected payments, begging and reputational punishment are represented meanings at that grade. It supplies no fresh Japanese original-utterance inspection, performed accent, vocal intensity or timing. English analytical vocabulary is not silently treated as a newly measured Japanese lexicon. [Q; M:218,224]",
+        "saved_text_sha256": "44003d4c39da2fcce31666ad9e60c1a491e1c7e0924b8c01c27a4875cf1f5f7e",
+        "source_refs": [
+          "M",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG038",
+        "saved_line": 106,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG038] The movement from an immunity assertion to begging is still analytically meaningful. Each utterance acts on an addressed listener: the first presents a reason to expect resistance to fail, and the later request seeks a decision once the distribution of force has changed. The difference concerns the represented speech acts and their answered situation. An audio performance could sharpen delivery, but no tone of voice or actor's intended emotion is inferred from the written account here. [M:218,224]",
+        "saved_text_sha256": "99243320db4050d8d63d895c14d841103e8299d289423fa4a824e4eb7f7048c5",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG039",
+        "saved_line": 108,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG039] The surrounding outlaw vocabulary is unstable in useful ways. Aru's winner-makes-history boast, Haruka's lethal wishes and Mutsuki's explosive amusement do not establish printed deaths or moral immunity. The account gives Aru inward fear alongside the bluff, and it later gives practical thanks, sufficient repayment and ordinary dinner. These verbal differences allow a comic and adversarial register to coexist with costs and unwanted burdens. They also caution against assigning every threatening phrase in the sequence to Rigatoni. [M:222,224,226]",
+        "saved_text_sha256": "c0ee1b17fffc2a7d82d4113058a45cb188c89751ee22d2e9b714210767796952",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          224,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG040",
+        "saved_line": 110,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG040] Source labels impose specific limits. The normal owner records an Unknown form in the retrospective, mixed Aru/Kayoko/Mutsuki/Haruka address, the Haruka-labelled release order whose response context points toward Aru, gang-labelled thanks and a later Haruka-labelled repayment reply with Aru-like context. Scene and unit numbers reset. The synthesis retains the accepted narrative action and explicit named relations while qualifying fine speaker attribution. It performs no raw actor rekey, identity normalization or proof that an ambiguous line was spoken by the intuitive speaker. [M:216,224,228]",
+        "saved_text_sha256": "ff5ddddd4586b19393984c367ad4265764b2eae48984a67e68c294a6db6532a6",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          224,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG041",
+        "saved_line": 114,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG041] A fixed-villain reading has substantial support in hostage-taking and the asserted ability to act without restraint. A contingent-authority reading gains support when the same named opponent begs after force reverses and is arrested. Neither rival cancels the other: coercive conduct can be real while authority depends on a particular encounter's circumstances. The account supports changed addressed conduct, not an inspected lifelong disposition or completed moral reform. The monograph's thesis therefore rests on the relation among assertions, actions and answers. [M:218,222,224]",
+        "saved_text_sha256": "399f33311f2056584bdec6870e3b1f4eecad42f443bb294e11fa4864d79f7470",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          222,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG042",
+        "saved_line": 116,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG042] A comic-reversal reading can explain disguises, outlaw bravado, fine-dining confusion and the opponent's collapse. A cost-bearing reading remains necessary because the account preserves hostages, Aru's fear, gunfire, shielding, coughing, fatigue and repair worries. The comedy does not provide a clinical or legal immunity rule. The source allows a successful rescue to be satisfying while retaining the uncertainty of all injuries and liability. Attention to ordinary pleasures keeps the meal worthwhile without dissolving the violence around it. [M:218,222,224,226]",
+        "saved_text_sha256": "6e80cf88a33598c158b57710bdaf213f01fec56cb6af1f980af7458a9de80b78",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          222,
+          224,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG043",
+        "saved_line": 118,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG043] A real-protection reading of Rigatoni's payment claim would explain his confidence; an intimidation reading would explain the same assertion as an attempt to govern expectations. The account supplies his allegation and actual arrest, with no verified payer, receipt or official protection. Arrest establishes that the narrated intervention occurred despite the asserted position. It leaves wider corruption neither proved nor universally disproved. Any stronger conclusion would outrun the received argument's testimony grade. [M:218,224]",
+        "saved_text_sha256": "706044825c89da921e422783720b6ddfea42ee66487e24097e5d19c8a40325c0",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG044",
+        "saved_line": 120,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG044] A completed-justice reading rightly emphasizes reached colleagues, narrated rescue, nonkilling and arrest. A bounded-intervention reading points to the unprinted conviction, every hostage's clinical result, hotel repair, exact compensation and permanent safety. Both identify real features, but the stronger comprehensive claim lacks its required ends. The later meal and flowering plant add achieved good without acting as legal closure. The sustainable endpoint is specific relief and a return to some wanted activities, alongside unfinished accountability. [M:224,226,288]",
+        "saved_text_sha256": "522e6661fda7a0034d0c4fc9391e97e582284f90b1f8417f708f4f4d3a62f17a",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          224,
+          226,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG045",
+        "saved_line": 122,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG045] A solidarity reading finds practical support in coordinated rescue, refused payment and replies that gratitude need not consume Haruka's life. A method-sensitive reading retains earlier threats, humiliating-photo reports, reputational punishment, nickname hurt and incomplete safety. These contrary details belong to their exact actors and contexts; they do not make the bully, Rigatoni and PS68 interchangeable. They allow protection to be real while its means and recipients' responses remain answerable. The opponent's hostage-taking and the defenders' different costs can both be examined without blanket absolution. [M:220,222,224,226]",
+        "saved_text_sha256": "24869cc94d55e19d9f27a721f61cbebd844df065aeccb3e85d705bc64574009a",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          220,
+          222,
+          224,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG046",
+        "saved_line": 124,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG046] A plot-role reading might regard the sparse antagonist as a convenient obstacle. The existing named responsibility requires more precise attention to his represented exaction aims, addressed reversal and arrest. That responsibility can be complete within one coherent source-local sequence while leaving wider biography and private leisure unknown. It needs no proof of popularity, crisis magnitude or model grade. The absence of a conventional bond pool therefore bounds the portrait rather than removing his agency from the cast. [Q; A; M:216–228]",
+        "saved_text_sha256": "2884883247c4232ea43fc4fdf46b3af45e597dcf952d89b790797635271c2958",
+        "source_refs": [
+          "M",
+          "A",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG047",
+        "saved_line": 128,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG047] M identifies the exact accepted normal owner, [MINI32 contextualization checkpoint](../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md), 93,829 bytes, SHA256 `03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f`, actual-byte blob `512a08b30bfa91dee27087fd743809dc8aa30b98`. This author personally received its complete coherent MINI130 argument at lines214–228, current adoption at53–62 and positive ending qualification288 in9fc564. Prior own MINI060166–177 reception supplies no whole130 or whole344 credit. The normal owner's underlying primary receiving and ROOT/sibling whole-argument receiving remain attributed. No original Japanese canonical text, audiovisual performance or raw file was freshly received for this package. [M:53–62,214–228,288]",
+        "saved_text_sha256": "75ead98a29671034ab0cb314a370d233c11e3722333148c4e3e8c3ed41483930",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG048",
+        "saved_line": 130,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG048] Q identifies the preserved original adopted Rigatoni question and positive partition home: named header routes70013010/30/40 remain separate from contextual13020/50. A identifies ROOT's complete positive allocation, personally received through EOF in82e7db. Their metadata cannot supply empirical narrative credit. The current c690 status controls, dated afb normal/admission/architecture copies and underlying a038 selected-source generation keep distinct tuples and capture histories. The written selected32 MINI admission within Cycle008 remains unchanged; this synthesis admits no broader46 inventory. Its finite companion binds saved paragraphs, actual normal locators, endings, rivals and the exact fourteen questions below. [A; Q; M:53–62]",
+        "saved_text_sha256": "da3d434f27de5fc8c80e075eff7ce12c44b89f83eb3b1699ef54b4bcff1d6a96",
+        "source_refs": [
+          "M",
+          "A",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG049",
+        "saved_line": 132,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG049] The following fourteen stable questions all remain OPEN. Their scope is not replaced by Rigatoni-specific topic numbers. A character monograph can be complete at its allocated literary boundary while these wider research debts remain active; saving or later adopting it would supply no reconstruction model, prediction, performed voice, primary rereading or independent-review credit. ROOT must receive the whole body and companions before any canonical acceptance or completion claim. [A; M:55,60]",
+        "saved_text_sha256": "a9dc07e744b6410e0e12e6a1944cd41a0520b92e4fbb60923cc86430959c68ef",
+        "source_refs": [
+          "M",
+          "A"
+        ],
+        "exact_normal_owner_lines": [
+          55,
+          60
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG050",
+        "saved_line": 134,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG050] **G01 Ordinary and private breadth — OPEN.** The represented antagonist's aims and requests are retained despite a sparse verified private repertoire. No inward confession, hobby or universal absence of other private stories is invented. Actual gardening, dinner, paid work and company remain with their own recipients. [M:218–226]",
+        "saved_text_sha256": "13fec505c531bc7f11dbd409d30649f2c50a113661fa93081959d9cbb22aa2f2",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG051",
+        "saved_line": 136,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG051] **G02 Yuuka council/club decision transfer — OPEN.** This sequence establishes no Yuuka fiscal or council decision concerning Rigatoni. Neither PS68's dinner costs nor the payment assertion can complete that separate transfer question. [M:218,222,226]",
+        "saved_text_sha256": "18c9d4a1eb4c51739c4355dc263f7aac55b562d17e855918376ea7e77f790de7",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          222,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG052",
+        "saved_line": 138,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG052] **G03 Serika service, peer and reciprocity range — OPEN.** The waiter's hospitality, restaurant workers and colleagues in this account remain source-local roles. No Serika join or service-range closure follows from their labor or offered dinner. [M:226]",
+        "saved_text_sha256": "034bc44b5c50521a2bb4dc6c42de837cbc0d2c301dd54e24b328bf05abdb1f43",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG053",
+        "saved_line": 140,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG053] **G04 Hina crisis causality, accountability and ordinary contrast — OPEN.** Rigatoni's arrest and PS68's particular intervention certify no Hina causal or institutional result. Their thematic contrast supplies no imported Prefect mechanism or blanket safety judgment. [M:224,228]",
+        "saved_text_sha256": "74756df5e973ed3ab06c3db4d049a81b912e2033af3e79ca43b88c271ab72d32",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          224,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG054",
+        "saved_line": 142,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG054] **G05 Arius and PS68 ordinary/aftermath transfer — OPEN.** The meal, plant and challenged endless gratitude contribute precise PS68 ordinary and aftermath evidence. Their local achievements do not establish every PS68 aftermath, settle the separate Haruka parent or transfer an unreceived Arius arc into this portrait. [M:222–228,288]",
+        "saved_text_sha256": "1081585dcf6ba82063896dc5e9992d65451c32dd65749605f6b132fd9a801fcf",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG055",
+        "saved_line": 144,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG055] **G06 Cross-school ordinary repertoire — OPEN.** Food, gardening and company are preserved for their actual actors. This bounded account supplies no representative repertoire for every school, no Rigatoni enrollment and no claim that all people share the four's pleasures. [M:218,220,226]",
+        "saved_text_sha256": "f5407ce5f43249587b44283721c1454f9e384a44b310d3ddaccaa954deb1f5a1",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          220,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG056",
+        "saved_line": 146,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG056] **G07 Story-world chronology — OPEN.** Restaurant present, pre-membership retrospective and a few-days-later invitation establish a local sequence. They do not resolve an absolute calendar, MAIN ordering or dates of all mafia actions. [M:216,226,228]",
+        "saved_text_sha256": "684132d4aaa323f95b592a20478c03b9188c17302da283f96ddc33d1bbc948e6",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          226,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG057",
+        "saved_line": 148,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG057] **G08 Event naming and repeat contexts — OPEN.** The selected13010–13050 MINI sequence has precise identifiers and a coherent admitted owner. It supplies no unreceived repeat context, renamed event join or broader46 inventory admission. [M:60,216]",
+        "saved_text_sha256": "110a06e86b24030744ec53d91f54d26fe99592d2f1aee5d94b3341a45dfa52fa",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          60,
+          216
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG058",
+        "saved_line": 150,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG058] **G09 Written speaker/choice attribution — OPEN.** The Haruka-labelled release order with Aru-like response context, mixed address and scene/unit resets remain qualified. The explicit narrative action supports rescue and arrest while fine speaker assignments stay bounded. No raw label repair is performed. [M:216,224,228]",
+        "saved_text_sha256": "b805edd997214c851a0d212bf8908972faea1184b0ad0738159b6eb2db4d9314",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          224,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG059",
+        "saved_line": 152,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG059] **G10 Performed voice — OPEN.** Threats, pleas and comic rhetoric are represented through an accepted written analytical account. No audio, accent, delivery, timing or vocal-emotion measurement was received. [M:55,60,218,224]",
+        "saved_text_sha256": "00f5200a39b66a168d879272cf1ffd338e6ad8bfca147f06304db7afa3160ea2",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          55,
+          60,
+          218,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG060",
+        "saved_line": 154,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG060] **G11 Hoshino's Yume record and office states — OPEN.** This source-local opponent and PS68 afterstate provide no Yume record, Hoshino office transition or reciprocal identity evidence. A proposed plant transplant cannot serve as office-state certification. [M:226]",
+        "saved_text_sha256": "8504d35222abd53740ef8a6777f8899045557766bb6afa9fc0b1bb0500d738cc",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG061",
+        "saved_line": 156,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG061] **G12 Counterpart, system and variant identity — OPEN.** Literalリガトーニ and the accepted Bruno naming stay source-local. Bullies, generic gang members, mercenaries, guests and workers retain their separate scopes; no typed-family, variant, student or universal mafia identity join is manufactured. [Q; M:218,220,224]",
+        "saved_text_sha256": "ebc2525554f83ab304a161f8c95c53fae883f33d8a6394f5f8d2c937c918fdb5",
+        "source_refs": [
+          "M",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          220,
+          224
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG062",
+        "saved_line": 158,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG062] **G13 Office, contract, safety and technical outcomes — OPEN.** Payment-protected immunity is alleged; arrest is narrated. Ownership, certified bribery, conviction, every hostage's clinical outcome, exact damages payment, hotel repair and permanent safety are unprinted. The office plant transplant is proposed, and Aru's nourishment explanation is no technical experiment. [M:218,224,226]",
+        "saved_text_sha256": "5ec5e8ad79d9798c5036470c5608933767c5e228490b6bbe9f5425c08b45d712",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          224,
+          226
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG063",
+        "saved_line": 160,
+        "projection_kind": "GAP_ARGUMENT",
+        "complete_saved_text": "[RG063] **G14 Unclassified/mode continuity — OPEN.** The received normal owner's reports, inward passages, literal label seams and narrative actions retain their modes. Its Unknown form and selected-scene envelopes are not converted into newly inspected native data or a uniform speaker class; no whole-primary credit follows from this synthesis. [M:216,220,228]",
+        "saved_text_sha256": "6891b7884fa60469462cf36a644e0fbb679a3ab6e14f883464d11e0df9c3e787",
+        "source_refs": [
+          "M"
+        ],
+        "exact_normal_owner_lines": [
+          216,
+          220,
+          228
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      },
+      {
+        "id": "RG064",
+        "saved_line": 162,
+        "projection_kind": "LITERARY_PARAGRAPH",
+        "complete_saved_text": "[RG064] The bounded final claim is that Rigatoni's asserted immunity is answered by distinct people's resistance, risky rescue, his begging and narrated arrest. The aftermath gives those people actual enjoyment and a flowering plant while keeping liability, clinical outcomes, durable safety and his wider private life unresolved. That combination supplies a mature character account of a named local antagonist and the recipients of his choices. It leaves the separate institutions, directed relationships, cast census and later interpretive models to their own responsibilities. [M:218–228,288; A; Q]",
+        "saved_text_sha256": "8276b9b74f24f9182166757a28e977052f6a0484b7e6e2b8ba068d15a76a09a4",
+        "source_refs": [
+          "M",
+          "A",
+          "Q"
+        ],
+        "exact_normal_owner_lines": [
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          288
+        ],
+        "source_grade_qualification": "Meaning received through complete accepted analytical normal account; inference/absence/actor boundaries remain in full paragraph, no fresh primary/performed credit"
+      }
+    ],
+    "architecture_eleven_sections": [
+      {
+        "architecture_section": "## 1. Core thesis",
+        "saved_heading_line": 16,
+        "first_paragraph": "RG002"
+      },
+      {
+        "architecture_section": "## 2. Longitudinal arc",
+        "saved_heading_line": 26,
+        "first_paragraph": "RG006"
+      },
+      {
+        "architecture_section": "## 3. Public and private self",
+        "saved_heading_line": 40,
+        "first_paragraph": "RG012"
+      },
+      {
+        "architecture_section": "## 4. School, club and local role",
+        "saved_heading_line": 50,
+        "first_paragraph": "RG016"
+      },
+      {
+        "architecture_section": "## 5. Ordinary life and wanted ends",
+        "saved_heading_line": 60,
+        "first_paragraph": "RG020"
+      },
+      {
+        "architecture_section": "## 6. Crisis behavior",
+        "saved_heading_line": 72,
+        "first_paragraph": "RG025"
+      },
+      {
+        "architecture_section": "## 7. Sensei relationship",
+        "saved_heading_line": 84,
+        "first_paragraph": "RG030"
+      },
+      {
+        "architecture_section": "## 8. Major peer and recipient relationships",
+        "saved_heading_line": 90,
+        "first_paragraph": "RG032"
+      },
+      {
+        "architecture_section": "## 9. Language and voice",
+        "saved_heading_line": 102,
+        "first_paragraph": "RG037"
+      },
+      {
+        "architecture_section": "## 10. Competing readings",
+        "saved_heading_line": 112,
+        "first_paragraph": "RG041"
+      },
+      {
+        "architecture_section": "## 11. Evidence route and open limits",
+        "saved_heading_line": 126,
+        "first_paragraph": "RG047"
+      }
+    ],
+    "finite_endpoint_arguments": [
+      {
+        "id": "RE01",
+        "endpoint_question": "13010 recognition and protected-payment assertion",
+        "source_grade": "ASSERTED",
+        "positive_actual_or_reported_end": "Rigatoni recognizes the four and claims payment-protected impunity",
+        "contrary_or_unprinted_tail": "No independently certified payer/recipient/bribery instrument or hotel ownership",
+        "normal_owner_lines": [
+          218
+        ],
+        "saved_paragraph_ids": [
+          "RG002",
+          "RG007",
+          "RG013",
+          "RG043"
+        ],
+        "producer_primary_navigation": "BA:mini:70013010:scene:001:u:0049–0084",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE02",
+        "endpoint_question": "13010 gunfight and possible property cost",
+        "source_grade": "NARRATED_ACTION_AND_UNPRINTED_TAIL",
+        "positive_actual_or_reported_end": "Aru chooses resistance despite possible repair cost; narrator establishesgunfight",
+        "contrary_or_unprinted_tail": "Fatalities/paidrepair not printed",
+        "normal_owner_lines": [
+          218
+        ],
+        "saved_paragraph_ids": [
+          "RG004",
+          "RG007",
+          "RG042"
+        ],
+        "producer_primary_navigation": "BA:mini:70013010:scene:001:u:0049–0084",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE03",
+        "endpoint_question": "13020 wantedplant and coercive bullies",
+        "source_grade": "RETROSPECTIVE_CONTEXT_UNJOINED_ACTORS",
+        "positive_actual_or_reported_end": "Haruka tendsweed/wantswater;bullies demandmoney/trample/threaten",
+        "contrary_or_unprinted_tail": "No bully→Rigatoni personjoin; futuregrowth notautomaticallyhealed",
+        "normal_owner_lines": [
+          220
+        ],
+        "saved_paragraph_ids": [
+          "RG006",
+          "RG008",
+          "RG022"
+        ],
+        "producer_primary_navigation": "BA:mini:70013020:scene:001:u:0036–0068",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE04",
+        "endpoint_question": "13020 withdrawal, name refusal and hurt",
+        "source_grade": "ACTUAL_REFUSAL_AND_APOLOGY",
+        "positive_actual_or_reported_end": "Haruka saysnotokay/refusesname/warns;Kayoko adviseswithdrawal;nicknamehurts/Mutsukiapologizes",
+        "contrary_or_unprinted_tail": "No completedtraumacure oruniformgratitude",
+        "normal_owner_lines": [
+          220
+        ],
+        "saved_paragraph_ids": [
+          "RG008",
+          "RG029"
+        ],
+        "producer_primary_navigation": "BA:mini:70013020:scene:001:u:0069–0100",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE05",
+        "endpoint_question": "13020 extortion explanation",
+        "source_grade": "REPORTED_INVESTIGATIVE_RESULT",
+        "positive_actual_or_reported_end": "Kayoko gathersinformation andreportsmafiaextortion",
+        "contrary_or_unprinted_tail": "Not independentlyobserved everycollection orpubliclegalverdict;perpetratorsunjoined",
+        "normal_owner_lines": [
+          220
+        ],
+        "saved_paragraph_ids": [
+          "RG008",
+          "RG016",
+          "RG029"
+        ],
+        "producer_primary_navigation": "BA:mini:70013020:scene:001:u:0109–0122",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE06",
+        "endpoint_question": "13030 hostages, disarm and tactical escape",
+        "source_grade": "ACTUAL_DEMAND_ACTION_AND_INNER_FEAR",
+        "positive_actual_or_reported_end": "Rigatoni takesguests hostage;Aru fearsforcolleaguesandguests/disarms;Kayoko directsescape",
+        "contrary_or_unprinted_tail": "Escape/rescuecommitment notyetachievedrescue;allguestoutcomesunprinted",
+        "normal_owner_lines": [
+          222
+        ],
+        "saved_paragraph_ids": [
+          "RG009",
+          "RG025",
+          "RG033"
+        ],
+        "producer_primary_navigation": "BA:mini:70013030:scene:001:u:0033–0064",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE07",
+        "endpoint_question": "13030 retrospective punishment and refusedpayment",
+        "source_grade": "REPORTS_PLUS_ACTUAL_APOLOGY_AND_REFUSAL",
+        "positive_actual_or_reported_end": "Aru reportsmafiapunishment/Mutsukiphotos/Kayokopledge;bullyapologizes;Arurefusespayment",
+        "contrary_or_unprinted_tail": "No Rigatoni=photographedbully join,lifelongsafety orallpromisesfulfilled",
+        "normal_owner_lines": [
+          222
+        ],
+        "saved_paragraph_ids": [
+          "RG009",
+          "RG029",
+          "RG045"
+        ],
+        "producer_primary_navigation": "BA:mini:70013030:scene:001:u:0065–0100",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE08",
+        "endpoint_question": "13040 reachedcolleagues and enduredforce",
+        "source_grade": "ACHIEVED_RESCUE_AND_COST",
+        "positive_actual_or_reported_end": "RescuersreachAru/Kayoko;concealedmercenaries/fullgunfire;Harukashields/Mutsukicoughsandthanks",
+        "contrary_or_unprinted_tail": "FatigueisKayokodescriptionnotmedicalexam;noallinjuryimmunity",
+        "normal_owner_lines": [
+          224
+        ],
+        "saved_paragraph_ids": [
+          "RG010",
+          "RG026",
+          "RG042"
+        ],
+        "producer_primary_navigation": "BA:mini:70013040:scene:006:u:0018–0052",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE09",
+        "endpoint_question": "13040 Rigatoni begging",
+        "source_grade": "ACTUAL_ADDRESSED_REQUEST",
+        "positive_actual_or_reported_end": "Rigatoni begs underreversedpressure",
+        "contrary_or_unprinted_tail": "Fear/strategy/remorse notomniscientlyresolved",
+        "normal_owner_lines": [
+          224
+        ],
+        "saved_paragraph_ids": [
+          "RG003",
+          "RG014",
+          "RG027",
+          "RG041"
+        ],
+        "producer_primary_navigation": "BA:mini:70013040:scene:006:u:0054–0065",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE10",
+        "endpoint_question": "13040 releaseorder actor seam",
+        "source_grade": "LITERAL_LABEL_AND_CONTEXT_QUALIFIED",
+        "positive_actual_or_reported_end": "Releaseorder inHaruka-labelled line withresponsecontextpointingtoAru",
+        "contrary_or_unprinted_tail": "No silent speakerrepair orunqualifiedAruutterance",
+        "normal_owner_lines": [
+          224,
+          228
+        ],
+        "saved_paragraph_ids": [
+          "RG010",
+          "RG027",
+          "RG040",
+          "RG058"
+        ],
+        "producer_primary_navigation": "BA:mini:70013040:scene:006:u:0054–0065",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE11",
+        "endpoint_question": "13040 reputationpunishment and nonkilling",
+        "source_grade": "ARU_STATED_JUDGMENT_PLUS_NARRATIVE_BOUNDARY",
+        "positive_actual_or_reported_end": "Aru sayslivingwithruinedreputation ispunishment; nokillingnarrated",
+        "contrary_or_unprinted_tail": "No proofactualRigatoniphotospublished/completeeffects; noearlybullyjoin",
+        "normal_owner_lines": [
+          224
+        ],
+        "saved_paragraph_ids": [
+          "RG004",
+          "RG027",
+          "RG045"
+        ],
+        "producer_primary_navigation": "BA:mini:70013040:scene:006:u:0054–0065",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE12",
+        "endpoint_question": "13040 Valkyriearrival and arrest",
+        "source_grade": "NARRATED_ACHIEVED_CUSTODY_EVENT",
+        "positive_actual_or_reported_end": "Narrator establishesValkyriearrival andRigatoniarrest",
+        "contrary_or_unprinted_tail": "No conviction/detentionduration/everyhostageclinicaloutcome/globalmafiacure",
+        "normal_owner_lines": [
+          224,
+          288
+        ],
+        "saved_paragraph_ids": [
+          "RG002",
+          "RG028",
+          "RG044"
+        ],
+        "producer_primary_navigation": "BA:mini:70013040:scene:006:u:0089–0090",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE13",
+        "endpoint_question": "13050 hotelthanks and damageworries",
+        "source_grade": "REPORT_AND_REFUSED_CERTIFICATION",
+        "positive_actual_or_reported_end": "Kayokobelievessincerethanks basedonreportedtrouble;Arufearsdamagetrap;Harukathreatensiftricked",
+        "contrary_or_unprinted_tail": "No exactrepairpayment/liabilitywaiver orcompletehotelhistoricrecord",
+        "normal_owner_lines": [
+          226
+        ],
+        "saved_paragraph_ids": [
+          "RG011",
+          "RG015",
+          "RG035"
+        ],
+        "producer_primary_navigation": "BA:mini:70013050:scene:002:u:0003–0017",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE14",
+        "endpoint_question": "13050 actualspecialdinner enjoyment",
+        "source_grade": "ACTUAL_OFFER_AND_NARRATED_ENJOYMENT",
+        "positive_actual_or_reported_end": "Waiteroffersprivatespecialdinner;fourenjoy;Mutsukifull/Harukahappy",
+        "contrary_or_unprinted_tail": "No elitemenuvocabularygrowthcertification orRigatonitaste-transfer",
+        "normal_owner_lines": [
+          226,
+          288
+        ],
+        "saved_paragraph_ids": [
+          "RG005",
+          "RG021",
+          "RG023",
+          "RG035"
+        ],
+        "producer_primary_navigation": "BA:mini:70013050:scene:002:u:0018–0060",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE15",
+        "endpoint_question": "13050 alive floweringweed",
+        "source_grade": "NARRATED_GROWTH_AND_CHARACTER_EXPLANATION",
+        "positive_actual_or_reported_end": "Plantlives/flowers;AruattributesnourishmenttoHarukadailycare",
+        "contrary_or_unprinted_tail": "Not botanicalexperiment orclaimRigatonitrampling",
+        "normal_owner_lines": [
+          226,
+          288
+        ],
+        "saved_paragraph_ids": [
+          "RG022",
+          "RG023"
+        ],
+        "producer_primary_navigation": "BA:mini:70013050:scene:002:u:0072–0094",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE16",
+        "endpoint_question": "13050 officetransplant",
+        "source_grade": "PROPOSED_AND_WELCOMED",
+        "positive_actual_or_reported_end": "Takingplanttooffice/tendingtogetherproposedandwelcomed",
+        "contrary_or_unprinted_tail": "No separatelynarratedtransplantcompletion",
+        "normal_owner_lines": [
+          226,
+          288
+        ],
+        "saved_paragraph_ids": [
+          "RG011",
+          "RG022",
+          "RG023",
+          "RG062"
+        ],
+        "producer_primary_navigation": "BA:mini:70013050:scene:002:u:0095–0100",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE17",
+        "endpoint_question": "13040/50 repayment and whole-group belonging",
+        "source_grade": "ACTUAL_REPLY_WITH_SPEAKER_LIMIT",
+        "positive_actual_or_reported_end": "Aru saysrepaymentsufficient;Mutsukistopdeathspeech;Kayokomakeswholegroupconstitutive",
+        "contrary_or_unprinted_tail": "LaterHaruka-labelledArulike104seam; nopermanentselfesteemcure/proxyrelationcompletion",
+        "normal_owner_lines": [
+          224,
+          226,
+          228
+        ],
+        "saved_paragraph_ids": [
+          "RG036",
+          "RG045",
+          "RG054"
+        ],
+        "producer_primary_navigation": "BA:mini:70013040:scene:006:u:0070–0081;BA:mini:70013050:scene:002:u:0101–0107",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      },
+      {
+        "id": "RE18",
+        "endpoint_question": "13050 ordinarycontinuation",
+        "source_grade": "NARRATED_CONTINUATION_BOUNDED",
+        "positive_actual_or_reported_end": "Narratorcontinuestheirordinarydays",
+        "contrary_or_unprinted_tail": "No enduringsecurity/allpsychologicalrepair/Rigatonifuturelifeproof",
+        "normal_owner_lines": [
+          226,
+          288
+        ],
+        "saved_paragraph_ids": [
+          "RG011",
+          "RG023",
+          "RG064"
+        ],
+        "producer_primary_navigation": "BA:mini:70013050:scene:002:ending",
+        "navigation_grade": "Inherited locators printed in receivednormal argument only; no new canonical/primary inspection and no approximate label repair"
+      }
+    ],
+    "six_complete_rival_arguments": [
+      {
+        "id": "RR01",
+        "saved_paragraph_id": "RG041",
+        "complete_literary_argument": "[RG041] A fixed-villain reading has substantial support in hostage-taking and the asserted ability to act without restraint. A contingent-authority reading gains support when the same named opponent begs after force reverses and is arrested. Neither rival cancels the other: coercive conduct can be real while authority depends on a particular encounter's circumstances. The account supports changed addressed conduct, not an inspected lifelong disposition or completed moral reform. The monograph's thesis therefore rests on the relation among assertions, actions and answers. [M:218,222,224]",
+        "source_lines": [
+          218,
+          222,
+          224
+        ]
+      },
+      {
+        "id": "RR02",
+        "saved_paragraph_id": "RG042",
+        "complete_literary_argument": "[RG042] A comic-reversal reading can explain disguises, outlaw bravado, fine-dining confusion and the opponent's collapse. A cost-bearing reading remains necessary because the account preserves hostages, Aru's fear, gunfire, shielding, coughing, fatigue and repair worries. The comedy does not provide a clinical or legal immunity rule. The source allows a successful rescue to be satisfying while retaining the uncertainty of all injuries and liability. Attention to ordinary pleasures keeps the meal worthwhile without dissolving the violence around it. [M:218,222,224,226]",
+        "source_lines": [
+          218,
+          222,
+          224,
+          226
+        ]
+      },
+      {
+        "id": "RR03",
+        "saved_paragraph_id": "RG043",
+        "complete_literary_argument": "[RG043] A real-protection reading of Rigatoni's payment claim would explain his confidence; an intimidation reading would explain the same assertion as an attempt to govern expectations. The account supplies his allegation and actual arrest, with no verified payer, receipt or official protection. Arrest establishes that the narrated intervention occurred despite the asserted position. It leaves wider corruption neither proved nor universally disproved. Any stronger conclusion would outrun the received argument's testimony grade. [M:218,224]",
+        "source_lines": [
+          218,
+          224
+        ]
+      },
+      {
+        "id": "RR04",
+        "saved_paragraph_id": "RG044",
+        "complete_literary_argument": "[RG044] A completed-justice reading rightly emphasizes reached colleagues, narrated rescue, nonkilling and arrest. A bounded-intervention reading points to the unprinted conviction, every hostage's clinical result, hotel repair, exact compensation and permanent safety. Both identify real features, but the stronger comprehensive claim lacks its required ends. The later meal and flowering plant add achieved good without acting as legal closure. The sustainable endpoint is specific relief and a return to some wanted activities, alongside unfinished accountability. [M:224,226,288]",
+        "source_lines": [
+          224,
+          226,
+          288
+        ]
+      },
+      {
+        "id": "RR05",
+        "saved_paragraph_id": "RG045",
+        "complete_literary_argument": "[RG045] A solidarity reading finds practical support in coordinated rescue, refused payment and replies that gratitude need not consume Haruka's life. A method-sensitive reading retains earlier threats, humiliating-photo reports, reputational punishment, nickname hurt and incomplete safety. These contrary details belong to their exact actors and contexts; they do not make the bully, Rigatoni and PS68 interchangeable. They allow protection to be real while its means and recipients' responses remain answerable. The opponent's hostage-taking and the defenders' different costs can both be examined without blanket absolution. [M:220,222,224,226]",
+        "source_lines": [
+          220,
+          222,
+          224,
+          226
+        ]
+      },
+      {
+        "id": "RR06",
+        "saved_paragraph_id": "RG046",
+        "complete_literary_argument": "[RG046] A plot-role reading might regard the sparse antagonist as a convenient obstacle. The existing named responsibility requires more precise attention to his represented exaction aims, addressed reversal and arrest. That responsibility can be complete within one coherent source-local sequence while leaving wider biography and private leisure unknown. It needs no proof of popularity, crisis magnitude or model grade. The absence of a conventional bond pool therefore bounds the portrait rather than removing his agency from the cast. [Q; A; M:216–228]",
+        "source_lines": [
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228
+        ]
+      }
+    ],
+    "fourteen_original_gap_arguments": [
+      {
+        "literal_name": "G01 Ordinary and private breadth",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG050",
+        "complete_claim_specific_argument": "[RG050] **G01 Ordinary and private breadth — OPEN.** The represented antagonist's aims and requests are retained despite a sparse verified private repertoire. No inward confession, hobby or universal absence of other private stories is invented. Actual gardening, dinner, paid work and company remain with their own recipients. [M:218–226]"
+      },
+      {
+        "literal_name": "G02 Yuuka council/club decision transfer",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG051",
+        "complete_claim_specific_argument": "[RG051] **G02 Yuuka council/club decision transfer — OPEN.** This sequence establishes no Yuuka fiscal or council decision concerning Rigatoni. Neither PS68's dinner costs nor the payment assertion can complete that separate transfer question. [M:218,222,226]"
+      },
+      {
+        "literal_name": "G03 Serika service, peer and reciprocity range",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG052",
+        "complete_claim_specific_argument": "[RG052] **G03 Serika service, peer and reciprocity range — OPEN.** The waiter's hospitality, restaurant workers and colleagues in this account remain source-local roles. No Serika join or service-range closure follows from their labor or offered dinner. [M:226]"
+      },
+      {
+        "literal_name": "G04 Hina crisis causality, accountability and ordinary contrast",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG053",
+        "complete_claim_specific_argument": "[RG053] **G04 Hina crisis causality, accountability and ordinary contrast — OPEN.** Rigatoni's arrest and PS68's particular intervention certify no Hina causal or institutional result. Their thematic contrast supplies no imported Prefect mechanism or blanket safety judgment. [M:224,228]"
+      },
+      {
+        "literal_name": "G05 Arius and PS68 ordinary/aftermath transfer",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG054",
+        "complete_claim_specific_argument": "[RG054] **G05 Arius and PS68 ordinary/aftermath transfer — OPEN.** The meal, plant and challenged endless gratitude contribute precise PS68 ordinary and aftermath evidence. Their local achievements do not establish every PS68 aftermath, settle the separate Haruka parent or transfer an unreceived Arius arc into this portrait. [M:222–228,288]"
+      },
+      {
+        "literal_name": "G06 Cross-school ordinary repertoire",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG055",
+        "complete_claim_specific_argument": "[RG055] **G06 Cross-school ordinary repertoire — OPEN.** Food, gardening and company are preserved for their actual actors. This bounded account supplies no representative repertoire for every school, no Rigatoni enrollment and no claim that all people share the four's pleasures. [M:218,220,226]"
+      },
+      {
+        "literal_name": "G07 Story-world chronology",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG056",
+        "complete_claim_specific_argument": "[RG056] **G07 Story-world chronology — OPEN.** Restaurant present, pre-membership retrospective and a few-days-later invitation establish a local sequence. They do not resolve an absolute calendar, MAIN ordering or dates of all mafia actions. [M:216,226,228]"
+      },
+      {
+        "literal_name": "G08 Event naming and repeat contexts",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG057",
+        "complete_claim_specific_argument": "[RG057] **G08 Event naming and repeat contexts — OPEN.** The selected13010–13050 MINI sequence has precise identifiers and a coherent admitted owner. It supplies no unreceived repeat context, renamed event join or broader46 inventory admission. [M:60,216]"
+      },
+      {
+        "literal_name": "G09 Written speaker/choice attribution",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG058",
+        "complete_claim_specific_argument": "[RG058] **G09 Written speaker/choice attribution — OPEN.** The Haruka-labelled release order with Aru-like response context, mixed address and scene/unit resets remain qualified. The explicit narrative action supports rescue and arrest while fine speaker assignments stay bounded. No raw label repair is performed. [M:216,224,228]"
+      },
+      {
+        "literal_name": "G10 Performed voice",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG059",
+        "complete_claim_specific_argument": "[RG059] **G10 Performed voice — OPEN.** Threats, pleas and comic rhetoric are represented through an accepted written analytical account. No audio, accent, delivery, timing or vocal-emotion measurement was received. [M:55,60,218,224]"
+      },
+      {
+        "literal_name": "G11 Hoshino's Yume record and office states",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG060",
+        "complete_claim_specific_argument": "[RG060] **G11 Hoshino's Yume record and office states — OPEN.** This source-local opponent and PS68 afterstate provide no Yume record, Hoshino office transition or reciprocal identity evidence. A proposed plant transplant cannot serve as office-state certification. [M:226]"
+      },
+      {
+        "literal_name": "G12 Counterpart, system and variant identity",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG061",
+        "complete_claim_specific_argument": "[RG061] **G12 Counterpart, system and variant identity — OPEN.** Literalリガトーニ and the accepted Bruno naming stay source-local. Bullies, generic gang members, mercenaries, guests and workers retain their separate scopes; no typed-family, variant, student or universal mafia identity join is manufactured. [Q; M:218,220,224]"
+      },
+      {
+        "literal_name": "G13 Office, contract, safety and technical outcomes",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG062",
+        "complete_claim_specific_argument": "[RG062] **G13 Office, contract, safety and technical outcomes — OPEN.** Payment-protected immunity is alleged; arrest is narrated. Ownership, certified bribery, conviction, every hostage's clinical outcome, exact damages payment, hotel repair and permanent safety are unprinted. The office plant transplant is proposed, and Aru's nourishment explanation is no technical experiment. [M:218,224,226]"
+      },
+      {
+        "literal_name": "G14 Unclassified/mode continuity",
+        "status": "OPEN",
+        "saved_paragraph_id": "RG063",
+        "complete_claim_specific_argument": "[RG063] **G14 Unclassified/mode continuity — OPEN.** The received normal owner's reports, inward passages, literal label seams and narrative actions retain their modes. Its Unknown form and selected-scene envelopes are not converted into newly inspected native data or a uniform speaker class; no whole-primary credit follows from this synthesis. [M:216,220,228]"
+      }
+    ],
+    "source_mode_identity_chronology": {
+      "named": "Literalリガトーニ/source-localBruno naming; no typedF/student/school/globalmafia join",
+      "chronology": "Restaurantpresent/pre-membershipretrospective/few-days-laterafterstate only",
+      "actors": "Earlierbullies/gang/mercenaries/guests/waiter retainindividualsourcebounds; no Rigatoni=bully join",
+      "speaker": "Haruka-labelledrelease/Arucontext andlaterrepaymentseam retained; scene/unitresets",
+      "primary_navigation": "Only inheritednormal-ownerlocators; no sourcecount/wholeprimary/performed/rekey/admission credit"
+    },
+    "unsealed_author_precision_successor": {
+      "beforeimage": {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 35468,
+        "sha256": "085a45ace824162aac7e4650399bd62b4856af1fabbdc092dac75c1f2d420b95",
+        "git_blob_sha1": "7d9a6291013c233736d55cf21a6f80eb02e0eec0"
+      },
+      "operative_body": {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 35455,
+        "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+        "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+      },
+      "literal_replacements": [
+        {
+          "before": "places a limit on his performed claim",
+          "after": "places a limit on his asserted claim"
+        },
+        {
+          "before": "A named nonstudent or sparsely private antagonist",
+          "after": "A named antagonist with sparse private evidence"
+        },
+        {
+          "before": "The later four-person enjoyment makes his absence from their meal consequential at this local ending.",
+          "after": "The later four-person enjoyment supplies an actual local ending after his narrated arrest."
+        },
+        {
+          "before": "an analysis of a restrained fatal endpoint",
+          "after": "an analysis of a bounded nonlethal endpoint"
+        }
+      ],
+      "full_inverse_verified": true,
+      "meaning": "Terminology removespossibleperformance/nonstudent/physicalabsence/fatalityoverclaims; allotherbodybytesunchanged; noROOTrequested literarysuccessorornewsourcecredit"
+    },
+    "immutable_prior_metadata_plan_witnesses": [
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_EXACT_METADATA_AND_ORIGINAL_SOURCE_QUESTION_RECEIPT_V1.json",
+        "bytes": 16263,
+        "sha256": "38c98d3e76fb48ea43b08e06ad8029cbdbd248d0f09839496a570dab9b288efc",
+        "git_blob_sha1": "9cf8d7d4f366f9956c4deafb1985bd6671a089b2"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+        "bytes": 24494,
+        "sha256": "017d25ce5296e792e7f2437bc4ca574f651f9478f3788620b727e0fdb71465c7",
+        "git_blob_sha1": "9343385e530b7db4819308a15278c2b2db5604a0"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.md",
+        "bytes": 6346,
+        "sha256": "6c644a2b7e5101ff6944f15a0a12b1af853b0e45f7da1ecbf2ebadd7f431388f",
+        "git_blob_sha1": "bc0d6045d236ed44815465f71e73501e261ed009"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_METADATA_ONLY_AUTHOR_COMPLETE_RECEIVING_AND_FINITE_VERIFICATION_V1.json",
+        "bytes": 8890,
+        "sha256": "504021ae7c46cafd484d1fb4a177d8e8ea03a1eeb03f883e26399b5c37a5076c",
+        "git_blob_sha1": "8b857c3003c76d1e94092faf39e4b15365654d9c"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A01__BLUE_ARCHIVE_PHASE3_REQUIRED_PACKAGE_INDEX_V3.csv",
+        "bytes": 103145,
+        "sha256": "1b5e4796a8a3e21848a33496e404ba847798b4829f050f3fcde160813a28544f",
+        "git_blob_sha1": "6f010f3096209c5d853a98a1694551f96e5d28a6"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A02__BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+        "bytes": 797685,
+        "sha256": "b23e7e7ba1f006041016c06eb74ff65ed7c511f302bf863f3e0dd295be0f37b4",
+        "git_blob_sha1": "5e5b49b5fa58fb09359b82af3e77d0cf6852eafa"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A03__BLUE_ARCHIVE_PHASE3_MANDATORY_NAMED_SECTION_INDEX_V3.csv",
+        "bytes": 10542,
+        "sha256": "db635ea39bc77918adf0e81dc5f82af6b35674b547612e0a41bcc184e13f1253",
+        "git_blob_sha1": "8e9bc2c88126dc3eed50f03298b90b56a55e787d"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A04__partition_BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+        "bytes": 461112,
+        "sha256": "b6770ac0a673f7c5d9f96f31d0c945cd5fdc21c792366c2d16a51be6e4c3322a",
+        "git_blob_sha1": "ebb0e1c66caa01a9414cc84cba49cbf80b7526e1"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A05__NEW_NAMED_AND_NONHUMAN_QUESTION_RESPONSIBILITIES.json",
+        "bytes": 58545,
+        "sha256": "d0481642b00c33724eef68dbd8f3c7a030f75487e9e8ee8104de7c693ecfef4f",
+        "git_blob_sha1": "905b5ef18a213f60c8155464c30305d5d1e03fc9"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A06__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 93829,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A07__architecture_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A08__Cycle008_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "bytes": 19463,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "git_blob_sha1": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A09__GOURMET_ENSEMBLE_SOURCE_AND_CLAIM_RECEIPT_V1.json",
+        "bytes": 358667,
+        "sha256": "462c97365ef962ec63aa440f7314681fa5f07417f2232484aeda61cfd34f6597",
+        "git_blob_sha1": "56dbcccf0e442b835f0b5e981f26d594d7ad91a1"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/bound_inputs/A10__ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+        "bytes": 6858,
+        "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+        "git_blob_sha1": "bcd927b29365cff78b8e28d733763a5a2b437c2c"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_METADATA_SOURCE_PLAN_V1/RIGATONI_METADATA_ONLY_SOURCE_PLAN_FINAL_FREEZE_V1.json",
+        "bytes": 5939,
+        "sha256": "55a49f29ef04ba183c6b3b5e298769a2aa228bafb105fdac14b5180a213f15f4",
+        "git_blob_sha1": "5b780485c4c29dadbfcd3c1b2459c746640f24d9"
+      }
+    ],
+    "canonical_target_and_link_transport": {
+      "canonical_target": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+      "body_href": "../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "expected_repository_target": "series/blue-archive/02 Sequential Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+      "C_body_link_transport": "href governedby eventualcanonicalcontainingfile, sourceboundCcopyabove; not claimedCsidecarfilesystemresolution"
+    },
+    "separate_required_responsibilities": "No PS68institution/belonging/Harukadirections/individualPS68characters/KayokoAko/Valkyrie completionbyproxy",
+    "current_snapshot": "c690 source120/tree40b;mainb76merged89;ROOTallocationreports127/named13; mutable ROOT frontier ismetadata only andnot a sourceofliteraryauthority",
+    "no_mutation_or_inflation": "Cboundnormalonly; no R/H/Git/provider/index/globalwrites, UNBOUND9/unpublished39 access/hash, usage reset, newprimary/native/raw/QA/AV/model/admission/identity/independence/count/ROOTacceptance"
+  },
+  "historical_payload_qualification": "Every dated pending/local/source114/7a/source120/source125-chain-pending/count/custody and relative-navigation field preserves creation-time meaning. Full original C bytes and literal/body inverses survive. Current ROOT acceptance is separately bound; mechanical transport supplies no new author, source, independent, primary/native/raw/QA/AV, model or scope credit. Original hashes bind originals rather than their public derivatives.",
+  "original_relative_navigation_boundary": "Historical payload hrefs retain their original document coordinates; explicit canonical body translations and public attachment descriptors supply current navigation. Historical relative literals are not fresh live-source reading.",
+  "assembler_receiving_credit": {
+    "new_primary_native_raw_QA_AV_model_identity": 0,
+    "independent_literary_receiving": 0
+  },
+  "all14_original_gaps": "OPEN_UNCHANGED",
+  "R_Git_provider_writes": false,
+  "proposal_installs_or_publishes_nothing": true,
+  "complete_author_attachment_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_RIGATONI_AUTHOR_ATTACHMENTS_PART_01_V1.json",
+      "bytes": 24849,
+      "sha256": "18131f886cbf2cd4993c279c920445f64e2fe7f6588dfe1e961c30ccee0392f7",
+      "git_blob_oid_of_actual_bytes": "2f9c7cc81f3550c4f7909667e49dcdf0967a3873",
+      "attachment_names": [
+        "RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1.json",
+        "RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+        "RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json"
+      ]
+    }
+  ],
+  "complete_frozen_manifest": {
+    "schema": "RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V2",
+    "decision": "IMMUTABLE_COMPLETE_SOURCE_SCOPED_CHARACTER_CANDIDATE_PENDING_ROOT_ACCEPTANCE",
+    "home": "P3-CHAR-RIGATONI-MINI-SOURCE-SCOPED",
+    "kind": "CHARACTER",
+    "required_count": 1,
+    "mandatory_named_duties": [],
+    "four_frozen_outputs": [
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 35455,
+        "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+        "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+        "bytes": 132119,
+        "sha256": "b2d0221c18286e582a237054edc9e77cc257ce6bfa26b81fa0ffdd21fe18b594",
+        "git_blob_sha1": "077d1fc9e1e87200212cde9ec4d9321613cd12d7"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+        "bytes": 5399,
+        "sha256": "8fd1bceb1440c878314c40f89d986f49cb6c07974be13bb6d5b3502153bbe776",
+        "git_blob_sha1": "caac0618b053f4eb42563a5c4f93cecd70fb1736"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json",
+        "bytes": 7985,
+        "sha256": "430fadf5af7cd38a7d566f0afa45bd48a6009a007c5f3091e74a60a5f18b5a09",
+        "git_blob_sha1": "172174986b9387d937a5d377ed16168f7f55e86c"
+      }
+    ],
+    "listed_files": 14,
+    "with_this_seal": 15,
+    "bound_inputs": 7,
+    "unsealed_beforeimages": 2,
+    "actual_author_receiving": {
+      "allocation": "82e7db whole",
+      "complete_adequate_empirical_normal": "9fc564 coherent214–228/current53–62/ending288; zero newunderlyingprimary",
+      "whole_saved_body": "78f4771–80/e9f58c81–162EOF",
+      "all_new_meaningful_companion_fields": "b7e7c5/ac496f/43e1ab; repeatedsavedbody/source text reused at actualwhole/scopedextents",
+      "whole_readable": "a8db7cEOF",
+      "whole_saved_author_receipt": "99d610EOF"
+    },
+    "finite_author_exact_check": "d5afe6 PASS7sourcepairs/26receivedlinebindings/64savedparagraphs/18endcases/6fullrivals/11sections/14exactOPENgaps/1canonicalhref/15priormetawitnesses/fullbody+receiptinverse",
+    "ROOT_review_scope": "ROOT wholebody160423/21d16b reported satisfactoryfirstliteraryreceiving only; exactfinalcompanions and acceptancepending",
+    "provenance": "Actualc690controlcaptures separatefromdatedafb normal/admission/architecturecopies; full underlying Japanese primary/report/performed historiesremainattributed; no new currentRrecapture",
+    "canonical_link_scope": "One normal-owner href is correctfromallocated eventualcanonicalcharacterhome; Csidecarfilesystemresolutionnotclaimed",
+    "no_credit_or_mutation": "No selfordinal/ROOTacceptance/canonicalinstallation/publication/count, primary/native/raw/QA/AV/model/admission/identity/independence credit; no R/H/Git/provider/index/globalwrite/UNBOUND9/unpublished39 access/hash/reset",
+    "prior_immutability": "All15 metadata-plan files exactreverified; every other frozen delivery unchanged by path; fixed121–125 transportdistinct",
+    "complete_file_inventory": [
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 35455,
+        "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+        "git_blob_sha1": "ffdd817ef0515066474c4967208a033e97c5c031"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_READABLE_REVIEW_V1.md",
+        "bytes": 5399,
+        "sha256": "8fd1bceb1440c878314c40f89d986f49cb6c07974be13bb6d5b3502153bbe776",
+        "git_blob_sha1": "caac0618b053f4eb42563a5c4f93cecd70fb1736"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_SAVED_RECEIVING_RECEIPT_V1.json",
+        "bytes": 7985,
+        "sha256": "430fadf5af7cd38a7d566f0afa45bd48a6009a007c5f3091e74a60a5f18b5a09",
+        "git_blob_sha1": "172174986b9387d937a5d377ed16168f7f55e86c"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+        "bytes": 132119,
+        "sha256": "b2d0221c18286e582a237054edc9e77cc257ce6bfa26b81fa0ffdd21fe18b594",
+        "git_blob_sha1": "077d1fc9e1e87200212cde9ec4d9321613cd12d7"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+        "bytes": 35468,
+        "sha256": "085a45ace824162aac7e4650399bd62b4856af1fabbdc092dac75c1f2d420b95",
+        "git_blob_sha1": "7d9a6291013c233736d55cf21a6f80eb02e0eec0"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/author_unsealed_beforeimage/RIGATONI_SOURCE_CLAIM_END_RIVAL_RECEIPT_V1.json",
+        "bytes": 132281,
+        "sha256": "236eb93e898282052bfeeeb21b158d09de4b8eae5077854e549af9bcb0d1c5da",
+        "git_blob_sha1": "90b3f31f669c36c6ef78edb3ddabbc60a7da4430"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/A__ROOT_RIGATONI_EXISTING_CHARACTER_POSITIVE_NARRATIVE_ALLOCATION_V1.json",
+        "bytes": 11981,
+        "sha256": "77c32c5888166e3efa5a22dc929be322d270a254395e718933582edf4b10412f",
+        "git_blob_sha1": "d89a4071e76af2331011854f89363bf939b6138c"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C03__RIGATONI_EXISTING_CHARACTER_HOME_AND_FINITE_SOURCE_PLAN_V1.json",
+        "bytes": 24494,
+        "sha256": "017d25ce5296e792e7f2437bc4ca574f651f9478f3788620b727e0fdb71465c7",
+        "git_blob_sha1": "9343385e530b7db4819308a15278c2b2db5604a0"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C05__A07__architecture_BLUE_ARCHIVE_SYNTHESIS_ARCHITECTURE_V1.md",
+        "bytes": 52261,
+        "sha256": "848c406cb29ea653bafeae36a9bd979d83144f17a090dbf343e445e7a4921286",
+        "git_blob_sha1": "52d83d116bbddcfeb8e3c3c8dd554b7190526c45"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C06__A08__Cycle008_BLUE_ARCHIVE_PHASE2_CONTEXTUALIZATION_CYCLE_008_CHECKPOINT.md",
+        "bytes": 19463,
+        "sha256": "2edc13d495903bbf7e4d7a99c1182c383c17a51432c8931c2d0162a7c6ddb4ac",
+        "git_blob_sha1": "32e02542f3ca16d124d42d6baaf8247b14cdb6e2"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/C07__A10__ROOT_C690_SOURCE120_PUBLICATION_CHAIN_ACCEPTANCE_V1.json",
+        "bytes": 6858,
+        "sha256": "7217d639a9209d16e7a3d7c27fced79ccb2e08bbae8ad0c40d7a08f56d343d6d",
+        "git_blob_sha1": "bcd927b29365cff78b8e28d733763a5a2b437c2c"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/M__A06__BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md",
+        "bytes": 93829,
+        "sha256": "03fb501e4b41f19d7560fb01085f9c5498834e11a8ae1c2c79a64d27c731717f",
+        "git_blob_sha1": "512a08b30bfa91dee27087fd743809dc8aa30b98"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/bound_source_inputs/Q__RIGATONI_EXACT_METADATA_AND_ORIGINAL_SOURCE_QUESTION_RECEIPT_V1.json",
+        "bytes": 16263,
+        "sha256": "38c98d3e76fb48ea43b08e06ad8029cbdbd248d0f09839496a570dab9b288efc",
+        "git_blob_sha1": "9cf8d7d4f366f9956c4deafb1985bd6671a089b2"
+      },
+      {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1.json",
+        "bytes": 7342,
+        "sha256": "2ee5e5b92d35ee6f6c5661077de3e6c7475ddd2930d7e7897b2acbf71d7acc76",
+        "git_blob_sha1": "9332ee915b306a237557f49609921e54eee2b84a"
+      }
+    ],
+    "operative_schema_successor": {
+      "preserved_V1": {
+        "relative_to_P": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V1.json",
+        "bytes": 7342,
+        "sha256": "2ee5e5b92d35ee6f6c5661077de3e6c7475ddd2930d7e7897b2acbf71d7acc76",
+        "git_blob_sha1": "9332ee915b306a237557f49609921e54eee2b84a"
+      },
+      "actual_parser_inspection": "c51801 reviewed338–343 requires exactlyone supported list; V1 has two",
+      "correction": "Keep four_frozen_outputs assole supportedpayloadlist; rename fullinventory tocomplete_file_inventory andinclude preservedV1 seal; no body/source/companion change",
+      "full_inverse": "Delete thissuccessor field; schemaV2→V1; complete_file_inventory minusfinalV1tuple→all_frozen_files; listed14→13/withseal15→14; original exact JSON insertionorder reconstructed below",
+      "ROOT_acceptance_count_source_credit": 0
+    }
+  },
+  "original_frozen_manifest_exact_tuple": {
+    "path": "RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V2.json",
+    "bytes": 8563,
+    "sha256": "21166fdfc7cde2f9f49d31f8e4e4217d16337012fe0565d39c0f000dd3b91af2",
+    "git_blob_oid_of_actual_bytes": "997f895e0c241bbda39ea746546ef98b7f77d85e",
+    "immutable_transport_path": "immutable_originals/RIGATONI_CHARACTER_MONOGRAPH/RIGATONI_AUTHOR_COMPLETE_CHARACTER_MONOGRAPH_FINAL_FREEZE_V2.json"
+  },
+  "original_body_exact_tuple": {
+    "path": "RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 35455,
+    "sha256": "bacb9476a00e2419ab4281bf13a541a019d79e78df884abc334e498841d058f7",
+    "git_blob_oid_of_actual_bytes": "ffdd817ef0515066474c4967208a033e97c5c031",
+    "immutable_transport_path": "immutable_originals/RIGATONI_CHARACTER_MONOGRAPH/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md"
+  },
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_RIGATONI_MINI_SOURCE_SCOPED_CHARACTER_MONOGRAPH.md",
+    "bytes": 38459,
+    "sha256": "ec50e5074a696bec9e421916acdb7b7ce6cbfc7ffc542987a2151c19284772be",
+    "git_blob_oid_of_actual_bytes": "bc88a74e6c711a63585a70ef86f70ec833cd0f41"
+  },
+  "canonical_link_translations": [],
+  "mandatory_operative_qualification": "The complete162-line source-scoped character argument retains seven exact C inputs,64 saved joins,18 finite ends, six serious rivals and all eleven dimensions at their actual sparse written-source bounds. Operative V2 explicitly contains four frozen payloads and a complete14-file inventory; original V1 seal, two unsealed beforeimages and exact precision/control-route inverses remain immutable. Arrest is not conviction, repaired property or lasting reform; payment protection remains alleged. Other participants’ dining, paid work, dinner and plant growth keep intrinsic independent value without borrowed Rigatoni hobbies or invented remorse. The standard Character Monographs route governs; PS68, belonging, Haruka directions and Valkyrie gain no proxy completion."
+}

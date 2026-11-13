@@ -1527,3 +1527,7 @@ must be completed sufficiently to prevent the definitive Temari/Misuzu monograph
 - trainer-role speaker labels.
 
 Search results were used for cross-surface discovery and routing, not as a substitute for source-level deduplication or continuity classification.
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Hiwatari Kanae has five new focal A1 scripts. Kanae's skilled support and chosen attachment contribute to China's account of her own ability. The same trajectory gives Kanae a first-person perception of distance and a search for practical experience. China separately wishes Kanae to have a dream of her own. Read the [bounded Kanae–China analysis](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/06_KURAMOTO_CHINA/GKM_KANAE_CHINA_DEAR_000_READING.md), with the support 3-0122 witness and alternate 037-01 observer epilogues kept in their separate states. See the [side-character ledger](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_NPC_AND_SIDE_CHARACTER_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12) for owl's mentoring and the unidentified final epilogue speaker.

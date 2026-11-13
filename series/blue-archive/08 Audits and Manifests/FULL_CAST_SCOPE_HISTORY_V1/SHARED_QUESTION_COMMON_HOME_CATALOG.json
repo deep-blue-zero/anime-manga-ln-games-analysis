@@ -1,0 +1,2797 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/FULL_CAST_CANONICAL_HOME_PARTITION_PROPOSAL_V1/SHARED_QUESTION_COMMON_HOME_CATALOG.json",
+  "original_frozen_binding": {
+   "bytes": 175361,
+   "sha256": "06dae80bd5565557de54eb0523a09295378186f3518c5100c374008182967a41",
+   "git_blob_sha1": "07e363d8b71792be84a304dc63bb64d0e8217f16"
+  }
+ },
+ "historical_payload": {
+  "scope": {
+   "state": "C_ONLY_SEMANTIC_PARTITION_PROPOSAL_ROOT_RECEIVING_AND_ADOPTION_PENDING",
+   "N_frozen": false,
+   "monograph_completion_credit_added": 0,
+   "primary_narrative_credit_added": 0,
+   "percentage_or_quarter_claimed": false,
+   "repository_writes": false,
+   "historical_source_baseline": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+   "reported_current_publication": "dc5ae72fb4841b90ff09fd53d8ba4b0ce0cf4193",
+   "reported_current_candidate_sha256": "f8ce1729205b02498c1981b0cd67943b80bd873d3b4aa83698325863223f9523"
+  },
+  "records": [
+   {
+    "original_question_key": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+    "proposed_common_home": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-GSC-DIFFERENTIATED-WORK-RECOGNITION",
+     "title": "GSC work, finite rest and divided recognition",
+     "identity_scope": "Aoi/Rin/Ayumu/Momoka/Heine/Sumomo/claimant; directed individual acts retained",
+     "thesis": "Aoi→Rin brokers rest; Ayumu/Momoka cover specific work; Rin→Kaya chooses actual rest without political reform; colleagues→claimant recognize differently. The question is whether shared administration allows finite people and dissent rather than treating one superhuman as irreplaceable.",
+     "positive_and_contrary": "Rin meal/chess are positive; interrupted outing/solitary search, document error and unreliable appearance guesses prevent perfect recovery or unanimous identity knowledge.",
+     "home_keys": "V000 V004 V100 S2V000 S2V001 EVENT834 I27",
+     "evidence": "S2V001 C001 E001–010; V004 C002 E007/013/023; Final C1 E015/C3 E002;834105.",
+     "mandatory_debt": "Relationship specialist must receive all relevant current owner rosters and preserve each direction/recipient; does not replace individual Rin/Aoi/Kaya questions."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ARONA-PLANA-SENSEI",
+    "proposed_common_home": "P3-REL-ARONA-PLANA-SENSEI",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-ARONA-PLANA-SENSEI",
+     "title": "Arona, Plana and Sensei: home, disagreement and requested company",
+     "identity_scope": "Two OS subjects and special entity Sensei; unjoined roles separate",
+     "thesis": "Arona→Plana welcomes shared presence; Plana→Sensei asks particular company; both propose/log operations and disagree about claimant. Shared home is not sameness, replacement or unlimited attention.",
+     "positive_and_contrary": "Homecoming/routine positive; capacity overflow, data apparently lost, sleepiness claims and mimesis/amnesia rivals retain fallibility.834106 alone-time desire prevents absorbing Plana into a team function.",
+     "home_keys": "V000 V001 V100 S2V000 S2V001 EVENT834 I27",
+     "evidence": "Final C4 E009–012; S2V001 E007–010;834106; I007/I012 local roles.",
+     "mandatory_debt": "No authenticating QED, whole UI join or old-president identity; exact role/tag review mandatory for consequential new claim."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ALICE-KEY-KEI",
+    "proposed_common_home": "P3-REL-ALICE-KEY-KEI",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-ALICE-KEY-KEI",
+     "title": "Alice toward Key/Kei: naming and choosing a function",
+     "identity_scope": "MAIN provisional voice, Alice, present Kei two keys kept separate",
+     "thesis": "Alice rejects imposed destructive role and chooses friends; historical voice adopts Kei name/help; present Kei negotiates care and labor. A bounded continuity reading need not certify file/body provenance.",
+     "positive_and_contrary": "Chosen help/body self account positive; earlier destructive coercion, uncertain 2 KB save and present refusals prevent constant servitude or complete reconstruction.",
+     "home_keys": "V002 V100 KEI19 EVENT854",
+     "evidence": "Pavane C1/C2; Final C1 E003/C3 E021/C4 E009;85429; Kei 19 all 19.",
+     "mandatory_debt": "Common character package P3-CHAR-KEI-TWO-KEY-BOUNDED coordinated with Millennium lane; relationship is distinct mandatory question. No double monograph count."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-HOSHINO-YUME",
+    "proposed_common_home": "P3-REL-HOSHINO-YUME",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-HOSHINO-YUME",
+     "title": "Hoshino toward Yume: memory, difference and grief",
+     "identity_scope": "Named memories and altered contact graded separately",
+     "thesis": "Hoshino’s mistrust/grief differs from Yume’s improvisation/care; altered letter changes present grief without proving historical responsive authorship. Yume’s own ends must not disappear into another person’s recovery.",
+     "positive_and_contrary": "Actual reported search/loss, care memories and later apology are positive; death/weather/payment record absence and persisting grief block total causal blame/cure.",
+     "home_keys": "V001",
+     "evidence": "V001 C003 whole 43/current V001 owner; G11 specific records.",
+     "mandatory_debt": "Receive existing complete Hoshino private comparison at its own scope before final relationship closure; no new death record inferred."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-AYAME-NAGUSA",
+    "proposed_common_home": "P3-REL-AYAME-NAGUSA",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-AYAME-NAGUSA",
+     "title": "Nagusa toward Ayame: relinquishing the ideal and waiting",
+     "identity_scope": "Ayame forms unresolved; Nagusa current witness differentiated",
+     "thesis": "Nagusa’s role performance/self blame changes to help-request, challenge for burdens and waiting beside asleep Ayame. The question owns reciprocity gaps rather than silently completing mutual friendship.",
+     "positive_and_contrary": "Participant victory/arm/body return positive; continued sleep, modes and coerced confessions leave original private history and mutual consent unknown.",
+     "home_keys": "V005",
+     "evidence": "V005 C001 E021–026; C002 E005/008–021/026–028.",
+     "mandatory_debt": "Receive full Hyakka 78 and related appearance census before final package closure; formal office/emblem transfer and Ayame awake voice remain unprinted."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "proposed_common_home": "P3-REL-SHURO-KOKURIKO-AZAMI",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-SHURO-KOKURIKO-AZAMI",
+     "title": "Shuro, Kokuriko and Azami: authorship, allegiance and own paths",
+     "identity_scope": "Each hostile principal distinct; penname not extra person",
+     "thesis": "Shuro’s unwanted panic/private authorship, Kokuriko’s pressure yet path permission and Azami’s threat guide work make an unequal ensemble. Niya’s blank vessel appeal and Sensei rescue also have bounded recipient roles.",
+     "positive_and_contrary": "Local new tale/genuine private writing positive; hostage action, coerced exposure, loyalties/ontology unknown and uncaptured escape prevent total reform.",
+     "home_keys": "V005",
+     "evidence": "V005 C001 E015–026/C002 E011–028.",
+     "mandatory_debt": "No global book rule or named maternal bond; justified dyads maybe reconciled as one ensemble question if narrative argument owns all directions."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-MAIA-SUBARU-ARIUS",
+    "proposed_common_home": "P3-REL-MAIA-SUBARU-ARIUS",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-MAIA-SUBARU-ARIUS",
+     "title": "Maia toward Subaru and Arius: affection with grievance",
+     "identity_scope": "Maia/Subaru/Squad/anonymous residents source-local",
+     "thesis": "Maia’s refuge and choice to return do not abolish abandonment hurt. She asks a shared future while continuing affection and returns harmonica; Subaru accepts plural continuation.",
+     "positive_and_contrary": "Named company, shelter, study and reported celebration positive; no formal pass/charter/all resident consent/permanent reconciliation.",
+     "home_keys": "V006",
+     "evidence": "V006 all 33/C001–C003 checkpoints.",
+     "mandatory_debt": "Receive current Subaru/Squad private and owner roster arguments as appropriate before full closure; avoid making Maia only redemption evidence."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-FOX-RABBIT-COMMAND",
+    "proposed_common_home": "P3-REL-FOX-RABBIT-COMMAND",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-FOX-RABBIT-COMMAND",
+     "title": "FOX and RABBIT: command, material security and refusal",
+     "identity_scope": "Yukino/Kurumi/Otogi/Niko and Miyako/RABBIT directions distinct",
+     "thesis": "FOX offers food/resources/senior command under SRT promise; Miyako refuses civilian harm. Peers choose keep Yukino after her retreat order, resisting abandonment without erasing participation.",
+     "positive_and_contrary": "Surrender/counterforce are positive; actual harm assent/intended selfdestruct and unprinted individual sentences prevent bluff/absolution/restoration claims.",
+     "home_keys": "V004 V100",
+     "evidence": "V004 C002 E003–005/012–024; Final C1 E015.",
+     "mandatory_debt": "Full FOX/SRT/RABBIT ordinary source union from 105 roster review mandatory; no all-members-one-intent or current formal SRT reopening."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-KAYA-RIN-HEINE",
+    "proposed_common_home": "P3-REL-KAYA-RIN-HEINE",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-KAYA-RIN-HEINE",
+     "title": "Kaya toward Rin and Heine: friendship, contempt and accountability",
+     "identity_scope": "Actual dyads; no friendship as legal repair",
+     "thesis": "Rin’s actual chess rest with Kaya retains friendship; Kaya’s command contempt/hierarchical ideal harms Rin and Heine. Heine changes support when her injury/event cost becomes recognized against recording.",
+     "positive_and_contrary": "Chess/food companionship and support break positive; unrepentance/terror plan, unauthenticated recording/legal process limits remain.",
+     "home_keys": "V004 V100 S2V001",
+     "evidence": "V004 C2 E007/013/023; S2V001 E003/005.",
+     "mandatory_debt": "Potential overlap with GSC ensemble must be adjudicated by distinct question, not counted twice for same meaning."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ODYSSEIA-SAMMY-CARE",
+    "proposed_common_home": "P3-REL-ODYSSEIA-SAMMY-CARE",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-ODYSSEIA-SAMMY-CARE",
+     "title": "Odysseia, Sammy and distributed care",
+     "identity_scope": "Minato/Ami/Sumika/Sanae/Mitsuki/Sammy/claimant with bounded crew roles",
+     "thesis": "Rule, health, familiar belonging, professional burden and own initiative meet in last voyage. Cat will is valued while human judgment stays uncertain; survivors’ grief has ordinary material habits.",
+     "positive_and_contrary": "Actual withdrawal/voyage/death/familiar care positive at narrative degree; shaking, injury, risk and unconsulted guest forecast prevent ideal care or clinical optimality.",
+     "home_keys": "S2V003",
+     "evidence": "S2V003 C001 all 14; individual E002/E003/E007 full; named C1 aftermath.",
+     "mandatory_debt": "Local role appendix must retain crew/docking/gift cook different episodes; no automatic uniform agency or private joins."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-DIVING-TEAM-ORDERS-CAUTION",
+    "proposed_common_home": "P3-REL-DIVING-TEAM-ORDERS-CAUTION",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 10,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-DIVING-TEAM-ORDERS-CAUTION",
+     "title": "Diving team: continuing orders and mutual caution",
+     "identity_scope": "Rei provisional plus A/B/C within S2V000 E004 only",
+     "thesis": "Rei checks/warns; A disputes need/confidently assesses; B reports decompression and asks when assignment ends; C worries about skin. Artifact aesthetics and fatigue matter with command uncertainty.",
+     "positive_and_contrary": "Beacon/current displacement, recovered shard and work ending positive; unknown sponsor, purpose, all injury/capability/material data.",
+     "home_keys": "S2V000",
+     "evidence": "S2V000 C001 E004 s 1 u0001–0036.",
+     "mandatory_debt": "No baseball Rei join or dream/telescreen/photo causal bridge; named local role package owns all 36-unit meaning rather than throwing away one-scene evidence."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-GEHENNA-RESTORATION-DISSENT",
+    "proposed_common_home": "P3-REL-GEHENNA-RESTORATION-DISSENT",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 11,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-GEHENNA-RESTORATION-DISSENT",
+     "title": "Restoration Committee: gradual reform and dissent",
+     "identity_scope": "Karen/Mayumi/Shoko with different acts and recipients",
+     "thesis": "Practical range work/permission matters but different ordinary lives challenge one-heart; Shoko confesses steering/mastermind while Karen/Mayumi choose continuing repair.",
+     "positive_and_contrary": "Actual repair/coalition/recovery positive; uncomfortable interviewee, seized ammunition, confinement and unrepaired harm remain.",
+     "home_keys": "S2V002",
+     "evidence": "S2V002 C00117/C00221; all chapter arguments full.",
+     "mandatory_debt": "Full Gehenna ordinary owner comparators must be received/reused at actual scope before final specialist; no NK technical mechanism."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-GEMATRIA-MEDIA-IDENTITY",
+    "proposed_common_home": "P3-REL-GEMATRIA-MEDIA-IDENTITY",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 12,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-GEMATRIA-MEDIA-IDENTITY",
+     "title": "Gematria, media and contested identities",
+     "identity_scope": "Beatrice/Golconda/Francis/Decalcomania/Maestro/Black Suit/Orwell preserved",
+     "thesis": "Members’ claims about genre, authority, art and world ordering are compared with disagreement, failed forecast, body loss/dissolution and Sensei’s refusal of alliance. Uncertain continuity is an argument object, not optional noise.",
+     "positive_and_contrary": "Direct admissions/name changes/assent positive; cosmic laws, immortality, theft inventories and world rewrite untested.",
+     "home_keys": "V003 V100 S2V000 S2V001",
+     "evidence": "V003 C003/C004; Final C1 E002/015, C2 E001, C3 E002, C4 E012; S2V000 E001/S2V001 E009–010.",
+     "mandatory_debt": "Black Suit’s complete own repertoire and remaining appearance roster review mandatory; no anonymous voice automatic join."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SORA-CUSTOMERS-SENSEI",
+    "proposed_common_home": "P3-REL-SORA-CUSTOMERS-SENSEI",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 13,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-SORA-CUSTOMERS-SENSEI",
+     "title": "Sora, customers and Sensei: wages, privacy and recognition",
+     "identity_scope": "Sora→each customer and adult; no direction averaged",
+     "thesis": "Sora’s gift search fails against particular boundaries; final recognition of paid routine makes warm company possible while adult remains suspicious. Hina/Kazusa/Yuuka/Miyako each have own ends and refusals.",
+     "positive_and_contrary": "Actual gloves/macaron apology positive; hidden owner uncertainty, failed inquiry, wages and declined meal remain.",
+     "home_keys": "MINI V004 I27",
+     "evidence": "MINI70004010/20/30; V004 C1 E006/C2 E014.",
+     "mandatory_debt": "Sora UI join unproved; the directed package’s narrative significance is ordinary service/recognition, not battle effect."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-AKEMI-SUMIRE",
+    "proposed_common_home": "P3-REL-AKEMI-SUMIRE",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 14,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-AKEMI-SUMIRE",
+     "title": "Akemi and Sumire: desired exercise and uneven company",
+     "identity_scope": "Akemi/Sumire; gym owner and Rei as bounded recipients",
+     "thesis": "Sumire→Akemi admires and imitates; Akemi→Sumire welcomes this particular watching and thanks her. Pleasure remains beside the owner’s time limit, Sumire’s fatigue and Rei’s objection. Akemi’s later reputation is not body measurement or Sumire’s demonstrated knowledge.",
+     "positive_and_contrary": "Owner-requested end and specific thanks positive; extravagant counts/time/strength untested, watching discourtesy known.",
+     "home_keys": "MINI",
+     "evidence": "MINI70007010/20;70013040 s 3 u 17 reputation.",
+     "mandatory_debt": "Complete Sumire private and Rei baseball comparisons must be reused at relevant scope for final relationship; no Rei diver join."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ARATA-LOVE-HYAKKA",
+    "proposed_common_home": "P3-REL-ARATA-LOVE-HYAKKA",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "relationship_candidates",
+    "source_row": 15,
+    "original_semantic_proposal": {
+     "package_key": "P3-REL-ARATA-LOVE-HYAKKA",
+     "title": "Arata, Love and Hyakka: theft repair and a wanted festival life",
+     "identity_scope": "Arata→Love, Love→Arata, Arata→leaders/Hyakka distinct",
+     "thesis": "Arata maintains opposition yet refuses bystander harm; Love corrects theft, stops revenge and asks tour repayment. Beginning company does not end all faction conflict.",
+     "positive_and_contrary": "Helmet return/apology/rescue/tour start positive; theft/ambush/pain and unfinished tour/missing installment 1 remain.",
+     "home_keys": "MINI V005 LOVE10",
+     "evidence": "MINI70008020/30; V005 C1 E001; Love 10§5.",
+     "mandatory_debt": "Niya/Hyakka rescue claims cost retained; Love private typed family does not supply Arata private evidence."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-GSC-SCHALE",
+    "proposed_common_home": "P3-INST-GSC-SCHALE",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-GSC-SCHALE",
+     "title": "GSC and Schale: finite administration and contested legitimacy",
+     "home_keys": "V000 V004 V100 S2V000 S2V001",
+     "thesis": "Restraint toward dissent and specific co-worker help contrast with Kaya’s superhuman hierarchy. Actual resource/capacity and public recognition do not establish lawful succession or document authentication.",
+     "positive_and_contrary": "Coup/arrest, votes/letters, tower rebuild shell/incomplete control, food/chess rest, claimant negotiations at exact source grade. Shared location does not create uniform memberships/agency.",
+     "mandatory_debt": "Relevant ledger reconciliation for the completed specialist and the current roster review remain. Unprinted legal/process results constrain the package; they are not orders to replay all primary sources."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-SRT-VALKYRIE",
+    "proposed_common_home": "P3-INST-SRT-VALKYRIE",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-SRT-VALKYRIE",
+     "title": "SRT and Valkyrie: ethos, closure and compromised policing",
+     "home_keys": "V004 V100",
+     "thesis": "Restored command/material security promises differ from reopened academy; public policing resource pressure and Kanna’s particular help differ from whole-institution vindication.",
+     "positive_and_contrary": "Park permit/supply/closure, hospital traffic exception, paid Kaiser pressure, RABBIT refusal and FOX custody preserve institutional myth against actual governance.",
+     "mandatory_debt": "Complete current RABBIT/FOX/Valkyrie ordinary owner union and roster review before final closure; no court/academy restoration invented."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-ARIUS",
+    "proposed_common_home": "P3-INST-ARIUS",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-ARIUS",
+     "title": "Arius: plural belonging after imposed redemption",
+     "home_keys": "V003 V006",
+     "thesis": "Basilica-specific ban and authoritarian text claims are countered by Maia/Squad/Subaru/residents’ plural participation, without placing one leader or sponsor above community agency.",
+     "positive_and_contrary": "Actual class/shelter/study/celebration, guarded stigma and force, reported parole and future building/record proposals are distinct.",
+     "mandatory_debt": "Full Arius private/event owners and residents’ local roles must be accounted for; no full charter/innocence/medical or housing closure."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-HYAKKA-ONMYOU",
+    "proposed_common_home": "P3-INST-HYAKKA-ONMYOU",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-HYAKKA-ONMYOU",
+     "title": "Hyakka, Onmyou and the festival: wanted belonging and disputed offices",
+     "home_keys": "V005 MINI",
+     "thesis": "Membership wanted by Yukari, Nagusa’s shared role and public art have own value; dissolution held, challenge victory and publicly simplified Ayame story remain different government acts.",
+     "positive_and_contrary": "Niya’s purging law retracted; actual Chise performance/local fading survives. Ebisu committee empty decades not town empty; formal transition/books/office unknown.",
+     "mandatory_debt": "Hyakka 78/Yin Yang 41/festival/ninja/training private and all routed GROUP/EVENT comparisons mandatory for final specialist, received arc owner reused at represented scope now."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-GEHENNA-FREEDOM",
+    "proposed_common_home": "P3-INST-GEHENNA-FREEDOM",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-GEHENNA-FREEDOM",
+     "title": "Gehenna: freedom, boundaries and unfinished restitution",
+     "home_keys": "S2V002 MINI",
+     "thesis": "Different ordinary tastes/play/rest/work give content to freedom; rhetorical one-heart unity and coercive protection must be compared with actual recipient refusals.",
+     "positive_and_contrary": "Permission/range uptake, staff quiet reports, war ammunition/confinement/rations, counterbroadcast pain/local recovery and property return promises keep grades.",
+     "mandatory_debt": "Complete Gehenna 105-owner applicability and current private/event/group whole arguments before closure; no isolated NK cause or all victims repaired."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-ODYSSEIA",
+    "proposed_common_home": "P3-INST-ODYSSEIA",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-ODYSSEIA",
+     "title": "Odysseia: tradition, club autonomy and negotiated care",
+     "home_keys": "S2V003",
+     "thesis": "Shipboard rules/hospitality/health and club wagers/initiative conflict; captain’s optional last voyage opens autonomy without abolishing all customs or formal authority.",
+     "positive_and_contrary": "Actual Olympos docking and Golden Elysium joining are specific; all fleet return, no-complaint claim, uniform agreement, guests consulted and optimal cat welfare not established.",
+     "mandatory_debt": "Complete all 14 chapter role appearances are current home; if a positive appearance in a new owner emerges receive adequate argument. No clinical/naval/legal certification."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-SHOKKAKKOU",
+    "proposed_common_home": "P3-INST-SHOKKAKKOU",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-SHOKKAKKOU",
+     "title": "所確幸: shared goods and collective autonomy",
+     "home_keys": "V004",
+     "thesis": "Decartes’s nonownership rhetoric and actual coveted food/comrades safety allow a distinct collective question rather than a formal constitution invented from delinquent label.",
+     "positive_and_contrary": "Food lure/coercion, refused supplies, gratitude/imperfect diversion and later misleading air interview coexist; Kaiser work cannot define all members’ ends.",
+     "mandatory_debt": "Local role census must retain anonymous participants separately; no global gang merge or audited property-law theory."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-GEMATRIA",
+    "proposed_common_home": "P3-INST-GEMATRIA",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-GEMATRIA",
+     "title": "Gematria: differentiated ambitions and provisional dissolution",
+     "home_keys": "V003 V100 S2V000 S2V001",
+     "thesis": "Formal/mythic language about genre, mystery and ascendancy is compared with members’ disagreement, removal, substitute-body, failed forecast and temporary dissolution.",
+     "positive_and_contrary": "Beatrice signal admission, Golconda/Francis continuity claim, Maestro body loss, Black Suit theft theory and Orwell screen/media history all retain provenance.",
+     "mandatory_debt": "Full Black Suit/public/private appearance union and all current rosters required; no verified world-rule mechanism/theft inventory or new Gematria restoration."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-RAIL-CORPORATE-COERCION",
+    "proposed_common_home": "P3-INST-RAIL-CORPORATE-COERCION",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-RAIL-CORPORATE-COERCION",
+     "title": "Rail and corporate power: property, leverage and common life",
+     "home_keys": "V001 V004 V100",
+     "thesis": "Nonomi card/rail rights and Suou’s prove-self question expose coercion inside claimed property; Kaiser payment/rail concession promise has distinct contracts and actors.",
+     "positive_and_contrary": "Corporate/subsidiary blame, armed hostage/bargain and partial restart not legal ownership/paid compensation; sharing tracks is not institution identity.",
+     "mandatory_debt": "Complete Nephthys/Highlander/Kaiser role appearance/current owner review required; G11 death/payment records remain unprinted."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-CHRONOS",
+    "proposed_common_home": "P3-INST-CHRONOS",
+    "source_lane": "MAIN_SPECIAL",
+    "source_field": "institution_candidates",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "package_key": "P3-INST-CHRONOS",
+     "title": "Chronos: reporting, curiosity and source correction",
+     "home_keys": "V004 V100 S2V001 S2V003",
+     "thesis": "Mai’s news lead/secret agreement and Shinon’s corrections distinguish journalism from eyewitness forensic record; desired scoops/interviews matter without guessing one uniform press ethic.",
+     "positive_and_contrary": "Recall rumor/rare interview, Rin misidentification/secondhand lead, casualty/prosecution reports and unspecified breaking-news colleagues each have actual provenance.",
+     "mandatory_debt": "Full current Chronos owner/relevant roster review and named local role handling required; no global Mai/Maia/junior/colleague merge."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-SISTERHOOD-CHOICE-KNOWLEDGE-LIMITS",
+    "proposed_common_home": "P3-INST-SISTERHOOD-CHOICE-KNOWLEDGE-LIMITS",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-I001",
+     "package_kind": "INSTITUTION",
+     "proposed_target": "P3-INST-SISTERHOOD-CHOICE-KNOWLEDGE-LIMITS",
+     "question": "Sisterhood: belonging, listening, knowledge and community limits",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S08",
+      "S15",
+      "S16"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-I001",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-ENSEMBLE-REMEDIAL-STUDY-ORDINARY-WORLD",
+    "proposed_common_home": "P3-ENSEMBLE-REMEDIAL-STUDY-ORDINARY-WORLD",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-E001",
+     "package_kind": "ENSEMBLE",
+     "proposed_target": "P3-ENSEMBLE-REMEDIAL-STUDY-ORDINARY-WORLD",
+     "question": "Remedial peer study and a shared ordinary world",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S01",
+      "S02",
+      "S03",
+      "S04",
+      "S15"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-E001",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-TEA-PARTY-CAPACITY-COMMUNICATION",
+    "proposed_common_home": "P3-INST-TEA-PARTY-CAPACITY-COMMUNICATION",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-I002",
+     "package_kind": "INSTITUTION",
+     "proposed_target": "P3-INST-TEA-PARTY-CAPACITY-COMMUNICATION",
+     "question": "Tea Party: official burdens, capacity and communication",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S05",
+      "S06",
+      "S07",
+      "S13",
+      "S16"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-I002",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-ENSEMBLE-TEA-PARTY-COMPANIONSHIP",
+    "proposed_common_home": "P3-ENSEMBLE-TEA-PARTY-COMPANIONSHIP",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-E002",
+     "package_kind": "ENSEMBLE",
+     "proposed_target": "P3-ENSEMBLE-TEA-PARTY-COMPANIONSHIP",
+     "question": "Tea Party peer companionship beside continuing work",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S05",
+      "S06",
+      "S07",
+      "S13"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-E002",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-RESCUE-KNIGHTS-ANSWERABILITY",
+    "proposed_common_home": "P3-INST-RESCUE-KNIGHTS-ANSWERABILITY",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-I003",
+     "package_kind": "INSTITUTION",
+     "proposed_target": "P3-INST-RESCUE-KNIGHTS-ANSWERABILITY",
+     "question": "Rescue Knights: care, authority and answerability",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S09",
+      "S10",
+      "S11",
+      "S12",
+      "S14"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-I003",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-ENSEMBLE-ANTIQUE-SERAPHIM-CHOSEN-PERFORMANCE",
+    "proposed_common_home": "P3-ENSEMBLE-ANTIQUE-SERAPHIM-CHOSEN-PERFORMANCE",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-E003",
+     "package_kind": "ENSEMBLE",
+     "proposed_target": "P3-ENSEMBLE-ANTIQUE-SERAPHIM-CHOSEN-PERFORMANCE",
+     "question": "Antique Seraphim: chosen performance and different wanted selves",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S08",
+      "S11",
+      "S16"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-E003",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-HANAKO-KOHARU-HELP-PERMISSION",
+    "proposed_common_home": "P3-REL-HANAKO-KOHARU-HELP-PERMISSION",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-R001",
+     "package_kind": "DIRECTED_RELATIONSHIP",
+     "proposed_target": "P3-REL-HANAKO-KOHARU-HELP-PERMISSION",
+     "question": "Hanako ↔ Koharu: help, teasing and unequal permissions",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S03",
+      "S04",
+      "S15"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-R001",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-MARI-SAKURAKO-MINE-CHOICE-CARE",
+    "proposed_common_home": "P3-REL-MARI-SAKURAKO-MINE-CHOICE-CARE",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-R002",
+     "package_kind": "DIRECTED_ROLE_GROUP_RELATIONSHIP",
+     "proposed_target": "P3-REL-MARI-SAKURAKO-MINE-CHOICE-CARE",
+     "question": "Mari ↔ Sakurako/Mine: junior choice and leaders’ care",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S08",
+      "S11",
+      "S16"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-R002",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SERINA-HANAE-CORRECTION-COOPERATION",
+    "proposed_common_home": "P3-REL-SERINA-HANAE-CORRECTION-COOPERATION",
+    "source_lane": "TRINITY_V1",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-R003",
+     "package_kind": "DIRECTED_RELATIONSHIP",
+     "proposed_target": "P3-REL-SERINA-HANAE-CORRECTION-COOPERATION",
+     "question": "Serina ↔ Hanae: correction and cooperation within care",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap; standalone versus complete section coverage remains ROOT decision",
+     "argument_source_ids": [
+      "S09",
+      "S10",
+      "S12"
+     ],
+     "complete_argument_and_serious_counterevidence": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V1.md section5 P3-XTR-R003",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTR-P001",
+    "proposed_common_home": "P3-REL-HIFUMI-AZUSA-WANTED-GIFTS-PEER-BELONGING",
+    "source_lane": "TRINITY_V1",
+    "source_field": "pending_connected_questions",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-P001",
+     "question_and_positive_retrieval": "Hifumi → Azusa: a wanted gift and peer belonging",
+     "consequential_remaining_work": "The gift and private fan/care argument are positive retrieval. Receive the complete accepted public peer argument before claiming a distinct directed explanatory trajectory; one attributed gift is not automatically a whole relationship package.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "no_exclusion": true,
+     "adoption_state": "ROOT_PENDING"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false,
+    "updated_receiving": "E803 full accepted public ordinary argument personally received; gift/private arguments attributed original Trinity custody; ROOT directed scope acceptance pending"
+   },
+   {
+    "original_question_key": "P3-XTR-P002",
+    "proposed_common_home": "P3-REL-MIKA-KOHARU-PROTECTION-ORDINARY-RETURN",
+    "source_lane": "TRINITY_V1",
+    "source_field": "pending_connected_questions",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-P002",
+     "question_and_positive_retrieval": "Mika ↔ Koharu: public protection, returned accessories and ordinary peer agency",
+     "consequential_remaining_work": "Attributed consequential routes exist. Join complete accepted MAIN directed arguments and opposite responses; no automatic package from a protection mention.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "no_exclusion": true,
+     "adoption_state": "ROOT_PENDING"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTR-P003",
+    "proposed_common_home": "P3-REL-HANAKO-SAKURAKO-UI-BARGAIN-KNOWLEDGE-LIMITS",
+    "source_lane": "TRINITY_V1",
+    "source_field": "pending_connected_questions",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-P003",
+     "question_and_positive_retrieval": "Hanako ↔ Sakurako / Ui: negotiated copying, institutional fear and limits",
+     "consequential_remaining_work": "E828's meaningful bargain is received. Allocate distinct direction/knowledge-care questions against I001 and Ui's still-pending independent biography; fear is not actual torture.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "no_exclusion": true,
+     "adoption_state": "ROOT_PENDING"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTR-P004",
+    "proposed_common_home": "P3-SECTION-FESTIVAL-CROSS-SCHOOL-CARE-RECIPIENTS",
+    "source_lane": "TRINITY_V1",
+    "source_field": "pending_connected_questions",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-P004",
+     "question_and_positive_retrieval": "Cross-school festival care: Sena, Serina, Mari and other recipients",
+     "consequential_remaining_work": "E818 cooperation is substantive. Sena's full family/public argument and recipient boundaries are needed for independent relation/institution scope. No school-role substitution.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "no_exclusion": true,
+     "adoption_state": "ROOT_PENDING"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTR-P005",
+    "proposed_common_home": "P3-INST-PUBLIC-FESTIVAL-FAIRNESS-SPECTATORS-AUTOMATED-FORCE",
+    "source_lane": "TRINITY_V1",
+    "source_field": "pending_connected_questions",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-P005",
+     "question_and_positive_retrieval": "Festival organization, constrained participation and ordinary enjoyment",
+     "consequential_remaining_work": "E818's borrowing disqualification, dangerous cheer device, work burden, commercial activity and differing enjoyment supply a real candidate. Full-cast allocation and the new local actor duties remain to be adjudicated; no automatic giant ensemble from forty-three named labels.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "no_exclusion": true,
+     "adoption_state": "ROOT_PENDING"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTR-P006",
+    "proposed_common_home": "P3-INST-IDOL-SPONSORSHIP-AUDIENCES-PENDING",
+    "source_lane": "TRINITY_V1",
+    "source_field": "pending_connected_questions",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTR-P006",
+     "question_and_positive_retrieval": "Idols, sponsorship and audiences beyond Antique Seraphim",
+     "consequential_remaining_work": "E841 retains Abydos clothing refusals, police embarrassment and doughnut wants, Utaha's mixed enka reception, Airi's café revision, Tsurugi's craft/role and Love/Helmet Gang leisure. Those families and local viewers need their own accepted arguments/rosters before a new shared package is frozen.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "no_exclusion": true,
+     "adoption_state": "ROOT_PENDING"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+    "proposed_common_home": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-E001",
+     "question": "Sweets Club belonging, taste and unequal knowledge",
+     "proposed_target": "P3-ENSEMBLE-SWEETS-BELONGING-UNEQUAL-KNOWLEDGE",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-E001",
+     "source_ids_in_argument": [
+      "S01",
+      "S07",
+      "S10",
+      "S11"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-ENSEMBLE-SWEETS-TEMPORARY-BAND-AGENCY",
+    "proposed_common_home": "P3-ENSEMBLE-SWEETS-TEMPORARY-BAND-AGENCY",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-E002",
+     "question": "temporary band work, skill, parity and memory",
+     "proposed_target": "P3-ENSEMBLE-SWEETS-TEMPORARY-BAND-AGENCY",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-E002",
+     "source_ids_in_argument": [
+      "S01",
+      "S11"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES",
+    "proposed_common_home": "P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-R001",
+     "question": "Kazusa ↔ Reisa: connection, unwanted rivalry and renewed boundaries",
+     "proposed_target": "P3-REL-KAZUSA-REISA-DIRECTED-BOUNDARIES",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-R001",
+     "source_ids_in_argument": [
+      "S01",
+      "S04",
+      "S10",
+      "S11"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY",
+    "proposed_common_home": "P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-I001",
+     "question": "Justice Task Force: chosen school life, force and shared limits",
+     "proposed_target": "P3-INST-JUSTICE-WORK-LEISURE-ANSWERABILITY",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-I001",
+     "source_ids_in_argument": [
+      "S02",
+      "S03",
+      "S04",
+      "S08",
+      "S12",
+      "S13",
+      "S15",
+      "S17"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-VIGILANCE-CHOSEN-PROTECTION-WANTED-LIFE",
+    "proposed_common_home": "P3-INST-VIGILANCE-CHOSEN-PROTECTION-WANTED-LIFE",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-I002",
+     "question": "self-named Vigilance: protective action and wanted life",
+     "proposed_target": "P3-INST-VIGILANCE-CHOSEN-PROTECTION-WANTED-LIFE",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-I002",
+     "source_ids_in_argument": [
+      "S04",
+      "S10",
+      "S12"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SUZUMI-REISA-FANDOM-COMPANY-EXPOSURE",
+    "proposed_common_home": "P3-REL-SUZUMI-REISA-FANDOM-COMPANY-EXPOSURE",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-R002",
+     "question": "Suzumi ↔ Reisa: music, fiction, mutual wants and exposure",
+     "proposed_target": "P3-REL-SUZUMI-REISA-FANDOM-COMPANY-EXPOSURE",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-R002",
+     "source_ids_in_argument": [
+      "S04",
+      "S12"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+    "proposed_common_home": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-I003",
+     "question": "library access, cherished objects and reader service",
+     "proposed_target": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-I003",
+     "source_ids_in_argument": [
+      "S05",
+      "S12",
+      "S16"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ICHIKA-MIKA-APPRAISAL-CHOSEN-HELP",
+    "proposed_common_home": "P3-REL-ICHIKA-MIKA-APPRAISAL-CHOSEN-HELP",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-R003",
+     "question": "Ichika → Mika and Mika → Ichika: changed appraisal, care and practical help",
+     "proposed_target": "P3-REL-ICHIKA-MIKA-APPRAISAL-CHOSEN-HELP",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-R003",
+     "source_ids_in_argument": [
+      "S04",
+      "S13"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-ENSEMBLE-LOVE-GROUP-WORK-PLAY-RECIPIENTS",
+    "proposed_common_home": "P3-ENSEMBLE-LOVE-GROUP-WORK-PLAY-RECIPIENTS",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-I004",
+     "question": "Love's group: practical leadership, paid work and ordinary play",
+     "proposed_target": "P3-ENSEMBLE-LOVE-GROUP-WORK-PLAY-RECIPIENTS",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-I004",
+     "source_ids_in_argument": [
+      "S06",
+      "S12",
+      "S17"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-LOVE-ARATA-HELMET-RETURN-COMPANY",
+    "proposed_common_home": "P3-REL-ARATA-LOVE-HYAKKA",
+    "source_lane": "TRINITY_V2",
+    "source_field": "positive_connected_question_proposals",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-R004",
+     "question": "Love ↔ Arata: corrected taking, concern and reciprocal company",
+     "proposed_target": "P3-REL-LOVE-ARATA-HELMET-RETURN-COMPANY",
+     "decision": "POSITIVE_DISTINCT_SCOPED_SEMANTIC_QUESTION_PROPOSAL",
+     "adoption_state": "ROOT_PENDING",
+     "complete_argument_reference": "BLUE_ARCHIVE_PHASE3_TRINITY_ELIGIBILITY_REVIEW_V2.md section5 P3-XTV2-R004",
+     "source_ids_in_argument": [
+      "S06",
+      "S14"
+     ],
+     "required_before_package_count": "ROOT must receive full argument and allocate overlap while preserving distinct required semantic question",
+     "denominator_entry_claimed": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P001",
+    "proposed_common_home": "P3-REL-HASUMI-TSURUGI-UNEQUAL-RECEPTION",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P001",
+     "positive_lead": "Hasumi ↔ Tsurugi peer care and unequal reception",
+     "remaining_consequential_work": "Allocate against Justice I001 and each monograph; preserve Hasumi relief, Tsurugi joy and Sweets fear, not one mutual comfort label.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P002",
+    "proposed_common_home": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P002",
+     "positive_lead": "Ui ↔ Shimiko reading/craft/rest differences",
+     "remaining_consequential_work": "Decide whether full directed relationship adds a question beyond I003; actual complete E851 roster and specific peer replies remain needed.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P003",
+    "proposed_common_home": "P3-REL-ICHIKA-KASUMI-EXPERTISE-EXCHANGE-BOUNDARIES",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P003",
+     "positive_lead": "Ichika ↔ Kasumi expertise, hostility, exchange and denied friendship",
+     "remaining_consequential_work": "E848 supplies strong directed means/ends; consequential earlier train/current Kasumi private argument and overlap with Gehenna duties must be received before a complete independent review.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false,
+    "updated_receiving": "E830 full current owner personally received; Gehenna Kasumi complete author custody; earlier required comparison debt resolved at this scope, ROOT independent allocation/adoption still pending"
+   },
+   {
+    "original_question_key": "P3-XTV2-P004",
+    "proposed_common_home": "P3-SECTION-REMEDIAL-JUSTICE-ORDINARY-GRATITUDE",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P004",
+     "positive_lead": "Hifumi/Azusa/Koharu ↔ Justice ordinary gratitude and return wishes",
+     "remaining_consequential_work": "E848 helper meanings are complete; allocate with frozen V1 Remedial/Justice questions, keep reported memories and grade-return limits.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P005",
+    "proposed_common_home": "P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P005",
+     "positive_lead": "Public performance, audiences and falsely presented violence",
+     "remaining_consequential_work": "E836/E841/E851 supply different audiences; full literal rosters and distinct question allocation required, not a universal stage-harm package from repetition alone.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P006",
+    "proposed_common_home": "P3-SECTION-LOVE-WORK-EMPLOYER-BACKUP-PASSENGERS",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P006",
+     "positive_lead": "Love group ↔ paid employer/anonymous backup/passengers",
+     "remaining_consequential_work": "E851 contains reported economic and travel chain; exact actor roster and adequate distinct perspective argument remain pending.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P007",
+    "proposed_common_home": "P3-CHAR-TSUMUGI-SOURCE-SCOPED-PENDING",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P007",
+     "positive_lead": "Tsumugi's source-local artist/mentor role",
+     "remaining_consequential_work": "Named actor absent inspected candidate labels; complete E836 meaning is positive retrieval but independent eleven-dimension eligibility remains pending.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XTV2-P008",
+    "proposed_common_home": "P3-CHAR-MIRAI-E851-SOURCE-SCOPED-PENDING",
+    "source_lane": "TRINITY_V2",
+    "source_field": "pending_connected_questions",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "proposal_responsibility_id": "P3-XTV2-P008",
+     "positive_lead": "Mirai's source-local marketing/pseudoscience role",
+     "remaining_consequential_work": "Named actor absent inspected candidate labels; E851 gives persistent advertising/counterevidence, but independent person/family join and complete eligibility argument remain pending.",
+     "decision": "PENDING_DISTINCT_SCOPE_ARGUMENT_OR_ALLOCATION",
+     "required_review": true,
+     "no_exclusion": true
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ABYDOS-COMMITTEE-CARE-AND-LEISURE",
+    "proposed_common_home": "P3-REL-ABYDOS-COMMITTEE-CARE-AND-LEISURE",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-ABYDOS-COMMITTEE-CARE-AND-LEISURE",
+     "positive": "Five students try to relieve Ayane, negotiate recruitment/money, defend each other and want play; G2101/2102, E814, E841",
+     "contrary_and_limit": "Damaged facility, surprise clothes, ignored refusals; care is not unanimous permission or legal liability",
+     "allocation": "Require directed ensemble, distinct institutional question below"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-AYANE-SERIKA-PARTICIPATION",
+    "proposed_common_home": "P3-REL-AYANE-SERIKA-PARTICIPATION",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-AYANE-SERIKA-PARTICIPATION",
+     "positive": "Defense after E814 crash and E841:012 changed rehearsal choices alter burden",
+     "contrary_and_limit": "Earlier refusal/fear survives later fun; no contest/debt success",
+     "allocation": "Require dyadic synthesis"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SHIROKO-AYANE-MEANS-AND-CREDIT",
+    "proposed_common_home": "P3-REL-SHIROKO-AYANE-MEANS-AND-CREDIT",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-SHIROKO-AYANE-MEANS-AND-CREDIT",
+     "positive": "Tactical action meets net contribution, technical limits and dignity E814/E860:017",
+     "contrary_and_limit": "Ruined rod; Ayane owns net credit; crab event is dream-qualified",
+     "allocation": "Justified question, ROOT decides independent dyad versus explicit committee-ensemble home; no automatic count"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-NONOMI-SUOU-RESOURCES-AND-CHOICE",
+    "proposed_common_home": "P3-REL-NONOMI-SUOU-RESOURCES-AND-CHOICE",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-NONOMI-SUOU-RESOURCES-AND-CHOICE",
+     "positive": "MAIN card/rail/hostage choices constrain both people; full Nonomi private argument now received",
+     "contrary_and_limit": "Suou independent vulnerability and ending doubts; unquantified wealth/legal rights",
+     "allocation": "Require, overlap existing rail/corporate institution"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-MISAKI-SENSEI-REFUSAL-AND-HELP",
+    "proposed_common_home": "P3-REL-MISAKI-SENSEI-REFUSAL-AND-HELP",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-MISAKI-SENSEI-REFUSAL-AND-HELP",
+     "positive": "Imposed contact versus own help request; crafting/talk and photo deletion request",
+     "contrary_and_limit": "Intrusion, unperformed deletion, no retrospective assent or cure",
+     "allocation": "Require recurring ethical dyad"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SAORI-SENSEI-WORK-ART-AND-PERMISSION",
+    "proposed_common_home": "P3-REL-SAORI-SENSEI-WORK-ART-AND-PERMISSION",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-SAORI-SENSEI-WORK-ART-AND-PERMISSION",
+     "positive": "Work help, art desires and differentiated photo/waist permissions",
+     "contrary_and_limit": "Crowd pressure, failed transfer, unpaid wages and earlier refusal remain",
+     "allocation": "Require; link existing Sensei ethics responsibility"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-HIYORI-SENSEI-AID-DECEPTION-AND-TASTE",
+    "proposed_common_home": "P3-REL-HIYORI-SENSEI-AID-DECEPTION-AND-TASTE",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-HIYORI-SENSEI-AID-DECEPTION-AND-TASTE",
+     "positive": "Finite aid, gift initiative, actual fireworks and changed objects valued",
+     "contrary_and_limit": "False contest story, contested confiscation, forecast not cure",
+     "allocation": "Require recurring recipient/deception dyad"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SERIKA-SENSEI-WAGES-TOUCH-AND-RECOGNITION",
+    "proposed_common_home": "P3-REL-SERIKA-SENSEI-WAGES-TOUCH-AND-RECOGNITION",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-SERIKA-SENSEI-WAGES-TOUCH-AND-RECOGNITION",
+     "positive": "Fair pay, earned bag, actual company/rest/practical help",
+     "contrary_and_limit": "Wrong advice, head pat/boat stops, hidden subsidy, pursuit after refusal",
+     "allocation": "Require; G03 remains OPEN"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-AYANE-SENSEI-COMPETENCE-REST-AND-INTRUSION",
+    "proposed_common_home": "P3-REL-AYANE-SENSEI-COMPETENCE-REST-AND-INTRUSION",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-AYANE-SENSEI-COMPETENCE-REST-AND-INTRUSION",
+     "positive": "Requested help, rest, individual thanks, chosen rehearsal",
+     "contrary_and_limit": "Ignored sleep stop/shaking, misunderstanding and partial repair",
+     "allocation": "Require recurring ethical question; ROOT may consolidate only with explicit coverage"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-SUBARU-SENSEI-MUSIC-GIFTS-AND-MORAL-DISAGREEMENT",
+    "proposed_common_home": "P3-REL-SUBARU-SENSEI-MUSIC-GIFTS-AND-MORAL-DISAGREEMENT",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-SUBARU-SENSEI-MUSIC-GIFTS-AND-MORAL-DISAGREEMENT",
+     "positive": "Invited river music, meal care and cookie recognition",
+     "contrary_and_limit": "Irritating rival correction, own food cost, limited gift trust/future music",
+     "allocation": "Require directed disagreement/recognition dyad"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ARIUS-SQUAD-PLURAL-ORDINARY-LIVES",
+    "proposed_common_home": "P3-REL-ARIUS-SQUAD-PLURAL-ORDINARY-LIVES",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 10,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-ARIUS-SQUAD-PLURAL-ORDINARY-LIVES",
+     "positive": "E838 games/photo and divergent interests; E853:008 gardening/model/funding conversation",
+     "contrary_and_limit": "DJ coercion, unpaid work, hidden burdens and sensory limits survive fun",
+     "allocation": "Require directed ensemble, no replacement of four monographs"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-HOSHINO-YUME",
+    "proposed_common_home": "P3-REL-HOSHINO-YUME",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 11,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-HOSHINO-YUME",
+     "positive": "Existing MAIN question now has full Hoshino private receiving",
+     "contrary_and_limit": "Missing G11 records; rest proves no healing",
+     "allocation": "Reuse once"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-MAIA-SUBARU-ARIUS",
+    "proposed_common_home": "P3-REL-MAIA-SUBARU-ARIUS",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 12,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-MAIA-SUBARU-ARIUS",
+     "positive": "Existing MAIN care/grievance question now has Subaru private receiving",
+     "contrary_and_limit": "Maia independent; no charter/unanimity/innocence",
+     "allocation": "Reuse once"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-KEI-SENSEI-GIFT-FRICTION",
+    "proposed_common_home": "P3-REL-KEI-SENSEI-GIFT-FRICTION",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 13,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-KEI-SENSEI-GIFT-FRICTION",
+     "positive": "E141 ignored return request then local thanks/admission",
+     "contrary_and_limit": "No identity join/file authentication/retroactive permission",
+     "allocation": "ROOT/Millennium allocation pending; no second Kei count"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-KAITEN-ORDINARY-ENDS-AND-UNEQUAL-LABOR",
+    "proposed_common_home": "P3-REL-KAITEN-ORDINARY-ENDS-AND-UNEQUAL-LABOR",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 14,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-KAITEN-ORDINARY-ENDS-AND-UNEQUAL-LABOR",
+     "positive": "E809 five members' different dreams, Pink's labor, cost/risk/empty funds and robot choices; MAIN/Final/E821 reuse",
+     "contrary_and_limit": "Different people, not one commercial conscience; unfinished contracts",
+     "allocation": "Require ensemble; A117–121 individual eligibility pending ROOT union, ensemble forecloses none"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-ODYSSEIA-SAMMY-CARE",
+    "proposed_common_home": "P3-REL-ODYSSEIA-SAMMY-CARE",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "directed_relationship_and_ensemble_proposals",
+    "source_row": 15,
+    "original_semantic_proposal": {
+     "package_target": "P3-REL-ODYSSEIA-SAMMY-CARE",
+     "positive": "Existing MAIN question enriched by Sumika hobby/apology contradiction",
+     "contrary_and_limit": "Grief/care failure, conjectural marine history, no common calendar",
+     "allocation": "Reuse once; new overlap addition requires ROOT receiving"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-ABYDOS-COMMITTEE-LABOR-RESOURCES-AND-BELONGING",
+    "proposed_common_home": "P3-INST-ABYDOS-COMMITTEE-LABOR-RESOURCES-AND-BELONGING",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "institutions_and_combined_sensei_responsibility",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "package_target": "P3-INST-ABYDOS-COMMITTEE-LABOR-RESOURCES-AND-BELONGING",
+     "argument": "require.** MAIN debt/office/corporate pressures and G2101/2102 procurement, recruitment, leisure, property damage and checked profit scheme are institution evidence. E810 gifts, E814 holiday and E841 rehearsal show what labor/resources should allow. Formal office, manager liability, balances, debt discharge, compensation and universal permission remain claim-specific limits. This overlaps but does not eliminate directed response among people."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-ARIUS",
+    "proposed_common_home": "P3-INST-ARIUS",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "institutions_and_combined_sensei_responsibility",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "package_target": "P3-INST-ARIUS",
+     "argument": "reuse/enrich.** V003 imposed purpose, V006 remaining residents/archive/building/parole and Squad/Subaru ordinary choices support plural belonging. E810/E838/E853/E821 receiving closes argument intake debt, not structural outcomes or masked-speaker attribution. Resentment, sensory limits, imperfect jobs and residents who do not speak through Saori remain. Holiday is no repaired housing/utility/education system."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-PRECARIOUS-WORK-ART-CREDIT-AND-RECIPIENT-POWER",
+    "proposed_common_home": "P3-INST-PRECARIOUS-WORK-ART-CREDIT-AND-RECIPIENT-POWER",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "institutions_and_combined_sensei_responsibility",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "package_target": "P3-INST-PRECARIOUS-WORK-ART-CREDIT-AND-RECIPIENT-POWER",
+     "argument": "require bounded synthesis.** Saori bank/foreman/trader/restaurant/stage, Serika wages/shrine/event, DJBoB forced restraint/unpaid pay and shrine-prize fraud are actual dependencies. Who assigns tasks, withholds pay, demands exclusivity, can refuse contact, owns images or accesses credit changes action. Preserve employers' exploitation and protagonists' coercion together. No fair-law verdict, arrears total, technical skill certificate or single cross-world employer is asserted. Reconcile with other lanes' work/PS68 controls before adding a duplicate institution."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-RAIL-CORPORATE-COERCION",
+    "proposed_common_home": "P3-INST-RAIL-CORPORATE-COERCION",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "institutions_and_combined_sensei_responsibility",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "package_target": "P3-INST-RAIL-CORPORATE-COERCION",
+     "argument": "reuse.** Nonomi/Suou MAIN choices now have complete Nonomi private receiving. E815 forged land/title and E860 questioned Kaiser label are local comparative positions, not authenticated offices or continuity. ROOT's corporate/outside-cohort roster duties remain pending."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-CHRONOS",
+    "proposed_common_home": "P3-INST-CHRONOS",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "institutions_and_combined_sensei_responsibility",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "package_target": "P3-INST-CHRONOS",
+     "argument": "reuse.** E809 recorded admission/broadcast, E818 field interview and E853 career/image publicity raise directed visibility/source/permission questions. Mai and Shinon remain independent unjoined MAIN humans. Organization/recording alone proves neither identical ethics nor a published article. ROOT/other lanes receive exact union."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-SENSEI-ETHICS-INSTITUTIONAL-ROLE",
+    "proposed_common_home": "P3-SENSEI-ETHICS-INSTITUTIONAL-ROLE",
+    "source_lane": "ABYDOS_ARIUS",
+    "source_field": "institutions_and_combined_sensei_responsibility",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "package_target": "P3-SENSEI-ETHICS-INSTITUTIONAL-ROLE",
+     "argument": "reuse.** Ten families enlarge the existing required Sensei responsibility with actual help, wrong advice, imposed contact, gifts/refusals, chosen alternatives and promises. Compare recipient-by-recipient. Neither universal competence nor universal failure follows. Relationship and institution packages across the full eligible cast remain required Phase 3 work, not optional monograph polish."
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-R001",
+    "proposed_common_home": "P3-REL-MEL-MOMIJI-CRAFT-PRIVACY-RECIPROCAL-CORRECTION",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-R001",
+     "kind": "DIRECTED_RELATIONSHIP",
+     "subject": "Mel ↔ Momiji",
+     "decision": "ELIGIBLE_REQUIRED",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-R002",
+    "proposed_common_home": "P3-REL-YAKUMO-TAKANE-READERS-JUDGMENT",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-R002",
+     "kind": "DIRECTED_RELATIONSHIP",
+     "subject": "Yakumo ↔ Takane",
+     "decision": "ELIGIBLE_REQUIRED",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-I001",
+    "proposed_common_home": "P3-INST-RED-WINTER-SECRETARIAT-SECURITY",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-I001",
+     "kind": "INSTITUTION",
+     "subject": "Red Winter Secretariat/security",
+     "decision": "ELIGIBLE_REQUIRED",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-I002",
+    "proposed_common_home": "P3-INST-CLASS227-HOME-HOSPITALITY-PETITIONS",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-I002",
+     "kind": "INSTITUTION_ENSEMBLE",
+     "subject": "Class227",
+     "decision": "ELIGIBLE_REQUIRED",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-I003",
+    "proposed_common_home": "P3-INST-KNOWLEDGE-LIBERATION-LABOR-ACCESS",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-I003",
+     "kind": "INSTITUTION",
+     "subject": "Knowledge Liberation Front",
+     "decision": "ELIGIBLE_REQUIRED",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-I004",
+    "proposed_common_home": "P3-INST-PUBLISHING-CIRCULATION-BURDENS",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-I004",
+     "kind": "INSTITUTION",
+     "subject": "Publishing Club",
+     "decision": "ELIGIBLE_REQUIRED",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XRW-I005",
+    "proposed_common_home": "P3-INST-WORKS-CRAFT-WAGES-PRESSURE",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-I005",
+     "kind": "INSTITUTION",
+     "subject": "Works Club",
+     "decision": "PENDING_COMPLETE_RELEVANT_OWNER_AND_ALLOCATION",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false,
+    "updated_receiving": "ROOT complete body plus E802/E808 full accepted public owners personally received; positive scoped institution, wider convergence remains pending"
+   },
+   {
+    "original_question_key": "P3-XRW-R003",
+    "proposed_common_home": "P3-REL-NODOKA-SHIGURE-HOME-TOGETHERNESS-REFUSAL",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-R003",
+     "kind": "DIRECTED_RELATIONSHIP",
+     "subject": "Nodoka ↔ Shigure",
+     "decision": "PENDING_DISTINCT_ALLOCATION",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false,
+    "updated_receiving": "ROOT full Red Winter body and E808 current full owner personally received; distinct directed home now positively proposed"
+   },
+   {
+    "original_question_key": "P3-XRW-I006",
+    "proposed_common_home": "P3-INST-RED-WINTER-SCHOOL-CONVERGENCE-PENDING",
+    "source_lane": "ROOT_RED_WINTER",
+    "source_field": "shared_questions",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "candidate_unit_id": "P3-XRW-I006",
+     "kind": "INSTITUTION",
+     "subject": "Red Winter school",
+     "decision": "PENDING_FULL_SCHOOL_CONVERGENCE_AND_ALLOCATION",
+     "canonical_adoption": "PENDING",
+     "argument": "ROOT_RED_WINTER10_ELIGIBILITY_ARGUMENT_V1.md section3"
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-INST-VALKYRIE-DUTY-REST-RECIPIENTS",
+    "proposed_common_home": "P3-INST-VALKYRIE-DUTY-REST-RECIPIENTS",
+    "source_lane": "ROOT_VALKYRIE_V2",
+    "source_field": "connected_questions",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "target": "P3-INST-VALKYRIE-DUTY-REST-RECIPIENTS",
+     "classification": "SCOPED_INSTITUTION",
+     "decision": "POSITIVE_DISTINCT_QUESTION",
+     "argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section6",
+     "actual_literary_package_complete": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-REL-FUBUKI-KIRINO-BURDEN-WANTED-LIFE",
+    "proposed_common_home": "P3-REL-FUBUKI-KIRINO-BURDEN-WANTED-LIFE",
+    "source_lane": "ROOT_VALKYRIE_V2",
+    "source_field": "connected_questions",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "target": "P3-REL-FUBUKI-KIRINO-BURDEN-WANTED-LIFE",
+     "classification": "DIRECTED_RELATIONSHIP",
+     "decision": "POSITIVE_DISTINCT_QUESTION",
+     "argument": "ROOT_VALKYRIE3_ELIGIBILITY_ARGUMENT_V2.md section6",
+     "actual_literary_package_complete": false
+    },
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::1",
+    "proposed_common_home": "P3-INST-PREFECT-PROTECTION-INFORMATION-FORCE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item1",
+     "responsibility": "Prefect protection/information/answerable-force institution",
+     "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::2",
+    "proposed_common_home": "P3-INST-PANDEMONIUM-ROLES-RESOURCES-SELECTIVE-CARE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item2",
+     "responsibility": "Pandemonium role/resource/selective-care institution",
+     "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::3",
+    "proposed_common_home": "P3-ENSEMBLE-GOURMET-DIFFERENTIATED-PLEASURE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item3",
+     "responsibility": "Gourmet differentiated pleasure/unreliable care ensemble",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::4",
+    "proposed_common_home": "P3-INST-SCHOOL-LUNCH-WORK-RECIPIENTS",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-FUUKA-JURI-RECIPROCAL-CARE-BURDEN"
+    ],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item4",
+     "responsibility": "School Lunch institution plus distinct Fuuka↔Juri relationship allocation",
+     "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::5",
+    "proposed_common_home": "P3-REL-GOURMET-FUUKA-REQUEST-REFUSAL-NEW-AGREEMENT",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item5",
+     "responsibility": "Gourmet→Fuuka directed ensemble relationship",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::6",
+    "proposed_common_home": "P3-INST-HOT-SPRINGS-WORK-RECIPIENTS",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-MEG-KASUMI-CRAFT-LEVERAGE"
+    ],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item6",
+     "responsibility": "Hot Springs institution/ensemble plus distinct Meg↔Kasumi relationship",
+     "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::7",
+    "proposed_common_home": "P3-REL-HINA-AKO-SERVICE-INDEPENDENT-WANTS",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item7",
+     "responsibility": "Hina↔Ako service/independent-wants relationship",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::8",
+    "proposed_common_home": "P3-ENSEMBLE-PANDEMONIUM-IBUKI-DIFFERENT-DIRECTIONS",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-MAKOTO-IBUKI",
+     "P3-REL-IROHA-IBUKI"
+    ],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item8",
+     "responsibility": "Makoto↔Ibuki and Iroha↔Ibuki distinct directions, home partition for ROOT",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::9",
+    "proposed_common_home": "P3-REL-KIRARA-ERIKA-EXPLORATION-BROADCAST",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item9",
+     "responsibility": "Kirara↔Erika exploration/broadcast/other-student-place ensemble",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::10",
+    "proposed_common_home": "P3-INST-PS68-COMMAND-FINANCE-RESPONSIBILITY",
+    "required_distinct_question_sections_or_homes": [
+     "P3-ENSEMBLE-PS68-BELONGING"
+    ],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item10",
+     "responsibility": "PS68 command/finance/public responsibility institution plus belonging ensemble",
+     "decision": "ELIGIBLE_INSTITUTION_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::11",
+    "proposed_common_home": "P3-REL-PS68-HARUKA-REPAYMENT-RECOGNITION",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-ARU-HARUKA",
+     "P3-REL-MUTSUKI-HARUKA"
+    ],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 10,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item11",
+     "responsibility": "Aru↔Haruka and Mutsuki↔Haruka repayment/recognition directions",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "GEHENNA::significant_relationship_and_institution_responsibilities::12",
+    "proposed_common_home": "P3-REL-KAYOKO-AKO-PS68-PANDEMONIUM-BOUNDARIES",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "GEHENNA",
+    "source_field": "significant_relationship_and_institution_responsibilities",
+    "source_row": 11,
+    "original_semantic_proposal": {
+     "argument_section": "§3 item12",
+     "responsibility": "Kayoko↔Ako / PS68↔Pandemonium boundary responsibility",
+     "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_OR_ENSEMBLE_PACKAGE",
+     "root_allocation": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::1",
+    "proposed_common_home": "P3-INST-HYAKKA-CHOSEN-SERVICE-SUCCESSION",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "argument_section": "§3.1",
+     "responsibility": "Hyakka — chosen service, imperfect succession and distributed repair",
+     "whole_argument": "The institutional package must explain why real reassembly and locally successful defense coexist with dissolution held rather than cancelled, apparent succession victories without displayed office/emblem instruments, unresolved funding/attrition and private ordinary wishes. V005's public simplification of Ayame modes must be assessed as an institution's action, not an exhaustive identity answer.847's help, honest weakness and competitive choice show actual local cooperation without finishing the institution. Quiet gardening and waiting beside sleeping Ayame belong inside what this service protects, rather than becoming a decorative ending. The package must retain Yukari's household boundary and the old unnamed miko as a distinct historical responsibility, never automatically Ayame.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::2",
+    "proposed_common_home": "P3-REL-AYAME-NAGUSA",
+    "required_distinct_question_sections_or_homes": [
+     "P3-SECTION-HYAKKA-JUNIOR-SENIOR-REPAIR"
+    ],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "argument_section": "§3.2",
+     "responsibility": "Nagusa→Ayame and Hyakka junior→senior repair",
+     "whole_argument": "Nagusa's waiting and chosen present companionship deserve a significant directed relationship responsibility distinct from Ayame's possible past or future assent. V005's warm, hostile, shadow, story-framed, castle and returned-sleeping forms are unresolved continuity questions; absence of an awake reply prevents a claim of restored reciprocity. Kikyou wants Nagusa herself and consents to witness, Renge wants reunion/apology, and Yukari's admiration persists after disclosure. Their resentment and requested repair are not identical experiences. ROOT should allocate Nagusa/Ayame separately from the four-person repair ensemble so that the sleeping person's unknown choice survives instead of being narrated through the able companions alone.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::3",
+    "proposed_common_home": "P3-REL-RENGE-KIKYOU-SUPPORT-CONTEST-PRIVACY",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "argument_section": "§3.3",
+     "responsibility": "Renge↔Kikyou — support that permits real contest and private limits",
+     "whole_argument": "This relationship has a distinct longitudinal argument in847: initial refusal respected, concealed fear, rescue and mutual self-blame, imperfect teaching, refusal of gifted victory and chosen serious contest. The private novel/youth/craft interests and V005 hurt complicate both automatic childhood intimacy and conflictless mutual support. Childhood memories are reports, not retrospectively opened scenes. The genuine win and local learned swim must be preserved alongside body contact, secret pressure and incomplete cure. A final home must argue both directions, not use one person's care as proof of the other's permanent consent.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::4",
+    "proposed_common_home": "P3-INST-ONMYOU-DELEGATION-INFORMATION",
+    "required_distinct_question_sections_or_homes": [
+     "P3-ENSEMBLE-CHISE-KAHO-NIYA-AUTHORED-GRATITUDE"
+    ],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "argument_section": "§3.4",
+     "responsibility": "Onmyou and Chise→Kaho/Niya gratitude",
+     "whole_argument": "Onmyou institutional work needs an independent account of delegation, information, jurisdiction, performance framing and the costs of an administratively convenient bluff. GROUP320's Chise-authored gratitude requires a directed relationship or three-person ensemble home: she recognises particular tastes, asks Kaho's help and wants her rest; Kaho protects/overprotects and receives real thanks; Niya encourages initiative yet joins covert following. Public song usefulness does not make the artist office property. This package must preserve Chise's chosen audience and Kaho's wanted tour rather than collapsing them into service for Niya. ROOT can decide dyad versus ensemble partition from these distinct directions, with no duplicate whole-person thesis.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::5",
+    "proposed_common_home": "P3-INST-NINJA-AMATEUR-CULTURE-PRECARITY",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "argument_section": "§3.5",
+     "responsibility": "Ninja Research — amateur culture, social admission and administrative precarity",
+     "whole_argument": "GROUP290 has an institutional proposition beyond three biographies: chosen shared liking can confer social belonging before equal expertise or official charter. Remote quiet/stars ease filming while transport, shops, outages, no funds/room and unofficial space remain costs. Water hospitality is real even under three different meanings. Staged rock-breaking can produce sincere enjoyment without becoming verified technique.813's rescue and recognition-cost dispute,853's security rental with conditions disclosed late and industry demands make official recognition an imperfect proxy for a wanted life. The institutions that commission labor and confer visibility require their own answerable boundaries.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::6",
+    "proposed_common_home": "P3-ENSEMBLE-NINJA-RECOGNITION-CHOSEN-HOMECOMING",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "argument_section": "§3.6",
+     "responsibility": "Ninja trio — recognition, separation and a chosen homecoming with new limits",
+     "whole_argument": "Michiru's credit of behind-camera contribution, Tsukuyo's actual appreciation and Izuna's voluntary joining make the trio's shared culture significant.853 reopens it: forced fitting, interrupted contact, friends fearing talent would be destroyed by requesting return, deliberate cheer, deceptive job invitation and actual self-defined return. A repaired garment gifted later allows artistic skill to remain good without prescribing a career. The final surprised filming is contrary to automatic consensual-homecoming claims. This ensemble cannot be a safe-friendship rule; it must explain how real support coexists with specific permission failures and updated recipient wishes.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::7",
+    "proposed_common_home": "P3-INST-FESTIVAL-MANAGEMENT-CRAFT-ACCOUNTABILITY",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "argument_section": "§3.7",
+     "responsibility": "Festival Management/Hyakuyadou — quiet planning, wanted craft and distributed accountability",
+     "whole_argument": "GROUP230's two different shopping-street commissions remain two commissions, with no invented card tournament or completed willow festival. Training Club guests retain their own membership. Quiet willow, leaves, wind and sweets are intrinsically valued even before a practical proposal is selected.835 makes ordinary design/guiding/friendship actual and a changed fireworks schedule a real error, with sabotage and distributed aid preventing sole Umika blame.815 and847 keep real local pleasure alongside property/financial/environmental limits. Shizuko's service image cannot render collapse or aggression fake. This institution package needs recipient voices, material means and actual completed work, not a prestige hierarchy of festivals.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::8",
+    "proposed_common_home": "P3-REL-SHIZUKO-UMIKA-HOST-GUEST-RECIPROCITY",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "argument_section": "§3.8",
+     "responsibility": "Shizuko→Umika and host→guest reciprocity",
+     "whole_argument": "Umika can want both help and Shizuko's return without surrendering authorship. Recognition after835 does not prove a flawless predecessor counterfactual. Her accepted friendship with Erika/Kirara has distinct guest wishes, explicit ways to refuse proximity, actual joy, breached curfew and strategic concealment of danger. These directions warrant a significant host/guest ensemble or relationship responsibility, with cross-Gehenna overlap preserved for ROOT. Fina and Kaede contribute their own film/card/maturity tastes; they are not merely validators of Umika's competence. Future contact/games stay future.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::9",
+    "proposed_common_home": "P3-INST-TRAINING-VOLUNTARY-GOALS-REST-PERMISSION",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "argument_section": "§3.9",
+     "responsibility": "Training Club — voluntary goals, work/rest and updated invitation",
+     "whole_argument": "The institutional and three-person ensemble argument should explain coexisting goals of good sleep, a chosen 大和撫子 ideal and fine-lady aspiration without a common maturity curriculum. GROUP240's film effort is meaningful, anticipated praise is not witnessed tasting, and peers' anger creates an answerable boundary around food and rest. Reported patrol/equipment/cat care, actual junior protection and remembered prior refusal support voluntary work with updated choice. The renewed invitation is conditional; Kaede's loneliness is real even though the seniors respected her earlier refusal. The questioned happy ending and her protest prevent declaring all belonging repaired. Breakfast, desserts, stickers, beetles and cards are mandatory intrinsic evidence within this home.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::10",
+    "proposed_common_home": "P3-INST-SHANHAIJING-GENRYUMON-TRADITION-UNCHOSEN-OFFICE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "argument_section": "§3.10",
+     "responsibility": "Shanhaijing/Genryumon — contested tradition, imposed office and partial reform",
+     "whole_argument": "An institution package is independently required by the interaction of food/craft, school tradition, faction resources and personal dependency.826 separates grace, surveillance, subordinates' disobedience, captured conduit, real official apology and actual banquet from unpaid expenses and continuing problems.840 distinguishes procedure criticism, shortcut expulsion/record erasure, unchosen office, Kaguya's refused title, antidote dependence, restricted→opened festival policy and unresolved rehabilitation.859 shows flexible external-investment debate, work reassigned to people left behind, cooperative defense and a return to antagonism/failed orderly delegation. Full839 and all relevant public MAIN/Final owners must be received before adoption;840's projection is adequate here to flag the responsibility, never substitute for whole839. The package must not define tradition as uniformly worthless or care as universally lawful.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::11",
+    "proposed_common_home": "P3-REL-SHANHAIJING-RUMI-DIFFERENT-DIRECTIONS",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-KISAKI-RUMI",
+     "P3-REL-REIJO-RUMI"
+    ],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 10,
+    "original_semantic_proposal": {
+     "argument_section": "§3.11",
+     "responsibility": "Kisaki↔Rumi and Reijo↔Rumi — food, affection and different burdens",
+     "whole_argument": "Kisaki/Rumi has a sustained independent relationship argument: imperfect remembered mooncakes, wished-for cooking against unchosen office, culinary care, private company, explicitly refused sister framing, actual holiday piggyback and hidden/finite demands. Affection neither proves literal kinship nor completes all public consent. Reijo/Rumi is a distinct direction of practical labor, preferred nicknames met with objection, cherished martial energy, withheld correction, strategic shelter and actual stop-pushing. ROOT should avoid making the second relationship a footnote to the first; its unwanted participation and work costs are contrary evidence to an undifferentiated caring Genbu ensemble.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::12",
+    "proposed_common_home": "P3-REL-SHANHAIJING-CRAFT-RIVALRY",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-MINA-REIJO",
+     "P3-REL-REIJO-KAGUYA"
+    ],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 11,
+    "original_semantic_proposal": {
+     "argument_section": "§3.12",
+     "responsibility": "Mina↔Reijo/Kaguya craft rivalry and the named unjoined critics",
+     "whole_argument": "The Mina/Reijo investigation has different cinematic ideals, challenged premature certainty, effective joint action, a deferred insufficient apology and ongoing disagreement. GROUP340's Reijo/Kaguya rivalry is a separate craft/recognition argument: projection of one movement into different expertise, actual respect, refused membership and an imposed purpose that frightens children. Kaguya is a source-local named person, not a generic opera role or inferred typed family. Her actual840 title refusal, retained remonstrance and bodily cost require an independent eligibility question after complete839/other public owner receiving. Sparse or unjoined metadata must not erase this substantial person. The final home may combine the craft argument institutionally while retaining the named Kaguya responsibility.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::13",
+    "proposed_common_home": "P3-INST-MEIHUA-CARE-TIME-RECIPIENTS",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-SHUN-KOKONA"
+    ],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 12,
+    "original_semantic_proposal": {
+     "argument_section": "§3.13",
+     "responsibility": "Meihua Garden, Shun↔Kokona and child/merchant recipient ensembles",
+     "whole_argument": "Meihua's provisioning, grading, professional address, privacy-example instruction and family/time burdens require an institutional argument distinct from idealised mothering. GROUP260's source-stopped rumour still leaves reception damaged, and its five local child/student roles are meaningful information agents.826's secretly used goodwill and shifted childcare,840's no-head-patting and859's rejected infiltration/actual permitted walk supply different choices. Shun/Kokona's wished-for sister proximity becomes less available through both working; actual holiday company does not cure the asymmetry. The859 merchants choose defense with local knowledge and assent, retain menu/refurbishment constraints, and regain pleasure through welcomed food. Their perspective must be an ensemble responsibility with the gang's tastes, wealth, selective kindness, threats and failed punitive reform, rather than generic grateful scenery.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::14",
+    "proposed_common_home": "P3-REL-SAYA-RECIPIENTS-CARE-TECHNICAL-LIMITS",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 13,
+    "original_semantic_proposal": {
+     "argument_section": "§3.14",
+     "responsibility": "Saya→recipients, Kai comparison and source-local nonhuman representation",
+     "whole_argument": "Alchemy's wanted inquiry and technical ambition must be considered through actual recipients. Saya/Nezusuke has direct care, dosing, restraint, fur/gold mistakes and limited motive access; no nonhuman person ontology is manufactured. Kai's840 case-reduction and coercive antidote dependence differ from Saya's explicitly contrasted access, without certifying Saya safe. Kai's private numeric family is outside this tranche; her substantial public actor role must remain an overlap responsibility. Medicine assertions, drug experiments and community-resolution narration are not individual clinical data. ROOT must allocate an Alchemy/recipient institution or directed comparison home and separate any significant Kai eligibility review, with full relevant owners and no real-world technical recommendations.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::15",
+    "proposed_common_home": "P3-REL-WAKAMO-SENSEI-POLICE-ORGANIZER-BOUNDARIES",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 14,
+    "original_semantic_proposal": {
+     "argument_section": "§3.15",
+     "responsibility": "Wakamo→Sensei / police and organiser boundaries",
+     "whole_argument": "Wakamo's chocolate and company, the adult's appreciation/prohibition, police's imperfect custody, local promise and847 finite rule compliance form a significant ethics/relationship responsibility. Actual giving is distinct from reciprocated love or eating. The police's masked/impostor errors require source-local identity treatment; collective captures do not certify custody. Joining flight in a private beach encounter gives an actual adult-care/public-law tension without a legal verdict. Other811 principals' motives, gifts, peace and fatigue retain separate eligibility/overlap routes. No gratitude or romantic longing grants permission to harm bystanders.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "HYS::significant_responsibilities::16",
+    "proposed_common_home": "P3-CHAR-KANAE-E859-SOURCE-SCOPED",
+    "required_distinct_question_sections_or_homes": [
+     "P3-SECTION-SUIKO-NAGOMI-YOUKO-INDIVIDUAL-QUESTIONS"
+    ],
+    "source_lane": "HYS",
+    "source_field": "significant_responsibilities",
+    "source_row": 15,
+    "original_semantic_proposal": {
+     "argument_section": "§3.16",
+     "responsibility": "Kanae and the859 named children — positive new responsibility questions",
+     "whole_argument": "Kanae's wanted armchair ideal/travel, real internal work, stated boundaries, imposed wider duty and collapse support a positive independent character question despite empty person/variant joins. Her name is 宮内カナエ, distinct from WildHunt 板垣カノエ; the exact boundary must remain visible. Suiko, Nagomi and Youko have named tastes, selective comfort, curfew allowance, arbitrary demands, violence, wealth-mediated labor and post-punishment revenge/escape. Their ordinary preferences are real, and their harmful means do not reduce them to anonymous villains. This lane recommends visible eligibility questions and a merchant/child control ensemble; ROOT must receive the full relevant owner union and adjudicate each independent eleven-section thesis. No header count, youth status or criminal harm is an exclusion basis. These are positive candidate additions/overlaps, never a silent fourth-person total or N freeze.",
+     "recommended_decision": "ELIGIBLE_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "root_partition": "PENDING_ROOT_OVERLAP_ADJUDICATION"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::1",
+    "proposed_common_home": "P3-ENSEMBLE-RABBIT-ORDINARY-LIFE-UNEQUAL-LABOR",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 0,
+    "original_semantic_proposal": {
+     "argument_section": "§3.1",
+     "responsibility": "RABBIT’s protected ordinary life and unequal labor",
+     "complete_argument": "RABBIT needs an ensemble argument that asks what protection is for and how its work is allocated. GROUP300’s food anticipation, Miyu’s actual watch relief and thanks, Miyako’s first-choice hospitality, Saki’s curiosity and Moe’s resisted affinity are separate acts. Moe’s EOD training corrects unequal trust; an actual disposal explosion and four-day odor contradict perfect preparedness.818:015 gives no-adult peer reflection in which pleasure, rank, data access, fatigue and everyday smiles have different values. A successful mission report does not authenticate medical records or prove uniform consent to work. V004’s three voluntary returns and Miyako’s refusal of civilian bombing are not a single squad mind. The package must include opponents who escape, affected local people and the absent/uncompleted aftermath of successful raids. Exact raw-text actors remain in addition to printed JP labels.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::2",
+    "proposed_common_home": "P3-REL-SAKI-MIYU-CORRECTION-SELECTIVE-RECOGNITION",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 1,
+    "original_semantic_proposal": {
+     "argument_section": "§3.2",
+     "responsibility": "Saki–Miyu: correction, reassurance and selective recognition",
+     "complete_argument": "Saki’s relief/watch care and Miyu’s thanks are reciprocal but directed. Saki’s818 purpose argument can reassure Miyu’s fear of unworthy enjoyment without proving permanent confidence. Miyu’s wish for attention differs from her right to refuse praise or collars. Saki’s defensiveness about rank and Miyu’s population explanation also conflict. A relationship argument should preserve how each receives correction and what help actually occurs. It must not turn a peer’s meaning into an adult-caused lesson or infer all later private outcomes from one reassuring line.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::3",
+    "proposed_common_home": "P3-REL-MIYAKO-MOE-TECHNICAL-TRUST",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 2,
+    "original_semantic_proposal": {
+     "argument_section": "§3.3",
+     "responsibility": "Miyako–Moe and command’s contested technical trust",
+     "complete_argument": "Captain language, trained competence and technical appetite create a directed relation. GROUP300’s unequal EOD assignment and Moe’s correction matter alongside later destructive proposals. Miyako’s ordinary-smile account and Moe’s data/income pleasure are neither identical nor mutually cancelling.827’s stopped airburst and refused vessel sinking give distinct actors’ risk proposals; useful coding and lighting work have different completion states. Authority, enthusiasm and recipient permission need separate evaluation, and no actual mission success grants a blanket entitlement to future data or destructive methods.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::4",
+    "proposed_common_home": "P3-ENSEMBLE-FOX-INDIVIDUAL-CHOICES-PROVISIONAL-AFTERMATH",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 3,
+    "original_semantic_proposal": {
+     "argument_section": "§3.4",
+     "responsibility": "FOX’s individual choices and provisional ordinary aftermath",
+     "complete_argument": "FOX needs an ensemble and SRT institution argument preserving Niko’s disclosure, Kurumi/Otogi’s continued alignment with Yukino, eventual surrender and device securing. An ignition threat stopped by knocking/securing is not full warhead disposal. Prison appearance and Niko’s private provisional-release report do not establish every individual sentence, acquittal or subsequent status. Cooking, cat art, books, clothes and wanted peace remain intrinsic rather than rehabilitation scores. MAIN-only Yukino is ROOT’s separate character duty, not absorbed into typed SRT or credited by the three private owners. Different agency must remain legible even when the unit shares orders.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::5",
+    "proposed_common_home": "P3-INST-SRT-VALKYRIE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 4,
+    "original_semantic_proposal": {
+     "argument_section": "§3.5",
+     "responsibility": "SRT–Valkyrie–federal authority and civilian recipients",
+     "complete_argument": "V004’s Clover retrieval and handoff, contingent accusations, public police conduct and federal office changes retain their different evidentiary levels. Final’s local Miyako field delegation, volunteering police, returned communications and FOX report do not restore SRT or certify every civic institution. Konoka’s ordinary flexibility and Rena’s refusal/compensation add person-specific police evidence; ROOT’s fully received Valkyrie3 scope is a separately owned overlap, not an unread-private credit in this lane. Civilian bomb recipients, caged people, anonymous students, PMC/police collectives and affected merchants require role allocation. Legal charge, lawful force, finance and durable restoration remain open where records are absent.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::6",
+    "proposed_common_home": "P3-INST-PUBLIC-FESTIVAL-FAIRNESS-SPECTATORS-AUTOMATED-FORCE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 5,
+    "original_semantic_proposal": {
+     "argument_section": "§3.6",
+     "responsibility": "Festival rule equality, spectators and automated force",
+     "complete_argument": "The received818 selected owners require a festival institution question. Secret-prompt rules produce Saki’s disqualification and Yuuka’s uncorrected public inference; spectators’ romance theory is not known prompt text. The relay’s grenade incentive and cheering robot cross supposedly supportive rules into indiscriminate force. Saki’s machine identification is unverified; Seminar-algorithm resemblance does not establish Yuuka’s order. Later clearance and medical reports do not independently audit safety. Noa, Yuuka, Engineering, reporters, anonymous spectators, protestors, medical roles and the robot remain separate ROOT/peer-lane duties. The whole818 census belongs to the other writer’s exact full roster; this lane owns only the complete selected meanings and their literal source scopes.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::7",
+    "proposed_common_home": "P3-ENSEMBLE-RABBIT-COAST-CONSTRAINED-HOSPITALITY",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 6,
+    "original_semantic_proposal": {
+     "argument_section": "§3.7",
+     "responsibility": "RABBIT, coastal hosts and constrained hospitality",
+     "complete_argument": "827 requires a coastal ensemble and institution argument. The myth’s fragments lead to a mistaken ritual interpretation and stopped force; later actual cargo smuggling and the representative’s inward substitution/threat cannot be rewritten as another illusion. Actual apology, temporary lighting repair, unfinished grounding with professional check requested, local app and shared fish have distinct outcomes. The creator’s first catch is actual with elder work; Miyu’s teaching is limited. Saki refuses more food/shared bed. An occupied-vessel sinking proposal is refused. Allegations/arrest and fear-based fisher custody have no court or complete wellbeing audit. The received parcel and actually eaten hosted barbecue give real reciprocal hospitality while heat, no freezer and closed school persist. Kumagai, creator, elder, coastguard, representative, crew and mediated Chronos roles cannot be merged into familiar police or one grateful village.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::8",
+    "proposed_common_home": "P3-INST-RAIL-CORPORATE-COERCION",
+    "required_distinct_question_sections_or_homes": [
+     "P3-ENSEMBLE-HIGHLANDER-PLEASURE-SERVICE-UNEVEN-BURDEN"
+    ],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 7,
+    "original_semantic_proposal": {
+     "argument_section": "§3.8",
+     "responsibility": "Highlander’s pleasure, service and uneven burden",
+     "complete_argument": "Hikari, Nozomi and Aoba warrant a rail ensemble/institution package with different wants. Ant games and sleep, sunset/manual/mascot interest, and scent/occasional dinner are not the same reward. Actual public pizza/service and stopping costs do not eliminate damaged infrastructure; refused coupons and invitations are not settlements or completed meals. Aoba’s emergency stop/denial, Nozomi’s unlicensed-control refusal and Hikari’s actual apology are different acts of accountability. The private dinner is not the public invitation’s fulfillment. Written gifts127/128/129 have separate endpoints and timing, with respected Aoba letter privacy and constrained production. ROOT’s wider Highlander/main-special duties must adjudicate ownership without doubling whole846 credit.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::9",
+    "proposed_common_home": "P3-INST-WILDHUNT-ART-RECOGNITION-PRIVACY",
+    "required_distinct_question_sections_or_homes": [
+     "P3-REL-ERI-KANOE",
+     "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES"
+    ],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 8,
+    "original_semantic_proposal": {
+     "argument_section": "§3.9",
+     "responsibility": "WildHunt’s artistic recognition and protected privacy",
+     "complete_argument": "849 requires an art/performance institution argument and Eri–Kanoe/Rena relationship allocations. Eri’s work, Tsumugi’s actual performance/café reunion and collaborative lights have their own material success. Mediated Manami praise does not place the chair onsite; a hoped-for viewpoint and collection visit remain future. The initial compulsory room/ritual and detention do not erase Rena’s later respected refusal and chosen bell work. Kanoe’s canvas cover is directed privacy protection. Admitted voice prank, further unresolved voice and moving statue retain competing mechanisms. Rules13/secret666 are text, not certified governance. Pretended guard paralysis becomes “just lights,” but lost sleep and continued second reflection detention remain costs. Newly positive Tsumugi needs ROOT independent-home review; Milia’s Guard/executive/thief role stays source-local pending identity allocation.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::10",
+    "proposed_common_home": "P3-INST-ART-COMMERCE-UNCHOSEN-HEADSHIP",
+    "required_distinct_question_sections_or_homes": [
+     "P3-ENSEMBLE-MIYO-FUYU-RITSU-HIROMI"
+    ],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 9,
+    "original_semantic_proposal": {
+     "argument_section": "§3.10",
+     "responsibility": "Art-commerce, unwanted headship and recipients of leverage",
+     "complete_argument": "850 requires a distinct institution and Miyo–Fuyu–Ritsu–Hiromi ensemble. Miyo’s dissolution/typewriter wishes, Fuyu’s theft refusal and contradictory no-failure sales claim, Ritsu’s founder enthusiasm and felled-tree leverage, Hiromi’s literary affection/fatigue and client’s cynical inward deception are not a shared commercial ethic. Local public comparison succeeds while profit is ZERO/loss real; the thief concedes art and continues. A guards’ mug-return promise is unfulfilled. Actual café pleasures survive financial failure without making business welcome to Miyo. Milia/Akira narration supports a local theatrical role link, not an installed global registry join. Material making, truthful disclosure, security, permission and money are different accountability questions.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::11",
+    "proposed_common_home": "P3-REL-KOKORO-KOTONE-DIFFERENT-AQUATIC-COMPANY",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 10,
+    "original_semantic_proposal": {
+     "argument_section": "§3.11",
+     "responsibility": "Kokoro–Kotone and differentiated aquatic companionship",
+     "complete_argument": "The two typed students require a relationship allocation that preserves who wants what and who refuses. Kokoro’s protection and wanted warmth differ from Kotone’s glasses, radio friend, working but uncomfortable float and plain ethical refusal.861’s Sayuri/Makina/Kokoro/Kotone tastes and bubble/diving enjoyment are individual; not every school member likes water. Anonymous first-diver and anonymous rescuer clusters cannot be globally filled by Kokoro. A regulator supplied afterward is attributable without claiming the first lift. Whale arrival is real while mechanism/agency remains qualified. Their frightened peers and refused handholding alternative keep the embrace from becoming a perfect-consent ending.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::12",
+    "proposed_common_home": "P3-INST-MARITIME-FINANCE-WORK-COERCION",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 11,
+    "original_semantic_proposal": {
+     "argument_section": "§3.12",
+     "responsibility": "Maritime finance, work and coerced extraction",
+     "complete_argument": "861 requires an academy/finance/coastal conflict institution argument. Minato’s curry hospitality and Ami’s office work/ice-cream refusal are independently meaningful ROOT main-special overlaps. Suspected black-market income is not conviction. A dissolution option, expected island refusal never asked and later actual rescue differ. Nanami’s mine confession and commission/factory/extortion accounts do not certify forensics, ecology or contractual ownership. Hostage threat is not performed torture. Pirate withdrawal/capsized boat and future capture remain separate endpoints. Partial debt remission leaves institutional control and equipment charges unresolved; Ami revises an analogy while keeping NO EXCEPTIONS. Sayuri, Makina and Nanami are positive independent-home questions, and literal사유라 remains unresolved rather than a person join.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::13",
+    "proposed_common_home": "P3-REL-ANNA-ERINA-UNLIKE-MOTIVATION-CORRECTION",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 12,
+    "original_semantic_proposal": {
+     "argument_section": "§3.13",
+     "responsibility": "Anna–Erina: unlike motivation and actual apology",
+     "complete_argument": "Anna and Erina require a directed relationship argument that takes their non-sibling status seriously. Quantified hospital ambition and fear of failure differ from Erina’s curiosity and appetite for provocation. Actual apology is a change in communication;013’s brainbuster/head objection is a substantial contrary case to permanent calibration. Wanted warmth, food and craft remain shared possibilities with different motives. Deliberate fuel expenditure is Anna’s admitted act rather than another girl’s faulty mechanism. Both pleasure and responsibility survive the final qualification. Neither friendship nor the adult’s driving assent settles everyone’s bodily permission.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::14",
+    "proposed_common_home": "P3-ENSEMBLE-RED-WINTER-CRAFT-RECORDS-PROMOTED-RACE",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 13,
+    "original_semantic_proposal": {
+     "argument_section": "§3.14",
+     "responsibility": "RedWinter craft, records and the promoted race",
+     "complete_argument": "862 needs a craft/resources/institution ensemble with ROOT RedWinter10, Gehenna and Millennium overlaps. Lana’s computing friendship and tangible punchcard pleasure are positive character questions, not device essence. Improvised stamp/president claim allows this outing without permanent office certification.227 dropped cards and the missing binned record are not restored by a future security plan. Recoil actually moves the tank while destroying a garage and a statue; arrival as the only entrant qualifies, rather than winning an audited safe race. Cherino fatigue, Marina injury/concealment, Serina care and Iroha’s valuation/refused close photograph have distinct recipients.015’s incremental German promotions are one presentation, not many contests; Yuzu/Shiroko/Hifumi/Iroha broadcast presence does not establish bodily attendance. ROOT owns each named peer’s broader home.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::15",
+    "proposed_common_home": "P3-ENSEMBLE-COLLAB-VISITORS-NONTRANSFERABLE-CONSENT",
+    "required_distinct_question_sections_or_homes": [
+     "P3-INST-COLLAB-HOSPITALITY-HOSTED-DEPARTURE"
+    ],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 14,
+    "original_semantic_proposal": {
+     "argument_section": "§3.15",
+     "responsibility": "Collaboration visitors, hospitality and nontransferable consent",
+     "complete_argument": "831’s Ruiko/Mikoto/Misaki cohort needs a visitors’ ensemble and hosted-departure institution argument. Urban-legend joy and batting, frustrated animal contact and reluctantly received role, and tired organic-food/quiet preferences are separate lives. Gift acceptance, one-time demonstration assent, refused next time and debt-motivated help have different scopes. The gun fails while other bounded actions work; safe exhausted escape is actual while future collapse and memory erasure remain unproved. Eimi’s retained gun and limited understanding are distinct host outcomes. Collaboration Misaki stays distinct from Arius Misaki; no native-world canon or imported chronology fills the absent school/private channels. The absence itself is a provenance section, not an eligibility barrier.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::16",
+    "proposed_common_home": "P3-REL-MIKU-AUDIENCE-TECHNICAL-CONTROL",
+    "required_distinct_question_sections_or_homes": [],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 15,
+    "original_semantic_proposal": {
+     "argument_section": "§3.16",
+     "responsibility": "Miku, audience and technical control over performance",
+     "complete_argument": "Miku’s successful private006 show cannot authorize the unnamed hacker or certify complete software restoration. The engineer’s807 need report, staff’s apology, sponsor interest, audience pleasure and represented apparatus are distinct source-local roles. Initial singing failure, ordinary refreshment, partial song, actual full show and chosen deferred dinner give a complete literary question without an engine ontology. The apparatus is not automatically a sentient character, and the hacker is not a familiar technician inferred from competence. A separate performance institution argument must ask whose work, body/time and control enable the show while preserving Miku’s own wanted food/company and chosen encore.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "RESIDUAL26::significant_responsibilities::17",
+    "proposed_common_home": "P3-REGISTER-UNJOINED-WRITTEN27",
+    "required_distinct_question_sections_or_homes": [
+     "P3-SECTION-GIFTS-RECIPIENT-SPECIFIC-TIME",
+     "P3-SECTION-SHUN-10144",
+     "P3-SECTION-MOE-CONFLICTED-WRITTEN-FORMS"
+    ],
+    "source_lane": "RESIDUAL26",
+    "source_field": "significant_responsibilities",
+    "source_row": 16,
+    "original_semantic_proposal": {
+     "argument_section": "§3.17",
+     "responsibility": "Written source forms, gifts and recipient-specific time",
+     "complete_argument": "Shuerin’s10144 wants belong in Shun’s comparative home with their own mode and conditionality. Moe’s three conflicted costumes remain mandatory source-form questions without secure personal deltas. The complete selected810/80000/80001 gifts provide wider local role rosters and peer-home overlaps; they do not authorize wholesale automatic people/chronology joins. Nozomi’s bought convenience, Aoba’s constrained cheap gift, Ritsu’s actual marble lesson, Yakumo’s baker-made cake, Subaru’s bodily craft and Love/Kei’s unfinished or ignored requests defeat a common price/homemade/sincerity meter. Respected timing, voluntary continuation, pressure, refusal and later allowance have different recipients and endings. ROOT must preserve those wider positive questions without counting one whole gift owner multiple times across census lanes.",
+     "recommended_decision": "REQUIRED_SIGNIFICANT_RELATIONSHIP_ENSEMBLE_OR_INSTITUTION_RESPONSIBILITY",
+     "ROOT_partition": "PENDING"
+    },
+    "proposed_reason": "Complete original argument plus FULL_CAST_CANONICAL_HOME_PARTITION_ARGUMENT_V1.md scoped school section; preserve each direction and contra",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I001",
+    "proposed_common_home": "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Veritas technical care, practical correction and consent limits",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-R001",
+    "proposed_common_home": "P3-REL-SUMIRE-BASEBALL-REI-CHOSEN-GOALS",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Chosen goals and intrusive training; E845 success followed by changed machine result",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I002",
+    "proposed_common_home": "P3-INST-MILLENNIUM-DISTRIBUTED-AUTHORITY",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Pending wider allocation; no automatic school umbrella",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-R002",
+    "proposed_common_home": "P3-REL-HIMARI-EIMI-DIFFERENT-DEPENDENCIES",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Required public/private comparative reception review",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-E001",
+    "proposed_common_home": "P3-INST-VERITAS-TECHNICAL-CARE-RECIPIENT-PRIVACY",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Mandatory substantial game/art/rest ensemble section",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I003",
+    "proposed_common_home": "P3-INST-BASEBALL-TRAINING-CHOSEN-GOALS",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Required institution/ensemble scope distinct from individual training dyad",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I004",
+    "proposed_common_home": "P3-INST-CC-STUDENT-OPERATIVE-LABOR",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Reports/acknowledgment/internal delegation, not displayed signed instrument or legal validation",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I005",
+    "proposed_common_home": "P3-INST-ENGINEERING-CRAFT-CLIENT-CONSTRAINTS",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Wanted gakuran designs versus completed subset and actual cheer-costume correction",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I006",
+    "proposed_common_home": "P3-INST-GDD-PLAY-AUTHORSHIP-RECOGNITION",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Different private wants and distributed game authorship",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-I007",
+    "proposed_common_home": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Actual gifts/company and constrained privacy/work",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-R003",
+    "proposed_common_home": "P3-REL-TOKI-GDD-RECOGNITION-BELONGING",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Distinct from Alice-Key-Kei continuity question",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-R004",
+    "proposed_common_home": "P3-REL-MOMOI-MIDORI-DIFFERENT-AUTHORSHIP",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Directed sister/peer contribution without interchangeable taste",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "P3-XMI-R005",
+    "proposed_common_home": "P3-REL-NOA-YUUKA-PRIVACY-MEMORY-COMPANY",
+    "source_lane": "MILLENNIUM_V1_V2",
+    "reason": "Full E842 contrary cases; privacy support and pressured disclosure coexist",
+    "complete_projected_argument_received": "WORKING_MILLENNIUM_THESIS_AND_SHARED_ARGUMENT_VIEW.md",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-REL-UI-HINATA-BOOK-CARE-FINITE-HOSPITALITY",
+    "proposed_common_home": "P3-REL-UI-HINATA-BOOK-CARE-FINITE-HOSPITALITY",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E812",
+    "literary_argument": "Wanted beautiful language, Ui finite book hospitality/taste, actual handoff and presentation; hidden method/copy-equivalence/treatment limits",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-REL-MINE-HASUMI-CARE-ANSWERABILITY",
+    "proposed_common_home": "P3-REL-MINE-HASUMI-CARE-ANSWERABILITY",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E819",
+    "literary_argument": "Useful care and actual subordinate choice coexist with premature force and refused repair-sacrifice liability",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-REL-TSURUGI-MASHIRO-RELIEF-LEISURE",
+    "proposed_common_home": "P3-REL-TSURUGI-MASHIRO-RELIEF-LEISURE",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E819",
+    "literary_argument": "Directed guarding/relief and particular desired leisure; no global common comfort",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "proposed_common_home": "P3-INST-CULINARY-WORK-MERCHANTS-RECIPIENTS",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E820",
+    "literary_argument": "Suzume work/self-blame/care, Kan profit/punishment, local wages, budgets, taste and incomplete fairness/repair",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-CHAR-KAN-E820-SOURCE-SCOPED",
+    "proposed_common_home": "P3-CHAR-KAN-E820-SOURCE-SCOPED",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E820",
+    "literary_argument": "Profit, extraction and punishment meet subordinate recipients and wanted commercial ends; no all-Kaiser identity join",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-CHAR-NYAN-CHAIRMAN-E801-SOURCE-SCOPED",
+    "proposed_common_home": "P3-CHAR-NYAN-CHAIRMAN-E801-SOURCE-SCOPED",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E801",
+    "literary_argument": "Within-packet explicitly bridged employer/Nyan/Nyate identities, labor extraction and failed direction; no E815/E820 chairman join",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-INST-FINAL-DISTRIBUTED-TECHNICAL-COALITION",
+    "proposed_common_home": "P3-INST-FINAL-DISTRIBUTED-TECHNICAL-COALITION",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E822/E854",
+    "literary_argument": "Actual brief contact/door opening and differentiated technical contributions/food/rest versus unknown capture/evacuation",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-INST-PRIEST-COERCION-PARTICULAR-CHILD",
+    "proposed_common_home": "P3-INST-PRIEST-COERCION-PARTICULAR-CHILD",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E823",
+    "literary_argument": "Compulsory cosmology against scarf warmth, cycling and specific child company; ontology remains attributed",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+    "proposed_common_home": "P3-SECTION-GSC-CIVIC-RECOVERY-AYUMU-REQUEST",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E824",
+    "literary_argument": "Ended incident does not mean recovered city; aid reported, Rin suspended, participation prospective",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   },
+   {
+    "original_question_key": "CURRENT_OWNER_ADDITION::P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+    "proposed_common_home": "P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+    "source_lane": "PERSONALLY_RECEIVED_CURRENT_PUBLIC_OWNER",
+    "source": "E803/E804/E833",
+    "literary_argument": "Bomb personification, rhythm UI prologue and video/SNS mediated frames remain modes, not sentience/AV/later timeline",
+    "partition_adoption": "ROOT_PENDING",
+    "denominator_entry_claimed": false
+   }
+  ],
+  "alias_meaning": "Same bounded explanatory question only; standalone versus substantial section is ROOT decision; no person join or package total",
+  "alias_decisions": {
+   "P3-REL-HOSHINO-YUME": "P3-REL-HOSHINO-YUME",
+   "P3-REL-MAIA-SUBARU-ARIUS": "P3-REL-MAIA-SUBARU-ARIUS",
+   "P3-REL-ODYSSEIA-SAMMY-CARE": "P3-REL-ODYSSEIA-SAMMY-CARE",
+   "P3-REL-LOVE-ARATA": "P3-REL-ARATA-LOVE-HYAKKA",
+   "P3-XTR-P001": "P3-REL-HIFUMI-AZUSA-WANTED-GIFTS-PEER-BELONGING",
+   "P3-XTR-P002": "P3-REL-MIKA-KOHARU-PROTECTION-ORDINARY-RETURN",
+   "P3-XTR-P003": "P3-REL-HANAKO-SAKURAKO-UI-BARGAIN-KNOWLEDGE-LIMITS",
+   "P3-XTR-P004": "P3-SECTION-FESTIVAL-CROSS-SCHOOL-CARE-RECIPIENTS",
+   "P3-XTR-P005": "P3-INST-PUBLIC-FESTIVAL-FAIRNESS-SPECTATORS-AUTOMATED-FORCE",
+   "P3-XTR-P006": "P3-INST-IDOL-SPONSORSHIP-AUDIENCES-PENDING",
+   "P3-XTV2-P001": "P3-REL-HASUMI-TSURUGI-UNEQUAL-RECEPTION",
+   "P3-XTV2-P002": "P3-REL-UI-SHIMIKO-READING-CRAFT-REST",
+   "P3-XTV2-P003": "P3-REL-ICHIKA-KASUMI-EXPERTISE-EXCHANGE-BOUNDARIES",
+   "P3-XTV2-P004": "P3-SECTION-REMEDIAL-JUSTICE-ORDINARY-GRATITUDE",
+   "P3-XTV2-P005": "P3-REGISTER-PUBLIC-PERFORMANCE-AUDIENCE-SOURCE-FORMS",
+   "P3-XTV2-P006": "P3-SECTION-LOVE-WORK-EMPLOYER-BACKUP-PASSENGERS",
+   "P3-XTV2-P007": "P3-CHAR-TSUMUGI-SOURCE-SCOPED-PENDING",
+   "P3-XTV2-P008": "P3-CHAR-MIRAI-E851-SOURCE-SCOPED-PENDING",
+   "P3-REL-LOVE-ARATA-HELMET-RETURN-COMPANY": "P3-REL-ARATA-LOVE-HYAKKA",
+   "P3-ENSEMBLE-ARIUS-SQUAD-PLURAL-ORDINARY-LIFE": "P3-REL-ARIUS-SQUAD-PLURAL-ORDINARY-LIVES",
+   "P3-ENSEMBLE-KAITEN-ORDINARY-ENDS-UNEQUAL-WORK": "P3-REL-KAITEN-ORDINARY-ENDS-AND-UNEQUAL-LABOR",
+   "P3-INST-PRECARIOUS-WORK-ART-CREDIT-RECIPIENT-POWER": "P3-INST-PRECARIOUS-WORK-ART-CREDIT-AND-RECIPIENT-POWER",
+   "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER": "P3-INST-LIBRARY-ACCESS-OBJECT-CARE-READER-SERVICE",
+   "P3-SECTION-HIGHLANDER-PLEASURE-SERVICE-UNEVEN-BURDEN": "P3-ENSEMBLE-HIGHLANDER-PLEASURE-SERVICE-UNEVEN-BURDEN"
+  },
+  "counted_home_schedule": "COUNTED_REQUIRED_HOME_PARTITION_PROPOSAL.json"
+ }
+}

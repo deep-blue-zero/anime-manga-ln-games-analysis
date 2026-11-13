@@ -30,18 +30,25 @@ Every durable analytical artifact should converge toward one of four explicit st
 
 Dates and modification timestamps are not authority states.
 
-Recommended front matter:
+In front matter, these states use the machine vocabulary the repository validator enforces, defined in [`characters/README.md`](../../characters/README.md#artifact-authority): the lowercase statuses `canonical`, `active_provisional`, `superseded` and `historical_legacy`, plus `draft_noncurrent` for a working draft that is never current. Authority metadata is the complete quartet below; supersession is list-valued, reciprocal, and names repository paths. An incomplete quartet is legacy metadata, not authority.
+
+Recommended front matter for a superseded artifact:
 
 ```yaml
-status: SUPERSEDED
-superseded_by: 07_ETHICS_REVENGE_AUTONOMY_AND_LOVE.md
+status: superseded
+supersedes: []
+superseded_by:
+  - series/example/07_ETHICS_REVENGE_AUTONOMY_AND_LOVE.md
 do_not_use_as_current_authority: true
 ```
 
 For current artifacts:
 
 ```yaml
-status: CANONICAL
+status: canonical
+supersedes: []
+superseded_by: []
+do_not_use_as_current_authority: false
 authority_generation: v2
 source_boundary: "Japanese LN Volumes 1-10"
 current_as_of: 2026-08-15

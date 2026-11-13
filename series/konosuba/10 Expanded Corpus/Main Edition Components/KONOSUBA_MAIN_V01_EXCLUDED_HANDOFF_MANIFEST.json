@@ -1,0 +1,102 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_DERIVATIVE_CANDIDATE_MANIFEST_V1",
+  "source_id": "MAIN-01",
+  "created_utc": "2026-10-19T05:57:58.543749+00:00",
+  "baseline_commit": "db004c30251ffc5532fa9dde239bc46a44c4db40",
+  "canonical_directory": "series/konosuba/10 Expanded Corpus/Main Edition Components",
+  "files_excluding_this_manifest": [
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_REGISTER.json",
+      "bytes": 101219,
+      "sha256": "6ec254c1186ede68a739063e2421db583d396b011a10aba4fd8a4f71d22e655f"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_DEEP_READING.md",
+      "bytes": 18183,
+      "sha256": "6adcd153710550db21b015adff59103f70b4a894f3837c4c6ce74e1d34b60b2c"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_HUMOR_REGISTER.json",
+      "bytes": 24664,
+      "sha256": "f67bed12c5a07ae5947bd7ca1804adc79eb3a1efa897d6e76dec601c2461323d"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_VOICE_REGISTER.json",
+      "bytes": 28088,
+      "sha256": "c952d7dae683d7071f29bbafc7a33b60ee5a5c5f3ab1fc1a0e6c8928e08dbd92"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_EXPLORATORY_LOCAL_ASSESSMENTS.json",
+      "bytes": 39578,
+      "sha256": "1708f9044d395c318eacb452a73062fcf3ed2d31313b80ddb5005b71970710f1"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_CURRENT_PRECISION_QUALIFICATIONS.json",
+      "bytes": 7427,
+      "sha256": "c86cb65320533f1fbdbf14b60d36cc86313024939dc9e4a495602b7cb91917b6"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_LEDGER_APPEND_DECISIONS.json",
+      "bytes": 10063,
+      "sha256": "666f74072efb3d157f42805745ec0d906c2181ed7535e4da4d9e342f542146f1"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_INITIAL_AUTHOR_UNCODED_SEAL.json",
+      "bytes": 17838,
+      "sha256": "d4f555e7567490989ffcc203a2ca339bcc77500efbbf75b04475bce09268ec38"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_ORIGINAL_UNCODED_TEXT_NOTES.jsonl",
+      "bytes": 22954,
+      "sha256": "8e1f5e8538ac530cd929b227740cea796f5973e89203edc5b52d4abe318933e3"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_ORIGINAL_UNCODED_IMAGE_NOTES.jsonl",
+      "bytes": 26989,
+      "sha256": "da5265f763b6b0cda6e01a813bf14f6f6ed53313e193a79104ce7cf56b517e0b"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_ROOT_PRE_BODY_PREPARATION_VIEW.json",
+      "bytes": 183209,
+      "sha256": "19f2be20f45a8adb21db365134a7d0f5109debfac528a3ef8404d08d43d50882"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_COMPONENT_ANALYSIS.md",
+      "bytes": 19128,
+      "sha256": "c8409a4a8fc0808836386e195829e831efa7d9447cec924ab5d5ff476b9c93d2"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_HUMOR_REGISTER.md",
+      "bytes": 9446,
+      "sha256": "7678291c9fe2fe865c0acbd37c3ec1009b1b694d95bf898805732d8cf64f2657"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_VOICE_REGISTER.md",
+      "bytes": 10661,
+      "sha256": "cfe94d6d2f5e6e01d11008800515f20fa7843edc45b8e97897c17516ade7cc91"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_SOURCE_AND_READING_RECEIPT.json",
+      "bytes": 3116,
+      "sha256": "338c2ca507b61e4de79614d52ac9c34dd24732db2f4f6e1e154713e93659de1e"
+    },
+    {
+      "name": "KONOSUBA_MAIN_V01_EXCLUDED_RECEIVING_AND_PROVENANCE.json",
+      "bytes": 14913,
+      "sha256": "044805060470d5996e73bb1395924ade11705509afd4493569d805f4678c4d7d"
+    }
+  ],
+  "native_EPUB_images_and_full_source_text_not_published": true,
+  "source_first_notes_and_uncoded_seal_published_exact": true,
+  "preparation_public_view_is_explicitly_redacted": true,
+  "frozen_controls_exact": true,
+  "new_principal_reading_credit": 0,
+  "prepublication_format_precision": {
+    "recorded_utc": "2026-10-19T06:07:21.053715+00:00",
+    "reason": "git diff --check rejected exactly one extra blank line at EOF in the new unpublished report. Removed that blank only; original candidate/manifest/adoption receipts preserved privately. No source, semantic wording, annotations, model outcomes or frozen history changed.",
+    "old_report_sha256": "c423ba5fa96e9a5281542478d1e135adeb9c9227add4c8b7c2fd794e5dae0260",
+    "new_report_sha256": "6adcd153710550db21b015adff59103f70b4a894f3837c4c6ce74e1d34b60b2c",
+    "old_report_bytes": 18184,
+    "new_report_bytes": 18183
+  }
+}

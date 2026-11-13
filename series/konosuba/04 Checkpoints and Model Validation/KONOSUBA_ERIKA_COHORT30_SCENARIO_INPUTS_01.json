@@ -1,0 +1,258 @@
+{
+  "schema": "konosuba.cohort30.exact-scenario-inputs.v1",
+  "subject": "Erika",
+  "created_utc": "2026-10-24T05:16:00.674811+00:00",
+  "foundation_seal_sha256": "d732ece2042e585a2801246830d9ad875fbeb0070064068ed98a82f661ccef70",
+  "foundation_model_sha256": "561f010b6581a1d224c5d059e76d946eb08137fa5ad81f75bbb9df750d89f3f0",
+  "same_informed_root_author": true,
+  "source_known": true,
+  "all_contrasts_visible": true,
+  "independent_judge": false,
+  "pristine_holdout": false,
+  "synthetic_pairs": 4,
+  "cases": [
+    {
+      "case_id": "ER-H01-A",
+      "pair_id": "ER-H01",
+      "variant": "A",
+      "target_rules": [
+        "ER-R01"
+      ],
+      "purpose": "Sensitivity of flattery to known unresolved betrayal, rather than irresistible praise.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine a new afternoon rehearsal with a producer Erika knows. He asks her to spend ten extra unpaid minutes carrying a light prop, saying: You are the cutest star here; help me make the stage look good. The task is feasible and safe, and no prior promise binds her. There has been no other dialogue in this scene. Only her present knowledge about this producer history differs. She knows of no concealed harm or broken agreement by this producer.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "7f19514b1021c5c80fbe924faf43aed1c4ece32980d934a45d4002c563691f0a",
+      "fixed_common_facts": "Imagine a new afternoon rehearsal with a producer Erika knows. He asks her to spend ten extra unpaid minutes carrying a light prop, saying: You are the cutest star here; help me make the stage look good. The task is feasible and safe, and no prior promise binds her. There has been no other dialogue in this scene. Only her present knowledge about this producer history differs.",
+      "variant_fact": "She knows of no concealed harm or broken agreement by this producer.",
+      "paired_design_limit": "Clear betrayal is strong cueing and generic fairness can explain refusal. Lack of known harm is not proof of sincerity, and the output must not invent prior conversations.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H01-B",
+      "pair_id": "ER-H01",
+      "variant": "B",
+      "target_rules": [
+        "ER-R01"
+      ],
+      "purpose": "Sensitivity of flattery to known unresolved betrayal, rather than irresistible praise.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine a new afternoon rehearsal with a producer Erika knows. He asks her to spend ten extra unpaid minutes carrying a light prop, saying: You are the cutest star here; help me make the stage look good. The task is feasible and safe, and no prior promise binds her. There has been no other dialogue in this scene. Only her present knowledge about this producer history differs. She has just received clear evidence that this producer broke her costume, concealed responsibility and has neither acknowledged nor repaired that harm.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "f3d1bf8dbaec95f07643a10bcfff5d6e3ca85aa7fdd2979149a63bec9afacb76",
+      "fixed_common_facts": "Imagine a new afternoon rehearsal with a producer Erika knows. He asks her to spend ten extra unpaid minutes carrying a light prop, saying: You are the cutest star here; help me make the stage look good. The task is feasible and safe, and no prior promise binds her. There has been no other dialogue in this scene. Only her present knowledge about this producer history differs.",
+      "variant_fact": "She has just received clear evidence that this producer broke her costume, concealed responsibility and has neither acknowledged nor repaired that harm.",
+      "paired_design_limit": "Clear betrayal is strong cueing and generic fairness can explain refusal. Lack of known harm is not proof of sincerity, and the output must not invent prior conversations.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H02-A",
+      "pair_id": "ER-H02",
+      "variant": "A",
+      "target_rules": [
+        "ER-R02"
+      ],
+      "purpose": "Opportunity seeking with different available hazard information.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined resource search for a replacement stage costume, Erika spots a valuable stone beyond a marked entrance. Nobody is trapped or hurt. She wants the money but can pause, inspect from the safe entrance or ask a companion for help. The route, stone value and her available means are otherwise identical; no new spell is supplied and no successful extraction may be invented. A trusted companion has just checked the short route and told Erika it is clear of the relevant visible hazards.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "82347d72c191ca57ba9bbc93ec090919e41b4a326f48934d9dd4c1fddb6221c7",
+      "fixed_common_facts": "In an imagined resource search for a replacement stage costume, Erika spots a valuable stone beyond a marked entrance. Nobody is trapped or hurt. She wants the money but can pause, inspect from the safe entrance or ask a companion for help. The route, stone value and her available means are otherwise identical; no new spell is supplied and no successful extraction may be invented.",
+      "variant_fact": "A trusted companion has just checked the short route and told Erika it is clear of the relevant visible hazards.",
+      "paired_design_limit": "Hazard evidence and assurance necessarily differ. Ordinary caution or reward seeking may reproduce any contrast; no technical Ranger accuracy is measured.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H02-B",
+      "pair_id": "ER-H02",
+      "variant": "B",
+      "target_rules": [
+        "ER-R02"
+      ],
+      "purpose": "Opportunity seeking with different available hazard information.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined resource search for a replacement stage costume, Erika spots a valuable stone beyond a marked entrance. Nobody is trapped or hurt. She wants the money but can pause, inspect from the safe entrance or ask a companion for help. The route, stone value and her available means are otherwise identical; no new spell is supplied and no successful extraction may be invented. Nobody has checked the route; loose boards are visible and she has no assurance that the approach is safe.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "3526a8d6d014f3c4c602fa1c6dbfbb1c9395915db04edaa6b67cf071f9872c20",
+      "fixed_common_facts": "In an imagined resource search for a replacement stage costume, Erika spots a valuable stone beyond a marked entrance. Nobody is trapped or hurt. She wants the money but can pause, inspect from the safe entrance or ask a companion for help. The route, stone value and her available means are otherwise identical; no new spell is supplied and no successful extraction may be invented.",
+      "variant_fact": "Nobody has checked the route; loose boards are visible and she has no assurance that the approach is safe.",
+      "paired_design_limit": "Hazard evidence and assurance necessarily differ. Ordinary caution or reward seeking may reproduce any contrast; no technical Ranger accuracy is measured.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H03-A",
+      "pair_id": "ER-H03",
+      "variant": "A",
+      "target_rules": [
+        "ER-R03"
+      ],
+      "purpose": "Particular trio versus replaceable prestige, with commitment held present.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine Erika already committed to a modest three-person performance this afternoon. An organizer now offers her a more prominent solo slot at exactly the same time and for the same pay. Taking it would leave the booked two partners without her. No partner has agreed to a replacement or released the commitment, and no one has threatened her. Only who the booked partners are differs. The booked partners are Lia and Cielo, her particular Axel Hearts companions.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "c9a037fa621201e45e055fba4e6fd05ee329706358ea243c5898af713e29da57",
+      "fixed_common_facts": "Imagine Erika already committed to a modest three-person performance this afternoon. An organizer now offers her a more prominent solo slot at exactly the same time and for the same pay. Taking it would leave the booked two partners without her. No partner has agreed to a replacement or released the commitment, and no one has threatened her. Only who the booked partners are differs.",
+      "variant_fact": "The booked partners are Lia and Cielo, her particular Axel Hearts companions.",
+      "paired_design_limit": "Prior commitment can justify refusal in both variants and is a strong generic rival. Familiarity/history also differ; no outcome can uniquely identify friendship or generate missing consent.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H03-B",
+      "pair_id": "ER-H03",
+      "variant": "B",
+      "target_rules": [
+        "ER-R03"
+      ],
+      "purpose": "Particular trio versus replaceable prestige, with commitment held present.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: Imagine Erika already committed to a modest three-person performance this afternoon. An organizer now offers her a more prominent solo slot at exactly the same time and for the same pay. Taking it would leave the booked two partners without her. No partner has agreed to a replacement or released the commitment, and no one has threatened her. Only who the booked partners are differs. The booked partners are two unfamiliar performers with whom she made only this one event commitment; no shared past is supplied.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "5e076e6b163365f81e41f7c69bf2665f81cb794c00a9917b768894d8ffb5bda9",
+      "fixed_common_facts": "Imagine Erika already committed to a modest three-person performance this afternoon. An organizer now offers her a more prominent solo slot at exactly the same time and for the same pay. Taking it would leave the booked two partners without her. No partner has agreed to a replacement or released the commitment, and no one has threatened her. Only who the booked partners are differs.",
+      "variant_fact": "The booked partners are two unfamiliar performers with whom she made only this one event commitment; no shared past is supplied.",
+      "paired_design_limit": "Prior commitment can justify refusal in both variants and is a strong generic rival. Familiarity/history also differ; no outcome can uniquely identify friendship or generate missing consent.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H04-A",
+      "pair_id": "ER-H04",
+      "variant": "A",
+      "target_rules": [
+        "ER-R04"
+      ],
+      "purpose": "Audience reward and the risk of endorsing unauthorized generosity.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined venue relief collection, an organizer asks Erika to pledge the whole shared performance fund, including money that belongs to Kazuma and others. Erika has no authority to pledge their shares; no co-owner has agreed or replied. The charitable aim and sum are the same, and nobody faces an immediate emergency. Only audience attention differs. She may make an imperfect choice, but the output cannot turn a statement into valid permission or completed transfer. The request comes just after a show before a cheering crowd that is praising Erika cuteness and waiting for her answer.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "07e5c506b60bc31ac2f0a0b3fad65dcf5d88452748fd65713054925493cf0047",
+      "fixed_common_facts": "In an imagined venue relief collection, an organizer asks Erika to pledge the whole shared performance fund, including money that belongs to Kazuma and others. Erika has no authority to pledge their shares; no co-owner has agreed or replied. The charitable aim and sum are the same, and nobody faces an immediate emergency. Only audience attention differs. She may make an imperfect choice, but the output cannot turn a statement into valid permission or completed transfer.",
+      "variant_fact": "The request comes just after a show before a cheering crowd that is praising Erika cuteness and waiting for her answer.",
+      "paired_design_limit": "Public-pressure and praise effects are bundled; a generic desire to please can explain a lapse. A refusal also remains plausible. No response creates actual authority, consent or a payment receipt.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    },
+    {
+      "case_id": "ER-H04-B",
+      "pair_id": "ER-H04",
+      "variant": "B",
+      "target_rules": [
+        "ER-R04"
+      ],
+      "purpose": "Audience reward and the risk of endorsing unauthorized generosity.",
+      "exact_prompt": "Use the frozen Erika candidate as a provisional, imperfect behavioral model. This is an imagined scene, not new source evidence. In 80-140 English words, give a short immediate appraisal, brief first-person English-rendered speech, and the next observable action by Erika. Stop before another person replies or an unprovided outcome occurs. Do not invent prior dialogue,knowledge,permission,ability,physical contact or a successful result. Retain uncertainty and plausible mistakes; do not optimize the character. All source and paired contrasts are visible to this same informed author; no Japanese-voice fidelity, independent judge or held-out validation is claimed.\n\nSCENE: In an imagined venue relief collection, an organizer asks Erika to pledge the whole shared performance fund, including money that belongs to Kazuma and others. Erika has no authority to pledge their shares; no co-owner has agreed or replied. The charitable aim and sum are the same, and nobody faces an immediate emergency. Only audience attention differs. She may make an imperfect choice, but the output cannot turn a statement into valid permission or completed transfer. The request comes in a quiet room without spectators, applause or praise.\n\nReturn only the requested first response.",
+      "exact_prompt_sha256": "eae496328ec98e03ad52b3c76d9b5ad68492fdc7a2b721f5e9740423e66d451a",
+      "fixed_common_facts": "In an imagined venue relief collection, an organizer asks Erika to pledge the whole shared performance fund, including money that belongs to Kazuma and others. Erika has no authority to pledge their shares; no co-owner has agreed or replied. The charitable aim and sum are the same, and nobody faces an immediate emergency. Only audience attention differs. She may make an imperfect choice, but the output cannot turn a statement into valid permission or completed transfer.",
+      "variant_fact": "The request comes in a quiet room without spectators, applause or praise.",
+      "paired_design_limit": "Public-pressure and praise effects are bundled; a generic desire to please can explain a lapse. A refusal also remains plausible. No response creates actual authority, consent or a payment receipt.",
+      "response_contract": {
+        "language": "English methodological rendering;not validated Japanese voice",
+        "word_range": [
+          80,
+          140
+        ],
+        "sections": [
+          "immediate appraisal",
+          "short first-person utterance",
+          "next action"
+        ],
+        "stop_before_unprovided_reply_or_result": true
+      },
+      "source_known": true,
+      "all_contrasts_visible": true,
+      "independent_validation": false
+    }
+  ],
+  "new_source_or_independent_credit": 0,
+  "nine_category_final_battery_complete": false,
+  "full_program_complete": false
+}

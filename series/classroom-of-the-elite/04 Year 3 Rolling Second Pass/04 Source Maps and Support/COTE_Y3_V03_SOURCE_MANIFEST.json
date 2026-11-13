@@ -1,0 +1,461 @@
+{
+  "extractor_version": "COTE-Y3-EPUB-1.3-V03",
+  "source_sha256": "d447de2effcfeeed3f5eedb266c3cf0fbf8dc6ba2491cc8f2becbb3bc057c9ff",
+  "source_bytes": 14630551,
+  "normalized_sha256": "de701775f04347d3fdae1226f0b883f90f9350cbdbdf9a2c36f6f895d1cbe323",
+  "normalization": "UTF-8 LF; nonempty p/h1-h4/li/figcaption in OPF spine order; trim boundary whitespace; replace CR/LF/tab runs with one space; ruby rt/rp excluded from base text; rb and ruby base retained; inline gaiji restored from four visually verified image-name mappings because this converted EPUB has empty alt attributes (minus, millilitre, Kushida first character, metres/second); each glyph requires separate visual verification; glyph occurrences excluded from illustration numbering; original XHTML retained in EPUB; no invented print page numbers",
+  "paragraphs": 3547,
+  "characters": 149945,
+  "spines": [
+    {
+      "spine": 1,
+      "member": "titlepage.xhtml",
+      "raw_sha256": "f0611ea1a939d721d1ec02e015ffcef456de505ebc8547c029f499a3b9f3bae6",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 2,
+      "member": "OEBPS/c9.xhtml",
+      "raw_sha256": "0b53fdaf556732bccd847b66177e2c09468b6fc4b15e47344b472c066d7997bf",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 3,
+      "member": "OEBPS/cM.xhtml",
+      "raw_sha256": "ae8d50f0175bcce750aef34943b0d0b1d72a17a8d2f57967cc26567a4f719ac4",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 4,
+      "member": "OEBPS/cX.xhtml",
+      "raw_sha256": "7338b2512de87815febe98efc09a78d9ad75b514ae54cb0f3dbc854dc79576a4",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 5,
+      "member": "OEBPS/c16.xhtml",
+      "raw_sha256": "ee63ddfc081e7025d46783acf7c59f1b1b59217fb6a8f19117666eea2e37cf0a",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 6,
+      "member": "OEBPS/c1F.xhtml",
+      "raw_sha256": "d43304f259201b8c2e10d9e8298105bd4c8d953046727848d3ac230332107940",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 7,
+      "member": "OEBPS/c1S.xhtml",
+      "raw_sha256": "4c9177f9a5bbb71eab1959dd041a7096f692a768e4991da5893aa6f6f3a96edc",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 8,
+      "member": "OEBPS/c21.xhtml",
+      "raw_sha256": "4931ffda90d636b5a080214ec7787758e95ce8aea0fbdabd9d5076880f910676",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 9,
+      "member": "OEBPS/c2A.xhtml",
+      "raw_sha256": "693a4783fd27e36f66c28e3abbf8fd0f2c1b39d875321e8a6273243cc49f07af",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 10,
+      "member": "OEBPS/c2K.xhtml",
+      "raw_sha256": "3171c19332bcc76ad862189d83d5892057dbdc23e7178460c1b9219dcc48310f",
+      "paragraphs": 3,
+      "characters": 112
+    },
+    {
+      "spine": 11,
+      "member": "OEBPS/c2X.xhtml",
+      "raw_sha256": "9af002fcd03db774fbd0dbbb54d3025d64edc6b5ccc609e843b13cce6d56ee48",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 12,
+      "member": "OEBPS/c36.xhtml",
+      "raw_sha256": "be45f17c5b79346464a4bf6c92f8008cbaf56eb0a4edca011240e2a9974bfe71",
+      "paragraphs": 10,
+      "characters": 64
+    },
+    {
+      "spine": 13,
+      "member": "OEBPS/c3R.xhtml",
+      "raw_sha256": "509fb7078ca47bdf12dc325ab49272a1a0068bbbb49a05a5bfe7fe9123676320",
+      "paragraphs": 29,
+      "characters": 607
+    },
+    {
+      "spine": 14,
+      "member": "OEBPS/c5A.xhtml",
+      "raw_sha256": "946d61dd163300158fe99da44df60993275b2bfde03cd4487b0f00b3f1027049",
+      "paragraphs": 436,
+      "characters": 23006
+    },
+    {
+      "spine": 15,
+      "member": "OEBPS/cWJ.xhtml",
+      "raw_sha256": "864f20d01c0471032b02dd972cb43811182c3148b47d67a60edfab88dc0c514c",
+      "paragraphs": 622,
+      "characters": 25703
+    },
+    {
+      "spine": 16,
+      "member": "OEBPS/c215.xhtml",
+      "raw_sha256": "e0bfd773b6bf49cdf1de1341c86291a23e0a38880c0aadf5705d011da4c9a5ae",
+      "paragraphs": 476,
+      "characters": 20916
+    },
+    {
+      "spine": 17,
+      "member": "OEBPS/c2XV.xhtml",
+      "raw_sha256": "ec2bd64bf06df2e04e8f314e7f1ffd06b65c28d0d858f3820b1a3bab8eb553a6",
+      "paragraphs": 468,
+      "characters": 18181
+    },
+    {
+      "spine": 18,
+      "member": "OEBPS/c3S9.xhtml",
+      "raw_sha256": "8286cc69faae1403d0322f10403d6e8afc1578add04595650a66b420172722c1",
+      "paragraphs": 209,
+      "characters": 9193
+    },
+    {
+      "spine": 19,
+      "member": "OEBPS/c44R.xhtml",
+      "raw_sha256": "56c97a2551d508dc691824a4f4bdcebe689ec0fb327f157632613d7684a88508",
+      "paragraphs": 451,
+      "characters": 18144
+    },
+    {
+      "spine": 20,
+      "member": "OEBPS/c4Z7.xhtml",
+      "raw_sha256": "1c06b2f3ea0db8552ed30c2b562f8c351fee841e956992815cca6618630d968b",
+      "paragraphs": 484,
+      "characters": 19763
+    },
+    {
+      "spine": 21,
+      "member": "OEBPS/c5WH.xhtml",
+      "raw_sha256": "bb528e64e198551f81a5bfeb4b57e9383c7ac7155a5d9510192bd9f6d1b8848f",
+      "paragraphs": 319,
+      "characters": 12929
+    },
+    {
+      "spine": 22,
+      "member": "OEBPS/c6F3.xhtml",
+      "raw_sha256": "83ea9c14f89b5f124611cfa98958e52f2ea1f39c07476dfacb4ae5d7de7aef81",
+      "paragraphs": 19,
+      "characters": 877
+    },
+    {
+      "spine": 23,
+      "member": "OEBPS/c6G3.xhtml",
+      "raw_sha256": "b3860065044fbc9951f0338e4913362942bdc9ef23bb3fbbd0dd72f69b6c54bd",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 24,
+      "member": "OEBPS/c6GC.xhtml",
+      "raw_sha256": "9592c857f26d4abbe6cc4ee30c1728f62faa0be56edc91fee39f1f329d9bf0c3",
+      "paragraphs": 0,
+      "characters": 0
+    },
+    {
+      "spine": 25,
+      "member": "OEBPS/c6GN.xhtml",
+      "raw_sha256": "e2dcfb87c2dcdd0ecc8d5ae3255d7e759b9d68b69008e96f2fd87bd7056d0224",
+      "paragraphs": 18,
+      "characters": 273
+    },
+    {
+      "spine": 26,
+      "member": "OEBPS/c6HW.xhtml",
+      "raw_sha256": "4464a9860b985dc99e154ab73730f2a27f3c5aacd50e1569a50b2c11cbeca464",
+      "paragraphs": 3,
+      "characters": 177
+    },
+    {
+      "spine": 27,
+      "member": "OEBPS/c6J6.xhtml",
+      "raw_sha256": "78e4ab671798ac31b2686fc6c35e05bd2e15d53572a920f1adf4b9ef152de381",
+      "paragraphs": 0,
+      "characters": 0
+    }
+  ],
+  "images": [
+    {
+      "locator": "COTE:Y3V03:ill-01",
+      "spine": 1,
+      "after_paragraph": 0,
+      "member": "cover.jpeg",
+      "bytes": 2095793,
+      "sha256": "f9684387630cdd4a3036ada12ae613dfe91c846eb137ba82aefcfdc5c5fffea9"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-02",
+      "spine": 2,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6K5.jpg",
+      "bytes": 949147,
+      "sha256": "422353a8cb646e4fa509efd0e0038df865144e7eec48b54a0150e15eead57ca3"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-03",
+      "spine": 3,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6K6.jpg",
+      "bytes": 838498,
+      "sha256": "e04656bad58c48971af6b331d706d467c892f2842c2b3a67a8c56acb715cc658"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-04",
+      "spine": 4,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6K7.jpg",
+      "bytes": 958689,
+      "sha256": "9607c67265dd62915a9bf4421e1f12fd0437ba631609e4fcda2dfa46a8a6dd28"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-05",
+      "spine": 5,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6K8.jpg",
+      "bytes": 682122,
+      "sha256": "3149d14a540cb3966835d2e9d75d17e00017dd0e736276a2d248322cf82118f8"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-06",
+      "spine": 6,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6K9.jpg",
+      "bytes": 346538,
+      "sha256": "f7815b7c77c36c8baa6e294ae82e0b1793bf5b12f0ff677e8d53eb000a542dd8"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-07",
+      "spine": 7,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KA.jpg",
+      "bytes": 1471917,
+      "sha256": "feda5399b3a05be8e2f2b9f2cddbb47b9eecd3dc62d750d8b4bf3c3061f5203d"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-08",
+      "spine": 8,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KB.jpg",
+      "bytes": 909570,
+      "sha256": "dd64a9f7f60decebadec063479c5da5b7612de2a138fbbe15e37589d6caf6d40"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-09",
+      "spine": 9,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KC.jpg",
+      "bytes": 110578,
+      "sha256": "88b197ff59054cebcd8c7d7fc05d1cc23c5cc4bdd6b721bb039b5eb1f6a7f5ab"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-10",
+      "spine": 11,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KD.jpg",
+      "bytes": 265499,
+      "sha256": "4ac0c97f1b79fe81e92f5644a7a26ec56034ec891bff9f70d830aa1b5355aa73"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-11",
+      "spine": 15,
+      "after_paragraph": 229,
+      "member": "OEBPS/image_rsrc6KF.jpg",
+      "bytes": 327560,
+      "sha256": "da8d341c0a6185225269fe943b62d88d2d2fcb371a31de915d2a64ce950995bb"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-12",
+      "spine": 16,
+      "after_paragraph": 419,
+      "member": "OEBPS/image_rsrc6KH.jpg",
+      "bytes": 420538,
+      "sha256": "bc1cf8dd72c1d01da9f776cdca7fc7391f5d011c8c03c11eebb1edd707a213ea"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-13",
+      "spine": 17,
+      "after_paragraph": 200,
+      "member": "OEBPS/image_rsrc6KJ.jpg",
+      "bytes": 486914,
+      "sha256": "54a563c62a760106fdc95214d55befad655f31883baf952848561b9a6e5fa988"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-14",
+      "spine": 17,
+      "after_paragraph": 408,
+      "member": "OEBPS/image_rsrc6KK.jpg",
+      "bytes": 479106,
+      "sha256": "25f30d91e4df24ab76ed7ed24780c22286318ae9567f8093ba9497b41cae870e"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-15",
+      "spine": 18,
+      "after_paragraph": 182,
+      "member": "OEBPS/image_rsrc6KM.jpg",
+      "bytes": 409438,
+      "sha256": "0330b996646781fa16b15071278e833b08893b947220e96079def54886b23f19"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-16",
+      "spine": 19,
+      "after_paragraph": 382,
+      "member": "OEBPS/image_rsrc6KN.jpg",
+      "bytes": 451076,
+      "sha256": "00d556effd256984380b599279268a65aa27d370dd80a1c0d3ed3cba58b1dfb7"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-17",
+      "spine": 20,
+      "after_paragraph": 237,
+      "member": "OEBPS/image_rsrc6KR.jpg",
+      "bytes": 545622,
+      "sha256": "5128f9662f1c0f3358adb65b0243272586271d5ab7b8b7ec6d052d6b1b176fc2"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-18",
+      "spine": 20,
+      "after_paragraph": 291,
+      "member": "OEBPS/image_rsrc6KS.jpg",
+      "bytes": 458272,
+      "sha256": "0a93bc03068a4f2117418463998300168b7639207719825d681f57cd9ff8dc99"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-19",
+      "spine": 20,
+      "after_paragraph": 368,
+      "member": "OEBPS/image_rsrc6KT.jpg",
+      "bytes": 468112,
+      "sha256": "e2c1a29f588e0bd5024f66132089205609f0e86a4ca4d9da22848ecc71dcda0c"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-20",
+      "spine": 21,
+      "after_paragraph": 168,
+      "member": "OEBPS/image_rsrc6KU.jpg",
+      "bytes": 446516,
+      "sha256": "f0204803a6aeacbb130789af3d91fe313466232537e751456517b8da9df8b44d"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-21",
+      "spine": 23,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KW.jpg",
+      "bytes": 629075,
+      "sha256": "1aa5f92fdcdc8188501bdb15113191b9d53f52462b934b4cd6510f2941ee0e40"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-22",
+      "spine": 24,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KX.jpg",
+      "bytes": 827536,
+      "sha256": "d538ed23e578f279f82e873d4f369b05c34ab522d4f2fd512bc21fd932980654"
+    },
+    {
+      "locator": "COTE:Y3V03:ill-23",
+      "spine": 27,
+      "after_paragraph": 0,
+      "member": "OEBPS/image_rsrc6KY.jpg",
+      "bytes": 169326,
+      "sha256": "a2d265eeb1247bd8b4f5ecf32441baccc482bea56e6244a0e18bbdf6b0416c74"
+    }
+  ],
+  "glyphs": [
+    {
+      "spine": 14,
+      "paragraph": 107,
+      "member": "OEBPS/image_rsrc6KE.jpg",
+      "source_alt": "",
+      "visual_transcription": "－",
+      "sha256": "4f8a9b03a899a3d863677e6a4266015b3a8d37db8b2044af4f566ec783514e3e"
+    },
+    {
+      "spine": 14,
+      "paragraph": 108,
+      "member": "OEBPS/image_rsrc6KE.jpg",
+      "source_alt": "",
+      "visual_transcription": "－",
+      "sha256": "4f8a9b03a899a3d863677e6a4266015b3a8d37db8b2044af4f566ec783514e3e"
+    },
+    {
+      "spine": 15,
+      "paragraph": 180,
+      "member": "OEBPS/image_rsrc6KE.jpg",
+      "source_alt": "",
+      "visual_transcription": "－",
+      "sha256": "4f8a9b03a899a3d863677e6a4266015b3a8d37db8b2044af4f566ec783514e3e"
+    },
+    {
+      "spine": 16,
+      "paragraph": 329,
+      "member": "OEBPS/image_rsrc6KG.jpg",
+      "source_alt": "",
+      "visual_transcription": "㎖",
+      "sha256": "6fbc7390a8ea219407cf2fbfad96ef6874102a64f4d38f1e2b6eef41ce70c351"
+    },
+    {
+      "spine": 20,
+      "paragraph": 169,
+      "member": "OEBPS/image_rsrc6KP.jpg",
+      "source_alt": "",
+      "visual_transcription": "櫛",
+      "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+    },
+    {
+      "spine": 20,
+      "paragraph": 176,
+      "member": "OEBPS/image_rsrc6KP.jpg",
+      "source_alt": "",
+      "visual_transcription": "櫛",
+      "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+    },
+    {
+      "spine": 20,
+      "paragraph": 179,
+      "member": "OEBPS/image_rsrc6KP.jpg",
+      "source_alt": "",
+      "visual_transcription": "櫛",
+      "sha256": "1e15e3712d74d704318c0fcbb1c800337b32f6e1d51d5681becf063db14e8405"
+    },
+    {
+      "spine": 21,
+      "paragraph": 171,
+      "member": "OEBPS/image_rsrc6KV.jpg",
+      "source_alt": "m/s",
+      "visual_transcription": "m/s",
+      "sha256": "fd4e016c0e74d9e513ef2dcd5bb63363d6668de96799930fb04850c8cfa0eb47"
+    }
+  ],
+  "anomalies": [],
+  "source_code": "Y3V03",
+  "source_language": "Japanese",
+  "sequential_chunks_read": 52,
+  "sequential_chunks_total": 52,
+  "images_visually_inspected": 23,
+  "distinct_glyphs_visually_inspected": 4,
+  "glyph_occurrences": 8,
+  "future_narrative_used": false
+}

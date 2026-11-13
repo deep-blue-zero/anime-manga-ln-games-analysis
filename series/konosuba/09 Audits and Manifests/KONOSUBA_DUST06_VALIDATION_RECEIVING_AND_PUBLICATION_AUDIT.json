@@ -1,0 +1,592 @@
+{
+  "status": "SUBSTANTIVELY_ACCEPTED_DUST06_VALIDATION_CONCRETE_CANONICAL_CANDIDATE",
+  "candidate_authored_utc": "2026-10-17T19:49:53.629486+00:00",
+  "source_branch": "series/konosuba",
+  "entering_fully_audited_source": "0d8067f1e3909556c9c5ee54f293678dff0406b7",
+  "reconciled_candidate_base": "4bb538a246abe6e2cc8da1f2ba8195122b3e42a8",
+  "imported_main": "98ffb5d8a1488f211f2def8d84f478e15749765a",
+  "actual_source_local_acceptance": {
+    "state": "ACTUAL_ROOT_SUBSTANTIVE_SOURCE_LOCAL_ACCEPTANCE_NOT_CANONICAL_ADOPTION_OR_PUBLICATION",
+    "actual_accepted_utc": "2026-10-17T19:39:07.686147+00:00",
+    "accepted_register": {
+      "name": "ROOT_ACCEPTED_DUST06_ALL39_SOURCE_LOCAL_VALIDATION.json",
+      "bytes": 229826,
+      "sha256": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e"
+    },
+    "accepted_candidate": {
+      "name": "DUST06_COMPLETE_ALL39_ROOT_ADJUDICATION_CANDIDATE.json",
+      "bytes": 226176,
+      "sha256": "817aad979d6438da87b2a1b3ba4fdff67906b7fda03cd1651eeebde1ac780cf7"
+    },
+    "accepted_ledger_manifest": {
+      "name": "TEN_LEDGER_DUST06_VALIDATION_APPEND_MANIFEST.json",
+      "bytes": 12479,
+      "sha256": "e567aeaf142f1aad3c467afd0c29aefd1a2b6bdcf11b64b126db4694ecbfd44d"
+    },
+    "counts_not_accuracy": {
+      "NOT_TESTED": 32,
+      "AMBIGUOUS": 2,
+      "CONFIRMED": 4,
+      "PARTIAL": 1
+    },
+    "four_T": "GENERATED_ONLY_SOURCE_NA",
+    "all_originals_preserved": true,
+    "index_gate": {
+      "name": "INDEX01_FINAL_PUBLICATION_GATE_CLOSE.json",
+      "bytes": 3760,
+      "sha256": "5937f1340e133223f8c2d65f4a3be2b9d314fcca8d7d103c8898bd16f9b7040d"
+    },
+    "models_unchanged": true,
+    "source_boundary": "Five DUST06 principal members only; every excluded/image/other expanded body and DUST07 remain closed.",
+    "no_canonical_or_Git_write_in_this_acceptance": true
+  },
+  "public_evidence_manifest_sha256": "c6c259efb47f75c6800431ed06a213a533327454efb3e079abf48a7022998c09",
+  "reviewed_ledger_manifest_sha256": "e567aeaf142f1aad3c467afd0c29aefd1a2b6bdcf11b64b126db4694ecbfd44d",
+  "ledger_actual_acceptance_metadata_operations": [
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "original_payload_sha256": "9db9a440c14a008ba9f6cf9ae318cb483ea663be762847444d07917c59b2730d",
+      "stamped_payload_sha256": "13c671f5ccbef87d207c237236b7021f95b809519342ca231cd92e1bc4dc7e44",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        },
+        {
+          "before_exact": "E04 bounded C candidate;",
+          "after_exact": "E04 bounded C at accepted source-local scope;",
+          "count": 1,
+          "character_offset_at_application": 1444
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "original_payload_sha256": "d852ef0b420bead6a96bfcc202bfbf8783496f77f6b4eb4c71fb4e0cada1b56d",
+      "stamped_payload_sha256": "5b1d1b4f356b548b6c694aa18f4d17c364c6d559ad553c92f4c52117c08f291d",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "original_payload_sha256": "3c1bb690bee2fbd10898ec9d811d691266ee5230c47e10d31d802f5fb30d1ea1",
+      "stamped_payload_sha256": "f9a920ec5b12871e38e56e537c33e4ebcb8d8a84f568c2c713eb7deb415082b7",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "original_payload_sha256": "fa45737b192fe8a11f7227f34130659dcdf9cff45f87a8d8a3b8b4486e964e67",
+      "stamped_payload_sha256": "4691c981b91fe3f02937ddd6bca30329def97c0aafeb84fc82822307ebc912ec",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "original_payload_sha256": "695f4a4ec38d4d89e943c106a8cfcb5cdddd3c4e8284be9f2fbb7424f7030b8f",
+      "stamped_payload_sha256": "f525d3848bccab7653d033c49518a5cb3982d6175ae8ece2239aed49e2bf74d7",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "original_payload_sha256": "58475579dd2a2f96e6b9661e94f418267053ba6d0e2049ee71dd0e148472d847",
+      "stamped_payload_sha256": "e7915ea7cfe82c8380731cd138506a41d5decee570d38f39345417434221dacb",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "original_payload_sha256": "e0efdbf03486c21df1842d148a1a905442ddc2d3964dc1bb07d6cc802ccf4a58",
+      "stamped_payload_sha256": "0cdaed84ab2c7b9172acc6bf0b69896cb4b564b1240668781e1f610a627c834a",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "original_payload_sha256": "a0d9f604f8ee108aa5450bffa9636443b32431438c50329d0354e65d09030986",
+      "stamped_payload_sha256": "fef5aeb1779d4c3d22024ebad6cd1db64e4fa8fa4b5e9a0f6b56dc7035d545ea",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 360
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 393
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "original_payload_sha256": "37509ff92860c74c0f2eee52b1cd9b8c95d36b9e228f2ba0cbb1c81d76e7e0b9",
+      "stamped_payload_sha256": "9ca30d4e0de28eef321e8e38adfef8946dbb39711bd0b1dcbf4c7cedca4aa188",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "original_payload_sha256": "ce8e9bfaf08ba313095df8d6fdf4b05389521101182184c66144ff93ebfd1ecf",
+      "stamped_payload_sha256": "7757d1524323ce1767d9b6e411cb9b017b326dfff3b433f57773232493f96b1b",
+      "operations": [
+        {
+          "before_exact": "{{DUST06_ACCEPTED_UTC}}",
+          "after_exact": "2026-10-17T19:39:07.686147+00:00",
+          "count": 1,
+          "character_offset_at_application": 361
+        },
+        {
+          "before_exact": " (private pre-adoption placeholder)",
+          "after_exact": "",
+          "count": 1,
+          "character_offset_at_application": 394
+        },
+        {
+          "before_exact": "Root candidate is4C(E03/E04/E05/E07),1P(E08),2AMB(E01/E06),32NT(all31 individual plusE02);",
+          "after_exact": "The accepted source-local record is 4C (E03/E04/E05/E07), 1P (E08), 2AMB (E01/E06), 32NT (all31 individual plusE02);",
+          "count": 1,
+          "character_offset_at_application": 1182
+        },
+        {
+          "before_exact": "Provisional payload pending final acceptance stamp;",
+          "after_exact": "Accepted Phase B DUST06 overlay;",
+          "count": 1,
+          "character_offset_at_application": 1489
+        }
+      ],
+      "full_payload_inverse_byte_exact": true,
+      "original_payload_retained": true
+    }
+  ],
+  "authored_streams": [
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INITIAL_ROOT_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 365293,
+      "after_sha256": "50054343e593d8f7ce583028e0687e4da692b8f2318be0d9d5565adbc6a9844c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INITIAL_INDEPENDENT_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 348009,
+      "after_sha256": "10bba554d3a4a6572b37b073cd0086e77976af7a531f1fdc2bb0abe4140303f2"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INITIAL_SEMANTIC_ALL39.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 206267,
+      "after_sha256": "b65a0203d45d6954ceba885bdefd7dbd1e92a82614111c5b917650b76ef09c1c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ACCEPTED_ADJUDICATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 229826,
+      "after_sha256": "f94bfb84f5b16e0234fb6adbcebd0c6f481debd46544021de360dea76d00f70e"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INDEPENDENT_COORDINATED_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 20432,
+      "after_sha256": "b895e89efa6bbf2bf45b5a041a634e33f4c0fb0989c69271bc76a39172e3d2ac"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_SEMANTIC_COORDINATED_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 20177,
+      "after_sha256": "a00e73e7b18266290aa82d16017b05d72edf87d81c6f1e31df12266ca0c719ce"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INDEPENDENT_CANDIDATE_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 6908,
+      "after_sha256": "4bca3bafcd73563cc62a98828aaef0b310c6c0cbc4ea62bee7d945e5254cd762"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INDEPENDENT_CANDIDATE_V2_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 1501,
+      "after_sha256": "0d5eb3571fb551825315053b75f3480019425317256da5cb5990a01d4f446d9a"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INDEPENDENT_LEDGER_RECEIVING.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 5238,
+      "after_sha256": "511872f57df7486e365c9fbd115a43383ee0c9f4ccb6ce34aae56c2dfd214006"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INDEPENDENT_LEDGER_V2_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 1906,
+      "after_sha256": "3a07d9d60dc46e128e35b162197b6e3f8a51b22cfb5a7fe6db83f465d0c08df0"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_SEMANTIC_CANDIDATE_AND_LEDGER_V2_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 9222,
+      "after_sha256": "fa7ca185002eb80b696ee44088737603aa7bdbcafb19fb4dcd44a464b8feaa87"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_INDEPENDENT_ALL39_COORDINATED_RECOMMENDATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 55436,
+      "after_sha256": "075e84c94d53efa52e0d03fda53276d7646d2c82db153f75b1f05bc3605a2d10"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_SEMANTIC_ALL39_COORDINATED_RECOMMENDATIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 54362,
+      "after_sha256": "2e7f1f88b795454aa27aa6f7d999e7dbe0e7bff0959b8f7064bc6889272daa7c"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_ROOT_RECEIVING_CORRECTIONS.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 8887,
+      "after_sha256": "72efdaf0620afde08465b33a72c9f73641cc88a7ea4b73fc0ed30281bcccc0a4"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_EVENTS_AND_OPPORTUNITY_INDEX.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 182932,
+      "after_sha256": "dfb9d53d49c02aede38dc4b6b5192a481c5b005b09707d72766153418c7d3cb1"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/WITHHELD_SOURCE_VALIDATION_EVIDENCE/DUST06_SOURCE_AND_READING_RECEIPT.json",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 15516,
+      "after_sha256": "4030fe81d6d4519a88badf2ce26d295238dd4d28b5da0c0b2b698b305faa2e4d"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_CHARACTER_STATE_LEDGER.md",
+      "before_bytes": 199403,
+      "before_sha256": "d15e1cf39a18aa4112f8b61b7b906d5e6ceacee7a0dd4e657960e295b5cfbdf3",
+      "after_bytes": 202107,
+      "after_sha256": "bf9a951403a4a5f0f190c007c054b8fd0b3e668c16e7e4fc2ed412385779b79b"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_RELATIONSHIP_STATE_LEDGER.md",
+      "before_bytes": 130945,
+      "before_sha256": "31dcddc0cff4e75e15957877a63e8917611406dcc4803249876c11cf53334cd6",
+      "after_bytes": 133706,
+      "after_sha256": "ca04f0cb85d2901a606e25c76b05fb44d2c58512fc7ade433f998f902fed0858"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_DECISION_ERROR_LEDGER.md",
+      "before_bytes": 179319,
+      "before_sha256": "d9502fda8e5815837df0c5e07df7560be6f86b59de5b45e36db09ec3d2ddd5fa",
+      "after_bytes": 182073,
+      "after_sha256": "c3f37df2b5090faf66accdb79913af9e6d9f933d833a1a0e4becf05aeb39ff4c"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_COMPETENCE_CONTEXT_LEDGER.md",
+      "before_bytes": 127672,
+      "before_sha256": "7aed39f1dda00ace6c06f231128bc9e1927f7dda7e8010ea93ab644c29298849",
+      "after_bytes": 130351,
+      "after_sha256": "6a7ec6a4055bbe7a690d912ef82f315f900d48da83683704b83803b93a963c02"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_HUMOR_MECHANICS_LEDGER.md",
+      "before_bytes": 705116,
+      "before_sha256": "8324ab8e4957072b18783ebe8e82bb04bdbebce5ca141da2fc1d7139ae519db8",
+      "after_bytes": 707909,
+      "after_sha256": "0a34d92b17852d32be0e083f7f16a9f2a0741a6df623a1c3606a046c19dd4108"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_JAPANESE_VOICE_HUMOR_LEDGER.md",
+      "before_bytes": 516615,
+      "before_sha256": "b70187135c41cc43d18ab12256b4650d195916e90d222449d37aa1bbd4b0996a",
+      "after_bytes": 519456,
+      "after_sha256": "2eb556b5ea3bd043ef244875a7162bb063975df6637104a8c1a5ea9c0b4141d1"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_SERIOUSNESS_OVERRIDE_LEDGER.md",
+      "before_bytes": 96149,
+      "before_sha256": "d225ed9b1ab62b930a8112c2b47ed8e82f545219c34102640d42c0276fed7c44",
+      "after_bytes": 98846,
+      "after_sha256": "656ff7cf06e917b903f3ff08ff34ff031675b88bd5028c3086ad282a5277bc0b"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_KAZUMA_NARRATOR_LEDGER.md",
+      "before_bytes": 110431,
+      "before_sha256": "c434a4dae032ee67bb32d015c27d4d14b48671daac392ec173ffd626eea9d415",
+      "after_bytes": 113351,
+      "after_sha256": "0f6d64edf37468792c26818228d9b14d5234fb384929f8cb06ff41146ba466c0"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_ORDINARY_LIFE_PREFERENCES_LEDGER.md",
+      "before_bytes": 107283,
+      "before_sha256": "3572a77a6531477e58c3ddc56adadb9661735a2cfd7e8734122d080ee03e58bf",
+      "after_bytes": 110054,
+      "after_sha256": "b4d70c8bd998c05870f9266ba49abd5d4d914f2bbe9d963f94550f0aa8ef1741"
+    },
+    {
+      "path": "series/konosuba/03 Longitudinal Ledgers/KONOSUBA_MODEL_PREDICTION_VALIDATION_LEDGER.md",
+      "before_bytes": 965816,
+      "before_sha256": "9931a7700117059446014a9aeb73fd2c02d97e7dbb64d6962e470cced016d357",
+      "after_bytes": 968632,
+      "after_sha256": "dcec889888779de81193f677ffe835d03aeb9068cd92d0977400af4258c8bf44"
+    },
+    {
+      "path": "series/konosuba/04 Checkpoints and Model Validation/KONOSUBA_WITHHELD_SOURCE_VALIDATION.md",
+      "before_bytes": 47695,
+      "before_sha256": "e92e9e655678b36eb9da140b7dd0bc5e6f4519bc3c1f0f46c1b9c0fa91ef9aba",
+      "after_bytes": 69096,
+      "after_sha256": "66dc82ed16f2443061b48fdca504fc6e206f47b5485749518803635213af4623"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.json",
+      "before_bytes": 546052,
+      "before_sha256": "e85f3f36e916cff1182c372dec5f1c16f9adfd3c484de88cb351897ee83715dc",
+      "after_bytes": 551438,
+      "after_sha256": "20618536ffc1d72275958a8c0f9d64c3ada97a849c9fe053f8583d35df70d1b1"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_COVERAGE_AND_ADMISSION_MATRIX.md",
+      "before_bytes": 32512,
+      "before_sha256": "e646530a497d779ec117ccfd38033d1ee364df6de98330012165c4d38dd38204",
+      "after_bytes": 35417,
+      "after_sha256": "587d73e5159300b577c67787be0123ab7ced1a166f4399e31dead0dad27f5b4a"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_INVENTORY.md",
+      "before_bytes": 20144,
+      "before_sha256": "239a1c694a35901c000e1af6aaab23906ea6b19eaf7bc54ca58b07968ebb89af",
+      "after_bytes": 22945,
+      "after_sha256": "9defa61c7f2d2ca87d591833c65bea9fb3a8f1b1a5f0d1eac1e130f4680e65b2"
+    },
+    {
+      "path": "series/konosuba/01 Source Lock and Inventory/KONOSUBA_SOURCE_LOCK.md",
+      "before_bytes": 14719,
+      "before_sha256": "529d34ae6c5561c0de3577282911911b9accc7aaa053b29a3c5a05c9d77fb49d",
+      "after_bytes": 17520,
+      "after_sha256": "1b594535e0ffde3211abe4640920cb5d382b8ddbf7af3e38389a79bcf7536aa4"
+    },
+    {
+      "path": "series/konosuba/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "before_bytes": 155253,
+      "before_sha256": "b8d269db0f9b2ca92721eefaf4a2b7d922b26f845a206733be470c9c3ad1f9df",
+      "after_bytes": 158582,
+      "after_sha256": "8e86533d555e4436d43023aad98e4e59973ad597f70d089bf37cfa58ba82310a"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_CONTINUOUS_COMPLETION_RUN_AUDIT.md",
+      "before_bytes": 166486,
+      "before_sha256": "5daaf8c2f1665d68c4d485a5f92aa66e4d58bd72af2d3e05ab00f5b0cbd3e56b",
+      "after_bytes": 169793,
+      "after_sha256": "41f1d837b633cf3eacdd30297b041daa01c25680e5329ea6cf12b3ad5c62de47"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_INDEPENDENT_CANONICAL_RECEIVING_V2.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 9416,
+      "after_sha256": "aeef2bcd763ab4734e31b36d9c81cef99bea6ca097bf29940567f03cc1945a5f"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_INDEPENDENT_CANONICAL_RECEIVING_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 4514,
+      "after_sha256": "9d64fb722751a86fe41685dc3733a0a35ab7c43e1f044d684aa8d0b1a56f0d89"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_SEMANTIC_CANONICAL_RECEIVING_V2.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 9741,
+      "after_sha256": "55916270ac4a4d27a84722b944c75695a80398969563c294bf3daa39994a9fd5"
+    },
+    {
+      "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_SEMANTIC_CANONICAL_RECEIVING_CLOSURE.md",
+      "before_bytes": null,
+      "before_sha256": null,
+      "after_bytes": 4964,
+      "after_sha256": "039c123c42819bbc982791187256b7f9a72e65a5f130bb470f1fd70e9033a540"
+    }
+  ],
+  "preservation": {
+    "all_ten_complete_previous_ledger_prefixes_exact": true,
+    "all_maintained_targeted_inverses_exact": true,
+    "all40other_source_objects_and_register_rows_exact": true,
+    "fixed41_identity_seal": "fe59ede667ed3532f9cd0e62fdd650655d029c191fd3bd95df84ab404f2f56c5",
+    "all66_frozen_suite_current_exact": true,
+    "all72_historical_suite_CR007_pins_retrievable_at3b92": true,
+    "all_original_DUST06_initials_and_candidates_preserved": true,
+    "YORI_MASK_and_Gen01_to05_histories_unchanged": true
+  },
+  "substantive_limits": "Five DUST06 principal prose members and unchanged-R1 source-local validation only. Full Stage B, full Stage C literary/edition/excluded-component analysis and all later completion responsibilities remain open. Original source/guard disputes, one-case adverse interpretations, E02 component-label difference and actual reviewer scopes remain visible.",
+  "publication": "Containing exact commit/tree/readback/source audit/housekeeping/final actual-SHA status pending at authorship; prior 0d8067f1 gate cannot certify this candidate. Concrete canonical adoption follows receiving. Current entrypoint will reconcile the later completed gate.",
+  "audit_self_exclusion": "This audit lists the other authored streams; its own exact bytes are bound by the final staged candidate and remote readback, avoiding a recursive self hash.",
+  "bounded_new_prose_refinement": {
+    "predecessor_candidate_manifest_sha256": "a225e004c824889c3d68f802f27299d25e223097407589208bd3534741ee059a",
+    "scope": "Normal spacing in genuinely new authored prose only, explicit CLOSED excluded-body wording, and complete header-stamp summary. Accepted table rationales, exact public products, all ten stamped ledger payloads and structured source fields remain unchanged.",
+    "canonical_adoption_and_publication_pending": true
+  },
+  "numeric_group_presentation_correction": {
+    "scope": "Root caught comma-spacing regression introduced only in new V3 prose. Restore ordinary thousands groups and clarify the initial-seal grammar; numeric values, literal contracts, accepted table, source boundary and all scores unchanged.",
+    "predecessor_manifest_sha256": "7eace3f98da437dc90e518bf5c28192e30ddda750a792a09ba2f4179b2268d66",
+    "original_V2_to_V4_candidates_preserved": true
+  },
+  "canonical_transaction_receiving": {
+    "root_accepted_for_adoption_utc": "2026-10-17T19:57:08.969150+00:00",
+    "exact_reviewed_V5_manifest_sha256": "87d5891fb8b159f6e80c0bcd79693e160a7695780b9eabc6b2b46fd62c645501",
+    "reports": [
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_INDEPENDENT_CANONICAL_RECEIVING_V2.md",
+        "bytes": 9416,
+        "sha256": "aeef2bcd763ab4734e31b36d9c81cef99bea6ca097bf29940567f03cc1945a5f",
+        "scope": "Complete genuinely new V2 values, exact reuse and two retained wording findings."
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_INDEPENDENT_CANONICAL_RECEIVING_CLOSURE.md",
+        "bytes": 4514,
+        "sha256": "9d64fb722751a86fe41685dc3733a0a35ab7c43e1f044d684aa8d0b1a56f0d89",
+        "scope": "Bounded actual V3/V4/V5 successor closure; prior full scope and root-found regression preserved."
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_SEMANTIC_CANONICAL_RECEIVING_V2.md",
+        "bytes": 9741,
+        "sha256": "55916270ac4a4d27a84722b944c75695a80398969563c294bf3daa39994a9fd5",
+        "scope": "Complete new report/source/state values, prior ledger/evidence reuse and retained narrow findings."
+      },
+      {
+        "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_DUST06_SEMANTIC_CANONICAL_RECEIVING_CLOSURE.md",
+        "bytes": 4964,
+        "sha256": "039c123c42819bbc982791187256b7f9a72e65a5f130bb470f1fd70e9033a540",
+        "scope": "Actual changed-value successor reading and exact inverses; no new full source/copy reading."
+      }
+    ],
+    "scope": "Complete genuinely new V2 semantic values followed by bounded exact V3/V4/V5 successor receiving. Preserved reports disclose the original wording issues and root-found numeric-spacing regression. No new primary reading or independent-trial claim. Final assembly adds only these exact reports and audit metadata/pins.",
+    "source_local_acceptance_remains": "2026-10-17T19:39:07.686147+00:00",
+    "containing_publication_gate": "PENDING"
+  }
+}

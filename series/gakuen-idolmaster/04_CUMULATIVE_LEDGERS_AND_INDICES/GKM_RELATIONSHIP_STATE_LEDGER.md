@@ -2,10 +2,10 @@
 title: "Gakuen Idolmaster V2 - Relationship State Ledger"
 project: "Gakuen Idolmaster"
 document_type: "persistent ledger"
-version: "2.14"
+version: "2.15"
 source_lock: "GAKUMAS V2 Source Lock 1.0"
 initialized: "2026-08-13"
-last_updated: "2026-08-24 — Phase 6 Kaya Rinha evidence matrix relationship transitions integrated"
+last_updated: "2026-11-12 — Source Lock 1.0 historical corrections; RINHA-AV-20260911 remains open"
 status: "active; cumulative through Phase 6 Systems I + II and Kaya Rinha evidence matrix"
 ---
 
@@ -171,7 +171,7 @@ No substantive entries are asserted at Phase 0. The schema is intentionally init
 | relationship | phase/state | current model | tension / asymmetry | confidence | later test |
 | --- | --- | --- | --- | --- | --- |
 | Sumika <-> Lilja | childhood / entry | best friend whose shared idol promise helps Sumika move after ballet fracture | Lilja's trust becomes heavy because Sumika converts it into obligation | very high | bilateral REVERSI synthesis |
-| Sumika <-> Lilja | concealment crisis | protector/strong-friend model fails when Sumika hides weakness | Sumika claims Lilja believes only old prodigy; Lilja rejects this | very high | integrate Lilja V2 directly rather than choosing one account |
+| Sumika <-> Lilja | concealment crisis | protector/strong-friend model fails when Sumika hides weakness | Lilja rejects trusting the promise, hesitates at the separate prodigy charge and acknowledges her part in the pressure (HSCA-005) | very high | integrate Lilja V2 directly rather than choosing one account |
 | Sumika <-> Lilja | mature REVERSI | mutual support -> companion + rival; separate wants/dreams become legitimate | unit/fusion language can obscure differentiation | very high | Pro-level REVERSI synthesis + AV blocking/vocals |
 | Sumika <-> Producer | early | persistent witness who does not demand shallow anti-avoidance; makes weakness survivable | evaluator becomes privileged emotional refuge | very high | meaningful refusal / alternative support |
 | Sumika <-> Producer | chosen fantasy | coauthor of `強いあたし`; supports performed ideal while warning against self-loss | strong interpretive influence | very high | Phase 7 governance |
@@ -332,7 +332,7 @@ Relational thesis: **Rinami's mature care is reversible rather than unilateral. 
 |---|---|---|---|
 | Saki ↔ Temari | E001 | antagonistic comparison becomes competitive recognition; Saki names intimacy faster than Temari does | high |
 | Sumika ↔ Lilja | E001/E004 | secure attachment permits Lilja's independent social expansion; jealousy is felt but not enacted as enclosure | high |
-| Lilja ↔ Temari | E001/E004 | quiet conviction earns respect despite persistent temperamental distance | high |
+| Lilja ↔ Temari | E001/E004 | genuine conviction earns respect; Sumika's dub gives Lilja attributed leverage she disavows (HSCA-006) | high |
 | Saki ↔ Lilja | E004 | competitive curiosity becomes mentorship and reciprocal rivalry | very high |
 | Saki ↔ Kotone | E001/E004 | practical care plus teasing horizontal correction | high |
 | Class 1-1 collective | E001/E004 | negotiated competitive federation; cooperation does not require harmony or shared self-description as friends | very high |
@@ -745,3 +745,58 @@ This section introduces no new source object. It revises relationship wording us
 
 Rinha is a strong example of why **surface hostility cannot be used as a scalar proxy for relational distance**. Her recurrent harsh/directive register can perform challenge, pedagogy, defensive armor, professional evaluation, play, actual anger, or care depending on recipient and scene. Conversely, familiarity does not neutralize a genuinely hostile line. The targeted AV baseline must partition these functions before the final dossier freezes relationship-specific speech behavior.
 
+<!-- RINHA_AV_20260911 -->
+## Rinha recipient controls — RINHA-AV-20260911
+
+| Relation | New bounded evidence | Consequence / remaining limit |
+| --- | --- | --- |
+| Rinha ↔ Temari | Dear024 severance wording at 1297.467s followed by training invitation at 1335.483/1341.333s | Permanent-severance reading is locally contradicted; does not turn all harshness into affection |
+| Rinha ↔ Misuzu | Dear024 visible phone/merchandise smiles and later unsmiling self-judgment | Fandom and normative self-disqualification coexist; audible register still open |
+| Rinha ↔ Saki | Dear026 sustained disclosure ends in encouragement; Dear034 explicit friendship admission accompanies folded arms/small smile | Direct vulnerability and affiliation can survive the ending; pose is not a fixed hostility code |
+| Rinha ↔ Ume | Dear029 refusal at 523.006/535.001s, Rinha’s acceptance at 536.870s, continued feedback at 569.536s | Concern can yield to a boundary while coaching continues; acceptance tone unheard |
+| Rinha ↔ Ume, support0097-03 | Final request at 271.817s, then Ume’s answer and no subsequent Rinha turn | Accepted vulnerability is an available ending; no invented recovery/deflection |
+| Rinha ↔ fans | support0097-02 at 174.000s labels an independent fan speaker while Rinha is onscreen | Preserve reception evidence; exclude fan line from Rinha’s 620-message corpus |
+
+Times identify points on the physical recordings in the [baseline](../05_AUDIOVISUAL_ANALYSIS/KAYA_RINHA/GKM_KAYA_RINHA_COMPLETE_AUDIOVISUAL_BASELINE.md); they are not continuous motion intervals or audible timestamps. All relation-conditioned vocal judgments remain open to direct review.
+
+<!-- HANAMI_U1_NIGHTMARE_CORRECTION_2026-11-07 -->
+## Correction — Saki ↔ Ume U1 Episode 04 states — 2026-11-07
+
+Authority: `GKM_RELATIONSHIP_SYSTEMS_I_HANAMI_REVERSI_AND_SYNGUP.md` §3.5.1 and `GKM_CORE_01_HANAMI_SAKI.md` v2.1 §3.6.1. The A1 raw scripts were re-inspected under Source Lock 1.0; no new source object is admitted. The Phase-3 table above had no U1 Saki ↔ Ume row; these rows fill that gap and leave the `D-SAKI` rows unchanged.
+
+| relationship | story_state | source_id | interaction_mode | power_or_dependency | change | continuity_class | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Saki ↔ Ume | U1 before the Selection | `adv_unit_01-04_04`–`04_06` | Saki fears the contest; Ume tells Sena that beating Saki is her life goal and that she has not thought past it | Saki’s older-sister role still depends on staying ahead; Ume’s dream is still borrowed | — | C1 @ U1 | high | Sena forecasts a post-victory breakthrough for Ume (`04_06`) |
+| Saki ↔ Ume | U1 Selection result | `04_07` | Ume’s first victory; Saki congratulates her, then collapses privately before the Producer | the vertical relation reverses for the first time in U1 | Ume announces that her world is wider and welcomes the rematch | C1 @ U1 | high | mutually exclusive with the `D-SAKI` result history |
+| Saki ↔ imagined Ume | U1 nightmare | `04_13` | imagined interaction only | — | dream-Ume calls the contest boring, chooses a Begrazia dream, and says goodbye | C1 @ U1 for occurrence; content is Saki’s representation | high as Saki evidence | **never cite as Ume behavior**; the raw script labels the speaker `佑芽`, and only staging and Saki’s waking line mark it as a dream |
+| Ume, Saki absent | U1 Begrazia scenes | `04_14`; `04_19`; `04_23` | Ume with Sena and Misuzu | — | beating Saki is a fulfilled dream; Ume loves idolhood and Begrazia; she announces a new dream and asks Sena to become top idols together | C1 @ U1 | high | confirms the nightmare’s premise of de-totalization; in `04_19` Ume names Saki among the people who should watch the new dream begin |
+| Saki ↔ Ume | U1 H.I.F. pre-stage confession | `04_18` | Saki discloses the flaws she hid; Ume says she always knew and loves her for them; both accept the contest | Ume’s regard does not depend on the invincible image | falsifies Saki’s admiration premise before any result | C1 @ U1 | high | — |
+| Saki ↔ Ume | U1 after the H.I.F. | `04_21` | tackle-hug renegotiated; Ume asks to keep challenging; both now run toward the same dream | Saki concedes Ume’s physical superiority; Ume finds Saki ahead of her; `1勝1敗` | shared field: competing is more fun; `次は！　負けないからね！` / `いつでも挑んできなさいっ！` | C1 @ U1 | high | contradicts the dream’s `つまんない` and `ばいばい`; the fear of abandonment is also visible on Ume’s side |
+
+## Historical source corrections — 2026-11-12
+
+| Relationship | Story state | Change and competing perspectives | Locator |
+| --- | --- | --- | --- |
+| Misuzu ↔ Temari | C1 @ U1 | Misuzu seeks a unit-based repair; Temari wants a serious rival and refuses. Misuzu briefly inhabits Temari's pace, then recommits to winning at a walk while Temari acknowledges the pain of defeat. | `LOC-HSCA-001A`, `001C`–`001D` |
+| Misuzu ↔ Kotone | C1 @ U1 | Misuzu expects reunion through Begrazia. Kotone challenges the unit-as-friendship premise; Misuzu defends Temari and says she misunderstood Kotone. | `LOC-HSCA-001B` |
+| Saki ↔ Ume | C1 @ D-UME | Saki resumes the rivalry after the N.I.A. loss. Ume hopes rivalry will renew Saki's fuel. Their late professional plans name the same agency while relying on different decision processes. | `LOC-HSCA-002A`–`002E`, `003A` |
+| Sena ↔ Saki | C1 @ U1 | Sena recognizes a mirror; Saki returns the criticism of refusal to give up. The peers defer deciding whether they can continue. | `LOC-HSCA-004B` |
+| Sena ↔ Ume/Misuzu | C1 @ U1 | Sena sets her own exit threshold. Ume intends to answer by action; after the unit defeat she challenges Sena's self-ranking, while Misuzu challenges her numerical position. The three agree on wanting to continue. | `LOC-HSCA-004A`, `004D` |
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| relationship | story_state | source_id | interaction_mode | power_or_dependency | change | continuity_class | confidence | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Kotone ↔ Sena | winter D-KOTONE | GKM-R86-01 | rival, admirer and new friend | outgoing titleholder acknowledges successor at the award | Sena acknowledges defeat and invites reciprocal informal address | C1 | high | D-SENA gives the reverse result |
+| Kotone ↔ Tsubame | D-KOTONE Selection | GKM-R86-01 | junior/senior duel | Tsubame claims exclusive position beside Sena then recognizes Kotone's audience orientation | Tsubame recognizes Kotone’s audience-facing competition after 舞道場, then accepts the Selection loss | C1 | high | Tsubame's original prescription and retraction both matter |
+| Mao and Rinami ↔ Kotone | D-KOTONE final | GKM-R86-01 | coaching, fan work and rivalry | mutual promotional benefit and parting into competition | Rinami declares the support job complete before competing | C1 | high | participation does not determine final placement |
+| Sena ↔ Tsubame | D-TSUBAME award, separate D-SENA/P3 results | GKM-R86-02, GKM-R86-03 | title contest and professional horizon | title can change holder, future comparison survives | Tsubame asks Sena to chase her in D-TSUBAME | C1/C3 as named | high | multiple incompatible winners |
+| Tsubame ↔ Rinami | E028 and separately D-TSUBAME 031 | GKM-R86-03, GKM-R86-05 | institutional facilitation and new challenge | Tsubame can influence access and leaves Rinami's choice to her | Rinami goes onstage and resolves to sit the exam | C1 each | high | generic festival reference supports comparison |
+| Temari ↔ Misuzu | E027 and M-MISUZU 018 | GKM-R86-05, GKM-R86-08 | childhood familiarity, work and competition | support exists across council membership and producer roles | explicit reciprocal childhood memory and later shared rehearsal support | C1 local / C2 globally | high | E027 placement and prior reconciliation chronology remain scoped |
+| Rinha ↔ Misuzu and Temari | M-MISUZU 018 café | GKM-R86-08 | retrospective dispute in present contact | Rinha recognizes their repair, disputes being analogous | dialogue adds Rinha's own perspective on failed equivalence | C1 internally | high for speech | degree of teasing and disagreement pending AV |
+| Saki ↔ Ume ↔ Lilja | E030 | GKM-R86-06 | cooperation during rivalry, role-specific mentorship | Lilja depends on their craft and also directs them | siblings agree to a temporary truce, Lilja adapts Ume's task and Saki names her dual responsibilities | C1 local / C2 globally | high | romantic teasing has an explicit denial |
+| China ↔ Kanae | Kanae 000 and separately support 3-0122 | GKM-R86-04, GKM-R86-07 | formal attendant and family-like mutual care | status difference and collaborative labor | China voices gratitude and privately wishes for Kanae's own dream. Kanae seeks first-hand experience to help | C1 local / C4 support | high for source states | proposal and independent aim open |
+| Sumika ↔ Lilja and Sumika ↔ mother | M-SUMIKA 018 | GKM-R86-08 | joint commitment during pause and direct family repair | mother's prior misunderstanding, father's knowledge gap | Sumika maintains both her career and family contact, plans to bring Lilja | C1 local | high | father follow-up open |
+| Rinami ↔ Temari | support 3-0106 | GKM-R86-07 | audience-facing craft and mutual encouragement | turns between junior learner and senior witness | Rinami teaches reporting, Temari shares why she stays in idol work | C1 local / C4 globally | high | delivery pending |
+| Sena ↔ Misuzu | support 2-0057 and E027 | GKM-R86-07, GKM-R86-05 | supervision and independent initiative | different work tempos | Sena recognizes Misuzu's recall and ability while Misuzu credits Sena's coordinating work | C1 local | high | no single merged chronology |

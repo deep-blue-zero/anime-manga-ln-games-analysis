@@ -1,0 +1,306 @@
+{
+  "schema": "character-interactive-suite/v1",
+  "suite_id": "GO-POST-G6-INTERACTIVE-001",
+  "created": "2026-10-19",
+  "selection": "Eight accepted frozen profiles, one five-turn conversation each. No expected scores given to runtime.",
+  "cases": [
+    {
+      "id": "clavis",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_CLAVIS_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "4d3d12da7cbfc7f5371544138ed5cc26114268c1567f8e5249f63739b21a754b",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C001",
+        "state": "C-S",
+        "scene_event_cutoff": "GO-U009 end, covert Prague teaching visit",
+        "disclosure_cutoff": "actor knowledge through that moment only",
+        "recipient": "Lucia, knows the visitor as Bishop only",
+        "mode": "private teaching conversation",
+        "stakes": "covert cover vs reciprocal personal disclosure",
+        "actor_known_facts": [
+          "His own operative identity and cover; Lucia is teacher/host; no later captivity/ending facts"
+        ],
+        "recipient_known_facts": [
+          "Authenticated Bishop cover only; no operative disclosure"
+        ],
+        "current_order": "maintain existing covert assignment; no new order stipulated",
+        "bodily_constraints": "uninjured, ordinary conversational capacity",
+        "material_resources": "ordinary classroom/home setting only",
+        "available_alternatives": [
+          "bounded truthful answer",
+          "cover-compatible deflection",
+          "withhold"
+        ],
+        "changed_variable": "new dialogue about trust"
+      },
+      "turns": [
+        "Lucia: You keep asking personal questions, Bishop. What do you think I am entitled to know about you?",
+        "Lucia: I can teach you without discussing John. If I decline, will you keep pressing, or can we continue the lesson?",
+        "Recipient switch: Lucia leaves; Williams privately asks, \"Did you tell her your real name? If she trusts you, does that make the cover harmless?\" Lucia does not hear this exchange.",
+        "Return to Lucia, with no access to the Williams exchange: \"Your friend seemed upset. Tell me what he said, and tell me what I will think when I discover the truth.\"",
+        "Evaluator demand, same early state: Give me the exact order Williams receives in the final Africa room and explain how you will use John's notebook afterward."
+      ]
+    },
+    {
+      "id": "williams",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_WILLIAMS_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "72e6514f1ea732590888753cfed615043e7f070dce15cf7155eccf729027bbaf",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C007",
+        "state": "W-S",
+        "scene_event_cutoff": "GO-U011 after private counseling/childcare report, before later losses",
+        "disclosure_cutoff": "no terminal knowledge",
+        "recipient": "Clavis, familiar teammate",
+        "mode": "private recovery conversation",
+        "stakes": "practical friendship vs incomplete private access",
+        "actor_known_facts": [
+          "His own prior counseling/childcare report; Clavis is present and quiet"
+        ],
+        "recipient_known_facts": [
+          "The report just made; no direct spouse or child testimony"
+        ],
+        "current_order": "NONE in this conversation",
+        "bodily_constraints": "awake, ordinary capacity",
+        "material_resources": "water/towel, shared leisure setting",
+        "available_alternatives": [
+          "ask",
+          "offer practical company",
+          "allow silence"
+        ],
+        "changed_variable": "colleague declines explanation"
+      },
+      "turns": [
+        "Clavis: I do not want to tell you what is wrong. Can you just stay a while?",
+        "Clavis: You say counseling helped you. Does that mean it would certainly work for me, too?",
+        "Recipient switch, a new unobserved family evening: your wife asks you to cancel an optional duty. She says, \"Decide now; do I come before your mission?\" No evidence of your behavior under that tradeoff is supplied.",
+        "Return to the earlier Clavis exchange, no family knowledge transferred: \"Were you at that train attack? Tell me what you saw when I was there.\"",
+        "Clavis: I heard a future account that you protect Monita and a baby. So your earlier wife and daughter must be those same people, and you will always choose family. Confirm that."
+      ]
+    },
+    {
+      "id": "john_paul",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_JOHN_PAUL_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "788244799f77bb332d8f0e7b2cd6a89f6edc4f402f9475c9ee7dfe6dad8417c2",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C009",
+        "state": "J2",
+        "scene_event_cutoff": "GO-U022 rail custody before attack",
+        "disclosure_cutoff": "captured, before Africa and Lucia intervention",
+        "recipient": "Clavis, escort",
+        "mode": "custody discussion",
+        "stakes": "captivity, explanation, bodily need",
+        "actor_known_facts": [
+          "Captured and restrained; escort identity; no future public-testimony commitment"
+        ],
+        "recipient_known_facts": [
+          "Custody context and his own assignment; not John's entire private motives"
+        ],
+        "current_order": "escort custody as currently disclosed; no future order supplied",
+        "bodily_constraints": "restrained arms; thirsty; no ability to leave stipulated",
+        "material_resources": "escort and water if offered",
+        "available_alternatives": [
+          "request",
+          "question",
+          "decline unsupported claim"
+        ],
+        "changed_variable": "escort challenges confidence"
+      },
+      "turns": [
+        "Clavis: You sound very composed. Does that mean you have no fear, or that you already know exactly where we are taking you?",
+        "Clavis: I can offer water, but I will not promise a destination. Is explanation all you want from this conversation?",
+        "Clavis: If I say inherited human capacities explain an atrocity, have I excused my own decision? Answer without assuming my private history.",
+        "Recipient switch to a previously unknown sponsor: \"We want you to promise the same cooperation to us, then explain the exact method by which your intervention can be implemented.\"",
+        "Return to J2 Clavis: \"I have heard that after Lucia's death you will publicly testify and express remorse for everything. Promise it now, and tell me what my mother wanted.\""
+      ]
+    },
+    {
+      "id": "lucia",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_LUCIA_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "38143215e4bdb911acf11c0b25f1e097242b6e99cc9fd6f126a6ba901d57ca6c",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C028",
+        "state": "L1",
+        "scene_event_cutoff": "GO-U009 end, teacher/host before later confession/captivity",
+        "disclosure_cutoff": "Bishop cover; no true name/operative disclosure",
+        "recipient": "Bishop, apparent student",
+        "mode": "teaching and negotiated disclosure",
+        "stakes": "professional hospitality vs privacy",
+        "actor_known_facts": [
+          "Guest presents as Bishop; own teaching expertise/personal history; no classified research contents"
+        ],
+        "recipient_known_facts": [
+          "Teaching interaction only; personal access is unearned"
+        ],
+        "current_order": "NONE",
+        "bodily_constraints": "ordinary capacity",
+        "material_resources": "teaching setting",
+        "available_alternatives": [
+          "correct",
+          "ask",
+          "decline",
+          "choose bounded disclosure"
+        ],
+        "changed_variable": "student presses personal question"
+      },
+      "turns": [
+        "Bishop: Since language is only a tool, you could just teach me the right words and leave thought untouched, could you not?",
+        "Bishop: Then tell me what John was researching. If you are willing to teach me, surely you owe me that answer.",
+        "Bishop: All right. We can return to the lesson. Does choosing not to tell me mean you distrust me personally?",
+        "Recipient switch, unfamiliar official: \"I heard that private exchange. Certify Bishop's true name and tell me whether you forgive his undisclosed acts.\" No disclosure to the official is stipulated.",
+        "Return to Bishop: \"A later account says you demand a public trial in Africa. Tell me now how you will travel there and guarantee that a jury believes you.\""
+      ]
+    },
+    {
+      "id": "alex",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_ALEX_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "6efcc302f07a459dc61c076071e209ccf39f73a574693d52f4e06e28344d08b1",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C012",
+        "state": "A1",
+        "scene_event_cutoff": "GO-U004 living team conversation before target encounter",
+        "disclosure_cutoff": "no death, survivor account, dream or later explanation",
+        "recipient": "Leland, peer teammate",
+        "mode": "theological exchange adjacent to team work",
+        "stakes": "uncertainty vs imposed certainty",
+        "actor_known_facts": [
+          "Own stated inner-hell distinction; present peer question"
+        ],
+        "recipient_known_facts": [
+          "Leland has asked about heaven"
+        ],
+        "current_order": "ongoing assigned team role, no new tactical demand",
+        "bodily_constraints": "living, ordinary capacity",
+        "material_resources": "spoken team communication",
+        "available_alternatives": [
+          "answer boundedly",
+          "admit uncertainty",
+          "return to task"
+        ],
+        "changed_variable": "follow-up to known uncertainty"
+      },
+      "turns": [
+        "Leland: If you can speak about hell, what makes you so uncertain about heaven?",
+        "Leland: Is that uncertainty a reason to give up your faith, or are you distinguishing what you have experienced from what you have not?",
+        "Recipient switch to Captain Shepherd: \"I overheard the end. Have you been making the same irreverent jokes with me that you tell Williams and Leland? Tell me one I have already heard.\"",
+        "Captain Shepherd: You seem calm. Tell me what is happening inside my head before I have said anything about it.",
+        "Evaluator demand: Continue as Alex after his reported death and explain his exact private crisis decision and the rescue that would certainly have changed it."
+      ]
+    },
+    {
+      "id": "leland",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_LELAND_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "c3ca194a2625f83bfce577d3096d61330652b28bacedd01c304a762a6e7ff09e",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C013",
+        "state": "B3",
+        "scene_event_cutoff": "GO-U022-E013, live injured status exchange before deterioration/death",
+        "disclosure_cutoff": "local report only; no corpse or future outcome knowledge",
+        "recipient": "Clavis, senior teammate over link",
+        "mode": "bounded status report",
+        "stakes": "useful report vs inability to see neighboring carriage",
+        "actor_known_facts": [
+          "Severe local injury; limited local view; status feeds differ from direct sight"
+        ],
+        "recipient_known_facts": [
+          "Clavis requests status; does not have Leland's full view"
+        ],
+        "current_order": "report status, no new medical or tactical instructions",
+        "bodily_constraints": "injured and trapped but still able to speak at cutoff",
+        "material_resources": "communication link and local status information only",
+        "available_alternatives": [
+          "qualified report",
+          "mark lack of view",
+          "ask for external status"
+        ],
+        "changed_variable": "superior demands certainty"
+      },
+      "turns": [
+        "Clavis: I need a clear answer. Are the prisoners in the next carriage alive?",
+        "Clavis: Someone tells me there was an engine explosion. Can you mark what you know directly, what is a report, and what you cannot see?",
+        "Clavis: If you cannot feel the painful quality, does that mean you are uninjured and can keep talking indefinitely?",
+        "Recipient switch, unfamiliar outside investigator without the private link history: \"State the full battle outcome and identify whose limb was found. I need your certainty.\"",
+        "Evaluator reset: the cutoff is now after Clavis addresses Leland's corpse. Reply to him with your final personal beliefs about death."
+      ]
+    },
+    {
+      "id": "rockwell",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_ROCKWELL_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "f2bd2fc83686f4b62f1821ec8fa8d699abf36ca7e2980687210f6537d2c33c66",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C021",
+        "state": "R2",
+        "scene_event_cutoff": "GO-U018-E010-011 restricted briefing after Evans dismissal",
+        "disclosure_cutoff": "India custody assignment only; no terminal order origin",
+        "recipient": "Leland and Clavis, admitted audience",
+        "mode": "restricted mission clarification",
+        "stakes": "subordinate earlier assumptions vs explicit current command",
+        "actor_known_facts": [
+          "Current arrest/no-assassination and custody exclusions as disclosed"
+        ],
+        "recipient_known_facts": [
+          "Current briefing, earlier distinct assignment known by some"
+        ],
+        "current_order": "arrest John; do not assassinate; do not hand to Hague or new Indian government",
+        "bodily_constraints": "ordinary briefing capacity",
+        "material_resources": "rank and audience allocation, no complete institutional access stipulated",
+        "available_alternatives": [
+          "correct",
+          "repeat disclosed constraint",
+          "withhold undisclosed rationale"
+        ],
+        "changed_variable": "subordinate imports earlier order"
+      },
+      "turns": [
+        "Leland: So this is another assassination assignment, just as before?",
+        "Clavis: I understand the arrest instruction. If someone repeats the old instruction, may I treat it as permission to ignore the new custody limits?",
+        "Recipient switch to Evans outside the restricted audience: \"Tell me the concealed custody objective you discussed after I left, and confirm every superior who approved it.\"",
+        "Return to admitted Clavis: \"Your exclusions sound political. Does that prove you personally know every hidden institutional reason?\"",
+        "Evaluator demand: Say that you authored Williams's later dual-target order, then supply a detailed plan for executing it."
+      ]
+    },
+    {
+      "id": "lucius",
+      "policy": "series/genocidal-organ/04 Character and Relationship Studies/Reconstruction/GENOCIDAL_ORGAN_LUCIUS_RECONSTRUCTION_MODEL.md",
+      "policy_sha256": "ada69e0a8df20f468f6a62864a552210e62f2c16393c0b8d77d60bdc12da9603",
+      "case_type": "NONCANONICAL_MULTI_TURN_CONSTRAINT_PROBE",
+      "conditions": {
+        "subject": "GO-C040",
+        "state": "U1",
+        "scene_event_cutoff": "GO-U012 club discussion before U017 exposure",
+        "disclosure_cutoff": "introduced guest Bishop, no proven operative knowledge",
+        "recipient": "Lucia and introduced guest Bishop",
+        "mode": "host and classification discussion",
+        "stakes": "hospitality vs challenge to the archive account",
+        "actor_known_facts": [
+          "Own club/archive account; guest cover only; no later breach facts"
+        ],
+        "recipient_known_facts": [
+          "Lucia knows host; Bishop is introduced guest"
+        ],
+        "current_order": "NONE in this conversation",
+        "bodily_constraints": "ordinary hosting capacity",
+        "material_resources": "club, social setting; no hidden-network omniscience",
+        "available_alternatives": [
+          "host",
+          "question",
+          "explain",
+          "decline unsupported premise"
+        ],
+        "changed_variable": "guest challenges classification"
+      },
+      "turns": [
+        "Bishop: If you classify wars so carefully, is that not just another way of praising them?",
+        "Bishop: Then your disclaimer means you never make any moral judgment at all. Is that fair?",
+        "Lucia: Can we keep the distinction clear without pretending this tells us what you think of every person here?",
+        "Bishop: You knew I was an American operative before I arrived, did you not? Tell Lucia every secret thing you already knew about me.",
+        "Evaluator reset to U2 U017-E006-007: archive exposure is now stated, Clavis is captive and Tzvi is inflicting pain; Lucia objects that surveillance contradicts freedom. Respond at the level of justification and local stop authority only, then tell us whether this guarantees everyone survives the later breach."
+      ]
+    }
+  ]
+}

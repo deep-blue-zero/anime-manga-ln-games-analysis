@@ -1,0 +1,978 @@
+{
+  "schema": "tomozaki_supporting_and_primary_relationship_path_validation_manifest/v1",
+  "artifact_type": "project_local_path_and_validation_manifest",
+  "status": "canonical",
+  "release_state": "mutable_active",
+  "date": "2026-10-23",
+  "baseline_commit_at_preparation": "3f6de31906fea9bb1e6db5511365589ccb5726dc",
+  "authored_allowlist": [
+    "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+    "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+    "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Nanami Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Natsubayashi Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/README.md",
+    "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+    "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+    "series/tomozaki/06 Specialist Synthesis/README.md",
+    "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md",
+    "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md",
+    "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md",
+    "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_AND_RELATIONSHIP_PATH_AND_VALIDATION_MANIFEST.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json",
+    "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+    "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md"
+  ],
+  "authored_payloads_excluding_self": [
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+      "bytes": 58236,
+      "sha256": "0fb45b545e7e8981e16463179c20d355edeb075ba440a0d837730d22ee86c80b"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+      "bytes": 155580,
+      "sha256": "5fc6aa8ab962377772c12a37124892af4eac6a7b22d9110d8d27d45d13b358df"
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md",
+      "bytes": 145033,
+      "sha256": "f8d258a5c1ba3be2507db6892bb9f8634b0b96b1e1719945762b51fd3b56ee7d"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 36479,
+      "sha256": "e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+      "bytes": 217498,
+      "sha256": "d296e4189f752e27f580c9b06122c7bb3018a4370c0e11d8deb4ccd16eb70588"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 21156,
+      "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 21092,
+      "sha256": "14970faee4414855df13fef93b3dec521a19c15f580419a246b57c514f9a43a8"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 23541,
+      "sha256": "495ab3b6ea6edfa749c39d02a1639ed293ebe2ac66e846d349ad2524ab84b85f"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md",
+      "bytes": 41774,
+      "sha256": "8e494e41e1843a793a7e566cea6e0a6d086644c8355335470c90ea2eb2a20bbe"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+      "bytes": 202760,
+      "sha256": "0f7446d6756fa93eb6203872a8cfe85461dd63cc0d75f55c486995efd3b53c71"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 22579,
+      "sha256": "4ac425fa47fbfcac682d8c8fa0de9554a5c5747fc7e4382cebc42c23bf1593d0"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 36464,
+      "sha256": "a78acb3452ce92727470b09c401360758b86d1585f5cb4c931f592846322d12c"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+      "bytes": 39886,
+      "sha256": "5979bfffa3934856102290a10923f13d4e3a8c2923c460d5b3d9e09a6059ecd1"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 22183,
+      "sha256": "6524509f68cb0409702fb320249ae492cc36592121c5a11af213186f240fdbc3"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Nanami Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md",
+      "bytes": 218202,
+      "sha256": "31885d035841274f6070964123f3ca6b19d2a86af0cbf4b0ec3cb34c1ff7e192"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 22990,
+      "sha256": "b46ca19efe3984d1349316d2af5a99d7587ecc642c902bc2455d7abbea292371"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Natsubayashi Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md",
+      "bytes": 43619,
+      "sha256": "adeb9b23234a9e332c4fd6a82e80e67040dead695f3ca687ef93b903f8087fb7"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/README.md",
+      "bytes": 8103,
+      "sha256": "f137bb57c2509c495523a8d706b41dd6ddebfadca95b0bd9b81510c82b856599"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 36387,
+      "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 21854,
+      "sha256": "6b7a41752353a85895e19df621a3e830787949ae09488642a98fb2c3a5e176d1"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+      "bytes": 184500,
+      "sha256": "1be90778f0f65cab18096758b4c3bd94d2d84aadb8fde4290ed1b53e5b50ab60"
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+      "bytes": 36143,
+      "sha256": "7723152c6d46c7bf5ea0e837a15c78431f28f7d2ac29cc6e09f848ba84a335bc"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/README.md",
+      "bytes": 3331,
+      "sha256": "1ef6ef71628bd2d6691e31c880934e0e6a33730e085372302dab05baf5371a23"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 68988,
+      "sha256": "7b7787a8686c5df24b49de53cbdb101d4dc40d91843e336e045ad4cc50c163b9"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 64410,
+      "sha256": "731654f54b5cc3c152d9a0fb91beef5b67cbc4500cf84bac1682b172e88aa235"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md",
+      "bytes": 56248,
+      "sha256": "29534d21240b7578084475e86e033fd5e9514f35cdab3262058bbc3cf798e07c"
+    },
+    {
+      "path": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+      "bytes": 81395,
+      "sha256": "259ff888b7d0e36b070ab4deaedbdf87d2023d21e848b5d303d9144a9ae7cadd"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json",
+      "bytes": 726161,
+      "sha256": "f22540e9d02a1443d10b819ee45577b0f552c71ed3e93398ddc11b9ef9f0272c"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json",
+      "bytes": 200009,
+      "sha256": "896720f5373c891fe42d26df22a32c83a1317f440a4eb02c578b4e8aade32add"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md",
+      "bytes": 20737,
+      "sha256": "3872850069d0cad3636755295c5e4a4c1f946c9dc95058b785c6dcdac2051b24"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 281705,
+      "sha256": "33789d4aead03448055f833d6806bae1b2c9ea2153cdb7381042761f9417e9a4"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md",
+      "bytes": 10660,
+      "sha256": "b3a1ea937f4465d943da93ee8a1fd8a356b2f66251485fe89267b8059cd62dfa"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+      "bytes": 39782,
+      "sha256": "f775033e2dd51fe0ea70cb355065c886e8ee7d58049b0c5eed78ba9cf4205dbf"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+      "bytes": 14151,
+      "sha256": "1c2628ede4a780de5de44cd0c057b7281a41d80310c518c1a0cfd2c4d3db4343"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+      "bytes": 585817,
+      "sha256": "49ec42dff189f73da373ea883013d5a3a9ca202262f9a2cd1452d41f8c71f6ca"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json",
+      "bytes": 22925,
+      "sha256": "5c74066263368ef2ec4ed782163f5ed0d1608d5c2c23074d422868f9a5b4b11a"
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md",
+      "bytes": 18196,
+      "sha256": "6f9eb196c11dcf72cbd61837c66e0d6decaaa0adbcf38023b45e9cca10991a8a"
+    },
+    {
+      "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "bytes": 59528,
+      "sha256": "3f400f9803caaeac3fb88e820115186a2d47a8606d47ab3b2f9a59afc2de662a"
+    }
+  ],
+  "accepted_literary_scope": {
+    "A_monographs_through_V12": 7,
+    "B_dossiers": 11,
+    "C_individual_member_sections": 37,
+    "D_identification_abstentions": 1,
+    "group_contexts": 6,
+    "primary_dyad_studies": 3,
+    "ensemble_and_all_seven_themes": "NOT_YET_ACCEPTED"
+  },
+  "source_boundary": "Japanese mainV01–V12 and separately routedV06.5/V08.5; V07SpecialEdition source-layer distinctions; no new admission",
+  "prior_character_coverage_manifest": {
+    "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_CHARACTER_PATH_AND_VALIDATION_MANIFEST.json",
+    "bytes": 22925,
+    "sha256": "5c74066263368ef2ec4ed782163f5ed0d1608d5c2c23074d422868f9a5b4b11a"
+  },
+  "unaffected_preexisting_title_files": [
+    {
+      "path": "series/tomozaki/.repository/series-registry.json",
+      "sha256": "58499a5c519a4dd50c3c72d1a2b9773e153e7cfd5e12ee44bffbba964598f762",
+      "bytes": 614
+    },
+    {
+      "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md",
+      "sha256": "a0b3792c861ea94298b78e903e24c38d9043104f6d3695aaccead464c30168e8",
+      "bytes": 17025
+    },
+    {
+      "path": "series/tomozaki/01 Source Lock and Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md",
+      "sha256": "04555d264c94792a98df1e280a54d323ce214c05e9851f142f4075294fc3bf22",
+      "bytes": 11684
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/README.md",
+      "sha256": "db2213f97a1855b6baa2f4dfe9f0802fed0db963c9d162e712ddce9a626e9f4e",
+      "bytes": 7463
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V01_DEEP_READING.md",
+      "sha256": "aee76ef0969c775e97d934e4982e2d5fca18fa0121338e48de37708727d7c76e",
+      "bytes": 48947
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V02_DEEP_READING.md",
+      "sha256": "6971cb4786046332f4bc90ef78574f8aae1231b0104f5ecc3da618d19429967f",
+      "bytes": 48429
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V03_DEEP_READING.md",
+      "sha256": "cb7b25438d6e3851bbbc5de08b85260d72c3cfc24ad823dfc6f6778d5a8e5467",
+      "bytes": 54677
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V04_DEEP_READING.md",
+      "sha256": "aded13bbdfe3beecb5aaf049e8588ee05e4e5801c4a029c5aae29825997a6494",
+      "bytes": 55108
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V05_DEEP_READING.md",
+      "sha256": "87aeb98948855b232d3f9ddd97cde252c0488f31c4c8a6583621a44504f9f247",
+      "bytes": 62512
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md",
+      "sha256": "06728c4a1bdaf77316851272c4796dc64139909fba154357d9bfb5449f83df9a",
+      "bytes": 34031
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V06_DEEP_READING.md",
+      "sha256": "7d978cfc38a585cb3fa1eaee341cf8fdffe1ad5502dc69bebe1e95612f9612bc",
+      "bytes": 57844
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V07_DEEP_READING.md",
+      "sha256": "ce618c9a0752eac3f6487200a31885c9cf6d7bddf0c720218f22c6646296c7f3",
+      "bytes": 67696
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md",
+      "sha256": "361aa4fdff9017509b8f17adf5f0d643beca8fd3d205f92427de900df96ad000",
+      "bytes": 39200
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V08_DEEP_READING.md",
+      "sha256": "e50cfcade097c9a1494d69bfcfa56cfbdbcca0dff4b3721f5f3d1b20abb30f50",
+      "bytes": 50690
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V09_DEEP_READING.md",
+      "sha256": "de0f6cb344479360d1dffdc8b4de0b3ba9d0a3bc4f78d1868553820bb1f6d6cb",
+      "bytes": 60208
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V10_DEEP_READING.md",
+      "sha256": "e0f5bc615620cbab8910706ec32bf68789adf77a987bdd6c6f5fd38c59d8477d",
+      "bytes": 57797
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V11_DEEP_READING.md",
+      "sha256": "c83ad4add9cb4f294fa66cb6cb9d43f876eb1c4fb869cfc30e68f8e7b6b701c8",
+      "bytes": 75055
+    },
+    {
+      "path": "series/tomozaki/02 Sequential Readings/TOMOZAKI_V12_DEEP_READING.md",
+      "sha256": "cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6",
+      "bytes": 68805
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/README.md",
+      "sha256": "705ece26f37406c12ed6cd318866e335dd9a68592123cc4c6757bbe2d9763ab2",
+      "bytes": 5685
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CHARACTER_STATE_LEDGER.md",
+      "sha256": "fef4bec36097f5b4438c8e553f32b59266f38efd68d6c167b9c6b09b9dcba392",
+      "bytes": 129611
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md",
+      "sha256": "938ff0eacd72ba557c3776dc689ddb2e75a775263a9bfdc4e0bb4c0832c10f59",
+      "bytes": 198814
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md",
+      "sha256": "cc8a6387342a8f715bdebb86a825ddf82ac68b7f007f56a72300288692e705f3",
+      "bytes": 52873
+    },
+    {
+      "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md",
+      "sha256": "b9db3da99aa62fdb879d25c9caaf1af393542ba73030ca4acd13b53c64628022",
+      "bytes": 115139
+    },
+    {
+      "path": "series/tomozaki/05 Full-Series Synthesis/TOMOZAKI_FULL_SERIES_SYNTHESIS.md",
+      "sha256": "6e51ba07492b46cf824909ab420704d988d6f48352ea4cdda3c536fc324ca27f",
+      "bytes": 53526
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/HINAMI_AOI_R04_INTEGRATION_REVIEW.md",
+      "sha256": "11943ba08446ca21b796800a15a7885f0fbe3e5723c14a51a8c026dd888ac28a",
+      "bytes": 14022
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/HINAMI_AOI_R04_PATH_AND_VALIDATION_MANIFEST.json",
+      "sha256": "3e7eb979bf141d72c61e161c0191557f25b1bca1491fd07bdddc859276b46381",
+      "bytes": 13444
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/KIKUCHI_FUKA_R05_INTEGRATION_REVIEW.md",
+      "sha256": "e5252073f7c4f3b569873a79cf643c5e7ae315b0bf1b20616590366a9d8d5958",
+      "bytes": 14615
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/KIKUCHI_FUKA_R05_PATH_AND_VALIDATION_MANIFEST.json",
+      "sha256": "9c721db28779ced41934acc3dfe202b1bdfe5dd9bc39f69add524818e474fb4e",
+      "bytes": 13923
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/NANAMI_MINAMI_R05_INTEGRATION_REVIEW.md",
+      "sha256": "1f2ef8c2cde8c5aa007a94234130e0f07c3a7d8d87ea6792e72076ba0232d946",
+      "bytes": 16071
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/NANAMI_MINAMI_R05_PATH_AND_VALIDATION_MANIFEST.json",
+      "sha256": "f24ad6d18218d2cb6d22f6f66f0afc60ea97ffd799788818e6a380e32120ccda",
+      "bytes": 15639
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_ARCHITECTURE_AND_SYNTHESIS_ROLE_GAP_AUDIT.md",
+      "sha256": "db46bb7025f6d0118ee82d1f5dffb18d9bf548c555dfdcc417c76f5ed594636e",
+      "bytes": 75367
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_BOOTSTRAP_PATH_MANIFEST.json",
+      "sha256": "631e63ab19094c41f45816a91e3c99afafbcf625b744abe937f329a6f2717615",
+      "bytes": 3037
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FULL_SERIES_SYNTHESIS_VALIDATION_AUDIT.md",
+      "sha256": "baf738301c4b882d6116e64910be9e0176a4eace442dbba1a1abed301f9b4e37",
+      "bytes": 9786
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FUMIYA_R04_INTEGRATION_REVIEW.md",
+      "sha256": "33dac48db631ad3c9e7ada0950eadbf5be9db9d1f234b7bc6f648945d9d7f3ac",
+      "bytes": 13173
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_FUMIYA_R04_PATH_AND_VALIDATION_MANIFEST.json",
+      "sha256": "111fe967ed91a30d54d848e9d01fa1e39c7512955b977054274f0de405ffec67",
+      "bytes": 12792
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_LONGITUDINAL_RECONCILIATION_AUDIT.md",
+      "sha256": "2dd3bc309e8403132b28b8302eb5762dfa36d282c3f5a0dc9b08a8dce3beb376",
+      "bytes": 27134
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_R01_R03_PATH_AND_VALIDATION_MANIFEST.json",
+      "sha256": "a9e115f461c2c9fb537ac9d2e9fbe9617bcae290d8cad8c0e9bd41bba603b400",
+      "bytes": 11501
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md",
+      "sha256": "4616495b21e374547c58e63ade5ce99e1cfb6116ceb84621df92be99f94850e1",
+      "bytes": 35306
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PATH_AND_VALIDATION_MANIFEST.json",
+      "sha256": "55fb06d22132ebda529e9c7a47ee7a1dbce32f6caabc81d586b324d40ef6bf3c",
+      "bytes": 19625
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_PROSPECTIVE_ENTERING_SNAPSHOT.md",
+      "sha256": "8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17",
+      "bytes": 61110
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_SEQUENTIAL_COMPLETION_AUDIT.md",
+      "sha256": "1fe7adb069f95f3ee8fdd86454ad58fd8947cdf978b24955b27a583014a4bbff",
+      "bytes": 42512
+    },
+    {
+      "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_V12_SOURCE_ADMISSION_AUDIT.md",
+      "sha256": "560d78517a985d28c8a501dd67c280be38cefc5990059f7865bc01a5fb6d0f00",
+      "bytes": 22379
+    }
+  ],
+  "original_explicit_anchor_preservation": [
+    {
+      "path": "series/tomozaki/04 Character Analysis/Hinami Aoi/HINAMI_AOI_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 86,
+      "current_anchor_count": 95
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Izumi Yuzu/IZUMI_YUZU_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 0,
+      "current_anchor_count": 0
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Kikuchi Fuka/KIKUCHI_FUKA_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 71,
+      "current_anchor_count": 91
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Mizusawa Takahiro/MIZUSAWA_TAKAHIRO_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 0,
+      "current_anchor_count": 0
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Nanami Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 56,
+      "current_anchor_count": 68
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Natsubayashi Hanabi/NATSUBAYASHI_HANABI_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 0,
+      "current_anchor_count": 8
+    },
+    {
+      "path": "series/tomozaki/04 Character Analysis/Tomozaki Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md",
+      "all_before_explicit_anchors_preserved": true,
+      "before_anchor_count": 45,
+      "current_anchor_count": 55
+    }
+  ],
+  "historical_implementation_and_wrapper_records": {
+    "supporting_wrapper_independent_review": {
+      "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/INDEPENDENT_WRAPPER_REVIEW.md",
+      "bytes": 11279,
+      "sha256": "48892509e7da1495c10acfe51c2fcb778a0551da778fe9e85d458d89d971cd74",
+      "payload_type": "UTF8_text",
+      "payload": "---\nartifact_type: independent_supporting_wrapper_review\nstatus: draft_noncurrent\nsupersedes: []\nsuperseded_by: []\ndo_not_use_as_current_authority: true\nreviewer: coverage_middle\nreview_scope: supporting_tranche_administrative_authority_routing_and_manifest\nverdict: CONDITIONAL_PASS_TWO_PRECISE_ADMINISTRATIVE_CORRECTIONS\ndate: 2026-10-23\n---\n\n# Independent review of the supporting tranche render\n\nThe twelve analytical payloads pass this review of their new authority, process and routing changes. The new implementation review and manifest require the two small corrections below before their canonical installation. No change to an accepted literary argument, evidence handle, primary-route handle, subject identity or source count is required by this wrapper review. Root has acknowledged both corrections and will apply them after this checkpoint is sealed.\n\nThis verdict concerns the new wrapper and evidence routing. It inherits root's independently accepted eleven B accounts and actual thirty-seven C sections, one D identification/abstention and six source-group contexts. It does not newly accept those literary arguments, independently reread their entire source corpus, accept the separately submitted Fumiya–Kikuchi R07 synthesis, enroll discovery records, assign reconstruction capability or authorize publication.\n\n## Required corrections\n\n**SWR-M01 — complete the implementation review's authority quartet.** The newly authored `TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md` has `status: canonical` but omits `supersedes: []`, `superseded_by: []` and `do_not_use_as_current_authority: false`. Add those three lines within its first YAML block. The repository parser presently returns no classified authority for that file. `characters/README.md` lines 144–176 requires the complete quartet for newly authored or deliberately revised authority metadata; an incomplete quartet is not current-eligible. The twelve analytical payloads already have valid complete canonical quartets. No successor or supersession claim is appropriate for these new destinations.\n\n**SWR-M02 — remove the premature publication adjective from the manifest.** In the manifest's `record_semantics`, replace exactly `Current root acceptance and the exact published payload chain govern current use.` with `Current root acceptance and the exact accepted/rendered payload chain govern current use.` The render exists in scratch; canonical installation, exact-head validation, publication and owner integration remain separate. The manifest's own `independent_acceptance`, `remaining_gates` and `self_hash_note`, the implementation review and the outer `shadow_payloads.json` otherwise preserve that separation. This is a one-sentence outer-semantics correction, not a change to any embedded historical record or payload mapping. Apply the same sentence change in `build_supporting_packet.py` if that producer procedure remains the reproducible source of the manifest.\n\nThe exact machine-readable corrections are in `precise_corrections.json`. Do not rewrite historical embedded pending labels to implement either correction. After the two corrected objects are sealed, a tiny exact-delta rebind can close these conditions without repeating stable source or literary reads.\n\n## What was actually read and replayed\n\nI read the complete 581-line, 65,260-byte `promotion_and_routing.diff` in three untruncated windows, the complete 64-line implementation review, the complete preparation and manifest assembly procedures, and the complete 274-line twelve-payload mapping. I read every new manifest outer field and every one of its thirty-three historical-record wrappers. The accepted payload mapping embedded in the manifest is exactly equal to the fully read `shadow_payloads.json` mapping.\n\nI also read all six complete root independent acceptance receipts. They identify the accepted exact originals or reconciled objects, actual independent literary reads, root primary returns, resolved corrections and continuing limits. Their historical installation-pending wording is not a contradiction when preserved as an earlier record with explicit outer semantics. The inherited thirty-three payloads were mechanically replayed against their complete originals: JSON values match as values; UTF8 review/receipt text matches exactly; each original byte length and raw SHA256 matches its wrapper. I do not claim a new semantic reread of all 580,155 manifest bytes or the duplicated inherited corpus material. An initial overlarge display accidentally included inherited payloads and was truncated; all required outer fields and wrappers were subsequently recovered in a bounded, complete display. The truncated output supplies no claim of a full inherited-record read.\n\nThe scratch verifier initially used a wrong field name for the repository's `AuthorityMetadata` result and stopped before producing a verification receipt. The interface was inspected and the verifier corrected to use `do_not_use`; the final two successful runs completed every assertion. These were verifier-development corrections only, with no mutation of producer inputs.\n\n## Preservation and authority findings\n\nAll twelve supplied source hashes and all twelve rendered output byte lengths and hashes match. An independent in-memory reconstruction of the declared transform reproduces every output byte and regenerates the complete diff exactly. This review inspected the transform rather than executing either producer procedure. No producer write operation ran.\n\nThe changed paragraphs are administrative acceptance/process language, draft-folder receipt references, newly added acceptance notices and the declared companion routing/closing-process revisions. The already accepted literary prose is otherwise preserved. Every occurrence of the local KE/NS/NT/TK/HH/HN/HY/UM/MA/RE/AS evidence and primary-route handles survives with the same multiplicity. All original heading sequences survive, except the declared companion process heading `Pending integration and review` becoming `Acceptance and downstream boundaries`. The explicit HTML-anchor sequences are identical; these particular twelve inputs contain zero such explicit anchors, so preservation of the actual ordinary headings is the substantive non-vacuous check. Exact body reconstruction additionally covers handles expressed as ranges and other stable source/claim identities beyond the narrow handle counter.\n\nOnly the new derivatives normalize CRLF to LF. The four peer inputs retain their original 148/147/150/152 CRLF counts, and the companion retains its 573 CRLFs. The remaining seven source drafts are already LF. Every rendered derivative is UTF8, has no BOM and contains no CR. The raw hashes of every sealed input remain unchanged. The existing frozen readings, canonical coverage matrix and scope data are neither reserialized nor replaced by this transformation.\n\nAll eleven B derivatives supply `accepted_scope: B`, `maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE`, independent bounded-scope review and a complete current-eligible quartet. The companion supplies `accepted_scope: C37_D1_GROUP6`, its own independent C/D acceptance and a complete current-eligible quartet. Each `canonical_destination` equals its actual projected path. These are intended canonical-render bytes inside the explicitly noninstalled outer shadow package. The bodies preserve the distinction among a bounded literary responsibility, an A monograph, a derived model, aggregate literary release and repository publication. `mutable_active` describes the editable artifact, not completed integration or immutable release.\n\nThe context companion has C-D01–38 once each and G01–06 once each, with C-D01–37 marked C and C-D38 marked D. Its existing substantial individual/member and group accounts remain intact. Kaoru and Chisato remain positively named plan references in Karen/G04. The wrapper changes their disposition from awaiting adjudication to accepted context-only representation without creating individual acts, biographies, new profiles or new source calls. The old A6/B12 assembly recommendation remains historical alongside root's later A7/B11/C37/D1 disposition.\n\n## Evidence mapping, counts and links\n\nThe six root receipts contain the following actual primary-return counts: peers 13 calls/15 intervals; family 5/8; island 2/2; Rena 4/4; Ashigaru 3/6; context 7/8. Their sum is exactly **34 calls and 43 intervals**. All thirty-four complete call records match the thirty-four original root inspection-log entries in order. The context-specific seven/eight count in the companion and implementation review is therefore a subset of the full supporting count, not an additional seven calls. These are root's earlier inspections, not fresh primary reading by this wrapper reviewer.\n\nAll four live canonical coverage/integration references match their manifest byte lengths and hashes. The DR12 frozen reading and prospective entering snapshot match their recorded SHA256 values. No new source was admitted. No primary-return gap was introduced by the process/routing changes; this wrapper review made **zero** fresh novel-source returns and **zero** image inspections.\n\nAll twelve intended analytical destinations are currently absent from the live canonical tree, as are the new implementation-review and evidence-manifest destinations. There is no overwrite disguised as a new supporting placement. All **57** local Markdown link occurrences across the thirteen new Markdown files resolve with exact-case components against the projected shadow tree plus the existing live canonical files. This includes the new source/review manifest links, implementation-review links, individual-account links, method, architecture, source lock, current map, claim/evidence index and existing coverage/scope/integration artifacts. No external or fragment link was needed in this set. Scratch paths inside historical embedded receipts remain historical provenance, not live required canonical dependencies. The four peers' governing-method/architecture front-matter routes remain unchanged and point to the existing series framework destinations.\n\n## Limits and disposition\n\nAfter SWR-M01 and SWR-M02 are applied and exactly rebound, this packet is suitable for root's canonical placement and repository checks at the stated bounded scope. This review neither certifies the separately staged eighteen-path character tranche nor resolves the pending human permission for the deterministic three-marker global index repair. It writes no index, registry, owner, canonical artifact, Git state or global control. No exact-head CI, publication, merge, terminal governance or aggregate literary-release claim follows.\n\nThe durable `mechanical_verification.json` records the exact reviewed inputs, twelve payload hashes, thirty-three historical-record identities, all per-payload preservation results, four canonical reference identities, immutable source-control identities, actual root call counts, all fifty-seven resolved links and the implementation review's currently missing authority classification. `review_manifest.json` seals this review checkpoint. The original prepared payloads and historical receipts remain recoverable and unchanged.\n"
+    },
+    "supporting_wrapper_seal": {
+      "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/review_manifest.json",
+      "bytes": 2977,
+      "sha256": "632fe85ade52214bee674cf8dddc91f0bc83b09c60a00df8973d140f272e65bf",
+      "payload_type": "parsed_JSON_value",
+      "payload": {
+        "schema": "supporting_wrapper_independent_seal/v1",
+        "utc": "2026-10-23T07:05:17.650653+00:00",
+        "verdict": "CONDITIONAL_PASS_TWO_REQUIRED_ADMINISTRATIVE_CORRECTIONS",
+        "status": "draft_noncurrent",
+        "canonical_or_git_mutations": false,
+        "outputs": [
+          {
+            "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/INDEPENDENT_WRAPPER_REVIEW.md",
+            "bytes": 11279,
+            "sha256": "48892509e7da1495c10acfe51c2fcb778a0551da778fe9e85d458d89d971cd74"
+          },
+          {
+            "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/precise_corrections.json",
+            "bytes": 2279,
+            "sha256": "51522e24ec6d6ecf184644c3daa8894431183ea2e3a068bc4fe9fc35e6b0ecc7"
+          },
+          {
+            "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/mechanical_verification.json",
+            "bytes": 54144,
+            "sha256": "22433e6f84783486f2a951f1fd4c2ec4dfeb4583917e10808f9d8ba68c3f5cb4"
+          },
+          {
+            "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/read_scope_and_debt_receipt.json",
+            "bytes": 5769,
+            "sha256": "6acd92bffe6d5521aebd82710678f5d17c7a30e6244c17d9361e00c66a97d624"
+          },
+          {
+            "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/verify_wrapper.py",
+            "bytes": 16753,
+            "sha256": "d07fa30834a7ff427d9a41ff4306ba5fa5d372c442a86a7870b1f35fceddb371"
+          },
+          {
+            "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/seal_review.py",
+            "bytes": 6933,
+            "sha256": "8b36a211df3e6a85cb26af471da492b4ba98b64754a5d83be567b99700044311"
+          }
+        ],
+        "reviewed_inputs": [
+          {
+            "path": ".scratch/supporting_tranche/shadow_payloads.json",
+            "bytes": 15365,
+            "sha256": "f630c0ab3773b261f415328b16c37cec79396b869d88614de50549a66b6233cd"
+          },
+          {
+            "path": ".scratch/supporting_tranche/promotion_and_routing.diff",
+            "bytes": 65260,
+            "sha256": "ed8ff14f8f00d40ae182110003d3ee9f3964053bfc17f0385f8e736d8ac06c5d"
+          },
+          {
+            "path": ".scratch/supporting_root_review/prepare_supporting_shadow.py",
+            "bytes": 14329,
+            "sha256": "933df4a03ad5c16f0fe604339582e2619a442092bea18cfc70f31b8a5c691608"
+          },
+          {
+            "path": ".scratch/supporting_root_review/build_supporting_packet.py",
+            "bytes": 6866,
+            "sha256": "d2c6ac03c2796674414a0b4143d8c4e503841b4460612b61b79c668b4d20772f"
+          },
+          {
+            "path": ".scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "bytes": 13454,
+            "sha256": "0ee1aea9465ae3f983be57e81e78d869bc7ae91dd43fa684fa50da05f3c7f255"
+          },
+          {
+            "path": ".scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "bytes": 580155,
+            "sha256": "42cf71cf2086836d656970764c5dc9edec2ad0c16e49fc0d8b6a481ec9df96a6"
+          }
+        ],
+        "self_hash": "Reported externally; no recursive seal."
+      }
+    },
+    "supporting_wrapper_conditions_rebind": {
+      "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/wrapper_conditions_rebind_receipt.json",
+      "bytes": 6959,
+      "sha256": "cb3cf58c833adcc10d4b6d07397c9539cf09f633a10566683ef0849ce44aced2",
+      "payload_type": "parsed_JSON_value",
+      "payload": {
+        "schema": "supporting_wrapper_conditions_independent_rebind/v1",
+        "utc": "2026-10-23T07:09:12.929011+00:00",
+        "reviewer": "/root/coverage_middle",
+        "verdict": "PASS_EXACT_DELTA_SWR_M01_AND_SWR_M02_CLOSED",
+        "status": "draft_noncurrent",
+        "prior_seal": {
+          "path": ".scratch/supporting_tranche/independent_wrapper_review_middle/review_manifest.json",
+          "bytes": 2977,
+          "sha256": "632fe85ade52214bee674cf8dddc91f0bc83b09c60a00df8973d140f272e65bf"
+        },
+        "application_record": {
+          "path": ".scratch/supporting_tranche/wrapper_conditions_application.json",
+          "bytes": 1238,
+          "sha256": "faf1edfb38f074f728750064f10c9059041513da2f175d76a71fff5cc3d0df5f"
+        },
+        "complete_application_diff": {
+          "path": ".scratch/supporting_tranche/wrapper_conditions_application.diff",
+          "bytes": 8574,
+          "sha256": "89ec351f0fb45b8ad4e549783828e47a5fa09840f5ca077dedc9fb9667223ec8"
+        },
+        "actual_read_scope": "Complete application JSON and complete three-file diff read; fresh corrected authority block and corrected outer semantics inspected. Stable full review/candidate/source reads reused at prior recorded scope.",
+        "changes": [
+          {
+            "path": ".scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "before_bytes": 13454,
+            "before_sha256": "0ee1aea9465ae3f983be57e81e78d869bc7ae91dd43fa684fa50da05f3c7f255",
+            "after_bytes": 13526,
+            "after_sha256": "8850de3e12504ebc2fa67374fb491a4d2df17bc966d9ccec38d703950823a559",
+            "inverse_reconstruction_matches_sealed_input": true,
+            "forward_exact": true,
+            "no_other_bytes_changed": true
+          },
+          {
+            "path": ".scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "before_bytes": 580155,
+            "before_sha256": "42cf71cf2086836d656970764c5dc9edec2ad0c16e49fc0d8b6a481ec9df96a6",
+            "after_bytes": 580163,
+            "after_sha256": "5a1a96bcee90e3fefc0b2c5e0688ad257d61cd93e19b9c92466cf604bdc77ad1",
+            "inverse_reconstruction_matches_sealed_input": true,
+            "forward_exact": true,
+            "no_other_bytes_changed": true
+          },
+          {
+            "path": ".scratch/supporting_root_review/build_supporting_packet.py",
+            "before_bytes": 6866,
+            "before_sha256": "d2c6ac03c2796674414a0b4143d8c4e503841b4460612b61b79c668b4d20772f",
+            "after_bytes": 6874,
+            "after_sha256": "febb00c22942a9c8ee26b7090be6f415b4b1138e47489ca5bbd296f0d26931a3",
+            "inverse_reconstruction_matches_sealed_input": true,
+            "forward_exact": true,
+            "no_other_bytes_changed": true
+          }
+        ],
+        "complete_three_file_diff_independently_regenerated_exact": true,
+        "implementation_review_authority": {
+          "parser": "tools/character_index_core.py:parse_authority_front_matter",
+          "status": "canonical",
+          "supersedes": [],
+          "superseded_by": [],
+          "do_not_use_as_current_authority": false,
+          "body_unchanged": true
+        },
+        "manifest_currentness_sentence": "Current root acceptance and the exact accepted/rendered payload chain govern current use.",
+        "generator_uses_identical_sentence": true,
+        "twelve_original_and_rendered_analytical_payloads_unchanged": true,
+        "mapping_and_complete_original_promotion_diff_unchanged": true,
+        "all33_embedded_values_or_text_and_original_hashes_unchanged": true,
+        "all_other_manifest_outer_fields_unchanged": "Proved by complete raw-byte inverse reconstruction to prior exact manifest hash",
+        "all_original_independent_review_seal_files_unchanged": true,
+        "twelve_payload_identities": [
+          {
+            "target": "series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 22579,
+            "sha256": "4ac425fa47fbfcac682d8c8fa0de9554a5c5747fc7e4382cebc42c23bf1593d0"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 22183,
+            "sha256": "6524509f68cb0409702fb320249ae492cc36592121c5a11af213186f240fdbc3"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 22990,
+            "sha256": "b46ca19efe3984d1349316d2af5a99d7587ecc642c902bc2455d7abbea292371"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21854,
+            "sha256": "6b7a41752353a85895e19df621a3e830787949ae09488642a98fb2c3a5e176d1"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21156,
+            "sha256": "fc9beffb3fa1d148996ba1341be3af62cfd80cf2a3ea84bcd623f965530de681"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 21092,
+            "sha256": "14970faee4414855df13fef93b3dec521a19c15f580419a246b57c514f9a43a8"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 23541,
+            "sha256": "495ab3b6ea6edfa749c39d02a1639ed293ebe2ac66e846d349ad2524ab84b85f"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36143,
+            "sha256": "7723152c6d46c7bf5ea0e837a15c78431f28f7d2ac29cc6e09f848ba84a335bc"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36464,
+            "sha256": "a78acb3452ce92727470b09c401360758b86d1585f5cb4c931f592846322d12c"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36387,
+            "sha256": "8a707ce0fefea20f565d46622b7be3a017585a9bf8616dd3579655b432922174"
+          },
+          {
+            "target": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36454,
+            "sha256": "bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074"
+          },
+          {
+            "target": "series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md",
+            "bytes": 81395,
+            "sha256": "259ff888b7d0e36b070ab4deaedbdf87d2023d21e848b5d303d9144a9ae7cadd"
+          }
+        ],
+        "fresh_primary_calls": 0,
+        "fresh_pixels": 0,
+        "remaining_conditions_from_this_wrapper_review": [],
+        "scope_limit": "Closes the two administrative wrapper conditions only. Root canonical placement, repository controls/exact-head validation/publication and all separate specialist/release/model/terminal gates remain distinct. No new full semantic reread of stable corpus or supporting dossiers; no self-acceptance of other work.",
+        "writes": "New rebind script and receipt only under independent_wrapper_review_middle; prior sealed outputs, producer inputs, canonical/Git/index/registry/global controls untouched."
+      }
+    },
+    "supporting_administrative_promotion_diff": {
+      "path": ".scratch/supporting_tranche/promotion_and_routing.diff",
+      "bytes": 65260,
+      "sha256": "ed8ff14f8f00d40ae182110003d3ee9f3964053bfc17f0385f8e736d8ac06c5d",
+      "payload_type": "UTF8_text",
+      "payload": "--- .scratch/supporting_peers/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md\n@@ -3,24 +3,31 @@\n artifact_type: bounded_character_dossier\n subject: KONNO_ERIKA\n subject_japanese: 紺野エリカ\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n+authority_class: canonical\n+status: canonical\n release_state: mutable_active\n-maturity_state: BOUNDED_INDIVIDUAL_SCOPE_INDEPENDENT_REVIEW_REQUIRED\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS\n-generation: V1.0_V12_BOUNDED_DOSSIER_CANDIDATE\n+generation: V1.0_V12_BOUNDED_DOSSIER\n source_boundary: \"Locked Japanese main V01–V12 plus story-locally routed V06.5/V08.5; V07 acquired Special Edition\"\n-do_not_use_as_current_authority: true\n-repository_authority: false\n+do_not_use_as_current_authority: false\n+repository_authority: true\n proposed_scope: B\n intended_repository_path: \"series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md\"\n governing_method: \"../../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md\"\n governing_architecture: \"../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md\"\n+supersedes: []\n+superseded_by: []\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Konno Erika/KONNO_ERIKA_BOUNDED_CHARACTER_DOSSIER.md\"\n ---\n \n # Konno Erika — control of the occasion, particular care and unfinished accountability\n \n-**Private B-dossier candidate.** Konno Erika is one person; Erika and Konno are not separate supporting subjects. The dossier remains noncurrent and unaccepted. It gives harmful agency, ordinary enjoyment and particular help one individual home without declaring mature-monograph breadth, a redemption, a diagnosis or a derived reconstruction model. `KE-E` labels are local retrieval references; `CRI-KON-001`, `CRI-SOC-002`, `CRI-OQ-SOC-001` and existing SOC/CS identities remain unchanged.\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n+\n+**Bounded B dossier.** Konno Erika is one person; Erika and Konno are not separate supporting subjects. Independent review has accepted its bounded literary scope. It gives harmful agency, ordinary enjoyment and particular help one individual home without declaring mature-monograph breadth, a redemption, a diagnosis or a derived reconstruction model. `KE-E` labels are local retrieval references; `CRI-KON-001`, `CRI-SOC-002`, `CRI-OQ-SOC-001` and existing SOC/CS identities remain unchanged.\n \n **Evidence control.** DIRECT establishes represented speech, action or focalized thought, not the truth of every proposition spoken. CORROBORATED INFERENCE identifies a reading supported across routes; the governing person-level account remains an INTERPRETIVE HYPOTHESIS tested against counterevidence. Fairness and authority judgments are VALUE JUDGMENTS grounded in the stated acts and limits. Unshown motive, knowledge, outcome and policy remain OPEN.\n \n--- .scratch/supporting_peers/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md\n@@ -3,24 +3,31 @@\n artifact_type: bounded_character_dossier\n subject: NAKAMURA_SHUJI\n subject_japanese: 中村修二\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n+authority_class: canonical\n+status: canonical\n release_state: mutable_active\n-maturity_state: BOUNDED_INDIVIDUAL_SCOPE_INDEPENDENT_REVIEW_REQUIRED\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS\n-generation: V1.0_V12_BOUNDED_DOSSIER_CANDIDATE\n+generation: V1.0_V12_BOUNDED_DOSSIER\n source_boundary: \"Locked Japanese main V01–V12 plus story-locally routed V06.5/V08.5; V07 acquired Special Edition\"\n-do_not_use_as_current_authority: true\n-repository_authority: false\n+do_not_use_as_current_authority: false\n+repository_authority: true\n proposed_scope: B\n intended_repository_path: \"series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md\"\n governing_method: \"../../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md\"\n governing_architecture: \"../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md\"\n+supersedes: []\n+superseded_by: []\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Nakamura Shuji/NAKAMURA_SHUJI_BOUNDED_CHARACTER_DOSSIER.md\"\n ---\n \n # Nakamura Shuji — seriousness, abrasive attachment and the right to refuse\n \n-**Private candidate through the V12 boundary.** This dossier proposes a bounded individual literary responsibility. It is not accepted authority, a mature-monograph gate, a derived behavioral model or an exhaustive appearance concordance. The six cumulative owners remain the evidence spine; source readings retain their historical horizons. The local `NS-E` references below are retrieval labels, not new CRI or frozen source-claim identities.\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n+\n+**Bounded literary account through the V12 boundary.** This dossier owns the independently accepted B responsibility. It does not establish a mature-monograph role, a derived behavioral model or an exhaustive appearance concordance. The six cumulative owners remain the evidence spine; source readings retain their historical horizons. The local `NS-E` references below are retrieval labels, not new CRI or frozen source-claim identities.\n \n **Evidence control.** DIRECT establishes represented speech, action or focalized thought, not the truth of every proposition spoken. CORROBORATED INFERENCE identifies a reading supported across routes; the governing person-level account remains an INTERPRETIVE HYPOTHESIS tested against counterevidence. Fairness and authority judgments are VALUE JUDGMENTS grounded in the stated acts and limits. Unshown motive, knowledge, outcome and policy remain OPEN.\n \n--- .scratch/supporting_peers/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md\n@@ -3,24 +3,31 @@\n artifact_type: bounded_character_dossier\n subject: NARITA_TSUGUMI_GUMI\n subject_japanese: 成田つぐみ\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n+authority_class: canonical\n+status: canonical\n release_state: mutable_active\n-maturity_state: BOUNDED_INDIVIDUAL_SCOPE_INDEPENDENT_REVIEW_REQUIRED\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS\n-generation: V1.0_V12_BOUNDED_DOSSIER_CANDIDATE\n+generation: V1.0_V12_BOUNDED_DOSSIER\n source_boundary: \"Locked Japanese main V01–V12 plus story-locally routed V06.5/V08.5; V07 acquired Special Edition\"\n-do_not_use_as_current_authority: true\n-repository_authority: false\n+do_not_use_as_current_authority: false\n+repository_authority: true\n proposed_scope: B\n intended_repository_path: \"series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md\"\n governing_method: \"../../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md\"\n governing_architecture: \"../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md\"\n+supersedes: []\n+superseded_by: []\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Narita Tsugumi/NARITA_TSUGUMI_BOUNDED_CHARACTER_DOSSIER.md\"\n ---\n \n # Narita Tsugumi / Gumi — the work of keeping life easy\n \n-**Private bounded individual dossier candidate.** Narita Tsugumi / 成田つぐみ is called Gumi at her karaoke workplace. This is a positive source identity bridge, not a guessed nickname or an alias for Hinami Haruka. The given name remains the attested hiragana; no alternative kanji is invented. B is a proposed evidence-bounded responsibility, not accepted authority, a mature-monograph gate, an exhaustive occurrence index or a derived behavioral model. `NT-E` is local navigation and does not replace existing source C/Q or cumulative identities.\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n+\n+**Bounded individual dossier.** Narita Tsugumi / 成田つぐみ is called Gumi at her karaoke workplace. This is a positive source identity bridge, not a guessed nickname or an alias for Hinami Haruka. The given name remains the attested hiragana; no alternative kanji is invented. B is the accepted bounded individual literary responsibility; it is separate from a mature-monograph role, an exhaustive occurrence index or a derived behavioral model. `NT-E` is local navigation and does not replace existing source C/Q or cumulative identities.\n \n **Evidence control.** DIRECT establishes represented speech, action or focalized thought, not the truth of every proposition spoken. CORROBORATED INFERENCE identifies a reading supported across routes; the governing person-level account remains an INTERPRETIVE HYPOTHESIS tested against counterevidence. Fairness and authority judgments are VALUE JUDGMENTS grounded in the stated acts and limits. Unshown motive, knowledge, outcome and policy remain OPEN.\n \n@@ -147,4 +154,4 @@\n \n The effort/future specialist should preserve an end that values ease without interpreting all competent action as love of exertion. The ensemble should retain Narita's named friends, ordinary workplace, selected initiative and privacy cost, rather than retrieving her only for a clue about Konno or Mizusawa. The voice specialist can use the actual metaphors and recipient exchanges with the stated limits; it cannot infer an exhaustive speaking model from a comic cadence.\n \n-The required remaining unknowns are her fuller home/education history, exact route to the desired future, response under unfamiliar high stakes, enduring confidentiality practice and the complete historical seam of the supplemental bar story. No source decision is needed to publish an honestly bounded literary account; independent review must decide whether the actual dossier preserves the evidence and exclusions. Canonical adoption, repository validation, exact-head publication and later reconstruction gates remain separate and unpassed by this draft.\n+The required remaining unknowns are her fuller home/education history, exact route to the desired future, response under unfamiliar high stakes, enduring confidentiality practice and the complete historical seam of the supplemental bar story. These unknowns remain limits of the independently accepted bounded literary account. Repository publication, cross-specialist convergence, aggregate release and derived reconstruction remain separate gates.\n--- .scratch/supporting_peers/TAKEI_BOUNDED_CHARACTER_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md\n@@ -3,24 +3,31 @@\n artifact_type: bounded_character_dossier\n subject: TAKEI\n subject_japanese: 竹井\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n+authority_class: canonical\n+status: canonical\n release_state: mutable_active\n-maturity_state: BOUNDED_INDIVIDUAL_SCOPE_INDEPENDENT_REVIEW_REQUIRED\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n analytical_boundary: V12_PLUS_ROUTED_SUPPLEMENTS\n-generation: V1.0_V12_BOUNDED_DOSSIER_CANDIDATE\n+generation: V1.0_V12_BOUNDED_DOSSIER\n source_boundary: \"Locked Japanese main V01–V12 plus story-locally routed V06.5/V08.5; V07 acquired Special Edition\"\n-do_not_use_as_current_authority: true\n-repository_authority: false\n+do_not_use_as_current_authority: false\n+repository_authority: true\n proposed_scope: B\n intended_repository_path: \"series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md\"\n governing_method: \"../../00 Frameworks and Methods/TOMOZAKI_ANALYTICAL_METHOD.md\"\n governing_architecture: \"../../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md\"\n+supersedes: []\n+superseded_by: []\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Takei/TAKEI_BOUNDED_CHARACTER_DOSSIER.md\"\n ---\n \n # Takei — ready participation, uneven calibration and a future with material conditions\n \n-**Private bounded-dossier candidate.** The inspected evidence supplies Takei / 竹井; no given name is invented. B is the proposed individual responsibility after middle-corpus family/education and recipient evidence changes the early/late-only C assessment. It is not an accepted scope, a mature full biography or a behavioral-generation model. `TK-E` entries are local retrieval routes. Existing source C/Q, CS, SOC, CRI and other cumulative identities are preserved.\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n+\n+**Bounded individual dossier.** The inspected evidence supplies Takei / 竹井; no given name is invented. B is the accepted individual responsibility after middle-corpus family/education and recipient evidence changes the early/late-only C assessment. It is separate from a mature full biography or a behavioral-generation model. `TK-E` entries are local retrieval routes. Existing source C/Q, CS, SOC, CRI and other cumulative identities are preserved.\n \n **Evidence control.** DIRECT establishes represented speech, action or focalized thought, not the truth of every proposition spoken. CORROBORATED INFERENCE identifies a reading supported across routes; the governing person-level account remains an INTERPRETIVE HYPOTHESIS tested against counterevidence. Fairness and authority judgments are VALUE JUDGMENTS grounded in the stated acts and limits. Unshown motive, knowledge, outcome and policy remain OPEN.\n \n--- .scratch/supporting_root_review/HARUKA_ROOT_RECONCILED_B_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md\n@@ -4,16 +4,24 @@\n subject: \"Hinami Haruka / 日南遥\"\n scope_recommendation: B\n scope: \"Japanese V01–V12 with story-local V06.5/V08.5; consequential family evidence chiefly V08.5/V09–V12\"\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+authority_class: canonical\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current_authority: false\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n-review_state: PENDING_INDEPENDENT_SEMANTIC_REVIEW\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n prepared_date: \"2026-10-23\"\n+supersedes: []\n+superseded_by: []\n+release_state: mutable_active\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Hinami Haruka/HINAMI_HARUKA_BOUNDED_CHARACTER_DOSSIER.md\"\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Hinami Haruka — pursuing an example, choosing what to share\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n Haruka makes an admired example productive through her own effort. She also suffers when the person supplying that example becomes unavailable and incoherent to her. These are related facts, rather than rival descriptions of an active girl and a dependent girl. Her student-council achievement, questions, gaming invitation, guarded first encounter, selective contact channel and independent reading all require an individual account. Her sister's later response does not complete an independent basis of value for her.\n \n@@ -118,6 +126,6 @@\n | HH-E08 | V12 `item/xhtml/p-0022.xhtml` P151–226; SCENE through Aoi INTERIOR | independent reading, tears, shared sister named, pressure and Aoi's uptake |\n | HH-E09 | V12 `item/xhtml/p-0022.xhtml` P449–454; `item/xhtml/p-0024.xhtml` P9–12; SCENE/received written message | departure witnessed, DM and found reply; no full private account shared |\n \n-The source identities, paragraph/ruby conventions and actual inspection windows are supplied in `SOURCE_READ_DEBT_RECEIPT.json` and the exact payload manifest in this folder. V11 HH-E04 is fully covered by contiguous fresh windows; HH-E06 source P540–560 overlaps the fresh P540–640 window. No new pixels were needed for a novel claim in this dossier. The source-facing readings, current CS-HAR-01, CS §13.3/§19, REL §17.1 and accepted R04/R05 participation controls retain their own authority. These local HH-E handles neither renumber nor replace them.\n+The source identities, paragraph/ruby conventions and actual inspection windows are supplied in [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json). V11 HH-E04 is fully covered by contiguous fresh windows; HH-E06 source P540–560 overlaps the fresh P540–640 window. No new pixels were needed for a novel claim in this dossier. The source-facing readings, current CS-HAR-01, CS §13.3/§19, REL §17.1 and accepted R04/R05 participation controls retain their own authority. These local HH-E handles neither renumber nor replace them.\n \n-Open source questions concern Haruka's durable independent value, her full later reaction to the covert inquiry, negotiated family history, actual school-role continuation and a comprehensive prospective disclosure arrangement. The remaining review debt is independent semantic acceptance of this candidate. These are substantial limits of B responsibility, not grounds to erase the initiative, achievement, pleasure and pressure already represented.\n+Open source questions concern Haruka's durable independent value, her full later reaction to the covert inquiry, negotiated family history, actual school-role continuation and a comprehensive prospective disclosure arrangement. Independent semantic review of this bounded dossier has passed. These are substantial limits of B responsibility, not grounds to erase the initiative, achievement, pleasure and pressure already represented.\n--- .scratch/supporting_family/HINAMI_NAGISA_BOUNDED_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md\n@@ -4,16 +4,24 @@\n subject: \"Hinami Nagisa / 日南渚\"\n scope_recommendation: B_STRICTLY_ATTRIBUTED_POSTHUMOUS\n scope: \"Japanese V01–V12 with story-local supplements; consequential ordinary/history evidence V08.5/V10–V12\"\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+authority_class: canonical\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current_authority: false\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n-review_state: PENDING_INDEPENDENT_SEMANTIC_REVIEW\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n prepared_date: \"2026-10-23\"\n+supersedes: []\n+superseded_by: []\n+release_state: mutable_active\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Hinami Nagisa/HINAMI_NAGISA_BOUNDED_CHARACTER_DOSSIER.md\"\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Hinami Nagisa — play, moral action and an answer that remains unavailable\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n Nagisa is represented first as a child who wants another game, changes her tactic, wins, thanks the sister cheering her and throws herself toward the sister she has defeated. The later family history represents a girl who sees another child's persecution, chooses to intervene, bears retaliation, continues to help and eventually questions the words through which she had understood doing right. That sequence is a substantial individual account. Its final uncertainty is equally substantial: the novels do not authenticate what she intended when she entered the road or which alternative intervention would have prevented her death.\n \n@@ -124,6 +132,6 @@\n | HN-E09 | V12 `item/xhtml/p-0021.xhtml` P11–149; Kikuchi speech/observed action | unavailable subject and irreducible authored choice; p0016 and manuscript history are not Nagisa evidence |\n | HN-E10 | V12 `item/xhtml/p-0022.xhtml` P846–979; FICTION/ADDRESS within INTERIOR-Aoi | imagined reunion and semantic-ruby identification, gratitude and birth-thanks; not posthumous testimony |\n \n-Fresh exact member/window receipts and the reused original V12 whole-source/ruby/pixel consultation are enumerated in `SOURCE_READ_DEBT_RECEIPT.json`. Current CS §13.6/§19, CRI-HIN-005/CRI-EPI and REL-C10 preserve the corresponding route and limits. HN-E handles add local retrieval only and do not alter their identities.\n+Fresh exact member/window receipts and the reused original V12 whole-source/ruby/pixel consultation are enumerated in [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json). Current CS §13.6/§19, CRI-HIN-005/CRI-EPI and REL-C10 preserve the corresponding route and limits. HN-E handles add local retrieval only and do not alter their identities.\n \n-The independent review of this draft remains pending. Source-bound debt remains final intent, preventability, complete institutional context, school-year reconciliation and every proposed authentic last wish. No amount of completing a dossier can convert those absent answers into known facts. The supported play, choice, relationship and doubt are sufficient for a substantial bounded account while those questions remain OPEN.\n+Independent semantic review has passed at strictly attributed posthumous B scope. Source-bound debt remains final intent, preventability, complete institutional context, school-year reconciliation and every proposed authentic last wish. No amount of completing a dossier can convert those absent answers into known facts. The supported play, choice, relationship and doubt are sufficient for a substantial bounded account while those questions remain OPEN.\n--- .scratch/supporting_family/HINAMI_YOKO_BOUNDED_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md\n@@ -4,16 +4,24 @@\n subject: \"Hinami Yoko / 日南陽子\"\n scope_recommendation: B_FOCALIZATION_BOUNDED\n scope: \"Japanese V01–V12 with story-local supplements; consequential maternal evidence V08.5/V09–V12\"\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+authority_class: canonical\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current_authority: false\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n-review_state: PENDING_INDEPENDENT_SEMANTIC_REVIEW\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n prepared_date: \"2026-10-23\"\n+supersedes: []\n+superseded_by: []\n+release_state: mutable_active\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Hinami Yoko/HINAMI_YOKO_BOUNDED_CHARACTER_DOSSIER.md\"\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Hinami Yoko — care, reassurance and meanings that can injure\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n Yoko is represented through food, touch, praise, social warmth, embarrassment, grief and explanatory speech. Her affection is materially received by her daughters. Her habitual conversion of painful events into a meaningful route toward good can also affirm circumstances that remain harmful. The force of that conflict depends on retaining the care: a loved, trusted person's explanation can be injurious precisely because it carries relational authority.\n \n@@ -130,6 +138,6 @@\n | HY-E09 | V12 `item/xhtml/p-0022.xhtml` P47–110, especially P59–78; INTERIOR-Aoi | faces already familiar; acute room/scroll reminder, private self-disqualification and access limits |\n | HY-E10 | V12 `item/xhtml/p-0022.xhtml` P846–979, especially P947–979; FICTION/ADDRESS within INTERIOR-Aoi | birth-thanks re-received; no new maternal testimony or proof of full repair |\n \n-Verified archive identities, all-P/ruby/image controls, exact fresh windows and explicitly reused readings are recorded in `SOURCE_READ_DEBT_RECEIPT.json`; the payload manifest binds this draft's exact bytes. Current CS §13.6/§19, CRI's family/epistemic families, REL §17.1 and the accepted Hinami R04 analysis govern attribution and continuing source tensions. HY-E handles supply local retrieval and do not rename those stable responsibilities.\n+Verified archive identities, all-P/ruby/image controls, exact fresh windows and explicitly reused readings are recorded in [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json); the same manifest binds the accepted payload chain. Current CS §13.6/§19, CRI's family/epistemic families, REL §17.1 and the accepted Hinami R04 analysis govern attribution and continuing source tensions. HY-E handles supply local retrieval and do not rename those stable responsibilities.\n \n-Independent semantic review of this candidate remains required. Substantive source-bound unknowns include the named nature of the practice, Yoko's complete beliefs and present interior, all concrete adult/institutional responses, causal and school-year questions around Nagisa, and later family negotiation. The dossier preserves the differences among not knowing, a daughter's interpretation and a demonstrated harmful explanation. Its bounded responsibility is to make those differences and this mother's represented life recoverable, not to invent a complete life that the sources have not supplied.\n+Independent semantic review has passed at focalization-bounded B scope. Substantive source-bound unknowns include the named nature of the practice, Yoko's complete beliefs and present interior, all concrete adult/institutional responses, causal and school-year questions around Nagisa, and later family negotiation. The dossier preserves the differences among not knowing, a daughter's interpretation and a demonstrated harmful explanation. Its bounded responsibility is to make those differences and this mother's represented life recoverable, not to invent a complete life that the sources have not supplied.\n--- .scratch/supporting_root_review/MITSU_ROOT_RECONCILED_B_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md\n@@ -1,7 +1,7 @@\n ---\n artifact_type: bounded_literary_character_dossier\n-authority_class: draft_noncurrent\n-status: independent_root_review_required\n+authority_class: canonical\n+status: canonical\n subject: Umayahara Mitsu / 馬屋原ミツ\n name_primary_attestation: V12_p0016_P634_P653_ruby_retained\n proposed_scope: B\n@@ -9,13 +9,20 @@\n positive_primary_scope: V12_island_encounter_and_attributed_past\n source_transaction: 406b26c4591a9bce99c83a54600286f56a35678e\n source_transaction_integrated_at: 73717d42aefa394207ab23bf98e774ed5cdecfb6\n-do_not_use_as_current_authority: true\n+do_not_use_as_current_authority: false\n supersedes: []\n superseded_by: []\n-canonical_destination: root_to_decide\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Umayahara Mitsu/UMAYAHARA_MITSU_BOUNDED_CHARACTER_DOSSIER.md\"\n+repository_authority: true\n+release_state: mutable_active\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Umayahara Mitsu — craft, custody, refusal and continuing shared practice\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n ## 1. Literary responsibility and the scope earned\n \n@@ -170,7 +177,7 @@\n | UM-E09 | Her historical and personal fiction account limits a total author-cause theory. **DIRECT testimony; causal interpretation OPEN.** | UM-P09; reported widow is not identified as Mitsu; Mitsu's marital status remains OPEN. |\n | UM-E10 | Private continuation is lent with next-morning condition and returned by placement behind the counter. **DIRECT.** | UM-P10; no acknowledgment, circulation or publishing right. |\n | UM-E11 | A flawed modeled self reportedly permitted slight self-liking. **DIRECT self-report about past reception.** | UM-P09; no cure, general license or authenticated author motive. |\n-| UM-E12 | B responsibility is sufficient; A biography is unsupported at this review scope. **LITERARY SCOPE ADJUDICATION, pending root.** | All UM routes plus inherited fourteen-witness audit context; no appearance census. |\n+| UM-E12 | B responsibility is sufficient; A biography is unsupported at this review scope. **LITERARY SCOPE ADJUDICATION, independently accepted at B.** | All UM routes plus inherited fourteen-witness audit context; no appearance census. |\n \n ## 13. Exact source register and inherited routes\n \n@@ -191,4 +198,4 @@\n \n Analytical retrieval: DR12 §§3.3–3.5 and V12-C14–C19/C23–C24 in the current claim index; CS §19.1; REL §17.1 and source-precision §21 in CRI; EFF §§82–83; SOC §17.3; JVL §§13.4–13.5. Frozen DR12's broader surname/sample shorthand is not promoted over the exact current controls recorded above. The complete accepted Kikuchi R05 monograph and integration review were read during the preceding authorized Kikuchi assignment; its unchanged historical evidence IDs are an inherited input, not a new image inspection by this dossier author. The source/inspection/debt receipt binds exact input hashes and root-review obligations.\n \n-This candidate does not accept itself, choose a canonical destination, alter an owner, clear an aggregate maturity gate, or authorize a derived model. Root must independently review the literary scope, resolved name-route precision, attribution boundaries and preservation of the historical source transaction.\n+Independent review and root acceptance support this bounded literary account, including the resolved name route and preserved attribution limits. Aggregate literary release, downstream specialist convergence and derived reconstruction remain separate.\n--- .scratch/supporting_island/MICHAEL_ANDI_BOUNDED_LITERARY_DOSSIER_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md\n@@ -1,7 +1,7 @@\n ---\n artifact_type: bounded_literary_character_dossier\n-authority_class: draft_noncurrent\n-status: independent_root_review_required\n+authority_class: canonical\n+status: canonical\n subject: Michael Andi / マイケル・アンディ\n retrieval_variants: [Andi, Andy, アンディ]\n proposed_scope: B_posthumous_artifact_and_testimony_bounded\n@@ -9,13 +9,20 @@\n positive_person_evidence_scope: V12_surviving_documents_and_attributed_island_past\n source_transaction: 406b26c4591a9bce99c83a54600286f56a35678e\n source_transaction_integrated_at: 73717d42aefa394207ab23bf98e774ed5cdecfb6\n-do_not_use_as_current_authority: true\n+do_not_use_as_current_authority: false\n supersedes: []\n superseded_by: []\n-canonical_destination: root_to_decide\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Michael Andi/MICHAEL_ANDI_BOUNDED_CHARACTER_DOSSIER.md\"\n+repository_authority: true\n+release_state: mutable_active\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Michael Andi — a received author, an inconvenient observer, and an unavailable interior\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n ## 1. Governing account and the independent responsibility earned\n \n@@ -185,7 +192,7 @@\n | MA-E06 | Documentary revision is believe → tell → record → wish → pray, first four crossed out and final circled. **DIRECT represented document.** | MA-P07; translation-mediated encounter, no final testament. |\n | MA-E07 | Godlike observer and remaining-self/prayer accounts are the couple's psychological reconstructions. **INTERPRETIVE HYPOTHESIS.** | MA-P05/P07/P08; direct marks do not authenticate motive. |\n | MA-E08 | Custody/loan gives bounded access, not assumed publishing or representation rights. **DIRECT acts + authority limit.** | MA-P07; no editorial or legal conclusion. |\n-| MA-E09 | A substantial B posthumous dossier is warranted; A biography/current reconstruction is not. **LITERARY SCOPE ADJUDICATION, pending root.** | All routes and audit context; no exhaustive appearance census. |\n+| MA-E09 | A substantial B posthumous dossier is warranted; A biography/current reconstruction is not. **LITERARY SCOPE ADJUDICATION, independently accepted at B.** | All routes and audit context; no exhaustive appearance census. |\n \n ## 14. Exact source register and inherited context\n \n@@ -201,8 +208,8 @@\n | MA-P06 | `item/xhtml/p-0016.xhtml` P265–301/P1157–1308; `item/xhtml/p-0018.xhtml` P1–258 | Present festival work, loss/reuse, differing meanings; Mitsu's prior-practice/appropriation account and personal reception with causal-theory refusal. |\n | MA-P07 | `item/xhtml/p-0021.xhtml` P209–391/P402–433 | Private continuation, translation, actual marks, couple's later interpretation, return placement and Kikuchi's owned prayer; direct marks separated from interpretation. |\n | MA-P08 | `item/xhtml/p-0021.xhtml` P11–33/P95–149; `item/xhtml/p-0022.xhtml` P504–513/P846–871/P947–979; `item/xhtml/p-0026.xhtml` P106–163 | Nagisa's unavailable standpoint and intent, fictional/ruby identification, tears-not-proof and the later writer's own reason; not Andi testimony. |\n-| MA-P09 | `inherited_coverage_context.json`: all fourteen Kikuchi rows + Mitsu/Andy V12 rows; full early/middle/late findings; accepted Kikuchi monograph and R05 integration review | L1 prior reception/context, not a new fourteen-volume primary reread or a new diary pixel claim. Exact earlier DR/SR sections remain in the selected rows. |\n+| MA-P09 | the canonical [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json): all fourteen Kikuchi rows + Mitsu/Andy V12 rows; full early/middle/late findings; accepted Kikuchi monograph and R05 integration review | L1 prior reception/context, not a new fourteen-volume primary reread or a new diary pixel claim. Exact earlier DR/SR sections remain in the selected rows. |\n \n Analytical ownership: DR12 §§3.3–3.5; current V12-C12/C15/C17/C19/C23/C24/C25 in CRI §18; CRI-EPI-001 and CRI-KIK-002; CS §19.1; REL §17.1; EFF §§82–83; SOC §17.3; JVL §§13.4–13.5. The full accepted Kikuchi R05 study and its integration review were inspected in the preceding task, and the full DR12/current V12 owner bands underpin the targeted returns. The source/inspection/debt receipt binds their exact snapshots and distinguishes reused reading from new primary work.\n \n-Root must independently review and accept this scope before any canonical use. No corpus map, aggregate maturity/release conclusion, publication state, owner record or derived model is changed by this scratch candidate.\n+Independent review and root acceptance support this bounded posthumous literary account. It does not authenticate an unavailable interior or pass aggregate release, publication or derived reconstruction gates.\n--- .scratch/supporting_root_review/RENA_ROOT_RECONCILED_B_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md\n@@ -5,22 +5,30 @@\n proposed_scope: B\n corpus_boundary: \"Japanese V01–V12 plus V06.5/V08.5 at their separately routed story clocks\"\n positive_person_evidence: \"V08, V08.5 Unit4, V09 and V11; V12 supplies no new conduct test\"\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+authority_class: canonical\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current_authority: false\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n-review_state: PENDING_INDEPENDENT_SEMANTIC_REVIEW\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n prepared_date: \"2026-10-23\"\n+supersedes: []\n+superseded_by: []\n+release_state: mutable_active\n+accepted_scope: B\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Rena/RENA_BOUNDED_CHARACTER_DOSSIER.md\"\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Rena — wanting to be selected, making contact and refusing the meaning of refusal\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n Rena's represented life contains genuine interests, two forms of earlier belonging, the pleasure of being wanted, social discrimination, bodily enjoyment, resentment, practical insight and deliberate injury to others. Losing peer standing helps explain why another person's desire and visible status become resources for her. It does not establish that her later acts are involuntary, that every present action has only that origin, or that insight gives her authority over someone else's body or relationship.\n \n The strongest bounded account is that she often seeks an interaction in which selection confirms value while access remains under her tactical control. Desire from a person she does not want can still please her; that person's inability to obtain her can be part of the pleasure. A prominent or attached target can intensify the value of being selected. Yet this is not a timeless description of all Rena. The earlier girl could resent attention to her body, found real pleasure and recognition in two school groups, and liked games for reasons that need not begin with conquest. Present Rena can discuss game skill, enjoy an appearance she has chosen and give a useful answer while also bypassing refusal. The account must explain these combinations rather than rename them one essence. [RE-E01–05]\n \n-**A substantial B dossier is warranted.** The retrospective interior, contrasting school and game-community settings, multiple recipients, ordinary particulars, current choices and repeated failures of limits require an individual home. They do not supply the family, work, education, sustained reciprocal ties or revised future conduct needed for a complete biography or general reconstruction. This draft is literary and noncurrent, pending independent semantic review. Its fourteen-witness responsibility is retrospective coverage with explicit unknowns, not a fresh fourteen-book primary appearance census or a maturity/release claim.\n+**A substantial B dossier is warranted.** The retrospective interior, contrasting school and game-community settings, multiple recipients, ordinary particulars, current choices and repeated failures of limits require an individual home. They do not supply the family, work, education, sustained reciprocal ties or revised future conduct needed for a complete biography or general reconstruction. This dossier is independently accepted at bounded B literary scope; derived reconstruction remains separately governed. Its fourteen-witness responsibility is retrospective coverage with explicit unknowns, not a fresh fourteen-book primary appearance census or a maturity/release claim.\n \n ## 1. Identity, chronology and who knows what\n \n@@ -179,10 +187,10 @@\n | RE-E08 | Explicit refusal/contact removal improve resistance without completing governance; DIRECT; RE-P08–10 | no permission from ongoing games or consultation |\n | RE-E09 | Perceptive causal advice and boundary violation coexist; DIRECT dialogue/action; RE-P09 | no ethical credit that buys access; no universal gender/relationship law |\n | RE-E10 | No V12 new internal-stop test; current owner adjudication plus actual PARATEXT; RE-P11 | no reform or permanent condemnation from silence |\n-| RE-E11 | Substantial B is supported at this bounded responsibility; literary scope judgment | independent review pending; no A biography, blind trial or release |\n+| RE-E11 | Substantial B is supported at this bounded responsibility; literary scope judgment | independent bounded B review passed; no A biography, blind trial or release |\n \n-All P locators count every HTML paragraph, including empty/image paragraphs, one-based and reset per exact member. V08's inline gaiji and whole-member image references are not silently normalized into new numerical/display-name claims. No new pixels are needed for the prose-grounded claims here. Ruby base/readings remain distinct in the source reader; helper brackets are not literal typography. The source/manifest hashes, actual return windows, selected coverage rows, current-owner reads and reused earlier receipts are bound in `READ_SOURCE_AND_DEBT_RECEIPT.json` and `candidate_manifest.json`.\n+All P locators count every HTML paragraph, including empty/image paragraphs, one-based and reset per exact member. V08's inline gaiji and whole-member image references are not silently normalized into new numerical/display-name claims. No new pixels are needed for the prose-grounded claims here. Ruby base/readings remain distinct in the source reader; helper brackets are not literal typography. The source/manifest hashes, actual return windows, selected coverage rows, current-owner reads and reused earlier receipts are bound in [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json).\n \n Current ownership is preserved through CS §13.4/CS-REN-01, REL §8.5/REL-C14 and current §17, EFFORT §54.3/H20, CRI-REL-004/CRI-OQ-REN-001 and LOC-11A/B/D/F. The quoted source-facing claims and older registers keep their historical boundaries. This local register supplies retrieval; it does not rename their identities, update canonical routing or declare that later maturity has been achieved.\n \n-Independent semantic acceptance remains outstanding. Source-bound unknowns include work/family and later education, durable friendship/reciprocity, full reasons for each particular approach, exhaustive knowledge about future partners, general stopping rules, later remorse or reform, and any post-endpoint life. They do not need invented answers for a bounded account of this person's enjoyment, injury, competence, choices and harm. They remain limits of the proposed literary responsibility.\n+Independent semantic acceptance has passed at bounded B scope. Source-bound unknowns include work/family and later education, durable friendship/reciprocity, full reasons for each particular approach, exhaustive knowledge about future partners, general stopping rules, later remorse or reform, and any post-endpoint life. They do not need invented answers for a bounded account of this person's enjoyment, injury, competence, choices and harm. They remain limits of the proposed literary responsibility.\n--- .scratch/supporting_root_review/ASHIGARU_ROOT_RECONCILED_B_CANDIDATE.md\n+++ series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md\n@@ -2,20 +2,27 @@\n series: TOMOZAKI\n artifact_type: bounded_literary_character_dossier\n subject: Ashigaru / 足軽\n-authority_class: draft_noncurrent\n-status: independent_root_review_required\n+authority_class: canonical\n+status: canonical\n scope_recommendation: B\n corpus_boundary: Japanese_V01-V12_plus_separately_routed_V06.5_V08.5\n positive_person_evidence_scope: V08-V12_professional_community_and_recipient_bands\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n source_transaction_integrated_at: 73717d42aefa394207ab23bf98e774ed5cdecfb6\n-do_not_use_as_current_authority: true\n+do_not_use_as_current_authority: false\n supersedes: []\n superseded_by: []\n-canonical_destination: root_to_decide\n+canonical_destination: \"series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md\"\n+repository_authority: true\n+release_state: mutable_active\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: B\n+maturity_state: BOUNDED_INDIVIDUAL_LITERARY_ROLE\n ---\n \n # Ashigaru — competing, making a scene, and taking work seriously\n+\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n \n ## 1. The individual responsibility\n \n@@ -164,9 +171,9 @@\n | AS-E09 | He reports changing reasons through admirers' belief. **DIRECT retrospective self-report.** | AS-P10; not pure-altruism conversion or lifetime record. |\n | AS-E10 | V12 fulfills the school role and exposes displaced preparation costs. **DIRECT performance/narrator acknowledgment.** | AS-P11; improvisation and quantified loss unestablished. |\n | AS-E11 | Public exhibition proposal differs from player consent/meaning/result. **DIRECT proposal and ensuing acts; epistemic limit.** | AS-P11; no final game or cure claim. |\n-| AS-E12 | Substantial B is earned; broader reconstruction is not established here. **LITERARY SCOPE ADJUDICATION pending root.** | Fourteen-witness audit context plus all positive routes; no appearance census. |\n+| AS-E12 | Substantial B is earned; broader reconstruction is not established here. **LITERARY SCOPE ADJUDICATION, independently accepted at B.** | Fourteen-witness audit context plus all positive routes; no appearance census. |\n \n-All new primary returns use the source-locked Japanese EPUB for the stated volume. **P counts every HTML p including empty/image-bearing paragraphs, one-based and reset per exact member.** Ruby is retained; non-p chapter headings are inspected. These are not print pages. `source_inspection_receipt.json` gives complete witness/member hashes, total counts, actual windows and final integrity checks. No new image view or complete fourteen-volume primary reread is claimed.\n+All new primary returns use the source-locked Japanese EPUB for the stated volume. **P counts every HTML p including empty/image-bearing paragraphs, one-based and reset per exact member.** Ruby is retained; non-p chapter headings are inspected. These are not print pages. [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) gives complete witness/member hashes, total counts, actual windows and final integrity checks. No new image view or complete fourteen-volume primary reread is claimed.\n \n | ID | Exact witness/member/all-P route | Material |\n |---|---|---|\n@@ -184,6 +191,6 @@\n \n Witness SHA256 identities: V08 `05c238aeb33ed48ffe47ed1c9ba339c6d0e0e2a7b0dd32f78b166f46460de49e`; V09 `5740b7a68999f70daee42fd9235d88d68d9911a73dc7c02e59658de49bcf334d`; V10 `316d510c2062119a1d3b77e3bb1cb6746340479db07c16579504bd1d5060b2d7`; V11 `c8f3fa288d426c0f2c2e2816366df4d636492ff4ec5bcb71d2a7b79bdba12141`; V12 `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`.\n \n-Analytical retrieval: DR08 §§4.3–4.5/8.8; DR09 §§4.3–4.5/5.5 and V09-C13/C32; DR10 §§4.4–4.5/5.4; DR11 §§4.4/4.8 and V11-C21; full DR12's event/exit controls; CS §13.6/§19; REL §17; EFF §§43–45/56/64–65/73/82–84; SOC §17; JVL §13; relevant CRI-TOM and professional-route families. `coverage_context.json` binds the fourteen audit rows, retaining nine unknown cells and five meaningful later cells as distinct evidence states.\n+Analytical retrieval: DR08 §§4.3–4.5/8.8; DR09 §§4.3–4.5/5.5 and V09-C13/C32; DR10 §§4.4–4.5/5.4; DR11 §§4.4/4.8 and V11-C21; full DR12's event/exit controls; CS §13.6/§19; REL §17; EFF §§43–45/56/64–65/73/82–84; SOC §17; JVL §13; relevant CRI-TOM and professional-route families. [source and review manifest](../../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) binds the fourteen audit rows, retaining nine unknown cells and five meaningful later cells as distinct evidence states.\n \n-The remaining process is root's independent semantic acceptance, canonical placement and integration. Source-bound unknowns include legal identity and private biography, detailed work/economics, full personal relationships, an exhaustive idiolect, school-talk preparation mechanism and later consequences. No invented facts, final-corpus release claim, publication or derived model follows from this candidate.\n+Independent semantic acceptance has passed at bounded B scope. Cross-specialist convergence, publication and derived reconstruction remain separately governed. Source-bound unknowns include legal identity and private biography, detailed work/economics, full personal relationships, an exhaustive idiolect, school-talk preparation mechanism and later consequences. No invented facts, final-corpus release claim, publication or derived model follows from this candidate.\n--- .scratch/supporting_context/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS_CANDIDATE.md\n+++ series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md\n@@ -1,27 +1,37 @@\n ---\n title: Supporting relational evidence and abstentions — Tomozaki\n artifact_type: supporting_relational_evidence_companion\n-status: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current: true\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current: false\n source_boundary: V01–V12 plus V06.5 and V08.5\n intended_repository_path: series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md\n-independent_acceptance: pending\n+independent_acceptance: PASS_AT_BOUNDED_C_D_SCOPE\n+authority_class: canonical\n+do_not_use_as_current_authority: false\n+supersedes: []\n+superseded_by: []\n+release_state: mutable_active\n+review_state: INDEPENDENT_BOUNDED_LITERARY_SCOPE_PASS\n+accepted_scope: C37_D1_GROUP6\n+canonical_destination: \"series/tomozaki/06 Specialist Synthesis/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS.md\"\n ---\n \n # Supporting relational evidence and abstentions\n \n-This candidate gives the 37 C individual/member responsibilities and one D reference their actual source-proportionate accounts, followed by six separately indexed source-group contexts. C means a necessary bounded relational-evidence section, not a failed or incomplete attempt at a mature monograph. D here means that the inspected reference supports identification and attributed expectations while richer reconstruction must stop. Neither label measures a person's worth. The six contexts are not six additional individuals, and the co-indexed parents remain two source-anonymous people with distinct acts.\n-\n-The current root scope decision is A7/B11/C37/D1. The sealed integrated audit's A6/B12 recommendation and Yuzu A rival are preserved as historical review evidence. This companion does not rewrite that audit, accept a gate, install a canonical owner, or claim that every required downstream specialist already exists. Seven monographs' installation and review are root-owned proceedings; their status is not certified here. Source authority remains the admitted Japanese novels; historical sequential readings retain their original knowledge boundaries.\n+This account is accepted at its stated bounded literary scope through the admitted V12 boundary. See the [implementation review](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) for independent acceptance, source returns, corrections and remaining limits. A bounded literary role is separate from a derived reconstruction model or aggregate release.\n+\n+This companion gives the 37 C individual/member responsibilities and one D reference their actual source-proportionate accounts, followed by six separately indexed source-group contexts. C means a necessary bounded relational-evidence section, not a failed or incomplete attempt at a mature monograph. D here means that the inspected reference supports identification and attributed expectations while richer reconstruction must stop. Neither label measures a person's worth. The six contexts are not six additional individuals, and the co-indexed parents remain two source-anonymous people with distinct acts.\n+\n+The current root scope decision is A7/B11/C37/D1. The sealed integrated audit's A6/B12 recommendation and Yuzu A rival are preserved as historical review evidence. This companion preserves that audit and now owns the independently accepted bounded C/D accounts. It does not pass the separate ensemble, thematic, convergence or release gates. Seven monographs' installation and review are root-owned proceedings; their status is not certified here. Source authority remains the admitted Japanese novels; historical sequential readings retain their original knowledge boundaries.\n \n ## Reading and use contract\n \n The inherited 250-row/14-witness review is meaningful-evidence coverage, not an exhaustive name concordance. Every profile below keeps its exact identity ID and source-row relationship. Unknown cells are not absence; shared rows are not individual testimony. Each section distinguishes era, recipient, direct action/speech, attributed report, focalized inference and unshown possibilities. L1 artifact routes can be used without pretending this author reopened every primary appearance. New bounded returns use one-based all-HTML-p indices per exact member, including empty/image paragraphs, with ruby retained and admitted witness/member hashes checked. No raw source dump is saved here.\n \n-The sealed profiles’ original route payloads are copied unchanged into coverage_inputs.json. Each section supplies its own precision routes; these include both newly reopened windows and explicitly inherited L1/navigation routes. COV IDs are scratch review navigation, not replacements for canonical claim IDs, evidence IDs or historical source receipts. Where the prose uses DR/SR shorthand, exact original artifact paths and sections remain in coverage_inputs.json under `series/tomozaki/02 Sequential Readings/`.\n-\n-The candidate's projected canonical governance links are [method](../00%20Frameworks%20and%20Methods/TOMOZAKI_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md), [source lock](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md), [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) and [claim/evidence index](../03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md). Links are projected from the intended canonical destination, not from this scratch folder. Current CS/REL/EFFORT/CRI/SOC/JVL owners remain responsible for their different axes. This companion adds bounded person-level ownership and abstentions, without replacing those ledgers or the planned ensemble and seven thematic syntheses.\n+The original profile route payloads remain in the canonical [scope data](../08%20Audits%20and%20Manifests/TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json), and source-row payloads remain in the [coverage matrix](../08%20Audits%20and%20Manifests/TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json). Each section supplies its own precision routes; these include both newly reopened windows and explicitly inherited L1/navigation routes. COV IDs are audit navigation, not replacements for canonical claim IDs, evidence IDs or historical source receipts. Where the prose uses DR/SR shorthand, exact original artifact paths and sections remain in those canonical data files under `series/tomozaki/02 Sequential Readings/`.\n+\n+Current governance and evidence routes are [method](../00%20Frameworks%20and%20Methods/TOMOZAKI_ANALYTICAL_METHOD.md), [architecture](../00%20Frameworks%20and%20Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md), [source lock](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md), [current map](../CURRENT_STATE_AND_CORPUS_MAP.md) and [claim/evidence index](../03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md). Links resolve from this canonical companion. Current CS/REL/EFFORT/CRI/SOC/JVL owners remain responsible for their different axes. This companion adds bounded person-level ownership and abstentions, without replacing those ledgers or the planned ensemble and seven thematic syntheses.\n \n ## Cross-subject constraints\n \n@@ -536,7 +546,7 @@\n \n The two fields are not a genuine/fake binary. Rena experienced real belonging in each, and their disappearance helps explain the stakes of her later alternative choices without determining them mechanically. The apparent possibility of later reconciliation is narrator conjecture, not evidence it occurred.\n \n-**Limits.** Plan names do not alone prove actual attendance, co-presence does not distribute every touch/sexual act, and collective exclusion does not supply every individual’s motive. Keep Kaoru/Chisato as explicit named references pending root adjudication of any separate indexing; do not silently alter sealed 37-profile counts. No diagnosed cause of school withdrawal.\n+**Limits.** Plan names do not alone prove actual attendance, co-presence does not distribute every touch/sexual act, and collective exclusion does not supply every individual’s motive. Kaoru and Chisato remain explicit named plan references under the accepted context-only disposition; the sealed 37 C-profile count is unchanged. No diagnosed cause of school withdrawal.\n \n **Routes/responsibility.** `COV-M092`. `V08.5 text/part0027.html P1–94; planned core P19; actual count P35; exclusion P71–94`. Rena prior genuine social worlds and exclusion; name/identity completeness with bounded evidence.\n \n@@ -564,10 +574,8 @@\n \n **Routes/responsibility.** `COV-M094`. `V08.5 text/part0027.html P19–26,83–137; named contacts P114–122`. older-circle member abstentions; Rena alternate belonging/cost and education; group/individual distinction.\n \n-## Pending integration and review\n-\n-This author has prepared a substantive supporting owner, not passed the R08 ensemble or R09 thematic scope gate. The downstream authors must use particular people and their incompatible/uneven access rather than cite this file as a substitute for analysis. Yokoyama primarily belongs to effort/team and ensemble; work standards, permission sequences, refusal, family care and witness limits have distinct destinations specified in each section.\n-\n-Independent review must read the complete new prose and precision returns where material, test all 44 responsibilities against the sealed input set, check alias/member attribution and the ordinary acts, then adjudicate the new Kaoru/Chisato reference route. Their planned-core names are preserved without fabricated profiles or a silent count change. Any later extra identity section should be separately recorded and should not rewrite the original sealed coverage. This companion's only publication claim is that it exists as a scratch candidate awaiting review.\n-\n-Canonical installation, current-map/architecture/claim propagation where necessary, exact-path repository validation, publication and all later specialist/model/release gates remain root-owned and pending for this artifact. Source returns here do not license a new source, a historical reading rewrite, or automatic promotion of a whole character/specialist gate. Read/debt and hash receipts beside the candidate record the actual preparation performed.\n+## Acceptance and downstream boundaries\n+\n+Independent review read all 44 new accounts, checked aliases and member attribution, made seven source returns covering eight intervals, and replayed all 44 original profiles and 39 original rows to the preserved audit. The [implementation review](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md) and [source and review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) record exact accepted objects and limits. Kaoru and Chisato remain explicit named planned participants within Karen/G04, with no additional individual acts or invented profile counts.\n+\n+This companion passes its bounded supporting responsibility. The R07 dyads, R08 ensemble, seven R09 thematic domains, cross-specialist convergence, final synthesis, literary release and derived models retain their own gates. Downstream authors must analyze the particular people and their uneven access; citing this companion does not discharge those arguments. Repository validation and exact-head publication remain separate from literary acceptance.\n"
+    },
+    "supporting_wrapper_conditions_diff": {
+      "path": ".scratch/supporting_tranche/wrapper_conditions_application.diff",
+      "bytes": 8574,
+      "sha256": "89ec351f0fb45b8ad4e549783828e47a5fa09840f5ca077dedc9fb9667223ec8",
+      "payload_type": "UTF8_text",
+      "payload": "--- .scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md before\n+++ .scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md after\n@@ -1,6 +1,9 @@\n ---\n artifact_type: supporting_character_literary_implementation_review\n status: canonical\n+supersedes: []\n+superseded_by: []\n+do_not_use_as_current_authority: false\n release_state: mutable_active\n date: 2026-10-23\n source_boundary: Japanese_V01-V12_plus_separately_routed_V06.5_and_V08.5\n--- .scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json before\n+++ .scratch/supporting_tranche/tree/series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json after\n@@ -308,7 +308,7 @@\n       \"sha256_at_supporting_acceptance\": \"6f9eb196c11dcf72cbd61837c66e0d6decaaa0adbcf38023b45e9cca10991a8a\"\n     }\n   ],\n-  \"record_semantics\": \"Embedded payloads preserve the complete historical JSON values or UTF8 receipt/review text. Raw-byte hashes identify original sealed objects; parsed JSON is not a claim to preserve its original whitespace. Historical pending/draft labels and scratch paths describe their original stage, not current canonical authority or live required file dependencies. Current root acceptance and the exact published payload chain govern current use. No embedded raw novel prose/window dump, source image, acquisition file, credential or executable is included.\",\n+  \"record_semantics\": \"Embedded payloads preserve the complete historical JSON values or UTF8 receipt/review text. Raw-byte hashes identify original sealed objects; parsed JSON is not a claim to preserve its original whitespace. Historical pending/draft labels and scratch paths describe their original stage, not current canonical authority or live required file dependencies. Current root acceptance and the exact accepted/rendered payload chain govern current use. No embedded raw novel prose/window dump, source image, acquisition file, credential or executable is included.\",\n   \"embedded_historical_records\": {\n     \"peers.producer_read\": {\n       \"original_path\": \".scratch/supporting_peers/read_inspection_receipt.json\",\n--- .scratch/supporting_root_review/build_supporting_packet.py before\n+++ .scratch/supporting_root_review/build_supporting_packet.py after\n@@ -38,6 +38,6 @@\n canonical_refs=[]\n for name in ['TOMOZAKI_CHARACTER_EVIDENCE_COVERAGE_MATRIX.json','TOMOZAKI_CHARACTER_SCOPE_REVIEW_DATA.json','TOMOZAKI_FULL_CORPUS_CHARACTER_COVERAGE_AND_SCOPE_AUDIT.md','TOMOZAKI_V12_PRINCIPAL_AND_R06_INTEGRATION_REVIEW.md']:\n     p=A+name;b=(R/p).read_bytes();canonical_refs.append({'path':p,'bytes':len(b),'sha256_at_supporting_acceptance':sha(b)})\n-out={'schema':'tomozaki_supporting_literary_evidence_review_manifest/v1','artifact_type':'project_local_evidence_and_review_manifest','status':'canonical','release_state':'mutable_active','date':'2026-10-23','source_boundary':'JapaneseV01–V12 plus separately routedV06.5/V08.5; V07SpecialEdition/bonus/parallel/VR distinctions retained','source_media_committed':False,'current_accepted_scope':{'B_individual_dossiers':11,'C_individual_member_sections':37,'D_identification_abstention':1,'source_group_contexts':6,'additional_named_plan_references':['Kaoru / 薫','Chisato / 千里'],'additional_references_change_sealed_profile_counts':False},'accepted_payload_chain':d['payloads'],'canonical_coverage_references':canonical_refs,'record_semantics':'Embedded payloads preserve the complete historical JSON values or UTF8 receipt/review text. Raw-byte hashes identify original sealed objects; parsed JSON is not a claim to preserve its original whitespace. Historical pending/draft labels and scratch paths describe their original stage, not current canonical authority or live required file dependencies. Current root acceptance and the exact published payload chain govern current use. No embedded raw novel prose/window dump, source image, acquisition file, credential or executable is included.','embedded_historical_records':embedded,'source_controls':{'V12_sha256':'4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c','DR12_frozen_sha256':'cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6','entering_snapshot_sha256':'8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17','P_convention':'one-based allHTMLp including empty/image-bearing, reset per exact member; ruby retained; chapter/nonp/pixels governed by actual receipt','unknown_or_unrepresented_cell_is_not_absence':True,'no_new_source_admission':True},'independent_acceptance':'All11B and actual37C/1D/6groupaccounts independently source/semantically reviewed within evidence, including exact corrected-object rebinds. Wrapper promotion/routing is administrative and independently receipted by root; canonical installation/repository validation/publication remain separate from this render.','remaining_gates':['R07threeprimarydyads','R08ensembleandcoequalMimimiTama','R09seventhemes','adversarialclaimlocatorreconciliation','crossspecialistconvergence','fullseriessynthesisLAST','literarysemanticrelease','distinctjustifiedderivedmodels','exactheadpublication','separatelyauthorizedownermergedterminalgovernance'],'self_hash_note':'The containing Git tree binds this manifest. No recursive self-hash or future CI/merge pass asserted.'}\n+out={'schema':'tomozaki_supporting_literary_evidence_review_manifest/v1','artifact_type':'project_local_evidence_and_review_manifest','status':'canonical','release_state':'mutable_active','date':'2026-10-23','source_boundary':'JapaneseV01–V12 plus separately routedV06.5/V08.5; V07SpecialEdition/bonus/parallel/VR distinctions retained','source_media_committed':False,'current_accepted_scope':{'B_individual_dossiers':11,'C_individual_member_sections':37,'D_identification_abstention':1,'source_group_contexts':6,'additional_named_plan_references':['Kaoru / 薫','Chisato / 千里'],'additional_references_change_sealed_profile_counts':False},'accepted_payload_chain':d['payloads'],'canonical_coverage_references':canonical_refs,'record_semantics':'Embedded payloads preserve the complete historical JSON values or UTF8 receipt/review text. Raw-byte hashes identify original sealed objects; parsed JSON is not a claim to preserve its original whitespace. Historical pending/draft labels and scratch paths describe their original stage, not current canonical authority or live required file dependencies. Current root acceptance and the exact accepted/rendered payload chain govern current use. No embedded raw novel prose/window dump, source image, acquisition file, credential or executable is included.','embedded_historical_records':embedded,'source_controls':{'V12_sha256':'4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c','DR12_frozen_sha256':'cb6c309c995be6a9777e2fff493c870c0f8265beee6aa4c4ce2c329d3a4a1dc6','entering_snapshot_sha256':'8741334f47c5640fa446629ba5c06c58784479a9802f962bc49af61b43105e17','P_convention':'one-based allHTMLp including empty/image-bearing, reset per exact member; ruby retained; chapter/nonp/pixels governed by actual receipt','unknown_or_unrepresented_cell_is_not_absence':True,'no_new_source_admission':True},'independent_acceptance':'All11B and actual37C/1D/6groupaccounts independently source/semantically reviewed within evidence, including exact corrected-object rebinds. Wrapper promotion/routing is administrative and independently receipted by root; canonical installation/repository validation/publication remain separate from this render.','remaining_gates':['R07threeprimarydyads','R08ensembleandcoequalMimimiTama','R09seventhemes','adversarialclaimlocatorreconciliation','crossspecialistconvergence','fullseriessynthesisLAST','literarysemanticrelease','distinctjustifiedderivedmodels','exactheadpublication','separatelyauthorizedownermergedterminalgovernance'],'self_hash_note':'The containing Git tree binds this manifest. No recursive self-hash or future CI/merge pass asserted.'}\n dest=T/A/'TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_bytes((json.dumps(out,ensure_ascii=False,indent=2)+'\\n').encode('utf-8'))\n print(json.dumps({'rendered_manifest':str(dest.relative_to(O)),'bytes':dest.stat().st_size,'sha256':sha(dest.read_bytes()),'historical_records':len(embedded),'exact_current_payloads':12,'canonical_or_git_mutation':False}))\n"
+    },
+    "supporting_event_precision": {
+      "path": ".scratch/supporting_tranche/ashigaru_activity_precision_receipt.json",
+      "bytes": 4309,
+      "sha256": "6812ca69847ccf761f98c9cbe47249c96139011933969ed48b0656aac8d83df9",
+      "payload_type": "parsed_JSON_value",
+      "payload": {
+        "status": "SOURCE_AND_INDEPENDENTLY_CONFIRMED_CURRENT_PRECISION_APPLIED",
+        "precision": {
+          "id": "SUP_AS_EVENT_01",
+          "disposition": "REVISE_WORDING_ONLY",
+          "canonical_target": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+          "before_bytes": 36454,
+          "before_sha256": "bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074",
+          "after_bytes": 36479,
+          "after_sha256": "e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c",
+          "old": "The guest is chosen; the program is not.",
+          "new": "The guest is chosen; what the guest will do has not been settled.",
+          "source": "V12 item/xhtml/p-0026.xhtml P181/P182/P214; root freshP177–258; independent actualP177–238 reused at recorded scope",
+          "source_member_sha256": "c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044",
+          "independent_confirmation": {
+            "original_path": ".scratch/themes_effort_causality/ASHIGARU_ACTIVITY_PLAN_WORDING_CONFIRMATION.json",
+            "original_bytes": 1684,
+            "original_raw_sha256": "4072bcbf12e3cb9446d000c364a0dc318adcfc10a0153e425964422defe76e51",
+            "payload_type": "parsed_JSON_value",
+            "payload": {
+              "reviewer": "coverage_early",
+              "created_utc": "2026-10-23T07:38:16.989909+00:00",
+              "disposition": "PASS_EXACT_WORDING_PRECISION_CONFIRMATION",
+              "current_canonical_observed": {
+                "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+                "bytes": 36454,
+                "sha256": "bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074",
+                "old_text_count": 1,
+                "replacement_count": 0
+              },
+              "proposed_exact_replacement": {
+                "old": "The guest is chosen; the program is not.",
+                "new": "The guest is chosen; what the guest will do has not been settled."
+              },
+              "basis": "V12 item/xhtml/p-0026.xhtml all284P: P181 says guest decided/activity undecided; P182 supplies an actual fallback; P214 shows the printed program. This exact replacement preserves neglected preparation and avoids denying that artifact.",
+              "source_witness_sha256": "4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c",
+              "member_sha256": "c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044",
+              "actual_prior_independent_primary_read": "Mimimi independent review p0026P177–238, exact source/CRC/all-P/ruby metadata in .scratch/relationship_fumiya_mimimi/independent_review_early/READ_SOURCE_AND_DISPOSITION_RECEIPT.json",
+              "current_R09_character_read": "Ashigaru lines51–138 at bf8117fc hash; exact old wording observed atL129.",
+              "new_primary_or_pixel_claim": false,
+              "authority_limit": "Confirm this one root-owned post-installation precision only; no other current text, publication or aggregate gate reviewed.",
+              "writes": "Only this new scratch confirmation; no canonical, previous seal, producer or Git mutation."
+            }
+          },
+          "stable_ids": [
+            "AS-E10",
+            "AS-P11"
+          ],
+          "all_other_dossier_bytes_and_all_sealed_inputs_preserved": true,
+          "CRI_record": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md §23"
+        },
+        "changed_objects": [
+          {
+            "path": "series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md",
+            "bytes": 36479,
+            "sha256": "e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c"
+          },
+          {
+            "path": "series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md",
+            "bytes": 155580,
+            "sha256": "5fc6aa8ab962377772c12a37124892af4eac6a7b22d9110d8d27d45d13b358df"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md",
+            "bytes": 14017,
+            "sha256": "003b35cbf902eaa4a813d8a56f109d3c6422f00fb9a25cc35bf30e7fb451d842"
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+            "bytes": 583601,
+            "sha256": "2258492cd4ed5612a6277dadc8b9e834688aa3b4861d2a393646251ba4511bd5"
+          }
+        ],
+        "all_original33_embedded_records_preserved": true,
+        "staging_or_publication_pass": false
+      }
+    },
+    "supporting_event_precision_diff": {
+      "path": ".scratch/supporting_tranche/ashigaru_activity_precision.diff",
+      "bytes": 12060,
+      "sha256": "f20c4de63806a8ea87bd697cd51ac4ac56666cbdbf8069b13f54f9428a3b63e7",
+      "payload_type": "UTF8_text",
+      "payload": "--- series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md\n+++ series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md\n@@ -126,7 +126,7 @@\n \n ## 10. V12: an actual guest, neglected preparation and an unshown match\n \n-The promised school appearance finally occurs in V12. Fumiya directly narrates that his and Mimimi's minds have been occupied by Kikuchi's novel and that their acting-council preparation has been left untouched. The guest is chosen; the program is not. A monitor and projector have been arranged as a fallback. That is actual neglected responsibility, not merely private anxiety that everything may be insufficient. [AS-P11]\n+The promised school appearance finally occurs in V12. Fumiya directly narrates that his and Mimimi's minds have been occupied by Kikuchi's novel and that their acting-council preparation has been left untouched. The guest is chosen; what the guest will do has not been settled. A monitor and projector have been arranged as a fallback. That is actual neglected responsibility, not merely private anxiety that everything may be insufficient. [AS-P11]\n \n Ashigaru speaks and gets the gym laughing. The fragment heard is his own anecdote that a particular uploaded video left that month's advertising revenue at zero. It is professional testimony presented to an audience, not an audited account of his entire finances, proof every month was unpaid, or current evidence for Fumiya's earning prospects. The performance also shows timing: he leaves a beat before the room laughs. We can describe the observed delivery without claiming when he wrote or rehearsed the talk. **Whether he improvised it is unestablished.** [AS-P11]\n \n--- series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md\n+++ series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md\n@@ -1163,3 +1163,10 @@\n Rena's provocative/looking-down manner at P228 is directed at Kikuchi. Her later evaluating gaze and 'cute' compliment at P240–244 also address Kikuchi; the condescending force is rendered through Fumiya's narration, not an independently authenticated Rena motive. Taking his arm at P230 is a different act, immediately removed by him at P231–232. Kikuchi then objects at P233, identifies herself as his girlfriend at P239 and asks Rena not to make sexual remarks to him at P255. The subsequent departure supplies no general compliance rule. The R07 producer independently inspected the source sequence, and the integrating author freshly read P210–258 with witness hash/CRC, member hash, all-P and ruby controls.\n \n REL §6 now assigns the appraisal to Kikuchi and retains focalization. Existing CRI-REL-004, CRI-OQ-REN-001 and the couple/Rena owner identities remain stable. The correction preserves actual refusal, partner agency and unresolved future conduct; it does not add a new apology, intent, appearance absence, affair or private knowledge transfer. Historical readings and receipts are unchanged.\n+\n+\n+## 23. V12 school guest — activity plan versus printed program\n+\n+**2026-10-23 — REVISE wording, preserve actual neglected responsibility.** Review of the Fumiya–Mimimi relationship exposed an overcompressed program/no-program sentence. The same ambiguity appeared in the newly placed Ashigaru dossier §10 as “The guest is chosen; the program is not.” V12 `item/xhtml/p-0026.xhtml` P181 says that the guest is fixed but what to do is undecided. P182 gives a real monitor/projector fallback, and P214 positively shows the day's printed program in Aoi's lap. Root freshly read P177–258; an independent reader checked P177–238 and confirmed the exact replacement. The approved witness SHA256 is `4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c`; member SHA256 `c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044`, all 284 HTML p counted one-based including empty/image p, reset per member, with ruby retained.\n+\n+The current Ashigaru sentence now says “The guest is chosen; what the guest will do has not been settled.” AS-E10/AS-P11 remain stable, as do the source's joint-neglect finding, prepared fallback, actual guest work and unnarrated match boundary. The Mimimi specialist's independently rebound wording makes the same distinction. This supplies no preparation/rehearsal timing, quantified fee loss, lifetime reliability verdict or new claim family. The earlier sealed dossiers, renders and review receipts remain unchanged; the supporting evidence manifest records the attributable post-placement delta. Frozen source-facing readings are not rewritten.\n--- series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md\n+++ series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_CHARACTER_IMPLEMENTATION_REVIEW.md\n@@ -45,6 +45,7 @@\n - Mitsu: the reported woman whose husband died at sea is neither identified as Mitsu nor proved to be someone else. Body, claim and route register now preserve that uncertainty; an attributable addendum qualifies the original producer receipt. Pin supply at P779–780 is distinguished from movement/cord testing at P781–784.\n - Rena: the snow is blackened outside and white when scraped; her subsequent comparison remains her own. The full normative rival about bodily reaction overriding permission is no longer attributed as her explicitly formulated doctrine. Repeated conduct and actual refusals retain their force.\n - Ashigaru: Endo is named rather than assigned an unproved friendship category. The actual half-hour staggered arrival adds professional preparation beside later pressure. The admiration heading and AS-P06 routes now describe the supported account precisely.\n+- Post-placement event precision: the guest is fixed while the guest activity is unsettled. V12 p0026 P181/P182/P214 preserves the neglected work, actual fallback and printed program. An independent source reader and root confirmed this one-sentence Ashigaru refinement; AS-E10/AS-P11 and all other body bytes remain unchanged. [CRI §23](../03%20Longitudinal%20Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md) and the manifest retain its prior render identity and attributable delta.\n \n Root's supporting phase made 34 fresh primary-return calls covering 43 intervals across the dossiers and companion. These counts identify actual inspection; they are not an appearance census or an independent completeness score. Earlier full-source reading, semantic ruby, admitted image consultation and already accepted evidence were reused at their recorded scope. No new root pixel inspection was required. The [source and review manifest](TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json) embeds the original source/read receipts, independent reviews, exact rebinds and root dispositions with their identities.\n \n--- series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json\n+++ series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json\n@@ -254,8 +254,8 @@\n       \"sha256\": \"ddc2c0df3f35ef6d40fcf424dd001a3cf653133b3f65274a213926cd4f40f91c\",\n       \"scope\": \"B\",\n       \"group\": \"ashigaru\",\n-      \"output_bytes\": 36454,\n-      \"output_sha256\": \"bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074\",\n+      \"output_bytes\": 36479,\n+      \"output_sha256\": \"e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c\",\n       \"source_CRLF_count\": 0,\n       \"new_derivative_encoding\": \"UTF8_LF; explicit CRLF-to-LF rendering of new candidate derivatives only; sealed original bytes unchanged\",\n       \"explicit_anchors_preserved\": true,\n@@ -269,7 +269,8 @@\n           \"old\": \"The remaining process is root's independent semantic acceptance, canonical placement and integration.\",\n           \"new\": \"Independent semantic acceptance has passed at bounded B scope. Cross-specialist convergence, publication and derived reconstruction remain separately governed.\"\n         }\n-      ]\n+      ],\n+      \"pre_activity_precision_render_sha256\": \"bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074\"\n     },\n     {\n       \"input\": \".scratch/supporting_context/TOMOZAKI_SUPPORTING_RELATIONAL_EVIDENCE_AND_ABSTENTIONS_CANDIDATE.md\",\n@@ -10456,5 +10457,56 @@\n     \"exactheadpublication\",\n     \"separatelyauthorizedownermergedterminalgovernance\"\n   ],\n-  \"self_hash_note\": \"The containing Git tree binds this manifest. No recursive self-hash or future CI/merge pass asserted.\"\n+  \"self_hash_note\": \"The containing Git tree binds this manifest. No recursive self-hash or future CI/merge pass asserted.\",\n+  \"post_installation_precisions\": [\n+    {\n+      \"id\": \"SUP_AS_EVENT_01\",\n+      \"disposition\": \"REVISE_WORDING_ONLY\",\n+      \"canonical_target\": \"series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md\",\n+      \"before_bytes\": 36454,\n+      \"before_sha256\": \"bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074\",\n+      \"after_bytes\": 36479,\n+      \"after_sha256\": \"e46ad5bfe6c0a7dc3d43f6f0c91ab49dad7bf825c331ed658d52cf6e76932d1c\",\n+      \"old\": \"The guest is chosen; the program is not.\",\n+      \"new\": \"The guest is chosen; what the guest will do has not been settled.\",\n+      \"source\": \"V12 item/xhtml/p-0026.xhtml P181/P182/P214; root freshP177–258; independent actualP177–238 reused at recorded scope\",\n+      \"source_member_sha256\": \"c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044\",\n+      \"independent_confirmation\": {\n+        \"original_path\": \".scratch/themes_effort_causality/ASHIGARU_ACTIVITY_PLAN_WORDING_CONFIRMATION.json\",\n+        \"original_bytes\": 1684,\n+        \"original_raw_sha256\": \"4072bcbf12e3cb9446d000c364a0dc318adcfc10a0153e425964422defe76e51\",\n+        \"payload_type\": \"parsed_JSON_value\",\n+        \"payload\": {\n+          \"reviewer\": \"coverage_early\",\n+          \"created_utc\": \"2026-10-23T07:38:16.989909+00:00\",\n+          \"disposition\": \"PASS_EXACT_WORDING_PRECISION_CONFIRMATION\",\n+          \"current_canonical_observed\": {\n+            \"path\": \"series/tomozaki/04 Character Analysis/Ashigaru/ASHIGARU_BOUNDED_CHARACTER_DOSSIER.md\",\n+            \"bytes\": 36454,\n+            \"sha256\": \"bf8117fcba6f0b19d0ce205d60f46325eef261342fc8f1c3738b687755d2e074\",\n+            \"old_text_count\": 1,\n+            \"replacement_count\": 0\n+          },\n+          \"proposed_exact_replacement\": {\n+            \"old\": \"The guest is chosen; the program is not.\",\n+            \"new\": \"The guest is chosen; what the guest will do has not been settled.\"\n+          },\n+          \"basis\": \"V12 item/xhtml/p-0026.xhtml all284P: P181 says guest decided/activity undecided; P182 supplies an actual fallback; P214 shows the printed program. This exact replacement preserves neglected preparation and avoids denying that artifact.\",\n+          \"source_witness_sha256\": \"4b1b7242e5e92e015e0f9d138a43c6f7f06452761bd697ebc2df2c7195287c7c\",\n+          \"member_sha256\": \"c612b5faedc54d6ac334d8ec7fa2f899819683edbfd55b45d992179b81214044\",\n+          \"actual_prior_independent_primary_read\": \"Mimimi independent review p0026P177–238, exact source/CRC/all-P/ruby metadata in .scratch/relationship_fumiya_mimimi/independent_review_early/READ_SOURCE_AND_DISPOSITION_RECEIPT.json\",\n+          \"current_R09_character_read\": \"Ashigaru lines51–138 at bf8117fc hash; exact old wording observed atL129.\",\n+          \"new_primary_or_pixel_claim\": false,\n+          \"authority_limit\": \"Confirm this one root-owned post-installation precision only; no other current text, publication or aggregate gate reviewed.\",\n+          \"writes\": \"Only this new scratch confirmation; no canonical, previous seal, producer or Git mutation.\"\n+        }\n+      },\n+      \"stable_ids\": [\n+        \"AS-E10\",\n+        \"AS-P11\"\n+      ],\n+      \"all_other_dossier_bytes_and_all_sealed_inputs_preserved\": true,\n+      \"CRI_record\": \"series/tomozaki/03 Longitudinal Ledgers/TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md §23\"\n+    }\n+  ]\n }\n"
+    },
+    "relationship_administrative_promotion_diff": {
+      "path": ".scratch/relationship_tranche/promotion_and_routing.diff",
+      "bytes": 25044,
+      "sha256": "7188ee28decfe6d7ea574d9b099f6fea8afc73167d348961cf758d187342b1b8",
+      "payload_type": "UTF8_text",
+      "payload": "--- .scratch/relationship_fumiya_hinami/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS_CANDIDATE.md\n+++ series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md\n@@ -2,12 +2,12 @@\n series: TOMOZAKI\n artifact_type: literary_relationship_synthesis\n subject: \"Tomozaki Fumiya ↔ Hinami Aoi / 友崎文也 ↔ 日南葵\"\n-generation: R07_SCRATCH_CANDIDATE\n-authority_class: draft_noncurrent\n-status: draft_noncurrent\n-repository_authority: false\n-do_not_use_as_current_authority: true\n-review_state: PENDING_INDEPENDENT_R07_SEMANTIC_REVIEW\n+generation: R07_LOCAL_LITERARY_ROLE\n+authority_class: canonical\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current_authority: false\n+review_state: INDEPENDENT_LOCAL_RELATIONSHIP_ROLE_PASS\n source_boundary: \"Admitted Japanese V01–V12, with V06.5/V08.5 at separately routed story clocks and continuity layers\"\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n governing_architecture_version: \"1.9\"\n@@ -15,6 +15,10 @@\n prepared_date: \"2026-10-23\"\n supersedes: []\n superseded_by: []\n+independent_review: PASS\n+release_state: mutable_active\n+accepted_scope: R07_PRIMARY_DYAD\n+canonical_destination: \"series/tomozaki/06 Specialist Synthesis/TOMOZAKI_HINAMI_RELATIONSHIP_SYNTHESIS.md\"\n ---\n \n # Fumiya and Hinami — credibility, closeness, and the right to decide\n@@ -29,7 +33,7 @@\n \n This is the emergent responsibility of the dyad. Neither individual monograph alone can explain how one person's competence changes the other's options, how gratitude becomes debt, how a refusal can be both effective and lonely, or how an attempt to end solitary proof can reproduce it in another person's name. The following argument distinguishes **Fumiya → Hinami** from **Hinami → Fumiya** and keeps their partners, friends and family independently consequential. It treats romance as an unresolved classification at the admitted endpoint. Exceptional attachment is directly evidenced; narrative centrality supplies no reciprocal romantic declaration or permanent non-romance rule. [REL-C02/03/08/09/11; CRI-REL-001/003/004]\n \n-This file is a noncurrent R07 candidate. The accepted current individual studies are inputs, not a specialist acceptance conferred on this draft. No source gate, convergence, full-series synthesis, release or reconstruction-model gate is promoted here.\n+This relationship account has passed independent root semantic and source review at its local literary scope. The current individual studies remain inputs with their own responsibilities. The [relationship integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md) binds the exact accepted draft, actual inspection and canonical render. No aggregate source, convergence, full-series synthesis, release or reconstruction-model gate is promoted here.\n \n ## 2. Fourteen witnesses, several clocks\n \n@@ -246,7 +250,7 @@\n \n ## 14. Evidence directory and retrieval contract\n \n-All named source paragraphs count **every HTML p**, including empty/image-bearing elements, one-based and reset per exact ZIP member. They are not print pages or normalized extraction lines. Ruby base and reading remain distinct. No new pixel inspection, remote payload verification or fresh complete novel reread is claimed by this R07 operation. `READ_SOURCE_AND_DEBT_RECEIPT.json` separates new windows from previously completed reads and accepted L1/L3 records; `candidate_manifest.json` binds the exact deliverable.\n+All named source paragraphs count **every HTML p**, including empty/image-bearing elements, one-based and reset per exact ZIP member. They are not print pages or normalized extraction lines. Ruby base and reading remain distinct. No new pixel inspection, remote payload verification or fresh complete novel reread is claimed by this R07 operation. The [relationship source/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json) preserves the original read/source/debt receipt and candidate seal, separating new windows from previously completed reads and accepted L1/L3 records.\n \n **Artifact key.** `DRnn` means `series/tomozaki/02 Sequential Readings/TOMOZAKI_Vnn_DEEP_READING.md` for the numbered volume, with two-digit nn. `SR06.5` and `SR08.5` mean the same directory's `TOMOZAKI_V06_5_SUPPLEMENTAL_READING.md` and `TOMOZAKI_V08_5_SUPPLEMENTAL_READING.md`. `CS`, `REL`, `EFF`, `SOC`, `JVL`, and `CRI` mean the current files in `series/tomozaki/03 Longitudinal Ledgers/`: `TOMOZAKI_CHARACTER_STATE_LEDGER.md`, `TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md`, `TOMOZAKI_EFFORT_COMPETITION_AND_GOAL_OWNERSHIP_LEDGER.md`, `TOMOZAKI_SOCIAL_ATMOSPHERE_AND_GROUP_SYSTEMS_LEDGER.md`, `TOMOZAKI_JAPANESE_VOICE_REGISTER_AND_KEY_TERMS_LEDGER.md`, and `TOMOZAKI_CLAIM_REVISION_AND_EVIDENCE_INDEX.md`. `LOC` means `series/tomozaki/08 Audits and Manifests/TOMOZAKI_TARGETED_SOURCE_LOCATOR_AUDIT.md`. Their agreement is routing, not multiple independent primary witnesses.\n \n@@ -291,7 +295,7 @@\n | FH-E15 | Current governance remains incomplete; OPEN at stated source boundary | REL §17/current CRI; no future comprehensive permission, intervention stop or coaching contract supplied. |\n | FH-E16 | Specialness is directly evidenced; romantic category remains OPEN | CRI-REL-003; REL-C06/08; continuing Kikuchi selection and others' independent feelings retained. |\n | FH-E17 | Narrative person, speaker, modality and imagined voice govern access; DIRECT textual controls | FH-P11/13/14; JVL §13; CRI §20; no private-to-peer transcript, universal gender/voice or diagnosis inference. |\n-| FH-E18 | The dyad requires an emergent specialist account beyond combined biographies; LITERARY SCOPE JUDGMENT | Architecture §8 and this directional argument; independent R07 review pending, not a gate declaration. |\n+| FH-E18 | The dyad requires an emergent specialist account beyond combined biographies; LITERARY SCOPE JUDGMENT | Architecture §8 and this directional argument; independent local R07 review passed, not an aggregate gate declaration. |\n \n The newly consulted primary witnesses retain their admitted locked identities. The receipt binds complete file digests, ZIP CRC checks, exact member digests/counts and actual windows. The original V12 consultation of 42 spine members and 26 actual JPEG occurrences is inherited from the accepted source-completion receipt, not represented as new illustration work here. No raw source extract or image is part of this analytical payload.\n \n@@ -299,6 +303,6 @@\n \n The source leaves substantive matters open: Nagisa's intent and preventability; the school-year discrepancy; Yoko's full interior and any named practice; complete family repair; exact replay-pause intent; durable self-liking and resilience after another identity-loaded loss; ordinary attendance, presidency and coaching arrangements; general disclosure/representation/stop rules; revenge accountability; terminal romantic outcomes; and practical professional/career futures. A relationship account cannot settle them by assigning better motives, extending the final mood or making a fictional voice historical.\n \n-The current individual monographs and cumulative owners already supply many component propositions. This study's additional responsibility is to explain their directional interaction: how recognition opens a life, how acquired methods create further chosen ties, how shared credibility tempts each person to overclaim, how refusals protect and wound a valued bond, and how a local shared occasion can become possible without adjudicating either person's total rightness. That account remains contestable and requires independent review of the exact candidate and its receipts.\n-\n-Root owns semantic acceptance, canonical placement, any cumulative routing revision and later convergence. This producer has not changed shared authorities or Git state, certified this role's maturity, passed the thematic or final-synthesis program, published a source or generated a reconstruction model. The actual read/source/debt record must travel with the candidate, including inherited reading limits and any reviewer-required correction. A usable literary ending and an accepted source boundary do not erase those independent responsibilities.\n+The current individual monographs and cumulative owners already supply many component propositions. This study's additional responsibility is to explain their directional interaction: how recognition opens a life, how acquired methods create further chosen ties, how shared credibility tempts each person to overclaim, how refusals protect and wound a valued bond, and how a local shared occasion can become possible without adjudicating either person's total rightness. That account remains contestable. Independent root review of the exact draft and receipts supports this local literary responsibility; cross-specialist convergence remains separate.\n+\n+Independent root acceptance and this canonical render are recorded in the relationship integration review. The source/review manifest preserves producer and reviewer identities, actual read/source/debt scopes and inherited limits. Repository validation, publication, cross-specialist convergence, the thematic/final-synthesis program and derived-model work remain distinct responsibilities. A usable literary ending and an accepted source boundary do not erase them.\n--- .scratch/relationship_fumiya_kikuchi/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS_CANDIDATE.md\n+++ series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md\n@@ -3,10 +3,10 @@\n artifact_type: relationship_synthesis\n subject: \"Tomozaki Fumiya ↔ Kikuchi Fuka / 友崎文也 ↔ 菊池風香\"\n responsibility: R07_PRIMARY_DYAD\n-authority_class: draft_noncurrent\n-status: independent_root_review_required\n-repository_authority: false\n-do_not_use_as_current_authority: true\n+authority_class: canonical\n+status: canonical\n+repository_authority: true\n+do_not_use_as_current_authority: false\n corpus_boundary: Japanese_V01-V12_plus_separately_routed_V06.5_V08.5\n source_base_commit: 406b26c4591a9bce99c83a54600286f56a35678e\n source_transaction_integrated_at: 73717d42aefa394207ab23bf98e774ed5cdecfb6\n@@ -17,6 +17,11 @@\n supersedes: []\n superseded_by: []\n literary_release_or_model_gate: NOT_CLAIMED\n+review_state: INDEPENDENT_LOCAL_RELATIONSHIP_ROLE_PASS\n+independent_review: PASS\n+release_state: mutable_active\n+accepted_scope: R07_PRIMARY_DYAD\n+canonical_destination: \"series/tomozaki/06 Specialist Synthesis/TOMOZAKI_KIKUCHI_RELATIONSHIP_SYNTHESIS.md\"\n ---\n \n # Fumiya and Kikuchi — choosing a person whose answer remains their own\n@@ -33,7 +38,7 @@\n \n The present endpoint is an actual partnership with a finished shared undertaking, ordinary affection and reciprocal questions about what each wants to offer. It is not a demonstrated permanent balance between romance, gaming, writing and Hinami. Their successful offering does not supply the modeled subject's prior permission, the dead subject's voice or a right to publish private material. The couple can offer an authored prayer while remaining responsible for how they obtained, represented and delivered it. Their future has become more inhabitable without becoming fully governed. [FK-E16–20]\n \n-This synthesis owns that dyadic logic. The individual monographs own the two persons' broader development; the relationship ledger preserves directional state and stable REL identities; the ensemble and thematic specialists retain independent responsibilities. The couple's literary value cannot turn every supporting person into evidence of its success. This scratch candidate does not accept itself or open convergence, final synthesis, release or derived-model gates.\n+This synthesis owns that dyadic logic. The individual monographs own the two persons' broader development; the relationship ledger preserves directional state and stable REL identities; the ensemble and thematic specialists retain independent responsibilities. The couple's literary value cannot turn every supporting person into evidence of its success. Independent root semantic/source review accepts this local relationship role; the [relationship integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md) binds the exact reviewed account and canonical render. This acceptance does not open convergence, final synthesis, release or derived-model gates.\n \n ## 2. Eras, access and evidence\n \n@@ -273,7 +278,7 @@\n | FK-E17 | Observation/documentary marks constrain but do not outsource a remaining owned prayer. Direct marks, attributed psychology, unavailable subject. | R20 |\n | FK-E18 | Actual delivery/reading changes execution status without supplying prior permission or ethical certification. Direct acts and explicit limit. | R20 |\n | FK-E19 | Her own writing reason redirects his vocational question; later inward purpose is not an immediate café reply. Direct dialogue/narration distinction. | R20 |\n-| FK-E20 | Increasingly revisable partnership is substantive; durable governance/biography remains open. Relationship synthesis pending review. | R01–20 |\n+| FK-E20 | Increasingly revisable partnership is substantive; durable governance/biography remains open. Relationship synthesis independently reviewed at local literary scope. | R01–20 |\n \n | Local route | Exact retrieval and actual inspection class |\n |---|---|\n@@ -298,6 +303,6 @@\n | FK-R19 | **Reused own Kikuchi/island source work:** V12 `item/xhtml/p-0014.xhtml` P158–206/P292–326; `item/xhtml/p-0016.xhtml` P35–81/P156–190/P305–400/P410–497/P625–660/P649–857/P739–790/P861–1129, with overlap retained. Exact individual costume actors/sample mismatch retained. **Fresh R07:** p0014P207–291 and p0016P82–155 for travel/lodging; `item/xhtml/p-0018.xhtml` P147–197 for distinct Mio location/plural practice and the couple's own birds. Complete actual call windows/hashes live in receipts. |\n | FK-R20 | **Reused own source work and current source-facing control:** V12 `item/xhtml/p-0021.xhtml` P11–33/P95–149/P209–391/P402–433; `item/xhtml/p-0022.xhtml` P114–226/P504–513/P846–871/P947–979; accepted DR12/full completion receipt. **Fresh R07:** `item/xhtml/p-0026.xhtml` P106–177/P259–284, establishing café dialogue versus later inward purpose. Current TF-V12-E07–09/KF-P43–46/REL §17/CRI §20–21 preserve unavailable Nagisa, reader/actor access, groundless assurance and no final match. No new completeV12/images reread. |\n \n-Current analytical inputs are the accepted full Fumiya/Kikuchi monographs, complete applicable REL §6/§14.6/§17, and the current six-owner V12 bands at their recorded prior/fresh scope. The full DR12/source-facing reading and exact historical admission govern; the displayed inspection logs and `read_source_and_debt_receipt.md` distinguish direct source, source-facing argument and synthesis. Local FK identities do not rename KF/TF/REL/CRI IDs or silently change frozen readings.\n-\n-Remaining work is root's independent semantic/source review and canonical decision, followed by required integration checks. The authorship, consent, effort, meaning and ensemble specialists must preserve this dyad's particular costs while testing cross-owner convergence. Open future matters include sustainable writing/gaming routes, complete time and disclosure rules, all represented subjects' standing, contact governance, durable recovery and the partnership's later life. Nothing here provides a future marriage, a general therapeutic method, an exhaustive idiolect, legal clearance or released behavior model.\n+Current analytical inputs are the accepted full Fumiya/Kikuchi monographs, complete applicable REL §6/§14.6/§17, and the current six-owner V12 bands at their recorded prior/fresh scope. The full DR12/source-facing reading and exact historical admission govern; the [relationship source/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json) preserves the inspection records and read/source/debt receipt distinguishing direct source, source-facing argument and synthesis. Local FK identities do not rename KF/TF/REL/CRI IDs or silently change frozen readings.\n+\n+Independent root semantic/source review has accepted this exact account. Required repository validation/publication and cross-specialist integration checks remain separate. The authorship, consent, effort, meaning and ensemble specialists must preserve this dyad's particular costs while testing cross-owner convergence. Open future matters include sustainable writing/gaming routes, complete time and disclosure rules, all represented subjects' standing, contact governance, durable recovery and the partnership's later life. Nothing here provides a future marriage, a general therapeutic method, an exhaustive idiolect, legal clearance or released behavior model.\n--- .scratch/relationship_root_review/MIMIMI_R07_ROOT_RECONCILED_CANDIDATE.md\n+++ series/tomozaki/06 Specialist Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md\n@@ -3,16 +3,22 @@\n artifact_type: relationship_synthesis\n subject: Tomozaki Fumiya ↔ Nanami Minami / Mimimi\n scope: Japanese V01–V12 plus story-local V06.5/V08.5\n-status: draft_noncurrent\n-release_state: scratch_candidate\n-repository_authority: false\n-do_not_use_as_current_authority: true\n-independent_review: pending\n+status: canonical\n+release_state: mutable_active\n+repository_authority: true\n+do_not_use_as_current_authority: false\n+independent_review: PASS\n responsibility: R07_FUMIYA_MIMIMI_DYAD_ONLY\n intended_repository_path: series/tomozaki/06 Specialist Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md\n governing_architecture: ../00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md\n source_boundary: V12_c7c_plus_routed_supplements\n new_gate_pass: false\n+authority_class: canonical\n+review_state: INDEPENDENT_LOCAL_RELATIONSHIP_ROLE_PASS\n+supersedes: []\n+superseded_by: []\n+accepted_scope: R07_PRIMARY_DYAD\n+canonical_destination: \"series/tomozaki/06 Specialist Synthesis/TOMOZAKI_MIMIMI_RELATIONSHIP_SYNTHESIS.md\"\n ---\n \n # Fumiya and Mimimi — reciprocal friendship under unequal desire\n@@ -25,7 +31,7 @@\n \n This account is falsifiable. A purely unilateral helper relation would not explain Fumiya's recognized contribution to the campaign and to Mimimi's history, her capacity to receive particular help, or the performance that needs both responses. An account of uncomplicated equal friendship would not explain the declaration, non-selection, loss attached to the walk, or the continued need to consider an absent partner. A romance-only account would not explain the earlier camp's different state, intrinsic pleasure in the comedy, her council initiative or the shared failure to prepare the final event. These are counterexamples to rival reductions, not proof that every act is equally good or equally costly.\n \n-The [Fumiya monograph](../04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md) owns his person-level trajectory; the [Mimimi monograph](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md) owns hers. The [relationship ledger](../03%20Longitudinal%20Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md) preserves directional state and historical revisions. This specialist explains what their interaction produces and constrains across time. It does not replace the coequal Mimimi–Tama ensemble responsibility, Kikuchi's own agency, the other two mandatory dyads, or the seven thematic specialists. Root independently reviews the actual candidate before any canonical installation or gate decision.\n+The [Fumiya monograph](../04%20Character%20Analysis/Tomozaki%20Fumiya/TOMOZAKI_FUMIYA_CHARACTER_MONOGRAPH.md) owns his person-level trajectory; the [Mimimi monograph](../04%20Character%20Analysis/Nanami%20Minami/NANAMI_MINAMI_CHARACTER_MONOGRAPH.md) owns hers. The [relationship ledger](../03%20Longitudinal%20Ledgers/TOMOZAKI_RELATIONSHIP_STATE_LEDGER.md) preserves directional state and historical revisions. This specialist explains what their interaction produces and constrains across time. It does not replace the coequal Mimimi–Tama ensemble responsibility, Kikuchi's own agency, the other two mandatory dyads, or the seven thematic specialists. Independent root review and the exact corrected-object rebind precede this canonical render; the [relationship integration review](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_INTEGRATION_REVIEW.md) records the bounded acceptance and continuing gates.\n \n ### 1.1 Source and knowledge boundary\n \n@@ -213,7 +219,7 @@\n | Third parties | Kikuchi must speak for her own partnership; Tama has decisive independent standing in Mimimi's history. | Acts with and toward those people, not merely around Fumiya; shares responsibilities with a wider group. | Neither grants blanket subject representation permission; Ashigaru's labor remains external and real. |\n | Consent/authority | Owns selection and his answers; does not own her emotional timetable or sacrifices. | Owns feeling, refusal and revision; does not own his romantic choice or all changes to his life. | Warmth, accurate insight and useful outcomes do not supply universal authorization. |\n \n-This is a literary state, not an operational simulation or a released behavioral model. It is current only through the admitted source boundary and remains a scratch proposal until independently accepted.\n+This is an independently accepted literary relationship state through the admitted source boundary. It is not an operational simulation or a released behavioral model; its currentness supplies no unshown future state.\n \n ## 11. Serious rival readings and their dispositions\n \n@@ -276,7 +282,7 @@\n \n ### 12.1 Source and analytical route register\n \n-“Fresh” here means this dyad worker actually displayed/read that exact bounded Japanese window. “Inherited” means a source/locator record already independently reviewed in the named current monograph or canonical owner; it is not relabeled as a new source return. All witness hashes are pinned by the [source lock](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md). The final handoff receipt supplies exact current analytical input hashes and actual operation scope.\n+“Fresh” here means this dyad worker actually displayed/read that exact bounded Japanese window. “Inherited” means a source/locator record already independently reviewed in the named current monograph or canonical owner; it is not relabeled as a new source return. All witness hashes are pinned by the [source lock](../01%20Source%20Lock%20and%20Inventory/TOMOZAKI_SOURCE_LOCK_AND_INVENTORY.md). The [relationship source/review manifest](../08%20Audits%20and%20Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json) preserves the final handoff receipt, exact analytical input hashes and actual operation scope.\n \n | Route | Era, exact source and review strength | Analytical owner / restriction |\n |---|---|---|\n@@ -310,6 +316,6 @@\n \n ## 14. Candidate review boundary\n \n-This draft proposes a substantive R07 dyadic account through the actual source endpoint. It claims no independent acceptance, canonical installation, aggregate R07 pass, ensemble or thematic completion, cross-specialist convergence, release, derived-use-model validation or terminal closure. The local FM-C/FM-L registers are retrieval tools within the candidate. The original monograph histories, canonical stable IDs, frozen readings and sealed coverage audit have not been edited by this worker.\n+This specialist provides an independently accepted R07 dyadic account through the actual source endpoint. The reviewed original and exact two-correction derivative remain recoverable in the relationship integration/source-review records. This canonical render claims no aggregate R07, ensemble/thematic completion, cross-specialist convergence, release, derived-use-model validation or terminal closure. The local FM-C/FM-L registers remain retrieval tools for this account. The original monograph histories, canonical stable IDs, frozen readings and sealed coverage audit have not been edited by this worker.\n \n Independent review should challenge the central account against both pleasures and costs: whether two-way work survives the romantic asymmetry without inventing equality; whether the walk sequence remains exact about duration, force and later assent; whether V12 self-regard retains V09 precedent; whether direct listeners and private/fictional knowledge stay separate; and whether the final event failure genuinely constrains the partnership rather than becoming a token caveat. Any accepted current owner must then be installed and propagated by root under exact-path validation. The ending supplies continued relation and an unfinished practical future, not authority to skip those responsibilities.\n"
+    },
+    "current_control_propagation": {
+      "path": ".scratch/relationship_tranche/control_propagation_receipt.json",
+      "bytes": 1309,
+      "sha256": "03465d7583530b0ff169e41a9fc424abe4f73ca6e9ea532b86389ba4664fb861",
+      "payload_type": "parsed_JSON_value",
+      "payload": {
+        "status": "CURRENT_CONTROLS_PROPAGATED_SUPPORTING_AND_THREE_DYAD_ACCEPTANCE",
+        "changes": [
+          {
+            "path": "series/tomozaki/CURRENT_STATE_AND_CORPUS_MAP.md",
+            "before_sha256": "495dfa20b02c9140efdc6efaf2698b85d7d72f41f3640b6f03242e8aac47280c",
+            "after_sha256": "5c850b22c86737b1e9725dc93cb1ba0ec8526f2ea2e53ab94b9f00aa73dc897d",
+            "bytes": 59222
+          },
+          {
+            "path": "series/tomozaki/00 Frameworks and Methods/TOMOZAKI_SYNTHESIS_ARCHITECTURE.md",
+            "before_sha256": "d472a674663b32e15c70b23b0d9e2511945aea5d2e919b8fe93aca207d901964",
+            "after_sha256": "0fb45b545e7e8981e16463179c20d355edeb075ba440a0d837730d22ee86c80b",
+            "bytes": 58236
+          },
+          {
+            "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_REMEDIATION_EXECUTION_INVENTORY.md",
+            "before_sha256": "b2b79ef80fa2a06e9b93c19295485c4e9a6f02b1f6d2e4e9531ce8948402ccec",
+            "after_sha256": "f775033e2dd51fe0ea70cb355065c886e8ee7d58049b0c5eed78ba9cf4205dbf",
+            "bytes": 39782
+          }
+        ],
+        "new_specialist_entrypoint": {
+          "path": "series/tomozaki/06 Specialist Synthesis/README.md",
+          "bytes": 3331,
+          "sha256": "1ef6ef71628bd2d6691e31c880934e0e6a33730e085372302dab05baf5371a23"
+        },
+        "all_other_bytes_preserved": true,
+        "later_gates_unchanged": true,
+        "publication_pass": false
+      }
+    }
+  },
+  "record_semantics": "Complete parsed historical JSON values and UTF8 authored review/diff text retain original raw identities. Historical pending labels and scratch paths describe their earlier stage and are not live required dependencies. Complete authored administrative diffs permit original-versus-current render recovery; no novel-source window or media is embedded. Root accepted each literary body before administrative promotion; a separate exact event-wording precision and its independent confirmation remain attributable.",
+  "focused_checks": {
+    "all_38_other_declared_payload_hashes_bound": true,
+    "all_42_unaffected_title_files_replayed": true,
+    "all_12_supporting_current_payloads_match_manifest_including_event_precision": true,
+    "all_3_relationship_current_payloads_match_manifest": true,
+    "supporting_installed_link_and_authority_receipt": {
+      "path": ".scratch/supporting_tranche/installed_link_and_authority_receipt.json",
+      "bytes": 27582,
+      "sha256": "8a014e3cbe0178c27f6bf06030b00732879b7925574e8a08353935315026ff9a"
+    },
+    "relationship_installation_receipt": {
+      "path": ".scratch/relationship_tranche/canonical_installation_receipt.json",
+      "bytes": 7226,
+      "sha256": "0174d7c7037d50761339c5545326692abef3e9a0f6b5dfa03f3e610c65f4eeb0"
+    },
+    "later_repository_and_release_checks_not_inferred_from_focused_checks": true
+  },
+  "repository_publication_state": "PENDING_FINAL_STAGING_AND_GENUINE_AUTHOR_PREFLIGHT. The prior preflight failed only CHARACTER_ANALYSIS_INDEX.md out of date. The deterministic three-marker generated refresh remains outside initial author scope with a human decision pending; no index, registry, control or check is weakened or written by this tranche.",
+  "remaining_campaign": [
+    "R08independentensembleandcoequalMimimiTama",
+    "R09allsevenmandatorythemes",
+    "adversarialclaimlocatorreconciliation",
+    "crossspecialistconvergence",
+    "fullseriessynthesisLAST",
+    "literarysemanticrelease",
+    "distinctjustifiedderivedmodels",
+    "exactheadpublicationandownerCIintegration",
+    "separatelyauthorizedownermergedterminalgovernance"
+  ],
+  "authority_boundaries": [
+    "No global discovery or capability enrollment by analysis author",
+    "No full-series synthesis or derived model promoted by these local passes",
+    "Source-run V12 integration distinct from later literary/publication/terminal gates"
+  ],
+  "self_hash_note": "The containing Git tree binds this manifest; self excluded from payload hashes. Actual staged-tree/preflight/publication receipts are later attributable records, not asserted future successes.",
+  "portable_receipt_publication_projection": {
+    "status": "PORTABLE_PROJECTION_VERIFIED_ONLY_LOCAL_ROOT_PREFIXES_CHANGE",
+    "tokens": [
+      "@REPOSITORY_ROOT@",
+      "@SOURCE_LOCK_ROOT@"
+    ],
+    "objects": [
+      {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_SUPPORTING_LITERARY_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "before_bytes": 583601,
+        "before_sha256": "2258492cd4ed5612a6277dadc8b9e834688aa3b4861d2a393646251ba4511bd5",
+        "after_bytes": 585817,
+        "after_sha256": "49ec42dff189f73da373ea883013d5a3a9ca202262f9a2cd1452d41f8c71f6ca",
+        "changed_string_fields": 138,
+        "changed_records": [
+          "family.producer_read",
+          "family.independent_source",
+          "family.Haruka_delta_rebind",
+          "island.producer_source",
+          "island.producer_read",
+          "island.inherited_context",
+          "rena.producer_read",
+          "rena.independent_source",
+          "rena.delta_rebind",
+          "ashigaru.producer_read",
+          "ashigaru.producer_source",
+          "root.ISLAND",
+          "root.ASHIGARU",
+          "root.rena_reconciliation"
+        ]
+      },
+      {
+        "path": "series/tomozaki/08 Audits and Manifests/TOMOZAKI_PRIMARY_RELATIONSHIP_EVIDENCE_AND_REVIEW_MANIFEST.json",
+        "before_bytes": 280875,
+        "before_sha256": "2569e9436316839792fbe6ba3f0160f9dc8a469522f1fc1590ef090dd2c03a51",
+        "after_bytes": 281705,
+        "after_sha256": "33789d4aead03448055f833d6806bae1b2c9ea2153cdb7381042761f9417e9a4",
+        "changed_string_fields": 85,
+        "changed_records": [
+          "Hinami.producer_source_debt",
+          "Kikuchi.producer_source",
+          "Kikuchi.producer_read_debt",
+          "Kikuchi.producer_seal",
+          "Kikuchi.root_independent_acceptance"
+        ]
+      }
+    ],
+    "original_receipts_untouched": true,
+    "all_non_path_semantics_and_raw_hashes_preserved": true,
+    "full_private_projection_proof_sha256": "dd9307c24d83bfae2e36aabf8a7f3775dc098c0526ec3c61ba51807f49bab00c",
+    "projection_not_claimed_as_complete_original_values": true
+  }
+}

@@ -1,0 +1,125 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/ROOT_FULL_CAST_MECHANICAL_COVERAGE_V1/EXACT_OUTPUT_MANIFEST.json",
+  "original_frozen_binding": {
+   "bytes": 6119,
+   "sha256": "d05786e4b3ad2a500b33c01d317675c5e7e7b4ff2a802467622be35d803f895c",
+   "git_blob_sha1": "8a29a9afb00e229f05c188297f4ee09015af8f74"
+  }
+ },
+ "historical_payload": {
+  "status": "FROZEN_C_ONLY_MECHANICAL_DELIVERY_ROOT_RECEIVING_PENDING",
+  "published_revision": "c1f14d5120c29209ca571fea8d7cfbe111076ec5",
+  "output_bindings": [
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_01.json",
+    "bytes": 719263,
+    "sha256": "87df468ca6f953959fa9daca86908d9464447a1f8487f5d6a46ef55b3b9a065f",
+    "git_blob_sha1": "86521412fd532ce38682582e1ffa1e6834f3bf19"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_02.json",
+    "bytes": 718861,
+    "sha256": "e12486383fb06e0904a188a4208c49865313a8fc8cdff28aa271cdf029c0399e",
+    "git_blob_sha1": "fb1a3bac9531b6307b9976c9400d5026f09126b0"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_03.json",
+    "bytes": 719721,
+    "sha256": "2595608c1a29e3ca2c7a59274c26db1e4c2c1039c181664746eeecd0dfbf372f",
+    "git_blob_sha1": "0165b1daebe1ae256e133edd9e0823c13f0bacdf"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_04.json",
+    "bytes": 719621,
+    "sha256": "f81c9eabdf8cd1a4e3738d88eb2fdb7121f346d570dd6ca6cbfa2aa46cd41bae",
+    "git_blob_sha1": "a86243be7da39414d892528326f96c7516f4fecf"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_05.json",
+    "bytes": 719841,
+    "sha256": "cc481c76d4bfd6f54b4b97cb1c5db9f15d64512d4b92462b7ab6e4eb08589c8f",
+    "git_blob_sha1": "242b21dc135c6146b84d64bae77137d5af06c110"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_06.json",
+    "bytes": 719695,
+    "sha256": "763eafb250d5420961ddccd890977732e8c342a7c57f09cfd12392290e03e1cc",
+    "git_blob_sha1": "c1a46943492a2a19d2b6b850f3199fa31d2dbcc8"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_07.json",
+    "bytes": 719455,
+    "sha256": "5c97868a8a7caaf0812f92aebd95a445540b63b3e0707e27d95c47b201619824",
+    "git_blob_sha1": "8829795500ab5dbb408b7b756f7afd187b03a7e8"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_HEADER_COVERAGE_UNION_PART_08.json",
+    "bytes": 260210,
+    "sha256": "ef477c1ae49239a90462564058872bb6df75a93515b1776873fce925ae740ff0",
+    "git_blob_sha1": "bc28b31687249eae9507648bf2cfbe9bf36dafb2"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/PUBLIC_SOURCE_BINDINGS_PART_01.json",
+    "bytes": 677314,
+    "sha256": "5076779d4d2240278b12b5bd2c1c81f1ff566810bc4e7f0211242a935ac2d8c8",
+    "git_blob_sha1": "2d822e39acc5db8526cc77d84529aae417feef16"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/OWNER_COVERAGE_MATRIX.json",
+    "bytes": 407296,
+    "sha256": "3ee93c8f2ad94de8a2bb9dc12207158945a010155e1f775799317271cded497a",
+    "git_blob_sha1": "f8afc2254f5d683072c959ab84f6aafcc4913d52"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/OWNER_COVERAGE_MATRIX.csv",
+    "bytes": 22523,
+    "sha256": "cb0078262a18e5bc83a2c347c2578a2cf988e53fed3e1b0880e0075c6fe3f02f",
+    "git_blob_sha1": "57c6a1ae0197d2a8c094f4670a3ba081584320bd"
+   },
+   {
+    "path": "series/blue-archive/06 Evidence and Indexes/FULL_CAST_PUBLIC_COVERAGE_V1/DATED540_RETRIEVAL_PROJECTION.json",
+    "bytes": 318916,
+    "sha256": "a7ecd77ddd02e5119e6f62f186d015e4b08c27591e3127e70c407a70db0ba64c",
+    "git_blob_sha1": "7ee20b45ae7d4fc136eae5c7e3da8d6149725e8d"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/MECHANICAL_COVERAGE_SUMMARY.json",
+    "bytes": 78265,
+    "sha256": "669e2d3c1ee3e546a149c273808972cabcaab47b5d06df0269e722a40231a275",
+    "git_blob_sha1": "3c0695e87d8364acc95833d6c19dd796955b423b"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/GEHENNA_CHOICE_HEADER_SUPPLEMENT_V1.json",
+    "bytes": 22515,
+    "sha256": "7a7e990106dc1334e446edfc1c908b2931e2ccb9da06063f27646fc873e0c9e7",
+    "git_blob_sha1": "f989aff7b12dc843b7ad5bfb3c6ddefe4811ad98"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/MECHANICAL_INTEGRITY_AND_SCOPE_AUDIT.json",
+    "bytes": 1718,
+    "sha256": "52f16e6d81662579ffb2a18b8ab64807343599a1c494267bc72fb0629360386c",
+    "git_blob_sha1": "5a598b6313ea5db2951e3243c3b029380362ac3b"
+   },
+   {
+    "path": "series/blue-archive/08 Audits and Manifests/FULL_CAST_PUBLIC_COVERAGE_V1/MECHANICAL_COVERAGE_REVIEW.md",
+    "bytes": 15793,
+    "sha256": "497753d4b90f62c47acff0192e3ab277b5da969277e0a1eea23ba55359b40c2a",
+    "git_blob_sha1": "9a112757d5c32456f535f0f4a1a1e8b0db654a1b"
+   }
+  ],
+  "all_outputs_below1MiB": true,
+  "all_outputs_UTF8LF_noBOM": true,
+  "source_units": 1107,
+  "distinct_source_local_header_routes": 8326,
+  "argument_receiving": "Qualified original-writer JSON declarations only; no new personal whole narrative/argument credit.",
+  "N_frozen": false,
+  "quarter_or_percentage": false
+ }
+}

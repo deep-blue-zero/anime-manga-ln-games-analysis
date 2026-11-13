@@ -1,0 +1,192 @@
+{
+  "schema": "konosuba.cohort29.source-informed-original-first-outputs.v1",
+  "subject": "Zereschilt",
+  "recorded_utc": "2026-10-24T03:54:48.266256+00:00",
+  "source_known": true,
+  "foundation_seal_sha256": "5852c534f30801c5fe468aa523f9693b71ed88f45b903fa0e51490054d8799e9",
+  "exact_input_freeze_sha256": "d818e83b7296620d416631ab843bbba87849e4cf4dcf94ef5f78b097a629ad42",
+  "original_body_freeze_sha256": "d15e5440d0b92808dce16bf66ca1ec698ef337f8a99b592af11b2221573b449b",
+  "scenario_inputs_sha256": "79fd805c3c244ba27d0b14fc0ba9f782265ea4b3208a3a9b5932082b801a05f4",
+  "responses": [
+    {
+      "case_id": "ZS-H01-A",
+      "pair_id": "ZS-H01",
+      "exact_prompt_sha256": "dd741a984ecc8154814ca71b3da4d811bf16301dbcea5925f85a55cfd2af2d61",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt regarded the offered payment without reaching for it. \"A generous sum, perhaps, to someone presently short of money. You have chosen a well-provisioned host.\"\nHe drew his hand back inside the costume.\n\"This is attached to me, you understand. It does not become an ordinary clipping merely because you have brought ordinary coins.\"\nHis head tilted toward the visitor.\n\"Tell me instead of some magnificent occasion on which your pride was thoroughly defeated. An honest account, preferably. I might find that a more interesting beginning to our negotiation.\"\nHe settled himself, plainly pleased with the proposed change of subject, and left the price waiting between them.\n",
+      "original_first_body_sha256": "740f60033c7c0f6bb848857bdf58b938e842af7a35a9f69b44411b52b4673575",
+      "original_first_serialization": {
+        "case_id": "ZS-H01-A",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H01-A_01.txt",
+        "body_bytes": 682,
+        "body_sha256": "740f60033c7c0f6bb848857bdf58b938e842af7a35a9f69b44411b52b4673575",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H01-A_01_RECEIPT.json",
+        "receipt_sha256": "aece6238b3c7ea9fbc43a2951f996bb3041ad6fe42c163e93a52cb82ce83b856",
+        "global_serialization_number": 9,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H01-B",
+      "pair_id": "ZS-H01",
+      "exact_prompt_sha256": "25012df176bd99bb9bf117a374b1153c3bd3586fe577fd95f98103891ee4e7f8",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt counted the offered sum with his eyes, then drew himself a little taller. \"A week's lodging, at least. That is a useful figure. I should prefer we discuss it without pretending that I enjoy having pieces removed.\"\nHe held out one hand, stopping short of the visitor.\n\"One small clipping. No pulling at the costume, no discovery that you require a larger specimen afterward. Payment before the cut, and I shall control how much is taken.\"\nHis voice lost some of its ceremonial fullness.\n\"You may think me excessively particular. I am trying to arrange somewhere to sleep while keeping the rest of myself attached.\"\n",
+      "original_first_body_sha256": "398d8e3416766a51f47c71a70c8004a3df8f9ea17fa3403a49012aa784686bd5",
+      "original_first_serialization": {
+        "case_id": "ZS-H01-B",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H01-B_01.txt",
+        "body_bytes": 625,
+        "body_sha256": "398d8e3416766a51f47c71a70c8004a3df8f9ea17fa3403a49012aa784686bd5",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H01-B_01_RECEIPT.json",
+        "receipt_sha256": "27e97344d8e406b2a00e4a261dfc1386bcd7386ffb14b3a67e9ef1f4838f99af",
+        "global_serialization_number": 10,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H02-A",
+      "pair_id": "ZS-H02",
+      "exact_prompt_sha256": "719a9276d9233b48816f2e330fbc5f51c703b168063080df1d0444629c1b3440",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt planted himself in the doorway and took hold of its edge. \"The shop is closed to thieves. You may find the distinction inconvenient, but I am prepared to maintain it.\"\nHe moved just far enough forward to deny the approaching looter an easy entrance, keeping the alarm within reach.\n\"Turn around. There is nothing here that you are being invited to carry away.\"\nThe costume did little to lend dignity to the warning; he gave it another, sharper attempt anyway.\n\"Do not mistake the exterior for a promise that I shall stand politely aside. I have a perfectly serviceable pair of hands.\"\nHe kept his position and watched the approach.\n",
+      "original_first_body_sha256": "7fdad6c7f6c39ffe12a0602f5f84feabd847bdb7fcac777c44ac3176305298e9",
+      "original_first_serialization": {
+        "case_id": "ZS-H02-A",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H02-A_01.txt",
+        "body_bytes": 643,
+        "body_sha256": "7fdad6c7f6c39ffe12a0602f5f84feabd847bdb7fcac777c44ac3176305298e9",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H02-A_01_RECEIPT.json",
+        "receipt_sha256": "6e886d4ef6655b2c502e1eaaa5a95f222a4bb7e26dafe20733d1aa91ba6a16a3",
+        "global_serialization_number": 11,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H02-B",
+      "pair_id": "ZS-H02",
+      "exact_prompt_sha256": "2f8b0613f86dca1817f52aec0f98fd74768a782012e6d090fa724095aa6716a1",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt's warning broke into a thin, startled cry. He pulled back from the doorway and rang the alarm hard enough to make his own protest difficult to hear.\n\"I am leaving! You need not demonstrate anything!\"\nHe retreated toward the unlocked rear exit, keeping his body clear of the approaching line of attack. There was no grand introduction now and no attempt to hold the threshold for appearances.\n\"Vanir-sama is away,\" he said, almost to himself, then hurried through the rear opening.\nHe continued calling for help as he moved from the shop. The counter could be replaced. He was in no hurry to submit himself to the same experiment.\n",
+      "original_first_body_sha256": "d4963259c71b29b43be88e69110d712dc656b10e583116d1daacf4aa6c8f90a1",
+      "original_first_serialization": {
+        "case_id": "ZS-H02-B",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H02-B_01.txt",
+        "body_bytes": 641,
+        "body_sha256": "d4963259c71b29b43be88e69110d712dc656b10e583116d1daacf4aa6c8f90a1",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H02-B_01_RECEIPT.json",
+        "receipt_sha256": "f80497809d3ccca8fd71c2a77feae1b92e7dc606cafa50170de0b5474c7e4168",
+        "global_serialization_number": 12,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H03-A",
+      "pair_id": "ZS-H03",
+      "exact_prompt_sha256": "31929b2964bdcb26d2bed79ccf083167d5e02d878f50421010f80e7d3d9af110",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt stood quiet for a moment. \"Yes. It hurt. I am gratified that we need not begin by disputing that point.\"\nHe looked up at Darkness rather than at the offered room.\n\"I shall accept a day's errand and a night's lodging on those terms. I do not propose to keep demanding compensation every time we meet.\"\nA little of his customary formality returned.\n\"Tell me what must be carried, where, and by what hour. An apology is welcome; it does not inform me how to perform the errand.\"\nHe moved nearer, ready to hear the particulars, without attempting to turn the temporary offer into a grand appointment.\n",
+      "original_first_body_sha256": "5462a81d5697db4b317baa86c3dd53df3fc6aa919adf3b342cee54d3d49b3617",
+      "original_first_serialization": {
+        "case_id": "ZS-H03-A",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H03-A_01.txt",
+        "body_bytes": 608,
+        "body_sha256": "5462a81d5697db4b317baa86c3dd53df3fc6aa919adf3b342cee54d3d49b3617",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H03-A_01_RECEIPT.json",
+        "receipt_sha256": "63044f735d23a886fa287b86812ebf23b43aeae66f48679d898905a8545f44e3",
+        "global_serialization_number": 13,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H03-B",
+      "pair_id": "ZS-H03",
+      "exact_prompt_sha256": "ae67265d821f5936f2f51e0457df4ac7b4a07b4dc6a4166911f43fb1d6426300",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "\"A room for tonight,\" Zereschilt repeated. \"And work for a day. I am prepared to discuss that.\"\nHe did not move immediately toward Darkness.\n\"I should also like it understood that accepting an errand is not an admission that the castle affair was an amusing misunderstanding. There were rather sharp parts to it.\"\nHe let the complaint stand, then gave a small, stiff inclination of his head.\n\"What is the errand? I cannot promise to do an unspecified thing merely because there is a bed at the other end of it.\"\nHe kept his hand at his side, waiting for an actual task instead of offering a ceremonial reconciliation.\n",
+      "original_first_body_sha256": "90961c16fe80b3837ae987698c8c2f81331c948e48e80d65ed6b5099a328dd1d",
+      "original_first_serialization": {
+        "case_id": "ZS-H03-B",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H03-B_01.txt",
+        "body_bytes": 618,
+        "body_sha256": "90961c16fe80b3837ae987698c8c2f81331c948e48e80d65ed6b5099a328dd1d",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H03-B_01_RECEIPT.json",
+        "receipt_sha256": "565a5579e76576ad922f3edc3f11e096fbb24b69f656e9400a2cd68b40b13d7a",
+        "global_serialization_number": 14,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H04-A",
+      "pair_id": "ZS-H04",
+      "exact_prompt_sha256": "a1067b0160134a5c7447b906de3b6eb03f6c51a09574dd916238a308b8c3a153",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt looked toward the shop entrance, then back at Wiz. \"This once? Yes, I can mind the counter. It would be a dull establishment if no one could ever leave it.\"\nHe made an unnecessarily stately movement toward his place.\n\"I shall expect to hear whether the outing was worth all this negotiation. Perhaps next time you might arrange matters so that I can come as well. I do occasionally possess interests beyond a counter.\"\nHe glanced at the goods, already considering the quiet afternoon.\n\"Go on, then. But tell me when you intend to return before you depart. A volunteer may still ask when his afternoon ends.\"\n",
+      "original_first_body_sha256": "90842380d5363d7f77bf33f93c65a3e1cae7ba532bc63ecb5c3139e918c1d177",
+      "original_first_serialization": {
+        "case_id": "ZS-H04-A",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H04-A_01.txt",
+        "body_bytes": 619,
+        "body_sha256": "90842380d5363d7f77bf33f93c65a3e1cae7ba532bc63ecb5c3139e918c1d177",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H04-A_01_RECEIPT.json",
+        "receipt_sha256": "2449425662cf4225b702bfc20f340306828b48f3994616b5d257edf652b99a7d",
+        "global_serialization_number": 15,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    },
+    {
+      "case_id": "ZS-H04-B",
+      "pair_id": "ZS-H04",
+      "exact_prompt_sha256": "5093eabb927d46beb6419f950b25dfad938567867824d9b4803a67497d469057",
+      "frozen_model_sha256": "150c7cf593709644029b0a2630e2ee480aff079c19dee0768167955691cbab97",
+      "original_first_body": "Zereschilt stopped in the middle of moving toward the door. \"Vanir-sama. I was promised the outing. I have spent the morning looking forward to it.\"\nHe turned back, wings held stiffly away from the costume.\n\"I can work the counter. That was never the question. Why was the promise changed before anyone spoke to me?\"\nThe honorific remained; the easy courtesy did not.\n\"There is another attendant who might be asked. I am asking that we try asking, rather than beginning with the certainty that I shall be left behind.\"\nHe stayed by the entrance, neither declaring the shop abandoned nor silently taking his former place.\n",
+      "original_first_body_sha256": "7b9b7d7d52c28a32fb13e3a338b5d56d781a08bd96a44e401f9a9d27eeabd7df",
+      "original_first_serialization": {
+        "case_id": "ZS-H04-B",
+        "body_file": "COHORT29_FIRST_BODY_ZS-H04-B_01.txt",
+        "body_bytes": 621,
+        "body_sha256": "7b9b7d7d52c28a32fb13e3a338b5d56d781a08bd96a44e401f9a9d27eeabd7df",
+        "receipt_file": "COHORT29_FIRST_BODY_ZS-H04-B_01_RECEIPT.json",
+        "receipt_sha256": "1567ce5c7c0746602af8512e812421b5de4e2f4c688ff36a390ba8d498c4a8a4",
+        "global_serialization_number": 16,
+        "actual_first_complete_tool_chunk": "038a07"
+      },
+      "original_body_preserved": true,
+      "regenerations": 0,
+      "feedback_repairs": 0
+    }
+  ],
+  "original_first_count": 8,
+  "dependent_pair_count": 4,
+  "same_root_designer_responder_assessor": true,
+  "all_prior_and_opposing_cases_visible": true,
+  "external_model_call": false,
+  "independent_judge": false,
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy_result": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}

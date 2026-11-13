@@ -1,0 +1,773 @@
+{
+ "public_derivative_provenance": {
+  "current_required_scope": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_REQUIRED_HOME_PARTITION_V3.json",
+  "current_ROOT_scope_acceptance": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_PHASE3_FULL_SCOPE_ROOT_ACCEPTANCE_V3.json",
+  "historical_status_rule": "Original pending/proposed/count fields below retain their dated witness scope. ROOT V3 accepts the preserved responsibilities with ten original operations, one duplicate absorption and five legacy-tracker allocations. Historical V2 N353/26 remains immutable; current required successor is355/29.",
+  "source_translation_rule": "Repository-relative, external-selected-corpus and immutable-local-custody references replace machine paths. Exact frozen byte/hash/blob tuples bind original payloads; these translated files have separately bound derivative tuples. Private witnesses are not publicly served.",
+  "written_source_qualification": "Written Japanese admitted pin a038020f1f5ac02dcfe76962426d38f86414cdd8 / BA_REFRESH_20260928T032248159554Z; literal raw actor/locale/choice/report and conditional written modes retain original qualifications. No performed audiovisual receiving is claimed.",
+  "credit_rule": "Mechanical translation supplies zero new primary, performance, analytical-argument receiving or completed literary package credit.",
+  "original_input_reference": "immutable-local-custody://PHASE3_START_20261009/CENSUS_MILLENNIUM_V2/BLUE_ARCHIVE_PHASE3_MILLENNIUM_DECISION_REGISTER_V2.json",
+  "original_frozen_binding": {
+   "bytes": 34855,
+   "sha256": "41fd1078e3f7b15ec4225f6cf71dad5a623fb7cbc06778042872e5b2cabdd02a",
+   "git_blob_sha1": "f864562949adf311b201eca0de1f3dedc3813819"
+  }
+ },
+ "historical_payload": {
+  "schema": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_V2_DECISIONS",
+  "status": "PUBLIC_CANDIDATE_ROOT_ADOPTION_PENDING",
+  "repository_head_at_binding": "84d64c927a536f19c43f05f5d418e4e8c7713610",
+  "frozen_v1": "CENSUS_MILLENNIUM V1 unchanged",
+  "assigned_successor_family_duties": 13,
+  "complete_private_argument_duties": 13,
+  "private_duties_still_pending_in_this_successor": 0,
+  "character_proposals": [
+   {
+    "candidate_unit_id": "P3-F002",
+    "family_key": "AKANE",
+    "subject_label": "Akane",
+    "literal_raw_person_keys": [
+     "BA_PERSON_AKANE"
+    ],
+    "selected_variant_ids": [
+     "13000",
+     "20019",
+     "20057"
+    ],
+    "private_domain_counts": {
+     "BOND": 14,
+     "WHOLE_MOMOTALK": 14,
+     "WRITTEN": 4
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_AKANE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A076",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-AKANE",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F124",
+    "family_key": "NERU",
+    "subject_label": "Nel",
+    "literal_raw_person_keys": [
+     "BA_PERSON_NERU"
+    ],
+    "selected_variant_ids": [
+     "10008",
+     "10026",
+     "10111"
+    ],
+    "private_domain_counts": {
+     "BOND": 12,
+     "WHOLE_MOMOTALK": 12,
+     "WRITTEN": 5
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NERU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A079",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-NERU-NEL",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F092",
+    "family_key": "HIBIKI",
+    "subject_label": "Hibiki",
+    "literal_raw_person_keys": [
+     "BA_PERSON_HIBIKI"
+    ],
+    "selected_variant_ids": [
+     "16010",
+     "20000"
+    ],
+    "private_domain_counts": {
+     "BOND": 11,
+     "WHOLE_MOMOTALK": 11,
+     "WRITTEN": 3
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_HIBIKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A069",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-HIBIKI",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F111",
+    "family_key": "KOTORI",
+    "subject_label": "Kotori",
+    "literal_raw_person_keys": [
+     "BA_PERSON_KOTORI"
+    ],
+    "selected_variant_ids": [
+     "10076",
+     "16002"
+    ],
+    "private_domain_counts": {
+     "BOND": 9,
+     "WHOLE_MOMOTALK": 9,
+     "WRITTEN": 3
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOTORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A070",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-KOTORI",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F143",
+    "family_key": "UTAHA",
+    "subject_label": "Utaha",
+    "literal_raw_person_keys": [
+     "BA_PERSON_UTAHA"
+    ],
+    "selected_variant_ids": [
+     "10051",
+     "23004"
+    ],
+    "private_domain_counts": {
+     "BOND": 10,
+     "WHOLE_MOMOTALK": 10,
+     "WRITTEN": 3
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_UTAHA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A068",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-UTAHA",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F034",
+    "family_key": "CH0095",
+    "subject_label": "Noa",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0095"
+    ],
+    "selected_variant_ids": [
+     "10052",
+     "10109"
+    ],
+    "private_domain_counts": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 4
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_NOA_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A072",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-NOA-CH0095",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F051",
+    "family_key": "CH0158",
+    "subject_label": "Rio",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0158"
+    ],
+    "selected_variant_ids": [
+     "10133",
+     "20041"
+    ],
+    "private_domain_counts": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 4
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_RIO_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A080",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-RIO-CH0158",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F063",
+    "family_key": "CH0198",
+    "subject_label": "Koyuki",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0198"
+    ],
+    "selected_variant_ids": [
+     "10063",
+     "20056"
+    ],
+    "private_domain_counts": {
+     "BOND": 10,
+     "WHOLE_MOMOTALK": 10,
+     "WRITTEN": 3
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KOYUKI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A135",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-KOYUKI-CH0198",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F005",
+    "family_key": "ARIS",
+    "subject_label": "Alice / `AL-1S` (provisional)",
+    "literal_raw_person_keys": [
+     "BA_PERSON_ARIS"
+    ],
+    "selected_variant_ids": [
+     "10015",
+     "10066",
+     "10134"
+    ],
+    "private_domain_counts": {
+     "BOND": 15,
+     "WHOLE_MOMOTALK": 15,
+     "WRITTEN": 7
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_ALICE_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A065",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-ALICE-ARIS-BOUNDED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F116",
+    "family_key": "MIDORI",
+    "subject_label": "Midori",
+    "literal_raw_person_keys": [
+     "BA_PERSON_MIDORI"
+    ],
+    "selected_variant_ids": [
+     "10016",
+     "10095"
+    ],
+    "private_domain_counts": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 3
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MIDORI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A064",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-MIDORI",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F121",
+    "family_key": "MOMOI",
+    "subject_label": "Momoi",
+    "literal_raw_person_keys": [
+     "BA_PERSON_MOMOI"
+    ],
+    "selected_variant_ids": [
+     "10094",
+     "13011"
+    ],
+    "private_domain_counts": {
+     "BOND": 8,
+     "WHOLE_MOMOTALK": 8,
+     "WRITTEN": 3
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_MOMOI_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A063",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-MOMOI",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F147",
+    "family_key": "YUZU",
+    "subject_label": "Yuzu",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0336",
+     "BA_PERSON_YUZU"
+    ],
+    "selected_variant_ids": [
+     "10018",
+     "20055",
+     "26009"
+    ],
+    "private_domain_counts": {
+     "BOND": 14,
+     "WHOLE_MOMOTALK": 14,
+     "WRITTEN": 7
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_YUZU_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": "P3-A067",
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-YUZU-TWO-KEY-BOUNDED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   },
+   {
+    "candidate_unit_id": "P3-F106",
+    "family_key": "KEI_SEPARATE19",
+    "subject_label": "ケイ|天童ケイ",
+    "literal_raw_person_keys": [
+     "BA_PERSON_CH0335",
+     "BA_PERSON_CHAR_101350001"
+    ],
+    "selected_variant_ids": [
+     "10135",
+     "101350001"
+    ],
+    "private_domain_counts": {
+     "BOND": 6,
+     "WHOLE_MOMOTALK": 6,
+     "WRITTEN": 7
+    },
+    "complete_normal_owner": "series/blue-archive/02 Sequential Readings/BOND/BLUE_ARCHIVE_KEI_PHASE2_PRIVATE_AND_SPECIAL_IDENTITY_CONTEXTUAL_ACCOUNT_20261008.md",
+    "related_dated_duty": null,
+    "decision": "ELIGIBLE_CHARACTER_MONOGRAPH_PROPOSED",
+    "target_package_key": "P3-CHAR-KEI-TWO-KEY-BOUNDED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section3",
+    "counting_limit": "Retrieval responsibility/package question, not person total or completed monograph; preserve literal key scopes",
+    "mandatory_debt": "Full located monograph, necessary accepted comparative joins, contrary outcomes, ROOT identity/allocation/adoption/integration",
+    "no_exclusion_basis": [
+     "stakes",
+     "popularity",
+     "MAIN_frequency",
+     "model_grade",
+     "absence_of_conventional_private_pool"
+    ]
+   }
+  ],
+  "new_noncharacter_and_actor_headers": [
+   {
+    "candidate_unit_id": "P3-XMI-I004",
+    "kind": "INSTITUTION",
+    "subject": "C&C: enjoyed service, procedural commitment and chosen occupation",
+    "decision": "ELIGIBLE_INSTITUTION_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-I005",
+    "kind": "INSTITUTION",
+    "subject": "Engineering Club: pleasurable invention and recipient responsibility",
+    "decision": "ELIGIBLE_INSTITUTION_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-I006",
+    "kind": "INSTITUTION",
+    "subject": "Game Development: home, chosen participation and distributed making",
+    "decision": "ELIGIBLE_INSTITUTION_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-I007",
+    "kind": "INSTITUTION",
+    "subject": "Seminar: finite resources, selective standards and information burdens",
+    "decision": "ELIGIBLE_INSTITUTION_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R003",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Toki ↔ Game Development: chosen affiliation and responsibility",
+    "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R004",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Momoi ↔ Midori: generosity, imitation, confidence and rivalry",
+    "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R005",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Noa ↔ Yuuka: affection, dependence and selective disclosure",
+    "decision": "ELIGIBLE_DIRECTED_RELATIONSHIP_PACKAGE_PROPOSED",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section4",
+    "counting_limit": "ROOT must adjudicate distinct argument and existing-target overlap before denominator adoption"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R006",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Kei ↔ Game Development labor/critique",
+    "decision": "PENDING_DISTINCT_PACKAGE_ALLOCATION",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R007",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Yuuka ↔ C&C fiscal/occupation conversion",
+    "decision": "PENDING_DISTINCT_PACKAGE_ALLOCATION",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-R008",
+    "kind": "DIRECTED_RELATIONSHIP",
+    "subject": "Akane ↔ Neru appearance/boundary negotiation",
+    "decision": "PENDING_DISTINCT_PACKAGE_SUFFICIENCY",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-I008",
+    "kind": "INSTITUTION",
+    "subject": "Art access, ownership claims and aesthetic gatekeeping",
+    "decision": "PENDING_COMPLETE_RELATED_OWNER_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-N001",
+    "kind": "NAMED_SOURCE_LOCAL_ACTOR",
+    "subject": "Akira / 清澄アキラ, EVENT825",
+    "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-N002",
+    "kind": "NAMED_SOURCE_LOCAL_ACTOR",
+    "subject": "Doda Meitaro, EVENT825",
+    "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-L003",
+    "kind": "LOCAL_ROLE_COHORT",
+    "subject": "EVENT825 gamers, bounded local identities",
+    "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-L004",
+    "kind": "LOCAL_ROLE_COHORT",
+    "subject": "EVENT825 guests and chef, bounded local identities",
+    "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-L005",
+    "kind": "LOCAL_ROLE_COHORT",
+    "subject": "EVENT825 security roles, bounded local identities",
+    "decision": "PENDING_FULL_CAST_SEMANTIC_ELIGIBILITY_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   },
+   {
+    "candidate_unit_id": "P3-XMI-S003",
+    "kind": "SOURCE_OUTPUT_ROLE",
+    "subject": "GROUP3103 future observation device / 讖",
+    "decision": "PENDING_AGENCY_AND_INDEPENDENT_PACKAGE_REVIEW",
+    "root_adoption": "PENDING",
+    "mandatory_debt": "Preserve actual bounded role coverage; inspect full positive related owners and identity/argument before monograph or independent-package verdict",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md sections4-5",
+    "counting_limit": "No new person count, global identity join or package denominator entry"
+   }
+  ],
+  "existing_local_role_allocations": [
+   {
+    "candidate_unit_id": "P3-A357",
+    "subject": "C&C campus student A (GROUP1201, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I004",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A358",
+    "subject": "C&C campus student B (GROUP1201, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I004",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A378",
+    "subject": "Engineering pizza courier (GROUP1401–1403, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I005",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A379",
+    "subject": "Engineering campus student (GROUP1401–1403, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I005",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A380",
+    "subject": "Engineering Helmet member A (GROUP1401–1403, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I005",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A381",
+    "subject": "Engineering Helmet member B (GROUP1401–1403, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I005",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A407",
+    "subject": "Arcade opponent (GROUP2502, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I006",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A408",
+    "subject": "Arcade defeated player (GROUP2502, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I006",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A409",
+    "subject": "Arcade fan A (GROUP2502, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I006",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A410",
+    "subject": "Arcade fan B (GROUP2502, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I006",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A411",
+    "subject": "Arcade fan C (GROUP2502, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I006",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   },
+   {
+    "candidate_unit_id": "P3-A417",
+    "subject": "New Material club member (GROUP3101, local role)",
+    "proposed_required_bounded_role_home": "P3-XMI-I007",
+    "decision": "ROLE_COVERAGE_REQUIRED; INDEPENDENT_MONOGRAPH_REVIEW_PENDING",
+    "identity_limit": "Source-local empty joins preserved; no global merge",
+    "root_adoption": "PENDING",
+    "substantive_argument_route": "BLUE_ARCHIVE_PHASE3_MILLENNIUM_ELIGIBILITY_REVIEW_V2.md section5"
+   }
+  ],
+  "complete_owner_roster_proposals": [
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1201_1203_DEEP_READING.md",
+    "argument_scope": "COMPLETE_THROUGH_EOF_WITH_DECLARED_RECOVERY",
+    "root_adoption": "PENDING",
+    "remaining105_rosters_not_certified": true
+   },
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_1401_1403_DEEP_READING.md",
+    "argument_scope": "COMPLETE_THROUGH_EOF_WITH_DECLARED_RECOVERY",
+    "root_adoption": "PENDING",
+    "remaining105_rosters_not_certified": true
+   },
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_2501_2502_DEEP_READING.md",
+    "argument_scope": "COMPLETE_THROUGH_EOF_WITH_DECLARED_RECOVERY",
+    "root_adoption": "PENDING",
+    "remaining105_rosters_not_certified": true
+   },
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/GROUP/BLUE_ARCHIVE_GROUP_3101_3103_DEEP_READING.md",
+    "argument_scope": "COMPLETE_THROUGH_EOF_WITH_DECLARED_RECOVERY",
+    "root_adoption": "PENDING",
+    "remaining105_rosters_not_certified": true
+   },
+   {
+    "owner": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_825/BLUE_ARCHIVE_EVENT_825_CONTEXTUALIZATION_CHECKPOINT.md",
+    "argument_scope": "COMPLETE_THROUGH_EOF_WITH_DECLARED_RECOVERY",
+    "root_adoption": "PENDING",
+    "remaining105_rosters_not_certified": true
+   }
+  ],
+  "preserved_opening_obligations": [
+   "Yuuka",
+   "Asuna",
+   "Toki",
+   "Karin"
+  ],
+  "main_special_coordination": {
+   "P3-M018": "Proposed same P3-CHAR-KEI-TWO-KEY-BOUNDED specialist question; literal historical/main/software/current-profile scopes separate; ROOT final allocation",
+   "Alice_to_Key_Kei": "Distinct Main/special relationship question, not separately adopted or counted here"
+  },
+  "scope_limit": "13 responsibility verdict proposals, not complete Millennium or full cast; all unreviewed duties remain mandatory pending",
+  "package_denominator": null,
+  "milestone_percentage": null,
+  "source_credit_added": 0,
+  "repository_writes": 0,
+  "global_registry_writes": 0,
+  "publication": false
+ }
+}

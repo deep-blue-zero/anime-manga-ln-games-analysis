@@ -1,0 +1,3022 @@
+{
+  "schema": "ROOT_SEMINAR_CURRENT_V5_COMPLETE32_NEW105_SOURCE10_ACTUAL_MANUAL_ADOPTION_V1",
+  "UTC": "2026-10-14T00:50:57.186530+00:00",
+  "reviewer": "/root",
+  "existing_required_home": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+  "responsibility": "P3-XMI-I007",
+  "named_duty_credit": 0,
+  "decision": "ADOPT_COMPLETE_CURRENT_WRITTEN_INSTITUTION_ARGUMENT_WITH_LIMITS_FOR_SEPARATE_PUBLIC_COMPOSITION_REVIEW_INSTALLATION_AND_PUBLICATION",
+  "source_observed_receiving_basis": "3d8730b7247a2b04f2eade10806e81d166e764db",
+  "main_last_verified_basis": "6e139d9bb82fc9d07c16bbefd2b3f15211a691cb",
+  "manifest": {
+    "bytes": 20694,
+    "sha256": "b4b3ad1c2a2fe79c64f330c03d34fd4ecaec428e37be3e293dd4a7c46d78ea9b",
+    "git_blob_oid_of_actual_bytes": "37092910753c6509feef5f87edd1730a6cf92563"
+  },
+  "complete_exact8_current_author_components": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 34184,
+      "sha256": "04b18aa48df7c22e0979b9d79027dca8bc6e58b698335b406f6fa152db603cb6",
+      "git_blob_oid_of_actual_bytes": "81707629a723710bef46f60a1cfe694ca2ec1e80",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-00"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "bytes": 386938,
+      "sha256": "5e0e58c8c96dfb1978dfc999aaba7d7d6d55f016cd52d3b4550d34aa5f33cb06",
+      "git_blob_oid_of_actual_bytes": "c0846a36ed349ff9bef4effa4a300fdb7a959c75",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-01"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "bytes": 520895,
+      "sha256": "1afc545fb0f333d4dccd359986df7671561fee3858db93e9144af262b9409673",
+      "git_blob_oid_of_actual_bytes": "edb82a1602fa9d273f6326582db773a0b68c5bb6",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-02"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "bytes": 677091,
+      "sha256": "f4da88f6a3445057c353ec56f722367c4f98b3719572bf871324e02d7a64776e",
+      "git_blob_oid_of_actual_bytes": "a413a114e3c067d77233f98335a5363e24b94c22",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-03"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "bytes": 69574,
+      "sha256": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b",
+      "git_blob_oid_of_actual_bytes": "7236775aee1a8f59144b0aa38133531251a37152",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 399747,
+      "sha256": "0d36ecf66229b9418486c585a03b275629111c509473ec62af85180c2b29e38a",
+      "git_blob_oid_of_actual_bytes": "1a579a1ac2ddf04102f4bb4cf5287ef40be60cc6",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-05"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 455876,
+      "sha256": "273817296a13e0b9c08ffd3c1147b94176ea01eb82937a189eb2618bd39538f0",
+      "git_blob_oid_of_actual_bytes": "67bd10859a06797766adc2301e98a03d4335c0a7",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-06"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_SAVED_OUTPUT_AND_CONDITIONAL_TRANSPORT_RECEIPT_V1.json",
+      "bytes": 10830,
+      "sha256": "3713af89674495ce92c3c18116ec204ba5ed9d52bec05c1455b02f67506f5880",
+      "git_blob_oid_of_actual_bytes": "44367ab80a112ce490645a115c2e4ed7aee2950f",
+      "candidate_relative_path": "private-witness:SEMINAR-ROOT-AUTHOR-CANDIDATE-07"
+    }
+  ],
+  "whole231_body_personal_receiving": "099c2b earlier whole saved body; all32 complete current paragraphs personally received again at exact current34184/04b18... in four unclipped join batches; no new whole underlying source credit",
+  "all32_ROOT_manual_argument_decisions": [
+    {
+      "claim_id": "SEM001",
+      "body_line": 27,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC08"
+      ],
+      "exact_locators": "G31L90–140;YuukaL89–109;NoaL67–75;E842L87–121",
+      "finite_claim_limit": "Situated institutional inference; no complete charter, financial audit or all-school prevalence.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Different criteria for load, novelty, funding, information and availability form a supported recipient-specific thesis. No complete charter or audited accounts follow.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM002",
+      "body_line": 29,
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04"
+      ],
+      "exact_locators": "YuukaL31–39/L111–169;NoaL33–37/L55–89;KoyukiL35–79/L85–101",
+      "finite_claim_limit": "No uniform preference, romance, clinical model or institutional mind.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Yuuka calculation and revision, Noa recording and chosen privacy, Koyuki play and unwanted repetition retain separate positive lives and objections. No uniform council mind follows.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM003",
+      "body_line": 31,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC04",
+        "SC08"
+      ],
+      "exact_locators": "G31L122–140;YuukaL133–137;KoyukiL61–79/L129–149;E842L93–121",
+      "finite_claim_limit": "Positive finite literary ends, not all-method consent or completed reform.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Actual build, corroborated computation, accepted gift and local apology have finite positive force without proving a predictor, indefinite availability or every method legitimate.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM004",
+      "body_line": 37,
+      "source_ids": [
+        "SC01",
+        "SC04"
+      ],
+      "exact_locators": "G31L42/L90;3101u0002–0008;KoyukiL71",
+      "finite_claim_limit": "Local institution/role supported; complete legal constitution not supplied.",
+      "current_comparative_purpose_ids": [
+        "SP021"
+      ],
+      "own_ROOT_semantic_judgment": "Local council self-reference and quarterly procedure establish this institutional context; Koyuki affiliation is written despite a technical Club: None field. Neither repairs the registry or grants unrestricted power.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM005",
+      "body_line": 41,
+      "source_ids": [
+        "SC01",
+        "SC02"
+      ],
+      "exact_locators": "G31L92–97;3101u0009–0063;YuukaL93–103",
+      "finite_claim_limit": "Proposals/rejections, no tested material, fired invention or operating game economy.",
+      "current_comparative_purpose_ids": [
+        "SP003",
+        "SP010",
+        "SP012",
+        "SP015",
+        "SP021",
+        "SP035",
+        "SP040",
+        "SP043",
+        "SP061",
+        "SP079",
+        "SP089",
+        "SP093",
+        "SP096",
+        "SP103"
+      ],
+      "own_ROOT_semantic_judgment": "The local member's pain-reduction aim, Akane's individual proposal and Momoi's leisure-income desire matter alongside different load, novelty and payer objections. Proposal and premature dismissal are not implemented machines.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM006",
+      "body_line": 45,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03"
+      ],
+      "exact_locators": "G31L96–112;3101u0048–0079;3102u0012–0034;NoaL69–73",
+      "finite_claim_limit": "Evaluative inference, no universal lawful/unlawful council verdict.",
+      "current_comparative_purpose_ids": [
+        "SP011",
+        "SP021",
+        "SP029",
+        "SP041",
+        "SP047",
+        "SP063",
+        "SP080",
+        "SP081",
+        "SP083",
+        "SP084",
+        "SP093",
+        "SP094",
+        "SP097",
+        "SP104"
+      ],
+      "own_ROOT_semantic_judgment": "Noa defends possible research value and Yuuka distinguishes immediate finite funding. Uneven hearing and prestige support claim-specific legitimacy criticism without proving every decision unlawful.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM007",
+      "body_line": 49,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03"
+      ],
+      "exact_locators": "G31L112–140;3102u0022–0050;3103u0078–0079;YuukaL99–103",
+      "finite_claim_limit": "Current Yuuka report erratum operative; no misappropriation, audited return or investment model.",
+      "current_comparative_purpose_ids": [
+        "SP008",
+        "SP010",
+        "SP012",
+        "SP020",
+        "SP021",
+        "SP025",
+        "SP036",
+        "SP037",
+        "SP042",
+        "SP043",
+        "SP062",
+        "SP064",
+        "SP068",
+        "SP070",
+        "SP073",
+        "SP077",
+        "SP078",
+        "SP082",
+        "SP090",
+        "SP091",
+        "SP092",
+        "SP094",
+        "SP100",
+        "SP101",
+        "SP102",
+        "SP104"
+      ],
+      "own_ROOT_semantic_judgment": "Noa's recognition/funding reports, Yuuka's payer proposal, narrated personal expense and apparently favorable titanium coda are separate evidentiary acts. No treasury theft or calibrated investment result is supplied.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM008",
+      "body_line": 53,
+      "source_ids": [
+        "SC06",
+        "SC07",
+        "SC10"
+      ],
+      "exact_locators": "FinalC2E004L26–32;C2E017L20–24;C4E005L24–28;u0036–0066",
+      "finite_claim_limit": "No military charter, sole causation, completed rescue or universal authority over other teams.",
+      "current_comparative_purpose_ids": [
+        "SP017",
+        "SP046",
+        "SP048",
+        "SP056",
+        "SP057",
+        "SP065",
+        "SP066",
+        "SP068",
+        "SP071",
+        "SP075",
+        "SP081",
+        "SP087",
+        "SP095",
+        "SP098"
+      ],
+      "own_ROOT_semantic_judgment": "Recall, cipher work, C&C arrival and Hot Spring excavation demonstrate distributed practical capacity. Arrival and begun clearing do not complete evacuation or establish a Seminar military charter.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "2edfa6"
+    },
+    {
+      "claim_id": "SEM009",
+      "body_line": 57,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC09"
+      ],
+      "exact_locators": "G31L108–116;YuukaL53–63/L195;NoaL95;FinalC3E006L22/u0014–0047",
+      "finite_claim_limit": "No shared institutional mind, authenticated hidden intent or completed Rio financial audit.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Budget objections, different ship-risk rankings and Rio financial accusations remain disagreements under uncertainty. Later cooperation does not finish accounting or prove surveillance.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM010",
+      "body_line": 61,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC05",
+        "SC08"
+      ],
+      "exact_locators": "G31L90/L104;NoaYuukaL50;E842L89–97/E003u0005–0046/E005u0014–0024",
+      "finite_claim_limit": "Actual ritual/gift, not universal permission or complete official/private separation.",
+      "current_comparative_purpose_ids": [
+        "SP002",
+        "SP007",
+        "SP013",
+        "SP027",
+        "SP028",
+        "SP030",
+        "SP038",
+        "SP051",
+        "SP060",
+        "SP061",
+        "SP076",
+        "SP077",
+        "SP079",
+        "SP085",
+        "SP086"
+      ],
+      "own_ROOT_semantic_judgment": "Quarterly routine and chosen pajamas, cards, snacks and company coexist with possessions boundaries. A private party-record choice is not waiver of every later permission.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM011",
+      "body_line": 65,
+      "source_ids": [
+        "SC02",
+        "SC04",
+        "SC06",
+        "SC07"
+      ],
+      "exact_locators": "YuukaL47–49/L93;KoyukiL61–79;FinalC2E004s2u0002–0045;C2E017s1u0001–0018",
+      "finite_claim_limit": "No full custody legitimacy, exclusive capability, permanent club recognition or all-member assent.",
+      "current_comparative_purpose_ids": [
+        "SP002",
+        "SP011",
+        "SP014",
+        "SP015",
+        "SP019",
+        "SP024",
+        "SP029",
+        "SP030",
+        "SP033",
+        "SP034",
+        "SP036",
+        "SP041",
+        "SP047",
+        "SP049",
+        "SP053",
+        "SP056",
+        "SP066",
+        "SP069",
+        "SP080",
+        "SP084",
+        "SP087",
+        "SP097",
+        "SP098",
+        "SP102"
+      ],
+      "own_ROOT_semantic_judgment": "Making confinement livable and choosing between constrained alternatives do not establish initial consent. Cipher usefulness and Alice's checked willingness cannot finish lawful custody or permanent club recognition.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM012",
+      "body_line": 69,
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC05",
+        "SC08"
+      ],
+      "exact_locators": "YuukaL47/L163–183;NoaL101–105/L121–127;E842L105–121;E012u0001–0004",
+      "finite_claim_limit": "No global reconciliation, completed compensation or durable harmlessness.",
+      "current_comparative_purpose_ids": [
+        "SP052",
+        "SP059"
+      ],
+      "own_ROOT_semantic_judgment": "Yuuka's game revision and Noa's specific apologies supply recipient-specific repair. Continuing work and privacy objections prevent a global restoration verdict.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM013",
+      "body_line": 73,
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC08"
+      ],
+      "exact_locators": "YuukaL133/L157–169;NoaL109–117;KoyukiL121–129;E842L107–109/E010u0072–0088",
+      "finite_claim_limit": "No completed annual submission, universal assent, unrestricted adult discretion or romantic agreement.",
+      "current_comparative_purpose_ids": [
+        "SP006",
+        "SP008",
+        "SP026",
+        "SP037",
+        "SP054",
+        "SP055",
+        "SP058",
+        "SP063",
+        "SP064",
+        "SP067",
+        "SP074",
+        "SP078",
+        "SP086",
+        "SP088",
+        "SP090",
+        "SP099",
+        "SP101",
+        "SP102"
+      ],
+      "own_ROOT_semantic_judgment": "Backlog objection, conditional shared work, actual replacement labor and unwanted filing allocate adult/student burdens materially. Current ongoing filing is neither completed submission nor inspected compensation.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM014",
+      "body_line": 77,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC06",
+        "SC08"
+      ],
+      "exact_locators": "G31L92–104/L152–154;YuukaL89/L189–199;FinalC2E004L24–38;E842L89–121",
+      "finite_claim_limit": "Source-local roles and reported/actual acts; no complete treaty, wages, contracts or reciprocal all-context trust.",
+      "current_comparative_purpose_ids": [
+        "SP001",
+        "SP004",
+        "SP031",
+        "SP039",
+        "SP040",
+        "SP065",
+        "SP068",
+        "SP069",
+        "SP071",
+        "SP087"
+      ],
+      "own_ROOT_semantic_judgment": "Applicants, C&C service recipients and Veritas correction retain independent agency. Reported revenue, corrected false data and coalition contribution do not establish universal assent or a foreign policy.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM015",
+      "body_line": 81,
+      "source_ids": [
+        "SC03",
+        "SC04",
+        "SC07",
+        "SC08"
+      ],
+      "exact_locators": "NoaL55–59/L109–111;KoyukiL67/L125;FinalC2E017L20;E842L117–119/E014u0058–0086",
+      "finite_claim_limit": "No opposite-of-refusal reading, uniform consent, diagnosis or unlimited sanction.",
+      "current_comparative_purpose_ids": [
+        "SP003",
+        "SP006",
+        "SP014",
+        "SP017",
+        "SP023",
+        "SP025",
+        "SP032",
+        "SP034",
+        "SP045",
+        "SP046",
+        "SP047",
+        "SP048",
+        "SP051",
+        "SP052",
+        "SP053",
+        "SP056",
+        "SP057",
+        "SP060",
+        "SP070",
+        "SP073",
+        "SP074",
+        "SP076",
+        "SP083",
+        "SP084",
+        "SP086",
+        "SP087",
+        "SP089",
+        "SP090",
+        "SP091",
+        "SP094",
+        "SP095",
+        "SP098",
+        "SP099",
+        "SP100",
+        "SP101",
+        "SP102"
+      ],
+      "own_ROOT_semantic_judgment": "Koyuki's further-duty objection, Yuuka's public nonanswer and another recipient's request to stop observation retain different boundaries. Wrongdoing and initial play do not nullify later refusal.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM016",
+      "body_line": 85,
+      "source_ids": [
+        "SC01",
+        "SC03",
+        "SC05"
+      ],
+      "exact_locators": "G31L48–54/L122–134;NoaL35/L55–67/L81–89;NoaYuukaL70–78",
+      "finite_claim_limit": "No omniscience, certain deception from outset, received inward speech or total memory certification.",
+      "current_comparative_purpose_ids": [
+        "SP004",
+        "SP010",
+        "SP018",
+        "SP021",
+        "SP022",
+        "SP035",
+        "SP044",
+        "SP050",
+        "SP072",
+        "SP085",
+        "SP094",
+        "SP096",
+        "SP101",
+        "SP103"
+      ],
+      "own_ROOT_semantic_judgment": "Noa's diary, reticent poetry, useful construction and qualified suspicion distinguish information work and audiences. The reader-only Himari-Chihiro conversation is not a received warning.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "1bb5ce"
+    },
+    {
+      "claim_id": "SEM017",
+      "body_line": 89,
+      "source_ids": [
+        "SC06",
+        "SC07",
+        "SC09",
+        "SC10"
+      ],
+      "exact_locators": "FinalC2E004L26–32;C2E017L20–24;C3E006L22–28;C4E005L20–28",
+      "finite_claim_limit": "No exclusive talent proof, complete operation, clinical clearance, global foresight or future model validation.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Recall and declared release precede corroborated solving and protest at the next assignment; processor access and rescue arrival have different endpoints. No exclusive talent, code log or prophecy calibration follows.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM018",
+      "body_line": 93,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC08"
+      ],
+      "exact_locators": "G31L90–140;YuukaL97–109/L159–169;NoaL67–75;KoyukiL73–79;E842L109–121",
+      "finite_claim_limit": "Institutional interpretation with source-specific counterevidence; no whole-school essence, finished reform or model readiness.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Utility, neutrality and supervision are evaluated against uneven hearing and actual build, delight and labor. Capacity and care stay positive without supplying missing recipient permissions.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM019",
+      "body_line": 99,
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04"
+      ],
+      "exact_locators": "YuukaL115–137;NoaL61–91;KoyukiL85–101",
+      "finite_claim_limit": "Do not universalize tastes or turn preferences into institutional charter.",
+      "current_comparative_purpose_ids": [
+        "SP000",
+        "SP001",
+        "SP005",
+        "SP007",
+        "SP009",
+        "SP012",
+        "SP013",
+        "SP015",
+        "SP016",
+        "SP019",
+        "SP020",
+        "SP022",
+        "SP023",
+        "SP024",
+        "SP026",
+        "SP027",
+        "SP028",
+        "SP031",
+        "SP032",
+        "SP035",
+        "SP037",
+        "SP038",
+        "SP039",
+        "SP040",
+        "SP041",
+        "SP042",
+        "SP043",
+        "SP044",
+        "SP049",
+        "SP050",
+        "SP054",
+        "SP055",
+        "SP058",
+        "SP059",
+        "SP061",
+        "SP062",
+        "SP064",
+        "SP066",
+        "SP067",
+        "SP069",
+        "SP070",
+        "SP071",
+        "SP072",
+        "SP073",
+        "SP075",
+        "SP077",
+        "SP078",
+        "SP079",
+        "SP080",
+        "SP081",
+        "SP082",
+        "SP085",
+        "SP088",
+        "SP089",
+        "SP091",
+        "SP092",
+        "SP093",
+        "SP095",
+        "SP096",
+        "SP097",
+        "SP098",
+        "SP099",
+        "SP100",
+        "SP103",
+        "SP104"
+      ],
+      "own_ROOT_semantic_judgment": "Mathematics, poetry, plain tastes, clothing, clover, games and company remain intrinsic ordinary ends. Coffee dislike and unwanted labor prevent invariant pleasure or productivity-only readings.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM020",
+      "body_line": 103,
+      "source_ids": [
+        "SC01"
+      ],
+      "exact_locators": "G31L66/L92/L154;3101u0009–0024;existingI007/A417censusroute",
+      "finite_claim_limit": "Bounded anonymous role, no new cast person or authenticated material science.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "The existing A417 local human role has an articulated reduced-pain aspiration and admitted load uncertainty. It remains unjoined and adds no global person or biomedical result.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM021",
+      "body_line": 107,
+      "source_ids": [
+        "SC01"
+      ],
+      "exact_locators": "G31L67/L124–140;3103u0014–0040/u0041–0079",
+      "finite_claim_limit": "No sentience, universal forecasting, object transfer reconstruction or causal financial assay.",
+      "current_comparative_purpose_ids": [
+        "SP021"
+      ],
+      "own_ROOT_semantic_judgment": "The device's birth-date horoscope and lucky titanium differ from requested prices. Tentative toy explanation and apparently favorable trade do not prove sentience, calibration or Alice/Key/Kei continuity.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM022",
+      "body_line": 111,
+      "source_ids": [
+        "SC03",
+        "SC04",
+        "SC05",
+        "SC08"
+      ],
+      "exact_locators": "NoaL103/L123–127;KoyukiL149;NoaYuukaL82–98;E842L113–121",
+      "finite_claim_limit": "No clinical injury claim, complete creator-guilt verdict or presumed confession.",
+      "current_comparative_purpose_ids": [
+        "SP000",
+        "SP005",
+        "SP016",
+        "SP018",
+        "SP027",
+        "SP033",
+        "SP038",
+        "SP044",
+        "SP045",
+        "SP050",
+        "SP051",
+        "SP055",
+        "SP072",
+        "SP086",
+        "SP096",
+        "SP104"
+      ],
+      "own_ROOT_semantic_judgment": "Recorder confiscation and the later drink-or-disclose game concern different actions and audiences. Actual withholding and unequal drinking are finite costs without toxicology or a presumed confession.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM023",
+      "body_line": 115,
+      "source_ids": [
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC08"
+      ],
+      "exact_locators": "YuukaL133–137/L159–163;NoaL87–89/L115–117;KoyukiL65/L101/L129;E842L109",
+      "finite_claim_limit": "No clinical efficacy, permanent recovery, complete fair compensation or unlimited caregiving.",
+      "current_comparative_purpose_ids": [
+        "SP009",
+        "SP014",
+        "SP025",
+        "SP026",
+        "SP031",
+        "SP032",
+        "SP036",
+        "SP039",
+        "SP042",
+        "SP061",
+        "SP062",
+        "SP065",
+        "SP070",
+        "SP074",
+        "SP075",
+        "SP076",
+        "SP082",
+        "SP086",
+        "SP088",
+        "SP092",
+        "SP095",
+        "SP100"
+      ],
+      "own_ROOT_semantic_judgment": "Yuuka's nap has actual replacement work; Noa's particular meal/reading and Koyuki's few games/sleep have separate recipients. No permanent recovery, unlimited availability or settled accounts follow.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM024",
+      "body_line": 119,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC05",
+        "SC06",
+        "SC07",
+        "SC08",
+        "SC09",
+        "SC10"
+      ],
+      "exact_locators": "G31L46–54;YuukaL41–69;NoaL41–51;KoyukiL43–55;E842L77/124–126;fourFinalepisodeboundaries",
+      "finite_claim_limit": "No global chronology, variant growth ladder, new voice/raw repair or prospective validation.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Group sequence, party with revisiting afterstories and four Final episodes preserve local order. They do not establish a worldwide variant/private/event calendar or completed stronger outcomes.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "6da377"
+    },
+    {
+      "claim_id": "SEM025",
+      "body_line": 125,
+      "source_ids": [
+        "SC01",
+        "SC02"
+      ],
+      "exact_locators": "G31L92–116;YuukaL97–103",
+      "finite_claim_limit": "No all-decisions corruption or universal evidence-led rule.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Rational allocation is seriously supported by useful tests, then limited by premature dismissal and prestige exception. The remainder is situated scrutiny, not unlimited funding or universal corruption.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM026",
+      "body_line": 129,
+      "source_ids": [
+        "SC01",
+        "SC02"
+      ],
+      "exact_locators": "G31L112–140;YuukaL53–63/L99–109",
+      "finite_claim_limit": "No complete legal/provenance/accounting findings.",
+      "current_comparative_purpose_ids": [
+        "SP008"
+      ],
+      "own_ROOT_semantic_judgment": "Private financial desire is relevant but personal cost, shared making, gratitude and hedged favorable coda constrain a total-greed or theft reading. Rio accusations remain unaudited.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM027",
+      "body_line": 133,
+      "source_ids": [
+        "SC02",
+        "SC04",
+        "SC08"
+      ],
+      "exact_locators": "YuukaL133/L163–169;KoyukiL77/L129–149;E842L89–121",
+      "finite_claim_limit": "No universal legitimacy or all-care fraud.",
+      "current_comparative_purpose_ids": [
+        "SP001",
+        "SP002",
+        "SP003",
+        "SP006",
+        "SP007",
+        "SP009",
+        "SP017",
+        "SP022",
+        "SP024",
+        "SP028",
+        "SP030",
+        "SP033",
+        "SP034",
+        "SP054",
+        "SP057",
+        "SP063",
+        "SP067",
+        "SP083",
+        "SP088"
+      ],
+      "own_ROOT_semantic_judgment": "Real care has fitting gifts, games and replacement labor; confinement, costly withholding and unfinished imposed filing prevent blanket legitimacy. Benefits and objections retain particular recipients.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM028",
+      "body_line": 137,
+      "source_ids": [
+        "SC01",
+        "SC03",
+        "SC09"
+      ],
+      "exact_locators": "G31L104/L134;NoaL55–75/L101/L111;FinalC3E006L22",
+      "finite_claim_limit": "No omniscient manipulation, universal dishonesty or memory assay.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Competence and indispensable help do not establish transparent total knowledge. Qualified suspicion, diary choices, refused termination and acknowledged experience limits answer the neutrality rival.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM029",
+      "body_line": 141,
+      "source_ids": [
+        "SC04",
+        "SC06",
+        "SC07"
+      ],
+      "exact_locators": "KoyukiL59–79/L105/L189;FinalC2E004L32;C2E017L20",
+      "finite_claim_limit": "No exclusive skill proof, all-refusal vindication or legitimate-custody certificate.",
+      "current_comparative_purpose_ids": [
+        "SP023",
+        "SP029"
+      ],
+      "own_ROOT_semantic_judgment": "Concrete reliance on Koyuki follows bottleneck and solving; disliked repetitive work and disputed further battle constrain indefinite availability. Neither universal exemption nor universal coercion is inferred.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM030",
+      "body_line": 145,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC05",
+        "SC08"
+      ],
+      "exact_locators": "G31L134–140;YuukaL189;NoaYuukaL136–167;E842L109–121",
+      "finite_claim_limit": "No permanent rupture or total restoration inferred.",
+      "current_comparative_purpose_ids": [
+        "SP004",
+        "SP011",
+        "SP016",
+        "SP019",
+        "SP045",
+        "SP048",
+        "SP049",
+        "SP052",
+        "SP053",
+        "SP058",
+        "SP059",
+        "SP060"
+      ],
+      "own_ROOT_semantic_judgment": "Continued making, games, cleanup, sleep and greetings have positive content while rumor, nonwarning and unfinished work remain. Local apology cannot complete global repair.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM031",
+      "body_line": 149,
+      "source_ids": [
+        "SC02",
+        "SC04",
+        "SC06",
+        "SC07",
+        "SC09",
+        "SC10"
+      ],
+      "exact_locators": "YuukaL47–69/L241;KoyukiL73–79;fourFinalepisodes",
+      "finite_claim_limit": "No universal stage model or synchronized private/event timeline.",
+      "current_comparative_purpose_ids": [],
+      "own_ROOT_semantic_judgment": "Club inquiry, reprieve and aid are real local improvements; separate countercases and unsettled duties prevent a completed ethical development ladder or imposed chronology.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    },
+    {
+      "claim_id": "SEM032",
+      "body_line": 153,
+      "source_ids": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC04",
+        "SC08"
+      ],
+      "exact_locators": "G31L92–140;YuukaL245;NoaL149–155;KoyukiL181–191;E842L115–129",
+      "finite_claim_limit": "No real-world clinical/legal extrapolation or stakes filter.",
+      "current_comparative_purpose_ids": [
+        "SP000",
+        "SP005",
+        "SP013",
+        "SP018",
+        "SP020",
+        "SP046",
+        "SP103"
+      ],
+      "own_ROOT_semantic_judgment": "Humor accompanies actual familiar pleasure, rejected aspirations and recipient costs. False weight, disliked drink and favorable titanium create no bodily measurement, diagnosis or model validation.",
+      "decision": "ADOPT_CURRENT_WRITTEN_ARGUMENT_WITH_LIMITS",
+      "actual_personal_receiving_tool": "0f5298"
+    }
+  ],
+  "all105_actual_new_target_meaning_adoptions": [
+    {
+      "owner_id": "O000",
+      "purpose_id": "SP000",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a meal recipient's preference test a council that defines value through utility?",
+        "own_new_Seminar_positive_connected_meaning": "Specific aromas, company and differing mint tastes make recipient fit a positive end before utility is decided; Hare's classifier cannot choose another person's pleasure.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Overridden warning and volunteered kitchen work followed by disorder oppose treating enthusiasm as every cook's permission or a repaired meal.",
+        "own_new_Seminar_finite_result": "Keep actual different tastes and disorder beside Seminar's plain food and costly disclosure; no council attendance or common food outcome.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger kitchen-service or safety claim needs the actual recipient, labor agreement and completed meal aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O001",
+      "purpose_id": "SP001",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does C&C service pleasure add to Yuuka's resource oversight without owning the workers?",
+        "own_new_Seminar_positive_connected_meaning": "Asuna's opening and reported earnings give service and delegation positive content; Neru's jacket preference remains an ordinary want.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Neru refuses permanent maid work; revenue report does not license indefinite labor or authenticate every account.",
+        "own_new_Seminar_finite_result": "Compare service's specific gains and refusal with Seminar's gift and filing practice; no universal worker assent.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual contract, accounts, duration and each worker's response before claiming legitimate permanent service."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O002",
+      "purpose_id": "SP002",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can a welcoming institutional ritual convert a member's rest or play into compulsory performance?",
+        "own_new_Seminar_positive_connected_meaning": "Nodoka's pudding, telescope and Class227 home are particular goods that administrative belonging can support.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Coerced mascot tickling and restored command do not become consent because performance or relief is funny.",
+        "own_new_Seminar_finite_result": "Keep wanted home and treats with forced administration as a comparison to Koyuki's livable confinement.",
+        "own_new_Seminar_stronger_claim_trigger": "Any stronger discipline justification needs a source-located warrant, alternatives and Nodoka's actual agreement."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O003",
+      "purpose_id": "SP003",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What separates useful technical invention from a recipient's permission to have an object changed?",
+        "own_new_Seminar_positive_connected_meaning": "Engineering's pizza, taste differences and enjoyment of making resemble the positive curiosity Noa defends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Neru's unconsented gun modification, withheld knowledge and distress oppose usefulness as blanket authorization; retaliation does not prove restoration.",
+        "own_new_Seminar_finite_result": "Keep invention pleasure and harmed recipient separately; no council authorship of modification or repaired gun.",
+        "own_new_Seminar_stronger_claim_trigger": "Require requested modification, disclosure, actual restored object and recipient response before a benefit-with-consent claim."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O004",
+      "purpose_id": "SP004",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a data service remain useful when it injures the accountant's standing?",
+        "own_new_Seminar_positive_connected_meaning": "Chihiro's ethical correction and Yuuka's fairness objection support response to a specific record harm.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Unauthorized access, false100kg data and surviving rumor oppose a completed privacy repair; weak password is not permission.",
+        "own_new_Seminar_finite_result": "Direct connected countercase to Seminar memory and cross-club practice, with false weight kept false.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger restored-reputation or secure-system claim requires recipient-visible correction, rumor aftermath and actual security verification."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O005",
+      "purpose_id": "SP005",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can an inspection certify every later food recipient's response?",
+        "own_new_Seminar_positive_connected_meaning": "A passed hygiene inspection and Izumi's pleasure are concrete positives whose scopes need keeping distinct.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Iori's later adverse drink response and F endpoint cannot be converted into chemical proof or universal harmlessness.",
+        "own_new_Seminar_finite_result": "Compare finite inspection with Seminar's local drink assessment; retain different recipient experiences without clinical inference.",
+        "own_new_Seminar_stronger_claim_trigger": "Safety generalization needs ingredients, actual exposure, follow-up and an authorized relevant inspection beyond the written scene."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O006",
+      "purpose_id": "SP006",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can care for a patient differ from power over the patient?",
+        "own_new_Seminar_positive_connected_meaning": "Visits, sociality and particular food attention make care valuable in their own right.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Shooting after surrender, unequal knowledge and an injection only prepared or threatened defeat automatic agreement or completed treatment.",
+        "own_new_Seminar_finite_result": "Medical countercase marks the limit of council supervision analogy; no diagnosis, administered injection or clinic authority transferred.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual patient explanation, consent, treatment endpoint and causal evidence before claiming therapeutic benefit."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O007",
+      "purpose_id": "SP007",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What do unequal sweets and tea responses say about a supposedly shared ritual?",
+        "own_new_Seminar_positive_connected_meaning": "Tsurugi's felt welcome and Hasumi's initial aroma pleasure remain positive even when peers are uneasy.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Compulsory contact and Hasumi's later origin rejection oppose unanimous welcome or a cure through ordinary sociability.",
+        "own_new_Seminar_finite_result": "Keep each recipient's response as a comparison to party familiarity, not JTF membership under Seminar.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger all-participants benefit needs their own response and any lasting endpoint, not one person's welcome."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O008",
+      "purpose_id": "SP008",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does expense processing differ from a performed and approved resource outcome?",
+        "own_new_Seminar_positive_connected_meaning": "Food and work viewed from victims, Ibuki's cocoa and Iroha's particular burdens expose multiple budget recipients.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Deductions and95percent or zero plans remain formal processing, not approved spending, completed remedy or Hina's attack.",
+        "own_new_Seminar_finite_result": "Compare council payer scrutiny with a reported Gehenna expense process; source-local acts stay separate.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual final authorization, payment and affected-worker accounts are needed for a completed financial verdict."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O009",
+      "purpose_id": "SP009",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can a true instruction override a person's chosen rest?",
+        "own_new_Seminar_positive_connected_meaning": "Airi's talk and Kazusa's holiday boundaries preserve valued ordinary company and time.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Natsu's true icicle danger and rescue coexist with spoiled holiday and upset stomach; truth does not confer permission or health assurance.",
+        "own_new_Seminar_finite_result": "Keep rescue and interrupted rest at finite source strength as a counter to institution-wide benevolent-care claims.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger consent or lasting recovery conclusion needs Kazusa's explicit response and relevant aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O010",
+      "purpose_id": "SP010",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What counts as an informed approval when important work history is omitted?",
+        "own_new_Seminar_positive_connected_meaning": "Nonomi's picnic and care have intrinsic value while Ayane's assigned paid cleaning gives labor a material route.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Wrong-site combat and Hoshino's omission leave Ayane's reply uninformed; it is not an approval of the hidden act or completed compensation.",
+        "own_new_Seminar_finite_result": "Compare unshared information with Noa's unoffered suspicion without making the omissions identical or transferring council agency.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger informed-authorization claim needs disclosure of the omitted combat and Ayane's actual reconsideration."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O011",
+      "purpose_id": "SP011",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can belonging survive a failed institutional recognition claim without proving reform?",
+        "own_new_Seminar_positive_connected_meaning": "Haruka's belonging and Mutsuki's amusement give the group positive ordinary continuity.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Aru's dubious pitch does not authenticate recognition or lawful retaliation; a withdrawal vow is not durable change.",
+        "own_new_Seminar_finite_result": "Use finite belonging as a comparison to Seminar's technical affiliation gap, with PS68's own acts retained.",
+        "own_new_Seminar_stronger_claim_trigger": "Formal recognition and lasting reform require an actual grant, implemented change and later recipient evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O012",
+      "purpose_id": "SP012",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a rejected large project coexist with an accepted small quiet idea?",
+        "own_new_Seminar_positive_connected_meaning": "Pina's picnic, bento, cards, sleep and Umika's quiet willow idea are actual valued ends; accepting the smaller proposal matters.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "The huge budget is refused; neither welcome nor the quieter alternative proves procurement or a revived festival.",
+        "own_new_Seminar_finite_result": "Compare proportionate allocation with A417 and Akane without equating wanted usefulness to approval.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger material-completion claims require actual purchase, installation and festival or recipient outcome."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O013",
+      "purpose_id": "SP013",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What is lost when intimate praise and taste are treated as completed public outcomes?",
+        "own_new_Seminar_positive_connected_meaning": "Kaede's film-recognition wish, Tsubaki's sleep and Mimori's curry are different positive ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Imagined praise and untested sugar or salt remain imagined or untested; narrated long lecture is not an inspected duration.",
+        "own_new_Seminar_finite_result": "Preserve ordinary desire beside uncertain reception, rather than counting it as a Seminar service success.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual audience response, tasted dish or precisely timed lecture for the stronger endpoint."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O014",
+      "purpose_id": "SP014",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does an explanation of exclusion differ from prior permission to exclude?",
+        "own_new_Seminar_positive_connected_meaning": "Kaede's wanted companionship and cat care, and a later explanation or apology, preserve a particular relationship value.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Unannounced patrol and a declined invitation do not establish all participants' consent; sleep concern is not clinical evidence.",
+        "own_new_Seminar_finite_result": "Compare omitted invitation with Koyuki's wanted companion while keeping distinct roles and constraints.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger repaired-belonging claim needs Kaede's response, later invitation practice and a completed accepted remedy."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "e25a49",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O015",
+      "purpose_id": "SP015",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How do a member's chosen game and a member's chosen audience test resource gatekeeping?",
+        "own_new_Seminar_positive_connected_meaning": "Yuzu chooses wins and an apology while maintaining distance from wanted fame; her preference supports a participant-specific good.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Momoi's courtesy turning abusive and pressure to attend remain costs; a possible bug does not prove tampering.",
+        "own_new_Seminar_finite_result": "Direct club-allocation comparison with Yuuka's reprieve keeps Yuzu's agency and audience boundary separate.",
+        "own_new_Seminar_stronger_claim_trigger": "A technical-bug or universal-membership account needs verified mechanism and each participant's actual wanted role."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O016",
+      "purpose_id": "SP016",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can an object's explanation finish the social damage from an invented private rumor?",
+        "own_new_Seminar_positive_connected_meaning": "Rumi's meals and privacy, Shun's quiet tea and the skincare explanation supply distinct positive tastes.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kokona's invented rumor and persistent misunderstanding oppose an inspected package opening or completed reputation repair.",
+        "own_new_Seminar_finite_result": "Use private explanation and rumor as a countercase to the council's data practices; no secret medical treatment inferred.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual corrected audience beliefs and any inspected object or aftermath before calling privacy restored."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O017",
+      "purpose_id": "SP017",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can useful emergency skill coexist with an unauthorized service demand?",
+        "own_new_Seminar_positive_connected_meaning": "Fubuki's rest and donuts, Kirino's advancement wish and actual hostage response remain positive at their own scopes.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Unauthorized deployment, explosion and shop suspension are not judicial disposition, restitution or granted holiday.",
+        "own_new_Seminar_finite_result": "Compare capacity and availability with Koyuki, without treating Valkyrie acts as Seminar commands.",
+        "own_new_Seminar_stronger_claim_trigger": "Legitimacy and repair need source-specific mandate, shop compensation and a performed agreed rest endpoint."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O018",
+      "purpose_id": "SP018",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How should an institution distinguish a fictional accusation from a performed sanction?",
+        "own_new_Seminar_positive_connected_meaning": "Mel's embedded fiction and Minori's hardship letter preserve imaginative and material ordinary purposes.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "The fiction is not an act by Shigure or Nodoka; cursed-envelope classification and narrator ashes do not identify the burner.",
+        "own_new_Seminar_finite_result": "Compare archive interpretation with Noa's selected recording; no real accusation or council-sanction transfer.",
+        "own_new_Seminar_stronger_claim_trigger": "Identify actual author, institutional decision and performed sanction before a causal or legal account."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O019",
+      "purpose_id": "SP019",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What can modest practical gifts establish about belonging without a formal charter?",
+        "own_new_Seminar_positive_connected_meaning": "Tsukuyo's appreciated water, towel, reflector and quiet stars, and Izuna's chosen welcome, are positive particular ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Interview and welcome do not themselves establish club recognition or a performed stunt.",
+        "own_new_Seminar_finite_result": "Keep quiet practical care as a counter to talent-only belonging in Seminar.",
+        "own_new_Seminar_stronger_claim_trigger": "Formal membership or accomplished performance needs the actual grant or depicted act and recipient response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O020",
+      "purpose_id": "SP020",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does scarce provisioning respect differing tastes and practical aftermath?",
+        "own_new_Seminar_positive_connected_meaning": "Ration preferences and reluctant allocation show wants within capable coordinated work.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Refused expired cans, explosive disposal and four days of smell do not validate lawful salvage or a single clinical cause.",
+        "own_new_Seminar_finite_result": "Compare finite ration decisions with the council's budget and unpleasant drink distribution, without merging crises.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger safety or lawful-provisioning claim needs inspected supply, authorized disposal and actual aftermath evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O021",
+      "purpose_id": "SP021",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How do load, novelty, payer, prestige and unshared knowledge change the same council's standard?",
+        "own_new_Seminar_positive_connected_meaning": "Direct complete GROUP3101–3103 receiving gives rejected makers specific wants, Noa's curiosity defense, shared building and hedged titanium success.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Premature dismissal, missing guarantees, personal-loss hope and uncertain unoffered warning oppose uniform rationality; horoscope differs from requested prices.",
+        "own_new_Seminar_finite_result": "The device is built and favorable personal result is hedged; no treasury theft, calibrated prediction or sentient-person join.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger financial, forecasting or informed-approval claim requires actual accounts, model validation and disclosed warning response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O022",
+      "purpose_id": "SP022",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What separates an institution's grateful audience from permission to follow a person?",
+        "own_new_Seminar_positive_connected_meaning": "Chise's preparation and personal props, Kaho's rest and particular gratitude preserve giver and recipient interests.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Covert following and a misread rebellion are not validated surveillance or every fan's harmless assent.",
+        "own_new_Seminar_finite_result": "Compare welcomed attention with Noa's recorded stop request without treating fans as council employees.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual permission, corrected information and recipient-visible surveillance aftermath before claiming repair."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O023",
+      "purpose_id": "SP023",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can a training institution honor a player's desired form of success and desired return?",
+        "own_new_Seminar_positive_connected_meaning": "Rei's beautiful-home-run wish, practice, food and breaks are particular goods rather than generic victory.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Restraint-machine objections and refusal to return oppose agreement or a later accomplished home run; another Rei's identity stays separate.",
+        "own_new_Seminar_finite_result": "Compare useful training with Koyuki's availability while retaining the player's skill and refusal.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual achieved stroke, free renewed participation and safe machine outcome are needed for stronger fulfillment."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O024",
+      "purpose_id": "SP024",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does institutional regard differ from an imposed account of a person's ordinary wants?",
+        "own_new_Seminar_positive_connected_meaning": "Kisaki's solitary exercise and rest and her accepted limited child's request preserve chosen rather than projected ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Projected disciplines, frightening rivalry stopped and local apology do not prove a universal mandate or clinical growth.",
+        "own_new_Seminar_finite_result": "Compare independently wanted quiet with Yuuka and Noa's preferences without office-to-person reduction.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger all-participant permission or health account needs each response and actual relevant measured outcome."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O025",
+      "purpose_id": "SP025",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can practical work coexist with a worker's remembered rest without proving public benefit?",
+        "own_new_Seminar_positive_connected_meaning": "Meg's rest, Kasumi's snow memory, Hina's chosen ice pop and Meg's later chosen digging are positive specific ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Hina refuses the scripted bag; bath relief is not clinical revival and digging is not a captured public opening or authorized hijack.",
+        "own_new_Seminar_finite_result": "Keep chosen labor distinct from coerced service as a counter to filing, with current source-local actors qualified.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger public-access, consent or restorative claim needs actual opening, terms and the workers' response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O026",
+      "purpose_id": "SP026",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What materially supports rest when a pleasant tour does not restore energy?",
+        "own_new_Seminar_positive_connected_meaning": "Nagisa's tea, park memories, future thanks and company are actual ordinary goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Burnout is reported, the tour does not replenish energy and hand-leading refusal survives temporary support.",
+        "own_new_Seminar_finite_result": "Compare companionship and replacement labor without converting either into a cure or romance.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger lasting rest or recovery claim needs continued labor redistribution and relevant recipient aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O027",
+      "purpose_id": "SP027",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a gift ceremony retain each recipient rather than flatten gifts into allegiance?",
+        "own_new_Seminar_positive_connected_meaning": "Distinct craft, tea, time, pictures and Rio's gratitude give nine gifts independent positive ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "False pretexts and undisclosed additions remain costs; gifts are not proof of health, harmlessness or legal allegiance.",
+        "own_new_Seminar_finite_result": "Compare Seminar's fitting gift with materially different gifts and responses, with original source scopes attributed.",
+        "own_new_Seminar_stronger_claim_trigger": "Require a specific recipient's knowledge and actual accepted aftermath for any stronger consent or health conclusion."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O028",
+      "purpose_id": "SP028",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can an institution recognize gifts, waiting and anti-waste choices without overriding an off-ramp?",
+        "own_new_Seminar_positive_connected_meaning": "Sixteen gifts preserve handmade and bought work, letters, rest, chosen waiting, shared food and named baker credit.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Event Kei's ignored request and later allowance do not retroactively authorize the interruption or join identities.",
+        "own_new_Seminar_finite_result": "Gift-specific finite responses compare to council ritual; letters or future time are not all completed.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger permission, continuity or complete-letter claim needs the actual recipient response and independent identity/source proof."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O029",
+      "purpose_id": "SP029",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can an institution's recognition of talent differ from ownership of its member's allegiance?",
+        "own_new_Seminar_positive_connected_meaning": "Izuna's view, food, fireworks and ninja dream have ordinary value; her later chosen rescue redirects allegiance.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "An employer exploits recognition, and a club inquiry is not completed formal membership or lasting autonomy.",
+        "own_new_Seminar_finite_result": "Compare wanted skilled participation with recall and refusal rather than equating loyalty and dependence.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger free-membership account requires an actual grant, available alternatives and continuing chosen participation."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O030",
+      "purpose_id": "SP030",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does restored command leave unresolved about subordinate benefits and consent?",
+        "own_new_Seminar_positive_connected_meaning": "Pudding, literature comfort, home, desired pay and leave preserve members' actual ends within ritual.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Restored command and promises with postponed benefits do not grant leave, implement wages or establish agreement.",
+        "own_new_Seminar_finite_result": "Countercase to council's gifts and continued work keeps restoration of office separate from material recipients.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual paid benefit, taken leave and informed participant response for completed institutional repair."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O031",
+      "purpose_id": "SP031",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does shared leisure keep worker exhaustion and opponent cost visible?",
+        "own_new_Seminar_positive_connected_meaning": "Sea, sand, company, leave, food, shared beauty and next-day energy are positive specific respite.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Driving exhaustion, opponent burdens, cleanup and photos remain limited; victory is not friendship or universal camera consent.",
+        "own_new_Seminar_finite_result": "Compare a finite break with Seminar's replacement-labor nap, without diagnosing all participants restored.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger all-worker rest or reconciled-opponent claims require their actual response and complete material aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O032",
+      "purpose_id": "SP032",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can an institution value a responsible worker's own leisure without translating it into performed duty?",
+        "own_new_Seminar_positive_connected_meaning": "Hina's coffee, waves, games and swim wish remain substantive; Iori's objection has its own direction.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Ako's stress inference and concealment do not supply Hina's clinical state; severe training is issued not completed and rhythm is not performed dance.",
+        "own_new_Seminar_finite_result": "Compare responsibility and available rest with Yuuka, preserving refusals and written modes.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger enacted-training or recovery result needs the actual completed act and relevant aftermath, not a command or wish."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O033",
+      "purpose_id": "SP033",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a care institution preserve a recipient's chosen return and earlier refusal together?",
+        "own_new_Seminar_positive_connected_meaning": "Shun's missed treat, park and wanted care form, then chosen antidote and qualified forgiveness, are specific positive ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Unknown food refusal, deception, restraint and lecture remain costs; later choice does not prove mechanism or privacy repair.",
+        "own_new_Seminar_finite_result": "Compare authority and gift care without clinical transfer or assuming every care recipient has agreed.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger cure or justified-restraint claims need actual mechanism, relevant informed response and post-treatment evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O034",
+      "purpose_id": "SP034",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What do Koyuki's pursuit and captive pleas add to the council's warmth-and-discipline rival?",
+        "own_new_Seminar_positive_connected_meaning": "C&C curry service, privacy, jacket choice and free play remain positive, alongside stopped excess.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Captive pleas/refusal, Koyuki's refused pursuit and the adult's unexecuted rescue proposal are different actors and endpoints; conditional release is not completed rescue.",
+        "own_new_Seminar_finite_result": "Direct Koyuki-context comparison retains pressure without calling reported custody retrieval, treatment or lawful warrant.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual free release, executed rescue and the affected person's response for completed autonomy or care."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "aa31b8",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O035",
+      "purpose_id": "SP035",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can preparation and imperfect rhythm count as creative work before a public performance?",
+        "own_new_Seminar_positive_connected_meaning": "Miku's self-introduction, prepared body joy and audience wish are actual creative purposes.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Rhythm difficulty and an unnamed engineer's data request remain finite; rehearsal ending leaves attendance and support future.",
+        "own_new_Seminar_finite_result": "Compare valued making with a proposal refused by Seminar; no claimed concert, data consent or engineer identity.",
+        "own_new_Seminar_stronger_claim_trigger": "A performed concert, authorized data use and actual reception are necessary for stronger success or identity claims."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O036",
+      "purpose_id": "SP036",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can permission granted late coexist with an unrepaired lost home?",
+        "own_new_Seminar_positive_connected_meaning": "Nodoka's material home and livelihood, Shigure's company, guests' tea, art and gardens have independent worth.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Overwork, refused help and a late concession do not prevent Meg's blast or restore the home through a bath.",
+        "own_new_Seminar_finite_result": "Compare worker relief and aftermath with Seminar's wanted rest and unfinished costs; keep the reported permission's timing.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger restored-home or adequate-compensation claim needs actual rebuilding, accepted remedy and worker aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O037",
+      "purpose_id": "SP037",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What do friends' particular objects and refused holidays reveal about shared institutional resources?",
+        "own_new_Seminar_positive_connected_meaning": "Haruka's effort, Kayoko's album, Mutsuki's toys and Aru's recovery motive give peer resources specific owners.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Empty safe, renewed offering, conditional ramen, refused holiday and unpaid ends oppose a completed financial restoration.",
+        "own_new_Seminar_finite_result": "Compare shared help with personal investment, retaining distinct PS68 obligations rather than borrowing their count.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual recovered funds, delivered promised food and chosen time off for a stronger repair conclusion."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O038",
+      "purpose_id": "SP038",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a broad gift ritual respect different receipt, keeping and consumption endpoints?",
+        "own_new_Seminar_positive_connected_meaning": "Mari's keeping or display wish, Ui's anti-mess preference, Hiyori's magazine sacrifice and Atsuko's viewing are particular goods; corrected coffee goes adult to Ayumu and her chocolate goes back.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "A display wish is not installation, Mine's abrupt feeding is not assent and packaging or slow taste is not universal consumption; frozen GSC aliases need59334 qualification.",
+        "own_new_Seminar_finite_result": "Compare fitting gifts and recipient information at attributed report grade, keeping the published coffee16 module distinct from new Seminar receiving.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger delivery, consumption or all-recipient agreement needs each actual endpoint, and any coffee actor amplification must retain the corrected source binding."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O039",
+      "purpose_id": "SP039",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What makes civic gratitude or useful maintenance different from guaranteed institutional safety?",
+        "own_new_Seminar_positive_connected_meaning": "Sena's rest questions before trust, Chihiro's walk and maintenance, Fubuki's art and bonus and civic thanks are positive local care.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Restart, subdual and chocolate remain finite; they do not authenticate credentials, secure impostor custody or establish pharmacology.",
+        "own_new_Seminar_finite_result": "Compare finite competent response with Noa's risk ranking without transferring service or legal authority.",
+        "own_new_Seminar_stronger_claim_trigger": "Need verified identity, actual containment and inspected lasting system outcome for a stronger security claim."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O040",
+      "purpose_id": "SP040",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can professional referral and a damaged object's care preserve the owner's particular taste?",
+        "own_new_Seminar_positive_connected_meaning": "Ui's scripture repair, precise iced Americano, Shimiko's referral and contributors' cake labor give care a concrete object and recipient.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Hinata's gentle intent still damages an object; cake acceptance does not establish liking, global anti-mess permission or complete restoration.",
+        "own_new_Seminar_finite_result": "Compare hoped usefulness and actual recipient fit with Seminar's rejected inventions and chosen sparse room.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger restored-object or freely chosen care claim needs the performed repair and owner's response, not giver intention."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O041",
+      "purpose_id": "SP041",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does public recognition differ from a friend's knowledge of a recognition plan?",
+        "own_new_Seminar_positive_connected_meaning": "Michiru's collectibles and desired recognition, friends' dissent and Ibuki's chosen trust preserve multiple purposes.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Actual catch and distributed help do not prove a paid bill, recognized club or universal knowledge of Niya's plan.",
+        "own_new_Seminar_finite_result": "Compare identity-through-performance with talent-only belonging while keeping the ninja home separate.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual formal grant, payment and informed participant responses before stronger recognition or all-consent conclusions."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O042",
+      "purpose_id": "SP042",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What is achieved when a prized holiday leaves a fisher's own wanted activity unfulfilled?",
+        "own_new_Seminar_positive_connected_meaning": "Serika's noncash holiday prize, shared cleaning, night leisure and Hoshino's bounded rest have positive endpoints.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Shiroko wanted fishing but it is not achieved and her rod is ruined; Wakamo's commandeering is not consent and the opponent boat is a home.",
+        "own_new_Seminar_finite_result": "Compare allocated leisure with work and personal possessions, without writing wanted fishing as performed fishing.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual fishing or repaired rod and affected occupants' responses for a stronger fulfilled-holiday account."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O043",
+      "purpose_id": "SP043",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can successful festival work settle the project's property and participant disputes?",
+        "own_new_Seminar_positive_connected_meaning": "Shizuko's project pleasure, cooperation, praise, substitute work and achieved feast preserve making and company.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Serika's dissent and unverified title, protective claims, payment and refunds oppose a complete legitimized development.",
+        "own_new_Seminar_finite_result": "Compare practical project success with Seminar's built device and unresolved funding conditions.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger ownership, compensation or universally authorized work requires actual documents and recipient-visible material settlement."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O044",
+      "purpose_id": "SP044",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does personal consultation keep a speaker's desired comfort separate from permission to tease?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa's self-naming, relief and offered drink give consultation a local positive result.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Uncertain self-disclosure and alternative adult replies do not grant every tease or authenticate a stable character essence.",
+        "own_new_Seminar_finite_result": "Compare audience-sensitive speech with the council's recording and disclosure games; preserve local choices.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger unqualified consent claim needs the actual selected reply and Kazusa's response to that act."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O045",
+      "purpose_id": "SP045",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does a request for cessation require before authority or punishment is inferred?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa wants harassment to stop without punishment and wants particular information, a meaningful boundary.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Reisa's interruption does not identify all motives or injuries and does not complete the requested cessation.",
+        "own_new_Seminar_finite_result": "Compare requests that are heard or bypassed with Noa's recorded stop plea.",
+        "own_new_Seminar_stronger_claim_trigger": "A lasting repair or sanction account needs actual ceased behavior, clarified reason and affected recipient response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O046",
+      "purpose_id": "SP046",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a skilled protective act remain finite without becoming a violent essential identity?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa's escape climb and check on adult safety preserve particular skill and concern.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Past photos and fairness disclosures do not prove an inherently violent true self or authorize future pursuit.",
+        "own_new_Seminar_finite_result": "Compare Koyuki's useful cipher skill with identity and indefinite-availability rivals, keeping the actors distinct.",
+        "own_new_Seminar_stronger_claim_trigger": "An essential trait or future-danger claim would need new relevant behavior, not a photo or this single escape."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O047",
+      "purpose_id": "SP047",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can respectful recognition retain an elder's request to stop and a group's voluntary membership?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa's respect history and clearer request, Suzumi's voluntary group and anonymous hearing of Reisa are positive local arrangements.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "They do not establish unlimited deference, complete jurisdiction or harmless pursuit.",
+        "own_new_Seminar_finite_result": "Compare recognition and participation with council belonging without importing their authority.",
+        "own_new_Seminar_stronger_claim_trigger": "Formal powers or lasting harmlessness require an actual mandate and later affected-person evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O048",
+      "purpose_id": "SP048",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does trusted correction add to a brave helper without excusing the helper's reported attack?",
+        "own_new_Seminar_positive_connected_meaning": "Reisa's courage, conflict work and hesitant response to trusted correction retain useful and fallible agency.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Delinquents complain of attack, and actor seams do not permit a diagnosis or durable reform certificate.",
+        "own_new_Seminar_finite_result": "Compare useful emergency contribution and accountable limit with council crisis practice.",
+        "own_new_Seminar_stronger_claim_trigger": "Need source-resolved actors, actual subsequent conduct and recipient aftermath for a stronger just intervention claim."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O049",
+      "purpose_id": "SP049",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can friends value a person before accurate knowledge of that person's unwanted past is shared?",
+        "own_new_Seminar_positive_connected_meaning": "Airi's affirmation that Kazusa remains herself and Natsu's ingredient talk support friendship and making.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Dropped photo exposure and unequal information oppose treating the proposed help as implemented acceptance.",
+        "own_new_Seminar_finite_result": "Compare belonging before performance with Koyuki, preserving accurate information as a separate need.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger completed reputation repair needs the actual disclosed information, response and later social aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O050",
+      "purpose_id": "SP050",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does wanting a private past protected coexist with choosing to continue ordinary work?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa appreciates an arrival and chooses continued work rather than becoming only a public legend.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Shame is not a clinical finding and appreciation does not restore public trust or permit dissemination.",
+        "own_new_Seminar_finite_result": "Compare Noa's diary and Yuuka's withholding with a distinct speaker's chosen privacy.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual information control and corrected audience response before a stronger restored-privacy claim."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O051",
+      "purpose_id": "SP051",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What makes a friend's kind performance different from the recipient's requested recognition?",
+        "own_new_Seminar_positive_connected_meaning": "Friends intend warmth through a gang performance, an actual social effort.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kazusa demands accurate correction; Reisa renews a rumor, so kindness is not assent to a performed old identity.",
+        "own_new_Seminar_finite_result": "Compare fitting pajamas with poor recipient fit and preserve objection within ongoing company.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger welcomed-ritual claim needs Kazusa's informed response and correction actually reaching the relevant audience."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O052",
+      "purpose_id": "SP052",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can local correction preserve both friends' happy intent and the recipient's disclosure boundary?",
+        "own_new_Seminar_positive_connected_meaning": "Friends' explanation and Yoshimi's willingness to hear before excuse retain a route to local repair.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kazusa asks whether she requested it; Reisa's silence is neither diagnosis nor completed whole-context remedy.",
+        "own_new_Seminar_finite_result": "Compare council apology and privacy burden without assigning every act one global apology.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual audience correction and implemented recipient terms before claiming full repair or consent."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O053",
+      "purpose_id": "SP053",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a helper's promise to stop differ from losing a wanted role and lasting cessation?",
+        "own_new_Seminar_positive_connected_meaning": "Reisa's promise and Suzumi's offered assistance supply a positive potential change.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Losing the rival role complicates pure civic motivation; threat precedes combat and the later renewed challenge counters durable cessation.",
+        "own_new_Seminar_finite_result": "Compare local revised judgments with Seminar's temporary reprieve rather than a completed growth ladder.",
+        "own_new_Seminar_stronger_claim_trigger": "Sustained cessation and freely chosen new purpose require actual later conduct and relevant recipient response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O054",
+      "purpose_id": "SP054",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can protective concern and joy remain true while unwelcome memory and distance persist?",
+        "own_new_Seminar_positive_connected_meaning": "Reisa checks injury, owns a problem and returns a letter; private reunion includes joy and sadness.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Protective distance and unwanted memory remain; neither the injury check nor warmth proves clinical clearance, romance or pursuit license.",
+        "own_new_Seminar_finite_result": "Compare finite care with council gifts and bodily refusal without transferring identity or health grade.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger healed or universally welcomed relationship needs actual recipient-defined distance and relevant aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "432647",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O055",
+      "purpose_id": "SP055",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a prompted encounter preserve the irritated participant's own repeated question?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa's late visit and renewed question about Reisa are actual concern despite irritation.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Adult arrangement of the context does not erase Kazusa's agency or reverse her aversion.",
+        "own_new_Seminar_finite_result": "Compare adult-facilitated company with Seminar's wanted and unwanted participation; distinguish choice from premise.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger changed-desire account needs her own explicit terms or relevant later chosen acts."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O056",
+      "purpose_id": "SP056",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can contested friendship language coexist with specific help before rescue is complete?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa disputes the label while Natsu pursues her own theatre and Yoshimi urges help rather than obstruction.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Positioning around the adult and protective jurisdiction claims do not establish police authority or completed rescue.",
+        "own_new_Seminar_finite_result": "Compare practical aid and formal warrant with council operational interdependence.",
+        "own_new_Seminar_stronger_claim_trigger": "An actual rescue, legal mandate or unanimous group identity requires the completed source-bound act and participant response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O057",
+      "purpose_id": "SP057",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does refusal to disclose retain when helpers arrive at an exhausted person?",
+        "own_new_Seminar_positive_connected_meaning": "Reisa refuses to expose Kazusa and friends actually arrive; protective choice survives exhaustion.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kazusa remains irritated by the underworld name; lay condition has no examination or certified explosive cause.",
+        "own_new_Seminar_finite_result": "Compare tired useful work and privacy holding with Koyuki and Yuuka without medical transfer.",
+        "own_new_Seminar_stronger_claim_trigger": "Clinical or justified-force claims require appropriate evidence and completed aftermath, not visible exhaustion alone."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O058",
+      "purpose_id": "SP058",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What can a returned object, trusted bench and offered meal establish without medical restoration?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa's local trust, returned letter and hunger-directed meal offer give care particular material content.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "The endpoint is not clinic recovery, actual arrest or a categorical romantic character label.",
+        "own_new_Seminar_finite_result": "Compare quiet actual care with council rest; an offered meal is not every completed care outcome.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual delivered meal, medical evidence or performed legal action for stronger completion."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O059",
+      "purpose_id": "SP059",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can a consultation be helpful without making its mediator infallible?",
+        "own_new_Seminar_positive_connected_meaning": "Kazusa reports help amid irritating failures; café warmth, cake and changed friend relations are valued.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "No source authenticates the unnamed café, omniscient adult or clinical cure.",
+        "own_new_Seminar_finite_result": "Compare partial institutional competence and ordinary pleasure with Yuuka's revisions and Noa's finite knowledge.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger universal success or cure needs independent relevant outcomes and an actual identified route."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O060",
+      "purpose_id": "SP060",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does ordinary shared food leave the demand for an accurate public account active?",
+        "own_new_Seminar_positive_connected_meaning": "Parfait ordering and familiar routine have positive continuity.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Reisa renews a distorted solo-rescue myth and challenge; Kazusa's accuracy boundary survives, with no later fight or complete cessation.",
+        "own_new_Seminar_finite_result": "Compare continuing company with unanswered council criticism and unfinished repair.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual accurate correction and lasting ceased pursuit before a stronger repaired-reputation endpoint."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O061",
+      "purpose_id": "SP061",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does an institution choose maker-recipient fit when games and rest differ?",
+        "own_new_Seminar_positive_connected_meaning": "Noa's records and tea, Yuuka's schedule and rest, revised sports offers and stopped machinery are real local responses.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Tired helpers, unwanted clothing and denied rest survive an opening; poor robot performance does not justify treating every recipient as helped.",
+        "own_new_Seminar_finite_result": "Direct Noa/Yuuka comparison preserves enthusiasm, fit and dissent before any utility verdict.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger successful-service claim needs each intended recipient's actual response and resolved work or rest burden."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O062",
+      "purpose_id": "SP062",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can competitive participation keep the person who wanted the activity to end visible?",
+        "own_new_Seminar_positive_connected_meaning": "Hasumi's coaching, worst-and-fun judgment, craft and food recognition and reluctant coordination are different goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Sixth place is not worthlessness; Chihiro did not enjoy it, Hibiki wants an end, and hunger or denied rest remains.",
+        "own_new_Seminar_finite_result": "Compare allocation of enjoyable and useful work with council leisure, without forced positivity or diagnosis.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger all-participants benefit requires their actual testimony and material rest or burden resolution."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O063",
+      "purpose_id": "SP063",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "When does correction change a care encounter without validating its original coercion?",
+        "own_new_Seminar_positive_connected_meaning": "Handmade Santa aid, Hasumi's tea and rest, disclosure and local repair party offer positive alternatives.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Mine blocks explanation and uses force that harms; equal-care intention is not every patient's consent or full reform.",
+        "own_new_Seminar_finite_result": "Compare discipline and alternative response with Seminar's care-authority rival.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual explained treatment, recipient assent and sustained changed practice for a stronger care mandate."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O064",
+      "purpose_id": "SP064",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What would a service account miss if it recorded only an announced victory?",
+        "own_new_Seminar_positive_connected_meaning": "Fuuka's recognition, Juri's pleasure and failure, kitchen care and Haruna's later listening and apology request preserve chosen material ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Initial commandeering remains; Fuuka's personal assent does not retroactively license kidnapping or settle wages and contracts.",
+        "own_new_Seminar_finite_result": "Compare welcomed service and imposed filing without appropriating Fuuka's distinct responsibility.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual wages, terms, requested work and affected recipients' aftermath are needed for completed service justice."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O065",
+      "purpose_id": "SP065",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can coalition success preserve ordinary relief while leaving reconstruction open?",
+        "own_new_Seminar_positive_connected_meaning": "Distributed thanks, play, food and rest give cooperation a positive recipient-level end.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Phase-specific destruction reports do not prove a single mechanism, sole adult cause, all consent or permanent safety; rebuilding is pending.",
+        "own_new_Seminar_finite_result": "Compare Seminar coordination with a distributed coalition, keeping other-school labor and homes independent.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger rebuilt, permanently safe or exclusive-cause claims need actual aftermath and source-specific technical proof."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O066",
+      "purpose_id": "SP066",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What separates contact and a technical member's ordinary pride from lasting institutional continuity?",
+        "own_new_Seminar_positive_connected_meaning": "Renewed contact reports, cycling, recognition, food and company preserve practical and quiet goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Masks or restraint, opened door and listening deferred do not validate durable contact, ontology or a joined crew Minato.",
+        "own_new_Seminar_finite_result": "Compare coordination and technical belonging with Seminar while refusing a shared identity or future route.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual continued contact, informed listening and independent identity evidence for stronger continuity."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O067",
+      "purpose_id": "SP067",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can aid be valued through a child's concrete wants without endorsing a theory of suffering?",
+        "own_new_Seminar_positive_connected_meaning": "Scarf warmth, home, food, friends and cycling provide positive material ends; entrusting and aid are reported.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Self-blame cosmology is not authenticated, the complete23 safer roster is not implied, and care is not cure.",
+        "own_new_Seminar_finite_result": "Compare ordinary care with council availability and retain the recipient before an abstract model.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger comprehensive safety or health claims require actual roster, recipient outcomes and relevant evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O068",
+      "purpose_id": "SP068",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does civic budget availability differ from actual disbursement and full staff coverage?",
+        "own_new_Seminar_positive_connected_meaning": "Ayumu's request, Aoi's reported aid approval and students' cooperation support concrete civic initiative.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Rin's authority remains suspended; available budget or promised aid is not payment, sole-worker contribution or performed all coverage.",
+        "own_new_Seminar_finite_result": "Compare resource authorization and coordination at qualified report scope; no duplicate GSC civic credit.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual payment, restored authority and completed distributed labor are needed for stronger institutional closure."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O069",
+      "purpose_id": "SP069",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can Toki's welcomed affiliation and play preserve particular agency without universal information consent?",
+        "own_new_Seminar_positive_connected_meaning": "Affiliation, reported command rights, invited friends and Neru's praise or apology support standing; games and clothes have intrinsic value.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Art care and Akira's continued theft do not authenticate title, payment or all guest knowledge; Neru's use-then-exclusion refusal belongs EVENT843/O087, not this event.",
+        "own_new_Seminar_finite_result": "Direct Millennium comparison keeps welcomed agency and specific obligations; no cross-source refusal moved into EVENT825.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger universal informed inclusion, title or reform requires the actual source-specific agreement, accounts and implemented change."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O070",
+      "purpose_id": "SP070",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does an office lose when a cook's taste and an employee's fatigue become instruments of command?",
+        "own_new_Seminar_positive_connected_meaning": "Rumi's cooking, Saya's refused impossible job, Mina's film interest and Kisaki's banquet apology preserve individual purposes.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kokona's fatigue and secretly used trap remain costs; a banquet does not pay workers, grant all rest or deliver future apology or surveillance closure.",
+        "own_new_Seminar_finite_result": "Compare office power and ordinary wants with the council's pressured duties, not a shared workplace policy.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual disclosed tasks, compensation, rest and recipient-defined remedy for stronger responsible command."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O071",
+      "purpose_id": "SP071",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does useful public work retain a coastal recipient's material life and local boundary?",
+        "own_new_Seminar_positive_connected_meaning": "RABBIT's fishers, coastguard and cargo work, apology, temporary light, knots, app help and actual fish party or barbecue have particular recipients.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Misread shrimp and rest, aborted collateral fire and limited repairs do not close legal issues, certify refrigeration or reopen a school.",
+        "own_new_Seminar_finite_result": "Use the actual coastal-village source as a comparison to crisis coordination; Saki’s particular food/body refusals remain consequential beside fish-party pleasure, without a generic resort-police duty or uniform assent.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual durable facilities, school grant and legally or materially settled aftermath for stronger public-service success."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O072",
+      "purpose_id": "SP072",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can curiosity and shared scenery retain an object's preservation duty and an offered distance?",
+        "own_new_Seminar_positive_connected_meaning": "Ui's historical calm and weathered capsule, Hanako's sea, Hinata's conscience and Koharu's pool thanks support different quiet goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Map and reburial duties do not prove lost writing; opting out and distance are not universal restoration of library policy.",
+        "own_new_Seminar_finite_result": "Compare Noa's chosen records and recipient privacy with custodial curiosity without joining institutions.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual recovered writing, fulfilled reburial and agreed continuing terms are necessary for stronger preservation closure."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O073",
+      "purpose_id": "SP073",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What separates a completed creative work from ownership of its creator's future availability?",
+        "own_new_Seminar_positive_connected_meaning": "Mel and Momiji reconcile before Mel freely completes the manuscript; reading, food and resources matter independently.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Mel refuses secretarial appropriation, Minori's demand and outsourcing; Momiji's final objection survives praise and Yakumo's withdrawal does not prove sales or a9:1 legal ratio.",
+        "own_new_Seminar_finite_result": "Compare talented labor and refusal with Koyuki's computation, preserving the source's creative endpoint.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger rights or compensation account needs actual terms, sales and each participant's agreed continuing work."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O074",
+      "purpose_id": "SP074",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a modest offered rest route differ from permanent affiliation or finished repair?",
+        "own_new_Seminar_positive_connected_meaning": "Hasumi's bag and rest request, Ichika's small talk, failed-task reassurance and conditional help preserve particular relief.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Ichika refuses Kasumi's belonging offer; accompaniment is not entirely free and conditional repair is not performed or new harm erased.",
+        "own_new_Seminar_finite_result": "Compare bounded support and wanted off-ramp with Yuuka's nap without merging institutional membership.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual completed repair and freely renewed accompaniment would be needed for stronger restorative belonging."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "b8fa08",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O075",
+      "purpose_id": "SP075",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does a successful forced demonstration leave unsettled about its helpers' rest?",
+        "own_new_Seminar_positive_connected_meaning": "Engineering and visitors have different wants; Saten values a meeting memory and a one-time demo aids departure.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Opening Sensei rest is not Eimi's rest, fatigued helpers remain and failed guns are not repaired; memory is not certified world-history proof.",
+        "own_new_Seminar_finite_result": "Compare useful technical support with indefinite availability, keeping the actual Engineering and visitor setting.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual restored equipment, workers' chosen rest and verified world binding for stronger technical or historical closure."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O076",
+      "purpose_id": "SP076",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can a later freely continued outing retroactively authorize its compulsory beginning?",
+        "own_new_Seminar_positive_connected_meaning": "Reading, dinner, cocoa, cleanup and sunrise give the trip positive ordinary ends; the trio later continues with an off-ramp.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Chihiro mandated the initial outing and withheld camp details; Rei refuses changed training, and game-character numbers are not real10kg weight data.",
+        "own_new_Seminar_finite_result": "Compare party enjoyment and constrained beginning without converting later choice into prior consent.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual prior informed invitation and participant-defined physical outcomes for stronger universal consent or fitness claims."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O077",
+      "purpose_id": "SP077",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How do performed pleasure and publicity costs remain distinct within an institutional ceremony?",
+        "own_new_Seminar_positive_connected_meaning": "Hina accepts responsibility and piano then is represented performing; Ibuki's cocoa, clothing and play also have ordinary worth.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Written performance is not heard audio; Makoto's covert publicity and attempted programmed respect do not validate hypnosis or repaired budgets.",
+        "own_new_Seminar_finite_result": "Compare ritual pleasure and instrumental publicity with council norms, retaining distinct recipients and written mode.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger mechanism or financial repair requires actual technical evidence, accounts and recipient knowledge rather than a resolved party disorder."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O078",
+      "purpose_id": "SP078",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can livelihoods and many particular gifts be retained without making them a universal consent score?",
+        "own_new_Seminar_positive_connected_meaning": "PS68 and Saori's work or livelihood and23 independent gifts include actual chosen ends and some responded requests.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Contract safety, all gift agreement and every cost remain unproved; current source actor corrections constrain individual scenes.",
+        "own_new_Seminar_finite_result": "Compare chosen service and material gift care with Seminar labor at preserved producer report scopes.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual terms, payment and each relevant recipient's knowledgeable response for a stronger safe-contract or consent conclusion."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O079",
+      "purpose_id": "SP079",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does a chosen hosting responsibility keep of its offered off-ramp and timing criticism?",
+        "own_new_Seminar_positive_connected_meaning": "Umika chooses responsibility after an off-ramp; clothes, craft, scenery, guests' enjoyment and completed festival or trip matter.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Future timing objections survive and all-risk information or cleanup is not complete; the source is Hyakkiyako hosting, not a river or ninja route.",
+        "own_new_Seminar_finite_result": "Compare made event and partial assent with council allocations without dismissing ordinary preparations.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger fully informed hosting or completed cleanup needs actual disclosed risks and performed aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O080",
+      "purpose_id": "SP080",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a group value a learner before skill success without making recognition a cure?",
+        "own_new_Seminar_positive_connected_meaning": "Airi wants skill, friends want her before success and reject replacement; practice, food, music and actual self-acceptance support belonging.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Wrong semla theory and self-talk mistaken for others' words do not diagnose growth, calibrate talent or cure insecurity.",
+        "own_new_Seminar_finite_result": "Compare belonging before useful cipher performance, keeping alternate branches local rather than all enacted.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger stable skill or clinical claim needs the actual selected outcome and independent relevant evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O081",
+      "purpose_id": "SP081",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "When does a service worker's later thanks leave an imposed trial and mishandled citizen unresolved?",
+        "own_new_Seminar_positive_connected_meaning": "Kanna's service desire, later child protection and thanks, other local skills and Love's paid leisure are positive finite goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "An imposed lifesaver arrangement and algorithmic mishandling are not restitution, permanent office transfer or excused restraint; tickets are refused.",
+        "own_new_Seminar_finite_result": "Compare practical competence with council legitimacy, keeping the later gratitude recipient-specific.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual resolved citizen harm, freely chosen terms and formal office decision are necessary for stronger service justice."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O082",
+      "purpose_id": "SP082",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "Can a chosen stage and today's reunion remain valuable while wages and bodily discomfort stay open?",
+        "own_new_Seminar_positive_connected_meaning": "Arius seafood, music, magazines and quiet differ; Saori wants stage sensation and actual stage, game, photo and reunion give present enjoyment.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Secret forced protection, unpaid wages, camera knowledge and Misaki's discomfort remain; Azusa's attendance is not established.",
+        "own_new_Seminar_finite_result": "Compare desired work and enjoyed company with Seminar, without letting pleasure pay missing wages.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual wage payment, informed photo agreement and affected person's response for stronger complete compensation or consent."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O083",
+      "purpose_id": "SP083",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a numerical victory and broader defense remain positive without falsely settling the defeated actor?",
+        "own_new_Seminar_positive_connected_meaning": "The source preserves numerical defeat and broad later defense, plus theatre, food and pandas as actual goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kisaki's invitation is not unanimous Genryumon assent; cell/interrogation precedes correction and fine defeated-party attribution atL126 remains deferred.",
+        "own_new_Seminar_finite_result": "Keep positive battle outcome and Kaguya dissent at qualified scope, with no cure or all-guest permission inferred.",
+        "own_new_Seminar_stronger_claim_trigger": "Resolve the exact source actor seam and obtain relevant aftermath before attributing the fine defeated party or completed justice."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O084",
+      "purpose_id": "SP084",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does refusing office or a cure bargain retain beside practical institutional maintenance?",
+        "own_new_Seminar_positive_connected_meaning": "Kisaki's unchosen office, Kai's rejected cure bargain and Kaguya's refusal of headship with bounded maintenance preserve particular agency.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Medical harm and needed treatment survive; a festival beginning is not all cured, fully justified reform or uniform office assent.",
+        "own_new_Seminar_finite_result": "Compare membership, responsibility and constrained remedy with Koyuki, keeping actual Shanhaijing actors and ends.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger cure, lawful reform or agreed office needs actual relevant outcomes, terms and recipient response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O085",
+      "purpose_id": "SP085",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can public creative participation preserve a chosen ending and image boundary?",
+        "own_new_Seminar_positive_connected_meaning": "Mari freely leads an idol week then chooses its end; Nagisa's art, Utaha's music, Tsurugi's reading and Love's play are distinct goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Requested public-photo disposal is not actual destruction; a private gifted photo is not upload consent, and pressure, fainting or costs are not erased.",
+        "own_new_Seminar_finite_result": "Compare Noa's records and chosen permanence with a separate public image duty.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual deletion or authorized publication and continuing participant response for stronger information repair."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O086",
+      "purpose_id": "SP086",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How do a welcomed NewYear party and ongoing imposed work coexist in the same Seminar account?",
+        "own_new_Seminar_positive_connected_meaning": "Complete EVENT842 receiving gives fitting accepted pajamas, shared games, cleanup, sleep, a specific apology and continuing greetings.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Confinement, recorder/privacy intervention, protested pursuit, disclosure-or-drink burden and unwilling helpers remain; filing is still ongoing.",
+        "own_new_Seminar_finite_result": "Direct core distinguishes each actor, afterstory and achieved endpoint; no all-party assent, completed paperwork or medical safety proof.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual agreed release, finished filing, compensation and recipient-defined privacy remedy are necessary for stronger restored authority or labor justice."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O087",
+      "purpose_id": "SP087",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does being useful to a team preserve a member's right to information and refusal of exclusion?",
+        "own_new_Seminar_positive_connected_meaning": "Seia's worth beyond prophecy, Rio's recognition of limits and C&C company give belonging positive substance.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Karin asks for information and Neru refuses unilateral use-then-exclusion; one-week no-force agreement with work pretext is not full repair or technical/legal closure.",
+        "own_new_Seminar_finite_result": "Direct Millennium comparison to Koyuki's further-duty refusal; this refusal remains EVENT843 and is not imported into EVENT825/O069.",
+        "own_new_Seminar_stronger_claim_trigger": "Need implemented disclosed terms, actual recipient response and relevant durable outcomes before a stronger all-member-consent policy."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O088",
+      "purpose_id": "SP088",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can capable service respect the worker whose rare day off it interrupts?",
+        "own_new_Seminar_positive_connected_meaning": "Fuuka's day off, Juri's chosen waitress work to protect it, initial pancakes and permitted practice have finite positives.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Chef explosion, overloaded work, manager pressure and Sena's objected painful treatment remain; permission to practice is not all-food safety, cure or compensation.",
+        "own_new_Seminar_finite_result": "Compare helpful competence and actual rest route with the council's imposed afternoon filing.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual rested worker, fair compensation, agreed service and relevant treatment endpoint are needed for a stronger completed care result."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O089",
+      "purpose_id": "SP089",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does achieving a player's own form of success leave unsettled about unwanted training?",
+        "own_new_Seminar_positive_connected_meaning": "Rei's reverse walkoff grand slam and first win realize a wanted beautiful home run; she refuses a pro contract for the club.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Sumire's awkward clothes, drinks and overriden rest remain; failed machine and next-day8-to7.9 do not prove an inspected wrist injury or safe training.",
+        "own_new_Seminar_finite_result": "Compare actual achievement with desired availability, keeping this baseball Rei distinct from diving identity.",
+        "own_new_Seminar_stronger_claim_trigger": "Require chosen further training, verified physical aftermath and actual machine reliability for stronger institutional benefit."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O090",
+      "purpose_id": "SP090",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a logistics institution value protected cargo without gaining ownership of the worker's autonomy?",
+        "own_new_Seminar_positive_connected_meaning": "Twins retain pizza entitlement; Aoba's manga and safety interest, refusal of maneuver, actual stop, intact cargo and signatures preserve practical work.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Unwanted station visit and limited reassurance remain; medicine is only offered, dinner invited not narrated and damage or charity unfinished.",
+        "own_new_Seminar_finite_result": "Compare completed narrow work with a future service promise without making Aoba's convenience irrelevant.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual accepted medicine, delivered dinner or resolved damage and freely agreed future work are needed for stronger closure."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O091",
+      "purpose_id": "SP091",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does a chosen contest preserve when initial attendance was not beach consent?",
+        "own_new_Seminar_positive_connected_meaning": "Kikyou's quiet strategy, yakitori, Renge's stop to forced participation, actual rescue and chosen contest retain specific agency.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Confidentiality fear pressures a swim condition; tail touch, nausea, sabotage and arm strain remain, with no CPR, cure, prize or finished final.",
+        "own_new_Seminar_finite_result": "Compare privacy leverage and chosen play with Seminar's disclosure game, keeping fair-play moments finite.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual unpressured choice, completed contest and relevant bodily or prize aftermath for stronger universal consent."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O092",
+      "purpose_id": "SP092",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does shared recreation retain the helper's burden and a separate person's wanted quiet?",
+        "own_new_Seminar_positive_connected_meaning": "Mika's play, Nagisa's care, actual barbecue, cleanup, cards, safety withdrawal and Kasumi's quiet reading or voluntary ice cream are valued.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Covert labor, environmental and title limits remain; Seia's atonement is not structural repair or an asked Nagisa preference.",
+        "own_new_Seminar_finite_result": "Compare resources enabling rest with actual replacement labor, not a bill-free universal retreat.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual agreed work, resolved costs and each relevant recipient's response before a stronger all-rest account."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O093",
+      "purpose_id": "SP093",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does recognizing creative confidence before success differ from validating its institutional conditions?",
+        "own_new_Seminar_positive_connected_meaning": "Eri's pre-success confidence, Tsumugi's company, Kanoe's taste and Rena's refusal followed by her chosen bell are positive acts; art and local lights receive recognition.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Wish magic, coercion erased, finished guard work and future museum are not established by local restoration.",
+        "own_new_Seminar_finite_result": "Compare A417's aspiration and Noa's curiosity defense with another maker's actual recognition.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger institutional completion needs actual guard aftermath, freely agreed terms and a built or opened museum."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O094",
+      "purpose_id": "SP094",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does a pressured office owe to a creator who refuses private use or a false ending?",
+        "own_new_Seminar_positive_connected_meaning": "Miyo still decides, rejects a false ending and refuses Teacher’s request to read her wanted novels; Ritsu’s sculpture, materials and tasted cake have intrinsic worth.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Zero earnings, job loss, contested rules, blockade and damaged trust remain; no authentic assay, completed purchases or all reform follows.",
+        "own_new_Seminar_finite_result": "Compare private recording and useful capacity without importing a romance or treating Miyo’s refusal of reading access as mere practical inconvenience.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual ownership or assay, accepted terms, compensated work and recipient-visible repair for stronger authority closure."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "4832c4",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O095",
+      "purpose_id": "SP095",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can actual patrol and ordinary craft retain a person's exit and lost rest?",
+        "own_new_Seminar_positive_connected_meaning": "Suzumi joined then left JTF; Reisa's music, chat and patrol choice and Shimiko's craft, reading and library interests remain positive.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Love actually wins and feigns defeat; no heroine win or torture follows, while Ui's wanted quiet sleep is lost and cleanup only bounded.",
+        "own_new_Seminar_finite_result": "Compare voluntary exit, practical aid and rest with council belonging and replacement labor without transferring Library duty.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger legitimate-jurisdiction or fully restored rest needs actual terms, Ui's response and completed aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O096",
+      "purpose_id": "SP096",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does actual reader reception retain continued criticism and a library's local terms?",
+        "own_new_Seminar_positive_connected_meaning": "Takane's real criticism, Mel's creation, reader making, Mashiro's continuing tastes, tea and memories give circulation recipient-level value.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "False princess biography, withdrawn readers and Ui's temporary distance conditions remain; no final9:1 rights, ownership, starving-license or future collection endpoint is supplied.",
+        "own_new_Seminar_finite_result": "Compare Noa's information audience and record selection, without claiming the Library's separate home complete.",
+        "own_new_Seminar_stronger_claim_trigger": "Actual agreed circulation terms, accurate biography and recipient-visible future collection are needed for stronger legitimate access."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O097",
+      "purpose_id": "SP097",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can recognition today preserve a person's chosen later identity and return?",
+        "own_new_Seminar_positive_connected_meaning": "Tsukuyo chooses styles and today's model role, keeps a ninja self-name and returns; repaired gifted dress and Michiru's camera views or ramen matter.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Forced fitting, diet, withheld phone or information and unverified filming permission remain; a new ramen is not completed.",
+        "own_new_Seminar_finite_result": "Compare unwanted fame and wanted belonging with Yuzu and Koyuki, without classifying a permanent career.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual freely renewed career choice, informed filming response and delivered later meal for stronger fulfillment."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O098",
+      "purpose_id": "SP098",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does a co-designed useful system retain a participant's refusal to be a key or erased person?",
+        "own_new_Seminar_positive_connected_meaning": "Kei's chosen name and uniform, Alice's imperfect gift and refusal of erasure, Toki's tentative hobbies and Eimi's peace preserve ordinary agency.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Co-design is not pilot permission; surprise or headpat objections and broken machinery persist, with no all-health or identity metaphysics.",
+        "own_new_Seminar_finite_result": "Compare A417 and device output roles with actual members, refusing any Seminar Alice/Key/Kei identity join.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger sentience, pilot-consent or clinical claims need independently appropriate source and actual informed agreement."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O099",
+      "purpose_id": "SP099",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can a protective meal and named inquiry remain useful while unexplained mysteries and imposed contact stay open?",
+        "own_new_Seminar_positive_connected_meaning": "Konoka's cooking and meal, Rena or Tsubasa's name and inquiry, Himari's admitted lack of knowledge and reunion supply positive particular ends.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "One planted rumor explains only its own acts; secret nonarrest, unconsulted hug and eating burden do not justify every coercion or solve other mysteries.",
+        "own_new_Seminar_finite_result": "Compare Noa's uncertainty and adult care without converting the institution's curiosity into universal explanation.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger causal, authorized-contact or completed-investigation claim needs actual disclosed acts and resolved relevant evidence."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O100",
+      "purpose_id": "SP100",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does office hospitality respect a refused task and the recipient's own pace or temperature preference?",
+        "own_new_Seminar_positive_connected_meaning": "Rumi wants iced tea rather than hot health advice; cooks refuse surprise demands, Kisaki revises pace and poetry, Kokona refuses infiltration then allows a walk, and a merchant assents.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Kanae's collapse, factions, late medicine and actual corporal punishment remain; leisure does not prove all workers rested or reformed command.",
+        "own_new_Seminar_finite_result": "Compare Noa's plain tastes and Koyuki's refusal with materially different office roles, not one council policy.",
+        "own_new_Seminar_stronger_claim_trigger": "Require actual freely agreed duties, labor relief and relevant treatment or disciplinary aftermath for stronger responsible care."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O101",
+      "purpose_id": "SP101",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What does an actual rescue keep of a person's rest, image boundary and irreplaceable object?",
+        "own_new_Seminar_positive_connected_meaning": "Iroha's rest, privacy and rations, Makoto's protective rescue and refusal of forced retention, and boat memory beyond price preserve distinct goods.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Photo refusal differs from a consented personal photo and renewed refusal; Sumika's attack then blame-shift, uncertain pirate aftermath and unfinished apology remain.",
+        "own_new_Seminar_finite_result": "Compare resource replacement, recording and specific permission with council practice; no cannon causal proof or conquered-school legitimacy.",
+        "own_new_Seminar_stronger_claim_trigger": "Stronger completed apology, legal school outcome or all-photo consent needs actual actors, performed remedy and recipient response."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O102",
+      "purpose_id": "SP102",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How does useful navigation retain a crew member's refusal and unfinished debt or paperwork?",
+        "own_new_Seminar_positive_connected_meaning": "Minato's curry and sea cooking, Ami's recalled work, diverse aesthetics, retreat, narrated rescue warmth, ice cream and partial debt have positive scope.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Debt cancellation is offered not enacted; Minato rejects exception, bad-guy role and forced graveyard extraction, while Ami refuses more paper work.",
+        "own_new_Seminar_finite_result": "Compare talent and availability with Koyuki without joining source-local crew Minato, Event861 and MAIN identities.",
+        "own_new_Seminar_stronger_claim_trigger": "Need actual canceled debt, agreed duties, finished cleanup or paperwork and independent rescue identity evidence for stronger emancipation."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O103",
+      "purpose_id": "SP103",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "How can competitive recognition preserve both self-described fear and another person's admitted projection?",
+        "own_new_Seminar_positive_connected_meaning": "Anna's warmth, fuel-use fear of failure, Elina's own motivational projection, shared café or clothes and mutual apologies preserve distinct actors and changing conversation.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Forced praise, injury, property risk, head-target hurt, School227 restoration and unfinished race remain; fuel is not battery and projection is not Anna's confession.",
+        "own_new_Seminar_finite_result": "Compare accurate record, technical appraisal and wanted company with Seminar without moving Elina's thought to Anna or inventing race victory.",
+        "own_new_Seminar_stronger_claim_trigger": "A stronger shared-motive, safe-tank or restored-school claim needs actual actor attribution, inspected mechanism and completed relevant aftermath."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    },
+    {
+      "owner_id": "O104",
+      "purpose_id": "SP104",
+      "all_actual_received_five_new_target_fields": {
+        "own_new_Seminar_target_specific_question": "What do many brief ordinary encounters contribute without becoming a universal legal or care conclusion?",
+        "own_new_Seminar_positive_connected_meaning": "Gifts, cakes, broadcast, PS68 dinner after rescue or arrest, flower work, pudding play and Arata's refused harmful festival preserve specific wants and varied endings.",
+        "own_new_Seminar_countermeaning_and_rival_limit": "Coerced unpaid art, captive cooks, property and food abuse and pending promises remain; original30primary2analytical producer grade is not a fresh whole46 mini-roster admission.",
+        "own_new_Seminar_finite_result": "Use the exact32 report collection as differentiated comparison, with empty joins and unselected duties still open.",
+        "own_new_Seminar_stronger_claim_trigger": "Each stronger permission, compensation, legal result or identity claim requires the particular source and actual recipient aftermath, not collection breadth."
+      },
+      "ROOT_current_disposition": "ADOPT_CURRENT_SEMINAR_COMPARATIVE_QUESTION_AND_FINITE_RESULT_WITH_LIMITS_AT_REPORT_REUSE_GRADE",
+      "actual_personal_five_field_receiving_tool": "143001",
+      "source_or_attendance_transfer": false
+    }
+  ],
+  "root_source_receiving_actual_complete_record": {
+    "schema": "ROOT_SEMINAR_CURRENT_V5_ACTUAL_SELECTED_ALL10_CORE_SOURCE_RECEIVING_PROGRESS_V2",
+    "saved_actual_UTC": "2026-10-14T00:35:03.357683+00:00",
+    "source_custody_manifest": "private-witness:SEMINAR-OPAQUE-CONTROL-0006966/9ff50c5f8fc0995c607dfa4798cabfba81eab0c00b976d973e8efcc2ecce758a",
+    "complete_public_source10_role_metadata": "8ae722",
+    "all12_core_question_results": "572091; exact duplicate additional-five question results equality verified, five original core-role rows also complete",
+    "literal32_exact_citation_extent_inventory": "2bbf8d; not yet all32 whole paragraph-plus-source joining acceptance",
+    "actual_own_maintained_receiving": [
+      {
+        "source_id": "SC01",
+        "ranges": [
+          [
+            42,
+            161
+          ],
+          [
+            201,
+            226
+          ]
+        ],
+        "actual_calls": [
+          "8a11d6",
+          "22a0bc"
+        ],
+        "grade": "SELECTED_MAINTAINED_ARGUMENT_ONLY;NOT_WHOLE226"
+      },
+      {
+        "source_id": "SC06",
+        "ranges": [
+          [
+            1,
+            57
+          ]
+        ],
+        "actual_calls": [
+          "e7f7b7"
+        ],
+        "grade": "WHOLE_MAINTAINED_ANALYTICAL57;NO_PRIMARY_NATIVE_RAW_AV"
+      },
+      {
+        "source_id": "SC07",
+        "ranges": [
+          [
+            1,
+            31
+          ]
+        ],
+        "actual_calls": [
+          "213f2e"
+        ],
+        "grade": "WHOLE_MAINTAINED_ANALYTICAL31;NO_PRIMARY_NATIVE_RAW_AV"
+      },
+      {
+        "source_id": "SC08",
+        "ranges": [
+          [
+            74,
+            149
+          ]
+        ],
+        "actual_calls": [
+          "bb3bf4",
+          "818882"
+        ],
+        "grade": "SELECTED_MAINTAINED_ARGUMENT_ONLY;NOT_WHOLE149"
+      },
+      {
+        "source_id": "SC09",
+        "ranges": [
+          [
+            1,
+            37
+          ]
+        ],
+        "actual_calls": [
+          "568009"
+        ],
+        "grade": "WHOLE_MAINTAINED_ANALYTICAL37;NO_PRIMARY_NATIVE_RAW_AV"
+      },
+      {
+        "source_id": "SC10",
+        "ranges": [
+          [
+            1,
+            36
+          ]
+        ],
+        "actual_calls": [
+          "1b6d67"
+        ],
+        "grade": "WHOLE_MAINTAINED_ANALYTICAL36;NO_PRIMARY_NATIVE_RAW_AV"
+      },
+      {
+        "source_id": "O071",
+        "ranges": [
+          [
+            117,
+            135
+          ],
+          [
+            155,
+            169
+          ]
+        ],
+        "actual_calls": [
+          "da1629"
+        ],
+        "grade": "SELECTED_MAINTAINED_COMPARISON_ONLY;NOT_WHOLE203"
+      },
+      {
+        "source_id": "SC02",
+        "ranges": [
+          [
+            31,
+            109
+          ],
+          [
+            111,
+            183
+          ],
+          [
+            189,
+            201
+          ],
+          [
+            233,
+            253
+          ]
+        ],
+        "actual_calls": [
+          "4bb93d",
+          "75eebe",
+          "6e37c4"
+        ],
+        "grade": "SELECTED_MAINTAINED_CHARACTER_ARGUMENT_ONLY;NOT_WHOLE343"
+      },
+      {
+        "source_id": "SC03",
+        "ranges": [
+          [
+            33,
+            129
+          ],
+          [
+            149,
+            155
+          ]
+        ],
+        "actual_calls": [
+          "069dd4",
+          "001664"
+        ],
+        "grade": "SELECTED_MAINTAINED_CHARACTER_ARGUMENT_ONLY;NOT_WHOLE165"
+      },
+      {
+        "source_id": "SC04",
+        "ranges": [
+          [
+            35,
+            149
+          ],
+          [
+            181,
+            191
+          ]
+        ],
+        "actual_calls": [
+          "f1048c",
+          "179214"
+        ],
+        "grade": "SELECTED_MAINTAINED_CHARACTER_ARGUMENT_ONLY;NOT_WHOLE230"
+      },
+      {
+        "source_id": "SC05",
+        "ranges": [
+          [
+            36,
+            106
+          ],
+          [
+            108,
+            167
+          ]
+        ],
+        "actual_calls": [
+          "b4ff82",
+          "c5047c"
+        ],
+        "grade": "SELECTED_MAINTAINED_RELATIONSHIP_ARGUMENT_ONLY;NOT_WHOLE173"
+      }
+    ],
+    "current_manual_conclusions": [
+      "SC01 preserves quarterly practice as Yuuka report, differentiated soft-cement/novelty/payer criteria, curiosity and finite resources, prestigious exception and personal cost, actual shared construction and horoscope mismatch, qualified unoffered warning and hedged favorable titanium coda. No forecasting model or misappropriation finding.",
+      "SC06 recall/release declaration is earlier than corroborated solve in SC07; proposed excavation versus performed demolition and further Koyuki assignment/refusal remain distinct. No legal confinement certificate or inspected exclusive cipher capacity.",
+      "SC09 keeps competing Noa/Yuuka safety assessments under actor drift; access is not control and Rio surveillance is not verified. SC10 timely C&C arrival/started clearing and prior Noa/Seia dispatch support practical coordination; completed rescue/evacuation/prophecy remain unshown.",
+      "SC08 retains gift acceptance/game and ordinary pleasure, specific local apologies, unconsented bodily/information burdens, different mixing/permission actors, privacy-protected unpleasant drink burden, actual cleanup/sleep, local maintenance and ongoing imposed next-afternoon filing. Afterstories revisit the night; no global chronology or retrospective all-method consent.",
+      "O071 complete cited paragraphs confirm Saki food/body/bed-sharing objections survive actual enjoyable fish party and later delivered shrimp/barbecue; storage, legal custody and school repair remain open. Corrected SP071 is supported."
+    ],
+    "source_SC02_SC03_SC04_SC05_personal_necessary_passage_receiving": "COMPLETE_SELECTED_CITED_CORE_PASSAGES_AT_DECLARED_RANGES;no whole producer scope transfer",
+    "remaining_ROOT_complete_literary_joins_QA_adoption": "PENDING_COMPLETE32_LITERAL_JOINS_ENDS_GAPS_AND_CURRENT_COMPLETE_COMPONENT_QA_RECEIVING",
+    "all105_new_fivefield_receiving": "Complete67427a progress4780/4a1df5cd...; no fresh underlying105 source replay",
+    "source_admission_primary_native_raw_AV_identity_model_package_credit": 0,
+    "R_Git_provider_shared_metadata_mutations": 0,
+    "protected39_or9UNBOUND_body_hash_reads": 0,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "merge_approval": "RESERVED",
+    "manual_current_four_new_core_conclusions": [
+      "SC02 confirms separately valued mathematics/play/gift/home/rest, temporary public reprieve, reported funding restriction/personal cost, hedged titanium outcome, privacy-holding choice and actual drink burden, replacement nap labor and imposed unfinished filing. Public competence and recipient-specific costs remain jointly meaningful, with no perfected administrator or unqualified disclosure.",
+      "SC03 confirms selected recording and own diary/plain tastes/poetry, explicit denied stopping/GPS objections and reported federal tail, quiet failed fit/recognition, accepted local food/reading/sleep, limited dispatch and competing safety judgments. Noa suspicion is qualified, helper agency differs, and specific apologies do not close all recipients costs.",
+      "SC04 confirms wanted meaningful work/company/objects, clover local callback and varied play endpoints, affiliation versus technicalClubNone, release declaration/corroborated solve/further duty refusal, gift acceptance alongside confinement and continued work. Constrained return preference is not freely chosen past custody; resource/privacy costs and her own bodily refusals both survive.",
+      "SC05 confirms directed Noa/Yuuka affection/work/help/information asymmetry and independent preferences, exact local chronology and seven actor seams, qualified nonwarning, hedged favorable coda, recorder removal versus disclosed-answer burden, continuing pleasure versus uncompleted repair, all14claim-specific gaps and source-grade boundaries. Historical ROOT receiving strings are attributed to prior writer/adoption, not this new selected pass."
+    ],
+    "prior_progress_preserved": {
+      "path": "private-witness:SEMINAR-ROOT-PRIOR-SOURCE-RECEIVING-PROGRESS",
+      "bytes": 4658,
+      "sha256": "bdfa83cb46cfc1fe9c86df3f09c050f5fb4cd2905feea791c4ea51e75ed25083"
+    }
+  },
+  "root_source_grade": "FOUR_WHOLE_SMALL_MAINTAINED_FINAL_ANALYTICAL_ARGUMENTS_SC06_SC07_SC09_SC10;SIX_NECESSARY_SELECTED_MAINTAINED_ARGUMENTS_SC01_SC02_SC03_SC04_SC05_SC08;AUTHOR_SIX_WHOLE_NORMALS_FOUR_WHOLE_SPECIALISTS_REMAIN_ATTRIBUTED",
+  "source_report_reuse": "Original common105 complete reports/26whole79selected/original objects and ROOT decisions preserved and reused. No fresh105 normal, primary/private/native/raw/AV transfer or council attendance",
+  "current_source_precision": "SP071 preserves Saki food/body refusals with fish-party pleasure; SP094 Miyo wanted novels/denied Teacher reading vs Ritsu sculpture/materials/cake. Three scalar changes/two owners leave103 other rows/522 fields exact. V5 only corrects count wording and required typed pins",
+  "independent_QA": {
+    "private-witness:SEMINAR-ROOT-ORIGINAL-QA-KEY-00": {
+      "bytes": 319911,
+      "sha256": "b7e84f105cdf85b2c73f91f025450591538bc334c331041cd13a0c3126c1af38",
+      "git_blob_oid_of_actual_bytes": "7d6dbfb952a951aa7256066a3d4804c2fcfe9503"
+    },
+    "private-witness:SEMINAR-ROOT-ORIGINAL-QA-KEY-01": {
+      "bytes": 768822,
+      "sha256": "e3884be7dc74cb1edbe244077990619c7364e98a4c898d61e9f794a688a206b5",
+      "git_blob_oid_of_actual_bytes": "eeeadd271d483b317dd39736ee884d2eb8ebb361"
+    },
+    "private-witness:SEMINAR-ROOT-ORIGINAL-QA-KEY-02": {
+      "bytes": 32470,
+      "sha256": "1bae942e6f3c4730e7836cb31c2e6cf7076ec5a791b39f3ddad38720f39d6451",
+      "git_blob_oid_of_actual_bytes": "96d5da6687981f9dcd095becf7f458a93919b1b9"
+    },
+    "INDEPENDENT_SEMINAR_CURRENT_V4_LATE_UNAFFECTED_ROW_COUNT_PRECISION_AND_PRIOR_QA_SCOPE_QUALIFIER_V1.json": {
+      "bytes": 2106,
+      "sha256": "c1e8580a4750fcb2b33cfd909e05508445682f6f97472ba6aa5d75f1b63f8f22",
+      "git_blob_oid_of_actual_bytes": "d4abfa5893f3824387835e216a13984cbf84d2f0"
+    }
+  },
+  "ROOT_independent_QA_personal_receiving": "2ddfb4 full scopes/current verdicts;38fa42 selected-source precision complete;49c80c SP000–054 and54a6fa SP055–104 full distinct reasons matched to current fields;2acead all32 manual reasons visible complete prefix, middle redundant rival duplication clipped and no whole-output credit;f756b8 full12 core results/16 endpoint judgments/exact disclosed source scopes. V4 3736-check original-envelope gate remains independently attributed, not ROOT replay",
+  "own_actual_current8_raw_recovery": "e779c2 ROOT executes all8 complete V5→V4 raw inverse/forward, four noops and fifteen required scalar changes; no semantic credit from mechanical guard",
+  "bounded_receiving_failures_and_repairs": "e8d0cd V1 stopped before paragraphs because a nonuniform comparative-ref field was incorrectly factored and paragraph/full-line equivalence wrongly assumed. d0ddc4/724ec0 inspected schema; V2/V3 factor only proven shared fields and verify actual full saved body lines/part pointers. e1b7e3 output clipped only in redundant body reconstruction, no whole-output claim. Previous whole body and four current paragraph batches control actual coverage",
+  "required_dimensions15": [
+    {
+      "dimension": "Formal authority",
+      "claim_id": "SEM004"
+    },
+    {
+      "dimension": "Practical authority",
+      "claim_id": "SEM005"
+    },
+    {
+      "dimension": "Legitimacy",
+      "claim_id": "SEM006"
+    },
+    {
+      "dimension": "Resource control",
+      "claim_id": "SEM007"
+    },
+    {
+      "dimension": "Armed capacity",
+      "claim_id": "SEM008"
+    },
+    {
+      "dimension": "Internal differences and factions",
+      "claim_id": "SEM009"
+    },
+    {
+      "dimension": "Norms and rituals",
+      "claim_id": "SEM010"
+    },
+    {
+      "dimension": "Membership and belonging",
+      "claim_id": "SEM011"
+    },
+    {
+      "dimension": "Conflict resolution",
+      "claim_id": "SEM012"
+    },
+    {
+      "dimension": "Relation to Sensei and Schale",
+      "claim_id": "SEM013"
+    },
+    {
+      "dimension": "Other clubs and cross-school relations",
+      "claim_id": "SEM014"
+    },
+    {
+      "dimension": "Treatment of dissent",
+      "claim_id": "SEM015"
+    },
+    {
+      "dimension": "Institutional memory and information",
+      "claim_id": "SEM016"
+    },
+    {
+      "dimension": "Crisis behavior",
+      "claim_id": "SEM017"
+    },
+    {
+      "dimension": "Stated purpose and actual function",
+      "claim_id": "SEM018"
+    }
+  ],
+  "rivals8": [
+    {
+      "title": "R1 — uniformly rational allocation",
+      "claim_id": "SEM025"
+    },
+    {
+      "title": "R2 — private greed explains the whole council",
+      "claim_id": "SEM026"
+    },
+    {
+      "title": "R3 — benevolent care authorizes discipline",
+      "claim_id": "SEM027"
+    },
+    {
+      "title": "R4 — Noa’s neutrality is complete knowledge",
+      "claim_id": "SEM028"
+    },
+    {
+      "title": "R5 — talent creates indefinite availability",
+      "claim_id": "SEM029"
+    },
+    {
+      "title": "R6 — continuing company completes repair",
+      "claim_id": "SEM030"
+    },
+    {
+      "title": "R7 — the crisis finishes an ethical development ladder",
+      "claim_id": "SEM031"
+    },
+    {
+      "title": "R8 — comedy makes cost and quiet wants disposable",
+      "claim_id": "SEM032"
+    }
+  ],
+  "finite_retrospective_endpoints16": [
+    {
+      "id": "E01",
+      "title": "Meeting criteria",
+      "finite_result": "Quarterly review and refusals represented; no complete charter/accounts.",
+      "source_ids": "SC01",
+      "locators": "3101u0002–0008;G31L90"
+    },
+    {
+      "id": "E02",
+      "title": "Reduced-pain cement",
+      "finite_result": "Wanted daily use and missing load demonstration; no tested construction.",
+      "source_ids": "SC01",
+      "locators": "3101u0009–0024;G31L92"
+    },
+    {
+      "id": "E03",
+      "title": "Individual invention",
+      "finite_result": "Novelty refusal, no fired duster or C&C collective application.",
+      "source_ids": "SC01",
+      "locators": "3101u0025–0046;G31L94"
+    },
+    {
+      "id": "E04",
+      "title": "Game income",
+      "finite_result": "Premature refusal plus unanswered payer; no operating economy.",
+      "source_ids": "SC01",
+      "locators": "3101u0048–0063;G31L96"
+    },
+    {
+      "id": "E05",
+      "title": "Curiosity and money",
+      "finite_result": "Future value defended, immediate funds finite; no guarantee of either maximal utility or free funding.",
+      "source_ids": "SC01",
+      "locators": "3101u0065–0079;G31L100–102"
+    },
+    {
+      "id": "E06",
+      "title": "Prestigious blueprint",
+      "finite_result": "Design considered with omissions and reports; no built/validated forecast yet.",
+      "source_ids": "SC01",
+      "locators": "3102u0001–0038;G31L108–114"
+    },
+    {
+      "id": "E07",
+      "title": "Personal expense",
+      "finite_result": "Volunteered then narrated cost; favorable outcome hedged, no treasury theft/audited return.",
+      "source_ids": "SC01",
+      "locators": "3102u0039–0050;3103u0078–0079"
+    },
+    {
+      "id": "E08",
+      "title": "Shared making",
+      "finite_result": "Build and gratitude achieved; no full informational transparency.",
+      "source_ids": "SC01",
+      "locators": "3103u0006–0013;G31L122/134"
+    },
+    {
+      "id": "E09",
+      "title": "Horoscope output",
+      "finite_result": "Requested price path differs from horoscope/lucky item; no calibration or causation assay.",
+      "source_ids": "SC01",
+      "locators": "3103u0026–0036;G31L126–140"
+    },
+    {
+      "id": "E10",
+      "title": "Private disclosure",
+      "finite_result": "Actual withholding and unpleasant drinking; no full confession/toxicology.",
+      "source_ids": "SC08",
+      "locators": "E842014u0058–0086;L119"
+    },
+    {
+      "id": "E11",
+      "title": "Gift and confinement",
+      "finite_result": "Fitting gift actually accepted; nonrelease stays explicit.",
+      "source_ids": "SC08",
+      "locators": "E842003u0005–0024/004u0049–0066/005u0014–0024"
+    },
+    {
+      "id": "E12",
+      "title": "Games and rest",
+      "finite_result": "Actual joined play/cleanup/sleep; no lasting cure or universally welcome methods.",
+      "source_ids": "SC08",
+      "locators": "E842009u0052–0094/010u0068–0070"
+    },
+    {
+      "id": "E13",
+      "title": "Filing",
+      "finite_result": "Work ongoing under refusal-to-release; no completed submission/compensation/universal assent.",
+      "source_ids": "SC08",
+      "locators": "E842010u0072–0088;L109"
+    },
+    {
+      "id": "E14",
+      "title": "Cipher",
+      "finite_result": "Recall precedes corroborated solve and further-duty protest; no exclusive talent/code log.",
+      "source_ids": "SC06/SC07",
+      "locators": "FinalC2E004s2u0002–0045;E017s1u0001–0018"
+    },
+    {
+      "id": "E15",
+      "title": "Safety ranking",
+      "finite_result": "Reported delegation under competing assessments; no Rio surveillance proof/safe-ship guarantee.",
+      "source_ids": "SC09",
+      "locators": "FinalC3E006u0014–0047;L22"
+    },
+    {
+      "id": "E16",
+      "title": "Reinforcements",
+      "finite_result": "Early departure report and actual arrival; clearing begun, evacuation/medical clearance unprinted.",
+      "source_ids": "SC10",
+      "locators": "FinalC4E005u0036–0066;L24"
+    }
+  ],
+  "original_OPEN_gaps14": [
+    {
+      "id": "G01",
+      "title": "Ordinary/private breadth",
+      "status": "OPEN",
+      "scoped_limit": "Quiet wants are substantive; ten core carriers and report comparisons do not exhaust all cast/private families."
+    },
+    {
+      "id": "G02",
+      "title": "Council decision transfer",
+      "status": "OPEN",
+      "scoped_limit": "This literary responsibility compares standards and recipients; no validated transferable mechanism or completed model."
+    },
+    {
+      "id": "G03",
+      "title": "Serika service",
+      "status": "OPEN",
+      "scoped_limit": "No Serika-specific wages, service or aftermath is completed by analogy."
+    },
+    {
+      "id": "G04",
+      "title": "Hina coercion/accountability",
+      "status": "OPEN",
+      "scoped_limit": "Cross-school comparisons do not replace Hina’s own harms, authority or remedies."
+    },
+    {
+      "id": "G05",
+      "title": "Arius/PS68 aftermath",
+      "status": "OPEN",
+      "scoped_limit": "Other people’s livelihood, legal/medical and private aftermath remain their own duties."
+    },
+    {
+      "id": "G06",
+      "title": "Cross-school ordinary breadth",
+      "status": "OPEN",
+      "scoped_limit": "No whole-school prevalence or complete ordinary corpus from these cases."
+    },
+    {
+      "id": "G07",
+      "title": "Chronology",
+      "status": "OPEN",
+      "scoped_limit": "Local order retained; no global event/private/MAIN or variant calendar."
+    },
+    {
+      "id": "G08",
+      "title": "Titles/repeats",
+      "status": "OPEN",
+      "scoped_limit": "Source classes/objects/afterstories retained; no fused celebration or enacted repeated UI encounter."
+    },
+    {
+      "id": "G09",
+      "title": "Attribution/choices",
+      "status": "OPEN",
+      "scoped_limit": "Clean acts and qualified report modes retained; no universal actor repair or executed all-choice route."
+    },
+    {
+      "id": "G10",
+      "title": "Performed voice",
+      "status": "OPEN",
+      "scoped_limit": "Written sources only; no audio, acting, timing, animation or pixels."
+    },
+    {
+      "id": "G11",
+      "title": "Hoshino/Yume records",
+      "status": "OPEN",
+      "scoped_limit": "No authenticated records, office continuity or death-causality conclusion."
+    },
+    {
+      "id": "G12",
+      "title": "Identity/system",
+      "status": "OPEN",
+      "scoped_limit": "Source-local A417 and device output remain unjoined; no private/global identity transfer or sentience."
+    },
+    {
+      "id": "G13",
+      "title": "Institutional/technical/clinical outcomes",
+      "status": "OPEN",
+      "scoped_limit": "Charter, lawful custody, full accounts, compensation, restored privacy, clinical recovery and durable security remain unproved."
+    },
+    {
+      "id": "G14",
+      "title": "Modes/outside-selection continuity",
+      "status": "OPEN",
+      "scoped_limit": "Outside-selection and unclassified routes retain duties and triggers; no unread-body assimilation or exclusion."
+    }
+  ],
+  "progress_bindings": {
+    "ROOT_SEMINAR_CURRENT_V5_COMPLETE105_PERSONAL_TARGET_MEANING_RECEIVING_PROGRESS_20261014_V1.json": {
+      "bytes": 4780,
+      "sha256": "4a1df5cd42628c183fe4da4cc5d38893d30267d8b168e63f4a34cb3d61dfd457",
+      "git_blob_oid_of_actual_bytes": "3d31b60334f7e297475e5915233f494886643afd"
+    },
+    "ROOT_SEMINAR_CURRENT_V5_ACTUAL_SELECTED_ALL10_CORE_SOURCE_RECEIVING_PROGRESS_20261014_V2.json": {
+      "bytes": 8202,
+      "sha256": "5f5b70c432eb6355f53acd5227fa049ea5362b06f320e3ec0b729c0eb17a6ab2",
+      "git_blob_oid_of_actual_bytes": "7c31b4350d1086487187a62444568c1ca2073f26"
+    },
+    "ROOT_SEMINAR_CURRENT_V5_ACTUAL_ALL8_RAW_V4_RECOVERY_AND_NOOP_PRESERVATION_20261014_V1.json": {
+      "bytes": 6401,
+      "sha256": "6d3e2d8036d938d95af4bd0fdda5443ded7900558d08b0f226f4e2444c101842",
+      "git_blob_oid_of_actual_bytes": "f29e6a37c04256539916dfd55400c7dba51583ea"
+    }
+  },
+  "ordinary_value": "Calculation, poetry, chosen games/clothing/objects, tastes, sunlight/company and actual rest remain intrinsic rather than crisis/productivity filters",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "scope355_29_25_384_788": "UNCHANGED",
+  "published_required_packages": 142,
+  "published_named_duties": 16,
+  "main_required_packages": 133,
+  "main_named_duties": 13,
+  "canonical_install_publication_or_runtime_credit_from_this_C_record": 0,
+  "prepared_completion_after_verified_install": "One existing required Seminar institutional home, no named home. Does not advance count before real persistence",
+  "R_Git_provider_shared_metadata_mutations": 0,
+  "merge_approval": "RESERVED",
+  "next_required_step": "C-only public composition with exact author beforeimages/current metadata qualification and full raw recovery; distinct QA and ROOT composed-byte adoption before reviewed R installation.",
+  "current_public_composition_body_metadata_only_qualification_V1": {
+    "complete_original185958_role": "Actual ROOT complete32/new105/source10 manual adoption remains exact dated semantic decision, authorV5 originalbody and all grades retained. One executor path replaced by opaque custody evidence; full raw/object inverse retained privately.",
+    "original_author_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 34184,
+      "sha256": "04b18aa48df7c22e0979b9d79027dca8bc6e58b698335b406f6fa152db603cb6",
+      "git_blob_oid_of_actual_bytes": "81707629a723710bef46f60a1cfe694ca2ec1e80"
+    },
+    "current_public_body": {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 34192,
+      "sha256": "c6d421ecbe025d51e15dcd6cd97642c3b97093f7979a2c1d76c68fece42e3de1",
+      "git_blob_oid_of_actual_bytes": "de006eb0d16792374fdc085b854e2064b2134b0e"
+    },
+    "only_body_operations": [
+      {
+        "physical_line": 8,
+        "before": "review_state: AUTHOR_DRAFT_ROOT_AND_DIFFERENT_AUTHOR_RECEIVING_PENDING",
+        "after": "review_state: ROOT_ACCEPTED_WITH_LIMITS_INDEPENDENT_COMPONENT_REVIEW_COMPLETE",
+        "gate": "Actual signed ROOT complete semantic adoption and existing current QA, exact fullbody/rawinverse and different-author composition QA; prepared state alone cannot activate."
+      },
+      {
+        "physical_line": 9,
+        "before": "do_not_use_as_current_authority: true",
+        "after": "do_not_use_as_current_authority: false",
+        "gate": "Same actual adoption gate. No change to active_provisional assessedgrade,32 argument paragraphs,15dimensions/8rivals16ends14OPEN or source/identity/model limits."
+      }
+    ],
+    "current_authority": "ADOPT_COMPLETE_CURRENT_WRITTEN_INSTITUTION_ARGUMENT_WITH_LIMITS_FOR_SEPARATE_PUBLIC_COMPOSITION_REVIEW_INSTALLATION_AND_PUBLICATION",
+    "source_grades": "ROOT four whole small Final arguments and six selected maintained arguments; author whole10 and original10526whole79selected remain attributed. No new source/native/primary reading by public adapter.",
+    "installation_publication_runtime_MAIN": "NOT_INSTALLED_NOT_PUBLISHED_NOT_NEWHEAD_VALIDATED; source142/named16 and MAIN133/named13 remain ROOT recorded dated snapshots, not credit from this composition.",
+    "current_composition_review": "PENDING_DISTINCT_AUTHOR;ROOT_sole_install_publication_writer"
+  },
+  "current_complete_executor_token_opacity_qualification_V4": {
+    "schema": "SEMINAR_COMPLETE_FINITE_EXECUTOR_TOKEN_ONLY_OPACITY_CURRENT_DERIVATIVE_SCOPE_V1",
+    "role": "Only declared executor-address token spans and three ordered ROOT QA label keys become opaque. The rest of each original check identity/reason/pass/grade/tuple string or value stays exact; source/core/body32/purpose105 meaning is unchanged. Full currentV3 and original review/ROOT raw inverses remain private.",
+    "finite_inventory_evidence": {
+      "evidence_id": "private-witness:SEMINAR-COMPLETE14-DELIVERY-SCALAR-AND-KEY-INVENTORY",
+      "bytes": 45993,
+      "sha256": "d00964a6d6c8d5223e8a49af013ea353b56ad860657e839e5fb4607adab41125",
+      "git_blob_oid_of_actual_bytes": "e22350a4d148d1937969644062f1fd95909ec065"
+    },
+    "new_literary_source_primary_native_raw_AV_ROOT_adoption_or_count_credit": 0,
+    "original_tuples_role": "All original QA/ROOT tuple objects remain dated source witnesses. Current path-only public file tuples are separately routed in control/custody; no historical hash silently rebound."
+  }
+}

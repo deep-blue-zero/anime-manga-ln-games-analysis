@@ -1,0 +1,1926 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_COMPONENTS_WITH_RETAINED_PRINCIPAL_DISPOSITIONS_V1",
+  "source_id": "MAIN-06",
+  "accepted_utc": "2026-10-19T10:06:54.861629+00:00",
+  "status": "ACCEPTED_AT_STATED_SCOPES_CONTAINING_PUBLICATION_PENDING",
+  "native_bytes": 2529639,
+  "native_sha256": "279f8c714aefe7eb492561bc8c6a91ae293297158d6cb50734840f5482439f0a",
+  "text_resources": [
+    {
+      "component_id": "MAIN-06-U001",
+      "member": "item/xhtml/p-cover.xhtml",
+      "member_sha256": "52b717f0ec23ca3cc46e45a1a9433074eb95283955a3fa98ef7b83f1b9405987",
+      "bytes": 939,
+      "native_spine_order": 1,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG001"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COVER_WRAPPER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U001",
+          "native_member": "item/xhtml/p-cover.xhtml",
+          "native_member_sha256": "52b717f0ec23ca3cc46e45a1a9433074eb95283955a3fa98ef7b83f1b9405987",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.148120+00:00",
+          "source_first_notes": "Cover wrapper/residual received; zero prose slots. Cover image must be viewed separately; packaging does not establish a new event.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U002",
+      "member": "item/xhtml/p-fmatter-001.xhtml",
+      "member_sha256": "daf68e79f34906404c55bf9b7edbcbd4adfeb67783b7e9aa31eb35031631278f",
+      "bytes": 926,
+      "native_spine_order": 2,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG004"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "REPEATED_CROPPED_COVER_FRONTMATTER",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U002",
+          "native_member": "item/xhtml/p-fmatter-001.xhtml",
+          "native_member_sha256": "daf68e79f34906404c55bf9b7edbcbd4adfeb67783b7e9aa31eb35031631278f",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.149112+00:00",
+          "source_first_notes": "Zero-paragraph cropped-cover frontmatter wrapper and complete residual received; image stage and reused cover pose are separate from an event.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U003",
+      "member": "item/xhtml/p-fmatter-002.xhtml",
+      "member_sha256": "0f3ae8841317aee93f3e2091c12395c87fa10feabf9d010866e224836c032677",
+      "bytes": 926,
+      "native_spine_order": 3,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG005"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_PARTY_PREPARATION_COMPOSITE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U003",
+          "native_member": "item/xhtml/p-fmatter-002.xhtml",
+          "native_member_sha256": "0f3ae8841317aee93f3e2091c12395c87fa10feabf9d010866e224836c032677",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.149608+00:00",
+          "source_first_notes": "Zero-paragraph color party-preparation composition wrapper/residual received. Separate quoted plans, possible actual echoes and staged layout; no new performed party sequence from wrapper alone.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U004",
+      "member": "item/xhtml/p-fmatter-003.xhtml",
+      "member_sha256": "da54d62a31ce4394475fad69d631a2091f254b3215003273c90d97f817db9acc",
+      "bytes": 926,
+      "native_spine_order": 4,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG006"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_IRIS_COMPOSITE_WITH_MEDIATED_AND_DIRECT_QUOTATIONS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U004",
+          "native_member": "item/xhtml/p-fmatter-003.xhtml",
+          "native_member_sha256": "da54d62a31ce4394475fad69d631a2091f254b3215003273c90d97f817db9acc",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.151096+00:00",
+          "source_first_notes": "Zero-paragraph Iris-centered frontmatter wrapper/residual received. Combined quotes and game-controller art require separate speaker/object/source-plane checks; not a fresh direct trial.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U005",
+      "member": "item/xhtml/p-fmatter-004.xhtml",
+      "member_sha256": "06a1e7b431cc6d2a541a4416d981243a8b34cf3eac6f049604b634d0836552c5",
+      "bytes": 926,
+      "native_spine_order": 5,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG007"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOR_CHRIS_ERIS_IRIS_COMPOSITE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U005",
+          "native_member": "item/xhtml/p-fmatter-004.xhtml",
+          "native_member_sha256": "06a1e7b431cc6d2a541a4416d981243a8b34cf3eac6f049604b634d0836552c5",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.152100+00:00",
+          "source_first_notes": "Zero-paragraph Chris/Eris/Iris front composition wrapper/residual received. Labels and displayed requests do not by themselves establish what any character knows about identity or a new actual outing.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U006",
+      "member": "item/xhtml/p-fmatter-005.xhtml",
+      "member_sha256": "93fe06edd6239135edb94809945f9c0b614af8a92ea50448ef218e56d73a0d73",
+      "bytes": 926,
+      "native_spine_order": 6,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG008"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_CONTENTS_PRINT_LOCATORS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U006",
+          "native_member": "item/xhtml/p-fmatter-005.xhtml",
+          "native_member_sha256": "93fe06edd6239135edb94809945f9c0b614af8a92ea50448ef218e56d73a0d73",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.153100+00:00",
+          "source_first_notes": "Zero-paragraph color contents wrapper/residual received. Raster print-page labels and decorative chibi actors remain navigation and framing.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U007",
+      "member": "item/xhtml/p-titlepage.xhtml",
+      "member_sha256": "292ba5f527f10b5d485cdf5451eea06f9f399370acb12e7e2e334c7b36ad7be2",
+      "bytes": 1639,
+      "native_spine_order": 7,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 5,
+      "nonempty_paragraphs": 4,
+      "base_characters": 34,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "TITLE_IMPRINT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 5,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U007",
+          "native_member": "item/xhtml/p-titlepage.xhtml",
+          "native_member_sha256": "292ba5f527f10b5d485cdf5451eea06f9f399370acb12e7e2e334c7b36ad7be2",
+          "start_P": 1,
+          "end_P": 5,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.154094+00:00",
+          "source_first_notes": "All5title slots/ruby/residual received: volume6, subtitle六花の王女,author/imprint. The source object is the supplied edition; bibliographic metadata is not fictional dialogue.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U008",
+      "member": "item/xhtml/p-caution.xhtml",
+      "member_sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+      "bytes": 2933,
+      "native_spine_order": 8,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 6,
+      "nonempty_paragraphs": 5,
+      "base_characters": 245,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "RIGHTS_AND_ELECTRONIC_NOTICE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 6,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U008",
+          "native_member": "item/xhtml/p-caution.xhtml",
+          "native_member_sha256": "60cd884a27555eaed461252881c69b1176ae4ff16061aa82450e9fa3dadf912b",
+          "start_P": 1,
+          "end_P": 6,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.154590+00:00",
+          "source_first_notes": "All6rights/layout/caution slots and residual received as publisher paratext. Their legal or display statements are document content, not analysis instructions or diegetic testimony.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U009",
+      "member": "item/xhtml/p-toc-001.xhtml",
+      "member_sha256": "e137a6054a37a001d2cc0e7f7a8c85f71cce470d2228515acd59e046b8ed4a0e",
+      "bytes": 2881,
+      "native_spine_order": 9,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 14,
+      "nonempty_paragraphs": 12,
+      "base_characters": 174,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "TEXTUAL_CONTENTS_NO_SEPARATE_BONUS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 14,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U009",
+          "native_member": "item/xhtml/p-toc-001.xhtml",
+          "native_member_sha256": "e137a6054a37a001d2cc0e7f7a8c85f71cce470d2228515acd59e046b8ed4a0e",
+          "start_P": 1,
+          "end_P": 14,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.155582+00:00",
+          "source_first_notes": "All14contents slots/residual received: prologue,fivechapters,finale,interlude,twoepilogues,afterword. No separately listed prose bonus. The interlude about a greedy noble/broken devil and the two epilogues retain separate roles.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U010",
+      "member": "item/xhtml/p-001.xhtml",
+      "member_sha256": "e38b68013a0ea15f07335f88a99a7002e952d87a155aa5064ec111c02b8cd7e2",
+      "bytes": 923,
+      "native_spine_order": 10,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG009"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "RASTER_EDITION_CHARACTER_PROFILE",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U010",
+          "native_member": "item/xhtml/p-001.xhtml",
+          "native_member_sha256": "e38b68013a0ea15f07335f88a99a7002e952d87a155aa5064ec111c02b8cd7e2",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.156574+00:00",
+          "source_first_notes": "Zero-paragraph character-profile wrapper/residual received; raster separately actually viewed. Printed Iris12,Chris15? and other age/job data require their explicit edition/provisional status, not a new character trial.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U011",
+      "member": "item/xhtml/p-002.xhtml",
+      "member_sha256": "4c0dda5f959a842535151fc020e520fc5cd83a87707862283e94b3286225d3a9",
+      "bytes": 6228,
+      "native_spine_order": 11,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 20,
+      "nonempty_paragraphs": 17,
+      "base_characters": 377,
+      "ruby_count": 8,
+      "image_ids": [
+        "MAIN-06-IMG022"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U011",
+        "metadata_plan_id": "MAIN06-EDITION-U011",
+        "native_member": "item/xhtml/p-002.xhtml",
+        "sha256": "4c0dda5f959a842535151fc020e520fc5cd83a87707862283e94b3286225d3a9",
+        "accepted_principal_contract_exact": {
+          "alias": "Pr / start",
+          "paragraph_slots": 20,
+          "member_sha256": "4c0dda5f959a842535151fc020e520fc5cd83a87707862283e94b3286225d3a9"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U012",
+      "member": "item/xhtml/p-003.xhtml",
+      "member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+      "bytes": 387673,
+      "native_spine_order": 12,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 679,
+      "nonempty_paragraphs": 635,
+      "base_characters": 25379,
+      "ruby_count": 669,
+      "image_ids": [
+        "MAIN-06-IMG023",
+        "MAIN-06-IMG010",
+        "MAIN-06-IMG011"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U012",
+        "metadata_plan_id": "MAIN06-EDITION-U012",
+        "native_member": "item/xhtml/p-003.xhtml",
+        "sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45",
+        "accepted_principal_contract_exact": {
+          "alias": "C1 / start",
+          "paragraph_slots": 679,
+          "member_sha256": "d512140474abc121565cc7ac9a800dfe7f6af2205ec79000e5776128f77e9d45"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U013",
+      "member": "item/xhtml/p-004.xhtml",
+      "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+      "bytes": 374623,
+      "native_spine_order": 13,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 640,
+      "nonempty_paragraphs": 600,
+      "base_characters": 25666,
+      "ruby_count": 656,
+      "image_ids": [
+        "MAIN-06-IMG024",
+        "MAIN-06-IMG012",
+        "MAIN-06-IMG013"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U013",
+        "metadata_plan_id": "MAIN06-EDITION-U013",
+        "native_member": "item/xhtml/p-004.xhtml",
+        "sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585",
+        "accepted_principal_contract_exact": {
+          "alias": "C2 / start",
+          "paragraph_slots": 640,
+          "member_sha256": "0091b247031f484548d7ecc8c7364c81cf6f8ea098e3edd108112fccd382c585"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+      "bytes": 323267,
+      "native_spine_order": 14,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 614,
+      "nonempty_paragraphs": 574,
+      "base_characters": 21277,
+      "ruby_count": 553,
+      "image_ids": [
+        "MAIN-06-IMG025",
+        "MAIN-06-IMG014",
+        "MAIN-06-IMG015"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U014",
+        "metadata_plan_id": "MAIN06-EDITION-U014",
+        "native_member": "item/xhtml/p-005.xhtml",
+        "sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c",
+        "accepted_principal_contract_exact": {
+          "alias": "C3 / start",
+          "paragraph_slots": 614,
+          "member_sha256": "609f68d62bd334308e3074b110bd7dcd7bbcd85514695eae1275cfe6b9b36a5c"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U015",
+      "member": "item/xhtml/p-006.xhtml",
+      "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+      "bytes": 365011,
+      "native_spine_order": 15,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 637,
+      "nonempty_paragraphs": 598,
+      "base_characters": 25221,
+      "ruby_count": 609,
+      "image_ids": [
+        "MAIN-06-IMG026",
+        "MAIN-06-IMG016"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U015",
+        "metadata_plan_id": "MAIN06-EDITION-U015",
+        "native_member": "item/xhtml/p-006.xhtml",
+        "sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5",
+        "accepted_principal_contract_exact": {
+          "alias": "C4 / start",
+          "paragraph_slots": 637,
+          "member_sha256": "30e532224ed103494180481b7b2b913413d3a23e61b59b91a94e0fd1dfb43bd5"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U016",
+      "member": "item/xhtml/p-007.xhtml",
+      "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39",
+      "bytes": 223683,
+      "native_spine_order": 16,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 431,
+      "nonempty_paragraphs": 406,
+      "base_characters": 13884,
+      "ruby_count": 381,
+      "image_ids": [
+        "MAIN-06-IMG027"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U016",
+        "metadata_plan_id": "MAIN06-EDITION-U016",
+        "native_member": "item/xhtml/p-007.xhtml",
+        "sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39",
+        "accepted_principal_contract_exact": {
+          "alias": "C5_start / start",
+          "paragraph_slots": 431,
+          "member_sha256": "61363480867030a6233ee1975f43afd442ea88adea60e15cbe989e8a5706cd39"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U017",
+      "member": "item/xhtml/p-008.xhtml",
+      "member_sha256": "cc7e90959dd1a3b45aac3891f1612893cf4e998c163e22e8ac38b32df906d5a7",
+      "bytes": 923,
+      "native_spine_order": 17,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG017"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "IMAGE_ONLY_EMBEDDED_MASKED_HEIST_COMPOSITION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U017",
+          "native_member": "item/xhtml/p-008.xhtml",
+          "native_member_sha256": "cc7e90959dd1a3b45aac3891f1612893cf4e998c163e22e8ac38b32df906d5a7",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.157070+00:00",
+          "source_first_notes": "Zero-paragraph embedded heist image wrapper and residual received. Mask, actor/mind and facing characters require accepted-native joins; image composition is not a second heist or proof of actual Vanir presence.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U018",
+      "member": "item/xhtml/p-009.xhtml",
+      "member_sha256": "e713a9177d9ced97e22623cd6b2f2be9e2ad8682c0b5e106f86e185b2e4175e3",
+      "bytes": 4937,
+      "native_spine_order": 18,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 12,
+      "nonempty_paragraphs": 11,
+      "base_characters": 307,
+      "ruby_count": 6,
+      "image_ids": [],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U018",
+        "metadata_plan_id": "MAIN06-EDITION-U018",
+        "native_member": "item/xhtml/p-009.xhtml",
+        "sha256": "e713a9177d9ced97e22623cd6b2f2be9e2ad8682c0b5e106f86e185b2e4175e3",
+        "accepted_principal_contract_exact": {
+          "alias": "C5 / continuation",
+          "paragraph_slots": 12,
+          "member_sha256": "e713a9177d9ced97e22623cd6b2f2be9e2ad8682c0b5e106f86e185b2e4175e3"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U019",
+      "member": "item/xhtml/p-010.xhtml",
+      "member_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08",
+      "bytes": 112722,
+      "native_spine_order": 19,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 194,
+      "nonempty_paragraphs": 180,
+      "base_characters": 7836,
+      "ruby_count": 185,
+      "image_ids": [
+        "MAIN-06-IMG028",
+        "MAIN-06-IMG018"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U019",
+        "metadata_plan_id": "MAIN06-EDITION-U019",
+        "native_member": "item/xhtml/p-010.xhtml",
+        "sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08",
+        "accepted_principal_contract_exact": {
+          "alias": "F / start",
+          "paragraph_slots": 194,
+          "member_sha256": "9a044a08ae12bfe8fb97af17da5e08914c0a635a4e3d47c92178fdd63169bb08"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U020",
+      "member": "item/xhtml/p-011.xhtml",
+      "member_sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da",
+      "bytes": 28301,
+      "native_spine_order": 20,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 46,
+      "nonempty_paragraphs": 41,
+      "base_characters": 1594,
+      "ruby_count": 47,
+      "image_ids": [
+        "MAIN-06-IMG029"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U020",
+        "metadata_plan_id": "MAIN06-EDITION-U020",
+        "native_member": "item/xhtml/p-011.xhtml",
+        "sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da",
+        "accepted_principal_contract_exact": {
+          "alias": "I / start",
+          "paragraph_slots": 46,
+          "member_sha256": "631d51eba5bf5660becce50da30e382695e04dbdd26def533cf100df9e8b13da"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U021",
+      "member": "item/xhtml/p-012.xhtml",
+      "member_sha256": "7b41d3a5074878e066da43fda03c057f6b5460b4fc1a6a98cb7569ccea4efd5e",
+      "bytes": 25330,
+      "native_spine_order": 21,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 45,
+      "nonempty_paragraphs": 41,
+      "base_characters": 1538,
+      "ruby_count": 46,
+      "image_ids": [
+        "MAIN-06-IMG030"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U021",
+        "metadata_plan_id": "MAIN06-EDITION-U021",
+        "native_member": "item/xhtml/p-012.xhtml",
+        "sha256": "7b41d3a5074878e066da43fda03c057f6b5460b4fc1a6a98cb7569ccea4efd5e",
+        "accepted_principal_contract_exact": {
+          "alias": "Ep1 / start",
+          "paragraph_slots": 45,
+          "member_sha256": "7b41d3a5074878e066da43fda03c057f6b5460b4fc1a6a98cb7569ccea4efd5e"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U022",
+      "member": "item/xhtml/p-013.xhtml",
+      "member_sha256": "7143daeb585ae08772c63c7a06c2f86b55e61000700dd81bb5fff74d4cffe334",
+      "bytes": 46183,
+      "native_spine_order": 22,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 74,
+      "nonempty_paragraphs": 70,
+      "base_characters": 3450,
+      "ruby_count": 78,
+      "image_ids": [
+        "MAIN-06-IMG031"
+      ],
+      "new_reading_required": false,
+      "current_component_role": "RETAINED_ACCEPTED_PRINCIPAL_NO_NEW_READING",
+      "new_independent_validation_trial": false,
+      "current_disposition": "RETAINED_PREVIOUSLY_ACCEPTED_PRINCIPAL_EXACT",
+      "retained_principal_authority": {
+        "component_id": "MAIN-06-U022",
+        "metadata_plan_id": "MAIN06-EDITION-U022",
+        "native_member": "item/xhtml/p-013.xhtml",
+        "sha256": "7143daeb585ae08772c63c7a06c2f86b55e61000700dd81bb5fff74d4cffe334",
+        "accepted_principal_contract_exact": {
+          "alias": "Ep2 / start",
+          "paragraph_slots": 74,
+          "member_sha256": "7143daeb585ae08772c63c7a06c2f86b55e61000700dd81bb5fff74d4cffe334"
+        },
+        "new_P_reading_credit": 0,
+        "acceptance_control": {
+          "path": "series/konosuba/09 Audits and Manifests/KONOSUBA_MAIN_PRINCIPAL_LOCATOR_READINESS.md",
+          "bytes": 66302,
+          "sha256": "d4370ab585111e28e69cd9a9b5089a14495af0d48c39823ba1c24d9cdac7679e",
+          "members": 137
+        }
+      },
+      "actual_new_paragraph_reading_credit": 0,
+      "new_full_text_reading_claim": false
+    },
+    {
+      "component_id": "MAIN-06-U023",
+      "member": "item/xhtml/p-014.xhtml",
+      "member_sha256": "503f33a6026cd8edaa975ce34b3ecd8112a06f830afa8069afe49e9aee9619fa",
+      "bytes": 12948,
+      "native_spine_order": 23,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 22,
+      "nonempty_paragraphs": 19,
+      "base_characters": 729,
+      "ruby_count": 20,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "CREATOR_AFTERWORD_NOT_NEW_FICTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 22,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U023",
+          "native_member": "item/xhtml/p-014.xhtml",
+          "native_member_sha256": "503f33a6026cd8edaa975ce34b3ecd8112a06f830afa8069afe49e9aee9619fa",
+          "start_P": 1,
+          "end_P": 22,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.190851+00:00",
+          "source_first_notes": "All22creator-afterword slots/ruby/residual received. Author jokes about being a singing/dancing writer, preparing for another world by reading fighting manga and perhaps becoming a grappler. Reports dramaCD/new-script basis, next-monthcomic, autograph practice and illustrated-board anxiety,then thanks staff/readers. Joke, contemporaneous report, plan and future-wish remain separate; no new fictional event or independently retrievedCD/comic source.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U024",
+      "member": "item/xhtml/p-015.xhtml",
+      "member_sha256": "cce0d8f6639486587a42819726c994752ed1978c950c408a9b7cc9e9c8134931",
+      "bytes": 923,
+      "native_spine_order": 24,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG019"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "ILLUSTRATOR_CODA_STAGED_ADDRESS_SCRIPT",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U024",
+          "native_member": "item/xhtml/p-015.xhtml",
+          "native_member_sha256": "cce0d8f6639486587a42819726c994752ed1978c950c408a9b7cc9e9c8134931",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.191855+00:00",
+          "source_first_notes": "Zero-paragraph illustrator-coda wrapper/residual received. Chibi Iris/Megumin with a Kazuma doll and address dispute are staged creator commentary, not a newly enacted competition or physical-contact event.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U025",
+      "member": "item/xhtml/p-016.xhtml",
+      "member_sha256": "7e31f7accc580e4e7dc3803169b44771a9d82e2d2b7010621f43b6f21d604ee2",
+      "bytes": 923,
+      "native_spine_order": 25,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG020"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "GUEST_ILLUSTRATOR_CONGRATULATION_COMIC_PROMOTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U025",
+          "native_member": "item/xhtml/p-016.xhtml",
+          "native_member_sha256": "7e31f7accc580e4e7dc3803169b44771a9d82e2d2b7010621f43b6f21d604ee2",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.192855+00:00",
+          "source_first_notes": "Zero-paragraph guest-congratulation wrapper/residual received. Aqua drawing and volume6/comic promotion are a distinct artist contribution, not Aqua character testimony.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U026",
+      "member": "item/xhtml/p-017.xhtml",
+      "member_sha256": "ffda4ac2716e7e09a2bc57160a3ee15a9193a36f8d8d7dac455906b205ae3f71",
+      "bytes": 923,
+      "native_spine_order": 26,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG021"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "NEXT_VOLUME_FUTURE_PROMOTION",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U026",
+          "native_member": "item/xhtml/p-017.xhtml",
+          "native_member_sha256": "ffda4ac2716e7e09a2bc57160a3ee15a9193a36f8d8d7dac455906b205ae3f71",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.193350+00:00",
+          "source_first_notes": "Zero-paragraph NEXT wrapper/residual received. Future promotional dialogue about Darkness's possible marriage is not an actual marriage or a new present-day choice; specific body/pet jokes are attributed.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U027",
+      "member": "item/xhtml/p-018.xhtml",
+      "member_sha256": "8a1a96787d543346c33a6380736ed20fc52b748769e2b08992fb17b310b0770b",
+      "bytes": 1069,
+      "native_spine_order": 27,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 5,
+      "nonempty_paragraphs": 2,
+      "base_characters": 63,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "ILLUSTRATION_AND_DESIGN_CREDITS",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 5,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U027",
+          "native_member": "item/xhtml/p-018.xhtml",
+          "native_member_sha256": "8a1a96787d543346c33a6380736ed20fc52b748769e2b08992fb17b310b0770b",
+          "start_P": 1,
+          "end_P": 5,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.194343+00:00",
+          "source_first_notes": "All5credit slots/residual received. Cover/front/body illustration byMishima and designcredits are production metadata, without diegetic actions.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U028",
+      "member": "item/xhtml/p-colophon.xhtml",
+      "member_sha256": "12051f78b18e1371eed7d6c58c58dd502047dc0b5f308415a1b4ac9a93e29cec",
+      "bytes": 5868,
+      "native_spine_order": 28,
+      "in_spine": true,
+      "properties": "",
+      "paragraph_slots": 17,
+      "nonempty_paragraphs": 16,
+      "base_characters": 285,
+      "ruby_count": 6,
+      "image_ids": [
+        "MAIN-06-IMG003"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "COLOPHON",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 17,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U028",
+          "native_member": "item/xhtml/p-colophon.xhtml",
+          "native_member_sha256": "12051f78b18e1371eed7d6c58c58dd502047dc0b5f308415a1b4ac9a93e29cec",
+          "start_P": 1,
+          "end_P": 17,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.194840+00:00",
+          "source_first_notes": "All17colophon slots/ruby/residual received. Electronic and print-basis entries both平成27年3月1日(2015-03-01),copyright2015. Preserve any earlier bibliography as history rather than silently substitute it; dates are edition metadata, not every event's chronology.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U029",
+      "member": "item/xhtml/p-bookwalker.xhtml",
+      "member_sha256": "5fea6f2510e62288e91d99a2ab3ebd68620c7d9a14adc17d45960e90be3506e6",
+      "bytes": 873,
+      "native_spine_order": 29,
+      "in_spine": true,
+      "properties": "svg",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [
+        "MAIN-06-IMG002"
+      ],
+      "new_reading_required": true,
+      "current_component_role": "BOOKWALKER_LOGO",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U029",
+          "native_member": "item/xhtml/p-bookwalker.xhtml",
+          "native_member_sha256": "5fea6f2510e62288e91d99a2ab3ebd68620c7d9a14adc17d45960e90be3506e6",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.195831+00:00",
+          "source_first_notes": "Zero-paragraph BOOKWALKER wrapper/residual received. Distributor logo, not a character event or voice.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    },
+    {
+      "component_id": "MAIN-06-U030",
+      "member": "item/navigation-documents.xhtml",
+      "member_sha256": "4dca070adb3cf0e46c5ff374732461adb47358ff7dde18ad5c007f6b994dd8ac",
+      "bytes": 1920,
+      "native_spine_order": null,
+      "in_spine": false,
+      "properties": "nav",
+      "paragraph_slots": 0,
+      "nonempty_paragraphs": 0,
+      "base_characters": 0,
+      "ruby_count": 0,
+      "image_ids": [],
+      "new_reading_required": true,
+      "current_component_role": "NAVIGATION_RESIDUAL",
+      "new_independent_validation_trial": false,
+      "current_disposition": "NEW_EXCLUDED_RESOURCE_ACTUALLY_READ_AND_ANALYZED_CONTAINING_PUBLICATION_PENDING",
+      "actual_full_text_ruby_and_residual_read": true,
+      "actual_new_paragraph_reading_credit": 0,
+      "original_uncoded_notes_exact": [
+        {
+          "schema": "KONOSUBA_ACTUAL_AFTER_TEXT_VIEW_UNCODED_SCOPE_V1",
+          "source_id": "MAIN-06",
+          "component_id": "MAIN-06-U030",
+          "native_member": "item/navigation-documents.xhtml",
+          "native_member_sha256": "4dca070adb3cf0e46c5ff374732461adb47358ff7dde18ad5c007f6b994dd8ac",
+          "start_P": 0,
+          "end_P": 0,
+          "nonparagraph_residual_received": true,
+          "actual_untruncated_source_text_read": true,
+          "ruby_display_scope": "All ruby readings displayed inline in this interval; no audio/native-human claim.",
+          "acknowledged_after_actual_read_utc": "2026-10-19T09:48:16.196327+00:00",
+          "source_first_notes": "Zero-paragraph navigation resource and full nonparagraph residual actually received. Allcontents/interlude/epilogue/afterword/colophon/guide routes were received; no hidden separately supplied prose bonus in these routes.",
+          "uncoded_comic_observations": [],
+          "uncoded_voice_witnesses": [],
+          "limits": "Continuing informed root AI; source text read at this native interval; image-only slots do not credit actual image viewing.",
+          "formal_L_H_voice_outcomes_unassigned": true
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "image_id": "MAIN-06-IMG001",
+      "member": "item/image/cover.jpg",
+      "sha256": "426130f28b159d951c69f4e79d35de3e6938c4177d98961aaa399b0cd0046040",
+      "bytes": 135036,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG001",
+        "native_image_member": "item/image/cover.jpg",
+        "native_image_sha256": "426130f28b159d951c69f4e79d35de3e6938c4177d98961aaa399b0cd0046040",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.945512+00:00",
+        "source_first_notes": "Cover packages Iris in the foreground, Kazuma partly visible and Aqua/Darkness behind, with volume6/subtitle/creator/imprint data. Packaging is not a new event or a character motive.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG002",
+      "member": "item/image/bookwalker.png",
+      "sha256": "88540bc7b8cc69a96c6a4ce14abf7bf69b64ffaef8df6c46cb3eb7c25ea432ac",
+      "bytes": 5270,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG002",
+        "native_image_member": "item/image/bookwalker.png",
+        "native_image_sha256": "88540bc7b8cc69a96c6a4ce14abf7bf69b64ffaef8df6c46cb3eb7c25ea432ac",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.951465+00:00",
+        "source_first_notes": "BOOKWALKER distributor logo. Actual native pixels viewed; no narrative event or character utterance.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG003",
+      "member": "item/image/logo-sneaker.png",
+      "sha256": "bfd1a07df0d86c42aa9f2f923cf077da0b03221ff274936e598f6f9131a113d4",
+      "bytes": 1321,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG003",
+        "native_image_member": "item/image/logo-sneaker.png",
+        "native_image_sha256": "bfd1a07df0d86c42aa9f2f923cf077da0b03221ff274936e598f6f9131a113d4",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.956439+00:00",
+        "source_first_notes": "Tiny imprint mark actually viewed at its native size. Reused bibliographic asset, not a character event or independently new scene.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG004",
+      "member": "item/image/kuchie-001.jpg",
+      "sha256": "f0c97c9f7932e0772a9aacd950f1e93afc265b33a0e226da3c829c83534e41b6",
+      "bytes": 109646,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG004",
+        "native_image_member": "item/image/kuchie-001.jpg",
+        "native_image_sha256": "f0c97c9f7932e0772a9aacd950f1e93afc265b33a0e226da3c829c83534e41b6",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.964891+00:00",
+        "source_first_notes": "Cropped repeat of the Iris cover with title/subtitle. Reuse supplies no second scene or extra witness.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG005",
+      "member": "item/image/kuchie-002.jpg",
+      "sha256": "ed17fee72fa0aaccf04b32dbd2c379092ec7047fe49ba297ef0aefc8483ca791",
+      "bytes": 168910,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG005",
+        "native_image_member": "item/image/kuchie-002.jpg",
+        "native_image_sha256": "ed17fee72fa0aaccf04b32dbd2c379092ec7047fe49ba297ef0aefc8483ca791",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.973839+00:00",
+        "source_first_notes": "Color Aqua/Megumin/Darkness party-preparation composition with labels. Darkness warns that manners/speech may have severe consequences; Aqua promises a special party trick without embarrassing Darkness; Megumin proposes a grand Crimson Demon entrance. Quoted intentions and staged compression are distinct from performed success, actual decapitation or a complete new dinner event.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG006",
+      "member": "item/image/kuchie-003.jpg",
+      "sha256": "af06c4241d2b4b6ec50cfe2dd36149c6a9a9ec8222e7652329366c1af83e0457",
+      "bytes": 190631,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG006",
+        "native_image_member": "item/image/kuchie-003.jpg",
+        "native_image_sha256": "af06c4241d2b4b6ec50cfe2dd36149c6a9a9ec8222e7652329366c1af83e0457",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.982806+00:00",
+        "source_first_notes": "Iris-centered color composite: polite formal adventure-story request at right, familiar playmate/older-brother phrasing and modern controller imagery in the middle, and first-such-person language at left. Speaker attribution must be checked individually, especially the rank-insulting right quote near a separate arm; Iris's central label cannot assign every line to her. A pictured modern controller is not proof of an actual console in a principal scene, and the three Irises are a montage rather than three actors/events.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG007",
+      "member": "item/image/kuchie-004.jpg",
+      "sha256": "7bb70aa04df108c521665788d930983fa764e04f0772c3c29a182ec4e467685b",
+      "bytes": 155173,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG007",
+        "native_image_member": "item/image/kuchie-004.jpg",
+        "native_image_sha256": "7bb70aa04df108c521665788d930983fa764e04f0772c3c29a182ec4e467685b",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:12.998203+00:00",
+        "source_first_notes": "Color Chris/Eris/Iris montage. Chris invites a visit to the princess, Eris requests artifact retrieval and Iris expresses limited admiration for the chivalrous thief. Distinct labels/roles do not themselves enact a new visit, disclose identities to every character, prove her knowledge of the thief or establish adult commitment.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG008",
+      "member": "item/image/kuchie-005.jpg",
+      "sha256": "f4a2f942f66f94366d3b0570b7f20437207b00341b44439461e707861dec398d",
+      "bytes": 124015,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG008",
+        "native_image_member": "item/image/kuchie-005.jpg",
+        "native_image_sha256": "f4a2f942f66f94366d3b0570b7f20437207b00341b44439461e707861dec398d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.007646+00:00",
+        "source_first_notes": "Color contents with print locators: prologue3,chapters1-5 at5/67/128/181/240,finale277,interlude296,epilogues300/304,afterword312;chibi Megumin/Darkness/Aqua and production credits. Print pages are navigation, not native paragraph IDs; decorative expressions do not prove separate acts.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG009",
+      "member": "item/image/img-001.jpg",
+      "sha256": "43c0dca50e63238039f3c4da2fa982aac860c9af13c6870b68f7770a3f5b3ffe",
+      "bytes": 128184,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG009",
+        "native_image_member": "item/image/img-001.jpg",
+        "native_image_sha256": "43c0dca50e63238039f3c4da2fa982aac860c9af13c6870b68f7770a3f5b3ffe",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.016616+00:00",
+        "source_first_notes": "Profile: Darkness18/Crusader,Aquaunknown/Archpriest,Megumin14/Archwizard,Iris12/princess,Wiz20/shopowner,Chris15?with printed question mark/thief,Vanirunknown/demon-clerk,Kazuma16/adventurer. Keep Chris's provisional printed age distinct from a definitive age or divine identity. Broad trait summaries and older profiles are not erased or turned into direct new tests.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG010",
+      "member": "item/image/img-002.jpg",
+      "sha256": "5d81a1d9b82d77dcb36a22b350892834800adf3828305383c3c8fa2f77d268bc",
+      "bytes": 84215,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG010",
+        "native_image_member": "item/image/img-002.jpg",
+        "native_image_sha256": "5d81a1d9b82d77dcb36a22b350892834800adf3828305383c3c8fa2f77d268bc",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.025564+00:00",
+        "source_first_notes": "Darkness in maid clothing, visibly flustered with motion/sweat cues. No dialogue. Fix the actual bargain/context in retained C1; do not backproject a later actual costume into MAIN05's earlier hypothetical proposal or infer unlimited consent.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG011",
+      "member": "item/image/img-003.jpg",
+      "sha256": "277bc9cbf28708bf6e9b3eba2c8a350ece38e3cc907ecdeb0078ebbf08247de0",
+      "bytes": 90310,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG011",
+        "native_image_member": "item/image/img-003.jpg",
+        "native_image_sha256": "277bc9cbf28708bf6e9b3eba2c8a350ece38e3cc907ecdeb0078ebbf08247de0",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.034530+00:00",
+        "source_first_notes": "Iris sits with hands together beside a light-haired guard/noble figure in the foreground. Their exact identities beyond Iris and the meaning of her subdued expression require the native chapter join. A pose supplies neither her internal duty appraisal nor assent.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG012",
+      "member": "item/image/img-004.jpg",
+      "sha256": "52503c6f28cfa7c98f968b6734e2915e363a9252195124e885199a75198cce55",
+      "bytes": 86687,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG012",
+        "native_image_member": "item/image/img-004.jpg",
+        "native_image_sha256": "52503c6f28cfa7c98f968b6734e2915e363a9252195124e885199a75198cce55",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.043477+00:00",
+        "source_first_notes": "Kazuma foregrounds two thumbs with a strained/comic expression; Iris behind looks attentive/surprised. No dialogue. Surrounding game/conversation chronology must supply the actual action and speaker; gesture alone is not a new success or consent witness.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG013",
+      "member": "item/image/img-005.jpg",
+      "sha256": "4927df37140f52d26ea7033c0a5f161190e8ac1dfd6ed2d8880a467af381e473",
+      "bytes": 72406,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG013",
+        "native_image_member": "item/image/img-005.jpg",
+        "native_image_sha256": "4927df37140f52d26ea7033c0a5f161190e8ac1dfd6ed2d8880a467af381e473",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.052944+00:00",
+        "source_first_notes": "A long-haired braided woman leans toward a distressed Kazuma. Identity and action are not certain from art alone; do not silently call her Claire or Darkness before the accepted-native join. Expressions do not supply motive or a complete relationship event.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG014",
+      "member": "item/image/img-006.jpg",
+      "sha256": "46ca5f5ba9f25ec4036499b0bb4c146a7379f02dc2300352dc4cce6d4f83a036",
+      "bytes": 81643,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG014",
+        "native_image_member": "item/image/img-006.jpg",
+        "native_image_sha256": "46ca5f5ba9f25ec4036499b0bb4c146a7379f02dc2300352dc4cce6d4f83a036",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.061885+00:00",
+        "source_first_notes": "Two panels contrast Aqua's wink/prayer-like appeal with an irritated Kazuma bound around the torso. A speech bubble contains a sweat symbol rather than a new literal utterance. Fix the damage/confession/restraint context in accepted prose; no universal innocence or consent from playful art.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG015",
+      "member": "item/image/img-007.jpg",
+      "sha256": "7908794cc97b148ef14dcf99dc3b449b03fe024a2d5e103a94988de110c70329",
+      "bytes": 100025,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG015",
+        "native_image_member": "item/image/img-007.jpg",
+        "native_image_sha256": "7908794cc97b148ef14dcf99dc3b449b03fe024a2d5e103a94988de110c70329",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.070357+00:00",
+        "source_first_notes": "Chris is restrained with arms raised and a distressed/flushed expressive face; another figure's hands are partly visible. Do not infer enjoyment, permission, a sexual act, culprit or successful release from expression/pose alone. Exact restraint and information routes require the retained chapter.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG016",
+      "member": "item/image/img-008.jpg",
+      "sha256": "4f7112c2a54923652d63442f0ebe255400c75413cc07a2bee6f2a1a3cd99303d",
+      "bytes": 90301,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG016",
+        "native_image_member": "item/image/img-008.jpg",
+        "native_image_sha256": "4f7112c2a54923652d63442f0ebe255400c75413cc07a2bee6f2a1a3cd99303d",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.079306+00:00",
+        "source_first_notes": "Body-swap-related bath-preparation composition with Iris's body, adult figures and a Kazuma-face inset. Keep body, controlling mind, viewer knowledge and the represented moment separate. The image cannot establish Iris's willing participation or undo the explicit boundaries in accepted prose. Sensitive material is recorded as bodily agency/misconduct without erotic elaboration.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG017",
+      "member": "item/image/img-009.jpg",
+      "sha256": "adb33e7f98f0390877850b243c0229f46734ff5157330702386f996eefa6d2cd",
+      "bytes": 119306,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG017",
+        "native_image_member": "item/image/img-009.jpg",
+        "native_image_sha256": "adb33e7f98f0390877850b243c0229f46734ff5157330702386f996eefa6d2cd",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.087758+00:00",
+        "source_first_notes": "Embedded heist composition: a Kazuma-like figure wears a Vanir-shaped mask, a short-haired masked thief appears left, and a mage/guard, Megumin and Darkness face them. Wearing a mask does not prove Vanir is present or possessing someone. Actual identities, spells, chronology and outcome require the neighboring principal joins; it is not a second heist.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG018",
+      "member": "item/image/img-010.jpg",
+      "sha256": "367f0bf3605e0d7a227a183a7cc32e615dc2391bde446d2ea23a624fbf6bb1ce",
+      "bytes": 84665,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG018",
+        "native_image_member": "item/image/img-010.jpg",
+        "native_image_sha256": "367f0bf3605e0d7a227a183a7cc32e615dc2391bde446d2ea23a624fbf6bb1ce",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.096721+00:00",
+        "source_first_notes": "Smiling, slightly tearful Iris portrait. No printed utterance. The retained finale supplies the cause and viewpoint; the face alone does not prove a private future-marriage plan, adult consent or a new direct trial.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG019",
+      "member": "item/image/img-011.jpg",
+      "sha256": "ee3e05bb30b97b6573c3eb7d3e2170b7fda0cb1413788b00df5770cf2db63085",
+      "bytes": 81184,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG019",
+        "native_image_member": "item/image/img-011.jpg",
+        "native_image_sha256": "ee3e05bb30b97b6573c3eb7d3e2170b7fda0cb1413788b00df5770cf2db63085",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.106168+00:00",
+        "source_first_notes": "Illustrator afterword/coda signedMishima2015.3: chibi Iris holds a Kazuma doll while Megumin objects to address as older brother; creator wishes to be so addressed. Staged address rivalry and creator preference are not fresh actual physical contact, Iris belief or a new royal decision.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG020",
+      "member": "item/image/img-012.jpg",
+      "sha256": "9bd9634e16c7c1ddca41981b397cdef087bcd6152cb609ace8ab8d0fdd720f20",
+      "bytes": 155547,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG020",
+        "native_image_member": "item/image/img-012.jpg",
+        "native_image_sha256": "9bd9634e16c7c1ddca41981b397cdef087bcd6152cb609ace8ab8d0fdd720f20",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.114616+00:00",
+        "source_first_notes": "Guest illustration signedWatarimasahito/渡真仁 congratulates volume6 and promotes the comic, showing Aqua. Separate production contributor, not Aqua dialogue, a new canonical spell or independently retrieved comic narrative.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG021",
+      "member": "item/image/img-013.jpg",
+      "sha256": "efeb620d392634eae42e33259aaeae78e6a2853d3364285844b514b92d2bb941",
+      "bytes": 110300,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG021",
+        "native_image_member": "item/image/img-013.jpg",
+        "native_image_sha256": "efeb620d392634eae42e33259aaeae78e6a2853d3364285844b514b92d2bb941",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.123088+00:00",
+        "source_first_notes": "NEXT volume7 promotional dialogue: Darkness announces trouble, Kazuma frames separation from a younger sister, Aqua jokes about growth/armor, Megumin speculates about a desired modified roper, Kazuma asks for details, Darkness fears marriage and companions offer hesitant congratulations. Keep jokes, reports, speculation and future pitch separate. No actual marriage, pet acquisition, sexual act or fresh mainline decision is completed by the preview.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG022",
+      "member": "item/image/img-m001.jpg",
+      "sha256": "4132c3b61cac3bcb88233a32451ef5fab2dba989d82cb5711fa23a8297722b7b",
+      "bytes": 23878,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG022",
+        "native_image_member": "item/image/img-m001.jpg",
+        "native_image_sha256": "4132c3b61cac3bcb88233a32451ef5fab2dba989d82cb5711fa23a8297722b7b",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.132029+00:00",
+        "source_first_notes": "Prologue heading with chibi Kazuma. Navigation/decorative framing rather than a new performed action or proof of viewpoint for every section.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG023",
+      "member": "item/image/img-m002.jpg",
+      "sha256": "8ee3eec320430b3e4c89f5d5290e5e4561481eb9628f1dc69e97fc8207aec678",
+      "bytes": 28736,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG023",
+        "native_image_member": "item/image/img-m002.jpg",
+        "native_image_sha256": "8ee3eec320430b3e4c89f5d5290e5e4561481eb9628f1dc69e97fc8207aec678",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.140964+00:00",
+        "source_first_notes": "Chapter1 bright-future toast heading with chibi Aqua. Title/decoration, not a completed future guarantee or independent celebration.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG024",
+      "member": "item/image/img-m003.jpg",
+      "sha256": "c606a4d4df6fd6e58132844bee50eda3c481a5a7ede9ebb02b5304a3673a0d48",
+      "bytes": 36607,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG024",
+        "native_image_member": "item/image/img-m003.jpg",
+        "native_image_sha256": "c606a4d4df6fd6e58132844bee50eda3c481a5a7ede9ebb02b5304a3673a0d48",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.149439+00:00",
+        "source_first_notes": "Chapter2 re-education heading with chibi Darkness. Decorative actor choice does not determine every speaker, cause, consent or motive in the chapter.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG025",
+      "member": "item/image/img-m004.jpg",
+      "sha256": "75a9263df189c8d69eb37aaa30ce2c9461fbd60e3c54488b60905934e79f7144",
+      "bytes": 96669,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG025",
+        "native_image_member": "item/image/img-m004.jpg",
+        "native_image_sha256": "75a9263df189c8d69eb37aaa30ce2c9461fbd60e3c54488b60905934e79f7144",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.158389+00:00",
+        "source_first_notes": "Chapter3 chivalrous-thief punishment heading with chibi Megumin. Packaging/irony; no separate performed punishment or automatic actor knowledge.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG026",
+      "member": "item/image/img-m005.jpg",
+      "sha256": "24a19fff9f93029b5cc332c5904d91309c07e289cb265d6494107be7615bd403",
+      "bytes": 95558,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG026",
+        "native_image_member": "item/image/img-m005.jpg",
+        "native_image_sha256": "24a19fff9f93029b5cc332c5904d91309c07e289cb265d6494107be7615bd403",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.166840+00:00",
+        "source_first_notes": "Chapter4 sheltered-princess/bad-friend heading with chibi Eris. Decorative Eris does not certify her presence, approval of misconduct or knowledge of every swap act.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG027",
+      "member": "item/image/img-m006.jpg",
+      "sha256": "9ec488924f058a60998a9a71f95f7555a5f3b887362cc9f58d339a9691300e12",
+      "bytes": 92730,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG027",
+        "native_image_member": "item/image/img-m006.jpg",
+        "native_image_sha256": "9ec488924f058a60998a9a71f95f7555a5f3b887362cc9f58d339a9691300e12",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.175807+00:00",
+        "source_first_notes": "Chapter5 scheme-ending heading with chibi Chris. Framing, not a new direct heist or duplicate trial.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG028",
+      "member": "item/image/img-m007.jpg",
+      "sha256": "46ed0a9b9acc9b90fdfd500428649ac8975054e8c3804cc6e0959b49e74fe334",
+      "bytes": 84725,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG028",
+        "native_image_member": "item/image/img-m007.jpg",
+        "native_image_sha256": "46ed0a9b9acc9b90fdfd500428649ac8975054e8c3804cc6e0959b49e74fe334",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.184715+00:00",
+        "source_first_notes": "Finale true-older-brother heading with chibi Kazuma. Relational framing is not proof of actual kinship, completed adult romance or a new consent decision.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG029",
+      "member": "item/image/img-m008.jpg",
+      "sha256": "94bd2cd6da8e1d3db5ffd12818f2db30301ac733c6c89f590ffaeb374da13da0",
+      "bytes": 86716,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG029",
+        "native_image_member": "item/image/img-m008.jpg",
+        "native_image_sha256": "94bd2cd6da8e1d3db5ffd12818f2db30301ac733c6c89f590ffaeb374da13da0",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.193662+00:00",
+        "source_first_notes": "Interlude greedy-noble/broken-devil heading with chibi Darkness. The decorative figure does not identify the interlude narrator or make her aware of hidden plans.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG030",
+      "member": "item/image/img-m009.jpg",
+      "sha256": "502e0ce28bb158d56cbaa3ae404381f99974aa6b39a8ade4a1c735adb7f3fcc5",
+      "bytes": 89451,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG030",
+        "native_image_member": "item/image/img-m009.jpg",
+        "native_image_sha256": "502e0ce28bb158d56cbaa3ae404381f99974aa6b39a8ade4a1c735adb7f3fcc5",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.202114+00:00",
+        "source_first_notes": "Epilogue1 hero-reward heading with chibi Kazuma. The known accepted prose has Iris's private first-person viewpoint; the chibi cannot override that narrator or turn it into Kazuma's witnessed knowledge.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    },
+    {
+      "image_id": "MAIN-06-IMG031",
+      "member": "item/image/img-m010.jpg",
+      "sha256": "b944f02470f7bc0cafa10c276826a60eeb2bb5ac140fb5366c501d4c4523558c",
+      "bytes": 30446,
+      "current_disposition": "ACTUALLY_VIEWED_AT_INDIVIDUAL_SOURCE_PLANE_CONTAINING_PUBLICATION_PENDING",
+      "original_uncoded_view_record_exact": {
+        "schema": "KONOSUBA_ACTUAL_AFTER_IMAGE_VIEW_UNCODED_SCOPE_V1",
+        "source_id": "MAIN-06",
+        "image_id": "MAIN-06-IMG031",
+        "native_image_member": "item/image/img-m010.jpg",
+        "native_image_sha256": "b944f02470f7bc0cafa10c276826a60eeb2bb5ac140fb5366c501d4c4523558c",
+        "actual_viewed": true,
+        "acknowledged_after_view_utc": "2026-10-19T09:49:13.210553+00:00",
+        "source_first_notes": "Epilogue2 dream/ring heading with chibi Megumin. Decorative actor is not automatic focalizer, testimony or a new event; ring identity and reader/actor knowledge require the retained prose.",
+        "reading_scope_and_limit": "Actual unique native pixels received before acknowledgement. Continuing informed root, uncoded observations; no independent/pristine-blind, listening or native-human claim. Existing principal events remain inherited, withzero newprincipal reading credit; current identities/modes require additive native joins before formal uptake.",
+        "uncoded_observations": [],
+        "formal_outcomes_unassigned": true
+      },
+      "current_qualification": "Original sealed notes remain history;M06EX-Q01-Q29 and16native precision findings govern corrected source planes. IMG006harshquoteisClairerelay,IMG013isDarkness,IMG015isChrisvisit/objectionwithoutBind,IMG016keepsKazuma mind/Irisbody,IMG017isKazuma maskgift notVanirpossession,Ep1narratorisIrisdespitechibiK."
+    }
+  ],
+  "new_excluded_text_resources": 19,
+  "new_excluded_P_slots": 69,
+  "retained_principal_members": 11,
+  "retained_principal_P_slots": 3392,
+  "new_principal_reading_credit": 0,
+  "bonus_narrative": null,
+  "image_only_narrative_components": [
+    {
+      "id": "MAIN06-IMAGE-ONLY-MASKED-HEIST",
+      "component_ids": [
+        "MAIN-06-U017"
+      ],
+      "image_ids": [
+        "MAIN-06-IMG017"
+      ],
+      "source_plane": "EMBEDDED_COMPOSITION_OF_RETAINED_HEIST_WITH_DIFFERENT_ACTOR_KNOWLEDGE",
+      "retained_native_joins": [
+        "U016P9-17/403-431",
+        "U018P1-12"
+      ],
+      "new_enacted_mainline_event": false
+    }
+  ],
+  "image_only_compositional_welcome": null,
+  "raster_staged_profile_script_images": [
+    "MAIN-06-IMG009"
+  ],
+  "promotional_script_image": "MAIN-06-IMG021",
+  "source_plane_limit": "All19newresources69P/31images actually received;11acceptedprincipal members3392P retainedexact/newprincipalcredit0. No separately supplied prose bonus:22Pcreatorafterword plus47otherwrapper/credit/navigation slots. Front composites, one embedded masked-heist composition, profile, two artist contributions and future promotion retain separate planes. CR-MAIN06EX-001 corrects the old V06restraint account with original frozen bytes preserved. These counts are not a narrative denominator."
+}

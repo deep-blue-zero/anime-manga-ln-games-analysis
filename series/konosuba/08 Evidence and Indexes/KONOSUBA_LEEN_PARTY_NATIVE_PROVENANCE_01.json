@@ -1,0 +1,423 @@
+{
+  "schema": "KONOSUBA_LEEN_PARTY_NATIVE_PROVENANCE_V1",
+  "recorded_utc": "2026-10-20T13:07:09.310177+00:00",
+  "published_base": "587fb9d0eea923c730c4e7e532dfc4929862e344",
+  "purpose": "Source-safe identity/member/window and frozen analytical evidence binding for separate Leen, Keith and Taylor accounts; no primary text or acquisition data.",
+  "scope": "Known accepted local native bounded BASE rechecks; earlier full reports/ten-ledger receiving retain their exact scopes. The receipts bind actual complete tool outputs and their native/register equality checks, not a newly invented whole-source/ruby/image pass.",
+  "private_receipt_identities": [
+    {
+      "receipt_number": 1,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_01.json",
+      "sha256": "aabd275c6697fc359a69c2fe80b065649fb83ec8ac0eeb6634ea40d955fbd624",
+      "context_slots": 246
+    },
+    {
+      "receipt_number": 2,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_02.json",
+      "sha256": "c1783706864a8b5b3af13d4ccd8bb93180f1957163ed14ce1717899ee6da5316",
+      "context_slots": 415
+    },
+    {
+      "receipt_number": 3,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_03.json",
+      "sha256": "fad67ec4b7abcc22ce42749c61336d0175d721a57c34c61660fe447d2bfd4f65",
+      "context_slots": 474
+    },
+    {
+      "receipt_number": 4,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_04.json",
+      "sha256": "cb61e26994c7b793397d8f89ed62dd25b697abb60a1a27d31fe41b2b4249b431",
+      "context_slots": 471
+    },
+    {
+      "receipt_number": 5,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_05.json",
+      "sha256": "d556bd84c682d4b54db27dd46067a3ab59d02547f866d839faf0df695997e9d3",
+      "context_slots": 378
+    },
+    {
+      "receipt_number": 6,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_06.json",
+      "sha256": "6cb853d7e3089cbba970d9db1e451bf019cb5f76e6ef4ca52ff7fab5955f5ddf",
+      "context_slots": 250
+    },
+    {
+      "receipt_number": 7,
+      "private_receipt_identity": "LEEN_PARTY_ACTUAL_NATIVE_PREPARATION_RECEIVING_07.json",
+      "sha256": "11f893c5cad19c4f1c84a968aa7f066b7864cc16a69c3974297d969e41111b5a",
+      "context_slots": 160
+    }
+  ],
+  "actual_known_BASE_windows": [
+    {
+      "receipt_number": 1,
+      "source_id": "DUST-06",
+      "component_id": "DUST-06-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "d533fc314c5ecb86ff9316e372d2b4eb9747d65eb413e4d9a8b97a52b2fff4a1",
+      "member_sha256": "b5af4a189f729eb64a67120258f8b811d76d1d0905468d74fdb85805cd2cc719",
+      "accepted_register_sha256": "9ac29caa43e4ca40a32c600afdac6ffb19a9355f44e22bde5a2e824bf02eb73e",
+      "actual_complete_BASE_windows": [
+        [
+          427,
+          597
+        ]
+      ],
+      "context_slots": 171,
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V06_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 1,
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+      "accepted_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_BASE_windows": [
+        [
+          436,
+          510
+        ]
+      ],
+      "context_slots": 75,
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 2,
+      "source_id": "DUST-07",
+      "component_id": "DUST-07-U011",
+      "member": "item/xhtml/p-003.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "c9ba71b51dab40b49a9f5d2b42952a635d1dd55a4e9c2aae16853c21d8e256e1",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_BASE_windows": [
+        [
+          715,
+          965
+        ]
+      ],
+      "context_slots": 251,
+      "earlier_checked_cache_sha256": "d45de4a8d0049e2476473796b8010f29b527809fed9099f44ab10c4a22b185be",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 2,
+      "source_id": "DUST-07",
+      "component_id": "DUST-07-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_BASE_windows": [
+        [
+          275,
+          315
+        ],
+        [
+          735,
+          775
+        ]
+      ],
+      "context_slots": 82,
+      "earlier_checked_cache_sha256": "d8efb3785698c554a95c597aa6e3e93fe6e77b7ef96239bc592c1f808de85ec5",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 2,
+      "source_id": "DUST-07",
+      "component_id": "DUST-07-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_BASE_windows": [
+        [
+          270,
+          310
+        ],
+        [
+          475,
+          515
+        ]
+      ],
+      "context_slots": 82,
+      "earlier_checked_cache_sha256": "8a035626f9d0b20b13cc6132da64cd024ff6b8c45c515e46f530a545b0a7556a",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 3,
+      "source_id": "DUST-07",
+      "component_id": "DUST-07-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "fffa57992203fe201aa2feb701792a5b7168bb29542cf44f34f1dffbba24b8d5",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_BASE_windows": [
+        [
+          340,
+          430
+        ],
+        [
+          776,
+          890
+        ]
+      ],
+      "context_slots": 206,
+      "earlier_checked_cache_sha256": "d8efb3785698c554a95c597aa6e3e93fe6e77b7ef96239bc592c1f808de85ec5",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 3,
+      "source_id": "DUST-07",
+      "component_id": "DUST-07-U013",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "6777b851ec9f2e450e5cb21d96956c1ab584b9f2d3438842eceafb76241bf39a",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_BASE_windows": [
+        [
+          516,
+          635
+        ]
+      ],
+      "context_slots": 120,
+      "earlier_checked_cache_sha256": "8a035626f9d0b20b13cc6132da64cd024ff6b8c45c515e46f530a545b0a7556a",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 3,
+      "source_id": "DUST-07",
+      "component_id": "DUST-07-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "cfec23e89118c06b6a83fdf4d4e5f4e5e68a00860f7520ca8ae6be12b33dc2f5",
+      "member_sha256": "b44ca1e68568f6e50d74461e956b1d432a296135e95cd93142f6054d85ae923d",
+      "accepted_register_sha256": "cc2abb85e5d05c5a3653c774375e4b0d30644cb7f92c74c4214ebba64864cfcc",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          148
+        ]
+      ],
+      "context_slots": 148,
+      "earlier_checked_cache_sha256": "92eec3e05aa78f78a716a65d3656ead8c1df4e7c22c8676d6bd65e6f0ebb8d00",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V07_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 4,
+      "source_id": "MAIN-02",
+      "component_id": "C1 / start",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "44246be88b99d34f4f9835796274d8fada2ce24cb1e8df735a55d7185a3f8b15",
+      "member_sha256": "7268a1d8b5972c66f75702df309122c08f11ad5ab38a9f34ae17c7a4079728ce",
+      "accepted_register_sha256": "3cd51a74703851e0ce523734ae6c200e52c26d8a12bf68a4ce16366c744c34d5",
+      "actual_complete_BASE_windows": [
+        [
+          440,
+          746
+        ]
+      ],
+      "context_slots": 307,
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Main Edition Components/KONOSUBA_MAIN_V02_EXCLUDED_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 4,
+      "source_id": "DUST-05",
+      "component_id": "DUST-05-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "bdd0f7af1fe772cf0c760ebf2e1b9c7e2bd1fc7ed7d84ad9c4ec1d887e422ffc",
+      "member_sha256": "9366a1cdb9ca63c2f901ad7c8b72316aff841ffc63715fe03f3ddb3b6d541db3",
+      "accepted_register_sha256": "359f6cd0409f2d15ee32a07e0e141cf291ebf6319a55a9db1f549247d054de9d",
+      "actual_complete_BASE_windows": [
+        [
+          560,
+          723
+        ]
+      ],
+      "context_slots": 164,
+      "earlier_checked_cache_sha256": "286566518cd32b80feafb5e2d65f01d9586ec38ae12eedc5869a5d05394c5f28",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_V05_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 5,
+      "source_id": "MASK",
+      "component_id": "MASK-U013",
+      "member": "text/part0011.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "member_sha256": "ab88204aa23589b72f12c363847dde22702100bc37b17ff12bc75d1c619a8801",
+      "accepted_register_sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349",
+      "actual_complete_BASE_windows": [
+        [
+          320,
+          481
+        ]
+      ],
+      "context_slots": 162,
+      "earlier_checked_cache_sha256": "845ea92b9067aa0fcc030fa15f75b89301f9ed50ffd6978306967414529a5f7b",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 5,
+      "source_id": "MASK",
+      "component_id": "MASK-U017",
+      "member": "text/part0015.html",
+      "native_sha256": "fea6f72fb35d1561ee736b1adae8cd396fc93adc3166e5bfa0eb3884a24fb127",
+      "member_sha256": "77f38b0b0eb23e61062712bf10bce0a97e0bb37863f55a5f62c046584fd29f33",
+      "accepted_register_sha256": "c7338384c21411ac221ab3f5ad1681c2aebe2408bf87e9d26fac6fa2a6be9349",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          45
+        ]
+      ],
+      "context_slots": 45,
+      "earlier_checked_cache_sha256": "32f8e4903220f7f868cf80220a27e10d134ab135a9e80c9080c8c9a2fa578a04",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Masked Devil/KONOSUBA_MASK_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 5,
+      "source_id": "YORI-04",
+      "component_id": "YORI-04-U014",
+      "member": "item/xhtml/p-005.xhtml",
+      "native_sha256": "22564990f051e81d7ac1e0e5a33b8a042c48292caad2624b5e8d8d3a3fca5a3f",
+      "member_sha256": "df319fb5ea8e7b4230ef4464dcd31f5862d4e24d6d51a6b7beb2c85de23ec6c7",
+      "accepted_register_sha256": "3b3c5ca579e021301b5f0bbf91787481fa8883ee67e96e48acd20b4f3a9563cb",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          40
+        ],
+        [
+          350,
+          480
+        ]
+      ],
+      "context_slots": 171,
+      "earlier_checked_cache_sha256": "370831d8bcda9e741db35c6547725581d62d9caaf559d5a18867c3d0b2b6defb",
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Yorimichi/KONOSUBA_YORI04_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 6,
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U010",
+      "member": "item/xhtml/p-002.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "6127cc2814148bad47e9da702ed8b816fde233c5ff009e21a0326302a2de20b5",
+      "accepted_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_BASE_windows": [
+        [
+          25,
+          64
+        ],
+        [
+          94,
+          113
+        ]
+      ],
+      "context_slots": 60,
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 6,
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U012",
+      "member": "item/xhtml/p-004.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "f3907a1788c4e2b1b5b74f1d7277e4cbb135af6de3e45fcf1f475878b938b764",
+      "accepted_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_BASE_windows": [
+        [
+          1,
+          190
+        ]
+      ],
+      "context_slots": 190,
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json"
+    },
+    {
+      "receipt_number": 7,
+      "source_id": "DUST-CONT",
+      "component_id": "DUST-CONT-U014",
+      "member": "item/xhtml/p-006.xhtml",
+      "native_sha256": "c5ffcf82e82cb0c205f34fe776f99d23fb2ac8cf13841598c92a607988bfa023",
+      "member_sha256": "e501fd6780da8af25aa09626c43fc190422ba7cad90ff85e464e0fd0162a6be2",
+      "accepted_register_sha256": "83413af506b513d7572791dbeff68f799ad1574a70479c03b875c5f5c834cbfe",
+      "actual_complete_BASE_windows": [
+        [
+          140,
+          179
+        ],
+        [
+          193,
+          232
+        ],
+        [
+          300,
+          339
+        ],
+        [
+          430,
+          469
+        ]
+      ],
+      "context_slots": 160,
+      "accepted_register_path": "series/konosuba/10 Expanded Corpus/Dust/KONOSUBA_DUST_CONT_COMPONENT_REGISTER.json"
+    }
+  ],
+  "known_context_slots": 2394,
+  "accepted_native_objects": 7,
+  "source_members": 13,
+  "counts_include_repeated_context_other_actors_blanks_and_reports": true,
+  "new_global_unique_denominator_credit": 0,
+  "new_full_source_ruby_image_admission_or_independent_credit": 0,
+  "independent_observation_count": null,
+  "MAIN02_alias": "C1 / start is accepted principal member item/xhtml/p-004.xhtml. The current excluded-component register pin does not change the principal admission boundary.",
+  "earlier_DUST05_search_scope": "DUST05 U011 search/travel passages cited in the monographs use earlier qualified native/report receiving, not an extra window in these seven later packets.",
+  "frozen_analysis_artifacts": [
+    {
+      "subject": "LEEN",
+      "model_sha256": "d77fce9b6ac0635ee7ef1eeaedf1c816f4d80f097369f86204b46b0eb132120b",
+      "rule_inventory_sha256": "21aa351ded41d6bbbbc54a45480c8eba01e136324ebc7fd0d91ed86d2baa6aae",
+      "monograph_sha256": "1562f6d94dbb33018ff89d192247ddaeb1dca97bd91f7af38c1eda4738990c7b",
+      "hypothetical_scenario_inputs_sha256": "679d0271d02a0cf58ad8fe08dd27c3d107c38dde5721ed5a5dbc46ce43222182",
+      "actual_first_outputs_sha256": "cefebc48e5f2cf8d402283e6340911ece76b83d45563fe6ac437ff5f0eb02cee",
+      "internal_assessment_sha256": "271e785706eb90b3742e4423cb40771b44128f071c356f59358f07ae8b19da3d",
+      "first_bodies": 4,
+      "regenerations": 0
+    },
+    {
+      "subject": "KEITH",
+      "model_sha256": "405980a8b3b5446bc98499389a9f251bc6690d875ae24e9c4b6e8360fd0ed778",
+      "rule_inventory_sha256": "0475648bce26041679569e257e46e2a7caf548544ab84b067d4b1364cc8f1e7a",
+      "monograph_sha256": "230e28b10af87ebebba86e1f8f019224e2a5dea9e05cd977e05d1fbe8d2b3da2",
+      "hypothetical_scenario_inputs_sha256": "2d69a4b93ef83565a75ef4634c302c1184b842eafab47c9be79f4fec93ca1b5a",
+      "actual_first_outputs_sha256": "7851eaa23615b9be4a90797605e54addc201587bdc5ea5153d5097dd8cdbcebd",
+      "internal_assessment_sha256": "edbc8883412cb96c954c32e98f6c97df41496851e26d77e00981e63c0098ca7f",
+      "first_bodies": 4,
+      "regenerations": 0
+    },
+    {
+      "subject": "TAYLOR",
+      "model_sha256": "4e7b8b70962cdd6ad8a90fa987ba3279a23e8480dd4f92660822db76bb552701",
+      "rule_inventory_sha256": "090baf49ab83cb17d27b3c21e567c99b059832315c1cebf30d26adbb7c671b20",
+      "monograph_sha256": "be66cf8a3cc506b372fa1064e171f67eb80d853dc3b335421e40856a936ac397",
+      "hypothetical_scenario_inputs_sha256": "0b7d8a16eebad0fbbee69a8f0c4ea98b3b0558a03310c11ba8fad69bec3b880b",
+      "actual_first_outputs_sha256": "3838d3275569ebadcf5d56b706b050c73b039e8be675600e07754e9751c3b548",
+      "internal_assessment_sha256": "3339a877dc1a890d608ec76e06e083bba58249bd9e573e4289f6cf854c4a837b",
+      "first_bodies": 4,
+      "regenerations": 0
+    }
+  ],
+  "model_and_rule_precase_freeze_sha256": "4fbe49181a8c072876097d621ffc67e0e24859d8cfddb1d7dc34c05f33a109dc",
+  "exact_input_freeze_sha256": "00d5f1cb9e762dbd972464e4855cd7b1f5666cf6fcb2fa7095c48cbea242f9b7",
+  "actual_first_body_freeze_sha256": "7b52f264d587548d1f169bb9a99b3a1d769797a6c6375560d520ba8a1a73463f",
+  "internal_assessment_seal_sha256": "42326a9717f90c4a7260dd687b1686eb3efc04c6a4d3e23475c8090e543909ae",
+  "same_informed_root_author": true,
+  "total_actual_first_bodies": 12,
+  "total_regenerations": 0,
+  "assessment_limit": "Known-source same-author English hypotheticals. Generic rivals, underidentification, unprobed branches, clean-response overcoherence and Leen practice-permission ambiguity remain. No source forecast, independent accuracy, Japanese adequacy, grade or confidence gain.",
+  "publication_filename_mapping": "Exact selected private model/inventory/draft bytes will be mapped to their first canonical homes. LEEN/TAYLOR pre-freeze draft02 inventories become public RULE_INVENTORY_01 filenames without content changes; old drafts remain private history. No frozen body normalization or semantic repair.",
+  "preservation": "Twenty earlier current models and all original reports, forecasts, scorecards, nulls/blanks, first bodies and annotations remain unchanged. New evidence cannot retroactively validate an old test.",
+  "source_authority_boundary": "No MAIN18, new admission, protected-main merge, executor activation or designated global-output authorship.",
+  "full_program_complete": false
+}

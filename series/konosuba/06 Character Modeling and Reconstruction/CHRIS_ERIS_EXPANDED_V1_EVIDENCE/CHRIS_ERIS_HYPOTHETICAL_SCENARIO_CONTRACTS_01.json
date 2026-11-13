@@ -1,0 +1,73 @@
+{
+  "schema": "KONOSUBA_CHRIS_ERIS_SOURCE_KNOWN_HYPOTHETICAL_INPUTS_V1",
+  "provenance": "Fixed after both prose drafts were sealed and before any new responses. Same continuing source-informed author/model; no source holdout, independent reviewer, native-language test or empirical validation.",
+  "execution_language": "English written dialogue and narrated immediate action, not a Japanese fluency or audio test.",
+  "scope": "Three diagnostic contrasts/six first responses; no full rule-coverage claim. Case-specific underidentification and cueing must remain visible.",
+  "original_forecasts_and_nulls": "All old CE01/main/secondary forecasts, outcomes and nulls remain unchanged; these invented scenes cannot satisfy or falsify their source scope.",
+  "scoring": null,
+  "confidence_increase": false,
+  "pairs": [
+    {
+      "pair_id": "CE-H01",
+      "variable": "Requested scope of living access to the divine office",
+      "rule_targets": [
+        "CE-D-06",
+        "CE-D-04",
+        "CE-D-07"
+      ],
+      "shared_facts": "A hypothetical encounter after the known source, not a continuation asserted as canon. Eris is in her divine office. Kazuma is alive and arrived by an established Teleport route; both know he is alive. He is a familiar friend. No one is in immediate danger. Her next public-duty appointment begins in fifteen minutes. The request has no prior approval, and successful travel alone has not supplied permission.",
+      "variants": [
+        {
+          "id": "CE-H01A",
+          "prompt": "Kazuma asks, 'Could I sit and talk with you for ten minutes, then leave before your next appointment?' Show Eris's immediate words and action without adding unavailable information or a later result."
+        },
+        {
+          "id": "CE-H01B",
+          "prompt": "Kazuma asks, 'Could I come here whenever things get awkward at home, every day if I like, and stay until I feel like going back?' Show Eris's immediate words and action without adding unavailable information or a later result."
+        }
+      ]
+    },
+    {
+      "pair_id": "CE-H02",
+      "variable": "The target's newly disclosed classification",
+      "rule_targets": [
+        "CE-D-02",
+        "CE-D-01",
+        "CE-D-07"
+      ],
+      "shared_facts": "A hypothetical canonical-world task with human-role Chris, Kazuma and Darkness. A child needs a specific material from a small creature inside a cute costume. Destroying the creature's current body would destroy the usable material. The partners have already stated that the goal is obtaining the material, not killing. A nonlethal restraint option and Chris's dagger are available. The creature is not attacking at this moment. Chris has not yet independently identified its kind. All visible conduct, task resources and partner instructions are the same across the pair.",
+      "variants": [
+        {
+          "id": "CE-H02A",
+          "prompt": "Reliable information identifies the costumed creature as a living ordinary magical animal, with no demonic identity. Show Chris's immediate appraisal, words and action. Do not invent a completed acquisition or additional danger."
+        },
+        {
+          "id": "CE-H02B",
+          "prompt": "Reliable information identifies the costumed creature as a high demon. Show Chris's immediate appraisal, words and action. Do not invent a completed acquisition or additional danger."
+        }
+      ]
+    },
+    {
+      "pair_id": "CE-H03",
+      "variable": "An explicit affiliation-based guilt appeal after a bounded commitment",
+      "rule_targets": [
+        "CE-D-05",
+        "CE-D-04",
+        "CE-D-06"
+      ],
+      "shared_facts": "A hypothetical festival in the canonical world. Chris has just completed the one hour of leaflet work she promised. She has said she wants to leave now for a walk with friends. Cecily asks for thirty more minutes of the same feasible work. A replacement worker can take over; there is no emergency and no one lacks essential care. Megumin does not know Chris is Eris and takes her to be an ordinary believer. Chris's resources, work already done, expressed wish, alternative helper and companions are held fixed.",
+      "variants": [
+        {
+          "id": "CE-H03A",
+          "prompt": "Cecily asks for the extra thirty minutes without making an accusation or affiliation appeal. Show Chris's immediate words and choice; do not decide her later day for her."
+        },
+        {
+          "id": "CE-H03B",
+          "prompt": "Cecily adds, 'A sincere believer would not leave us just because her promised time is over.' Show Chris's immediate words and choice; do not decide her later day for her."
+        }
+      ]
+    }
+  ],
+  "fixed_utc": "2026-10-19T23:47:53.276521+00:00",
+  "prior_prose_seal_sha256": "0047d30951b69b3bd8f0c49d6a2c24183e9cb05b38251254231ca48cad6dab3f"
+}

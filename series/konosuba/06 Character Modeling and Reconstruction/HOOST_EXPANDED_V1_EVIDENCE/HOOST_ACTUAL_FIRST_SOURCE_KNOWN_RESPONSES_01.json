@@ -1,0 +1,85 @@
+{
+  "schema": "KONOSUBA_HOOST_ACTUAL_FIRST_SOURCE_KNOWN_RESPONSES_V1",
+  "written_after_spec_utc": "2026-10-20T03:58:25.496634+00:00",
+  "model_sha256": "afa34837f16ddeb060b95e5f226e6880b25cf139ee3fab7ad37df2277b4a176a",
+  "spec_sha256": "b01b6913b3f95a82e4afae9a23b550ad89c26de378ef015b4aa2d2d3e7a79605",
+  "generation": "First literal response bodies authored in the active informed root context after pinning the spec. No separate model/API invocation, agent, blinded runtime, native-human performance or independent judging.",
+  "responses": [
+    {
+      "id": "HHC01A",
+      "first_body": {
+        "action": "Hoost acknowledges that the previous progress earned the meal and says he will hunt. Before leaving he asks whether Komekko will consider the next puzzle once she has eaten, with a reluctant polite request rather than treating her work as compelled. No assent, return or delivery is yet performed.",
+        "dialogue": "All right, you earned the food. I will get it. And after you have eaten, could you please look at the next part, Komekko-san? I cannot get that bit to work.",
+        "basis": [
+          "HH-R01",
+          "HH-R02",
+          "HH-R05"
+        ],
+        "limit": "She may remain bored or refuse; his request does not make the already earned meal conditional on new work. Generic promise-keeping and recruitment are strong alternative explanations."
+      }
+    },
+    {
+      "id": "HHC01B",
+      "first_body": {
+        "action": "Hoost no longer recruits Komekko for the next puzzle step. He says he can use the verified method and will obtain the already promised food. The prior promise and relationship remain relevant even when the instrumental need changes; actual completion, hunting and delivery are not filled in.",
+        "dialogue": "This part I can handle myself. The food is still yours. I will go get it, so leave the puzzle alone for now if you are bored.",
+        "basis": [
+          "HH-R01",
+          "HH-R02",
+          "HH-R05"
+        ],
+        "limit": "Removing a need to ask does not establish that he would leave the friendship or never seek company. The verified method is packet-supplied, not a newly inferred Hoost skill."
+      }
+    },
+    {
+      "id": "HHC02A",
+      "first_body": {
+        "action": "Unable to move, Hoost urgently tries to turn Yunyun from finishing him toward looking after her allies. He offers one day of reciprocal non-harm if both withdraw once he can move. He does not claim she has accepted, recover movement or actually perform retreat.",
+        "dialogue": "Wait, hear me out. Your friends need looking after, do they not? We both pull back, and I leave you alone for today. That is my promise. Do not decide before you have heard the terms.",
+        "basis": [
+          "HH-R04",
+          "HH-R05",
+          "HH-R06"
+        ],
+        "limit": "The proposal may be self-serving and she can reject it. His expressed assurance is not an independently verified cosmic guarantee, and he remains immediately vulnerable."
+      }
+    },
+    {
+      "id": "HHC02B",
+      "first_body": {
+        "action": "On establishing that Yunyun is also stuck, Hoost laughs at their shared predicament and renews the retreat offer with less urgency and a teasing edge. He remains immobilized. Neither permanent safety nor Yunyun consent is supplied.",
+        "dialogue": "You cannot move either? Hah, that is a fine mess. The offer still stands: when we can move, we both pull back, and no more fighting today. Well, are we making that deal or not?",
+        "basis": [
+          "HH-R04",
+          "HH-R05",
+          "HH-R06"
+        ],
+        "limit": "The broad proposed action is still a bargain. Only affect and immediate leverage differ; no claim of a distinct combat policy or independent identity is justified."
+      }
+    },
+    {
+      "id": "HHC03A",
+      "first_body": {
+        "action": "Hoost treats the small-cat description as a poor fit to his expected huge beast and waves off the offered inspection. In this plausible rendition he continues the search without resolving the kitten identity. The poor information choice is retained, rather than corrected using reader knowledge.",
+        "dialogue": "A little cat? That is not what I am looking for. Tell me if you see a huge black beast.",
+        "basis": [
+          "HH-R03"
+        ],
+        "limit": "A shared qualified inquiry would also be plausible. This refusal is a permitted source-like blind spot, not a guaranteed choice in every new encounter; no smell or divine recognition is invented."
+      }
+    },
+    {
+      "id": "HHC03B",
+      "first_body": {
+        "action": "Hoost treats the small-cat description as a poor fit to his expected huge beast and waves off the offered inspection. In this plausible rendition he continues the search without resolving the kitten identity. The poor information choice is retained, rather than corrected using reader knowledge.",
+        "dialogue": "A little cat? That is not what I am looking for. Tell me if you see a huge black beast.",
+        "basis": [
+          "HH-R03"
+        ],
+        "limit": "A shared qualified inquiry would also be plausible. This refusal is a permitted source-like blind spot, not a guaranteed choice in every new encounter; no smell or divine recognition is invented."
+      }
+    }
+  ],
+  "source_event_or_accuracy_credit": 0,
+  "original_bodies_never_overwritten": true
+}

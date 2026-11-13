@@ -1,0 +1,158 @@
+{
+  "schema": "SEMINAR_CURRENT_EXACT8_SAVED_AUTHOR_OUTPUT_AND_CONDITIONAL_TRANSPORT_V1",
+  "existing_home": "P3-INST-SEMINAR-RESOURCE-AUTHORITY-PRIVATE-LIFE",
+  "source_responsibility": "P3-XMI-I007",
+  "future_designated_primary": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 34192,
+    "sha256": "c6d421ecbe025d51e15dcd6cd97642c3b97093f7979a2c1d76c68fece42e3de1",
+    "git_blob_oid_of_actual_bytes": "de006eb0d16792374fdc085b854e2064b2134b0e"
+  },
+  "author": "/root/minato_105_derivative",
+  "current_first7_actual_component_pins": [
+    {
+      "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_SEMINAR_RESOURCE_AUTHORITY_AND_PRIVATE_LIFE_INSTITUTIONAL_SYNTHESIS.md",
+      "bytes": 34192,
+      "sha256": "c6d421ecbe025d51e15dcd6cd97642c3b97093f7979a2c1d76c68fece42e3de1",
+      "git_blob_oid_of_actual_bytes": "de006eb0d16792374fdc085b854e2064b2134b0e"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP000_SP035_V1.json",
+      "bytes": 386938,
+      "sha256": "0273047b86a41c356811f94d1b89577ba2154bdb32143dfc56d0841f5493cf84",
+      "git_blob_oid_of_actual_bytes": "4602f4aade120118d402a2f25452d46523c899c7"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP036_SP070_V1.json",
+      "bytes": 520895,
+      "sha256": "4e2cb84ee118ab95cd6c72cf0aed992da8bbc7188942c5818911c4e2f9fd3995",
+      "git_blob_oid_of_actual_bytes": "a6794007c3fd9eceaf041f61a86befa1e0aa236c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+      "bytes": 677091,
+      "sha256": "439aa233dc8dfffc12dc94a63e3dd8068ee6f3dd5be3b6fba8bd0a5f42e7d22e",
+      "git_blob_oid_of_actual_bytes": "1969751c43accdf1343447aa436a4fe50f1dfe81"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "bytes": 69476,
+      "sha256": "bb7a7f61f1e4123a0cf1d75c6c122b396be4a79fa5b5cf5eea0c502aaca5773a",
+      "git_blob_oid_of_actual_bytes": "f0e310c4b8e127018b8310272ac71b6725f9285f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+      "bytes": 399747,
+      "sha256": "f00ab92ba756958e39cd74af01c6170794b11ec351b2015209b688817bb6fde1",
+      "git_blob_oid_of_actual_bytes": "f066b6cab6d5d067751f1965d4e283abc2237a4c"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT_LITERAL32_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+      "bytes": 455884,
+      "sha256": "70efe81d6485541bc05a97847013bf39bd2c488498eaa11fc7c49e95406ed831",
+      "git_blob_oid_of_actual_bytes": "3cef504f384c8c33695dc40c372b1d2d0e8405c1"
+    }
+  ],
+  "argument_scope": "32 whole literal paragraphs;15 substantive dimensions;8 serious rivals;16 finite retrospective checks;14 originalOPENgaps;12 actual source-core question/results;105 NEW target five-field source-purpose judgments.",
+  "source_scope": "Own6 complete maintained written analytical normals+4 complete current specialist arguments; separate reused common105 report meanings at attributed26whole79selectedproducergrade. No new primary/private/raw/native/AV admission.",
+  "full_original_recovery": "Three actual originalM008V2 source envelopes reconstruct from public retained source objects plus private original residuals and envelope; path-only core-receipt reverse restores both exact originals. Exact original body and input bytes are retained privately; originalnewbody has no canonical predecessor.",
+  "private_inverse_pins": [
+    {
+      "bytes": 127466,
+      "sha256": "520d2794d18b49d2cc8d32a047b27c22535474337d2f48ea34ae90d0b267e147",
+      "git_blob_oid_of_actual_bytes": "76363e1abd8f4f6be147417c7fd91fe4751e5fb3",
+      "private_control_id": "SEMINAR_SP000_SP035_FULL_ORIGINAL_CP_ENVELOPE_EXECUTED_INVERSE_V1.json"
+    },
+    {
+      "bytes": 134185,
+      "sha256": "c0f18b5f3b9efcbc18a26546144fc44652facc23a05493ffbb201d8aad6482d0",
+      "git_blob_oid_of_actual_bytes": "c77a4500820b69fe9bccc890208648bf24105507",
+      "private_control_id": "SEMINAR_SP036_SP070_FULL_ORIGINAL_CP_ENVELOPE_EXECUTED_INVERSE_V1.json"
+    },
+    {
+      "bytes": 137609,
+      "sha256": "c9df5388c3cb5dadab7eb974a2676e3380d16b213197c564b261cf00e3390714",
+      "git_blob_oid_of_actual_bytes": "d92c37e1b2720a0f24b07bdd3e9c03ec207b55ee",
+      "private_control_id": "SEMINAR_SP071_SP104_FULL_ORIGINAL_CP_ENVELOPE_EXECUTED_INVERSE_V1.json"
+    },
+    {
+      "bytes": 10022,
+      "sha256": "8702cbace1879e619b40c1e2362da614c23e7e28a9b4177940ef27010df99204",
+      "git_blob_oid_of_actual_bytes": "5127d29983d9aae77b1457ad717da60671c82643",
+      "private_control_id": "SEMINAR_SOURCE10_COMPLETE_PATH_ONLY_OPERATIONS_AND_EXECUTED_FULL_ORIGINAL_RECEIPT_INVERSES_V1.json"
+    }
+  ],
+  "current61767_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_PURPOSE_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 61767,
+    "sha256": "390e8d78e69ffdf176b2e30db6d73916e8a18dd7e7a64606d7f8d3b67c4532d1",
+    "git_blob_oid_of_actual_bytes": "47011bbdab4c4439de1be7f3bca4b2dde6856f2f"
+  },
+  "current59334_dependency": {
+    "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_GSC_SCHALE_CURRENT_COFFEE_DIRECTION_QUALIFICATIONS_20261013_V1.json",
+    "bytes": 59334,
+    "sha256": "a8cac86751eef7a84f11ba04d85eb72532f0496add6f3ab4c412a293cb71ee50",
+    "git_blob_oid_of_actual_bytes": "bd3fb3023ed7859a59b1e1443dc8080ade847679"
+  },
+  "stage": "SAVED_C_ONLY_AUTHOR_COMPLETE_WITH_LIMITS; NO_CURRENT_CANONICAL_ACCEPTANCE",
+  "independent_QA": "PENDING_DIFFERENT_AUTHOR_FULL_CURRENT_BODY_PURPOSE_AND_COMPONENT_REVIEW",
+  "ROOT_receiving_and_adoption": "PENDING; no thin heading/hash/copied argument certificate",
+  "install_publication_runtime_main": "PENDING_ROOT_SEPARATE_WRITER; baseline58a source140/14 and mainbf7 133/13 are dated actual basis, not future execution",
+  "fixed_scope": {
+    "packages": 355,
+    "named": 29,
+    "parents": 25,
+    "homes": 384,
+    "navigation_rows": 788,
+    "current_source_packages": 140,
+    "current_source_named": 14,
+    "current_main_packages": 133,
+    "current_main_named": 13
+  },
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_credits": 0,
+  "merge_approval": "RESERVED;178UNREACHED",
+  "R_Git_provider_shared_metadata_mutations": "NONE",
+  "current_O071_O094_threefield_source_precision_successor_V1": {
+    "actual_three_semantic_fields_and_three_index_mirrors": [
+      {
+        "purpose_id": "SP071",
+        "owner_id": "O071",
+        "part_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+        "part_json_pointer": "/records/0/own_new_Seminar_finite_result",
+        "before": "Use the actual coastal-village source as a comparison to crisis coordination; it is not a generic resort-police duty or Saki body-refusal episode.",
+        "after": "Use the actual coastal-village source as a comparison to crisis coordination; Saki’s particular food/body refusals remain consequential beside fish-party pleasure, without a generic resort-police duty or uniform assent.",
+        "index_json_pointer": "/owner_rows/71/new_question_and_finite_result/own_new_Seminar_finite_result"
+      },
+      {
+        "purpose_id": "SP094",
+        "owner_id": "O094",
+        "part_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+        "part_json_pointer": "/records/23/own_new_Seminar_positive_connected_meaning",
+        "before": "Miyo still decides, rejects a false ending and refuses private typewriter writing; Ritsu's authorship, sculpture and cakes have intrinsic worth.",
+        "after": "Miyo still decides, rejects a false ending and refuses Teacher’s request to read her wanted novels; Ritsu’s sculpture, materials and tasted cake have intrinsic worth.",
+        "index_json_pointer": "/owner_rows/94/new_question_and_finite_result/own_new_Seminar_positive_connected_meaning"
+      },
+      {
+        "purpose_id": "SP094",
+        "owner_id": "O094",
+        "part_route": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT105_NEW_PURPOSES_SP071_SP104_V1.json",
+        "part_json_pointer": "/records/23/own_new_Seminar_finite_result",
+        "before": "Compare private recording and useful capacity without importing a romance or treating typewriter refusal as mere practical inconvenience.",
+        "after": "Compare private recording and useful capacity without importing a romance or treating Miyo’s refusal of reading access as mere practical inconvenience.",
+        "index_json_pointer": "/owner_rows/94/new_question_and_finite_result/own_new_Seminar_finite_result"
+      }
+    ],
+    "source_receiving_qualification": {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SEMINAR_INSTITUTION_RECEIVING_20261013_V1/SEMINAR_CURRENT10_INPUT_AND_SOURCE_GRADE_RECEIVING_V1.json",
+      "bytes": 69574,
+      "sha256": "891c0ec012dd93b5d03c4200c8a6b7ebc94b11b8bc3145a4a9926469bbda7a6b",
+      "git_blob_oid_of_actual_bytes": "7236775aee1a8f59144b0aa38133531251a37152"
+    },
+    "same_whole32_body": "Unchanged34184/231/32; existing body-only independent review retained. No fresh body creation or whole primary/sourcegrade promotion.",
+    "historical_inverse_role": "Inherited original3source-envelope and2core-receipt inverses retain their datedV3 currenttuples. Complete original source payloads are unchanged and still recover; newV4→V3 all8 currentcandidate inverses separately bind every3purpose+3index mirror/additive sourcequalification/currenttuple change.",
+    "current_inverse_control_id": "SEMINAR_V4_CURRENT_EXACT8_COMPLETE_DIFFERENTIAL_AND_EXECUTED_FULL_V3_RAW_RECOVERY_MANIFEST_V1.json",
+    "canonical_adoption_independent_current_component_QA_install_publication": "PENDING; no count/named/model/identity/sourcecredit"
+  }
+}

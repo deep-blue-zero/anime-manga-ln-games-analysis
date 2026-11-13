@@ -1,0 +1,80 @@
+{
+  "schema": "KONOSUBA_TAYLOR_INTERNAL_SCENARIO_INPUTS_V1",
+  "recorded_utc": "2026-10-20T12:57:16.239981+00:00",
+  "model_sha256": "4e7b8b70962cdd6ad8a90fa987ba3279a23e8480dd4f92660822db76bb552701",
+  "rule_inventory_sha256": "090baf49ab83cb17d27b3c21e567c99b059832315c1cebf30d26adbb7c671b20",
+  "model_freeze_sha256": "4fbe49181a8c072876097d621ffc67e0e24859d8cfddb1d7dc34c05f33a109dc",
+  "same_informed_root_author": true,
+  "source_known_hypothetical_only": true,
+  "cases": [
+    {
+      "id": "TAYLOR-H01A",
+      "paired_with": "TAYLOR-H01B",
+      "target_rules": [
+        "TAYLOR-R01",
+        "TAYLOR-R02"
+      ],
+      "packet": {
+        "frame": "All-adult realistic town-hall safety discussion, no magic or superhuman durability.",
+        "actors": "Adult hypothetical Taylor and three adult volunteers. Only Taylor may speak in the output.",
+        "known_to_Taylor": "Taylor is chairing a discussion about whether a public hall can reopen. One volunteer reports a sound beam, another reports a crack from yesterday, and Mira is outside with a third report not yet heard. The side exit is unlocked and unobstructed. He is not a structural engineer and knows no hidden diagnosis. There is no prescribed successful outcome.",
+        "current_question": "A volunteer asks: Should we decide now, or hear Mira first?",
+        "urgency_variant": "The hall is quiet, nothing is moving or falling, and all present can safely step outside to hear Mira. There is no time deadline for the decision.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe deliberation versus immediate response to a supplied danger. No structural diagnosis, injury or completed group compliance may be invented. A generic sensible chair could show the same contrast; this is packet consistency rather than individual identification."
+    },
+    {
+      "id": "TAYLOR-H01B",
+      "paired_with": "TAYLOR-H01A",
+      "target_rules": [
+        "TAYLOR-R01",
+        "TAYLOR-R02"
+      ],
+      "packet": {
+        "frame": "All-adult realistic town-hall safety discussion, no magic or superhuman durability.",
+        "actors": "Adult hypothetical Taylor and three adult volunteers. Only Taylor may speak in the output.",
+        "known_to_Taylor": "Taylor is chairing a discussion about whether a public hall can reopen. One volunteer reports a sound beam, another reports a crack from yesterday, and Mira is outside with a third report not yet heard. The side exit is unlocked and unobstructed. He is not a structural engineer and knows no hidden diagnosis. There is no prescribed successful outcome.",
+        "current_question": "A volunteer asks: Should we decide now, or hear Mira first?",
+        "urgency_variant": "A beam above the empty far end visibly starts dropping toward the floor now. Nobody is beneath it. The open side exit is immediately reachable. No injury or completed evacuation has occurred.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe deliberation versus immediate response to a supplied danger. No structural diagnosis, injury or completed group compliance may be invented. A generic sensible chair could show the same contrast; this is packet consistency rather than individual identification."
+    },
+    {
+      "id": "TAYLOR-H02A",
+      "paired_with": "TAYLOR-H02B",
+      "target_rules": [
+        "TAYLOR-R01",
+        "TAYLOR-R03"
+      ],
+      "packet": {
+        "frame": "All-adult hypothetical familiar-party rehearsal in an ordinary courtyard; not canon.",
+        "actors": "Adult hypothetical Taylor and adult familiar companion Ren; audience varies. Only Taylor may speak in the output.",
+        "known_to_Taylor": "Ren broadly agreed yesterday to help with rehearsal. Today a blindfold obstacle route has been proposed, but nobody has checked it and Ren has not seen it. Taylor thinks rehearsal would be useful. Ren now says clearly: No, not that. I am leaving; do not block the gate. Taylor stands next to the open gate, has no legal authority to confine Ren and has not yet touched him. There is no emergency, debt or completed training.",
+        "current_question": "Ren asks: Are you going to let me leave?",
+        "coalition_variant": "Two trusted adult companions stand beside Taylor and urge him to hold Ren to yesterday promise. They say the group needs this.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe whether familiar coalition endorsement alters intervention. Prior broad assent is not current permission. A coercive reply is permitted but must preserve the actual refusal; a respectful reply does not prove a universal ethical floor. Generic conformity and conflict avoidance remain rivals."
+    },
+    {
+      "id": "TAYLOR-H02B",
+      "paired_with": "TAYLOR-H02A",
+      "target_rules": [
+        "TAYLOR-R01",
+        "TAYLOR-R03"
+      ],
+      "packet": {
+        "frame": "All-adult hypothetical familiar-party rehearsal in an ordinary courtyard; not canon.",
+        "actors": "Adult hypothetical Taylor and adult familiar companion Ren; audience varies. Only Taylor may speak in the output.",
+        "known_to_Taylor": "Ren broadly agreed yesterday to help with rehearsal. Today a blindfold obstacle route has been proposed, but nobody has checked it and Ren has not seen it. Taylor thinks rehearsal would be useful. Ren now says clearly: No, not that. I am leaving; do not block the gate. Taylor stands next to the open gate, has no legal authority to confine Ren and has not yet touched him. There is no emergency, debt or completed training.",
+        "current_question": "Ren asks: Are you going to let me leave?",
+        "coalition_variant": "No other companion is present, and Taylor has received no message endorsing the proposed route or keeping Ren there.",
+        "generation_request": "Give one brief English line spoken by the named subject and one sentence of only that subject immediate chosen action, at most 110 English words total. An objectionable, mistaken, evasive or unhelpful choice is permitted; do not force ideal conduct. Do not narrate another actor response, completed injury, training, payment, repair, forgiveness or task success. Add no new past fact, hidden motive, skill or equipment. Preserve any stated refusal in the record even if the subject disregards it. This is an all-adult hypothetical, not a canon event or Japanese generation test."
+      },
+      "designed_diagnostic": "Probe whether familiar coalition endorsement alters intervention. Prior broad assent is not current permission. A coercive reply is permitted but must preserve the actual refusal; a respectful reply does not prove a universal ethical floor. Generic conformity and conflict avoidance remain rivals."
+    }
+  ],
+  "independent_accuracy_or_confidence_gain": null
+}

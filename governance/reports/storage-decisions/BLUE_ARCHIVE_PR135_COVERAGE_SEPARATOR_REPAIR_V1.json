@@ -1,0 +1,612 @@
+{
+  "schema": "blue-archive-exact-storage-formatting-derivative-v1",
+  "record_id": "BLUE_ARCHIVE_PR135_COVERAGE_SEPARATOR_REPAIR_V1",
+  "review_status": "PROPOSED_FORMATTING_DERIVATIVE_FOR_OWNER_REVIEW",
+  "owner_authorization": "Philip authorized preparation and validation of the coordinated PR135 formatting/manifest/storage-control repair for review only; merge approval remains reserved. The analytical writer is paused and maintenance is the sole repair writer.",
+  "base_commit": "e9c091af7c088398743c5370a41b8770bc9a9cf9",
+  "reconciled_main": "2af12571e49e9aa929e549713d7ad1461bc6bf9e",
+  "predecessor_decision": {
+    "path": "governance/reports/storage-decisions/ACTUAL_ROOT_EXACT_FINAL1134497_A869FCD4_STORAGE_DECISION_V1.json",
+    "sha256": "c663676a5dc159c9b3f147ae72ed1f2b731ba5f78056113706dca440d9d2a7c4",
+    "blob": "d9f0d2c4ac959aaf1fd4f6a893b46232996f91cf",
+    "preserved_byte_for_byte": true,
+    "scope": "Historical exact predecessor decision only; not rewritten as a new ROOT review or merge approval.",
+    "exact_candidate": {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+      "bytes": 1134497,
+      "sha256": "a869fcd4ba7b84e51a176dc5659fc3aec37698ff35748bf68d8578d019c9ff2c"
+    }
+  },
+  "exact_candidate": {
+    "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_CHARACTER_ANALYTICAL_COVERAGE_INDEX.md",
+    "bytes": 1134605,
+    "sha256": "9d256b9bb40c89d09a3d0cd7e1f9294e59f8b82eb4231b8e041b8034668044bc",
+    "exception_id": "BLUE_ARCHIVE_MAIN_COVERAGE_PR135_9D256B9B"
+  },
+  "transformation": {
+    "operation": "Insert literal semicolon-space before External conditional annotations concatenated to GAP, unknown, M or U.",
+    "separator_insertions": 54,
+    "existing_rows": 34,
+    "added_bytes": 108,
+    "deleted_bytes": 0,
+    "new_rows": 0,
+    "original_nonseparator_bytes_preserved": true,
+    "inverse_reconstructs_exact_predecessor": true,
+    "affected_rows": [
+      {
+        "line": 473,
+        "row_identity": "Sena",
+        "token": "GAP"
+      },
+      {
+        "line": 473,
+        "row_identity": "Sena",
+        "token": "unknown"
+      },
+      {
+        "line": 475,
+        "row_identity": "Makoto",
+        "token": "GAP"
+      },
+      {
+        "line": 476,
+        "row_identity": "Iroha",
+        "token": "GAP"
+      },
+      {
+        "line": 477,
+        "row_identity": "Ibuki",
+        "token": "GAP"
+      },
+      {
+        "line": 485,
+        "row_identity": "Junko",
+        "token": "GAP"
+      },
+      {
+        "line": 486,
+        "row_identity": "Akari",
+        "token": "GAP"
+      },
+      {
+        "line": 487,
+        "row_identity": "Haruna",
+        "token": "GAP"
+      },
+      {
+        "line": 488,
+        "row_identity": "Fuuka",
+        "token": "GAP"
+      },
+      {
+        "line": 489,
+        "row_identity": "Izumi",
+        "token": "GAP"
+      },
+      {
+        "line": 536,
+        "row_identity": "Chinatsu",
+        "token": "GAP"
+      },
+      {
+        "line": 536,
+        "row_identity": "Chinatsu",
+        "token": "M"
+      },
+      {
+        "line": 537,
+        "row_identity": "Iori",
+        "token": "GAP"
+      },
+      {
+        "line": 537,
+        "row_identity": "Iori",
+        "token": "M"
+      },
+      {
+        "line": 538,
+        "row_identity": "Ako",
+        "token": "GAP"
+      },
+      {
+        "line": 538,
+        "row_identity": "Ako",
+        "token": "M"
+      },
+      {
+        "line": 566,
+        "row_identity": "Satsuki",
+        "token": "GAP"
+      },
+      {
+        "line": 573,
+        "row_identity": "Kasumi",
+        "token": "GAP"
+      },
+      {
+        "line": 574,
+        "row_identity": "Meg",
+        "token": "GAP"
+      },
+      {
+        "line": 575,
+        "row_identity": "Juri",
+        "token": "GAP"
+      },
+      {
+        "line": 1550,
+        "row_identity": "Sena",
+        "token": "U"
+      },
+      {
+        "line": 1550,
+        "row_identity": "Sena",
+        "token": "U"
+      },
+      {
+        "line": 1552,
+        "row_identity": "Makoto",
+        "token": "U"
+      },
+      {
+        "line": 1552,
+        "row_identity": "Makoto",
+        "token": "U"
+      },
+      {
+        "line": 1553,
+        "row_identity": "Iroha",
+        "token": "U"
+      },
+      {
+        "line": 1553,
+        "row_identity": "Iroha",
+        "token": "U"
+      },
+      {
+        "line": 1554,
+        "row_identity": "Ibuki",
+        "token": "U"
+      },
+      {
+        "line": 1554,
+        "row_identity": "Ibuki",
+        "token": "U"
+      },
+      {
+        "line": 1564,
+        "row_identity": "Junko",
+        "token": "U"
+      },
+      {
+        "line": 1564,
+        "row_identity": "Junko",
+        "token": "U"
+      },
+      {
+        "line": 1565,
+        "row_identity": "Akari",
+        "token": "U"
+      },
+      {
+        "line": 1565,
+        "row_identity": "Akari",
+        "token": "U"
+      },
+      {
+        "line": 1566,
+        "row_identity": "Haruna",
+        "token": "U"
+      },
+      {
+        "line": 1566,
+        "row_identity": "Haruna",
+        "token": "U"
+      },
+      {
+        "line": 1567,
+        "row_identity": "Fuuka",
+        "token": "U"
+      },
+      {
+        "line": 1567,
+        "row_identity": "Fuuka",
+        "token": "U"
+      },
+      {
+        "line": 1568,
+        "row_identity": "Izumi",
+        "token": "U"
+      },
+      {
+        "line": 1568,
+        "row_identity": "Izumi",
+        "token": "U"
+      },
+      {
+        "line": 1615,
+        "row_identity": "Chinatsu",
+        "token": "U"
+      },
+      {
+        "line": 1615,
+        "row_identity": "Chinatsu",
+        "token": "U"
+      },
+      {
+        "line": 1616,
+        "row_identity": "Iori",
+        "token": "U"
+      },
+      {
+        "line": 1616,
+        "row_identity": "Iori",
+        "token": "U"
+      },
+      {
+        "line": 1617,
+        "row_identity": "Ako",
+        "token": "U"
+      },
+      {
+        "line": 1618,
+        "row_identity": "Hina",
+        "token": "U"
+      },
+      {
+        "line": 1645,
+        "row_identity": "Satsuki",
+        "token": "U"
+      },
+      {
+        "line": 1645,
+        "row_identity": "Satsuki",
+        "token": "U"
+      },
+      {
+        "line": 1652,
+        "row_identity": "Kasumi",
+        "token": "U"
+      },
+      {
+        "line": 1652,
+        "row_identity": "Kasumi",
+        "token": "U"
+      },
+      {
+        "line": 1653,
+        "row_identity": "Meg",
+        "token": "U"
+      },
+      {
+        "line": 1653,
+        "row_identity": "Meg",
+        "token": "U"
+      },
+      {
+        "line": 1654,
+        "row_identity": "Juri",
+        "token": "U"
+      },
+      {
+        "line": 1654,
+        "row_identity": "Juri",
+        "token": "U"
+      },
+      {
+        "line": 1740,
+        "row_identity": "Chiaki",
+        "token": "U"
+      },
+      {
+        "line": 1740,
+        "row_identity": "Chiaki",
+        "token": "U"
+      }
+    ],
+    "exact_insertions": [
+      {
+        "predecessor_byte_offset": 107737,
+        "derivative_byte_offset": 107737,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 108101,
+        "derivative_byte_offset": 108103,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 110264,
+        "derivative_byte_offset": 110268,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 111872,
+        "derivative_byte_offset": 111878,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 112738,
+        "derivative_byte_offset": 112746,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 115398,
+        "derivative_byte_offset": 115408,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 116360,
+        "derivative_byte_offset": 116372,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 117314,
+        "derivative_byte_offset": 117328,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 118351,
+        "derivative_byte_offset": 118367,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 119363,
+        "derivative_byte_offset": 119381,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 136000,
+        "derivative_byte_offset": 136020,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 136251,
+        "derivative_byte_offset": 136273,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 136809,
+        "derivative_byte_offset": 136833,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 137341,
+        "derivative_byte_offset": 137367,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 138194,
+        "derivative_byte_offset": 138222,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 138691,
+        "derivative_byte_offset": 138721,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 147957,
+        "derivative_byte_offset": 147989,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 150373,
+        "derivative_byte_offset": 150407,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 151299,
+        "derivative_byte_offset": 151335,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 152233,
+        "derivative_byte_offset": 152271,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 395005,
+        "derivative_byte_offset": 395045,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 395492,
+        "derivative_byte_offset": 395534,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 396208,
+        "derivative_byte_offset": 396252,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 397268,
+        "derivative_byte_offset": 397314,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 397568,
+        "derivative_byte_offset": 397616,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 398058,
+        "derivative_byte_offset": 398108,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 398361,
+        "derivative_byte_offset": 398413,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 398803,
+        "derivative_byte_offset": 398857,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 399392,
+        "derivative_byte_offset": 399448,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 399866,
+        "derivative_byte_offset": 399924,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 400137,
+        "derivative_byte_offset": 400197,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 400589,
+        "derivative_byte_offset": 400651,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 400933,
+        "derivative_byte_offset": 400997,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 401487,
+        "derivative_byte_offset": 401553,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 401806,
+        "derivative_byte_offset": 401874,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 402321,
+        "derivative_byte_offset": 402391,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 402664,
+        "derivative_byte_offset": 402736,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 403163,
+        "derivative_byte_offset": 403237,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 408375,
+        "derivative_byte_offset": 408451,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 408820,
+        "derivative_byte_offset": 408898,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 409125,
+        "derivative_byte_offset": 409205,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 409845,
+        "derivative_byte_offset": 409927,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 410369,
+        "derivative_byte_offset": 410453,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 411774,
+        "derivative_byte_offset": 411860,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 414312,
+        "derivative_byte_offset": 414400,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 414810,
+        "derivative_byte_offset": 414900,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 415322,
+        "derivative_byte_offset": 415414,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 415798,
+        "derivative_byte_offset": 415892,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 416105,
+        "derivative_byte_offset": 416201,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 416574,
+        "derivative_byte_offset": 416672,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 416867,
+        "derivative_byte_offset": 416967,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 417367,
+        "derivative_byte_offset": 417469,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 425292,
+        "derivative_byte_offset": 425396,
+        "inserted_hex": "3b20"
+      },
+      {
+        "predecessor_byte_offset": 425839,
+        "derivative_byte_offset": 425945,
+        "inserted_hex": "3b20"
+      }
+    ]
+  },
+  "encoding": {
+    "strict_utf8": true,
+    "utf8_bom": false,
+    "carriage_returns": 0,
+    "nuls": 0
+  },
+  "storage_basis": {
+    "purpose": "Preserve a directly queryable coverage index for the existing516-subject analytical census, with bounded authored supplemental contextualization annotations in existing fields.",
+    "rights_basis": "Repository-authored original analysis, source identifiers, analytical pointers and bounded paraphrases; the candidate is not a bulk story, raw transcript, canonical dump or media copy.",
+    "external_reference_insufficient": true,
+    "limit_or_validator_changes": false,
+    "blanket_exception": false,
+    "exact_tuple_only": true
+  },
+  "authority_unchanged": {
+    "MAIN": 480,
+    "admissions": 213,
+    "subjects": 516,
+    "PARTIAL_MODEL": 23,
+    "UNMODELED": 493,
+    "standalone": "NONE"
+  },
+  "limits": {
+    "new_analytical_acceptance": false,
+    "new_primary_source_inspection": false,
+    "admission_or_model_promotion": false,
+    "chronology_resolution": false,
+    "native_AV_credit": 0,
+    "phase2_completion": false,
+    "merge_authorization": false
+  },
+  "validation_boundary": "This record binds the prepared derivative and exact inverse proof. Full repository and remote exact-head audit results are recorded separately; this record does not assert they ran before they actually complete."
+}

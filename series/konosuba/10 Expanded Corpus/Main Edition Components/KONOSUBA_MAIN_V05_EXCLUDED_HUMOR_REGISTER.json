@@ -1,0 +1,374 @@
+{
+  "schema": "KONOSUBA_MAIN05_EXCLUDED_SELECTED_HUMOR_V1",
+  "source_id": "MAIN-05",
+  "records": [
+    {
+      "id": "M05EX-H01",
+      "boundary": {
+        "component_id": "MAIN-05-U003",
+        "image_id": "MAIN-05-IMG005"
+      },
+      "whole_selected_premise": "Aqua's magnificent unsolicited introduction meets Kazuma's exasperated side commentary.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "STAGED_FRONT_COMPOSITION_WITH_RETAINED_EVENT_QUOTATION",
+      "primary_H": "H4",
+      "H_rationale": "U019P263-267 fixes the actual boast; the composite is not a second enacted episode.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-fmatter-002.xhtml",
+      "native_member_sha256": "761a22880696bd0fa214b8ddc28ff10da7fc070f56564c41fc79a38eeddca648",
+      "native_image_sha256": "1a7bc026c9756777f69a2c13251edc6bb0e5e523b958f734127ef1f4df6a4f2c",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H02",
+      "boundary": {
+        "component_id": "MAIN-05-U004",
+        "image_id": "MAIN-05-IMG006"
+      },
+      "whole_selected_premise": "Megumin's assured closeness is paired with Kazuma's hesitation, while non-action trust and a concealed window trick complicate his position.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "STAGED_FRONT_COMPOSITION_OF_RETAINED_EVENT",
+      "primary_H": "H4",
+      "H_rationale": "U023P368-405 supplies the actual conversation; relational warmth does not erase his deception or create universal permission.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-fmatter-003.xhtml",
+      "native_member_sha256": "79784d0681a52b3fdac368b70efb2d39cb18536d7f349e6500d452a781205b8f",
+      "native_image_sha256": "9e2d92fc436a48a04e351190cb1936d1747e86872b5f2eae0a2314eaa8f8b1fe",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H03",
+      "boundary": {
+        "component_id": "MAIN-05-U005",
+        "image_id": "MAIN-05-IMG007"
+      },
+      "whole_selected_premise": "Darkness's successful defensive presence is packaged with a request to be subjugated.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "STAGED_FRONT_CONFRONTATION",
+      "primary_H": "H4",
+      "H_rationale": "U023P187-223 distinguishes actual protection, provocation and Sylvia's incorrect inference of deliberate feints.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-fmatter-004.xhtml",
+      "native_member_sha256": "c58ccc37e8faff9077f53c7529921c8d9743abca333a27ade61f54352a7ecc56",
+      "native_image_sha256": "87d6d791a7393db7c700aa9f138485691beef4f7ea4891be1615680db32e3a52",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H04",
+      "boundary": {
+        "component_id": "MAIN-05-U010",
+        "image_id": "MAIN-05-IMG009"
+      },
+      "whole_selected_premise": "A village guide treats dangerous monsters, lurid business brands, magical bath plumbing and Megumin's self-presentation as tourist attractions.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "IN_WORLD_PROMOTIONAL_GUIDE_BY_ARUE",
+      "primary_H": "H4",
+      "H_rationale": "Advertisements, legends and interview self-claims remain attributed; the guide is not a new series of performed spells or visits.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-001.xhtml",
+      "native_member_sha256": "de758d128729680b29f08467aa200763586ee96bf795c945fbe5046df78d62db",
+      "native_image_sha256": "02fd01b78b43255dced20fd03b996cb471168d46c12ea75a00f18fb8d64a0df9",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H05",
+      "boundary": {
+        "component_id": "MAIN-05-U014",
+        "image_id": "MAIN-05-IMG012"
+      },
+      "whole_selected_premise": "A chief's catastrophic family letter creates urgency; he later describes its opening as a conventional greeting and its military dilemma as an attraction dispute.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "IN_WORLD_LETTER_WITH_RETAINED_CORRECTION",
+      "primary_H": "H1",
+      "H_rationale": "U014P70-85 andU020P69-86 establish the same document episode. No actual chief death or annihilation follows.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "native_image_sha256": "7ef5afea1a0e527be80d96734875f5079847769c2d1004c7bab7a535c0fb24e0",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H06",
+      "boundary": {
+        "component_id": "MAIN-05-U014",
+        "image_id": "MAIN-05-IMG013"
+      },
+      "whole_selected_premise": "Arue's enclosed fiction is mistaken for a decisive prophecy, then handwriting and a postage note reveal the mistake.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "IN_WORLD_FICTION_MISREAD_AS_REPORT",
+      "primary_H": "H1",
+      "H_rationale": "U014P87-125 identifies the author and genre. The fictional descendant is neither actual nor a new forecast.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "native_image_sha256": "c6be77b458a679453fa3d6bbabac645c68016e510342a049ee2ee517911cb63a",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H07",
+      "boundary": {
+        "component_id": "MAIN-05-U014",
+        "image_id": "MAIN-05-IMG016"
+      },
+      "whole_selected_premise": "Aqua offers a serene maxim to choose present enjoyment during Kazuma's morally uncomfortable monster decision.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "RASTER_QUOTED_ADVICE_IN_RETAINED_EVENT",
+      "primary_H": "H1",
+      "H_rationale": "U014P398-442 preserves actual indecision, the later spare decision and continuing regret. The maxim is her advice.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-005.xhtml",
+      "native_member_sha256": "e594379825efe0dfcca71841eb0d656c335f6467b498ff3e7a391e71bab018e3",
+      "native_image_sha256": "dcb8b011f2889c5dc8bbec9b8a251e0644419433e8676ce4e8b7d9b77b39d89b",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H08",
+      "boundary": {
+        "component_id": "MAIN-05-U018",
+        "image_id": "MAIN-05-IMG018"
+      },
+      "whole_selected_premise": "Kazuma's familiar monster-genre expectations reverse into danger to him, provoking frantic prayer and self-blame.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "EMBEDDED_CONTINUATION_OF_RETAINED_COERCIVE_PURSUIT",
+      "primary_H": "H1",
+      "H_rationale": "U017P175-199/U019P1-25 distinguish warning, forced restraint, refusal and attempted rescue. Threat is not a completed act or consent; divine punishment is his hypothesis.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-009.xhtml",
+      "native_member_sha256": "b80046e09d578c074d06d3eee7a02c68258a4a74cdb3d8f1e56f9da0fb8028e9",
+      "native_image_sha256": "a93957f69093a77ced28f740fbd4b470f0be76c57ff048a08547d59cfd80c17b",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H09",
+      "boundary": {
+        "component_id": "MAIN-05-U020",
+        "image_id": "MAIN-05-IMG019"
+      },
+      "whole_selected_premise": "Yunyun and Kazuma confront her father's casual explanation of a terrifying letter.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "ILLUSTRATION_OF_RETAINED_CORRECTION",
+      "primary_H": "H1",
+      "H_rationale": "The laughing man is the chief/fatherU020P69-86, not Hyoizaburo. Her assent to Kazuma's proposed punch does not show a completed punch.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "native_image_sha256": "9e04f7c73686709b8e062fe9f6994b7e9a530f6998bfd187965212c4741d72b9",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H10",
+      "boundary": {
+        "component_id": "MAIN-05-U020",
+        "image_id": "MAIN-05-IMG020"
+      },
+      "whole_selected_premise": "Aqua's seemingly simple cup performance absorbs attention during a tense parental interview, while the guessed magnet explanation becomes inadequate.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "COMPOSITE_ILLUSTRATION_OF_RETAINED_HOUSEHOLD_EVENT",
+      "primary_H": "H1",
+      "H_rationale": "U020P172-221 fixes Komekko, Darkness, Hyoizaburo and Yuiyui; the moving cup is shown but its hidden mechanism remains unknown.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-011.xhtml",
+      "native_member_sha256": "52e7eede0b901ef0e86aade6d2650a2f9c98371d1d586a263818cc4754a8da79",
+      "native_image_sha256": "5a012d8feee72b5918804cd6fdfc9da952b9cfd227e1773b79078eaea09d2316",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H11",
+      "boundary": {
+        "component_id": "MAIN-05-U021",
+        "image_id": "MAIN-05-IMG021"
+      },
+      "whole_selected_premise": "Yuiyui reads a relationship from Megumin's letters and supplies a montage of allegations that embarrass Kazuma.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "ATTRIBUTED_LETTER_ACCOUNT_WITH_ILLUSTRATED_RECOLLECTIONS",
+      "primary_H": "H1",
+      "H_rationale": "U020P249-257/U022P1-29 gives the information route and his response. The panels are not fresh direct trials or permission.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-012.xhtml",
+      "native_member_sha256": "2967c03cc3cc70703ee1cb374257b01078843d72238083b511748ce9035ee71c",
+      "native_image_sha256": "f19090bf8613574d541f0619f708bde1460586ea704d930c6d3518df1688a112",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H12",
+      "boundary": {
+        "component_id": "MAIN-05-U024",
+        "image_id": "MAIN-05-IMG023"
+      },
+      "whole_selected_premise": "Kazuma's imagined maid-role demands escalate from care and address to exaggerated punishment.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "SPOKEN_HYPOTHETICAL_DEMANDS_WITH_IMAGINED_SERVICE",
+      "primary_H": "H4",
+      "H_rationale": "U023P630/U026P1-2 makes his speaking actual while pictured service/compliance remains hypothetical; the two pages are one sequence.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "additional_boundaries": [
+        {
+          "component_id": "MAIN-05-U025",
+          "image_id": "MAIN-05-IMG024",
+          "native_member": "item/xhtml/p-016.xhtml",
+          "native_member_sha256": "589db06d007a70117a3d3be8f875dfcf154a475ab88fa6babdcb6bc2295f548a",
+          "native_image_sha256": "cec65a84c3cb23cf62102d01526f2014df02cac3616391db5eada6459b22a844",
+          "parent_principal_authority_retained": false,
+          "new_principal_reading_credit": 0
+        }
+      ],
+      "native_member": "item/xhtml/p-015.xhtml",
+      "native_member_sha256": "6d5aa2ba3a66c6db1f957793c0305aa76bbb6f0897981240f0c25c9cc83c6ea2",
+      "native_image_sha256": "00f985b6a7181456000ece4a8860875db0ec3a857c45c5b22024c8329fc89950",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H13",
+      "boundary": {
+        "component_id": "MAIN-05-U023",
+        "image_id": "MAIN-05-IMG022"
+      },
+      "whole_selected_premise": "A revered cat-ear object looks like a familiar figure, while Aqua objects to a figurine receiving equivalent divine treatment.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "STYLIZED_ILLUSTRATION_OF_SHRINE_FIGURINE",
+      "primary_H": "H4",
+      "H_rationale": "U023P42-53 explicitly identifies the object. It is neither Aqua in costume nor evidence of an efficacious new goddess.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-014.xhtml",
+      "native_member_sha256": "62a0d3c64b2c9c6b5213017d5bf2c080ac4e85d11199319f8c02836099b7f3b3",
+      "native_image_sha256": "00c42803c10101f6354e76fe9844096ccc64f747db38c4571b8fab61ca474918",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H14",
+      "boundary": {
+        "component_id": "MAIN-05-U027",
+        "image_id": "MAIN-05-IMG026"
+      },
+      "whole_selected_premise": "Yunyun uses the village's dramatic introduction style, prompting communal delight and Kazuma's cynical genre commentary.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "ILLUSTRATION_OF_RETAINED_COORDINATED_DISPLAY",
+      "primary_H": "H1",
+      "H_rationale": "U027P455-488 identifies the wand, lightning presentation and subsequent waiting/dodge. Narrator speculation about later shame is not her future intent.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-018.xhtml",
+      "native_member_sha256": "5c7d2e5b201ebf54c3616a567bfb8b03f99f80a8bb20a0bb8a61c5b8088bca64",
+      "native_image_sha256": "25dd97662a28cf02b91fb1c63f44bc1c89c9eab160ba7c747728908d91192094",
+      "parent_principal_authority_retained": true,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H15",
+      "boundary": {
+        "component_id": "MAIN-05-U031",
+        "image_id": "MAIN-05-IMG028"
+      },
+      "whole_selected_premise": "The illustrator thanks purchasers and celebrates Yunyun while commenting playfully on Kazuma's popularity.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "CREATOR_ILLUSTRATOR_CODA",
+      "primary_H": "H4",
+      "H_rationale": "Creator preferences and boss annotations remain production commentary, without new character behavior.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-022.xhtml",
+      "native_member_sha256": "fd5c9892ba5ac5fa93311f6e8c6f3a3691bfd5b31111b4215d9504fb6cc1dd85",
+      "native_image_sha256": "79a7571e7af44e55bafc4051e99a29202cead3dacf556282ac3e80897cb6bd1c",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H16",
+      "boundary": {
+        "component_id": "MAIN-05-U032",
+        "image_id": "MAIN-05-IMG029"
+      },
+      "whole_selected_premise": "The next-volume pitch juxtaposes Kazuma's wealth, Darkness's wish to block the capital, Aqua's princess invitation and Megumin's magic-tool priority.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "FUTURE_PROMOTIONAL_DIALOGUE",
+      "primary_H": "H4",
+      "H_rationale": "The preview advertises possibilities; Iris is not directly making a choice and no visit has occurred within this component.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-023.xhtml",
+      "native_member_sha256": "f6c8d436a9df76047f7b237a1c88c1fcf7d553680a7a0c3166729ad81df685b3",
+      "native_image_sha256": "b1ee1a2ca19ed5ee36c32c9b919ab02eea103a2d83197b2fbfd8e270b69f538a",
+      "parent_principal_authority_retained": false,
+      "new_principal_reading_credit": 0,
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    },
+    {
+      "id": "M05EX-H17",
+      "boundary": {
+        "component_id": "MAIN-05-U030",
+        "start_P": 4,
+        "end_P": 11
+      },
+      "whole_selected_premise": "The author introduces himself as something writer-like and denies that a slower schedule follows tantrums about rest.",
+      "primary_L": "L1",
+      "L_rationale": "The whole role, expectation or information mismatch survives semantic translation. Native wording and written styles are retained, but none of these whole selections requires indispensable Japanese word form; no automatic L3 from a title, name, ruby or honorific.",
+      "source_plane": "NONFICTION_CREATOR_SELF_PRESENTATION",
+      "primary_H": "H1",
+      "H_rationale": "U030P4-11 is a playful production account. It cannot serve as Kazuma's voice or a fictional motivation test.",
+      "eligibility_and_limits": "Post-seal overlapping selections, not a census, independent events, new R1 tests, statistical accuracy or an acoustic study.",
+      "native_member": "item/xhtml/p-021.xhtml",
+      "native_member_sha256": "4b52cf9659668e13a214f88d6d0f897c02073f951ad96cb69b6d506bc1303ed1",
+      "formal_assignment_after_seal_utc": "2026-10-19T09:20:52.691407+00:00",
+      "source_first_selection_precision": "Purposeful selection after complete actual uncoded excluded-resource and raster reception. Existing principal events stay inherited; no extra whole principal reading or independent event."
+    }
+  ],
+  "H_protocol": "H1 actual act/speech or explicitly attributed documentary/creator statement; H4 explicit staged, promotional or imagined-role presentation. Real-world creator speech is not a fictional actor trial; fantasy or intention alone does not automatically mean H3/H4.",
+  "L_protocol": "Whole effects and nested written forms are distinct. All17whole selected effects are L1; no compulsory Japanese-only dependence follows from a name, title, ruby or honorific. Selections overlap and are not a denominator."
+}

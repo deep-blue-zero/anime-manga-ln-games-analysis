@@ -1,0 +1,2584 @@
+{
+  "schema": "BLUE_ARCHIVE_CANONICAL_SPECIALIST_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1",
+  "status": "PREPARED_EXACT_CANONICAL_DERIVATIVE_ROOT_INSTALLATION_PENDING",
+  "required_home": "P3-CHAR-IORI",
+  "canonical_body_exact_tuple": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IORI_CHARACTER_MONOGRAPH.md",
+    "bytes": 88521,
+    "sha256": "4f43957b43eeff454ce4b025f6ab937ef73f4b297f39c144c0abf146b3020334",
+    "git_blob_oid_of_actual_bytes": "578dcbd35a744823b4c806dac21fae385616368e"
+  },
+  "all_immutable_local_input_tuples": [
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/BLUE_ARCHIVE_IORI_CHARACTER_MONOGRAPH.md",
+      "bytes": 87244,
+      "sha256": "6693d9f8408d78d4d15e96b6b31f295e134ab7f43a8402edecdf1ce6f383286c",
+      "git_blob_oid_of_actual_bytes": "b1b70dcb9ceb3f97f4526bf0c084ef24380db188",
+      "lines": 400
+    },
+    {
+      "path": "ROOT_IORI_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1.json",
+      "bytes": 5668,
+      "sha256": "282570f1a28576e2bb6f2b32ab3690311738a5ca7e765da774a1550a55a06705",
+      "git_blob_oid_of_actual_bytes": "6034e8bfdfab960249da873d58ba613aea66e7b8",
+      "lines": 102
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_COMPLETE_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+      "bytes": 126874,
+      "sha256": "715c30b5acb8611247df31fc5ed75b458b57bea482b86bf1dda154b1a722c86e",
+      "git_blob_oid_of_actual_bytes": "8e3c604ea959f2b6d6883d974aa33ec734a3ce1f",
+      "lines": 1343
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_COMPLETE_DELIVERY_RECEIPT.md",
+      "bytes": 5367,
+      "sha256": "23e68fa7114c4e2192ce7f7ebc5506fdef04787a6f9e72f5329e55d4df819be9",
+      "git_blob_oid_of_actual_bytes": "42f7740fbb2a3aeecf26b0b747fc471db29260b9",
+      "lines": 36
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_COMPLETE_DELIVERY_RECEIPT_V1.json",
+      "bytes": 1787,
+      "sha256": "93c5557e13a272374ba96ab90b4dc64ee8ae6c534305a0c091cd95656245e284",
+      "git_blob_oid_of_actual_bytes": "e1aec9060ab9228b8324efc5579e66df0a4114ee",
+      "lines": 36
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_EXACT_OUTPUT_MANIFEST_V1.json",
+      "bytes": 3482,
+      "sha256": "20fc6d5260930bd3ea60e0ac438093d858fb038e715921afbe1f4a631a4e97e1",
+      "git_blob_oid_of_actual_bytes": "f9057955365bce1b134612c5f95fa19e7df52d36",
+      "lines": 58
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_POSITIVE_LITERAL_APPEARANCE_RETRIEVAL_V1.json",
+      "bytes": 139850,
+      "sha256": "f8e359ae0ea9426ab6d551b7f385535e2bf89257040c9333737d9cfe698006ea",
+      "git_blob_oid_of_actual_bytes": "0ac29f13ed72f9bd0cac52020266ddaefc97d30f",
+      "lines": 3507
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_PRIVATE23_EXACT_SOURCE_BINDINGS_V1.json",
+      "bytes": 24069,
+      "sha256": "085044e9908e9acf86b6ba2f2e19b45955ca151daf840e270205a5ac89fcfd3b",
+      "git_blob_oid_of_actual_bytes": "faa571fd88e777df6b00ddb333e81425ea9c694e",
+      "lines": 272
+    },
+    {
+      "path": "GEHENNA_PREFECT_MONOGRAPHS/IORI/IORI_SAVED_SECTION_AND_PARAGRAPH_RECEIVING_INDEX_V1.json",
+      "bytes": 164115,
+      "sha256": "d7a604f67530a9e74cbeb656e9cf43729b51422fce8fef2d025e1512aa9f3a95",
+      "git_blob_oid_of_actual_bytes": "8624e801961d6692c38056c019f636d35438c6e9",
+      "lines": 1956
+    }
+  ],
+  "input_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IORI_MONOGRAPH_INPUT_AND_RECEIVING_RECEIPT_V1.json",
+  "root_acceptance_public_derivative": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_IORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json",
+  "transformation": "Only frontmatter authority, ROOT acceptance paragraph and declared authority-framing sentences change; no literary meaning, source endpoint, recipient boundary, source credit or identity route changes. Exhaustive saved line joins and changed ranges bind every line through EOF.",
+  "exact_unchanged_saved_line_joins": [
+    {
+      "frozen_line": 1,
+      "canonical_line": 1,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 2,
+      "canonical_line": 2,
+      "line_sha256": "0a196a49f52c87e919dab450bef608ec34012a3f153c4f203515d7320d609f8a",
+      "line_text": "series: BLUE_ARCHIVE"
+    },
+    {
+      "frozen_line": 4,
+      "canonical_line": 3,
+      "line_sha256": "bdf699d853533541057651e6f3195d29bf0b8d0eec301154897ac441a9d78a9d",
+      "line_text": "scope: IORI_SELECTED_PRIVATE_PUBLIC_AND_WRITTEN_COMPARISON"
+    },
+    {
+      "frozen_line": 6,
+      "canonical_line": 4,
+      "line_sha256": "1277fa84e78ccd2996a16d2cf96d461fe9267ccaaf0ebab514cebe2ee449dec9",
+      "line_text": "source_generation: BA_REFRESH_20260928T032248159554Z"
+    },
+    {
+      "frozen_line": 7,
+      "canonical_line": 5,
+      "line_sha256": "a314b9ab6c2b1825a75d1f080a5cda44b1d78354f7916df88f5831e7bde9c4bf",
+      "line_text": "source_commit: a038020f1f5ac02dcfe76962426d38f86414cdd8"
+    },
+    {
+      "frozen_line": 8,
+      "canonical_line": 6,
+      "line_sha256": "5f812903c9938bd3fe5b141f9e318d5b1e62e7be4703f65763be9a19b21a17e7",
+      "line_text": "method_version: \"1.10\""
+    },
+    {
+      "frozen_line": 9,
+      "canonical_line": 7,
+      "line_sha256": "1208a13c31757e626a9744e6ef0eda631482c3de1906c955f31cc31d890b9740",
+      "line_text": "architecture_version: \"1.12\""
+    },
+    {
+      "frozen_line": 10,
+      "canonical_line": 8,
+      "line_sha256": "64605f76d2440bfa0ed6ea17cf8845bf40f1c5eb203b5783476b12875e554224",
+      "line_text": "responsibility: P3-F098"
+    },
+    {
+      "frozen_line": 11,
+      "canonical_line": 9,
+      "line_sha256": "0b7472f8091fd463660e1ef680c374a36206d409977dc3258a48a7a315b7d678",
+      "line_text": "raw_person_key: BA_PERSON_IORI"
+    },
+    {
+      "frozen_line": 12,
+      "canonical_line": 10,
+      "line_sha256": "5dd08500cf4a13afc22e1ff508fff38226f37692d5ee0ac83611a17743a09e3b",
+      "line_text": "selected_variant_keys: \"10006|10023\""
+    },
+    {
+      "frozen_line": 13,
+      "canonical_line": 11,
+      "line_sha256": "ed2e528e6315754c1403405723fcd84011f6ea85eca3bf6d98f192bf5d3300a1",
+      "line_text": "created: 2026-10-10"
+    },
+    {
+      "frozen_line": 14,
+      "canonical_line": 12,
+      "line_sha256": "0330f6868a800234ef84e2005de9be1b5d2852845e55ba4688e21f51ef71d30c",
+      "line_text": "model_promotion: false"
+    },
+    {
+      "frozen_line": 15,
+      "canonical_line": 13,
+      "line_sha256": "78f66a5c711ab499c2b23b7da20193313f5c6bacd71757b8905f6f3b5e944fdb",
+      "line_text": "performed_voice_received: false"
+    },
+    {
+      "frozen_line": 16,
+      "canonical_line": 26,
+      "line_sha256": "cb3f91d54eee30e53e35b2b99905f70f169ed549fd78909d3dac2defc9ed8d3b",
+      "line_text": "---"
+    },
+    {
+      "frozen_line": 17,
+      "canonical_line": 27,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 18,
+      "canonical_line": 28,
+      "line_sha256": "85acabcb7ec1f27c916f29a28d5798bae9043004e5f655de4c5722c273cfe60d",
+      "line_text": "# Iori — competence, protective purpose and the right to an unfinished boundary"
+    },
+    {
+      "frozen_line": 19,
+      "canonical_line": 31,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 20,
+      "canonical_line": 32,
+      "line_sha256": "61b3ba98b65622a2cde36376f069180dcc343db0fafff7f028e3ef74a60ad9f6",
+      "line_text": "This monograph compares the complete accepted twenty-three-object private family with Iori's actual positive public routes. It argues a character rather than a reconstruction model. The private scope is ten BOND objects, ten complete MomoTalk objects, two profile/dialogue objects and one event-costume written context. `BA_PERSON_IORI`, variants `10006|10023`, and the dated label route `P3-A100` remain different documentary fields; that dated row has no person join and supplies no additional person. The written context's exact raw source is `BA:character_data:event_costume:1900901201:character:10023`. A separate `1900906301:character:20008` object must not replace it. The twenty-six repeated/controller-qualified records in the Iori context remain records rather than twenty-six lived occasions."
+    },
+    {
+      "frozen_line": 21,
+      "canonical_line": 33,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 22,
+      "canonical_line": 34,
+      "line_sha256": "9d4f1ed9cf776f559bba53134b1fa850bd79ec742e4513866d95a73db6d4b26a",
+      "line_text": "The [accepted Gehenna private account](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) governs the private comparison. Its preserved producer references lead to the complete effective Iori V3 family reconciliation, V4 MAIN contextualization and V2 remainder, with six complete inherited analytical findings separately received. Their historical creation-stage intake wording does not reverse current Cycle008 adoption. This writer personally received those whole analytical meanings; the present reader does not acquire their authors' original primary exposure. Fresh public work receives 120 complete character-containing paragraphs across twenty-seven MAIN owners, four whole small MAIN contexts without a character paragraph, relevant complete supplemental meanings at declared scopes, and the complete EVENT860 account. Two small admitted Japanese written episodes were checked through EOF because the gift-refusal argument and EVENT860's literal actor distinction were consequential. Receipt details distinguish all these extents."
+    },
+    {
+      "frozen_line": 23,
+      "canonical_line": 35,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 25,
+      "canonical_line": 37,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 26,
+      "canonical_line": 38,
+      "line_sha256": "7967db62bd2b28b76abfb53874201fd5839258c031dcb38a89d8ab208e3dfb95",
+      "line_text": "## 1. Core psychological and literary thesis"
+    },
+    {
+      "frozen_line": 27,
+      "canonical_line": 39,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 28,
+      "canonical_line": 40,
+      "line_sha256": "7def1281db3822d79468e03410d0eea012ebdcc1f2fca13ced4ba9dd64b1bdfa",
+      "line_text": "Iori's central tension is the relationship between competent intervention and the boundary that makes an intervention protective. She can intercept, pursue, inspect, ask for command, accept practical assistance and recognize a good result. She can also make a premature accusation, fail to notice a trap, threaten disproportionate force under the name of official work and become caught in comic or coercive situations she did not choose. Those are competing facts about the same represented repertoire. A reading that makes her either an infallible professional or an exclusively foolish victim removes the tension that gives her decisions significance."
+    },
+    {
+      "frozen_line": 29,
+      "canonical_line": 41,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 30,
+      "canonical_line": 42,
+      "line_sha256": "beccbc34e90d187147cfa2868bb212664485ef0c64cc8a1ef4b39f83e3af8bcb",
+      "line_text": "Her boundaries are unusually concrete. She asks for a wound to be wrapped while limiting the helper's gaze. She entrusts an album while prohibiting disclosure. She accepts swimming instruction with a touch condition. She enjoys a sand bath before objecting to what is done with her sleeping body and its image. She wants warmth from a cherished blanket while refusing the adult's interest in its scent. She calls for rescue from a pit and separately requires photographs to be deleted. Each invitation names an object and purpose. Practical success can be real without answering a different claim over her body, property or privacy. Rescue does not retroactively make a photograph welcome; gratitude for a bandage does not make every future contact authorized. [Private family, source004/005/007/009/010/013/015/021.]"
+    },
+    {
+      "frozen_line": 31,
+      "canonical_line": 43,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 32,
+      "canonical_line": 44,
+      "line_sha256": "bc2fc7ee6c97354cf0459dcb91ad51d3c1b076987176558fea5ea793206963aa",
+      "line_text": "This precision changes the comic reading. Her indignation may be staged for amusement, but the represented acts distinguish an erroneous inference from an accurate refusal. The coin search begins with her mistaken suspicion of peeping. By contrast, the pit photograph really is taken during a situation in which she wants help, and her protest really remains unanswered in the later message route. Both can be funny in narrative function. They do not have the same evidential status. Calling all anger a personality trait hides whether she has misread an event or correctly identified an intrusion. Calling every refusal a concealed wish similarly turns a character capable of answering into an object whose answer the analyst replaces."
+    },
+    {
+      "frozen_line": 33,
+      "canonical_line": 45,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 34,
+      "canonical_line": 46,
+      "line_sha256": "60b961d0ce11a21c4c3ce7ad4913dad15a991fd6a03709cfdb3d4d64555dfd8b",
+      "line_text": "Her protective purpose is also a contested judgment, not a halo. The early Abydos encounter makes official work a rationale for treating interference as hostility. The later Gehenna crisis makes the protection of ordinary students a reason to resist her own seniors. These positions share a concern with what the Prefect Team is for, but they cannot be collapsed into one already perfect principle. Early force remains adverse evidence; later dissent is a meaningful decision. Private trust scenes cannot supply the missing causal history between them. The public sequence shows situated changes in the application of authority, while accountability and institutional repair remain incomplete. [MAIN V001 C001 E020; S2 V002 C001 E017; C002 E010/E016/E017/E019.]"
+    },
+    {
+      "frozen_line": 35,
+      "canonical_line": 47,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 36,
+      "canonical_line": 48,
+      "line_sha256": "65d9e83698a5cf1945a7ba6a6d2b3c43f8f41af1796e9afffc7f20ab058383dc",
+      "line_text": "An adequate thesis therefore holds three lines together. Iori has actual capacity, limited by attention, resources, fatigue and other actors. She has ordinary wants whose value survives duty framing. She can distinguish wanted assistance from an unwanted method, although her own official methods sometimes fail the analogous test for others. Her best public direction is not the disappearance of severity. It is the ability to ask what severity is serving, including when an institutional superior commands it. Her private life supplies particular answers about what care must respect; it does not prove she applies that lesson universally."
+    },
+    {
+      "frozen_line": 37,
+      "canonical_line": 49,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 38,
+      "canonical_line": 50,
+      "line_sha256": "9dba0a0be4b87f8a0bd8c1b1360586842bada53ed5f5615e8adcec1f5fff90d9",
+      "line_text": "## 2. Longitudinal arc and shown chronology"
+    },
+    {
+      "frozen_line": 39,
+      "canonical_line": 51,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 40,
+      "canonical_line": 52,
+      "line_sha256": "c2385cf78582503acbca7cb38450a37f0c4db235280fce092cb2fc39977c84fc",
+      "line_text": "### 2.1 Public order does not start as a settled ethics of protection"
+    },
+    {
+      "frozen_line": 41,
+      "canonical_line": 53,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 42,
+      "canonical_line": 54,
+      "line_sha256": "ed7d30fecc54fb6229c6d11dbb22385f7cb798d5893ddacf03136cd79b314212",
+      "line_text": "The earliest consequential Abydos encounter in the admitted V001 route stages Iori as an operational officer, giving artillery and infantry commands and treating obstruction of a public mission as grounds for force. Chinatsu asks for explanation first. Abydos students raise jurisdiction and interschool consequences, while Iori does not share Chinatsu's knowledge of Schale. The analyst must preserve those rival positions. It is not enough that Iori calls the mission official: that designation does not settle its authorization, proportionality or the recipients' right to contest it. The current E020 owner also preserves actor contamination around incoming orders and some aggressive lines. The broad coercive mission and Iori's stated rationale are secure; a complete allocation of every deviation between Iori and Ako is not. [V001 C001 E020.]"
+    },
+    {
+      "frozen_line": 43,
+      "canonical_line": 55,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 44,
+      "canonical_line": 56,
+      "line_sha256": "240837c17d1b026438bc1672bd06025f636bb1ac01f29780602102822cbc8d8c",
+      "line_text": "The continuation exposes Ako's concealed unauthorized custody operation and the field consequences. Haruka's attack knocks Iori down. Hina's arrival supplies an apology and withdrawal rather than evidence that the earlier intervention was legitimate. Iori's complaints and frustration after defeat give her a bodily and emotional afterstate; they do not acquit the mission. Some objection lines shift literal labels, so a fine inventory of her exact spoken resentment cannot be built from every adjacent tag. Later recollection in E006 is recollection, not a new physical appearance. [V001 C002 E001/E002/E006.]"
+    },
+    {
+      "frozen_line": 45,
+      "canonical_line": 57,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 46,
+      "canonical_line": 58,
+      "line_sha256": "505647113118937e33910ab055ea81c87ca2b06a99a8935f3eeab5db50335749",
+      "line_text": "E017 adds another consequential boundary. Iori sarcastically puts prostration and foot licking between the adult and access to Hina. The accepted reading preserves the adult's represented compliance before the subsequent choices and Iori's surprise or disgust. This is not a standing invitation to future acts. It also prevents a simple story in which the adult's willingness to humble himself makes every means of seeking help ethically unobjectionable. Hina's support can become useful to Abydos while the Iori–adult bodily relation remains separately contested. The account preserves an uncertain northern formation report rather than deriving a definite three-versus-four-person roster. [V001 C002 E017; §7 below.]"
+    },
+    {
+      "frozen_line": 47,
+      "canonical_line": 59,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 48,
+      "canonical_line": 60,
+      "line_sha256": "df0ef4886a7728d9284d954312305aef4133f383da07180f289aaa2be14b6263",
+      "line_text": "### 2.2 Injury, coordination and recognition add scope rather than invulnerability"
+    },
+    {
+      "frozen_line": 49,
+      "canonical_line": 61,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 50,
+      "canonical_line": 62,
+      "line_sha256": "f4d12d187b15d6ddc54575e6c4b4b34cb909e5d642d50975c81c13de9afa9019",
+      "line_text": "In the Eden sequence Iori appears within the injured Prefect group. Ako, Iori and Chinatsu answer and constrain one another while medical support and bed rest remain relevant. Neither the ability to speak nor subsequent deployment certifies a wound grade, complete healing or absence of pain. Hina assigns Iori a western role, and Iori acknowledges it. Justice cooperation is actual represented cooperation; it does not mean all differences between the groups have vanished. Later Iori's comment on Ako and Ayane frames their reunion, while proposed information transfer remains a proposed task unless the source prints its completion. [V003 C003 E018–E021.]"
+    },
+    {
+      "frozen_line": 51,
+      "canonical_line": 63,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 52,
+      "canonical_line": 64,
+      "line_sha256": "4606e7179670f0cefacd3713ac5560a24a42146da0c4429b7d16eeef28ec2a2e",
+      "line_text": "Final broadens the coalition setting. The current owner of V100 C002 E011 preserves Ako's rebuke about dependence on Hina and Chinatsu's inward counterpressure, with self-address seams in the short Prefect exchange. This is enough to show that reliance and competence are debated within the group; it is insufficient to certify Iori's personal tactical transformation or a uniform Prefect belief. Three further positive Final headers occur inside broad coalition, sky-reaction and defense contexts whose complete small analytical owners do not give a distinct Iori paragraph. Their source routes are retained. This monograph does not invent a solitary heroic turning point to make those appearances narratively larger. [V100 C002 E002/E011; C003 E016; C004 E002.]"
+    },
+    {
+      "frozen_line": 53,
+      "canonical_line": 65,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 54,
+      "canonical_line": 66,
+      "line_sha256": "516aef14faa0f06bfbd0b411959a995b8d664e2f691eadd66d7feed2833b66f6",
+      "line_text": "### 2.3 The Gehenna public sequence changes what opposition can mean"
+    },
+    {
+      "frozen_line": 55,
+      "canonical_line": 67,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 56,
+      "canonical_line": 68,
+      "line_sha256": "0c528f9312ab0baafd447cea6ea4b9365f13c6d7b9a1d5dad95d9c42491f9925",
+      "line_text": "Part2's opening places Iori between Gehenna students and their improvised public-square barrel spectacle. She states a prohibition. Some Iori tags carry the students' first-person boasts, so the prohibition must not become a claim that she constructed or detonated the tower. Her response to criticism of enforcement gives a local defense of restraint, while the Student Committee's objection that the Prefects cannot unite the school remains a serious counterposition. Iori's account of warning before force is her defense of procedure, not a proven census of every intervention. [S2 V002 C001 E001/E002.]"
+    },
+    {
+      "frozen_line": 57,
+      "canonical_line": 69,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 58,
+      "canonical_line": 70,
+      "line_sha256": "53ae39869c0ed6c37578804bd3225c00c04d56b2a683e838a3240fee07f01204",
+      "line_text": "The later encounter with Karen matters because Iori offers force and then stands down after recalling Hina's boundary. Hina is not physically issuing a new command at that moment. This is a remembered norm altering a local decision, stronger than simple incapacity to fight, but weaker than a universal conversion to pacifism. The same owner separates Hina's observed sleep from reported retirement and Karen's counterfactual claim that successful reform would make Prefects unnecessary. Iori's silence does not settle those claims. [C001 E011.]"
+    },
+    {
+      "frozen_line": 59,
+      "canonical_line": 71,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 60,
+      "canonical_line": 72,
+      "line_sha256": "c28b9d8b5016443fa4912ee5bcc969ac8c481a59a1c38a89a55a13d83c570e9b",
+      "line_text": "When seniors join a coercive attempt to reorder ordinary school life, Iori says that Prefect guns are for protecting students against violence. Chinatsu's historical account is a different contribution. Iori's distress receives an offer of rest rather than an immediate cure or answer to every betrayal. The next chapter initially keeps Schale as a last resort: the younger group tries to act as Gehenna students rather than surrender every choice to an outside solver. Iori's private wish that her seniors return, even if ordinary harassment and extra patrol resume, reveals attachment to familiar imperfect people. It does not endorse every former abuse. [C001 E016/E017; C002 E001.]"
+    },
+    {
+      "frozen_line": 61,
+      "canonical_line": 73,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 62,
+      "canonical_line": 74,
+      "line_sha256": "5814c8b542f5a66ea2b5791f0a500bbfde466fc890bdbf90f1e2b54f1789ed65",
+      "line_text": "The decisive progression is the preservation of a line even inside one's own institution. Iori challenges a renewed unification plan, reasons about forced broadcasts and possible reinforcements, acts within a distributed search, and joins younger allies who fight the controlled seniors. The source-local junior Prefects A/B are separate from other generic guards; their cooperation cannot be absorbed into Iori's sole action. At the injured confrontation she gives a reason for belonging that contrasts a free life with a license to do anything. The source represents fighting to release rather than hatred of the seniors. Sensei's arrival enables immediate escape from custody; it does not erase injury. The ending allows rest and names deeper betrayal, while Hina praises the juniors' opposition and promises to make amends. Discipline, equipment and repair remain future work. [C002 E010/E012/E014–E019.]"
+    },
+    {
+      "frozen_line": 63,
+      "canonical_line": 75,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 64,
+      "canonical_line": 76,
+      "line_sha256": "35818bbadd5af38808aeeaac706068cce9b65bf5a38a5a1845cc6228c2211866",
+      "line_text": "### 2.4 Private ordering has narrower grounds"
+    },
+    {
+      "frozen_line": 65,
+      "canonical_line": 77,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 66,
+      "canonical_line": 78,
+      "line_sha256": "d8f1f2ead0c0383ff0a4bb1cf4e53a4ee21ea9b1df7715a78650484d9bb70249",
+      "line_text": "The private family supports several real local sequences: messages introduce an errand or meeting; the BOND scene may show provision, practice or treatment; a follow-up may report a limited result or renew an objection. Swimming practice is followed by thanks and a self-report that she can somehow swim, explicitly short of mastery. Tentative future omission of a float does not show a completed camp without one. The pit encounter's message frame includes private location secrecy and ends with renewed photo-deletion demands whose resolution is not printed. An entrusted album adds an actual nondisclosure condition to a previous misunderstanding, not a global rewrite of all earlier transactions."
+    },
+    {
+      "frozen_line": 67,
+      "canonical_line": 79,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 68,
+      "canonical_line": 80,
+      "line_sha256": "d6e4fef715fc1e98022f867e7618115293bac1d627452035e15f31b6a03ce062",
+      "line_text": "Those relations do not order the default and swimsuit variants into an adolescence or romantic development. Seasonal UI conditions, schedule hooks, event repeats and release metadata are documentary controls. Public chapter ordering is locally firmer, but the private-to-MAIN bridge remains unprinted. This monograph argues a longitudinal repertoire and a shown public trajectory, not a continuous calendar in which every comic event is either regression or rehabilitation."
+    },
+    {
+      "frozen_line": 69,
+      "canonical_line": 81,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 70,
+      "canonical_line": 82,
+      "line_sha256": "0c03cc4c5181b622d4a2f0a0672d27d1be571575bad7fac364418379d71f820d",
+      "line_text": "## 3. Public/private comparison"
+    },
+    {
+      "frozen_line": 71,
+      "canonical_line": 83,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 72,
+      "canonical_line": 84,
+      "line_sha256": "663a0bb665bf0bcd395b407bd666fa7ca9c22be35e3447f4b75792b996e78ed4",
+      "line_text": "### 3.1 Selective reliance complicates the image of self-sufficient force"
+    },
+    {
+      "frozen_line": 73,
+      "canonical_line": 85,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 74,
+      "canonical_line": 86,
+      "line_sha256": "2923cee11438059e5516d5ad31f8492f431bba6c8dbb30c28342f4e657e1a6e6",
+      "line_text": "The profile's fast and capable enforcer is not merely promotional noise: accepted actions support real interception, command use, grenade deflection and a completed rule list. The same written profile makes surrounding-awareness failure and simple traps part of her repertoire. The pit story gives an actual failed pursuit and failed unaided escape. Repeated enforcement can leave disorder and insufficient hands. Asking for a sunscreen replacement, an example for the rules, swimming help or tactical command is therefore a meaningful distribution of competence. It recognizes a task that somebody else can do without ceding unrestricted authority over the asker. [Private source005–010/016–020/021.]"
+    },
+    {
+      "frozen_line": 75,
+      "canonical_line": 87,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 76,
+      "canonical_line": 88,
+      "line_sha256": "f491e477066a0c2afe0f15fe773f4af50f688738c5cac5f5118817b319cfb61b",
+      "line_text": "Public appearances test the same distinction on a larger stage. Her request for command in the train incident is precise and useful. Her early assumption that the food-creature response will be trivial is contradicted by collapse and later returned participation. In the inspection she gives a favorable hygiene judgment before adverse hospitality changes the result. These are not interchangeable failures. One concerns overconfidence before listening, one concerns a beverage outside the inspected stock, and one concerns the continuing work of respecting a command boundary. Each broadens the professional figure with circumstances rather than an invariant intelligence score. [EVENT846009–010; EVENT844002–003/009–010; GROUP1602.]"
+    },
+    {
+      "frozen_line": 77,
+      "canonical_line": 89,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 78,
+      "canonical_line": 90,
+      "line_sha256": "edae31d814815733ff9fb50078778ae98f4deda1ebd971df247efdb2364907c6",
+      "line_text": "### 3.2 Suspicion can be mistaken without making privacy unreal"
+    },
+    {
+      "frozen_line": 79,
+      "canonical_line": 91,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 80,
+      "canonical_line": 92,
+      "line_sha256": "140c015592e1f558394218828eead1b4d2563d35e94692fedb3c7287257736f8",
+      "line_text": "The sewer coin story starts from an erroneous interpretation. The adult's explanation and the coin's actual recovery do not remove the fact that Iori initially suspects peeping. She also makes a small drink-money offer after inferring hardship; the offer is a prosocial response, not proof the adult is poor or that either person buys a drink. Her gun and report threats remain threats rather than an enacted assault, report or arrest. The scene closes on a practical recovery and an unresolved misunderstanding. That separation is useful for character: neither pure generosity nor pure hostility contains the whole event. [Private source001.]"
+    },
+    {
+      "frozen_line": 81,
+      "canonical_line": 93,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 82,
+      "canonical_line": 94,
+      "line_sha256": "c635520a7400fc24a97cec6c70a3793ff6cf4d1748355c692a58e47cfa711e86",
+      "line_text": "The album scene similarly refuses an easy final motive. A merchant's reliability language does not certify the goods. A pursuit fails to catch the seller while a different capture is reported. Iori obtains the graduation album and challenges the adult's reason for possessing it. Alternative privacy and work explanations stay alternatives. Later she entrusts it under an explicit nondisclosure rule. The positive act is not confidence in the earlier transaction's innocence; it is a bounded decision about custody and circulation. The Japanese and Korean return/acquisition formulations remain distinct in the accepted analytical findings. [Private source003/013.]"
+    },
+    {
+      "frozen_line": 83,
+      "canonical_line": 95,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 84,
+      "canonical_line": 96,
+      "line_sha256": "751ca4aa6fd82dfaa1a9bbb1f4344d554f970009c477854ab14845db1db284b3",
+      "line_text": "By contrast, the pit photograph and sleeping sand sculpture are actual represented intrusions into a situation she accepted for another purpose. Reading them only as evidence that she misunderstands an affectionate adult confuses the source's distinctions. She can misunderstand some conduct and correctly oppose other conduct. A coherent private psychology leaves both possible. That is also the premise for treating ordinary Gehenna students' objections to enforcement seriously: their ability to complain is neither automatically correct nor automatically disqualifying."
+    },
+    {
+      "frozen_line": 85,
+      "canonical_line": 97,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 86,
+      "canonical_line": 98,
+      "line_sha256": "4cfe29ce3e266aa68766f6ca997d7cb6e48e5fe270c9ed8134f8ba68c4354688",
+      "line_text": "### 3.3 Public praise does not purchase private access"
+    },
+    {
+      "frozen_line": 87,
+      "canonical_line": 99,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 88,
+      "canonical_line": 100,
+      "line_sha256": "4cdad8551a7cf5690ada6ce9f763feb2ca8d68c2a24f347fa0afe68dab11431f",
+      "line_text": "Iori can acknowledge the adult's seriousness when wrapping a bandage and express trust in command. She can thank practical help and request future assistance conditionally. None of those statements repairs an unanswered deletion demand, makes following welcome or removes a specified distance rule. Her pleasure in an efficient lesson and her displeasure at unasked pursuit can occur in the same local relationship. The analytical unit is the act and its purpose, not a total affection score. [Private source004/007/008/015/017/021.]"
+    },
+    {
+      "frozen_line": 89,
+      "canonical_line": 101,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 90,
+      "canonical_line": 102,
+      "line_sha256": "2e1d68cfbde05d935f8a4a1cc0558d98917115838ebdba584ddc22026bf893ec",
+      "line_text": "The institutional analogy remains bounded. Iori's later protection of students does not prove she has learned it from a private intrusion; no such causal link is printed. It nevertheless supplies a meaningful comparison: both settings ask whether a useful role authorizes whatever means its occupant wants. Her own early official force is contrary evidence against answering that question consistently. The character has a precise vocabulary of personal limits and a developing public application of protective purpose; she is not thereby exempt from scrutiny as an officer."
+    },
+    {
+      "frozen_line": 91,
+      "canonical_line": 103,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 92,
+      "canonical_line": 104,
+      "line_sha256": "8834edc3177477584b2781719f229dbfbd2d1295985ad6a28bdbadaa13e2e1fd",
+      "line_text": "## 4. School and club institutions"
+    },
+    {
+      "frozen_line": 93,
+      "canonical_line": 105,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 94,
+      "canonical_line": 106,
+      "line_sha256": "35ff1a23a1a36956f2d1d66b08416fc8cc00d89494444221e42ac5591081c13b",
+      "line_text": "### 4.1 Being an enforcer leaves a question about the people enforced upon"
+    },
+    {
+      "frozen_line": 95,
+      "canonical_line": 107,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 96,
+      "canonical_line": 108,
+      "line_sha256": "b3cfc0531a67164aaa5cd63b6f04b4cef484745a64b5809e3de9419749434648",
+      "line_text": "The Prefect role organizes Iori's attention. Trouble reaches her as patrol work, pursuit, forms, hygiene, reports and requested coordination. Her early V001 declaration makes interference with official work grounds for hostility. The public-square prohibition later has an intelligible ordinary object: other students' hazardous use of shared space. A complete character argument must retain that the same severity can have different grounds and recipients. One source does not adjudicate the lawfulness of the other. General danger cannot stand in for authorization, and legitimate restraint cannot make every critic a wrongdoer. [MAIN V001 C001 E020; S2 V002 C001 E001/E002.]"
+    },
+    {
+      "frozen_line": 97,
+      "canonical_line": 109,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 98,
+      "canonical_line": 110,
+      "line_sha256": "0fc392e3eb5d4816a86af8c672f4872474090d1f75ed1933c317628b24a13a77",
+      "line_text": "GROUP1102 supplies a small institutional version. Iori orders the detained Gourmet members to quiet down while Chinatsu explains investigation and a return schedule. Hina apologizes for haste in detaining the adult on a pool report, then interprets a new scene negatively. Those local corrections and procedural explanations give the group more than unexamined force, but no printed evidence-return result or complete detention procedure follows. The Gourmet members' aroma-sharing pleasure and the adult's different choice paths remain represented interests inside detention. They are not evidence that confinement itself is welcome. GROUP1103 then gives Iori's mint preference through narration and report; she is not a present speaking participant there. [GROUP1101–1104.]"
+    },
+    {
+      "frozen_line": 99,
+      "canonical_line": 111,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 100,
+      "canonical_line": 112,
+      "line_sha256": "b07d414a48a4e27c6e5037184852ae6b6cb48b83ba9028f7226438f931a02c9a",
+      "line_text": "### 4.2 A favorable inspection is genuine adverse evidence to the pure bully reading"
+    },
+    {
+      "frozen_line": 101,
+      "canonical_line": 113,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 102,
+      "canonical_line": 114,
+      "line_sha256": "0aa00ddfb0f6aaa7c84f93eedad3d1764601ade1d7dda9dd10a8373fc4251d09",
+      "line_text": "GROUP1601–1602 begins with Iori's threatening inspection and a recalled former inspector's poisoning account. That history is reported, not a certified kitchen contamination record. Fuuka's fear of another budget consequence and Juri's support are separate recipient perspectives. The whole inspection actually yields favorable checks of clean hands, tools, furniture and ingredients. Iori recognizes the hygiene result and distinguishes cleanliness from flavor. Her full marks and suggestion that an earlier report be reconsidered are meaningful professional concessions. No actual budget increase is printed, but a merely retaliatory officer would not explain that favorable judgment. [GROUP1602.]"
+    },
+    {
+      "frozen_line": 103,
+      "canonical_line": 115,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 104,
+      "canonical_line": 116,
+      "line_sha256": "dd12324e6fb04af8631390cb0f63dd34613dd1e0cdff0b48a370e4a9c667a3dd",
+      "line_text": "The adverse turn belongs to what happens after those checks. Iori is thirsty. Fuuka offers water; Juri independently supplies hospitality juice outside the inspected stock. Drinking is followed by distress and unresponsiveness. Juri calls it sleep; Fuuka recalls the earlier poisoning. The local sequence strongly relates the beverage and the response, without a chemical diagnosis. Izumi's enjoyment of the same drink does not prove universal harmlessness or a medical immunity mechanism. Her ordinary pleasure is real and analytically eligible, while Iori's contrary result is equally real. The pot's represented movement and Juri's interpretation of selfhood also remain distinct from a settled ontology."
+    },
+    {
+      "frozen_line": 105,
+      "canonical_line": 117,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 106,
+      "canonical_line": 118,
+      "line_sha256": "48d63ad9878cf095165399aabd0f6a052658bc625afb2a4193cc4c58483c92c7",
+      "line_text": "Fuuka's proposal to make the victim nonexistent is alarming speech, not an enacted killing or completed cover-up. The narrator safely wakes Iori, and an F is actually given. Future halving of the budget remains feared, not implemented. The result complicates Iori's fairness without invalidating her positive hygiene findings: a favorable check cannot guarantee every subsequent offer, while the adverse hospitality does not prove she never evaluated anything honestly. Recipient safety, administrative judgment and the kitchen's material budget each remain a separate institutional problem. Her monograph does not complete the School Lunch–Prefect relationship or the food-governance home."
+    },
+    {
+      "frozen_line": 107,
+      "canonical_line": 119,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 108,
+      "canonical_line": 120,
+      "line_sha256": "3b6460532b9f65b6b8ef64e97223b3d06d1bf15853d656b98be06addd82f36fb",
+      "line_text": "### 4.3 Funding authority shows the limits of a formally reasonable plan"
+    },
+    {
+      "frozen_line": 109,
+      "canonical_line": 121,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 110,
+      "canonical_line": 122,
+      "line_sha256": "160bf7677779742cffc075820d3b3b1df871117ca4de3cd615bfe7115b7749bd",
+      "line_text": "GROUP1901 places Iori's lemon preference inside a reported cafeteria-hostage incident. Haruna's debate pleasure and the Prefects' tastes distract from Fuuka's inward wish to be rescued. The accepted owner reports later conflict, hospitalization of Prefects including Iori and Gourmet escape. These are report-layer events; they do not show every participant physically retelling a witnessed fight at the meeting. Iori's taste is an ordinary positive fact with a context in which allowing debate to displace rescue has adverse stakes. It should be neither discarded because small nor romanticized because sincere."
+    },
+    {
+      "frozen_line": 111,
+      "canonical_line": 123,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 112,
+      "canonical_line": 124,
+      "line_sha256": "1d13beda3148968e474c206105eeec0a490a8dcd563766ab2ee4e1360d31a629",
+      "line_text": "GROUP1902 tests another claim of official work. Ako's reasonable-looking training proposal encounters Makoto's content-independent rejection and Iroha's punitive audit. Iori and Chinatsu protest impractical reductions and jumps in criteria. Concern for Ibuki's actual fall coexists with a vast funding response that Ibuki's own statement that she is not crying complicates. Iroha calls the work impersonal while protective attachment alters its standard. Proposed cuts, a zero future budget and a roughly95% tactical reduction are not completed treasury transfers. A raw display/text receipt assigns G1902 scene001:u0057's caution to Iori under the Chinatsu display label. That qualified specific witness may be used; other awkward tags must not silently be repaired. [GROUP1901–1902.]"
+    },
+    {
+      "frozen_line": 113,
+      "canonical_line": 125,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 114,
+      "canonical_line": 126,
+      "line_sha256": "6f9de923b068c5f818fed69f01ab3281b4f82dc73f3caae45c16839b3390e340",
+      "line_text": "The institutional point for Iori is limited but important. A formal proposal can be rejected for reasons unrelated to its merits, just as an inspection can be favorable before later risk changes the judgment. She is capable of recognizing practical inconsistency within office procedure. Yet recognition and protest do not establish the power to reverse it. Her institutional life includes dependence on other officers' information and discretionary choices. This is one reason her later definition of protection has force: official membership can sustain care and simultaneously become its obstacle."
+    },
+    {
+      "frozen_line": 115,
+      "canonical_line": 127,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 116,
+      "canonical_line": 128,
+      "line_sha256": "311ea97fbd0e03ea5d1d84acbe788e3dfb5a94f9fd5dd8ae1456bf71a36ae6a6",
+      "line_text": "### 4.4 The later school conflict does not excuse earlier official power"
+    },
+    {
+      "frozen_line": 117,
+      "canonical_line": 129,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 118,
+      "canonical_line": 130,
+      "line_sha256": "93fd6701fbe55d66fb747bbccb2addf907a8e8ba70644a7583a2cb3ca8a3603b",
+      "line_text": "The public Gehenna crisis asks whether a unified school obtained by controlling thought is the goal of order. Iori's public answer separates protecting freedom from allowing arbitrary harm. Her younger colleagues, the Student Committee, Pandemonium dissenters and Sensei each contribute to resistance. The complete C002 E018 context records Shoko's organizer confession, a counterbroadcast, distress, Iroha's appeal, Makoto's speech and local recovery; it does not give Iori a separate curative act. Her own character path belongs chiefly to opposition and its cost. She cannot receive the technical or rhetorical credit of those other actors merely because she appears in the coalition."
+    },
+    {
+      "frozen_line": 119,
+      "canonical_line": 131,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 120,
+      "canonical_line": 132,
+      "line_sha256": "06d03273d804153330db6ccb6de74a253ab62f19f4a7672063ccb4f86cc545ff",
+      "line_text": "C002 E019's account of betrayal is stronger than a claim that the bullets alone hurt. It leaves a relational and institutional injury after the immediate incident ends. Hina's praise of the juniors and promise of atonement recognize that the seniors were legitimately opposed, but equipment, discipline and accountability remain ahead. The character has articulated a protective institutional purpose; the institution has not printed a comprehensive remedy. This unresolved ending is part of her arc, rather than a gap the monograph may fill with a reassuring future."
+    },
+    {
+      "frozen_line": 121,
+      "canonical_line": 133,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 122,
+      "canonical_line": 134,
+      "line_sha256": "501ea2ad1454cf1ee19125e9e6d0e0e8bbd7bbc2849beccd7a0f7498878c0284",
+      "line_text": "## 5. Ordinary life, private pleasure and intrinsically valuable wants"
+    },
+    {
+      "frozen_line": 123,
+      "canonical_line": 135,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 124,
+      "canonical_line": 136,
+      "line_sha256": "7bc03dba1cdfc3a2dda555fbca3bb2cf179ceccddf356b9c8beed43860003a22",
+      "line_text": "### 5.1 Wanted rest has more than one result"
+    },
+    {
+      "frozen_line": 125,
+      "canonical_line": 137,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 126,
+      "canonical_line": 138,
+      "line_sha256": "b5f9c58939dc8471cb873a6cdaadc551bf5097a9e2f623d97283859aff9231bf",
+      "line_text": "The courtyard exchange is a proposed nap rather than completed sleep. Iori suggests a break room or Schale before a local one-time agreement. Japanese pain/discomfort language and the Korean formulations remain distinct; a pain-preference or old-shoe reference is a participant's language rather than a diagnosis. The local trial does not become an actually completed restful nap. It deepens misunderstanding. The separate beach sand-bath scene begins with limited assent and initial pleasure, then turns into sleeping-body sculpture, photography and delayed rescue. One is not proof that she always dislikes rest; the other is not permission for every act around a resting person. [Private source002/009.]"
+    },
+    {
+      "frozen_line": 127,
+      "canonical_line": 139,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 128,
+      "canonical_line": 140,
+      "line_sha256": "dc37e49b000ceb6dae4fe8c2fee4ccaea1365e8657f1840ce683057c5ff70d56",
+      "line_text": "Sunbathing after intervention and fatigue gives another real quiet desire. She reconsiders self-blame while opposing following; the opposition remains part of the ending rather than an obstacle overcome by affection. The cherished blanket adds warmth, everyday use and a calming tactile object. Its giver is unspecified, and no illness or sensory disorder is diagnosed. Tactical aid and inquiry after injury occur in the same BOND object as the refusal of scent-related access and a care warning that leads to confiscation and narrated cold. The body can need warmth and a person can protect the object that supplies it. Those are sufficient character facts without making the blanket a symbol whose ordinary use disappears. [Private source008/010.]"
+    },
+    {
+      "frozen_line": 129,
+      "canonical_line": 141,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 130,
+      "canonical_line": 142,
+      "line_sha256": "4cf285c3dabe43302d804f1c7999c1653f5194150e120c478397379776c93a79",
+      "line_text": "### 5.2 Learning is wanted, and its benefit is not a waiver"
+    },
+    {
+      "frozen_line": 131,
+      "canonical_line": 143,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 132,
+      "canonical_line": 144,
+      "line_sha256": "221e616782a1512c9040ac36d31665c0e7ef2740e160d8ef52d10d391d37ef06",
+      "line_text": "The swimsuit lesson begins from work-linked missed opportunities and the wish to become able to swim. Float selection and intended purchase express practical preparation. The accepted argument expressly preserves the interrupted payment; a selected item is not a completed transaction. Iori's efficiency-based acceptance of help gives the adult a defined teaching role with a touch condition. Unasked following remains a separate problem. In the later messages she thanks the practice and says she can somehow swim, while explicitly stopping short of mastery and only tentatively considering a future without the float. An unanswered duck question does not establish a cute-object preference. [Private source007/017.]"
+    },
+    {
+      "frozen_line": 133,
+      "canonical_line": 145,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 134,
+      "canonical_line": 146,
+      "line_sha256": "737a7d6a46d9c07e571e0ab32f265bdad3cf071bc2fe3b98b7090fdf0d92b469",
+      "line_text": "These distinctions let learning count as an ordinary positive change. There is no need to reduce it to improved combat capacity, a proof of romance or a retrospective justification of the teaching means. A wanted skill can be useful for pleasure and confidence. Her reported limited achievement deserves to stand as an achievement at its actual grade of evidence. It does not require an inspected stroke, completed sea pursuit or universal competence to matter. Conversely an intrusive teaching method does not oblige the analyst to pretend she received no benefit. Both parts belong in the argument."
+    },
+    {
+      "frozen_line": 135,
+      "canonical_line": 147,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 136,
+      "canonical_line": 148,
+      "line_sha256": "bf4bae046bdd3ac365a9452a5ba70c2edd807bc72c5ef4dbd154ff692848c481",
+      "line_text": "### 5.3 Maintenance and small generosity are not crisis substitutes"
+    },
+    {
+      "frozen_line": 137,
+      "canonical_line": 149,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 138,
+      "canonical_line": 150,
+      "line_sha256": "8d69726dfd47907ab372acf2903f2877aac91d5f720dfbbcc78aa51397cf28bc",
+      "line_text": "Sunscreen is a requested material object. The messages' product confirmation and urgency are not provision by themselves, but the connected BOND scene shows that the adult brings the object: Japanese explicitly bought/brought sunscreen, with Korean retaining its own requested-object/sunoil formulation. Busy camp conditions and unavailable Hina are reports, not audited staffing causes. Iori asks for examples while completing rules, and the list actually finishes with thanks. Theft, mines and blowing up shops appear as hypothetical branch proposals rather than performed crimes. The sharing-a-straw wish is refused. A five-step approach prohibition is neither five meters nor subsequent enforced compliance. [Private source006/016.]"
+    },
+    {
+      "frozen_line": 139,
+      "canonical_line": 151,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 140,
+      "canonical_line": 152,
+      "line_sha256": "c3f7d08b4e970c41640710032f8774d98ecb90e93a2f727234d8058855afac97",
+      "line_text": "The practical aid is successful; the misunderstanding still deepens. That paired ending is more revealing than either an all-failed-help or all-welcome-adult summary. It shows that Iori can value a job done and still dislike the conduct surrounding it. Coin recovery and the roughly100-yen drink-money offer are another small form of response. Her inference of hardship can be wrong while the offer has its prosocial intention. No actual drink purchase or consumption is supplied. Ordinary reciprocity has a range of performed, offered and hoped-for forms; none needs a war to be evidence."
+    },
+    {
+      "frozen_line": 141,
+      "canonical_line": 153,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 142,
+      "canonical_line": 154,
+      "line_sha256": "83c5aeaa9e13a49fe47ebba90ae82fd92a528e0ffc5f895a27146ecd5c14da1f",
+      "line_text": "The written profiles add conditional cafe rest, outings, celebrations, beach ultraviolet concern, lemonade and birthday gratitude. The birthday wording can name a particularly good birthday without proving a whole narrated date. Staring objections, a demand to leave and an outfit refusal stay beside the positive language. Conditional UI address belongs to a wanted or stipulated relationship with its source mode intact. It does not become sound, gesture, an always-active mood or a sequence of independent in-world visits. The empty UITitle is an actual empty source field, not an unread performance. [Private source021/022.]"
+    },
+    {
+      "frozen_line": 143,
+      "canonical_line": 155,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 144,
+      "canonical_line": 156,
+      "line_sha256": "4340397e3ae72c8efcb383f1b50d9b53b61432a85fa2ee359c57b9fd30ffaee3",
+      "line_text": "### 5.4 Gift giving keeps a distinction between an offered object and a denied interpretation"
+    },
+    {
+      "frozen_line": 145,
+      "canonical_line": 157,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 146,
+      "canonical_line": 158,
+      "line_sha256": "7e9011948eaa26bb9c7340cb7e924773e372affbcbd4f8816dd6d872b1d6ddb1",
+      "line_text": "The exact gift source `BA:event:810:008:125`, 靴墨とチョコレート, provides a small written test. Work piles up, a container falls, and Iori first denies and then jokingly affirms that it is boot polish. She makes a licking joke and immediately says she does not actually intend to make the adult lick real polish. The represented choice path nonetheless prints licking and the sweet-taste response; her concern that real polish would be harmful belongs to that path, not an independent medical conclusion. She reveals dark chocolate. Its strong taste and portability are her account of its recent use in the Prefect Team; the analyst does not certify a school-wide consumption survey. [Gift scene001:u0002–0019, choice003/004.]"
+    },
+    {
+      "frozen_line": 147,
+      "canonical_line": 159,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 148,
+      "canonical_line": 160,
+      "line_sha256": "2066685513d79e49bf46a30733eb0319df44890673ed55244e05cca33449086c",
+      "line_text": "The adult's inward interest in Iori's own boots or legs is not information she can automatically read. Her response and the textual pathway should not create telepathy. She gives the already tasted object away and explicitly rejects the Valentine-present interpretation, saying it is no longer edible for her because the adult licked it. The denial is an actual answer; teasing or embarrassment does not authorize replacing it with a certified secret confession. At the same time, a refusal of that interpretation does not forbid discussing the narrative's comic gift ambiguity. The serious alternative is that the scene invites romantic coding; the stronger literal conclusion remains a transferred object with a stated practical reason and a denied label. [u0020–0025, choices005/006.]"
+    },
+    {
+      "frozen_line": 149,
+      "canonical_line": 161,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 150,
+      "canonical_line": 162,
+      "line_sha256": "7ed2abcd1e6b5046b7e01a252fb0766da52fea3e8107514297ed575c48294d6f",
+      "line_text": "### 5.5 Public ordinary life is not swallowed by emergency"
+    },
+    {
+      "frozen_line": 151,
+      "canonical_line": 163,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 152,
+      "canonical_line": 164,
+      "line_sha256": "6a78fd386cbdae09bede40c405294a932edfa45f8805aeaf03369cc9887ec3f3",
+      "line_text": "EVENT809 keeps Iori's wanted holiday and sleep inside unsuccessful calming, mistaken attack and continued work. Briefing corrects an attack on Schale without giving her the rest she wants. E019's sleep wish remains unfulfilled on the page. EVENT804 similarly preserves her rights objection, fatigue, pursuit regret and tactical explanations as distinct from Chinatsu's caution and Ako's administration. Hina's retrospective good-mood explanation corrects a coffee-based stress inference; it does not prove the peers enjoyed the labor that supported the holiday. A36-hour/all-night training order and an answer of “no objection” do not certify freely wanted or safely completed training. [EVENT809008/009/019; EVENT804001–013.]"
+    },
+    {
+      "frozen_line": 153,
+      "canonical_line": 165,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 154,
+      "canonical_line": 166,
+      "line_sha256": "a32c6b0357929438b728bf3ae12d6834d5b227c7d990ff939597b5d07dd09a79",
+      "line_text": "Other public quiet moments have more positive endpoints. The written EVENT833 performance receives differentiated Prefect praise: Iori's recognition is part of the textual success, without this writer hearing the video or measuring pianism. The birthday MINI sequence gives a completed party, exchanged cakes, food actually presented and calming reports from Iori and Chinatsu about incense. No clinical effect, completed consumption of all food or lasting institutional alliance follows. That small participation deserves a place beside the public battles. Sparse contribution is not absence, and pleasant participation does not eliminate the earlier overwork or arbitrary budget experiences. [EVENT833009; MINI70005010/020/030.]"
+    },
+    {
+      "frozen_line": 155,
+      "canonical_line": 167,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 156,
+      "canonical_line": 168,
+      "line_sha256": "d1bdc6267b8c9c7b988ff75d85df859847aec46c88736f727559d482ba70b1a2",
+      "line_text": "## 6. Crisis conduct, failures and costs"
+    },
+    {
+      "frozen_line": 157,
+      "canonical_line": 169,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 158,
+      "canonical_line": 170,
+      "line_sha256": "033fab742fb7b6eae44595ec2d4269b745984acdc04f2c941b37526645af964c",
+      "line_text": "### 6.1 Attention is a resource rather than a fixed competence label"
+    },
+    {
+      "frozen_line": 159,
+      "canonical_line": 171,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 160,
+      "canonical_line": 172,
+      "line_sha256": "0be0086504eeaead4bca65df84389c919f9c2b37bacb9f8f03799bdc06127043",
+      "line_text": "The private trap is a precise adverse case. Iori reports concentrating on a helmet gang and missing her surroundings. She falls, asks for help and fails at unaided escape. The adult ultimately pulls her out, after photographing and watching the struggle. Her actual shin kick ends the encounter; the analyst must preserve this enacted aggression separately from earlier gun, report or handcuff threats. No injury diagnosis for the adult is supplied. Japanese prolonged watching and the Korean duration idiom do not license an exact common elapsed time. A fast enforcer can have a specific attention failure; a specific failure does not erase every successful intervention. [Private source005/015.]"
+    },
+    {
+      "frozen_line": 161,
+      "canonical_line": 173,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 162,
+      "canonical_line": 174,
+      "line_sha256": "55ab59200989e707fbd79aecf834646dc697bda160e5bdf23c405bf0ff44fed0",
+      "line_text": "Other private interventions also have finite endpoints. An encounter ends in fatigue and sunbathing; prior suppression does not prevent renewed disorder. The message family reports unknown opponents and unavailable colleagues, then requests command because hands are insufficient. Tactical trust and grenade deflection are real positive capacities, but they are capacities inside a situation. They do not demonstrate permanent elimination of trouble or inexhaustibility. Some private reflective parentheses carry named dialogue types rather than a mechanically certified inner mode, so intimate access to every calculation cannot be inferred from typography. [Private source008/010/018/020.]"
+    },
+    {
+      "frozen_line": 163,
+      "canonical_line": 175,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 164,
+      "canonical_line": 176,
+      "line_sha256": "f56d96093175358d3305ddcf695320dc28fd3f3e865c5d7ac9105f9be4eab321",
+      "line_text": "### 6.2 A failed solo response can still have protective intent"
+    },
+    {
+      "frozen_line": 165,
+      "canonical_line": 177,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 166,
+      "canonical_line": 178,
+      "line_sha256": "447f759291bb631e857ea8b65493821b39ad93b5a0c5eb8d477b3243818b3840",
+      "line_text": "EVENT844 gives a strong public adverse case. Iori initially expects the response to be trivial and leaves before hearing the adult's warning. Her intention to protect the adult, coupled with a denial of the teasing interpretation, is not proof of sound risk assessment. She is found unconscious and covered in sauce. Chinatsu and Sena judge her life not endangered; Sena's taste-related explanation is expressly hedged. These are in-world assessments, not independently established medical mechanisms. Transport and observation are arranged. Her later return is actual participation and a statement that she will not be careless again, rather than an invented complete cure or proof she can no longer fail. [EVENT844002–003/009.]"
+    },
+    {
+      "frozen_line": 167,
+      "canonical_line": 179,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 168,
+      "canonical_line": 180,
+      "line_sha256": "4cfd2d02446e7fced048c2fc6969a1e2f4de60f2bcb8f17a2009b2738ec7ecdf",
+      "line_text": "The rest of the crisis is distributed. Juri supplies a decoy and calls for firing. Hina transfers command of mobilized guns to Sensei for this operation after authority has obstructed action. The adult orders fire; Iori returns among responders. Temporary delegated command is not a permanent right over all officers. At the ending, Iori's belief that the small creature is unconscious proves inadequate when Ako's retaliation triggers another face attack. Fuuka disposes of it as unhygienic food, while Juri objects and acknowledges the problem. Narration closes the local incident. Repaired structures, compensated cafe losses, everyone's clinical recovery and restored holidays remain unprinted. Good intention, returned activity and another mistaken expectation all survive in Iori's record."
+    },
+    {
+      "frozen_line": 169,
+      "canonical_line": 181,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 170,
+      "canonical_line": 182,
+      "line_sha256": "fa4118586210fd377d7dd1b848043755708313cf619834cecc077e324b76804c",
+      "line_text": "### 6.3 Enforcement has opponents whose account cannot be dismissed by the officer's confidence"
+    },
+    {
+      "frozen_line": 171,
+      "canonical_line": 183,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 172,
+      "canonical_line": 184,
+      "line_sha256": "1f2f3ffec6740c4f86a3339d7e4081363f64d65ae5025459e639a2ffca0dfdb2",
+      "line_text": "EVENT830's train encounter complicates a simple righteous-pursuer narrative. Iori makes capture and handover goals and rejects letting Kasumi off on a duty rationale. That is her position; it does not independently certify a warrant or the entire jurisdiction. Ichika has her own responsibility and unease, while Kasumi uses a bag and the threat of ruining something she values to predict obedience. Some source lines differ between locales and carry adjacent voice seams. The written shots, falls and Ichika's admission that she fired are meaningful local evidence, but the precise targets, number, trajectory and clinical consequence cannot be reconstructed from the account. [EVENT830007–009.]"
+    },
+    {
+      "frozen_line": 173,
+      "canonical_line": 185,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 174,
+      "canonical_line": 186,
+      "line_sha256": "7e851ec1b5cf39764376f7cd6e12de41b5144037e033f7b143819ec115ba5a8e",
+      "line_text": "The ending does not print completed stopping, handover or comprehensive safety. Later affirmative reports about Iori's caution, infirmary and overturned-train aftermath support that this was more than an empty threat, while remaining reports rather than a fresh independent reenactment. Kasumi's assistance or expertise elsewhere cannot acquit the coercive bag leverage. Iori's protective vocabulary cannot settle every lawfulness question. Ichika's performed cooperation cannot automatically be called freely chosen when its immediate condition is threatened destruction of a valued object. These different positions must stay in the scene if its consequences are to retain literary meaning."
+    },
+    {
+      "frozen_line": 175,
+      "canonical_line": 187,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 176,
+      "canonical_line": 188,
+      "line_sha256": "5c2f252fdd8a6b21d5497b9b6c777c5b93895a90843e63002cb75dd7b85ca7f0",
+      "line_text": "EVENT848 begins with a printed train recap. Kasumi's prediction about Ichika shooting Iori and Ichika's report that she shot after Kasumi's impact are recapped claims; they do not constitute this writer's newly received original train performance or a legal ruling. The later Iori–Ichika encounter offers a different possibility: ending a wrong impression through apology and offering interschool help without force because Gehenna responsibility is also involved. Brief praise of the uniform is withdrawn. The closing readiness is not an executed apology, completed patrol or treaty. The middle labels are literally Ichika despite shifts in response function; only the first and final Iori assignments are cleanly separated by the source. The coherent willingness to cooperate is usable, while a fine uninterrupted Iori speech must remain qualified. [EVENT848001/022.]"
+    },
+    {
+      "frozen_line": 177,
+      "canonical_line": 189,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 178,
+      "canonical_line": 190,
+      "line_sha256": "fd47389da2843d4af4646fb0a74f0eeb041bd4952d1bfbcb04dbad2a0a7a0125",
+      "line_text": "### 6.4 The cost of resisting one's own seniors is not cured by being vindicated"
+    },
+    {
+      "frozen_line": 179,
+      "canonical_line": 191,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 180,
+      "canonical_line": 192,
+      "line_sha256": "b70db32b658f56d934133a18b1be16c7372fd4898e594cf1977c635bb1f2d4c5",
+      "line_text": "Part2's younger Prefects have injuries and divided allegiances before the counterbroadcast. Iori's desire for the return of familiar seniors does not keep her from opposing them. That combination is central: she wants the relationship and resists the controlled actions. Hina's statement that the juniors' bodies are too damaged is a participant assessment, and Iori's continued action is not medical clearance. Being able to stand or answer is different from being uninjured. The source gives no permission to turn her capacity to continue into a norm that she should have been pushed further. [S2 V002 C002 E001/E016/E017.]"
+    },
+    {
+      "frozen_line": 181,
+      "canonical_line": 193,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 182,
+      "canonical_line": 194,
+      "line_sha256": "66bd246f17a020c71d1105af2de1ce66121041af9106760a4c04d334788e220a",
+      "line_text": "The recovery episode's broad outcome does not prove Iori's individual immunity mechanism or make her the counterbroadcast's author. The youngest/older pattern and possible operator exceptions stay bounded in the accepted account. The final distinction between wounds and betrayal holds an injury to trust open after tactical release. Public recognition has real value, but it cannot perform restitution, undo forced attacks, restore every piece of equipment or certify settled membership for all affected students. A positive ending can therefore be partial without being narratively empty. [C001 E017; C002 E018/E019.]"
+    },
+    {
+      "frozen_line": 183,
+      "canonical_line": 195,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 184,
+      "canonical_line": 196,
+      "line_sha256": "55db862b1fdec02f51f21e895a837c52aa65f41b4bf9e7a66276070c813d16e4",
+      "line_text": "## 7. Sensei relationship and adult ethical responsibility"
+    },
+    {
+      "frozen_line": 185,
+      "canonical_line": 197,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 186,
+      "canonical_line": 198,
+      "line_sha256": "fb3c59d5e1b5bbb3e57065e061539fb029b08a91326aed8d281087301fb8ddca",
+      "line_text": "### 7.1 Useful care is concrete and limited"
+    },
+    {
+      "frozen_line": 187,
+      "canonical_line": 199,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 188,
+      "canonical_line": 200,
+      "line_sha256": "9fba414f0a5fee22ff2d71bf766217ba8d9df5e319d64cafa2f1f33b1feacba7",
+      "line_text": "The adult has genuine practical uses in Iori's private life. He finds the coin, supplies sunscreen, helps finish rules, wraps a difficult wound, pulls her from a pit, offers instruction and receives requests for command. Some of these acts complete their immediate job. She can recognize that seriousness and thank it without retracting every prior criticism. The profile's command-specific trust gives a positive directed relation, while its conditional touch language and finishing request keep the encounter bounded. “Trust” here needs an object: this command, this errand, this restricted care. [Private source001/004–007/010/016/017/020/021.]"
+    },
+    {
+      "frozen_line": 189,
+      "canonical_line": 201,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 190,
+      "canonical_line": 202,
+      "line_sha256": "56e13d419598c40380920d71dd75e5891c815bb958b498a7ef0b8b757a34ed3e",
+      "line_text": "The wound scene supplies the clearest distinction between the job and the helper's access. Iori reports the injury as minor/common and treatment as mostly completed, but identifies an unreachable area requiring a bandage. The analytical witness does not certify those medical descriptions. She adjusts clothing and requires closed eyes, then gives a limited permission to open them. Some care-response units are typed narration with empty labels rather than automatically spoken Iori lines. The narrated wrapping and clothing arrangement nevertheless give an actual local completion. Her thanks and possible future help are conditional rather than a continuing bodily entitlement. Denial of deliberately injuring herself for attention remains an actual denial; no diagnosis of hidden self-harm may be supplied. [Private source004, B10006:006:u0013–0020 and context.]"
+    },
+    {
+      "frozen_line": 191,
+      "canonical_line": 203,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 192,
+      "canonical_line": 204,
+      "line_sha256": "db86db32d596e45e4338b7a206bcb0fa0d82b2c59e2042f10d5aa041469f2272",
+      "line_text": "The adult's fallibility also affects the public relationship. Calming fails during the holiday attack. A warning does not reach Iori before the food-creature response. The train intervention helps under a precise command request and later explanation condition, not a general power to waive all procedure. Useful coordination belongs beside failed communication. The ethical object is whether the adult helps the student's chosen purpose while respecting other affected people, not whether the scene casts him as central."
+    },
+    {
+      "frozen_line": 193,
+      "canonical_line": 205,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 194,
+      "canonical_line": 206,
+      "line_sha256": "f677c65140fc6bd03afcd26d8faf0c6144b8570ff4cd5efdd34f7ed818c5864a",
+      "line_text": "### 7.2 Rescue and gratitude do not resolve unauthorized images"
+    },
+    {
+      "frozen_line": 195,
+      "canonical_line": 207,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 196,
+      "canonical_line": 208,
+      "line_sha256": "55b100a1af2cf4e561eec11d2ef43cac1521c59b981a027c98fdea4f862e4c11",
+      "line_text": "The pit story is not simply a test that the adult passes by eventually rescuing her. Iori requests help; he takes a photograph, she objects, he observes unsuccessful escape, and he eventually pulls her out. The later message family repeats secrecy and deletion requirements without printing fulfillment. The rescue is a completed benefit. The image dispute remains a separate unfinished obligation. The character's protest does not vanish because it follows a funny pose, a rare opportunity or an affectionate explanation. [Private source005/015.]"
+    },
+    {
+      "frozen_line": 197,
+      "canonical_line": 209,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 198,
+      "canonical_line": 210,
+      "line_sha256": "8f0a3a1692a249d3da986b681f902bf1413368ef95848fe4c68d20edd8eadaba",
+      "line_text": "The sand-bath scene makes a comparable distinction. A limited arrangement and initially pleasant rest precede sleeping-body modification, photographs, refusal and delayed extraction. No subsequent printed forgiveness can be invented to complete the relation. Swimming can give a reported benefit while a touch condition matters. Following can remain unwanted after successful intervention. An entrusted album can remain confidential after freely being handed over. The adult's status or a pattern of some helpful encounters cannot authorize circulation of every image, possession or memory of the person."
+    },
+    {
+      "frozen_line": 199,
+      "canonical_line": 211,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 200,
+      "canonical_line": 212,
+      "line_sha256": "9dec07bcea5487b4487a3dc3b217fd60ba04a2b4bacb25b60d7830dae1794dc1",
+      "line_text": "### 7.3 Provocation and joking do not create unlimited permission"
+    },
+    {
+      "frozen_line": 201,
+      "canonical_line": 213,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 202,
+      "canonical_line": 214,
+      "line_sha256": "6e37900cfb1cd5f66acbd2ba8e2a88553f19d4007f56ebc2e240c5ffac9a2757",
+      "line_text": "The early public foot-lick condition and the later chocolate scene are consequential because both tempt the analyst to interpret Iori's participation as a standing offer. In V001 the request is sarcastic, the adult's represented compliance surprises her, and her response does not license future acts. In the gift source she makes a joke about licking boot polish and explicitly states that she has no actual intention of making him lick real polish. The represented licking pathway then prompts concern and disgust. These are specific transactions with their own conditions. Neither scene establishes permission for unrelated contact. [V001 C002 E017; gift810008:125:u0011–0025.]"
+    },
+    {
+      "frozen_line": 203,
+      "canonical_line": 215,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 204,
+      "canonical_line": 216,
+      "line_sha256": "4e5f4e350e55fa85b69f1daa3d02902f89b08b53afd9c713d0eb6907fec88f0d",
+      "line_text": "There is a serious reciprocal critique here. Iori herself uses provocation and an access condition in the public scene. Her methods need scrutiny, including the risk of turning institutional access into humiliation. That scrutiny does not require deleting her later refusal or making the adult's choice ethically invisible. Both participants can act badly in a local relation; the student does not lose the ability to set a limit because she earlier teased, misunderstood or threatened. The monograph can preserve reciprocal responsibility without pretending the roles and power are identical."
+    },
+    {
+      "frozen_line": 205,
+      "canonical_line": 217,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 206,
+      "canonical_line": 218,
+      "line_sha256": "4ea9875e5aacbe4464a1432accf1839911e87a0fd538a47657f4b89c483f99d5",
+      "line_text": "### 7.4 A helper can honor agency without becoming the whole explanation"
+    },
+    {
+      "frozen_line": 207,
+      "canonical_line": 219,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 208,
+      "canonical_line": 220,
+      "line_sha256": "d062249b57dcf40c3b67f771f3543ee96db1704abd1aada520810d18d6658567",
+      "line_text": "Part2's early younger-group decision to keep Schale as a last resort grants Iori and peers a public agency not reducible to awaiting Sensei. Later help is useful and a means of escape, but younger Prefects, Student Committee, Pandemonium dissenters and other actors have supplied information and resistance. In EVENT846 Iori permits the train party to continue because of the adult's presence while requiring an explanation afterward. That is a provisional local concession, not completed exoneration. The adult's offer to lick a foot is rejected on the alternative path, and Hikari's friendship offer is interrupted rather than accepted. Public coordination should not launder either an intrusive alternative or an unfinished administrative duty. [S2 V002 C002; EVENT846009–010.]"
+    },
+    {
+      "frozen_line": 209,
+      "canonical_line": 221,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 210,
+      "canonical_line": 222,
+      "line_sha256": "d5f9be33f0d83b1374ec22ecf94f26395d86c61b8b1cd2284bd8add3b22c7416",
+      "line_text": "This directed relation therefore requires a separate full home. Its core is not an affection score but a sequence of chosen help, bounded trust, mistaken inference, reciprocal provocation, refusal and unresolved repair. This monograph presents what those encounters mean for Iori. A directed study must separately compare the adult's alternatives, knowledge and responsibilities and keep the complete recipient objection. Neither character completion nor a positive tactical result completes that duty."
+    },
+    {
+      "frozen_line": 211,
+      "canonical_line": 223,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 212,
+      "canonical_line": 224,
+      "line_sha256": "80ca34b197a04d8099ae8d50227ee3f2f5489fec7ee7ddb1d72340ea7f85d02d",
+      "line_text": "## 8. Major peers, directed relationships and ensemble belonging"
+    },
+    {
+      "frozen_line": 213,
+      "canonical_line": 225,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 214,
+      "canonical_line": 226,
+      "line_sha256": "ef2814a3fdcc6af9aaa0c40dd1cc37b76c8c127a7ee06db0560e655ebab914a8",
+      "line_text": "### 8.1 Hina: belonging that permits opposition"
+    },
+    {
+      "frozen_line": 215,
+      "canonical_line": 227,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 216,
+      "canonical_line": 228,
+      "line_sha256": "379d77692adba6ef44eb45959ab58c25efab4f22fe5a5e456aaba80fce7544c3",
+      "line_text": "Iori's relation to Hina contains dependence, professional recognition, concern and conflict. Familiar leadership gives a remembered boundary that changes her response to Karen. Public assignments and acknowledgments establish coordination. Retirement and sleep are reported or observed at their respective scopes; Iori does not automatically know every private wish Hina voices elsewhere. Her desire for the seniors to return, even to an imperfect workday, expresses attached membership rather than an idealized claim that ordinary leadership never harms her. [S2 V002 C001 E011; C002 E001.]"
+    },
+    {
+      "frozen_line": 217,
+      "canonical_line": 229,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 218,
+      "canonical_line": 230,
+      "line_sha256": "5292f90fe3e26d4e1d71782f9970e9fcb101b8d3c3a5801386b6270ffc19d67f",
+      "line_text": "The later armed opposition is directed at the controlled actions, with an explicitly protective rationale. Hina's concluding praise matters because it validates opposition rather than asking for loyalty through silence. It does not rewrite the juniors' injuries or carry out the promised amends. The tension is a relationship in which disagreement can become a way of preserving the person and the institution one wanted, rather than proof that one never belonged. That is an interpretation supported by the coexistence of desire and refusal, not a claim that every senior–junior conflict is secretly affectionate. [C001 E017; C002 E016–E019.]"
+    },
+    {
+      "frozen_line": 219,
+      "canonical_line": 231,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 220,
+      "canonical_line": 232,
+      "line_sha256": "ab6e2b135618f7c896bd54b5b7bd9e4a1a7b5b0ccc6b098842435aeb6025dc3e",
+      "line_text": "EVENT804 gives contrary ordinary evidence. Wanted leisure for Hina can become hidden work and fatigue for her colleagues. Iori's rights objection is text-owned to her at E009:u0016 despite the printed Ako display tag in the qualified witness. Hina's judgment that peers enjoyed two days conflicts with their represented labor and exhausted state. A later severe training order remains an order, not a collective desire. Public protection and ordinary care have to be evaluated for the people they burden. Hina's genuine sensory joy and gratitude do not answer Iori's different objection."
+    },
+    {
+      "frozen_line": 221,
+      "canonical_line": 233,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 222,
+      "canonical_line": 234,
+      "line_sha256": "b34a0e468f40dd7d772eee87b50f35904cb8daa4f3b7c59bbb667241273cbde5",
+      "line_text": "### 8.2 Ako and Chinatsu: coordination does not make their voices interchangeable"
+    },
+    {
+      "frozen_line": 223,
+      "canonical_line": 235,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 224,
+      "canonical_line": 236,
+      "line_sha256": "91afdf96ead6b26cb6909210447b05c8d4eee703b08c1c1991ff53a70675d567",
+      "line_text": "Ako organizes, briefs and cares with real attention, but the holiday operation also treats colleagues as pieces or gears and pressures refusal. Iori's objections and fatigue are distinct responses to those means. Holiday briefing can correct the attack on Schale without restoring rest. In Part2 the officer group has to discuss how to respond to its own seniors. These shared scenes establish ensemble dependence and friction, not a universal dynamic in which Ako is always controller and Iori always victim. Ako's own public pain, fatigue and failed command conditions remain distinct facts. [EVENT804/809/844; S2 V002.]"
+    },
+    {
+      "frozen_line": 225,
+      "canonical_line": 237,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 226,
+      "canonical_line": 238,
+      "line_sha256": "1b2174b0e2cd73cae1cccce1e77cb3195e9252a6e5bdef565b0e20dda82f13eb",
+      "line_text": "Chinatsu's explanations, procedural caution, historical account and care differ from Iori's sharper enforcement voice. Some derived labels cross their functions, so the analyst must not assign every polite speech under an Iori tag to her stable register, or silently hand every such speech to Chinatsu. The qualified G1902 raw witness provides one exact correction boundary; numerous other seams remain unresolved. Their cooperative roles and different judgments are secure at coherent scene scope, while an exhaustive fine-grained psychology from a contaminated alternating tag sequence is not."
+    },
+    {
+      "frozen_line": 227,
+      "canonical_line": 239,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 228,
+      "canonical_line": 240,
+      "line_sha256": "c92ec84b829afd73b40dbec20d0bbd3f658744c545faae9ac9fc76238476e50e",
+      "line_text": "### 8.3 Ichika and Kasumi: cooperation, leverage and the possibility of a different meeting"
+    },
+    {
+      "frozen_line": 229,
+      "canonical_line": 241,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 230,
+      "canonical_line": 242,
+      "line_sha256": "e93bd0794fdb29ff9d1eb3660d741a2a9b9cb94d846f54519e8560ecac4965b5",
+      "line_text": "The train conflict belongs to all three actors. Iori is not merely a foil for Ichika's embarrassment or Kasumi's cleverness. She states a duty and a capture goal; Kasumi manipulates a valued bag; Ichika has professional and interschool obligations under pressure. The later cooperation offer is meaningful because it provides a way to relate beyond forced compliance. It remains prospective at the source's ending. A demanded apology is not an enacted one, and awkwardness or withdrawn uniform praise does not establish an invariant hidden affection or a completed alliance. [EVENT830007–009; EVENT848001/022.]"
+    },
+    {
+      "frozen_line": 231,
+      "canonical_line": 243,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 232,
+      "canonical_line": 244,
+      "line_sha256": "58a235ffe80a9eea36440bd35954c5b9e734dd52315b6e3cfbb1cd9403b4455c",
+      "line_text": "The serious rival reading says the later encounter is merely comic recovery after an exaggerated chase. That reading preserves a change of tone but misses why the source specifies apology and voluntarily offered help. Conversely a full reconciliation reading invents the completed acts that would make the repair durable. A directed Iori–Ichika study must keep both the earlier injury/report problem and the later unexecuted cooperative possibility. A Kasumi relation must preserve coercive leverage without treating every technical contribution as manipulation or every professional opponent as righteous. Those homes remain separate required work."
+    },
+    {
+      "frozen_line": 233,
+      "canonical_line": 245,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 234,
+      "canonical_line": 246,
+      "line_sha256": "c9396c6c05bb7394dc74ae38ebf111bc095381e3ba8e65d6d8110102b51b2630",
+      "line_text": "### 8.4 Fuuka, Juri and Izumi: one result does not settle another recipient"
+    },
+    {
+      "frozen_line": 235,
+      "canonical_line": 247,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 236,
+      "canonical_line": 248,
+      "line_sha256": "dc4286607dc2e94eaf173164a457d09b33083c3e42421a0e8369bdbf70e6987c",
+      "line_text": "The inspection and food-creature events provide an ordinary cross-club network rather than an exclusive officer plot. Fuuka has labor, resources and safety concerns; Juri wants to offer hospitality and serve successfully; Izumi can enjoy food that has an adverse result for someone else. Iori can issue genuine favorable checks, drink an uninspected offer, collapse, recover and give an F. The group still has to carry the consequences. Her rank does not make Fuuka's fear immaterial, and Izumi's pleasure does not make Iori's body an error to explain away. [GROUP1601–1602; EVENT844.]"
+    },
+    {
+      "frozen_line": 237,
+      "canonical_line": 249,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 238,
+      "canonical_line": 250,
+      "line_sha256": "bb052aafe98a0c2c58775ba7f52561ab631c18e7d4c4a3857b053738ec1f9c87",
+      "line_text": "GROUP1901's culinary debate is another contrary arrangement. Iori's lemon taste is an intrinsic preference, while Fuuka inwardly wants rescue. Shared conversational pleasure cannot be used to certify the captive's consent. This comparison lets Iori remain more than an enforcer and lets Fuuka remain more than an occasion for a joke. The required food-governance and School Lunch relations have to receive the complete differentiated meanings; a few favorable or failed Iori moments cannot complete them."
+    },
+    {
+      "frozen_line": 239,
+      "canonical_line": 251,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 240,
+      "canonical_line": 252,
+      "line_sha256": "723db9cb071e4be200183fbca40803b887d866dcc3332a835bd24894e32592e1",
+      "line_text": "### 8.5 Sparse cross-school and ordinary participation still matter"
+    },
+    {
+      "frozen_line": 241,
+      "canonical_line": 253,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 242,
+      "canonical_line": 254,
+      "line_sha256": "91d42afce667c2a3de4dafd9ee3facb576931156236ee293bd1c478d9a7c3e37",
+      "line_text": "EVENT835's ending places Iori and Chinatsu, with Hyakka peers, among responders joining the remaining firefighting after the nearby meeting. The distributed response and substantially extinguished fire are stronger than a mere plan. No detailed injury or damage audit, final technical inspection or compensation is printed. This is a meaningful cooperative appearance without granting Iori sole rescue authorship. [EVENT835015.]"
+    },
+    {
+      "frozen_line": 243,
+      "canonical_line": 255,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 244,
+      "canonical_line": 256,
+      "line_sha256": "b5cb41060de4dc64f1b63e8f860c0928e42795bc4aa5090d6a19e04101f010d7",
+      "line_text": "EVENT860's afterstory has a different scale. A generic Prefect misidentifies Sumika's unnamed silver-haired strong recipient as Hina. Later, at summer training, Iori is literally named, greets the unusual visitor and calls Hina. The first generic guide cannot be joined to Iori by proximity. A polite Iori-headed urgency comment carries a possible register seam. The visitor's mismatch is discovered; the intended apology to Makoto is not completed. Iori's narrow role is actual reception and referral, not responsibility for the cruise, the mistaken original identification or the dream tournament. That small role survives precisely because scope is kept honest. [EVENT860015:scene001:u0014–0035; scene002:u0007–0014.]"
+    },
+    {
+      "frozen_line": 245,
+      "canonical_line": 257,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 246,
+      "canonical_line": 258,
+      "line_sha256": "fd8459e6aa6782796d85462254fbacb0611b669ca19c54b51863da5a6d7d03fd",
+      "line_text": "The birthday sequence and MINI lost-child/club material likewise retain Iori-positive headers without manufacturing an individual speech where the accepted whole meanings focus on other actors. She can be part of institutional and social company whose function is not hers alone. A full Prefect ensemble study must distinguish differentiated belonging, work, disagreement and wanted ordinary life. The institution study must separately ask about coercion, delegated command, resource allocation and repair. Neither can be substituted by an accumulation of individual character paragraphs."
+    },
+    {
+      "frozen_line": 247,
+      "canonical_line": 259,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 248,
+      "canonical_line": 260,
+      "line_sha256": "1cf30e08216220a5977e4f13f56bbbbe2676844afd0ce86529bf3bbb03d8dd88",
+      "line_text": "## 9. Language, voice and source form"
+    },
+    {
+      "frozen_line": 249,
+      "canonical_line": 261,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 250,
+      "canonical_line": 262,
+      "line_sha256": "06fb3afb5ba02112bee2772561f3234b4812e17e2cc2308c498c7993a568aa4b",
+      "line_text": "### 9.1 The written voice can be sharp without being one emotion"
+    },
+    {
+      "frozen_line": 251,
+      "canonical_line": 263,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 252,
+      "canonical_line": 264,
+      "line_sha256": "6dbed10da08d4f20f42d1ffcc0435968d5f7471847fa53d18255c89338b978d4",
+      "line_text": "Iori's direct forms often impose a line: stop, explain, do not follow, do not show, delete, keep away. Their objects matter more than a generic angry register. A demand for quiet in custody differs from a photo-deletion demand; a refusal of a straw-sharing proposal differs from a public claim about official power. Her sharper language can accompany a mistaken accusation, a correct objection or an amused provocation. An account of voice should therefore follow the speech act and its audience, rather than treating the same exclamation mark as proof of the same emotional state."
+    },
+    {
+      "frozen_line": 253,
+      "canonical_line": 265,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 254,
+      "canonical_line": 266,
+      "line_sha256": "0fe962dd17716efe17c8d33202a402c13589aec245824941b7dbec704425ef0c",
+      "line_text": "There is also positive language. She thanks supplied help, recognizes the adult's seriousness, reports limited swimming progress and gives command-specific trust. The small wound messages connect thanks and accompaniment while speaking of ordinary vulnerability under gunfire. Such self-reports are not medical evaluations or guarantees of invulnerability. The courtyard inquiry can request information without printing a visit. A rumor/report instruction can be prospective without an actual committee call. The unanswered-message scene imagines wrongdoing and threatens a handcuff plan, while the adult challenges it; no actual arrest follows. These mundane communicative acts widen the character beyond angry reaction without making every proposition true. [Private source011/012/014/017/019/020.]"
+    },
+    {
+      "frozen_line": 255,
+      "canonical_line": 267,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 256,
+      "canonical_line": 268,
+      "line_sha256": "eb6a9ca1ffbc5f15705f29f454898b7272c258d3f40468b484050f50ff10b1cf",
+      "line_text": "Written humor often stages a gap between intention and reception. The coin and courtyard scenes deepen misunderstanding after a practical explanation or trial. The chocolate scene explicitly names a joke, retracts literal boot-polish intent and rejects the Valentine's label. The adult's inward reply has a reader audience, not automatically Iori's knowledge. An analyst can identify teasing, a scripted response path or a comic motif while declining to certify a hidden motive the source has not settled. This is a limitation of attribution, not a ban on literary interpretation."
+    },
+    {
+      "frozen_line": 257,
+      "canonical_line": 269,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 258,
+      "canonical_line": 270,
+      "line_sha256": "01a0ab8ff3dbc58502b29663b2a6db77f95ca3b4b2872e40a96333b262830a29",
+      "line_text": "### 9.2 Small lexical distinctions carry real limits"
+    },
+    {
+      "frozen_line": 259,
+      "canonical_line": 271,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 260,
+      "canonical_line": 272,
+      "line_sha256": "bbcc5725bfc82774f872545f73717503ca2fd9e75238b70e9e84c0871606015d",
+      "line_text": "The accepted swimming follow-up retains 何とか泳げるくらい and the tentative 済むかも: limited self-reported ability and a possible future without the float. Replacing them with mastery and completed independence would remove the character's own assessment. The rule scene's five steps are not five meters. An estimated almost-finished list and an actually finished list have different endpoints. Unauthorized photography is a rule proposal; its performance in every future camp is unprinted. Japanese hedging about a previous camp and Korean annual language remain separate testimony, not combined evidence for an exact frequency. [Private source006/017.]"
+    },
+    {
+      "frozen_line": 261,
+      "canonical_line": 273,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 262,
+      "canonical_line": 274,
+      "line_sha256": "1e5f1f2e14de7b1bd57e21d24962954949e93f0010fc35ca2694ce8c38cf5355",
+      "line_text": "The wound findings preserve narration-typed empty-label units rather than crediting every care utterance to Iori's speaking voice. The album findings retain Japanese acquisition after scolding and Korean return language at their respective scope. The pit duration remains prolonged watching versus a locale-specific idiom. The sand and blanket findings preserve permissions, denials and unfulfilled repair. These distinctions are consequential because an inflated result can falsely settle consent, skill, injury or disclosure. None is a reason to discard the ordinary encounter itself."
+    },
+    {
+      "frozen_line": 263,
+      "canonical_line": 275,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 264,
+      "canonical_line": 276,
+      "line_sha256": "7df472f551e574a677939e0b0a05767a682515fb878648575019f7ab8c9dc17e",
+      "line_text": "### 9.3 Public actor seams require local qualification"
+    },
+    {
+      "frozen_line": 265,
+      "canonical_line": 277,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 266,
+      "canonical_line": 278,
+      "line_sha256": "a975a2e14163297cfc080c2d15eb0669b4d93ae7216a6ad669ab81522d5b3523",
+      "line_text": "The positive-header audit checked all480 canonical MAIN episode files and found twenty-seven units with an Iori literal header. It did not read all480 for narrative meaning. Literal positive metadata retrieves an owner and prevents missed appearances; it cannot by itself establish that every line under the tag belongs to Iori. The public-square boasts, early V001 order cluster, Part2 polite exchanges, Final self-address and EVENT848 dialogue are known counterexamples. This monograph receives complete consequential paragraphs or whole small contexts and keeps their uncertainty explicit."
+    },
+    {
+      "frozen_line": 267,
+      "canonical_line": 279,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 268,
+      "canonical_line": 280,
+      "line_sha256": "b3468673011a43a1167ea8047180533b44b55c87b3a0025a143f7b1215fa3079",
+      "line_text": "EVENT804's accepted text-actor witness matters for her rights objection under an Ako display label. G1902's raw witness matters for her caution under Chinatsu's display label. These are exact bounded qualified receipts, not a general license to repair other labels by intuition. In EVENT860 the first guide remains generic 風紀委員; later イオリ lines do not make both one person. In EVENT848001 the train is recapped, and the embedded video is not received audiovisual performance. In EVENT833 the written reactions establish a represented performance and recognition without heard notes. Report, recollection, inward text, choice, narration and current dialogue retain separate audiences and evidential force."
+    },
+    {
+      "frozen_line": 269,
+      "canonical_line": 281,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 270,
+      "canonical_line": 282,
+      "line_sha256": "63f2a24cb20b2f8cfbe6d2f52a1f686992e1daad9548c616810809050d76237e",
+      "line_text": "### 9.4 Written variants and controller repeats preserve wanted life without inventing a calendar"
+    },
+    {
+      "frozen_line": 271,
+      "canonical_line": 283,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 272,
+      "canonical_line": 284,
+      "line_sha256": "81d0b200711ce0b2b6ef5a7ba0e9e7fafb5d1d93b7281b516ff931a0ce7df776",
+      "line_text": "The two profile/dialogue objects contain real written fields and condition-tagged replies. The selected event-costume object has twenty-six records, including paired Event804/10804 wording with different day controls. Equal words are not independent repeated experiences, and differing controls are not grounds to delete a record. The corrected vacation expression, logistics, supplies and burden comparison belong to the complete accepted source-form argument. Asset paths, voice identifiers and animation fields provide written provenance, not inspected pixels or sound. The monograph does not derive a variant timeline from their display or release order. [Private source021–023.]"
+    },
+    {
+      "frozen_line": 273,
+      "canonical_line": 285,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 274,
+      "canonical_line": 286,
+      "line_sha256": "317588545ad51ac6a9a19385e2cfc1d68294b065c5b4da5a09101be0e23a67e3",
+      "line_text": "A written birthday pleasure can be meaningful without a performed birthday scene. A conditional cafe rest wish is an ordinary end even if no narrated visit completes it. Respecting source mode should make the analysis more precise, not turn every non-MAIN form into weak filler. The required source register must separately retain every local field, exact controller and unresolved key boundary. This character argument uses those meanings while adding zero performed-voice or model credit."
+    },
+    {
+      "frozen_line": 275,
+      "canonical_line": 287,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 276,
+      "canonical_line": 288,
+      "line_sha256": "a64f600ac738f45ac3b81b33d3f95367ececef37993efbc872a8a29bfdd9170a",
+      "line_text": "## 10. Serious rival interpretations"
+    },
+    {
+      "frozen_line": 277,
+      "canonical_line": 289,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 278,
+      "canonical_line": 290,
+      "line_sha256": "0d6e1f0651450ae84a0ac5177d1a13faa0fee839edaa480cf52edaac1fb9c2fe",
+      "line_text": "### 10.1 The exemplary officer whose mistakes are only comic decoration"
+    },
+    {
+      "frozen_line": 279,
+      "canonical_line": 291,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 280,
+      "canonical_line": 292,
+      "line_sha256": "1498c6bd683bffad60c842fd4b71264e0168f42b57b585ff5a5e468aa9f9f362",
+      "line_text": "Successful enforcement, completed rules, tactical command, the favorable inspection and later public dissent support a capable-officer reading. If that reading makes errors decorative, it loses the early official-force rationale, an actual failed pursuit, mistaken solitude response, collapsed patient, incorrect unconscious-creature assumption and uncompleted repairs. The adverse evidence affects what her competence warrants. The adequate version is situated capacity rather than guaranteed judgment. An enacted protective purpose is a reason for praise, not a certificate that every earlier exercise of power was legitimate."
+    },
+    {
+      "frozen_line": 281,
+      "canonical_line": 293,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 282,
+      "canonical_line": 294,
+      "line_sha256": "7b7167503a4121595cd46058f821fd78cba366c4b14f7c435987c8b4447b81bb",
+      "line_text": "### 10.2 The simple-minded comic victim"
+    },
+    {
+      "frozen_line": 283,
+      "canonical_line": 295,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 284,
+      "canonical_line": 296,
+      "line_sha256": "0ef0c5ef88e957915c2419f56f4d68d0a836c7048d35a6a5f417759f46431e47",
+      "line_text": "The pit, misunderstandings, intrusive adult behavior and bodily food response support a narrative in which Iori repeatedly becomes the joke's target. An exclusive victim reading nevertheless misses her efficient help-seeking, real inspection concessions, attention to mundane maintenance, limited learning, command use and public definition of protection. Her actual shin kick also resists a wholly passive portrait. It matters that the scene supplies an answer and an act rather than only a face for someone else's joke. The remaining unanswered photo repair should stay adverse evidence; it does not consume her whole agency."
+    },
+    {
+      "frozen_line": 285,
+      "canonical_line": 297,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 286,
+      "canonical_line": 298,
+      "line_sha256": "d6f8f485219b14f8dd07a74eace618cb8c04f4dcaa04a90fbc004af0b7762c67",
+      "line_text": "### 10.3 The cold authoritarian who cares only about work"
+    },
+    {
+      "frozen_line": 287,
+      "canonical_line": 299,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 288,
+      "canonical_line": 300,
+      "line_sha256": "ce19f77d7dbff91e217993ab3f124c83161d9ad607f9c7331d0bf7cb93df55b3",
+      "line_text": "The early mission, gun threat, custody order and pride in enforcement give this reading serious support. Her own authority can demand explanation before recognizing a recipient's position. But drink-money generosity, requested care, privacy of an entrusted album, wanted rest, swimsuit learning, warmth, birthday thanks, concern for Ibuki and longing for the seniors' return are contrary evidence. They do not exonerate official coercion. They do show a character who has ordinary and relational purposes beyond rule execution. The later public articulation of protecting students against violence makes that difference explicit while keeping the early inconsistency unresolved."
+    },
+    {
+      "frozen_line": 289,
+      "canonical_line": 301,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 290,
+      "canonical_line": 302,
+      "line_sha256": "78f4dbc8a948976dbaa012a70e415959603ea4231e9e6c0f64e05e3e0ea9968e",
+      "line_text": "### 10.4 Every refusal is a disguised invitation"
+    },
+    {
+      "frozen_line": 291,
+      "canonical_line": 303,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 292,
+      "canonical_line": 304,
+      "line_sha256": "f696dd15fb87c3be6ba985f44cc6e2c99339056f43ae919599fbdd6bec085a2f",
+      "line_text": "Comic embarrassment, teasing and the combination of thanks with displeasure can invite a genre-coded romantic interpretation. A serious version may argue that the narrative lets affection emerge through indirection. It still has to account for specific actual photographs, deletion demands, nondisclosure rules, bodily and touch conditions, rejected scent interest, interrupted extraction and explicit denials. A theory that calls all contrary evidence proof of stronger secret permission cannot be challenged by the source and deprives Iori of a possible answer. The better boundary is interpretive ambiguity about affection alongside literal certainty that the stated condition exists. Affection, even if plausible, does not settle permission."
+    },
+    {
+      "frozen_line": 293,
+      "canonical_line": 305,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 294,
+      "canonical_line": 306,
+      "line_sha256": "2f4eae7c21eb36897a1aa4e3b115908bd9c1e78846a06040b2299d632f6440b3",
+      "line_text": "### 10.5 Successful help makes the adult's conduct harmless"
+    },
+    {
+      "frozen_line": 295,
+      "canonical_line": 307,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 296,
+      "canonical_line": 308,
+      "line_sha256": "f8599e5276a36059ba39306de31d49d50bfe79e5b2b0c8ad37234ae4b402dcbf",
+      "line_text": "The adult often completes a useful task, and Iori sometimes recognizes it. This provides genuine contrary evidence to an exclusively predatory or useless-helper portrait. It does not answer why a photograph must remain undeleted, why following should override a directive or why a sleeping body can be modified beyond limited assent. An intervention can have a benefit and an objection. The adult's practical usefulness and Iori's unfinished boundaries must both remain available for a directed ethics analysis, including her own reciprocal provocation and institutional access condition."
+    },
+    {
+      "frozen_line": 297,
+      "canonical_line": 309,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 298,
+      "canonical_line": 310,
+      "line_sha256": "31ae5b84fc3b5d59dfc2870f8174e4d03fa85765d1b5870ba1afe21ac1173d74",
+      "line_text": "### 10.6 One straight growth story explains all later conduct"
+    },
+    {
+      "frozen_line": 299,
+      "canonical_line": 311,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 300,
+      "canonical_line": 312,
+      "line_sha256": "2a057ebc8c6a62b688c628032aaafbf9e37aa3c418c07ee58098bc7989af5836",
+      "line_text": "Public chapter ordering and later opposition tempt a linear redemption narrative. It can reasonably identify an important change in how Iori states and applies protective purpose. It cannot establish that private lessons caused it, date every supplemental mistake after it or make variant release a psychological clock. The selected private sources retain unresolved main placement; group and event reports have local rather than universal order. The later meaning of dissent survives without a fabricated continuous biography. The character's tensions need not all be earlier defects waiting to disappear."
+    },
+    {
+      "frozen_line": 301,
+      "canonical_line": 313,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 302,
+      "canonical_line": 314,
+      "line_sha256": "1e39afe4c9afabff4829e16b2ff8f3abc018759e962565a9e40da7df9fc334ce",
+      "line_text": "### 10.7 Selective trust proves total emotional dependence"
+    },
+    {
+      "frozen_line": 303,
+      "canonical_line": 315,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 304,
+      "canonical_line": 316,
+      "line_sha256": "574abbc5a8064def19b4604c691c68f5a0bde4a325607422d6b29d776397e173",
+      "line_text": "The album, command, urgent summons and requested help give meaningful reliance. The same family has explicit secrecy, nondisclosure, product, touch, distance and completion conditions, plus inadequate staffing and repeated work. Relying on somebody for a particular task does not demonstrate exclusive reliance for every need. Other officers, club peers, medical responders and cross-school actors provide assistance or contrary views. The thesis requires a distributed and situated relation, not a diagnosis of dependency or an exclusive adult remedy."
+    },
+    {
+      "frozen_line": 305,
+      "canonical_line": 317,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 306,
+      "canonical_line": 318,
+      "line_sha256": "bc998001c89f3381a92a9155345a6f0934fcc33dcc8060439559fd0c75c35768",
+      "line_text": "### 10.8 Later resistance guarantees institutional redemption or technical immunity"
+    },
+    {
+      "frozen_line": 307,
+      "canonical_line": 319,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 308,
+      "canonical_line": 320,
+      "line_sha256": "80f31f1db8ce59a7aa10e7712dcb26d0bc95218c00d211be05e1509d5873dc44",
+      "line_text": "The younger Prefects make a protective stand, the local NK Ultra incident ends, seniors recover and praise opposition. Those are substantial positive outcomes. Shoko's technical confessions and claims, counterbroadcast authorship, operator exceptions, historical pattern and full clinical effects remain limited. Hina's promised amends and equipment/discipline repair are not performed by applause. Iori's ethical statement is a real direction within the institution, not proof that its power is now safe for every recipient or that she has a settled immunity mechanism."
+    },
+    {
+      "frozen_line": 309,
+      "canonical_line": 321,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 310,
+      "canonical_line": 322,
+      "line_sha256": "085b8e89386ec003fc0ddf212b6cbfd664e17c0a8b7369abf6e004e4ddbc47e9",
+      "line_text": "### 10.9 Quiet, mediated and sparse evidence cannot support serious character analysis"
+    },
+    {
+      "frozen_line": 311,
+      "canonical_line": 323,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 312,
+      "canonical_line": 324,
+      "line_sha256": "75bffe5aea4facda448cec1c776f3529240b5aaddf17a6335936fdc71dbfea15",
+      "line_text": "This position would reduce the central question to crisis capability. It would remove the restricted bandage, photo-deletion demand, warm blanket, tentative swimming success, mint/ lemon tastes, birthday company, chocolate denial and conditional rest. Yet those scenes provide the clearest objects for her judgment and permission. They also prevent a professional abstraction from replacing the person who does the work. Mode qualification limits what each can establish; it does not make them dispensable. The whole selected family and every positive public route remain part of the evidence responsibility, including unresolved or narrowly represented contributions."
+    },
+    {
+      "frozen_line": 313,
+      "canonical_line": 325,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 314,
+      "canonical_line": 326,
+      "line_sha256": "b793adac3fdffa1cb4886d20c4fce7a9b92fd8216d1e2b55b0d33d06c8d4cda3",
+      "line_text": "## 11. Evidence route, residual limits and separate analytical duties"
+    },
+    {
+      "frozen_line": 315,
+      "canonical_line": 327,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 316,
+      "canonical_line": 328,
+      "line_sha256": "76014fd88c32ec95d6d1602da942d0c1ebe5b7ecab6766a7e1312c4e16006b2e",
+      "line_text": "### 11.1 What has actually been received"
+    },
+    {
+      "frozen_line": 317,
+      "canonical_line": 329,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 318,
+      "canonical_line": 330,
+      "line_sha256": "07c95181beff8bf37e569f92a08216736cac15eefb55724efb8e873d57f9abe1",
+      "line_text": "The attached exact receipt binds every small analytical input, each personally received whole or bounded scope, prior qualified own custody, the complete120-paragraph MAIN projection, the sixty additional complete public paragraphs, the exact selected twenty-three private source bindings and sixty-eight public source-unit bindings. Binding checks are not primary narrative reads. The two consequential fresh written checks concern gift810008:125 and EVENT860015. A separately read small `1900906301:character:20008` context was diagnostic foreign-key checking and supplies no Iori family credit. The actual Iori written source-form route was recovered from the admitted current crosswalk and added without changing frozen Gehenna material. Nine unbound large artifacts were never opened or hashed."
+    },
+    {
+      "frozen_line": 319,
+      "canonical_line": 331,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 320,
+      "canonical_line": 332,
+      "line_sha256": "185344f10cc0a7cd1cac5c97add566f9300a9585e75a88b459f2702ae9803cca",
+      "line_text": "Private antecedents retain their actual histories. The complete V3 reconciliation and V2 remainder supply the accepted twenty-three-object meaning; six inherited source-specific findings were personally received as analytical accounts. The V4 addendum applies the full private family to four MAIN comparisons, not to all private-MAIN chronology. G20 is the normal adopted home, rather than a newly asserted current slot inferred from an old producer creation label. Supplemental current normal owners similarly govern meaning; all earlier queue, intake and model frontier text is historical at its preserved creation boundary. These qualifications preserve credit without suppressing the actual accepted arguments."
+    },
+    {
+      "frozen_line": 321,
+      "canonical_line": 333,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 322,
+      "canonical_line": 334,
+      "line_sha256": "47a7ca8b43c8fa9b7d4ec8336e7eeed8f38470790b4b0a8768cc6a7055e550a2",
+      "line_text": "The positive public audit found twenty-seven MAIN units and forty-one supplemental units with forty-three literal Iori-bearing header routes. Four MAIN units have no Iori-containing analytical paragraph; their whole small contexts were then personally received rather than a character turn invented. The first broad discovery pass encountered sixteen derived MAIN reading-bundle copies and stopped on the496-versus480 assertion; the corrected canonical `EPISODE_*.md` scan contains exactly480 distinct admitted units. Derived copies add no source or narrative credit. Complete character-containing paragraphs are a declared analytical scope, not a claim that this writer reread every whole MAIN primary or every27 analytical owner through EOF."
+    },
+    {
+      "frozen_line": 323,
+      "canonical_line": 335,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 324,
+      "canonical_line": 336,
+      "line_sha256": "21f1f6901017d820b12d1ef1a0ec42ebd27303bdeff3508993c7205264ba3973",
+      "line_text": "### 11.2 Current analytical homes and routes"
+    },
+    {
+      "frozen_line": 325,
+      "canonical_line": 337,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 326,
+      "canonical_line": 338,
+      "line_sha256": "f81218aacf46f84400ca15847999e101136a8797fd025a86c64806fd4f3e9bbb",
+      "line_text": "The routes below are retrievable literary support. Exact bytes, SHA-256 and Git content blobs belong to the private receiving receipt; a content blob is a byte identity rather than evidence of a new Git operation. PRIMARY IDs route through the pinned source-class crosswalk. This bibliography intentionally names current small analytical owners, not unbound large global artifacts."
+    },
+    {
+      "frozen_line": 327,
+      "canonical_line": 339,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 328,
+      "canonical_line": 340,
+      "line_sha256": "d8f5dbe544ccd7da92b194d51ce646d7480de35f5b35498b3efcaa3d33fb3394",
+      "line_text": "| Current home | Actual use and retained boundary |"
+    },
+    {
+      "frozen_line": 329,
+      "canonical_line": 341,
+      "line_sha256": "4199ba454d6d3ae83657120c2bb6bd674eefc0dd7d3cd4cc844171dc6725135b",
+      "line_text": "|---|---|"
+    },
+    {
+      "frozen_line": 330,
+      "canonical_line": 342,
+      "line_sha256": "560dcdcb61d3b4627a5bb3c46de2cb31ba3e4e1366866f13a762ea9b1fc4080b",
+      "line_text": "| [Gehenna20 complete private account](../../02%20Sequential%20Readings/BOND/BLUE_ARCHIVE_GEHENNA20_PHASE2_PRIVATE_CONTEXTUAL_ACCOUNT_20261008.md) | All23 selected private meanings, complete effective V3/V2 and six inherited analytical findings; V4 MAIN comparison. Not23 new primary reads. |"
+    },
+    {
+      "frozen_line": 331,
+      "canonical_line": 343,
+      "line_sha256": "ad5b57d83d30c4e2b2374ba2e2941c642284546c4f1cd667d97b091a88f2abf3",
+      "line_text": "| [MAIN series2 / 002 / 001 / 001](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E001_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 332,
+      "canonical_line": 344,
+      "line_sha256": "e1168f6a76ce14e101b974d51855e565d120f658a94b088352c83902f49ba81f",
+      "line_text": "| [MAIN series2 / 002 / 001 / 002](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E002_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 333,
+      "canonical_line": 345,
+      "line_sha256": "2e9da2a7f1322f69f52702263ba6af294116607433aa6c3df1a6e84cc896ac72",
+      "line_text": "| [MAIN series2 / 002 / 001 / 011](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E011_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 334,
+      "canonical_line": 346,
+      "line_sha256": "2b8172734c0d48bdb638898ab6780664ec986f7f1eaa4d34efee984fc1d8dd91",
+      "line_text": "| [MAIN series2 / 002 / 001 / 016](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E016_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 335,
+      "canonical_line": 347,
+      "line_sha256": "daee89d223be365727eb0b4cb1b9f229a65e3043734a6b322949f91b0ea817de",
+      "line_text": "| [MAIN series2 / 002 / 001 / 017](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C001_E017_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 336,
+      "canonical_line": 348,
+      "line_sha256": "add462cec596d3f2c8bee7c933c6b9179ab11bc30aae8feb573b9b202efb5f53",
+      "line_text": "| [MAIN series2 / 002 / 002 / 001](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E001_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 337,
+      "canonical_line": 349,
+      "line_sha256": "7ae2e79ac0bfa6bbbc577a4f534a327afffda684bf51a7b9e707469c802ea106",
+      "line_text": "| [MAIN series2 / 002 / 002 / 010](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E010_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 338,
+      "canonical_line": 350,
+      "line_sha256": "de7f8c76e0b055147a9175864cc140663e834243671f719684476c85701d947a",
+      "line_text": "| [MAIN series2 / 002 / 002 / 012](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E012_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 339,
+      "canonical_line": 351,
+      "line_sha256": "02aaa1fa3ac772acc8316cd793d53a0d1c18fc0ae8f37378cea1a390f879cd17",
+      "line_text": "| [MAIN series2 / 002 / 002 / 014](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E014_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 340,
+      "canonical_line": 352,
+      "line_sha256": "9201a0dbeb6fc8fcac4e69f48da14d8e6d930d11c4f2f459b1e249b9d99eba2c",
+      "line_text": "| [MAIN series2 / 002 / 002 / 015](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E015_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 341,
+      "canonical_line": 353,
+      "line_sha256": "ba7ca2ed72ba72274bd03d9a724f5790c8441c806590e1bb3918d15885af995b",
+      "line_text": "| [MAIN series2 / 002 / 002 / 016](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E016_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 342,
+      "canonical_line": 354,
+      "line_sha256": "e827b3521608925777ac0d6e150fba016309aabefa2150e2d53d501e0473bc94",
+      "line_text": "| [MAIN series2 / 002 / 002 / 017](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E017_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 343,
+      "canonical_line": 355,
+      "line_sha256": "f4157c3eb7a86d17d5b62e8993ac6c2131adfc46ab03fbb8afcae89da427916e",
+      "line_text": "| [MAIN series2 / 002 / 002 / 018](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E018_DEEP_READING.md) | Whole small current analytical context; no invented distinct Iori paragraph; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 344,
+      "canonical_line": 356,
+      "line_sha256": "f4e94424496cb9f0732e289efad754df586bde82ee14e6f4d9fb018b67e50eb1",
+      "line_text": "| [MAIN series2 / 002 / 002 / 019](../../02%20Sequential%20Readings/MAIN/SERIES2_VOLUME_002/BLUE_ARCHIVE_MAIN_S2_V002_C002_E019_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 345,
+      "canonical_line": 357,
+      "line_sha256": "db5cea45be85db76d61818ba70ed24d8d43ac740d8517d3aedee2ca9959b4b0a",
+      "line_text": "| [MAIN 001 / 001 / 020](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C001_E020_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 346,
+      "canonical_line": 358,
+      "line_sha256": "c8ae132718e3f5303c188d9de431a75fee295157758cc5f78de72e0da5bc68f4",
+      "line_text": "| [MAIN 001 / 002 / 001](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_E001_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 347,
+      "canonical_line": 359,
+      "line_sha256": "aa329bfc0da84c2349a80e9a67561dfac56d1a08fa8a18908ab5448cf102dee1",
+      "line_text": "| [MAIN 001 / 002 / 002](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_E002_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 348,
+      "canonical_line": 360,
+      "line_sha256": "f9c214d0be3587a92ffa27fd6adae72553ead06a42f6b504a86535c1466cfaa1",
+      "line_text": "| [MAIN 001 / 002 / 006](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_E006_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 349,
+      "canonical_line": 361,
+      "line_sha256": "93665ed06389d388fd74a8b4315cf710216a1cdabf0ecc24602c188cbf82ddbd",
+      "line_text": "| [MAIN 001 / 002 / 017](../../02%20Sequential%20Readings/MAIN/VOLUME_001_%E5%AF%BE%E7%AD%96%E5%A7%94%E5%93%A1%E4%BC%9A%E7%B7%A8/BLUE_ARCHIVE_MAIN_V001_C002_E017_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 350,
+      "canonical_line": 362,
+      "line_sha256": "88bda56262b6676db0e8e7c4a063f706476f4cfe6ee7975881c3b7e8a21c19c3",
+      "line_text": "| [MAIN 003 / 003 / 018](../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E018_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 351,
+      "canonical_line": 363,
+      "line_sha256": "0b222cb1280d71180b0ac534ea810ad4aed0275e7284ec004ab9e0581a119492",
+      "line_text": "| [MAIN 003 / 003 / 019](../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E019_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 352,
+      "canonical_line": 364,
+      "line_sha256": "cbb06e28f11448ea8ba168065c43df6fe7233018d799876ebd54afdb28ca0cf5",
+      "line_text": "| [MAIN 003 / 003 / 020](../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E020_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 353,
+      "canonical_line": 365,
+      "line_sha256": "7e05adef61939f096d7b8aeab6c53a23e9beae574e457ba33ef69646cbe7f2b9",
+      "line_text": "| [MAIN 003 / 003 / 021](../../02%20Sequential%20Readings/MAIN/VOLUME_003_%E3%82%A8%E3%83%87%E3%83%B3%E6%9D%A1%E7%B4%84%E7%B7%A8/BLUE_ARCHIVE_MAIN_V003_C003_E021_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 354,
+      "canonical_line": 366,
+      "line_sha256": "a20fe58a82f2be5c2dc3b25ef1c6b65e4d59b2db3b4ae100e140942068879afd",
+      "line_text": "| [MAIN 100 / 002 / 002](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E002_DEEP_READING.md) | Whole small current analytical context; no invented distinct Iori paragraph; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 355,
+      "canonical_line": 367,
+      "line_sha256": "1b9d6001c291501bb477c4e3b2a5202d017c1d535c118905cc30bc7ce2982f34",
+      "line_text": "| [MAIN 100 / 002 / 011](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C002_E011_DEEP_READING.md) | Complete positive character paragraphs; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 356,
+      "canonical_line": 368,
+      "line_sha256": "cf55ca0520d2b11f46dba834d9e610a48d8270cd97c01630eeb73252b56d0449",
+      "line_text": "| [MAIN 100 / 003 / 016](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C003_E016_DEEP_READING.md) | Whole small current analytical context; no invented distinct Iori paragraph; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 357,
+      "canonical_line": 369,
+      "line_sha256": "6c5e690ee042f125af4a0177d146970a34779316920b686f7a913385f787b551",
+      "line_text": "| [MAIN 100 / 004 / 002](../../02%20Sequential%20Readings/MAIN/VOLUME_100_%E6%9C%80%E7%B5%82%E7%B7%A8/BLUE_ARCHIVE_MAIN_V100_C004_E002_DEEP_READING.md) | Whole small current analytical context; no invented distinct Iori paragraph; actor/report/order limits in §§2–9 and exact receipt. |"
+    },
+    {
+      "frozen_line": 358,
+      "canonical_line": 370,
+      "line_sha256": "2344a1ac43f8e0d066d8cfacab6d48febcb07ee2a91b1bed2bbd1cbff7363d6d",
+      "line_text": "| [EVENT 804](../../02%20Sequential%20Readings/EVENTS/EVENT_804/BLUE_ARCHIVE_EVENT_804_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 359,
+      "canonical_line": 371,
+      "line_sha256": "88dac3e14981aebc144e16d976727ed57219beaf69ce968bdc3a5f3ece528f0e",
+      "line_text": "| [EVENT 809](../../02%20Sequential%20Readings/EVENTS/EVENT_809/BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 360,
+      "canonical_line": 372,
+      "line_sha256": "3c007cf259114dafb62c2597f5780500daca2e1a512c297f92d356b00df0e91e",
+      "line_text": "| [EVENT 810](../../02%20Sequential%20Readings/EVENTS/EVENT_810/BLUE_ARCHIVE_EVENT_810_PHASE2_CONTEXTUAL_COMPARISON_20261008.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 361,
+      "canonical_line": 373,
+      "line_sha256": "b1a62fc5204773232ffa2069459ab0fc96bccb5a73e5df90277eae544d71a011",
+      "line_text": "| [EVENT 830](../../02%20Sequential%20Readings/EVENTS/EVENT_830/BLUE_ARCHIVE_EVENT_830_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 362,
+      "canonical_line": 374,
+      "line_sha256": "68a7465513258a39c37fd93b1502900fb50fdcbd8fea8744ac51e1044ec7891d",
+      "line_text": "| [EVENT 833](../../02%20Sequential%20Readings/EVENTS/EVENT_833/BLUE_ARCHIVE_EVENT_833_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 363,
+      "canonical_line": 375,
+      "line_sha256": "96703cc5790765e3ac4d6557353a6dd0509f1b00153f7b956bebaaaeb68664bb",
+      "line_text": "| [EVENT 835](../../02%20Sequential%20Readings/EVENTS/EVENT_835/BLUE_ARCHIVE_EVENT_835_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 364,
+      "canonical_line": 376,
+      "line_sha256": "7abc639b9ed27fa52fa2c08f89c298863207571446d97d6f183b93f400baaef5",
+      "line_text": "| [EVENT 844](../../02%20Sequential%20Readings/EVENTS/EVENT_844/BLUE_ARCHIVE_EVENT_844_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 365,
+      "canonical_line": 377,
+      "line_sha256": "094c66d438d0c89ff605cde0229cc61ed4abb0ad41ced18d992da0130982662c",
+      "line_text": "| [EVENT 846](../../02%20Sequential%20Readings/EVENTS/EVENT_846/BLUE_ARCHIVE_EVENT_846_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 366,
+      "canonical_line": 378,
+      "line_sha256": "666ac6a3a964a23b50db35f323d9ec0bec7d0033e4c57c318ac8771e1d5a578b",
+      "line_text": "| [EVENT 848](../../02%20Sequential%20Readings/EVENTS/EVENT_848/BLUE_ARCHIVE_EVENT_848_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 367,
+      "canonical_line": 379,
+      "line_sha256": "17e634d800d4806baff0c0e5de78ca4039b84e8d763912403d74483bff1608cc",
+      "line_text": "| [EVENT 860](../../02%20Sequential%20Readings/EVENTS/EVENT_860/BLUE_ARCHIVE_EVENT_860_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 368,
+      "canonical_line": 380,
+      "line_sha256": "d23ddf627f4131012bad14c6cc669ae5d060c61d83f9637227ab7140312579cb",
+      "line_text": "| [GROUP 1101 1104](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1101_1104_DEEP_READING.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 369,
+      "canonical_line": 381,
+      "line_sha256": "5af8d5c8b1daf5263b109c817820837764ea8615a1364b0e71fca7c935c58f81",
+      "line_text": "| [GROUP 1601 1602](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1601_1602_DEEP_READING.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 370,
+      "canonical_line": 382,
+      "line_sha256": "fba1dd586385c148b075cd95f66a480fce7f140afcedfcaed24c397803a6d259",
+      "line_text": "| [GROUP 1901 1902](../../02%20Sequential%20Readings/GROUP/BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 371,
+      "canonical_line": 383,
+      "line_sha256": "71d4d870e90fff9e2dc399f94bf8a1d0c314869421ad66b067cd7e4a3f2d002f",
+      "line_text": "| [MINI32 PHASE2](../../02%20Sequential%20Readings/MINI/BLUE_ARCHIVE_MINI32_PHASE2_CONTEXTUALIZATION_CHECKPOINT.md) | Current admitted normal meaning at precise receiving scope; positive headers retrieve rather than confer identity/consent/whole-primary credit. |"
+    },
+    {
+      "frozen_line": 372,
+      "canonical_line": 384,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 373,
+      "canonical_line": 385,
+      "line_sha256": "8fe25e8f8192a4afe5d97283501c4cb30795b0b6fb1b1c6dd42c0539ef5cfe3e",
+      "line_text": "### 11.3 All fourteen original gaps remain OPEN"
+    },
+    {
+      "frozen_line": 374,
+      "canonical_line": 386,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 375,
+      "canonical_line": 387,
+      "line_sha256": "db3a90b9ad2aba92a1f20e42bebc2908fb44a6334a4f3439dfc0e616f04a9b79",
+      "line_text": "These dispositions limit particular claims. They do not erase selected evidence, create a generic absence veto or excuse the required receiving of a consequential argument. The complete selected private family is adequate here; the unknowns concern what that family and these public sources do not establish."
+    },
+    {
+      "frozen_line": 376,
+      "canonical_line": 388,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 377,
+      "canonical_line": 389,
+      "line_sha256": "62e307235b1c792a86bf75dbbb395af95d227401da09a45bd3d0ed183e3645eb",
+      "line_text": "| Original gap | State | Consequence for this Iori argument |"
+    },
+    {
+      "frozen_line": 378,
+      "canonical_line": 390,
+      "line_sha256": "23cca02b74f386463efa24796c7a9011b0d2c93f0c38b4d15d5d276205b59b43",
+      "line_text": "|---|---|---|"
+    },
+    {
+      "frozen_line": 379,
+      "canonical_line": 391,
+      "line_sha256": "c93379710d513ce04b75788fb313b1f733d49c6ff62bc5716ca71b5701536b64",
+      "line_text": "| G01 — breadth of private/side repertoire | OPEN | All23 selected private objects and all positive public routes are retained. No global claim that they exhaust every future or unselected Iori experience. Sparse company, quiet wants and adverse endings stay eligible. |"
+    },
+    {
+      "frozen_line": 380,
+      "canonical_line": 392,
+      "line_sha256": "5e9e0df160c4bf2567fdf20ffff9daae55fbd41a7aa4b31e9b101c28d4995460",
+      "line_text": "| G02 — Yuuka/accounting comparison | OPEN | No fabricated Iori–Yuuka dyad or school-wide fiscal equivalence. G1902 supplies its actual budget dispute, not an audit of Yuuka or other administrations. |"
+    },
+    {
+      "frozen_line": 381,
+      "canonical_line": 393,
+      "line_sha256": "bae5bd53555bbe13f2d6802eab64f77768d8c2acb514d9d540c9a3ab96bd3fe1",
+      "line_text": "| G03 — Serika work and ordinary resources | OPEN | EVENT809's shared public scope does not give Iori ownership of Serika's pay, prayer, losses or labor repair. Each participant's wishes remain distinct. |"
+    },
+    {
+      "frozen_line": 382,
+      "canonical_line": 394,
+      "line_sha256": "73c19f54fad841d9144c3d60ad42087614d1b70972bc996ef187a22e1118775c",
+      "line_text": "| G04 — Hina crisis and accountability | OPEN | Earlier unauthorized force, later opposition, fatigue and promised amends are compared. No retrospective acquittal, completed restitution, safe training certification or exhaustive senior–junior repair. |"
+    },
+    {
+      "frozen_line": 383,
+      "canonical_line": 395,
+      "line_sha256": "594b98bc78ac16b7c09ae5ae4dcffe4d534d055ed8c76b925cbbf48398fa39b2",
+      "line_text": "| G05 — Arius/PS68 aftermath and repair | OPEN | Local reported PS68/hostage and lost-child settings do not settle those groups' full histories or legal outcomes. Iori's own limited public role cannot absorb their independent accounts. |"
+    },
+    {
+      "frozen_line": 384,
+      "canonical_line": 396,
+      "line_sha256": "d046fd4d267a413dfe452655194279447152a21ceb325df4f5b70dd02c1f8658",
+      "line_text": "| G06 — ordinary evidence across contexts | OPEN | Taste, warmth, skill, sleep, sunscreen, bodily comfort, quiet company and celebration remain intrinsic. No universal prevalence or hidden-motive claim from a repeated joke. |"
+    },
+    {
+      "frozen_line": 385,
+      "canonical_line": 397,
+      "line_sha256": "64a0215b38089575f622bb51ceb55f7781c96c7db5aa3c2f116136adbe7f4cf3",
+      "line_text": "| G07 — global chronology | OPEN | Public chapter progression and shown local message/BOND relations are usable. Variant, release, season, event-repeat and documentary order supply no universal private-to-MAIN calendar or growth cause. |"
+    },
+    {
+      "frozen_line": 386,
+      "canonical_line": 398,
+      "line_sha256": "a0887242eb74136a9761fac01495e010f211ec0b131743adcd6b6cf0773ac707",
+      "line_text": "| G08 — titles, copies and source naming | OPEN | Exactgift810008:125 differs from narrative810008. EVENT860 generic guide differs from later literal Iori. Event-costume1900901201:10023 differs from1900906301:20008. Repeated source-form records remain separately bound. |"
+    },
+    {
+      "frozen_line": 387,
+      "canonical_line": 399,
+      "line_sha256": "902a5a0cc257fd46f70b21f2505748ef44e29873b6b2eb783e9f74686e0487af",
+      "line_text": "| G09 — actor, audience and choices | OPEN | Existing text/display witnesses are used at their exact scopes; other alternating-label seams remain qualified. Inward thought, narration, reports, recap and choice paths are not silently converted into one public event. |"
+    },
+    {
+      "frozen_line": 388,
+      "canonical_line": 400,
+      "line_sha256": "48755cb7c41863f8038314202e8bae6156a25cd2437f92819112d0b17501a055",
+      "line_text": "| G10 — performed voice and audiovisual meaning | OPEN | No audio, animation or video received. Written performance recognition, video tokens, UI lines and voice/asset metadata retain textual limits; no heard tone, notes or gesture claimed. |"
+    },
+    {
+      "frozen_line": 389,
+      "canonical_line": 401,
+      "line_sha256": "51279ff12bc0a87c7c4378a251ef3a788a095a8adccea9ea93e4a7d50d42fd5b",
+      "line_text": "| G11 — Hoshino/Yume and office history | OPEN | A positive Final ensemble context or unrelated dream/nap cannot close these independent histories. No Iori claim supplies a missing record by analogy. |"
+    },
+    {
+      "frozen_line": 390,
+      "canonical_line": 402,
+      "line_sha256": "015175e1500a950972564d3437bfee97acce590c8685b75c8488feaec8248945",
+      "line_text": "| G12 — variant, system and ontology boundaries | OPEN | RawfamilyIori10006/10023 and source-form controllers remain distinct documentary fields. Moving food, uncertain source-local roles and broader systems are not promoted into people, causal diagnoses or global identity merges. |"
+    },
+    {
+      "frozen_line": 391,
+      "canonical_line": 403,
+      "line_sha256": "8d7f96fd3e90cfe1d54617ad889582af54f7ac10dbe1800b43be6f50a5b1cf21",
+      "line_text": "| G13 — legal, clinical and technical claims | OPEN | Official designation, actor reports, medical reassurance, shooting sounds, inspection marks and local recovery are retained at their actual grade. No warrant certification, chemical diagnosis, clinical clearance, unseen repair, technical immunity or complete compensation. |"
+    },
+    {
+      "frozen_line": 392,
+      "canonical_line": 404,
+      "line_sha256": "d7f4f5f270fb636d1f84b931ed2486576f444d7f383d65dc857331401ad004db",
+      "line_text": "| G14 — unclassified route and mode scope | OPEN | Unclassified or sparse routes are evaluated by actual source form and admitted boundaries, not automatic exclusion. This receiving gives no credit for unselected mini/media or a primary unit's narrative from a header scan alone. |"
+    },
+    {
+      "frozen_line": 393,
+      "canonical_line": 405,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 394,
+      "canonical_line": 406,
+      "line_sha256": "5b21e0843d69b0ca42b3af2899b1ebb8cd5a9233f6b9e4b66256f96000bf1ea3",
+      "line_text": "### 11.4 Responsibilities that remain separate"
+    },
+    {
+      "frozen_line": 395,
+      "canonical_line": 407,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 396,
+      "canonical_line": 408,
+      "line_sha256": "2d6cb3c7750507aa63c00aeea7756b09928f01a1331c8ee9588518ac14b24718",
+      "line_text": "The Iori–Sensei directed question must retain practical help, reciprocity, provocation, bodily conditions, privacy and unprinted repair for both participants. Iori–Hina and Iori–Ako/Chinatsu questions require the differentiated private/public burdens and the right to opposition. The Iori–Ichika/Kasumi public comparison must preserve leverage, report/recap boundaries, apology and still-unexecuted cooperation. These are responsibilities to route against the accepted full-cast partition, not new packages or completion counts decided by this draft."
+    },
+    {
+      "frozen_line": 397,
+      "canonical_line": 409,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 398,
+      "canonical_line": 410,
+      "line_sha256": "544cb925451306b195fc1ce7fd0dc07d0f68c2790081a3718ad29f0e294bd978",
+      "line_text": "The Prefect ensemble requires the mechanism of differentiated belonging and ordinary life: injury, work, fatigue, sensory celebration, conflicting advice, selective trust and a shared purpose that can require internal dissent. Its institution home separately requires authorization, recipients, custody, resources, delegation, coerced conformity and incomplete remedy. Food governance and School Lunch relations must receive Fuuka/Juri/Izumi and affected recipients' complete arguments. The Sensei and source/voice registers must retain branches, raw keys and audience distinctions. None is completed merely because this monograph mentions it."
+    },
+    {
+      "frozen_line": 399,
+      "canonical_line": 411,
+      "line_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "line_text": ""
+    },
+    {
+      "frozen_line": 400,
+      "canonical_line": 412,
+      "line_sha256": "5e9121240b6697c6dd8306020a9b24418a07b30c5e73555ee7176f079b5de108",
+      "line_text": "Iori is neither a total professional persona nor a bundle of rebutted reactions. Her best protective judgment becomes visible when an official boundary is examined for whom it serves; her ordinary life becomes visible when a benefit is examined for what permission it actually received. These are related literary questions with separate causal limits. The admitted sources sustain a capable, sometimes coercive, sometimes mistaken, sometimes fairly responsive person who wants useful work and also warmth, skill, sleep, privacy and company. Her objections can remain unfinished without making those wants negligible or every positive connection false."
+    }
+  ],
+  "exact_changed_saved_line_ranges": [
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        3,
+        3
+      ],
+      "canonical_lines": [
+        3,
+        2
+      ],
+      "frozen_text": [
+        "artifact_type: character_monograph"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "delete",
+      "frozen_lines": [
+        5,
+        5
+      ],
+      "canonical_lines": [
+        4,
+        3
+      ],
+      "frozen_text": [
+        "status: C_ONLY_CANDIDATE_PENDING_ROOT_RECEIVING"
+      ],
+      "canonical_text": []
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        16,
+        15
+      ],
+      "canonical_lines": [
+        14,
+        25
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "artifact_type: character_monograph",
+        "generation: V1",
+        "version: \"1.0\"",
+        "status: canonical",
+        "do_not_use_as_current_authority: false",
+        "canonical_home: series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_IORI_CHARACTER_MONOGRAPH.md",
+        "review_state: ROOT_ACCEPTED_WITH_LIMITS",
+        "ROOT_literary_acceptance: ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+        "ROOT_adoption: CANONICAL_DERIVATIVE_AFTER_ROOT_INSTALL",
+        "updated: 2026-10-10",
+        "supersedes: []",
+        "superseded_by: []"
+      ]
+    },
+    {
+      "operation": "insert",
+      "frozen_lines": [
+        19,
+        18
+      ],
+      "canonical_lines": [
+        29,
+        30
+      ],
+      "frozen_text": [],
+      "canonical_text": [
+        "",
+        "ROOT accepted the complete eleven-section literary argument **WITH LIMITS** on 2026-10-10. The [semantic acceptance audit](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_PHASE3_SEMANTIC_ACCEPTANCE_AUDIT.md), [exact receiving record](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IORI_MONOGRAPH_ROOT_RECEIVING_AND_ACCEPTANCE_V1.json) and [saved-paragraph transport](../../08%20Audits%20and%20Manifests/BLUE_ARCHIVE_IORI_MONOGRAPH_SAVED_OUTPUT_AND_TRANSPORT_RECEIPT_V1.json) govern this derivative. All fourteen gaps remain OPEN and claim-specific. Canonical persistence follows complete ROOT installation; source publication, main integration and other required packages remain separate. The adopted355-package/29-section scope is unchanged; no quarter, model or performed evidence is claimed."
+      ]
+    },
+    {
+      "operation": "replace",
+      "frozen_lines": [
+        24,
+        24
+      ],
+      "canonical_lines": [
+        36,
+        36
+      ],
+      "frozen_text": [
+        "Ordinary leisure, failed attempts, conditional UI wants, refusals, group reports, mediated music and sparse public contributions are eligible character evidence. Their force depends on what they show, not a danger or popularity threshold. All fourteen inherited gaps remain OPEN. Separate directed relationships, ensembles, institutions and source registers retain their own required responsibilities; this character comparison completes none of them by implication. ROOT alone decides acceptance and counting."
+      ],
+      "canonical_text": [
+        "Ordinary leisure, failed attempts, conditional UI wants, refusals, group reports, mediated music and sparse public contributions are eligible character evidence. Their force depends on what they show, not a danger or popularity threshold. All fourteen inherited gaps remain OPEN. Separate directed relationships, ensembles, institutions and source registers retain their own required responsibilities; this character comparison completes none of them by implication. ROOT independently received and accepted this complete character argument with limits; ROOT alone records canonical persistence and package counting."
+      ]
+    }
+  ],
+  "ROOT_installation_pending": true,
+  "remote_publication": "NOT_YET_PUBLISHED",
+  "main_integration": "NOT_YET_INTEGRATED",
+  "required_scope": {
+    "packages": 355,
+    "mandatory_named_sections": 29,
+    "thresholds": [
+      89,
+      178,
+      267,
+      355
+    ]
+  },
+  "all14_gaps": "OPEN_UNCHANGED",
+  "assembler_new_primary_performance_or_independent_literary_credit": 0,
+  "other_required_package_completion": false,
+  "current_source_EOF_locator_qualifications": [
+    {
+      "file": "BLUE_ARCHIVE_EVENT_809_PHASE2_CONTEXTUAL_COMPARISON_20261008.md",
+      "declared_projection_end": 126,
+      "actual_source_last_line": 125,
+      "text": "Exact actual finalLF preserved; terminal split delimiter is not another physical source line"
+    },
+    {
+      "file": "BLUE_ARCHIVE_GROUP_1901_1902_DEEP_READING.md",
+      "declared_projection_end": 155,
+      "actual_source_last_line": 154,
+      "text": "Exact actual finalLF preserved; terminal split delimiter is not another physical source line"
+    }
+  ]
+}

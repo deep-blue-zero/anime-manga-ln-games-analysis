@@ -1,0 +1,70 @@
+{
+  "schema": "KONOSUBA_MAIN_EXCLUDED_ACTUAL_NEW_READING_WITH_RETAINED_PRINCIPAL_RECEIPT_V1",
+  "source_id": "MAIN-01",
+  "accepted_utc": "2026-10-19T05:57:58.543749+00:00",
+  "native_filename": "Konosuba - Main Series - Volume 01.epub",
+  "native_bytes": 7058492,
+  "native_sha256": "7a80b4f6c6761176927539a6274892f187f1171e773a3295225a8ab5389747c6",
+  "OPF_member": "item/standard.opf",
+  "OPF_sha256": "9baf66f7525556ede2a82a215d5f96e485ac46af5537391804a523836e785811",
+  "language": [
+    "ja"
+  ],
+  "colophon_and_bibliographic_difference": "Supplied electronic2013-11-01;printbase2013-10-01;prior official electronic2013-10-25 record remains distinct/unexplained;Akatsuki/Mishima/KADOKAWA staff credits retained.",
+  "admission_sha256": "ed88a8772f199def91be2cfd72dfa6fe6aab395481be32f5dc7b823781de9423",
+  "preceding_full_gate_source": "06d75f592a6e88278b59067d88c4cc2f76884467",
+  "preceding_fresh_reload_sha256": "d1b32b40aaab7d4d83136556d7c296decdcd79eeb8853cd41bfdb63195c98b1e",
+  "excluded_uncoded_seal_sha256": "d4f555e7567490989ffcc203a2ca339bcc77500efbbf75b04475bce09268ec38",
+  "excluded_uncoded_seal_utc": "2026-10-19T05:41:10.176888+00:00",
+  "actual_new_reading": {
+    "text_resources": 21,
+    "P_slots": 152,
+    "native_images": 29,
+    "ruby_and_nonparagraph_residual_received": true,
+    "bonus_P": 56,
+    "nonfiction_P": 96
+  },
+  "retained_principal_authority": {
+    "members": 6,
+    "P_slots": 2878,
+    "new_principal_reading_credit": 0,
+    "exact_native_and_prior_acceptance_control_joins": true
+  },
+  "fresh_native_CRC": "PASS",
+  "all_native_text_image_hashes_reverified": true,
+  "original_uncoded_pins": [
+    {
+      "file": "NATIVE_ADMISSION.json",
+      "bytes": 38140,
+      "sha256": "ed88a8772f199def91be2cfd72dfa6fe6aab395481be32f5dc7b823781de9423"
+    },
+    {
+      "file": "ROOT_PRE_BODY_PREPARATION_SEAL.json",
+      "bytes": 181102,
+      "sha256": "3e0c319b6b181bbb21e0d2d4c616b6a401eb6400e09c793ac11949192c4b232c"
+    },
+    {
+      "file": "ACTUAL_SOURCE_FIRST_UNCODED_NOTES.jsonl",
+      "bytes": 22954,
+      "sha256": "8e1f5e8538ac530cd929b227740cea796f5973e89203edc5b52d4abe318933e3"
+    },
+    {
+      "file": "ACTUAL_IMAGE_VIEW_UNCODED_NOTES.jsonl",
+      "bytes": 26989,
+      "sha256": "da5265f763b6b0cda6e01a813bf14f6f6ed53313e193a79104ce7cf56b517e0b"
+    }
+  ],
+  "public_preparation_view_is_redacted": true,
+  "formal_counts": [
+    17,
+    22,
+    31,
+    11,
+    22
+  ],
+  "party_comparisons": 8,
+  "typed_constraints_not_behavioral_scores": 4,
+  "continuing_informed_root_exposure": "Continuing informed root AI after main17/fourholdouts/art-fan/Core/Advanced and accepted whole supplemental editions DUST-01,DUST-02,DUST-03,DUST-04,DUST-05,DUST-06,DUST-07,DUST-CONT,EXP-01,EXP-02,EXP-03,CONTEXP-01,CONTEXP-02,MASK,FD,YORI-01,YORI-02,YORI-03,YORI-04. Known Dust06/07 principal holdout outcomes and possible pretraining. No pristine blindness, independent reader, native-human or acoustic claim.",
+  "no_new_blind_independent_audio_or_full_principal_reread_claim": true,
+  "publication_state": "CONTAINING_EXACT_PUBLICATION_AND_FULL_GATE_PENDING"
+}

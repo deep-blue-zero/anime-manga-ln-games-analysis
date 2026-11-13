@@ -1,0 +1,76 @@
+{
+  "schema": "pactrih/frozen-import/v1",
+  "prepared_on": "2026-10-24",
+  "repository": "deep-blue-zero/anime-manga-ln-games-analysis",
+  "study_root": "studies/pactrih-ethical-topology",
+  "dataset_version": "v12",
+  "atlas_version": "v3",
+  "subject_count": 100,
+  "unit_counts": {
+    "Character": 85,
+    "Faction": 7,
+    "Historical Agent": 8
+  },
+  "columns": [
+    "Character",
+    "P",
+    "A",
+    "C",
+    "T",
+    "R",
+    "I",
+    "H",
+    "Type",
+    "Humane Regard",
+    "Moral Structure",
+    "Unit"
+  ],
+  "artifacts": {
+    "data/pactrih_scores.csv": {
+      "source_member": "sources/comparative_ethics_matrix_scatterplot_source_v12.csv",
+      "sha256": "4687d3484e6014debacb6d87a852698a2fd198be95e44a4684fc401fd1df4837",
+      "bytes": 12554,
+      "transformation": "Remove UTF-8 BOM; replace CRLF with LF; every other byte preserved. Reversible to the exact source hash.",
+      "source_bytes": 12658,
+      "source_sha256": "32d23e61134df1336af482e976e2006bb7a1321415b8b01cd13fdcf785d73f59"
+    },
+    "interactive/atlas.html": {
+      "source_member": "sources/PACTRIH_Interactive_Ethical_Atlas_v3.html",
+      "sha256": "e2c491c34ee6f47e2dd0bebfec5f21eef09baf38236c5aacb3645c7ca38429d6",
+      "bytes": 33741,
+      "transformation": "none; byte-for-byte import"
+    }
+  },
+  "embedding_sha256": "b12a776368d70b0052e7fd91ccc5e86f202cf1bc02c3931db8394b20e1e1094d",
+  "embedding_fingerprint_format": "SHA-256 of UTF-8 json.dumps(raw, ensure_ascii=False, separators=(',', ':'))",
+  "handoff": {
+    "archive_name": "PACTRIH_Codex_Git_Handoff_2026-10-24.zip",
+    "archive_sha256": "542203e5ad1b3b397419eb4cf5bdc32afe943625a000d05f4480be7caca19118",
+    "source_manifest_sha256": "1cba437a69e2e43d6e3d59c81bcc9bcce590a9899708632c2b306fd200aceb98",
+    "read_only_validator_sha256": "e71239c82e8a92e29d8db20c03c8d53e77242a44b29ab77ed9206896a9dc9f04",
+    "methodological_reference_sha256": "516a7f5370dd790df2768dbfdf2bbe5ca7cdb412e129eca73a15351c28cf69f4",
+    "methodological_reference_disposition": "background only; not imported or adopted as a current rubric"
+  },
+  "reproducibility": {
+    "mode": "FROZEN_VERIFIED_PROJECTION",
+    "canonical_numerical_source": "data/pactrih_scores.csv",
+    "ethics_map": "Humane Regard=(P+A)/2; Moral Structure=(C+T)/2",
+    "distance": "Euclidean over raw equal-weight unstandardized P,A,C,T,R,I,H; no axis inversion",
+    "ward_cluster_solutions": [
+      8,
+      10,
+      12
+    ],
+    "pca_coordinates_cluster_ids_priority_flags_and_ui": "preserved in full byte-pinned atlas",
+    "original_pca_ward_generator_and_dependency_versions": "not supplied; exact rebuild not established",
+    "future_update_guard": "validator rejects parity drift and any baseline hash change; no automatic repin or CSV-only atlas rebuild"
+  },
+  "validation": {
+    "supplied_read_only_validator": "PASS (100 rows, parity, formulas, PCA/cluster ranges, Node syntax)",
+    "study_validation": "PASS (100 subjects; all-field embedding parity; formulas; original CSV reconstruction; Git hashes; Node syntax)",
+    "mutation_tests": "PASS (11 tests)",
+    "offline_browser_smoke": "UNAVAILABLE: installed Edge and Chrome exited before page creation; bundled Playwright Chromium absent; no visual or browser-interaction pass claimed",
+    "python_version": "3.12.4",
+    "node_version": "v20.15.1"
+  }
+}

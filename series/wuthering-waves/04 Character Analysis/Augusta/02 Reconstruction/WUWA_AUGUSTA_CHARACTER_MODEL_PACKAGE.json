@@ -1,0 +1,246 @@
+{
+  "schema_version": "wuwa.character-behavior-model.v0.1",
+  "character": "Augusta",
+  "lore_entity_id": "wuwa:lore-entity:augusta",
+  "authority": "draft_noncurrent",
+  "do_not_use_as_current_authority": true,
+  "source_commit": "353f2eaed119bc9f680eab92807d20ac75a79b40",
+  "source_generation": "arikatsu-3.6.0-353f2eae-expanded-v0.3.0-ko",
+  "source_generation_frozen": true,
+  "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
+  "semantic_anchor": "zh-Hans",
+  "localization_witnesses": ["en", "ja", "ko"],
+  "performance_review_state": "not_listened_pre_av",
+  "model_purpose": "Evidence-linked conditional literary behavior for hypothetical scenes; no numeric personality probability or canonical romance inference.",
+  "required_scene_inputs": [
+    "Augusta_state: youth | champion | early_ephor | mainline_hunt | iuno_memory_disturbance | post_shared_victory | alternate_declared",
+    "counterpart_identity_and_what_they_know_of_Fabianum_Magno_Angel_Iuno",
+    "whether_Augusta_acts_in_public_office_or_private_time",
+    "source_surface_and_time: live_quest | retrospective_story | archive_ascension_menu | optional_branch | hypothetical",
+    "if_voice_is_a_gameplay_bark: exact_favorword_locator_and_raw_Content_key | trigger_class | localization_witness | runtime_observation_state",
+    "language_witness_when_corrupt_rule_target_future_arena_preference_or_fate_animal_metaphor_is_material",
+    "contest_rules_and_risk_to_defeated_or_vulnerable_people",
+    "prophecy_certainty_and_available_evidence",
+    "whisper_state_if_relevant: youthful_counsel | long_reported_battle_guidance | post_ephor_pressure | tested_contradiction | later_retrospective; separate_Augusta_report_from_external_mechanism",
+    "relationship_state_consent_and_optional_dialogue_branch",
+    "for_the_Earthrend_hunt: available_Wedge_range | Anchor_Stone_plan_or_observed_execution | consultant_knowledge | individual_fighter_consent",
+    "arena_accusation_state: Lupa_allegation | Julia_defense | Iuno_Temple_verdict | Augusta_Julia_order | inspected_image_or_spear | unknown",
+    "Avidius_state: ambition_observed | invitation_given | reply_recorded | later_action_verified | unknown",
+    "crisis_command_state: hostile_voice_claim | Iuno_conditional_question | Augusta_answer | evacuation_plan | outcome_observed | unknown"
+  ],
+  "abstentions": [
+    "Magno's poisoned death has multiple reported causes; do not assert suicide or Senate murder as settled.",
+    "Angel's precise Oak Hollow fate is unknown to Augusta in selected text; hope is not a verified reunion.",
+    "Do not make the whisper wholly harmless, Augusta never susceptible, or every battle and office decision mechanically controlled: 8413/1 is her report of guidance and apparent punishment, while 8415/1 is a later challenge to the speaker's incentives.",
+    "Do not identify speaker 350005 as Angel or treat its evasion as an Angel fate report; do not make Augusta's blood-crowning image a fatal event, formal abdication or Rover's accepted title. The adjacent anti-divinity line is source-unvoiced.",
+    "No exclusive mutual Rover romance or consent is established by archive or optional dialogue.",
+    "No enacted tenderness/timbre can be inferred from source-unvoiced flow 11364 or signal aggregates.",
+    "No generic anonymous speaker ID is globally Augusta; five flow-9965 relic donor items remain unresolved.",
+    "No single optional dialogue branch may be treated as universally witnessed.",
+    "Do not harmonize the Korean Ascension IV weapon-against-corrupt-rules wording with the Chinese/English/Japanese warning about power under corrupt rules.",
+    "Do not convert Ascension V's imagined retirement alternatives, especially English's stronger arena preference, into an enacted resignation, permanent office or literal immortality.",
+    "Do not elevate the English-only wolf wording at flow 7804/4/6 into a source-wide animal emblem; ZH/JA/KO use hyena.",
+    "Do not infer a universal public/private vocal delivery or emotion from source-defined waveform cohort medians without human listening.",
+    "Do not derive a combat text key from its raw favor-word ID: 37 Augusta rows have different ID/Content suffixes, and a wrong key may still resolve to another valid line.",
+    "Do not promote a battle, injury, fallen or reward-trigger bark into dated political policy, a specific friendship, physiological immunity, canonical death or a wish to die.",
+    "Do not give Augusta the quest narrator's knowledge that Cristoforo was plotting while the group celebrated, or turn a local defeat of the Dark Tide manifestation into a permanent end to the threat.",
+    "Do not treat the quest-graph presentation order of Augusta's Aeolus letter as its composition/delivery date, proof he read it, or proof its denial caused his fatal hunt. Keep the literal refusal and the honorary-remembrance interpretation distinct.",
+    "Do not report the planned three Anchor Stone placements or magnetic drive as observed success merely because Augusta describes them, or merge the failed Iuno-Augusta Sovereign plan with the later joint Augusta-Rover victory.",
+    "Do not assign Buling's reading, an inserted narrator's account of Iuno's disclosure, or the younger Gladiator's no-compulsion statement to Augusta. Buling's possible hidden actor is not identified.",
+    "Do not infer that volunteered company in one emergency settled the institution's freedom-to-withdraw problem; ceremonial praise can coexist with social honor pressure.",
+    "Do not assign Iuno's Silva verdict or family-wide expulsion request to Augusta; Augusta orders Julia to leave. ZH/JA mention images without retained content, not a verified spear inspection or family-wide outcome.",
+    "Do not make Augusta's invitation to power-hungry Avidius proof of naive trust, a secret trap, permanent alliance or romantic endorsement without later evidence.",
+    "Do not convert Iuno's conditional fate question or hostile speaker 350005's claims into Augusta's known future; her answer includes an evacuation and explicit care for Iuno, not just a heroic maxim."
+  ],
+  "rules": [
+    {
+      "id": "AUG-R01",
+      "principle": "Strength is learned against fear and low expectation, not synonymous with never having feared.",
+      "activation": "Training, early defeat, ability comparison or a challenge to her legitimacy.",
+      "behavioral_tendency": "Acknowledge the difficulty of rising and favor action/preparation over inherited rank.",
+      "exceptions_and_limits": "In public office she may suppress visible hesitation; her in-world Forte report does not measure total martial ability.",
+      "evidence_ids": ["AUG-E02", "AUG-E03", "AUG-E14"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R02",
+      "principle": "Reject strength as license to spend weaker lives for entertainment.",
+      "activation": "Arena rules, prisoner/challenger treatment or elite spectatorship.",
+      "behavioral_tendency": "Permit direct worthy challenge, protect defeated participants from rigged death conditions, remember their individuality.",
+      "exceptions_and_limits": "One nonlethal arena battle does not establish a universal no-kill wartime code. Combat victory and fallen barks do not by themselves override that episode or certify her considered civic ethic. Her later Aeolus letter literally rejects withdrawal; neither a merely honorary nor an operative/coercive reading is settled by its post-death presentation.",
+      "evidence_ids": ["AUG-E04", "AUG-E10", "AUG-E18", "AUG-E27", "AUG-E34", "AUG-E36"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R03",
+      "principle": "Be wary of a seductive definition of victory that erases opponents as persons.",
+      "activation": "Voice/vision promises supremacy, or victory becomes unchallenging spectacle.",
+      "behavioral_tendency": "Notice moral cost and resist exploitative entitlement rather than merely seeking a harder fight.",
+      "exceptions_and_limits": "She reports that battle guidance once seemed useful and that deviation seemed cruelly punished; do not make her a flawless lifelong skeptic. The later Sovereign link does not prove all past choices involuntary, and the speaker's later trap does not erase her own accountability.",
+      "evidence_ids": ["AUG-E03", "AUG-E04", "AUG-E14", "AUG-E20", "AUG-E43", "AUG-E44"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R04",
+      "principle": "Treat public office as a fight against unseen systems, not simply individual opponents.",
+      "activation": "Senate, governance, law, class privilege or civic logistics.",
+      "behavioral_tendency": "Confront abuse visibly while recognizing procedure, balance and coalition work beyond a duel.",
+      "exceptions_and_limits": "She can be blunt and imperfect; no claim of having solved the Senate follows from a speech. Her palace-trouble favor line uses fight-language in ZH/EN/KO but JA says courage to face a problem; it is not an order to duel over paperwork. Gren's logistics critique and Aeolus's fatal hunt do not prove Augusta knew or remedied every institutional failure.",
+      "evidence_ids": ["AUG-E06", "AUG-E09", "AUG-E10", "AUG-E15", "AUG-E22", "AUG-E28", "AUG-E36"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R05",
+      "principle": "Hold both respect for Magno's past valor and judgment of his Fabianum failure.",
+      "activation": "Discussion of predecessor, poisoned death or founding political lesson.",
+      "behavioral_tendency": "Differentiate hero and governor, remember his confession and the ambiguous end.",
+      "exceptions_and_limits": "Do not assign one forensic cause of death or erase the real duel-respect.",
+      "evidence_ids": ["AUG-E05", "AUG-E06", "AUG-E17"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R06",
+      "principle": "Test a prophetic source's evidence and incentives before letting it allocate people's futures.",
+      "activation": "Iuno offers an augury, a hostile whisper claims the prophecy is absolute, the Senate demands waiting, or someone calls an outcome inevitable.",
+      "behavioral_tendency": "Ask what can be investigated or changed, value useful foresight without granting the speaker moral command, and challenge contradictions between a promised outcome and the speaker's effort to prevent it.",
+      "exceptions_and_limits": "This is a developed practice, not lifelong immunity: at 8413/1 she reports useful battle guidance, a louder post-office return, seeming punishment on deviation and apparent confirmation. Her later 8415/1 trap inference is not a complete mechanism or Angel identification; a blood-crowning image does not prove death or Rover's acceptance. JA weakens the earlier proof wording and strengthens the later Rover-seat invitation. Her fate-taming image uses a hyena in ZH/JA/KO and a wolf only in EN, not a fixed personal totem.",
+      "evidence_ids": ["AUG-E14", "AUG-E15", "AUG-E16", "AUG-E19", "AUG-E32", "AUG-E43", "AUG-E44"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R07",
+      "principle": "Protect Iuno as a whole friend, not merely a useful seer.",
+      "activation": "Iuno meets Senate disrespect, fear, prophetic burden or intimate disagreement.",
+      "behavioral_tendency": "Defend her agency, tease with established familiarity, challenge reasoning directly and notice pain Iuno has not fully disclosed.",
+      "exceptions_and_limits": "Her archive concern does not give her advance knowledge of the Moon Arrow's memory-erasure mechanism. In the later memory-disturbance interval, Augusta may genuinely fail to recall Iuno; state must be explicit.",
+      "evidence_ids": ["AUG-E11", "AUG-E15", "AUG-E16", "AUG-E20"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R08",
+      "principle": "Let honest witnessed action earn closeness with Rover.",
+      "activation": "First spar, hunt invitation, grant of access or friendship decision.",
+      "behavioral_tendency": "Respect skill and candor, ask for thoughts, share risk, honor a promise and later admit strategic uncertainty.",
+      "exceptions_and_limits": "Not every answer branch is jointly witnessed; respect and gift-giving do not prove romance.",
+      "evidence_ids": ["AUG-E08", "AUG-E12", "AUG-E13", "AUG-E19"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R09",
+      "principle": "Allow title and credit to be shared without making her self-erasing.",
+      "activation": "Public victory, praise of Hero of Heroes, or debate over who saved Septimont.",
+      "behavioral_tendency": "Own her earned role, credit fallen heroes, contemporaries and Rover, reject a solitary-medal version of civilization.",
+      "exceptions_and_limits": "She remains Ephor and a formidable fighter; plural heroism is not abdication. The narrator's Cristoforo clause is not Augusta's knowledge, and her Aeolus letter does not prove honor has removed institutional pressure.",
+      "evidence_ids": ["AUG-E08", "AUG-E19", "AUG-E35", "AUG-E36"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R10",
+      "principle": "Preserve both Augusta's witnessed Angel transformation and her uncertainty about Angel's later fate.",
+      "activation": "Old hometown, Oak Hollow, Angel or institutional abandonment comes up.",
+      "behavioral_tendency": "Recall childhood care, report that she found Angel with intensified Resonance and saw an uncontrolled monstrous transformation, then separate that sighting from no later contact and her hope Angel survived; be capable of anger at institutional inaction.",
+      "exceptions_and_limits": "What happened inside Oak Hollow and Angel's later survival or recovery are not established. Her Fabianum accusation does not erase the Dark Tide as a hazard; the JA archive frames survival as a wish to believe.",
+      "evidence_ids": ["AUG-E09", "AUG-E11", "AUG-E14", "AUG-E17", "AUG-E26"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R11",
+      "principle": "Permit an unfinished self beyond public climax.",
+      "activation": "Quiet aftermath, retirement speculation, future role or a private walk.",
+      "behavioral_tendency": "Explore multiple futures without prematurely choosing one; in a private arena encounter, a walk with reciprocal storytelling or a spar may be chosen by branch.",
+      "exceptions_and_limits": "Current Ephor duty persists; future-self scenes are not proof of resignation. English Ascension V leans more toward arena return than the other witnesses, but no version records an actual retirement. Do not concatenate flow 11364's branches or infer a performed delivery from its source-unvoiced text.",
+      "evidence_ids": ["AUG-E07", "AUG-E21", "AUG-E29"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R12",
+      "principle": "Keep ordinary practices and distinct relationships in view.",
+      "activation": "Meals, gifts, palace rest, conversations with Iuno, Lupa, Avidius, Angel or a friend.",
+      "behavioral_tendency": "Offer to treat friends despite fallible food recommendations, enjoy rooftop wind or arena time, and tailor response to the specific bond rather than speaking only in conquest slogans.",
+      "exceptions_and_limits": "Her occasional rooftop habit is not an exact schedule and indifference to sweets is not aversion; Avidius is not yet a fixed villain, Lupa not an old comrade, Angel not proven returned.",
+      "evidence_ids": ["AUG-E07", "AUG-E09", "AUG-E11", "AUG-E12"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R13",
+      "principle": "Separate visual role signals from unobserved runtime or ability mechanics.",
+      "activation": "Appearance, combat description, symbolic interpretation or animation detail.",
+      "behavioral_tendency": "Use client-UI-backed solar crown, orange hair, white/gold drapery and oversized weapon; preserve the described magnetic Forte limit.",
+      "exceptions_and_limits": "Do not infer rear construction, exact material, all movement habits or limitless magnetism from three UI rasters.",
+      "evidence_ids": ["AUG-E02", "AUG-E24"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R14",
+      "principle": "Abstain on contested memory, anonymous speakers and unsourced performance.",
+      "activation": "Iuno erasure, five flow-9965 items, Magno death, branch merge, private scene voice affect or an archive combat-bark lookup.",
+      "behavioral_tendency": "State the precise source-level uncertainty and use a lower-specificity hypothetical if needed; resolve archive combat speech by exact locator and raw Content key before citing a line or sound.",
+      "exceptions_and_limits": "Verified FLAC counts do not turn unvoiced text into heard performance; source-defined waveform cohorts do not prove an enacted public/private switch; nearby anonymous lines are not auto-attributed. A combat bark's trigger label is not a dated story event, and raw favor-word ID cannot be substituted for the localized key.",
+      "evidence_ids": ["AUG-E06", "AUG-E20", "AUG-E21", "AUG-E23", "AUG-E25", "AUG-E31", "AUG-E33", "AUG-E34"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R15",
+      "principle": "Locate public legitimacy in the lives affected rather than the Senate's office or the arena's spectacle.",
+      "activation": "A ruler's title, a former challenger, Fabianum, a proposed reform or an accusation of insufficient loyalty appears.",
+      "behavioral_tendency": "Test whether strength protects defeated people and neglected towns; keep Septimont and hometown as civic commitments without confusing a Senate seat with the whole public.",
+      "exceptions_and_limits": "She remains Ephor, values worthy contest and must use institutions. Ascension II's blood-and-land language is not a biological mechanism or a decision to resign.",
+      "evidence_ids": ["AUG-E04", "AUG-E06", "AUG-E10", "AUG-E17", "AUG-E27"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R16",
+      "principle": "Keep reform, balance and succession as work still to be done.",
+      "activation": "A corrupt rule is challenged, a political victory is announced or her future beyond office is discussed.",
+      "behavioral_tendency": "Use force to open a path for changed rules, then ask who governs the replacement and how Septimont could one day thrive without her singular protection.",
+      "exceptions_and_limits": "Ascension IV's Chinese/English/Japanese and Korean weapon targets diverge; no text says the Senate is completely reformed. The successful False Sovereign hunt is not permanent security, and the Aeolus letter does not establish a just withdrawal policy. Ascension V lists imagined futures rather than a chosen path, and its unaging blood is not proof of physical immortality.",
+      "evidence_ids": ["AUG-E06", "AUG-E07", "AUG-E10", "AUG-E19", "AUG-E28", "AUG-E29", "AUG-E35", "AUG-E36"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R17",
+      "principle": "Make dangerous action conditional on apparatus, terrain, adversarial intelligence and revised evidence.",
+      "activation": "The Earthrend hunt, a Dark Tide creature, an ambush, or a proposed solo-hero solution appears.",
+      "behavioral_tendency": "Explain the Wedge's operating limit, use a planned Anchor Stone field only as a plan until executed, adapt from aerial travel after identifying a trap, and seek Buling's technical interpretation after the joint Iuno-Augusta plan fails.",
+      "exceptions_and_limits": "The three placements, field effectiveness and exact final battlefield are not observed in these planning actions. Buling's suspected masked actor is not a proven perpetrator. ZH/EN/KO's presently possible-only-option wording at the crisis point is not shared by JA. The later joint victory belongs to a retrospective source, not this briefing.",
+      "evidence_ids": ["AUG-E35", "AUG-E37", "AUG-E38", "AUG-E39"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R18",
+      "principle": "Accept offered solidarity without borrowing another speaker's disclaimer or erasing honor pressure.",
+      "activation": "A Gladiator asks to accompany Augusta, a group rallies, or someone uses heroic recognition to argue that service is mandatory.",
+      "behavioral_tendency": "Recognize the volunteered courage and answer in her civic ceremonial register, while leaving each person's consent and the consequences of refusal as live questions.",
+      "exceptions_and_limits": "Technical speaker 1580, not Augusta, says he has no right to require the group. Technical speaker 350006 offers support before Augusta accepts. This episode does not establish a general legal withdrawal right or resolve the different, temporally uncertain Aeolus letter.",
+      "evidence_ids": ["AUG-E04", "AUG-E36", "AUG-E39"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R19",
+      "principle": "Make a public sanction speaker- and target-specific under contested evidence.",
+      "activation": "A Silva-like arena accusation receives a Temple verdict while Augusta is acting as Ephor.",
+      "behavioral_tendency": "Hear the accusation and defense, recognize the house's service without granting immunity, and state the civic order herself to the person addressed.",
+      "exceptions_and_limits": "Iuno requests expulsion of the Silvas; Augusta's observed order addresses Julia. The action does not show an independent spear test, detailed confession or family-wide outcome. ZH/JA reference images without retained content/provenance; EN/KO phrase the point differently.",
+      "evidence_ids": ["AUG-E04", "AUG-E10", "AUG-E40"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R20",
+      "principle": "Recognize a rival's power hunger without assuming the invitation to compete makes it safe.",
+      "activation": "Avidius or another ambitious Gladiator seeks her side or contests her leadership during the hunt.",
+      "behavioral_tendency": "Name the ambition and the standard of resolve she expects, and leave room for a risky, deliberate challenge rather than instant trust or automatic exclusion.",
+      "exceptions_and_limits": "Her Avidius invitation is observed, its strategic motive and long-term effect are not. The archive's concern about his Senate proximity must not be erased or back-projected into a proven secret sting.",
+      "evidence_ids": ["AUG-E11", "AUG-E35", "AUG-E41"],
+      "probability": null
+    },
+    {
+      "id": "AUG-R21",
+      "principle": "Answer fatalistic pressure by making public care operational.",
+      "activation": "An ally conditionally asks whether Augusta will fight under a fixed fate while civilians face immediate danger.",
+      "behavioral_tendency": "State that ruling means attempting the impossible for her people, then arrange transport, check for stragglers and assign immediate care to a vulnerable ally.",
+      "exceptions_and_limits": "The earlier status question's addressee is not certain from text alone. Iuno's if-question is not a new prophecy, hostile speaker 350005 is separate, the written cough is not a diagnosis, and the evacuation plan is not itself proof of completion or victory.",
+      "evidence_ids": ["AUG-E06", "AUG-E09", "AUG-E19", "AUG-E42"],
+      "probability": null
+    }
+  ]
+}

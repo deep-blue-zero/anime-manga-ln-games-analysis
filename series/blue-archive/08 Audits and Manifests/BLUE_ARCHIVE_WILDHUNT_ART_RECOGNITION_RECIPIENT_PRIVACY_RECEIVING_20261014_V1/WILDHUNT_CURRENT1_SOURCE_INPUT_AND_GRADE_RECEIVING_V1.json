@@ -1,0 +1,419 @@
+{
+  "schema": "WILDHUNT_CURRENT_SOURCE1_AND_NEW105_INPUT_GRADE_RECEIVING_V1",
+  "author": "/root/receive_middle_remaining",
+  "existing_home": "P3-INST-WILDHUNT-ART-RECOGNITION-PRIVACY",
+  "existing_named_section": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+  "body": {
+    "repository_path": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+    "bytes": 45508,
+    "sha256": "c60796230fc5ace5117be4619cf917c467c79dce2cf55df0d4baf41e7845f233",
+    "git_blob_oid_of_actual_bytes": "41d0ca1f75ec8f1bf08c9f27716273e5e2bc668a"
+  },
+  "core_source_rows": [
+    {
+      "source_alias": "WH01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_849/BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+      "bytes": 35106,
+      "sha256": "ad78e22c8dc0e0ffd471e61c7afdfac235793b48d4e447e418c6d86f4405507f",
+      "git_blob_oid_of_actual_bytes": "2b693ccaeb424591554fb714a070a384de8b1802",
+      "physical_lines": 185,
+      "grade": "OWN_COMPLETE_CURRENT185_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT;NOT14CANONICAL_PRIMARY_NATIVE_RAW_AV",
+      "actual_tool_ranges": [
+        "eb3733 L1-65",
+        "cc329c L66-125",
+        "174106 L126-185"
+      ],
+      "ROOT_custody_snapshot": "c4ec02e79c31487314ad2d52b567e8746efda13d/treec415990a24625696159d440e23ee2b5147833320;fixed receiving basis,not futurehead/runtime"
+    }
+  ],
+  "complete_initial_receiving_receipt_path_only_derivative": {
+    "schema": "WILDHUNT_OWN_COMPLETE185_CURRENT_SOURCE_AND_ALL27_PRE_DRAFT_INSTITUTION_RECIPIENT_QUESTION_RESULTS_V1",
+    "author": "/root/receive_middle_remaining",
+    "existing_home": "P3-INST-WILDHUNT-ART-RECOGNITION-PRIVACY",
+    "existing_named_section": "P3-SECTION-ERI-RENA-RECIPIENT-BOUNDARIES",
+    "future_primary_bound_by_ROOT": "series/blue-archive/04 Specialist Synthesis/Institutional Syntheses/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_AND_RECIPIENT_PRIVACY_INSTITUTIONAL_SYNTHESIS.md",
+    "current_source_carrier": {
+      "alias": "WH01",
+      "repository_path": "series/blue-archive/02 Sequential Readings/EVENTS/EVENT_849/BLUE_ARCHIVE_EVENT_849_CONTEXTUALIZATION_CHECKPOINT.md",
+      "private_copy": "EVIDENCE_ID::WILDHUNT_CORE_WH01_EXACT_WRITTEN_COPY",
+      "bytes": 35106,
+      "sha256": "ad78e22c8dc0e0ffd471e61c7afdfac235793b48d4e447e418c6d86f4405507f",
+      "git_blob_oid_of_actual_bytes": "2b693ccaeb424591554fb714a070a384de8b1802",
+      "physical_lines": 185
+    },
+    "ROOT_current_tracked_custody": {
+      "HEAD": "c4ec02e79c31487314ad2d52b567e8746efda13d",
+      "tree": "c415990a24625696159d440e23ee2b5147833320",
+      "worktree_index_HEAD_same": "ROOT_ATTRIBUTED_EXACT_CUSTODY_ONLY",
+      "manifest": {
+        "bytes": 2466,
+        "sha256": "f16c8f69b9f71f9dd5a1c86b38abdb851fee75e6cea327c539c75cdfb9b331e2",
+        "git_blob_oid_of_actual_bytes": "3dc4a8d88ab38e00a260802cae2c9b41575c1bad"
+      }
+    },
+    "actual_whole_current_maintained_source_receiving": [
+      {
+        "tool": "eb3733",
+        "lines": [
+          1,
+          65
+        ]
+      },
+      {
+        "tool": "cc329c",
+        "lines": [
+          66,
+          125
+        ]
+      },
+      {
+        "tool": "174106",
+        "lines": [
+          126,
+          185
+        ]
+      }
+    ],
+    "operative_source_status": "WH01 L35-37 Cycle008 current contextual adoption WITH_LIMITS supersedes retained old creation-stage UNADMITTED/intake/ledger statements atL42/73/177. No new source admission by this author and no duplicate14 primary credit.",
+    "original_producer_scope": "WH01L71 names producer/ROOT fourteen canonical objects and receipts; all fourteen originals/native/AV/projection/voice scopes remain attributed. Reading this one maintained carrier is not personally receiving those raw/canonical objects.",
+    "prior_O093_common_report_grade": "Adequate own original report meaning reused for plan/comparative purposes; underlying26whole79selected/ROOT adoption remain attributed. This fresh whole185 analytical carrier reading is separately disclosed, not a new105 normal pass.",
+    "complete27_pre_draft_question_results": [
+      {
+        "question_id": "WI01",
+        "complete_pre_draft_target_question": "What do the printed school/club positions, Rule13 and secret666 claim to authorize, and which particular admissions, room arrangements or restricted-access decisions are actually made? Distinguish literal rule recital, guard/executive role and art-program authority from institution-wide law, title authentication or a genuine secret-governance mechanism.",
+        "own_actual_connected_source_result": "Tsumugi reports no official clubs and describes department-led art, permitted outside activity and informal groups. Rena reports Council-imposed roommates/no ordinary change route; Rule13 is contradictory performed text, while secret666 later receives a guard-line explanation.",
+        "own_contrary_and_claim_limit": "No inspected rulebook, institution-wide legal power or unified occult law follows.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L81,91-93,115,131; BA:event:849:002:u0039-0050/005:u0015-0023/006:u0009-0052/010:u0045.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI02",
+        "complete_pre_draft_target_question": "Who can arrange rooms, initiate rituals, permit absence, contribute bell work, protect a canvas, stage illumination and detain participants? Track each helper, maker, recipient and guard separately. Practical accomplishment can make wanted art possible without making compelled initiation or lost sleep legitimate.",
+        "own_actual_connected_source_result": "Inspection permits Teacher entry; peers initiate/tour/clean and later work lights; Rena's refusal is respected; guard detention and particular release are actual actions. These are differently directed capacities.",
+        "own_contrary_and_claim_limit": "Useful coordination is not general permission or proportional force; official position first fails to exempt Teacher, then a particular reputation-based release occurs.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L87,119-123,131-139,149-159.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI03",
+        "complete_pre_draft_target_question": "How do Eri's confidence, recipients' liking, actual performance and collective illumination make art worth recognizing, while mediated Manami praise has a different provenance from an onsite chair's approval? Is artistic reception being used to justify access, obedience or governance beyond what the recipient accepted?",
+        "own_actual_connected_source_result": "Eri's confidence and collective light reception are positive. Milia relays Manami's institutional praise naming the chair, while guards also recognize beauty.",
+        "own_contrary_and_claim_limit": "The chair is not thereby physically onsite; praise does not cancel rules or construct the proposed viewpoint/exhibit/visit.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L157-169; BA:event:849:013:u0034-0074.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI04",
+        "complete_pre_draft_target_question": "Who controls old canvases, privacy covers, rooms, materials, lights, bell contributions and collection/viewpoint access? Separate receiving, borrowing, moving, covering and any local restoration. Ask whose time and work pay for useful art, without inventing purchases, wage outcomes, ownership transfer or restored rights.",
+        "own_actual_connected_source_result": "Covered old canvases are present and privacy is actively protected; Eri reports room restored after shared cleanup. Miyo accepts supply request with advance-payment promise; actual LEDs/tape later exist.",
+        "own_contrary_and_claim_limit": "No inspected old art, all-damages settlement, amount paid, delivery mechanics, actual museum entry or transfer of ownership follows.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L133,137,141,145-153,169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI05",
+        "complete_pre_draft_target_question": "What force, explosion, guard response, confinement or threatened incapacitation occurs, and who bears risk or workload? Preserve the represented admission or explanation that claimed paralysis is just lights, without dismissing explosion/lost sleep/detention or authenticating a magical causal mechanism.",
+        "own_actual_connected_source_result": "Art disagreement turns physical; pressured room experiment explodes; Guard restrains all and detention occurs. Later alleged paralysis is admitted play with lights, while crows frighten guards and sleep/work costs remain.",
+        "own_contrary_and_claim_limit": "No clinical injury, present safety, supernatural incapacitation or complete compensation is established.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L87,119-123,153-157,165.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI06",
+        "complete_pre_draft_target_question": "Which disagreements among art participants, classmates, visitors, guards or executive roles actually appear? Treat unequal wants and refusals as institutional differences without inventing organized factions. Compare Eri's anxious creative aim, Rena's objections, Kanoe's particular liking/privacy action and Tsumugi's chosen contribution.",
+        "own_actual_connected_source_result": "Art participants disagree about traditions, legends, danger, belief and wishes. Guard/executive responses add a different role; Tsumugi's multi-school band is not an official Wild Hunt club.",
+        "own_contrary_and_claim_limit": "Do not invent formal factions, a school personality or a global identity joining local guard/thief roles.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L79-95,101-115,127-131,149,165-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI07",
+        "complete_pre_draft_target_question": "How do compulsory initial room/ritual arrangements differ from later participation that has a respected refusal and a new choice? What happens when a ritual or wish vocabulary is used to request belonging, explain lights or demand access? Ordinary shared performance remains valuable without confirming summoning, divination or fulfilled wishes.",
+        "own_actual_connected_source_result": "Initial compulsory room and pressured ritual coexist with a later acknowledged refusal/off-ramp and Rena's independent bell act. Severe lyric/magic language is contextual performance.",
+        "own_contrary_and_claim_limit": "Later chosen work neither retroactively licenses initial pressure nor validates summoning, divination, mana drain or all wish fulfillment.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L89-95,115-129,139-157,165-167.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI08",
+        "complete_pre_draft_target_question": "How can Eri's wanted painting/confidence, Tsumugi's company and Kanoe's liking count as belonging before prestige, perfect craft or a finished dream? What do imposed roommates and accepted absence show about whether membership requires participation in every activity?",
+        "own_actual_connected_source_result": "Eri wants painting/recognition and struggles beside peers; Tsumugi wants company, Kanoe likes the activity without a special reason, Rena wants fashion success and calm life. They can belong while differing.",
+        "own_contrary_and_claim_limit": "No full private history, reciprocal romance, effortless choice in imposed rooms or permanent cure follows.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L79-83,91-103,127-133,149-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI09",
+        "complete_pre_draft_target_question": "Which objections are heard, which refusals respected and which conflicts remain after actual artwork? Trace Rena's refusal, later chosen bell help, disagreements over fulfilled wishes/further irregular access and renewed detention. A local accommodation is evidence without proving formal appeal rights or durable institutional repair.",
+        "own_actual_connected_source_result": "Teacher stops pressing Eri's question boundary. Cleanup, cautioned release and respected refusal are actual accommodations; disagreement and second detention remain.",
+        "own_contrary_and_claim_limit": "These local responses do not prove a formal appeal process, general immunity or comprehensive reform.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L103,131-139,149,165-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI10",
+        "complete_pre_draft_target_question": "What help, mediation, recognition or interpretation does the adult provide, and what can recipients decline? Distinguish participant support, relayed praise, explanation and outsider institutional authority. The adult's presence cannot settle each peer's information, consent or actual belief.",
+        "own_actual_connected_source_result": "Teacher attends performance/tour, respects an inquiry limit, encourages and cleans, agrees to bounded help, but fails prevention, participates in secrecy/evasion and faces Rena's responsibility claim.",
+        "own_contrary_and_claim_limit": "Adult support is not universal information, authority, permission or reciprocal romance; inward/choice mode stays explicit.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L79-83,95-105,119-145,153-169,183.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI11",
+        "complete_pre_draft_target_question": "What external mediated Manami recognition or other actual visitor relation is evidenced, and what remains a wanted later collection/viewpoint visit? Distinguish cross-school contact and art reception from onsite attendance, authority, partnership or a globally ordered event chronology.",
+        "own_actual_connected_source_result": "The band spans schools; Trinity statue provenance and other anomaly stories are reported local comparisons; Manami's named recognition is mediated.",
+        "own_contrary_and_claim_limit": "No direct onsite chair, new MAIN arc, absolute event chronology or exact shared supernatural cause is established.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L81,95-105,159,175.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI12",
+        "complete_pre_draft_target_question": "How does Rena's dangerous-operation refusal receive a response, and why must that response remain distinct from her later bell work? Can Eri's confidence and Kanoe's liking coexist with Rena's continued criticism, initial pressure and later detention? Dissent need not be cured for ordinary cooperation to matter.",
+        "own_actual_connected_source_result": "Rena objects to initial rituals and conditions pressured agreement, later actually withdraws from one dangerous operation; peers acknowledge her difference. Later bell assistance is her new action, with further objections afterwards.",
+        "own_contrary_and_claim_limit": "No conversion, universal assent, fulfilled wish for every recipient or erased earlier pressure follows.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L93,105,113-123,139-149,155,165-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI13",
+        "complete_pre_draft_target_question": "What do old canvases, protected privacy, local restoration and promised future access carry about who may remember, display or interpret art? Distinguish an object-based memory, a covered surface and a future wish from an authenticated school history or complete recovery of prior records.",
+        "own_actual_connected_source_result": "Old canvases kept to reflect on Eri's path are concealed from inspection and covered at Kanoe's request. Eri's explanation of art/history and founding map result is attributed.",
+        "own_contrary_and_claim_limit": "Do not authenticate every old work, historical dataset or recovered institutional record; narrator-observed statue movement does not fix its cause.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L99-111,137-141,159-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI14",
+        "complete_pre_draft_target_question": "When risky ritual, explosion, irregular access or guard intervention disrupt making, whose priorities and labor become visible? Contrast initial pressure, actual refusal, useful collective response and renewed detention rather than defining every participant through the disruptive moment.",
+        "own_actual_connected_source_result": "Risk exposes pressure, adult prevention limits and unequal guard work. Supplies switch from explosive painting materials to lights; local safety statement does not authorize the operation.",
+        "own_contrary_and_claim_limit": "Successful illumination and a particular release do not exonerate forbidden entry/bell work or end detention.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L119-123,131-153,155-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WI15",
+        "complete_pre_draft_target_question": "Does an art/performance institution enable confidence, company, liking and collaboration while also allocating rooms, enforcing access, consuming guard work and sustaining disciplinary costs? Explain both functions without treating the successful lights as universal liberation or coercion as proof the art was valueless.",
+        "own_actual_connected_source_result": "An art school allows actual performance, company, tastes and confidence while enforcing entry checks, assigned rooms and detention. Unofficial group activity and recognized light craft create real institutional function without full freedom.",
+        "own_contrary_and_claim_limit": "Do not choose between art-value denial and coercion denial; recognition, legality, privacy and realized future access remain separate.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L79-95,127-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR01",
+        "complete_pre_draft_target_question": "Locate the first actual Eri/Rena-directed request, coexistence or recipient comparison. If the maintained passage is ensemble rather than dyadic, state that mode rather than inventing a private encounter.",
+        "own_actual_connected_source_result": "The tour/introductions are actually ensemble-mediated, with Eri painting and Rena fashion identified; the later explicit credit to Rena belongs to group aftermath.",
+        "own_contrary_and_claim_limit": "No private Eri/Rena origin scene or separate dyadic lifecycle invented.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L91-103,165-167.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR02",
+        "complete_pre_draft_target_question": "Compare who wants creative encouragement with who can demand participation or decline danger; imposed roommate/ritual arrangements must retain actor and recipient direction.",
+        "own_actual_connected_source_result": "Eri seeks creative confidence and wants group action; Rena reports imposed living arrangements, wants calm and can be pressured into conditional assent.",
+        "own_contrary_and_claim_limit": "Eri's self-declared chair is not a separately authenticated authority over Rena's body/property or free participation.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L91-103,113-123,127-131.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR03",
+        "complete_pre_draft_target_question": "Track requested company, encouragement, doubt, objection and useful contribution as distinct forms of contact. Liking needs no special reason and does not settle every demand.",
+        "own_actual_connected_source_result": "Repeated ritual/interpretation, objection, encouragement and particular liking form group grammar. Rena can enjoy company without believing the occult and can monitor without assisting.",
+        "own_contrary_and_claim_limit": "Co-presence is not direct private intimacy, hidden agreement or every act approved.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L105-139,149,165-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR04",
+        "complete_pre_draft_target_question": "Follow Eri's creative confidence and Rena's objections to danger or irregular access without turning either into one adjective or a school-wide faction.",
+        "own_actual_connected_source_result": "Eri's dreams meet Rena's reason demands and danger objections. Both have distinct creative aspirations; group interpretations and art reception differ.",
+        "own_contrary_and_claim_limit": "Rena need not be converted for useful collaboration, nor Eri diagnosed or ranked as a total failure.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L99-105,127-139,149-167.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR05",
+        "complete_pre_draft_target_question": "Identify actual support to a maker and actual protection of a recipient's refusal. Separate Kanoe's canvas cover and Tsumugi's company from acts demonstrably directed Eri↔Rena.",
+        "own_actual_connected_source_result": "Kanoe protects Eri's canvas privacy; Teacher respects Eri's questioning boundary; peers respect Rena's refusal; Rena offers some cleanup and later bell help.",
+        "own_contrary_and_claim_limit": "These directed acts have different helpers/recipients; do not rename them all an Eri-to-Rena private care exchange.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L103,133-149,155,167.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR06",
+        "complete_pre_draft_target_question": "Ask what each party is told about rituals, danger, lights and later help. Performed cooperation cannot prove both possessed the same information or accepted the same explanation.",
+        "own_actual_connected_source_result": "The adult lacks Kanoe's supply-route knowledge before returning to Schale; Rena attends information visit to monitor; covert unnotified operation and actor drifts remain.",
+        "own_contrary_and_claim_limit": "Group participation does not prove common knowledge, informed permission or all explanations accepted.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L139-153,183.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR07",
+        "complete_pre_draft_target_question": "Distinguish claimed institutional rule, peer disagreement and aesthetic recognition. No formal hierarchy or competitive rank is inferred from an anxious maker and a skeptical recipient.",
+        "own_actual_connected_source_result": "Self-declared occult chairs coexist with junior/senior and Guard/Council roles; actual artistry earns named mediated praise.",
+        "own_contrary_and_claim_limit": "No formal private hierarchy, mandatory belief, universal ranking or role-based global identity authentication follows.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L91-93,115,131,159-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR08",
+        "complete_pre_draft_target_question": "Preserve pressured initial participation, explosion or confinement only for actual involved actors; do not assign every group cost to a private dyad.",
+        "own_actual_connected_source_result": "Conditional pressured first experiment, actual explosion and restraint rupture an uncomplicated-company reading; Rena blames failed adult prevention and offers some help.",
+        "own_contrary_and_claim_limit": "No invented Eri/Rena one-on-one rupture or uniform recipient harm beyond actual scope.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L119-133.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR09",
+        "complete_pre_draft_target_question": "Make respected refusal and later independently chosen bell work a full argument. Later help can redefine one interaction while leaving first pressure and further objections unresolved.",
+        "own_actual_connected_source_result": "Respected withdrawal and later independent bell work revise the uniformly coercive account. Eri credits Rena, while the second detention and continued disputes remain.",
+        "own_contrary_and_claim_limit": "Positive redefinition is local, not retroactive authorization, permanent reform or total wish fulfillment.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L149-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR10",
+        "complete_pre_draft_target_question": "Treat painting interest, confidence, company, particular liking, performance and café reunion as ends in their own right; neither detention nor unfinished future access invalidates them.",
+        "own_actual_connected_source_result": "Painting confidence, wanted fashion excellence, company, liking, written performance/cafe and new melody intention retain intrinsic ordinary value.",
+        "own_contrary_and_claim_limit": "Cake remains wanted, tea party/viewpoint/private museum entry remain future; no fabricated consumption or erased calm preference.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L79-83,99-103,127-131,157-169.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR11",
+        "complete_pre_draft_target_question": "Require the maintained exact attribution and address/choice context before any change-in-intimacy claim. Report summaries support questions, not unreceived Japanese lexical conclusions.",
+        "own_actual_connected_source_result": "Maintained account preserves self-introductions/master metaphor, magic-circle/magic-square word distinction, inward/choice/log modes and exact actor drift.",
+        "own_contrary_and_claim_limit": "No heard prosody, native rereading, address-change intimacy or silent canonical-label rewrite.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L73,89-95,129,141,159,183.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      },
+      {
+        "question_id": "WR12",
+        "complete_pre_draft_target_question": "Trace any actual help or relayed recognition without authenticating onsite Manami authority or displacing recipients' ability to refuse; mediated praise and independent peer responses retain separate modes.",
+        "own_actual_connected_source_result": "Teacher provides encouragement/help and choices; relayed Manami praise recognizes collective light craft; Rena separately demands prevention and declines danger.",
+        "own_contrary_and_claim_limit": "Adult/chair mediation does not replace peer choice, make every inward line spoken, confer general immunity or join unknown roles.",
+        "exact_maintained_source_and_producer_locator_refs": "WH01:L95-103,129-149,159-169,183.",
+        "grade": "OWN_COMPLETE_185_LINE_CURRENT_MAINTAINED_WRITTEN_ANALYTICAL_ARGUMENT_AND_CONTEXTUAL_QUALIFIER;ORIGINAL14_CANONICAL_NATIVE_PERFORMED_SCOPE_ATTRIBUTED_ONLY",
+        "prose_stage": "RESULT_SAVED_BEFORE_ANY_BODY_DRAFT"
+      }
+    ],
+    "current_encoding_successor": {
+      "relative_path": "EVIDENCE_ID::WILDHUNT_PLAN14_ENCODING_ONLY_RAW_SUCCESSOR",
+      "bytes": 49518,
+      "sha256": "ea9922dd473bb653acd96188044b41643afc278018a4ced55b72286c01b929fe",
+      "git_blob_oid_of_actual_bytes": "61047b685fc6af3e054b0f45d1cce4196e15834e",
+      "role": "14 known character-only corrections/full raw inverse; originalplanV2 preserved."
+    },
+    "actor_mode_and_mechanism_boundaries": "All stable episode/unit references are inherited from this maintained analytical carrier, not newly verified canonical/raw source. Preserve recorded inward/choice/log/report modes and L183 drift; source-local contextual reading disclosed, no silent speaker/person repairs. Moving statue is represented movement with unresolved cause; initial prank is admitted, later voice unresolved; lights are actual, not magic proof. Local Milia Guard/thief declaration is no Akira/global persona join.",
+    "ordinary_goods": "Wanted art/confidence/fashion/liking/company/rest/privacy/cafe/performance remain meaningful independent of high stakes. Desired cake, future tea/viewpoint/collection visit remain unperformed when the maintained account says so.",
+    "no_body_written_at_this_receipt": true,
+    "all14_original_gaps": "OPEN",
+    "models": 0,
+    "new_105_purposes": "NOT_STARTED;WAIT_BODY_DISTINCT_REVIEW",
+    "R_Git_provider_sharedmetadata_source_admission_canonical_model_mutations": 0,
+    "ROOT_package_adoption_or_count_credit": "NONE"
+  },
+  "original_source_receipt_witness": {
+    "evidence_id": "WILDHUNT_ORIGINAL27_PREPROSE_32628_RECEIPT",
+    "bytes": 32628,
+    "sha256": "052d092e10d2fcf8b86964fa45ba725b4fcafcc8999fdeff9903cf7ac0e4e2e2",
+    "role": "Complete private raw beforeimage and exact two delivery-value inverse retained; original no-body-yet statement is dated preprose history."
+  },
+  "current105_purpose_parts": [
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP000_WHCP035_V1.json",
+      "bytes": 406465,
+      "sha256": "d68a50392dc5996933bbf435580b5abe190068dbe4b774792098e0fbc5d53135",
+      "git_blob_oid_of_actual_bytes": "48dfc1a7bee7022665ecdd967224011b19a38e04"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP036_WHCP070_V1.json",
+      "bytes": 541960,
+      "sha256": "b51f097b568a896cee53c12602168d3a8b6d600f61a5129518218dac89e70b83",
+      "git_blob_oid_of_actual_bytes": "187fcb5a281d9e9a2d6571cbd7f260925aeb250f"
+    },
+    {
+      "repository_path": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_NEW_PURPOSE_JUDGMENTS_WHCP071_WHCP104_V1.json",
+      "bytes": 701989,
+      "sha256": "c8646e0ea3e5f4cf4012aa0116ffeaa1f10b87bbb0539c8d29a39dc34702b9b1",
+      "git_blob_oid_of_actual_bytes": "61bf6f3d361118fad1fe1fc2a5f2bf6a3275c5f4"
+    }
+  ],
+  "prior_original105_actual_report_meaning_receiving": [
+    "367ffb O000-017",
+    "c9ad51 O018-035",
+    "c92742 O036-037",
+    "3241fb O038-054",
+    "febc20 O055-070",
+    "8792b8 O071-087",
+    "1771f9 O088-104",
+    "later Art current105 adequate report context received8de195/3a6280/49dc26/49cf58/d8c331/451970/f5f6ec with source grades retained"
+  ],
+  "original_contributor_scopes": "26WHOLE79SELECTED and ROOT original report/source-grade declarations remain attributed. One own whole185 WH01 is separate; no default105 normal/primary/native/AV replay.",
+  "current_specific_source_use_qualifications": [
+    {
+      "owner": "O040",
+      "meaning": "Shimiko private-property objection is reported by Hinata in E812003L29;Ui visitor complaint is separateL31. Current purpose does not repeat Ui-as-reporter.",
+      "own_grade": "Prior personally selected maintainedE81200319-39 actual515bec;Ui50-68/103-108 andShimiko64/74-82/130 report contexts;no primary replay or source1 core expansion."
+    },
+    {
+      "owner": "O042",
+      "meaning": "Wanted fishing matters,while an achieved fishing endpoint is not established in the received report and the rod is ruined. No global nonachievement or newE814normal reading.",
+      "own_grade": "Complete retained O042 report meaning5387ce/c69f0b and bounded current counter interpretation; original O042 untouched."
+    },
+    {
+      "owner": "O069",
+      "meaning": "E825 gives Toki affiliation/command-right testimony andNeru praise/apology; use-then-exclusion refusal belongsO087/E843 and is not imported.",
+      "own_grade": "Adequate original report meaning plus own currentE825 whole169 maintained account295709/bd784d fromI008 task;not16primary or fresh105normal pass."
+    },
+    {
+      "owner": "O094",
+      "meaning": "Miyo refuses Teacher reading her wanted novels;Ritsu sculpture/materials,affection andcake are separate. E849 Miyo supply acceptance comes onlyfromWH01 specific core context,not a chronology/identity merge.",
+      "own_grade": "Own currentE850 whole139 maintained argument1c47bf/9008ba,earlier selected33-35/67-139 context;not12primary or extra source admission."
+    },
+    {
+      "owner": "O104",
+      "meaning": "Sora wage motive is meaningful without achieved payroll;no source-global nonpayment or full payroll absence claim.",
+      "own_grade": "Adequate prior O104 report meaning and earlier actualMINI149-151 selectedc433b5; frozen entireO104 payload remains unchanged."
+    }
+  ],
+  "current_body_only_independent_QA": {
+    "evidence_id": "WILDHUNT_MINATO_COMPLETE247_53_BODY_FIRST_REVIEW",
+    "bytes": 620740,
+    "sha256": "4a888aaccd23f5cec1996d8b47ca1093e42a8a8e987af855ee5ba93409777e63",
+    "role": "Actually received f82689/0ac74c all53 reasons/scopes;body/source-only WITH_LIMITS,no105/component or ROOT acceptance transfer."
+  },
+  "qualifier_scopes": "Existing61767 six-source qualification onlyO025/O071/O073/O075/O079/O087;59334 oldGSC coffee16 aliases only. Original tuples and payloads remain in all105 rows. No arbitrary Wildhunt/privacy/global correction or newGSC completion.",
+  "current_preparation_snapshot_ROOT_attributed": "Source143/named16 atb8e157441faa5beb2e6a90964815164e9f2f9724;MAIN133/named13 atd1fb415d893ad3591263dfe5e11ba392ff7f564d. Originalc4 custody andoldpending source statements retain their dated roles. No freshGit/provider/runtime certification here.",
+  "purpose_index": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT105_PURPOSE_INDEX_AND_AUTHOR_RECEIVING_V1.json",
+  "claim_register": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_WILDHUNT_ART_RECOGNITION_RECIPIENT_PRIVACY_RECEIVING_20261014_V1/WILDHUNT_CURRENT_LITERAL53_CLAIM_SOURCE_PURPOSE_RIVAL_END_AND_GAP_REGISTER_V1.json",
+  "ROOT_acceptance_install_publication_MAIN_integration": "PENDING_SEPARATE_NO_CANONICAL_COUNT_FROM_AUTHORING",
+  "all14_original_gaps": "OPEN",
+  "models": 0,
+  "new_source_primary_or_canonical_credit": 0
+}

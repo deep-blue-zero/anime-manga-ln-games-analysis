@@ -1,0 +1,58 @@
+{
+  "schema": "BLUE_ARCHIVE_ROOT_SUBARU_MONOGRAPH_RECEIVING_AND_EXACT_VERIFICATION_V1",
+  "status": "PASS_WITH_LIMITS",
+  "decision": "ACCEPT_COMPLETE_BOUNDARY_WITH_LIMITS",
+  "candidate_sha256": "dd22db82ab67a6a39447a3a63ac58faad6d85ce211c3dd6cd47917891ad38b66",
+  "frozen_outputs_verified": 4,
+  "prior_frozen_outputs_preserved": 21,
+  "exact_unique_binding_pairs_verified": 42,
+  "fresh_complete_arguments_equal_main_and_c1": 6,
+  "selected_private_objects_exact_verified": 11,
+  "historical_metadata_bindings": [
+    {
+      "path": "series/blue-archive/06 Evidence and Indexes/BLUE_ARCHIVE_PHASE3_CANDIDATE_RESPONSIBILITIES.csv",
+      "ref": "34685c9aa894101d176e46c26d1434e44bfd9fa4",
+      "purpose": "historical metadata only"
+    }
+  ],
+  "present_metadata_witness": "Actual current staged six-monograph candidate466542 bytes ec11af62, not published dc5 tree; exact current verification at ROOT receiving. Dispatch unchanged. No publication credit from this witness.",
+  "root_actual_receiving": {
+    "whole_final_body": [
+      "5eb383 lines1–80",
+      "565089 lines81–158",
+      "6f7eb1 lines159–234EOF"
+    ],
+    "whole_readable_receipt": [
+      "0edd42 all48linesEOF"
+    ],
+    "source_scope_fields": "Fresh6 3c50a6; controls626ee4; reused29 56bd38/d57aea; qualified peer93c611; four attributed primary scopes a5a3ec; architecture2f4bb0; manifest a27755; current metadata9a4148. Complete prior ROOT Abydos/Arius literary census scopes are reused unchanged without fresh primary credit.",
+    "new_complete_accepted_arguments": [
+      "b9d9fe V006maintained172linesEOF",
+      "1d0753 exactly EVENT80001E138 all70linesEOF"
+    ],
+    "new_full_primary_or_raw_or_performance_credit": 0
+  },
+  "semantic_grounds": [
+    "Wanted food, sheet music, browsing without buying, chosen harmonica audience and future heavy metal belong to Subaru herself; mixed motives do not invalidate ordinary pleasure.",
+    "Sustaining care retains exclusion of Maia, armed entry, blanket suppression and coercive protection as adverse conduct with distinct recipients.",
+    "Later shared class, test, celebration, office acceptance and patrol are positive local states; charter, histories, funding, repair and recovery remain bounded.",
+    "Maia, Saori, Atsuko, Misaki, Hiyori, anonymous juniors and workers retain independently motivated positions rather than one Arius stance.",
+    "Actual eating, walking and represented music are distinguished from reports, alternatives, omitted awakening, future projects, source-local identity and unreceived performance."
+  ],
+  "canonical_adoption": "CANONICAL_SOURCE_BRANCH_DERIVATIVE",
+  "all14_gaps": "OPEN_UNCHANGED",
+  "models_or_predictions_promoted": false,
+  "N_frozen": false,
+  "quarter_reached": false,
+  "main_integration": "NONE",
+  "canonical_derivative": {
+    "path": "series/blue-archive/04 Specialist Synthesis/Character Monographs/BLUE_ARCHIVE_SUBARU_CHARACTER_MONOGRAPH.md",
+    "bytes": 49193,
+    "sha256": "03a633bbbf6812ca4c8aacca4f3a1ac8e4115d3ceeb57a98253d9d02efe30d9f",
+    "frozen_author_bytes": 48646,
+    "frozen_author_sha256": "dd22db82ab67a6a39447a3a63ac58faad6d85ce211c3dd6cd47917891ad38b66"
+  },
+  "public_input_receipt": "series/blue-archive/08 Audits and Manifests/BLUE_ARCHIVE_SUBARU_MONOGRAPH_INPUT_RECEIPTS_V1.json",
+  "public_claim_register": null,
+  "historical_receiving_flags_retained": "N, publication and main state refer to the dated receiving event; current full-cast scope is separately indexed."
+}

@@ -1,0 +1,3392 @@
+{
+  "schema": "TRPG-CORE/source-first-selected-premises/v1",
+  "created_utc": "2026-10-18T00:10:00.313038+00:00",
+  "purpose": "Complete preservation and consolidation of all uncoded page-level comic observations from the actual pass, not a volume humor census or main-J02 denominator.",
+  "original_page_notes_file": {
+    "sha256": "3ee568d15cd55389fea788a4735beb755af5cb5c1b892bf031d30c7944511673",
+    "bytes": 305631
+  },
+  "original_comic_note_pages": 120,
+  "selected_premises": 75,
+  "rows": [
+    {
+      "id": "TRPGC-U001",
+      "source": "TRPG-CORE",
+      "spine_start": 3,
+      "spine_end": 3,
+      "printed_start": "001",
+      "printed_end": "001",
+      "premise": "Promotional invitation to the reader",
+      "authority_plane": "promotional framing",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S003",
+          "spine_position": 3,
+          "printed_page": "001",
+          "original_uncoded_notes_exact": [
+            "Potential promotional invitation uses familiar address form あなた and ellipsis/question, but actor attribution and fictional-world status remain limited."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S003",
+          "printed_page": "001",
+          "native_wrapper_member": "item/xhtml/p-001.xhtml",
+          "native_image_member": "item/image/i-001.jpg",
+          "image_sha256": "19b0e247187ef477a11fb0e52109d86c9aef37596d22966951ffa52b2e91cff4"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U002",
+      "source": "TRPG-CORE",
+      "spine_start": 11,
+      "spine_end": 11,
+      "printed_start": "009",
+      "printed_end": "009",
+      "premise": "Exemplary replay recommendation meets Kazuma’s doubt",
+      "authority_plane": "staged character commentary",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S011",
+          "spine_position": 11,
+          "printed_page": "009",
+          "original_uncoded_notes_exact": [
+            "Aqua authoritative reference recommendation followed by Kazuma hesitant corrective question undermines guaranteed exemplary-play promise; typography/ellipsis and audience distinct from later actual player speech."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S011",
+          "printed_page": "009",
+          "native_wrapper_member": "item/xhtml/p-009.xhtml",
+          "native_image_member": "item/image/i-009.jpg",
+          "image_sha256": "ab5d02b2885b0924f04ee9205ceb0213f0c6008bb63082be156d031cddacf327"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U003",
+      "source": "TRPG-CORE",
+      "spine_start": 12,
+      "spine_end": 13,
+      "printed_start": "010",
+      "printed_end": "011",
+      "premise": "GM celebrity anxiety becomes unexpected mutual recognition",
+      "authority_plane": "editorial tabletop account",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S012",
+          "spine_position": 12,
+          "printed_page": "010",
+          "original_uncoded_notes_exact": [
+            "Designer expectation of meeting celebrities reverses into mutual fan recognition and startled gratitude; later exact participant attribution continues next page."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S013",
+          "spine_position": 13,
+          "printed_page": "011",
+          "original_uncoded_notes_exact": [
+            "Self-deprecating GM narrator turns celebrity anxiety into being unexpectedly praised; reported laughter markers are editorial text, not acoustic verification."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S012",
+          "printed_page": "010",
+          "native_wrapper_member": "item/xhtml/p-010.xhtml",
+          "native_image_member": "item/image/i-010.jpg",
+          "image_sha256": "a6fe40c5b51de99272349faa1007c33137407daa8cd872099d5c2d9eab042603"
+        },
+        {
+          "component_id": "TRPG-CORE-S013",
+          "printed_page": "011",
+          "native_wrapper_member": "item/xhtml/p-011.xhtml",
+          "native_image_member": "item/image/i-011.jpg",
+          "image_sha256": "d85e1b9d1ab35681ece0d5b4a21e3c999a0fb8f98c158923a0bc13434ba0919e"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention",
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U004",
+      "source": "TRPG-CORE",
+      "spine_start": 14,
+      "spine_end": 16,
+      "printed_start": "012",
+      "printed_end": "014",
+      "premise": "Tutorial shortcuts displaced by custom construction and dangerous cheats",
+      "authority_plane": "tabletop discussion",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S014",
+          "spine_position": 14,
+          "printed_page": "012",
+          "original_uncoded_notes_exact": [
+            "GM's practical shortcut recommendation is immediately displaced by eager custom construction; tabletop banter, not principal-character rule breaking."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S016",
+          "spine_position": 16,
+          "printed_page": "014",
+          "original_uncoded_notes_exact": [
+            "Fandom recognition and prospective balance-break risk collide with eager adoption; explicit doom possibility is retained, not a reliable prediction of the later session."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S014",
+          "printed_page": "012",
+          "native_wrapper_member": "item/xhtml/p-012.xhtml",
+          "native_image_member": "item/image/i-012.jpg",
+          "image_sha256": "3183caf64ffd75cf565fb6e375e6a8ad457b08e3ec0b00cb7a21d5a9d5748ebc"
+        },
+        {
+          "component_id": "TRPG-CORE-S015",
+          "printed_page": "013",
+          "native_wrapper_member": "item/xhtml/p-013.xhtml",
+          "native_image_member": "item/image/i-013.jpg",
+          "image_sha256": "0d9d9f3baf134e70497baf67a507ce42473912f873a25ef0dccf5e681f191a36"
+        },
+        {
+          "component_id": "TRPG-CORE-S016",
+          "printed_page": "014",
+          "native_wrapper_member": "item/xhtml/p-014.xhtml",
+          "native_image_member": "item/image/i-014.jpg",
+          "image_sha256": "86f796a21e4c09a30f453848bdefe3c399334e5531f5b90bcd419f469b3d659e"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U005",
+      "source": "TRPG-CORE",
+      "spine_start": 17,
+      "spine_end": 18,
+      "printed_start": "015",
+      "printed_end": "016",
+      "premise": "Religious spy and supposedly friendly but friendless frightening priest",
+      "authority_plane": "player-authored PC biography",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S017",
+          "spine_position": 17,
+          "printed_page": "015",
+          "original_uncoded_notes_exact": [
+            "Optional responsibility warning followed by enthusiastic adoption; smiling muscular priest image contrasts hostile cult description and lack of friends."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S018",
+          "spine_position": 18,
+          "printed_page": "016",
+          "original_uncoded_notes_exact": [
+            "Self-righteous religious mission meets skeptical player question; nominal friend lifepath versus trade/social penalty is directly teased. Countervailing cheat costs matter."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S017",
+          "printed_page": "015",
+          "native_wrapper_member": "item/xhtml/p-015.xhtml",
+          "native_image_member": "item/image/i-015.jpg",
+          "image_sha256": "1b0b49340380498aec878eca6d4e396a61461fff399996020fe984fdf021c38b"
+        },
+        {
+          "component_id": "TRPG-CORE-S018",
+          "printed_page": "016",
+          "native_wrapper_member": "item/xhtml/p-016.xhtml",
+          "native_image_member": "item/image/i-016.jpg",
+          "image_sha256": "9ee91402589e78941787c2078e7ce2158c26fc5aba34c720be54d7f063cdef44"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U006",
+      "source": "TRPG-CORE",
+      "spine_start": 19,
+      "spine_end": 19,
+      "printed_start": "017",
+      "printed_end": "017",
+      "premise": "Restored health rewarded by a weapon and immediate risky enthusiasm",
+      "authority_plane": "player-authored PC biography",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S019",
+          "spine_position": 19,
+          "printed_page": "017",
+          "original_uncoded_notes_exact": [
+            "Flattery allegedly secures divine reward, followed by amused recognition 'Aqua would'; former illness flips into reckless display. Hypothetical/biographical rather than observed session effect."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S019",
+          "printed_page": "017",
+          "native_wrapper_member": "item/xhtml/p-017.xhtml",
+          "native_image_member": "item/image/i-017.jpg",
+          "image_sha256": "3d771183032a3faaf8c5f52405b192f4adc3631e87065131e38612ebe567e2a5"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U007",
+      "source": "TRPG-CORE",
+      "spine_start": 20,
+      "spine_end": 21,
+      "printed_start": "018",
+      "printed_end": "019",
+      "premise": "Feminine-sounding name, death-return ownership and determined refusal to die",
+      "authority_plane": "player-authored PC biography",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S020",
+          "spine_position": 20,
+          "printed_page": "018",
+          "original_uncoded_notes_exact": [
+            "Formal caution and conspicuously feminine-sounding name mismatch; ReZero author refuses death-return; rescue links PCs while 'want no more death' remains real stated motive."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S021",
+          "spine_position": 21,
+          "printed_page": "019",
+          "original_uncoded_notes_exact": [
+            "Aimless data is immediately qualified by strong survival goal. Grand Crimson self-intro/name resemblance coexists mundane bathhouse upbringing."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S020",
+          "printed_page": "018",
+          "native_wrapper_member": "item/xhtml/p-018.xhtml",
+          "native_image_member": "item/image/i-018.jpg",
+          "image_sha256": "98f78ae63a1638bf1e6aba17af63534304a98371d2529efcfa3118fb624281ea"
+        },
+        {
+          "component_id": "TRPG-CORE-S021",
+          "printed_page": "019",
+          "native_wrapper_member": "item/xhtml/p-019.xhtml",
+          "native_image_member": "item/image/i-019.jpg",
+          "image_sha256": "49686fc232e39119d96222b72b3f2dba8a0bcba3334f95fffa7d76e88a185d08"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U008",
+      "source": "TRPG-CORE",
+      "spine_start": 22,
+      "spine_end": 22,
+      "printed_start": "020",
+      "printed_end": "020",
+      "premise": "Romance manga turns a frightening priest into an imagined prince",
+      "authority_plane": "player-authored PC biography",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S022",
+          "spine_position": 22,
+          "printed_page": "020",
+          "original_uncoded_notes_exact": [
+            "Claims manga proves sudden scary men cannot be bad, despite Gilbert's self-admitted religious sabotage; genre rule collision and chosen aspiration, not diagnosis of actual principal Megumin."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S022",
+          "printed_page": "020",
+          "native_wrapper_member": "item/xhtml/p-020.xhtml",
+          "native_image_member": "item/image/i-020.jpg",
+          "image_sha256": "970a4b7399daf43c456c7c5f1cfdad89e3b554089d868059a3bae6226a672227"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U009",
+      "source": "TRPG-CORE",
+      "spine_start": 23,
+      "spine_end": 23,
+      "printed_start": "021",
+      "printed_end": "021",
+      "premise": "Cohabitation thrift and royal lifestyle meet independent costs",
+      "authority_plane": "tabletop construction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S023",
+          "spine_position": 23,
+          "printed_page": "021",
+          "original_uncoded_notes_exact": [
+            "Temiren romance/cost-saving cohabitation blocked by independent per-PC cost rule; Gilbert rationalizes luxury demand with religion while others economize."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S023",
+          "printed_page": "021",
+          "native_wrapper_member": "item/xhtml/p-021.xhtml",
+          "native_image_member": "item/image/i-021.jpg",
+          "image_sha256": "61c9b755c73e9f4e9c32106e8e8def41062bb5a9e808a78a1e084e56c099a5c7"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U010",
+      "source": "TRPG-CORE",
+      "spine_start": 24,
+      "spine_end": 24,
+      "printed_start": "022",
+      "printed_end": "022",
+      "premise": "Creator challenged by his own naming convention while players negotiate bonds",
+      "authority_plane": "tabletop discussion",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S024",
+          "spine_position": 24,
+          "printed_page": "022",
+          "original_uncoded_notes_exact": [
+            "Author held accountable for his own confusing naming convention; party bonds are negotiated through pragmatic player suggestions, not omniscient necessary coordinator."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S024",
+          "printed_page": "022",
+          "native_wrapper_member": "item/xhtml/p-022.xhtml",
+          "native_image_member": "item/image/i-022.jpg",
+          "image_sha256": "915e79d3135f8b232083ef9ccc51fcb52258daf4354f0814adb5933d6fdf8a4d"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U011",
+      "source": "TRPG-CORE",
+      "spine_start": 25,
+      "spine_end": 27,
+      "printed_start": "023",
+      "printed_end": "025",
+      "premise": "Fear narrows quest choice, then reassurance and cult rhetoric recruit the reluctant warrior",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S025",
+          "spine_position": 25,
+          "printed_page": "023",
+          "original_uncoded_notes_exact": [
+            "Cautious self-preservation actively narrows collective options, then accepted-only-quest reasoning; helpfulness and control coexist."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S026",
+          "spine_position": 26,
+          "printed_page": "024",
+          "original_uncoded_notes_exact": [
+            "Source-aware players perform PC ignorance; healthy Chiho invokes his earlier rescue to pressure risk-averse Otohime while he protests actual death from rescue."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S027",
+          "spine_position": 27,
+          "printed_page": "025",
+          "original_uncoded_notes_exact": [
+            "Grand cult command manipulates a mundane frog job; actual friends use practical reassurance and survival framing to secure reluctant partner's agreement."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S025",
+          "printed_page": "023",
+          "native_wrapper_member": "item/xhtml/p-023.xhtml",
+          "native_image_member": "item/image/i-023.jpg",
+          "image_sha256": "c6b7767debd6d3560d724d0a4dc6d4fa7a0a3dba2fd4754bfcfe00da879477b4"
+        },
+        {
+          "component_id": "TRPG-CORE-S026",
+          "printed_page": "024",
+          "native_wrapper_member": "item/xhtml/p-024.xhtml",
+          "native_image_member": "item/image/i-024.jpg",
+          "image_sha256": "9f47b460e3ada1c651e6a08134bda6e8ce1f2603e5bf37609ce0e82e6d09c748"
+        },
+        {
+          "component_id": "TRPG-CORE-S027",
+          "printed_page": "025",
+          "native_wrapper_member": "item/xhtml/p-025.xhtml",
+          "native_image_member": "item/image/i-025.jpg",
+          "image_sha256": "ac4530afe936590683daa678aa4300509e1736c3904511787307039903897299"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U012",
+      "source": "TRPG-CORE",
+      "spine_start": 28,
+      "spine_end": 29,
+      "printed_start": "026",
+      "printed_end": "027",
+      "premise": "Practical supplies and a shared fatal accident become an instrumental protection pact",
+      "authority_plane": "performed replay and reported biography",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S028",
+          "spine_position": 28,
+          "printed_page": "026",
+          "original_uncoded_notes_exact": [
+            "Author identity playfully invoked to deflate world-distance certainty; practical resource planning interrupts adventure opening."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S029",
+          "spine_position": 29,
+          "printed_page": "027",
+          "original_uncoded_notes_exact": [
+            "Confession expected to rupture trust instead meets grateful outcome appraisal; protection pact is hedged by self-preservation, and mechanically helpful affection complicates dangerous past."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S028",
+          "printed_page": "026",
+          "native_wrapper_member": "item/xhtml/p-026.xhtml",
+          "native_image_member": "item/image/i-026.jpg",
+          "image_sha256": "908e74211fbf29e4177fb63c91ec9e4f41999f878efdd7b32e5fe8d3a814b558"
+        },
+        {
+          "component_id": "TRPG-CORE-S029",
+          "printed_page": "027",
+          "native_wrapper_member": "item/xhtml/p-027.xhtml",
+          "native_image_member": "item/image/i-027.jpg",
+          "image_sha256": "8bd193d1f930ca492ed1fc476e379d6ed792905c7dd90b896ecf799530a02693"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U013",
+      "source": "TRPG-CORE",
+      "spine_start": 30,
+      "spine_end": 30,
+      "printed_start": "028",
+      "printed_end": "028",
+      "premise": "Attempted discipline is received as romantic encouragement",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S030",
+          "spine_position": 30,
+          "printed_page": "028",
+          "original_uncoded_notes_exact": [
+            "Intended punishment converts into requested romance/reward; ethical correction fails on incompatible appraisal rather than irresistible magical effect. Survival fear persists through reassurance."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S030",
+          "printed_page": "028",
+          "native_wrapper_member": "item/xhtml/p-028.xhtml",
+          "native_image_member": "item/image/i-028.jpg",
+          "image_sha256": "ab7968d70514ac2740a215cb0294a2fe4f75d9d409394ed47aa12cbe52ba3503"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U014",
+      "source": "TRPG-CORE",
+      "spine_start": 31,
+      "spine_end": 32,
+      "printed_start": "029",
+      "printed_end": "030",
+      "premise": "Ordinary-frog reassurance meets enormous livestock threat and tutorial pacing",
+      "authority_plane": "performed replay and table discussion",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S031",
+          "spine_position": 31,
+          "printed_page": "029",
+          "original_uncoded_notes_exact": [
+            "Earlier fear dismissed as merely huge ordinary frogs meets livestock-swallowing scale; genre knowledge does not erase situated risk. Explicit charging/protest directions distinguish characters."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S032",
+          "spine_position": 32,
+          "printed_page": "030",
+          "original_uncoded_notes_exact": [
+            "Expert players undermine tutorial sequencing then collaborate to reframe explanation for novice reader; GM agency responds rather than predetermined smooth ideal play."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S031",
+          "printed_page": "029",
+          "native_wrapper_member": "item/xhtml/p-029.xhtml",
+          "native_image_member": "item/image/i-029.jpg",
+          "image_sha256": "9b2b78e254e1abc5bf565e27417a5dd381f062314fe3d49c8637b16c3a100228"
+        },
+        {
+          "component_id": "TRPG-CORE-S032",
+          "printed_page": "030",
+          "native_wrapper_member": "item/xhtml/p-030.xhtml",
+          "native_image_member": "item/image/i-030.jpg",
+          "image_sha256": "850ed53b8e3970eeffb37644c8aca1cc27a5f5d8d381b6c5e83bf94d9748dcdf"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U015",
+      "source": "TRPG-CORE",
+      "spine_start": 34,
+      "spine_end": 38,
+      "printed_start": "032",
+      "printed_end": "036",
+      "premise": "Grand charge, weak penetration and princes interpreted through modest mechanics",
+      "authority_plane": "performed replay combat",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S034",
+          "spine_position": 34,
+          "printed_page": "032",
+          "original_uncoded_notes_exact": [
+            "Players' own eager declaration changes tactical geometry and risk; GM visibly responds, avoiding automatic retroactive safe formation."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S036",
+          "spine_position": 36,
+          "printed_page": "034",
+          "original_uncoded_notes_exact": [
+            "Grand anti-evil declaration meets ordinary bad roll/opponent agility; face loss followed by retaliatory resolve. Team banter proposes hostile interpretation without actual friendly fire yet."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S037",
+          "spine_position": 37,
+          "printed_page": "035",
+          "original_uncoded_notes_exact": [
+            "Risk-averse PC voluntarily attacks when disadvantage seems controlled; modest mace/blunt damage meets unadvertised resistance while romance and practical AoE cooperate."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S038",
+          "spine_position": 38,
+          "printed_page": "036",
+          "original_uncoded_notes_exact": [
+            "Tiny damage confirms fear rather than repaired confidence; PCs bargain over who is tastier, while companion admiration interprets a tie-rule escape as princely competence."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S034",
+          "printed_page": "032",
+          "native_wrapper_member": "item/xhtml/p-032.xhtml",
+          "native_image_member": "item/image/i-032.jpg",
+          "image_sha256": "27b7f05e1560c8dbc20cf229b27da5fc11adf275a41ec38ed53abc7914e10de8"
+        },
+        {
+          "component_id": "TRPG-CORE-S035",
+          "printed_page": "033",
+          "native_wrapper_member": "item/xhtml/p-033.xhtml",
+          "native_image_member": "item/image/i-033.jpg",
+          "image_sha256": "e4d9386ae498a7537228911f78334774dffdfb158a64519ebd009a5db83719a0"
+        },
+        {
+          "component_id": "TRPG-CORE-S036",
+          "printed_page": "034",
+          "native_wrapper_member": "item/xhtml/p-034.xhtml",
+          "native_image_member": "item/image/i-034.jpg",
+          "image_sha256": "c12344f81bc138415c657ccc73df3b6dd0a6955a456a0ecab2ea9756e48a5c54"
+        },
+        {
+          "component_id": "TRPG-CORE-S037",
+          "printed_page": "035",
+          "native_wrapper_member": "item/xhtml/p-035.xhtml",
+          "native_image_member": "item/image/i-035.jpg",
+          "image_sha256": "29bbf7d86ca5ef4fd2fcb71d3c38e65a8736a6cc52166ce7e7d4ec7328465ef3"
+        },
+        {
+          "component_id": "TRPG-CORE-S038",
+          "printed_page": "036",
+          "native_wrapper_member": "item/xhtml/p-036.xhtml",
+          "native_image_member": "item/image/i-036.jpg",
+          "image_sha256": "0d17d5ceccaf8f11f8eb9ca96aa83aa65ca5f841f565f5e9e3865f2d8274b482"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U016",
+      "source": "TRPG-CORE",
+      "spine_start": 39,
+      "spine_end": 41,
+      "printed_start": "037",
+      "printed_end": "039",
+      "premise": "Armor reassurance fails as the frightened warrior is actually swallowed",
+      "authority_plane": "performed replay combat and dependent art",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S039",
+          "spine_position": 39,
+          "printed_page": "037",
+          "original_uncoded_notes_exact": [
+            "Desired enemy failure reverses into own fumble; apparent safety reassurance meets harmful outcome and face-saving scope defense. Actual swallowing retained despite comedy."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S040",
+          "spine_position": 40,
+          "printed_page": "038",
+          "original_uncoded_notes_exact": [
+            "Actual protective attack repairs risky handoff; joking health-versus-brawn and economical triage coexist with bodily danger."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S041",
+          "spine_position": 41,
+          "printed_page": "039",
+          "original_uncoded_notes_exact": [
+            "Ensemble reaction composition turns swallowed-first adventurer into visual failure tableau, preserving actual danger without literalizing every static expression into durable trait."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S039",
+          "printed_page": "037",
+          "native_wrapper_member": "item/xhtml/p-037.xhtml",
+          "native_image_member": "item/image/i-037.jpg",
+          "image_sha256": "c0c27283c5d9c1c01d1496a11d02b34cfd0f64e99f0b3d6e9da7ddb8c25df55c"
+        },
+        {
+          "component_id": "TRPG-CORE-S040",
+          "printed_page": "038",
+          "native_wrapper_member": "item/xhtml/p-038.xhtml",
+          "native_image_member": "item/image/i-038.jpg",
+          "image_sha256": "0084761e10d0830faf1b40296ca80cfb3999d3173a0bffcb7e99d91384a0324c"
+        },
+        {
+          "component_id": "TRPG-CORE-S041",
+          "printed_page": "039",
+          "native_wrapper_member": "item/xhtml/p-039.xhtml",
+          "native_image_member": "item/image/i-039.jpg",
+          "image_sha256": "3cf261bbed08e4a6822c4fe5f2aa6994de34546ca2cb6b2ed4f2418973d1a94f"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U017",
+      "source": "TRPG-CORE",
+      "spine_start": 42,
+      "spine_end": 45,
+      "printed_start": "040",
+      "printed_end": "043",
+      "premise": "Fear persists while repeated chosen cover and companion rescue incur real costs",
+      "authority_plane": "performed replay combat",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S042",
+          "spine_position": 42,
+          "printed_page": "040",
+          "original_uncoded_notes_exact": [
+            "Outraged desire to retreat receives romance-coded appreciation; minimal mechanical damage becomes enthusiastic praise, without proving objectively high effectiveness."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S043",
+          "spine_position": 43,
+          "printed_page": "041",
+          "original_uncoded_notes_exact": [
+            "Boasted success/rival confidence meet actual roll and resistance; character 'health' trope is challenged through exact mechanics rather than swallowed whole as immunity."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S044",
+          "spine_position": 44,
+          "printed_page": "042",
+          "original_uncoded_notes_exact": [
+            "Declared self-preservation is overridden by concrete protective act, followed by unlucky recurrence and public cry; healing/protection effort not an automatic cure of danger."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S045",
+          "spine_position": 45,
+          "printed_page": "043",
+          "original_uncoded_notes_exact": [
+            "Repeated protective self-sacrifice and efficient friend's rescue contrast fearful complaints; rules permission is openly stated rather than proof that ordinary bodies move through frog walls."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S042",
+          "printed_page": "040",
+          "native_wrapper_member": "item/xhtml/p-040.xhtml",
+          "native_image_member": "item/image/i-040.jpg",
+          "image_sha256": "7a2520bbff1cd575b6068623c63984aedff5ec10a889017fef7b11594c1c6bab"
+        },
+        {
+          "component_id": "TRPG-CORE-S043",
+          "printed_page": "041",
+          "native_wrapper_member": "item/xhtml/p-041.xhtml",
+          "native_image_member": "item/image/i-041.jpg",
+          "image_sha256": "c9775694229ac4356bcdaa46ed022848a6a74cc5d1ce69e375579007810fad93"
+        },
+        {
+          "component_id": "TRPG-CORE-S044",
+          "printed_page": "042",
+          "native_wrapper_member": "item/xhtml/p-042.xhtml",
+          "native_image_member": "item/image/i-042.jpg",
+          "image_sha256": "0ad22d8f58ef47b5458b19cf473d1fb910767c655dba6a2dd27699278b18e45d"
+        },
+        {
+          "component_id": "TRPG-CORE-S045",
+          "printed_page": "043",
+          "native_wrapper_member": "item/xhtml/p-043.xhtml",
+          "native_image_member": "item/image/i-043.jpg",
+          "image_sha256": "43e508a7ac6da9570a70eafdb04babaea962273c58d295292b5f9a56be6106d7"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U018",
+      "source": "TRPG-CORE",
+      "spine_start": 46,
+      "spine_end": 46,
+      "printed_start": "044",
+      "printed_end": "044",
+      "premise": "A small final hit becomes a briefly enlarged heroic self-appraisal",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S046",
+          "spine_position": 46,
+          "printed_page": "044",
+          "original_uncoded_notes_exact": [
+            "First narrow success expands into grand self-reconstruction, immediately recalibrated by companions; boast and real protective competence coexist."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S046",
+          "printed_page": "044",
+          "native_wrapper_member": "item/xhtml/p-044.xhtml",
+          "native_image_member": "item/image/i-044.jpg",
+          "image_sha256": "fe692dfd829404b9752c4691bfdeff787fd8dbe45fa6b3d18bb126981dd0df56"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U019",
+      "source": "TRPG-CORE",
+      "spine_start": 47,
+      "spine_end": 48,
+      "printed_start": "045",
+      "printed_end": "046",
+      "premise": "Loot and requested affection become a conditional religious donation demand",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S047",
+          "spine_position": 47,
+          "printed_page": "045",
+          "original_uncoded_notes_exact": [
+            "Unexpected valuable loot exceeds nominal quest context; narrator distinguishes random roll from slaying credit, Temiren pursues relational acknowledgment rather than merit taxonomy."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S048",
+          "spine_position": 48,
+          "printed_page": "046",
+          "original_uncoded_notes_exact": [
+            "Tender reward becomes opportunistic institutional payment demand; explicit self-criticism and others' amusement preserve exploitative dimension, not idealized mutual care."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S047",
+          "printed_page": "045",
+          "native_wrapper_member": "item/xhtml/p-045.xhtml",
+          "native_image_member": "item/image/i-045.jpg",
+          "image_sha256": "f1797db8d253c370711a4d58cc2108e9be75ea41c90214d00a8d004451a08380"
+        },
+        {
+          "component_id": "TRPG-CORE-S048",
+          "printed_page": "046",
+          "native_wrapper_member": "item/xhtml/p-046.xhtml",
+          "native_image_member": "item/image/i-046.jpg",
+          "image_sha256": "c3dd214d14e8908a4a942a75bd554d56373fb6e532aaee650fd23ad968ca7391"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U020",
+      "source": "TRPG-CORE",
+      "spine_start": 49,
+      "spine_end": 50,
+      "printed_start": "047",
+      "printed_end": "048",
+      "premise": "Client perspective, romance rules and baseless religious blame collide",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S049",
+          "spine_position": 49,
+          "printed_page": "047",
+          "original_uncoded_notes_exact": [
+            "Romance nickname leaks into client interaction; patronizing wounded adventurer clashes with friend's protection of client perspective."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S050",
+          "spine_position": 50,
+          "printed_page": "048",
+          "original_uncoded_notes_exact": [
+            "Genre romance fails own normative test; suspicious priest extends prejudiced explanation until GM sets table boundary. Grand enemy threat meets wage/quest framing."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S049",
+          "printed_page": "047",
+          "native_wrapper_member": "item/xhtml/p-047.xhtml",
+          "native_image_member": "item/image/i-047.jpg",
+          "image_sha256": "948568546c2bb3c6686809846ed6dd41908997227d328770b94cc77d3b5f512e"
+        },
+        {
+          "component_id": "TRPG-CORE-S050",
+          "printed_page": "048",
+          "native_wrapper_member": "item/xhtml/p-048.xhtml",
+          "native_image_member": "item/image/i-048.jpg",
+          "image_sha256": "e777a7c838850cf46a93d3db03052396c5894adddd9b0a7ef35b783e64542ecc"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U021",
+      "source": "TRPG-CORE",
+      "spine_start": 51,
+      "spine_end": 53,
+      "printed_start": "049",
+      "printed_end": "051",
+      "premise": "Lantern duty and frank need for acknowledgment negotiate cave participation",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S051",
+          "spine_position": 51,
+          "printed_page": "049",
+          "original_uncoded_notes_exact": [
+            "Self-preservation versus otherworld-health optimism persists; occupational backstory skill proves actually useful, while idealized prince narrative selectively interprets it."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S052",
+          "spine_position": 52,
+          "printed_page": "050",
+          "original_uncoded_notes_exact": [
+            "Cautious character openly requests encouragement, while companion names concrete mechanical usefulness rather than pretending purely altruistic motive."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S053",
+          "spine_position": 53,
+          "printed_page": "051",
+          "original_uncoded_notes_exact": [
+            "Recognition-seeking is statedratherthan inferred from protectiveacts alone; joke simultaneously reveals need and permits chosen participation."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S051",
+          "printed_page": "049",
+          "native_wrapper_member": "item/xhtml/p-049.xhtml",
+          "native_image_member": "item/image/i-049.jpg",
+          "image_sha256": "db4d6766f3fdd461c4eb4ee2321713f44a8c0807821400f9a975e1374a8211e9"
+        },
+        {
+          "component_id": "TRPG-CORE-S052",
+          "printed_page": "050",
+          "native_wrapper_member": "item/xhtml/p-050.xhtml",
+          "native_image_member": "item/image/i-050.jpg",
+          "image_sha256": "33822dff605633725cd965a92b851c600982560fad1771552aa2313490228d69"
+        },
+        {
+          "component_id": "TRPG-CORE-S053",
+          "printed_page": "051",
+          "native_wrapper_member": "item/xhtml/p-051.xhtml",
+          "native_image_member": "item/image/i-051.jpg",
+          "image_sha256": "503124e4299ea0ae86758e9fe8f80b2095f2842f66d11e3a5f92d0ee86e26282"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U022",
+      "source": "TRPG-CORE",
+      "spine_start": 54,
+      "spine_end": 55,
+      "printed_start": "052",
+      "printed_end": "053",
+      "premise": "Game-locked puzzle, ordinary furniture and fruit gift become a display of intelligence",
+      "authority_plane": "performed replay puzzle and table explanation",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S054",
+          "spine_position": 54,
+          "printed_page": "052",
+          "original_uncoded_notes_exact": [
+            "Game-designer protection against door destruction is openlyacknowledged; faith prejudice meets practical puzzle while hidden guide praises minimal tool intelligence."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S055",
+          "spine_position": 55,
+          "printed_page": "053",
+          "original_uncoded_notes_exact": [
+            "Ordinary chair use becomes conspicuous achievement; valuedutility and romantic gift interpretation coexist, priest doubts whether wisdom trulyshown."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S054",
+          "printed_page": "052",
+          "native_wrapper_member": "item/xhtml/p-052.xhtml",
+          "native_image_member": "item/image/i-052.jpg",
+          "image_sha256": "7102db9ccdc8d56c39f25708c311bd76db91562808bd09c18d3c963f9e8ae55e"
+        },
+        {
+          "component_id": "TRPG-CORE-S055",
+          "printed_page": "053",
+          "native_wrapper_member": "item/xhtml/p-053.xhtml",
+          "native_image_member": "item/image/i-053.jpg",
+          "image_sha256": "f4da02321f5fb3d23eac11160604aaa73d808586eb1f66c714bd2a3b8c52795f"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U023",
+      "source": "TRPG-CORE",
+      "spine_start": 56,
+      "spine_end": 58,
+      "printed_start": "054",
+      "printed_end": "056",
+      "premise": "Bath expertise, purification and a local fishing exception cooperate across an acid obstacle",
+      "authority_plane": "performed replay puzzle with explicit local GM rulings",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S056",
+          "spine_position": 56,
+          "printed_page": "054",
+          "original_uncoded_notes_exact": [
+            "Earlier harmed trust persists evenafter reassuring checks; apparent bath becomes acid and habitual bathhouse expertise appropriately qualifies interpretation."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S057",
+          "spine_position": 57,
+          "printed_page": "055",
+          "original_uncoded_notes_exact": [
+            "Cooperation challenges intended obstacle rather than simplybrute-force a hero roll; frightened actor proposes collective-risk reduction, and harmedfrog complicates species triumph narrative."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S058",
+          "spine_position": 58,
+          "printed_page": "056",
+          "original_uncoded_notes_exact": [
+            "Fearful protector supplies creative collective-riskreduction, priest facilitates, Chihoexertsbody, Temiren reframes leisure as restoration; successful distributed solution still has local house-ruling limits."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S056",
+          "printed_page": "054",
+          "native_wrapper_member": "item/xhtml/p-054.xhtml",
+          "native_image_member": "item/image/i-054.jpg",
+          "image_sha256": "8ca4b254627d0f18a6e876fcf02ac51fdcba30959a61f3db097e1887b1ef9ef4"
+        },
+        {
+          "component_id": "TRPG-CORE-S057",
+          "printed_page": "055",
+          "native_wrapper_member": "item/xhtml/p-055.xhtml",
+          "native_image_member": "item/image/i-055.jpg",
+          "image_sha256": "af7dae3397dcf2f6afc1cb0122ae878cd29a45468a82de5b79e5191b378f1373"
+        },
+        {
+          "component_id": "TRPG-CORE-S058",
+          "printed_page": "056",
+          "native_wrapper_member": "item/xhtml/p-056.xhtml",
+          "native_image_member": "item/image/i-056.jpg",
+          "image_sha256": "125e1d0680e2e70fbb4ff34a0865f9cec715daf6dc730270fc04907c1b741f73"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U024",
+      "source": "TRPG-CORE",
+      "spine_start": 59,
+      "spine_end": 62,
+      "printed_start": "057",
+      "printed_end": "060",
+      "premise": "A romantic slip and an unexamined chest cause damage, rescue and lost treasure",
+      "authority_plane": "performed replay hazard and dependent art",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S059",
+          "spine_position": 59,
+          "printed_page": "057",
+          "original_uncoded_notes_exact": [
+            "Romance/prince framing motivates risky approach, knowledge success followedby physicalslip; persistent cosmetic shame differsfrommechanicaldebuff."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S060",
+          "spine_position": 60,
+          "printed_page": "058",
+          "original_uncoded_notes_exact": [
+            "Displayed strengthsolveslock whilelackofprecautioncausesblast; fear-drivenprotectorturnslearnedteamworkintoactualzero-damage rescue, mageuninvolvedinattackstillpayssmallcost."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S061",
+          "spine_position": 61,
+          "printed_page": "059",
+          "original_uncoded_notes_exact": [
+            "Comic visual aftermath and concerned companion; dependent on preceding narrated event."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S062",
+          "spine_position": 62,
+          "printed_page": "060",
+          "original_uncoded_notes_exact": [
+            "Romance/appearance concern displaces physical care; hypothetical five-ruby reward contrasted with actual two; beauty/health analogy challenged, not scientific authority."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S059",
+          "printed_page": "057",
+          "native_wrapper_member": "item/xhtml/p-057.xhtml",
+          "native_image_member": "item/image/i-057.jpg",
+          "image_sha256": "0e22505ca41518b432b60ac23b109fdd25b302c608da641184dc59aec593773d"
+        },
+        {
+          "component_id": "TRPG-CORE-S060",
+          "printed_page": "058",
+          "native_wrapper_member": "item/xhtml/p-058.xhtml",
+          "native_image_member": "item/image/i-058.jpg",
+          "image_sha256": "22c0143d5cbebd91737e03c46c8383554651be353cd5c548f2e0af785cc445d8"
+        },
+        {
+          "component_id": "TRPG-CORE-S061",
+          "printed_page": "059",
+          "native_wrapper_member": "item/xhtml/p-059.xhtml",
+          "native_image_member": "item/image/i-059.jpg",
+          "image_sha256": "40ed6003163f23eb4e7bc2accaf2610e9501c41b28e1df26297a7a1102442544"
+        },
+        {
+          "component_id": "TRPG-CORE-S062",
+          "printed_page": "060",
+          "native_wrapper_member": "item/xhtml/p-060.xhtml",
+          "native_image_member": "item/image/i-060.jpg",
+          "image_sha256": "4888c1f7dd062c62ede151bee3e4d42159ff4bc6133996df312d09d3909b46ce"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U025",
+      "source": "TRPG-CORE",
+      "spine_start": 63,
+      "spine_end": 65,
+      "printed_start": "061",
+      "printed_end": "063",
+      "premise": "Diary privacy, wish-to-king wordplay and imagined romantic restoration reconstruct the antagonist",
+      "authority_plane": "GM-reported background with performed diary intrusion",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S063",
+          "spine_position": 63,
+          "printed_page": "061",
+          "original_uncoded_notes_exact": [
+            "Learned precaution after avoidable blast; mundane domestic room comparison; actual antagonist affiliation displaces unsupported religious conspiracy."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S064",
+          "spine_position": 64,
+          "printed_page": "062",
+          "original_uncoded_notes_exact": [
+            "Feigning accidental invasion of privacy after explicit objection; wish/king wordplay defeats ambition; religious affiliation banter."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S065",
+          "spine_position": 65,
+          "printed_page": "063",
+          "original_uncoded_notes_exact": [
+            "Pun-return on frog transformation; dangerous antagonist becomes Temiren romance-prince hope, socially abrasive Gilbert welcomes insult; methodical evil research contrasts whimsical curse."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S063",
+          "printed_page": "061",
+          "native_wrapper_member": "item/xhtml/p-061.xhtml",
+          "native_image_member": "item/image/i-061.jpg",
+          "image_sha256": "2fb6b7231a87510686161a469ea6d83238d499b8aa466dd4207b6a8c03a64f53"
+        },
+        {
+          "component_id": "TRPG-CORE-S064",
+          "printed_page": "062",
+          "native_wrapper_member": "item/xhtml/p-062.xhtml",
+          "native_image_member": "item/image/i-062.jpg",
+          "image_sha256": "f7b8ba1a9b414094b61d047daef421b2cadd6fdcede4979641d7ad8b91054b73"
+        },
+        {
+          "component_id": "TRPG-CORE-S065",
+          "printed_page": "063",
+          "native_wrapper_member": "item/xhtml/p-063.xhtml",
+          "native_image_member": "item/image/i-063.jpg",
+          "image_sha256": "e41f8251f2ba5ce11d1828bf3eefb89901fc2a81ff04dbbc76d08947a2061a3e"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U026",
+      "source": "TRPG-CORE",
+      "spine_start": 66,
+      "spine_end": 66,
+      "printed_start": "064",
+      "printed_end": "064",
+      "premise": "Openly improvised sectarian insult suddenly supplies religious urgency",
+      "authority_plane": "GM improvisation and performed PC response",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S066",
+          "spine_position": 66,
+          "printed_page": "064",
+          "original_uncoded_notes_exact": [
+            "Intellectual reconstruction of frog-oriented puzzles; explicit improvisation supplies religion insult, instantly mobilizing indifferent priest; pragmatic group containment follows."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S066",
+          "printed_page": "064",
+          "native_wrapper_member": "item/xhtml/p-064.xhtml",
+          "native_image_member": "item/image/i-064.jpg",
+          "image_sha256": "2755a2337a191a9870cc8f6381fe1a60d29df4249752c9b969c15eb2b4e802c0"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U027",
+      "source": "TRPG-CORE",
+      "spine_start": 67,
+      "spine_end": 69,
+      "printed_start": "065",
+      "printed_end": "067",
+      "premise": "Rescue mission becomes a grotesque amusement-park conception adopted at the table",
+      "authority_plane": "performed replay confrontation and improvised prospective plan",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S067",
+          "spine_position": 67,
+          "printed_page": "065",
+          "original_uncoded_notes_exact": [
+            "Cautious hero loses mission thread and needs practical reminder; regal staging reduced to pipechair and threatened cow hotpot."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S068",
+          "spine_position": 68,
+          "printed_page": "066",
+          "original_uncoded_notes_exact": [
+            "Unplanned enemy sophistication amuses players; attack declaration interrupts conversation, rules reopen it during setup."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S069",
+          "spine_position": 69,
+          "printed_page": "067",
+          "original_uncoded_notes_exact": [
+            "Learning monster breaks beginner tactic without changedstats; cute themepark pun becomes disturbing inversion, adopted live rather than fixed original backstory."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S067",
+          "printed_page": "065",
+          "native_wrapper_member": "item/xhtml/p-065.xhtml",
+          "native_image_member": "item/image/i-065.jpg",
+          "image_sha256": "03b65d504f144ec9fd7be3edc603e49f05a74d875ba283aded112e75f2ceb9a1"
+        },
+        {
+          "component_id": "TRPG-CORE-S068",
+          "printed_page": "066",
+          "native_wrapper_member": "item/xhtml/p-066.xhtml",
+          "native_image_member": "item/image/i-066.jpg",
+          "image_sha256": "cc66521a15d684cb576b1f02a299caed73c34cbe9e000d8d08394222dcd41175"
+        },
+        {
+          "component_id": "TRPG-CORE-S069",
+          "printed_page": "067",
+          "native_wrapper_member": "item/xhtml/p-067.xhtml",
+          "native_image_member": "item/image/i-067.jpg",
+          "image_sha256": "59d7f4f4bc3f6a08119eac6be10dc1905d7300c66372a072a576901bcde11586"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U028",
+      "source": "TRPG-CORE",
+      "spine_start": 70,
+      "spine_end": 70,
+      "printed_start": "068",
+      "printed_end": "068",
+      "premise": "A frightening face cancels a boss buff while the priest’s own strike disappoints",
+      "authority_plane": "performed replay combat",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S070",
+          "spine_position": 70,
+          "printed_page": "068",
+          "original_uncoded_notes_exact": [
+            "Monstrous king panics at priest's face; successful disruptive support juxtaposed with weak physical strike and wasted luckyresource."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S070",
+          "printed_page": "068",
+          "native_wrapper_member": "item/xhtml/p-068.xhtml",
+          "native_image_member": "item/image/i-068.jpg",
+          "image_sha256": "268e2c76984dd3afb1ea1ab23b76562f7edd4bf648222bc8fa4195bb3f8a1804"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U029",
+      "source": "TRPG-CORE",
+      "spine_start": 71,
+      "spine_end": 72,
+      "printed_start": "069",
+      "printed_end": "070",
+      "premise": "Handsome-prince rescue proposal meets refusal and mechanically powerful magic",
+      "authority_plane": "performed replay roleplay and combat",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S071",
+          "spine_position": 71,
+          "printed_page": "069",
+          "original_uncoded_notes_exact": [
+            "Romance salvation attempt undone by appearance revelation and owninconsistentprince criteria; mechanically conspicuous14dice promptsdesigner-accountability joke."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S072",
+          "spine_position": 72,
+          "printed_page": "070",
+          "original_uncoded_notes_exact": [
+            "Romance-princelyframing pays spellpower mechanically; narrowquestcompletion doesn'tend broader rescue; prematurebossvictoryformula reversed bycriticaldodge."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S071",
+          "printed_page": "069",
+          "native_wrapper_member": "item/xhtml/p-069.xhtml",
+          "native_image_member": "item/image/i-069.jpg",
+          "image_sha256": "9e77ab32d860535cbbceb3b9aef482ac589160f452e6a2d103565ed50ba96f3a"
+        },
+        {
+          "component_id": "TRPG-CORE-S072",
+          "printed_page": "070",
+          "native_wrapper_member": "item/xhtml/p-070.xhtml",
+          "native_image_member": "item/image/i-070.jpg",
+          "image_sha256": "793d1433dd88852b199a8685485e02ed450bc05912ef4df0171d0eb250439a7d"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U030",
+      "source": "TRPG-CORE",
+      "spine_start": 73,
+      "spine_end": 73,
+      "printed_start": "071",
+      "printed_end": "071",
+      "premise": "A fearful protector claims growth while another accepts a miss for social praise",
+      "authority_plane": "performed replay roleplay",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S073",
+          "spine_position": 73,
+          "printed_page": "071",
+          "original_uncoded_notes_exact": [
+            "Terrifying priest as romanceprince; hesitant warriorbrieflyclaimsnewteamconfidence; Chioacceptsmissedattackbecauseotherscalledhercool."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S073",
+          "printed_page": "071",
+          "native_wrapper_member": "item/xhtml/p-071.xhtml",
+          "native_image_member": "item/image/i-071.jpg",
+          "image_sha256": "8fc8eaa4a12d73b8d174c85cd02840dc012fc22128e75eb5990615b0eb21428d"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U031",
+      "source": "TRPG-CORE",
+      "spine_start": 74,
+      "spine_end": 75,
+      "printed_start": "072",
+      "printed_end": "073",
+      "premise": "Cold-versus-health dispute precedes deliberate cover, apparent death and costly return",
+      "authority_plane": "performed replay roleplay and combat",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S074",
+          "spine_position": 74,
+          "printed_page": "072",
+          "original_uncoded_notes_exact": [
+            "Literalhealthclaimassailedbyordinarycoldquestion; secondactioninterruptsconfidence; prioraccidentrepeatedasintentionalrescue."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S075",
+          "spine_position": 75,
+          "printed_page": "073",
+          "original_uncoded_notes_exact": [
+            "Coward'scostlyrescuebecomesapparentlaststandthenloudself-preservationandnewskin;abusivecomicpriestunexpectedlycreditedwithfaithawakening."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S074",
+          "printed_page": "072",
+          "native_wrapper_member": "item/xhtml/p-072.xhtml",
+          "native_image_member": "item/image/i-072.jpg",
+          "image_sha256": "aca09e65e7c2ddc86f9eaa1c8e89cea65abfe36e40d0f09e181bbfa833ca2a4c"
+        },
+        {
+          "component_id": "TRPG-CORE-S075",
+          "printed_page": "073",
+          "native_wrapper_member": "item/xhtml/p-073.xhtml",
+          "native_image_member": "item/image/i-073.jpg",
+          "image_sha256": "f9aa85a97137e19737c2dc0bf07217d46eed18b355180ee563e63c6c1ab5440e"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U032",
+      "source": "TRPG-CORE",
+      "spine_start": 76,
+      "spine_end": 77,
+      "printed_start": "074",
+      "printed_end": "075",
+      "premise": "Effective cult healing and familiar frog humiliation correct triumphal religious claims",
+      "authority_plane": "performed replay with metatextual main-series reference",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S076",
+          "spine_position": 76,
+          "printed_page": "074",
+          "original_uncoded_notes_exact": [
+            "Conversioncelebrationimmediatelypredictscomicfailure; religiousinvulnerabilityboastunderminedbyknownfrog humiliation andmetafictionalauthorrequest."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S077",
+          "spine_position": 77,
+          "printed_page": "075",
+          "original_uncoded_notes_exact": [
+            "Unexpectedlyeffectivepriestendangersthecomicfaith'sreputation;gooddamage/poorrollvariationratherthanfixedtraitoutcomes."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S076",
+          "printed_page": "074",
+          "native_wrapper_member": "item/xhtml/p-074.xhtml",
+          "native_image_member": "item/image/i-074.jpg",
+          "image_sha256": "cd91f3d79afb49bb8018a5b0372c531d8938281688774cebbf0bfad9cc58b115"
+        },
+        {
+          "component_id": "TRPG-CORE-S077",
+          "printed_page": "075",
+          "native_wrapper_member": "item/xhtml/p-075.xhtml",
+          "native_image_member": "item/image/i-075.jpg",
+          "image_sha256": "e78f58809d98cab955d6212dad4bd24fa3af70e0efcfa7c629415fa0fdc3f01d"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "tabletop convention",
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U033",
+      "source": "TRPG-CORE",
+      "spine_start": 78,
+      "spine_end": 80,
+      "printed_start": "076",
+      "printed_end": "078",
+      "premise": "Chosen failed evasion, mutual cover and exact shield enable a real group victory",
+      "authority_plane": "performed replay combat and explicitly spotlight-oriented player choice",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S078",
+          "spine_position": 78,
+          "printed_page": "076",
+          "original_uncoded_notes_exact": [
+            "Boast'sliteralqualificationafterfailure;frighteningfaceblocksnewfriend;playerintentionallycedesavoidanceformotivatedprotector spotlight, notrandomobservationaltrial."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S080",
+          "spine_position": 80,
+          "printed_page": "078",
+          "original_uncoded_notes_exact": [
+            "Conditionalfaithsolidaritybecomestimedprotection;enemy'sowngunkcauseshumiliation;effectivehumancooperationrelabelledsectarianmiracleagainstChio'scorrection."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S078",
+          "printed_page": "076",
+          "native_wrapper_member": "item/xhtml/p-076.xhtml",
+          "native_image_member": "item/image/i-076.jpg",
+          "image_sha256": "9776ab0d5106abd943eec288aa40843c74214eda1487adcceadd910b9b093510"
+        },
+        {
+          "component_id": "TRPG-CORE-S079",
+          "printed_page": "077",
+          "native_wrapper_member": "item/xhtml/p-077.xhtml",
+          "native_image_member": "item/image/i-077.jpg",
+          "image_sha256": "1ec4a8976361fdc7c0c6deac88a28a0e959d01d2e8d33f89957c0e92908c39f7"
+        },
+        {
+          "component_id": "TRPG-CORE-S080",
+          "printed_page": "078",
+          "native_wrapper_member": "item/xhtml/p-078.xhtml",
+          "native_image_member": "item/image/i-078.jpg",
+          "image_sha256": "b24e4cd10facb820566a9e029230f77a8bdb276d9fb454fb46ac0fb8f319d0ae"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U034",
+      "source": "TRPG-CORE",
+      "spine_start": 81,
+      "spine_end": 81,
+      "printed_start": "079",
+      "printed_end": "079",
+      "premise": "Failed loot, a spared frog and learned companionship follow the victory",
+      "authority_plane": "performed replay ending",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S081",
+          "spine_position": 81,
+          "printed_page": "079",
+          "original_uncoded_notes_exact": [
+            "Fantasyrewardexpectationandtalkingcowhedged;solefailedlootrollafterreligioussuccess;materialprofitcontrastedwithlearnedcompanionship."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S081",
+          "printed_page": "079",
+          "native_wrapper_member": "item/xhtml/p-079.xhtml",
+          "native_image_member": "item/image/i-079.jpg",
+          "image_sha256": "2d46d4e83f347a7bc2f11a7ff66810e5f225d9b0fbd1ae7f1d1f8e7f9349cee3"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U035",
+      "source": "TRPG-CORE",
+      "spine_start": 82,
+      "spine_end": 83,
+      "printed_start": "080",
+      "printed_end": "081",
+      "premise": "Cow rescue receives an improvised bonus, while heroic rank inflation meets clerical doubt",
+      "authority_plane": "performed replay ending and GM editorial explanation",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S082",
+          "spine_position": 82,
+          "printed_page": "080",
+          "original_uncoded_notes_exact": [
+            "Heroicquestreturns to mundaneGuildpaperwork andvaluablecow;extrarewardreframesdangerousdetourprofitably."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S083",
+          "spine_position": 83,
+          "printed_page": "081",
+          "original_uncoded_notes_exact": [
+            "Rewardsandantagonistrankopenlyrevised/embellished,clericalskepticismunderminesheroaccount;practicalfraternitybecomessectarianzeal."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S082",
+          "printed_page": "080",
+          "native_wrapper_member": "item/xhtml/p-080.xhtml",
+          "native_image_member": "item/image/i-080.jpg",
+          "image_sha256": "54a2f25a1bdb0af902c754a04ce6c7d9282e3daae59b4166c45ef64e25654a9f"
+        },
+        {
+          "component_id": "TRPG-CORE-S083",
+          "printed_page": "081",
+          "native_wrapper_member": "item/xhtml/p-081.xhtml",
+          "native_image_member": "item/image/i-081.jpg",
+          "image_sha256": "d63957db0fb1a51a4c9e4897b6462601b524482c33076cdacefb76a1e767e413"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "tabletop convention",
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U036",
+      "source": "TRPG-CORE",
+      "spine_start": 84,
+      "spine_end": 84,
+      "printed_start": "082",
+      "printed_end": "082",
+      "premise": "New converts discover the desired party trick requires a skill they lack",
+      "authority_plane": "performed replay roleplay and prospective advancement",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S084",
+          "spine_position": 84,
+          "printed_page": "082",
+          "original_uncoded_notes_exact": [
+            "Religiousproperconductrequiresunlearnedpartytrick,exposescompetencegapafterheroicconversion;futurebuilddevotedtorevelry."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S084",
+          "printed_page": "082",
+          "native_wrapper_member": "item/xhtml/p-082.xhtml",
+          "native_image_member": "item/image/i-082.jpg",
+          "image_sha256": "4c756fe3513eeb0a7f6f70043eef10837efbc947b4703d4943a8eb1704c4a15b"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "tabletop convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U037",
+      "source": "TRPG-CORE",
+      "spine_start": 87,
+      "spine_end": 87,
+      "printed_start": "085",
+      "printed_end": "085",
+      "premise": "Aqua turns neutral character creation into recruitment and Eris reopens choice",
+      "authority_plane": "staged character commentary",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S087",
+          "spine_position": 87,
+          "printed_page": "085",
+          "original_uncoded_notes_exact": [
+            "Aquaappropriatesneutralcharactercreationforsectrecruitment,Erisgentlyreopenschoice."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S087",
+          "printed_page": "085",
+          "native_wrapper_member": "item/xhtml/p-085.xhtml",
+          "native_image_member": "item/image/i-085.jpg",
+          "image_sha256": "c826119ddbeec300b4c5f0ae50eed29e52e42e8dca24e0346e9b5ff2f1f1134a"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U038",
+      "source": "TRPG-CORE",
+      "spine_start": 95,
+      "spine_end": 95,
+      "printed_start": "093",
+      "printed_end": "093",
+      "premise": "Axis outsider reputation qualifies a triumphal cult replay",
+      "authority_plane": "world reference, not a new event",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S095",
+          "spine_position": 95,
+          "printed_page": "093",
+          "original_uncoded_notes_exact": [
+            "Axisoutsiderreputationasavoidablyunhingedcontrastsreplayfaithtriumph;referenceplane ratherthanperformedscene."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S095",
+          "printed_page": "093",
+          "native_wrapper_member": "item/xhtml/p-093.xhtml",
+          "native_image_member": "item/image/i-093.jpg",
+          "image_sha256": "078f09585ddc0b626bd954df67bde4158ea087c0f7183dd80ef439ce0e4d068f"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U039",
+      "source": "TRPG-CORE",
+      "spine_start": 103,
+      "spine_end": 103,
+      "printed_start": "101",
+      "printed_end": "101",
+      "premise": "Generic adventurer’s bold offer immediately includes self-doubt",
+      "authority_plane": "archetype vignette",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S103",
+          "spine_position": 103,
+          "printed_page": "101",
+          "original_uncoded_notes_exact": [
+            "Confidentproposalqualifiedbycasualselfdoubt;granddestinycontrastedwithordinarylivelihood,archetypeflavornotobservedbehavior."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S103",
+          "printed_page": "101",
+          "native_wrapper_member": "item/xhtml/p-101.xhtml",
+          "native_image_member": "item/image/i-101.jpg",
+          "image_sha256": "450138eacfba441a64d0f7bf8c1496a610eea6223864817e22ebb73b96582d08"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U040",
+      "source": "TRPG-CORE",
+      "spine_start": 105,
+      "spine_end": 105,
+      "printed_start": "103",
+      "printed_end": "103",
+      "premise": "Chosen hero ambition meets mundane equipment expectations",
+      "authority_plane": "archetype vignette",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S105",
+          "spine_position": 105,
+          "printed_page": "103",
+          "original_uncoded_notes_exact": [
+            "Grandhero declarationgrantedmundaneironicqualificationaboutbasicweapon/equipment."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S105",
+          "printed_page": "103",
+          "native_wrapper_member": "item/xhtml/p-103.xhtml",
+          "native_image_member": "item/image/i-103.jpg",
+          "image_sha256": "c7ecea916df012d703778ee3337d1e6adff9537dc6651d54d89c78936fd33507"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U041",
+      "source": "TRPG-CORE",
+      "spine_start": 107,
+      "spine_end": 107,
+      "printed_start": "105",
+      "printed_end": "105",
+      "premise": "Cosmic Crimson chant narrows to a drawn-out Fireball",
+      "authority_plane": "archetype vignette",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S107",
+          "spine_position": 107,
+          "printed_page": "105",
+          "original_uncoded_notes_exact": [
+            "Grandchantpuncturedbyspelled-outtiminganddrawnoutordinaryFireball;uniquedestinyclaimmadecommonstereotype."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S107",
+          "printed_page": "105",
+          "native_wrapper_member": "item/xhtml/p-105.xhtml",
+          "native_image_member": "item/image/i-105.jpg",
+          "image_sha256": "6d666f29fcfecace17681f727b2e885a94bd901b7a740ac874098d840b92bd6c"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U042",
+      "source": "TRPG-CORE",
+      "spine_start": 111,
+      "spine_end": 111,
+      "printed_start": "109",
+      "printed_end": "109",
+      "premise": "Sinister thief presentation is corrected to legitimate work and a yawn",
+      "authority_plane": "archetype vignette",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S111",
+          "spine_position": 111,
+          "printed_page": "109",
+          "original_uncoded_notes_exact": [
+            "Sinistervisual/laughtercorrectedwithlegitimateprofession;communalpartyandabsoluteindividualriskcoexist."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S111",
+          "printed_page": "109",
+          "native_wrapper_member": "item/xhtml/p-109.xhtml",
+          "native_image_member": "item/image/i-109.jpg",
+          "image_sha256": "90043dd988b0f0c1f9b236bc829fb426789f22800f4df8484ed7059d19c08d56"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U043",
+      "source": "TRPG-CORE",
+      "spine_start": 113,
+      "spine_end": 113,
+      "printed_start": "111",
+      "printed_end": "111",
+      "premise": "Many extravagant reincarnation routes return to a simple chair",
+      "authority_plane": "optional lifepath miniature collection",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S113",
+          "spine_position": 113,
+          "printed_page": "111",
+          "original_uncoded_notes_exact": [
+            "Diversegrand/banaloriginsrepeatedlycollapseintothesamesimplechair;meteorwishthreatandmistakendivineaddressundercutdestiny."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S113",
+          "printed_page": "111",
+          "native_wrapper_member": "item/xhtml/p-111.xhtml",
+          "native_image_member": "item/image/i-111.jpg",
+          "image_sha256": "a7ccdef7d92f8bbab8cf128063be66e4945a5676a40a6d90ad6d7d02774c9f4f"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U044",
+      "source": "TRPG-CORE",
+      "spine_start": 115,
+      "spine_end": 115,
+      "printed_start": "113",
+      "printed_end": "113",
+      "premise": "Crimson family prestige includes mockery, poverty and a killing-guest pun",
+      "authority_plane": "optional lifepath miniature collection",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S115",
+          "spine_position": 115,
+          "printed_page": "113",
+          "original_uncoded_notes_exact": [
+            "Prestigiousheritageundercutbyname/mockery,unsafeproducts,povertyandkilling-guestreversal."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S115",
+          "printed_page": "113",
+          "native_wrapper_member": "item/xhtml/p-113.xhtml",
+          "native_image_member": "item/image/i-113.jpg",
+          "image_sha256": "97c73bcc10d4da6584237457b2ca335f7bb3927f2f7feaba3eb7d2589036dc11"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U045",
+      "source": "TRPG-CORE",
+      "spine_start": 116,
+      "spine_end": 116,
+      "printed_start": "114",
+      "printed_end": "114",
+      "premise": "Revelation confidence and remembered success are explicitly hedged",
+      "authority_plane": "optional lifepath miniature collection",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S116",
+          "spine_position": 116,
+          "printed_page": "114",
+          "original_uncoded_notes_exact": [
+            "Destinyvoicecertaintyundercutbyprobably;prestigioussuccesswithoutmemory;knowinggoddesssecretpromisesdangerwithoutrevealedcontent."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S116",
+          "printed_page": "114",
+          "native_wrapper_member": "item/xhtml/p-114.xhtml",
+          "native_image_member": "item/image/i-114.jpg",
+          "image_sha256": "b3b5fb868623c136e37b76e367db37e3330b0e856d9da7dd8664fb86c3151d1f"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U046",
+      "source": "TRPG-CORE",
+      "spine_start": 117,
+      "spine_end": 117,
+      "printed_start": "115",
+      "printed_end": "115",
+      "premise": "Money rationalization and grand destiny coexist with coercion and a legitimate absence of ambition",
+      "authority_plane": "optional motive miniature collection",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S117",
+          "spine_position": 117,
+          "printed_page": "115",
+          "original_uncoded_notes_exact": [
+            "Moneycan'tbuyeverything dismissed asnotwantedanyway;vowtoholdambitionbalancedbycontentedno-goaloption."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S117",
+          "printed_page": "115",
+          "native_wrapper_member": "item/xhtml/p-115.xhtml",
+          "native_image_member": "item/image/i-115.jpg",
+          "image_sha256": "83da1f9885d5754576492592e2bba44e60f45443edce15aa6f8c33f2a4a0a06a"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U047",
+      "source": "TRPG-CORE",
+      "spine_start": 132,
+      "spine_end": 132,
+      "printed_start": "130",
+      "printed_end": "130",
+      "premise": "Magical racial prestige is paired with unusual naming conventions",
+      "authority_plane": "world/race reference",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S132",
+          "spine_position": 132,
+          "printed_page": "130",
+          "original_uncoded_notes_exact": [
+            "Highlypotentmagicalracejuxtaposedwithweirdnamingascomicworldreference."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S132",
+          "printed_page": "130",
+          "native_wrapper_member": "item/xhtml/p-130.xhtml",
+          "native_image_member": "item/image/i-130.jpg",
+          "image_sha256": "14b07228cdcb22cb64bd084bf5376ff6fa0a21db2d6c2291093bde58a81f7346"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U048",
+      "source": "TRPG-CORE",
+      "spine_start": 134,
+      "spine_end": 134,
+      "printed_start": "132",
+      "printed_end": "132",
+      "premise": "Low-prestige beginner occupation is difficult for experienced game players",
+      "authority_plane": "class reference and adaptation comment",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S134",
+          "spine_position": 134,
+          "printed_page": "132",
+          "original_uncoded_notes_exact": [
+            "Lowprestigebeginnerworldclasscounterposedtoexpert-playerbuilddifficulty;adaptationself-correctionexplicit."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S134",
+          "printed_page": "132",
+          "native_wrapper_member": "item/xhtml/p-132.xhtml",
+          "native_image_member": "item/image/i-132.jpg",
+          "image_sha256": "d9aaae17b807b6ad3cccb2af124e22d214810cab36a6416c2a7baacc6cab391f"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U049",
+      "source": "TRPG-CORE",
+      "spine_start": 142,
+      "spine_end": 142,
+      "printed_start": "140",
+      "printed_end": "140",
+      "premise": "Necessary healing and priest scarcity permit a reported free-riding market",
+      "authority_plane": "class reference with rumor qualification",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S142",
+          "spine_position": 142,
+          "printed_page": "140",
+          "original_uncoded_notes_exact": [
+            "Piousscarcerescueralsohasmarketpowerandpotentialfreeriding,religiousidealundercutwithoutdenyingfunction."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S142",
+          "printed_page": "140",
+          "native_wrapper_member": "item/xhtml/p-140.xhtml",
+          "native_image_member": "item/image/i-140.jpg",
+          "image_sha256": "c38dfd6cb34f89048a7bcb1ae48bc820a65e4b2b1c9fd1be077deadd8f721a7d"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U050",
+      "source": "TRPG-CORE",
+      "spine_start": 171,
+      "spine_end": 171,
+      "printed_start": "169",
+      "printed_end": "169",
+      "premise": "Faith benefits coexist with socially qualified reputational penalties",
+      "authority_plane": "rule/reference flavor",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S171",
+          "spine_position": 171,
+          "printed_page": "169",
+          "original_uncoded_notes_exact": [
+            "Divineprotectionbenefitcarryingsocialreputationalpenalty,optionalGM-constrainedruleflavor."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S171",
+          "printed_page": "169",
+          "native_wrapper_member": "item/xhtml/p-169.xhtml",
+          "native_image_member": "item/image/i-169.jpg",
+          "image_sha256": "deb098565beb4dad0b070f37b6cba68a0461458aa6c72d4ffbe1960e82077673"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U051",
+      "source": "TRPG-CORE",
+      "spine_start": 200,
+      "spine_end": 200,
+      "printed_start": "198",
+      "printed_end": "198",
+      "premise": "Powerful goddess identity meets disbelief and blasphemy treatment",
+      "authority_plane": "optional cheat template",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S200",
+          "spine_position": 200,
+          "printed_page": "198",
+          "original_uncoded_notes_exact": [
+            "Optional goddess power paired with social disbelief/avoidance; reversal premise fixed here, not original-fiction scene."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S200",
+          "printed_page": "198",
+          "native_wrapper_member": "item/xhtml/p-198.xhtml",
+          "native_image_member": "item/image/i-198.jpg",
+          "image_sha256": "2a62947c238accefefca27a2957e2934458ecc486cdb9b1955b453767f9344e4"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U052",
+      "source": "TRPG-CORE",
+      "spine_start": 201,
+      "spine_end": 201,
+      "printed_start": "199",
+      "printed_end": "199",
+      "premise": "Pain-derived survival and royal power carry impairment and resource costs",
+      "authority_plane": "optional cheat templates",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S201",
+          "spine_position": 201,
+          "printed_page": "199",
+          "original_uncoded_notes_exact": [
+            "Pain pleasure translated to both survival advantage and impaired combat accuracy, optional template rather than observed Darkness reaction.",
+            "Royal lineage power made contingent on costly lifestyle, status/resource inversion."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S201",
+          "printed_page": "199",
+          "native_wrapper_member": "item/xhtml/p-199.xhtml",
+          "native_image_member": "item/image/i-199.jpg",
+          "image_sha256": "27145d85a2f672b8d8c5999629f1fd322e8ed25f00868bc3f301aef6500a0158"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U053",
+      "source": "TRPG-CORE",
+      "spine_start": 203,
+      "spine_end": 203,
+      "printed_start": "201",
+      "printed_end": "201",
+      "premise": "Villainous intimidation and production wealth come with economic restrictions",
+      "authority_plane": "optional cheat templates",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S203",
+          "spine_position": 203,
+          "printed_page": "201",
+          "original_uncoded_notes_exact": [
+            "Terrifying-villain advantage paired with social/economic exclusion; production wealth tied to inability to waive quest reward."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S203",
+          "printed_page": "201",
+          "native_wrapper_member": "item/xhtml/p-201.xhtml",
+          "native_image_member": "item/image/i-201.jpg",
+          "image_sha256": "40e14fc18a510681af44fc2b7e5955161584f3cfca9267612ae42ed761ca0ca2"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U054",
+      "source": "TRPG-CORE",
+      "spine_start": 204,
+      "spine_end": 204,
+      "printed_start": "202",
+      "printed_end": "202",
+      "premise": "Overvaluation and borrowed fortune grant power while exposing the user",
+      "authority_plane": "optional cheat templates",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S204",
+          "spine_position": 204,
+          "printed_page": "202",
+          "original_uncoded_notes_exact": [
+            "Overvaluation makes commands accepted but makes user more hittable; borrowing fortune can become literal fatal debt."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S204",
+          "printed_page": "202",
+          "native_wrapper_member": "item/xhtml/p-202.xhtml",
+          "native_image_member": "item/image/i-202.jpg",
+          "image_sha256": "5424496f4b5b6e1d4e10dffe996711743f4f659cfb8d8487c9e9f3522d0b91bc"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U055",
+      "source": "TRPG-CORE",
+      "spine_start": 205,
+      "spine_end": 205,
+      "printed_start": "203",
+      "printed_end": "203",
+      "premise": "Vanir’s exploitative rules advice earns Kazuma’s corrective retort",
+      "authority_plane": "staged character commentary",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S205",
+          "spine_position": 205,
+          "printed_page": "203",
+          "original_uncoded_notes_exact": [
+            "Vanir's exploitative study advice turns neutral rules introduction into Kazuma's corrective retort; V→reader, K→V. Short forms 裏をかく / この悪魔."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S205",
+          "printed_page": "203",
+          "native_wrapper_member": "item/xhtml/p-203.xhtml",
+          "native_image_member": "item/image/i-203.jpg",
+          "image_sha256": "b6560934e4481de4c2ba3bd88de5cc2737e03bffe9ccbb89203e20d4df133f72"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U056",
+      "source": "TRPG-CORE",
+      "spine_start": 251,
+      "spine_end": 251,
+      "printed_start": "249",
+      "printed_end": "249",
+      "premise": "Helpful reading advice includes an openly promotional aside",
+      "authority_plane": "staged character commentary",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S251",
+          "spine_position": 251,
+          "printed_page": "249",
+          "original_uncoded_notes_exact": [
+            "Chris appends explicit 宣伝 to helpful recommendation; mild fourth-wall promotional wink."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S251",
+          "printed_page": "249",
+          "native_wrapper_member": "item/xhtml/p-249.xhtml",
+          "native_image_member": "item/image/i-249.jpg",
+          "image_sha256": "ec33eff61ef18be4a8370c5daa68cddb6ed2da9d0335f8d50c0d2cca54ad1e1c"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U057",
+      "source": "TRPG-CORE",
+      "spine_start": 252,
+      "spine_end": 253,
+      "printed_start": "250",
+      "printed_end": "251",
+      "premise": "Heroic arrival collapses into survival, anger at the goddess and a mock ending",
+      "authority_plane": "world-guide second-person fiction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S252",
+          "spine_position": 252,
+          "printed_page": "250",
+          "original_uncoded_notes_exact": [
+            "Epic arrival/holy weapon reduced walkingstick and collapse; apparent rescue accompanied desirehitgoddess; narrator mockfalseending then adventurebegins."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S253",
+          "spine_position": 253,
+          "printed_page": "251",
+          "original_uncoded_notes_exact": [
+            "Agrandgoddessdeclarationcollapsesintofrightenedhelprequestbeforeclenchedfist; キミ approachcontext,nodirecthitneeded.",
+            "Narratordigestlikedeathvisionbutyoualreadydead, explicit metanarrative correction."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S252",
+          "printed_page": "250",
+          "native_wrapper_member": "item/xhtml/p-250.xhtml",
+          "native_image_member": "item/image/i-250.jpg",
+          "image_sha256": "884a961d5a1f27585634f8dfd3e826b685d38cca51d58dade3bd63eea9af0844"
+        },
+        {
+          "component_id": "TRPG-CORE-S253",
+          "printed_page": "251",
+          "native_wrapper_member": "item/xhtml/p-251.xhtml",
+          "native_image_member": "item/image/i-251.jpg",
+          "image_sha256": "d21cfabe0c9626fef548b8af15028d7fcd52f73d153fb574e0494e43e6950ce4"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U058",
+      "source": "TRPG-CORE",
+      "spine_start": 254,
+      "spine_end": 254,
+      "printed_start": "252",
+      "printed_end": "252",
+      "premise": "A promised safe arrival fails and divine dignity becomes a childlike apology",
+      "authority_plane": "world-guide second-person fiction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S254",
+          "spine_position": 254,
+          "printed_page": "252",
+          "original_uncoded_notes_exact": [
+            "God'ssafe-startofferundoneby あっやばっ and genuinelycostlyarrival; sign/kneelingapologyinvertsdivinity; apology'schildlikearticulationandgoddessweakvictimrefrain."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S254",
+          "printed_page": "252",
+          "native_wrapper_member": "item/xhtml/p-252.xhtml",
+          "native_image_member": "item/image/i-252.jpg",
+          "image_sha256": "08fa2d3587c8e207068e5d62d31270b73d99f18631e34506445c7590586f33b6"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U059",
+      "source": "TRPG-CORE",
+      "spine_start": 255,
+      "spine_end": 255,
+      "printed_start": "253",
+      "printed_end": "253",
+      "premise": "Kindly expert guidance turns out to be paid and imperfect",
+      "authority_plane": "world-guide second-person fiction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S255",
+          "spine_position": 255,
+          "printed_page": "253",
+          "original_uncoded_notes_exact": [
+            "Apparentkindnessrevealedpaidtour500E; uninformedguidewoundedbyaccuratecorrection.",
+            "Fantasyclicheoverviewquietlyincludesmovingcabbageand 'draggeddownfoolishgoddess', Aobjects."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S255",
+          "printed_page": "253",
+          "native_wrapper_member": "item/xhtml/p-253.xhtml",
+          "native_image_member": "item/image/i-253.jpg",
+          "image_sha256": "969f9d29dd0b8fdcb1e73cf420ff928d0787e8368cde55b1e64c4ba1382ffb99"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U060",
+      "source": "TRPG-CORE",
+      "spine_start": 256,
+      "spine_end": 257,
+      "printed_start": "254",
+      "printed_end": "255",
+      "premise": "Grand magical presentation and tactful name praise coexist with loneliness and mundane decoration",
+      "authority_plane": "world-guide second-person fiction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S256",
+          "spine_position": 256,
+          "printed_page": "254",
+          "original_uncoded_notes_exact": [
+            "MheroicentrancejuxtaposedlunchlonelinessandGuildwayfinding; eye-sealromanticinferencepuncturedbyKdecorativepatchfactbeforeMqualification."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S257",
+          "spine_position": 257,
+          "printed_page": "255",
+          "original_uncoded_notes_exact": [
+            "Careful euphemistic namepraise accepted literally; AselfcongratulationunderminedKexpression/pastdifficulty."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S256",
+          "printed_page": "254",
+          "native_wrapper_member": "item/xhtml/p-254.xhtml",
+          "native_image_member": "item/image/i-254.jpg",
+          "image_sha256": "57434a4678a093c4f6f09e85eee3dc71e9886efd45bdc76b199ff292e0989d17"
+        },
+        {
+          "component_id": "TRPG-CORE-S257",
+          "printed_page": "255",
+          "native_wrapper_member": "item/xhtml/p-255.xhtml",
+          "native_image_member": "item/image/i-255.jpg",
+          "image_sha256": "31a279f9b0b6c1923fd18e8086646299cb7a6902990bacee5f094d760173349c"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U061",
+      "source": "TRPG-CORE",
+      "spine_start": 258,
+      "spine_end": 259,
+      "printed_start": "256",
+      "printed_end": "257",
+      "premise": "Professional registration hides concern about the guides and delays the proper tutorial",
+      "authority_plane": "world-guide second-person fiction with embedded reference",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S258",
+          "spine_position": 258,
+          "printed_page": "256",
+          "original_uncoded_notes_exact": [
+            "Professional smile hides alarmaboutnamedreferrers; Aheld-recordprideagainstgroup'sreputation; narratorquestion あいつらなにをやった."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S259",
+          "spine_position": 259,
+          "printed_page": "257",
+          "original_uncoded_notes_exact": [
+            "Long dangerousprologueironicallyfirstproper tutorial; Areturnstoapologyprotest."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S258",
+          "printed_page": "256",
+          "native_wrapper_member": "item/xhtml/p-256.xhtml",
+          "native_image_member": "item/image/i-256.jpg",
+          "image_sha256": "0a8865dbd6e116c05c84613040c94596fa3dd624900ef8e0fe5e7d4b7e7e86e3"
+        },
+        {
+          "component_id": "TRPG-CORE-S259",
+          "printed_page": "257",
+          "native_wrapper_member": "item/xhtml/p-257.xhtml",
+          "native_image_member": "item/image/i-257.jpg",
+          "image_sha256": "cdc5e8a0308b0875278aee42f181b38d57e2bcfb0cc48ef99a1cdd90e800beac"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U062",
+      "source": "TRPG-CORE",
+      "spine_start": 260,
+      "spine_end": 260,
+      "printed_start": "258",
+      "printed_end": "258",
+      "premise": "Darkness’s practical concern and proposed toad quest coexist with visible excitement about suffering",
+      "authority_plane": "world-guide second-person fiction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S260",
+          "spine_position": 260,
+          "printed_page": "258",
+          "original_uncoded_notes_exact": [
+            "Duty/rewardinversion,Dproposesrejecteddanger,Acomplainshasn'tbeeneaten; seeminglyreasonableDturnseageratbeatingaccount."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S260",
+          "printed_page": "258",
+          "native_wrapper_member": "item/xhtml/p-258.xhtml",
+          "native_image_member": "item/image/i-258.jpg",
+          "image_sha256": "ac23c79fe448ab63b821988badafac19213f516e5f77d1a776753682de6d75bc"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U063",
+      "source": "TRPG-CORE",
+      "spine_start": 262,
+      "spine_end": 262,
+      "printed_start": "260",
+      "printed_end": "260",
+      "premise": "Quartet’s lunch invitation lacks a subsidy, then a new novice party begins prospectively",
+      "authority_plane": "world-guide second-person fiction",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S262",
+          "spine_position": 262,
+          "printed_page": "260",
+          "original_uncoded_notes_exact": [
+            "Helpfulquartetlunchendswithouttreatingpoorernewcomer; concludingwelcomeholdsromanticadventureand残念 futurecompanionsinonepromise."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S262",
+          "printed_page": "260",
+          "native_wrapper_member": "item/xhtml/p-260.xhtml",
+          "native_image_member": "item/image/i-260.jpg",
+          "image_sha256": "6ce4d5f7db8d062713290f81d7dffe3c979a1f595cb9a601d9465dd4a9f194cb"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U064",
+      "source": "TRPG-CORE",
+      "spine_start": 263,
+      "spine_end": 264,
+      "printed_start": "261",
+      "printed_end": "262",
+      "premise": "NPC profiles qualify divine recognition, sword competence and timeless age",
+      "authority_plane": "character reference, conditional GM use",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S263",
+          "spine_position": 263,
+          "printed_page": "261",
+          "original_uncoded_notes_exact": [
+            "Aprofilecaption: goddess thought self-proclaimed; privilegedidentityunderminedsocialrecognition."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S264",
+          "spine_position": 264,
+          "printed_page": "262",
+          "original_uncoded_notes_exact": [
+            "Wiz永遠の20歳biographicalcomicqualifier; Dwallcompetenceversusswordinabilityjuxtaposition."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S263",
+          "printed_page": "261",
+          "native_wrapper_member": "item/xhtml/p-261.xhtml",
+          "native_image_member": "item/image/i-261.jpg",
+          "image_sha256": "fcf03a6c0054d2fac10f27b29c6f5fff3b356c9893272bb7e0f441518e146c90"
+        },
+        {
+          "component_id": "TRPG-CORE-S264",
+          "printed_page": "262",
+          "native_wrapper_member": "item/xhtml/p-262.xhtml",
+          "native_image_member": "item/image/i-262.jpg",
+          "image_sha256": "c84c7b6b5852a7b38ce3dcff979d826886a7796bafd71fccb90628b86186f575"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U065",
+      "source": "TRPG-CORE",
+      "spine_start": 265,
+      "spine_end": 265,
+      "printed_start": "263",
+      "printed_end": "263",
+      "premise": "Aqua appropriates the GM-as-god analogy and Kazuma warns against misleading readers",
+      "authority_plane": "staged character commentary",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S265",
+          "spine_position": 265,
+          "printed_page": "263",
+          "original_uncoded_notes_exact": [
+            "AappropriatesGMauthoritybygodpun, Krebukespossiblemisleadingreader, correctorneutralclarifies. GM/godnestedwordrelation."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S265",
+          "printed_page": "263",
+          "native_wrapper_member": "item/xhtml/p-263.xhtml",
+          "native_image_member": "item/image/i-263.jpg",
+          "image_sha256": "e126927fbcb17b5d0d61876d099b7acdc74f36532a0f4d3b47289b2badd16e07"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U066",
+      "source": "TRPG-CORE",
+      "spine_start": 273,
+      "spine_end": 273,
+      "printed_start": "271",
+      "printed_end": "271",
+      "premise": "Easy work offers conceal magical damage or a possible superior predator",
+      "authority_plane": "prospective quest cards",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S273",
+          "spine_position": 273,
+          "printed_page": "271",
+          "original_uncoded_notes_exact": [
+            "Magicresearchclient casuallyrequestsbeinghitbynewstrongestmagic; jobrewardbaits bodilyrisk.",
+            "Goblin '簡単なお仕事' undercutconditionalBeginnerKillerarrival."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S273",
+          "printed_page": "271",
+          "native_wrapper_member": "item/xhtml/p-271.xhtml",
+          "native_image_member": "item/image/i-271.jpg",
+          "image_sha256": "df62b47e60ec7eea224329b20088d09abd2f6f5b3ae6d3a3622e6cac047a6c6e"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U067",
+      "source": "TRPG-CORE",
+      "spine_start": 274,
+      "spine_end": 274,
+      "printed_start": "272",
+      "printed_end": "272",
+      "premise": "Flying harvest premiums coexist with a less valuable lettuce imitation",
+      "authority_plane": "prospective quest card",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S274",
+          "spine_position": 274,
+          "printed_page": "272",
+          "original_uncoded_notes_exact": [
+            "Harvestadvertisementnormalpremiumflavorversusflyingcombativecabbage and lettucecontamination."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S274",
+          "printed_page": "272",
+          "native_wrapper_member": "item/xhtml/p-272.xhtml",
+          "native_image_member": "item/image/i-272.jpg",
+          "image_sha256": "6a7768cdaa90dd7cce22e9b704aaf6ac9b8a5c5d738575f5af1efd2cc1133c21"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U068",
+      "source": "TRPG-CORE",
+      "spine_start": 282,
+      "spine_end": 282,
+      "printed_start": "280",
+      "printed_end": "280",
+      "premise": "An edible cabbage becomes an enemy and a lettuce becomes the cheap lookalike",
+      "authority_plane": "enemy reference flavor",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S282",
+          "spine_position": 282,
+          "printed_page": "280",
+          "original_uncoded_notes_exact": [
+            "Cabbageenemy appetizingdescriptionandlookalikelettuce marketdisparity; source parody offoodasanencounter."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S282",
+          "printed_page": "280",
+          "native_wrapper_member": "item/xhtml/p-280.xhtml",
+          "native_image_member": "item/image/i-280.jpg",
+          "image_sha256": "35bc976f78b77bb170f9e4124af8cb55dc3542b1cae56fdfa97d69baf5c82754"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U069",
+      "source": "TRPG-CORE",
+      "spine_start": 283,
+      "spine_end": 283,
+      "printed_start": "281",
+      "printed_end": "281",
+      "premise": "Rare bandit applicants are treated as a rare-monster joke",
+      "authority_plane": "enemy reference flavor, weak comic eligibility",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S283",
+          "spine_position": 283,
+          "printed_page": "281",
+          "original_uncoded_notes_exact": [
+            "Bandit career applicants rare, called raremonster byoccupationalratherthanbiologicallogic; weaksoftflavor."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S283",
+          "printed_page": "281",
+          "native_wrapper_member": "item/xhtml/p-281.xhtml",
+          "native_image_member": "item/image/i-281.jpg",
+          "image_sha256": "8ed6499da10e234fbddfdb5f8b7a8c79d78280d24171d7906164282f18a4a2a6"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U070",
+      "source": "TRPG-CORE",
+      "spine_start": 285,
+      "spine_end": 285,
+      "printed_start": "283",
+      "printed_end": "283",
+      "premise": "Vegetable maturity becomes enemy strength and a continuing market disparity",
+      "authority_plane": "enemy reference flavor",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S285",
+          "spine_position": 285,
+          "printed_page": "283",
+          "original_uncoded_notes_exact": [
+            "Greatercabbage mapsqualityvegetablegrowthontoenemystrength; lettucefallbackstillunderpriceddrop."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S285",
+          "printed_page": "283",
+          "native_wrapper_member": "item/xhtml/p-283.xhtml",
+          "native_image_member": "item/image/i-283.jpg",
+          "image_sha256": "d1332bda7a68032e51db35d5a3753ae3b02122d6b1d57bea0f04785f196b55af"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U071",
+      "source": "TRPG-CORE",
+      "spine_start": 299,
+      "spine_end": 299,
+      "printed_start": "297",
+      "printed_end": "297",
+      "premise": "Polite anti-spoiler advice escalates to an unperformed Explosion threat",
+      "authority_plane": "staged character commentary",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S299",
+          "spine_position": 299,
+          "printed_page": "297",
+          "original_uncoded_notes_exact": [
+            "Escalationfrompoliteanti-spoilerinstructiontoMeguminExplosionthreat; noactualcast."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S299",
+          "printed_page": "297",
+          "native_wrapper_member": "item/xhtml/p-297.xhtml",
+          "native_image_member": "item/image/i-297.jpg",
+          "image_sha256": "775c0ecd929a190cec84ef766d59b2efec56d9c8c844063a76f24907721f7556"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": false,
+      "culture_context_flags": [
+        "metatextual/source hierarchy"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U072",
+      "source": "TRPG-CORE",
+      "spine_start": 300,
+      "spine_end": 304,
+      "printed_start": "298",
+      "printed_end": "302",
+      "premise": "Easy novice harvest promises become a three-a.m. blindfold trip through the expert’s forgotten traps",
+      "authority_plane": "prospective authored scenario",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S300",
+          "spine_position": 300,
+          "printed_page": "298",
+          "original_uncoded_notes_exact": [
+            "Novicetown innocuousbambooshootharvestbecomesrocket chase/dungeonwith expert'sforgottenowntraps and XPasflavor."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S302",
+          "spine_position": 302,
+          "printed_page": "300",
+          "original_uncoded_notes_exact": [
+            "Savedspecialnovicequestturnsmanualharvest; XP-basedfreshness makeslevelupcropworsefood."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S303",
+          "spine_position": 303,
+          "printed_page": "301",
+          "original_uncoded_notes_exact": [
+            "Easyprofitpromisesnextto3amblindfoldride; expertreputationcontrastsforgottenhazardslater."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S304",
+          "spine_position": 304,
+          "printed_page": "302",
+          "original_uncoded_notes_exact": [
+            "Expertforgottrapsheaddsannually; failedtourism's3amstartupagriculturalrisk as novicejob."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S300",
+          "printed_page": "298",
+          "native_wrapper_member": "item/xhtml/p-298.xhtml",
+          "native_image_member": "item/image/i-298.jpg",
+          "image_sha256": "008056217f13282e2c05e5fbb714fb5f5da9fd76e5380aed18a57006e412f38f"
+        },
+        {
+          "component_id": "TRPG-CORE-S301",
+          "printed_page": "299",
+          "native_wrapper_member": "item/xhtml/p-299.xhtml",
+          "native_image_member": "item/image/i-299.jpg",
+          "image_sha256": "6aa44cc653dd50942094ca834e4dbd1cff46fcaf697684566ef292d5006f52b5"
+        },
+        {
+          "component_id": "TRPG-CORE-S302",
+          "printed_page": "300",
+          "native_wrapper_member": "item/xhtml/p-300.xhtml",
+          "native_image_member": "item/image/i-300.jpg",
+          "image_sha256": "ec8ccaa20a149a551c9ec2d35e03549a40895539784fb0ddf8e8a0081a4d0c01"
+        },
+        {
+          "component_id": "TRPG-CORE-S303",
+          "printed_page": "301",
+          "native_wrapper_member": "item/xhtml/p-301.xhtml",
+          "native_image_member": "item/image/i-301.jpg",
+          "image_sha256": "9bc1b71725632bc878063c6c0931dceed505fb9d7c0909eeef7244eefe5c54f7"
+        },
+        {
+          "component_id": "TRPG-CORE-S304",
+          "printed_page": "302",
+          "native_wrapper_member": "item/xhtml/p-302.xhtml",
+          "native_image_member": "item/image/i-302.jpg",
+          "image_sha256": "931db18990eb72725279818a5636cc9f79a817eb46939d4a9767eb2f29b5eae1"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U073",
+      "source": "TRPG-CORE",
+      "spine_start": 305,
+      "spine_end": 308,
+      "printed_start": "303",
+      "printed_end": "306",
+      "premise": "Ordinary harvest tools and raw snacks coexist with awakening rocket vegetables and failed-harvest loss",
+      "authority_plane": "prospective authored scenario",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S305",
+          "spine_position": 305,
+          "printed_page": "303",
+          "original_uncoded_notes_exact": [
+            "Ordinaryrawsnack/borrowedgardentoolsframedagainstrushingundergroundrocketnoise."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S308",
+          "spine_position": 308,
+          "printed_page": "306",
+          "original_uncoded_notes_exact": [
+            "Failedgardeningturnsprofitablepremiumproduceintoretaliatingmissileorlostloot; nofreefood/XPreset."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S305",
+          "printed_page": "303",
+          "native_wrapper_member": "item/xhtml/p-303.xhtml",
+          "native_image_member": "item/image/i-303.jpg",
+          "image_sha256": "e75dd71f077005ac3b0a43a4acba1a2f1ae20a5ee6e16e981c31a73a73b6563c"
+        },
+        {
+          "component_id": "TRPG-CORE-S306",
+          "printed_page": "304",
+          "native_wrapper_member": "item/xhtml/p-304.xhtml",
+          "native_image_member": "item/image/i-304.jpg",
+          "image_sha256": "2c7ab097c48e8b526c9d94de740777df6e0c391670a7ab323497f9cafcbd807a"
+        },
+        {
+          "component_id": "TRPG-CORE-S307",
+          "printed_page": "305",
+          "native_wrapper_member": "item/xhtml/p-305.xhtml",
+          "native_image_member": "item/image/i-305.jpg",
+          "image_sha256": "040c8466fca4650c7fcde8b2cf80c7f5f8377d232430c556b82597e6debe5d0b"
+        },
+        {
+          "component_id": "TRPG-CORE-S308",
+          "printed_page": "306",
+          "native_wrapper_member": "item/xhtml/p-306.xhtml",
+          "native_image_member": "item/image/i-306.jpg",
+          "image_sha256": "6df82384c6c76002a2230a73a9b7c030a25523896df6ef18a2a8d315f180a283"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U074",
+      "source": "TRPG-CORE",
+      "spine_start": 309,
+      "spine_end": 310,
+      "printed_start": "307",
+      "printed_end": "308",
+      "premise": "Unwary thieves and a final ambush encounter the same dangerous crops",
+      "authority_plane": "prospective authored scenario",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S309",
+          "spine_position": 309,
+          "printed_page": "307",
+          "original_uncoded_notes_exact": [
+            "Seeminglyinnocentappletrapamidagriculturalworkingpath; obvioussuspicionignoredbythieves as authoredbackground."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S310",
+          "spine_position": 310,
+          "printed_page": "308",
+          "original_uncoded_notes_exact": [
+            "Goblinambushthreatinterruptedbycrop'sownexplosion, symmetricalhazardnotautomaticPCrescue."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S309",
+          "printed_page": "307",
+          "native_wrapper_member": "item/xhtml/p-307.xhtml",
+          "native_image_member": "item/image/i-307.jpg",
+          "image_sha256": "9f9112ac253f314d28392b040b40089e881a331cdb9df7a950498072b8297bf2"
+        },
+        {
+          "component_id": "TRPG-CORE-S310",
+          "printed_page": "308",
+          "native_wrapper_member": "item/xhtml/p-308.xhtml",
+          "native_image_member": "item/image/i-308.jpg",
+          "image_sha256": "654aeaa4902d0e0f5036cc3024352ab3a4d655aadaf2b86c40868f271c39f96d"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    },
+    {
+      "id": "TRPGC-U075",
+      "source": "TRPG-CORE",
+      "spine_start": 311,
+      "spine_end": 312,
+      "printed_start": "309",
+      "printed_end": "310",
+      "premise": "Eating trades money for experience while the expert plans still more traps",
+      "authority_plane": "prospective authored scenario",
+      "original_page_observations": [
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S311",
+          "spine_position": 311,
+          "printed_page": "309",
+          "original_uncoded_notes_exact": [
+            "Explosivefoodisvaluableonlybeforemoving; stagedmealtradescashforXP/flavor."
+          ]
+        },
+        {
+          "original_observation_id": "TRPGC-PAGEOBS-S312",
+          "spine_position": 312,
+          "printed_page": "310",
+          "original_uncoded_notes_exact": [
+            "ExpertrespondstogoblinhazardbyplanningMOREforgotten-trapecology; monetaryharvestvsimmediateeatingXPchoice."
+          ]
+        }
+      ],
+      "source_intervals": [
+        {
+          "component_id": "TRPG-CORE-S311",
+          "printed_page": "309",
+          "native_wrapper_member": "item/xhtml/p-309.xhtml",
+          "native_image_member": "item/image/i-309.jpg",
+          "image_sha256": "a8d5073e5e1505923c2f61a7a94c796ccf6b9b816e47ca49636bc6db49eca781"
+        },
+        {
+          "component_id": "TRPG-CORE-S312",
+          "printed_page": "310",
+          "native_wrapper_member": "item/xhtml/p-310.xhtml",
+          "native_image_member": "item/image/i-310.jpg",
+          "image_sha256": "e1837077085c642aaf95989715e2c3ca8e14d713d4b228ecd98991ad36fdb7b6"
+        }
+      ],
+      "uncoded": true,
+      "selection": "Purposefully retained comic/weak/voice-bearing premise; not a complete all-source humor census. Page observations are preserved, grouped by a continuing setup, not by future portability or H results.",
+      "soft_eligibility": true,
+      "culture_context_flags": [
+        "fantasy/RPG convention"
+      ],
+      "formal_L_H_unassigned": true
+    }
+  ],
+  "no_formal_assignment_yet": true
+}

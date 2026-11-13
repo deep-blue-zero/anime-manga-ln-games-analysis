@@ -1,0 +1,660 @@
+{
+  "run": "initial-001",
+  "manifest_sha256": "c12fcc3954a1ae0d772f33bc98b1d18c37e559e7807b0db7e2e2738690a19a89",
+  "runtime": "Codex CLI",
+  "requested_settings": {
+    "model": "gpt-6.1-sol",
+    "effort": "xhigh",
+    "timeout": 600
+  },
+  "cli_version": "codex-cli 0.163.0-alpha.10.2",
+  "cases": [
+    {
+      "id": "cian",
+      "conversation_sha256": "f21edf223fcf9b0fb9cfc0283ff65e5ef562895e61171787bb07d3753c2d8706",
+      "turns": 5,
+      "sessions": [
+        "01a15268-5162-7612-b28d-716a306f3b8a"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "b9e596964a6603b20b819527436ee61794a6148c58b3b2a5aeb7cd2d8abdabd9",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "etienne",
+      "conversation_sha256": "20885591926252c8162b9f70e563f03812a617081efe6d24cc6e5784994b5329",
+      "turns": 5,
+      "sessions": [
+        "01a1526c-3232-7722-bbc6-3cbc721c1a56"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "ed2cb9f8522f7d195cfc6ee5fd2c129e44ca3e15ab1af8ee46d9cfc270f52afc",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "keita",
+      "conversation_sha256": "bc9fab9cae46d7e4e0bc76ee50382f148265a6b508202359292b76968383ef16",
+      "turns": 5,
+      "sessions": [
+        "01a1526b-a3de-7c21-93e9-f1abb3e15ce0"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "ccc81b07e4e2cd9fae0068b6800e4835e9eb995d5d9c2aa12c38be80995c06b7",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "miach",
+      "conversation_sha256": "0004725aa2a54f71067ae8b7d25e9c15ff351e372bc2571bce27cb6eead47951",
+      "turns": 5,
+      "sessions": [
+        "01a15268-516a-7c20-ae61-79c29272e492"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "58a29ec258e42d6ce899da23e13c190619db6fa6e13c7d8bbea2b9e2dbfc0fae",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "nuaza",
+      "conversation_sha256": "beefc532be47d7d34878fec7ef93f1b25b5d1e8f733c9f475da11a1a5ae560b1",
+      "turns": 5,
+      "sessions": [
+        "01a15269-df02-7063-97c8-877736c2b428"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "8cf46b9ec4424cf5944bc353d365aea304266d361e933505a408bafa13810a9f",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "oscar",
+      "conversation_sha256": "8d498633cbf90599196d70dfc96b8f03324710345b112ce17aa8db21dda5b3e9",
+      "turns": 5,
+      "sessions": [
+        "01a1526a-1f4e-7b23-add5-31a8f9d1153e"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "8e48564e5dbd6d28e268281afee0a5aa034d45e7c417d4f6006557210637b790",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "reiko",
+      "conversation_sha256": "cf9be95aebc4a3bd66fdbf1a082057a2eff42e059ec1a25cc07c4628b668f1b9",
+      "turns": 5,
+      "sessions": [
+        "01a1526b-cac2-75a0-8e81-c7fbf59856c9"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "eef2097918a077530e25b98e941d7c8592eacf214f04b00476c0594d0895d81e",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "tuan",
+      "conversation_sha256": "898be35ea3ed3fc3f4a5e3af0c2af12175918f1d1768df7e6b43c7838d4af8dc",
+      "turns": 5,
+      "sessions": [
+        "01a15268-5167-7023-9085-7240339a5201"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "b1998d0bf5e3a6a88c48efa8d8682b0976da405fbb3abb5137b71c7adcce88b0",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "uwe",
+      "conversation_sha256": "517e3158ea7b8a39454c32546350bbfc31d4d2ac2e61c022e40ef78686a27924",
+      "turns": 5,
+      "sessions": [
+        "01a1526d-43df-77b2-9518-1e168fce09fb"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "9bfbf2489a92719ef45db247ea58e12daf1548fc7c15f300c1e40566b1768586",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    },
+    {
+      "id": "vashilov",
+      "conversation_sha256": "e7efc60b551cb1c82370a14d5f80bbfee3c6dcf17d3664fb91171176034756c1",
+      "turns": 5,
+      "sessions": [
+        "01a1526a-b5c2-7d53-be62-4fe913ea1e52"
+      ],
+      "turn_checks": [
+        {
+          "turn": 1,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 2,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 3,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 4,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        },
+        {
+          "turn": 5,
+          "recorded_hashes_match": {
+            "input_sha256": true,
+            "events_sha256": true,
+            "stderr_sha256": true
+          },
+          "turn_completed": true,
+          "valid": true
+        }
+      ],
+      "model_payload_hash": "050d4c455d4c31dc6dddc26f6a80d63c770524ed2f8f185db196790e35806816",
+      "protocol_payload_hash": "b1fbce56978f2260ffa6dea76df4066b6231d21032ca1a69091a038268895e0f",
+      "model_payload_matches_case": true,
+      "protocol_payload_matches_case": true
+    }
+  ],
+  "observed_conversations": 10,
+  "observed_turns": 50,
+  "problems": [],
+  "runtime_integrity": "PASS_OBSERVED_FILES",
+  "semantic_acceptance": "NOT_IMPLIED",
+  "private_preprojection_receipt_sha256": "d4725aae89f0787c26e85777a56b77c226d651bb515018889d0043701f4bd5fb",
+  "location_projection_note": "Owner-local absolute run directory replaced by its stable run label; all file hashes, checks, conditions and findings unchanged. Exact private preprojection retained."
+}

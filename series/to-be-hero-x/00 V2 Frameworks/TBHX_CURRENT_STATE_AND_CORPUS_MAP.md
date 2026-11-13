@@ -9,7 +9,7 @@ source_boundary: Chinese-original audiovisual Season 1, Episodes 1–24, prospec
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: 2026-08-18
+last_updated: 2026-10-25
 ---
 
 # To Be Hero X V2 — Current State and Corpus Map
@@ -21,9 +21,10 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Generation:** V2 Chinese-original audiovisual reread.
 - **Primary evidence:** Mandarin dialogue/audio and visual form.
 - **Secondary witness:** aligned Japanese subtitles/dialogue.
+- **Governing frameworks:** `TBHX_V2_ANALYTICAL_METHOD.md` (reading method); `TBHX_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` **v1.5** (architecture, `STABILIZED`); `TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md` **v1.0** (governs Document 20 and any later subject models). This file is the project's **sole current entrypoint** (architecture §10.2); any Phase-9 reader guide is subordinate and carries no status.
 - **Sequential readings:** **E01–E24 canonical / prospectively frozen**.
 - **Current phase:** **Phase 5 — language, audio, visual-form, and character-modeling synthesis; active**.
-- **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; and the mandatory E05–E07 AV-form evidence unit remains next before Documents 18–19.
+- **Phase-5 progress:** **1/4 architecture-defined specialist documents complete**; Document 17 is canonical; Document 20 character behavior/personality/speech/situational modeling is now architecture-defined; the E05–E07 tranche and ten remaining-arc handoffs now have bounded analytical audits with explicit continuous/audio source debts; all eleven Season 1 bundles are received, while Documents 18–20 await adequate accepted source coverage.
 - **Completed Phase-5 synthesis:** **Document 17 — Mandarin dialogue, discourse voice, naming, register, and Japanese-reference audit**.
 - **Phase-4 progress:** **5/5 complete / formally closed**.
 - **Completed Phase-4 systems/thematic syntheses:** **Documents 01–05 canonical** — narrative architecture; Trust/Fear social ontology; heroism/legitimacy/dignity/coercion; institutions/political economy; and public narrative/branding/celebrity/myth/collective belief.
@@ -33,8 +34,8 @@ This is the canonical first-read routing surface for the active *To Be Hero X* V
 - **Phase 4:** **closed** under `TBHX_V2_PHASE4_CLOSURE_CHECKPOINT.md`; all five architecture-defined system/thematic syntheses are canonical, totaling approximately 52,800 whitespace-delimited words.
 - **Current claim authority:** Part I of `CLAIM_REVISION_AND_CONFIDENCE_LEDGER.md`, containing 145 canonical `P2-CR-*` keys.
 - **Completed Phase-3 specialists:** **06 revision 1.1 + 07 + 08 + 09 + 10 + 11 + 12 + 13 + 14 + 15 + 16**. Specialist 06 incorporates the E24 Lin Ling/Nice dual-entry correction; 07–15 stabilize the individual and paired character clusters; Specialist 16 closes the sequence by establishing **answerable interdependence** as the cross-arc relational standard across testimony, kinship, mentorship, care, rivalry, alliance, public recognition, and survivable separation.
-- **Next recommended work unit:** **`TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md`**, completed before Documents 18–19; Document 20 follows stabilization of Documents 18–19 before Phase-5 closure.
-- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision`; first packet `TBHX-AV-E11-001` records Queen vs X and the immediate post-defeat collapse.
+- **Next recommended work unit:** resolve the named continuous-motion, source-clock and original-speed audio debts in the accepted audit queue before finalizing Documents 18–20. All supplied Season 1 Gemini bundles have been received and reconciled; keep disputed claims excluded until their stated acceptance conditions are met.
+- **Active evidence intake:** `TBHX_V2_TARGETED_AV_EVIDENCE_LEDGER.md` under `04 V2 Evidence and Revision` now indexes 16 permanent packets: existing E11-001 and four E05–E07 entries, ten remaining-arc entries, and the paired E09/E24 coin-donor entry `TBHX-AV-E09-001`. The [remaining-arcs checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md) records ten matrices, seven supplemental reports, exact inputs, current revisions and outstanding source debts; the [E05–E07 checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md) retains its historical tranche receipt.
 - **V1 status:** `historical_legacy`; all forty imported hypotheses have final dispositions in `V1_TO_V2_REVISION_LEDGER.md`.
 - **Later TV source:** none inside the currently supplied 24-episode Season-1 corpus.
 
@@ -58,7 +59,7 @@ Dates, filenames such as “definitive,” and upload recency do not override ex
 
 ## 3. Canonical Drive architecture
 
-- `00 V2 Frameworks` — method, source profile, synthesis architecture, bundle catalog, this corpus map.
+- `00 V2 Frameworks` — method, character reconstruction method, source profile, synthesis architecture, bundle catalog, this corpus map.
 - `01 V2 Episode Deep Readings` — frozen E01–E24 readings and phase handoffs.
 - `02 V2 Longitudinal Ledgers` — stabilized Phase-2 topical and revision authority; mutable only through explicit evidence-backed updates.
 - `03 V2 Specialist Syntheses` — Phase-3 character/relationship and Phase-4 system/institution/thematic syntheses closed; Phase-5 language/audio/visual-form/character-modeling synthesis active at 1/4.
@@ -131,7 +132,7 @@ The current macro-order is:
 → **E21–E23 Original Nice–Smile–A-Hu pre-E01 causal chain**
 → **E01 Original Nice suicide / Lin succession**
 → Lin/Nice and E-Soul present-line consequences
-→ **E24 twentieth-tournament convergence**.
+→ **E24 twenty-first-tournament convergence** (native E04 countdown; historical twentieth suspension remains distinct).
 
 Broadcast order remains independently important because delayed causal disclosure is part of the work's form.
 
@@ -485,8 +486,10 @@ Canonical artifact:
 - `07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md`
 - **Drive ID:** `16AHYbGugXafi5abVAAN4jKf3tNhf8eg8`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/07_YANG_CHENG_ESOUL_POMELO_AND_INHERITED_HEROISM.md
-- **SHA-256:** `7e49509a19237684d2a70674d2f4925f1d9b85fd3212f252859176d15d9d0834`
-- **Approximate length:** 9,100 words
+- **Current revision:** `AV-2026-10-24` — E05–E07 AV integration; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `870fa31ec41f07c60e97329754462015f1fa0ddc7808d2b934600be66da14b99`
+- **Bytes:** 64,190
+- **Current length:** 9,354 whitespace-delimited words
 
 Current governing proposition:
 
@@ -509,8 +512,10 @@ Canonical artifact:
 - `08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md`
 - **Drive ID:** `1-PCA-DU56nUAceUQO__BxRTKsZNVjtOF`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/08_LUCKY_CYAN_HOPE_SURVIVORHOOD_AND_PUBLIC_NEED.md
-- **SHA-256:** `a21b8915d69a48b57357dcad781273f5bb39bda2357a0aa79bb937dec956665b`
-- **Approximate length:** 8,600 words
+- **Current revision:** `AV-2026-10-25-E09-001` — E09/E24 coin-donor reconciliation; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_ARCHITECTURE_V1_5_AND_E09_COIN_RECONCILIATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `251e58185d7be4f7834121b672d217a4bc789a4bcebd725dc2aedaf6614f8a65`
+- **Bytes:** 61,116
+- **Current length:** 8,951 whitespace-delimited words
 
 Current governing proposition:
 
@@ -525,6 +530,7 @@ Major conclusions:
 - The recorder restores the dead as intentional agents and distinguishes entrusted hope from extractive hope without proving a universal luck mechanism.
 - Queen explicitly recognizes Qīng's singing, not her luck utility, as what gave her strength and brought her out of gloom.
 - Later Lucky Cyan heroism distributes care through cooperation with Queen and the Johnnies rather than requiring Qīng to embody hope alone.
+- One of the first coins of Qīng's post-escape self-support was an anonymous, unclaimed gift from X in civilian presentation, identified retrospectively by E24 (`TBHX-AV-E09-001`); it stands outside the Sacred Maiden petition economy, and nothing shows Qīng learning who gave it.
 
 ### Paired Specialist-07/08 checkpoint
 
@@ -750,8 +756,10 @@ Canonical artifact:
 - `15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md`
 - **Drive ID:** `1FGR6Qcw7Z0lxebZA_ib0MTXim3cawOpp`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/15_X_ZERO_GODHOOD_FATE_AND_THE_LIMIT_OF_PUBLIC_WILL.md
-- **SHA-256:** `0f3dbf62a8a6a370c8afcfaa66bc607e5e471dd5bc3b95c567fda68ff91ecb60`
-- **Approximate length:** 11,610 whitespace-delimited words
+- **Current revision:** `AV-2026-10-25-E09-001` — E09/E24 coin-donor reconciliation; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_ARCHITECTURE_V1_5_AND_E09_COIN_RECONCILIATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `91d84bb84829a051c5df99880fb4243721f016e00c3f11afb5ee8e00d77fd908`
+- **Bytes:** 82,798
+- **Current length:** 12,010 whitespace-delimited words
 
 Current governing proposition:
 
@@ -771,6 +779,7 @@ Key stabilized findings:
 - the anti-X operation attacks the private/role boundary that currently most clearly distinguishes X from Zero;
 - X/A-Hu remains adversarial trust and an interpersonal prototype of answerability, not a complete constitution;
 - the coin is a remembered threshold rather than origin or fate selector;
+- the coin X once took for his beginning was his anonymous civilian gift to young Qīng in E09, identified retrospectively by E24's re-staging (`TBHX-AV-E09-001`); its mechanism remains open;
 - `都早已被种下` establishes causal embeddedness without strict determinism;
 - `违抗命运的安排 / 准点下班` defines freedom as refusing expected repetition and preserving the right to end the role's claim.
 
@@ -787,8 +796,10 @@ Canonical artifact:
 - `16_CROSS_ARC_RELATIONSHIPS_ALLIANCES_MENTORSHIP_AND_RECOGNITION.md`
 - **Drive ID:** `1lnBuyDfhSZgDHkozetKw5sL5O3dTOl_w`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/01%20Characters%20and%20Relationships/16_CROSS_ARC_RELATIONSHIPS_ALLIANCES_MENTORSHIP_AND_RECOGNITION.md
-- **SHA-256:** `6bee2f647aef2f9727c8bad604e74f372545a9eead3272d7b5a019d60e04849b`
-- **Approximate length:** 11,453 whitespace-delimited words
+- **Current revision:** `AV-2026-10-24` — E05–E07 AV integration; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_E05-E07_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `4ead8169803af54ded8f3a172bcff31fa645db56f2682e63e17ec6c9aa67ba34`
+- **Bytes:** 82,156
+- **Current length:** 11,528 whitespace-delimited words
 
 Current governing proposition:
 
@@ -809,7 +820,7 @@ Major conclusions:
 - relational totalization occurs when one partial truth becomes the only socially actionable account of a person;
 - the strongest positive relationships preserve the possibility that the other person may become someone the founding relation did not predict.
 
-Checkpoint:
+Original completion checkpoint (archival):
 
 - `TBHX_V2_PHASE3_16_RELATIONSHIPS_CHECKPOINT.md`
 - **Drive ID:** `1Wa-mqpF1KEl2w7E-_I4U4hpx7LgmxMTx`
@@ -842,8 +853,10 @@ Canonical artifact:
 - **Drive ID:** `10CPoAoLbaC5RSPquqzPRW-6cAhu2BANc`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/02%20Systems%20Institutions%20and%20Themes/01_NARRATIVE_ARCHITECTURE_CHRONOLOGY_PERSPECTIVE_AND_RECONTEXTUALIZATION.md
 - **Canonical home:** `03 V2 Specialist Syntheses/02 Systems Institutions and Themes`
-- **SHA-256:** `296238f84a351a8ab9ff28d8a7783c8a5bcf9650255d38f6d2cfbc973fb044c6`
-- **Approximate length:** 9,994 whitespace-delimited words
+- **Current revision:** `AV-2026-10-25` — bounded remaining-arc corrections; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `1b55758b0593522de7c2ebb065ace5652927445ac3f705b747001e90661c0deb`
+- **Bytes:** 71,780
+- **Current length:** 10,154 whitespace-delimited words
 
 Current governing proposition:
 
@@ -1059,8 +1072,10 @@ Canonical artifact:
 - **Drive ID:** `13z_uNfrjV7GBcO6XaZ5ivn01fdjC6jA7`
 - **Drive URL:** ../03%20V2%20Specialist%20Syntheses/03%20Language%20Audio%20and%20Visual%20Form/17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md
 - **Canonical home:** `03 V2 Specialist Syntheses/03 Language Audio and Visual Form`
-- **SHA-256:** `9a9f2d7a38a47134c4cc35f397081e72bf8010ac1089a09ddb19386989552afa`
-- **Approximate length:** 9,575 whitespace-delimited words
+- **Current revision:** `AV-2026-10-25` — bounded remaining-arc corrections; see [revision receipt](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md#current-specialist-revisions).
+- **SHA-256:** `a53536b33f4298c05348424028c5ac884631d208cf4536f6de5244ffa4b5927a`
+- **Bytes:** 71,420
+- **Current length:** 9,957 whitespace-delimited words
 - **Claim routing:** 108 resolved `P2-CR-*` keys
 
 Current governing proposition:
@@ -1085,7 +1100,7 @@ Major conclusions:
 
 Document 17 is canonical for **discourse voice** and lexical/register findings. It does not claim a fresh uninterrupted audition of all twenty-four episode audio tracks. Full acoustic profiles, singing technique, systematic pause/overlap analysis, and public/private voice-placement comparison remain reserved for directly auditioned evidence and Document 19.
 
-Checkpoint:
+Original completion checkpoint (archival):
 
 - `TBHX_V2_PHASE5_17_LANGUAGE_VOICE_NAMING_CHECKPOINT.md`
 - **Drive ID:** `1nYalEy1NkyECW9mb8bpwTEixjPhApzD9`
@@ -1102,39 +1117,47 @@ Checkpoint:
 
 The Phase-5 pass preserves all row-level identity separations while formalizing four Japanese-reference functions: semantic completion, interpretive sharpening, independent localization, and source flattening/shift. Japanese remains a secondary semantic/timing witness, not Mandarin lexical authority. Phase 7 must still perform the second claim-to-source/locator audit; Phase 9 alone may freeze the crosswalk as archival `canonical` authority.
 
-### Mandatory next evidence work before Documents 18–19
+### E05–E07 Gemini tranche and remaining Phase-5 evidence
 
-Complete:
+The received V2 bundle is adjudicated in two canonical evidence artifacts:
 
-`TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md`
+- [E05–E07 formal microsequence audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_AV_FORM_MICROSEQUENCE_AUDIT.md): visible 0→1, covenant/rescue, conditional support, helmet/shooting, memory, concert/duel, local consolidation, source QA, and the 30-finding matrix.
+- [Yan Mo retrospective causal audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md): exclusion, paid commission, coercion, intended target/actual casualty, concrete disposal, assistance, expectation engineering, and bounded adaptive strategy.
 
-Canonical home:
+The analytical audits are complete within their stated source boundary. Codex independently inspected targeted stills/text/metadata, not uninterrupted playback or Mandarin audio. `AV-D01–07` retain exact timing and dialogue bridges, continuous shooting/climax and speaker turns, Cyan-specific concern, original-speed sound/music, source-clock mapping, the agency-name insertion, and administrative/disposal details. The architecture's stronger direct-AV requirements are not silently marked fulfilled. These debts remain retrievable alongside accepted corrections; they do not authorize automatic duplicate extraction or another arc's analysis.
 
-`04 V2 Evidence and Revision/Targeted AV Evidence/`
+Full-season Gemini handoff receipt: **COMPLETE — eleven supplied arc bundles**, with ten remaining-arc audits and seven supplemental reports reconciled in the [current checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_REMAINING_ARCS_GEMINI_AV_INTEGRATION_CHECKPOINT.md). This is bounded analysis acceptance, with named source debts; it is not a claim of independently verified continuous AV coverage. Current revisions correct E01 cue 134 alignment, the twenty-first tournament ordinal, E15 Ah Sheng naming versus later biography and E10 scene-specific Fear naming. Phase 5 remains **1/4**; **Documents 18–20 are PENDING ADEQUATE ACCEPTED EVIDENCE**, especially continuous motion and actual acoustic audition. A further unspecified ZIP is no longer the blocking condition.
 
-This is a bounded continuous-video/audio formal audit, not a replacement episode reading. It must directly examine:
-
-- Yang's continuing rescue attempt, Yòuzi/Pomelo's recognition, and first E-Soul manifestation;
-- the veteran E-Soul covenant speech and whether agency formally precedes amplification;
-- the E06 conversion of private rescue into scalable managed hero image;
-- the prototype E-Soul helmet / Shang Chao shooting sequence as mistaken visual identity;
-- Shang Chao's funeral, MG pressure, Yan Mo's `电光斩` expectation engineering, and a substantial uninterrupted duel passage;
-- Lucky Cyan's visible/vocal concern in relation to crowd excitement, music, cutting, duration, and bodily violence;
-- the duel climax, veteran E-Soul's death, Trust consolidation, and the complete Yan Mo reveal montage.
-
-Only after this audit should Phase 5 proceed to:
-
-1. `18_VISUAL_FORM_ANIMATION_MODES_COLOR_EDITING_SCREENS_AND_SPECTACLE.md`
-2. `19_MUSIC_SOUND_SILENCE_PERFORMANCE_AND_THE_PUBLIC_VOICE.md`
-3. `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md` — after Documents 18 and 19, integrating the Phase-3 monographs plus Documents 17–19 into evidence-bounded character reconstruction models.
+1. `18_VISUAL_FORM_ANIMATION_MODES_COLOR_EDITING_SCREENS_AND_SPECTACLE.md` will retrieve the accepted visual evidence with its continuous-source limits.
+2. `19_MUSIC_SOUND_SILENCE_PERFORMANCE_AND_THE_PUBLIC_VOICE.md` will retrieve attributed audio candidates and require actual audition before acoustic conclusions.
+3. `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md` follows Documents 18/19 and retains its architecture-defined confidence-graded behavioral and speech modeling responsibility. Inference remains inference, not canon or a simulated acoustic profile.
 
 Document 20 is now a mandatory Phase-5 closure artifact. It is responsible for plausible situational reconstruction of sufficiently evidenced characters through baseline temperament, worldview/salience, decision heuristics, emotional needs and defenses, relationship-conditioned variants, speech-generation constraints, directly observed acoustic/embodied behavior, stress/failure/recovery patterns, negative constraints, and a confidence-graded `stimulus -> interpretation -> emotion -> priorities -> behavior -> speech -> aftereffect` inference chain. It must label extrapolation as inference rather than canon.
 
-A separate prerequisite before Phase 6 remains:
+Original completion checkpoints retain their historical metrics as archival provenance. Current hashes, byte sizes, word counts and AV revision identifiers for Specialists 01/07/08/15/16/17 appear in their entries above and the appropriate integration checkpoints. No Phase 5 closure or Phase 6–9 work is initiated. **Next source work: the named channel-specific debts in the remaining-arcs checkpoint and ten audit matrices; the E09/E24 paired-source donor debt is now satisfied (below).**
 
-`TBHX_V2_E05-E07_YAN_MO_RETROSPECTIVE_AV_EVIDENCE_AUDIT.md`
+### Architecture v1.5 and the character reconstruction method (2026-10-25)
 
-That causal/claim audit must adjudicate the E05 kidnapping call, zero-Trust exclusion, E06 mistaken-target assassination chain, coercion, concrete disposal, and Yan Mo's pivot from attempted elimination to adaptive assistance. It must not promote a fully planned awakening/succession without direct evidence.
+The synthesis architecture is amended to **v1.5** (§10 there). Current identities and dependencies:
+
+- **Document 20** remains `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md`. The older Phase-6 assignment of the same number is retired; the Phase-6 artifact is the unnumbered `04 V2 Evidence and Revision/TBHX_COMPARATIVE_REFERENCE_MATRICES_AND_OPEN_QUESTIONS.md`. Documents 17, 18, 19, 21 and 22 keep their numbers; 21 and 22 are homed in `04 V2 Evidence and Revision/`.
+- **Dependency order:** Phase-3 specialists → Phase-4 syntheses → Document 17 → Documents 18 and 19 (parallel) → Document 20 → Phase-5 closure → Phase 6 → Phase 7 → Phase 8 → Phase 9.
+- **Governing method for Document 20:** [`TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md`](TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md) v1.0, adapted from the opt-in generic reconstruction method. It binds models to `Subject@State` with knowledge-state tables, separates subject/office/presentation/attribution, keeps Mandarin text evidence apart from lane-bounded performance evidence, requires ordinary-life sampling, types negative constraints, and labels validation as retrospective unless a blind or prospective design applies. Phase-3 monographs remain the literary authority; Document 20 is a derived reference; predictions are never canon. Neither the method nor Document 20 assigns the global evaluator's tiers or edits the capability or discovery registries.
+- **Evidence and authority states:** acquired, producer-reported, independently verified, accepted claim, synthesis complete, closure authorized and integrated are distinct (architecture §10.4). Possession of the Gemini bundles is acquisition, not certified audiovisual coverage.
+- **Completion gates:** Documents 18–20 need source-appropriate evidence for their load-bearing claims, not a fresh uninterrupted audition of all twenty-four episodes; each named debt blocks only the claim classes it names; protected metaphysical questions are not closure blockers (architecture §10.5).
+- **Phase 9:** no second status-bearing map. Phase 9 either adds reading order to this file or writes an optional subordinate `05 V2 Full Series Synthesis/00_READER_GUIDE_AND_READING_ORDER.md` that carries no status.
+
+No Document 18–20 drafting, Phase-5 closure or Phase 6–9 work is initiated by this amendment.
+
+### E09/E24 coin-donor reconciliation (2026-10-25)
+
+[`TBHX-AV-E09-001`](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_E09-E24_COIN_DONOR_PAIRED_SOURCE_AUDIT.md) compared native E09 and E24 WEB frames and hardsubs. **Confirmed retrospective identity:** the E09 nighttime coin donor (WEB 11:44–12:03) is X in his black-haired, bespectacled, dark-suited civilian presentation. E24 WEB 20:02–20:25 re-stages the encounter — same square, recipient and coin; matching coin-landing and departing-wave compositions — shows his face, carries the same figure into X's snap and public presentation, and sets X's `我本以为自己的英雄之路 / 是从那枚硬币开始的` over it. The Liu Zhen attribution is rejected; the daytime tipper is a separate giver; the reported “counter 0” is Qīng's eye image rather than a wrist reading, and the wrist value stays open, narrowed. The coin's mechanism remains a protected question. Debts `E08A-D2` and `E24-D03` are satisfied for identity. The frozen E09 reading's uncertainty is preserved as its prospective state; `P2-CR-X06`, the X sovereignty ledger (`RS-E24-13`) and Specialists 08 and 15 carry labeled current revisions.
+
+### Bounded Gemini-substrate corrections (2026-10-25)
+
+The [follow-up audit](../04%20V2%20Evidence%20and%20Revision/Targeted%20AV%20Evidence/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_AUDIT.md) adds nine static/text qualifications to four existing targeted packets: Shang De/MG recruitment; written *Because of you* and *growL* credits; E17's Year 18 card and correctly mapped hospital HUD; E18's anonymous warning and real tank UI; the E22 ending's displayed clauses/locator; and the E24 FOCUS-attributed tenth-ranked E-Soul replacement / Treeman dual-entry report. Current audit/claim routes and chronology, form, institutions and public-narrative homes carry those qualifications. The [checkpoint](../99%20V2%20Archive%20and%20Delivery/TBHX_V2_GEMINI_SUBSTRATE_FOLLOWUP_CHECKPOINT.md) preserves the tranche boundary; earlier intake checkpoints are unchanged.
+
+This is targeted frame/text acceptance, not new continuous playback or acoustic coverage. Complete roster/order, private continuity, named sender/operator, exact telemetry/causal mechanisms and channel-specific timing/performance claims retain their stated limits. The permanent packet count stays 16; Phase 5 stays 1/4. Other findings in the separate substrate assessment, including E04's dense attack sequence, are not integrated by this minor follow-up. Publication requires this branch's exact-head audit; current integrated authority remains the last verified main until the PR is merged and audited.
 
 ## 15. Protected full-series questions
 
@@ -1156,14 +1179,14 @@ Do not smooth over:
 
 For current analysis:
 
-1. read this file;
+1. read this file; for artifact identities, dependencies, evidence states and completion gates, read `TBHX_V2_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE.md` §10;
 2. for narrative architecture, broadcast order, chronology, focalization, credits, montage, or recontextualization questions, read `01_NARRATIVE_ARCHITECTURE_CHRONOLOGY_PERSPECTIVE_AND_RECONTEXTUALIZATION.md`;
 3. for Trust/Fear mechanics, power categories, bearer receptivity, institutional quantification, material exceptions, apotheosis, or social ontology, read `02_TRUST_FEAR_POWER_AND_SOCIAL_ONTOLOGY.md`;
 4. for heroism, legitimacy, dignity, coercion, consent, force, protection, risk governance, or constitutional-authority questions, read `03_HEROISM_POWER_LEGITIMACY_DIGNITY_AND_COERCION.md`;
 5. for agencies, the Commission, ranking, tournament, offices, platforms, media institutions, research, secrecy, labor, or political economy, read `04_AGENCIES_COMMISSION_RANKINGS_MEDIA_RESEARCH_AND_POLITICAL_ECONOMY.md`;
 6. for public narrative, branding, celebrity, myth, collective belief, testimony, privacy, or public memory, read `05_PUBLIC_NARRATIVE_BRANDING_CELEBRITY_MYTH_AND_COLLECTIVE_BELIEF.md`;
 7. for Mandarin identity grammar, lexical/discourse voice, address, naming, register, translation discipline, or Japanese-reference comparison, read `17_MANDARIN_DIALOGUE_VOICE_NAMING_REGISTER_AND_JAPANESE_REFERENCE_AUDIT.md`;
-8. for hypothetical or novel-situation reconstruction of character behavior, personality, likely decision-making, and speech after Phase-5 completion, read `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md`, then escalate to Documents 17–19 and direct audiovisual evidence when acoustic/gesture/timing precision matters;
+8. for hypothetical or novel-situation reconstruction of character behavior, personality, likely decision-making, and speech, read `TBHX_V2_CHARACTER_RECONSTRUCTION_METHOD.md` for how models are built and bounded; after Phase-5 completion, read `20_CHARACTER_BEHAVIOR_PERSONALITY_SPEECH_AND_SITUATIONAL_MODELING_REFERENCE.md`, then escalate to Documents 17–19 and direct audiovisual evidence when acoustic/gesture/timing precision matters, and to the relevant Phase-3 specialist for literary authority;
 9. for identity resolution across Mandarin, canonical V2 forms, official English, and Japanese surfaces, use `TBHX_NAME_LOCALIZATION_CROSSWALK.md` v2.1;
 10. for cross-arc relationship, alliance, mentorship, testimony, or recognition questions, read `16_CROSS_ARC_RELATIONSHIPS_ALLIANCES_MENTORSHIP_AND_RECOGNITION.md`;
 11. use `TBHX_V2_PHASE4_CLOSURE_CHECKPOINT.md` and `TBHX_V2_PHASE5_17_LANGUAGE_VOICE_NAMING_CHECKPOINT.md` to verify the current transition state;

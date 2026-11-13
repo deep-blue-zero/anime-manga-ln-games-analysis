@@ -1,0 +1,272 @@
+{
+  "schema": "KONOSUBA_MAIN10_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-10",
+  "findings": [
+    {
+      "id": "M10EX-Q01",
+      "topic": "Actual new scope",
+      "current_qualification": "17new textual resources127P/28unique native images actually received and uncoded-sealed before formal assignment. Bonus60P,authorafterword20P,other47P; empty/structural slots are not utterance/event counts.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q02",
+      "topic": "Native identity",
+      "current_qualification": "Local Japanese EPUB1630298B/SHA2568b1d8befe7dc2562a9d3eb57e6c455b1a114b98af52594404e647194fd2e1733; content.opf SHA25661280c671e8060d741830e156059badd3a16c8e468c3e80d9bd95c72ea8ddbe8. Native/member/image/CRC checks do not alone prove semantic reading.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q03",
+      "topic": "Retained scope",
+      "current_qualification": "Seven accepted principal members3026P retain exact authority;955unique bounded nativeP across allseven were actually rechecked with zero new principal/event/test credit. Earlier915Preceipt01 remains exact; receipt02 adds40P.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q04",
+      "topic": "Edition dates and planes",
+      "current_qualification": "Electronic issue and print-basis first issue both2016-11-01,copyright2016. Creator/promotion/profile/retained art/bonus/wrappers remain distinct; no new image-only canonical fiction identified.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q05",
+      "topic": "Timeline precision",
+      "current_qualification": "The bonus gives selected times11am-6pm and evening return/reply, not full24-hour access or an exactly dated later relationship slice. Hide surveillance claim60 does not fill gaps in what is actually narrated.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q06",
+      "topic": "Observer limits",
+      "current_qualification": "Kazuma's visible observations differ from elder mental-health speculation, cat desire/fear, snack-duty theory, officer motive, shop cause, spell type and habitualness inferences. Hide does not reveal other minds or unseen interiors.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q07",
+      "topic": "Megumin meal",
+      "current_qualification": "Preparing the late meal5 is actual ordinary contribution; menu/result, new Cooking skill, chosen build reconsideration, mana state or a future intimacy agreement are unshown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q08",
+      "topic": "Finite cash and chores",
+      "current_qualification": "Darkness gives some pocket money on tomorrow's dishwashing swap12; Aqua spends it23. Amount is unstated, future chores unperformed; no free cash, completed bargain obligation or new financial expertise invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q09",
+      "topic": "Elder and Heal",
+      "current_qualification": "Worship14 precedes Heal16. Spell use occurs; illness, cure and medical outcome are not shown. The elder is unnamed, and the narrator's いよいよ危ない speculation is not a diagnosis.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q10",
+      "topic": "Cat and consequence",
+      "current_qualification": "Aqua's desire/hesitation18 are hedged observer explanations; she loudly says she will leave the cat asleep19 and actually wakes it20. The cat is not identified as Chomusuke merely because his previous rejection is mentioned.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q11",
+      "topic": "Snack appraisal",
+      "current_qualification": "Crepe purchase23 after the bell22 is observed; snack-as-duty25 is speculation. No measured appetite disorder, immutable routine or chance-game loss is established.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q12",
+      "topic": "Vendor stance",
+      "current_qualification": "Reported crepe evaluation26 and received scraps27 occur. Habitual-customer status is uncertain; no exact private vendor motive or universal dislike/admiration inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q13",
+      "topic": "Sand art and permission",
+      "current_qualification": "CreateWater/sculpture31,praise32,specific permission to modify/destroy33 and boy's actual kick34 are distinct. No dragon summon, new skill acquisition or particular-loss/substitute A08 test; permission applies to this artifact.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q14",
+      "topic": "Fountain ownership",
+      "current_qualification": "Coins36,divine-water donation argument37,officer warning/departure37-38 are represented. His motive39 is inferred. Police withdrawal is not verified lawful ownership or an unlimited church exemption.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q15",
+      "topic": "Shop interior",
+      "current_qualification": "Aqua's brief entry/exit41 and Vanir throwing salt42 are observed; what happened inside and why he expelled her are inferred. No invented Wiz damage, payment or healing result.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q16",
+      "topic": "Door magic",
+      "current_qualification": "Aqua actually casts at the door43; white light44,Vanir shouting45 and her feigned nonhearing/flight occur. Exact holy-barrier type, completed seal, duration or later release are unverified; her closing seal claim59 is not independent proof.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q17",
+      "topic": "Useful commerce",
+      "current_qualification": "Fish/shop-water48-49 and merchants' thanks/praise/gift squid50 are actual reported observations; barrel-peeking rebuke48 also occurs. A fitted water-provision phase does not imply universal competence, pure motive or all technical outcomes.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q18",
+      "topic": "Charity resource path",
+      "current_qualification": "Eris priest gives bread51,repeated queueing52,explicit stop53,then Axis distribution55. Preserve the recipient/resource limit and sectarian credit shift; no legal theft finding, infinite supply or pure altruism inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q19",
+      "topic": "Cecily and unnamed actors",
+      "current_qualification": "Cecily is explicitly named sharing distribution55. The advertising56 is not individually tagged; no solo Cecily quotation or total plan is invented. Elder/priest/cop/vendors/children remain unnamed; no automatic Zesta/Eris-avatar/Sena/Komekko alias.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q20",
+      "topic": "Self-account alternatives",
+      "current_qualification": "Aqua's59 list uses real selected acts while omitting awkward context and seeking recognition/money. Sincere pious self-description and deliberate selective persuasion are rivals; narrator criticism alone does not prove she privately believes every claim false.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q21",
+      "topic": "K08 current adversity",
+      "current_qualification": "The separately supplied merit/payment appeal59 and observed counterevidence60 support a familiar status dispute; actual emphatic goddess-denial is direct and supplies no civil/procedural/information-seeking contrast. Record local adverse evidence with ordinary-angry-correction/legitimate-leverage limits, not a new blind F or altered old outcome.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q22",
+      "topic": "A03 response missingness",
+      "current_qualification": "Kazuma explicitly denies Aqua's goddess identity60, but the component ends before her reply or an adequate observable decision interval. No self-legitimation confirmation or failure is recorded from a terminal missing response.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q23",
+      "topic": "Historical author speech",
+      "current_qualification": "Afterword home-game/city-hermit self-presentation, ContinuedExplosions/poll-origin/adaptation news and next-volume anticipation are historical creator statements. No current production/news/biography verification or Kazuma-state attribution.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q24",
+      "topic": "Iris ring and coda",
+      "current_qualification": "Retained Ep34-40 gives a400Eris child's souvenir ring; Pr5 rejects a better substitute. Genuine value/thanksEp58 do not establish formal engagement, adult sexual meaning or all later permission. IMG026sleep/stuffed-toy caption is illustrator staging, not another actual ring choice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q25",
+      "topic": "Future script",
+      "current_qualification": "IMG027stages volume11castle banter,Komekko named by Megumin,child says home wentbon/vanished. No newly performed volume10house explosion,parent death,abandonment or extra family/royal decision is added.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q26",
+      "topic": "Megumin close portrait",
+      "current_qualification": "IMG011/C1P259-271 belongs to poisoning and provider-readiness crisis. Aqua is drunk/asleep270; this does not demonstrate failure of poison-immunity ontology. Church recovery is next-day report279; no shown Aqua cure or new voluntary romantic intimacy.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q27",
+      "topic": "Darkness bottle portrait",
+      "current_qualification": "IMG017 is Darkness362/364. Bottle is newly unsealed374-376; glass drug is initially Kazuma suspicion405 then her plan admitted444. He voluntarily escalates413-424 before selective helplessness account429/436; genuine gratitude393 is not erased. No completed sex or proven drug in bottle.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q28",
+      "topic": "Seating tussle",
+      "current_qualification": "IMG013/C2P140-148 is Iris/Megumin seating conflict/tussle/game agreement, with Claire/Rain143. Iris uses current princess role142; no new arm-wrestling win, magical duel, submission or independent SI trial.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q29",
+      "topic": "Cooking object and result",
+      "current_qualification": "IMG014/C2P264-299:Kazuma has Cooking, Iris asks to help270/274 and accepts bounded instructions280. Cabbage escapes291,Iris corrects basics294; completed meal299/enjoyment305 remain. Source skill is not infallibility or modern professional expertise.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q30",
+      "topic": "Aqua outdoor portrait",
+      "current_qualification": "IMG016/C3P8-12 is Aqua at the carriage driver's seat excited by Elroad crowd, not fountain leisure or a separate repeated encounter.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q31",
+      "topic": "Prince identity and age",
+      "current_qualification": "IMG018/C3P511-533 is first princeLevi with Iris in their first formal meeting522. Approximate age is narrator comparison to Iris512; no exact number, adult identity, eye injury or already complete knowledge of the later spy plan.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q32",
+      "topic": "All-party jail",
+      "current_qualification": "IMG020/C4P300-316:all are disarmed/in police custody304 after late-night loud magic309; no performed release in that checked interval. K's threat-manufacturing plan318-327 and actual failure303 remain; local laws are source-world facts, not real-world guidance.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q33",
+      "topic": "Dragon outcome",
+      "current_qualification": "IMG022/C5P97-148 includes DarknessDecoy99-100,Aqua actual buffs106/111,Iris concentration/cast125,and dragon body split147. Kazuma does not see technique mechanics148; no sole-credit, unlimited capacity, repeated independent trial or safely prepared M03 test from illustration.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q34",
+      "topic": "Restraint and escape phases",
+      "current_qualification": "C5P550-680:Darkness identifies fakeK562,hostage threat567 and her protective response coexist with specific gratification572. Ragcraft binds574/reveals585; later Iris threat612 changes stakes. IMG023teeth/closeface are gag-release effort644-647;KactualTinder648-652singes, Dnod655/fire657; ropes freed660 but handcuffs remain. No blanket consent, completed sexual act or unexplained reset.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q35",
+      "topic": "Small-caption adequacy",
+      "current_qualification": "IMG003Megumin line joins C1P196 and Aqua C1P155. Darkness's small full-caption transcription remains unverified despite private enlargement; C1P55 identifies the restraint parallel, not asserted word-for-word identity. No Japanese microcoding or extra event is based on unverified glyphs.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q36",
+      "topic": "Both optional scopes",
+      "current_qualification": "All7SI-C01 and7SY-C01 current new-excluded-narrative comparisons are no-opportunity: neither character appears in the new bonus. Profile/retained scenes/creator coda/promotion are excluded. Both original14null sets remain null.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q37",
+      "topic": "Historical controls",
+      "current_qualification": "Frozen current66/historical72/four scores/Dust14blank fields, all old R1/MG/SEC01 scopes/outcomes, six principal/party/transfer plus Iris/Yunyun model pins and original uncoded history remain exact. New adverse/partial/NT observations do not rewrite them.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    },
+    {
+      "id": "M10EX-Q38",
+      "topic": "Census and adequacy",
+      "current_qualification": "Actual Cecily participation and source-qualified unnamed leads feed the open audit. Private55working rows are not a final population denominator; no model tier, independent experiment, global frequency or full-program completion follows from this increment.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T15:05:03.982412+00:00"
+    }
+  ]
+}

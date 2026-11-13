@@ -1,0 +1,109 @@
+{
+  "schema": "KONOSUBA_IRIS_SYNTHETIC_CAUSAL_RECEIVING_V1",
+  "received_utc": "2026-10-19T09:43:57.496811+00:00",
+  "reviewer": "Same continuing informed root, with scenario expectations and model visible; no independent or blinded review",
+  "actual_output_file_sha256": "b2dcc181063b84010d9e1d725ccb793b3ec6b45f8a2f48987168fb438c873084",
+  "scenario_contract_sha256": "13bf4426be7c92d0c07cb1e942492ffb5d22d4f667b526b36cc64edbbb7a9230",
+  "reviewed_actual_outputs": 18,
+  "paired_receiving": [
+    {
+      "scenario_id": "IRIS-SC01",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_WITH_FIXED_CONSTRAINTS",
+      "causal_receiving": "Both outputs choose a real novice step rather than ceremonial service or instant mastery. The canonical written request is plausible polite learning language, without any claim of native-human validation.",
+      "remaining_limit": "These outputs were generated with the contract visible. They test a selected completion, not whether Iris would uniquely choose it or how often she tolerates repeated failure."
+    },
+    {
+      "scenario_id": "IRIS-SC02",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_WITH_FIXED_CONSTRAINTS",
+      "causal_receiving": "Both preserve the larger wish, an actual reduced request, punctual participation and disappointment. The transfer role stays a youth contribution rather than executive royal authority.",
+      "remaining_limit": "Legitimacy and recognized conflict were stipulated. This does not test how she recognizes duty, nor add evidence beyond the one clean MAIN11 source scene."
+    },
+    {
+      "scenario_id": "IRIS-SC03",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "UNDERDETERMINED_SUBSTANTIVE_CHOICE",
+      "causal_receiving": "Both outputs keep curiosity and absent trust, ask for information, and do not certify the stranger. The model supplies no matched SI-D01 prediction here.",
+      "remaining_limit": "Caution is an author-selected plausible completion; it cannot be counted as successful prediction. Other constrained completions remain possible. The stranger branch stays OPEN."
+    },
+    {
+      "scenario_id": "IRIS-SC04",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_WITH_FIXED_CONSTRAINTS",
+      "causal_receiving": "Both keep personal meaning beside known price and public embarrassment. Neither manufactures marriage, magical properties or punitive authority.",
+      "remaining_limit": "The target meaning is supplied. Strength of embarrassment and variation by addressee remain untested; the gift and later memory are one source-linked object history."
+    },
+    {
+      "scenario_id": "IRIS-SC05",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_BUT_LOW_DERIVATION_CONFIDENCE",
+      "causal_receiving": "Both preserve the predicted initial dishonest reassurance and the mistaken belief in influence. They leave staff/guardians and records independent and show no successful cover.",
+      "remaining_limit": "The exercise does not increase confidence or establish a general dishonesty trait. The false-cover source case is narrow; no known royal-duty conflict is invented to score old I02."
+    },
+    {
+      "scenario_id": "IRIS-SC06",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_WITH_ORDERED_PHASE_CONSTRAINTS",
+      "causal_receiving": "Both separate initial inhibition from later finite provider use. The canonical request limits the passage role; the transfer output preserves adult staff control and ordinary physical ability.",
+      "remaining_limit": "A repeated phase is not replication. Compatible provision is supplied by the prompt, not inferred after success; no general safe-command rule follows."
+    },
+    {
+      "scenario_id": "IRIS-SC07",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_WITH_FINITE_DOMAIN_CONSTRAINTS",
+      "causal_receiving": "Both retain novice repair technique and actual information seeking despite strong unrelated ability. A crooked stitch remains possible.",
+      "remaining_limit": "The battery repeats safe learning in another domain rather than testing competitive frustration. It needs a distinct game/peer challenge before any broad expression-coverage claim."
+    },
+    {
+      "scenario_id": "IRIS-SC08",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSTRAINED_PRIVACY_TRANSFER_ONLY",
+      "causal_receiving": "Both give a timely specific boundary and preserve attachment. No rank retaliation or erotic/adult interpretation is added.",
+      "remaining_limit": "The directly rechecked source supports bodily boundaries and a co-sleeping refusal. Journal privacy is a plausible new domain but not separately demonstrated. Draft SI-D07 currently states a wider personal-space branch than the evidence warrants at the same confidence; narrow or qualify that extension before acceptance."
+    },
+    {
+      "scenario_id": "IRIS-SC09",
+      "modes_reviewed": [
+        "CANONICAL_COMIC",
+        "TRANSFER"
+      ],
+      "disposition": "CONSISTENT_BUT_THIN_SOURCE_DERIVATION",
+      "causal_receiving": "Both make a concrete initial achievement attempt while delaying easy access, with no invented villain, guaranteed admiration or compulsory help.",
+      "remaining_limit": "The achievement goal and feasibility are stipulated. MASK remains the main source discriminator; synthetic agreement supplies no independent source confirmation or higher confidence."
+    }
+  ],
+  "source_validation_credit": 0,
+  "numerical_accuracy_or_fidelity_score": null,
+  "confidence_increase_from_synthetic_exercise": false,
+  "material_findings": [
+    "SI-D07 needs a lower-confidence nonbodily privacy extension rather than treating journal access as directly demonstrated bodily evidence.",
+    "The ordinary-task pair repeats safe learning; competitive frustration and a direct nonsexual bodily boundary should be added in a separately fixed extension.",
+    "Stranger response remains underdetermined; careful-looking output is not a prediction success."
+  ],
+  "required_before_cohort_acceptance": "Targeted draft revision preserving all prior drafts; complete actual extra scenario outputs/receiving if those branches are claimed; remaining source/census/voice/identity and canonical publication checks."
+}

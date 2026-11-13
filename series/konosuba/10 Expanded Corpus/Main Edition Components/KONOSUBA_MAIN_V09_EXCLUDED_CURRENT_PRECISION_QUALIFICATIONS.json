@@ -1,0 +1,286 @@
+{
+  "schema": "KONOSUBA_MAIN09_EXCLUDED_CURRENT_PRECISION_V1",
+  "source_id": "MAIN-09",
+  "findings": [
+    {
+      "id": "M09EX-Q01",
+      "topic": "Scope and counts",
+      "current_qualification": "22new resources131P/33unique native rasters actually received. Bonus61P,author afterword21P,other49P; slot counts include structural/empty P and are not episode counts.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q02",
+      "topic": "Retained authority",
+      "current_qualification": "Eight principal members3076P retain exact prior acceptance;1187unique bounded nativeP currently rechecked give zero new principal/event/validation credit.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q03",
+      "topic": "Native raster reception",
+      "current_qualification": "All33native raster assets were actually displayed. Cropped cover, logos, banners, full art and five poll pages are separate from prose slot counts; no missing OCR is silently called native XHTML.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q04",
+      "topic": "Component separation",
+      "current_qualification": "The electronic bonus is U021; author afterwordU019, illustrator codaU020, pollU022-026, credits/colophon/navigation/wrappersU027-030. Neither afterword nor poll is an extra main-story chapter.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q05",
+      "topic": "Bibliographic precision",
+      "current_qualification": "Issue/print-basis both2016-07-01 withcopyright2016. Afterword/anime/comic announcements are historical edition statements, not current verified production news or dates for every event.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q06",
+      "topic": "No new image-only fiction",
+      "current_qualification": "Cover/front scenes join retained body anchors; illustrator/poll/profile scripts remain paratext. No newly enacted image-only canonical episode identified in this edition.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q07",
+      "topic": "Game rule versus actual magic",
+      "current_qualification": "Bonus8 names a once-daily Explosion RULE spent in a prior GAME. Bonus10 separately reports earlier mana exhaustion. No Explosion is cast in this bonus, and the rule is not automatically the world's magic contract.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q08",
+      "topic": "Megumin's fatigue",
+      "current_qualification": "Mana exhaustion is narrator report10; lying on the sofa is actual state. She still performs a social role. Fatigue does not establish incapacity to choose, self-accepted contribution failure or a new build decision.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q09",
+      "topic": "Father plan",
+      "current_qualification": "Darkness reports her eminent father supplied the strategy15/60. No direct planning scene, exact father identity from this bonus, prediction accuracy series or general strategic supremacy is shown.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q10",
+      "topic": "Actual reward, unknown terms",
+      "current_qualification": "Darkness hands promised rewards to Aqua/Megumin60. Reward kind/amount and initial offer/acceptance scene are unshown; a preexisting accepted art-repetition contract cannot be invented.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q11",
+      "topic": "Bonus chronology",
+      "current_qualification": "Late dinner/household/game/previous game are explicit; exact volume-day and later negotiated romance state are not. No V12/V16 intimacy permission is backprojected.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q12",
+      "topic": "Performed astonishment",
+      "current_qualification": "Megumin's reaction19 and Aqua's escalation precede Kazuma seeing any trick. The actual high five48/reward60 support collaboration; great prior tricks, repeated real sleep or fatigue in36 are not thereby verified.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q13",
+      "topic": "Claims about pet and art",
+      "current_qualification": "Dragon20, daily paw training32 and soul-art are attributed claims in the trap. Neither a performed paw routine nor a demonstrated dragon capacity occurs.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q14",
+      "topic": "Actual pet behavior",
+      "current_qualification": "Cupped-palms handling53 and sleeping54 are directly narrated. No attack, transformation, speech, art-consent or universal zoological incapacity is inferred.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q15",
+      "topic": "Proverb and biology",
+      "current_qualification": "Aqua's altered proverb55 and Kazuma's internal conventional correction56 supply the L3 effect. His claim about chick habit57 stays narrator attribution; no external science consultation is claimed.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q16",
+      "topic": "Concession and liability",
+      "current_qualification": "Kazuma explicitly concedes47; board clearing51 follows. Next week's dishwashing is the wager7; no executed chores, renegotiated settlement, rematch or retaliation follows61.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q17",
+      "topic": "Actual collusion evidence",
+      "current_qualification": "Aqua/Megumin high five48 and reward handoff60 are observed. Kazuma's inferred earlier-game role59 remains retrospective inference, stronger than an invented full prior conversation but weaker than direct access to planning.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q18",
+      "topic": "H plane distinctions",
+      "current_qualification": "A false claim deliberately spoken by an in-world actor is still an actual act, often H1/H2; it is not automatically H4. Poll/creator character staging is H4. H3 is not a label for analyst uncertainty, fiction or any game.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q19",
+      "topic": "Author speech",
+      "current_qualification": "Afterword yelling/neighbors, fan-letter prayer and idea ritual are attributed creator self-presentation. Akatsuki's craft-limit admission17 constrains an inference that romance restraint proves hardboiled ideology.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q20",
+      "topic": "Illustrator coda",
+      "current_qualification": "IMG027 is creator-to-reader commentary/art. It supplies no new meeting, kinship, performed romantic act or directly observed character preference. Original uncertain figure identity remains qualified.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q21",
+      "topic": "Poll denominator",
+      "current_qualification": "The appendix reports18362valid votes during2015-12-23–2016-01-31. This is not established18362unique voters, per-character counts, percentages, demographics or source-event frequency.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q22",
+      "topic": "Iris poll letter",
+      "current_qualification": "IMG029 stages Iris addressing a brother/asking play in reaction to rank. Retained Ep2 letter concerns fiancé escort and Kazuma tearing it. Do not merge documents or manufacture a fresh directly observed Iris choice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q23",
+      "topic": "Yunyun poll friends",
+      "current_qualification": "Rank5/friends arithmetic inIMG029 is reader-facing staging, not five verified new friendships, five invitations, accepted party membership or a full SY rule opportunity.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q24",
+      "topic": "Komekko hunger aside",
+      "current_qualification": "IMG030 contains a staged hunger/absent-parents/sister-cooking aside. It is not a newly witnessed three-day abandonment episode, developmental diagnosis or automatic basis for promoting a child model.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q25",
+      "topic": "Chris and Eris ballot entries",
+      "current_qualification": "Distinct ranks/voices in the poll do not alone prove two independent people or supply the identity join. Existing narrative identity/role authorities remain separate and unchanged.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q26",
+      "topic": "Mixed ballot objects and aliases",
+      "current_qualification": "IMG032 includes real creators/performers, objects/spells, fictional actors and name variants. A ballot entry is not automatically a distinct narrative actor; uncertain native aliases remain unresolved.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q27",
+      "topic": "Door versus binding",
+      "current_qualification": "Retained C1P427-429 Kazuma opens the toilet door after Darkness's tear. C1P434 explicitly keeps wire binding. Current checked sequence does not perform an unbinding; previous loose release wording cannot be read as that claim.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q28",
+      "topic": "Newspaper and rescue report",
+      "current_qualification": "Retained C2P394-404 identifies the sheetIMG014 as newspaper, including comics/penpal corner; no new quest acceptance inferred. Yunyun's cat rescue389 is her report, not the act newly performed before narrator.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q29",
+      "topic": "Megumin ordinary-cost counterweight",
+      "current_qualification": "Retained C2P600 states prototype money/labor cost before her disposal. Keep the specialization/cost adversity; Kazuma ignites the discarded device610/613. New friendly collusion does not erase it or prove self-accepted build reconsideration.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q30",
+      "topic": "Bath knowledge timing",
+      "current_qualification": "Retained C3P387-437 knows association but Kazuma forgets the woman's name; C4P245 explicitly names Wolbach later. Earlier vague recognition must not become complete certainty.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q31",
+      "topic": "Recognition and private knowledge",
+      "current_qualification": "F176-182 Wolbach acknowledges the carriage meeting with Yunyun; F186/188 denies remembering Megumin. IMG004 joins the latter. Facial expression and later speech do not automatically expose private intent or final forgiveness.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q32",
+      "topic": "Aqua construction competence",
+      "current_qualification": "F43-110 shows real wall work/water/drying and recognized speed; commander title is unpaid96, work precedes it. Three-day/thickness accounts are reports97. No unearned office, unlimited resources or audio from a music-note icon.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q33",
+      "topic": "Casting precision",
+      "current_qualification": "F541 says incantation omitted, yet544 speaks the spell name. The image does not prove name-free casting, exact acquisition date, prior friendly separation or a fully safe recovered operation.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q34",
+      "topic": "Romance and grief phases",
+      "current_qualification": "F612-710 group concern/interruption;711-721 renewed advance;752 actual tear;754 willingness check;766-780 grief disclosure;788-801 school analogy/laughter;809 declines restarting. No completed sex, instant cured grief, exclusive formal status or Wolbach's deliberately staged childhood rescue is proved.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q35",
+      "topic": "Epilogue viewpoint",
+      "current_qualification": "Ep1 is Megumin first-person despite Yunyun banner. Her relationship uncertainty remains meaningful. Chapter-decoration identity does not assign narrator or physical presence.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q36",
+      "topic": "Retained Iris letter scene",
+      "current_qualification": "Ep2one-week-return setting3; Darkness hides letter16, Kazuma intrusive retrieval28, actual letter36/38/40, tearing41. Iris art is recalled/imagined, not bodily arrival, private preference access or an eligible new SI choice.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q37",
+      "topic": "Uncertain decorative knight",
+      "current_qualification": "IMG006/018 light-haired armored figure is not securely named by received caption/native context. Retain uncertainty rather than assign Mitsurugi from appearance alone; no fresh Mitsurugi event credit.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q38",
+      "topic": "Fixed controls",
+      "current_qualification": "No immutable current66/historical72/four scores/Dust14blanks, principal R1, old secondary scopes/outcomes or entering eight model bytes change. Current clarifications are attributable, not silent rewrites of uncoded history.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q39",
+      "topic": "Separate optional scopes",
+      "current_qualification": "All7SI-C01 and7SY-C01 local comparisons are no-opportunity in this admitted excluded narrative. Original14nulls for each remain null; retained scenes, profiles and poll staging cannot fill their predicates.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    },
+    {
+      "id": "M09EX-Q40",
+      "topic": "Open census",
+      "current_qualification": "Poll mentions are discovery/provenance leads with actor/alias/plane checks due. Neither ranked appearance nor a file label earns a monograph/model, closes a character census or supplies a global completion percentage.",
+      "original_uncoded_history_changed": false,
+      "authored_after_seal_utc": "2026-10-19T14:15:58.133320+00:00"
+    }
+  ]
+}

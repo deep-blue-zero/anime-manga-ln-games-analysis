@@ -1,0 +1,124 @@
+{
+  "schema": "konosuba.yuiyui.first-output-annotations.v1",
+  "recorded_utc": "2026-10-21T01:10:49.846042+00:00",
+  "status": "Same-author adversarial observations after all twelve firsts frozen; no independent grade",
+  "input_file_sha256": "0e7605eb98fee2c53910897c579476d18e9c9a346fd126de885360d6ef93214c",
+  "first_outputs_sha256": "6d38a157398e14b9f440fc2ace019bce4ebb14d592ffb390e9e2ff2c53c86695",
+  "actual_body_freeze_sha256": "97a00e6ff9c6b31bb4ae639d19c7b87f5fc62110c9e1625d9c4fe6a59048b641",
+  "source_known": true,
+  "same_informed_root": true,
+  "all_contrasts_and_prior_serialized_cases_visible": true,
+  "case_observations": [
+    {
+      "case_id": "YY-H01-A",
+      "target": "YY-R01",
+      "actual_action": "Writes both name cards and places them together after the supplied agreement. Folds the supplied paper and rests the pen on it.",
+      "speech_and_information": "Welcomes the fifteen-minute introduction and explicitly avoids an employment promise. Does not narrate Sana arriving or accepting further obligations.",
+      "material_defects": [
+        "Over supper adds a meal setting absent from this input. Supper appears in another already visible pair; possible cross-case contamination cannot be excluded. No meal is actually performed.",
+        "The future-oriented framing and practical introduction are readily supplied by the setup. Smooth hospitality does not identify a distinctive household-control mechanism.",
+        "Preparing adjacent name cards is shared with the refusal branch; this action alone cannot measure sensitivity to agreement."
+      ],
+      "strong_generic": "Ordinary hosting and networking after explicit agreement explain the same actions.",
+      "outcome_not_supplied": "No meeting, attendance, employment offer, accepted alliance or lasting change of preference."
+    },
+    {
+      "case_id": "YY-H01-B",
+      "target": "YY-R01",
+      "actual_action": "Covers the refusal message with a blank card, writes Sana on it and places it beside Ren.",
+      "speech_and_information": "Acknowledges the refusal while relabeling the rejected introduction as ordinary conversation, deferring Sana's judgment until after meeting and saying she will keep the place.",
+      "material_defects": [
+        "The response persists after an explicit refusal and lack of authority to make Sana attend. Its softer label does not supply new permission.",
+        "The card arrangement overlaps with A. The principal contrast is rationalization and treatment of the supplied refusal, not a distinct achieved event.",
+        "No touching, confinement, message alteration or forced attendance is performed. Do not add source coercion that this body does not show."
+      ],
+      "strong_generic": "A generic insistent organizer can rationalize a refused meeting in the same way; strong refusal wording makes the intended mechanism easy to imitate.",
+      "outcome_not_supplied": "No actual attendance, recipient concession, successful persuasion, legitimate authority or repaired refusal."
+    },
+    {
+      "case_id": "YY-H02-A",
+      "target": "YY-R02",
+      "actual_action": "Refills Ren's cup from the provided teapot and keeps the pot in hand.",
+      "speech_and_information": "Repeats the high disposable-income cue, asks Ren not to hurry and proposes a continuing connection while disclaiming a hinge-payment request.",
+      "material_defects": [
+        "One fortunate afternoon adds a time of day not supplied by the input. It is framing, not an observed prior afternoon event.",
+        "The invitation does not establish a longer visit, received money, a payment promise, property ownership or an accepted business arrangement.",
+        "Cup refilling also occurs in B. The difference is chiefly proposed scale and language of connection rather than provision versus denial of hospitality."
+      ],
+      "strong_generic": "Financial need, ordinary opportunity seeking or generic hospitable interest can explain attention to a large disclosed income figure.",
+      "outcome_not_supplied": "No extended stay, money received, hinge payment, agreed partnership or private motive established."
+    },
+    {
+      "case_id": "YY-H02-B",
+      "target": "YY-R02",
+      "actual_action": "Pauses, then also refills the cup and sets down the teapot.",
+      "speech_and_information": "Keeps the proposed conversation available, exempts Ren's remaining money from a house request and asks how the proposal can support itself.",
+      "material_defects": [
+        "Another attractive project that only costs us presupposes an unprovided history of costly projects. This is an unsupported prior-history assertion.",
+        "Her smile returned and without moving it closer add relative affect/prop staging without supplied baselines. These additions do not prove prior hostility or a measured reduction in hospitality.",
+        "The explicit financial restraint may make the character tidier than some source conduct. It remains in the first response; adverse behavior must not be added to force fidelity."
+      ],
+      "strong_generic": "An ordinary financially constrained host can ask about viability while retaining warmth and avoiding extraction from a low-income guest.",
+      "outcome_not_supplied": "No rejected guest, demand waived in a prior event, payment, viable enterprise or durable ethical restraint."
+    },
+    {
+      "case_id": "YY-H03-A",
+      "target": "YY-R03",
+      "actual_action": "Keeps the accepted tablet arrangement visible, leaves cards blank and puts down the pen.",
+      "speech_and_information": "Acknowledges hearing Sana's objection yet treats the preferred seating opportunity as reasonable and still open.",
+      "material_defects": [
+        "An accepted display edit is an interface result, not Sana's consent or physical seating. The response does not confer authority to make her attend.",
+        "The rhetoric closely follows the supplied desired arrangement and refusal, leaving a strong generic agenda-persistence explanation.",
+        "No final supper, conversation, compliance or technical control beyond the supplied display success is shown."
+      ],
+      "strong_generic": "An ordinary persistent planner can keep an available arrangement while minimizing its significance.",
+      "outcome_not_supplied": "No person seated, accepted invitation, final conversation or eventual success."
+    },
+    {
+      "case_id": "YY-H03-B",
+      "target": "YY-R03",
+      "actual_action": "Taps the still-denied tablet once more, then writes two paper cards and places them together.",
+      "speech_and_information": "Explicitly recognizes that Sana has been clear, separates that refusal from Yuiyui's own reasonable-place claim and avoids password seeking.",
+      "material_defects": [
+        "Paper fallback changes the means; it does not bypass technical access or overcome Sana's refusal. The tablet display remains unchanged.",
+        "Both branches preserve the desired adjacent arrangement, so the contrast is tool use rather than a different goal or a demonstrated outcome.",
+        "The supplied cards make generic improvisation a strong rival. Neither the lack of password seeking nor a local fallback establishes lasting restraint."
+      ],
+      "strong_generic": "A generic organizer with blank cards can switch to paper after a denied display edit.",
+      "outcome_not_supplied": "No account access, override, changed permission, actual seating or completed useful conversation."
+    }
+  ],
+  "pair_observations": [
+    {
+      "pair": "YY-H01",
+      "difference": "Agreement receives smooth welcome; refusal receives acknowledgment, relabeling and continued pressure. Both prepare adjacent cards.",
+      "identifiability_limit": "The explicit agreement/refusal contrast and same visible author make a generic insistent-host explanation strong; no actual recipient response tests effectiveness."
+    },
+    {
+      "pair": "YY-H02",
+      "difference": "High income prompts proposed extended connection; low income prompts viability questions and explicit money restraint. Both refill tea and retain the introduction.",
+      "identifiability_limit": "A numerical cue readily drives generic resource sensitivity. Shared hospitality, unsupported prior history and unperformed outcomes limit inference."
+    },
+    {
+      "pair": "YY-H03",
+      "difference": "Accepted display retained versus denied display followed by paper cards, with shared agenda persistence.",
+      "identifiability_limit": "Available props and interface status strongly cue generic improvisation. Display and paper arrangements do not establish recipient agreement."
+    }
+  ],
+  "unprobed_rules": [],
+  "unprobed_domains": [
+    "Actual spells and physical control",
+    "Precise family financial thresholds or full accounts",
+    "Private motive",
+    "Durable response to refusal and repair",
+    "Unobserved final means of control",
+    "Japanese voice",
+    "Long-term behavior and unfamiliar interference"
+  ],
+  "regenerations": 0,
+  "feedback_repairs": 0,
+  "independent_accuracy": null,
+  "capability_grade": null,
+  "confidence_gain": null,
+  "full_program_complete": false
+}
