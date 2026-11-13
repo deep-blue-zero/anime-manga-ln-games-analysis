@@ -93,3 +93,7 @@ New bytes receive a new witness alias even when the package UUID, title or filen
 ## V01 source coverage
 
 [V01 witness and coverage](readings/KSOA_V01_DEEP_READING.md#witness-and-coverage) binds every narrative span and accounts for the excluded paratext. The local SHA-256 matched the selected Japanese witness at reading. The narrative is read through [KSOA-V01-H-0013](readings/KSOA_V01_DEEP_READING.md#ksoa-v01-h-0013). Verification applies to the exact witnessed source and described inspection route. Full EPUBCheck and publisher-master equivalence remain unverified.
+
+## V02 source coverage
+
+[V02 witness and coverage](readings/KSOA_V02_DEEP_READING.md#witness-and-coverage) binds every narrative span and accounts for the excluded paratext. The local SHA-256 matched the selected Japanese witness at reading. The narrative is read through [KSOA-V02-H-0015](readings/KSOA_V02_DEEP_READING.md#ksoa-v02-h-0015). Verification applies to the exact witnessed source and described inspection route. Full EPUBCheck and publisher-master equivalence remain unverified.
