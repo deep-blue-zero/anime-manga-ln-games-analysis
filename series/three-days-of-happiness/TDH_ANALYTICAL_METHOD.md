@@ -3,7 +3,7 @@ title: "Three Days of Happiness — Governing analytical method"
 artifact_id: TDH_TDH_ANALYTICAL_METHOD
 artifact_type: project_analytical_method
 series: three-days-of-happiness
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing analytical method"
@@ -72,6 +72,16 @@ Acceptance requires full unit coverage and return to each load-bearing anchor. U
 Before semantic acceptance, sample the introduction, a substantial middle passage and the exit synthesis for identifiable named subjects, clear pronouns, purposeful role labels, correct speaker/thinker/recipient attribution and preserved source concealment. Extend the sample to every major relationship where confusion is possible. Record the sampled scope and classify material findings under handoff §15.6 as `JUSTIFIED_ROLE_REFERENCE`, `SOURCE_REQUIRED_ANONYMITY`, `KNOWLEDGE_BOUNDARY_REQUIRED`, `UNNECESSARY_GENERICIZATION`, `AMBIGUOUS_REFERENT` or `INCORRECT_IDENTITY_OR_ATTRIBUTION`. Repair only evidence-supported defects; counts or automatic name substitution do not certify referential clarity.
 
 At the end of the novel, audit all units and unresolved claims before a retrospective synthesis. Reconsider early claims using later evidence in a new layer, while retaining their original knowledge boundaries. The standalone design has no artificial multi-volume tranche requirement; pauses instead follow mapped chapters and causal transitions.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing reading begins with a clearly labeled **Current-unit story synopsis**, after the brief witness/coverage receipt and entering context, before the governing interpretation or ledger inventory. Its scope is the mapped chapter or coherent causal sequence admitted for that reading; this standalone novel does not become an undifferentiated whole-book unit merely to supply an ending. A separately authorized whole-novel retrospective account has its own declared boundary.
+
+Write connected, accessible prose explaining the opening situation, named participants and stakes, consequential actions and decisions, causal turns, material disclosures and state at this unit's ending. Preserve meaningful scene order and concrete physical-event mechanics where the prose establishes them. Briefly distinguish inherited developments from what happens in this unit. Separate narrated or witnessed events from a speaker's testimony, focalized belief, analyst conjecture and unresolved outcomes without giving the narrator unearned omniscience. Scale detail to the unit's density; there is no fixed word count. Material event claims carry retrievable source locators or stable observation references, without turning the account into an evidence table.
+
+The synopsis is unit-end, spoiler-bearing orientation. Compose or finalize it after all applicable entering and within-unit prospective captures are frozen; do not expose it or the full completed reading to an earlier-horizon analyst. It may disclose every resolution established within the authorized current unit, including the novel's ending when that is the admitted final unit, but must exclude information from later units or beyond this reading's declared disclosure horizon. It adds no independent evidence and supplements the complete causal, linguistic, formal, character and counterreading arguments and their notebook transaction. Future acceptance checks both the synopsis and every existing requirement in this section. No existing frozen reading is rewritten, and the CLOSED analysis lock remains governing.
 
 ## 8. Reconstruction boundary
 
