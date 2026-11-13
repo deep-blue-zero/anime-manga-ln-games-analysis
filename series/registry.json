@@ -462,6 +462,22 @@
       "authority_status": "GIT_PRIMARY"
     },
     {
+      "series_id": "kamakura-sho",
+      "stable_slug": "kamakura-sho",
+      "canonical_title": "Kamakura Police Station: The Case Files of Asumi Ogasawara / 鎌倉署・小笠原亜澄の事件簿",
+      "media": [
+        "NOVEL"
+      ],
+      "repository_path": "series/kamakura-sho/",
+      "canonical_entrypoint": "series/kamakura-sho/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "canonical_entrypoint_status": "PRESENT_VERIFIED",
+      "materialization_status": "PRESENT_REVIEWED",
+      "migration_scope": "GIT_NATIVE_POST_CUTOVER_KAMAKURA_SHO_BOOTSTRAP_20261112",
+      "authority_status": "GIT_PRIMARY",
+      "project_initiation_gate": "REQUIRED",
+      "catalog_note": "Japanese detective novels by Kyōichi Narukami, with source-grounded analysis of investigations, mystery disclosure, character and relationship development, and literary form."
+    },
+    {
       "series_id": "kimishinu",
       "stable_slug": "kimishinu",
       "canonical_title": "KimiShinu",

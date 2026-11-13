@@ -40,6 +40,7 @@ This is the Git-side navigation index derived from the historical Drive hierarch
 - [Henshin - Metamorphosis](../series/henshin-metamorphosis/) — `series/henshin-metamorphosis/`
 - [Honkai: Star Rail](../series/honkai-star-rail/) — `series/honkai-star-rail/` — Independent versioned Honkai: Star Rail game project with source-, state-, language- and continuity-bounded analytical responsibilities; distinct from the HoYoverse source-library umbrella.
 - [IDOLY PRIDE](../series/idoly-pride/) — `series/idoly-pride/`
+- [Kamakura Police Station: The Case Files of Asumi Ogasawara / 鎌倉署・小笠原亜澄の事件簿](../series/kamakura-sho/) — `series/kamakura-sho/` — Japanese detective novels by Kyōichi Narukami, with source-grounded analysis of investigations, mystery disclosure, character and relationship development, and literary form.
 - [KimiShinu](../series/kimishinu/) — `series/kimishinu/`
 - [KonoSuba](../series/konosuba/) — `series/konosuba/`
 - [Legend of the Galactic Heroes](../series/legend-of-the-galactic-heroes/) — `series/legend-of-the-galactic-heroes/`
