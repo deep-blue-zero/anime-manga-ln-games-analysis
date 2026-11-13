@@ -1265,3 +1265,10 @@ That is the bounded Phase-3 meaning of **heroic rivalry**.
 - **Recommended model for first Phase-4 bounded event tranche:** GPT-5.6 Sol — Extra High, per architecture default for one bounded event/support tranche.
 - **Recommended model for integrated Tsubame AV baseline:** GPT-5.6 Pro, because it must reconcile several songs, dialogue-performance states, rivalry scenes, and the textual model.
 - **Reopen requirement:** numbered events, support cards, relationship synthesis, and AV evidence must be allowed to revise this model before the Phase-7 definitive monograph.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+Tsubame takes the title from Sena in D-TSUBAME 036, asks Sena to pursue her, and chooses a Producer for the next stage in 037. The P3 final-failure fragment instead gives Sena a fourth title and Tsubame a continued rivalry. The rehearsal in 033 shows Tsubame acting on institutional access for the ensemble, including permission for Rinha to rehearse. In Dear 031 Rinami tells Tsubame that her encouragement at a festival helped Rinami qualify (L431), a strong comparison to E028 with the two source states retained.
+
+[Source reading 1](GKM_TSUBAME_WINTER_HIF_SOURCE_REFRESH.md) · [Source reading 2](../../02_STORY_EVENT_READINGS/GKM_EVENTS_027_028_030_TRANSCRIPT_REFRESH.md)

@@ -189,9 +189,59 @@ For each pilot subject, the evaluator prepares a candidate and a calibration not
 - evidentiary contradiction from ordinary ambiguity; and
 - speculative counterfactuals from supported extrapolations.
 
-Independent review is semantic: the reviewer re-derives judgments from the evidence and records agreements, disagreements, and corrections. Systematic overgrading, unsupported scenario readiness, or limits stated as gaps when evidence affirmatively shows them blocks acceptance until the method is corrected and the affected pilots are re-run.
+Independent review is semantic: the reviewer re-derives judgments from the evidence and records agreements, disagreements, and corrections. Systematic overgrading or undergrading, unsupported scenario readiness, or limits stated as gaps when evidence affirmatively shows them blocks acceptance until the method is corrected and the affected pilots are re-run.
 
 The readiness gate for `ROUTINE` is an owner-accepted calibration record under `governance/reports/` stating the pilot set, the reviewed outcomes, each distinction exercised, the fixed method version, and remaining known weaknesses. The owner then sets the phase and record in the policy file through a governance change. Pilot candidates may be published during calibration only as `CANDIDATE` records through owner-merged PRs.
+
+### Owner calibration rulings
+
+These rulings record how the owner reads the specification's tier definitions after reviewing the first My Hero Academia and Tomozaki cohort (PR #540). They bind the evaluator's grading and add no tier criterion beyond the specification. The first cohort showed systematic undergrading: the evaluator identified operational models and supported conditional predictions, then rejected B because those predictions had limits.
+
+**B and C.**
+
+- B is a strong inferential model with explicit bounded uncertainty. The evidence explains why the character's response changes when the relationship, stakes, knowledge or chronology change, and the record states where that explanation stops. Partial probe results, medium-confidence reconstructions and unsupported domains narrow a B's scope and confidence; on their own they do not make the record C.
+- C is specialist-supported interpretation, possibly with narrow extrapolation, where the evidence does not establish that discriminating account. C is compatible with `CONDITIONAL` scenario readiness: it excludes unconstrained simulation, not bounded extrapolation.
+- Judge the tier within the record's declared scope. Missing support outside that scope restricts use; it does not lower the tier. Count each uncertainty once: if it narrows a scenario's conditions, it is not also a reason to deny the tier that accommodates the narrowing.
+- Distinguish productive uncertainty from insufficiency. Not knowing the exact wording, topic or affect is productive uncertainty. Being unable to tell which of the competing motives decides a choice is insufficiency.
+- These are not tier criteria: `DIALOGUE` readiness, blind or held-out validation, ordinary-life coverage, and the number of B dimensions or `CONDITIONAL` scenarios. Their absence limits confidence or permitted use and is recorded as a limit. A partial or retrospective probe is evidence: state what it shows about the model.
+- A model derived from a monograph is one line of evidence, not independent corroboration. Derivation from analytical evidence is expected and is not a deficiency.
+- A generated response is noncanonical by nature. For `DIALOGUE` and voice, ask whether the evidence constrains the output enough for the declared use. "Illustrative, never quotation" bounds the use of output; it is not a finding that output is unsupported. A project's caveat that some strings are retrieval aids applies only to the strings it names.
+- A useful model predicts the character's mistakes and overreach, not only prudent or ethical conduct.
+- For each overall tier, the calibration note explains both why the next tier up would overclaim and why the next tier down would understate what the evidence shows. Earlier candidates are not precedent; these rulings are.
+
+**Safeguards that stay.**
+
+- A temporal boundary limits which evidence may be used, as in a validation freeze. It never limits what the character knows: memories revealed late in the source belong to the character at every earlier state they predate.
+- Chronology conditions split a volume at a located state change inside it. One whole-volume label never covers two capability states.
+- Scenario conditions cover the relationships the evidence samples. A transfer to a comparable relationship is a separate, lower-confidence condition with its own justification.
+- An exceptional or terminal transformation is not generalized into a transferable policy, and behavior is attributed to whoever is in control in that state.
+
+**Anchors.** These explain the reasoning; they set no quota or threshold.
+
+- *Bakugo and Midoriya, bounded B.* Each model specifies what changes the response. For Bakugo that is competence, trust, perceived pity, task meaning and danger (BK04a–c, BK09). For Midoriya it is the difference between emergency initiative, sustained overtraining and restraint that preserves a later rescue (MI01a–c, MI11). Exact emotional expression, private life and adult outcomes stay outside scope, and that does not lower the tier.
+- *Toga, C.* The model makes narrow predictions about attraction, perceived rejection, bereavement and resources. It cannot yet say which priority wins when recognition changes the relationship (TG-V01), and her terminal correction does not transfer.
+- *Shigaraki, a scope case.* Autonomous Tomura has a B-like submodel, but a whole-scope record that also admits override and fused states does not establish it. The tier follows the declared scope.
+
+**Directed supersessions.** The owner does not accept the twelve PR #540 candidates as they stand and directs a superseding candidate for each. The expected outcome is the owner's reading of the evidence, not a grade to copy. The evaluator re-derives every claim at a current basis; where the evidence does not support the expected outcome, it publishes the tier the evidence supports and explains the difference in the calibration note.
+
+| Subject | Expected outcome | Corrections |
+| --- | --- | --- |
+| `my-hero-academia:bakugo-katsuki@manga` | B | — |
+| `my-hero-academia:midoriya-izuku@manga` | B | — |
+| `my-hero-academia:todoroki-shoto@manga` | Bounded B | Domestic routine, humor and exact affect stay limited. |
+| `my-hero-academia:endeavor@manga` | Bounded B | Covers the professional and accountability mechanisms (EN03–07), not every unprecedented family crisis; EN-V01's partial relational result stays a limit. |
+| `my-hero-academia:all-might@manga` | B | His youth and Nana's teaching are his knowledge throughout. Split V11 and V40 at the located state changes. Mundane-social conditions cover the sampled Midoriya and Inko interactions, with any transfer to a comparable student as a separate, lower-confidence condition. `NEGATIVE_EVIDENCE` B. The V39 correction about his intent stays local. |
+| `my-hero-academia:shigaraki-tomura@manga` | C | Restrict cross-scenario conditions to autonomous-Tomura states. Narrow ethical readiness to located positions. Professional readiness drops V38–V41 Tomura unless evidence after augmentation supports it. |
+| `my-hero-academia:himiko-toga@manga` | C | Correct the dialogue rationale under these rulings. |
+| `my-hero-academia:todoroki-toya@manga` | C | Correct the dialogue rationale under these rulings. |
+| `tomozaki:kikuchi-fuka@light-novel` | B | Keep the monograph's restriction on freeform Japanese. |
+| `tomozaki:tomozaki@light-novel` | B | Durability under another unique-usefulness crisis is untested and limits that domain. |
+| `tomozaki:hinami@light-novel` | Bounded B | Hidden priorities and novel crisis responses stay outside scope. |
+| `tomozaki:mimimi@light-novel` | Bounded B | Exact refusal or contact outcomes and severe new comparison crises stay uncertain. |
+
+- Successors take precedence over every other substantive candidate, including the reserved backfill slot, and count against the per-run candidate limit.
+- Prepare a successor once its predecessor is published on `main`, with reciprocal supersession links. A predecessor still unpublished in the evaluator's open PR is withdrawn from that PR in a new commit and replaced by its successor.
+- These rulings reopen no other published candidate. Before calibration acceptance, the owner decides which other pilots count as affected.
 
 ## Discovery and reconstruction referrals
 

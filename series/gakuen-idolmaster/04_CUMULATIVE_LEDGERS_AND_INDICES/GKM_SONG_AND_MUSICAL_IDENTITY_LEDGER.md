@@ -465,3 +465,17 @@ These are preference/history additions rather than revisions to existing perform
 - **Third-year sports-festival closing live:** explicitly functions as encouragement to successors, strengthening performance as intergenerational address.
 
 These are support-card identity/context deltas, not substitutes for existing audiovisual performance baselines.
+
+
+## Source Lock 1.1 — transcript refresh, 2026-11-12
+
+| character / song | A1 source | revised textual status | perceptual status |
+| --- | --- | --- | --- |
+| Tsubame / `ガラクタロード` | `adv_cidol-atbm-3-015_03.txt` L030–194 | 100 Pro repertoire, performer and Producer discuss loosened perfection and live audience attention. | AV-CARBON-TSB-004 pending version-matched commu, live and comparison. |
+| Sena / `ガラクタロード`, `Roar` | `adv_cidol-jsna-3-017_01–03.txt`, `adv_cidol-jsna-3-021_01–03.txt` | Sena reports arrangement history. The newer music/video brief reworks her posing into the Roar concept. | Script and reports. No newly heard phrasing or arrangement. |
+| China and owl / `ガラクタロード` | `adv_cidol-kcna-3-019_02–03.txt` | Instruction compares prior versions and performer fit. Owl reports China's uptake. | Exact rendered variants needed for comparative listening. |
+| Hiro / `め` | `adv_cidol-shro-3-022_02–03.txt` | Team and demo references place the song in post-win development, with Hiro choosing a renewed risk. | Demo and final performance are distinct objects. Listening pending. |
+| Kotone / `自己肯定感爆上げ↑↑しゅきしゅきソング` | `adv_dear_fktn_035.txt` M029–048, `adv_dear_fktn_036.txt` M040–070 | Kotone proposes collecting and returning affection. Her internal call-and-response is depicted separately from the public speech. | AV-CARBON-KOT-001 pending. No audience participation inferred from imagined responses. |
+| Rinami and Mao / `SUGAR FLAVOR` | `adv_cidol-hrnm-3-018_03.txt` L008–050, L076–215, L291 | Revised script identifies guest appearance for the program. The acting/performance partnership remains part of RippleSign's source context. | No revision to performed duet claims based on the occupational wording alone. |
+
+The revised opaque `musics.txt` has exact hashes in the [source delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv). Its new payload supplies no verified song identity.

@@ -256,7 +256,8 @@ Self-referential SHA-256 of this `CPK_F01_RECONCILIATION_RECORD.md` (`v1.1`) is 
 
 | Repository path | Artifact ID & version | Status | Exact bytes | Exact SHA-256 |
 |---|---|---|---|---|
-| `series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md` | `CURRENT_STATE_AND_CORPUS_MAP` `v1.5` | `canonical` | `10328` | `fa5829a601099558c18e4c6c83d24d7da1bb19bbe49c286117ca64bdfa6858d3` |
+| `series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md` | `CURRENT_STATE_AND_CORPUS_MAP` `v1.5` | `canonical` | `10516` | `f556fb1150c53956a556ec17dddd2e11d4b2134f981df7a28ad8768942a3d7f3` |
+| `series/cosmic-princess-kaguya/audits/CPK_F01_R1_ERRATUM.md` | `CPK_F01_R1_ERRATUM` `v1.1` | `superseded` | `12607` | `6bdf460e2bd0bc0799d422af3660a20f05be8b2d5c74eccdabfbba5b293d5242` |
 | `series/cosmic-princess-kaguya/CPK_ANALYTICAL_METHOD.md` | `CPK_ANALYTICAL_METHOD` `v1.1` | `canonical` | `21325` | `2ccd972d504f1115630791e4efee8494e458ce60d6d7415760bbedfb83826d0a` |
 | `series/cosmic-princess-kaguya/CPK_SYNTHESIS_ARCHITECTURE.md` | `CPK_SYNTHESIS_ARCHITECTURE` `v1.1` (`MATURE`) | `canonical` | `29745` | `56f41f4312676ae60dd3c9d2f34171be5e3d4b6dab1fa057ea643a65f90d1df2` |
 | `series/cosmic-princess-kaguya/CPK_RECONCILIATION_PROFILE.md` | `CPK_RECONCILIATION_PROFILE` `v1.1` | `canonical` | `18252` | `c974764b1f1da51b3a2f6188a4ab3920f907d02546cdb5e6ce856c2b6287a63a` |

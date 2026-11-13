@@ -81,6 +81,7 @@ Canonical root: `series/cosmic-princess-kaguya/`. Continuing branch: `series/cos
 | [Comparative evaluation](audits/CPK_F01_COMPARATIVE_EVALUATION.md) | `v1.0` (`draft_noncurrent`) | Cross-lane (`CONTINUOUS_AV` vs `BUNDLE_MEDIATED`) comparative report |
 | [Receiving handoff specification](audits/CPK_F01_RECEIVING_HANDOFF.md) | `v1.0` (`draft_noncurrent`) | Stage-2→Stage-3 handoff (`AV-01`–`AV-10` queue, preservation rules, and write-through targets) |
 | [Bounded primary-AV return (`AV-01`–`AV-10`)](audits/CPK_F01_PRIMARY_AV_RETURN.md) | `v1.0` (`draft_noncurrent`) | `1 of 1` targeted `24000/1001 fps` clip/frame, raw `0:s:3`, and native `5.1` PCM verification return |
+| [Bridge CPK-R1 erratum](audits/CPK_F01_R1_ERRATUM.md) | `v1.1` (`superseded`) | Pre-integration erratum for PR #542; superseded by `v1.2` ledgers and `CPK_F01_INTEGRATED_SYNTHESIS.md` |
 
 ## Operational constraints and version note
 
