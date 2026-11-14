@@ -4,7 +4,7 @@ artifact_id: T7S_CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 series: Tokyo 7th Sisters
 generation: V1
-version: "12.169"
+version: "12.169.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -279,6 +279,8 @@ Accordingly, `T7S_STACK_2053.semantic_admission_status = BLOCKED_PENDING_2034_ER
 The transition requires canonical `T7S_2034_ERA_NARRATIVE_RECONSTRUCTION`, `T7S_2034_ERA_LITERARY_SYNTHESIS`, a declared principal/secondary character release with its required mature multimodal monographs and bounded insufficiency findings, every independently warranted relationship/unit/institution/specialist synthesis, and `T7S_2034_ERA_COMPLETION_AUDIT`. Only a passing completion audit may mark 2034 `ERA_RELEASE_COMPLETE` and make 2053 eligible for a separate owner-authorized prerequisite audit. The two eventual franchise-wide syntheses remain downstream of completed 2034 and 2053 releases.
 
 ## Exposure and next operation
+
+**Story synopsis for new readings.** Beginning with T7S_B0260, plot-bearing readings follow the [analytical method](00%20Frameworks%20and%20Methods/T7S_ANALYTICAL_METHOD.md#h-detailed-narrative-reconstruction-model) for an early, source-linked account of what happens in the current unit. Complete the applicable prospective captures before finalizing it. The SourceLock, coverage ledger and execution record govern source admission. The earlier frozen readings and captures retain their historical authority under initiation-policy section 10.
 
 Earlier preservation/design work exposed labels, small technical dialogue examples, four sampled script playbacks and external chronology discussion. This bootstrap performed metadata, hash and native-pointer equality checks, not a story reading. Preserve that exposure history; use exact bounded packets and entering-state records for future prospective work. No uncontaminated first encounter is claimed.
 
@@ -704,3 +706,5 @@ No optional artifact is created merely for symmetry. The architecture documents 
 The attempted correction then produces the family's larger reversal. The sequence of Ei's rite and its aftermath supports a local unintended fictional effect, while leaving its mechanism and duration unresolved. The heightened demands that follow turn Momoka and Yumeno from advocates of increased hobby participation into petitioners for restoration. The ending chooses temporary accommodation: Manon enjoys a new viewing companion, Ei proposes waiting, and Player agrees to help with preparations. A reported restoration method, completed preparations and the Christmas party remain distinct from outcomes actually shown. All403 distinct named waveform resources remain unheard;38 text turns have no named original dialogue performance in this witness;runtime unobserved. No maturity,full2034 release or2053 promotion.
 
 - 2026-11-14 — V1 / 12.169 routing clarification: preserve the historical B0259 workload and point to the current routing after integration of the 196 solo-stage text records.
+
+- 2026-11-14 — V1 / 12.169.1 — Route new plot-bearing readings to the current-unit story synopsis method from T7S_B0260. This is a corpus-map revision at published SourceLock 12.169.
