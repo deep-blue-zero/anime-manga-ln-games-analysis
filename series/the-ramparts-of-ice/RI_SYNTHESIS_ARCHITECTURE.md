@@ -4,7 +4,7 @@ series: the-ramparts-of-ice
 artifact_id: RI_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: RI-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL colour-tankobon longitudinal architecture and derived-use contract"
 source_boundary: "Japanese full-colour tankobon volumes 01-14 metadata verified; no narrative admission or inspection"
@@ -41,7 +41,7 @@ Future `readings/` contains each volume's substantial argument. `checkpoints/` f
 |---|---|
 | 5.1 Scope/authority | §1 and entrypoint; no narrative/run authority inferred |
 | 5.2 Source model | §2/source inventory; colour tankobon, excluded scroll/adaptation and single-home artbook |
-| 5.3 Sequential output | Method complete-volume contract; full prose plus all cumulative homes |
+| 5.3 Sequential output | Method complete-volume contract; full prose plus all cumulative homes; required [current-unit story synopsis](RI_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Infrastructure | Person, visual and claim ledgers with exact typed schemas/history |
 | 5.5 Character/relationships | §5 and reconstruction §7 |
 | 5.6 Specialists | §4–5; visual/relationship duties and earned independent homes |
@@ -132,6 +132,7 @@ Current entry/method/architecture and current indexes are mutable by targeted ed
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL colour-tankobon architecture, single-home artbook boundary and no narrative claims |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; colour-tankobon/source boundaries, full analytical duties and CLOSED lock retained |
 
 ## 9. Execution and retrieval
 

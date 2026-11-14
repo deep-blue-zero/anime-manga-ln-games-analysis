@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Synthesis Architecture"
 artifact_id: CM_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -157,7 +157,7 @@ Add new volumes/editions only after identity reconciliation; inventory extension
 |---|---|
 | 5.1 Purpose/scope/generation/authority | §1 and current entrypoint |
 | 5.2 Source ranking | §2 and source register |
-| 5.3 Sequential contract | §5 and method |
+| 5.3 Sequential contract | §5 and method; required [current-unit story synopsis](CM_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Cumulative infrastructure | §§3–4 and five operational registers |
 | 5.5 Character/relationship synthesis | §8 and state ledger |
 | 5.6 Specialist domains | §§4,8; anticipated versus earned |
@@ -173,3 +173,7 @@ Add new volumes/editions only after identity reconciliation; inventory extension
 | 5.16 Entry/retrieval route | §1 and topology §3 |
 
 Review stress cases include a later disclosure changing an earlier inference, an ordinary counterexample to a dramatic trait, an ambiguous speaker or identity, and a formal rendering shift mistaken for literal action. They are methodological tests, not asserted plot events.
+
+## Prospective amendment record
+
+- **2026-11-13 — v1.1:** Linked the local-method current-unit synopsis duty under initiation policy §5.3 for future eligible main readings. All full analytical/register obligations, disclosure boundaries, INITIAL lifecycle and CLOSED authorization are preserved.
