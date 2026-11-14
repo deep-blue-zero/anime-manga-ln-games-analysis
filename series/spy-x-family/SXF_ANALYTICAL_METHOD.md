@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Analytical Method"
 artifact_id: SXF_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -92,6 +92,20 @@ Do not compress ordinary scenes into “bonding,” audience-dependent language 
 Before semantic acceptance, promotion or integration, sample introduction, a substantial middle section, conclusion/exit, all major relationships and ambiguous actor passages. Check names, purposeful roles, pronouns, concealment, speaker/thinker/recipient and knowledge frontier. Classify JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION. Record scope/findings and repair supported defects only.
 
 Accept the full reading and synchronized five registers atomically. Scoped no-change statements document actual inspection. Required unreadable pages, broken central locators or missing modality/update work remain holds.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized plot-bearing volume reading must include a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact, after receipt/component coverage and entering context, before the developed thesis/rival, extended interpretation and ledger inventories. Identify inherited developments briefly as inherited, then recount the current unit's new events and disclosures.
+
+Write coherent, accessible prose tracing the opening situation, source-established participants and stakes, consequential actions and decisions, turning points/disclosures and the ending state. Preserve meaningful physical and scene mechanics and who acts toward whom, including ordinary practical conduct where consequential. Follow verified chapters, causal movements and panel presentation; distinguish succession, simultaneous viewpoints and omitted or inferred motion. Use supported names or purposeful role references while preserving source-required anonymity. A role, claimed relationship or label such as bonding cannot replace the actual sequence of events. Detail follows narrative density, without a fixed length or compulsory chapter template.
+
+Use only the current admitted unit and explicitly marked inherited context. Separate depicted acts from speech/thought, narrator presentation, testimony, audience-directed presentation, conjecture, contested attribution and unresolved outcomes. A performed or claimed role does not establish motive, sincerity, deception or every audience member's knowledge. A unit-end disclosure may be recounted as new reader information but must not be assigned to an earlier actor or earlier prospective reading; newly disclosed earlier events are not new story-time events. Material events need retrievable witness/chapter/image/panel locators under §3, or stable evidence references resolving to them, while the account remains readable prose. Unadmitted EYES ONLY facts, later volumes, adaptations and creator familiarity cannot supply identities, motives or outcomes.
+
+Compose or finalize this unit-end, spoiler-bearing orientation only after applicable prospective captures are frozen, and shield analysts assigned an earlier chapter, movement or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. Full causal, knowledge/role/audience, directed-relationship, ordinary-life, Japanese, page-form and counterreading arguments, five-register transaction and exit freeze remain required. A separately admitted narrative fanbook component receives the same bounded duty at its actual unit; only a genuinely non-narrative component/reference pass may record inapplicability with a reason, without exempting unclassified narrative content.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings; no narrative or fanbook admission, run authorization or frozen-history revision is made._
 
 ## 9. Reconstruction and transfer
 
