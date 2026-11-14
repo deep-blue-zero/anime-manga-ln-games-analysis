@@ -55,6 +55,8 @@ The [method's opening sequence](KSOA_ANALYTICAL_METHOD.md#opening-of-a-completed
 
 The V01–V07 readings are pinned by the [completed-run proof](.repository/completed-run-publication.json). Their retrospective openings live beside them at `readings/KSOA_Vnn_READING_INTRODUCTION.md`. The [corpus map](CURRENT_STATE_AND_CORPUS_MAP.md#accepted-readings) gives a synopsis-first route and a direct route to each preserved deep reading. Each opening identifies the witness and exit checkpoint and links onward to the full analysis. Evidence, forecasts, claim revisions and coverage remain in their existing canonical homes.
 
+The [synopsis name-and-reference review](audits/KSOA_PRODUCER_REVIEW_AND_RECEIVING_HANDOFF.md#synopsis-name-and-reference-review) records the checked passages and editorial corrections for the seven openings.
+
 ## Evidence, state and revision
 
 A mature claim links to its claim/version ID and stable section anchor, then to an evidence ID in the owning volume reading or case ledger, and from there to the exact witness, section, ZIP member and paragraph or element address. Use the volume reading for verified Japanese wording and glosses, and the witness map for packaging details. Use a dedicated retrieval matrix only when cross-case support or a body of disputed passages becomes hard to audit through those routes. A matrix points to the original evidence and claim IDs.

@@ -5,8 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_V06_READING_INTRODUCTION
 artifact_type: volume_story_synopsis
 generation: KSOA-G1
-version: "1.0"
+version: "1.1"
 created: "2026-11-14"
+last_updated: "2026-11-14"
 status: active_provisional
 scope: "Reader orientation for the completed V06 reading and its narrative developments."
 source_boundary: "Admitted Japanese EPUBs through V06 EPI p[0043] and KSOA-V06-H-0011."
@@ -40,7 +41,7 @@ Asumi secures the assignment to interview glass artists. Katsuya Mizutani descri
 
 Emiri reaches Motoya through Sayaka and explains why she understated her connection with Nonaka. She had been close to Mitsuki at university and deliberately sought out Nonaka at the Ginza exhibition. Mitsuki was his wife and Yakushiji's daughter. Emiri describes their elopement, letters about their life in Otaru, and a story of stalking that may have been fabricated. Mitsuki worked to support the household and helped conceive Nonaka's ice-inspired work. Her death and Nonaka's wish to make peace with Yakushiji give the prologue a likely speaker and an intelligible reason for the meeting. Emiri permits Motoya to use her name. [Emiri's correction](KSOA_V06_DEEP_READING.md#ksoa-v06-h-0008)
 
-Chikako Kosugi and taxi records corroborate the endpoints of the birthday gathering. Kosugi spent the important interval upstairs. Yakushiji confirms the marriage rupture and repeats the old accusations against Mizutani. Mizutani denies them and acknowledges recent contact he had earlier withheld. He says Nonaka told him the night before he died that he meant to find proof of the frame and speak to Yakushiji. This gives anyone implicated in the old deception an immediate reason to fear Nonaka's return. Asumi arranges to bring the workshop circle together. [The gap in the alibi](KSOA_V06_DEEP_READING.md#ksoa-v06-h-0009)
+Chikako Kosugi and taxi records corroborate the endpoints of the birthday gathering. Kosugi spent the important interval upstairs. Yakushiji confirms the marriage rupture and repeats the old accusations against Mizutani. Mizutani denies them and acknowledges recent contact he had earlier withheld. According to Mizutani, Nonaka told him about the frame on the eve of the killing and intended to find proof before speaking to Yakushiji. This gives anyone implicated in the old deception an immediate reason to fear Nonaka's return. Asumi arranges to bring the workshop circle together. [The gap in the alibi](KSOA_V06_DEEP_READING.md#ksoa-v06-h-0009)
 
 At the confrontation, Kume says Kasuya spoiled the exhibition work and admits they planned it together. Yakushiji names them as the sources of the stalking story. The two men do not answer that accusation. Yakushiji also withdraws his account of their continuous presence at the party. He slept during the relevant interval and heard what they had done after they returned. The new account assigns the attack to Kume and the arranged meeting and knowing participation to Kasuya. It also accounts for Yakushiji's earlier protection of the men after the event. Asumi leads the questioning and Motoya asks all three to accompany them. [Confrontation](KSOA_V06_DEEP_READING.md#ksoa-v06-h-0010) · [Acts and dispositions](../KSOA_CASE_EVIDENCE_LEDGER.md#v06-case-evidence)
 
