@@ -136,6 +136,7 @@ Current indexes, entry, method and architecture are mutable by targeted changes 
 | Version | Date | Basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL one-witness/multiple-natural-unit architecture; no narrative findings |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future mapped-unit readings; internal-unit boundary, full analytical duties and CLOSED authorization boundary retained |
 
 ## 9. Owners, reasoning and transfer
 
