@@ -9,7 +9,7 @@ version: "1.0"
 created: "2026-11-12"
 status: canonical
 scope: "Source-facing detective-fiction reading and evidence rules for the Japanese novels."
-source_boundary: "Japanese publisher EPUBs V01–V07. Bibliography, bytes and package structure reconciled. Narrative admission and inspection are pending."
+source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
 canonical_home: series/kamakura-sho/KSOA_ANALYTICAL_METHOD.md
 supersedes: []
 superseded_by: []

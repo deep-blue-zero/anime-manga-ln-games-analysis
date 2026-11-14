@@ -25,6 +25,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
 | [`harmony`](characters/index/harmony.md) | 6 |
 | [`idoly-pride`](characters/index/idoly-pride.md) | 22 |
+| [`kamakura-sho`](characters/index/kamakura-sho.md) | 2 |
 | [`kimishinu`](characters/index/kimishinu.md) | 3 |
 | [`konosuba`](characters/index/konosuba.md) | 137 |
 | [`legend-of-the-galactic-heroes`](characters/index/legend-of-the-galactic-heroes.md) | 2 |
@@ -99,6 +100,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Assassin (Yorimichi 4)](characters/index/konosuba.md#yorimichi04-retired-assassin) | Original light-novel continuity, bounded source-specific study | `konosuba:yorimichi04-retired-assassin@original-light-novel` | — |
 | [Asui Tsuyu](characters/index/my-hero-academia.md#asui-tsuyu) | My Hero Academia manga | `my-hero-academia:asui-tsuyu@manga` | — |
 | [Asuka Nishino](characters/index/chiramune.md#asuka-nishino) | Chiramune light novel | `chiramune:asuka-nishino@light-novel` | — |
+| [Asumi Ogasawara](characters/index/kamakura-sho.md#asumi-ogasawara) | Original Japanese novel continuity | `kamakura-sho:asumi-ogasawara@original-novel` | おがさわら あすみ; 小笠原亜澄 |
 | [Atsuko](characters/index/blue-archive.md#atsuko) | Blue Archive game | `blue-archive:atsuko@game` | — |
 | [Aulip](characters/index/konosuba.md#aulip) | Original light-novel continuity, scoped current monograph | `konosuba:aulip@original-light-novel` | アウリープ |
 | [Ayame](characters/index/blue-archive.md#ayame) | Blue Archive game | `blue-archive:ayame@game` | — |
@@ -394,6 +396,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Momiji Nozomi](characters/index/chiramune.md#momiji-nozomi) | Chiramune light novel | `chiramune:momiji-nozomi@light-novel` | — |
 | [Momo Adachi](characters/index/peach-girl.md#adachi-momo) | Japanese manga | `peach-girl:adachi-momo@manga` | 安達もも; Adachi Momo |
 | [Momoi](characters/index/blue-archive.md#momoi) | Blue Archive game | `blue-archive:momoi@game` | — |
+| [Motoya Kitsukawa](characters/index/kamakura-sho.md#motoya-kitsukawa) | Original Japanese novel continuity | `kamakura-sho:motoya-kitsukawa@original-novel` | きつかわ もとや; 吉川元哉 |
 | [Mutsuki](characters/index/blue-archive.md#mutsuki) | Blue Archive game | `blue-archive:mutsuki@game` | — |
 | [Myne](characters/index/ascendance-of-a-bookworm.md#myne) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:myne@light-novel` | — |
 | [Nabatame Haru](characters/index/shine-post.md#nabatame-haru) | SHINE POST television anime | `shine-post:nabatame-haru@television-anime` | — |

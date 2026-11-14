@@ -10,7 +10,8 @@ status: canonical
 authority_scope: "Canonical mirror-reconciliation record for F01: preserved CPK-R1 freeze manifest, Stage-2 CPK-B1-SOL61 receiver acceptance & freeze hashes, bounded 1-of-1 AV return receipt (CPK-AVRET-R1), Protocol §5.4 av_reconciliation summary, §15.6 checks, and complete Stage-3 write-through manifest"
 source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 00:00:00.000-02:22:03.207); primary run CPK-R1, independent bundle/audit benchmark CPK-B1-SOL61, bounded AV return CPK-AVRET-R1, and Stage-3 integration CPK-INT completed"
 canonical_home: series/cosmic-princess-kaguya/audits/CPK_F01_RECONCILIATION_RECORD.md
-supersedes: []
+supersedes:
+  - series/cosmic-princess-kaguya/audits/CPK_F01_R1_ERRATUM.md
 superseded_by: []
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -127,33 +128,33 @@ Per [Handoff Contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICA
 | Field | Verified value |
 |---|---|
 | Incoming `transfer_id` | `CPK-B1-SOL61-TO-INTEGRATOR-20261112` ([CPK_F01_RECEIVING_HANDOFF.md](CPK_F01_RECEIVING_HANDOFF.md)) |
-| Stage-2 producer | OpenAI `gpt-5.4` (owner-designated `"Sol 6.1"`) at `xhigh` / Max reasoning (`BUNDLE_MEDIATED`: `3,006` frames, `372` sheets, complete Japanese `0:s:3` `[SDH]` + English `0:s:0` subtitles; `audio_inspection = UNAVAILABLE`) |
+| Stage-2 producer | Independent verifier (`Sol6.1` with `Max` reasoning requested; actual backend model and reasoning setting unverified, `SA14`; `BUNDLE_MEDIATED`: `5,761`-file bundle with `5,465` JPEGs and `274` contact sheets; Phase A examined `127/274` sheets [`2,525` slots] + `29` frames, all `2,716` Japanese `0:s:3` `[SDH]` cues, and `79` English `0:s:2` pairings; Phase B2 added `58` PNG + `18` JPEG views; post-exposure checked `13` `960x540` PNG views; `326` late cue-to-sheet index mismatches noted in `SA12`; `audio_inspection = UNAVAILABLE`, `0 s` audio / `0 s` continuous video) |
 | Stage-3 roles & explicit owner disclosure | Under explicit owner authorization (`A1`), **Gemini 4 Carbon** (`High` thinking effort, Antigravity Windows harness) executed both **Stage 3A** (`1 of 1` bounded primary continuous-AV return `CPK-AVRET-R1` in [CPK_F01_PRIMARY_AV_RETURN.md](CPK_F01_PRIMARY_AV_RETURN.md)) and **Stage 3B** (Owner-Designated Integrator `CPK-INT`), disclosed per [CPK_RECONCILIATION_PROFILE.md](../CPK_RECONCILIATION_PROFILE.md) §1 |
-| Three-way commit comparison | Reviewed `main`: `46c341663e7e0b78d75fe9e2b3dc6e83859f85db`; `CPK-R1` primary freeze commit (`comparison_v1_boundary` / PR #542): `7c850af679471b74e36a8458985e448bc8191068`; retrospective publication-envelope governance commit (PR #549 on `agent/governance`): `75457666e714a59b0c3e4f7d2b57203bd1cd84b8`; **`baseline_drift: false`** |
+| Three-way commit comparison | `CPK-R1` primary freeze commit (`comparison_v1_boundary`): `7c850af679471b74e36a8458985e448bc8191068`; merged PR #542 on `main` (`16164d7a76b4a87858f7f356afa3245cac0d0fd9`, steward erratum refinement `651f9bcefdb304aa5623d9e9ffe86c80bbaf95a5`, current `origin/main` `2a1c0d39dd6651387e1b53b22a71946aa1870c83`); retrospective publication-envelope binding on `agent/governance` (PR #549); **`baseline_drift: false`** |
 | Witness & clock parity | Identical `CPK-W01-NF-WEBRIP-HEVC` (`4,916,885,885` B, SHA-256 `b940eede5e3ce2e83e507a33e6523516c21e770dbccd8cc9e4461af77b23a42a`, `8523.207` s) and `CPK-CLK-F01-GLOBAL` (`0.000` s drift across `CAL-01`–`CAL-07` and `AV-01`–`AV-10`) |
 | **Phase A blind benchmark freeze** | Frozen `2026-11-12T04:50:06.676495+00:00` (archival commit `e4caeb931dbb91c9b926638cf511f50637b0bb79`, `12` archival files / `16` published envelope files; `blind_to_gemini: true`, `blind_to_neutral_queue: true`). Archival manifest SHA-256 `67d16bc1a88fa6672f24c0f7cdf9c3002a0bd946aeafc8d7058c1c407d1448e7`; content-tree SHA-256 `9934c0f4a0309a134bea39bf62a52db8016b95291cc4e817f90b380a1cdde643`; standalone monograph ([CPK_B1_SOL61_MONOGRAPH.md](../independent/CPK-B1-SOL61/readings/CPK_B1_SOL61_MONOGRAPH.md)) original `34,010` B (`8577bf06ded087b10bde23872e4598cba16c842c7ee5b6e753623f7ec1e89491`) → sanitized repo derivative `34,063` B (`bd7ea4ccc1ad586fbce015338ffee4a54690b8e88e9f9b0084107018db1ec828`, `100%` body-identical after frontmatter normalization) |
 | **Phase B2 blind observation freeze** | Frozen `2026-11-12T05:11:59.269628+00:00` (`5` files, `blind_order_achieved: true`, prior to Set-2 exposure). Freeze manifest SHA-256 `19b5c74de3ad47317d2de11f50f798fa6d25965cc79426835b7980ca54bd184a`; content-tree SHA-256 `a60c3890bb150fa15a32347a579c084eddf03654436985ca1509c16bd452cff0`; `CPK_F01_BLIND_OBSERVATIONS.md` original `39,179` B (`859ab1a0b5c6004fdafaff44d5c2d8bbe1c98517c5dea3f6b1079b09b90cbebe`) → sanitized repo derivative `39,210` B (`82aa915cec6f440a6d9f0660a40ee05a3c124039d23a4ba128007769636725be`) |
 | **Post-exposure comparison freeze** | Frozen `2026-11-12T05:54:23.345950+00:00` (archival commit `8ed04470ecd9f7adaf0a130728748dec6da6c314`, `20` files, `614,204` B). Freeze manifest SHA-256 `5b76d0dd186080860bbe3e854feec7297634424f3d51697155f8a6697e1c96d7` (`4,604` B); content-tree SHA-256 `302c15f20e357a4aee38645432d8a644376a03f98e245a167aa47c5d97a01f54`; all `39` non-entrypoint repo payload files (`16` under `independent/CPK-B1-SOL61/` + `23` under `audits/`) verified byte-for-byte |
-| Steward note on frozen `CPK_F01_BLIND_INPUT_PACKET.md` (`v1.0`) | Preserved byte-for-byte at `21,403` B (`807784579986a87afea5da5ce0bdf1921d803a6be5e81baed72662da91b7c2a2`). Two non-mutating errata are recorded here: (1) §1's allowlist text displayed legacy `00_governance/` path strings instead of live `governance/` paths; (2) as audited in `SA13`, listing primary-selected `FRM-01`–`FRM-29` targets and event-specific phrasing in `Q-F01-0008`/`0018` carried partial thematic cueing, which `CPK-B1-SOL61` neutralized by freezing Phase A prior to reading the packet |
+| Steward note on frozen `CPK_F01_BLIND_INPUT_PACKET.md` (`v1.0`) | Preserved byte-for-byte at `21,403` B (`807784579986a87afea5da5ce0bdf1921d803a6be5e81baed72662da91b7c2a2`). Three non-mutating errata are recorded here: (1) §1's allowlist text displayed legacy `00_governance/` path strings instead of live `governance/` paths; (2) several derivative tables recorded prefix-only SHA-256 digests (consequential static checks used exact file/time locators and source re-extractions); (3) as audited in `SA13`, listing primary-selected `FRM-01`–`FRM-29` targets, supplying the figure count in `Q22`, and presupposing events in `Q13`/`Q16`/`Q17` carried partial cueing, which `CPK-B1-SOL61` mitigated by freezing Phase A prior to reading the packet |
 
 ---
 
 ## 6. Bounded `1 of 1` primary continuous-AV return receipt (`CPK-AVRET-R1`)
 
-All `10` continuous-AV verification requests queued in [CPK_F01_RECEIVING_HANDOFF.md](CPK_F01_RECEIVING_HANDOFF.md) §3 (`AV-01`–`AV-10`) were executed in a single pass (`1 of 1`) in [CPK_F01_PRIMARY_AV_RETURN.md](CPK_F01_PRIMARY_AV_RETURN.md) (`v1.0`) across `25` full-frame-rate (`24000/1001 fps`) clips (`AVRET-01A`–`10A`), `32` lossless `1920x1080` frames (`AVFRM-01A`–`10B`), `2` `3x` crops (`AVCROP-09B-1/2`), stream-complete raw `0:s:3` cues (`[JA#0001–2716]`), and `82` native `5.1` PCM acoustic windows (`AM-01`–`AM-06`):
+All `10` continuous-AV verification requests queued in [CPK_F01_RECEIVING_HANDOFF.md](CPK_F01_RECEIVING_HANDOFF.md) §6 (`AV-01`–`AV-10`) were executed in a single pass (`1 of 1`) in [CPK_F01_PRIMARY_AV_RETURN.md](CPK_F01_PRIMARY_AV_RETURN.md) (`v1.0`) across `25` synchronized `24000/1001` fps clips (`AVRET-01A`–`10B` + `AVRET-03B2`), `32` lossless `1920x1080` frames (`AVFRM-01A`–`09B`), `2` `3x` crops (`AVCROP-09B-FULL/CENTER`), stream-complete raw `0:s:3` cues (`[JA#0001–2716]`), and `82` sampled native `5.1` PCM windows from `0:a:0`:
 
-| Request ID | Target interval & question | Verified outcome (`CPK-AVRET-R1`) | Downstream impact |
+| Request ID | Queued interval & verification target (`CPK_F01_RECEIVING_HANDOFF.md`) | Verified outcome (`CPK-AVRET-R1`) | Downstream impact |
 |---|---|---|---|
-| `AV-01` | `00:00:00–00:01:25` pre-roll & cut | Netflix distributor/original animation cards (`00:00:01–00:00:11`, no film title); diegetic world-disc at `00:00:13.013`; `[JA#0001]` `月見(るなみ)ヤチヨ` (`00:00:26.026`); hard cut at `00:01:20.956` (`scdet = 71.0`); main title card silent at `02:10:26.360–02:10:33.367` | Revises `C0001`, `C0015`, `C0018` (`P001`) |
-| `AV-02` | `00:07:33–00:07:49` vs `01:38:44–01:39:15` | `00:07:33–00:07:49` confirmed **true unaccompanied `FC` solo** (`-31.98 dBFS`; `FL/FR = -61.82/-62.55 dBFS`, `AM-02`); `01:38:44–01:39:10` has **sustained keyboard/synth pad** (`FL/FR = -29.88/-30.25 dBFS`) where Kaguya first says `[JA#2083]` `同じメロ？` (`01:39:09.61`) | Preserves `M0002`; revises `C0004`, `C0016` |
-| `AV-03` | `01:53:48–01:54:25` Moon-side `Reply` | **Refutes `CPK-R1` Moon-side bamboo tube**: `AVFRM-03A/B/C` show Kaguya holding **only `犬DOGE`** directly in both arms; `Reply` arrives by unstated cross-spatial resonance (`U0002` `OPEN`) | Revises `C0010`, `C0019` (`P024`); updates `U0002` |
-| `AV-04` | `01:25:10–01:25:34` subway AR visibility | Confirmed (`AVFRM-04A`): unaugmented subway commuters show zero reaction to overhead `月人` fleet (`2030/09/12`), proving Tsukuyomi smart-contact AR selectivity | Preserves `O0022`, `C0011` (`P017`) |
-| `AV-05` | `01:44:24–01:44:38` & `02:07:38–02:07:45` `帝アキラ` | `CHEAT DETECTION` (`01:44:27`) forces raid-session ejection only; **`帝アキラ` appears intact in Tsukuyomi at `02:07:40.285` (`AVFRM-05A`, `[JA#2548]`)** | Revises `C0008` (`P015`); resolves `U0007` |
-| `AV-06` | `01:47:30–01:48:05` & `01:51:32–01:52:55` | `01:47:38–01:47:42` drops to **`-107.45 dBFS` all-channel digital silence** (`4.1 s` strict / `~6.05 s` perceptual hush between `[JA#2266]` and `[JA#2267]`); post-play UI runs **`~6.006 s` (`144` frames, `01:51:33.353–01:51:39.359`, `10→5 s`)**; `[JA#2333]` is muted under wind (`U0009`) before `[JA#2334]` `ええよ やってみ` | Preserves `C0012` (`~6.0 s`); refines `C0015`; logs `U0009` |
-| `AV-07` | `01:17:15–01:18:10`, `01:38:35–01:39:25`, `01:52:55–01:53:20` | `01:17:23` `.wav` (`2020/01`) has **no verbalized recognition**; `01:38:44` is **unfinished `1コーラス` `Reply`** (`[JA#2083]` `同じメロ？`); `Reply` is **completed at `01:53:04.74`** (`[JA#2340]` `できた`, `AVFRM-07C`) | Revises `C0004`, `C0016` (`P018`, `P023`); keeps `U0003` `OPEN` |
-| `AV-08` | `02:10:34–02:19:53` end-credit cues & visuals | Retracts `CPK-R1`'s `"unsubtitled"` premise: raw `0:s:3` carries **`111` timed lyric cues (`[JA#2599–2709]`)** (`63` `ray` + `48` `メルト`) over `28` + `27` monochrome `原画` key drawings | Rejects/repairs `C0017` (`P029`–`P031`); resolves `U0008` |
-| `AV-09` | `02:05:45–02:06:30` & `02:09:44–02:09:58` | `02:05:48.5–02:06:16.5` is **zero-instrument `FC` solo call-and-response** (`Iroha` `[JA#2528–2530]` → `Yachiyo` `[JA#2531–2533]`, `FL/FR = -59.58/-58.88 dBFS`), NOT simultaneous unison; piano enters at `02:06:16.5` (`[JA#2534]`). `FRM-20` (`02:09:48.55`) confirms `Iroha`/`Kaguya` floor-contact shadows vs self-luminous floating `Yachiyo` | Revises `C0016` (`P032`); **strengthens `C0020`** (`P033`) |
-| `AV-10` | `02:10:02–02:10:34` closing narration & title | `[JA#2592–2594]` tagged `（かぐや）`; `[JA#2595–2597]` (`02:10:13.722–02:10:21.359`) **untagged in Track 4** (`ひとまず めでたし めでたしってことで`) — speaker held **`OPEN` (`CPK-INT-U0010`)** per Method §6; silent title card `02:10:26.360–02:10:33.367` | Revises `C0001`, `C0018` (`P034`); logs `U0010` |
+| `AV-01` | `00:00:00`–`00:01:30` & `02:19:45`–`02:20:20` — Opening branding, prologue visuals, and coda world-disc | Netflix streaks (`00:01`–`00:04.5`, `AVFRM-01A`) + chibi-Yachiyo `NETFLIX PRESENTS` 2D pancake wallpaper (`00:06`–`00:11.5`, `AVFRM-01B`); `[JA#0001]` `月見(るなみ)ヤチヨ` `今は昔` at `00:00:26.026` over moon/*susuki* morphing into Tsukuyomi's ring (`AVFRM-01C`–`01E`), match-cutting at `00:01:10` to Iroha's `スマコン`-lit eyelids (`00:01:20.956` cut); cosmic pancake world-disc appears in the post-credits coda (`02:19:54`–`02:20:16.5`, `AVFRM-01F/G`, `蛇足ぅ～！`) | Revises `C0001`, `C0015`, `C0018` (`P001`, `P035`) |
+| `AV-02` | `6` musical windows (`00:07:15` to `02:06:50`) — `Remember` / `.wav` / `Reply` chain & `5.1` vocal isolation | `00:07:33.95` (`[JA#0141–0143]`) solo `FC` lullaby (`+31.74 dB` dominance); `00:34:49` bridge cue is a non-`Remember` celesta/chamber farewell cue (`AVR-O005`); `01:17:20` `2020/01` `.wav` plays solo piano without verbalized recognition; `01:38:44` caps graduation `Reply` at one chorus (`[JA#2136]`) before `01:39:09.61` `星降る海` recognition (`[JA#2144]` `同じメロ？`); `01:53:04.74` completes `Reply` (`[JA#2338]` `できた`); `02:05:56.51`–`02:06:25.12` has successive lines (`[JA#2528–2529]`, spoken `[JA#2530]`, `[JA#2531–2533]`) with sampled `FC` dominance (`+32.34 dB`) supporting vocal isolation | Revises `C0004`, `C0016` (`P008`, `P009`, `P025`); keeps `U0003` `OPEN` |
+| `AV-03` | `00:48:30`–`01:17:10` — Fever chronology, `3対3` `KASSEN`, Yachiyo Cup rule, and `ハッピーシンセサイザ` | Fever nursing (`たまご粥`) and Momiji's tuition/living-cost condition (`[JA#1092–1093]`) precede `KASSEN` at `00:48:30`–`00:51:40`; `KASSEN` is `3対3` (`[JA#1206]`, `AVFRM-03A`) where Yachiyo subs in (`00:56:27`) after Mami faints (`いろP` horizon `OPEN`, `P005`); Asahi reveal occurs mid-match at `00:58:53` (`[JA#1294]`); `Black onyX` wins the match (`01:10:28`, `AVFRM-03B`), `かぐやいろP` wins the Cup on campaign fan gain (`01:11:37.4`, `AVFRM-03C`), and `ハッピーシンセサイザ` scores the `01:15:05` loft montage | Revises `C0002`, `C0005`, `C0006`, `C0008` (`P004`–`P007`) |
+| `AV-04` | `01:24:35`–`01:26:15`, `01:45:20`–`01:46:40`, `02:07:25`–`02:07:55` — AR transit visibility & `帝アキラ` outcome | `Smart Sight` AR commuters recoil at `月人` while bare-eyed passengers see an empty car (`01:24:48`, `AVFRM-04A`) and stage LEDs flash `2030/09/12`; `帝アキラ`'s `01:45:56` `CHEAT DETECTION` (`FRM-09`, `AVFRM-04B/C`) is bounded by his `02:07:40` Tsukuyomi reappearance (`AVFRM-04D`), ruling out permanent deletion while leaving penalty duration and terms unclear | Strengthens `C0011`; revises `C0008`, `C0015` (`P022`); bounds `U0007` |
+| `AV-05` | `01:47:15`–`01:48:30` — Real-room farewell hush, `羽衣` iris transition, and `犬DOGE` ascent | Sampled `0.5` s quiet windows in `01:47:37.5`–`01:47:44.0` approach `-107.45 dBFS` (`FL/FR = -120.0 dBFS`, not digital zero), with higher levels around voiced `[JA#2266]` (`01:47:40.620`, `彩葉… 大好き` in `FC`); `羽衣` shifts Kaguya's irises from amber-gold (`AVFRM-05A`) to pale cyan-blue (`AVFRM-05B`), and `犬DOGE` clings to her ascending robe (`AVFRM-05C/D`) | Preserves `C0007` (scoped); revises `C0015` (`P024`) |
+| `AV-06` | `01:53:37`–`01:53:55`, `01:57:00`–`01:59:35`, `02:02:37`–`02:04:40` — Moon reception, rock crash, `犬DOGE` vs `ウミウシ`, `FUSHI` | Kaguya holds `犬DOGE` on the Moon with no bamboo tube (`AVFRM-06A/B`, `U0002` `OPEN`); `[JA#2402]` confirms lunar handover before the `01:58:06` large rock collision (`AVFRM-06C`, `[JA#2408]`); `[JA#2414–2417]` (`01:58:27`–`01:58:39`) distinguish `犬DOGE` acquiring a body from soul-only Kaguya interacting through the `ウミウシ` (leaving fusion/`FUSHI` relation unestablished; `AVFRM-06D` at `01:58:15` shows `いろP` listening); articulate `FUSHI` guards Yachiyo's silence before yielding to Iroha's `問答無用` (`[JA#2485–2491]`) | Rejects/replaces `C0010` (`P010`–`P012`); revises `C0019` (`P014`–`P015`) |
+| `AV-07` | `01:50:45`–`01:53:10` — False-ending post-play UI duration and muted sunset call | Source-embedded streaming post-play UI (`FRM-13`, `AVFRM-07A/B`) runs `~6.0` s (`01:51:33.3`–`01:51:39.4`, `[JA#2312]`) before Iroha's shatter (`AVFRM-07C`, `[JA#2313–2318]`); sunset balcony plea `[JA#2333]` (`01:52:38.21`) is intentionally muted (`（無音のセリフ）`, `U0009` `OPEN`) before Momiji's `ええよ やってみ` (`[JA#2334]`) | Preserves `C0012` (scoped); revises `C0002` (`P003`, `P028`) |
+| `AV-08` | `02:09:35`–`02:10:40` — Backstage lift speaker, closing narration tags/acoustics, silent title card | Floating Yachiyo speaks `[JA#2587]` (`（ヤチヨ）ヤッチョは先週ぶり～`) on the three-figure lift (`FRM-20`); `[JA#2592]` tags `（かぐや）` while `[JA#2595–2598]` (`02:10:13.7`–`02:10:25.9`) are untagged with zero lip-flap (`AVFRM-08A`–`08C`), keeping `[JA#2595–2597]` speaker `OPEN` (`U0010`) under Method §6; main title logo (`02:10:26.360`–`02:10:33.367`, `AVFRM-08D`) is silent | Revises `C0001`, `C0014`, `C0018` (`P018`, `P019`); logs `U0010` |
+| `AV-09` | `02:07:05`–`02:09:30` — `10年後` interval, `FRM-19` monitor witness bound, age paratext, `YC型` | `AVFRM-04E` (`02:07:50`) fixes `10年後` (official character paratext gives main-story age `17`; ages `7`/`27` and exact epilogue dates remain inferred); `FRM-19`/`AVFRM-09B` (`AVCROP-09B-*`) confirms a tactile-research screen (`Study of real...` / `tactile sensati...`, `"kaguya"`) while fine Japanese text requires a clearer witness; `YC型` (`[JA#2578]`) stays unexpanded (`U0005` `OPEN`) | Revises `C0013`, `C0014` (`P016`, `P017`, `P023`) |
+| `AV-10` | `02:10:25`–`02:22:03.207` — End-credit `0:s:3` lyric cues, left-panel `原画` recaps, coda tail | Raw `0:s:3` contains `111` consecutive credit-music cues (`[JA#2599–2709]`, including `4` standalone music markers) carrying timed Japanese lyrics for `ray 超かぐや姫！Version` (`61` cues, `28` recap `原画`) and `メルト CPK! Remix` (`50` cues, `27` recap `原画` up to lunar departure), retracting `U0008`'s missing-subtitle premise | Downgrades/repairs `C0017` (`P020`, `P021`, `P026`); retracts `U0008` |
 
 ---
 
@@ -178,17 +179,29 @@ av_reconciliation:
     targeted_reinspection_fps: 23.976
   verifier_run:
     run_id: CPK-B1-SOL61
-    model: "OpenAI gpt-5.4 (Sol 6.1, xhigh reasoning)"
+    requested_configuration: "Sol6.1 with Max reasoning (actual backend model and reasoning setting unverified)"
     lane: BUNDLE_MEDIATED
     audio_inspection: UNAVAILABLE
-    bundle_clean_frames: 3006
-    bundle_contact_sheets: 372
+    bundle_hashed_files: 5761
+    bundle_frame_jpegs: 5465
+    bundle_contact_sheets: 274
+    phase_a_contact_sheets_viewed: 127
+    phase_a_frames_viewed: 29
+    phase_b2_png_views: 58
+    phase_b2_jpeg_views: 18
+    post_exposure_png_views: 13
     subtitle_cues_ja_sdh: 2716
+    subtitle_pairings_en_checked: 79
+    late_sheet_index_mismatches_flagged: 326
     phase_a_blind_to_gemini: true
     phase_a_blind_to_neutral_queue: true
     phase_b2_blind_order_achieved: true
+    phase_a_local_freeze_manifest_sha256: 67d16bc1a88fa6672f24c0f7cdf9c3002a0bd946aeafc8d7058c1c407d1448e7
     phase_a_publication_manifest_sha256: 8c70dffeb953fc222706c9585df38e1cd3128d0395a9f0f268ce7c21645cadfc
-    phase_b2_blind_observations_sha256: 82aa915cec6f440a6d9f0660a40ee05a3c124039d23a4ba128007769636725be
+    phase_b2_local_freeze_manifest_sha256: 19b5c74de3ad47317d2de11f50f798fa6d25965cc79426835b7980ca54bd184a
+    phase_b2_local_observations_sha256: 859ab1a0b5c6004fdafaff44d5c2d8bbe1c98517c5dea3f6b1079b09b90cbebe
+    phase_b2_publication_observations_sha256: 82aa915cec6f440a6d9f0660a40ee05a3c124039d23a4ba128007769636725be
+    post_exposure_comparison_freeze_manifest_sha256: 5b76d0dd186080860bbe3e854feec7297634424f3d51697155f8a6697e1c96d7
   bounded_av_return:
     run_id: CPK-AVRET-R1
     pass_count: "1 of 1"
@@ -217,12 +230,12 @@ av_reconciliation:
     total_scoped: 35
     audited: 35
     transitions:
-      PRESERVE: 12
-      STRENGTHEN: 1
-      REVISE: 16
-      DOWNGRADE: 2
-      REJECT: 3
-      OPEN: 1
+      PRESERVE: 1
+      STRENGTHEN: 0
+      REVISE: 19
+      DOWNGRADE: 8
+      REJECT: 5
+      OPEN: 2
   verifier_own_claim_denominators:
     total_sol61_claims: 28
     self_audit_items_applied: 14
@@ -240,7 +253,7 @@ av_reconciliation:
 
 ## 8. Handoff §15.6 editorial and referential-clarity verification (`CPK_F01_INTEGRATED_SYNTHESIS.md`)
 
-Prior to accepting [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](../synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) (`v1.0`), a bounded name, pronoun, speaker, and disclosure-horizon check ([Handoff Contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) §15.6) was executed across `§§2.1–2.3` (opening/false-ending/coda framing), `§§3.1–3.3` (all consequential family, peer, fraternal, and administrative dyads), `§§4.1–4.3` (virtual/real and `2040` three-figure staging), `§5` (six-stage musical trajectory), and `§§6–8` (registers, governing thesis, and rival readings):
+Prior to accepting [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](../synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) (`v1.0`), a bounded name, pronoun, speaker, and disclosure-horizon check ([Handoff Contract](../../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) §15.6) was executed across `§§2.1–2.3` (opening/false-ending/coda framing), `§§3.1–3.3` (all consequential family, peer, fraternal, and administrative dyads), `§§4.1–4.3` (virtual/real and `10年後` three-figure staging), `§5` (six-stage musical trajectory), and `§§6–8` (registers, governing thesis, and rival readings):
 
 - **`KNOWLEDGE_BOUNDARY_REQUIRED`**: Preserved `いろP` prior to `00:35:06`, `帝アキラ` distinct from `酒寄朝日` prior to `00:58:53`, and `月見(るなみ)ヤチヨ` distinct from crashed `8,000`-year `かぐや` prior to `01:57:04`.
 - **`SOURCE_REQUIRED_ANONYMITY` & `OPEN` speaker discipline**: Preserved uncredited subway commuters (`AVFRM-04A`) and held untagged closing narrator `[JA#2595–2597]` (`02:10:13.722–02:10:21.359`) explicitly `OPEN` (`CPK-INT-U0010`) rather than assigning speaker identity from vocal timbre alone.
@@ -252,21 +265,21 @@ Prior to accepting [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](../synthesis/CPK_
 
 Self-referential SHA-256 of this `CPK_F01_RECONCILIATION_RECORD.md` (`v1.1`) is recorded directly by the enclosing Git commit tree. Every other canonical, return, and frozen file in `series/cosmic-princess-kaguya/` has been verified on disk at the exact byte counts and SHA-256 digests below:
 
-### 9.1 Created and updated Stage-3 canonical & return files (`10` files + this record)
+### 9.1 Created and updated Stage-3 canonical & return files (`11` files + this record)
 
 | Repository path | Artifact ID & version | Status | Exact bytes | Exact SHA-256 |
 |---|---|---|---|---|
-| `series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md` | `CURRENT_STATE_AND_CORPUS_MAP` `v1.5` | `canonical` | `10516` | `f556fb1150c53956a556ec17dddd2e11d4b2134f981df7a28ad8768942a3d7f3` |
-| `series/cosmic-princess-kaguya/audits/CPK_F01_R1_ERRATUM.md` | `CPK_F01_R1_ERRATUM` `v1.1` | `superseded` | `12607` | `6bdf460e2bd0bc0799d422af3660a20f05be8b2d5c74eccdabfbba5b293d5242` |
-| `series/cosmic-princess-kaguya/CPK_ANALYTICAL_METHOD.md` | `CPK_ANALYTICAL_METHOD` `v1.1` | `canonical` | `21325` | `2ccd972d504f1115630791e4efee8494e458ce60d6d7415760bbedfb83826d0a` |
-| `series/cosmic-princess-kaguya/CPK_SYNTHESIS_ARCHITECTURE.md` | `CPK_SYNTHESIS_ARCHITECTURE` `v1.1` (`MATURE`) | `canonical` | `29745` | `56f41f4312676ae60dd3c9d2f34171be5e3d4b6dab1fa057ea643a65f90d1df2` |
-| `series/cosmic-princess-kaguya/CPK_RECONCILIATION_PROFILE.md` | `CPK_RECONCILIATION_PROFILE` `v1.1` | `canonical` | `18252` | `c974764b1f1da51b3a2f6188a4ab3920f907d02546cdb5e6ce856c2b6287a63a` |
-| `series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md` | `CPK_SOURCE_INVENTORY` `v1.2` | `canonical` | `42354` | `8fd473cf1f042d5aa782fbc43a78ef1e5cafe08fe9ae2bddde539d02f56d70fc` |
-| `series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md` | `CPK_OBSERVATION_LEDGER` `v1.2` | `canonical` | `113976` | `5f50d2ebb38d9c5f71c569c43735ff1476affada4822bbdedba724c369e83b77` |
-| `series/cosmic-princess-kaguya/CPK_CHARACTER_RELATIONSHIP_LEDGER.md` | `CPK_CHARACTER_RELATIONSHIP_LEDGER` `v1.2` | `canonical` | `86662` | `2a74553acad827cf1511e5ae2cf5ecd82eb89852b71277e2fa4e58c6d325f04c` |
-| `series/cosmic-princess-kaguya/CPK_CLAIM_REVISION_LEDGER.md` | `CPK_CLAIM_REVISION_LEDGER` `v1.2` | `canonical` | `94490` | `f1448521986c58bf75f081b8c386270f755295468e098d40b98e0d630f5a8f64` |
-| `series/cosmic-princess-kaguya/audits/CPK_F01_PRIMARY_AV_RETURN.md` | `CPK_F01_PRIMARY_AV_RETURN` `v1.0` | `draft_noncurrent` | `72291` | `5f942482993d37ef3a1a9abf098a30b309450f9adecefd5db1e55bfa5636e64f` |
-| `series/cosmic-princess-kaguya/synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md` | `CPK_F01_INTEGRATED_SYNTHESIS` `v1.0` | `canonical` | `42714` | `ce42935ff75c0b891824ed6f73ef3ba6bfc2998c33c2d187798ca3e0cfe48319` |
+| `series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md` | `CURRENT_STATE_AND_CORPUS_MAP` `v1.5` | `canonical` | `10722` | `91c81835bfa44c6db043d391ab52f74556048e04f737d841a62bb151183a379c` |
+| `series/cosmic-princess-kaguya/audits/CPK_F01_R1_ERRATUM.md` | `CPK_F01_R1_ERRATUM` `v1.2` | `superseded` | `11546` | `7ade154a7b5274225f92dbe3c0560ac5e7d1f75c6d626504d6d685a775855911` |
+| `series/cosmic-princess-kaguya/CPK_ANALYTICAL_METHOD.md` | `CPK_ANALYTICAL_METHOD` `v1.1` | `canonical` | `21453` | `222ce76066c96fb6db943aedd555a36da97131763a2c61f7b576b21490cb9fc4` |
+| `series/cosmic-princess-kaguya/CPK_SYNTHESIS_ARCHITECTURE.md` | `CPK_SYNTHESIS_ARCHITECTURE` `v1.1` (`MATURE`) | `canonical` | `29827` | `a202fa378d86304809f75ec3add33613da0983c79cde9da1c6859d14d37e54e9` |
+| `series/cosmic-princess-kaguya/CPK_RECONCILIATION_PROFILE.md` | `CPK_RECONCILIATION_PROFILE` `v1.1` | `canonical` | `18646` | `b7cdfa0aeeb1c8b92e1d33178e9ae50e072b7901f32dc1357a1e483823c57ea2` |
+| `series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md` | `CPK_SOURCE_INVENTORY` `v1.2` | `canonical` | `43297` | `feedec65bf4822ed5bdaf191617e2dbdcad07b418fd6a62c6d1c3681ef85ddc4` |
+| `series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md` | `CPK_OBSERVATION_LEDGER` `v1.2` | `canonical` | `115380` | `626886078931b1c02d89bfe423d569da7a9755ff49fce8215752435ec6d119b9` |
+| `series/cosmic-princess-kaguya/CPK_CHARACTER_RELATIONSHIP_LEDGER.md` | `CPK_CHARACTER_RELATIONSHIP_LEDGER` `v1.2` | `canonical` | `87307` | `b677711bd846851df6a4077872f5d6ef9d5a0c293a44729b37e926a22a8714b9` |
+| `series/cosmic-princess-kaguya/CPK_CLAIM_REVISION_LEDGER.md` | `CPK_CLAIM_REVISION_LEDGER` `v1.2` | `canonical` | `96038` | `5a217c2466f2310ca4aff3b847ff6c0d79b4e2e240250a8535ea9b59cedcd84b` |
+| `series/cosmic-princess-kaguya/audits/CPK_F01_PRIMARY_AV_RETURN.md` | `CPK_F01_PRIMARY_AV_RETURN` `v1.0` | `draft_noncurrent` | `73248` | `ab2ec5f354a1f07a91ccf2572800843d687db95ddd6880c64af29ff46796aeeb` |
+| `series/cosmic-princess-kaguya/synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md` | `CPK_F01_INTEGRATED_SYNTHESIS` `v1.0` | `canonical` | `36459` | `32600c8b28ec2bfa6a518ee3b841f9d23ddd304baf61ec7723e7dee737649688` |
 
 ### 9.2 Key preserved noncurrent `CPK-B1-SOL61` benchmark & audit files (`39` total files verified unchanged; key index below)
 

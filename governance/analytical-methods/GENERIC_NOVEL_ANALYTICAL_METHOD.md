@@ -3,13 +3,14 @@ title: Generic Source-Bounded Novel Analytical Method
 artifact_id: GENERIC_NOVEL_ANALYTICAL_METHOD
 artifact_type: generic_novel_analytical_method_reference
 artifact_role: reusable_corpus_level_analytical_reference_method
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: source-bounded reading of light novels, novels, web novels, and branching prose, and new-project method bootstrap
 authority_scope: this_reusable_reference_only
 adoption: opt_in
 project_local_authority: false
 created: 2026-10-24
+last_updated: 2026-11-13
 maintainer: Claude + user
 source_boundary: "Methodological reference only; no series findings or primary-source evidence"
 do_not_use_as_current_authority: false
@@ -172,6 +173,8 @@ Before reading a unit after the first, record:
 
 Divide the unit into dramatic movements by goal, location, configuration, revelation, or narrative-mode shift. For each, record the active characters, the entering state, the change, and the leaving state. Build a causal map, not a synopsis: distinguish coincidence, explicit causation, decision, institutional constraint, misunderstanding, information asymmetry, and interruption.
 
+This analytic working map is distinct from the opening, human-facing story synopsis required in the completed unit artifact. Keep the former evidence-structured and the latter readable as an account of what happens.
+
 ## 17. Characters
 
 For each materially active character, distinguish stable disposition from current state, and record trigger, perceived stakes, decision rule, relationship-conditioned mode, self-description versus observed behavior, and counterevidence. Treat low-stakes everyday scenes as first-class evidence. A crisis response is not a trait. A performed or learned behavior is not therefore fake. Describe before diagnosing; avoid clinical labels the work does not establish.
@@ -257,23 +260,26 @@ When later units pressure earlier claims, use `PRESERVE`, `STRENGTHEN`, `REVISE`
 
 ## 29. Required structure
 
+**Front-of-reading synopsis.** Place the current-unit synopsis just after concise receipt/entering-context material and before the governing thesis or extended close reading. It is written for a human reader who wants to know what happens, including the unit's conclusion where revealed, rather than a list of analytical findings. Preserve concrete mechanics and meaningful scene sequence when established, identify the source boundary and major uncertainties, and use unobtrusive source locators or stable observation IDs. No fixed length is imposed: long detailed and concise orientation styles can both work. Write or finalize it after prospective freezes; do not feed this spoiler-bearing section to an earlier-horizon reader. It supplements, rather than replaces, causal maps, observations, interpretation and ledgers.
+
 - **A. Receipt and witness**: edition, hash, admission, coverage table.
 - **B. Entering state**: prior-unit developments and entering freeze.
-- **C. Governing thesis**, with a competing thesis where one is live.
-- **D. Movement-by-movement causal reading**, noting disclosure order.
-- **E. Narration**: mode, focalization, reliability findings.
-- **F. Character changes**, with interiority evidence marked.
-- **G. Relationship changes.**
-- **H. Information and knowledge changes.**
-- **I. Optional domain modules**, only as earned.
-- **J. Language and register.**
-- **K. Illustrations and paratext**, with inspection status.
-- **L. Motifs and recurrence** inside the boundary.
-- **M. Counterreadings.** Mandatory.
-- **N. Claim transitions and forecast dispositions.**
-- **O. Ledger manifest**: the updates made, with an explicit "no material change" where none applies.
-- **P. Exit freeze.**
-- **Q. Limitations and completion decision.**
+- **C. Current-unit story synopsis**: a readable, source-bounded account of the principal events, key actions, decisive changes and ending; distinguish what is actually shown from contested reports or unresolved outcomes.
+- **D. Governing thesis**, with a competing thesis where one is live.
+- **E. Movement-by-movement causal reading**, noting disclosure order.
+- **F. Narration**: mode, focalization, reliability findings.
+- **G. Character changes**, with interiority evidence marked.
+- **H. Relationship changes.**
+- **I. Information and knowledge changes.**
+- **J. Optional domain modules**, only as earned.
+- **K. Language and register.**
+- **L. Illustrations and paratext**, with inspection status.
+- **M. Motifs and recurrence** inside the boundary.
+- **N. Counterreadings.** Mandatory.
+- **O. Claim transitions and forecast dispositions.**
+- **P. Ledger manifest**: the updates made, with an explicit "no material change" where none applies.
+- **Q. Exit freeze.**
+- **R. Limitations and completion decision.**
 
 Use stable claim and evidence IDs; never renumber them. The reading owns its observations; ledgers cite them.
 
@@ -358,3 +364,11 @@ For each added condition record new claims, revised claims, confidence changes, 
 - [Generic character reconstruction method](GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md): optional downstream modeling.
 - [Analytical handoff contract](../source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md): Section 15, named subjects and referential clarity.
 - [Change-integration checklist](../policies/CHANGE_INTEGRATION_CHECKLIST.md): authorized paths, validation, and publication.
+
+---
+
+# Changelog
+
+## v1.1 — 2026-11-13 — Human-facing unit synopsis
+
+- Adds a source-bounded narrative synopsis near the front of completed volume readings, separate from evidence-led causal analysis and prospective freezes.
