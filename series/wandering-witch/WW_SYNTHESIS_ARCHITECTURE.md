@@ -2,7 +2,7 @@
 title: "Wandering Witch — Synthesis Architecture"
 artifact_id: WW_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: WW-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese main volumes 01–25 plus separate 2014 Upper and Lower editions; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -173,7 +173,7 @@ Current cumulative views are mutable, with append-only revision history. Accepte
 |---|---|
 | 5.1 Purpose/scope/generation/authority | §1 and current entrypoint |
 | 5.2 Source model/ranking | §2 and source/edition register |
-| 5.3 Sequential contract | §5 and method §§2,4–9 |
+| 5.3 Sequential contract | §5 and method §§2,4–9; future plot-bearing reading output includes the [current-unit story synopsis](WW_ANALYTICAL_METHOD.md#current-unit-story-synopsis), respecting actual local-unit sequence, the declared volume/local boundary and independent edition horizons |
 | 5.4 Cumulative infrastructure | §§3–4 and five initialized operational registers |
 | 5.5 Character/relationship synthesis | §8 and persona ledger |
 | 5.6 Specialist domains | §§4,8, including explicit anticipated/earned distinction |

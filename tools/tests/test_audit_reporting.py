@@ -35,6 +35,30 @@ def with_stubs(script: str, directory: Path, names: tuple[str, ...]) -> str:
     return prefix + script
 
 
+def install_stubs(binaries: Path, programs: dict[str, str]) -> None:
+    for name, program in programs.items():
+        target = binaries / name
+        program_path = binaries / (name + ".py")
+        program_path.write_text(program, encoding="utf-8", newline="\n")
+        target.write_text(
+            "#!/bin/sh\nexec " + shlex.quote(Path(sys.executable).as_posix())
+            + " " + shlex.quote(program_path.as_posix()) + ' "$@"\n',
+            encoding="utf-8", newline="\n",
+        )
+        target.chmod(0o700)
+
+
+CURL_STUB = (
+    "import os\n"
+    "from pathlib import Path\n"
+    "Path(os.environ['TEST_DISPATCHED']).write_text('called')\n"
+)
+ROUTING_OUTPUTS = (
+    "governance/MANGA_ANIME_CORPUS_INDEX.md", "series/README.md", "series/registry.json",
+    "studies/README.md", "studies/registry.json",
+)
+
+
 def workflow(path: str) -> dict:
     text = (ROOT / path).read_text(encoding="utf-8")
     return _restricted_yaml_load(text.replace("\non:", '\n"on":'), path)
@@ -184,7 +208,9 @@ class AuditReportingTests(unittest.TestCase):
             self.assertIn(json.dumps(report, sort_keys=True, indent=2), markdown)
             self.assertEqual(set(outputs.read_text(encoding="utf-8").splitlines()), {"tests_run=300", "skipped=0"})
 
-    def run_generation(self, *, routing_changed: bool, contains_main: bool) -> tuple[subprocess.CompletedProcess, list, Path]:
+    def run_generation(
+        self, *, routing_changed: bool, main_changed_routing: bool, merge_base: str = "c" * 40,
+    ) -> tuple[subprocess.CompletedProcess, list, Path]:
         if not shutil.which("bash"):
             self.skipTest("bash is unavailable")
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
@@ -203,9 +229,10 @@ class AuditReportingTests(unittest.TestCase):
                 "with open(os.environ['TEST_GIT_CALLS'], 'a') as output:\n"
                 "    output.write(json.dumps(args) + '\\n')\n"
                 "if args[0] == 'diff' and '--quiet' in args:\n"
-                "    sys.exit(int(os.environ['TEST_DIFF_CODE']))\n"
-                "if args[0] == 'merge-base':\n"
-                "    sys.exit(int(os.environ['TEST_ANCESTOR_CODE']))\n"
+                "    staged = '--cached' in args\n"
+                "    sys.exit(int(os.environ['TEST_DIFF_CODE' if staged else 'TEST_MAIN_ROUTING_CODE']))\n"
+                "if args[0] == 'merge-base' and os.environ['TEST_MERGE_BASE']:\n"
+                "    print(os.environ['TEST_MERGE_BASE'])\n"
                 "if args[0] == 'rev-parse':\n"
                 "    print('b' * 40)\n"
             ),
@@ -225,22 +252,9 @@ class AuditReportingTests(unittest.TestCase):
                 "    sys.argv = sys.argv[1:]\n"
                 "    exec(compile(sys.stdin.read(), '<workflow-stdin>', 'exec'), {'__name__': '__main__'})\n"
             ),
-            "curl": (
-                "import os\n"
-                "from pathlib import Path\n"
-                "Path(os.environ['TEST_DISPATCHED']).write_text('called')\n"
-            ),
+            "curl": CURL_STUB,
         }
-        for name, program in programs.items():
-            target = binaries / name
-            program_path = binaries / (name + ".py")
-            program_path.write_text(program, encoding="utf-8", newline="\n")
-            target.write_text(
-                "#!/bin/sh\nexec " + shlex.quote(Path(sys.executable).as_posix())
-                + " " + shlex.quote(program_path.as_posix()) + ' "$@"\n',
-                encoding="utf-8", newline="\n",
-            )
-            target.chmod(0o700)
+        install_stubs(binaries, programs)
         calls = root / "calls"
         marker = root / "dispatched"
         environment = dict(
@@ -248,7 +262,8 @@ class AuditReportingTests(unittest.TestCase):
             SOURCE_SHA="a" * 40, BRANCH_NAME="series/example", GH_TOKEN="test-token",
             GITHUB_REPOSITORY="deep-blue-zero/anime-manga-ln-games-analysis",
             TEST_DIFF_CODE="1" if routing_changed else "0",
-            TEST_ANCESTOR_CODE="0" if contains_main else "1",
+            TEST_MAIN_ROUTING_CODE="1" if main_changed_routing else "0",
+            TEST_MERGE_BASE=merge_base,
             TEST_GIT_CALLS=str(calls), TEST_DISPATCHED=str(marker),
         )
         result = subprocess.run(
@@ -259,7 +274,7 @@ class AuditReportingTests(unittest.TestCase):
         return result, commands, marker
 
     def test_current_routing_exits_without_dispatch_or_write(self) -> None:
-        result, commands, marker = self.run_generation(routing_changed=False, contains_main=False)
+        result, commands, marker = self.run_generation(routing_changed=False, main_changed_routing=True)
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertIn("routing outputs are current", result.stdout)
         self.assertFalse(marker.exists())
@@ -267,12 +282,144 @@ class AuditReportingTests(unittest.TestCase):
         self.assertNotIn(["python", "tools/prepare_commit.py"], commands)
 
     def test_stale_routing_requires_current_main_before_any_write(self) -> None:
-        result, commands, marker = self.run_generation(routing_changed=True, contains_main=False)
-        self.assertNotEqual(result.returncode, 0)
-        self.assertIn("incorporate current main", result.stderr)
-        self.assertFalse(marker.exists())
-        self.assertFalse(any(args[0] in {"commit", "push"} for args in commands))
-        self.assertNotIn(["python", "tools/prepare_commit.py"], commands)
+        # Main changed routing since the merge base, or no merge base can be read.
+        for main_changed_routing, merge_base in ((True, "c" * 40), (False, "")):
+            with self.subTest(main_changed_routing=main_changed_routing, merge_base=merge_base):
+                result, commands, marker = self.run_generation(
+                    routing_changed=True, main_changed_routing=main_changed_routing, merge_base=merge_base,
+                )
+                self.assertNotEqual(result.returncode, 0)
+                self.assertIn("incorporate current main", result.stderr)
+                self.assertFalse(marker.exists())
+                self.assertIn(["merge-base", "--all", "origin/main", "HEAD"], commands)
+                self.assertFalse(any(args[0] in {"commit", "push"} for args in commands))
+                self.assertNotIn(["python", "tools/prepare_commit.py"], commands)
+
+    def run_publication(self, *, main_changes: str | None, during_gate: bool) -> dict:
+        """Run the publication step with real Git against a local origin.
+
+        `main_changes` is the path a new commit on main changes, either before
+        housekeeping starts or while its pre-commit gate runs.
+        """
+        if not shutil.which("bash"):
+            self.skipTest("bash is unavailable")
+        base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
+        if not base_value or not Path(base_value).is_dir():
+            self.skipTest("MANGA_ANIME_TEST_TMP is not available")
+        step = workflow(HOUSEKEEPING)["jobs"]["synchronize"]["steps"][-1]
+        directory = tempfile.TemporaryDirectory(dir=base_value, ignore_cleanup_errors=True)
+        self.addCleanup(directory.cleanup)
+        root = Path(directory.name)
+        origin, seed, work, binaries = (root / name for name in ("origin.git", "seed", "work", "bin"))
+
+        def git(repository: Path, *args: str) -> str:
+            identity = ("-c", "user.name=Housekeeping Test", "-c", "user.email=housekeeping-test@example.invalid")
+            return subprocess.check_output(
+                ["git", "-C", str(repository), "-c", "core.autocrlf=false", *identity, *args],
+                stderr=subprocess.PIPE, text=True,
+            ).strip()
+
+        def commit(path: str, content: str, message: str) -> str:
+            target = seed / path
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_text(content, encoding="utf-8", newline="\n")
+            git(seed, "add", "--", path)
+            git(seed, "commit", "--quiet", "-m", message)
+            return git(seed, "rev-parse", "HEAD")
+
+        for repository in (origin, seed, work, binaries):
+            repository.mkdir()
+        git(origin, "init", "--quiet", "--bare")
+        git(seed, "init", "--quiet")
+        git(seed, "symbolic-ref", "HEAD", "refs/heads/main")
+        git(seed, "remote", "add", "origin", origin.as_posix())
+        for path in ROUTING_OUTPUTS:
+            (seed / path).parent.mkdir(parents=True, exist_ok=True)
+            (seed / path).write_text("routing\n", encoding="utf-8", newline="\n")
+            git(seed, "add", "--", path)
+        commit("notes.md", "notes\n", "main: base")
+        git(seed, "checkout", "--quiet", "-b", "series/example")
+        source = commit("series/example/.repository/series-registry.json", "{}\n", "branch: routing descriptor")
+        git(seed, "checkout", "--quiet", "main")
+        git(seed, "push", "--quiet", "origin", "main", "series/example")
+        later_main = ""
+        if main_changes is not None:
+            later_main = commit(main_changes, "changed on main\n", "main: later change")
+            # Either main already moved, or the commit waits in origin for the gate stub to publish it.
+            git(seed, "push", "--quiet", "origin", "main:refs/heads/" + ("staged" if during_gate else "main"))
+
+        git(work, "init", "--quiet")
+        git(work, "config", "core.autocrlf", "false")
+        git(work, "remote", "add", "origin", origin.as_posix())
+        git(work, "fetch", "--quiet", "--no-tags", "origin",
+            "+refs/heads/main:refs/remotes/origin/main",
+            "+refs/heads/series/example:refs/remotes/origin/series/example")
+        git(work, "checkout", "--quiet", "--detach", source)
+        install_stubs(binaries, {
+            "python": (
+                "import os, subprocess, sys\n"
+                "script = sys.argv[1]\n"
+                "if script == 'tools/synchronize_global_registries.py':\n"
+                "    with open('series/registry.json', 'ab') as output:\n"
+                "        output.write(b'regenerated\\n')\n"
+                "elif script == 'tools/prepare_commit.py' and os.environ['TEST_ADVANCE_MAIN']:\n"
+                "    subprocess.check_call(['git', '-C', os.environ['TEST_ORIGIN'], 'update-ref',\n"
+                "                           'refs/heads/main', os.environ['TEST_ADVANCE_MAIN']])\n"
+                "elif script == '-':\n"
+                "    sys.argv = sys.argv[1:]\n"
+                "    exec(compile(sys.stdin.read(), '<workflow-stdin>', 'exec'), {'__name__': '__main__'})\n"
+            ),
+            "curl": CURL_STUB,
+        })
+        marker = root / "dispatched"
+        environment = dict(
+            os.environ, PATH=str(binaries) + os.pathsep + os.environ["PATH"],
+            SOURCE_SHA=source, BRANCH_NAME="series/example", GH_TOKEN="test-token",
+            GITHUB_REPOSITORY="deep-blue-zero/anime-manga-ln-games-analysis",
+            TEST_ORIGIN=str(origin), TEST_ADVANCE_MAIN=later_main if during_gate else "",
+            TEST_DISPATCHED=str(marker),
+        )
+        result = subprocess.run(
+            ["bash", "-e", "-o", "pipefail"], input=with_stubs(step["run"], binaries, ("python", "curl")), cwd=work,
+            env=environment, text=True, capture_output=True, check=False,
+        )
+        head = git(origin, "rev-parse", "refs/heads/series/example")
+        published = head != source
+        if published:
+            self.assertEqual(git(origin, "rev-parse", head + "^"), source)
+            self.assertEqual(git(origin, "diff", "--name-only", source, head), "series/registry.json")
+            self.assertEqual(git(origin, "log", "-1", "--format=%an <%ae> / %cn <%ce>", head),
+                             "deep-blue-zero <50891441+peipw@users.noreply.github.com> / GitHub <noreply@github.com>")
+            if main_changes is not None:
+                # Merging the commits the branch lacked keeps the regenerated outputs byte for byte.
+                git(seed, "fetch", "--quiet", "origin", head)
+                git(seed, "checkout", "--quiet", "--detach", head)
+                git(seed, "merge", "--quiet", "--no-edit", later_main)
+                self.assertEqual(git(seed, "diff", "--name-only", head, "HEAD", "--", *ROUTING_OUTPUTS), "")
+        return {"result": result, "published": published, "dispatched": marker.exists()}
+
+    def test_housekeeping_publishes_when_missing_main_commits_leave_routing_unchanged(self) -> None:
+        for main_changes, during_gate in ((None, False), ("notes.md", False), ("notes.md", True)):
+            with self.subTest(main_changes=main_changes, during_gate=during_gate):
+                outcome = self.run_publication(main_changes=main_changes, during_gate=during_gate)
+                result = outcome["result"]
+                self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                self.assertTrue(outcome["published"], result.stdout + result.stderr)
+                self.assertTrue(outcome["dispatched"])
+                self.assertIn("PASS: dispatched the full audit for", result.stdout)
+
+    def test_housekeeping_refuses_when_missing_main_commits_changed_routing(self) -> None:
+        for path in ("series/registry.json", "governance/MANGA_ANIME_CORPUS_INDEX.md"):
+            for during_gate, message in (
+                (False, "FAIL: main changed routing outputs; incorporate current main"),
+                (True, "FAIL: main changed routing outputs during housekeeping; incorporate current main"),
+            ):
+                with self.subTest(path=path, during_gate=during_gate):
+                    outcome = self.run_publication(main_changes=path, during_gate=during_gate)
+                    result = outcome["result"]
+                    self.assertEqual(result.returncode, 1, result.stdout + result.stderr)
+                    self.assertIn(message, result.stderr)
+                    self.assertFalse(outcome["published"] or outcome["dispatched"])
 
     def test_superseded_housekeeping_exits_before_generation(self) -> None:
         if not shutil.which("bash"):

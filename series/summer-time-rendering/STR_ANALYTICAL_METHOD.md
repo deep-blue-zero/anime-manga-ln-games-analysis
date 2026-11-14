@@ -4,7 +4,7 @@ series: summer-time-rendering
 artifact_id: STR_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: STR-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL main/supplement manga method; no narrative-mechanism findings"
 source_boundary: "Japanese main manga volumes 01-13 and 2026 未然事故物件 supplement; metadata only, no narrative admission or inspection"
@@ -74,3 +74,17 @@ Create `readings/STR_MAIN_VNN_DEEP_READING.md` or a separately authorized `readi
 Synchronize source, event/knowledge, person/relationship and claim homes atomically with acceptance. A justified no-change statement goes in the reading manifest, not filler rows. Neither a chronology diagram nor a ledger table replaces the developed causal argument. No universal word ceiling applies.
 
 Before acceptance perform handoff §15.6's bounded reference check on opening, substantive middle, exit synthesis and material relationships. Preserve meaningful concealment and role labels but correct unsupported genericization, ambiguity and attribution with evidence. Reviewer tests actual source support, state/occurrence distinctions, counterreadings and preservation of full incoming prose. Validator success alone is not literary acceptance.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized plot-bearing unit reading must include a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact, after witness/coverage and entering context, before its developed thesis/rival, extended interpretation and ledger inventories. Name the exact MAIN volume or separately admitted SUP2026 unit. Briefly mark inherited developments as inherited, then identify the unit's new events and disclosures.
+
+Write coherent, accessible prose tracing the opening situation, source-established participants and stakes, consequential actions and decisions, turning points/disclosures and the ending state. Retain meaningful physical and scene mechanics and actual event sequence where established. Follow verified chapter/movement and panel presentation while distinguishing presentation order, depicted time and information acquisition. If the source establishes recurrence, alternative frames or repeated occurrences, use its evidenced occurrence/frame distinctions; do not presume a mechanism from the title or make a recollection, report or similar-looking scene the same event without support. Detail follows narrative density, with no fixed length or mandatory chapter template.
+
+Use only the current admitted unit and explicitly marked inherited context. Separate depicted events from testimony, speech/thought, narrator presentation, conjecture, contested attribution and unresolved outcomes. A newly disclosed earlier event is not a new story-time event, and knowledge does not pass between assumed frames or occurrences without evidence. Give material events retrievable witness/lane/chapter/image/panel locators under the locator contract, or stable evidence references resolving to them; event IDs alone do not replace primary routes. The readable account may preserve uncertain ordering or causes. Later main volumes, adaptations and the separately gated supplement cannot complete missing events; the supplement's title/year cannot establish its chronology, continuity or mechanisms.
+
+This is unit-end, spoiler-bearing orientation. Compose or finalize it only after applicable prospective captures are frozen, and shield analysts assigned an earlier chapter, movement, occurrence frontier or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. Full causal, temporal/epistemic, character, directed-relationship, Japanese, page-form and counterreading arguments, required register updates and the main-only checkpoint before supplement admission remain mandatory. Only a genuinely non-narrative separately scoped pass may record inapplicability with a reason; plot-bearing supplement units retain the duty.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 prospectively without admitting narrative, establishing fictional mechanics, authorizing a run or rewriting frozen history._

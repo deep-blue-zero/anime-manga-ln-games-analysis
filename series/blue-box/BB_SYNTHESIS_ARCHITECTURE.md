@@ -2,7 +2,7 @@
 title: "Blue Box — Synthesis Architecture"
 artifact_id: BB_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -164,7 +164,7 @@ New sources extend inventory only after identity/scope review and never automati
 |---|---|
 | 5.1 Purpose/scope/generation/authority | §1 and current map |
 | 5.2 Source ranking | §2 and source/medium register |
-| 5.3 Sequential contract | §5 and both independent methods |
+| 5.3 Sequential contract | §5 and both independent methods; future plot-bearing readings include separate [manga](BB_MANGA_METHOD.md#current-unit-story-synopsis) and [prose](BB_PROSE_SUPPLEMENT_METHOD.md#current-unit-story-synopsis) current-unit story synopses within their own authorized witness/disclosure boundaries |
 | 5.4 Cumulative infrastructure | §§3–4 and five operational registers |
 | 5.5 Character/relationship synthesis | §8 and state ledger |
 | 5.6 Specialist domains | §§4,8; anticipated versus earned |

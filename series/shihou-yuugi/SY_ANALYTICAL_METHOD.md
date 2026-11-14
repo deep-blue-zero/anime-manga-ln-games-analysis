@@ -4,7 +4,7 @@ series: shihou-yuugi
 artifact_id: SY_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: SY-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL story-local manga procedure; no narrative findings"
 source_boundary: "One Japanese four-story anthology EPUB, metadata verified; all story narratives unadmitted and uninspected"
@@ -70,3 +70,13 @@ The reading must be substantial enough to preserve explanatory mechanisms and am
 Before acceptance use handoff §15.6: sample opening, substantial middle, conclusion and material relationships for identifiable people, correct agency/attribution, purposeful roles and preserved concealment. Record findings as justified role, source anonymity, knowledge-boundary need or defects requiring correction. Passing syntax checks does not prove analytical fidelity.
 
 Only after all works in the declared comparison scope are accepted may a collection synthesis compare formal strategies, development or differences. Retain exceptions and noncomparability. A repeated motif is not a shared diegesis, proof of influence, or evidence about the creator's private psychology.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed story reading includes a clearly labeled **Current-unit story synopsis** near its front, after the brief witness/coverage receipt and entering context, before governing theses and extended analysis. Its unit is the one mapped, authorized one-shot. Use that work's own participants, chronology and ending; sharing an EPUB with the other stories supplies neither a shared diegesis nor permission to read them.
+
+Write connected, accessible prose explaining the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and ending state. Preserve the concrete physical and scene mechanics established by inspected pages. Distinguish inherited context from newly presented events, shown or narrated events from testimony or belief, and source-established outcomes from analyst conjecture or unresolved possibilities. Names and identities remain bounded by the current story's disclosures. Material event claims have retrievable source locators or stable observation references without turning the synopsis into a table. Its length follows the actual story's complexity; there is no fixed quota.
+
+The synopsis is a unit-end, spoiler-bearing orientation and may recount the current story's disclosed ending. Compose or finalize it after all applicable entering and internal prospective captures are frozen; shield it and the complete reading from earlier-horizon analysts. Another story, a later work reusing a title or outside familiarity cannot settle this story's uncertainty. Collection comparison retains its separate retrospective prerequisites. This addition supplements the complete movement-level causal, linguistic, visual, character, relationship and counterreading account and its source/state/claim transaction. Acceptance requires both the synopsis and all existing duties; frozen readings are not rewritten and the CLOSED analysis lock remains governing.

@@ -2,7 +2,7 @@
 title: "Chainsaw Man — Analytical Method"
 artifact_id: CM_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: CM-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–24; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -90,6 +90,20 @@ Retain causal steps, exact linguistic ambiguities, competing motives and quiet s
 Before semantic acceptance, promotion or integration, sample introduction, a substantial middle section, conclusion/exit and major relationships/ambiguous actor passages. Check known names, purposeful roles, pronouns, concealment, speaker/thinker/recipient and frontier. Classify JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION. Record sample/findings and repair only supported defects.
 
 Close the complete reading and five registers atomically. Scoped no-change records state actual inspected dimensions. Missing visual coverage, unreadable central evidence, broken locators or absent required updates remain holds.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized main-volume reading must contain a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact, after the receipt/coverage and entering context, before the thesis/rival, extended interpretation and ledger inventories. Identify inherited events briefly and distinguish them from what newly happens or is newly disclosed in the current volume.
+
+Write coherent, accessible prose showing the opening situation, source-established participants and stakes, consequential actions and decisions, causal turning points, major disclosures and the ending state. Preserve meaningful physical and scene mechanics: who acts, how an act or interruption proceeds where established, and its consequences. Follow actual chapter/movement and panel presentation; inferred gutter transitions, replay or stylized rendering must not become invented continuous motion or literal events. Detail follows narrative density without a fixed length or required chapter template; unresolved outcomes remain unresolved.
+
+Use only the current admitted Japanese unit and clearly distinguished inherited context. Separate depicted actions from speech/thought, narrator or focalizer presentation, testimony, conjecture, disputed identities/attributions and unresolved causes. Newly disclosed earlier events are not new story-time events. An end-of-unit reveal may appear here as unit-end knowledge but cannot be written back into an earlier actor's or prospective reader's state. Material event claims need retrievable witness/chapter/image/panel locators under §3 or stable evidence references resolving to them, without converting the synopsis into ledger rows. Remembered cast, arc divisions, later revelations, adaptations and unrelated works by the creator cannot complete the account.
+
+Compose or finalize this unit-end, spoiler-bearing orientation only after the applicable prospective captures are frozen. Shield analysts assigned an earlier chapter, movement or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. The complete causal, visual/formal, Japanese, character, relationship, ordinary-life and counterreading arguments, five-register transaction and exit freeze remain required. Only a genuinely non-narrative separately scoped pass may state inapplicability with a reason.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings; no narrative synopsis, admission, run authorization or frozen-history rewrite is made._
 
 ## 9. Reconstruction, frozen history and handoff
 

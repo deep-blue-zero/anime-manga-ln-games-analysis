@@ -2,7 +2,7 @@
 title: "Girl meets Rock! — Analytical Method"
 artifact_id: GMR_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: GMR-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary or musical-performance findings"
 source_boundary: "Metadata only: Japanese manga V01–12; no narrative admitted and no audio witness supplied"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -99,6 +99,20 @@ Do not reduce a performance passage to a song list, a relationship to “bonding
 Before semantic acceptance, promotion or integration, sample introduction, substantial middle, conclusion/exit and major relationships/ambiguous actors. Check names, purposeful roles, pronouns, concealment, speaker/thinker/recipient and knowledge frontier. Classify JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION. Record sample/findings and repair supported defects.
 
 Accept complete prose and synchronized registers atomically. Scoped no-change findings require actual inspection. Unreadable pages, untested central locators and missing updates remain holds. The absence of audio is a source-boundary limit, not a falsely closed AV debt.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized plot-bearing volume reading must include a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact, after receipt/coverage and entering context, before the developed thesis/rival, extended interpretation and ledger inventories. Mark inherited developments as inherited and distinguish them from events or disclosures newly encountered in this volume.
+
+Write coherent, accessible prose giving the opening situation, source-established participants and stakes, consequential actions and decisions, turning points/disclosures and the ending state. Preserve meaningful physical and scene mechanics: individual contributions, coordinated activity, practical interactions and audience actions where established. Include consequential ordinary scenes as well as any depicted performance. Follow verified chapters, causal movements and panel presentation, distinguishing successive action from reaction inserts or simultaneous viewpoints and marking inferred gutter transitions. Detail follows narrative density without a fixed length or mandatory chapter template.
+
+Use only the current admitted unit and explicitly distinguished inherited context. Separate drawn events from speech/thought, lyrics or quotation, narrator presentation, reported judgments, conjecture, disputed attribution and unresolved outcomes. Newly disclosed earlier events are not new story-time events. Depicted action, printed musical expression and audience response do not establish heard timbre, tempo, delivery, synchronization or continuous instrumental technique. Do not turn a participant's evaluation into an independently demonstrated fact or a lyric into an unqualified personal statement. Give material events retrievable witness/chapter/image/panel locators under §3, or stable evidence references resolving to them, within readable prose. Later volumes, remembered songs, external recordings and adaptations cannot supply missing events or an acoustic channel.
+
+Compose or finalize this unit-end, spoiler-bearing orientation after applicable prospective captures are frozen, and shield analysts assigned an earlier chapter, movement or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. Full causal, individual/group, directed-relationship, ordinary-life, Japanese, graphic-form and counterreading work, all five register updates and the explicit absent-audio boundary remain required. Only a genuinely non-narrative separately scoped pass may record inapplicability with a reason; a narrative performance passage cannot be exempted as musical material.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings without narrative or audio admission, run authorization or frozen-reading changes._
 
 ## 10. Reconstruction and full-output transfer
 

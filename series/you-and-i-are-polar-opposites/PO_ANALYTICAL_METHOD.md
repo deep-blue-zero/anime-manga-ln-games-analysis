@@ -4,7 +4,7 @@ series: you-and-i-are-polar-opposites
 artifact_id: PO_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: PO-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL manga method with separate shared-paratext boundary"
 source_boundary: "Japanese manga volumes 01-08 plus one unadmitted shared artbook; metadata only, no narrative admission or inspection"
@@ -76,3 +76,17 @@ Future `readings/PO_VNN_DEEP_READING.md` carries `artifact_type: deep_reading` o
 Synchronize source, person/relationship, ordinary/register and claim homes in the accepted transaction. No-change is a reasoned manifest statement, not filler rows. Tables cannot replace causal or counterreading prose. No universal word ceiling applies.
 
 Apply handoff §15.6's name/reference check to opening, substantive middle, conclusion and material relationships. Distinguish purposeful role labels, source anonymity and knowledge boundaries from genericization, ambiguous reference or incorrect attribution. Record the review scope. Acceptance requires meaningful evidence/argument and preserved incoming detail, not merely validator success.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized collected-volume reading must include a clearly labeled **Current-unit story synopsis** near the front of the canonical artifact, after witness/coverage and entering context, before the developed thesis/rival, extended interpretation and ledger inventories. Identify inherited developments as inherited, then recount what newly happens or is newly disclosed within this volume.
+
+Write coherent, accessible prose giving the opening situation, source-established participants and stakes, consequential actions and decisions, turning points/disclosures and the ending state. Preserve meaningful physical and scene mechanics, including who acts toward whom, practical arrangements and the sequence of interaction where established. Follow the verified chapters, causal movements and panel presentation rather than imposing a cast pairing or opposing personality types from the title. Ordinary scenes retain their consequential events; a relationship label or group outcome cannot replace individual actions. Detail follows narrative density, with no fixed length or mandatory chapter template.
+
+Use only the current admitted unit and explicitly marked inherited context. Distinguish depicted events from speech/thought, narrator presentation, testimony, conjecture, contested attribution and unresolved outcomes; newly disclosed earlier events are not new story-time events. Do not assign an individual's knowledge or intention to a whole group. Material event claims require retrievable witness/chapter/image/panel locators under the locator contract, or stable evidence references resolving to them, while keeping the prose readable. Later volumes, adaptations and the shared artbook cannot complete missing events. The artbook's shared publication identity does not establish shared cast or continuity with The Ramparts of Ice.
+
+Compose or finalize this unit-end, spoiler-bearing orientation after applicable prospective captures are frozen, and shield analysts assigned an earlier chapter, movement or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. All causal, character, directed-relationship, Japanese, page-form and counterreading work, cumulative updates and exit uncertainty remain required. A separately admitted plot-bearing artbook component receives the same duty within its classified boundary; only a genuinely non-narrative separately scoped pass may record inapplicability with a reason.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings; no narrative admission, run authorization or frozen-history revision is made._
