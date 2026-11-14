@@ -1,0 +1,106 @@
+[
+  {
+    "seconds": 5055.0,
+    "file": "POST_05055.000.png",
+    "bytes": 5363980,
+    "sha256": "ca19c925689107bb24138afe2f3868a0db2a254916e015cd901f1313904c2440",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5055.25,
+    "file": "POST_05055.250.png",
+    "bytes": 5453954,
+    "sha256": "7072af6f05a5b785412b35d42b58d014c32d18cc65b19861b59bfa2370d96dad",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5055.5,
+    "file": "POST_05055.500.png",
+    "bytes": 5317384,
+    "sha256": "d2379a8b9136315bdea4cbcf96ccaa51ed982a8b1efc6b4b0950a712b0cccbbd",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5055.75,
+    "file": "POST_05055.750.png",
+    "bytes": 5352867,
+    "sha256": "a4d9189a806179999392389412a16211f3789205bb5803b51af2360a0a7e5484",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5056.0,
+    "file": "POST_05056.000.png",
+    "bytes": 5339632,
+    "sha256": "856937c2721b766e3e9a18fdfabf0bd7bf9344a8fbc1de1f1287c1b888e58c03",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5056.25,
+    "file": "POST_05056.250.png",
+    "bytes": 2306674,
+    "sha256": "c5c54dbb57e8611978964f3a5655a5e7b8799f2a8664eed40f7d20a9c43e9358",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5056.5,
+    "file": "POST_05056.500.png",
+    "bytes": 2435856,
+    "sha256": "a675e9cd287bb6b372283e9429435f82e29fe0e5fe498eee6df5b23b7c09ed2d",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5056.75,
+    "file": "POST_05056.750.png",
+    "bytes": 2528259,
+    "sha256": "fc4339adc3fe204d62211ff3f043cc653081944c7d1927b88d07db8c9d9cc36d",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 5057.0,
+    "file": "POST_05057.000.png",
+    "bytes": 2505112,
+    "sha256": "6852aa71337375bc9359ff78c09b6fb26c756aaf6f8fb3b681e9c99708c84c55",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 7650,
+    "file": "POST_07650.000.png",
+    "bytes": 7794111,
+    "sha256": "d4be56fae1a99273c7f3476e97eeae8371cb38592b60cad4dc592fc18bfdbcbb",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 7660,
+    "file": "POST_07660.000.png",
+    "bytes": 8133207,
+    "sha256": "3656dd05e481d06d8f54bfc2444e8cfdf4b5722ad0b1d682d4e3bb5679ac9d10",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 7670,
+    "file": "POST_07670.000.png",
+    "bytes": 8251925,
+    "sha256": "31fc1b8753b400500998f17847ed608269a808357a53ae531aa87bf580879d62",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  },
+  {
+    "seconds": 7680,
+    "file": "POST_07680.000.png",
+    "bytes": 5981451,
+    "sha256": "db6fcd559ca278c5823a9d9d57989563635a55d9033ca1d150026ad817dadd46",
+    "viewed": true,
+    "view_method": "contact sheet at 960x540 per tile; static samples only"
+  }
+]

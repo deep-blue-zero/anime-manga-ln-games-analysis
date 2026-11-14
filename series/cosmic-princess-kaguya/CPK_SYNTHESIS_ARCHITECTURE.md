@@ -4,12 +4,12 @@ series: cosmic-princess-kaguya
 artifact_id: CPK_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: CPK-G1
-version: "1.0"
+version: "1.1"
 status: canonical
-authority_scope: "INITIAL film corpus responsibilities, cumulative homes and completion gates"
-source_boundary: "Intended Japanese feature F01; no narrative source admitted or inspected"
+authority_scope: "MATURE single-film corpus responsibilities, cumulative homes, role-gap/convergence completion, and post-reconciliation gates"
+source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 00:00:00.000-02:22:03.207); primary run CPK-R1, independent bundle/audit passes CPK-B1-SOL61, bounded AV return CPK-AVRET-R1, and integrated synthesis CPK-INT completed"
 canonical_home: series/cosmic-princess-kaguya/CPK_SYNTHESIS_ARCHITECTURE.md
-architecture_lifecycle: INITIAL
+architecture_lifecycle: MATURE
 governing_method: CPK_ANALYTICAL_METHOD.md
 supersedes: []
 superseded_by: []
@@ -147,6 +147,7 @@ Entrypoint, procedural method/architecture and current pointers are mutable thro
 | Version | Date | Amendment |
 |---|---|---|
 | 1.0 | 2026-11-10 | INITIAL single-film design and mirror audit; no narrative findings |
+| 1.1 | 2026-11-12 | Transitioned `architecture_lifecycle` from `INITIAL` to `MATURE` after `F01` primary completion, `CPK-B1-SOL61` audit, `CPK-AVRET-R1` return, `v1.2` ledger reconciliation, and §10 role-gap/convergence review |
 
 ## 9. Ownership, reasoning and retrieval
 
@@ -165,3 +166,29 @@ The expected benefit of quality-first audit is fewer unsupported temporal claims
 Substantial transfer follows the [handoff contract](../../governance/source-policies/MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md): full files and hashes, immutable base, source/knowledge boundary, modality coverage, unresolved REQUIRED/OPTIONAL obligations and next owner. Receiver verifies identity/integrity/full substance and compares handed-off base, return and current target. One active owner per mutable home; no blind whole-file replacement or automatic compression. Stage receipt, semantic acceptance, repository checks and main integration remain distinct.
 
 Ordinary retrieval: entrypoint → method/architecture → relevant cumulative claim/state → full reading/study argument → observation/scene/musical-event ID → inventory witness/clock → bounded source interval and cue/frame/audio. A blind verifier instead uses the profile's restricted packet. No reader needs this conversation to recover either route.
+
+
+## 10. Post-reconciliation source-completion, role-gap, and convergence review (`v1.1`)
+
+Following completion of `CPK-R1`, independent bundle/audit passes `CPK-B1-SOL61`, bounded primary-AV return `CPK-AVRET-R1` ([audits/CPK_F01_PRIMARY_AV_RETURN.md](audits/CPK_F01_PRIMARY_AV_RETURN.md)), and `v1.2` longitudinal reconciliation across [CPK_SOURCE_INVENTORY.md](CPK_SOURCE_INVENTORY.md), [CPK_OBSERVATION_LEDGER.md](CPK_OBSERVATION_LEDGER.md), [CPK_CHARACTER_RELATIONSHIP_LEDGER.md](CPK_CHARACTER_RELATIONSHIP_LEDGER.md), and [CPK_CLAIM_REVISION_LEDGER.md](CPK_CLAIM_REVISION_LEDGER.md), this §10 executes the §§5–8 **source-completion, role-gap, and specialist-convergence gates** prior to accepting [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md).
+
+### 10.1 Source-completion and cumulative-home audit
+
+- **Authorized narrative horizon**: Single feature unit `F01` (`CPK-W01-NF-WEBRIP-HEVC`, `[00:00:00.000, 02:22:03.207]`) is `100%` covered across synchronized video (`SEG-01`–`SEG-15`, `P2-CLIP-01`–`06`, `AVRET-01A`–`10B`), lossless full-resolution frames (`FRM-01`–`29`, `AVFRM-01A`–`09B`, plus `CPK-B1-SOL61`'s `5,761`-file bundle with `5,465` JPEGs and `274` contact sheets), native `5.1` Japanese Track 1 audio (`0:a:0`, including `AM-01`–`AM-06` and `82` sampled 6-channel PCM windows), and stream-complete Japanese `[SDH]` Track 4 (`0:s:3`, `2,716` cues `[JA#0001–2716]`, including `111` consecutive credit-music cues `[JA#2599–2709]` with four standalone music markers). Zero `REQUIRED` source intervals or channels remain uninspected.
+- **Preserved noncurrent artifacts**: `readings/CPK_F01_PRIMARY_DEEP_READING.md` (`v1.0`), `independent/CPK-B1-SOL61/readings/CPK_B1_SOL61_MONOGRAPH.md` (`v1.0`), `audits/CPK_F01_BLIND_OBSERVATIONS.md` (`v1.0`), `audits/CPK_F01_CLAIM_AUDIT.md` (`v1.0`), `audits/CPK_F01_SELF_AUDIT.md` (`v1.0`), `audits/CPK_F01_COMPARATIVE_EVALUATION.md` (`v1.0`), and `audits/CPK_F01_PRIMARY_AV_RETURN.md` (`v1.0`) remain intact as `draft_noncurrent` experimental/audit records.
+
+### 10.2 Mandatory analytical responsibility and role-gap table (§5 & §8)
+
+| Mandatory responsibility (§5) | Role-gap disposition | Carrying home & exact integrated synthesis section | Evidence & convergence basis | Standalone `studies/` spin-off needed? |
+|---|---|---|---|---|
+| **1. Character & scene-to-scene causality** | `SATISFIED` | [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§§2–4`, `§7`; backed by `CPK_CHARACTER_RELATIONSHIP_LEDGER.md` (`v1.2`) & `CPK_OBSERVATION_LEDGER.md` (`v1.2`) | Integrates Iroha's domestic capacity under negotiated maternal self-funding (`[JA#1092–1098]`), repressed grief/song refusal, Kaguya's spending breaches + mutual caregiving, Asahi's concealed protection (`00:58:53`, `01:45:56`, `02:07:40`), and `FUSHI`'s institutional stewardship (`[JA#2485–2491]`) | **No** — single-feature causal arc is tighter and less repetitive when argued inside one unified monograph |
+| **2. Directed interpersonal relationships** | `SATISFIED` | [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§3`, `§4.3`, `§7`; backed by `CPK_CHARACTER_RELATIONSHIP_LEDGER.md` `§§3, 7.3` (`E0001`–`E0020`, `CPK-INT-E0001`–`E0010`) | Models asymmetric directions separately across `Iroha ↔ Kaguya`, `Iroha ↔ Yachiyo`, `Iroha ↔ Momiji`, `Asahi ↔ Iroha/Kaguya`, `Roka/Mami ↔ Iroha`, and `FUSHI ↔ Yachiyo/Iroha`, including repaired care/consent tensions (`CON-02`, `CON-03`, `CON-10`) | **No** — dyadic asymmetries directly drive the central causal and ethical argument |
+| **3. Cinematic & multimodal construction** | `SATISFIED` | [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§2`, `§4`; backed by `CPK_OBSERVATION_LEDGER.md` `§§2, 5.2` (`O0001`–`O0040`, `CPK-INT-O0001`–`O0024`) | Synthesizes bookend framing (`00:00:01` Netflix cards → `02:10:26.360` silent title drop → `02:19:54` `蛇足ぅ～！` coda), `01:24:16.250` bracelet trigger (`PE12`), AR-selective `月人` visibility, `-107.45 dBFS` farewell hush, `~6.0 s` streaming post-play shatter, and `FRM-20` three-figure shadow/glow stage staging | **No** — formal staging is inseparable from ontological and platform arguments |
+| **4. Japanese-sensitive language & register** | `SATISFIED` | [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§6` (plus inline citations in `§§2–5, 7`); backed by `CPK_CHARACTER_RELATIONSHIP_LEDGER.md` `§§4, 7.4` (`J0001`–`J0018`, `CPK-INT-J0001`–`J0012`) | Covers `月見(るなみ)ヤチヨ` furigana & `今は昔`/`-けり` framing, `yachi8000` BBS bluntness, `言いたくなかったの` negative-volitional hedging, Kansai-ben family code (`ええよ やってみ`), `（ヤチヨ）ヤッチョは先週ぶり～`, `ひとまず`, and `朝久`/`朝日` vs `紅葉`/`彩葉` naming symmetry | **No** — §6 + `30` cumulative ledger entries fully discharge linguistic analysis |
+| **5. Musical, sonic & vocal dramaturgy** | `SATISFIED` | [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§5`; backed by `CPK_OBSERVATION_LEDGER.md` `§§3, 5.3` (`M0001`–`M0014`, `CPK-INT-M0001`–`M0010`) & `AM-01`–`AM-06` | Tracks `Remember` → `.wav` (`2020/01`) → one-chorus `Reply` (`同じメロ？`) → completed `Reply` (`できた`) → zero-instrument solo call-and-response (`[JA#2528–2533]`), plus `ワールドイズマイン` remix, `ハッピーシンセサイザ`, and `111`-cue credit roll (`ray` + `メルト`) without inventing melodic first-origin | **No** — musical development across stages is a core spine of [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§5` |
+| **6. Counterreading, rivals & open boundaries** | `SATISFIED` | [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) `§§8–9`; backed by `CPK_CLAIM_REVISION_LEDGER.md` `§§2–5` (`CON-01`–`CON-10`, `U0001`–`U0010`, `CPK-INT-C0001`–`C0012`) | Preserves four live rival interpretations (emancipation sufficiency, venture-backed platform wish fulfillment, grief/privacy tension, experienced agency inside closed-loop history `SA07`) and bounds `10` explicit open/resolved questions (`U0001`–`U0010`) | **No** — rivals and open bounds belong directly beside the governing thesis so readers never encounter unchecked closure |
+| **7. Behavioral character reconstruction (§5)** | `NOT_APPLICABLE` (`NOT_ATTEMPTED`) | Deferred (`reconstruction/` uncreated; negative constraints documented in `CPK_CHARACTER_RELATIONSHIP_LEDGER.md` `§§5, 7.5`) | Owner scope authorizes `F01` source analysis and reconciliation only; no operational character-simulation model was requested or initialized | **Deferred** unless separately authorized by owner |
+
+### 10.3 Convergence decision
+
+All rival accounts between `CPK-R1` (`CONTINUOUS_AV`) and `CPK-B1-SOL61` (`BUNDLE_MEDIATED`) have been compared at source/locator/channel level (`CON-01`–`CON-10`), tested through bounded `1 of 1` continuous-AV and `5.1` PCM verification (`AV-01`–`AV-10`), and written through to `v1.2` cumulative homes. Because `F01` is a single feature unit (`02:22:03.207`) whose formal, musical, linguistic, and relational arguments interlock across the same core scenes, **one comprehensive integrated synthesis ([synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md)) carries all six mandatory responsibilities without fragmenting arguments across auxiliary `studies/` files.** Architecture lifecycle is accordingly advanced from `INITIAL` to **`MATURE`**.

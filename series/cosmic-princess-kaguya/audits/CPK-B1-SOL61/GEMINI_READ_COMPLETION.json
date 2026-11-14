@@ -1,0 +1,63 @@
+{
+  "head": "7c850af679471b74e36a8458985e448bc8191068",
+  "read_ranges_js_character_offsets": {
+    "readings/CPK_F01_PRIMARY_DEEP_READING.md": [
+      [
+        0,
+        28000
+      ],
+      [
+        28000,
+        55000
+      ],
+      [
+        55000,
+        80041
+      ]
+    ],
+    "CPK_SOURCE_INVENTORY.md": [
+      [
+        0,
+        31284
+      ]
+    ],
+    "CPK_OBSERVATION_LEDGER.md": [
+      [
+        0,
+        28000
+      ],
+      [
+        28000,
+        54000
+      ],
+      [
+        54000,
+        70622
+      ]
+    ],
+    "CPK_CHARACTER_RELATIONSHIP_LEDGER.md": [
+      [
+        0,
+        28500
+      ],
+      [
+        28500,
+        59333
+      ]
+    ],
+    "audits/CPK_F01_RECONCILIATION_RECORD.md": [
+      [
+        0,
+        21216
+      ]
+    ],
+    "CPK_CLAIM_REVISION_LEDGER.md": [
+      [
+        0,
+        38274
+      ]
+    ]
+  },
+  "all_six_homes_read_completely": true,
+  "structure_comparison_written_before_claim_dispositions": true
+}

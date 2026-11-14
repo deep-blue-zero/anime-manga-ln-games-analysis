@@ -4,10 +4,10 @@ series: cosmic-princess-kaguya
 artifact_id: CPK_RECONCILIATION_PROFILE
 artifact_type: audiovisual_reconciliation_profile
 generation: CPK-G1
-version: "1.0"
+version: "1.1"
 status: canonical
-authority_scope: "Project-local independent-audit procedure and evaluation contract; no executed comparison or adjudications"
-source_boundary: "Intended same-witness F01 review; no source admitted, candidate or audit produced"
+authority_scope: "Project-local independent-audit procedure, evaluation contract, and executed F01 mirror-reconciliation route disclosure"
+source_boundary: "Same-witness F01 review executed across CPK-R1 (CONTINUOUS_AV), CPK-B1-SOL61 (BUNDLE_MEDIATED Phase A/B2/Comparison), CPK-AVRET-R1 (1-of-1 AV return), and CPK-INT (Stage-3 integration)"
 canonical_home: series/cosmic-princess-kaguya/CPK_RECONCILIATION_PROFILE.md
 supersedes: []
 superseded_by: []
@@ -90,3 +90,23 @@ Assess factual/source fidelity, consequential evidence support and locator valid
 This planned relay compares **different evidence routes and roles**. It is not by itself a controlled ranking of Carbon against OpenAI: modality, temporal resolution, text availability, context, exposure and author-versus-verifier tasks can explain differences. Track those factors explicitly. Inaccessible claims and unresolved disagreements are not adjudicated ground truth.
 
 If an Argon control is later authorized, predeclare a distinct run/candidate/evidence envelope and input/exposure manifest before execution. Hold source hashes, scope, instructions, allowed context and evaluation criteria constant where possible; record every modality/sampling/configuration difference and actual model identity. Freeze each independent result before cross-exposure. Prefer a fresh evaluator with anonymized candidate labels where practical; distinguish blinded artifact labels from unavoidable film recognition. A prior exposed session cannot become blind by deleting its prose. No control run, paid invocation or comparative score is authorized now.
+
+
+## 9. Executed `F01` mirror-reconciliation route and disclosure summary (`v1.1`)
+
+| Version | Date | Amendment summary |
+|---|---|---|
+| `1.0` | `2026-11-10` | Initial mirror-route audit procedure, blind exposure contract, and evaluation criteria |
+| `1.1` | `2026-11-12` | Recorded actual four-stage `F01` execution topology, blind-packet cueing lesson (`SA13`), `1 of 1` AV return, and owner-authorized dual-role integration disclosure |
+
+For `F01` (`CPK-W01-NF-WEBRIP-HEVC`), the mirror route executed in four auditable stages whose exact hashes, transition counts, and verification receipts live in [audits/CPK_F01_RECONCILIATION_RECORD.md](audits/CPK_F01_RECONCILIATION_RECORD.md) (`v1.1`):
+
+1. **Stage 1 — Primary `CONTINUOUS_AV` candidate (`CPK-R1`, Gemini 4 Carbon)**: Full-film segmented native AV + Track 4 inspection frozen at commit `7c850af679471b74e36a8458985e448bc8191068` (`readings/CPK_F01_PRIMARY_DEEP_READING.md` `v1.0` + `v1.1` ledgers + `audits/CPK_F01_BLIND_INPUT_PACKET.md` `v1.0`).
+2. **Stage 2 — Independent `BUNDLE_MEDIATED` benchmark & claim audit (`CPK-B1-SOL61`; requested `Sol6.1` with `Max` reasoning, actual backend model and reasoning setting unverified, `SA14`)**:
+   - **Phase A (Packet-free unguided benchmark)**: Examined `127` of `274` contact sheets (`2,525` displayed thumbnail slots) and `29` frames from the `5,761`-file local bundle (`5,465` JPEGs), read all `2,716` Japanese `0:s:3` `[SDH]` cues, and cross-checked `79` English `0:s:2` pairings (`audio_inspection = UNAVAILABLE`, `0 s` audio heard and `0 s` continuous video viewed) **before** reading `audits/CPK_F01_BLIND_INPUT_PACKET.md`, freezing Phase A (`2026-11-12T04:50:06Z`, local manifest `67d16bc1...`, publication envelope `independent/CPK-B1-SOL61/`, `blind_to_gemini: true`, `blind_to_neutral_queue: true`). This mitigated partial packet cueing (`SA13`: `FRM-01`–`FRM-29` target list, `Q22` figure count, and `Q13`/`Q16`/`Q17` event presuppositions).
+   - **Phase B2 (Pre-exposure neutral queue)**: Added `58` source PNG and `18` bundle JPEG views to answer `Q-F01-0001`–`Q-F01-0024` and froze `audits/CPK_F01_BLIND_OBSERVATIONS.md` (`2026-11-12T05:11:59Z`, local manifest `19b5c74d...`, `blind_order_achieved: true`).
+   - **Post-exposure comparison & self-audit**: Checked `13` further PNGs in `960x540` tiles, audited all `20` registered `CPK-R1` claims (`audits/CPK_F01_CLAIM_AUDIT.md`), `35` prose-level assertions (`P001`–`P035`), and `14` self-audit items (`SA01`–`SA14` in `audits/CPK_F01_SELF_AUDIT.md`, including `326` late cue-to-sheet index mismatches in `SA12`), and issued `10` bounded continuous-AV verification requests (`AV-01`–`AV-10`) in `audits/CPK_F01_RECEIVING_HANDOFF.md`.
+3. **Stage 3A — Bounded `1 of 1` primary-AV return (`CPK-AVRET-R1`, Gemini 4 Carbon)**: Reinspected `AV-01`–`AV-10` on `25` synchronized `24000/1001 fps` clips, `32` `1920x1080` frames, `2` `3x` crops, stream-complete raw `0:s:3` `[SDH]` cues, and `82` native `5.1` PCM acoustic windows in [audits/CPK_F01_PRIMARY_AV_RETURN.md](audits/CPK_F01_PRIMARY_AV_RETURN.md) (`v1.0`), resolving every `REQUIRED` temporal/acoustic verification debt without needing a second escalation loop.
+4. **Stage 3B — Owner-designated integration (`CPK-INT`, Gemini 4 Carbon, disclosed dual role per §1)**: Under explicit owner authorization (`A1`), the same Gemini 4 Carbon session executed `CPK-AVRET-R1` and Stage-3 integration with full provenance disclosure, preserving all frozen `CPK-R1` and `CPK-B1-SOL61` files byte-for-byte, applying evidence-grounded corrections in both directions (`14 REVISE`, `1 DOWNGRADE`, `1 REJECT` on `CPK-R1` claims alongside `SA01`–`SA14` bounds on `CPK-B1-SOL61` claims, including holding `[JA#2595–2597]` `OPEN` under Method §6), updating the cumulative homes to `v1.2`, and authoring [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) (`v1.0`).
+
+Future blind-packet lesson (`SA13` + steward review): pre-freeze verifier packets must exclude primary-selected `FRM-*` target lists, replace event-specific compound questions with scene-window descriptive prompts, and carry repo-relative paths (`series/<slug>/...`) without legacy `00_governance/` prefixes.

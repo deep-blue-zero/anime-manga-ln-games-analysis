@@ -1,0 +1,46 @@
+{
+  "head": "7c850af679471b74e36a8458985e448bc8191068",
+  "retrieved_verified_utc": "2026-11-12T05:15:33.956894+00:00",
+  "first_substantive_exposure": "PR542 metadata after verified B2 freeze; followed by six-home retrieval",
+  "blind_freeze_time": "2026-11-12T05:11:59.269628+00:00",
+  "files": [
+    {
+      "path": "readings/CPK_F01_PRIMARY_DEEP_READING.md",
+      "git_blob_sha1": "43dad62ec02db38bd8d8c8db7578154625b880c7",
+      "bytes": 86421,
+      "sha256": "cf7c64d7f4e70d8bfbbc8d97652e40c99de115e5bd9958e4f620197c70a47c3c"
+    },
+    {
+      "path": "CPK_SOURCE_INVENTORY.md",
+      "git_blob_sha1": "f3c320f33edd9369b6aacb600fbf62ad76af7f1b",
+      "bytes": 33190,
+      "sha256": "51d50099349a8c799990fb6091a6146b033e0bb5769f7ad8f10f649e14322c77"
+    },
+    {
+      "path": "CPK_OBSERVATION_LEDGER.md",
+      "git_blob_sha1": "c31cc558d1503fd67c72bee22428b2bb556c050d",
+      "bytes": 77806,
+      "sha256": "76f4cd8d6aa5ffab5dc3d7540a913a04f1a59391ee663f7be3c2c1da8a184c2e"
+    },
+    {
+      "path": "CPK_CHARACTER_RELATIONSHIP_LEDGER.md",
+      "git_blob_sha1": "5c25a7e47ab5d23a48c2695c838fca90950d58d6",
+      "bytes": 64307,
+      "sha256": "8f6aea5a65f96a9bb8a3fa9d4742514c238ed0e86f7232353be6a6b1b6ea4626"
+    },
+    {
+      "path": "CPK_CLAIM_REVISION_LEDGER.md",
+      "git_blob_sha1": "de9eb763a5b0c6ce38371ff09c8d070fbae4319d",
+      "bytes": 40216,
+      "sha256": "aee13ff18e30f8729d165cdf4c4bbc762d9fa56667ee403a82ea766fcca75f20"
+    },
+    {
+      "path": "audits/CPK_F01_RECONCILIATION_RECORD.md",
+      "git_blob_sha1": "10d71381aa9f78b2395d20be491a280442aeaca3",
+      "bytes": 22846,
+      "sha256": "ad0387d0c51e6eaaad2c423a5dacd1e1c579e2350f539c365fdf489210bf5672"
+    }
+  ],
+  "status": "original candidate preserved; no edits",
+  "read_completion": "pending complete model inspection"
+}

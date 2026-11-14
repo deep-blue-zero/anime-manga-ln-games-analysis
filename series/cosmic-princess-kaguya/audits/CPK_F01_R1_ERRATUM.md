@@ -4,14 +4,15 @@ series: cosmic-princess-kaguya
 artifact_id: CPK_F01_R1_ERRATUM
 artifact_type: analytical_erratum
 generation: CPK-G1
-version: "1.1"
-status: canonical
-authority_scope: "Source corrections and completed-audit scope qualifying the frozen CPK-R1 v1.1 ledgers and v1.0 primary reading candidate pending Stage-3 reconciliation"
+version: "1.2"
+status: superseded
+authority_scope: "Historical archive-integration erratum and audit-completion notice from PR #542; preserved in body and superseded as current audit-qualification record by CPK_F01_RECONCILIATION_RECORD.md (v1.1) alongside the v1.2 cumulative ledgers and canonical integrated synthesis"
 source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 00:00:00.000-02:22:03.207; Japanese Audio Track 1 0:a:0; Japanese [SDH] Subtitle Track 4 0:s:3); records CPK-B1-SOL61 and the CPK-AVRET-R1 bounded return, with official character paratext cited for Iroha’s age"
 canonical_home: series/cosmic-princess-kaguya/audits/CPK_F01_R1_ERRATUM.md
 supersedes: []
-superseded_by: []
-do_not_use_as_current_authority: false
+superseded_by:
+  - series/cosmic-princess-kaguya/audits/CPK_F01_RECONCILIATION_RECORD.md
+do_not_use_as_current_authority: true
 do_not_use_as_literary_evidence: true
 ---
 
