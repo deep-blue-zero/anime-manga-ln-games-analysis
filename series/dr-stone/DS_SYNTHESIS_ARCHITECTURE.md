@@ -2,7 +2,7 @@
 title: "Dr. STONE — Synthesis Architecture"
 artifact_id: DS_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: DS-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary or technical findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 plus separate 科学王国事典 fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -163,7 +163,7 @@ New sources require identity/scope review and do not extend a run. Add schema on
 |---|---|
 | 5.1 Purpose/scope/generation/authority | §1 and current map |
 | 5.2 Source classes/ranking | §2 and source register |
-| 5.3 Sequential contract | §5 and method |
+| 5.3 Sequential contract | §5 and method; required [current-unit story synopsis](DS_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Cumulative infrastructure | §§3–4 and five operational registers |
 | 5.5 Character/relationship synthesis | §8 and character/group ledger |
 | 5.6 Specialist domains | §§4,8; anticipated versus earned |
@@ -179,3 +179,7 @@ New sources require identity/scope review and do not extend a run. Add schema on
 | 5.16 Entry/retrieval | §1 and topology §3 |
 
 Stress review with a claimed mechanism whose intermediate steps are omitted, a group result with multiple contributions, an ordinary counterexample to a competence-based character account, and an external fact that does not settle fictional meaning. These are methodological scenarios, not invented source events.
+
+## Prospective amendment record
+
+- **2026-11-13 — v1.1:** Linked the local-method current-unit synopsis duty under initiation policy §5.3. Explanation/demonstration/external-truth distinctions, separate fanbook scope, full literary/register obligations, INITIAL lifecycle and CLOSED authorization remain intact.

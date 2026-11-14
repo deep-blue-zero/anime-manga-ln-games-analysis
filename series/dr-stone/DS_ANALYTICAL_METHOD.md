@@ -2,7 +2,7 @@
 title: "Dr. STONE — Analytical Method"
 artifact_id: DS_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: DS-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed source metadata only; no literary or technical findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 plus separate 科学王国事典 fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -105,6 +105,20 @@ No list of discoveries, mechanisms, plot outcomes or character traits substitute
 Before semantic acceptance, promotion or integration, sample introduction, a substantial middle section, conclusion/exit, all major relationships and ambiguous actor passages. Check names, purposeful roles, pronouns, concealment, speaker/thinker/recipient and knowledge boundary. Classify JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION. Record sample/findings and repair supported defects only.
 
 Accept full prose and register changes atomically. Scoped no-change findings require actual inspection. Missing required pages, unreadable diagrams, broken central routes or absent updates remain holds.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized plot-bearing volume reading must include a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact, after receipt/coverage and entering context, before the developed thesis/rival, extended interpretation and ledger inventories. Distinguish inherited developments from events newly occurring or newly disclosed in the current unit.
+
+Write coherent, accessible prose giving the opening situation, source-established participants and stakes, consequential actions and decisions, turning points/disclosures and the ending state. Preserve meaningful physical and scene mechanics, including conditions, resources, individual contributions, coordination, attempted operations and consequences where established. Retain ordinary relational events alongside any practical or technical task. Follow verified chapters, causal movements and panel presentation; distinguish successive action from simultaneity, replay or schematic decomposition. Do not invent intermediate operations or exact motion from a diagram or endpoint. Detail follows narrative density, without a fixed length or mandatory chapter template.
+
+Use only the current admitted unit and explicitly marked inherited context. Separate depicted action/result from participant explanation or prediction, thought, narrator presentation, testimony, analyst conjecture, contested attribution and unresolved outcomes. A proposed mechanism, technical label or confident statement is not automatically demonstrated fact, and fictional success is not external scientific validation. Newly disclosed earlier events are not new story-time events; later skills or resources cannot be projected backward. Give material events retrievable witness/chapter/image/panel or diagram-region locators under §3, or stable evidence references resolving to them, within readable prose. The fanbook, later main volumes, adaptations, remembered procedures and external references cannot fill a main-page omission.
+
+Compose or finalize this unit-end, spoiler-bearing orientation only after applicable prospective captures are frozen, and shield analysts assigned an earlier chapter, movement or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. Full causal/explanation, character/group, directed-relationship, ordinary-life, Japanese, page/diagram-form and counterreading work, all five register updates and exit uncertainty remain required. A separately admitted narrative fanbook component receives the same bounded duty at its actual unit. A genuinely non-narrative reference or diagram-audit pass may record inapplicability with a reason; a plot-bearing task or narrative bonus cannot be exempted merely because it contains technical material.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 prospectively; no narrative, fanbook or external-reference admission, technical validation, run authorization or frozen-history rewrite is made._
 
 ## 10. Models and preserved history
 
