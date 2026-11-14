@@ -4,7 +4,7 @@ series: you-and-i-are-polar-opposites
 artifact_id: PO_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: PO-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL main-manga architecture with separate shared-paratext controls"
 source_boundary: "Japanese manga volumes 01-08 plus one unadmitted shared artbook; metadata only, no narrative admission or inspection"
@@ -41,7 +41,7 @@ Future readings, checkpoints, studies, reconstruction and audits appear only wit
 |---|---|
 | 5.1 Scope/authority | §1 and entrypoint |
 | 5.2 Source model | §2/source map; main manga versus classified shared paratext |
-| 5.3 Sequential contract | Method complete-volume section; full argument plus all cumulative updates |
+| 5.3 Sequential contract | Method complete-volume section; full argument plus all cumulative updates; required [current-unit story synopsis](PO_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Infrastructure | Three ledgers with exact separate schemas/history |
 | 5.5 Character/relationships | §5 and reconstruction §7 |
 | 5.6 Specialists | §4–5; substantial individual/relationship/expression/formal duties |
@@ -134,6 +134,7 @@ Current maps/method/architecture and current indexes permit targeted edits with 
 | Version | Date | Basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL main-manga/contextual-expression architecture and single-home shared-paratext boundary; no findings |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; individual/directed-relationship responsibilities, single-home shared-paratext boundary and CLOSED lock retained |
 
 ## 9. Ownership and transfer
 
