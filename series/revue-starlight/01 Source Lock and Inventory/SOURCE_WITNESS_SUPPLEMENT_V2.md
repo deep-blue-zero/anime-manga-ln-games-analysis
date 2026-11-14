@@ -19,7 +19,7 @@ The [V1 source inventory](SOURCE_INVENTORY.md) defines the animated corpus. This
 
 ## Verified audiovisual containers
 
-All sixteen rows were rehashed from local bytes and matched to Gemini's frozen CP16 inventory. Durations are `ffprobe` container durations in seconds. Source aliases below also name the clocks used for V2 scene locators. Times are container elapsed time from the beginning of the named object.
+All seventeen rows, the sixteen primary program containers and the parallel film mix container `MOVIE-MIX`, were rehashed from local bytes and matched to Gemini's frozen CP16 inventory. Durations are `ffprobe` container durations in seconds. Source aliases below also name the clocks used for V2 scene locators. Times are container elapsed time from the beginning of the named object.
 
 | Unit | Witness basename | Container duration (s) | SHA-256 |
 | --- | --- | ---: | --- |
