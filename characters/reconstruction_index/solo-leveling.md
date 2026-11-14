@@ -45,3 +45,52 @@ Recorded assessments of subjects in the `solo-leveling` namespace of the [Charac
   - `unvalidated-speech-sample` (evidence-backed limitation): The roughly 170 candidate turns are an attribution-adjacent scan, expressly not validated stylometry.
 - Evidence at basis commit:
   - [`solo-leveling:cha-hae-in@original-korean-novel#cha-hae-in-character-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/solo-leveling/04%20Specialist%20Synthesis/CHA_HAE_IN_CHARACTER_RECONSTRUCTION_MODEL.md)
+
+### Subject `solo-leveling:yoo-jinho@original-korean-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/solo-leveling/yoo-jinho@original-korean-novel.jsonl`](../reconstruction_capabilities/solo-leveling/yoo-jinho@original-korean-novel.jsonl)
+
+<a id="solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01"></a>
+
+#### Assessment `solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `solo-leveling:yoo-jinho`
+- Scope: continuity `solo-leveling-original-korean-novel`
+- Source boundary: Only the subject's single curated REVIEWED item at basis\_commit: YOO\_JINHO\_CHARACTER\_RECONSTRUCTION\_MODEL.md \(status active\_provisional\), read in full, including its evidence discipline, executive model, speech architecture, psychological architecture, decision engine, relationship-conditioned registers, developmental states, primary-source anchor map, simulation rules, confidence matrix, open questions and falsification tests. It is repository analysis of the Chugong Korean novel omnibus \(main story, side stories 1-21 and two postscripts\) with manhwa evidence excluded. The model's own A rating and the project entrypoint's description are inputs, not conclusions. The numbered synthesis documents it uses as retrieval maps, the other Solo Leveling character models and capability records, and the primary text are not curated on this subject and nothing is borrowed from them. No primary-source inspection was made.
+- Temporal boundary: Yoo Jinho from his first C-rank raid and the Dongsuk betrayal \(index\_split\_001\) through the guild-license request \(index\_split\_002\), family gathering and dinner with Yoo Myunghan \(index\_split\_004, 007\), perceived avoidance \(index\_split\_008\), Ahjin office administration \(index\_split\_014\), Hwang Dongsoo torture and rescue \(index\_split\_024, 025\), the international business introduction \(index\_split\_025\), to the reset-world proposal and family conversations \(index\_split\_032\) as endpoint. States follow the model's five-stage sequence; the reset-world adult does not carry the original raid history. Locators are omnibus split files, so a state change inside one file cannot be placed more finely.
+- Basis commit: `923ee527a9f594b30e751e697c62a0b549eb77dc`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `19431207bef3dfe9346c7cdfa77bd81a2829a5fe209b2e0bd4e18c1e3088a84c`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` NOT_READY; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Output is illustrative, never attributed quotation, and names one developmental state.
+  - `DIALOGUE` condition: The addressee is Jinwoo, Yoo Myunghan, a business counterpart or a hostile stronger actor, in the register the model gives for that relation; dialogue with Jinah, cousins or unrelated friends is not generated beyond the model's CB.
+  - `DIALOGUE` condition: Korean address follows the model \(형 early, 형님 as stable mature address; formal address with his father\); no casual same-age address to Jinwoo and no constant 형님 gag without content.
+  - `DIALOGUE` condition: Manhwa dialogue is not reconstructed from this evidence.
+  - `CROSS_SCENARIO` condition: Chronology is one named developmental state; reset-world Jinho does not carry the original raid history.
+  - `CROSS_SCENARIO` condition: The interlocutor is Jinwoo, his father, a business counterpart, a hostile stronger actor or a stranger in an unfair deal; transfer to other partners is lower confidence.
+  - `CROSS_SCENARIO` condition: The setting is a raid, a contract or guild-administration matter, a family occasion or a business meeting, with his rank, his competence in the domain and any coercion stated.
+  - `CROSS_SCENARIO` condition: Output predicts priorities and likely choices, including visible fear, overidealization and material overcompensation, not exact speech.
+  - `CROSS_SCENARIO` bounds: chronology One named state: D-rank beginner, guild-license aspirant, Ahjin formation, post-torture chosen brother, or reset-world adult, stated explicitly.; interlocutor Jinwoo as 형님, his father as intimidating evaluator, a business counterpart, a hostile stronger actor, or a stranger in an unfair deal, in the relation the model gives.; settings Raid, contract or guild administration, family occasion, or business meeting; Rank, domain competence and any coercion stated; No romantic or unrelated-friend scenario beyond the model's CB; no manhwa-only material
+  - `MUNDANE_SOCIAL` condition: The setting is low-stakes contact with Jinwoo, Jinwoo's family or his own family, with the state named.
+  - `MUNDANE_SOCIAL` condition: Output keeps high expressivity \(questions, reassurance-seeking, gushing, attempted physical affection\) and treats material gestures as proof-seeking or affection, not greed.
+  - `MUNDANE_SOCIAL` condition: Everyday life with Jinah and with unrelated friends is not specified.
+  - `PROFESSIONAL_CONTEXT` condition: The setting is a contract, guild administration, legal or logistical matter, or a business representation, with his role and state named.
+  - `PROFESSIONAL_CONTEXT` condition: Output gives him real competence, polite presentation and visible pleasure at Jinwoo's validation, and defers on elite combat strategy beyond his rank.
+  - `PROFESSIONAL_CONTEXT` condition: The model's open falsification test on whether his business competence depends on others' substantive work is stated as a limit; detailed corporate strategy is not predicted.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` C; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` D; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` D; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` D
+- Known limits:
+  - `coarse-locators` (evidence-backed limitation): Anchors are omnibus split files \(index\_split\_001 to index\_split\_032\), several of which hold more than one anchor scene; there are no chapter or paragraph locators, and the model lists paragraph-level anchoring of the torture and proposal sequences as pending.
+  - `dialogue-unvalidated` (evidence-backed limitation): Jinho-attributed dialogue has not been hand-validated; the several-hundred-turn scan is explicitly not validated stylometry, and only 형, 형님 and 좆까 are quoted.
+  - `falsification-tests-open` (evidence-backed limitation): The model lists open V2 falsification tests on core rules: status over fairness in unsampled scenes, business competence that depends on others' work, loyalty that eliminates independent judgment, adult reduction of expressiveness, and grand gestures as status display. Until they are run, those rules are hypotheses the evidence supports but has not tested.
+  - `fear-not-decisive` (evidence-backed limitation): Fear is expected to appear first and not to decide the final choice when loyalty or fairness is at stake \(first raid, father dinner, Hwang torture\); a reconstruction neither removes the fear nor converts it into cool heroism.
+  - `manhwa-excluded` (evidence-backed limitation): The model excludes manhwa evidence, so no claim here covers the manhwa incarnation or its dialogue.
+  - `model-tier-not-adopted` (evidence-backed limitation): The model rates itself A, robust for speech, psychology and behavior in most contexts, while keeping active\_provisional status until its V2 validation; that rating is an input, not this assessment's tier.
+  - `profanity-boundary-only` (evidence-backed limitation): The terse vulgar refusal under torture belongs to an extreme moral boundary that strips social accommodation; it is not his ordinary anger register.
+  - `reset-world-history` (evidence-backed limitation): Reset-world adult Jinho lacks the original raid history; development and personality recur, but memories of Ahjin, the torture and the rescue are not his in that state.
+  - `romance-thin` (evidence-backed limitation): Everyday romantic interaction with Jinah is a stated confidence boundary in the model.
+  - `synthesis-not-curated` (evidence gap): The numbered Solo Leveling synthesis documents the model uses as retrieval maps, and the primary text itself, are not curated evidence on this subject; their support for the model's scene summaries was not checked here.
+  - `unrelated-relations-thin` (evidence gap): Behavior with unrelated intimate friends and political reasoning are rated medium-low and low-medium by the model; the evidence set does not establish them.
+- Evidence at basis commit:
+  - [`solo-leveling:yoo-jinho@original-korean-novel#yoo-jinho-character-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/923ee527a9f594b30e751e697c62a0b549eb77dc/series/solo-leveling/04%20Specialist%20Synthesis/YOO_JINHO_CHARACTER_RECONSTRUCTION_MODEL.md)
