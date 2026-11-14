@@ -924,11 +924,24 @@ class PhaseValidationTests(unittest.TestCase):
         )
         self.assertEqual(validate_global_index_automation(snapshot, policy), [])
 
-    def test_housekeeping_rejects_wider_trigger_token_or_ancestry_gate_removal(self) -> None:
+    def test_housekeeping_rejects_wider_trigger_token_or_routing_gate_removal(self) -> None:
         baseline = worktree_snapshot(ROOT, worktree_paths(ROOT))
         tracked = json.loads(baseline.entries["governance/repository-controls/tracked-file-policy.json"].data)
         path = ".github/workflows/global-index-housekeeping.yml"
         source = baseline.entries[path].data.decode("utf-8")
+        routing_diff = 'git diff --quiet "${base}" origin/main -- "${generated_paths[@]}" || return 0'
+        pre_push_fetch = (
+            'git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"\n'
+            "          if main_changed_routing; then"
+        )
+        pre_push_check = (
+            '          git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"\n'
+            "          if main_changed_routing; then\n"
+            '            echo "FAIL: main changed routing outputs during housekeeping; incorporate current main and push again" >&2\n'
+            "            exit 1\n"
+            "          fi\n"
+        )
+        self.assertEqual(source.count(pre_push_check), 1)
         variants = [
             (source.replace('      - "studies/**"\n', "", 1),
              "housekeeping must run only after Repository audit completes on series/study branches"),
@@ -938,8 +951,18 @@ class PhaseValidationTests(unittest.TestCase):
              "housekeeping token must have contents: write only"),
             (source.replace("    runs-on: ubuntu-24.04", "    runs-on: ubuntu-24.04\n    permissions:\n      contents: write", 1),
              "housekeeping jobs may not widen permissions or call reusable workflows"),
-            (source.replace("git merge-base --is-ancestor origin/main HEAD", "true", 1),
-             "global index housekeeping workflow missing contract: git merge-base --is-ancestor origin/main HEAD"),
+            (source.replace("done < <(git merge-base --all origin/main HEAD)", "done < <(git rev-parse HEAD)", 1),
+             "global index housekeeping workflow missing contract: done < <(git merge-base --all origin/main HEAD)"),
+            (source.replace(routing_diff, "true", 1),
+             "global index housekeeping workflow missing contract: " + routing_diff),
+            (source.replace("if main_changed_routing; then", "if false; then"),
+             "global index housekeeping workflow missing contract: if main_changed_routing; then"),
+            (source.replace(pre_push_check, "", 1),
+             "global index housekeeping workflow missing contract: " + pre_push_fetch),
+            (source.replace(pre_push_check, "", 1),
+             "global index housekeeping workflow must test main_changed_routing before the gate and again before the push"),
+            (source.replace(pre_push_fetch, "          echo fetched\n", 1),
+             "global index housekeeping workflow missing contract: " + pre_push_fetch),
         ]
         for changed, expected in variants:
             with self.subTest(expected=expected):

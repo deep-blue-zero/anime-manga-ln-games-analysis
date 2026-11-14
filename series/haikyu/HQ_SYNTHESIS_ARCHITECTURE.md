@@ -2,7 +2,7 @@
 title: "Haikyu!! — Synthesis Architecture"
 artifact_id: HQ_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: HQ-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no narrative findings"
 source_boundary: "Metadata only: Japanese colour-edition main V01–45 plus separate 10th Chronicle and Final Guidebook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -162,7 +162,7 @@ New volumes, monochrome witnesses or companion material extend inventory only af
 |---|---|
 | 5.1 Purpose/scope/authority | §1 and current entrypoint |
 | 5.2 Source model/ranking | §2, source register |
-| 5.3 Sequential contract | §5 and method |
+| 5.3 Sequential contract | §5 and method; required [current-unit story synopsis](HQ_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Cumulative infrastructure | §§3–4; six operational registers |
 | 5.5 Character/relationship synthesis | §8 and character ledger |
 | 5.6 Specialist domains | §§4,8; anticipated versus earned |
@@ -178,3 +178,7 @@ New volumes, monochrome witnesses or companion material extend inventory only af
 | 5.16 Entry/retrieval | §1 and artifact map §3 |
 
 Audit with methodological edge cases: uncertain simultaneity, a collective outcome with rival causal contributions, an ordinary-life counterexample to a crisis trait, a colour claim lacking monochrome equivalence, and a companion fact beyond the current disclosure frontier. These are stress cases, not invented source events.
+
+## Prospective amendment record
+
+- **2026-11-13 — v1.1:** Added the local-method synopsis duty for future plot-bearing units under initiation policy §5.3. Colour-edition and separately admitted companion boundaries, complete analytical/register obligations, INITIAL lifecycle and CLOSED authorization remain intact.

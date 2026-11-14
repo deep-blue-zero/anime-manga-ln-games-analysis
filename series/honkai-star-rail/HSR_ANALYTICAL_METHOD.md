@@ -3,7 +3,7 @@ title: "Honkai: Star Rail — Governing analytical method"
 artifact_id: HSR_ANALYTICAL_METHOD
 artifact_type: project_game_analytical_method
 series: honkai-star-rail
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing analytical method"
@@ -76,3 +76,13 @@ Use stable `HSR-Cnnn` claims and `HSR-Snnn` states. The retrieval chain is synth
 A complete block includes locked source/packet receipt and exact coverage; entering states; factual causal account; sustained interpretation; form/register/AV actually inspected; named character, directional relationship, epistemic and group changes; ordinary-life evidence; counterreadings; claim transitions; exiting state; and a transaction naming each required ledger/coverage update or reviewed/no-supported-change disposition. No frontier advances while a required update or consequential channel gap remains outstanding.
 
 Before acceptance, apply handoff §15.6: sample opening, substantial middle and exit synthesis, extending to major relationships, for identifiable subjects, purposeful role references, clear pronouns and correct speaker/thinker/recipient attribution without breaking concealed identity or knowledge horizons. Record sampled scope and supported classifications; mechanical name counts or global substitutions cannot certify semantics. Handoffs preserve full artifact bytes and unresolved obligations. No entrypoint, summary or target dossier replaces full readings.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing causal-block reading includes a clearly labeled **Current-unit story synopsis** near its front, after the brief locked-source/coverage receipt and entering context, before sustained interpretation or ledger inventories. Declare the verified native unit membership, build, language, continuity, route/choice and unlock/disclosure boundary. A target bundle, matching-row dump or profile collection is not thereby a narrative unit. Until the missing story spine and native lock are resolved sufficiently for an authorized interpretable block, the requirement supplies no license to invent a story from fragments.
+
+Write connected, accessible prose explaining the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and exiting state. Preserve concrete physical and scene mechanics only to the extent established by inspected channels. Distinguish inherited developments from this block's events, observed or scripted/narrated events from attributed report and belief, and supported outcomes from conjecture or unresolved possibilities. Stored script content is not certified runtime performance. Preserve each mutually exclusive alternative as conditional, or clearly label the authorized selected path; never merge alternative actions into one canonical biography. Repeatable interface text is not a sequence of chronological events. Material event claims carry retrievable native/source locators or stable observation references while the synopsis remains readable prose, with detail set by complexity rather than a fixed quota.
+
+This unit-end account is spoiler-bearing. Compose or finalize it after all applicable entering and internal prospective captures are frozen, and shield it and the completed reading from earlier-horizon analysts. It may disclose outcomes established inside the authorized block but excludes later unadmitted releases, branches, unlocks, forms or narrative frames. It supplements every existing full causal, character, relational, linguistic, formal, counterreading and channel-accounting duty and the complete ledger transaction. A purely non-narrative source, identity or graph audit can record a reasoned synopsis N/A; that does not waive it for a plot-bearing reading or turn absent narrative into coverage. No frozen reading is rewritten, and the CLOSED analysis lock remains governing.

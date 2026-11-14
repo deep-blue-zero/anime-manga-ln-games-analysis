@@ -4,7 +4,7 @@ series: tatsuki-fujimoto-before-chainsaw-man
 artifact_id: TF_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: TF-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL partial-collection manga method; no literary findings"
 source_boundary: "Japanese 藤本タツキ短編集 22-26 only; 17-21 absent; no narrative admission or inspection"
@@ -74,3 +74,13 @@ Update source/story coverage, local evidence and claims in the same transaction.
 Before acceptance perform handoff §15.6's bounded name/reference review over opening, substantive middle, conclusion and material relationships. Preserve purposeful roles/concealment but correct unjustified genericization, ambiguous pronouns or misattribution. Inspect consequential evidence and full argumentative depth; syntax/length alone cannot certify quality.
 
 Only after accepted local readings may 22–26 synthesis compare formal or thematic patterns. It must name the admitted stories, preserve noncomparability/counterexamples and avoid claims about unseen 17–21, all Fujimoto work or the creator's private psychology. A later broader project needs new evidence, authorization and an explicit revised scope.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed reading of a mapped story in the supplied 22–26 volume includes a clearly labeled **Current-unit story synopsis** near its front, after brief witness/coverage and entering context, before governing theses and extended analysis. The unit is that authorized story, with its own cast, chronology and ending. Collection arrangement or the 22–26 label does not turn separate stories into one plot, establish creation order or supply a biographical explanation.
+
+Write connected, accessible prose explaining the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and ending state. Preserve concrete physical and scene mechanics established by the inspected pages. Distinguish inherited story context from newly presented events, shown or narrated events from testimony and belief, and established outcomes from conjecture or unresolved possibilities. Preserve source-required anonymity and framed/temporal uncertainty where the actual pages warrant it. Material event claims carry retrievable source locators or stable observation references; the synopsis remains prose rather than a replacement evidence table. Scale detail to the story without a fixed word count.
+
+This unit-end, spoiler-bearing account may disclose the current story's ending only after all applicable entering and internal prospective captures are frozen. Shield it and the completed reading from earlier-horizon analysts. Another story, absent 17–21, Chainsaw Man, Look Back or outside familiarity cannot fill a missing event or settle ambiguity. The synopsis supplements the complete local causal, linguistic, visual, character, relationship and counterreading argument and synchronized source/state/claim updates; collection comparison retains its separate acceptance prerequisites. Require both the synopsis and all existing duties. No frozen reading is rewritten, and the CLOSED analysis lock remains governing.

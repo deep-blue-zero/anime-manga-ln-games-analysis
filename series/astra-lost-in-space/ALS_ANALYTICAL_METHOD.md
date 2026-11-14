@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: ALS_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: ALS-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL mapped-omnibus manga procedure; no literary findings"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -70,3 +70,13 @@ A future `readings/ALS_<VERIFIED_UNIT>_DEEP_READING.md` has `artifact_type: deep
 Synchronize source/unit coverage, state/evidence and claim ledgers with every accepted unit. “No material change” is justified in the manifest, not invented rows. A unit with prose but missing cumulative state—or tables without prose—is incomplete. No universal word ceiling constrains warranted reasoning.
 
 Perform handoff §15.6 review on opening, substantive middle, exit synthesis and material relationships: accurate names/attribution, purposeful roles, preserved concealment and clear causal agents. Record findings and repair supported defects. Essential unread pages, unclear mapping or materially unsupported claims hold the affected completion state. Repository success is not semantic acceptance.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing unit reading includes a clearly labeled **Current-unit story synopsis** near its front, after brief witness/unit coverage and entering context, before thesis and extended analysis. Its boundary is the verified internal collected-volume unit or, under the documented scope decision, verified chapter unit authorized for that reading. The accessible omnibus is a container, not permission to summarize through its ending or to invent internal volume counts.
+
+Write connected, accessible prose explaining the unit's opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and ending state. Preserve concrete physical and scene mechanics established by the inspected pages. Identify inherited developments briefly and distinguish them from what happens here. Keep shown/narrated events separate from testimony, belief, analyst conjecture and unresolved outcomes; preserve any source-established identity or frame uncertainty. Material event claims have retrievable source locators or stable observation references, with global image coordinates and the verified unit mapping where needed. The account remains prose, scaled to actual complexity without a fixed word quota.
+
+Compose or finalize this unit-end, spoiler-bearing account only after all entering and within-unit prospective captures are frozen. Shield it and the completed reading from earlier-horizon analysts. It may disclose every outcome established in the current authorized internal unit, but later internal units, their apparatus, adaptations and outside familiarity remain excluded. A full-omnibus retrospective retains its separate authorization and readiness gates. The synopsis supplements all existing movement-level causal, visual, linguistic, character, relationship and counterreading work and synchronized state/claim updates. Acceptance requires both; no frozen record is rewritten and the CLOSED analysis lock remains governing.

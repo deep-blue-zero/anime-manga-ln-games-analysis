@@ -3,7 +3,7 @@ title: "Zenless Zone Zero — Governing synthesis architecture"
 artifact_id: ZZZ_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: zenless-zone-zero
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing synthesis architecture"
@@ -100,7 +100,7 @@ An architectural amendment records motivating evidence, changed responsibility, 
 |---|---|
 | 5.1 Purpose/scope/authority | §1 and entrypoint |
 | 5.2 Source model | Source register; method §§1–4 |
-| 5.3 Reading contract | Method §§5–7; §5 block gate |
+| 5.3 Reading contract | Method §§5–7; §5 block gate; future plot-bearing blocks include the [current-unit story synopsis](ZZZ_ANALYTICAL_METHOD.md#current-unit-story-synopsis), preserving verified graph, route/unlock/trust and attribution boundaries; only non-narrative audits may record reasoned N/A |
 | 5.4 Longitudinal infrastructure | §2 and each required record's schema/update/history contract |
 | 5.5 Character/relationship synthesis | §§3–5; reconstruction contract distinguishes model |
 | 5.6 Specialists | §4 conditional question and amendment test |

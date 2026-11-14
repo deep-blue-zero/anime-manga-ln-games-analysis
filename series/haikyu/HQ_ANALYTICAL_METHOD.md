@@ -2,7 +2,7 @@
 title: "Haikyu!! — Analytical Method"
 artifact_id: HQ_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: HQ-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no narrative findings"
 source_boundary: "Metadata only: Japanese colour-edition main V01–45 plus separate 10th Chronicle and Final Guidebook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -96,6 +96,20 @@ The full analysis must show how a consequential movement works, not just name it
 Before semantic acceptance, promotion or integration, sample the introduction, a substantial middle section, conclusion/exit state, every major relationship and ambiguous actor passage. Check known names, purposeful roles, pronouns, concealment and speaker/thinker/recipient attribution. Classify findings as JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION; record scope/findings and repair supported defects only.
 
 Close the full reading and six registers atomically. A scoped “no material change” records inspection, not a missing update. Unreadable pages, unresolved central locators or required missing visual coverage remain debts; a completed ZIP scan cannot close them.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized plot-bearing colour-edition volume reading must include a clearly labeled **Current-unit story synopsis** near the front of the canonical artifact, after the receipt/coverage and entering context, before its developed thesis, extended diagnostic interpretation and ledger inventories. Distinguish inherited developments from the unit's new events rather than presenting cumulative results as the current action.
+
+Write coherent, accessible prose tracing the opening situation, source-established participants and stakes, consequential individual and collective actions/decisions, turning points/disclosures and the ending state. Preserve meaningful scene and physical mechanics, including positional relations, coordination, interruption and consequences where the pages establish them. Distinguish page succession, depicted simultaneity and replay; do not infer unseen motion from endpoints or let a result replace the sequence producing it. Detail follows narrative density, with no fixed length or compulsory chapter template.
+
+The account uses only the current admitted unit and explicitly marked inherited context. Separate drawn events from participant/commentator explanation, thought, narrator presentation, testimony, conjecture, disputed attribution and unresolved outcomes. A claimed rule, technique or cause is not automatically demonstrated fact. Support material events with retrievable witness/chapter/image/panel coordinates under §3 or stable evidence references resolving to them while retaining readable prose. Do not borrow later-unit outcomes, Chronicle/Final Guidebook facts, external sporting rules, monochrome assumptions or adaptation performance to complete the account.
+
+The synopsis is unit-end, spoiler-bearing orientation, composed or finalized only after applicable prospective captures are frozen and withheld with the full reading from analysts assigned an earlier chapter, movement or volume horizon. It is neither a prospective freeze nor independent evidence. Full causal, collective/individual, relationship, ordinary-life, Japanese, page/colour and counterreading work and all six register transactions remain mandatory. A separately admitted narrative companion component receives the same bounded duty at its actual unit; a genuinely non-narrative companion/reference pass may record inapplicability with a reason, never classify a whole mixed publication as exempt without component review.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 prospectively; no narrative synopsis, source admission, run authorization or frozen-reading revision is made._
 
 ## 10. Reconstruction and transfer
 

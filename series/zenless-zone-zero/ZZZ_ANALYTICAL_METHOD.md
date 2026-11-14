@@ -3,7 +3,7 @@ title: "Zenless Zone Zero — Governing analytical method"
 artifact_id: ZZZ_ANALYTICAL_METHOD
 artifact_type: project_game_analytical_method
 series: zenless-zone-zero
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing analytical method"
@@ -76,3 +76,13 @@ Use stable `ZZZ-Cnnn` claims and `ZZZ-Snnn` states. The retrieval chain is synth
 A complete block includes locked source/packet receipt and exact coverage; entering states; factual causal account; sustained interpretation; form/register/AV actually inspected; named character, directional relationship, epistemic and group changes; ordinary-life evidence; counterreadings; claim transitions; exiting state; and a transaction naming each required ledger/coverage update or reviewed/no-supported-change disposition. No frontier advances while a required update or consequential channel gap remains outstanding.
 
 Before acceptance, apply handoff §15.6: sample opening, substantial middle and exit synthesis, extending to major relationships, for identifiable subjects, purposeful role references, clear pronouns and correct speaker/thinker/recipient attribution without breaking concealed identity or knowledge horizons. Record sampled scope and supported classifications; mechanical name counts or global substitutions cannot certify semantics. Handoffs preserve full artifact bytes and unresolved obligations. No entrypoint, summary or target dossier replaces full readings.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing causal-block reading includes a clearly labeled **Current-unit story synopsis** near its front, after brief locked-source/coverage and entering context, before sustained interpretation or ledger inventories. Declare verified native graph membership/order, build, language, continuity, route/choice, trust/progression and unlock/disclosure conditions. A target packet, explicitly labeled ongoing text or unbound bubble fragment does not constitute a complete narrative unit. The missing main-story graph or attribution cannot be repaired by writing a fluent account from those fragments.
+
+Write connected, accessible prose explaining the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and exiting state. Preserve concrete physical and scene mechanics to the extent established by inspected channels; scripted text does not certify runtime staging or performance. Distinguish inherited developments from this block's events, shown/scripted/narrated events from testimony and belief, and supported outcomes from conjecture or unresolved possibilities. Retain unresolved speaker and frame attribution. The technical GalGame label supplies neither a nested-fiction frame nor a biography. Keep mutually exclusive routes conditional or label the authorized selected path, without joining alternatives or different trust states into a single canonical history. Material event claims carry retrievable native/source locators or stable observation references; the synopsis remains readable prose at the depth needed, with no fixed word quota.
+
+Compose or finalize this unit-end, spoiler-bearing account only after all applicable entering and internal prospective captures are frozen; shield it and the complete reading from earlier-horizon analysts. Outcomes established inside the authorized block are eligible, while later unadmitted release, branch, unlock, progression or frame information remains excluded. The synopsis supplements every existing full causal, character, relational, linguistic, formal, counterreading and channel-accounting duty and complete ledger transaction. A purely non-narrative source, graph or identity audit may record synopsis N/A with a specific reason; missing narrative is still missing coverage and does not waive the contract for a plot-bearing reading. No frozen reading is rewritten, and the CLOSED analysis lock remains governing.
