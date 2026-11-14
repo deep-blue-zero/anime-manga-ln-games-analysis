@@ -477,7 +477,10 @@ def validate_global_index_automation(
         "github.event.workflow_run.event == 'push'",
         "github.event.workflow_run.conclusion == 'success'",
         "github.event.workflow_run.actor.login == github.repository_owner",
-        "git merge-base --is-ancestor origin/main HEAD",
+        # Regeneration is refused when commits missing from main changed routing.
+        "done < <(git merge-base --all origin/main HEAD)",
+        'git diff --quiet "${base}" origin/main -- "${generated_paths[@]}" || return 0',
+        "if main_changed_routing; then",
     ):
         if fragment not in text:
             errors.append(f"global index housekeeping workflow missing contract: {fragment}")
