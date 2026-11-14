@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun: Astral Buddy — Governing manga method"
 artifact_id: AB_MANGA_METHOD
 artifact_type: project_manga_analytical_method
 series: a-certain-scientific-railgun-astral-buddy
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -66,3 +66,19 @@ Reinspect load-bearing pages and verify page completeness, semantic attribution 
 Apply handoff §15.6 before semantic acceptance: sample opening, substantial middle and concluding/exit passages, extending to major relations, for stable known names, clear pronouns, purposeful role labels and correct speaker/thinker/recipient attribution while preserving concealment and knowledge boundaries. Record scope and classify supported findings as justified role reference, source-required anonymity, knowledge-boundary-required, unnecessary genericization, ambiguous referent or incorrect identity/attribution. Never certify semantics through counts or automatic substitution.
 
 The receiver verifies full delivered files, source/knowledge boundary, target identity, hashes and drift. No partial preview or summary may replace maintained substantial work. The eventual retrospective and franchise comparison layers return to decisive sources and keep earlier prospective results retrievable. Reconstruction follows its separate evidence/model/evaluation contract, not familiarity or a monograph alone.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Every future plot-bearing canonical reading must contain a clearly labeled **Current-unit story synopsis** near its front, after the brief witness/coverage receipt and entering context, before extended diagnostic interpretation or ledger inventories. Apply it to the actual authorized chapter or coherent causal-sequence unit; a collected-volume reading accounts for that volume's events, while the existing complete-volume reconciliation remains required. File and processing batches do not create narrative units. Distinguish a brief account of inherited events from what newly happens within this unit.
+
+Write coherent, accessible prose establishing the opening situation, source-established participants and stakes, consequential actions and decisions, turning points/disclosures and the ending state. Preserve meaningful physical and scene mechanics: who acts, how the action or interruption proceeds, and the consequences actually established by the panels. Respect page/panel presentation and mark inferred transitions across gutters; neither an effect label nor a thematic abstraction supplies missing action. Scale detail to narrative density without a fixed word count or compulsory chapter template.
+
+Use only this manga's admitted current unit plus clearly identified inherited context. Distinguish depicted events from attributed reports, thoughts or explanations, narrator presentation, conjecture, disputed attribution and unresolved outcomes in ordinary prose. Newly disclosed earlier events are not new story-time events. Preserve hidden identities and each participant's local knowledge; source familiarity cannot fill gaps. Give material event claims retrievable witness/chapter/native-image/page/panel locators under §5 or stable evidence references resolving to them, while keeping the synopsis readable rather than turning it into ledger rows.
+
+For Astral Buddy, preserve the compact design: the synopsis stays within the canonical reading and creates no additional ledger, synopsis directory or independent artifact. Its own disclosure order governs; shared creators and characters do not establish a sequel relationship with Mental Out or supply Railgun, Index or anime events. The four-volume acquisition is a coverage boundary unless the work's endpoint is separately established.
+
+The synopsis is unit-end, spoiler-bearing orientation: compose or finalize it only after the applicable prospective captures are frozen, and keep the full spoiler-bearing reading from analysts assigned an earlier chapter, sequence or volume horizon. It is neither a prospective freeze nor independent evidence. Full causal, visual, Japanese, character, relationship and counterreading arguments, state/claim updates, coverage decisions and exit freezes remain mandatory. A genuinely non-narrative separately scoped pass may record reasoned inapplicability; a plot-bearing unit may not omit this duty.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible units. No narrative synopsis, source admission, run authorization or frozen-history change is made here._
