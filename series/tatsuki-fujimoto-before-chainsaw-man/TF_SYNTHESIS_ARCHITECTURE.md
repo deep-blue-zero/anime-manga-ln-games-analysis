@@ -4,7 +4,7 @@ series: tatsuki-fujimoto-before-chainsaw-man
 artifact_id: TF_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: TF-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL available-subset architecture and derived-use pathway only"
 source_boundary: "Japanese 藤本タツキ短編集 22-26 only; 17-21 absent; no narrative admission or inspection"
@@ -51,7 +51,7 @@ Narrative, covers, creator comments, notes, jokes and previews have separate rol
 |---|---|
 | 5.1 Purpose/scope/authority | §1 and entrypoint; available subset versus whole collection |
 | 5.2 Source model | §2/source map; separate collection, story, edition and chronology |
-| 5.3 Sequential contract | Method completion section; full prose plus synchronized source/state/claim updates |
+| 5.3 Sequential contract | Method completion section; full prose plus synchronized source/state/claim updates; each future 22–26 story reading includes its [current-unit story synopsis](TF_ANALYTICAL_METHOD.md#current-unit-story-synopsis), with independent cast and disclosure scope and no borrowing from absent 17–21 or other works |
 | 5.4 Longitudinal infrastructure | Two typed work-qualified ledgers, exact schemas and append-preserving history |
 | 5.5 Character/relationships | §5 and §7; local subjects and separate model responsibility |
 | 5.6 Specialists | §4–5; comparative and local duties earned, not assumed author trajectory |

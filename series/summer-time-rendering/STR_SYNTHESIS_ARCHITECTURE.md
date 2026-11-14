@@ -4,7 +4,7 @@ series: summer-time-rendering
 artifact_id: STR_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: STR-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL main/supplement and event-knowledge architecture; no narrative findings"
 source_boundary: "Japanese main manga volumes 01-13 and 2026 未然事故物件 supplement; metadata only, no narrative admission or inspection"
@@ -41,7 +41,7 @@ Future `readings/` contains substantial main and separately authorized supplemen
 |---|---|
 | 5.1 Scope/authority | §1 and entrypoint; procedural versus literary/run authority |
 | 5.2 Source model | §2/source map; main/supplement and actual chronology limits |
-| 5.3 Reading outputs | Method completion contract; full prose plus source/event/person/claim updates |
+| 5.3 Reading outputs | Method completion contract; full prose plus source/event/person/claim updates; required [current-unit story synopsis](STR_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Infrastructure | Three ledgers with exact typed schemas and preserved history |
 | 5.5 Character/relationships | §5 and reconstruction §7 |
 | 5.6 Specialists | §4–5; required causal/person/form responsibilities, conditional mechanism specialist |
@@ -139,6 +139,7 @@ Current maps/method/architecture and indexes are mutable with targeted history. 
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL main/supplement and event-knowledge architecture; no narrative mechanics assumed |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the local method; main/supplement gates, event/knowledge distinctions, full analytical duties and CLOSED lock retained |
 
 ## 9. Ownership and transfer
 
