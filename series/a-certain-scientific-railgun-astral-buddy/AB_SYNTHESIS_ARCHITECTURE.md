@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun: Astral Buddy — Governing synthesis archi
 artifact_id: AB_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: a-certain-scientific-railgun-astral-buddy
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -100,7 +100,7 @@ The future run owner controls scope/admission/coordination; readers deliver full
 |---|---|
 | 5.1 Purpose/scope/authority | §1 and current entrypoint |
 | 5.2 Source model | Source/franchise map; method §§1–2 |
-| 5.3 Reading contract | Method §6; §6 coverage gate |
+| 5.3 Reading contract | Method §6; §6 coverage gate; required [current-unit story synopsis](AB_MANGA_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Longitudinal infrastructure | §2, required record schemas/update/history |
 | 5.5 Character and relationships | §4; directed State rows |
 | 5.6 Specialists | §4 conditional question/proportionality |
@@ -114,3 +114,7 @@ The future run owner controls scope/admission/coordination; readers deliver full
 | 5.14 Reasoning classes | §7 and entrypoint |
 | 5.15 Mutable/frozen/archive | §5, §7 full-content transfer |
 | 5.16 Entrypoint/retrieval | Single current entrypoint; §2 routes |
+
+## Prospective amendment record
+
+- **2026-11-13 — v1.1:** Added the local-method link for the initiation-policy §5.3 current-unit story synopsis in future eligible readings. Existing full-reading, volume-reconciliation, source/knowledge, INITIAL lifecycle and CLOSED authorization duties remain intact.
