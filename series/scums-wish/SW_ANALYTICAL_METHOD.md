@@ -4,7 +4,7 @@ series: scums-wish
 artifact_id: SW_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: SW-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL project method; methodological authority only, with no narrative findings"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
@@ -107,6 +107,20 @@ A full reading is an argued interpretation, not a filled table or collection of 
 Before acceptance, perform the handoff §15.6 bounded name/reference check on opening/synopsis, a substantial middle section, exit synthesis and each major relationship. Classify purposeful role labels, source-required anonymity and knowledge-boundary needs separately from unnecessary genericization, ambiguous referents or incorrect attribution. Correct only supported defects and record scope.
 
 Receiver review tests source accuracy, full causal reasoning, competing readings, ordinary/register coverage, directional states, named subjects and preserved incoming substance. A passing repository validator does not certify literary quality. Hold affected completion when essential pages, language, attribution or causal support remain unresolved.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Every authorized MAIN volume reading, and a separately authorized DECOR09 reading, must include a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact. Place it after the witness/horizon receipt and entering context (items 1–2 above), before the thesis, extended interpretation and ledger inventory (item 3 onward). Briefly identify inherited developments as inherited, then explain the current unit's new events rather than letting the cumulative state stand in for them.
+
+Use coherent, accessible prose to recount the opening situation, source-established participants and stakes, consequential actions and decisions, turning points and disclosures, and the ending state, including what remains unsettled. Preserve meaningful physical and scene mechanics where the pages establish them, actual chapter/panel presentation order, and the difference between drawn action and inferred movement across gutters. Keep named actors and directions of interaction clear; a generalized account of desire or relationship function is insufficient. Detail follows the unit's density, without a fixed length or compulsory chapter template.
+
+The synopsis may use only its admitted track/unit and explicitly distinguished inherited context. Separate depicted events from focalized thought, testimony, narrator presentation, conjecture, disputed attribution and unresolved outcomes. A participant's avowal is not omniscient knowledge of another's motive or consent. Supply retrievable witness/track/chapter/image/panel locators under §8 or stable evidence references for material event claims, while retaining readable prose. MAIN synopses cannot import DECOR facts or a presumed supplementary chronology; a later DECOR synopsis retains the main-only checkpoint and distinguishes new events from newly disclosed earlier events. Excluded adaptations, translations and later units remain excluded.
+
+Treat this as unit-end, spoiler-bearing orientation, composed or finalized only after the applicable prospective captures are frozen. Keep the full spoiler-bearing reading from analysts assigned an earlier scene, volume or MAIN-only horizon. The synopsis is neither a prospective freeze nor independent evidence. It supplements the complete causal, perspective, visual, Japanese, character, relationship and counterreading arguments and their synchronized state updates; none of those existing responsibilities is replaced. A genuinely non-narrative separately scoped pass may give a reasoned inapplicability statement, never silently omit the duty for a plot-bearing unit.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings without admitting MAIN or DECOR, authorizing a run, or revising frozen history._
 
 ## 10. Main-only and supplement-aware interpretation
 
