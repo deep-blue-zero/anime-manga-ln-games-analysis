@@ -2,7 +2,7 @@
 title: "The Apothecary Diaries — Analytical Method"
 artifact_id: AP_ANALYTICAL_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -119,6 +119,20 @@ The minimum completed future reading contains the following developed responsibi
 At closeout, synchronize the source coverage, evidence/revision, serial state, character/register and checkpoint surfaces as one reviewed transaction. Each substantive delta links to its full argument. Before semantic acceptance, promotion or integration, sample the introduction, a substantial middle section, conclusion and every major relationship where actors could be confused. Check known names, purposeful titles, pronouns, concealment, speaker/thinker/recipient attribution and knowledge boundaries. Classify findings as `JUSTIFIED_ROLE_REFERENCE`, `SOURCE_REQUIRED_ANONYMITY`, `KNOWLEDGE_BOUNDARY_REQUIRED`, `UNNECESSARY_GENERICIZATION`, `AMBIGUOUS_REFERENT` or `INCORRECT_IDENTITY_OR_ATTRIBUTION`; repair supported defects and record sampled scope/material findings in closeout. No automatic name substitution is permitted.
 
 A reading is incomplete if a needed source or modality remains uninspected, an important claim cannot be retrieved, required ledger updates are missing, or a thesis suppresses strong counterevidence. Explicitly bounded unresolved interpretation can remain after completion; false certainty is not an acceptance requirement.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Every future plot-bearing reading of an authorized Japanese volume, or an expressly permitted mapped within-volume unit, must contain a clearly labeled **Current-unit story synopsis** near the front of the canonical reading. Place it after the receipt/boundary and entering-state material, before the unit argument, extended diagnostic interpretation and ledger inventory. Briefly orient the reader to inherited events and clearly separate them from the actions and disclosures newly presented in this unit; the synopsis ends at the authorized unit, not at the end of an accessible container.
+
+Write coherent, accessible prose showing the opening situation, source-established participants and stakes, consequential actions and decisions, causal turning points, major disclosures and the ending state. Preserve meaningful physical or practical scene mechanics: who did what, how the event or procedure unfolded where established, and what consequences followed. Do not replace those events with labels for a case, theme, institutional issue or investigative significance. Detail follows narrative density without a fixed word count or mandatory chapter template. An unresolved solution or outcome remains unresolved rather than receiving invented closure.
+
+Use only the admitted Japanese unit and explicitly identified inherited context. Distinguish textually represented action from narrator presentation, focalization, a named subject's observation, testimony, belief or conjecture, contested attribution and unresolved causation. An investigator's explanation is not automatically an established mechanism; newly disclosed earlier events remain distinct from new story-time events. Material event claims need the retrievable witness/chapter/spine/block locators of §3 or stable evidence references resolving to them, without turning the synopsis into a ledger. Chinese V15, later Japanese units, unadmitted paratext, adaptations and external technical knowledge cannot fill narrative gaps or silently settle the account.
+
+The synopsis is unit-end, spoiler-bearing orientation. Compose or finalize it only after the applicable prospective captures have been frozen; do not give the full spoiler-bearing reading to an analyst working at an earlier chapter, movement or volume horizon. It is neither a prospective freeze nor independent corroboration. Full causal reasoning, focalization and form, Japanese language, character and relationship analysis, competing explanations, source/image debts and synchronized cumulative updates remain required. Only a genuinely non-narrative separately scoped pass may record the synopsis duty as inapplicable with a reason.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible units; no narrative synopsis, source admission, run authorization or retrospective change to frozen readings is made._
 
 ## 10. Reconstruction and preserved history
 
