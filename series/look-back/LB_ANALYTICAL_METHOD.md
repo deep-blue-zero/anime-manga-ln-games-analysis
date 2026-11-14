@@ -4,7 +4,7 @@ series: look-back
 artifact_id: LB_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: LB-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL standalone manga method only"
 source_boundary: "One Japanese standalone manga EPUB, metadata verified; narrative admission and inspection NONE"
@@ -74,3 +74,13 @@ A separate retrospective section integrates the whole work without corrupting mo
 The complete work can support a compact corpus, but not compressed reasoning. No universal word cap applies. Explain causal mechanisms, transitions, alternative readings and meaningful formal detail at the depth the evidence warrants. A table of scenes or final thesis is not a deep reading.
 
 Acceptance includes the handoff §15.6 bounded name/reference check on opening, substantive middle, conclusion and every material relationship. Classify source-required anonymity, purposeful roles and knowledge limits separately from ambiguous reference, genericization and misattribution. Record scope and repair supported defects. The reviewer tests consequential evidence and full reasoning, not only file syntax or length. Essential unread pages, unresolved load-bearing attribution or lost counterreading hold the corresponding completion claim.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+The complete standalone reading includes a clearly labeled **Current-unit story synopsis** near its front, after the brief witness/inspection receipt and entering context, before the governing theses and extended analysis. Its current unit is the admitted standalone work, with the actual movement and disclosure structure preserved; do not invent volume boundaries or turn technical image batches into narrative units.
+
+Write a coherent, accessible prose account of the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and state at the work's ending. Preserve the concrete physical and scene mechanics established by inspected pages. Distinguish inherited context from the events presented here, and shown events from speech, belief, testimony, analyst conjecture or unresolved outcomes. If the pages establish uncertainty about a temporal or narrative frame, preserve the evidence and competing possibilities instead of presenting one as objective fact. Use retrievable source locators or stable observation references for material event claims without replacing the account with a table; its length follows the work's complexity rather than a fixed quota.
+
+This unit-end account can reveal the admitted work's ending. Compose or finalize it only after all entering and internal prospective captures are frozen; keep both it and the completed reading from analysts still at an earlier movement/disclosure horizon. Neither adaptation knowledge nor another work may supply a missing event or resolution. The synopsis supplements the full movement-by-movement causal, linguistic, visual, character, relationship and counterreading argument and the separately labeled retrospective integration. Acceptance requires it together with every existing reading and ledger duty. Frozen first-pass records stay intact, and this prospective method addition does not open the CLOSED analysis lock.
