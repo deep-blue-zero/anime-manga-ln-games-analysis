@@ -46,6 +46,57 @@ Recorded assessments of subjects in the `solo-leveling` namespace of the [Charac
 - Evidence at basis commit:
   - [`solo-leveling:cha-hae-in@original-korean-novel#cha-hae-in-character-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/7da71cb9be614645641dc5c0038b1df3acf07063/series/solo-leveling/04%20Specialist%20Synthesis/CHA_HAE_IN_CHARACTER_RECONSTRUCTION_MODEL.md)
 
+### Subject `solo-leveling:sung-jinwoo@original-korean-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/solo-leveling/sung-jinwoo@original-korean-novel.jsonl`](../reconstruction_capabilities/solo-leveling/sung-jinwoo@original-korean-novel.jsonl)
+
+<a id="solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01"></a>
+
+#### Assessment `solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `solo-leveling:sung-jinwoo`
+- Scope: continuity `solo-leveling-original-korean-novel`
+- Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full: SUNG\_JINWOO\_CHARACTER\_RECONSTRUCTION\_MODEL.md \(V1, active\_provisional\) and 02\_SUNG\_JINWOO\_CHARACTER\_DEEP\_DIVE.md \(v1.0, canonical\). Both are repository analysis of the Chugong Korean novel omnibus: main story, side stories 1-21 and the two postscripts. The deep dive's official-English-manhwa claims, including manhwa-original material after V15 p061, are set aside, and its novel claims are used. Neither item's own labels are adopted. The uncurated Solo Leveling synthesis documents, the other character models and capability records, and the primary text were not used. No primary-source inspection was made.
+- Temporal boundary: Sung Jinwoo from the pre-System Double Dungeon \(index\_split\_000\) through the early Player, reawakened S-rank and Shadow Monarch states \(index\_split\_001-029, including the Monarch war and the prewar family meal\), the reset decision, the reset-world student \(index\_split\_031\) and the adult detective, husband and father of the side stories and postscripts \(index\_split\_032\), as the model's six named states. Locators are omnibus split regions, so a state change inside one split cannot be placed more finely. Manhwa-only continuation is excluded.
+- Basis commit: `cc2fc3f09157521688c863b1dfd65ef310d61dc4`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `7b005e474b195cc9ccaadc85de895f4abd63030ac60ce25b783241832aee0e65`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `B` — strong inferential model with explicit bounded uncertainty
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` CONDITIONAL; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: One named developmental state \(RM §20\) and an interlocutor from the sampled classes in RM §21.
+  - `DIALOGUE` condition: Output keeps interior reasoning out of speech unless the scene gives him a reason to say it \(RM §4\).
+  - `DIALOGUE` condition: The anger mode or emotional state is chosen explicitly \(RM §17, §22.7\).
+  - `DIALOGUE` condition: Illustrative register and content, never presented as quotation or as exact Korean idiolect.
+  - `CROSS_SCENARIO` condition: Chronology is one named state from RM §20, stated explicitly; the reset-world student does not carry public hunter identity.
+  - `CROSS_SCENARIO` condition: The interlocutor is one of the sampled relationships \(mother, Jinah, Jinho, Cha, Go, Woo, shadows, a neutral institution, a hostile human, a Monarch-level enemy\). Transfer to a comparable authority or partner is a separate, lower-confidence condition.
+  - `CROSS_SCENARIO` condition: The scenario states the threat level, whether the counterpart claims jurisdiction or asks, the attachment stake and the information asymmetry.
+  - `CROSS_SCENARIO` condition: Output predicts priorities, disclosure and likely choices, including paternalistic over-authoring and punitive severity toward a culpable, controlled offender. It does not predict exact speech.
+  - `CROSS_SCENARIO` bounds: chronology One named state: pre-System E-rank, early Player, reawakened S-rank, mature Shadow Monarch, reset-world student, or adult detective/husband/father.; interlocutor One of the RM §21 interlocutor classes in the relationship the evidence gives; comparable-authority or comparable-partner transfer only as a separate, lower-confidence condition.; settings Threat level, jurisdiction claim, attachment stake and information asymmetry stated; Korean-novel continuity only; no manhwa-only material such as the adolescent Suho trials; No unconstrained role-play or catchphrase reconstruction
+  - `MUNDANE_SOCIAL` condition: The setting is family, Jinho, Cha or Woo in the sampled states \(chiefly RM States E and F, and the prewar family meal\).
+  - `MUNDANE_SOCIAL` condition: Care is predicted as action before speech; adult parenting and police routine are lower confidence.
+  - `ETHICAL_DELIBERATION` condition: The dilemma involves disclosure, an authority or ownership claim, protection, or punishment of a culpable actor, in a named state.
+  - `ETHICAL_DELIBERATION` condition: Mercy versus punishment once the threat is neutralized is marked uncertain unless the offender's predation or contempt for weakness is established \(DD §§24-25\).
+  - `ETHICAL_DELIBERATION` condition: Predicts choices and stated criteria, not philosophical exposition.
+  - `ROMANCE_RELATIONSHIP` condition: The partner is Cha Hae-In, in the mature Shadow Monarch, reset-world student or adult state.
+  - `ROMANCE_RELATIONSHIP` condition: Transfer to any other partner is not supported.
+  - `PROFESSIONAL_CONTEXT` condition: Hunter raid, guild or Association, or institutional negotiation contexts, with the counterpart's legitimacy stated.
+  - `PROFESSIONAL_CONTEXT` condition: Adult detective work is limited to collegial register and the retained supernatural exception \(DD §44\), at lower confidence.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` B; `LONGITUDINAL_STATE` B; `VOICE_REGISTER` B; `MUNDANE_BEHAVIOR` C; `RELATIONSHIP_CONDITIONING` B; `INTERIORITY` B; `CONFLICT_BEHAVIOR` B; `ETHICAL_DELIBERATION` B; `HUMOR_PLAY` C; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` B; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `fatherhood-and-adult-domestic-unlocated` (evidence gap): The curated items summarize Suho's sealing, married life and police routine in the novel's side stories and postscripts without located scenes, so adult parenting and domestic behavior are weakly constrained.
+  - `locator-granularity` (evidence-backed limitation): Locators are omnibus index\_split regions or event names. Paragraph-level micro-locators are pending a raw-EPUB remount \(DD provenance note\), so a state change inside one split cannot be placed.
+  - `manhwa-material-excluded` (evidence-backed limitation): The deep dive is co-scoped with the official English manhwa, including manhwa-original material after V15 p061 \(the adolescent Suho trials\). This novel-subject assessment sets aside manhwa-only claims and manhwa page locators as evidence for novel behavior.
+  - `mercy-punishment-boundary` (evidence-backed limitation): Restraint toward Thomas, Byung-Gyu and Legia sits beside the creation of Greed and the detective-era punishment. The boundary is stated as a tendency, and decision trees for mercy and punishment are unbuilt \(DD §§24-25; RM §27\).
+  - `model-derived-from-deep-dive` (evidence-backed limitation): The model uses the deep dive as its assisting framework \(RM front matter, §2\). The two items are partly one line of evidence, not independent corroboration.
+  - `model-v1-incomplete` (evidence-backed limitation): The operational model is V1 active\_provisional and calls itself intentionally incomplete. Its speech corpus, relationship register sets, emotional-state model and ethical decision trees are listed as open \(RM §27\).
+  - `no-predictive-validation` (evidence-backed limitation): The model has not been tested predictively: there are no withheld-answer scene prompts or comparisons, and it says it should be judged that way \(RM §27\). This limits confidence, not the tier.
+  - `speech-statistics-heuristic` (evidence-backed limitation): Speech statistics come from a heuristic of attribution-adjacent turns that misses unattributed turns. Korean speech-level frequency, sentence endings and discourse markers are unmeasured \(RM §3, §27\).
+  - `uncurated-sibling-analysis` (evidence gap): Relationship \(05\), ethics \(04\), side-story \(11\) and Korean voice \(09\) analyses, and the evidence ledger \(13\), which the deep dive defers to, are not curated on this subject and were not used.
+- Evidence at basis commit:
+  - [`solo-leveling:sung-jinwoo@original-korean-novel#02-sung-jinwoo-character-deep-dive`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cc2fc3f09157521688c863b1dfd65ef310d61dc4/series/solo-leveling/04%20Specialist%20Synthesis/02_SUNG_JINWOO_CHARACTER_DEEP_DIVE.md)
+  - [`solo-leveling:sung-jinwoo@original-korean-novel#sung-jinwoo-character-reconstruction-model`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/cc2fc3f09157521688c863b1dfd65ef310d61dc4/series/solo-leveling/04%20Specialist%20Synthesis/SUNG_JINWOO_CHARACTER_RECONSTRUCTION_MODEL.md)
+
 ### Subject `solo-leveling:yoo-jinho@original-korean-novel`
 
 - Registry file: [`characters/reconstruction_capabilities/solo-leveling/yoo-jinho@original-korean-novel.jsonl`](../reconstruction_capabilities/solo-leveling/yoo-jinho@original-korean-novel.jsonl)
