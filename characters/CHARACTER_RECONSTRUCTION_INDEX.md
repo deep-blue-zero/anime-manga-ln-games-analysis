@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 128; `STALE` 1; `SUPERSEDED` 27
+- Recorded totals: `CANDIDATE` 130; `SUPERSEDED` 28
 
 ## Namespaces
 
@@ -30,11 +30,11 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
-| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 41 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 3 | 3 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 4 | 4 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 2 | 2 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
@@ -126,7 +126,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:todoroki-toya@manga` | [`my-hero-academia-todoroki-toya-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-todoroki-toya-manga-v2-model-ledgers-20261111-01) | `SUPERSEDED` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:togata-mirio@manga` | [`my-hero-academia-togata-mirio-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-togata-mirio-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5aa25a60a918015bb973776732340cf205f9d39e` |
 | `my-hero-academia:tokoyami-fumikage@manga` | [`my-hero-academia-tokoyami-fumikage-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-tokoyami-fumikage-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
-| `my-hero-academia:uraraka-ochako@manga` | [`my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01) | `STALE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:uraraka-ochako@manga` | [`my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261114-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
+| `my-hero-academia:uraraka-ochako@manga` | [`my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-uraraka-ochako-manga-v2-model-ledgers-20261110-01) | `SUPERSEDED` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:yaoyorozu-momo@manga` | [`my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `peach-girl:adachi-momo@manga` | [`peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`](reconstruction_index/peach-girl.md#peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
@@ -157,6 +158,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
+| `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
