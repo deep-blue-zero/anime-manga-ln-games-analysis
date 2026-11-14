@@ -2,7 +2,7 @@
 title: "The Apothecary Diaries — Synthesis Architecture"
 artifact_id: AP_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: AP-INITIAL
 authority_scope: "INITIAL bootstrap method, architecture, and administrative metadata only; no literary findings"
 source_boundary: "Metadata reconnaissance: Japanese volumes 01–16 and separate simplified Chinese volume 15; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -176,7 +176,7 @@ The sixteen mandatory architectural duties are discharged here:
 |---|---|
 | 5.1 Purpose, scope, generation, authority | §§1,3 and current entrypoint |
 | 5.2 Source classes/ranking | §2; source map identity states |
-| 5.3 Sequential contract | §5; method §§2–9 |
+| 5.3 Sequential contract | §5; method §§2–9; required [current-unit story synopsis](AP_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Cumulative infrastructure | §§3–4; five initialized ledgers with schemas and update rules |
 | 5.5 Character/relationship synthesis | §8; directed state and ordinary-life capture |
 | 5.6 Specialist domains | §§4,8; earned versus anticipated responsibilities |
@@ -192,3 +192,7 @@ The sixteen mandatory architectural duties are discharged here:
 | 5.16 Entry/retrieval route | §1, current entrypoint and artifact map |
 
 A future architecture review should test these responsibilities against actual edge cases, especially the two V15 witnesses, a later revelation affecting an earlier inference, ordinary behavior conflicting with a crisis impression, and a register shift with multiple explanations. Passing a heading-count check alone is not semantic acceptance.
+
+## Prospective amendment record
+
+- **2026-11-13 — v1.1:** Linked the initiation-policy §5.3 current-unit story synopsis to the local method for future eligible Japanese prose readings. Existing analytical responsibilities, witness distinctions, INITIAL lifecycle and CLOSED authorization boundary remain unchanged.
