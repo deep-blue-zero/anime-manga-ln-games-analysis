@@ -4,7 +4,7 @@ series: the-ramparts-of-ice
 artifact_id: RI_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: RI-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL full-colour tankobon method; no narrative findings"
 source_boundary: "Japanese full-colour tankobon volumes 01-14 metadata verified; no narrative admission or inspection"
@@ -72,3 +72,17 @@ A future `readings/RI_VNN_DEEP_READING.md` carries `artifact_type: deep_reading`
 Update source, person/relationship, expression and visual-form evidence, claims and current state atomically with acceptance. A justified “no material change” stays in the reading manifest rather than filler rows. Full prose and mandatory cumulative updates are both necessary. No universal word ceiling applies.
 
 Use handoff §15.6's bounded reference check across opening, substantive middle, exit synthesis and each major relationship. Preserve purposeful roles, concealment and local knowledge; repair genericization, ambiguity and wrong attribution with evidence. Reviewer tests consequential source support, visual witness limits and lost causal/counterreading detail. Passing repository checks alone is not semantic acceptance.
+
+<a id="current-unit-story-synopsis"></a>
+
+### Current-unit story synopsis (initiation policy §5.3)
+
+Each authorized collected-volume reading must include a clearly labeled **Current-unit story synopsis** near the front of its canonical artifact, after witness/coverage and entering context, before governing or rival theses, extended interpretation and ledger inventories. Briefly identify inherited events as inherited and then recount what newly happens in this volume.
+
+Write coherent, accessible prose giving the opening situation, source-established participants and stakes, consequential actions and decisions, turning points and disclosures, and the ending state. Retain meaningful physical and scene mechanics, named actors and directions of interaction where the pages establish them; a psychological metaphor or relationship label cannot replace the event. Follow the supplied colour tankobon's actual chapters, causal movements and panel presentation, marking inferred gutter transitions. Detail follows narrative density, with no fixed length or required chapter template.
+
+Use only the current admitted volume and explicitly distinguished inherited context. Separate depicted events from speech/thought, narrator presentation, testimony, conjecture, contested attribution and unresolved outcomes. Newly disclosed earlier events are not new story-time events, and colour or expression does not establish an unqualified inner state. Material event claims receive retrievable witness/chapter/image/panel locators under the locator contract, or stable evidence references resolving to them, without turning the prose into a row list. Original web-scroll timing, adaptations, later volumes and the shared artbook or other title cannot supply missing events or cast continuity.
+
+This is unit-end, spoiler-bearing orientation. Compose or finalize it after the applicable prospective captures are frozen, and shield analysts assigned an earlier chapter, movement or volume horizon from the full spoiler-bearing reading. It is neither a prospective freeze nor independent evidence. Full causal, colour/page-form, Japanese, character, directed-relationship and counterreading arguments, all mandatory updates and exit uncertainty remain required. A genuinely non-narrative separately scoped pass may state inapplicability with a reason; plot-bearing readings cannot omit the duty.
+
+_Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible readings without narrative admission, run authorization or changes to frozen history._

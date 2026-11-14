@@ -2,7 +2,7 @@
 title: "SPY x FAMILY — Synthesis Architecture"
 artifact_id: SXF_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: SXF-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–18 plus separate EYES ONLY fanbook; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 ---
@@ -163,7 +163,7 @@ Add sources only after identity and scope reconciliation; new inventory does not
 |---|---|
 | 5.1 Purpose/scope/generation/authority | §1 and current map |
 | 5.2 Source ranking | §2 and source register |
-| 5.3 Sequential contract | §5 and method |
+| 5.3 Sequential contract | §5 and method; required [current-unit story synopsis](SXF_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Cumulative infrastructure | §§3–4 and five operational registers |
 | 5.5 Character/relationship synthesis | §8 and relationship ledger |
 | 5.6 Specialist domains | §§4,8; anticipated versus earned |
@@ -179,3 +179,7 @@ Add sources only after identity and scope reconciliation; new inventory does not
 | 5.16 Entry/retrieval | §1 and topology §3 |
 
 Stress review with an actor who has less information than the reader, an audience-dependent utterance with multiple motives, ordinary conduct that complicates a declared role, and a later fanbook assertion. These are methodological scenarios, not invented source events.
+
+## Prospective amendment record
+
+- **2026-11-13 — v1.1:** Linked the local-method synopsis duty under initiation policy §5.3 for future plot-bearing units. Actor/audience/disclosure distinctions, separately admitted fanbook scope, all analytical/register duties, INITIAL lifecycle and CLOSED authorization are preserved.
