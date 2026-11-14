@@ -132,6 +132,7 @@ Current method/architecture, entry and current indexes are mutable by targeted e
 | Version | Date | Basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL four-work anthology foundation; no narrative findings or run approval |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future story readings; work-local cast and ending scope, full analytical duties and CLOSED authorization boundary retained |
 
 ## 9. Execution and handoff
 
