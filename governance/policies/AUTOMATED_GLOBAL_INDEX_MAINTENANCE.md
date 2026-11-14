@@ -12,7 +12,7 @@ Everything else is read-only to it, including the character registry and index (
 
 ## How a push is certified
 
-The repository audit of a `series/` or `studies/` push validates the authored content against a projection of the five routing outputs, and confines the branch to its own root, those outputs and a separately identifiable character repair that touches only discovery outputs. If the committed routing outputs already match the projection, the audit reports success on that exact commit. Otherwise it reports pending, and housekeeping regenerates the outputs on a branch that contains current `main`, pushes one ordinary child commit, and dispatches the audit for that commit. Housekeeping never pushes `main`, force-pushes, writes analysis, deletes registry rows or touches character files.
+The repository audit of a `series/` or `studies/` push validates the authored content against a projection of the five routing outputs, and confines the branch to its own root, those outputs and a separately identifiable character repair that touches only discovery outputs. If the committed routing outputs already match the projection, the audit reports success on that exact commit. Otherwise it reports pending, and housekeeping regenerates the outputs, pushes one ordinary child commit, and dispatches the audit for that commit. The outputs list every root, so housekeeping fails when the branch lacks a commit from `main` that changed any of the five; merge current `main` and push again. Commits on `main` that leave all five unchanged do not block it, because merging them later keeps the regenerated outputs byte for byte. Housekeeping never pushes `main`, force-pushes, writes analysis, deletes registry rows or touches character files.
 
 ## Declaring routing
 

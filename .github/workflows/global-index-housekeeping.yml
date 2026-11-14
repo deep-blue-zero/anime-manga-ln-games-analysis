@@ -123,9 +123,21 @@ jobs:
             echo "PASS: routing outputs are current; the source audit already reported this exact head"
             exit 0
           fi
-          # Routing outputs list every root, so they are regenerated only on a branch that contains current main.
-          if ! git merge-base --is-ancestor origin/main HEAD; then
-            echo "FAIL: incorporate current main before housekeeping can regenerate routing outputs" >&2
+          # Routing outputs list every root and are generated from themselves and
+          # this branch's own descriptor. A branch may therefore lack commits from
+          # main only while those commits leave all five outputs unchanged: merging
+          # main then keeps this regeneration byte for byte. Anything else, or an
+          # unreadable history, counts as changed.
+          main_changed_routing() {
+            local base found=false
+            while read -r base; do
+              found=true
+              git diff --quiet "${base}" origin/main -- "${generated_paths[@]}" || return 0
+            done < <(git merge-base --all origin/main HEAD)
+            [[ "${found}" = false ]]
+          }
+          if main_changed_routing; then
+            echo "FAIL: main changed routing outputs; incorporate current main before housekeeping can regenerate them" >&2
             exit 1
           fi
           python tools/prepare_commit.py --base origin/main --check --full
@@ -143,10 +155,11 @@ jobs:
             echo "::notice::Superseded before publication; no generated changes were pushed."
             exit 0
           fi
-          remote_main="$(git ls-remote --heads origin refs/heads/main | cut -f1)"
-          if [[ "${remote_main}" != "$(git rev-parse origin/main)" ]]; then
-            echo "::notice::Main advanced during housekeeping; reconcile and audit the branch again."
-            exit 0
+          # Main may have advanced while the gate ran; publish only if the same condition still holds.
+          git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"
+          if main_changed_routing; then
+            echo "FAIL: main changed routing outputs during housekeeping; incorporate current main and push again" >&2
+            exit 1
           fi
           auth_header="$(printf 'x-access-token:%s' "${GH_TOKEN}" | base64 -w0)"
           git config --local http.https://github.com/.extraheader "AUTHORIZATION: basic ${auth_header}"

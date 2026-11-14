@@ -477,10 +477,18 @@ def validate_global_index_automation(
         "github.event.workflow_run.event == 'push'",
         "github.event.workflow_run.conclusion == 'success'",
         "github.event.workflow_run.actor.login == github.repository_owner",
-        "git merge-base --is-ancestor origin/main HEAD",
+        # Regeneration is refused when commits missing from main changed routing.
+        "done < <(git merge-base --all origin/main HEAD)",
+        'git diff --quiet "${base}" origin/main -- "${generated_paths[@]}" || return 0',
+        "if main_changed_routing; then",
+        # The check is repeated against a fresh main immediately before the push.
+        'git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"\n'
+        "          if main_changed_routing; then",
     ):
         if fragment not in text:
             errors.append(f"global index housekeeping workflow missing contract: {fragment}")
+    if text.count("if main_changed_routing; then") < 2:
+        errors.append("global index housekeeping workflow must test main_changed_routing before the gate and again before the push")
     # Branches may carry coordinated character repairs, but the generated and
     # staged output set must remain the five routing paths.
     output_blocks = re.findall(
