@@ -4,7 +4,7 @@ artifact_id: T7S_EVIDENCE_SUBSTRATE_AND_LOCATOR_PROTOCOL
 artifact_type: evidence_locator_protocol
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.164"
+version: "1.165"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -151,6 +151,12 @@ Each shard's META record declares its own field defaults. Expand every record wi
 Use `SELECT script_id FROM scenarios ORDER BY script_id COLLATE BINARY` to recover all 1,578 scripts. Join `episodes` on script ID to recover all 1,350 catalog memberships and their qualified hierarchy. Additional scripts are the exact anti-join, not a filename guess. Supplemental membership recipes use namespace-qualified full IDs in BINARY order, UTF-8 without BOM and one LF per ID including the last. The source lock pins each membership digest, so an auditor can recover every still-unread record without a complete copied source registry in Git.
 
 To split a supplemental tranche, retain its original scope/decision history, name child memberships with exact predicates and digests, and prove their union equals the parent with empty intersection. Count active leaf tranches only. Partial script consumption uses explicit document/page ranges and remaining holes; completion requires every required native page, inline document and choice branch accounted for. Shared semantic screening may feed multiple subjects, but each subject's integration decision is tracked separately.
+
+### Complete solo-stage supplemental leaf
+
+The `SUPP-solo_stage_message-ALL-v1` coverage leaf retains its null narrative horizon and exact member digest. One `consumed_ranges` entry binds namespace, tranche, exact member count and hash, the four native conditions and the disposition artifact, section and digest. It counts as consumed supplemental text with no episode or page range. Expand defaults and verify the exact membership before using its dispositions.
+
+The `CL-BNNNN-NNN` claim IDs remain tied to their narrative blocks. The solo-stage portfolio uses `CL-SUPP-SOLO-NNN`. Current claim totals include both scopes. The earlier receipts keep their original counts.
 
 ### Bounded first-operation query equivalent
 

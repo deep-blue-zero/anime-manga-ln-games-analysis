@@ -16,6 +16,11 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
             {
+              "cue": "vo_special_156_094",
+              "canonical_audio_asset_id": "wav:db92afd68ac6f7658e3f568b31466e04b37e550733feae0e21acfd504e53ec92",
+              "wav_sha256": "db92afd68ac6f7658e3f568b31466e04b37e550733feae0e21acfd504e53ec92"
+            },
+            {
               "cue": "vo_special_156_095",
               "canonical_audio_asset_id": "wav:66f842554182760ca6ff90acdd91c335de080fab25c982f0d1db0e246a1a3e9f",
               "wav_sha256": "66f842554182760ca6ff90acdd91c335de080fab25c982f0d1db0e246a1a3e9f"
@@ -8149,9 +8154,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
       "source_readback_receipt_sha256": "1637e6690e412e7fdf5072000ac262489e919c3b94215356bae5a924e77df046",
       "erratum_path": "09 Audits and Manifests/T7S_B0244_MUSUBI_DEPARTURE_ERRATUM_01.md",
       "erratum_sha256": "2a8d6a28b75669ad368f5eefd1e446c2f1285150b7ab486704bfb5ec8e5bc6a6",
-      "frozen_reading_path": "02 Readings/T7S_B0244_DEEP_READING.md",
-      "frozen_reading_sha256": "a21fa6ab8e45666d68ec23e9a3aa91985601f9b4e1b2196a383080bce68acd52",
-      "frozen_reading_and_prospective_receipts": "UNCHANGED_BYTE_EXACT",
-      "affected_current_row": "REL-1652",
-      "claim_revision": "REV-0044",
 <!-- T7S SOURCE LOCK PAYLOAD END -->

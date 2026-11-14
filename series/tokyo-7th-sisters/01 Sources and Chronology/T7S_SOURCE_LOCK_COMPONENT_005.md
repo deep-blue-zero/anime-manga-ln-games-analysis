@@ -15,6 +15,11 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+              "wav_sha256": "6152172f5d8eeeb733708b50a52d5bc4bacb615f72cbdcd6bcbd7eb6a219ca04"
+            },
+            {
+              "cue": "vo_event_101002_01_01_320",
+              "canonical_audio_asset_id": "wav:ab0cc004e8db119a28bcacefbff5dc20a96df94d14ce4641443c5e742806a3af",
               "wav_sha256": "ab0cc004e8db119a28bcacefbff5dc20a96df94d14ce4641443c5e742806a3af"
             },
             {
@@ -7675,12 +7680,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
             "vo_ing3_053_01_01_023",
             "vo_ing3_053_01_01_024",
             "vo_ing3_053_01_01_025",
-            "vo_ing3_053_01_01_026",
-            "vo_ing3_053_01_01_027",
-            "vo_ing3_053_01_01_028",
-            "vo_ing3_053_01_01_029",
-            "vo_ing3_053_01_01_030",
-            "vo_ing3_053_01_01_031",
-            "vo_ing3_053_01_01_032",
-            "vo_ing3_053_01_01_033",
 <!-- T7S SOURCE LOCK PAYLOAD END -->

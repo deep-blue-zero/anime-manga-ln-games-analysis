@@ -15,6 +15,11 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+      "frozen_reading_path": "02 Readings/T7S_B0244_DEEP_READING.md",
+      "frozen_reading_sha256": "a21fa6ab8e45666d68ec23e9a3aa91985601f9b4e1b2196a383080bce68acd52",
+      "frozen_reading_and_prospective_receipts": "UNCHANGED_BYTE_EXACT",
+      "affected_current_row": "REL-1652",
+      "claim_revision": "REV-0044",
       "old_formulation": "Leaves and regrets the provocation; extreme self-reproach is not an inferred act, plan or diagnosis.",
       "new_formulation": "Announces that she will leave and regrets having accepted Susu's provocation; completed departure is not established in this chapter. Extreme self-reproach is not an inferred act, plan or diagnosis.",
       "source_boundary": "503012803/P44-P52 previously admitted B0244; no later primary",
@@ -8029,9 +8034,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
             {
               "cue": "vo_special_103_017",
               "canonical_audio_asset_id": "wav:50c9e98ff5a05016a10941679a407391eda2f0c987978943917d4858b12ea0d1",
-              "wav_sha256": "50c9e98ff5a05016a10941679a407391eda2f0c987978943917d4858b12ea0d1"
-            },
-            {
-              "cue": "vo_special_103_018",
-              "canonical_audio_asset_id": "wav:47994be33211ef003ad00281837a8c5259346eab91c04603868d8af69e8fe4d4",
 <!-- T7S SOURCE LOCK PAYLOAD END -->

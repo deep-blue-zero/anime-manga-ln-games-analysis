@@ -15,6 +15,11 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+          "structured_sha256": "779c998d2edcf7d8c753ef448bddb1052bb5a2500962f2a00270d283b4dc6581",
+          "pages": 73,
+          "text_records": 68,
+          "command_only_pages": 5,
+          "voice_pages": 68,
           "native_pages_verified": 73
         },
         {
@@ -8622,10 +8627,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
           "resource": "adv_chara_130_06_01",
           "body": "adv_chara_130_06.png",
           "body_sha256": "843e44d48808557f0e40276c802709a847e7390288b69620646d6554f64dc31c",
-          "face": "adv_chara_130_06_01.png",
-          "face_sha256": "8613b71c7596da79f24738229252a0627d1dbd825b6f188c86fc08f99a4f0afb",
-          "native_face_offset": [
-            145,
-            74
-          ],
 <!-- T7S SOURCE LOCK PAYLOAD END -->

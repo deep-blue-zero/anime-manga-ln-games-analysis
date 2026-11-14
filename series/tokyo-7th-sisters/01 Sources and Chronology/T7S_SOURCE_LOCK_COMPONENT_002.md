@@ -15,6 +15,16 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+        "canonical_artifact": "02 Readings/T7S_B0237_DEEP_READING.md"
+      },
+      {
+        "episode_id": "404000021",
+        "script_id": "bdmemory_046_0922.json__515c4b5052b7b3c0",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          27
+        ],
         "log_order_index": [
           0,
           27
@@ -8953,11 +8963,6 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
               "cue": "vo_event_101007_01_01_339",
               "canonical_audio_asset_id": "wav:5033c9811798295586c19e9a6e5e1e6f2533cf30977d45960e5c4394a79814d4",
               "wav_sha256": "5033c9811798295586c19e9a6e5e1e6f2533cf30977d45960e5c4394a79814d4"
-            },
-            {
-              "cue": "vo_event_101007_01_01_340",
-              "canonical_audio_asset_id": "wav:f63f5c3b7e05de838e5f13c60432f52c5c870c3e7651c41ec6bebb70e221e454",
-              "wav_sha256": "f63f5c3b7e05de838e5f13c60432f52c5c870c3e7651c41ec6bebb70e221e454"
             },
             {
 <!-- T7S SOURCE LOCK PAYLOAD END -->

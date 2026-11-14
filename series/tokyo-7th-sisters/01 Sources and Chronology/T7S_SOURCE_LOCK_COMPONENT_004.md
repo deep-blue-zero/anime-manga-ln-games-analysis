@@ -15,6 +15,11 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+              "canonical_audio_asset_id": "wav:a2f98778f40ecf2aaaea24498b5bb978de5045dff2990c461c384da7c3f33fae",
+              "wav_sha256": "a2f98778f40ecf2aaaea24498b5bb978de5045dff2990c461c384da7c3f33fae"
+            },
+            {
+              "cue": "vo_event_101004_01_01_276",
               "canonical_audio_asset_id": "wav:bd5989c908afe072b5e16ee2f2ceb9525e8014a21ae1754c402a7821f5042bdc",
               "wav_sha256": "bd5989c908afe072b5e16ee2f2ceb9525e8014a21ae1754c402a7821f5042bdc"
             },
@@ -7520,9 +7525,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
             {
               "cue": "vo_event_101002_01_01_319",
               "canonical_audio_asset_id": "wav:6152172f5d8eeeb733708b50a52d5bc4bacb615f72cbdcd6bcbd7eb6a219ca04",
-              "wav_sha256": "6152172f5d8eeeb733708b50a52d5bc4bacb615f72cbdcd6bcbd7eb6a219ca04"
-            },
-            {
-              "cue": "vo_event_101002_01_01_320",
-              "canonical_audio_asset_id": "wav:ab0cc004e8db119a28bcacefbff5dc20a96df94d14ce4641443c5e742806a3af",
 <!-- T7S SOURCE LOCK PAYLOAD END -->
