@@ -4,7 +4,7 @@ series: shihou-yuugi
 artifact_id: SY_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: SY-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL work-qualified anthology architecture and derived-use contract"
 source_boundary: "One Japanese four-story anthology EPUB, metadata verified; all story narratives unadmitted and uninspected"
@@ -41,7 +41,7 @@ The witness's narrative, covers, story title pages, notes, jokes and other extra
 |---|---|
 | 5.1 Purpose/scope/authority | §1; collection identity distinct from story-level source authority |
 | 5.2 Source model | §2 and source/work map; actual story order pending |
-| 5.3 Sequential outputs | Method completion contract; full story prose plus source/state/claim update |
+| 5.3 Sequential outputs | Method completion contract; full story prose plus source/state/claim update; each future story reading includes its own [current-unit story synopsis](SY_ANALYTICAL_METHOD.md#current-unit-story-synopsis), with work-local cast, ending and disclosure freeze rather than a fictitious collection chronology |
 | 5.4 Longitudinal homes | Work-qualified evidence and claim ledgers; typed schemas and history |
 | 5.5 Character/relationships | §5 and §7; independent local subjects and derived models |
 | 5.6 Specialists | §4–5; substantial story/collection arguments, earned files |
@@ -132,6 +132,7 @@ Current method/architecture, entry and current indexes are mutable by targeted e
 | Version | Date | Basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL four-work anthology foundation; no narrative findings or run approval |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future story readings; work-local cast and ending scope, full analytical duties and CLOSED authorization boundary retained |
 
 ## 9. Execution and handoff
 
