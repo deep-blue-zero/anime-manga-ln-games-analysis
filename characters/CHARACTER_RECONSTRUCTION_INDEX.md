@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 132; `SUPERSEDED` 29
+- Recorded totals: `CANDIDATE` 133; `SUPERSEDED` 29
 
 ## Namespaces
 
@@ -24,6 +24,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 1 | 1 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
+| [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 2 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
@@ -54,6 +55,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
+| `genshin-impact:furina@game` | [`genshin-impact-furina-game-furina-monograph-20261114-01`](reconstruction_index/genshin-impact.md#genshin-impact-furina-game-furina-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `harmony:tuan-kirie@original-novel` | [`harmony-tuan-kirie-comparative-20261022-01`](reconstruction_index/harmony.md#harmony-tuan-kirie-comparative-20261022-01) | `CANDIDATE` | `E` | `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` |
 | `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01) | `CANDIDATE` | `C` | `ba293c95436e3ebba51e57b144dedb59b802d19d` |
 | `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `CANDIDATE` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
