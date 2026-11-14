@@ -2,7 +2,7 @@
 title: "Blue Box — Prose Supplement Analytical Method"
 artifact_id: BB_PROSE_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -74,6 +74,16 @@ Use the shared warrant and revision vocabulary defined in the manga method, with
 Before semantic acceptance, promotion or integration, perform the same bounded name/reference check: introduction, substantial middle, conclusion/exit and major relationships/ambiguous actors, preserving speaker/thinker/recipient and source-required concealment. Use the six classifications in the manga method and record actual scope/material findings.
 
 Accept full prose and five registers atomically. Missing components, untested central routes or essential uninspected images remain holds. Frozen prospective readings preserve their original knowledge and source boundary.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing prose reading includes a clearly labeled **Current-unit story synopsis** near its front, after brief witness/coverage and entering context, before thesis and extended analysis. Declare the independently authorized Interlude or Prologue witness and actual segment/terminal scope. The title establishes no position in the manga chronology, and a shared register does not create a combined narrative unit.
+
+Use connected, accessible prose to explain the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and ending state within that prose boundary. Preserve concrete scene and physical-event mechanics where the text establishes them. Distinguish inherited developments from newly presented events; distinguish narrator presentation, focalized perception, represented thought, testimony or belief, and analyst conjecture or unresolved outcome. Narrator access must remain source-supported. Material event claims have retrievable prose locators or stable observation references; they support a readable account rather than replacing it with an evidence table. Scale detail to the actual segment without a fixed quota.
+
+Compose or finalize this unit-end, spoiler-bearing account after all applicable entering and internal prospective captures are frozen; shield it and the completed reading from earlier-horizon analysts. It may disclose outcomes established in the current authorized prose unit, but must not borrow later unadmitted prose or manga events to fill gaps. Keep any separately authorized comparison distinct, with each source's own warrant. The synopsis supplements the full independent causal, narrational, linguistic, character, relationship, formal and counterreading argument, image/paratext accounting and five-register transaction. Acceptance requires both the synopsis and every existing duty; frozen readings are not rewritten and the CLOSED analysis lock remains governing.
 
 ## 8. Model and handoff boundary
 
