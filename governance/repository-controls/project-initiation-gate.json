@@ -71,6 +71,28 @@
         "series/silent-witch/10 Codex G2/PUBLICATION_README.md": "e1d4f86fc87fb57d6fc30638f9062bb50a842df9ddcd4bae04284179e37cb5aa"
       },
       "authorization": "Owner-authorized publication of the completed independent SW-G2 freeze and separately completed V1 comparison. Original versus publication digests were verified for all 70 artifacts. This exact 72-file noncurrent import grants no narrative source admission, authority promotion, literary correction, or original-history publication."
+    },
+    "series/cosmic-princess-kaguya/independent/CPK-B1-SOL61/PUBLICATION_MANIFEST.json": {
+      "project_root": "series/cosmic-princess-kaguya/",
+      "canonical_entrypoint": "series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md",
+      "scope_prefixes": [
+        "series/cosmic-princess-kaguya/independent/CPK-B1-SOL61/"
+      ],
+      "manifest_schema": "CPK-B1-SOL61-publication-derivative/1",
+      "manifest_sha256": "8c70dffeb953fc222706c9585df38e1cd3128d0395a9f0f268ce7c21645cadfc",
+      "frozen_commit": "e4caeb931dbb91c9b926638cf511f50637b0bb79",
+      "frozen_corpus_tree": "f064f2bbec46e1f17d93c26fb572a761917f687e",
+      "comparison_commit": "8ed04470ecd9f7adaf0a130728748dec6da6c314",
+      "comparison_v1_boundary": "7c850af679471b74e36a8458985e448bc8191068",
+      "source_boundary": "series/cosmic-princess-kaguya/independent/CPK-B1-SOL61/provenance/SOURCE_BOUNDARY.json",
+      "source_boundary_sha256": "a6f80608664573c9675a8804ed52cbf19138b15d40166067c7761443a58c4022",
+      "generations": [
+        "CPK-B1-SOL61"
+      ],
+      "provenance_files": {
+        "series/cosmic-princess-kaguya/independent/CPK-B1-SOL61/PUBLICATION_README.md": "a00b61d402afaa5a0a8d7605d0abbb6a8fea9db92e265fb66e324c5464708242"
+      },
+      "authorization": "Bounded retrospective publication of the independent F01 reading and subsequent comparison explicitly requested by the owner. This exact grant becomes operative only after separate owner review and merge to main. Covers the 16-file noncurrent independent envelope only; grants no new source run, authority promotion, canonical correction or public exposure of private history. Original/publication mappings were recovered from byte-exact archival Git originals; the original local freeze predates exposure and the archival Git commits do not."
     }
   }
 }
