@@ -4,7 +4,7 @@ series: look-back
 artifact_id: LB_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: LB-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL standalone architecture and derived-use pathway only"
 source_boundary: "One Japanese standalone manga EPUB, metadata verified; narrative admission and inspection NONE"
@@ -49,7 +49,7 @@ Source components remain separate: actual narrative, covers/afterwords/extras, t
 |---|---|
 | 5.1 Purpose/scope/authority | §1 plus entrypoint; no literary or run authority inferred |
 | 5.2 Source model | §2 and inventory; one witness, apparatus unclassified, other works excluded |
-| 5.3 Sequential contract | Method's complete-reading section; full work argument and synchronized updates |
+| 5.3 Sequential contract | Method's complete-reading section; full work argument and synchronized updates; the future standalone reading also carries the [current-unit story synopsis](LB_ANALYTICAL_METHOD.md#current-unit-story-synopsis), with internal prospective captures frozen before its work-end account |
 | 5.4 Longitudinal infrastructure | Two internally typed ledgers; events span scenes rather than fictional volumes |
 | 5.5 Character/relationship synthesis | §5 and §7; earned studies and separately tested models |
 | 5.6 Specialists | §4–5; mandatory responsibilities can occupy integrated sections with explicit justification |
@@ -139,6 +139,7 @@ Current method/architecture, entry and indexes are mutable through targeted chan
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL one-work architecture with scene-level preservation and bounded reconstruction; no narrative findings |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for the future standalone reading; scene-level preservation, full analytical duties and CLOSED authorization boundary retained |
 
 ## 9. Ownership, transfer and retrieval
 

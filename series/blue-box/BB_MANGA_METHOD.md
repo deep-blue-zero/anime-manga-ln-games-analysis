@@ -2,7 +2,7 @@
 title: "Blue Box — Manga Analytical Method"
 artifact_id: BB_MANGA_METHOD
 artifact_type: analytical_method
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -11,7 +11,7 @@ authority_generation: BB-INITIAL
 authority_scope: "INITIAL bootstrap rules and attributed metadata only; no literary findings"
 source_boundary: "Metadata only: Japanese main manga V01–27 and separate prose Interlude/Prologue; no narrative admitted"
 created: 2026-11-07
-last_updated: 2026-11-07
+last_updated: 2026-11-13
 recommended_reasoning_class: DEEP_SYNTHESIS
 ---
 
@@ -82,6 +82,16 @@ Keep full causal, relational, linguistic and formal reasoning at the length need
 Before semantic acceptance, promotion or integration, sample introduction, substantial middle, conclusion/exit and major relationships/ambiguous actors. Verify names, purposeful roles, pronouns, concealment, speaker/thinker/recipient and knowledge boundary. Classify JUSTIFIED_ROLE_REFERENCE, SOURCE_REQUIRED_ANONYMITY, KNOWLEDGE_BOUNDARY_REQUIRED, UNNECESSARY_GENERICIZATION, AMBIGUOUS_REFERENT or INCORRECT_IDENTITY_OR_ATTRIBUTION. Record sampled scope/material findings and repair supported defects.
 
 Accept complete prose and synchronized registers atomically. Scoped no-change findings state actual inspection. Unreadable required pages, broken central locators or missing updates remain holds.
+
+### Current-unit story synopsis
+
+*Prospective amendment, 2026-11-13, under initiation policy v1.11 §5.3.*
+
+Each completed plot-bearing manga reading includes a clearly labeled **Current-unit story synopsis** near its front, after brief witness/coverage and entering context, before thesis and extended analysis. Its scope is the authorized verified manga volume or chapter unit, with finer movement/disclosure frontiers preserved. Interlude and Prologue are independent prose sources, not missing manga scenes or automatically adjacent chronological units.
+
+Write connected, accessible prose explaining the opening situation, named participants and stakes, consequential actions and decisions, causal turns, disclosures and ending state. Preserve concrete physical and scene mechanics established by inspected pages, including consequential individual or collective actions where shown. Distinguish inherited developments from this unit's events, and shown/narrated events from dialogue, belief, testimony, conjecture and unresolved outcomes. A depicted expression does not supply certain interiority. Material event claims use retrievable page/panel locators or stable observation references without replacing the account with a table. Scale detail to the unit without a fixed word count.
+
+This is unit-end, spoiler-bearing orientation. Compose or finalize it only after all entering and within-unit prospective captures are frozen, and shield it and the completed reading from earlier-horizon analysts. It may disclose the current unit's outcome but excludes later unadmitted manga and prose-only information, even if either would resolve an ambiguity. It supplements every existing causal, visual, linguistic, character, relationship and counterreading duty and the five-register transaction. Acceptance requires both the synopsis and the complete analysis; frozen readings stay intact and the CLOSED analysis lock remains governing.
 
 ## 9. Reconstruction and preserved history
 
