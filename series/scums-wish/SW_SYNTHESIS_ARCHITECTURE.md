@@ -4,7 +4,7 @@ series: scums-wish
 artifact_id: SW_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: SW-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL main/supplement architecture; procedural authority only"
 source_boundary: "Metadata reconnaissance of Japanese main manga volumes 01-08 and decor volume 09; no narrative units admitted or inspected"
@@ -59,7 +59,7 @@ Each major reading thesis must keep its inferential warrant, material evidence, 
 |---|---|---|
 | 5.1 Purpose/scope/authority | §1 and entrypoint | Are procedural, literary and run authority distinct? |
 | 5.2 Source model | §2 and source inventory | Are MAIN/DECOR, apparatus and excluded witnesses distinguished? |
-| 5.3 Sequential contract | §3 and method §9 | Does a complete prose argument have synchronized cumulative state? |
+| 5.3 Sequential contract | §3 and method §9 | Does a complete prose argument have synchronized cumulative state? Required [current-unit story synopsis](SW_ANALYTICAL_METHOD.md#current-unit-story-synopsis) within the complete plot-bearing reading |
 | 5.4 Longitudinal infrastructure | §5 and four typed ledgers | Are exact rows, triggers and history rules recoverable? |
 | 5.5 Character/relationships | §6 and reconstruction contract | Are individuals, directed edges and derived models distinct? |
 | 5.6 Specialists | §5–6 | Are required responsibilities substantive and optional homes earned? |
@@ -175,3 +175,4 @@ The governing policies are [initiation](../../governance/source-policies/MANGA_A
 | Version | Date | Basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL MAIN/DECOR architecture from metadata; no source admissions, narrative claims or owner-run approval |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future eligible MAIN/DECOR readings; separate horizons, full analytical obligations and CLOSED boundary retained |
