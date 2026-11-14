@@ -139,6 +139,7 @@ Current method/architecture, entry and indexes are mutable through targeted chan
 | Version | Date | Change |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL one-work architecture with scene-level preservation and bounded reconstruction; no narrative findings |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for the future standalone reading; scene-level preservation, full analytical duties and CLOSED authorization boundary retained |
 
 ## 9. Ownership, transfer and retrieval
 
