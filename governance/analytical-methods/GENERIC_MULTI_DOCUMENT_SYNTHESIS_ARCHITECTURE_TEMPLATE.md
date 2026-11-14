@@ -3,13 +3,14 @@ title: Generic Multi-Document Synthesis Architecture Template
 artifact_id: GENERIC_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_TEMPLATE
 artifact_type: generic_synthesis_architecture_template
 artifact_role: reusable_corpus_level_architecture_template
-version: "1.0"
+version: "1.1"
 status: canonical
 scope: bootstrap template for a project's synthesis/corpus architecture in any medium
 authority_scope: this_reusable_reference_only
 adoption: opt_in
 project_local_authority: false
 created: 2026-10-24
+last_updated: 2026-11-14
 maintainer: Claude + user
 source_boundary: "Architectural reference only; no series findings or primary-source evidence"
 do_not_use_as_current_authority: false
@@ -138,6 +139,7 @@ Define what a source-unit reading must contribute before it counts as architectu
 - [ ] the deep-reading artifact, under the method's output structure;
 - [ ] cumulative ledger updates, listed by ledger;
 - [ ] new or revised claims entered in the claim-revision home;
+- [ ] where person-level synthesis is in scope, the observations later monographs need (ordinary conduct, cognition and decisions, directed relationship behavior, source-language speech and address, preferences and habits, capabilities and limits, counterexamples, and change over time), routed to cumulative homes or marked local-only (Section 8);
 - [ ] evidence locators in the declared grammar (Section 10);
 - [ ] prediction-register adjudication, if the project keeps one;
 - [ ] for reconciled lanes: the AV verification queue, or a statement that none is needed;
@@ -188,15 +190,26 @@ Every recurring observation needs one of three destinations: a cumulative home, 
 
 State whether the project expects character monographs, relationship syntheses, ensemble syntheses, behavioral or voice models, reconstruction and validation artifacts, or no dedicated layer.
 
-**Decide:** the conditions under which a character or relationship earns an independent home (for example, recurrence across a stated share of units, a distinct developmental arc, or a reconstruction target).
+**Decide:** the conditions under which a relationship or ensemble earns an independent home, and any assessment triggers for individual characters (for example, a distinct developmental arc or a reconstruction target). Individual eligibility itself follows the standard below, never an appearance quota or a fixed roster.
 
-Monographs cite claims and locators, not whole readings. A monograph that links only to "see V3 reading" forces synthesis to reconstruct its evidence.
+Where person-level synthesis is in scope, individual monographs follow the [self-contained character monograph standard](../source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard) (initiation Section 5.5.1): each is the canonical portrait of one qualified character at one boundary, usable on its own without reassembly from ledgers, readings or studies. The standard sets the coverage, qualification, outcome vocabulary and acceptance review; the architecture adds only project decisions.
+
+**Decide:**
+
+- where qualification decisions are recorded (a mutable local monograph index or readiness record that later outcomes and paths can update), and when the first eligibility review runs, no later than specialist readiness (Section 17);
+- the canonical monograph home and filename, for example `05 Character and Relationship Studies/<SERIES>_<CHARACTER_ID>_<BOUNDARY>_CHARACTER_MONOGRAPH.md`; the folder appears with the first real monograph;
+- which sequential captures feed monographs (Section 5) and which cumulative homes hold them;
+- the medium's limits on interiority and voice, for example written register only in manga and prose, or performance only through admitted audiovisual lanes.
+
+If the project's purpose excludes literary person-level synthesis, say so and why; that declaration is not a way to keep a qualified character in ledgers indefinitely.
+
+Monographs cite claims and locators, not whole readings. A monograph that links only to "see V3 reading" forces synthesis to reconstruct its evidence. Equally, the portrait itself lives in the monograph: links verify and extend it, and do not substitute for it.
 
 If reconstruction is in scope, adapt the [generic character reconstruction method](GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md) and declare:
 
 - **placement**: reconstruction is a derived-use layer that routes to the literary corpus. It is not a parallel canon and not the master interpretive layer;
 - **timing**: evidence capture is prospective, during sequential reading; model building may run incrementally, mid-pipeline, or after literary release, as the dependency graph states;
-- **artifact split**: per subject and state, an evidence ledger, an operational model, and (separately) any monograph. A monograph does not certify a model.
+- **artifact split**: per subject and state, an evidence ledger, an operational model, and (separately) the character's monograph when the character qualifies for one. A monograph, including its compact operational profile, does not certify a model; a model does not replace a qualified character's monograph.
 
 The project produces analysis and models. The reconstruction evaluator alone grades capability in the capability registry partitions `characters/reconstruction_capabilities/<namespace>/<subject>.jsonl`; the architecture never assigns those grades.
 
@@ -387,6 +400,7 @@ Before the first substantive sequential reading, confirm (initiation Section 15)
 - [ ] project-local method exists, adapted from the relevant reference method;
 - [ ] this architecture exists and every Part I responsibility is answered or explicitly marked N/A with a reason;
 - [ ] responsibility matrix present;
+- [ ] character synthesis explicit: the named home for qualification decisions, the monograph home and naming, and the supplying captures under initiation Section 5.5.1 (no record or monograph exists yet), or the reason no monograph layer is expected;
 - [ ] day-one ledgers initialized, and only those;
 - [ ] source, conflict, and continuity rules explicit;
 - [ ] extension rule and completion gates present;
@@ -405,13 +419,14 @@ Role-gap and integration audits in this corpus have found the following repeated
 2. **Recurring observations with no cumulative home.** Character state, relationship state, claims, or voice recurred in every reading but lived only in reading prose (Section 7).
 3. **Local claim IDs with no corpus-wide crosswalk.** Each reading numbered its own claims, and nothing recorded their later disposition (Section 11).
 4. **Synthesis and validation before their inputs.** Specialist or validation documents were written before the cumulative and specialist layers they depended on (Section 14).
-5. **Thin monographs.** Monographs linked to whole readings rather than to claims and locators (Section 8).
+5. **Thin or dispersed monographs.** Monographs linked to whole readings rather than to claims and locators, or that left personality, relationships, speech or development to ledgers and studies, so the portrait had to be reassembled from other files (Section 8).
 6. **Voice built from translation.** Voice and register models were built from English summaries rather than the source language.
 7. **A narrow ledger stretched beyond its remit** to carry a dimension that needed its own home.
 8. **Ledgers created for symmetry**, copied from another project, adding maintenance without retrieval value.
 9. **State collapse.** Mature knowledge written back into early state, or character knowledge merged with reader knowledge (Section 12).
 10. **Status drift.** Frozen files still labeled mutable; an entrypoint listing files that were never accepted; supersession links that are not reciprocal; line-number anchors that drifted.
 11. **Compression on transfer.** A receiving session shortened mature analysis. Review transfers against the incoming text for lost substance; length alone is not a quality gate in either direction.
+12. **Distributed coverage as a permanent substitute.** A character whose evidence supported an individual portrait stayed spread across ledgers and specialist studies, with no recorded qualification decision or production obligation (Section 8).
 
 Hazards in architecture text itself:
 
@@ -431,3 +446,8 @@ Hazards in architecture text itself:
 - [Reasoning and model-routing policy](../source-policies/MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md): reasoning classes.
 - [Character reconstruction maintenance policy](../policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md): the evaluator that grades reconstruction capability.
 - [Change-integration checklist](../policies/CHANGE_INTEGRATION_CHECKLIST.md): authorized paths, validation, and publication.
+
+# Revision history
+
+- **1.1 — 2026-11-14:** Aligned Section 8, the sequential-reading contract, the initialization checklist and the common failures with the self-contained character monograph standard (initiation Section 5.5.1). Adds no mandatory folder, ledger or monograph.
+- **1.0 — 2026-10-24:** Initial template.
