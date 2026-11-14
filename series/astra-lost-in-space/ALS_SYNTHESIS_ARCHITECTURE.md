@@ -4,7 +4,7 @@ series: astra-lost-in-space
 artifact_id: ALS_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: ALS-G1
-version: "1.0"
+version: "1.1"
 status: canonical
 authority_scope: "INITIAL unit-mapped series architecture and derived-use pathway"
 source_boundary: "One Japanese 彼方のアストラ 全巻合本版 omnibus EPUB; internal units unverified; no narrative admission or inspection"
@@ -43,7 +43,7 @@ The state/evidence ledger preserves person/knowledge/directed/contextual samples
 |---|---|
 | 5.1 Scope/authority | §1 and current entrypoint |
 | 5.2 Source model | §2 and source/unit map; container and natural units separated |
-| 5.3 Sequential contract | Method complete-unit section; prose plus synchronized state |
+| 5.3 Sequential contract | Method complete-unit section; prose plus synchronized state; each future mapped-unit reading includes the [current-unit story synopsis](ALS_ANALYTICAL_METHOD.md#current-unit-story-synopsis), stopping at the authorized internal unit rather than the accessible omnibus boundary |
 | 5.4 Cumulative infrastructure | Typed state/evidence and claim ledgers with history |
 | 5.5 Character/relationship work | §5 and §7; source-bound earned studies/models |
 | 5.6 Specialists | §4–5; required duties and conditional independent homes |
@@ -136,6 +136,7 @@ Current indexes, entry, method and architecture are mutable by targeted changes 
 | Version | Date | Basis |
 |---|---|---|
 | 1.0 | 2026-11-07 | INITIAL one-witness/multiple-natural-unit architecture; no narrative findings |
+| 1.1 | 2026-11-13 | Prospective initiation-policy §5.3 synopsis duty linked to the method for future mapped-unit readings; internal-unit boundary, full analytical duties and CLOSED authorization boundary retained |
 
 ## 9. Owners, reasoning and transfer
 
