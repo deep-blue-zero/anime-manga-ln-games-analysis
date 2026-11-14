@@ -3,7 +3,7 @@ title: "Three Days of Happiness — Governing synthesis architecture"
 artifact_id: TDH_TDH_SYNTHESIS_ARCHITECTURE
 artifact_type: project_synthesis_architecture
 series: three-days-of-happiness
-version: "1.0"
+version: "1.1"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 scope: "Governing synthesis architecture"
@@ -101,7 +101,7 @@ New specialist infrastructure requires a recurring dimension with independent ac
 |---|---|
 | 5.1 Purpose/scope/authority | §1; entrypoint closed bootstrap boundary |
 | 5.2 Source model | Source register; method §§1–2 |
-| 5.3 Reading contract | Method §7 and §6 gates |
+| 5.3 Reading contract | Method §7 and §6 gates; future plot-bearing unit output also includes the [current-unit story synopsis](TDH_ANALYTICAL_METHOD.md#current-unit-story-synopsis), with its chapter/causal-unit boundary and prospective-freeze safeguards |
 | 5.4 Longitudinal infrastructure | Notebook section contracts; §3 matrix |
 | 5.5 Character/relationship synthesis | §5; directional State rows |
 | 5.6 Specialist synthesis | §§2–3, evidence-earned amendment test |
