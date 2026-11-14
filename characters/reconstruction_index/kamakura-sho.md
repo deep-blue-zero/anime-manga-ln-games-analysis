@@ -46,3 +46,45 @@ Recorded assessments of subjects in the `kamakura-sho` namespace of the [Charact
 - Evidence at basis commit:
   - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba293c95436e3ebba51e57b144dedb59b802d19d/series/kamakura-sho/studies/KSOA_ASUMI_OGASAWARA.md)
   - [`kamakura-sho:asumi-ogasawara@original-novel#ksoa-g1-partnership-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/ba293c95436e3ebba51e57b144dedb59b802d19d/series/kamakura-sho/studies/KSOA_PARTNERSHIP.md)
+
+### Subject `kamakura-sho:motoya-kitsukawa@original-novel`
+
+- Registry file: [`characters/reconstruction_capabilities/kamakura-sho/motoya-kitsukawa@original-novel.jsonl`](../reconstruction_capabilities/kamakura-sho/motoya-kitsukawa@original-novel.jsonl)
+
+<a id="kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01"></a>
+
+#### Assessment `kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`
+
+- Recorded status: `CANDIDATE` — **provisional; not human-reviewed**
+- Entity: `kamakura-sho:motoya-kitsukawa`
+- Scope: continuity `original-novel`
+- Source boundary: Only the subject's two curated REVIEWED items at basis\_commit, each read in full with its front matter: the canonical KSOA-G1 character monograph series/kamakura-sho/studies/KSOA\_MOTOYA\_KITSUKAWA.md and the canonical directed partnership study series/kamakura-sho/studies/KSOA\_PARTNERSHIP.md. Both are repository literary analysis of the seven Japanese publisher novels \(文春文庫\) through V07 EPI p\[0151\] and KSOA-V07-H-0015. The ledgers, deep readings, claim-revision entries and the project's reconstruction specification and readiness audit that these studies link are not curated on this subject; the ledger and reading locators cited below are quoted from the two studies as their own citations, and no claim rests on unread linked material. No primary-source inspection was performed.
+- Temporal boundary: Motoya Kitsukawa from V01 \(rank pride, independent questions about Ashina's health and the Torii article connection\) through V02 workplace verification, apology support and accepted off-duty request, V03 economic reading, evidence presentation and identified-officer stay, V04 complementary footage proposal and requested questioning lead, V05 off-duty craft interview, self-recognized attraction and arrest, V06 Mizutani omission, Kosugi and taxi alibi limits, deferral recommendation, Emiri omission and family narrative, to V07 authorized-release boundary, concealed private meeting, photograph recognition, smaller self-judgment and the private pledge at EPI p\[0135\]-p\[0151\] as endpoint. Capability states split at located changes: before V05 his attraction to Emiri is absent; within V07 his reading of Emiri's affection holds until the epilogue discloses her private relation to Izumida \(EPI p\[0087\]-p\[0143\]\), and his resolve to support Asumi is formed only at the finale and is not known to Asumi. Whether he discloses or acts on the pledge is outside the seven novels.
+- Basis commit: `6238b9e49be575ab682092ce353940d194b9c6c3`
+- Evidence set: `CHARACTER_EVIDENCE_SET_V1` `853e49b30a1b4ef185b69e1aa8a906f50da885b3f8530320a392ec6f8743765c`
+- Method: characters/RECONSTRUCTION\_CAPABILITY\_SPEC.md and governance/policies/CHARACTER\_RECONSTRUCTION\_MAINTENANCE.md at basis\_commit, applying the owner calibration rulings recorded there \(B/C boundary, single counting of uncertainty, dialogue constrained-use test, chronology splits, relationship-transfer safeguards and control-state attribution\); evidence-located calibration with countercases, explicit gaps and no model-readiness inheritance. (version `calibration-1.1.0`)
+- Overall tier: provisional `C` — specialist-supported interpretation without unconstrained simulation support
+- Scenario readiness: `DIALOGUE` CONDITIONAL; `CROSS_SCENARIO` CONDITIONAL; `MUNDANE_SOCIAL` CONDITIONAL; `ETHICAL_DELIBERATION` CONDITIONAL; `ROMANCE_RELATIONSHIP` NOT_READY; `PROFESSIONAL_CONTEXT` CONDITIONAL
+  - `DIALOGUE` condition: Use is illustrative reconstruction of a named V01-V07 state, never attributed quotation; Japanese lines presented as canon are retrieved from the witnesses.
+  - `DIALOGUE` condition: Self-reference and address follow the sampled audiences: 俺 and surname with Asumi, mock rank title in deference-protest, 吉川です in official introduction, 僕 with Nagasaka; unsampled audiences are lower confidence.
+  - `DIALOGUE` condition: Narrated hesitation is inner response; spoken lines heard by others are calmer, and an inner pledge or judgment is not voiced unless the scenario states it.
+  - `CROSS_SCENARIO` condition: Change one fact of a case, witness relationship or assignment at a time from a named state, and state it.
+  - `CROSS_SCENARIO` condition: Predict an evidence-bounded answer on authorized information but a more accommodating reading of a witness he likes; mark off-duty help and disclosure to Asumi as low confidence.
+  - `CROSS_SCENARIO` bounds: chronology One named V01-V07 state, with the V07 pre-epilogue and post-epilogue knowledge about Emiri kept apart; the V07 pledge exists only from the finale.; interlocutor Asumi as his senior partner and childhood acquaintance, a civilian witness or expert, a superior, or Sayaka as an off-duty acquaintance and journalist.; settings A comparable Japanese prefectural police investigation in a local community, with his rank as 巡査長 under a senior partner.; No cross-series settings or changed institutional roles without a stated assumption.
+  - `MUNDANE_SOCIAL` condition: Limited to off-duty or work-adjacent scenes with Asumi, Sayaka or known local figures \(meals, counters, invited help\), using the located preferences and resentment-with-help pattern.
+  - `MUNDANE_SOCIAL` condition: Family, romantic and unfamiliar social settings beyond the V06 family narrative require abstention.
+  - `ETHICAL_DELIBERATION` condition: Decisions about what case information to release, how to question a witness and whether an account needs corroboration, at a named state.
+  - `ETHICAL_DELIBERATION` condition: Whether he reports a private contact to Asumi or omits a liked witness's connection is not predicted beyond the sampled V06 and V07 cases.
+  - `PROFESSIONAL_CONTEXT` condition: Record checks, concrete follow-up questions, footage or alibi verification, evidence presentation and public-statement limits as a 巡査長 working with Asumi, at a named state.
+  - `PROFESSIONAL_CONTEXT` condition: Initiative is not fixed: he can propose and lead \(V04\) or follow a strong lead while challenging its links \(V07\); state the assignment and rank context.
+- Dimension grades: `PSYCHOLOGICAL_MODEL` C; `LONGITUDINAL_STATE` C; `VOICE_REGISTER` C; `MUNDANE_BEHAVIOR` D; `RELATIONSHIP_CONDITIONING` C; `INTERIORITY` B; `CONFLICT_BEHAVIOR` C; `ETHICAL_DELIBERATION` C; `HUMOR_PLAY` E; `SOURCE_COMPLETENESS` C; `NEGATIVE_EVIDENCE` C; `TEMPORAL_SPECIFICITY` C
+- Known limits:
+  - `accommodating-misreading` (evidence-backed limitation): He accepts liked people's accounts too readily: Emiri's distance from Nonaka \(V06\), Yakushiji's candor \(V06\) and his V07 projection, which the epilogue corrects.
+  - `deciding-conditions-unstated` (evidence gap): The studies do not say which conditions decide his off-duty help or his choice between reporting \(V06\) and concealing \(V07\) private contacts.
+  - `evidence-standard-holds` (evidence-backed limitation): Personal hope does not move his evidence standard on authorized information: in V07 he limits his answer to the authorized release, does not let a fan's assurance exclude a witness and asks for a corroborator.
+  - `pledge-unheard` (evidence-backed limitation): The V07 resolve to support Asumi is internal; Asumi cannot hear it, it is not the first instance of his care, and whether he discloses or acts on it is outside the seven novels.
+  - `romance-reading-limited` (evidence-backed limitation): A romantic reading of the partnership has limited authority; the best-supported ending is professional and interpersonal reliance with its development outside work left open.
+  - `two-short-studies` (evidence gap): The curated set is two short literary studies; no operational model, validation probe or ledger entries are curated on this subject.
+- Evidence at basis commit:
+  - [`kamakura-sho:motoya-kitsukawa@original-novel#ksoa-g1-character-monograph`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6238b9e49be575ab682092ce353940d194b9c6c3/series/kamakura-sho/studies/KSOA_MOTOYA_KITSUKAWA.md)
+  - [`kamakura-sho:motoya-kitsukawa@original-novel#ksoa-g1-partnership-study`](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/blob/6238b9e49be575ab682092ce353940d194b9c6c3/series/kamakura-sho/studies/KSOA_PARTNERSHIP.md)

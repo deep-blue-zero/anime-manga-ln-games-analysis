@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 124; `STALE` 3; `SUPERSEDED` 25
+- Recorded totals: `CANDIDATE` 126; `STALE` 2; `SUPERSEDED` 26
 
 ## Namespaces
 
@@ -25,12 +25,12 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
-| [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 1 | 1 |
+| [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 2 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
-| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 39 |
+| [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 40 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
@@ -55,6 +55,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `harmony:tuan-kirie@original-novel` | [`harmony-tuan-kirie-comparative-20261022-01`](reconstruction_index/harmony.md#harmony-tuan-kirie-comparative-20261022-01) | `CANDIDATE` | `E` | `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` |
 | `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01) | `CANDIDATE` | `C` | `ba293c95436e3ebba51e57b144dedb59b802d19d` |
+| `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `CANDIDATE` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
 | `konosuba:amaryllis@original-light-novel` | [`konosuba-amaryllis-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-amaryllis-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:angie@original-light-novel` | [`konosuba-angie-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-angie-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:aqua@original-light-novel` | [`konosuba-aqua-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-aqua-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
@@ -102,7 +103,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:endeavor@manga` | [`my-hero-academia-endeavor-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-endeavor-manga-v2-model-ledgers-20261111-01) | `SUPERSEDED` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:eri@manga` | [`my-hero-academia-eri-manga-v2-model-20261109-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-eri-manga-v2-model-20261109-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:gentle-criminal@manga` | [`my-hero-academia-gentle-criminal-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-gentle-criminal-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
-| `my-hero-academia:hawks@manga` | [`my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01) | `STALE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
+| `my-hero-academia:hawks@manga` | [`my-hero-academia-hawks-manga-v2-model-ledgers-20261114-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-hawks-manga-v2-model-ledgers-20261114-01) | `CANDIDATE` | `B` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
+| `my-hero-academia:hawks@manga` | [`my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-hawks-manga-v2-model-ledgers-20261111-01) | `SUPERSEDED` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:himiko-toga@manga` | [`my-hero-academia-himiko-toga-manga-v2-model-ledgers-20261113-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-himiko-toga-manga-v2-model-ledgers-20261113-01) | `CANDIDATE` | `C` | `9d0defd71c4005d98aad30c99a2af09bbbcca190` |
 | `my-hero-academia:himiko-toga@manga` | [`my-hero-academia-himiko-toga-manga-v2-model-ledgers-20261111-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-himiko-toga-manga-v2-model-ledgers-20261111-01) | `SUPERSEDED` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `my-hero-academia:iguchi-shuichi@manga` | [`my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-iguchi-shuichi-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
