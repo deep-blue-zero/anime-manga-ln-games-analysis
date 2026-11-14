@@ -930,6 +930,18 @@ class PhaseValidationTests(unittest.TestCase):
         path = ".github/workflows/global-index-housekeeping.yml"
         source = baseline.entries[path].data.decode("utf-8")
         routing_diff = 'git diff --quiet "${base}" origin/main -- "${generated_paths[@]}" || return 0'
+        pre_push_fetch = (
+            'git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"\n'
+            "          if main_changed_routing; then"
+        )
+        pre_push_check = (
+            '          git fetch --no-tags origin "+refs/heads/main:refs/remotes/origin/main"\n'
+            "          if main_changed_routing; then\n"
+            '            echo "FAIL: main changed routing outputs during housekeeping; incorporate current main and push again" >&2\n'
+            "            exit 1\n"
+            "          fi\n"
+        )
+        self.assertEqual(source.count(pre_push_check), 1)
         variants = [
             (source.replace('      - "studies/**"\n', "", 1),
              "housekeeping must run only after Repository audit completes on series/study branches"),
@@ -945,6 +957,12 @@ class PhaseValidationTests(unittest.TestCase):
              "global index housekeeping workflow missing contract: " + routing_diff),
             (source.replace("if main_changed_routing; then", "if false; then"),
              "global index housekeeping workflow missing contract: if main_changed_routing; then"),
+            (source.replace(pre_push_check, "", 1),
+             "global index housekeeping workflow missing contract: " + pre_push_fetch),
+            (source.replace(pre_push_check, "", 1),
+             "global index housekeeping workflow must test main_changed_routing before the gate and again before the push"),
+            (source.replace(pre_push_fetch, "          echo fetched\n", 1),
+             "global index housekeeping workflow missing contract: " + pre_push_fetch),
         ]
         for changed, expected in variants:
             with self.subTest(expected=expected):
