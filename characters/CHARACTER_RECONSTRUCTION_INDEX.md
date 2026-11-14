@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 122; `STALE` 4; `SUPERSEDED` 23
+- Recorded totals: `CANDIDATE` 122; `STALE` 4; `SUPERSEDED` 24
 
 ## Namespaces
 
@@ -31,7 +31,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 38 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
-| [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 6 |
+| [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
 | [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 3 | 3 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
@@ -124,7 +124,8 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `my-hero-academia:yaoyorozu-momo@manga` | [`my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01`](reconstruction_index/my-hero-academia.md#my-hero-academia-yaoyorozu-momo-manga-v2-model-20261110-01) | `CANDIDATE` | `C` | `5413a3571bea0467d1bc9a5d4e27940dac9c81ce` |
 | `one-punch-man:bang@manga` | [`one-punch-man-bang-manga-v04-v37-distributed-20261029-01`](reconstruction_index/one-punch-man.md#one-punch-man-bang-manga-v04-v37-distributed-20261029-01) | `CANDIDATE` | `D` | `6cab13c6799a7f6488fabbdef96804643979de08` |
 | `peach-girl:adachi-momo@manga` | [`peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01`](reconstruction_index/peach-girl.md#peach-girl-adachi-momo-manga-v01-v18-dossier-20261025-01) | `CANDIDATE` | `D` | `7a78b2072ed6a322d3c90cf0cedf511685d3e1e8` |
-| `peach-girl:aki-misao@manga` | [`peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
+| `peach-girl:aki-misao@manga` | [`peach-girl-aki-misao-manga-v01-v18-dossier-20261113-01`](reconstruction_index/peach-girl.md#peach-girl-aki-misao-manga-v01-v18-dossier-20261113-01) | `CANDIDATE` | `D` | `0bae19f328c3fdef82047e5753568fbb8478daed` |
+| `peach-girl:aki-misao@manga` | [`peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-aki-misao-manga-v01-v18-dossier-20261110-01) | `SUPERSEDED` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:kashiwagi-sae@manga` | [`peach-girl-kashiwagi-sae-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-kashiwagi-sae-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:okayasu-kairi@manga` | [`peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-kairi-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
 | `peach-girl:okayasu-ryo@manga` | [`peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01`](reconstruction_index/peach-girl.md#peach-girl-okayasu-ryo-manga-v01-v18-dossier-20261110-01) | `CANDIDATE` | `D` | `f9ec5a7e4d62af6d5abf122eb759b65bd8adcdef` |
