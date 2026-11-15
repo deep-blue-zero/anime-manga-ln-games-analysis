@@ -1,0 +1,69 @@
+{
+  "checked_at": "2026-11-12T04:25:02.984010+00:00",
+  "method": "deterministic source-return comparison; no perceptual audio/video inspection",
+  "video": [
+    {
+      "seconds": 97.665,
+      "bundle_file": "000097_subtitle-midpoint_00-01-37.665.jpg",
+      "rgb_mae_0_255": 2.0837487139917696,
+      "rgb_rmse_0_255": 3.048314019945703,
+      "same_dimensions": true,
+      "source_png_sha256": "bbfbac1c9cc6bc1ae33e949a528d362491c6c17b890d0063bd4c20296d84a437"
+    },
+    {
+      "seconds": 4085.081,
+      "bundle_file": "003747_shot-representative_01-08-05.080.jpg",
+      "rgb_mae_0_255": 2.7980714699074074,
+      "rgb_rmse_0_255": 3.729683929399402,
+      "same_dimensions": true,
+      "source_png_sha256": "ac983220a72800593eca07258089b93d340aae0a38053b59a91687e3abffeb4a"
+    },
+    {
+      "seconds": 8405.31,
+      "bundle_file": "007210_subtitle-start_02-20-05.310.jpg",
+      "rgb_mae_0_255": 1.6642507394547326,
+      "rgb_rmse_0_255": 2.211974890314232,
+      "same_dimensions": true,
+      "source_png_sha256": "25bb426bd736c244d80348a56f27f0ee954f4a27df579941386437e9e151fc7a"
+    }
+  ],
+  "audio": [
+    {
+      "seconds": 120,
+      "duration_seconds": 2.0,
+      "pearson_zero_lag": 0.9999998774552269,
+      "rmse": 0.0251357089728117,
+      "note": "FFmpeg default stereo downmix, amplitude/sample agreement only; not hearing or AV lip sync"
+    },
+    {
+      "seconds": 4200,
+      "duration_seconds": 2.0,
+      "pearson_zero_lag": 0.9999999796680944,
+      "rmse": 0.06180111691355705,
+      "note": "FFmpeg default stereo downmix, amplitude/sample agreement only; not hearing or AV lip sync"
+    },
+    {
+      "seconds": 8340,
+      "duration_seconds": 2.0,
+      "pearson_zero_lag": 0.9999998135793269,
+      "rmse": 0.02042207680642605,
+      "note": "FFmpeg default stereo downmix, amplitude/sample agreement only; not hearing or AV lip sync"
+    }
+  ],
+  "subtitle": {
+    "source_abs_stream": 16,
+    "extracted_events": 2716,
+    "stored_events": 2716,
+    "all_event_fields_equal": true,
+    "anchor_indices": [
+      1,
+      1358,
+      2716
+    ],
+    "anchor_equal": [
+      true,
+      true,
+      true
+    ]
+  }
+}

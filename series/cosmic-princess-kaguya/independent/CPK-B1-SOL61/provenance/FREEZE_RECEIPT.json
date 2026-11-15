@@ -1,0 +1,16 @@
+{
+  "freeze_id": "CPK-B1-SOL61-INDEPENDENT-V1",
+  "frozen_at_utc": "2026-11-12T04:50:06.676495+00:00",
+  "manifest_bytes": 2839,
+  "manifest_sha256": "67d16bc1a88fa6672f24c0f7cdf9c3002a0bd946aeafc8d7058c1c407d1448e7",
+  "content_tree_sha256": "9934c0f4a0309a134bea39bf62a52db8016b95291cc4e817f90b380a1cdde643",
+  "verified_files": 12,
+  "verified_total_bytes": 1187688,
+  "monograph": {
+    "path": "readings/CPK_B1_SOL61_MONOGRAPH.md",
+    "bytes": 34010,
+    "sha256": "8577bf06ded087b10bde23872e4598cba16c842c7ee5b6e753623f7ec1e89491"
+  },
+  "neutral_questions_seen": false,
+  "gemini_substance_seen": false
+}
