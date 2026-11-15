@@ -70,14 +70,14 @@ The TV copies are time-corrected Japanese broadcast captions and may condense or
 
 ## Inspection and provenance
 
-| Record | Frozen identity |
-| --- | --- |
-| Original OpenAI project tree used for comparison | `0bae19f328c3fdef82047e5753568fbb8478daed` |
-| Gemini run `RS-AV-R2-GEMINI-CARBON` analytical freeze (CP16) | `224c52786b9b5a1d5edd6ce203bfb0714305627e`, tree `e45cae165d93b70b00dba20c690f97b094e3157d` |
-| Gemini comparative audit (CP17A) | `724f8fb0fd79705fa3f1c558851d29b12dd2de1a` |
-| Gemini Track C handoff (CP18) | `98115bee1a9ce0a7e50bd83c0f38ced130cea4b8` |
+| Record | Frozen identity | Repository and retrieval scope |
+| --- | --- | --- |
+| Original OpenAI project tree used for comparison | `0bae19f328c3fdef82047e5753568fbb8478daed` | Public GitHub commit in `deep-blue-zero/anime-manga-ln-games-analysis` (project bytes match `73caf927b4ffe1c4a2ad1590d4d24b9a4a755e77`). |
+| Gemini run `RS-AV-R2-GEMINI-CARBON` analytical freeze (CP16) | `224c52786b9b5a1d5edd6ce203bfb0714305627e`, tree `e45cae165d93b70b00dba20c690f97b094e3157d` | Offline author-held local Git repository (`_rs_av_r2_gemini_carbon`); not a commit in this GitHub repository. |
+| Gemini comparative audit (CP17A) | `724f8fb0fd79705fa3f1c558851d29b12dd2de1a` | Offline author-held local Git repository (`_rs_av_r2_gemini_carbon`); not a commit in this GitHub repository. |
+| Gemini Track C handoff (CP18) | `98115bee1a9ce0a7e50bd83c0f38ced130cea4b8` | Offline author-held local Git repository (`_rs_av_r2_gemini_carbon`); not a commit in this GitHub repository. |
 
-The comparison tree and the receiving `main` at `73caf927b4ffe1c4a2ad1590d4d24b9a4a755e77` agree for this project. The `00_inventory` Markdown and JSON at CP16 identify the source objects and document Gemini's calibration. CP18's suggested inventory differed from the verified bytes at ten TV container digests, both film container digests, and twelve Japanese ASS digests. The physical witnesses and the matching CP16 identities govern this supplement. A separate TV01 reading-header discrepancy is recorded in the [erratum](../07%20Audits%20and%20Manifests/V1_STRUCTURAL_AND_CHECKSUM_ERRATUM.md#gemini-packet-corrections).
+The comparison tree and the receiving `main` at `73caf927b4ffe1c4a2ad1590d4d24b9a4a755e77` agree for this project. Under `governance/AGENT_ROUTING.md` (§4.1) and the handoff contract's sanitized-receipt rule, the standalone `RS-AV-R2-GEMINI-CARBON` workspace repository (`CP16`, `CP17A`, `CP18`) and copyrighted audiovisual media remain in the owner's local extraction/analysis archive rather than entering public Git history. Public verification therefore never relies on unretrievable commit objects alone: every canonical V2 revision is anchored to the SHA-256 witness digests and container clocks above and separated from provisional listening/meter reports and `OPEN` items in the [Protocol §5.4 reconciliation summary](../06%20Evidence%20and%20Indexes/16_ANIME_AV_RECONCILIATION_V2.md#reconciliation-summary). The `00_inventory` Markdown and JSON at CP16 identify the source objects and document Gemini's calibration. CP18's suggested inventory differed from the verified bytes at ten TV container digests, both film container digests, and twelve Japanese ASS digests. The physical witnesses and the matching CP16 identities govern this supplement. A separate TV01 reading-header discrepancy is recorded in the [erratum](../07%20Audits%20and%20Manifests/V1_STRUCTURAL_AND_CHECKSUM_ERRATUM.md#gemini-packet-corrections).
 
 Gemini reported synchronized Japanese audio and an effective native visual sampling rate of 1 fps, supplemented by targeted higher-rate frames, dedicated listening, and measurements. The local review checked digests and stream metadata, sought directly on the identified container clocks, and inspected selected frames and caption intervals. For example, TV05's scene cues, the ending chapter at `22:30.891`, and the `22:31` picture change supply distinct anchors on the same clock. The film's video offset and end tags distinguish frame positions from the subtitle tail. V2 uses those object clocks directly. Applying them to a different V1 derivative requires calibration on that derivative.
 

@@ -25,7 +25,49 @@ do_not_use_as_current_authority: false
 | Clock and precision | See the [witness clocks](../01%20Source%20Lock%20and%20Inventory/SOURCE_WITNESS_SUPPLEMENT_V2.md#verified-audiovisual-containers). Caption times locate text. Sampled frames establish their contents at the stated times. Cross-object synchronization claims require their own calibration. |
 | Sampling and authority | Gemini reported continuous Japanese audio and 1 fps native visual sampling. Direct local frame, credit, and stream checks support the observations specified below. Listening-only details retain their attribution or remain open. |
 | Knowledge boundary | Gemini froze its independent run before accessing the V1 comparison. Prior familiarity with the TV07 reveal limits the TV06 reading. |
-| Adjudication | The 22 CP18 items are routed below. Open questions include TV05's formal bout result, an exact festival date, and disputed performed wording. |
+| Adjudication | The 22 CP18 items are routed below (`37` sub-claim transitions; `required_items_unresolved: []`). Open questions include TV05's formal bout result, an exact festival date, and disputed performed wording. |
+
+### Reconciliation summary
+
+```yaml
+av_reconciliation:
+  route: BUNDLE_MEDIATED -> CONTINUOUS_AV -> BUNDLE_MEDIATED
+  av_object: "16 primary Japanese Matroska program containers (TV01-TV12, OVA01-OVA03, MOVIE; 25,842.313 s video-endpoint span) plus parallel 6-ch 5.1 film container MOVIE-MIX and 13 Japanese analysis ASS files; SHA-256 digests in ../01 Source Lock and Inventory/SOURCE_WITNESS_SUPPLEMENT_V2.md"
+  clock_offset_seconds: 0.0
+  calibration_anchors: "CP16: 10.01 s synthetic 23.976 fps / stereo sync ruler (3 flash-tone pairs), TV01 00:00-04:05 speech-to-ASS calibration window, beginning/middle/end ffprobe packet PTS anchors across TV/OVA/MOVIE containers (MOVIE video first_pts +0.021 s), and >=3 speech-onset anchors per unit across 16 units (48+ anchors; flagging TV10 +58.30 s ASS commercial-break drift). Stage 3 receiver: container stream/chapter bounds, ASS cue intervals, and 1920x1080 frame checks (including TV05 cues 268-272 and 352-355, Chapter #0:4 at 22:30.891 s, 22:31-22:32 picture cut, and 23:35 credit card)."
+  alignment_precision_seconds: 0.5
+  effective_visual_sampling: "1.000 fps native video pass (t = k + 0.46 s stride at 23.976 fps; +/-0.15 s verified speech-to-ASS alignment), supplemented by 2-4 fps frame grids and 23.976 fps frame-exact 1920x1080 stills (+/-0.042 s) on load-bearing cuts, props, and credits"
+  blind_order_achieved: true
+  queue_items: 37
+  transitions: {PRESERVE: 9, STRENGTHEN: 13, REVISE: 4, DOWNGRADE: 2, REJECT: 0, OPEN: 9}
+  new_findings_accepted: 14
+  contested_items:
+    - "REC-02 / REC-18: standalone ontological inferences from MOVIE-MIX 0:a:1 LFE silence and center-channel dialogue routing downgraded under standard theatrical post-production conventions"
+    - "REC-04: stale container and ASS digests in CP18 proposal replaced with rehashed physical witnesses matching CP16"
+    - "REC-07: CP17A cross-bout hit retracted at CP18; CP18 Futaba/Kaoruko pairing transposition at TV05 15:56 and 16:21 corrected by local frame check"
+    - "REC-08: CP17A conflation of TV05 21:57-22:03 reflection with Fly Me to the Star retracted at CP18 and verified by 22:01 frame, cues 352-355, and 22:30.891 chapter"
+    - "REC-09: CP18 3m37s delay span narrowed (~2m38s from 17:38 to 20:15.5); exact song onset, waka allusion, and address shift held OPEN"
+    - "REC-11: TV08 42.05 kg scale shot located at 02:45 (before 41.92 kg at 09:40.5) and London rank-eight board at 08:49 rather than 13:02; kidney-weight gloss held OPEN"
+    - "REC-19: CP18 TV12 letterbox locator corrected from 10:20-11:40 to 19:47 and 20:28; MOVIE 01:22:31.5 'steps past' narrowed to movement at the pink T mark"
+    - "REC-22 (with audio-only quotations in REC-10, REC-12, REC-13, REC-15, REC-21): transcript-divergence leads and uncorroborated Japanese/French transcriptions held OPEN"
+  verification_routes:
+    - "Local SHA-256 rehashing and ffprobe stream, chapter, and PTS inspection across all 17 Matroska containers and 13 Japanese ASS files"
+    - "CP18 Stage 5.2 targeted native-AV and 2-4 fps frame-grid re-inspection on TV05 (16:35-17:05, 21:10-22:45) and OVA03 (03:25-04:00)"
+    - "Stage 3 receiver unburned 1920x1080 frame, crop, credit-card, and ASS cue verification across TV02, TV03, TV05-TV12, OVA01-OVA03, and MOVIE"
+  provisional_observations:
+    - "REC-08: Gemini listening report of unpitched spoken inner narration over underscore at TV05 21:57-22:03 (corroborated visually by 22:01 closed mouth, ASS cues 352-355, and 22:30.891 chapter boundary)"
+    - "REC-17: Gemini listening report of wordless solo violin in TV07 ending (corroborated visually by blank singer credit at 23:35) and episode-by-episode Stem I-III classifications"
+    - "REC-02 / REC-18: CP18 reported dBFS channel measurements on MOVIE-MIX 0:a:1"
+    - "REC-09, REC-10, REC-11, REC-12, REC-15, REC-21, REC-22: uncorroborated Japanese and French audio-only wording and lyric-divergence proposals"
+  open_disputes:
+    - "Source-indeterminate within anime boundary: REC-05 exact 2019 festival calendar day and curtain-splice frame-exactness; REC-07 formal Claudine-Hikari Day 4 bout result; REC-08 TV05 underscore cue title; REC-20 post-credit audition production and result"
+    - "Pending dedicated listener or full-run measurement: REC-09 exact song-entry interval, waka lyric, and bare-name address; REC-10 OVA02 exact Japanese wording and TV07 reset-date details; REC-11 spoken kidney-weight gloss; REC-15 full picture-book transcription, cross-version goddess count, and OVA02 Japanese couplets; REC-17 full ED stem/onset table; REC-19 continuous TV12/MOVIE crop scan; REC-21 OVA02 exact Japanese wording and MOVIE 01:54:13 bare-name address; REC-22 seven subtitle-vs.-audio divergence leads"
+  required_items_unresolved: []
+```
+
+- **Counting convention (`22` CP18 docket entries → `37` sub-claim transitions).** Twelve docket entries bundle distinct sub-claims—for example, strengthening a visual locus while leaving an unshown outcome or uncorroborated transcription `OPEN`, or preserving a V1 lyric-relay reading while downgrading a standalone `5.1` mix inference. Counting each explicit bold transition label once per adjudicated sub-claim yields `37` transitions across all `22` entries: `PRESERVE` (`9`: `REC-02, 03, 08, 10, 14, 15, 18, 20, 21`), `STRENGTHEN` (`13`: `REC-02, 05, 06, 07, 08, 09, 11, 12, 13, 15, 17, 18, 19`), `REVISE` (`4`: `REC-01, 04, 16, 19`), `DOWNGRADE` (`2`: `REC-02, 18`), `REJECT` (`0` on V1 analytical claims; non-analytical `CHECKSUM_AUDIT.md` findings are isolated in the [V1 erratum](../07%20Audits%20and%20Manifests/V1_STRUCTURAL_AND_CHECKSUM_ERRATUM.md), and two incoming `CP17A` assertions on TV05 were retracted at `CP18`), and `OPEN` (`9`: `REC-05, 07, 09, 10, 15, 17, 20, 21, 22`, with subsidiary open notes in `REC-08`, `REC-11`, `REC-12`, `REC-13`, and `REC-19` listed in `open_disputes` rather than double-counted). `new_findings_accepted: 14` counts the `14` docket entries (`REC-04, 05, 06, 07, 08, 09, 11, 12, 13, 15, 16, 17, 18, 19`) where locally checked witness, frame, prop, signage, or credit observations entered V2.
+- **Blind-order qualification.** `blind_order_achieved: true` records that Gemini froze its `CP16` observation and unit-reading log (`corpus_exposure: false`) before opening any `V1` file or claim formulation at `CP17A`. Two explicit bounds apply: Gemini's disclosed pretraining familiarity with Daiba Nana's `TV07` loop reveal restricts `REC-01` (`TV06` `23:48.25` `今回の再演`) to retrospective foreshadowing, and `CP18`'s targeted `TV05` and `OVA03` re-inspections occurred post-exposure as bounded Stage 5.2 return checks.
+- **Required vs. optional scope (`required_items_unresolved: []`).** Every `REQUIRED` obligation for this retrospective claim-revision release—verified witness digests and clocks (`REC-04`), `TV05` Day 4 pairing/strike and narration-vs.-ED separation (`REC-07`, `REC-08`), `TV06` stinger provenance and clasp/title-card checks (`REC-01`, `REC-09`), `OVA` timeline/`99.419` signage and `OVA03` four-speaker care attribution repair (`REC-05`, `REC-16`), frame-checked `TV`/`MOVIE` props, credits, and Scope windows (`REC-06, 11, 12, 13, 17, 18, 19`), `5.1` mix-inference bounding (`REC-02, 18`), V1 core preservation (`REC-03, 10, 14, 15, 20, 21`), and the V1 structural/checksum erratum—is resolved. Remaining `OPEN` items are either genuine primary-source indeterminacies (kept open without speculative inference) or `OPTIONAL` audio/measurement enrichments on which no V2 canonical claim depends; `REC-22` and uncorroborated Japanese or French transcriptions become `REQUIRED` only before a future revision quotes those contested intervals verbatim as canonical text.
 
 ## What the two readings establish together
 
