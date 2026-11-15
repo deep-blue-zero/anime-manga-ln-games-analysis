@@ -5,8 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_ANALYTICAL_METHOD
 artifact_type: analytical_method
 generation: KSOA-G1
-version: "1.0"
+version: "1.1"
 created: "2026-11-12"
+last_updated: "2026-11-14"
 status: canonical
 scope: "Source-facing detective-fiction reading and evidence rules for the Japanese novels."
 source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
@@ -25,6 +26,14 @@ Apply this adaptation of the [generic novel method](../../governance/analytical-
 ## Start at the authorized frontier
 
 V01 through V07 are the atomic repository reading units. Within each volume, read prologue, numbered chapters and epilogue in witnessed order. Take finer scene or passage freezes immediately before a major disclosure where the distinction matters. Start with an entering record that identifies the volume, witness, authorized endpoint, previous accepted freeze, reader exposure and entering knowledge for the relevant characters. Load the prior frozen state and only prior authorized text and records. Restrict previews, search, OCR, opening links and extraction to the current interval. Use bibliographic titles for witness identity. Keep publisher summaries, adaptations, prior memories, later navigation headings, spoiler-bearing paratext and retrospective files out of the prospective working view. Log unavoidable material exposure with its affected scope. A contaminated view may support explicitly qualified retrospective work. An independent, unexposed pass is needed for a genuinely blind result.
+
+## Opening of a completed volume reading
+
+After the title, give a concise source receipt with the admitted Japanese witness, coverage and endpoint. Follow it with prior-volume developments drawn from the preceding accepted exit and earlier admitted evidence. For V01, give the entering baseline. Preserve the distinction between what the reader knows and what Asumi Ogasawara, Motoya Kitsukawa and other characters have learned.
+
+Next, present a **Current-volume story synopsis** before the extended analysis. Write connected narrative in disclosure order, from the prologue through the epilogue. Name the people who make consequential choices. Follow how the investigation changes as the detectives acquire evidence, hear competing accounts and test them. Include material developments in the detectives' work and private lives and what the ending establishes or leaves open. Cite stable links to the owning reading or ledger at consequential turns. Distinguish observed events, attributed testimony, investigative inferences and depicted institutional outcomes.
+
+Write or finalize the synopsis after the unit's prospective records are frozen. Label it as containing spoilers through the current volume and keep it out of earlier-horizon inputs. The synopsis orients a human reader. The full reading supplies the sustained interpretation, source locators, counterreadings and prospective records. For the completed KSOA-G1 volumes, the [corpus map](CURRENT_STATE_AND_CORPUS_MAP.md#accepted-readings) routes through a linked opening page for each pinned reading.
 
 ## Track three orders
 
@@ -59,4 +68,4 @@ At case close, audit each load-bearing inference at the last relevant pre-reveal
 
 The reading contains an entering boundary, complete source coverage and apparatus dispositions, a section-by-section literary argument with exact evidence references, focalization and a plausible counterreading, frozen prospective snapshots, retrospective case reconstruction and unresolved matters, character/relationship/institutional changes and warranted revisions. The owning reading records the source locators of material non-case passages. Use the [case evidence ledger](KSOA_CASE_EVIDENCE_LEDGER.md) for case evidence and investigation, the [character and relationship ledger](KSOA_CHARACTER_AND_RELATIONSHIP_LEDGER.md) for state, and the [claim revision ledger](KSOA_CLAIM_REVISION_LEDGER.md) for interpretive conclusions that need longitudinal retrieval. Include needed counterevidence and plausible alternative readings. Review important Japanese references and named subjects at their disclosure boundary.
 
-Check the entire authorized span against the witness map, link ledger deltas or explain why no delta is warranted, verify consequential locators and forward-reference boundaries, and freeze the exiting state. Update the coverage and current high-water mark with the reading and ledger changes in the same accepted unit transaction. The next volume requires a new authorization or an existing continuous run whose explicit boundary includes it.
+Check the entire authorized span against the witness map, link ledger deltas or explain why no delta is warranted, verify consequential locators and forward-reference boundaries, and freeze the exiting state. Review the opening synopsis for fidelity to the unit's sequence, named subjects, pivotal evidence and actual outcomes at that exit. Update the coverage and current high-water mark with the reading and ledger changes in the same accepted unit transaction. The next volume requires a new authorization or an existing continuous run whose explicit boundary includes it.
