@@ -30,6 +30,29 @@ Reviewed analysis subjects in the `shiboyugi` namespace of the [Character Analys
 - Reviewed current evidence:
   - [`shiboyugi-airi-monograph` — Airi standalone character monograph (SBY-P011)](../../series/shiboyugi/characters/SHIBOYUGI_AIRI_MONOGRAPH.md)
 
+<a id="beniya"></a>
+
+### Beniya
+
+- Entity ID: `shiboyugi:beniya`
+- Entity aliases:
+  - 紅野 (ja, ORIGINAL_SCRIPT) — Playing name, read ベニヤ.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:beniya@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `beniya-scope`: LIGHT_NOVEL OTHER: Dedicated V01 Ghost House portrait: a debt she names as her own with business details withheld, interest in how the games make money, reasoning about designed accommodations at the hexagon, preferential delivery of the keys to Momono, collapse at the implication of bodily modification and Momono's reciprocal care, reading the one-use lift notice, demanding proof of repair, plans to study for another game, polite and business register, and her last observed position alive at the open exit. Her passage out and later life are unestablished.; continuity `japanese-light-novels`
+  - `beniya-volumes`: LIGHT_NOVEL VOLUME 1; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-beniya-monograph` — Beniya standalone character monograph (SBY-P005)](../../series/shiboyugi/characters/SHIBOYUGI_BENIYA_MONOGRAPH.md)
+
 <a id="hakushi"></a>
 
 ### Hakushi
@@ -54,6 +77,75 @@ Reviewed analysis subjects in the `shiboyugi` namespace of the [Character Analys
 - Reviewed current evidence:
   - [`shiboyugi-hakushi-monograph` — Hakushi standalone character monograph (SBY-P007)](../../series/shiboyugi/characters/SHIBOYUGI_HAKUSHI_MONOGRAPH.md)
 
+<a id="kinko"></a>
+
+### Kinko
+
+- Entity ID: `shiboyugi:kinko`
+- Entity aliases:
+  - 金子 (ja, ORIGINAL_SCRIPT, ambiguous) — Playing name, read キンコ. The same characters, read かねこ, are her father Kaneko Tsutomu's surname.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:kinko@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kinko-scope`: LIGHT_NOVEL OTHER: Dedicated portrait: her stated choice to repay her parents' debt, the Ghost House food test and search alternatives, the hexagon and the loss of her right hand, her apologies after Aoi's death, the offer to be left at the lift and her return after Yūki's concrete reason, the exit conversation about life after repayment, polite written register under strain, and Yūki killing her at the last door; V02 adds her father's account of the failed family business. Civil given name, recruiter and ordinary habits are unknown; P002 Kinko is distinct from P021 Kaneko Tsutomu.; continuity `japanese-light-novels`
+  - `kinko-volumes`: LIGHT_NOVEL VOLUME 1, 2; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-kinko-monograph` — Kinko standalone character monograph (SBY-P002)](../../series/shiboyugi/characters/SHIBOYUGI_KINKO_MONOGRAPH.md)
+
+<a id="kokutou"></a>
+
+### Kokutō
+
+- Entity ID: `shiboyugi:kokutou`
+- Entity aliases:
+  - 黒糖 (ja, ORIGINAL_SCRIPT) — Playing name, read コクトー.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:kokutou@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `SPEECH`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kokutou-scope`: LIGHT_NOVEL OTHER: Dedicated V01 Ghost House portrait: her second entry after two years, deference to Yūki's experience with a challenge to novice survival odds and to the offered terms of help, her claim that hourly work also converts life into money, courtesy toward Momono, mixed polite and colloquial register, and the discovery of the key under the platter and her death in retrieving it. Her inner state at the fatal moment, life outside the game and relationships are expressly unavailable, so psychology and relationships are not claimed.; continuity `japanese-light-novels`
+  - `kokutou-volumes`: LIGHT_NOVEL VOLUME 1; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-kokutou-monograph` — Kokutō standalone character monograph (SBY-P003)](../../series/shiboyugi/characters/SHIBOYUGI_KOKUTOU_MONOGRAPH.md)
+
+<a id="kyara"></a>
+
+### Kyara
+
+- Entity ID: `shiboyugi:kyara`
+- Entity aliases:
+  - 伽羅 (ja, ORIGINAL_SCRIPT) — Playing name.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:kyara@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `kyara-scope`: LIGHT_NOVEL OTHER: Dedicated portrait: the household sheltering Shion, Moegi and Hizumi (V04, through Shion), the stated exception for Moegi, the Candle Woods encounter in which she explains her killing as enduring anger and places responsibility on her environment, her preparation and bodily modification, interest in Yūki's vow and her actual death (V01); V03 and V10 give later reception and influence (Hizumi, Etsusei's staging, Airi's recollection) without new action by her. Civil identity, occupation and romance are unrecovered.; continuity `japanese-light-novels`
+  - `kyara-volumes`: LIGHT_NOVEL VOLUME 1, 3, 4, 10; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-kyara-monograph` — Kyara standalone character monograph (SBY-P009)](../../series/shiboyugi/characters/SHIBOYUGI_KYARA_MONOGRAPH.md)
+
 <a id="maguma"></a>
 
 ### Maguma
@@ -77,6 +169,52 @@ Reviewed analysis subjects in the `shiboyugi` namespace of the [Character Analys
   - `maguma-scope`: LIGHT_NOVEL OTHER: Dedicated portrait with route evidence from V03, V07 and V08–V10: solitary play at Cloudy Beach, Haunted Residence, her former Red Bear group and Botan, the boundary with Shiro's organization, two ways of cooperating with Airi on Jamboree Ship through the rescue, and her rough written register. Her body's future, ordinary work and intimacy remain open.; continuity `japanese-light-novels`
 - Reviewed current evidence:
   - [`shiboyugi-maguma-monograph` — Maguma standalone character monograph (SBY-P033)](../../series/shiboyugi/characters/SHIBOYUGI_MAGUMA_MONOGRAPH.md)
+
+<a id="moegi"></a>
+
+### Moegi
+
+- Entity ID: `shiboyugi:moegi`
+- Entity aliases:
+  - 萌黄 (ja, ORIGINAL_SCRIPT) — Playing name, read モエギ.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:moegi@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `ETHICS`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `moegi-scope`: LIGHT_NOVEL OTHER: Dedicated portrait: sixteen and in her third game at Candle Woods, her pursuit of 実行力 learned from Kyara, coercive training of the novice hunters and her self-assigned responsibility for three deaths, diagnosing Kyara's presence from Airi's report, killing Hikawa as scarcity grows, defeat and death against Yūki; V04 adds Shion's account of Kyara's household and Moegi's repeated wish to make her own desires prevail. Written register and rendered thought only; family loss, schooling and romance are unknown.; continuity `japanese-light-novels`
+  - `moegi-volumes`: LIGHT_NOVEL VOLUME 1, 4; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-moegi-monograph` — Moegi standalone character monograph (SBY-P008)](../../series/shiboyugi/characters/SHIBOYUGI_MOEGI_MONOGRAPH.md)
+
+<a id="momono"></a>
+
+### Momono
+
+- Entity ID: `shiboyugi:momono`
+- Entity aliases:
+  - 桃乃 (ja, ORIGINAL_SCRIPT) — Playing name, read モモノ.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:momono@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `momono-scope`: LIGHT_NOVEL OTHER: Dedicated V01 Ghost House portrait: her report of deceptive recruitment, visible fear and proposals for less dangerous methods, receipt of the keys from Beniya, her question about Aoi's body and comfort of the shaken Beniya, holding Yūki's hand at the lift and then assenting, practical help to Yūki with the lift, hesitant written register, and her last observed position alive at the open exit. Her passage out, civil identity and later life are unestablished.; continuity `japanese-light-novels`
+  - `momono-volumes`: LIGHT_NOVEL VOLUME 1; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-momono-monograph` — Momono standalone character monograph (SBY-P004)](../../series/shiboyugi/characters/SHIBOYUGI_MOMONO_MONOGRAPH.md)
 
 <a id="setsuna"></a>
 
@@ -126,6 +264,29 @@ Reviewed analysis subjects in the `shiboyugi` namespace of the [Character Analys
   - `shiro-scope`: LIGHT_NOVEL OTHER: Dedicated portrait with route evidence from V05 and V07–V10: Royal Palace, the Mine Forest conversation, the Mikkai household and its reciprocal and coercive recruitment, the Awahime dispute, the succession reward and alternatives, her intervention for Airi in V10 and the bounded last sighting, and audience-dependent register. Her terminal outcome and private life are left open.; continuity `japanese-light-novels`
 - Reviewed current evidence:
   - [`shiboyugi-shiro-monograph` — Shiro standalone character monograph (SBY-P054)](../../series/shiboyugi/characters/SHIBOYUGI_SHIRO_MONOGRAPH.md)
+
+<a id="sumiyaka"></a>
+
+### Sumiyaka
+
+- Entity ID: `shiboyugi:sumiyaka`
+- Entity aliases:
+  - 墨家 (ja, ORIGINAL_SCRIPT) — Playing name, read スミヤカ.
+
+#### Subject: Japanese light-novel continuity
+
+- Analysis subject ID: `shiboyugi:sumiyaka@light-novel`
+- Series: `shiboyugi`
+- Continuity: `japanese-light-novels`
+- Inclusion basis: `DEDICATED`
+- Analytical dimensions: `BEHAVIOR`, `PSYCHOLOGY`, `SPEECH`, `RELATIONSHIPS`, `DECISION_MAKING`
+- Subject aliases:
+  - _None._
+- Analytical coverage:
+  - `sumiyaka-scope`: LIGHT_NOVEL OTHER: Dedicated V01 Candle Woods portrait concentrated in one occasion: her reported twenty-ninth game and fear of the Wall of Thirty, playful and then candid contact with Yūki, acceptance of Hakushi's no-interrogation instruction, a qualified technical answer, noticing the missing caramel-haired player, and her directly attested death with the killer inferred. Ordinary habits, civil life and intimate history are unobserved; the relationship evidence is one peer relation with Yūki.; continuity `japanese-light-novels`
+  - `sumiyaka-volumes`: LIGHT_NOVEL VOLUME 1; continuity `japanese-light-novels`
+- Reviewed current evidence:
+  - [`shiboyugi-sumiyaka-monograph` — Sumiyaka standalone character monograph (SBY-P010)](../../series/shiboyugi/characters/SHIBOYUGI_SUMIYAKA_MONOGRAPH.md)
 
 <a id="yuuki"></a>
 

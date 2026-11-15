@@ -43,7 +43,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`re-zero`](characters/index/re-zero.md) | 28 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
-| [`shiboyugi`](characters/index/shiboyugi.md) | 6 |
+| [`shiboyugi`](characters/index/shiboyugi.md) | 13 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
 | [`shokugeki-no-soma`](characters/index/shokugeki-no-soma.md) | 17 |
 | [`shuukura`](characters/index/shuukura.md) | 5 |
@@ -119,6 +119,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Beatrice](characters/index/blue-archive.md#beatrice) | Blue Archive game | `blue-archive:beatrice@game` | — |
 | [Beatrice](characters/index/re-zero.md#beatrice) | Re:Zero main light novel | `re-zero:beatrice@light-novel` | — |
 | [Beldia](characters/index/konosuba.md#beldia) | Original light-novel continuity, scoped current monograph | `konosuba:beldia@original-light-novel` | ベルディア |
+| [Beniya](characters/index/shiboyugi.md#beniya) | Japanese light-novel continuity | `shiboyugi:beniya@light-novel` | 紅野 |
 | [Benno](characters/index/ascendance-of-a-bookworm.md#benno) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:benno@light-novel` | — |
 | [Big Johnny](characters/index/to-be-hero-x.md#big-johnny) | To Be Hero X animated series | `to-be-hero-x:big-johnny@animated-series` | — |
 | [Black Suit](characters/index/blue-archive.md#black-suit) | Blue Archive game | `blue-archive:black-suit@game` | — |
@@ -312,12 +313,14 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kibe](characters/index/rent-a-girlfriend.md#kibe) | Main manga continuity | `rent-a-girlfriend:kibe@manga` | — |
 | [Kikuchi Fuka](characters/index/tomozaki.md#kikuchi-fuka) | Bottom-Tier Character Tomozaki light novel | `tomozaki:kikuchi-fuka@light-novel` | — |
 | [King of Bridol](characters/index/konosuba.md#bridol-king) | Original light-novel continuity, bounded character study | `konosuba:bridol-king@original-light-novel` | — |
+| [Kinko](characters/index/shiboyugi.md#kinko) | Japanese light-novel continuity | `shiboyugi:kinko@light-novel` | 金子 |
 | [Kirishima Eijiro](characters/index/my-hero-academia.md#kirishima-eijiro) | My Hero Academia manga | `my-hero-academia:kirishima-eijiro@manga` | — |
 | [Kobayakawa Sae](characters/index/the-idolmaster.md#kobayakawa-sae) | Cinderella Girls mobile games | `the-idolmaster:kobayakawa-sae@cinderella-girls-mobile-games` | — |
 | [Kobayashi Rindō](characters/index/shokugeki-no-soma.md#kobayashi-rindo) | Shokugeki no Soma manga | `shokugeki-no-soma:kobayashi-rindo@manga` | — |
 | [Kohane](characters/index/project-sekai.md#kohane) | Project SEKAI game — Vivid BAD SQUAD | `project-sekai:kohane@game` | — |
 | [Koharu](characters/index/blue-archive.md#koharu) | Blue Archive game | `blue-archive:koharu@game` | — |
 | [Kokuriko](characters/index/blue-archive.md#kokuriko) | Blue Archive game | `blue-archive:kokuriko@game` | — |
+| [Kokutō](characters/index/shiboyugi.md#kokutou) | Japanese light-novel continuity | `shiboyugi:kokutou@light-novel` | 黒糖 |
 | [Komekko](characters/index/konosuba.md#komekko) | Original light-novel continuity, bounded character study | `konosuba:komekko@original-light-novel` | こめっこ |
 | [Komiyama Ai](characters/index/idoly-pride.md#komiyama-ai) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:komiyama-ai@v2-cross-media` | — |
 | [Konno Erika](characters/index/tomozaki.md#konno-erika) | Bottom-Tier Character Tomozaki light novel | `tomozaki:konno-erika@light-novel` | 紺野エリカ |
@@ -330,6 +333,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Kurogane Ren](characters/index/shine-post.md#kurogane-ren) | SHINE POST television anime | `shine-post:kurogane-ren@television-anime` | — |
 | [Kurokiba Ryō](characters/index/shokugeki-no-soma.md#kurokiba-ryo) | Shokugeki no Soma manga | `shokugeki-no-soma:kurokiba-ryo@manga` | — |
 | [Kurusu Kanako](characters/index/oreimo.md#kurusu-kanako) | Oreimo original light novels | `oreimo:kurusu-kanako@original-light-novels` | — |
+| [Kyara](characters/index/shiboyugi.md#kyara) | Japanese light-novel continuity | `shiboyugi:kyara@light-novel` | 伽羅 |
 | [Kyoichi Otomo](characters/index/cornered-mouse.md#kyoichi-otomo) | Japanese manga continuity | `cornered-mouse:kyoichi-otomo@manga` | 大伴恭一 |
 | [Kyouka](characters/index/maebashi-witches.md#kyouka) | Maebashi Witches anime | `maebashi-witches:kyouka@anime` | — |
 | [Kōenji Rokusuke](characters/index/classroom-of-the-elite.md#koenji-rokusuke) | Classroom of the Elite original light novels through Year 2 | `classroom-of-the-elite:koenji-rokusuke@original-light-novels-through-year-2` | — |
@@ -398,9 +402,11 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Mizuki](characters/index/project-sekai.md#mizuki) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mizuki@game` | — |
 | [Mizusawa Takahiro](characters/index/tomozaki.md#mizusawa-takahiro) | Bottom-Tier Character Tomozaki light novel | `tomozaki:mizusawa-takahiro@light-novel` | — |
 | [Moe](characters/index/blue-archive.md#moe) | Blue Archive game | `blue-archive:moe@game` | — |
+| [Moegi](characters/index/shiboyugi.md#moegi) | Japanese light-novel continuity | `shiboyugi:moegi@light-novel` | 萌黄 |
 | [Momiji Nozomi](characters/index/chiramune.md#momiji-nozomi) | Chiramune light novel | `chiramune:momiji-nozomi@light-novel` | — |
 | [Momo Adachi](characters/index/peach-girl.md#adachi-momo) | Japanese manga | `peach-girl:adachi-momo@manga` | 安達もも; Adachi Momo |
 | [Momoi](characters/index/blue-archive.md#momoi) | Blue Archive game | `blue-archive:momoi@game` | — |
+| [Momono](characters/index/shiboyugi.md#momono) | Japanese light-novel continuity | `shiboyugi:momono@light-novel` | 桃乃 |
 | [Motoya Kitsukawa](characters/index/kamakura-sho.md#motoya-kitsukawa) | Original Japanese novel continuity | `kamakura-sho:motoya-kitsukawa@original-novel` | きつかわ もとや; 吉川元哉 |
 | [Mutsuki](characters/index/blue-archive.md#mutsuki) | Blue Archive game | `blue-archive:mutsuki@game` | — |
 | [Myne](characters/index/ascendance-of-a-bookworm.md#myne) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:myne@light-novel` | — |
@@ -546,6 +552,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Succubus leader (MASK)](characters/index/konosuba.md#mask-succubus-leader) | Original light-novel continuity, bounded character study | `konosuba:mask-succubus-leader@original-light-novel` | — |
 | [Sumi Sakurasawa](characters/index/rent-a-girlfriend.md#sumi-sakurasawa) | Main manga continuity | `rent-a-girlfriend:sumi-sakurasawa@manga` | — |
 | [Sumire](characters/index/blue-archive.md#sumire) | Blue Archive game | `blue-archive:sumire@game` | — |
+| [Sumiyaka](characters/index/shiboyugi.md#sumiyaka) | Japanese light-novel continuity | `shiboyugi:sumiyaka@light-novel` | 墨家 |
 | [Sung Jinwoo](characters/index/solo-leveling.md#sung-jinwoo) | Solo Leveling original Korean novel | `solo-leveling:sung-jinwoo@original-korean-novel` | — |
 | [Suou](characters/index/blue-archive.md#suou) | Blue Archive game | `blue-archive:suou@game` | Asagiri Suou |
 | [Suzuki Chiho](characters/index/konosuba.md#suzuki-chiho) | Edited TRPG replay continuity, bounded character study | `konosuba:suzuki-chiho@trpg-edited-replay` | スズキ・チホ; チホ |
