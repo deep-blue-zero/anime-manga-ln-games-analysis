@@ -4,7 +4,7 @@ artifact_id: T7S_ANALYTICAL_METHOD
 artifact_type: analytical_method
 series: Tokyo 7th Sisters
 generation: V1
-version: "1.5"
+version: "1.6"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -13,7 +13,7 @@ do_not_use_as_literary_evidence: true
 source_boundary: "c20260909-r484; governing method applied through the exact T7S_B0001–T7S_B0079 horizon; no 2053 or other unadmitted story source"
 architecture_lifecycle: EVOLVING
 created: 2026-09-09
-last_updated: 2026-10-27
+last_updated: 2026-11-14
 ---
 
 # Tokyo 7th Sisters analytical method
@@ -93,6 +93,10 @@ Every substantive block must preserve the starting situation; participants and i
 Use event IDs such as `EV-B0001-001`, independent of diegetic time. Every load-bearing event assertion has a locator or bounded evidence range. Distinguish an explicit cause from a participant's explanation and from an analyst's inference. Preserve uncertainty over participants, offscreen causes, and time. A summary such as “the group grows closer” is insufficient when the source establishes specific actions, misreadings, and repair.
 
 The narrative portion uses `SOURCE-ESTABLISHED NARRATIVE FACT` and separately tagged `ANALYTICAL INFERENCE`; thematic arguments use `THEMATIC INTERPRETATION`. A reported belief is a fact about that report, not necessarily a fact about the world. Interpretive rejection must leave the factual sequence independently usable.
+
+**Current-unit story synopsis (from T7S_B0260).** Put a section titled **Current-unit story synopsis** near the front of each plot-bearing deep reading. Give brief source and entering-state context, then explain what happens in connected prose before the extended analysis and ledger inventories. Cover the opening situation, main participants and stakes, actions and decisions, changes in what people know, turning points and the state at the end. Describe concrete scene and physical-event mechanics where the source establishes them. Use retrievable native episode/page locators or stable evidence references for material events. Attribute reports, beliefs and disputed accounts to their speakers and name the outcomes that remain open.
+
+Finalize the synopsis after freezing the applicable prospective captures. It may reveal the current unit’s ending. Share it only at the unit’s closing knowledge horizon. It gives readers an orientation alongside the detailed reconstruction, interpretation and cumulative handoff. Use the detail the material needs. Preserve each portfolio case’s own sequence and any uncertainty about its placement. For a genuinely non-narrative pass, record why a story synopsis is inapplicable.
 
 **End-of-block handoff: “What is now true that was not true before?”**
 
@@ -245,3 +249,5 @@ Future ingestion is question-driven: an official lyric edition to resolve a vari
 - 2026-09-13 — V1 / 1.3: apply the unchanged governing method through the complete T7S_B0076 / EPISODE 6.0 horizon; preserve the EPISODE NANASUTA and 2053 semantic boundaries.
 - 2026-09-13 — V1 / 1.4: apply the unchanged governing method through complete T7S_B0079 / EPISODE NANASUTA; record the corrected route and all-eleven-Main-family closure while retaining the incomplete 2034-era-release and blocked 2053 semantic boundaries.
 - 2026-10-27 — V1 / 1.5: add the reading front-matter template carrying the complete authority quartet after T7S_B0184–T7S_B0187 closed with incomplete quartets; the governing method and every analytical boundary are unchanged.
+
+- 2026-11-14 — V1 / 1.6 — Adopt the current-unit story synopsis for plot-bearing deep readings from T7S_B0260. The synopsis follows the unit’s prospective freezes and uses its own admitted evidence.
