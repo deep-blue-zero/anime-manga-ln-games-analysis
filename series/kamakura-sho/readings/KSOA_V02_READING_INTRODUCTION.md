@@ -5,9 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_V02_READING_INTRODUCTION
 artifact_type: volume_story_synopsis
 generation: KSOA-G1
-version: "1.1"
+version: "1.2"
 created: "2026-11-14"
-last_updated: "2026-11-14"
+last_updated: "2026-11-15"
 status: active_provisional
 scope: "Reader orientation for the completed V02 reading and its narrative developments."
 source_boundary: "Admitted Japanese EPUBs through V02 EPI p[0087] and KSOA-V02-H-0015."
@@ -37,9 +37,9 @@ On the Yuigahama shore an unnamed speaker weighs an act that already seems irrev
 
 Asumi and Motoya walk the hall and test who knew the stage layout and the program. Aiki explains that Keiichi Shiina's piano concerto, the second piece, required the stage extension that displaced Miura's seat during the first. Musicians and staff knew the arrangement from rehearsal. Hall manager Endō's account covers staff roles rather than what everyone did on Friday. The access record supplies an unexplained interval between two better-understood security events. Asumi apologizes to Yura for the earlier questioning. Yura explains that Miura mentored him and translated conductor Yoshihisa Satomi's abstract directions into cues the orchestra could follow. Sōsuke Ishikawa, who handles finances, describes the orchestra's revival under Satomi and the possibility that Miura would succeed him, with Satomi's daughter Ayane taking the concertmaster's chair. [The hall and security record](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0006) · [Yura's account](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0007) · [Ishikawa and succession](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0008)
 
-Satomi confirms that he had wanted Miura to succeed him and says the death has ended his own conducting. Ayane handles much of the interview while protecting her father. Shiina, Satomi's former pupil, is distressed to hear that Satomi will never conduct his concerto. Retired conductor Takao Mibu tells them that Michito's father, Michiyasu Miura, lost his position abroad and that Satomi later supported Michito's training. Asumi sees devotion. Motoya wonders why it lasted so long. The two make another appointment with Satomi to find out what he and Ayane have been keeping private. [First Satomi interview](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0009) · [Shiina's interview](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0010) · [Mibu's account of Michiyasu](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0011)
+Satomi confirms that he had wanted Miura to succeed him and says the death has ended his own conducting. Ayane handles much of the interview while protecting her father. Shiina, Satomi's former pupil, is visibly moved to hear that Satomi's one regret was not conducting his concerto. He says he had taken Satomi's silence at the rehearsal as disapproval. Retired conductor Takao Mibu tells them that Michito's father, Michiyasu Miura, lost his position abroad and that Satomi later supported Michito's training. Asumi sees devotion. Motoya wonders why it lasted so long. The two make another appointment with Satomi to find out what he and Ayane have been keeping private. [First Satomi interview](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0009) · [Shiina's interview](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0010) · [Mibu's account of Michiyasu](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0011)
 
-At the second interview Asumi plays music without warning and draws attention to Satomi's hearing loss. Satomi shows his hearing aid and explains how he used Miura's bow as a signal while conducting. Ayane describes her transcription support and objects to Asumi's test. Motoya corroborates what he saw and joins a qualified undertaking about confidentiality. Ayane says Ishikawa admitted diverting orchestra funds after Satomi confronted him. She later files a complaint about Asumi, and the police separately take up the financial allegation. [Second Satomi interview](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0012)
+At the second interview Asumi plays music without warning and draws attention to Satomi's hearing loss. Satomi shows his hearing aid and explains how he used Miura's bow as a signal while conducting. Ayane explains that his glasses are a prototype that turns nearby speech into text projected onto his retina, and that she restated questions so the microphone could catch them. She objects to Asumi's test. Motoya corroborates what he saw and joins a qualified undertaking about confidentiality. Ayane says Ishikawa admitted diverting orchestra funds after Satomi confronted him. She agrees to file a victim's report (被害届) of Ishikawa's embezzlement if the detectives keep their promise. She also says Shiina had noticed the hearing loss at the recent rehearsal of his concerto and had been told the truth. The station's fraud squad then accepts her complaint and opens a case. [Second Satomi interview](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0012)
 
 When officers arrive with the financial warrant, Ishikawa runs and attacks Asumi. After the arrest, Motoya confirms that Ishikawa used to work at the hall. Ishikawa admits setting up and triggering the fatal device but says Satomi was his target. He recalls going to the shore afterward, giving the anonymous prologue a plausible speaker. The access and purchase evidence support his presence and preparation, while the middle security interval remains unexplained. Nikaidō proceeds on a single-actor theory and the special team dissolves. Asumi keeps following the discrepancy. She calls Motoya back to the hall, reminding him that she once stood up for him against a bully. [Ishikawa's account](KSOA_V02_DEEP_READING.md#ksoa-v02-h-0013)
 
@@ -50,3 +50,10 @@ Back at the shore Asumi tells Motoya what it felt like to take Shiina in after h
 ## 4. Continue the deep reading
 
 Read the [full V02 deep reading](KSOA_V02_DEEP_READING.md) for the prose analysis, source locators, counterreadings and frozen records.
+
+## Revision note (2026-11-15)
+
+Version 1.2 corrects the synopsis against the Japanese witness, following the adjudicated KSOA-CB1 reconciliation (`audits/KSOA_CB1_COMPARISON/ADJ_A.md`, `ADJ_D.md`). Corrections to the frozen reading are in the [deep reading errata](../audits/KSOA_DEEP_READING_ERRATA.md#v02-errata).
+- Shiina is visibly moved, not distressed, and gives Satomi's silence at the rehearsal as his reason for fearing disapproval. Ayane's report that he already knew of the hearing loss is added [V02 C02 p0890–p0900; C03 p0494] (KCMP-V02-004).
+- Satomi's glasses are a speech-to-text prototype. Ayane restated questions for its microphone; she did not transcribe [V02 C03 p0390, p0398, p0405, p0412] (KCMP-V02-003).
+- Ayane's filing is a victim's report (被害届) of Ishikawa's embezzlement, made on condition that the detectives keep their promise. It is neither a formal criminal complaint (告訴) nor a complaint about Asumi [V02 C03 p0480–p0482, p0525] (KCMP-V02-002; KCMP-CHAR-013).

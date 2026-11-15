@@ -5,9 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_V04_READING_INTRODUCTION
 artifact_type: volume_story_synopsis
 generation: KSOA-G1
-version: "1.2"
+version: "1.3"
 created: "2026-11-14"
-last_updated: "2026-11-14"
+last_updated: "2026-11-15"
 status: active_provisional
 scope: "Reader orientation for the completed V04 reading and its narrative developments."
 source_boundary: "Admitted Japanese EPUBs through V04 EPI p[0137] and KSOA-V04-H-0015."
@@ -35,7 +35,7 @@ The cases through V03 have taught Asumi and Motoya that a first account can expl
 
 The prologue begins with a couple's last decision in a snowy bamboo garden. An end title reveals that the scene belongs to an old film, *Snow at the Bamboo Temple*. Nonfiction writer Fuyuhiko Akao rewinds the image in a private screening room and stops on the left wrist of the woman on screen. He says he means to show what he has seen. Someone comes up behind him and attacks him. [Prologue](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0001)
 
-Akao is found dead in the screening room at the Sekigawa memorial on April 10. Weeks later the police have a homicide, accounts placing the dinner party at the main house and little help from the gate camera. Yoshio Satake sends Asumi and Motoya to question the family again. Echika (恵智花, rendered “Kechika” in the linked deep reading) says Akao was writing a centenary biography of actor Yōsuke Sekigawa with the support of her aunt Yūko, who is in hospital. Akao interviewed director Hongō at dinner and asked to check something in Sekigawa's film. Teranishi set up the enhanced Blu-ray. A recording places Akao alive a little after seven. When he stops responding, the group retrieves the usual key from a drawer and finds him behind the locked door. The discovery fixes when the group entered and leaves open who could get in earlier. [Renewed inquiry](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0002) · [Screening and discovery](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0003)
+Akao is found dead in the screening room at the Sekigawa memorial on April 10. Weeks later the police have a homicide, accounts placing the dinner party at the main house and little help from the gate camera. Yoshio Satake sends Asumi and Motoya to question the family again. Echika (恵智花, えちか; the linked deep reading's “Kechika” is corrected by erratum [KSOA-ERR-V04-001](../audits/KSOA_DEEP_READING_ERRATA.md#ksoa-err-v04-001)) says Akao was writing a centenary biography of actor Yōsuke Sekigawa with the support of her aunt Yūko, who is in hospital. Akao interviewed director Hongō in the drawing room from about four to six, then asked to check something in Sekigawa's film in the memorial screening room. Hongō and Echika dined from about half past six without him. Teranishi set up the enhanced Blu-ray. A recording places Akao alive a little after seven. When he stops responding, the group retrieves the usual key from a drawer and finds him behind the locked door. The discovery fixes when the group entered and leaves open who could get in earlier. [Renewed inquiry](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0002) · [Screening and discovery](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0003)
 
 At the memorial Asumi notices jewelry in the photographs. The film turns out to be the final picture of Akiko Shichijō, who played Michiyo Mochizuki. Asumi and Motoya watch a streaming version without spotting the clue. Tadashi Torii, the editor from V01, says Akao's unfinished biography broke off at this film. Satake lets them follow that thread while the team continues its inquiries into Akao. Hongō describes Sekigawa's work and how the film made its snow and bamboo garden, and supplies a route to Shichijō. A hospital restriction keeps the detectives from interviewing Yūko. Actor Teiichi Hachiya tells them what she has said about Sekigawa as a father and gives a Tokyo party as his alibi. [The memorial and film](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0004) · [Torii and the manuscript](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0005) · [Hongō](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0006) · [Hachiya](KSOA_V04_DEEP_READING.md#ksoa-v04-h-0007)
 
@@ -52,3 +52,9 @@ In the epilogue Yūko has died and Motoya is finishing the paperwork. He and Asu
 ## 4. Continue the deep reading
 
 Read the [full V04 deep reading](KSOA_V04_DEEP_READING.md) for the prose analysis, source locators, counterreadings and frozen records.
+
+## Revision note (2026-11-15)
+
+Version 1.3 corrects the synopsis against the Japanese witness, following the adjudicated KSOA-CB1 reconciliation (`audits/KSOA_CB1_COMPARISON/ADJ_B.md`). Corrections to the frozen reading are in the [deep reading errata](../audits/KSOA_DEEP_READING_ERRATA.md#v04-errata).
+- Akao interviewed Hongō in the drawing room from about four to six, not at dinner; Hongō and Echika dined from about half past six without him [V04 C01 p0306, p0311, p0320; C02 p0163] (KCMP-V04-014).
+- The note on Echika's name now points to the erratum that corrects the deep reading's “Kechika” [V04 C01 p0150] (KCMP-V04-007; KCMP-SERIES-010).

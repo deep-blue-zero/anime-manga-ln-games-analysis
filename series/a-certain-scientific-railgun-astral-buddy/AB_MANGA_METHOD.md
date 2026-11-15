@@ -3,7 +3,7 @@ title: "A Certain Scientific Railgun: Astral Buddy — Governing manga method"
 artifact_id: AB_MANGA_METHOD
 artifact_type: project_manga_analytical_method
 series: a-certain-scientific-railgun-astral-buddy
-version: "1.1"
+version: "1.2"
 generation: INITIAL_BOOTSTRAP
 status: canonical
 authority_scope: initial_project_design_only
@@ -59,7 +59,7 @@ Use `PRESERVE/STRENGTHEN/REVISE/DOWNGRADE/REJECT/OPEN`. Keep prior formulation, 
 
 ## 6. Acceptance and handoff
 
-Each future reading delivers exact coverage/witness receipt; entering state/exposure; full factual causal reconstruction; sustained interpretation with visual/Japanese evidence; named character, directional relationship and knowledge changes; ordinary-life cases; counterreadings; claims and exit state; and a transaction listing every required cumulative/source update or explicit reviewed/no-supported-change outcome. No fixed length cap governs the argument. Locator tables, checkpoint synopses and output receipts do not replace the full reading.
+Each future reading delivers exact coverage/witness receipt; entering state/exposure; full factual causal reconstruction; sustained interpretation with visual/Japanese evidence; named character, directional relationship and knowledge changes; ordinary-life cases and the other [monograph-supporting captures](#monograph-supporting-capture); counterreadings; claims and exit state; and a transaction listing every required cumulative/source update or explicit reviewed/no-supported-change outcome. No fixed length cap governs the argument. Locator tables, checkpoint synopses and output receipts do not replace the full reading.
 
 Reinspect load-bearing pages and verify page completeness, semantic attribution and any OCR ambiguity before acceptance. Missing or unread pages block affected completion claims. A chapter can be provisionally interpreted while a specific gap is repaired, but its unresolved influence remains visible to downstream work. Full-volume reconciliation checks that all chapters, transitions, extras and silent pages received explicit coverage decisions; a highest-number frontier cannot conceal holes.
 
@@ -82,3 +82,23 @@ For Astral Buddy, preserve the compact design: the synopsis stays within the can
 The synopsis is unit-end, spoiler-bearing orientation: compose or finalize it only after the applicable prospective captures are frozen, and keep the full spoiler-bearing reading from analysts assigned an earlier chapter, sequence or volume horizon. It is neither a prospective freeze nor independent evidence. Full causal, visual, Japanese, character, relationship and counterreading arguments, state/claim updates, coverage decisions and exit freezes remain mandatory. A genuinely non-narrative separately scoped pass may record reasoned inapplicability; a plot-bearing unit may not omit this duty.
 
 _Prospective amendment — 2026-11-13, method v1.1: implements initiation policy §5.3 for future eligible units. No narrative synopsis, source admission, run authorization or frozen-history change is made here._
+
+<a id="monograph-supporting-capture"></a>
+
+### Monograph-supporting capture (initiation policy §5.5.1)
+
+Future readings preserve the observations that a later self-contained character monograph needs, so that a portrait can be synthesized from accepted records rather than recovered by rereading or from memory. In the full reading and its notebook transactions (State, Claims and the Form/register section), capture with page/panel anchors and the §4 observation classes:
+
+- ordinary conduct, routines and downtime, alongside crisis behavior;
+- what a character notices, weighs and decides, including under uncertainty or conflicting obligations, and the mistakes and corrections that follow;
+- directed relationship behavior, A→B separately from B→A;
+- exact Japanese self-reference, address terms, register and sentence endings, and their shifts by addressee and pressure, keeping speech balloons, thought balloons and captions distinct;
+- supported preferences, aversions, habits and comforts, as stable preference or situational choice;
+- capabilities as demonstrated, their limits, and the gap between capacity and willingness;
+- romantic or intimate signals only where the pages depict them;
+- counterexamples and genuine missed opportunities with their conditions;
+- change over time, separated from the late disclosure of an earlier trait.
+
+Expression, gesture, posture and staging are recorded as drawn, never as inferred animation or voice. Identity and evidence stay work-local: a figure shared with Railgun, Mental Out or another A Certain work is a source-map question, and its observations here are not merged with that work's evidence without explicit source authorization. An isolated detail may remain `LOCAL_ONLY` in its reading. Capture creates no monograph, roster or eligibility judgment during sequential work, adds no notebook section, and imposes no fixed per-character template; it ensures the evidence exists when the architecture's character/specialist readiness gate assesses eligibility.
+
+_Prospective amendment — 2026-11-14, method v1.2: implements the initiation policy §5.5.1 capture duty for future readings. No monograph, roster, qualification result, source admission, run authorization or frozen-history change is made here._
