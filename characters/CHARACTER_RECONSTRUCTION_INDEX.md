@@ -15,28 +15,37 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 130; `SUPERSEDED` 29
+- Recorded totals: `CANDIDATE` 141; `STALE` 2; `SUPERSEDED` 29
 
 ## Namespaces
 
 | Namespace | Subjects | Assessments |
 | --- | ---: | ---: |
 | [`86-eighty-six`](reconstruction_index/86-eighty-six.md) | 1 | 1 |
+| [`attack-on-titan`](reconstruction_index/attack-on-titan.md) | 1 | 1 |
+| [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
+| [`chiramune`](reconstruction_index/chiramune.md) | 1 | 1 |
+| [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
+| [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
+| [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
 | [`harmony`](reconstruction_index/harmony.md) | 1 | 1 |
 | [`kamakura-sho`](reconstruction_index/kamakura-sho.md) | 2 | 2 |
 | [`konosuba`](reconstruction_index/konosuba.md) | 14 | 14 |
 | [`legend-of-the-galactic-heroes`](reconstruction_index/legend-of-the-galactic-heroes.md) | 1 | 1 |
 | [`mass-effect`](reconstruction_index/mass-effect.md) | 2 | 2 |
+| [`monogatari-series`](reconstruction_index/monogatari-series.md) | 1 | 1 |
 | [`mushoku-tensei`](reconstruction_index/mushoku-tensei.md) | 13 | 14 |
 | [`my-hero-academia`](reconstruction_index/my-hero-academia.md) | 30 | 42 |
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 4 | 4 |
+| [`shiboyugi`](reconstruction_index/shiboyugi.md) | 1 | 1 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
-| [`solo-leveling`](reconstruction_index/solo-leveling.md) | 2 | 2 |
+| [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
+| [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
 | [`the-idolmaster`](reconstruction_index/the-idolmaster.md) | 1 | 1 |
 | [`to-be-hero-x`](reconstruction_index/to-be-hero-x.md) | 1 | 1 |
 | [`tokyo-7th-sisters`](reconstruction_index/tokyo-7th-sisters.md) | 8 | 17 |
@@ -48,14 +57,21 @@ Each recorded assessment is listed once below and links to its generated namespa
 | Subject | Assessment | Recorded status | Overall tier | Basis commit |
 | --- | --- | --- | --- | --- |
 | `86-eighty-six:shinei-nouzen@original-light-novels` | [`86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01`](reconstruction_index/86-eighty-six.md#86-eighty-six-shinei-nouzen-ln-cmr-profile-20261023-01) | `CANDIDATE` | `B` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
+| `attack-on-titan:erwin-smith@manga` | [`attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01`](reconstruction_index/attack-on-titan.md#attack-on-titan-erwin-smith-manga-v2-shared-ledgers-20261115-01) | `CANDIDATE` | `C` | `e9f6fda08bd880fbfdc248355bae75d167519627` |
+| `azur-lane:baltimore@mobile-game` | [`azur-lane-baltimore-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-baltimore-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `B` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
+| `azur-lane:bremerton@mobile-game` | [`azur-lane-bremerton-mobile-game-character-monograph-20261115-01`](reconstruction_index/azur-lane.md#azur-lane-bremerton-mobile-game-character-monograph-20261115-01) | `CANDIDATE` | `C` | `2fb9e0d724982f17dadd3071d97fe332920caaf7` |
 | `blue-archive:aru@game` | [`blue-archive-aru-game-c001-distributed-20261024-01`](reconstruction_index/blue-archive.md#blue-archive-aru-game-c001-distributed-20261024-01) | `CANDIDATE` | `E` | `6a3afaaf1bb61e0993db379ab4074c46e9ea98dd` |
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
+| `chiramune:yua-uchida@light-novel` | [`chiramune-yua-uchida-light-novel-yua-monograph-20261115-01`](reconstruction_index/chiramune.md#chiramune-yua-uchida-light-novel-yua-monograph-20261115-01) | `CANDIDATE` | `C` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
+| `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2` | [`classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01) | `CANDIDATE` | `B` | `77ce4cedf3a09bd7ad0c134dfb1be830d7f683d6` |
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
+| `cosmic-princess-kaguya:sakayori-iroha@film` | [`cosmic-princess-kaguya-sakayori-iroha-film-cpk-int-distributed-20261115-01`](reconstruction_index/cosmic-princess-kaguya.md#cosmic-princess-kaguya-sakayori-iroha-film-cpk-int-distributed-20261115-01) | `CANDIDATE` | `C` | `37420811a01fed356ae09d34a57531c8a19292d4` |
+| `genshin-impact:furina@game` | [`genshin-impact-furina-game-furina-monograph-20261114-01`](reconstruction_index/genshin-impact.md#genshin-impact-furina-game-furina-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `harmony:tuan-kirie@original-novel` | [`harmony-tuan-kirie-comparative-20261022-01`](reconstruction_index/harmony.md#harmony-tuan-kirie-comparative-20261022-01) | `CANDIDATE` | `E` | `1ac5215d216de2451fd3cf0ed667d90ad9df7cde` |
-| `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01) | `CANDIDATE` | `C` | `ba293c95436e3ebba51e57b144dedb59b802d19d` |
-| `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `CANDIDATE` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
+| `kamakura-sho:asumi-ogasawara@original-novel` | [`kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-asumi-ogasawara-original-novel-ksoa-g1-studies-20261114-01) | `STALE` | `C` | `ba293c95436e3ebba51e57b144dedb59b802d19d` |
+| `kamakura-sho:motoya-kitsukawa@original-novel` | [`kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01`](reconstruction_index/kamakura-sho.md#kamakura-sho-motoya-kitsukawa-original-novel-ksoa-g1-studies-20261114-01) | `STALE` | `C` | `6238b9e49be575ab682092ce353940d194b9c6c3` |
 | `konosuba:amaryllis@original-light-novel` | [`konosuba-amaryllis-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-amaryllis-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:angie@original-light-novel` | [`konosuba-angie-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-angie-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `C` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
 | `konosuba:aqua@original-light-novel` | [`konosuba-aqua-original-light-novel-calibration-20261027-01`](reconstruction_index/konosuba.md#konosuba-aqua-original-light-novel-calibration-20261027-01) | `CANDIDATE` | `B` | `81ec13bbdce71fdbb44d6bbad45f680925781f84` |
@@ -73,6 +89,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `legend-of-the-galactic-heroes:yang-wen-li@original-novels` | [`legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01`](reconstruction_index/legend-of-the-galactic-heroes.md#legend-of-the-galactic-heroes-yang-wen-li-original-novels-monograph-20261107-01) | `CANDIDATE` | `C` | `589435c3ebada7c66aac6b44ed014876d9050423` |
 | `mass-effect:commander-shepard@paragon-player-archetype` | [`mass-effect-paragon-shepard-archetype-20261023-01`](reconstruction_index/mass-effect.md#mass-effect-paragon-shepard-archetype-20261023-01) | `CANDIDATE` | `D` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
 | `mass-effect:commander-shepard@renegade-player-archetype` | [`mass-effect-renegade-shepard-archetype-20261109-01`](reconstruction_index/mass-effect.md#mass-effect-renegade-shepard-archetype-20261109-01) | `CANDIDATE` | `D` | `5aa25a60a918015bb973776732340cf205f9d39e` |
+| `monogatari-series:senjogahara-hitagi@original-light-novels` | [`monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01`](reconstruction_index/monogatari-series.md#monogatari-series-senjogahara-hitagi-original-light-novels-d05-monograph-20261115-01) | `CANDIDATE` | `B` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
 | `mushoku-tensei:aisha@light-novel` | [`mushoku-tensei-aisha-ln-v10-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-aisha-ln-v10-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:cliff@light-novel` | [`mushoku-tensei-cliff-ln-v09-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-cliff-ln-v09-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
 | `mushoku-tensei:elinalise@light-novel` | [`mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01`](reconstruction_index/mushoku-tensei.md#mushoku-tensei-elinalise-ln-v04-v15-model-20261108-01) | `CANDIDATE` | `C` | `b0d1294fa93ff1aa0b2df0e03de16db3a7d45106` |
@@ -156,14 +173,19 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:shaula@light-novel` | [`re-zero-shaula-ln-v21-v23-model-20261107-01`](reconstruction_index/re-zero.md#re-zero-shaula-ln-v21-v23-model-20261107-01) | `SUPERSEDED` | `C` | `2ccd93a9781634afa64285d01b7c204cbf589d08` |
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
+| `shiboyugi:yuuki@light-novel` | [`shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01`](reconstruction_index/shiboyugi.md#shiboyugi-yuuki-light-novel-sby-p001-monograph-20261115-01) | `CANDIDATE` | `C` | `57a2a2026b88f3c9d09fbe0b4f90b62c4d768690` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
+| `shokugeki-no-soma:hayama-akira@manga` | [`shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
+| `shokugeki-no-soma:kurokiba-ryo@manga` | [`shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-20261021-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-20261021-01) | `SUPERSEDED` | `E` | `036ed43f1d2a974b5351429792bae2c733e577db` |
 | `solo-leveling:cha-hae-in@original-korean-novel` | [`solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01`](reconstruction_index/solo-leveling.md#solo-leveling-cha-hae-in-original-korean-novel-reconstruction-model-20261107-01) | `CANDIDATE` | `C` | `7da71cb9be614645641dc5c0038b1df3acf07063` |
+| `solo-leveling:sung-jinwoo@original-korean-novel` | [`solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-sung-jinwoo-original-korean-novel-model-and-deep-dive-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `solo-leveling:yoo-jinho@original-korean-novel` | [`solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01`](reconstruction_index/solo-leveling.md#solo-leveling-yoo-jinho-original-korean-novel-reconstruction-model-20261114-01) | `CANDIDATE` | `C` | `923ee527a9f594b30e751e697c62a0b549eb77dc` |
+| `sound-euphonium:kaori-nakaseko@original-novels` | [`sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01`](reconstruction_index/sound-euphonium.md#sound-euphonium-kaori-nakaseko-original-novels-hibike-monograph-20261114-01) | `CANDIDATE` | `B` | `cc2fc3f09157521688c863b1dfd65ef310d61dc4` |
 | `the-idolmaster:yonai-p@u149-anime` | [`the-idolmaster-yonai-p-u149-anime-20261023-01`](reconstruction_index/the-idolmaster.md#the-idolmaster-yonai-p-u149-anime-20261023-01) | `CANDIDATE` | `D` | `dd7112797976a61f5e85517b86a233f597ecbb1d` |
 | `to-be-hero-x:x@animated-series` | [`to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01`](reconstruction_index/to-be-hero-x.md#to-be-hero-x-x-anime-s01e11-e24-monograph-20261026-01) | `CANDIDATE` | `E` | `f79e49071be39667e2fc5d5be5a5f3e9ae503589` |
 | `tokyo-7th-sisters:aihara-miu@game` | [`tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01`](reconstruction_index/tokyo-7th-sisters.md#tokyo-7th-sisters-aihara-miu-game-b0217-b0232-b0239-b0244-b0246-portfolio-20261106-01) | `CANDIDATE` | `E` | `2127e8fa66a1fed340e733fdca0f8b39d131bdc0` |
