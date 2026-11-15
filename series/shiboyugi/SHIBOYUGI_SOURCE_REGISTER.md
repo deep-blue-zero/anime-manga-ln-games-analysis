@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.6"
+version: "1.7"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -131,3 +131,7 @@ The principal completed all 2,186 main-prose positions in S13/S15/S17/S19/S21/S2
 ## V05 coverage and independent prospective remedy
 
 The principal completed all 2,283 positions in S14/S16/S19/S21/S23. An interrupted response for S21 P0268–0407 was read again in full before advancing. Five original placed images S15/S17/S18/S20/S22-I01 were inspected at their disclosure positions, and ten delayed V05 images S01–10-I01 after the prose freeze. They include the same-volume cover, portraits and title page. S12-I01 was separately verified as navigation and stays out of literary evidence. The evidence, character and language roles each read all 2,283 positions independently. Critical review reopened decisive prose and verified the fifteen eligible originals. S11/S13 and S24–31 are outside the literary scope. S25 stays withheld. Precise qualification and evidence layering appear in the [V05 reading](readings/SHIBOYUGI_V05_DEEP_READING.md). The [V05 checkpoint](checkpoints/SHIBOYUGI_V05_CHECKPOINT.md) preserves a separately authored prospective record frozen before the independent evidence specialist opened this volume, and the principal’s more limited scope after the previously excluded promotion exposure. Release of the next Japanese main unit requires this volume's verified committed transaction.
+
+## V06 coverage with embedded coda illustration
+
+The principal read all 2,362 Japanese positions in S14/S16/S18/S20/S22, including all layout and the S22 P0139 image reference. S15/S17/S19/S21-I01 were read at their positions. S22-I01 is a same-story ending image inside the final prose member and was opened after the P0139 marker and the prose freeze. Its position is neither delayed front matter nor a separate trailing promotional member. Ten delayed front images S01–10-I01 were read at unit end. S12-I01 was inspected solely to classify it as navigation. The evidence, character and language readers independently read all 2,362 positions. Critical review reopened decisive original prose and checked all fifteen admitted images. The V06 ZIP retains its known non-first mimetype entry warning and the verified bytes. Genuine main-source reading and same-witness image decode succeeded without alteration. S11/S13 and S23–31 stay outside the literary argument. S24 and S25 remain unread. The [reading](readings/SHIBOYUGI_V06_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V06_CHECKPOINT.md) supply the evidence, prospective scope and publication-independent committed frontier requirements.
