@@ -17,7 +17,7 @@ do_not_use_as_current_authority: false
 
 The v1 corpus says Chugong's Korean novel governs every prose claim. Its own source records show that the Korean EPUB was never loaded while Documents 00–13, the Phase 2 correspondence map and the five reconstruction models were written. Phase 1 revalidated the Korean boundaries from an earlier workspace's audit, and every paragraph-level locator was left "pending remount".
 
-This audit closes that gap. The Korean omnibus was loaded, its integrity and boundaries were verified, and it was converted into a reproducible paragraph-locator layer. Seven independent specialists then tested the corpus against it, two independent critical reviewers checked every material or adverse finding, and a final pass settled the open manhwa-side items.
+This audit closes that gap. The Korean omnibus was loaded, its integrity and boundaries were verified, and it was converted into a reproducible paragraph-locator layer. Seven independent specialists then tested the corpus against it, two independent critical reviewers checked every material or adverse specialist finding (the 109 rows in §8), and a final pass settled the open manhwa-side items. That final pass ran in a reduced configuration with a self-reviewing participant (§6); §5 records a recheck by the principal for M1-01 and none for M1-02–M1-07.
 
 **Overall result.**
 
