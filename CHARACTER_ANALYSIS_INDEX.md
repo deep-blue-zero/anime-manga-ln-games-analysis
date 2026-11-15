@@ -43,6 +43,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`re-zero`](characters/index/re-zero.md) | 28 |
 | [`rent-a-girlfriend`](characters/index/rent-a-girlfriend.md) | 12 |
 | [`sayonara-lara`](characters/index/sayonara-lara.md) | 5 |
+| [`shiboyugi`](characters/index/shiboyugi.md) | 6 |
 | [`shine-post`](characters/index/shine-post.md) | 7 |
 | [`shokugeki-no-soma`](characters/index/shokugeki-no-soma.md) | 17 |
 | [`shuukura`](characters/index/shuukura.md) | 5 |
@@ -63,6 +64,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [A-Hu](characters/index/to-be-hero-x.md#a-hu) | To Be Hero X animated series | `to-be-hero-x:a-hu@animated-series` | — |
 | [Aemeath](characters/index/wuthering-waves.md#aemeath) | Wuthering Waves game | `wuthering-waves:aemeath@game` | — |
 | [Aigis](characters/index/konosuba.md#aigis) | Original light-novel continuity, scoped current monograph | `konosuba:aigis@original-light-novel` | アイギス |
+| [Airi](characters/index/shiboyugi.md#airi) | Japanese light-novel continuity | `shiboyugi:airi@light-novel` | 一瀬藍里; 藍里; Hitose Airi |
 | [Airi](characters/index/project-sekai.md#airi) | Project SEKAI game — MORE MORE JUMP! | `project-sekai:airi@game` | — |
 | [Aisha Greyrat](characters/index/mushoku-tensei.md#aisha) | Japanese light-novel continuity | `mushoku-tensei:aisha@light-novel` | — |
 | [Aizawa Shota](characters/index/my-hero-academia.md#aizawa-shota) | My Hero Academia manga | `my-hero-academia:aizawa-shota@manga` | — |
@@ -216,6 +218,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Gunther](characters/index/ascendance-of-a-bookworm.md#gunther) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:gunther@light-novel` | — |
 | [Gustav](characters/index/ascendance-of-a-bookworm.md#gustav) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:gustav@light-novel` | — |
 | [Hagen](characters/index/konosuba.md#hagen) | Original light-novel continuity, scoped current monograph | `konosuba:hagen@original-light-novel` | ハーゲン |
+| [Hakushi](characters/index/shiboyugi.md#hakushi) | Japanese light-novel continuity | `shiboyugi:hakushi@light-novel` | 白津川真実; 白士; Shiratsugawa Manami |
 | [Hanako](characters/index/blue-archive.md#hanako) | Blue Archive game | `blue-archive:hanako@game` | — |
 | [Hanami Ume](characters/index/the-idolmaster.md#hanami-ume) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:hanami-ume@mobile-game-phase-3-core` | 花海佑芽 |
 | [Hanekawa Tsubasa](characters/index/monogatari-series.md#hanekawa-tsubasa) | Monogatari Series original light novels | `monogatari-series:hanekawa-tsubasa@original-light-novels` | — |
@@ -355,6 +358,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Lutz](characters/index/ascendance-of-a-bookworm.md#lutz) | Ascendance of a Bookworm light novel | `ascendance-of-a-bookworm:lutz@light-novel` | — |
 | [Lynae](characters/index/wuthering-waves.md#lynae) | Wuthering Waves game — playable Lynae | `wuthering-waves:lynae@game` | — |
 | [Mafuyu](characters/index/project-sekai.md#mafuyu) | Project SEKAI game — Nightcord at 25:00 | `project-sekai:mafuyu@game` | — |
+| [Maguma](characters/index/shiboyugi.md#maguma) | Japanese light-novel continuity | `shiboyugi:maguma@light-novel` | 赭熊早百合; 真熊; Shaguma Sayuri |
 | [Mai](characters/index/maebashi-witches.md#mai) | Maebashi Witches anime | `maebashi-witches:mai@anime` | — |
 | [Maika Utsunomiya](characters/index/shuukura.md#maika-utsunomiya) | Original Japanese light-novel continuity and author supplements | `shuukura:maika-utsunomiya@original-light-novel` | 宇都宮舞香; Utsunomiya Maika |
 | [Main 10 Elroad casino manager](characters/index/konosuba.md#main10-elroad-casino-manager) | Original light-novel continuity, scoped current monograph | `konosuba:main10-elroad-casino-manager@original-light-novel` | — |
@@ -507,6 +511,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Serena](characters/index/konosuba.md#serena) | Original light-novel continuity, scoped current monograph | `konosuba:serena@original-light-novel` | セレスディナ; セレナ |
 | [Serika](characters/index/blue-archive.md#serika) | Blue Archive game | `blue-archive:serika@game` | — |
 | [Serizawa Momoka](characters/index/tokyo-7th-sisters.md#serizawa-momoka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:serizawa-momoka@game` | — |
+| [Setsuna](characters/index/shiboyugi.md#setsuna) | Japanese light-novel continuity | `shiboyugi:setsuna@light-novel` | 雪乃七見; 雪名; Yukino Nanami |
 | [Shaula](characters/index/re-zero.md#shaula) | Re:Zero main light novel | `re-zero:shaula@light-novel` | シャウラ |
 | [Shiba Seki master](characters/index/blue-archive.md#shiba-seki-master) | Blue Archive game | `blue-archive:shiba-seki-master@game` | — |
 | [Shiden Iida](characters/index/86-eighty-six.md#shiden-iida) | 86 - Eighty-Six original light novels | `86-eighty-six:shiden-iida@original-light-novels` | シデン・イーダ |
@@ -522,6 +527,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Shiraishi Saki](characters/index/idoly-pride.md#shiraishi-saki) | IDOLY PRIDE V2 cross-media corpus | `idoly-pride:shiraishi-saki@v2-cross-media` | — |
 | [Shiraki Hime](characters/index/watayuri.md#shiraki-hime) | Japanese manga | `watayuri:shiraki-hime@manga` | — |
 | [Shiratori Tomoe](characters/index/tokyo-7th-sisters.md#shiratori-tomoe) | Tokyo 7th Sisters game | `tokyo-7th-sisters:shiratori-tomoe@game` | — |
+| [Shiro](characters/index/shiboyugi.md#shiro) | Japanese light-novel continuity | `shiboyugi:shiro@light-novel` | 蔵里士郎; 尸狼; Kurari Shirō |
 | [Shiroko](characters/index/blue-archive.md#shiroko) | Blue Archive game | `blue-archive:shiroko@game` | — |
 | [Shiun Sumika](characters/index/the-idolmaster.md#shiun-sumika) | Gakuen Idolmaster mobile-game Phase-3 core | `the-idolmaster:shiun-sumika@mobile-game-phase-3-core` | 紫雲清夏 |
 | [Shizuku](characters/index/project-sekai.md#shizuku) | Project SEKAI game — MORE MORE JUMP! | `project-sekai:shizuku@game` | — |
@@ -625,6 +631,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [Yuuka](characters/index/blue-archive.md#yuuka) | Blue Archive game | `blue-archive:yuuka@game` | — |
 | [Yuzu](characters/index/blue-archive.md#yuzu) | Blue Archive game | `blue-archive:yuzu@game` | — |
 | [Yuzuki Nanase](characters/index/chiramune.md#yuzuki-nanase) | Chiramune light novel | `chiramune:yuzuki-nanase@light-novel` | — |
+| [Yūki](characters/index/shiboyugi.md#yuuki) | Japanese light-novel continuity | `shiboyugi:yuuki@light-novel` | 反町友樹; 幽鬼; Sorimachi Yūki |
 | [Zanoba](characters/index/mushoku-tensei.md#zanoba) | Japanese light-novel continuity | `mushoku-tensei:zanoba@light-novel` | — |
 | [Zereschilt](characters/index/konosuba.md#zereschilt) | Original light-novel continuity, scoped current monograph | `konosuba:zereschilt@original-light-novel` | 残虐公; ゼーレシルト |
 | [Zesta](characters/index/konosuba.md#zesta) | Original light-novel continuity, bounded character study | `konosuba:zesta@original-light-novel` | ゼスタ |
