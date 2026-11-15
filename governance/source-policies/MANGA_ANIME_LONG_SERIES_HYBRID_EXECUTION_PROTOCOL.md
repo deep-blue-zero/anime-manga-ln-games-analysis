@@ -2,11 +2,11 @@
 title: Manga / Anime Long-Series Hybrid Execution Protocol
 artifact_id: MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL
 artifact_type: long_series_hybrid_execution_protocol
-version: "1.1"
+version: "1.2"
 status: canonical
 scope: preferred phase lifecycle for substantial longitudinal series and bounded live-service corpora
 created: 2026-09-13
-last_updated: 2026-11-14
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -51,7 +51,7 @@ This describes execution ownership, not a requirement for one particular session
 |---|---|---|
 | Architecture authorship | Fresh cloud Pro; local also permitted | Complete method/architecture proposal with explicit responsibilities and source limits |
 | Architecture integration | Local Work/Codex | Current eligible foundation, required infrastructure, and truthful initiation state |
-| Sequential accumulation | Local Work/Codex | Each authorized unit transaction closed; ledgers and high-water mark synchronized |
+| Sequential accumulation | Local Work/Codex | Each authorized unit transaction closed, including the multi-agent participation of topology Section 4.1; ledgers and high-water mark synchronized |
 | Synthesis readiness | Local Work/Codex | Scoped, versioned, retrievable evidence state and named targets |
 | Retrospective synthesis | Fresh cloud Pro | Substantial evidence-grounded outputs, counterreadings, limitations, and return receipt |
 | Evidence completion and convergence | Local Work/Codex by default | Required channel debts and cross-document contradictions resolved or explicitly bounded; any reopened synthesis and affected dependencies reviewed before acceptance |
@@ -84,6 +84,8 @@ A cloud proposal, created directories, a generated outline, or the availability 
 The local sequential owner handles primary sources, extraction/inspection routes, source locks, ordered readings, and the longitudinal infrastructure specified by the architecture. It owns ordinary Git operations for this run subject to live controls.
 
 Each source unit must close as a complete transaction: reading, applicable ledger and claim updates, locators, prospective entering/exiting state, current-state advancement, and the required persistence/verification. Do not queue ten readings and postpone every ledger update to the end merely to reach the cloud phase sooner.
+
+The sequential owner is the accountable principal and integrator of each unit, not its only analyst. Every substantive reading uses the multi-agent workflow of [topology Section 4.1](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading). Its specialists and reviewer may be local subagents or separately initialized sessions in any already authorized environment, within the authorized source and access boundary, and their contributions are reconciled and recorded when the unit closes, not deferred to a later batch or to the synthesis phase.
 
 Follow `single_operation` or explicitly authorized `continuous_sequential`. The terminal boundary, committed high-water mark, next candidate, and interrupted work must remain distinct. A run across many units must not admit later evidence into earlier prospective freezes.
 
@@ -169,7 +171,7 @@ Novel later evidence does not invalidate useful earlier analysis automatically. 
 
 ## 12. Adoption for existing projects
 
-Introduce the topology at the next appropriate boundary without restarting completed readings. An active project can hand a closed tranche to cloud synthesis while preserving its existing root, ledger design, naming, and historical interpretations.
+Introduce the topology at the next appropriate boundary without restarting completed readings. An active project adopts the multi-agent reading workflow of topology Section 4.1 at its next substantive source reading, under that section's applicability rule. An active project can hand a closed tranche to cloud synthesis while preserving its existing root, ledger design, naming, and historical interpretations.
 
 A thin existing monograph can undergo an authorized deepening pass against mature evidence without rerunning the sequential phase. Architecture gaps require explicit repair under the initiation policy, not cosmetic scaffolding. This protocol does not itself authorize a material restart.
 
@@ -190,6 +192,10 @@ Evaluate the topology by evidence-grounded analytical depth, preserved prospecti
 The default may be changed for a task when another adequate route is better. Record the reason; do not convert a situational exception into a claim that cloud or local is categorically superior.
 
 ## Changelog
+
+### v1.2 - 2026-11-15 - Multi-agent source reading
+
+Sections 2, 5 and 12 route sequential accumulation to the multi-agent source-reading requirement of topology Section 4.1: the sequential owner is each unit's principal and integrator, specialist and review contributions close with the unit, and active projects adopt the workflow at their next reading. Phase lifecycle and ownership preferences are otherwise unchanged.
 
 ### v1.1 - 2026-11-14 - Self-contained monograph pointer
 
