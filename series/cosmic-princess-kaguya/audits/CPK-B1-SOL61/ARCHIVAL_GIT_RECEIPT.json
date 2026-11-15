@@ -1,0 +1,20 @@
+{
+  "schema": "CPK-B1-SOL61-archival-git/1",
+  "created_at_utc": "2026-11-12T05:54:23.345950+00:00",
+  "archival_not_contemporaneous": true,
+  "independent_original_local_manifest_sha256": "67d16bc1a88fa6672f24c0f7cdf9c3002a0bd946aeafc8d7058c1c407d1448e7",
+  "independent_frozen_commit": "e4caeb931dbb91c9b926638cf511f50637b0bb79",
+  "independent_frozen_corpus_tree": "f064f2bbec46e1f17d93c26fb572a761917f687e",
+  "original_comparison_commit": "8ed04470ecd9f7adaf0a130728748dec6da6c314",
+  "comparison_V1_boundary_commit": "7c850af679471b74e36a8458985e448bc8191068",
+  "comparison_freeze": {
+    "manifest_sha256": "5b76d0dd186080860bbe3e854feec7297634424f3d51697155f8a6697e1c96d7",
+    "manifest_bytes": 4604,
+    "content_tree_sha256": "302c15f20e357a4aee38645432d8a644376a03f98e245a167aa47c5d97a01f54",
+    "file_count": 20,
+    "total_bytes": 614204,
+    "frozen_at_utc": "2026-11-12T05:54:23.345950+00:00"
+  },
+  "remote_configured": false,
+  "public_ancestry_required": false
+}

@@ -5,8 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: KSOA-G1
-version: "1.0"
+version: "1.1"
 created: "2026-11-12"
+last_updated: "2026-11-14"
 status: canonical
 scope: "Longitudinal evidence, claim revision, specialist responsibilities and series integration."
 source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
@@ -47,6 +48,14 @@ The canonical volume documents are `readings/KSOA_Vnn_DEEP_READING.md`, with a s
 | Character reconstruction | Diagnostic passages and coverage opportunities in ordinary, professional and pressured situations | Character ledger and [reconstruction specification](KSOA_CHARACTER_RECONSTRUCTION_SPEC.md) | Scoped evidence assessment and separately authorized testing | Evidence routes and specification only |
 
 An observation that matters only to a passage can stay in its volume reading. Repeated evidence that could change a cross-volume argument enters its row's cumulative home. Use cross-references when one passage supports different responsibilities. The case ledger owns what the evidence item is and how it entered the investigation. The disclosure ledger owns who could know what and when. The state ledger owns consequences for a person, directed relationship or institution. The claim ledger owns the later judgment about an interpretation.
+
+### Volume reading openings
+
+The [method's opening sequence](KSOA_ANALYTICAL_METHOD.md#opening-of-a-completed-volume-reading) places the source receipt, prior-volume developments and current-volume story synopsis before extended analysis in a completed volume reading. The synopsis is reader orientation through that volume's endpoint. Its links lead to the owning reading and evidence records. Prepare cutoff-bounded work from the disclosure ledger and the applicable freeze.
+
+The V01–V07 readings are pinned by the [completed-run proof](.repository/completed-run-publication.json). Their retrospective openings live beside them at `readings/KSOA_Vnn_READING_INTRODUCTION.md`. The [corpus map](CURRENT_STATE_AND_CORPUS_MAP.md#accepted-readings) gives a synopsis-first route and a direct route to each preserved deep reading. Each opening identifies the witness and exit checkpoint and links onward to the full analysis. Evidence, forecasts, claim revisions and coverage remain in their existing canonical homes.
+
+The [synopsis name-and-reference review](audits/KSOA_PRODUCER_REVIEW_AND_RECEIVING_HANDOFF.md#synopsis-name-and-reference-review) records the checked passages and editorial corrections for the seven openings.
 
 ## Evidence, state and revision
 
@@ -109,3 +118,5 @@ The [reconstruction readiness assessment](audits/KSOA_CHARACTER_RECONSTRUCTION_R
 At a complete early case, a material source or modality surprise, a midpoint reconciliation, or a synthesis boundary, review routing, coverage, dependencies and reasoning classes. Move from `INITIAL` to `EVOLVING` when recurring evidence justifies amendment, then to `STABILIZED` when the mature responsibilities are supported. Record material changes with scope, rationale, affected links and whether targeted backfill is necessary. Add a home when evidence recurs and accumulates independently or is otherwise materially hard to retrieve. Backfill only a material gap, first checking already accepted readings and using authorized source access when needed. A frozen release receives a new version for substantive changes.
 
 Start with the [entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md), then read the method, this architecture and witness map. Retrieve the prior eligible freeze and cumulative rows through the requested boundary before sequential work. Retrieve accepted volume readings and active claim versions before a specialist or final study. Repository routing and the entrypoint identify the current generation. Versioned histories and source locators supply the evidence when an argument is revisited.
+
+The 2026-11-14 v1.1 amendment applies the opening sequence to future authorized readings and adds reader-facing introductions to the completed V01–V07 corpus. It addresses a retrieval gap in the original presentation using the already admitted Japanese evidence, with the completed reading transaction at `9fee95813a8df8c19621001ae7cb1c9bc02f76bc` as the fixed reading basis.

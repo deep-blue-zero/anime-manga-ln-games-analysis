@@ -73,15 +73,17 @@ The primary sources are the seven Japanese EPUBs in the owner's local `Main Seri
 
 ## Accepted readings
 
-| Unit | Accepted reading |
-|---|---|
-| V01 | [稲村ヶ崎の落日](readings/KSOA_V01_DEEP_READING.md) |
-| V02 | [由比ヶ浜協奏曲](readings/KSOA_V02_DEEP_READING.md) |
-| V03 | [極楽寺逍遙](readings/KSOA_V03_DEEP_READING.md) |
-| V04 | [竹寺の雪](readings/KSOA_V04_DEEP_READING.md) |
-| V05 | [西御門の館](readings/KSOA_V05_DEEP_READING.md) |
-| V06 | [佐助ヶ谷の銀雫](readings/KSOA_V06_DEEP_READING.md) |
-| V07 | [長谷の花舞](readings/KSOA_V07_DEEP_READING.md) |
+The reading openings give the source context, prior developments and the story through each volume's ending. Each leads into the full deep reading. For a prospective or earlier-horizon task, start with the [disclosure ledger](KSOA_DISCLOSURE_AND_HYPOTHESIS_LEDGER.md) and extract only the permitted horizon.
+
+| Unit | Reading opening with synopsis | Accepted deep reading |
+|---|---|---|
+| V01 | [稲村ヶ崎の落日](readings/KSOA_V01_READING_INTRODUCTION.md) | [V01 deep reading](readings/KSOA_V01_DEEP_READING.md) |
+| V02 | [由比ヶ浜協奏曲](readings/KSOA_V02_READING_INTRODUCTION.md) | [V02 deep reading](readings/KSOA_V02_DEEP_READING.md) |
+| V03 | [極楽寺逍遙](readings/KSOA_V03_READING_INTRODUCTION.md) | [V03 deep reading](readings/KSOA_V03_DEEP_READING.md) |
+| V04 | [竹寺の雪](readings/KSOA_V04_READING_INTRODUCTION.md) | [V04 deep reading](readings/KSOA_V04_DEEP_READING.md) |
+| V05 | [西御門の館](readings/KSOA_V05_READING_INTRODUCTION.md) | [V05 deep reading](readings/KSOA_V05_DEEP_READING.md) |
+| V06 | [佐助ヶ谷の銀雫](readings/KSOA_V06_READING_INTRODUCTION.md) | [V06 deep reading](readings/KSOA_V06_DEEP_READING.md) |
+| V07 | [長谷の花舞](readings/KSOA_V07_READING_INTRODUCTION.md) | [V07 deep reading](readings/KSOA_V07_DEEP_READING.md) |
 
 ## Synthesis and reconciliation
 
