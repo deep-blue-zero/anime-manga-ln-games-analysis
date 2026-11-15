@@ -1,0 +1,466 @@
+[
+  {
+    "seconds": 0,
+    "file": "F01_00000.000.png",
+    "bytes": 14800,
+    "sha256": "61cebf742aa79e7e1df19b8d2371015ba68381482f0f6c9b4dcc24c3e9a436eb",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8,
+    "file": "F01_00008.000.png",
+    "bytes": 4276162,
+    "sha256": "da84ee4cbc1132f5170ed97224f4e78c85596c6bc077f3bf10e2b6b031a5b25b",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 16,
+    "file": "F01_00016.000.png",
+    "bytes": 5082205,
+    "sha256": "71edc45d5ae3dd28d3f30d10d676feba177c7a8f05bc5f59c138a607341f2bbe",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 26,
+    "file": "F01_00026.000.png",
+    "bytes": 5493556,
+    "sha256": "cad5450011afaafcfdf0e2df4eb47df83359f45b74650c00efd17c0c602282c1",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 50,
+    "file": "F01_00050.000.png",
+    "bytes": 9863606,
+    "sha256": "5e7209bda0674dc0a74025544af211b2570abdb6326a59747a557fb70b62bda4",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 80,
+    "file": "F01_00080.000.png",
+    "bytes": 7748791,
+    "sha256": "60a162a3642332e4c308afefc787568df2d06ecbdfc671639ffc8975df133b7f",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 83.5,
+    "file": "F01_00083.500.png",
+    "bytes": 6794342,
+    "sha256": "5622938dcaabe7f0b0deab4d8186e19a0231198177cd680d26cace0de847ee12",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 94,
+    "file": "F01_00094.000.png",
+    "bytes": 7531692,
+    "sha256": "557709288ad13705178bcac4bfe2680f5e46a30c08a8e7fa13a53209ad9ac55f",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 549.5,
+    "file": "F01_00549.500.png",
+    "bytes": 6305438,
+    "sha256": "9fce97cb798c65742f70ee7a7a23fe81a4170e7a1fe65896679fc04140e7af1a",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 610,
+    "file": "F01_00610.000.png",
+    "bytes": 4497214,
+    "sha256": "9c6a1526eb61ac448d21f62b32bbd9d0275467fd559c05f5bec3721755a476ee",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 1215,
+    "file": "F01_01215.000.png",
+    "bytes": 5804455,
+    "sha256": "f6ffe22617f0a7a321202e7708488546a6fd7b5a6db6798380434c543a4fc46b",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 1280,
+    "file": "F01_01280.000.png",
+    "bytes": 6108767,
+    "sha256": "52fad0de2edd3e37949d9259b5c1c068854c9926dabc9de1fbe5e2b80fd0b807",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 1395,
+    "file": "F01_01395.000.png",
+    "bytes": 8152668,
+    "sha256": "b309e75ee753cb05795191746c7d5b7de39d0c53b6eac0ad0445075518f2cced",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 2039,
+    "file": "F01_02039.000.png",
+    "bytes": 6196164,
+    "sha256": "026ba3138d0f96b785db9b36354638861e600cfbd5588e1bfb5be243832ae141",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 2095,
+    "file": "F01_02095.000.png",
+    "bytes": 6226453,
+    "sha256": "ada5ee0d9084b0dade9dd0e9b1d3fc27ff59c5247af4046662b5916abf557170",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 2159,
+    "file": "F01_02159.000.png",
+    "bytes": 7239189,
+    "sha256": "7f0d7f86acebf24608849fbb8a03748ff2b7d7805e9a6da6bb78344ed3358484",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 2500,
+    "file": "F01_02500.000.png",
+    "bytes": 4667048,
+    "sha256": "217151928cf86f8522c1651c8398d5e1fa3fe26310999e244e4fb42ade0e119d",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 4643,
+    "file": "F01_04643.000.png",
+    "bytes": 2118410,
+    "sha256": "c57cb8d51b28cbf21106e3ee8d8b4c63295e7aabf7e07548bd9e3b31d34247cb",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 5042,
+    "file": "F01_05042.000.png",
+    "bytes": 5205436,
+    "sha256": "2c5065e2f3f03c3e2115e4f3ff5b2eff1a5ed9ec91b16e00a0a6cd69e736872f",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 5082,
+    "file": "F01_05082.000.png",
+    "bytes": 8559884,
+    "sha256": "b10e15d31252fcf29d851d0828187d26cdc5706ad0d01fe7e5a0af41228b6ebc",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 5092,
+    "file": "F01_05092.000.png",
+    "bytes": 7928295,
+    "sha256": "7c8bca03e924db45284f6c1b3cdf9c76e2426901a56073bd04cae37fe19a47fa",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 5095,
+    "file": "F01_05095.000.png",
+    "bytes": 8624650,
+    "sha256": "bf5942d0ce151e7bc54109e153ce45a37fb417c733bc2105c07d9c7ef7c18a09",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6356.5,
+    "file": "F01_06356.500.png",
+    "bytes": 7919239,
+    "sha256": "29e30ade0bf1c23c232e1c6e876a1423329f3cb52677613f657fb45078bdec51",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6456,
+    "file": "F01_06456.000.png",
+    "bytes": 5858311,
+    "sha256": "19a4a9e5cef247147b96ccf81887d986765bfa2da1e60a510aec10e7e4eaeeae",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6465,
+    "file": "F01_06465.000.png",
+    "bytes": 5617690,
+    "sha256": "ceb121799ed7b4bd0b401dc2afcd26d3d3364eedb5933239adb362ba04030ac0",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6470,
+    "file": "F01_06470.000.png",
+    "bytes": 5735388,
+    "sha256": "78d2f91af033e55e44786e4f855823f1b625c88f630f1f766b81286dd6d938a4",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6473,
+    "file": "F01_06473.000.png",
+    "bytes": 5735813,
+    "sha256": "1d53488a2fb81a824c2618580306482185b8eb5e35552167afa2dff551f97f2b",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6478,
+    "file": "F01_06478.000.png",
+    "bytes": 4482505,
+    "sha256": "65344d7a2991e30e94877e823f2243936064414f042562675ad70bcaea0ef9b6",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6484,
+    "file": "F01_06484.000.png",
+    "bytes": 7302559,
+    "sha256": "25cc734a1d9ee7eab28dd1e4fb7e4884f8da357297a96f763d694826bf26cb55",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6550,
+    "file": "F01_06550.000.png",
+    "bytes": 4774123,
+    "sha256": "a821788810f5f3d0526e7be5127b219b74e023ded19815497ef2d7698aa3caea",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6572,
+    "file": "F01_06572.000.png",
+    "bytes": 5355085,
+    "sha256": "1189c0ac5a7cf7fd708c1b4b536f53af38f7fd17180823733047c1cd1dc01157",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6622.5,
+    "file": "F01_06622.500.png",
+    "bytes": 3010070,
+    "sha256": "28a38d0e551029cb4de4179685883281b6154f544acae1f9fdb4f7711380283f",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6696,
+    "file": "F01_06696.000.png",
+    "bytes": 2462279,
+    "sha256": "959d2c1010d821da685eee24648f77fa192b19f85efdaf3089483f016105bb24",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6708,
+    "file": "F01_06708.000.png",
+    "bytes": 6314034,
+    "sha256": "de20eb0bccb6330092dffa1dcec376395380d9cddc651b7666e3876ac705a8cb",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6805,
+    "file": "F01_06805.000.png",
+    "bytes": 4144276,
+    "sha256": "1706e6c6bfcf38252b614969e2c9de93b14f8513a1882da8d2595c7a4951aa35",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6820,
+    "file": "F01_06820.000.png",
+    "bytes": 11149290,
+    "sha256": "5d41838b1033bf5035371423610f67d0d7db22f752b01cf5e00ca5c3884cba87",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6840,
+    "file": "F01_06840.000.png",
+    "bytes": 10618596,
+    "sha256": "7e4aea7cac849c6517b9273a553a2e512906900a2c447ccd42b044cefa1690bf",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6860,
+    "file": "F01_06860.000.png",
+    "bytes": 6448933,
+    "sha256": "45ac503fef910dfc6000ce88df939fe22ebab27c8261ec12f0dbab79642a466f",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6900,
+    "file": "F01_06900.000.png",
+    "bytes": 6499797,
+    "sha256": "323af0d643413183c2d031c1b66cdbe886ceaa52706a977a9aaffa77c6a5a306",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 6996.5,
+    "file": "F01_06996.500.png",
+    "bytes": 7065761,
+    "sha256": "a6dd55e70e517c54f881cd568c2176e8237743f72a55eb747ccb10d1659d90b6",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7139,
+    "file": "F01_07139.000.png",
+    "bytes": 8681208,
+    "sha256": "c156cbc9d8e884e53384c74923b5d984b1a4895e439ba5534bef2182bf052b84",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7141,
+    "file": "F01_07141.000.png",
+    "bytes": 11562308,
+    "sha256": "0d07ad73c4e778acadb30e0e0f3ff69e9e1259806966f56431bf18fffc01996e",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7144,
+    "file": "F01_07144.000.png",
+    "bytes": 5432116,
+    "sha256": "6e008975381cc41a4d6c51330214ebc88c2874fd071ae2b1d80e2fc2a727665f",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7642.5,
+    "file": "F01_07642.500.png",
+    "bytes": 6331361,
+    "sha256": "f1d2a2c94f86f9110fb20f5a366c0bd3effaf3b82802136098a87821bbb1c1aa",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7728,
+    "file": "F01_07728.000.png",
+    "bytes": 7237116,
+    "sha256": "15c9c8bd0d32d6ca495594a97790ae09610baa6468ed89647bcf1e0a551b8ad5",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7788,
+    "file": "F01_07788.000.png",
+    "bytes": 6747900,
+    "sha256": "b2300038fd7ca719c9cb8527fc2f036227a10c0530bc4f9aa55adc3abb472b7d",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7813,
+    "file": "F01_07813.000.png",
+    "bytes": 8148784,
+    "sha256": "c9e736f142e910a2a0b90590da8a516df7ac09858c5a5581e1b8a2ecf52f43b1",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7828,
+    "file": "F01_07828.000.png",
+    "bytes": 5903966,
+    "sha256": "b5b837d7c0ee4f65553e1d48b97f78ca7996c287b35f1f31ed629f98ad7a9a10",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7845,
+    "file": "F01_07845.000.png",
+    "bytes": 191424,
+    "sha256": "ce19e66a16c00d2726166f1a50b3f67c0dc2c4b7fc856dfb6127e02e50679f43",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 7856,
+    "file": "F01_07856.000.png",
+    "bytes": 271596,
+    "sha256": "26dfc841e1a40270c3ab1bf0f25192e968d456fe434aabc7906888e9eb581c7c",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8128,
+    "file": "F01_08128.000.png",
+    "bytes": 1233619,
+    "sha256": "ff833f6421bb23ae2bb33c3214eddb54be186caed664af344257a168f90fd6b7",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8139,
+    "file": "F01_08139.000.png",
+    "bytes": 1536351,
+    "sha256": "9c35d98b69669a9b4d83870c93590b36797afc6dd59cde547cc030b7afa846df",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8151,
+    "file": "F01_08151.000.png",
+    "bytes": 1237197,
+    "sha256": "dc5c8a8ac61e748a0fa38e66fcccb937e77e4dbe617f5386418a7eb0f8f28dd3",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8285,
+    "file": "F01_08285.000.png",
+    "bytes": 1279619,
+    "sha256": "e1dcc577ebccc86b52e72a70f9c13ead112fc1adba2f7e4317b3228ff53c045a",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8296,
+    "file": "F01_08296.000.png",
+    "bytes": 1592232,
+    "sha256": "08819704289968668fdc393305da693de600319945d8f6f3f7575a54109516ed",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8388,
+    "file": "F01_08388.000.png",
+    "bytes": 1422525,
+    "sha256": "841c6f84353be3a7f94f5c206abf16213d3f9d932f32803ad5f0ae5693ae99d7",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8393,
+    "file": "F01_08393.000.png",
+    "bytes": 1368083,
+    "sha256": "d7e69fed19209761bb8bf1987f5c6f45bb0fb78d30f1666e3cd4c5c0afa378ab",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  },
+  {
+    "seconds": 8415,
+    "file": "F01_08415.000.png",
+    "bytes": 19034,
+    "sha256": "e8723d2f3146ed9ed48bef99aaf6bb6fc052f215af57c5fb76139d6294c816a5",
+    "viewed": true,
+    "kind": "question-prompted direct source static return"
+  }
+]

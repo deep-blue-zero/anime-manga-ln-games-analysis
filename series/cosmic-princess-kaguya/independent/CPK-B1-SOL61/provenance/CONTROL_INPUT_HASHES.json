@@ -1,0 +1,102 @@
+[
+  {
+    "name": "AGENT_ROUTING.md",
+    "bytes": 25491,
+    "sha256": "0bb14ed993d900858b7c9d73c0d4ad69fad86ed596071131dfc05308e5783b52"
+  },
+  {
+    "name": "AGENTS.md",
+    "bytes": 10958,
+    "sha256": "5f3b4ce8ab5f34a741099673317395231cca61b24af129d8707decbcda4a5cdc"
+  },
+  {
+    "name": "ARCHIVE_AUTHORITY_AND_SUPERSESSION_POLICY.md",
+    "bytes": 8721,
+    "sha256": "492c1ca0fa84eb10528248254450987ffb368ee14b2d4c8f3c2ed68a14e3fa21"
+  },
+  {
+    "name": "BRANCH_LIFECYCLE.md",
+    "bytes": 4623,
+    "sha256": "91b05e10063092587f3f0b9f8c1277f6189a7d4f18acff360fe49e1ec6468d02"
+  },
+  {
+    "name": "CHANGE_INTEGRATION_CHECKLIST.md",
+    "bytes": 15587,
+    "sha256": "e820fa5f56849021edfe1316859283eb9a6e37c16101fb64975da43562fbcaf0"
+  },
+  {
+    "name": "CPK_ANALYTICAL_METHOD.md",
+    "bytes": 17631,
+    "sha256": "1441dbe736dd48a9fa34d63ddccd81522341bab6607a505f2440d2b6425e1cba"
+  },
+  {
+    "name": "CPK_BOOTSTRAP_REVIEW.md",
+    "bytes": 7381,
+    "sha256": "a0a03765bc2c4d4f9c4230d3015ef89aff6b46afdd2c74c2c168b355b8f8b613"
+  },
+  {
+    "name": "CPK_RECONCILIATION_PROFILE.md",
+    "bytes": 14289,
+    "sha256": "9ad9036df3d460acb6264e7411ffafdbddf4b5a883943542ca15e8d1dd8ef309"
+  },
+  {
+    "name": "CPK_SYNTHESIS_ARCHITECTURE.md",
+    "bytes": 21618,
+    "sha256": "92cc7545bab5f7fc3caf9cae4e87987c5e7a76006b4d0f22a6f1314204fba89a"
+  },
+  {
+    "name": "CURRENT_STATE_AND_CORPUS_MAP.md",
+    "bytes": 6017,
+    "sha256": "bf3bb086b0cbd1efcc3e24a235770bd0c533483ecff6e15f27eb5c63f4abfc47"
+  },
+  {
+    "name": "GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md",
+    "bytes": 21440,
+    "sha256": "a5eccbc6e202f6a93fa28793ab0db604ac2bca8906baf2d136e0bf8aa89e54db"
+  },
+  {
+    "name": "GOVERNANCE_PIN.json",
+    "bytes": 1132,
+    "sha256": "2f05716d48be9d850a703d4e1d3f0f6d84e86aaec11f19ab3688b6fb9ed78529"
+  },
+  {
+    "name": "MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md",
+    "bytes": 25457,
+    "sha256": "8fa81358420e9a2db1f694dfd8c48e431d46dfdb6c9762a8dbe8d47a5d27c848"
+  },
+  {
+    "name": "MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md",
+    "bytes": 17260,
+    "sha256": "9998fe840b03a2df0a4204ada1f231d4782b430eb423a01755813bae2f3ae20d"
+  },
+  {
+    "name": "MANGA_ANIME_EPISODE_BUNDLE_SPECIFICATION.md",
+    "bytes": 36102,
+    "sha256": "25ea599da6b29b16fecfdf0fa975d7c326e498a39477c10202fd3500975d38c8"
+  },
+  {
+    "name": "MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md",
+    "bytes": 16539,
+    "sha256": "9c6cfe3c0af45e484fb7e8ff0296af51f948cf350118a27bed288cf619726db8"
+  },
+  {
+    "name": "MANGA_ANIME_MEDIUM_AND_INSPECTION_LANE_ROUTING_POLICY.md",
+    "bytes": 16231,
+    "sha256": "e6bc38afd014a1edbe27d3a8d8d037907a2c0e0c7c6082c9e33ff85eb8d57fac"
+  },
+  {
+    "name": "MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md",
+    "bytes": 67595,
+    "sha256": "367cdbb777d2290a12573d112bcf715f663da90ac0d38e8c73d27ea1e6a18966"
+  },
+  {
+    "name": "MANGA_ANIME_REASONING_AND_MODEL_ROUTING_POLICY.md",
+    "bytes": 27744,
+    "sha256": "a96aba49f730b09b70ec4b60c93e2bc80efe8e85250b283ee79d04da87ad8852"
+  },
+  {
+    "name": "MANGA_ANIME_SEQUENTIAL_EXECUTION_SCOPE_AND_CONTINUATION_POLICY.md",
+    "bytes": 25515,
+    "sha256": "981895853e227d8976944baaba8141c813e7e2a963286f81207c351be35ce121"
+  }
+]
