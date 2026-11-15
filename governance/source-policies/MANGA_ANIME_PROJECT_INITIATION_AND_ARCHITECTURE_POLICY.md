@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: "1.12"
+version: "1.13"
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-11-14
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -49,7 +49,7 @@ This policy applies to newly initiated or materially restarted analytical projec
 
 It applies whether the eventual goal is full-series literary synthesis, character reconstruction, audiovisual analysis, ethics analysis, relationship modeling, music dramaturgy, institutional analysis, or another substantial interpretive program.
 
-Two artifact contracts also reach new work in existing projects, prospectively and as Section 10 states: the current-unit story synopsis (Section 5.3) and the self-contained character monograph standard (Section 5.5.1).
+Two artifact contracts also reach new work in existing projects, prospectively and as Section 10 states: the current-unit story synopsis (Section 5.3) and the self-contained character monograph standard (Section 5.5.1). So does the multi-agent source-reading requirement owned by the [topology policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) (Section 4.1).
 
 This policy does **not** require a full architecture for casual one-off discussion, ordinary question answering, source identification, preliminary scouting, or a narrowly bounded analysis that is not being opened as an ongoing corpus project.
 
@@ -224,6 +224,8 @@ Literal model names should not be hard-coded as durable architectural ontology w
 For substantial long-series work, the architecture should name preferred owners for framework/architecture design, sequential primary-source readings, synchronized ledgers, retrospective synthesis, required audiovisual completion, and repository integration. Apply the [long-series hybrid execution protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) and [capability-routing policy](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md); either environment may design architecture, with fresh cloud Pro preferred when adequately grounded.
 
 Identify how a frozen evidence state will be handed to a fresh synthesis session and how returned work will be accepted. The [analytical handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md) governs the transfer. These execution descriptors do not satisfy the initiation gate by themselves, require new empty ledgers, or replace the current eligible method and synthesis/corpus architecture.
+
+Every project with substantive sequential readings also records its multi-agent reading configuration under Section 4.1 of the topology policy: the principal and analytical-integrator role, the specialist responsibilities chosen for its medium, objectives and evidence density, the critical-review role, any unit types eligible for the reduced configuration and why, and the transaction record that preserves contributions and their reconciliation. Name roles, not providers. For a new project this record is part of the gate in Section 3.8; for an established project with an OPEN lock it is a targeted amendment under Section 10 and does not affect the lock.
 
 ## 3.8 Sequential analysis lock
 
@@ -433,7 +435,7 @@ It need not duplicate the analytical method. It should define the architectural 
 
 The synopsis is **unit-end, spoiler-bearing orientation**, not a frozen prospective checkpoint or a source of new independent evidence. It may reveal the current unit's climax or solution, but not information from later unadmitted units. Distinguish witnessed events from testimony, conjecture, disputed attributions and unresolved outcomes in ordinary prose; avoid promoting an investigator's belief or a character's report into omniscient fact. Provide retrievable source locators or stable observation/evidence references for material event claims without turning the synopsis into a ledger or cluttering every sentence. Where the unit has an entering state, orient the reader briefly without conflating inherited events with new ones. Compose or finalize the synopsis only after the applicable prospective captures are frozen, and do not expose the full spoiler-bearing reading to a bounded earlier-horizon analyst. Its purpose is independent human comprehension alongside, not instead of, the detailed causal, formal, character and evidence work.
 
-A deep reading should not be considered architecturally complete merely because its standalone prose was written if required cumulative state was not advanced.
+A deep reading should not be considered architecturally complete merely because its standalone prose was written if required cumulative state was not advanced. Nor is a substantive reading complete until the independent participation, critical review and reconciliation required by Section 4.1 of the topology policy are recoverable from the unit's transaction record.
 
 ## 5.4 Longitudinal infrastructure
 
@@ -848,6 +850,8 @@ An erratum, a claim-revision correction or a selective update applies the standa
 
 The standard does not retrofit frozen source readings, historical monographs retained at earlier evidence boundaries, completed analytical releases, or existing studies that carry a different legitimate analytical responsibility. A grandfathered monograph's nonconformance with this standard is not by itself a correction duty. A material deficiency in an existing current monograph may be remedied, when the owner or project undertakes it, by a separately scoped, source-grounded revision or deepening pass ([long-series protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) Section 12), not by a corpus-wide rewrite. A project's own binding monograph rules continue to govern where they are more specific or more demanding, and this standard applies where they are silent. A local rule does not lower the coverage, single-document usability, responsibility boundaries or production obligation required for work within this section's mandatory scope, and this standard completes no production work a local rule records as outstanding.
 
+The multi-agent source-reading requirement reaches existing projects as topology Section 4.1.8 states; the configuration it asks for is recorded under Section 3.7.
+
 Do not create replacement documents solely to make old projects cosmetically conform.
 
 At the next natural analytical boundary for an existing project:
@@ -1033,6 +1037,7 @@ Before opening the first substantive sequential deep reading, verify:
 - architecture extension rule exists;
 - synthesis completion gates exist;
 - reasoning classes are inherited or assigned appropriately;
+- multi-agent reading configuration is recorded (Section 3.7; topology Section 4.1);
 - sequential-analysis lock is explicitly open.
 
 If any analytically material item is missing, keep the lock closed and repair the project foundation before beginning the sequential pass.
@@ -1048,6 +1053,11 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.13 — 2026-11-15 — Multi-agent source reading
+
+- Routes the binding multi-agent source-reading requirement, owned by Section 4.1 of the topology policy, into initiation: Section 3.7 asks projects to record their reading configuration by role, Section 5.3 treats recoverable independent participation and reconciliation as part of a complete substantive reading, and the compliance checklist adds the configuration item.
+- Sections 1 and 10 point to the topology policy's prospective applicability. For a new project the recorded configuration becomes part of the foundation checked before the lock opens; an established project's OPEN lock is unaffected and its configuration is recorded by a targeted amendment. Machine enforcement of the gate is unchanged.
 
 ## v1.12 — 2026-11-14 — Self-contained character monographs
 
