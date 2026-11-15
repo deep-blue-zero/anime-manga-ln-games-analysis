@@ -380,3 +380,13 @@ Participant names are scene-presence indexes; references/incidental figures are 
 | E030 | numbered event | Lilja, Saki, Ume, Sena, Sumika and staff | Sumika in later discussion, unidentified imagined addressee resolved as Saki's remembered role | Lilja–Hanamis, sibling rivalry | C1 local / C2 globally | creative direction, cooperation and performance adaptation | 5 objects and 342 messages. See GKM-R86-06. |
 
 The 16 newly read support families, including direct speakers, reported figures and internal ordering, are indexed by family in the [revision 86 support reading](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md#source-family-readings). Its 42 A1 objects and 841 messages supplement the 498-object Phase 5 register. For per-part paths and checksums use the [source delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv).
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| source_story_id | source family | speakers or principal participants | mentioned characters | relationship | continuity | themes | notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-0013 | support | Kuramoto China, Hiwatari Kanae | — | China ↔ Kanae | C4 | parallel runs and preparation for school | 2 files / 40 messages. `_01` L29–143, `_02` L69–161. GKM-R88-05 |
+| 2-0084 | support | Kuramoto China, Hiwatari Kanae | — | China ↔ Kanae | C4 | gratitude, fallible service, understanding fans | 2 files / 40 messages. `_01` L8–46 and L188–216, `_02` L73–144. GKM-R88-05 |
+| 3-0115 | support | Kuramoto China, Hiwatari Kanae, Hataya Misuzu in part 03 | Hiro is a stated example in part 01 | China ↔ Kanae; both ↔ Misuzu | C4 | supplies, eating, being served and knowing what to choose | 3 files / 59 messages. `_01` L7–21 and L100–128, `_02` L74–172, `_03` L15–47. GKM-R88-05 |
+| hkne P1 school | Produce event | Kanae, Producer, Asari, homeroom / Japanese / English teachers | China, Kuramoto and Juo families in scoped scenes | Kanae ↔ Producer ↔ Asari | C2 module / C3 outcomes | transfer, trust, professional knowledge, dual production | 11 files / 233 messages. `001–011` and exact A1 in GKM-R88-03. |
+| hkne P1 activity | Produce event | Kanae and Producer; optional remembered or passing figures as scripted | recurrent China references, separately named peers in individual branches | Kanae ↔ Producer, frequently mediated by China | C2 module / C3 choices and conditions | leisure, long habits of work, access and anticipation | 22 files / 497 messages including split 017/018. GKM-R88-03. |

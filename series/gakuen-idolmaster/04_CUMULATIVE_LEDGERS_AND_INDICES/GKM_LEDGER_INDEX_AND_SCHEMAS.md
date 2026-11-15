@@ -36,3 +36,7 @@ All ledgers begin under Source Lock 1.0. A later source-lock upgrade must record
 ## Source Lock 1.1 — transcript refresh, 2026-11-12
 
 The dated 1.1 rows keep the original ledger schemas and source identities. Resolve each GKM-R86 group to a reading and exact A1 source in the [locator ledger](GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-lock-11--transcript-refresh-2026-11-12).
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+[Source Lock 1.2](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md) adds six retrieval groups, GKM-R88-01 to GKM-R88-06. Start with their [A1 locator table](GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-lock-12--transcript-refresh-2026-11-15) and [Kanae’s reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md). The dated 1.2 entries retain the existing schemas.

@@ -510,3 +510,13 @@ Final canonical support reading: `GKM_SUPPORT_SERIES_03_PART_076_102_DEEP_READIN
 | GKM-R86-CAMP | E027 → E030 | sports-drink first campaign precedes perfume second campaign | GKM-R86-05, GKM-R86-06 | C1 campaign order, C2 outside | tie-up personnel in M tracks do not override these participants |
 | GKM-R86-POST | M-MAO 018, M-CHINA 018, M-HIRO 022, M-SUMIKA 018 | four local post-win trajectories | GKM-R86-08 | C1 locally | scope contract offer, president-elect, retired performance and REVERSI pause to each outcome |
 | GKM-R86-EP | all thirteen Dear 037-01 | after the winning live in the matching Dear route | GKM-R86-09 | C1 within each D track | titles and prospective offers stay track-relative |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| state ID | track | bounded state | principal evidence | continuity status | analytical use |
+| --- | --- | --- | --- | --- | --- |
+| GKM-R88-HKNE-ADMIT | Kanae Dear 000–002 | China's post-H.I.F. consultation becomes the transfer proposal. Kanae passes entrance and joins in third term. | GKM-R86-04, GKM-R88-01 | C1 in Kanae arc. D-CHINA winner-compatible entering state. | tracks threshold 1 and separates shared scene recaps from new events |
+| GKM-R88-HKNE-ADVANCE | Kanae Dear 007–010 | Kanae nearly withdraws, sits the actual later assessment and passes. She and China continue sharing work and the Producer. | GKM-R88-01 | C1 main sequence. Dream marked separately. | tracks threshold 2 and the settled Dear result |
+| GKM-R88-HKNE-P1 | Kanae Produce 001 | Mid and final outcomes, live wrappers, and endings form local alternatives. School_010 independently presents China as Prima Stella during dual production. | GKM-R88-02, GKM-R88-03, GKM-R88-06 | C3 for switches and results; state comparison with Kanae Dear is C2. | chronology supported at the level of transfer after China's title, not dispatch |
+| GKM-R88-HKNE-SOLO | Kanae communication 3-000 | Solo demo, costume exploration and staged preparation for its performance. | GKM-R88-04 | C1 across parts, C2 against other Kanae source families. | position relative to D010 remains open |
+| GKM-R88-HKNE-CARE | support 1-0013 / 2-0084 / 3-0115; birthday startup | ordinary care and reciprocal gestures, including short recollection within 1-0013_01 | GKM-R88-05, GKM-R88-06 | C4 across source families | compare roles without assigning an exact school year or date |

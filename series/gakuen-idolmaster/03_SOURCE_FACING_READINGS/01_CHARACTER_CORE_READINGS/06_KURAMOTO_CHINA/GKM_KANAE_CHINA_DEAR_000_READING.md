@@ -35,3 +35,7 @@ In part 05, Misuzu's observation that people can share a stride and see a differ
 - Side-character synthesis and ledger: give Kanae's own perspective, technical work, education and reported fan-club role independent weight. Record the open trajectory for character discovery through the registry's ordinary workflow.
 - Relationship and register ledgers: retain `お嬢様`, `家族同然`, `蕭何` and Kanae's uncharacteristically loud cheer. Scope Misuzu's comparison to the conversation without fixing a predecessor.
 - AV candidate: Part 04 M044–074 could establish how the rendering moves between Kanae's viewpoint in the hall, China's address and their backstage reunion. Kanae's internal account establishes her perception of eye contact and distance. Camera, gaze and vocal performance remain open pending synchronized review.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+The [revision 88 continuation](../14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md#entering-boundary-and-the-work-of-standing-beside) resolves the winter consultation and rechecks the post-election speech, the two runs and the missed-live promise. The horizontal chapters remain the entering evidence for that analysis, with their own Source Lock 1.1 locators.

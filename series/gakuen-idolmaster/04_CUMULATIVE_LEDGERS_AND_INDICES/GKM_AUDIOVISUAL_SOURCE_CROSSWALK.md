@@ -452,3 +452,17 @@ Ume11–20 is a new 1080p materialization distinct from historical 720p AV-UME-0
 ## Source Lock 1.1 — transcript refresh, 2026-11-12
 
 The [Carbon register](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#new-and-supplemental-candidates) crosswalks the new D-KOTONE, D-SENA, D-TSUBAME, E027/E028/E030, support, U1 and Kanae targets to exact Japanese A1 locators and acquisition groups. Its Rinha table retains the original IDs, hashes, byte counts and conservative windows for 12 physical recordings. Public leads identify candidate editions. Acquire or recover the exact recordings, match their native dialogue or chapter and version, and verify offsets before cutting or judging a scene.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+The following Kanae A1 matches have **AV-C** script authority. ADV timeline positions are from commands. Matching them to a recording and measuring its offsets are separate work.
+
+| Target | A1 original and physical line | Script identity | Media match |
+| --- | --- | --- | --- |
+| AV-HKNE-R88-01 | `adv_dear_hkne_009.txt` L217–219, with title at `adv_dear_hkne_002.txt` L368 | `初` assessment. `sud_music_live_all-001-hkne_true-001`, `tln_live_all-001`, ADV 164.201–212.214 s, clip-in 51.0 s. | pending scene version, asset and exact observed window |
+| AV-HKNE-R88-02 | `adv_cidol-hkne-3-000_01.txt` L116, L150; `adv_cidol-hkne-3-000_03.txt` L120 | `メタモルフォーゼ` demo discussion and pre-live cue `sud_bgm_adv_inst-hkne-001`. Part 01 offset 20 s. | pending edition and distinction from a standalone full song |
+| AV-HKNE-R88-03 | `adv_dear_hkne_010.txt` L381 | `mov_adv_dear_ed_hkne_001`, ADV start about 313.129 s with commanded duration 165 s. | pending clip identity and playback |
+| AV-HKNE-R88-04 | `adv_dear_hkne_004.txt` L373–485; `adv_dear_hkne_005.txt` L272–355 and L389–510; `adv_dear_hkne_008.txt` L504–541 and L613–722 | center mark and stand-in sound check; gift, mirror and self-appraisal; recommitment and sprint | pending complete native scene runs with captions |
+| AV-HKNE-R88-05 | `adv_live_hkne_001_start/end-01..04-01.txt`; seven `adv_pstep_001_cmmn_` originals in [delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261115.tsv) | Paired crowd metadata for 01–03. 04 start has voice commands at L7–8. Seven `cmmn` steps bind Kanae at L2 and use `{voice_asset_id}` placeholders at L12, 10, 12, 14, 13, 14 and 11 in order of the filenames in the delta. | pending dispatch and voice asset resolution |
+
+Dear 007 L418 names a China H.I.F. monitor asset in a retrospective scene. The opening joint performance in the same script is separately framed as Kanae's dream. Use the actual assessment commands in Dear 009 to identify the pass performance. See the [AV verification queue](GKM_AUDIOVISUAL_VERIFICATION_QUEUE.md#source-lock-12--transcript-refresh-2026-11-15).

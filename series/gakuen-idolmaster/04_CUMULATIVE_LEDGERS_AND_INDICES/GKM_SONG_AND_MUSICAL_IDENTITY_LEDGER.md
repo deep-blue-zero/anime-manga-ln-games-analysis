@@ -479,3 +479,11 @@ These are support-card identity/context deltas, not substitutes for existing aud
 | Rinami and Mao / `SUGAR FLAVOR` | `adv_cidol-hrnm-3-018_03.txt` L008–050, L076–215, L291 | Revised script identifies guest appearance for the program. The acting/performance partnership remains part of RippleSign's source context. | No revision to performed duet claims based on the occupational wording alone. |
 
 The revised opaque `musics.txt` has exact hashes in the [source delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261112.tsv). Its new payload supplies no verified song identity.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| Character / song | A1 source | Text or command status | Perceptual status |
+| --- | --- | --- | --- |
+| Hiwatari Kanae / `初` | `adv_dear_hkne_002.txt` L345–370, `adv_dear_hkne_009.txt` L217–219 | Assigned assessment piece. Dear 009 specifies a Kanae `all-001` live command. | AV-HKNE-R88-01, playback pending |
+| Hiwatari Kanae / `メタモルフォーゼ` | `adv_cidol-hkne-3-000_01.txt` L116–172 and `_03` L120–196 | Named solo demo, pop characterization in Kanae's speech, and repeats of the instrumental cue. The staged communication ends before her announced performance. | AV-HKNE-R88-02, solo rendition and demo comparison pending |
+| Kuramoto China / `Wonder Scale` | `adv_dear_hkne_003.txt` L192–235 and `adv_dear_hkne_004.txt` L49–85, L99–152 | Kanae's fan commentary and referenced MV. She agrees to think of the song during a mock shoot. | Same song under China's evidence route, no new performance of it in the mock shoot |

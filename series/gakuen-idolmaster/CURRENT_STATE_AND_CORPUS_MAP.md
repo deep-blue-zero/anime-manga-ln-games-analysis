@@ -4,14 +4,28 @@ artifact_type: corpus_map
 scope: full_active_v2_project
 generation: V2
 status: canonical
-source_boundary: GAKUMAS V2 Source Lock 1.1 for the transcript refresh; Source Lock 1.0 for historical readings; separately versioned audiovisual and external-paratext evidence
+source_boundary: GAKUMAS V2 Source Lock 1.2 for the revision 88 tranche; Source Locks 1.0 and 1.1 for their historical readings; separately versioned audiovisual and external-paratext evidence
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-last_updated: "2026-11-12 — Source Lock 1.1 analysis, historical corrections and Carbon selection; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
+last_updated: "2026-11-15 — Source Lock 1.2 and Hiwatari Kanae text tranche; 2026-11-12 — Source Lock 1.1 analysis, historical corrections and Carbon selection; 2026-11-09 — non-authoritative historical-source coverage audit routed (01_CORPUS_AUDIT_AND_SOURCE_LOCK/HISTORICAL_SOURCE_COVERAGE_AUDIT_20261108/); 2026-11-07 — Saki U1 Episode 04 nightmare/insomnia correction (Saki core v2.1, Relationship Systems I §3.5.1, ledgers); RINHA-AV-20260911 state unchanged: perceptual gate and dossier remain open; Phase 6 IN PROGRESS"
 ---
 
 # GAKUEN IDOLMASTER V2 — CURRENT STATE AND CORPUS MAP
+
+## Transcript refresh — 2026-11-15
+
+[Source Lock 1.2](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md) admits the local revision 88 Japanese ADV archive at `f8ff5ef7b243f2f7e3b2723def31072874539ca9`. It contains **4,052 raw objects / 103,355 extracted messages**, including **103 additions / 2,508 messages** and zero revisions, removals or moves. The [per-object comparison](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261115.tsv) provides exact A1 locators, including 89 Kanae scripts absent from the A3 character bundles.
+
+The [Kanae reading](03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md) covers all additions. Kanae's Dear chain resolves the winter transfer proposal and records two different successes, the transfer exam and the year-end advancement assessment. The same Producer takes on Kanae and China, and Kanae begins to share the labor of supporting China while recognizing a wish for her own stage. The Produce variants, named solo communication, seven support scripts and other source groups are retrievable through the [dated locator ledger](04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_PRIMARY_SOURCE_LOCATOR_LEDGER.md#source-lock-12--transcript-refresh-2026-11-15). The accepted Phase 3 baseline inventory concerns the thirteen historical cores. The Kanae tranche establishes a text boundary through Dear 010, Produce Series 001 and the new commu. Gameplay dispatch and matched Kanae playback remain open.
+
+### Standing execution configuration for transcript refreshes
+
+The bounded refresh runs in **LOCAL_ONLY** topology and the A1 textual inspection lane, with selected A1 direction and asset commands for referrals. The principal reads the complete admitted delta and integrates claim and ledger changes. Fresh independent specialists examine assigned source units. A distinct fresh critical reviewer reads decisive spans before seeing the candidate, tests it against alternatives and returns dispositions before acceptance. Parallel assignments write to private separate paths. The principal owns shared ledgers and publication. This configuration adopts the source-reading protocol of [PR #599](https://github.com/deep-blue-zero/anime-manga-ln-games-analysis/pull/599) at the owner's direction, pinned for this transaction to `85fc1fd7975c3c9b9592e52e3740f3b4bb8c4362`, section 4.1. The proposal was open at adoption. Live `main` governs publication. The tool runtime is local Windows.
+
+The [revision 88 scope and review receipt](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md#source-reading-and-integration-receipt) records source coverage, responsibility and disposition. It uses a retrospective comparison within the updated lock and its previously admitted entering context.
+
+**Next operation:** recover or match the retained Rinha recordings and execute the source-first [Carbon observation packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md). The [Kanae supplement](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#source-lock-12--kanae-candidates) adds acquisition and review targets from the new transcript boundary. Exact recording matches and playback offsets are pending. Freeze observations before opening the [adjudication packet](05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md). This refresh logged zero new direct listening and zero continuous-motion inspection. The Rinha dossier and Phase 7 remain gated.
 
 ## Transcript refresh — 2026-11-12
 
@@ -88,6 +102,7 @@ The AV consolidation places each character's baseline, specialists, evidence and
 ### Current authority
 
 - Baseline textual source for completed historical readings: **GAKUMAS V2 Source Lock 1.0** — commit `00d150a069a3ffa723a1ff264752ba242024caad`, revision 32, frozen 2026-08-02, 3,777 raw scripts / 93,924 messages.
+- Current transcript extension: [GAKUMAS V2 Source Lock 1.2](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261115.md). The [1.1 declaration](01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_REFRESH_20261112.md) remains the pin for its historical tranche.
 - Governing method: `GAKUEN_IDOLMASTER_FULL_CORPUS_ANALYTICAL_METHOD_V2.md` **v2.2**.
 - Synthesis architecture: `GAKUEN_IDOLMASTER_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_V2.md` **v2.4**.
 - Continuity authority: `GKM_CONTINUITY_AND_STORY_STATE_MAP.md` **v2.1**.

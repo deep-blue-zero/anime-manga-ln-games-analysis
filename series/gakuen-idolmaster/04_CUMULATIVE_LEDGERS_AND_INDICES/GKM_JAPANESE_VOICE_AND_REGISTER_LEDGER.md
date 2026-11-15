@@ -612,3 +612,13 @@ Support0097 part03 has a direct unresolved-worry request and ends with Ume’s a
 | Kanae | `adv_dear_hkne_000-03-horizontal.txt` L665 and part 04 L493 | household role and winter H.I.F. | self-description and address | `蕭何` read `しょうか`, `千奈お嬢様！` | behind-the-scenes role and explicit departure from her ordinary reserve | high for wording |
 | Asari | `adv_pevent_003_cmmn_school_1-006-02.txt` L005/031/049 | C3 P3 school lesson | versioned ruby | `一番星` changes to `トップアイドル` in 1.1 | keep the revised lesson distinct from the sibling's `プリマステラ` wording | high |
 | Rinami and Tsubame | `adv_event_028_main-05.txt` M044–064 | festival contest | turn-taking and self-reference | `お前は今、どうしたいんだ！？` and inner `アイドルに、なるんだ` | spoken invitation and inner decision have distinct access | high, vocal realization open |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| character | A1 source | interlocutor or mode | linguistic feature | example | interpretation | confidence |
+| --- | --- | --- | --- | --- | --- | --- |
+| Hiwatari Kanae | `adv_dear_hkne_002.txt` L55–67, L100–132, L182–231 | China and class peers | role nouns and honorific choice | `近侍`, `お嬢様`, `花海様`, `秦谷様` | role used with pride and maintained by request; classroom position and home work are separately negotiated | high for script |
+| Hiwatari Kanae and Producer | `adv_dear_hkne_003.txt` L22–45, L287–332; `004` L102–152 | lesson and filmed exercise | graphic distinction and devotion idiom | `魅せる` / `見せる`, `信仰上の理由` | movement from looking at China to being visible is framed as skilled expression, initially constrained by reverence | high for wording, T-B pattern |
+| Hiwatari Kanae | `adv_dear_hkne_000-02-horizontal.txt` L822–867 and `008` L627–683 | inner running monologue | repeated grammar with changed beneficiary | `命じられなくても、頼まれなくても` | earlier run chosen for China, later run experienced as for herself | high |
+| Hiwatari Kanae | `adv_dear_hkne_010.txt` L68–80, L173–199, L269–312, L378 | Producer, inner voice, final address | hedged affect; formal address gains name token | `嫉妬めいた`, `お嬢様至上主義`, `{user}様` | observed trust and expanded service alongside stated loyalty. Two tonal responses reconverge. | high for words; T-C for relation |
+| Hiwatari Kanae | `adv_pstory_001_hkne_after-step-2-normal-02.txt` L135–162; `adv_cidol-hkne-3-000_03.txt` L26–63 | dance variant and pre-live communication | service metaphor and court register | `謀反`, `不敬`, `従者としての鎧` | learned posture and restraint become tools Kanae can vary with situation | high for wording, AV-C elsewhere |
