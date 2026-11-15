@@ -3,19 +3,19 @@ title: "Shiboyugi — Current State and Corpus Map"
 artifact_id: SBY_CURRENT_STATE
 artifact_type: current_state_and_corpus_map
 series: shiboyugi
-version: "1.11"
+version: "1.12"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 authority_generation: SBY-INITIAL
-authority_scope: "Foundation, completed run boundary and corpus routing"
+authority_scope: "Foundation, completed run boundary, retrospective and corpus routing"
 source_boundary: "V01–V10 completed for admitted Japanese main narrative and recorded original illustrations"
 created: 2026-11-13
 last_updated: 2026-11-15
 project_initialization:
   status: canonical
-  architecture_lifecycle: INITIAL
+  architecture_lifecycle: EVOLVING
   governing_method: SHIBOYUGI_ANALYTICAL_METHOD.md
   synthesis_architecture: SHIBOYUGI_SYNTHESIS_ARCHITECTURE.md
   method_status: canonical
@@ -51,13 +51,13 @@ do_not_use_as_literary_evidence: true
 
 The project is **Playing Death Games to Put Food on the Table / 死亡遊戯で飯を食う。**, also routed as **Shiboyugi**, at series/shiboyugi/. It is a Japanese light-novel project. It is distinct from the Tatsuya Endo collection routed as Shihou Yuugi. This entrypoint is the single first-read surface; the evidence-library folder is a source route, not an analytical authority.
 
-**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The authorized V01–V10 source run is **completed** at V10. Both next-operation fields are **NONE**. Read the [V10 deep reading](readings/SHIBOYUGI_V10_DEEP_READING.md) and [V10 checkpoint](checkpoints/SHIBOYUGI_V10_CHECKPOINT.md) for the last admitted narrative and its exit record. The source boundary authorizes retrospective analysis of the admitted work. Future or supplemental source requires separate authorization.
+**SEQUENTIAL_ANALYSIS_LOCK = OPEN.** The authorized V01–V10 source run is **completed** at V10. Both next-operation fields are **NONE**. Read the [V10 deep reading](readings/SHIBOYUGI_V10_DEEP_READING.md) and [V10 checkpoint](checkpoints/SHIBOYUGI_V10_CHECKPOINT.md) for the last admitted narrative and its exit record. The retrospective below uses this same admitted source boundary. Future or supplemental source requires separate authorization.
 
 ## Governing route
 
 Read the [method](SHIBOYUGI_ANALYTICAL_METHOD.md) and [architecture](SHIBOYUGI_SYNTHESIS_ARCHITECTURE.md) in full before changing project state. The method governs evidence reading and judgment; the architecture governs accumulation, revision, specialist responsibilities and convergence.
 
-| Initialized home | Present responsibility |
+| Governing home | Present responsibility |
 |---|---|
 | [Source register](SHIBOYUGI_SOURCE_REGISTER.md) | Ten available unit identities, reported audit results, exact achieved verification and unresolved source obligations |
 | [State and evidence ledger](SHIBOYUGI_STATE_AND_EVIDENCE_LEDGER.md) | Cumulative named-subject, directed-relationship, knowledge, disclosure and material-constraint changes, with evidence retrieval |
@@ -65,6 +65,24 @@ Read the [method](SHIBOYUGI_ANALYTICAL_METHOD.md) and [architecture](SHIBOYUGI_S
 | [Character reconstruction contract](SHIBOYUGI_CHARACTER_RECONSTRUCTION_CONTRACT.md) | Future evidence-to-model pathway, source/temporal bounds, validation and separate acceptance responsibilities |
 
 The two ledgers preserve the zero-admission baseline and changes through V10. The V10 checkpoint maintains the distinct exposure, chronology, interpretation and test boundaries. Longitudinal synthesis, character qualification and portraits, specialist studies and reconstruction readiness are evaluated separately from source-run completion.
+
+## V01–V10 retrospective
+
+The [integrated literary synthesis](SHIBOYUGI_V01_V10_INTEGRATED_SYNTHESIS.md) follows the ten admitted novels through their separate accounts of survival, work, responsibility and bodily care. The seven studies below answer questions whose evidence needs to be compared across more than one volume or participant.
+
+| Study | Question and retrieval |
+|---|---|
+| [Chronology and disclosure](studies/SHIBOYUGI_CHRONOLOGY_AND_DISCLOSURE.md) | Which event happened when, whom the narration lets know it, and what the placement of plates and counts adds. |
+| [Game rules and adjudication](studies/SHIBOYUGI_GAME_RULES_AND_ADJUDICATION.md) | What players actually face when a stated rule, the mechanism that implements it and a ruling diverge. |
+| [Livelihood and care](studies/SHIBOYUGI_LIVELIHOOD_AND_CARE.md) | How compensation, skills, housing, body work and options to leave shape the work people can choose. |
+| [Yūki and Setsuna](studies/SHIBOYUGI_YUUKI_AND_SETSUNA.md) | How two people come to provide reciprocal aid with unequal knowledge of its history or scope. |
+| [Apprenticeship and succession](studies/SHIBOYUGI_APPRENTICESHIP_AND_SUCCESSION.md) | Which abilities, goals and responsibilities can pass between people, and under what conditions they refuse the transfer. |
+| [Airi, Maguma and Yūki](studies/SHIBOYUGI_AIRI_MAGUMA_YUUKI.md) | How three veterans’ independent reasons for cooperating, dissenting and leaving change between the island and the ship. |
+| [Mikkai ensemble](studies/SHIBOYUGI_MIKKAI_ENSEMBLE.md) | Who supplies work, knowledge, authority and consent within Shiro’s attempted succession. |
+
+The [character qualification and acceptance view](SHIBOYUGI_STATE_AND_EVIDENCE_LEDGER.md#v01v10-character-qualification-and-acceptance) routes 111 indexed people. Fifty-nine qualify and have standalone monographs, each assessed for self-containment and separately for Japanese fidelity. The other 52 have their evidence, gaps and reassessment conditions recorded individually. [Full qualification arguments](audits/SHIBOYUGI_RETROSPECTIVE_QUALIFICATION.md). [Independent assessments and reconciliation](audits/SHIBOYUGI_RETROSPECTIVE_ACCEPTANCE.md).
+
+The [reconstruction readiness report](SHIBOYUGI_RECONSTRUCTION_READINESS.md) describes six state-bounded candidate models and the limits of the remaining subjects. The [claim ledger](SHIBOYUGI_CLAIM_AND_FORECAST_LEDGER.md#retrospective-model-checks) records the retrospective tests and their exposure limits. Current corrections to actor, wording, chronology and role follow the ledger’s [retrospective reconciliation](SHIBOYUGI_CLAIM_AND_FORECAST_LEDGER.md#v01v10-retrospective-claim-reconciliation). The historical volume readings and prospective freezes remain the retrieval route for what was established at each original horizon.
 
 ## Historical source reconnaissance, November 13
 

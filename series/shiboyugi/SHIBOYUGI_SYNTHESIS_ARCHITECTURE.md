@@ -3,17 +3,17 @@ title: "Shiboyugi — Synthesis Architecture"
 artifact_id: SBY_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: shiboyugi
-version: "1.1"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 authority_generation: SBY-INITIAL
-authority_scope: "INITIAL project architecture and accumulation contract only; no literary findings"
-source_boundary: "Metadata reconnaissance of supplied Japanese novel volumes 01–10; no narrative admitted"
+authority_scope: "Evolving project architecture and retrieval for the completed V01–V10 project"
+source_boundary: "Admitted Japanese V01–V10 main narratives and original visual layers"
 created: 2026-11-13
 last_updated: 2026-11-15
-architecture_lifecycle: INITIAL
+architecture_lifecycle: EVOLVING
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 do_not_use_as_literary_evidence: true
 ---
@@ -24,19 +24,19 @@ do_not_use_as_literary_evidence: true
 
 This architecture governs how future readings of **Playing Death Games to Put Food on the Table / 死亡遊戯で飯を食う。** accumulate into a recoverable literary corpus. It belongs to SBY-INITIAL, depends on the [method](SHIBOYUGI_ANALYTICAL_METHOD.md), and is routed by the sole [current entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md). No earlier project architecture is superseded.
 
-It satisfies the sixteen responsibilities of the [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) through the numbered sections below. Its authority is bootstrap design and attributed source metadata, not interpretation of unread prose. Architectural availability, analytical readiness, validation, publication and owner run authorization are distinct.
+It satisfies the sixteen responsibilities of the [initiation policy](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md) through the numbered sections below. Its authority covers project design, accumulation and retrieval. The corpus and reviewed studies supply the arguments. Architectural availability, analytical readiness, validation, publication and owner run authorization are distinct.
 
 Ten available Japanese novel volumes justify preserving state and arguments from the first future unit, before later evidence could erase earlier uncertainty. They do not justify a separate file for every possible theme, person, institution or game. Two cumulative ledgers and one source register are enough initially. A dedicated reconstruction contract is justified by the campaign's intended future character responsibility, not by a claim that any character is already modelable.
 
 ## 2. Source model
 
-The [source register](SHIBOYUGI_SOURCE_REGISTER.md) defines ten supplied witness slots, SBY-JP-V01-W01 through SBY-JP-V10-W01. It records electronic-bonus title labels, live name/size agreement, inherited audit results and package warnings, while keeping all narrative unadmitted. Numbered packaging suggests a candidate main-volume backbone; verified publication order, story chronology and internal section structure remain open.
+The [source register](SHIBOYUGI_SOURCE_REGISTER.md) defines ten supplied witness slots, SBY-JP-V01-W01 through SBY-JP-V10-W01. The initial entry recorded electronic-bonus title labels, live name/size agreement, inherited audit results and package warnings. The completed register records the admitted main-volume backbone, internal sections, eligible plates and excluded content.
 
 The source topology is initially one proposed Japanese novel track with unclassified internal components. Main prose, bonus narrative, illustrations, afterwords and previews receive distinct component and admission classes when inspected under an authorized scope. A future bonus is not treated as another main volume or automatically read after the file's final main chapter. Its disclosure frontier must be established.
 
 Other editions, languages and adaptations are outside this boundary. A later comparison track requires witness identity, explicit admission, source precedence and a recoverable alignment; it cannot silently become a second canonical root or overwrite the novel's account. A shared title or apparent parallel scene does not establish identical continuity. Narration and participant assertions remain source-layered evidence, not automatically world facts.
 
-Technical audit claims and actual inspection are separate. The supplied audit reports language and integrity results; this project matched metadata only. The inherited audit cannot close a later reader's source-access, language, illustration or coverage obligation.
+The historical audit supplied language and integrity results, with an initial metadata match. The completed volumes and checkpoints record the scope verified by this project.
 
 ## 3. Sequential contribution contract
 
@@ -153,6 +153,22 @@ INITIAL becomes EVOLVING when source-grounded findings justify adaptation. STABI
 Backfill is bounded to material gaps. Try complete existing readings and retained evidence routes first; reread only the necessary authorized source. Do not rerun the corpus merely to adopt a cleaner template.
 
 **Foundation amendment, 2026-11-15.** Global initiation §5.5.1 (v1.12) adds a binding independently usable portrait standard. Sections 5, 13 and 16 now route qualification, production and separate acceptance results. This preserves the INITIAL design and artifact IDs. The zero-admission baseline entails no scored subjects, changed claims or source backfill.
+
+**Retrospective amendment, 2026-11-15.** The complete V01–V10 evidence justifies the EVOLVING lifecycle. The [retrospective qualification](audits/SHIBOYUGI_RETROSPECTIVE_QUALIFICATION.md) and the [state-ledger view](SHIBOYUGI_STATE_AND_EVIDENCE_LEDGER.md#v01v10-character-qualification-and-acceptance) require 59 standalone character portraits and individual reasons for 52 deferrals. [Independent acceptance](audits/SHIBOYUGI_RETROSPECTIVE_ACCEPTANCE.md) records the two portrait checks, specialist evidence dependence, conflicting diagnoses and resolutions. The two day-one ledgers still suffice for longitudinal identifiers and revisions. Corrections discovered in retrospective work follow the current claim ledger, with their historical observations available through the original readings.
+
+The [integrated synthesis](SHIBOYUGI_V01_V10_INTEGRATED_SYNTHESIS.md) can compare the principal arguments but would compress several kinds of evidence that deserve full treatment. The seven responsibilities below each have the V01–V10 Japanese boundary. Their descriptions identify what the review must test and where it stops.
+
+| Canonical home | Independent responsibility and limiting test |
+|---|---|
+| [Chronology and disclosure](studies/SHIBOYUGI_CHRONOLOGY_AND_DISCLOSURE.md) | Compare story events, presentation, and holders of knowledge. Entries that seem simultaneous need specific temporal evidence. The V07 synchronized car ride and meeting test that requirement. |
+| [Game rules and adjudication](studies/SHIBOYUGI_GAME_RULES_AND_ADJUDICATION.md) | Trace stated conditions, actual constraints and organizer action through disputed and straightforward cases. Test the V03 vessel against the specifically adjudicated V10 escort. Preserve divergent counts and partial reports. |
+| [Livelihood and care](studies/SHIBOYUGI_LIVELIHOOD_AND_CARE.md) | Compare money, treatment, household and exit practices across who can perform, pay or decide. Keep the unsigned scale document, Sana’s agreement and an actual consent sequence distinct. |
+| [Yūki and Setsuna](studies/SHIBOYUGI_YUUKI_AND_SETSUNA.md) | Reconcile asymmetric knowledge, actual reciprocal aid and disagreement over decisions. Distinguish effective #62.5 emergency choices and delegated housing from later expressly negotiated material terms. |
+| [Apprenticeship and succession](studies/SHIBOYUGI_APPRENTICESHIP_AND_SUCCESSION.md) | Explain different social transfers and their refusals through the pupils of Hakushi, Mishiro, Kyara and Yūki, Rinrin’s work, and the contrast with institutional succession. Test actual lessons apart from imitation and allegations of inheritance. |
+| [Airi, Maguma and Yūki](studies/SHIBOYUGI_AIRI_MAGUMA_YUUKI.md) | Track three-sided conditional cooperation and disagreement through conduct from different viewpoints. Earn any claim of personal change while keeping career decisions and actual departures distinct. |
+| [Mikkai ensemble](studies/SHIBOYUGI_MIKKAI_ENSEMBLE.md) | Explain group labor, household access, technical promises and authority to recruit. Test what Yūki hears at the earlier call, what V09 tells the reader, and what Airi does under the actual contract and ship conditions. |
+
+Ethical interpretation, violence and the representation of attention, linguistic register and visual placement continue across the integrated work, character portraits and annotated readings. A single visual language or a second cast-wide relationship authority would exceed what the admitted material demonstrates. The same applies to permanent rule codification, financial accounting, psychiatric diagnoses and adaptation comparison. [Reconstruction readiness](SHIBOYUGI_RECONSTRUCTION_READINESS.md) routes the separate, state-specific downstream responsibility. No release changes the admitted source boundary.
 
 ## 13. Completion gates
 
