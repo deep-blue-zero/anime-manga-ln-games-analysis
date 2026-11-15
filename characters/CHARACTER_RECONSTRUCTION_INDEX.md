@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 133; `SUPERSEDED` 29
+- Recorded totals: `CANDIDATE` 135; `SUPERSEDED` 29
 
 ## Namespaces
 
@@ -35,7 +35,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`one-punch-man`](reconstruction_index/one-punch-man.md) | 1 | 1 |
 | [`peach-girl`](reconstruction_index/peach-girl.md) | 6 | 7 |
 | [`re-zero`](reconstruction_index/re-zero.md) | 18 | 19 |
-| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 4 | 4 |
+| [`shokugeki-no-soma`](reconstruction_index/shokugeki-no-soma.md) | 6 | 6 |
 | [`shuukura`](reconstruction_index/shuukura.md) | 1 | 2 |
 | [`solo-leveling`](reconstruction_index/solo-leveling.md) | 3 | 3 |
 | [`sound-euphonium`](reconstruction_index/sound-euphonium.md) | 1 | 1 |
@@ -160,7 +160,9 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `re-zero:theresia-van-astrea@light-novel` | [`re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01`](reconstruction_index/re-zero.md#re-zero-theresia-van-astrea-ln-v01-v20-model-20261028-01) | `CANDIDATE` | `C` | `6e50c633339b9e2b2d569d0f0eea53a7290cdc16` |
 | `re-zero:wilhelm-van-astrea@light-novel` | [`re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01`](reconstruction_index/re-zero.md#re-zero-wilhelm-van-astrea-ln-v01-v16-model-20261024-01) | `CANDIDATE` | `C` | `38cb5cbdb32ef77596f93b4d2c5c7ee1609ca357` |
 | `shokugeki-no-soma:aldini-takumi@manga` | [`shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-aldini-takumi-manga-bounded-model-20261106-01) | `CANDIDATE` | `C` | `ed16d08d72d08c45e8647d8daac749a8b6f7c6c5` |
+| `shokugeki-no-soma:hayama-akira@manga` | [`shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-hayama-akira-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
 | `shokugeki-no-soma:ikumi-mito@manga` | [`shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-ikumi-mito-manga-bounded-model-20261023-01) | `CANDIDATE` | `C` | `c5166e2059fd671dcaac2283fd72b4c04f88be06` |
+| `shokugeki-no-soma:kurokiba-ryo@manga` | [`shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-kurokiba-ryo-manga-bounded-model-20261115-01) | `CANDIDATE` | `C` | `d0019f2f149d57a9f817238a899dff9248a2ca9f` |
 | `shokugeki-no-soma:nakiri-erina@manga` | [`shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-nakiri-erina-manga-v2-monograph-20261114-01) | `CANDIDATE` | `B` | `f4b3164218ddeacb5b94fbe9678d315beed44972` |
 | `shokugeki-no-soma:yukihira-soma@manga` | [`shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01`](reconstruction_index/shokugeki-no-soma.md#shokugeki-no-soma-yukihira-soma-manga-v2-validated-model-20261112-01) | `CANDIDATE` | `B` | `4d83b32a8ef03b3e109e261b32151b737f58fdf3` |
 | `shuukura:mio-komatsu@original-light-novel` | [`shuukura-mio-komatsu-ln-kss12-ln10-20261031-01`](reconstruction_index/shuukura.md#shuukura-mio-komatsu-ln-kss12-ln10-20261031-01) | `CANDIDATE` | `E` | `ebf7e7df5a673ffdad79f7c60ae0d735ead2bb8b` |
