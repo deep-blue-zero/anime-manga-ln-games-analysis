@@ -1019,3 +1019,11 @@ China's disciplined trust in instruction permits individualized progress. The te
 **Scope.** C1 within the `ガラクタロード` lesson sequence, C2 relative to the winter result.
 
 **Claim disposition.** `CHINA-R86-C03` — ADD to the incremental-learning account and STRENGTHEN `CHINA-C16`.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+### China makes room for Kanae’s own ambition
+
+China's consultation in Kanae Dear 000-05 is identified in Kanae Dear 001. She chooses an exam proposal mediated by the Producer because a direct order would become maid work. The Producer checks both household approval and Kanae's own decision. China describes the inherited service role as a choice, privately wants the Producer's attention, and makes Kanae her exception. Kanae needs to pass the test herself. Later China helps in the ways she can, including the admission ornament and food before the advancement assessment, and she invites Kanae to aim for Prima Stella. Kanae then requests help with fan-club work while promising to continue serving China. `adv_dear_hkne_001.txt` L26–50, L264–282, L344–350, L431–450, L474–583; `adv_dear_hkne_005.txt` L272–355; `adv_dear_hkne_009.txt` L34–89, L311–393, L548–642; `adv_dear_hkne_010.txt` L16–29 and L212–247.
+
+**Scope.** `CHINA-R88-C01` resolves the proposal and Kanae's locally documented student and idol status left open in `CHINA-R86-C01`. China is already Prima Stella and prospective president in the entering context. The compatible China-winning state supports China’s participation in Kanae’s development. The exact preceding China Produce route and effectiveness of the hoped-for professional rivalry stay open. [Kanae reading](../14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md).

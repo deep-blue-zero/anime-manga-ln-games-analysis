@@ -398,3 +398,10 @@ Keep separate: Temari’s 3D crying, Rinha’s bust expression and Temari’s re
 | Lilja, Saki and Ume | AV-CARBON-E030-001 | GKM-R86-06 | Compare the same line across failed and accepted takes. | E030 | Text and reported staff decisions, rendered delivery pending. |
 | Kotone | AV-CARBON-KOT-001 | GKM-R86-01 | Mark imagined, recorded and public audience layers and delivery shifts. | D-KOTONE 035–036 | Text and script staging, voice and rendering pending. |
 | Sena and Tsubame | AV-CARBON-TSB-003, AV-CARBON-SEN-001 | GKM-R86-02, 03 | Track private address and titleholder address inside their own outcomes. | D-TSUBAME and D-SENA | Synchronized AV pending. |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| character | AV source | text source | delivery question | story state | status |
+| --- | --- | --- | --- | --- | --- |
+| Hiwatari Kanae | AV-HKNE-R88-04 | GKM-R88-01, Dear 004/005/008 | align technical performance instruction, courtesy with China, private speech and the explicit request to step on stage | Kanae Dear, multiple distinct scenes | AV-C script and register only |
+| Hiwatari Kanae | AV-HKNE-R88-05 | GKM-R88-06, live 001 and seven common steps | resolve `{voice_asset_id}` where applicable and align voice cues to messages or non-message slots | separate live wrappers and common steps | AV-C cues, zero direct listening |
