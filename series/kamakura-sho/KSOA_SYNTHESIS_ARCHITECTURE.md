@@ -5,9 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: KSOA-G1
-version: "1.1"
+version: "1.2"
 created: "2026-11-12"
-last_updated: "2026-11-14"
+last_updated: "2026-11-15"
 status: canonical
 scope: "Longitudinal evidence, claim revision, specialist responsibilities and series integration."
 source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
@@ -112,6 +112,35 @@ The [midpoint reconciliation](audits/KSOA_V04_LONGITUDINAL_RECONCILIATION.md) mo
 The [terminal reconciliation](audits/KSOA_SOURCE_COMPLETION_AND_LONGITUDINAL_RECONCILIATION.md) and [role-gap audit](audits/KSOA_ARCHITECTURE_ROLE_GAP_AUDIT.md) establish the source and evidence basis. The five specialist studies and their [convergence review](audits/KSOA_SPECIALIST_CONVERGENCE.md) support the `STABILIZED` lifecycle. The two lead monographs and directed relationship study answer different questions. The mystery study tracks attribution and timing, and the policing study links access, place and prose. The [integrated synthesis](studies/KSOA_INTEGRATED_SERIES_SYNTHESIS.md) uses their bounded findings. This architecture amendment records those mature dependencies and the late cases’ distinct disclosure and concealment roles. No source-reading backfill is needed.
 
 The [reconstruction readiness assessment](audits/KSOA_CHARACTER_RECONSTRUCTION_READINESS.md) records interpretive sufficiency and its limits. An operational candidate and its tests require their own authorization. The [release review](audits/KSOA_PRODUCER_REVIEW_AND_RECEIVING_HANDOFF.md) records producer validation and the receiving obligation.
+
+## Independent reconciliation review (2026-11-15)
+
+An independent, Claude-authored generation, **KSOA-CB1**, read the same seven witnesses blind. It used a sanitized methodological intake, had no exposure to KSOA-G1 interpretations, and froze before any comparison. A protocol registered before unblinding then compared the two generations. Independent adjudicators decided every material discrepancy against the Japanese text. Majority, length and confidence never decided. The [comparison and adjudication report](audits/KSOA_CB1_COMPARISON/KSOA_CB1_COMPARISON_AND_ADJUDICATION_REPORT.md) holds:
+- the provenance and exposure record;
+- the 129 discrepancy records;
+- the dimension-by-dimension comparison;
+- the integration record.
+
+The review admits no source and alters no frozen reading. Its changes follow the existing revision routes:
+
+| Responsibility | Canonical home |
+|---|---|
+| Corrections to the frozen deep readings | [Deep reading errata](audits/KSOA_DEEP_READING_ERRATA.md). The readings stay byte-unchanged; the errata govern their correction |
+| Reader-facing openings | The `readings/KSOA_Vnn_READING_INTRODUCTION.md` pages, by targeted revision |
+| Evidence additions and corrections | New rows in the case, disclosure and character ledgers, with existing rows preserved |
+| Interpretive changes | `-RNN` revisions and new claims in the [claim revision ledger](KSOA_CLAIM_REVISION_LEDGER.md) |
+| Comparison records | [`audits/KSOA_CB1_COMPARISON/`](audits/KSOA_CB1_COMPARISON/KSOA_CB1_COMPARISON_AND_ADJUDICATION_REPORT.md). The registers are historical inputs; the adjudications are canonical decisions |
+
+KSOA-CB1 is an independently authored, noncurrent analysis with limited authority. It is not a second source of literary truth. Its frozen package remains outside Git and is identified by its manifest SHA-256, `35f7a16eddf07a6dffb0750e1146c34874d227a486886db36ca7bf9248113040`. Publishing it would require an owner-merged `frozen_generation_publications` binding under initiation policy §3.9.5. Where KSOA-CB1 contributed findings, they entered the canonical homes above only after adjudication.
+
+### Character monograph qualification
+
+This project's analytical purpose includes person-level literary synthesis. The [monograph qualification record](studies/KSOA_MONOGRAPH_QUALIFICATION_RECORD.md) is therefore the home for qualification decisions under the [self-contained character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard).
+- **Naming.** Monographs live under `studies/` and are named `KSOA_<GIVEN>_<FAMILY>.md`.
+- **Supplying captures.** The volume readings, the character and relationship ledger, the case ledger and the disclosure ledger.
+- **Eligibility.** Eligibility follows the standard's qualification test. The pre-standard criterion in [Specialist and character studies](#specialist-and-character-studies) operates only within that test and excludes no character the evidence qualifies.
+- **Lead monographs.** The two lead monographs were generally revised to v2.0 under the standard.
+- **Outstanding production.** Seven bounded or recurring non-lead characters qualify. Their monographs are outstanding production obligations, so the character layer is not complete until they exist.
 
 ## Architecture lifecycle and retrieval
 

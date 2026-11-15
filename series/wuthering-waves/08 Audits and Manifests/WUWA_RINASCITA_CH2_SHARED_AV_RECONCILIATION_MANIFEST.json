@@ -885,8 +885,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": null,
       "before_bytes": null,
-      "after_sha256": "c7120956f3114c85307cbee90f0b8146c97142c3b446012fa1787e10cf8b3515",
-      "after_bytes": 37572
+      "after_sha256": "890c1428d85df3984ea61654831d2d2caa2065bcaf86ca70ca6080687b56bcac",
+      "after_bytes": 38322
     },
     {
       "repository_path": "series/wuthering-waves/CURRENT_STATE_AND_CORPUS_MAP.md",
