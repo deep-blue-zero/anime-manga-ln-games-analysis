@@ -43,6 +43,10 @@ Start with each character's `03 Audiovisual and Voice/CHARACTER_VISUAL_DESIGN_PR
 
 The [V0.2 visual-profile publication record](08%20Audits%20and%20Manifests/WUWA_CHARACTER_VISUAL_PROFILE_V0_2_IMPORT.md) binds the 54 Git artifacts to the read-only extraction receipt and documents the raw-media boundary.
 
+### Chapter II (*Rinascita*) shared audiovisual reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
+
+A bounded multi-character scene-level audiovisual pass over the complete 1080p60 English-dubbed Chapter II *Rinascita* main-story recording witness `WUWA_CH2_FAYATO_1080P60_6076F127` (`105,804.732367 s` / `29:23:24.732`, Prologue `114000026` through Act XI `158800019`) is recorded in the [Chapter II shared AV reconciliation audit](08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) and its companion manifest. It dispositions all `483` nominated crosswalk rows across the 16 crosswalk-bearing packets (`92` `inspected_resolved`, `13` `not_triggered_optional_in_recording`, `22` `out_of_scope_non_main_story`, `356` `out_of_recording_scope`), updates Cartethyia's current `active_provisional` router/crosswalk/prior-generation revision ledger (`27/33` targets resolved), appends bounded runtime AV notes to eleven `draft_noncurrent` character packets without altering their noncurrent status (`do_not_use_as_current_authority: true`), and indexes `27` multi-character evidence capsules in the restricted dataset outside Git. Comparative four-dub human listening (`zh-Hans`, `ja`, `ko`, `en`), Patch `2.7` Segue `175000000`, Chapter I, `3.x` arcs, and Companion/Side/Event witnesses remain open.
+
 ### Cartethyia
 
 Cartethyia has an imported **V0.2 active-provisional analytical baseline**:
@@ -148,7 +152,7 @@ project_initialization:
 | `01 Source Lock and Inventory` | Git-side source boundary and Drive pointers | populated, canonical V0.1 |
 | `02 Sequential Readings` | Quest/arc/event deep readings | contract present; no readings yet |
 | `03 Longitudinal Ledgers` | Cross-reading state, relationship, chronology, world, and uncertainty infrastructure | initialized, active provisional |
-| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, audits, and bounded visual-design profiles | Cartethyia populated; Aemeath/Denia/Lynae/Chisa pre-AV packets active provisional; Sigrika V0.2 text/audio packet active provisional; 18-character V0.2 static visual layer active provisional |
+| `04 Character Analysis` | Character syntheses, reconstruction profiles, models, audits, and bounded visual-design profiles | Cartethyia populated (`27/33` Chapter II EN scene-AV targets + `29`-moment / `116`-render 4-dub calibration reconciled, active provisional); Aemeath/Denia/Lynae/Chisa pre-AV packets active provisional; Sigrika V0.2 text/audio packet active provisional; 12 published noncurrent drafts (`8` with resolved Chapter II EN scene-AV targets + `48`-moment / `192`-render 4-dub calibration, still `draft_noncurrent`); 18-character V0.2 static visual layer active provisional |
 | `05 Specialist Synthesis` | Recurring thematic/institutional/media questions | not instantiated until justified |
 | `06 Full-Series Synthesis` | Release-bounded title-level synthesis | not instantiated; live-service title incomplete |
 | `07 Evidence and Indexes` | Character discovery, claim routing, Drive/Git crosswalk | populated, canonical/active |

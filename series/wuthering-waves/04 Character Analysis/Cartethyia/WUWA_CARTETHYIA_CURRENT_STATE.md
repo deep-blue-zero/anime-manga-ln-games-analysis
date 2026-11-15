@@ -62,10 +62,21 @@ The [V0.2 visual-design profile](03%20Audiovisual%20and%20Voice/CHARACTER_VISUAL
 ## Open hardening work
 
 - refresh the voice profile against the current complete machine evidence rather than the V0.2 pilot/cohort boundary;
-- conduct selective human four-dub listening after machine-led cohort selection;
+- expand human four-dub listening beyond the completed 29-moment (116-render) Chapter II/archive calibration cohort toward full V0.3.1 corpus refresh;
 - perform direct audiovisual review of bounded anchor scenes;
 - reconcile any V0.3.1 identity/occurrence changes without silently changing V0.2 claims;
 - retain Cartethyia's duty-reinscription rival and later self-sacrifice as live counterevidence.
+
+## Chapter II shared AV pass (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
+
+The [Chapter II shared AV reconciliation audit](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md) examines all 33 Cartethyia crosswalk targets (`AV01`–`AV23` and `V03_CLIP_A`–`V03_CLIP_J`) against the complete 1080p60 English-dubbed Chapter II *Rinascita* main-story recording witness `WUWA_CH2_FAYATO_1080P60_6076F127` (`105,804.732367 s` / `29:23:24.732`, SHA-256 `6076f1271e7a3c32b4b4d49bd5c50de23d2d2e7b1c9c9009fc4c3b3d19f1c3ed`, Female Rover `Faz`):
+
+- **27 `inspected_resolved` in-recording targets**: `AV01` (`SEG-004` `SCN-0070`), `AV03`–`AV12` and `V03_CLIP_A`–`V03_CLIP_J` (`SEG-005` `SCN-0078`–`SCN-0102`, including optional morning Terminal call `AV12` at `flow#/7627`), `AV15` (`SEG-007` `SCN-0142`, `SCN-0148`, `SCN-0152`–`SCN-0153`), `AV16` (`SEG-008` `SCN-0155`), rescued `AV19` (`SEG-012` `SCN-0295`, `flow#/8852`–`8854`), and Act XI finale targets `AV20`–`AV22` (`SEG-012` `SCN-0313` and `SEG-013` `SCN-0314`, `SCN-0327`, `SCN-0337`–`SCN-0339`, `SCN-0341`, `SCN-0343`).
+- **3 `not_triggered_optional_in_recording` targets**: `AV02` (`SEG-005` `SCN-0096`, inventory-padlocked Rinascita dish option in `flow#/5762`), `AV14` (`SEG-007` `SCN-0154`, post-Act-VI Solis Tavern aftertalk `flow#/7735` bypassed at cut), and `AV18` (`SEG-008` `SCN-0181`, post-Act-VII Ragunna/Black Shores side prompts bypassed).
+- **3 `out_of_scope_non_main_story` targets**: `AV13` (post-Act-IV overworld ecology `katixiya-shengtai_*`), `AV17` (Septimont rail-sliding side challenge `flow#/9031`/`9035`), and `AV23` (Version 3.1 drink-mixing event `flow#/14569`/`15099`).
+- **Speaker and avatar hygiene**: separates Leviathan impersonation `who=1626` (`Cartethyia?`) and `who=1647` (`Threnodian: Leviathan`) from authentic `Cartethyia` (`who=50074`), frequency-channel `who=800343`, Cartethyia+Galbrena unison `who=1633`, and non-diegetic post-Chaos exploration avatar `char:cartethyia_avatar` (`SEG-011`).
+- **Four-dub voice calibration (`29` moments / `116` renders; [four-dub voice ledger](../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_FOUR_DUB_VOICE_LEDGER.md))**: directly calibrates `zh-Hans`, `ja`, `ko`, and `en` across `CART-DUB-01`..`23` and `CART-EXTRA-01`..`06` (`0` shared-PCM placeholders), establishing `zh-Hans` single-personhood continuity (`184`–`306 Hz` / `190`–`202 Hz`), `ja`'s `>110 Hz` maiden-to-imperative plunge (`148.4 Hz` in `弱すぎる`, falsified against passive fragility by `CART-DUB-04`/`19`), `en`'s chest-grounded British RP poise and dynamic grit (`147`–`255 Hz`, falsified against stiffness by `CART-DUB-20` and `FavorWord_140907`), `ko`'s polite `-요` to high dramatic belt (`262`–`273 Hz`), `who=1626` Leviathan vocal counterfeit (`CART-EXTRA-05`), and `who=1633` simultaneous Cartethyia+Galbrena two-actress layering (`CART-EXTRA-06`).
+- **Remaining open gates**: full-census human listening across the remaining `757` of `786` Cartethyia lines, the `6` unviewed optional/non-main-story AV targets, and the four absent source flow states (`WUWA-OQ-003`) remain open; the packet remains `active_provisional`.
 
 ## Reconstruction boundary
 
