@@ -151,12 +151,12 @@ SHA-256: `433074a1e9f3bba3334b173ccd913c47b3a47e18196f492ddf62c957b7210cfb`
 |---|---|
 | `textually_reconstructed` | Supported within the declared frozen/materialized selection |
 | `machine_voice_profiled` | Not claimed; full pitch, activity, pause, rate, normalization, and partitioned analysis remains incomplete |
-| `audiovisual_hierarchy_completed` | Provisionally prepared; source classes, 23 narrative targets, retrieval mappings, existing witnesses, and explicit unknowns are recorded |
-| `audiovisually_hardened` | False; no new direct AV reading completed |
+| `audiovisual_hierarchy_completed` | Provisionally prepared and reconciled against Chapter II runtime witness (`27/33` targets `inspected_resolved`, `6` optional/non-main-story open in [AV crosswalk](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md)) |
+| `audiovisually_hardened` | False (`27/33` main-story targets inspected; `6` optional/non-main-story targets remain unviewed) |
 | `fidelity_checked` | Bounded non-blind self-audit of the prose model, not predictive validation |
 | `model_compiled` | Not claimed as a canonical machine-readable model |
 | `integrated_reconstruction_completed` | False |
-| Human performance review | No new annotation; optional terminal hypotheses retained only |
+| Human performance review | Stratified `29`-moment / `116`-render four-dub calibration recorded in [speech/performance profile](03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md) (`27/786` solo + `1` `who=1626` + `1` `who=1633`; `759/786` solo lines unreviewed) |
 
 A broader voice census does not by itself complete a machine-voice profile. The supplied record set includes 24 five-channel objects, as well as mono and stereo files. No spatial-layout or isolated-speaker inference is made. Shared PCM across language memberships prevents treating every association as an independent actor performance.
 
