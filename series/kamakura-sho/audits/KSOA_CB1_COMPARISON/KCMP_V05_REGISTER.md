@@ -26,6 +26,7 @@ source_record_bytes: 53181
 source_record_body_sha256: b01619ad71dfb4b62b595a8b56b941362326f04f1a14b61bd6c633a3459c94c2
 copy_transformations:
   - "line endings normalized CRLF to LF (341 lines); repository validators reject carriage returns"
+  - "post-copy custodian scrub (2026-11-15): 1 mention of the local KSOA-CB1 working-folder name replaced with 'KSOA-CB1:' where followed by a slash or backslash, otherwise with 'KSOA-CB1'; no other body byte changed; reversing the substitution reproduces the copied body"
 path_rewrites: []
 integration_date: "2026-11-15"
 integrated_by: INT-6

@@ -286,6 +286,8 @@ The sober "of course I'm cute" and the drunk "I'm not pretty, so I'm left alone"
 - **Humour, food, Kamakura walks and drink** (see [preferences](#preferences-and-ordinary-life)).
 - **Recovery after anger.** In V05 her morning hostility gives way by the afternoon, 「午後に入っての亜澄はふだんの姿を取り戻している」 [V05 C03 p0411]. In V06 C01 she snaps at Sayaka, then looks a little contrite and recovers her composure [V06 C01 p0331]; after the V06 C03 tirade she returns to ordinary analysis within the same walk [V06 C03 p0342–0346]. Her anger is visible and intense, but in the scenes shown it is short-lived.
 
+<a id="from-noticing-a-difference-to-making-it-testable"></a>
+
 ## Cognition: from noticing a difference to making it testable
 
 ### What she notices
@@ -348,6 +350,8 @@ No scene in the corpus shows her conducting an interview while a superior watche
 **Confidentiality against the case.** She keeps the public silent (no publication) and treats private confidences as instruments when the case needs them (V03; V05; V06; V01 and V04 less clearly).
 
 **Personal feeling against duty.** In V05–V06 her animus toward Sayaka and Emiri leaks into questioning. Motoya judges that she normally knows better but is 「あきらかに調子が狂っている」 around them [V06 C03 p0139]. Emiri says she came to fear the police after the previous month's case [V06 C03 p0129–0134]; Sayaka puts it as fear of Asumi [V06 C03 p0057]; Motoya blames Asumi's interrogating tone [V06 C03 p0138]. These are the reasons Emiri brings her corrected account to Motoya instead.
+
+<a id="the-costs-and-uses-of-control"></a>
 
 ## Behaviour: the costs and uses of control
 
@@ -630,6 +634,8 @@ The one diagnostic case cuts against the idea that attraction biases her judgmen
 ### Family
 
 Pride in her father and the shop [V04 C02 p0628–0633]; empathy through him, when she mentions his talk of retiring to a witness [V05 C03 p0511]. She never mentions her mother; one scene of moistened eyes is tied to her only by Motoya's knowledge [V03 C02 p0575–0577]. One memory of her grandmother [V06 C02 p0443]. The text gives no scene with any family member.
+
+<a id="address-ordinary-life-and-felt-need"></a>
 
 ## Preferences and ordinary life
 
@@ -980,4 +986,4 @@ Adjudication records cited here are in `audits/KSOA_CB1_COMPARISON/` ([ADJ_A](..
 
 **Post-acceptance fixes (2026-11-15, still v2.0).** The independent acceptance review (self-containment PASS, fidelity CONDITIONAL) listed 16 defects. Each was tested against the witness before editing, and all 16 are fixed; none is declined. **M1:** the claimed V03 shift from summons to celebration invitations is withdrawn in all five places (orientation, characteristic expressions, the V03 development entry, the stable-and-changing table, R1). Case-end invitations are hers from V01 [V01 EPI p0008]; what ends after V02 is the bully card, and in V05 she conscripts Motoya off duty by insistence alone [V05 C01 p0344–0352]. **m1** the orientation now names Sayaka and drops "only"; **m2** the V05 吉川くん count is corrected (p0500 is Watanabe's line); **m3** the V02 route to her own station is no longer called a lapse, and Nikaidō's 渋い顔 is attached to the loan of the pair [V02 C03 p0527]; **m4** the V06 bar exchange is put in order; **m5** Emiri's own stated fear of the police is separated from Sayaka's relay; **m6** the V06 promise to Kasuya and its later uses join the record of confidences; **m7** Izumida's whereabouts are Sayaka's report, tacitly accepted; **m8** 無茶苦茶な希望 covers the whole wish; **m9** the V04 advertising worry is Motoya's thought; **m10** the prank theory is relocated to [V01 C01 p0726–0731]; **m11** 被害届 is glossed as a victim's report; **m12** Sōjirō and Takaharu are named; **m13** the V06 resident is named, Shinagawa; **m14** Aonuma Yasushige, Shiobara and Nikaidō are named in the V07 briefing paragraph; **m15** Miura, Akao and Sekikawa Yōsuke join the cast table. Two advisory points were also taken: the V07 arrest is described as made by Yoshida's team, and Ichiyō is named as the owner who consents in V03. The optional trims of four 41–42-character quotations were declined: they are within the tolerance, and the freeze-out line keeps the load-bearing fact that Motoya had reported at once.
 
-**Acceptance.** The two acceptance properties, self-containment and fidelity, are reviewed and recorded separately in the [qualification record](KSOA_MONOGRAPH_QUALIFICATION_RECORD.md), not in this document. Until that record shows both, Asumi remains `QUALIFIED_PENDING`, and this document claims no `COMPLETE_AT_BOUNDARY` status.
+**Acceptance.** The two acceptance properties, self-containment and fidelity, are reviewed and recorded separately in the [qualification record](KSOA_MONOGRAPH_QUALIFICATION_RECORD.md), which is the authority for this monograph's status. That record shows self-containment PASS, and fidelity CONDITIONAL at review and PASS once the post-acceptance fixes above were made. It records the monograph `COMPLETE_AT_BOUNDARY`.

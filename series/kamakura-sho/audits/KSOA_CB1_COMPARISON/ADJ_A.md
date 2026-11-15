@@ -24,6 +24,7 @@ source_record_bytes: 133981
 source_record_body_sha256: 999b4750b64a63716da9f8a3e5fd370aeaab71f18adc6eb5914ed2ed747facfb
 copy_transformations:
   - "16 project-root-relative Markdown link targets re-based with a '../../' prefix so they resolve from the new folder; no other body byte changed"
+  - "post-copy custodian scrub (2026-11-15): 1 mention of the local KSOA-CB1 working-folder name replaced with 'KSOA-CB1:' where followed by a slash or backslash, otherwise with 'KSOA-CB1'; no other body byte changed; reversing the substitution reproduces the copied body"
 path_rewrites:
   - "source line 608: (readings/KSOA_V01_DEEP_READING.md#ksoa-v01-h-0011) -> (../../readings/KSOA_V01_DEEP_READING.md#ksoa-v01-h-0011)"
   - "source line 610: (readings/KSOA_V01_DEEP_READING.md#ksoa-v01-h-0004) -> (../../readings/KSOA_V01_DEEP_READING.md#ksoa-v01-h-0004)"

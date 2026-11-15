@@ -325,7 +325,22 @@ The orchestrator assigned these destinations. Each is applied in this change by 
 
 Type (h) actions, the CB1-only corrections, are not applied to the KSOA-CB1 baseline, which stays frozen. They are recorded in each adjudication's §3(h) and bind any future reuse of CB1 material, including the non-lead monograph seeds (KCMP-CHAR-015).
 
-**Note.** The final per-file outcome is recorded in the orchestrator's verification report. That report lists the actions applied, merged and declined in each destination, the reconciled row IDs, and any deviation where the source overrode an adjudication. Row IDs written in the adjudications (for example `KSOA-V01-EV-0023`) are provisional proposals. The authoritative IDs are those assigned in the ledgers.
+### Integration outcomes
+
+This subsection is the decision trail for integration. It records what was applied, merged or declined in each destination, and where the Japanese source overrode an adjudication's wording. Row IDs written in the adjudications (for example `KSOA-V01-EV-0023`) were provisional proposals. The authoritative IDs are those assigned in the ledgers. No adjudicated action was declined.
+
+| Destination | Applied | Merged or restructured | Source-resolved deviations and notes |
+|---|---|---|---|
+| Errata carrier (INT-2) | 36 type-(a) actions became 33 errata | 4 merged; 1 split | The V02 filing is a victim's report (被害届), conditional on the detectives' promise [V02 C03 p0480–0482], and is accepted by the fraud squad [p0525]. The V06 drugging is Asumi's accusation, covered only by the confession summary at [V06 EPI p0005] |
+| Reading introductions (INT-2) | 22 type-(b) actions | 4 merged | In the V06 epilogue, バディ [EPI p0019] precedes the rank jab [p0021], so actions B-04 and F-03 were reordered. The V04 introduction was already at v1.2 and moved to v1.3 |
+| Claim revision ledger (INT-2) | 29 type-(f) actions became 26 entries; count line 74 to 94 | 3 merged | KCMP-CHAR-010 was entered as a note, not a claim row. `KSOA-V03-CL-0001-R02` PRESERVEs probable homicide and keeps the suicidal ideation OPEN. `KSOA-SER-CL-0004-R01` DOWNGRADEs the claim to moderate–high |
+| Case, disclosure and character ledgers (INT-1) | All 134 type-(c)–(e) actions (A 37, B 39, C 32, D 26); 161 rows added (53 case, 25 disclosure, 83 character) | 17 duplicates merged; rows spanning volumes split by horizon | Corrections are `-R01` rows that name the row they correct. Horizons were recomputed from locators. V04–V07 state rows use the `CH` kind. Provisional IDs were renumbered (Group D's V01 `VOICE` rows, V02 `VOICE-0008`, V03 `ADJ-0005`). Source resolutions: the V01 extortion reaches the reader only through 三村和枝's quotation [V01 C03 p0977]; the V02 clue is the pianist 椎名慶一, not "piano" [V02 C01 p0643]; "sideboard" is Asumi's word [V04 C03 p1042]; "1961" was dropped for 宮崎隆之 because [V04 C03 p0213] gives no year; no reading for 薬師寺 is attested; "Mitsuki's father" first appears at [V06 C03 p0426] |
+| Asumi monograph v2.0 (INT-3) | 12 type-(g) actions and 10 KSOA-CB1-binding corrections | Address forms, methods and confidences, and the V07 credit consolidated | The V05 promise to 榎本 appears both unconditional (KCMP-CHAR-006) and in a later conditional restatement [V05 C03 p0754] (KCMP-V05-013). Both are shown, and whether she broke the confidence is left as a judgment. The 小寺 remark is an insinuation, not a bluff. Links to the new ledger rows cite adjudication IDs, since row IDs were still being reconciled. Acceptance review: 1 MAJOR and 15 MINOR defects, all fixed |
+| Motoya monograph v2.0 (INT-4) | About 19 type-(g) actions | Finale context merged (KCMP-CHAR-007, -SERIES-003, -V07-002); register actions merged into KCMP-CHAR-002 and -003 | KSOA-CB1's misjudgment tallies were not carried over, as unreliable after correction. A KSOA-CB1 claim that Motoya never considers Asumi's hostility toward him is contradicted at [V06 C01 p0297]. Acceptance review: 1 MAJOR and 13 MINOR defects, all fixed |
+| Four studies (INT-5) | All 20 type-(g) actions (A 5, B 4, C 6, D 5) | V07 finale (C G-07 with D); V06 drugging (C G-01 with KCMP-SERIES-004); bluffs and the V05 confidence (KCMP-SERIES-006, -CHAR-006, -V05-013) | Motoya's おまえ continues through V03, not V01 only. V05 public use cites both [V05 C03 p0842] and [p0900]. G-04's "below its cliff" became "a lane below a cliff". 宮崎隆之's withheld account concerns the accomplice, not "the instigation". Motoya's appraisal of Asumi is "qualified" only for appearance. Because C and D graded `KSOA-SER-CL-0004` differently, the studies say only "downgraded from high"; the claim ledger holds the grade |
+| Qualification record, architecture, entrypoint (orchestrator) | ADJ_D §2B.2; KCMP-CHAR-011 | — | **Not applied:** the entrypoint name-reuse note proposed under KCMP-SERIES-009 (P3), which is deferred as enrichment |
+
+**Unreconciled adjudication grading.** KCMP-V07-011 (ADJ_C, a P3 omission) and KCMP-SERIES-011 (ADJ_D, a P1 error) grade the V07 prologue "He" item differently. Both records stand. The integrators applied the substance once, and the higher grading governs any later audit.
 
 ## (j) Proposed publication route for the KSOA-CB1 baseline
 
@@ -411,21 +426,21 @@ Each record below was copied from the comparison workspace with its body preserv
 
 The same list appears in the `path_rewrites` field of the ADJ_A copy. To recover the original body exactly, strip the `../../` prefix from these sixteen targets, or for the V05 register restore CRLF. Each result reproduces the `source_record_body_sha256` recorded in that file's front matter.
 
-**Custodian scrub (2026-11-15, after the copy above).** The copied bodies contained 20 workspace-relative mentions of the local KSOA-CB1 working folder name, mostly locating the extracted witness text the reviewers read. To avoid publishing a local evidence location, the orchestrator replaced each mention of that folder name, followed by a slash or backslash, with the package identifier `KSOA-CB1:`. A bare mention was replaced with `KSOA-CB1`. No other bytes changed. To recover the pre-scrub body, reverse this substitution. Affected files and their resulting SHA-256:
+**Custodian scrub (2026-11-15, after the copy above).** The copied bodies contained 20 workspace-relative mentions of the local KSOA-CB1 working folder name, mostly locating the extracted witness text the reviewers read. To avoid publishing a local evidence location, the orchestrator replaced each mention of that folder name, followed by a slash or backslash, with the package identifier `KSOA-CB1:`. A bare mention was replaced with `KSOA-CB1`. No other bytes changed. To recover the pre-scrub body, reverse this substitution. Each affected record also declares the scrub in its own `copy_transformations` front matter. The affected files and their resulting SHA-256:
 
 | File | SHA-256 after scrub |
 |---|---|
-| ADJ_A.md | `fa92a34760da50bf39dc4310995fb67fbb547bbb11619309ccc988919dee31bf` |
-| ADJ_B.md | `61312129262e5f546b48d7d311bd6791304413b136b17997b740506ec17335c8` (after also reducing 11 whitespace-only lines to empty lines, for the repository whitespace check) |
-| ADJ_C.md | `6c4fe557eec670407a436be7b4eed20d63c21b5f7c9d0b187e3d67ca83eb3037` |
-| ADJ_D.md | `4b7c61202bb9a446ad1fe4bf8f00391a26b00f1443a41470f3eed0d92f3b6721` |
-| KCMP_CHAR_REGISTER.md | `141286824bea9ebf88e73c74b25e4a86cfb6c20f11db326990230213b294ad1d` |
-| KCMP_SERIES_REGISTER.md | `52cc37e3be547b3de693147ae398f76b2d0b30049f878dbee4281fd4bbbad7ff` |
-| KCMP_V01_REGISTER.md | `6df460de313bffd6ca8d35a14950db0ec6ba4ce0af0bba108c08815b8b7aaf1e` |
-| KCMP_V02_REGISTER.md | `54e87877aecdbade93f407c07f05c54805ee1119933a4a7e811a8fc5c821d4f1` |
-| KCMP_V03_REGISTER.md | `a0dcc49de0888eae4e6e9f12812c9a13bdc370c4618f5534f8fec6cfe1c78c8e` |
-| KCMP_V04_REGISTER.md | `8b27a6612f78e5d4888fcb14bf3a74ee24656413c521b0f643f71e3dfc58a01d` |
-| KCMP_V05_REGISTER.md | `98ce88009acf8336ea41e6c8ff687e0c30f7cf7ed5009bed67f86d1c3d03ece9` |
-| KCMP_V06_REGISTER.md | `d304c6b1a1d99f0add17caa80da5752ad956e3d0169ad4eecd1746b4a14a6136` |
-| KCMP_V07_REGISTER.md | `a840880c7034ab236c53fc9cf5ed6665fcab917f501921f5659ec803bd166365` |
+| ADJ_A.md | `439c616baea089e411deb3467af1d5acd8abf9c55b12b57767257ee3381e192a` |
+| ADJ_B.md | `07a2b5e7cbef487c07b131fd8da64a076044197d3345dbb46da79e76a15dcbc5` (also 11 whitespace-only lines reduced to empty lines; both transformations declared in its front matter) |
+| ADJ_C.md | `62dbd1a6bef9be7c076444365f1203ab3984d34a49f10b30f042067c425a1033` |
+| ADJ_D.md | `cfbebbe1111896449f4e1784988f68f6d1ad723928fcaadabf54d26a436f68f9` |
+| KCMP_CHAR_REGISTER.md | `cd549abf1a4d22580436ded3ffc41bd4bbdbc1bd19b2662266bbb916adaf61e8` |
+| KCMP_SERIES_REGISTER.md | `30249c429e9851ff5a1265475ebfc7bc1ce3fc79ed1666617f3ed9618b54748d` |
+| KCMP_V01_REGISTER.md | `16fce2795ad9d82408671831b0852390c5c8da8c52df9c4dd90f4f096da43ea4` |
+| KCMP_V02_REGISTER.md | `f53bbd68c199eed770a5d2df91769a99a51872f60ad2d8285a55f3d202fd0e3b` |
+| KCMP_V03_REGISTER.md | `be8ad4a66506819d7a68af706937bde895c9352f05b71c30b5dbaa5a5dd3bbb4` |
+| KCMP_V04_REGISTER.md | `501ad7524b51341afcdd86c74c274b3494ff9a0fe87fe411d95b77beba094918` |
+| KCMP_V05_REGISTER.md | `69b6c395ada77ad43e9a39aa137754e6e9d6ab684a84dcf50a4c6e53a0de8de4` |
+| KCMP_V06_REGISTER.md | `00195f80a6c9ec3218aa2350ad17dcda9510305fe93620a5e52551e057fb36a1` |
+| KCMP_V07_REGISTER.md | `119b959a5d342d81408ba655b9855eb67229d86d3d51a56d5d6d2a4d5c1be3d4` |
 | KSOA_CB1_COMPARISON_AND_ADJUDICATION_REPORT.md | this file (self-referential; not recorded) |

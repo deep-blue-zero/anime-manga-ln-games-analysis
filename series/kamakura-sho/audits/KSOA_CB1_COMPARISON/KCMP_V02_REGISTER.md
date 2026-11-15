@@ -24,7 +24,8 @@ source_record: "comparison/KCMP_V02_REGISTER.md in the KSOA-CB1 comparison works
 source_record_sha256: 7b44bb1a257cffca9ed0cedcdbdd071cb72e463bb325eb3c558af4e95d6f3192
 source_record_bytes: 50176
 source_record_body_sha256: b3a05c7c6fa2b24d12384c191d780fe39e106c4b3b7583cc7ad77ac3891e73f8
-copy_transformations: []
+copy_transformations:
+  - "post-copy custodian scrub (2026-11-15): 1 mention of the local KSOA-CB1 working-folder name replaced with 'KSOA-CB1:' where followed by a slash or backslash, otherwise with 'KSOA-CB1'; no other body byte changed; reversing the substitution reproduces the copied body"
 path_rewrites: []
 integration_date: "2026-11-15"
 integrated_by: INT-6

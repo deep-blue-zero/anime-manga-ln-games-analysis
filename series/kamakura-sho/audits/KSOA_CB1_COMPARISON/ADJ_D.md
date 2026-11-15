@@ -22,7 +22,8 @@ source_record: "comparison/ADJ_D.md in the KSOA-CB1 comparison workspace (outsid
 source_record_sha256: f3ec0a4ac22189437323965678feb0c5a2dc3d966d5f8be74a02447c3946dff8
 source_record_bytes: 89288
 source_record_body_sha256: cd45ad357091385d1fc95459f7c5d487c1f4633759c7a7e25cc3cb80eded8d8b
-copy_transformations: []
+copy_transformations:
+  - "post-copy custodian scrub (2026-11-15): 2 mentions of the local KSOA-CB1 working-folder name replaced with 'KSOA-CB1:' where followed by a slash or backslash, otherwise with 'KSOA-CB1'; no other body byte changed; reversing the substitution reproduces the copied body"
 path_rewrites: []
 integration_date: "2026-11-15"
 integrated_by: INT-6
