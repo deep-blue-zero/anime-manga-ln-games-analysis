@@ -17,7 +17,7 @@ This is a selection and retrieval handoff. Direct listening and continuous video
 
 ```yaml
 handoff_id: GKM-AV-CARBON-20261112
-handoff_version: "1"
+handoff_version: "2"
 stage_id: selection
 stage_state: READY_FOR_HANDOFF
 execution_topology: HYBRID_STAGED
@@ -142,7 +142,7 @@ The selection has 35 rows. The inherited Rinha set contributes 11 required P0 sc
 
 ## Source Lock 1.2 — Kanae candidates
 
-The Kanae supplement adds **three P1 targets, one P2 target and one deferred target** to the 35-row selection above. `AV-CARBON-KNA-001` retains its separate horizontal-prologue scope. The [A1 audiovisual crosswalk](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md#source-lock-12--transcript-refresh-2026-11-15) supplies resolved script asset names and command clocks. The bounded local Gakuen media and catalog scan found no edition matching these rows. Recording identity and capture offsets are pending. Use the same edition, alignment, synchronized inspection and observation-first rules as above. The asset clip clock and a captured video's clock need separate accounting.
+The Kanae supplement adds **three P1 targets, one P2 target and one deferred target** to the 35-row selection above, and raises this packet to `handoff_version` 2: version 1 (2026-11-12) was the 35-row selection alone; version 2 (2026-11-15) keeps those rows unchanged and adds the five Source Lock 1.2 rows below. A frozen observation log states which handoff version it covers. `AV-CARBON-KNA-001` retains its separate horizontal-prologue scope. The [A1 audiovisual crosswalk](../04_CUMULATIVE_LEDGERS_AND_INDICES/GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md#source-lock-12--transcript-refresh-2026-11-15) supplies resolved script asset names and command clocks. The bounded local Gakuen media and catalog scan found no edition matching these rows. Recording identity and capture offsets are pending. Use the same edition, alignment, synchronized inspection and observation-first rules as above. The asset clip clock and a captured video's clock need separate accounting.
 
 | Candidate | Priority | Subjects and source state | Exact A1 locator and scene | Required channels and observation question | Acquisition target and time status |
 | --- | --- | --- | --- | --- | --- |
