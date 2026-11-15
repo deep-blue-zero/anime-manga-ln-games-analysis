@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.9"
+version: "1.10"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -143,3 +143,7 @@ The principal, evidence, language and character readers each independently cover
 ## V08 coverage and delayed apparatus
 
 Four full reading roles each independently covered all 2,220 numbered Japanese paragraph/layout positions in S14/S16/S18/S20/S22 and the four original interleaves S15/S17/S19/S21 at their positions. Their independent exits precede inspection of ten delayed cover, profile and title originals at S01–10. S12 was classified at exit as graphical contents. The critical role reopened decisive Japanese with the same admitted visual boundaries and reviewed the exact staged transaction. The unchanged archive has mimetype first and all nineteen rasters decode. S11/S13 and S23 onward are outside the literary boundary, including withheld indeterminate S26, afterword and bonus material. The [V08 reading](readings/SHIBOYUGI_V08_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V08_CHECKPOINT.md) give the specific evidence and custody bounds.
+
+## V09 coverage and two placed text plates
+
+Four independent whole-text reading roles covered all 2,092 original Japanese or layout positions in S14/S16/S18/S21/S24/S26, including seven placed original assets in disclosure order S15/S17/S19/S20/S22/S23/S25. S19 (recruitment patterns) and S22 (high clearing counts and motivation) are full-text assets read in place with their claims and evidentiary scope identified. Ten same-volume covers, profiles and title originals S01–10 were delayed until separate prose and placed-image freezes, followed by classification of S12 as graphical contents. The critical lane reopened decisive native passages and viewed the same eligible originals with exact isolation from the staged text, then tested the staged reading. The unchanged witness has mimetype first and all 26 rasters decoded. S11/S13 and S27–36 are excluded, including unresolved S28–30 and S33 and bonus and advertising text. Consult the [V09 deep reading](readings/SHIBOYUGI_V09_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V09_CHECKPOINT.md) for the accepted provenance and remaining uncertainty.
