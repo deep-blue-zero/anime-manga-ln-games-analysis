@@ -9,7 +9,7 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "witnesses": ["en", "ja", "ko"],
-  "source_boundary": "Selected normalized 3.6.0 profile, five favor stories, 60 archive voice entries, accepted direct story occurrences and four-language client-derived audio; no human listening or runtime video.",
+  "source_boundary": "Selected normalized 3.6.0 profile, five favor stories, 60 archive voice entries, accepted direct story occurrences and four-language client-derived audio, supplemented by 7/24 Chapter II EN runtime scene-AV targets and 6/476 four-dub ear-calibrated lines (PHO-DUB-01..06; 470/476 lines remain unreviewed by ear).",
   "thesis": "Phoebe keeps genuine devotion while moving from disciplined institutional deference toward personally accountable care, evidential humility, and respect for others' freedom.",
   "required_inputs": [
     "diegetic_instantiation: embodied_Phoebe | Echo_Cube_image | other_projection | unknown",
@@ -170,7 +170,7 @@
       "name": "Use ordinary curiosity and social pleasure",
       "conditions": "A low-stakes day, meal, tour, photograph, music or friendship scene.",
       "tendency": "Allow planned celebration, shared pizza, flower-hill visits, historical guiding, photos, gift-giving and mild embarrassment to matter independently of ritual duty.",
-      "exceptions_and_limits": "Her own wish remains unarticulated in one archive prompt; do not infer desirelessness or a guaranteed date. The sacred-fruit sour coda appears in zh-Hans/ja/ko text, not the English text witness; do not infer unreviewed acting.",
+      "exceptions_and_limits": "Her own wish remains unarticulated in one archive prompt; do not infer desirelessness or a guaranteed date. On FavorWord_150609_Content (PHO-DUB-06), zh-Hans/ja/ko MultiText print the sour-berry coda while printed English MultiText truncates after the sharing maxim, yet the 33.98 s English audio render audibly chews and exclaims 'Oh, oh, they're still really sour!'—keep the spoken four-dub beat distinct from truncated printed English subtitle text.",
       "evidence_ids": ["PHO-E04", "PHO-E08", "PHO-E09", "PHO-E14", "PHO-E17", "PHO-E26"],
       "epistemic_status": "textual_pattern_inference",
       "probability": null
@@ -190,7 +190,7 @@
       "name": "Treat acoustic evidence as a reviewable witness",
       "conditions": "A voice-style or acting claim is proposed.",
       "tendency": "Retrieve the exact semantic line, localized text key, render variant and PCM hash; distinguish machine signal values from a human listening note.",
-      "exceptions_and_limits": "No actor emotion, cadence or singing analysis has yet been performed; unvoiced holiday/reform text cannot be heard in the selected corpus.",
+      "exceptions_and_limits": "Stratified four-dub calibration covers 6/476 solo lines (PHO-DUB-01..06, 24 renders) plus wordless Aria prayer staging in SCN-0035; 470/476 solo lines remain unreviewed by ear, and source-unvoiced holiday/reform text cannot be heard in the selected corpus.",
       "evidence_ids": ["PHO-E23", "PHO-E24", "PHO-E31"],
       "epistemic_status": "methodological_constraint",
       "probability": null
@@ -250,7 +250,7 @@
       "name": "Keep a believer's civic work separate from other speakers' theology and decisions",
       "conditions": "Phoebe helps across Order and Montelli boundaries, receives Cartethyia's account of faith and human labor, or joins a postcrisis damage/rebuilding discussion.",
       "tendency": "Let her voice a hopeful shared-citizenship ethic and do practical work while updating only the beliefs, object knowledge, decisions and outcome that her own source lines establish.",
-      "exceptions_and_limits": "At 5601/3 she says the transferred object's contents were not disclosed. At 10451/7 Cartethyia supplies the extended nonblind-faith reading and Rover the future-in-people's-hands reply; Phoebe only questions and briefly acknowledges the offered relic. At 9930/4 Zani ranks safety over lost collections, whereas Phoebe reports joint assessment and offers a visitor lead. KO labels the visitors' purpose trade, not rebuilding. None of the nineteen voiced lines/76 PCM-valid objects has human performance review.",
+      "exceptions_and_limits": "At 5601/3 she says the transferred object's contents were not disclosed. At 10451/7 (SCN-0341) Cartethyia supplies the extended nonblind-faith reading and Rover the future-in-people's-hands reply while Phoebe gazes into the empty armillary relic, questions its emptiness and thanks Rover (before expressing her own plural-governance update and personal-name blessing at 11983/1 SCN-0343 PHO-DUB-05). At 9930/4 Zani ranks safety over lost collections, whereas Phoebe reports joint assessment and offers a visitor lead. KO labels the visitors' purpose trade, not rebuilding. Four-dub ear calibration is not yet performed on the nineteen voiced lines/76 PCM-valid objects inside 5601/3, 10451/7 and 9930/4.",
       "evidence_ids": ["PHO-E20", "PHO-E21", "PHO-E36", "PHO-E37", "PHO-E40", "PHO-E41", "PHO-E42"],
       "epistemic_status": "direct_speaker_and_quest_witnesses_with_knowledge_state_and_localization_limits",
       "probability": null
@@ -265,7 +265,7 @@
     "Do not claim 4798/3 tests a categorical refusal or that the combat route makes Phoebe a fighting companion.",
     "Do not equate the Echo's explicit nod to treatment with its later headshake and approach or a permanent ownership bond.",
     "Do not identify the exact Codex rule at 11779/2/4 without the full surrounding context.",
-    "Do not assert full human-performed voice, runtime gesture or visual animation findings without review.",
+    "Do not extrapolate bounded Chapter II EN runtime staging (7/24 crosswalk targets) or stratified four-dub listening (6/476 solo lines in PHO-DUB-01..06) into unreviewed voice or animation claims across the remaining 470/476 lines and unfilmed quests.",
     "Do not assert a canonical exclusive romantic relationship with Rover or a crossover suitor.",
     "Do not derive Phoebe skill Content keys from raw favor IDs or assign a nonlexical sound to Cantarella or Phoebe by shared text key alone; retain exact row, role, event and PCM identity.",
     "Do not make a combat command, EN-only penitence or EN fallen farewell into a dated civilian silencing, universal self-punishment motive or canonical death.",
@@ -281,7 +281,7 @@
     "full graph order and branch realizability for selected side material",
     "what the shore rescuing presence was",
     "precise scope and implementation of later Order rule reform",
-    "broader line-level localization divergences beyond the identified sacred-fruit and early city-guide wording differences, and four-dub performed choices",
+    "broader line-level localization divergences and four-dub performed choices across the 470/476 unreviewed solo lines beyond the calibrated PHO-DUB-01..06 cohort (which resolved the FavorWord_150609_Content English text-truncation vs spoken sour-berry split) and early city-guide wording differences",
     "the exact runtime mapping of the two Carnival subchoices at 4203/2/16, whose extracted option records have no explicit JumpTalk targets",
     "whether later direct Phoebe testimony accepts every part of Cartethyia's civic-faith reading or how the 9930/4 damage survey ends"
   ]
