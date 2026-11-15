@@ -2,12 +2,12 @@
 title: Manga / Anime Project Initiation and Architecture Policy
 artifact_id: MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY
 artifact_type: project_initiation_architecture_policy
-version: "1.11"
+version: "1.12"
 status: canonical
 generation: V1
 scope: corpus-wide analytical project initiation and architecture governance
 created: 2026-08-27
-last_updated: 2026-11-13
+last_updated: 2026-11-14
 maintainer: ChatGPT + user
 source_boundary: "Corpus-wide governance for new and existing anime, manga, light-novel, novel, game, and related analytical projects"
 supersedes: null
@@ -49,7 +49,9 @@ This policy applies to newly initiated or materially restarted analytical projec
 
 It applies whether the eventual goal is full-series literary synthesis, character reconstruction, audiovisual analysis, ethics analysis, relationship modeling, music dramaturgy, institutional analysis, or another substantial interpretive program.
 
-It does **not** require a full architecture for casual one-off discussion, ordinary question answering, source identification, preliminary scouting, or a narrowly bounded analysis that is not being opened as an ongoing corpus project.
+Two artifact contracts also reach new work in existing projects, prospectively and as Section 10 states: the current-unit story synopsis (Section 5.3) and the self-contained character monograph standard (Section 5.5.1).
+
+This policy does **not** require a full architecture for casual one-off discussion, ordinary question answering, source identification, preliminary scouting, or a narrowly bounded analysis that is not being opened as an ongoing corpus project.
 
 ---
 
@@ -471,7 +473,81 @@ The architecture must state whether the project expects:
 - reconstruction/validation artifacts;
 - or no dedicated character/relationship layer.
 
-It should specify the conditions under which a character or relationship earns an independent canonical home rather than being handled inside a broader synthesis.
+It should specify the conditions under which a character or relationship earns an independent canonical home rather than being handled inside a broader synthesis. For individual character monographs, those conditions operate within Section 5.5.1's qualification test: a project may add assessment triggers, but it may not exclude a character whom the evidence qualifies.
+
+Where person-level character synthesis is within the project's analytical purpose, the architecture also names where monograph qualification decisions are recorded, the canonical home and naming of individual monographs, and the sequential captures that will supply them, and applies Section 5.5.1. A project whose purpose excludes literary person-level synthesis, such as a purely formal, institutional or thematic program, or a reconstruction program whose declared purpose is modeling rather than literary portraiture, may declare no dedicated monograph layer with its reason. That declaration does not let a project whose purpose includes person-level literary character analysis leave a qualified character to distributed ledger coverage indefinitely.
+
+<a id="self-contained-character-monograph-standard"></a>
+
+### 5.5.1 Self-contained character monograph standard
+
+**Purpose.** A substantive individual character monograph is the canonical, independently usable portrait of one person within its declared source, continuity and temporal boundaries. A human reader or an LLM given only that document should be able to form a substantially faithful account of the character within its stated scope, without retrieving ledgers, readings or specialist studies merely to reconstruct the character's personality and behavior. Other artifacts remain available for verification and for deeper questions; they do not substitute for the portrait. Any document typed or presented as a character's canonical individual portrait is a substantive monograph for this standard; brief notes on characters who do not qualify use another artifact type.
+
+**Qualification.** Not every named or incidental character needs a monograph. Within a project whose analytical purpose includes person-level synthesis (Section 5.5), a character qualifies when the admitted evidence supports a differentiated personal portrait; an architecture may not restrict eligibility to a fixed roster or by narrative role. A differentiated portrait rests on convergent evidence, whether across many units or in one concentrated sequence; on meaningful variation across contexts or interlocutors; and on constraints or counterexamples that rule out a generic personality sketch. A role description, one memorable scene, a trait attributed by others or a collection of isolated facts does not qualify a character by itself. Prominence, protagonist status, popularity and citation count do not decide eligibility: supporting characters, adults and antagonists can qualify, and repeated appearances can remain shallow. Qualification does not require a complete biography, exhaustive preferences or equally rich speech evidence; a qualified character's monograph must still address every coverage responsibility below, stating what is unknown.
+
+**Recorded decisions and the production obligation.** The project assesses eligibility, as its architecture specifies, no later than its specialist-synthesis readiness gate (Section 5.13, item 3), and again when new evidence materially changes a character's history, behavior, relationships or speech evidence. The review considers every character for whom the cumulative homes hold differentiated evidence, not only leads; ledgers help find candidates, but absence from a dedicated ledger is not disqualification. Each assessed character's record gives the stable identity, assessment boundary, outcome, a brief source-grounded rationale naming the largest gaps, the next review trigger, and the monograph path once a real document exists. It lives in the home the architecture names, such as a local monograph index or readiness record, which stays mutable or is carried forward by its successor so later outcomes and paths can be added. A project may keep an established local vocabulary; otherwise it uses:
+
+| Outcome | Meaning and required action |
+|---|---|
+| `QUALIFIED_PENDING` | Evidence supports a monograph; production is required and outstanding |
+| `COMPLETE_AT_BOUNDARY` | A monograph meeting this standard exists at the declared boundary and has passed the acceptance review below |
+| `DEFERRED_EVIDENCE` | Evidence does not yet support a differentiated portrait; record the deficiency and the reassessment trigger, and keep the analysis in its existing canonical homes |
+| `REASSESS_AFTER_REVISION` | A material new finding challenges eligibility or the current portrait; retain the prior assessment until it is resolved |
+
+A qualified character creates a production obligation in the project's character and specialist synthesis stage. A bounded task may leave recorded pending work, but the character layer is not complete while a qualified character lacks a monograph. The architecture/role-gap audit (Section 9) confirms that qualification decisions are recorded; the full-series-synthesis readiness and release audits (Section 5.13, items 4 and 6) list every outstanding obligation, and none of them may describe the character layer as complete while one remains. An unassessed character is neither qualified nor rejected. Do not create empty indexes, placeholder monographs, invented qualification results or readiness claims to simulate progress. Qualification is an evidenced analytical judgment, not an additional approval gate.
+
+**Coverage responsibilities.** Within its declared boundaries, and to the extent the admitted evidence supports, the monograph lets its reader understand the character's:
+
+1. **Identity and circumstances:** names and aliases, background, roles, circumstances and position in the story, with the monograph's source, continuity, temporal and spoiler boundary.
+2. **Personal history:** formative experiences and significant past events, how they bear on present behavior, and when each was depicted, when it was disclosed and what the character knew at the time.
+3. **Personality and psychology:** values, goals, motives, fears, vulnerabilities, contradictions, coping strategies and self-conception.
+4. **Cognition and decision-making:** what the character notices, how they reason and prioritize, and how they respond to uncertainty or conflicting obligations.
+5. **Behavioral patterns:** ordinary conduct, cooperation, conflict, stress responses, mistakes, corrections and meaningful exceptions.
+6. **Speech and communication:** source-language register, self-reference and forms of address, vocabulary and rhetorical habits, politeness, humor and silence, how these shift with audience and pressure, and differences between interior thought and outward speech. State the medium's limits: written register is not performed voice.
+7. **Relationships:** major connections and the directed differences in behavior, trust, attachment, rivalry, dependency and disclosure toward particular people, and how those relationships develop.
+8. **Preferences and ordinary life:** supported likes, dislikes, food, leisure, hobbies, habits, comforts and aversions, distinguishing stable preference from situational choice or accommodation.
+9. **Romantic and intimate psychology:** attraction, romantic history, attachment, boundaries, jealousy and intimate preference, only as the source evidences them and never extrapolated. This dimension is not presumed relevant to every character; where it is not evidenced or not applicable, a one-line statement suffices, and for minors it is limited to what the source depicts.
+10. **Capabilities and limitations:** professional skill, specialized knowledge, and physical or supernatural ability where applicable, the limits on their use, and the difference between capacity and willingness.
+11. **Longitudinal development:** changes in personality, priorities, relationships, knowledge and self-understanding across the authorized source, separating actual development from the late revelation of an existing trait.
+12. **Operational behavioral profile:** a concise, conditional account of how the character is likely to perceive, evaluate, choose, communicate and react in different circumstances, with triggers, counterconditions, support level and the contexts in which it should abstain.
+13. **Interpretive uncertainty:** alternative explanations, counterexamples, unresolved contradictions, known evidence gaps and the limits of extrapolation.
+14. **Source traceability:** precise locators or stable claim and evidence references for material interpretations, with links to the authoritative deeper records.
+
+These are coverage responsibilities, not mandatory headings or a fixed order. Related responsibilities may share a section when their distinctions remain recoverable. The medium, narration and character type set the emphasis: a first-person narrator may support extensive interior reconstruction, while a character shown only from outside supports interiority only as labeled inference, and visual media may add embodied presentation (expression, gesture, appearance, staging) where it contributes to the portrait. A dimension the source never tests is stated as unknown or insufficiently evidenced; one the source tests and shows absent is stated as an evidence-backed limitation. Neither is filled to complete a template, and absence counts as evidence only where the source gave the character an opportunity.
+
+**Single-document usability.** The monograph is a coherent standalone document, not an index to other files. Its links verify claims, preserve revision history and route to specialist arguments; they do not carry the portrait. Each of these fails the standard:
+
+- a personality section consisting mostly of links to a character ledger;
+- a relationship section that sends the reader to a partnership or relationship study without explaining the character's own conduct in that relationship;
+- a speech section that lists a few pronouns but leaves conversational style to another document;
+- a behavioral profile of abstract adjectives, without contexts, conditions and counterexamples;
+- a development account reduced to a list of unit references, without explaining what changed and why.
+
+A concise opening orientation for efficient context loading is encouraged when a sustained analytical account follows it. A character card does not replace that account.
+
+**Responsibility boundaries.** Self-containment does not create a competing authority. Each artifact keeps one primary responsibility:
+
+| Artifact | Primary responsibility |
+|---|---|
+| Character monograph | Integrated, independently usable person-level portrait |
+| Source-facing reading | Original scene observations and local literary interpretation |
+| Longitudinal evidence ledger | Chronology, state changes, evidence history and revisions |
+| Relationship or thematic specialist | Independent relational or thematic analytical questions |
+| Operational reconstruction model | Formal conditional behavior and speech model |
+| Validation record | Independent assessment of predictive or reconstruction fidelity |
+
+The monograph synthesizes what the other layers establish about this person and explains it to the reader. It does not copy whole ledgers, reproduce extended copyrighted source passages (brief source-language anchors suffice), restate specialist essays, or decide a specialist's separate question; it explains that question's consequences for this person and links to the fuller argument. When a claim it relies on is revised, the monograph is corrected through the architecture's claim-revision route (Section 5.8) by erratum, revision or a bounded successor, preserving any earlier-boundary portrait. Its compact operational profile does not claim that a separate reconstruction model exists or has been tested or validated, and it confers no reconstruction capability grade. Keep visible the differences between observed behavior, the character's self-report, narratorial or other-character interpretation, supported analytical inference, bounded extrapolation, speculation and unknown or unavailable information, using the project's own evidence vocabulary where it has one. Within a project, one analysis subject (continuity or incarnation) at one boundary has one canonical current portrait; the project does not maintain competing current full portraits of the same person. A monograph carries `artifact_type: character_monograph`, or the project's established equivalent, and complete authority metadata (Section 13).
+
+**Evidence-proportional depth.** No minimum or maximum word count applies. Length follows evidence density, the character's complexity and development, and the monograph's analytical responsibility. A central viewpoint character across a long series may warrant an extensive monograph; a supporting character whose evidence is concentrated in one arc may warrant a shorter, bounded one. Avoid both mechanical compression that drops meaningful behavior and padding with repeated plot summary.
+
+**Acceptance: self-containment and fidelity.** Before a monograph is semantically accepted, promoted, integrated as current, or recorded `COMPLETE_AT_BOUNDARY`, whether or not it crossed sessions under the [handoff contract](MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT.md), review two independent properties. Record each result separately in the acceptance or integration record and reference it from the qualification record:
+
+1. **Self-containment** asks whether the necessary character information is actually present. Given only the monograph and no other repository context, could a reader or LLM construct a substantially faithful account of the character within its stated scope? Test with representative questions about personality and motivational structure; typical and exceptional decisions; thinking and reasoning style; natural speech and register; major relationship differences; ordinary preferences and habits; development across the available story; expected reactions to a novel but comparable situation; and where uncertainty and unsupported extrapolation begin. A question the source cannot answer is passed by a monograph that says so.
+2. **Fidelity** asks whether its interpretations are accurate, traceable and appropriately qualified against the source. Check load-bearing claims against their locators and current claim state under the project's existing acceptance rules.
+
+A monograph can pass one property and fail the other. The proportionate default is a documented question-by-question check of the monograph read on its own, preferably by a reviewer other than its author. An independent monograph-only retrieval probe, in which a fresh reviewer or model session receives only the document and its answers are then checked against the source, is recommended for central characters or where a deficiency is suspected; it is not universally required and adds no validation software. Neither property establishes character-simulation readiness: reconstruction readiness and capability remain separate determinations under the project's reconstruction method and the [reconstruction maintenance policy](../policies/CHARACTER_RECONSTRUCTION_MAINTENANCE.md).
+
+Applicability to existing projects and artifacts is stated in Section 10.
 
 ## 5.6 Specialist synthesis responsibilities
 
@@ -761,6 +837,17 @@ This policy is prospective. Existing mature projects are **grandfathered**.
 
 The synopsis contract does not require retroactive editing of completed or frozen readings, reopening their prospective captures, or re-reading primary sources solely to standardize presentation. Apply it to new eligible units through the series-specific method at a natural boundary. A separate, source-checked synopsis supplement for an older unit may be authored when explicitly warranted, without rewriting frozen analytical history.
 
+The self-contained character monograph standard (Section 5.5.1) is mandatory, in any series or study, for:
+
+- every new substantive individual character monograph, including future monograph work in established projects;
+- every current monograph whose portrait is generally revised, and every monograph that supersedes one;
+- new analytical architectures and projects; and
+- bootstrap-only projects that have not begun narrative analysis, which adopt it in their architecture before their first sequential reading.
+
+An erratum, a claim-revision correction or a selective update applies the standard to the content it changes and does not by itself require the whole document to conform. An established project records qualification decisions for the characters within its scope when it next enters character or specialist synthesis, or at its next architecture review checkpoint (Section 8); no corpus-wide sweep is required.
+
+The standard does not retrofit frozen source readings, historical monographs retained at earlier evidence boundaries, completed analytical releases, or existing studies that carry a different legitimate analytical responsibility. A grandfathered monograph's nonconformance with this standard is not by itself a correction duty. A material deficiency in an existing current monograph may be remedied, when the owner or project undertakes it, by a separately scoped, source-grounded revision or deepening pass ([long-series protocol](MANGA_ANIME_LONG_SERIES_HYBRID_EXECUTION_PROTOCOL.md) Section 12), not by a corpus-wide rewrite. A project's own binding monograph rules continue to govern where they are more specific or more demanding, and this standard applies where they are silent. A local rule does not lower the coverage, single-document usability, responsibility boundaries or production obligation required for work within this section's mandatory scope, and this standard completes no production work a local rule records as outstanding.
+
 Do not create replacement documents solely to make old projects cosmetically conform.
 
 At the next natural analytical boundary for an existing project:
@@ -941,6 +1028,7 @@ Before opening the first substantive sequential deep reading, verify:
 - current-state/corpus-map entrypoint exists;
 - required day-one longitudinal ledgers are initialized;
 - responsibility matrix is present or equivalently represented;
+- character synthesis responsibility is explicit: where person-level synthesis is in scope, the named home for qualification decisions, the monograph home and naming, and the supplying sequential captures under Section 5.5.1 (no record or monograph exists yet); otherwise the reason no dedicated monograph layer is expected;
 - source/conflict/continuity rules are explicit enough for the work;
 - architecture extension rule exists;
 - synthesis completion gates exist;
@@ -960,6 +1048,15 @@ This policy exists so that the corpus never again reaches the end of a long sequ
 ---
 
 # Changelog
+
+## v1.12 — 2026-11-14 — Self-contained character monographs
+
+- Adds Section 5.5.1: a substantive individual character monograph is the canonical, independently usable portrait of one person within its declared boundaries, covering fourteen evidence-bounded responsibilities, with untested dimensions marked unknown and tested absences marked as limitations rather than invented.
+- Section 5.5 now asks architectures with person-level synthesis to name the qualification record home, monograph home and supplying captures, and keeps local eligibility conditions inside the global qualification test.
+- Defines evidence-based qualification that is not limited to protagonists or a fixed roster, a recorded outcome vocabulary, and a production obligation reported by the synthesis-readiness and release audits, so a qualified character's portrait is not left indefinitely to distributed ledgers; no placeholders or invented results.
+- Preserves the separate responsibilities of readings, ledgers, specialists, reconstruction models and validation records; a monograph's compact operational profile claims no model, validation or capability grade.
+- Adds a proportionate acceptance review that records self-containment and fidelity separately, with an optional monograph-only retrieval probe and no new validation software.
+- States prospective applicability in Sections 1 and 10 (new, generally revised and superseding monographs; new projects; bootstrap-only projects before their first reading; qualification records in established projects at their next character-synthesis entry or review checkpoint) without retrofitting frozen, historical or released artifacts or turning grandfathered nonconformance into a correction duty, keeps stricter local rules, and adds a compliance-checklist item.
 
 ## v1.11 — 2026-11-13 — Human-facing narrative synopsis
 
