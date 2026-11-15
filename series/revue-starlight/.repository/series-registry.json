@@ -1,0 +1,15 @@
+{
+  "series_id": "revue-starlight",
+  "stable_slug": "revue-starlight",
+  "canonical_title": "Revue Starlight",
+  "media": [
+    "ANIME",
+    "MOBILE_GAME"
+  ],
+  "repository_path": "series/revue-starlight/",
+  "canonical_entrypoint": "series/revue-starlight/CURRENT_STATE_AND_CORPUS_MAP.md",
+  "canonical_entrypoint_status": "PRESENT_VERIFIED",
+  "materialization_status": "PRESENT_REVIEWED",
+  "migration_scope": "G5_FINAL_AGGREGATE",
+  "authority_status": "GIT_PRIMARY"
+}

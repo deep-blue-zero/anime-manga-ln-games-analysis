@@ -65,6 +65,7 @@ from reconstruction_status import (  # noqa: E402
 from validate_repository import (  # noqa: E402
     discovery_branch_candidate,
     discovery_confinement_errors,
+    reconstruction_output_isolation_errors,
     validate_audit_workflow,
     validate_discovery_branch_confinement,
     validate_markdown_links,
@@ -1069,6 +1070,19 @@ class EffectiveCurrentnessTests(GitRepositoryFixture):
         )
         self.assertTrue(any("not an ancestor" in error for error in result.errors), result.errors)
 
+    def test_declared_evidence_digest_must_match_the_basis_evidence(self) -> None:
+        self.assertEqual(
+            evaluate_reconstruction_assessments([candidate(self.commit, self.digest)], self.repository).errors, [],
+        )
+        other = "0" * 64
+        self.assertNotEqual(other, self.digest)
+        result = evaluate_reconstruction_assessments([candidate(self.commit, other)], self.repository)
+        self.assertTrue(
+            any(f"evidence_set_sha256 mismatch; declared={other}, derived={self.digest}" in error
+                for error in result.errors),
+            result.errors,
+        )
+
 
 class RegistryContractTests(unittest.TestCase):
     def _record(self, assessment_id: str, status: str = "CANDIDATE") -> dict[str, object]:
@@ -1627,7 +1641,10 @@ class ProductionRepositoryTests(ProductionRepositoryFixture):
         self._publish([unassessed(self.commit)])
         self._commit_outputs("placeholder")
         errors, _ = self._validate()
-        self.assertTrue(any("UNASSESSED" in error for error in errors), errors)
+        self.assertTrue(
+            any("the production registry does not admit UNASSESSED placeholders" in error for error in errors),
+            errors,
+        )
 
     def test_delayed_evaluator_maintenance_does_not_block_series_publication(self) -> None:
         self._publish([candidate(self.commit, self.digest)])
@@ -1757,6 +1774,22 @@ class IntegrationControlTests(unittest.TestCase):
             self.assertNotIn(path, housekeeping)
             with self.assertRaises(DomainError):
                 validate_evidence_path(path)
+
+    def test_evaluator_outputs_change_alone_unless_the_policy_changes_with_them(self) -> None:
+        outputs = set(RECONSTRUCTION_OUTPUTS)
+        other = "series/example/CURRENT.md"
+        for alone in (set(), {other}, outputs, {other, RECONSTRUCTION_POLICY_PATH}):
+            self.assertEqual(reconstruction_output_isolation_errors(alone), [], alone)
+        for output in sorted(outputs):
+            self.assertEqual(
+                reconstruction_output_isolation_errors({output, other}),
+                [f"reconstruction production outputs must change alone; other changed paths: {[other]}"],
+                output,
+            )
+        # A reviewed policy amendment may carry regenerated outputs beside other paths.
+        self.assertEqual(
+            reconstruction_output_isolation_errors(outputs | {other, RECONSTRUCTION_POLICY_PATH}), [],
+        )
 
     def test_live_production_registry_and_index_follow_the_activation_contract(self) -> None:
         snapshot = GitSnapshot.from_index(REPOSITORY)
