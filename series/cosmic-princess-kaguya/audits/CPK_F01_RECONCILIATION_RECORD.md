@@ -5,9 +5,9 @@ artifact_id: CPK_F01_RECONCILIATION_RECORD
 artifact_type: audiovisual_reconciliation_record
 stage_state: RECONCILED_AND_INTEGRATED
 generation: CPK-G1
-version: "1.1"
+version: "1.2"
 status: canonical
-authority_scope: "Canonical mirror-reconciliation record for F01: preserved CPK-R1 freeze manifest, Stage-2 CPK-B1-SOL61 receiver acceptance & freeze hashes, bounded 1-of-1 AV return receipt (CPK-AVRET-R1), Protocol §5.4 av_reconciliation summary, §15.6 checks, and complete Stage-3 write-through manifest"
+authority_scope: "Canonical F01 reconciliation. Sections 1–9 preserve the Stage-3 receipts and manifests. Section 10 records the subsequent owner adjudication and current write-through."
 source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 00:00:00.000-02:22:03.207); primary run CPK-R1, independent bundle/audit benchmark CPK-B1-SOL61, bounded AV return CPK-AVRET-R1, and Stage-3 integration CPK-INT completed"
 canonical_home: series/cosmic-princess-kaguya/audits/CPK_F01_RECONCILIATION_RECORD.md
 supersedes:
@@ -18,6 +18,8 @@ do_not_use_as_literary_evidence: true
 ---
 
 # Primary candidate freeze, stage handoff, and reconciliation record (`F01`)
+
+> **Current interpretation and coverage.** [Section 10](#10-owner-adjudication-and-write-through) records the owner’s subsequent checks and the current write-through. Sections 1–9 preserve the Stage-3 receipts and manifests at `5fb0c99f46807a772ce5bded759ce16702150986`. Their counts and digests describe that snapshot.
 
 > **Quarantine warning (Set 2 — Withheld Before Blind Freeze):** Because §§3–5 of this record contain the frozen hashes of primary narrative outputs, primary analytical conclusions, and the **withheld adjudication table** mapping neutral queue IDs `Q-F01-0001`–`Q-F01-0024` to primary claims `CPK-R1-C0001`–`CPK-R1-C0020`, **a blind `BUNDLE_MEDIATED` verifier must NOT open this file prior to freezing `audits/CPK_F01_BLIND_OBSERVATIONS.md`.** Use [audits/CPK_F01_BLIND_INPUT_PACKET.md](CPK_F01_BLIND_INPUT_PACKET.md) exclusively for pre-freeze blind inspection.
 
@@ -297,3 +299,58 @@ Self-referential SHA-256 of this `CPK_F01_RECONCILIATION_RECORD.md` (`v1.1`) is 
 | `series/cosmic-princess-kaguya/audits/CPK-B1-SOL61/CPK_F01_AUDIT_DECISIONS.json` | `CPK_F01_AUDIT_DECISIONS` (`20` claims) | `draft_noncurrent` | `31100` | `af2bd388b71dc1f5b434e595c2fcbb668c6829c90195498b3aa155e51a0b0c47` |
 | `series/cosmic-princess-kaguya/audits/CPK-B1-SOL61/CPK_F01_PROSE_AUDIT_DECISIONS.json` | `CPK_F01_PROSE_AUDIT_DECISIONS` (`P001`–`P035`) | `draft_noncurrent` | `26999` | `4ee202b1b0924271c138edaee0c65f532484c702edb0695cb5a89bc6cc70ddaa` |
 | `series/cosmic-princess-kaguya/audits/CPK-B1-SOL61/PUBLICATION_REVIEW_RECEIPT.json` | `PUBLICATION_REVIEW_RECEIPT` | `draft_noncurrent` | `6635` | `1517f36e9ae6edd8ae75d62d1e9f15c6f6a0693efc72365d7052705a03d2a84b` |
+
+## 10. Owner adjudication and write-through
+
+The repository owner (`deep-blue-zero`) supplied bounded findings after direct playback of the admitted Netflix version of `F01`. The [owner adjudication](CPK_F01_OWNER_AV_ADJUDICATION.md) records the perceptual testimony (`HL`) and separately marked interpretations. Codex checked the retained subtitle cues and AV return and integrated the findings at the owner’s direction. The reviewed PR head was `5fb0c99f46807a772ce5bded759ce16702150986`. The initial `main` baseline was `cc2fc3f09157521688c863b1dfd65ef310d61dc4` and its reconciliation brought no Kaguya content changes.
+
+### 10.1 Current coverage
+
+- **Primary pass.** `CPK-R1` covered the complete film presentation timeline in synchronized segments at about `1 fps` effective visual sampling with continuous Japanese audio. The 29 native-resolution stills and six deterministic cut/loudness windows are targeted.
+- **Bounded return.** `CPK-AVRET-R1` reports continuous audio and about `1 fps` effective visual inspection in 25 selected clips. `24000/1001 fps` is the clip encode rate. The earlier `targeted_reinspection_fps` field in §7 describes that encoded cadence. The return separately inspected 32 full frames and two crops and measured 82 sampled native 5.1 PCM windows.
+- **Independent bundle and owner review.** The bundle verifier heard 0 seconds and viewed 0 seconds of continuous video. Its static and text coverage is recorded in §5. The owner directly reviewed the seven bounded items below. This amendment records no new Codex playback or PCM measurements.
+
+### 10.2 Current dispositions and remaining corroboration
+
+```yaml
+owner_av_adjudication:
+  record_id: CPK-F01-OWNER-AV-20261114
+  owner: deep-blue-zero
+  evidence_class: HL
+  review_items: 7
+  principal_dispositions:
+    PRESERVE: 2
+    STRENGTHEN: 2
+    REVISE: 1
+    DOWNGRADE: 1
+    REJECT: 0
+    OPEN: 1
+  remaining_open:
+    categorical_closing_speaker: CPK-INT-U0010
+    bracelet_mechanism_and_actual_trigger: CPK-R1-U0004
+    consciousness_and_identity_mechanics: CPK-R1-U0001
+    exact_reprise_vocal_overlap: unestablished
+```
+
+[Claim ledger §6](../CPK_CLAIM_REVISION_LEDGER.md#6-owner-audiovisual-adjudication) records the earlier formulations and current dispositions. The owner’s human listening supports the a cappella reprise and the isolated farewell voice. The original PCM measurements retain their scoped meanings. The balcony correction replaces the intermediate piano identification with the owner-heard atmospheric layer. The bracelet’s cut precedes Iroha’s reply, supporting the owner’s foreshadowing reading and leaving causality open. The bridge’s distinct melody and the three-figure co-presence are preserved. The Git fork analogy remains interpretive.
+
+The owner hears Kaguya throughout the closing narration. `AV-08`’s corroboration requirement for categorical attribution remains unsatisfied for untagged `[JA#2595–2598]`. The Japanese SDH gives the initial Kaguya tag, while the photo montage lacks synchronized visible articulation and the pitch/centroid windows do not identify a speaker. The accepted formal argument uses the wording and framing of the ending without relying on a change of speaker. The completed film scope and original audit decisions remain recorded independently of this qualification.
+
+The targeted editorial check covered the named speakers and addressees in the farewell, reprise and closing passages, the bracelet’s position relative to Iroha’s reply, and the three presences on the Tsukuyomi lift. The current synthesis keeps these references distinct. Sections 1–9 and the pinned Stage-3 tree retain the historical checks and receipts.
+
+### 10.3 Current write-through digests
+
+Byte counts and SHA-256 digests below identify the changed files in this amendment. The §9 table identifies the Stage-3 snapshot. The enclosing Git tree identifies this reconciliation record.
+
+| Repository path | Version | Exact bytes | SHA-256 |
+|---|---|---|---|
+| `series/cosmic-princess-kaguya/CURRENT_STATE_AND_CORPUS_MAP.md` | `v1.6` | 11,169 | `ec28f8dc68ef97241965ce68fdc905516aab4e33ec3178cb75b342e93a4327a1` |
+| `series/cosmic-princess-kaguya/CPK_ANALYTICAL_METHOD.md` | `v1.2` | 21,747 | `4980e8012e9dbb8a3309c238cc6e886bbc491893c915ed279bc2e16e53cd34d1` |
+| `series/cosmic-princess-kaguya/CPK_SYNTHESIS_ARCHITECTURE.md` | `v1.2` | 31,296 | `6c4090c153a1c90c13ffaf98c70c09be63fc4e369ad8b105e11aebab78eb36f0` |
+| `series/cosmic-princess-kaguya/CPK_RECONCILIATION_PROFILE.md` | `v1.2` | 19,307 | `3fe82f16f57221e9427859406e8e40c53c5be49ef44f2fc539c750c1452dc361` |
+| `series/cosmic-princess-kaguya/CPK_SOURCE_INVENTORY.md` | `v1.3` | 43,908 | `1011ed479a27fedea5b0f0cd9076d2a9e0127d81be6c95c46e41c13042f2cb8d` |
+| `series/cosmic-princess-kaguya/CPK_OBSERVATION_LEDGER.md` | `v1.3` | 117,016 | `77729622c6da6ae09b6df6ea302304f6baf9a2f9c475f0685300fa1d68bb7520` |
+| `series/cosmic-princess-kaguya/CPK_CHARACTER_RELATIONSHIP_LEDGER.md` | `v1.3` | 88,276 | `af1d53c538ed7f92acf0e482e8e99ff0d0adb038dd3e6a87c0fa0c075c4cbbaf` |
+| `series/cosmic-princess-kaguya/CPK_CLAIM_REVISION_LEDGER.md` | `v1.3` | 100,690 | `5665d72e632278cc327ece15846c2e290bcded37290534ad2158b6648748f7e0` |
+| `series/cosmic-princess-kaguya/audits/CPK_F01_OWNER_AV_ADJUDICATION.md` | `v1.0` | 6,339 | `835690e3929acee2dd4ea9b0e0a1493c6ffdb6eab05aa9539d57353240c06466` |
+| `series/cosmic-princess-kaguya/synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md` | `v1.1` | 38,006 | `0f03af69c782937f59bce30c0b3847b27ce44921691d02eb700e0e26e81d03a7` |
