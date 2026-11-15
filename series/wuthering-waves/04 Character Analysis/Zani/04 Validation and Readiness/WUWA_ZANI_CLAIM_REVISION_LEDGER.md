@@ -54,7 +54,7 @@ No row promotes this draft to current or published authority. A later review may
 
 ## Chapter II shared AV reconciliation (`WUWA_RINASCITA_CH2_SHARED_AV_V01`)
 
-> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `158800014`, holiday quest `230750000`, and four-dub human listening remain open.
+> **Authority boundary preserved (`draft_noncurrent` / `do_not_use_as_current_authority: true`).** Runtime AV and English signal updates from `WUWA_CH2_FAYATO_1080P60_6076F127` (see the [Chapter II shared AV reconciliation audit](../../../08%20Audits%20and%20Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md)); Companion Story `158800014`, holiday quest `230750000`, and full-census four-dub human listening beyond `ZAN-DUB-01`..`05` remain open.
 
 | Claim / item | Transition | Runtime AV & English signal revision | Remaining boundary |
 |---|---|---|---|

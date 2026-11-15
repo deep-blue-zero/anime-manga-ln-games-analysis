@@ -135,8 +135,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "eb51141451309179a38aaf041ae18955695369c6c27008b1793e421a08e73b2a",
       "before_bytes": 3233,
-      "after_sha256": "2c26e12cf6e7f7acc582482af26ee87264e295655c44cfc4764bae867ebfe608",
-      "after_bytes": 4236
+      "after_sha256": "3a073f6db453981b6bf821c1b2ce7942ad3cc2884e1e077a2e02aad909980d8f",
+      "after_bytes": 4315
     },
     {
       "repository_path": "series/wuthering-waves/03 Longitudinal Ledgers/WUWA_CHRONOLOGY_LEDGER.md",
@@ -155,8 +155,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "3c74688e2f00c24873e422c2356ceb8e76c36b5847f936dbcdf27672501d2a5c",
       "before_bytes": 5968,
-      "after_sha256": "204edf85d2656f96e38fff5ce23a80698b361b2daf9a7905b7191b7cf5794bb7",
-      "after_bytes": 7827
+      "after_sha256": "dae77a96ee3cfda61538bcb32abccc45c9ba2d9e41d852c19dfc997b88b98f25",
+      "after_bytes": 7870
     },
     {
       "repository_path": "series/wuthering-waves/03 Longitudinal Ledgers/WUWA_RELATIONSHIP_NETWORK_LEDGER.md",
@@ -185,8 +185,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "899a4f03dbda726d339f98936deb276de317d519fbfa4e6aeea4fb6b75ddd7a4",
       "before_bytes": 31018,
-      "after_sha256": "2dfc97cb637f60143a7612c443fab6f84caafec3761b8d6491e1f5faf332f3a4",
-      "after_bytes": 37364
+      "after_sha256": "c73a81f26eafd9fa5fa613c0910ffd9958162fb077c38153c9c4d076b0746600",
+      "after_bytes": 37488
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Augusta/04 Validation and Readiness/WUWA_AUGUSTA_CLAIM_REVISION_LEDGER.md",
@@ -195,8 +195,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "80280e4cf2c029c3411a4af3f18aa946ab721467d7a312ef518ae6529c539e39",
       "before_bytes": 16803,
-      "after_sha256": "f125f51860f8579287e01fa8b86060d7968de4ed2cec5f3d6cf8b9fea1f4b28a",
-      "after_bytes": 20188
+      "after_sha256": "f126b1d4d520d2e66629e4af49f4605a3b32db6c2334c34a910474a6f4b9beb9",
+      "after_bytes": 20248
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Brant/03 Audiovisual and Voice/WUWA_BRANT_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -205,8 +205,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "a7b2c834635a222ac86165ff93580e7ca1b61356b3ea4c61cd330eb0b9a4f93a",
       "before_bytes": 29217,
-      "after_sha256": "f71c6581d14bf68283240ad3b72bd95982c824d68c3ebb6f979a1549c247c03e",
-      "after_bytes": 33448
+      "after_sha256": "036e2e5b7307e088af736825297019d8eba9d71d27efb881861c923550c9ad6d",
+      "after_bytes": 33507
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Brant/04 Validation and Readiness/WUWA_BRANT_CLAIM_REVISION_LEDGER.md",
@@ -215,8 +215,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "2b142e58de3da902d12653cf82c2d56920d58bba22ad7384819b0ed64c686875",
       "before_bytes": 17905,
-      "after_sha256": "780c1e6dfae05d7a555904e9d9a564b4ecd1bcb46afd5bbde0c452ad6521d99c",
-      "after_bytes": 20445
+      "after_sha256": "5a741a5406001885e2bc5a0bbce4f15c9d9bea3f975089111a5cf1a5717f92ca",
+      "after_bytes": 20582
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Cantarella/03 Audiovisual and Voice/WUWA_CANTARELLA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -225,8 +225,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "d6681e4b53a0ef5679f3823984ef4a1c8a12aefeacb5956e79b4cd315a07f5e9",
       "before_bytes": 34228,
-      "after_sha256": "ba5b6b6e6856469dd542380ede033b4ed348872a1c01e26c25826dd47007d316",
-      "after_bytes": 38564
+      "after_sha256": "cd593e5291ae871f5427750755878b031cdbf2f1867d32bd91102a79239e530a",
+      "after_bytes": 38635
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Cantarella/04 Validation and Readiness/WUWA_CANTARELLA_CLAIM_REVISION_LEDGER.md",
@@ -235,8 +235,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "e465071150af90d04fce0ff8ed66714c897ca335d36013ae9f1fae537501474d",
       "before_bytes": 22744,
-      "after_sha256": "84480b611cbde008a456f7274367fbfe3bfb9d9d72f532fd58f9d1bbf8dd9034",
-      "after_bytes": 25689
+      "after_sha256": "6df118f85c04b26553e7bbd4149760dbff2eac3fa0d69b6ae4d2ab462871fbc4",
+      "after_bytes": 25750
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/03 Audiovisual and Voice/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -245,8 +245,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "0b4056b6541265941258cfbf5c566e88664c98156717764573ae5338a542d24a",
       "before_bytes": 30025,
-      "after_sha256": "a0568e813acef9a43e986f9d9ec38687709872b5c37fbddacec53ce232598e59",
-      "after_bytes": 42376
+      "after_sha256": "e0097cbcc968fbf116e92be4ddb172675738769e7037e13fa5cf01edc861019d",
+      "after_bytes": 42662
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/04 Validation and Readiness/WUWA_CARTETHYIA_PRIOR_GENERATION_CLAIM_REVISION_LEDGER.md",
@@ -255,8 +255,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "1e9555c2ee69203700887d781b051b35ef18e30a1fec20ccae2003eab2372707",
       "before_bytes": 14090,
-      "after_sha256": "0882f9b93f51cb553f17cfa7bc213a700db6fa2d280b2c9bc692be5194461c0d",
-      "after_bytes": 18190
+      "after_sha256": "0939a93fa0fd7fe0cf1fddeb84da33a81ee55760e4a708d481b23e0a42c23966",
+      "after_bytes": 18366
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Cartethyia/WUWA_CARTETHYIA_CURRENT_STATE.md",
@@ -265,8 +265,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "a641937b6c7f9ae11080a22a161f8162513fae041f1cf48b1cbd3409cd72bea6",
       "before_bytes": 5562,
-      "after_sha256": "90225e2142152f0eb04e3904f8389ff1fbea618b1fd43293c78e8232eca069c8",
-      "after_bytes": 8818
+      "after_sha256": "1c7019281024b85b0f96127ad0dc27689fad90e1bbb4490ec26358fc77310486",
+      "after_bytes": 8861
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Changli/03 Audiovisual and Voice/WUWA_CHANGLI_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -285,8 +285,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "12e1621f296adcacd214688be223b7f1ac89ee3c2e153cadfdd4c3d21d14662e",
       "before_bytes": 28162,
-      "after_sha256": "9e9172c38ae41d363cc46d838056cbd6bb35d45450e46b7bbb8779cd5677ce9b",
-      "after_bytes": 34011
+      "after_sha256": "c01d2dea6bb09a58c8a945da628cf1df7f88487a82b574494800b3c29c52e542",
+      "after_bytes": 34160
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Iuno/04 Validation and Readiness/WUWA_IUNO_CLAIM_REVISION_LEDGER.md",
@@ -295,8 +295,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "b1c7dd5e28c5ff81c913e392897d41d3eeb99169ed9afb13d5319314e8f098b8",
       "before_bytes": 18472,
-      "after_sha256": "7aff9ddd6a08b01fba3bd179ddfb603d1d5604b0f95fe1bbe5bf55b914873bab",
-      "after_bytes": 21462
+      "after_sha256": "738d48b870520db4d9e42110f7e77dcf4a04fa0a7b666dd9c8c0ddaf7abf9a24",
+      "after_bytes": 21567
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Jinhsi/03 Audiovisual and Voice/WUWA_JINHSI_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -305,8 +305,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "74da0c13708c605a9e5f671660a90f1c87f1c13c603ce6e57305f0d493b51ab6",
       "before_bytes": 37285,
-      "after_sha256": "fcb44fe99df3ca1e93c772601ef84ef81be3529275391e461d371e98503f3f81",
-      "after_bytes": 38824
+      "after_sha256": "b756dd08c72e11e31479df9bf225dd1c93995368e86d222085f9c5149076975b",
+      "after_bytes": 38836
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Phoebe/03 Audiovisual and Voice/WUWA_PHOEBE_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -315,8 +315,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "8094e9c1f4340f3d073363ea9cb2c5968d7d41cadb26a84965ff6f5468200818",
       "before_bytes": 25951,
-      "after_sha256": "b4313cbba8df3142eb159c28e0032a8b0458775895eeb4bf2b5ce7f0925328f5",
-      "after_bytes": 30491
+      "after_sha256": "212965af2050485d054347fa3d164640962d1d2052630319d3fe7c51d319a716",
+      "after_bytes": 30615
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Phoebe/04 Validation and Readiness/WUWA_PHOEBE_CLAIM_REVISION_LEDGER.md",
@@ -325,8 +325,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "afd4c2f4a6e15469a238e6b774f743c36ada212b5597522975de1f21b4551c37",
       "before_bytes": 17100,
-      "after_sha256": "903bf22b9ff346570b8e62ea1bec40718782e87eff96054f223310b80cfc7ea8",
-      "after_bytes": 19884
+      "after_sha256": "37b3e1335165a6808cafd8273937f291b30a26ffe3f5ba8d4ac8ae76d8b0388f",
+      "after_bytes": 19942
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/03 Audiovisual and Voice/WUWA_QIUYUAN_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -335,8 +335,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "c6d0e9e2b06114a5936285072ce01983fcdb2a0c74a20f67c9266c9e5541364a",
       "before_bytes": 27360,
-      "after_sha256": "5d5606cc26376cd63c4e0c5a057bcffca46f311be7dfbe811f7099cd26d45b27",
-      "after_bytes": 30936
+      "after_sha256": "0493e6d7e0b26139ab5525f7e98d3c12b6afe3ac33f9dea345b141276d6de935",
+      "after_bytes": 31093
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Qiuyuan/04 Validation and Readiness/WUWA_QIUYUAN_CLAIM_REVISION_LEDGER.md",
@@ -345,8 +345,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "d3a33f0202cb3242f819df0b14800a1120d5b1dbdb49d8594304f93cdbce8093",
       "before_bytes": 12204,
-      "after_sha256": "a41cd7351dc24efbc623cade9d7f3571c806b01d6a231f97062c770ad9dec20f",
-      "after_bytes": 14726
+      "after_sha256": "80dcb29d74b4b6badc85600fd6b226f6e39be11d67eac4046cddb905b0c4c9cc",
+      "after_bytes": 14799
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/README.md",
@@ -365,8 +365,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "b28adea28efb22206ba51e059dbe1358162d3ceb23973c38d0d5dbf5fe73c84a",
       "before_bytes": 26454,
-      "after_sha256": "87c0daaa7ec12e6a57caabc7f60883f6bee816ad185a459023b2cb1b95bceedc",
-      "after_bytes": 29694
+      "after_sha256": "d4a982818fea729ff08c7cd55f5d639b0904efc8cb74223c6ff49543b1e473c2",
+      "after_bytes": 29765
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Shorekeeper/04 Validation and Readiness/WUWA_SHOREKEEPER_CLAIM_REVISION_LEDGER.md",
@@ -375,8 +375,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "324cc89c6a1315f00ee9911c3d63016d28c03c8a0e3b4c1802f3d22e828d98c2",
       "before_bytes": 13484,
-      "after_sha256": "06af84261f5a80820cc53072bda36414809c747c04ea35d55ee7caa47d8e33c6",
-      "after_bytes": 15646
+      "after_sha256": "c2b95ed13a053ee60e73accddcd080c3b6699aa2633439c766b5498d81c8d74a",
+      "after_bytes": 15764
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Yinlin/03 Audiovisual and Voice/WUWA_YINLIN_AV_HUMAN_RETRIEVAL_CROSSWALK.md",
@@ -395,8 +395,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "833abe6a2f39d8776909ea92d98815d6b4bfcaa5f605252e85e933daffa18fac",
       "before_bytes": 31590,
-      "after_sha256": "d35544e28d3ab86eab1e0cf03e0d09122be6907d14e275b9f0672dde5d9dc39e",
-      "after_bytes": 35536
+      "after_sha256": "49f07c6bcb479ab137a5f69543c7a029bb2ac68292509300c7a38fe730cd1d66",
+      "after_bytes": 35620
     },
     {
       "repository_path": "series/wuthering-waves/04 Character Analysis/Zani/04 Validation and Readiness/WUWA_ZANI_CLAIM_REVISION_LEDGER.md",
@@ -405,8 +405,8 @@
       "do_not_use_as_current_authority": true,
       "before_sha256": "ac609c2141e654867058367f44b1abe073b3af19f3fbdb1e74e03083f0b75e0c",
       "before_bytes": 14141,
-      "after_sha256": "6d5cb0d877a89d177903a1e187d5530d589bba13384b40fb1bb8ffcf03dffb6d",
-      "after_bytes": 16397
+      "after_sha256": "f47f4b38ed7b282d9607f3c8da5c8e25168a97d7ff0710fe5ff4af42267f7277",
+      "after_bytes": 16435
     },
     {
       "repository_path": "series/wuthering-waves/07 Evidence and Indexes/WUWA_CHARACTER_INDEX.md",
@@ -415,8 +415,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "dc097ee0355c298e28d845d7fdc0ccbd7c11c3bdb1d23a0c668b16ad0f21f4d4",
       "before_bytes": 8221,
-      "after_sha256": "29a3a49807473ee8af733d41d5f552891c80f23d537682f3bb5790ff5490c036",
-      "after_bytes": 9287
+      "after_sha256": "97798b29bb9ff686538c08aad9ae3574ea1d3f0f7f71530a0c4344c6c66942eb",
+      "after_bytes": 9355
     },
     {
       "repository_path": "series/wuthering-waves/07 Evidence and Indexes/WUWA_CLAIM_EVIDENCE_INDEX.md",
@@ -425,8 +425,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "6271735febac6b0d24ed09760acacdd228b9b139393fe8435169c072654beabb",
       "before_bytes": 6909,
-      "after_sha256": "b92782165aa5f2ec1c38d2a424a94b8ddf14c5be03e965980da250bdb42264db",
-      "after_bytes": 8907
+      "after_sha256": "62d01168c686d8495c8581079f090140f12b6bd839749de0998ed59440127fc0",
+      "after_bytes": 8947
     },
     {
       "repository_path": "series/wuthering-waves/08 Audits and Manifests/WUWA_MANIFEST.md",
@@ -445,8 +445,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": null,
       "before_bytes": null,
-      "after_sha256": "cac0ca67984f55e6b1f6eef32b35d751014a1e91e8054cc0c3e5a42f906ea325",
-      "after_bytes": 53607
+      "after_sha256": "58a6acb4c8008bfd21575a62a91650a9b1a3bc0a03404a2148091054e3a6776c",
+      "after_bytes": 54976
     },
     {
       "repository_path": "series/wuthering-waves/08 Audits and Manifests/WUWA_RINASCITA_CH2_SHARED_AV_RECONCILIATION_AUDIT.md",
@@ -455,8 +455,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": null,
       "before_bytes": null,
-      "after_sha256": "67c370134b816a7a2041d786a8c2df805035b947c5b11b7c51d1da7b10c53a52",
-      "after_bytes": 25585
+      "after_sha256": "687a3550c17a07725f67c57542e29ed06a693f827e451dae2339ed7faa1b6517",
+      "after_bytes": 26912
     },
     {
       "repository_path": "series/wuthering-waves/CURRENT_STATE_AND_CORPUS_MAP.md",
@@ -465,8 +465,8 @@
       "do_not_use_as_current_authority": false,
       "before_sha256": "c112e03ea4f006c3214bdd97f4320eaf0752541b1a7a657ed83715e0cb368ad1",
       "before_bytes": 15089,
-      "after_sha256": "9b6554cf4b1612b19b2dc03cbf1b24b3b9a5f0a143750ab69993781828efe7f2",
-      "after_bytes": 16695
+      "after_sha256": "d7f3dd4df1846b522f8ef0a2bff0ecd7b5c1891601f1f828748fe2bce7773cfe",
+      "after_bytes": 17355
     }
   ],
   "four_dub_voice_calibration": {
