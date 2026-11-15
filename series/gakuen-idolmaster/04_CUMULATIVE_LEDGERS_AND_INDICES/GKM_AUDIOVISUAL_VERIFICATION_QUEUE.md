@@ -900,3 +900,17 @@ The prior acquisition handoff is historical. Use the [target and metrics matrix]
 The [Gemini 4 Carbon observation packet](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md) and [paired adjudication packet](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_ADJUDICATION.md) supply the current prioritized selection. The register has 35 unique candidates: 12 P0, 17 P1, 4 P2 and 2 deferred. The P0 set includes the 11 existing required Rinha targets and the inherited E001 dub witness. The Rinha café candidate is supplemental. Preserve the inherited seven Rinha controls, exact source-edition matching and the established gate criteria. The prior Phase 4/5 backlog stays queued under its original evidence obligations.
 
 All new exact playback times are unresolved. The inherited Rinha navigation windows apply to their matched files only. Direct listening and continuous motion for this refresh are both zero seconds.
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+Script-derived Kanae referrals at the rev 88 boundary. Source identity and commanded offsets are in the [crosswalk](GKM_AUDIOVISUAL_SOURCE_CROSSWALK.md#source-lock-12--transcript-refresh-2026-11-15). Review these when matching media are available. The [Carbon observation supplement](../05_AUDIOVISUAL_ANALYSIS/GKM_CARBON_AV_OBSERVATION_PACKET.md#source-lock-12--kanae-candidates) gives priorities, acquisition targets and neutral questions. Its five rows accompany the inherited 35.
+
+| Target | Playback question | State |
+| --- | --- | --- |
+| AV-HKNE-R88-01 | Confirm the Dear 009 assessment edition and check how the cut from stage entry to `初` to the after-action is performed. | AV-C script interval; matched media and offsets pending |
+| AV-HKNE-R88-02 | Compare the demo cue to the later solo asset, if available, and distinguish the cue's use in dialogue from the finished rendition. | AV-C cue and named song; matched media pending |
+| AV-HKNE-R88-03 | Match the Dear 010 ending video and document its actual relationship to the preceding voiced line. | AV-C video command; matched media pending |
+| AV-HKNE-R88-04 | Compare the stand-in, the mirror and the run for visible posture, hesitation and delivered address with dialogue aligned. | AV-C scene locators; direct playback pending |
+| AV-HKNE-R88-05 | Pair native live start/end versions and resolve voice slots for message-free steps before transcribing heard lines. | AV-C script staging; dispatch and audio identities pending |
+
+Listening and continuous-motion inspection for the 1.2 transaction both total zero seconds. This evidence serves the new text tranche. The Rinha perceptual gate retains its own matched-source obligations.

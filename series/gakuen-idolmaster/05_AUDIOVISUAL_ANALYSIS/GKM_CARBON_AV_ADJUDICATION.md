@@ -7,8 +7,8 @@ status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
-source_boundary: "A1 Source Locks 1.0 and 1.1 (revision 86), 82412aa5029abd363e68aec145e36525cf9b6b06; separate RINHA-AV-20260911 media identities"
-last_updated: '2026-11-12'
+source_boundary: "A1 Source Locks 1.0 and 1.1 for the 2026-11-12 selection; Source Lock 1.2 for Kanae candidates at revision 88; separate RINHA-AV-20260911 media identities"
+last_updated: '2026-11-15'
 ---
 
 # Gemini 4 Carbon adjudication packet
@@ -63,3 +63,15 @@ Each row’s complete earlier treatment and story locators are in the [targeted 
 | `AV-CARBON-KNA-001` | Kanae horizontal prologue. Kanae registers a changing distance and a later reciprocal approach. | Shot geometry may establish whose view is privileged or leave attention indeterminate. Do not use an eye-line cue to assign private knowledge. |
 
 For each target, return the governing transition vocabulary (`PRESERVE`, `STRENGTHEN`, `REVISE`, `DOWNGRADE`, `REJECT` or `OPEN`), observation IDs, calibrated interval, actual inspection modality, source edition, alternative explanations and confidence. Prior claims outside those channels remain in their owning readings. Keep unsupported claims open and return new observations separately.
+
+## Source Lock 1.2 — Kanae candidates
+
+Use the frozen observation log from the [Kanae observation rows](GKM_CARBON_AV_OBSERVATION_PACKET.md#source-lock-12--kanae-candidates). The [Kanae reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md) supplies the current text claims and exact context.
+
+| Candidate | Claim under test and owning record | What could change |
+| --- | --- | --- |
+| `AV-HKNE-R88-01` | `KANAE-R88-C01` and `C04`. Dear 009 stages the assessment and Kanae reports enjoyment and success. | A uniform or strongly segmented delivery may qualify the degree of contrast between anxious preparation and active address. AV may add observable qualifiers to the live and voice ledgers. The textual pass, D007 dream and D001 transfer remain distinct. |
+| `AV-HKNE-R88-02` | `KANAE-R88-C06` and song ledger. Kanae calls the song bright and pop, then describes wearing the new outfit and singing this song as making a freer stance possible. | A matching cue can distinguish described style from heard arrangement and establish whether a full take uses a different texture or delivery. A relatively restrained performance can qualify an expectation of wholesale transformation. Track which object makes the evidence available. |
+| `AV-HKNE-R88-03` | `KANAE-R88-C03` and `C04`. Dear 010 ends with a direct named address and a separate video command. | A verified ending sequence could calibrate how music and images frame the address and future dream. This affects the episode's AV reading. It does not itself determine shared-stage history or a private relationship category. |
+| `AV-HKNE-R88-04` | `KANAE-R88-C02` and `C04`. The stand-in, mirror and run give different accounts of being seen and of movement. | If visible movement or voice is shared or indistinct, narrow claims about any embodied contrast to the evidence the edit actually supplies. Distinguish portrait effect, body movement and actual performance space. |
+| `AV-HKNE-R88-05` | `KANAE-R88-C05`, voice ledger and branch ledger. The wrappers and unresolved slots show script variants. | Matched gameplay captures could recover local mappings and supply voice lines outside A2. A gameplay observation promotes only the witnessed version and conditions. Missing crowd commands, unresolved slots and the 15-message wrapper count cannot do that work by themselves. |
