@@ -3,14 +3,14 @@ title: Generic Multi-Document Synthesis Architecture Template
 artifact_id: GENERIC_MULTI_DOCUMENT_SYNTHESIS_ARCHITECTURE_TEMPLATE
 artifact_type: generic_synthesis_architecture_template
 artifact_role: reusable_corpus_level_architecture_template
-version: "1.1"
+version: "1.2"
 status: canonical
 scope: bootstrap template for a project's synthesis/corpus architecture in any medium
 authority_scope: this_reusable_reference_only
 adoption: opt_in
 project_local_authority: false
 created: 2026-10-24
-last_updated: 2026-11-14
+last_updated: 2026-11-15
 maintainer: Claude + user
 source_boundary: "Architectural reference only; no series findings or primary-source evidence"
 do_not_use_as_current_authority: false
@@ -143,7 +143,8 @@ Define what a source-unit reading must contribute before it counts as architectu
 - [ ] evidence locators in the declared grammar (Section 10);
 - [ ] prediction-register adjudication, if the project keeps one;
 - [ ] for reconciled lanes: the AV verification queue, or a statement that none is needed;
-- [ ] source inventory and corpus-map advancement.
+- [ ] source inventory and corpus-map advancement;
+- [ ] the participation, critical review and reconciliation record required by topology Section 4.1 (Section 15).
 
 A reading whose prose is finished but whose required cumulative state was not advanced is incomplete.
 
@@ -295,6 +296,16 @@ Name the method family (routing policy Section 6): the governing method; any AV-
 | Substantial synthesis | <role> | <lane> | Handoff contract |
 | Repository integration | <role> | Not applicable | Checklist |
 
+Name the multi-agent reading configuration that [topology Section 4.1](../source-policies/MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading) requires for substantive sequential readings, again by role:
+
+| Reading role | Responsibility in this project | Durable record |
+|---|---|---|
+| Principal and analytical integrator | <complete required inspection through the governing lanes, interpretation, reconciliation> | <checkpoint or transaction record> |
+| Specialist(s) | <dimensions chosen for this medium, objectives and evidence density> | <transaction record; claim and evidence ledgers> |
+| Critical reviewer | <normally distinct from the specialist> | <transaction record> |
+
+**Decide:** which specialist dimensions earn a role; when a long or dense unit splits them among several agents; which unusually bounded unit types, if any, are eligible for the reduced configuration, and why (each use still records its reason).
+
 ## 16. Extension, lifecycle, and review checkpoints (contract 5.12; initiation Sections 7–8)
 
 Permit analytically justified evolution: a new ledger or specialist responsibility is added when a dimension recurs, accumulates evidence independently, affects later synthesis, cannot be represented in an existing home, or needs independent retrieval. Record changes in the architecture's revision history and the corpus map.
@@ -405,6 +416,7 @@ Before the first substantive sequential reading, confirm (initiation Section 15)
 - [ ] source, conflict, and continuity rules explicit;
 - [ ] extension rule and completion gates present;
 - [ ] reasoning classes assigned;
+- [ ] multi-agent reading configuration named (Section 15; topology Section 4.1);
 - [ ] entrypoint written in the initial state: lock `closed`, no run, `next_permitted_operation: NONE_AWAITING_RUN_AUTHORIZATION`.
 
 Completing this checklist establishes readiness. It does not authorize a sequential reading. A reading may begin only after the separate authorized transition in Section 20: an owner-authorized run recorded with `run_state: active`, its mode and bounds, matching next operations, and the lock opened in the same change.
@@ -449,5 +461,6 @@ Hazards in architecture text itself:
 
 # Revision history
 
+- **1.2 — 2026-11-15:** Section 15, the sequential-reading contract and the initialization checklist name the project's multi-agent reading configuration under topology Section 4.1. Adds no mandatory folder or per-agent file.
 - **1.1 — 2026-11-14:** Aligned Section 8, the sequential-reading contract, the initialization checklist and the common failures with the self-contained character monograph standard (initiation Section 5.5.1). Adds no mandatory folder, ledger or monograph.
 - **1.0 — 2026-10-24:** Initial template.
