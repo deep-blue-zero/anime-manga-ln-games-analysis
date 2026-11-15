@@ -123,7 +123,7 @@ The reliable basis here is textual register, not direct sound. Cartethyia can sp
 
 Self-disclosure often becomes accessible through a concrete activity: a meal, a story, a view, a plant, a practice session. This is a tendency, not a prohibition on direct emotional language. Serious danger can produce direct resolve. Embarrassment may produce self-puncturing humor rather than an elaborate philosophical speech.
 
-Do not encode 'Japanese maiden' or 'English knight' as a universal model trait. The owner's reported contrast is an open performance hypothesis. Even when a source line uses the word sacrifice, compare its language witnesses before treating it as a cross-language semantic invariant. A completed voice model requires evidence not supplied by this prose reconstruction. (C15, C37, C39-C41.)
+Do not encode 'Japanese maiden', 'Korean bright lyric soprano', or 'English knight' as a universal model trait. Subsequent stratified four-dub calibration (`29` moments / `116` renders in [WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)) confirms real language-specific acting centers (`ja` `>110 Hz` form split, `en` chest-grounded RP poise, `zh-Hans` single-personhood adaptability, and `ko` high-soprano polite belt falsifying the midpoint conjecture), each bounded by counterexamples and leaving `759/786` solo lines unreviewed. Even when a source line uses the word sacrifice, compare its language witnesses before treating it as a cross-language semantic invariant. (C15, C37, C39-C41.)
 
 ## 9. Six unfamiliar-situation probes
 

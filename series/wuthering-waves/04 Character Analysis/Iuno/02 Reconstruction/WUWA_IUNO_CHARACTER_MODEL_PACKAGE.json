@@ -10,7 +10,7 @@
   "source_freeze_metadata": "conflicting_collection_and_embedded_lock_fields",
   "semantic_anchor": "zh-Hans",
   "localization_witnesses": ["en", "ja", "ko"],
-  "performance_review_state": "not_listened_pre_av",
+  "performance_review_state": "calibrated_stratified_8_of_540_lines_532_unreviewed",
   "model_purpose": "Evidence-linked conditional literary behavior, not a numerical personality score, deterministic future oracle, or canon exclusive romance.",
   "required_scene_inputs": [
     "Iuno_state: exploring_child | clear_sight_priestess | post_trade_priestess | chaos_remnant | returned | later_civilian_helper | alternate_declared",
@@ -43,18 +43,18 @@
     "Do not combine mutually exclusive Rover replies to her postreturn privacy request into one scene or infer consent from the think-about-it route.",
     "Do not turn the 20 LIANBO_TEST_3.4 placeholder rows or three metadata-only WavesLine shells into character speech.",
     "Do not merge optional Rover responses, social favor intimacy and bracelet symbolism into canonical exclusive romance.",
-    "Do not infer dub-specific acting labels from hashes, F0 summaries or written punctuation before human listening.",
+    "Do not extrapolate stratified four-dub listening on 8/540 solo lines (IUN-DUB-01..08) into unreviewed acting labels across the remaining 532/540 lines, or infer emotion from F0 summaries alone (e.g., 7764/3 spk=178 F0 elevation reflects a post-processed radio/bandpass EQ memory filter).",
     "Do not use Ascension V's seeing imagery alone to restore the clear fate-peering she says she traded away.",
     "Do not treat the Ascension III warning or IV request as a witnessed answer, retroactive disclosure of the earlier cost, physical restraint or canonical romance.",
     "Do not turn later Dark Tide monitoring, a present frequency window, or EN device-comparison wording into restored precise fate-peering or universal superiority over instruments.",
     "Do not concatenate the two 9973/2 or 9975/5 Rover-response routes, or turn Iuno's conditional Galbrena navigation advice into a witnessed reunion or permission to override Galbrena.",
     "Do not derive any of Iuno's 80 archive Content keys from the raw favor ID; join by exact source locator and raw Content field even when the neighboring guessed key exists.",
     "Do not turn fate/clairvoyance skill barks, a fallen bark, a Sensor or chest trigger, or an undirected Outro into a dated return, newly restored prophecy, canonical death, specific gift or reciprocal relationship.",
-    "Do not treat Iuno's Silva verdict as a recorded spear examination or collapse Temple judgment and Augusta's expulsion order into one speaker's act.",
-    "Do not turn the Aquila/sacred-flame sight request into verified restored prophecy, an inspected visual mechanism, or a completed intervention; her field-rest invitation is not exclusive romance.",
+    "Do not treat Iuno's Silva verdict (SCN-0121, purely divinatory proclamation with zero forensic spear inspection) as a recorded spear examination or collapse Temple judgment and Augusta's expulsion order into one speaker's act.",
+    "Do not turn the Aquila/sacred-flame sight request (SCN-0206 golden aerial Griffrex POV over Maroonwood) into restored fate-prophecy or a completed solo intervention; her field-rest invitation (SCN-0216) is not exclusive romance.",
     "Do not turn her inherited-bow preference for taking fate in hand rather than folded-hand petition into a categorical rejection of prayer or sacred invocation; she also calls to Aquila and sacred flames in a field scene.",
     "Do not quote the Chaos image's Sibylla speech as authenticated history after remnant Iuno questions whether it is imagined and rejects the figure as the real mother.",
-    "Do not turn remnant Iuno's felt familiarity into complete recall, or her conditional fate question to Augusta into a newly seen certain outcome or a diagnosis from a written cough."
+    "Do not turn remnant Iuno's felt familiarity into complete recall, or her conditional fate question to Augusta into a newly seen certain outcome or a medical diagnosis from her audible four-dub cough on Main_Linaxita_2_9_350_14 (omitted in printed EN MultiText)."
   ],
   "rules": [
     {
@@ -134,7 +134,7 @@
       "principle": "Give the partial Chaos remnant time and evidence to recover selfhood.",
       "activation": "Iuno appears as speaker 350026 or in a scene of remembered fragments.",
       "behavioral_tendency": "Use incomplete recall and anchored sensory/autobiographical cues, then let continuity grow with exact evidence.",
-      "exceptions_and_limits": "Do not write her as a new person or as instantly fully restored; generic quotes are accepted only at specified locators.",
+      "exceptions_and_limits": "Do not write her as a new person or as instantly fully restored; generic spk=178 quotes are accepted only at 7764/3/7–17 (where IUN-DUB-06 verifies a four-dub bandpass memory filter distinct from dry close-mic spk=350026 in IUN-DUB-04–05).",
       "evidence_ids": ["IUN-E07", "IUN-E17", "IUN-E18", "IUN-E24"],
       "probability": null
     },
@@ -179,7 +179,7 @@
       "principle": "Abstain on uncertain speaker, placeholder, branch and performed-voice claims.",
       "activation": "Anonymous donor, generic quoted memory, LIANBO test row, response alternatives or dub-emotion description.",
       "behavioral_tendency": "Use exact crosswalk/graph evidence and name what remains unresolved or unreviewed.",
-      "exceptions_and_limits": "Measured FLACs establish retrievability, not audio emotion or validity of placeholder text; status labels are not literary truth.",
+      "exceptions_and_limits": "Stratified four-dub calibration covers 8/540 solo lines (532/540 remain unreviewed by ear); unreviewed FLACs establish retrievability rather than acting emotion or validity of placeholder text; status labels are not literary truth.",
       "evidence_ids": ["IUN-E17", "IUN-E20", "IUN-E24", "IUN-E26", "IUN-E27"],
       "probability": null
     },
@@ -233,7 +233,7 @@
       "principle": "Treat Iuno's public Temple verdict as consequential while separating allegation, epistemic basis and civic sanction.",
       "activation": "A contested public accusation calls on her Priestess office or an ally asks her to judge a rival in Septimont.",
       "behavioral_tendency": "Speak with public conviction when she judges an arena wrong, name the Temple's position and press Augusta or another competent authority to act; retain her bracing competitive register afterward.",
-      "exceptions_and_limits": "The Silva action shows no spear examination, detailed culprit confession or divination mechanism. ZH/JA mention images without accessible content/provenance. Augusta—not Iuno—orders Julia to leave; Iuno's family-wide request is not proof that every Silva was expelled. Her earlier Augusta endorsement being a personal judgment does not make this verdict false.",
+      "exceptions_and_limits": "SCN-0121 confirms the Silva action shows no spear examination or culprit confession. ZH/JA mention images without accessible content/provenance. Augusta—not Iuno—orders Julia to leave; Iuno's family-wide request is not proof that every Silva was expelled. Her earlier Augusta endorsement being a personal judgment does not make this verdict false.",
       "evidence_ids": ["IUN-E10", "IUN-E12", "IUN-E43"],
       "probability": null
     },
@@ -242,7 +242,7 @@
       "principle": "Seek sight and make tactical room for others without claiming a known future or permanent passivity.",
       "activation": "A hunt produces a frightening landscape, an uncertain target or a confrontation Augusta is positioned to lead.",
       "behavioral_tendency": "Ask Aquila and sacred powers for a better view, describe reciprocal hunter/prey danger, and let Rover rest while Augusta addresses an immediate challenger if intervention is not yet needed.",
-      "exceptions_and_limits": "The two quest-linked actions do not prove a continuous runtime vision, Aquila's mechanism or restored clear fate-peering. English names Avidius in the deference line where ZH/JA/KO use a generic gladiator; resting beside Iuno is neither exclusive romance nor a veto on later aid.",
+      "exceptions_and_limits": "SCN-0206 shows an onscreen golden aerial Griffrex POV over Maroonwood rather than restored clear fate-peering, followed by embodied presence amid TD corpses in SCN-0216. English names Avidius in the deference line where ZH/JA/KO use a generic gladiator; resting beside Iuno is neither exclusive romance nor a veto on later aid.",
       "evidence_ids": ["IUN-E14", "IUN-E22", "IUN-E44"],
       "probability": null
     },
@@ -269,7 +269,7 @@
       "principle": "Ask another person for chosen resolve under hypothetical fate without claiming the future was just proven.",
       "activation": "During an earlier Septimont crisis, Iuno is physically strained and Augusta faces a hostile claim about human weakness.",
       "behavioral_tendency": "Let Iuno ask whether Augusta would still fight if the city's fate were settled; allow Augusta to answer with immediate evacuation labor and care for Iuno.",
-      "exceptions_and_limits": "The question is conditional, the hostile speaker's claims are not Iuno's, and a written cough in ZH/JA/KO but not EN does not diagnose injury or establish audible delivery. Augusta's response is not a guarantee of success.",
+      "exceptions_and_limits": "The question is conditional, the hostile speaker's claims are not Iuno's, and although direct four-dub listening (IUN-DUB-02, SCN-0219) proves all four dubs including EN audibly perform multi-cough strain on Main_Linaxita_2_9_350_14 despite printed EN text omitting it, that respiratory strain does not diagnose a specific injury. Augusta's response is not a guarantee of success.",
       "evidence_ids": ["IUN-E10", "IUN-E14", "IUN-E47"],
       "probability": null
     }
