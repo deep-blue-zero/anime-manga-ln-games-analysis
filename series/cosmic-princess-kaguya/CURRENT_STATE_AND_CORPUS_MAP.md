@@ -4,7 +4,7 @@ series: cosmic-princess-kaguya
 artifact_id: CURRENT_STATE_AND_CORPUS_MAP
 artifact_type: current_state_and_corpus_map
 generation: CPK-G1
-version: "1.6"
+version: "1.7"
 status: canonical
 authority_scope: "Single project entrypoint for the STABILIZED F01 architecture and owner-qualified integrated corpus"
 source_boundary: "Admitted Japanese feature witness CPK-W01-NF-WEBRIP-HEVC (F01, 00:00:00.000-02:22:03.207); primary continuous-AV run CPK-R1, independent bundle/audit benchmark CPK-B1-SOL61, bounded 1-of-1 AV return CPK-AVRET-R1, ledger reconciliation, integrated synthesis CPK-INT and bounded owner audiovisual adjudication completed"
@@ -70,6 +70,14 @@ Canonical root: `series/cosmic-princess-kaguya/`. Continuing branch: `series/cos
 | [Bootstrap review](CPK_BOOTSTRAP_REVIEW.md) | `v1.0` (`canonical`) | Architecture-bootstrap producer scope and provenance |
 | [Routing descriptor](.repository/series-registry.json) | `canonical` | Project-local `ANIME` routing input for automated global index housekeeping |
 
+### F01 character monographs
+
+Film-only companion studies for review. Each monograph connects personality and Japanese voice to specific scenes and marks behavioral extrapolations with their confidence and limits.
+
+- [Iroha Sakayori](studies/character_monographs/CPK_F01_IROHA_CHARACTER_MONOGRAPH.md)
+- [Kaguya](studies/character_monographs/CPK_F01_KAGUYA_CHARACTER_MONOGRAPH.md)
+- [Yachiyo](studies/character_monographs/CPK_F01_YACHIYO_CHARACTER_MONOGRAPH.md)
+
 ### Preserved noncurrent candidates, blind logs, and audit evidence (`do_not_use_as_current_authority: true`)
 
 | Preserved artifact | Version & status | Evidentiary role |
@@ -89,7 +97,7 @@ Canonical root: `series/cosmic-princess-kaguya/`. Continuing branch: `series/cos
 
 1. **No further sequential source-unit admission without explicit new owner instruction** (`next_permitted_operation: NONE`, `next_candidate_operation: NONE`; `F01` is a single-unit feature).
 2. **Immutable noncurrent records**: Never edit `readings/CPK_F01_PRIMARY_DEEP_READING.md`, `audits/CPK_F01_BLIND_INPUT_PACKET.md`, `CPK_BOOTSTRAP_REVIEW.md`, the `39` `CPK-B1-SOL61` artifacts (`independent/CPK-B1-SOL61/` and `audits/`), or the digest-bound primary AV return. All current analytical authority flows through [synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md](synthesis/CPK_F01_INTEGRATED_SYNTHESIS.md) and the current cumulative ledgers.
-3. **Entrypoint version lineage**: `v1.0`–`v1.1` = bootstrap; `v1.2` = `F01` active admission; `v1.3` = `CPK-R1` primary freeze; `v1.3.1`–`v1.3.2` = PR #542 erratum-qualified archive entry on `main`; `v1.4` = `CPK-B1-SOL61` pre-integration routing draft (`CURRENT_STATE_ROUTING.patch`); `v1.5` = post-reconciliation routing with the earlier `MATURE` label; `v1.6` = `STABILIZED` lifecycle, coverage boundaries and owner adjudication.
+3. **Entrypoint version lineage**: `v1.0`–`v1.1` = bootstrap; `v1.2` = `F01` active admission; `v1.3` = `CPK-R1` primary freeze; `v1.3.1`–`v1.3.2` = PR #542 erratum-qualified archive entry on `main`; `v1.4` = `CPK-B1-SOL61` pre-integration routing draft (`CURRENT_STATE_ROUTING.patch`); `v1.5` = post-reconciliation routing with the earlier `MATURE` label; `v1.6` = `STABILIZED` lifecycle, coverage boundaries and owner adjudication · `v1.7` = three F01 character monographs linked for review.
 
 ## Resume requirements
 
