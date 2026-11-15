@@ -1369,3 +1369,19 @@ Use the reading's A1 locator with the [versioned archive-relative path and SHA-2
 | GKM-R86-07 | [Support and seasonal startup](../03_SOURCE_FACING_READINGS/03_SUPPORT_CARD_READINGS/GKM_SUPPORT_REVISION_86_DEEP_READING.md) | 44 new, 845 messages, plus support 3-0063 part 03 |
 | GKM-R86-08 | [Eleven remaining new communication episodes](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_COMMU_REVISION_86_DEEP_READING.md) | 33 new, 1,347 messages, plus Rinami 018 and Saki 015 revisions |
 | GKM-R86-09 | [Remaining Dear epilogues and common A1 changes](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/GKM_DEAR_EPILOGUES_AND_COMMON_ADV_REV86.md) | 10 new, 220 messages, with three overlap epilogues already counted above, and seven technical comparisons |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+The [103-row per-object delta](../01_CORPUS_AUDIT_AND_SOURCE_LOCK/GKM_SOURCE_DELTA_20261115.tsv) is the exact original-to-A1 locator and hash index for these groups. The group IDs count each new file once. Previously admitted horizontal chapters supply entering context and are referenced under GKM-R86-04. See [Kanae's reading](../03_SOURCE_FACING_READINGS/01_CHARACTER_CORE_READINGS/14_HIWATARI_KANAE/GKM_HIWATARI_KANAE_SOURCE_LOCK_12_READING.md) for the physical line locators and revised claims.
+
+| Evidence ID | Admitted A1 group | Files / extracted messages | Decisive anchors by physical A1 line |
+| --- | --- | ---: | --- |
+| GKM-R88-01 | `adv_dear_hkne_001.txt` to `adv_dear_hkne_010.txt`, `transcripts_raw/05_dear_idol/hkne/` | 10 / 815 | 001 L26–50 continues the winter consultation. L474–639 gives transfer test, admission, and production terms. 007 L50–102 marks a dream. 008 L504–541 and L627–683 give stated desire and the run. 009 L217–219 and L311 give the actual assessment live command and pass. 010 L199–302 and L331–378 give the new work division and open idol identity. |
+| GKM-R88-02 | All `adv_pstory_001_hkne_*.txt`, `transcripts_raw/01_produce_main_story/series_001/hkne/` | 31 / 672 | The four mid and final `normal` grades plus separate `failure` outcomes. `after-audition-final-normal-04` L85 confirms live eligibility after the narrow pass. `ending-normal-01` L182–230, `-04` L90–134, `-05` L89–121 and `ending-true-01` L160–259 control aspiration, trust, and deferred retry. |
+| GKM-R88-03 | All `adv_pevent_001_hkne_*` in `transcripts_raw/02_produce_events/event_001/hkne/` | 33 / 730 | `school_002` L8–21 and L43–54, `school_004` L7, `school_010` L8–25. `activity_014` L33–109, `activity_017-02` L25–29, `activity_018-02` L31–35. |
+| GKM-R88-04 | `adv_cidol-hkne-3-000_01.txt` to `_03.txt`, `transcripts_raw/03_idol_communications/hkne/rank_3/episode_000/` | 3 / 119 | Part 01 L25–66 and L116–172, part 02 L105–137 and L145–257, part 03 L17–63 and L120–196. |
+| GKM-R88-05 | Support 1-0013, 2-0084, 3-0115 under `transcripts_raw/04_support_card_stories/` | 7 / 139 | `1-0013_01` L29–143, `1-0013_02` L69–161, `2-0084_01` L8–46 and L177–216, `2-0084_02` L73–144, `3-0115_01` L100–128, `3-0115_02` L74–172 and `3-0115_03` L15–47. Use the delta for exact filenames. |
+| GKM-R88-06 | Live 001 wrappers (8 / 15), growth (3 / 12), common steps (7 / 0), and birthday startup (1 / 6) | 19 / 33 | `adv_live_hkne_001_start-04-01.txt` L3, L7–8. The seven `cmmn` step files have Kanae's body at L2 and a voice placeholder each. `adv_startup_2026_user-bd-01_hkne-01.txt` L8–28 is the cake scene. |
+| **Total** | **Source Lock 1.2 additions** | **103 / 2,508** | |
+
+`adv_dear_hkne_001.txt` L14–50 recaps the consultation in `adv_dear_hkne_000-05-horizontal.txt` L630–650. Dear 001 L211–256 and Dear 008 L312–317 both recall the speech in `adv_dear_hkne_000-03-horizontal.txt` L1038–1065. Cite the recaps for the changed framing and addressee. They share the underlying remembered moment.

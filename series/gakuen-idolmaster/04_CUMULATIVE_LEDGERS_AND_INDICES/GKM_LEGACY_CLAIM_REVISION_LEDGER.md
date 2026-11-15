@@ -325,3 +325,14 @@ All evidence is Source Lock 1.0. [Finding dispositions and correction homes](../
 | Temari–Misuzu repair and unchanged unit identity | STRENGTHEN | café recognition adds an independent participant account and leaves Rinha's disagreement attributed | GKM-R86-08 |
 | Rinami as a web-program personality in the revised 018 scene | REVISE | 1.1 A1 changes the Producer's line to `ゲスト出演` and keeps Yu as announcer | GKM-R86-08 |
 | Kanae's same-height aspiration or idol debut as an accomplished career transition | OPEN | arc gives first-hand learning aim and a proposal cliffhanger | GKM-R86-04 |
+
+## Source Lock 1.2 — transcript refresh, 2026-11-15
+
+| current proposition | disposition | reason | evidence route |
+| --- | --- | --- | --- |
+| China’s winter consultation and Kanae’s student status were open in the 1.1 horizontal reading and CHINA-R86-C01. | RESOLVE at 1.2 | Dear 001 replays the consultation and identifies the proposal, transfer exam and third-term entry. Dear 009 records passing the distinct advancement assessment. | KANAE-R88-C01, GKM-R86-04, GKM-R88-01 |
+| Kanae’s first explicit independent idol aspiration | EXTEND | She had already chosen to run for China. The repeated inner monologue changes the purpose of that effort. She declares her own ambition and continues to offer care. | KANAE-R88-C02, GKM-R88-01, GKM-R88-03 |
+| Qualified apprenticeship and rivalry for access to China | REFINE | The same one-option prompt precedes a different commitment in Dear 008. Dear 010 gives chosen reciprocity and support sharing. P1 failure and true-labeled endings support different levels of trust. | KANAE-R88-C03, GKM-R88-01, GKM-R88-02 |
+| Public visibility, dread and enjoyment | ADD | Film, stand-in, mirror, SNS and performed assessment form a source-visible progression. Kanae’s response to praise is known, while the motives behind publication and the quality of rendered performance remain open. | KANAE-R88-C04, GKM-R88-01, GKM-R88-04 |
+| P1 result, local option and ending | ADD | Four pass grades anticipate a live. Two `normal` endings describe failure. Stronger personal ambition is available in multiple end states. No exact dispatch rule has been recovered. | KANAE-R88-C05, GKM-R88-02, GKM-R88-06 |
+| First solo recorded in commu 3-000 | ADD | The script names and discusses the demo, explores costume ideas, and stops at Kanae going to perform. | KANAE-R88-C06, GKM-R88-04 |
