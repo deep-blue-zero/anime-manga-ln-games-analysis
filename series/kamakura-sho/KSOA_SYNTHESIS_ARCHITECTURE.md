@@ -5,8 +5,9 @@ series_id: kamakura-sho
 artifact_id: KSOA_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 generation: KSOA-G1
-version: "1.0"
+version: "1.2"
 created: "2026-11-12"
+last_updated: "2026-11-15"
 status: canonical
 scope: "Longitudinal evidence, claim revision, specialist responsibilities and series integration."
 source_boundary: "KSOA-G1, seven accepted Japanese EPUB witnesses, through V07 EPI p[0151] and KSOA-V07-H-0015."
@@ -47,6 +48,14 @@ The canonical volume documents are `readings/KSOA_Vnn_DEEP_READING.md`, with a s
 | Character reconstruction | Diagnostic passages and coverage opportunities in ordinary, professional and pressured situations | Character ledger and [reconstruction specification](KSOA_CHARACTER_RECONSTRUCTION_SPEC.md) | Scoped evidence assessment and separately authorized testing | Evidence routes and specification only |
 
 An observation that matters only to a passage can stay in its volume reading. Repeated evidence that could change a cross-volume argument enters its row's cumulative home. Use cross-references when one passage supports different responsibilities. The case ledger owns what the evidence item is and how it entered the investigation. The disclosure ledger owns who could know what and when. The state ledger owns consequences for a person, directed relationship or institution. The claim ledger owns the later judgment about an interpretation.
+
+### Volume reading openings
+
+The [method's opening sequence](KSOA_ANALYTICAL_METHOD.md#opening-of-a-completed-volume-reading) places the source receipt, prior-volume developments and current-volume story synopsis before extended analysis in a completed volume reading. The synopsis is reader orientation through that volume's endpoint. Its links lead to the owning reading and evidence records. Prepare cutoff-bounded work from the disclosure ledger and the applicable freeze.
+
+The V01–V07 readings are pinned by the [completed-run proof](.repository/completed-run-publication.json). Their retrospective openings live beside them at `readings/KSOA_Vnn_READING_INTRODUCTION.md`. The [corpus map](CURRENT_STATE_AND_CORPUS_MAP.md#accepted-readings) gives a synopsis-first route and a direct route to each preserved deep reading. Each opening identifies the witness and exit checkpoint and links onward to the full analysis. Evidence, forecasts, claim revisions and coverage remain in their existing canonical homes.
+
+The [synopsis name-and-reference review](audits/KSOA_PRODUCER_REVIEW_AND_RECEIVING_HANDOFF.md#synopsis-name-and-reference-review) records the checked passages and editorial corrections for the seven openings.
 
 ## Evidence, state and revision
 
@@ -104,8 +113,39 @@ The [terminal reconciliation](audits/KSOA_SOURCE_COMPLETION_AND_LONGITUDINAL_REC
 
 The [reconstruction readiness assessment](audits/KSOA_CHARACTER_RECONSTRUCTION_READINESS.md) records interpretive sufficiency and its limits. An operational candidate and its tests require their own authorization. The [release review](audits/KSOA_PRODUCER_REVIEW_AND_RECEIVING_HANDOFF.md) records producer validation and the receiving obligation.
 
+## Independent reconciliation review (2026-11-15)
+
+An independent, Claude-authored generation, **KSOA-CB1**, read the same seven witnesses blind. It used a sanitized methodological intake, had no exposure to KSOA-G1 interpretations, and froze before any comparison. A protocol registered before unblinding then compared the two generations. Independent adjudicators decided every material discrepancy against the Japanese text. Majority, length and confidence never decided. The [comparison and adjudication report](audits/KSOA_CB1_COMPARISON/KSOA_CB1_COMPARISON_AND_ADJUDICATION_REPORT.md) holds:
+- the provenance and exposure record;
+- the 129 discrepancy records;
+- the dimension-by-dimension comparison;
+- the integration record.
+
+The review admits no source and alters no frozen reading. Its changes follow the existing revision routes:
+
+| Responsibility | Canonical home |
+|---|---|
+| Corrections to the frozen deep readings | [Deep reading errata](audits/KSOA_DEEP_READING_ERRATA.md). The readings stay byte-unchanged; the errata govern their correction |
+| Reader-facing openings | The `readings/KSOA_Vnn_READING_INTRODUCTION.md` pages, by targeted revision |
+| Evidence additions and corrections | New rows in the case, disclosure and character ledgers, with existing rows preserved |
+| Interpretive changes | `-RNN` revisions and new claims in the [claim revision ledger](KSOA_CLAIM_REVISION_LEDGER.md) |
+| Comparison records | [`audits/KSOA_CB1_COMPARISON/`](audits/KSOA_CB1_COMPARISON/KSOA_CB1_COMPARISON_AND_ADJUDICATION_REPORT.md). The registers are historical inputs; the adjudications are canonical decisions |
+
+KSOA-CB1 is an independently authored, noncurrent analysis with limited authority. It is not a second source of literary truth. Its frozen package remains outside Git and is identified by its manifest SHA-256, `35f7a16eddf07a6dffb0750e1146c34874d227a486886db36ca7bf9248113040`. Publishing it would require an owner-merged `frozen_generation_publications` binding under initiation policy §3.9.5. Where KSOA-CB1 contributed findings, they entered the canonical homes above only after adjudication.
+
+### Character monograph qualification
+
+This project's analytical purpose includes person-level literary synthesis. The [monograph qualification record](studies/KSOA_MONOGRAPH_QUALIFICATION_RECORD.md) is therefore the home for qualification decisions under the [self-contained character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#self-contained-character-monograph-standard).
+- **Naming.** Monographs live under `studies/` and are named `KSOA_<GIVEN>_<FAMILY>.md`.
+- **Supplying captures.** The volume readings, the character and relationship ledger, the case ledger and the disclosure ledger.
+- **Eligibility.** Eligibility follows the standard's qualification test. The pre-standard criterion in [Specialist and character studies](#specialist-and-character-studies) operates only within that test and excludes no character the evidence qualifies.
+- **Lead monographs.** The two lead monographs were generally revised to v2.0 under the standard.
+- **Outstanding production.** Seven bounded or recurring non-lead characters qualify. Their monographs are outstanding production obligations, so the character layer is not complete until they exist.
+
 ## Architecture lifecycle and retrieval
 
 At a complete early case, a material source or modality surprise, a midpoint reconciliation, or a synthesis boundary, review routing, coverage, dependencies and reasoning classes. Move from `INITIAL` to `EVOLVING` when recurring evidence justifies amendment, then to `STABILIZED` when the mature responsibilities are supported. Record material changes with scope, rationale, affected links and whether targeted backfill is necessary. Add a home when evidence recurs and accumulates independently or is otherwise materially hard to retrieve. Backfill only a material gap, first checking already accepted readings and using authorized source access when needed. A frozen release receives a new version for substantive changes.
 
 Start with the [entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md), then read the method, this architecture and witness map. Retrieve the prior eligible freeze and cumulative rows through the requested boundary before sequential work. Retrieve accepted volume readings and active claim versions before a specialist or final study. Repository routing and the entrypoint identify the current generation. Versioned histories and source locators supply the evidence when an argument is revisited.
+
+The 2026-11-14 v1.1 amendment applies the opening sequence to future authorized readings and adds reader-facing introductions to the completed V01–V07 corpus. It addresses a retrieval gap in the original presentation using the already admitted Japanese evidence, with the completed reading transaction at `9fee95813a8df8c19621001ae7cb1c9bc02f76bc` as the fixed reading basis.
