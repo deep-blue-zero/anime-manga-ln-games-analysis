@@ -82,3 +82,15 @@ The comparison tree and the receiving `main` at `73caf927b4ffe1c4a2ad1590d4d24b9
 Gemini reported synchronized Japanese audio and an effective native visual sampling rate of 1 fps, supplemented by targeted higher-rate frames, dedicated listening, and measurements. The local review checked digests and stream metadata, sought directly on the identified container clocks, and inspected selected frames and caption intervals. For example, TV05's scene cues, the ending chapter at `22:30.891`, and the `22:31` picture change supply distinct anchors on the same clock. The film's video offset and end tags distinguish frame positions from the subtitle tail. V2 uses those object clocks directly. Applying them to a different V1 derivative requires calibration on that derivative.
 
 The published [CP16](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP16_independent_freeze/07_freeze/RS_AV_R2_IMMUTABLE_FREEZE_MANIFEST.md) and [CP17A](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP17A_comparative_audit/README.md) checkpoint records (and their byte-bound offline commits) retain the original scope and sequence. Their separation establishes the reported freeze order, while Gemini's disclosed pretraining knowledge of the TV07 reveal qualifies the TV06 interpretation. See the [TV06 decision](../06%20Evidence%20and%20Indexes/16_ANIME_AV_RECONCILIATION_V2.md#tv06--the-damaged-clasp-and-the-replay-stinger).
+
+### CP16 source-inventory byte identities
+
+The [CP16 checkpoint state](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP16_independent_freeze/07_freeze/RS_AV_R2_CHECKPOINT_STATE.json) and [immutable freeze manifest](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP16_independent_freeze/07_freeze/RS_AV_R2_IMMUTABLE_FREEZE_MANIFEST.json) record the CRLF working copy of `00_inventory/RS_AV_R2_SOURCE_INVENTORY_DATA.json`. The [publication manifest](../checkpoints/RS-AV-R2-GEMINI-CARBON/PUBLICATION_MANIFEST.json) separately records the LF Git blob at CP16 and the privacy-normalized [published inventory](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP16_independent_freeze/00_inventory/RS_AV_R2_SOURCE_INVENTORY_DATA.json).
+
+| Representation | Bytes | SHA-256 |
+| --- | ---: | --- |
+| Offline working copy recorded at freeze | 215,733 | `91bb3ec5e639e7c1354ba6b554d9f14e96210f95f2e783197fb26c7d2b635912` |
+| CP16 Git blob | 209,345 | `e33c410b8567ebf5f94819e7648fad39c98a2d8402478503b21a554a81883aa5` |
+| Published JSON derivative | 208,728 | `1cdbb87de7f3d17b1a73793beea39856e4e3975507e795d2c2864a0b946a6bfa` |
+
+Replacing all 6,388 CRLF endings in the recovered working copy with LF reproduces the CP16 Git blob byte for byte and accounts for the entire size difference. The third digest identifies the separately published JSON with privacy-normalized paths and noncurrent metadata.
