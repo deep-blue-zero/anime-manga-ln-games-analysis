@@ -25,7 +25,7 @@ Character reconstruction is an intended downstream responsibility of this novel 
 
 This contract adapts the [generic reconstruction method](../../governance/analytical-methods/GENERIC_CHARACTER_RECONSTRUCTION_METHOD.md) to Japanese prose and the currently available electronic-bonus witness candidates. The [method](SHIBOYUGI_ANALYTICAL_METHOD.md) governs source reading; the [architecture](SHIBOYUGI_SYNTHESIS_ARCHITECTURE.md) governs literary convergence; this contract governs derived modeling and validation.
 
-**Current readiness boundary: NO_ADMITTED_EVIDENCE.** There are no established subjects, character dossiers, monographs, models, predictions, validation results or approved operational uses. This file establishes a pathway only. No narrative identity, personality, motive, relationship, rule belief or livelihood mechanism is inferred from the title.
+**Historical initialization baseline: NO_ADMITTED_EVIDENCE.** There are no established subjects, character dossiers, monographs, models, predictions, validation results or approved operational uses. This file establishes a pathway only. No narrative identity, personality, motive, relationship, rule belief or livelihood mechanism is inferred from the title.
 
 A literary monograph, an evidence record and an operational model perform different jobs. The monograph develops an interpretive argument about the character; the evidence record enables source retrieval; the model formalizes conditional behavior and language within a defined state. A validation record tests a specific model and evidence version. None substitutes for another, and a polished monograph does not certify a model.
 
@@ -182,4 +182,4 @@ A reconstruction handoff delivers complete eligible evidence routes, full monogr
 
 The receiver verifies bytes, full contents, source/knowledge scope and current-base drift; performs the named-reference check; and accepts responsibility for unresolved work. If a central premise changes during evidence completion, revise the affected model and dependent arguments before acceptance, preserving unaffected material.
 
-Model construction, validation, evaluator assessment and approved use are separate completion gates. A subject can finish a bounded literary monograph while reconstruction remains insufficient. The current project has completed none of these subject-specific stages. Its sole authorized operation here is defining this contract for review.
+Model construction, validation, evaluator assessment and approved use are separate completion gates. A subject can finish a bounded literary monograph while reconstruction remains insufficient. This contract governs the distinct responsibilities. Recover the current evidence and subject-specific stage through the [current entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md).

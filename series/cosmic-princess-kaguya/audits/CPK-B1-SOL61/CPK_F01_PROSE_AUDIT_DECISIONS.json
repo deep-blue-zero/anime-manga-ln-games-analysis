@@ -1,0 +1,328 @@
+{
+  "schema": "CPK-B1-SOL61-prose-audit/1",
+  "counts": {
+    "REVISE": 16,
+    "DOWNGRADE": 8,
+    "REJECT": 5,
+    "OPEN": 5,
+    "PRESERVE": 1
+  },
+  "scope": "35 purposively selected consequential assertions; overlaps registered claims; not an accuracy sample",
+  "rows": [
+    {
+      "id": "CPK-B1-SOL61-P001",
+      "original_locator": "PDR §2.1, §5.1; O0001; C0001",
+      "exact_original_span": "begins *in medias res* without production logos",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Factual contradiction",
+      "source_and_comparison": "PE01; B2 Q1; direct frames at 4 and 8 s show Netflix animation and NETFLIX PRESENTS. JA0001 starts at 26.030 with 今は昔, not the attributed 15.390 quote. Sol O0001 did not supply this finer opening account.",
+      "evidence_limits_rival_and_proposal": "FRM/TXT contradict the logo-free premise and quoted subtitle anchor. A later cosmic opening can still frame the story; retain that interpretation after correcting the actual opening sequence. Exact transition timing remains AV-01."
+    },
+    {
+      "id": "CPK-B1-SOL61-P002",
+      "original_locator": "PDR §7.2, §3.3; O0003/O0029; C0002/C0018",
+      "exact_original_span": "Kansai directness was never rejection, only unvarnished maternal warmth waiting for honesty.",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Factual contradiction / interpretive overreach",
+      "source_and_comparison": "Sol O0002/O0022/O0026/O0035; PE02/PE03/PE04. Tuition/living costs were an agreed condition; childhood demands, Asahi's departure and Iroha's refusal to reproduce the exclusionary phrase remain material.",
+      "evidence_limits_rival_and_proposal": "TXT supports eventual permission, not retroactive innocence. Maternal worry is a credible additional motive; a repaired account must preserve pressure and change. Cropped border fragments cannot settle all history."
+    },
+    {
+      "id": "CPK-B1-SOL61-P003",
+      "original_locator": "PDR §2.5, §3.1; O0029; C0002",
+      "exact_original_span": "admits she wants to look for what she truly cares about",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "Unsupported assertion",
+      "source_and_comparison": "Sol O0043/O0052; B2 Q16. The key phone speech is marked 無音のセリフ. A later response permits trying and Iroha says she spoke.",
+      "evidence_limits_rival_and_proposal": "The specific confession is plausible INF, not a transcript. Retain a changed act of address without supplying unheard wording or declaring the whole relationship healed. AV-08 may inspect performance but cannot make intentionally withheld speech verbatim."
+    },
+    {
+      "id": "CPK-B1-SOL61-P004",
+      "original_locator": "PDR §2.3; O0016/K0012; C0006",
+      "exact_original_span": "forming a four-person squad against Akira, Rai, and Noi",
+      "proposed_disposition": "REJECT",
+      "discrepancy": "Factual contradiction",
+      "source_and_comparison": "Sol O0023–0028; PE03, JA1206 says 3対3; Yachiyo participates, including JA1412/1448/1450.",
+      "evidence_limits_rival_and_proposal": "The described Iroha/Kaguya/Roka/Mami four-person contest team is false for this match. Do not conflate later farewell support with the tournament. Rebuild the scene map with the three-person team; numeric final score remains an inference unless the scoreboard is inspected."
+    },
+    {
+      "id": "CPK-B1-SOL61-P005",
+      "original_locator": "PDR §2.2–§2.3; K0012",
+      "exact_original_span": "blissfully unaware that their quiet classmate beside them is `いろP`",
+      "proposed_disposition": "OPEN",
+      "discrepancy": "Unsupported knowledge attribution",
+      "source_and_comparison": "Sol O0009/O0018/O0033 and B2 Q8 distinguish friends' observed speech, loyalty and assistance. No inspected source establishes both friends' precise ignorance at this beach moment or the claimed formal reveal in the combat setup.",
+      "evidence_limits_rival_and_proposal": "Absence of a displayed disclosure does not prove ignorance. Keep their fan behavior; return only if the exact horizon is needed. AV-03 should ask what each friend demonstrably learns and when."
+    },
+    {
+      "id": "CPK-B1-SOL61-P006",
+      "original_locator": "PDR §2.3, §3.2; O0018/K0015; C0005",
+      "exact_original_span": "Immediately after that peak, Iroha's chronic overwork catches up",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Factual contradiction / chronology",
+      "source_and_comparison": "Sol O0021–0023; PE02. Fever and nursing are at approximately 49–51 minutes, before the 54-minute match and subsequent larger home, not after the loft housewarming.",
+      "evidence_limits_rival_and_proposal": "The reciprocity reading survives, but develops before the contest. Incorrect placement changes what Kaguya already knows when she hesitates over gaming. Individual food/overnight-action details require AV-03 if retained."
+    },
+    {
+      "id": "CPK-B1-SOL61-P007",
+      "original_locator": "PDR §2.3; O0017/M0007; C0006",
+      "exact_original_span": "Her unfeigned delight triggers a tidal wave of viewer points and subscriptions",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Unsupported causal linkage / chronology",
+      "source_and_comparison": "Sol O0028; PE03: BLACK ONYX wins the match at 70:28; the Cup counts new fans and names Kaguya/IroP at 71:37. The nominated 62–66-minute encore interval is still combat.",
+      "evidence_limits_rival_and_proposal": "Enjoyment and public recognition matter, but an immediately post-defeat Happy Synthesizer performance causing the result is not established. Check any actual performance separately; do not replace a stated tally criterion with invented emotional causation."
+    },
+    {
+      "id": "CPK-B1-SOL61-P008",
+      "original_locator": "PDR §2.3, §4.1; O0019/K0016; C0004",
+      "exact_original_span": "Stunned that a private `2020/01` father-daughter file matches Tsukuyomi's most famous ballad",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Factual contradiction / knowledge horizon",
+      "source_and_comparison": "Sol O0038; PE05. The file appears near 77:23; 同じメロ？ and recognition are at 99:09.610, JA2144–2147.",
+      "evidence_limits_rival_and_proposal": "A sonic similarity may exist earlier for a listener, but Iroha's demonstrated recognition belongs later. Preserve file metadata only to its visible clipping. AV-02 can test audible identity without moving character knowledge backward."
+    },
+    {
+      "id": "CPK-B1-SOL61-P009",
+      "original_locator": "PDR §2.4, §4.2; O0023; C0004/C0010",
+      "exact_original_span": "Iroha completes their father-daughter-Kaguya song as **`Reply`**",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Factual contradiction / chronology",
+      "source_and_comparison": "Sol O0038/O0043; PE05. JA2136 at 98:44.880 proposes one chorus because continuation will not come. JA2338 できた occurs at 113:04.740, after departure.",
+      "evidence_limits_rival_and_proposal": "A usable partial song before graduation and completion after loss are different events. Rephrase to preserve that developmental distinction. A song can be performed in a partial form without having been fully completed."
+    },
+    {
+      "id": "CPK-B1-SOL61-P010",
+      "original_locator": "PDR §2.5, §4.2; O0030/K0023; C0010",
+      "exact_original_span": "she hijacks a bamboo-shoot lunar time-pod",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Unsupported assertion / contradicted motivation",
+      "source_and_comparison": "Sol O0045; PE07, JA2402: finishes work and handover before returning; JA2403–2408 then describe lateness, time travel and collision.",
+      "evidence_limits_rival_and_proposal": "The film's voiced account makes duty and desire compatible here. Theft is not established by the inspected record. If an image shows taking the craft, that still needs inspection and cannot silently cancel the narrated handover."
+    },
+    {
+      "id": "CPK-B1-SOL61-P011",
+      "original_locator": "PDR §2.5, §4.2; O0030; C0010",
+      "exact_original_span": "only for a violent meteor shower in deep space (`01:54:55`)",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Factual contradiction / locator",
+      "source_and_comparison": "PE06/PE07. At 114:29–114:49 Iroha sees the broadcast and confronts FUSHI; time travel and a big-rock collision are narrated around 117–118.",
+      "evidence_limits_rival_and_proposal": "The collision belongs to the later explanatory sequence. Do not relocate it to the balcony transmission or inflate a big rock into a verified meteor shower. Story chronology and presentation chronology need separate fields."
+    },
+    {
+      "id": "CPK-B1-SOL61-P012",
+      "original_locator": "PDR §2.5, §4.2; O0032; C0010/C0019",
+      "exact_original_span": "`犬DOGE` fused with a native sea-bunny to become `FUSHI`",
+      "proposed_disposition": "REJECT",
+      "discrepancy": "Factual contradiction",
+      "source_and_comparison": "Sol O0045; PE07, JA2414–2417: the craft could make only DOGE's body; Kaguya interacted through the sea slug, whose speech is tagged ウミウシ:かぐや.",
+      "evidence_limits_rival_and_proposal": "This is a wrong allocation of bodies/interfaces, not merely a difference in terminology. Rebuild the chain without erasing either real time travel or the nonhuman companion's continuing assistance."
+    },
+    {
+      "id": "CPK-B1-SOL61-P013",
+      "original_locator": "PDR §2.5, §7.3; O0032",
+      "exact_original_span": "appearing beside Empress Jingū, Heian poet Fujiwara no Atsutada, Yodo-dono",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Locator error with preserved observation",
+      "source_and_comparison": "Sol O0047; PE09, JA2498–2506 at 123:42–124:11 identify the film's historical encounters. The 124:22 realization is distinct from the initial 117-minute question.",
+      "evidence_limits_rival_and_proposal": "These names are source-supported as the film's attributed encounters; do not treat them as verified real history. Preserve the richer historical register analysis but locate its evidence in the later memory sequence and keep younger Kaguya's realization separate."
+    },
+    {
+      "id": "CPK-B1-SOL61-P014",
+      "original_locator": "Claim ledger C0019 rival/limits column; PDR §3.3",
+      "exact_original_span": "`FUSHI` rarely speaks articulately in standard dialogue",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Contradictory character premise",
+      "source_and_comparison": "Sol O0044/O0046; PE08, JA2377/2485/2487/2489–2491 show articulate objections, conditional information and a judgment about Yachiyo's happiness.",
+      "evidence_limits_rival_and_proposal": "The statement obscures a speaking gatekeeper with recognizable decisions. 'Rarely' is not a measured rate here. Preserve mascot vocalization differences while giving the late articulate exchange its proper weight."
+    },
+    {
+      "id": "CPK-B1-SOL61-P015",
+      "original_locator": "PDR §3.3; O0031–0033; C0019",
+      "exact_original_span": "`FUSHI` **autonomously breaks Yachiyo's secrecy**",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Unsupported agency attribution",
+      "source_and_comparison": "Sol O0046/C0024; PE08. Iroha threatens a worldwide search and later insists 問答無用 after FUSHI protects the withholding and warns about her body.",
+      "evidence_limits_rival_and_proposal": "FUSHI eventually cooperates and offers its own judgment; that is genuine agency but not unsolicited revelation. The strongest rival is protective cooperation under pressure. Keep the consent/privacy tension in the integrated character account."
+    },
+    {
+      "id": "CPK-B1-SOL61-P016",
+      "original_locator": "PDR §2.6, §3.1, §4.2, §5.5; O0035; C0013/C0014",
+      "exact_original_span": "twenty-seven-year-old Iroha",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Unsupported precision",
+      "source_and_comparison": "B2 Q14/Q20; PE13. School year 2年3組12番 does not give an exact birthday/age. 10年後 follows graduation/experimentation in presentation order; a rigid 2030→2040 calendar needs an independent anchor.",
+      "evidence_limits_rival_and_proposal": "Keep adult Iroha and elapsed time; remove exact ages 7/17/27 and unproved calendar endpoints. This is a precision defect, not proof that a particular alternative age/year is correct."
+    },
+    {
+      "id": "CPK-B1-SOL61-P017",
+      "original_locator": "PDR §4.2, §9.1; O0036; C0013/C0014",
+      "exact_original_span": "`YC型` (`Yachiyo-type`)",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "Unsupported expansion and mechanism",
+      "source_and_comparison": "Sol O0049; B2 Q21; PE11. JA2578 reports greater compatibility than the YC-type body; taste is pending. It does not expand the initials or explain why the earlier body was unsuitable.",
+      "evidence_limits_rival_and_proposal": "Retain YC as an observed designation. Yachiyo-type is a plausible hypothesis, and alternative chassis histories remain open. Do not turn the initialism into proof of soul partition or voluntary gifting."
+    },
+    {
+      "id": "CPK-B1-SOL61-P018",
+      "original_locator": "PDR §3.2, §9.1; O0037; C0014",
+      "exact_original_span": "Kaguya calls her `ヤッチョ`",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Speaker attribution / overgeneralized routine",
+      "source_and_comparison": "B2 Q22; PE11. JA2587 explicitly tags Yachiyo saying ヤッチョは先週ぶり. This contrasts recent contact with Kaguya's long absence.",
+      "evidence_limits_rival_and_proposal": "Correct the speaker and retain the temporal contrast. 'Last week' does not establish a weekly meeting routine. AO could refine delivery, not excuse ignoring the explicit source tag without counterevidence."
+    },
+    {
+      "id": "CPK-B1-SOL61-P019",
+      "original_locator": "PDR §7.4; O0038/J0017; C0001/C0018",
+      "exact_original_span": "takes over at `02:10:13.722`",
+      "proposed_disposition": "OPEN",
+      "discrepancy": "Evidence inaccessible through this lane",
+      "source_and_comparison": "B2 Q23; PE14. JA2592 tags Kaguya; JA2595–2596 are untagged. Sol heard neither voice. Gemini's reported timbre identification is not independently corroborated by text, stills or cut measurement.",
+      "evidence_limits_rival_and_proposal": "Preserve a serious verification request, not a refutation. AV-08 must compare the actual Japanese voices and document corroboration. Millisecond precision is unsupported for a speaker boundary merely borrowed from a subtitle/cut clock."
+    },
+    {
+      "id": "CPK-B1-SOL61-P020",
+      "original_locator": "PDR §6.5, §9.1 U0008; C0017",
+      "exact_original_span": "Track 4 `[SDH]` omits lyric cues during `S0035`'s credit roll",
+      "proposed_disposition": "REJECT",
+      "discrepancy": "Factual contradiction / missed evidence",
+      "source_and_comparison": "Sol O0050/M18; B2 Q24; PE15. The exact same Japanese witness contains 109 rows containing ♪ after 130:33.367, including marker rows; they were read before exposure.",
+      "evidence_limits_rival_and_proposal": "Lyrics are available. Preserve the caveat that text alone cannot establish audible alterations, but retire 'unsubtitled' as the reason for leaving lyric analysis undone. This omission removes evidence that pain persists into the ending."
+    },
+    {
+      "id": "CPK-B1-SOL61-P021",
+      "original_locator": "PDR §2.6; O0039",
+      "exact_original_span": "vignettes of their post-2040 everyday life",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "Unsupported chronology",
+      "source_and_comparison": "Sol O0050; B2 Q24 depicts staircase, bridge, bedroom and virtual settings among production images. No inspected marker dates every image after the adult return.",
+      "evidence_limits_rival_and_proposal": "A credit drawing may recall, stylize or imagine. Preserve ordinary-life emphasis without treating all paratextual images as dated future events. AV-10 can inventory succession; narration/caption evidence would be needed for exact story placement."
+    },
+    {
+      "id": "CPK-B1-SOL61-P022",
+      "original_locator": "PDR §3.3; O0023; C0008; U0007",
+      "exact_original_span": "sacrificing the very `帝アキラ` account that defined his career",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Unsupported permanent outcome",
+      "source_and_comparison": "B2 Q12 sees cheat warnings and partially obscured conditional penalties, not a proved permanent ban. PE13 at 127:40 shows the Akira avatar again later in presentation.",
+      "evidence_limits_rival_and_proposal": "Risk and defensive intervention survive. An irreversible account sacrifice does not. Reappearance does not prove no temporary penalty or a specific pardon; AV-04 should settle only the actual immediate outcome and later appearance."
+    },
+    {
+      "id": "CPK-B1-SOL61-P023",
+      "original_locator": "PDR §2.6; FRM-19/O0035; C0013",
+      "exact_original_span": "`触覚の伝達構造`, `触覚センサの実装`, `触覚フィードバックの実装`",
+      "proposed_disposition": "OPEN",
+      "discrepancy": "Fine-text verification gap",
+      "source_and_comparison": "Sol O0049; B2 Q20 can support visible research/lab/body work and fragments including tactile wording, but not all supplied full Japanese headings at inspected clarity.",
+      "evidence_limits_rival_and_proposal": "Retain corroborated fragmentary transcription; return to an adequately resolved screen for the rest under AV-09. A research setting plus a plausible title does not authorize reconstructing occluded text."
+    },
+    {
+      "id": "CPK-B1-SOL61-P024",
+      "original_locator": "PDR §5.3; O0024; C0007/C0015",
+      "exact_original_span": "total room silence for `6.5` seconds",
+      "proposed_disposition": "OPEN",
+      "discrepancy": "Evidence inaccessible through this lane",
+      "source_and_comparison": "Sol O0040/O0051; B2 Q13 sees physical proximity and headphones on Iroha. No audio was heard; subtitle gaps are not acoustic silence.",
+      "evidence_limits_rival_and_proposal": "The passage may reduce sound sharply; the exact zero-sound duration, room tone, vocal intimacy and iris trajectory require AV-05. Correct visible apparel/headphone details independently and retain no claim that unheard music is absent."
+    },
+    {
+      "id": "CPK-B1-SOL61-P025",
+      "original_locator": "PDR §6.4; O0033/M0012; C0016",
+      "exact_original_span": "every instrument drops out again",
+      "proposed_disposition": "OPEN",
+      "discrepancy": "Evidence inaccessible through this lane",
+      "source_and_comparison": "Sol O0048/M16; B2 Q19 supports lyric recurrence and the textual wish. Cue gaps of 12.35 and 3.25 seconds do not measure audible silence, sobbing or accompaniment.",
+      "evidence_limits_rival_and_proposal": "An a-cappella/unison ring would strengthen intimacy as an auditory construction; it remains a hypothesis for AV-02. Avoid calling it false merely because FRM/TXT cannot verify it."
+    },
+    {
+      "id": "CPK-B1-SOL61-P026",
+      "original_locator": "PDR §6.5; FRM-24/25; C0017",
+      "exact_original_span": "internet music's twenty-year dream of bringing a beloved virtual voice into warm earthly co-presence",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "External-context inference outside admitted evidence",
+      "source_and_comparison": "B2 Q24/PE15 verify many on-film credits and their names, not release dates, a 2014 Miku event or an entire historical tradition.",
+      "evidence_limits_rival_and_proposal": "A film-local relation between credited songs, digital performance and embodiment is discussable. Broader history requires separately admitted primary contextual sources, then an argument connecting context to this film. No external research was used to rescue the claim."
+    },
+    {
+      "id": "CPK-B1-SOL61-P027",
+      "original_locator": "PDR §2.5, §6.4; O0030; C0016",
+      "exact_original_span": "bridges `384,400 km`",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "False numerical precision",
+      "source_and_comparison": "Sol O0043/O0045; PE06/PE07 establishes a narrated Earth–Moon transmission, not an exact measured propagation distance.",
+      "evidence_limits_rival_and_proposal": "A familiar average astronomical distance is not the film's demonstrated instantaneous distance or communication mechanism. Replace with 'between Earth and the Moon'; do not infer transport physics from editing."
+    },
+    {
+      "id": "CPK-B1-SOL61-P028",
+      "original_locator": "PDR §5.4; O0028; C0012",
+      "exact_original_span": "Every viewer watching on a streaming platform experiences a split-second visceral panic",
+      "proposed_disposition": "REJECT",
+      "discrepancy": "Unsupported universal audience response",
+      "source_and_comparison": "Sol O0043/C0021; B2 Q16 confirms source-embedded platform imitation and interruption. No viewer study or universal-response evidence was admitted.",
+      "evidence_limits_rival_and_proposal": "Reframe as a formal affordance: the screen invites or can provoke a mistaken sense of playback completion. The comic-fakeout rival remains live. The device exists even if a viewer anticipates it."
+    },
+    {
+      "id": "CPK-B1-SOL61-P029",
+      "original_locator": "PDR §8.1; C0020",
+      "exact_original_span": "Authentic love and human maturity require rejecting",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Interpretive overreach",
+      "source_and_comparison": "Sol C0026–0028; B2 Q19–24. These characters value additional embodied possibility; Tsukuyomi remains meaningful and Yachiyo remains visible at the ending.",
+      "evidence_limits_rival_and_proposal": "Retain tactile everydayness as an interpretation of this desired future. Avoid a universal authenticity test for virtual relationships or a finite lifespan inferred from a synthetic body. Sol's particular-beloved thesis is a compatible rival emphasis, not decisive proof."
+    },
+    {
+      "id": "CPK-B1-SOL61-P030",
+      "original_locator": "PDR §5.2; O0022; C0015",
+      "exact_original_span": "powerless against tactile human stubbornness once Kaguya acquires a real biological-synthetic chassis",
+      "proposed_disposition": "REJECT",
+      "discrepancy": "Unsupported causal law",
+      "source_and_comparison": "B2 Q11/Q21/Q22; PE11 confirms body compatibility and unfinished taste. No inspected law demonstrates lunar inability to affect that body. Gemini U0004 itself marks nonintervention open.",
+      "evidence_limits_rival_and_proposal": "The absence of a later shown attack is not proof of immunity. Keep the transit/AR observation for AV-04 and the new body as an achieved possibility; leave lunar jurisdiction unexplained."
+    },
+    {
+      "id": "CPK-B1-SOL61-P031",
+      "original_locator": "PDR §3.3, §7.2; FRM-23; C0018",
+      "exact_original_span": "Father **`朝久`** and son **`朝日`** share `朝`",
+      "proposed_disposition": "PRESERVE",
+      "discrepancy": "Supported observation with interpretive limit",
+      "source_and_comparison": "B2 Q24/PE15 verify credits 朝久/朝日 and 紅葉/彩葉. Sol independently tracked family pressures and inheritance but missed the paired-character pattern.",
+      "evidence_limits_rival_and_proposal": "The literal pairing survives and supplements Sol. That it intentionally encodes specific inherited careers/temperaments is INT, not an on-film fact. Preserve the pattern while labeling the stronger naming interpretation as a plausible reading."
+    },
+    {
+      "id": "CPK-B1-SOL61-P032",
+      "original_locator": "PDR §3.2, §8.2; E0006; C0010/C0020",
+      "exact_original_span": "Knowing she cannot prematurely alter the `2030` summer",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "Unsupported knowledge and deterministic law",
+      "source_and_comparison": "Sol O0014/O0045–0048; PE07/PE09. Yachiyo has older memories and conceals information, but that does not prove omniscience, physical inability to intervene, or a uniquely required causal path.",
+      "evidence_limits_rival_and_proposal": "A self-consistent-history reading is credible. Preserve it alongside limited power, chosen restraint and imperfect knowledge; repair the originless-song and body premises before using determinism to settle her ethics."
+    },
+    {
+      "id": "CPK-B1-SOL61-P033",
+      "original_locator": "PDR §7.1; J0004/J0011; C0018",
+      "exact_original_span": "belong exclusively to Kaguya",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "Unsupported distribution / lexical overinterpretation",
+      "source_and_comparison": "Sol O0006/O0035/O0043; B2 Q3/Q16. Kaguya learns expressions from media and Iroha already has informal private speech. The film-wide exclusivity claim lacks a counted, speaker-verified comparison.",
+      "evidence_limits_rival_and_proposal": "Echo or convergence is plausible; a shared youth contraction does not prove unconscious transfer. Exact wording and volitional negation matter more than an unsupported exclusive baseline. Broader spoken distribution requires a full audio/register audit."
+    },
+    {
+      "id": "CPK-B1-SOL61-P034",
+      "original_locator": "PDR §2.5; FRM-14/O0031",
+      "exact_original_span": "`CPU 24/89`",
+      "proposed_disposition": "REVISE",
+      "discrepancy": "Transcription error",
+      "source_and_comparison": "B2 Q18: the screen labels CPU load 24 and FPS 89 separately; Energy usage 53 and RAM usage 37 are also visible in that sampled image.",
+      "evidence_limits_rival_and_proposal": "Correct field names instead of combining a utilization value with frame rate. The room's technical infrastructure remains supported; telemetry does not establish soul partition or the organism's identity."
+    },
+    {
+      "id": "CPK-B1-SOL61-P035",
+      "original_locator": "PDR §2.6, §5.1; O0040; C0001/C0020",
+      "exact_original_span": "that **exact pancake island**",
+      "proposed_disposition": "DOWNGRADE",
+      "discrepancy": "Visual identification / interpretation",
+      "source_and_comparison": "Sol O0050 and monograph also loosely call this a pancake coda. B2 Q24 sees a wide disc/world with city, waterfalls and moon at 140:05.310 while TXT discusses pancakes.",
+      "evidence_limits_rival_and_proposal": "The world may visually suggest a pancake, but a literal meal-table scene is not shown and exact opening/coda identity requires AV-01/10. Preserve the comic pancake desire and mark the world-design analogy as interpretation. This concern applies symmetrically to Sol."
+    }
+  ]
+}

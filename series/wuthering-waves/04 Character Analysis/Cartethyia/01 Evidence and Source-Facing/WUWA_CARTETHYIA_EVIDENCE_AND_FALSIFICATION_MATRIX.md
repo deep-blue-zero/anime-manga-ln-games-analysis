@@ -179,13 +179,13 @@ The fiction supplies magical forms, divided wishes, memory problems, and a parti
 
 ### C15 - Composure is effortful and nevertheless hers
 
-**Epistemic kind:** Source self-report / inference. **Confidence:** High. **Evidence:** E03-E04, E47.
+**Epistemic kind:** Source self-report / calibrated performance observation. **Confidence:** High. **Evidence:** E03-E04, E47, E59 (`CART-DUB-16`–`17`, `CART-EXTRA-04`).
 
-Maintaining Fleurdelys manner and tone takes effort. This supports a practiced public register, not a wholly false person beneath it.
+Maintaining Fleurdelys manner and tone takes effort. This supports a practiced public register, not a wholly false person beneath it. Direct four-dub listening on `FavorWord_140907_Content` (`CART-EXTRA-04`) confirms that all four actresses perform Cartethyia deliberately mimicking stiff solemnity before breaking into flustered exasperation.
 
-**Counterevidence / limit:** Different dubs may accentuate the contrast; neither the actual sonic distance nor actor intention has been reviewed in this rebuild.
+**Counterevidence / limit:** The acoustic realization of Fleurdelys differs sharply by language (`ja` plunges `>110 Hz` to `148.43`–`195.44 Hz`; `zh-Hans` darkens chest resonance at `190.38`–`202.14 Hz`; `en` uses grit/fry at `146.97`–`214.61 Hz`; `ko` belts high at `261.61`–`272.75 Hz` in polite `-세요`/`-군요`), and actor intention outside the recording is never inferred.
 
-**Falsification or escalation target:** Matched ordinary and public-state clips should test whether composure varies by situation, form, language, or all three.
+**Falsification or escalation target:** Extend matched form-and-context listening beyond the `29`-moment cohort (`759/786` solo lines remain unreviewed).
 
 ### C16 - Interpersonal shame can delay repair
 
@@ -419,23 +419,23 @@ The source supplies selected closeness, future-oriented invitations, and recipro
 
 ### C39 - Speech shifts by task and recipient as well as form
 
-**Epistemic kind:** Textual observation / model. **Confidence:** High. **Evidence:** E09, E21-E26, E28-E32, E35, E39-E49.
+**Epistemic kind:** Textual and stratified-cohort vocal observation. **Confidence:** High. **Evidence:** E09, E21-E26, E28-E32, E35, E39-E49, E59.
 
 Practical questions, formal obligation, teasing, requests for gentleness, and public argument are not reducible to one solemn voice.
 
-**Counterevidence / limit:** The actual acoustic separation across forms remains unreviewed. Textual register cannot prove pitch or apparent age.
+**Counterevidence / limit:** Direct four-dub listening covers a stratified `29`-moment (`116`-render) sample (`27/786` accepted solo lines), demonstrating within-form shifts (e.g., `zh-Hans` Cartethyia `183.70 Hz` defiance vow in `CART-DUB-19` vs `305.75 Hz` startled murmur in `CART-DUB-05`); `759/786` solo lines remain unreviewed by ear.
 
-**Falsification or escalation target:** Matched contexts in the same form, and matched forms within similar contexts, can disentangle the factors.
+**Falsification or escalation target:** Expand matched contexts in the same form and matched forms across the remaining `759` solo lines.
 
-### C40 - The reported JP/EN contrast remains an owner-listener hypothesis
+### C40 - Four-dub performance centers are calibrated on a 29-moment cohort and remain language-scoped
 
-**Epistemic kind:** Unreviewed perceptual hypothesis. **Confidence:** OPEN. **Evidence:** E58-E59; conversation-supplied listening report.
+**Epistemic kind:** Stratified four-dub listening observation (`29` moments / `116` renders). **Confidence:** Moderate-high within reviewed cohort; full-corpus census OPEN (`759/786` solo lines unreviewed). **Evidence:** E58-E59; [speech/performance profile](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md).
 
-The owner reports greater JP Cartethyia/Fleurdelys separation and more continuous knightly quality in EN. The dossier preserves the report but adds no independent listening verdict.
+Direct four-dub listening supports `H-JP-01` (`ja` separates `202.19`–`385.77 Hz` polite soprano Cartethyia from `148.43`–`195.44 Hz` archaic contralto Fleurdelys) and `H-EN-01` (`en` anchors in `167.23`–`255.29 Hz` British chest poise with narrower state separation at `146.97`–`214.61 Hz`), supports `zh-Hans` single-personhood adaptability (`183.70`–`305.75 Hz` vs `190.38`–`202.14 Hz`), and **falsifies** the earlier `ko` midpoint hypothesis (`ko` occupies the highest sustained solo band at `232.69`–`336.59 Hz` and belts Fleurdelys at `261.61`–`272.75 Hz` in polite `-세요`/`-군요`).
 
-**Counterevidence / limit:** Semantic wording, scene state, mixing, and selected excerpts can all affect the impression.
+**Counterevidence / limit:** Mandatory counterexamples prevent stereotyping (`CART-DUB-04`/`19` steel in `ja`; `CART-DUB-20` `167.23 Hz` dry teasing and `CART-EXTRA-04` flustered protest in `en`; `CART-DUB-18`/`22` calm post-merge drop in `ko`), and `759/786` solo lines remain unreviewed.
 
-**Falsification or escalation target:** Review aligned public/private and form-changing moments across languages, including counterexamples; do not rank authenticity.
+**Falsification or escalation target:** Extend beyond the `29`-moment sample before claiming corpus-wide acoustic distributions; never promote a dub tendency into universal personality.
 
 ### C41 - Localization can change the apparent philosophical emphasis
 
@@ -445,7 +445,7 @@ Name, gentleness, happiness, civic aptitude, and effort have material wording di
 
 **Counterevidence / limit:** A small set of examples is not a corpus-wide characterization of a language version.
 
-**Falsification or escalation target:** Expand matched lines before making a dub-level thesis; keep the 140_2 temporal comparison explicitly unresolved.
+**Falsification or escalation target:** Expand matched lines before making a corpus-wide dub thesis; on `Main_Linaxita_2_4_140_2` (`CART-EXTRA-02`, `SCN-0102` `09:25:03.000`), direct listening confirms all four dubs deliver warm post-battle teasing while `en` speaks the reversed temporal comparison (`"during our fight"`) verbatim, so chronology claims must follow `zh-Hans`.
 
 ### C42 - Receiving care is a positive capacity, not only a rescue exception
 
@@ -499,9 +499,9 @@ She can seek reassurance about being useful and be embarrassed by grand dramatiz
 
 ### C47 - Impersonation and compound speech stay outside solo attribution
 
-**Epistemic kind:** Evidence-membership fact. **Confidence:** High. **Evidence:** E35, E37, E60.
+**Epistemic kind:** Evidence-membership and acoustic fact. **Confidence:** High. **Evidence:** E35, E37, E59-E60 (`CART-EXTRA-05`, `CART-EXTRA-06`).
 
-The five Cartethyia-question-mark occurrences are rejected; the compound line is separately typed. Source names alone do not authorize a solo trait claim.
+The five Cartethyia-question-mark (`who=1626`) occurrences are rejected and the compound `who=1633` line is separately typed. Direct four-dub listening confirms `who=1626` (`Main_Rinascita_2_11_43_5`, `CART-EXTRA-05`) is performed as an uncanny `144.28`–`194.54 Hz` Threnodian counterfeit and `who=1633` (`Main_Rinascita_2_12_37_27`, `CART-EXTRA-06`) is simultaneous Cartethyia+Galbrena two-actress unison (`ja` simultaneous `"復活します"` + `"復活する"`; `ko` `96.83 Hz` sub-harmonic beat lock).
 
 **Counterevidence / limit:** The false figure remains relevant to narrative threats and external attempts to define her.
 
@@ -887,15 +887,15 @@ Archive routes resolve in `cartethyia_archive_and_voice_evidence.json`. Other-ch
 
 ### E58 - Existing bounded audiovisual anchors
 
-**Route:** `cartethyia_audiovisual_anchor_manifest_v0_3.json, anchors A-J`.
+**Route:** `cartethyia_audiovisual_anchor_manifest_v0_3.json, anchors A-J` (reconciled against Chapter II witness `WUWA_CH2_FAYATO_1080P60_6076F127` in [AV crosswalk](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_AV_HUMAN_RETRIEVAL_CROSSWALK.md)).
 
-**Use boundary:** Ten audio-bearing derivatives exist; direct moving-image observations remain OPEN_unannotated.
+**Use boundary:** `27` of `33` crosswalk targets (including `V03_CLIP_A`–`J`) are `inspected_resolved` in the Chapter II EN recording; `3` optional branches (`AV02`, `AV14`, `AV18`) and `3` non-main-story targets (`AV13`, `AV17`, `AV23`) remain unviewed.
 
 ### E59 - Complete supplied voice-line census
 
-**Route:** `COMPLETE_VOICE_LINE_ANALYSIS.jsonl; COMPLETE_VOICE_COVERAGE_AUDIT.json`.
+**Route:** `COMPLETE_VOICE_LINE_ANALYSIS.jsonl; COMPLETE_VOICE_COVERAGE_AUDIT.json` (plus `29`-moment / `116`-render stratified four-dub calibration in [speech/performance profile](../03%20Audiovisual%20and%20Voice/WUWA_CARTETHYIA_SPEECH_VOICE_AND_PERFORMANCE_PROFILE.md)).
 
-**Use boundary:** 786 semantic lines; supplied basic features reaggregated, raw signal not remeasured here.
+**Use boundary:** `786` accepted solo semantic lines reaggregated in the machine profile; `27/786` solo lines (plus `1/5` `who=1626` and `1/1` `who=1633`) are directly listened and clean-signal verified across all four dubs, leaving `759/786` solo lines unreviewed by ear.
 
 ### E60 - Occurrence-level identity boundary
 
@@ -911,7 +911,7 @@ Archive routes resolve in `cartethyia_archive_and_voice_evidence.json`. Other-ch
 
 **Origin versus responsible continuity.** Hostile or institutional claims about a vessel can identify an intended function without explaining the entire lived person. Conversely, a sympathetic origin story cannot immunize later choices. C07-C09 require attention to actual alternatives, causal knowledge, and recipients rather than either inherited guilt or blanket innocence.
 
-**Language versus performance.** The personal request for gentleness is not identical with the English general maxim; office aptitude is not identical with impatience; a temporal comparison in the post-integration exchange is inconsistent across witnesses. Those differences must be handled before any listener impression is attributed to vocal acting. C40 remains open, while C41 can already report textual differences.
+**Language versus performance.** The personal request for gentleness is not identical with the English general maxim; office aptitude is not identical with impatience; on `Main_Linaxita_2_4_140_2` (`CART-EXTRA-02`), direct listening confirms all four dubs use warm post-battle teasing while English speaks the reversed temporal wording verbatim. Handling script differences before acting differences allows `C40` to calibrate language-scoped four-dub tendencies (and falsify the `ko` midpoint conjecture) on the `29`-moment cohort without conflating localization choices (`C41`) or claiming a full `786`-line census.
 
 ## 5. Independence and non-duplication
 

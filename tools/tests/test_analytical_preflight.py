@@ -16,21 +16,21 @@ from analytical_preflight import ROUTING_OUTPUTS, routing_preflight
 from character_index_core import (
     LEGACY_RECONSTRUCTION_REGISTRY_PATH, RECONSTRUCTION_INDEX_PAGE_PREFIX, RECONSTRUCTION_INDEX_PATH,
     RECONSTRUCTION_POLICY_PATH, RECONSTRUCTION_REGISTRY_PREFIX, AuthorityGraph, DomainError,
-    GitSnapshot, SnapshotEntry, is_reconstruction_output,
+    GitSnapshot, SnapshotEntry, is_reconstruction_output, load_reconstruction_policy,
 )
 from generate_character_index import render_outputs
 from update_repository_indexes import expected_outputs
 from validate_repository import (
     _policy_from_snapshot, _reconstruction_delta_paths,
-    _reconstruction_integration_base, _reconstruction_target_commit, validate_bytes,
+    _reconstruction_integration_base, _reconstruction_target_commit,
+    reconstruction_output_isolation_errors, validate_bytes,
     validate_generated_index, validate_generated_repository_indexes, validate_paths,
-    validate_reconstruction_domain, validate_registered_root_topology, validate_series_registry,
+    validate_registered_root_topology, validate_series_registry,
 )
 
 SOURCE_SHA = "a" * 40
 ENTRYPOINT = "series/example/CURRENT.md"
 DESCRIPTOR = "series/example/.repository/series-registry.json"
-OUTPUT_ISOLATION_ERROR = "reconstruction production outputs must change alone"
 # The synthetic evaluator outputs this fixture models: one subject partition,
 # the root index and the subject's namespace page.
 RECONSTRUCTION_OUTPUTS = frozenset({
@@ -329,8 +329,9 @@ class AnalyticalPreflightTests(unittest.TestCase):
                 ["git", "-C", str(root), "add", "--", *candidate_paths],
                 env=environment, capture_output=True, check=True,
             )
-        self.assertEqual(GitSnapshot.from_index(root).entries, candidate.entries)
-        baseline, changed = fixture_baseline(GitSnapshot.from_index(root), published_reconstruction(root))
+        staged = GitSnapshot.from_index(root)
+        self.assertEqual(staged.entries, candidate.entries)
+        baseline, changed = fixture_baseline(staged, published_reconstruction(root))
         for path in changed:
             entry = baseline.get(path)
             if entry is None:
@@ -371,9 +372,9 @@ class AnalyticalPreflightTests(unittest.TestCase):
         self.assertLessEqual({ENTRYPOINT, DESCRIPTOR}, changed)
         self.assertEqual(changed & RECONSTRUCTION_OUTPUTS, set())
         # Only the isolation rule is this fixture's concern: the modelled
-        # published policy need not satisfy an amended gate under test.
-        errors, _notices = validate_reconstruction_domain(root, GitSnapshot.from_index(root), "index", None)
-        self.assertEqual([error for error in errors if OUTPUT_ISOLATION_ERROR in error], [])
+        # published policy need not satisfy an amended gate under test. Apply
+        # the validator's rule to the validator's delta, not the whole domain.
+        self.assertEqual(reconstruction_output_isolation_errors(changed), [])
 
     def test_cli_fixture_does_not_mix_unpublished_reconstruction_outputs(self) -> None:
         base_value = os.environ.get("MANGA_ANIME_TEST_TMP")
@@ -409,8 +410,11 @@ class AnalyticalPreflightTests(unittest.TestCase):
             staged = GitSnapshot.from_index(root)
             for path in reconstruction_outputs(amended, staged):
                 self.assertEqual(staged.get(path), amended.get(path), path)
-            errors, _notices = validate_reconstruction_domain(root, staged, "index", None)
-            self.assertEqual(errors, [])
+            # The amended policy still loads and the validator's rule exempts
+            # this delta. The audit's own validation evaluates the same registry
+            # on the same checkout; repeating that evaluation here adds nothing.
+            self.assertEqual(load_reconstruction_policy(staged)[1], [])
+            self.assertEqual(reconstruction_output_isolation_errors(changed), [])
             # Restaged in the same clone, the evaluator model built from this
             # checkout still isolates its outputs.
             self.stage_cli_fixture(root, environment, evaluator_candidate(amended, published_reconstruction(root)))

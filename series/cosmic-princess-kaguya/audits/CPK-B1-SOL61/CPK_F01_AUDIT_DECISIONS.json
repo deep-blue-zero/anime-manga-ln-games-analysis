@@ -1,0 +1,216 @@
+{
+  "head": "7c850af679471b74e36a8458985e448bc8191068",
+  "audited": 20,
+  "unaudited": 0,
+  "counts": {
+    "PRESERVE": 3,
+    "STRENGTHEN": 1,
+    "REVISE": 12,
+    "DOWNGRADE": 1,
+    "REJECT": 1,
+    "OPEN": 2
+  },
+  "claims": [
+    {
+      "n": 1,
+      "d": "REVISE",
+      "ind": "Sol O0001/O0050 and C0028 independently support a framing narrator and provisional ending; B2 Q1/Q23/Q24 add opening cards and a late title. Sol did not independently argue that the preceding film is only a prequel.",
+      "e": "B2 Q1: P0 black, B4 Netflix streaks, P8 NETFLIX PRESENTS. PE01: JA0001 begins 今は昔 at 00:26.030, followed by near-future qualification. B2 Q23: title visible at 130:28; Q24: broad city/world-disc coda.",
+      "a": "Separate FACT (branding, actual subtitle words, positive late-title image) from INT (the late title makes prior life a former fairy tale). The no-logo/frame-zero-panorama support is contradicted. The alleged opening quotation and JA0001 timing are not the cited text. A static sample does not prove the exact title onset or absence of every earlier title, and the coda's giant pancake interpretation is not independently established.",
+      "r": "A delayed title can mark an achieved self-authored story or simply be a stylistic closing flourish. The eventual physical body does not make all earlier virtual/shared life an unreal prequel.",
+      "p": "Retain the verified late title and provisional narrator frame as a possible formal culmination; correct opening cards/wording, separate visual description from pancake symbolism, and keep prequel/beyond-ending meaning contestable.",
+      "u": "AV-01 opening continuity and AV-08 closing voice/title timing; do not certify the alleged narrator handoff from TXT alone."
+    },
+    {
+      "n": 2,
+      "d": "REVISE",
+      "ind": "Sol C0001/C0002/C0006/C0010/C0027 and O0021–0026 independently identify overwork, maternal conditions, difficulty asserting desire, and later sustainable labor.",
+      "e": "B2 Q2/Q7/Q15/Q20; PE02 JA1092–1098 explicitly describe tuition/living-cost conditions; PE03 JA1416–1426 show the mother demanding assertion and accepting Asahi's departure; PE04 JA2016–2029 preserve ambivalence and refusal to repeat dismissal. JA2333 marks muted phone speech; JA2572 says rest is work.",
+      "a": "Overwork and changed routine are supported INF. The claim that conditional love was only Iroha's misreading is stronger than the source: material conditions are explicitly narrated, and Kaguya protests them. A later permission does not retrospectively prove unbroken maternal warmth. Grade 2 is visible; exact age 17 is an inference without birthday evidence.",
+      "r": "Maternal concern, harsh expectations and later accommodation can coexist. The strongest alternative is a mixed relationship that changes, rather than either an entirely cruel parent or a wholly mistaken daughter.",
+      "p": "Describe Iroha's discipline as both enabling and damaging under negotiated material/family pressure. Preserve later permission and rest, but remove total maternal exoneration and unheard confession wording; treat healing as partial, demonstrated change.",
+      "u": "AO for delivery is unavailable. No further source return is needed to preserve the explicitly conditional tuition agreement. Broader maternal motive remains interpretive."
+    },
+    {
+      "n": 3,
+      "d": "REVISE",
+      "ind": "Sol O0004/O0007/O0019/O0040 and C0007/C0017/C0019 independently connect urban arrival, rejection of inherited closure, contest and lunar departure.",
+      "e": "B2 Q5 relocates the tale to JA0263–0288 around 13–15 minutes, with a tablet visible at 13:15.750. JA0270 is 月に帰って終わり？何それ 超～バッドエンド！; JA0272 separately uses じゃん. B2 Q9 and PE03 confirm contest structure; B2 Q11–13 confirm retrieval imagery.",
+      "a": "The general motif transposition is INT with direct narrative support. The picture-book action, 20–24-minute locator and stitched 'verbatim' denunciation are defective as source descriptions. A one-to-one five-suitor-to-tournament equivalence needs explicit argument and source evidence; shared competition alone does not establish five corresponding suitors.",
+      "r": "A sci-fi adaptation can retain inherited loss before adding continuation. The film's early refusal and later false ending make a purely cosmetic reskin inadequate, but do not validate every proposed traditional equivalence.",
+      "p": "Preserve the argument that the film modernizes and contests its embedded tale; repair object, time and exact Japanese. Label the suitor/streamer analogy as interpretation, without a fabricated literal correspondence.",
+      "u": "Targeted performance return for book/tablet handling and tone only if those become load-bearing. Narrative refusal is already supported by TXT."
+    },
+    {
+      "n": 4,
+      "d": "REVISE",
+      "ind": "Sol C0018/C0022, O0030/O0038/O0043/O0048 and music records independently trace unfinished father/daughter work, Kaguya's contribution, later completion and transmission.",
+      "e": "B2 Q3/Q10/Q19 verify lyric recurrence and file metadata within clipping limits. PE05: JA2136 selects one chorus; JA2144 recognizes 同じメロ？ at 99:09.610; JA2338 says できた at 113:04.740. No inspected cue states father/child first learned the tune from Yachiyo.",
+      "a": "A common lyric and text-reported melodic recognition survive; direct audible identity across arrangements is unavailable to Sol. 'One continuous musical object' compresses distinct stages of writing and completion. Gemini's cited JA0121/JA2534 are not the asserted matching lyric pair. The originless circular-composition extension is an unsupported causal arrow, distinct from the real time-travel circulation.",
+      "r": "Shared motifs may be inherited, developed and later carried backward without an originless melody. A self-consistent time loop does not make every creative act causally unoriginated.",
+      "p": "Retain related musical material and its temporal transmission. Restore recognition at 99:09 and later completion, keep arrangements/compositional stages distinct, and remove the unestablished Yachiyo→young-Iroha/father learning arrow.",
+      "u": "AV-02 compare lullaby/file/bridge/graduation/balcony/mirror-sea melodies and arrangements; until then sound identity remains Gemini-reported, not Sol-verified."
+    },
+    {
+      "n": 5,
+      "d": "REVISE",
+      "ind": "Sol C0004/C0008/C0013 and O0010/O0015–0022/O0030 independently establish reciprocal care and creative work, including financial consent breaches.",
+      "e": "B2 Q8; PE02 locates fever and nursing around 47:45–51:00. The 75–77-minute passage is ordinary shared domestic life, followed by the unfinished file. The condition on rent/spending predates the alleged post-victory move.",
+      "a": "The broad INF that Kaguya becomes a caregiver and creative partner is strongly supported. The proposed developmental chronology puts illness and household transitions in the wrong places, presenting reciprocal care as a later consequence of contest success. Calling Iroha simply a convalescent at 77:23 is not supported by that passage.",
+      "r": "A catalyst-only reading is weakened by Kaguya's work, fear, fatigue, desire and care. Yet reciprocity does not erase her earlier unilateral spending or dependence on Iroha's labor.",
+      "p": "Keep reciprocal interdependence while repairing chronology and preserving failures of consideration, negotiated household limits and each partner's distinct skills. Do not reduce reciprocity to a single completed role reversal.",
+      "u": "Precise manual cooking actions/overnight duration remain AV-03; the existence and earlier location of illness are textually settled."
+    },
+    {
+      "n": 6,
+      "d": "REVISE",
+      "ind": "Sol C0009/C0011/C0012/C0019 independently distinguishes combat loss from Cup victory and examines cooperative tactics, ranking incentives and failed physical prevention.",
+      "e": "B2 Q9; JA1206: 3v3/three bouts; PE03: deciding third bout after 63:39; JA1546 winner Black Onyx at 70:28; JA1565 new fans criterion; JA1570 Kaguya/IroP win Cup at 71:37. The claimed 62–66-minute encore interval contains ongoing battle. Later domestic lyrics are around 75–77 minutes.",
+      "a": "Joy/cooperation as a counterforce is a defensible INT, but a fabricated or misplaced encore cannot be the established causal trigger of fan victory. Three-bout sequence supports a 2–1 result inference. Yachiyo participates with Kaguya/IroP; friends do not make a four-person side. The contest remains competitive and the Cup still uses metrics.",
+      "r": "The strongest rival is that the platform rewards compelling spectacle and novelty through another metric, not that ranking has been abolished. The graduation performance matters even though retrieval succeeds.",
+      "p": "Preserve joy, audience response and collective action while replacing the encore-trigger narrative with actual rule/result evidence. Integrate tactical trust and decoy/weapon exchange, and retain the metric-economy counterreading.",
+      "u": "AV-03 for complete battle score display and song performance placement. No AO claim is needed to correct a battle continuing through the supposed post-match interval."
+    },
+    {
+      "n": 7,
+      "d": "PRESERVE",
+      "ind": "Strong independent convergence with Sol C0001/C0004/C0013/C0014/C0017/C0020/C0026/C0027 and O0031/O0040–0041/O0048–0049.",
+      "e": "B2 Q4/Q11/Q13/Q14/Q19/Q21: available payment balance, expense-sharing reply, room contact, written remittance, warmth/pancake wish and unfinished taste. PE02 adds reciprocal nursing and acknowledged burdens.",
+      "a": "The material-care INT survives the checks actually performed. The 23,532 yen display is an available total including points, not a measured expenditure; preserve financial stakes without converting that screen into an exact amount paid. The 'dead-silent' subdescription remains an unverified AO report. Multiple independent material details support the thematic argument without relying on that sound claim.",
+      "r": "Domestic props could be comic texture, but their recurrence in farewell and the future wish makes that explanation insufficient on its own. Cosmic/time-travel stakes remain material and need not be excluded.",
+      "p": "Preserve the core argument that attachment is expressed through meals, work, money, touch and continued company, with explicit evidentiary limits on expenditure totals and sound. Do not make it a universal claim that virtual affection is inauthentic.",
+      "u": "AV-05 for farewell mix; other listed TXT/FRM facts are sufficiently grounded. PRESERVE is scoped survival, not full-channel validation."
+    },
+    {
+      "n": 8,
+      "d": "REVISE",
+      "ind": "Sol C0010/C0011/C0027 and O0024/O0026–0027/O0040/O0049 independently develop the brother's affection, predictive error, help and bounded financial backing.",
+      "e": "B2 Q9: sibling recognition JA1294 at 58:53, before battle completion. Q12 confirms CHEAT DETECTION/warning but not permanent account destruction. PE10 verifies investment and wealth qualification. PE13 samples the Akira avatar again at 127:40 in the later montage.",
+      "a": "Brother/foil/benefactor is supported. The disclosure horizon is wrong, and warning text alone does not establish an irreversible career-sacrificing ban. The later avatar depiction is counterevidence against simple permanent disappearance, although the exact temporary ban mechanics are still unverified. 'Unconditional' devotion also exceeds a few helping contexts.",
+      "r": "A convenient wealthy-benefactor reading is countered by earlier family stakes and help, but funds are bounded and Rai/Noi differ in eagerness. Protective help can coexist with condescension and mistakes about Iroha's tactics.",
+      "p": "Retain brother/foil/support, repair the 58:53 reveal, include his mistaken prediction of self-sacrifice, and describe rule-breaking risk at the concert without certifying permanent account loss. Preserve the actual funding dialogue.",
+      "u": "AV-04 beam action/avatar result and later montage continuity. Integrator should inspect 127:40 before treating post-ban status as unknowable from F01."
+    },
+    {
+      "n": 9,
+      "d": "PRESERVE",
+      "ind": "Sol O0014/O0029/O0045–0047 and C0023 independently recognize older Yachiyo/younger Kaguya horizons and early knowledge asymmetry.",
+      "e": "B2 Q6/Q18 verify the archaic phrase, real name 彩葉 in JA0739, old-web dates/badge/handle. PE07 verifies narrated temporal displacement and tentative identification; PE09 adds later hidden-history realization. JA0001 supports the reading Runami.",
+      "a": "The identity and retrospective consistency argument survives. Classical speech or access to a real name alone is not prospective proof: an administrator/persona remains a valid first-view alternative. Precise post-logout timing and piano identity remain Gemini AO/CAV reports. 'Prospectively evidenced' should mean a clue available earlier, never an actual frozen prediction by either run.",
+      "r": "Admin lookup explains the isolated name but not the later shared identity/history. It is superseded as a complete account after the reveal, not logically impossible as an incidental route to account data.",
+      "p": "Preserve older-identity interpretation and early clues, with distinct discovery horizons and explicit limits on the unheard/unsampled bridge details. Avoid converting remembered history into omniscience.",
+      "u": "AV-02 for bridge exit/instrument. Some reveal timing repairs belong to PE07/PE09 and the dependent scene ledger, without changing the main identity claim."
+    },
+    {
+      "n": 10,
+      "d": "REJECT",
+      "ind": "Sol C0022–0023 and O0045–0047 explicitly preserve the body/slug distinction and avoid inventing the melody's first acquisition.",
+      "e": "PE07 JA2402–2417: work and handover completed; a time journey strikes a rock; only DOGE gains a body; Kaguya interacts through the sea slug. PE05 supplies composition/recognition stages but no Yachiyo→father/child learning link. PE06 corrects the purported 114:55 collision placement.",
+      "a": "Reject this exact composite causal chain, not the existence of time travel or older Kaguya. It assigns the slug route to DOGE, describes Kaguya too simply as wholly bodiless, invents a required musical acquisition arrow, and locates consequences at an earlier disclosure point. These errors are causal, not merely differences in philosophical vocabulary.",
+      "r": "A closed consistent chronology remains possible without the faulty embodiment chain or an originless tune. A branched timeline is also not established merely by refuting this formulation. No cosmological alternative wins by default.",
+      "p": "Register a new attributable reconstruction: returned Kaguya receives the song, completes work, uses time technology, suffers collision, reaches the past; DOGE receives a body while Kaguya's interaction uses a slug; later virtual embodiment and history connect her to Yachiyo. Preserve unknown mechanics and the separately evidenced creative origin.",
+      "u": "AV-06 for the relay object's exact operation, actual craft action and montage sequence; no need to keep an explicitly contradicted DOGE/slug statement open pending hearing."
+    },
+    {
+      "n": 11,
+      "d": "STRENGTHEN",
+      "ind": "Sol O0031–0032 and C0014/C0016 independently recognized the intimate exchange followed by intrusion, but did not notice the bracelet insert. Blind Q11's sparse samples also left it unresolved.",
+      "e": "PE12 directly returns nine 0.25-second static samples: room at 84:16.000, silver wrist loops in close-up at 84:16.250, bright marks at 84:16.500–17.000. JA1850–1857 establish the marriage/expense exchange; B2 Q11 verifies projected 2030/09/12.",
+      "a": "Strengthen the observational basis through independent post-exposure corroboration of a previously missed insert. The proposed dramatic linkage remains supported but contestable INF; this does not upgrade a physical attachment-sensor mechanism to FACT. Rounded '84:16' is compatible with the sampled insert; exact first frame is not measured.",
+      "r": "An alarm responding to public exposure or impending retrieval could produce the same insert. Sequence and emphasis link romance to threat for the viewer without proving that speaking of marriage activates a statutory lunar mechanism.",
+      "p": "Retain the close-up and adjacency as meaningful dramatic staging; explicitly distinguish dramatic trigger from demonstrated device causality. Credit Gemini for directing a productive return, with Sol's new observation labeled post-exposure.",
+      "u": "AV-04 for surrounding continuous transition/AR visibility. No further return needed for the existence of the bracelet insert; do not loop until a causal interpretation is unanimous."
+    },
+    {
+      "n": 12,
+      "d": "PRESERVE",
+      "ind": "Independent convergence with Sol C0021 and O0042–0043: the false streaming ending makes refusal a formal act, followed by withdrawal of the career form.",
+      "e": "B2 Q16: film-extracted P6696 shows BLACK ONYX promo, miniature credit area, countdown 9秒 and menu; P6708 shows Iroha running. JA2313–2318 establish refusal and change of plans. The original independent monograph already developed this argument.",
+      "a": "The core FACT/INT combination survives. Exact 5.297-second duration, cut detector values, specific sounding song and sonic silence remain Gemini measurements/reports, not reproduced by Sol. 'Weaponizes' is interpretation; no universal audience panic is observed. The interface's source inclusion is independently established.",
+      "r": "The gag can entertain and expose platform habit simultaneously. Its placement between loss/forced acceptance and concrete reversal gives the formal reading stronger support than a claim of unrelated slapstick.",
+      "p": "Preserve the false-closure/platform reading at the verified scene scale, while quarantining unverified microtiming/audio and dropping universal viewer-response assertions from downstream prose.",
+      "u": "AV-07 only if exact cut timing, sound and countdown sequence are needed for final formal analysis."
+    },
+    {
+      "n": 13,
+      "d": "REVISE",
+      "ind": "Sol C0027 and O0048–0049 independently link desire for touch/food to long practical work, assistance, rest and incomplete taste.",
+      "e": "B2 Q15/Q19–21; PE10–PE13. Monitor text is partially readable, not all three claimed Japanese headings independently verified. Ten-year marker is visible at 127:50, after intervening montage. JA2581 explicitly leaves taste pending.",
+      "a": "The motivational link between a bodily wish and work toward a body is supported INF. Exact 2030→2040, age 27, a solo breakthrough and complete named research headings exceed the verified evidence. A school grade plus a later ten-year marker does not independently date the endpoint or establish a birthday. The evidence supports bodily capability, not a full scientific architecture.",
+      "r": "A generic robotics trope is insufficient to explain the immediately preceding touch/pancake wishes and sensory limitation, but genre compression and exceptional resources remain real counterweights.",
+      "p": "Retain the concrete wish-to-labor connection, elapsed years, collaboration and unfinished taste. State a later adult period rather than unverified calendar/age precision; quote only legible monitor fragments unless a better source return verifies the rest.",
+      "u": "AV-09 exact ellipsis anchoring and monitor text; no need for real-world engineering plausibility claims or invented mechanism."
+    },
+    {
+      "n": 14,
+      "d": "REVISE",
+      "ind": "Sol O0049/C0023/C0027 preserve simultaneous younger-looking Kaguya, older Yachiyo and Iroha. B2 Q22 adds the observed contact/glow contrast; this visual precision was question-prompted.",
+      "e": "B2 Q21–23 and PE11/PE13/PE16. JA2587 tags Yachiyo herself saying ヤッチョは先週ぶり; it is not Kaguya greeting her. Frame 129:48 shows three figures and different contact/shadows. YC designation is explicit, its full expansion/technical history is not.",
+      "a": "Plural co-presence is well supported FACT. Revise calendar precision, attributed greeting and the inference that one last-week remark proves a weekly domestic routine. Appearance/dialogue do not demonstrate independent consciousness topology; the source itself withholds that mechanism.",
+      "r": "A prerecorded figure is less persuasive given conversational context, but dismissing every shared-consciousness or mediated-presence alternative as impossible goes beyond the evidence. Co-presence is narrower and stronger than separate autonomous minds.",
+      "p": "Preserve three-way presence and the visual distinction while correcting speaker attribution and date certainty. Keep body/data partition, YC expansion and routine frequency open.",
+      "u": "AV-08 for actual voices and interaction timing; no additional static return needed to establish three figures."
+    },
+    {
+      "n": 15,
+      "d": "OPEN",
+      "ind": "Sol C0007/C0025 and O0012–0013/O0025/O0032/O0040/O0049 independently discuss virtual/physical affordances and scale; B2 verifies some detailed staging.",
+      "e": "B2 Q11/Q13/Q22/Q24 verify transit figures/date, room contact, eye differences, final lift contrast and credited division of design work. No actual sound was heard, and complete AR seeing/unseeing sequence was not continuously inspected.",
+      "a": "Several FRM propositions are supported, but the composite cinematic argument depends on unverified exact AR visibility, 6.5-second sound removal and generalized ontological lighting rules. A positive final contrast is not proof that every real/virtual scene follows that law. No contradiction is inferred merely from Sol's absent AO.",
+      "r": "Production specialization and stylistic variety can coexist with deliberate meaning. The final frame makes a thematic use plausible, but cannot by itself certify the claimed acoustic construction or every plane's physics.",
+      "p": "Keep a bounded provisional argument connecting sampled visual differences to embodiment. Leave the whole composite OPEN pending qualified AV verification; do not reject the sound report just because this lane cannot hear it.",
+      "u": "Required AV-04 transit and AV-05 farewell mix; examine a finite set of contrary real/virtual scenes before generalizing. These requests block corresponding AV-completeness, not preservation of both candidates."
+    },
+    {
+      "n": 16,
+      "d": "OPEN",
+      "ind": "Sol C0008/C0018/C0019/C0022/C0026 and 19 music-event records independently find music causal, while explicitly withholding instrumentation, melody and timbre claims.",
+      "e": "B2 Q3/Q6/Q10/Q19 and PE05–PE07 establish recurring words, composition stages, transmission and surviving through song. Actual AO/CAV = 0. Gemini's song/scene placements must also be repaired using the chronological findings elsewhere.",
+      "a": "The load-bearing zero-instrument/unison ring is an auditory claim inaccessible here. Lyric identity cannot establish arrangement, two singers in unison, or accompaniment absence. Thematic attention to bare voice is plausible, but an amplified/full-accompaniment response also contributes to survival in Gemini's own account; it cannot be excluded to force an anti-spectacle binary.",
+      "r": "Ordinary quiet/loud alternation is a real rival, as is an inclusive reading where intimate and spectacular forms jointly carry relationship. A ring structure would need actual comparative listening, not merely matching lyric text.",
+      "p": "Preserve the proposed sonic arc as an attributed hypothesis with exact verification windows. Keep music's narrative importance supported, but leave the specific zero-instrument argumentative spine OPEN.",
+      "u": "Required AV-02 and AV-06: finite comparative listening at 07:28–07:58, 34:45–35:15, 77:20–78:30, graduation passage, 113:05–114:20, 125:10–127:14. Do not manufacture consensus through repeated reports."
+    },
+    {
+      "n": 17,
+      "d": "DOWNGRADE",
+      "ind": "Sol independently analyzed on-film music/credit lyrics but did not develop a Vocaloid-history thesis. B2 Q7/Q24 verifies playlist and credits prompted by the queue.",
+      "e": "Q7 shows the queued titles; Q24 verifies credited composers/performers. PE15 establishes credit lyrics exist in Track 4. External historical dates, concert genealogy and claims that every contributor belongs to one lineage were not separately admitted/verified in either source-grounded comparison.",
+      "a": "The in-film playlist/credit connection is supported. The historical-cultural causal interpretation is provisional context, not a film-established fact. Credits prove attribution, not a composer's entire cultural biography or the film's intent. Gemini's missing-credit-lyrics premise is directly false and should be removed from U0008.",
+      "r": "Commercial cross-promotion and meaningful cultural resonance are compatible. Repeated title/performer presence alone cannot decide between nostalgia marketing and a coherent historical thesis.",
+      "p": "Downgrade the broad historical alignment to an explicitly external-context hypothesis needing its own provenance. Preserve the intratextual playlist recurrence and separately analyze the actually available credit lyrics.",
+      "u": "Optional contextual-source verification only if authorized for a later contextual appendix; AV-10 for arrangement/lyric variants. This audit does not independently assert the historical facts."
+    },
+    {
+      "n": 18,
+      "d": "REVISE",
+      "ind": "Sol independently analyzed conditional expense language, volitional negation, the muted call, intimate farewell and rest/work phrase. Gemini adds a useful family-name pattern and detailed historical/web-register interpretation.",
+      "e": "B2 Q2/Q5/Q6/Q14/Q15/Q18/Q23/Q24; PE01/PE04/PE09/PE11/PE14/PE15. Literal 朝久/朝日 and 紅葉/彩葉 are verified; Runami has JA0001 furigana. The opening quote and several cue bindings are false; closing voice handoff remains unheard.",
+      "a": "Mixed registers and naming pattern are useful FACT→INT work. Revise claims that mother's dialect proves she was never rejecting, that youth particles belong exclusively to Kaguya until contagion, and that an unverified vocal handoff is resolved by this audit. A register can support intimacy without proving lifelong commitment. Several presented 'verbatim' phrases combine or paraphrase separate actual cues.",
+      "r": "Shared youth slang may reflect a common register rather than direct borrowing; archaic diction can be a performed idol persona even if later history recontextualizes it. Kanji symmetry is observable, but intentional inherited gendered vocation is interpretation.",
+      "p": "Retain precise source-supported wording and literal name pattern; include the neglected 言いたくなかった distinction; repair exact quotes/cues and attach confidence separately to pragmatic interpretation, etymology and speaker identity.",
+      "u": "AV-08 closing narrator is required for that subclaim. Further hearing cannot fix demonstrably wrong written cue IDs; those should be repaired now in an attributable later ledger event."
+    },
+    {
+      "n": 19,
+      "d": "REVISE",
+      "ind": "Sol O0044–0047/C0024 independently records FUSHI's help plus Iroha's pressure and privacy/consent tension, without a wholly autonomous-hero conclusion.",
+      "e": "PE07 corrects DOGE versus slug. PE08 gives Iroha's demand to search everywhere, FUSHI's hesitations, Yachiyo's offer of forgetting, and Iroha's 問答無用 demand for hidden memories. B2 Q13 confirms Doge present during departure but not its full motion.",
+      "a": "FUSHI is consequential, but the exact origin is wrong and the disclosure is materially conditioned by Iroha's insistence. Calling it an autonomous breach of stoicism erases the agent who requests it and the intermediary's reluctance. Its judgment in proceeding remains an inference, not a solved automaton-versus-personhood test.",
+      "r": "Neither an entirely automatic peripheral nor a purely unsolicited moral rescuer adequately describes the exchange. A loyal helper can weigh the request against risk without clear evidence that the subject consented to every disclosure.",
+      "p": "Retain FUSHI as an enabling intermediary and long companion, correct the body history, restore Iroha's initiative and the explicit hesitation/risk, and preserve the ethics of hidden-memory access as an unresolved tension.",
+      "u": "AV-05/AV-06 for stowaway/relay motion. The textual pressure and body distinction are already settled sufficiently for this revision."
+    },
+    {
+      "n": 20,
+      "d": "REVISE",
+      "ind": "Sol C0026/C0027/C0028 independently argues that growth does not consume a particular beloved's value, and that ongoing work supports an unfinished shared future. Strong convergence on care and refusal of closure; meaningful difference over virtuality.",
+      "e": "Sol frozen O0034/O0048–0050; B2 Q19/Q21–24; PE10–PE16. Iroha states she has grown and could have a sufficient happy ending, then wants Kaguya. The virtual older companion remains present. Taste remains unfinished and narration permits later quarrel/separation.",
+      "a": "The tactile-continuation INT is persuasive as a situated wish, but 'true love/maturity require' and a generalized rejection of virtuality exceed the source. The film values Tsukuyomi as an enabling space as well as giving it sensory limits. A synthetic body is not proof of finite lifespan. Several supporting factual chains require revision, so the synthesis cannot inherit their claimed certainty.",
+      "r": "Retain techno-escapist and deterministic rivals, but distinguish a living partner's embodiment from resurrecting the father without inventing a solved loop. Sol's alternative also needs restraint: continued specificity of love does not itself establish a universal ethics of refusal or make every intervention consensual.",
+      "p": "Recast: these characters choose to extend an already valuable relationship into bodily shared life through sustained, supported work, while preserving the older virtual self and the possibility of future change. Keep multiple defensible emphases rather than declaring virtual affection inauthentic.",
+      "u": "Integrator must re-evaluate after factual repairs and AV-02/04/05/06/08. No canonical thematic promotion is authorized by this audit."
+    }
+  ],
+  "serialization_note": "Generated from complete audited Markdown after checking target was absent; exclusive create, no replacement"
+}
