@@ -3,16 +3,16 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.0"
+version: "1.2"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 authority_generation: SBY-INITIAL
 authority_scope: "Source identity, verification limits and future admission routing only"
-source_boundary: "Metadata reconnaissance of supplied Japanese novel volumes 01–10; no narrative admitted"
+source_boundary: "Byte-bound Japanese EPUBs V01–V10 with ordered narrative admission; other narrative outside the active scope"
 created: 2026-11-13
-last_updated: 2026-11-13
+last_updated: 2026-11-15
 recommended_reasoning_class: BOUNDED_STANDARD
 do_not_use_as_literary_evidence: true
 ---
@@ -27,7 +27,7 @@ A witness slot below is a stable project identifier, not a certified hash lock. 
 
 ## Available units
 
-Every row is AVAILABLE_METADATA_MATCHED, NOT_ADMITTED and NOT_INSPECTED_BY_PROJECT. The unique live standardized name and byte size match the corresponding audit-manifest record. Numbering is observed source packaging, not verified publication or story chronology.
+At the November 13 metadata pass, every row was AVAILABLE_METADATA_MATCHED, NOT_ADMITTED and NOT_INSPECTED_BY_PROJECT. The activation record below supersedes those initial availability states. The unique live standardized name and byte size match the corresponding audit-manifest record. Numbering is observed source packaging, not verified publication or story chronology.
 
 | Witness slot | Supplied unit | Recorded canonical Japanese title | Observed bytes | Reported package warning |
 |---|---|---|---:|---|
@@ -52,7 +52,7 @@ The audit's filename metadata records the creator strings 鵜飼 有志 and, for
 
 **Reported by the supplied-file audit.** The report dated November 13, 2026 states that all extractable XHTML spine prose was screened excluding navigation and ruby readings, with three distributed samples per volume and Japanese grammar in all thirty. It reports no flagged Han-heavy low-kana windows, ZIP CRC/container/package/spine/referenced-resource checks passing, 208 raster images decoded, distinct EPUB and extracted-spine hashes, and original bytes preserved through renaming. Text embedded in images was outside its language review.
 
-**Not established by this project.** No EPUB was downloaded, reopened, independently hashed, text-extracted, fully language-audited, visually inspected or narratively read. Filename/size agreement is not byte identity. The audit is not a full formal EPUBCheck certification. The non-first mimetype warnings were preserved, not silently repaired. If a future reader cannot open a warned package faithfully, record the failure and preserve the original; any repaired derivative needs an explicit source-to-derivative map.
+**Scope of the November 13 pass.** That pass ended at filename/size agreement. V03, V06 and V07 retain the reported ZIP order warnings. The activation record below distinguishes the fresh tests from inherited observations. Neither check is a full formal EPUBCheck certification.
 
 The provenance route is a supplied-file audit. No Calibre-import, Kobo-purchase, individual receipt, acquisition legality or ownership certification is asserted. Internal acquisition names and raw receipts remain private. A public methodological description cannot replace the underlying evidence-plane provenance record.
 
@@ -64,7 +64,7 @@ The numbered main volumes are the initial proposed sequential backbone, subject 
 
 Japanese prose governs wording, register and narration claims. Illustrations are a separate inspected source layer; afterwords are creator statements. A translated, revised, print, manga or audiovisual witness requires its own identity and admission decision. Its account never fills a gap in this witness silently. Shared titles do not establish adaptation equivalence or continuity.
 
-## Open source obligations
+## Source obligations at the metadata baseline
 
 | ID | Unresolved requirement and consequence | Owner and acceptance condition |
 |---|---|---|
@@ -81,6 +81,37 @@ These are source obligations, not narrative hypotheses. A later resolution appen
 
 A future evidence ID resolves through its owning full reading to a witness slot, actual component, stable internal member/anchor or paragraph index and a readable chapter/scene label. The private receipt supplies exact file and extraction identity. Test a material quotation's locator against the witness. EPUB display pages are not print pagination.
 
-Coverage records distinguish AVAILABLE, TRANSPORT_VERIFIED, BYTE_BOUND, ADMITTED, INSPECTED and CLOSED_FOR_DECLARED_SCOPE. Those stages are independent of architectural maturity. The present high-water mark is NONE and every witness remains unadmitted. Source updates do not rewrite historical receipts, earlier coverage or disclosure boundaries.
+Coverage records distinguish AVAILABLE, TRANSPORT_VERIFIED, BYTE_BOUND, ADMITTED, INSPECTED and CLOSED_FOR_DECLARED_SCOPE. Those stages are independent of architectural maturity. The initial metadata pass closed no narrative. The current entrypoint records the active frontier. Source updates do not rewrite historical receipts, earlier coverage or disclosure boundaries.
 
-Start recovery at the [current entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md), then this register and the [method](SHIBOYUGI_ANALYTICAL_METHOD.md). No inventory row, successful parser run or source-folder existence authorizes sequential work.
+Start recovery at the [current entrypoint](CURRENT_STATE_AND_CORPUS_MAP.md) and the [method](SHIBOYUGI_ANALYTICAL_METHOD.md).
+
+## Run activation verification
+
+On November 15, 2026, the principal source owner retrieved and rehashed all ten attached EPUBs and all ten working copies. The digests match the supplied-file audit and historical replication receipt. The independent evidence specialist rehashed the ten originals separately. The historical Drive readback verified name, size and folder placement. The fresh identity test used the attached and working bytes. The private witness receipts pin the exact files, supplied provenance, extractor digest and ordered component maps.
+
+The packages passed fresh ZIP CRC, package/manifest, Japanese metadata, XHTML and navigation-fragment checks. All 208 raster images decoded. V03, V06 and V07 opened with their original entry-order warnings and unchanged bytes. The TEXT route accounts for all main body prose using actual XHTML paragraphs and maps every ruby annotation to its base segment. A same-witness Japanese title locator at V01 S25 P0001 and JPEG transport/decode at V01 S11-I01 were verified. These checks establish source access before literary inspection.
+
+`Sxx` is the 1-based OPF spine item, `Pxxxx` is the 1-based XHTML body paragraph in document order including layout paragraphs, and `Sxx-Ixx` is an image reference in that item. The witness receipt resolves every item to an actual internal member. Base rendering removes ruby readings from the display, keeps them retrievable as pairs, and marks XHTML line breaks. Exact quotations are checked against the XHTML.
+
+The table reflects the corrected component mapping recorded below.
+
+| Witness | Spine | Main paragraph blocks | Ruby readings in main text | Main image references |
+|---|---:|---:|---:|---:|
+| SBY-JP-V01-W01 | 27 | 2286 | 2751 | 8 |
+| SBY-JP-V02-W01 | 29 | 2375 | 3798 | 5 |
+| SBY-JP-V03-W01 | 35 | 2197 | 3754 | 7 |
+| SBY-JP-V04-W01 | 31 | 2186 | 3096 | 6 |
+| SBY-JP-V05-W01 | 31 | 2283 | 3502 | 5 |
+| SBY-JP-V06-W01 | 31 | 2362 | 2929 | 5 |
+| SBY-JP-V07-W01 | 34 | 2371 | 2316 | 6 |
+| SBY-JP-V08-W01 | 29 | 2220 | 3312 | 4 |
+| SBY-JP-V09-W01 | 36 | 2092 | 2692 | 7 |
+| SBY-JP-V10-W01 | 37 | 2068 | 2877 | 7 |
+
+SBY-SO-001 is resolved for all ten witnesses. SBY-SO-002 is resolved for the main allowlist and illustrated placements. The structurally marked bonus in each edition has a separate unresolved scope and spoiler obligation. Afterwords, navigation, notices and colophons stay outside narrative evidence. Explicit advertisements and uncertain back-matter images are withheld. Source-relevant front illustrations may be classified after the same unit's main prose freeze, with the bonus and preview firewall intact. SBY-SO-003's route tests passed. Actual source inspection belongs in each reading's coverage receipt. SBY-SO-004 is resolved for the verified parser. SBY-SO-005 remains open for external bibliography. SBY-SO-006 is resolved for the authorized main run. V01 main is admitted at activation and V02–V10 await their unit frontiers.
+
+## V01 coverage and component correction
+
+The principal source owner and three separately assigned specialists finished the Japanese text scope of SBY-JP-V01-W01. The principal inspected the original illustrations and text-bearing guide in the admitted spine and the current-volume front art after the prose-end freeze. The [deep reading](readings/SHIBOYUGI_V01_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V01_CHECKPOINT.md) record the actual coverage, retrieval and exclusions. Only the V01 main and stated art scope is closed.
+
+The first component map mistakenly included short members before the afterword. V01 S18–S19 have signed 解説 headings, independently observed by the character and language specialists. Their output exposure occurred after the principal's assignment release and is excluded from those specialists' findings. The principal and evidence specialist did not open those contents. The corrected private map and reader refuse these members and classify analogous signed headings in V02 S19–S20 and V03 S24–S26 by structure alone. The actual EPUBs and the remaining admitted paragraph/ruby locators are unchanged. Earlier receipt bytes were preserved. The current counts in the table reflect these corrections. No later narrative was opened for the correction. Bonus and unresolved back matter remain governed by SBY-SO-002 and excluded from the main reading lane.

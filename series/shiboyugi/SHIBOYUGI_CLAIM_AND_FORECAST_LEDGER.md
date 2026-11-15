@@ -3,18 +3,18 @@ title: "Shiboyugi — Claim and Forecast Ledger"
 artifact_id: SBY_CLAIM_FORECAST_LEDGER
 artifact_type: claim_revision_and_forecast_ledger
 series: shiboyugi
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
 do_not_use_as_current_authority: false
 authority_generation: SBY-INITIAL
-authority_scope: "Argument preservation, revision and prospective-testing contract; zero narrative-claim baseline"
-source_boundary: "Metadata reconnaissance of supplied Japanese novel volumes 01–10; no narrative admitted"
+authority_scope: "Argument preservation, claim revision and prospective testing through V01"
+source_boundary: "Admitted Japanese V01 main narrative and permitted V01 illustration layer"
 created: 2026-11-13
-last_updated: 2026-11-13
+last_updated: 2026-11-15
 recommended_reasoning_class: DEEP_SYNTHESIS
-do_not_use_as_literary_evidence: true
+do_not_use_as_literary_evidence: false
 ---
 
 # Claim and forecast ledger
@@ -25,7 +25,7 @@ This ledger preserves why an interpretation is held, what could weaken it, how i
 
 **Baseline SBY-CLAIM-BASE-000, 2026-11-13:** no admitted narrative, no literary claims, no predictions, no adjudications, no revised interpretations and no operational model. Source facts and unresolved audit obligations belong to the [source register](SHIBOYUGI_SOURCE_REGISTER.md). Title-prompted design questions in the method are not hypotheses pretending to arise from source reading.
 
-The current narrative boundary and high-water mark are NONE. No record is created merely to demonstrate a schema. The contracts below initialize the required day-one responsibility without inventing content.
+At the November 13 baseline the narrative boundary and high-water mark were NONE. No record is created merely to demonstrate a schema. The contracts below initialize the required day-one responsibility without inventing content.
 
 ## Claim identity and scope
 
@@ -116,4 +116,47 @@ At convergence, compare specialists' source boundaries, premises and counterargu
 
 Apply the named-reference check to substantive argument prose: synopsis/introduction, a middle section and conclusion, expanded across major relationships where needed. Preserve meaningful aliases and concealment; distinguish justified role reference from unnecessary generic labels or incorrect attribution. A changed speaker or knowledge holder is a substantive revision, not cosmetic replacement.
 
-One mutable owner maintains current routing and appends accepted history. Recover from the last accepted transaction and exact authority surface after interruption. The current state remains SBY-CLAIM-BASE-000; no narrative claim or forecast can be inferred from these initialized protocols.
+One mutable owner maintains current routing and appends accepted history. Recover from the last accepted transaction and exact authority surface after interruption. The dated baseline remains SBY-CLAIM-BASE-000. Accepted claim states and forecast adjudications are recorded below.
+
+## SBY-V01-CLAIMS — V01 current view and revisions
+
+The following formulations share the V01 main and recorded illustration boundary. Short labels are retrieval aids to the [full reading](readings/SHIBOYUGI_V01_DEEP_READING.md). Each E anchor preserves exact Japanese witness locators, its causal reasoning and credible uncertainty. Accepted formulations are as of V01. Current entries are revisable through an appended record.
+
+| Claim | Formulation, confidence and return route |
+|---|---|
+| SBY-C001 | **Supported, MODERATE mechanism.** Yūki's account and actions support a sincere conditional commitment to widening survival. Expected reciprocity, private concern, good judgment about material constraints and risk to self each explain material parts. Her return for Hakushi and anxious moments for Kinko resist a sole self-interest explanation. A stricter limit returns when she judges the house demands a death, and her proximity rule makes that judgment rapidly actionable. [E002](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e002--earned-trust-and-a-dangerous-familiar-room), [E003–E005](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e003--the-hexagon-turns-aid-into-allocation), E008. Downstream Yūki, Kinko and other relations. |
+| SBY-C002 | **Supported, HIGH local response, OPEN necessity.** A third crossed-person lamp lights and the outer door opens directly after Kinko's death. The apparent design was persuasive to Yūki, especially as a fit with novice-heavy recruitment. Neither available alternatives nor the operator's deliberation is known at the necessary resolution. The final door differs explicitly from the load constraint where four pass. [E004](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e004--altered-bodies-and-the-price-of-leaving-nobody-behind), [E005](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e005--the-final-lock-and-the-things-a-rule-makes-possible). Downstream game rules and moral judgment. |
+| SBY-C003 | **Supported, HIGH.** The order of the two games, alternating Candle Woods viewpoint, continuing personal limits on knowing, and separate resolution of Hakushi's apparent death give the reader different access from any character. Formal addresses and narrated omission must be allowed alongside situated apprehension. [E008](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e008--the-spectators-advantage-over-both-viewpoints), [E010](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e010--a-surviving-mentor-whom-the-reader-has-twice-lost), [E012](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e012--where-the-text-lets-a-voice-be-heard). Downstream narration, chronology and source knowledge. |
+| SBY-C004 | **Supported, HIGH behavior, MODERATE origin.** The #9 declaration of 99 clears becomes an organizing practice with effects at home and in her decision to set out for evening school and a downstream explicit commitment at #28. The declaration may activate a prior attachment as well as establish a new obligation. Its material efficacy works alongside combat resources, luck and continuing pleasure/livelihood. [E006](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e006--context-for-an-earlier-yūki), [E009](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e009--a-borrowed-objective-and-an-improbable-victory), [E011](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e011--what-yūki-does-after-declaring-an-ambition). Downstream Yūki, Hakushi and mentor/students. |
+| SBY-C005 | **Supported, HIGH local cases.** Participant expertise, formal announcements and actual administration can yield different constraints. Limited nonintervention history and a tree-imposed week differ from the day-three stop. The Stump quota leaves an unscored material incentive to deprive other Stumps of gear/targets. A complete game-system ontology is OPEN. E001, [E007](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e007--two-briefings-and-two-forms-of-group-power), E008/E010. Downstream institutional and practice claims. |
+| SBY-C006 | **Supported, HIGH layer separation.** Yūki's observed restored functioning and local visible clotting effects support institutional body alteration. Kyara's visible embedded protection, and Hakushi's separate out-of-program means to survive apparent death, are evidenced distinct resources. General reach of treatment, irreversible damage beyond the sample and modification mechanics remain OPEN. [E004](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e004--altered-bodies-and-the-price-of-leaving-nobody-behind), E009, [E010](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e010--a-surviving-mentor-whom-the-reader-has-twice-lost), E014. |
+| SBY-C007 | **Supported, MODERATE economic reading.** Life-for-reward is a situated economic argument. The distinct debt, survival, self-transformation, aptitude and cohort pressures matter alongside subsistence. Momono's testimony makes compulsion a live variable. Yūki's and the guide's wagering attribution remains unresolved despite actual archive access being offered to Hakushi. E001/E005/E006, [E014](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e014--display-and-private-records). |
+| SBY-C008 | **OPEN mechanism.** The thirty-game wall has professionally shared currency and fears, and the outlook that Yūki can pass it is Hakushi's appraisal. Sumiyaka's death at 29 has a local explanation and one staff denial does not measure external intervention. S15 P0393–0412/P0823–0838, S17 P0095–0119. [E010](readings/SHIBOYUGI_V01_DEEP_READING.md#sby-v01-e010--a-surviving-mentor-whom-the-reader-has-twice-lost). |
+
+### First revisions at the V01 boundary
+
+- **SBY-C001 REVISE.** Initially the “within my interests” explanation left unresolved whether the speaker would incur tangible cost. The key offer, bringing Kinko back and taking first exposure extend the supported form, with conditional aid verifiable when shared survival remains possible. At the door she judges the interests incompatible. Neither episode licenses making the two motives identical or projecting an unlimited rescue rule. S12 P0136–0148/P0502–0539/P0692–0834/P0920–0939. E002–E005.
+- **SBY-C002 REVISE.** The 150 kg cell initially looks as though a fourth person must stay. The four-person lift disproves that count interpretation at that device. The outer door's different evidence then supports an actual third-death response. The earlier novice calibration and dynamic display are explanatory conjectures. S12 P0624–0659/P0770–0787/P0824–0834/P0900–0927. E004–E005.
+- **SBY-C003 REVISE.** In S15 P0843–0852 the apparent death of Hakushi is locally intelligible. P1177–1181 corrects the apparent outcome, and S17 P0048–0085 supports continued life in the body initially seen. Earlier perception and later correction remain jointly retrievable. Neither a replacement victim nor actual biological resurrection is required by this explanation. E008/E010.
+- **SBY-C004 STRENGTHEN.** #28 self-report supplies an established 99 goal early in disclosure. S15 P1051–1072 puts its adoption in motion while leaving conscious origin open. S17 P0013–0040/P0127–0143 yields evidence of repeated acts outside combat, without full proof of permanence. E006/E009/E011.
+- **SBY-C005 REVISE.** Yūki's “as far as I know” precedents S12 P0264–0265 support a narrow non-escalation expectation. Candle Woods stakeholders' announced week at S15 P0239–0240 yields to explicit staff early shutdown S17 P0048–0049. Distinguish administrative endpoint from gaming intervention midplay. E001/E007/E010.
+- **SBY-C006 REVISE.** The earliest confident all-purpose repair claim is narrower after comparing actual repair, Hakushi's diminished capacity and specialized alterations. Local observed recovery remains secure. Accumulated cost is supported at least by assessment and reported history, not a measured general wear mechanism. S12 P0574–0589/P0602–0607/P0947; S15 P0943–0962/P0996–1009; S17 P0007–0009/P0064–0085, S03-I01. E004/E009–E010/E014.
+- **SBY-C007 OPEN.** Group induction speculation for Momono changes from uniquely attractive to filling numbers in Yūki's later reasoning. The recruiting path and prize mechanisms are still not independently attested. A guide, cameras and the archive offer establish narrower aspects of an audience economy. S12 P0104–0120/P0213–0224/P0607–0609, S13-I02, S17 P0090–0102. E001/E004/E007/E014.
+- **SBY-C008 OPEN.** Retain three distinct views against one more observed death. The exact record 98 is hearsay in S15 P0165 and the current staff denial addresses intent in S17 P0101. Neither settles cause nor target records. E006/E010.
+
+### V01 forecasts
+
+The [V01 checkpoint](checkpoints/SHIBOYUGI_V01_CHECKPOINT.md#frozen-wording) retains the full pre-exposure wording. Adjudication is separate below and conjuncts are scored independently.
+
+| Forecast | Disposition at V01 exit |
+|---|---|
+| SBY-F001, conditional support | **SUPPORTED** for volunteered concrete cost (S12 P0698–0709/P0740–0775/P0825/P0830). **PARTLY_SUPPORTED** for proceeding after accepting loss in a perceived forced tradeoff (P0916–0939). The trigger is Yūki's conviction and the actual door reaction rather than proof that an alternative could not exist. |
+| SBY-F002, anomalous reach and Aoi | **SUPPORTED** for Kinko's injury and liberation from fixed reach before the key (S12 P0529–0539/P0557–0565). **SUPPORTED** for Aoi failing to emerge safely (P0544–0548/P0566–0573). Exact unsuccessful acts in Aoi's sector remain absent. |
+| SBY-F003, practical warning | **CONTRADICTED**. Yūki explains probable aggregate weight of the remaining three and access to the sauna at S12 P0770–0787. The separate category of dynamic display at P0638 stays OPEN. |
+| SBY-F004, Moegi's role | **SUPPORTED**. The direct hearing and recounted tree address establishes Moegi's group as Stumps at S15 P0237–0240/P0249–0255. |
+| SBY-F005, mentor identity | **SUPPORTED**. S15 P0613–0618 explicitly calls Kyara Moegi's mentor. Moegi names the disciple role where Yūki hears it at P0726. P0883–0895 supplies Kyara's separate account. |
+| SBY-F006, avoiding decisive combat | **CONTRADICTED**. Yūki changes the tactical premise and finds another weapon, but this culminates in direct confrontation and confirmed killing of Kyara (S15 P1076–1154), just the excluded outcome. |
+| SBY-F007, later survival evidence | **SUPPORTED**. S17 P0048–0087 shows the agent retrieve the same apparently devastated Hakushi, who speaks and chooses retirement. No confirmed mechanism beyond private alteration and feigned death. |
+| SBY-F008, Yūki near thirty | **UNRESOLVED** at V01 close. Eligible within the already authorized V02–V10 range only if a diagnostic depiction occurs. See V01 frozen text. |
+
+The evidence specialist's preserved within-unit checks are separately earlier-disclosed working records. Their traceable propositions on actual countdown activation, hard week ending and conventional fighting have been adopted through C005 and the checkpoint reconciliation while preserving the distinct exposure boundaries. No afterword or commentary informs these accepted claims.

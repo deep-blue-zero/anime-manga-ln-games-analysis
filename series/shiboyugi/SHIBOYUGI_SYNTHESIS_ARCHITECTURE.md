@@ -3,7 +3,7 @@ title: "Shiboyugi — Synthesis Architecture"
 artifact_id: SBY_SYNTHESIS_ARCHITECTURE
 artifact_type: synthesis_architecture
 series: shiboyugi
-version: "1.0"
+version: "1.1"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -12,7 +12,7 @@ authority_generation: SBY-INITIAL
 authority_scope: "INITIAL project architecture and accumulation contract only; no literary findings"
 source_boundary: "Metadata reconnaissance of supplied Japanese novel volumes 01–10; no narrative admitted"
 created: 2026-11-13
-last_updated: 2026-11-13
+last_updated: 2026-11-15
 architecture_lifecycle: INITIAL
 recommended_reasoning_class: PREMIUM_QUALITY_FIRST
 do_not_use_as_literary_evidence: true
@@ -64,7 +64,11 @@ No standalone rulebook, economic ledger, timeline, voice ledger, motif index or 
 
 Character development and relationships are intended analytical responsibilities. The readings must distinguish dispositions, states, knowledge, situational pressures, roles and relationship conditioning, including ordinary-life evidence where the source supplies it. Current plans do not presume any particular subject or cast hierarchy.
 
-An independent character monograph is earned when evidence across multiple situations or developmental boundaries supports a sustained explanatory problem that would be lost in a general synthesis. It must integrate mechanisms, diachrony, interiority access, Japanese voice, directed relationships, formal presentation, material counterevidence and rival readings. A short appearance or an attractive archetype alone does not earn a monograph. Supporting subjects can remain in source-bounded ensemble or relationship analysis.
+Apply the global [self-contained character monograph standard](../../governance/source-policies/MANGA_ANIME_PROJECT_INITIATION_AND_ARCHITECTURE_POLICY.md#551-self-contained-character-monograph-standard) to every canonical individual portrait. Consider every evidenced subject for whom convergent evidence across distinct contexts or interlocutors, including variation within a concentrated sequence, supports a differentiated portrait. Consider supporting characters and antagonists on the same source-grounded terms. The monograph supplies the complete personal portrait in one document and addresses the policy's coverage responsibilities in connected, evidence-proportional prose. Explain mechanisms and development, Japanese speech and interlocutor-conditioned choices, ordinary and crisis behavior, limitations, uncertainty and meaningful exceptions wherever the source supports them. Use the readings and ledgers for verification and deeper evidence retrieval.
+
+The state/evidence ledger owns the mutable character-monograph qualification view. At specialist readiness, and again after a material change in evidence, record each considered subject's stable ID, boundary, qualification status, evidence-based rationale, largest gaps, next review trigger and path to an actual monograph when one exists. Use the global standard's qualification vocabulary. Qualification carries a production obligation. A qualified subject's sole current portrait at its declared boundary is typed `character_monograph` and lives at `characters/SHIBOYUGI_<stable-subject-slug>_MONOGRAPH.md` under this project root. Create the qualification view when the first real assessment is due. Deferred subjects remain represented within the appropriate readings, ensemble treatment or cumulative evidence home.
+
+Before recording `COMPLETE_AT_BOUNDARY`, preserve separate self-containment and fidelity decisions in the acceptance record and link both from the qualification row. Test the portrait alone against the representative questions in the global standard, then test its material interpretations using the Japanese locators and current claim state. Prefer a reviewer other than the author. Give central or disputed portraits a monograph-only retrieval probe where feasible.
 
 A relationship specialist is earned when a directed relationship has independently accumulating changes or asymmetries that cannot be understood by placing two monographs side by side. It explains each person's knowledge, expectations, dependencies and choices, the mechanisms of change and persistent disagreement. An ensemble synthesis becomes appropriate only when group-level configuration adds an explanatory responsibility beyond dyads.
 
@@ -148,6 +152,8 @@ INITIAL becomes EVOLVING when source-grounded findings justify adaptation. STABI
 
 Backfill is bounded to material gaps. Try complete existing readings and retained evidence routes first; reread only the necessary authorized source. Do not rerun the corpus merely to adopt a cleaner template.
 
+**Foundation amendment, 2026-11-15.** Global initiation §5.5.1 (v1.12) adds a binding independently usable portrait standard. Sections 5, 13 and 16 now route qualification, production and separate acceptance results. This preserves the INITIAL design and artifact IDs. The zero-admission baseline entails no scored subjects, changed claims or source backfill.
+
 ## 13. Completion gates
 
 **Foundation review.** Method, architecture, source distinctions, day-one homes, responsibility matrix and retrieval routes are substantively adequate; current authority metadata is valid; independent review addresses material defects. This is not narrative authorization.
@@ -158,13 +164,13 @@ Backfill is bounded to material gaps. Try complete existing readings and retaine
 
 **Longitudinal reconciliation.** Subject identities, directional relations, chronology/disclosure, knowledge, constraint evidence, revision history and unresolved disagreements can be traced through the boundary. No important recurrent observation is orphaned and no ledger quietly overwrites an earlier state.
 
-**Specialist readiness.** Conduct the architecture/role-gap audit; define earned specialists and explicit non-specialist destinations; retrieve complete readings and arguments; identify required versus optional channels; stabilize material claims enough for each assigned question. Open claims can be carried honestly; unresolved necessary evidence cannot be hidden.
+**Specialist readiness.** Conduct the architecture/role-gap audit and record monograph qualification with the state/evidence ledger. Define earned specialists and explicit non-specialist destinations, retrieve complete readings and arguments, identify required and optional channels, and stabilize material claims enough for each assigned question. Carry unresolved claims with their limits and record evidence gaps that affect readiness.
 
-**Integrated-synthesis readiness.** The needed specialist responsibilities are complete for their scopes, dependencies and contradictions are reconciled or bounded, counterarguments remain available and source channels supporting central claims are inspected. Sequential completion alone never satisfies this gate.
+**Integrated-synthesis readiness.** The needed specialist responsibilities are complete for their scopes, dependencies and contradictions are reconciled or bounded, counterarguments remain available and source channels supporting central claims are inspected. List outstanding qualified portraits and their acceptance debt. Complete the character layer when every qualified portrait has passed both reviews.
 
 **Validation and acceptance.** Review source-boundary fidelity, full arguments, representative locators and contested/high-impact evidence, named-reference clarity, preservation, and required-channel debts. Reconstruction validation and independent evaluator capability assessment remain separate from literary acceptance and owner-authorized use.
 
-**Freeze/release.** Confirm scope, stable authority routes, exact retained artifacts, approved limitations and appropriate archival metadata. Apply current repository run-stop/terminal-closure rules when relevant; do not create an empty closure record for this zero-reading bootstrap. Release of a foundation does not open source admission.
+**Freeze/release.** Confirm scope, stable authority routes, exact retained artifacts, approved limitations, listed monograph obligations and appropriate archival metadata. Apply current repository run-stop/terminal-closure rules when relevant; do not create an empty closure record for this zero-reading bootstrap. Release of a foundation does not open source admission.
 
 ## 14. Reasoning, stage ownership and handoff
 
@@ -192,7 +198,7 @@ Start at the current entrypoint, read the governing pair, identify the relevant 
 |---|---|---|---|---|
 | Witness, edition and components | Receipt, coverage, excluded extras and inspection limits | Source register | Every synthesis's explicit source boundary | Initialized with ten metadata-matched slots; all unadmitted |
 | Current-unit events and causal form | Synopsis plus distinct sustained causal reading | Full unit reading; state ledger routes material changes | Narration/causality responsibility in integrated synthesis, specialist if earned | Contract ready; no reading exists |
-| Character development and interiority | Situated behavior, appraisal, alternatives and contrary cases | State/evidence ledger with full-reading links | Earned character monographs or integrated subject treatment | Zero-subject baseline |
+| Character development and interiority | Situated behavior, appraisal, ordinary-life evidence, alternatives and contrary cases | State/evidence ledger with full-reading links and qualification view when due | Qualified individual portraits under `characters/`, with separate self-containment and fidelity records | Zero-subject baseline |
 | Directed relationships | Asymmetric state and evidence of change | State/evidence ledger | Earned dyadic/ensemble synthesis | Zero-relation baseline |
 | Knowledge, chronology and disclosure | Scene, unit-end and project frontiers | State/evidence ledger | Narration/epistemic integration | Zero-event/knowledge baseline |
 | Asserted constraints and actual enforcement | Only when the prose presents them; separate belief from observation | State/evidence ledger; claim ledger for interpretations | Conditional rule/constraint specialist or integrated discussion | Design question; no presumed system |
