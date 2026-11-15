@@ -15,7 +15,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 - `STALE` and `SUPERSEDED` assessments are historical records, reproducible at their basis commits.
 - Verify present applicability against an exact integrated commit before relying on any assessment with `python tools/reconstruction_status.py currentness --snapshot commit --commit <full-main-sha>`. Only the derived state `CURRENT_REVIEWED` means that a human-reviewed assessment still applies to that commit.
 
-- Recorded totals: `CANDIDATE` 140; `SUPERSEDED` 29
+- Recorded totals: `CANDIDATE` 141; `SUPERSEDED` 29
 
 ## Namespaces
 
@@ -25,6 +25,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | [`azur-lane`](reconstruction_index/azur-lane.md) | 2 | 2 |
 | [`blue-archive`](reconstruction_index/blue-archive.md) | 3 | 3 |
 | [`chiramune`](reconstruction_index/chiramune.md) | 1 | 1 |
+| [`classroom-of-the-elite`](reconstruction_index/classroom-of-the-elite.md) | 1 | 1 |
 | [`cornered-mouse`](reconstruction_index/cornered-mouse.md) | 2 | 2 |
 | [`cosmic-princess-kaguya`](reconstruction_index/cosmic-princess-kaguya.md) | 1 | 1 |
 | [`genshin-impact`](reconstruction_index/genshin-impact.md) | 1 | 1 |
@@ -60,6 +61,7 @@ Each recorded assessment is listed once below and links to its generated namespa
 | `blue-archive:kokuriko@game` | [`blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01`](reconstruction_index/blue-archive.md#blue-archive-kokuriko-game-monograph-trio-synthesis-20261107-01) | `CANDIDATE` | `E` | `0f3b661d66455030cb663d9486a11879f0911cf9` |
 | `blue-archive:prenapates@game` | [`blue-archive-prenapates-game-character-monograph-20261106-01`](reconstruction_index/blue-archive.md#blue-archive-prenapates-game-character-monograph-20261106-01) | `CANDIDATE` | `E` | `1ec6a88d6120d2e28a07c5e99a809ab985f67302` |
 | `chiramune:yua-uchida@light-novel` | [`chiramune-yua-uchida-light-novel-yua-monograph-20261115-01`](reconstruction_index/chiramune.md#chiramune-yua-uchida-light-novel-yua-monograph-20261115-01) | `CANDIDATE` | `C` | `7d8ece76cbefeea3eb1d7cd02d4ca99e41966d4a` |
+| `classroom-of-the-elite:horikita-suzune@original-light-novels-through-year-2` | [`classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01`](reconstruction_index/classroom-of-the-elite.md#classroom-of-the-elite-horikita-suzune-y2-specialist-20261115-01) | `CANDIDATE` | `B` | `77ce4cedf3a09bd7ad0c134dfb1be830d7f683d6` |
 | `cornered-mouse:natsuki@manga` | [`cornered-mouse-natsuki-manga-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-natsuki-manga-monograph-20261031-01) | `CANDIDATE` | `E` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cornered-mouse:okamura-tamaki@manga` | [`cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01`](reconstruction_index/cornered-mouse.md#cornered-mouse-okamura-tamaki-manga-u10-monograph-20261031-01) | `CANDIDATE` | `D` | `a19a4f04e45b0b401719ef28bc35496aa34e12e5` |
 | `cosmic-princess-kaguya:sakayori-iroha@film` | [`cosmic-princess-kaguya-sakayori-iroha-film-cpk-int-distributed-20261115-01`](reconstruction_index/cosmic-princess-kaguya.md#cosmic-princess-kaguya-sakayori-iroha-film-cpk-int-distributed-20261115-01) | `CANDIDATE` | `C` | `37420811a01fed356ae09d34a57531c8a19292d4` |
