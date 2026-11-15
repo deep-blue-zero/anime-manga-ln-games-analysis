@@ -15,6 +15,47 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+              "canonical_audio_asset_id": "wav:5d4fb9f4e29655d2e51f8d1a1b0157b721f695d9bdd193d580fd5ed30357d08f",
+              "wav_sha256": "5d4fb9f4e29655d2e51f8d1a1b0157b721f695d9bdd193d580fd5ed30357d08f"
+            },
+            {
+              "cue": "vo_event_101002_01_01_312",
+              "canonical_audio_asset_id": "wav:1abb6592c07bb8bd0ffb186af621179f5198c5b7689e216d2f79957fe32359e9",
+              "wav_sha256": "1abb6592c07bb8bd0ffb186af621179f5198c5b7689e216d2f79957fe32359e9"
+            },
+            {
+              "cue": "vo_event_101002_01_01_313",
+              "canonical_audio_asset_id": "wav:eaed8ada4640a3be7e431bf3667b814cf911e0f196d7c76c167dc523b68bbea6",
+              "wav_sha256": "eaed8ada4640a3be7e431bf3667b814cf911e0f196d7c76c167dc523b68bbea6"
+            },
+            {
+              "cue": "vo_event_101002_01_01_314",
+              "canonical_audio_asset_id": "wav:375d85df2e12b7db404c312387812c30bdb2524f093b550a4071620d6e056a73",
+              "wav_sha256": "375d85df2e12b7db404c312387812c30bdb2524f093b550a4071620d6e056a73"
+            },
+            {
+              "cue": "vo_event_101002_01_01_315",
+              "canonical_audio_asset_id": "wav:64e124e4a26b1e5511290212fefbc5c4914b07763d979c2ce2e0e1e5f84f6253",
+              "wav_sha256": "64e124e4a26b1e5511290212fefbc5c4914b07763d979c2ce2e0e1e5f84f6253"
+            },
+            {
+              "cue": "vo_event_101002_01_01_316",
+              "canonical_audio_asset_id": "wav:529f5153dbf9c5ef4823b4c54b92b21bbe8b8c574fb9c3c9329f60ba38ceb6c2",
+              "wav_sha256": "529f5153dbf9c5ef4823b4c54b92b21bbe8b8c574fb9c3c9329f60ba38ceb6c2"
+            },
+            {
+              "cue": "vo_event_101002_01_01_317",
+              "canonical_audio_asset_id": "wav:2486051cd4eb7695dd0e92b160600d2b4dacbe2466502f4d06e6ac22d9fccabd",
+              "wav_sha256": "2486051cd4eb7695dd0e92b160600d2b4dacbe2466502f4d06e6ac22d9fccabd"
+            },
+            {
+              "cue": "vo_event_101002_01_01_318",
+              "canonical_audio_asset_id": "wav:a6654f220b1df77976f575fb8e0642362056a6f412aa4fa79a21bbac5fb7fdc6",
+              "wav_sha256": "a6654f220b1df77976f575fb8e0642362056a6f412aa4fa79a21bbac5fb7fdc6"
+            },
+            {
+              "cue": "vo_event_101002_01_01_319",
+              "canonical_audio_asset_id": "wav:6152172f5d8eeeb733708b50a52d5bc4bacb615f72cbdcd6bcbd7eb6a219ca04",
               "wav_sha256": "6152172f5d8eeeb733708b50a52d5bc4bacb615f72cbdcd6bcbd7eb6a219ca04"
             },
             {
@@ -7614,70 +7655,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
             "vo_ing3_053_01_01_138",
             "vo_ing3_053_01_01_139",
             "vo_ing3_053_01_01_140",
-            "vo_ing3_053_01_01_141",
-            "vo_ing3_053_01_01_142",
-            "vo_ing3_053_01_01_143",
-            "vo_ing3_053_01_01_144",
-            "vo_ing3_053_01_01_145",
-            "vo_ing3_053_01_01_146",
-            "vo_ing3_053_01_01_147",
-            "vo_ing3_053_01_01_148",
-            "vo_ing3_053_01_01_149",
-            "vo_ing3_053_01_01_150",
-            "vo_ing3_053_01_01_151",
-            "vo_ing3_053_01_01_152",
-            "vo_ing3_053_01_01_153",
-            "vo_ing3_053_01_01_154",
-            "vo_ing3_053_01_01_155",
-            "vo_ing3_053_01_01_156",
-            "vo_ing3_053_01_01_157",
-            "vo_ing3_053_01_01_158",
-            "vo_ing3_053_01_01_159",
-            "vo_ing3_053_01_01_160",
-            "vo_ing3_053_01_01_161",
-            "vo_ing3_053_01_01_162",
-            "vo_ing3_053_01_01_163",
-            "vo_ing3_053_01_01_164",
-            "vo_ing3_053_01_01_165",
-            "vo_ing3_053_01_01_166",
-            "vo_ing3_053_01_01_167",
-            "vo_ing3_053_01_01_168",
-            "vo_ing3_053_01_01_169",
-            "vo_ing3_053_01_01_170",
-            "vo_ing3_053_01_01_171",
-            "vo_ing3_053_01_01_172",
-            "vo_ing3_053_01_01_173",
-            "vo_ing3_053_01_01_174",
-            "vo_ing3_053_01_01_175",
-            "vo_ing3_053_01_01_176",
-            "vo_ing3_053_01_01_177",
-            "vo_ing3_053_01_01_180",
-            "vo_ing3_title_053_01_00"
-          ],
-          "dialogue_voice_cues": [
-            "vo_ing3_053_01_01_001",
-            "vo_ing3_053_01_01_002",
-            "vo_ing3_053_01_01_003",
-            "vo_ing3_053_01_01_004",
-            "vo_ing3_053_01_01_005",
-            "vo_ing3_053_01_01_006",
-            "vo_ing3_053_01_01_007",
-            "vo_ing3_053_01_01_008",
-            "vo_ing3_053_01_01_009",
-            "vo_ing3_053_01_01_010",
-            "vo_ing3_053_01_01_011",
-            "vo_ing3_053_01_01_012",
-            "vo_ing3_053_01_01_013",
-            "vo_ing3_053_01_01_014",
-            "vo_ing3_053_01_01_015",
-            "vo_ing3_053_01_01_016",
-            "vo_ing3_053_01_01_017",
-            "vo_ing3_053_01_01_018",
-            "vo_ing3_053_01_01_019",
-            "vo_ing3_053_01_01_020",
-            "vo_ing3_053_01_01_021",
-            "vo_ing3_053_01_01_022",
-            "vo_ing3_053_01_01_023",
-            "vo_ing3_053_01_01_024",
-            "vo_ing3_053_01_01_025",
 <!-- T7S SOURCE LOCK PAYLOAD END -->

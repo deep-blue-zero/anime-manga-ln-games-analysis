@@ -15,6 +15,17 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+        "script_id": "bdmemory_026_0919.json__7627e6bfceb1c369",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          18
+        ],
+        "log_order_index": [
+          0,
+          18
+        ],
+        "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0237_DEEP_READING.md"
       },
       {
@@ -2791,11 +2802,26 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
         ],
         "choice_scope": "NONE",
         "canonical_artifact": "02 Readings/T7S_B0259_DEEP_READING.md"
+      },
+      {
+        "episode_id": "519026601",
+        "script_id": "memory_0266.json__a06f7239c4d0f87b",
+        "document_ref": "primary",
+        "page_index": [
+          0,
+          243
+        ],
+        "log_order_index": [
+          0,
+          243
+        ],
+        "canonical_artifact": "02 Readings/T7S_B0260_DEEP_READING.md",
+        "choice_scope": "NONE"
       }
     ],
     "next_candidate_episode_id": "",
     "next_candidate_native_chapter_layer_id": null,
-    "next_candidate_status": "AUTHORIZED_REMAINING_2034_SCOPE_PREPARATION_ONLY;Event157/231documents_42/58portfolios_closed;74Eventplus_supplemental_and_release;fresh_consumers_entering_and_reviewed_budget_required;2053blocked",
+    "next_candidate_status": "REMAINING_2034_RELEASE_OBLIGATIONS_PREPARATION_ONLY_FRESH_ENTERING_REQUIRED",
     "authorized_story_boundary_complete": false,
     "next_candidate_family_layer_id": "",
     "next_candidate_portfolio_route_key": null
@@ -2945,6 +2971,57 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "runtime_validation": "Historical four-script sample: 49 unique observed pages, 47 dialogue and 2 title; not complete playback"
   },
   "integrity": {
+    "b0260_close_verification": {
+      "status": "PASS_B0260_SEMANTIC_SOURCE_REVIEW_COMPLETE",
+      "source_evidence_sha256": "b778acb60d43eeff1c4e7d5827b2dfa315a8a344e04c5f51ce51dda5fd663784",
+      "semantic_review_sha256": "df4a2d6e7b497ea2c6ade402fa5b15450c398f680daf09954c3a55d763f8ead2",
+      "case_freeze_sha256": "c73d07091c99fc6b0cf4854f8caa6e764fb7c67276263270d4f987d36e122721",
+      "family_freeze_sha256": "0b37ac3fb16f90b867ecc534a5c382449028c6968f5bb9af1cbfcf5c52c80276",
+      "reading_sha256": "cf52048c6b7a2950b9f3b863a20ba33beffd5055564c4c3d775958ed0e2336dc",
+      "original_family": "NM-EVENT-200620",
+      "category_id": 2,
+      "catalog_row": 945,
+      "exact_native_page_and_log_range": [
+        0,
+        243
+      ],
+      "distinct_inspected_original_stills": 19,
+      "selected_still_occurrences": 20,
+      "dialogue_associated_voice_cues_unheard": 163,
+      "title_voice_cues_unheard": 1,
+      "unvoiced_player_written_turns": 16,
+      "runtime_observed": false,
+      "actual_ready_promotions": 0,
+      "typed_deltas": {
+        "AV_reviews": 1,
+        "character_states": 0,
+        "chronology_and_dependency_edges": 12,
+        "claims": 12,
+        "directional_relationship_states": 5,
+        "epistemic_states": 12,
+        "event_records": 13,
+        "identity_routes": 0,
+        "predictions": 0,
+        "readiness_decisions": 0,
+        "revisions": 0,
+        "thread_records": 0,
+        "unit_states": 0,
+        "world_state_records": 0
+      },
+      "operation": "T7S_B0260_CLOSE",
+      "checked_at": "2026-11-14",
+      "prospective_date": "2026-11-14",
+      "episode_ids": [
+        "519026601"
+      ],
+      "original_portfolio_route_keys": [
+        "NM-EVENT-200620"
+      ],
+      "text_pages": 179,
+      "native_pages": 244,
+      "command_pages": 65,
+      "coverage_effective_state_sha256": "4fa8504f780323a31109394934934aba15ae5b5e5752f91a0b25197803d976de"
+    },
     "b0259_close_verification": {
       "post_entry_projection_date_rebind_sha256": "a5e8b118621cda718cbf0487a3495a4449075b37ccf4af9fbfd2011f8285ef44",
       "operational_projection_code_sha256": "7cf6e0d05c4c97bbf0ef06f64aca0c9db6198d45fcd55b8b2e01a39b3bab5716",
@@ -8922,47 +8999,4 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
             {
               "cue": "vo_event_101007_01_01_331",
               "canonical_audio_asset_id": "wav:299ee7508146a107ee4731285d4709908517ae14e1a3bb7d8db1886187e3f48e",
-              "wav_sha256": "299ee7508146a107ee4731285d4709908517ae14e1a3bb7d8db1886187e3f48e"
-            },
-            {
-              "cue": "vo_event_101007_01_01_332",
-              "canonical_audio_asset_id": "wav:72b1f94a8b819fb60bd5ead7d551d4e6eeab8060c9c99b4e0c450c6ca4648c52",
-              "wav_sha256": "72b1f94a8b819fb60bd5ead7d551d4e6eeab8060c9c99b4e0c450c6ca4648c52"
-            },
-            {
-              "cue": "vo_event_101007_01_01_333",
-              "canonical_audio_asset_id": "wav:94896353066cdb19a080a25945a195d44693b1228e23c362e2bd2a279f29434b",
-              "wav_sha256": "94896353066cdb19a080a25945a195d44693b1228e23c362e2bd2a279f29434b"
-            },
-            {
-              "cue": "vo_event_101007_01_01_334",
-              "canonical_audio_asset_id": "wav:3c9f57e71ede4b55f18de852faf66f858dec63525ed95fc18a99ccb91910e515",
-              "wav_sha256": "3c9f57e71ede4b55f18de852faf66f858dec63525ed95fc18a99ccb91910e515"
-            },
-            {
-              "cue": "vo_event_101007_01_01_335",
-              "canonical_audio_asset_id": "wav:8d34ee70472d58fa08bf715cbe361d2ba38f1536273d6f82b26ace11fe505b4b",
-              "wav_sha256": "8d34ee70472d58fa08bf715cbe361d2ba38f1536273d6f82b26ace11fe505b4b"
-            },
-            {
-              "cue": "vo_event_101007_01_01_336",
-              "canonical_audio_asset_id": "wav:1cd59f56daaa135add9dd3ec00d92e509e9c3309ffb74fa888d7d58fd8708de7",
-              "wav_sha256": "1cd59f56daaa135add9dd3ec00d92e509e9c3309ffb74fa888d7d58fd8708de7"
-            },
-            {
-              "cue": "vo_event_101007_01_01_337",
-              "canonical_audio_asset_id": "wav:7d75c23833e55bd0879d0f9972f895982d3908905fbe385858c42091583c6760",
-              "wav_sha256": "7d75c23833e55bd0879d0f9972f895982d3908905fbe385858c42091583c6760"
-            },
-            {
-              "cue": "vo_event_101007_01_01_338",
-              "canonical_audio_asset_id": "wav:6c6c226f79f4fc7795696a9a0647a853ab1a6c9e925a93b3a5cd06f7da75085b",
-              "wav_sha256": "6c6c226f79f4fc7795696a9a0647a853ab1a6c9e925a93b3a5cd06f7da75085b"
-            },
-            {
-              "cue": "vo_event_101007_01_01_339",
-              "canonical_audio_asset_id": "wav:5033c9811798295586c19e9a6e5e1e6f2533cf30977d45960e5c4394a79814d4",
-              "wav_sha256": "5033c9811798295586c19e9a6e5e1e6f2533cf30977d45960e5c4394a79814d4"
-            },
-            {
 <!-- T7S SOURCE LOCK PAYLOAD END -->
