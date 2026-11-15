@@ -15,7 +15,7 @@ do_not_use_as_current_authority: false
 
 # Revue Starlight — V2 Audiovisual Reconciliation
 
-**Spoilers through the film's post-credit scene.** This record applies to the listed claims in the original OpenAI synthesis. It integrates observations from Gemini's CP16 freeze and CP18 Track C handoff where they survived source review. The [verified witness inventory](../01%20Source%20Lock%20and%20Inventory/SOURCE_WITNESS_SUPPLEMENT_V2.md) gives the source identities and clocks. The [V1 erratum](../07%20Audits%20and%20Manifests/V1_STRUCTURAL_AND_CHECKSUM_ERRATUM.md) records the V1 package checksum mismatch and locates overlapping text.
+**Spoilers through the film's post-credit scene.** This record applies to the listed claims in the original OpenAI synthesis. It integrates observations from [Gemini's CP16 freeze](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP16_independent_freeze/07_freeze/RS_AV_R2_IMMUTABLE_FREEZE_MANIFEST.md) and [CP18 Track C handoff](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP18_track_c_reconciliation/README.md) (archived with [CP17A](../checkpoints/RS-AV-R2-GEMINI-CARBON/CP17A_comparative_audit/README.md) under [checkpoints/RS-AV-R2-GEMINI-CARBON/](../checkpoints/RS-AV-R2-GEMINI-CARBON/PUBLICATION_README.md)) where they survived source review. The [verified witness inventory](../01%20Source%20Lock%20and%20Inventory/SOURCE_WITNESS_SUPPLEMENT_V2.md) gives the source identities and clocks. The [V1 erratum](../07%20Audits%20and%20Manifests/V1_STRUCTURAL_AND_CHECKSUM_ERRATUM.md) records the V1 package checksum mismatch and locates overlapping text.
 
 ## Review record
 
