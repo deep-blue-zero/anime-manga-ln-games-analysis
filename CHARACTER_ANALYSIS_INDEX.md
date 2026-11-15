@@ -21,6 +21,7 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [`chiramune`](characters/index/chiramune.md) | 10 |
 | [`classroom-of-the-elite`](characters/index/classroom-of-the-elite.md) | 8 |
 | [`cornered-mouse`](characters/index/cornered-mouse.md) | 4 |
+| [`cosmic-princess-kaguya`](characters/index/cosmic-princess-kaguya.md) | 1 |
 | [`genocidal-organ`](characters/index/genocidal-organ.md) | 2 |
 | [`genshin-impact`](characters/index/genshin-impact.md) | 1 |
 | [`harmony`](characters/index/harmony.md) | 6 |
@@ -650,5 +651,6 @@ Each reviewed analysis subject is listed once below and links to its generated n
 | [越前ムラサキ](characters/index/tokyo-7th-sisters.md#echizen-murasaki) | Tokyo 7th Sisters game | `tokyo-7th-sisters:echizen-murasaki@game` | — |
 | [逢原ミウ](characters/index/tokyo-7th-sisters.md#aihara-miu) | Tokyo 7th Sisters game | `tokyo-7th-sisters:aihara-miu@game` | — |
 | [遊佐メモル](characters/index/tokyo-7th-sisters.md#yusa-memoru) | Tokyo 7th Sisters game | `tokyo-7th-sisters:yusa-memoru@game` | — |
+| [酒寄彩葉](characters/index/cosmic-princess-kaguya.md#sakayori-iroha) | Cosmic Princess Kaguya! feature film | `cosmic-princess-kaguya:sakayori-iroha@film` | Sakayori Iroha; いろP |
 | [雲巻モナカ](characters/index/tokyo-7th-sisters.md#kumomaki-monaka) | Tokyo 7th Sisters game | `tokyo-7th-sisters:kumomaki-monaka@game` | — |
 | [鳳チャチャ](characters/index/tokyo-7th-sisters.md#otori-chacha) | Tokyo 7th Sisters game | `tokyo-7th-sisters:otori-chacha@game` | — |

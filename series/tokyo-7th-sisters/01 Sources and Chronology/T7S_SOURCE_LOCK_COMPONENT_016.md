@@ -15,6 +15,65 @@ superseded_by: []
 Ordered byte interval of the complete logical SourceLock; read only through its current owner and manifest. No primary-source payload.
 
 <!-- T7S SOURCE LOCK PAYLOAD BEGIN -->
+          "face_sha256": "97fe30cf63c1129ee205d377d50734552c7c0aef01a89c09a294ec7f8b367c61",
+          "native_face_offset": [
+            145,
+            74
+          ],
+          "output_sha256": "1d8ef4b815ec55e63ade2bdf2f57a28700ca3e7ed89245611da285c1f99a32cc"
+        },
+        {
+          "resource": "adv_chara_130_04_02",
+          "body": "adv_chara_130_04.png",
+          "body_sha256": "e89e5ac02c174f3534d617abbdcfafb003861d31ee34bdfbfcb4745b7d886318",
+          "face": "adv_chara_130_04_02.png",
+          "face_sha256": "c90abcbe4946d4c6c5ee801f0379afc58509d7c75595f739cac28e3d0143a5b9",
+          "native_face_offset": [
+            145,
+            74
+          ],
+          "output_sha256": "5950033d93b9bf144eb9dd0f178e70eec4b5d0e43220a6bc8e4974e39fba3e15"
+        },
+        {
+          "resource": "adv_chara_130_04_06",
+          "body": "adv_chara_130_04.png",
+          "body_sha256": "e89e5ac02c174f3534d617abbdcfafb003861d31ee34bdfbfcb4745b7d886318",
+          "face": "adv_chara_130_04_06.png",
+          "face_sha256": "1cb9af457487f105ca19a2fa2968ae46fedd55a1129b707fad44446b99b5817e",
+          "native_face_offset": [
+            145,
+            74
+          ],
+          "output_sha256": "9b1c7f2aad104ca557541feb22fcf4d00d9fd2e0671e8a8aef204a4fbed0fb98"
+        },
+        {
+          "resource": "adv_chara_130_04_07",
+          "body": "adv_chara_130_04.png",
+          "body_sha256": "e89e5ac02c174f3534d617abbdcfafb003861d31ee34bdfbfcb4745b7d886318",
+          "face": "adv_chara_130_04_07.png",
+          "face_sha256": "40e56c9f031d512005ea7e387cad2225b5c9a7de8c515f9107cc29268629b4b3",
+          "native_face_offset": [
+            145,
+            74
+          ],
+          "output_sha256": "ff552ef54d1d700a9189c43510ca9fcec7fd801c3209e85d6bc2f3d1859dcec1"
+        },
+        {
+          "resource": "adv_chara_130_04_08",
+          "body": "adv_chara_130_04.png",
+          "body_sha256": "e89e5ac02c174f3534d617abbdcfafb003861d31ee34bdfbfcb4745b7d886318",
+          "face": "adv_chara_130_04_08.png",
+          "face_sha256": "9e56a93f97450a71133c3433ad43befe0bcf0f0c3a359d8f5be0ea7be9a69370",
+          "native_face_offset": [
+            145,
+            74
+          ],
+          "output_sha256": "72de45a7e92892494bd4b26ae6fe87d64d8e447eb6f84e48107c57f1019da37a"
+        },
+        {
+          "resource": "adv_chara_130_06_01",
+          "body": "adv_chara_130_06.png",
+          "body_sha256": "843e44d48808557f0e40276c802709a847e7390288b69620646d6554f64dc31c",
           "face": "adv_chara_130_06_01.png",
           "face_sha256": "8613b71c7596da79f24738229252a0627d1dbd825b6f188c86fc08f99a4f0afb",
           "native_face_offset": [
@@ -3466,7 +3525,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "entity_state_ledger": {
       "schema": "t7s-analysis/entity-state-storage-manifest/v1",
       "path": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER_MANIFEST.json",
-      "sha256": "899bf096bbdcf4ddf3602d99010a37975e05a5a899e501a0a1b6ff9bef4e4c30",
+      "sha256": "bbba992189a6ebabc0d93a349818ed30667a9c7473409d4c81166ef091b61b46",
       "logical_artifact_id": "T7S_ENTITY_STATE_LEDGER",
       "current_owner": "03 Longitudinal Ledgers/T7S_ENTITY_STATE_LEDGER.md",
       "physical_component_caps_unchanged": true,
@@ -3484,7 +3543,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "coverage_ledger": {
       "schema": "t7s-analysis/coverage-routing-manifest/v1",
       "path": "01 Sources and Chronology/T7S_COVERAGE_AND_ROUTING_MANIFEST.json",
-      "sha256": "f49c0994e4ed763327f648de9a1aa87a8146133ebe0f5ea09ad69a66c232fee5",
+      "sha256": "dc17f85d76b360be8d19840086554a05772581127e444638bd7bfaebf7beaf4b",
       "logical_roles": [
         "CURRENT_OR_CONSUMED",
         "ROUTED_OR_UNCONSUMED"
@@ -3495,7 +3554,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "story_causal_state_ledger": {
       "schema": "t7s-analysis/story-causal-state-storage-manifest/v1",
       "path": "03 Longitudinal Ledgers/T7S_STORY_CAUSAL_STATE_LEDGER_MANIFEST.json",
-      "sha256": "1a5bd9801c32d685b493b2e4f0ec6c436149a0f5002df4d27837b27902b8fa21",
+      "sha256": "b634187c9018d14e9ee412c754bf9b6a274df09fd383a8e40b5b7dd2e9b86bd5",
       "logical_artifact_id": "T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER",
       "current_owner": "03 Longitudinal Ledgers/T7S_STORY_CHRONOLOGY_AND_CAUSAL_STATE_LEDGER.md",
       "physical_component_caps_unchanged": true,
@@ -3505,7 +3564,7 @@ Ordered byte interval of the complete logical SourceLock; read only through its 
     "claim_evidence_ledger": {
       "schema": "t7s-analysis/claim-evidence-storage-manifest/v1",
       "path": "03 Longitudinal Ledgers/T7S_CLAIM_EVIDENCE_LEDGER_MANIFEST.json",
-      "sha256": "6da6092c534404ec6b138de2e145ffe957f33ad6bcf0f58f03050962f40f4f4c",
+      "sha256": "741c650b3f1e3d2b8ae92dc6e05224e330dcca756d60ae4116f6a0cf245fc386",
       "logical_artifact_id": "T7S_CLAIM_AND_EVIDENCE_LEDGER",
       "current_owner": "03 Longitudinal Ledgers/T7S_CLAIM_AND_EVIDENCE_LEDGER.md",
       "physical_component_caps_unchanged": true,
