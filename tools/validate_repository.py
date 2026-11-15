@@ -4263,6 +4263,18 @@ def _reconstruction_delta_paths(root: Path, kind: str, base: str, commit: str | 
     return paths
 
 
+def reconstruction_output_isolation_errors(changed: set[str]) -> list[str]:
+    """Evaluator outputs change alone, unless the reconstruction policy changes with them."""
+
+    production = {path for path in changed if is_reconstruction_output(path)}
+    if production and changed - production and RECONSTRUCTION_POLICY_PATH not in changed:
+        return [
+            "reconstruction production outputs must change alone; other changed paths: "
+            + str(sorted(changed - production, key=lambda item: item.encode("utf-8")))
+        ]
+    return []
+
+
 def validate_reconstruction_domain(
     root: Path,
     snapshot: GitSnapshot,
@@ -4389,12 +4401,7 @@ def validate_reconstruction_domain(
         except DomainError as exc:
             errors.append(f"unable to determine the reconstruction delta: {exc}")
             changed = set()
-        production = {path for path in changed if is_reconstruction_output(path)}
-        if production and changed - production and RECONSTRUCTION_POLICY_PATH not in changed:
-            errors.append(
-                "reconstruction production outputs must change alone; other changed paths: "
-                + str(sorted(changed - production, key=lambda item: item.encode("utf-8")))
-            )
+        errors.extend(reconstruction_output_isolation_errors(changed))
     if output is not None and not evaluation.errors:
         try:
             rendered = render_reconstruction_outputs(assessments, evaluation.basis_entries)
