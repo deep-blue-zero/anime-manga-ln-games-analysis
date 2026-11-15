@@ -3,7 +3,7 @@ title: "Shiboyugi — Source Register"
 artifact_id: SBY_SOURCE_REGISTER
 artifact_type: source_register
 series: shiboyugi
-version: "1.8"
+version: "1.9"
 status: canonical
 supersedes: []
 superseded_by: []
@@ -139,3 +139,7 @@ The principal read all 2,362 Japanese positions in S14/S16/S18/S20/S22, includin
 ## V07 coverage and the narrative text plate
 
 The principal, evidence, language and character readers each independently covered all 2,371 Japanese paragraph and layout positions in S14/S16/S19/S21/S23/S25, and the six placed originals S15/S17/S18/S20/S22/S24 in presentation order. S17-I01 is an all-text narrative plate, visually read in full at its location between the apartment chapter and the next captioned frontispiece. The ten same-volume covers, profiles and title originals S01–10 were delayed to unit end. S12 was then identified as contents navigation. Independent critical review reopened original prose and checked the sixteen eligible assets and the S12 boundary. The verified unchanged EPUB retains its non-first mimetype warning with all rasters decodable. S11/S13 and S26–34 are outside the literary reading, including excluded navigation artwork and withheld indeterminate S27/S28. The [V07 reading](readings/SHIBOYUGI_V07_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V07_CHECKPOINT.md) route the evidence findings and cover their exposure boundaries.
+
+## V08 coverage and delayed apparatus
+
+Four full reading roles each independently covered all 2,220 numbered Japanese paragraph/layout positions in S14/S16/S18/S20/S22 and the four original interleaves S15/S17/S19/S21 at their positions. Their independent exits precede inspection of ten delayed cover, profile and title originals at S01–10. S12 was classified at exit as graphical contents. The critical role reopened decisive Japanese with the same admitted visual boundaries and reviewed the exact staged transaction. The unchanged archive has mimetype first and all nineteen rasters decode. S11/S13 and S23 onward are outside the literary boundary, including withheld indeterminate S26, afterword and bonus material. The [V08 reading](readings/SHIBOYUGI_V08_DEEP_READING.md) and [checkpoint](checkpoints/SHIBOYUGI_V08_CHECKPOINT.md) give the specific evidence and custody bounds.
