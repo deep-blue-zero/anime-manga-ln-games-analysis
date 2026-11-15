@@ -2,11 +2,11 @@
 title: Manga / Anime Analytical Handoff and Integration Contract
 artifact_id: MANGA_ANIME_ANALYTICAL_HANDOFF_AND_INTEGRATION_CONTRACT
 artifact_type: analytical_handoff_integration_contract
-version: "1.2"
+version: "1.3"
 status: canonical
 scope: cross-session analytical transfer, evidence-state preservation, receipt, integration acceptance, and the named-subject and referential-clarity standard for analytical prose
 created: 2026-09-13
-last_updated: 2026-10-24
+last_updated: 2026-11-15
 maintainer: ChatGPT + user
 do_not_use_as_current_authority: false
 do_not_use_as_literary_evidence: true
@@ -29,6 +29,8 @@ The reusable [stage handoff template](templates/MANGA_ANIME_ANALYTICAL_STAGE_HAN
 Use this contract when responsibility moves to a different session/environment and the receiving operation could otherwise lose scope, source provenance, analytical substance, unresolved evidence needs, or concurrency state. Important examples are architecture-to-local integration, local-to-cloud synthesis, cloud-to-local AV completion, and interrupted long-run recovery. The [audiovisual reconciliation protocol](MANGA_ANIME_AUDIOVISUAL_RECONCILIATION_PROTOCOL.md) specializes this contract for the relay between bundle-mediated reading and continuous audiovisual review.
 
 A trivial internal action need not create a new artifact. For substantial transfers, use one operational packet with one start-here surface. This packet does not become another current series entrypoint.
+
+Specialist and reviewer contributions inside one source-unit transaction ([topology Section 4.1](MANGA_ANIME_EXECUTION_TOPOLOGY_AND_CAPABILITY_ROUTING_POLICY.md#multi-agent-source-reading)) are preserved in that unit's transaction record under topology Section 4.1.5. They need a packet under this contract only when a responsibility, rather than a contribution, changes hands, or when substantial work would otherwise be lost.
 
 ## 2. Identity, scope, and authority
 
@@ -165,6 +167,8 @@ A full raw-source reread is not universally required. Verify the sources needed 
 
 For AV integration, verify the actual inspection route and whether new findings change interpretation. For mature synthesis, check that it makes an argument rather than restates headings. For reconstruction, check its behavior/state constraints and prediction responsibilities separately from literary prose.
 
+For a substantive sequential source reading, acceptance also establishes the criteria of topology Section 4.1.6. A multi-agent review receipt is evidence of process, not of correctness.
+
 Passing a repository validator is necessary where required, but it is not a literary-quality certificate.
 
 ## 12. Publication receipt and promotion
@@ -243,6 +247,10 @@ Before semantic acceptance, authority promotion, or integration of substantial a
 A mechanical scanner may list candidate labels for review. It must not certify correctness by frequency counts, and it must not perform automatic substitution. The check requires human-readable semantic judgment.
 
 ## Changelog
+
+### v1.3 - 2026-11-15 - Multi-agent source reading
+
+Section 1 keeps intra-unit specialist and reviewer contributions in the unit's transaction record under topology Section 4.1 rather than requiring a packet for each, and Section 11 adds that section's acceptance criteria for substantive source readings. Transfer, receipt and publication requirements are unchanged.
 
 ### v1.2 - 2026-10-24 - Audiovisual reconciliation link
 
